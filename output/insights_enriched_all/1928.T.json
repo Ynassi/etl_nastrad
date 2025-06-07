@@ -1,0 +1,649 @@
+{
+  "ticker": "1928.T",
+  "name": "Sekisui House",
+  "sector": "Industrials",
+  "market_cap": 2103066755072.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 9.661913,
+    "PB": 1.0023855,
+    "EV_Revenue": 0.857,
+    "ROE": 0.116059996,
+    "ProfitMargin": 0.053639997,
+    "GrossMargin": 0.19365999,
+    "DividendYield": 4.44,
+    "DebtEquity": 91.503,
+    "CurrentRatio": 2.386,
+    "QuickRatio": 0.386,
+    "FreeCashFlow": -864455884800,
+    "OperatingCashFlow": 62884999168,
+    "FCF_Margin": -0.21299451339968667,
+    "ROA": 0.05075,
+    "PEG": null,
+    "EV_EBITDA": 9.492,
+    "BuybackYield": null,
+    "PriceToFCF": -2.4328213759092683
+  },
+  "technical_indicators": {
+    "RSI_14": 27.216416243592107,
+    "Momentum_10": -5.15625,
+    "MACD": -22.196716027694947,
+    "BB_Percent": -0.3619301868469282,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8964188965962743,
+    "QualityScore": 0.3794518405166065,
+    "SignalScore": 0.7469667241479006
+  },
+  "volatility": 0.014536775455977,
+  "beta": 0.403,
+  "return_6m": -0.1407810047532489,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 9,
+    "target_mean_price": 3882.2222
+  },
+  "news_sentiment": {
+    "summary": "La tendance clé de l'actualité économique récente est la comparaison entre le rallye boursier actuel et celui de 1928, suscitant des inquiétudes quant à un potentiel krach. Les analystes soulignent l'importance des élections présidentielles sur la performance des marchés, avec des parallèles historiques inquiétants. Malgré des signaux positifs tels que le bon rendement du S&P 500 au T1 2024, des avertissements émanent de Goldman Sachs concernant un potentiel déclin estival. Les investisseurs devraient rester vigilants face à des éléments alignant pour une potentielle chute boursière, tout en surveillant de près la performance du marché pour anticiper les résultats des élections présidentielles.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The 1928 Rally Was Just Like This One - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1QwdlNFTWhHWFJUNW5WSVBFQlpGT3VpWDNVaFZQMjk4UldSWDBydG03MnJOY1FkSjVaYVhKcVhzNEdnQkFReTNzSjJhcnBTejV1eGo3ZGV1eTB2M0Rud2d4NnJUdE5oa0hvRW1wYl81YWdycW1GR3lCdXVra2xsamlhWlVCR3NydFkyc0dRb3ZKOUZhdXp2b29RUHpwTW50dl92UDVRQW5rQkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2024: It Was (Another) Good Year in the Stock Market - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFIzZUotam9qcm1WUEplWnhIcVpFRU1MYy1QS1BYLVFrTU1pRjE1ZFpySG00TGdsN09KaGNiUTVPVFFFRjZlSVZTeEwyOTdZMkczYkFlTDMyWDczWDBBdGQ4ZDROM0NoSHQ2ejhsZ3FXVGR0NlR2dTllYzRHYVNFTkFWSTh0LXVQSjFhcEMwM1BlMWNvMHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stocks just did something they haven’t done in nearly three decades - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xMW9BbWhJZUZ3cXNNUVFVRUFxaU1KVFpwS3Zha25WZjhDOFFUemlUS0dQczJyX1ZkWms4ajhSaEwwckJNcGlOSUxyNGR1N0RGcnFkM3FCaTRIYXZ5RlI2ZjhITWxFM1M4b01QeFNueWFiLWdidFhDQW1B0gF_QVVfeXFMTm9VNWI2cGxsWmJ1WVUyM21sUlk2YWZrVjNzczh2clFsTkJzdHF1Y01FbDRnRUMycFZKYWdudHFrb2VDZzZaVXNuZ0hyTTN2UExyZjZ4Z3hQTUZXYkxqN2VHTW9RMGdEbGxZc2FDeklkcXlBRlY0RFU3MEI5elNlUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market Crash of 1929 and the Great Depression - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckg2aUQ2dkROMEViZHpOLUFFRUVmQXRSdEYzWjZwR2FOMkU5TjlsU1FNVk1LUFFrSTdFeFZKMzhXRlZsWEVqT3h3MWhUWG5aV3lUSl9uclg1T1FRaHJhOUhjeWJOQjY1ZTRkVTBjeVJFZzdUTnNuZ2VoYUl1cmRjcVFUM25hLWNsRmRrWDNodjAzY0xwa3E5eXJsR3J0aU5FRHF2OUF2UkNUWG84bTdwaGJ3VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts say there has been one other post-election stock rally similar to Trump’s - it was in 1928 - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzdKdUdtc1E3ZFRJTHZ0RDFxTlZLNkhOMERTamZXQnEtcTRyVFYzRkZxWWo1eU1aekdTOV9IdHVJWm85YWNJLXlYNXZVM2c5NjJqMnFRR0FFMVlhYUh3VFVSUUpIX0hoM09jUDg4bXJEMGJ6Qi1CN19wUTdPbGgxNzNxZnBVTFJSSDVxa05NUm01MWNxTk9ITkxvd1JOY00yU2JkN3ZpTFRQeUhTaF9DZnN0TW9EUXhudGVr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What investors can learn from the S&P's performance after presidential elections since 1928 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTU4V3ZxYkpzeldWMUkzYVNiSEtTQkgzR0lIdXpYNmxfTWQ5eThJMVR3TzVVZjBmc0ZvRDlGVVhhS2lIcWhzVHRvZkdUcFhGdnFycG0zOU9YMjBoa2NTWWJQd05JYVdjVjhhSVB1eUdFZURlMzdkNnJMMmRCSnc3NU9pZDY4VmcwckhfZ1FDeFBPc3FHUG0zZEJSbm5ENFnSAaQBQVVfeXFMUGNqNUdJY29hVzQ5RXdtRzBRVVdGTnJYN1I2YVFxWmVERWJpanRyT29sbC1rOFhHN0t1OVBUUnh3N0VFZHFMU0lMWnFzRWtyQllPcGxaVi1vNEhEYkVPN0dqcnh6eUxpSjI5OFA1SWZtdEZibzNiNldUd09MWXFOTTYzLUViQVpyLTNVX2VqVUYzNDJZRlNaZm1LcUlETm1BU2dXYTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don’t buy the dip as the summer slump is officially here, says Goldman strategist - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1TTnM2MndlVmlkWTFpTUVhWWVWajFlR05PUE5JVnNoZHRJMW5Jc3c4bkJ6a0FlekdkVHQtQjVqdEk3NUtMLVFJbmlLTkx3bkhZdE53OTBYVndsX3NaSlcyZlFpcnM2QUxvSUNhb1hCQjVZM0YxSGJjYXhPejZOM0pQZ1ZpZkd3YzdocF9ubXdQRWRra3AyWkFBbmhHYVI1aldMSEVhTUZRTEdCWHJsUkhsODMzM1JabTd5MTRSOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How do U.S. elections affect stock market performance? - T. Rowe Price",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcG9CQ2ZHdGhzNkFGWUVPdzVDTDVuOGZUYlFkVy1ZMWtnWHZvQ2R1RzBhTF8yRGxiYmV6a1I2LXpWRFpFdThYRzdHZXBlMGNHeHpqMTVIenJvaTAyU3dmWl9DekhOeE9DZ2o1NXVvd3pXdGhrUFZjU3p2VTBnWW5SbDl2dWx0UWpLN3ZoRmhTQTl0NUdwOHZiSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Some Early Lessons From the Tariff Tantrum - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3lSd19oNkVxNlZwWTVDLURncW9vUTN4TlJjXzJfRjBNeDNIeUUydHJ4VDFOWVQyalhtTHA2V0lnVUlSQ2JKM2VMN1NLM1k2NFpobWNRUDRhclNTMVk3ZmtvWHpCSzFWZ3BFZzdQT2dpdTBENGFKTHBzV1JDZ0VfNDZKaHI2ekNiUTFZQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Election 2024: How Stocks Perform In Election Years - Bankrate",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yYUM4QkdSV3BsdHI4Njk3bjZaYTVKV1BqRDExYlFCeWJqLXRjaTlSYkUwa3ZVNnIzQWdrVlNydmZneXNuZ3JWby1pV1VBeWVaVDYxRm9lSzJOVmlOd1pxbmNRSmctVDNVOWUzY1lqdmNxTVo4MVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the stock market can predict the outcome of the presidential election - markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm9UOE80aTV6R04tNzBONFhlNVliZDZSVXZ0eEZkd1ZSN28yd0o2SW5UWnVPRUtqMUJCaXkzbDNqVE84Z1ZENzFLYmNJOFJkSHRSNGVDOWJpOVk5eE5pUk5TY0Z6d2d2NTkzVFNtYkJ0czc4M0UwT0plcGdiOHBUdU8zbU1qS3ZaY0ZYZktrWjkxSlpJU0tlLVRybERPVVR1cDJTTF9nMlNSaWpSU2tYdUtuUFpJYVZwME1XcUtvbXp2VDVmMWFWaFBiOUhiMms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The path of the stock market since 1928: Morning Brief - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWJDaVlOczlNWmJNTVo3TzNiTnV1ckNnc0pJTk1qUnRBc0dvbkYwdk1IenBQYjdpNS1HcmppLVJUOWFIUkNaN21RVDYzckt1TmI0Z3RCTEtPTFhwbHNqRFk1VklodEVwLVl3V2FnNnpwLXdTZGJGOWs0Wk5acWluSEczME9la0Exd3ZKN1JOd0RMYXd2RkNvRnRhMDE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "September Is Once Again a Tough Month for Stocks - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQWWFpYS1IbGNEUW43WG5VSjhnVjgtb1RyRTBvM3kySWlheFg0bzlfQlZYRTRKbGxfWHFhMi1kRWNDeG1kVFE3aXBMdkJVd0lGdDhwMmhUSjRzOGpLUVhsbWRwa1FLTXhWeWd3ZWxhQUI2UFJ2aHhZbHNqV1JaSEFEb0VFZEdHbXdDYnl3Zmtqdm5IMTZ5U0dGbnNpUjBlSk5NRTVHMXRMbWFQelNiRFZVOWItLWlWWjA0YWdLOXpXVG4yemZzVDJDUVVieXlBQUVzbVUxTFE1WjBGTXh4ZkZrMV9DREtjNld6Q00zQTM5cVp4YkJIY3VTSlBkM1N3LWtuY3VjWHQyaFlvSlVHZWdoR2VQd2NlcWZUTVFVNEo4dXMwUEpyWWJjc3lYRmV6UzVIdUhsM2Zka0ZJbGlnWURraTNFcWF6ODBncGFvWHEtcTdLdUw2dHZUQVo3Q2t0RVYxdmJSUUNvWGpIYi1INk5wMGlvWGNWcGFTWnIzOVVMVWVuS001STQ4TVd3SWlyalF4aXlQdVRhcFpGWDJ6?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sekisui House (TSE:1928) Has More To Do To Multiply In Value Going Forward - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmprb00tWXlNVmpZaU10UER0c1UxdlNQRkpNSjZZc2FCSi1KdjZ5d0hrRVE0b3JSc1BLemNHSFpYLXBYckpuR3MyTklQbkN2clp1eUVubTVLR2N6cmhaNGtqN01iamlPaUJKblh2SC0xdTJ3QUtqWmxTLW1VNVpuNWh1YU05aE84SExIZm01Y24ta0hxbEVCc19fOU5vWFFMYzJlWmxFcVJBOGJMWUVnQU9FbGg5Vm5mMXEyMF9sOWUwU1FRRGE1QWhNN3JQbmxzY2FvclJ1RWZEMmFoUHfSAeMBQVVfeXFMUEhobGJPb2k1TGEtbWlNMFFGcno2Y24ybTc2bzZiWHFwSVJZcnVRQktjY2E4eWpJMVhLSjZtVWlXclhKRVV4Z0U3amNwTHQ4Vm9ndGRfUzY4ZmF6U1NKTFNYQ05GYTFSaUFrOEdTZXVRdmlZaGFUZlhQYnI5dk1qbHNYZ3FTWTVzaXpCaEl3R2JWRDZjOGxxNWFZYjBFTU5tOVhJMDBWcjBKNTh2RDc0WGxUeG04VlF3LXp0bTl6T2NBLXBuRDFfQ1JRTVhJOHBOejBVeGlueEgzYTBJWnFkSWtTS28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 set for 14th best Q1 since 1928. Reversion to the mean won't sink stocks in 2024, says Deutsche Bank. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNzdLSU1HX1h0a3BiR1lCZzdGNDBNUHd4SEFZMW1Jdlk1VHR0UUF5bnQ3OElXZ0VJdmNCeC1Fem1UTk9TRERZVEh0ZlluRFBHSXFxcHg2bUI4QTBCVUVOcG9icUVnbDBfZWY0c2llT1hQaTI4Nlk4RWV4c0VLYmM3S1NOMnBhSmlwN3MtVS1HVzBXOGgxYUNjYjJacENRRlJ0d2lkUDJha2IzNkRVUmR2T2QwVVBybU1mZS1KSDJUdFRRam9zNHNyeFJnZjBvZF80ZEZPX0dlQjZlbW5FOVFzT1l1MXNEVVBOWlQzSTlZSjliRWJCNU52SFlubENMenNBR0VvaW5XWnQ3QjF0S0VORGhXN2owSGxGM3NUWC1pMHlVSkltak1SdVBoUFVOTjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Opinion: The elements for a big stock market drop are aligning. Here's why investors shouldn't panic - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxINEMwaGFLdG55UlRJcnRqQmdPNzAzTUZfajlTd3RjNk0tcXB4NmZTRG13YUR1Y1p2UFdfUk04NjBHS3Y4ZWFDaDhGS3o3WVBkTUhDUGJRNHJUQVd6OGpxdDdzSDJxUkhIZXp6WXpmZFFhbVd6akNVZ25tRXo1SXEwTHgxVkRDVk5kNU9UTHJDYXJsQ2N1NFJtMk1rWTZOemtZTVdNOXBTRTBqOXZNR0h2NmFLSEw5cWRzNDdzU0J2OUXSAcgBQVVfeXFMT2FOaTF3RFAxeDd4VElIcFRxOVdUVDNidTk4RXdOS05QNGt6R2tCS3Z2QUtZRTBkdW1TTmlJUm1Ba04wZ0ktaHVoX2tBMUl6andvMGI4REpuYWtfaEVjeEk1a19Mcnp0VDBFdFYzbTR6cGd3QUE0V1NHYVVGWTBjeWp3ZGVaWURfX3dkRGlvWERwcUVia2ZNMFBZemZwVWhzdWYxQm9EaENya0RGUk1sdXFnVVN3aXhHeElOWWxlQlE3ekNsLWZNanU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Average Stock Market Return Explained: What You Can Expect In 2025 - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFM5a3EyampYQVNYSDZFelJqbE9VcGxENFZkSDNpRGRSdk85TDBzSFhsYWMzZjNyWVZmUHpJbkljOWwzdkhlclpEM0VVa1ZzV3A3M2VxQkhmeUg0a201bllaRUc5U25HUVZBN25fY2RIRFZmcEhIM2czeEhEaXhRSnFSVzctc2JrbjNEZjlmNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "U.S. Stock Market Gains & Losses By the Numbers - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGc0TWZOODJ4Z3YzU2ZZMXFXaTgzb0dLeGJMNmczTndVWHJJVkF2VlJjLWNKS1hQVUlvUGhxUUloYXhCelJRNndzamRkQURJVVdPRWNNTWU2V1VzYmFUWS1mMTkwUFpjdjBHRHNvanpjVjZmTDZlMzVoV3Y1QVVZeXBZNDc2NEZQa3pJdFdkdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rolling the Dice on the Stock Market - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGVQVEdqQ29JYWRmOTlTRjA5R1dIbmkzOWVzWDkwYlFhSzc5SkIwVmVDY1dJYWw2bHVMa2lCRGV0QnY3YktKRlJjRmlxSnczLTgzTm1HN1JOZndsQVVRZVdud3IwREsxbGR3V1dhWDVCekNRZUE3QWtNYy1YNURRS1g5b0s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4 Charts That Explain the Stock Market - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2Vjbkc3eXRPeHRISFNWSTR4ODB4MzRtMWpnX2cweHVBQnVBZ21nWU5lWDloS0xUYllyb3pxNkxvMUNFWXI3andDR0c1VE5ILXcwRjkzWmdPcW8xb3VUU0xRMnJsM3BfUUFNZ1hzMFktSExlQmRCVzg5eVdvQ1RVU2Vvc19KQlU?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-06",
+        "price": 3611.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 3623.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 3628.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 3612.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 3652.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 3641.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 3693.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 3684.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 3627.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 3579.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 3615.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 3633.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 3638.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 3687.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 3744.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 3785.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 3782.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 3758.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 3752.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 3703.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 3653.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 3603.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 3590.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 3580.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 3593.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 3565.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 3588.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 3622.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 3593.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 3599.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 3600.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 3658.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 3663.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 3668.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 3599.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 3583.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 3490.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 3496.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 3519.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 3554.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 3516.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 3470.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 3430.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 3496.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 3457.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 3480.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 3456.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 3456.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 3354.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 3352.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 3370.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 3400.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 3429.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 3390.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3434.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 3385.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 3387.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 3352.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 3385.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 3355.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 3321.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 3334.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 3312.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 3314.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 3364.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 3386.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 3369.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 3348.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 3365.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 3398.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 3421.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 3442.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 3437.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 3340.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 3371.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 3311.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 3198.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 3142.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 3003.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 3122.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 3074.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 3262.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 3162.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 3161.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 3179.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 3214.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 3239.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 3248.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 3184.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 3175.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 3234.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 3225.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 3240.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 3276.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 3276.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 3274.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 3288.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 3297.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 3298.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 3333.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 3363.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 3384.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 3347.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 3295.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 3329.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 3325.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 3307.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 3262.0
+      },
+      {
+        "date": "2025-05-22",
+        "price": 3200.0
+      },
+      {
+        "date": "2025-05-23",
+        "price": 3225.0
+      },
+      {
+        "date": "2025-05-26",
+        "price": 3270.0
+      },
+      {
+        "date": "2025-05-27",
+        "price": 3283.0
+      },
+      {
+        "date": "2025-05-28",
+        "price": 3291.0
+      },
+      {
+        "date": "2025-05-29",
+        "price": 3291.0
+      },
+      {
+        "date": "2025-05-30",
+        "price": 3283.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3291.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3266.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3245.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3035.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3065.0
+      }
+    ],
+    "current_price_data": {
+      "price": 3065.0,
+      "change": 30.0,
+      "percent_change": 0.99
+    }
+  }
+}

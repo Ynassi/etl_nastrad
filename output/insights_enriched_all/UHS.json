@@ -1,0 +1,661 @@
+{
+  "ticker": "UHS",
+  "name": "Universal Health Services",
+  "sector": "Health Care",
+  "market_cap": 12213389312.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 10.641774,
+    "PB": 1.799905,
+    "EV_Revenue": 1.071,
+    "ROE": 0.18473,
+    "ProfitMargin": 0.07442,
+    "GrossMargin": 0.42712003,
+    "DividendYield": 0.42,
+    "DebtEquity": 73.981,
+    "CurrentRatio": 1.321,
+    "QuickRatio": 1.089,
+    "FreeCashFlow": 849583872,
+    "OperatingCashFlow": 2030743040,
+    "FCF_Margin": 0.05282143690023552,
+    "ROA": 0.075679995,
+    "PEG": null,
+    "EV_EBITDA": 7.351,
+    "BuybackYield": null,
+    "PriceToFCF": 14.34235648013808
+  },
+  "technical_indicators": {
+    "RSI_14": 53.45615771434544,
+    "Momentum_10": -0.3475658581350991,
+    "MACD": 2.1234566980782006,
+    "BB_Percent": 0.451638037318877,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8952482170614477,
+    "QualityScore": 0.3149540550781858,
+    "SignalScore": 0.5809316135374114
+  },
+  "volatility": 0.0232589112361179,
+  "beta": 1.318,
+  "return_6m": -0.031134262103082,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 16,
+    "target_mean_price": 225.33812
+  },
+  "news_sentiment": {
+    "summary": "Universal Health Services (UHS) démontre une croissance solide malgré une sous-performance boursière récente. Les stocks hospitaliers bénéficient d'un répit lié aux dépenses de Medicaid, mais des signaux d'alerte subsistent, avec des analystes mentionnant des risques potentiels. Néanmoins, les investisseurs historiques ont vu leur investissement augmenter de 86% sur cinq ans. UHS est considéré comme un stock de momentum et de croissance fort, attirant l'intérêt des hedge funds et des milliardaires. La performance positive récente de UHS s'explique en partie par des résultats trimestriels solides comparés à ses pairs du secteur hospitalier.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Universal Health Services (UHS): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQWVRWlFRWUFvX1doZk1JVGprYXFtRGlFc3JDaXhnNnozUTZwRkNMSGJYOV9zSUtRSTluR1JON0d3WG9MczJIWDVxeEhaLXBudHluVzFTNkh6VGM4M0tDdG5lSUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley maintains Universal Health Services stock rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmhoR1VfOUtncEJEXzR6dnNoWWhTR0FkdXVqeE5XVjFpUi1KbmxTWTh2dGdYMXhkM0dfYW43ajFnMEVaMjFPVHpWLUFVVENoVzVfUUhzNTI3bDlSSWxVblIzVmQ1eGdmRmZ5bkNoLVY4R1c3R0Q2Y1lHdDBSeW96ZWpIUkQ5ZF96VzJ5SDUzSkxwVTJxNXVERlBzeTdtUV92eEJlYzdvSEw4a2p3UUZzZzMwZnl6SGRud1oxUkZGOHo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UHS Shows Solid Growth Trends Amid Stock Underperformance | UHS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1MzNjZDUjRkQUx5LVEzNTh3WGt6ZV9lVFFWUFVINzVLRGhQUEQ2M21GT19YUmZMTlFFcWg3bk43ZXVjVDZSTjUzY1hTVVpHRmo5b0FjYkpJNkt5R3NTOE1XZ1RTLVR2dXh2aC1yTHBNRGN4YzJYLVh0LXFSQjJqUTc4dTg0Q09OZ0RPcUgxaEJZM1g5QTNNWDd5bDVZbFZjWmFfdkF1Zl9SWC1sdkY0c1dzeFhmbDB1ajlRUk5BTE4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hospital Stocks Get Reprieve on Medicaid Spending, for Now - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPZmhzeXQxc08tTDROQnZVWVhBUnFvNHU4V1BPOGp1MmtVMmJsSVZYUmZObjdhYnZiSGtWMzdFUnZIa01Kdi0tdjhXeWFNNVZWdE12ZUFPZjJ2RXp0VTM3TmFodDdwVFNNdTBxeEdtdlNKWi1RQjgzN1Nqdjlwc1RTV2VMOTJKYlhqbE9NeTRXNWZsOHJURVFrUEpFYXpsbmdFMDEwZG5xN1VyTVZ6QUJrcHktN2I1VU1NRlYwUjltTXZXZHhXVEdUcGRGQ0FyV3FuQ2p6NThTSXBmOTRnTDZtdzhEbE5teHJHdURLeVp6eUQ1d2VvUllqZlRnbUZwZmd5a1RneGkxak9HVDlSTGk3TXFHVFdvdlY2bV82TkxhNzZ1bWdBN0xiOE1TWnpsVkhQWF9lVEd2YmlQYkJ6SEVMN2dXNFdNVXVvZUl2NE82WUNubzJEZlc1SlktbmZTZTVKcFFhTG9tWnJGYTNlWGpzbmdwZVVqQzJCeEVFY0xRZjE4clVHVGNlTUl0NzFrbERUN2RYYVc5N0NiNnNDejV3U3B5WTdVMk1j?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons UHS is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10dGpGLURrU2dwZV93NTJpVlNiTXhpUjNqejhCV24tQmN0YU9peF9wZkVLQkN1ZWNGRWJMRVFhbDNvZnNBTDdYd1ViMEtJakVEZDJjQk0xRFN1bW83QmY1VEFHY2tkWkFjU0dwdXlIX2FGT1E3cUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Universal Health Services Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2Q4RnVvWXVoeU44em8xbWxZQTgwM0hQRUlvbUpIWHB3NlVsbjR2WmYzUWsyUEtWR2psZ3hKQ1NWYkJsMnhtWWowWVZMaWJOcC1YaVE4Q2pHRTNnYXVYc2U0Z09hNGtoOElfM0RpbTYtWkxvQXVIZ2RDUERUM3NVbWpza3pvVEcwMlpxa1pxbGs4dHhnTXU5bjdLeVdtTlBmUVhHTzdqU1RQZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services Inc. Cl B stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTThJMTlDT1VxMVF1OGJobkZxS2t4R2ZaU3dTdW5pc1REeDI3UzFhMXZTOHUwc0NvVFpTUTQ1eVg5b2k4eEo3b3FJRVZEalozY1BPVnlHYjlXUVNPYXc2enZudFFtcGE5VzNKMkgtU1otbmlkQW52ZFV4MHIycW1PUDJJN28yU1RhUnVVWGhlbk10Ul9xVWk5aHJoVFphRHlZTi1YZGk4M0VqN0pXTTAyRmRjTVVLRW1MRWx1VFFzZklBdU9scEFERGx0cl8zMEpUeU1NTzVHbjJxU3d4NlFZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Director’s Bold Move: Universal Health Stock Sale Revealed! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VCanF6Yzg4LTFPem8yd1MyV2VYSjUtVWZzZWFtbXhEY1kxZFhHY3RpOVBIQS03LUNnLW16NkFhS295R3dTYU1RTG03c0FzMnBYbVZjZnI3ZXd3RzVJaVlNR0l2bE5rcVk0VFFVdGNnbkNpTzhDWkI5RWJ1bGxMR3d4YWFMTHREVGdId3Bwc29XTHV0MWxTNUVpZjVBNlJiRVNjMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Universal Health Services (NYSE:UHS) five years ago are up 86% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUwtaWtRSkJDR0hFbUMzSEpBSGQtTUVNaWw3b2o3YXZKdHA2OS1rVHhWOEwxcE9WbFNiSzZaRld6Q0lRd1BESEtETG1VQUl3WHY2MzR1dEN4czJzWklLYTNxaklRcFRLSkdwTmVETHRrSl9TMkFPSUo1TFVQaDl1RzBFQ25zZjliTTlXV3FlQVdtMDNHZ01qX0E1UmZPSFNvT2hTN2EzakF2UjJFcjRNV2t5VDI4TjlPZFdfNGhZY211VFhrbmxIUkdYUGdvZHRZVWxJaWN0ZHQ0S0tnV1HSAeMBQVVfeXFMTnN4NTBFa2ZjQ3A2dGdYNmlzcGprRy02VDdyaTMtWm9QTE1oVE1Jdi1rNlp3TXBlcEYxdkZCX01WYVM3ZVpaTk53Q3FGa3pPUWtjWEtieU40V2ttVHZ2UHJsaG5TRmlwOXNvX0k5eVVnNkpGeUlUREpMeXpuNF9aUDROYy1ORzg4TGdfQ0wzODlxUW1uOHNFVTlhNlloVGpJOUt3SmQ4SE51NmtOWDZMdmxrWnpYU0lEZ1RseUZid1BaWk9NMlFtNUJpVDFCNkRmMzhsZUVpcGtPMUR6eWxfdzFCM0k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Healthcare Stocks in Hot Water - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb09HZnBYWEJKOHMxZUpsVnk1M3RUOUJtdndKOXVHMHQ0SzM4ZmFmTmJMdDlBZDNvMW5PTFdxRmtUUXBvYTltT1RlclhHVzBfSGxmdmJxM2NKek9RdUFibmd3bXlVZHRzaHJsWG1PQktHSWJ5N2NMSTRsT2EybE5iUEw2MU95VWE4V2RuR2N0V1kwQWpLVWpHdXdOcTZDZUhOaG1neGxESQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services, Inc. (UHS): Among Small-Cap Healthcare Stocks Hedge Funds Are Buying - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN29CVlRtY2puSkVOQzM1VEJLT19fOWJzMGozVVZ6NGUwYmtZT0VEZzhmNUNtcGlzYnpPMEpNZmIxR0IyQmpuRWZQMzRIWXRtSzliSUZHM0REQjhIZGlHMm5RSDY2Tmg0NU1MWW8zZ0Y2TjY2RVoyTDROaHJvVlp6LTFsNGEyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Momentum Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZ1SU1OS19PaGhXZFVuMEMtdFY2WlZ6eHczclNRLVF6bWJlbkNiZDhVaV9tMEItQUxGVlJLOVlOXzhjRkVOTTZOdlJlWGFVX3pfbGR4eC1SUUE5RzJsOTl5cVA3QWk1eEtVbEI0ek5rV1l0UGVCQ0lQQWdDdEpGdHhZX211V3Y3dXd5OVloVk5JQXZFNTF5STEwUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services Inc (UHS) Stock Price Up 3.41% on May 27 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUx2bWlMWnRKOTdUbG5PV1gwa29QXzQ2SnNhaE1VYXpMWXJNSmhSZS1PdXZ0M0V1Z3duY3g5NUhUQ1lOZko4VTN6MDNTSENXdGV2dWdCTXg5bEM3Qy1LcnRGZ05udUNKN3FXVE1qZFFJU2tMT211SkM3bmYxbzRud184STFyV2x3aTdmTjNyVWRXS1p4ZXgwSVphUlE3MWFZXzNv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTdBTEZXR0ZRbmZMVjVtRnNROF9yWFZRc3JtSTB6SGs5c2JLUE9LY0tob3ViWnk5d3FqLVZnZkgzd0lyZjZuWEI1QW1UQXpfRVlDZEdtTFpuVTE3QUtSWXM4bE9UTDlRNWpYYWc4SXVzY1VjTW51NVFNdlFSaG9Gb0s4WmN3X3lw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services (UHS): Among the Best Healthcare Stocks to Buy According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUNsZnlZMnpQdTRYbExOR0l5ZGlFUGNBbi1lT1kzX3BLSjFBRTk1cEM2bEotN0phQU9ZeXl2OVB6U3ItYzZmY2xlWlJIWXpzaG16cVBuWjNvcGFWNHNFam1FNFY5WVlHMGgxOHFDZENNb1BPNUl2V2lUMW91Mk1SYmJwTmQtS3RU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Universal Health Services (UHS) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3BYdkMyeG9saWtVM0JUQllQVzVjTUlwekhzVUwwcHVrMldTNDRJaDNsZ1VtM0hWcmRvdmZvVnloT3RGN0otYUt0UE5XanJ2Ul80aWhObFJ2S2ZzZ1poeHJGRjhodjQxQ3MxMnVXbGI0YXRLd3EtRTdfUm9ZdGdwdGJDOUdFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU193Ym9IanpVRE5yWXNtM3A5dlRiVGJBR1FKck4zeldUaUxPTTR0bHYxRzQ3ekxXZ3NmZWZ6LTNWUFptSFNSX1pZOEJUUGREUmt3dVl1amVVcDhFNWpsSUU5OW1uNnJFY01XeU1XekxOM2dUeGcxZFZuWXJIbmZ2WU1qT1BBOHJI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Universal Health Services (UHS) Up 12% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjJxTnhYT0VBQ3pEVDBjby1iUXpBSlJTbHI5eFhqTC1KVkdoVEhNeWxPRG1NVEtfcWNmSmVhTTM3M0l4dmxHQ2hNamFRS25qc3NZUEI5VWJFMktHNzZYamg5THQxVFdjQUdFaXNacEQyUXBzb0Y0c2w1aXZWNzZKSUxsNjU4Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hospital Chains Stocks Q1 In Review: Universal Health Services (NYSE:UHS) Vs Peers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzk3ZTVaSllERk1ocUhlMkliU1pGWEdiejFGNkRwWWxYWURmUm1kODB0c1E5SV81VU9DWEp3UjBQMFF2ZDhVZ0pxMnE4RmllTVljdEtIUkhzTHI2ZUFoZGpMOTJZTkFvak9pT2R2bDg1aU1HZWlveWZsN3RuQllGbElNWEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hospital Chains Stocks Q4 Earnings: Universal Health Services (NYSE:UHS) Firing on All Cylinders - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXF1Z3JEUjgzZGN4NXRUNi12ekZLT0Y3c1BRTGJlM1REdkstVUViODgwU001bHlWYkNNT2Raa0VPY3ByU2dhM0RDbnI5bDhENllzcEJzUWNYWm1FNDRDZzlIU21YLTRXRERBNE5ubld6Sll2OHZWX19kNjRSR1RmbnUxWllnZE0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 192.85
+      },
+      {
+        "date": "2024-12-10",
+        "price": 191.7
+      },
+      {
+        "date": "2024-12-11",
+        "price": 190.71
+      },
+      {
+        "date": "2024-12-12",
+        "price": 186.44
+      },
+      {
+        "date": "2024-12-13",
+        "price": 187.4
+      },
+      {
+        "date": "2024-12-16",
+        "price": 184.16
+      },
+      {
+        "date": "2024-12-17",
+        "price": 182.6
+      },
+      {
+        "date": "2024-12-18",
+        "price": 177.53
+      },
+      {
+        "date": "2024-12-19",
+        "price": 175.8
+      },
+      {
+        "date": "2024-12-20",
+        "price": 180.11
+      },
+      {
+        "date": "2024-12-23",
+        "price": 180.72
+      },
+      {
+        "date": "2024-12-24",
+        "price": 181.22
+      },
+      {
+        "date": "2024-12-26",
+        "price": 181.13
+      },
+      {
+        "date": "2024-12-27",
+        "price": 180.46
+      },
+      {
+        "date": "2024-12-30",
+        "price": 178.37
+      },
+      {
+        "date": "2024-12-31",
+        "price": 179.42
+      },
+      {
+        "date": "2025-01-02",
+        "price": 179.67
+      },
+      {
+        "date": "2025-01-03",
+        "price": 178.89
+      },
+      {
+        "date": "2025-01-06",
+        "price": 181.06
+      },
+      {
+        "date": "2025-01-07",
+        "price": 186.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 190.33
+      },
+      {
+        "date": "2025-01-10",
+        "price": 182.93
+      },
+      {
+        "date": "2025-01-13",
+        "price": 185.74
+      },
+      {
+        "date": "2025-01-14",
+        "price": 184.16
+      },
+      {
+        "date": "2025-01-15",
+        "price": 183.59
+      },
+      {
+        "date": "2025-01-16",
+        "price": 184.06
+      },
+      {
+        "date": "2025-01-17",
+        "price": 184.8
+      },
+      {
+        "date": "2025-01-21",
+        "price": 188.78
+      },
+      {
+        "date": "2025-01-22",
+        "price": 187.03
+      },
+      {
+        "date": "2025-01-23",
+        "price": 189.9
+      },
+      {
+        "date": "2025-01-24",
+        "price": 185.77
+      },
+      {
+        "date": "2025-01-27",
+        "price": 191.27
+      },
+      {
+        "date": "2025-01-28",
+        "price": 188.71
+      },
+      {
+        "date": "2025-01-29",
+        "price": 187.18
+      },
+      {
+        "date": "2025-01-30",
+        "price": 189.29
+      },
+      {
+        "date": "2025-01-31",
+        "price": 188.56
+      },
+      {
+        "date": "2025-02-03",
+        "price": 190.71
+      },
+      {
+        "date": "2025-02-04",
+        "price": 192.64
+      },
+      {
+        "date": "2025-02-05",
+        "price": 193.27
+      },
+      {
+        "date": "2025-02-06",
+        "price": 188.43
+      },
+      {
+        "date": "2025-02-07",
+        "price": 187.93
+      },
+      {
+        "date": "2025-02-10",
+        "price": 185.35
+      },
+      {
+        "date": "2025-02-11",
+        "price": 185.95
+      },
+      {
+        "date": "2025-02-12",
+        "price": 179.24
+      },
+      {
+        "date": "2025-02-13",
+        "price": 182.81
+      },
+      {
+        "date": "2025-02-14",
+        "price": 181.54
+      },
+      {
+        "date": "2025-02-18",
+        "price": 183.04
+      },
+      {
+        "date": "2025-02-19",
+        "price": 183.42
+      },
+      {
+        "date": "2025-02-20",
+        "price": 184.17
+      },
+      {
+        "date": "2025-02-21",
+        "price": 180.03
+      },
+      {
+        "date": "2025-02-24",
+        "price": 181.46
+      },
+      {
+        "date": "2025-02-25",
+        "price": 189.01
+      },
+      {
+        "date": "2025-02-26",
+        "price": 180.12
+      },
+      {
+        "date": "2025-02-27",
+        "price": 186.06
+      },
+      {
+        "date": "2025-02-28",
+        "price": 175.25
+      },
+      {
+        "date": "2025-03-03",
+        "price": 175.8
+      },
+      {
+        "date": "2025-03-04",
+        "price": 173.3
+      },
+      {
+        "date": "2025-03-05",
+        "price": 177.72
+      },
+      {
+        "date": "2025-03-06",
+        "price": 175.42
+      },
+      {
+        "date": "2025-03-07",
+        "price": 172.66
+      },
+      {
+        "date": "2025-03-10",
+        "price": 174.55
+      },
+      {
+        "date": "2025-03-11",
+        "price": 172.52
+      },
+      {
+        "date": "2025-03-12",
+        "price": 166.61
+      },
+      {
+        "date": "2025-03-13",
+        "price": 163.99
+      },
+      {
+        "date": "2025-03-14",
+        "price": 167.67
+      },
+      {
+        "date": "2025-03-17",
+        "price": 174.58
+      },
+      {
+        "date": "2025-03-18",
+        "price": 176.34
+      },
+      {
+        "date": "2025-03-19",
+        "price": 178.08
+      },
+      {
+        "date": "2025-03-20",
+        "price": 178.7
+      },
+      {
+        "date": "2025-03-21",
+        "price": 174.14
+      },
+      {
+        "date": "2025-03-24",
+        "price": 181.58
+      },
+      {
+        "date": "2025-03-25",
+        "price": 185.91
+      },
+      {
+        "date": "2025-03-26",
+        "price": 184.46
+      },
+      {
+        "date": "2025-03-27",
+        "price": 186.53
+      },
+      {
+        "date": "2025-03-28",
+        "price": 186.18
+      },
+      {
+        "date": "2025-03-31",
+        "price": 187.9
+      },
+      {
+        "date": "2025-04-01",
+        "price": 187.81
+      },
+      {
+        "date": "2025-04-02",
+        "price": 188.78
+      },
+      {
+        "date": "2025-04-03",
+        "price": 188.73
+      },
+      {
+        "date": "2025-04-04",
+        "price": 174.53
+      },
+      {
+        "date": "2025-04-07",
+        "price": 171.67
+      },
+      {
+        "date": "2025-04-08",
+        "price": 173.28
+      },
+      {
+        "date": "2025-04-09",
+        "price": 183.07
+      },
+      {
+        "date": "2025-04-10",
+        "price": 178.24
+      },
+      {
+        "date": "2025-04-11",
+        "price": 175.41
+      },
+      {
+        "date": "2025-04-14",
+        "price": 178.82
+      },
+      {
+        "date": "2025-04-15",
+        "price": 175.5
+      },
+      {
+        "date": "2025-04-16",
+        "price": 173.66
+      },
+      {
+        "date": "2025-04-17",
+        "price": 174.8
+      },
+      {
+        "date": "2025-04-21",
+        "price": 157.05
+      },
+      {
+        "date": "2025-04-22",
+        "price": 161.3
+      },
+      {
+        "date": "2025-04-23",
+        "price": 166.79
+      },
+      {
+        "date": "2025-04-24",
+        "price": 174.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 171.68
+      },
+      {
+        "date": "2025-04-28",
+        "price": 172.91
+      },
+      {
+        "date": "2025-04-29",
+        "price": 171.88
+      },
+      {
+        "date": "2025-04-30",
+        "price": 177.07
+      },
+      {
+        "date": "2025-05-01",
+        "price": 174.63
+      },
+      {
+        "date": "2025-05-02",
+        "price": 178.74
+      },
+      {
+        "date": "2025-05-05",
+        "price": 178.19
+      },
+      {
+        "date": "2025-05-06",
+        "price": 184.16
+      },
+      {
+        "date": "2025-05-07",
+        "price": 186.59
+      },
+      {
+        "date": "2025-05-08",
+        "price": 183.77
+      },
+      {
+        "date": "2025-05-09",
+        "price": 181.78
+      },
+      {
+        "date": "2025-05-12",
+        "price": 191.55
+      },
+      {
+        "date": "2025-05-13",
+        "price": 192.17
+      },
+      {
+        "date": "2025-05-14",
+        "price": 187.83
+      },
+      {
+        "date": "2025-05-15",
+        "price": 195.88
+      },
+      {
+        "date": "2025-05-16",
+        "price": 197.94
+      },
+      {
+        "date": "2025-05-19",
+        "price": 196.82
+      },
+      {
+        "date": "2025-05-20",
+        "price": 195.73
+      },
+      {
+        "date": "2025-05-21",
+        "price": 190.15
+      },
+      {
+        "date": "2025-05-22",
+        "price": 186.65
+      },
+      {
+        "date": "2025-05-23",
+        "price": 186.21
+      },
+      {
+        "date": "2025-05-27",
+        "price": 192.42
+      },
+      {
+        "date": "2025-05-28",
+        "price": 190.39
+      },
+      {
+        "date": "2025-05-29",
+        "price": 191.05
+      },
+      {
+        "date": "2025-05-30",
+        "price": 190.35
+      },
+      {
+        "date": "2025-06-02",
+        "price": 187.38
+      },
+      {
+        "date": "2025-06-03",
+        "price": 188.81
+      },
+      {
+        "date": "2025-06-04",
+        "price": 188.65
+      },
+      {
+        "date": "2025-06-05",
+        "price": 189.09
+      },
+      {
+        "date": "2025-06-06",
+        "price": 189.39
+      }
+    ],
+    "current_price_data": {
+      "price": 189.39,
+      "change": 0.28,
+      "percent_change": 0.15
+    }
+  }
+}

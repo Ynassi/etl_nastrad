@@ -1,0 +1,661 @@
+{
+  "ticker": "APTV",
+  "name": "Aptiv",
+  "sector": "Consumer Discretionary",
+  "market_cap": 14299418624.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 10.73121,
+    "PB": 1.640071,
+    "EV_Revenue": 1.119,
+    "ROE": 0.15237,
+    "ProfitMargin": 0.07934,
+    "GrossMargin": 0.19249001,
+    "DividendYield": null,
+    "DebtEquity": 91.193,
+    "CurrentRatio": 1.614,
+    "QuickRatio": 1.075,
+    "FreeCashFlow": 1634625024,
+    "OperatingCashFlow": 2475000064,
+    "FCF_Margin": 0.08324209441449905,
+    "ROA": 0.05728,
+    "PEG": null,
+    "EV_EBITDA": 7.078,
+    "BuybackYield": null,
+    "PriceToFCF": 8.72185444776355
+  },
+  "technical_indicators": {
+    "RSI_14": 54.05426370371174,
+    "Momentum_10": -2.0460017403132267,
+    "MACD": 1.704653555399304,
+    "BB_Percent": 0.3618209849219512,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8951628278360932,
+    "QualityScore": 0.2698428988312444,
+    "SignalScore": 0.5901054141806032
+  },
+  "volatility": 0.0244604974945548,
+  "beta": 1.473,
+  "return_6m": 0.1540151682981294,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 19,
+    "target_mean_price": 74.88526
+  },
+  "news_sentiment": {
+    "summary": "Aptiv (APTV), société spécialisée dans les pièces automobiles de haute technologie, a récemment suscité l'attention des investisseurs avec une série de nouvelles contrastées. Alors que l'entreprise a été déclassée par Guggenheim, elle a également attiré l'attention des investisseurs, avec une série de conférences à venir et des résultats financiers supérieurs aux attentes au premier trimestre. Malgré la volatilité récente de son cours de bourse, Aptiv continue d'être considérée comme une valeur attrayante à long terme, tant du point de vue de la croissance que de la valeur.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Aptiv (APTV) Faces Downgrade from Guggenheim | APTV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUl1X0ZRa2UtaEdCa0UwUThuNXlFd1BxY3dZNmFjUzdLMUJYemVRMC0yd1NnNzRyWmRUQzFhekJmUm56MktxRFUycGZmckdZcFRLaXRXaHJNdzBwSEtJVmsxX1FINklXdF94NUIwUXk5RjNmeXE0R1drQ1R1NUhPWDRDNm0wcXdCYnozVkpwTENnaHJtRFFhV3o3OGppZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aptiv's Car Parts Valuation Contrasts Its High-Tech Reality (APTV) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUpnTFZKRVhrd0JjaEFwdThRNi1OSWk0LUVRRlotb3ZEVUhMZTkxcF9aT2d1SE1LOWE1UTlyS3J3Ym9vRXFFZFkxRldSMmdmcU9JaG9nMHk3WjJDVkZHd0Zkb19FTF82aE9QVU5OcDhXeDQxS0E2VWpiQ3I1amdCY2FrNjJTOV91Ql9oTlk1TEpwek1hYlI3UHpzdHpIcEk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Aptiv PLC (APTV) Stock Moves -0.06%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZFkwQnZqeDljWmxOWnUtR2pmM2dyVE1pdV9nVWdobFVJVkJtSk13T2dJVmxZbm8yM1U1YnZxUFpEVHdhbjJqcTVjYzc1YUZrSnhMVkFyVFI2ZC1ITzhOZXdvdTBmTENPa0Z6WVZ0enFqX2VBSWlrMXp3QTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Aptiv PLC's (NYSE:APTV) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzFteVk4Ml82QUhvOXc0WlpjZUtWZVZTdUh1T291V2U0RlcxdGFYWFVYVG9OR3YxXzRvVlRPaFBZcjlHd3ZacG1STmh4VFdDZmhoNXBfYzNZVlRTejR1LTAyLU15a0FuVV82SUQtVnFnRlZzOUwxQTNOTFQ1Xy1GSGJYLVYtZWZaNjhmejVhVmRLREVhUDVyQXN2RzhVNTBIel85UEpSYlRDS19LVGhHUDU5djI2U2t3TFExT3I4ZWFzdFHSAcgBQVVfeXFMTVg2bWRFWml2UUZ5d18xTC0zc0FCNGdkdmlUOGdUQ1ZOeFVvNDEwa1Z1bFNPTFBNUlQwNWd6QmJRZ19wSzdOMm9XaHplYks0N1FOaDA3a01KZW5MVlQ1Q2JHNkZGaTNrRUhXbFdhTGlUWmdheUVURFBBQVk1b1BodmhhVTAxWEw0M3V5ZHFVZFV0QWNZXzZyVUU1a1J6aU5fdHZxUFNJeENTRWE1MExFZ2dPWElrczdNbzZLLVdYTnQ4OHpzRWtrQ1M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv Q1 2025 Earnings: Key Date and Executive Insights Coming May 1 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUphMldTRFFfTzhIRXRzbUl6TVlJZ19WbENLWGpVek95WGpjUm1pMFQ3V2w5aFIyNmpvRU00LUVwSkJBODFUbXlJb3FCQnRZR19Ma3U4dnF6UWpiak1wYlB2MElnTGV0ekljc0tmcWVnQzNMNEgzb2RtNzVGNUcxOHpzckV0VEk4ZzFiREl0VUgtc3BzQXg5emFjX3dsZ1g3X3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWJ2M1dySWV3eGwzcWVQZkh0cnlGQUhpU29zN3FHbGJ0SWpBNXVzaVZ4eXRBMkptbUdYMGM5NGdZNXJKUHBXbGRhSzU3dV8tN09DNzlmQVlTMG50LWxPWnhQQkxyb2JfdDVISGIwTkwwd3hHZVhfSHlISVREaHp6MDVHX1puNDU1elE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv (APTV) Downgraded to Neutral by Guggenheim | APTV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzhWb1d5aGo4cm9fa3BhWEtHNWhrUXNOX0pTNEp4bVJKTUJ4alNja1RjVFJsVGxrU3g1UUlnc09aN3k0b0NDd29VcnR6QWN6MXJ3QzNoSk1lb3lFMVdsTkVSUHZIdHhUYVozTldXdUQ2RDlsYXJYaXVKcGNNZWxSVmhjZjRTTkVrQUd2OTRoOGFLSmJaNjM0YlRoX0htZ3hSTDFLaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv PLC (APTV) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UZUFYemJubTVkaUtQQWZjeDVCdnljVHFrV2tMbTZQQnkzUXd6Wk5mNG5peUJPMHMtM09Od1pLTldrc2szUlVUVnp3WURHWVZjbFAtNWdCSkQzUDFSYjdEUlNLT0ptNDdQTm9udXlhOV8tSUJJOW94MlVyTU4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aptiv Leadership Sets Triple Conference Schedule: UBS, Wells Fargo, Deutsche Bank Events Coming Up - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFlwb0g1RmtyOUNWNmx4US13YXE4UVlUNDAyak9vMElVc3JhaFBFSlJfd0JoUkNtZ0FyRUhmZklpRGl2cTY1RF9FbWh5SUFpemd3ZTdVWDhDM0laTC02bWZKR2ZWLXY2RUl3SUNwdFVfN21QZW1BNTUwTHUzSnM0UkxMdEY2bTdqLVhTd0hudEZLbk9uSTY3WGdrNE5EOElxaEJhT2NJbVZKSTYyQzNXdTJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv PLC's (NYSE:APTV) Share Price Is Matching Sentiment Around Its Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNBOGRXcFo3Z0xmM1EwRlR4LXI4WDY3eGM5N3Y3Ni1rR0tEOW9YM29ISUdYU00zQmVUY0NhQ2xUR0V3bmFMaWppZ0hRajI5ajNVazBDc3pRbzRXcjVnNElhLWtFeGNLZzdtQ0pfRDdHVXR4Q25UQVhjMnZtNU43UEFkNm9TTndfUVFBbHZ1QThrbU1SUWw3WUIzVlloS21OUjhjWlZLdGoxYWpHbGxKbFlES1RpbE5xZmdZbTVJY21aamPSAcgBQVVfeXFMTzltaTNhTkdHTnplc0wzV25iR0d6eHlOU2wzaVBXVzl0bkJ5VW5QdzJwclpVbjVJaVdDdXZYb2F4c1ZnblhuU3BabldTWjMzOXRHLTVTVVFYLWI3a0VxVWpfNW5TRF91ODgwNUp2X2F6V0tGQndtUWpBU2FvX0ZCV0J6Tm44N1VmVE5idXBoZ21QLXBpQWxWdGxWY25NUDFEcUdCbFNWOHdQTEEtdVpnbVBVRkFuUmtHZC1jN1BVd250dDJWUDBndUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Aptiv PLC (APTV) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWg2TjdkRXM3WnFjWTJmWlpTSXY0b1FYUzRzc1czMC1vZnlLNzgwT2RDT25qQkxsSFRPWkVLVEUyUzRJSGxMcGhXb0gtdmRmdXFSSVo4NjlhczU3MXVBUWpvcFFOT0U5VnRLN3F5bFZEUFo5dXdqLUFRR0hMZWJiM2NyamY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Aptiv PLC (APTV) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCd0k0WHVrU0lDTVlsQURiOFlJc0QyTWhYdDNfSFRGS3ZxTnFqLTB5X0JEWEE0bXFNMjlWRFhWX29xcXJfS19RVWdVenNIbEx2UVRVZ1BHaUE1Nzc2em9Md29BZHFQTi1JT2wxMDBuZ1V1N01ETTNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ServiceNow Expands AI Dominance: 450+ Enterprise Workflows in Major Cross-Industry Partnership with Aptiv - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmdlOXlVWGs5eVpiajExanQ4THJ2NnlQcGtLY1lEOUlwVnh6ODFEYWI3RlM0NEpMTVpLOGlvTnBJTmNseVpCZjJHVG5DS2VDVWh1WkdUYXl2cDdQX21sRk1FWC0xR2sxZjhIaUdtNURJbFhwQkcwSzM2aTdqcmFRZHo3RVlSMXhwbF9yaEpudU9RSmxnZWZsUGt4NTJIMFpHeGQzLUxyS1dSaXY2Q1d3OGFR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "APTV Stock Update: Piper Sandler Raises Price Target for Aptiv | APTV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmdBcW5jMlRxQmtjTDVOOUtqMjZsSHJVUDBGUDZjSlhMV2dRVlRYR0RPamoycTY2Vk1YV0FBV1BDbkRSaFlDSWFrQWZFbXM3YTI2SHF2Tk1od2pyZXBOaHhjWDA4UlZJUnhuclRQQ0dyZW5MQ19kcHlJaWVEYkU0NW9qaHlBOHRPMGswamR5NFpLVlZGdXduTHhlZjJNSDNDWmVaWm1IZG9HMHY1LVBWX25RS1U4RHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv PLC (APTV) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXJKaTZSNGtoMERIbkwxUFFPTjZnVDh3Z2xJOVJiWWdudTM2RzdxZW96NHUxNFpRNVA2Y3NMX3BQR2xxbTI3RVhCWnd4SVJlMWM5NHJaMzVFQ1gxdVg3WHJkb3ptMHRJS01iUGs2aHotcV9yckJnbUpla0tRVG1qUVppdXJLQVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Aptiv PLC (APTV) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wQVFaUENEUFllb2FEREdOV2pKNVNxZnZRbFlJalhxajlaZzNKR2g4c203UTFoT2FpN1JHMjVZR1NIbXd1UlNxTUN6VEdFSHN6UmozSVhBS0xwWElpZUdvN1dNVVlNSVhSUlhRODNDd3B5RmJxbTBF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Aptiv PLC (APTV) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10dTBlRlRZeUZEaEFFdGpyeHd3X3FkZEFLcDFVR3puQ1FaT1cwcXZKYV95Slk3LW9WX1RiM3Q1UWJZbnNSdnBPRXFYMXdvQVFxaHJLZXpLNVBiLWxTMDl3eHNIdnJNUjhpelN2cUEyd0phZkQyU3hBOFpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search Aptiv PLC (APTV): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTlJejFydlJWaVJoR2gzVFN4X1JNb0FKYUtQQ1p3VU5yUXlUTUxuQzB1ZnhXdTdRNTRsZWlPd3pacjh3bHYyUGp0dWUxU1BMTThPcHhyZzhjenpUUlZPc2FJei1FQnhzUEg2TEl5YjdzM2FadUlmc1RRbFBNRC10aEhLa0VHRzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv PLC (APTV) Q1 Earnings and Revenues Top Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBodFc4SHYxY2plREE1eW5QcmZXSElGS0J4QXFZRkVkN2tqWUVjaEhjTUpNOFZhQndTMVNIRV9VSVU5NWEyN2kyTkFaWDVxU1BmcWc1WXdSd3owQmdWQVZDd1NKa3JIZkF5cGh6U2hZTDFvS2ZsM3F4NDV1Y04?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aptiv PLC (APTV) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mV3pqX2hVQmJJVGVJWkNNcDNFckUxcFJUTFJnN2xLUDVGd3pzZFZ3aVh5eFhRcXZzV2dncnhTNUtDZTFxeHFwRTY0aFBDaEZzeTRLY2ZrMGJBYXBYUVgyenk2akt6NzdVM0hDNmdKZWRBbXNCa3FTZ3JxaHI?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 57.4
+      },
+      {
+        "date": "2024-12-10",
+        "price": 58.42
+      },
+      {
+        "date": "2024-12-11",
+        "price": 58.89
+      },
+      {
+        "date": "2024-12-12",
+        "price": 58.54
+      },
+      {
+        "date": "2024-12-13",
+        "price": 57.97
+      },
+      {
+        "date": "2024-12-16",
+        "price": 58.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 57.86
+      },
+      {
+        "date": "2024-12-18",
+        "price": 56.65
+      },
+      {
+        "date": "2024-12-19",
+        "price": 57.01
+      },
+      {
+        "date": "2024-12-20",
+        "price": 58.86
+      },
+      {
+        "date": "2024-12-23",
+        "price": 59.47
+      },
+      {
+        "date": "2024-12-24",
+        "price": 59.95
+      },
+      {
+        "date": "2024-12-26",
+        "price": 60.07
+      },
+      {
+        "date": "2024-12-27",
+        "price": 60.34
+      },
+      {
+        "date": "2024-12-30",
+        "price": 60.11
+      },
+      {
+        "date": "2024-12-31",
+        "price": 60.48
+      },
+      {
+        "date": "2025-01-02",
+        "price": 60.3
+      },
+      {
+        "date": "2025-01-03",
+        "price": 60.53
+      },
+      {
+        "date": "2025-01-06",
+        "price": 61.38
+      },
+      {
+        "date": "2025-01-07",
+        "price": 61.82
+      },
+      {
+        "date": "2025-01-08",
+        "price": 60.8
+      },
+      {
+        "date": "2025-01-10",
+        "price": 59.35
+      },
+      {
+        "date": "2025-01-13",
+        "price": 60.61
+      },
+      {
+        "date": "2025-01-14",
+        "price": 61.47
+      },
+      {
+        "date": "2025-01-15",
+        "price": 60.89
+      },
+      {
+        "date": "2025-01-16",
+        "price": 61.33
+      },
+      {
+        "date": "2025-01-17",
+        "price": 61.16
+      },
+      {
+        "date": "2025-01-21",
+        "price": 61.79
+      },
+      {
+        "date": "2025-01-22",
+        "price": 62.73
+      },
+      {
+        "date": "2025-01-23",
+        "price": 63.92
+      },
+      {
+        "date": "2025-01-24",
+        "price": 63.43
+      },
+      {
+        "date": "2025-01-27",
+        "price": 64.17
+      },
+      {
+        "date": "2025-01-28",
+        "price": 62.8
+      },
+      {
+        "date": "2025-01-29",
+        "price": 62.68
+      },
+      {
+        "date": "2025-01-30",
+        "price": 62.91
+      },
+      {
+        "date": "2025-01-31",
+        "price": 62.42
+      },
+      {
+        "date": "2025-02-03",
+        "price": 60.68
+      },
+      {
+        "date": "2025-02-04",
+        "price": 61.4
+      },
+      {
+        "date": "2025-02-05",
+        "price": 61.27
+      },
+      {
+        "date": "2025-02-06",
+        "price": 63.48
+      },
+      {
+        "date": "2025-02-07",
+        "price": 64.1
+      },
+      {
+        "date": "2025-02-10",
+        "price": 63.98
+      },
+      {
+        "date": "2025-02-11",
+        "price": 64.66
+      },
+      {
+        "date": "2025-02-12",
+        "price": 65.45
+      },
+      {
+        "date": "2025-02-13",
+        "price": 66.41
+      },
+      {
+        "date": "2025-02-14",
+        "price": 67.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 66.88
+      },
+      {
+        "date": "2025-02-19",
+        "price": 66.66
+      },
+      {
+        "date": "2025-02-20",
+        "price": 67.62
+      },
+      {
+        "date": "2025-02-21",
+        "price": 66.68
+      },
+      {
+        "date": "2025-02-24",
+        "price": 66.79
+      },
+      {
+        "date": "2025-02-25",
+        "price": 66.65
+      },
+      {
+        "date": "2025-02-26",
+        "price": 66.22
+      },
+      {
+        "date": "2025-02-27",
+        "price": 65.32
+      },
+      {
+        "date": "2025-02-28",
+        "price": 65.12
+      },
+      {
+        "date": "2025-03-03",
+        "price": 64.01
+      },
+      {
+        "date": "2025-03-04",
+        "price": 62.8
+      },
+      {
+        "date": "2025-03-05",
+        "price": 65.09
+      },
+      {
+        "date": "2025-03-06",
+        "price": 65.14
+      },
+      {
+        "date": "2025-03-07",
+        "price": 66.83
+      },
+      {
+        "date": "2025-03-10",
+        "price": 64.34
+      },
+      {
+        "date": "2025-03-11",
+        "price": 63.19
+      },
+      {
+        "date": "2025-03-12",
+        "price": 63.76
+      },
+      {
+        "date": "2025-03-13",
+        "price": 62.17
+      },
+      {
+        "date": "2025-03-14",
+        "price": 63.23
+      },
+      {
+        "date": "2025-03-17",
+        "price": 62.65
+      },
+      {
+        "date": "2025-03-18",
+        "price": 62.82
+      },
+      {
+        "date": "2025-03-19",
+        "price": 62.73
+      },
+      {
+        "date": "2025-03-20",
+        "price": 62.48
+      },
+      {
+        "date": "2025-03-21",
+        "price": 62.45
+      },
+      {
+        "date": "2025-03-24",
+        "price": 63.91
+      },
+      {
+        "date": "2025-03-25",
+        "price": 64.49
+      },
+      {
+        "date": "2025-03-26",
+        "price": 65.8
+      },
+      {
+        "date": "2025-03-27",
+        "price": 62.25
+      },
+      {
+        "date": "2025-03-28",
+        "price": 60.59
+      },
+      {
+        "date": "2025-03-31",
+        "price": 59.5
+      },
+      {
+        "date": "2025-04-01",
+        "price": 59.15
+      },
+      {
+        "date": "2025-04-02",
+        "price": 60.78
+      },
+      {
+        "date": "2025-04-03",
+        "price": 55.39
+      },
+      {
+        "date": "2025-04-04",
+        "price": 53.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 51.98
+      },
+      {
+        "date": "2025-04-08",
+        "price": 49.36
+      },
+      {
+        "date": "2025-04-09",
+        "price": 54.42
+      },
+      {
+        "date": "2025-04-10",
+        "price": 49.42
+      },
+      {
+        "date": "2025-04-11",
+        "price": 47.92
+      },
+      {
+        "date": "2025-04-14",
+        "price": 50.1
+      },
+      {
+        "date": "2025-04-15",
+        "price": 50.74
+      },
+      {
+        "date": "2025-04-16",
+        "price": 50.71
+      },
+      {
+        "date": "2025-04-17",
+        "price": 51.71
+      },
+      {
+        "date": "2025-04-21",
+        "price": 50.99
+      },
+      {
+        "date": "2025-04-22",
+        "price": 52.28
+      },
+      {
+        "date": "2025-04-23",
+        "price": 53.31
+      },
+      {
+        "date": "2025-04-24",
+        "price": 55.06
+      },
+      {
+        "date": "2025-04-25",
+        "price": 55.93
+      },
+      {
+        "date": "2025-04-28",
+        "price": 56.28
+      },
+      {
+        "date": "2025-04-29",
+        "price": 57.65
+      },
+      {
+        "date": "2025-04-30",
+        "price": 57.06
+      },
+      {
+        "date": "2025-05-01",
+        "price": 56.96
+      },
+      {
+        "date": "2025-05-02",
+        "price": 58.97
+      },
+      {
+        "date": "2025-05-05",
+        "price": 58.78
+      },
+      {
+        "date": "2025-05-06",
+        "price": 58.19
+      },
+      {
+        "date": "2025-05-07",
+        "price": 58.92
+      },
+      {
+        "date": "2025-05-08",
+        "price": 61.11
+      },
+      {
+        "date": "2025-05-09",
+        "price": 61.97
+      },
+      {
+        "date": "2025-05-12",
+        "price": 66.93
+      },
+      {
+        "date": "2025-05-13",
+        "price": 68.79
+      },
+      {
+        "date": "2025-05-14",
+        "price": 69.42
+      },
+      {
+        "date": "2025-05-15",
+        "price": 68.1
+      },
+      {
+        "date": "2025-05-16",
+        "price": 68.26
+      },
+      {
+        "date": "2025-05-19",
+        "price": 67.34
+      },
+      {
+        "date": "2025-05-20",
+        "price": 67.49
+      },
+      {
+        "date": "2025-05-21",
+        "price": 66.96
+      },
+      {
+        "date": "2025-05-22",
+        "price": 66.97
+      },
+      {
+        "date": "2025-05-23",
+        "price": 66.06
+      },
+      {
+        "date": "2025-05-27",
+        "price": 68.4
+      },
+      {
+        "date": "2025-05-28",
+        "price": 67.71
+      },
+      {
+        "date": "2025-05-29",
+        "price": 68.09
+      },
+      {
+        "date": "2025-05-30",
+        "price": 66.81
+      },
+      {
+        "date": "2025-06-02",
+        "price": 65.3
+      },
+      {
+        "date": "2025-06-03",
+        "price": 66.89
+      },
+      {
+        "date": "2025-06-04",
+        "price": 65.88
+      },
+      {
+        "date": "2025-06-05",
+        "price": 65.48
+      },
+      {
+        "date": "2025-06-06",
+        "price": 66.64
+      }
+    ],
+    "current_price_data": {
+      "price": 66.64,
+      "change": 1.15,
+      "percent_change": 1.76
+    }
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "ticker": "AEE",
+  "name": "Ameren",
+  "sector": "Utilities",
+  "market_cap": 26086397952.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 21.33481,
+    "PB": 2.1285255,
+    "EV_Revenue": 6.031,
+    "ROE": 0.10159001,
+    "ProfitMargin": 0.15929,
+    "GrossMargin": 0.49065,
+    "DividendYield": 2.94,
+    "DebtEquity": 158.916,
+    "CurrentRatio": 0.857,
+    "QuickRatio": 0.444,
+    "FreeCashFlow": -2507375104,
+    "OperatingCashFlow": 2702000128,
+    "FCF_Margin": -0.33009149809064986,
+    "ROA": 0.02686,
+    "PEG": null,
+    "EV_EBITDA": 14.018,
+    "BuybackYield": null,
+    "PriceToFCF": -10.382241179020657
+  },
+  "technical_indicators": {
+    "RSI_14": 46.00169586214951,
+    "Momentum_10": -0.2797892674263277,
+    "MACD": -0.3641381846879596,
+    "BB_Percent": 0.4129476494083897,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8783581923950141,
+    "QualityScore": 0.4327662900406813,
+    "SignalScore": 0.6171597013945755
+  },
+  "volatility": 0.0128260282662975,
+  "beta": 0.505,
+  "return_6m": 0.057977965063044,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 15,
+    "target_mean_price": 103.408
+  },
+  "news_sentiment": {
+    "summary": "Ameren (AEE) a récemment attiré l'attention des analystes et investisseurs, avec plusieurs hausses de prix cibles de la part de grandes institutions financières telles que UBS et Wells Fargo. La société a également annoncé des offres de vente d'actions et des accords de vente à terme, reflétant sa vision de croissance et d'investissement dans l'infrastructure énergétique. Malgré un léger manque à gagner au premier trimestre, Ameren a maintenu sa série de dividendes en augmentant de 6%, indiquant un solide plan de croissance. Les investisseurs sont susceptibles d'être encouragés par le rendement de 44% de l'action au cours de la dernière année, bien que des préoccupations persistent quant à la performance relative du secteur des services publics.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "UBS Maintains Buy Rating on Ameren (AEE), Raises Price Target | AEE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkIwRmNDcWVDRFREWldmVGRXM0thZG9Mdlk5Mjl2WFctWkhXWDd2UjU5R3ZrX05MV2ducnNYcnMwMFNBTWpMd3hWbEhwN1BRRmhja2RyNFdkMHVQLTZmRk92RFRyd3pNVHdBcnFaSy16X251WExUWVI3ZW5hVFpqZ3dMWTd6QV9Bb1lPbHRvaHM1TElpcDN3aWZHSDFrWXJmdWdsMTdRZDVDaFZKNklhQmdyMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Ameren Stock? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONDQwU2QxeW5iWmVYbUFnU2xtbFEza3UxaVdXbnYxMm1aajVzWXhjaWlTbTQycmhzRXphc1czUDl6bnBFUUJWM2Q4a3JTMEJaa2xRSlQ5X1BtT0p3YWF3VnhNOUl2NTJjUG9kVzdnYnc2RlJMcUlvS3hjVDdUX1FvV2tMcnU2VmFIbFI3RVlGU2hOTk5oSDJ0LUVKZXFvREVpaXhocFpLNlpIWmlDSms2OVhXYjk1Y1ZaWlpRc1hKZjN1N3J1LWUxLThiZmozOEhqOXdhNXE1eksydzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PPL vs. AEE: Which Utility Stock Offers More Growth Potential? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WeThzU25lVUFBSWxZUm51ZFRHRHQtaGNUcm1mSHJ1N3BIVXl6UDFBX1d6SjMyWnZTT01ndnRaLUNpZGJ3TDBOaVRVZTUxTDV4eUdVTDRBRTdjMDVsd0NMVjBaSGk5UXQtR3FUMGhtRHU0QkZDUDBmb0VB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Massive 2GW Energy Plan: How Ameren Missouri Aims to Transform State Economy and Create Jobs - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZsdlJidXV6SzVzbHpoM0hvbm5zNFdUQ3FJV0tQVXY2SGEtcXI3cXhVTlhvYjVxMXJJWGsxb0wxWG82UnljS3hpY2RfSkZrc2hmMFJvb2l6Zl80cGtmaHRCOVVPNWF5Nll5Ukh5Mlo1aEktVUVqOXZLZkJVUTJxZ3ZaNTJ2SGRNMzhiSjRIRUk2NFVrVk1mY2R5SXpvcTZCVDgtNFplNGxyTmNWOWhQYlc0a2F5QlF3c2x1Ug?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameren Announces Pricing of Common Stock Offering with a Forward Component - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS184SEdZdk5OaUFJekxua2NJUGhkUFJlM1RlM3h4YVJwZF9OSEtPMHUtX08wNk81cWliRXVZeXRHVkt1VndDd0pNaHRiVVczRkJzRzUxLUl2Ukx5OTU2clBXQjhNdjNtNUduTTdKWnNpSks1Nzh0M3BqamxocVJHYThweWdTYU5qQ0hsVHVybmp1VWlVVjZqVndua18xV0wxQkVxd0VWODBNSzYxX3NNODNZaGMwNjhJRkhnYnFfd2w4dnIzQldVT1pn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Estimating The Fair Value Of Ameren Corporation (NYSE:AEE) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTU9wT21KNVdJOVdrajVOSldjNVZFdk9YMThOc1B2Vk9iMnRQeDdmZEV1cXE5TWROb0VNQl9uS2gwQ1h6RjlJQWprSURDWnE4bU9aS20wUUhwSkRoZHFqYzNmN0tsRElEVG4tMjNDWUJfR0lrSjdIdm9HVmV1QmJ6aHhnb09vM0ptVzF3Wllvc2R2YTJPYnVZcjNlbl9mSFhoYVVaaWRQbDh3WHpNX3NpNVNNdkxoNllnYmVzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Ceredex Value Advisors LLC opened a $50.7M position in $AEE stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEtubHM1bnMyQmFHSmVzSEFaVlFEU29hQ2FzYm91SWx2UEVtQ0hubkF0dU9ZMDFMVTQ4MWY1RENNVkJ0UGJ0NVNWeU54ejZLRm43UG9LamxaaUJyU0tZQ042Vk1Ga2F6bldRdnpBSkQySXhfaXNXWG00N1BIQmh1UHduYVB6TEFydTA1Vl9NcVBna0NXZnlCS2lVX09xNTJGdzJz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UBS Increases Price Target for Ameren (AEE) to $114 | AEE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT1VfSEVmM1dKVWJEdG1DVm1pTzFNLXJqWnZnU2Nwak9jSjI3Uk1PaXdDM2c3V0xXeFNCbVFDZ3Zua2ItcnoxRTMwUFAzOVN3NjlBaEdDOFQ5R0dpVUZpdExHS3Q4SjVrRndEbzVrTlFEOEpzS2VuMHFuTEh1N3lDRTYyR0duejFHVUxRb2lxRktuNkhHTkZpckxBWkU0dkRZblZOaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameren Announces Public Offering of Common Stock with a Forward Component - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDdVS0VfVXVDdDFhSmQ5UnJDV0RIRnhXTlVnMTUtTUJrRFg1b0dIaS0tZFJhaTdQTlp5bExGV25KMW5IOVRvWjdyeGtDZkNsTllfSDBvVmU4ZzhYMEg3bV9UTjFqVk1BWGZIdjVXU3JHODhWRGIwblQzeUp1aGVfZ0pTM3ZQTGRRQTJDSl9n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameren Corporation Directors Declare Quarterly Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlRtaE0za1JmcWpqVzZEaU1WUGczd0hXbDRZSDlsYXljMXVjTkZ5bUJYRnlhcUFadFpMd2JwWk9CWEk5bkJSU0dFT28wdUpvU25heXNPNU9IZmp4d1A2LW5xRFRBczFKSmlOd3ZFWjJLN3dnVUlUcDVVVHgxV2Y2UlliNndhZmFnQTcwRkF4bGItMFJSd19OVEcwWkRQQzAybFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why You Must Add Ameren Stock to Your Portfolio Right Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHVxdjNrOUhrRjJXVFJFUlIxTDVmM2RlWHBGTWlXblAxcEZYb1k3RE1pOHhwaEZ6aDdfbnNKQ1RZLUdsSnJpMzBrS04wTHg4RWhHVDBkcGN5Z2xBbXFIYlJHeEJyRzVWeGNJZm5EaFg2UFdhZVRobVZUaWZyVlB3cmRVZmZxWGtjR0Ztc3pqeG1CbzlOSFZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameren (AEE) Q1 Earnings Miss Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WeDkwWXd0WE1CakhmY2JTWGJYZ25kWGpVbV9wZUp6aTNnWFE5NU5QMmdqWm1OME5USWFkOWhINUlSaXM1bkgwX2tXcGtaLWJtRXRtM3VxX1hTc0haSDc4RTR6NVFtMVhiSEZmVWw2V2haZmxlZWpxNkYtOFBhQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ameren Stock: Is AEE Outperforming the Utilities Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0pJWVpJX1pobWFobkpCV0xuMjJBazZheGtLWFZEOENoR3RsUl9iVC1UeVZZREFaR3lKUmk2a3dGQ2hhWWFWTnppU2cyTGVMcEoyOVByTldQRi1EMG5TTzY0cE9vOHRvNmd1Z0docGFLc1dyTUJ1Ymo5U00zcW0zZk81VVlQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameren's Dividend Streak Continues: 6% Boost Signals Strong Infrastructure Growth Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmJCUzRYdVpiQXJBWmp5V09rT2V4dXQxeWxSbnhtUHlRdDlrbDJMa3VqdFhkM3ptZ0ZTNlZ2VU5fX0stbU1SbVVRSTI0ZGlaMEJra0g1TjlwSkpUTmFxTUxVbXlYem9Ob0lubFRYWHFLWVduNEVrZDdwZG9TMGVaQ1liMHNxMFVjc2VZQl9oY050d1FDMU94Mm12SFUtM3lySGFLM1A4RUQySXVyeEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo Boosts Ameren (AEE) Price Target to $112 | AEE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanE1WjB0aGFrVmRRMWZqc2lJZTM0cC1NQVFpbkxtQmRBYTduM1cxLUtqcmFoaVNlQjRGTTdaSHVUcVR3Wi1lUHJRaURyMUtmREx0c3dXQzMtWUp5Qi1LSXQyWWpJWG5NUEVNeDl5eWtraDFiYW9UMGNVRl91Wk80a0FfRUtMbWI3cnlkT21RS1FTZ3BQZ1JUV3BRQXFhMlcwd0tqZ0xn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameren's (NYSE:AEE) investors will be pleased with their respectable 44% return over the last year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmV2RzBSQTJxaDktNFBkaDRLZ0FhbWh0Tkt3NkFOSmpOTEJXWU4wSHNSblM3cktrWlM1bS1nMjRGWm5rOHZxQ0Z6RDg3QWt5UFM3Z3BsSGRiQU94d3VKbzZ2V3BjNHJTaVVVQU9uNEpCanpRNm9UUldmdW4zZEVEc1pMVWRrNWs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameren (AEE) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWMwcWRfaWFiSkdQOGxLa2FCckJITnA0SkNmV3FCanVqNkZqVUJxOUM3dmZVYVhHV2pzSzV0cWZfN2FuQ1dRSjMyeVVtOVc2Y3lmWW1XOUJfTE5URGZJbDFrUm1GYkd1M25JMWlFN2poX2dHa29ZenJhQVVMeHRtY3FwMk9DQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Adjusts Price Target for Ameren (AEE) | AEE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODYzWk9WN1hDWkprMGh1d1RtZ3BHbUpra0NydEo2OE1pOU1zTG5RdXNJek42TUpHckxKSEd1MzRqS1p5bzJxeEJ0YnIwQVVYQU0zT3Z5YmlZT0FSZ1d0ZERFaUpVaEE3QUtuMmhXUkdoa1N4cTFsZ0hQVVozakZxS2FPcGFVNEpnY0d6bDdibHRqZ292OWFOU3lodEdzdVRGT0luU3ROU2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Utilities Stocks Lagging Ameren (AEE) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUsyVXdNZ2Q4YldRX29nekNRcThTeTFZR29mUHkyelA4aFFDYklwZ2J6ZmY4ZUlGb3JVdUk5bDMzczAySUg3YWljbTIyWmdHQ29kVVhXNTF5U1gxNjVnLVdYQzJtT01fbkxSLV9Ba19xc3lJVkZRdG9WQVhpY3F2ZDRnYTJmM0dC?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ameren Enters Forward Sale Agreements with Major Banks - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWlQUkRST0UyWnc1U2FjSGkxSEJBMUttdXMyZEJqNTdsdEw5QTdwM3pwbnY3MHk1aVRIWWtoUml5aUFFR2RZOFFwTTlGRy1SaThBZG1tcU1fdDVPZzg3RDYwLUVTOUtjU1NMQmZUbmZZZzNvbmNVSXplMGhpMVZ2V3hrUmROTTd4WkloWF9WdkJsRE9UT1Y3N1REcTRKR0x0djZtT3I5WGFhZw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 91.17
+      },
+      {
+        "date": "2024-12-10",
+        "price": 91.24
+      },
+      {
+        "date": "2024-12-11",
+        "price": 89.85
+      },
+      {
+        "date": "2024-12-12",
+        "price": 89.79
+      },
+      {
+        "date": "2024-12-13",
+        "price": 89.84
+      },
+      {
+        "date": "2024-12-16",
+        "price": 88.73
+      },
+      {
+        "date": "2024-12-17",
+        "price": 88.68
+      },
+      {
+        "date": "2024-12-18",
+        "price": 86.93
+      },
+      {
+        "date": "2024-12-19",
+        "price": 88.57
+      },
+      {
+        "date": "2024-12-20",
+        "price": 89.29
+      },
+      {
+        "date": "2024-12-23",
+        "price": 89.69
+      },
+      {
+        "date": "2024-12-24",
+        "price": 90.89
+      },
+      {
+        "date": "2024-12-26",
+        "price": 90.69
+      },
+      {
+        "date": "2024-12-27",
+        "price": 90.12
+      },
+      {
+        "date": "2024-12-30",
+        "price": 89.62
+      },
+      {
+        "date": "2024-12-31",
+        "price": 89.14
+      },
+      {
+        "date": "2025-01-02",
+        "price": 88.99
+      },
+      {
+        "date": "2025-01-03",
+        "price": 88.85
+      },
+      {
+        "date": "2025-01-06",
+        "price": 86.87
+      },
+      {
+        "date": "2025-01-07",
+        "price": 87.96
+      },
+      {
+        "date": "2025-01-08",
+        "price": 89.24
+      },
+      {
+        "date": "2025-01-10",
+        "price": 88.04
+      },
+      {
+        "date": "2025-01-13",
+        "price": 88.81
+      },
+      {
+        "date": "2025-01-14",
+        "price": 89.4
+      },
+      {
+        "date": "2025-01-15",
+        "price": 91.12
+      },
+      {
+        "date": "2025-01-16",
+        "price": 93.86
+      },
+      {
+        "date": "2025-01-17",
+        "price": 94.17
+      },
+      {
+        "date": "2025-01-21",
+        "price": 96.24
+      },
+      {
+        "date": "2025-01-22",
+        "price": 93.35
+      },
+      {
+        "date": "2025-01-23",
+        "price": 93.31
+      },
+      {
+        "date": "2025-01-24",
+        "price": 94.12
+      },
+      {
+        "date": "2025-01-27",
+        "price": 94.13
+      },
+      {
+        "date": "2025-01-28",
+        "price": 93.22
+      },
+      {
+        "date": "2025-01-29",
+        "price": 92.79
+      },
+      {
+        "date": "2025-01-30",
+        "price": 94.11
+      },
+      {
+        "date": "2025-01-31",
+        "price": 94.2
+      },
+      {
+        "date": "2025-02-03",
+        "price": 96.01
+      },
+      {
+        "date": "2025-02-04",
+        "price": 95.49
+      },
+      {
+        "date": "2025-02-05",
+        "price": 96.62
+      },
+      {
+        "date": "2025-02-06",
+        "price": 96.75
+      },
+      {
+        "date": "2025-02-07",
+        "price": 97.09
+      },
+      {
+        "date": "2025-02-10",
+        "price": 97.2
+      },
+      {
+        "date": "2025-02-11",
+        "price": 98.18
+      },
+      {
+        "date": "2025-02-12",
+        "price": 97.26
+      },
+      {
+        "date": "2025-02-13",
+        "price": 98.27
+      },
+      {
+        "date": "2025-02-14",
+        "price": 98.07
+      },
+      {
+        "date": "2025-02-18",
+        "price": 98.34
+      },
+      {
+        "date": "2025-02-19",
+        "price": 97.9
+      },
+      {
+        "date": "2025-02-20",
+        "price": 97.21
+      },
+      {
+        "date": "2025-02-21",
+        "price": 98.54
+      },
+      {
+        "date": "2025-02-24",
+        "price": 98.84
+      },
+      {
+        "date": "2025-02-25",
+        "price": 99.41
+      },
+      {
+        "date": "2025-02-26",
+        "price": 99.33
+      },
+      {
+        "date": "2025-02-27",
+        "price": 99.47
+      },
+      {
+        "date": "2025-02-28",
+        "price": 101.56
+      },
+      {
+        "date": "2025-03-03",
+        "price": 103.67
+      },
+      {
+        "date": "2025-03-04",
+        "price": 100.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 98.73
+      },
+      {
+        "date": "2025-03-06",
+        "price": 97.14
+      },
+      {
+        "date": "2025-03-07",
+        "price": 98.59
+      },
+      {
+        "date": "2025-03-10",
+        "price": 99.25
+      },
+      {
+        "date": "2025-03-11",
+        "price": 97.87
+      },
+      {
+        "date": "2025-03-12",
+        "price": 97.45
+      },
+      {
+        "date": "2025-03-13",
+        "price": 97.96
+      },
+      {
+        "date": "2025-03-14",
+        "price": 99.12
+      },
+      {
+        "date": "2025-03-17",
+        "price": 100.73
+      },
+      {
+        "date": "2025-03-18",
+        "price": 99.85
+      },
+      {
+        "date": "2025-03-19",
+        "price": 100.06
+      },
+      {
+        "date": "2025-03-20",
+        "price": 99.97
+      },
+      {
+        "date": "2025-03-21",
+        "price": 98.91
+      },
+      {
+        "date": "2025-03-24",
+        "price": 98.81
+      },
+      {
+        "date": "2025-03-25",
+        "price": 97.18
+      },
+      {
+        "date": "2025-03-26",
+        "price": 98.88
+      },
+      {
+        "date": "2025-03-27",
+        "price": 98.63
+      },
+      {
+        "date": "2025-03-28",
+        "price": 99.7
+      },
+      {
+        "date": "2025-03-31",
+        "price": 100.4
+      },
+      {
+        "date": "2025-04-01",
+        "price": 100.67
+      },
+      {
+        "date": "2025-04-02",
+        "price": 100.84
+      },
+      {
+        "date": "2025-04-03",
+        "price": 101.68
+      },
+      {
+        "date": "2025-04-04",
+        "price": 95.79
+      },
+      {
+        "date": "2025-04-07",
+        "price": 94.34
+      },
+      {
+        "date": "2025-04-08",
+        "price": 94.23
+      },
+      {
+        "date": "2025-04-09",
+        "price": 96.35
+      },
+      {
+        "date": "2025-04-10",
+        "price": 96.72
+      },
+      {
+        "date": "2025-04-11",
+        "price": 97.53
+      },
+      {
+        "date": "2025-04-14",
+        "price": 99.01
+      },
+      {
+        "date": "2025-04-15",
+        "price": 99.03
+      },
+      {
+        "date": "2025-04-16",
+        "price": 98.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 98.65
+      },
+      {
+        "date": "2025-04-21",
+        "price": 96.48
+      },
+      {
+        "date": "2025-04-22",
+        "price": 99.15
+      },
+      {
+        "date": "2025-04-23",
+        "price": 98.63
+      },
+      {
+        "date": "2025-04-24",
+        "price": 98.92
+      },
+      {
+        "date": "2025-04-25",
+        "price": 98.28
+      },
+      {
+        "date": "2025-04-28",
+        "price": 98.89
+      },
+      {
+        "date": "2025-04-29",
+        "price": 99.21
+      },
+      {
+        "date": "2025-04-30",
+        "price": 99.24
+      },
+      {
+        "date": "2025-05-01",
+        "price": 98.09
+      },
+      {
+        "date": "2025-05-02",
+        "price": 99.48
+      },
+      {
+        "date": "2025-05-05",
+        "price": 99.55
+      },
+      {
+        "date": "2025-05-06",
+        "price": 99.46
+      },
+      {
+        "date": "2025-05-07",
+        "price": 99.54
+      },
+      {
+        "date": "2025-05-08",
+        "price": 97.68
+      },
+      {
+        "date": "2025-05-09",
+        "price": 97.4
+      },
+      {
+        "date": "2025-05-12",
+        "price": 95.42
+      },
+      {
+        "date": "2025-05-13",
+        "price": 94.32
+      },
+      {
+        "date": "2025-05-14",
+        "price": 95.01
+      },
+      {
+        "date": "2025-05-15",
+        "price": 96.82
+      },
+      {
+        "date": "2025-05-16",
+        "price": 98.02
+      },
+      {
+        "date": "2025-05-19",
+        "price": 98.97
+      },
+      {
+        "date": "2025-05-20",
+        "price": 98.58
+      },
+      {
+        "date": "2025-05-21",
+        "price": 96.5
+      },
+      {
+        "date": "2025-05-22",
+        "price": 95.4
+      },
+      {
+        "date": "2025-05-23",
+        "price": 96.3
+      },
+      {
+        "date": "2025-05-27",
+        "price": 96.69
+      },
+      {
+        "date": "2025-05-28",
+        "price": 95.32
+      },
+      {
+        "date": "2025-05-29",
+        "price": 96.17
+      },
+      {
+        "date": "2025-05-30",
+        "price": 96.88
+      },
+      {
+        "date": "2025-06-02",
+        "price": 97.15
+      },
+      {
+        "date": "2025-06-03",
+        "price": 97.32
+      },
+      {
+        "date": "2025-06-04",
+        "price": 96.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 96.02
+      },
+      {
+        "date": "2025-06-06",
+        "price": 96.04
+      }
+    ],
+    "current_price_data": {
+      "price": 96.04,
+      "change": 0.02,
+      "percent_change": 0.02
+    }
+  }
+}

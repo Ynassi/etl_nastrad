@@ -1,0 +1,105 @@
+{
+    "short": {
+        "objectif": "Identifier des actions en surchauffe sp\u00e9culative \u00e0 risque de retournement. Ces titres sont souvent dans une phase euphorique (fort momentum, valorisation \u00e9lev\u00e9e) mais pr\u00e9sentent des signes de vuln\u00e9rabilit\u00e9.",
+        "filtres": {
+            "RSI_14": {
+                "seuil": "> 62",
+                "explication": "Le RSI au-dessus de 60 indique un actif en zone de surachat, signal potentiel de retournement \u00e0 venir."
+            },
+            "Momentum_10": {
+                "seuil": "> 16",
+                "explication": "Momentum tr\u00e8s \u00e9lev\u00e9 sur 10 jours, typique d\u2019un rallye sp\u00e9culatif rapide."
+            },
+            "ValueScore": {
+                "seuil": "> 0.76",
+                "explication": "Malgr\u00e9 une note de valeur apparemment forte, l\u2019action est peut-\u00eatre sur\u00e9valu\u00e9e car ce score refl\u00e8te aussi les attentes du march\u00e9."
+            },
+            "SignalScore": {
+                "seuil": "< 0.44",
+                "explication": "Signal global technique faible (divergences, faibles confirmations), malgr\u00e9 le momentum \u00e9lev\u00e9."
+            },
+            "Volatility": {
+                "seuil": "> 0.021",
+                "explication": "Volatilit\u00e9 \u00e9lev\u00e9e : ces titres r\u00e9agissent fortement aux news, ce qui augmente le risque."
+            },
+            "Beta": {
+                "seuil": "> 1.1",
+                "explication": "Sensibilit\u00e9 sup\u00e9rieure au march\u00e9 : amplifie les gains en hausse, mais aussi les pertes."
+            },
+            "PB": {
+                "seuil": "> 3.5",
+                "explication": "Valorisation par rapport aux actifs \u00e9lev\u00e9s : souvent justifi\u00e9e par des attentes optimistes difficilement soutenables."
+            }
+        }
+    },
+    "midterm": {
+        "objectif": "Rep\u00e9rer des entreprises de qualit\u00e9 temporairement sous-\u00e9valu\u00e9es avec un profil fondamental solide. Id\u00e9al pour une strat\u00e9gie de r\u00e9\u00e9valuation progressive (value investing).",
+        "filtres": {
+            "ValueScore": {
+                "seuil": "> 0.77",
+                "explication": "Tr\u00e8s bonne note sur les fondamentaux (profitabilit\u00e9, valorisation, dividende, etc.)."
+            },
+            "QualityScore": {
+                "seuil": "> 0.38",
+                "explication": "L\u2019entreprise pr\u00e9sente une qualit\u00e9 op\u00e9rationnelle correcte (croissance stable, marge durable)."
+            },
+            "PE": {
+                "seuil": "< 34",
+                "explication": "Valorisation inf\u00e9rieure aux multiples du march\u00e9 sur des entreprises comparables (sous-\u00e9valuation)."
+            },
+            "ROE": {
+                "seuil": "> 0.18",
+                "explication": "Rentabilit\u00e9 des fonds propres \u00e9lev\u00e9e, signal d\u2019une gestion performante."
+            },
+            "ProfitMargin": {
+                "seuil": "> 0.13",
+                "explication": "Bonne rentabilit\u00e9 nette : l\u2019entreprise transforme efficacement son CA en profit."
+            },
+            "GrossMargin": {
+                "seuil": "> 0.35",
+                "explication": "Marge brute importante, souvent signe d\u2019un avantage concurrentiel."
+            },
+            "Volatility": {
+                "seuil": "< 0.024",
+                "explication": "Volatilit\u00e9 mod\u00e9r\u00e9e : profil d\u00e9fensif / stabilit\u00e9 relative."
+            },
+            "Beta": {
+                "seuil": "< 1.05",
+                "explication": "Moins sensible aux variations de march\u00e9, id\u00e9al pour investissement moyen terme."
+            },
+            "RSI_14": {
+                "seuil": "entre 44 et 61",
+                "explication": "Zone neutre d\u2019achat : ni surachet, ni survendu, propice \u00e0 une prise de position."
+            }
+        }
+    },
+    "shortterm": {
+        "objectif": "D\u00e9tecter des opportunit\u00e9s de rebond technique \u00e0 court terme. Ces actions pr\u00e9sentent une dynamique technique positive naissante, potentiellement exploitable sur quelques jours.",
+        "filtres": {
+            "Momentum_10": {
+                "seuil": "> 5",
+                "explication": "Momentum positif : l\u2019action est dans une dynamique haussi\u00e8re r\u00e9cente."
+            },
+            "MACD": {
+                "seuil": "> -0.05",
+                "explication": "MACD proche ou au-dessus de la ligne de signal, indiquant un retournement haussier potentiel."
+            },
+            "SignalScore": {
+                "seuil": "> 0.43",
+                "explication": "Signal composite technique favorable (ex. RSI, MACD, breakout, etc.)."
+            },
+            "PE": {
+                "seuil": "< 30",
+                "explication": "Ratio de valorisation encore raisonnable, pour \u00e9viter les pi\u00e8ges de survalorisation."
+            },
+            "RSI_14": {
+                "seuil": "entre 44 et 64",
+                "explication": "Zone dynamique id\u00e9ale pour un rebond technique, sans \u00eatre en surachat."
+            },
+            "BB_Percent": {
+                "seuil": "> 0.67",
+                "explication": "L\u2019action se rapproche de la borne sup\u00e9rieure des bandes de Bollinger : signal de poursuite du mouvement haussier."
+            }
+        }
+    }
+}

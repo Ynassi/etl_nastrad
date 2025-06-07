@@ -1,0 +1,661 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "market_cap": 2217932488704.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 34.080864,
+    "PB": 7.2489834,
+    "EV_Revenue": 3.481,
+    "ROE": 0.2524,
+    "ProfitMargin": 0.1014,
+    "GrossMargin": 0.49158,
+    "DividendYield": null,
+    "DebtEquity": 51.641,
+    "CurrentRatio": 1.048,
+    "QuickRatio": 0.807,
+    "FreeCashFlow": 39273500672,
+    "OperatingCashFlow": 113903001600,
+    "FCF_Margin": 0.06039168868372221,
+    "ROA": 0.07632,
+    "PEG": null,
+    "EV_EBITDA": 17.943,
+    "BuybackYield": null,
+    "PriceToFCF": 56.20216145645658
+  },
+  "technical_indicators": {
+    "RSI_14": 61.6847647639241,
+    "Momentum_10": 3.8683367980213346,
+    "MACD": 3.95157566652108,
+    "BB_Percent": 0.72793029465804,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8818725935347684,
+    "QualityScore": 0.3250663784620869,
+    "SignalScore": 0.5107766594081533
+  },
+  "volatility": 0.0242114480217091,
+  "beta": 1.334,
+  "return_6m": -0.0527159848525993,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 65,
+    "target_mean_price": 239.21861
+  },
+  "news_sentiment": {
+    "summary": "Amazon (AMZN) attire l'attention des investisseurs avec une série de hausses de prix cibles et de prévisions optimistes, notamment après des discussions commerciales entre les États-Unis et la Chine. L'entreprise investit massivement dans l'expansion de ses centres de données en Caroline du Nord et dans le cloud en Taiwan, renforçant ainsi ses activités clés. Malgré une baisse de 5,8% en année à ce jour, Amazon continue de susciter l'intérêt des analystes grâce à ses ambitions en intelligence artificielle et à ses efforts pour améliorer la livraison grâce à la robotique et à l'IA.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Amazon (AMZN) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1ozdEk4WFdlSUJ3V3VMbHdoQ2pYbzkyZGpkTmhRbjNKWExYeFFlWTI0a2YxQ1JWV0xIQmVvZHJ6Uk1rNXNfQlZneGNSMkNJSWZtVGdrTjFKWTRWb1pwMWNocDJrT3NtaWVPZ1N3aDNXUHJ6ODdkX25aODZNbkN3TA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Amazon Stock Still A Buy After Its Recent 25% Rally? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1E3eGVQcG9ZZ0g3Vy0wenFFaHhRa2JwemFHWVRULXdWUVhKOXJZSW9pOEFRYVZxbkF4N0EtZ1BQcVR5RmU3N2piNnBpS09Ra2hHNkxWaVc4Wl83cHYwR0ppOW9QZ01Nc29ORXRvYnZnalpiZnFwVW5Ib1QxQkJIV0x2bXNVSTdq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Stock, Meta Get Price-Target Hike From Analyst After Tariff Relief - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmVDZHNuYjlvOE5HUHpTRHh2RkR1VFVHN0ZvaEJSWlpwVnFSeHliVGtwd0VNNTNMZ2xNZzhlam9kaGQxamlwM1hJeGNzM0FhX2E2NFhSRkVLenlfNl9tR29SSFhvUjktb3V5WUVHcWlLWDM1bmgzTnQxM1d6ZDl1LVlUbGVTWjRLNFFLb2hBU2ZsTXNPWGd5bG5OR2VNeGRz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warren Buffett Loves This 1 Artificial Intelligence (AI) Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmxDN0gtREdoc0NQZ1lOVm42Ny1TbVdWQXdGTEhuOWEzLTNPUTNXVXhTN2ZKS0h5Mk5kMmU5clhta1ZGeXMybEhMQXg2aDZLdWRPekVxd3VoRzlnTWx4M19BUllwMkgtajkyalNXUERLRC13NDk3TWRKUXpCVU5vQzdfR0hCbVpFYkxMM1JWdC1WMmwwbXow?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon.com (NasdaqGS:AMZN) To Invest US$10 Billion In North Carolina Data Center Expansion - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjVfanp6Sm9GbEpIUkV5WWN5cmFSOTl1T2s5UTNnalBVa2IzS25GdGZyVVdsdkhZWlQ4RG1odnRVb0ZrYUNobU8talVobkxGUTNhbl9zd0J4TmZzNU9XMVZzVGpFWkQwaFRCeGtDcGxwbUZvNW1CN2xqT3ZXVjRic0x5dWxZT2Z6VDExRUxXV0RJeEJwSV9TOTRSTG54UWYxZEd2VGNpRmRKNWNMa2NtQVNzMUMzTGRxUi1keTR1Ylh4OW9t0gHKAUFVX3lxTE9adVh6dnB6TllRLTlsX3ZKWG9obXRyYVAxcG00MUxXc0lYSDZsTnZESDBqODVKcUJ6d2wwZzdEVE91Y3V0RVRRMUVtekpRcEVEc0xHOEd2a1h5cURXeF9nd0FvR1IxNThHbTlqME5BSWlmQ1dqMlVhekpvd1k2ZU54QVpBYXh0N0FJbGhadWVBcWN5RGhpZUFuVWN2T2l5SzE3aUUyWnZWYmp4eE1BcU5FQVdqdUdnNUlXQkR0MDQ3NkRodzZtVTFyTkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan Hikes the Price Target on Amazon Stock (AMZN) on Cloud and Retail Strength - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeml1aFVEdWhMRk5zSHdYcW9xTEZKalhRY1F4VFcyM2xaNkZzbm5xSTJrYU94UnFBdnh2TGZoMTB0ZGRpa2pmOU5pQWpRaUh4QjRUWlJWWU1paUZwVl9RdHBGc20tTEhJQjVWVFZlZE1EVmxMOG5wOXkwbHAzYlllY3JZTFdHRmFJV3E4SlE1Z0V4UFAtVnI2UmFQTGtSMGFqMXZmd1ljU2pnU0JIUGQ2ZGtldw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Amazon's AI Ambitions Are Growing: Can the Cloud Provider Deliver? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY0p1dlFGY0I2S2JMMElHNGZVb29TMGRjaWJMdXZMd3lDTmc4bDhUeUd2azR0QTN4VXBQb01OU3VmU05zR0FidmJJd01zeVRfNWtna1RKRVh4N2R4dGFfamE3Q1lORzNnSUlueFIyU0RJUmU1ZVJMMWtzQXNXNE5oeFZOclY0UXNhSHpiQ2cyZHF6Tkl5VktnSmxXQU4tcmNZbWNIam9zR2E3M29aUXJWLUhhMlJrM09JcGNTSlRCLV9LWS1XeTB3aTBLZXFkZXRNNzM3RGFHNFFYWTRjQVdBS2l5bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Eyes $7 Billion In Savings By 2032 With Robots And AI Powering Delivery and Fulfillment: Analyst - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORUoxOTR1MWNJRlE4S3MzekZ1Z25BNkFqZFprbl9XalpqZUZtLXk3VzhxQjV4bmQ4VlgxTkdwUC0zdXVBQjI3SFdPcnE4ZHBpV2cybS1OSVlkMndBREM5OThqVHVYZEpveDdRdVV0QVdqNkpkTmViSTE5azlWQk15Y0hpVWx1NFBBNmhDeE5LcWtyY1AtWnp2YmRWYkJ4U05qYVQ4dGFabW5JcnZtNVRPN1VoVzc4b0pEMlVyOXFiRHBLSGhqeUN4bUYwWEdoWl9kX2thbkYxdXNha0ttb1NXWXdidW1PV1lidzZVRVVmeTYzNk5zN3Jka25OUTZOYlJmX2M3WU5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Hold on to AMZN Stock in 2H25 Despite its 5.8% YTD Decline? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzd5MGFPOUF2clM2N3ZTa1VlT2FBNHRLMVpTdUd0WV9JN05vMGtnTDhZRVNtRUNUa0s0dDNvZTNKbVo0c0RlWl8tU2pRNmx2RXRGRkJPandPc2plSUJvUU1PSkZ3QUxLQkJ5aUVrajNjZTBxQmlUV0NDaEFGaUFqTmljSHUxNWwyUDVoVVpZQ1QyeDdjRlFwZ3dnbHpSZDhVLVlacUZYdW5Qd0hX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon pops on US-China talks, silver prices, Applied Digital gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BTHB4OFhaV2ZZZlhOZGRUZVdPOHhvcjFoM2ZubklEY1F1UVNsT1RaQVZRa0NNYkJIU05fNUY0VWV0eThEdWhVZDZTRnVfdVhwMFFVcEtQWVBvbG5saUZWN2gxOGpCSFNrMHNRdUJlWXFoQk83UmlUdE5PeHBDQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Amazon (AMZN) Stock Is Trading Up Today - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjUzRllBTnJvazY5alZuNWE0WVoxalM2RXNhT01mMnZobWpBT3g5b2t3S3NuNWxYcTZhcURJMjA5UHpLRDhFeEZMNjQwU0Z4a1ZZdUx6dDUyaHBGWEJET1dveE5ZSEUwMFUzV2VNaFlJaTlxaE9QRzN1al82bllZNXZ1MXk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon (NASDAQ: AMZN) Stock Price Prediction in 2030: Bull, Bear, & Baseline Forecasts (June 6) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVdCemFIaHBZc05oUWVCWXF6RWZOTWpLeWpNeW12Y2JXOC1jNngxLVgtcERRMGgyNmQxcmtvTVhZQXRzdUdnc1JEZjJOUUYyZDF4ZGFoZ21kTHB3UlpfTEZlSi1rODl1eG11M2FKaF9YdXA0czNGd2lRT2dOMldQN1NxY3FZaUc4VDE4eVFDLWY4RGxRQmZFa1JINVNuS25EUmhkRlR3VFFJdEE5MGo0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Stock (AMZN) Climbs as it Pledges to Ban Fake Online Reviewers - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUk2T1pwV2lscGEtbmZwS0JrV1RVSHJiRTJ1ZWUtTFlhYTViR2tUTTduc19hSm41dEQ4TDNGX2RNUmhwVmhBRjMxbDQzMnBKS21sRGNGb0pfQVUwRWlMNzBIbzA4OUtKVmkzR0M2bVlaNHdVS25yRkVsOE1HY3F0LXAtWXNBc3p4QmlYRF9CQ1pXblo1OXVlaEpSLTlUQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AAPL, AMZN and NFLX Forecast – Major Stocks Continues to Chop on Friday - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVVlsM0xFVnF0T25BczhEaFVsWmtmWE5xbXlzcGFibmRTM1pnVHM4RUk4WnZwNDFLNHFfNlgtWmVpeGljZWpKZHVwcU1YQjExTmhqV2EtVmdjSE4tNDd2ellBNGI2dXhVem8xVkg0LXFiVGhZdExWcXpRSU5VNXVlZ0xIRUNsZV9VRFJsUm1IcEpYRjhjSGU0emlMQUFmSXQ2M1JRbFZWMmhlTXBzY1oxR3NCX3BiZ2NpR1RR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$AMZN stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWdhR1p0ZmhicGFiNnp1ZTRsck1JemV6alVYRUJrajh0YWMzYVdoV2ZtdWxNM1lSdXFuQWRiR2hTZFhXeUt3eWdvMkpMcFdQbkhsNzNWalN0ZGlOLVBJb1hkMXg4Uld0djJmRWNmRzRid1hnV0RBVC1vQ2p2RGJQYjJTcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Amazon Stock: Buy, Hold or Sell? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mOWZ2UEFhZnd0UmE4aVcxQ05nblNuVzRyNXRSdzZSbElNUGpLT2RqYVFTZ0hGcVlwUDFzWFBRMnluQjhBVXU4RVUzbXYxd3dWeGJDakk1RjZxcS1vRzFmZ1dpMkhGcTlva3dhN0hGcVh3VDFyc3k0eGJxc1I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon's CEO shares warning on prices, item shortages - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkNoOW1fVVZQYUNBNS0zYWVzRjhCRWtHMGFRb0ZhSjFINW5BOERhSnZ1eU9pdmpHUmNiWDRJVWYxT3pxRlZ4ZjBVcGNibkFTVldtckZrQm5pRmlkalBET0JoYnVvWHhCVlNFNHNjdWhVTlpyU0ZIa0paSkpVZnpsTDFSbGdHMUFSMV91TA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon.com (NasdaqGS:AMZN) Announces US$5 Billion AWS Expansion in Taiwan - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3R0OVNJZUNEUi1haGFtQ181VVdQSlVlNWFDYXBWbm1nM2RmU2pDRXZpUGVhc1F3R0ZUNmMtbUVBcWVzVHhLV1JVVl9iRWloRmhJdW96VlMxUHNVOU9Dd283clQyMlB3aXlJdmpBME9PTXR2S3ZUeFlCMHVaSHVOR3h0dEtjcG9ZbmU0Mi1zVkctNmx4Wk9XS1Y4bTNQTGZPR1ZNSFJRMm9sdFhWNzB3ZURMcHV2TGdBNHB1VktKYWFIb2Zi0gHKAUFVX3lxTFBCcUFVbTcxek5qQ0phM0s4enppOVBPSmtHSzlCM1pKWF9wZEc5ZW5WOE9oTEs0QVR4UEVQU3ROUnNxeXltNHViRFRYejVkQm9xcGUxSFBvalNERm9HYkNoZ2VsODdPSzZMd3ZQOUNINEVzOFVRYlFLSWJRcVEwby15OERrSHZoNGJUTEZsTE1SWU9KbU9rYlRkNVZjUHFLeU1wSHdYXzNKQm1kXzlTU0ZTUmlYZVJtZ0ViUl9GX0xhZ1ZKMlZPWHBDZFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could Amazon Stock Be Worth More Than Apple In The Next 5 Years? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUJobk5SbWNUYmNXa0NJd3paLUxneWJqNXBnQXplcjdKQURFaDVxVUpEUDlHSTVkVVA5TWVVdTVoc01pcEtHblhINHBsSTRVSkdrY1JrNklZVFJSZFlGdHA5cE5NdkMxUldBZzYxYWtVQ0xoeDkzYkx5emxCTmZlcjNIbTBqdlB3RGRBakVkSWczRGl2d1Z0OERGeGk0UldkekExcEt5Vm5YZVJf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon's Massive $5B Taiwan Investment Brings AWS Cloud Region to Asia's Tech Hub - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1IzY0diVUJ1WHVqQmpfUjQyS3AtTzdYSldQb3lfWE1HcGdpR1B0TXFXcEZMS2hNcE9iaDl6amFQMGJnWUJCNUNnbndkcWpveGppR0Q1Q3IyREhabHNnYUtfdkhPeVlJQWQxSTVYc3d4NXVBeVRqWnhKVUpFRVd0eWRnQWJSbTVjWG9EMDgzc0VlRFgwSlFUQXZNWQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 226.09
+      },
+      {
+        "date": "2024-12-10",
+        "price": 225.04
+      },
+      {
+        "date": "2024-12-11",
+        "price": 230.26
+      },
+      {
+        "date": "2024-12-12",
+        "price": 228.97
+      },
+      {
+        "date": "2024-12-13",
+        "price": 227.46
+      },
+      {
+        "date": "2024-12-16",
+        "price": 232.93
+      },
+      {
+        "date": "2024-12-17",
+        "price": 231.15
+      },
+      {
+        "date": "2024-12-18",
+        "price": 220.52
+      },
+      {
+        "date": "2024-12-19",
+        "price": 223.29
+      },
+      {
+        "date": "2024-12-20",
+        "price": 224.92
+      },
+      {
+        "date": "2024-12-23",
+        "price": 225.06
+      },
+      {
+        "date": "2024-12-24",
+        "price": 229.05
+      },
+      {
+        "date": "2024-12-26",
+        "price": 227.05
+      },
+      {
+        "date": "2024-12-27",
+        "price": 223.75
+      },
+      {
+        "date": "2024-12-30",
+        "price": 221.3
+      },
+      {
+        "date": "2024-12-31",
+        "price": 219.39
+      },
+      {
+        "date": "2025-01-02",
+        "price": 220.22
+      },
+      {
+        "date": "2025-01-03",
+        "price": 224.19
+      },
+      {
+        "date": "2025-01-06",
+        "price": 227.61
+      },
+      {
+        "date": "2025-01-07",
+        "price": 222.11
+      },
+      {
+        "date": "2025-01-08",
+        "price": 222.13
+      },
+      {
+        "date": "2025-01-10",
+        "price": 218.94
+      },
+      {
+        "date": "2025-01-13",
+        "price": 218.46
+      },
+      {
+        "date": "2025-01-14",
+        "price": 217.76
+      },
+      {
+        "date": "2025-01-15",
+        "price": 223.35
+      },
+      {
+        "date": "2025-01-16",
+        "price": 220.66
+      },
+      {
+        "date": "2025-01-17",
+        "price": 225.94
+      },
+      {
+        "date": "2025-01-21",
+        "price": 230.71
+      },
+      {
+        "date": "2025-01-22",
+        "price": 235.01
+      },
+      {
+        "date": "2025-01-23",
+        "price": 235.42
+      },
+      {
+        "date": "2025-01-24",
+        "price": 234.85
+      },
+      {
+        "date": "2025-01-27",
+        "price": 235.42
+      },
+      {
+        "date": "2025-01-28",
+        "price": 238.15
+      },
+      {
+        "date": "2025-01-29",
+        "price": 237.07
+      },
+      {
+        "date": "2025-01-30",
+        "price": 234.64
+      },
+      {
+        "date": "2025-01-31",
+        "price": 237.68
+      },
+      {
+        "date": "2025-02-03",
+        "price": 237.42
+      },
+      {
+        "date": "2025-02-04",
+        "price": 242.06
+      },
+      {
+        "date": "2025-02-05",
+        "price": 236.17
+      },
+      {
+        "date": "2025-02-06",
+        "price": 238.83
+      },
+      {
+        "date": "2025-02-07",
+        "price": 229.15
+      },
+      {
+        "date": "2025-02-10",
+        "price": 233.14
+      },
+      {
+        "date": "2025-02-11",
+        "price": 232.76
+      },
+      {
+        "date": "2025-02-12",
+        "price": 228.93
+      },
+      {
+        "date": "2025-02-13",
+        "price": 230.37
+      },
+      {
+        "date": "2025-02-14",
+        "price": 228.68
+      },
+      {
+        "date": "2025-02-18",
+        "price": 226.65
+      },
+      {
+        "date": "2025-02-19",
+        "price": 226.63
+      },
+      {
+        "date": "2025-02-20",
+        "price": 222.88
+      },
+      {
+        "date": "2025-02-21",
+        "price": 216.58
+      },
+      {
+        "date": "2025-02-24",
+        "price": 212.71
+      },
+      {
+        "date": "2025-02-25",
+        "price": 212.8
+      },
+      {
+        "date": "2025-02-26",
+        "price": 214.35
+      },
+      {
+        "date": "2025-02-27",
+        "price": 208.74
+      },
+      {
+        "date": "2025-02-28",
+        "price": 212.28
+      },
+      {
+        "date": "2025-03-03",
+        "price": 205.02
+      },
+      {
+        "date": "2025-03-04",
+        "price": 203.8
+      },
+      {
+        "date": "2025-03-05",
+        "price": 208.36
+      },
+      {
+        "date": "2025-03-06",
+        "price": 200.7
+      },
+      {
+        "date": "2025-03-07",
+        "price": 199.25
+      },
+      {
+        "date": "2025-03-10",
+        "price": 194.54
+      },
+      {
+        "date": "2025-03-11",
+        "price": 196.59
+      },
+      {
+        "date": "2025-03-12",
+        "price": 198.89
+      },
+      {
+        "date": "2025-03-13",
+        "price": 193.89
+      },
+      {
+        "date": "2025-03-14",
+        "price": 197.95
+      },
+      {
+        "date": "2025-03-17",
+        "price": 195.74
+      },
+      {
+        "date": "2025-03-18",
+        "price": 192.82
+      },
+      {
+        "date": "2025-03-19",
+        "price": 195.54
+      },
+      {
+        "date": "2025-03-20",
+        "price": 194.95
+      },
+      {
+        "date": "2025-03-21",
+        "price": 196.21
+      },
+      {
+        "date": "2025-03-24",
+        "price": 203.26
+      },
+      {
+        "date": "2025-03-25",
+        "price": 205.71
+      },
+      {
+        "date": "2025-03-26",
+        "price": 201.13
+      },
+      {
+        "date": "2025-03-27",
+        "price": 201.36
+      },
+      {
+        "date": "2025-03-28",
+        "price": 192.72
+      },
+      {
+        "date": "2025-03-31",
+        "price": 190.26
+      },
+      {
+        "date": "2025-04-01",
+        "price": 192.17
+      },
+      {
+        "date": "2025-04-02",
+        "price": 196.01
+      },
+      {
+        "date": "2025-04-03",
+        "price": 178.41
+      },
+      {
+        "date": "2025-04-04",
+        "price": 171.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 175.26
+      },
+      {
+        "date": "2025-04-08",
+        "price": 170.66
+      },
+      {
+        "date": "2025-04-09",
+        "price": 191.1
+      },
+      {
+        "date": "2025-04-10",
+        "price": 181.22
+      },
+      {
+        "date": "2025-04-11",
+        "price": 184.87
+      },
+      {
+        "date": "2025-04-14",
+        "price": 182.12
+      },
+      {
+        "date": "2025-04-15",
+        "price": 179.59
+      },
+      {
+        "date": "2025-04-16",
+        "price": 174.33
+      },
+      {
+        "date": "2025-04-17",
+        "price": 172.61
+      },
+      {
+        "date": "2025-04-21",
+        "price": 167.32
+      },
+      {
+        "date": "2025-04-22",
+        "price": 173.18
+      },
+      {
+        "date": "2025-04-23",
+        "price": 180.6
+      },
+      {
+        "date": "2025-04-24",
+        "price": 186.54
+      },
+      {
+        "date": "2025-04-25",
+        "price": 188.99
+      },
+      {
+        "date": "2025-04-28",
+        "price": 187.7
+      },
+      {
+        "date": "2025-04-29",
+        "price": 187.39
+      },
+      {
+        "date": "2025-04-30",
+        "price": 184.42
+      },
+      {
+        "date": "2025-05-01",
+        "price": 190.2
+      },
+      {
+        "date": "2025-05-02",
+        "price": 189.98
+      },
+      {
+        "date": "2025-05-05",
+        "price": 186.35
+      },
+      {
+        "date": "2025-05-06",
+        "price": 185.01
+      },
+      {
+        "date": "2025-05-07",
+        "price": 188.71
+      },
+      {
+        "date": "2025-05-08",
+        "price": 192.08
+      },
+      {
+        "date": "2025-05-09",
+        "price": 193.06
+      },
+      {
+        "date": "2025-05-12",
+        "price": 208.64
+      },
+      {
+        "date": "2025-05-13",
+        "price": 211.37
+      },
+      {
+        "date": "2025-05-14",
+        "price": 210.25
+      },
+      {
+        "date": "2025-05-15",
+        "price": 205.17
+      },
+      {
+        "date": "2025-05-16",
+        "price": 205.59
+      },
+      {
+        "date": "2025-05-19",
+        "price": 206.16
+      },
+      {
+        "date": "2025-05-20",
+        "price": 204.07
+      },
+      {
+        "date": "2025-05-21",
+        "price": 201.12
+      },
+      {
+        "date": "2025-05-22",
+        "price": 203.1
+      },
+      {
+        "date": "2025-05-23",
+        "price": 200.99
+      },
+      {
+        "date": "2025-05-27",
+        "price": 206.02
+      },
+      {
+        "date": "2025-05-28",
+        "price": 204.72
+      },
+      {
+        "date": "2025-05-29",
+        "price": 205.7
+      },
+      {
+        "date": "2025-05-30",
+        "price": 205.01
+      },
+      {
+        "date": "2025-06-02",
+        "price": 206.65
+      },
+      {
+        "date": "2025-06-03",
+        "price": 205.71
+      },
+      {
+        "date": "2025-06-04",
+        "price": 207.23
+      },
+      {
+        "date": "2025-06-05",
+        "price": 207.91
+      },
+      {
+        "date": "2025-06-06",
+        "price": 213.57
+      }
+    ],
+    "current_price_data": {
+      "price": 213.57,
+      "change": 5.66,
+      "percent_change": 2.72
+    }
+  }
+}

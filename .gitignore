@@ -1,0 +1,25 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+#  Secrets / config locales
+.env
+*.db
+*.sqlite
+
+# Données & sorties
+/data/
+output/history/
+output/*.csv
+output/*.html
+output/*.txt
+output/*.png
+
+# macOS
+.DS_Store
+

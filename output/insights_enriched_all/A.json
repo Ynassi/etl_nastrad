@@ -1,0 +1,661 @@
+{
+  "ticker": "A",
+  "name": "Agilent Technologies",
+  "sector": "Health Care",
+  "market_cap": 32468629504.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 28.15271,
+    "PB": 5.2889733,
+    "EV_Revenue": 5.258,
+    "ROE": 0.18882999,
+    "ProfitMargin": 0.17592,
+    "GrossMargin": 0.53576,
+    "DividendYield": 0.86,
+    "DebtEquity": 60.039,
+    "CurrentRatio": 2.091,
+    "QuickRatio": 1.417,
+    "FreeCashFlow": 1048374976,
+    "OperatingCashFlow": 1584999936,
+    "FCF_Margin": 0.15817365970012928,
+    "ROA": 0.08462,
+    "PEG": null,
+    "EV_EBITDA": 18.991,
+    "BuybackYield": null,
+    "PriceToFCF": 30.872891342267216
+  },
+  "technical_indicators": {
+    "RSI_14": 56.327626465425915,
+    "Momentum_10": 4.861810661004948,
+    "MACD": 0.9486724119730638,
+    "BB_Percent": 0.7381023048916147,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.878236151995776,
+    "QualityScore": 0.351693820372929,
+    "SignalScore": 0.5303544012183903
+  },
+  "volatility": 0.0214369082614051,
+  "beta": 1.232,
+  "return_6m": -0.167661148901436,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 16,
+    "target_mean_price": 136.825
+  },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière plusieurs tendances clés sur les marchés financiers. On observe une prudence des consommateurs affectant les prévisions de Lululemon, tandis que Tesla voit son cours rebondir malgré des tensions entre Musk et Trump. Dollar General voit son action grimper, mais des milliardaires se déchargent de leurs actions Nvidia pour investir dans une valeur en forte croissance. Par ailleurs, des opportunités d'investissement sont identifiées chez Berkshire Hathaway, Oracle et Bank of America, tandis que des actions asiatiques sont estimées sous-évaluées. Enfin, des mouvements notables sont observés chez MercadoLibre, Disney, Manchester United, et Astrazeneca, offrant des pistes de réflexion aux investisseurs.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "S&P 500 Gains and Losses Today: Lululemon Stock Falls as Forecasts Reflect Consumer Caution - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONUQyZmoyczVsNnp1enV1QVZiQjFlVGM2SkhxbmJGbzZZWTEwcnFBX3VTUkxxQWp4d1NDajdFNUN0dEpOQWdJcV9KQ2R2bzBkOXRJMG5BWXoySVl6NExfSFZTam5nNGVmM1VET25CTjVaVm5Na21tdkZpMnpXX2tON0RZNTVRWmNlbzEzVzZobEJDWk1MZkxlRS1TZlA1NjdNLXptb1ZBckk1ckpQT0x0RVhOQm54Yng5YzFYaVpOXzZodTl0dEtMSVRnR2s?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Stock Bounces After Musk-Trump Blowup But Maybe There's More To Thursday's Decline - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnJTVlJuM0ZhTW5uWkJ3d2dKTkE0THY0NDJjX2VDZlZ4ejZiM2dZcTI2YzZiRkF2OC1HUWxvbWdRbXB2MDZBWUZVYmZiQ211NXdKU2l2VWVQM1I0MUx5YkFpRl9zVnNxNWdfNjUwSGxFQ0RuSGRSVkgwWEhZZTczY0JQUG0wZEJ3ZlpLMzNPOHJIUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MayX course features a stock market boot camp and $1M of virtual money - Furman University",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWJhdXl4bGlkdzRHZm1QQ004WkI4OGE4a205dUNvN3ZxZThNR0otcy1UNDNmU2NCckptUnlaLXJIZDQ4SEl1OV9yMVJ1WGNrZHNXbDVZcGxMMVZXR2IxdzVCNW5qQ2syX1hnQzBPYzlrRkN6SmJXVGMyeFFvQVNCUUVnbTlKT1pvemlxYjFXR0JEdmRDdG1TeXNiOGtXWFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don’t buy Tesla’s stock as Trump and Musk feud — yet. Here’s the price to watch. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYS1tbktNLXAwLXNCU29tcHB1ZUx4Wk01cTl4WXZTVUUtWkxqT0RkRzBUTFJtXzNXQm9zaVNocDQ1dHBSaEwxaWVFT1o5UHdJano4ZWxMTkwxWkhXRTdhN1F0NFRiRmk5ZzVRLVpGUVlzeGpCU1M1VWRRLXAzSmVXWHVkODQ4X3JmaFIwRFJpQnR5T1JFZndPbmN4b2JQQWktRnA2bTdramozdWxpOGU2QmlXOElJS1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dollar General Stock Is Rallying. Is It Still a Bargain? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVB5V0t1YUZob3ZKemtIb25oUlNwZkh6a1BJdE1TaDFoWU5IOXBxUmtrLTg3WWJCdzNENHl0NndiRVBsX1Z3MmdadDROZjcxNkwwUU0xV3hPZG1hcC1HSEdieXFtdDRkTjRVcHZyYjNySHZtVkNwQ2owb2dKUFdmdUdMMzkxM1My?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes MercadoLibre (MELI) a Strong Momentum Stock: Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUN4VEVjU2VuZ0FPN2dqbnpsM0pWTnhIODJJZnYxX2hmNmNxVlY3a1hBUUo3b0FRVmwwLVV4TjhVYjBoRjVoNWZNczRuRTUzQndqc3NqcWxZUUdrbTJRR1BFNFo2MTRacDh0aGxCeEZiUlBnUV9jUDFQYVFHdWNNN1E4X25HSmR6blJmVnBrWWVndGR2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdPaUVqYkhZem8xdUs5eUNMQUJ4Q1BDNWlXYTBpRDY3a0NqX0JNay01Vy1PM3FTREJOT1lObnpGZkY3RGFzeExoZWFuNFhhSjNaOGZCY1ZwVHphNk9OU0llN0NvM0xpNFpQV091ODFaUWpMOVVzR1h1dUd0ckFCZ0Z0MGxwSFFVSzVQUUFUaExFRG5LNHdZNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A stock exemplifying the investment case for water and waste - Citywire",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFZvY3gzUGtsdTlPdzVHeWJUajgwYzYtTm0wVzJ5YWFNck5mTVp0aVVqOUdtOHhlMnhRMVkzaGlPNktwcVRGQVdWdWdKWWpMdjB0Mjl5UkFsUGhMbGU2TnZVNWhNeDlhU0lmR181OUtnWk9rby1nOVYydk13Q0VQdE1pYzNnRVBTdXlXVGtJZ3UtMTRrQ1lfazB0SnZtNzU2a0tQWkM1MHVzSGtrUks0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 No-Brainer S&P 500 Stock Down 20% to Buy on the Dip - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uWlprUFgyeDZqamU4ay13b0xNZ3Y1ZTBEZm5iaktvcE9xdlVYZGctY05KR0pLQ0tCUDBrOUwtQ1VtNnk3NGFrVGYwVUxwSWpNNHpPaTZjNW1oU2R3bjJPVkZaNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "When risk-on sentiment returns, here's an options trade on a stock that may lead the charge - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGdQaVJnYVd1dHNlSkhvNHRPbXdodXgzYl96Nk9yMnNsbHlLZ3ZaU0NCa3A3d3FYTDBVdW43VmstbmZDczBzSEpzcGY3QlZUSWVtMDh5WUpTUHZ2RXpuN0FDb0k4YVdPa0VaT25tV3Y2VU0yeTFGZkV2WGhCYW96bmZBeExBcjU5Z1ZQanpVNmFQdlR6VmxGZVZqSVByMU9ZWHNPbEVpVGRUNUpNZDBnX2xUNndYY3p3TXJrV1RYLVppSnNv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berkshire Hathaway Stock: Undervalued And Oversold (NYSE:BRK.A) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3RncmJESkJHMXRyZ3RNVEc0dk5ZNnJfcTFBWmdoVXZXakhiVXBUNVJWdjYwY1RsLVBCaXNLaTlfcHNSVlhHaU5oakp3NlRNY0xLei1lVURJMjhFQmRLalRybU9tV0VZb2cycktYTTZuNW52SE9OcDh2YzJhMXZlaXpzdzNVZkY0R011Rw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Wise's American ambitions include a stock listing - American Banker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3BvZ0FBb0Q5RWRSQWFCdVkzR2hPdGJNVWJsYU9BVHZIR0xmMWNBSTZWTDRuZEpMX1RBTE1pSlhIaWVsaEIydUdwN0V3c0drRWhjdXh0cVZDSHZJUDVVZnlNRmlEcnJyZGg3X3dTU3RfYWJGWTJCRnpHUGZyWG1NeW0zTnJJOXNBZFRfR1dqOFdoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Watch: Oracle Stock Revs High Amid Earnings Optimism, Bullish AI Prospects - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUNLYmlyT01jNndvTFh5VWhpV0hCZDNJUnJ2b3JMNms1Y29xc1JOM3JDalpmXzVHSUFRcnE0TWpuVjJqakl1b3g0bGRlYVlheXdUZkRkWkE0MU5zZ0lFWnM2MC01ajZLU3c4M1lkYlU1ZFlKMVgwS1hucG1wWjk2eEpaVGE3Rm1BVk16QkRndlMxSFp5bl9YSVBBQzgtVl9JLXNJOUVUbW8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Walt Disney Company (DIS) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzZIc0JkaWxzbkd6aG5hLTllWXNMaExDMVRzbHVpQ0FJcmNOY2RjRUF6ODBHYkNITG9raDVFZjdGWWFOVTVOVlZxX3pFM2VRMWtYVGJocHFDeXE2SFIzQXdBOC1MOWVIaXNaZ2xyS1ZQWmdmdE9HLWtIVjdrRVA1UlBSMnk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manchester United Stock Pops as Deep Europa League Run Fuels Revenue Gains - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNempwd3ozWk9USTZ2UkpwZ1BHajlUOVJCU2JIOVR3MDUyTlJpWUlwWFl5Zk55aVRMZDRrcW1QZmppclFvNXRuc0c1aGM0SDZUcVhod3FjbHZGdVZNcE9aWk45ZHNhcFlISWhEVEY4S0toVlFhYnVjb0tFYjZ6X0VDbU40TWJLUERfd2otaVpNSTFRRWpBMnRJV3BuSkVzOU1HNExLM3lLS1FTenNjR00xSGVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Is Ready to Invest $100 Billion in a Stock That Meets These 3 Criteria - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjlubmpQby1tZDFuSU1PWkU1aVVFcXU4RWZsa0c1SGRWYS14UktyNDdkQUVGZ3dZMVFKLTQ5eG85Z2dYTUxMUEdZaWYxZGFpYkt6bHp4aUJkOUdQc1g4eFJpaVFEUDNxaDVMNmoxQWlJaDE1akd4RWR1VVU0aVVIZ1RLNDRDdmZlX1VzcWFSc1h0eGdkRGtFYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVhqLXpyMVVtMVJFSW5xWWNTZjd1ZHp6cVVMdmN3Y0l6R2RIN1lMZXA3R1lMS1dTOWl3aEM0ak9TRDhHYUFxOVRVeldnc05tc2Y1Zllnb2xsMDhsQ0FBS3A0amRIOFhIcmlfSmpwdWtMdmVERlRVSzJ1QWsxcXJERmJfTWhiUlRxRWpUSnlqVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Asian Stocks Estimated To Be Trading Below Intrinsic Value By Up To 27.8% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXVHdl8wY3pLZlQ4TXJPTlNXc1JkT0NTeDVoYnlwMWdkVjlMVFRxcmZ6ZHNxRmEyZHNrRGM2R2xRM3hkYmc1T2d4RGVXRHhlSEFmM2FIZ1ZoZWx4Um5udkpyN0NtWGl6WlVMZEczWXhYVFNYc0N6N0dMdkotajZyb3k1NE8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Earnings Growth & Price Strength Make Bank of America (BAC) a Stock to Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTJySnZNdDhiRWZVbHhaUURfS2ZEVDJtM0tVRklDaG9jZVdzbUJsaWpYdkhBaXU4UW0xXzdzdkprUTktcHRxWGlhbGx5OXhlME1FTDlyTTBNRzFSeTd4bTd4d2lucXB4a0s1ZGh3UXFKcG4tX0l3TWlrcEFFZ3dFeTNLaDlsajJh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Astrazeneca (AZN) is a Top Growth Stock for the Long-Term - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEd1bzJBTG9WNlNVWTdIVzY4azVBbkJUZWlxX2tueDZTQThMVjNNbmdTalo0Qk8tZE5BRnRBeFdndWFBN1ZCSEtpOGJJTnpTSGE2UDc4dEJvVmlPdWZ0ZVcxVk9GQUlJblREUGE2aVRDd0tLQUlxcDhvUzNJQVl1blVXeWEyZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 144.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 141.93
+      },
+      {
+        "date": "2024-12-11",
+        "price": 141.19
+      },
+      {
+        "date": "2024-12-12",
+        "price": 140.91
+      },
+      {
+        "date": "2024-12-13",
+        "price": 139.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 137.67
+      },
+      {
+        "date": "2024-12-17",
+        "price": 136.46
+      },
+      {
+        "date": "2024-12-18",
+        "price": 133.01
+      },
+      {
+        "date": "2024-12-19",
+        "price": 133.19
+      },
+      {
+        "date": "2024-12-20",
+        "price": 134.51
+      },
+      {
+        "date": "2024-12-23",
+        "price": 134.6
+      },
+      {
+        "date": "2024-12-24",
+        "price": 136.1
+      },
+      {
+        "date": "2024-12-26",
+        "price": 135.83
+      },
+      {
+        "date": "2024-12-27",
+        "price": 135.54
+      },
+      {
+        "date": "2024-12-30",
+        "price": 134.42
+      },
+      {
+        "date": "2024-12-31",
+        "price": 134.34
+      },
+      {
+        "date": "2025-01-02",
+        "price": 133.43
+      },
+      {
+        "date": "2025-01-03",
+        "price": 135.69
+      },
+      {
+        "date": "2025-01-06",
+        "price": 136.43
+      },
+      {
+        "date": "2025-01-07",
+        "price": 137.41
+      },
+      {
+        "date": "2025-01-08",
+        "price": 137.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 137.47
+      },
+      {
+        "date": "2025-01-13",
+        "price": 141.95
+      },
+      {
+        "date": "2025-01-14",
+        "price": 143.43
+      },
+      {
+        "date": "2025-01-15",
+        "price": 142.23
+      },
+      {
+        "date": "2025-01-16",
+        "price": 144.72
+      },
+      {
+        "date": "2025-01-17",
+        "price": 147.36
+      },
+      {
+        "date": "2025-01-21",
+        "price": 152.57
+      },
+      {
+        "date": "2025-01-22",
+        "price": 152.6
+      },
+      {
+        "date": "2025-01-23",
+        "price": 152.45
+      },
+      {
+        "date": "2025-01-24",
+        "price": 151.44
+      },
+      {
+        "date": "2025-01-27",
+        "price": 150.96
+      },
+      {
+        "date": "2025-01-28",
+        "price": 150.34
+      },
+      {
+        "date": "2025-01-29",
+        "price": 147.09
+      },
+      {
+        "date": "2025-01-30",
+        "price": 151.38
+      },
+      {
+        "date": "2025-01-31",
+        "price": 151.52
+      },
+      {
+        "date": "2025-02-03",
+        "price": 148.63
+      },
+      {
+        "date": "2025-02-04",
+        "price": 147.04
+      },
+      {
+        "date": "2025-02-05",
+        "price": 147.99
+      },
+      {
+        "date": "2025-02-06",
+        "price": 147.64
+      },
+      {
+        "date": "2025-02-07",
+        "price": 145.21
+      },
+      {
+        "date": "2025-02-10",
+        "price": 143.69
+      },
+      {
+        "date": "2025-02-11",
+        "price": 141.75
+      },
+      {
+        "date": "2025-02-12",
+        "price": 138.08
+      },
+      {
+        "date": "2025-02-13",
+        "price": 136.45
+      },
+      {
+        "date": "2025-02-14",
+        "price": 134.67
+      },
+      {
+        "date": "2025-02-18",
+        "price": 135.2
+      },
+      {
+        "date": "2025-02-19",
+        "price": 137.15
+      },
+      {
+        "date": "2025-02-20",
+        "price": 136.79
+      },
+      {
+        "date": "2025-02-21",
+        "price": 135.37
+      },
+      {
+        "date": "2025-02-24",
+        "price": 135.28
+      },
+      {
+        "date": "2025-02-25",
+        "price": 134.18
+      },
+      {
+        "date": "2025-02-26",
+        "price": 134.47
+      },
+      {
+        "date": "2025-02-27",
+        "price": 127.08
+      },
+      {
+        "date": "2025-02-28",
+        "price": 127.92
+      },
+      {
+        "date": "2025-03-03",
+        "price": 126.33
+      },
+      {
+        "date": "2025-03-04",
+        "price": 123.06
+      },
+      {
+        "date": "2025-03-05",
+        "price": 126.51
+      },
+      {
+        "date": "2025-03-06",
+        "price": 126.55
+      },
+      {
+        "date": "2025-03-07",
+        "price": 126.7
+      },
+      {
+        "date": "2025-03-10",
+        "price": 121.9
+      },
+      {
+        "date": "2025-03-11",
+        "price": 121.03
+      },
+      {
+        "date": "2025-03-12",
+        "price": 119.85
+      },
+      {
+        "date": "2025-03-13",
+        "price": 117.33
+      },
+      {
+        "date": "2025-03-14",
+        "price": 121.18
+      },
+      {
+        "date": "2025-03-17",
+        "price": 122.49
+      },
+      {
+        "date": "2025-03-18",
+        "price": 123.1
+      },
+      {
+        "date": "2025-03-19",
+        "price": 122.21
+      },
+      {
+        "date": "2025-03-20",
+        "price": 120.28
+      },
+      {
+        "date": "2025-03-21",
+        "price": 120.75
+      },
+      {
+        "date": "2025-03-24",
+        "price": 121.97
+      },
+      {
+        "date": "2025-03-25",
+        "price": 120.51
+      },
+      {
+        "date": "2025-03-26",
+        "price": 119.9
+      },
+      {
+        "date": "2025-03-27",
+        "price": 118.97
+      },
+      {
+        "date": "2025-03-28",
+        "price": 116.69
+      },
+      {
+        "date": "2025-03-31",
+        "price": 116.98
+      },
+      {
+        "date": "2025-04-01",
+        "price": 114.05
+      },
+      {
+        "date": "2025-04-02",
+        "price": 115.99
+      },
+      {
+        "date": "2025-04-03",
+        "price": 109.67
+      },
+      {
+        "date": "2025-04-04",
+        "price": 103.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 103.59
+      },
+      {
+        "date": "2025-04-08",
+        "price": 99.29
+      },
+      {
+        "date": "2025-04-09",
+        "price": 107.05
+      },
+      {
+        "date": "2025-04-10",
+        "price": 99.95
+      },
+      {
+        "date": "2025-04-11",
+        "price": 102.71
+      },
+      {
+        "date": "2025-04-14",
+        "price": 105.19
+      },
+      {
+        "date": "2025-04-15",
+        "price": 103.12
+      },
+      {
+        "date": "2025-04-16",
+        "price": 102.7
+      },
+      {
+        "date": "2025-04-17",
+        "price": 102.48
+      },
+      {
+        "date": "2025-04-21",
+        "price": 100.26
+      },
+      {
+        "date": "2025-04-22",
+        "price": 102.81
+      },
+      {
+        "date": "2025-04-23",
+        "price": 105.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 107.02
+      },
+      {
+        "date": "2025-04-25",
+        "price": 106.28
+      },
+      {
+        "date": "2025-04-28",
+        "price": 106.87
+      },
+      {
+        "date": "2025-04-29",
+        "price": 107.46
+      },
+      {
+        "date": "2025-04-30",
+        "price": 107.6
+      },
+      {
+        "date": "2025-05-01",
+        "price": 106.46
+      },
+      {
+        "date": "2025-05-02",
+        "price": 108.63
+      },
+      {
+        "date": "2025-05-05",
+        "price": 108.37
+      },
+      {
+        "date": "2025-05-06",
+        "price": 105.24
+      },
+      {
+        "date": "2025-05-07",
+        "price": 107.52
+      },
+      {
+        "date": "2025-05-08",
+        "price": 108.7
+      },
+      {
+        "date": "2025-05-09",
+        "price": 106.93
+      },
+      {
+        "date": "2025-05-12",
+        "price": 115.55
+      },
+      {
+        "date": "2025-05-13",
+        "price": 115.42
+      },
+      {
+        "date": "2025-05-14",
+        "price": 111.52
+      },
+      {
+        "date": "2025-05-15",
+        "price": 112.4
+      },
+      {
+        "date": "2025-05-16",
+        "price": 113.77
+      },
+      {
+        "date": "2025-05-19",
+        "price": 113.44
+      },
+      {
+        "date": "2025-05-20",
+        "price": 113.48
+      },
+      {
+        "date": "2025-05-21",
+        "price": 108.91
+      },
+      {
+        "date": "2025-05-22",
+        "price": 109.68
+      },
+      {
+        "date": "2025-05-23",
+        "price": 108.53
+      },
+      {
+        "date": "2025-05-27",
+        "price": 111.26
+      },
+      {
+        "date": "2025-05-28",
+        "price": 110.88
+      },
+      {
+        "date": "2025-05-29",
+        "price": 113.28
+      },
+      {
+        "date": "2025-05-30",
+        "price": 111.92
+      },
+      {
+        "date": "2025-06-02",
+        "price": 111.05
+      },
+      {
+        "date": "2025-06-03",
+        "price": 112.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 114.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 113.94
+      },
+      {
+        "date": "2025-06-06",
+        "price": 115.8
+      }
+    ],
+    "current_price_data": {
+      "price": 115.8,
+      "change": 1.86,
+      "percent_change": 1.63
+    }
+  }
+}

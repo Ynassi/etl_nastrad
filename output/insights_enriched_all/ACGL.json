@@ -1,0 +1,661 @@
+{
+  "ticker": "ACGL",
+  "name": "Arch Capital Group",
+  "sector": "Financials",
+  "market_cap": 35478056960.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 9.7097435,
+    "PB": 1.7095546,
+    "EV_Revenue": 1.934,
+    "ROE": 0.18415001,
+    "ProfitMargin": 0.20724002,
+    "GrossMargin": 0.33915,
+    "DividendYield": null,
+    "DebtEquity": 12.662,
+    "CurrentRatio": 0.581,
+    "QuickRatio": 0.288,
+    "FreeCashFlow": 7810124800,
+    "OperatingCashFlow": 6567000064,
+    "FCF_Margin": 0.42978894397831996,
+    "ROA": 0.03801,
+    "PEG": null,
+    "EV_EBITDA": 7.885,
+    "BuybackYield": null,
+    "PriceToFCF": 4.537774179485583
+  },
+  "technical_indicators": {
+    "RSI_14": 53.52620487802617,
+    "Momentum_10": 2.0247764283340186,
+    "MACD": 0.6692220109577107,
+    "BB_Percent": 0.6316306805751095,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8927920887103103,
+    "QualityScore": 0.4162793582735986,
+    "SignalScore": 0.5640852119061515
+  },
+  "volatility": 0.017452525983096,
+  "beta": 0.516,
+  "return_6m": -0.0387856612618472,
+  "analyst_rating": {
+    "recommendation": "none",
+    "analyst_count": 14,
+    "target_mean_price": 112.21429
+  },
+  "news_sentiment": {
+    "summary": "Arch Capital Group (ACGL) continue d'attirer l'attention des investisseurs avec des fluctuations de cours contrastées par rapport au marché, suscitant des intérêts d'acteurs majeurs tels que NBC Securities Inc. et Jacobs Levy Equity Management Inc. Les récentes acquisitions de parts par des entités telles que DSG Capital Advisors LLC et Universal Beteiligungs und Servicegesellschaft mbH suggèrent une confiance accrue dans la société. Les analyses optimistes des résultats par Zacks Research contrastent avec certaines ventes de parts par des investisseurs comme B. Riley Wealth Advisors Inc., indiquant des perspectives divergentes sur le titre.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Arch Capital Group (ACGL) Stock Declines While Market Improves: Some Information for Investors - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzRhR2NiZjBUTHVENk5GeGxsUzBsc0t2eHhoMnZydzF5bW0zYzVrQXhfakxFM0lQZ0ZNa2cyeEdudW02bkw0dG05cXhfLTFqdU1zSzNROHM3TjZ1OVdTekw0R09mZVduRUhuNV9RX2FlX3VSbm5IWXUwT292QlZzUFhwZEh1VU9FbFNGSU5HR2w1V3Q1MjF3SDhXYlVWQ2N0OVFTNjRDTXhKbno4SE1Bd3U3aG8tYktsRFAxeVdkYndlZEdnUjh2R1o2NkRJT0ZQMXF2cmF4OGRjamxLSnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch Capital Group Ltd. (NASDAQ:ACGL) Holdings Raised by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSVh1S0hsRGNvMkNoV0VHZ2VzRHZtd1h4Y0ZtQzZDR3k5M1lMTWZpQThDTjF1c1NkVkhFNnBDMVZyMFhqUU1acWZIZWFSUHR2cXN3QmZBeTJQQndJWXZNcVlmbzhYVFBjX05sdmdreUFpdi1QX2xFcnNyOE9MMF84NksxbTRGZ0MzWEtTQ2xqUWI4OU5fcUZXRi1BOXpfYzgwQXJ4Zmlra3VQdnoyQ2dKeFJKMk5HQ3VfUzBKODZKdHRMbnYwbUc2RklwUFI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Arch Capital Group Ltd. (ACGL) a Lucrative Investment? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONy1sRklldWY3b2NkaDVuSktmeDNPcUhpbTVadlhNTlFabmtaZmtBdTR6NGV1dGNCSms1ck9PbU15NXBtak95MERiMlg4eVM2NFc3QWtvV29aV1RDTmYzQi1CZWZSVnhDVUpKb0pzMXAyS1M3UEYwNTdmUTdTTWRxNU8ycmNrZGJvWnYxTFRQaklWVG51dmZHTG9DdjJ2b0k2UWExYXhwQjLSAbABQVVfeXFMTXFiWVJ0ZkY5R1NRTFVnXzVIcnZISy1QS1NEd0N1VzkxU1NNNjBzbHA0cjNlTkJyd1c5STdERHZ5Nlg1WElvZjNLblFpZ2l6c2dDTk12OUQ0V0R4TjZOZkVFUlVfclBaMzdHT2x4aXppRGNJQVJzd0RFdUYwRFV1VmFFbVFvblFUZjNhZ3B6V3Z1SDYyd0hoVFNVekNxV014d0Q0NXgtTVZYSzY4YzJqVE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Arch Capital Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW9WUmpTaVlZTHVFNXU3dTVoNkRnOWlOd2trSFlta3ZkY0VFVWc3elJSWkVUSkRONHpSX29VTEVzT3dDRDFJSkptemRWTTJBTnVSNTBMbzRWQWgxM2hZRDl5U3ZwUWt0T0NXQlR5emVyM1p5SjhISTdra2N0STYyV2IwYWNDM1AxQTRr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch Capital Group (NasdaqGS:ACGL) Integrates Wilqo Into Charlie Platform For Enhanced Rate Quotes - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORklGSFdaaVdBd3ZiZlNkS1htaC11aHhoUmhKblVXNU0zM2ptdkF2UFJ4VkQ1NmVzd0g0TThNVUJWWUZFLTdlRTBtcXFRRjVmQXZJd1JHYXhLZ2sxcFFuVmNXOWpjNG5KN3NYR0NCWlNMNDlwOVRVNlNpa2hfLUZWRmNRdzJSXzJDMWpFU2xzMHhYN0xfSTNjOGQ4dnh3QVM2NS13MmgzY0NDbG9PT255OFl6UllIMG9lQ20zRmNuZlJtSkJzYTB4VXhhallXTG9aM2hObdIB2gFBVV95cUxPRHJXVVBIRzMxVnoyLXFoVHlZQV9jNWlEN08tSmFxRFNFQUpNU3pWUGdPRG9oaE5QRmhWYUZBT2oyUzctLWpLQWxjU2FwdldZaVpKSkJmNC0yYmtlTEYwcEZpanFraTdxaVVaMTlVVlh3Y3FnMVdMZlZiSEhHXzdBcFhPZEFpTjVQWFl5WVlHR0taejRQaW1OOVRBcTFBRUIxRVV2d2N6dE9aLThGNEo1MmFfMmQzYUNKSU5kMnNMYmsxN1Q3ejhXMHh5V0VZZUJITlREMFVoelNsUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch MI Integration with Wilqo Brings Seamless Customer Experience | ACGL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnNFWlBpLVY3LWE1NHp3bEpTRUdVQk1WTUVkZlpXTk9abWlSZTc3a3ZOaHVPV2xRX0JEWmRZQ3B5R3g2ZW5FSDQtM3JOQW1GekFzRDQtNEdOR0Zva1lWNFYyQTNQcTZ1MmV0SnlxZ0ZTY1lsd1U2b0hFWEkxeWFSNmRKdEZpclVoTW9XUHYzRjNJVG5pN0R1a2dGVi1Qd2Q1VWdRc1g1UDE3R2k1U0lFRGNhWmowbnhHT1M2YnhzZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Has $6.90 Million Stock Position in Arch Capital Group Ltd. (NASDAQ:ACGL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkdxUVNLcV9RN3BiT3JaaFRsRUdCVnVRdXJLc3lkUmwxY0IzNTliZTVGMmt0MjdOaW8zSk82N0l0aHBGUE1qMEp3THk5RkVNazVKdVZ6enVxazVhZkNqQW0tcDN6aTZTeF9sN2FqUkd6dUxQZnpSOWF6cTVKdllkUWRRajBmYll1eFFHZDVPVGZFZDVicGxFQW9jNlYwS2lRaVVpbmIxcDBOanR5c2tpMGhIbGlfYlpKUF93TDBaeE9rZ1gzelNTSVVsck9PX013aGNwY0p6LWxlMzQ5S3htcDU5ZU1yS1lZTF9GSUFUZVJ5U2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch Capital Trades Above 50-Day SMA: Time to Hold ACGL Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mLVlXUDRwX3FvWlpmajAzXzRDVmZGUTA4Q3gtYWQySFliaGdvUFhVRk03NWtmUWg5SUtHXzczUVd2TTdHV2ExQzdQUEhmQ1ZuRHdhelJhVUlHSnpxb2lJeE9XM2otVG1iLWIwQ1hrNnI5MHdZemJuMmJMWVJMOWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch Capital Group (ACGL) Stock Dips While Market Gains: Key Facts - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1R5d1NCVE0wQmdObHJtbU1sWGJ5djhPbFFyaUJxeGJIODgxYlVwV0NNTVAzWHNVMG1XSmhBTkZrSzczeDdSRUZyVkNEeGZXSl9OZVBtSXJuVlBkTzNtdTdfSktwLVVISE1zN3RpZkQxc1V2ZVBmVW1fRVlpVldPdjE0TmdaZDdaYmNlMUFpcUk4VWU4TFNwT0M3anpXQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Arch Capital Group Ltd. (NASDAQ:ACGL) Shares Purchased by Jacobs Levy Equity Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVkhKd01uY0c5TC1mVTVDdVotNTlpeFJ4dk53Sk9PVjlRVEpMRW54Um9jOU1fd214R3k3dW9PV2k5OWdLVk81NDlZX2RGNXQ5VEpqUzBWZzNuMnJ4Z0lFY2VTU2NvSHh0Y2RtNmtqa3hFMFN3cE55YmJ0RVJjNldnR2tINDBzaWllOWxPS1lDZGNtSV9xaEV2WU5xdWVVY3FvNktwWl9SUHM1dVBYdEh5VDBZQXo1eTNVUzlMbEkwdklYX01sM0c5VGJkSkY0MUVaNEhVbXFxdlo4Y1hjZGNEOEt5cGYzd2lGMnZGSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arch Capital Group (ACGL) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUljcDVzT29RNHBuUllYcGEtSG5FdHF2N1c5RnFSN1puSFQ4VUFJX3ktamdZc3NUSnRZOHNqZ0FkZUctUHRlU0dLUEttWnhWNEpWQlpGSHVUNjl4THRsR3FXZm84VnUxUnQ5TXkydnBxdjI0dHNKX3Z3SFRHaVlSRA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Arch Capital Group Ltd. (NASDAQ:ACGL) Stake Increased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV01MaTc5M3JNdmQ4cVltNjc4bE9CcTB5WlNFQWM2RkxXRlNJNVNHdlhhZkVFNjJfX1k3cXc1YzZDUm5IR2J5LXpNaTR2b1ZsOE1UUFN6UlVKeTFlSjVPMl9lZFdhNWJzVU1UYk03enAwUGUxUEVGbEpQV1lfeEFfeEd1Q2FOcGZId09SYldfTk9Eb3RZN1hWeVQ2bTdWVE5KZ3lUajJDVWRoalpoalhKeXU2ckZZZElrRC1Ld0pGUlVGT2oxSGRITjFraTc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AXS vs. ACGL: Which P&C Insurance Stock Should You Hold Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tb3BjbV9Ba1NRVmdkbkRDNVE2dzVDMWNldVh2S0FWZWZrZS1BdEtrU0N6c01QallfckNJalJHdENMN2xKVzJYempsUGNJd0M5TlBZLWdFNGU1UkVROW5iLVpOOGcyUEtDaTM2ZC13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "B. Riley Wealth Advisors Inc. Sells 3,015 Shares of Arch Capital Group Ltd. (NASDAQ:ACGL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW84TzZDaGc0T3lFQnJDMDlkUG5YT2FnQklYS0RrTU85TEJsdTE5YUxIMHhkak03ZGtvTkF3OEEwOGNibE5USk9HZkNBTjk4RHVsdkp1NW5hWk5MZGpfN2lRcDI1emNIQTVaMHhKbFliNWNkY0EwSktIZmJmRUtxcU5GaDEwUHU4bk9GR0ZXeWdOX0RSb1NiQkE5UWdaeWVBNHFaTDhndk5uSmc0ZHhROEc5MUlPZHc0RW5LQnIzWFV0XzZ3YndVaHJSVVJ1WFBHQi1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zacks Research Issues Optimistic Estimate for ACGL Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUhMeFJSNjUwNlMwN0h1Y1ZyeGRxRFBsVDZ0WkZIOEJuNU93RWhJT0x0Q25TVGJrZDJzZUdLWUpnZi1uOXY1U19sZ0xBeVRoRGtlOExPX3RyOWFWdVZ3U3lvRVNLSzZwZllZUEZvTEVWeE5ZdGZhNC0yZTFzTG1wV3lSVVZ6SW5rXzRYYW16WmJJaUk5VVp4UHNJYXZCdThsSkpuNTFFTXhsRUFXY0FlaUxGSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "10,817 Shares in Arch Capital Group Ltd. (NASDAQ:ACGL) Acquired by DSG Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZThyMVZZa2Frb1d1bjV5UVFVZ1lsTFFkZmNIYmIzU2hUcXR5M1IxSzI0R3ZCOGJLWlN4SkJLVDRHZmRqSFBWVXMzSHROMUg5Vm92c3hUQkFnb2pGNS1ibXR5X19hNzF4d1ZmTnFwTjVQZmVabkxTbFRTWkFFZFRuRVQ2eHF0SDNFUDYycUN5X3VRNmdnY3BKaDBtUmxHLVhiWVBCQllBR0pmZzFUdnNGQVBER2FFaUszNjgwNU1iSlQyN2R1bGZZQzI5ZWYzY0h3Q3JVQkxvUzcwbUxX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Buys Shares of 8,200 Arch Capital Group Ltd. (NASDAQ:ACGL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmZjcjZoS1pjcFptVnJydEI1OHVGTHRubTN2YkxZcVcwRlFnRlNnSGN0TGkzZy1aaHhrVl9lYUVqaHVDM2hISlhielh1cTczZUQzVU9MWFgxcW9PV1dheUlMeXRrZmZEVkw4ZVVXY0lMSnVLLXZTd0Z0WjMzVWtfUllEQ2NCX1llal84M056MEhzVlZKekg3OUpVVnFQRUZOUzNia1Q3eXdwNVlYb1VadmVyaXpjT1dZdGY0TlZNTUxHc1MtMHByS2oxTVI0QUJIeFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Has $8.28 Million Stake in Arch Capital Group Ltd. (NASDAQ:ACGL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXRqNjQzZXQyNkktWm5OX2tfWFBRSl8yc1QybmNpb0o5QWVzN0NfN2p3UkRwSjdWSzJURkV2SDdWR0REei1zVUFxZk9TZ1BpdnA4T1hja2FHUmZxZF84NFZaZHZSMUNnSlBSQ1ZSSnQtMVd1TnJqV2dSekItNGdWbVZKVXZHWE5PQm82YWVnejlXODVsbGotazF4d3I5Wkd5MDhpREJUZktNN2g2aU9pYTZ2UXhZaGdsLVlfV2pHOTZTbjl6T0tkdF9BdzQyNEJrUlZseDVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2,765 Shares in Arch Capital Group Ltd. (NASDAQ:ACGL) Acquired by 111 Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFU3U2llV25nVy1nWERtb0FuUWcyeTV4VTZqVUtNOFJacWpiclpabk1UV0pmZE1qYTMyS3Q5b0tWemZfVFNSelJnN05YX3k2Z0N0ZTdlRmZHX3VCekg5bFkwUjFpVEV1R19GUy1FT29HQ1EyTVAybWZDWFlhWllmYW9hcWFCNVpwYXRiazgwS0FZeWJ2M3NzTnZJV05DendwcUd4WC1PSkVmeHIzRnp1a3hZUUZTMWEzOVZTYlRmd1FlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes Position in Arch Capital Group Ltd. (NASDAQ:ACGL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZkxkNDFaNFhhS1hJSER0T2laRTJoQ1h0b3kwZTlTdVpDeldsWUNiTmV3MnJBeTNzeUFvWXJ4aWo2OGdoUmRNck1GTkRzSG51ZXBoSG1YazhEdURrbUdyeVNvM0FKY1BmMHZnWnpHZkQzVGNtaU9peFNuU2VpU1I5eE9taF9uVVAwX19NT0hZMkRiMXVDaFNLYnFnMFc2emg3aUpVSnZmZXR3TkJtTzlURHVkWEppUFlNUmxtTmZsT25oTXRoUU16dk9XOWcwOFp4UThqSEVCYTdQekJBRnljS2s2VHlXd0tjMk01Y0k0LVJnblUwQnl2cjRQNTZod3ZJMFE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 95.9
+      },
+      {
+        "date": "2024-12-10",
+        "price": 93.35
+      },
+      {
+        "date": "2024-12-11",
+        "price": 94.07
+      },
+      {
+        "date": "2024-12-12",
+        "price": 93.92
+      },
+      {
+        "date": "2024-12-13",
+        "price": 93.42
+      },
+      {
+        "date": "2024-12-16",
+        "price": 91.34
+      },
+      {
+        "date": "2024-12-17",
+        "price": 90.53
+      },
+      {
+        "date": "2024-12-18",
+        "price": 88.71
+      },
+      {
+        "date": "2024-12-19",
+        "price": 88.99
+      },
+      {
+        "date": "2024-12-20",
+        "price": 90.99
+      },
+      {
+        "date": "2024-12-23",
+        "price": 92.09
+      },
+      {
+        "date": "2024-12-24",
+        "price": 92.67
+      },
+      {
+        "date": "2024-12-26",
+        "price": 92.93
+      },
+      {
+        "date": "2024-12-27",
+        "price": 92.34
+      },
+      {
+        "date": "2024-12-30",
+        "price": 91.89
+      },
+      {
+        "date": "2024-12-31",
+        "price": 92.35
+      },
+      {
+        "date": "2025-01-02",
+        "price": 91.38
+      },
+      {
+        "date": "2025-01-03",
+        "price": 91.4
+      },
+      {
+        "date": "2025-01-06",
+        "price": 90.74
+      },
+      {
+        "date": "2025-01-07",
+        "price": 92.25
+      },
+      {
+        "date": "2025-01-08",
+        "price": 92.66
+      },
+      {
+        "date": "2025-01-10",
+        "price": 90.17
+      },
+      {
+        "date": "2025-01-13",
+        "price": 90.83
+      },
+      {
+        "date": "2025-01-14",
+        "price": 91.99
+      },
+      {
+        "date": "2025-01-15",
+        "price": 93.62
+      },
+      {
+        "date": "2025-01-16",
+        "price": 96.1
+      },
+      {
+        "date": "2025-01-17",
+        "price": 95.51
+      },
+      {
+        "date": "2025-01-21",
+        "price": 94.88
+      },
+      {
+        "date": "2025-01-22",
+        "price": 93.21
+      },
+      {
+        "date": "2025-01-23",
+        "price": 93.02
+      },
+      {
+        "date": "2025-01-24",
+        "price": 92.76
+      },
+      {
+        "date": "2025-01-27",
+        "price": 96.52
+      },
+      {
+        "date": "2025-01-28",
+        "price": 95.21
+      },
+      {
+        "date": "2025-01-29",
+        "price": 93.82
+      },
+      {
+        "date": "2025-01-30",
+        "price": 94.58
+      },
+      {
+        "date": "2025-01-31",
+        "price": 93.07
+      },
+      {
+        "date": "2025-02-03",
+        "price": 93.1
+      },
+      {
+        "date": "2025-02-04",
+        "price": 92.77
+      },
+      {
+        "date": "2025-02-05",
+        "price": 93.06
+      },
+      {
+        "date": "2025-02-06",
+        "price": 93.88
+      },
+      {
+        "date": "2025-02-07",
+        "price": 93.5
+      },
+      {
+        "date": "2025-02-10",
+        "price": 91.46
+      },
+      {
+        "date": "2025-02-11",
+        "price": 89.6
+      },
+      {
+        "date": "2025-02-12",
+        "price": 88.26
+      },
+      {
+        "date": "2025-02-13",
+        "price": 90.16
+      },
+      {
+        "date": "2025-02-14",
+        "price": 88.2
+      },
+      {
+        "date": "2025-02-18",
+        "price": 88.33
+      },
+      {
+        "date": "2025-02-19",
+        "price": 88.69
+      },
+      {
+        "date": "2025-02-20",
+        "price": 89.05
+      },
+      {
+        "date": "2025-02-21",
+        "price": 88.13
+      },
+      {
+        "date": "2025-02-24",
+        "price": 89.55
+      },
+      {
+        "date": "2025-02-25",
+        "price": 90.35
+      },
+      {
+        "date": "2025-02-26",
+        "price": 89.57
+      },
+      {
+        "date": "2025-02-27",
+        "price": 92.1
+      },
+      {
+        "date": "2025-02-28",
+        "price": 92.91
+      },
+      {
+        "date": "2025-03-03",
+        "price": 92.98
+      },
+      {
+        "date": "2025-03-04",
+        "price": 91.87
+      },
+      {
+        "date": "2025-03-05",
+        "price": 91.35
+      },
+      {
+        "date": "2025-03-06",
+        "price": 91.38
+      },
+      {
+        "date": "2025-03-07",
+        "price": 91.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 90.72
+      },
+      {
+        "date": "2025-03-11",
+        "price": 90.09
+      },
+      {
+        "date": "2025-03-12",
+        "price": 89.16
+      },
+      {
+        "date": "2025-03-13",
+        "price": 90.41
+      },
+      {
+        "date": "2025-03-14",
+        "price": 92.57
+      },
+      {
+        "date": "2025-03-17",
+        "price": 95.28
+      },
+      {
+        "date": "2025-03-18",
+        "price": 93.3
+      },
+      {
+        "date": "2025-03-19",
+        "price": 93.19
+      },
+      {
+        "date": "2025-03-20",
+        "price": 92.45
+      },
+      {
+        "date": "2025-03-21",
+        "price": 91.98
+      },
+      {
+        "date": "2025-03-24",
+        "price": 94.01
+      },
+      {
+        "date": "2025-03-25",
+        "price": 94.58
+      },
+      {
+        "date": "2025-03-26",
+        "price": 95.93
+      },
+      {
+        "date": "2025-03-27",
+        "price": 96.94
+      },
+      {
+        "date": "2025-03-28",
+        "price": 95.06
+      },
+      {
+        "date": "2025-03-31",
+        "price": 96.18
+      },
+      {
+        "date": "2025-04-01",
+        "price": 96.14
+      },
+      {
+        "date": "2025-04-02",
+        "price": 96.82
+      },
+      {
+        "date": "2025-04-03",
+        "price": 96.28
+      },
+      {
+        "date": "2025-04-04",
+        "price": 87.83
+      },
+      {
+        "date": "2025-04-07",
+        "price": 84.99
+      },
+      {
+        "date": "2025-04-08",
+        "price": 86.42
+      },
+      {
+        "date": "2025-04-09",
+        "price": 91.48
+      },
+      {
+        "date": "2025-04-10",
+        "price": 90.58
+      },
+      {
+        "date": "2025-04-11",
+        "price": 92.13
+      },
+      {
+        "date": "2025-04-14",
+        "price": 92.87
+      },
+      {
+        "date": "2025-04-15",
+        "price": 92.46
+      },
+      {
+        "date": "2025-04-16",
+        "price": 92.38
+      },
+      {
+        "date": "2025-04-17",
+        "price": 92.57
+      },
+      {
+        "date": "2025-04-21",
+        "price": 89.79
+      },
+      {
+        "date": "2025-04-22",
+        "price": 92.95
+      },
+      {
+        "date": "2025-04-23",
+        "price": 92.51
+      },
+      {
+        "date": "2025-04-24",
+        "price": 92.1
+      },
+      {
+        "date": "2025-04-25",
+        "price": 90.68
+      },
+      {
+        "date": "2025-04-28",
+        "price": 91.19
+      },
+      {
+        "date": "2025-04-29",
+        "price": 92.39
+      },
+      {
+        "date": "2025-04-30",
+        "price": 90.68
+      },
+      {
+        "date": "2025-05-01",
+        "price": 89.67
+      },
+      {
+        "date": "2025-05-02",
+        "price": 92.48
+      },
+      {
+        "date": "2025-05-05",
+        "price": 92.58
+      },
+      {
+        "date": "2025-05-06",
+        "price": 93.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 92.69
+      },
+      {
+        "date": "2025-05-08",
+        "price": 94.56
+      },
+      {
+        "date": "2025-05-09",
+        "price": 94.54
+      },
+      {
+        "date": "2025-05-12",
+        "price": 94.63
+      },
+      {
+        "date": "2025-05-13",
+        "price": 93.42
+      },
+      {
+        "date": "2025-05-14",
+        "price": 90.85
+      },
+      {
+        "date": "2025-05-15",
+        "price": 93.54
+      },
+      {
+        "date": "2025-05-16",
+        "price": 94.59
+      },
+      {
+        "date": "2025-05-19",
+        "price": 95.16
+      },
+      {
+        "date": "2025-05-20",
+        "price": 94.19
+      },
+      {
+        "date": "2025-05-21",
+        "price": 92.85
+      },
+      {
+        "date": "2025-05-22",
+        "price": 91.97
+      },
+      {
+        "date": "2025-05-23",
+        "price": 92.07
+      },
+      {
+        "date": "2025-05-27",
+        "price": 94.62
+      },
+      {
+        "date": "2025-05-28",
+        "price": 92.98
+      },
+      {
+        "date": "2025-05-29",
+        "price": 94.2
+      },
+      {
+        "date": "2025-05-30",
+        "price": 95.04
+      },
+      {
+        "date": "2025-06-02",
+        "price": 96.27
+      },
+      {
+        "date": "2025-06-03",
+        "price": 95.82
+      },
+      {
+        "date": "2025-06-04",
+        "price": 94.75
+      },
+      {
+        "date": "2025-06-05",
+        "price": 94.57
+      },
+      {
+        "date": "2025-06-06",
+        "price": 95.53
+      }
+    ],
+    "current_price_data": {
+      "price": 95.53,
+      "change": 0.96,
+      "percent_change": 1.02
+    }
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "ticker": "APO",
+  "name": "Apollo Global Management",
+  "sector": "Financials",
+  "market_cap": 74522812416.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 22.757416,
+    "PB": 4.4869585,
+    "EV_Revenue": 3.874,
+    "ROE": 0.18686001,
+    "ProfitMargin": 0.14729,
+    "GrossMargin": 0.44241002,
+    "DividendYield": 1.57,
+    "DebtEquity": 90.49,
+    "CurrentRatio": 1.788,
+    "QuickRatio": 1.68,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 4195000064,
+    "FCF_Margin": null,
+    "ROA": 0.01521,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
+  },
+  "technical_indicators": {
+    "RSI_14": 43.83325299814521,
+    "Momentum_10": -0.2946086076015582,
+    "MACD": -1.0505184429598555,
+    "BB_Percent": 0.2781938346109892,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8836374784938457,
+    "QualityScore": 0.2950582416436174,
+    "SignalScore": 0.6279355149973842
+  },
+  "volatility": 0.0318271248731331,
+  "beta": 1.571,
+  "return_6m": -0.2534259821212832,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 17,
+    "target_mean_price": 156.88235
+  },
+  "news_sentiment": {
+    "summary": "Apollo Global Management (NYSE: APO) a récemment tenu son assemblée annuelle des actionnaires, tandis que Rhumbline Advisers a augmenté sa participation dans l'entreprise. De plus, Apollo vise à investir 100 milliards de dollars en Allemagne. Cependant, malgré des nouvelles positives telles que des financements importants et des rachats d'actions substantiels, les revenus ont chuté, ce qui pourrait inquiéter les investisseurs. Les analystes recommandent globalement un achat modéré des actions APO, bien que des insiders et des vendeurs à découvert aient récemment vendu massivement.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Apollo Global Management Holds Annual Stockholders Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjR6RXRJUnRleENjUWx1OGJ5NGVyR2VkU00yaF9BX0JLRFdMMW5ZUTRxcC1iUzZEVnBES21jR1R2RV9TXzFUNThkbkstaHAwOFBWZDBsMW9LLW15R2FidVBScDktcjAwNDVqekFlWXVNTDJQZjZaLUMwQWtrTXM1NXQ3U203TFFIb29uU2t4UGZGNHAwYk9TUXFIYUxycWJMamxjV1VIVldtbjJnT3Jv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Apollo Global Management (APO) The Most Crowded Hedge Fund Stock That is Targeted by Short Sellers? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWFkVFk1ZWpOQUNSQVd2ZlRLMzltbGl1amFEWndoSXZtNWlJbFRLN2ZpUk9LWGRKblZ2RjI3d1V1T1NqZXpGM1ZadXRBWnBWWDNPaUhwbmF3MGRVZXV0U2F3Q29UTHoxblJXenRwUXZhTWpzbTBpUFpBOUNKU2N1VTZ1bE9LZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Increases Stake in Apollo Global Management, Inc. (NYSE:APO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQl9DWnBaVUE2dFo0Q1B3cTBneDVhTF9KdHZLM2RVVHFaRi12MXNOX1lKNFctLWs2THBiQ3BZdHEyc3NPOE8zMkVweGVyYnAzeVpPcnNQTlNXaGl3LWQyOHAwOTI2LVhkV3F5MThPWEpieTdNRE5LaE9WRWxlSG5aa3pnYzZuVzZmRWVqeUpUd1cyVk8xMV9NNmcyWHB1UEpjM2xsa01McE50MWxENGRCSFhRcE15T1lOQXAzdk0yWjZjeUN1cDI4Q3BQU3hCM0FI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo Global (APO) Targets $100 Billion Investment in Germany | APO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQemRwOVVLNjFVV0tTQ2VhSGhPa01hMUhaY2tnc3pCY09Ddl84Y2FYOWpuVUFCSTNEU0o1Y0lwV19sTHV5UGxleGxZOTZLLU5DRTZaTm1VWnJkMlFmTFJ0UVBoUHlGOW1KOUFITjkwU3ZmM1BsQmpuN25vbTNOOEpxT3d6V0drN2xnTmw3Um02QVIwWTJualZRak9NQlRMVWoySXd0aC0yN1h4bld3R0Y4bTRlQW5uZkIwdVFVeVNLcGpxSHp0NFZ6bXpQX3F1ckVFTTM4MnRwSGNhcDBWT0JHYUFmYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Massive Agricultural Revolution: Doral Renewables to Transform 10M Acres into Smart Solar Farms - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMURKNnFHbzFlTUtseWt4a1NCQ0lmMnItVGlFaHJHSjhYQmpEQ0Z5enNxREV4Mmp5clN1eDF4NjFwWHZvbFBoRk1qQWJ0NzYxTEhHZDJuLVNyZk05V3JIem1TVEduTHBndHl3bnhvUXZQTHNNVnF1MFFTdTdKRzVTQzdBSzJkemVIeHFJWGNPOTJLc0VFMWphMXY3QWZtMnNTNXZ4OVNSMm1hUzhYbmo0MHNoZ0V3Q2t1UUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Smart Money Is Buying These 10 Stocks - Apollo Asset Management (NYSE:APO), AppLovin (NASDAQ:APP) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3BJSzFaZDNLdm1HMnFxVlEwQlRGNkZicm5xdC15ZDBubDY4WENuUkJJVy1ObnRURVc2T3ZHSzRZc2tNdm11WWx3UjRENks2Y3pBa1dDNEg3Z3lSOUNJOG1xYldZZlMyOE5hVF9xM2pBdjdqR2JobS12cnpYQUN2dGZCU0c5QWx1Mk12a0U1NGRGd3NBam54bXNsdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo: Originating Capital, Compounding Quietly (NYSE:APO) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanZtenFlbDhXVXBrTlRuTzJUTFhPYWxGVEtYdVN1OW8zNmN2R1V1cjB4QmRFS196N21UcVlxdFJQb1ZRR2ZYSVo3V3k4NElRVGxXU194b3Z6QlJRR3VXSlVLZ01oWXdzTUhxTDEzdXhRck9pbDIzbHNkTE1FVk5GT2pQaW9lMkxsUTF3ZVRmWGs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apollo Global Management (NYSE:APO) Secures US$975 Million in New Debt Financing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUkl3YWRqc0ZSb3NKV3lEdTExU3d5Vlo4WEFSQUVsWTlQQUpfcGVnUkZvMWdDQ2otMFFCemstM1pkaENIMXc0cXZud0l4RllWSUhJZlVYTzRTaDlGZFZHc1lJMGNya2xVb3Y3RTFoRGhaSFF5VS1VWnpTS2xaRC1neUUzUUZ4QmNZcmZZWWM3bVhzUWVhSWR3SFFGT0dnWU1PQ08xd0JCbWlqVkloME9yaHNUQVp4TThVRzdpUmtWZ1FVWnBtLVo1cnJWQldTWWVJMGFTQW1KMmE1eXRjZnRuNWF3eGJ1SzhvVlHSAe8BQVVfeXFMUDdFY016NkZ4WTZhdkN4MERId2x3MlVVbjhoQlFrcWFEVV9KVU1KaTBJZkpPNXBfVlBuZk9sMzI4eURBNjhDOW1NUzhhVC1iSGV3Z2NTQ29aelBBdEVYdG1XV3VTaFo1Z29XLWo5YWpnQXNVcDFEd1hzYW40ZG5vWDNob3ZaeHBWYjVQeGNFa0lnczB4bDlpTVJvUHQ0TS0xR1RGdjlHZGRMQWpNNFBuTnZ3U2ZIWUJDbFVmbk9wNEd5dC03TEo2MTBIOXh0RkE3Y0RxakYyUkxUbnhlUEhydHdlYmduNWw1TW9QVTlHcnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KKR, Apollo Global Clear Earnings Views. But Revenue Falls Hard. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkxmQjlPVXNNeUprWng4T0RZUnhQOW52YlhxWXFRcFNoNktmOFVGUGZPUnNvQmtIUTM1dGFINTFnTFVKOWRKY0UxN09WWHo2RFJxdmxJLXJPejd3b0V3eWMxakRaNC1Pc2ExLUhjRW0zclZuazNkaG1pM1pDOFhiYkRvM0x1Q29ZMklnOXVtc0ZMMDlwY1N3bldzZ1pzZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apollo Global Management, Inc. (APO): Among the Large-Cap Stocks Insiders and Short Sellers Are Dumping Like Crazy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOERTQ19lMUxxSW1JeTVKOXVWMndhQk9kNnowRUVVZDhBSkREdXExTG5TVjBhMnQ3VkF2OFhESlRFN3BjeXh0UTRIR2toSE90aDVwT1hwLWR4Rlh5OUJndFJLNFZ3NUtsM3MwV2Q4azhMTm5EaGFRbEprM3l5QkNnNXd6VGE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Best Leisure Stocks To Watch Today - June 6th - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFZGWFlYbHZxRmt5T2p6WDcyV0UtZVZINmR2SVE3UGF6bEtUdVk1X29yT2dSU1ZsRENkeHJnU3Zacy1sR1JlaXZiOHJMWGx0QnBoM1NZVGlqZ00xWmpCaGRCYnR3UllxQlQwbVJZZ0hFUXNZcUtwSkRIc1RpUGw2WEZkeWh0bG81ejVUM2NLNHNvODVzQnF4S1czVkp6UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What We Like About Apollo Global Management's (NYSE:APO) Upcoming Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU2JjTGxrd2xuMjl4Ykg2STBBNmJqNUpBRElMX0FlcVhGal9pRzgxUnY5Y1RYLWNOQXFWQ1BZWHlHNVI4VzBKLTc1bm8xWnpHTjV1OTQ2Y2lsNzJSY0VPcHl4dnRZWlVSeVRDekxITFZWcVFsWG1IdjNLeXN1VnE4OHpUdUdVNVhXVnNQbEpQeVk3bUJYZ0gyX09BT3FaUmhyTFdCc3NQdS1MVUtYdng5aHVjRUI0Q2FpdXBldGExV29ZNGVMbjV4TDkteEVIRi1FQ2lnWC1ZaFRkbmE0WVh6MFVrZHRNU2ZRenfSAe8BQVVfeXFMUG5EZ0JIX19NTUxPLUdKdVlVRWt0VTJlVW9GRzFHZnpTQ0Z2WVRFa1VLUU56NzBqb01UQTNVZ1NzeVh1OXhTbDNtb2RHNTgzcGpZSWp5LTNHUk00YkxkRTR2ZmtjTngxSXU5OTIxSkQ1YlVYdlpxLU84bDBocmNnbkllRFhyazRDMEtQY1BvN0pwckg0bmFjVkJ1aGVwUk16bEQ4Mjl6UUZqcFhWQmRvdUVual84ZXhRYWxTbURJVjc2RlF6QkJXVnd3RGpkcm4xcDc5ZlU5YlV3cXJHMUZCTVZySlZvODNzdHlmYmpzbnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo Global Management, Inc. (NYSE:APO) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHd3UEhhbHAxbDRWZmdGTHpzWjNPaE5CVkczbmRQcU9PZWhRZ1BWU1JWQktqMjJKbmFKNXBrRHJzNjJELWxhbWtTZzVrUGNfc2RRZ2pGd2ZxeTFWemxVR3BCVFg0TEFUWXBqNjNPRG83R1VDMHdReWU1X3h3T1FfMEtDdVltNm9hVnpnZmVKX0o1VXpOU2YtS09tN2NNZEtvVmVXUVM5aVNtOXpyOFhsZ09UOXY2WktpM0xsTmZweFpta05HV1pHcnVROXluUVc4OThWMV9FSHh3ZS1PVGxoVmVKbmRuQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mosaicx Unveils Next-Gen Engage Platform at Key Industry Event | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmlDV1AtcWZkdlBNRGE5cWEzWDJhT2ROcG8xTVlLcFNUUXVINjhIN2NBYUFJQWdOdTNUT1VTTUIyaEZZdmFzeFdWRFhGbElibVhMZ1VYQVl0WllheU1WY1ZqTzdWVGR0X1JldEU2cGVpNDRHaEZQaWhybnpwUVlmbldWVUNYQVlzOWxnYnctWV9KMHU0X2tYYnpoOEYxd2w5Ty1ZUnpnczMxU1J5RTFWRFlpZ0FxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo Global Management (NYSE:APO) Announces Substantial Share Repurchase - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTJZeklya3hXbXRZeEJpSmRBZkZVRGdNMi0zbW83c0FPUnJwYXozV28yY21qTzVFdm1yN25Kd05xNkFHTHNjRUJOemQ5TVZicXRIWjZYZHNfTHAwTm5VNTlISnFmbjJYY0tWUVV3TG5lZEx2b0l5enVDRTF5Ym5ha2tramk2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 162,533 Apollo Global Management, Inc. (NYSE:APO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcTJvdktOSGZ4RndFMW84WTFRbnJPV1V4NnVCSW9ONWNpdDdMcnJDRkxDVG5Kbl8ydTFoOGl1TC00dC1YLVZ1Ti1QQ1EtTGprWEFjNHdNTnY2bGcwQ3JsNEMycXhOeExGYU5zZ2NhQ1k3TjVRYi11S1o3MExwc1NkZVhwdm5iTzNfNTRKVk1aTER4ZDRlWnZTREJDUDFLa2Vvc2ozamRoemxJTTVJSk9CZkZaRFFlUmVoaUtTa2kxSExvWC1DSUV2V2dOM1JUUm45ZXFzZmJmdkVNSHRkMmtkNVF3S2RYai1LMzBmYmo3VlJ3RWIzTDgtQmtweGVmdG5BX0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Apollo Global Management (APO) the High Growth Financial Stock to Invest In? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGFVTVhha212aEJQMjZ0Uml1NEcxVG44Vy0tcDcyb3Qxd3FncTlOUExhUEFnM3ZqclNxZmhLRUE4UGx6aFVoVUE1M2hsTUFQRUFsSEdMUnkxQTM2YmZSMFduM2g4ZG52eDJmYWZOYmR3VE1VdEdlb0VKVUdqaDNoTXJKWkhCQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo Global Management (NYSE:APO) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFF0eFN6ZFhKRTlSY0pvckhVMGtUVVBnY282aHlYUlhnT3Z1cmduZWszMnc2Vm04QUs3cGFtRTd3c0l2cVY5RlVMdC1abzBPNDJ2d1JNdUQ3SjdYSUJMVU5sT2tYeEZTMEpLRzFZR0JpN0NCTF9NeFlQdzBBT1h3bjdxbHFpTzRheHdRRzFTX1dlYjVSb1VaQXZjcW9Bb1d0UkswUnlKMjVmVkg3REhEaTBraEdlVUY2M3ZHbVVpZENrQzNjQ3BOZ3NvMUVGSEhQQ1dWNg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Apollo Global Management, Inc. (NYSE:APO) Shares Sold by Janus Henderson Group PLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeFF1RWpraHc5X2RfQ0JKOEV3NU9nNXluN1haMDRuOEhvRm5Dc2czaGVFemt5bXRBS0RZMFRUSTd3Zmt0Y2tFUGNVYnBHbFYxcW9UOFhsQzJRTjRCUlF6RVhsd2VodjhvUjh6TUc3TkNULWJDMUdRQUplS1lHa1lCX0NETk5MU1VqRXFYUEhodnAxRzROREZNWUV0emFWb05pQ0JNeHRpdmRoOFBraHlQM0dldWVYMXNfNFpmVlJoS2ZyM3VRX1ZVTHVsOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Apollo Global Management Inc. (NYSE:APO) Among Israel Englander’s Top Stock Picks Heading Into 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFFZRlRSRnhXRC1HQk5xb2RQS3QweTdhTENra01HeWEzVjJzVnAtcUJSdk5rajVZOHdqYXRXMl9RaUF1X2ZpVUFNUUpva2NzUHZ0NlB0czlxeGlQdHVRMTBUOWUyV1F1dFJXUlNLWWVpM2pvZ1Z3TGRnVy1OSExKbGx0cTUtUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 172.47
+      },
+      {
+        "date": "2024-12-10",
+        "price": 174.71
+      },
+      {
+        "date": "2024-12-11",
+        "price": 178.61
+      },
+      {
+        "date": "2024-12-12",
+        "price": 176.41
+      },
+      {
+        "date": "2024-12-13",
+        "price": 176.43
+      },
+      {
+        "date": "2024-12-16",
+        "price": 178.15
+      },
+      {
+        "date": "2024-12-17",
+        "price": 176.32
+      },
+      {
+        "date": "2024-12-18",
+        "price": 167.44
+      },
+      {
+        "date": "2024-12-19",
+        "price": 169.63
+      },
+      {
+        "date": "2024-12-20",
+        "price": 171.03
+      },
+      {
+        "date": "2024-12-23",
+        "price": 171.63
+      },
+      {
+        "date": "2024-12-24",
+        "price": 174.85
+      },
+      {
+        "date": "2024-12-26",
+        "price": 174.37
+      },
+      {
+        "date": "2024-12-27",
+        "price": 170.28
+      },
+      {
+        "date": "2024-12-30",
+        "price": 166.51
+      },
+      {
+        "date": "2024-12-31",
+        "price": 165.16
+      },
+      {
+        "date": "2025-01-02",
+        "price": 165.86
+      },
+      {
+        "date": "2025-01-03",
+        "price": 169.06
+      },
+      {
+        "date": "2025-01-06",
+        "price": 169.1
+      },
+      {
+        "date": "2025-01-07",
+        "price": 162.45
+      },
+      {
+        "date": "2025-01-08",
+        "price": 161.98
+      },
+      {
+        "date": "2025-01-10",
+        "price": 155.39
+      },
+      {
+        "date": "2025-01-13",
+        "price": 154.8
+      },
+      {
+        "date": "2025-01-14",
+        "price": 159.33
+      },
+      {
+        "date": "2025-01-15",
+        "price": 164.85
+      },
+      {
+        "date": "2025-01-16",
+        "price": 165.92
+      },
+      {
+        "date": "2025-01-17",
+        "price": 166.99
+      },
+      {
+        "date": "2025-01-21",
+        "price": 169.24
+      },
+      {
+        "date": "2025-01-22",
+        "price": 168.9
+      },
+      {
+        "date": "2025-01-23",
+        "price": 169.75
+      },
+      {
+        "date": "2025-01-24",
+        "price": 172.06
+      },
+      {
+        "date": "2025-01-27",
+        "price": 167.26
+      },
+      {
+        "date": "2025-01-28",
+        "price": 169.31
+      },
+      {
+        "date": "2025-01-29",
+        "price": 171.1
+      },
+      {
+        "date": "2025-01-30",
+        "price": 171.76
+      },
+      {
+        "date": "2025-01-31",
+        "price": 170.98
+      },
+      {
+        "date": "2025-02-03",
+        "price": 167.12
+      },
+      {
+        "date": "2025-02-04",
+        "price": 162.59
+      },
+      {
+        "date": "2025-02-05",
+        "price": 165.75
+      },
+      {
+        "date": "2025-02-06",
+        "price": 164.88
+      },
+      {
+        "date": "2025-02-07",
+        "price": 163.45
+      },
+      {
+        "date": "2025-02-10",
+        "price": 162.17
+      },
+      {
+        "date": "2025-02-11",
+        "price": 158.08
+      },
+      {
+        "date": "2025-02-12",
+        "price": 157.44
+      },
+      {
+        "date": "2025-02-13",
+        "price": 157.92
+      },
+      {
+        "date": "2025-02-14",
+        "price": 162.81
+      },
+      {
+        "date": "2025-02-18",
+        "price": 162.06
+      },
+      {
+        "date": "2025-02-19",
+        "price": 160.27
+      },
+      {
+        "date": "2025-02-20",
+        "price": 156.79
+      },
+      {
+        "date": "2025-02-21",
+        "price": 150.55
+      },
+      {
+        "date": "2025-02-24",
+        "price": 147.87
+      },
+      {
+        "date": "2025-02-25",
+        "price": 145.3
+      },
+      {
+        "date": "2025-02-26",
+        "price": 147.65
+      },
+      {
+        "date": "2025-02-27",
+        "price": 147.44
+      },
+      {
+        "date": "2025-02-28",
+        "price": 149.27
+      },
+      {
+        "date": "2025-03-03",
+        "price": 144.58
+      },
+      {
+        "date": "2025-03-04",
+        "price": 137.92
+      },
+      {
+        "date": "2025-03-05",
+        "price": 140.53
+      },
+      {
+        "date": "2025-03-06",
+        "price": 134.78
+      },
+      {
+        "date": "2025-03-07",
+        "price": 132.4
+      },
+      {
+        "date": "2025-03-10",
+        "price": 126.01
+      },
+      {
+        "date": "2025-03-11",
+        "price": 130.42
+      },
+      {
+        "date": "2025-03-12",
+        "price": 134.92
+      },
+      {
+        "date": "2025-03-13",
+        "price": 130.24
+      },
+      {
+        "date": "2025-03-14",
+        "price": 134.32
+      },
+      {
+        "date": "2025-03-17",
+        "price": 138.7
+      },
+      {
+        "date": "2025-03-18",
+        "price": 137.44
+      },
+      {
+        "date": "2025-03-19",
+        "price": 143.4
+      },
+      {
+        "date": "2025-03-20",
+        "price": 144.77
+      },
+      {
+        "date": "2025-03-21",
+        "price": 143.41
+      },
+      {
+        "date": "2025-03-24",
+        "price": 148.4
+      },
+      {
+        "date": "2025-03-25",
+        "price": 147.9
+      },
+      {
+        "date": "2025-03-26",
+        "price": 144.64
+      },
+      {
+        "date": "2025-03-27",
+        "price": 142.03
+      },
+      {
+        "date": "2025-03-28",
+        "price": 136.96
+      },
+      {
+        "date": "2025-03-31",
+        "price": 136.94
+      },
+      {
+        "date": "2025-04-01",
+        "price": 138.37
+      },
+      {
+        "date": "2025-04-02",
+        "price": 141.52
+      },
+      {
+        "date": "2025-04-03",
+        "price": 123.45
+      },
+      {
+        "date": "2025-04-04",
+        "price": 108.68
+      },
+      {
+        "date": "2025-04-07",
+        "price": 112.36
+      },
+      {
+        "date": "2025-04-08",
+        "price": 110.41
+      },
+      {
+        "date": "2025-04-09",
+        "price": 128.45
+      },
+      {
+        "date": "2025-04-10",
+        "price": 123.93
+      },
+      {
+        "date": "2025-04-11",
+        "price": 125.92
+      },
+      {
+        "date": "2025-04-14",
+        "price": 125.52
+      },
+      {
+        "date": "2025-04-15",
+        "price": 127.84
+      },
+      {
+        "date": "2025-04-16",
+        "price": 125.21
+      },
+      {
+        "date": "2025-04-17",
+        "price": 126.78
+      },
+      {
+        "date": "2025-04-21",
+        "price": 119.63
+      },
+      {
+        "date": "2025-04-22",
+        "price": 123.71
+      },
+      {
+        "date": "2025-04-23",
+        "price": 126.55
+      },
+      {
+        "date": "2025-04-24",
+        "price": 133.32
+      },
+      {
+        "date": "2025-04-25",
+        "price": 133.4
+      },
+      {
+        "date": "2025-04-28",
+        "price": 136.36
+      },
+      {
+        "date": "2025-04-29",
+        "price": 137.55
+      },
+      {
+        "date": "2025-04-30",
+        "price": 136.48
+      },
+      {
+        "date": "2025-05-01",
+        "price": 137.89
+      },
+      {
+        "date": "2025-05-02",
+        "price": 135.37
+      },
+      {
+        "date": "2025-05-05",
+        "price": 133.98
+      },
+      {
+        "date": "2025-05-06",
+        "price": 129.31
+      },
+      {
+        "date": "2025-05-07",
+        "price": 129.34
+      },
+      {
+        "date": "2025-05-08",
+        "price": 133.19
+      },
+      {
+        "date": "2025-05-09",
+        "price": 132.46
+      },
+      {
+        "date": "2025-05-12",
+        "price": 143.45
+      },
+      {
+        "date": "2025-05-13",
+        "price": 145.07
+      },
+      {
+        "date": "2025-05-14",
+        "price": 144.24
+      },
+      {
+        "date": "2025-05-15",
+        "price": 143.99
+      },
+      {
+        "date": "2025-05-16",
+        "price": 143.84
+      },
+      {
+        "date": "2025-05-19",
+        "price": 142.61
+      },
+      {
+        "date": "2025-05-20",
+        "price": 139.29
+      },
+      {
+        "date": "2025-05-21",
+        "price": 130.68
+      },
+      {
+        "date": "2025-05-22",
+        "price": 130.81
+      },
+      {
+        "date": "2025-05-23",
+        "price": 130.87
+      },
+      {
+        "date": "2025-05-27",
+        "price": 133.17
+      },
+      {
+        "date": "2025-05-28",
+        "price": 131.51
+      },
+      {
+        "date": "2025-05-29",
+        "price": 131.7
+      },
+      {
+        "date": "2025-05-30",
+        "price": 130.69
+      },
+      {
+        "date": "2025-06-02",
+        "price": 130.52
+      },
+      {
+        "date": "2025-06-03",
+        "price": 131.1
+      },
+      {
+        "date": "2025-06-04",
+        "price": 130.3
+      },
+      {
+        "date": "2025-06-05",
+        "price": 130.28
+      },
+      {
+        "date": "2025-06-06",
+        "price": 133.45
+      }
+    ],
+    "current_price_data": {
+      "price": 133.45,
+      "change": 3.15,
+      "percent_change": 2.42
+    }
+  }
+}

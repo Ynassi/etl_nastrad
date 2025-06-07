@@ -1,0 +1,661 @@
+{
+  "ticker": "ALL",
+  "name": "Allstate",
+  "sector": "Financials",
+  "market_cap": 54796140544.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 14.13388,
+    "PB": 2.7343242,
+    "EV_Revenue": 0.88,
+    "ROE": 0.19723,
+    "ProfitMargin": 0.061929997,
+    "GrossMargin": 0.22642,
+    "DividendYield": 1.93,
+    "DebtEquity": 36.672,
+    "CurrentRatio": 0.437,
+    "QuickRatio": 0.244,
+    "FreeCashFlow": 4154874880,
+    "OperatingCashFlow": 9228999680,
+    "FCF_Margin": 0.0636284597694199,
+    "ROA": 0.03111,
+    "PEG": null,
+    "EV_EBITDA": 9.513,
+    "BuybackYield": null,
+    "PriceToFCF": 13.171187641636035
+  },
+  "technical_indicators": {
+    "RSI_14": 53.485025357768286,
+    "Momentum_10": 0.706247608730486,
+    "MACD": 2.3826211540437043,
+    "BB_Percent": 0.5552228554825572,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8948786552651329,
+    "QualityScore": 0.3938246389784549,
+    "SignalScore": 0.5732945161599843
+  },
+  "volatility": 0.0181624214770246,
+  "beta": 0.345,
+  "return_6m": 0.0182441642867579,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 17,
+    "target_mean_price": 227.58824
+  },
+  "news_sentiment": {
+    "summary": "Une tendance clé actuelle dans le secteur industriel est la vague de fusions et acquisitions, avec des opérations significatives telles que la fusion entre Chart Industries et Flowserve. Les records historiques atteints par certaines actions, comme IBM et Palantir, suscitent l'intérêt des investisseurs malgré les préoccupations liées aux valorisations élevées. En revanche, des déceptions en matière de prévisions de revenus ont entraîné des baisses de cours pour des sociétés telles que CrowdStrike, soulignant l'importance de la vigilance dans un marché en constante évolution.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Chart Industries and Flowserve Strike All-Stock Merger - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMG5iTWNSc1U5NDVhM2h6WTlpTFc4UnFVWGQyRjRXbHl5TFRLYjhveGxJdFZXYklkRk5GN3pnb200RDJmVEcyeWpfZ1ZuTXJVdHVLcmpFdGJfVFVoU3JLTTJmbmtFLXZDaGtYVWdpWUs5VTd2M3JLaml4bXp6djkxVDFEZGJGcm9OWXJRSXhOVkozdXNLSnZkOVBFUEtpX2pLVmp0ZjJwUW82SWZ0UHpuNU02UFdzZ21VTk91Vmx1WjUzNjBMcVlZbWltSWVYbGdzamxvVWlGQjM2VzY1ZHRQbHo4SmdXc19EQkkzLVFPaTdieUI2dVhYeDl5Q0hmS25VZE9GcWFNTWcwMDN3TWY5amFzc0pSelF3cmFGaTg0andJVTlaalVfT1A5TWYzMXRxV3FMNkZKbktpT3RUR2s0djBDZ1d4MHBwTEtuaF9aMHJ2TGo0YzFEM3hTNzJpNktNQUptaTFXS0FPV1M4c2Zfd2ZNZHVXQ3oyblhEUmVLdlFVeGJsWWgzSW5DTkhDRHZtYkpvckxrSmJVZTZvbG81ZlpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart Industries and Flowserve Corporation to Combine in All-Stock Merger of Equals, Creating a Differentiated Leader in Industrial Process Technologies - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObm1YYjVFckVGVF9aZ2tNQlVycEdtaDZ0UjlEWnI1c2wwQkNDRjNOcFRDTEdQWENTLXdib1l5dUdOUUY0b0FuYWVpMEZqa2pJTy1Helotcy1waXFpalY5S3lfMnNxZEZybHBlbmg5NGkwTF95dHNOTVRXaVU0M0E3MWJfdmp4Y1o4Vktxa2QtQWxrbXNzZzJIemZ4blNObWZhMnlkaVdVQW44N3U3US1rdWZ1d3ZoazJHMWNMV2FUOUVyd1dUZDZlNGcwbjhGNzJDZDVJVC1nR3pJTmFCSV9SYW1ELU5TRkkzNnpXLWd3eDJWa19pNy1Nb3hhLWhlbHc1cmw1VGxqandGQ2dHbXI2ODU1N0otazZrWXpRTXdEYm1vZ3lDRnJmSmxFd3hUbl9iQUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Prediction: This \"Magnificent Seven\" Growth Stock Will Hit an All-Time in June. Here's Why It's Worth Buying Now. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ254T2VNOUZpc0wtV0I1RFFOX2dRbk5iQjBRaFUxd0ItVnJqa0xtczhvOE5MSnYwTUdtN082Z09leko1UjBGZWlWWVVQRnNlQVVrRS1ycjgzV1dhVnF4WUNvQWVXWmM5NTdfZHdEVEg3WXdjLXEzVUp6Unl0VEE2ZlFETWxNXzZoMXhTNGo4ZGE4TzR0VEJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Allstate (ALL) Stock Moves -0.2%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DSDFnakNxNjNQX1BqRjJsaGRvd3ZHSG11OUR6WVRPRUVoZTdCcmRWLTdsMUlTMGxhZjhIS2pxT2IycFMyR0dQeGV6TVVqQ2NhZUN3b1M0dDhfa0VHMVBYaDF1R1BfYTM3V1JIUlF4UW4wY0RpZ2dhLXBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s proof that buying stocks at all-time highs puts your money at greater risk - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzNHb0NGdHl3ZDFSdElTRHBhRU5OMUE2RTM2ZkVmVFNoNXVQZFFlZ2JLMnFhd08ybGZEUTNDV2tVOUhTWTZubVV5eVlTblpTS1dWWERaaEdndUhmUmR1d1Q5ZzFlUk1QSW05YWp1ZExrUm8tZldiQ3AyeEd1bnpmUGdOZzlDZzFndWlGcWtaRzlJNHR6SU9qZjV6NGhnSkJwOGJOVERUUlNwX1lwQjc0WVRzX3RKN3NwOWJibmtVWGZiMjJWblV6SA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Movers: Puma, Filtronic, Broadcom All Down - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbE9TQ3dyVTdndlh3Ti1qLWVhbVN3N0U0QXVNTHFJQ1VVakVpT1Bta19Vd0hua2ZBLUt4WlctNnBTbTlaSllPX3FnUnNtQmpIZkJMOURYWWtQWV92a2t5Y3kxSEM4ekVlazE5Nk1XQ0VIcGRoM2xRY1V2SGxJQzRtT1RZcTJOZ3BVSU5aejdZYTFQemVEZW9hZWtPc0puUFF6WXc0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TipRanks’ All-Star Analyst – Who Is the Best on Broadcom Stock (AVGO)? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVllDTGpEbzNNeUMtUjBmWjNxZDFxenZPb214V0NlWUx1NFpmbXdTckZWLTktZFp6cll3anB6c0RYdGZNYmJRYUgySnc0ZUxwazJvUkt5bFZ6NVBDUGUxcnFaU243eFZLanl5MEprcDdzQVFrbDBxV2V2dFlkS2hDeWlmTFV0MXRPVUd3WlltMkY4S1dram1laEFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rocket-Redfin deal clears hurdle with shareholders' vote - Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS29ESHpKV0xfMU5RWUk3bDc4b1pRVk95T1F4Uk9ZSHhyelVYQW5Rd1FhV1VzcWNmYUhfb3hJUDVnd2JtODVXNTB6RFVvajF2R0NNenI2ODZicG5RNjB3bkdRVEd2Si1FZ0NtV09UN1cyNVFoaFhvMWlvSzUtZmwtR1Y2RGk0TkJialQtYWgxemtxX1pwM2hUY3ZtLUtxYTA5OFpYS2FWTU9QQXFOa1l6a2d3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This Magnificent 7 Stock Just Hit a New All-Time High. Did You Miss Your Chance to Buy?? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTE5bUZkNWVlQlE0NHZ0WjV2ZGZ2VGxGeGdaM281YkRaWlF2Y0RvZEZTVjZGUmNTMDctQTNhbmFsRTloLTVIc25MY29YX0RfdEMtUTZ1czdSTVlZY3FxX3doRDJpNkktQmFQdVRJQTBydmx1N19EOHAzM2NORGk3a0JaclprTGJ6QzdXVU5xZVI1SEZNRGZaeDFQTDFaOFgwSW5xT2hsU0pNM1FwNWNfbXRiU3ZqVUtUQ2hPN0lrUdIBxAFBVV95cUxNcDJ2Vkh0TFVGdGhjdGdfWUJobWhWSzBRZ3ZfZE1tR2hMX2lLRk54M2VycFhyVTZaWFh3azAtYWNnVVNZRlBOTnNYSVQxZnlpbDR4RDIwcW5jb1hPNHVpWXktcjc2aVhMczg4SllXOTRYZjVtU2Q3WjVCZzN3ZGtNSlViYzhnYU80Y1d1T0ttTnQzZ3hYUE1INDNDeEI5ekNlT0JCckdUMGZxSHFVT0MxSnA2LXhPc05hN0p2UzdTSlg0NDRs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Allstate (ALL) Begins New Coverage with \"Sector Outperform\" Rating | ALL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2xaRzRrUU1wbUhmOUM4TjMyb1Jhc3ZzNjk0dWRfS3FRTTY3OUVjZGlDZ1VzT2JsYXNyR3liMDNKN25jQ1FMcHh3T3BFSDdUVmtXMklqOVU2UEJMbVNpYWxhRk01NHNGWlkyQW1nU2ZqN2d6dXM4MnFrY0FSdGQ3S1o1UmI1bE1MZlBSSHl5eDVnbTI3MG5xeHpfbHlpekhXRVlRUEhCbVQ5eHFUYnVRVE0tU3hoT28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBM stock soars to all-time high of $269.34 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3U2YmRlUE9ZTGdDT25MUUdzUjZLb3NYcGYzTXhScFlXdGhMcjVxSDFQOHBvNWNZZEtjRE1TX2p6RlZjM3E4RjQ2bXFzSjlkREdYUTJ2MWRyS2gxbTgyTXZsZkQ3UXpHTzZIZXJvVWVldXpCRGJRVVdiTUZFS0tGTGk1Z3oyZklYSjJON0Y5Rm9ZSDZ4QVFlMUZHZTNBeFNCQ2ZhN3FkZDcxTHY3cHdzQ2pUYTNvdDQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Palantir Stock Pulls Back After Hitting Fresh All-Time High - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Rta2lKYUNlS0N1Yy1IWGNsTFNFbS1XVmRPek1STXBKR1pxRUIwMWxyVmx1Z3M1eGplLVVIY0xab0FPOHRTT0NTRk1RVTlTdFBrR1lieDRSYTlRTDJkRDRBR1pMY3FVa0t2LV95R2hIUElqTmMxVFVvRm5lTGtnMlA2Yy1FamFoSDFWbnZ4cWNzcXJyNlFoaTkyRHdwUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Flowserve, Chart Industries To Merge In All-Stock Deal, Creating $19B Equipment Giant - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVNvRDI4STJBOUlURVlzaDcwdnhBVGU0Q1JPQzZjQ1dIWU1RMVBLV3IyeS1QN01QOTlQTHQtYzdnc0NMcGxNR0JpYTAyVXkwM3BTM2JtdWE4MzcyeGZaUTBxMmJ1OVBhRUNxMDV2Nk42Q1d6WE1DVkZQWGsxTlUtWHJES0NQZW5iZXBrQUo4bkw4ZDRHcDVFNGtaNEQxWnRrN1A2R1Fzajc4YU9LbU81WUJKUllaX080YXVIRWRfZjU5djdzRi1Mb1I4TGtBZVFEbXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft sets another record as stock all-time high and why Wall Street sees no bubble in these BIG numb - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQOGxkOGZCQmdlWVcyM1VLdEdyME5aR1pkeGl6RkIzcmhWVXZvRktTRmVpa0FIdFRpUURGNG1DRXZCWUI2ZXFjNTVSQmthZUt0NWRNdThrNlYyTmZza2kwQ3NzTmkzMU5hbUlhZjJDX1lnOFZPVzd3cVFoNmdBMXpCazhwY2kxQlBhcXVwTzQ5dkl6OHNSbDQ2UFg3a0ZmMWQ3V3p6RHo4NHBwYU5hb3hwMnV2bC1YZ2QyVm1OZG9Ja0RPXzhQdHNrOWwzcEJwTjFvWWJDZzJRRnQwNk9VWFVUaUJUNGtaRVFqLUdTd1Q4dmxBY3cyVi04UHJkSFJfNG5Fb2hFNWxnc0ZSdVZGTEZrVnJwLUtVQk1UejUw0gGgAkFVX3lxTFBXeUowb2ltZnFkMV8tbUhnZENaSWJFUVc5Yk54b19hcGRlckg4dGVzZlFwaHRoOG53TmFmQXd0VjhtcWRGOTI3SkI4YWF6YnJOMWg5RUpCajkySElpZzVXSFhMMGZQYVdoRVJmX1d4NXd6OWQ0YkxBd3h6VXVDajFvMi1MLUh2b0lpeUMtZ2ttSE0tQloteGJ4LWVWdk9kcGZpMDVBQTZfTWRmcTloNEdqOFpUOE9aalhiTExQS1A4U2ZabWxaY2Q2dWgtZy1FcjVlSE11MmxpSEFSeVAzWVQ5eTNsdThPRG5md1ZfRmhIei1ZVDdiSjRBUXlBRkR5NUhzMHlHdWpKVTRGOG1ZQWExX0hlS1VVbUVvRDM1UERnTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart, Flowserve Merge in $19 Billion All-Stock Deal to Form Industrial Tech Giant - Pipeline and Gas Journal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3k5SkFHNW5EUFN1elM2UV9TTXd6LWZfNzN4TXBDRFBUY0RhRmtRa0pRWHhtTjNkUHNSQWpVZ2tNMjdsbmV3UXNsUGtCSHc3SjRTYXBwTlZhTWJfU01NM2ZSWUYtZmRPUktnU2pJYmt6N2JveG9kQWNCV0JfTm4xX21aWXl5TE9iZ3pqeC1RWXIxX1k4OUpEVExpQWVyUkFnR0JNVWMzaXRFRXVYOFFKTEhUVUViNWZa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart and Flowserve unite in all-stock merger of equals - Hydrocarbon Engineering",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGRrYkE2aURpXzhwV0tvTVU0b2VOMGswR0J6enJwd3dLYnZuZkI5T2FtWEE3N0pQWHhjTDJGbEQxYXZPZE85R0ZMRE9fa2JUdGJKcWRjbjJuMnJBdGZuVk5FZUF2NS1EaV9zUE5uWUZCcVVma3dOdzhYNElvREpMTU1fZnBGd2ctWUdDUmhtS2pxTmwxVnBjQUQ5UFZ0N19zLWhRc3ZPajlqNUViTTl4a0s3ZW1xNTlaZ2Rr0gHAAUFVX3lxTE56ajBqOWhTVnFNeDJLUklfaGplWWdhWlFyQk5SRGliTmhaV19PbzV5eVBKdnJiMmcwWGdWdFdwaVBsX2ZGTUZMcGc0Wl9nQWJ3ZFNwaVI1M0VUV05CVUJiUXRZanBNY2VXemZNQnJLdUctcnZHRWY3VnVjTEQtX3lhdDUzN0FWRWNnSnBiY284WGZUd0drUTVNMDJxdUY1VkhraTZ5SXFIWVBzSXc4Mkwzc184V3M3eHpwSWVqZnZIbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viper Energy to Acquire Sitio Royalties in $4.1B All-Stock Deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVUxMGVhR3lrNmhPdllCTmJoZFR6Wk5MVHhSRC1Xa1c5NDhlNWhQOUVRSFdLc0d6b2VQQ0x0U2dpREhISkJKOERjWmVrMmV2VXNvcGRkNmhOeTBmdERySWlFYVpqSTZxemhHTndRaUhEWnB1MHNrU3Zwd0lPUEZKYS1VMldQeHVweHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CrowdStrike Stock Slides After Hitting All-Time High as Revenue Forecast Disappoints - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1X2Y5UDUtN3RYTkJHLWJXRlFLR09NM0k0YnNod2kwYXB5TW1LUW5fUFRWeHZyeVQ1TWdIOXhMN0s0ellxNkxlbHFfVnB0OV9NSUF5LTlZZ0c2bE0waE9ESTNqOG5LVzVzTVAtQmZrYjM4VGItRFF3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Watch These Palantir Price Levels as Stock Hits Another All-Time High - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQl9qcW1IN0Qzd2ZKeDRBQ0pLaXpueU9MLUJEU21rVDZPSnMxdVFWSEVocEwwZDV0QVMzbVlDMjFIeFNrUnV3ZFFhX3RRcUY3UjdYUWZRcnR0Rkoxb1dIVVN2bU1xZjdoT3B1R0c0eVd2WmI0LXhKRElnOE45Y2RwVDhtQ2hnWDl1WjZUS2QtNmpsLUtKT3FPdXZxUDdoUUtVX29IeDllc3ZKSnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Applied Digital (APLD) Stock Hit A New All-Time High Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdYYTlQQU1CRmFQZV9rTTFTSHE4Vnh5RVNCRWdoU2l1eUg3NTBudlRHdjhhcC03QjU0QWVQTHdEWmtBTFpYVlBwZDBJeHpKOGIwUkVHcXE2SlRxeHQ5V3dYa1NBdWtzT3Q1THFnekFwV1FJSE9BNUVOWVRIWjYwUlVaOWgyaXBoSHdDT0h4dU1BUnpWZ1hLOGNjRGxCUzh0ZUpyTS1fVF8yeDh2dFhkZ0JxeFJ2WkhrQVQxZjhB?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 199.04
+      },
+      {
+        "date": "2024-12-10",
+        "price": 195.06
+      },
+      {
+        "date": "2024-12-11",
+        "price": 193.3
+      },
+      {
+        "date": "2024-12-12",
+        "price": 192.3
+      },
+      {
+        "date": "2024-12-13",
+        "price": 196.26
+      },
+      {
+        "date": "2024-12-16",
+        "price": 195.02
+      },
+      {
+        "date": "2024-12-17",
+        "price": 193.4
+      },
+      {
+        "date": "2024-12-18",
+        "price": 189.25
+      },
+      {
+        "date": "2024-12-19",
+        "price": 189.79
+      },
+      {
+        "date": "2024-12-20",
+        "price": 193.56
+      },
+      {
+        "date": "2024-12-23",
+        "price": 193.63
+      },
+      {
+        "date": "2024-12-24",
+        "price": 195.52
+      },
+      {
+        "date": "2024-12-26",
+        "price": 195.62
+      },
+      {
+        "date": "2024-12-27",
+        "price": 193.8
+      },
+      {
+        "date": "2024-12-30",
+        "price": 192.55
+      },
+      {
+        "date": "2024-12-31",
+        "price": 192.79
+      },
+      {
+        "date": "2025-01-02",
+        "price": 191.95
+      },
+      {
+        "date": "2025-01-03",
+        "price": 191.45
+      },
+      {
+        "date": "2025-01-06",
+        "price": 185.91
+      },
+      {
+        "date": "2025-01-07",
+        "price": 186.04
+      },
+      {
+        "date": "2025-01-08",
+        "price": 191.8
+      },
+      {
+        "date": "2025-01-10",
+        "price": 180.99
+      },
+      {
+        "date": "2025-01-13",
+        "price": 182.54
+      },
+      {
+        "date": "2025-01-14",
+        "price": 186.81
+      },
+      {
+        "date": "2025-01-15",
+        "price": 188.03
+      },
+      {
+        "date": "2025-01-16",
+        "price": 191.1
+      },
+      {
+        "date": "2025-01-17",
+        "price": 188.9
+      },
+      {
+        "date": "2025-01-21",
+        "price": 189.75
+      },
+      {
+        "date": "2025-01-22",
+        "price": 185.25
+      },
+      {
+        "date": "2025-01-23",
+        "price": 184.66
+      },
+      {
+        "date": "2025-01-24",
+        "price": 186.07
+      },
+      {
+        "date": "2025-01-27",
+        "price": 193.19
+      },
+      {
+        "date": "2025-01-28",
+        "price": 190.96
+      },
+      {
+        "date": "2025-01-29",
+        "price": 190.81
+      },
+      {
+        "date": "2025-01-30",
+        "price": 193.83
+      },
+      {
+        "date": "2025-01-31",
+        "price": 192.33
+      },
+      {
+        "date": "2025-02-03",
+        "price": 191.98
+      },
+      {
+        "date": "2025-02-04",
+        "price": 190.87
+      },
+      {
+        "date": "2025-02-05",
+        "price": 193.01
+      },
+      {
+        "date": "2025-02-06",
+        "price": 191.88
+      },
+      {
+        "date": "2025-02-07",
+        "price": 190.24
+      },
+      {
+        "date": "2025-02-10",
+        "price": 186.58
+      },
+      {
+        "date": "2025-02-11",
+        "price": 189.43
+      },
+      {
+        "date": "2025-02-12",
+        "price": 189.33
+      },
+      {
+        "date": "2025-02-13",
+        "price": 192.77
+      },
+      {
+        "date": "2025-02-14",
+        "price": 187.63
+      },
+      {
+        "date": "2025-02-18",
+        "price": 188.95
+      },
+      {
+        "date": "2025-02-19",
+        "price": 191.6
+      },
+      {
+        "date": "2025-02-20",
+        "price": 189.18
+      },
+      {
+        "date": "2025-02-21",
+        "price": 185.66
+      },
+      {
+        "date": "2025-02-24",
+        "price": 188.75
+      },
+      {
+        "date": "2025-02-25",
+        "price": 190.48
+      },
+      {
+        "date": "2025-02-26",
+        "price": 188.43
+      },
+      {
+        "date": "2025-02-27",
+        "price": 195.06
+      },
+      {
+        "date": "2025-02-28",
+        "price": 199.15
+      },
+      {
+        "date": "2025-03-03",
+        "price": 202.06
+      },
+      {
+        "date": "2025-03-04",
+        "price": 199.03
+      },
+      {
+        "date": "2025-03-05",
+        "price": 199.56
+      },
+      {
+        "date": "2025-03-06",
+        "price": 197.43
+      },
+      {
+        "date": "2025-03-07",
+        "price": 200.73
+      },
+      {
+        "date": "2025-03-10",
+        "price": 198.74
+      },
+      {
+        "date": "2025-03-11",
+        "price": 201.58
+      },
+      {
+        "date": "2025-03-12",
+        "price": 198.25
+      },
+      {
+        "date": "2025-03-13",
+        "price": 202.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 207.49
+      },
+      {
+        "date": "2025-03-17",
+        "price": 210.1
+      },
+      {
+        "date": "2025-03-18",
+        "price": 205.34
+      },
+      {
+        "date": "2025-03-19",
+        "price": 204.87
+      },
+      {
+        "date": "2025-03-20",
+        "price": 210.18
+      },
+      {
+        "date": "2025-03-21",
+        "price": 206.47
+      },
+      {
+        "date": "2025-03-24",
+        "price": 207.3
+      },
+      {
+        "date": "2025-03-25",
+        "price": 208.12
+      },
+      {
+        "date": "2025-03-26",
+        "price": 209.28
+      },
+      {
+        "date": "2025-03-27",
+        "price": 209.29
+      },
+      {
+        "date": "2025-03-28",
+        "price": 206.45
+      },
+      {
+        "date": "2025-03-31",
+        "price": 207.07
+      },
+      {
+        "date": "2025-04-01",
+        "price": 207.5
+      },
+      {
+        "date": "2025-04-02",
+        "price": 205.43
+      },
+      {
+        "date": "2025-04-03",
+        "price": 205.32
+      },
+      {
+        "date": "2025-04-04",
+        "price": 186.57
+      },
+      {
+        "date": "2025-04-07",
+        "price": 180.53
+      },
+      {
+        "date": "2025-04-08",
+        "price": 183.47
+      },
+      {
+        "date": "2025-04-09",
+        "price": 193.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 190.79
+      },
+      {
+        "date": "2025-04-11",
+        "price": 192.55
+      },
+      {
+        "date": "2025-04-14",
+        "price": 195.5
+      },
+      {
+        "date": "2025-04-15",
+        "price": 194.54
+      },
+      {
+        "date": "2025-04-16",
+        "price": 194.24
+      },
+      {
+        "date": "2025-04-17",
+        "price": 194.66
+      },
+      {
+        "date": "2025-04-21",
+        "price": 186.95
+      },
+      {
+        "date": "2025-04-22",
+        "price": 193.9
+      },
+      {
+        "date": "2025-04-23",
+        "price": 194.73
+      },
+      {
+        "date": "2025-04-24",
+        "price": 194.86
+      },
+      {
+        "date": "2025-04-25",
+        "price": 192.91
+      },
+      {
+        "date": "2025-04-28",
+        "price": 195.41
+      },
+      {
+        "date": "2025-04-29",
+        "price": 198.79
+      },
+      {
+        "date": "2025-04-30",
+        "price": 198.39
+      },
+      {
+        "date": "2025-05-01",
+        "price": 197.24
+      },
+      {
+        "date": "2025-05-02",
+        "price": 199.3
+      },
+      {
+        "date": "2025-05-05",
+        "price": 200.25
+      },
+      {
+        "date": "2025-05-06",
+        "price": 202.06
+      },
+      {
+        "date": "2025-05-07",
+        "price": 204.07
+      },
+      {
+        "date": "2025-05-08",
+        "price": 202.62
+      },
+      {
+        "date": "2025-05-09",
+        "price": 202.64
+      },
+      {
+        "date": "2025-05-12",
+        "price": 202.49
+      },
+      {
+        "date": "2025-05-13",
+        "price": 202.56
+      },
+      {
+        "date": "2025-05-14",
+        "price": 200.59
+      },
+      {
+        "date": "2025-05-15",
+        "price": 205.27
+      },
+      {
+        "date": "2025-05-16",
+        "price": 209.06
+      },
+      {
+        "date": "2025-05-19",
+        "price": 209.95
+      },
+      {
+        "date": "2025-05-20",
+        "price": 208.12
+      },
+      {
+        "date": "2025-05-21",
+        "price": 205.31
+      },
+      {
+        "date": "2025-05-22",
+        "price": 202.52
+      },
+      {
+        "date": "2025-05-23",
+        "price": 203.24
+      },
+      {
+        "date": "2025-05-27",
+        "price": 207.25
+      },
+      {
+        "date": "2025-05-28",
+        "price": 204.93
+      },
+      {
+        "date": "2025-05-29",
+        "price": 206.76
+      },
+      {
+        "date": "2025-05-30",
+        "price": 209.87
+      },
+      {
+        "date": "2025-06-02",
+        "price": 212.64
+      },
+      {
+        "date": "2025-06-03",
+        "price": 211.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 206.79
+      },
+      {
+        "date": "2025-06-05",
+        "price": 206.65
+      },
+      {
+        "date": "2025-06-06",
+        "price": 208.06
+      }
+    ],
+    "current_price_data": {
+      "price": 208.06,
+      "change": 1.41,
+      "percent_change": 0.68
+    }
+  }
+}

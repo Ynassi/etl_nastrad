@@ -1,0 +1,661 @@
+{
+  "ticker": "AME",
+  "name": "Ametek",
+  "sector": "Industrials",
+  "market_cap": 40900214784.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 28.993452,
+    "PB": 4.1023088,
+    "EV_Revenue": 6.153,
+    "ROE": 0.14964,
+    "ProfitMargin": 0.20426,
+    "GrossMargin": 0.35762,
+    "DividendYield": 0.7,
+    "DebtEquity": 21.761,
+    "CurrentRatio": 1.407,
+    "QuickRatio": 16.587,
+    "FreeCashFlow": 1462736512,
+    "OperatingCashFlow": 1836166016,
+    "FCF_Margin": 0.21086098879374374,
+    "ROA": 0.07521,
+    "PEG": null,
+    "EV_EBITDA": 19.573,
+    "BuybackYield": null,
+    "PriceToFCF": 27.926711306431105
+  },
+  "technical_indicators": {
+    "RSI_14": 53.30930647199768,
+    "Momentum_10": -0.216678592247834,
+    "MACD": 1.8680555696218732,
+    "BB_Percent": 0.3954666327663873,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.875930547255842,
+    "QualityScore": 0.3468818046065245,
+    "SignalScore": 0.5807670402297145
+  },
+  "volatility": 0.0158249272101182,
+  "beta": 1.11,
+  "return_6m": -0.0837041559147783,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 17,
+    "target_mean_price": 192.43588
+  },
+  "news_sentiment": {
+    "summary": "AMETEK, Inc. (NYSE: AME) a récemment publié des résultats trimestriels mitigés avec une expansion de la marge compensant des revenus stables dans un contexte d'incertitude tarifaire. Certaines inquiétudes persistent parmi les actionnaires concernant le ratio cours/bénéfice de l'entreprise. Cependant, des analystes attribuent un objectif de prix consensuel de 197,89 $ à AME, et des investisseurs institutionnels comme Rhumbline Advisers continuent d'augmenter leurs positions dans l'entreprise. Ces mouvements suggèrent un intérêt croissant pour AMETEK malgré les fluctuations récentes sur le marché.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Rhumbline Advisers Boosts Position in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkhERG5xcFFEam1qZ3c2VDg5bGR0QXFRWi1XX3lSUWJYb05TZHV0czNPN1BNVi1IUEttbC1DbWt5V0F1WVB4bFZqOFJfWTdWQS1wclpaOWtyRW82dXZEUzZ2NVpYRFdEcDhwOWo1R3RpN3gyUlhaWmVDV3B6VGdRTEVDcmM0WmVkZ2JabmV3eFNGR05YSG9rLTRkYnVCU2tXSzVwRWQ5elR5TjY0Z3NHdmIwYjF0d1J4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barron’s seeks an AME for stock picks - Talking Biz News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnV1aXFERmpNSmowc2Z4Ym5Hc1RCZVVyc0RsZzBfb2kxRVpEQ1hKY3F1cUtmelR3bGxVekN2ZTZpQm9rR2Nyd3lLQXF2M1lRZ21WdURXUzhza0V2SHZtWXBzVDFGOVhTLUdjajlQVDBkUTJwZTdaMHVKSVduV0FGbkMxUlJwU3VjS0tLTnFDNld0REozalV2RURRUdIBoAFBVV95cUxPQTdHaXRTdXhEMldUWmN6cVFhemU3MklnektqLVU0b2ZmNDZiUm41TWJ1Rm1jM1MyUy01Q05LS1RabFJTUUdsWVJucWJzMWtTclc0azVSLXF5R0FSNWFrcElLTkFxT04xOS16SFVMeFRWREczM0lFeWRTRGYyWVRlUUNOMkpIT0V6UXR4MXU2dDZFSkhtOFRYUXJzclZTUTBf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About AMETEK (AME) Stock? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUdxR1Z6bUFEYmwwZjVjNm9tQ0dka25vMzV6WE5aSktndlZpRDcxNjZiQndISEtjVkR4RldhR1BoZjdfZ0k4djRCa3NpSEdMNkY1VG5IVy0xUWlBemk4MlE3U1pDTmV4Y1RVQV9Jd2Zpa1l3dWFDSERjWXZkd19oeE9CVnYwX002eUpYOGpkRU3SAZgBQVVfeXFMTXV3V0xDQ2x5amt6WE1Gc2t4VzVhQWI3cmRRWk1TcVRVSWQzZXVjampuNzVfSEFGNkVicWJSemR0dnNjM0NqaGpIU0tYaHdOVlhydGNJdXlEOXZId184Zk1LTUVBdkYyQ1hWNTNVbkNSdkF0Y2ZlWUZBQUh2Q0VJWldUaHZ4dVlSY01iVnpkQ3p3cVNfbXNKOXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AME Q1 Earnings Call: Margin Expansion Offsets Flat Revenue Amid Tariff Uncertainty - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84enBmTjQtU2VDc0FvT2dCeDVTVE15ay1hLXR5NExYYU5tazdrMFhWZXkzbWVpMndjNXFpcjRmb0Z5T1ktaU5PNnFrOTFua0JDdERIOENNVW82a3pkSndfZGRoM0Y1QU1uR0diSjJ4SG5vRjVQQmZUaXRtNGtBZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $167.54 Million Stock Position in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObklZZ2JBOGZIZ04xWEcxVGwxQmIwcHdJUzJkb3dvNW5LUGtza2xtNmM5SGVrNHNzZzEzYWtMTEVQb0VIMmJjQnlxeVdBX0IwbTlaTlpRejMtU0Z2YlpMOFdWazRqZTlkbzZvM3N6Q0M0UWtLdVV4VHFmMndlRk10NzAxZHZvV1BGci1uN1JocXFkblg1YVJIWlJLMGs5VzF3NERoazFiUWtQVVBxZDdmaHc4LVpaT0tjNS12QmJWQTlpajA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Some Shareholders Feeling Restless Over AMETEK, Inc.'s (NYSE:AME) P/E Ratio - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWl9ON2lFcU9DZHZheFhPY1ZwZkxjTzdnUlFFQlh2eUFNUkxKMGJ6WWhyY0l2VnRwU3RTbU9sbHl4dXlZRW82ZjBWMTZQY2FCMVRzQ084WEcxTjgxNDZJX19QVWhNcTZYZGtqc1pfMTNRSjNQSEh1UEIwYmJhN0llSGVaZDUtQWY2Mm5JRjN2RmUxclNUVmRwNU54bzRiWk1kay04dHoyLUxCankzZ1kzVHZtTUZZbTZZNmZlWUt6UGpPejhJ0gHKAUFVX3lxTE5WaFgwVXc1M1djMGIxTk9WUnJZZENfbFNackU0WlhabVpEczRMZXR3WnRkSDE3ckJ3SFhpTndYOHNLcVNEUlZTTS1oSnZBLXZyQzdVdlg1Q094aENFR0VvRGljMnR3dTNOaEJ5Tzh0aFM1LUJ4bVBJM1U3T2FncU1CRHNCTVJoSzJZTmFsZnVURmY1ZTIxeUxpdW91REwzZmRLcnAxM3BDX2k0YTBPVV9tYXRHcUZyenZKMG9obTBUdXc5OXZXNHlQMUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Is AMETEK’s Stock Performance Compared to Other Industrial Stocks? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVJfNGphREpXRW5kVEVkNGhYWUR0UmN1M0lZVmdyR2JDdzhIOGJnaHNwSFhIV0hab0VyeE1sMWNiSU5BOHZBZ05MZlJGOHV5bVpwcWpDZzRteXg0dHNnb1k5aElTdG9QMlA0c2g0eHhKdnFKQzljOHdzX1pSeTZCR2tQR19Kc3JpeHZsMnVWc0w4cWFSeGtIRHd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Ametek (AME) International Revenue Trends Deserve Your Attention - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXllV0hkZ3Atb0x4cW9vRUktc0FxVk1oVVl4dU9wQmlyXzlWcnM2RWFITWJoX3ptb1FoUnJpaWZzdkJiX1hFOC1QSlVvZ1FjbjZvQXcxMDdvazlXR0RPQW1NNGhIZ3lhX0Z4dU9mUEJLY0gzUEpSaENuaXUySmtYMzA3b3lVckJxSkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Time To Consider Buying AMETEK, Inc. (NYSE:AME)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VrR0p5dTVxZjhtaG1CM1h1eHJvTERLSy05YjY2cDFkNmxLdHdkQTJVRmNDSUF5QmVDQmZTSk1zYzlLSlJYV3hQY0k0VEFqOXYtMEhHTU03ZkNtQ1FaeEdTTlJ1dVdsb2E1SS1KYjNGQnF2Uk1pNkpDa0UwYXRlQU9iSExVVU5MOEcwaWVMN21FX2hZXzltWjBXanpRMnFoWmN0YnhoQUpSWXc0Nlh5TGVZR29qdnpW0gG-AUFVX3lxTE5SSDgtS1A3QTd0N0JEX091RXVKbzFNZ29UeWJWcDFIRWFiLVdLNnkxOUd5QmNyR3UzMVlOU01Dd2g5ZG9ILWltbWZhSUE5eU5Pb1pvcVB3em90ejFVN3YwUURINGM2SklLV2hoeFJQOHotXzR5clRqenlCbXpQZjhRbkRwdTRfZkV6eG1xbzh1SmNISUFhWVNYdlRiTTBYOF9uRmZDT0FXNGxxUWs5LWlIR0lRVXFIcWhZU09pTnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Shares Bought by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTEtRV83Ui1Id1ZmNGFnREhCeTQ0MVllTmZFcXVmQ2wwam9RWHM3OU1GbFNrVW0xLXVBc2pwVG1LQjBvVFlXai1pYTFScFAtRkRUSUJwYTQzX3VvOFJrMDZNSG9YVTkyeTN0blMyMHNxb0J4OFRtdnRiYjVNUEdQWkl0TGVrdTF1RDJXaUZweElMUkRJSzdaN2lYX0dxVzJQck15c0VPNjc5cGxDRkU4RHZGRkxKNXRiWWZ2MURZVnROOEtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unpacking Q1 Earnings: AMETEK (NYSE:AME) In The Context Of Other Internet of Things Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTExRExZSnVleWZfY2NoakktdG1rN3JKWXFzaTNreWc4cnJmU2g3d3JiOFF2S0pxVUM3MWpJb1J1aFhlZUltRGU1Vm80Z0EwNlA3ajFzRlBwYXJnbEowRk52SHoyX054dGtVcnNlbTh2dTZPTXZmUkNnNEo5RDVoUW53YUJYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L. Roy Papp & Associates LLP Decreases Stock Holdings in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNvWEMtb0I4SjJmeDZKR2lCWDdWem1EbEhGbjZSczM3ZzNKYnhVSEllTWlreWhadXY4NTV2aGpOeUlWTG1KalljUW5aUnVySmlLdjBQTnBFV2JySjdidld2NU9TZ1Q4UnNSdzFsZ18wdmFrS3Z1bXg1NndlTWo4VnpiUDZYdHZGeXI5RDNnYVhqU1RFX2NvWnZ3V0Npajg3d1RWQ3ZhbXNhaUhDcXRWQzNNd2JiRGRZQXMxUlVnQTdIdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Shares Sold by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHpNU3RLbUJ4MFNpSmpYOW43Z0NSMXFDYlhCblppVW91MEg4V0tjZExNNXczaUdjeHFoZVJLOVl5ZDczT3JfcVp6VlpyRlQ5ZXM2UFB6ZW90RlBzWFFxMmV6VUVPd3htSnJjMmFENURFYzViWXRweFYwMHJEVzZoRHJma25LazZGMVJLMzFLZFF6dTJDb1BfUVdQTGlyMWVLb0FsQ1MtMFZac2lRTDdxSEVoemdkbFA1cjdCeUNXMjVsam9wdVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Boosts Holdings in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3FrbEpwX1hUdlpGR2Q0TzBrdXRoUm1naWpNZENGYVh3TGxWRkRXZ20yOC03SEVwdXp4ak5LMHVQalg4UGg4U0EtVWI4eXJ1Ul9VR0w0QUtqNklHbm9Ob3NoZ2o4MF9vMEk0ZWZaTWxEYU5LUmJDS3FvQmhwenhxWUtHMDRBbUxHa3FxREFXV3o2dzRiaUpkcjRIbmtNYVBYZmxvc0l0cm1BdndINGZvRnhrdWNsaW9S?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Receives $197.89 Consensus PT from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGlNbkN0V3hORnlhNnJJcGRvTVNYLUFBVldWTzBDSGp2SWhDRDR4eEF4NV91MUNERGNVOHNwUVljZWExdDRSeUN0a2dSR1I4dEVWeFF1RWpqN09qb3d6dkNFTzJtM2oxU0xFWngyT0tiQmdadXVMVno3OW1ZTVpPNWM3N2oxQzhVNmtmdTh3MjNZVEM1YjVtb3hBWU5RYlNxamZQQ2RMM212QUxxWUFqQ3V2NnNpc0VWNFh3QzBIY0d2M2t6VkZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4,809 Shares in AMETEK, Inc. (NYSE:AME) Purchased by 111 Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0ViVE5NY1FnSEpWY1NWR3lPZzk3N1cyTGpSRC1rQmR6TlNpYVVVVERsYU16ZE1GUjl1M19QSmc2U2lESFYzRDV1a0FuRklJLXNlbF8zQUFjVUVBRDFSMVJmbjJoalpORjRCTVFhRmdWYzBkX09SX01XN0h0M1dBQUp1SEJrVnp6Um41NDFsb1NPZGpObWdJeG9pcG4ybHVEWk1TUzdXVVFBMGZDMUh2WlBkcHFOcUZlU1RVem9uYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "274,563 Shares in AMETEK, Inc. (NYSE:AME) Acquired by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWtwd1FjUjlUT0VLS0VwVGtkeWlSZXJ0b2ZrU0dMamRPQ0Z2RlBkRG51Y2MtbFF5YlREYmpvd0FTN0hvVmlORHN0bkJEUlBHWG8wSlltSmJnQTh4RHJMNnd5M2FxeW5jaGdDRHhyMzk4YzZfU0pGeVRIQjgwenJRd0NDcURzdzhmcFk1M01rTThiM3d1dk5mTXNKc2xwTXJLYVBPTzVWY1RFblJMUEgzWXdXVUNJdUM5dHVKWjdtMWxncFlwLXlCaDlFUk9zTHU4VWV4clBWblF6endRa29jRnBmZkRaZ3RsREJ1Q29B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK (NYSE:AME) Shares Unloaded Rep. Robert Bresnahan, Jr. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjlPWEdHSkQ1UlpCc0V0OGZ1azBqUk1XRk5fV1lMQ2s1cVFvT2hYa1Zsc2w1QkdkM3NVelhyMzlGTm9kM19lVmVVaWZRMlVicTdlR29ZaHY5eTg4LXctYW5RUkxpWXVCeTFGclVwX1dRSVI2TjI4S2RhWUtuMkN1TnVkcGR4UHZqaW5VN1ViY2VFRHZnYUQtWDQ0Vk5nOFFfTm5lVkx4LW5VLS1N?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Position Boosted by Vise Technologies Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjctaV9USUt2bEExeXlCbU54Y0RZOFhNb0tlVkpXQ0Q0cWRpTE15MV85NTBvUDdJZFVIbXE4bFZCQ3NJNzRNY1BONDBCRFMzZ0RxSnFxazBtdTZ6bHU4bENUeFY5TnRnNUNZbGdCVVU1REdRc0N1NHpuc3lLWmE5M05HOUNwSWhUSUZINEFFc3lHOG1GX1dXaW53c1JVdmZrd3RBLXRiZzNpei14RWRaTVBRUGdfREtFYzNhVXZUOUlfUEZ4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chancellor Financial Group WB LP Takes Position in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnN2Mk1PWlNudnYyMW0ta3BKN1lkeGhwVUt5TUZXRldwcENZNHBEaWlNWEppZFpNOWdBVHBGZ3MyNmF2aEl0VkhRYjFPQ0xXTWtvWGxCaEtKUzdDY1hROWg1UHdUUVRCUGdVbU5ORGNERkVUY1JndEpMRThIclhUb1FDTTFDNFZCYl9uaklXQTVmN1JDR3N3RXY5ZHB3R3VEYWh1TnpyTk9JVC0yWk5kS1NMWnp2TnNsUVpsWlFLWEhwX0I3a0VJUDR4LVhjQlBLRWZnRg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06",
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-12-09",
+        "price": 189.89
+      },
+      {
+        "date": "2024-12-10",
+        "price": 188.6
+      },
+      {
+        "date": "2024-12-11",
+        "price": 188.66
+      },
+      {
+        "date": "2024-12-12",
+        "price": 188.45
+      },
+      {
+        "date": "2024-12-13",
+        "price": 187.38
+      },
+      {
+        "date": "2024-12-16",
+        "price": 189.38
+      },
+      {
+        "date": "2024-12-17",
+        "price": 186.71
+      },
+      {
+        "date": "2024-12-18",
+        "price": 180.76
+      },
+      {
+        "date": "2024-12-19",
+        "price": 182.11
+      },
+      {
+        "date": "2024-12-20",
+        "price": 183.36
+      },
+      {
+        "date": "2024-12-23",
+        "price": 182.07
+      },
+      {
+        "date": "2024-12-24",
+        "price": 184.05
+      },
+      {
+        "date": "2024-12-26",
+        "price": 183.72
+      },
+      {
+        "date": "2024-12-27",
+        "price": 182.45
+      },
+      {
+        "date": "2024-12-30",
+        "price": 180.74
+      },
+      {
+        "date": "2024-12-31",
+        "price": 180.26
+      },
+      {
+        "date": "2025-01-02",
+        "price": 178.33
+      },
+      {
+        "date": "2025-01-03",
+        "price": 179.57
+      },
+      {
+        "date": "2025-01-06",
+        "price": 179.43
+      },
+      {
+        "date": "2025-01-07",
+        "price": 178.69
+      },
+      {
+        "date": "2025-01-08",
+        "price": 178.45
+      },
+      {
+        "date": "2025-01-10",
+        "price": 176.15
+      },
+      {
+        "date": "2025-01-13",
+        "price": 176.5
+      },
+      {
+        "date": "2025-01-14",
+        "price": 179.15
+      },
+      {
+        "date": "2025-01-15",
+        "price": 180.06
+      },
+      {
+        "date": "2025-01-16",
+        "price": 180.86
+      },
+      {
+        "date": "2025-01-17",
+        "price": 180.73
+      },
+      {
+        "date": "2025-01-21",
+        "price": 184.7
+      },
+      {
+        "date": "2025-01-22",
+        "price": 188.7
+      },
+      {
+        "date": "2025-01-23",
+        "price": 190.43
+      },
+      {
+        "date": "2025-01-24",
+        "price": 187.98
+      },
+      {
+        "date": "2025-01-27",
+        "price": 184.95
+      },
+      {
+        "date": "2025-01-28",
+        "price": 182.89
+      },
+      {
+        "date": "2025-01-29",
+        "price": 182.52
+      },
+      {
+        "date": "2025-01-30",
+        "price": 186.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 184.56
+      },
+      {
+        "date": "2025-02-03",
+        "price": 184.13
+      },
+      {
+        "date": "2025-02-04",
+        "price": 180.5
+      },
+      {
+        "date": "2025-02-05",
+        "price": 180.23
+      },
+      {
+        "date": "2025-02-06",
+        "price": 182.9
+      },
+      {
+        "date": "2025-02-07",
+        "price": 184.51
+      },
+      {
+        "date": "2025-02-10",
+        "price": 185.97
+      },
+      {
+        "date": "2025-02-11",
+        "price": 185.32
+      },
+      {
+        "date": "2025-02-12",
+        "price": 185.5
+      },
+      {
+        "date": "2025-02-13",
+        "price": 184.43
+      },
+      {
+        "date": "2025-02-14",
+        "price": 183.54
+      },
+      {
+        "date": "2025-02-18",
+        "price": 184.36
+      },
+      {
+        "date": "2025-02-19",
+        "price": 188.86
+      },
+      {
+        "date": "2025-02-20",
+        "price": 188.78
+      },
+      {
+        "date": "2025-02-21",
+        "price": 186.19
+      },
+      {
+        "date": "2025-02-24",
+        "price": 185.78
+      },
+      {
+        "date": "2025-02-25",
+        "price": 186.95
+      },
+      {
+        "date": "2025-02-26",
+        "price": 188.18
+      },
+      {
+        "date": "2025-02-27",
+        "price": 187.33
+      },
+      {
+        "date": "2025-02-28",
+        "price": 189.3
+      },
+      {
+        "date": "2025-03-03",
+        "price": 186.55
+      },
+      {
+        "date": "2025-03-04",
+        "price": 183.33
+      },
+      {
+        "date": "2025-03-05",
+        "price": 185.04
+      },
+      {
+        "date": "2025-03-06",
+        "price": 184.14
+      },
+      {
+        "date": "2025-03-07",
+        "price": 183.99
+      },
+      {
+        "date": "2025-03-10",
+        "price": 179.37
+      },
+      {
+        "date": "2025-03-11",
+        "price": 178.86
+      },
+      {
+        "date": "2025-03-12",
+        "price": 177.21
+      },
+      {
+        "date": "2025-03-13",
+        "price": 172.91
+      },
+      {
+        "date": "2025-03-14",
+        "price": 176.14
+      },
+      {
+        "date": "2025-03-17",
+        "price": 178.63
+      },
+      {
+        "date": "2025-03-18",
+        "price": 176.08
+      },
+      {
+        "date": "2025-03-19",
+        "price": 177.07
+      },
+      {
+        "date": "2025-03-20",
+        "price": 175.93
+      },
+      {
+        "date": "2025-03-21",
+        "price": 174.52
+      },
+      {
+        "date": "2025-03-24",
+        "price": 178.82
+      },
+      {
+        "date": "2025-03-25",
+        "price": 179.7
+      },
+      {
+        "date": "2025-03-26",
+        "price": 176.9
+      },
+      {
+        "date": "2025-03-27",
+        "price": 175.56
+      },
+      {
+        "date": "2025-03-28",
+        "price": 170.39
+      },
+      {
+        "date": "2025-03-31",
+        "price": 172.14
+      },
+      {
+        "date": "2025-04-01",
+        "price": 171.89
+      },
+      {
+        "date": "2025-04-02",
+        "price": 172.72
+      },
+      {
+        "date": "2025-04-03",
+        "price": 161.49
+      },
+      {
+        "date": "2025-04-04",
+        "price": 152.66
+      },
+      {
+        "date": "2025-04-07",
+        "price": 153.33
+      },
+      {
+        "date": "2025-04-08",
+        "price": 151.41
+      },
+      {
+        "date": "2025-04-09",
+        "price": 161.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 157.42
+      },
+      {
+        "date": "2025-04-11",
+        "price": 158.95
+      },
+      {
+        "date": "2025-04-14",
+        "price": 161.36
+      },
+      {
+        "date": "2025-04-15",
+        "price": 160.21
+      },
+      {
+        "date": "2025-04-16",
+        "price": 158.52
+      },
+      {
+        "date": "2025-04-17",
+        "price": 157.81
+      },
+      {
+        "date": "2025-04-21",
+        "price": 155.25
+      },
+      {
+        "date": "2025-04-22",
+        "price": 159.65
+      },
+      {
+        "date": "2025-04-23",
+        "price": 162.19
+      },
+      {
+        "date": "2025-04-24",
+        "price": 167.24
+      },
+      {
+        "date": "2025-04-25",
+        "price": 166.69
+      },
+      {
+        "date": "2025-04-28",
+        "price": 166.29
+      },
+      {
+        "date": "2025-04-29",
+        "price": 167.8
+      },
+      {
+        "date": "2025-04-30",
+        "price": 169.58
+      },
+      {
+        "date": "2025-05-01",
+        "price": 167.26
+      },
+      {
+        "date": "2025-05-02",
+        "price": 170.07
+      },
+      {
+        "date": "2025-05-05",
+        "price": 170.27
+      },
+      {
+        "date": "2025-05-06",
+        "price": 167.85
+      },
+      {
+        "date": "2025-05-07",
+        "price": 169.71
+      },
+      {
+        "date": "2025-05-08",
+        "price": 171.57
+      },
+      {
+        "date": "2025-05-09",
+        "price": 171.75
+      },
+      {
+        "date": "2025-05-12",
+        "price": 179.38
+      },
+      {
+        "date": "2025-05-13",
+        "price": 180.5
+      },
+      {
+        "date": "2025-05-14",
+        "price": 179.36
+      },
+      {
+        "date": "2025-05-15",
+        "price": 180.21
+      },
+      {
+        "date": "2025-05-16",
+        "price": 182.75
+      },
+      {
+        "date": "2025-05-19",
+        "price": 181.88
+      },
+      {
+        "date": "2025-05-20",
+        "price": 180.8
+      },
+      {
+        "date": "2025-05-21",
+        "price": 177.68
+      },
+      {
+        "date": "2025-05-22",
+        "price": 178.54
+      },
+      {
+        "date": "2025-05-23",
+        "price": 177.64
+      },
+      {
+        "date": "2025-05-27",
+        "price": 180.81
+      },
+      {
+        "date": "2025-05-28",
+        "price": 178.97
+      },
+      {
+        "date": "2025-05-29",
+        "price": 180.04
+      },
+      {
+        "date": "2025-05-30",
+        "price": 178.74
+      },
+      {
+        "date": "2025-06-02",
+        "price": 176.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 177.71
+      },
+      {
+        "date": "2025-06-04",
+        "price": 177.21
+      },
+      {
+        "date": "2025-06-05",
+        "price": 176.93
+      },
+      {
+        "date": "2025-06-06",
+        "price": 178.35
+      }
+    ],
+    "current_price_data": {
+      "price": 178.35,
+      "change": 1.35,
+      "percent_change": 0.76
+    }
+  }
+}
