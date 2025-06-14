@@ -2,16 +2,16 @@
   "ticker": "PSX",
   "name": "Phillips 66",
   "sector": "Energy",
-  "market_cap": 46529302528.0,
+  "market_cap": 49756205056.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.72072,
-    "PB": 1.7066681,
-    "EV_Revenue": 0.466,
+    "PE": 27.504505,
+    "PB": 1.8250291,
+    "EV_Revenue": 0.493,
     "ROE": 0.0656,
     "ProfitMargin": 0.01347,
     "GrossMargin": 0.09099,
-    "DividendYield": 4.28,
+    "DividendYield": 3.95,
     "DebtEquity": 66.317,
     "CurrentRatio": 1.228,
     "QuickRatio": 0.787,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.012133269967211072,
     "ROA": 0.009509999,
     "PEG": null,
-    "EV_EBITDA": 19.56,
+    "EV_EBITDA": 20.715,
     "BuybackYield": null,
-    "PriceToFCF": 27.883522658096705
+    "PriceToFCF": 29.77248408638263
   },
   "technical_indicators": {
-    "RSI_14": 51.80154738912366,
-    "Momentum_10": 1.075408303938646,
-    "MACD": 0.8113032082585647,
-    "BB_Percent": 0.3809778399554265,
+    "RSI_14": 64.12559196784566,
+    "Momentum_10": 7.825164778579824,
+    "MACD": 2.1962748103793928,
+    "BB_Percent": 0.8662287284622189,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9322452944874824,
+    "ValueScore": 0.8944146283938961,
     "QualityScore": 0.2963735502416224,
-    "SignalScore": 0.5697777122942347
+    "SignalScore": 0.4738599694726081
   },
-  "volatility": 0.0276921677794425,
+  "volatility": 0.0276420028589052,
   "beta": 0.998,
-  "return_6m": -0.0959017198945965,
+  "return_6m": 0.0137527371270005,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 130.966
+    "target_mean_price": 131.016
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 130.08
-      },
-      {
-        "date": "2024-12-10",
-        "price": 125.62
-      },
-      {
-        "date": "2024-12-11",
-        "price": 125.33
-      },
-      {
-        "date": "2024-12-12",
-        "price": 123.99
-      },
-      {
-        "date": "2024-12-13",
-        "price": 122.72
-      },
       {
         "date": "2024-12-16",
         "price": 116.29
@@ -537,43 +517,83 @@
       {
         "date": "2025-06-06",
         "price": 114.29
+      },
+      {
+        "date": "2025-06-09",
+        "price": 116.1
+      },
+      {
+        "date": "2025-06-10",
+        "price": 118.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 120.95
+      },
+      {
+        "date": "2025-06-12",
+        "price": 121.52
+      },
+      {
+        "date": "2025-06-13",
+        "price": 122.15
       }
     ],
     "current_price_data": {
-      "price": 114.29,
-      "change": 2.05,
-      "percent_change": 1.83
+      "price": 122.15,
+      "change": 0.63,
+      "percent_change": 0.52
     }
   },
   "news_sentiment": {
-    "summary": "La société Phillips 66 (PSX) a connu une volatilité récente de son cours de bourse, avec des variations négatives de -0.22% à -3.21% en juin. Certains investisseurs institutionnels, tels que Czech National Bank et Stablepoint Partners LLC, ont acquis des parts, tandis que d'autres comme Annex Advisory Services LLC et Beacon Financial Group ont réduit leurs positions. Malgré l'intérêt de certains, des signaux de vente ont été émis, et l'analyse de Jim Cramer souligne une tendance baissière, influencée par le contexte du secteur pétrolier.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
+    "summary": "Suite à une récente série d'événements, l'action de Phillips 66 (PSX) a connu des fluctuations significatives. Malgré une réaction excessive après une victoire judiciaire d'Elliot, elle a rebondi tandis que les tensions au Moyen-Orient ont impacté négativement le cours. Les analyses divergent, avec des avis partagés entre maintien de la note par Wells Fargo et ajustement à la baisse du prix cible par Morgan Stanley. Le sentiment de marché semble divisé quant à la valeur à court terme de PSX, reflétant les incertitudes entourant le secteur pétrolier actuellement.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "How Is Phillips 66’s Stock Performance Compared to Other Oil Refiners Stocks? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTdyd2JFTDM4bDB1aDF0OWFldkk3R01zZ3lBWTFzLXJzUk44c2ZZWldhSm1pN3JZc1l4WE5zdDJiWDlzSnI3MXM0cVY4VVlsa0swaWtFR3BlcVZLSmhMRnMwZlQ4ZUFPeV9sMmFrRkxydEswTmNBZDM3cDh4OVZkRUFqeWtxTTdrM3J6cUYydjBWY3ZldDNudVZobUUwMU9SbjdEbTh5a1U2dVU5X3d1Q3p1SmlZdWtLTkRBQTNvMnYwazZ3cXY1eWVn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Phillips 66 (PSX) Stock Moves -0.22%: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnI3QUhsWnlMV05ZUXlFMVlUWGZKNURtMm56RHhhZDNJdUJicWxXMFZxREsxUWV2STVoeXJRc3kxX1I5T2wyQzBUX051V0h3MkFWOEY1RlJ1T3pDZC1HUzdLSHFaWlhQdk5YZ09qbDhVbVFacElPblNqN0JwUVdmMDBWN21DcV9BMm9tNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Phillips 66 (NYSE:PSX) Shares Purchased by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdDIwakpfMEptNnhRWFFfVWJ5MzYzcUtZY2tmMlN6TGJDVTcya2x3b2xhWlh6Nm1kbGE0b0xrQkxPUTZxZHB6dW1FOUFlTU4tRy1aWFkyam9EaHZBMWc3ZGlOc20td1IyaHI2VWtMUm9ld3gtUnZneVhWYkVSN091WlF2RFAzdExmbUZsQTdmRlJ2RDFxQVd4ODdGMWFrMGlYZVAxbXlLdkNrTnpLd3JSWjBEOHp2WmZLN25VSVJvUHJ0dEszZzV3aWV0OWJ1NUlq?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Phillips 66 (PSX) Stock Price Down 3.21% on Jun 4 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0ZhcnozNFpGdTFMcHNvWmZCV3V6SEwxWndXWURDZWUzUXFhbjl2bzV5YXhGcU8xY3ItUjRTNXAtQmMyTFdTQUFFdTFfellabzBLV2swblIxWjVrR0twejlqMGU2NlNkT09UTDhuTFRrQi1lNVRtQkx6SUwwZ2doUVdta3B1d1kxZEhhaQ?oc=5",
+        "title": "CCM Investment Advisers LLC Trims Stock Position in Phillips 66 (NYSE:PSX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmhBRUNXczZJN09QNVUzcHFvMmJveUR6X3VZSXl0S2poX0tFTTBIZ2ZHYkVsNmJJN2xvdktsaEVPSUtGb1VRY1YtRUNxYVlKTVdmRjJ0ZUdVSGVCTFpVTXN0WHN6VEw0cHZNYUZlb3VjSDRqWExLWTBjWFB6dXN4U2FYUElNYVl3RmVPbzVfRXdxU2dtejBCRy1LdnRKaEdoMUtaYnlDWGY5NGdCOFBxZUc4OU9ic3EwOU1FQ2FSRzlCUWtMNGVNTFFRWHM?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "How Is Phillips 66’s Stock Performance Compared to Other Oil Refiners Stocks? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVndhQ1FVZ2xob2lNam90SDJzemFxOFJCMGZ6VDJBckVFYzI2ak05ZG1pZDNfVHF2dkV1R0dwRmhZUzU4bTVVa1lVT09lZXZZV05ZRkU5VFFibzM0RjhEOVBkNnM1NkJrN0s5TExYRVBBLWRvaDJYSXVNaUtKRDBOcWt4ZDR0em9JNWtkZWRkREttTE9sLUJPQ2ExYXhlVjg3dV9TQjl4eEZVaEFZT1E5TVdLZ2dxd3A1bDJ5SXBzalVpS3I1Y2o5cVJyV3NCZkVnTUdYTEtoM19LVnVhRmo0aVZMcmdpNk11QzhNNldqa0dwQmRGekt5UEhUazg5M3ZVNXJYZjdpR08zRTNxcHN2M1VaT0NKNU14YVoycXk0cUlCdjBSalR4dld0ckNpT1hORWZxWHJvcUNSTk94ckNkSXNqQWFSTGFUTGswTUlOV1JqemlaRmlNZjR5VU1Sajg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips 66 (PSX) Suffered From An Overreaction After Elliot Victory, Says Jim Cramer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVCMXVTUjgwU1UySkp4Tkt6NzFES2l1UGlzbGhWWnFvejNfcjhqc1pPd2xhdkswUFJJUHN0dGFMS2ljemtRNHJNSjVIM1NQODBsdlRNN2N3TlRVNVptTVlWZ2d0RVN1OWdLX3ZrZVNjZ2J2THpoUG8xQS1RUDZrV1JrcDcyM3R4NDNV?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PSX tumbles on heightened Mideast tensions - The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0sxU19LTzNpcjU2TWpsa2I2RDdmSnNZeGxGNC1DWlc1cHc5Rjd6dmdMNDJhTXVqYUQ2WHozZnJ1bXpuSEFJNGdDRHNyVExWMXNQV2VoeTZrUldwMDBvcFh1eTF3VVdpTWhnb285TXoxNS1YNldRYW9nX0dYUHRKeWRmdDF4Z9IBjgFBVV95cUxPRzZwcTVJb2xtNm1tYVhJcEl0ZV8weFUyQklTaXZza2RYMzdxUVNjTkxMREtWa09BRWgwcHdOUHNhdVd2aGpvbzJIVjQtcEN0SjFvRHZTc1I1cmpRMXN3LVdqNG05N21ObFNiU3lfN0FaMFZNQ2I5VnZaLWRVMTJqaUFlSDB3cGcwNFBYNk9B?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why the Market Dipped But Phillips 66 (PSX) Gained Today - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzhUT0JZNHVYMUVfc1Zvb0NBQUtBZkk1M1Uxai1Ca3FEUEpydHRDcXI0UzUzTWM1R0dJM09EUjYyTXFWeWNhcW13WVdCZzBhTEVCRWRZaWRjTWlNRjRadUY2dWhGTnd3WF9GelhZQVVTclZwMHhVbkQzSV9nZ0tLdFNoTVZwdms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips 66 (PSX) Stock Rating Maintained by Wells Fargo | PSX S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1J6X3prNjhNb09zMjJoaW4zTkhXVWhad2toX2F2ZDVqbVQweGlvaGRUalZza3hHN2Z6WFJIQWFUODZndnE5ZWRIT0RhcUVpUVlyb3kxX1NVdkFwNXJkQ1pQdzM5cVplUXBRekRZSy1VNEpNTWhpbkItNDJPTFY0V2NtU3RLUDczUFFUNmk2OHppTGxMeHR3VjN1cTBocUlzRVNyRVc4c2VjcFhk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pakistan stocks drop over 1,900 points amid Israel-Iran tensions - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xNE1CYzdIYVpiam5lOEw5Y052NmZfQWFaTHNPYW5EWXZsZERublhObmZnNTBFcWp0YjVJVG1kSGRiT1NBSThxRktFREpYWXRsSzNwX1YzT3F2QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Phillips 66 Should Get Streamlined To Enhance Shareholder Value (NYSE:PSX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWJkT0ZZVFdxajRDMko0V1VPeGxaMnc5S3JPak9oaXBmRnlfSllYQVVOaFVFcDA4LVkzZ1FBV1BhYXJvYmQ2WjYxYm9qU09IX0dxVF9IOFAteURjWmVqcloxQnR3ZjhWUUhHcFNVWTY3N0Q5YU42Mk4xcnplTUlKVG85NS1oSU12b0pTWEdzYzYySC1zNWFveERocEtVel9XZ1N1aFJJSmFDbWs2dUJJ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "We Wouldn't Be Too Quick To Buy Phillips 66 (NYSE:PSX) Before It Goes Ex-Dividend - simplywall.st",
@@ -581,81 +601,61 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "How Is Phillips 66’s Stock Performance Compared to Other Oil Refiners Stocks? - inkl",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWY5aHprdm5XcE1LVGpoSXRDR1J1QVJzTXRwVGdrMzhPTnptbTlIWDBnVnNBNnhMcWNmcWNXeXlPaXp6Qmo2RmdnaUkxZWZTb054VUIxWjRQb2hUdk1sMHlwakRBelk5M3BZQUFxUlplRjNKRVNVWjYyQWd1ajF0NTNJZWVodThwanpnQW1SWlJBQUp4TnY3M3QxdXBZVTAtUzJnRw?oc=5",
+        "title": "Verity & Verity LLC Grows Stock Holdings in Phillips 66 (NYSE:PSX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3NfeDlyS1pmSGRGS183X283RU94LWtmN2ptQWJNUDFEN1FtZFdCUl9USWwzWGpZSlRyU1Z3VFRKdmM2c2NnV1d0eTFKLVBKR2g2R0czcDdTaWIzaDVHYmowbjNldmlLa3NmeXRqQkdzOFRnNGpheW1yUkdZb3F1aVFKbG9vS1FmN2NJTWNTSHBibTA2QTB5TFBCTFNRbjZhX0dBbWtncGRxcVlJMVlFTHhhXzNBandOdGFmMzlycw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "When the Price of (PSX) Talks, People Listen - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzVOUHNISzlTZU5fQWhmSzZQaDVhS3V1dk10RGxYTUMzQXluaG40UWYteGFMZXBEajRLTUhHN3pzSHZmUkYwa255UWFxUUh1UVRZdV92b2tZS1ZWbWc4bkgtVDMxMGJUaG5NTGwyQm81TEpsU3A1M205ZTVwdTluVTJnZDV4LWZoVHBURUhBVXIxWXRMTEM5RzBSc0Fxc0lEVkQtblVXZ0NvLUhEYjBtblBQaUVuYkFFSi1zbw?oc=5",
+        "title": "Phillips 66 (PSX) Stock Moves -0.22%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kUFBsRmp3MU5XVVM2LVd4aEZJSTlKWk90SmQ5LTZFbWw0X1loVzBUVi1JUXpwdjhkdDBveEdOME9MSVRKR0E4OFB3THdBbTJIMnpEa0RWdEEzWGxDTkZTOGN4V3RFRmtRTGVuRjVmS0IxdzBEVzM2SnBkX2pzUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Phillips 66 (PSX): Among Billionaire Paul Singer’s Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENwSmY4blgzVzFyNEFWRlZXLVNJbWtuSU9QUXFNSjJMMjZlLVdBVDhFVC14bUZkYWJQQjVsZGdTRXRUZDdvSFlYQ0xTSDduMkR4Nm5JVFNCWlVBM3o2SmFaakxyRWZfaFhDVVdvdlpaMEZyckVDbDZfRnVIbFV5WVc0U09wUQ?oc=5",
+        "title": "Phillips 66 to announce second-quarter financial results | PSX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUlxTTBMQ2NVUkxSa2ZOVXZGbC1iUUgxajRtNzhmMlFVY2RQZ2JWQ2hVb3VXLWp6ZUx1TUFmRGVuTGMzaTZqdkh3a2lqLWRWQzctSmVyRUJEMFVuVTIySnp1TXJHTGxCbGhPM3poV3VaYXVkQXNVZkoyanczRFAwbzRQUlpvaWYwMzc1LTN4bEcteDV4cUlOeWRBeTM3Z3ltcmJDX1BRTW53emtWeC1aTkhPa0JRVmY0V1hyWUNWOGNETDV6eExfNW1xSHZSYUpmWUZJTlRMVUJsNE4telE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Phillips 66 (NYSE:PSX) Shares Acquired by Stablepoint Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSU1tWHJJVmtUNE93MkRsQ1Y5S0VTNTFiRUxUbWI0dkVjZGFFN0huSHZGLXdIYV9NcTZobWsxZDNKaWk3WEdHY1Q0eVN5WkdsR2pCc1FidzlnbVFoT2JpejVhSVowT2hWWGdjdFgwemZCVVR1TFp2dGZ5ZmEzM1JyQzVjaVlPUE44VFZOMk92YVNyd3BNeVEwLUpqWDNvUFRuX1BRcF9HVXhLMDNGME11TktNNWk4SUFGZkI4QWdjUXk2dw?oc=5",
+        "title": "Salem Investment Counselors Inc. Raises Holdings in Phillips 66 (NYSE:PSX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUlWOTA4TE9TdkJGRk9DX0ZMa1ViU0lxWm4zalYxWTNoVmpvWmx5UkJPS0tYU2ZwOFdGUTUtOFUwQlZnc1Jxcm9Rb09XVjliZzhXN2gtUkNHc3JMR1dvVnNaUkhWaUpZQlZEX1gtMWNGMFJEc2xsMTB5S0h1UXJSZUVQLXZGd0FNNnZWTEtlZ1FjN0ZWdnFPQ0FiUGxxVkpIX1NfeE5mM0tyM191SDcxeTAwVGpYcDFoVndkVWVYYlFGZ19aN1JaLVFRNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo Analyst Adjusts Price Target for Phillips 66 (PSX) | PSX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmpQWnd2TjZhZXZhS3llbVZ4aVh2a290ZDRYb2twWmdFaV9SajRaNWZvQVVLZ2N2V2FTLXJyM1gzSG8ybk1BOVRtTVo5azlnNFVCendMaVZiSjMzWmVRRmhRdDJibTFLbWRuRmJiZGVKSWhFaXIySFVDVGRhLXFGRTRfNEtFU3I0dTR5YW1NQ3EtTDdXLS1mUjdyZUwyWFZkX2FtYjhJNzVnS1hkaVNSNUxqRjJ1dw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Annex Advisory Services LLC Cuts Stake in Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNThOYUJrSENseXVHWFZEeEoxVG11dE5CZ0JEZ2gxWXFHTzU1aGV5bU5sMDVtRk5WeF9DWDducUgxYnZOZ2U2di1KOWo3Rzl6NkVKY0NFTi1CM05PUmcwaVVydnBnNVF0NUtmSnM1NFJSeDcyUE5jNk9NQmI5ZlNtNXQwWWVzUlJvSVEzRXZLOS13dEFuNXNfdnQ1Sm12WlhBM1VGSWViTkNPOXJJMmFfYW1HUldVVzRvZ3FxMGlDWQ?oc=5",
+        "title": "Morgan Stanley Stays Cautious on Phillips 66 (PSX) Due to Strategic Issues - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWlTUS1uME1SYTE1R29zVG5IdHVKc1FGUTd3V1dRSlBVT0x5bFJ6bUVfSzRWa1RUU2o0Sko4Z1N2c3VXN3R3Tmh5N09Kcy04azZGSXJFNnJCbFFhVkphZ1lRNERlc2pDRHNKYkRZUGVlZ2duazdBaHRrMko1OWpaSE5LaUhVd3ZUZWljSQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Phillips 66 (NYSE:PSX) Position Increased by Viking Fund Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzNXYjZya2RkcGJ5clh0Y0JQQU5pOUZzazFNbXY3MDZrLTF0TFVFQk5ZS2hvQTRqSkFCZVdiR3BVTE5FRU1fSUVvcmxwRGxFMHZVODNHc0ZtSnBuNWljZUVvOFZKT3ZBVlNiWmhRbi1rek4xTjh1VjhwQnotbkt6SGJYTWNwdE9UeWlkMzFZNno0ZV9SSmxIQ1dIZzIyOHZQM2tJQW9hVmRhSVR6VzJTQUFGazJRUmxaTHVwYVd5RWdzcGRzLXRjbWJfV2Y?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Eldred Rock Partners LLC Acquires 8,904 Shares of Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGtDX0tTeUh4cktIQ3gwRnUzVnNBX19DbHV3XzI5ZlN4SkZLUTRlTFFTX0luX21HX0FHSmxaR2h4VGNoVmVFQ0V4TS1RX2dqNmxtT3lEeW9WQ0trNWwtWUgyMUM3RmRuQXpUSl8yVHc4dHBGUHNVRFNWdXBMWTdaZVN2NjAwRHR4Z2QteU1jQUZsLTl1bDYwck96TzFpRW9oVlFYOUNycVZqYTR2NGhjV0hMbFZuSFdwRGxuYzBVNzVGR3FnNFRscUpR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Phillips 66 (PSX) Crashed Today - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZWdmSEdIclRzV0dsQzlkVGg4SVdPVTU2TGtXdnBjVnBxanVzUkVNakl4RUpMZFNfMUp6azRzT2V0UUFfZkgzY3lHbmZwSGFPMUNaNU1VTmFGVU40MUtpMFJoZmh6SWFVX1BOeU8wVkxnc1ZXR2wxQTlBa0pDMm5uYVZCSlNkbXEwRF8yNmdLdFRiMEExU2FTNERhdjdzTnVZc1Q0UFk2NjM5R2p4WmtHZlJxMTRMU05FVDk3LVotdDZXOFQyRkVnN1JkdEdSRV93UFl1bzNyeVA2dmp2LVdwSTVhT3RLdEtsNWowbERwbV80T1ZYa0N5NXRSUkpZaVN6b2JpR08tZWxkNzZfR1ZYZVN3czVObXFRSktCTjBmZW9mTlg5Mmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Beacon Financial Group Lowers Stock Position in Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYU81cXF3U0pBSmNiZ0d6Uld1WnBXc3Y4bTQ1QS1SeWZxSFZHSXBmMzY0R3pKNm14T0FXZzlBYmF5bTExWktqa2htMzRQS1hweTJFYzRfZG8waHdpWTFFVG9kSjRoSTdFeGZwUlhrdm92aElfLVlORWhiWXVoOHdGMERtWTRiYTB3ZFlqakVwS21PTWpUTERkSjU4bFpOdU9yaGxORTcwTC13bWI0ZXl3V3YyY1lPckNrT0w4Y1pnM3dSa1JLOUZV?oc=5",
+        "title": "Wells Fargo & Company Issues Pessimistic Forecast for Phillips 66 (NYSE:PSX) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0M4ejBXcDctYmpCMkw4VklFSWRYVGVVZkVSU0licFNTNHBVeVItZXY2cDd1eEdRRTJHZkRQNDVWR3pRUkpZUnFWbTZMaV8zQ2p6ZG9tS25XSEFBQnV6X25qRllBNGdqS0lCdktvd29tMFNTVEItQUt0QjdrSi1XNEJQdktHb1NtdUdlZFAxNktXVGFfeE53dEJfOHRlenBka3JQNGRpeEI2VXB5MFN3TUljLUg4OU5FOUFGRzV1RVhfNUU?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Sendero Wealth Management LLC Raises Stock Position in Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFpkUW9nd3o2bjQ4cnZmX2Z1SUFaS1R5NTd4R3RuYk5rU2c0SFRZanlKMGY2TndhV1JsZmlsQi1FZWp5bDBMT0lfZlpFNTA4UU85SWVHWEctMGRleWF2VW9Obm9GVXREaThYZWZieXFjUS1zRkwzNW9jZHY2UjlzcGpKeWs5SjlIN0lkY2s4RlUyOGItQlMzMjB1UjRfS2JGMXpLdXJHZFMyb2dYMXNjbWg5Q05BY0owS25lb3hlTmpfYnpnRS1jekxXcTdUNWRR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Bremer Bank National Association Increases Stake in Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVldJOXVqVEJlXzFJNmhuT081a01VQVk4bklaZzJXODc0MVh4a2hVdlJkdXJxeTF2SVFPVkl0ak1HZE90dWprTTFSdDVyVE1Ea3ZQZXVIdTlpNFpYajFIWFJoUHpTcktwRE1paXZJczY4eW4zdmhHTFQ1OGJ5cXkyM25UeWVOYXYyWXBoUzZ0eVhpc1J4dFJzTWcxc2JEUEpmNFNUWHBVOXZTTGNNX3luem9wSUlMcG1Lb19XXzdhR3RHd2NEdWRRc2pn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Phillips 66 (NYSE:PSX) Shares Purchased by Chickasaw Capital Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVBfVTV0WTBhOHI4ZWlRa2dtT01rV1VpNVYyc09zc1RYYkpfQ29wRS1zZG5WejRxOE9hUk5Cb2Z1T3ZrV0prNTl4dENjVUpFbnFrWmNXdEEzZHlKUGtObU9mQ212V2psS19XY0NWT0x1Mlg1RXU5Z3EwWVlhdVFmemw2ME53QWx2UkpwZHNmOFFjemFFWVZucUk5RXJ3ODliYU82RzA2RmtsTDZaZURad2pWMUtMUTZ5dFVXRjB4NHNpRGxWWWtOb3JDX2tvdw?oc=5",
+        "title": "Why Phillips 66 (PSX) Crashed Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yckxxa1p3QlRNdWI0My1CLVF2THdFdEhfcTFhd1owMFROcFhhNjNrSGJDNVV3MEo5cS1yNXhhQ3NnWU1tbHg0U2tOWlF1ZDA2bHBidzJYaHdwNFFOUlhFckRqSUUtQ3NBLV9naWU3VFYtMnFwYkdXTE5wZ21mZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Has $15.05 Million Stock Position in Phillips 66 (NYSE:PSX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzJrQkRRUE1WcXRaLXo2bkQwWU5lSlkzT09kTUhxcTRPLTV2dklraVItTmE5Q1BQRFh5ZmFRS3U0QzFFZGFMZG5sOUhaRDRUemE3b1dWSXFYTlRwdDhlZEQ4WGVSVkhrZTgyMXA3TTEzd1ZfVEY5d09CYy1CUVBFek1mV0xZOTU4Rm5tSTlqSW1FS0J1cTJZdTB5cGI1UHhKaUVPY2cydFAwc2N5WW85SHlwdXZ5MU1VU09nMHhzekxPbDQwY0ZyTTJ6TTQwb18yQVdZR2lCQQ?oc=5",
+        "title": "Phillips 66 (NYSE:PSX) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlRRZW5DeE1TMWFnaV9WaXJpdVpXZ1lJSlgtcTk2VzdHNGpvcXNhcVlkdHBVOEdVZjNlanNsS2pfR2JLWTNnb3k5ZnNhLXQyV1dVSWtHNjBRdm1wbUIzYTJ6V2FzZzJ3a3A0bXU3OXBucUlVQ0tXNERyRHVoeldISURuOGthM3VZQ1BYa3BpYTlVcHZsUGZMVjNzd29qWE92Sk9vcWFHcnRtQm16RUg2YXRsLW5VdWVFdXlUdlEzZXVVRUpJRnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Simplicity Wealth LLC Takes $372,000 Position in Phillips 66 (NYSE:PSX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXo3dG95eVJDUGxrNVBXSW5iT3dyOWo1dkx5a0JuQ3hNdWZuZnZibUpVeVE4bkJLdW5zdXY3enhBc21NNERiYXRPTU5MODVRay1yNWNqaDVCRXpXb1htUVBDNE05NVM2TkJZZkw2RUNfZlhuV1JsYjVoM0ktX3NXT1hoV3NHSkZLbUNaQklBTHJBNGUzZnJpa2c4bmZna21ZYXNJamhjUDVjQ045MFN3anpIRUY0MDU3SUpoT3hmZ1pwNHJLVkE?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Jim Cramer on Phillips 66 (PSX): ‘It’s Been Going Down As If It’s An Oil Stock’ - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jZGdFOEVZcEZfdXZTYUdfa1gtY1RzS19ENmc5TlJmQnB3ZWFqVHViSUdxajQ3Y1drTlB5UXhQT0Qxa0N1WlZudlg1c3Y1NUxka2xjQ1o5d2N3RDhYQk5uSTViTjR2ZVNIX1VyUUl3YXRFY1Z4cGdpSmFoNlI?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Phillips 66 (NYSE:PSX) Shares Purchased by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclM0ZFNxRlhmakhnVE5WNVE0MmJoZHRlZlZJY0VCcEpDb1MyeUVQZ1JpSVd4U0lxS0dXcW03UjV3YTNjdlQ4SmF0Y21zaXE0ekdLR3NPTDJTQzNrV245MmNkWWhSbmxSZURLLXZCSnRVYmxaaVhNandsUjhBbktLcFdXMm5vMXJOOXJXSFcxbmNNLUJJTkcyR3UxTE5JN01DZmdWNnZKcDVpY3FZQmNQZXZ0eTZZVHZSQkpvaDFFY0FXSUlDaW1DR25qSGNaNkZJMXVFZjln?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

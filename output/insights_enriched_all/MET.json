@@ -2,16 +2,16 @@
   "ticker": "MET",
   "name": "MetLife",
   "sector": "Financials",
-  "market_cap": 53442031616.0,
+  "market_cap": 51867836416.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.00817,
-    "PB": 1.9496008,
-    "EV_Revenue": 0.964,
+    "PE": 12.625,
+    "PB": 1.8921732,
+    "EV_Revenue": 0.968,
     "ROE": 0.15982,
     "ProfitMargin": 0.061279997,
     "GrossMargin": 0.25799,
-    "DividendYield": 2.89,
+    "DividendYield": 2.87,
     "DebtEquity": 172.754,
     "CurrentRatio": 1.6,
     "QuickRatio": 1.338,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.022535851910998418,
     "ROA": 0.0062599997,
     "PEG": null,
-    "EV_EBITDA": 9.381,
+    "EV_EBITDA": 9.419,
     "BuybackYield": null,
-    "PriceToFCF": 32.34794917528585
+    "PriceToFCF": 31.350881988597198
   },
   "technical_indicators": {
-    "RSI_14": 56.18908525340812,
-    "Momentum_10": 2.588197800738222,
-    "MACD": 0.5251525103524557,
-    "BB_Percent": 0.5960418288518939,
+    "RSI_14": 43.89488516736414,
+    "Momentum_10": -1.7816257231564838,
+    "MACD": 0.2792984962029692,
+    "BB_Percent": 0.0734151318310759,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9339585451782876,
+    "ValueScore": 0.8952135916768571,
     "QualityScore": 0.3445052631702689,
-    "SignalScore": 0.5336349513637337
+    "SignalScore": 0.6210870825678363
   },
-  "volatility": 0.0216710699647374,
+  "volatility": 0.0212571567022392,
   "beta": 0.839,
-  "return_6m": -0.0528865079485381,
+  "return_6m": -0.0560848421005735,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 82.28
-      },
-      {
-        "date": "2024-12-10",
-        "price": 81.74
-      },
-      {
-        "date": "2024-12-11",
-        "price": 80.33
-      },
-      {
-        "date": "2024-12-12",
-        "price": 83.22
-      },
-      {
-        "date": "2024-12-13",
-        "price": 82.99
-      },
       {
         "date": "2024-12-16",
         "price": 82.74
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 79.93
+      },
+      {
+        "date": "2025-06-09",
+        "price": 79.62
+      },
+      {
+        "date": "2025-06-10",
+        "price": 79.43
+      },
+      {
+        "date": "2025-06-11",
+        "price": 78.91
+      },
+      {
+        "date": "2025-06-12",
+        "price": 78.99
+      },
+      {
+        "date": "2025-06-13",
+        "price": 77.35
       }
     ],
     "current_price_data": {
-      "price": 79.93,
-      "change": 1.37,
-      "percent_change": 1.74
+      "price": 77.35,
+      "change": -1.64,
+      "percent_change": -2.08
     }
   },
   "news_sentiment": {
-    "summary": "MetLife, Inc. (NYSE:MET) a récemment attiré l'attention des investisseurs avec des mouvements significatifs de parts et une augmentation des avoirs d'investisseurs institutionnels tels que GAMMA Investing LLC et Siemens Fonds Invest GmbH. Malgré des dividendes préférentiels déclarés et une montée en flèche du prix cible par Morgan Stanley, la performance boursière de MetLife reste un sujet de débat, suscitant des avis partagés quant à sa position par rapport au Nasdaq. La nomination d'un nouveau CCO et le renforcement de l'équipe de direction pourraient indiquer des perspectives de croissance positive pour l'entreprise.",
-    "sentiment_score": 0.1,
+    "summary": "MetLife, Inc. (NYSE: MET) a récemment attiré l'attention des investisseurs, avec des achats et des hausses de participations notables de la part de plusieurs sociétés de gestion d'actifs. Les dividendes sur les actions privilégiées ont été déclarés pour le deuxième trimestre 2025, renforçant potentiellement l'attrait de l'entreprise pour les investisseurs à la recherche de rendement. Malgré des ventes d'actions par certains fonds, la confiance reste élevée, comme en témoigne la réitération de la note par Cantor Fitzgerald sur la base de résultats solides. Les performances récentes et les mouvements de positionnement suggèrent une dynamique positive pour MetLife, incitant les investisseurs à conserver leurs positions.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "MetLife, Inc. (NYSE:MET) Shares Sold by Stablepoint Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkJBMWJrMnlaZDRHcVRYQmJHVGNuaWdWNmJyN1FfMy1VeG1zaVBrU0dEUi10OTlXdTlFQ1VCYWlyUmJ0MlFwTkc3M290VHJ2MFczRzJPQW56elY4RUJxdk5uNHlJVE5Od1FCZzZ6X2NJNjNJQkNReVYzVEF1Ty1Rc0NnYlVlNE9fMEpBZ2tscEVsLWxSVnVXeTE2dHFyVERDakcycWtac21YTjRobERnTU1WT1Y4cWJUQ25lSw?oc=5",
+        "title": "Tounjian Advisory Partners LLC Buys Shares of 3,334 MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWnRjM3huYkxaVzh2ZHpoMjVnY1pzeDRTQkp5cUNNRXZLQXoxUFdMYW1NVXJ5ZklDUjltVkhueVNMblZoYVNYTldhV2xldzRPTURFRUZpX2NHU1VrNlB0VzNxVFJlc2hnSXlnTV9uTEl4aGNCT1FoRlE4VzI3dGlVQ3Z0aVhhT0xOUFB1MWkyV1paWWQ2ZWU1Q1Z6ME5vODc4UUJFR3hwa2tzYjZjb3F0Z0VpSlhFeE4xUHo0X0ZFNEZCcklseG9oTnRXY0tPZ1pBYXJQN3FGWHBvUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is MetLife Stock Underperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2k1STFWWkRnc3Z5NWdpb3VoR2ZGVjZzT29jVmlIYjByd2FwaHI3SFRSVWhjRWRsejRhd21SS0NMZkk1ckUwTTBBVXJlODVGV3Y2R2Jwd2ZKcHVkZXF2R3ZTeXd6MFNRNzFvdkg4b3dDdXlpYXZmMkpiUVNtNUJSbmxzQnFDSnpkcmlGNzg4YW1NMWhOM2FIWThkTmhvTV9CcmhzRXFTWUN4M1Exc2FaeVUwRmhZTDZWeEtXelpkcXk?oc=5",
-        "label": "NEGATIVE"
+        "title": "How Is Aflac’s Stock Performance Compared to Insurance Stocks? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVFZrdy1ZV1NwRUxZWDd3ZENESkxZTXRCa002R01IaDE0TGd2UWphUjZxR0dOaHdrdWR5dG1jLXNVTWU3S2dCLXBvS3V1QndmcWZQclNIa0xaM25YTFAxaTJtNU5MZGVCYzBEZEFjeU93cGhZTHhxMDQ1ZTJualRaMEdld3hKZmhfYmhoZzZ5dWlnbTA2ZjEyclEybnEyUVlUQ3RkMmhXRFlrLXJxdFYzakpmMVhrUUZwLXpFb281Z3JwYV92eTFEQkphNzdLRjAxaG9XVEhOR1BmSkx3OFVLYg?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "MetLife Declares Second Quarter 2025 Preferred Stock Dividends - Business Wire",
@@ -576,18 +576,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "MetLife (MET) Price Target Boosted by Morgan Stanley | MET Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVhpRmVrUGZjX05URXNNbUhqRnhFY0gtdzN6bmtKTmhDaGlpMjEwMEdFUlphZHpkVXVEZWRxRGozc3lIWXhkeXdlSDd3TVZ2bWkyUHN6R3oxYTdtN19wd0U0RUYtbGFOWnBwLTJ0UGg1MXlsLU54SGhMTWRPT0pSdmk4THdIendrQnRIYk4tS3piV3VEdkl1QjlpWU9GOERSWHl5dnRRSQ?oc=5",
+        "title": "Trading (MET) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXlKNGZtZFh2QVh6dTBIWHIybDdiMXZWR2tRajVzUlota0J5SXRhWGZhQk11Q2xmVkpBUDY1ZVdSMDR1VE5YOC1SMlFvVjAtbEVBeE5QQk9JTFY5N09kUDJhMG5pMnBIRzMzd2F4ZjQ2WWZUVGR5R19RN2ZLencwcnRWWGdEZThSZ2pBUWwtdllvQWpNUG9mZG0xTmVEZDhzbzNfNV9laTJYRFZyRTZjRUtYTlktQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Valor Games Southeast Celebrates ‘13 Years Strong’ - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXVTSzFxbXJ6aVE2MEs1ajlMMzRoczA5eFNMMGcwOTNCM0E1c3Q3Q2dIdzVacV9SU1JIODdyODhTZ3o2bWZCU0QxTFI2bVJHOGVxdG8yYjZ4aXVTN1NoQ2hQNmozelZjWjZxWnZad2wxMGFPVWp3ei10ZUxEeVFhaHNYdHcwZDZ3SmxETEU3THF1Ym5TbFljVWdnNA?oc=5",
-        "label": "POSITIVE"
+        "title": "Verity & Verity LLC Raises Stake in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlg1THVxdEJlS0hTRUJoMW9LTjlHaTJ6UnpmcUowN3VVWTMyWHNtV0dleEhrMWlRcWt4LTFGLWNVYmZpTF9TODRsSnBKMmNTcWtrYnpPT3VxN0RxTTJFX05lcGFZWlZZMEFyS19lM08xc3dGTmQ1VHdHaFA3MGZ4eWppWUZrQWVQRXhERGZwWjdwUmhNQVVmTFZ3T2xNY1VQS2NsNUN2b3FtaDFSV25VMXB2T2U?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Acquires 806,711 Shares of MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjBKUnp4NTQweWxMSXZ1aXhSRjVxclhlZVd6Q25QSlNMZHByZ3NoMWJOd3UyRkpnc1BWaXh2dzV3dWFaUmRXeHFZVlBBVUdxcDdoNV9Mb1JkQ2dUc1RjazMwSFRzVHdJYS11WWZDRmI2OS0yWDZZU0xvTzNCbDBob2FIcXdyS0FrMDVuNjBpbW5qRUtqWEhWT2p3SEdFcnh5X3ZGVFdwZDJmVFBpOUFYenN2RVlIYVpMZ3ZzU2w2VUlZQ2NYUkE?oc=5",
+        "title": "Cantor Fitzgerald reiterates Metsera stock rating on strong MET-233i results - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDBSSGVrY3pOdW1RLTM1dUxJOWFCQnlKNmxpOGg5S1prSDZHTkwwdmswQlZEd3RUVWR0emRidFZGVDE4dld4YUdTblRDREV0dGpfVEFqMWxKdFI4V01udjVPaGZXdGVfaGtTd1NuRmFySGd5aWdTOXoyYXlia0R4bFF3NTJGWVFBUEZMMkRvM2ZfdktzdHh6Q2t6WFgtOGtSSmJNV0tDb3d1LUQwNHU5dkw5alJtaF84ZzRZR2tGVmlubjd5Z1hxRFlhbTh0N3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Smithbridge Asset Management Inc. DE Takes Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczdWc0dBeWVhNkQ0T3BxbndRaVAxYmhxQVNoNkNHNi1CclhHaVhvVkRKNV9EelFXMFJxV0JCUmFuX3FTXzhIUDk3bUs3SF9nS3lpUEpjbHFuWHdiSVFCb1JlY1JYWGNlNTl4SUZCb0UtOXZ1TzQ4QUhITzMyZWNwT0cxcmV5Wk9sbUNNTlZfdGY0QjY5cFhfYTFVMGVSanZSbUVkTXlaUVkxWGpVTUN0S2x0blo4S1BnT1ZGM184OWxncWVyMkFoUU1kZjM2Wnc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,66 +601,61 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Curat Global LLC Takes $916,000 Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVY5S1NKZmFWdXJIMEpGZEpQcUdVeGc4aVdiWjFiZmhPMnhQLTM2MjlteHJ3LU44VFc2bG1mRXpJMkxhN2hvOXUwUnFkMVF5Uzc1X2N2TGVxTEFBZUdUMGh1UG1UOTFuNFFDaVNDTWt6aWlvQV8tMzllWmJ4c09YaXJ1VS1Pbks5ZXY5RklPZHh5Z0pORm8taUhRemljSnp2ZmVBUzgtV1RZY2FoMEVsNXYwOXV2V3hhNURrSy1ESQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is MetLife, Inc. (MET) the Best Performing Insurance Stock to Buy Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2dBcHFJNW15OFZObmh1S0o3dG5yZFJnOUVHMW1nQnVzYTMwQ1lIaFdfUmpuM1FjOHdyTGFwTnRCQ1hpVWpIVVVRcWdlaE9xd3NTN1Rud2ZNYXRNeWZWdmxCcl9PSXBvSS0wUUF6Z3lfdmI0eUphU3o4YU1LSmtDNGJmOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Silverberg Bernstein Capital Management LLC Boosts Stock Holdings in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1hhMjhDcm1oZzZTdTEtV2Fwa2xvV3djbXV2UktrOWFvbWRYS2VZZlllWjVqaEJMQUNQaldpWDRJUWRFRUVKMkV3WDk1TmpSOVhRSzItdDI0ckNwc0ZOVHNGVVNWNzRpbV9xcThOVFNSX0Y0UUtBS0Fqc3p1M2F3LVlnYWxWMkdFdTVQcWRydEdwWmNQT1FtNGNDNWlsdjdtV1NFMnk3X21mRjdXcW05VzNoajl6eVRDUm9JY2VzbjBxUXgxcU9yUXBhd1BwSXNRcDJid0x3aEJNdTZEbzVKRGlONA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Why Is MetLife (MET) Up 4.1% Since Last Earnings Report? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xb0tndmJCS1JHYmxXYnYtMVlCR2ZqTXAwMklCbUZ5X1J3WGlVZlJMOU1ydi1xVmd4bjBHelBqdVNUekhzTFRNLTBrUU1yVF8xX2VNbGR6Z0NtSmhkbzAyZzB0d1Z0N3JPbFJaZTJBczJ2TU0?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Sweeney & Michel LLC Takes Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVFIVUFvM2FwUTJWY0pfWld0N09PbjVLZnJGb2lWNHl4T19KRFdGNnNRc0xUOTBkV3RmTUFOQVBaSTg1bE9YSlNJZjV3MjIyS3lQeHNmYWh3ay1PRjJNeEFqYnZSeHJpeXA4bGZfNGhpSjBVcjRUMml2OEEyQ3U2blNvNVh5NUVjVE11SHVKVXBuUHpNOXRYQlg1ZWVFTWFIZGdPUXZQN0tlQUZWTElkeUJzU3FXVkNSaW96UXRCeFQ?oc=5",
+        "title": "Pallas Capital Advisors LLC Invests $474,000 in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZG96MXRiTHlTaXYyQy1mNnpqV2Vjd05OMVJTc2NuY3ZBMm5WLTFBUlQzdlh1cnhUVllOcjBmTHlHQ3gxajJwUDhkek1iT2pxcEJ4UkJIS0ZNNVdIN040WlVKYjhwYVd6NEhxVjhZVzJBSERmSUdPY3EwZlF3U3l5N2c3VmlkQjdhTmhQX2VDTVowU2xxLU1JenA0RWoxSFI1Tk1GVTRWYkRuOTh2c2J2RHlKVVkxYkx6NWJqRjNFQnNQV2dP?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MetLife, Inc. (NYSE:MET) Shares Bought by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3l5WEVlLTBlYkd0Ti1wTEVnNFJSYnZJTlRaWDBjcV82SjhRTk9TWWNzWWJLekUzcnJBcDZhZWg4MmU4TmRCR0dhczVmQ1FVUEgzVTZlQU9VQngzVXd2R3F4UW1qcHZVb3lFaWJWOE5hel94SzlfRmNMeEhLZ1BIMXIzQnZha1ZDTS1jdGxweXNkOWphYTBWZ2I2bk15LVJNeDBIaUlBSjY4LVlLTERTczVVc1h3S0NzUXBINzNpVUoxZw?oc=5",
+        "title": "CX Institutional Boosts Stock Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEFFQW1GR3hPQ0l3LWZEbm1DVTdjM3kyUFhzTDdyQ3kxTGk2b1BuV1daaVE0SWtJeHdjbDJPcTBsY1VKazlpSXlTLUcxa3hIeE5Ub19IamJFeURPdGc0UURQOEZQNzVGWmZHOUJ5dkFJejVOY2Q4Vk9kc2tEamo3RzBkWDZTX3dObW9sSTFlTi1kMTFEanZPNHFYUGNxclVSQzVxRTdOMzBrczFBYm8yVXl2S25vUVk3TW9MZUQxcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MetLife, Inc. (NYSE:MET) Shares Sold by Cohen Klingenstein LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGp5eWVpWXVjWTNQWGMtalI3RTBZN2c0NGZoMTZHazFhWngyc2JpcF9mbG9Ca290aUxaWnBBU0NpcHNWN0xxR0JfTmhNQnRmSnExcVpHcURKbmxINkRJeWYzTnBZMkt1ZTcxN2lJaGJBR3dRRElkMlVrTkxfLXhLT0JLejFTdkN1dWlkemQ4M3dwOEdHMlhSd1RmYkx2WDJWU1FDQzNiV1pHODdwcDhNdm9aRnE2T0J5c0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Has $87.09 Million Holdings in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczFhTG1TVFBQRlJDM2c0TGFrVWtGdVFFQ3ZNZDJ0Y1ZZT1dvRkZOVGJ6NF9XUXh1SDZScWlDaXBzMTdlbnFZUzRncklEdDBsZGJhd2oySVg4eDhVam5KazU0SXpnRmFVZDlDUVpwUkZGV2NfazcwRTgyNEFlVDg5RHZKS0xNNWdRdVNGYjVyM04wNGk5MGVIZHFGTTNZN0VUazdRS2RtMXEtTENDTE5mdHRzUW15WF9USHc?oc=5",
+        "title": "MetLife, Inc. (NYSE:MET) Shares Sold by Stablepoint Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkJBMWJrMnlaZDRHcVRYQmJHVGNuaWdWNmJyN1FfMy1VeG1zaVBrU0dEUi10OTlXdTlFQ1VCYWlyUmJ0MlFwTkc3M290VHJ2MFczRzJPQW56elY4RUJxdk5uNHlJVE5Od1FCZzZ6X2NJNjNJQkNReVYzVEF1Ty1Rc0NnYlVlNE9fMEpBZ2tscEVsLWxSVnVXeTE2dHFyVERDakcycWtac21YTjRobERnTU1WT1Y4cWJUQ25lSw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Has $665,000 Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGozUTFfN1ByTFRZMWVkYi1HWjk4V2xWOGpqYkdWX1VGdk40dWVERjRkU2xmc3lQUUpWVDZoQllFQWk0Smt3UmdhUnBrazV2SEljakdhS0FUQmpacE1HbmlLcW5sQlUyYUJBaXpJZVpodzFIWlpENVQtQXFFNGcycUVxMURCT18wWlZPcV90YTJ0S2ZvOE11MGg2M3d4YWNvOWlTd2Rnekt6dUZZcGFUX1poUk4xa1NNbk9MejF0UQ?oc=5",
+        "title": "MetLife, Inc. (NYSE:MET) Shares Sold by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjVGSUJVNFdIei1XdjRNdUoxdy1BM1NSc204U21LT05aQTVGc3pwaHg4b1R3SzV3aEtqOFdzbE1nN25pUWF4RDVaRFVzNjgxUlQwYWtobTJvOHAxLXRUSE91Nk5hOFNzWkJ2ZG1uRkZ0b1JiT3JhQkpPN3pmYXVyNGIwbjRUcVB3Snp1UDhCRVEzd2ZBZkVmbTlYdTh2LS04ZmpHaTNEaFBnWDBPcTFWZGl0SmM0ak1oM2I5NGRoZEYtbkNiZU43Vw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Siemens Fonds Invest GmbH Raises Stock Holdings in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWN3QVh5V2h5VHdLM2lqWEx0enZBUmRPSGdQVmE5LTJ0WU9VZS11VS0xcW91N2J4OGlyN2Z0NmE0OV9tejlDdkhBMjNMa2dqY0dDQ3ZaWUYyWDlhdlRjdEgwMEQ3RW01YnVMMFNiNFl6X2FPbjQyMGlad1p1SGdPTmhzX3ZoQVkxRGQ2RjdRMUx2d1ZFSG1ZcHNRWjQ0ZlRWYkdwN2g0UmYwaGJtMXMxdlFJc1B3OWhXS0dRSDVB?oc=5",
+        "title": "Vest Financial LLC Boosts Stock Position in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFhlOHJXVXBtcFM1Q0V1dW02LVh1d1dwN00wZGFvTy1KN3loTzNpQzZ4UUdxUjlobXlEOTA5WUkwdmViYlpGS3k2d1JvSWtvSkFfbHdwbXExN3F1VGM0dUV5OVlNYUxTYUhHcmY2SjZfTmMzWW1rLW9adW1KU1ZpaS1aTGlhaEI3UlYwN3NObnlfRXVoWDF5ajgxQ0s4SF8wVzRuZ0JnbktrVDc1UEh2bWFjZjF4T2N2dnphM2hwVWw4QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MetLife, Inc. (NYSE:MET) Shares Acquired by Merit Financial Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkZsZ29BejczWnJxa3Y1c0ZhMkxKUE9XaGhzbUhQR09BQUo1Z3Utb1ItN1lOM3M2SThJbURISWdzR2poRk1RanJqOWdnY19kRUhPSWtxQ2NOci11czdjQkhMZ3plMFcwT2NvREZqclA1bHJna05zNVB5SGFiMlhUZmNyM0pCUHhSa2xqb21xOVVGeWdxMmZrTmFGTEVBQzE5Z014QUMxblBLcnJONFBZYmlDekd0R2ZScERVU0F3eU1JQWNnVnc5Mndn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Boston Common Asset Management LLC Has $17.47 Million Holdings in MetLife, Inc. (NYSE:MET) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzl3Y2YxdnVuNmV1Ni02d0FqUnlQeVN3WGdHT3I4WjRudFVhRTRlYnZuWG1hYkVyMFFDXzJmdEJaY1NKbVJSbmVVeTN4VXFmbzdoREVfOUsybU5obU9lcUtlTmUtanFPYV8tZkdGNkFSREQ1eElKcmxFMWdXUnBhUms1WGZzV1pFTkViMkluZ3k0eHJQLUlERS04b0RXdGdrRTVpQV9CdW1jUlloQXNNeGRRN3RNWlZGTnBpSFpndEQ3Z1BnM2kzRDI3ZFZWVUsw?oc=5",
+        "title": "Toronto Dominion Bank Increases Stake in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkdxM3pTT1c2eHRKUHFwSGlhRU1HRDZuN2RHRmdFT2s0bTliTDZUeHFpV2tJQzI5RG93cjJJWGs5M2s2VlJmS0ZfdEhBeE1mX04wM2hCSnFuWjlpbml3SlpwVWlfZG1wQmJnM0FlTmxUanRoUDc3QjRHLWVldTJ5SHRHV2F3TmhlVzFqRHBpX1lTRi03NEk5X1NBN09CNGRLWkR5VFNCa0dZVDNOVno0Mm1FNXl3djB3MXp2Z1FYMXdwZEI5?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MetLife, Inc. (NYSE:MET) Position Increased by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGJLUEV3TGtGdks4endVZ3hIMUo4cWFZYnFDZFRCYWJfRkNISkFHcXd0X1VDc25odTJNdk9tUU1zeWpoZkthcExLWVk2b2pzVWhNR0NxWUw4eWJfakF5d3M1M3JCbWowZlJBVHd6c3BFczB5OUJhX2s3WlhsbUxsbTBLcHgyTnRmRWNXX1RtbG13WWpRSTh6ZURwYXhsajJoNXJsS05FVkQ1ZGh1aDgxcTdTSFI2a3BRY21LY1QyUWhZRHNOS2c?oc=5",
+        "title": "Procyon Advisors LLC Grows Stock Holdings in MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZURTRGVfZDJTdmxOMVBVQ19qa2VuX05qek40TVQ5bG5CNWxKZGp1b1IzUTM1cmkzWGo4UFMwQXFPbEVZcUdQRW1zM3N3SmNPMmhCS0hwakkwS2NLZ1pUMElqeXNjX190NzJMb1VVWnRJRjJGX2lYbnhQWm9MbWNieWNrOXh6dEJ5MlZrcXRIYnZleEtudC1GNm15cHFPeV8zRkpBYXhTUGZhQWtHUUJ2ZmEtOXhrQkYyVEpWcUFSYm9jS3B6M2E5Mw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MetLife Strengthens Executive Team: Principal Financial's Communications Head Takes CCO Role - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXlJUVhRbDRaMEJyVkw1OFNwUnJ6bWlwbHRwenlSTkk4U3pyTVgxMURtdWdqZGV2RXNkQTdtN0E0dlQ4MmFKMnJEWnZDTUZTWFpTUkd3bjlhNGc5N2MyNXhSb2NIOEJOMHcyaHRrUXZHcThHRmpQWnpfdFFsT2FGRmJweWI1NjdYSGdhdEhlbzVHUFYzZWUydzlXcDFHZWZCdk11eVh5X0U?oc=5",
+        "title": "Compagnie Lombard Odier SCmA Sells 4,404 Shares of MetLife, Inc. (NYSE:MET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUxIZnAtM3FuN0tEbEhUemhpODNETjFGWVFPbkhBeUloVzBKbVhWV1ZyUjZXU01LSTB1T0FIM1k4RjI0TGRyV1RZRGhIaWVwc0RzMDdtUkxwSEdBNkZxZGt5a2tZaVBXYXBGTm1rNUJDc2dOWU5udEc4RTYtYnh1b1hHaEU1ZXhwUFpXeEkxeUM0WjNrRURwcE44SzlBVkRHWFZyLVNlYlZRYnYwRXBuUWxvN29OX3Y2Y0ZzM0FUbTZGUVVCZ2d1T1p3?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

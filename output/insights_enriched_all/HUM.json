@@ -2,16 +2,16 @@
   "ticker": "HUM",
   "name": "Humana",
   "sector": "Health Care",
-  "market_cap": 27800424448.0,
+  "market_cap": 28277161984.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.255468,
-    "PB": 1.5661397,
-    "EV_Revenue": 0.159,
+    "PE": 16.534227,
+    "PB": 1.5929967,
+    "EV_Revenue": 0.166,
     "ROE": 0.10099,
     "ProfitMargin": 0.01422,
     "GrossMargin": 0.15123,
-    "DividendYield": 1.56,
+    "DividendYield": 1.51,
     "DebtEquity": 77.075,
     "CurrentRatio": 1.908,
     "QuickRatio": 1.474,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.017404707894937612,
     "ROA": 0.047220003,
     "PEG": null,
-    "EV_EBITDA": 4.657,
+    "EV_EBITDA": 4.887,
     "BuybackYield": null,
-    "PriceToFCF": -13.315223525839015
+    "PriceToFCF": -13.565474572480763
   },
   "technical_indicators": {
-    "RSI_14": 42.05115312204525,
-    "Momentum_10": 1.2723427830475484,
-    "MACD": -6.916335963681604,
-    "BB_Percent": 0.3703012165583078,
+    "RSI_14": 46.416687396412534,
+    "Momentum_10": 0.5179466342304775,
+    "MACD": -4.431085296470258,
+    "BB_Percent": 0.5186291928065716,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9337339878111725,
+    "ValueScore": 0.8971351938643449,
     "QualityScore": 0.3624855476426086,
-    "SignalScore": 0.6200508815512771
+    "SignalScore": 0.5979497916954446
   },
-  "volatility": 0.0287748740780484,
+  "volatility": 0.0286450208627719,
   "beta": 0.435,
-  "return_6m": -0.1768587875982129,
+  "return_6m": -0.1394993723239704,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 303.05347
+    "target_mean_price": 298.53174
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 286.24
-      },
-      {
-        "date": "2024-12-10",
-        "price": 285.82
-      },
-      {
-        "date": "2024-12-11",
-        "price": 278.2
-      },
-      {
-        "date": "2024-12-12",
-        "price": 272.78
-      },
-      {
-        "date": "2024-12-13",
-        "price": 274.12
-      },
       {
         "date": "2024-12-16",
         "price": 260.46
@@ -537,21 +517,41 @@
       {
         "date": "2025-06-06",
         "price": 230.7
+      },
+      {
+        "date": "2025-06-09",
+        "price": 233.07
+      },
+      {
+        "date": "2025-06-10",
+        "price": 231.98
+      },
+      {
+        "date": "2025-06-11",
+        "price": 231.74
+      },
+      {
+        "date": "2025-06-12",
+        "price": 234.96
+      },
+      {
+        "date": "2025-06-13",
+        "price": 235.26
       }
     ],
     "current_price_data": {
-      "price": 230.7,
-      "change": 3.62,
-      "percent_change": 1.59
+      "price": 235.26,
+      "change": 0.3,
+      "percent_change": 0.13
     }
   },
   "news_sentiment": {
-    "summary": "Humana Inc. (HUM) a récemment fait l'objet d'une série de révisions de prix ciblés à la baisse par des analystes et des entreprises de recherche, alimentant des préoccupations quant aux risques liés aux bénéfices. Cependant, la société a renforcé sa position en matière de philanthropie, avec son PDG nommé sur la liste TIME100 Philanthropy. Malgré ces ajustements, Humana a confirmé ses perspectives de bénéfices pour 2025, suscitant un intérêt continu des investisseurs.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
+    "summary": "Humana Inc. (NYSE: HUM) a récemment élargi ses services de soins aux personnes âgées avec l'ouverture de 65 cliniques Prime+ en partenariat avec Mercy, renforçant ainsi sa présence sur ce segment. Cependant, malgré cette expansion, la société a vu son objectif de cours réduit par Barclays, ce qui pourrait peser sur la confiance des investisseurs. Par ailleurs, la récente augmentation des limites de couverture des plans PPO dentaires pourrait impacter positivement les assureurs majeurs comme Humana. Enfin, bien que les résultats du premier trimestre aient soutenu le cours de l’action, des ajustements d'objectifs et des volumes de trading inhabituels ont créé une volatilité qui mérite l'attention des investisseurs.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
@@ -561,101 +561,101 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Humana: Implied Volatility Creating A Viable Investment Case (NYSE:HUM) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUtUaGoweFQ5dGUyS0hEMEhYS3p4dGZ2Mno0U3FxYjRjdThUTzFrV1BlelpiZ0VQRTkyeDZ4b2tlWnMwWjkzQmJjUFFyRmpsYUQ2bndBN2NHTjZKb1czYUplRTYwcUlyZ3lWdzRYeDYyQmNCNnVONTFTSzdJZ2xuU3JXcjZxYjhEOTBHSDhKeDc0bmNlRGlVbTRJVVFIN2c?oc=5",
+        "title": "Tobam Has $2.37 Million Stock Holdings in Humana Inc. (NYSE:HUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2ZRYzhvR1V2cnB1bVFxeWpjaktzaGZQRlA5RWxLMHlNbDhVX2xmSzAtQ05pWE9HUlJVMGdDYVBKRmM1LXVJNzZOQVRFN3loY3JaQ0dta2ZUY2FLTkRtWEhmWllPRnFNOTJHY3lhR0lNQUl1UFQ2M1Y4NXZsdGRHVk9TdmJKR25sS3RvdnBrZzE5YXBqZy1DYlhySVc4VGFvTDZ4ZnBPYUNVQ1IxeE0zY2czR2pCVW1YY3M0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Humana (NYSE:HUM) Expands Elderly Care With 65 Prime+ Clinics In Partnership With Mercy - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUlKX1p3ejJxVVNrTjdnQ0tNUzdIQ00yVHQwUE51WXFUQmF1cjZMSGZ6VVFuSEdfVGxUd2F4V0poRVFLaXlBd3NnZXIwd3V1Q1Z4MlFCSVBCYVAtaXVpcTY5d1g3ZGxRRC1OZUY5TDI3OTRmQXM0NGR2cE95S2k5WDgyZEFlekVUcFJjc3h3THc1SWx3MlV1VGdrU2dlaUMzZTZxV3pfVXJJYmp3MWVlc0NMclVqRDVNSUVnVXJTRmp0Z9IBxwFBVV95cUxQcTNWdE5JZ3VoUUtSWjV5ZVNyc3lST21VeF9RQlVSNzZCVmpYVHJ4WUlxNTRuMXFZdUJCeUswSXVxTWdieEhfbE9JU1BjbVQ0VlRwYXVMOURhazRyYXRQY3M2VWQwZWNtNmIwN1lobHJHTEVyUFhZUHhtTHRLZFVOeVdlNVF5eFloRk84S3lvRGEtWElKbXo2aHVCbmloblFzRm9FU2xmLWpsdE9ONXJ1NkZqWXdzdnR3UTFGSWFUaENlSC1ZZnZV?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Humana Inc. (NYSE:HUM) Receives Average Rating of \"Hold\" from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmx0VHJoa3V6ZXhPMnJxT1hvcGlvdHJua29mZm16WWVCbDliTFFzVWItalpuZTJFZWhBTWREQVBUd0VOamM2RkVRV2ZJQ0hfVjNoanNMN1JEMHFXSUNsbjk0TFR1bFp3dGN1WncwWUNCVmRrRDVXSlMweEJ0Qi1aLVNOV3BVQ1FjRDFUWF8tNlpDVllCTU1yLXNwWVdPNUNtM2N0Rkl3MS1ESHBaMEhJYmtXcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq hum along as Treasury yields sink after weak ADP jobs data - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWk5VRlVXR2NVcWlJeXJJNEljZEFxSWFCdW1oTEFhemtlVldHbmZYNnJOdEN4WGRFdHg3YUhfaF93a1JJNDJWM3h2QjdXZFFwZ3ctY2pRLWlDYWZ5ZTFmdE52TVBkY19nQjdhX2hDV2JZVThpVjhvMWZsZE1DaUl3blBHQzBab2Q5Sm91OXFlM3I3b0Jod3QzOWQwYndRNzNiVjFxNnJRMHRUZW9nNXZUcFdyUmlDdGQxRHFDTUZGcnZ4bVlJZVB6Wk1ZcHA4UHo2cHF5V2hpV0w4ZThDbVNn?oc=5",
+        "title": "Is Humana Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMG9ieG5qd2U1dlpHTV9pUmJBeDNFTS1LRHZORFNxd2xmMVlzXzR2dlJkRDV0VTc1d3ZoWW9rMDlvZWNXcGltbEJIN2UweEpqaElrZktXaS1uNC1fMWYzakZiYWRkRlZJVDhnSFRQMUNlWlh0dlJGdDg4VV8wS3ZzZU9LOHlVa0EyQzdxYzRrSm4xQXFQdGNXUENORHItT3FiRUgycG8xS3FPWW1ZTWVyVGlITm95ZS1aVTBLdU5ZSWpEdklO?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Humana (HUM) Target Price Lowered by Barclays | HUM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeE8yLUp0SU03MHI2WURsVE9qQ090R2l0OHU3Mk0tS3BHUkFyRFF6SW1wRl9pZzliVHdjUW1YcWJlNzdHYWI4MHNHOS0wRmFUd2U1eTEtemEtRVhKQzZfOWVQWXUtMkhHeEtiM1lBVVNhbVp5VHQ4ZkFPb0FHZnhyV2hhenNPZjM3NDV0TTlSNk1NVnVQX3hXZjJ2VzFnT0E?oc=5",
+        "title": "August 1st Options Now Available For Humana (HUM) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWRidjdGNGE3LTNPcHdsRVNfTmFQc0hkbXBVUWJTNEx0QmxzZ00tM3RpS1MyVFFnYjQ1bUFPdDh1dE1nQTRmd0xoTWVYMnF4dUZ4YmJMeHNkWlhoSkxod0IybV9PRlB5MEluMExyNXFWbExydzNSMzNPVnhMaWZHag?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HUM July 25th Options Begin Trading - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ia29SUXBZR3l2UFQ5MkZBdDdpdTdNWFVsZzNfWEt6OGhiMldjUlJvZDl1Nm52QzV6S2tMcGRxVkt2aU5SZmdJaHIyd3pFQXRfd2V3aGtvWmt0Nnkya3h3NEhnS0hFOHd3elFqX3YxVEE1VDl6Umc?oc=5",
+        "title": "Humana (HUM): Barclays Lowers Price Target but Maintains Rating - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3pJbEdNalA4dVhTblhQeTM0NThjZFdCQVktWEtYU1psNEZUZEg0RjZKaEN0dVFtX1ZkM2NsUVpOV1RqU256Y3luMl9HQkYzbjVUQ29lNC12dVh1QUpNNTFvc2NmbzdxV0VyQ29lbk9HRG5GMWx3UXJCcGFGTDlmakRNRU5mMnhNWkZ3V3UzY2U2cHlHRzR3eF82dFFhU09Ld21VRUNLZGRKWkJFa1ByMmRNU1c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Humana Foundation CEO, Tiffany Benjamin, Named to the Inaugural TIME100 Philanthropy List - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1FzSWp0eGRfRzFJbF9VM1E5YXIweXFCMWhSeHJqeUh5cGNpdnZsVEhXOXJWSHd4ZjQwT2V2N2F3bGxDY3cyY0E4b3I4TXF1MW5MZUdYYXNOczg4eTlid0thbjEyLXU0amRUUzF2Y2lVN00wZDFPTzFvNUhRMWtkVDltRlh2djFuM3Frcl92SDZRNHJyWFp5c19pZF80cmZYNHlEeFV6bUdzcmVUQnlSaGFuMUh4dw?oc=5",
+        "title": "(HUM) Stock Trading Blueprint (HUM:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFOc1Rpbi1CMEttT1VtNDgycU5vQkVyWVhxUmJsYzB2SzdVSXJoOXp3OVBwUXV5OUFqRWZxVnRUSVpFVm9kbkJZb0ZHbEV5aTFISnozWHpQRFpnNjY1eDBKbEpvX0dRbUhMdFczSjNnU0Q0V0xnQkQwMjdRQUZIUVlDYTA0Smdjd1Fvd3RR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Humana Inc. (NYSE:HUM) Stock Position Raised by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTV2VEh5MEcwb0hMRC1idnIzS3BaZmdpV0lITDk1eXlDb0FpaVBFbC02VG9peFdrblI2NWxfODJ1dW5OQ1FQMHpOWElVbHFpZm9VXzBkdGxfWS03TlMwLUhkZVpMdGdYX00wT3FtVDNQU3p6RUNMbVpIWEJPVUR1YjcyQU9KelMyeXJ3U2ViQUppOUtWQlVIa2k4TnQ2VGxGbnZCQzFLNFZXQ29lVU9jSFVnUUFldw?oc=5",
+        "title": "Is Humana Inc. (HUM) The Top Falling Stock with Unusual Volume? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DVzRIdFdpazZ2WUxla05ZZEhFRnFpT211a1RYUFBsdWhtbDJ2b0ZVZG9lSktxejdvY0tscGNUNkpaTVg0aHlyT04xNDNpQkhEV2JBejJtcGctUGNWa0hSczZIZUFRRkVPdjdOMEE0ei1Bdi1PUzhiemtOclk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Humana to back reforms for Medicare billing practices (HUM:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTVJUUJtLTdDU2xTQ0hYVlpnZWFrb09Zc3Q2TGdzSkMtMUNEV0tPNW11aGNKUkd0VzQwVWhHVzR1c1FTQm5VeDBVTmNIUXNsRXJkSElPS2szY0x0RUNvclFwOWNqOTRBMW5IakJWekNoUzNzRFNQYWYwVG5PS3ZRNVNwWWdVeU54TXNONTlCamc?oc=5",
+        "title": "New Dental PPO Plans Raise Coverage Limits to $10,000: Major Insurers MetLife, Cigna Launch Enhanced Benefits - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVBoU2NJX3BHaWtienFiZWV1MVJTbGVCdTNEVlRrQkg4UGFHNkZGNzB6YnRtOFlBN3VBMWZGYTdBYmdiRkFtcEVVdm9rcUxLbjFxNEEtRVRyUzVsT0hIRi1kQTFjTlFlcFZxeGtMTHU2b1BIRzBsaFZFS0dDSHNqN3hBME0xcjZQWE1vNXl3YjRuZ0FVamtmeG9kcEprbERLRi1QYQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Humana (HUM) Faces Target Price Reduction Amid Concerns Over Earnings Risks | HUM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlhZRFNyV3JrakVRR1lKamlkOFVMNXlVaGZKODZUR3g3dkV6aldOdTFWRFpDNTBHaVE0UXlPcWZPdGFoa291TDVXWko5MXVxZHZGUTNWMTI0V25YNUVZMUdVdk4xRnVVWlllVVN6alJsR0pyR29qa1U0MFc5YmYzd01CYVlObTM2MFBfcGwzcGVyV3FGai0zYW8zdTBKSHJqWUswNWFBbkgxVHFVeXd1dWRtdEgxYmk4X0EyZWRuZTBfdnNYQ0E?oc=5",
+        "title": "Humana (HUM) Price Target Reduced by Barclays Ahead of Investor Day | HUM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTctXzhjTjlWX2J1dWl6V2F1OExLV3BHVV8tZ21pci1KR0VLenEwbS1jRjcwOVMzMnJWZG9fSndqeEpBYzBCQkx5bmlqV1A4UGFsS3JfakliaG1OaXIxRjBUQXZsdTdfNzJnalJBM1h3V083Zm9SbW4yX1V0VXU0WkRzT19QcEMyOXVfeUM3NkZ5MVhnVngtc284eHhQSFlGUG5SVnR3c0tham5fTFlEVHZ0Y3IxZVVOaWxLTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Raises Stock Holdings in Humana Inc. (NYSE:HUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXJsWm1qZUR3WE9yQ2c3MjNRbDM1NnRJbXIwV0UwZ1lVZm1tdmhyLS1FeGQ4MVhFbklhNUdrWmZIdkVkbUhoUmxoMXUtUThuUU1VVEM4SE9TR2Q5OWpkV0ZNN3YxQVhZTHRvMFVPMjdxanlXSDRtYnVNUFZ0V0xNNlhHVHRJd3B0U19pYmprckpzRlBMdFAyT1YzX1phd1ZsSExqc1N0cjFfa0p0MkwxZUMzNjNyU0t3X1F6NTRBY1NvWktBUzlOaVVMTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trading (HUM) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXy16cXp4V0haSDFPWm1qZXRuWFVtMlBQWUNNSWpqUm5HZVFiaG1ReWptTm0yQ0lrQlRqamhjQy1fUklfdVdjY3BmcGVpbVdYZmwzd3JQbVljaGMzNDU5eWZYaHQzeVF0cHdxYkJ2bXgzRkVTdDlzNGtnU1pOaDg2U2tSX1VaTjJ5eVNwaDhHdzVBNkFyUDZ4Y2p0dnU0ZURBeDh2bUw4QWpIMTh5YkFHRGhsWE1Idw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "athenahealth, Humana, and Your Health Closing Critical Gaps at the Point of Care While Reducing Administrative Burden on Clinicians | HUM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRUhzcGZXZEFhM0h5VGtZQ01pRFZyM0NaM041V1NjRVA5dmF0a2dHOWM1allmUldNQXAyelplcFh4SmtiSUxhRy1WZnA1OVdkNzZqREV0Wm03eWw5b1ZkdzBYcll2d2lsXzUyVGxwLTI2YUN2YVo0OUhDeE4xbEd0X0x0X1JaRFRvcjZiaDdOUDNfUmFyU25PSjU1NzF5QUpaWlpZOGJQZU1Zcl8tcVBQcjhqM1dWQmxKS3d5RHptNENZY0ZvVnVtLV8tYzNpblBRd2RJQUJ1b2FPU3J4NHhtZ1hFQkkyd0lGWENMc2tMcWxvN1U3ZXBxWWcxTlUtS0FYYm45dHl2YU03SWFYMnItUG1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Humana (NYSE:HUM) Price Target Cut to $268.00 by Analysts at Barclays - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3pDaUpXX1JkMEZseWp2UXNNVk9xaEJmNVJIRUlTOFVZRkhoUDA3ZEdnbVRmNEhmY3FNaDV5ekJaNnJjUzRnUTdwckFxSTdnRHMyOFQ0MG5RdDI4VFVUUlk3dDN6d3NjTHU3NU9CUUxZV05paUNpcDVpSFpnMUZlN2tzNkJDa2N1ZUtsajhhenJyY18wb2g4enppN19XcFRRNnB4VlV4YkU0QkFvdTdyQ2dudVloemN2T1E?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Merit Financial Group LLC Grows Stock Position in Humana Inc. (NYSE:HUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzI5X1NKbE5OSFowQ0hYUTI4ckFoRUJINXJzYUFrcmJycTR3b2hUWEp0T1VHTnE3am8yUU5UX2o4WnVtdkdZSHdXcUh0TEJSNE0xR215OElUMy0wMHNnNm9mOUROY05uc2lVeWxnSVEwNF85c1hIQ2Z1RnI4cFE5WG1Zc0sxT3lxQ1QyOTVvdG9LQTFsa3ZlblA0MXlfUHJ6a0FpcG45bnRaWnhUMDRneGlhdGtnaWdVS1oyeEhZOW9vdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Humana Recognizes 10 Inspiring Athletes Who Are Redefining What It Means to Age | HUM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlRoLXRFeFpnNnd6eGJhSEhISnUwcUV3WTdzNUE1T2QtTFZ6TzdpV3pyWTdTOHAwLXB6ME5icFhOMmhYcHhiVUNMd25DZmNvQ2l0OE9QN0FaOXluM2UwbzFwN3B1UFFaU3cxRGtPWjREemZuejlnM3RONHk2OEpRWXJlNHcxdzlrZ3JJb3hDcG5DckVOeW9IQUFTRXl0aVNId1JHeG1sVXlDZ25NUW5NaW5TdXVlNjMtMTFwaVhrek05XzktRndscTJBazFWc0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Humana (HUM) Shares Are Getting Obliterated Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTJyZ21pOGhIY0Q4UkpHZ3ZyUEhSUWxBaW8yTG5Lb0d0T3JSdXVLc1dxWGVablpuSmVMTTNHSjFwU2MxUGstYXpSMUZkNjVWbzFoNjV2ZTAtdG9uWWFhanBkN1J3ZzY2VnV5M3pHZ3RQZGhrajFZNHRKMVppTDlsdA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Humana Inc. (NYSE:HUM) Stock Holdings Increased by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDc5N2ZQTXBhOXlob21kcU1XM1VXNF9KTWh6YTJ5cnJfQ1BEcktScy1adjhCTmI1OVZ5UW1mbS1rLXNJN3VtTFI5QWVodXFzQW5iZXR6bjdJdE5oRUUtLWFONm5FUW95LXZNUG4yY210alZKQWJ3dEZpUmxXT3hoUml6VnlobE9vQ1ZxOGhRX3dqZjV1bGRvNjBhT0NDalU2b2xKWmV0N2J3MjBKS0pOOUR6ekI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Humana stock gains after Q1 results (HUM:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wY0pIU2ZPbzNBYll4TTdNd3M2TW55Y2hSS2l0VG5KbVZZUjU5YjRoZmV2MU5TbnhIaTAxYVFYdGl4VU1PYTk4TldqOWRhU3BuU1UzcC05V3I4aG9icFNpNGJyYmRVQkpOX2pjaWFSTFMzUW1iQ3c?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "What Are Wall Street Analysts' Target Price for Humana Stock? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzc5QzY4VUYwc1Y0YjgzMnZibjVSREI0WEJEbVFDakkwTFVSVEVGc05BdFlNLU5SMi1xTmtIT1Z1Y1FQMC1jNlRaTE1tSFo1NHI1TW5adUtCc0RtUkdoVmdYN1BoaHRScHY5RFBjMi1Qcm1NXzdpYkdMMEFmRkZxejR5dEpaeGZldFdvOXFyel8?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "“Really Incredible!” – Jim Cramer Cheers Humana Inc. (HUM)’s Market Moves - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2JDcGNHZlltY29TRldSV0Fac1Y5ZnlSTnFrR0RDNkJYYzhxYWp0ZThCZHJYN0VJNjZ6QnpOOWpWcm91SkFDUXk5NnFacF9tU3M2bVhJX2RMY0FzRlNTSjA3YlRqd2toTm9xYkllYzh0eFFoNEtvV2hTeWdMb1c5clItN3RBT1hO?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana Inc. (NYSE:HUM) Shares Acquired by Merit Financial Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzI5X1NKbE5OSFowQ0hYUTI4ckFoRUJINXJzYUFrcmJycTR3b2hUWEp0T1VHTnE3am8yUU5UX2o4WnVtdkdZSHdXcUh0TEJSNE0xR215OElUMy0wMHNnNm9mOUROY05uc2lVeWxnSVEwNF85c1hIQ2Z1RnI4cFE5WG1Zc0sxT3lxQ1QyOTVvdG9LQTFsa3ZlblA0MXlfUHJ6a0FpcG45bnRaWnhUMDRneGlhdGtnaWdVS1oyeEhZOW9vdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana (HUM) Supports Reducing Extra Payment Billing Practices | - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnROR2N4WEVTNExmZTYzTTlzNzNuUFlqVVlyRGJseW4taDIzZzdwTi1HUW5sMTFiTUJBRWRRbWJOS1Itd3BVMm9TRGJ6c2VfcnJMM2doSTE3bzFxRy1xZ2VqRkZUbGVHN0J1LWpQSEpDSkU5Q0l0MFg5b1E3M2xyREt5T2VtUGJWVnZIQnp6QllTek9aOHlLWlF6b1BBaUNPQWQzRFJjUk9oYkFydUtSTDlRNFA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana reaffirms EPS guidance for 2025 (HUM:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96R1VtOV9adXkyZDZER3k4a0Q5WUN0d1JMQmpuaWRoUHV4RXJwYUdLM2RJdUtvNWtzbXptUWRTMkZYUEd4RW43bEVQT1A2UW5Hc3dOMHlFTVAtZjlvT25Nc3YyejVMWVNPV1RNNEd4RzBvWEVyR2tWUThNU0k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana (NYSE:HUM) Releases FY 2025 Earnings Guidance - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWJUSlMycmlpUUlvb2FHVm05X3lNdktNRFRaR0V1Q3N4bEFnX3N1cDVyd0gxcnlWUloyQ2Z1MzFLV0tiYlBZN1QxMncxWTBjZV9GT2dmQTRtNmxOWXhGMWJjakJqZWhsNkdQSUVnekpoNlNVRVMtZjJRb0xNWlp3VVNfdFFoa1RBYmdpaGUzVFBaSlNSMDlXay11VXdOaUctUzBZZA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana (HUM) Price Target Cut by Truist Analyst | HUM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVU5IdVZhNi1yUHNsMlhSQ0E1VWlVanB1anZTeVZVT2JWamY1azg1MnpGeVd0S18zX2ZnTXFxb2ladTdLaTZQWUVmenhYWE1zemlPVlRoY3RwWGUzaEJnVlhvR1ItZzFuMlE1ekw1T1lWVHFvZGZobzRlOGdvdUJlVGZZS3NXRDRkbW1RXzRxVDJOQWhPaEEySXh6OUhlVGhG?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Purchases 7,909 Shares of Humana Inc. (NYSE:HUM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQV8yc3pnVFg5SkMtYXc5NWJiQUhzdDd3ZTdCRnp1UXJBSjFsZWlObUNGYV9DNjNoT0gtTlVoUXFHLTJxQ2pBOWw4RVZNYTdxVE5MMF8wQ3o5LWVLVnNkVkZJRXEyU0lrejZhZ0hEa3NsTFU3b21mVjVMNkpKRWxyQnZDWkpUdFd3N2hUMW9QQmRTR201MFlxenV5YkljN2lpb0tJeEFLX2JkMzlmRjNBd1JyeHlkS2JlTTdVS3ViWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Humana Inc. (HUM) Reaffirms 2025 Earnings Guidance - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPak1jZnpidDdEaDZ6UVNCeXRiY3JQRkRnRUNUXzFQSGRlc3ZKQ01xTjZ2aXRtemVja0s3V3Y2N05OSTlJNWZodU9nTjk3VXNZeFBoLU9TOTRHVDdWaWYxS3dkR3JubHh2bDEwa29jLW9xODE0OFRCRXQyS0RCdlY1S1JEX3dCTHJYWXlhUTBOc2lTNmhycG5OVHcxaVZGcUoyWEpCZ1VGZ1UzOUp6WUdfMmRrbFhYbHlPV2JKdnNjdWRVaXlocWxQM3BxUWNJdE9WM19obVRB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires Shares of 60,689 Humana Inc. (NYSE:HUM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeTRUbldwNmNBbTF4QkxyTy1TLTR0VkVaVW5LYXllem40WEJ0RmIwRENIbHBGWDgwbmYxZ19LQW5uMnNvaUdmMl91NS1rSVpNMHk3ODBhQTdaMnFTTlI2dUotalNLYnVqTmRhLWJPa0hYN0d4QkhidWN2OGdIQldnMzZOaGpOUDNadk1oa2N6ZTlxV1BBVEU1RUdhd3hOdDhQRnJHU3lCRTRiX1BfblQ5V0xYRDRaLWpwSFVPaHdsbUFBSHVlUzZ4Ull2T3Y4Z3MyYWU3a1FvT0ZSZGVHS09XT1g0Qk1rS1l1T2c?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

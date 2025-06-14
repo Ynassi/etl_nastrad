@@ -2,16 +2,16 @@
   "ticker": "CTSH",
   "name": "Cognizant",
   "sector": "Information Technology",
-  "market_cap": 39519162368.0,
+  "market_cap": 38947348480.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.877893,
-    "PB": 2.652791,
-    "EV_Revenue": 1.906,
+    "PE": 16.633684,
+    "PB": 2.6144073,
+    "EV_Revenue": 1.934,
     "ROE": 0.16605,
     "ProfitMargin": 0.11732,
     "GrossMargin": 0.34254003,
-    "DividendYield": 1.56,
+    "DividendYield": 1.54,
     "DebtEquity": 7.913,
     "CurrentRatio": 2.215,
     "QuickRatio": 1.829,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.09887511252480745,
     "ROA": 0.10094,
     "PEG": null,
-    "EV_EBITDA": 10.65,
+    "EV_EBITDA": 10.806,
     "BuybackYield": null,
-    "PriceToFCF": 19.917438999928542
+    "PriceToFCF": 19.591126046270343
   },
   "technical_indicators": {
-    "RSI_14": 56.77351045275695,
-    "Momentum_10": 0.4130185541333223,
-    "MACD": 0.9649034916808006,
-    "BB_Percent": 0.4464739754420315,
+    "RSI_14": 47.75204625128002,
+    "Momentum_10": -2.469440736822998,
+    "MACD": 0.6794673955383672,
+    "BB_Percent": -0.0109753043182581,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329731307316907,
+    "ValueScore": 0.8914183445245321,
     "QualityScore": 0.349094505294512,
-    "SignalScore": 0.5498974504337244
+    "SignalScore": 0.606508881470639
   },
-  "volatility": 0.017597659130036,
+  "volatility": 0.0175969797101434,
   "beta": 0.976,
-  "return_6m": -0.0047763260443626,
+  "return_6m": -0.0059466588007565,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 23,
-    "target_mean_price": 87.28652
+    "target_mean_price": 87.37348
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 80.64
-      },
-      {
-        "date": "2024-12-10",
-        "price": 80.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 81.25
-      },
-      {
-        "date": "2024-12-12",
-        "price": 80.37
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.06
-      },
       {
         "date": "2024-12-16",
         "price": 80.7
@@ -537,82 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 80.28
+      },
+      {
+        "date": "2025-06-09",
+        "price": 80.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 81.05
+      },
+      {
+        "date": "2025-06-11",
+        "price": 80.65
+      },
+      {
+        "date": "2025-06-12",
+        "price": 80.46
+      },
+      {
+        "date": "2025-06-13",
+        "price": 78.95
       }
     ],
     "current_price_data": {
-      "price": 80.28,
-      "change": 0.96,
-      "percent_change": 1.21
+      "price": 78.95,
+      "change": -1.51,
+      "percent_change": -1.88
     }
   },
   "news_sentiment": {
-    "summary": "Cognizant, entreprise technologique, affiche une dynamique positive avec la réélection des administrateurs et l'approbation de propositions par ses actionnaires. Des contrats majeurs, notamment avec UnitedH, renforcent sa position sur le marché. Les analystes de JPMorgan ont revu à la hausse leur recommandation et fixé un objectif de cours à 98 $. Cognizant se distingue par ses partenariats stratégiques et son leadership dans l'automatisation et l'intelligence artificielle, ce qui pourrait attirer les investisseurs à la recherche de valeur et d'innovation.",
-    "sentiment_score": 0.35,
+    "summary": "Cognizant Technology Solutions (CTSH) a récemment enregistré une performance boursière robuste, attirant l'attention des investisseurs. Des mises à jour stratégiques ont été partagées lors de conférences clés, renforçant son positionnement dans le secteur technologique. Les analystes de JPMorgan ont relevé leur note sur l'action de CTSH, reflétant un optimisme croissant quant à ses perspectives financières. De plus, la reconnaissance de Cognizant en tant que partenaire de l'année par Pega souligne son leadership dans la transformation numérique. Ces développements récents pourraient influencer positivement le sentiment de marché à l'égard de l'entreprise.",
+    "sentiment_score": 0.25,
     "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.65,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Cognizant Shareholders Re-elect Directors, Approve Proposals - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXh6eVVvZ19EV294bW9wUWZsVFpxNDhqSmYzMDM1LVRVRHVTcjdMM2VTMUY2bUZUbVZWcV8xUmhvT2NlcVd5YmQ4N25HWU9KWHBfbkJoMFo0MVRiR1hKTmUxWlhLbC13UHhlbk5GVV81YkdGczh4bFpITlRYWDNHdk15UWVxb3RhT29FcERVdHJHZ19tbXNpeHZQVnd4TDI1UWVIZURhZ1IzNGNxOXVhOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognizant (CTSH) Secures Major Contract Potentially With UnitedH - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFN1ZFRraUR2dVE4QS0xMEhFbXdTVV9PNXdlaHAzSVM2Tk9wckNKc1pKVG4zN1lRRmVfT09jb1hPN3Q5QTdMZEY2ZmVCZnJZaGZKWTVYNWpUZGZOZFpFeldHYUZoYWp2WFVZX0RiLXZES0ZpRkYzdEk1aGNwZ3p5Q3lHdHNLMWVCQnpVZXdJYWNsVUMzOU1KM1QyUVBFeFh5WUxjRFJRdlpGN3ZfakRlbUUyb0NqTE9WSzF2UmoxMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cognizant CFO Jatin Dalal to Share Strategic Insights at Major Nasdaq-Jefferies Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Y1Wm5sczEzb0djVms1TFR5dGZ0TC1CLWU0UFJLWjNyUXZiUkp5b25NaU1STXJNMnZ2ZlJfVUJ4bTNWYVJjcFd1cTJoTUNHa0xOejluUUJiTVBtcDNrem5BUmE4aFNWQjFWQ0pZMGNEZmVnY3hUc25xRGc5T0lnVTltcWFDaEQ3VVJTMXpqQkwtMXAwMGx4NEFTMlk2VExjcDRVaGR2ZTNxYzJONzhKaE93?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Cognizant (CTSH) is a Top Value Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUhDcTV1UF9WZFl6ZG9YV2xmSE1XdEhzMGNKTjNwUnIxeEVoQ1NKenp4R2RrTEs1dFdKeHhrQlczbk1XWmQ1QzMtNTRkMTZ3T1FsOUZidXE2Z092MUNBZ0sxMWt6YmtpbFNzOXNHLVZSbEhjdTRFYlZDMENBVzd0TGZ6blk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Cognizant (CTSH) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazBHbWZ0dmd4eWtvWEE5VzZCUlNDcGRoNnlnRmo4RGZNalBybXBCLThhYi1mYTFMNENxVnRPMzVxRE5PckZwY2NtZmtBZ1Ixd1VqMU1VWVVfbm5tc05mdFp5cDZaeHp2Z09QeXQ3MHRwazdocDJLTU9TUHprSGhNakJJQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan lifts Cognizant stock rating, raises target to $98 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDBCbDlHRENYVnRHYUYzeVZvYmlkd2R2ak1sSnZpdFBjTTByR3BETXFpZkNqUlFzWlFLOUY5Q3Y5M2g0d3NrY1BNbndUN3pRdjVzWkFQY2VFTnVra3NaMHZDMEZFN1hvc1BTaWtQU29zWGExdjRfWXdnajFJSnlfUHV0blF2aWJnSkRpdUN4VkVaRk9xRjZXQ2FUV1hTeXZrNmpGa0tlMlZQbTlhMEVNeVc2OTlHNFIt?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cognizant Achieves 80% Migration Automation as Snowflake Names it Top Global Implementation Partner - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjN3c3hkaENIQXRncGhIemwwY3FsQk00a05MUDNRbkRmTHVYWWRucEs4dGJSNHN4ZjBSbFhkV29GOFU2SmwxaUFlYzZ2RjlXNFpRQ0pmQ2d4ZGNIU1ZNYlZYTzZ3VTY1UDZTNi1peXEwS3FxSjNIeUlpQzI3ejMzN3ZrRlFzYklTUnY3VVcyNHU3UllXYkVVOFFTVlBVb3lUQWJmVnRNTnphWF9rM0E?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cognizant Makes Scalable Agent Networks Accessible to Every Enterprise - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0puc2Y2T2JxM2lhRVJpQkxXY25OVjkzWG1MNnowU2wwNS1CMFcxTnUwdjR3NUQ0RXhjeUdsYXV2ZlhaRjVwVjVRdUFudlgwQzZqdHdjVmMzRUhlQ2tCWTZ5NVFPUnRKcmN4UlRvN3k0M0pwOWlrT25uQ2hBUE1EM2lVUGI5ZkQyWThIU1hHdHlVNlNGeEx6TGZFLVFKR1REMEZsRE9zU3hzRGZOZHQzWG9fV044eHZCb0pYVDBEZnhHbDQz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Do Wall Street Analysts Like Cognizant Technology Solutions Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVJUMjJHMUxEbE43aGhZUDdTSXRvWS1IZE1rWnp2dlpJUkRHVHlHY0VYcjZaN0N4bkpYZEk0eXhyZ1pUOFRJVUtDV3JzYjFXSC1JUUZfQzhsLW9KVVpjMVhJQW0wNHhxVHBab05USnJSNmF1MHlhZlRlajRmSGdKR2lJM2NXUkd3Nm5LZG90dlIxbUU3clI0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognizant to Present at the Nasdaq Investor Conference in Partnership with Jefferies | CTSH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGxPTEdTX2F1TnVTUVRMMXRZS21ncWlza21NSmpsT1dvbG1tVUdVbTZ5eWNvM05PRU5JYWFEM2REWnFqZXFsWmRVemt4OG8zMGFVMDdnM1Itc2lWZndpR3ZTQVJtQUR5M0pCcFRJLXh3TEl1bHM2TDYzOUN2aHhEUFYteDR4dmY2cVN1ZGQwMTMwa1dqNDZmSmdEY0lxSGFuYnVxY0liUlVnS3FrdnZxTnpZa2syQzQ4SnZfUGhNYmJjcXRmYkRzODdVdFZVNVdVOG1Dc0h1WQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CTSH Rises 9% in a Month: Is the Stock a Must-Have for Your Portfolio? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84S2F2Mlp2bW5uZ2c3Q1g5YUd5RFMtYllVVTdua0RJRUFmWHhMUXhtRU9xZ2w3djhobUdzNHZRVFlKVzYxQUxrRTV3aXZOSV9KVFFhOG96SFlGU0hFNTliSjhoVjVXcVNERjBSNU1hd09fbkYxaUcyMHdB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognizant Named Snowflake's Global Data Cloud Services Implementation Partner of the Year for Driving AI-Ready Transformation at Scale | CTSH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQWXJmdW14aUdCVWpMV3BpWEdfbk94d0lkbGJkV09FVDJFZHlWNzRsMW9xdGVlWWVoMmVUSV9DN3UyT2x4VFkzRFJOTGtqN051dHdxWHJraGc5TkcyU05aQUd5UEsxMkZKM0JkLUszNHN3OGJORkN5bGt5MnBqc3R5Z182S3BwRGRmV2haNmVhUFNHOGJpUks4dERBSTV0RWdiekZva0ZZNXVRTVJSN0JlNnVPSnBpRlVJN0tNMkc1RnJLSmhjTjZWeC1RUzBzbHFpeGNkMXNJYWNFdVJCTWJUeUV1X3BtNXFmei1vQ3pGTkNqSzItdkZNRXd6RjNPRDdCUjFXY1F4TU05R1k0bG9pTVlXdjRNY3JvbzZPYjQ4cHBCMTZ3dThUb3ZYRFJPYVRiWE5mZ05vbU8yV25GWml4V1NSYV9ZUGpCRkpqZS1ZbG1Tb2R5TEc3cy1oa0k?oc=5",
+        "title": "How Is Cognizant Technology Solutions' Stock Performance Compared to Other Information Technology Stocks? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSnlwWnpYVHNHcDE1ZktvT1hmTURGaEVxME1KZmsxdWwyX0tzVjVCMEM3VlkyQUViaVp6QVFQdWRTNXB4R1JDUFF5R3lIb2RKYnZwNHdzMHFKVDY3dUhnYldwMGU4SGFLZjlQMzBUZ051NHBwMlVxdW9GNkduZ1RTWW9kbmNaOE9iMEdlMVNJbEJPUkozRThUaEVpMU1JTHV5MGcwbUYwc0x0RnRaY2xFUW5kUnpHVWlySC1KdTd4d1VhV1lmRk1NNmpXOFc1ZjBueU92WHF2eHRfaEN5QnRqaXI5eWdDNXFXemF4RXBac3o2dDM0Tm5LQ1hB?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -621,8 +566,43 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Cognizant (CTSH) is a Strong Value Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjNDV0g5TTk3RFJCZk1PU0l3YVZpdzkzNzgwamhnZUxsSFBIckFhWjVvME1nZ01KbHhLTTRoQk5HNmNYR25jVnJKOXNuNW03ay1Ecl80QnRhcWdrS09va2hnUmJoNERLYWp1OEsxQzhLbkd5d3BCYXJZMlRQMEdLb2ZiYw?oc=5",
+        "title": "CTSH Rises 9% in a Month: Is the Stock a Must-Have for Your Portfolio? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84S2F2Mlp2bW5uZ2c3Q1g5YUd5RFMtYllVVTdua0RJRUFmWHhMUXhtRU9xZ2w3djhobUdzNHZRVFlKVzYxQUxrRTV3aXZOSV9KVFFhOG96SFlGU0hFNTliSjhoVjVXcVNERjBSNU1hd09fbkYxaUcyMHdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CTSH vs. EPAM: Which Stock Should Value Investors Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUgyWnNIYmlueUdwaTFqWkhfM0U1YVhwNmNDZkQ1eVp1VUpfUkhKT1Y0QkFWNkxEVUVnWGlZakc4TVZvcXZNTFlZTnBaMFUzRS1fYUJPSUt1Zjl6ZlFMcWJmN1JBazl3RUkxcm5uOVAzd1pnUnBsclE3MjZvT25OOWRSLVJLMWlWRV81bGZ2clQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could The Market Be Wrong About Cognizant Technology Solutions Corporation (NASDAQ:CTSH) Given Its Attractive Financial Prospects? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUExYX3VyZ0x3N3NLamVadHFmMWJzNXBSb1dENko1Y1RWNnhTY2ZKU1RrVzFUSEhBWFd3clRuSk93OGJMRjMxZmZtU1Jjb28wUDlOTkJhTnJ6ZEFic1VzcWFmcXFGVlBJS0Q1VmYxRmdpbzFNVjA4cUkyM0haWENfLV9KcmRlaUtCbVkzeG03VXRzZDhVUS15Ui1kY19xbU01VlZNTWxiYlB5Q2tJS0hpX3NGcDVBSERZeFZXSTVMai0xYk1Hc3lIT0E4NFhRZzB5ZjVZTzcwTFdpRVVabFZxYUhETdIB6AFBVV95cUxNMktkTklLWUhGempCNFlucTBEZmVjVHMyOGN0VWtJWC1yaTY1YnRKbEdGSTQtWUNXNlZISTh2YU16TTNuQzRjd09CUlVfcWt4U3dlWmItVnluY2p2c2tXZkpYTWV3WW51eWIyV20zc2ZGNXFLQlBPTGVLd0t5WWRNTUU4elBBU2F1bnRHN3lRdGNSZzRlX0pRa0FJM1hPUXp6V0NqYlU4a0NaUDBnd0Q3b21SLVBRd1QzVWRfSlYtSGRraUV3Ul9XR2o0MlJRWnhIZmlTbTZRTzNnelFZQzhUT1FYeDQtZWhI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (CTSH) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVIzbzloUWpxMWVDSHJDN2toVWFNYU95YVBLTXRXYm1CcHNuWUZVWVc3R1psQXBVT3pfdkdLMVhmOGQ3a18yQUpBSHhrbi1CNlVVWmY0aEtxamRqM0lLdTNsNjg2bmc0NDltekJUU0hDOWNpRWRzaHMzcFNBVnRIRm00OWZsbmM5SEt3QnF3Mi1mWDlnUmJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan lifts Cognizant stock rating, raises target to $98 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDBCbDlHRENYVnRHYUYzeVZvYmlkd2R2ak1sSnZpdFBjTTByR3BETXFpZkNqUlFzWlFLOUY5Q3Y5M2g0d3NrY1BNbndUN3pRdjVzWkFQY2VFTnVra3NaMHZDMEZFN1hvc1BTaWtQU29zWGExdjRfWXdnajFJSnlfUHV0blF2aWJnSkRpdUN4VkVaRk9xRjZXQ2FUV1hTeXZrNmpGa0tlMlZQbTlhMEVNeVc2OTlHNFIt?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cognizant Recognized as Pega Partner of the Year for Advancing AI-Powered Enterprise Transformation - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRlVuRzJTOS1QdG1rRGdGMGdTaERRdUdrbkhMdzE5V2lMY3JKLWtJMjRtT3pfQnNQWXd6R2R0TXl5dENSbHY5VmtUN3otNXIyamlUSXJ3NHRtaVlYeENvemZKM1BxYWNua1ZvR0J1ZzVnX3lJa0szaWtQVDVLTzUzS3BSNkJrM183N2JyMDB0dko1V1lZYVhYUHU4WFFTRFhKRk1oVGxscFlNSWJQM2hTd25IMlphZDNlOTlodnByNTBrSjJZWm1YVERmb0c0OGo3V2ltbzJxTGttbGVoSjk0YTlFMTN6NHlDWUE4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cognizant Earnings: Digital Transformation Demand Drives Guidance Raise - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3UtZF9RMVlZQ1l4cDJXVEJCa2FrXzg5bkZ6cXlZc3J5VFFwZkROREYxUkFjVzdKN2FNc3dsel85bWlVWmJDb3ZNdnBDWjFPLThmc1lKbFBpZE01bFN6REVRYlVvUUNqT1VUTGZDMm5BWk45Zl8yRFBRbG5GRVZ2MFFPVGhuTU13TlRIZUpBaTFrdllrM2YwdU8waWk4a3RQaVNPTkhEaFI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CTSH vs. EPAM: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NamxSXzhXRHNHZWF3TW9Ha0hCcTNteVZMelFJNHFnU0I0QVlneXA4clhTVDhGWW45b0xPaE5IdXFGVXU2cVRoVEtOaEhRUXJkRjlpcGdHRzZTVFVNQnNGRlhhWlFNRTNreHdudTd1WXBUSjFVUE5KVml3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,31 +611,51 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Why Cognizant (CTSH) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGVFMEE0UzVlT09ZWnRGLVZfZ1owcDI1azZRUS1GVGxJSzYtcW5BUjVXam9hT0VmS3F2OVFudnBHWXEwYjUtdHp4MUc5LUVESG9hRkVUOXZRZWQ3bHpOYlVXTVoxeHJwUi1kb0p4T2ZJUzlZN0pFR1lRak9yVEdBeXFkYUxLR0xH?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cognizant Technology Solutions (NASDAQ:CTSH) Has Some Way To Go To Become A Multi-Bagger - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkNLaFFaUS1URlBvNHJiQnYxc1JlRW9mUHFoc0RDb004bUFva3prc0swb3h2dzh1UnpZaV9yNTZnQVFiZHluM1RaWXh1b2YtVHJQZ2lCYVNFazZxX09uSDVtdkpESlBNVW50Y2hzbnNlOWhueWhqaHJGa1I5c0Z3SzZoTnNYX0pVQWxDSEFOSHVhZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like Cognizant Technology Solutions Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVJUMjJHMUxEbE43aGhZUDdTSXRvWS1IZE1rWnp2dlpJUkRHVHlHY0VYcjZaN0N4bkpYZEk0eXhyZ1pUOFRJVUtDV3JzYjFXSC1JUUZfQzhsLW9KVVpjMVhJQW0wNHhxVHBab05USnJSNmF1MHlhZlRlajRmSGdKR2lJM2NXUkd3Nm5LZG90dlIxbUU3clI0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cognizant CFO Jatin Dalal to Share Strategic Insights at Major Nasdaq-Jefferies Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Y1Wm5sczEzb0djVms1TFR5dGZ0TC1CLWU0UFJLWjNyUXZiUkp5b25NaU1STXJNMnZ2ZlJfVUJ4bTNWYVJjcFd1cTJoTUNHa0xOejluUUJiTVBtcDNrem5BUmE4aFNWQjFWQ0pZMGNEZmVnY3hUc25xRGc5T0lnVTltcWFDaEQ3VVJTMXpqQkwtMXAwMGx4NEFTMlk2VExjcDRVaGR2ZTNxYzJONzhKaE93?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Cognizant (CTSH) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazBHbWZ0dmd4eWtvWEE5VzZCUlNDcGRoNnlnRmo4RGZNalBybXBCLThhYi1mYTFMNENxVnRPMzVxRE5PckZwY2NtZmtBZ1Ixd1VqMU1VWVVfbm5tc05mdFp5cDZaeHp2Z09QeXQ3MHRwazdocDJLTU9TUHprSGhNakJJQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cognizant Achieves 80% Migration Automation as Snowflake Names it Top Global Implementation Partner - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjN3c3hkaENIQXRncGhIemwwY3FsQk00a05MUDNRbkRmTHVYWWRucEs4dGJSNHN4ZjBSbFhkV29GOFU2SmwxaUFlYzZ2RjlXNFpRQ0pmQ2d4ZGNIU1ZNYlZYTzZ3VTY1UDZTNi1peXEwS3FxSjNIeUlpQzI3ejMzN3ZrRlFzYklTUnY3VVcyNHU3UllXYkVVOFFTVlBVb3lUQWJmVnRNTnphWF9rM0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Cognizant Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFA5UktNQkJsakVaeDRKLUo0WnF3TnIwQmdTNXFPMHNFOGZkdFJpWi0xc0RwMWhkY2JTd0xTb2xGcjh6NC0zaHNndmVkbWZYSVk4bDMtNFY1UGFFUHVudzZGc3pNeV94VDQ0bEZ5a1YwTWpUbnpzb2dHcGtxN3dyclJveUd1RE5LWGI0OThZOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AI Agents Market to Hit $47B: Cognizant Democratizes Enterprise-Scale Agent Networks - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGpSSFI3LVozdTlMM1BPQVVHNnNzVjlfd0x1SE5WTFZnazNnSEdsam01b2lQaU5ONFotaUVMek5vcG5UN0l0eVhTem8xLW5wRlJhYjNNTkxRTWJGcGtTNEZKT004MUl1dFhZdFhmTVRHNmtaQjhPaXhLQzBFc0d6V19OZ2NqdmhHblQwNVFxajN2ZHBsMTkyWGRGQldHb1FqQWRORVVBdFBJZ3dyYjktcWJaLV8?oc=5",
+        "title": "Why Cognizant (CTSH) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQXA1NWs3R09wRWpCMmstUFl0WE5FT3hFNEZBVlNWUkZKS0FUTUg5enZYM1pJVzBxZHVNemlsSi11Xzl0S1VIN05pVDhvRlRSR1phNmFyYmhNUFQyOFRxVHlwOVMtTFZveGdIaEMzX3RzbkY2cXh0WlZNRlh6d0E?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognizant Recognized as Pega Partner of the Year for Advancing AI-Powered Enterprise Transformation | CTSH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQLVlTUzA1ZDlIYzlaQ0xpQTZ3YWkyNHZKS1hYTkVVQUtVX3JNb0tPdkQzUUE5dHJGak9vRGJXZ2pXdW1MZU80bFJOdlNVUmJPWm1OeWVOaEJuTFZDUFpGZTMxcmpRVC0xdG83WkF0SjVEbUd4bWhqUlBoTGF4Z1pkRlprTTJUV3dDY09GZkJPSWdGWWgyb2UxQ2kzenptSVd6MlJscW5hVnFPbm5yLUpJR1FyOEMzSFdkckszaTFFUWhFbi1VMGw1dUwwbUM0Ui00YmRCdHExNjJIbkFaaExiUTIxQzFlUFVRQVZ5Y0VrdDhqSzFhN010b3NicTIyY2ZiZ05zVmJGbndEUkp3WHVjcEVNREs0clgz?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Why Cognizant Technology Solutions Stock Triumphed on Thursday - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1o3dmJ1eFNkdkxvUkkxM05JWTRVQkhzME1XcjV5dy1lb0ljbEdtOFlyR1M1LU44MlhoVnllSVRRWTE5VXk4aVM3V0M5bEM0SzJKVEdSeEZ0WVhDbS12bTFtTVptdFp5NndKUVNvSjZieHNzT21pemY2UUktT3lWbmFBd3NjeWJWUC1IZ1RYbjdtSE5td3p1TQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognizant Technology Solutions (CTSH) Stock Analysis: Navigating Growth in the Tech Sector with a 6.76% Upside Potential - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZURYWTZLZHpaem03MF9HOUxRRlEydWl3R09SY3pjanhKNjRmSnJ4ck4tZWFHeERkSTFTckhfNmtCSGlpMlQycGZjMWotZkd4dDVzbVFfR2c0T2tuM012Rm1BZDRDand5TDdQbWNZX1RvdjkxRS1STGRmWkhlWWJOSHJmSDgwSEd4MUZUb2dIODg3V0xTZXlaY2FlTlNWZWw5OVExOGd3cm5OSWIzVEVuVFJEb2EtME9PR2lRaTM3SmFDaU9Zb1NNQURyczlENHJVTHB0Y1prZ0hNUUsweTFVWlZKdDRxb2ZsTjhSSUpYcTdFUjgxdGJWMVRkOA?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

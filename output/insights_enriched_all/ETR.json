@@ -2,16 +2,16 @@
   "ticker": "ETR",
   "name": "Entergy",
   "sector": "Utilities",
-  "market_cap": 36621787136.0,
+  "market_cap": 36731138048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.5534,
-    "PB": 2.3275936,
-    "EV_Revenue": 5.445,
+    "PE": 26.632687,
+    "PB": 2.3345437,
+    "EV_Revenue": 5.498,
     "ROE": 0.08853,
     "ProfitMargin": 0.112390004,
     "GrossMargin": 0.49988997,
-    "DividendYield": 2.93,
+    "DividendYield": 2.88,
     "DebtEquity": 199.493,
     "CurrentRatio": 0.825,
     "QuickRatio": 0.46,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.1948475165086213,
     "ROA": 0.03068,
     "PEG": null,
-    "EV_EBITDA": 12.052,
+    "EV_EBITDA": 12.171,
     "BuybackYield": null,
-    "PriceToFCF": -15.75677707692572
+    "PriceToFCF": -15.755816898350123
   },
   "technical_indicators": {
-    "RSI_14": 47.42628550020532,
-    "Momentum_10": 0.9227362343305489,
-    "MACD": -0.1255667447031925,
-    "BB_Percent": 0.4179346126850934,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 48.71603002323793,
+    "Momentum_10": -1.1827577146848258,
+    "MACD": -0.0452302782952784,
+    "BB_Percent": 0.3863472126276036,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9313656877100224,
+    "ValueScore": 0.8795444514697266,
     "QualityScore": 0.417012852472529,
-    "SignalScore": 0.5939830703673705
+    "SignalScore": 0.5952366585854683
   },
-  "volatility": 0.0160143811338041,
+  "volatility": 0.0160540494096611,
   "beta": 0.583,
-  "return_6m": 0.0985877711161151,
+  "return_6m": 0.1247247119491983,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 89.04778
+    "target_mean_price": 89.01778
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 74.78
-      },
-      {
-        "date": "2024-12-10",
-        "price": 74.17
-      },
-      {
-        "date": "2024-12-11",
-        "price": 73.94
-      },
-      {
-        "date": "2024-12-12",
-        "price": 74.14
-      },
-      {
-        "date": "2024-12-13",
-        "price": 74.24
-      },
       {
         "date": "2024-12-16",
         "price": 74.76
@@ -537,48 +517,123 @@
       {
         "date": "2025-06-06",
         "price": 82.15
+      },
+      {
+        "date": "2025-06-09",
+        "price": 82.81
+      },
+      {
+        "date": "2025-06-10",
+        "price": 82.21
+      },
+      {
+        "date": "2025-06-11",
+        "price": 82.15
+      },
+      {
+        "date": "2025-06-12",
+        "price": 83.29
+      },
+      {
+        "date": "2025-06-13",
+        "price": 82.07
       }
     ],
     "current_price_data": {
-      "price": 82.15,
-      "change": 0.37,
-      "percent_change": 0.45
+      "price": 82.07,
+      "change": -1.22,
+      "percent_change": -1.46
     }
   },
   "news_sentiment": {
-    "summary": "Suite à une revue des récentes actualités économiques, plusieurs tendances clés se dégagent pour les investisseurs francophones :\n\n- Thyssenkrupp a enregistré une hausse de 3% de son cours de bourse, restant potentiellement attractif.\n- Ferrovial a acquis une participation importante dans le 407 ETR, soulignant sa stratégie d'investissement.\n- Entergy a lancé une importante offre d'actions de 1,3 milliard de dollars pour gérer sa dette, montrant une vision à long terme.\n- Les performances boursières de Hapag-Lloyd, Deutsche Post, et ENI présentent des variations, nécessitant une analyse approfondie pour les investisseurs.",
-    "sentiment_score": -0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.45,
+    "summary": "Suite à l'analyse des actualités récentes concernant plusieurs entreprises cotées sur ETR, certaines tendances clés se dégagent. Malgré des performances solides sur le marché pour des sociétés telles que Bayerische Motoren Werke (BMW) et Heidelberg Materials AG, d'autres comme Wüstenrot & Württembergische et Jenoptik ont connu des baisses de prix de leurs actions. Entergy (ETR) semble susciter l'intérêt des investisseurs, mais les perspectives de croissance pourraient être limitées. Les variations des prix des actions de diverses sociétés sont influencées par des facteurs tels que les fondamentaux, les mouvements des moyennes mobiles et les recommandations des analystes, ce qui souligne la complexité du marché actuel pour les investisseurs.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.35,
     "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "thyssenkrupp (ETR:TKA) Stock Price Up 3% - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeG0zWHA1M3l4SEotTzlSSlJsZmdhUXJYcUFTY01td1VqYjdUUVN2RUtCemwxN3FIa2VrSjN0OXFEUW1nWXF2QkUzWXB0S0FKOXdxTUtXZU11TXFYWFdOd29PdHY4UlRGQXY5cDhyc2E1bUJKWGt0dGxLa2wzVGwwb1NtcDdkYjViYWZaQ2N6R0hjNEQ3bVVYYmpxa0ltck1ReVVqMQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Ferrovial acquires a 5.06% stake in the 407 ETR | FER Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHhuWVAxWVpwaXRZeTFZT21EZTBGWjdQdElYeHJYNHctdmFXUjJpZk1QRU04UmgzTmNpM0gxcTJKZk1FYUdCdnlGNHlQQ2R2dGdiQ2hBeW9TcWdGVTBXOElnY2FLWi1iTV9jeWxDTEk2anVmUFlvSHhWNG9leDhOLUV6TDY0NUJxYmpCSUdKdFhMMzNRUVlTenlTMHo0RnMx?oc=5",
+        "title": "Raymond James Initiates Coverage on Entergy (ETR) with Market Perform Rating | ETR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3JDS1ViSi0tenBkVjdmU19QRXl5NUJURXB5SURPckg3MmNRaVNmZ3dvOXo0OUd2eUptVURydFcydExSSHMzRkstMVpWQm9IZUx6ZVExYTVkblZHNzlWbmdmVURpcVBGSktDSUYtQWlJQkZYekFiUXNHSFRObHNMWGdUa09jQ0NUOEYxUmtYMGEyMENKQUpDWVZIQTBnNTNFNVZ3UXBrbG9jRXpjSkkxM2tKLTA5R1hWMW1VeHBSOEh6QW9fbExqNw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Entergy's Massive $1.3B Stock Offering Reveals Strategic Debt Management Plan - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORElEQjFXTVFOOXotYzhqOVByMjRDUXpRb0lYVVJPQ2J2TWExVUVSdGZ3TTdCSldHT1hXNWJtQ0tRX05Tb3pjbUkzU2R3QWNHTVZyMV9xeDRmNmJ3cWNWU3BCV3RQQW9ZMEF1dUF5a0tJQjk2WEhTcnJTRGtNTVd5aTJhTkhHcTJocnlJNTkwNmJNYmhadmRQYWJ0b3IxYUYyN0NyVk5TMGY1bzBiNHNoQWpCeWpvR0ZVd3k5dkNn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hapag-Lloyd Aktiengesellschaft (ETR:HLAG) Is Going Strong But Fundamentals Appear To Be Mixed : Is There A Clear Direction For The Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWVPSVNEcDJzdlpTTnhqTGNmbXNqYXJVdjlZWDRncWRLMkRibDVYanl0Z1ZBRjNsWU10RW9kQi12Q2MwSU54RmQyZjVPclZCRkpqMFgzVmY0QlVhUXFHOUlQN3kwYUtpbE5kRloycXVNUmw2RURZWWp1R2lORERqTktIYnAxLW0yNlMyU1JR?oc=5",
+        "title": "Should Weakness in secunet Security Networks Aktiengesellschaft's (ETR:YSN) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3RFc2swSGZLdlBLaUZoY0dfdDl5dEwwYm5IRFJPX2pjdXk3UkQ4dUJocWVvTXB6UlE1SDE3OE5tdTJwMU53UlFpNzQwbERSaW43NFlpdTdONXNHM1NxSVZPUXByMXVmUGJfRmlhSkVvWm02MU1McFdHeGxXTWNtT2t6Szg0aGw3MTBXUXVzRWtLcENfUm5adlM2YXYwdVdtUFE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Deutsche Post (ETR:DHL) Stock Price Up 2% - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnhnWWtHZ04wWERYa242SlBoTUE1TGhwckFyS2x0di1VM3I3VzJvc04zQ2Z5ckR2Zy1Gei1CVFV6SnNwem9ia21YcTE0cEdJNmRNOGQxOUZWd0FOSXRHX2lWcGxRNVpXT2dtdWNUSjVGWU41RmZFNnU3YmhFZjh4UzZLYVNOeDNTdWhrZEJHZkpBZ0h6Nld3UFRkRDRPaFE1UE4xbWVn?oc=5",
+        "title": "Bayerische Motoren Werke Aktiengesellschaft (ETR:BMW) Stock Price Passes Above 200-Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlBGcndYSjBMWU43Z1IyRkxYRTlMeWZLTVhLMnlBZXZFQTlmWXhTenNoR05zSmFDX25wSXJjYmN5OGRFTG8xbmVqRV9ieU9ldjNtcHRZTmF2VXlmUkFfazdQNmF4NGlOQzVlRnJZZ00wN09qVUV2T2h0a2MzSTBqTUxrcG4wVkROSmpqUjFhVnUwTHBBOU9sSXhxSFdBOTQ5TENrZDVNNmdkTXoyZUROX0VVMmFlVklRZGJVbWg0M1IwWGN5ejIxT2EtU3VHSE9JMDB1bGRMSHZxTmFpVTk1U2RVUy05c1d3WGFrRVVnX08yeGlreGF0TA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Bayerische Motoren Werke (ETR:BMW) five years ago are up 80% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV21yVUQ2eENrRlV5bHBqOFMtT0NCWlJxcHk3NmRzRi1ZVHVHWjRzbjVDdGJlS1ExYUI3OEkxNWdGQlFfcVNEWG9NbXE5dUl1ODJNR3lJbERZN3hYQVNUYTNMQXFIeFpSTVhGcHBQNmQwS1VrVUxMYWlCYWpNdWxjZGNTQ0lRMFBrSVFHVHBkVV9uV05SSGwwTEtYMXFkZllISGJTZ2JiVU1OejVweHN5bVVaZm1LTmsxV1VlSUN5Q3EzbGVvSDVHdHhneHNwLTRfamVmVmVScnkzcXVvTlFwX3pDUdIB6AFBVV95cUxOQ1U5UGc0VzlJbUpFVWtlYk1XQ3Vtd0liRTBpbm1SSndvMzlwaUtCdTZBckRUVVQ4YTNkcXpMb1ZoeTB4QkJfNElTYXhJQnlpUkdCd0FicmRzeU1UTmlQR3ZvNEpvMFM3aTZYS3NjUjZJNFJCR3Y3eEg4RWhYZHE3c3d6QW9IeEtyU2pWem90TG94T2FSUThjanJsX2duQVEyZEFCMVFWdm5iRHRhZHlqTGQ2R08wYU55cU05WlllU1VrMTM3cmpreGs4QWgyT1JCczJwNmg4eGhKaXNmWFo0LUNhYmVya0hD?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Entergy (NYSE:ETR) Is Doing The Right Things To Multiply Its Share Price - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVG91aWcwZU1CMFZOZlUtblMyWG5Ua0tiNUNFMUZhVU9mVzVFQVk2QjF6MlVQQXJPcDg2R2doYndETUVuVnhUaWtuRjNHdkVSVFJFV2tTekJTNW9BNmZ5Y18zTldORUZMSzlUSkdCTmoydExESnJXUjc5N2NuQ182NUtERTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Commerzbank (ETR:CBK) Stock Price Crosses Above Two Hundred Day Moving Average - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTVmNnhNcmxtZHRsMkQxY3JmM2RQVkpkUG8tY2xKRk14WDlnOTJzZFgySVcwVE94d1pGNjg3S0gwNHQ2eVFMT2tGSXVQUlk2YjdJRjQ4WlJWaHFiUXNOMHEzOWVNZ0dQSkVxMFloZHpiZzZLUFZ4OGktNUNYRFRvM0QyTVFEZXFkYUxJUU0yaDdjZ2dYR0JjTzRnM1BOZmRrUVY2dm42Ul80VjB0NWNqUDUwTmE3aDRQdG5sQlphLW1sZnVXbUwzZXVjUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Bilfinger SE's (ETR:GBF) Latest Stock Performance Being Led By Its Strong Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1Vpb25UbkNuRkRKZVNUVGpZVmJFZzV3YnAxNGZzWmtTMzZEZloyMmFJeGh2d0ZiQjY1eE5rdXpWcDdnQTBfX2t1bnR5cmowUlF5bFVnZXc5YUVZM1ZROXRlZTl1N0M0YnQ3dVVXXzl1VWViRm9YbGtaZ2ZtOUpRVjBNZ0Q2eGJXdFhQaEpxdURSN3BFc1RISHlFLWhILWFLNWNWRVoxNURSQ2ZIeFFSb010R2pqeXJJR2NubnJRei0tcVdOTkEyOWk5Qk5pdEZXN0Q3STRvam9jd9IB3wFBVV95cUxNY0hBcWg0WV9pWUtER1dYSFVFSW9qVWlLUzNEOHVodi11c2NIdTV1YzNLRHFVS29JeV8xY0ZCeEdwVnhsM3U2LWE4U29lZTNYUk9sYUw0TUhPVVBSYlpqU2JoWF9XX1ZlOXJhU1Y4ZzlzU3FMYVdNSWxDMmdhNlBpQzRXMVVqMVVVZjI0bnBEY05VYS1NUlg3RUNzczQ1UWZUZUw1R29ESTJtSk1TeVRsMFZCOGtreFN1MlQxZmN5dlQ0MnEtdVlBelFjZ0tOVndwT1dZNXFFdXF5dnAzZUtj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Entergy (ETR) Gains Attention but Faces Limited Upside | ETR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjE1MUhacGVnN3RlTy15RDRjV3R6VTRuQnlTRDBjSTh3U2JWaGFXLWxDV1BpU0pzNmg4Q0YtdmtwRlJSbzZ3WkVRR2hWcTVpWVB5dGZZV3NtaUZmOEY3NFRqQzNpU3dTU09xNExvTkszaXVoWG9GaDdJNHpDS0RKZF9FUFB1V0thYk1wS1FkeWdsb3F5N0g5Z0xDSW9LRXlRaldwdkVBSnN3dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Is cyan AG's (ETR:CYR) Share Price Doing? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NYndWUm9Edm1YVUZqV29yTHlWalB2VEpRSDkyaHMzcGMtYlZMOTkxbU0zeHEwTFFiMUFKTjhOS19aYTN5ckozY3NlcTZUQ3NZeDlTY21tMWd0RzZxd0xaX1F1NUhvYnlOdEktVXJ1WVZGTWdxQlJLc2xlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wüstenrot & Württembergische (ETR:WUW) Stock Price Down 0.4% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnJuVzZSeWh6Nmt5LV9fenVzWWNvbEExaGJpVlc2Rml3ek5wQl9FX3VtOGZEM3hubmt5VUVEZldmblEyWDJvMzRYOVdJMXdCQmo2ZEl4ajI3bDlWU19uUXdqSXhZT3ZoN1ljX1V6Q0tySHYzQWhSNnh6Mm1lOWtmRi1PajYyMTB5cFRlYjY2a095TXh5b2pST01VbnVOdzJUTWxjSm1zQ0oxalZaZUtlX09iNmpEVE1LcXYwM0hR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Heidelberg Materials AG's (ETR:HEI) large institutional owners must be happy as stock continues to impress, up 3.3% over the past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQjB4SDlzazdtSXZMaS05ZGNJOXFNRDh1Nlp6bnpYUHJKZ2J6dW5weDBoaC12dEw1WmIwbHNweXA0MElKUThWUnlzSFM5ZE9tTUktY0t5bFJJbGFIWklIN0J4akU4bWhtbFliZHRYS2F0bjgyMHd2UTdSUHVnaXEwNFVZVFFuRHU2YV9UQUpLMzlBY0lKQUpDclM0RkZVMVo5WDdHXzVhT3gyNlpXRGk2SmYxN3lKV0RjMmRlRlJxbC11OVdUVDZfbWhuRS1wa1pkbm1GT1ZEb2QxTG_SAeABQVVfeXFMT2ZOYUo0aDBscE1sQWFYMnRibWlOTmVNOXR4QlY3eWhKZjRzay05azNESDU3UTNuZ3MzaEJWRHBKdXRCdmJienFhVDY3bUZqb2x4ZE5Od182Zk0zY1Y0czlnbWVjODhBTWZMbURpaWNRaHhBaUVNS0s0NjZycHdTMnFJZmxLTVc2R2FqeGFZSkdKd3ItaC10allpLUU1Zk1uYkJSSmo5TzhkUENNY0x0SWw3TlZRU0pLQ21oY25wUk1EbXQxS0Vfdzh5TWJKU3l5VHh1ckl2bXYzWVptbmN6Ung?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Raymond James Begins Coverage of Entergy (ETR) with Market Perform Rating | ETR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdkhyTW1kbHNjT2ljLS1OZjAtUUtMaTdpcElITy1qeU5ZdllwT1JqTVB6NmxMd2RjRE5zdDdQblB5T0hDYzZmcVNpem94QW0wUl9iQlVHV2JuU21oZlBkN05kTVU5anBOVWJGNWVXNlNYUkc4Z3EtQ092bjBlNkt3SGdkbEtJMU8wTkFHc0dfdEIxUWZGNlVyblhSUkJueDVvRXVBaGRiZURVY2JRY2RpellSaXlWTFBURkNWOVJUMGVhNk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jenoptik (ETR:JEN) Stock Price Down 0.2% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVG8xWHlaWW5QQ2hKUUhwWTRkdXhLTmNtLUJZYVNEUVZ1REY3U0FzZFh6RjkxRl9aRWZlOFdZRGU2SC1OWWw5cWdLdWNXYnFXZ1BvVm9VSFdnUmZpVFp0ZUN2djFHdVdpa0NfRS1BNnM5bGZWbGtrT0ZqNVVlcThnRmdISVdPR0NYRDRHX3hNSEdUT0V6MmdocWdxWFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is ad pepper media International N.V.'s (ETR:APM) Recent Stock Performance Influenced By Its Fundamentals In Any Way? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNk9YZzlOTktPeXg2U3hvMjkyQXQ0RjRfd1Z0YlNyb3R5VkpVNjVXaHc1cW92VkVZSl9DdXpXOVAyazVVcVpybkRab2VLQnhndEpHNGcxNzNEamh6WGw2VDN2cXVHbk9aUGQ0N2VVd1BlZFFTN2FwTE1iaTIzMlBkcWtjcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aurubis (ETR:NDA) Stock Price Down 0.7% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVVaZ1FTYlRmTlVJSkd1VGxNM0JoM1R3aG1rWXNlcXZNUFlsSlJGVUs2RWZESFJOT0Frc2VselRtcGtpN1JkRGQxUGkzTDV0S3RkdVZ3ODEwWVNuTDBxZXFBTW5MZnc1RGZKVnJwZTdtQTkwSzVxbFk4WUNVR2xyX3lQc3A4a1dnanF5SnpUR2p3Zk90Vl9aZkhxeFo?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hawesko Holding (ETR:HAW) earnings and shareholder returns have been trending downwards for the last three years, but the stock soars 14% this past week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTd2SEliOWItS0FqdW1pZWhXUUpVcFpRN2VoR1Q1elNzNnJ5WEJqcW95MEFlWWg1YkpoWG45Ny1jYXJTVWFWQ0tWd1VBQm0yY1E2U2FqeF9Vb1NEVFREMzR0V1R5NUdkeDY5M3hkZzc0Y0JPdDd4dlotdWVlcUs4RnpvRzg?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Entergy Corporation (ETR): Among Steven Cohen’s Mid-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
@@ -586,76 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Entergy's 35-Year Dividend Streak Continues: What Income Investors Should Know - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzNxdzVjVnBoQmY1OUkzb2k1cjZHNHYzSWFUc3hCWUZGR19sM1RDQTlEeVJmWlJhTzJJdS1zWWZZbzRCV0ljajZqbXl0YjBkUVd4cDRDMWNUYkllNDdTUmVGSzBIRVNxQS1NSVhaM1NQTG1hUDRQZ0NzT1MtOGVfWFVfYnVabHZBcFQ3MG5QMzNhTG5QSVluZ0Nnd0FiWFY5UTZr?oc=5",
+        "title": "DWS Group GmbH & Co. KGaA (ETR:DWS) stock most popular amongst public companies who own 79%, while individual investors hold 12% - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zd2R5ZElGbE90d0szTG1YSk14Qy16MVVUMzJ6Sko3WnZLUW9SZ0ZmZHpXZDZjMGVTeXhwLUZib2xWZ2pyNzhycjhzSzRmYk10VHhjR3BHQ1h0UFRaYjE4dHhmcWhfb0Vmb0pqWmZDaWp4Z0Y4eU9idGNMcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Entergy (ETR) Receives Upgrade from Keybanc Analyst | ETR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjVtdWpTQzRHRjNLaW14eVZySmZSNUprNi1QZzBUa0MzczRTeUUyZkppSTJmMHBFcFhKaTBpem9FcWJTeDhqNTZyeTZ0Szh6NnE1QjVKY0Rmam91R191TEI5WENUUGRoLVp2VmJWcHVSc21fbmh5Ni1VYlpMeGl0N2xjYUVYWjNTUFFqRTJoQnQwVEF6R09LMkM0elJZdnNqeTcyaVlmaw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Estimating The Intrinsic Value Of Symrise AG (ETR:SY1) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJlcXdhdnUzYkVXbTZkbVE3TDJ4Um5JcmZSQy1KSHBXNElqLW9MTWkyS1Y3VzZqMm10eTVTLWN2WkM1NXpJRGd2czhBZFk0Wng0ZUU4OW5wZFBQTXd1OHlkV09BLXllYjVvUkMyNEdYdlk3ZEY0VmNtVHJkNnoxVjR4Q1M2bU52Wlhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zalando (ETR:ZAL) Stock Price Down 3.2% - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVcyazA4YS1yTDQ1dWJEMkQ1MmFMM1RMajVFY1V5NnlKUGZjRXdwNllyMHNFang3RGN0OUhkcndNbWtGaS1QTEZBTi1ZNkNuWkVCVEx3ZGpjeDZ5UTY5T3pzZVB2dW0wX3REZGRHbENDakFiS0JERXJYYm8xbFJ2aUVwUG5MdlZfQ0RKUzVVRHNfOXRheFRybnBqMEZtRmlHVzVjQ0Ytdw?oc=5",
+        "title": "Merck KGaA (ETR:MRK) shareholders have endured a 33% loss from investing in the stock a year ago - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNem5HT050Vi1oYlJDU3IzZlh6bE50bWtSZ3dkMXVZR2xpcHc5MnNOTG9aWjluYVg2T0JiZHd0bW5MWVlrMEhNMENFZTFkNnBqNFdrQ3hoZ1ZLMXJiNjN4OFR1TGU1c2l1LUR2V0d2LVJkS2FPYmFNb0tBQVhiS01lY0JHUnJMQzI5UDVBS3dnUFdocWRGVnk3NTJVRDBoN0ZiNklMRGFfeEZQRGZleXBJU3RsQkJ5MjBLMUN4ajNBNXVtM0pFa1VBbFlDTWtuSXo1MjA5bzh1YjhMa2dCTzJFOdIB5gFBVV95cUxOZ2NSWUl2THdpSU90cTVFcnVvRU5Fa1hrNHpiYlI4X2d5TVFLbWM5QndodmdTZi0zYUp5N09YZUNLR1BJWkV3LV9FY3RKNE9ORVpIaFBtTFhybUVDNUNza1RzYkg3MUhsSHFGT21GUmVMNUFZU2pLa253NGVpOUdWN0MyMTRrODl4SVZmRHg5SVdkWHB3Rjk1NEJQSzl1RnR1dHhsTHhReDdScXMzN0ZEMUdjMVBMMFNyLVhkSzFTcEkzd29JRlZVMmp6dlNpOGc0N25YbWsxOThXenJ5NXJESUV0cV8yZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Deutsche Lufthansa (ETR:LHA) Stock Passes Above 200-Day Moving Average - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOW1JU3d4b0ptekpvTnBQbUlaeHVCWFZacF94Y1RQdmNvSG8tdTN3cGgxZjNubDZ5UDVLYWJNanFaYjhBWmJ1ampxMXY3LWt3OGp0eXNMM0RybnFrcHdWTUYxYVdjajNma3Z1VS1ueWE2U2g2MVFfSUdwTDhuS1B6TW9mYTRnMU5oR045cVZjQ1dSUF8tU08teHJiYWhkcDBnamNrb3JHRmF4YzVtRnplRGJBY21vZGE4R3dBd0g4eEpWeEZvdkZ0blV4cng3eTN2ZHhETkt0OHdHWGhM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Entergy (ETR) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbU0yU2pMUHJSc0o5Q0pOZnR3TWVJX3B5Ql9RanBWb2ZpOC10LVI3SG1feGR4V0Rva3JGR19OM3hNYnRnQUgyLVVmYnk0TFoyaHJTWW5wSVJtXzl1NVpTVWtJY3dwaEZGYm9IOHJUVjFDYk1BRVN0eVp5VThIeEJfMEVzcEdqYUtLZnQ4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Volkswagen (ETR:VOW3) Stock Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzFZaU51MEpDN3ByZmhOemlpd1QxaFVEVUVhMk1ySnR2WGJfdWhQcU43bE9iell3NGFHazZIZkxETk9CRjFEazliN2xET3NOazNWV2hHSkpDcmw1Xy00R1h6RTAyaG1VaXBEcjR3dm8zakJ0NG9mZXdvT1JQMG5xVExjcUFHb2U2WElyRHhBQWxLQXEzM2QyVnJUV0hFZlFtNU9HY2lBSjRhSkNSQ0NOaHUyQ09rcTdUMkc0ZGpLQkxhTlROSnhvcEVkZ0gyWFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Does CR Energy AG's (ETR:CRZK) Share Price Indicate? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WQWttQmNwV1VvSjJpcUJfNTUydFM5NXpESmtLTXI0OG1FbG1QcUowdUwyN3dMVlQ0YzJrR3J6NFhtMnV4bWp0ZDdnN0huY3VEamlaMTlVVTVQOGJMbEdIS21WMXRpeWdKZlZYb05BTE1FSU1EdDZj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MTU Aero Engines (ETR:MTX) Stock Price Down 0.2% - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZRb2Q2dlVpUHlCSmNTU21ULTRZS2V1aTJlNkEwQkRMZVdJS2o2TDNTX0VWbTdjUi1HWG93bkZEYXRESE9CR3VUZUdKTVNlbE5iMnlYMjA0cXd6WFc1NWdWTE5nUmJ3bUxQbVJlRHBmakQ4bktHUTJkR0dGMEFYMXZ0TTNqX1JQOFF5bVdObFNLd2V6UV9lZ0l3N1Z1RlVHbkVSb1VZc0dQeHJKcm1V?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "SMA Solar Technology (ETR:S92) Stock Price Down 0.7% - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM04yYzdfWmpoQUJQRUhwcnI4RjlWX2Y0d1NUcl9tbXY1VHpnNUF3Nk9JOVBOUjRsbm5UWFdqV3lFYTRSdUowLWNJaUtaT0RZM1dBN2tTMXMzS3doRTlsTnpxUVkwMWI2akQyaWd0V3dHWU53dzdEcGFOa1ZFLURtNlp1S1NtVkRUZEJaOGxXdnRZdVhGaTJYajdOUmFpRUItOXhDRVBzRUw5Y3pGUWJwVGNpbHpaVVdD?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Hapag-Lloyd Aktiengesellschaft (ETR:HLAG) Stock Price Down 1% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjhQZXRHTXhvOVdvTWRNRDk3QzNxdDg4Y192M2tLS0lGeU1uU05kdWRNaTBRbzZGeWRuZGZiNG5HbTlELUluTzlyRXJVbkd2UTAtb25FNWwtNEItQlluRFNHLXZSVmJzMnhQSUtxUElkRDVvNENDaC1TZDBCcXFLNGxQZWE5c0Z3UEJhUWIyRVRSQUN1SzJuSVZ4WkhLcmJsaGpYMkJVLXl1Y3oxUnVTa1I0a0ZqX1VqbWU4VU1uQ2hIdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ProSiebenSat.1 Media (ETR:PSM) Stock Price Down 2.2% - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUxMQ2Vyc3Q4SExJNnFzSG5VLU9rbkxHYUtmbkxYOThLZDNDcXVwWDRjSVVkZmhXNG1oOWZadnNOVGRWNXVvUk5Pa0pKVDJ4QURJcXlya0FCNVVNVkhRM0laSmlkbkp1b1R1cFE2NEU3NmxEcnJXRV8zTTdveWNiSXBZVGdIWWVyWEE0Ym5KMGtYVGVWUm8tdW5QeHFzSVVhRmNXWVdqdWI1N3JMUmFTWGVIZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ENI (ETR:ENI) Stock Price Up 0.5% - Time to Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXg4TXJhS1BGaTFuT0FQTGpGX3FsdjQ4ajh3ZkhrdTdEOEFMa2pVQkU2ZEU1YzFYY2ZCTko1c1lOOWVyNkY0QVFodmhnWGNWT3lPSEwyZDBCWHVRVE9KaEY2NWNzelZWRDA4YWwyMVA0V2JtZnVvbHJCY2NVREs5ZjZyRHcwQWxvSGJoRTY1N0g1X005clJfbmtLNEFDQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Porsche Automobil (ETR:PAH3) Stock Price Down 0.5% - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhPaGlsdHBSX0hVT2VYQXk2T3Iwc1o4R0lDWGdhVlpjSG54al9Gcl8wbGFYUWtMV3BMN2x3WVdZUUZNRXlLamtGWWtKR1IwdndQZ2pVSjVzTkI0RWFkU2ZoaG5Za2lVMzhqd0tyYUlnNnVkcEU2UWRuSnA4UXFPeHU2Z3BMME5qN3d4WHlOWHF2TmRuRl94cGtCYkNLM3dCRWl6YTRmMzFXemNqTHJwTENfd2xmQQ?oc=5",
+        "title": "Deutsche Beteiligungs (ETR:DBAN) Stock Price Down 1% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWlXV1EwM294eFBiYVZBUUxSMEJhLUR5dFR6MjB2MnJpM3BLaE1jYlJLUnlmYXN2bFJKUzU4SmlSZzdXLXlERXpIS2VVTXNYUHVWc21uNEE0aDlXUWJHQ2hacE5BaHJ3a3gtWXRWSUlqZDBBcG1iWEMwYURzNjhOVlRwaFE4UFlHcTlRcGxjeUg4dU5iRWc1RGZKNEpTUGQyN1ZhYzRVY3BncVlvWHRFbC1hX2lza1ZaYnc?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

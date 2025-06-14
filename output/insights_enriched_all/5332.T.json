@@ -2,16 +2,16 @@
   "ticker": "5332.T",
   "name": "Toto Ltd.",
   "sector": "Materials",
-  "market_cap": 581213028352.0,
+  "market_cap": 598097592320.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 50.041935,
-    "PB": 1.1629894,
-    "EV_Revenue": 0.774,
+    "PE": 51.279152,
+    "PB": 1.1785825,
+    "EV_Revenue": 0.798,
     "ROE": 0.02406,
     "ProfitMargin": 0.0168,
     "GrossMargin": 0.3507,
-    "DividendYield": 2.77,
+    "DividendYield": 2.71,
     "DebtEquity": 12.797,
     "CurrentRatio": 1.623,
     "QuickRatio": 0.969,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.02654309195406562,
     "ROA": 0.03778,
     "PEG": null,
-    "EV_EBITDA": 6.715,
+    "EV_EBITDA": 6.812,
     "BuybackYield": null,
-    "PriceToFCF": 30.22546601539926
+    "PriceToFCF": 31.103532730191723
   },
   "technical_indicators": {
-    "RSI_14": 40.374955125990034,
-    "Momentum_10": -3.918411164787977,
-    "MACD": -25.65172863942098,
-    "BB_Percent": 0.1070371730101828,
+    "RSI_14": 44.8600890835519,
+    "Momentum_10": -2.025384823116392,
+    "MACD": -21.18120286702515,
+    "BB_Percent": 0.2624705582377405,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9288855868216636,
+    "ValueScore": 0.8902591767238224,
     "QualityScore": 0.3372853122732834,
-    "SignalScore": 0.6786779289676088
+    "SignalScore": 0.6227021685076013
   },
-  "volatility": 0.0196285590952686,
+  "volatility": 0.0192495511496785,
   "beta": 0.949,
-  "return_6m": -0.1079754116061841,
+  "return_6m": -0.0854358106238911,
   "analyst_rating": {
-    "recommendation": "buy",
-    "analyst_count": 10,
-    "target_mean_price": 4321.0
+    "recommendation": "hold",
+    "analyst_count": 9,
+    "target_mean_price": 4212.222
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4063.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4076.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4214.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 4106.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 4117.0
-      },
       {
         "date": "2024-12-13",
         "price": 4016.0
@@ -525,12 +505,32 @@
       {
         "date": "2025-06-06",
         "price": 3580.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3612.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3672.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3698.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3684.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3628.0
       }
     ],
     "current_price_data": {
-      "price": 3580.0,
-      "change": -33.0,
-      "percent_change": -0.91
+      "price": 3628.0,
+      "change": -56.0,
+      "percent_change": -1.52
     }
   }
 }

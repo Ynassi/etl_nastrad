@@ -2,16 +2,16 @@
   "ticker": "EXE",
   "name": "Expand Energy",
   "sector": "Energy",
-  "market_cap": 27972052992.0,
+  "market_cap": 27648401408.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.996514,
-    "PB": 1.6237049,
-    "EV_Revenue": 4.943,
+    "PE": 16.6621,
+    "PB": 1.6049178,
+    "EV_Revenue": 4.921,
     "ROE": -0.07096,
     "ProfitMargin": -0.15057999,
     "GrossMargin": 0.41367,
-    "DividendYield": 1.99,
+    "DividendYield": 2.0,
     "DebtEquity": 30.912,
     "CurrentRatio": 0.589,
     "QuickRatio": 0.476,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.2721338270401949,
     "ROA": -0.02259,
     "PEG": null,
-    "EV_EBITDA": 26.483,
+    "EV_EBITDA": 26.365,
     "BuybackYield": null,
-    "PriceToFCF": 15.641806957915025
+    "PriceToFCF": 15.505999305206789
   },
   "technical_indicators": {
-    "RSI_14": 61.41378056501992,
-    "Momentum_10": 2.7493699530044236,
-    "MACD": 2.4566236475744887,
-    "BB_Percent": 0.7928350195816827,
+    "RSI_14": 56.48685367673894,
+    "Momentum_10": 0.0559738594192869,
+    "MACD": 1.2987826538964242,
+    "BB_Percent": 0.6054506887141374,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332952538245524,
+    "ValueScore": 0.8830904583685094,
     "QualityScore": 0.3711672249571282,
-    "SignalScore": 0.5047577659608367
+    "SignalScore": 0.5516825810021662
   },
-  "volatility": 0.0188610036866956,
+  "volatility": 0.0190222648131204,
   "beta": 0.476,
-  "return_6m": 0.2304965354702766,
+  "return_6m": 0.1920647249332807,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
-    "target_mean_price": 128.37038
+    "target_mean_price": 128.55556
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 97.13
-      },
-      {
-        "date": "2024-12-10",
-        "price": 97.02
-      },
-      {
-        "date": "2024-12-11",
-        "price": 99.6
-      },
-      {
-        "date": "2024-12-12",
-        "price": 99.66
-      },
-      {
-        "date": "2024-12-13",
-        "price": 98.53
-      },
       {
         "date": "2024-12-16",
         "price": 96.71
@@ -537,42 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 117.35
+      },
+      {
+        "date": "2025-06-09",
+        "price": 114.94
+      },
+      {
+        "date": "2025-06-10",
+        "price": 112.57
+      },
+      {
+        "date": "2025-06-11",
+        "price": 112.23
+      },
+      {
+        "date": "2025-06-12",
+        "price": 114.96
+      },
+      {
+        "date": "2025-06-13",
+        "price": 116.46
       }
     ],
     "current_price_data": {
-      "price": 117.35,
-      "change": 1.78,
-      "percent_change": 1.54
+      "price": 116.46,
+      "change": 1.5,
+      "percent_change": 1.3
     }
   },
   "news_sentiment": {
-    "summary": "Expand Energy (EXE) est au cœur de l'actualité avec une montée en flèche de son cours atteignant un record historique de 118,34 $. L'entreprise a récemment tenu son assemblée annuelle des actionnaires, dévoilant des résultats positifs. De plus, elle a obtenu une triple notation de qualité après son entrée au S&P 500 et a rapporté un flux de trésorerie opérationnel de 1,1 milliard de dollars. Ces développements renforcent la position d'EXE en tant que valeur énergétique à surveiller, bénéficiant d'une forte dynamique boursière et d'une reconnaissance croissante sur le marché.",
-    "sentiment_score": 0.1,
+    "summary": "Expand Energy (EXE) a récemment attiré l'attention des analystes et des investisseurs, avec plusieurs hausses de prix cibles de la part de KeyBanc et d'autres acteurs. Le titre a atteint un niveau record de 118,34 $, suscitant des questions sur un potentiel de hausse supplémentaire. EXE est considéré comme un acteur énergétique à forte dynamique, ce qui soulève des interrogations sur son attractivité pour les investisseurs. Les réunions d'investisseurs prévues par la société à Minneapolis et Cincinnati pourraient offrir des indications sur sa stratégie future et influencer le sentiment de marché autour de cette action.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Expand Energy (EXE) Gets Price Target Boost from KeyBanc | EXE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOURnR0RfOTgtZFVuS0NTelFfUTE1S2wwNk5pbXJhSUNnbDNjLS1zMmo3dXNJSUlSR0sta0xDR091MlRJVEt1QnVmRjhIbmtlMUhuWFB3YTE3Ujl2N1AtVVFYVnFsb3A1X09MNUFYTkdPWWtWbVE2cXM0dHJndEtTamVkNDNCTTRmVU9VR0RLTVJtdk4wWlE1REJUOEZaWmhmdXhGdDUwYnBGamMzYjBqc1JmVDU2MWFoSlFfdF9udzhoOWkwaDdjaTdVVEhUaUJubDlwdnA0cGc0N0FoUy0wa3cxTm5mRFlIUDR6R0JsbU90Vk0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Expand Energy And 2 Stocks That Might Be Priced Below Their Estimated Worth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBYjQ0Zl9OSkN0X0VrTmJMYkpxU1l0MTNxNlN0eEhmYkRtUUdwYWNYV0ZxTEdhSlNFaEtJUERwc2pZVlJFUDZnYWJxeFh4TzI1RVJrVnpDZEFsOEFpVmJWSEw2NzlzYXBIQ3dRLTU1M0drNDNXbzFnWFhvdDNWbms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Breaking Down Expand Energy: 17 Analysts Share Their Views - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjNFVFU0YXI5ZlFlT05iUmYwWllkU0tSclUtRUNGRXV1ZTlSQkFQYkduNlFuWUwzY3BabURNWnZaTkJOZm1uMDRycXlCMmlJVUZ6R25Cd2w3Vl8tTW5WY1FWczZORVRVMnAwYjVORUU0TmZjdDNORzRmcjRNZW5EbmZTUGpCcjl6RWwxM2NKUnNVckpqamNYMWlnS1NvaVNMQnZrZHhJdjliM2NVZFFEQnJzSVkyNDJlT3d3bFJxMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expand Energy (EXE) Price Target Raised by Keybanc Analyst | EXE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGVxUGpDeGNrSGdDOWljTUNaZ2EyV3hQSTU3cEpWWXQ3OHY0aFlPRUFnMjYzM1Y4MTFjMGRwbXRRaHpXelgwYUpKU2kxdjRlM0dyV1JiUV9talBoWk1DWDhHRkVRZUtLcFloXzNmMkF1UlhZa3FYTzZqQ2N0dktGdGxzclZHRV9yVnpIQUlKaml2V3ZqZ213akR4V05xQ3hscHBSaFZWNTRZQmhDSXZr?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Expand Energy (EXE) is a Top-Ranked Momentum Stock: Should You Buy? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpjRlJQVThvQ2gtYlFtdUJBeW5oMUVGbUM4WmlBdDBjelY0S29Ba01nb05aVDBSWk9oZkRuTXUzRHdFdjdLUm5UNXJFVTAwNS1Pdlpobm9ZTENwdmFJV0ZWalV6YUdLeTctUkktNGotSS1sVzVLWVBCMmVZM0pDSlpKVmYxamk3YmxQbnNZNGVWeWhP?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Oils-Energy Stocks Lagging Expand Energy Corporation (EXE) This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamp1RFdqYjNCSm9ySjM4R2VtS3Z5VVdKRjB4eEx6RlNQbTg1bm01Zk1vZWY5TVNkLTFuU3JvWkdOU0hXenVoVmFnZm9mVGk2TEtwMUtYTFRCY3NhM1I1TlI1RjVLMDlyazRKdWx6WVAzN0xNWlF2TkRpNWM2cTBuUTRtd2xXQQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "(EXE) Equity Trading Insights (EXE:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE9WaFBFTHNBd1dJc19sOXFxMW51WERPeUdpRDF5ekRFNk0wZ0ItY0xRNEdteXJwRzg5azAwVjFBaFFON2h4b21ZMmc4Zm1YaFVPcUhoZTJYVkdmWlhsZGp5WVpkb2hwS0x6aVh2MkYyN3FpX3dtTmQ0RGJWWnhDdlB0RWhSZ1hLOE8xNlVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KeyBanc Capital Adjusts Price Target on Expand Energy to $135 From $130 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNW85OUxfZ2ctUHNYa2pQYTFZZ0RnX1Q1Tzc0VU1tYWpuSWx6WWV3d2RUOENGSDM0QzZqVGpKOENJN2doZEc1NXhDam1VUFFqdUpFQXg0cjJWN1FZRHdNQXY5aVUtVEE4ejI0bmk0ZGI3YW5wT3RyZU9SYnBKdzhqMkRzdGszdlVfRXlWSThEVkJTNzVDWWlTTEVydmRFdEZRYWVNV3pZYU1oeWNUYlJFUXVEUWVtU0pSOExTYkpWbm1HbG9JNnNjMjdtYUtNRjZ4RWRpaEpjOFdqYnZxNV9ZLW5HVVJ4NjJKb1ZacEZxOWNXMERYalE?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Is Expand Energy (EXE) The Best Energy Stock to Buy? - MSN",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEgzY0ZyekY2ck51cUpnNlV1UHM3ckd5Nm1YN2dnZDdIZzRaUmdCbV9KNUFZZk9hOGc2dkVDODNLWDJHX0kzVzVLd1dHN2JFbDdSeVNGVFp4UHNBTndPaWNOSFA0dXMzRFVTVEpnUnRiVW5PRkFTVGNneHRtcjE3YnVtV1RmTXExT3R6Y0N6aU1uNkNjM1hlYkt5MVVrRFZaeTAw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Expand Energy (EXE): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CN0h1Mzh1NW16anlwdUU4WlNiZnlYWWNUS2h0S2ViaV9Bc1lnV1ViTlA0T0xRT0NXVkgzT1VYX082Umx1TEdiMFZEM1pkMlFndmM3Z0VBWFZqQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,38 +601,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Expand Energy Holds Annual Shareholders Meeting on June 5 - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdV9oYlpfOFVUc19CZExEdUN2NDJzejVxM1pDTHNQY19KXzQwMVZxOG5EVS1FYmlTbDlta1BEdHRQMGJaSjNHRVZ2ZW9PQzN1R1Y2ZjF0WjVrQ1ZDSldVV3JUNDNMbWlITk9vcHdiWDBHdHBRRGo1Q1JQbjlsYWowcFRkMkRjTzgxM01UdXV1ek84cUdWQ042MFRzNGJIWUFrYWdBY0h1d0ptWmpLclE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Expand Energy Corporation (EXE) Announces Results of 2025 Annual Shareholders Meeting - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTG5SOWt3dlJHcnlDZ3hweVhyLW0xRlllOUJKbUhVM0hzdlktZmFhMHBkM1NXVXo1UlFzc0F4eTNsU1lkeDlhZ1U3Vm1ZYjFuSWgwMHc4OG9GOGF2T0lrVVNoamNBclhJYzh3azdfcEtLWVcyeml3b01zWldER2RwTmpCb3BDU202aVZEY2djMC0yS2pCTE11OU1GbklsM3l6UmFkWm9FU1pXSkpzQTV6T2pVZHpwdHNsOGVRZGp3cnRrMmh3c1pCNFZiMGtHQXNmNi1wODIxVEttOTBWZVdaQlFjbmNhT3ZoNDNhYTNrUVAyTHhFdmlDang3Tnd4R3VnUEVKag?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Is Expand Energy Corporation (EXE) Stock Outpacing Its Oils-Energy Peers This Year? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDhpN2UtVFFtYkhNVXMtaktKS3hjbFRVTTdIM2R1UWIxNWtSUDZKX2V5WEEwTnhZTW5OVkhKQTg4Q0VfOHNPWWZRYmtZMG5Tck84LTVqU0sxdk1rRjB2NF9FTURJam0yTV9Vd2VQRXQzeU9hSXFtOGFlMUQ3emd5Qks0c1V2QTRt?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EXE stock soars to all-time high, reaching $118.34 By Investing.com - Investing.com Nigeria",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmpIRnUwWFZjMWVuaC1zZ2ZsQzVGNUNfQklralBYWFROVDQzQl9Ydk5wRVlYRkdlemIzZFJjLWEzR1BHZDQteU5lQzZYSXBDTF9zS295MS1oa2trLTNIWVhsbmN4ekk4cFVxMGlZSUFzSmtjV0p2bG9BeUhsS0tMSzY2elVOTGNjTXhTNFRKYmt0SmRCdm9ZN3k3WlZSSDBuQkppbw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Are Oils-Energy Stocks Lagging Expand Energy Corporation (EXE) This Year? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObS00Qmhpdi05OXJDb0l0WkxEWVhwVkdtWG9KZEs2RjJLdFRodjhuUmlIX3RGYWZiMTNZZGNnU05lMXZCM2Q3M3IyMGNPcFlFcGlGWURYa3ZsMUo5Qk1rWTNJT2NJSmU0WjBzY1FVRjVzY2Z4VnVweWlSbER6cjhwT0VVa01oOEV4T0RNSVpPdmNRZ2N2dUlCWmMxY2Q3dw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Expand Energy Corporation (EXE): Among the Best Energy Stocks to Buy Right Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVZpRWJxdEhybGJjRUktU29yWVNoNUZ2ZjM1YzRHb0xYVURvVDVjdnNCNlVDQnZLOHVOS0RzUzFSTmxsTjVsYmRhbkdPb2ZoLVJkSXJNeXpqUllkYWV5cllEb2xtSm9Rd2NCcWpjVEk2UWhwbXJiRml1VXN2LUkwbWFqQnhIckk5?oc=5",
+        "title": "When the Price of (EXE) Talks, People Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjZoTHFBdHp5SF9qTFBwckZvbnVIbzNxekhyX00zajZCTU12bjFlaEM5djlhS0ZfMy1tWkJBMlpOdHZOdTV0b205TF81U01RcnFfeEFtekYwVzh4ZUw1RXpTTG5OMmVzQ0hWVFBFVlVaU1RIUEdhS1dzVnB4cm85T2FwbFhoZHVOVTJ6bHpaNXotanFMMWFJcUxzcUVQM0hEX1VrT3pzeWtJRnp3ZFhiOUo4al9MUWdkV2lwTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bernstein analysts highlight EQT and EXE stock as best ideas By Investing.com - Investing.com South Africa",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnMxcE82QnlCWkVUQnhBc2s5MzZoclRLZGg5R2JzS05FcXlLZkxPTVQ2cDNFWklaVGo4XzM0TExPRm5iOVYyTmx3ZHB6bmhoT0dSc2JoMzRWU0hobmxYTXVSb3RHaldpcDF4Z1VBRV9vcERHOUhKb2xHUGNZRzdEcjYxb3ExeXh2VS1QZ1VQalBULTh5VzZKSlNISGhPd1pOSjQ5TnFTWW4yb2RHSlRacTlFdDN6Xy13YjBN?oc=5",
+        "title": "Expand Energy Stock: Is Wall Street Bullish or Bearish? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRk5mMkZfZ2haWG5XRkl5TDJSTTlEVDMzS2V0NmVVZHdTcEl6UE5IZlg4OEtjdktaWGVWam1Ya3liSnRzM1p0U0J1MmpuS2hIQ3JPV2hLR1JUa0NRdlBubEtkM1FzWU5JTmhUX3ZJbS1vYmxLMmJGbzdCbzZFMjNOaFdJRllWTU5kUjlOZERLREk2bF9pazd0TGZod3lnRTR5MkV3ajlOWjVBb0ZRUjg4Z2xXWUF2QnVKaEVuNmFNNkFkOTRCRkkyY2lvSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +621,41 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Expand Energy (EXE) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZGVac1RjNVZJOFctUXJnYUxVR1hIVG1ndmxPV3IzeFVidnZLbnQ3cHR3MzJCeVlZUWtUOVNaSHUyVU5hWUpFQXpXbWJmRmpnc3A3bXBNYk91ZnNqMjdUNlYwVk5oMVRDNlhOZGNQdm5hbDNZRVFfblRyOWxPQTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EXE Plans Key Investor Meetings in Minneapolis and Cincinnati | EXE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZE9fMDdxZVpvMDRLYXlVT2dORlNZYVVZZFNXVDNIZm9CX3I0bS1BcjJQZlRYcFFaY1Y4S3RSeThoZUNpN0ZDMXowS1JJN0Z1MjFiM19Dbk5rTkNIMkZOOVVSX1M0T1QyTnJwaDdWRlN4ZmZhc3pMNG82aFRpeE4wT2NDcHg1ZXgzMWd5UGxkX0FQLXp5UVZzZklqWGFnZlJWdGF6QUdQWXpnZk9HTFpDSmhjdVpudw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Notable Tuesday Option Activity: DDOG, EXE, GEV - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkczV0FtWkFyNmNxZzhwaWNicVpvVHRrcV9fVFZwcGcxS01ycUFDRERZejhXSTNnOVFDcGhuaGZqSkdqMW5hRWlLRllBN2tMUEswNGp4UmRfWjhkWTNsU2ExaGpELVVQNlN5ZFVVRy1Yc2ZSV1h2S3NlNkxVZUItQ1N3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Is Expand Energy Corporation (EXE) the Best American Energy Stock to Buy Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnJoMnp2WUo5eU9nMzBpbnBucWNUNVFWeUVXSTFtN21ORWtFZVNZXzVQTjJrZFBMb3NjZjBELS1JaHRDampQLWExWlRJTlVxNC1fQkJwRXFsdEhXWnlsQ2JDOF9kU2VIM3VGcnUyZTFoY18xWlN4NW40WUpQX2JMc0sxb1hVT3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Oils-Energy Stocks Lagging Expand Energy Corporation (EXE) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamp1RFdqYjNCSm9ySjM4R2VtS3Z5VVdKRjB4eEx6RlNQbTg1bm01Zk1vZWY5TVNkLTFuU3JvWkdOU0hXenVoVmFnZm9mVGk2TEtwMUtYTFRCY3NhM1I1TlI1RjVLMDlyazRKdWx6WVAzN0xNWlF2TkRpNWM2cTBuUTRtd2xXQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Expand Energy Corporation (EXE): Among the Best Energy Stocks to Buy Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVZpRWJxdEhybGJjRUktU29yWVNoNUZ2ZjM1YzRHb0xYVURvVDVjdnNCNlVDQnZLOHVOS0RzUzFSTmxsTjVsYmRhbkdPb2ZoLVJkSXJNeXpqUllkYWV5cllEb2xtSm9Rd2NCcWpjVEk2UWhwbXJiRml1VXN2LUkwbWFqQnhIckk5?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Is Expand Energy Corp. (NASDAQ:EXE) a Small-Cap Energy Stock Hedge Funds Are Buying? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR19hUGhVNERHaUdqMkN5V0dweC1wN0FRbzB0YmxpcjVpUlNzUTJ3TFJvRjJUTlNEXzdKX0dmbE9SNnlnRlpiV1FYVG5FUExWeC1JVlJKVGxHRVZJZ0Zhem1oU3RlQ0FPWEN0bk5zMndtREhIVms3YlFLczdPa1JGRw?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Bernstein analysts highlight EQT and EXE stock as best ideas By Investing.com - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmZ6MU81bmk3aGY2M2dmOXIxTWl4Q0ZrY2dtUUtPY3N2blhpbzV0RGpIOFJYOVpUVmo0cGZJbkw5d0dVY1Q2X05vMGFucUVEblZ1OW05WkRVM003S2lndkRhczVlR09iUGRVY3N0WW81b0RzbW9QWE1tSVBrX1c0SkpSbkxzWjViWFB5SUlYZEFKRnlMNlZkYUd4SGZIQ1dOT2FxalA1M2RKdHN4RHl6WjdySFVJY1owbW53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Expand Energy (EXE) Up 11.1% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92NVhRRVB1dktkUW9NUmZ3cWdDX2tfZXdEM1F0QVBZOVNnV3JtR1N2NnJBWkhmcTdZVkpWemtTVk00UVhLbVVkejViejRKZDVDakVIcUhFbjVYLV9ZcGdtb3hLR0RvVUlwbE5BbjI2T2JHUG9FZmZN?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Rep. Robert Bresnahan, Jr. Purchases Shares of Chesapeake Energy Corporation (NASDAQ:EXE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjRhOGhOUU9Rem9pdmtNRkpfeE11VW52ZTVqZ0NxNUlaU3dvbVpwcFAwb0RwbTFRSHVBcVpraUd1Yi1ZU2UySVVGcVFNT1YzM1l2bk5vazZ3cVQ2VEJFS1Ixc1htTVRxcXhJWnVxXzAycU01OGo2cHBkWWs4b0NNTmpmS0pxS2U0THlrWW5nZVVlc2x1dnJBS2pCVy1oeFA5LUxyaV9sTjF1WFE3Y2xTbjBNQm0tczBmcHJZWGFHTUhvczdZYlFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Piper Sandler Raises Price Target for Expand Energy (EXE) | EXE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1hVUjdoR3BEUTNaYTh4NUlKNmtkbWxkOEFjRk5vLV8yWmxtcVFyWko2OFFFcV9sXzJfUE92d1o0dVY4RVRGYW9PdFBjWHNqX3JHZUdEbFRpY0dpZFJkWlZiQzVDQXhJYmcyTnJ3S1FUZGRVZXd5UFJMWWt5LXpsTmtlYnVaRXVXblZMOGpGbWVOekQ5cGR6XzRvc2YwbFkyOWtyMUxPOFh1aHVmNnNn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Expand Energy Achieves Triple Investment Grade Rating After S&P 500 Entry, Reports $1.1B Operating Cash Flow - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUJpVEZERUloQzV2NnJtWm9zTklyMXRaNFY1WGU0cklsLTFmXzZjSGVSVlJpWnVBNlFKNmpfNlFSZWJCbnc1S2ZtejJhZXJrdzVfd0ctOW9iMmhMVmlkRlpSS3c5bDNuZ0xwQmhEa3EyYTU3aUQ1aE9vSEE0NXRkUXFzUlJNWGNMelBzdW5CYnVvdlFheFJqREd5WGk2NGY5SHR4b0lNdGZSdw?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

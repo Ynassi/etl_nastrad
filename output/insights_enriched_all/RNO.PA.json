@@ -2,16 +2,16 @@
   "ticker": "RNO.PA",
   "name": "RENAULT",
   "sector": "Consumer Discretionary",
-  "market_cap": 12755993600.0,
+  "market_cap": 12572888064.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 15.808824,
-    "PB": 0.3869377,
-    "EV_Revenue": 1.088,
+    "PE": 15.823529,
+    "PB": 0.38729766,
+    "EV_Revenue": 1.091,
     "ROE": 0.028859999,
     "ProfitMargin": 0.01337,
     "GrossMargin": 0.2078,
-    "DividendYield": 5.1,
+    "DividendYield": 5.03,
     "DebtEquity": 230.5,
     "CurrentRatio": 1.045,
     "QuickRatio": 0.959,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.14424837506107724,
     "ROA": 0.02076,
     "PEG": null,
-    "EV_EBITDA": 9.956,
+    "EV_EBITDA": 9.982,
     "BuybackYield": null,
-    "PriceToFCF": 1.5726056111369593
+    "PriceToFCF": 1.5500316900161584
   },
   "technical_indicators": {
-    "RSI_14": 33.963312014677044,
-    "Momentum_10": -9.587891592980156,
-    "MACD": -0.6459296106993264,
-    "BB_Percent": 0.0623811356089139,
+    "RSI_14": 37.3715809017725,
+    "Momentum_10": -5.156456803682217,
+    "MACD": -0.7702287749902226,
+    "BB_Percent": 0.2065993701934736,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9342601429722924,
+    "ValueScore": 0.8950918019059404,
     "QualityScore": 0.2686471872307922,
-    "SignalScore": 0.7574401568902377
+    "SignalScore": 0.6701425700808947
   },
-  "volatility": 0.0179896532326077,
+  "volatility": 0.0181696972175336,
   "beta": 1.414,
-  "return_6m": 0.0319735141075023,
+  "return_6m": 0.0080156641331394,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 57.5
+    "target_mean_price": 57.44444
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 43.69
-      },
-      {
-        "date": "2024-12-09",
-        "price": 43.76
-      },
-      {
-        "date": "2024-12-10",
-        "price": 44.1
-      },
-      {
-        "date": "2024-12-11",
-        "price": 44.08
-      },
-      {
-        "date": "2024-12-12",
-        "price": 44.11
-      },
       {
         "date": "2024-12-13",
         "price": 44.77
@@ -545,37 +525,72 @@
       {
         "date": "2025-06-06",
         "price": 43.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 43.45
+      },
+      {
+        "date": "2025-06-10",
+        "price": 44.47
+      },
+      {
+        "date": "2025-06-11",
+        "price": 44.24
+      },
+      {
+        "date": "2025-06-12",
+        "price": 43.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 43.04
       }
     ],
     "current_price_data": {
-      "price": 43.0,
-      "change": -0.15,
-      "percent_change": -0.35
+      "price": 43.04,
+      "change": -0.71,
+      "percent_change": -1.62
     }
   },
   "news_sentiment": {
-    "summary": "Renault SA (EPA:RNO) est sous les projecteurs avec une forte présence institutionnelle et un contrôle significatif des investisseurs individuels. Malgré une hausse de 40,5% du cours de l'action, l'entreprise a connu des turbulences avec des usines en Espagne reprenant après une panne de courant. Cependant, le rendement sur cinq ans de 190% attire l'attention, même si les bénéfices décevants et la chute des actions de Renold plc (LON:RNO) ont suscité des inquiétudes. En parallèle, un partenariat avec Geely Holding au Brésil pour les véhicules électriques et l'application de l'IA aux EVs par Renault montrent une orientation vers l'innovation, malgré les incertitudes liées à une éventuelle fusion avec Honda.",
-    "sentiment_score": 0.167,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.08,
+    "summary": "Renault affiche une solide performance en bourse avec une hausse significative du prix de ses actions, portant les gains sur cinq ans à 190%. Malgré des résultats financiers en demi-teinte, la société reste ouverte à partager sa technologie pour abaisser les coûts de production. Cependant, des signaux mitigés émergent avec l'annulation de l'introduction en bourse de sa filiale de véhicules électriques Ampere. Les investisseurs surveillent attentivement les relations de Renault avec Nissan et l'impact potentiel sur l'alliance stratégique.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "France approaches Renault on drone production, Renault says - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkdaUXh5V0FlSVVRR0JRQ3draFgwbUhxTm5pY0RpUDdIc1M1bUxuWVo1VktEbFZ0MFZLUHp6UlNrTjUtNXpKR0UwdWJNLUR1a3o5eGIwNThZMnViU2NxNU12SXhxcjF5OTZDSzhvdDZDMHdQX1E4QkdNQlVmQ0VMSUUzSWFUUUxUZ1BtMDM3Z0hldmlXVGc?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Institutions own 29% of Renault SA (EPA:RNO) shares but individual investors control 34% of the company - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWVNS28zVjQtX0wwaGxvaGNnWFZFcVFVM2hOWkpPVDN0WU9oZUx2ZlNBa0czOFpkV3JmS1BibDZTSUhka2NkWVdvM2s3VVBzc2VQZ0ZYS3RqVU9rZV9sY1pRWVZQYi1vcTZvSlpsdjFjNTJDYjN2NzNadWl2Q3B4dmRjQ0hDTjdONlRpbE5jc1Mzci1GeURVb001eE12LThLMXk1Rk1fanEtb1lFbDJwRGxyTDl5aWRITU5XRE5EUEtUTmI2TWNnbkRqYmTSAdIBQVVfeXFMUHZGQmlld2NXVEhJd3ZoNG1aZm9yOGpETzRFWXhXMkVDYXlHWGo5RklFU3pEbnYxM2hSNVNyTTZ5eW5xNkp2NFFnc2xMb1FOLXdMWUdqdVdIMHlOZHEwcmVoS19BeklvUW5yV3JtR2tDNjc3TTRVb2ZCUTFIck1ZQmszdXhKbzhKM3RSRXBYOG9uTFdMc1hNLVc2eTlSRXRVLVVfLWg4MnZSNFNyZnF4dU5XM29xbG5ENE1ZX2pHMU14bGxLQ3F0T1hxSDFvRkM1d2lB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Renold (LON:RNO) Stock Price Up 40.5% - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQU9KTkJ1Um8xM1NEbmZzT1NFdDNpZFVkQmZzMzF2eE55U3ZsdmVKVjFMb0FuQnZSRjB3a3NoTS1mT19IQXRmQlh6S1ZqNk90X1pvazcwV01jd3NPSUoxZklGcmlSR1Q1SWRUNU9KM3FIdUUzQ3N1Z29TREF4Tk9kdW5TRDZPcklfczQzSzEtUzI5SFJjZVpXb1NlS3NvTGM?oc=5",
+        "title": "Renold (LON:RNO) Stock Price Up 40.5% - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUsyMmx0YkZHN0doV1JWWFlncU53bkVreWVlZTQ1b25UeS0ta1l3UFJwYnp6cGJkRjRMTnpEc29Va01QejJxdm42SDhCRk1uYk9IbXZjd2FLUl9iSHFKTVl0RGJVME4wczZuRFNKcExUMUJJd2JJYXQyN2k4RFdTSVZqZHF4TEdhMXoyTjZhcUtKaFI5WHRjck1ISHJvZTM1Q0pIREI3SHlqdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Renault, Stellantis' Spain factories resume production after power outage - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVJrd0E5LXhvaXlZSC13YmZpaFNkZU96UDg3TVh0b0tnYjBpa0lOY20wZUdDRFpZQVlNeGdNVURFTGMzajRGQzktUDBzck81T3RRTWhZOG0xSkxjVFRpMVdfRnA3Y05KdzJJSk9sV2czYTB5b0lKcnF5UzF0WTVVYmhYZWJ5MGVZWUdoakh4WDlCZkNC?oc=5",
+        "title": "Renold (LON:RNO) Stock Price Up 35.5% - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0FlTTJTRGRMMVBFT3huay1IZ19ZYUk2YzN4MWNValhZd0VUZlRCbXE5MzZ5ZzlSMXhKUTd6OFVCTVhKcllRbmdZOU84cFpvaVVULW8zWG51Z3E4VVhVZlZkelRUU0F5dDlzVmhKOFZmSXdDVXI1X2N6R2FnMXBUbXBQTy1ZWXFpcW45UmIzT2pPOGhPSmxKbDNwVEFDdGNvY3hF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Price Is Right For Renault SA (EPA:RNO) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHVMRzlfcEZ5VE9EVWtCTzlHSERfRmgxdGVEYTVpV0tHdVRLSy1lOHdodXk5WWJtTHZ0M3VLQWU2RU1SaHRTd29ON1FWOU5KSnl1TU1tcTlLYkdwZjFWNllXT3JpM3oyMllQLTk4Q0pCRHZDejkzN2ZUWFh2WVdINURtR0lYSTlkZW9oeHpBVkx4cWFDNGdyQlBXdzRYakpTcC1iTXJPMXkwS1hZUTVycnZB0gG3AUFVX3lxTE0tamJpRURtdGgxX0pQV1N1ZEdNbGNjaFdFMExVZWMxa0R0NWMyRURCb3A0MzlUWmpHMXNNaWpIVEJCQWhyd2pBSkYySHl5UUx6LVcxNHU1TzNDeVY5NS13dGY5bjZUam1DUjB5MU4zeUlmaTJtTk5hZUpGQXUwUElQdW82VWpQY211LTVQZVJ3bXN0Y0dmX3JMOC1qUmtxY2JuT0NmN0hZSkxoQW5nOC1VODBHdE8tQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nissan seeks anchor investor amid Renault share sell-down-report - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzNYalVIVjNaMWNyRUZySXBDN1UtdU1iRTFPajZRby1BNzZmbWdXUHVnbGF5eTZQVkpRQndZQ1BzcEVaY291X1Z0VUZUNkFwdWx2OFBkcFRYSS1EbVhURWRrQkpLUmZ4Q0ZudkE5NzEwSng5QW8wVGV0TFhwbnY4NUFNQndiQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -584,14 +599,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "BRIEF: Geely Holding partners with Renault on NEVs in Brazil - Bamboo Works",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2pDWGVQdkFQaGNyWFo2dXBKR3VCOENQZXB5ckJoUTk2dmVmd3BaaWtYcTUwOTF6dE5lRGFpemZSM3JnQ0E1OUswd2Q2T3lHWGoxenlrR05qeXRCRTd0QnVfX0M4dnZLU3ZtNlJla2s1Nkc3eDFIajBDSWV3S1BjdXg4R2pycGVM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Amazon, Foxconn, Volkswagen: Trending tickers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTW1MSHV4U3N0S0RLZ3kxcTBQZTY1VTUyRzNFeUttYUZRZFVyR2VaS1BkM0FrTkdsc1RjSUF1VjYzTVNQNGtEOEdXeC1ubHpfRUVBQnJXZXJ6WXY5ZnFNNzc0ZnZ2N2Zqa1N5ZEIzZzdRbjUxVzVBbjBHQnF3ZmVpeWFaS2JON3BxWmxKV1BJRTNXSEk?oc=5",
-        "label": "NEUTRAL"
+        "title": "Renault still open to supply technology to rivals to make cars cheaper, CEO says - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNl9nOU9BOXVXMWRqV0NzWGpHaEJCVjJhd2xEdkZhZWYtRWZVMjdJeEp6VlVONE5ud0xleURQUENrZUFLSXRVLXNjaTNUSFZRaVJQVDFaamxLLVRHNy1qSWItZjRDX2ZUbXlja0RzY0p1MEFsaHRrSGNhVU1JUFJNTlN3UVlYVlBMaGwtUTh3?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "We Think You Can Look Beyond Renault's (EPA:RNO) Lackluster Earnings - simplywall.st",
@@ -599,14 +609,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "What happened to Nissan? And what happens next if a Honda merger is truly dead? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHNzVnFDbGNyTjVDNl9weWRINzVRRFFQVF83MVI2T1Noei00bW9fMkhhTmcxRDRlX2VwQTYxbFhITk5GdzNZTmF3c3VvNGdCbXp0SXZ6cU9aMG5fcXFYYS10SlNvMVNWWkhsRDFhSjRGTi0wa2R6Wnh0UkN3VTJ3TzhLQXA5TVRaVkJ0WkF5S3k3YUg2aXlSNUk4b3J6aW5HeTJVQUYwVnZIUWJla01SNlU5X1VnMlhjRXpDRUdXTGQ?oc=5",
+        "title": "Renault, Stellantis' Spain factories resume production after power outage - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVJrd0E5LXhvaXlZSC13YmZpaFNkZU96UDg3TVh0b0tnYjBpa0lOY20wZUdDRFpZQVlNeGdNVURFTGMzajRGQzktUDBzck81T3RRTWhZOG0xSkxjVFRpMVdfRnA3Y05KdzJJSk9sV2czYTB5b0lKcnF5UzF0WTVVYmhYZWJ5MGVZWUdoakh4WDlCZkNC?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "The Market Doesn't Like What It Sees From Renold plc's (LON:RNO) Earnings Yet As Shares Tumble 26% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG5kRlhZX0pTVTdwMmJTWjVDaHFUeU5pUUtuMWtuVWNJU0JpYnhTZW1WRjJpc0dpNTlDZk1uWVRza1FMQkQ0Qm5sbUMzbzlZTUp3UWg5QlQ4TUZLSmNURHlHWlp6aFpPSjN4Z0VPNW5PZkgtOHRlQWpGaWttUEtQaXdtdmFrUnl4NVdKaG5ZUTVJQWlvZEMxaFhNckd3WmwwQXZEbnlXVUtoUXJTQl9ONllvRk41eVZ6b2hLZDVvcmVBbmZRRDhpVkxwUkLSAdIBQVVfeXFMT2d2Wm9UMmZoMTM1b2V6ZWRibXpETEpPcUFOaUNXSGpYamVrMVNPa0x0cEl5T2Y4dDhLSmJXR3RTOWdUdUNHM1FWMDFydExWSXZYU05INUxHTDZQcC03VVB6bk1mWVJzNjN0RklGVTNRdm9rdnlHM3EwZUJTMEg3U3FLOEZ3MDF5WkNCYm5MNE5DWW00OUR5V1RDLWhYcERSNnNKeDRLell0N29QZ0lhbGlnbVFhc0tTMjJCUXV2YjI3OTVSSmpUclQ0NmZNaVVieEdn?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "CATL HK HQ; Renault Applies AI to EVs; C3.ai Disappoints - CMC Markets",
@@ -614,16 +619,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "15 Biggest European Car Companies - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJBUDQycWFIbVVnV3pBRV9KMkdMb1Ntem9tUWFQS0U4Z0NKdGlfSEV1NWtlR1VYZThaRVlZWkU4bVNmdWlodWZEenFiT1RYVlRXTEJTclhFNjM3bnZaRW1tT3J5QzlZbDR4WldNTE1uTTJtRWtGenh0Q3UxLTJoMUhlNm5pdw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Renault, Nissan further loosen ties to support Japanese firm's turnaround - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXE5eWRjdjY2Q3F5T1I3NVhUUGFpaFlkYkJfaVREaFlMZTVOdUsybnI2N2lwRWNfTnpJcnBjUzNHb3VMSnQ0ZlRxaXZRYkRaRVFicEFwemk0b0xCcElNVnpoNU5xZl92T001Qi0xVWx3b3ZQZWhRTnFORXJ1M0pPZUF0UE56c1FQOEk0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Market Doesn't Like What It Sees From Renold plc's (LON:RNO) Earnings Yet As Shares Tumble 26% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG5kRlhZX0pTVTdwMmJTWjVDaHFUeU5pUUtuMWtuVWNJU0JpYnhTZW1WRjJpc0dpNTlDZk1uWVRza1FMQkQ0Qm5sbUMzbzlZTUp3UWg5QlQ4TUZLSmNURHlHWlp6aFpPSjN4Z0VPNW5PZkgtOHRlQWpGaWttUEtQaXdtdmFrUnl4NVdKaG5ZUTVJQWlvZEMxaFhNckd3WmwwQXZEbnlXVUtoUXJTQl9ONllvRk41eVZ6b2hLZDVvcmVBbmZRRDhpVkxwUkLSAdIBQVVfeXFMT2d2Wm9UMmZoMTM1b2V6ZWRibXpETEpPcUFOaUNXSGpYamVrMVNPa0x0cEl5T2Y4dDhLSmJXR3RTOWdUdUNHM1FWMDFydExWSXZYU05INUxHTDZQcC03VVB6bk1mWVJzNjN0RklGVTNRdm9rdnlHM3EwZUJTMEg3U3FLOEZ3MDF5WkNCYm5MNE5DWW00OUR5V1RDLWhYcERSNnNKeDRLell0N29QZ0lhbGlnbVFhc0tTMjJCUXV2YjI3OTVSSmpUclQ0NmZNaVVieEdn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "France's Renault scraps IPO of EV business Ampere - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3B4YVFFY0dXcHI0ektqd3BmbXJtczVaMHN6WTdBNHo3YkxuUkJFQldrZll4UEJNVW9UVndhV2t5d21ueHBxMEtrMjZVazF6M3lDTTdfRThoODlLY093dF9Rdnd0WHVPV1dFVWJBbFNwdTdXN0lvZjZtYlZDcUFnUndxRmpuRENl?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Renault (EPA:RNO) Stock Crosses Above 200 Day Moving Average – Should You Sell? - Defense World",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXB0TFpJbTdpSldlZkpKd0FvZmVZRjNSVUJmcGNLZFcwZThCVGxOdkRBTE1UVzdmazB3eUhjV01fc1BPS2FkVllBREJiR1IyQ1dBN2lxT19oWkd4T0tBUmIzUk1pUkMtZ25raGNpLVE3eTRuczFYMnpUQlZxWHoya2cxZWprNENTWWk4cFdFSWVCZnAzTWdJYkxJWFpuM0d1UXNzTjBTNnVCZnRtNDFGODVDTGtCbnpFRkE?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Renault won't ago ahead with Ampere IPO if valuation too low-CEO - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGRIajkyNkpsQ0RiTlN6M0lNRDhJODJWT0tLSnVCX2ZNWGx2OHlfUUZpYktnRlUyVUxYWjVqWnVHNzJXOV81UERtTThudEdvVXRHd05vYl94dk5vc2xkN0tfOXdhTTRhSGZ2Smd5MkpNQW1IbWt0NVBLcll4TWVwSWhUZXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nissan, Renault confident of finalising alliance deal soon - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUWJjdGVUV0liajJMeVB0dEgycXNzaWt4VmJIeDR4UVV4UXpKaUprM1EyVWNvdUs0dnRPRUpFcmFEd2dHUFFiM3dMMXI0M0MtdFdzdzUxSS11NUxjem1GX1M3N3hoRWpFVHF1Y2xwRzREWF9TZHlmWjVvSlVkdFdKNk1ibG5YTkRlRDFaMnFDOXM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "15 Best Selling Car Brands in the World - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpSU1kUjhHakdNMG0tM2hubjE5MzBtSGlpQ191aGRTQUE5djhOZXNtZDFIeVJnMmJhbEd3MVdMQ1l5dEZSSG5zb3djWFBMaF9pRDdtaGJ5cmhoa2dRellpMk9nbVFPcUM3RUc4M3IzTDFUUnM5Mkl2TThhM20?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Start Your Engines! Alpine Formula 1 Team Partners With Plug Power For Races - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVI5QlFkLTM1WldpTWdrWlVZbTVlODZobWQ0N2dOMjBIQmllY1ZjTWt1VERCbEFTcThtLW16TTJaOVYyZjRGSmJKU1ExMlU3VzNINnNKRXRKZXAzQXExN1R6WUdqUmR0QUUwQmpYRGVxY2xhaUZJa3NiQ3FCLU85OXlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "15 Biggest European Car Companies - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJBUDQycWFIbVVnV3pBRV9KMkdMb1Ntem9tUWFQS0U4Z0NKdGlfSEV1NWtlR1VYZThaRVlZWkU4bVNmdWlodWZEenFiT1RYVlRXTEJTclhFNjM3bnZaRW1tT3J5QzlZbDR4WldNTE1uTTJtRWtGenh0Q3UxLTJoMUhlNm5pdw?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

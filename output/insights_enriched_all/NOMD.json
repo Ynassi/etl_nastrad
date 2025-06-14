@@ -2,16 +2,16 @@
   "ticker": "NOMD",
   "name": "Nomad Foods Limited",
   "sector": "Consumer Defensive",
-  "market_cap": 2594909440.0,
+  "market_cap": 2599486208.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.698113,
-    "PB": 0.99882555,
-    "EV_Revenue": 1.44,
+    "PE": 10.650001,
+    "PB": 1.0005872,
+    "EV_Revenue": 1.442,
     "ROE": 0.0861,
     "ProfitMargin": 0.07324,
     "GrossMargin": 0.29858,
-    "DividendYield": 4.0,
+    "DividendYield": 3.99,
     "DebtEquity": 82.29,
     "CurrentRatio": 1.062,
     "QuickRatio": 0.656,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.08059050164416881,
     "ROA": 0.04346,
     "PEG": null,
-    "EV_EBITDA": 8.657,
+    "EV_EBITDA": 8.672,
     "BuybackYield": null,
-    "PriceToFCF": 10.4793455187511
+    "PriceToFCF": 10.485498915714196
   },
   "technical_indicators": {
-    "RSI_14": 28.710835173231672,
-    "Momentum_10": -3.6806320733095825,
-    "MACD": -0.4984124600409281,
-    "BB_Percent": 0.1490218681131213,
+    "RSI_14": 29.60864060136656,
+    "Momentum_10": -3.5107527590133025,
+    "MACD": -0.4960542024180299,
+    "BB_Percent": 0.1615763691512478,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9354540789779282,
+    "ValueScore": 0.9351609573360148,
     "QualityScore": 0.3531588584005977,
-    "SignalScore": 0.6812433376763327
+    "SignalScore": 0.673168394515129
   },
-  "volatility": 0.015547240889919,
+  "volatility": 0.0154217647882668,
   "beta": 0.74,
-  "return_6m": 0.0151628913774424,
+  "return_6m": -0.0097323444550732,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 7,
-    "target_mean_price": 25.24054
+    "target_mean_price": 25.283773
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 17.53
-      },
-      {
-        "date": "2024-12-10",
-        "price": 17.66
-      },
-      {
-        "date": "2024-12-11",
-        "price": 17.74
-      },
-      {
-        "date": "2024-12-12",
-        "price": 17.74
-      },
-      {
-        "date": "2024-12-13",
-        "price": 17.76
-      },
       {
         "date": "2024-12-16",
         "price": 17.36
@@ -537,37 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 17.04
+      },
+      {
+        "date": "2025-06-09",
+        "price": 17.38
+      },
+      {
+        "date": "2025-06-10",
+        "price": 17.34
+      },
+      {
+        "date": "2025-06-11",
+        "price": 17.43
+      },
+      {
+        "date": "2025-06-12",
+        "price": 17.56
+      },
+      {
+        "date": "2025-06-13",
+        "price": 17.1
       }
     ],
     "current_price_data": {
-      "price": 17.04,
-      "change": 0.05,
-      "percent_change": 0.29
+      "price": 17.1,
+      "change": -0.46,
+      "percent_change": -2.62
     }
   },
   "news_sentiment": {
-    "summary": "Nomad Foods (NOMD) semble attirer l'attention des investisseurs avec des mouvements significatifs récents. Malgré une augmentation du nombre de ventes à découvert, des investisseurs institutionnels tels que Squarepoint Ops LLC et Public Employees Retirement System of Ohio ont récemment accru leurs positions. Cependant, des réductions de participation par des entités telles que Millennium Management LLC et Wellington Management Group LLP ont également été observées. Les résultats du quatrième trimestre ont dépassé les attentes, renforçant la performance de l'action NOMD, qui a récemment obtenu un score RS de 81.",
-    "sentiment_score": 0.25,
+    "summary": "Nomad Foods Limited (NOMD) attire l'attention des investisseurs avec des mouvements significatifs de capitaux : ventes massives de Clean Yield Group mais achats importants de plusieurs fonds. Malgré des critiques sur sa valorisation par certains, l'intérêt persistant des investisseurs institutionnels comme Congress Asset Management et Wellington Management souligne le potentiel perçu de l'entreprise. Cependant, la hausse des intérêts courts en mai et la réduction de participation de BNP Paribas mettent en lumière des incertitudes potentielles sur la dynamique de prix actuelle.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is Innovation the Secret Sauce in Nomad Foods' Margin Playbook? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTVMb20zVVdvdVlPRXJSSEh5YnZMdzlmVS1nRmozVkZzYzZZRTROald3bTdRaFR6Z3FkVmhaMGlNeVYwZnM1SVdDT2wxQzczQ2Fxai1nN0V0X0tNSy0tdEpOcVplSXZTMUpxa1Z1dmJaTkszTVM5UXVWeklmeEdQX3V4SnVwMHA2RVZBU2E0NGppS2pyM19tZlp0MFItTHdKMi1IUE4wcjJyZmpWTUdJMHA5M0tEdHRB?oc=5",
+        "title": "Clean Yield Group Sells 20,182 Shares of Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjVtM3lxOEtrb0hxMlNjOVhwX1IyX1BqdFJzY3RNUFFNY29XOWRHUl9zdlVEbGJVQ2M1UXZPZ2lsX2xxUGlyTGJSVVNLV3BOOVliT0gzY2dVQXNVeVVnc09zYzNIaHpxeEk2d00wRDVQeFlkZmVFUm40YkJnTWJROHNZcVdZaW9mOU9iVHVscjUzVUpZYU91REllUUJnYmNRY19IemM3bVhUV2JkdDVjd1NvLU9ERjZZSnhGQnZNVlp4WFYyakdpeQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Pick These 5 Bargain Stocks With Alluring EV-to-EBITDA Ratios - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblhWNmpka3A2V3Y4YmNoQjFvRk5JR252TkdBRmxkdWhCYklfbnNpYlZOcWRtNXZLWmFnSUROV1c5NFpHVUJwS0Mwd0llYkRSTzYzYW5aYy1PMDU0Q1ZhcTFmd1BGYVlhTkdHZE5CQnVqTkQzVTlwYUZ0TU9VdjZRQmRn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "48,354 Shares in Nomad Foods Limited (NYSE:NOMD) Bought by Squarepoint Ops LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWU1ZlVSeC1SX1JNd1hzWklnMU5zZEZGdGN0TWRVc1owYmY5TnpsQm95cVZ6MjkxWUx2VmRKcHhlTEJITFp4QW5NNVVNZHpnWHdpTnZTd2NkdjdIN2JLeUdhcFFSOHRYRl9vV0xKYUw5ZFd6MHhTZXlEa0pNc0ItTnlRSmxKeFlJaEJ6WHIyQXhpUW9ET1VVUXZYcU85ekFnWXJoY25zX1hCRjdPSkZweTJHT09GVE5jc192Rno3UGRzV2JBS1hheEJnaWFZcVgw?oc=5",
+        "title": "Is Innovation the Secret Sauce in Nomad Foods' Margin Playbook? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkZtUi1BUjZ6U3hfNVp0UGNlY0t0S0l6TUEyVnNnaHNGcFJZY3Z5akcwMEN5OWd0Wl9vR3B2NzZORFh4VmJxTFQ3US1rek8wM053NEFmdTZHSVEtWF9QMUd3c29GZHVydHdMcy10Y1BkaTZMYWRqTjNfOGdYMXRfdXVxOGY1Y1NF?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,9 +581,29 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Nomad Foods Limited (NYSE:NOMD) Short Interest Up 40.9% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRYcE9XQlkyQmRmeUUzRTFmZzNkNW9FY0wyTzhEcE5pTUpZXzdHVWdnVk1DX2JuSHF4dDNvM0pNUTFaUUFhMXFWVWRFdm5yZ1N6S1dwRXNnX0pkeW43YXU3eVJ2NHVhc01kbmRLZTNKRTVhRXZVR0NsNmxtYWgtUzE0dWRhWFhpclJQcVFfR2pUOVB2ejNzSEg2eUhGZEFrV3VESG5vX2ZjZjhxWmZMNw?oc=5",
+        "title": "Nomad Foods Stock Earns 81 RS Rating - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PdHZ3UHBfOWxsamlxWWVuYkNfeGpZNkVVT0N6QTBZb2x5MFZJeFhOb3VCcFo3TUlDdWFCaUR0TVNwQWNwYnpWSWkzakFPQjZDSWJMem80eDlVclljNW1mc3ZoZWY1VFkzekJyeUQ5aHFZZVVkYVpz?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Congress Asset Management Co. Takes $7.38 Million Position in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjlkeHR6YWtwRXFHLTdZTEFoUml5VlFpLVQyZEw3NmY2dkRKQkxZQ1d4RjVKeEdpaWx5WmJPellsQ0VEX3VkR3haQUhDZHpPMXl5QlhKbGJ1SXZGQy1kaWZQX0FSTmFqZGhiemdQa2plS2F1NUR2c0w0TVZwNkZVMTRqaVZuQkFvWl92c3VxdUJkQm1mSE5QNmFLUVN1SE5YY0ZJVGxtRXBDa293UHk1bUFOektNRmtwbmktSlIzM3BWTlo0eFluX18yQTZ3LXk1SjVFbTdfanBiNW5iM2JQQWJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pick These 5 Bargain Stocks With Alluring EV-to-EBITDA Ratios - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblhWNmpka3A2V3Y4YmNoQjFvRk5JR252TkdBRmxkdWhCYklfbnNpYlZOcWRtNXZLWmFnSUROV1c5NFpHVUJwS0Mwd0llYkRSTzYzYW5aYy1PMDU0Q1ZhcTFmd1BGYVlhTkdHZE5CQnVqTkQzVTlwYUZ0TU9VdjZRQmRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Nomad Foods Limited (NOMD) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkxxX215MHJHdWF2U095Xy1rS0dCV2k5ZGRsaGRsYzZOeS1BSUI2cjVmaTY0MlZKRElVN3lKTU5JOWtHSnpBNThhcHdaY3FFOXFPblBXMzZ0UmQyVGViNUl5Sm50dlg0a1I2VTZyb25SVGg5aDFuMk1lTFBxMHpmZWdsNWY0QlhXUjlnTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Invests $763,000 in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLTEtckNRUGZWbDVKNHphWWhZUWVrS2ZXQkRfZjFWWW1qVUFWS2JFaHMtTkQxN1ZhVVZjaGNYTGFKMk1Eb0VBUlhNNS00dDFGemhOWmptWmxla3gwNGk2UGg1RERDSTc2Z091cWRVV2hZaVZrbjVzaTcybDhqdWlOeTN1b3cwMXRqZXVIZjYzVjN4YWczaWVSU1pBcWNOZzROUmNld01RMlo2eFZBSTFGaDRNMWl3TVhIRm8wOHlRWFRXc3NqekJCMnVsbk1SbWc1OFBxWTBjejVDWTQ5X0NSLXBNMHlMOVFNRnZyOXlUYw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Are Investors Undervaluing Nomad Foods Limited (NOMD) Right Now? - Yahoo Finance",
@@ -596,28 +611,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Buy These 4 Stocks With Solid Net Profit Margins to Enhance Return - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTJKaHVHY0FEclJ5V1NKaEg2RG5sUXFUaWk4dGxvZEozQjJ4dzlmZ2NiNUNFVzNickZvODB0SWFsT1lraHJnLU5fZl9TZHVDTFp0YzNvLVI0RjQyUzd1NVg4MDJzZTRWYlhtek9id2llQ0ZKOS1ONUpFaC0wYjZROWlfR2djTk5Pdl96RDktLU9vU2VQWlkw?oc=5",
+        "title": "48,354 Shares in Nomad Foods Limited (NYSE:NOMD) Bought by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWU1ZlVSeC1SX1JNd1hzWklnMU5zZEZGdGN0TWRVc1owYmY5TnpsQm95cVZ6MjkxWUx2VmRKcHhlTEJITFp4QW5NNVVNZHpnWHdpTnZTd2NkdjdIN2JLeUdhcFFSOHRYRl9vV0xKYUw5ZFd6MHhTZXlEa0pNc0ItTnlRSmxKeFlJaEJ6WHIyQXhpUW9ET1VVUXZYcU85ekFnWXJoY25zX1hCRjdPSkZweTJHT09GVE5jc192Rno3UGRzV2JBS1hheEJnaWFZcVgw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy These 4 Stocks With Solid Net Profit Margins to Enhance Return - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45YmE3d0JUaXBfSTFUM3dsZk01LVJUM1g3ZG1WUEdoZEEyMXgwZHNtcGN4ZFZfNFR6XzhSOGNFWkRuRmtaOUs1UnppeUI3b3piZV9Yb3M2Y3FodGd5TkVNQkc1cjZqVlRFV1hLbHREWUJBT2FZeVpB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Public Employees Retirement System of Ohio Takes $763,000 Position in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLTEtckNRUGZWbDVKNHphWWhZUWVrS2ZXQkRfZjFWWW1qVUFWS2JFaHMtTkQxN1ZhVVZjaGNYTGFKMk1Eb0VBUlhNNS00dDFGemhOWmptWmxla3gwNGk2UGg1RERDSTc2Z091cWRVV2hZaVZrbjVzaTcybDhqdWlOeTN1b3cwMXRqZXVIZjYzVjN4YWczaWVSU1pBcWNOZzROUmNld01RMlo2eFZBSTFGaDRNMWl3TVhIRm8wOHlRWFRXc3NqekJCMnVsbk1SbWc1OFBxWTBjejVDWTQ5X0NSLXBNMHlMOVFNRnZyOXlUYw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Nomad Foods Limited (NYSE:NOMD) Short Interest Up 40.9% in May - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmRYcE9XQlkyQmRmeUUzRTFmZzNkNW9FY0wyTzhEcE5pTUpZXzdHVWdnVk1DX2JuSHF4dDNvM0pNUTFaUUFhMXFWVWRFdm5yZ1N6S1dwRXNnX0pkeW43YXU3eVJ2NHVhc01kbmRLZTNKRTVhRXZVR0NsNmxtYWgtUzE0dWRhWFhpclJQcVFfR2pUOVB2ejNzSEg2eUhGZEFrV3VESG5vX2ZjZjhxWmZMNw?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Is Nomad Foods Limited (NOMD) Stock Undervalued Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZV9hVDF3Qm8wNXNBTXZKSU9Dc2dtUUVOQ1hod2Q2OWlGMWlKbHJGRjhWaklFOV8xbFdoZllCN2ViRW16Y2ZoNTlRV1JYdlRtV29MbWhUV05PNDZSeHJXVFFDcEstVF9tUlBJekcyVVVZMmRwQzBWNEN0YWtGU0NUaDFn?oc=5",
-        "label": "NEUTRAL"
+        "title": "Wellington Management Group LLP Trims Position in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFpwTFhWN0kyd1NGaldyTUNCbWJsazhBX3dHcm11VmdBc0ljZkdJMFZnSXNOa2VOZk0xbE1nZTBUVExaTjY2c1gxcy1BMkpNRExEOGhCR2IyT0s5VHBITlZWSmtXSVNiOTdxRU4tREQ5ZlZYaFp3T2ZrbW1OcGxnd1A0aW0tZm5VOVdDaWdGeHQ0cmpUWlM4Z1p3UnNZY2tUOXduVWpYRGtZRTJVbU0wT001WDlOZFJMWlM1ZUdxcnhrT1VTRUpZUVhyMXVjT3dqSkFvZm12WTZEUE0?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Nomad Foods Limited (NYSE:NOMD) Shares Sold by Millennium Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSmlMQXNnd0Q3MTREN0JzMzZaZk9INC0tb1BNbDAtNk8zVUF5WWdjWnpMSjJHbmFTNW40LUw3bkdHeWV2QjVhS2txY0tLdlNudXdVTkQwVVZSOGNTbEpXalZlcXhsTVB4aW1RRTQ5RlFWdTdzcjYtYUdaOThvYXg1eG5CVk1WSXdpcE43cVd2cGZMUzdwU2ZHZmo2THpXY1dpNDJITGJBR2tfTWUtVkdZaEg0TUVFN0NDZUNYOWpzc2t4M25KVG9rUm54MGR4Y1JWbm1qYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Stocks to Watch as Trump Reaches Trade Deal with the U.K.: BP, NOMD, RYCEY - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRlJjQ18xM1ZHYTJrT3Y3SnNIZmdBSVlWOVVRTmJveFZsci14d0E5ck9RTEhUSnlkWW45am5ZWEJhZExnY0lmQWI1dDlpc0xaaWdpNDFXU3hmRzRMRlczMEl3MWdWZjctcmdMWEFiN0hjX21QNFM3cXM0WjdwLVk?oc=5",
+        "title": "Zacks.com featured highlights include Nomad Foods, JAKKS Pacific, Edison International, Upbound and Gibraltar - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlVGaFBWenlVTENMSVFVSXBtX0hGYWJFRXdQSzI0bkgxS0NyVjZQSXNpTmo1djlMbmdTUU9iNU85dDZLcG55QXp2cWlsM0lkTUdPVG83WkRiekgwbXU1UDhYeWJxUkd6b1hQOUtXMERON204RXY1RHZQWjc1bE55eGFXVW5uLU9E?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,36 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas Financial Markets Reduces Stake in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0FmUWN1VzlHOU9OUjhub3NpNU9GY1dPLUNzWlN1bnhENzEwWkl2Z2JsYnI1TEVWbkFhcG1hcFlDTThZR0g3M3BzUzlFSzEyNXFRcXNwakZ1d1NJZlItZDd3Nzl6S3pJWW0yZ3prbkpHc1dGM0FiZEgtZW52WjU5VVhtRU1MMXM0RTlSUG9KcFJmVERvUnVqVXRsWDRMUFFtQVpTRC1lQnVETFZtN2FzQVdMMDE1ZGN2NWVpa1Yxd0xBSXAxeV9YaTNfNFJXdmVMcEdGWkxORjc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wellington Management Group LLP Sells 31,115 Shares of Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFpwTFhWN0kyd1NGaldyTUNCbWJsazhBX3dHcm11VmdBc0ljZkdJMFZnSXNOa2VOZk0xbE1nZTBUVExaTjY2c1gxcy1BMkpNRExEOGhCR2IyT0s5VHBITlZWSmtXSVNiOTdxRU4tREQ5ZlZYaFp3T2ZrbW1OcGxnd1A0aW0tZm5VOVdDaWdGeHQ0cmpUWlM4Z1p3UnNZY2tUOXduVWpYRGtZRTJVbU0wT001WDlOZFJMWlM1ZUdxcnhrT1VTRUpZUVhyMXVjT3dqSkFvZm12WTZEUE0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "41,721 Shares in Nomad Foods Limited (NYSE:NOMD) Acquired by Formidable Asset Management LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMU1KRFZFdWc1NE1RSkQwcEEtenRDZUhwaXhHb0Nha0ZGb1NMb3MwbU11WVJ1T3dDeU9jTnBhQkFfOVZyV0RRd0pRSmRFOUQteXZmVUFPNDQ2TW9ydHpKbTRMdUhIaHVBelVKa0NRMjFCSGVjV0ZFVE15RlZqaENGRExkTzdmUUo0WV9NYnRfOUZNcGhuVzFaQ2sxOVFrQU1MVmpFaXUwNjZYYmw2Z3JNcjVRQzE2LUsxTXRaMDU0dUNYNXk2emxBS1pyX0tnMWpMTV9qR3U3SmpuZ2xzRnk1QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Systematic Financial Management LP Acquires 202,639 Shares of Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkVtSndjZG4wUlVIaW9aVmk0SVJMalJyYWZBTDRUSzY5c3Z1bmd3VEtGRUJwVnhka041cjJIR003N0ttcDFqU3g5dDFxRXJuX3lmVkM3N2EyQ3hCOFlGV3VjY01CcGNxd1BjcUJ5azhZR1ExSV82QU1rUS1pRE16am9QSDg2Tk5OQVViZHFEa1JibTdoaVY0SkRWSFl4dDJGWUhISld5blQ1WER2QzYwUXJTNUVqOEVQX0RtMkFhbVpfU3Y2VVZJdi1sVzYxYnAyc0M1dll0cjlsUQ?oc=5",
+        "title": "BNP Paribas Financial Markets Reduces Stake in Nomad Foods Limited (NYSE:NOMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0FmUWN1VzlHOU9OUjhub3NpNU9GY1dPLUNzWlN1bnhENzEwWkl2Z2JsYnI1TEVWbkFhcG1hcFlDTThZR0g3M3BzUzlFSzEyNXFRcXNwakZ1d1NJZlItZDd3Nzl6S3pJWW0yZ3prbkpHc1dGM0FiZEgtZW52WjU5VVhtRU1MMXM0RTlSUG9KcFJmVERvUnVqVXRsWDRMUFFtQVpTRC1lQnVETFZtN2FzQVdMMDE1ZGN2NWVpa1Yxd0xBSXAxeV9YaTNfNFJXdmVMcEdGWkxORjc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Nomad Foods (NOMD) Q4 Earnings and Revenues Surpass Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybDRMX25RQ2hxSzZGTnJkanV1OTlETm83SjdiU09rVXdkbkR3QW9kWFlLcEx2VDQzS29DX2xReWdkUnhCYkNVZEx1ZEhEMXVEb1lHSk1XWjZjWlV2UnVVTklKdjc4TnpEVUNQeG4xaW5wN1VaZ0J6cXpZZWwtTHc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nomad Foods Stock Earns 81 RS Rating - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PdHZ3UHBfOWxsamlxWWVuYkNfeGpZNkVVT0N6QTBZb2x5MFZJeFhOb3VCcFo3TUlDdWFCaUR0TVNwQWNwYnpWSWkzakFPQjZDSWJMem80eDlVclljNW1mc3ZoZWY1VFkzekJyeUQ5aHFZZVVkYVpz?oc=5",
-        "label": "POSITIVE"
+        "title": "Can Mixed Fundamentals Have A Negative Impact on Nomad Foods Limited (NYSE:NOMD) Current Share Price Momentum? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQelA0bU9wQkpFNXE4RkZxSmlhMFpON0Rwbl9VTTRSbkUyN3UtdHJybXBGYTNkYzhhN3VpTHV1UVhBRFFsZ3ZYSEQ2SElTVkRMOGR5dWJLZUU4MUpoQUp1QjlPcXViazV0c0s5Q2pIX3BnSWtDZzdxaEVqX3RielVDNzNheU96WE1YSFl1T01RQQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-09"
 }

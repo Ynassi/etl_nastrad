@@ -2,16 +2,16 @@
   "ticker": "KKR",
   "name": "KKR & Co.",
   "sector": "Financials",
-  "market_cap": 113819328512.0,
+  "market_cap": 112422264832.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 53.025864,
-    "PB": 4.383708,
-    "EV_Revenue": 8.006,
+    "PE": 52.375004,
+    "PB": 4.3299007,
+    "EV_Revenue": 8.208,
     "ROE": 0.07145,
     "ProfitMargin": 0.10873,
     "GrossMargin": 0.60527,
-    "DividendYield": 0.61,
+    "DividendYield": 0.59,
     "DebtEquity": 74.627,
     "CurrentRatio": 0.879,
     "QuickRatio": 0.819,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 57.275312512941184,
-    "Momentum_10": 4.094758115268407,
-    "MACD": 1.4702041438262086,
-    "BB_Percent": 0.5584765543583234,
+    "RSI_14": 51.779265147743914,
+    "Momentum_10": 0.2963943792731221,
+    "MACD": 1.6740460080284976,
+    "BB_Percent": 0.4743092687247304,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9262693818926412,
+    "ValueScore": 0.8667379008365648,
     "QualityScore": 0.2679026328855776,
-    "SignalScore": 0.5144019487356581
+    "SignalScore": 0.572489372360709
   },
-  "volatility": 0.0355365414564043,
+  "volatility": 0.0353681781140605,
   "beta": 1.884,
-  "return_6m": -0.2192391050664672,
+  "return_6m": -0.210484933412596,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 152.35
-      },
-      {
-        "date": "2024-12-10",
-        "price": 151.81
-      },
-      {
-        "date": "2024-12-11",
-        "price": 157.39
-      },
-      {
-        "date": "2024-12-12",
-        "price": 155.75
-      },
-      {
-        "date": "2024-12-13",
-        "price": 154.34
-      },
       {
         "date": "2024-12-16",
         "price": 156.12
@@ -537,32 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 123.4
+      },
+      {
+        "date": "2025-06-09",
+        "price": 123.25
+      },
+      {
+        "date": "2025-06-10",
+        "price": 124.02
+      },
+      {
+        "date": "2025-06-11",
+        "price": 126.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 125.24
+      },
+      {
+        "date": "2025-06-13",
+        "price": 121.33
       }
     ],
     "current_price_data": {
-      "price": 123.4,
-      "change": 2.74,
-      "percent_change": 2.27
+      "price": 121.33,
+      "change": -3.91,
+      "percent_change": -3.12
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de KKR & Co. Inc. montre un mouvement significatif de cessions et d'acquisitions de actions par les dirigeants et investisseurs institutionnels. Henry Kravis a vendu d'importantes quantités de actions, tandis que d'autres entités comme Mirador Capital Partners LP ont renforcé leurs positions. Ces transactions pourraient refléter des perspectives divergentes sur la valeur future de KKR. De plus, la forte performance boursière de KKR en 2024 contraste avec sa récente baisse, ce qui pourrait indiquer une volatilité potentielle dans le sentiment des investisseurs envers la société.",
-    "sentiment_score": -0.05,
-    "label": "NEUTRAL",
+    "summary": "KKR, société de private equity, est actuellement active sur le front des acquisitions, notamment avec l'exploration de l'achat potentiel de Spectris et l'acquisition de 6 propriétés de luxe à Tokyo. Cependant, Spectris a rejeté deux offres de KKR au profit d'une offre concurrente d'Advent. Malgré une récente baisse des actifs sous gestion, KKR reste attractif pour les investisseurs, avec des mouvements significatifs dans le secteur immobilier et des investissements importants, tels que les 500 millions de dollars injectés dans HarbourView.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "$KKR stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1hQeGs0TzdjLW5NMG15OWdaeXpCakJ2NEpxWXJNVURXcGJXNmxhNENQRy1saC1iRGFMbzdPdjdmM3pXaGtrM21ua3JrUGJwam5HOVpSWjFEQ2o0eFpFbVAxb2pBdDUxdzlrTHo4TmlWTEJDekJUSGNfbGRrVHZzU3ZB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KKR Explores Potential Acquisition of Spectris | KKR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZWdlTG03Vm9hY1JObjdrN3FkbmN1NHdWQzh0RVdrY2o1aVdSVVJ1VW1ZcHpGUE52RDE4LTBwak05aW5YaGpUQ0NKeFFCY3lvMjhBc0NvUGFQTFROU3BEMmY2akJ6cmktSHRjOG9wQWd1RzQ1cUs4OTZZbDFjd0FxRnRpWHprVXJVczJLeS1hVGhaaDF5eDkyMTViQ1dWdjVELWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spectris rejects second KKR proposal in favour of Advent's $5 billion bid - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWdSTUY3WUd3eUVHbmFwd0R0WTh4ZzdDdGtyYVRnSWpBLVdWWUlCWUszZy15Mm0zYzZKeGh3VlZEOEFfdUZDQnNmQkNfMFgtZXlKWWNLNG54Xzl0UEJJdkFLWmtyVTFCaXBocl8zX212ZV8zcEVSbFVPaUp5MEZaZG5QNTF2bXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR Real Estate Finance Trust Inc. Declares Quarterly Dividend of $0.25 Per Share of Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR0pWd3psMTJzYlBTa05sN2h1YTZKT2wzMlduWWl4TVR1MlZGLU45MzJfXzBuNXZ6ZVpnSzhrN2duUUVxMVg2RjdqRURqMWh6MHRrcVpJNHJiaktzQjZXSHdWNEw3NWt5OGpCQlpGSmNYbmg4U1h5XzdITk5RZ1ZWQmdhX3VHX21TeTZrQVFya043VlJ4RlNna3VWa3RjLXJtVlBCWXpXVEd2Q3RFcjREam5wRFEzYzBmZ1BXQUcxXzI2UjZHbDJMUWY0ZUZJMEZOOEdnOVV6bmtlanJlZVF2UkFaNlBGdWozWERQUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Quick Advisors LLC Grows Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazc1TEJGWkRaTWhxUk9VM2FfM3FPQjBPTEFSMVYySXZySWgyVFdBc1M4REZuX3R4MFE1aExfRmVqbDlGYmNxclRxcWY3aDRiVS16dGFXTG1mM1VBM3BBZy1BTmQ2RnVMTFBYUUlxT3B0ODVRTnZ6eGwtNG9RX1MwUXVMMzUzX2kyOXZJSzBXV19QNGhFVW1vdWlZRm9WeFpEVUZfazJLSTQ0VjUwcnlnV25TV3pQTmxabTh3bTlIR0F0UmNnMnA0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sector Update: Financial Stocks Retreat Late Afternoon - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRl9udGFLZ25jLWJVSms0aHd4YjY0X1ZyWGRfVlZjSU52WU1HQlBEQi0xa3JGVFIzY0pYVmtfZHVial9ZMnRDTkFwT1hsTGpCR1pBeGFCM2JRU3E0NGlObUVQRFBwZGJhaEdaS0g3bHJXcXpMay1rREpmemVWTzBJYmtvSktSSzd4anFNVTR1T01lX0xXNHpQTFE3Y0g1Q2RKeW96Qm4yOVdTSHNIRWhQbnY1QXhEZzdpNnBCVWZTRTNwOVhqMzg0UFpIVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KKR's Major Real Estate Move: Acquires 6 Prime Tokyo Properties in Luxury Residential Push - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUpjSS1TbmtoazFhMUpPV1Nqbi1MUF9HQUZlQ2swUEpWNjdrRzQtYVdWRm90VXpjUEZrOHFOZU5WeUNZRWp4anQtckNDRmtuZUdPR0JzR0JMRDJWY09GWmhieXhPTng3d3c3NE1mT3JYSDBDWkhBMVJrXzdYM1RzUE1FZ3JJVjB6bVNCa0ctSDFmMVVjbUJ6Ymx6ckZ1WGZiSUMwd1loZnk1cTVqMGxQRFJTYjA0bWRUTTBjNVhzOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR Is Fighting Private Equity’s Battle for the UK Stock Market - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUVabENRekFITFdxWjU2SnpSQ1F4a3VGb2NQd3VuTlYzRWxjR3ZhUkwybE1wVUQ2a1Fxa1F4VWpVdXUwbWlmaklHZUlmNjhwQnczWE5IV1hIY2U1b0xGQlBHdEQ4NF8yeEg0aXEwblREOWRuVW9YOXRNQ2hKbENlWVhncS1nYkc1OWdwVkhROC1jd0dIOE5FWnp2WU1semVycF96XzdyVlMtQjBzdGlFaw?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Henry Kravis Sells KKR Stock for First Time in Years - Barron's",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3TjNnbGZXWVRGeDFQU3RJZVFZME1kWi1ka0hZd21lRGR2TU5fN0w2a0d6amhSclBpek1jdEJRSjRaWUo3RVZpeTlETUxTT0FhaEpPcW12aGtWdi1fWHZZdEFybEVuaTRDallidUlsTGlxUU1jbUFpZVBB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "KKR & Co. Inc. (NYSE:KKR) Chairman Sells 1,150,469 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbXZ6VnpjLXNkRzJGVEs4M1NzUEpMUEZON3VNaGhXRHYwamlyLUp5czJyV19wbmhhZXFFN1ZPNmlTQ0NrdHNEWmJNelBGUGNCMW5UM0tBTFpMTUFvTHZWb1QyUjFSdlBSbjhjek5kc2pUUTVuVDVlV09fZm9ELTBUWXRmbE1lbWhPbUduYU9Cd2ItZWNSYWphRnZvV09qRl9zdXVxRWZWbVI4WXVXb0hDbm5OQ2N6OWdP?oc=5",
+        "title": "$1000 Invested In This Stock 15 Years Ago Would Be Worth This Much Today - KKR (NYSE:KKR) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkVxUERNU2M2bWVUc1dDdEhIQUktWHRXaG1pNVU2aUNVakZaRkNVdVg5UVhkREVvVEVrbGs0NUV4ZEpJOVFZd0RLbDhaYm5VSWYzdWFoTlZaeWNRSnFKSlg4dUNmZlE2U0RUcHpmdmN3WXEtUGxDV3E0T3ZmeVZZSzV3eThNMEh4ZUJoSmx2UHRMbEpGUnVIUVRlWF9FSTVtbndSbGwtU2pFQjF3dGktQVJuZmJYWE14T21lbGxzQm10b2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR Has Less Market Exposure Than Feared, Making Shares Attractive - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlZNRE5GN0pnS2Mwc3RGQTBrbjRZSjBQUlhvWlk4eGVjRHpiMVNTR29vTU9CQjRQUi1tQm9ucFV0bEY3SFRGNVlWYklkTWJDcS12dTAxVkl0VWV4Yl9SS3B3TEpxWU9JbUJNUXFsMDhzWEFvZlNYMjJDQXRXWkIwSU8ydDNqREpPNkhyYjZWWC1COURfY01Cd3ZPdkhfak1GQkpObFEtaFFjQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,91 +616,46 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "KKR Accelerates BrightView Exit: Secondary Offering Jumps 16% to 11.6M Shares - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzhZZThjOVlteW5RRWFDSzN0amcxamRmdlcwNkgxa0w4QmJsRzJ0emNwTlZvUjVwYTRKczJtUmxPU0s0aHVjaUFDNUlMbkVjZDZkOEFXc1FkdElybEJmMV9MTXp1UXBuTml1N0pzcGlTTkh1LUJzU3VEZWlaTEE3WnNYbFJYeU55NnVxaG5ucmtxSHd1Q0V5WFRuVmtwOFJWZUZhUUN3?oc=5",
+        "title": "KKR Plans Bid for UK Tech Firm Spectris Amid Competition | KKR S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnFJRFowSE5XeTdYUXVtVGY5TDM4ay0yTGNRZUFFY3g2QjFOdzZGNWlNM2lvb3ZpdnBYT3diWW5CUHhYVG5yQTQ3RDVNS1lvaVNGQnoxMnpGRk5qS0lWRU9vTjN3V1VWTy1GZndYYlNSeEFzTWt6MmJsMVYzZVJYSVVGOUlIeFRjdm9yNWI0cExxTnlILVY5UlVoU1ozVmE0dmlfbTRaMUhEUDlCUFdB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Do Wall Street Analysts Like KKR & Co. Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUZTNKMDI4YzlVb2c2VHI1YmpoT0tURG1wYXVaaHR2ZDhyTFZkbzNyNVQ1dGVLTlBFNExPU2pmZzF2OW03SDZMZTRtS1NvaXd5OUp1a21TYjVvazlpSmNSQmZVb3pHeEl3eFhBZG4yTnIzVTlpcm9n?oc=5",
+        "title": "BrightSpring Shareholders Launch Massive 14M Share Secondary Offering: KKR Leads Exit - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUVCQmRrWXpvN1h1b3I0OHdWazMxVkRIRm9lNmVKNWlOYnNZZlBXT1dfaWdvNTJSX2lOY0FJUjBVVDJtYjlISExXUjJDRW8zclAzbzlOZ3ZwVjE1M2pveTF0dnVfbFh6SEprUEIzOHRUNU1jQ3dLNHdDNUhkRVpPMzA1NFlmR1FuY1psbXpmWUgyMm56Nm95eHpaUTE4c0E0TmVNbXRLN1NzMzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "KKR Is Fighting Private Equity’s Battle for the UK Stock Market - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUVabENRekFITFdxWjU2SnpSQ1F4a3VGb2NQd3VuTlYzRWxjR3ZhUkwybE1wVUQ2a1Fxa1F4VWpVdXUwbWlmaklHZUlmNjhwQnczWE5IV1hIY2U1b0xGQlBHdEQ4NF8yeEg0aXEwblREOWRuVW9YOXRNQ2hKbENlWVhncS1nYkc1OWdwVkhROC1jd0dIOE5FWnp2WU1semVycF96XzdyVlMtQjBzdGlFaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "KKR & Co. Inc. (NYSE:KKR) Chairman Henry R. Kravis Sells 130,925 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSG13bHRXNGtBVTB5VURHTWg4VHk3ak16UmN6ei1Ea3QtYkFNNnJVWTN1cW5NZ0dMa2YtRXBsMWhoQTZGNF8wcmprcVhheU1Jb1NJa25jVWVhODJLNGE0ZDhQOFVBYUtDMUFqRFdTbUczY2pPdjlLcTg3ZGUzTE0wdVhjRnRma3FlbVVEMUZPd2RNdVJETEw1QnRYSnBsbnY5MGVJLVRwVHBhamJuMUtYcUgwM0pNU29OSk1DVlc4TzR1TDJf?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FS KKR Capital director Hopkins buys $14,864 in common stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXdUcnVIRHZsWDF2UmZxOUZxNEgzY1ZaZE9lc1lqdDU4Qk9MVmNIVWJvX3hwdnRZakNBdEtoSFE4VXVOekZhcGdKd3JaUFhOcm5wOE1TMlNES3FiOGlabzh4Ym9yZUFpRlN3Y3BZVFpXelFuOWV5ZTdLdnZCYTRORnhRV0VjUnFPcGc2Z2JEbkN0MWI2OEdNZlI2U3I2ZzFSbzNja1NaM1dPY0Z2RGtRUzYxN3FHZmhodzcxRVRfRlg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why KKR & Co. Inc. (KKR) Is Plunging So Far in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRUFFR1RxQWI2RnJXeFFNZDJUR0hiaTV1TGNsLVJoUkJHakFicDBtdEpOZG5VeG9RUVpZUzE2V2RVYjhWRGhYUmxiQUFnU3FnRHFkaklqZ1BkTjd2U1U0Qjk3RnpHTE1idDNKbmRMX1JqUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Merit Financial Group LLC Cuts Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjYwLU1YbS03Z1hzV0RGMmY2NUlWVU5nUW83M1dXV1BKejhjTGZHR1JTVG1BbzJmckEtdm40emUxVDZzbGdaS0p2ZjMxLWJDX0VFOWdwd3V4a2F0cDFlLTBCSllZbFhOTVlIWUlVNnlEUnhVbkI2ZkpxU0k4ajlQRWdjQkU1bFkwZ21qNGlQNWNKQmtrVUE4a09PT1RoVTBhZnYwWHFOZnlrMTZ2ZmtTdUN4ZV9DenNTbGt0bXQyS25fNU5YbzJN?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "KKR & Co. Inc. (NYSE:KKR) Chairman Sells $142,573,261.20 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVVsTFp5RVFxelc5WFdrX1dfVm1OUlhGYThoTVJnTFQ4WmxJaWlTMG1QTUJoM2dBT0tiMWVuRFA2VmlzcGhINWxQbE9aLUJVYVZ1Nk42U2JZX0ZBbi0yVzZTY3dpYzctTllKS215Z19TV2k4dmtqd2RkM3kwbEl0c2Fmek5uR2dfOXBlM1cwX05qWEZPbVZVVHFia1pac1JDUlctWmdKdDRWTW5xcHhyMnctNDBjb0ZnZ1V4YWZTdTlWcW9pWmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mirador Capital Partners LP Boosts Stock Position in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2cxOXB2ekxPRVZGd3QzbFVVMGR0c25jbWJKUXgzNFpoQ0VfUlBGYTJlaWV3MlktUEhsVVVUR1B6dThCcDFRV1ZaZHNfZ2NyUGxiS3VlMlNaMHNYcDdqWFdMY1ltZzVrdnprZWxQdUR6dkh3ME9xOTVodDVCUzczVGc0Vll0NUJZdTJqY2JXTWpUWTdrSHp6Z0h5RWd4OFNzeWc1aDlUcnA5NFlmNW9SWWZwSGRCaEJQSDZydkh6MnBMMG1w?oc=5",
+        "title": "KKR (NYSE:KKR) Expands Japan Portfolio With Six New Prime Tokyo Properties - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12TTJXVGlwbzExQkdMWi00RTN4Y21JTHFWd08weVBGTmJtc05xOFR2dWJ3OTM1UnNpcEd1TTAtTjBRaG0zREF5MFBDREFwUWo1cnZlbGJWN1ZIZFJDQ0R4NThocThoSzB2OTQtSTIwXzFaQXRfSF9xbDFiak8?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Rhumbline Advisers Increases Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHdTZnVfZmtEU1VUcVhWQXptMXY0d3N6RzFaTkRVNmlVTTA0VUI2MzNZbzIwSFBjekYzdGZNZlpJeWhIT1ktWkJSazBrUm5oNHNmSjdjR0JxbzFER2oxZnBkeVdTM0l2bXE3bjRvRmdxQUg1RW9nVW1fRDNXcUFUM28yMDJvRjJZSHRmTkt5ZjZZWndEdU9ISS05ZEhabjRFUEpCUU9Xb3JUZm4yYmZwemtzcGJYcHU1bmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Czech National Bank Purchases 8,683 Shares of KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0MxdTk3SWVmUFZwd0FlVnE5bTQtSGNxZTJXNkNEV2ZRMVRqcFhlaXpXSXc5MGkzdXFPWEQ1aV9XX3lFR2NKVk81S1VKb25IRzVzc3NSVURtZHZpX19SRF9LNDRUaHBCdFJ3QkQ5cUN6enYySE03N0FlcGE5RmRCQUkyOVZrLVFBNFI0dDA1bDBrWG0xeTUtRzVLQ1d4SEUzR243SFZuRklsZjNLVS1nX21rbFl1OTV6Q2lnVWZWeFQ?oc=5",
+        "title": "KKR Sells Massive $304M BrightSpring Stake: Secondary Offering Prices 14M Shares at $21.75 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXRkcS1iOHN3MTFENDMtaVNJWWtqMW1UcGxkTEpKVmpweDFOZjRfSUN5WFpUTlNRdmwzOU1tUWxmVjFzWG9Pb0w0UF8zVHlVTGNPWDdVUTJzWHZHTS1WMndwOGY4b1d2NWhuSHBJb2tYcmhqZTFKdjd5eUVXRkVUcHh4eHhWMWZuc0wzRTM2SkJtSFRRYjJoODFZWk9rYVpIYWRLQ0hOMG42UE5kOUtzSWVnVGVuOE1nNmc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Triangle Securities Wealth Management Has $7.44 Million Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkJxX2llZEM0bmVJNEdjYU5ldzBDSWZ4Njl5UVhXZ3Q4S2hsU2MzSHE0cHBKVTZJQXFOY2hVd2k4WVVnNkJVb2d5cUhRRzhTcDcwb25WcmJhaGo5cFFmMkozWkdDZGl4dThBd2plUjVzZl9pNXgyTmJHMG5uVDMtV3BXbHhTbEoza3FBTi1nYzZ2SEt4MVRXaGxUVkdsRkN3dXRtMkpsM0FfdFZLWllsWDQyMWVqbzJnVmkxOFlmMnhkM3hQOXdQVnVKd096d0RSYUhj?oc=5",
+        "title": "KKR Expands Tokyo Real Estate Portfolio with New Acquisitions | KKR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGVrdldxM2JPR3lBa3dYNmVVZ3FReDN5ckZQa1dYSHhlb1pWSm1hY2JNNVZrWEZZdXNlVkVtQ2tfMVdTY0xDRVgxUnNfR0VnNW1ONEw2VGstcjVLekdoa2NDR1RELW03ZTU1Mlh2UVkwVzdyMUFsdVU0cV9oOGg5aE0wLVR2TkVVek4wTFlxN0d1aXVqLThEaWdfNlQySG1ReVdETm9FMWpBaks2dmhGWkR6bEJnZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "RFG Advisory LLC Cuts Stock Holdings in FS KKR Capital Corp. (NYSE:FSK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3ZFM19jaElvYVQ4Qm04S21VUVo2UWZZZnZnYzZVN19UU0Y4Z2ZwWnl1MXJEUXRyMEMzWTRtdWppbFJmV3Jlb3lUTWhsVXlLU1NoSEZISkN6YkNUUExzUjB3M0lTRnVuRVBacm9oeS1BUGw2NUk2UFNGaGk3MmRFTnNNVlhGUHpLZWJzSjlwN09jS2lEWWFTdEM0Y3dxTzhrWnE0TThMN2R3RXJOdTJjQlhvUW1KVV96eUVod3g0RHExcHV6b0pz?oc=5",
+        "title": "KKR-Stonepeak raise bid in battle for UK's Assura to $2.3 billion - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBReGZybmkwMFlpQTgyVWVBSkp5d0Nzd2JYVFJxRGp6QlltZWZBWFU2VHhUdnBnQ0c4azFKQldvUldwTWFZbDY1emFBVE05ckZ6dXpKOHAyZnFuUlVDSUpFQ05qV2M4MW5HLVJPV0ZaVW84bmhNRUZDdGZZNkI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR's quarterly assets under management miss estimates, shares fall - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2hoOEo1TEg5NnFQZ2xKQ1N6d0ExWUFDb244WDJYMXktRjI2RzNvMkxCWkt1SHJYVng4Zk5yOXNoY1c0N194RXkwTTFJMlFHdkRreUw5Z1c2RnZuUFRsdE9kWUFEeW40RE50a3E3VDFmdF9JbE8xb0FydGRoUEY4dl9lMS1CRklMbGpkWERLNnJuR1FVWlcwb1ZocTN4dm9BRGxZaE1nVzZpX3BkbnVF?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Squarepoint Ops LLC Cuts Stock Position in FS KKR Capital Corp. (NYSE:FSK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5LT0hIM0liZE5DelFhcFRKN1BIcHU5cHd4YmVSdkdLR3NFczM1cVVkWnIteXVfYThvak5RZGtrbktfc0pRV1BjY2Fpd2JVajRYdldMam44aGxIekdyX1lDZXBnSTkwQmNwYmFLcllmT1dJN1AxZ2pmcHByd002Y2ludVFmWVdpTzVmeDdFVlRPaFh6Sl9BYVc2eEN5b0VzLTZUU2V6NlN5QmQtNXhyalRJS2lMeDEwcExsU2lXWi1sWUdyRnNDNXpBbw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Legacy Wealth Management LLC MS Has $865,000 Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXVpN183ZUM0RHhJSmhhTW5JV0FJU3hWeXZGN1hhd2V5VDVQb2J4SVU0TDQwanF2ZEExUmVSOU9IUUN1T3pvWm5DUThLLXNNeTBjbU10RElGZHEzWDd5czl5bTh5ckFMbjhrSENoS2d4d1JPZElFTzhxSEpCdjFlVHN4ZmxGdkhZZWdZTGUtdEpGRjl3d2pGUzJIT1JPakEyOHpCYjZlNjdiTm1PTFRKcFBWT21mY0l5ZW0weUFjQ2JEcHpoZHFZVU44NA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Timothy R. Barakett Acquires 35,000 Shares of KKR & Co. Inc. (NYSE:KKR) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnVqV3ZZcFpmMHJCX1p2eTd4WGluNVNFSElDR2lBcGxWcFpCYnllOWd0REE0Z2s4bEZoRnpoYnBKNVB6OXRkVjVHUlg0T0pVS1hTdHJuYXdMYmQtV21DVjcyYjh5djVGT29BYXJwVXloNUFnbkNZU1lHdmQyOW1zb3JONVJVZWFqMVZWMXZHaVZLSE9JMC1LRWxMankyRVZpZjBIOWNsbTZ4RHg3V0stQ1dSeEZqN3lYRlM1Y2UtZWs?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "KKR & Co (KKR) Stock Price Rallied 80% in 2024 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRcWl4NHpxeWNvSHBoZUNrWE0yQ2ZTM0FlVlBtQnJJdkJlWFg1QTlxdC0zWU5ueENaRjdkODNXUkFsQUNQbnlOeG9pTWpDTjdZX2RDdVJ6ZUdkM1N4a0c2dGx5S2tPTzBMWExQNXJlYWJYdldRT3M4?oc=5",
+        "title": "KKR Injects $500M Into Entertainment Giant HarbourView, Expanding $2.67B Media Empire - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkdkSDhvdl9ibGctRWVuaUxtWGNBWVc2SmUyWi00WFlrYU5JeVJtZ2FyX2ZlZk5UNmtEQlhGX1dsQlFGSmx1dkhsakNnWDAxcC04ckFrWGxqa0RKQ3lmckZfNFMxbjNoTzhoLXNZTVEwRm1hNzZ0d1lhaURzOEdHWmQzSjJTazNvTDdvbnBZTUltUmJ5YWZmSHBGYTdMZG00dkZNV0l6bU15ZnFobDl0cnUtUDRma2pCcVFFLUlPRQ?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

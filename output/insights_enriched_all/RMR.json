@@ -2,16 +2,16 @@
   "ticker": "RMR",
   "name": "The RMR Group Inc.",
   "sector": "Real Estate",
-  "market_cap": 257461680.0,
+  "market_cap": 265478352.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.7125,
-    "PB": 1.0990634,
-    "EV_Revenue": 2.072,
+    "PE": 13.108333,
+    "PB": 1.1332853,
+    "EV_Revenue": 2.179,
     "ROE": 0.11129,
     "ProfitMargin": 0.10253,
     "GrossMargin": 0.9939,
-    "DividendYield": 11.97,
+    "DividendYield": 11.04,
     "DebtEquity": 27.017,
     "CurrentRatio": 2.51,
     "QuickRatio": 2.343,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.2769467805253147,
     "ROA": 0.052529998,
     "PEG": null,
-    "EV_EBITDA": 5.925,
+    "EV_EBITDA": 6.233,
     "BuybackYield": null,
-    "PriceToFCF": 4.7476603364743175
+    "PriceToFCF": 4.864810250591912
   },
   "technical_indicators": {
-    "RSI_14": 54.13571186730621,
-    "Momentum_10": 5.717254274549282,
-    "MACD": 0.082217687308189,
-    "BB_Percent": 0.7048902956684517,
+    "RSI_14": 55.85209596929577,
+    "Momentum_10": 4.172179767225158,
+    "MACD": 0.2916207493461513,
+    "BB_Percent": 0.6954931149847564,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934459286671708,
-    "QualityScore": 0.4018604728673781,
-    "SignalScore": 0.5017903892342406
+    "ValueScore": 0.8961136419217077,
+    "QualityScore": 0.4102151169580118,
+    "SignalScore": 0.5346356599232627
   },
-  "volatility": 0.0160481555764546,
+  "volatility": 0.0166156968582747,
   "beta": 1.191,
-  "return_6m": -0.263466983429969,
+  "return_6m": -0.2443358057125557,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 22.26
-      },
-      {
-        "date": "2024-12-10",
-        "price": 22.48
-      },
-      {
-        "date": "2024-12-11",
-        "price": 22.09
-      },
-      {
-        "date": "2024-12-12",
-        "price": 21.91
-      },
-      {
-        "date": "2024-12-13",
-        "price": 21.97
-      },
       {
         "date": "2024-12-16",
         "price": 21.55
@@ -537,27 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 15.4
+      },
+      {
+        "date": "2025-06-09",
+        "price": 15.87
+      },
+      {
+        "date": "2025-06-10",
+        "price": 16.17
+      },
+      {
+        "date": "2025-06-11",
+        "price": 16.22
+      },
+      {
+        "date": "2025-06-12",
+        "price": 16.31
+      },
+      {
+        "date": "2025-06-13",
+        "price": 15.78
       }
     ],
     "current_price_data": {
-      "price": 15.4,
-      "change": 0.35,
-      "percent_change": 2.33
+      "price": 15.78,
+      "change": -0.53,
+      "percent_change": -3.25
     }
   },
   "news_sentiment": {
-    "summary": "La RMR Group Inc. (NASDAQ: RMR) a récemment fait face à des résultats mitigés, avec des bénéfices en deçà des attentes au premier et au deuxième trimestre de l'exercice fiscal 2025, entraînant une baisse du cours de l'action. Cependant, malgré des signaux négatifs, des investisseurs notables tels que Millennium Management LLC et Ameriprise Financial Inc. ont augmenté leurs participations dans l'entreprise. La stabilité de la base de revenus et les annonces de croissance soutenable semblent indiquer un potentiel à long terme pour la RMR Group, bien que des ajustements stratégiques puissent être nécessaires pour rassurer les investisseurs.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
+    "summary": "La nomination de Mary Smendzuik en tant que Senior Vice President et responsable de la formation de capital au sein de The RMR Group semble être un signal fort de croissance et d'expansion de l'entreprise, malgré des résultats trimestriels inférieurs aux attentes qui ont entraîné une baisse de 5,3% de l'action. Par ailleurs, le groupe a souligné sa croissance et sa durabilité, ce qui pourrait influencer le sentiment de marché positivement. Cependant, la vente de 25 222 actions par Two Sigma Investments LP et la baisse du prix des actions de The RMR Group en 2025 posent des questions sur la confiance des investisseurs dans l'entreprise.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Millennium Management LLC Acquires 70,127 Shares of The RMR Group Inc. (NASDAQ:RMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUswVHVGVzduVkJqa2h2c3FjSHB1MWZyU3lubFBOS1E2Mk9SQXdyWmtvOGpBU3ZxbE5TczFvV0J2OXo4NE5PVW44NFZhdGczdHF6YmlNUzJxWVE5dlkzd1hsNy1tRkFXa3JkYjg5cnR0bnRQYUlUUlNFYVZUc0d2TGpZSWNNTTNRYmJ5eXFQR3V0eVF1TDhDbVhYM3ZudkRzN0hnWHdPOHpZcm5kd05HLUIxd013OHBaSXF0SFJWM3NyU2NnemgtZGJR?oc=5",
+        "title": "RMR Wealth Builders Grows Stock Position in American Tower Co. (NYSE:AMT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDVxMW5Ra0xYOUNtcVF4LXZNSjZLQ1BIbmtRbXg5MTJsZ1U0T0kzN2hqXy1DcTA2eV94a01uVEEybDV4dmR3UWYtbWpab3hGV2p0YVRzSlowV19pSmxQRFJUbmdldlg3TDdBQl9VcnZyVUZCU3lEc1JUSktRYXRkRVQtM3FIZjRRNWdTSVVpUExjUlVudnM3THp4eWFPOXJEV3R4eVo0T2FfVElwWnF5UXd6V0ppWWQ0UFhLY2tWblQ3Ti10bTV6aTFn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RMR Group Taps 18-Year Veteran Mary Smendzuik to Lead $32B Firm's Private Capital Expansion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjk1UkJ0UGVtSWJHU3dpdEljNldwTTVzY0VjMTRCTTNCMUlvVE9vV3FIRzFLelhkSXc4VUU4VDEtVkVCaXY3UDU5S1JVQmVWM0dmR2NGa19yaGZ5T0NRVDFKVWRQbG9xSGFTREJNb1lDSlI5U01TcHVjcGtZcVlIUm1pUlZHdXk5djRfMG5weDlOOXJoNW54Q0Z4X3JMU0g3WDJqbGNkdU41ZUg4QnRkQTdpMHdyS1Eyd3IzbzY1SQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,73 +571,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "The RMR Group Highlights Growth and Sustainability - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDRXZFZjVkZrQ0o1R2ZxT2ZrcVB5NllVZ0ltRURkNGZ4bWpvQ1ZzQ3RZa2dYZURid0E0ZnhUbkgxSTBLdUl2anlaNjZITkJLcEtYaThYZGVicjhWbUIwMTgyOG5uMlBuMGRDUUpPcW9oU09zX3BFSzA5ZmdtR19PbHZzVndlMXIwRDd5YTVvLXU3U0RDckgzeER4OXU4NXBqMTgxUg?oc=5",
+        "title": "The RMR Group Appoints Mary Smendzuik as a Senior Vice President and Head of Capital Formation | RMR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTDdEUXpZV2hpdnlXRHVoakxjYndINzZENE1sWkx3UXM2TUtZckFxRS1MOUl5bUEtRVNnSk1yUHhzZjRZTHd4OGo3dFJTclVvdVBJSEZWZ3FueENtVlFjaDUwTEdLVHJPT1hMS3NER2RVck9iYXltT2RGdFFUYjJzcEhGV0thdE5RSXdkSlVHcXJKRGVNTTZUanVSajhXdXlIUWh5cllnZXJ0Q2dkX1NJOHBuU0ZnWU9DSmJ0ellxcWNJUzhVeEJrbTI0ejFfSEtNbXU0SFdldzRrN2FiOGJUekJySQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "(RMR) Technical Data - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdOMUpqNFdORFE3TERNeFVsU2NoNzJmbnJTSHBlTnpqU3Y3Wk1meDg5bV9HTEFxVDBtODQ0djVZLTlPNmk1UXBiOVBVekthNnZFX3ZFSEx0TUphMkcwZ1lacWVXU2VzZ3hka0R1c0oxYThTcVZ1Yld5SnNJNUFZdXFXU1JrM0Q1UUVLUXZEU3RJT0ktWHptdQ?oc=5",
+        "title": "RMR Wealth Builders Has $1.91 Million Stock Position in The TJX Companies, Inc. (NYSE:TJX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRWo5Q0NtZlkyVWVCSHdZeUpHc2JYZXV3Mkt6bEFsckFNM2pPcEgzMUEyaTNCc1lmc1E0Ti16enhydnB6NFJSZmU5N2VKajFDeHYtZDBVYUw1dXQxSlRud0ptblZHa0JhY0NQMVZrVGNxN3NFWHl2NHEyZjBYRmNUMmpuRzROY000eEd1cldxXzFhQlp1ZGVjbGNIN1NDaDNTUnpVaVBZX0tBei1MdFFpS1BqSlV1MjF1dTVZdDVqbVk2S2VIOG9zWTRKR0pCN254MXpCVlcxOThrUEJp?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The RMR Group Fiscal First Quarter 2025 Conference Call Scheduled for Thursday, February 6th - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxONUQwSHlsQ2RJVWphU3NtSklVcG5xQVhyV3p1U0t5SFE3U0Zhdk41ZmFVTFhFYm5sakg2SDhOd1ZoOE9KcmdNbmtZTGFzZjRSdEw3WUszWVdWTGl5S216M0xPdXBxZ3hLa2pLMnB4UGpGZnhYc2x6NUxmUXpOY0NuaWJGV2Yta0d5bDVxeDZ1Y0FMSHNGTXk1MnN6YzMtdEdHOG1Gd29kbVZ3RE9Uam90TkhlZ2hnWTEySkJWX0tIX3BQU1ZSdzlBQW5vX1pjQzNvNDU0eGZ3RHFabkdlV0poUHpXRldqUDY5SHR4Wk01eEZCT2tDY0tuOGs2aHpVRUZ1M0xST29kUElqaFJtTnM4UW1hWll0M2UtbzlHNXFxbWVKcTB3NnFHLWx1YW9XZzhkQ3VCMU5GVUNEeXQ3eC1yQzZOSjZ5WXc2NVdQSEZR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RMR Group (RMR) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVNFeHphVzN1MEY0NVU4T1ZqUmVZMGt6alZFMk9lcU9pTUg1MkxkMDNyWUtoZ25lbjhTWUUyRmM4Yk03T0dYMW53b2tHekZNbWw4cEx0OG9BdE9pWlVYYzBJeW05MXA1bG83cXQ2MTdpVHFxb1hteUdMX0o5VEhLOGVRVGx0V0gzRGduQUV1bDlRal9aQ21iZXVYNlJfbFpEdnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "There May Be Reason For Hope In RMR Group's (NASDAQ:RMR) Disappointing Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPazdxdGpKcHVZQmE0aTZrcWRDcW0tOVd6U2JqaTZfZ2RkQkhmazJka09JakdVc19BOWYxaDEzdi0xWDRhUVY5SkVSb2VCZlBJVDlrLUtlSVlxQTFFaDFnNTZwMU5aOHlMQVlzVHM0Yy1lc1JnZHBTT0x2dzRfcnljQnlmUHdIc0NOTUpycXFFU1BnQVRSeVZwUC0yVFFwYzJER1RBNHJadHp2MkJtNUY4Y3MyeUFYY3ZPXzBHUlpCeVdwaEJzU3RLTjM4RlYtNFFsYVJiRjJLY1BXSXRwWTNWWTgxWFpvWk9OTEhjejhB0gHzAUFVX3lxTE5Oejd0dGJVWEJtM255RTNmR3kwVGFrOFNjTlZJTkdoOVNJb0I1TGJUb0d2MnhOZWhRNDZSUEh1enNFb2ZJWkVtWm0tbHhTdlNKelhsS0QxNENveEU4OEthT0NPdUVZYS1pMmhDVU5sVER1R1poVnIwWGprMFpjclh0TmRYMkNubGh1UExlSF9VNFczQmJsRHlScHFNYnhySGxHbWZ0dHU5X3RCVTdYdjBtWjRnYlRrckdjM25nQXNBMmZ5aXAxekJJaUlrdTVpT2xYR2o5REFUT1FNRGVTTU1kTTR6ajBVSEtxaG94NWVSN2M4UQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "The RMR Group Inc. (NASDAQ:RMR) Shares Purchased by Ameriprise Financial Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGVQZ3BMV2Z5cFdtU3R0aFlxNjY0MjlZcFJLUWFiUG4taFU1YVE4NFFsSFAzcHU2S0ZLbktTbEdESDV0LTRQaF9wT1RzYURjU3NwcmhseUJXeV9wUXBjeERFTi1NZ1RROXQzU3dpRG1hTWtIbU5yWTJXM1hlZnBqMUtRYTlxNWRDWE56ZWdpUDVqRXFtVUd3VHRYRXlVX242Ym9DLTdIb096OEdHMy1sVlpITWFsbUtEZGs5UUQzVGFmR1JSX1hjRnRicHFHbHhqV0xlaA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Earnings call transcript: RMR Group Q1 2025 misses earnings forecast, stock drops 5.3% - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzU1cDIxNzZPdjhEMEhqM1RkYm1raHNTVFE1ZENtdzNvRDJ0V1hfVG5qaUg2WkRwaHhqOXNlNXBfd250ZElsS1M3eDFGNFljUnlod2FEUU14TWpFWGhlWWhLZG9OMlJiODdxX1piTzJxcVl3SXhoRG9Sb012UXZxc0JuN2JDaUtETDQ5NVdYQ1d1aUtpV0JiVFBCeEdqa1NsdVVKak9QRDRRM0MwUjFrc1VlNW5zWHB2OU5JdC15ZmstSXFRRDktcm8tOGNXRkphMmRGTA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "RMR Group Just Released Q2 Earnings: Conference Call Details Inside - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjlBb095ZFU0V0F3c2dHWk9SMklBUjZwampiNjRKaTlBblR3eUdEeTVSWGl4WV8zck9vc3k3S3BsRC1vVlRyTzhSSVdOcDdCY2J3T2dkV3dZNVFvZnpwMm1lX0gyNjhhM2Jld1JVVVpXQlFqTGxFUnU3VXo0TWlvb1RYcUlHSmlORmQtaVlpMjNvV2hMYmJPdmFuSVdzVjlEMG9uclZqaWF3RmJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RMR shares DHC plans to sell communities, AHR discusses Trilogy acquisition, Sonida portfolio grows by 30 percent - McKnight's Senior Living",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbnVLSUZYUlF4WVV2RW16Z2ZMZkRlbkRDX0cwNjdnSHIwenFhX1JpaEl5TUJXel9pM3BPLVpnWXI5cHVpWWpxdkFfYTM4N0x0TnF6MnI5aC1IdTMwajdvUmQ0WjlUNm44VXFyTk1xem5ObXZwZUNvb3k2Ry1WN29rM1E3bndHV0hkSnB5d1VSUmRZc2NycmdjN05fcFpPZGZpXzFUMmVrc3B3LUF6b3VkLXJ4X21RcDFUYjZVaFhiZWpTeGhrNWdVdkR1ZS1OQ0N4ZDYwY0NKWDBlamRPNGQ5cExudDFaaGNOekZz?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "RMR Group: Stable Revenue Base Is Intact (NASDAQ:RMR) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVlweElrREdTbFllbHJnQ1Z2Y0dIWk9kbnE1WU0zWjBiejBITHFFRnJEdXNnN0FmVHN0dlIybUgtZDN2X1BXblBFWVNkYlNzNlVocFphbjc2R1FCZ0xCR2o3eFFaQ1ZzeTNZN2llU3ZBcl9neHd1QTJKM19JcmZUeXI4bHpPNXV6cm5tbw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "The RMR Group Inc. Announces First Quarter Fiscal 2025 Results - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWg4MkQyS05TY1BULWVTb0xQdEVXaXBCVWdwVjd2VUp4RU9FRnA4QUtsRGJKaHR4aDVKUXYyR0VhQmlxbWFmV2FXSFVNRGNCSWlWeXpRV2FabUZlTnZhZkJEcE9uMHpncE9kMlhmYXc5WDkwdzRYTkR0RlludDBJMXZwS0ZXWGNfekJSaW1iTTNkUmVlamlObXpPUXlvVmVuWDFzbDRqVXRsWUk4ZUxBNGppa1JBNnpNUF9j?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RMR Group (RMR) Q2 Earnings and Revenues Lag Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tS25QLXowem9Ndi1wM19Iem9uS3o5VHFYeVBZQkpjVC0xYW5ReGVoejBLU0Q4TElwcVBKc2xHdVNMOU94U0d6M2ZWczdVa3JGNEx1MGVzODBZNVZfZW5kekNOR2NxaDkyb2hCUkhVaGFaTUlSa240aEpkQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nuveen Asset Management LLC Sells 144,340 Shares of The RMR Group Inc. (NASDAQ:RMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSTN5NVNXbkI2NllpYVpNMklBMWhNQk5oLTlZYWNoN3BUanVOUG9BbXRMMk5uMGU2dndEb25pWDV5ejhEWVFaNjRNd1VwY3JGU3ZQOTF6RVk5U2pKbFR5U3A2bFZlRHVKeDRTbk5DUmNVM2x5ZVczMVVDNGhlbWNZUmk0b2dXekZJcEtCZC01ZE9HcnRfV2hQVjFKN19PeEd5SGZVTUs1bHNOQ2tEajBUWTl4c0J4aEhCWHJBTjJsREh3ZElxbm5aaTJLenNDYUtScmdkQlVR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Industrial Logistics Properties Trust Q1 2025 Earnings: Key Financial Metrics and Conference Call Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGJHdzZhZFRjMzJoQ3RmSWZZTjlLNnBNbXoxMG5HREl5Y1ZBaWpDS3l2MlplVEJWYjEwQmh3aExhODBlNlMzTWp1eDFwaEJpZXZRTG9rZzZiZjdRODYyVkpLSjNQN3J0QVFWMFJfd1JWY3hlaEh0SXBlLU9UZFZxRFg2U2RNdW5reHktVFl4RlpQV1dCdWh1cG9FVGJSbnhkNkpDMmYtbnIzY1NOeVhHUWxVQ3lRaFRNYl9UaA?oc=5",
+        "title": "RMR Group Appoints Mary Smendzuik As Senior Vice President And Head Of Capital Formation - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSFVNVElWSGhWeVFkU0p0c0cycEktbkZmOEVGZVhiaXY3UG43dzA3Vy1RT3VDamYzUHlScDBJelNaX0o4LTdYQkcyaEVmZ3Z4bFN1SEJtS1NOS2xnbDhzODc0U01fZWVkeEtxc3NEa2s2cmlpNE1GTFdoT3FEdWhSYnhaWUNNMmZtcDVvTnEwakl5cE9FQzRxR2lfMmJjSUp6LUR3MUZfWk1ZTU5sSVExeHFuVnR2S25jYXNaYjl6MFp4S195enNRM3dpRXVPb3M4ajZQenhtSjY0SXVPaWsyVnViRy01NmtnRUdXNHUwOFgxcFlxdnJuRFdzWlljTTJHQ0NJ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +591,71 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Seven Hills Realty Trust Q1 2025 Earnings: Complete Financial Results and Conference Call Details Released - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDlpbGRkNEVBeF9haFpGWGJKR0NPZlptczI3VWl3LWcxSHEwbkFSUVZNSnRsTElwTVhBN1pHb25ZYWdSd0MydVRiX2RZTm5xbEgtOEdYVTBzemV4dkNuN3U1bU9LV2lYU0V1OGowLXc4dEpvdktrVTJCV3RUT21qQW5JSThsemlodWFmbm40OWNERUN3Mk1sTnEySUR4Qk5USm1mN25jUE5ieXc?oc=5",
+        "title": "B.Riley sets $24 target on RMR Group stock, cites Buy rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkJ6VnBVOUZvTjEtX1o1bFBObFpheUhWbEN1dFF1UjRueS1XMTh5bEhOb3FqWmxYUGl5T0JFTWZYNWZRa0JlV01HWi1JU2NfcHhDOGEwVjdOUk9ucGI1ZEdJVmN1NndRNHY2d3MxTW1XYmllOGFvREJnV0RFdHY3Q09ONnFZazBnZUZJb0FUUUZKUEZWd1I4MGVpdV8xbW4wYjRMa1BrNmltMWVqSHFkVVkwcWVtcjhD?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "RMR Group’s Earnings Call: Mixed Sentiment and Strategic Moves - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZiVjktUmxVOXVVWUdPcVNqZjB1VkgtQkpndGI1ZDkwZVJvQTdHeThuWHpRMW4xc0xFei1HOEN0czBqQ0JFSkFwUnZHZFYtS0FQeU94Z2xyUXdPeEkya2stQXBXbXB1X0pKWlNNZnBGN1Y0VVc5TW1JY2U1dDI5cEktemlWVEpvYjNYQ1VXQV8wQXJMbDhZc1VRS1pWTy1RTllCSmhSb1plYU9sZmtuS0F3?oc=5",
+        "title": "Office Properties Income Trust Elects Timothy Pohl to Board of Trustees - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUFfbU54am42R2ZGMGZ1dTM1V3VxQm5ScW9PRXdsc3U4R1JwamhTMFo4dGk5eU9Oazd5YmEyRGFuNmRPR2tkWHZzN1NkR2JVWmswd3RDb3dZQmQwYXM5clZjQkFNS2J3TnN3bU1NV3Y0TXpVN1JxRDdWcTBCaVM1MG96NUNmdjRWeE9tMVNCMXVTZnhJVDRReWVhTG8yWFozMmZQcXd0TFl3U09YOWRpRnJYZVFfRDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The RMR Group Highlights Growth and Sustainability - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDRXZFZjVkZrQ0o1R2ZxT2ZrcVB5NllVZ0ltRURkNGZ4bWpvQ1ZzQ3RZa2dYZURid0E0ZnhUbkgxSTBLdUl2anlaNjZITkJLcEtYaThYZGVicjhWbUIwMTgyOG5uMlBuMGRDUUpPcW9oU09zX3BFSzA5ZmdtR19PbHZzVndlMXIwRDd5YTVvLXU3U0RDckgzeER4OXU4NXBqMTgxUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RMR Wealth Builders Boosts Stock Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1czQURnX0t2UkV3bEhDR0llNjlmVFBXQW01OVFCODMwWjFtc3kwSG1nb0dxdGtPTGdLTWVlTHJBWjMwTHA4RjRkUzJIVTJxcWhKbWFMNnQ3amVsRmgtNDhxZERFaFJrQjhMWTk4V1BNVV91TG1LdGVTTzJtRTZRZXpsVUxSVzZrb2dfQ2ptQ0ctM3R1Y0h5SlA5YjA5NVJpbHNLWVgzNjF2bWtBZko2LUdPY3RvdUpCcDZyXzFMRnBzTDR5Znkw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The RMR Group Appoints Mary Smendzuik as Senior Vice President and Head of Capital Formation - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb21WeGhpMHpfUmlSNjZCT1dEWS0taFkzLURSNG9aRHVlcXhSVDFZRWs5aVh1TF80enMtdHhWVTNHejdPZ2Y2bmVPUFY0WHNjME4wTnFlaFBvSjlhRWdIOTNCdGRpMnFWMi1oMW15WUtOUTg2OGhXX09UcnhESTB3RTFSNEVKUzI1eEJiSE01YU5pNk16eHBCcUwyVzRKRGM2YzlESVdZNzZhOGRfTXQyZzlTVFpJSWgzZ0JwNmlYNEFfS0I1RERBcDM3ZGZscW1DeUpFZGFUYXJhMTJ6cmdLd2FEazMtcHBQZHI0aWdOT25oX1BDNmQ3TlpzZERGemtrdGM3ZjVCcTk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Is The RMR Group Inc.'s (NASDAQ:RMR) Share Price Doing? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZ1JDUFBMVFhYbndwREk0OGNXZ0hiX1dsZzZQWG1Zc2t3TmJnN2RVVXc4TnN4OGRDRW9Ua3Q4NXhCal9Za1MyVHJORGU0cy0tdmhxMWZqZUQ4SXlIMTFTbTNJeFJOSnhTUkNqcjV6UXVrYzBQQUZTQlNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: RMR Group Q1 2025 misses earnings forecast, stock drops 5.3% - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzU1cDIxNzZPdjhEMEhqM1RkYm1raHNTVFE1ZENtdzNvRDJ0V1hfVG5qaUg2WkRwaHhqOXNlNXBfd250ZElsS1M3eDFGNFljUnlod2FEUU14TWpFWGhlWWhLZG9OMlJiODdxX1piTzJxcVl3SXhoRG9Sb012UXZxc0JuN2JDaUtETDQ5NVdYQ1d1aUtpV0JiVFBCeEdqa1NsdVVKak9QRDRRM0MwUjFrc1VlNW5zWHB2OU5JdC15ZmstSXFRRDktcm8tOGNXRkphMmRGTA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "New Strong Buy Stocks for January 15th - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlFNUmxNbUtRUmRic0Y5T2hMZTBBaHc1VWo0QzJWYUtiMEdEVHB5SVpzc2hwWno0QlkyRU1oSzJ4am93UjVFYWxSOFJQQ0p1QWVqVks0Z3ZIb2JPc3FNNWxCb1l5TXVmLW4tQmNoS0hJdUFVcUxLZkV2alJiYUUtMkhR?oc=5",
+        "title": "Diversified Healthcare Trust Lands $150M Credit Facility with Premium Senior Housing Assets as Collateral - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUV0NGRfU01qYUZLSm10TnNJZU5Ib0p5WFpVRFd1TlhQdjVnT3hsUTZleEYxNEo5eW9TbWxraEFqOUxmcGdqWTJjVW5lTWJ4SFZHTnhlMHZ2Q05qdXE5UWZvMjNRbm5hRmFEaWJuNmMzcTQzNlpkMUdmVDVMVHd1YXhVdkR6b01nUTFpMmd3SmE0RUViS044VmhjYmp4Z2ExZFlzSUF4enZqeE9RSUxsTlk4SXEydw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Sells 25,222 Shares of The RMR Group Inc. (NASDAQ:RMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc3U0YklEdnltU1R0TThtT2ZKM3BBclcxbkhMMGlDVGdVc1dpbEUzZnRFbDJ0dUwweEt4UmZ5TS1yV011dnZlTEJnMjFHSWk4NkcxMlVSal8wZTlJbkhuTGpmXzNRX0d3TzgzQlcwOXdfNWRqTmFXQXc3amlZdkdWM3ltT0xlVzBxaWlycDA2aW5xWjBTaU1Va1lyTUVwMGRsOUJCYllwcDdvRzJFblh5aVNhNEcwVkF1XzZlczBmLXBQcHYxWUhSbVVpOC1JY2Z4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RMR Group (RMR) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSVm5uNTNPcTItdnVVSzJGLWJzNVk5UUQyXzVHYkdQaldiVEJ4QjFsdGQzeWtFSVlUdkRzSEpSZzlFVUkzWW5HSlBWQ01jMGk5NjVWREJRZ0JUYmRFcGxPLVRlaHVfVVJidTBLQ0R4emZCRDVLcllfNy1jQnVpUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RMR Group appoints Mary Smendzuik as head of capital formation - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3hzRmVqaGxXbnM3bFJoc2w1UWtwMl9lTXZnNG0yNUN1c0dUMmg1WnpJb0VfWVpXQlREZjVSTVd0QlNqQk9OVVRaYVkyM19nR3ZYNnJ1Sk9aV0hZOVdKdVhqR0t2ZjV3b0FlN2JqZGEyT3VNNHdPcEZMd2dCWWwyVFRYQ1JmcHpvWDVnWUNWY05WSVl2RVJ6OElSY2ZBbnNSY18wdURTUlpfdzltWGVXdHBUVlYxM3QtN3pN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RMR Group Just Released Q2 Earnings: Conference Call Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjlBb095ZFU0V0F3c2dHWk9SMklBUjZwampiNjRKaTlBblR3eUdEeTVSWGl4WV8zck9vc3k3S3BsRC1vVlRyTzhSSVdOcDdCY2J3T2dkV3dZNVFvZnpwMm1lX0gyNjhhM2Jld1JVVVpXQlFqTGxFUnU3VXo0TWlvb1RYcUlHSmlORmQtaVlpMjNvV2hMYmJPdmFuSVdzVjlEMG9uclZqaWF3RmJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Office Properties Income Trust Q1 2025 Earnings: Key Results and Conference Call Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2MtNVp3Zy1BaVF6a3AxWno5UlR5U1pDb0RtT09YdTBKalJVNVBBR0JEM2JIbTlkdm1DSW9sNkdDcXZsdHMtRWhxNmVtRmZBSUszLWwwU0Vzd3BUQ1I3Y0RoSTVfSjBWRC1LMU11MmZ5NG9nZk02THRBUGVrODhjT1BXSElFNFJCMjFvbnNEUEp2eDF2RlFxZXdBa0NEdktSQU5COEZIZ2NSeFRJVEhxSmR4aw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "PKG",
   "name": "Packaging Corporation of America",
   "sector": "Materials",
-  "market_cap": 17673420800.0,
+  "market_cap": 16984624128.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.5455,
-    "PB": 3.8981283,
-    "EV_Revenue": 2.265,
+    "PE": 19.724138,
+    "PB": 3.7462041,
+    "EV_Revenue": 2.251,
     "ROE": 0.20211,
     "ProfitMargin": 0.100880004,
     "GrossMargin": 0.21913,
-    "DividendYield": 2.57,
+    "DividendYield": 2.59,
     "DebtEquity": 62.289,
     "CurrentRatio": 3.277,
     "QuickRatio": 1.992,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.04542090202553026,
     "ROA": 0.08675,
     "PEG": null,
-    "EV_EBITDA": 10.959,
+    "EV_EBITDA": 10.889,
     "BuybackYield": null,
-    "PriceToFCF": 45.60524700631141
+    "PriceToFCF": 43.71574692237699
   },
   "technical_indicators": {
-    "RSI_14": 59.53698244381522,
-    "Momentum_10": 2.052926512599894,
-    "MACD": 1.6291464658950758,
-    "BB_Percent": 0.8606299155445383,
+    "RSI_14": 43.33713166280212,
+    "Momentum_10": -2.293312997760038,
+    "MACD": 0.9666768131541515,
+    "BB_Percent": -0.0937037856783416,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9318205125125322,
+    "ValueScore": 0.889478241177679,
     "QualityScore": 0.3427335806027408,
-    "SignalScore": 0.5208455110594057
+    "SignalScore": 0.6263011547098081
   },
-  "volatility": 0.0187123169558918,
+  "volatility": 0.0188645516713607,
   "beta": 0.862,
-  "return_6m": -0.1814445286950452,
+  "return_6m": -0.1978113754150031,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 239.63
-      },
-      {
-        "date": "2024-12-10",
-        "price": 238.23
-      },
-      {
-        "date": "2024-12-11",
-        "price": 238.64
-      },
-      {
-        "date": "2024-12-12",
-        "price": 239.09
-      },
-      {
-        "date": "2024-12-13",
-        "price": 238.1
-      },
       {
         "date": "2024-12-16",
         "price": 237.09
@@ -537,53 +517,73 @@
       {
         "date": "2025-06-06",
         "price": 196.4
+      },
+      {
+        "date": "2025-06-09",
+        "price": 196.59
+      },
+      {
+        "date": "2025-06-10",
+        "price": 197.24
+      },
+      {
+        "date": "2025-06-11",
+        "price": 193.21
+      },
+      {
+        "date": "2025-06-12",
+        "price": 193.31
+      },
+      {
+        "date": "2025-06-13",
+        "price": 188.56
       }
     ],
     "current_price_data": {
-      "price": 196.4,
-      "change": 1.67,
-      "percent_change": 0.86
+      "price": 188.56,
+      "change": -3.5,
+      "percent_change": -1.82
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de Packaging Corporation of America (NYSE:PKG) présente des signaux mitigés. Alors que des investisseurs importants comme Atwater Malick LLC et Wellington Management Group LLP ont accru leurs positions, d'autres comme Mackenzie Financial Corp et AEGON ASSET MANAGEMENT UK Plc ont réduit les leurs. Les analystes d'UBS ont émis des notations neutres sur l'action, indiquant une certaine incertitude. Les ventes solides au T1 ont été contrebalancées par une baisse du cours de l'action, suggérant une volatilité à venir.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "summary": "Packaging Corporation of America (NYSE: PKG) a récemment déclaré un dividende trimestriel, mais a connu une baisse de 12% de son cours de l'action la semaine dernière malgré des ventes trimestrielles supérieures aux attentes. Les analystes de Zacks Research ont émis un avis positif sur les perspectives de bénéfices de PKG. Cependant, des signaux mixtes sont présents, avec des sociétés comme Wedge Capital Management augmentant leurs positions en actions tandis que d'autres comme Lmcg Investments LLC réduisent les leurs. Cela soulève des questions sur la confiance des investisseurs dans l'avenir de l'entreprise.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Atwater Malick LLC Grows Stock Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2xXLWRZNUtXWWJnOU9lYXlHOHljTFFVd3hSaUFXLTh0dlV6T2Q2NTFaSlJITXpZY1ZTbXRXbkd0RFZ0OFRIeVdiOTc2M19TaElocW01dllCOFU3eXNOc1FjT2padlZKcUx5SENkcmxkNnNZVVphaTd4a051dkFVRThCSmJsSmlzV2JUQ1VJZ2lxVjVrUm51c0wxY1ZiMGQ3NkRsdGJ1V3BzYWVUaXVlQUxvWGg1NVV5a09ZUDNFNmpKUVIzSVFFTktoZEFyVGl4?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UBS Initiates Coverage on Packaging Corp of America (PKG) | PKG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVoycVlBd1VzTWtLbjRaTGtIR0tkRlRUbjJJTU5sYlVTd25zZDdocHRVQ2JqZlJEdHhpOVhBOFc0VXkxNk51bDBYeUU1eC1ieVF3RTMzbGdob0ZjckRxR1g0S1BSNV91Y0tHZDdwZklNcmhIeEdtR2NaTnZiNXBJVVFUZ2RvdnJEQ21JMzRZU0xEeHhBUGRwU2R0QW9KMTBuRzhMX1otZURTUDRHcERJ?oc=5",
+        "title": "Should You Think About Buying Packaging Corporation of America (NYSE:PKG) Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRC1fQ3VWZERGN1AwdEhtemw3U3A5RTlOckZrZWJFNWFqZnQzVFFDR2FyRFNuYWlBcUtsZDBoNFU3Nm9odklhYkxUMC02U19aTngzUFU4T1pZeUVDcVZKRFlKUnBsR3NMNTN0dG0za3R1NXBGZzZIRkZnX0o3bnM4TjNvZndkdE5DaTd3QVlpTURwUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Packaging Corporation of America (PKG) the Best Paper Stock to Buy According to Hedge Funds? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFp6Sm91bWE3eDBHX1U1V3Jua21XYnl1NDkydVNheDQxTmRiUmZZeVlxR0ozNmVrd013SWZBdzNxTzNBNy1SNFFQUGc1aHh5bHM0c3lBcG4zVnBYX1VhNE9GNWUxYVY1X1hNS3p5Y1F3bDBCZkNnOVA5UFdXT25vM21JbHlxSndrOFE1OQ?oc=5",
+        "title": "Packaging Co. of America (NYSE:PKG) Shares Sold by GPS Wealth Strategies Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnlVNW50T2lwUS1UekxJb0hJZjY3dnQtdDcwVVpydEg0ZUZCbnZQWmlJcE4wbExqZnlwc0RRbndjN3RnU0MyQlpORUw5Qm1qNFA3X29VWG9MQUZmQUtMUUZnYUo0NHRxdk10R2VqMl9hbTcwYkxDVVlweGxndXJTWGdCVjhTWk82S3BHS2M1azAyaDJPV1VHOFV2MVdsNnJidTRoQ1ZFOXdGSWVtQ1cwZTkxQ2FIU2NMNmw0c3lqdm5VczBQUXJGTmpwS2tCNHJqM1JpVnFR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Packaging Corporation of America: Guidance Points To Significant Weakness Ahead - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRS05Sm5fVlZaTk41NjNraWRmcElVbFFtX1QtRzJ5Q2ZhNElpOHR3VzE4U3kwQUktNGFjaGswc213QkhldjhJTzZNdHE4cE93WTlfdm5ucEdzMnM4eTNhV0FpUGhScHhOZ3NvbVhVbjRiNlhqV0tlRWZhc1JBQ0Z1bkZiRmVUc3BBQWdRZW43YTkzNy1peWplOVltQ1FFNnEyeHo0SV9EUVVzdw?oc=5",
+        "title": "(PKG) Trading Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVG1EbWZMMlRHYkpLMnlabEhCUmFaNldhQ1VBM3YzVFpKNHJfbmJjdFlQUjVBOEkwcy0yUkhEdWo2ZDNIcWJZejJ0VkJ3OWxhRmIwSzJCUXZzaTY1TWVPNkNGOEpXQXJyUGYzcUk1TUhlaTFpT3dwaHBsbUc5NzI4S0NGSDUtd1ZHbW9TOExmR1FKRF9wcG02Xw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Packaging Corporation of America Declares Quarterly Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDZyNjNJbHBUakpSa1pZM2ZIcm85X3gwc0tTS0NyQU05NE42WmhRZmpQM3dWYThldkVTYy1mdXdrdWI5ZU0wdUROWGh4Ym5CR0FFQ3ptcE10dFdRRWFtNFlWaGNYRngydmpXTGhwMWxWOEhNRVVhQ25RVWxvdjh5SFk5N0xmajdIZWltR0tvUUFwMUpORUpSZjZYdnk1U3NfenRYdXIwVGM?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Wellington Management Group LLP Acquires 16,190 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHN2S3NweUE0eVNDVmdSMUoyWlpGNmJaMHZvNGl6RWtDV3ZMc3pqQmxvYVFUQXdaVWNrVGRzbjN6R0otYlB1LUZ2blcyNmN1cUw4aER1ZDlBaGhNYlBzWGtjeWtIZ1VJVUhKZGhiOFNTYTdJTF83SjJLNWdzVTdlTXRHci1EM1gwTkxta2NrazcwdDloeXNIOE5HOUJva1pySDNLYlZOYkZxdDZIS0N5RElYSFBRQm52TjJUVmx3cE9temUzTXNrMzAxS1ZVM3h2NWRfdE5OMnl0YUVVcEZMVE5ndw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Are Wall Street Analysts Predicting Packaging Corporation of America Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOE1mN2VNcWFkel9oWllzZzJXNS1KbnNkcHlOOGFGNTJac0k2OWQxcUNNaExTak9Ld2lRbHBUVHhIOVpOekd5eFhuZmJVVXVPXzVEc0IxZXpPbU0xU3p6UnpnR0dlLW5SLUo0RDVaQzNJWWNCc0RNMkFIekV1c2xBZGVBeDM4TXdrWm9mb3BUcWdCV0k2MHNGYzB6V043dVRrTXNrLXhFNWItZTVlSjd5LTJkNDlrZFJGdHdheEhBT2tDUWl4NzFEY3RHaUlMNko2cWVwT1J5WjRoemtpa0dnZTJlM0JLOERtWHdLbUZHeldoejFMZ3NNOFpLemVUVDRpM2Vj?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "UBS Analyst Assigns Neutral Rating to Packaging Corp. (PKG) | PKG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElUemtNTE9PSTU4bXRhTU9PNUZfellVWUVoQW9JakVYT3VGbldwSXBIUzljRFFGamg1TklDYXZZaVMwbU9XbGtrMjFTWnBMQ3JfcDFSMUNOMTBoSTByZnF0bWlTcXdsdEEwc2tJdE1YdENqMmgzZXdrVnplanNKR2dqcHJhNFcyc1hqZDhCTXdEbjJTNElTRE4zTEtMYVhtOFJxcUpEbUhpNXZsODJr?oc=5",
-        "label": "NEUTRAL"
+        "title": "Packaging Co. of America (NYSE:PKG) Position Reduced by NewSquare Capital LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzlMZkNDc2ZLQ1pneXl4ZVJvMUFmMFlhb244S3g0a0FOVDhwMnZ3bXhnZS1IVjlDR1d0bGRpeE5lS3pHZHJtNGZBUkVESHF2WDFabXdsR0xIX1h6amR5TXlmTFhzbnNiX2VDbjc2ckZOcEFYU2tBWWpHdTQwVHIzOThvUHlUMGhxTHJ4TUFSVmM4S20xeHpRZmJyNllkN29XN001Zm1KWVhHNmFWcWE1dkNFd1psSjlhNEZNS2JxNld4eTNBRkJiQXhESlh0V2dFY2c?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "3 Reasons to Avoid PKG and 1 Stock to Buy Instead - Yahoo Finance",
@@ -591,8 +591,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "American National Bank & Trust Has $1.92 Million Stock Holdings in Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN1pudUpPUHc5UjJab0F0YmZ2YjJuaHpRVW0xX1JwQkkzckgzaGx4TG5FZjJiakQtTzJwbE00V0haUlhIblM2cHR2S19HWFBKZ0kwbHpDaE5kbkdRWUhfZ1g1NG1hNDVPa0xPRUl6U0RlRUZ1SFk5SDhpWEJZOUhpTkFkMVkySlZvYWl6VEhqSldyV00tbzlGY0RFN1lxTnRqT3MxY1RlNllfTjBfeDJVQVFxV3UxTDdrc3ZrSmhXV1djR2FWdllDb3dVNktOWXVheW1TVHdBdEQ?oc=5",
+        "title": "Packaging Co. of America (NYSE:PKG) Shares Acquired by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTTRFYVZXVlpDajM1NWRYbTVLYnp6V01LRzRtMUV0amt0Nm9OWFpqX2pzUnZqUDFYSDRLMFhxU1JCQkI2alRIYjFpNThlWWhfVFFfOVl2VHdTSUxxQllWbThDOURsaEdXRHVuVG4yN3NCX1NTVl9iTHlCWjFkYTBOTnBVRjhYZEJmRDB1dmlDeHF5OWxJNWg2Sk0wZzRCVE1xUGlMN2QzRXNOd1FBWGRQZkJjVXVnV3gyQnJHd2MyaE5sMjV5bTE3NVdGblU0YkhBcXVxVS1HdERsdFZGc2hZ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +601,61 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Packaging Co. of America (NYSE:PKG) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNem1ING9PUWltUHJqMW9yVVcwRmJid1dMcVpfSUZNZDNEdWR4WTlUTmZHYjhvemRtZDM5cDRxNlZnaGpCbnIxUUQ2cUstS0paTWJkcmg0V2pKX3Y0ajIxZDQzdDhRSjU5TTlrcHJGVC1UUk9yZHl5cjllNElEbWNNZ3psdXhJS0pacUlIb05YUlAySW9fdGtlSWpDUDN5Z2RmcXBaZjQwUjU1enNObENLLVFCNFJkQmdxNjhyUEs5Wk44aWxxenFHRGdiQ2g?oc=5",
+        "title": "Pallas Capital Advisors LLC Has $692,000 Stock Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWFItR2t0dTFkZ09nMnZBV0VSNmtTSDFMU0VWWVZSeENlNlFGWEdRb1JKQXc5YjFhNGVJMWZ4cjVnZzVXY2duaXBRWWdWSnJNc1dnN3Q2T3RMQ2Zka1kxQ2hUNmI0NVlhUjU4WTRuVERFc2hLellJY2VPdFFVRG1EazRxdy0zVlNJMXlPeHBXOWE5TlhaQmJJV2lJRVhCeW9KRWxQTmtybXVOQVpXVDg0VFY1SmlwTjdJX1FoeWVSRHM3bXhpNXdpUzVYTHBnSWRNakdJTVQxbjNpbnJPbFR6b21BTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hennion & Walsh Asset Management Inc. Has $2.31 Million Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR0pSZkRCTUo2aG1HUEZ3T1QzeWRqb2dwdGFKeTVGU3hLQm1CMExfMjFKSFNIaFRuckpjRV9GMEVxQjhKdFV3WmRtcXM5enlsdW9JZTVOUlQ5ZVZiWThxaUp3aURTNDVPU3FqUDUyREtBNnhjMWVBNUtVVGtadGF2NXFFZTFBUTd2RlpWa2NLT3Z5dTl2Umk5SE5QcnRyX193UGRoUUs2VFlLWTNnNVU4dHA2NWQyM0NrZDdtckhYaldoeTcwRWtScjFoUlV5Nk1FbTBLNUZiTXE0d0VyX1htQktvVF96ZjJXT3JZ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Packaging Corporation of America (NYSE:PKG) Faces 12% Share Price Decline Last Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHBqTWpnQ0FvZ0VSSUdiMWZ4NGM2TkhMcHpjZmVSRm9aN25KUEpvbnU1NHZobjVPU1dRYVRRNDZZdExXRTFGOXlYZjVNdTZZUFpKS1J3NzVEVEZYb1JVLWc4UnlVTVVXZ3VnN0FYV0l3TWVjQnNuTmczLS1CUW1kdVd1OUVMV2xtTzUxeQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Mackenzie Financial Corp Trims Holdings in Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeEFZYWt4RU8tLW9JNFRpbTlrSUcyX2V3QnZnMUpPTXluVG83c3lKb2ZZT1RUVEgySDZreFBfcEJkbGNudUY2dlRQQmF2bGRWRWhSeEZfQ3JnSk5DOUp1OWliT1NsZ1AwdC1vR0xzRVlSVU1Fa3NEdzU2d2MzRTNTT1A1QUlXVFJHa1RXRDJDS194UWxCWWRRUWpEVTNpOU5VdDNha01kcENDX1dudWpHSTBHdzl0aDRoUFdsMXMwTGh6UkpjeUhyeDd1djFIYWxDZVJ0T2pPMG1rdnphWE1hRzNuRXB6dw?oc=5",
+        "title": "Zacks Research Issues Positive Outlook for PKG Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHkyek04WGlqUFloOGpjSC1kMWNjajJxaXBlbmdIS2hYRzR2NUEtaENQR0l2dTl3Q0M2Tm5RQ1dGalZSRFkxQVR2OFFEV29GeDBKdUFTUW53MGg2eE02OWdwSlZsbmdLNWxpT0xhV3JSLThUWnJBVTBRTm9Yc254NnV5eTZyUjRCd3U5Q2wxS1MzMV9rV1RMRWZjZGJMb0pKT3FwRWlIcFJ5WVpuZGc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Lmcg Investments LLC Has $11.28 Million Stock Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "title": "Handelsbanken Fonder AB Has $12.43 Million Stock Holdings in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUhJN1p1N0hYT3NFblVWTEMxcE5acnB0ZVR2Z0FOQ1htUkpvRUQ3X09DQnQ2Ql9Xa0NCVElhS2FoeWZnanV6RjVhTVUzS25OeklWQ2plejNTc0ZXbDh2Q0VtRFZadXpaSDBvTm1RMnU0ZFA2OHZ3MmFhS2w2ZlQwVWhUQ01uQ3VxUW0zOFdaanRER3NIOHU0N0Z2VkFDaFBCX2xCdy1ReUhQd3ZDb3YwLXZtMDNkbjF3R0tENWVWM2RFOEFtZjdfNGtZQ1cyalVYYWxN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First United Bank & Trust Makes New $289,000 Investment in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS001a01aOTE3cWdRZWtVQUcxWEo2YjZYUkJiSUZIeEg2dWdKLUNJQURkUXRoeWttWjVLeVVCOFd5dVZJN0JGLTd2V2RXTzFKenNGNE1ZbTRpYjBJNUl3TllxSEF0VDFxZFRPZDlWZTZlQWVCY1gzTkY5d0pwZ0FhYkk2b19zcTk4V0pnbmlGVTVwU0JpcGdwbzJrWkJBUkFUSE1XZEFXZm9HNUkyNnNlSDlEZHV6ZjJWMzhlUkl6SVFJRVBmWXM5SVBaX05adUF3TmVWUVFpZXN4TV9DOTdhXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Research Analysts Set Expectations for PKG Q4 Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHp5M2g3VGZmOUFxVDR3d2NRTVdFREoycHdJQVdNX2lPVGdnYW1PSTB2Y3pFTUdUSmk3YWFuNUVEQktJT0FRNXhja1RwQmU2YWZIeFN2Zl82M3lxa01SSGRpUTJveGwxZkstdXJVZ2M1TE5rQmJINlRzZVFFRXR6TGNuZ2VEUUFDMDhEYk1kQXZ4aHpXR094Ymk2dUpZeDhfZ2hEX2c2ZGZudkd2V1VNUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Buys 1,381 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX01ZcTdDaDh6SU5ZR0E5QlVaM1JDZTBCcnBZOEtCQmVMY2lTdkdFUllhLW56eUdXSlMwc1VOaDFTQklzNjNSQlFmUk5fUVpmeEVmLXZvOGtQSzRhWm1GLXBibUc0WUF5NWJIdU1KRVRmanhnVEl6VEpSWjV6c29kcVJYY2l5c1pWSWJrOUpnb3RYUjdpa201U2hmOFlLZGI5ZEFLTlNjZXhXMzNfRGNGbVEzdHg4ZHlHaU1Ja1p1eV9WRUc1MUlPQ0RyOS1Sb0dtUnBMZDdESVlJZTVUcEdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Buys 2,929 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSmJyWVJSclVyNWl0UzE0R2l4ZHI2dHJyUHptdVZQTEd5U1hxUC0yU1RwQWM5ZzVMU1hBSzB3eklZWGFhZTBGRjB6MC1wLXg3NFYxN3R1Vzk5ejVkRUtiY3ZQamJMTlEtOE95aHVFS0MyZWFPT3hBNnFuWmZtbDRsUEFCRHRjVjBmNlAzVEtVcGJRazk2ZmlyVDc3Wm8tYzFfM2VjSWlyXzR5NUhOcHUxczhUR1d2Z1djN3dYODR5WFl2Sm5zek1uSlBGdllrMEZOT0tNZWptZnJoLWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atwater Malick LLC Has $2.98 Million Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2xXLWRZNUtXWWJnOU9lYXlHOHljTFFVd3hSaUFXLTh0dlV6T2Q2NTFaSlJITXpZY1ZTbXRXbkd0RFZ0OFRIeVdiOTc2M19TaElocW01dllCOFU3eXNOc1FjT2padlZKcUx5SENkcmxkNnNZVVphaTd4a051dkFVRThCSmJsSmlzV2JUQ1VJZ2lxVjVrUm51c0wxY1ZiMGQ3NkRsdGJ1V3BzYWVUaXVlQUxvWGg1NVV5a09ZUDNFNmpKUVIzSVFFTktoZEFyVGl4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vest Financial LLC Takes $3.07 Million Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTVPb0RxLTY4cFdfaWJpNFlWZGNwX1g4UXBSS0tnUTVIWFF1dEloZjYwU0xUeTg1QXFFbWJNZWhVRzR2dlA0Y0V1VlY1ajh4UkplYzl3X2tRVmhlWF9Ya3hIejlrSXR2cV9JWDhHNmo3cFFkcWJSaXJMbWRuZEp5ZmpNUHFyNGdsb0dDUlluVnZoRGFjR2UwSjFBcUJ1VG9DM1daR3EwNEZGNXU5OEszWFY1QWRROG1XZVJzV0dYR2k5cUJKZjJDdEFMTkNTSEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Decreases Stock Position in Packaging Co. of America (NYSE:PKG) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSXNlaFpsSDJxT2ZjcnVGMVR5QmpEWTFRUExsSThkMHJWZzBmYlotNldBNmswdlg1N1I5a0ZRQlZDNFlIMTY4S3F0T1hxdTQ0UVBhb3FIeWlUOE9TM0dQWGExMldnNml1S3dvSUU0TXlvRjRlQzdVXzkzbGxrVkVWQkFUU2dBWVlVeG1lMGp5aHJrQ0Fpb3JZaER4eTBsN3NSY1hRc1JpenhoT0psSjVVT3dUZXpaN28waDZnMGtGZnJ0QldaQjdXY3J6WTRjNmViTFVLNGFRUmd2NU1Vc1Q0Ym1n?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AEGON ASSET MANAGEMENT UK Plc Sells 2,037 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnR0ekJtbWctSUloYnBQbW1VXzE0eC1abFR1VWg1Z1BrcDQtVUQ0czFFSUhyd2Z0d0daMHRTb0U4UkR0SGtIRVN5TkNsY28xMXJoNEdhbzd3b05RM1l2ZnMzdEZBcUZFNm9iY3RsVUV2bFpvVTVMQTNDMkRabW54Rkc1aEd1X1MxckdiNWxNT1JWM1FBT255T2lWMzRfQjl5QTlEV0dmVDR3VVlaNnViNU1DTm9tTWFHS2VISXk1dTZmby1iZlRaaWo5SmtoM2VocUFDcVFtNFAzNlU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Packaging Co. of America (NYSE:PKG) Coverage Initiated by Analysts at UBS Group - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVllqWTcyTEdHTmh0YUtoSF9sYkE0VUNkdGxKSi1veWY4V0ViSkpQdGN3WllQb2wwdjFHMlJCdGp4bUdUMHBKOFJJaFJlUERrMmRGckxQTlpqWFVQVHdsQ2VjRE9ZNS10aGFkdy0yNURFcTVLRUUxSEFTeEhuQjNybU1mV0U1empkVUc1Tml2Tk1Qa01VbFNOTERXLU5ZM2k3QVZHaGVyLWFLVEFJU1U2YlJ1VVBuZDk5dE1QNXR3TlBCWVlpZmZCcA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Sells 4,722 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXZtUjFBSEVBSC16dktDT3dBWFV3UVVSdGt3YVFhX3o3NTdWVS1vX0Nub2FuVmEzakNvQVdpSTNOc1NZbXpfWUg4QWFCZjJYOXRZZ19oTVMxR0tWbng0WVg0X2Y1Tm1LM3VOVnVDRDBHV3Raekw3MEQ3VGtnQkhwcHV5djBFaS0tYk1kUTI5M2lfMFhCblhEcGhZM3RXcmJKSE50Wk55TkFUTFJIdGtCUUFjUWhPWTJJdzNlRGg1ZDkyNUswbHk2V0FueEtIQXd5Ni0wdU1RRHhFVWpRbzQzUUFzdENKQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Buys 11,262 Shares of Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWVlYTRkbkZCNVR0OENaZ0VtUWpmcHpLMWhZY0N5S3kxSkViNEdsekNFMDZHS1VmNUtSM293aWxYemZYdThQbVo2cWtBQXJMelBQVWJvVFM0d2k3a0NZamE3SHpvNmJlcFJaN3U0emxNYldEMjZHSDFiUFQwYmhkRkREZU1Ya1NCZzJlamZJaWZGVXJDOWlFRXhoeElZclk1NVk1SmZlODA2Uzg5UnFULW1QVFhieVZtSmQwNjlVS1pWWXlxVFpxY3F4Z2dzcFdPY2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Packaging Co. of America (NYSE:PKG) Position Raised by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFlydng0MFk4cHkxT1V4UTdxd21yM094NzZlTzVMY1pwTnBLRnpxQUFfUV9jN1dyRmVUX2dqd0xSUGdKT0x4NFdMX1F4ams4bkVfd2F5R1dGMGIyN2NlVi1WQTgxNDF5bEVrVHhpTDB6QmhoWndXaVN3Zl81aWYyV2s0MThiaDVxUkFzTGVKR0Y5RnptekxCRUtFZlNGMS1FaWFTSDhUQTR4OExlVnV1b3luYjNPU09fbHZUbEJKd1RWeExDYjhxdUltZ1M1Y3FvZkhGMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1,702 Shares in Packaging Co. of America (NYSE:PKG) Purchased by Aegis Wealth Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcThZZHVwamxOdFhodnB0SkE0cWo1NVlVM0RYenp2M1RVa09jS2hUNjVfRWV6QjlhX1pxd1cwT29vTmYta3B4enpiMHlfempWRlNKbWJIOFZzQTUyTGtiVXpmTWdWbXJIblp1SWxSaXVnLWJCVzQ3ejROaTJRMVNJQ2tfaHltdktrSFl3OHJuandGMnk2dTNYNXdtOGg5SEJYcXdBMmZMc2xZVkRmSkxFT3BhNGVidWZNWWt3SkNoR2lLb3R5djVXSmxaY0R3WHo1N3pXR2lMRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Norman Fields Gottscho Capital Management LLC Lowers Holdings in Packaging Co. of America (NYSE:PKG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZVRDU1d2RDBkV3N0Z3JVYVpISmQzT213OUJMOTVubVpNUTY5TzV1dTh1c1VGYlZZdnlaYk53ZDR0d3FiaTdYNlF4c2dTNDR6OWVkMDh5SjFNSGY1NXc1alR0Y0tyd2pCRnZPZ0FxVm5BbGlRMlFpdExZR3liY1RNOS1NeHJ2RmRXQjRWa20yZ05ud3hZMmxlN2YyZXJuSm9fdXlSbzg2T0RlS29OZWFDaW0ya3F4UTFmT0NUeVlUa1lzbHFPbW5fVjJaUnRaMGVOR1JnaW15bi1KUnByMzhlZzlSYVREOHVKVnVaTFlOR29HNWhLam1nSGZXOFVsNVRzMGc?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

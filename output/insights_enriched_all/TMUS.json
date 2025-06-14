@@ -2,16 +2,16 @@
   "ticker": "TMUS",
   "name": "T-Mobile US",
   "sector": "Communication Services",
-  "market_cap": 279525064704.0,
+  "market_cap": 258598731776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.041016,
-    "PB": 4.5821385,
-    "EV_Revenue": 4.689,
+    "PE": 22.219513,
+    "PB": 4.239102,
+    "EV_Revenue": 4.467,
     "ROE": 0.19351,
     "ProfitMargin": 0.14413,
     "GrossMargin": 0.6385,
-    "DividendYield": 1.44,
+    "DividendYield": 1.54,
     "DebtEquity": 199.152,
     "CurrentRatio": 1.161,
     "QuickRatio": 0.899,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.10911122018323721,
     "ROA": 0.055999998,
     "PEG": null,
-    "EV_EBITDA": 12.27,
+    "EV_EBITDA": 11.688,
     "BuybackYield": null,
-    "PriceToFCF": 30.91879624889217
+    "PriceToFCF": 28.692604160838354
   },
   "technical_indicators": {
-    "RSI_14": 53.082283768807834,
-    "Momentum_10": 2.5780283842719776,
-    "MACD": -0.9980340149871836,
-    "BB_Percent": 0.9557470490732626,
+    "RSI_14": 32.265523995749504,
+    "Momentum_10": -6.176710009734251,
+    "MACD": -3.7061005540139433,
+    "BB_Percent": -0.1178789335757846,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9307596926501542,
+    "ValueScore": 0.8823342190074923,
     "QualityScore": 0.4394393378334367,
-    "SignalScore": 0.5501174111688032
+    "SignalScore": 0.7003310924069477
   },
-  "volatility": 0.0205300991899004,
+  "volatility": 0.0200435380969145,
   "beta": 0.628,
-  "return_6m": 0.0169598447259056,
+  "return_6m": -0.0111900876589108,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 228.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 233.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 234.34
-      },
-      {
-        "date": "2024-12-12",
-        "price": 233.27
-      },
-      {
-        "date": "2024-12-13",
-        "price": 231.94
-      },
       {
         "date": "2024-12-16",
         "price": 229.47
@@ -537,73 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 245.86
+      },
+      {
+        "date": "2025-06-09",
+        "price": 237.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 236.98
+      },
+      {
+        "date": "2025-06-11",
+        "price": 230.94
+      },
+      {
+        "date": "2025-06-12",
+        "price": 228.7
+      },
+      {
+        "date": "2025-06-13",
+        "price": 228.0
       }
     ],
     "current_price_data": {
-      "price": 245.86,
-      "change": 0.96,
-      "percent_change": 0.39
+      "price": 228.0,
+      "change": -0.7,
+      "percent_change": -0.31
     }
   },
   "news_sentiment": {
-    "summary": "T-Mobile US (TMUS) se distingue par son innovation en matière de 5G, renforçant ainsi sa position sur le marché des télécommunications. Malgré des vents contraires dans l'industrie, la société maintient son dividende trimestriel à 0,88 $ par action et lance des initiatives de croissance agressives, telles que des offres de fibre internet et des cadeaux attractifs. Cependant, des inquiétudes persistantes sur la concurrence, notamment avec AT&T, pourraient peser sur le cours de l'action à long terme malgré des résultats financiers solides.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
+    "summary": "T-Mobile US (TMUS) a récemment fait l'objet de plusieurs actualités contrastées. Malgré le départ anticipé de son PDG et la spéculation sur une possible chute de 50% de son cours, l'entreprise continue de montrer une croissance solide avec des bénéfices qui ont dépassé les estimations mais des ajouts d'abonnés sans fil en deçà des attentes, entraînant une baisse des actions. Les analystes restent partagés sur la valeur à long terme de T-Mobile, certains considérant son potentiel de croissance comme favorable tandis que d'autres évaluent son positionnement par rapport à ses concurrents comme Verizon et AT&T. Les investisseurs devront surveiller de près l'évolution de la situation pour prendre des décisions éclairées.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.3,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "T-Mobile US (NasdaqGS:TMUS) Showcases 5G Innovation at New York Sail Grand Prix - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHBoRi1lZGd1VUl2azZKT29YYTNaZHZCbjFtM1pBcjFKZUNqdGlDaGxSQ0tvLVZxM1l3Q1JZVGNjVG1WMXNWMTYyX1dSZmE4dDdfN0ZkWHNLSU92V0ZfOHNHVGJpYjItY1p0Y1k5bnRMXy1JVzBCcUhWMEl1WlFjTFlkS3J5bzN2S3VNZWswZEwxZUhjOWg4NmExUzFWbWNjR3JXYWM4bXhqdGYwT3ZGMzRBTU1RdEFxSU9Ca1FxNWh5UVhIaXdsSdIBzgFBVV95cUxQRy0zb1dpNm1hOE5mZ0F5ZGdlcWdhU0JMOTF1dFd5Q1M0ZlFoYXgyS1M0VHctaGx5WGNUdmYzdUZIWnNKLWMxRHNGWXpIQlBPY2dNMDA1T1lJemRlendNcTB1MDBRdGI1d2l5THJDWk8weXVWZ2ktZTdaOHlFSkYyNUZiZ3hrdWJybDFiR3lkelRQTklOWmJ6M2Fqa2NhQ3l6dnZYYWtza2pCSklDNzJkZ0JINFJtUTRxYkJ1NHE5RzZKUzZhZnRObzlzNEVfdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "What Makes T-Mobile (TMUS) a New Buy Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHREpncVZVUUNGS3VqWFN0T0RsYkJVM09tWFFHMmtfMVp1Skdvb1piNzBSNXNiWXM2NjFNU0ZVWVgyRkZFa19BSHZzaVFNeDNfSVNGenRjbEZZUnVYVzJiR2dqNTZ2TEZvVUp4YW1na1FpNldMVlhqcnFn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile Declares Quarterly Cash Dividend | TMUS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNjdQOG5mUjFEYnRTTjZWS2ljc3p3N1hrU3dHWVdOUXM5TGFDZkNtREJnbndqLTNxNVVESWExNjJUN2dxZlpia3NFREpNQm1QMHVFeFp5aWFNU3N1SUUtd0VIeEZpWlhxRnExUHc3NkkxR3JtcmNSem5mMUxqanBSUVhtTUtEemdWRzlwaEN2ZXA4UWMzaEJlWHZEc1hDWDZoTXdVZVd2U1gtVG9Cd2FyTTktbEs4SkYwbGtjUjVJOE5VclJyVDcyN0hHRWlMeC16T19URXhDS2UwYWZIaUlDRVlB?oc=5",
+        "title": "T-Mobile US boss set to leave post early, Handelsblatt newspaper reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmhVSkxuUExUWHJYd01xMEN6RDg4SHlfdXVSMTlrTWxBSFUxalJEVnFqbi1PV21uRm5JN0g2ZVcyNUg3VnYzMDBSMkFEWVUzR2xNSk1BM2Q2MlBFVnpJWTRLWEFHSlZHMkhhWGRScm45WHJlYUZwLUxPT1lrUllGNVF3Y1JCWlhDdTdRMXFlS2Q1T285SmdxUzhvWmNmRFV5OXVhNEZEelowRjlzODlKUmFRc0JhR3h3X2JLQ2x2MGc1NUI5ckotRUtJOXBlQXdoRlFlenNPTlRwUldS?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Wireless Stocks Likely to Gain Despite Industry Headwinds - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHRjMzlXbGhRRWdBT0VpcnFRYTJ6d3htRUlNM0NCNUVSb3dSQ3JaMjhTM3AyMHhXY1hWdFgybkpjUnRoeFRwNnhMbE8wY3dPU2xxMVI2TW5TMUE0R2VaNkJRLTBjMEE0T3ZOaG12RnRUN1JOUGM5WUY4UTlsVGJ1Rw?oc=5",
+        "title": "T-Mobile Declares Quarterly Cash Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWJNZkFtaDhoVnJVNE1NcVVlSjZDakc4NkNHRklCUEVMQ0pKaU1lMC1TTzgtMU93d0dFeHlvMS1JdjUzNjRGV1l1aG5nQ0l2SENSaTZEdV9OdmthN2VIVjE0d29aeVdBY2xleUc2T25wOERFb0ZrODhzUWZXQnJpcFlZWGh0U0xHancyTHFvV2pHWC1OTXB4cFZNTjJ2Vmc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "T-Mobile (TMUS) Stock Dips, But 5-Year Growth Remains Strong at Over 119% - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTN5YkhtanFnUzc3ajMzOFpycFRwdU1vRmczMGg1VmFFZ1RVRTA4Wm56Q2JhUktZR21QLVdxdF9CUi1ISWE3UTN1MDQ3WEtGekVSaHJoQ21uU0tVd2cxenZtemZJRGxTbThlMEFPbjg1TzY4S09wYWdjd3BCSWxyOENHNTZVSXQ4VkRJc2ZOWENYaDRkdmc0Y3FncWpSUUV2N1BYb0xuQnpDV20wUm41QUdSLVU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(TMUS) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREZpRFVKMXBhVnVvSzY2ZGVkc1c4Vm1NdzUySVo1eldGUzk0RlUtdW5iNHNtWk9WM3dGb1BLSmh1bW9QaF8tUl9tTXB6bGxfR2RrczR5emJ6M0s0MVl5Y0pPbThZbjhYb1dscy1RdDR0SzhDRzVSSW9GeTBzTjdYekhXaXhLRHVHWjlEandtMnMwZ2FMSV8zUnFPbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T-Mobile US (TMUS) Continued its Growth Story in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVRwOU4xaDN4V0thd0t5OXJ4RzR6TThXajhKLTZTQU84eWI3ZWpiQ3V0NFpxQ21wc3E3U0RRYmNGazIwWG5hbkdCWGlBWndMMW5VTEFjTGN3V1hXZEJPb2FRclExUVVaUnNnZWpxZldhcVNmc2JJclh6anNjMUpKVF9NTEFPMlFPQTREY0RuNGlGQU45ejByaNIBoAFBVV95cUxPb2d1NG4wSDFqaGxFRktvUlZWNUJhZThxcTdXQzJnaS16cmVmN193QzdfT3BsNXREN09NVVY1RUg4Q20xSWg1SWE2RzM1YzBiMXotQk9NOE1yVmE5Ukt3d3pwWS1LSmhEU1dDOUUxeXhKSjR6R0pIV1F2ZkNuaDlIVWhEaFk3SkFicjRFQW1kLWpndUtnc0k5UmMzZmR6aVJE?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "T-Mobile US Keeps Quarterly Dividend of $0.88 a Share, Payable Sept. 11 to Shareholders as of Aug. 29 - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOWlEcERsSnZCU0VlXzBTRFJRZnJyTzhUYW1PVFR4RDhfdExvSlNFLWY5ZlRJeXplc2tRWG9Od1hOc29YUEdNTjl2Nmljc1MzaW5KNlNOeDV6ZzdlVkRUX21yall2MjZUUkJfX2pYamhCLXYzUVZlS0ZPOVhaZVFILVU3OTZyWEtFNE9lRlVESnhUQ1NJbEFqcmpIOGFmZnVEOW5EU0N3T3pFclpwakd5bzBBcDlHa2ctZUJidElvc05xd1hqbjFpVEJxbHgwaTNmLS02aFNwb291TzVISmd1YjhqSGpEN2pZZ0FzTWFsaHczTFdoMXdhX1dWU1l3OUdvdlRQV3ljakl3Nnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile Launches Biggest Ever Giveaway: $90K Cash, Dream Vacation, and Electric SUV Up for Grabs - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUxySThzYVJoVU8yZmNab1NQb3ZGUlU0NzZCWlJES2g0VDlmd1pJOUM2Mmg0N3laZmZrWU50dmpuT1FKQ3A5SndULW1SR3E2eUlIVE14M3BUUkI5dmVNQ0Q1M083SFVka3pvZEh5SGIwdFpsdHpCWnNIZ01xbFZLaWZlWHlLdEdYNXRnTllUX3ktcWwtazBYYnNsejdyeUFsRkFGQmFxcmpwdkdzOU1oM295am9KbThodldUWA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Will T-Mobile Stock Crash 50%? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREZoaUlzZkNLUUt5SDdRVHJSRkVwTXlUMXhac0pocjZCYm9SUWk4b05EeHlTVG1KQkltTmFjQktnZHRmcmZ2ZkhSclFfY2pqblZWR2czVm9ocUFBUzczRnVoTGdjUzkxUUgzUm01NlNPZ2h1MXhmLWhaWlVEQmpmVXJMUWJ4UlkyWXBoRWhxbnM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AT&T Soars 52.2% in a Year: Should You Invest in T Stock Now? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONG5GUE0yYkxhczBid3VBa0YtVXByaG5KQTRQNU1vNzZBTWI1LUlzNFVsbzF4ZjlmMnVuSlZ4a2NOcko0Z3ZvUm1sQmMwMUs5R1ZKLWRkem5iSFJLVWw4dkNLdnhJSGtBUTRkNjk2SVpzU21TdGx2WGhHN1FpaVBPS2J6N2I1MDhlcTl3UXc1QXJneDA5bzItVUFlMVBfbzBLQzlKNzNrMS1BZTNUUUFJRzBDam1jejhrMlpDYXR2dEVodFV4cTJUR1NtS3kwRHdNQkpxQ2xaVWlkSXNGRmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile vs. AT&T: Which Telecom Stock is a Better Buy Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0FPdGMyTmd6TWtVUzBtdlctU2pncldhMVY1Uy1lYi1wWTFkNV9GbXI5dmNKM1pzWk9KMGU4MlpoV0tWbEFLdm80eWdZcGFpaVpMSWpuUU03aXNzRzhKWDltaVp0dVdHODlYLVloYVBRTlZSZmdoX0NiYm1xRnFRMWc1cmNZUlZ1ZEh6RVRndkV2QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile (TMUS) Maintains Quarterly Dividend at $0.88 Per Share - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXRrYTNMZ1V1LW1FTmdJOWh1RXREbEJjY2dER3VKcEt2eTdMY0RzMWs5aC1FbTRCVnk3blFJLU5QblJaM1ptMVBiSWlDUERseUNIODdoZEpaOU15OEtrcldsY0FSbEJ1eC1IcnRXTERGclZtcTRrYkF1b29kSWc0QWVKWWdiUEVGVjdzcWI5cjVZS3U3RlVuQTRlVEVnUQ?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Is T-Mobile US (TMUS) the Best Stock for 15 Years? - Yahoo Finance",
@@ -611,13 +586,53 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "T-Mobile (TMUS) Rolls Out Fiber Home Internet with New Plans and Price Lock | TMUS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS28xNERCWFdDRU1IMlNkbXpUalFPY1d0ajk1LW9oQnpsNWFkdlJjSzVJNDY1TDdHMXhqd1lhNEp0RTU3cVVELW9jbmU0bXVRM1UtMFRtTlAyTjJUT0tuTFhuZU5ZTUo0d2JBcXUtSElrV1VMLWVjcEM2akdRblBuTUNvWHh3ZW1JMFA4SWRRend6Z0RPMU9yeVBQbEtlbVN5R2pFZU1HME9JcXVKSDAyeC1RRTZvZE13Y0VVa003ZEllcUY4TUpv?oc=5",
+        "title": "T-MOBILE US Earnings Preview: Recent $TMUS Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2E2VzgyQTFuVldzTk1nT25FaGlSN0REMDN0RWdrQjNGQ0h6elk1R3NUV3dJUHdKRFRtR0VYdHlIZkRmVnVUeUNCMkdTVld3Rkh5ODFFZjJlelJZb3h2QzJkM3RYNGhvaFlwZFNkdmhWWmJFM0d3djNsQVJDRWFXcXdkRHFONGpGLUJGTS1sT3BKV3hTLU96SVNJYUFsOUZnd0VCU1hyY1lkWVdaMTdRNUI5UkxnOUo4?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Will T-Mobile Stock Crash 50%? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREZoaUlzZkNLUUt5SDdRVHJSRkVwTXlUMXhac0pocjZCYm9SUWk4b05EeHlTVG1KQkltTmFjQktnZHRmcmZ2ZkhSclFfY2pqblZWR2czVm9ocUFBUzczRnVoTGdjUzkxUUgzUm01NlNPZ2h1MXhmLWhaWlVEQmpmVXJMUWJ4UlkyWXBoRWhxbnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T-Mobile Is Sliding. Why Solid Earnings Weren’t Enough to Support the Stock. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6VEszQlVLX2l4dU5IdERTYjVmZG9DejlZWE1xbzdjUHZYQjVrbVVlRXZWTDA4enYtYWdoYnhhMnZZc0NOMjJBeEpoWl80dFloZ21tVWZsejVwRzdfeERpUWJETXRLOHdwVkRIZVU4a2ZxcmFfa3pOeFFrSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Hold Onto American Tower Stock in Your Portfolio for Now? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0pmS2ExTDJSaXp2cFZUWnhYcmFzdkRUQ19Ba1V4Zkt0UGpjdHBOaG40cVhQMFo2MktWczlLOWQ4TEJ5aWpibkcxbWZtbEt0QmtBanZVMWkyZXBTZkhaQ0tObGhXaWRfbE1KSno1ZEQyMXBHUjZGMkQ2VVBESEYzYzlkM2Z5MnhaZGRIOENBRl9oSl9iWUJWc1dCdzgwcFVKTFo1S2ctMEo0bThkN21va2pEQ2JNQzh6U1ZzVXp0cVR5cndyRVhwSzJjNmlqLURJQl9KeXpJZE5xUXBfTm5EOVI4V3QteTNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T-Mobile Earnings Top Estimates, But Wireless Subscriber Additions Are Light. Shares Fall. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlltRDRSOFVGcEdzS1E4a2daNTJwdGlwTlNmVGZkd3hJRG1PZ25qa2xGa1Jldm50WWRSZFNxLTFwbWxzRUJWeGgtY0FkaTJTdlgyS3dnYUFVeVF2R2ZKaEc0SVlpZXQteUdjN2RGWVMwd0t1ZTlUNzRIR1hBZDMyZ0lKb2E5a0s5RFdmODlB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TMUS bullish sequence finding blue box support, targeting $400 - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkdZTjE3dklLTHdaQ3JTTXFmTk5rNURRSkotSHV4MURTX1ltbDg3LWhzeS1QM3RmVmhmZUpLd0Y5c3NPOFBjMUhFMzVNWmxWU3FzZGVDeTVKZ19LMTBkYnhoYTN1U1Q4NGtFRXh2SXk0Y3NORXNiSGJpQWlscS1zTXg0LThTSTFaV2diSXlxN0hsam0ydS1OMEIxUThXZEpteFpvMU5R0gGrAUFVX3lxTFBoVW1qUUFWYkdfZWVHMkVHT2JSeWQ3dENPWnVVcHNHS3FRSnd0eFBUYkVLd3ZsTFdhUFp4ckc2VFNYbTNrTGxBM2xMZTl3bHIyTXZsdjN4Y2VwcHF1bGJWR0RwY2FneTdmYXlkdEZabDU3ZWI0Y2wxaHcxY0p3WFRoems2LXFES0RyZFlCZjJpTkNBWkhLSlNfYUpMT2l0Sk9LQzlIeTF6Mml1QQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Why T-Mobile (TMUS) is a Top Growth Stock for the Long-Term - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdmFKdHlIbTVLMVBfV0JRVjNMRmxPcTZPUy13bGdSSzIzVTBtdm1EMTdNU25Nc1MxRVR5SDFWRUVtY0ZvM3F1R3lNYUNBS21McWNWOVg4eUpSMDgxZVI5bkRHWDhnZE4yWkRBbEo4MU9BaXJpckE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes T-Mobile (TMUS) a New Buy Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHREpncVZVUUNGS3VqWFN0T0RsYkJVM09tWFFHMmtfMVp1Skdvb1piNzBSNXNiWXM2NjFNU0ZVWVgyRkZFa19BSHZzaVFNeDNfSVNGenRjbEZZUnVYVzJiR2dqNTZ2TEZvVUp4YW1na1FpNldMVlhqcnFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T-Mobile (TMUS) Stock Slips But Holds Strong Annual Gains of Over 31% - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHdOcmlTUmlRTGVwZEJwTlRvOGdxSG1kWjBMckpvNkE5ZXhEMEVnV3M5UEd3U0NCQWNrUDJwcExJc1laelVWS0ozaUxNTm1peUE0Ul9COFdvWGpMR0ZwOW9OUkNhODByMGNValRjX01WYnZOQ2hlXzU4ZzhqZTlSc3hJYUdUaUd6V0h5UWN3RG81ZGdJM2Q4bEhyelY0dnBnMkZ3NFZKeXdJbTBQTDBjMA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "T-Mobile vs. AT&T: Which Telecom Stock is a Better Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DblhPMEdib0dLQzBib1JadDQ2aXVjOThocFRVYUpib2VaSEhTMlpTcElwV0pNWm1HOXVPdXdvNG5zTjZZUkIzdTNTUVhkS081NVJRV3hZMTY3dkE1dm80akF3VFpjSW5ibUJnb0I5ZmFBdFdZLXc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,8 +641,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "T-Mobile 5G Powers SailGP's Boldest Broadcast Yet, Bringing Predictive AI to the Water | TMUS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVHbW9RWDhtcXRkamtLVHZlV3gtQ3djWjBCdU1WUmloTVZmQVdlaER5YUFnVmlJTlFKbTFaclJjOW8wcWJURDVsR2FKMV9famxlN2l3U2NwZUhWN3Y5MnRKOWtkSjN0b3hsSGJIS1p2MUpncFpkR0pJeDZtRlZ3eTQxRUR2V00xcC1LN0l6blBic3NoVU1IaTFBWTVXbFpyQnYwVWNIUkU3WUdlN3M1SXdfVDF4QmhKOGVEZHFYLUw0bzUySGRmYjF1bVdUUFp4aVBYYQ?oc=5",
+        "title": "T-Mobile or Verizon: Which Telecom Stock Is the Smarter Investment? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERmMHYxWEV4TjFhb2tnaERsSDRFTXNPRk13eUxDZmRkSWl1angyeXE4NllodEZsaHNNWVlKZjRjLXFHbGFVUjhXLXdFMnJUZnliX3BaOXhfTXcxQ3ZkNWN6aE5lTTFuVVBpSmtqLW5NVVRyOHFkTHNaRXd1M1ZPM2tR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,26 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why T-Mobile US Inc (TMUS) Is Surging In 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWW5OcnBMbk84eWpieXRhaVF5ZFlqUktQZmczbzJUaWU0ODNicHp0a3EzZ1otV2hZV0hNNWh5dTRUVkE4eDhacFNXekxkcnBQWVhnWHM1Nll4YjJ1cXdUWVlOeUpTdHBILU5TTXNZQ1M0cXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile Launches Fiber Home Internet with New Plans & a 5-Year Price Guarantee | TMUS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNGNHUWRBdDFqb2MzY0JlZHlhdVMwX3ZQelRLYklyS3BIN2ZMcmFXU2ViOHlFQ0RjVEFGNDJSSEtIN0FVeWN3VExiV2J0NFJVUWk2SjRMaEdWZEtzN1hVaE1VejV2NmVrZHU1eDNzY3ZnWmY5NGZiajZod2ZVLWpldXdsbnlnSGRFbTZzXzlBdDVpdWhNOThHUUQ5Y3JGYWpFdElxeW9BemVsUHRZcmttSzdyRmVQNWctTzJTNVlTVnBfc19rWGFla3VNYllXcWw5R0pqdElteFk3azQzMkw4MVVFR1FKSGI1Ny1UVURBMXFUSUd1TnM3b2wwYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Why T-Mobile (TMUS) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05U0RrbkpkOGxJLWdSNXJnX2VxVUVpZldXdWdSLXliSDNGOEx1YmVKd1ZWQUhCQWk4X3liSVhYX0IyWURXT1FrSEowUU93QzJ2akNGbEpocHgwblJQSWxBT0k5ZS0wdkJwSlVFSzNINVhRMTZnNWc?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "T-Mobile Earnings Top Estimates, But Wireless Subscriber Additions Are Light. Shares Fall. - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlltRDRSOFVGcEdzS1E4a2daNTJwdGlwTlNmVGZkd3hJRG1PZ25qa2xGa1Jldm50WWRSZFNxLTFwbWxzRUJWeGgtY0FkaTJTdlgyS3dnYUFVeVF2R2ZKaEc0SVlpZXQteUdjN2RGWVMwd0t1ZTlUNzRIR1hBZDMyZ0lKb2E5a0s5RFdmODlB?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

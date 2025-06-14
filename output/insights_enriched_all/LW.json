@@ -2,16 +2,16 @@
   "ticker": "LW",
   "name": "Lamb Weston",
   "sector": "Consumer Staples",
-  "market_cap": 7877094912.0,
+  "market_cap": 7834054656.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.890196,
-    "PB": 4.8220453,
-    "EV_Revenue": 1.878,
+    "PE": 21.770588,
+    "PB": 4.7956977,
+    "EV_Revenue": 1.901,
     "ROE": 0.2164,
     "ProfitMargin": 0.05746,
     "GrossMargin": 0.23803,
-    "DividendYield": 2.68,
+    "DividendYield": 2.63,
     "DebtEquity": 261.312,
     "CurrentRatio": 1.354,
     "QuickRatio": 0.484,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.00240903959944021,
     "ROA": 0.07366,
     "PEG": null,
-    "EV_EBITDA": 9.773,
+    "EV_EBITDA": 9.893,
     "BuybackYield": null,
-    "PriceToFCF": 510.8147220796101
+    "PriceToFCF": 502.560965978879
   },
   "technical_indicators": {
-    "RSI_14": 61.20974052003859,
-    "Momentum_10": 9.319876568898913,
-    "MACD": 0.8414770930532427,
-    "BB_Percent": 0.8536860813823964,
+    "RSI_14": 57.66625032196178,
+    "Momentum_10": -0.5557503861201368,
+    "MACD": 0.914706017251362,
+    "BB_Percent": 0.6734780003002611,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9312296323958992,
+    "ValueScore": 0.8897007385890072,
     "QualityScore": 0.3813932650225772,
-    "SignalScore": 0.4476045620895484
+    "SignalScore": 0.5494905124443015
   },
-  "volatility": 0.030756280482857,
+  "volatility": 0.030004485694746,
   "beta": 0.474,
-  "return_6m": -0.2704923173471124,
+  "return_6m": -0.2904037985756317,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 66.00786
+    "target_mean_price": 65.22214
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 78.01
-      },
-      {
-        "date": "2024-12-10",
-        "price": 75.8
-      },
-      {
-        "date": "2024-12-11",
-        "price": 74.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 74.23
-      },
-      {
-        "date": "2024-12-13",
-        "price": 79.27
-      },
       {
         "date": "2024-12-16",
         "price": 82.21
@@ -537,42 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 55.68
+      },
+      {
+        "date": "2025-06-09",
+        "price": 55.67
+      },
+      {
+        "date": "2025-06-10",
+        "price": 55.63
+      },
+      {
+        "date": "2025-06-11",
+        "price": 55.77
+      },
+      {
+        "date": "2025-06-12",
+        "price": 56.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 54.8
       }
     ],
     "current_price_data": {
-      "price": 55.68,
-      "change": 0.44,
-      "percent_change": 0.8
+      "price": 54.8,
+      "change": -1.48,
+      "percent_change": -2.63
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de Lamb Weston (NYSE: LW) suscite des signaux mitigés. Alors que la crise de confiance persiste avec 80% des actionnaires réclamant des changements au conseil d'administration, le titre a néanmoins enregistré une hausse suite à des résultats dépassant les attentes. La perspective d'un plan de restructuration pourrait potentiellement accroître l'attrait de l'entreprise en tant que cible d'acquisition. Malgré ces éléments, les investisseurs institutionnels semblent divisés quant à leur position sur LW, avec des mouvements notables tant à la baisse qu'à la hausse dans les participations détenues.",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "summary": "L'actualité récente de Lamb Weston Holdings Inc. met en lumière des aspects contrastés. D'une part, la société progresse activement dans ses initiatives de durabilité, renforçant ainsi son attractivité pour les investisseurs orientés vers les critères ESG. Cependant, des signaux de restructuration pourraient la rendre vulnérable à une éventuelle acquisition. Malgré des résultats positifs dépassant les attentes, des analyses soulignent des inquiétudes sur la solidité des fondamentaux de l'entreprise. Les variations significatives du cours de l'action, les réductions de prix cibles par certains analystes et les mouvements importants des détenteurs de titres reflètent une volatilité et des incertitudes persistantes sur le titre.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "3 Reasons LW is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nY0VvWndXa25hWGF2dmNSa2MwcTVtU3dpVjdfeFR5dHRod28wZnZ0aWhXQ1B2TVRKU1hMRTRoLWRSb1Q5VU9jZ3BlY1dRSk1uT2UxS0ZmczJZNHpJLVZFNWVoNi14RzBLT0hIMDlfbi1oTDVH?oc=5",
-        "label": "NEUTRAL"
+        "title": "Lamb Weston's New Sustainability Report Reveals Progress on People, Food, and Planet Initiatives - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2lnS1lGMlgxZ041ZHdvT3VkQnM1dXd1T0lRZHRocHVwOWRTQTF2M2dXUG5nQmlNbU1YYnhtaE0zU0FpcEFzNzhYNUo4VnA0c1k4UUZwY2psdThqYy1UZ0Q2NHE5STRFRHA1bUp2azV5OTFhc0x3WVJfbGdjYTIzZkdaRmtpemF6S3JCc1FsR3VBNjhDekJHUUYxOXRJUQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Lamb Weston Crisis Deepens: 80% of Shareholders Demand Board Changes as Confidence Hits Rock Bottom - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjQzNE9GOEE5d0JVWEhPSEJSRl8tY0RGQTBmY0liMVB1cjJud1o2ZTlXM0Q2Y3dBdWRNMmdjSTJDaHpQcmF2ZHN6STRmS0pkN2c5bUVGbjF4N1prM3dkczVfMm9rYlEwMGVVTkNYLUExaWFxR2VlTWUyUnlWeFoyN2RueG5PX0VZX2YwRGc5aUpVZmcxTUlHNTJFSS1xNFA5VE5QVzdUOUhiYjNVRkdN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lamb Weston Holdings, Inc. (NYSE:LW) Stake Reduced by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmNNbEJURW83X2RDVjFpM1E4WDlDSjhOajJ5LV9yMFdLV0xWbWpHZW5RVEtzSENjT3kyRFJ2REZnQUxoMnhXY09EOFRMWjdnUjdsZDg2TnNrMmkxQUduTmVVa2MzbTdhbVExRVliakdkYjhXbGtmLXRwaXlTRlBxdHo5ckhQbU9UTGhoZkxvdUZ5dDM3MVFlMGtMS0NVdjZULUNSTFBGWFYwOEVFajNBQTRDeFc1aE9tRXNVeUtxNjFBd3gyN1N1UjdkTmQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Wall Street Bullish or Bearish on Lamb Weston Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEFkSVJNdjBwOF9JWVFGQmliZWh5dXlJbnhoTUJfWlhGOHZqdGdycWlwYl9seXpOSGtLY2txVERRN3FvQ1JzRlY2aDl3SkoxSTh6ckduNG5RUG14NWJaVVJ2YlZiRzNqVHN2ZVBETnhrTlA1a3BmbVA5TzZxLUpTSF9uYlZqbG8?oc=5",
+        "title": "Lamb Weston Issues New Global Sustainability Report | LW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjFGS2JlZkNHbHRmcEV1d1h6aW5hWVpnTlJSWEljOFBTWk5mTkpDRUVOT3lsSEswZF9oWGc5MlJxU1gxbGIwY0NLNEFQWlNnaUthWnRnMlA4NVJ5YnBZSlRyR2QyYXVPUWdXeHhJaXVGaVJEbWVCMHk1ODBVTE9nX2UxOGN3bENVRkVibW85NG9Fd3l1UnBaOUlyUVRFck1rSXdSMVFBUk0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,9 +571,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "JANA Partners Sends Open Letter to Shareholders Reporting Overwhelming Support for Significant Board Change at Lamb Weston | LW Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dCWkU4eUtKdEFEREs1eFhEX1Z0YTJITEJuV2tTZkVMbkJwSGhBcmU2ZktjdnRpeDBkWGRINnJoVG9LVjhMOXRpdDFrQTZMR1RnTno5VWFtVzdjOTFwQnE2VXFIYUxkNXNYWGcwY0IzT1JWRnJkNnprMEFOMlZES3oyVUlvR3lla1NtdEhudWJfdi1SRnppLUJ6VTZIa2trWXZwbXFKUHg3MlQwUFdtcGpZT3g1UWk4S0FGQ3VWU19RZnZvelNyTGRHbDVKSTA2N2UwWFRJZGg1YXI2aUdhcHkxdzRjLU1xX3liYlc0Q2thckczOG5seElyem0xVGZfeFFWdFlNSQ?oc=5",
+        "title": "3 Low-Volatility Stocks with Questionable Fundamentals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDRGRDIwMGxtUXZ5TmNhNlFsSklzNjVLcWpET1ppWnVfRDVxU1J0MkNPbjJNejZ0aVh2MjRSeGhMSEZxRDFWU3V1bm9Wd1c5MHF1VEZxbkFTX1JTU3VCem1KNlV2Z1I2U0g3dS13UUZkVFVYcmxtNUo5b3dfOTNyWjZxclk0ajlEa2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brokerages Set Lamb Weston Holdings, Inc. (NYSE:LW) PT at $69.91 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0s5YjJOLWh1VkF0dDV2X0dRYjRJOGxRQ19JMVhnRThGcXF4Z1JXMHNvNk8tQm9sdWhjSkhmVDhJbjNYUGhrNDY3TklfMkF5LWRxSTVIaktUdDVBV1hDM2trWXR2MTBoZHVTZmJpTmlJYWg1TTVLT1d0Z0JBZHJVTXlzM1o1ZHctbTNJMXYyQkZ0MFBydGVRT1JkMlFWdEtycHpnWnF6QlhrWTB5bVQ5QVpkald3OHRIX1cwOWxGUTg3bDFZZ0FpeE8zaUY0V3BJRklfWGdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lamb Weston Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3BpSmlmN0FMM1NwRlh5UWNNdU82STlPdUZlZXI1QklGakY4Z3ZWTmhOQ3NNVmdqVU1hSmdWeVlrSDZmY1BFRWlEUDRfS3c4N192NVB0bmN3N0ZpaDNFQ2JRUUozdFdzOHk0REpld1doR2lfLWZqMjZvRDhrWXhsQm43WVFDSnVLXzdtV1Ytb1N0b3UzNVpsYkd6QVMtMWFUaEhlNUpaS294UF9FaWdjcklQajNOeWlneTAxOVR4Qm5oQVJuVnZqcXpIb3UzQXdfaUE?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Lamb Weston Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEFkSVJNdjBwOF9JWVFGQmliZWh5dXlJbnhoTUJfWlhGOHZqdGdycWlwYl9seXpOSGtLY2txVERRN3FvQ1JzRlY2aDl3SkoxSTh6ckduNG5RUG14NWJaVVJ2YlZiRzNqVHN2ZVBETnhrTlA1a3BmbVA5TzZxLUpTSF9uYlZqbG8?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Lamb Weston Stock Surges as Potato Giant's Results Top Estimates - Investopedia",
@@ -591,14 +596,34 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Lamb Weston Holdings (LW) The Most Undervalued Stock With Smart Money Ratings? - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2duZGdXcFpCNkdmTmhxSFEzQ3ZCTmNKbUQtVUwweWx5WFhhZUo2OXNJM3dZc1NPQkREY2hvenR2WEUxSXJqZzRxN0tRMVBwaktvS3RSQXBEeTZYWWNHM3VmQ2I5MlFNNWROU0Y0NUQ0QVF0MmVvVUhuUG9yWTZ3WkF6ZmpfRk80eC1rUjlPYVgzUUxFdnZ4UEItVTJKWnZ4djlZVTlWd2ctTFJneXBWdURFQkZwbHFJQ3J0bldNd9IBxwFBVV95cUxPX1VuLTFlSW52MUxNX3pFakJiSFZCMTZ5cUZ3SU81RUtSVy1VbU1la3FBV19fTzNfSndicGdFX1pBYjNSYWxMMk9uSGhnbElnYWt2WlB2RGZ0cjY2OUVwMF9MZUZXN3VsMEVqaEVHNjRDai0xWEIzMUtlNTRNX1FRalY3SGxMVUt6MEdNTWlFVXBVdlQwSFhGb3J4bXVMS1VFSFlLNDF6ZXEwenpCeThVV3dPX25lemZYRmtiMUZNNWlYaUhlUmhn?oc=5",
+        "title": "Earnings Preview: What to Expect From Lamb Weston Holdings' Report - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWZYbnJBTmFmcTlhbGo2Y0xvMlFXbzFVTUd4RXd4azVaVnFYNGdkY25tdjRURGlJZjJhZm5jSEItcWtWOEtScXRXYzVRU21yWmNjNW5qbUFFTU4tZ0FZZnZxdFdOSEIwcmNkeFlxa21VUXN0ZU5ybjhhdERWeHNNZGdkUHdiUnpRUnhaS01pamkwWXh6NFpoZVlubWk4WklwUm13ejJQYUx3Wk9kOVBnMEM2SXJ6WmJObWY4NEJLLWE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Meyer Handelman Co. Has $5.46 Million Stock Position in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemwyYzhSNVY0NjRXU3IyZnhPQlF2ZGhGOW9wZmRwVHJWb09QNGhVRzBMdk9nSjRUNDVVYm9RcU9CNWZpaFQ4b2ZiT185ZnVJLVl0dXdsSW5OOGM0Z3RmRTY1NVhxdWFURDVWZFRtVWJrMEtybThteVpBTU5CXzdOOU11UlhwdE1KY05vYmk0U29LTjJtY0pHSVVucmJaYWdiZVN6X0tWY2xqSC1HaW1JZVYyVnBfQi1HSWZwTUtQdlNPRTY4?oc=5",
+        "title": "Lamb Weston Holdings Announces Quarterly Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEJUTXc5Nzc0NVB3U1FYbHRBMV9IS3BpNzA3Tktveml4ZjJnanllaVFQYTcwclk2dDUwWVlPc2p4YXBuMW1hZWlPZUVpV2xUbDJ4MDItcUtOM01ScTNHQm82d0VQQy0wS0hrRkpuaW1sc1dXM3VyWFRrU0N4MkNQTkQta0hSZFhVZmxiSGdsS3c1bGJ3SEFwSnpKd29JclBabm9SMzlDODhMQQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Lamb Weston (LW) Price Target Reduced by BNP Paribas Exane | LW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelpEa2lHaG5JZFdHdEtwd2t2c0NEMlF0ZEFrZ3plVzR2UXZzM2N6U25WQUVSTFlzR3RzUlNWTmw1V2Rza2plNjVUbXBoOUZZem53NUR2bnFTeElja1Rtb1U0d2R4YkJTSDMtcGpEWUJSN0FtNmQ1eHpnczJJMWxYem9SUlktbUticTRSU1lFXzE5ZkQycXozcUgyNVlZX2NrOTdNZGhZXzYwbGQ3aWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons LW is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nY0VvWndXa25hWGF2dmNSa2MwcTVtU3dpVjdfeFR5dHRod28wZnZ0aWhXQ1B2TVRKU1hMRTRoLWRSb1Q5VU9jZ3BlY1dRSk1uT2UxS0ZmczJZNHpJLVZFNWVoNi14RzBLT0hIMDlfbi1oTDVH?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rheos Capital Works Inc. Reduces Stock Position in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcjdyS2VtU29taFdBdlFLaW9jYzF0NjVUdU5GZVVjSVhDTmRnUHpWSXhNWVNDRTlubnN3MVpRa01wVjU5Q2FSQVJNSGxTekZYRnJITVdUUVphajNTYlFITzBaYlk0X1RoLWplTDRCUmpQQnVRTE5YRndoSEpndHk5azVRMmVvM01mQkNqdUlrTllfWHplNWJJU3RiQnhzSnZzSzFiUHFDTjVmZDFGaG9pNlZzMXgwTTQ0ZDBCVFNUT1dRbTNsRFRTU2dKb2FoRjBuSFJ3Q201WTZadw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$LW stock is up 7% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREpGN2IzakRGbDhnRXJCaHlIbmFBU3RucHA2SUpJd2hOUTdsTGJScHVQb01VSWc3Tnc0dHRzVTl1ZDJhQ1Q1bWJMUmJoZEV5WGFzQi1YeVB0T3hLVlNsRGxqUTI0M2VBV25kdDJvdW5uSUYwRG8wb0VMUFBmS2FBcw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Lamb Weston Holdings (LW): Among the Best Packaged Food Stocks to Buy Now - Yahoo Finance",
@@ -606,56 +631,31 @@
         "label": "POSITIVE"
       },
       {
-        "title": "51,671 Shares in Lamb Weston Holdings, Inc. (NYSE:LW) Purchased by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdWxKQW9Ib2hqa19tc0hJTzRTdDhjX2dYUTJvMzJFUnJqX3YtQUQtVVRodUlpOWV6am9Ta0J4ZXp2RmYyaGtVdlZQNlNCR0VOMkFaMk85YXlSY3oybUZuMU5QdVpCNnlaU2RLMDVLWkVSX0QyY3FRWlVkb1E5UVZMS2xIN1I0MHVoMjNXbEU3MkNLbHZWckNyYWdXN3E1MTU2ZXVNWVhXU3VIOHVwRFF6REcxZGRySEpFVmxlZFY4OTZXaW9DUjd3a2pkUm5OZXdGV3NreGgxNVZOSnBlV2V6bkhfd1J5SFV0UGRBalMtWW5yTEVjMjFCWDNiSncyWnNyRVpn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Lamb Weston Holdings, Inc. (LW) the Best Future Food Stock to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GbS1nXzdvZWZ6X2VHbEgzLTNNNDFES1BEc3o1SWRCbmh0VmhMTmJacFE4UnA2ak5GSTNmSjB4aGhLQmpQRVRJaFN0RWFOZ3Q5Zno5Mlk3dXR2bGRyY0VRX3J2VlhxTGRqeUxCd1o2X2F1aXN3ajlkNnE2ZGp5UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Douglas Lane & Associates LLC Buys 45,735 Shares of Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVlhPT2NxendfTEZvdDhMSjFMQWtNRTVldlRvWUh3SFVldjl5dWhMWVFsem84YThNZEN6dXNrakIyYUxFa29fa1kzeWtNb0owaE5CNkxub2RBaEg2Rmg5VmVUZU51LUIwY1FKZFlsMUNnNUpScnBwNXRZcVQ4b0o4V19pMU1kMk16QlY2R0E2LTJLNm5JX1h5R0x0ZVBxa1FBT01xbC1ZdlRsUzFPX3RyX0ktUE1OcnBPZFFmdmdDR2FFZnQ1OUZBREV5M1ZaVTJYYVItaFBhVFc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lamb Weston (LW) International Revenue Performance Explored - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHdDVVFTdEhVYm5YTmxjdXdhOW9kU3BxTVZTdjdwUERWQXVRME5ZaDF1bzg4R0IwRXBkUXRBcFRJNE0yOUZ1ckt3R0FHYjNscFFsRWk1d3d6VnVNMlBlS1Vud3RKU3VtelFjRlBXeDZDY1dJVUNGOXkwUWRpdHlkeExxNktIQVRSYmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Trims Stock Holdings in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
+        "title": "Mackenzie Financial Corp Has $324,000 Stock Position in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDV6RFRJLWdkZkthdnY5elliM3RIRWtFZ0hJZTNuS25TaDhwM1p3NzRHc1MyaUEwT3g5dHJBQlBuSWYtM1lHWVFCRDdjMHhhWG9xbVZ0VDF1Qy01OEdPSFRwV0VFZWNmU2o2Y21oSXlFZmJEb0JpZmNVUWZoSTR6dFAya0xQVTQtQ3k4dGE0R0hub3NVMmhlNW03NHBRQ3F4cExmejc1aEFWTzZaZXh4eVVuMnJxYWVMLTBfS1lSU25KOVItZ3RGa0w3TVFRVi1lTzktZUFfNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Lamb Weston (LW) Stock Is Falling Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTWxPV0ppaGhCQXV5WmtybnBISVRKWG4tTmpSZnFWRDR4bWJVb2Jxa3dzV2RaZWMzWHZRemtwN1R0WDV2T2k5cXJCc3c0ZllLcTUwOE9kS1c0WUZBWFFFdTNDU2JVTDN0ODlPTGN0eHhGWm41cHU3TjR3?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Public Employees Retirement System of Ohio Acquires 14,467 Shares of Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmFTTmZwQkxXTHJONGNNdGYyRWNKTnhYSnR2T3h6dU9mb0N4NVdIZF9ZTDh0QmV1YWpZSXUzV21waGk3cFpCZ2tVM2V3MUhfb0RTTFQzbExMMkFSZGpIQTRWaUdlZ1JNOGNjRDZkb2MweFZxNU44bXpzOW5HazMzeUdrYTRmRW00Vld1NkZkTXlIY21BT3YwZUlpWS1GTWtreUlVektMRWd5X2h3Z3l2MFZ0YmFXaDRSZGQ3MEdtMXhseHdJb1hZZHRiZElHY3RSY2Fscy1vZWpWOVVCTU12QzhFTjE3Zw?oc=5",
+        "title": "Rhumbline Advisers Buys 24,909 Shares of Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWthOEQ1MTh6M0c3Y3kwczlVTzJRLXVsOURnaXZleVVoU1JKN2poRk9GSTRZNlFWRzJ5T1g3THgtbVNURTRrbm9WMUIyYjhwX2tHQ0l4SHZETzBNYnlIbmpfeGctbWp4YkxCeDhsNl9CUUdPVy1DZ3FfcERoMlppYTh0ZTJ0YzNSdzI1Rlhrb0JZZ2RRWTBGUS1TMmF4aG1YSmJsbm1uMHB3SWhIZUdhWTNxTUdyZTc0cWQwamtZV1RJOVgydldaQmkxNTg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Sells 6,705 Shares of Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOEJ6V2ZLbmtTSEhqdmV1ZVdGX3JqRGxMQmtZbHFiVkllblluVTZiSzZLRkRlUTNxUFBiaTNueE9VdXRGSnRSeWkxVzltbDhMc0dCQWh4cW5ZZGNCTk5ibVZKNTc1MkRKTnpaaG12UVNZZXkzQzFwcUJQZ0JBSkFVMmIzVDVuQUJmYXhuYzdRQnNCQVdvczAtR01UZ2l5eWw3T3lmeXBhLTdRWWZneDhNQ1NlQzgzSmFSXzRNNEJ5SHJIb2lMa2lyX0VhQXZDLUY4RXc?oc=5",
-        "label": "NEUTRAL"
+        "title": "Here's Why Lamb Weston Stock is Down More Than 30% in 3 Months - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxb2VHTld5WXI2dGhNTS1PTUREYWVOb2lkcHplTmZRdXNmZnRPb2xjTWc0MUxwYlFaN3lVUmViNTJFN1BUT3ViNWQycFV2dmVLSkg1Y1BZRWZmeElYWjRTTm5iNHVVakNvTkVaMHlLRTd4MEtjTktLc3ppQ3dyQQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Investors Research Corp Invests $1.05 Million in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHNvd0ZaSEJ1QkFjcmtXWm4yS1pJT0NMT0NaT21oWnlLbmREN1lnUC1aYU1zUElTeHFHd0lUZGsxS0IwRzdkRkw2MUJzSjBwcmRfMEVkaWJ6QjJSeW9NVU1vN2pHVkl0ZnZGNDNVQ2NXWElfbHgxMGJZcmJGVnM1b2c5V3pBQ010YVZWWjEtdWxtNkJRV3BWbmdpa2tuQl9PNUFkY1c5aS1tdFVpRFA1eDFDcy1HRmtDcU8xU04wSXZrMEY5M3dtOHA5YUROZUc0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lighthouse Investment Partners LLC Boosts Stake in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOem1EN3d4UDhlc2V2TmNJbHM4ZXRvVU1OWENWZDkyVVVULXJqVm9hZjFSTmd4U1gzY0M0a243N0R3SFNWaEFjY2hMX1lpamtHeUJUVnVhRWtIUjlrdzlvYjItOEc4Z2hMSzhVUUZlaWJLdGxOVG1ZTGhLT2RRZmloeEV0TU12U1o4cXZqUDc0U2xNZ1ctUW1pY0VjUXNjRXlkVDFsTS1VbWc0R0xFUnpWWkxHWmFRNnFIa0E5cUQ2OE1pcVpLazZXNU93b0NZOFllWTk3QVdB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Siemens Fonds Invest GmbH Takes $823,000 Position in Lamb Weston Holdings, Inc. (NYSE:LW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGN0YVBZT3FOWl9fbVdmOGNrWERIdGI1UE8zWmxnN3RpYVdaQ3BDTTdKcUNTUUxEQXg4QUhRVmlJbi0wMGVPYzc4TFJ3ekRjSUpscWViS0pxZHVhckU3QjRhMGdOdGwwdVB6Q3Zlc20yNUh6bG9hTFBaczhwb195bE1nelE2SHBacVBENVBxXzFHVlFNLS1ubTNoRU9mcjItVUtiakdQVVpCUkI2SWh4Q1pkSm80el9sbEtjRHJMbGNjVXBmOWp0Z0N2LWNGN0pzN0xWdmc0RQ?oc=5",
+        "title": "When Will Lamb Weston Report Q3 Earnings? Key Date for Food Industry Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3ZaWm1kZkd4eUhacWN2d3hiWFlJMkE1TDdUOVZjYnRyWDQ3WFJpOGFRdXNhbktzSWN3WlY2RWgyV1hEeHlmUUoxSlN1UXhZcVpSNUNSWkcwUGY0Mjd5eW5vZjlITnFsMnZMYlF4TnFJNVNxMGVVaGR5UkxJSTFaOFI4NkFVTnRHbklPLXVWMXY0MlhJTjc2dmJPeUhrNGJpS2RDTEExZzVDNkdjZEh2NVRvaGo?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "7735.T",
   "name": "SCREEN Holdings",
   "sector": "Information Technology",
-  "market_cap": 1021863460864.0,
+  "market_cap": 961420525568.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.912825,
-    "PB": 2.459969,
-    "EV_Revenue": 1.342,
+    "PE": 14.024937,
+    "PB": 2.3144627,
+    "EV_Revenue": 1.244,
     "ROE": 0.25100002,
     "ProfitMargin": 0.15908,
     "GrossMargin": 0.37631,
-    "DividendYield": 2.67,
+    "DividendYield": 2.62,
     "DebtEquity": 1.084,
     "CurrentRatio": 2.003,
     "QuickRatio": 1.235,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.06769846349087628,
     "ROA": 0.12560001,
     "PEG": null,
-    "EV_EBITDA": 5.658,
+    "EV_EBITDA": 5.245,
     "BuybackYield": null,
-    "PriceToFCF": 24.14054945748244
+    "PriceToFCF": 22.712642770580466
   },
   "technical_indicators": {
-    "RSI_14": 59.14620795821441,
-    "Momentum_10": 4.743465634075508,
-    "MACD": 125.13880305447492,
-    "BB_Percent": 0.6991727347411678,
+    "RSI_14": 46.55632594256451,
+    "Momentum_10": -1.6425120772946862,
+    "MACD": 120.32734300173615,
+    "BB_Percent": 0.1818330535543013,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9334052856552872,
+    "ValueScore": 0.8939876530698925,
     "QualityScore": 0.3255533348145025,
-    "SignalScore": 0.4744644560608008
+    "SignalScore": 0.580635129739786
   },
-  "volatility": 0.0329589485572121,
+  "volatility": 0.0331554092300037,
   "beta": 1.271,
-  "return_6m": 0.139824498992543,
+  "return_6m": 0.0943883035906256,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 13233.333
+    "target_mean_price": 13000.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 9665.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 9406.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 9685.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 9708.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 9632.0
-      },
       {
         "date": "2024-12-13",
         "price": 9302.0
@@ -525,40 +505,65 @@
       {
         "date": "2025-06-06",
         "price": 10820.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 10615.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 10705.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 10950.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 10690.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 10180.0
       }
     ],
     "current_price_data": {
-      "price": 10820.0,
-      "change": 320.0,
-      "percent_change": 3.05
+      "price": 10180.0,
+      "change": -510.0,
+      "percent_change": -4.77
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise SCREEN Holdings Co., Ltd. est sous les projecteurs avec son cours à 10 690 JP¥, suscitant l'intérêt des investisseurs. De son côté, la Toronto Dominion Bank renforce sa position en acquérant des actions de Republic Services, Inc. Une note positive émane du Nikkei qui affiche sa meilleure performance hebdomadaire en trois mois, porté par l'optimisme entourant les accords commerciaux. Ces nouvelles signaux pourraient influencer favorablement le sentiment du marché envers ces sociétés.",
-    "sentiment_score": 0.333,
+    "summary": "L'achat massif d'actions de CVS Health Co. par F&V Capital Management LLC et Toronto Dominion Bank est un signal positif de confiance des investisseurs dans le secteur de la santé aux États-Unis. En parallèle, l'optimisme lié à un accord commercial a contribué à la performance en hausse de l'indice Nikkei au Japon, indiquant une tendance favorable sur les marchés asiatiques. Cependant, l'acquisition de Republic Services, Inc. par Toronto Dominion Bank soulève des questions sur la diversification du portefeuille de la banque canadienne. Dans l'ensemble, ces événements suggèrent une certaine dynamique positive mais aussi des préoccupations potentielles à surveiller.",
+    "sentiment_score": 0.25,
     "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "F&V Capital Management LLC Purchases 7,735 Shares of CVS Health Co. (NYSE:CVS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaExLZHhBUFhNXzNFbmpCdDl0d2d0SEhCRjNxU3NOLUtRQjNNVHJIN05xSWo4UnBqeVgySDNIMmU2Wkt0aTBMdE9hR2lpYVBvR1FqdTdGY0FuNndHbkF6MXpIaVZubEtNZU1LMDNTSnFVclM5b3RaQWJ0Yl9QUUVYNzA0Y0dKa3lSZ2hsTWtRcWkyT0dRNnllWkNVYk5sZDdIdVdvUndCQXA4NkVyTXdhamxUUUxHX1oxSHZPN25XcjhJaWpGQWpISVZZenFsZw?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Should You Investigate SCREEN Holdings Co., Ltd. (TSE:7735) At JP¥10,690? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNE5fWURtaTdjYjA2eVg1SDR5MlFaT1NsS0dlR1NyQkF6cmVwdl8tNGRIRVAtR0hzS2lNTWlvNDRjd1ZGbDI5eFVIdUk2UGZHNnhZQlZvaW00Wm1oZnFQZHBQc3Fad1JxR2V6THhKaVlsOHYzekI2XzA5M1BpcUswQ29DbmE1Q2hKMXJIWHNMOEItT0NRenBtTWwyelk1Z283ODU1SmhFN1BXUHJZUWRMbzdFTlVpajJTT2tFVWVwaUdkNlFCbFBiN2pVVGhQcTE0cEFLOEVFRkFLMzZE0gHiAUFVX3lxTE90SzNqUDNfRTdmUkUxdnFUd0V0cnFDUFdqeHJqMlBrM2FFWEMwN1hTcEZ2QzE4SF9kNE14R19DelVwVmNtVDNsUHJVenFYMkF2aGVqTDVEMlJ0V1A1cE9UNW5EdmtQTUNvbXhYUDRQSVJWUTBUMzhXOGwwYXJWRURzNlVqUk10ZGRYN29wR3JNV2JOOTJOdUcxRnUycmh3VlZRQ2xSdmFYWjV2bFlWbDFhWklUNFJxcUE1aGFMMFNxMHVVMWFEOXVGZE0tdnA4SHpMZmlQb1p0Q3B4UE5rUnF5NUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Acquires 7,735 Shares of Republic Services, Inc. (NYSE:RSG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcVlvODRVMm1DSzFQSmNGbXpOd1lIZXNxc3R2Vnp3ZFBjUFFjcGw4TGZzYy0tTnFzVnN5LUR3NEUwaWVrdk1BODFnV2FsWTQ3SGN0aGd1RTAtSmZGQ19SaG1ZYTlKTGJJb2hJRlNqX0QtUzFGMDZQOG9IdUJ4MDZLYThxSTluT3hXSFJzMjBqdm5jcFBQVnotUFZKZEt3NmhGS1lHYmsybzByb01vRTdlM3B2VlpOYnltMGlhYzgwdlViY3lfYkpPVkNlQ1hSXzVwOWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Japan’s Nikkei posts best week in three months amid trade deal optimism - Latest news from Azerbaijan",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3MFJheFZ0dl9XYVdMakVnX0lZblF5SjFmTzV1cHVaOFVhc295ejY5enA5WmVEaDRla1N6bUFPTW9mN1F0aWgxSWY4MDk3LXBvVTdKTHhhb0tDQy1mMkdFSWJ2SGtSNFQ4Q2JTNUVwMnVWcXhLTGlidjdkMDRQZEhicVdqblVVaW5kMEExT1QyVnZCb1E?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Toronto Dominion Bank Acquires 7,735 Shares of Republic Services, Inc. (NYSE:RSG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcVlvODRVMm1DSzFQSmNGbXpOd1lIZXNxc3R2Vnp3ZFBjUFFjcGw4TGZzYy0tTnFzVnN5LUR3NEUwaWVrdk1BODFnV2FsWTQ3SGN0aGd1RTAtSmZGQ19SaG1ZYTlKTGJJb2hJRlNqX0QtUzFGMDZQOG9IdUJ4MDZLYThxSTluT3hXSFJzMjBqdm5jcFBQVnotUFZKZEt3NmhGS1lHYmsybzByb01vRTdlM3B2VlpOYnltMGlhYzgwdlViY3lfYkpPVkNlQ1hSXzVwOWc?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

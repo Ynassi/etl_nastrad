@@ -2,16 +2,16 @@
   "ticker": "SSTK",
   "name": "Shutterstock, Inc.",
   "sector": "Communication Services",
-  "market_cap": 621522688.0,
+  "market_cap": 624519296.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 16.17431,
-    "PB": 1.1245056,
-    "EV_Revenue": 0.847,
+    "PE": 16.252293,
+    "PB": 1.1299273,
+    "EV_Revenue": 0.87,
     "ROE": 0.07074,
     "ProfitMargin": 0.03995,
     "GrossMargin": 0.57556,
-    "DividendYield": 7.39,
+    "DividendYield": 7.14,
     "DebtEquity": 54.584,
     "CurrentRatio": 0.429,
     "QuickRatio": 0.364,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.23794583844268236,
     "ROA": 0.03754,
     "PEG": null,
-    "EV_EBITDA": 6.801,
+    "EV_EBITDA": 6.983,
     "BuybackYield": null,
-    "PriceToFCF": 2.7092595938379307
+    "PriceToFCF": 2.701571278364934
   },
   "technical_indicators": {
-    "RSI_14": 48.19461262215915,
-    "Momentum_10": -3.216194581248551,
-    "MACD": 0.1019474073872324,
-    "BB_Percent": 0.2228727100105861,
+    "RSI_14": 47.56286835993137,
+    "Momentum_10": -2.222464122315168,
+    "MACD": 0.1764604691876101,
+    "BB_Percent": 0.2878657237528504,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9334080299077544,
-    "QualityScore": 0.3386041487134184,
-    "SignalScore": 0.569579667391233
+    "ValueScore": 0.8951641408879791,
+    "QualityScore": 0.3467682230825491,
+    "SignalScore": 0.597477805152212
   },
-  "volatility": 0.0359196256867144,
+  "volatility": 0.0367368060742161,
   "beta": 1.159,
-  "return_6m": -0.43622758598017,
+  "return_6m": -0.4324570880917243,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 2,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 32.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 32.6
-      },
-      {
-        "date": "2024-12-11",
-        "price": 32.46
-      },
-      {
-        "date": "2024-12-12",
-        "price": 32.32
-      },
-      {
-        "date": "2024-12-13",
-        "price": 32.3
-      },
       {
         "date": "2024-12-16",
         "price": 31.6
@@ -537,32 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 17.62
+      },
+      {
+        "date": "2025-06-09",
+        "price": 17.76
+      },
+      {
+        "date": "2025-06-10",
+        "price": 18.99
+      },
+      {
+        "date": "2025-06-11",
+        "price": 19.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 18.48
+      },
+      {
+        "date": "2025-06-13",
+        "price": 17.57
       }
     ],
     "current_price_data": {
-      "price": 17.62,
-      "change": -0.27,
-      "percent_change": -1.51
+      "price": 17.57,
+      "change": -0.91,
+      "percent_change": -4.92
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de Shutterstock (SSTK) présente des signaux mixtes pour les investisseurs. Malgré des résultats en deçà des attentes au T1 et une baisse des abonnés, la fusion avec GETY pour créer un géant du contenu visuel de 3,7 milliards de dollars a généré un intérêt positif. Cependant, des interrogations persistent quant à la performance future de l'entreprise, avec des analyses divergentes sur l'opportunité d'achat ou de vente des actions SSTK. Le marché semble réagir de manière mitigée à ces événements, ce qui souligne l'importance d'une analyse approfondie pour les investisseurs potentiels.",
-    "sentiment_score": -0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.6,
+    "summary": "Suite à l'approbation des actionnaires, la fusion géante entre Shutterstock et Getty Images avance, suscitant un intérêt croissant. Cependant, les performances de Shutterstock ont été en deçà des attentes en 2025, avec des revenus et des bénéfices inférieurs aux estimations. Malgré des signaux mitigés, le cours de l'action a chuté à un plus bas de 52 semaines, illustrant les défis actuels du marché et le besoin d'une évaluation minutieuse pour les investisseurs potentiels.",
+    "sentiment_score": -0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.35,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Are Options Traders Betting on a Big Move in Shutterstock (SSTK) Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGZUdGhuMGJJY1BzazF2dXZmYzdzNkZwcEpiSFQ1S04yUkw5SExNMEwzME4teWpncDFtUXF1UzhZOFlLQ3lxcE9XSU1mSC1MYzE1MTdRYjd5OThQRFIxbmFCMkMyNkVqMnFFNFJzTC1RS3pqOXE0XzhIeDFqamxwUXV0U2l3S3pnaGpsdXVBZXNNZW1KMk1zdEpuY0t6MzV4ZzhfLVh3RFlqSUc0cHF6LVZUeFFVVHlyNmx3YUNJb2lyRk9kVDB2dUwxdEl5VV9uci1ZQ0RmYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Reasons to Avoid SSTK and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVDJIMEtSN3luTkQxdzQ5SHFNRmZjZnVic1JjVDFnNHdTeTlzRWVIQWhZVFB2UWlKQ3ZjNk0xeFgxa2FsMW8xWUxHY0RCcEprcDdNS0ZTN0tRejBQTGJ4YWFlNXhhdVZISkYwUmdwR3hiWHZlSEJj?oc=5",
+        "title": "Shutterstock-Getty Images Mega-Merger Advances: Shareholders Back Creation of Visual Content Giant - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWtkMGNGQWd1SU03Qmh2N0tMQUJ6NENOV0pld3VfaUZ0dGJUeU1mcnpVQnBzakdwT2JVS29Kbk0xYVkyOXhpZjc4ZVE5Z3lqUGt1SlBXY3YtRkgtODVLZUhjZHk0ZUxCU2NiaUN4Rkt3WnBQRmNqcENrNVl0T19nd0lGamhyVHk5Y21vSHBsRDkzb3dQUFBqemtjdkx3bnA4a0dyODBRT28yaktNZU01T0pOeTFReVVDR1A1R1ZLcw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,13 +566,48 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Shutterstock (SSTK) Target Price Lowered by Analyst at Needham | SSTK Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnNrZUtnemVsRl9JZGpZb3dkc2hIU1dPcUE4ak0wU2FUaXpMR19XLUVEakxJMXBqakxvY1JTSXBxbkFiUHVxYS1zM1hIazdPeElRQXpoeG14eHk5bW9EWS1PWjVuSEdwUVpDaGM1RVBiVWN4NlBQcGU1M2Z2RHlPa0E2TkQyWkxjU1hoX19sLTJuS3lRdzJDOGprRGlVa2hubVJFUWlBbjZPZk5tUlZVM2FWRG9YWkE?oc=5",
+        "title": "Why Shutterstock, Inc. (SSTK) is Underperforming in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTNad1ZHbVpyWVA5RThSTURsT1pMaDhxUWJMSTgtZ190c0hqalR5ZzI0Q3FFaG5qc2pmNmZYbXFveVh4ek1rdU5MdVI4cm5sTHc5OUNWSGUyM2lLNUZLck5lS2NWV2MxMTZpZkVETHZUb2paQzZPdk1MQk5RbUFuakNiZXJGdjd5Uk5uaFpiOVo?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Shutterstock Receives Stockholder Approval for Proposed Merger w - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ01sMmVnUFVPNnJfb3hQZFA1cjBfQWQ3dXlCYVp0aERuQ0gzOXdXREUzUzdkcGRuN2MzcTZKT0toY0dEN1Z1ZmxlS0h2eF81SFhYcnJLSXlRQmI1Undxc3hKXzdmQWt1TW1XbS1pbXctbzJOTElRb2s1THNyd1RYV01RNmR6WmhLWWUyYkQxNFBDcE1iVlhTOTMwTmRKS1YtZlVSMXNuQUpTazZRN2VkdG05Z09nc25uejdSNlVyQ0pYR1Vlbmk3QTdsTzJ6S1g1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Shutterstock (SSTK) Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGZUdGhuMGJJY1BzazF2dXZmYzdzNkZwcEpiSFQ1S04yUkw5SExNMEwzME4teWpncDFtUXF1UzhZOFlLQ3lxcE9XSU1mSC1MYzE1MTdRYjd5OThQRFIxbmFCMkMyNkVqMnFFNFJzTC1RS3pqOXE0XzhIeDFqamxwUXV0U2l3S3pnaGpsdXVBZXNNZW1KMk1zdEpuY0t6MzV4ZzhfLVh3RFlqSUc0cHF6LVZUeFFVVHlyNmx3YUNJb2lyRk9kVDB2dUwxdEl5VV9uci1ZQ0RmYw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "SSTK Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of Shutterstock, Inc. Is Fair to Shareholders - Business Wire",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUlNaQkQ5V0lHS1N5OXV5bUJwTlJuY0Yzdm5EZmtNOU1qVXJaNXptLTY4dGZKVl8tTEhuWmg5LXo3Tm54RlZqZTFYLUdVVTRvRk9BaGMwemhLX1dKOXUwU2xDdGROY2FTaDNIVThROGVtOXkyekQxb1Jrc0pNWmNybmtEZFJWQTctNGhoMENCUFE3TlNpU1RNY3UtdEJXTXlIcE50R19tNV9qRHh0ZGgxd1R5RWdUSVBMUjFYZlo3UTdqZTk1X0JlQ0lCZFg1N2VnQTRsblJhWlUwUHFXRVJ2eHpiVVotdkVvcklXSVM2XzFFa2lFaTdUUHN2QXFsZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shutterstock Stockholders Approve Merger with Getty Images - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2pGVjgtSGZ0THd3UVlMMk9RN2JVYURGaE9zRmVqclhIMXIxMDdVak42NjJtN1JaTGhrVGJPODluU3ZvZFNBTGFYTENrNTFNWFhRbnFVV1FuYW1JZ1Y3LWlpSEV0Qm9OODNaaDZQS2xhdllWZmJFQ0Y5WmhBU0RzT2ZvNnV1dEZmVm9hM2xLNkl3Q1k1bHlhNlJfa1dfeUVGbUNWNFlEMFN5dndQQm5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shutterstock Shares Jump As Shareholders Approve Merger With Getty Images - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0dTdDY3MmFyeHAzSE9TVkF5aUprVFNtOWNvbnV0eGlnbHlVbkdyRWlqMDA3TXdVeGJsS0JES2hUUTdZYVIzY2szeHZoSnhDNHdLZ1JtblNEazZKdkF1QTQweHNZMk45aEh4bUViUjVzOWw1bjhIbkNxU0k0dmZsX1BMNXNnbjNBTHU1N2dVRmNpUmg3cXNlOC1QWEwzX2tzTlNnLWZhcDItOTFtYjZjeXFoZmhwZGQtUXIyOWpCbFhBUS1qQjRjZDIxWEltRUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Notable Tuesday Option Activity: URI, ILMN, SSTK - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWNtRHRRV0xab0FNeVdrSmtlWGNPYV95R0FoSExUZVRXeHpWaV9CMndDRF9HNXpwdU0wZDAwbWNxOWZ1OUU0S2J3YUs0UWV3RHNiZElDOURTNG1PdTVrRno4Zk9EWkpRTWV5QTFRNVRhVU95VFRsS2xCNXNnMFo1NHNSMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shutterstock stock hits 52-week low at $18.61 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2Z1NGZLY2FzRVhwckV0TkV6bGsyWU1GdlQxYW1MTGExb0lMNGk2dm1qdm8tc2VGV09OX1VubWFkdXRWSnZRR2Z4TWwyZVAtTTVxRnVPVEtSMjljZHluVE1hcVpSREFsY3NGVjQyMU1JYWc1UTBETUlXYUFRNk45NFFudmt0UlI2cW83V243b2FkRW9faENJZVdZcHZOUXNoNTFJSFFvMFplb2ZuVDcxcUk2ZmZlTDBWaU0zZVJhbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Shutterstock (SSTK) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0JuOE5hOW5vLUpxZ0lJa1kwQUxUUGZZaWIyZW1YVmlndGlvTVdKU1dhRHJuM3BoM3FlbW9wTXl5WUdFVGRsMEhqM1R6UUYtQmRMYnNRX09QUExrZVM3U0tSdDd5aFZOa19QRWtic0kzOXl2QTJvVUJXR1RPRzE2WF8zSmwwdEZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,54 +616,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Shutterstock (NYSE:SSTK) Reports Sales Below Analyst Estimates In Q1 Earnings - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ05hQ0RQc1N3a1hNVkJ2NXY4NmJpd0tzX1BOZzF6V3VyWkwtZ1RmUGU3c3d3XzJoYU1aVmZ3aTdrTDJsMGVrOHl1RFVMcGJ5VXdCRmZDbnl5d09aMGYySjdfRFdsOWlqblVsTlE2Y2hIck1UUG9VMXhLbGtyUldKNHhFb0dNQm4zbnc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is It Too Late To Consider Buying Shutterstock, Inc. (NYSE:SSTK)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjFGUTItTnRnV1pjdkIyaVNlaHVoNFZEV0Q4OWtuc1ZvUl9ab1hRM053SDN3NEc5VXdjeHlzMjJUSk9WM0VsaFFWTzVQMGlkTXBxTlhGQU5KMklpQjhGNnhoWUdtc09COXF4VGxLNTdVM24wN1VhTXd2dTZDSnRvOXhteExqbnhaVkpJbFhEUVNSVGpVa3NkNnZGMEx2VUQzcmFMckVLTzdTYjZGLW0zZTU4cHNYRkpVM0hBYjlDVy0tU1JJUkHSAcsBQVVfeXFMTXpYdHRtYWVwdnJHNlBZN2Z6aTBTcWNCOW9vZmxiZzByTzVGQXl1TlczYnY4ZDVoSUR6bEFLak1GQjN6TEkyVzhpNVlxNlFPMkdSQVEtTnVHTWcyNGVhUTJhNmJPWm1pLXdrcUpWSnV4R080djBEZUljWTg0TVczcjhjYkhabVp0T3lBYnB1WDdlb2xjd2dIQkFKMDd3ejdGdk0ybFZTajB1bkdlY3luN3o3NFFadjBVMVFQeFVjNFg5ZGpvSmx2RS05Vlk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "SHUTTERSTOCK INVESTOR ALERT by the Former Attorney General of Louisiana: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Shutterstock, Inc. - SSTK - Business Wire",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOaVlBTHNTY3F5b2xtSngwVTQtaEJ1WEZnSEZvWTNPWF9nOG1LZVBZY3R1Q1lUZl8zRWFFaEFCWm5pbTFDQWNkcmZhTnJ1ZkxGZjhYdm1OSC0xYnpYUlZ1a1BIRnhqME1Dd0FlSWR6NnNlWHpKbTliNXJZUFhrVWo1ODdwWW5PTFdFV2ZZcGNJWS1lQTRvaVdOYTBKem9HQ29KLW84YTlhYVBSYm1kd1o2ZnU5ZzA3MS1rNmNucXA5V21EalU2NG5UVHdTVXpQcHViQXdDVmFJckpMYlF5czBYWUJHQUZuNzhGcXNCeWN0N0taODJrNDV6cEZ3NnEzTDNYR2lyOWhvSFNaeDl0dUg0TEVoeWhPa1c2SU94TVM1LVgwc3FSdWZmRjJXcDhteUFXQ0NRUDNQMGNwbWlwbzdzQmRPbWhrUGtDTDA1Y1RDMUhOaEd1azlB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "M&A News: Shutterstock (NYSE:SSTK) and GETY Unite to Create $3.7B Visual Content Giant - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekNNbXNxOEw3aFZxR3I2c2JHb19yVi1LNVNpSVFHZVJqRGx0cFFuWHo2RzFiVTZTbmYtX1BWYmN1TjZVZlZnMkYzV1M2bGhrWXlvdDBtNV96SFRHQVZhSWdiMnA2MDkwWHBYYzR1NVdLbWxuUU1LZlhuM0I4NGF2b3ptUXJWRWJZTHVIM0J4ZHhvNW03eVRQUEVYV0ZEdjlMYkd3eDhnNkRoOUVDbWc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Shutterstock (SSTK) Stock Is Trading Up Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0JuOE5hOW5vLUpxZ0lJa1kwQUxUUGZZaWIyZW1YVmlndGlvTVdKU1dhRHJuM3BoM3FlbW9wTXl5WUdFVGRsMEhqM1R6UUYtQmRMYnNRX09QUExrZVM3U0tSdDd5aFZOa19QRWtic0kzOXl2QTJvVUJXR1RPRzE2WF8zSmwwdEZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How To YieldBoost Shutterstock From 7.5% To 34% Using Options - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGRpOXFES01sUjM4emctSWpQcE4zUVFFbnZDemdINmpLTk95UGpkOWNxY0g3NVhkenc3bFNrdEJXSXRKSWxneTF1UlBNcVJpcnVtWU9VTFp4R1dEMVd1bzBuamItYmhrVDJKT0VHamxDZFNrWDhrbTNPQmJVMkVMWGxrRDB0dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Shutterstock (SSTK) Q1 Earnings and Revenues Miss Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclhzY2NPWU1xb0JkaVppQkxjZVlna3hJMjdQYzVVWTlYVDROR0NYR3lPcGlFT0lFSWdGWHFOMHE5ZGNWQXRjLW5KZURkVGtLVGx2OVhYRmx0eXdiTDFXajUwWW0xY2c5eVdvUUZoZm9ONHA3aWFTSVRyeDFyczV1QXhhVnVTaTl1cDIxeg?oc=5",
+        "title": "Shutterstock (NYSE:SSTK) Reports Sales Below Analyst Estimates In Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ05hQ0RQc1N3a1hNVkJ2NXY4NmJpd0tzX1BOZzF6V3VyWkwtZ1RmUGU3c3d3XzJoYU1aVmZ3aTdrTDJsMGVrOHl1RFVMcGJ5VXdCRmZDbnl5d09aMGYySjdfRFdsOWlqblVsTlE2Y2hIck1UUG9VMXhLbGtyUldKNHhFb0dNQm4zbnc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Why Shutterstock, Inc. (SSTK) is Underperforming in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTNad1ZHbVpyWVA5RThSTURsT1pMaDhxUWJMSTgtZ190c0hqalR5ZzI0Q3FFaG5qc2pmNmZYbXFveVh4ek1rdU5MdVI4cm5sTHc5OUNWSGUyM2lLNUZLck5lS2NWV2MxMTZpZkVETHZUb2paQzZPdk1MQk5RbUFuakNiZXJGdjd5Uk5uaFpiOVo?oc=5",
+        "title": "Shutterstock (SSTK) Shareholders Approve Merger with Getty Images - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3gtTXNuQ1FVYVB2bURGNE16MHBRMVZxdUFCWWo5Q0pPSVFJajE0TGkxRzBoSEhsSW96RG16eTlsRHJRM3pOUXU5QWc5N1pkVmxnWWlKRXFldzhZVHpnQUtrYnZpZ1RxeVJmMk14alJrOTV3bWFqWDZPR29nS2RwbS1zeEpYc0xMNlpxUmJvUDU4QWx4NEtKLW1aR2N4WXhrWS1nbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shutterstock (SSTK) Target Price Lowered by Analyst at Needham | SSTK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnNrZUtnemVsRl9JZGpZb3dkc2hIU1dPcUE4ak0wU2FUaXpMR19XLUVEakxJMXBqakxvY1JTSXBxbkFiUHVxYS1zM1hIazdPeElRQXpoeG14eHk5bW9EWS1PWjVuSEdwUVpDaGM1RVBiVWN4NlBQcGU1M2Z2RHlPa0E2TkQyWkxjU1hoX19sLTJuS3lRdzJDOGprRGlVa2hubVJFUWlBbjZPZk5tUlZVM2FWRG9YWkE?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Online Marketplace Stocks Q1 Recap: Benchmarking Shutterstock (NYSE:SSTK) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1FwR1BJc0tScXZxdmt0VVRnN2FHRllfSkpzeGpRcGJITElQRWZJd2NZQUQ4b3hXYjJjdXZFVTU1RjN6T1cwQjFGS1dleTNNQXRpVzh2bmZuZWdxN19oSUZjMW5NNDB5b1hqdkJIQ0lueE1zcnBPUHoxUXdjQThhM0ZMSDg1NTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Shutterstock (SSTK) Shares Skyrocket, What You Need To Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEMxQktvVVlValhLeXVySC1MYnNxaTBoV0l4VHhpaEJBcms4ZU0wQXc1VTVZNVRRYnVXWGhCckNNWHRkUHRXLXRYZHZFMVRUREJTWWlTS1d3UTk2N1lNM1Z4alFuUElWaFhyRGl4dUkxMktUdDhQU0FwT2VzTzlUeWx2b1NMbXBjUDl3cXl3?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "A Look Back at Online Marketplace Stocks’ Q4 Earnings: Shutterstock (NYSE:SSTK) Vs The Rest Of The Pack - Yahoo Finance",
@@ -641,8 +641,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Shutterstock (SSTK) Reliance on International Sales: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTBpMzh5b0tGYmpLRlRBNlpnSmRIdDkyMXBfdXJIQjhrY2VONGdHZVN0T3diVkFuZ0VTVkNXNHN6M2dDMkw2WEZ3eFcxR1R6cmNwaWNGQmFmTUhveEhUSlNDX2VnMjhPU1lRRnNab1JlejZpc0VXZzhFOC1JWnZGejl5RUd5ZHRGQU9pRC1rSFR3dmhqN0dn?oc=5",
+        "title": "Shutterstock (SSTK) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEdPeGhaOHlUMjVuNXFqS09HRkVXWGMyTG9FNnV3QVA2ajE0d3ZKcE1kYWVkUS1nU2Q3YURvM1ZxQzdLMWZoMEtCYmtRUmdGdHZrQlNEOWlCY2RSS3lEaEpvY01iTHdUbTNkYnNNbUtyS3NwcTY2N2ZmMTJVUHNBaHA2RWY5bVZGWmFHdVRaV1dNZWM?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +651,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Is Weakness In Shutterstock, Inc. (NYSE:SSTK) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEc5MTJaTWVVWWRoOGhROTlqQkQ4Z2hQMGk2ZXUtUFg4TS1DQ2tVUGpOVnFfYVF2OG1DbmpFVC1MS3JfSmotVjFEVFVBa2RwNm5iUEwwU3ZYYkNMY3poMFc3c1BTSVlDeWRsVnpOSkRzZ19FU1FHLUlzUTM5R0c5YmFoWFZBSVJsbDM1XzJYN2N1NlNXTmh2WXZXNjRCTjhNdE11RVJNU3Y0ckQtOGVvV3otQWJJbUkyNUN1OVVSZ3R5QTBx0gHKAUFVX3lxTE1abWlzckNFQTlOX0ttZ0RBNzJUV0VKaUxTTVExUU5IS0t2THVZX3piWTdGRkdHZzdkemRaUlZHZEFIYUZPbkhjTkVNdHZ1SktDeDJEeC03c2ozQmRPZ1BlUDZLZjJaUXZ2YVhPUWRxSkFVSG1xNU5xaFpIU1JiRXk5NG1XejJtX25iUDMySHE3TEo2cHJpeVA0aFdPX2tWdGdvZ2c5Snk0cXBzYWJFZEpYcG5Ha0g3Uk01elJUTXNld01TS25zOFNtVGc?oc=5",
-        "label": "NEGATIVE"
+        "title": "3 Small-Cap Stocks Skating on Thin Ice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dnVoLTlCdEhteDk3cm1UaEZTYUxXRk5CLUpoLWplMnU2dkY3OUZjd082LUQ2T3hYRERLZ0NRSTk4OG5IQmVmanRGRFZVZ19XbEtTekJTeURNOEVQM1lmQkhiQzVvdGpFdHNCVHphVC1NZS1wZ1RQWlhuaVM?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

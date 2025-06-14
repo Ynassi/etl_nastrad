@@ -2,12 +2,12 @@
   "ticker": "CZR",
   "name": "Caesars Entertainment",
   "sector": "Consumer Discretionary",
-  "market_cap": 5379092480.0,
+  "market_cap": 5375972864.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.685625,
-    "PB": 1.3529135,
-    "EV_Revenue": 2.712,
+    "PE": 22.509357,
+    "PB": 1.3521289,
+    "EV_Revenue": 2.743,
     "ROE": -0.03767,
     "ProfitMargin": -0.0208,
     "GrossMargin": 0.51713,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.0018699654034040453,
     "ROA": 0.04343,
     "PEG": null,
-    "EV_EBITDA": 8.445,
+    "EV_EBITDA": 8.541,
     "BuybackYield": null,
-    "PriceToFCF": 253.6471267218935
+    "PriceToFCF": 251.62896208284025
   },
   "technical_indicators": {
-    "RSI_14": 39.13367917156768,
-    "Momentum_10": -7.068536639331198,
-    "MACD": -0.5246790963200816,
-    "BB_Percent": 0.169558249961304,
+    "RSI_14": 40.34454354646573,
+    "Momentum_10": -4.817708767580976,
+    "MACD": -0.340839966188927,
+    "BB_Percent": 0.158449482211415,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9326454502491124,
+    "ValueScore": 0.888756241647756,
     "QualityScore": 0.2322878361522326,
-    "SignalScore": 0.7081960202181733
+    "SignalScore": 0.6542230920451877
   },
-  "volatility": 0.0322796647813558,
+  "volatility": 0.0331295888917457,
   "beta": 2.309,
-  "return_6m": -0.3121010420008331,
+  "return_6m": -0.3015400823071735,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 36.66
-      },
-      {
-        "date": "2024-12-10",
-        "price": 36.92
-      },
-      {
-        "date": "2024-12-11",
-        "price": 37.11
-      },
-      {
-        "date": "2024-12-12",
-        "price": 37.81
-      },
-      {
-        "date": "2024-12-13",
-        "price": 37.01
-      },
       {
         "date": "2024-12-16",
         "price": 36.52
@@ -537,33 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 25.73
+      },
+      {
+        "date": "2025-06-09",
+        "price": 26.74
+      },
+      {
+        "date": "2025-06-10",
+        "price": 28.26
+      },
+      {
+        "date": "2025-06-11",
+        "price": 27.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 27.31
+      },
+      {
+        "date": "2025-06-13",
+        "price": 25.56
       }
     ],
     "current_price_data": {
-      "price": 25.73,
-      "change": 0.1,
-      "percent_change": 0.39
+      "price": 25.56,
+      "change": -1.75,
+      "percent_change": -6.41
     }
   },
   "news_sentiment": {
-    "summary": "Caesars Entertainment, Inc. (CZR) est au cœur de l'actualité avec des signaux contradictoires. Alors que certaines firmes comme Chesley Taft & Associates LLC ont accru leurs positions, d'autres comme Janus Henderson Group PLC ont vendu des actions significatives. Malgré des résultats trimestriels mitigés, la société continue d'investir massivement dans la communauté et d'étendre ses activités, notamment dans les paris sportifs en Oregon. Les investisseurs sont divisés quant à la valeur future de CZR, avec des analystes optimistes mais aussi des mouvements de vente importants de la part de certains acteurs majeurs du marché comme Wellington Management Group LLP.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "summary": "La société Caesars Entertainment, cotée sur le NASDAQ sous le symbole CZR, a récemment connu une volatilité significative de son cours de bourse, avec des baisses de 3,72% et 3,9% au cours de la semaine dernière. Malgré ces fluctuations, certains analystes maintiennent un avis haussier sur l’action, avec un objectif de cours de 45$. Caesars a également pris des initiatives stratégiques, telles que son entrée sur le marché des paris sportifs en Oregon et le lancement d'un nouveau jeu de blackjack en ligne exclusif. Cependant, la pression sur les revenus a entraîné une baisse de près de 29% du cours de l’action, suscitant des interrogations sur son attractivité pour les investisseurs à court terme.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Chesley Taft & Associates LLC Increases Stock Position in Caesars Entertainment, Inc. (NASDAQ:CZR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlQ4MktxT2FCSGJZSEhtbmtGSlBiVWpldkVJdnNCZDZmUTZvbTFybGtsaXR1Z0FmSUtRS09hWXBvZFhFWldnMmxOUGM2MWxKVEFfa1YxOURKdVZhdlhhZU0tdnF1cUh6Vjk5d05LampEWVF3VDRsOVJtQkZrVE03TnhQMHo4SHFTcnBDQlQ5TV9RaGNxSkxfYUxWYnhxdktkN1BUOE12WXduVkQ5NjJWYVNRMzV3ZFVqWFJKU21pZ2xod3ZUdW50RW5BSVFIZnpvVnpzSjlwdzNvVFkyaURxS0ZrSXBaQWs?oc=5",
-        "label": "POSITIVE"
+        "title": "Caesars Entertainment, Inc. (NASDAQ:CZR) Shares Bought by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEp2ejg2R0l4U1FOOXZkSzFtWmhoNVliYWo5YmdPdU9LZTExb1dHN0pjWE5qeVk4RGRHVXBQWFZ0Zl9iczVGYXI0emtoQUFrc2VONWEwZWg5RmcwYklleThpT25SNjZJQnVSNGUwTkxTX3RlWm9jeVdTM25pa280TEtNWXVzMlZkWGJ6RjVnYlAybTN6UlZSMUtUMVVxam9LQ3VELXkwcGFONDA4NHk4TFd2MlduOUdEcGJZM0k1OGxoZDZjVXZVQ3FPaUpJWmdpX3lFY1NsQ1g?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Caesars Entertainment Makes Civic 50 List for 11th Year with Massive $71M Community Investment - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdk5pSU5sUUU1c2Y2WnhFWUhkZVZSS1JfWUhRMEJZaUlRU2ppYXpkd3ZteGV2cWVHSzIwYUs4VnJDUUozMnFWVTNyZHJlakNFNjI2OTNvcE41VGJZcVF1WU1ONUhqVzV2UXhINXZ6MHE1QVNITGpnNGc1WHBNWWtnQ0NSY19RejdNcjFWZEluSzFtcUNPb2ktNXN1TFlxRkVnQWUxYnJPeGZjRk4tb2lMeGVwRXRhUHRiSUE?oc=5",
-        "label": "POSITIVE"
+        "title": "How to Take Advantage of moves in (CZR) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3BTbmJjdmFpRzJNYVZ2enZXMGZ2ckxWeUVzenRqZ3B5QlcyUmVXNDZiWXRFcmVNUjIzVk5pTTRkcEZrbm14MlV6eGlWS1lrUHU0NUZnRUMycXhZZVo5MHpQaUh5RHRzX19VZnBPUlZTS1lrRXVnVy1nckw0R2VDeXRKZHBsb2NzUXlXcWI0SmI2RGVFbGtUVFczNDRLOXpWekJlcGpxNmFSNTJ5RGR1VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Caesars Entertainment (CZR) Shares Jump on “Buy” Reco - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjA2cE9SYThRRnNtY0NXN2xCX3c4VVJ3Z1dOMmFCWW1VSVlVUENuSUZtV05veXNRcE9OZWhBbTNHQlVRenQ0TE5uclZNZDlkNVdvMDRoVEtOV3NLTUlzWllCMWloN2hNOUhkVWVGWkdPSnJycDN5ZnNvd2h2clA1V0g4SFlacnBwb3NjX0JWTGtmekFYUHZ1b21IczhwY2R5VF90c0s3WXZuR2E3NzNHbW1jOC1uc0RhX2NwWmthcDkwSFFJQVg1bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Caesars Entertainment Concludes 2025 Annual Meeting Decisions - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDUzSUtJRzNudXVWRTVzek1rQ3ZtWEN5WkdHNkFrUVRNYkN0WWxLcGJ2eWppRkJ1dlhNRHZIZVRURXJnMS1aZGNoZjk3dkp1QmdrZDlrTWt3SG4yNWNuejRxNkJrVHJnU2tkajllYkhHbnpLNFZLTjE0X1NRUmluanYwazllUEd6bW5Qb3Z2TG1wXzV0bmUwWDBocmlfNDkwZTlKX0MtalMyY3VtclZHTFMxMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Caesars Entertainment Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2o3QzE0cmRzSWdtU042d2I1bUpxa0RYOGpxcjg3SUUzcU1WUUxSZDgxQm1yWk9rYmZzd1dQbm81ZVhId0NuZXJiZ1RDbjJXdHBVUkRRem9NaEgwOTZ5ZnBfQmtDb2w5RWh2SDNHQi1id0ZCMF9RdlhXRW5TNDVHVHk2MEZnSjdTMDRmX1dBUGc5VXFBYjhncnhPOXlTeEpycEJSaW41My1WcUNVX2UtVS04cjBUdVd2bDVIdWlaRFR6ZFppVmMzMFV0alVoWnVNM05zZVZCWkdwbkNoc3Jod0ZiS1NodklE?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Caesars Entertainment, Inc. (CZR) the Most Promising Long-Term Stock According to Analysts? - Yahoo Finance",
@@ -571,24 +586,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Caesars added as a new long idea at Hedgeye (CZR:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHFkQVk1aFZKT0RUVUs3SFJzNVk2aml3TFJ2SWhwM0g3dkVUYzhIUGY4OWRiMmIxOUQ0cUJ5SUxTUzR6YW1sdkVjaTN6cEFnM05RcGJoalYyelNadU8wVFF0T0xLczhoYlZLLXZfekFXRGxJbUF2Y1NwSUZyRFJiQ0ZoSTIzSkJI?oc=5",
-        "label": "NEUTRAL"
+        "title": "Caesars Entertainment Inc (CZR) Trading Down 3.72% on Jun 13 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTk1IaHBGNHA2ZGNmbEtSbWhhVHU5eDdybkxBN3ByVm55aE9XOU5tNUc2c1dLODhjWk1RQXFSQVJOM2c2TklUTDZyRmNuY05lb2ZmekQzYlRCZVZva0lJbkxHSDRPZFY4MlBZNGU2b1g1UzRHU2xlVmF0R1FUT1ZhZklUbF92aFBsQ1N2eURQenVqMF80S3B3SHJ4aw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Learn to Evaluate (CZR) using the Charts - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3c1c3diMTVyZGFWMDNrenE5OE1CTTYzWEJ3VkRYTXhnejRQSGZrWkpjbmhndjBubzRNYVd5ZWVRd3VnUEFBNDVjcDExNHItLVZqMFk4OXlrdHdkaVdmZEpXYWFyNklnLTBmQmlSS2JlY0p0RFhLVzlFZWRtd1VpSUozN2JMS1JKTnY4Y2laRFJoZ2RhWElsQ051eG1MQ04tZ3h4STRaYlpfZW1yOFkzdzhsbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Caesars Entertainment, Inc. (NASDAQ:CZR) Given Average Rating of \"Moderate Buy\" by Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUll2NWwyTTdrSHBDYnhkUTl0b1hDaF9lSGxEOXptaHVmTzZKLWlRazdwZjc5SmhfZW9OaXhTLVd4ZTk4Z2RWM2w3dUQ2djR6OTdDcTJWcE1mVkpvUEE4Y2lvaTN5T2pTNU5HZnpfUnNQUnBZRzR0TzV1ZUg2aWozMHc4dUdQdldhdUVON3E1UC1kRFpDaHN5UzQ3YnotTkJpQzRaSWZZQmVzNDRkeUs4UThjWnh2UHh1TklSNDVBNEN4dFV6M3Jjb0c4OEhhaDdrZFVBeEZMc0VuOEVsakE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Caesars Entertainment, Inc. (CZR): Among David Tepper’s Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaExmUjNWMXdCQlRZM1huRHpUMURWeEN5dWxWdjJFN0hMX1BZRlNuZGwtWVFPaGd1QVNCMmZZU3hJN1ZxWjBibjZPQU9pajIzMG9XSV90VjlreFRJM0xaMURYZW0xbUpyaklvdVpLX1dKTm50MGM4NHQtTUh1WlRHZ1lsWExPTkxF?oc=5",
-        "label": "NEUTRAL"
+        "title": "Further weakness as Caesars Entertainment (NASDAQ:CZR) drops 3.9% this week, taking three-year losses to 44% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmtwaWdxVjlzM2FiNmhBSWhGUU5ISFM0YlV6NjhVQTZSSTRwYTZyTElwWlZCZlZRWmZMTUducm0wYko2dllsZzFrQ0tkQzVNcHR3VkM1THZWcUEzdjhVbjB3bkRYRXFHY2dDdkEyd2dLbUZ2TDBzYUpOcDNLdy1raWx6Qm15TzIzUVlCMUUwYWgyb3o4cDJVQzVYWWNYS2hzeDEzam9lZUsyN1RveE9wdjZmdXFDVFNmNFQzQnN5aGozbHhhaGNfWWsyZlpQeWQyaHhmUkVROURQdDZ3aHRCNVdR0gHnAUFVX3lxTE92bHV1djRiU3lFSHI0T1Faai1kMHhDbVJ0MDJfMUo5Mkw4YkVhY3FFLW8yWTNXOWJsWDc0aTdYazZWUWNOcDdhUDFIeFo1Skd6aGlkdkw2TkNqcUo2ME1oMTkxRFJESzg3Yl9aeHhjRGc1SVpyLW9NaHhtUVFlSjJDbV9aR3R0RGc0RDlSV0RwRm1YV295VTkxOXBWTjFuZjA3SmhMZzRHcXcxcVg5UU1UdWhTSnkwd19UMkVIb3BLeHJPNmhSRmVSdm1KaHRpaDZzclpvTTY5b28yUGhXaGJQbDBPZXhyYw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Caesars Enters Oregon Sports Betting Market, Offers Exclusive College Sports Wagering at Tribal Casino - Stock Titan",
@@ -596,8 +601,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "CZR Q1 Earnings Call: Digital Growth and Regional Recovery Offset Profit Shortfall - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STVdxWWo0UmZaWkpTZHN3LXprdG9pWm1TaVloQ1VmODJpclNPbVVTNVdWSXYzTGFRdU1PQ1ZqMDdsTC1vMFBSNHp6Nnc2QnRTSTI3Q3lpMmRMOWprXzBSTllBSHF3ZW1sUTVQR2x2MjlqcUlPM2NrUGdGOTFPeUk?oc=5",
+        "title": "JMP maintains Caesars stock $45 target amid booking trends By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVk11anZLaGZ5OUQ2WXRycjlvWnF5cFhwOEFTU0FaZWJDRDdQOEp3LUduWXdSdXNtN2VJZFFRUGhjYWt1YndaeVZybzMzTEs2ZFBQNkZISGRpV0xWTWNDd3VlQlNGdUdiSlRuQmhmcUVyTGhkcklYUFV3S0lZMlFzZWFpeWlRNlF2LVpIX2NWelVmRXNSS0ppb1NmV25PX1BWcENvVlZrZmlTMzZ4bHk0Um12Ujk2aFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Caesars Entertainment, Inc. (CZR): Among David Tepper’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaExmUjNWMXdCQlRZM1huRHpUMURWeEN5dWxWdjJFN0hMX1BZRlNuZGwtWVFPaGd1QVNCMmZZU3hJN1ZxWjBibjZPQU9pajIzMG9XSV90VjlreFRJM0xaMURYZW0xbUpyaklvdVpLX1dKTm50MGM4NHQtTUh1WlRHZ1lsWExPTkxF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JMP Maintains Bullish View on Caesars Entertainment (CZR) Despite Q2 Headwinds - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNVjJEZksxQjBGaFlGWE9QX0FtSjAzNGNVT2J5RzFBZmtXR3daN2djMDBBWmJFeng0MjBzY2NYVmRZXzVHV2dPdTFDY09GOFNvRTZTTl9xMHFtYnIxUTdueFNtZ1RNa2JXcWU0SUZfWmlTZWRzWnZmUEpKUDRsWm5rLVZrUGpUZ1ByNmhPM2xGdWxmUFBmUDBDVmEzNXI2VjlsZjhSRzFLZFZlSGYwVF9wWW5NOVRhbXpZSC1YMldxYlFPUU41RXZfZmdfdUI0c3duYWt2TDZKa3FxUGVGenlUd1F0bTM1UzFjTjBwaHp2RmRBQ2xKbXRVWkpWMzJxcWdLNUxEWkFqYkpOSWlTNV9LdllpTjNJUUU0bHItQlVnNEdmYlREYVB5c0k2TFZvVkhTRXFseEd3U0M1TVpMMmlSN2VSV0x0bGRSUXgwcktOcHNocGxjbzllSmxjYnljQmMwYXZVSGhCcTdzZnprTkphdnpXay0wRnBXSmpHMWxuVWFJQQ?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -606,44 +621,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Janus Henderson Group PLC Sells 5,507,358 Shares of Caesars Entertainment, Inc. (NASDAQ:CZR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGd0TGgwb0pYdlVBT1hGUFRDc09EcUYyRlBTLTZ4WlphYllFMjhlTlNCUF9ZVnN1amMxd2d4MFh2SHBlS1VsQTA1enhoOWMySnNFS3EtVTZtR3B3UTM5dTMtYjdTbUlaZml3Zzh5VG1FcE10Ni1DWFMtTU1XMFVmaHF6ZDJIcXNWbmNwLVFETm9wc0prenhaamZEUnBJdHVzRmtiM1Y5NzhNeHA2cEVaZkhoYmtRNUM2VnBQc0UzN0NibFZoR1hSU3lyRW9fbWhNZFpLVFJn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Reasons to Sell CZR and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CcjVTZEVHOHJ4YmNVUXFZTG1EcjIwaGl2NmdUM0pTS0trRHVHb2FlYjVMelh4bUJnTFpVWUFVMU9nS1FmOTN6UmQwemZaN3NuR3k1VXZxRUItZDJaZ0dhZnktRWFpalg1ZmduYmRoZkNlSnBB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Buys 99,843 Shares of Caesars Entertainment, Inc. (NASDAQ:CZR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQlNNVzVWV2plUHo5V1pIWVhCWVpuNV9GblFhMjVfZ25tbm1KQmVJYkNMaE51dFB6MU5PTGU4OEJ4YThHQk4wdVR2Mm1zY19lY3ZTQ0hITGphX2p6VnZsQS01WG5WVDNsdjFUeURneG9GeVpjSk90MGVYUUloT2JjMDY3b0NrQkxLMk9NNWw0ejNCRDNyLW5OM0tFZVFDU1RzTmpXclNEZ2J0UUV0RU53Ni1kX2phcTB3dGNVcnljM3R3bzhKV1p5STVGeDN4eDNwZXhqaExMckV3T2RRdE5oV2RXa2tJUW1ZN05yLVdMdl83X2xMVkFwckI1WktNZUxkN1pZWGxCY1hNY1oyaTBwTw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Is Caesars Entertainment Inc. (NASDAQ:CZR) the Best High Short Interest Stock to Buy Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGNIRTJ6WWtzN19jYktlTlFMWnVyVFRraVdFbnlJeXdfTFozaklLUy1fbktFTzh1TTVVd2FDa1p5VDhfYlNlUnhVV293clgwTW84Qm1pOXB0OEZ3OHIzX08yZnEtUllsLTJYOU1qUkZpVXctZGV3ZUt0cHR3VlRYOWN1R2ZfdmZqWWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Buys 51,946 Shares of Caesars Entertainment, Inc. (NASDAQ:CZR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUpJZ2cxQlVzQjE4bUQ3QV9KY01HUGVTRFd6SWRvVFJqOTBNem5wWTQ2TEZnVlpnZktlVVFYY0drUUJfR0p6ZGpCWGVzRHBnZGZiQ1NkMlZ5cE9JaW1YOG9LbWpGRmRBZG5Cd3BTejZwVEplSFltU09WdlM0Q0FtY1BkOXBVMmhqUVlyRURaenhud3ZiZ0Zfc2dxdVZyc2FPOU5jcjJmOURlY1IwV2lSaXFxU2RDZDJ0dEpnS01FWUlkbnZFQ3RZbHNnTW0tSS00cWRMVDFmMFJudkxvU1ZSYnZPTy1VX1dwU296elNVZE85azBJ?oc=5",
+        "title": "Jennifer Lopez Returns to Vegas with $100M Success: New Year's Eve Residency Features Exclusive Songs - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlR0TmJ1LWt3aW4tOGtWalBiOWhZemJpUnlZc3V1b1Q1a2dSWWozb0ZJZGJvZmt2T2ZGMVFSdDNCbzVoQUpaTlFKQWdmbzZZSWFSaHpzRF9mbEtFeDlpcklFYjZVd2ZTbzNFMmxycThKWnpwYVFtQWNRUVpNNk9xMHFWM1pVMjByU0hveGN0b3JERXZCREJ0UHdjYVYtUkpET0dJb1N1eFU2cE5ncHJFRV96bUNRWFNN?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Reflecting On Casino Operator Stocks’ Q1 Earnings: Caesars Entertainment (NASDAQ:CZR) - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVpaRno3X2hLTzJVR1Y1UDhWTmtMdThTRUVTc3dkdkRtR0dHT1dWXzJLTHRnLUxDdXRzdzRlZnRxaUdzVlYwUmhFdTBaMkI2S3M0RXJyU0pKZk1XeW9IVGU5blk3X1ZHOWZxT2RtNjgwNDZrdmdON0lhMXJiRjk1Q1RHVGVlZDd2YlE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Caesars Entertainment (CZR) Reports Q1 Loss, Tops Revenue Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG51MGpUeVNVYk45X2tpaU1TODMtY01UaW1RNHJRWXNOOHFaOVg1ak05NkZDUFoyWUhoc3lveFlzQ19GQ1R5T1YtU1lnWFI1R2JnYW5QLWZpeUljWUpMajVzRmtvamxFekNvR2ZOclZWVlZNenNpSWo5M0gwSm9iRWdEX0l4YzBsUkE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Is Caesars Entertainment (CZR) Up 1.6% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbElqZUFfeHFEbHZuNUNDeEpZMHdZR3FhRlFyTjdLckNIdkloTkFxSDhqZW1oLVVvZFdhTXR4d00ycmpyM19RcEZ6eXhJN3V1VTZkRHlkZkl0NDJfWGJUejBDUE5OMXBsbFZZalFNaXRNZzNHVU1abHJDeW12Sk9hNlB1UQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Caesars Entertainment, Inc. (CZR): Among Top Stock Picks From Carl Icahn’s Portfolio - Yahoo Finance",
@@ -654,8 +644,18 @@
         "title": "Is Caesars Entertainment (CZR) Among the Best Casino Stocks to Buy According to Billionaires? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1NnZDdYcTBqVEFPLUxuOEU1WkVUdGlvV1JIR0xXWDljSXJsM2lLMTFxb0xISTkwZ0VEYlZCRC1sblhKMHFUS1VuSGZncTQwcHNyYTBaenVkeEZTelNHZEJsM0pvdTlVUXRCbUw2WWJlQWNoUWt3WnJtcm0yNk9LbEpqVjNJRGxGNGc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Revenues Working Against Caesars Entertainment, Inc.'s (NASDAQ:CZR) Share Price Following 29% Dive - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0dHMi04ejI3NUpiNlhLRjZNQmFpc3NsQWtKWllDcEZpZzJ6WHpGWmo2aVRPZlhjZlJqUzNnT3JIcllfQzJ2NDdYbjlXUVNLZ05oZmhRWjNnWDktamRyeWt1ZmNEZkxRS2lvQlFhdVpUQUdNSzJ0TmFfRW9PQXFiOWlPcVlVUlVwVE1WNURDOVNfNmRyazI4eHBjYnBFcGlvM3BzUG1OamhMekN4SkxjR1YzZ1g3WHFoeVQwaWRUd3FmMFU0SFNrTFBDR0g2cjNOcmwzNW5sRXk3dFM5aDVMVFpn0gHnAUFVX3lxTE1XRU5zdHZMbjRTcTZqbmVEYkowVFp5SXdNeFRxOEJUY2kxZ0FjQUloWTJHOW9tWXJCdDlyU0YwUjR2VmFsN0RKajBxUndadlNtYkh3T05NZXZrNGNFSDEtNmpsbURyb0hFR3FoVHJ3MEVqWW93eDYtalZpX3JITWc0RExkanItcHdpcHpMQ3VZd1pHZ2dHb0NCSG5xWU5ZLWpfNGFBM0Fyal9tM1NweHFrSGtZWkhjamp4S3dmT3dWczdMTXBVaWd5MEx2dEpPVFkxR01aN1dydHRwLWVVZkRBRUtMME53RQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Caesars Revolutionizes Online Gaming with Live Dealer Studio at Iconic Tropicana - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMy1JNHBkZWZKRjA1ZEpTZFpteE5IOE5lejVvY2NzTDhGMGhXeTZIemExQ1NtZ29fRVdvZHAtckNvTXp0VkJ3b0p2V0ZwVkM2WkRTc0JIYnc0YTRSWXdjZzBYaDVRa0FYanNGLXptVkFob1pLeFdNcmxwRXE5QUFTcGt5VE1QRk1McjFmSnFqYUx3ODU0Q3I3LXo5WVdGY3JRNlJQbHNBZDlRcFBoVDdqcEtOLUpSelZMcUstRk9XUQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

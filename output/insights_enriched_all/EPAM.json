@@ -2,12 +2,12 @@
   "ticker": "EPAM",
   "name": "EPAM Systems",
   "sector": "Information Technology",
-  "market_cap": 10070017024.0,
+  "market_cap": 9752196096.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.82542,
-    "PB": 2.7631824,
-    "EV_Revenue": 1.825,
+    "PE": 24.0419,
+    "PB": 2.675973,
+    "EV_Revenue": 1.839,
     "ROE": 0.11568,
     "ProfitMargin": 0.08465,
     "GrossMargin": 0.30247998,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.11647706878690268,
     "ROA": 0.08141,
     "PEG": null,
-    "EV_EBITDA": 12.855,
+    "EV_EBITDA": 12.959,
     "BuybackYield": null,
-    "PriceToFCF": 17.768842259319083
+    "PriceToFCF": 17.073887658046072
   },
   "technical_indicators": {
-    "RSI_14": 54.981378908751985,
-    "Momentum_10": -1.6885362173004237,
-    "MACD": 1.5268402116337256,
-    "BB_Percent": 0.4175151010184488,
+    "RSI_14": 46.23622578217386,
+    "Momentum_10": -1.3467855060659566,
+    "MACD": 0.9983072778210272,
+    "BB_Percent": 0.183409814160229,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9317585535823344,
+    "ValueScore": 0.8905578844654389,
     "QualityScore": 0.2553095181573757,
-    "SignalScore": 0.5777884005910543
+    "SignalScore": 0.607563082895868
   },
-  "volatility": 0.0290436427921769,
+  "volatility": 0.0291349579565616,
   "beta": 1.718,
-  "return_6m": -0.275819913587198,
+  "return_6m": -0.2963538267694572,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 247.2
-      },
-      {
-        "date": "2024-12-10",
-        "price": 250.09
-      },
-      {
-        "date": "2024-12-11",
-        "price": 253.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 250.07
-      },
-      {
-        "date": "2024-12-13",
-        "price": 244.64
-      },
       {
         "date": "2024-12-16",
         "price": 243.37
@@ -537,47 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 178.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 176.69
+      },
+      {
+        "date": "2025-06-10",
+        "price": 180.76
+      },
+      {
+        "date": "2025-06-11",
+        "price": 176.58
+      },
+      {
+        "date": "2025-06-12",
+        "price": 175.84
+      },
+      {
+        "date": "2025-06-13",
+        "price": 170.75
       }
     ],
     "current_price_data": {
-      "price": 178.23,
-      "change": 3.64,
-      "percent_change": 2.08
+      "price": 170.75,
+      "change": -5.09,
+      "percent_change": -2.89
     }
   },
   "news_sentiment": {
-    "summary": "EPAM Systems, entreprise spécialisée dans les services informatiques, a récemment connu une volatilité significative sur le marché. Malgré des résultats solides au premier trimestre et une augmentation des prévisions annuelles, le cours de l’action a chuté de 7%. Cette baisse pourrait être attribuée à des incertitudes liées à la transition de la direction et à l'exposition de l'entreprise à l'Ukraine. Cependant, la reconnaissance de la société en tant que principal consultant en cybersécurité et son partenariat avec AWS pour développer des solutions d'IA générative pourraient ouvrir de nouvelles opportunités de croissance à long terme.",
+    "summary": "EPAM Systems (EPAM), entreprise de services informatiques, a récemment connu une série d'événements marquants. L'entreprise a dépassé ses prévisions de revenus pour le premier trimestre 2025 et a revu à la hausse ses prévisions annuelles, ce qui a été bien accueilli. Cependant, malgré ces résultats solides, le titre a chuté de 7%, suscitant des interrogations quant à ses perspectives à court terme. De plus, des analystes notent que le titre d'EPAM est parmi les moins performants du secteur des services informatiques, ce qui soulève des inquiétudes. Enfin, la récente modification des statuts de l'entreprise lors de son AGM pourrait indiquer des changements internes importants en cours.",
     "sentiment_score": -0.15,
     "label": "NEGATIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.3,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is Weakness In EPAM Systems, Inc. (NYSE:EPAM) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSFJaOGd3OTJ4QlVENTZMTVlwRW9VX1ZGaEZnUndER1p3UE81MGxOckRYVXhiR1hKMUVDeTVLNGZlcnJIX2JQeUFwQjVEUi1jcnhTLXVlbFNMVkJuZkQ2Y25vRTFRQkJkZ0NOOEMyeDVFWUFCWFR1VDVZVnA0d0xpMjRR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "EPAM Systems: Good Business, War Discount, Low Bar (NYSE:EPAM) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWhyVGd5ek1yUmNYR3VwektZVk9xMWRRcXN6SHZraGc3YnJyZHFVbWI4ekNVNTFtRl9aV1NqN2o1TUN2dEF3TU5iZVF4TlU4d0ZwVDd6S3BzRkVMWWZFaFFCSVlRQXRLczFXcjVYTmRLdUVMODN3cU85b2tCay1LbTIwX1dISXkyX01JMG12RmxRdw?oc=5",
+        "title": "CTSH vs. EPAM: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NamxSXzhXRHNHZWF3TW9Ha0hCcTNteVZMelFJNHFnU0I0QVlneXA4clhTVDhGWW45b0xPaE5IdXFGVXU2cVRoVEtOaEhRUXJkRjlpcGdHRzZTVFVNQnNGRlhhWlFNRTNreHdudTd1WXBUSjFVUE5KVml3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is EPAM Systems Stock Underperforming the Dow? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54cEUtX1AtejZOSTlucmV3S2g3SU1BRmVHUTNBcS1BT2JOdk52aEU1QWlxc3A0WjVHc2RiVnFtMHdFWDFLZGs1NEc1MEZ3VkREa0tEaURub2M1bGQ2eTNlTjVNaEp2UjViaGJHS1FUTG55MXdNOFNBdmJB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "What Is Holding Up AI Adoption for Businesses? New EPAM Study Reveals Key Findings - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSGNYalcxSWlsOXZabXpmWWJ0Vlo2ZkJ3TWZTeTlKZ0Z5aUFUUXlnU3VielVLaWhvWkY4TWJkSmVqaVlNbWx0dVdBZGpkOHlkck9yaVU5X3Q4aFRfTVExa0J2TEJGbTJiMm5NSjFpbnFTOE1TWWo3U0gtM2hwT3ZOQ1UzMk9QY182VGh3QUxBaVBlMVBZV2tjVXBhTWpQNnJBMFpqVlh1dkQ3NkZsVllCaXJqOFR2ZElhM01pLTdTaTJGR2wzNk8tc3B6QzBiR244cGJB?oc=5",
+        "title": "CTSH vs. EPAM: Which Stock Should Value Investors Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUgyWnNIYmlueUdwaTFqWkhfM0U1YVhwNmNDZkQ1eVp1VUpfUkhKT1Y0QkFWNkxEVUVnWGlZakc4TVZvcXZNTFlZTnBaMFUzRS1fYUJPSUt1Zjl6ZlFMcWJmN1JBazl3RUkxcm5uOVAzd1pnUnBsclE3MjZvT25OOWRSLVJLMWlWRV81bGZ2clQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EPAM Earnings Impact: Stock Down 7% – What’s Next? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlYZkZ0U1BoNDY5aG1CRmg3OUZLSm02YXdOTEhWX1dGLV9tQUNsTDV4VElBZkpiUzRaWEFBTGpPeExvaWRNY3A3S3dnakJlUGRwMWFKTHgya0NFLXJIc3doeTM4RVRZMXdHMy1fN3JFY2ZVaVgyc3c0Z25BaG5MMmo2TmdPWnlNVk5OVUJtUERRVklOODRPQzRjcFkzSWNpWlRGUzgyUFpHQ053aEdr?oc=5",
+        "title": "EPAM Systems: Quiet Rebuild, Strategic Upside, And A Patient Investor's Opportunity (NYSE:EPAM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2QzeWQ0MTJSS0N0UjMwdWZEZmpoM2hPVnNUZTJ0TFRFd1VucDRzWDBzMUVZbDlEVWZSQXFpNWhsQjhON0VkY0ZIV1VpUlR3TUF4NEV2SXVqdzgxY1AxVHAzVUh4enFOWjVPUWxOZXNBWDcwYzZ0X19JeExxVGNVTU9hTmV0bGFyQi1SVVFNX3pIX3JLRnItY0JUUHdXMDFXRXRHc3lEUnVkUkN5ZjA0ajhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EPAM Systems Approves Key Proposals at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUxQMGlsVkNPWk9ZNzJjOUpRV084WTlCTXd6Zm9lcVhFVW5TbFVSN2dsVWxTbDkzT3NvNVNHd3RWMjhEb0ExelA3SVdITm5RUXZGNFVzVUFMMU1sQk5IVWd2UUpzXzVUYXVwVGpQMVFUQVZ1Nk41TFc1UXh1aWhJTXR4cVpPQThPTVN5OVNQbkY2clprVWIzRVZYdE9Rckw4cGptRTZDaWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EPAM Systems Insider Lowered Holding By 98% During Last Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnZDM2JoZWpxVWxsUWY1dFlfYzVhbWNXeTZuN2tidVJ4cFBMRDk3UTNGSWROLURiUUVkX21hWEFxNV8wTkp0bVl0czdkYVhEdUtieVlpSUdaVUdaWkRPcFhJbm5XcEJnSm1VX2pNZVJmVVFQeGswZTFIdVlIckhVTFhLYVlYcUktZ09Ka1I3Q3VBQzNEa2hpZ01McUhKcmRCaFpDaTZFUEdrb2ttanJtOWNlc3NqcmgyM3NaSGJhRjdBQkdDUW9R0gHMAUFVX3lxTFBGbnJGZmgzWF9rSjlNYkpNcXZhaHFsY2phRTZaZGRzV1F2dkIzX3pCZTNuYnNFY3FuUG9UeFNIdkI5U3hBTnU0NXRUMHJsSVpFeS1hTU5xZFpzNkhVa2VvQVp1LVg0MWdaQ1ZnU1VfTFl3Tzd3LXRlQkhBbWxDaHVsZEoxZzZick1BZmpRYUtocGtaSDBoQlRhSDd5QXVuUy1oTkJQQkF1UGtycG0td0tsU1dNUDA5bnpjTlc1X3lPejZyZGwwWEtzRUd5dQ?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -586,38 +586,38 @@
         "label": "POSITIVE"
       },
       {
-        "title": "EPAM Reports Results for Fourth Quarter and Full Year 2024 - EPAM",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzhrTEJuUUV3ZHlDb0ZhQ01aX0pDVl9zTlhUVXBIN2JwNGpucHRZWWtaMS1BcUFiYTllSFplSTFhYTBndFhrdnZsN2V0dWVjMjRNNmxNTDh4QnRnY3FKUnQ2RmdUTHY1OTVnazUzQXhRb3dqOWFwYXVzYkswMmc4bDNyUVhrekpQRThLVl9EUmw4MXNFREd1QTNDQnVUdXJueXFGVVpFbUdwV3kxTUNVWS1VazI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 Gains and Losses Today: Epam Systems Leads Losses as Stocks Fall on Walmart Weakness - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE9qMEVXaEFPOWdPY1FiUkVXSzZpSFQ2bVNJRDdUR1J2bmhxWXFwLThaNzhxMklZZjVuck9rNm1na3RGeTkycl83dnNUUTU5RFppUUdsb09JOWd1ektsS2tBem9ZQWtTZTNvaFplbm92dlFncU9uM21YTlRZYnhtS0ZCZUtwZnRYQkwzMWFiVXpLWEduUjFtZlp4V1llS1Z1UFpsRkU3VTJMRURLNV9HVjlKTnNxYUlpTHlWekplSTJRRmNlS0JscGd6SVdqZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Software provider EPAM raises annual forecasts, announces CEO change - Reuters",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTVaaDFFclNubHgzeHA5RjBGaUVuUGNIaVplUGZWV19ObzAxR3dvczFldWF3RG5DWUpoOFVobmhHZUVyX0p1R3hlQllVeEN2eXA3MlNybGlVaWUwMWNtNmdXVlFBajlmM1RsVXpNdzVkVWQ0Q2cyQ1FLRFlmUWhJdEZ2NzViS2Z6NE1YeXRNRl9KSDk1N05ZbVluTzFqSnR4YUJ3ZzVpRjIycnUyRWlCQnV3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EPAM Systems Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzhLOHBsTndod1RlYkVZLTVSU2dIX2NkMFl5VkNzTFRzblc3WUQ4V3JOam5sZWZKbS1mVEtTTE84R245R001MDhLR2lzQ0xaVUpZU1p4QkFkS05KaGxpVnZmVmRFU3BIMUdCdDdaRUI3eC14NDJfX1VaWi14T3lyakUtcTgwVl9SVWJ5RlU2Vm1xejA?oc=5",
+        "title": "EPAM Reports Results for First Quarter 2025 and Raises Full Year Revenue Outlook - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX3hzeHc2RmNhMGhaMFBjR2lkb3lSS3hwMmphRmtFS0VoWnVvazVHUUZ4eXpJZHowdnFYUllleDFkYjk2U0x1WVowdDRQbHI3X005NFByNjI3ejIwaDg3QmIwSFRnOTN4ZFBxRlR2VTdOblBmaERqSkNYejQwdnlfM3R6Y21kYnVnMHlKek56R2cydHhUTzFlM2NRZF93SkR6ajlRY2RFLVhSa1lKMFVrVmZUMUNsNDdVYm9kX3V3Wkc0TEtnZXJsMnM3cmJPa1FLTGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EPAM (NYSE:EPAM) Beats Q1 Sales Targets, Stock Soars - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40OFdIR291MV9uNlM2SThFdk5QQzdaaHNkRVpqSzBpMHJZZDRnN2MxT3JrcUhCRDFER3RnSVdzdWNJU0IxN3hWRkU3LUlMeGg3dWFlYU5XMU8zRFRrTHlUVXVhdEhHNXpsQWdrMkhKM3RTeGF1aDYwbQ?oc=5",
-        "label": "POSITIVE"
+        "title": "EPAM Earnings Impact: Stock Down 7% – What’s Next? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlYZkZ0U1BoNDY5aG1CRmg3OUZLSm02YXdOTEhWX1dGLV9tQUNsTDV4VElBZkpiUzRaWEFBTGpPeExvaWRNY3A3S3dnakJlUGRwMWFKTHgya0NFLXJIc3doeTM4RVRZMXdHMy1fN3JFY2ZVaVgyc3c0Z25BaG5MMmo2TmdPWnlNVk5OVUJtUERRVklOODRPQzRjcFkzSWNpWlRGUzgyUFpHQ053aEdr?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "EPAM Announces Planned Leadership Succession - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkdRcjFtU2Q3NjE1UXN3UWhsaEdLd2dhYVBRVzI5MU1hNW9HVWhsa3Q3b21TWWRYR29qVDZEZTBzZkw1NWRxR2REUTVmSjZwbFVYZ3RUdVpSdk5IbEk4bHhKWFBpNW5GVnd5TFhhNzhFczBablRxZjZfVVlCYWNtdUJuU2JPLVFaNm1ZUHVVNFdzdw?oc=5",
+        "title": "EPAM Reports Results for Fourth Quarter and Full Year 2024 - EPAM",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzhrTEJuUUV3ZHlDb0ZhQ01aX0pDVl9zTlhUVXBIN2JwNGpucHRZWWtaMS1BcUFiYTllSFplSTFhYTBndFhrdnZsN2V0dWVjMjRNNmxNTDh4QnRnY3FKUnQ2RmdUTHY1OTVnazUzQXhRb3dqOWFwYXVzYkswMmc4bDNyUVhrekpQRThLVl9EUmw4MXNFREd1QTNDQnVUdXJueXFGVVpFbUdwV3kxTUNVWS1VazI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EPAM Q1 Earnings Call: Leadership Transition and AI Demand Shape Outlook - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1RjZnJGVmVER0RrZTZJdlJFQkNOQXFlSXUtZnRxZXRKVW1xbUFqT05JZHZnd0VBeWhJbVhEX3R3Yk9yaHZ0Y3ZoQlQ4dVh2dWFoNjBjaWVGMURFS0ZyZGRyWmozcVpzUDZzbjFIX3R0d3FORTlfZG1UZDh3SVltTDd6aHU?oc=5",
+        "title": "Is Weakness In EPAM Systems, Inc. (NYSE:EPAM) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSFJaOGd3OTJ4QlVENTZMTVlwRW9VX1ZGaEZnUndER1p3UE81MGxOckRYVXhiR1hKMUVDeTVLNGZlcnJIX2JQeUFwQjVEUi1jcnhTLXVlbFNMVkJuZkQ2Y25vRTFRQkJkZ0NOOEMyeDVFWUFCWFR1VDVZVnA0d0xpMjRR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is EPAM Systems Stock Underperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54cEUtX1AtejZOSTlucmV3S2g3SU1BRmVHUTNBcS1BT2JOdk52aEU1QWlxc3A0WjVHc2RiVnFtMHdFWDFLZGs1NEc1MEZ3VkREa0tEaURub2M1bGQ2eTNlTjVNaEp2UjViaGJHS1FUTG55MXdNOFNBdmJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EPAM Systems: Good Business, War Discount, Low Bar (NYSE:EPAM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWhyVGd5ek1yUmNYR3VwektZVk9xMWRRcXN6SHZraGc3YnJyZHFVbWI4ekNVNTFtRl9aV1NqN2o1TUN2dEF3TU5iZVF4TlU4d0ZwVDd6S3BzRkVMWWZFaFFCSVlRQXRLczFXcjVYTmRLdUVMODN3cU85b2tCay1LbTIwX1dISXkyX01JMG12RmxRdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,18 +626,23 @@
         "label": "POSITIVE"
       },
       {
-        "title": "What You Need to Know Ahead of EPAM Systems' Earnings Release - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVJBSEJSdU5JTl9xQnRxN2FSRkZ3NzJlSmR0TlZ4aVJvYXNlWmJ5bVIzNTdQb2Fla2dQbG9ZYlZOU1NoeGFxT1FVNUpxZ0h1NEhldURhclhUdVBINFdqdTJRUWRGSmN4X3Qwc01SUllzdDNVRWlYZ28wRktxMzF2Z2dZVG9Kb2dHMVFyaHlFNA?oc=5",
+        "title": "EPAM SYSTEMS Earnings Preview: Recent $EPAM Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVF6ZlNpeER2NE9WRk9QUU4xQjF2OUVXRHZZXzlRTFU3YVpHcnJhZXZGZ3lhUTZRbnd5XzczWkd0ZnFJQUI0WlVwVHo0eVlFZGszY0xtTmpnYjRZeHVnanhaNTZUUk1BUlpwMVh2V1pWZFpLTnlMY3BpaW5rV2VoSWU0dmQzMTR4Szl5YmdXQjdDd2piQ3dtZkNGRHNRX04tc1VsQTBJaERUeEhDTlVpYWlORmNNbzJrS1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is EPAM Systems, Inc. (EPAM) the Most Oversold Large Cap Stock to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81dF84Q2tleVNBZk1yejM0XzJWcURYeXlPeGFwLWNHTDctYmdSZGpMbHJhZ1NBTzVWbnMzS1BYTW5wYWhBY0V4VnlBcDNBLURRbFM0clE1WjNYbGNJSERXcmpQLUl4MGlaZktvaXBVTTI4b2FrN0FHWmM4OVM?oc=5",
+        "title": "Is EPAM Systems (EPAM) an Oversold Value Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHM3S0NRZDhoWXlDLTc1VmJTaWZZeVlac3ZBOHlKWDJURGl4RVdGcFlENEx1N0pnQXhMRHNoQTJNQktMNEY1WERORW9KX0lyYTJNQmN6cWRJT1FhU1c0dGhCeTBqVzd4WWVEU2JlbzRnSHpJY1FIZTY5SnFBQzlhM0w1eTM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EPAM Systems, Inc. (NYSE:EPAM) Just Released Its Full-Year Results And Analysts Are Updating Their Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xMkJGbGotclBQbFl4c0poNHQ2TENtY28xV1VaTGFCU21Uajc0RjVhREZaN2czOUtDYVllU1pkZjRaNk52RWNLc1E1ZVJ4NWFpUU5fUHQ5SDFpT01CLXJXR29NeWNabmhZWC1RQk9VUUNfSWwzTDBycW9MVG0?oc=5",
+        "title": "EPAM Systems Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzhLOHBsTndod1RlYkVZLTVSU2dIX2NkMFl5VkNzTFRzblc3WUQ4V3JOam5sZWZKbS1mVEtTTE84R245R001MDhLR2lzQ0xaVUpZU1p4QkFkS05KaGxpVnZmVmRFU3BIMUdCdDdaRUI3eC14NDJfX1VaWi14T3lyakUtcTgwVl9SVWJ5RlU2Vm1xejA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EPAM Systems (NYSE:EPAM) Amends Articles of Association at Recent AGM - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTN5VWVmMmhJUzJOV1NJbmgxNG5ONjdpNmdvRHF3aUVXc0RLZkRMaUt6Z08wY20zb1gtSXVHR3UxcDJCSkZzY1o5S0RJTXNDalJxcWhPTnZSM25NNTVDVTRHSUVJVTlGdmlYOWFVdHZhQ2szYU4yaDJrc1FxSVZpWg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +651,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "EPAM Systems (NYSE:EPAM) Amends Articles of Association at Recent AGM - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTN5VWVmMmhJUzJOV1NJbmgxNG5ONjdpNmdvRHF3aUVXc0RLZkRMaUt6Z08wY20zb1gtSXVHR3UxcDJCSkZzY1o5S0RJTXNDalJxcWhPTnZSM25NNTVDVTRHSUVJVTlGdmlYOWFVdHZhQ2szYU4yaDJrc1FxSVZpWg?oc=5",
+        "title": "EPAM Systems, Inc. (NYSE:EPAM) Just Released Its Full-Year Results And Analysts Are Updating Their Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xMkJGbGotclBQbFl4c0poNHQ2TENtY28xV1VaTGFCU21Uajc0RjVhREZaN2czOUtDYVllU1pkZjRaNk52RWNLc1E1ZVJ4NWFpUU5fUHQ5SDFpT01CLXJXR29NeWNabmhZWC1RQk9VUUNfSWwzTDBycW9MVG0?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "EPAM Systems (EPAM): Jim Cramer Blames ‘Miserable Guidance’ and Ukraine Exposure for This Software Stock’s Fall - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VdEZ1cVhrdjJuTlBTeHBCLU9VLXBUdzhXNHF3MmY0eW5tZkwzR2RnM2FZdGpLTWJaM2dKbEVtZ1FZRFdTZGVyRTNlRWRKUk00U2VFQzVaTFl5azZkYkhIOVgyb1psZi1mdHItc3pQWm5jYWFuZkhDRERNR05JYW8?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

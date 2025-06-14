@@ -2,16 +2,16 @@
   "ticker": "K",
   "name": "Kellanova",
   "sector": "Consumer Staples",
-  "market_cap": 28466345984.0,
+  "market_cap": 27774201856.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.667507,
-    "PB": 7.2713575,
-    "EV_Revenue": 2.734,
+    "PE": 20.164988,
+    "PB": 7.0945582,
+    "EV_Revenue": 2.681,
     "ROE": 0.38149,
     "ProfitMargin": 0.10925,
     "GrossMargin": 0.36661,
-    "DividendYield": 2.78,
+    "DividendYield": 2.84,
     "DebtEquity": 155.528,
     "CurrentRatio": 0.8,
     "QuickRatio": 0.44,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.057166320672169396,
     "ROA": 0.081199996,
     "PEG": null,
-    "EV_EBITDA": 14.553,
+    "EV_EBITDA": 14.271,
     "BuybackYield": null,
-    "PriceToFCF": 39.41784261082602
+    "PriceToFCF": 38.37768690326674
   },
   "technical_indicators": {
-    "RSI_14": 53.96717788291912,
-    "Momentum_10": 0.6578139484036953,
-    "MACD": 0.053486525530161,
-    "BB_Percent": 0.7686401380579676,
+    "RSI_14": 27.221769036535463,
+    "Momentum_10": -2.461609435978909,
+    "MACD": -0.2520893356075078,
+    "BB_Percent": -0.2406044868456341,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9301914718449816,
+    "ValueScore": 0.8865409908792585,
     "QualityScore": 0.4330061858518503,
-    "SignalScore": 0.5624314952189851
+    "SignalScore": 0.703406773111712
   },
-  "volatility": 0.0020877760899316,
+  "volatility": 0.0026766620661771,
   "beta": 0.305,
-  "return_6m": 0.0303683194300852,
+  "return_6m": 0.0075616800874189,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 80.58
-      },
-      {
-        "date": "2024-12-10",
-        "price": 80.7
-      },
-      {
-        "date": "2024-12-11",
-        "price": 80.64
-      },
-      {
-        "date": "2024-12-12",
-        "price": 80.71
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.56
-      },
       {
         "date": "2024-12-16",
         "price": 80.66
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 82.06
+      },
+      {
+        "date": "2025-06-09",
+        "price": 81.99
+      },
+      {
+        "date": "2025-06-10",
+        "price": 81.43
+      },
+      {
+        "date": "2025-06-11",
+        "price": 81.61
+      },
+      {
+        "date": "2025-06-12",
+        "price": 80.22
+      },
+      {
+        "date": "2025-06-13",
+        "price": 79.88
       }
     ],
     "current_price_data": {
-      "price": 82.06,
-      "change": -0.04,
-      "percent_change": -0.05
+      "price": 79.88,
+      "change": -0.34,
+      "percent_change": -0.42
     }
   },
   "news_sentiment": {
-    "summary": "La société K Wave Media fait parler d'elle avec un bond de 100% de son cours suite à l'annonce d'une stratégie d'acquisition de Bitcoin et la sécurisation d'une facilité de 500 millions de dollars pour cette stratégie. Cette tendance est renforcée par le rallye de 130% de son action après cette annonce. Ces événements positifs contrastent avec la vente d'actions de la part d'un ancien membre du conseil d'administration de Kohl's Corp, et la baisse du nombre de millionnaires du 401(k) au premier trimestre. Le marché semble réagir favorablement aux entreprises innovantes et aux stratégies de diversification, tout en restant attentif à la volatilité du marché et aux ventes internes d'actions.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
+    "summary": "Malgré le prix élevé de l'action de Netflix, des raisons justifient toujours un investissement. SM Energy voit des ventes internes importantes, tandis que Kellanova subit une baisse en dépit de gains antérieurs. Les mouvements de vente et d'achat d'actions par des initiés et des dirigeants, tels que Pete Hegseth et Lizanne Gottung, soulèvent des questions. En parallèle, l'intérêt croissant pour les investissements liés au Bitcoin et les ventes d'actions chez Winnebago Industries signalent une prudence sur le marché.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Amplify Energy director Clint Coghill buys $997k in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3o1dzQwX25WZDdYME11bVFXbF9UbWdjQmJ6dWplVEpvR3hicmdna040X2dBZks4d2E4cmhXOHNodC1aS1BNSmhzOW9nMGkxS3NqT1BOZ0RlaHUzdWdEOVM1ZllTUzZHM09PWENrWXV5UnpnNFRiYnNUbkJtVWRvOTA0aENHR2VEcWZWY0VsejhvVGR2T2VzX0h4RzI3Rkx2R3VJVXc2NDI0YUlLSjZWTmwxdE5WRmY2RkdCXzBR?oc=5",
+        "title": "4 Reasons It’s Still Worth Investing in Netflix Despite Its $1K Stock Price - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jSzA2LW1NQ3laWWtIZWc5VzJYVjFudzBkcHdJSndYejNnbllWNHFCZFpCaDgzcl9jNXlMdGRYc3B5aEdGNWRMMnlmdWEycEoxaEFWZkdDdkRreEJPS0FPZjJ3M2w1UDFwbnlFSTIwUHZ3c1RJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "US Bancorp's Series K Preferred Stock Shares Cross 6% Yield Mark - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEpuZjB2N2hpMjBCS1U4R0JFUzNQVlk4cUNJOC1PZWN5WVFKZHllOFJjcG12RmNrdGdsVFF3d0dzU2xCZmFfbmlmWFBWdDV6aXI1Q0hOUkNFOXo2WnhzWm14cjJNTUhVcVdoakZGOHRGemc2cUV0ZjN5NHNkRkV6SnFVX1BFaVc5bFRTMTFEd3NMel9aQ0tzRUlweWg?oc=5",
+        "title": "Shareholders Can't Ignore US$946k Of Sales By SM Energy Insiders - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTlmYjZjOXRrLWswZmVMMUVIY3JfR25oalFtLS15MjFGakpLVy1HRWNETzBHWU1sZF9mN3lnUkc5QldSNkJTTDdPOGNjQUJReWFGbXNUTjM2NThtaTRBNGlBdjNSTW4xY2ZVbWdGNjNfWC16UC1jSHhjY0FwQ2NweW5mUFJndkhXZ0QzTXVqRVFwUVVSLTlaSENlZTF0NkhhaE51Y01XTlYtWEQzQ0NaWklfT0ZwR2t4Vzk2dXZQc9IBxAFBVV95cUxNU3dldi1OREE2djdsdUdtdWVBdEhUWVVJcVI5RzFTYU15cnpHN3hEVVF1ZXZkdVZKcnlhUm9CSGJhNXZWNDVUN1ZicTZmRXhMM1ROaTV3cFJRNjFQU3BkSXBjYnpWZ0RTTy1BTEU3cmlva1prR0lOb2lzVml6eU54T3ozTUotbGZudU5BcGR4VnNwQld6M01WNWUzU1lfcGdGTkZ3eHpuNElPZmxZSS1oc0NtWWU4RjhGQU9NT04yMXJVOFRz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘It might be another Apple or Microsoft’: My wife invested $100K in one stock and it exploded 1,500%. Do we sell? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjBuTTVYbHNNbndvd0RDZUZvZHpNN2VYTTNoN2wwSFlETUlzdFBkN2R3V2hmNGtRUkNYSWFRbmxoeU5YcFpCRmlad1VsTDFNWmxrOS1mLWhibmNzc3k2M3g4bEFrVXg2QkJ2TGxCeW9iU09mTWhQZ0NtUGJscFpSRFJ5eW9IYVI1TmdZVy1XYzFsVHBxOG9veDE1WHVjcUxJUGFpVWZYeWVUT3JUUy11Qmh0MjVHUEIyU19KV0tUb01JX3VVUEhVSnJ3SUI5di1SU3BZMHZ6UXVSMHhuREp6aDBpWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Louisiana-Pacific director Lizanne Gottung sells $105k in stock By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS0dJUWp1alJpOU5aX0lybDBEUHN1Zl9vbXZQUEFvbDN2VklORkJ1UXVRZ1ZTM2ZtWnl1bnk4WkloalRzUGh2eUN1QTZoN1hUNXJCOVdmWFpMUWY1S2ljalpYQjNDRzFqVklKUEwxZVdsZy0zZWpfWWY4bGphM2lwZXhTQTBfMVEzZ0ljcjVFbXFVbk00aDNfaTF3UnJMa2d1dUNEN2tfSTZRcDV1N2x1bncxb0xrNV9ud0R0VUVPX1V2VFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Lowers Stock Holdings in Kellanova (NYSE:K) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEc2aklONUZrYTFLS005d2tjOTJibVZ6V2c2U0RpSXYxVnFLTm1FOUVXYW1zdU1vOWwtamFKbnJ0TDk3dEZxdVBneDA0T0YtUWxVaEZxZkpxTENfbEFWRlhlN0ZDQWh6VUdzRnJEdWdmS1JQNngzYldZWHI0bGpXakQtVmdrVENWeTZ3RlBHV296WEx1NnBfNThkRXR4QVk5M1VZTDY0Njl1Z1VQWDQ4bkdLR01qaHpPM3liaGVydDc5YTg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "If You Invested $10K In Equity Residential Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGdfemNrRjdQclpxLXRsZnA2MU5HaFJNWU1vRjQzUkpHb2VsU0NtOE1saThLaWRkUVJ3U2ROdExzSFJkNjlaMFpEX2RBTmJfbHNON0NTM2hlUGp1blJMa0hQZDhvMjVnYXQyM0VxZDNjbDFQa0I1WjA3SDNEbzV2emNqV1dFc0RtSVl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pete Hegseth Dumped up to $550K in Stocks Right Before 'Liberation Day' - Stories - Markkula Center for Applied Ethics - Santa Clara University",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHYzUU94bDRHcmF0bUlZMUZDblYtb0E2U2R0bTVhbzZ4OGx0N2ExYmZEWEc4NEp1c1A0ZHBpaFZINGVFdUlpVm41aE1HWktYQnZ6WTBvbjNmUW00Y0ZlTVZKWGo4TVIwd0I2dUhtV1gtdm5XZmJIck41Mmd3clRRd3JSNmtNd0N5cFhNX2NvZ1lPWVRmWGdIa0tJMnFnSTZZWVg4aTkzWU1IMTA5QVptbkZPcFBoakRHcXFURzFNenU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gene Circuit Pioneer Senti Bio Grants $310K in Stock Options to Expand Next-Gen Therapy Team - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaF9EdnZBVVVGQ05KZWRRM0N1YjVHem9tTWxHMU5zYlVneTBUaW1ZMzdSOWRBSk5fajB1UnNaT3V3UGNtSHJOcXByN3hFX0VwOUtIa1ppMnNycWJLbWYtVDNmTTh2X3FTRWMtV3FTSDhIeHpHblFOOUsyRk9oWjl2ckRxWjJ0VjZNSE5tYndjZDZPRmM3LUFSc251THI5V2pibjNfTDV2cnlra0I1?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Former Kohl's Corp. board member sells company shares worth $110K - Milwaukee Journal Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXRyYlZhbXhtRjhudlY5LU9Hc0p4alRHUXVLenFyM1pTTWtHX0FXM211eXp2WnY4SXd4Mjh6eGZjM0xTRkNuZlNJb1VieGYyUGozcW42dklLUGFjbjNURFdOaDlLVGdMdll4X3NqZVJzR3MtLXphOHdBbEtQY0oyWFM3Slg4NTFKWnMySGM2d0xrLXlFQ3NEdHA4enVEV2FmZGx6TlBRNkY2LXM0NE5KbmdfOTV5bzVJcEZGdU0zT19JMU1DRXM3WUhQcHA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If You Invested $10K In Realty Income Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXhubVprckg3VHhHM0hrdFNFclVMTXJ5RnlSVTQzOWJySmdlZV9YNENvblR2M3FfTlJ5MmNhdnRHZUtHUHdZelFsMC1FYXB5NFV1bWRSNGprZllKUFBJM3JUY2RlTVJaRTEwQWtfMGUzQXNTWk0xN2FLZHhNdnFlZWV4MWs?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "401(k) millionaires became rarer in the first quarter — but it’s not all bad news - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmotY3luWVhGSEF2Y1Y4UFNmZGt5M3JRa0V3cTE0V3NaVEZ1bWd1NjJMQjJDS0w4enZXY2htajQ4VTFDcG5YOTdfdHhSTDVUUnJ4OHQwMmdxa2U0MUxTVjRXZzVQZ0l6RHJGRXBSZXppSTNrX0RlUzBsMEhfVkM2TXhaSEdXblExRUpGWF84bGpLWTZFTkFIM1p4emM1S244QVAzLUhoWU5MeUdZSXI1dlpn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(K) Daily Stock Insights (K:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTFDanMtejdOeFJXZEpjTEx4RmVKSnFSRVNUc2F6aGtQMmJDeUNxdTdZeTJ5c1MxVmFudlBSM0xuMG9adkhxMG85V1dlajVFVlpPM2piTUF4M2M5X3lOU3JiTkdFTzNsb2dMU2VjZWU1dWpFc2NjRC1FdFJKaFZpRmpzTWRDaE0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Movers: K Wave Media, Dollar Tree, CrowdStrike - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2QzVGlVcDR3c0VBdWNaWUEydzJ1ckUtdllQaWEwUFVLRjNmNDM1UlRxNDFUR2hxWngyRXEyYVRqbF9ocHVWeDAwYTBQMGwzNFljYjlvb0JaQk82LUNyMXRKZmNQVWlVT0NQMlNyTnYyUEhNUkxkWG1HVWQ1TTJfZFJSc3pYVm5JWE1peFMyNldFMXpHaFY2SkVRc3JvdUZGdlhDTV9SN2w?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "K Wave Media Secures $500M Facility for Bitcoin Treasury Strategy | KWM Stock News - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0xKZ1otYllTOXVMWEM2NEFTODhJYXZTM0Zqck8xbWVneHlwdGpnRVp2M3dIQXR3dDY0a0JFNkI0S1BJMEpoZ28tZGtFS1RMZmdDVjZGYWJQTUd1dVVRMW45WVhrUGc3NXdhN2l4WUd0ckRJWEZYQ3IyYTB3UG90SXVKdk5TaG9uaDk4Tm95SHVrLWNWaloxZFh4WV91YkJlaVZMOVJtWGVjV1JyZzVwSjUtaWRqOWJVZVZGWUs1Yw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nasdaq-listed K-Pop media firm K Wave stock rallies 130% after announcing Bitcoin acquisition strategy - The Block",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnMzbGlzbEZRWXpuRnBvRjdYeWtTMFhyQ1BGZWxOem9JWUsxdW5JSjNmbldOVDJkbk9CQTBYalphS3g2RlItSjR6bUdNM3l3R2tWazl2RC15TWlPMXdTbHZHbFVtYlh2TTlwYmJlZkktdXliUHZQTzkyOVZFZXRFRlVOX1RoOWlFSHNPRzRNYnFXMjRFazFCSndzZldQYXZfbkZvc0ZFRGpISm1zREx0R1ZFQlpDN1Q2aGp0YU1FSjFydENZcDU0Tk1tWl8xRHl4eC1r0gHYAUFVX3lxTE9Hbk94OVY5OWJCSVBBX2pBaUt5WlhGeW9ka2VUUlVzTHR6b2pOVzlORXlFcmpjdW1DeEx1UUdvdjQzaE5IbmpzRkxJWEdtZWFIaXpHMEJRQ3pOYWVUSjktZ2hFNnJxcnlJZUFYWnRxbXp4amFQSDItZnFTaWtrbUo1NnhwVWZVWm1EYklMMlR0U2V0SVRoSXl0dllpdXYzRTJrUjRZckUzSDlsTnFPdE8tb19RZDFfNTNNbk1NX1NibDI2TjlsN1hkdXVSdHpGeFZuRVFJZ2llRw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "K-Pop Firm's Stock Soars 143% After Revealing Bitcoin Purchase Plans - Decrypt",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU9VUEs3MlFQT1hnTVVvY0FMQTMyYjRvNzUxSkFlYkZ5SDh5Ul9FRkZMZHlMclVCa042b0hmOUNYWGFPUVRMd2tHRlVvMDBmb1llWUJqdENLNXFJa292aUVRa2d5QldsaGlueVoyYTBLSTY4eXdtbVB1REhRdmNCbFZzY0w0T1BFemfSAZIBQVVfeXFMUHV1UmxYS0F2YjlNeGZHSC02WXRkbVlRYld1T3k1b0p4SUZUaURON0dGWFd3XzZ5MlNXalVxOWlERHFGdllyWTBscTFMRTJ2QXg0YmpyVDd5Z2hzbnNFXzUwd0JuYzdGLUllTlJDX3MtUWJGZm1sZDJPR2wwVTlOQ0pwc25IVzdQOGxRUkJUX21lelE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If You Invested $10K In SBA Communications Stock 10 Years Ago, How Much Would You Have Now? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTkJ2MUdvbzRWMXRHbmIwNVRxblNHZ1d4aUxKbVczQkVRS0NzUXFMWmw2aVFIVC1jT05JX0hlNEUtNHEzQk5fdEx3M3FpbjdNakxvQzFoTGNLV1JaMmJuM3Vld0JDaFlXaExuWEppZTBocU9RUFkyUm9YUW9USlBfSEUycnk1cVlPNWZGWGEzSkhUanRROFUtTjUwaDNic0lzOWI3cTRPY2pCaHI4RE1udHJsQ1hJelNvVzJwa25tdlNORXR1Q3BvMEt6MWxTRzFEb2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If You Invested $1K in Apple Stock in 2012, It Would Be Worth This Much Today - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcm1ySEFlQndiN0dvRzZQMXMydVhXRE9xWVhhQTlodlkxbnNXQ3pKT0VmMFFCdlllV3FuQWF0YmUzMHU5Q2tOSS1TUlAxV0VXOGNBWkVUREdVVXI2Q0JvQnRIYmZDQmh5b3RkR1gtZDl0bEtTX25hTHhRTEJhZTkxTjJYSnF4aXZjMDdMUFV6LWRxNWpkeWZLdTU1S3A2QjlpRnRibWEwTDI2M2l0eTZYOVN6V3hvTHBoanB1QTlsazhNdEZRZlJWWFduOU9aajhLQXc0SFJCM1l3dzVnTFlUQ2ZBVk9LNC1fYUV2a0J4aE00NklITTFN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "K Wave Media Stock (KWM) Rockets 100% on $500M Bitcoin Plan - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0VLakV5RHlLdWptYXdwOWEtNktKWDVsbjNEbEEwZThRZzR4VGxoQi0tZHo0ck93enBzRUE1VkVVQTlTWU5DTHF5WnRoR2lvWFVSaGZuWU1WUlJMN3NoMDd5WTN0cTlyMnZHWlBnU21hV2ZMNEsxN0JOY0VCOTR6blNxNzdhOHpvTk91Tjhn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Raises Stock Holdings in Kellanova (NYSE:K) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0J5dE53a3UyNE5sVENCVFlRYWlrWEVtY2pqX2d3RV9lNHFnT0RTWDROcUxhZlFjNUd2MkFoN1FEbnBEQ0NtTS01TEdBOUhnY2dSR21wdmlQdTV4ZTgyWElRbXJVa2JOZHZCZk0yRTdRT3NjZ1RFQW95RUhCMkNXU3h5WmFhVkhLeFQ3VXBndkh4V2t5YVltOUVNZTRzcjUzQWhxOVhobnBCYjQzNUlhbnJUZGZNb3F3LUJXMWtR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ASAIY or K: Which Is the Better Value Stock Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uYkZSNWVaMUdqaHp1T0hsM0d4b3c2bExZR3lyLXdkLWRNa3ZyM2FNLTBKb1JHSWp3SUR0WVQ1d29hcjVkdWl4WEhqLXM3QXdOTkNlVnNnNGw5UHZ3WVdOWGpmRG9SSVBCSjZwS2JINVc2RlliQjdoYkpCLWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Super League completes $500K stock offering - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1NFeW9WZnFuQ0RiUzJsUDBmM0t1Y1ExNjl3U0c4T2xsdW9XSFNEREhKd3FOd0taaWJWUzlJLUt0emhEeHRWUzRNZE9EWmZoWS03d0hhdGZPVF9xZURXMnZOSGxSVmxWOE0tZW9ESmxqZGNCMHMzMmQ5d1BaMUVVS0VQMHRzQllJLUhncXozSXBpS25oX1lGX3dGSTMtbVBo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RXBAR's New High-Protein Bar Disrupts Category with 18g Protein, Zero Artificial Ingredients - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWo1ODhMbHRxWGZaU3YtS2lGZmVjelpkc0JtSnhGdWdSaUFfc0ZpMEt4Y0JHOXd1cW13NWhqQWZDWWZzQk42NzdIRmxPOF9NYlZSSDNWaDF1WUdpeGREWldBM2J4OUxQNUt4NU1SdXd3LVlDUzJfb1hpVmFwYkJ4OUNKREJyV25MSUh4MlZtWTRhZVJrLTBNa1RRMW9fdVdGbTJGalpTMS0wQkd1UGJLQ1JsclJuTnRNblBz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Shelf-Stable Food Stocks Q1 Recap: Benchmarking Kellanova (NYSE:K) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LLU1EZ2pyOUxlNkhlck9aS3BsZ3Bja2xma0hiMFRRZVQ0OHhRTGIxZnQwTHkxUlVBQXdMWExiTkNFcUZtYWJ4NEkzTkZXdllHOFpTU2JwX2c3aDNidXpwSFl4UUozWG1GZkJNYkhTZU1nNFhsTkRva0dmR0FSZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "A-Mark Precious Metals CFO sells $103k in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeV9vc2lLY0JTWVhYQXVVMzNtZURudC13LV9ESlotTDFNMHlGSE1wT05xSmR5RFJpcncwSlZfa2V4alMxTkctcTVYRFdySGxXbElFekNfUVp2WlQ4RktXVXgzaC1ac0E2a0ZBck96Ym4zZzc4QzYxOTBIRXVFMFRwMGdHa0dmamFDVHVHX1NhRTNkaF9FQUF6YzZ3TkRoUllsb1hIZDFDTDBhRTVuNWJJ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Kellanova (K) Stock Drops on NYSE, Contrasting with Strong One-Year Gain - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFU0cHlzcXI3T0NPT3NoTExvdlR2WUt6eS1CMHlkUm1RZkpfUng4b2FvRldyY2taOE01VkJyTm5LRTFqWnJsdG5FVDA5RG5CUUpBTDVsYTNTTTNjeHpWSnlmTzlPb21LZXh4djZMbGVRRThVeWY4OFlEcHRfRkZiblFQSEFvYkxUSmlacmc3cVZhVEh3MmtlS2xyMXp0V1FuV2I3bTJXVWF6dTF1R2c?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "401(k) plans and stock market volatility: What you need to know - The Conversation",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3dfa0pZdkVIeHZKcDdfOVJ1ZWtvSExQQTFwU21iYllla1pSbWdiN3pRMHhKa2NfcWN6S3M1MEstamtWU21rcmMyaU9xNjFBaDNJZUFKY3d0cW5hNjZmTnV6WF9XSmdteXhybHVJdThXaWpHeTRfRGJiMmhTQlhURElCYUxTVHlwSkRBcEM2cVRPbVlHYm1RbXdGWlc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "K Wave Media: Ideally Positioned To Become The Metaplanet Of Korea Through Its Bitcoin Treasury Business Plan - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX014QXFVaFZZNW5tSjFEWHRnUmFOSTVqeG9JMXFDWkNuMDQwTXJZYzhBVUphWi1OR0l2alMyeXpxamtvaVNweldaYWd3bWpqR25HZjB0SzVaSGhPTEZaRWN3QW9ydDhScENMSlZ3ZzFZTllOa3N0WVdLWE9JbUhYUzBDR2RDcHV1Z0RDRkxwU2hqT19abElYVll2ZVVwRjNyTGZXbGplTWJaMGRKRTBBWC1R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Vitesse Energy CEO buys $233K in common stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0stNVl4RGNYdWZfZmZHWGluZU5mNlVMWnNtck4tZlM4Y1NpbjYzaC02OGF4dVdhVkVpZks1RDllMlJUZW9YbGVVamwyOUZvNldGVnU3STc4WGp4czQyeGxWWFVBNlVFVTJTMEI4MGRwRDljR3dwSHVzOS01eDlZN2dUVWt1WmU3cmVwSEFWeEZoRDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BGC Director Arthur Mbanefo Sells Shares Worth Over $295k Amid Company Buyback - TechGraph",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3c1Z2xGMWp5TnR5UmNPY1BfbG5FTUQzQ085b0pzajN5R3FBYlV5TlppNHdKN1dHTGd6WkdiR0VNS1V1RzZZcVZ4UUVRdHJqY2JBMlUwM1R1V0dHNmk3WGI4ek1tck5HR0dHcWppOWcwM1BOMy1wZTQ5NkRZcDNoMjg4T1pkSnpqQTkzOXZZd0tzZkVMdmNz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Is Formula One Group's (NASDAQ:FWON.K) Share Price Doing? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnRFTlZYLUg0OHQzVU5OSmhUek9LV3dXczVfZnA0aVQ2bnl5YTcxSDlJWlBLT2IwcVRxN3BrU1R6dVhNOXdDWm03YnJaVl9oc3Nlb0hWVUtvblRobEV5ZVJVTDFuQVJiRXBCV3ZPc2VCajFfMm13Z1Q0SGVZbnRPQzFNa0ZYTkNZTUo1ekRDTWozZ3JocVRNR3dZX1Q4TnN3YUZZRHFXYlNSWnA0NUdDU21ILXJLb1RHZnE4b1dMbUVIT1kySDZzN0w2U2ZtQdIB0wFBVV95cUxQYVU1UDB6VWt4bnl2Tnh0czVFaWJzSW1FUExGeHl3V3U2T2UwazFuSDJJQ2tqNENLaDBCekJ0RDVCSE40Z1I1ZGtVRnlRRTdDTUdIM2htNUNVT1FhcFlKeFRRaVhmc0xZQi1HS2pQR1FHTzM3ZXJMODRyM0lzV0FCZm02YjRsSkxZUl9WbW5WOFM4ZmNnTDJBZ2ZzTEpVc1NGVTAxWFFDWGNvSS1RVmFoeFV3Y21qS1llcDM4UGFkZlI4MVZhVVpRbGxGYnZRSlNCV29j?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Carter Bankshares director Kevin Bloomfield sells $75k in stock By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0F2bTkzM2tEMHl2RTdfMmJMWUl5dmh1d0dWUXRsNFpLTkxHb2JuQWVzYzhKYV83V2F4U3o4NEZJY082Snk0Y0xORlp3MGpJV3hWcmJYa2tFQW5DaE5xa0Q5eTl0bk1jSk1PQ1FUX0FnSjdYZkJEOEpMUkk2b3A2TWpFbGhHc08yOW5LckZDSVdVRVhNb0FvR2dhRjk1bmN6V2VHanp4TjM0WFJWbXlybnduYUtRcUtlb2I4eWE5ckc4b05j?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "K-Pop Company Jumps On Bitcoin Treasury Train, Stock Surges 150% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BV2RJa2FCcjNubmx6bWJTOUF3Z3hPcy1BZWNjSktDV09zbTlDS1lLVWRVUnozVU5WV1J0TGZNMUVoeEh4WEs0aHM1VjV2QVpUcE5mT3RXdWY4NFdaRHhEZGRqUmQ2SjJMWXB3cTJ4ODd1Y0VSdmR2VmttSEUzQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insider Buyers At FreightCar America Recover Some Losses, But Still Down US$43k - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGFleDcwYy1lOWZyUUpHNUl3aEtJOU9IYmxNZ0d2c0J1TVNkMUZ3QWMxazA3bVd3NU5oU1FjZ09CRDNqS1Fvd0Q3Smx0Q3FZaGZFWmpNcll0R19iNi11TEpnM0lfMjdRbzdndDVXOUZjaEw3Skt4WWl6OFllZ0VfcU5teHE1U1cwWm51WmhIRUE4cDdCaFduNC1nbnJPYmgzSVBfcjlvWk1VV0RoeFdES2EtbFRRNl9TZmxvSDdvUkZBSkRGYXdoMWRvdzBSZzYxeHJicXVMazVQUdIB3wFBVV95cUxNZ29GQ0VCckJtdDFTb25tTDV2MlZ5azJIZEVpSERyWU13aF9nNjNqVTlNdzFpVUZwc0ctU25jT3gtcnN0bTU3Q0hkNDFJU09makc0SXJnc0ZTWUlpS2IzcUFzX2U3UTBvSm9BTjNXUjQycXJWdEljdG03N29kbU5qeVVsSDQ2WnVvZ3pnbUY5X1FFVEVCbTNRMFJXTk04SlV4VlQxeXVjdFI2ZjI1TzhMa1FlTTBkR3JCcndrX21GZTBENnl0dnlCdnRRX0c4N09iS21kUG5zRGd3d1FNR3E0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "If You Invested $10K In AvalonBay Communities Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEVtQnNQNkpMSHZtMWZyekRaRzluS01SRVRWTjFUaHdKS0dsZ1RoYWxsWTJOS24ySkNya3dHa2xvR2tlSktZVkJsTXM4THFwOTJMS3pfckZxSEVmaHRkQXZsTnVjMWdlUkFiTENJcG45LWFObWJVTGZwSXh2eHBmc1dnZnpFNXJHbUV6T1VZVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corcept Therapeutics director Daniel Swisher sells $155k in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXlieGx3N1VhZnVnOGpYSWUyQnBET1dTLUZ5QzlvWThtVVR0eDU1ajVRUUh4TTlpdGxnc195eDFyOTVUazcyVWdoa2w0d296UmtHa01pMHJDbHZfUk5CRnFaMDhHOVdYN0FqeDFkS00yV0pFVmlGUlVDMEdhSGtvYzlDZVdjZUpWYU1LSVVZNW1KSzNWdVRNQkFwTXY3T2ZyNW4wamJscGFFRlpVRkJBRHhZOU94TnpVT0tObkVVOE5XSENXLTZJdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Winnebago Industries Insiders Sold US$950k Of Shares Suggesting Hesitancy - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTlXd3F1M0RpbDFTWTYyaEZ2T09IbEljeVpVOURCYTdsZVhPT2pTcGF6TlBfZHk4QkRMRnhIVmdpdzlCZGJ5Z0h6aUFoc3VpNFZwak1TZXI0UmVRYlJoT2s5ZW1tRDI4TXJLRmViemZKRXZXM1BVOV8xZ3BHNTRfY1g4T19QVVcxWHk3Ti03RE5NRVF2OTNsamVlMTdYR1NNTzZObnc0Mkx3NVZnWmQzTUU3TnM2V3lqbHVIMzU4VUhxSUZZMHhnNTJfLWNaSTZFanhjMEVR0gHbAUFVX3lxTFBjLXp1RGN0dWhuSzVINDk0SkRvWFowV0tySEhVLWFzaE0zWWdoZUpCaGxQZWNMdnlPaVdKT2lmc3pmd0l4aV9USVFjWFNFV2E0LVhPSFBXTUU4cXhWeWRGWWRPREpFTm5xcjJDcURxNmdOV1JxQ0pWTkl3QUVmVEZlRFpwVUJaVGVaR3llMTF6c1FZMm5mUm1feUtDWDNUeHY3Q2drcm4zZ3B3QWFnZ0FSLXlPWFAwR1JzU3FWYldZMFA4NHFDczRnQnhUN2xDTDlDSVJESzJjMGczSQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

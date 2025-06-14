@@ -2,16 +2,16 @@
   "ticker": "8725.T",
   "name": "MS&AD Insurance Group",
   "sector": "Financials",
-  "market_cap": 5218415149056.0,
+  "market_cap": 5025116979200.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.7511897,
-    "PB": 1.3075088,
-    "EV_Revenue": 0.567,
+    "PE": 7.462721,
+    "PB": 1.2260972,
+    "EV_Revenue": 0.537,
     "ROE": 0.16264999,
     "ProfitMargin": 0.107480004,
     "GrossMargin": 0.28837,
-    "DividendYield": 3.47,
+    "DividendYield": 3.61,
     "DebtEquity": 14.572,
     "CurrentRatio": 1.463,
     "QuickRatio": 0.666,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.11008829456986033,
     "ROA": 0.0221,
     "PEG": null,
-    "EV_EBITDA": 3.432,
+    "EV_EBITDA": 3.125,
     "BuybackYield": null,
-    "PriceToFCF": 7.366080433202336
+    "PriceToFCF": 7.09322941884644
   },
   "technical_indicators": {
-    "RSI_14": 62.70065245174507,
-    "Momentum_10": 6.606977462179684,
-    "MACD": 75.8936579758174,
-    "BB_Percent": 0.7800612224569097,
+    "RSI_14": 41.40168283724368,
+    "Momentum_10": -6.30787037037037,
+    "MACD": 35.20323798218533,
+    "BB_Percent": 0.1645898033750292,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935068683452332,
+    "ValueScore": 0.8975775471329253,
     "QualityScore": 0.4237879678190566,
-    "SignalScore": 0.4491992855129469
+    "SignalScore": 0.6491833347793903
   },
-  "volatility": 0.023900703330089,
+  "volatility": 0.0241003612381005,
   "beta": 0.233,
-  "return_6m": 0.0206162713367323,
+  "return_6m": -0.060855730761112,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 3922.7273
+    "target_mean_price": 3967.2727
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3432.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3432.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3394.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3434.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3454.0
-      },
       {
         "date": "2024-12-13",
         "price": 3470.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 3453.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3485.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3449.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3377.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3325.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3238.0
       }
     ],
     "current_price_data": {
-      "price": 3453.0,
-      "change": -3.0,
-      "percent_change": -0.09
+      "price": 3238.0,
+      "change": -87.0,
+      "percent_change": -2.62
     }
   },
   "news_sentiment": {
-    "summary": "L'annonce d'une offre publique de rachat de 5,16 milliards de dollars par Toyota pour ses propres actions renforce la confiance dans la solidité financière de l'entreprise. En parallèle, les acquisitions majeures dans le secteur de l'assurance telles que l'achat de Endurance Specialty par Sompo pour 6,3 milliards de dollars et de WellCare par Centene pour 17 milliards de dollars signalent une consolidation importante. Ces mouvements pourraient indiquer une tendance à la croissance et à la diversification dans les secteurs de l'assurance et de la santé, offrant des opportunités potentielles aux investisseurs.",
-    "sentiment_score": 0.5,
+    "summary": "L'entreprise MS&AD Insurance Group Holdings, Inc. a enregistré une hausse de 26 % de son cours de bourse, mais des améliorations des bénéfices sont nécessaires pour justifier cette progression. Toyota prévoit de lancer une offre de rachat de ses propres actions d'une valeur de 5,16 milliards de dollars. Par ailleurs, Centene va acquérir WellCare, basée à Tampa, pour 17 milliards de dollars, créant ainsi un acteur majeur dans les secteurs de l'assurance santé Medicaid, Medicare et Obamacare. Ces événements pourraient influencer positivement le sentiment des investisseurs dans ces entreprises.",
+    "sentiment_score": 0.667,
     "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
+    "positive_ratio": 0.67,
+    "neutral_ratio": 0.33,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -557,13 +557,8 @@
         "title": "Centene to buy Tampa-based WellCare in $17B deal, creating powerhouse in Medicaid, Medicare and Obamacare - Tampa Bay Times",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeC1RXzdPRDFMQ2dBQkxBWHFnU21IZ2d1cUp5NkJqc0RKa05hNmpSQ1lPN1oyaVpKZWZWc0lXYWZoc1JiU3RsVTM1eWpGbXdpUFNuRnpmeG1VZFMyWld4WXBCbHdoZFJDM0lWZVQ4WUFQbW1wcDB1OWNuYTl1YVJrY3ZqT1lYaktfa25SZ3Q1UmNJeExmTHFwT1NMN2RmU2VmS080aTExNlV1NVAzbXp4OHh3MVdNM1N2UUlVTWNlOA?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Insurer Sompo to buy Endurance Specialty for $6.3 billion - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblh6UXhxZWdnRmVsQnpTREhzUThCVU1KUm9TVWFsN3VsUkpsbWl0MzNBX3M0eENzcGw0MFFCdXhMV0ViU3d2R1pPYS1XOU94UXZWQmFhV1R2SEVfSnZ0Tnc4LU1aSUFGQXNrZHJOQkxYWFJ1MWUtajc1cGlwSmhzMy1VMzV6aHFzY1Jxa0pyQk9kVUhlbUtYenNiZjNUMmN2Yl9yX0ZjMDJrLWpvZDk1UQ?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

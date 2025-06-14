@@ -2,16 +2,16 @@
   "ticker": "CME",
   "name": "CME Group",
   "sector": "Financials",
-  "market_cap": 98814042112.0,
+  "market_cap": 97192468480.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.558794,
-    "PB": 3.6483989,
-    "EV_Revenue": 16.152,
+    "PE": 27.133816,
+    "PB": 3.5885274,
+    "EV_Revenue": 15.926,
     "ROE": 0.13387,
     "ProfitMargin": 0.57806,
     "GrossMargin": 1.0,
-    "DividendYield": 1.82,
+    "DividendYield": 1.85,
     "DebtEquity": 14.045,
     "CurrentRatio": 1.017,
     "QuickRatio": 0.019,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.42728039149665964,
     "ROA": 0.01762,
     "PEG": null,
-    "EV_EBITDA": 22.932,
+    "EV_EBITDA": 22.611,
     "BuybackYield": null,
-    "PriceToFCF": 36.84646579528499
+    "PriceToFCF": 36.22677925395404
   },
   "technical_indicators": {
-    "RSI_14": 44.869094144090035,
-    "Momentum_10": -2.771277461491578,
-    "MACD": 2.136876180205661,
-    "BB_Percent": 0.3006156622193567,
+    "RSI_14": 43.637406175388826,
+    "Momentum_10": -6.184842599621419,
+    "MACD": -0.9112090857678368,
+    "BB_Percent": 0.2075953282860789,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9295965554836618,
+    "ValueScore": 0.8481224750258709,
     "QualityScore": 0.5863882733069482,
-    "SignalScore": 0.6396853823283128
+    "SignalScore": 0.6461632028126985
   },
-  "volatility": 0.0126805782259163,
+  "volatility": 0.0126673805988796,
   "beta": 0.476,
-  "return_6m": 0.1854654465351608,
+  "return_6m": 0.176486539014494,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 17,
-    "target_mean_price": 271.82352
+    "target_mean_price": 271.58823
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 236.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 239.19
-      },
-      {
-        "date": "2024-12-11",
-        "price": 234.3
-      },
-      {
-        "date": "2024-12-12",
-        "price": 235.95
-      },
-      {
-        "date": "2024-12-13",
-        "price": 237.19
-      },
       {
         "date": "2024-12-16",
         "price": 235.92
@@ -537,42 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 274.24
+      },
+      {
+        "date": "2025-06-09",
+        "price": 268.35
+      },
+      {
+        "date": "2025-06-10",
+        "price": 266.1
+      },
+      {
+        "date": "2025-06-11",
+        "price": 269.65
+      },
+      {
+        "date": "2025-06-12",
+        "price": 270.96
+      },
+      {
+        "date": "2025-06-13",
+        "price": 269.5
       }
     ],
     "current_price_data": {
-      "price": 274.24,
-      "change": -0.66,
-      "percent_change": -0.24
+      "price": 269.5,
+      "change": -1.46,
+      "percent_change": -0.54
     }
   },
   "news_sentiment": {
-    "summary": "CME Group, société cotée en bourse, a suscité un intérêt inhabituellement élevé en matière d'options de trading. Malgré des allégations erronées sur les prix du bétail aux États-Unis, la société a continué à prospérer, battant des records de transactions et augmentant ses dividendes. Les analystes d'UBS et Oppenheimer restent optimistes sur le potentiel de croissance de l'action CME Group, ce qui soulève la question pour les investisseurs de savoir s'ils devraient suivre la tendance haussière actuelle ou attendre une correction.",
-    "sentiment_score": null,
+    "summary": "La récente actualité entourant CME Group Inc. (NASDAQ:CME) met en lumière une série de mouvements significatifs au sein de l'entreprise. Malgré des ventes d'actions de la part de certains directeurs, la société a déclaré un dividende stable pour le deuxième trimestre, renforçant ainsi son attrait pour les investisseurs en quête de rendement. Parallèlement, des fonds importants ont été investis dans CME Group, témoignant de la confiance persistante dans la société. Cependant, des réductions de positions par d'autres acteurs pourraient indiquer une certaine prudence parmi les investisseurs. Ces événements suggèrent une certaine polarisation du sentiment à l'égard de CME Group, soulignant la nécessité d'une analyse approfondie avant toute décision d'investissement.",
+    "sentiment_score": -0.25,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "E-mini Nasdaq-100 Overview - CME Group",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9INWpoQUV1eVdIb2NTb09PcGhONVdRZjlfQUxwV3ByMUFkUGxjYlBHSi1NaDhqS0FjVGVpT0o5TjlqN1ZQN0g3ZDBFMW9qMk9WWGxsRURPRkY0SUNiQlFVZkhCMGtJbU1YMjlEblZYeXkxWW43NVNmTkNORQ?oc=5",
+        "title": "E-mini S&P 500 Futures Overview - CME Group",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5UXRvZEwyTEt6T2x0OGJmLXNhM1BXLUUyTTlXZWY1S1VXSG5CSHMzSUpJRVVzcVRKYXd0YzI5Vm9Gc2pDY18zdGR1WU9GZU5oWTQzTWlDQnR3WlJwQVZka1oteS1VU3YtWG5kZEJEZnVmM0k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CME Group Target of Unusually High Options Trading (NASDAQ:CME) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVg4dlNrUFZjb3FWZFhwb1QwZEt4ZHlWS2RjLWp5a1E1eXVVOTNWNGNpcmRVTzVsTjFxdTNNRFlfUUhHWnF5QWZEVm5lekRhdkxpWFNMODBOV1ViOWZzUGhob3p6bkxiUDZmYVZQUDZudlNRY1NuYjRaT3VMYW15ZDM1dHo3c01HOGtKVEJMd3Rsb0ZOcFppZ1N5YXJTNzhMMkU2UmZZZ3RUVHJyOXQ5V001M0M?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is CME Group (CME) Stock Outpacing Its Finance Peers This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzR2OTVCMTVMeDBMMnZXRTFidjVfaGZKZHU4WW1QdHZZZWdpUHlmdGJBLXJmWEkyU09tTDJad3Azdml4dHZwTGlKOGlqTTQzMjFYTk5PTnZkRjVIalJCQ3JoUzhLblBPN3hzWjFzQ0w3VUFvSC1BYlF4MGRQTmlDLQ?oc=5",
+        "title": "5,973 Shares in CME Group Inc. (NASDAQ:CME) Purchased by Albert D Mason Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUElxdFZmaDZGNmp2R25zNk5ibm1yb0F0WHFWSV9maTRhdkdwVFl3TGZsLVU2b0J2S2dNYkVra1J3aUZ5eGFGdDh5dnFhTkF2WG5YTXdHb3BocDBNakZXRDZ3Z3B2TlUxT210bnJoLUg0SFBmbmV3N2pEOG5iWExVUl9QVjJkb1JEUUtxNjhoS3diemxFNWVBc0dkQV9QczZlQklmUGwtSHdRNTFuRkZZWFl4dGc4NG9JdzktVUFJSVBKbXozSV9LaHFTNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How Is CME Group’s Stock Performance Compared to Other Capital Market Stocks? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2JWaEpWYVJnNTJIUERTOHBPbTF1M01Mc28ya3BpWl9HbWY1MFZ1MkdJQllPb2p5TUFISHBJclNic3lzWm9ZZXhUS0haY3lXZFktN29YTDlSZkkzS0M4UDFwbHBsWWtrTi05LUg5UWpDSllwOUs2SExSMWpqUnQ0TnNYNzNyM0RLTWd5bk1Zbkdpam9sU0UyemNxUktfWHJCc3pmbms2ZmFXeko0dGhKcDlzQ2J1aTFQVFY2Tk1oRmJDdkpZazJwR1dHYjRUV2UyWGFOT19ocDdEOUswYS1Ob0l6cGVpQk0yZ2dGbURMVWZTa05k?oc=5",
+        "title": "CME Group Director Cashes In on Stock Sale - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEczRjFadmJ5a0hvNGtKNGIxREVZbV9RUlNFRXdFUmRBLWk2UnF5b3ZVS3k5cTZNejNBMUd3RllaOVp6b0hhdUp6d3dqNWR1azZQR3BFcDRLUmRtZUxtanBnN1NvaXM0NjJldmd4MTI3ZXBxcndUQ1lpdV9ISnZVbE9HeE55Slh2UEY2NDQ0WkpCbUpvWVlvVVJYWFdRd2xyMEVEV1BXVQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,49 +576,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Battery Metals Trading Hits All-Time High: CME Group Reports Explosive 100% Growth in Lithium, Cobalt Futures - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2xTZ3NKc0d6NWhXS2VzUDRCb0xNd0s2WGEySDNVSjVyZjNLNGp1TGRmako5dGdjOURtYk1QSFFURmlneFRRSU9DWERuRVl5NkVBclB0Y19zdnk1YVhqRkZaLW52N3U0c0pKZC1ZYmI2VXl6MExmU2piTnlfeXdwSGlfaVdoVkw5MWdxTlNrX3F1SG1kNHhCSmdSZS1pU2paRWpJR3BLd3p1NXhpYmU4SWFnNmF4RTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Barclays maintains Equalweight rating on CME Group stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkNEaEFOc0sxeHpDSzNxWXZkVDdaVFhsQkQzMDJ1NVpITEY4eG00dkJ6UmlRXzFYb1JhTTlwMnljNGxFT3FmeTVveWI2NlR4OHFWX3hINjQzZjNPVjhSN1dMUTZMOXoxZ1J5LUR2NUpHOWY1cWRKQktGQWR1MExfNjVXTU9BbGEyaU9rVnNFV2tQbzZLZF9nT3hjYjJWUk1jWm0tX1ZKU1RKRDhQalFPdHF5d3ZUdG8?oc=5",
+        "title": "CME group director Charles Carey sells $132,676 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkpnUHNvLXpBS3hSNlZvdmhXZlF3bzZmbHhRU25rbGZieGJfdE1NNGVyaGZsbFlWZ2hTQ1h4X0V3WDBrcHJhck9xelNVMjFtVmdLaktFSTdpUURkLWZGVmxqdjBfYkMtRnB3QWdtNDlhX25lUDdNeFpJR0JvWGVYbkF5VmpyamNiQUQxM1puUThscmRQZk9teUlCYl9XWC1zMHMzY1dqelpSQXZxal9yMGZXRVotN05pbjRB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Missouri probes false report about screwworm pest that hurt US cattle prices - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQk53Njc5S3MteDNnSGxQM09vVHltTVlta2psTUlUYWpZcWVuaTREN1lXSnladzZRYVZtandKUE82RFN3dEZDa3RabGN4SHh3bnNUbW1xQXcwVHpQSU5SUFAxNTB3ZlNtUUdnRnFja2pocFFWZGJlMVpBYzFKSk5CTWtBNno1dTZ6UVN4Y2VHVnNDbjFVWi11TVZraHItcHY0ajltRjFLSV9TWDRNQTYwR1JlSEZFVTM3d0dzd1ZqVXY2ejVXX2lOVGZuQ3dNdVp1U3VseWVSTFFYN3hZNGIwd3Byakk1ai1CdzFZRA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "When Volatility Hits The Markets, That's When CME Group Thrives - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHBvX3Q3ZDFyQ1BoNUs2WmZqam5nZHN1b2ZtUG1QdWNCcWpzZTlfUlNOX2NqU3lfV21Sci1jMVEzWTNqdWJCbl9rZjI0b0ZZZl9BZTJSV0FMOWxSQ28wUUlnRXh6RzNsQXZ3N1Z3a0dWaFpxeEd6a05iYXppcXl6WDFGMmhnOGxOcjRoczNVYkx4RWpmZlR0c01hQXZVQVd2NnFz?oc=5",
+        "title": "CME Group vs. Intercontinental: Which Exchange Stock is a Better Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnBFQUhzeWx3Qm5DM2RaSFE0WHlUZ0c4dGwtNE5jNDZwQ2R0dUo0X29rZjBnX2kzM0U1VDVjMnZUM0cydy1ZRzc0VEREcDFYeFpzaVBoUFZKUzJXc2c1OTJhOHIxdTB2RWFGb0QySTg3WjZiT2t0WXV4YmdleTBVZGVSN1QtV2czN2hVeHlaMHBjbHhldGxUWA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Unigestion Holding SA Buys 4,819 Shares of CME Group Inc. (NASDAQ:CME) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXNKTWl4UDRSd2JFUy1OX1Q3ZThXdkJCaXFFQlFLd0JqZXhFcGx0RURieUp3YVJQTDRBd25qc25UTjVDblJMalZqcFZqMHZMdFYwVGtJVlFEb1pYNFQwRW5YU3ZjMUdsaXQzdGxhbktiX1BOOXBDWVlPNjF2eEJhdmExNjd3Mm5ZMWNyeENtZ01qMmU4RFpXRzd5emRqNXBwa2RtcDlSSjlyN2VoRzFzWVg1UTBXcVEyVnExdUg4ZGxqb1No?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is CME Group (CME) Outperforming Other Finance Stocks This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDVCYk5FRXhtcUlXRENLTHFXNEFmc3ZuQzRFR1gtdjc0UzJOcHAtZW5zX0lxNzNadVBxZC11X2o4dld0SEtzV2NTVjhBZkZ2QkgtWW0yNkk5Y3FDdmNlWHdwNGVwdHhvZXM1aW5DLXRiMl9WSGxuYk54elpKS0xWemxURFIzdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "CME Group Smashes Trading Records: 28.9M Daily Contracts as SOFR Futures Surge 31% - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWY3U1phVFl0VEUtQzlhektNY3JtWFFCNktGNlF0T051OC1WWWJPcjFDZWlkRXdzT1lhZ2dXQkxxN3Nva1pTNWlNQXZBc3cyTXhVY3ZGMXB4NUxHQWRESUVsclpJQWg3S2ZueG5SZmRwaDZkNHkxQ1hQRm9BOGhpMlllNFY2MHNrTE41X0FTM3VtaGo0a2VRWG9FdFZWSUNiVEw5Q3h2Uy1MbUtSd0w5WGJlVnI1aHE3bFRr?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UBS reiterates buy rating on CME Group stock following May metrics - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUC1ZM3VhaDVaYnUwTDV1SmowUXZybzJaa2xrQkRtbHZPb0FydVduX0ZpQkthMERWNU9JOFJaUThUZG0tY19sbnRsY2dUYUJ6dXlXaWNqalN2VGdfRUg5cnI1aW5NZ1FuSlZPWDRCUXBqUFg4Q2hUT3kxdHpwVGQxbzhnMXdmVUlLZ0t6UUJ4Unlza1d0NzJUWVVwY29OTlAwZnJaLTRRaEtSYjA1alYxR3Y1WjA1QXBRQ3gwdjFXeUNHbU5j?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CME Group (NASDAQ:CME) Stock Price Expected to Rise, Oppenheimer Analyst Says - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDVrOWlpR09xR2p2Nk5kNHVndVlmejRoVG1Fbmh4UGZQX18zd0xMRjdOcXBrc2VjbklTa2lSR1Z1cVV3N0dPUTdBYTZiejJFN1N4a1Z2VURiMzQyTURpTkNPS1ZRYlJUMDBJTi1XeUhyMXdmamx0VFRvTm0zV1JGLUJjN0ctYmU5WndxWW53SGMyZDYycFFXdGJJdUwzWFNpX1lwWTJsWmpWenVST094bHl4aFg?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "CME Group (NasdaqGS:CME) Declares US$1.25 Per Share Dividend for Second Quarter - Yahoo Finance",
@@ -631,31 +591,71 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "UBS reiterates buy rating on CME Group stock following May metrics - Investing.com Nigeria",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGxLQWRxUzRQcDIzTmcyRUl1dURXOEV4NlpWTFlBcjQ0cW1jeV9ZS2J4YjZ5ZDRNT3NjY0FSMWg1emxQMkZVNFVQN0lJVnZXLWR1SGVaNkoxUzN5MlBmeUdObXFlekRIbWZMbnhwcWU2WUYwV2FkbnpuekM3NmQ3cUxmNTdUTzAzODFMMXNWNmZ6TFRUaUVzbjlrTmtnREVNZHJGRDhHY1VPeGhSSmN5SVdlUlhQWEpyN1k2MVpTTHlsdjQ?oc=5",
+        "title": "Ibex Wealth Advisors Makes New Investment in CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXlDS0VYdWdUamZYVWJGOUhaMGNDTVIxbjNuaWlmMm4wb003amJLVFNlbXp3bzFOM1pLMm5ONTJiakJKdWNBa0FUZlIwVnQ1UmQ2R3Y0N1FhU3ZsTkRsa1dZZU9vWG1ZOThVb1hSNXNLdGg1NnlwSXVDN3FNc2M2WVR3VmN4aWw1bFBKRlRvT2R6aWlJNkdFOE9rQVM0RV9mRXplalJkV2ladkstX3M4Q0xqeDNsa3lnNHZlQVgzUEc1T0UyaFRLTU9tZmVaMFNPdFFzNU53WF8?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jefferies Financial Group Inc. Reduces Stock Position in CME Group Inc. (NASDAQ:CME) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTBXbERSc1UxSDNkQnU1YWVuWk1DalVuTmlFOVIyS090THozeEhsRUNyWldkUl9TTXoyV25PeTl5aFdhVW9EcnpjZkVFeHJXVEh6NlZHT0NSVVhyRlpfZ3RNTGZTN25weGJxY0lfWjJjUEhNdXlvRFJPM2UxYTg2aGNBNk15OFA4dGwtN2FhVERBODZQcUlSTThjYTRRalJoN08zcFluTlhhQ3EzUEJIQVBjUlVybG9seFppLWljMm5jQU1FdGxJcWtZd2lBNFU?oc=5",
+        "title": "What Are Wall Street Analysts' Target Price for CME Group Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWhNUTd1Q1BlWGV3cVFPUzZkb1Z1UUFuZzM4Nm5yV0N3NGFMSG40alMtbHdvb21ZaHVUS3VKeUdrVXRGR1NFUFdYcGpmOTJfNklEaDk3T2JsQy16X09YVmNkWV9LYmYyVXhBVkRyelctX25Sel9JbzRTbGk4c2FVb2xNUzhsOUFETnVVZElEQWl0NnBF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CME group director Charles Carey sells $132,676 in stock By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2M5a2VGVVdQMU1VNG90WGZiYlZHSEE0RGdvS0V1VG9qVnRqOU1oRkFKMTdJMzZzc24tLWxRakE0RDBRbi1oUE1WdnRJZG1WS3lTN0t1RGk0ekVkcFFlMTJWU0NjbVlrdkJabVJZbHpZUkVSYlVPWUtpWHBCeXBWSGdPUjcxbkJzU1AwdzdMbnlhMHppanhzc19aejUxNVEwYi1YWlRLdEVkQUgxa3hfZGp1THUtZDFmMXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Russell Reconstitution 2025: Changes at the Top as Tech Surges - CME Group",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzNMT0RnQzgydzRqSDBvWlpXOFZuN05ZV3h1T1BqNURZMURfYVJTT1k5ZVpRX0NtMXNYaHNhd21TM0F2dWg5UXVmQXFKc2g4ejNnaXE3eU9DY2E2V2g2a0pvOEpRb3piX1FKZlRXNjRoUEtVZWQ0cFUxcjFLa1NPTElxMmlhZHI2amdJQ2FTSXNGb01DMUlaSEdmTGVETDZEb1J3VzBfRmJiLXd1QkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CME Group Inc. (NASDAQ:CME) Shares Sold by Fifth Third Bancorp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHczQlhWRm9Kdjd2NjRJR01HNDdvVGZSTDFLV3J5bXl2OGxyY0VnLTFORjBSMHpXWDZ5TGNYLXR2ZVBORjhFRVBhdVRjXy1NY0xVZFpTTzR2WGVuX3R4SVJYbk8tSXlQak82MzB1c2FUT2dYMUlCRzFaUFo2MHdENnJYOUtKQ0ZTMzdnalh3ajFKckxJSGlNTkNYb1RuUDVBYUV3amZpLS15dTd6SUdqZWQ4ZzcxT0lrY3lF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CME Group Inc. (NASDAQ:CME) Receives Average Rating of \"Hold\" from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlNhSVJmVEU0SFhnV2hSUXZhU3liVlo1OHd4ejVJSk9ad2lGTW1oYW53UnkzU1MtZ2lUQm9KWjREcmotUVhCOUJwV05wTTFpNVQ5Y2M1OWlNcXg4SHcwc2dPUmtOdlB4MFVkV3ZPOXFQeUdHYnBsLUd3MmtBSWZhNkxvV1l4MGN1VURzbzNmdGViSjJSbEk0T0ZCY0lvdExaOFI5UDdTR0dVLTFOOUJtVWFqRndvaEVyX3NCRW94Y3I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Franklin Street Advisors Inc. NC Trims Stock Position in CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZWhSd1dIZXRTVVFFTFloRGNlbmNGb1RWTU5CMnd5MUpMM0ROR2VmYXYteERpZzlaMk84eE9oM0U5Ri1tYnZzNm1uZjR2YnlIemtKU19nMExTeEhwSG4wb0JoZmdQRlA5eHVoVWtVTm1IQVNKaGp3YjlXZnlGSTVFVzA0RjBRLUU2YWR4TnlLWjluNnU0cDhFbWp2amlwYlpSVjhhV0ZWOTJsMnFtTGpKX2NfRVRVeUYtcW9iOWhkV3oxam9jQkhBVWY0VjFpWnRSVFNueXRsOXhnUS0zRUE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Merit Financial Group LLC Buys 6,132 Shares of CME Group Inc. (NASDAQ:CME) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazlJWXNKd0xMUU4xZjhacVI0RTBqaGlneXNUUkpuRDVlV1lyejFaenh2b1kwOEZCNGlGV2ZJNTVCNFNLbTNJbnE3Y0VaSDJfOGlFd1VaMDBfWjZ5WFdicmp6bDZFM2N4b0E3WlBOVndOS0syWGlVdGF1dmkwZ0trbzg0MUFaRTFYekFBYWREOG83ZUNmV0c4SU43dHZHOWZjaFNpZ1R0aDRyM2NOTGxHcWJieXVqTmJvZllWdGdRMWdqNUVqeUlZSmln?oc=5",
+        "title": "Greenwood Capital Associates LLC Trims Stock Position in CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjBlZlVVQ3d2ZFlPV3lYYmwweGpETHVZeURHN0FhcndWRGRfeGx1ZEl4U0RURF9qdVAwdkIzd083SEowTWhMS09uZU9tMFpSR3BjRWdDbWdBNzY0RGdmUF96Q1ZTV3B1dDRsRGsydGNrR2Mxa1hJTElDdFA5c1NUVkE5MkpwUVRzbk5VeG5SMU0wM2VtLVZobzlFWWQ5cV9jUEVVY0FzbG1PdHZLZVNWTGlZdlJzVV9STzJDS3oyYkQ3anJtZHRYaXEtbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Lowers Stock Holdings in CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnBUaHBsaUZZUFF3VmpjcjFRc1JOV0NndjhvNVNKSi1PRnhLSGRtRHNPRmVyWXJzNWVHdVJTVUhBNmM1NngzQndieXZDbzhYbzJIWUNENi0ydFRYTDg0MXBxYXUzTWJ1clVySnBiQnktM1NtWDFmSWJhaWJQbjR3Um1jaWpnalZDbEZqbmJ0N3RRMTN6aW1jSEthSTRqOXpMaGszUExTSzlFTGY5WmFSdjRYeS1TeHd5S0tEZGtzSmpnZ2cwc2VkaURZdGpCZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sarasin & Partners LLP Reduces Position in CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnVqa0pmZUMyUmgydEJCUXlhTnJScHYxaG4zb3ZpcHVkLWJnbkc2VzcySzJ5U19aSnNpTWpXdS1hclpQWHBjcmZSQlZxNEZodFpIZ0ZnZUZzRm9na0paMUtBWk0zbW5xVHJldDV6X1o2QmNQenZLTWRKblYwblZUSzdfZi1UYU8tdXVEb2J1SVE0MWRWM2NPRlhUeC1lbjFZTXJhOEd1Wk5wRXE5TlF6QkRTLUNoWURzM0ZqTTlSb2pvdFZSWlg4TTg4Z2d5Qm9n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CME Group Inc. (NASDAQ:CME) Shares Acquired by Manitou Investment Management Ltd. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZEFvUGJfN2xZMTg5bzN1MjBtUU11R2hST2dsY053dlF5TWQwM0lDTUhsWk1WWm81dDA1WE00UHo2N3NtdFlPSXByWmRYSktSRHlYZ3c0TTBsdktEMGtvWWd6enY1UWNwOFU2dFlxMi02X1hsbUVic1RNenNGcTZfOWgwam1NU1JoQUhCd28zcHNtTXBmaEM4VTNuNnFrcGIydndtT2tXaF96VUxNa3VNMGFWa0dvWUVoTnRBNkR0bTdrQzRkeTFjSm44Ti14eFZIbEJaV1VfaXA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Wall Street Analysts Bullish on CME Group Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUl9oTy1fS2o2Z05WazJBUjdRTzRfVVlBbHl6STlDVHVZakNnQTZ1ZWItZWFOQWx1UnpERXlCUVZyZ2F5eDE5bGljdEREN1M3R01Db2VnS2s2TUdUV0xxbzRqMmp4SlhPdWZ1NndKVkJmQmoyMzNtamJJajVUYkVjTVd0X0RKZTQ?oc=5",
+        "title": "Avanza Fonder AB Sells 4,014 Shares of CME Group Inc. (NASDAQ:CME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1hpQzZWSDB2OHd0WlVZNXZoRDZ2TXdRcm1ueEZJREh1QktCYzF4VFJ6ckpLM29OcnQzWnBjZ2J5RTRSaTZSdVM4T2RYcnNMSXJCVTZEczVfSTE5SHR4c1MyUG8yQTRHeUZ4OC1mOXRCZERzZi1VaXRXd0Yza3Z1Q1pPQkc0b3pMVlh1ODVwamtOeG1xMDloSFVvYWRPMENxclFqTzJGTHhWOEw5NXNEdlRKTGRRT05wbWJXU0lOaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CME Group: Should Investors Chase Momentum Or Wait For A Dip? - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHlUSTl5T2pIX2NNbklDQldUQ05hVXMzRGJYSnlMWFNYODR3TGtpMjVhZk9nWVkyRnZyUmdSOUZka2xFOURxeDRrb3RhUG42X1lPcXZaendscW1nQ1NOWVo1ZEdYcndnRTRqNy10a09Hak84Ny1wVWdZbDVlNmdrNGdKcFBwVW1naEZVU2tveE5mNXNkNG8wMDVOSWFhTDF2alE?oc=5",
+        "title": "3,492 Shares in CME Group Inc. (NASDAQ:CME) Purchased by Davis Investment Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnVtNThKeDVueHFQWHlUYW8xNzVqbm1VOWpKRzlJV1FuY3ZpcG1uMm9xcDJDdHZXTTRSd080M0hoaGs3N1J1anlwNHpTb0pubHIzcEZMUkZjUENURGtaaFlyRUs3SFVzMlBuVmhna3RqaG5YaU1SNkNqbXBaOXk5d3V2WkRIWVZMb2lhN0dnUzdJMENpMlVtUnd3U2t5ZXJQVXIyUUw3NUhBdWstUzctd3RWWGY0cktoczNZakVGZjJqUHFBcXZRQWl6VWlHTHl6N2xHS3J2eHFHUQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

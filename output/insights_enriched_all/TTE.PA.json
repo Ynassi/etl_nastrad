@@ -2,16 +2,16 @@
   "ticker": "TTE.PA",
   "name": "TOTALENERGIES",
   "sector": "Energy",
-  "market_cap": 117781684224.0,
+  "market_cap": 120602198016.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 10.0,
-    "PB": 0.98458177,
-    "EV_Revenue": 0.775,
+    "PE": 10.558766,
+    "PB": 1.0316459,
+    "EV_Revenue": 0.808,
     "ROE": 0.117139995,
     "ProfitMargin": 0.07247,
     "GrossMargin": 0.34905,
-    "DividendYield": 6.55,
+    "DividendYield": 6.21,
     "DebtEquity": 49.733,
     "CurrentRatio": 1.074,
     "QuickRatio": 0.596,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07664604580587611,
     "ROA": 0.05262,
     "PEG": null,
-    "EV_EBITDA": 3.996,
+    "EV_EBITDA": 4.167,
     "BuybackYield": null,
-    "PriceToFCF": 8.019246552707427
+    "PriceToFCF": 8.211283163937603
   },
   "technical_indicators": {
-    "RSI_14": 50.24286023825941,
-    "Momentum_10": 2.609374111251149,
-    "MACD": -0.1092707817369245,
-    "BB_Percent": 0.4905678534498287,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 65.13040967253127,
+    "Momentum_10": 6.0782024756543525,
+    "MACD": 0.4186972595263398,
+    "BB_Percent": 1.059007818975669,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9348677980223318,
+    "ValueScore": 0.8964072844393998,
     "QualityScore": 0.3738429374017178,
-    "SignalScore": 0.5643680432319995
+    "SignalScore": 0.4788886887446378
   },
-  "volatility": 0.0143646955645441,
+  "volatility": 0.0144981064954689,
   "beta": 0.705,
-  "return_6m": -0.0078933594689306,
+  "return_6m": 0.0564792988247189,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 64.23622
+    "target_mean_price": 63.60063
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 54.23
-      },
-      {
-        "date": "2024-12-09",
-        "price": 54.96
-      },
-      {
-        "date": "2024-12-10",
-        "price": 54.35
-      },
-      {
-        "date": "2024-12-11",
-        "price": 53.48
-      },
-      {
-        "date": "2024-12-12",
-        "price": 53.37
-      },
       {
         "date": "2024-12-13",
         "price": 53.36
@@ -545,27 +525,47 @@
       {
         "date": "2025-06-06",
         "price": 52.3
+      },
+      {
+        "date": "2025-06-09",
+        "price": 52.33
+      },
+      {
+        "date": "2025-06-10",
+        "price": 53.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 53.55
+      },
+      {
+        "date": "2025-06-12",
+        "price": 54.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 54.8
       }
     ],
     "current_price_data": {
-      "price": 52.3,
-      "change": 0.43,
-      "percent_change": 0.83
+      "price": 54.8,
+      "change": 0.06,
+      "percent_change": 0.11
     }
   },
   "news_sentiment": {
-    "summary": "TotalEnergies (TTE) a récemment connu une série de fluctuations boursières, notamment en raison de résultats annuels 2024 en deçà des attentes, mais a su rassurer les actionnaires avec une hausse de dividende de 7,6%. Malgré cela, les ventes massives d'actions et le manque de performance financière suscitent des inquiétudes chez les investisseurs. Cependant, le plan massif d'achat d'actions par les employés et le potentiel de rebond structurel des bénéfices soulignent une dynamique intéressante pour les investisseurs à long terme.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.85,
+    "summary": "TotalEnergies SE fait face à une volatilité significative récemment, avec des annonces de transactions en actions propres et des plans massifs d'achat d'actions pour les employés. Bien que les résultats financiers aient déçu pour l'exercice 2024, la société a augmenté son dividende de 7,6%, reflétant une confiance renouvelée. Cependant, des analystes ont revu à la baisse les estimations de revenus pour cette année, et des ajustements de cible de prix à la baisse ont été observés, notamment par JPMorgan. La dynamique actuelle du marché énergétique et les fluctuations des prix du pétrole peuvent également influencer le sentiment des investisseurs à l'égard de TotalEnergies.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why TotalEnergies (TTE) Stock is Moving Today - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0N5VHpoTF96bUgwZnk4ZmpNSWhOR0hvVUVmbGs5V29fcVVWOWVDS2tJN3A3cFREd0RCaXZfcHlCZlZVS0tvbTRKZDFtN0FOQmdGMkVOMjhyNTRWWnloSGVUQjNPZ3ZoTkhYRENBRDlnVkZGeGFZQXM1TTVoRExHN2ZOZEk0V3FtLXc?oc=5",
+        "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTE3WVNUbDAzVHQxYmNqeklRMGFGUDMxczJ0WmRBbnNrUHBzLU82OHBvWmlNM2NJSWxEOTVYeWYyYjUzYnBzS3RTR2phQ3k0UlctVmYxaWhGMVZqTU41X09nZzQ4MXo4a2JzV3NHUEpoWWs0aUY2MWRNNE1ET0g4UnZpTVMxeGg1NW1qNW9WMUZPdlY0SEF1VVR0aUFwWmxyd2VjYkpjTFd4SVVRRHJvWA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -574,24 +574,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Is TotalEnergies Stock Trading Lower On Wednesday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE9ZcEFVYmgxcDUzWWZCWDlSWUx6Y0dSQTZSWnlzd2pDb3JISWs2eGN1SFNiRGlNTEpEUE9UakxsUVA2WFJUTjBaSFUxRm9kYUxJSHVwTjc1UTR0ckFQcVE1NHpqZGFqY1F2NWtJcDUtQS1qcnlpOW51LXdlYXcwRV9TejdzVERDY1RwUWtXX1ZDUkxNOTJjSkJLOVFjaWEzT2J3UVJhaGxTUGFlelZj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "TotalEnergies Unveils Massive Employee Stock Purchase Plan: 18M Shares at 20% Below Market Value - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3FDQlZKekJLN0lTUnVoR0FOdWZtdHFXM0NCWVc0WkRsUWV4UlU3LXdIRFRRaUJMdXNGQmJGSDJaNVhobjJJZDEtdmxBMnhmc0t1OGJJdUFCNlJmV3BtdDJaR3FzZXhwX05PLU5HWnZSYkpnY2paVzV5SmVDdnhrVnRvRlJVdjRPbmtKZE1CWXIyTlZGaUtEam56QTRGUHJvb2s0TGRRc2l6TjVvTzkxUU5mNTU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BNP Paribas Financial Markets Purchases 515,088 Shares of TotalEnergies SE (NYSE:TTE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORGlSMVFHOWVOTmdOTFQ5QXNUaEFfcGEzUkZLMFoxUHB1NEJyYUl5aWlBN1o2SVN1OTRjazNnMUVycWplZXZSdGtJdVo0Rm9ZX1RUZ196aVpOQ1d6T2txcHpoVHdjWlN4cHBYOXYyOWpNWEkzSExlLWxQdk5qSkg0VzF6bXBnVDE1WWVlcEoySmt6Zk5lb20wdHJuUmk1bDFwdC1MMENjejkwejBwaDJtdDZmSk1wcDRIbVhQMHJFZUsyUHJQUElHaXhocUYtQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "TTE Stock Crowded With Sellers - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ockJLZDVndmY1ZXBKbmpvVVVWd2xaa19ldWNmSFl4c2FVeU9fTS11bEREOVVfODBUU2k3WjREeGtpdWd3Y3hjM1FYcGhCLWhzRk1mWjRsdlEzU3hSdXd4M2NVTUJpZTJ1?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies Stock: Structural Earnings Rebound (NYSE:TTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHQ2blhHZTE1TldhWjJkS0J2RVVPbXlDZ1hjTHVabzR3eGJOd3p3OUdoaUVpWU82Z2lDSTB0dllXSG12WENLay1HQWxDaDlvU1N3VWtINE1FLWNBSUhyOHdvZjdibDBra0x5MjZZekZTVXM5YUNDa0MzRDdha1R1RVJ4Uk9vSWxZRWc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Is TotalEnergies SE (TTE) The Dirt Cheap Stock To Invest In Now? - Insider Monkey",
@@ -604,9 +599,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "TotalEnergies Stock: Structural Earnings Rebound (NYSE:TTE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHQ2blhHZTE1TldhWjJkS0J2RVVPbXlDZ1hjTHVabzR3eGJOd3p3OUdoaUVpWU82Z2lDSTB0dllXSG12WENLay1HQWxDaDlvU1N3VWtINE1FLWNBSUhyOHdvZjdibDBra0x5MjZZekZTVXM5YUNDa0MzRDdha1R1RVJ4Uk9vSWxZRWc?oc=5",
-        "label": "POSITIVE"
+        "title": "Why Is TotalEnergies Stock Trading Lower On Wednesday? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE9ZcEFVYmgxcDUzWWZCWDlSWUx6Y0dSQTZSWnlzd2pDb3JISWs2eGN1SFNiRGlNTEpEUE9UakxsUVA2WFJUTjBaSFUxRm9kYUxJSHVwTjc1UTR0ckFQcVE1NHpqZGFqY1F2NWtJcDUtQS1qcnlpOW51LXdlYXcwRV9TejdzVERDY1RwUWtXX1ZDUkxNOTJjSkJLOVFjaWEzT2J3UVJhaGxTUGFlelZj?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "TotalEnergies Rewards Shareholders: 7.6% Dividend Hike Marks Strong Start to 2025 - Stock Titan",
@@ -614,18 +609,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Why TotalEnergies SE (TTE) Is One of the Cheapest Stocks with Biggest Upside Potential? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMeFp5UEhxY05lc1pkT19ZWEVGSzkwUzc5clFDMlVqSGd3TXU5Yjl1dTZ0dHpJS1NpcXJQZ1JRVVEzVTdWR2NKcG9RVnVyODZPTmdzcEtuYV83MWE3V01wOF8yTEgzOTQ1YllXejdId2ZOY1N6VnNmSkpzVncxb3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzZNZ3NzSTZLQ0RjUFcyWnQ4NTNteFB0QlpRS2FSUnQ1S19LNkNxMTZYZjZ3M29LUEViWHFCOUdTeU5tcW1fWGJjeVpzeF9UNkNmQ2lvaTB0aC1kcXVnWWY0TUV6dkpoQ0oxakgtOERTeFZHNHhCU0R3Zkh2Ump4eG9Rc2RrTldkNEFlLTlhUkNjTzFSYmNDa2ZfUERhRlYyWDdNa0x0VURoN1ZEZXNKWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is TotalEnergies SE's (EPA:TTE) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON0I0UF9KNXJvZEJIdUlKNlc2NTk5VjVkaEhaWGNNWEVRaXNJeWFGb1E2NVFRMDRDeHpzUVFlNGxTY19tdlQzX1lrRlRmX1B1VFZ1VnRkQUpiNk8wZVUzWHlvWHRUUl9QOVUxcXFyanpPb1QtSTVDNnFoT0RkdllSRkY1bTRfXzdrT2dNcHJXcjctcFRZcHAzRzVENGs2azlxVGZlUFRPZ1dDMmhWZDFKMWZmX2RTV0V2T3NyQzU4OFBscTFTQ1BYLUVORTN6d9IB0wFBVV95cUxPWktORDR1ZHM5bUc0cGVjWE9WSm5rLU1uLVVDb0NzU0FYeFJhckx0T1lzYWVCUmhYT0dFQkh5Y0Z0YlB1TVByMVR2b1FQNG15Qk5nUkNRVFhqTUk5elZlWEl5c09GNC1QeXdFak9ac240RVBOdzVpckQzNElDODg2VFpoaE5ELXRjeDAyRFdEcG9Zbnk3TnJLSEpvZUZwbTJfVHVRS3hiOEczMFRsOVBDY29OMVlnU3hhV0JCcHJFVGo4TU9PRUM4MzR4cHdfaGhLM3BZ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -634,24 +619,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGdsWm16ekoyc2FyVlFLLXp3aHdhV01LeFc5NXJJVXpUWXgyLTBqZ1h1UnI3dGt3T2p0VlkxeUVRYVc5aVVuVDQtUWxpVzZaNlI1TWd2bXZLNzktUDFiWExvZ1A4ZXFYRVRGWncxZWJXb0F2eDZ5eHQwLVd0SFlFTlNkYlQ2bWdSSWNsa0lmbnpHYmtYMnBtcTN2b0ZlejRXV2cyaC1LUHM5TVpZOEVmalNn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TotalEnergies CEO seeks to reassure investors after smaller profit, higher debt - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm9QWnREaUFqVGNmNVhtNDNvVk1SV0FfT1haSGxOTWZZbnhmSG52V1l6T1ViWHZySWdwVDR1R1JPNHR0cllULWctU2d2OWxkRmNfMFIxTUFiTTlxX0ZaUGpXLWxvMkdGOUxHUEhHWmRScW5aWGFmQzJVMFJPRV94cFZ0RlpMSGNmTUhYTw?oc=5",
+        "title": "TotalEnergies SE (EPA:TTE) Analysts Just Slashed This Year's Revenue Estimates By 11% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWUJxQnZ2aDZMTURQS0FpQlNSZzYxZWpCdE1wNkVfV0FFTi11bnQ5dkJYZHJEZmlOWXEta00tMUpkcFp3QWRvTTNJaVFqRi1wR29JaVJKVVFqNUlWVVJFTGNUeWVYR2pRYml5RHI4NzRyWUVhM2EybldrQncwZl8zZ3hfdFI3RUw4UEdycjE5dHRMSkNMZlBwYnFhTGdnOS01YU9nR002dFVMT3AwcG1ucExZSXVWbmhhRzRhZkJtVDE1TEpzZE5kdFMyOGdQd9IB0wFBVV95cUxNYS01bjdzR2Q1TzVTQ1lhSGFIVkR3Tkh3aGRQNjJpaDk3V0VKTUdMOEN5dTVtYjlpaGh3SVpPaC1aVHFteExkMk9tOVJITjJ6cUdHZVlQYUw5bWxLNXJzSlVaLXR6R3JhLUFoWmpnakVjbm9hZlBCS2kzaFlpRlZzMjhZb01lVlRubXB2SHJTenlIeEFXa0dlM0Q2M0VHc1ZDUWYwLVJHaFlUVkdNRFF4dVA5ZDVMVXpCM1pDcVhic1BQdS1rdk0zX3dQQ2g4MkF0VFlB?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Brazil: First oil of Mero-4 | TTE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEtLdVZ3VTFtV1pOb2g2a1NjbGp5azdfYnkwTG9UVTB4aHozZGFGOXBsbHFFVzkxelBGQWRvYmJfeTkwMERIX2NqUnl1NFA3YWVXaEljeHFQY3czMWhyOVNQNVdKUy1fUTJxby0yV255U0NfNUFCQ0hTUFdlZkZTUzdReHNwZw?oc=5",
+        "title": "TotalEnergies Stock: Drilling For Alpha (NYSE:TTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEJCbTdVYWhDT25UMDdjZ3FXQ293azVuV3g2TnlEWVRaVk01c1Bsd2ZZX1NfRGdCTFRVTVQ1cXlEcnR4a3AwYy1nb3lOM1B0ZDZDZWJvWm1KMW5hNUJKR2hMeTl4bU1Hdk1jbzYzNVdfU0R4Wl91NTRjaFNObDNMaXpHWFI2LWFLN0p0ZlF3bWZzMEZVT3hJcWx0SFF0UENOdDVaZ3lOR3o?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why TotalEnergies SE (NYSE:TTE) Is One of the Best ADR Stocks to Invest in? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FtU091bVFFVjdZTTN0QVBpVGQ5MDI1bE1sQ0NjcWY4VEEta0xpc052dnMtU0w3NVEwUkgtWkJEMGNXZjQtQzNXTjhBcVNmYXlMeUlCRWFiUTF2N3o3SDdBaEF5N3lrVVJEZVBUSTZwZlBIeUM0MC1DNGxaejQ4bQ?oc=5",
+        "title": "Why TotalEnergies (TTE) Stock is Moving Today - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0N5VHpoTF96bUgwZnk4ZmpNSWhOR0hvVUVmbGs5V29fcVVWOWVDS2tJN3A3cFREd0RCaXZfcHlCZlZVS0tvbTRKZDFtN0FOQmdGMkVOMjhyNTRWWnloSGVUQjNPZ3ZoTkhYRENBRDlnVkZGeGFZQXM1TTVoRExHN2ZOZEk0V3FtLXc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies (EPA:TTE) Is Paying Out A Larger Dividend Than Last Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJ2ejlmb3EwQ1lucFhZZEJOSWZXQnZERkdaV0xNUDlUYlNyRlVVWVJ2RnBibTllUkVfckRsNXJ0YVlMY0w4dG5YZkRTdHIyaVRzeXhuaDVGa0F0UUp5NTd2R0t2MDcyYWFjOVVrWU55bjIzTmRlb2JOSDRZTVVWVzhEWHNoOEthc0gybC11MlRvVlJsVW1BWnMyNE8tcUczQ3RTc1dzQTRiczFGUHd2bGxOMmt2YzhmXzRpdVQ1bFFqdFN3bXdqbjNYOFZJdDN50gHWAUFVX3lxTE9TZDBkRjVCYkJzVENCbFR2QXctbzZVQmJDd2YtTEp6YlZ2UXdRMnRGclVrb1oxSzYza1NydzMtOF9CR3FPTTJ6WkV4NXR0Y3BwMVFCWFBpMEt5VWJCTTJHV3dxc0xHWDlPTE45aXNmd3NQYjh5QUVidE44RVlGVHBwckhEem1RTEFBUUlMcldpcUFEblVDUmV6QkpJV2w5WUhTWUZXWHJIY1pTVFpwM280bzJfQ0tiYTZSZGJOS1lRVUpWM1NlQ0M5UFVxV1FoUnhENllXMGc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "TotalEnergies (TTE) Price Target Cut by JPMorgan Analyst | TTE Stock News - GuruFocus",
@@ -659,11 +644,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why TotalEnergies (TTE) Is One of the Most Undervalued Natural Gas Stocks to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0FVTUJhUFRTMElRbVdtUS1ydXM0RnMzcXFPUEdfM3JrRzB2U3ZmdGFfQlhVLVNIWGRJbkJBZmJ2SFpMdDJsYnVJNWlhVDgzVm9peEUtLU01dXVDWVpCX2hOWjV1bVdURlJUVmdLNi1rc2ZYc0U5ZXhWSHFDYVNzMUpn?oc=5",
+        "title": "TotalEnergies Rewards Shareholders: 7% Dividend Hike Signals Confidence in Energy Market - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0JmLTBsc2JNVm9tTWdYNzIxbDBxTlBUenFFX3FxWERuRWxfemkxNDJTSHRFeE5XckNWMWZvVXRQZF9sNm10emd3b2xXX092NUNRRjNTeDkxVUt3NXJiN1JvVFFqRkpycUhtaU5NZktYREZObHJpUGVLZkUzM0xTRzR4TlFnTHhDcDBHdXNtU3FzYkhtMWdXOFFTMEJJTTNRWVFheC1WWHpkUjVENGJvZDQxLTdqZFRKZWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0Rwa3pjd1pYY1hHZ0J0MDVPTU5LZC0zSy1WU3QtNW8tTnZ1ZEdIb3FfeHE5MzdjcFdfTDl5OG1CcG9zWHRlQmstMFZ3REY4cmtMbUJESzh6dWpjcUszV1lrcDFjSnlSV3hUU3JYbUcyT29XMmFPUjRveVhfbjBsZDF3UDMySWpMQkJTN2R5a0dkRHJTR3BRcElfUElIOTMzM0RUeVFjMm5IZHlnQU56aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brazil: First oil of Mero-4 | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEtLdVZ3VTFtV1pOb2g2a1NjbGp5azdfYnkwTG9UVTB4aHozZGFGOXBsbHFFVzkxelBGQWRvYmJfeTkwMERIX2NqUnl1NFA3YWVXaEljeHFQY3czMWhyOVNQNVdKUy1fUTJxby0yV255U0NfNUFCQ0hTUFdlZkZTUzdReHNwZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TTEF.PA - | Stock Price & Latest News - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSVUyWGs4YXpGTHpOdWhDTlpWNjRCX01mNEtyZkRjTk40V2NodzVQTjF6dEVqRTdRTXM4QlJ5cWhBM2RjWGRFWTBPM3BENXdBRDhWbDBsenQzdlltRGlZ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

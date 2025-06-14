@@ -2,16 +2,16 @@
   "ticker": "MNR",
   "name": "Mach Natural Resources LP",
   "sector": "Energy",
-  "market_cap": 1563810304.0,
+  "market_cap": 1752556160.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.259375,
-    "PB": 1.1345296,
-    "EV_Revenue": 2.128,
+    "PE": 9.25625,
+    "PB": 1.2714629,
+    "EV_Revenue": 2.307,
     "ROE": 0.12638,
     "ProfitMargin": 0.1692,
     "GrossMargin": 0.65208,
-    "DividendYield": 24.31,
+    "DividendYield": 21.91,
     "DebtEquity": 34.373,
     "CurrentRatio": 0.694,
     "QuickRatio": 0.583,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05508583687633287,
     "ROA": 0.07552,
     "PEG": null,
-    "EV_EBITDA": 3.695,
+    "EV_EBITDA": 4.004,
     "BuybackYield": null,
-    "PriceToFCF": 30.221283620472587
+    "PriceToFCF": 33.505709915829605
   },
   "technical_indicators": {
-    "RSI_14": 48.17774359024101,
-    "Momentum_10": -3.044753913195767,
-    "MACD": -0.0119151337541403,
-    "BB_Percent": 0.2667865175206038,
+    "RSI_14": 74.23490188370101,
+    "Momentum_10": 11.186191883859076,
+    "MACD": 0.2408981888053976,
+    "BB_Percent": 1.221860581279086,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9360593440695588,
-    "QualityScore": 0.3931971914632737,
-    "SignalScore": 0.569373844286218
+    "ValueScore": 0.8972832814638201,
+    "QualityScore": 0.4012332999335442,
+    "SignalScore": 0.422619875276642
   },
-  "volatility": 0.0203124446167287,
-  "beta": 0.998,
-  "return_6m": -0.0087035922634862,
+  "volatility": 0.0206684215236972,
+  "beta": 1.0055,
+  "return_6m": 0.0496636825707448,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 4,
     "target_mean_price": 22.5
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 14.73
-      },
-      {
-        "date": "2024-12-10",
-        "price": 14.67
-      },
-      {
-        "date": "2024-12-11",
-        "price": 15.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 15.26
-      },
-      {
-        "date": "2024-12-13",
-        "price": 15.41
-      },
       {
         "date": "2024-12-16",
         "price": 15.36
@@ -537,21 +517,41 @@
       {
         "date": "2025-06-06",
         "price": 13.26
+      },
+      {
+        "date": "2025-06-09",
+        "price": 13.42
+      },
+      {
+        "date": "2025-06-10",
+        "price": 13.64
+      },
+      {
+        "date": "2025-06-11",
+        "price": 14.09
+      },
+      {
+        "date": "2025-06-12",
+        "price": 14.42
+      },
+      {
+        "date": "2025-06-13",
+        "price": 14.69
       }
     ],
     "current_price_data": {
-      "price": 13.26,
-      "change": 0.3,
-      "percent_change": 2.31
+      "price": 14.69,
+      "change": 0.27,
+      "percent_change": 1.87
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Mach Natural Resources LP (MNR) a récemment déçu les attentes en termes de bénéfices pour le premier trimestre 2025, ce qui a entraîné une baisse de son cours de bourse. Cependant, malgré ces résultats mitigés, la société a confirmé une distribution de dividendes de 0,50 $ par unité pour le quatrième trimestre. Les investisseurs ont pu être préoccupés par les retours sur capitaux de l'entreprise et sa performance financière globale, mais certains analystes ont émis des perspectives positives, notamment une possible inversion de tendance après une récente chute de 10,73%. Les investisseurs pourraient être attentifs aux prévisions mises à jour des analystes et à la réaction des grands actionnaires privés de MNR suite à la récente baisse de la capitalisation boursière.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
+    "summary": "Mach Natural Resources LP (MNR) a récemment attiré l'attention des investisseurs avec des mouvements importants d'insiders, notamment un achat de plus de 1,3 million de dollars par un directeur. Cependant, la société a manqué les estimations de bénéfices et de revenus au premier trimestre 2025, ce qui a soulevé des questions sur ses fondamentaux. Malgré cela, elle a confirmé un dividende de 0,50 $ par unité pour le quatrième trimestre et a réalisé une offre publique de 200 millions de dollars pour réduire sa dette, ce qui pourrait influencer positivement le sentiment de marché.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
@@ -561,39 +561,49 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Mach Natural Resources LP (NYSE:MNR) Director Buys $1,336,115.00 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnRJU3JJSDRlTnZqTkFQaXlrcFZ3bXlLVlNNcGRnaXpRbWt2TlU2bjVnUl8yR0RPbDJTZVZyYUhjc08wdXY0VUo1dTJtYnBqaWxlOThfT3AzdlpFNllKOWdFWk5LYjNpVUU4NV93MWZVQkIxeDJaYTJWN19fX0Z6SXlUY1gwWVlTMjlzQWtQS0FwSjZEb3ZjbXQ0a1Q2dFl5NzdWaEFycUoxNWFQWlRDWXNjbTdCdHFjNm9Saw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mach Natural Resources: Shifting More Capex Towards Natural Gas Development (NYSE:MNR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzF2NlprczJpczVhN0F2M1dIQnBvc0lfNFVzWTV0SHJtOXFKVFRGSnByUWtpZF9KN2NINDZtS1M2b1lGVUVieTU3SXZFcF85T3FiU1RWVktpQVFabHFILVAzaHVyTTNWTHRFV2lEMzRRTWVJc2xyRm5wSDVzNXFjZ0htUjVpQ1BfamhMSHl3TTd1M1pZMmIwdkpuaWJRVjM0cDFlVHItcVMzVDhMZHpr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investor Makes Multi-Million Dollar Move in Mach Natural Resources! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUJzX21nSUNvRnR4dGJEOWUyMDhabnBuVWVkMUdER042bkdGQWZnNFJDR283VlNWN0NLZTNueS1OLXNCMmhtcjR1SWlGdkdDWDdJNmlWQ0ZhZ05Eam1nbDczNUsxZFJzdy1SUWZyUHFCdnJKN1JBRlN3enBKZU5iX2J2Z1U0SmVNR1BUeUM4OTNlNlpNRHZIejRuODl4NEl1WTU2S3NmSTBqYWd4VURrR0o2VVA0OGZhYVBxWklQWUlTdG93NjdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (MNR) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDBRTHVaZ0p4RGJJTjZVcjNEODJXb1pHZ3JFeWZEZ1RHWmxfY2pMWUkxcGtpeGN0RndqckpzdE45SzV3STVlMDFtc0l0NGhMUFBIcGstMk1qdTNjbW80Y2h6R3BCX1Q2UzlKbS1fS0Ixc3FYamt4QTFXd2UxalIwMXhxd3ZJT1BGMVYyY0l5YWV1Nms3dXIyUWpUQkYxMFZhTWxfQjI4c3FZaER2elhOVE42Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mach Natural Resources LP (MNR) Misses Q1 Earnings and Revenue Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWdkWE1BWVpzdVBvTElHZkJKODdYbDFxS2ctN3l6OEc2dVFFS21VUDRCWTRYRUlicl9yRmh1NXpGb2ZZNERhb0NyTDZLSXdYdXpOVXN6VW02bkhpTlhoNE1Cd1ZFd0Q0dnIxM052ZDIzajdJNFpVcGQ2WWFiYnpoQ1YxUjB1QnVvcGFXZmRocHNLMFFDM0tGMXMwajh4YzdxR0hWLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Mach Natural Resources First Quarter 2025 Earnings: Misses Expectations - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkRMTjBhbVAxUG91b2JKY0k2MlgxbnlkZXduSTRxeWhlS3ZLNGx1cFI5VEwwRE16bE5hZ1NSd0hPRzA2c2E0OGgtNlVzSl8xQlRfSTltWVBLa2JJbVhna0Y3WmUtZ21nLUlvdWRIVmd1S19Ta21jc0ozYlFDYm01T3VjZWR6ajJOc2c2TU56d2pRX3VPaHdVZW53bmZLdGtNVmdwdUNuQVhSaWhuQkhwU0t0Q3RTV2E2NnRjVXBtNWZ0dExtTWZsQk95Z09yazVlZnfSAdcBQVVfeXFMUDJHWDV4eDNqQW5GYkxJS2xpRXBnbVR6eXN5cFc1VXNoRGFSdWkwckJlTHY3VU1VMTJiTzV2LVFzWC1fLXFaZ3hWTnNWVllZM0ZUNmt2YWlBMWlEU3FhbVRkenBNTjhoQlVOV3BCN3NlOGJRODJLTERCclhBSTBKRzhqa3VWemh6dmE5ZTBwM2hyMFBXdmMtNzg3X3NhaFQxZTdKaDl0a0VCWVVsQTBDUjhFTVRVX1RqczVHYlFXX0JkR2V4YVRwNVJmRlRYUUFYMDdRVnE1RW8?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Cash Dividend On The Way From Mach Natural Resources (MNR) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmdMVmpfTUp4UmdBWmtxQUNpTG5rWnNhN2QxVXdmX1JqbnI4YVJmRGh0OFd3TFN3YXV1Q3dlRG5zNHdMOFNkYjFYMC01Q0tDMjlwbjA0SW1SLXNfWklTM21wdF83Tmw3djhBbEQ0TDhwYVkxcThwY2hnUkh4X1NROXdB?oc=5",
+        "title": "Access Your Mach Natural Resources K-1 Tax Forms Instantly: Digital Portal Now Live - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWFjR21NaVhQNTFCN1FDTlRmc3gyYnVqMjB6S1ZQMzQ2QWY5REh5LTFvMlNQcTdsbFRzQTBXQ25BWGk1LW9DSFdGY1UzR0ltMC1LYTZyZUVMMUJNRUhud2g4OUZ4MlNES0ZteXdjRXNaMlBkSVpPekF3MUJRSWZfOUpUcW9aeHBsdHJxMVFtalMyNXBULUUzNVpfTk5HZzdwLU1LTnNDSkFCV0c0alAwa0lFVUNUMExHX25oalhB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mach Natural Resources Rewards Investors: $0.50 Per Unit Distribution Confirmed for Q4 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3dzUzJxbV9SY0ZJVklENWE2eWVlQUtaWUVQVDByenZkMF83N3BoZkRHbTh2djVROW9aNFZyWHBNLXZRY1llRHZmZzlJYVVDT2MxNWs5eDBBQjZkOFNSV1RrTjB3RkdNMWV2Sy1jMTlQdW9HNEJicXpOMlRxTVRkMWZtVTV3b002RDdKcjJ1TnQtV0V5Q3ZUSFVPVkhFeEZ0bC1CY3ZpSHVVeFZ4OE85clhZdw?oc=5",
+        "title": "Insider Buying: Mach Natural Resources LP (NYSE:MNR) Director Acquires 72,411 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDdtQ2NrazF2WW1DbkQ3N3JiUGVGM2o0M2lpOTlfaVFLUGJGV09DMVQwQm1CZHNrc1NxQWs4MzhDdEJ2ZU51bDVudXB2VFIwN3NsUU9sYjB2cDFkdFc5eWhDc1AyNUhTb2pNa3pUT3VpWjVWU1UzRU9yNEdvMXdTLWtTQXdMY2lkSUs0Y25QN2tYV3NtVEowSmNIek9fdzlOSC1uNjhIWmh2cTY5OHJKWktEWjdnd1BvOEYycHg1SkkwX0lYTVlaWlQ1eTdELXZnQkRjYlFZcVMydw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mach Natural Resources LP (MNR): Among the Dividend Paying Stocks Insiders Are Buying - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGpPZEhSS3ZSTVdWSGRyRzBQV0tUNnQzRWYtNGdEVmc4bTlqdnJtT0ZLdVE0Vl9XOVcyWnBHNlJuZVVBYzhkZUlUbzVTOVMwNzFtOXZvV1lwU3RpUklrRC1zdHlLSkg3T0FWc3dZaVJSZ2c3TUhVUFFlSTA1bWhKSlYxQ1BWNloxZXl0UXFFWjJWMDhJVm9qbXRROTlxZ2F2Mkp5SXhDa1lPR295STJEMklfMk43c0lfYXVuSDNNWWRScW5n0gHMAUFVX3lxTFB1WFhyRzBVSlB6MFBDRkpzY1IwYU5UV1MzVmQwLTZuaC1xdjVnNkl1U1dPQ2dUSVhhcUF0ZEhuajFXNl9ndFR2Qng5SGRlNmRTdDVUeWFzRG1zOU9qNlpaektpNGJ5Y3M3cXhDVjhQbHJvS3pzaFl4YUZ1SzFiWEdaQnN0MXZadlNFSmM0dWM5TWpBZ2lCUVM1dzRHVmp3UUluNGd4dDMxaHl4VFVBN1R1ZDVROHJWVzVLX2ROREM4TF9mX3pFejdBTXVaag?oc=5",
+        "title": "Mach Natural Resources Releases New Investor Presentation - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXotNXozTFRzZ0stNDZYblJRTDJ0c3paZUZQZXk0X0toSnVRTkRiSEVmWGR6MXhPRFR3cElTU1BQb2VwQzZBWlhWYzRDQXBDUjZjbHE5TWtaQ09mYm1zb01kb1ZrV3hwWHpDYjJTX0pzc0ZuQ0Z2UXZwUnJKdE42M0hRWkNLQzJfYmpneXFnYjVJZWhzNkFLM1RMa2FYeDNfMlhRX0tZSjFIWGl6aEE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Dividend Plays With Strong Analyst Ratings - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalBKU2pCb0taaHZhV0p1T0hxeEN1bm41dzRqZkNldWY4bnFFT2Y2OUZycFRfWUpIX0UtdnhySzQxWVhadVAzb1RyMjJKWFpQOFB2aGZjeUExRF9EQmNfSHJtc1p0V0hGaVQ2SmtEVTYzQnJ4TDI1M3AyU0dQSGlTNTExdjd5WlFlTXBnSnZjNkJ6bWhLNGc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "MNR Stock: A 15.02%-Yielder with 50.9% Upside? - Income Investors",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcF9Qd1dQTzh6akFVX0xyaHg1SGQ5Vl9UR3lCeEd5SG9hVjdoS1c5RUhTWkkxRy1oU3hYdGg3NWNpckZBV05kdURfX2lhU0VyU0tQcDVrWDVnVWJEQlA0ZUdLaFRMNGIwdVF3NjI4ODFONFNPY2thbGI5azVhX1VQaTNZT0kzVlAxbDlNaEZCTG8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Mach Natural Resources LP's (NYSE:MNR) Recent Price Movement Underpinned By Its Weak Fundamentals? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0JfYWdjNHFKLXJCaEdjaXlTR2h4V3ljTzZERkIyN0J6VmZNMWVtYUVMc1h5Z2VYbFpvWWpXWWQzQVhvVTlTU0sxSFRkTTFLbGpEZkhnUG1HREw0eWZkOXFFSDlPNWJnYmNhejE0SUphWHUtZFRoa0FJRnZOdFBveEctUm4xeDRzZlRDd3pNOEd4TWR1dlJSY1Z5OW9aRFhxSUkzUVNWWm1xSEFvcWFsV2ZiMU9yQmo4MzB5RjB6REN2RGZtRlNkUXRlRi16UkRC0gHWAUFVX3lxTE9PN2xpRHhSQkw3Y2lqSW02aWVtOWJzTDNIaFdhdWIwaVFNQ3FsaG9pdVF2dmJXOTJNckZ0bEdpS0RaemlMTjJYS3MwalUzSzhRQ2Nvc3I5X3hERlJvU2NyS05GTEw3U2xSWlREZ2EwZUxKOWxqT09xc3hkR3B5cGl2Y1g0UFk3bS1SdnNmODZuTGlhRE9UX25Ub0hfZTZoUFlVQzg5LTI1RHRsZnBGSktTQXZoOTRfVWdRakV2dVREYmtOeTNWSG1oUHJ3RXpvcFgxV0ppOEE?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Mach Natural Resources (MNR): Top Dividend Stock that Pay More than the US Average Rental Yield - Yahoo Finance",
@@ -606,19 +616,29 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Mach Natural Resources LP Reports First Quarter 2025 Results; Declares Quarterly Cash Distribution of $0.79 Per Common Unit; Reaffirms 2025 Outlook - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGVXMTh0TmdNRU1ZejQzVWo0eDVXcXhoQXN2VmFtRG83Y0poVzBrbXZTYnFYYlJFYlJrakhNSU1zQUFfY2xmanl6Qm9wbmhTRkNHTGFhQjFCcG1WNmczSGJRT2xMR3g2dVFZSS1HNmJDeUMtSzFiSFliRDhMeGJGVy14X19zZ0VEWW1wOTFETHhVR2l3elNVcmVxTG1rNHl2akVfWE9KaW9RcGRMS29URGdHSGQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Is Mach Natural Resources LP's (NYSE:MNR) Recent Price Movement Underpinned By Its Weak Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0JfYWdjNHFKLXJCaEdjaXlTR2h4V3ljTzZERkIyN0J6VmZNMWVtYUVMc1h5Z2VYbFpvWWpXWWQzQVhvVTlTU0sxSFRkTTFLbGpEZkhnUG1HREw0eWZkOXFFSDlPNWJnYmNhejE0SUphWHUtZFRoa0FJRnZOdFBveEctUm4xeDRzZlRDd3pNOEd4TWR1dlJSY1Z5OW9aRFhxSUkzUVNWWm1xSEFvcWFsV2ZiMU9yQmo4MzB5RjB6REN2RGZtRlNkUXRlRi16UkRC0gHWAUFVX3lxTE9PN2xpRHhSQkw3Y2lqSW02aWVtOWJzTDNIaFdhdWIwaVFNQ3FsaG9pdVF2dmJXOTJNckZ0bEdpS0RaemlMTjJYS3MwalUzSzhRQ2Nvc3I5X3hERlJvU2NyS05GTEw3U2xSWlREZ2EwZUxKOWxqT09xc3hkR3B5cGl2Y1g0UFk3bS1SdnNmODZuTGlhRE9UX25Ub0hfZTZoUFlVQzg5LTI1RHRsZnBGSktTQXZoOTRfVWdRakV2dVREYmtOeTNWSG1oUHJ3RXpvcFgxV0ppOEE?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Investors Could Be Concerned With Mach Natural Resources' (NYSE:MNR) Returns On Capital - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1QWEJxODlSeDNhODFHc1ZwWVRCcDlzMWtNbmxIaXkxcC0zZHlMS01LU3MwbXlCN2w5Qk16ZFlQbWtRQzY3WmdKbFpuLVBTTHFoOWRzdFF5OEtjcnhYR1djek1GT3BNSWE5UjVXQVY2YktlMklNQnVUeGhFM3pnZWFtVVBVbC1lUjR6em5Fb0c?oc=5",
+        "title": "Mach Natural Resources Rewards Investors: $0.50 Per Unit Distribution Confirmed for Q4 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3dzUzJxbV9SY0ZJVklENWE2eWVlQUtaWUVQVDByenZkMF83N3BoZkRHbTh2djVROW9aNFZyWHBNLXZRY1llRHZmZzlJYVVDT2MxNWs5eDBBQjZkOFNSV1RrTjB3RkdNMWV2Sy1jMTlQdW9HNEJicXpOMlRxTVRkMWZtVTV3b002RDdKcjJ1TnQtV0V5Q3ZUSFVPVkhFeEZ0bC1CY3ZpSHVVeFZ4OE85clhZdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mach Natural Resources LP (MNR) Misses Q1 Earnings and Revenue Estimates - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWdkWE1BWVpzdVBvTElHZkJKODdYbDFxS2ctN3l6OEc2dVFFS21VUDRCWTRYRUlicl9yRmh1NXpGb2ZZNERhb0NyTDZLSXdYdXpOVXN6VW02bkhpTlhoNE1Cd1ZFd0Q0dnIxM052ZDIzajdJNFpVcGQ2WWFiYnpoQ1YxUjB1QnVvcGFXZmRocHNLMFFDM0tGMXMwajh4YzdxR0hWLQ?oc=5",
+        "title": "Mach Natural Resources LP (NYSE:MNR) Director William Wallace Mcmullen Buys 79,218 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdFVVeHNiY044dUFfYWlSR0RERnNjeUg4WFRVd1J2MkU5Q3FDZHFtQ19SSFFseHdrOVFVS2JfU0M2dVpWV2hzNWVpSGVldGpKWm5fU1l4SjhhT3B0QUkwR3cyUGsyZzh2aDllR3NzQXY0bFpoVW91S1FRY1RJcWJWbGhmeklFbks1UkxiRVpvNk5HOERCVFd0cVJOWHA1ZmtLRUszY1FBM0hNLUFPcGp0eWFMNWx3Yi1ENlZkZ3NjLUlRQUluV0pURDRGSjc0bl96Um5PeElEYnA0dFk?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Cash Dividend On The Way From Mach Natural Resources (MNR) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmdMVmpfTUp4UmdBWmtxQUNpTG5rWnNhN2QxVXdmX1JqbnI4YVJmRGh0OFd3TFN3YXV1Q3dlRG5zNHdMOFNkYjFYMC01Q0tDMjlwbjA0SW1SLXNfWklTM21wdF83Tmw3djhBbEQ0TDhwYVkxcThwY2hnUkh4X1NROXdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Plunging -10.73% in 4 Weeks, Here's Why the Trend Might Reverse for Mach Natural Resources LP (MNR) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9heU5iNnNnOHVzeUI1NDhGc2pXellnWVZoaUJDWHctSnFCR0ZWR2stZzIxeG5rb2NuRElMVDRqeG5xSTBKeWpZb05jSGREcTFDcEg4YmVNU3dDaktFVlJXRGlSVzF6ZFEzVTA3MXhfN1l4NVg1VUU4?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "The one-year underlying earnings growth at Mach Natural Resources (NYSE:MNR) is promising, but the shareholders are still in the red over that time - simplywall.st",
@@ -626,36 +646,16 @@
         "label": "POSITIVE"
       },
       {
-        "title": "All You Need to Know About Mach Natural Resources LP (MNR) Rating Upgrade to Strong Buy - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTZaTGVoS25CRmRWTFAxZmU5bDJVRFlUdUM5QjJKWDFKQUpTV2phR0YzRGwxSFRsRWp4TVJ2eGRxaHJuRVpkb2NkTnJ1V19zWnN4UnRobWx3QmlrQW9ITEtKVXMzNHhUeGYwWThZVTJ1NDJXQUlNcVVzeFc4VTh4WjJR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Down -7.59% in 4 Weeks, Here's Why You Should You Buy the Dip in Mach Natural Resources LP (MNR) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmZvWFJrbWlITFh4WG9XX1VfZW1tVFpuVmJIREwtd0l6OTlGQmtoS2RZMVdkXzBmbXZVSDVLZ0lhNGhXOWdYaTBCbmR5MmpCQ1dsVGo0UWNncVIzMUFudkVmaW54TEdIZkhhMjYzRmFfY2VWOXlETy1sWmpIUG1HXzZPS29aaWEyd003SmhCekNvbV9GRVA1TURyWmliRVZqUnR1clpsVzVmaG8wMWlQNQ?oc=5",
+        "title": "Energy Giant Mach Natural Resources Raises $200M in Landmark Public Offering to Slash Debt - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONEw4b1FfLU1CUk5UUkF3ejM5UWVFVXM5TFZ4cFdMNG13ZkNkRWJxN09ObFBVMFk1TVRWRHdpQUljdnhmLXJ5UGNUM2dxWG1jTDNYSkkyWWpydm8yQ0hJVEh1U1c1RkF6TTRYWWkxWHpPOFJ4WF9WVzZQenNJTnY1UURNZHMzU29lTHJyek90TWlBWU8zV2VHSzZMN2o3NGhObkxKbEFqcnl5Q29hblFkZlNzX2RuSGxrcFNF?oc=5",
         "label": "NEGATIVE"
       },
       {
         "title": "The Mach Natural Resources LP (NYSE:MNR) Annual Results Are Out And Analysts Have Published New Forecasts - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcFJpQ0hSd2c5TkhIY1RMa01KMW9HRmE5cHFtUEx1UVBjSE9OeXVIc2RaYnEwU0hYS0pudVZHbGtKZHpKaTBFb1pwYS1uXy1IRVpxTmVxVU1qYkh0djc3STFGeTdndlRfblhJOGVHb3pNTWM3NVl2aEVxSXVwNkhMMDVodGgxdzhIUVNkYWF3QnpQaV9CZGFPNkFTWHVneTNZLUF0RjNPbEZjZ1ZKS0UzSDdWZnRFcm1uamN1aU9tMWtWTllHZURYNTlFSnBQVDFMZmfSAdcBQVVfeXFMT0ZERlk5QWpTelpFV19BbXMxVkJxOVVsUlhqWlFGcjZLaEs3TGFiRk5qazhJTy1ITHRsQ3NVQmg2RVV0NldkX0NFOFJXajI2UlJQd0psTzhTcU1rOFpvbWh0LVh4eXp0OW9Mc0NOcmR3bGlrZXdJOHU3blkxeGpxR1M2RGlmX3VscXg3WXRxNEZ5N2VYVDA3LXVSYk80M21Eel90YmRBM3FBa1hSdE1BSjRyTmViZDhtOHQ5ZFljSFhwWkJwcWtUZHNKSDhWWXRSX2xNT2RVekE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Private equity firms are Mach Natural Resources LP's (NYSE:MNR) biggest owners and were hit after market cap dropped US$54m - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbDJveFNSdmF3ZHI2MzI0bzFmVGhiWUJTM0Z5aXctbWJnaWU2bnRqQk54RlR6c3hmTHZlanJ0V3pBcUxYVU9rWVBxbVc1SERLZmxxNDVVYzNnam9tUnZWSjA0b0d3NmlkMTJJenpQdW1zMV9BSHFvSHFsbjJBT0pxX09HeUZYQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Mach Natural Resources First Quarter 2025 Earnings: Misses Expectations - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3N0bHhPdndNaEhlam1oZ3A3VGhQaEhEQ2tUcWpfY0g4OUdHQWxfRHVyYlhKbWp6Y2ViUXktenhBaHhKMktTNlc2ZE9CWndQcjMtUk1YZkVOQkFpOE9ESlBfWGdtRlBZRnRISjA0T0lJMWZiOWd2bmJtZUtJOGhza0lOYndTVlFzalE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "After Plunging -10.73% in 4 Weeks, Here's Why the Trend Might Reverse for Mach Natural Resources LP (MNR) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9heU5iNnNnOHVzeUI1NDhGc2pXellnWVZoaUJDWHctSnFCR0ZWR2stZzIxeG5rb2NuRElMVDRqeG5xSTBKeWpZb05jSGREcTFDcEg4YmVNU3dDaktFVlJXRGlSVzF6ZFEzVTA3MXhfN1l4NVg1VUU4?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "7762.T",
   "name": "Citizen Watch",
   "sector": "Industrials",
-  "market_cap": 203630608384.0,
+  "market_cap": 206313160704.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.5273695,
-    "PB": 0.79568446,
-    "EV_Revenue": 0.597,
+    "PE": 8.644119,
+    "PB": 0.80616647,
+    "EV_Revenue": 0.606,
     "ROE": 0.09151,
     "ProfitMargin": 0.07535,
     "GrossMargin": 0.42461,
-    "DividendYield": 5.58,
+    "DividendYield": 5.5,
     "DebtEquity": 26.928,
     "CurrentRatio": 3.507,
     "QuickRatio": 1.96,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.034390629583820505,
     "ROA": 0.03092,
     "PEG": null,
-    "EV_EBITDA": 5.541,
+    "EV_EBITDA": 5.619,
     "BuybackYield": null,
-    "PriceToFCF": 18.685350073328937
+    "PriceToFCF": 18.931503780706258
   },
   "technical_indicators": {
-    "RSI_14": 41.85426920785234,
-    "Momentum_10": -3.132250580046404,
-    "MACD": 1.5259864090030533,
-    "BB_Percent": -0.1094189021287854,
+    "RSI_14": 47.88971846397539,
+    "Momentum_10": -2.3094688221709005,
+    "MACD": 0.5641019053527998,
+    "BB_Percent": 0.2639079637937281,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351892580861356,
+    "ValueScore": 0.8973979952415158,
     "QualityScore": 0.4676848885216366,
-    "SignalScore": 0.6586359064331835
+    "SignalScore": 0.605029170666997
   },
-  "volatility": 0.0176959017835065,
+  "volatility": 0.0178060576017006,
   "beta": -0.1,
-  "return_6m": -0.0357880002805105,
+  "return_6m": -0.0601703670660286,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 887.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 897.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 904.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 916.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 923.0
-      },
       {
         "date": "2024-12-13",
         "price": 922.0
@@ -525,30 +505,32 @@
       {
         "date": "2025-06-06",
         "price": 835.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 836.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 846.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 865.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 854.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 846.0
       }
     ],
     "current_price_data": {
-      "price": 835.0,
-      "change": -7.0,
-      "percent_change": -0.83
+      "price": 846.0,
+      "change": -8.0,
+      "percent_change": -0.94
     }
-  },
-  "news_sentiment": {
-    "summary": "M1 Capital Management LLC a récemment acquis 7 762 actions de Walmart Inc. Cette acquisition pourrait indiquer une confiance accrue de la part de l'investisseur institutionnel dans les perspectives de croissance de l'entreprise. Cette nouvelle pourrait influencer positivement le sentiment de marché à l'égard de Walmart et souligner son attractivité pour les investisseurs. Il convient de surveiller de près l'évolution des actions de Walmart suite à cette acquisition et l'impact potentiel sur sa valorisation boursière.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "M1 Capital Management LLC Acquires Shares of 7,762 Walmart Inc. (NYSE:WMT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3gxd0FWOTBiZ3kxdHRhakJZcGdrbjFmU3dOS3cxOVVZcHVwOVlpdzNHbFM2NHJsSGVjZDV5Vm5VRmhtVG9Ua2UzeF9CUFJlOExFMWNHWmUtMkNKbXhZYVZ3dlZlQWJFcTlSeEFpdktaYXFKYmw1YWZmTjZrUWpPemxXa2NhcEtPYUszaFVkMTBQT2RhaVZhaWtjaHZtRlRuUmxHWWxFU1ZHNjBGdjY1TEJyeGpvNG1ZT2tFSE9ZU0VOQQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-06"
+  }
 }

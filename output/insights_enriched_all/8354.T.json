@@ -2,16 +2,16 @@
   "ticker": "8354.T",
   "name": "Fukuoka Financial Group",
   "sector": "Financials",
-  "market_cap": 751553282048.0,
+  "market_cap": 743990427648.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.415302,
-    "PB": 0.8088142,
-    "EV_Revenue": 8.189,
+    "PE": 10.314548,
+    "PB": 0.8006752,
+    "EV_Revenue": 8.174,
     "ROE": 0.07405,
     "ProfitMargin": 0.22148001,
     "GrossMargin": 0.0,
-    "DividendYield": 4.29,
+    "DividendYield": 4.32,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 57.89613735763869,
-    "Momentum_10": 2.185089974293059,
-    "MACD": 64.01405766916832,
-    "BB_Percent": 0.6326445887493821,
+    "RSI_14": 53.33443461678525,
+    "Momentum_10": -0.5811015664477008,
+    "MACD": 44.12901881127664,
+    "BB_Percent": 0.5035857660918663,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341906456607478,
+    "ValueScore": 0.8748362735493327,
     "QualityScore": 0.4164741259555753,
-    "SignalScore": 0.515822759281741
+    "SignalScore": 0.5602563600861681
   },
-  "volatility": 0.025183573110798,
+  "volatility": 0.0252552934924654,
   "beta": -0.04,
-  "return_6m": -0.0577198668112588,
+  "return_6m": -0.046981586449837,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 4641.1113
+    "target_mean_price": 4618.8887
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4289.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4266.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4235.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 4245.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 4227.0
-      },
       {
         "date": "2024-12-13",
         "price": 4198.0
@@ -525,12 +505,32 @@
       {
         "date": "2025-06-06",
         "price": 3975.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4024.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3949.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3918.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3933.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3935.0
       }
     ],
     "current_price_data": {
-      "price": 3975.0,
-      "change": 16.0,
-      "percent_change": 0.4
+      "price": 3935.0,
+      "change": 2.0,
+      "percent_change": 0.05
     }
   }
 }

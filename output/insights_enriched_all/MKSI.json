@@ -2,16 +2,16 @@
   "ticker": "MKSI",
   "name": "MKS Inc.",
   "sector": "Technology",
-  "market_cap": 5958693888.0,
+  "market_cap": 5986864640.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 26.440475,
-    "PB": 2.524796,
-    "EV_Revenue": 2.707,
+    "PE": 26.565477,
+    "PB": 2.5367324,
+    "EV_Revenue": 2.828,
     "ROE": 0.095019996,
     "ProfitMargin": 0.062119998,
     "GrossMargin": 0.47537,
-    "DividendYield": 1.01,
+    "DividendYield": 0.94,
     "DebtEquity": 199.703,
     "CurrentRatio": 3.106,
     "QuickRatio": 1.657,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16133005236720124,
     "ROA": 0.03817,
     "PEG": null,
-    "EV_EBITDA": 11.254,
+    "EV_EBITDA": 11.757,
     "BuybackYield": null,
-    "PriceToFCF": 10.085292073402297
+    "PriceToFCF": 10.168349846671425
   },
   "technical_indicators": {
-    "RSI_14": 59.016110415959695,
-    "Momentum_10": 4.928480275463893,
-    "MACD": 2.2492096935903874,
-    "BB_Percent": 0.6215902550197443,
+    "RSI_14": 55.13901215176981,
+    "Momentum_10": 8.602019083603828,
+    "MACD": 3.0330087242275425,
+    "BB_Percent": 0.6029228276086416,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9276290101544036,
-    "QualityScore": 0.2518135487399743,
-    "SignalScore": 0.4707804155203198
+    "ValueScore": 0.8882281439876935,
+    "QualityScore": 0.2581712790502271,
+    "SignalScore": 0.5100822534766318
   },
-  "volatility": 0.0459426796923716,
+  "volatility": 0.0461780199730266,
   "beta": 1.833,
-  "return_6m": -0.2210795123353669,
+  "return_6m": -0.2031426299653032,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 13,
-    "target_mean_price": 115.95692
+    "target_mean_price": 116.34154
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 114.35
-      },
-      {
-        "date": "2024-12-10",
-        "price": 110.91
-      },
-      {
-        "date": "2024-12-11",
-        "price": 113.56
-      },
-      {
-        "date": "2024-12-12",
-        "price": 112.9
-      },
-      {
-        "date": "2024-12-13",
-        "price": 112.55
-      },
       {
         "date": "2024-12-16",
         "price": 110.86
@@ -537,28 +517,48 @@
       {
         "date": "2025-06-06",
         "price": 88.64
+      },
+      {
+        "date": "2025-06-09",
+        "price": 91.59
+      },
+      {
+        "date": "2025-06-10",
+        "price": 94.15
+      },
+      {
+        "date": "2025-06-11",
+        "price": 93.67
+      },
+      {
+        "date": "2025-06-12",
+        "price": 93.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 89.37
       }
     ],
     "current_price_data": {
-      "price": 88.64,
-      "change": 1.48,
-      "percent_change": 1.7
+      "price": 89.37,
+      "change": -4.38,
+      "percent_change": -4.67
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de MKS Instruments (MKSI) présente un mélange de signaux. Alors que les résultats financiers du quatrième trimestre 2024 ont été publiés, avec une augmentation du dividende trimestriel déclarée, des investisseurs institutionnels comme Summit Global Investments ont réduit leurs parts dans l'entreprise. Malgré une appréciation des actions et des prévisions positives de Morgan Stanley, les actionnaires individuels ont subi des pertes au cours de l'année écoulée, et des analystes comme Zacks Research anticipent des résultats plus faibles. La nomination de nouveaux leaders et la volatilité du cours de l'action, récemment à son plus bas sur 52 semaines, contribuent à une certaine incertitude quant à l'attrait actuel de l'investissement dans MKS Instruments.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
+    "summary": "MKS Instruments, Inc. (NASDAQ: MKSI) a subi une baisse significative de ses actions, atteignant un creux de 52 semaines à 76,32 $. Malgré cela, les résultats financiers du quatrième trimestre et de l'année complète 2024 ont été solides, avec une hausse de 15% des bénéfices par action, surpassant les attentes des analystes. L'entreprise a également annoncé une augmentation du dividende trimestriel. Les investisseurs peuvent être encouragés par le remaniement de l'équipe de direction et l'optimisme des analystes, bien que la perte de 34% subie par les actionnaires au cours de la dernière année soulève des défis potentiels.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why Is MKS (MKSI) Up 12.8% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcDFsYWpZdlZDSzhNNUcybk1jVGVXYlJVSWdPV3dFc1NEOU8xa1J5ZHJmR3VMOGo0cWEtd0t0VU1hVzdnb2RhQmdVZkc2WXc4QmJKZ2RvY1lLdlhLejJ0TUMwbUtqSnJPT3hlMGIzRDg?oc=5",
-        "label": "POSITIVE"
+        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Stock Holdings Decreased by Harbor Capital Advisors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcElUWjNFVEdOMzZDOFNwYjlQZFpJQTVIVk9XYlZPaFgtSXF1XzBKUmFDWWdDaHJPMzZfTlYzRkt6dGk3a1NCcHlIMWZqX2h3LXBqbWZVX1BzT2NFVlh3MDRobDgybzBlYmhUazVNazhlVTNNWHhkdm1FZFQyUE1jV29DQ19RRFVCZzlpMzF5ZG9YdHVmdVRpZUhpdEZhRjQtWnFYZjZrYVpyWG55V2hucExsVnQ3VkdLQUo4dHo3cFdrNjlhR3RjVnU2YnJBYUpNREtxd1pXOA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "MKS Instruments Transforms to MKS Inc: Inside the Tech Giant's Strategic Makeover - Stock Titan",
@@ -566,18 +566,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Summit Global Investments Lowers Holdings in MKS Instruments, Inc. (NASDAQ:MKSI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcV8xS05YMnZsdkZIbzdTTlgyRkpaNzU5QUhVRmVHcExrSjdKTG5wZ0REVjlmUE5HbDg5RDBGOE5sU3Z4eEZNZ1NHWkd1aFJxdU5MZUE2dDdBbmtHNEtnRlYyZGlGRE1xM0VXSHRld213VmVsNGNSZXlpSkQyZWpBdElleHhrY0xnOGwyUnFGek82OEpvYTdkQkpTRG44MHZtRnVJT3pZTk1kOHFqakJXUnJhZUtDOEJRNWxYeVZMMS1jSlFkbG1tWGVFNmk?oc=5",
-        "label": "NEGATIVE"
+        "title": "Long Term Trading Analysis for (MKSI) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUlOZm8zRmFqdjRWdl9ReXk2cDJsaE5DRm1uR0xlaGdpWVZTMnhwNUtkWU9PSnMtWkdkU2NFdmlXMHdWYVJackdBRjVjN1pjUTJGcExvOWRXVi1KN1BTX1dEbnJPZkl6RlprcUI4eUo0b2ZIcjg1bkk0Z1FpQ0NibUtOUXBGZTdEZi1vSWtqcWE5dTRNblY3dDAyMlZLSE5FN2xSOWlTLXZnOEFBY1E?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "MKS (NASDAQ:MKSI) shareholders have endured a 34% loss from investing in the stock a year ago - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzFIeHQ0TDJsUGhhUWFwVklsbTI4dDNheXU4TGYyN0xITFBiVFRKdy0yemxueGIxU2h4MXZqcUZEaUFNNl9IemFOSUh1amlZZlNTTDZNUUZESWJqcnhTQVplRFVVNmprZU53ZUp5aDlzaW4xTncySHhPczgwSjFxZ2pNTlNwN29rZm91eDRiYUdkODFmMDN3V0d5Nnk5NkxXYkthalZrT2pRRGR0M0NWLVdISEpiVUhBLXlxdmxLdi05RkVhS2tJ0gHMAUFVX3lxTFBfaVVVV3RGVFVlcEJhR1FCMFBWZy1LUHBXY1I0YkFUMjQwSkFPNTZMRjRJS3Y1ZEc2em1BRXhOa3hxaGRZX2RRWmwxbi0xNUtHRU5wUmRhNXJ1V3lwM3drU29DRG5oMmVYel81ZHIwLW9lWnZNTDk5dV9oMEpHbXRfRndCZEJiNFpZTVhKalVpUUpzR2JmTVhEZkViMHdQQk5KdXg2SzA5OUZZMWlUYXJYOEJ5bU5XejVhZ2ZKWTdHN1c5MzlOOHMtMV9VUw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MKS Inc (MKSI) Shares Up 4.9% on Jun 3 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUVUcwdGo3YmEzWC1MV3djY21fQjVnbWpROWZwOFBxNm14bDZjN2NGRUxvR0dqLXVfd3VCQmFnWTRtZjZCUjlSTi1oS1U3dlJsOTBNVzE3dHBWbmhWdk9RbHRZSmtIVmhYQVpyTkxhXzRfQXJYMHNkRTNLSm1JQQ?oc=5",
+        "title": "MKS Inc (MKSI) Shares Up 3.58% on Jun 10 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVYwZVlXS19UaTR0MTZJUF9zQkhNT1NhQTdDeExDXzJnQWJZSksxcXd2LXFUa3ZMbTJ5UHNRSkVNcTdKSXVVZnZpWHUtbGYzakIxVGg5d2ZaU0pYYVJKa0ZNZXJMX0xHdlpWZDlVVzQ4WWYwcTZZNl9DWFhHVjZyQzl3M2JfUzRYV0lxTTByem4?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -586,29 +581,29 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "MKS Instruments Declares Quarterly Cash Dividend - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTS1uUUdQX0ljc2lsSmZySjVEa2FsY2R4a3E3RE9WcVRIYjV6ZUVkYVlsaFRoMEJVckZSTlFXMG53R1RaNnpEYWp2aExwVjQ5ZlZuNTRISkZ4MHh6TzVhV0ZmQ0w1emxHUGVIang5dlJFMk0ybngyUUQxY3J5bzQzNzYzSkpDUFJIMkZ1eU1LbWIzTnJvMWpVeWJ3?oc=5",
+        "title": "MKS Instruments, Inc. Just Recorded A 15% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM0cxcWJmNVBnX0RVcmlUUlVrc0pKMldJQnA0MHplY2Z0ajZvZUhhZWxoT21PSXlsN1dwQTV1YmZpdWtIeHJEVkNTVzVUT0RleF9KVFhfUUYtV0RqS2RzaXlkT3RRUGF3SG56c1AxZktvOFQ4RFo1MXZQeTNaOUxIXzF6Ri1MWG5UbzJyVVlmVGsxYUJ5VG90eENNNWFGMXRwQ3oyZ1pyN3Uyd1FoOGttbTNOQXVOWlpsMWdHR3ZOemdrazhDWHp3azZXRnBVN3A5aUQ4Vzk1RdIB3AFBVV95cUxQZXR4dHhmRFZEVVZ5eklscWg2YjFoVUZoXzlUVlltdXVkZWxTYkpsN2lNaFFNLVMzQk1WV3NRZDlQS2dfQ0VuQmhiYk1KY0NVYlgyRlBWQ0MyeWRIUmxoS3M5WnNFUjlRRDBGOFMtN29lU1NYTjlTdl9FY3dNaXBsOVZ5ZmJkVUF0dG9uVG9RdUtFdUFqWW1zRXF6SjBMdXRrVTBBQ3RuQzEweXBhUnZ6V1RqSWNhTXNTV2g1MlFnQ3ZaWmpkUENoaWZ2YlNiU19pTWFGQVU4YlRPMldz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Holdings Boosted by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc0p2dFlaVHo4WlVwczdZMmFJRVU0MTZENG9JZkFEQjI0Y05OYm1OTzEtMXFjT1kxT0hCSTd2OUNhM0FMbF9zMUNjMDA1alNxakJOYkhZOW9ZaTFQYjFJcV9IcmNJNGRUZExwUGpiMUItTnctYlJJUGlkMng5cTRTM0RBSkVRNzBRbnZuWDI0Y2Q1X3Zzak9peFhMTlhkOENBMVZjUmdzQkJfQjU0Z0NMcXZhaWtmRmF0S0loc1R3bnNRemhSLUhVak9GRHJPZEdxNFdUcXJyLTMzcm5VallITHVXUVRFNFMtOUZF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sell: Elizabeth Mora Sells 300 Shares of MKS Inc (MKSI) - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUlWZlZUWXhuaGpCZWI5YUlpTUhKY29idlJLdEVCME5JeDdFY1YxUkVjei01RWVFU1N2dFAzRVRDVG1UT2M5aDl4WFFTN19KN3ZkTnFTTzBOV2J2THAxc0RGeUFnSEN1MGJzZ0xlc2lpY0FuNG1UaGlUZVU2YnRWdlBtMWl1OU45X1ltbF9HWXpvWHhYRXhMd0F4a1VxNDNW?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Now The Time To Look At Buying MKS Instruments, Inc. (NASDAQ:MKSI)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjRSU1BtTmQ5RnJadDUxc0NMclFULUNkQ3ktYjc2NTZnd25oTll2NGF3U0hlTHpzWXRMaTNHNGFVdGpTVlBiY3V4VGZwWFVVV1g0RXR5RzN0RG1sZDRkZE9JSWpuR0RicHlFdUhqUTA3cWJTNWkzbFBkZkRPNkUyVVBJdDQ1VHJoRFhNODM2cHBFU25CVlluWTZSbTBlaWpGQ05obnBQTkpZYVVJUGNGZ2dtWlBGdEdsMzlhMGFOdENVem5HTEJrS0lJZk5LYXZBQmRXV2Zid0ozd9IB3wFBVV95cUxQWTZEemUzbnRadnVRTUVnX3pSdU5TdlU5Zm9Cdm9Jb3p1cDNlUmlZU3FmdTZ3SHM4eHRoNDYtXy1oaGctOUlfeGdWRlhxTHNiWGpfYnhtdC1GRDh0X01KRVcycDJqeWtlU0JjakJLSGJGTi04d29LcU5tbE80N0RVVmtvRjBLalIyc3U2cG03d21XZzZpUjV3cWxraVdPNmxjS0toUUxhWmIzWGx1RllxMzRacnBQSTE5WjcyZk1tSEhhTkZxbHQ0T045dGgzZDV4dE83WUhXamYyWDZQVFlJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley Forecasts Strong Price Appreciation for MKS Instruments (NASDAQ:MKSI) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUjFEV3RMVHNtWG5rVV9iRU5LOWxUVjdHaUZ4cVBOaE1DeHVadlU0a1dNUHdoUTVrVXFhZ1BWak16RVhTY3J2NEdiTzRSV1VEdjBwRVRXb0gwdkd5bHpGWkNJbUN6Vkp5X2RmVTFXRm5TN3FucUkyb0c1dGJVa1NJTE9fTkNvS2pvR0h4Q2R2SkV5OURDd2hESzRsUzR4eExmYXB4TzFxNmw3dnNmWkRRVUNNd3BrQmMzaTVpc3VZREdZUQ?oc=5",
+        "title": "Why Is MKS (MKSI) Up 12.8% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFOUR2N0x0TUdMY0FPcEVMVUNYZEE0djR2N3J6azlFdTBzbmd3YW9ZRmFFVjJxQWRnUXhXVzZmRXo0SjFhX3pCVmw3UE1XYy1DNWF3SW1RZU5KMkZpRHdTUmdJUnNpY2NtSnUzRTQzX1ZiRkVjV2xaUw?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "MKS Instruments stock hits 52-week low at $76.32 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDVUTGxJMGYtU0tYR2V0dm9SUVdQSUdRWFVwTWwyVktGcFpyLVY5OGZfVnJjQXZiT2tSUk5HNkhpMEJocTJzcUl3ZENGSUlpQ0I4RkRKZW1WLVNhRS1ibmRnN3lZMTAzS1NoSWN6emtLZURCTnFRa0ozVzQ0eFBZQ19acjQtN3JYZnJERlFJTGhGLWlPTGRiTFYwaVNhTjVtUFItWg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Shares Purchased by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekxSck03dFpRTWRjSW52cFdtVkFWMkhZZ0FDbGhjSVRqanNrYzIyOE5Lc2tYOTR3bFdid3VqS1AtSWc5cXVTU05Gck5HZy1zd1VhNURrNkxicUx6YjZtLW1DX3ZIbmt5N0RpYkZpcTdkSGFqN2NnRUczd3JnUDFWalg1VVZBdVhoVnlkMGpoaE9ET21fMlFBQU51OE9YelQzUjhNNnl4eG5aeFVnTWJ6Y3B5XzhwVl9kRFhNUDlXc0hzQ2VqSERva1VoSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BofA Adjusts Price Target on MKS Instruments to $100 From $95 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXJnX0F5b3dWV0xzYV81M1pIQUkwWFZMNVloWmtFQVFDZFNmUnNLaEdOWU1OZUw5LWJQa2lBNHJHa3F3ak1SeVdMUWtmOXBaRGRabmpHdGNyTkNoUmVoS1RkWXVmam10SDJtUEN0TWhwclM2QUt1aDVKVFRTLTc0UzYxVkNHUzZzUTlPMTVFNWVpTmFEaFhFcl91YXFjRkxObEE3ZXNMb0U3bFlVQi1oMkY1TkJrUEgtWjlKWndoQ1MwQmJOM0JONHlzcw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "MKS Instruments Reshapes Executive Team: COO Returns as Materials Solutions Division Gets New Leader - Stock Titan",
@@ -621,41 +616,46 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Investors in MKS Instruments (NASDAQ:MKSI) have unfortunately lost 22% over the last three years - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHFfODRTT3dvdnFnTHNGdFh1bnFnUDJRN3R2ZDFpT0tidE4wc2cwZkJKbkdBWk1aU3FxeEZQWko4SGZRcEdhU3ZXd0JtVkR1cnQ0S2M5aUZIdjBvbDlNODMyTkFqM3RuMjV2LWFZcnBWRVVyM1JOOHBrTzBMWDVXRmp0dFZILTQ5bmhPNU1aRG5vZGlTbEFrWmVyUHU0RElITlZ6RGRlVVBlUU1BNm1ycWdNWUx4TTE5YTVDZWdJelJ6NmFGMlc0UHZiZ1FKaDI3bDZzTWdra2N2QdIB3wFBVV95cUxPRFhyTGdweFJvOWZzMmNJSWUtenk3eml1YzBtbDdaM3I5RUpIem9jelg5bWZSbzh0SDdXOWtvdHZFZFIyTjY5VG5LRHdlRU90UWJta0VYU25mTEUweEhmOTJuZTYyVXNGckg5emc4OGIyWGUycmhYUExibkcxYjc1WE5EV0tqaGdXOFlBMWRmeVBQd0V1NmVqSHFseHJ4ZHJxdVFsSDRQaTF5RWJPZU9Ma3ZIbFZsTGNpLTFQV2FCa1lCRFpQSnB6d0xOV2M2cm1ENTVJNVVNcGtfc0QtS1pj?oc=5",
+        "title": "Is Now The Time To Look At Buying MKS Instruments, Inc. (NASDAQ:MKSI)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjRSU1BtTmQ5RnJadDUxc0NMclFULUNkQ3ktYjc2NTZnd25oTll2NGF3U0hlTHpzWXRMaTNHNGFVdGpTVlBiY3V4VGZwWFVVV1g0RXR5RzN0RG1sZDRkZE9JSWpuR0RicHlFdUhqUTA3cWJTNWkzbFBkZkRPNkUyVVBJdDQ1VHJoRFhNODM2cHBFU25CVlluWTZSbTBlaWpGQ05obnBQTkpZYVVJUGNGZ2dtWlBGdEdsMzlhMGFOdENVem5HTEJrS0lJZk5LYXZBQmRXV2Zid0ozd9IB3wFBVV95cUxQWTZEemUzbnRadnVRTUVnX3pSdU5TdlU5Zm9Cdm9Jb3p1cDNlUmlZU3FmdTZ3SHM4eHRoNDYtXy1oaGctOUlfeGdWRlhxTHNiWGpfYnhtdC1GRDh0X01KRVcycDJqeWtlU0JjakJLSGJGTi04d29LcU5tbE80N0RVVmtvRjBLalIyc3U2cG03d21XZzZpUjV3cWxraVdPNmxjS0toUUxhWmIzWGx1RllxMzRacnBQSTE5WjcyZk1tSEhhTkZxbHQ0T045dGgzZDV4dE83WUhXamYyWDZQVFlJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkFJOFg3dEZxaHZNOVowUC01VUdXaEpkcjZkVGhmX08tTXlEZGNxRk5FOGhnM1FTYk1GR3FrN0NVU21YNjRnN0FxcTFmODJ3UGpNeDAydEw5OGltcE1RR29HZHVJTkEyZWtVNzV2ZkhtTDlZQWtrWnFSaDZSTHdRX0hhVXEzUnFKWU4ycHI5YzVjYmJIVkZKeWRhZDRTcll5YXgyMTBfY1VjZFFFV2dUT1ljRXRrb2JBRk5SNk5LU3A4TjhuSHM0aUZrSkdNV3Fa?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MKS Instruments Declares Quarterly Cash Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTS1uUUdQX0ljc2lsSmZySjVEa2FsY2R4a3E3RE9WcVRIYjV6ZUVkYVlsaFRoMEJVckZSTlFXMG53R1RaNnpEYWp2aExwVjQ5ZlZuNTRISkZ4MHh6TzVhV0ZmQ0w1emxHUGVIang5dlJFMk0ybngyUUQxY3J5bzQzNzYzSkpDUFJIMkZ1eU1LbWIzTnJvMWpVeWJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MKS (NASDAQ:MKSI) shareholders have endured a 34% loss from investing in the stock a year ago - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzFIeHQ0TDJsUGhhUWFwVklsbTI4dDNheXU4TGYyN0xITFBiVFRKdy0yemxueGIxU2h4MXZqcUZEaUFNNl9IemFOSUh1amlZZlNTTDZNUUZESWJqcnhTQVplRFVVNmprZU53ZUp5aDlzaW4xTncySHhPczgwSjFxZ2pNTlNwN29rZm91eDRiYUdkODFmMDN3V0d5Nnk5NkxXYkthalZrT2pRRGR0M0NWLVdISEpiVUhBLXlxdmxLdi05RkVhS2tJ0gHMAUFVX3lxTFBfaVVVV3RGVFVlcEJhR1FCMFBWZy1LUHBXY1I0YkFUMjQwSkFPNTZMRjRJS3Y1ZEc2em1BRXhOa3hxaGRZX2RRWmwxbi0xNUtHRU5wUmRhNXJ1V3lwM3drU29DRG5oMmVYel81ZHIwLW9lWnZNTDk5dV9oMEpHbXRfRndCZEJiNFpZTVhKalVpUUpzR2JmTVhEZkViMHdQQk5KdXg2SzA5OUZZMWlUYXJYOEJ5bU5XejVhZ2ZKWTdHN1c5MzlOOHMtMV9VUw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "MKS Instruments (NASDAQ:MKSI) Stock Rating Upgraded by Deutsche Bank Aktiengesellschaft - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkY2bXA0QzZKYk5TUE9uY0pleTB2ZFhIRTdhRnI2eWJZck9TQ001Q0FUUVpSajN6UnU3bnlEUTVRdHFXZk5pVUdFbXhpZnRrLUpnajU0aXYxYzFqX0xNdjlIVDMtRkQxUTN6M0FZRFlqam9SZlRCVEhYZDVIekZuUGF4QVZIQnYyamdXWVRKLUhJUzRYUDUxWk5fXzdhTFVtRnVib2RRUUlZZjdLY21TQ3ZqejFrYTFIakJ5bVFCTXllV1o5QnJubUJR?oc=5",
+        "title": "MKS Instruments Reports First Quarter 2025 Financial Results | MKSI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1NvVzk5OHZJaXBIRGV0Vk1MaURkZjRYZndkTU9iaVljWnJPWXdhZkp0ZmJrYVBlNnZsbmwyN1VoZmJjRUpqaEs4Z00tYW9LM3lfREFLWE5yZ3YyVFlvWGl3Q09HMEFDRE51NGpTcldaNzJkeXpYTzUwMFVYQnhNVTVyNURkSVFxTVVRMDFWc2E0SEQwdlZqZUR3TEZkQkttTzhXX2NVeEE1dEhvWHFINnhIc2RNdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Two Sigma Investments LP Invests $4.41 Million in MKS Instruments, Inc. (NASDAQ:MKSI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEJCZ2xfRF9abW5GRTZ1bFRmTDlDd2wyYzRjLTVYUzRSUE5ETGpWdWFNWGtucFg4Z05NaEdhQmZMc3RhMUt1dkFMb2poZkJUcHRBRGZoZkhOYmR3eXhFeUMwYnJsRHJ1Qlp2UlVtMHlSM2s0amQwODlrdjhVS3NYY3FyM1hRUDdyZUlGa1Q4d3lWelBzcVBUTmZpc2FVeW10akJlUmdKMlJlQ3NGeWxZZG1RQnJCX2xvVzRVWHIyQUcyR2oydGEwTVBiMVlaMEMzUm1qZm1B?oc=5",
+        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Shares Purchased by Systematic Financial Management LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMV9qUDhJR0hSTEgxX1FuN0JUVTIyY19iaEc4Y0hhV28zb1pOZVJVa0RyR1kwYVlxYVVvVktuYXZLYUdPWXBPV0owcXYzUmRnZWxzc0QtX0djcmJNOG9DNU90MU1oczdHUEl1QmVTU210bzY2cmlCMVdOMGJvN29vUmNDUHIxajhrUUt0TklIMVFyaG9BRENZTU1jb3NibXlCcGpVRDdlX1JnZ1BRMXk1T0YxenhpREhmT3hOU3hJWktBWkVTWjQ1RGRHeEJKUmFuVVRuSVpzNkFkSzJYRWdqNUF3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Zacks Research Expects Weaker Earnings for MKS Instruments - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVpYRmZFV29wQktQWjRSU3l6THJmaFRBRVpQNlJnTEx0VnhGdlRmVEtST1FMVDRxdE10M3kwb091RXlHX3E3TUl1MzlpQ1VzUjBOd3VuVU1uNTJoM0h5OGVpc0VxSlhNQjlxaktsdVNTSXhiRFZSTmdGNmZMQmw4ZXRLYjlaSnhvZzRhcXFpbXZOR1kxSDloblQtbGRaMjNDMUNBR1Jhd0FlYXJ1bUVjRUx3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Shares Purchased by BNP Paribas Financial Markets - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWVVKdHVqRkNCemFXbmVNR0Q1ZmxvYzA5eTAzWV9hTERHczQ4ZzlPbk5PX3NIYVU5S1FLN0Z1VDM3VnJrNlVzYzlZblBfSEZTaFNxbXJKQUd0c1R6ZkRyeXVVdHJjMjdCeWdqd0JELVdzeGZLVXFaRllOWTExNGhINDdmSGFEV3h5YXo2bVdFdzhjQ01xc2NtSWhKN0IxaGlLNktpNmhKYjM3LU92UHNscnpWUE52R2o4UFZvT2V2YUNtNHJQamtCaXNJWE9IU0c5SHVhbS1Ocw?oc=5",
+        "title": "Cetera Investment Advisers Has $2.45 Million Stock Position in MKS Instruments, Inc. (NASDAQ:MKSI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWZaV05uWjFxMUJNQUFzQXJzZUNOVDR4Um4wbENfYVVOVEZKZ25sVUlja1NaX0RUVVlFSmJ4U2puNEd0WHlIcWoyb0pDdDdHNU5ibzRCdnhGYW9CWGptWUVpMHRWUmhBMlhKeFBpNjhab2dma193MWFVcUtrcDNvN1AzdW56ZElRbkNIbUU1Vld5NGNlUzRHN1dIUEZQQkd4NmJ0WDJHYlhGWE5nbWlvZGhvX1JhT1VFU29lcXpnZXA1a2dsQkZFT0lBQm5oQ0dUV0tF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MKS Instruments, Inc. (NASDAQ:MKSI) Stake Lifted by D. E. Shaw & Co. Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWU92UFZLQWJzSU0yTnVJRHlMc1BVYlNabHA4VFROM0g5blZ3WWRKUTVzT3dzdWRoVXpWSWRhWXFxSUhUU2pCRE5YZmtVTFZ3czVEU3QweTZMdWx1bWVRYk1Vc3U4dElBRlpSZ0lBUkZrcFZMWkxVVTJjLUxQUXNfc3p6WDZpU3lHdnI1Q2I0NVdJajRPZEZGak40RWtrZmJ0MXJNUzhFSDBWQXhBektjak9YcTFTWWZnbzd4NjdUZjQ5SDA?oc=5",
+        "title": "Washington Capital Management Inc. Makes New Investment in MKS Instruments, Inc. (NASDAQ:MKSI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN1NodmdNRDdBOVRCcWJFU1NicnpVSUx0ZmdLdHBtTG5PS3QxN0RMbllXT19aLUdfOWJhY1VBck1yblpjQy1jOXd2VkV3UEZ1OVJRSXJqZl85eERvak1PX0drWUhWZjVRMGFJR1Q3U1MxZUVsWWpyQ1lXYUlXS092YTVpOEhWemluRU5QbE9mVml0c3hSczZzMk9pX2VqY3FXNkdvTjNic1l4M3dnQlMtYUtUZTItMXhRc2pPQUxfSTBsT2F3WHJ6a244TTVKQklJWnZtZENwV1FLRlU?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "MKS Instruments stock hits 52-week low at $76.32 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDVUTGxJMGYtU0tYR2V0dm9SUVdQSUdRWFVwTWwyVktGcFpyLVY5OGZfVnJjQXZiT2tSUk5HNkhpMEJocTJzcUl3ZENGSUlpQ0I4RkRKZW1WLVNhRS1ibmRnN3lZMTAzS1NoSWN6emtLZURCTnFRa0ozVzQ0eFBZQ19acjQtN3JYZnJERlFJTGhGLWlPTGRiTFYwaVNhTjVtUFItWg?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

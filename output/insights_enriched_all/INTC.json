@@ -2,12 +2,12 @@
   "ticker": "INTC",
   "name": "Intel",
   "sector": "Information Technology",
-  "market_cap": 88526790656.0,
+  "market_cap": 88003346432.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 34.744183,
-    "PB": 0.8874459,
-    "EV_Revenue": 2.318,
+    "PE": 33.890302,
+    "PB": 0.8821986,
+    "EV_Revenue": 2.382,
     "ROE": -0.18127,
     "ProfitMargin": -0.36189,
     "GrossMargin": 0.33122003,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.13198005898752876,
     "ROA": -0.01092,
     "PEG": null,
-    "EV_EBITDA": 15.152,
+    "EV_EBITDA": 15.571,
     "BuybackYield": null,
-    "PriceToFCF": -12.545636399007119
+    "PriceToFCF": -12.548751365796507
   },
   "technical_indicators": {
-    "RSI_14": 47.317524186036174,
-    "Momentum_10": -1.3381977067635604,
-    "MACD": -0.2333277746769191,
-    "BB_Percent": 0.3365539662271175,
+    "RSI_14": 46.59065055271952,
+    "Momentum_10": 3.145788759423327,
+    "MACD": -0.0621372818728076,
+    "BB_Percent": 0.3489590050326744,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9311221393758864,
+    "ValueScore": 0.888338736179516,
     "QualityScore": 0.26380395733536,
-    "SignalScore": 0.614707891461379
+    "SignalScore": 0.5820607938110172
   },
-  "volatility": 0.0414582103020772,
+  "volatility": 0.0423011157050837,
   "beta": 1.113,
-  "return_6m": -0.0298757169082535,
+  "return_6m": -0.0081121393456012,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 35,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 20.81
-      },
-      {
-        "date": "2024-12-10",
-        "price": 20.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 20.12
-      },
-      {
-        "date": "2024-12-12",
-        "price": 20.78
-      },
-      {
-        "date": "2024-12-13",
-        "price": 20.34
-      },
       {
         "date": "2024-12-16",
         "price": 20.83
@@ -537,53 +517,83 @@
       {
         "date": "2025-06-06",
         "price": 20.06
+      },
+      {
+        "date": "2025-06-09",
+        "price": 20.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 22.08
+      },
+      {
+        "date": "2025-06-11",
+        "price": 20.68
+      },
+      {
+        "date": "2025-06-12",
+        "price": 20.77
+      },
+      {
+        "date": "2025-06-13",
+        "price": 20.14
       }
     ],
     "current_price_data": {
-      "price": 20.06,
-      "change": 0.07,
-      "percent_change": 0.35
+      "price": 20.14,
+      "change": -0.63,
+      "percent_change": -3.03
     }
   },
   "news_sentiment": {
-    "summary": "La situation actuelle d'Intel (INTC) est marquée par des avis divergents. Alors que certains voient un potentiel d'achat générationnel sous la direction de Lip-Bu Tan, d'autres avertissent que la société est confrontée à des défis majeurs, tels que des licenciements et une croissance lente. Malgré des initiatives prometteuses dans le domaine médical et de l'IA, Intel reste sous pression pour obtenir des contrats lucratifs pour sa fonderie. Les investisseurs doivent donc rester vigilants et évaluer soigneusement les perspectives de l'entreprise avant de prendre des décisions d'investissement.",
-    "sentiment_score": 0.1,
+    "summary": "Suite à l'analyse des récentes actualités économiques concernant Intel Corporation (INTC), on observe une forte volatilité et des signaux mixtes. Malgré une hausse significative du cours suite à des annonces stratégiques, les fluctuations récentes laissent planer des incertitudes quant à la stabilité à court terme. Les investisseurs sont divisés entre ceux qui voient un potentiel de rebond rapide et ceux qui restent prudents face à la concurrence d'AMD et aux défis structurels de l'entreprise. La domination institutionnelle des actions d'Intel souligne l'importance de surveiller de près l'évolution des positions des grands investisseurs pour anticiper les tendances futures du marché.",
+    "sentiment_score": -0.1,
     "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "“Just Seemed Overly Generous”: Intel Stock (NASDAQ:INTC) Slips as Government Reconsiders CHIPS Act Funding - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmpYS19vLTZteDhwRHdlVVp4VnpCaVQ1NnJPMTdyTVU2b2xWXzdCNVhWalM1M1JCbWNBcF85UVAzNWRmYlZtUEotWW1tWUZTQVNhRUl0TDM3NWhVS1g4V3J6SEw4bDN6V0ZlZUswWkpDTlA4TkNwZWp5dVQ5bzdSYmdrR21VTGl6VmtRWGNGeE02NlVYaEowT29ZQUo5akRmZzNEZFZGZXdIQ1E0MFhhdW04Rm9hZFVGOV8ta0I4VDl1U2ZGYXBXMlhn?oc=5",
-        "label": "NEGATIVE"
+        "title": "AMD, INTC, or NVDA: Which Chip Stock Is Wall Street’s Best Pick? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTNXWGhIQkFHM0QxLUNWSkgyT3FCbE1LRUstWjkxNHdaajNhQ3hWOUwzT3pXZWpLOFlKVTNlaFRUXzUwTE5UYV9zZGE0VmstMW9fd2I5YTNYck9zamhuSDNJczBEYlhyVzV0UUJoX19KbWx2MXM3SXh3S04tclV4M3lGYnFCQVIya0dPMEd1SXpkbGs?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Intel: A Potential Generational Buying Opportunity Under Lip-Bu Tan (NASDAQ:INTC) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWczcGJ0bmcycF9QNnhBSzBWaldGbl9qYVQ5MVJ4UU93dVJoOEllU19KV0RNMjh6ZGlwcGVsMDlKYUFJaEpmS24tR0VKZVpGUkc0bFc4aVNJUEtwYjdEVHMyWGxlbHdtMTR3WVJBNXgxbU9RTE5TV1l0MTRoUTlvQTVldlUyUjh0Nk9IY1JnRno4MW1xX0JLeXJNTi1kODNrODZCck0xbEpkY2s?oc=5",
+        "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNER1dE1GUnY2VkczZE00dnduUlYyYjFFT25CWUV5bktuUGZzNXB6VGVqaGxjZDlFTnczRnZ3Q2VNeXRRbGFGWjUyLVBQTzZPSDl0UXc5WjZVRmxkUEdoaGZiWE1XaWlZa0dDUlJTa3JUbnAtTjhPdHZWSVc1Y1RVUTh2SjZfYVJmc1E?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Should Investors Bet on Intel's Turnaround In 2025? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjhEQ1h3d2FjWlZpWllRS1lKY0VrWUF1NVlsX0pOZlZfTG1rZzB5aFBrWHl1Rk84Q1IxbW5LQk4ta09Sb3hJWU1PZFdVOXVOZ3BxRnI4SGg0M0V4N2dhTnVNR3ZVRG5rNTRxSEJJbjktY0ZXbEpRa2tDRDN6bnAwaWoyQ0d1QjA3Z21hdEJUa2cyVzY4REJr?oc=5",
+        "title": "Buy Intel Low Before It Explodes Higher (NASDAQ:INTC) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE44UlZMQ2dudXRTZkx2cl9oVC0xNl82LVViVDk0QkxGT0xndG1IZTZQTFdEQjVrNE9kZlZYNEhTRE93X1JqT2t2UGdtQ1YyUVA2c21uRENQR1lzeHp5WTE5anhoN2RXSGZWcUJCZi1zTlFlenN3Q01tb3QzMmR4MnJMNnNLMVk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Intel Corporation (INTC) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDJBNlhabF8tcXVsTjRuOG1LaHRqZkUtVFBEVE84RDNrT2I2QzczUDhVbmdYd19TTTNjd2tSN041UTMzal9MMmM1YkVZT2lDaFI0b0hMUUpKbU1iRUlCS2hUYzd3dWRwY2txNTl1dzdpUFdQdWFQdDh2anphN3hwQ0k4ZzdpUG9BMUR2UkJMU09WcmJKNHFNNw?oc=5",
+        "title": "With 65% ownership of the shares, Intel Corporation (NASDAQ:INTC) is heavily dominated by institutional owners - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFJib1dDTlV1dHlYLUR4UGMzQ1dnUjByMWQ3V1dIYWpSOWdLSDh6NWtUX180bjdGY2JQQndQa0pxOWVhMUJkZERPdGFNbW5SN0VlU2NHYjBaZGFuYlFuMXdhdnkydF9Tanl2R0F2QW9FOFh6cGNueTZxQ0NNcGZzNkFaYV9DQ01pUEo5M2tUTkJ3NFhNOHhHWTlObnJtMm1KZjJ6TEpUc0l6MllYdk83NXVKeGdMWUV1ZnVYY0Q5QWRSb3BMb1VBdXJn0gHPAUFVX3lxTFByRFVjdUwyaVZPNFZ5Ym9vM3JfN2RuOFozU2l0eklrWmRUUXhWTkh1azhWVTlHUXlqa3dHS0tteE9YYlZkRHV1TzlMN3loYjEweWZLOWJ2WjJDLUJTNjZGQlFkR2dSNkJKZ0oyQkNPTFdNX25sb3BEZkdEYWtIRGppX0lIOFNoVHZNQXYtOURVMkhXWUI2MXZkajR4N3hFaWo1d2hwMkRmSndDQWFxcU4temZPUE9LLXhUN3NGNHJkNXBWV1ZvUmdKRW1lam5jdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "“Intel Foundry Will Need to Earn (Intel’s) Business”: Intel Stock (NASDAQ:INTC) Slips as Intel Looks for Better Deal Than Intel - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeTZhR3RwWThVUkFqQmtfaFd6MkY3bWNtQ2JLbnBiMWthUXlEQXMxNnNza1VGNmdkdDkxZGVrbU4yejA5TXM4bi11eDJJWG9fSXFfOGFVdDU3WnZlWXpHNnM0SVhrTjRaUzhyc3JqdkxUZkNsQVJ3anQ4aVZ6TVhMYUxUVGtZdDd2YklOV2NaM2VPVnlfcE9CdUdKOTlkUnc4cFJUQ0xfd2N6OFBrZnZuRjdvV2RfbWlSQndrcGt5d0lPRnpiU1RkaHZhdGcyTE1MYldIWEpTMVJBSVlPSW16RWdB?oc=5",
+        "title": "Buy Or Fear Intel Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnFpNDdSNnBPRVZKNlJnNV9oUlZQY0g2aUxxQ0Jod1cyR2NJaGdoYzlnX09YUG9LSTV6QklrTFV6T0xVenVoZVl4NEZxN2M4RWpoeEczT3hQaWRpU0dGV3ZqQlM5Z0hLTWQ2MF90SnphU0NNbWd5d2dVdUR4dy1BWUU4V0dELWF6VG9Seg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intel Corp. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjNuNDNvM3E5cVBJeVlmQ2xGcVdzUVBDUFhkRFpNX2d5QUJUd09iS0hUc1U2Z1JETTJtUTB0U3lzeTlfY0xObTlGUkxLeFExbkVuUVp5REsyNG9MVlBlYkNta0ZhMlhVQmY2UjlFVGttWjVDQjF5R1MzTENtQzNFTlJLV3N4d29tampRU1dwYU0zNG9qemZFdkFmbUd1SWZjNFM0WUw3Wi1DNDBvaXJDZzZ3YzU5OFRTdUtLMDJ0SQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Intel (INTC) Stock Is Falling Wednesday: What's Going On? - Intel (NASDAQ:INTC) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEVUM2lGbzlQYThaemN6UnJnZ04tMFhGX0lLaWY3UTB0SGZXUk8zTkVvZUl0QlU5X1RSWFZ0WlFoN0tCdnVYbzNaLUszLXNybDVraTBiVC1OcHB4cWhoMUxYQVA3WjN4R2JER1ZodmtaODh2LTVtQlVPNmVwTHRkZGYtbHVUU0JzdHFZYjVZX3BNWXk1MHk1YWFiLW43TVZjNFBKeGIxMFkyNU1IVl9kMzBKTQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "“From Weeks to Seconds”: Intel Stock (NASDAQ:INTC) Takes Aim at Medical Market - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTV5Qm5xdW56YzJyaFBORmNLOXRhd2xQSFU2V2VNeVU3WC16dDJQTzJ4dDJWMUlrNEtlTmNQb2tRT3hyNUp2ekpBV0lTUlJ4bEd6UFBzcjFtUm9ac3NDSHBHSG5ieWZWTWdXc3hoc2l6VGg3VVB3VlNCc25oTFh6MHNTVTZKUWgwaVU1c2l1dGJxNTdiay1jQUF1VTQzaTdEcDBZ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Intel or AMD: Billionaire Israel Englander Doubles Down on One AI Chip Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclVQMldjN3N3ZDQzaVRTTHhldHBQT3lpdWd5ZDExUXFpbVhJMm02bmJCVmtacnJUYUx3dHBueC1hd0Q0ZHhGX2ctYnB6RWtiTjBuaktIV3VvTWgyUGtzWWoyN1R4cHZoTUNSTjEyOTdYNF90UkIwb2F2dlVLaUFYNHIxYkM1aUE5ZDFqeXZ5eGRERFJ6TUtGSGtKTGt5R2NDc2thVkdYUnQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Intel’s Turnaround May Be the Best Bet No One’s Watching - MarketBeat",
@@ -596,66 +606,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Intel Corp Stock a Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44MURoTFRPWEhKbWZxRlVMSWJyMkc2TlRLaDBTZ0RqU2F4aWFDdC1Ca2NrNU9VZGdFOENxZHd1MklzYXNXMjJXdTBsUUVtZ2cyei1GeElOSGJDUFFTQnVDWmx0V2h2MV9waVpWVWMzUDhjU241S2dJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Intel Stock a Buy Right Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtbVpEM05nMTBFRmMyR2RvWjV5T2YyS2dUMHhFbVIyc1ltc1R4VW9SckozLVNFdFY1OHVLZzQ4RzhKM3RYenNrZDRneXRXWUM2TDNpemZMVWhTRi0tb1hQQ2ZzN2w4NjU5SXVBX2NDUExsZVFqalB1RGpGSFpaQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "“(Build) The Biggest, Baddest CPU”: Intel Stock (NASDAQ:INTC) Notches up Despite Ironic Twist - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0wxTXlsQ050YmZCSDRWUmR2eG5TNjVQVHgyaWdpTWxnVWsxc0x5cGhlX0ZZWVBadFh6ai1MNVEtaW5yTnZkWUxvTVF2eVlISU5IVmtQY3NJaVNRZUY4RGFpZ3lKTUVNanBKajQ2WC1jQlJfQmtBWjlIRG85eExuX0ptcTVMNzB6bW9OREZKZWhhaGM3Q2xXTGs5cXJLNmxLN2dESWVFMTNGNFlHaHFYOHZmUTY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Intel (INTC) Is 'Dead Money'--Layoffs, Slow Growth Raise Red Flags - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnFvWUtwLTVwS1R2MTUyM0FvZGpfZTVwdkE5U1RsaGVYRjFnUEhTYXpsQjYxLURUSUo4ZDg1UDFNQ0pRRDlSSy1DOHI4ZGFHdmlVLUdGNjYxS2dSRWpEVEJjTHV3RGtQQUlwQ2VoOUhGbEdZNFpuRXNGNnJDbWQwTQ?oc=5",
+        "title": "Why Intel Stock Sank Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44M1NJVVgyUnMybGFlU2hZM3ZrbklJZG04Slc4enliRlJsYmF6SlVLR2lOZkdsa2tXeTJ6N0ZLdW9lWThsQzNNcGxiYUkwRU5lWTdBd2dfSTR3emtEWUFwSFpRa2JHMWJ3aENSRHBCQ0ZOSG5vSUo4NXNpMHA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is Intel Stock a Buy Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMGRfNmVZc2pMR25qTGplN1Z1RVl3QkVFWXhVMG9mR01lTjlPc2Rub29Yd1NhUHZzNVNIRHBaamdXS1NSek02SGsxSnZmRXFOc0lHamZkU1lmTVEyaDl3RV9fYWtrQ0pTY2RfMFFXclN0UmpQeVE?oc=5",
+        "title": "Watch These Intel Price Levels After Stock Surged 8% Tuesday to Lead S&P 500 Gainers - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEdpREd1cGRydFhMeXRZM2pWaFhiS0Y4VmFadERrSEhsQ295MDdkQlUzSy1MTUpZcm5WWTM0a2dueEtsSDJUUXNPa1JoaVpONlR6QXJlQ2VoNk5OVFBBUUNrU2xtbFl5b1h6ZXpXcDNuc3dCMVkzM1NoLVFoN2hlSXhHMWU3a2xyeGl2VmZQdEVkQ2FWcXJwUE1fMU9hRDRtZURzQURFdVFxSFhDbnU0MnNyTHJHQnFIQl9jWDNJeUo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Intel: The Future Is Bright (Upgrade) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblJZRG1YNExlMTcwR3Y1emJGSElBN1NsX2tqM3FGdzkza3lSNGd5RmhpSm4tVzE1TXdNNnh5ZTVCZmdBSGFBLUZkTFl3LURMUVhZeS1jbnpBNFNYWExFNURqTnBGVnF5SjZheHFzbmNVRkdOanpMNTlCeHNiT3hwNA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlNSZkxBb2JvUFJadTdfdXlWcW1VVTJYcUNYUEEzVkhhblQ1Zk5YOFZSVW9YaXotWHU0dHNjbEZHd3Ridzlta2pyRHRYcllFX201UmUzUXpnMmJXQWhzVEFjdVZaMVdhOHBhcE1RUW9WbmdJQjREcldJUWpQUXdpa01VLXViOXllaHoxejc4LTk2dXFmS3RJMTVNQ09abTFuTFE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Analyst Explains Why Intel (INTC) is ‘Dead Money’ - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmFsZzJLbHZxTXdPTXZISGNLMjg3ZXh1N2t6RVQwczlVWk53LWxqeE8xUXNFMU5jQ0dqeEZtdThOZXNQaWlteHU5S0ZvVnIydXNvXzAtZE45cmdVV1FVQlh4ZUFrMkQ4U2U5MzhZbXQtTWJjVnZhYy16NHVzTGg0WWtGUQ?oc=5",
+        "title": "Intel's Price Spikes: Noise, or the First Notes of a Turnaround? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWNaS2FDSlFDMVdoNEp5dmFqcWhkazNhbzVETDNlejhHN0h4Z3luWnlBODRzVjMtRE81cUhFT3dQUlFJM21hbExBYlBFMFBJc0ZsaHoyZFB4LXlKdExIVmZCeXJlWWc5a29qQkdHd1dBZzB0RHkwZnItakpYSmRrWUtXXzVnNHYyNl9KdmxNWnhBSU1Eb0hsckk3Y3lNNGJXdWxVdzUwM3cxLVJoVjNraUZzSkF3NUJNeld2Uy1hS19WdktDcjhKWlZUQUV3eU5abDJHaTdVSk4?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Intel (NASDAQ:INTC) Stock Edges Higher Amid New AI Memory Initiative - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2JyX2lOc3RHS1N6RFNUZW9FNUVsUVh6VTU2RWFGZ2tNN3pqYWpQeGw5UFNPLWR0ekE3R3lQRFhLZWRLY2xSQXpPTXFDQlVnLS1QM0tHUDFkZk80OXhWYU11OFBlWEw1T1lmd2hYMjQ3cGI1VHNDMXFLd3VFSExyLXh3aUdPUERKVDZ1OU5BWXlhYkczWG1KTV9OVQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "“Dead Money”: Intel Stock (NASDAQ:INTC) Takes Aim at Memory Market - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlFSMm95Y001MU9mc0Ewb2lfVlo4aTl1UTVjYW8xaDRLN3EtUGNOT3UtVkVvaHRSLXRHTnRqeGhYYl9fNkRuVGxETmFqZjRTTGwxVmdyWFJ6UnBpQ0o3V2lCSFVJZTNLdVFRMkN4cE15SUFIRFg1Zm9vNVhJdkxwMVcwc3NUeGRwQTgzQmpIYno5Q3J6?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "New Processor Leaks Give Intel Stock (NASDAQ:INTC) a Small Downtick - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmk4Y2dzcGNjdkd0Z3o3NE1jVDJIQ0ZtWWFKUG5kN0ZHVmhSMHcxQV9rQ3hEaXRGOU41TWcyUHNxSUR6bDVVU2o4Y0o5YXI0LTVCY1Vvb2ZjcUt2Y1ZKYThQcG5lSVhlUEpIUDVPWnQxclh3bDItWU5MaG1xUGFsWFZZdGItTTdsQlRVVDlsQjY0cW9fWkhjdnZR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "“Colluded to Embezzle Over $840,000”: Intel Stock (NASDAQ:INTC) Jumps After Catching Possible Theft - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNV8tZ3pMMnZuMTM1Y2VvSzEyMFJMckxXSlNUd1ZxaXRKQkpiTTVxMENTYVNqSWdiSmI5WkdleVRKNWZNeHFNTzBfekdnLUYxa0hoc0xIM3UzZ1pIS0hrcnFxUkhWT09rWGZ5RDFmb3h5bnFHUEdUTUotTEpJZGRhU1Rfa3NETGJHY3ltRTNNWnc1Z2JkcXEtOUpLSXU4dXBYT2FjWmpzalI4TDRFMzdERmtJY24xTWcxSHZTRXln?oc=5",
+        "title": "Intel (INTC) Dips More Than Broader Market: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXlTNTAtYVEwTktIa05SbHMyRnhQakhRZ25BblZCTllMWXp2eENYdWxHQTRmVkdrRE11b014RnAteHZiQXNlTDRKVl82V1RKVzRfd2tSVjF0cWY3aEtSXzQwSzJRbmFqWmFLdkZLb2F4YUxaUGMyYTNiaU5ySGtfSmJXR1o3N0VZVmlUWjVkSTlWQQ?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "When Will Intel Rebound? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjk3cnk1WU9hVmhUbGg3X2l1SVhqLWU5TC04TnN1T3Y2NHhVSXN0RjhIa2JkVnNoZkZWLXkxektfaFo0UDNxTWxTU3ZtWkUtSGI0N0E0bnNnYllfZzJyQ3U1OXN5Vko0b1MwemNrRXF2QWpUNEtEWGtKTEpHcUtneE9CNDRRbUpEbGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intel's Price Spikes: Noise, or the First Notes of a Turnaround? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1pKSkV2cHVkbnN0WkVXUDlPQ2x6Mm5KZGhjV3NYZHkzTkpSVEU0Tko5UWl1ZmdObFFINmFNNkd4cUJwcUJlMjZUcTRHVGVwVXF0cWNVVjB3NThUTzFDN3Q3Y19lcndNTkloN25XNy0tc2NnRHh1TElPZ2lOMHhWQWRzclAyM2dlblRvSUZpUV9CNnY0S2lOSnFBVmJWNVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intel Stock (INTC) Dips Amid Strategic Restructuring and Financi - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTVlcTRjbUk0TWFvQVRVZUQ4cWRIOXpYR0VTMllxWlUtcS11dFBaQ1l6X0R1c3dpcmZBMEw5RHNrNlY2ek40NjRKZjVPVUZLcFV1MFpVcDNMM2pWOWRoNUxsejYyR2ItN2dTU1lWbHB2TXMxeW14YmEwN21kZjVONEg3cTVtZVNnVXhYWUJDWEFuZlpfai0zRWVxMXcyVVpIZlNPb002TlZnQ0YzSkJQbERhcEc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "INTC Stock Surges 10% on Strategy Shift, but $27 Breakout Still Needed - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXBlLXBvWDVKTHpHZ2publN3UF90Ry1Gc2hwMGJ0eVNOMUV2ZkZma2thSWN1TE9IalRXb3RmTmRUWFFSUlpYM1NwSkw2d3dvVGdpbXNacjEtT3k4RVV6YlZtUE9VUzhNWURtU1J2Mzd5dV96ZEU1X3c3dldqbnYwXzFHc0hJTFE4dmNfeWRnNlo2UnF5VTJqYUN0SGtSbEpIb3hVNlQzT2ZzeUVhMF8w?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "‘Grab the Bull by the Horns,’ Says Investor About Intel Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZvWlRVbFQ3SU5WV0o1UmFTb29KekVMZ2I0Y09aWWh4VkhpeUNzS2o0UmozcXY3VDY3R2g2VEo0cTRiSmQwQmM5OUlJWnBQdDhCTi1Zb2lkMHd4ek8wZGFuMHNIMkJiWXBCanZ5dzRjMENyOVdLWDB4SUxqUHZDLTAzTzdZdmVyWE16c3g2aFE2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Intel’s (INTC) Comeback Might Happen Sooner Than Expected - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzlQcXF3Mk9SeS16THRPSGZqejJ2MkNnOEp4OFNwcUUzc0pMbVkxUzNZeUE1TXN5N1hSSVBDNGlIT0hMamkzdDRNT3NweVMxb29WRFBtYUdNSEZQQkpBMVhnX2s0bjkyclN5NWliMWVsSDIzSUtuaG1Xa0M2d05lbg?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

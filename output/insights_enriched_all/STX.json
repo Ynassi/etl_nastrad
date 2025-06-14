@@ -2,16 +2,16 @@
   "ticker": "STX",
   "name": "Seagate Technology",
   "sector": "Information Technology",
-  "market_cap": 27064033280.0,
+  "market_cap": 26981267456.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.34964,
-    "PB": -32.64977,
-    "EV_Revenue": 3.681,
-    "ROE": 0.18977,
+    "PE": 18.293526,
+    "PB": -32.549923,
+    "EV_Revenue": 3.64,
+    "ROE": 0.184080005,
     "ProfitMargin": 0.17493999,
     "GrossMargin": 0.33793998,
-    "DividendYield": 2.26,
+    "DividendYield": 2.28,
     "DebtEquity": null,
     "CurrentRatio": 1.361,
     "QuickRatio": 0.651,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.022350702842882913,
     "ROA": 0.14077,
     "PEG": null,
-    "EV_EBITDA": 16.622,
+    "EV_EBITDA": 16.439,
     "BuybackYield": null,
-    "PriceToFCF": 141.344568944301
+    "PriceToFCF": 141.5002223025447
   },
   "technical_indicators": {
-    "RSI_14": 84.28828546380151,
-    "Momentum_10": 17.20099060181387,
-    "MACD": 9.26225971000794,
-    "BB_Percent": 0.9043574297735048,
+    "RSI_14": 74.17348499795047,
+    "Momentum_10": 7.766657489485486,
+    "MACD": 8.225289912213455,
+    "BB_Percent": 0.7430144041089292,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.948988053221458,
-    "QualityScore": 0.3034380435328447,
-    "SignalScore": 0.2562075972635717
+    "ValueScore": 0.9029771838740986,
+    "QualityScore": 0.3033691023969591,
+    "SignalScore": 0.4254681289204133
   },
-  "volatility": 0.0314764950589508,
+  "volatility": 0.0315515114962087,
   "beta": 1.428,
-  "return_6m": 0.3148871476394688,
+  "return_6m": 0.3386542891897159,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 116.07632
+    "target_mean_price": 120.02368
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 98.97
-      },
-      {
-        "date": "2024-12-10",
-        "price": 97.59
-      },
-      {
-        "date": "2024-12-11",
-        "price": 98.39
-      },
-      {
-        "date": "2024-12-12",
-        "price": 97.64
-      },
-      {
-        "date": "2024-12-13",
-        "price": 95.75
-      },
       {
         "date": "2024-12-16",
         "price": 95.58
@@ -537,82 +517,87 @@
       {
         "date": "2025-06-06",
         "price": 126.97
+      },
+      {
+        "date": "2025-06-09",
+        "price": 130.17
+      },
+      {
+        "date": "2025-06-10",
+        "price": 127.99
+      },
+      {
+        "date": "2025-06-11",
+        "price": 126.49
+      },
+      {
+        "date": "2025-06-12",
+        "price": 126.07
+      },
+      {
+        "date": "2025-06-13",
+        "price": 127.27
       }
     ],
     "current_price_data": {
-      "price": 126.97,
-      "change": -0.73,
-      "percent_change": -0.57
+      "price": 127.27,
+      "change": 1.2,
+      "percent_change": 0.95
     }
   },
   "news_sentiment": {
-    "summary": "Seagate Technology (STX) a récemment été au centre de plusieurs actualités. La société a enregistré une forte demande des centres de données, ce qui a été un signal positif pour les investisseurs. Malgré une hausse significative de son cours boursier, certaines opinions soulignent des risques pour STX, incitant à la prudence. Toutefois, les acquisitions majeures et les performances financières solides ont contribué à renforcer la position de Seagate sur le marché. Les investisseurs devront surveiller de près l'évolution de la demande cloud et la transition technologique pour évaluer la performance future de l'entreprise.",
-    "sentiment_score": -0.05,
+    "summary": "Seagate Technology Holdings (STX) a récemment connu une participation massive de 95% à son offre d'échange, avec des conditions premium étendues à tous les détenteurs. Les analystes de BofA maintiennent une recommandation d'achat sur l’action et ont relevé leur objectif de cours à 145 $. Jim Cramer qualifie Seagate de valeur liée à l'intelligence artificielle, tandis que l'entreprise annonce des résultats d'offre d'échange anticipés. Malgré des signaux positifs, des interrogations persistent sur la performance relative de STX dans le secteur technologique, même si la récente hausse des bénéfices a propulsé l'action à un nouveau sommet historique de 130,05 $.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Top Executive Offloads Massive Seagate Tech Stock! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbERFS2x3S0NjNFlDZFlQUl9ZOXo4anFpZ1NHNDB0Yk82UGp2ZXV1c0VQVEZEMU5uT010aUNHMVplZjB2clZITzVlZXBfaHpobUJ4enJyS01renFzTkMwams4cm40STlEV013LVM4bWFBXzF5TUJpRkN4TUJYUHhROFVCbEhRMm9aVG1qRDZ0T3lRb2l3d3RnMF9ncUpXQjhQR3dMdVlWX2VMR25PUEhENQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Seagate (STX) Management Signals Strong Data Center Demand | STX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDgtUXIyemZsRlFaZXZCcXk5UTN6UjNMaVp6Z1hudzQyYmdaT3piU1RxejdQVmVaeTdEeGhrakhVaFhmc3N1OEN2bjJya3FFTTNQMjExVzc4cjQydkpXNWNOTjBfX0cwY1gzWmZfZERDMVRuVHB0WW45amhNODI4LVJtVW5kMTlyZWZON1NRdjRtbDBTaEtOOE5WT09RaWxRUVFJS05kbl9kWk1lT0NGWmZfM2N3ams1dXZsblBnTFN5ZVl5eG5wa2x6UFpOWmJmZWlIdXVrX2ZIT242RWlB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 Wraps Up Best May Since 1990: 5 Top Stocks in the ETF - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tNTI1blY2MjY4S2NOYThYeTlfOFAxaVZkRUFyQWVtQUhYQVJnS0ZxMjFHZm13U1IxTTVyTi1wa0lGaV8zZmdvdmFuX2E5SUFGNlRJb0dLZGg5OFN4bGl2U19mc0Q4azNIUHVTLWRHazBTTzA5?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Seagate Technology Holdings (STX) Opinions on Strong Q3 Earnings Report - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVFSNmZydUtwd1RzMjg3S1JaWlhkazEzY1BpNTNDSjBFNnZLQklBT3dLVVYtMXRkM0FXcVZETENrVnZxVHBMLTJqX1VYMEtXdGVWc2xlRkxnZmdIMWZ2Q2NFU3ZkU3oyOUhWcTNGMDlRbWMteU96ZEl4MVBfZlRkWjNqS0NOV1BSSndqdE1BY1RKd280MXhWZkJ0SlRWN3M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Seagate Stock Jumps 46% In A Month: Is STX Headed To $140? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGZjYUNfZlVNVG1mR0g4aEtzSzBxd3VILWNSdHFWdDctczZXYWNSR1V2Y3BrTzNwcEhzRHllMFVCY2JnUk5vblNzNUxBdmNiRnNQU2RjdFQtQjBQNXFsclJqd1Qzc0YzT2w5RTdoOFEtT2k4VEwzX2tnQVJ0QkFLb21zRFU1YXJzMXFSaHl4TnRBdDQ1RnI4eWRpTDRlLUR5?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Reasons STX is Risky and 1 Stock to Buy Instead - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXEzNXUxaEd1bzlGZmo0ZTRCVFZvOWFIQjhCY2ZRZFFYa1NIMk1haFNKdktKbE9ZU3pmRHJxcFRDRVMzb3dWZEZUczM1TWx5dTQxal8wT2FTUlpIcXhveElvSzBMel9kN1RfTjIyUXpuR2dTSEI3U0xMNWtxZGZmOV9CWnZ2S2pvOG5pTHY3SjdiT0x4YUlNNHBNSUttNW12WDJGYjdwNW1nVmRrWDZQdzVKUGxNSkc2dzRN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BofA Maintains Buy on Seagate Technology Holdings (STX) Stock, Raises PT - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2xnNDlWTDZLeVJPX0JsMWJJWEF2QWVxbnI0cl9uZHJUUGpTYzhDTlpUWk5JS091dkNKS0xvLS1fTGgwZUl4aW5sZ0RlTTFhRm5zbk5TN3lLWTNvZXNCUkhDWG1LMzR6QXBOdG1KUkVMU3BBUXFvTWlIZWhuVDZJZk9ZQ0kxelVPMEZ3TUNzRUNnRWtRWkRpOWtSTW5JQ2NFcEJPM0hzd3BOcWZoUUZpS2tkONIBuwFBVV95cUxOTEVlbTNDR3Z0dnZ5eXpuaDRLUDl3SlpBbDctQ1pYQ2NxWlZjaHZqU2lVVEJ5T0JEdXFUQVBIVm9RcGw4d3QwY0xqS2xTSzBFVzVPeEIxdThBdjNJY2JKX1hmRDl3WlR0MUZCUTZraUtaZHVoU0M2REZRdkNaNnlPUGxkOFNRdmx6WTlIaTBwcGZqb3RqQjdxMHA0amNlanFFbW9GWUNySUVBeURla19mVWZ2UHhTSlViZDJZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top gainers & losers in tech sector this month: STX leads the chart, while FICO lags - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXhYRVl1eHAwY0NnWXEyaFpEMFM5MG1yVG94YmpSMC1CZHNpZE9WOUhOOUhBT0sxMzIwQWdrYkZBbnFjS1BwRWxzZ2FMcTZISndNcjJjVjJ6TnFPWjMyUWlrWC1JUnl0U1NGekZJYVBVaDA1TEgwajc2OXFWc3pVUlY3cEtQb3g1YjZFUmttNzgxQkhrd0RiOUt3U1Jqa1Y0TkxiUTZZTTB3X081MUlfdDRheEZ4UHk5ZTAzXzRsVFJkSFVlcG9xWWFqeDY?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stocks To Watch: Seagate Technology Sees Relative Strength Rating Rise To 81 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWVxMk1JUlRjbV9udFRNNmFaQmpORlg2Z3dJRlk5LThVYVRuX1R5c2FzaTVkUnp4ZURZUXVIMmk4R203SFdwNW5nQ1pjdmxEZGNYbmsxWWxHdmc1TDJyVW9kMG9maElqUmRDM2IxOEJXMWxoamxTSGNYNTJ4dzFhTW5BSDhCUGxmM2xaZGhyb2xialc5M1JWMDU0aUlWUlRQNlJ2dlhROGd0VmlHWGw0MFFVNDdCSWNQVzRR?oc=5",
+        "title": "Seagate Exchange Offer Draws Massive 95% Participation, Extends Premium Terms to All Holders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzFRdHo4MEFiLU1ldlcyd2JnVzVGRnhwQnUzOEVwRlIwRGFqN254Y2tKZF9LcU5WeGZpNUpteTBrdWgyTlM3YjZ2dldPNkQwc1FySHRteVVNVmVidkwyMWRfWFJQVnJ5d0lpNWNqYXFSU2JOeHlwZ0Ezc2k1aUo0SWlBWWhaNU0tM1BpeHNjSTk1VWdRb2kzLTNsU092d19wY1RQTzQ3eFBWRlRrMGRKX29JeHVBV2c?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Seagate Secures Major Tech Acquisition: 88% Shareholders Back $4 Per Share Deal - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUS01OHhlWjdzd0lod3EwSGFRZmNyOHNZNFp2NDNBT2E1eElrZ2F5TlRxVVhjMGc2QmplOTlVT1ZLX0dWbHRmUjlHeDBvSk5Tc2NzXzdZemZEUV9HWUxiU1NUYUd3X0JDcHBxV2RLU1lBUnh6QkNBMGYyUGwtODQzZmJCM1k1bk9leWM2ZHM3WQ?oc=5",
+        "title": "BofA Maintains Buy on Seagate Technology Holdings (STX) Stock, Raises PT - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzlsTU9zWnFoYW9NUUJIN19mWFRybjg2RHpZcF9XamRTa2VTSkc5UEVDUEN6Q1VSWEU0VFFiR2ptaU5ENG1Cek13bUFidG9RNTNhbUM5QVkzc0JMSE9BSklzRXdDbE05Y1kwdFhhQVJsVzZwYk0wZmU1elhZaGZ1Tm1UNDcxYlBmWDQw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Seagate Tech CEO Cashes In on Major Stock Sale! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQURNZmVQa29lRGJFUndrN3BHcWM4ZG9Pa1FwR2dmbEFCbl9kc2V3OWhnTGNHQ0owQXMtaDJXWDA0aWd3Y2RZd1FWaHR3S0FwM3NhUExzWlFtMjJHQ1dPMXlienZ6dWtLeUFjNi15TmlINlczb1pCaXlfMEJIRktiMzJBbUFyOGs5SzJjVTMzdWg2bF92c1VuWmpBTUFNdm4wZlJSTjFDQzlyRERD?oc=5",
+        "title": "Jim Cramer Calls Seagate Technology (STX) an “AI trade” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0NfQkNReWVRdjB1MEVVQnkwa1YxaGsxUFpIN1JVSngwcUN5YVJPXzdXb2JnNkkybm1fQkNGNDd5cGpqN3lXUUZEUWRwRFRod1VoXzRHRDY1NzhHMm5CUnFjZ0p2YkMwNUZfSmhIUkI2WnZjZ0VLMWhqcHNVVGJvZmxMdjE1b19WM01qRHhxLVhZYVVGUENmOExLaWtkV3AtR3BGRlhR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Seagate Technology Holdings plc (STX) the Undervalued Quantum Computing Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm1MdlVYOXNSRjNXa3MtQ3owWjJTSnpTcS1ZaDg0c3d6Rmd1SkVaSnRFWkxaOTJCb1MzU0VGWXFpUGRYSGhoLWpvVWVRTm5CdFI4UE9iRl9kNDREWkRWSEJXWmI2LU9KX0lTZ1YteEZyV1ZZbVZjd29fQ29GLW9sb0Q2cGRlMmFv?oc=5",
+        "title": "Seagate (STX) Target Price Raised by BofA to $145 | STX Stock Ne - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW16aHNFWVJ3c0tkNTVSR2pyZF9QbWNJOC0xZWpPTWM2eWlvWTNFYlBCckF5aVBBc2c5LUdEMmw0TzVvUWM5bmpZYTRRWnBwaDluRU84d0R5ODNab1VJTGw0MTBWTFFzZnpsbHhiNlFNSDIzakw4clBIU3N6SkJ3c1pQLU9wLTk2TzdCWHdzV2RvVWhLN0xjdmdCT2xHbU1nNnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Seagate Technology Stock Gets RS Rating Upgrade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2VrTUdyb1M2Z3JSOEtxZWczbklmVEdxQnkySkFNR2FLVW81OUJSckRwUDk0Y2RLbno2WWZLTktvaUhmbW92M2IzYldYQ1VZRE42ZUNoVHZsaDFQRGdwWV83b0xFdldoM2prajkxQ2pPazZtRUhTV0sySjRZTjFVcktDVjNMVWVjM0ZRb0JNTzJaWV9L?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Seagate Technology Holdings (NasdaqGS:STX) Announces Early Exchange Offer Results and Terms Amendment - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTQ4VklmNjJEdWM1bGVzSm9sX2VuV1JBbVRxY19BT1oyOTBMUXVFNWRKY1E1WUxwbmNhTTlpZ2N1MzExeVRxbHVteEZoSkp0TnJUM0kzZUNNMHotb29PNk5YQTRjU3R4dXhpSG04RkhKcGxkNG9wRUZ6cnBmTGcyeFh6dkFlVU1BVzl3MGNPLXdQZXBYdVNDQjlOZzVKWnE4ZTVJSmotTzhudTBYNmN6TW1ONk40bzhyLVd0Z1MybzFwa2FMM2xLcG5zU0MyVmIybktRVDdJUnY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(STX) Trading Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2VzWk8xUklFRGZBYk5JLVNpV3MxdGdLVFFZQkxOZE5ycjlFMmZyeGhwVkpkcVYyaDViWU9sbW01MGRuTHVhdnRCNVdqaktaVUZMRXZLTG1pQnJEU0lNdnFtT2ZBRmdBWGJWcEllSHNiR1ZyOHZDM0Jhd01Td3VTUUN1dDZXZUlwdGdNQ0FXM24xeG1lWkVrbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seagate: It's HAMR Time (NASDAQ:STX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByMWpCTFZFTUtUbWlCblJ3Zmp0NkVzenNOX2RVaGJucUdheC1sMHdQbGpnb3pWYkZndVFRSmx3UURGdXhGcFotdUJfTEh2cy1vazAzNTBzOU9nVFplR2hXYklfZmV1Q3BBRHJPM2N2cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Semiconductors Stocks Q1 In Review: Seagate Technology (NASDAQ:STX) Vs Peers - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcXNsN25SclUzaXozRHNvTTBxOU1tU3NxYTFoeE5xMmZFYTlvS3ZoZVJpOFJuQ3VidlJKNk93U1RoUW1vN0FFQXdWZnNEMTA4czFMbF9SQVNKRl9nQWpHM1d3YktYWFZ4WmtYMjVTaUFFemRfQkk0NElSSHZHanJvQXlsdTJuanRiYnk0clJPblhSZmU5NTJUTk41ZFg4NFRWVDVGLTk2Zml5ZFlRVUhoaHUwVzh6eHZiOGlaLWhjaXh2Z1ZIbGpTZ1ZnWGVmYWJFSHZqOGxFSWdULUt0ZUE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,24 +606,34 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Seagate Stock Ticks Higher After Earnings Beat. Here's Why It's This Analyst's Top Pick. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnNodnFQdjBFaS11VmswLU1IM0dYZGdUOW5CRDBfV3Bib0dxbFRxNW1WMDZHcUh4ekk3cEFiZFZKUDJ1TnM0cUpSNFhRY1VRU2R5ZkFTbUwxN0NpeGNTal84cDZvMzFHc2huVTNhRWJQME5mOUowWVJIQlhBUG5jVkVVd01wZjQtVkJiWFJCUHVfSnJSaVpZUlBn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seagate Tech Holdings (STX): Analyst Raises Price Target to $145 | STX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3JmNDZKTTA1Q1dSX21paWdPdGhEQTVPOGE1MjRzLUZMdFRBdGZLUUdQb3Y4WHMxWjFTaEZOZWJhc0JFRFA5YmtyS3ZmdUdCSFQtNWdIVzZXV0VfR3lHVXRFUXBVVDRobVpiQ3pyakNjVGZTMG9ZM1l5MmRuZV9haExIRmtLM3dlVzVhdmpBVVdTTjBCMUFFVGpnajdTVS1Ld2tkWHpIOXViTXV4R3hMUWEtNG0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like Seagate Technology Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFk1UXp6V1FFdnJCOVloTml2MEVTVzM2UGx5SHJOLTVfa29BVEhZTWlBMXlMc2JDbGRZMDNzdVpmNXBoaEgwX0JaZ24tM2Z0NG53S28za3JwSGV0QVJXLWZIV29kUUxCQkU5Q2paaHRoZEpCYmUzdklvUmtKYWlmQl9pX1djdDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seagate to Reveal Strategic Vision: Executive Team Hosts Exclusive NYC Investor Update - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0lpczlFNmhuWmRweEZBbFg4akZQVWl3VFozQ2E3MWlzdXo3aFU0dW8yY1pDU21yOEZKUnVFU2ctYVdUUFFsdmdTX1FOU0xxUDRmVVYyeTN1TWF6bU5yVVRzMUlNd2l4akpRSm05VTFGZjlncG9jc3FqS2ZkMGFoS0ZjOWUxcHhLb2x1bWdSdWppYndxM2FIellRV09XdFo0TU45SlpCeXZlQXJ5NE5fSmZMMXJmR21k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Seagate Technology Holdings plc (STX) the Undervalued Quantum Computing Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm1MdlVYOXNSRjNXa3MtQ3owWjJTSnpTcS1ZaDg0c3d6Rmd1SkVaSnRFWkxaOTJCb1MzU0VGWXFpUGRYSGhoLWpvVWVRTm5CdFI4UE9iRl9kNDREWkRWSEJXWmI2LU9KX0lTZ1YteEZyV1ZZbVZjd29fQ29GLW9sb0Q2cGRlMmFv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Seagate Technology Holdings plc (STX): Among the Cheap ESG Stocks to Buy According to Hedge Funds - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ19VYlZleUp3VVRUVThiSE9ZVzdCZkpxZ3U2ZkJqcmlSWnY1WkpuNmZwUkZMUWZVTm8tZC1WaUtaZC1WUXNRR3ZsQkpYQWUwQWRteFEwc0JDejEydUR2SW4zZUd4cmhBRl9NYkpDYVVvel80Y2lfTjhxc3hFMXdoMm9rUmZ4WVB5?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "STX Q1 Earnings Call: Cloud Demand and Technology Transition Drive Seagate’s Outperformance - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeEpaT2ozZ3c4WFNkVlZZQ20wbFVGdE5QaWxqcTYyMV9XM2JYU0h2Z2xDWUxrTW52aUhtOEtvdkJLQ2UxaUJHd215VHV4blVqRDlZcFc3ZTdnTEdCSGI1dlc2akhscXB0SHAzRnQ2RExUQzBBa0dLcV9LQTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Seagate Technology Holdings (STX): Among Overlooked Tech Stocks to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlQ3NjJXQzZnZHZOVUppX1c0TGlxVWE3eDBRdUxpWGtMZ3BRTmpqTWtBZ3hjSEJZM3oycmNvaWUxejk3eGVoRUFvMURZRXZNRGxtUnFKYXZieFI2clpqNDU5OExSSU9VMXdwZTJTWXY4ckdjOUtieTAtRHN0V1NhTGlXTnRwRWF0NW1V?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Seagate (STX) Up 28.9% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iZTJ0T0tpczkzbWR5bVZETVM5dEdfV0dOcHYtSUtOU2NRQ015U0R3UmZ5c3NGdW1DQVE3cHJqN3NwUnR5S0EzY1dwMm5qOVk3cy1aVHhibkFFR0FMNFRwbFM3aU44SUExa1FlT2JVY1ZYc2N3?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Seagate Technology Holdings plc (STX): Among the Large-Cap Stocks Insiders and Short Sellers Are Dumping Like Crazy - Yahoo Finance",
@@ -646,16 +641,21 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Seagate Stock Ticks Higher After Earnings Beat. Here's Why It's This Analyst's Top Pick. - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnNodnFQdjBFaS11VmswLU1IM0dYZGdUOW5CRDBfV3Bib0dxbFRxNW1WMDZHcUh4ekk3cEFiZFZKUDJ1TnM0cUpSNFhRY1VRU2R5ZkFTbUwxN0NpeGNTal84cDZvMzFHc2huVTNhRWJQME5mOUowWVJIQlhBUG5jVkVVd01wZjQtVkJiWFJCUHVfSnJSaVpZUlBn?oc=5",
+        "title": "Is Seagate Technology Holdings plc (STX) The Best Cheap Tech Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTE4azRZWkdBYjJVc0ZJMmJFV1NycFJvc1R1UUQ1YW9uN2FTOG5vcTByQnV3Vk50SzJsYlJkZ0d0bExodDRKa0JaS3ZRWlBDRjdnUHU3YUdrUjR2RjFOS1o2ZXpTR25zRDMySXJQaVl4VXl5UWNMUUZ4NWZ6R0NmNXFNTnVhQkIz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Seagate Technology Holdings plc (STX): Among Steven Cohen’s Mid-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHVEcWpOb2NCWURLbmhxVU5LcnU0Zml3MW45NGRqOVJYQVp3M2xJeWQyYUtSRzZCN2VBcHJCeEhIOWxJVndQbFZySHItSm1FZUZka19idnA4NGZEd3lFUVRSVGJUeDZhSFdsM0lUbUxxRTVwSDQybTlEajRoYXAtRUNGTUpnaFhY?oc=5",
+        "title": "Seagate Stock Soars to ATH of $130.05: Will STX Target Price Reach $145.00? - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkMyNkswZ2JNMWZCc0NRWkhDcHZUeWt3WERyTENjZ0ppTGJsWXJfVXR6TldQZWR6dzhTT2dlVGNhT280MlowQzhQWUtfcFVpbDVzM0pkQXBLNnFFeHVuQkJRX2kyQ0R1ckVJNG4xZE5faVVOajVfd1ZlUVc2bXFjMUp5UktQWTBkam9mLWFrNGc3Uk0yREpES1pZWTI1UG9RQUNLN25MRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seagate Announces $400.0 Million Senior Unsecured Notes Offering - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndoRnlTYnI0dHFiTlBUM3VQaEJfZXh2Mjc2ZUk3ejJmcHdMOHFJSEs0ZWl0MXFhbjBrVzMyTENMZ3FTNW1LUU1hdmdSaGJ1VVh6LUszck5KNmxuZERNcUJVVlZIWGlJTGxSTEhLMGFqQ2txNmdLM01RUnJOQURSRXE4akEzMWtzVjYzVzJqRDEwV1VrRkM3ODRaa2hhdXh4ZEI3TV90cHhJWmtM?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

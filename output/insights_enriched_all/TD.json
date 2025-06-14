@@ -2,16 +2,16 @@
   "ticker": "TD",
   "name": "Toronto Dominion Bank (The)",
   "sector": "Financial Services",
-  "market_cap": 121004220416.0,
+  "market_cap": 121658761216.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.007123,
-    "PB": 0.9885455,
-    "EV_Revenue": -0.363,
+    "PE": 10.018439,
+    "PB": 0.9938927,
+    "EV_Revenue": -0.34,
     "ROE": 0.14597,
     "ProfitMargin": 0.27929002,
     "GrossMargin": 0.0,
-    "DividendYield": 4.31,
+    "DividendYield": 4.27,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 80.93123674958665,
-    "Momentum_10": 4.929056313936779,
-    "MACD": 2.0270657945067967,
-    "BB_Percent": 0.8496418422239872,
+    "RSI_14": 74.4680756618641,
+    "Momentum_10": 2.288188460289915,
+    "MACD": 1.8840235217199108,
+    "BB_Percent": 0.7524618507168785,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9361068155706336,
-    "QualityScore": 0.3211581780895886,
-    "SignalScore": 0.3501531428642555
+    "ValueScore": 0.8979962973168298,
+    "QualityScore": 0.3303603822569005,
+    "SignalScore": 0.4467381569829597
   },
-  "volatility": 0.0111043229781542,
+  "volatility": 0.0111054524401901,
   "beta": 0.993,
-  "return_6m": 0.3703129090245349,
+  "return_6m": 0.3443493339291041,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
-    "target_mean_price": 70.80717
+    "target_mean_price": 71.327545
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 52.65
-      },
-      {
-        "date": "2024-12-10",
-        "price": 53.11
-      },
-      {
-        "date": "2024-12-11",
-        "price": 53.49
-      },
-      {
-        "date": "2024-12-12",
-        "price": 53.46
-      },
-      {
-        "date": "2024-12-13",
-        "price": 53.25
-      },
       {
         "date": "2024-12-16",
         "price": 53.1
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 70.39
+      },
+      {
+        "date": "2025-06-09",
+        "price": 70.09
+      },
+      {
+        "date": "2025-06-10",
+        "price": 70.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 70.26
+      },
+      {
+        "date": "2025-06-12",
+        "price": 70.78
+      },
+      {
+        "date": "2025-06-13",
+        "price": 70.8
       }
     ],
     "current_price_data": {
-      "price": 70.39,
-      "change": 0.43,
-      "percent_change": 0.61
+      "price": 70.8,
+      "change": 0.02,
+      "percent_change": 0.03
     }
   },
   "news_sentiment": {
-    "summary": "L'analyse des actualités récentes révèle des tendances contrastées pour diverses sociétés. TD Securities prévoit une appréciation des actions de Transcontinental et de Revolve Group, tandis que CIBC anticipe une hausse du prix des actions de Toronto-Dominion Bank. En revanche, TD Cowen a revu à la baisse les objectifs de prix pour certaines entreprises telles qu'Eli Lilly et Braze, tout en maintenant des prévisions optimistes pour des acteurs comme Apple et Snowflake. Ces ajustements de cibles reflètent une perception divergente des performances potentielles des entreprises, influençant ainsi le sentiment du marché sur ces titres.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.05,
+    "summary": "L'actualité récente met en lumière le TD Bank, avec des signaux positifs tels qu'une surperformance par rapport à ses pairs, des prévisions optimistes de Barclays et une augmentation des dividendes déclarée, soulignant une croissance solide. Cependant, des coûts élevés ont impacté les résultats du deuxième trimestre, bien que le plan de restructuration annoncé ait été bien accueilli par les investisseurs. Les analystes maintiennent des perspectives favorables pour des titres comme AMD et STMicroelectronics, tandis que des ajustements de prix cibles ont été observés pour des entreprises comme Home Depot et J.M. Smucker. Ces événements, combinés à des recommandations d'achat et de surpondération de grandes institutions financières, suggèrent un climat d'investissement diversifié et dynamique pour les investisseurs francophones.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Toronto-Dominion Bank (TSE:TD) Stock Crosses Above 200-Day Moving Average - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdzItVGtJYThZYnJrV1p5c3FGWmdZejJHbUF2VVBrbWNuU2FIMG5JZHMzb3piY25yR3JBR0d0aTBYT3c3M1dCYVlQVVJFVkx2VXU2UHVyTnRST1UwU3VNN3JmbDZvRUVWbnowUFVRbTJZOVZPSHFyNlJ1SnVXbXVoMWl5bGhIekNLTVRCNDYxMUZ6ODFtUko5R3FNakFXX25QeFlRYmMxSTJaSnk2UmFMRlBtU1pnaXVyN0tmSEJGRWM0Z3FXQVV6Zk1PVHN1OTk2MEVYbWxWMFhuVGZPMmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TD Cowen maintains Tesla stock rating, affirms $330 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzNMSDVSZ05LaTZ2Y01GcVlZd1ptajBETUE4ZmhtN0JpWXctZFZBcjZaT2taVXRzS2VZTVFBX2pSZ25sLVg0YmlHN05mMDZJd0FOcUZ1dW16UWRNRVhMSUZlbi1lakNSb0xmZUZFem82b21GbDJlRzlhYncwQUNzYnJDMVJzbnkxODYtT1ZCaFZkWjM3c0RGWnhZVkVlV05MUU9lUGJ2eGVnNm1IbzZFVVhCM3JfWWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Chewy (CHWY) Target Price Increased by TD Cowen Analyst | CHWY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXFiM1FmanZ4SF94LWdCb2VvdzVlNEp2VHROVnVUZ09WX21UbjA0UHBnQ3RhUDJ4UDBQdlVBWlVfY0hwVk03T2NwRFZmTy1DZGtEXzd5TVpDX1RmQllCX2hPYXBDUklrbHRhOEJLODVRMWtRdVljZlp1QkhPZk4ycG82SVlwMVp2UFpibnNmYlFFc1VtRWszb2lUcmE4YlVXa1k3TmdNLUduQVpm?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto-Dominion Bank (TD) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnMyYVZLMHFoSDFWVW1zcXYyTkk5NDI2RjQ1d2JxVkxSUjJTOUtIUi1ETzBtOW9TczJ2S2RLRkpHaVh0aXEwTU1mLTNsbkoxSlJpdV94ZXBZSGQ0dlY0N0VLekFhQkRwTkFZdmtLaEpJT2hUMWQ5Uy1IZW40ZFoxVGYtbnhkUQ?oc=5",
+        "title": "Big Comeback: This Big Bank Stock is Outperforming Its Peers - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWxvMWZnQjNVejlUM3c0TEh1elpqVDFoclRUdnVIVl9kWmp1X3VNcUtjQXdoYjVObFlLVWNQRVB3QUhIOVRJRzdhQ1BBMUwxVE9DaWh2cnB5Y3Z3ZWFLeGVPTlhvV2FkUzE2V2N4TEhiQlJmcDk0VFNGczBsb0s0cnlB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD Securities Forecasts Strong Price Appreciation for Transcontinental (TSE:TCL.A) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVVEWldqZjZhR0x4SEd4UmlHbG5rWW5lUnhmQzh5cktlYWdEWTRoS1lvcTdUT3V5bkI1V1RSdllKWTR5TnI1b0lwUEo5N1lOMUZpWnN2T2dGeVh1aF9qdVFYMW1nelkwemtaZWRmcnA0d1NNRkU2RTlMcjY4a0ZLV1RFZW9Jdk9VMmtQeTN0T1M1QVJseGN3U1A3dVZUbnNWbjlkbzVDdHNpTU5fdFZ2VnJEQ2c4QnB2YTZNSGRJVDZMMk55RXRCWU05bzZhTGtla21NRw?oc=5",
+        "title": "Starbucks stock holds steady as TD Cowen maintains $90 price target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFNnUE1HS3E2dUhBR2MwbkJfNDRFZUViLU9WTWhibk5kWGlEZGhoNzlNcTdmc2F3Z1RvZWRZTXJFOXZaZ1pNenl2QzYzVGlMcGVVU3hQVHlKZENaaHQ4NHFFOG5FWUNzdnAyMGI2dGVyRkJZRGIycHNPdUQwR3BQSEJhdkcwWnJ0STJ4YnoyMmZfaG1SLXYtQjJ0VGlzUy1xRGdXdVA1Q1VoRW5kZlh2UUloX1V3QU5kRkV3WGRmZzlzR2Z6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(06/13/25) TD: A Canadian Bank Stock with Powerful Technical Momentum - moneyshow.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnB6TEVXcTA4TUt5YWlhT0dlQllJQUlvaHcyUDdER0tmeHc1SnBOalVJcVNrN21jbms2eEotTEVVMHNUbTE2aFNTNkh4Y0diNkMyZTNueXNINDJmaWZxdFE3NWxuVnB0bzRNdnhWVTlUSk5JeVc3dWJMYlFXVlhHelIwcC1kSk81NzBIaFczOEZjb1ByOEExNUdZOUpZV1hvSnV4dTZrRjhQeG90TFVqSA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD Cowen maintains buy rating on Tempus AI stock after short report - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZG1meU51N0JVOGZSQkhpRDZEUnVvMkJMMV9sMVdjMEZkVGxIV0s3TUxMaE1tdzJ4TGVoTHp4ZmJXekhDYm5vOTZkdjk5d2FZQVJGZmlJb0dBZjZsUVFvUFNLQ09YV3RIa0RZeTRvTVRDaU83dU9nR0RsZ3hBVkY3a2dIeUhQd2IwUDJTd2hlNTUtcDJHZFRHQUpRZVllYTNEZHdic0Z1dkY1NGNSTkZpYndXbWpRblZSU1drU2U2ZFUwY29pX0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "A Look Back at IT Distribution & Solutions Stocks’ Q1 Earnings: TD SYNNEX (NYSE:SNX) Vs The Rest Of The Pack - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWNoLXNLTkxFZUZuSk83YXBjOHptVGcyNUU3TS1lWlJmMXdRUFpoLXlURW52SGh1eUpIT3NscFhQd2UwWTZDQ1lxZkZPSlItSjZpZUh5QUplMnZ4eElGelg1b2xBUkdReXhzeWJINHhNVkszVjUxU21XWWh2RTVrMjVWUWZuZDFzY3U0LXRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Revolve Group (RVLV) Price Target Raised by TD Cowen Amid Market Volatility | RVLV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1ZQeGVRMUZndjZ5TV9qQ3Z1eVhTMW5GVG0xSjgzLU1hbHhFV2QwYnYxc3R5V2FhMDFIelQ2djROZ2RxUnhqa25ZZGFrTzJJQmdmWlh2VmFva1EzdmlqT0VQX0dBZ1g4WTctemxrWndHaG4xN1ZvRm9hdHZOTGlqQWpUVW5oUm5iNnBDcFRwd0d0NVVYTURIa1RES1g4dGJmcG1oZ3ZqTmZWM0xzVkM3Z3hRYW1YOW5TaU5QMkd2VmkxYWlMWURF?oc=5",
+        "title": "Barclays Issues Positive Forecast for Toronto-Dominion Bank (TSE:TD) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmZNaXJOQk4zLXZldUptcjVXd3owdG5CN1JhWXpsOWVRZXZxTlAxTlRKbkkwT0ZjazViQkdPeF9zalhTakk0VkRseDNGaEk3dlRKRGR4Z3lIMUpneDZQZVNSR2hLRFFkazdlYmJiM2V2V3NGcGlnellaNmxKOHJCMW9pU0E0OGszdVlPb2dlLUltSFNlUFg0TG1tanRnYzlZNVYxZU16RGpoY3lTcHJZ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Toronto-Dominion Bank (TSE:TD) Stock Price Expected to Rise, CIBC Analyst Says - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0dtYU1ydF94SHlXSUJvZHZpYk1xa2R3QnB4R29uVjVPcGpsQnpESUotTEZTeHVDUDJYa09OaHZFVk1fYm5OUlFtOHR2Ujh0dzdTdVBYRV91ZXVCZ3o2VW1Wa1ExQ1FXbkJaNFV6c3pPYXJVNWs5b2tLN0IzWENwNTFDWHlnbUFkc3JJbnFlcnpFeUw5UXM1SnR2MVU1TkFWYkREYlhHamlOTENmMTItQTEybGdOcUN4VmNjaFBCMExMWnJsZzNr?oc=5",
+        "title": "TD Bank Named the Official Bank of the Connecticut Sun - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkFmTC1ITVVKVk42bzJ3Z3lIOEJ4bUtqdkFZMTdOSlJxREJjTFMyWjYwWC1oWTI5RDRneWFwSDlTVUZZOUFFandmc1VRbGdHUHpkMHVtVFBnZDQzQ0l0MFB3NkViTFBpYzdCU3NBZ0RVUTdxQzd5Q24taEFxbUdWd3pxeGFOLWo4NGYtbmpKdk9BS09fd1FZMnliYXlKQ1pZQnBNa2llcVVvUHJoMzVhaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Synnex Stock: A Deep Dive Into Analyst Perspectives (11 Ratings) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUstS2ozcHFlVE5yR3l3cFB1ZktSWVB0cVRncjQwMUxZWXhWMXB3X2YwMjdRSVNTVFBmdmlTN0Y4UXhJZjBldWQtM2UxZUVaWkFJaDRwWG4zNjdDVm1lVUVmYUdiVl8tOE1seUdhZlNQbFVFVVFIM05DTERvTXZsUEJRbGVXQjhOT0VBMlNMM3MzQWNrVXRrQ2FwZk9JdTRyWk5nbmlPSTZaSTEtVmlIY3dET25sUHNmd3FqUm41YXBPelJjblNPSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD SYNNEX Co Sees Stake Boost Amid Sector Growth Trends S&P 500 - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHNvaTd0cWZXMlVrcjd2MDQ2cWxLNHlqLVYtTDhkMzZkX3N5UXdLa19KWWtIdkZaa2pnVnlGSTV0QW1fLXJlNDUyR0pmVlYyRUExQl9XQUJ5X0w5ZXhvQWdKc19rMnNuV1JIUmV2TDdob2M2NFVXVUllX0RtM09LNzJ3VUxwNlVCWE5sV01zYkF6dERqMi1jb2VENGJuVkNDQkVRMTdpMDIxck81?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD Cowen raises ServiceTitan stock price target to $145 on strong growth - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObC00cG5CcHJraVY3Y2xMLUtLa0VtdVRxUTJiUUIxUEp4aVROOFd1d3dCckF2TG1Rby1VR2tzbWFCazA2NW5ZMEw0T1lPcm9DeWdqT19tM3FuV1dmYnl6SzU1Z1BFWlZQc3dYcVR6WTRTMFBzOEV5VDhWOVJfaUhFSlZVOFNTSTR0WDFEQnpST1NoOXk4aHFXNWRGdDF3QlZLdXRrYk9rX3QyOWRjVHplSGFmazU5UlVmaWVjb3puc1BPZl9wYURDRWpR?oc=5",
+        "title": "TD Bank Beats Q2 Earnings, Pledges More Buybacks (Rating Upgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmMzYU5kOUlOQWxtTi1qeWFSLU9wV2dZWktLMkptX2dOMmFlNUZjaEUxS01LQXMyYXBrM0FEek9aR0FyQmxVUS1KSTI1RkVtZTBtVzRtSG5DQTFoa3F4OEVucEllX3NVV0ktcmt5MVFEZUw5MzB2SUdCS2NyTU82Yk1SQnhXRHA3QU11Z051UThLcDl4enlkcVpzZEdrNzZKdkl2YUVB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Home Depot stock price target maintained at $470 by TD Cowen - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3IyODF1cEUwbmVDMjc0SUtWZTVJM2VjS1pIb2IxbzJzWllTTmk5Z1l6ek4xdWswVk5idEpJT3JpMFBockZNTjEwMmt1bDIxdzBKZ25HOHlHaG1iajZ3MURRUHIySkxNcW9Fb2tPSHU3MGlBZzFCbGNITXl3UkpZRzZZZG1UdWYxWUViSXB2WGRRcFBVTlh1emRHdUxoNUVLQ3RnU3lRU0k4ODB0V3VycEhpYWtCSXNQR2tJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen lowers Eli Lilly stock price target to $960 from $1,050 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnA4N3Bzem1sUDNlNzZSdDdsa0h5VTdkTldST2ZqV2xnSlduRHJtNmctVHA2NnNBclkzNmRrM3k1Ylh2VkVEcVBGX2hqOWtGQXNqWUxrMzBRRjJ1UUJkSFFxbGN5U0o2bjU3RFpybW1nMi13LXRCMVVFeUZVTFJyWjg4ZlIxOHFrMERHZzhsM05xa05BZllmSy0yVi1YUDVRc0dxUmdOeDV4bzVVNlBPRGVJTm1TdUppSndMenlR?oc=5",
-        "label": "NEUTRAL"
+        "title": "Toronto-Dominion Bank (TSX:TD) Declares Dividends; Reports Strong Earnings Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KU2M0cENVYmpVR21JZEpxaWx2MFFiSzJrWUpOcV9pcWt2R3JRR2NjVmRWN1NmMWFDNzRBMVFxWnBIZ200TnQzUXdrMTFwdFI4dFFpa21xRlN5VFZhcXkxR25JNHBqbVgtam4zLTB2cWVTSUhKanl3cmhUUWgxenc?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "TD Cowen raises Broadcom stock price target to $290 on AI growth - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHVkWnpuWXlZaFRfaklHMm1ub2tEdURudTRLdy0zMy0zU3UxUktJamI4Vk1YcFNZbU5wbFBfYjc5UnZ5NWtGV095RUxtdHBjcTZZdzA0SmswUzloYWY1WVFybWpmWThPR0hkcDBLS2ExaHRJdnFHMHpUVXVZVGpzeFRiSEJPYjFlUFdidGtkN21KR1NYQTdSRFkyTWQzblY1Vkg0ZGZmdDlHcl9VRjVQNVJvS01nV2JVaTNyLWFMaw?oc=5",
-        "label": "NEUTRAL"
+        "title": "TD Cowen Raises STMicroelectronics (NYSE:STM) Price Target to $30.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1hqVGh6LU9GdDFTSUpYaUZma09xSVhKdlFaZ3VGQ0hySU9wOWYycG13QlNJX3JRN3pPZHNhanM4RFRFblZIT0I5ZHZlTWRXRjBtT3FDTVVwOUpBYXZydWdqSW5HeFBqR0Z2WjZRNFl0eVhBSDBjWkFkNEVCRGV3U2Rtb3d1UFF0VlNISWE3by1ta1JPaFdJODlGUVhhaGF0OGxkaEwzekt3dGZxU01Sam5hYm5MRzRf?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "TD Cowen lowers GitLab stock price target citing sector pressures By Investing.com - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjhTMk1kaWxWeXhGQlJ1a293QUQ3LTBEdWhtYWZzc2xHMTdvMUlqdzVwazh6WXBPT0VSa0JQazQ3WXVTVS1JMTdkX2tGWHpPblM3R3lXeGFxTEFJVmJyQmFUM3FpSFNYZ2NycTRGUzJ1QVdfeFU3a0RuTjJjaUhyZjhkaDB2WW1VcmlsSDR6aDdNakpVNTFGVng5NHdvVWstSDMxREVsREZUYXJDZGhTRkJIdm5QMEZubnN6N0lES1JoZw?oc=5",
+        "title": "TD Synnex’s SWOT analysis: IT distributor’s stock faces mixed outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWNMZGxmOWcyWjZlY184RWhzMXYwMmtJWVUzZU9qZGlmTE9kbEFMUmlQdnZWR2wxcUJmTzVCdWVfVndzdjJUOEN5aUNEMUtWWnVuc0ZtLUlaNk1KUHVTMHJNWjBGVXdZYlBhdVpmaFJoOUZzRTVvT2t0MW9PcE0wNzRyZm90R05JUEFRSUZwX3llV3lXTDI1bHpCQ0NzV3c3S0JkeFB0eVowWjJacFFhX05BTXA4MmVkWlZ0MTk3NlJadw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "TD Cowen lowers Braze stock price target to $43 citing revenue concerns - Investing.com Australia",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3Q4elVOdm1ObDRZbG85TFFFeEJ2MFh2WC1IQVNJLXFsRG5vTXJzaldkM1duWi15TmdNSGhuRjVkc055SnlfS2NrazdUYmpLUTVobU1tSlpCaV9aRTZKaXpVU3ZJcU1qLXRHVkIwTFlQUGRqVVlfZ21zX0RFSm4xV0JGcGFjekFwelFjZU5POXRDUDIzOXBWZ0h5N2d6MzJKR04yLXI3YVd6aUw5d1IwcWNDWDFFZkxJWGFQZ1NhSVM2bjlkQlRpcg?oc=5",
+        "title": "TD's High Costs Hurt Q2 Results, Restructuring Plan Revealed, Stock Up - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMjhMNE9WelVDcU5xWWlfSWlTbEh4UjRPa3pXMnBkRG14UmpJNHItY3NZaXpQODc0TlRuYkt3T2tHTDByWGJMWVpubWhydl9CSV9jYnJJajlJZmE1d2VRdHVubllZaUdNZjBZQmx3bmVQYl9IWllj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Morgan Stanley initiates overweight rating on TD Synnex stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3ZhMVlWM0t3WXJ4czVkdVNOZHRWdlFBamMzRWd1bzFhQTVnWEMyb0UzbjRvTU9MVVJkem5Hdy0tZ1NTYmJkX19PRWh6cGl5bC1MOVdiYjgwMVgtTXJ4b2tUWmlSdVM2czZXMU1wM0pVZ0lSYkhBVVI4cV9SWm4zaXZjbDZmUWNPdGtoLThfTGlONGVuNVpEeC1Wa0dsQ2ZWcGVxQ2d6bmVDNmFWRXF4VWc0M2F4MUd1Y0ZQRTZB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen maintains Hold rating on UnitedHealth stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjFQdkUyYnRzRUFFbzlSbTJIWHVlbk5WSzJmb19KWmdCWjJJcU1UY2VIOHIxMl9CYzJxVHRudm5idzFiNmFiRWtySWFXVDROQzBVNGpwZHpXeWR2MkVjVU42b3BqV2pQM1Q1TlNmYXQyU3NhWlVhT0pycll4NHZKd0xHUkRjeHlXNjNMWmpDeDBUa0Q4aWp5MEcwWHlzNDBzXzJoYUh5WmdDeENuZEg4Tkx3?oc=5",
+        "title": "Want Decades of Passive Income? 2 Stocks to Buy Right Now - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1FXdWItRWdkWF82M2l2VHVMWVJvX3lkTUo2WDVYNkExWUFxdTdKMnNTTUw2ZlJteDV0RzdTQUl2NkhJY3A0MGJSSFFPSEpnNGI3bkxqZm96a09nR2Q5NkxndWVkVzB5aWM0TG5zMVE5M29ZTl92M1haend3MUJmVmlLNGQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen raises Casella Waste Systems stock price target to $135 - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWQxakIyejkxNmlIc1NhbWdVYVVoRU9GbjdKR0Rkdm91MXk3X2ItOTNnVU9xMWV6dFdfRlNfamJZdC1IU1JLZi01bkduMk84LUdhSjBFTTZsWWh3YTVsWVoyTFRTRDFtMDlSUmNkd29id2M0OUpELVZxaHZYWWhMREVNQmJRNmh1RUR3MXFfaE5FOWxLYWo4ZTVjOTRmYUtfX0JRNTE5S3ZyTHdfRHpaVmxjWk5Cdk5ldU5vcEtwYw?oc=5",
+        "title": "AMD stock rating reiterated at Buy by TD Cowen on AI progress - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQk5HRk1fQUJWR3dYWFlGbnNqanI4NEx6MjM1QWpzaGhRVFlrV05IQkVzQXpkRzYyaTdZOVMybE5XQjFpRWdjS0ZuNVJfMVpNSVhsd09xdTVmOE1qekpGWXlDS3RlX28wTElOQmFlZzZUVWtNLUVSTDdhTF9WSzBRUkViVGVYRjlXR1JtZTZRRmYzWnVBanprcW9ZSHhBNXBFMldvZHFZWFEzNHZXdWRUYVEydDlHRElXX3dtYg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen raises Chewy stock price target citing strong sales growth - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU05BVE1MY1JYV095RDRaSHdOWUFtMHdOR01OVW1EdlNucWdvS2JvaHdFX0hTRnFhYWdwUlFib0ZqXzdFVS1ZX0c4OFdEdU9RRnkyN3NLSXFQRmpLQ0o0TEh2R3VhTktyeEwyem5RYmlxazl4YzV2d0N4TzhLaVBHYlZCUWlnUUtrZnhpbU1IZ1NqblAwMjZiUmFabGgzS0pXWElQWV8wMDkwWHlkLWdURnlRS01QZDBKYzJVX0dFMC1RaXo0?oc=5",
+        "title": "TD Bank’s better-than-expected quarter points to possible earnings upside for other banks: Analyst - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV1RYNXBjSndfNDZkUE9reUdlMHR2OENhelI5WlpJUlhlekdZR0xySHNuTlVvbWdBeEprTjhlbXBwTmk2dnYtVzNJYi1ic3hQVnpYaDRTZWZERi1EcDFHMDIxRmxocEJYQ0Yyem5xQnp5VmF2TndFNDNsTmEwYWQzdjFKTFk2aFVmdFByS0V4OFpCYk9GN2gwUTczS25PazAwMkpIVjMzY09QTkdmWHNBNEpBWW1reWw2M3loNXpZTklPUEZiVE1zbkN2aks2WXFOa3NxT1hPYjBRRk42Wmc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD Cowen reiterates Buy rating for Apple stock with $275 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHRpaEJtWW90aUdPZThQR2I3R3AzX0U5eHpMX3FtLVNVMTg4dFNDeDVOblk1VXFXcVZlMXU4YlRnbzk4NVFYRzhQMEk4eUpRYzJyNTlHTmtrLXV3TnFPbUgxODFBQ1BkdVFGRGVidEdKZjZkWklnZTFfcHZWZC03MTNWX3RQLU84cTlzMElaVjRCbW5pMkhpcXVWMjJ6anJzWGlqUnRveUtqS2tmNE1ZZUFibjNqZ20yNDdMbThZZw?oc=5",
+        "title": "TD Cowen reiterates JPMorgan stock rating, citing growth momentum - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWJBajZfVkd3YmY5TTBET2Yxa1NZWTRQYTFRTkVRalVzWF9keWVEd0lfMm5wNU9hUms5Q1hVbVJ6X2pwNWdVdHF3TVRTUHFJSnVDTmxxUE5BZVFxdkJKUXcwVmg4ajJSQmQyLTR0WWE0NkkyelZFdlFHV0EtVmhmTjFiOWxZT1ZTa0k5WlpzSHlFTHpoUkhYejhMV0lNcVhMeUNuNzBURkxiNXBqN2h2cGhWM1BxSy14LVhTVEttM3FFdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen raises Snowflake stock price target to $240 on AI advancements - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSV9BUmRISW5jeV9RVnFKanFhdDR6VzkxanZmWUdLcXo4U2xNMlNYQ2daU0gyV3hHNEs3Y3BoVnpJUFRVa3JNVE9rdHd5bmlhNU5jUTRHbEVGTGJxYVdmX0xQRnBZVDhubFNBQ2RxZjhGdTJBQ0NHVUk1UVNULTJIcTR4anlLNjFYa3FUbFVUVzd1U08xZFBNajZCWEdyd3hvdFVkX25sNC1PTHVoeExwb3VHWE9CTEV4ZUdmZEdwd3JzSzVOTHZmUFF3?oc=5",
+        "title": "TD Cowen maintains Pepsico stock rating, notes Frito-Lay sales dip - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdS1CZEJTbHU1QW0tbjJPZVpYeFNsWlNZUVBxYXV1M1VJOTRjamJtSll5a2kyUjlBaFFGYkNvbkZndS1VRTJVQlhtNmRySTh4ZjhZN0lSOEhUOFVwUnllaDRyVkd0VEtWOXJQSFdrbTJhZWN5SkwxUHFPQmZ5N1FlZEVGUDFod1B6R195ZHFnS2RySGtTenF4YU5OTy1sTHhGaU43VGgzMWVoNjAzWV9JVHpaWjRhMmlaYnkzY2xqTkpFZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Cowen raises CrowdStrike stock price target to $500 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTExaUJGT3dmSU1wS3dLcjZCc2QtNkp2UXFXV3NjTFliNzQ0ZE9ndTdDWmdBNGlCcnBXS3VJbzRjTkhGeFhvdS1nQ24tNlFra01MQmlCTkxicnBzUkM0UkNxVE1TOUFja1RWbFNMb2RnbGRzclgwX09haVVlX2MzSGdvcmZpRzdPU01jMGZkVHQwYldMb3hKUHRWX0VIQTd6S2poQy1OMGxjZGYwZGpLS3FYYw?oc=5",
-        "label": "NEUTRAL"
+        "title": "J.M. Smucker stock falls as TD Cowen cuts price target on weak guidance - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjZ0OGluMWxKeFVCbDFKYkFjeEhmX2NSMUJUdzRYZWY1OTdHQThvSXdTTklZNzhVZlZjQWwyMkxhNUtOcGdGTi03TmVRLW9WN0lUeVhLR2NwMHhpcG03YktqQ09QQlpyYWNMVmlBQjByQ0VTWXBRMDk5bW1rQV95NjNPT3VMNGNNd0JVSXBOSW1VX3pndU9NYndhSnNWZUtIZDdGOWNXLUF6U1BraVRpTGVVUV85S3BRbUFvck9aX3lxMDNhRk51UA?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

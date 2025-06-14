@@ -2,16 +2,16 @@
   "ticker": "WRB",
   "name": "W. R. Berkley Corporation",
   "sector": "Financials",
-  "market_cap": 28110278656.0,
+  "market_cap": 27848525824.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.192575,
-    "PB": 3.1531913,
-    "EV_Revenue": 2.05,
+    "PE": 17.032484,
+    "PB": 3.1238298,
+    "EV_Revenue": 2.047,
     "ROE": 0.20686,
     "ProfitMargin": 0.12429,
     "GrossMargin": 0.43358,
-    "DividendYield": 0.43,
+    "DividendYield": 0.49,
     "DebtEquity": 34.344,
     "CurrentRatio": 0.385,
     "QuickRatio": 0.22,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.265410160827376,
     "ROA": 0.03687,
     "PEG": null,
-    "EV_EBITDA": 11.895,
+    "EV_EBITDA": 11.883,
     "BuybackYield": null,
-    "PriceToFCF": 7.615854972509591
+    "PriceToFCF": 7.520425443516556
   },
   "technical_indicators": {
-    "RSI_14": 57.681503895520514,
-    "Momentum_10": 2.6388678693328576,
-    "MACD": 0.9813266699573688,
-    "BB_Percent": 0.6745793054613852,
+    "RSI_14": 52.449896378711806,
+    "Momentum_10": -1.848307334760129,
+    "MACD": 0.4496205851163353,
+    "BB_Percent": 0.4238614868314214,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9326807723309848,
+    "ValueScore": 0.8907814303891664,
     "QualityScore": 0.4285604014130423,
-    "SignalScore": 0.5253639150734086
+    "SignalScore": 0.5810986339540338
   },
-  "volatility": 0.0157443566584478,
+  "volatility": 0.0158724868700446,
   "beta": 0.432,
-  "return_6m": 0.1899786525283799,
+  "return_6m": 0.221389584469686,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 62.04
-      },
-      {
-        "date": "2024-12-10",
-        "price": 61.29
-      },
-      {
-        "date": "2024-12-11",
-        "price": 60.87
-      },
-      {
-        "date": "2024-12-12",
-        "price": 60.48
-      },
-      {
-        "date": "2024-12-13",
-        "price": 60.76
-      },
       {
         "date": "2024-12-16",
         "price": 59.71
@@ -537,47 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 74.22
+      },
+      {
+        "date": "2025-06-09",
+        "price": 72.74
+      },
+      {
+        "date": "2025-06-10",
+        "price": 71.8
+      },
+      {
+        "date": "2025-06-11",
+        "price": 72.39
+      },
+      {
+        "date": "2025-06-12",
+        "price": 73.79
+      },
+      {
+        "date": "2025-06-13",
+        "price": 73.29
       }
     ],
     "current_price_data": {
-      "price": 74.22,
-      "change": 0.35,
-      "percent_change": 0.47
+      "price": 73.29,
+      "change": -0.5,
+      "percent_change": -0.68
     }
   },
   "news_sentiment": {
-    "summary": "W. R. Berkley (WRB) a récemment enregistré une forte hausse de son cours à un niveau record, atteignant 64,97 $. Cette performance s'explique notamment par l'annonce de l'intention de la société japonaise MSI de prendre une participation de 15 %. Malgré des pertes liées à des catastrophes, les résultats du premier trimestre se sont révélés solides. De plus, plusieurs analystes de Wall Street restent optimistes quant à l'action de WRB, la qualifiant même de valeur sous-évaluée parmi les actions d'assurance.",
-    "sentiment_score": 0.2,
+    "summary": "W. R. Berkley Corporation a récemment attiré l'attention des investisseurs avec une série d'annonces positives. La société a déclaré une augmentation de dividende spéciale et une augmentation de dividende régulier, signalant une confiance dans sa performance future. De plus, l'investissement de MSI au Japon a propulsé le cours de l'action à un niveau record. Malgré des pertes catastrophiques, les résultats du premier trimestre solides ont renforcé la position de W. R. Berkley en tant qu'une des actions d'assurance les plus sous-évaluées à considérer actuellement.",
+    "sentiment_score": 0.4,
     "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "When (WRB) Moves Investors should Listen - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXVialVRQnlHaXBpNXJjRUxoWmlJdk5SVXpaVWN0dEZzMnptYnZQcjEyQkg5dS1MQUItLXhKM1Z1ZW1udGFxTmJpZ3RHVmVmTV9Lc3dPNjl6d0kycFRIaUhUVUFDZzFVc3RnWjY3MVRRWVRiNFpDNGRrdHp6NVU3NU1xZUxMSG5ieWZiQW02djd3UHVJQXhrYjdnYWJod1Z5THBIbjVvWnNjX3hBMU5YZzln?oc=5",
+        "title": "TKOMY vs. WRB: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DMDZkZzljZlZEN2oxbW5US2RDeVpWeXhZaUxXN0VQTmNXcDI1ZmZrdFFRWkdLWkNZNkUzZkk2UlFBLU1GUE5qcWVuQ1FDOXROUkxtVm9CNTRiNHFQUXFmZXNfSS1ORmlJTHVSTnhiMW5LbWtLMXVMc1o2cw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "W. R. Berkley Stock: Is WRB Underperforming the Financial Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR05YN3ZTYS0wejhxOXJJLWxUSmgxaUdGMm93TC1TSGRtZVllUmZkR0JybGZuTjJkVzhnQ3RxdmlyUXB3TmxWTkg1clN3R2NFWXZiQXpUN3VrRko5RV9DTG92UjRXbWhERjc5NFJ4VXVSM0didXdoVWZKd05jc1NUSkhpQno2aEpkTDlpV2s0Yw?oc=5",
-        "label": "NEGATIVE"
+        "title": "TKOMY vs. WRB: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXlSaFQwdFZFenpsUFhfdFBNMlVKLUFGYW9lWG1vLWN2VTVhM3FKVUNsYjhlYzBWbG5pdmpjUHJxNXRsWEFKT2JoY1c2MWtVbmRpM1I2R0F6VGxMVC1TZldiNmRULTBQZ3dtVHRpRWMyMnJabjNjZ3RvWVdSbXk2WXpPMHA?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "WR Berkley Stock Surges to Record High as Japan's MSI Plans to Take 15% Stake - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHNOekNSMnRZNjJqOU9EY2hlQXhHZTIzQmZFSE1NRXZ0OERLVWpHbEoxc0M2M2pXaWo5SzlhS21YNml3TzIwR3prUk9DYVNBQmRJRlRrY05tWEdTQVpBTU1YWVZfWWs3Rk1BX3k2WWEtczNhNHYzTERTTExXT2pHSUlVNWY4VFhqVzRoUENhN3FNWkZMNDdDMUJsenRqc1ZsVy1DR0J0M2d1cmJWX3JF?oc=5",
+        "title": "W. R. Berkley Holds Annual Stockholders Meeting Decisions - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVc5ck5zblpyRWlHQS0zdmR4QXRYNExJX3JORi1MRzFubGZqaFVILUU3U0VCdXY2R3V1akh6dWNza2dPeDhvN2t2Ry14SXN5cnIzZ1lTR3F2ZTdmWjVVemJyNFlQeldyeHA0VDdNV1BVNjdWMUFQXzBWOWZoZURfWFZKVUNMZEw3OEdEZnVQY2RRTmZ2TTdxN0pCei02MEJ6cVBHRHY4MF9EWHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "W. R. Berkley Corporation (WRB) Announces Key Decisions from Ann - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHAwS0lyVV93Q3Zna294VU1LYUpHdF9kb29wbm9vVWl2NXVpZUo3WGJzOTRUb1oxY1dxUV8tVGU2SXFwNEx0UEFob0lYQ2pyYjZxV1hXRlBINGRESHg1c3RRclBZSnpsaThWUmcxYmhKOUZaNDFCazItNDRRdWlKdnJGRkFiZXFqMWI2TWVlYzVfWGRoRDl0Zk5OOWdOUzl1dF9SazZSV3l3QnRPNDBzWmY5TG03UDhKRGpUaW12Z24?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "W. R. Berkley (NYSE:WRB) Announces Dividend Increase And Special Cash Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUNJbEJPd0JCNVpuelQ5d1lvSk1XMWVQSEc5LU9PVnhkSzFNOVNUVWc4eGNtVG5Uc2trRDJGeXAxTXJoRWd1alhWMkpieUVVUFl1MXR6WnFqbTdGbkdhWHZENllCTEwyTlBmcFdFUjZiOGkxWXRaRU95ZDJvNmZCWk1fVHFvSmxsVkxMVjRMNnFCSVBtcU1DejFESEY2NXlId3pZNkVTbUZIMEprNldwN1ByU0FZWS1PSV9NRjVkT0ZJQjFOZFHSAcsBQVVfeXFMUGlZU0JNbmVweVhjT0hkb2NBeHJEMjh0V1lNWmZWR2IyUFN3Q2RON19NWFg0ekoyU1hVTDJudkRDNWpkOXFMV2ZWemIyZF8zcXp5U3hZdngzdGU4dWpIb1hYVWxqdF9TYjk5VUVyRXJFY2t3LUIwQjRYbk16WFVsM3hfUmxXSXl1bTQ1VV9qMDVWTk5Nb2pIbHJpeldoanpPVURUcXcyS0hoOGMtUDBveklPd3hibFZrSUdVRXZ2NUxmZVI1WFl5VnF0bms?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TKOMY or WRB: Which Is the Better Value Stock Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jOUdIejV2V0VjNEhfNHYyRTRSanRsSWlvVXVxV1JaOERlbmR3d2NacVpmTWpsLVFWNWRvNGhGSG90TXhicUJfYkdnUlMxWjd4aTNTUGl1MU1VSzBzenlFNnZzSWFDOUZsTkVjbGlfRGRWM1ZpS3NRUllJdkZHRkE?oc=5",
-        "label": "NEUTRAL"
+        "title": "W. R. Berkley Corporation Declares Special Dividend and Increases Regular Quarterly Cash Dividend 12.5% - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX3lvRW1YcWRDUmtyak94YVhETktmaFgxV2JWRHpjTnkzMzNIRWZJdnJqTlRZMU1oS203VkJ2X2V6QkdlYlI3eEktV3A0LS11dS01UVMwUTdwVm0wUlJwZWFEc3hCZE1mM0pkM3dDQS1RdnNDV1RfZS1QNjRISWN4Z3pkcmJRMGZaOXFtZFU4S2tpV3I5SGUtUHRKRTdRcjI1emZ3MjRhN2dDVEJZeXRtQU5DWkJSMVJUQkt6bHRNRzA2UnV1dHpxSmRYMS0xMEhJZnlIRGRQbjdGSTZlOTBLUkZNRDdybjE4ZmFxdTFPRFI?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "WRB: Morgan Stanley Raises Price Target for WR Berkley | WRB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0JDaU85OHgyZWFpUHozQ3pTQWIxNGQ3NGJsMFVKb2p1SGEwbGdFXzZWcFpjYzJQM2JqTnhVUDRTbVZSV0Y0MWNRbU5rMnJsbjQ2RnFvaC1yOXJoWjA3VGFXcHVibUg2NzludjdHNG5UWV9Jemo3alBZMFZOeElmWGRJaDJCbXcwZm1WamdRbnEwNUJPejkxNHd2UnF3X2cxN3BmbmpoU1JNbG1neHpUNmVGWWE2djJXR0lDWDJGVWFYYTdVc2hLZ1BVZzl6dEVmZDJncFpfb3I2YUE?oc=5",
+        "title": "Is Wall Street Bullish or Bearish on W. R. Berkley Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWF5aVd6WEpKY2JlWHF4WDdmMlRkb1Q0MHVHcXk0RmtOT1ZLU0NqVUcxM1RhWGFiX2NCZTQwRWZjTXlKd2VydDFPR1ZGRzlELTBiM0E1bF9TTU9rMDdMX2VHUlJERFlrZU4yaHNESDcyeDZUXy1VeWtkR1E3ZjRWbzlwelg1OHVDZjRSSEMwbi1DdjFUVlhLZGk4S1N4d19wdmQzNnJ3RDhxSVlrbnhLNnRMMzZsR09tNGtwU0VpMHpsS3p6SWxSa0JOeTZUSFU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,44 +601,39 @@
         "label": "POSITIVE"
       },
       {
+        "title": "WR Berkley Stock Surges to Record High as Japan's MSI Plans to Take 15% Stake - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHNOekNSMnRZNjJqOU9EY2hlQXhHZTIzQmZFSE1NRXZ0OERLVWpHbEoxc0M2M2pXaWo5SzlhS21YNml3TzIwR3prUk9DYVNBQmRJRlRrY05tWEdTQVpBTU1YWVZfWWs3Rk1BX3k2WWEtczNhNHYzTERTTExXT2pHSUlVNWY4VFhqVzRoUENhN3FNWkZMNDdDMUJsenRqc1ZsVy1DR0J0M2d1cmJWX3JF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "W. R. Berkley: Fairly Valued After Mitsui Investment - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPanBWdU12RXlVTTNtelByWUczeE45S3U4X1hreWdla3NLd2QySmhhb3BrVHhzQzdnMDRYbl9DanNZa2hqSHNDcTNzZkJQOVpiOVBqVC15TkRzdzNDVDJ0UlJEbDluUGpsa2dCa0IzQkdFRGtLUlNwZUtMWnB6d005dzBCaXNiSFd2NE1UNWc3ZWhSc3NJUkx1Sg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Investing in W. R. Berkley (NYSE:WRB) five years ago would have delivered you a 246% gain - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkVJdWpfRlZVYS02Y1ZfQnVCMGp4QjZzWS13VXZDLXBFTEx0a2tjeHBFVHNEbm9yMWlROGtWa2VSTnhpMkdiMWJWUmx2ZWRTQU9TRGxPODFiSE15d3k1SWRSSnVSMUYySTVnNHlsRXkycGY5TktoUUVZdmxSOENlZXZvMTA1QmRRUzdMVlRFN1J2OG9SNEFNcG5EVHBGTlMyWFRyZEluYlRHTFdFS2tISHVpeFczQ0hiWGFMVXRfcVJNb1Vtdlg0aHhn0gHPAUFVX3lxTE1LSFk4TXMtS2x4RktGYkxHaXRGV1BMSlJOQWpMUl9aWGN5Rjd3YVRrVXgwZVF6bnBwR29mRWtLNlU2TWEtU0dtUWtWREI5eE9jb1NCTlRJUzVmNXNqMnFSRUgxSzA2aFRxTHhmOGVfTlhYU3RSa21ya3Y0ZzNvQ2NoaGoyYmgyYWZLdU5SQjVOSEFzaFNoRHBGLTVqS0s5M05TczQ1RHcwdEM5MGt6ZXJXU2VtOFJ5MjBGaHF2NEZxWWl5S3oyUGhxQnlaLXBRcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "W.R. Berkley Corporation (NYSE: WRB) Stock: Delivers Strong Q125 Results Despite Catastrophe Losses - CoinCentral",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQU1MNXlMZTYwVmZVbUZSNU9OeVE1bkcyLUdrMF9rZ0dJUFZqQ0psMzVndlFXeTRxb0IxZWdqWTFkX0dlUjRiQWU0eTY0SHVlT21RUFQ2eU9VU01DZUpDR2F0b2UwV0dxTFcwVjZQakdMWUtwcm1sYUhqS0ZtSGdKS2VzQi16YmxFNHdReUpDNGJYbHJxMlpVdnp1dTBfRUUyRC1jX1J6X2VucUZLZWNfcTN6LV9CYmxETjNv?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "TKOMY or WRB: Which Is the Better Value Stock Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnItS0VXXzlmNXdVOGJlUk03MVJOU3lMQmVpWXI3TnlUUzVOSDJCbkZ4c2JPa2xqUThOWkNSRFJIbGNGUVB1dnRvWmlYY0lwRFNTSS1nWnBwaW5odmdpR3RSQWVtcnNMOEIxeEh3YVgyYjhyTUFaQmVTNXdKMFFlVGlBMEdWamY4?oc=5",
+        "title": "W. R. Berkley (WRB) Announces Special Dividend and Regular Divid - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUFE3U2hPQ1Y5eWZ5Vm5oMzZyMnBNdlpCUUQ1eUhCVnIwUVd1S3Q3R3RSM2pRNUI2MWUwQlQ4Nnl2S2JkYm5SZjU5eTlFSmZTNVFjYWY1ZWU4V3lKTFV5T2dzeFlGWXd1QWdzTmVsS1NFcmg0ZmdkRWEyWGd5NGNHVG5KNlJGV05KZEIyMFpoWmtwUThQdnlqdVZCRld1c0lFSjZPc0dnTkFGN295cE93WGxkMEZNelRSU3JubE4tUHBsWlZKODlPaUNxT1A3SW11R0plcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why WR Berkley Corporation (WRB) Went Up Last Week? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlFTRUVSTU1XMFBzTjBOMWxUUjctQkN3STRlSXRwdUhFWU5iNlFqckNRdXdhOUd0NlFER0hNMXU5V0Q1a1RHRWE2d0NFaXFWVHdLNWZYRDFaNUdMY0hxSlVCRmdBbEstLVRMRVg0R2RSVktfSktwaXpXQ0pDNVp4TEpB?oc=5",
+        "title": "TKOMY or WRB: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11SnZtSVlIVi1tY05WVVFxNS0weXhZQmtOeThGc2d3bXY5QUpoQ2lKM3gtUS1maFlZc0t1U0lEVXUzaW5PSDl6OEZXakMwY2RKRTRVblVxTm5uM2RrdTlVSXNNZ1NJdmtSUXBGVFRJRG5DbzMwVVl5QnROX1VnQVU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Goldman Sachs Downgrades W. R. Berkley (WRB) with Higher Price Target | WRB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjZ4OXJQdE4yeFNZR0JwcHQwa29yZlVtS3NCQkJIcFJzVmhsSlhTbjB3ZjNfcmVKNGN3VjR5cXg1aFdNWGdoY2tOM1pxTDJPTmY5VVJzcThod293MjQ2cXpSd3A1Y0NaaGtieTdHWUIwTlBxdVdtM1RBcF9qazd2T0o4d0ZRTWJfUGZsVVZ5T3JFS2FBZG1tWk1sNmUzUjZGM05WMTlvXzFrdjQwbGpHdHVtckF5Sld6SFhwTQ?oc=5",
+        "title": "W. R. Berkley Stock: Is WRB Underperforming the Financial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR05YN3ZTYS0wejhxOXJJLWxUSmgxaUdGMm93TC1TSGRtZVllUmZkR0JybGZuTjJkVzhnQ3RxdmlyUXB3TmxWTkg1clN3R2NFWXZiQXpUN3VrRko5RV9DTG92UjRXbWhERjc5NFJ4VXVSM0didXdoVWZKd05jc1NUSkhpQno2aEpkTDlpV2s0Yw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "W.R. Berkley Gears Up to Report Q1 Earnings: What's in the Cards? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeklnYlYyVkdEYmU2UmZGTDNMVlMteklFbzZfYjFrT0diLVhCaHJVVXJzeHVkNEFiTlBfYlFXQVhGN3lrc2ZhdnpZeEhGQ1BNZklMUThfOFQyNHpnUkJNWmcwaXo3blNmSGZVVEY1X0QyT1J2ajBhZ3NtNF8wZjJYTEdWMHdjUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "W. R. Berkley Corporation Declares Special Dividend and Increases Regular Quarterly Cash Dividend 12.5% | WRB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbjItR3JtRUpSTHluUXJ6MWlYNTVhNkMyTjdKLXFOcEdsRFpOQ1NLam1VQ2ViQ3ZJYnpIdTQzeUgwWmVsbmJhTGdGRkNRUDJxWmFDblYxRnF1Y0k5RWx3YXdSdENSTTE3Z21uSTRSa0NIdTFyek9RenRyMnV6a3JRYjZ4MS1BdEZrWmxQNk0zZ1N5cW1CSXZqdEwzcGpJZTAxRTU4NHFKZUgyaUdFWDBrYnJyWTFPdEx4bDU1dkUtV1FnR182TmZHTFQwbE1tYUczMExqQ0syQUV6cEkwWGFnWU9nYU9OVlVRX1E?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "TKOMY vs. WRB: Which Stock Is the Better Value Option? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tVE9IV0VTTWo4MXFlcXBJOFQyUFZ2ZkZ2U2V0Tlo2SXhOTFI4ZU1DdlhVM0prRUFjUmFtTTFFakEtX3JyM19oQ25VOUtNcXFuWTBTdkd4Nk1Yb3d1Vml1bHFZc09tbWo3aHZZRDFMT2UxMnRuY0RXXzFXNA?oc=5",
-        "label": "NEUTRAL"
+        "title": "W.R. Berkley (WRB) Up 3.8% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ELV9rWHYtS0xTN2JyOUVWc2pmcmlTWm5TMXZTNG9ET3BLekp1M1lQWHdjRjlyRnQta0xncWtmQ1lhZjhkamJvc1pDQUxQYkNyQmkyYk9hMUd0Q2FCa1BYYzg5ZWZEYkNULVZfY3poLU0?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "W. R. Berkley Corporation (NYSE:WRB): Among the Most Undervalued Insurance Stocks to Buy Now - Yahoo Finance",
@@ -636,26 +641,21 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Are Wall Street Analysts Bullish on W. R. Berkley Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFBZd3Qtd3llTW1SNmpxODIwRVBtN1ktWXNENGwzZE5yWGtxYm1rR0k4alV0YVZzeDMwOGZ2MmJPWEI3T1N5YTZ2dFJHajRnSDVtdEViZC1FSWY2a002amFNZWNGWDJlZXQwblc3MU9LQXV2RTJ1ZUlCdlZMbmFXbnFOVUo1MTV6VUE?oc=5",
+        "title": "W.R. Berkley (WRB) Declares Special Cash Dividend - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUVBYnJFb0tIRlZ4dG9LYTFyeDFUV3RpOFlWR2VrY2xaRkJDa0NyNVlYcGltTGtWV0dRd3ZLbHBnS01WWC1OczNLaHBmVnN0a3NyaS14akFTcE9pZFhBNzI2UElMQURhNTJ1NGt2VTh1NTl6REhiRTdjaHFFd0poMVdPbnhGY0dqNV9Tcg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why W.R. Berkley Corporation (WRB) Went Up On Friday? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pTjRrRGdOS3NGTHBPZUNSYklST0ZlS3o2LTEzT2ItT3V2d08wTXFOdXZMRjhPeWhpRmJ6OFJMLTFicDBOVnVJODVtZDlXOTVkQjlXMGw5cmFwWE9NWlFxT1RwYW9JRFR4b09FNVBSbU9sOTJobTd6YmxKemtYZw?oc=5",
+        "title": "WRB: Morgan Stanley Raises Price Target for WR Berkley | WRB Sto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHh0cVM4WGFiYTRXcDNNTmdmN0VQOVdTVW9CNWljTzJqa1ZQQkFnZHpJaC15bGZZVmRseGlPQlVHQUlTRmR2VkFaa1Izbi1OdkljZDYtaXdWeUFvbEFscmVaOVdBMzctMTFLQ0NQVnZYcTdvNm9sdVpxZ1A2WWMwbWZ6VHdOUGFjU0FmSldxSFQzRkQ0XzdZN1BXR1dOWTlpZFY5VlZtRDgyVDA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "W.R. Berkley (WRB) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42anpidV9HcUhPLWdlLTkyUkNZUDFLb3BJb3BMYXRyUVNiaF9HYVB0M1BjZVBZS25WS04yV2pPS3VwWHNLSmpPUS01M0xZVzBieFF4TjFiNnBEem5Rd2gyNGJPTURnR3oxZElLTDYtVkk2VDRMN2IzcQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why W.R. Berkley (WRB) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16QTRkRnZFRkdEc0lwazlUekFGZ2hwR2xLV0k4enFUUjlKRnlkOEdJZXItU0hGTF9nWDFybDN0YU5CZzJTVVEyTWMyMHpabXBhQktzb19RYW9XUGc0SkE2ekJaOEZKX3A1cjZLTS1IX0RUeFpBZUE?oc=5",
-        "label": "NEUTRAL"
+        "title": "W.R. Berkley Corporation (NYSE: WRB) Stock: Delivers Strong Q125 Results Despite Catastrophe Losses - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQU1MNXlMZTYwVmZVbUZSNU9OeVE1bkcyLUdrMF9rZ0dJUFZqQ0psMzVndlFXeTRxb0IxZWdqWTFkX0dlUjRiQWU0eTY0SHVlT21RUFQ2eU9VU01DZUpDR2F0b2UwV0dxTFcwVjZQakdMWUtwcm1sYUhqS0ZtSGdKS2VzQi16YmxFNHdReUpDNGJYbHJxMlpVdnp1dTBfRUUyRC1jX1J6X2VucUZLZWNfcTN6LV9CYmxETjNv?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

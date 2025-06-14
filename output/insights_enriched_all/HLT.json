@@ -2,12 +2,12 @@
   "ticker": "HLT",
   "name": "Hilton Worldwide",
   "sector": "Consumer Discretionary",
-  "market_cap": 59981217792.0,
+  "market_cap": 58062979072.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 39.80126,
-    "PB": -13.763499,
-    "EV_Revenue": 14.761,
+    "PE": 38.528393,
+    "PB": -13.323334,
+    "EV_Revenue": 14.865,
     "ROE": 0.317925,
     "ProfitMargin": 0.32990003,
     "GrossMargin": 0.76508003,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.3506513825506013,
     "ROA": 0.09246001,
     "PEG": null,
-    "EV_EBITDA": 27.921,
+    "EV_EBITDA": 28.118,
     "BuybackYield": null,
-    "PriceToFCF": 35.9523486380301
+    "PriceToFCF": 34.738744609713706
   },
   "technical_indicators": {
-    "RSI_14": 59.95972932689245,
-    "Momentum_10": 2.4402609662058903,
-    "MACD": 4.088279558779135,
-    "BB_Percent": 0.6382167015599701,
+    "RSI_14": 46.74751462996637,
+    "Momentum_10": -1.5979718168129695,
+    "MACD": 2.8519477014482675,
+    "BB_Percent": 0.0477071282639808,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9360119302648076,
+    "ValueScore": 0.8576397676476364,
     "QualityScore": 0.3992567280263677,
-    "SignalScore": 0.5147191438633303
+    "SignalScore": 0.6060805693095681
   },
-  "volatility": 0.0193273890481364,
+  "volatility": 0.0191675472507438,
   "beta": 1.25,
-  "return_6m": -0.0225370227529974,
+  "return_6m": -0.0324591537788477,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 25,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 250.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 253.72
-      },
-      {
-        "date": "2024-12-11",
-        "price": 256.95
-      },
-      {
-        "date": "2024-12-12",
-        "price": 255.9
-      },
-      {
-        "date": "2024-12-13",
-        "price": 252.76
-      },
       {
         "date": "2024-12-16",
         "price": 253.0
@@ -537,47 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 252.81
+      },
+      {
+        "date": "2025-06-09",
+        "price": 252.07
+      },
+      {
+        "date": "2025-06-10",
+        "price": 253.54
+      },
+      {
+        "date": "2025-06-11",
+        "price": 253.54
+      },
+      {
+        "date": "2025-06-12",
+        "price": 250.55
+      },
+      {
+        "date": "2025-06-13",
+        "price": 243.88
       }
     ],
     "current_price_data": {
-      "price": 252.81,
-      "change": 4.33,
-      "percent_change": 1.74
+      "price": 243.88,
+      "change": -6.67,
+      "percent_change": -2.66
     }
   },
   "news_sentiment": {
-    "summary": "Hilton Worldwide Holdings (NYSE:HLT) a récemment célébré l'ouverture de son 1 000e hôtel, illustrant ainsi son expansion ambitieuse avec 500 autres propriétés prévues. Malgré des performances boursières solides, les actions de Hilton ont été impactées par une vision plus faible du secteur hôtelier, notamment avec les déclassements de Goldman Sachs pour Hyatt, Hilton et Marriott. Bien que les résultats du premier trimestre aient déçu en termes de revenus, le bénéfice non-GAAP a surpassé les prévisions, soulignant une résilience face à l'incertitude macroéconomique. Malgré ces défis, des investisseurs comme Unigestion Holding SA et Wealth Enhancement Advisory Services LLC ont accru leurs participations dans l'entreprise, tandis que d'autres comme Mackenzie Financial Corp ont réduit leurs positions.",
+    "summary": "La performance boursière de Hilton Worldwide Holdings Inc. (NYSE:HLT) a été remarquable, atteignant des sommets historiques, portée par une demande croissante des voyageurs d'affaires. Malgré des signaux positifs, Goldman Sachs a déclassé les actions d'Hyatt, Hilton et Marriott en raison d'une perspective hôtelière plus faible. Cependant, les achats massifs d'actions par des fonds d'investissement et la forte croissance de Hilton au T1 indiquent un optimisme généralisé autour de l'entreprise, la positionnant comme une valeur sûre dans le secteur de l'hôtellerie.",
     "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Hilton's Luxury Empire Reaches 1,000 Hotels: Inside Their Ambitious Plan for 500 More Properties - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDdKOWZKMkQxdWtGR0J3NjJJbXZwV3ROM1VpSDB4ZF9kRWVMU2pWVFgyYmVVV190Ylg0SVpBRlBTU3F0U2lvUDN0UGV3WXU4UW5ja3JUSi0xTEpEcVNpNkFVUTNYUWVFVEVlRTQ1aGliWlo4UEVUZ0EzMUpqR1FiY0N6Qlk4UmpoMk5kSlM0dHBEMEFNV1lNbzRwek1XMlJOY3RlZHAxZ3dCMWVya1dzOXlvODc?oc=5",
+        "title": "How Is Hilton Worldwide's Stock Performance Compared to Other Hotel Stocks? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkVUVEpITVhWdlB0ZjFJejhQeDhuVVRNQ3hvTldhTXlLSlFEQWZIejMwdTI3Njc1NFRjeExFeUN2Tmk5cU5RcGRjOXJ1T2JvUHp1SXpXYU1Hd0NnRXpsMTFtS040M2VoWGdzV283RWtqdTNhRXNQbDYwWnhRcE4yb05OTVlnNm5TTHFpYi1xenRPRmZfUG9Fd01SNTVab3Yxa21TdVNqNTZlRmZOMDBJUFNXUVozSk9oLXp4WjJKU2cxTUV4?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hilton Worldwide Holdings (NYSE:HLT) Celebrates Opening Of 1,000th Hotel Globally - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVjluMUItLTVvM1R1aW41c29wUU5vT01jR3pSc3BDSnNaRS05QXNybm1hazYxNlJ3aHpSb1lYLWRWcFo1Q3U4aVVSWEg1QXUzeVBUQnNsa0ktaElOaWNFNTlaQWhuSmgwUm84UUVxaWp0MG9KSkp3REVSc2U3Z1psTTdhRUpuN2RydG1OQXJ3bHZTWlZEMzlLaURWWTMtYjUxUHh1YW92blhhR1dtNDRXUElxYzJwaW9tZUJvZkQ2dEhwdXFfcTNYdDZuU3lBSVZaeEZSWXY4aGpyQ2ZoTE1tNEJIZ3TSAeoBQVVfeXFMT0l3dHR1MkVpUkdJVy1EdWNRN0d4aTFKdnp1UEFreElBMndWWkZ2MUZwUlg4VkVWM0FiVGZ4b3BWcXYxUmowLUVkNjZiTG1mVnlHdVN0bXdtZmRtdTdSd1lOLTV1TG1PcU9oLTFadG1tY0hqRUdPbzUzQU1KMUpfaVprbldLY0MwTERfRUJuXzBrWWlXTFJJOXROb2w2LXZzYXBaSUR0bDJHc0Izby1DeXpEazlKVWJyRFVyRDZQVTlxQ0FSa0E2ZXJkbGI0dzV0UUhnRWthdUJnX2tpOHZiVzJKeDNwVGZDYS13?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How Is Hilton Worldwide's Stock Performance Compared to Other Hotel Stocks? - inkl",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFNSSzFKTGllbUs4VUxzVTNFYnZCMG9aenhCWHpvMHNzMXJ2c0Z4MUQydVRwQnBtc2pxQkJBYVUyUlUwbmd4bDV1ZjBtaklreEVmTnVwTGVNbUdDWnNPekVmWEYwbnF0czlJZmY2aTRLNWZrS1NtTWp0OUJiWXptdWprSzNWNmpWcWNHcHF1bGM4MnRTN29zNXd4SDBGelNRM0E?oc=5",
+        "title": "August 1st Options Now Available For Hilton Worldwide Holdings (HLT) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGJiSEVqeTV5YzJ1NU43elpHYjBTWXRPNDhwVzRBd1BhNWpDYmVlbFA1ejdNSml2QnZ2TmdQUDFHUkdiMjRjNHBacG1vQktlM0owSHUwOWFDZTFPUmFCVXRVdVVNbVpOaUh6OW1xVVVjdjVxQU4yRVJ6WTFranJKQmw0ZVdMZkxyZGFBQWNGajJKTllYR3pNRjlB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Has $12.58 Million Stake in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDNXc0plUDFRUklpekk0TnZwTzVlTl94djRHVkJtMVo5Z3BOdnI1X2VEb080eVhOLUNyNm93TjZ1bmVXc0pxTXlSR0hsSVByc0wyMzFrSVdMWGlQRnU4WE9kQWV6MUo1blY2cmhJMGMzNS02UWhGV2wwS1VBem1oOGw3ZUV3dEtsQXFKTjBmaUcyZzMwcmttQzlSQ1VnSno3bk1ueUlPaExVTE1WMkNkX0prcklkN1hqbVJ3c2ZqODRpemZiNVBvN3FlTlJiZVk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hilton Fuels Luxury Growth With New Brands and 500 Hotels Pipeline - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZIYmE3TVBzc3N5djlEZ2stTFgwdzN6TmhELW1KajAyeC03NUpjQ09lTlZ6VUs5Q2FtMTFzN19XMXhJdnZDRGlwSVlscUhQaWdUbXNzeDZGSU5BNy1VUjNpVGVIdmFleFVfM2E0dkRUR1prSW5oLS0yRWZwWVk4eVJKTXZkTTRwcUZUaVZoRE5uNzI3V1Z4N0FmRWxFajVMOGszSnllSEN1SGl6X1kydk5FdF9pOUU3QzNLdkNwYw?oc=5",
+        "title": "Handelsbanken Fonder AB Has $20.49 Million Stock Position in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNWJVWGx5S2QyOGhRTmVrb2lnenFkUklmY29zeWdCUXJOMVRqUk12UEZYQlVFWWlJWU45TzJyZVlXOGVZMnRJRkIySlR2NEJ1MmJ0SC10ZDFEVXR6TVVBcllyM3g5VFdZLWtRZjVvenhIVXN3ekRZWXFYNHRPWEROeVoxQ21WcVdTWVlwZE9vdjM3ekg1b1NSdkhuN2d5N3Rsc1Q1Szhybm1MUm1UbHlXQmdneXRIb0RYVXNVTkVCZFBBMHhtakJaRUdheGpiWEZlMTdtdXhDN0k4MUpZZi1GcGRR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,24 +576,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Hilton Worldwide Holdings Stock: Is HLT Outperforming the Consumer Discretionary Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcktmZDBoSFl4c19EbVRhZU4wUU9GOUZqM0hDRzdHNlpVY2Z3ZEF2enZiOHR6U1cwM3NuZ1RUMWVGRmlBZXlWYW5iX2lqTm9BdUpWeEQ0UU9oS1hUbkhITEdfVW5kUUF3cXB2MWNnTnV4RHdFaWFTRTR1X3dGQW9LUmw4NXFNV2pUdGlvQzVRV2dkdUhwUFdlRzFXc3Rua1pZRk5Sd3lQTHdhZ01sVlRuQg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(HLT) On The My Stocks Page - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmpCbUQyajdjTXBMaHNsb0Y5SHNrUjIzam9VY00yV3QxVHNVR1RQLUNzY0UzajZ3RVRtcU12c3F1TE1FNzVPVzZfeDBRdmxub21ZRC1vNEZtVXQyWFZjQWxzSDk4MDRKQldJTzVMVGtMbW16TzVFYk9ua1JHdWhXMDhueVN2bE12bWh5M3M2YUN4dUhGdVEteU96UWlyZmdrbXc?oc=5",
+        "title": "Hilton's Luxury Empire Reaches 1,000 Hotels: Inside Their Ambitious Plan for 500 More Properties - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDdKOWZKMkQxdWtGR0J3NjJJbXZwV3ROM1VpSDB4ZF9kRWVMU2pWVFgyYmVVV190Ylg0SVpBRlBTU3F0U2lvUDN0UGV3WXU4UW5ja3JUSi0xTEpEcVNpNkFVUTNYUWVFVEVlRTQ1aGliWlo4UEVUZ0EzMUpqR1FiY0N6Qlk4UmpoMk5kSlM0dHBEMEFNV1lNbzRwek1XMlJOY3RlZHAxZ3dCMWVya1dzOXlvODc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hyatt, Hilton, and Marriott Stocks Downgraded by Goldman Sachs on Weaker Hotel Outlook - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSm00ZTRVQUNJU2IzV29DcmhtcGFUX3B5OXhfUG1WT05jV0g1SElJcm80NkxTN2VLa3AycWcwcFdQZjBOakJPNld3bzdOLTh6OFZpeVJDNE9oSUlSZDhQMG5zd2FWQ2haU2dDTVN5RF9ETmJxdEVKQTdDN2VuS256c0hvaC1KYWtvdUVxSkpqalZNVmZQTFZZTzlqUnhOUmo1aUFoRWZWQ2F6VXF3eHkxbC1Ra0VQRGw0WmNzdzMyaw?oc=5",
-        "label": "NEGATIVE"
+        "title": "How Is Hilton Worldwide's Stock Performance Compared to Other Hotel Stocks? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMUtBV3NVMEszdUdRTTE1UjJhRXA2N2dVU2lzM1ZIR1U5SVlsVTBZbGM2dDQtSko5T0dWbDZJd0hQTHhWMGlMd2hxd0FvNHJwZEg0aU1qTHdTNEV6N29BTzhrQWRYLVltdW5tdHo5TEVfUldKYnNabGRacVd0QWRpY0ZiSnl5cENwSlVYd0tLT3hrVnAySUwyd05OZk83QVFKc1B1Y0NkbkV1TzB1YjFRcWRIdVBycDk2TTRUYk9pZDlPVnlkYnRHT1NIZ05MajFROWJDSjlxdTh5cExvbFU5VUR0dEVodWZVT2xuaWZvaDRjMUE?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Unigestion Holding SA Acquires 5,782 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHhncmlxR1VhVWtyRkwwcllMUlZlTFJwVmxfS2RYTlFwWGpXZEV1T3JlZlRMTDR3Vm5Ebk9pRWRTeEJCZlgtQVZNT3VJVU5oUkdQVzl0NnUtNUg3UngwcTdGNG9qRUJvTFU2azJTYmp0WFFTSXk5dmNaNWZpLTlzQ0U0R09iV1RPbEVkT2tuakZxclB3Nl9DV2JxNXZjMXB0MFZNSFBmV2ZkaXVEM1VaUi1EcV9YRGkzZTBUcGo4cmhJWEFaM1FkYkR1ZGlObW9ZbnhuSmcwOA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Hilton Stock Hits All-Time High as CEO Says Business Travel Demand Is Rising - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk9YYjJsNFJxRHJPcm1TV1I1RjF6ZUFLYnotdXVGc25wYm5KSU9lY0cxaTdCODZzXzB1cXhHUndyZ21oQzZzcDhjWjJoSXdhSmtqZFY5eXVacVIxcTd4blc5alpBWWJYMjE5SV9janl3X1NIWTlncmg4ZzgtUFViVzB5TFFGNWRCS3VvVW1hT0xPclp3OXdhSDhJSlZkMFBtcnpJM1V4SDAwck5FT2RNY1Itcw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "We Ran A Stock Scan For Earnings Growth And Hilton Worldwide Holdings (NYSE:HLT) Passed With Ease - simplywall.st",
@@ -611,51 +596,66 @@
         "label": "POSITIVE"
       },
       {
-        "title": "HLT Q1 Earnings Call: Revenue Misses Expectations, Non-GAAP Profit Outpaces Forecasts Amid Macro Uncertainty - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zUGVmdGxPRGZCejFHamJ0VU5UekVBZGtjNE0zN2lKaWk4c0hvT1ZTNlZndi1UYjNHR1BoNFlUMDBzRzRDUGU3UkdiUmdaaHlDSFhnaUJiT294V0t5LUR5dmlNRzRWd0tBLXo4TWVDSUczQ29fUHIxQnQ3RWVGSUk?oc=5",
+        "title": "Hilton Worldwide: 5 Reasons Why The Stock Is Now A Strong Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzhkLXVZaE5jNVdBN3FVd3Y3ek1HY09MUDF5YnBkZkF3bUtJRGxkUi1yNHlQQXN1TEZxeHRJZXc1RFptaEUtZU9CcXVVVXJ3MEZ2SnN2QWZZeHBOa2J0dXhoQktVMkVEZWIwM2RDcWY2Rmlva0J4MDl5OUwtQVkwbjl4d0FtNzFoZHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Purchases 1,424 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYllaZklDUnhVbXFMOFpSYUVYUUg0YWF1OVdiOE15bV9xcEVxN2pGZk9MLU1IcFpGNEFwVkVIVm5YaUt1MTN0T2t0Y3lCbG1VektQd0toNndZdjk2dHpQcmNnYXFfVmtHQjZzUllQQzlIM2tHTDRodmlKejJwZUxXRmZLTUJ3bVAwZ2owWUJxbGdLQ3hOVEZlaUV2ZEFYcEJ2bG5QZXp5ZkF6bHNZSHkzY0YzdTZxMm8tcnlwdXlQNDd0YjRzY29Vb21lZ2hWVTVFeEtERjRJeDNsSkZEak5hTFE3OE1BZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hilton Worldwide Holdings Stock: Is HLT Outperforming the Consumer Discretionary Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcktmZDBoSFl4c19EbVRhZU4wUU9GOUZqM0hDRzdHNlpVY2Z3ZEF2enZiOHR6U1cwM3NuZ1RUMWVGRmlBZXlWYW5iX2lqTm9BdUpWeEQ0UU9oS1hUbkhITEdfVW5kUUF3cXB2MWNnTnV4RHdFaWFTRTR1X3dGQW9LUmw4NXFNV2pUdGlvQzVRV2dkdUhwUFdlRzFXc3Rua1pZRk5Sd3lQTHdhZ01sVlRuQg?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Rothschild Investment LLC Has $7.54 Million Position in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXZtRjM2eXZnQXh6NC1yYzhoNUUxR0M2UmxzSy05NjdOZmFVV1RNZDJVTlF4MFUzT2dUOEplVHM4S2lPbVR0QWd3UjQ4cGpZN3N4YTJzYmQyTFRocEQwQ3duZnZZczhqT2tDRnh6Z0IwNko1eEd1OEo3aDhUT3p6VXdHbXBkQnR3VHdqU1FvYk92WXcteURBdi1PVWc1cGRTcVhZZndBNUJBZnNTV0E2V21nTS1pMjQtOXFwWHROMk5JU0dPUXlQZndzZWFUUklUemkzWjNR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hilton Worldwide Holdings Inc. (NYSE:HLT) Holdings Boosted by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGZMT1RkQmNkVEZUaUF3YnZjVUd2em45SEVXMVVsOE1lbzZBel9tRTJRZUh6QnVVbnhnTnF0bVVNVUhYUG9jUHVQOUFtVEhGbUR1M2JXTkIxbzVISENPbC1qQWFPN1d0RDR2dXdndFhSUmhDQ0EwZTNCZDc0VTVOandIUmhRRVdBemZER1NyUVhLVE1fdnZSaXAzcS1tbVU4TUlCdHk2Y3pJc1llTTUtcE1rMDVuLWFlUm9CZUFvc3dBOGRVdmpYdzRiTlpCdzdL?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Boosts Holdings in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUw1WmkyM044VktBOFNLUWhTS1MwTHh4RWlmVHJhcFN3eTcwRlNFckJET1VIMUJLWTlGQ1BKUmxtYzVaeDFWTC1RcV9wRlJmM29NQ0tuaWNBZDNTdU5fNHFMQUIzd2t5RllacU1rUnIxbXN6QjNON1lPWERVek5YcUdQVGtnZ1lnaV9pTjZseFFnZUVsNEd3eUN6M2pVaWp4MHU5cmFjRmdLRncta3U5WjJrMEtmMEt0dW9OR2oySnFaSWVXckkyTmxfYVU0R3I4WEE?oc=5",
+        "title": "Hilton Delivers Strong Q1 Growth: 503,400 Rooms in Pipeline, $927M Returned to Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFJlN1NZR3hOWXNWLUtneGo0Z2pGMHU2azdhdVlJU2tIZ0EzaWxPYmFORHpGNldLaHVPSUlheW1pWU1Zbms0TW84OXVpcDEzZmlJSHRLMlJWR3I0MGE0dC0wSnlVNGxpQ2RpWU5HcVlmWmVDdXpQNGsyX0FyLXgzVzVFdFZrWENrQmc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Acquires 7,237 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWXhhSDdzUEJNMWFGZW1hSEw0MHRaOXAxZ2ZZa3pCcW1DN1psYU8yV0w4NkozUEJBTFdMdEZhRUlPdW1Wc0VwYnE3Q0JOR0VHU3dOM25oUnNkOWxyMy1veHRiQkNUMTdxc1MzQmw4R292Y24xZzgwQ1E2NDNlSmlqT0VHdGlVN3NqeUlnRm1DTXZmQnVwWGJhSkhsNFdZay1Rdi1pSUJvUENpcEdkZ1EtdDBfUGR4aGhqZnlCbW5PVVRodHFWUlhsdnV6amxROVhBR2dfZDZjRUxTUThXc1BHRzNHSGlrLUJlWGVn?oc=5",
+        "title": "Q1 Earnings Highs And Lows: Hilton (NYSE:HLT) Vs The Rest Of The Travel and Vacation Providers Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYy1oVkM3SUd1ejd3TWxyRXBBTjcyMVZ2TmpfVUsxTXBBOVRNZXN2ZTJ2el9qQVFfOWpzYWhkSWNEbzl0UHNldU8zQk8tSzYyRmNwTTQzTllsMFY5U2h2QzhsY0lTem1YR2xYMVU2U3JncnNabVMzNi1adDcxVHotag?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Assenagon Asset Management S.A. Purchases 236,475 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDhvTU1wSUVMdFhJOEFDc3BYbzhUOG5lSVFjY3BwZDFUY3NIX25sYzdfMkZLNHBBOGVvbG80Sjd0UnFiZDVKdkM0eUhDYXgzUXltVS1veE4xVUZVaVpnVkdqNzVWSG80RVhWaS11LUU1UGktX2FVUUNjdlFYR0RFSEp3QnZBZzVmYWM5R1BMekZ5R0VEY3Vack9xY2kzU3ZHWGJVMEJ2cHpNNkc2TEZLQ1NKWmgzV3dyc3AyREwzeWZTRXJqWFNSVkdCZHJ5Y2ZvZWxLNW8xV045Y2RiZTZVSjdZWlB3MEJOaC1abG1R?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hilton Worldwide Holdings Inc. (NYSE:HLT) Shares Acquired by Vise Technologies Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTXYwNUJQRjFOTDA5bWE1aUZZRUxMZ1hRd05JRy1tZ2w2XzdybWFLQTR5dXduQnJTNjNpQ1dQZjNFTGJTZnJnQTZDTGk4SHJmbUg4YS0tcndIa3dGaVJwN0w2UUItdUV0SmRsYjZnOEFveDVVWThIQWNZWVVkNHY4R3lrUFk1VmFkR3l1Q013b3lsUTNfWkU5QmtiNHE1Y1pnM05nN08wYVFvQV9BRmxEQjJtVG9nS2hsbkJGakxnUjFKbm1qWHZXNndUc2hQM1UyVUk4WDlR?oc=5",
+        "title": "3 Reasons HLT is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ObXk1R1dFNm01c3hPbHNYSzB0RXFicWdwai1kUENRYXEwUzFkVXVXajltb05UaklISWtybi1MR0hFdTB4RElFN3p2X1FqUEpJdkFMeVVDdWdKT0g2RThWYzZzaU5MOF85MlU4SzR6djduZjhTUVE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Investment Management Corp of Ontario Raises Stock Holdings in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTFyakRiTHEtQWJoQ3NqOHhyQlg4ZzlNNDhtVTJIZmJCM2ZYNmtMblpXT1M1ZXlsZ1BHR29CN0FWTUplZXJtakhQNllSZy05MGFXTV81RkxyQWRSZlczY0lPSmhiRmhWLWhNNl9oaFAyLTBjTUF4dHcxR0pzeEpxaUFUZ1A2Rkd4MmVTUTY3bllLY3dsd3VpTUNZdS1sZzI3Tkt0dFc0bUZZLWxUSEx2YndvM0lMSzI5SWlqbThncnZFWHVzajViZVBDbW03ZEtSVWFDcVlTR0VreHU3Z0M4ZUVMWQ?oc=5",
+        "title": "Procyon Advisors LLC Purchases 1,267 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdFJFOUFmcnFjeVBUVnRfa2VIT0c0enJuVHJBc1pYZTNDN2dhSmZ1ck5tMGhxbWZrQ08ybU1EUlRLeUpjU2dtYURINkduMU9vVGxSYUpTTUZBajJWUndwNFN2emtxYXE0enFZV2Q3THFTaTdtLXZ1cDRKSEk3THN4XzJGVW9SWC1QOEpjT0lzUHA0dkhDTWFkQmxxVW5BVnUyLURuSWgtNklRdG51cUpXZFIzMzVac2k2eU1rZl9xdTkxbE9MQUJMTUVOWlY2NGdYcExXTm5n?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mackenzie Financial Corp Sells 3,048 Shares of Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZGU1VWxmcnVjTW00QmtYTm5PVkN6U1pkbHpEaFJNOTJjeTE5dV9tT3lDdE9FZzM5TE1vN2RTZkpQTlFBeUpHRy1SdExDQWpqVFBBMklJTnlSUXAwQzBFNzhmLWg0UnR4MW5kaHZ4MDIwTnlxdVJlNmtJakxRTzlKbHVFbzJJejFEcnZfUm1JTjV5b0dsSElXMncxMjEya3NyVGVjaE5zTTVPTHFIRW9TQl9oYjd6Ql9DbERQWGYydm1ZUl9qZHpwQUhLMFgxbHNVeEduYTE3djRTTklQ?oc=5",
+        "title": "Hilton Worldwide (HLT) Up 11.2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcVlmcXdDeF93UEpLME9xMUh3MXB5V2E4QV9taGJ3ejluTUI4ZUtsUHdPOHpZRDF5U2t3TUhqLUpWOWtLTUctcTNqU3ZJYU5vTXZ5YS13Y3RPSy1JNjhMWTREYkM4X01WWlM0S0FTdDVGX21CY2p2dnlYRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Consumer Stocks Skating on Thin Ice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVDh4UzhGUDlSNVpaMXRSNGRJc3d3bTM5eHRnZ09hbFdURHFodG1RdjVBbXFZZ2FfTllEQnp5TnpkY3UtVzFBRWVZMGRBa2YxTGFTVEpFNlNldkxjMG5Pd2dJSFhuMWREVWFUWTItRWt6TFRPV016by01a3lVaHZyVkxB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Merit Financial Group LLC Has $1.15 Million Stake in Hilton Worldwide Holdings Inc. (NYSE:HLT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbmJNa2NVaXhpVTNDcHY5Mi11TkNvelhlbXlUTnI2blc4YXJLZkV5ZHNjSHUzS2Q3Q0Q2c2lHY3Y0UERHcEh5anlnbFNYNUJ2U25DVnJQaTM3c0hYUW1UWnM3S0pZenQtQXhZVG5TcW5haGJvTjNhdkhfQ0NvZnNQUV91Q0FSMlNpdGkzY1hzczlmT2pld2xkQmk3cnJVYnVlYVE1VERGczh1Z2tPTTZCZm82bXlZWndfVEVsdy1pZlVISjYwY3JIX3FjYlVFU3BIa2o4VTRCOFI2UEF6R2M3aXNPbkVhNlMxOVZlOGo5Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "15,000 Shares in Hilton Worldwide Holdings Inc. (NYSE:HLT) Bought by PKO Investment Management Joint Stock Co - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZS1PczBpVzJwRHFBWlpETE4tMS1fYllMdDByM19VTTc0SkpsMlRPSUpQWDFYdVU1ak80Z3BadzhNUGdPUXl4Njk5WFZXOEJCZHBUY2hta1Y0UWRYY1cwdlg5eVVvRk1IVVM5WWdqdTRzUWtDc0RVd3lxRWs4T3Y2TlNjVkVJMUtsdkNVd0pQSGFEX1pVSkNOMGtUMGljajFMRHBKUWFGS0dKblBNZEhkZXZodEhyTE1uNWxzQXhCUkFTWHoyN1AzQ2lCSUhwNlh6RWZBRzhWRFMwaExuVEloQUhaMnFHOU5NU0dOcm9zbUppMlhO?oc=5",
-        "label": "NEUTRAL"
+        "title": "Hyatt, Hilton, and Marriott Stocks Downgraded by Goldman Sachs on Weaker Hotel Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSm00ZTRVQUNJU2IzV29DcmhtcGFUX3B5OXhfUG1WT05jV0g1SElJcm80NkxTN2VLa3AycWcwcFdQZjBOakJPNld3bzdOLTh6OFZpeVJDNE9oSUlSZDhQMG5zd2FWQ2haU2dDTVN5RF9ETmJxdEVKQTdDN2VuS256c0hvaC1KYWtvdUVxSkpqalZNVmZQTFZZTzlqUnhOUmo1aUFoRWZWQ2F6VXF3eHkxbC1Ra0VQRGw0WmNzdzMyaw?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

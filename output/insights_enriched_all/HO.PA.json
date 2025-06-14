@@ -2,16 +2,16 @@
   "ticker": "HO.PA",
   "name": "THALES",
   "sector": "Consumer Staples",
-  "market_cap": 53719420928.0,
+  "market_cap": 51480256512.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 53.586063,
-    "PB": 7.144028,
-    "EV_Revenue": 2.871,
+    "PE": 51.247448,
+    "PB": 6.8462462,
+    "EV_Revenue": 2.641,
     "ROE": 0.12835,
     "ProfitMargin": 0.06899,
     "GrossMargin": 0.26117,
-    "DividendYield": 1.36,
+    "DividendYield": 1.48,
     "DebtEquity": 103.51,
     "CurrentRatio": 0.83,
     "QuickRatio": 0.597,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16874264967003638,
     "ROA": 0.02802,
     "PEG": null,
-    "EV_EBITDA": 21.95,
+    "EV_EBITDA": 20.195,
     "BuybackYield": null,
-    "PriceToFCF": 15.4715149634825
+    "PriceToFCF": 14.826622200876702
   },
   "technical_indicators": {
-    "RSI_14": 53.55448763450459,
-    "Momentum_10": 1.7509727626459144,
-    "MACD": 6.772262741045154,
-    "BB_Percent": 0.5742669497553387,
+    "RSI_14": 44.98438203193901,
+    "Momentum_10": -6.282718091411904,
+    "MACD": 1.1878344086387074,
+    "BB_Percent": 0.1913917683193609,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9253877937741424,
+    "ValueScore": 0.8821160882961452,
     "QualityScore": 0.3758963190681351,
-    "SignalScore": 0.5535017107371303
+    "SignalScore": 0.6398663092875587
   },
-  "volatility": 0.0249701433087948,
+  "volatility": 0.025121077429671,
   "beta": 0.562,
-  "return_6m": 0.8651489786754156,
+  "return_6m": 0.8366232471036819,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 260.42856
+    "target_mean_price": 263.57144
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 141.8
-      },
-      {
-        "date": "2024-12-09",
-        "price": 139.8
-      },
-      {
-        "date": "2024-12-10",
-        "price": 137.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 138.7
-      },
-      {
-        "date": "2024-12-12",
-        "price": 139.3
-      },
       {
         "date": "2024-12-13",
         "price": 138.0
@@ -545,22 +525,42 @@
       {
         "date": "2025-06-06",
         "price": 261.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 259.1
+      },
+      {
+        "date": "2025-06-10",
+        "price": 249.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 249.2
+      },
+      {
+        "date": "2025-06-12",
+        "price": 249.6
+      },
+      {
+        "date": "2025-06-13",
+        "price": 250.6
       }
     ],
     "current_price_data": {
-      "price": 261.5,
-      "change": -11.1,
-      "percent_change": -4.07
+      "price": 250.6,
+      "change": 1.0,
+      "percent_change": 0.4
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière des tendances contrastées pour les investisseurs francophones. Thales affiche une hausse de son chiffre d'affaires trimestriel et maintient ses objectifs pour 2025, tandis que les actions européennes de défense enregistrent leur plus forte baisse quotidienne depuis avril 2020. Par ailleurs, EBET va cesser ses activités après la vente aux enchères de ses marques par les créanciers. La montée de la production dans une usine d'armement en lien avec le conflit en Ukraine souligne une volatilité sectorielle à surveiller de près.",
-    "sentiment_score": -0.273,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.09,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.36,
-    "bullet_positive_count": 3,
+    "summary": "Thales affiche une hausse de son chiffre d'affaires trimestriel et maintient ses objectifs pour 2025, tandis que les actions de défense en Europe enregistrent leur plus forte baisse quotidienne depuis avril 2020. EBET met fin à ses activités après la vente aux enchères de ses marques par les créanciers, et TT Electronics prévient d'un impact négatif sur ses bénéfices dus aux tarifs américains. Ces événements soulignent les défis et les incertitudes auxquels sont confrontées certaines entreprises cotées, influençant potentiellement le sentiment des investisseurs sur le marché.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.08,
+    "neutral_ratio": 0.58,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -574,13 +574,18 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "HOPA 2025: The Promise and Pitfalls of ctDNA Testing in Oncology - Pharmacy Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2lrWU5qVTFRRUZrbHRHV0ltNFJ5S004eWRJZWFEQjhYUENoNkg3d3BoZV9tZ09fMS1MeGZRSU9aQXg2T2w1LWVQVUJ2Z2FPYVNIM195Q0ZzTVJfZHdRczZyOFJER21BalQza2hWRi0zZDREVDh4VE1PRXRwQ3I5Yy1HOW4xUG1kZ3o0S1F6akZfcUtEQTJQYnNmUTJsTUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Stock market today: Dow sinks, S&P 500 posts worst day of 2025 after Trump forges ahead on tariffs - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3RtU3VMOWFXeHFxOWxwSWN0Z2tEbTFqdldDeERXQTU5d201OFRFTGh3aWdicGx3c2lQeEQxMktlaGVUS0MwQlpqQjBBN1ZURjNQM3RNSTl0T0QxcmViVmE0ZFRIRG1BMHpCelFpQWJZbFlvWkdCSHJGSTdjdTQ4WkpCTVdUejloWXdnb3lDdl9zQTZZZGFXRDFXN1lPaTM2LVFfMjRWRUxtbGtfYVg2MHBJRTJ4NGtCSFl4ck02Tndfa0twZC1xNVpOZHJNbGkxQ3l4NUR5WUp0eWZIbGw4?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "(PDF) Impact of Corporate Social Responsibility on Financial Performance of Production Enterprises Listed on Ho Chi Minh Stock Exchange (Hose) – Viet Nam - researchgate.net",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPd1h1YVVjaFJ5SnpCUm9NbUdSQ1hfUTFMR0VXRzJtVUNZamNSa0txN1ZFUVUxaGk0dDRQZWlzMmluZDUzQWZ1ZnBTbFJpYU9LWk12S1dWczhRQU9rVEs4YkotenFFNUZoNTZvYkNFbzhGaDNmSXpuclBrRkhXQmpnX2dOcEYzQTlja0pUa2xZZHRQTU1qR3hkVU1vWmtyMV9LYmFmN2JhcnJWelJmelYzcHU2X2pZU0s4NVdyY0VwSXdOeGZmTkJDcXBRNC1jNGRqX3ZUdExKRU5FRUk1WU1vWTREN25aVll3UGJoM2ZmVG1sdFJiaUhRQ192Q1F3N2lWaFNCVDNVa2lxbHNmUE1wZmRUMFppX1I3a3c0Y2dsN3JWZw?oc=5",
+        "title": "HOPA 2025: Advancements and Challenges in Neoadjuvant Therapy for Regional Melanoma - Pharmacy Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3prR242dHV3TXIwMjJkQ19XLUwwc2xhczNCYnFvc2daRHktMktOd3dOWnRJSUZtTUdxTnpnUzhVczdFcllYT3NJcHJFalVteUVtRERhYTNzNG00dGY0ankzRVBWS3hwX3FOY2J1TkNoOHZETEhic3VRdFJ3bkNWY3hiU0cyOHdnM0Q3YVozcFluakRaS0tIT3hvS3dNOURPOVRQR0xLRWx6cnRDWGtaampqanFKUnZO?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -599,18 +604,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Many billionaires lost money over the past year. Was Erie's Tom Hagen one of them? - Erie Times-News",
+        "title": "(PDF) Impact of Corporate Social Responsibility on Financial Performance of Production Enterprises Listed on Ho Chi Minh Stock Exchange (Hose) – Viet Nam - researchgate.net",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPd1h1YVVjaFJ5SnpCUm9NbUdSQ1hfUTFMR0VXRzJtVUNZamNSa0txN1ZFUVUxaGk0dDRQZWlzMmluZDUzQWZ1ZnBTbFJpYU9LWk12S1dWczhRQU9rVEs4YkotenFFNUZoNTZvYkNFbzhGaDNmSXpuclBrRkhXQmpnX2dOcEYzQTlja0pUa2xZZHRQTU1qR3hkVU1vWmtyMV9LYmFmN2JhcnJWelJmelYzcHU2X2pZU0s4NVdyY0VwSXdOeGZmTkJDcXBRNC1jNGRqX3ZUdExKRU5FRUk1WU1vWTREN25aVll3UGJoM2ZmVG1sdFJiaUhRQ192Q1F3N2lWaFNCVDNVa2lxbHNmUE1wZmRUMFppX1I3a3c0Y2dsN3JWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Many billionaires lost money over the past year. Was Erie's Tom Hagen one of them? - GoErie.com",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0dYd3VoRHVNRDdsT3VLQUdZXzhJRDl3WDhFQnYzbFQyaG5MUTNaQm1TSktsai1IaWtHdzlUa2xvYV9wVDhFVjY0enB2WUNLMzV0UjZGR3B3LUJCTkNUNmR1am9tTVR1R2RKd3ZkRlRrRnRKMGRMUVBMUUhvbDk3Tm5PQWhTQ002V2xEUGZXa2JQcXhORU9Zbm1yX1FURTM4cnJDdTdqYUlNVVZyWTN0MjV6c2RiS2lyckxQTlZjTVE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HOPA President-Elect: The Message Is Clear That Oncology Practice ‘Has to Change, Needs to Be More Patient Focused’ - Pharmacy Times",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdm45UGd4U0REUW1VYm5vb044dnprNHZ0b1hBNkNJZ19FaTV6OGRSbUhVZE1oYm9yZTNUdlB2QW5IUFQtcFRhRlpzSUVjYm1xZUMyVnFxZkxiZkhzNkpGdHA5R243aDlOTUNjTFRQbjM2YzBIbnJhaW5GS3lxNXVrTDIxWGdVbGtGR0FpaDBhY0Rab3o1UnRIdU9ldlNQZXFzWm5MV3FIVEkySjl3ZV8zZzQ3bHBfcDMyaXhWeEtBTDdpSFJMc2w3Qy1KcmJCOGdiSFlMWVd3WVRxTm03Q1lRdg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Production at weapons plant doubles amid war in Ukraine - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGJCbGZ2bWRLQllFMzJyQnYzQ1A2aGxWNlYxRVBFblo0S1VJZUh5ZW1BSzJvSnJEdFozU3h3TnZvMGplTE9VSUJmVm1adDFvMUQ1WmtvcE8wUE54V3o1SGlfNXRnc2ZnTmZ6Y1ZhVk84aTR3ODRBTlRrMzh1eDJGQ1A1QTlGNC1mVWZVUjFITQ?oc=5",
+        "title": "Manufacturer TT Electronics warns over profit hit from US tariffs - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnFUTTFUNk11VTY4aXlfWDRlOHVWaDlpTHNLdHkzZ0RqaWxvZDJORHhXQjJjS2JocWI4R3lTMFVvSmlmSlN4Y2JBMFBzcHg4Y0wteWNJeWcyLXFGZHIyWE9xOC00TWMxOGl0b3ZSQWlhUjAzWGJFM0RmaVVObXdQNDNqMkdGS3hwWXpOcVFOdVg?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -620,5 +625,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

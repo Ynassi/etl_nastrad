@@ -2,16 +2,16 @@
   "ticker": "HCA",
   "name": "HCA Healthcare",
   "sector": "Health Care",
-  "market_cap": 92474507264.0,
+  "market_cap": 89204834304.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.07646,
-    "PB": -26.539017,
-    "EV_Revenue": 1.958,
+    "PE": 16.465363,
+    "PB": -25.600662,
+    "EV_Revenue": 1.924,
     "ROE": 16.05769,
     "ProfitMargin": 0.08073,
     "GrossMargin": 0.40897998,
-    "DividendYield": 0.75,
+    "DividendYield": 0.77,
     "DebtEquity": null,
     "CurrentRatio": 1.193,
     "QuickRatio": 0.899,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.046298108618931855,
     "ROA": 0.11607,
     "PEG": null,
-    "EV_EBITDA": 9.855,
+    "EV_EBITDA": 9.689,
     "BuybackYield": null,
-    "PriceToFCF": 27.847933257167362
+    "PriceToFCF": 26.94312663652109
   },
   "technical_indicators": {
-    "RSI_14": 66.53081598502874,
-    "Momentum_10": 1.9610200830677036,
-    "MACD": 8.352168787735422,
-    "BB_Percent": 0.6726213341690304,
+    "RSI_14": 50.59512457146836,
+    "Momentum_10": -2.686233315313568,
+    "MACD": 3.2284357876731633,
+    "BB_Percent": 0.1931425462711198,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.946499184650472,
+    "ValueScore": 0.9049833678985544,
     "QualityScore": 0.4783999847670002,
-    "SignalScore": 0.4841120889103416
+    "SignalScore": 0.5936984245749752
   },
-  "volatility": 0.0191723003446643,
+  "volatility": 0.0194569097873037,
   "beta": 1.504,
-  "return_6m": 0.2074319057830009,
+  "return_6m": 0.1838237557956863,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 383.975
+    "target_mean_price": 386.475
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 318.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 316.79
-      },
-      {
-        "date": "2024-12-11",
-        "price": 315.14
-      },
-      {
-        "date": "2024-12-12",
-        "price": 311.99
-      },
-      {
-        "date": "2024-12-13",
-        "price": 313.93
-      },
       {
         "date": "2024-12-16",
         "price": 309.6
@@ -537,43 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 384.34
+      },
+      {
+        "date": "2025-06-09",
+        "price": 373.01
+      },
+      {
+        "date": "2025-06-10",
+        "price": 364.92
+      },
+      {
+        "date": "2025-06-11",
+        "price": 367.59
+      },
+      {
+        "date": "2025-06-12",
+        "price": 371.67
+      },
+      {
+        "date": "2025-06-13",
+        "price": 371.18
       }
     ],
     "current_price_data": {
-      "price": 384.34,
-      "change": 2.73,
-      "percent_change": 0.72
+      "price": 371.18,
+      "change": -0.49,
+      "percent_change": -0.13
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de HCA Healthcare reflète une forte dynamique positive pour les investisseurs. Les analystes de différentes plateformes financières soulignent la performance supérieure de l'action par rapport à l'indice Nasdaq, confirmant sa position de valeur momentum et de croissance solide à long terme. Les ajustements des objectifs de prix à la hausse par des institutions renommées comme Barclays et Cantor Fitzgerald renforcent cette perspective favorable. Cependant, la vente importante d'actions par un haut dirigeant suscite des interrogations sur le marché quant à la confiance interne dans la société malgré ses résultats solides.",
-    "sentiment_score": -0.05,
+    "summary": "HCA Healthcare a récemment été le centre de l'attention des investisseurs. Les insiders ont vendu pour 12 millions de dollars d'actions, ce qui pourrait indiquer une certaine hésitation. Cependant, Cantor Fitzgerald a relevé son objectif de cours à 444 $, soulignant un potentiel de surperformance. Malgré des fluctuations à court terme, HCA a publié des résultats solides pour le premier trimestre 2025. Des analystes comme Morgan Stanley et Wells Fargo ont également exprimé un optimisme croissant, ce qui pourrait influencer positivement le sentiment de marché à long terme.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "HCA Healthcare Insiders Sold US$12m Of Shares Suggesting Hesitancy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVklCOGE0UmtEOHlPLWtUQzUtQUN6SThDTi14b2dwRmR5SGZtcGs1Rld2VUpWcUpIS240YlpWZjVxZHFrclk5elRLX0JLRTRhWVBTUXF5TWdZbHV6ejUtdkVvWE1saTJEeHVEcGtnLXBXZTF5VHh4dTZ0bXRsX2lRSXdpRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cantor Fitzgerald lifts HCA stock target to $444, retains overweight - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXBST1NjM2Jnbm5JVXVUWFoyX2Rwb0YtWDNxUExteFRYZFhCR0IzdlNXT1JoWjQyWnhvSnNPOTl6UV9STEQ0UVdvcmE2Yzh3eVo0MW1EQ3gxVHpjNlhqOWFkYzNLTTN4VmdTaGYtUnZYUHVQckN5SnNxYzFZSl9WeVpkWTBYeEhKWXF4VTJ4Z1cwX2Ytd2twZXpsRGw2LTJBT0o4aENDMVdWQ01UUlZGZ3E1a1liZEQ5cUtXSjB1b2dqdFY4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Is HCA Healthcare Stock Outperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzY2X3VqcUZpLXRJVXdXd2pER0kwN0o2OERmWkFnWkJEOV9VcnF5OXNGdDVXV2VUU09ZdDZ0dDB1dFluYXA5bV85X1FsRFJsR1pUY3JSbXNralMwQklIdlFHMEZrd0NzeGFmZFMtOUtNb1ZiQU85b205Q2NmWUJRc2JnRXVUbTMwREYzVFZaYzBaY25hVXZSUl83MVAzS2JtTnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDJkWDhweVR5RzJfSDhocXBaU1VOM0ltOHJlWGZrVWxWR2tXWllCUy1XMngzQ3plTkUzemYybEFJS0x2YUhkcmZjbS1CbExQSkJKWHdyYWo2NU9ERTlIelI1RXZnQ2cyakdnYXBBUy0xVTA5UzByVEZTVnBoMW1XaENoTDRBbkFxTU9kYkIzejdoU3ZJMkliTzA3X0p5TkpYOHc?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Why HCA Healthcare (HCA) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tQkM3aHlHSkhEenRYZXNkREs4Z3BzdFZkRjFXU3pBLW5McE9xUjVWVExYb0pTejM5OUJJYnpCNTktVjZ4SHFYQ1hxb2RkOGV2VjZROFF6MGNLUUl4eWRSTG5mYmZTdGF1M09fSU5VM0pkVl9lUTI5ZDBEV1Y?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is HCA Healthcare Stock Outperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMHdTZXBydWxiSll0TjJScDVyaHdKRWpqNEVHMWhsSVB0azM4QjY1TkI1dGF2RXZfMUtBeHp0TTBPOC1GMThqdWtlUm9abWdqU2V3UTdERGRJX28tZ2Z6VUZOYW9Tb1hXTzV1LURucVRKeE1kUDJqVGs1b3liZl9HNVlYa25IcE5rcGVrNVU3NjE4eXBJYTRzWVZPNE4xZnQ4LUpveFdBNzJOSnoyMzFjWlU5azdEV1RTN2hwX3kwSjhsd1R6blhwNUdEN3lTMFc0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why HCA Healthcare (HCA) is a Top Momentum Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0hXTEd0WkdGM1o3MVF3S2xLX0Iwc1VPbjVuTE51Yl9CdVNKVjFDT0FxMFd3eHVlM0tKX1lFZWJiRGtjR2VWM1VrTGExV0FfbmxaMEt0RXl6NUlHMmhIYm5idEkzNEtXRGhRdlFZZWhrbVA5MzZCSWQyZWhIeVNwdWhfT2wtRTdnTmJwUzJR?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Hospital Giant HCA Healthcare Prepping For A Breakout? - Investor's Business Daily",
@@ -586,24 +581,39 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Barclays Raises Price Target for HCA Healthcare (HCA) | HCA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTlZNEYtNEFjcjRiMVQzZHlDM2haU3U2Sk5aUTFUdVNkWl84VHEtN3NXQnlhWE5nYUdDdjRFZGFmckNjNXFfX3I2MDE4VUJVQ3VNdjZKb3VINDJNUUNzVWRhQUtXWWRyWjBYYlRfVzdYdVYwOC1lckk2S0J4YURZTkdQUDg3WTgyb190YVVGSzJIV2VHakVmYTZqVm1pVGRUS1FBR2FZYU4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is HCA Healthcare Stock Outperforming The Nasdaq? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3BGT0FuNUhCYlJ4YmlJLXJmYm4tM2hDTmhZZ29uNUowNkk2ekFtWWF5MGlkcUl6a3RDSGZVV2pDRWlTYjRzS1N4V1AzZ0hyWmhuSTZCaUNhcEFzYWFWeTJsNW15THpPNU9nak5janJGUHkwSVhtNUljNTZQNDZueDhrTzlnZUlrbTRJZ00xRmhpN0hrelAwcg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cantor Fitzgerald lifts HCA stock target to $444, retains overweight - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXBST1NjM2Jnbm5JVXVUWFoyX2Rwb0YtWDNxUExteFRYZFhCR0IzdlNXT1JoWjQyWnhvSnNPOTl6UV9STEQ0UVdvcmE2Yzh3eVo0MW1EQ3gxVHpjNlhqOWFkYzNLTTN4VmdTaGYtUnZYUHVQckN5SnNxYzFZSl9WeVpkWTBYeEhKWXF4VTJ4Z1cwX2Ytd2twZXpsRGw2LTJBT0o4aENDMVdWQ01UUlZGZ3E1a1liZEQ5cUtXSjB1b2dqdFY4?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Top Executive Cashes Out Millions in HCA Healthcare Stock! - TipRanks",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0ZBcVllR3FDR1g1MDBrUENWLWtkODIyLXJReE1WeVNKY28yZGVlekQ0bFBYVHIzUXptZlRlZHZ2dG9Dd3ZjRkZjdmF1QXBHbktXNlp2WFpWQ3k1R1NsTlhNMmEtUThUT1hzWDBmdFN6RGZ5Q3M0aUNibUVwdHhUc29peTMxSEtBQ0ViWGZMZ2QzTEtFNGRael94TC1uTERMdkNDVVhB?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why HCA Healthcare (HCA) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzJ5ZGUzMVBsY3pvR1REejJBbHQ5WENmaUxrM0VfcUpXa1h1SDhPUEtSRFF1MU5PMUFpcmZaQVF6TGpNUXpZNzV1dXlzaG5TbDVyNndHclc1TVBfUWkzSmJmMnY5LVA2MWhybjAybTQxRklPb0tYdEp0NkFTekIzX2Y3eldEZ3ZaN0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "HCA Healthcare Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY1JqQ3JlczBCT0RxUW9mWHo3alFVR3plYWlScTcxRm9Uc1otcjg5VzIxUi0yZ3A2VFBidmhpSTI1My1WcXNDampzbW9JTm1SZUZ3LVNkQ0JWd0FZZlVmT1FzUEszclo3aUR1MVd1M3dzajhjZ2FINVpqU19vWk1FcU5Pbjh4cVRJVUtzNExsb29UcjMyd1lheVJ1ajlEUkozTklGU0FIcG0wWk9EUnhOdlAzY2JlZ2ZLU3NWQU82NHBvQVdCbHBwQU5lNExCNEtPY0ZlZW1haDhOMTdKWjVBcDZsWnBPTnd4YnZaRg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HCA Healthcare (HCA) Stock Declines Over 1.2%, Continuing a Short-Term Downtrend - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkNxZU13SWQ3X3MzYU5DVDhGZGxENkpRN0hHazVQb3NPd1Jkbms3Y2lsOHFPY1ZHaGFpS3FvSGVyX2QtNTFZRXNfVXhndXNlNE1vQkZRWElXRmgzaVJ3SmNZSEI5NzVSb0lqaHpQaW1YNmZaM0hMWHZGMkpDbWlkcHRvbWlWM3h3ZjhxZ21aRE9jeVZnQWpVTXFEbXZ5NFBpeUdLWU5JWVo2blhha0lQdS1jTkp6LUJad0l2ZW5n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HCA Healthcare Reports First Quarter 2025 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclZ5NkF5LU5rRVNnN2lJakNYdE9YREItbDVnSEhONEJnLTVMNWpSWXQwei12bkh5RnpHQUlyNm1HWnBrX2RDLWMtUHBFREJ4elpkeHZoVTdmVXlfVmFhQnBEYkMyRFc3MkdpVzlEZ3E2ejNRcmNZOUJGMVNUbGdPVzhTUnN3c1FGQ0tNSnRTOXpvLXFTSHZpYWRLSHhVc2hZdWIxMl8wS1g0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HCA Healthcare (HCA) Price Target Increased to $410 by Morgan Stanley | HCA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDFMNWFyTnc5Zk56MXRwb05pd1IydzMtalJtc2I1bFhwd01TeFNaQ0NjTXI1b3JXbncyQWxWMG13NmRjN29OSzZZYS1SM20xeElkbUxWaDc5X1djcHYtbkU1U2ZHY0RqZDk3S1JEaEdhMlRxSnUxOGJhaU1BUE5jbkxzVmF6T2ZqclM5SXFyQ3RsTmpUa0Y1Q2hxUDJjeWstVmNzLXRnTjd6MTRiZFZBUi1XSFBsbnVUYmVLdg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HCA, Tenet upgraded at Wells Fargo on receding policy risks for hospitals - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmRIeC1kUjJYZ01DT2oycnFXSmhONl9FUjZIdWZzX19hZ1ROekpBaW9NRGRFQjNabG4tdnNZQjhOMDIzRjNKMmw4azRkTVpyRUZ0bWdVVVZWeTY4cE9zQTdZajdOQWxXTEN6Z2M3Q052QnJ2RThoRTVPYUo3ZHViQ0Rjc2tJS3c?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Here's Why HCA Healthcare (HCA) is a Strong Growth Stock - Yahoo Finance",
@@ -611,23 +621,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why HCA Healthcare (HCA) is a Strong Growth Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkk0TXlzWDYxTXdtSmtXNkliOThvZzFRYnlIVTNmZkluMF96R2RmendrQ2VhQ1JHYXZBZHpibDdLanJaUm51UDNXYlpnUkJ2dVZHWE81cDBob25lYVlhRVAxcFAxTFRBVDJ1NndMOEtMaEwyLVh1cGFaUjhZbzFMTWkxazRhNk9aR0E?oc=5",
+        "title": "Cantor Fitzgerald maintains HCA Healthcare Overweight rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmZKR3lJSUtBd3VHSU1QQ0pkNmsyU0NHWTdMWkNNUU02dFV3bWllQ2hWdFVhdnJ1NjBxTFFMbXZqYnQzQVlJNGlNSkdnbHhkZDFSVll5b3pCXzhnTUp0Vkc4bDU2MkFVeF9OMHVHYkZTNmY4V3ZUWlBMQVd5MF9JQTVVNjBWeHBpem00ZkJ6NG10cFExMWowQUR5THRSR3FZaW9yVjE5V3NOVmZjbDlNZlgwSTh0dDN5ZE91bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HCA Healthcare's (NYSE:HCA) five-year earnings growth trails the 30% YoY shareholder returns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWkhTWXZmLXlLczh1bWNtazNJMGNlemxldzdPVFJJM0VTSy1qOE80aFZqRW9mZXVCUkpyYnBSNkl2QUhqQnJpOEVfV3hoUUlSZ0htRzlWSjZka1JLcVRZYUtyTC1ITWFwMjloMVp6SE5EX0N2OXRpZXRicmRnNzBTWQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Barclays Adjusts Price Target for HCA Healthcare to $416 | HCA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVVJwNjZ0X3ZuaWN5cUhIejhCdnNNWFhCOVFCZVRnWjFtTjRCTWNzZFpQY0lKSnBjdlVvQlRyTTF1VkRVQ1E4NWx0YjE0X1V4M1BHTDZJLXFPdGpQMUkwVFhPV3VnaDE4MzFjUnN5TUMyX1JuSTdNckFTd3RIU2JkX3NuMkF2cFJJdXAweEdIWVUtUnVzV2h4ak96a2VERlRsUm80NUpGbGQ2OVROc05HdVlFeXE5ak94TlBmMmJCSlkySGVpT1VtNWRFTkFPN2Vjb2hRWjBNbTB2NURLOXRTTjRxdko5WWJSS1lBVERHSENpYndPR3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why HCA Healthcare (HCA) is a Strong Growth Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hbmxUR3pfeV9tcFpsVUh0MTg5bUVnREFDUEZHemo4eEhPNGZqTk9QOEJaX2JMY0IxZUxnNGFvOE5TTnZXdEJwVEFjMlhra1otTEplZkFhTlRFMkkwOXhSMUQxMUEySG5PTjI0Rk1ZbXhkUWZGRXp1OExUOWZ3RjA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why HCA Healthcare (HCA) is a Top Growth Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNzJ1R1Y5bm9SNFFNQWt3eF9mZDZWTHExd3ZHQkRfQTJZYWFkX1RraDhxRFJUU0VzWGZUT3M0TjdGZ3ZsQjA5ZkZvU1BFNlBSVVFSanlxSTlibDRPeTUzdW5yUmdJU05ySFB1X2tMcXZFMmxwY0FmTTNjUnA?oc=5",
+        "title": "Here's How Much You'd Have If You Invested $1000 in HCA Healthcare a Decade Ago - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk9LbUVyQXRzdlZiV2RrX0JNbkhWTmxWbDBmZElPUHM2a0hZOXFkSXpIblVQZWRFc19pU1FILWlWdF9lME5ZUnFGZWMxLVQxcGFpbjhuV3M1MllhRi02RTJTaHdQdVdrem1TTmVMS0VNV0c0Wk95VXNlcWtpR3h2SA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,26 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Winners And Losers Of Q1: HCA Healthcare (NYSE:HCA) Vs The Rest Of The Hospital Chains Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUZfRXpubGVwQ3NHVVVubTljekhmb0ptY0E4UkFlZkRmZlc5c1Y0dmJ4MW9leW9GUFZXSWRfR1FJSUljRzNqQ2d0SUFZaEhjQTdYX245QjdzVE5qMXM0V2lGTE9SS3loVm9qbk5mMWVGN0M3ckcyNThmbW03Q20yNC1WSzQ?oc=5",
+        "title": "Why HCA Healthcare (HCA) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNzJ1R1Y5bm9SNFFNQWt3eF9mZDZWTHExd3ZHQkRfQTJZYWFkX1RraDhxRFJUU0VzWGZUT3M0TjdGZ3ZsQjA5ZkZvU1BFNlBSVVFSanlxSTlibDRPeTUzdW5yUmdJU05ySFB1X2tMcXZFMmxwY0FmTTNjUnA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's How Much You'd Have If You Invested $1000 in HCA Healthcare a Decade Ago - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk9LbUVyQXRzdlZiV2RrX0JNbkhWTmxWbDBmZElPUHM2a0hZOXFkSXpIblVQZWRFc19pU1FILWlWdF9lME5ZUnFGZWMxLVQxcGFpbjhuV3M1MllhRi02RTJTaHdQdVdrem1TTmVMS0VNV0c0Wk95VXNlcWtpR3h2SA?oc=5",
+        "title": "Here's Why HCA Healthcare (HCA) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hbmxUR3pfeV9tcFpsVUh0MTg5bUVnREFDUEZHemo4eEhPNGZqTk9QOEJaX2JMY0IxZUxnNGFvOE5TTnZXdEJwVEFjMlhra1otTEplZkFhTlRFMkkwOXhSMUQxMUEySG5PTjI0Rk1ZbXhkUWZGRXp1OExUOWZ3RjA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why HCA Healthcare (HCA) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc3d5ZDNSaXhkczhOanNKaGFST0RFUXFRNFpiclFVRjVadXRmNlp0cndUWXgyc2VJWENlZks4enFvUWwtT1Y1Tll2S0w3XzF1YnNIMkxhV2c0TUd3WnJjX05KMzZ5SnBVMDlSZGVzQVFBdGlnMEU2cU5BNnpnOGs?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HCA Healthcare’s EVP and COO Jon Foster sells $5.8m in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGxrMUlGTW80bW9Vc1oyZ2JGNlBvWWg1eDVORjRVSmNMbS1jVVhCeGFmekVsUFo0dTkwSnQ4emNhREpkemhmTmx5WmU0VmtFdjdWWWRKQmxzVThWMjMwd184enNNMVJqSGxnaGk4Z011anJtM2dFSVVBOVBEYjFGal9qTURJLUN0YlZaUW1naUVmWlpCSzFzUlBvTEZNNWxhMGFLZTNCQnhuU1g0enpoQmdCV0E4NjZhQUc0aHdVMA?oc=5",
+        "title": "Why HCA Healthcare (HCA) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tQkM3aHlHSkhEenRYZXNkREs4Z3BzdFZkRjFXU3pBLW5McE9xUjVWVExYb0pTejM5OUJJYnpCNTktVjZ4SHFYQ1hxb2RkOGV2VjZROFF6MGNLUUl4eWRSTG5mYmZTdGF1M09fSU5VM0pkVl9lUTI5ZDBEV1Y?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

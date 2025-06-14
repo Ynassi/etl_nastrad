@@ -2,16 +2,16 @@
   "ticker": "1801.T",
   "name": "Taisei",
   "sector": "Industrials",
-  "market_cap": 1382118195200.0,
+  "market_cap": 1346234482688.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.906471,
-    "PB": 1.6120467,
-    "EV_Revenue": 0.672,
+    "PE": 11.587499,
+    "PB": 1.5701934,
+    "EV_Revenue": 0.655,
     "ROE": 0.13745,
     "ProfitMargin": 0.05748,
     "GrossMargin": 0.1073,
-    "DividendYield": 1.88,
+    "DividendYield": 1.9,
     "DebtEquity": 35.301,
     "CurrentRatio": 1.237,
     "QuickRatio": 0.959,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.03210496195502676,
     "ROA": 0.02997,
     "PEG": null,
-    "EV_EBITDA": 10.605,
+    "EV_EBITDA": 10.339,
     "BuybackYield": null,
-    "PriceToFCF": -19.983997697374072
+    "PriceToFCF": -19.46515637779411
   },
   "technical_indicators": {
-    "RSI_14": 62.619075442095934,
-    "Momentum_10": 0.6564280406242259,
-    "MACD": 188.00925506829935,
-    "BB_Percent": 0.833066687629488,
+    "RSI_14": 52.58820602051545,
+    "Momentum_10": -1.701229355519682,
+    "MACD": 112.64201604757908,
+    "BB_Percent": 0.2285121062238696,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9343051363025678,
+    "ValueScore": 0.8964462330744524,
     "QualityScore": 0.368797176853537,
-    "SignalScore": 0.4804454062236972
+    "SignalScore": 0.554269564357466
   },
-  "volatility": 0.0185163626895173,
+  "volatility": 0.0185209381858027,
   "beta": 0.378,
-  "return_6m": 0.2544995036374171,
+  "return_6m": 0.2055842785907604,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 6539.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 6621.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 6584.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 6600.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 6705.0
-      },
       {
         "date": "2024-12-13",
         "price": 6705.0
@@ -525,24 +505,49 @@
       {
         "date": "2025-06-06",
         "price": 8127.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 8050.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 8067.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 7935.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 7915.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 7916.0
       }
     ],
     "current_price_data": {
-      "price": 8127.0,
-      "change": 153.0,
-      "percent_change": 1.92
+      "price": 7916.0,
+      "change": 1.0,
+      "percent_change": 0.01
     }
   },
   "news_sentiment": {
-    "summary": "Malheureusement, je ne peux pas accéder à des informations en temps réel ou lire des actualités spécifiques. Cependant, si vous avez d'autres sujets ou des questions plus générales sur l'analyse financière, n'hésitez pas à les poser.",
+    "summary": "Malheureusement, je ne suis pas en mesure d'accéder aux actualités en temps réel pour fournir une analyse précise. Cependant, je peux vous aider à comprendre comment interpréter ces informations et à quelles tendances clés vous pourriez porter attention dans ce contexte. N'hésitez pas à me poser des questions spécifiques ou à me donner d'autres titres d'actualités pour une analyse plus approfondie.",
     "sentiment_score": null,
     "label": "NEUTRAL",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "TABLE-Taisei -2024/25 div forecast - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkVKSXJUUkgzNmhLMTNLT29kV2RSclRFOWhkVHB1ZFhsMTZjN3JhY0ZTNldXN0RlOXpBdW1CRndIOURLTDFiaFlXM1JWVkt4TVlwSmJXWHg4NWNxS3EtbWxlRmU3b2JDVEF4UW54WHZCMmR1Mk1tWWlzMmpLV0R4MmJaZzNUb1FjOVNhQ3RyX3FWNHRNZ085RTJYTkdNaEFfOFVFUVI1Vmh5VEdyNVE?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Quantifying Wikipedia Usage Patterns Before Stock Market Moves - Scientific Reports - Nature",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMGZQd1hmelJidjB2RzlJM1d6VXVlZDItQVRuY1VPNVpXeTduLVVWc2JVYmNUZmdxcjBwdE1MRGVaVVhYMWJ6MWJ5RGd0SkFNNndj?oc=5",
@@ -550,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "MSFT",
   "name": "Microsoft",
   "sector": "Information Technology",
-  "market_cap": 3501703823360.0,
+  "market_cap": 3521091469312.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 36.38081,
-    "PB": 10.880635,
-    "EV_Revenue": 12.968,
+    "PE": 36.638824,
+    "PB": 10.940878,
+    "EV_Revenue": 13.276,
     "ROE": 0.3361,
     "ProfitMargin": 0.35789,
     "GrossMargin": 0.69074994,
-    "DividendYield": 0.71,
+    "DividendYield": 0.69,
     "DebtEquity": 32.626,
     "CurrentRatio": 1.372,
     "QuickRatio": 1.244,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.20301840649903705,
     "ROA": 0.14581999,
     "PEG": null,
-    "EV_EBITDA": 23.472,
+    "EV_EBITDA": 24.03,
     "BuybackYield": null,
-    "PriceToFCF": 63.91358147843202
+    "PriceToFCF": 64.39898567270542
   },
   "technical_indicators": {
-    "RSI_14": 75.56227900437541,
-    "Momentum_10": 3.620196966732713,
-    "MACD": 13.57440711985555,
-    "BB_Percent": 0.9963878080263044,
+    "RSI_14": 70.51226001344664,
+    "Momentum_10": 3.0063487913484828,
+    "MACD": 12.65716892796354,
+    "BB_Percent": 0.8542892163780523,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9252368674727972,
+    "ValueScore": 0.8509897464867874,
     "QualityScore": 0.4257378103470591,
-    "SignalScore": 0.4215239863331693
+    "SignalScore": 0.4672221397024406
   },
-  "volatility": 0.0190044872190114,
+  "volatility": 0.0190192036395514,
   "beta": 1.026,
-  "return_6m": 0.0662191798267781,
+  "return_6m": 0.0632534454939794,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 50,
-    "target_mean_price": 509.1136
+    "target_mean_price": 513.3414
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 446.02
-      },
-      {
-        "date": "2024-12-10",
-        "price": 443.33
-      },
-      {
-        "date": "2024-12-11",
-        "price": 448.99
-      },
-      {
-        "date": "2024-12-12",
-        "price": 449.56
-      },
-      {
-        "date": "2024-12-13",
-        "price": 447.27
-      },
       {
         "date": "2024-12-16",
         "price": 451.59
@@ -537,73 +517,108 @@
       {
         "date": "2025-06-06",
         "price": 470.38
+      },
+      {
+        "date": "2025-06-09",
+        "price": 472.75
+      },
+      {
+        "date": "2025-06-10",
+        "price": 470.92
+      },
+      {
+        "date": "2025-06-11",
+        "price": 472.62
+      },
+      {
+        "date": "2025-06-12",
+        "price": 478.87
+      },
+      {
+        "date": "2025-06-13",
+        "price": 474.96
       }
     ],
     "current_price_data": {
-      "price": 470.38,
-      "change": 2.7,
-      "percent_change": 0.58
+      "price": 474.96,
+      "change": -3.91,
+      "percent_change": -0.82
     }
   },
   "news_sentiment": {
-    "summary": "Microsoft a récemment atteint un nouveau record en bourse, démontrant une résilience face à la baisse du marché plus large. L'entreprise a investi massivement dans l'IA en Suisse et sa capitalisation boursière a atteint 3,5 billions de dollars, reprenant la première place. Malgré des prévisions positives et une croissance continue, des ventes massives d'actions par des cadres dirigeants de Microsoft ont été signalées, ce qui pourrait soulever des questions parmi les investisseurs quant à l'opportunité de conserver des actions MSFT à long terme.",
-    "sentiment_score": 0.05,
+    "summary": "Microsoft (MSFT) continue sur sa lancée haussière, atteignant des sommets historiques malgré les incertitudes macroéconomiques. Les ventes massives d'actions OpenAI et les inquiétudes sur l'IA n'ont pas freiné l'élan, tandis que des analystes comme Citi et Wells Fargo maintiennent des perspectives positives, avec des objectifs de prix élevés. Les investisseurs surveillent de près les nouvelles offres comme 365 Copilot et les prévisions de croissance à long terme, renforçant le sentiment positif entourant l'action MSFT.",
+    "sentiment_score": 0.3,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Microsoft's stock hits fresh record, rallying despite drop in broader market - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmZsakJkME9MV0FpbmFzQVRZdThuX0VnQUJTZzlrbjQwaFZPam5lUU9SX0RwenNnZUotaElhWk93Z1liTGxMTnhhR1VYc1NaU1dQTkxmVUxfY1V1SmZJcE13VUh4aklIWm0xbGVLMHFxSHJUeUM4YWt1VVEtZUpMVVEwY200NTBKOVRJemo2dWx0dWdDamMxM2MzZTdiaWxUakxnZk5UZ9IBrAFBVV95cUxQWkRnNURCOGZRVVkzU3hlSWJwcVlYS2FZeU9wcmxfelVEX1pxZ0liMEVjalZaeWh6Z2Q0ejRuY0ZWYkM3R004aXBNaWZaNUtSUjUweGN2WlJuaE42dEVHbUJxVGpWeU41ZmNwUDRNZXBuR1RHbmRlUFNJaWhEQ01KZnNQUmZkOFZlTmFLVUYzZ21heUt2OHFZX0ZuSm1LaW1Kak9QQTdtemFuR1JI?oc=5",
+        "title": "Microsoft Stock Is Up In The Last Month - Is MSFT Still A Buy? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2Q0RWhfbm42WXk1Ym91RkdWMkFaeDIzTlhUYkVjV25HM3ZtVnJfYnA2OVpHT2JJSUtXVnBfLXFDd2tQYkpIY3NCUWtGNmswekc2cEFaZjJmQ3N2bktxa2xpOE9qc3poU24wQXY2MVQ1OFVNNWlOUlBUSmVzNnJHQUNmclNaOWxpdGRFb2VUNVBBemlERTBQdDktQkVZX1lsZ250QWNvTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Stock (MSFT) Shrugs Off Macro Blues and Returns to Record Highs - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzJsV0xnYWduakkwRFJwNmtpdFM3a1hvZktYZEtQMnYxX1hKRmkxQldxYjFfRlg2T1I5b2tMb1BiSWtBM2dpRVpQSzMxeEY4R1pQaWJmU3l1R19kVDFueUpjTDM1dnFPc09wZHFSUk9jdHZyUXZ3MUdZaVJLaW13ckNXTQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Microsoft shares hit a record. Here’s how far other Big Tech stocks are from their highs. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTEJLbUR0eUdkYU9VTDhWcEpnVUFDQ1BjUE9CMTBJSi02X3BrOUZNdVZnY1VwV0JhRDZ6VmlUcjFKb212UFlfVEVxZmFkMWNzSHlPZk5sLU5lLWhkQTh2RjBORWR4V1FmV3pyOGxtaUdsZmtQWDFDc0pkdzNlaUFndjRPSVY1Mk9wVWhVUjFtOTVCT05jZ3dsTEpSR05MdEIxck40d3Z4bEI4b2lPX0pEcUw5M084SnV3Yl9pQU80Uk1GZE5ETEVlWQ?oc=5",
+        "title": "Microsoft Hits an All-Time High. Here's Why These 2 \"Magnificent Seven\" Stocks Could Be Next. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3BsdW1ESWhVQmFfSTVFY3U5bDVnQnROd2RtX3hubTZjN1FTY3FlNG8zTi01YjNQd1hPXzRYOGRqTmg1NzRkVU83dFQyVWh2RHhoMjlnblN0SjRlM1pEdy1tdEhLYndqSEVFSnNTa3ZNcm5Ja2NjZDNXaWRXcURPZFRzMWdMOTFDYTBzbUl3Y3NwQTUwOGdv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OpenAI employees sold $240M in last funding round, bringing total to $3B: report (MSFT:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekZ3dC1UOThUSzNjUnZoc0Z3Y0l0d3Q2MXF2M0ZyZzJTbnpLWnVMUGtkMzMtU0FBLVZTUW1icG5sM25abk9rZ2Jkak5LRUlZTkdrNlU3ekY1RTZ0eV9Eblk4WTVTT1pCRHZWclpTdGpIelcwR241eTVlclVHaE1oai1oVFFnZjdjaHdJWGNJUlJVYTdWQWJJdzFKS195VGN1Vm9sSjJBbHFBOTF0UnB4Z3hpeDM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gaming as a Marketing Tool: Microsoft Stock (NASDAQ:MSFT) Notches Up Despite Concerns About AI - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkhNQXFYWlJyejJ1VXRmQV9PYlpENnNRNFczNjR1MGlQMXVfUVZtQWFkQjBvY0k0dTZkYXpoRTZFb1dwS2tIUjNtcjdZYl9MUHJTeFd3SDZkN2g5UDNDcm5JdWV0clpoRlh4S190NHpLYlpHd0QtYVVKOUplZng0V3VZX3JOZy1ITkxWOVY5dWhiRlNaTVJuVkRzd0VhZm5xT0phb1pLX3VFdDd1eFBwVy0xa2hQZzNYRldIeA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How To Earn $500 A Month From Microsoft Stock - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcF9fZXVLcDdGWF81akNaRWJiZXFrYVpiOEtpOHRXclFrNXZPUG1OMV9nZi1ZNzN3dEVybFE5QjRRczlqZ3dSN3ZBcm5UcU43bUkwcXBJV010SE1ranRzQUhNM3NmU2s2eWRETXB2UHRVSTZqMV9UaG45aW1kYXQyR3pMd1BXNmZ1ZWItRnFRQXZKVFNHdGhMMlpVRFZuSU9ycXlhS2VIWm1DRjFtdkpv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is a Summer Slowdown Ahead for Microsoft Stock? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjNITUM4N1htckxQR0MyRnRRWnZHVjBpRjNya0Y4UzlsWkVaWWJ5WHlGc29BYzIxM3lkSHpvemdhNnpQVjlEUlM0WTNucHNVcDVsb1NhMnd5eFdaOEoxaXhySW91bWJQMk5yajhYaGFiMGlveERSZ29jalJfdWFBdU56cGtHc3NwcjlZaQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Microsoft Stock: Time to Double Down? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMzhzdUpiWDJzMnlXYUVZNkRsUFlfVXd5LS1fNlphMF91U1E0NXh5ejFBb2RRN3U5dzN6dzhROWdtekUwanZLV2d6bVhtNU5aUjREME5lTXBCSTVqcWR5WGVDQ19NLWFRRWVVLW1qTkpOS2lDV1VFbWx0azlxRDQ2aFBocjA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MSFT: Microsoft Stock Jumps to New Record at $3.5 Trillion, Logging Back In as No. 1 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOekpYcWo5T0FRNFBBNmdEcTVVcmM4OFFKcHdwVHFuSHRraUZMVGlBbHdibm9JbEh1WjEzODZsT0k1MDVYbzcwSEVpMGg0THNuejdrN0xsU01xZ0xWTWZmVV9pU3FHd29fMURoWjA1Vk5JNXRFMFZSeXFyd2Y1QmVXVDk2bjY3aXUwVk82dW9hMHFQRHZnVVV4eGhYUDl6RGt1T29yeVdUQ09QT3ZLQ3lMcnpjMllXdkhfcVZHTlBtOWpLOVpSdEpUQXpGNlg5aVhIWDhwcG9xdzIydw?oc=5",
+        "title": "Citi Opens Positive Catalyst Watch on Microsoft (MSFT), Sees $605 Price Target on Strong Azure Outlook - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnBrdkhicnhqVlJiUk5fY01XM2hBWGlaNHh4M3VZUlJUeEc3SUowbTdiUWtaMWtJaEtaWHgtZDVkQXk1dUxCRWlLaksxaFJsSmVUNkxteU95UGJIVVZ2SHdISWh6bjFaWmw0aWNXSXBGQnBFREJtVF9jVGEyb1lBNFRBUUpMTlE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Microsoft Corporation (MSFT) Bets Big on Swiss AI With $400M Cloud Investment - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWRXM291YTFFQklJQjBoVFJDMUYyX2MwX1NjM1JkSlFmcmF0T2hVWFFkZTdET0F3Wm5DRllqanpCd2d5UXgxQm13eVdRd2JDYWhTdWlwTWVucHVrRG1qU0tHaWJxWmMxMTh2cm9uZTlYODBqRmc0QmZHSDJZMWp1LUQyVnZfbnJL?oc=5",
+        "title": "Microsoft (MSFT) Laps the Stock Market: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN05LenQ4SENDSllUN0t5YjlFT2U3VDQ3V280NV9ndDVhNG5zUnE0cmRGYVRLRjcwSnpyN0VrWlVGYlg2enBkRVl5R2h6eENzQk5VTWFKejRtNGdEVE5VU0YtbmZlQU81R0NQS0FiX1RPQWltUHRBWnZ4UEp2TzJPN0VoMmI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft (MSFT) Deal with Barclays to Introduce 365 Copilot to 100,000 Employees - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2txcnJjY0RmZll3TWp6WFREQ3JHM3FHbW84dVVPSklEU2N2Z2llZ0NXYXBBS2hNeEtkNFUyek01YXIxZnc2NzY3VUlSWFBsMzhkUUM0clljdlhWZWptY280S1pBaVhJdWg2WXBac2FiSFpXck9RUlhaRUw0YmJSU1B6YjdVOGN0Z2VoRQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "SA Asks: What are the best gaming stocks right now? (MSFT:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVZHTTBBRTFjOXBMLXVqLVNLTmE1aUh3X2FsMU1RSG44S3VLRk4xUF9zUjVSZUYzYTgtSE9hOUVGbUREcTNKSHdlcE5WWDkzTU5SQ0Zyb003bTFRQThTYTIxU3FhTEJod255N2d3ODkxUU1tZUZIVFRIczFDVlpLOGtPOWY1TWJrXzRaZDJHaEU?oc=5",
+        "title": "Watch These Microsoft Levels as Stock Hits Another Record High - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnhMX0JwbU1HWkVjNzVmRmw2ZjJ5ZDdYdXBrTXZKOERYSmx1Y3pWMjJXVWJoblUxSDRXUTdqUTNwaWpXLXprSmVleW94VklFSlNVR0hvZEJ5V2xNM09LMUI3aHVxLTBFRDhnNnZaYXVQOW9BaGdWNEJSXzBtQkRWQnVjajJoOTg2YjdnQzRva1JGNmZobWZoa1VFemEtc0U2TEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXN3X3hMenZtbVJPemFOaGRFWndJVFZldUVBSWdJUUJGZWpBMWM2S3dpRjFtenBfNEVsNXAtQm8zZENfMkNBZ19EMm1pRnN3dUhibFRMSWsxZzE4Y2ROV0JiX0cyZU43S2NXRzlMc2VHTTFfUDVrTnZpWVZwWUFlRGpTNGlPdDZlZkEyQkQ0c3RVSGQ4VEV2SjM4YkNzUTh3LUhhUVN4SWZiN1ZoMUtZbFVhVU5jeFVYRnBlaXJnMHNuQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tech Bull Says NVDA Can Be A $250 Stock If Trump Takes A Step Back From Tariffs - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3BJZ01wUjV4ekhwY2doNHRWLWFVRGNST2dZaGt1NTVhME5HbURtUHdDUV9VYTBxLUY4RWtUMUJmTTg5ZUFFWnEwcGZtS1NaSEh5VjFqRFlOWXBZMm1SMHBna25Ma0RveGxObUxkQjVfRzJhMlVtU3dGTzExanhrQ1ljZlFjdGNFM0hDTU1qM013LWl4bk5EWUJnVG1ONDVHdWUzbndqc3dUNEd1Sk1ESGhNNnUyUHIzS2FtNlVGU2llc0Vic3RabzFjcll1Vnh4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microsoft Stock Near Peak, Pullback Seen as Opportunity - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1hNNmlXaE5xQmpLUGx3cEtoV2dPcEVDSW0wUkxNTGNnU3d6amlxc05fdkN4ZkNZMmNHMTNNM0FhTjRYWlRQYWRNd0l3TXh0OFJmY0t5eVhoalozYl9Zc3U0dS1yZEpLVlROYVR4eGx5eGZBcm9fNmxucnhUaW11Q24zc3hhUlRjU2hldmktczlMcnoxOWU0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microsoft Corporation Continues To Be The Story Nobody's Talking About - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGZWR05ma25pOHIxUWFZUDZ1aFI1RjBudHk2cGJmdmVOaHJUc3JSd3JfV3YxT3FiTEJuemd2ZTh3bjJjODR3X3pkM1kxWkp1X1N1Vkoxckd1UUhVU0M2SFBKVkZfS2JmV0tpN3NhY1VKZDlGWWxUYkFHSm9fcWg2em9zdXBqT05fWjR1RUF6Y0VUTTNVVEtQUms2ZE9ERlVoQ2d1NlVZbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microsoft Stock Proves It Still Has What It Takes - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGlkSmhHdnRaa1VEN0hOd0dULTRkV3lrdm5RNlU2NEsxd1RsUzVtdjlQQ29GSDE0ZC04RVRzbV9qMFRvUkJqRUw4YUhoN0NQbDBjWXUtdFlLblRrQ2dnenV0Z2xCMkxISGl0S0NjOEFVSlRpQnFyRHBsWll6eDRUZEJzelVyckk1d2JTUA?oc=5",
-        "label": "NEUTRAL"
+        "title": "MSFT Options Trade Yields Impressive Gains | MSFT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUpPSEprcmNuUnNsUGR5cGE0VHY4M3d0WTlHU0YwMEdoVDI0M2hBRXdDakk4R3VjX0ZuZHA5RjZtTGhsWFU2YXltWjV3Y1B6VUNpZk1TbXVnNFhudVdnZFZHMjJoUDFNdWpqeTJvVlFzUmktejB3ZUtDRmRTRmtmREVQRk15WlJOV3lUTkpLY2lsQmx3TzM4TkhoVnlHQQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Buy MSFT Stock At $460? - Forbes",
@@ -611,51 +626,36 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Microsoft’s AI Tools Are Everywhere—And So Is Its Soaring Revenue - Security Clearance Jobs",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkpHbHdwZk56Mk41TTZ6QlIxZnpsOTFkVGw4a0E1cFBaUnljcHRZUnVaZzZDZXNfLUV0aTNOU3NjTXZSRkFaY2d1dUpMU2tLSXlZUnBPakJrQ3RCb1pTU3Y1X2hpaURIMDBpQ3Q5MDJjVHY1X0pkcjJaSFdwcHhYTnF0SDU1V2dFOTJTQzI2SF85dl9TM2JQMXV2aDZWZktNZXotcVFjcWttY3c?oc=5",
+        "title": "Microsoft Stock is Up In the Last Month - Is MSFT Still a Buy? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnVnZDhzVzVVMmZ3SjNZMnFPd0RSSGIzS3RPeUxrd2FHTjJjeEtMSS1KT2ZOWE5IUWVUU0FzU09EU3hadEs2Yi0xMlpySVZTOVl6bTlCcTZDVmswTURXVmRVTlhhOXUyVlNKeDlzRHpIYTk5Zkpyc0JEU1VYX2xZQUEwbTJkWTdLRXFLaUM3UnIxUVNUNFcwZUdJMUNSYW1LaFlqdnVENExfN3RYVno0Y3pOLVlENE1OM0NIR0JGNW44a2ZXbXIzT1c3QlF0WXVOR185T3p3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Analysts reset Microsoft stock target amid post-earnings rally - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWM5eDRYS2M0amdoRDZBSXYxUGZVU21LZHRnTzdIR0FwNDVNLVRobGt4X2VrcFg0Y0NPQ1BMRktfTU1mTlp0NDJQWmFHbHJYb0t0SjhaRTNveHZPTFZNWFpUYWZlRXRzZV9RdWI1UXlCLVRBRndMNV9PQUpZaktNM0N5WW9JRlZzOEZPWXdsOFZyUk05ZFdNLVV0UHk4aUFT?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microsoft Climbs Record High, Reclaims Market Cap Crown Amid Tech Selloff - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUhpVmZDekNsWjFpTG90NTFCMGhLallmWlRBX3ZWWWpnSFp0MkVobl9tMG9rRVd2ZXA5eDhqaUxLNVVXa09GM1MxSTN4QW5vZ1dlNW5TT0l2R01Dc2stUkpHZEZraXNKQXBjZU5CcUxuUTRNUmtzU3UwT3BDWkxMcU53eHRPU2JTLUFxRW5KMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "This Magnificent 7 Stock Just Hit a New All-Time High. Did You Miss Your Chance to Buy?? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTE5bUZkNWVlQlE0NHZ0WjV2ZGZ2VGxGeGdaM281YkRaWlF2Y0RvZEZTVjZGUmNTMDctQTNhbmFsRTloLTVIc25MY29YX0RfdEMtUTZ1czdSTVlZY3FxX3doRDJpNkktQmFQdVRJQTBydmx1N19EOHAzM2NORGk3a0JaclprTGJ6QzdXVU5xZVI1SEZNRGZaeDFQTDFaOFgwSW5xT2hsU0pNM1FwNWNfbXRiU3ZqVUtUQ2hPN0lrUdIBxAFBVV95cUxNcDJ2Vkh0TFVGdGhjdGdfWUJobWhWSzBRZ3ZfZE1tR2hMX2lLRk54M2VycFhyVTZaWFh3azAtYWNnVVNZRlBOTnNYSVQxZnlpbDR4RDIwcW5jb1hPNHVpWXktcjc2aVhMczg4SllXOTRYZjVtU2Q3WjVCZzN3ZGtNSlViYzhnYU80Y1d1T0ttTnQzZ3hYUE1INDNDeEI5ekNlT0JCckdUMGZxSHFVT0MxSnA2LXhPc05hN0p2UzdTSlg0NDRs?oc=5",
+        "title": "Microsoft Shareholders to Receive $0.83 Per Share: Key Dividend Dates Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTNDUUxMYVNnTEdOTkpRWGpFbkZseUtqQUQ0cEQtdzdGdnEyNTE5eElYaXpGRnZUclZfcUlnZXQ3TWs0TzczRE14M2Nja3lDNUxObEU0UkFkcDE5NjBsXzFnc29NbzZsTjBkYm5qY1dGTm1ZcFFyWHpRT0o0QVY0b0lDdlVYcWtQaHM5OA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXg2VUFWTUsyQTY0Zi0tQmdxRHBYZkYtSFJpem44UEtBSXViSm1VOTN5Z1hBZGpMUWRab2pHdmpJSkNsd2ZXVE9aUmZQSlF6cVljcWplajh5VEFSV3RVSlM2V1JjNGJ1bzVKLVBFdXF2b3piRXhFeVBGOUFRaWl1MGJhdnZVTXA5VkJpTTRjWGRvUjM4d1JPaEtqaC02V0tzNi1raTBpUzBONndhYWx4ZjkwM1J0ZzZRRl91VnpYRF8wUQ?oc=5",
+        "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2025-2030 (June 2025) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkk4dGRyWWdvX05lT0E4dGh6Wi0xWGx1M0tVS1hzcERsVzhaT0hiWmdVTE5EQk9IdVJHZXJ3bVRpa2k2N3BFdGtCRVc5ZnpQbUh2bmdHWnFhakFuR0JfQmVwRkplOHJTYUZXdWhvODF5ZDBjd0tOeDVUa2dGVE9yMzJBWFdaMEJ6X0xVd3ZKeEhTdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "What Makes Microsoft Corp. (MSFT) a Solid Long-Term Investment? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkRXN1loNVBGWjJSdDZDbjdMSGJvbmZOZ0FneEp0TGdaWUhPOFNtQVprby04MkJhdzNTLVNiRDE1M0lUQ3ZtNUN0YU5wdGg4S1MzX09uMGd0M2tGYkU3S2JRQldjSjE3ell5bWpJUk85UDZpcmJjaERoeHh1QWhtdUpVbkJSakNjZjFsWEtuOThNazl1VHl2Qkl2dlcyX1o1Z2NMSDBiUk5OaDVORDBFamVzYzVhVS1HRFljOVZZVQ?oc=5",
+        "title": "Microsoft (MSFT) Price Target Raised to $565 by Wells Fargo | MSFT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnhWbWZRREFBZ1VYYk8zbXZDMGdUdDItS29JWHlkdFJqR0hvQThqQmZtbTZkYmtRd2p4MURJTmU5TTVzRFhWRktWU2JSMmw2Mi1rUkwtSW1WZzN3a0c1RlBEUmtzWG5fZng4US1NZjRDelAxaVA5OGppc0ZhWFItZjI2SWNOdll3S2RScElhLVZKczJCemJQWDNnNzQ4UGtxaFlMOERoaFhreV9mNVA3MnZR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Should You Hold on to MSFT Stock in 2025 Beyond its 9% YTD Growth? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmN3S0hYV0xrUmFaYndMaUtIUmFfS2t2ZGw5MldKanRxdXd1SFhfQjdVVm1uc1ozZTBNVDJ5Q3V5aE9ZRmhxY0JoTWNscGtVeVVZbUl5SDJwWDFyRGJSUHcxNGVQci1UdWF0bXJEZFpNRFd6NlJIUE4xV2FERk4xUUxtYWZtSExoc2tMd21vTzJLNW13d1lKN01wbmVMd19oSjdScV9NUS0?oc=5",
+        "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkF3UTFQTVlWdURROE1YZl9qRjZFMW1PY0lvZ0RORm5veVVNR0lINXlaSVB5Z0RTZExiTE5uUUF2aElYNm1IOWE0bnYxVnlJYVFsd3hGbmVyZDUwdkNzV1plU3B5Mi1Db3lqdzNFd3pIbm9jUXJjVWdrS0sxcXhHVVhRRkc4SjhYdEVrTm5jcU1nWUN0UFNBNm5PdDhOdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Microsoft (MSFT) Gains Ground Against Zoom | MSFT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRk1lV0xQMkNiWTVBTlhIb2IxZUhHVVo1S09VUEJ4ZFNKUDdsYkIyZDhNNFNsUjF2UkMxQ2R1ZW0yYUdtbHJyNnZvY1drVERYOG14WlVBWUJ3eHlNTzZUTkpyWkJjVVpUSWU3elM3bVF5MzlfR2NhNVVaaTZtTGJ0aFg2R1pfQnNMNVV6SEFac3k0ak9acDg5VDNEYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Multiple Executives at Microsoft (MSFT) Sell Company Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWFTZFdLOVRuMklNQzBzU1JRQWN4d0FVQWpqLVgyYWEzdzRkWnFxTDZYQ2tPdUVSc0M4SERGWHdzT3JLOGVIY3Ata1V3UHdnZGZ0UzAzRHFVajZjX0pmd0J6emhlSG1xdUNieVJUSUdmWncycEpGNE5tY1lOS2lLVTdpcVZGbDcwRGdPVjVtRQ?oc=5",
+        "title": "Wells Fargo Increases Microsoft (MSFT) Price Target to $565 | MSFT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdmNCc1MwZXI2eHNRd2F2UmY0LVJHbGhVVjczR0I3cV9EakxmN3Uwb2FEdnRkZ2xfc0JVU29wX2FJNm9VRUh0SWlvNGZnckp6SVV1d19hc1E5OEhJVTFUZHdVNm1xSEs1MzVlYjdvZl9tU3FCRmN4Qm92MUhRX2haTGYwR1JXMlN6M3ZDRjcxYmhfM0NMaEN5a0hpblRJcVhCSWprczlhODRpd2pfd1F3dF9FbnZGcjJQVzdGaUwycE9QWlM0UlJpMUxianAxS0psQzcwNVlZMVFSVG9ZbEtNS0lMU01nWXNqUmpXYmFpMHRlQzYxcnZEeA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

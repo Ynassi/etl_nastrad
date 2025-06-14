@@ -2,16 +2,16 @@
   "ticker": "COR",
   "name": "Cencora",
   "sector": "Health Care",
-  "market_cap": 55978020864.0,
+  "market_cap": 57283424256.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.38844,
-    "PB": 55.253487,
-    "EV_Revenue": 0.206,
+    "PE": 34.206596,
+    "PB": 56.541992,
+    "EV_Revenue": 0.21,
     "ROE": 1.4178,
     "ProfitMargin": 0.00546,
     "GrossMargin": 0.03295,
-    "DividendYield": 0.76,
+    "DividendYield": 0.75,
     "DebtEquity": 827.73,
     "CurrentRatio": 0.873,
     "QuickRatio": 0.482,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.012500880476016196,
     "ROA": 0.02974,
     "PEG": null,
-    "EV_EBITDA": 14.811,
+    "EV_EBITDA": 15.109,
     "BuybackYield": null,
-    "PriceToFCF": 14.461600186360624
+    "PriceToFCF": 14.770464534481633
   },
   "technical_indicators": {
-    "RSI_14": 51.9666574599261,
-    "Momentum_10": -0.289544097171525,
-    "MACD": 1.610942262486731,
-    "BB_Percent": 0.5462488743181021,
+    "RSI_14": 60.4162697213201,
+    "Momentum_10": 1.4884707176262597,
+    "MACD": 1.373769523561066,
+    "BB_Percent": 0.9231797436595696,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9062664525597044,
+    "ValueScore": 0.8680435957815874,
     "QualityScore": 0.3500220356306013,
-    "SignalScore": 0.5809232524207151
+    "SignalScore": 0.525476352916493
   },
-  "volatility": 0.0137200065298296,
+  "volatility": 0.0137673142083382,
   "beta": 0.571,
-  "return_6m": 0.1914828416907938,
+  "return_6m": 0.2779109830469692,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 321.43
+    "target_mean_price": 321.49667
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 240.51
-      },
-      {
-        "date": "2024-12-10",
-        "price": 237.01
-      },
-      {
-        "date": "2024-12-11",
-        "price": 231.89
-      },
-      {
-        "date": "2024-12-12",
-        "price": 232.12
-      },
-      {
-        "date": "2024-12-13",
-        "price": 232.24
-      },
       {
         "date": "2024-12-16",
         "price": 229.82
@@ -537,77 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 288.94
+      },
+      {
+        "date": "2025-06-09",
+        "price": 283.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 284.24
+      },
+      {
+        "date": "2025-06-11",
+        "price": 286.64
+      },
+      {
+        "date": "2025-06-12",
+        "price": 295.04
+      },
+      {
+        "date": "2025-06-13",
+        "price": 295.54
       }
     ],
     "current_price_data": {
-      "price": 288.94,
-      "change": 0.81,
-      "percent_change": 0.28
+      "price": 295.54,
+      "change": 0.5,
+      "percent_change": 0.17
     }
   },
   "news_sentiment": {
-    "summary": "Cencora, Inc. (COR) a récemment été l'objet de multiples mises à niveau et ajustements de prix de la part de Wells Fargo, ce qui a entraîné une hausse significative de son cours de bourse. La nomination d'une experte en chaîne d'approvisionnement renommée au conseil d'administration a également renforcé la confiance des investisseurs. Les analystes soulignent la valeur, la dynamique et la croissance de COR, ce qui en fait un titre attractif tant du point de vue de la valeur que de la croissance pour les investisseurs à long terme.",
-    "sentiment_score": 0.5,
+    "summary": "Cencora Inc. (COR) a récemment attiré l'attention des investisseurs avec une série de mises à jour et d'évaluations positives. Malgré une performance sous-optimale par rapport à ses concurrents, les analystes de Wells Fargo ont rehaussé leur recommandation sur le titre avec un objectif de prix revu à la hausse, soutenant ainsi son potentiel de croissance. L'ajout d'une experte renommée au conseil d'administration renforce la crédibilité de l'entreprise, tandis que les indicateurs clés de ses résultats trimestriels sont scrutés de près. Dans un contexte de guerre tarifaire, la résilience de Cencora et son statut de valeur, de momentum et de croissance solides en font un titre attrayant pour les investisseurs à long terme.",
+    "sentiment_score": 0.25,
     "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is Cencora, Inc. (COR) Stock Outpacing Its Medical Peers This Year? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXY0b2JmaWUwN29acWtfSUFBc25rLXdtQnE3SmIyM2dKYU9WSms0NkI2TFdtc2pqOHJPUC1WZDhOcXVzalIzd0luSndtcUwzLXNSSDBFYktBd2R0TDEwdjU0eG04RVdCRkl6MzR2TUxOaXBZRDJMbnctUk5yb3ZJazUycExKMnlIb3cybG5Tdw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Corpay Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFQ5endKU0pyOWF4bXBCYS1EVEVlelZBOU13ZzZNX0FrUnFKUVBVUXVndkpEVVhpc2ZMR0ZaS0tjNktHV2FPMERhRGJLRnJQNllXUTM0MkNONW5rUHdzQmdIcktfUDVqWGxoMW1QcVFXVlFqaTJNVUU3SDdacFVWWUxxcnROUmQzRTVIMVV1dXVnX1BjOWY4MFZKSmpWeG9HVjg2bl9VNUlQZFBKRlVrcDRwckNXdzZRa0lDZEgxeU5QTWNY?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Wells Fargo Upgrades Cencora (COR) Stock to Overweight, Lifts PT - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObkJha3MxWDRLeVA2MVg3VWxibWR4aEJYWmJmYVlPQnVCSXpNMEwzR3ZwOF9ZZmN6N1NwVTZ0LVBlZkNvRXlQZExzUVZOb0RITUl2ZHdlV01pWWF0T19zQmgwMVdJSWJZN0Juek1QbWg2LXFtVmI3ZDB2eWQ4ZVNMd2dHVG9lS2c5N2pXRXIwcm11dWNvV0p6dlNySjhhdGpkcmRwY3FlZWRObHVYVGR1ZEV1ZmNpUQ?oc=5",
+        "title": "Is Cencora, Inc. (COR) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXdhQ3o0ckFWa2tFMGFCcTU1RDNJSnhjTG11bE0yZVdtVExfcDJzMk9WQ2Y0QjlERldzaS1WZWRISm9uRHFPdGZ1ak1YTFUwQ0FtNlhhRnpGT3VWRHF5VlA5dVpSNF9KLWdfSGxqdlJtSUw1ZnByMXVMdURLZEFlRWZ3SQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Wells Fargo Upgrades Cencora (COR) with Raised Price Target | COR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFFGbGtSQ3RCeTFnc0JHSWJTN1ZZZEY5VEVkbHpEQmphTy1XbTJBaklKMUk4UmU4MC1iM0N4QTlPV2dyVUdTNGVQRndnSGt4aHJnQTFJWEVlclFlelNFcG92R3BQMi03NUVLRVRhUGJCdWhKSXVaWk9hdk1lVmQ2UnJtR1hpR2g1U3JRc1ZGYUZLMkttdzBGWUQxNjNuc21ua0FBaENzLTlkNnptX0pscWpn?oc=5",
-        "label": "POSITIVE"
+        "title": "Is Cencora Stock Outperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmdGcVpzaUkwQWtsaGQwUzhYdDFmaHhKay1MMVdpSkgwcW5WMjZWMEhNMmhDbjJKdmZ3VFZjcmFTQzN6QW5hTldLVDNCTVZPX2pFQV9EdlFWQTFqOWlvZnBYVGJ4SGZNRzFiLWZNdzBpM1NYcFJfOU53RElJSnVHXzVpdTc2Qnhod3dhQjUza2NUcDllWi0tc09kSExCRW9seUhzdUNQcjJmMXY4cVJtNEV6Q2tqcXdZM0g2VmdhdUU1bW8?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Here's Why Cencora (COR) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrU1FBSzZpdUYzWUljeTZSZWhLckZwa1FYTUd4aXhHOFB2YlAtYXlJbWxIZkpjRjd2SEdKcjJrRF9sV2xWcUk2LXoxWm0tclRxQ0EtTnlzTktnb0s5Y2YwaXFOUWVsdElfUnJqVy0xaGljTVJsY204Qmd6dDZQRkU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cardinal Health stock, Cencora stock upgraded at Wells Fargo - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWY4MnF6SXJTakQ3SWhaU2F4RXRtWGdJVEdIeENxbHRJZlBCdGVNb3NGczY1VXhGLXhFanBkVHg2QXdzUTcxbDFJLWlRa2lYcWdMcDFTTVdQZzRRbjBzY2RMVkNTUjVHM19yN2U5N0gwemxldFBOazJvX2FTX3VkWUV6MTdaZ3loRTNFbnN4Tm8wTFZsUF9RZGdR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Supply Chain Expert and Former Fortune 500 CEO Lori Ryerkerk Strengthens Cencora Board - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTJnNHRRWXBEa1p3azl2ZENtWkRjU2V0eWJ4ZjlIdnRfVUxFMHFGQkZuQXVKY3g1SlI0TEhQSWtwRGpVNE5KSjFoR2JfUTRibVQ0eXVQTVZENFcwVDI2YjdGLXk1d0F3QTcxLTQ3S0dDenJndjdTLXBMZThVSUp0LUFYcG5aMnlkVU9Odk1RRFNJNjlkUlR0WnZpWUxhU0hWWnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Mizuho Adjusts Price Target on Cencora to $316 From $315, Maintains Outperform Rating - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcGJXeDI3U1NGN1NqcTlmWjdsMDFfeUIzcmNoTWlQLWxmS1JwWGtxcFVMWFQ2MWxwTWxILTctTmhaNDM2by01Vms5ZkU3N3FwbU85eWo1MEI5NFFFdXhWWFFPRi03OU9PXzhhMWo2S1kxZE9ZeGI0NF9uaHRsdXJGT2t6RkladlVEVnJqZmU2WGVQTXlVb3JLRWotSzdXcjYyQjRRUWJUVHdEQ01mZ2pwdFBTTEp4UUNibHJ3ekFaLVdFbWhSRm81S3ZNeWkzalJFX3VmRVBoQ2tTOUxCb0RtRTR1cmcwSWl1RVhDSHdlV0tNZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cencora (COR) Receives Upgrade as Analysts Set New Price Target | COR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjdRM3Q1QnFPZHhHV3hDTkpkbnR3UGxUNDNINU1EenFkMWFYX05iaWU1WXQ1SUYxWndBZWpuVGpYWjBFWkN5c2xCUTMzcmJ0RVB0VlZjUXZRcE9HZVBoTGdHQ0czNEJWLXZCY08tU09rMkxQOVd1U2ctOTljUS0xZ0FfVnM2eHFxazZRZVllaFNjcmdtNnctV005R3lxYzhCZXU5Y1lPbkQyLTJKUDRaejlmYXJMcG8?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Wells Fargo Upgrades Cencora (COR) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMUUxa1VSemsySU1QOVRRQll2ck5rU0dJVFVmdkJZYzh0QmVaSUhUc2VTLU8tUy0wOTIxZXliWVU1d1ZRZmtsZnQ4NGczQ2h6NnVmYWJsQThQYVY2NU9IcERTemhqdW50VWJUd3A3Y1c4dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Cencora (COR) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZM1QwYi1jcjdSM0VOYlc1VldpdmF3b1hpSXVpVlZqMmVQcnY2RjVXM3JwdEJaanhYcnRmcDhjN3VWT2RyekdLYjB1RUZlaHJXMzJNeFNMamlUZHYxNFY3NFl2b0kxSzlfQm1NQ3ZKUDQ1MkhWX1dNd29lTXBmUDA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why You Should Add Cencora Stock to Your Portfolio Now - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRE1DZmIwemZRYWoycDFTVGFSeDN0NlFUR3hyZWtybTJOdlIwYTV6c0wwaWlVcDNxWklycGZvWEdZUkI1bjNOMmxDN3l6c0xaTzlKNlZCV0hNS3RMb1g4eC1yOUVGZ3BfVl84UjUzRDhOanNYSWFIaXlpVjNMLS1aMGZPeHZKM25iVllZc3FUbWVtemlXZUNlZzNxZ1p3WGM5Wml6X2V1c1E3RWJDckJSaHVTV2M?oc=5",
+        "title": "8 Stocks on Jim Cramer’s Radar Recently - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE1DWW5aZTFld3pOODFMcFZyc01wcGxKVEpKU2NDLWtxLWFBYWNhVGo2SkUxUlcyZjI4OEVNZDI2cFFic1BBVEloUkZQc1VuWjZGN0tfN1hQako1TVJsbDFmcmItbnltdFNsLVVmWlRlR0FDVjE2UWRzY3l6eWxnRVR6QnY0YXIyUjJ0R2dn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,13 +581,38 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Wells Fargo Elevates Cencora (COR) to Overweight with Raised Price Target | COR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDBHdUdfbmdkWHhFdTRXdnZDMTEwazYyX29LbmFPSWdZZ1hpcHpNRjFRMHFBR2pwcGlWZ0F6M1g4MzI3T25hRjJGNjd3VWpVWDA1TVd1cmROLTkxYjc1N21OZWdpMjU1anpuVk5QOXc5OTdMRGUwRVdWUUFIYVdyejVRM1ZwaV9VcUtRWjQ2aHR5c05wVHpCQTFkS0FnbWhfV3piOVk0c2JZRHgzNGhoQWp2eWhvbjJnZkJTTFZuZGsxak5fOTA5RFdRRlBCN3pEZ3hv?oc=5",
+        "title": "Sellers Rule The Roost Amid Tariff Wars, But This Stock Hits A High - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0x0b3BSc3Z1QkYzc0ttTkp1SVFoNm5ydzR0UFluQUhrZFJvZ1NpWXAyWHdJeS1wSmV0MU95VXlaQ3BxelNxNHZVSjN6WWhIVkxTdVlXS0FXUUI1dmd2R0FVNGtFU2dmNmNld1NCaVV5a0k1MDhoZENoOUVONWFDVTY1LWdzdC1RUWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Upgrades Cencora (COR) with Raised Price Target | COR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFFGbGtSQ3RCeTFnc0JHSWJTN1ZZZEY5VEVkbHpEQmphTy1XbTJBaklKMUk4UmU4MC1iM0N4QTlPV2dyVUdTNGVQRndnSGt4aHJnQTFJWEVlclFlelNFcG92R3BQMi03NUVLRVRhUGJCdWhKSXVaWk9hdk1lVmQ2UnJtR1hpR2g1U3JRc1ZGYUZLMkttdzBGWUQxNjNuc21ua0FBaENzLTlkNnptX0pscWpn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Global Supply Chain Expert and Former Fortune 500 CEO Lori Ryerkerk Strengthens Cencora Board - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTJnNHRRWXBEa1p3azl2ZENtWkRjU2V0eWJ4ZjlIdnRfVUxFMHFGQkZuQXVKY3g1SlI0TEhQSWtwRGpVNE5KSjFoR2JfUTRibVQ0eXVQTVZENFcwVDI2YjdGLXk1d0F3QTcxLTQ3S0dDenJndjdTLXBMZThVSUp0LUFYcG5aMnlkVU9Odk1RRFNJNjlkUlR0WnZpWUxhU0hWWnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Cencora (COR) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrU1FBSzZpdUYzWUljeTZSZWhLckZwa1FYTUd4aXhHOFB2YlAtYXlJbWxIZkpjRjd2SEdKcjJrRF9sV2xWcUk2LXoxWm0tclRxQ0EtTnlzTktnb0s5Y2YwaXFOUWVsdElfUnJqVy0xaGljTVJsY204Qmd6dDZQRkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like Cencora Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5saUZvQ3BxbWZtNW9NOVRTUHo0OFYwVjBJRmVzX0VmZjJFTlNpeDNRdjR6eWducU90UUtVTXN4aDNxelpGQzdUemljY3FvMWpzcWNQYk9zNVJhdFpuN1ptNmtkeV9walA5MmUxSFQxMjFpQkp3dThqbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Upgrades Cencora (COR) Stock to Overweight, Lifts PT - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmxmX2FHYklzWXlYVXoyRDVCVU9udGs2SnhmYW5TOXpFUHZHQzNDZXUyZDVwcUJSeGpIYUJuOG9UMXNhRkV2UENYcElQSUNHTTZnYThFZHZKWnJoUFJzaUs0VXY4OE1RS0VTOHl1b1RUQmJPc0ltN2hWWWREdy1SNlVkcWxkSEJqcnl4S282Q2tsUHpfNk1ra2dRMDFNdWVDQk1TUWlnSXPSAbABQVVfeXFMT1JKNk13TWRrQ2U3RXNjTnJNUHhDNFlUYTFTUUVEV1d0OUtZY2tzYzdWZXVLc2k0RnhBc0pxb0M2QXFMZVVidXNFZFVGUnJYNER4cTYtanVNVHZCb1dfeU1rMVROQXR3SGlSYmZCaElrd0U2NTlvVmdLWGxPeWF1YkF2eFpGbDI1UDNTSmR4T2d1UHdRdUFrVS1TVHNkRjRiQXJBdVphYUhpdi10WXRsU3k?oc=5",
         "label": "POSITIVE"
       },
       {
         "title": "Here's Why Cencora (COR) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZmN3bmVmUkxIOW0zUWJUZnZsVVlQb09uVDNsVlJRMDkzRGYtdVhKSzVGUWl3NlVfbmkxZzl5SjVQSS1kY0RhT29kYy1aRmJKeXFiMC1xZU55bmZ6dlZQX1lCSVRqVGJMUUNfcXhibzd5UFhrS2l6Yk8tV0dwb1E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZM1QwYi1jcjdSM0VOYlc1VldpdmF3b1hpSXVpVlZqMmVQcnY2RjVXM3JwdEJaanhYcnRmcDhjN3VWT2RyekdLYjB1RUZlaHJXMzJNeFNMamlUZHYxNFY3NFl2b0kxSzlfQm1NQ3ZKUDQ1MkhWX1dNd29lTXBmUDA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,13 +621,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Cencora, Inc. (COR) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lUl9Bd1BFMlNSdW1GYTFSNnZTaEtmNmtPMkQtU2JoVnZwNEhyUnFiSmpJTVhEaXZuN3BCSHQ3SVJhUXBhWi1XWHljZmFvVmxDQ2NtWkI1N0p4RTlzaEpheGFQOER3b3FwT0duMXdLYS1ZcEhMSjAzSXdhVjI?oc=5",
+        "title": "Here's Why Cencora (COR) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXlSR2t1d1k1MnpjN3VMb2RkQV9GMTh1XzRZeEFEUTJQeVNlLUNleXkwZVpaajY5RUp2ekk0aGU4MlNyMTV4c0VldVhIcDdtVTFTQjBnV1JtYlJiLU1yRE5iUzY0LVd2UWIzQ1VYOHBxZzd0eHBEUzFYUXZocDR3Yg?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Has Cencora, Inc. (COR) Outpaced Other Medical Stocks This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVdNekc3eGQ2b0NfNWRXZ2RXQng4dkhtQ0hiWk1adnVIWTlTeGQzamFTc01XVGpoRVc4Zk9OYjNIZElablVhY3l1UjV4YkJ1NTNkbmpTdmVnd1Q1Q1FabktVM044VTdHNDd4VzVCQmkwcjVVYTBKbzNxN1RoYTFOdjl3?oc=5",
+        "title": "Cencora, Inc. (COR) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lUl9Bd1BFMlNSdW1GYTFSNnZTaEtmNmtPMkQtU2JoVnZwNEhyUnFiSmpJTVhEaXZuN3BCSHQ3SVJhUXBhWi1XWHljZmFvVmxDQ2NtWkI1N0p4RTlzaEpheGFQOER3b3FwT0duMXdLYS1ZcEhMSjAzSXdhVjI?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -646,16 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Top Cencora Executive Cashes In on Significant Stock Sale! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVdkMzlreXFZSEFEbU5WSmN0MHBvX081dVg0UVVXWTd3TFl5TmVvcXMtOGF4bnpSUzdUa3lLYVBHT2JKeDFWYmNfOU5oQzRNYjZCV1VyR1h1cURhQnAtMThrY3E2V0pJcUNNMkV6cGROSVdERXhSLUs3TkZWNElpWU9SRFYzV3FhRUJXUzUzSzU2dzRHZFVCek9UcWpvQnp4SzhCS0hR?oc=5",
+        "title": "Has Cencora, Inc. (COR) Outpaced Other Medical Stocks This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVdNekc3eGQ2b0NfNWRXZ2RXQng4dkhtQ0hiWk1adnVIWTlTeGQzamFTc01XVGpoRVc4Zk9OYjNIZElablVhY3l1UjV4YkJ1NTNkbmpTdmVnd1Q1Q1FabktVM044VTdHNDd4VzVCQmkwcjVVYTBKbzNxN1RoYTFOdjl3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Here's Why Cencora (COR) is a Strong Growth Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXlSR2t1d1k1MnpjN3VMb2RkQV9GMTh1XzRZeEFEUTJQeVNlLUNleXkwZVpaajY5RUp2ekk0aGU4MlNyMTV4c0VldVhIcDdtVTFTQjBnV1JtYlJiLU1yRE5iUzY0LVd2UWIzQ1VYOHBxZzd0eHBEUzFYUXZocDR3Yg?oc=5",
-        "label": "POSITIVE"
+        "title": "Cencora (COR) is a Top-Ranked Growth Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2l0Sy1hRTAtUjc5MWNEODM3c0psZWktN3BaU21MTlh6RVNiY25xMjZIdmRjcW9qcGJ4ckNkVWJRajNpY2NBNndwZlFhWWNxb3AzWjdvbzhVclZ0WTdGWHRndGkybmFYM21iOExFWjl6SWtTODFPdVlHRUM5QlFKeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Cencora (COR) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2ZFdnOHh6bG05bngwSUt3bHNqbGVNemFTbFJ5MUEwYnlZVHF5LTVpN0VaT3pEQ3NxcXVQSzJhSFdHeU16X3RkaHJIbEVNLUpMVzVQT3E1bmVMdmYtU01uWVcxWmRzQS1yWDlya290X2FrQ0lHNFhhOVJnXzk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Cencora (COR) is a Strong Momentum Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkp2dUJnLWY3Q0RNWjhjalkxdzB3RWtjRFpXbElJMGdlOFRrM1BQRzhtd3NRT0tPNktBWGZzeW00d1R4TmJ2YzZBa1J2eWRyemNuOF9fMlJuUnlmZWdET3lDOXVHVXgtX2pQWjVZM2tsdjR3SGR6aVVuOVpGOU9kZ2Q5QQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

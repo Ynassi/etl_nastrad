@@ -2,12 +2,12 @@
   "ticker": "CPRT",
   "name": "Copart",
   "sector": "Industrials",
-  "market_cap": 48535351296.0,
+  "market_cap": 46925402112.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.241722,
-    "PB": 5.5262575,
-    "EV_Revenue": 9.632,
+    "PE": 32.139072,
+    "PB": 5.342948,
+    "EV_Revenue": 9.601,
     "ROE": 0.18441999,
     "ProfitMargin": 0.32209,
     "GrossMargin": 0.4653,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.19029243554050995,
     "ROA": 0.12015,
     "PEG": null,
-    "EV_EBITDA": 23.227,
+    "EV_EBITDA": 23.151,
     "BuybackYield": null,
-    "PriceToFCF": 55.61836799341719
+    "PriceToFCF": 53.78102711688683
   },
   "technical_indicators": {
-    "RSI_14": 22.388125562406984,
-    "Momentum_10": -17.161226300029778,
-    "MACD": -2.720670094109188,
-    "BB_Percent": 0.2021005832866725,
+    "RSI_14": 19.59809833570506,
+    "Momentum_10": -5.885778566899439,
+    "MACD": -2.678615064230982,
+    "BB_Percent": 0.2389877158188098,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.928500470817367,
+    "ValueScore": 0.8651806193980814,
     "QualityScore": 0.378319859709721,
-    "SignalScore": 0.8852625604241728
+    "SignalScore": 0.7582226547156028
   },
-  "volatility": 0.0172294000577369,
+  "volatility": 0.0173006263149075,
   "beta": 1.101,
-  "return_6m": -0.1914465493827539,
+  "return_6m": -0.207414680024275,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 61.77
-      },
-      {
-        "date": "2024-12-10",
-        "price": 61.52
-      },
-      {
-        "date": "2024-12-11",
-        "price": 62.61
-      },
-      {
-        "date": "2024-12-12",
-        "price": 62.08
-      },
-      {
-        "date": "2024-12-13",
-        "price": 61.23
-      },
       {
         "date": "2024-12-16",
         "price": 61.11
@@ -537,32 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 50.13
+      },
+      {
+        "date": "2025-06-09",
+        "price": 50.15
+      },
+      {
+        "date": "2025-06-10",
+        "price": 50.28
+      },
+      {
+        "date": "2025-06-11",
+        "price": 50.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 49.99
+      },
+      {
+        "date": "2025-06-13",
+        "price": 48.59
       }
     ],
     "current_price_data": {
-      "price": 50.13,
-      "change": -0.01,
-      "percent_change": -0.02
+      "price": 48.59,
+      "change": -1.4,
+      "percent_change": -2.8
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Copart, Inc. (CPRT) a récemment publié des résultats du troisième trimestre record, dépassant les attentes en affichant un chiffre d'affaires de 1,2 milliard de dollars. Cependant, malgré cette performance positive, le cours de l'action a connu une baisse, suscitant des interrogations parmi les investisseurs. Plusieurs fonds et sociétés de gestion ont significativement augmenté leurs positions dans CPRT, suggérant une confiance persistante dans le potentiel de croissance de l'entreprise. Ces mouvements d'investissement pourraient refléter des perspectives divergentes quant à la valorisation future de Copart sur le marché.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
+    "summary": "Les actions de Copart Inc. (CPRT) ont connu une forte baisse suite à des résultats trimestriels en deçà des attentes, entraînant une chute de plus de 15%. Malgré cela, l'entreprise a annoncé des revenus record de 1,2 milliard de dollars pour le T3, surpassant les attentes de croissance. Cependant, des pressions sur les marges et des vents contraires dans le cycle du marché ont été signalés lors de l'appel aux résultats. Les mouvements importants sur les positions d'investisseurs institutionnels soulignent une certaine incertitude entourant l'action de CPRT, malgré des performances financières solides.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Atwater Malick LLC Buys 7,380 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanV3b0FMUUpWN2pVLTJzb2J4SEk3SmF4bUlDQmk4N2JhVWxucnBqVGtYMF9seDhSMVFxRVlxbkJLMDZMbGtjYThjZXBIWFNkMDBxaC1lY0FQREVidERad2k1dFpMZUs5SlV3X1R1NUlqTWNUTHhGSDdYWlBQUHluZ2xYTG1vTGt3a1lDVU90ejRGNWVuWVlfUTRMbHVYNkM3c3NWMzhKcWxSZm83dlBXQU5DcVZQa1ZKdlREcml3?oc=5",
+        "title": "Why Copart (CPRT) Shares Are Getting Obliterated Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV2FrdEJyQklFTk5pbnVRNTBVWTY2Q1dwbU1EVFVQZ1NraUY3eXZUWW9aTm8wenZzYzdkdWw5Nk5MTkN5WXdxdXhVUEFmb2FxbVNPdXNFTmsyNHdPVkFDb2JLNkNlVW9VLVdSenIwLWJ5NXhpNVhLX29KNU9vT29oZ193?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Bensler LLC Sells 8,801 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0F5S0Jicmkyek9hNlgwZ2cxVTRrWTFZZmdWMEV4cVFhNVFyUnVheDQxM2VKb1VVNnlqXzlYUFR3cVU4NDAxSDc0N0FpdURoeVRaTHFlWFFxeTdTQnBuRVY1QUhGbjQ2MVBwaVgzQk1UenFyTnBpR3Q5SkFtTGJlVWV2dTl0Zk9OdzJJOXAxcllwX3RCT29JSlk5YktTSkVtUnIzM093OXVfQklhLWV4N3ZfaGMtZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Q1 Rundown: Copart (NASDAQ:CPRT) Vs Other Business Services & Supplies Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm12eGxSWXI2QTQzb3ctYkZWd3FOTG9DOFlNQkNwRWRFa2dRcmRwMUNwaEhINVRtcGRLNjFQenFacWJMcXdRQWFlYk8wSWNnWks4ZW9TVHpKZThpQ1RrYXdiYVVsQ2F4UVRMUGF0aFBfenpfSFJHRm1aS2RBTzJTbQ?oc=5",
+        "title": "Copart (CPRT) Shares Dive Over 15% After Missing Q3 Revenue Estimates - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFlabHBSdmlnM0ZWOEZpbjB4SG5yclVxbnpGX3lnR0FMb25uSEtzQ2hvbEJvWEFuV0IyaXBiZHpucGd5dF9YNF91VUlobkZFd2JQNVhWbUlCM2JMWUFNNnR2NDdSRzVZeUdDcjVScjdwRG0wTGV6OHdOZkJkaXo3NVcxbUYtVHY2Tjd6ZXN1VnBHNkt0SHZsem1CVGUzSTRvYm85bTlqVk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Copart Inc. (CPRT) Crashed On Friday - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNdEpfUDdLRkZSQ1BWUmh2ZnprT244bmR0R0NiZF9pbFNJODNnVUtFUDM3WW5lYjhRQ1NBdWxTS1ZUbE9nclkwbnNUUGx6UHdOQ194aHRmYXN4ZVNRSG9TS3h3THhKdFJKeVJvZGxPeUU0a1FCRjBMMVhDWThXMERHQWlXNU1seExnSWVhdmF5UkNJVGpuN3JCT1M3WHVVWElCUVl2MUI0QmRKT2M1akNuTWJ6M3MxRjUyN1ZERFNDOC1VTE8zeXJnb3M1RGlHdERXRy0wR2M4d20xelpiVW5ZaEVKR2hqWTdGRkFRUmJUX01RMVBpRHVWVWdyU2RKVHJvQTllZTdkYUVvOGY2Y1VnakZQNzdSQ0NBOVNNTXByUC1rQmQ0REVTeVZrVFZwcm1oQ2haWkMyLWdnMk40V05sSjZ2YnNfRTFTeS1KUFlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Copart: Turning Crashes Into Cashflows - But The Price Is Not Right (NASDAQ:CPRT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRndvNG4tM3RSMUlzX2RCdklpUzVVRTI5UzVtWGxSbWJiMnJWTEQ2bU9GTFFuMVBaWG4tZkFsZXA3eTZlVzZEbE9oYnNkRDY0MVVqbFl6WkhhaFFzLURDdXpIekJnOTJSZ3ZmVXh1RXdPMUpuMmpNSWUzeDk5bGh6UnRsVWRqanF2WV9JNmJQRDlSWDRKWm5XWDhXaS1DZVctRk5Qd01DTDk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Copart Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVpOREtvdGllWUhwSHlMUm5yS0xyWlc4YVBEZFZKSWU2UmxSajF1THc4d21uSFNtOGRRMFc0QXhHWFhGXy1nU1RIX3pyLTZkbmI5S2I5eDBtYzhlV29MX0h0WDJzdmxJWGVacVRRV2JYSGVJSVdjOUhucDB5dllHUnpNVkVvdHNPajEtSl9HR2dReHM2aWVkWHBxUVBiNzhnTDRyb1p5VGVCbWtsZjZycnQtcVFwcmhGZ2hoM2pSMnVkcHEybWpXdVpn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Copart Stock Is Plummeting Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVFUNmxmQW5UVU04NVg4aEEzOFRaaGNFUFpzZ3ZZMkZjWG5obXlPeXJpTElVYy1GX2lEUm94QnlCZTJCOWU2TEVOcjU4a211ZnVCWGZ5NEpUNnJRLUpWUUc4ZEkxdVg1ZVZvTUNjMmFKeUJyYkhGSDk3ZXJLRlVpc2ozUnYwZw?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -571,29 +596,14 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Is Cintas Stock Outperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUXNFczFXa1dlXzdOWE1xRXNXTHVpamZwQkNBZkdQaDhoanhxTzhzVWlJbVVmU0NfN3U3UEZLUzV2MjhodjFucnZXWGV5djI0ZkVvVDROYUpfR3dGY3BBdm92R1R0ZWNYV3BJWW0tTGlySG4yUTJvX0NZcDIzZmNTVjlTVWoxblpqVmEwVUxTTVl0SEFIcmRreUhKaTZKdkxEUWR4Ul90NUxBS3czdk4wdklXTEhUN0RrWU5SUjMwdktzM3Vjekpz?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "How Will Copart Stock React To Its Upcoming Earnings? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUtjb2NwZS1RdU1WM0Z5UzNTV1RycGV5ZjVZRkJiT0VwVXBuYVNNSllLWjF2ZjMzaGZWRXhVZktFcTFNc1pUZHZQU2ZHTXp6enNmeFEyaHhKczYwT2ZtUjZPT2N5NmMyUHZyUzZjVmpWZDBjbmdVSU80Wi0yX0RfdjlMOFdRN2tVbVJydTlUQVV1YkRKM1pvMDJYU1ZKeERobHhWY29iWFZDMEVsaE9NdXp2aw?oc=5",
+        "title": "11,220 Shares in Copart, Inc. (NASDAQ:CPRT) Bought by Tounjian Advisory Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQVB5WVdJWFFNVVJBcE9PbnprckhTLV91Z3l0Z2FxVDJZajFJSmkxZ3ZHajJYdFNRaXNXdWsxd29zUUd2VzlCRmY2V3BsbjNZWkdGdEZxay1YOTRhQTdXLURTSF9nYnBPQ1RqYndURHZGaG5tVThIc2JhalRydEFRek5nYlROeVdTZDlJdmJ0aXE4YnZ1TWNxTWlWcXh1MC1yWklOMHRzX08zT2xZNVRBVktXR1FKbDVtQlhQdFNFZFVGTlVHUjlPUVZWcGdIVzl5VDEtVTY3Z3cwSVda?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Copart Stock Is Plummeting Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVFUNmxmQW5UVU04NVg4aEEzOFRaaGNFUFpzZ3ZZMkZjWG5obXlPeXJpTElVYy1GX2lEUm94QnlCZTJCOWU2TEVOcjU4a211ZnVCWGZ5NEpUNnJRLUpWUUc4ZEkxdVg1ZVZvTUNjMmFKeUJyYkhGSDk3ZXJLRlVpc2ozUnYwZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Copart, Inc. (CPRT) Stock Moves -1.44%: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXNYdjRmNFNlRGxtcnJKNDc0TGo0a0R5NFZLQnNEUFA3NVlpRjV5UGVxcHUzaG1wLUFJUHBVRmVTWlNEcWhqTWduWVFZYWVsa2phdzNRYUtCbzUwSlVYanJ6a1Y3YnQyQkFmWG1XNUhkSkFfYkh1cnd2bHh3cEpQOUdoN3dwOVFRaXRYbQ?oc=5",
+        "title": "Copart: Acing The Reinvestment Test - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjUzRkFHb0cxT0F2Umh1YWVtMkxJcDdhWmNRSlNvRnBtQmlQa2tHRkZ4VEFIRnQ1YWUycFhBOHdKTDJzNXoweXhaQkRfb2U0NDdUX3R2TTRMaG05eEhCT19nS1lZQ0tlY2xYWUtxdXhlQnBuSnAtUVBjUVpVVDhHa2k5MnBBc0tGVjdXTQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Boosts Stock Holdings in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREJqUFRwWVRQY0RVZEZkUHhlWFpWbDItTWtZcnIweHNRcHFUNU5KT3l2UElTODZIT2d5bG9KREZudjlpMkU5cDBLa1ZuU3RQR2FBWjI2LWRKV1FGeXh3MHFWSDdEaUpHc01CampTeTA4bEN0am5RRzZKNGRxWEd6cFl6RXBRbU9fby1ySlFUMHV3VU5mZThQRGJud3ZmdDAtQnhmS19mbV9oX3NXX3ZJU3REVUhsQWxkNDlDaXdidw?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Copart, Inc. (CPRT) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
@@ -601,61 +611,51 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Copart, Inc. to Release Third Quarter Fiscal 2025 Results - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWpvMlFISThpOWZMOTYtZk40amdHRHM4WFFoMVQtVmV0T3l2Zjk3M1UxQXVhdV9TcTNDNkE3aTktQy1QTWlRcVliVk5QSTItNTlDQ1UwbWVkenVhXy1DTFlfVzlDRWVkY051Z284SWRadUVJQTNEWlFBYnl6NTZRMy1hWUVVU1lDTEZsRXRpa0VaRlI0NjBkcEFQdU5PUm1YaVkyMA?oc=5",
+        "title": "Copart, Inc. (NASDAQ:CPRT) Shares Acquired by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnZyb2hVWXEyVjBYUG1QX0NldXJuWWd1ZnUtVUJ2VVZtSXpqX25OVVpWY0lVcHVtcWFaU3FOZkQ5bHlrcXY0UmRZZ1FSZkFHcjZCSmE4VFdXOEhaX0ZURXZnaWZrSW5GZGFhbVdkVGI2Rld0VzZYQ2RXM1RlN3JBNFpnbUZVZ0FiaW5WN1hPTzI1RHlWY3BuTjAzR2dJbHQ3M3V1YUE0TkFYcVVtQVg4LXRZc280VVhfUUxCa0JnSDFMODA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Has $11.40 Million Stock Position in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTzhjbmgzdktHWkdHU0NoRzQxWi1ZRXEtZWJQNGFqOVFoUjllRjIyVE93aXZQTFRwSzdkSGo1Rjd0LTBSTnUtOGFRQVI3TjFqUGprejd4ZHZCelIyZk1feGNFMVZIdlc2QnJsLWd1a3ptSkVUeUhkV1VIREE5UzloczVRTV9iUmFHNUNkeUZXSGQ1ZWxKR3IwMVFabEtoSnBMdkM5R0ZQWXJTd08tdGx4cDJFeVVyT1RTWlE?oc=5",
+        "title": "CPRT Q1 Earnings Call: Revenue Miss, Margin Pressures, and Market Cycle Headwinds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN1I2U2J3a1ZaOXZucHBBLUcwZ1A4eVFZNXl4RzZnLVNMcERlZGV3S2dKMzRYWWVPMlBxNFVqcXd6U3BQalFyLVRvb19IM1dMRHdPdC1aWTZwV2hWUGxnLWNmNm5oM0RrSDNhYXBkclRuVUdQb2xvQ0xCZ1NLRkp2Ng?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Union Bancaire Privee UBP SA Has $1.29 Million Stake in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWsyQ2xGbXd1OHNwOXV4TzloTjFxaHBsZW1EYmItcnZlc1Jock40c18zU3UtQzNlbWllOGUwa2NBak5LMFdPa0VNbmZuQmhpdUR5SlRJdmh4cFoxejZodFkzSlhuOWlnbWN0Y0ZjSHhQMEUzalpQTWQzLUVRdXR0azNIcEw4MW5tZWVvLTJYZ3g3UG1qWGtDbkllTXhLem9DWDJUU1hQQUNKcHRKdUxPLWdRdnlTZm53NUpvSEtrQXVjM095S2FVNWRsODFrdm82SXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Copart, Inc. (NASDAQ:CPRT) Position Reduced by Avanza Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzZ4VkI0YnpXZnVrbldMbTRBS3duSGQyQ1EzUlhfWVowa1FHdk5DUi1jTGRjLTRta1l1NS05X2k5UFRETFc0N2p6YTJkeHNhVFNpd1FTcXZuOFo1R3ZfWnVUT01wYTFGVkRBYmxfUGJyczg4eTE0QkozamZTRXFQNHc0c0w0SDdPLUhEbXZNREplUXk4Rm8xQk1hNHdjakROZnVycHlGOEREblNKMi1EUmFwN1UxeGppQmhCVHlEVllyNnpyVUlpNHc4c0hJQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Assenagon Asset Management S.A. Sells 1,172,259 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ25KVUo3dEZRRkM2blQ2WE5IbHlYeGtxRDlzcjVlMF9yX19pOGRmMXRZcXpDSDQ5d252cmdDd2VLY0xHT2JiREdBRVpEWEg3RUMzUWVQc0Uxd2pKajdXM3puZU83eVJaUWI4VGMtb2J2Tkp1MTBGQlRwNnpnZDdqZUZWbUlNX1JMSGVhYk5vSE85d0VzT0JYWGpoeXpkbmFCdDVYdmRUNDA3ZDRtZ1MxVkU2NUF5OXZfOElVWl9SczYtRzJTNGt0V2hFV19GNkk2c0g1QW5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Copart, Inc. (NASDAQ:CPRT) Position Increased by OLD National Bancorp IN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEhFclE0TzhhQ2xrNlNzbm82MGp0TFAxbGt5ZExpaU5hNUJvaURJNDB5ZTlsMW5uU3ItYVdXQk5IZm9STURnR29XSWVqNnQ5bUYxRXZMZlVaSnY0Ri1QcHNNR2VjN1VPVlI1Q0gyMnJOTS0yUUE2T0tTYW9CYjc5em1YM19UZXZKV2dBNVRFeVJHbHI0UXdlSHBRUEUwTUdlYklHWEJhb3Eyeml1bXRIX25nMVE4SGN0emEzU2UtUnR1TVBVZENRaDhkdVRtamRB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "E. Ohman J or Asset Management AB Sells 6,344 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Jxb2VlUjhpVi1BMkszNHUyQVp6QWFvN25rcTBBMGRmRUdpSGcwUk9kNjF5WlpHdHAzT3VGVWJ2VUNaWGVyRnJQMFUxMjdVeGo1dDQxbW1ySGZ0NG5Rald4ZXRxMXNENEpqUUlUQ1plTWhWYWV3eWJYYVFTUWVMSlkwZVprRGlSUmtOeld2OHhqX1YybkFyWlFOX1FRYWJ4TExra04xRk1qakdHLUtXOEgyNHF5ZmQzZXpVVjcxcW9XXzlwN1dod0tnUlNmVFNoWmdaSWIyNWhIZURFbU52bjQwYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Copart, Inc. (NASDAQ:CPRT) Holdings Trimmed by Congress Asset Management Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lybzE4U1BrNkVSM29IaUdXTEtIaU52S0huQnROQlYybnJZQUlDeTBveHF1aVVUOGsxQW05TE1xV3BtRk1WYVVWa0NPczJCN2lhTHlJNlc5YTktUkZpakhST0xpUHJiVFU2R2xvLUFTaXVZRFZDcXZ2Q0QxcXpGZGl3OThjLUp0VndnbzRrekt5TkVXbFFqMGZkUk9QVDZlcnI4bmRSalg0RlN6c0ExLThmV2g1QnNTUFRCZmx0RjBBd2o3VDJNWTZVcU5QSGM?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Copart, Inc. (CPRT) Stock Moves -0.41%: What You Should Know - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkZzU4VmNyZUtVYkotMkJXam5kYUhfRVBwXzdiRXRJZ3d5WGdDbTN1a3ZJUHVweXRVM3NpTE5aN3EwMXlrRmhwc3h1cjl2VDlxVFFWLURTZmZQcWdiUXdNNWlmdWUwZUlFSk1sOEpLdE82RG5HOGlMQXJVR3ZiQQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Signal Advisors Wealth LLC Acquires 19,881 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdW5rdVNobVZfUDFUdnlrdzZucGpfbTBlWVFRNG1ndElPQTNzUzY3YzRQS1BMZlJ1WTB4YXNNZWUyNFd4UFlnUXB2RkV5SWtkWHZTNU9JUzhEajFjOHRJMGVyWW1wTFVGcUxzNE8ydmFmOXZnSU1WUkR4bUlwanhldnVrdlU4RF9XZHo4a2E3Tk5zcHNvMlBjT0IzeGFWcXplLVdkU3gyMU9zWWxSTV9ER0hjZHZTQUNvVXhKZkRBZ0k1eUlIUXNoRXhXRVBhV00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Copart, Inc. (NASDAQ:CPRT) Stake Raised by Chesley Taft & Associates LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUFLU2tMelJWN2RxenM5MlRTTWJIdmtRLTlJT1ZraklycUpETkxBanJmQTJVbGl5b3lKMXQxbjhMd1h0aVBiejdpUXNJRTRZUGpWM19KSHMtdmN4cHJ5OEFEMktxVzdKdFQ2aTRobjJFamZvVHpVeVRLb093WEE5cHgtSUswdWl4Y0JpcTd1YTRqNWRSdWU5cFZhMHFmR2xWOTExSXA4Zm5JVEJmcFBIR1UwTmRJM1dzNTVscmk5cnJpc2pY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Purchases 16,072 Shares of Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYkV5clhSS0RzUkVWdzFCNmhvV3o2a1BtT1licDJvSnBnWmhhMmZ2ZEdWOVhGdnBJc0xLRXUwNXlqN2xrUThZZUNySDlVNVBlNHAyMk9GODc1NkxRblJsRERjQWpTbF9ULUdaM2ZsNWNWbDlTT25GYUVzbTYtWGRaZjViZFZ1aUhOckpGY25HMW1MalExYXJCcEdON0VacWNyWDZxWnpjY2ZMZUlLZDRVMEJ1Z241MjVUdzhmTkpINTJQbTRvYUZrV3I3S0w2b20yWWVYOC0yMEw1RTln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Copart, Inc. (NASDAQ:CPRT) is Weybosset Research & Management LLC's Largest Position - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMGktNXhBUXZUQldQVDZ3aU9OZDVqSjl3RHprT2wxTWM4MURpS1VWLUlkT2ZSME5HWTJqRGh3dkFXaTVaeURWVWtEM2xjaUQwcXVHRnMyVmczSmpCb0N3VFY4VzJveHpCTlZTVnJDUnE5V2k1d3VPcjBhTlZ4MkEtaEJBMU54QTB4eXdBVERid1k4UXZVOUx0OUt6R2V1QkVrcDZOeHU2R0syNXdaTjh6bmNFRWx3NzAzRzFjeEFGalp1MUp0T2x4VFZPLS1yUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Copart, Inc. (NASDAQ:CPRT) Position Increased by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1ZISmRGMERQUE5tNDhBcUczeDZXSUN6VWlFUkUwMElxMWRHYS1McktaR0NDODVQT0tzRGZhSG9rNnNwdjJUNlFtVWZoVm9FRFFGZnVkNDNTQVpTRS1vdlBaX3Y4WWx6c2IwRDEyNjBjRXpIOE8wM3BuNDZGdHFseF9OZzN0TXFDemNIVF94dVk4c09RXzRGQ3VqVXRUaGdEMVA3a3RwcVBhQlVNNjhNYXFtWVg2bWpsT1hFYlBIUHZjOUdra0E?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Fragasso Financial Advisors Inc Grows Stake in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXkzS1hXWEVvWGtkU2M5eVpmVDg5SExadmdIaXBJRWpHQnk2TDU4cEZCc2p0bWlmeUtsTk82SlNVSHJHbkl5cjRHZlMtSExvREw4REtDbm1jS2tweWlFNEhKeTZfRDZTOEpfNnBUOWpuWE1BZURKeWtoMHRMV2NNVENMWTJNa3NTaHdpck1sbC1pSFRjUzBMNGNVMzFLX1FlMzdHbmJkWDdGT3h0WUV2dU0yVGkyeFIwTnFielhmVklaUG5IUFRqRHl6MnpmUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Merit Financial Group LLC Grows Holdings in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeU5LMjFDb1pNZlM0eXFaWURuVGdQZWNrc3Y4ZVVESmNFcEdUR0JhdDdQWW1DX3pQREpQX2EzeTBqdXd1Uk9GX0NxcGdzaEwxVWtuLVNwUG5mYjdXVTMxZzRFWmdHcVIyZFl3SG9kdF9YekRXSXlYek9iaEZJTld5SnByS1pYcEhwZjByWGV5VURPS1A5VlptbVZBdXBrbm9Pa0Yybl9BY1FNTWotYklkeE5xTEFIWFJVcVNadGdObTRLTE9O?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "111 Capital Invests $967,000 in Copart, Inc. (NASDAQ:CPRT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHpKdVdJcHpXX1hUbk9odERLQWlDc1laUm1felNGcTNBTUVGRHZXZW42dG9neGVReVFvUE5hWGNKUGhBVllqNDFRQ3p3S2xCWnh3S3IwbjY1ZXEtWTR1ajRqRjNnUXRVbFhTcVZxaGZ4S2xIMlRtS212TXh4MmF0ejdZeTRGa2VnbWwxVFhsZ2xlVTh5RkM1dzdHNnpkenJUMVpGLVFsaDdnUHl1a2ZKLWc2SXRURW45NWpz?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

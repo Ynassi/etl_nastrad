@@ -2,16 +2,16 @@
   "ticker": "MPC",
   "name": "Marathon Petroleum",
   "sector": "Energy",
-  "market_cap": 49231044608.0,
+  "market_cap": 50791694336.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.073002,
-    "PB": 3.020109,
-    "EV_Revenue": 0.606,
+    "PE": 22.772726,
+    "PB": 3.1158478,
+    "EV_Revenue": 0.621,
     "ROE": 0.15524,
     "ProfitMargin": 0.01764,
     "GrossMargin": 0.0867,
-    "DividendYield": 2.3,
+    "DividendYield": 2.21,
     "DebtEquity": 139.332,
     "CurrentRatio": 1.194,
     "QuickRatio": 0.701,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.019263386450403094,
     "ROA": 0.03469,
     "PEG": null,
-    "EV_EBITDA": 10.526,
+    "EV_EBITDA": 10.791,
     "BuybackYield": null,
-    "PriceToFCF": 18.544385405433104
+    "PriceToFCF": 19.205570960666304
   },
   "technical_indicators": {
-    "RSI_14": 59.006529322709895,
-    "Momentum_10": 0.8496482526914635,
-    "MACD": 3.983133977739726,
-    "BB_Percent": 0.5453061120682897,
+    "RSI_14": 65.98100498770845,
+    "Momentum_10": 3.1417118454581088,
+    "MACD": 4.076928238626152,
+    "BB_Percent": 0.9963824442468242,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9321594238269312,
+    "ValueScore": 0.8941288127114496,
     "QualityScore": 0.3105136388110791,
-    "SignalScore": 0.5338457292422036
+    "SignalScore": 0.4897877019813591
   },
-  "volatility": 0.026674694509316,
+  "volatility": 0.0264274165772821,
   "beta": 0.868,
-  "return_6m": 0.0738398430019005,
+  "return_6m": 0.1488292457990589,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 165.653
+    "target_mean_price": 166.303
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 152.98
-      },
-      {
-        "date": "2024-12-10",
-        "price": 151.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 151.97
-      },
-      {
-        "date": "2024-12-12",
-        "price": 146.28
-      },
-      {
-        "date": "2024-12-13",
-        "price": 145.56
-      },
       {
         "date": "2024-12-16",
         "price": 138.19
@@ -537,67 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 160.12
+      },
+      {
+        "date": "2025-06-09",
+        "price": 160.27
+      },
+      {
+        "date": "2025-06-10",
+        "price": 162.64
+      },
+      {
+        "date": "2025-06-11",
+        "price": 164.66
+      },
+      {
+        "date": "2025-06-12",
+        "price": 165.07
+      },
+      {
+        "date": "2025-06-13",
+        "price": 166.15
       }
     ],
     "current_price_data": {
-      "price": 160.12,
-      "change": 1.92,
-      "percent_change": 1.21
+      "price": 166.15,
+      "change": 1.08,
+      "percent_change": 0.65
     }
   },
   "news_sentiment": {
-    "summary": "Marathon Petroleum Corporation (MPC) a récemment annoncé la date de publication de ses résultats financiers du deuxième trimestre 2025, prévue pour le 5 août. Malgré des fluctuations récentes, les actions de MPC continuent de susciter l'intérêt des investisseurs, avec des achats et des ventes notables de diverses entités. Des analystes attribuent une note de \"achat modéré\" à l'action MPC, tandis que des personnalités politiques et entités financières continuent d'ajuster leurs participations dans l'entreprise. Ces développements suggèrent un sentiment mitigé sur le marché à l'égard de Marathon Petroleum, soulignant une attention particulière avant la publication des résultats du deuxième trimestre.",
+    "summary": "Marathon Petroleum Corporation (MPC) a récemment attiré l'attention des analystes et des investisseurs, avec des prévisions de hausse de prix et des ajustements de cibles à la hausse de la part de Wells Fargo. Malgré une certaine volatilité du cours de l'action, la société continue de récompenser ses actionnaires avec un dividende important. Cependant, des ventes significatives d'actions par plusieurs institutions financières pourraient indiquer une certaine prudence parmi les investisseurs. Il est crucial de surveiller de près l'évolution de la situation pour évaluer si MPC reste un investissement attrayant à long terme.",
     "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Marathon Petroleum (NYSE:MPC) Stock Price Expected to Rise, TD Cowen Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdlVhUkU0ZkhRS084NlBDa3FIVzlWVE43aGpfU0E3akJMWl8zb2xjX1h4dldzb092cS02Uzh1alJTU3pEdWQzeHBxNi1RZlowd0VsYTgtYVVJNlA1TTAzZl9DRXVDM3VkalBfZzlqbnlUSngzTmtnM2FWNWUyTVZyWXZyUnRaWDNlNnRsdF9pSXQ3MDhVTGo3SmdHMWNwUFBhQ1B0R0lVSVFaTGRXLWU3cVFYbW1GYW56TU5GUklDUjNiWm5MekdaeUJJUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marathon Petroleum Corporation (MPC) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmtQd2FwSGZqVHRtUzN1ajB6VWhTU1VUZWNFQU9fcklZUGE1eHc3b3NRMkMzVzI1TGVGblI1dVRGVEt1VkZveU5hR2VJbVNUWnBoQkp1Uzdoa1dWdUVWQzdHOV9jMFdVM2RRRVVnR3BnNmR3OXNldm5IWXhNT0cxcTdTRjc3dk04ZUdEcXBhQkVSd2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum (MPC) Price Target Boosted by Wells Fargo | MPC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQmFWaVZOekF5eEJOeWJScVZRRW9lWWpIY2hERGlGOE5RU2FocnhQYkMxSTdVUnNJanFCTTdkY3FYd3VCdFR4WFhuOGlidmVlb2tKcm8xMWYwdDMwVlVZMXFEY0ZvVVZORmZ3WjJRNGwwZW5CaE1hNDJuNjNZMVhVeDdPOE5yOWREbG5lVEs4T0gxRWZDUG9paTVISmhOOGp0NTlsdy1BQUhaSDdkVG9xU0xiWEZSaHc0R0Jjd3lrdnFYRk1xdWptd2p5YjNZcW5KM1hFTUFzVVcwOEF6LWJ4bVVBSWNNTGdURl95RUY1Qnl0YWNiMHJEUVpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Corporation (MPC) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR0xNN29HOU83WHIwWWdCSkVPUm9fWXlTOWFQd3VMdFY1S29tVGhGbVJQNmh5OVJVdm9uOGRsaXBXS3p2Zjl1c3BaZkQtaVNNbXBWdy1ENF9udWJBZlc3S0htc3VxQVRUSFFueHM5Nm8takpsLWNDdWVqcHBuLW1mRk8zZGhDMFA4RE5zQ29sWGJST2pJalFXNnpQMTN6cTdWaG9rc3hOMTZ2RGM5V2N0QUljdnhHelJDNjRYVzFSMGFCSE5rSFRuQy1IYTJiWm1aWGpwN0J1Qmw3UnM?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Marathon Petroleum Schedules Q2 2025 Financial Results: Key Details for August 5 Earnings Call - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2RRSEFvNjljLVlySVJLVjgzLU5jMDE1YlZkS2kyV3pKRWhuemhfSlBGOEtCZWZPRm9aYnI3U2JuREgtXzNReGV4ZFE2NkFXckhSaXlTelR3MFJMZzBxMmxla3AzZjRod1dXWjVaSGoxN1RpbmJyeHRpVVg3NmhOVG03QUVCRkRjREZ0aU8tTUVmeE5qVjQ0ZXNMYjVRSnZncldGQ185TmRmcDFDaWVnX1dWbHpFcHJSTE55bw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Sold by RFG Advisory LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzEtM2I5YUZlbkN0TFFkNUpsOG1zc3lBNWoyTEhFX2VKZWtyWHVCbnF3d2ZraUJoMU5iU20weEtaRGNEWjRoc1pBVDRYV0dRSUE4RVNZMC1FZkYxMWVwRnltOXdrUkFXazJLaWZaZGR6Ylhia3pqbVMzZjZ1dFNQMXBBYTFPVGJyZl90SjJobDVINk9PYVpuTHRYdWlZQlJPN0dZWjN6YWROcVVaRWcxWGZPTzQwbXpmdXBJQjI2aw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Marathon Petroleum Stock Underperforming the S&P 500? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQjAzUGw5S29QMUY2VDZqd0ZMQzhhUlJJQmxVNXVxRnI3NEVQMFBieERaN0ZNTkZ3MFhacGxQVG5YSkhiTldhdnJ3MXdOU3FFeFBNajQwRFAyWmh5akx4WWdjMTdhWnNxU1hwZ1NKYk92Q0tlNmlCV2N4UmZFSklLeTlZQmJNb0tGWjRMZUZ2UE9oRng3VTNLekZKTGVpMUpHQlJ1XzZiTi1mU25zek9CVl9tNE15SUxoa0llWF9rZDBtLW1IWGw2TmN6ei1PdzNpLUhXQlZtMFQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Is Marathon Petroleum (MPC) Up 8.5% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOHZtOFg4d0xfa0JOcnZZRjV2SVVkYVktNjRialRUSVgyMFlkb0lzVDRtT1pqbVdfVGc5bGhMaUVRZW5TYXQ0SUphbTdSRVFiR2E5RVVaZE1jVHZCQnV0S0JyYVMwUGw2akRTNnkwbGRyNkFBTlFvOXNBMnFOVFk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Marathon Petroleum Stock Underperforming the S&P 500? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWN4dHZkdUh5WXBsUk1IQ0tFN1J2cmJFbC1ybkJIckRPYzN3QVJPejhnb05VOUlDYU9NSmREeFRRcnMtRy1zdkFZREFUMlNiWHZ1SFRKY0Qway1CT3JjT0ZtSFpMSzk2MlgzRW1sejRHUTBwd05ZdWNTSVU1cWpIaEx5TEEyQURWQmkyRHJVeHJVMEpnb3U1TDJFQVpRR2JtVGdMMVZfZDVoa0t3bU8wdkhSNVRMSzhBbmliV1JpVDl3WjVYQUhzY3BnRkZ5OUp5?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "15,600% rally in five years! Small-cap EV stock jumps in a rally post RBI MPC meeting outcome - Mint",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSVF4ejdYelF0R09ocW1Jek01RkRYckJJQ3c2bEpRZm9Ra1p5Q2hSbUdEUnZmQUk3Zll2WWo1QjJPZmd2aDMxVVNUYzZUTVgwT2JBNDRvOFB4eTJfa18zbDZYc0hyX2l3UlZtQjQxYWhTU1NhVlhiZGtDNGJCTGQwSjJaYVJWRnNIRWtxYThwV0FsR0NwVU9naktfd3FyYzU1S2hVdEJUbWdKSzVCTmQ0X2NXc0pkRDRLWmNjcVlfY3pUQUpWZEY5Si1qRUppdEh3NmpXN2pjVHBBbzdkNWdYeExXNWhDRFl0d0d6UXE1R01yZ9IB9wFBVV95cUxOZk9CRUNlZzM5SEdlZ0owVmhtUXhIaE9DemVwVlNjaFJzSldHZ1k0YTVqMm1JQnprZ2lkXzFxT1g1UFkyYmo5OXdEcHJSdVBwYmNiaTJHcXBUQTRVbmNFZmlPUmtkeTZIYUdLeExZcnFTQ252NGpqdjBVeElVTG9OblVxN0xjdTF6dGxNVHFfeHZISHg4SzEzeWZ3ZlFLci0wb0tlSXpqQUhPLVp3UTV3N2M1VGgxQ28yRUw5M0l6TGhaaldHaGx6VGhyVGxkbi1nZk0zY2YyTTQ4V3FKR1B2RDhsWkRlbXU0YVF5UGlzTU9pRnRBVDBN?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGdTc3JFc2stRVRDMkM1YWJRblJTdE9GdllzVnVfYnNkaDF4X05IbVhLNk1aLXNwOXZCMUZZa2lrYjFBSnpIbFdFRXVPNzdDbnJMUlZONFEyWGV1bjEtQWRpTVZxUE1YUHpXY1FZRzZsV1dFUTF5MVd2X1RrRGlJTVlsV1pTekhOdS1HTWtPakRiRE9pVS0wcUZWRXZSRE5DMTVxeUZUODZBWnlUZHlrX05Da0VjQks5RFYwaEptcHJoTG5KWHVEM0xGcnRFUGFhNzI0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Marathon Petroleum (MPC) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGFmTWFNM1NyWGYwZEdIOC00aXQzWkdpSG1vMjRHTmNKNm1DRjg0X19tN3c5VElGLWkwVXB3R25sUDAxMXlIeGJQTWFDd0hheFRyS1pybkFsbzEyc3kwU2pleHhjNzV0TEJ2VkVlcGpPSUQwb253WGpESVRJdmpsSXJUY2JkVlE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkhoU0JfUmp1ekxWeVBoMkZLWDJ1M2R3ZTNLQktYZ0V6OVlLalVVb01KLXdZVy1WeFdtbEVMb21IeFlxRTZTTWlLRkE1by1BVkR4bjZvRzlnZ1VrVUVSRVZwZUZ6LXQ0eWIyTzFJMUgydXBwMEZuRTdfVS1qSlNzRmM0SWFyTXlmZzJ4bnNqRnhSRzBHYXJOV01qR2FrS0RlWjVCSUFOMzcwSHhzYVZqejI3aWoteTZUdUhZVnNtNG9YTTV3bGwyMm16RG1kNDQ2cHNnc29RM0l1QQ?oc=5",
+        "title": "Marathon Petroleum: Extremely Compelling With Q2 Momentum - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3ZRcExaM3FHVjZlR3RLb25kcTVLdTk2NHJTVFFNVWdxQkRrWDdJckwtZW5IS0luck5tTldINlZaOFp2ZmUybnRWa1VueEZVVTA2Vm1rSDVVOEpyejc4OTJ5aVJGdlljdXB3ZVd0dThWb1FPRnl0bm1NemNEcGpQYWZmY0p1UlBhd2NFQ3pWMVFUcThtU0VyNTg2YmdyZw?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -606,13 +591,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Rep. Robert Bresnahan, Jr. Purchases Shares of Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFZ3cVc1cm9hS0JjV05Ua1lxbUkwcjVhS3ZVMU50N1RBQlZUamt6SjQwcTNVS19NbXNkNWlWcUNwSjFWMmhheXY1aTQyTEY5czJwd1FxSFNYYmF6NWV4d3BPeElQLXNvYUtDZWVrZlV6eGltM3k4RnM1OGlTc2hLUDNXNnpXUktTX2p2RVQtTlducUM2NnBBRGp4eTVVeHZYV3diaGdrUG9MQnZlZER4cXdrVzVsTzBsV0E?oc=5",
+        "title": "Zhang Financial LLC Sells 8,433 Shares of Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUlqNXB1VDZXVXFFcUphQ1VXZFdmVms3bDFGNjc1WVlwdEswRTE5Q24wTFJudzdVQ2VuWkRJNFR2OEVjSEU2Um9uX3MtMDR4cmk3M1RuR0ZNLTNoZnY0anFWMEJYMGV1Mi1MTjBiQnBZOVJLWkloNGJWeGdPSzI4T0VQREd5UTB0YnNlblJvNV9BSzgybGJoR2xyc1VUZk5FOWFYNDRUMkY5LVNMR3R6YmFMNUs3VkNwdE9TSXFweEJzRV94OWYyNl9hdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkN1OWtZV3JsNWotUlV6S3p1eXdDaEhxS3hwN3YxRkdTeUVnX2tpempiTmdPbnB4OGEzVnlmZ0xVOGg0N3prbVcwMTY1TGNXbGZ2M3ZJWjFTcHhnbGdobXdMSWNJSUhZdENpVWVIMGhubGlkeFdCNG5jcFFTNmVDal9iS3pEMUk?oc=5",
+        "title": "Wells Fargo Raises Price Target for Marathon Petroleum (MPC) to $182 | MPC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVzVacHJKZ0VSM3NMaVRLX0pPV2lSNVdhd25QQ3lrQXZGcThmOWQ1Y2FZeVBNWU1MeDczbGR1Rm1KQ2pYdjNmdGtSVXFVSHMwUlY4TzBrbkpxWk5WX05VY3F6YXN6ajI5OXVtNnpJai00Wjh3RUlPOVhZR1pxUDZlVGhSVE9Pck4tdURHV19PN2F0cWk5bDFweS1VUnlUUWRXVlJrUTVKZVF3SWI2ZkMwem1xLVQwbHItU0kzNDRBdUExOFZxYUZiQkdoM2JMamd6MVNILUlvVG54d1dOamlNSVFaTDBaQlU2ZndYbFBJNlVaUjYzMDl4Q1VDakgxZFVhTE1Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Rewards Shareholders: $0.91 Dividend Payable June 10 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWNNR250NGQ0WGN0QlhYY3l3b09DNVN2QXZuX3l0eTJOMXNGS1l4dXJMZ1NCZGlHTHFnVDE3RWlhRG8wUWg5MC1IQlJtZkdfM0V0UFBuMGJMVy1rU1IwQlUzNVVzUGUxaU9pUjVJR1hSZHFnbG5SbW80TWVHeW1WUF8yUWZ2OXFCRXVmNXVNQ05zMHg3N0s4aHlLSkp1Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Sold by CX Institutional - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnhZeTBRdFYtZ0d1bFF4YjlUREhyN0hXOWRmSE9PRHQyRk5lM2JiSUQ5dnFnejRxOXZYbWt3YnNYWmYwVmZNUGhTM2xxamh4OHRkOW1ZZ1czb1c0VldfUHAxY1liVFkxSlM1ZXNiOTZrc3Q1SUVFX1FYU2RWT295ZzRUcXN3S0lNVmtMcmFOZnhHRUd2QmFpOHJ0WEs5M1FlU1VGb3l4azU0YXpDMS11MDh3RHRrMy0tSmk1eE1kUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum (MPC) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGFmTWFNM1NyWGYwZEdIOC00aXQzWkdpSG1vMjRHTmNKNm1DRjg0X19tN3c5VElGLWkwVXB3R25sUDAxMXlIeGJQTWFDd0hheFRyS1pybkFsbzEyc3kwU2pleHhjNzV0TEJ2VkVlcGpPSUQwb253WGpESVRJdmpsSXJUY2JkVlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Sold by Fifth Third Bancorp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHBJWkVsMXJ4VG85ZUw5aTJyYm5iN2tZU3BIcE1hbVVhVEhkeGUxanFaLVVDU0tSbnZBNmtkeExBS01TWjBNWHBwOUhRX2NJVUhjSFBwWVJGbmwzc2JEVlV1dW9iMHdGOGNROW1mc21SamhkcG1XVmkzeVZxRXNycS1xXzMtcWsyY2NFUUVfSTJxZ2lRTE0zQkFFRkJLUzlOVEFnZ0tkYk8tZWZmVG5LejRJX2ZIbWJwSDNFTXYwcE0wUWc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +626,36 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Purchases 2,896 Shares of Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnQzR2xhZXVCNVFWSGdZaFB2T3ROWGdCR1hNQkY4bDZKWGtOOWtrcG1uQW1fRmx3WlhXZGR0Qnc5Wjg4eTlvSmVsX3BQYmM0bFNpNHhRaG5wUUlYY01qWE13aDVLQzVUTkZrYXFkdW5CUkVJRVYyVzdTT2I1OExDd284WXRTbTlkMGo1YVNtSUY5OXlKTFJmNFhaVnIySTFLZ19RZW5TMkllaWwxaEZadmMxajBNY1JXaV9yaWhwMU9hSlFUYWFUQmlxSHQ2UzQ?oc=5",
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Sold by Alpha Omega Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU1KbnlkdWFxZHJZMmNONk1UMDFoZ2VOWW1yeXhvZkE2S1VjWVN4ZjdnY1NqTWNDNkkxVE03TWhneXJTUnprQ2I1ZVp6VDkwU1JCQTlhUmZiaXFuUmJZU3ZfNGl5M0V4aDJHeGViSFRUM0cxTzJXdUFRNzZhaWdzYnlOTnJzX1RwVkRTOEdsLVJJbmJxNFlnUng2bzBjalp6M0dUOTVYU3dkSzVDeTI3bUx5NDYxSEVMZmk0RE1jbHdiN20tVFg0LVE4dnJTa2h0RDFhYV93?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by Rothschild Investment LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanVBMHVwSk1KQ09pRGRhdnRsRGRiNUNBWmdzeXg0dHl5TEd0QVRENFQxd281dk9WN1EtTzkxVzlFbm94ZFNkZno0dG1nOTM4OXp2bTd4WTJmWGZIZjctRmJBUUs0b3NUNnlPVWJRb1JqUEprdlhiaVlmYnFCSTZxUElZcFRDVE9leGhPTWhBT19Wc1FyVkpNNEp4b0U4QnB2OVNlUDNZR1ppRzl4ekIwZzlFdmt6ZHZUVGF2TVFpQ0N1aUVTU2xaS2J6UEE?oc=5",
+        "title": "Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkN1OWtZV3JsNWotUlV6S3p1eXdDaEhxS3hwN3YxRkdTeUVnX2tpempiTmdPbnB4OGEzVnlmZ0xVOGg0N3prbVcwMTY1TGNXbGZ2M3ZJWjFTcHhnbGdobXdMSWNJSUhZdENpVWVIMGhubGlkeFdCNG5jcFFTNmVDal9iS3pEMUk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQko3RXJOeEMyX2ZvQ2tYTGhRZjIyWnZXd3RUVm1FSUhvc2YwNTBVNHZiVWxEaEV4TVBfTTdhNDg1VFZ2dnE3RHR5bk42d2tzc21CcU9EV1NHdE42ZEFoY2xKN0c5Rm9nY3FmMVBfRVVFX0dXOUt2LUZMTklnTXlBb0o5YUFVSVhPNUxHN3FUb0IwZktkZW1sZlRxU0tubTVOWXVhd3BNdFpReDZqR3duYnVyaV9EdG91WHA1czI0ZEN0dThxSURCTXZyeWx5bjc2S1laejRIX1FDRkZVbDJVN1R1WnJJT0UtbVBSVDI0YlI0dw?oc=5",
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Sold by RFG Advisory LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzEtM2I5YUZlbkN0TFFkNUpsOG1zc3lBNWoyTEhFX2VKZWtyWHVCbnF3d2ZraUJoMU5iU20weEtaRGNEWjRoc1pBVDRYV0dRSUE4RVNZMC1FZkYxMWVwRnltOXdrUkFXazJLaWZaZGR6Ylhia3pqbVMzZjZ1dFNQMXBBYTFPVGJyZl90SjJobDVINk9PYVpuTHRYdWlZQlJPN0dZWjN6YWROcVVaRWcxWGZPTzQwbXpmdXBJQjI2aw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Has $97.48 Million Holdings in Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQblR2U1JrR0xVWnpCLTVQamRMcHBNYzdDbUdGQU44N0ZQWGF5OTd3X25CeDBVLWp4b2ZmQlVLX0MwZ3NmQlQ1WXRBYThucVpwV2VUQzMyMW1qWTF3Y092Y19yZWRGRlRJWmx1RHhKVGJPUjkwcUNfc3JVZFZKSVlHQ1dQbi11akQ2c2lWSHhFZnJxZWxNS2g0TndJSFJKbUdIUXhMM2wxdWxvSHBCZGJRSGoxNVdSX3BqVlFaYjZtVFkxM2dwaFRJREJFMjVubzg?oc=5",
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Stake Lowered by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQckVOQ255cXNDa1l1RkdMN01LM3BwMi1fSi16ckJoZEJxcFRwWUVhZ01tQW1LcVRFS0R4cERQbzRCSjNLMWF3WVBsUkNYeGN4aTEzQjM3MTFSYlowWWJydEFLMkUtMFVRT3ZQNFN5bzgyVUE5bjNxRUp2ZDZiU2FLMElsTWFHMTlTWXlfMnl1b3FUWGVydUM2R3hSY0hQazdfZGx1TXpmY2tsS2hsRG9iT1Bkekh0OWFOQy05S1pFRUYzNWZEa0Nlc0c1bHBGYUt6N3dVbW4wSEwzMXVt?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Stock Holdings Lowered by Janus Henderson Group PLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlQ2ZmI1NmRyaEc2LXJGN01wSGx6M00yUzBDd0lpbkRmX2hrazY2VmowcFRkdUluVzJqMGY5V2VwUG1MRklGSGhTZlR1TGlGX0V6TTRMUjFlYmpGazQwb3BMUE5XUElaRUlZM0lRZVdUemhiWHliem5sSGV6bjVCSF9ETjVkYzJBN21DNlVYY3ZYYnoybk9pQjJzajhyRlFKTlpfd0diS2JsZDlVdEY0YmNPeUF0OXkwcmhpRHFvR3Q3Umo4dE16ZTYtdFl0dHBmQXc?oc=5",
+        "title": "Is Trending Stock Marathon Petroleum Corporation (MPC) a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2xDLTFHTEpQblZMd196TXBzQ25RcnlWUGpyVnNpdzdQQmEwSTRNb1FHdHUtRzFZMllYZk80RGk2eW9JVk1CbjlSbmtmMGRFc0oyWUhJbTZwNkxHTTNRRWdlU0lWR0dEaHpOTXM2Y3JiWW1NUmZMbFBFeEpoSnVOY0JyS2xrR0czYlU1RExtMDl1MmVoRmc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by NorthCrest Asset Manangement LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkxVMVZMWUZkeG9aOW90WU1wVUQxcl9MY1RtbjJlbV82RnZwM05CU1FvRzNUZUtCS2F6WFhEbHdqWTNKT2xLQXo0dHFpZGptTzdTZzhHaHk5akRGZFAwUGtQeWQ4Qy1hOHhUQ3NOUUZvTUtnTklTdGJJT0RZLUlCRHNrbjJSMHh0ZUNnS3VIRjUzU0JQdEJENzVRd3VaeDJPNVB2QndKTndQZUcwTFR5NDA1YVpIZnJfY0p4RnpydlhsVW0wREhYYTV3MlNnV2podWxTUUxwMkpWaEZnQ3NOMg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cullen Investment Group LTD. Lowers Holdings in Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQXYwdURpaWgtZXJkN1FERWl1ekJ0MDNvWlZ1OUVBdmxqXzgxLUN4Rk9DWmdxMUw4eTF3cVNBZlpDRkVjMTRTaUVYSndENGNSbHhuRTFZaktrQ2VUbWE1Qk92RmMwbXFtdVRHUTFBQjhfS0V4VWphaHZNTVhia2ZDYkd5UU5WSEpPYmhrS2FWMlJsRXMyRFdaSG82OWFwem1iUFlfRHlCVks0NmF0NnljajNqcm95WjZCYW9BQUQ5bC1zRXlUZFA4cWpSd0t1VzBhQnk2b1M2N0Ria1E2NE5XYkFyeUFTT1k?oc=5",
-        "label": "NEUTRAL"
+        "title": "Is Valero Energy Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOS1UQmxNTDZROHlycFNFcFBLUFoyQmdUS21iaGVmakhFZEV3NF8tWGlNU3g3aDFSOXA4MGo0Wml6RVlHa1VDUmtzbTlqdS1lWWEwb3JBaEd6WlB4ZDMyejlFNWlqdTNJVnNTTkFBLUtJcVY1cV9LZi1yYTVmU1ZPV01PdzVJa2Vkb3ZYRVdXREtIQm1pNnRMamF2ZkVkQ1RXYVU0a3BaRThFcXhkdk1mdG45amxvRzYzRTRCOWZQZVJzcmlhdXlFdFBWWDlnQQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

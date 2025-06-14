@@ -2,16 +2,16 @@
   "ticker": "4578.T",
   "name": "Otsuka Holdings",
   "sector": "Health Care",
-  "market_cap": 3633597644800.0,
+  "market_cap": 3829543206912.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.436202,
-    "PB": 1.3554404,
-    "EV_Revenue": 1.453,
+    "PE": 11.161052,
+    "PB": 1.4500293,
+    "EV_Revenue": 1.589,
     "ROE": 0.13509,
     "ProfitMargin": 0.14656,
     "GrossMargin": 0.72200996,
-    "DividendYield": 1.74,
+    "DividendYield": 1.62,
     "DebtEquity": 9.391,
     "CurrentRatio": 1.879,
     "QuickRatio": 1.271,
@@ -20,52 +20,32 @@
     "FCF_Margin": null,
     "ROA": 0.07863,
     "PEG": null,
-    "EV_EBITDA": 6.228,
+    "EV_EBITDA": 6.676,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 45.8163531671906,
-    "Momentum_10": 1.924812030075188,
-    "MACD": -16.442278174105013,
-    "BB_Percent": 0.4759952382990587,
+    "RSI_14": 56.28743370526303,
+    "Momentum_10": -1.346938775510204,
+    "MACD": 87.87253432812304,
+    "BB_Percent": 0.7837348070466006,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9345674645128208,
+    "ValueScore": 0.893813883737831,
     "QualityScore": 0.5273133500538203,
-    "SignalScore": 0.5966231431758151
+    "SignalScore": 0.5405475338370134
   },
-  "volatility": 0.0223561219365915,
+  "volatility": 0.023004936974953,
   "beta": 0.064,
-  "return_6m": -0.2250885339949438,
+  "return_6m": -0.1596582009907738,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 9008.333
+    "target_mean_price": 9025.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 8808.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 8784.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 8798.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 8740.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 8847.0
-      },
       {
         "date": "2024-12-13",
         "price": 8689.0
@@ -525,24 +505,54 @@
       {
         "date": "2025-06-06",
         "price": 6778.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 7135.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 7299.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 7346.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 7391.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 7251.0
       }
     ],
     "current_price_data": {
-      "price": 6778.0,
-      "change": -102.0,
-      "percent_change": -1.48
+      "price": 7251.0,
+      "change": -140.0,
+      "percent_change": -1.89
     }
   },
   "news_sentiment": {
-    "summary": "L'examen semestriel de Pharma 2023 révèle des gagnants et des perdants, soulignant des performances contrastées dans l'industrie pharmaceutique. Les résultats des entreprises du secteur reflètent des tendances divergentes, avec des acteurs enregistrant des avancées significatives tandis que d'autres font face à des défis. Cette analyse souligne l'importance pour les investisseurs de surveiller de près les performances et les stratégies des sociétés pharmaceutiques pour saisir les opportunités et gérer les risques dans un environnement concurrentiel en évolution.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
+    "summary": "Le Nikkei Stock Average Index enregistre une hausse soutenue grâce à la performance des sociétés de semi-conducteurs en prévision des pourparlers sino-américains. Millennium Management LLC se sépare de 4 578 actions d'AppFolio, Inc. L'examen semestriel de Pharma 2023 met en lumière des gagnants et des perdants dans le secteur. Ces actualités pourraient influencer le sentiment de marché, en particulier pour les investisseurs intéressés par les actions technologiques et pharmaceutiques.",
+    "sentiment_score": -0.333,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Japan’s Nikkei Stock Average Index Jumps as Chip Stocks Rally Ahead of Sino-US Talks (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MFRzNkhkLTRGV1RKem0yTWxhNUlpbk1mbzNpWkFqMGJ2RGpsS2R6bWMtdWRCVlpMUk51V0NUN25MMDBhcjF4Y1ZYZmFKa2xFTVlfamVkNmpIZWdhY0JOWDVsdVZhWUlpNzRjbEtVYjF0U3BRWTdqN2Z3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Millennium Management LLC Sells 4,578 Shares of AppFolio, Inc. (NASDAQ:APPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHBDWEtpYkdfUERsMzZJNEN0a3lndlcyZlBkRm1EaHgwcWo5YU9xUzgwb1U5SFBPelZXd1U2cDJ3czhSNWJ4MXdVVDdBeHBwZjhrTkFINDJDMkQwc3o3ZDZMakoyc0xleGEyOUpoakxqVHF6RFpoY3lScGN4SlVNWWJ4YzZVdC03b0RkMGQwblBYZW9QcDdOd1ZOTzFtaVVLcHFGRDU2RnpZU29SMGNnRFVjSXVwcERqLU9MYmk3Um82OUU?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Pharma 2023 Half-year review reveals winners and losers - drugdiscoverytrends.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXbU43NUVvQk9HbzEwRGNfLUlRRnVNOXpvRnJxaTNJOEFHOFlHYnZqOVdEUVlLT2stYW8tWkVJcHYtY2VrbDVZZmN6S19Lb05rUFUxcGxZb0dwMkpySTZqcFhfc2hqby11ZWo3NzY5aVBIT2M?oc=5",
@@ -550,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "BMY",
   "name": "Bristol Myers Squibb",
   "sector": "Health Care",
-  "market_cap": 98589450240.0,
+  "market_cap": 101377507328.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.076492,
-    "PB": 5.6693974,
-    "EV_Revenue": 2.874,
+    "PE": 18.587687,
+    "PB": 5.829725,
+    "EV_Revenue": 2.996,
     "ROE": 0.31986,
     "ProfitMargin": 0.11376,
     "GrossMargin": 0.74689,
-    "DividendYield": 5.18,
+    "DividendYield": 4.89,
     "DebtEquity": 293.85,
     "CurrentRatio": 1.279,
     "QuickRatio": 1.095,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.292344536054232,
     "ROA": 0.07237,
     "PEG": null,
-    "EV_EBITDA": 7.14,
+    "EV_EBITDA": 7.443,
     "BuybackYield": null,
-    "PriceToFCF": 7.061924386592646
+    "PriceToFCF": 7.270164976057247
   },
   "technical_indicators": {
-    "RSI_14": 50.55660348715418,
-    "Momentum_10": 2.8917725827163956,
-    "MACD": -0.3987623038737169,
-    "BB_Percent": 0.775454328554326,
+    "RSI_14": 56.03273319775095,
+    "Momentum_10": 3.179370104023984,
+    "MACD": 0.2727511021165156,
+    "BB_Percent": 0.8462939563492681,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.931304180132863,
+    "ValueScore": 0.8864544377464258,
     "QualityScore": 0.4860086361898275,
-    "SignalScore": 0.560284827096301
+    "SignalScore": 0.5373184037469432
   },
-  "volatility": 0.0186209415338228,
+  "volatility": 0.0186486745293074,
   "beta": 0.386,
-  "return_6m": -0.166206959626033,
+  "return_6m": -0.0872935285759316,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 58.71
-      },
-      {
-        "date": "2024-12-10",
-        "price": 58.12
-      },
-      {
-        "date": "2024-12-11",
-        "price": 56.65
-      },
-      {
-        "date": "2024-12-12",
-        "price": 56.28
-      },
-      {
-        "date": "2024-12-13",
-        "price": 55.78
-      },
       {
         "date": "2024-12-16",
         "price": 55.87
@@ -537,53 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 48.41
+      },
+      {
+        "date": "2025-06-09",
+        "price": 49.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 49.97
+      },
+      {
+        "date": "2025-06-11",
+        "price": 50.16
+      },
+      {
+        "date": "2025-06-12",
+        "price": 50.69
+      },
+      {
+        "date": "2025-06-13",
+        "price": 49.75
       }
     ],
     "current_price_data": {
-      "price": 48.41,
-      "change": 0.54,
-      "percent_change": 1.13
+      "price": 49.75,
+      "change": -0.94,
+      "percent_change": -1.85
     }
   },
   "news_sentiment": {
-    "summary": "Bristol-Myers Squibb (BMY) fait l'objet d'une forte attention des investisseurs récemment, avec des avis divergents sur son potentiel. Des collaborations prometteuses avec BioNTech ont suscité un intérêt positif, mais des préoccupations persistent quant à la concurrence et à l'expiration prochaine de certains brevets clés. Malgré une performance solide sur le marché, des incertitudes persistent notamment liées à la volatilité tarifaire. Les investisseurs doivent surveiller de près l'évolution de la situation pour évaluer le positionnement de Bristol-Myers Squibb dans ce contexte complexe.",
-    "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
+    "summary": "Bristol-Myers Squibb (BMY) a récemment connu une baisse douloureuse, mais cette correction a renforcé son attrait en tant que valeur de dividende. Malgré des résultats trimestriels solides et une perspective optimiste, la société a été confrontée à une déception liée à un échec inattendu dans le domaine de la schizophrénie. Cependant, des résultats positifs d'essais cliniques de phase 3 pour Sotyktu ont été annoncés, et l'entreprise se concentre sur l'expansion de l'étiquette de ses médicaments pour relancer sa croissance. Les investisseurs sont attentifs à ces développements, ce qui se traduit par une activité de trading accrue et une variété d'analyses de valorisation et de momentum.",
+    "sentiment_score": 0.3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Bristol-Myers Squibb's Painful Pullback Has Triggered Richer Dividend Story - Upgrade To Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMW9JLVhmVGJFY09GYi1WbHhFMDRURTlYdFVtV21IU0NGV2J1dFNMbHZGb1NEbkF0eEZYcGtEZ2xHU2diX3FfZ1BXaXBxdzM1WW93UHdWa2Y5T25mTWd6MHhjUk52RnpkZ3BDT1BGQ1BHSnhRUnIxeUVxZFF0Nl83a3p1VEVGS2FRdGhJN3FCeEJJQnZFc1ZUMllZQzlQQmZYbFVULWtxdk85aTNYZUtZYzZn?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Why Bristol-Myers Squibb Company (BMY) Is Among the Best Pharma Stocks to Invest in Amid the Domestic Manufacturing Boom - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNV9FZ1haOUNFaEpoM1Q5eFFLZnpNSEFaamJBLTJ3b0MtQnVqV3gyYWpUNF9MRGJzREFLQWZsOUxSbGhNUTdtN0I3enl4cUQ5LWZzQUhpOU9NSDJkLTNRQnBHUTVvT01FTUVVTlZUaGxfU2tZdFFRNEdWS29OMUlDb1FCMmE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Was Jim Cramer Right About Bristol-Myers Squibb Co. (BMY)? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlNObUtteDQtaGJTeF9WMXVmUGFrR3pYY09Hckx3WEVkczVVUmxiMzdqWks4X24tUTFvTnRIQ3RqSHluTW9mMjFTMTlpRmhXOHYtRVZOSDZrTVMzTWYyZnBxekxIZjZHNU9ic1l5d0JieW0yRERQcHFUUC1JRGVRRnV4cExJTTFJWnV6M280dS1SR201VV94enBydmJHaXhTTkQ2NjBCajVXQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMY Collaborates for Oncology Drug: Will This Boost Its Portfolio? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNi13QXZLaXBEcXpDaFBSdUctcXI2djl1aE96V2VSaFVOdkZhZFBFQ21HQ08tQldWOXBCVUdWZF9vQzExd2dpMXNIbFNac1dsUWdBYWJCSGNhbkdieXhFOTNPRHJmLVNydkUtaDJHMllpeVpCa3ZvUE1HendUS3hZSHQ5SEpOSDBEdkkwWFBFYUU?oc=5",
+        "title": "BMY Focuses on Label Expansion of Drugs: Will This Revive Growth? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0RuWVJDVzRGMGZ3em1xR24zVGltdjdoTkw5MFhkTm5JYjZ4WU9wYmZmNmxJdG1JcXBsYW1zNDk3TlBNSUU0YVdWMFdxZFhuaUZwRnQ3VlNhQ2MwQVZPc2dYX0dEeHlsN0JscXhPdUZCdzlNUHk2cHBwUWJ1akEzUjZJalFHbFhTWF9OckVtZlFQWXFRVUxWZzNWbnZXOVFLbl9JbzFIR1VBelZHR2c3ZkNlNWpRYlZORGlRakZlQ1QwUk5nek9WT0w3LU1PelpQUXZBelhZQmpmN08yWVc0U1VR?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Bristol-Myers And BioNTech Deal: Good For Both Parties, But One Is The Better Investment - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEcwVnZNZ3hYQjRSLTdnNUZVNHVhVGlSdGxrZjBlLXU1Rm1vT3dBMkhCUFNNWjNjMTl5ajh0VHdPYURGcDBsRTRNeVVBU3VReU12Nm5PcENCaWNiZUlITzZNVWZ5SmIzNm9sMHJoX295LXR2cEZlcDBZUVRzb3B0aWpTWmN3QVFadzI3Vm5uamk5NW9sQnd4N2xnRDRNTU1VREVtWHRSckJFVWNFLVVPSTl3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bristol-Myers Squibb Stock: Is BMY Outperforming The Healthcare Sector? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHB3Mm01djNHa3hFdllGeVp6U1NiZVQxcTc3TTZkWGNjX3dFNWtlU3BDQ1ExUm9EN2czLWFObGhGekRVUnFMRW9kVTgyLWo3MXkyeFNUb2lPSUZKZW9ackZhS0g1dG1jVklLMzIyYzdaem9mSklZajRjaXcwYUxCS1hnanFYbDBtWUF3YndZWEEySmwzelBXc3NBYzZ4U3JvMUx5NkRVQVB3UE8zRlctUkdtbFg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BioNTech Stock Jumps on Bristol Myers Squibb Cancer Drug Collaboration - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTk0MGNHZWRKTTMtQTVRczFLYV9XeU9HQXB1Qm02czlVdHgyOFktSy1LV0NFRjQ0ZWliOTgyaEZKMmN6b0pXYU5qREl4X3BBWTVYYVJzOG5CMWRWc294dW9semc2RFlibWhKdF84di1wYWVQYk9Ra3ZxcnNQaGYtVnl0Q3Ftc19kdF9BOHlUeE9GVWFwQTM3Sk9zY1JuTldybV9sRzI1S2M5M2RL?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Should You BMY Stock At $48? - Forbes",
@@ -591,71 +576,86 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Bristol-Myers Squibb (BMY) Stock Analysis: Unlocking a 17.98% Potential Upside with a Robust Dividend Yield - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnhQMENlRGltT1l1Sjdxb0h1TnlqVktyTDlfVDJ2bXR4dzhzQm92a1lQQjFwZ0k5c1ZKSWhkMFdOWHZnLUtTWWxnZGFaT2huVTA2emZIR25WU1hIeEtVYWc2OFdWZ19pOUNMa194RHdKWVJ1c09Ma3Q0RTZSOU1NT0tXUXZoRThwTEl2NVFNU0hiQlBBd2c0V3pfQ0ZRMm16aEo4eExJb3A5WDJRRUozRU1hd0ZlTlBpNjI4dmN2MW1OeTUyT25fNnotNlBpNzRIMXZoN2F0T1o1TVRkaVNXbEVRZEF5OHFEdWc?oc=5",
+        "title": "BMY Focuses On Label Expansion Of Drugs: Will This Revive Growth? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzB2SzZWT3RjVzdhRGtCTndta3VEd25EZVliajFyMlVBbVRqMlQ2MDdGNHlGakUyY0F2ZmJHWUdOYmVvR1p2R3BDdHF4bjNpWEswdnBmQnJFSUdLaFN1REExZ0w0ZV9KLWhMMFZOMnJvTjdxb0xURDU5M3c2dnFtZmZrNU9vWWRxMjBqWWNjQnFrZ0FyYkVHMlREMjJSYTVpVFJlZ2xTSkNlNEVm?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Bristol Myers (BMY) Joins BioNTech in Promising Co-Development Agreement | BMY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRW1EdkVVRTlkSzh5aUJBeldhbTJNMTgxZU9aaFpvdXl0OWpQdGJ0YTlGVVJnblZnbVB2Y0J5VklINWdUdi1VenRQclBaUTN4U1gySzlvRnBzWUJyTk4zZXc0czVrb2VPbGV4V2J0SFNtVWFXYS1UY1FNeVB5YzFNelJZRGEyN2NXeWg2YW5uaDRxZS0tRXNybjl0RkdsV3VfRmt5Y2tMU0RsdjV3VkNLSlJiQzBOcktiR3BPZVktRnZvUQ?oc=5",
+        "title": "Bristol Myers Squibb Company (BMY) is Attracting Investor Attention: Here is What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOclpkYTRLZXJqc2hjNEdpN2lsRlZfSWFhNVR3LWZvTnA1SFV3VWFSUGxBeUV3aXY3U0JpVlZKUnFyVUFrc0E1MmNCR0ZueVZFcWNrQkhqdHRrekVhY2I2WGxVck11UDFBaDB1QTJRZHNFdldwbE1Nd1hpNWp1dnVTOTA5S2lTeTd0ekd3T3phY2trbjlJd2R2enIzZk9kZzBWWGtfdTh6XzZZQmQ4NC1Zc2w3NGtLU09BZzJUcUxkSzJ4SFVUWVYtS2UyZmxEWjdFclRDaUMxTktOUmVPTUd0eTFR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citi maintains neutral rating on Bristol-Myers Squibb stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXIydU1ZX1hnUzkxYVE5Q0dJZE44b0s4Q1ZOaUV6VzZ6S1BCMFpoMFlkYXBId2NxU0Z5N1UxRmJVQ0NiUnUwYWRtTU9OVWtmSThHZ29jT1M2UzFQS1J3cF9IRzFNUVJKT0dlR3ZtdmlDVDc1YjgxNkJvZjdyR1dEbXhxOGtSNWFHdmE4dEtxS0dKdy1GRktncE1lQ1EwcmlZaXJudFVnUXkyRE9jQ1VJa3hlRGJIV3BtdGc?oc=5",
+        "title": "Bristol Myers Squibb (BMY) is a Top-Ranked Momentum Stock: Should You Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkNTc24wbkNCZEhmeWVIeTNQSGNIdnhCUGREQ01iNGszbjNDLVF4eWZaODBNZVBPV2dzVVZkR2hRcnJjYjV1X2RrbGlEc0dqM2JkaHRTT3AzUHNoMFNmTk1GUjVfTkE1VnZBOVVwNDA5cGNSME1uN3VnYU9oWkJ4VzYydHgxRGl0YlFoVkthRUEzelhsa2ZkSm5BYlpQZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bristol-Myers Squibb Exec Makes Bold Stock Purchase! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd05zS3oxa0wwRHE1RFVFcVpMc3QxbElDeUtjYnpUTnRITTdxWjF4NjJZWFRmM0NEUEVXR0E3eGZQTzVLTUlhWXhWUDc0NHdpZzlhandMQXFjbmNiMmVrSGVONFNpdzluNUIydjh1QnJ3MXRNb3dKVnVzSmI5T0gyZHZuMUN2WGEweHhjdHBzbHdVdU1FZEoxY1NTV2hRZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bristol Myers Squibb Co. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1BPUFgtSkEwUGZGb3VqeDhia1pUSmptUTBwT1pvLTVDcHdhZk1xb1RKOUVQbjRMdXZFZE1UTDFnR3Z3TDRvaVdCbTFaTUY0cFNkM2pkMm5Qdkhqc0RBUWpWOU96a0R0Y19EcXY4UFpLWFp3WlZqQlEzQWRUeTRla3V1M3lqUk5BRlV3N1k3NjRiRzF1QWFGcTh3NFg3cGowTUo0U0FiWEU5QVFJMmdRS25lVEVzVGZhR1NJWEhrTkhBQTFvTkd5UlRud1JDeHhD?oc=5",
+        "title": "Bristol-Myers Squibb Co (BMY) Shares Up 3.07% on Jun 10 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2I0Y09IWTM2bTd2eElwalg5REphRlZTQmV3WnRpVmJzNHZqOGxQbjNhYWV4eGQ0TnJCUmpjSDlOZjVBNEZpTW5UTjJyOXZwZVAwNnZTX0VzRFJYVU5NSXFIUHBUeEF6ZlJDay1MZVFyZHZUaFVtNHFSdFptaTVHaEZfbXVKQ0lNLWUxT0l1bU80WDA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Bristol Myers (BMY) Teams Up with BioNTech to Advance Cancer Therapy | BMY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNamJ4OHhkNHJCcXNETHVsUjVtTkRuTVRqdng4bFB4aC1rYmdQVDR5T2ZMN3V0Qi02dmxwcGtNdUxmbHJDOEFiUTktcmZEWGpkVE1lLUlOZG9fdDdPNHdZcHM4b19IUlZ6UFV6WE4yM2d2a0Ric09tTjBILU9oU2xmRDg2dHJwWTIwWDJZclREYXJzSThzMWQ5Smd6YjZ3TmcxLVBzMkNjcHhFQjhDS2lUam5tMHZDbnVKTXlubHZrcHBxeXMzckNWNXp4V3VORmdrcFoycGJUeUtZNFJVOXY5dnJnWWZCUy1GdHVZWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Raymond James maintains market perform rating on Bristol Myers Squibb stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT2I1aF9WOGJQOFp5akFicFE4clZfZXpTU1pmbFk1Nl9wU2gwWU5WT1dGVm9LbWxSMVdUclBsUkp4V3AyOHNWMF80d0s3WG96OU1HSHJ1U080YldmU29oUWVYZ00tY2ZYcmRGMXVTWlNiXy1vdEw5SGpJR2Q5bVhia3BkVmtBakxSM3p0akYzVWtVVS1WMWRiby1iRUpsTk4zdUdTNG1yOTM0WjRCZzZIUXVQTnVRN0U3cUVTSWNQbVFZVjJOUk5KVUFQOFhtb0VL?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMY Stock: Is A Post-Earnings Slump Likely? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmE3QXh5aktxNVJsUW92bFYwUFhGMUkzMHR4MHJNTUVMa0xzeHFyR0paemxXc3ZVdFRtS1Nnc1JlOEtWNU9mOU5yUnRob1lmQkpwY3czOXRXZzRfME5wMlZQUEdSd0NKZmtnWURlOEV3ZEVJTDM1aTJudFQwTjlPWEYtQVZxNktDbXJQamRIRkJmR2lxaVFJWDFrbzl0bGZnRFE?oc=5",
+        "title": "Bristol Myers Dives On Surprise Schizophrenia Miss - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUVPN0k0d0dpQ3I4SWdtcDB6ZlJNbXJqX19mNUktRFBLak9DSDJmTzBDOEhlY19DQ3V6SGtvdnBkR2ZzMWxGS2hDZDNNdkRGZXN5NThsRzNBSXdKeTZpNjJyZWlNbWUycy1UakE4X2hYOFdOeGNqTTR2WnVYZ3V5aWh6Y0tVaklqM0FUajI3TWN3ZTJZMmxTMFVOSldZSi01Unk4UzdaV2dhdw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Investors Heavily Search Bristol Myers Squibb Company (BMY): Here is What You Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnVtc3FCdW8yNWstT3Uxc3VfRWZzS1NCTFUzbDhvSzJUSnFUdFZVai1hb1hXY2tMc0lFRDhMdEJGbEh6ZEJmeE9QZ01CUm5TWHJheUZubEFuU2c5VXdnYzNrNmJWbDVxMll0YlNuUzBOUWw0SXR6UkZ3MHBacktXWkppcEo2MWdOSFRRUA?oc=5",
+        "title": "Bristol Myers Squibb tops quarterly estimates, hikes outlook as drugmaker braces for tariffs - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2dHVW9Zc2x6a1MxVVBFdi1mRlFaeGhpMUU5cE1LNUFLcV9fTS1LV1NJUEY2c2dER1FaYjdQR2pGMHpBSHNNRWFxMkI5QlgtczFnYW9yVFZuSzEwbHc4cHE5cmp1U3ExRWhWWEdiZkZycVpoYU1qODM3QmF2ODVsdElpeUjSAYoBQVVfeXFMTXFRX0ZmekhTRVhkVGVsc0xZYTRxc0Y3YUtkUjlMT3Y4RG52T0tUQy11NDJaNW0tWURtQWxPeGpUVU1fNlE3Sk9PX2F3ZE4yZ29MSXdRaU1JbW5uVXl1N2RCX2hwcF9UeXhJcjA4cXBJZHZNMGlLV1JmX1ROX0lVMTJQcldWalZxbm5R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bristol-Myers Squibb (NYSE:BMY) Reports Positive Phase 3 Trial Results For Sotyktu - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2FmeXVnZVFITEpFXzc2WWhydzBERUJKZlpxSFR6TlVzYmwtS3ZLNmtKU0I5eDdGQzRYVHFkOVlrUTBJcUZTdHlEQ19ZOEpvR25iM0liOVdCTkpPMkxVYnk3N1JpelBBUjY5alROSkZ4V214VERnakFEcTdBdEk0RnpFRXBPV1FfeFZNWXFfeDVJU3NhRGJ0Y05jbFhDRFV4WVF4T0VkclprYktuaVEwdnNsMFdBdFNnVk0zSXBhaDNubDloVWotaGdRRjRFUy04RkN1VFJQMUdQOHQ0eFJiM09oSETSAeoBQVVfeXFMT2w1VnNwbG9YWnQ0QWVvLU9vNXZwLXUxRTkybUp0SFpDMFNOcDVxWUpua0EzZUNsQnRvMWtlblE4d3JBVWloeUF2T1plOGo3U1lMMldNQVlfNTBUR25xN1Q4WDh2UXV5Q0lhWkVUSkdZQXRCZG9ZQUZ3YTE3aldHdElBWmlhRG5PSGVYcnRMWXNsOUdEZHBqdUFPWTNsSGx6d1Y4dWk2VWhtakdlNGRnbTZFcWJFYXU2SVlBQ1ZyVEpINTFhTnY3ZGQ5SVFBU2ZLVnd2UTgydk9sQ0xjUTItellXdmlDZGJHYTBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bristol Myers Squibb (BMY) is a Top-Ranked Value Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUXdaZi1EUFk5VmEtSzVjQklvaS16eU5UdWEzdE44U1VKdGFfR1B3WDFDRWt6dWpHQUNsSjg3ZWNpS1pxajhMV2p2MUtRcDNac3YyS3c1TmFRd1VUS2NYeDd2Yno5QlFKMzNPQ2xuTUtaNGlyWkRKRVd0Z3ZOb0U?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Patent Cliff Looms Large for Bristol-Myers Squibb Stock (BMY) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDZxa1hvcTk2dEdSTXlTTlgtckFDRnJrQmQ0U3BVQzZJN040enpxUUotZXFHV2JiVVEwTnZyTUphZkFNbmRVc1AzSWFVWVhjX3lNQ1FYeUxvR0FHR1NiX3B6Rl8wWlpSZmNXdFpRYmtlS3hLcVVMRlBHbm9yUERHTXRsM1c?oc=5",
+        "title": "Bristol-Myers Squibb Subsidiary Secures Licensing Deal for Prostate Cancer Agent | BMY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeUZLMjZ2ekJDcjRJQ0pEbDJvX1JJN2FmczhXX2ZONkE4TjNFS2ZBVm1sM0d4ZzhFUDRCRnI0T3A5dFBTV2Zlc2RCTjNkTjBPblJWazFtUjJlNkthdzcyLS1JX0x0emFWVVluT1FkVzZxYWU3N1pJa1k0dTdPSkhYVEh3a1E1SzNaMmFrQzRRWm5lOTFOTk1VLUxOYlVnMFAtQXp3dDRoSGwzZmE3YUpGY2R5ZWtER3Q5dm1UeWhfRi1lQURPM2QzYWJfZlItTjA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "This High-Yield Pharma Stock Looks Like an Incredible Bargain - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjVLNUhaZ3g2UEllRHVDZHk4NTJnaW9VMnBNN0pnNC1XeDRXM2dVS0xvMzJTRi1iY1JhSFhndkN6aUl0STlIQXZsUjlzNG0wRmg3bnU2TGJQcExLQVNEX2JTQ0tyblhUS1RWckZmczJiNWt1NXptaTU5bDJuYXBFT1RlekdaRE82cC1uWllCN2g4NVdhOWtPOA?oc=5",
+        "title": "Bristol-Myers Squibb: This Undervalued Dog Needs An Option Collar (NYSE:BMY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeS1VY2RsbmJCMU5zTlR3YUxBWmpkV3NjYzZ1YmNSUXNPTGN0TzhQczA0N0k0NHJsWVJ5VVh6OGRseXBYVEdKbGl4RkRWT0pXSW5NOUlfRy1TeHNoV0F5b0g4ZFp6UFM0dm5ROHdIZHZ1eVhCankzY0szN3ZUV3hqVVpQeVV3cTlfdnB4bEFtSUlxWmc1RkJzVFNYTzBvcGlTZ0ZsczNSd3M?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bristol-Myers Squibb (NYSE:BMY) Collaborates With BioNTech For Antibody Development In Cancer Treatment - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHdrTmVQckFNeUJDRTJzN3oxMXhLRWxGWi13bzYzRVk2ZVU0VE9abGxfSk8tLTlPbElncVNSbDhubXhCUE8wSHgtVkJPQ1duVVU5ZVpSZ3hfajVfOGdhZlZoREgzeGtmbWszcUZyS2Z4WkZJaXR5UUJBZmQ3RmZJOXdpLWtvaHRQQ0VtSDFHQUpSNXVHazZIenc1OHJzby1HQ0xhWGxuV29ENVJuWlZ6M2VTeGx6b0VfcUlRYjc5TDkzaUN3eV9kd0Zlbk01V0EtRi00aldWM0NNUnVON0ZGd3k2ZmHSAeoBQVVfeXFMT3BYUGNXYVlMUGhWMFFtNUk2V25VWTJjVjZVeFFTUGljQ0hPXzc5RDJnejhBMllGbDV5UGNNb0ZnaldFOEdual81WWE3eTZiMUU4Zk15Y0lPcVc2WmFjTmZDdXptLXRPZjZna3MxU1FaWklOZFpyWDBEWVBnZnVPQVFpVWk2NjBOTkhWLTMwamUzdjBKQ0ZuT2w2d2xRUWRqdnU0bmlfLXB1am1CZ2lXV1VYa1VqRWlCRDZLSVdPWWN3aUVnZm5jYVV3VnYtNXJBRE9menV2VTJyX3VfdnFlMkJIRk95Nm9uRE5n?oc=5",
+        "title": "Bristol Myers Squibb (BMY) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQURBbnVJbXhPX2Jub0ZhWWhFRFFyS2x0b21xS09KUk8wZ0lzRjFKVWpfYlFtc0ZsRkxPblZETUItZjQ4cWE0OWdrWHBWLVd2ZGVqLXREeWtnVk5tbmF0amozVmJHSmktZHVIVjdaU25fZlpJWExFbHY4dEpuUlk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Bristol-Myers Squibb Stock A Safe Haven During Tariff Turmoil? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHVmQk1nNHAtYjFMR3Bvb1dNWEtwNFN1emJWN1p6OXFSSVJ2SXVaQXlfMHZEZUNBOEdlOXNaOFM4Zy1qLS1iTXk1UVFtTnVaaUVpTnhTMGtGTnU5aEI1UkJZWGo4d2Z6SXVnQTV1amdPODFUN2FTNWNkR1V2dnM0dE9kLTJ6d2pNa0NkLWF6S2dfY3Bqajl4U2tWV0FrZzN6TWFWc0g0U3hPLW9iQ2hqMXRNSm5wS2x0Z1hhVl9ETkhBQQ?oc=5",
+        "title": "Bristol Myers (BMY) Shows Strong Option Activity with Increased Call Trading | BMY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDBpR0RzNkpjWEVSb0xLbzB4eHhQQ3M5NmNwTzE5cTdCUm1FcDdnYTZtRHI3QmlTMjN6bVI5UWE4bm1iRUh0S1NnNGVJcUVrdllneXc4MDNhM094cUlpNXZSNVJOR1Zsd0t3b0hERFVYUHFXaUk0N09aTHpjWEstT0tWbkhralBOV3liYXN4MURjTkQySHFYWHk4bl9jUzMwNER2anlyV2FWcUI4Qzc3blZpdlJ0MkYxbWdWV2tmTVF1Nzl4X3NB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bristol Myers Squibb Presents Data Across Targeted Protein Degradation Research Including CELMoD™ Agents and BCL6 Ligand-Directed Degrader at EHA 2025 | BMY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQOU9XOUp5Z2VhM3dxRnpqQXYzVGdhc2RZMGU2TXFKR3BMQkFUMEZ5d2pFWkNhMlczMC1TbVROaEpidnItTWxxY2N3ZXFuSDR4UG55OGYtVTdpZEVIYjRSSndNdFZrdXc5eVlUdHh0WUI5MF9mbkdWc1REVF9oNEl6NnIwekN6S2hQYUM2bUZmcHhiVTFtTjN1M3JuNTY3eFMyTWJZRVpJMER2R2pQdVN0Um14aEVsZ3BFM3ZqeVhZMUcwa0s2UmxWdWpSQk5BbG1sdS1nektjd0ZJY21zWng2b09tWm0xX09tQ1MwYzFyTlVWNGF4Q0F6ZXlfVG9UTGlpcGJCcFkyOWlqaURmR3dncmgtTjItVWk0cUhPaDhqTmg2QXNFN2lNVkp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bristol Myers Squibb (BMY) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3RDNGFkX0lueDAwZmJfb2xPNk1peGxzUmFRWDA5TWZOdXRXSWNHdk1JaC11Z01zaDY2YVZmU2lEN1EwZHhadHBJNVVuVUhJcndJOHJiYzdzd2ZmdUJvdjlfbWtNRnBKeU16a2tmOWNpTXFIaXRBbVYwR0UtT0dHWXpXVlk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bristol Myers (BMY) Showcases Promising New Data on Targeted Protein Degradation | BMY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlhRSGNuemp3VmVMLUlqSWhRX0dnTTRmdUduWEpRWm93Q0g0Q1JxVnpLX2NPZTF5YktFbWNILVdjejk4a0luQWlBcUh5dE5nay0zeUxoRzZjLVR5NmQ4MllDY09wQlYxcFF0dFFsbll2LXdWd0szaVNPNzc5WmM2NHZhMllfMXVxVXpTaXFsbml0eUU4Y01kelJGblBybklKMmREblp6Q212UDIyZS0yWlBRcFEtcUdUYjRaZm5oQ0tPZlBXQzdQRDhRc2hpZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Bristol Myers Squibb is a Top Socially Responsible Dividend Stock (BMY) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlZlV09kR19WV2pNN3Y3R3NuWXZfdTIybUVTbUVHOEstSk1Ya1pNQzAyaGF2dThCbUtWUjg0OFY3WTRNdzVVZXU1Q0JvNC1wdlppVXRBbGUzSkhZM0ktR3ZnWGRiV1dGWEFaRDJXekMxV0hYQjJpOHg5UHkwRFczYXNfdW1sR3BuQ2hLZTY4eUxCSDEzYnh5ZUJEcGdJc085cXc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

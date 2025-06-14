@@ -2,16 +2,16 @@
   "ticker": "DIS",
   "name": "Walt Disney Company (The)",
   "sector": "Communication Services",
-  "market_cap": 204853608448.0,
+  "market_cap": 211810549760.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 23.2551,
-    "PB": 1.9668933,
-    "EV_Revenue": 2.592,
+    "PE": 24.044857,
+    "PB": 2.0336902,
+    "EV_Revenue": 2.708,
     "ROE": 0.08894,
     "ProfitMargin": 0.09475,
     "GrossMargin": 0.37096,
-    "DividendYield": 0.89,
+    "DividendYield": 0.84,
     "DebtEquity": 39.432,
     "CurrentRatio": 0.668,
     "QuickRatio": 0.541,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.09981922545004605,
     "ROA": 0.04481,
     "PEG": null,
-    "EV_EBITDA": 12.749,
+    "EV_EBITDA": 13.321,
     "BuybackYield": null,
-    "PriceToFCF": 21.81545964041422
+    "PriceToFCF": 22.587263521120125
   },
   "technical_indicators": {
-    "RSI_14": 68.36479100834396,
-    "Momentum_10": 2.4835797754377977,
-    "MACD": 3.8867128064968455,
-    "BB_Percent": 0.7816421900293417,
+    "RSI_14": 69.85230570517302,
+    "Momentum_10": 4.20205233680915,
+    "MACD": 4.177507574204583,
+    "BB_Percent": 0.8648674623153298,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9322876336399198,
+    "ValueScore": 0.8883027894841672,
     "QualityScore": 0.2823637839774737,
-    "SignalScore": 0.4708423401008397
+    "SignalScore": 0.4658436054573674
   },
-  "volatility": 0.0231078496408424,
+  "volatility": 0.0231982895638901,
   "beta": 1.552,
-  "return_6m": -0.0194901847945375,
+  "return_6m": 0.0441315593255084,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 29,
-    "target_mean_price": 124.28759
+    "target_mean_price": 124.63241
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 114.61
-      },
-      {
-        "date": "2024-12-10",
-        "price": 114.73
-      },
-      {
-        "date": "2024-12-11",
-        "price": 114.61
-      },
-      {
-        "date": "2024-12-12",
-        "price": 114.9
-      },
-      {
-        "date": "2024-12-13",
-        "price": 113.34
-      },
       {
         "date": "2024-12-16",
         "price": 112.11
@@ -537,57 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 113.9
+      },
+      {
+        "date": "2025-06-09",
+        "price": 115.66
+      },
+      {
+        "date": "2025-06-10",
+        "price": 118.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 119.52
+      },
+      {
+        "date": "2025-06-12",
+        "price": 118.61
+      },
+      {
+        "date": "2025-06-13",
+        "price": 117.94
       }
     ],
     "current_price_data": {
-      "price": 113.9,
-      "change": 1.39,
-      "percent_change": 1.24
+      "price": 117.94,
+      "change": -0.67,
+      "percent_change": -0.56
     }
   },
   "news_sentiment": {
-    "summary": "La Walt Disney Company (DIS) a récemment été au centre de plusieurs événements. Malgré des licenciements prévus en 2025, le titre a progressé de plus de 1% lors d'une séance de trading. Les analystes sont partagés, avec des prévisions positives de la part de Rosenblatt Securities mais des interrogations sur la valorisation du titre. Les investisseurs semblent réagir positivement aux récentes annonces de partenariats et de stratégies défensives de Disney.",
-    "sentiment_score": 0.2,
+    "summary": "Le cours de l'action Disney (DIS) a atteint un sommet de 52 semaines à 118,66 $, bénéficiant d'une croissance robuste et suscitant l'intérêt des investisseurs. Jim Cramer est optimiste quant à une possible hausse future des actions de Disney, soutenu par un succès record au box-office. La prise de contrôle totale de Hulu par Disney soulève des questions sur la façon de jouer l'action DIS dans ce contexte. Malgré des licenciements prévus chez Disney en 2025, l'analyse maintient une recommandation d'achat pour l'action avec un objectif de prix revu à la hausse. Ces actualités suggèrent un potentiel de croissance continu pour Disney, incitant à considérer l'opportunité d'investir dans cette société.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.5,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "The Walt Disney Company (DIS) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzZIc0JkaWxzbkd6aG5hLTllWXNMaExDMVRzbHVpQ0FJcmNOY2RjRUF6ODBHYkNITG9raDVFZjdGWWFOVTVOVlZxX3pFM2VRMWtYVGJocHFDeXE2SFIzQXdBOC1MOWVIaXNaZ2xyS1ZQWmdmdE9HLWtIVjdrRVA1UlBSMnk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Walt Disney Company (NYSE:DIS) Stock Holdings Decreased by Generali Investments Management Co LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbTBLbWdPcjBSZWpTMUpuOU5JMWRpMnhoa2J1UmFCZklrOENlcFRvSExUVFN0enZFNmVLeURRRC1DNHhSbEhITUsxQmR5SWZMRExWUDlkNURVZXVkQ1EzajMzRmk4WDh5OUpCV0pqblBwTFU1ZDdadEVscG4tN0o0S2VLRDU4MXY2N0x6b0JQN05sUUJZY2VBMUhBYjRISDhvRlpoa3p4SEZFcW1RUUc3dEgzeHBWSm5QekljTEVJMlFmb1JWUUtwOWZscFRaUDJPSktQUzdGM0pMYVVDQlcwcmppeWkyQkZlYkZwSUt4UVk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Disney Stock Valuation Mystery: Top CFA Analysts Reveal New Fundamental Data in Special Report - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHQ1NkViUkhjYkJtWmExZXQzX09FRzJMeFk1bzcyc1pZUF94V0ZUYXdDcUFvbzctdW9Oazg0bDk3aVhzUWNyME9aeVdrSk85d2s4d29nWEZRNXV1YXk4SDdHTE0xRnVuLU9HSHlQQl9PVmpZZ2MtcjkteEFPaWhDVjdLd3g0Z1NwZHNTZWZVaXJqMDRMWktCY1laSl9HaHRIZl91Z0ZSamU3YjZUckdwcTlfeS0wa28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Disney Layoffs 2025: Should You Buy, Sell, or Hold DIS Stock Amid Entertainment Job Cuts? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbTUyWXY4czEtMG5zZE1COHQtUVdoMzBWS2ZTQXRKSmJkQktsZEU3b3JJa2lKcWtNbWN0OUFrWGFnQ1Z4YTl1dkQzNnlURFdUY0EwZnd1bnJZVnZlNDlSWGhWdENxUV9yaTYyY09RZmwtRkFhUG9FTGZZSFZRRnpzVUtORUx2VVFoRUdacEZjRGItVkpuSkNiUUNtWkN6YzFrNXZ2QzFlaEkzZ0UxWWV0UHVvd1VIMHZzLVY5dExfVWkyaDZkR0tFdmFvTWR1RVhzX2hzR29kZkd6anpUcFVKMWpBbFJON2tKTG5RdU5Jd0lQdjhsemhUS1ZBUlViT0I3Rmc?oc=5",
+        "title": "The Walt Disney Company (NYSE:DIS) Stock Holdings Reduced by Argus Investors Counsel Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWlsUnFWRmt5cjVwa2hRaE9DZDc2SWozSnp0Y1JNcjN5RWtIN2dNMEN6dFlkUkpXYVFFYmQ1bElqc1drSzVOT3dlQ3pLeUJrdVBwdmlaczZzdUpOT1lCZm1PdXdya3MyX1NNRFpiVk5SM1BhN0NKUXZnYzBoUHhXbDhUeWdtNENlaWF4SDFlRjZVb2U1LUw2MUE3WV8xbG94Uk1QWnBTY2FDc3N5OEV2VHZrU29sR1NpTVdMYll4MWxaUHdXVGd6SjkyOHNITGZIVUNabXAyeFdnWDdfSVA4?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "“Streaming is Dead”: Disney Stock (NYSE:DIS) Notches Up as Andor Proves Pricey - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmkzVmpKb2hzd0NIeWI4NW1iTkxibEpmRHpEVG1ucHh4ZjNQQjgwa0N2QTNmbTAwMU9qOVZ4MzNmY1dqa2ZYeGZYRXUtd2RRa0EtOXlWbjJfTlRyZFVTeHZ2Q1kySTN4TXp0MFFIemlyNnlrQTdyZlBYcFBYb29NbzlkWVhMUmZrVExHcnFGbmZLZjYta1hra2F3aHRwZ29nTzRkeA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "JioHotstar's Subscriber Surge And New Disney+ Perks Are Changing The Disney (DIS) Stock Narrative - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmF2bkJoZGhlUWNGajhWMVk1d2pYVzEtTTBleVZVbVI1SmJGVy1pcjlEdDR3S3pPM2xKS1E3RndfSWtya0RLbWdaZEMzb1piSXV1TGVnY0J6WVJISkdhWlhtTWh0WEc0dkJZb0ZSS3dXWmhmS3pucGgwVHFsTFY3eEJsU2FFbDRlSGlRX0RVWjR3MjN0WTNfejJHbGM3dENrM1BCWVdjcVdBNy0ybDN4SFRUTFc0dWpuTnlPN3dfWTBUV0Rq0gHKAUFVX3lxTE9KWVVSMENEdWpCN2MxMERBRjdoem1qdEtUb2RoY2RfclZPTGlOU1A2T0VHSXRBZWU5WDNPRlNFOVJ2NVdXd1RWdWxUSnJpazN4dXpaNFZBV2lFZ294QzVtamFHSHJYQWl1VHV5N045al8tR2JBa3pUQVhlbmVrbFo0LUxrc2pIa2dvbi1WMkVEWjJKY2pUb0Q0MVpEVXZ3OXBIcG1iYVV6SWVuS0x6RWhaSFJQemxDbHJ0NTlKS2dOTGdUNnBRdnZ0Wnc?oc=5",
+        "title": "Why Walt Disney (DIS) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZQkNISzZyLUJ1aW5SYTVySFpDd19Rb1lOU1RsaFNTMEhqalJvbTlfWl9Fb216MzZVOG5mVFBUa3ItV3VVbmdhSGMxakhQMWRTQnpkVVVJZEVnVHozOC12UWdMeGxnZkxDaGR5MEtkVGxiTE9XcG1sbg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Walt Disney Company (DIS) Stock Gains Over 1% in Trading Session - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjYtWUlEcXNYZGRFeFBBUGcxbFp0SzNtR1Q0ak5zd0w5eDdja0thdV9wLUt4ek1pWWMyeDNvejFJZWYtbEFfZjg3VWh1a2wtb0JDNXA1R2wzUDg3UXV2dUFMZXpZbXZicWwzLWFaRXp4b290S2pRcjlFVnhUMTlwOGEtTFhoUWRkWHdqa0NYUzZYSnVMREdJeGllb0hzUFMtaS1J?oc=5",
+        "title": "Disney stock hits 52-week high at $118.66 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEZRdGNzaTYxNndQd01wTm1YeHVYaFg3ZnpPTThqT3B2OGVyUmRyZW1ZRDdnOFRfVHI1T3BHMGZUWUNpemF1XzU1b0JqMlZIZWV2WmRPNmdwVmswTDVaeXZ5LXJUa0F2M21pNmRPQ09kcEdPaldPRFp2ZkVMb3d5b0ZCV2s4ZXJlbGdDTzJaNndXV3ZYbHNwZXllZzFDQzBnTG9DWU9uakZ2blhvWUU4ZDFWdHE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Walt Disney Company (DIS): “The Stock Can Go Much Higher,” Says Jim Cramer - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3d3WENXZzB1c2dVNlVlY25RUVN3bVRFZ2JDT0VyeW1LRVV1Nk10VjZUSFZvSzIwcU5xdHlMV2k3eDF5bXoxbG1SdWxacVZWdkxOTGY5RzZzTThad082aDlkb3lCZFJGaU05Ny1OaEZYV0txSDZ2bkM0TmRVamwwV1hnWmtHbkRQOTZjWkdtb1R1N1RSRDQtQTJzd1J2TnRhLUFvUlBlenBsYzFvb1d5VkFydzA1NnfSAb8BQVVfeXFMUG1vNWJIbU14RkN4TnNvQUtWTUhRREpkdzlKNW5ScUhtQ1NJNjhHOEdkVFpUbF9ZVWtKWVphM3EwbUhrVzlQRUo5YkNQOTFKazBlckNMcTAxQk9OMDI5WUlKckJBeWo4NE1sQVV1ZEtBcGxBeFllLXpvS1duZWcxbWNTeWxMa2kwU196Z3E5RWhacDh3Y1BoT3lDbDE3cldYbjNnOEcxZkdBWElNS1NTVjVOUndBV3pRcEFiWUhBZnM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Top Stock Movers Now: Walt Disney, JM Smucker, McDonald's, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05ySm1GMkZmWS10TkxZX0t1NFN2MXpoemxRX2lwY29uU25sOHJZXzNBUHVDa3Nmenl1dHEyalVhelNDbUJPcmphbkx4SU5pT1NTZWV1TldwLVJkNjI5V3BFTmZqOVBFakdueXNTZHpmYjJoY2kzWnpxaVFtVU1oOHN5WHRzZzQ3VERDMnBXSlkySFlic3ljS1YtUVpMYktvTEJv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walt Disney Stock Could Extend Rally After Buyout - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdllocnUwOFpJZXBIX3NYZjVNLXU5REktVC1iQlFMXzZKRzh6c2pJM19OTjBybG5KNk5BMjlSWlNLREZZRm8tNjg5TTBQdENYQTRJUW00Vmd5ZUw3SVU3bXUySmFucmNqSlY0NnBvd0Y2RzZYZm1WX0cyald4WUlOOTFuYUUzZDZSQkptUEpsZ0JiaXZzMjk4UE5LOEMzVzd1cU1VLXN6UEJtdDZyc2FWS093?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -596,34 +591,39 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Why Is Disney (DIS) Up 7.1% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWmFYMWVHNnhPODhoZGdWcWdsRk90dkNVVmFPVHE0TEtRak1TYmY3TllXUmZLMmMzdGdFS2pWUWdFQzFhcGd6MnhlTjM2UXdtVTd2d3g5Z3lKek5fRmt0WjdlMVQtQjk4S0RNaUF6djlCZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "The Walt Disney Company (NYSE:DIS) Stock Holdings Boosted by Apella Capital LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1JhZm03bVY4NEpXODhZdlNRbTBVdmJTZnQ0MHpabnZEM3M3blpyVHF6by1MQzdIN1NKQWNGRkdmSmdPVXlwdkpFYUg3cXA0RC1aR3RPWThSRUc4Y2p1Q1RjRXBzOFBNOVFZemhFVkJtQVdiRVBzVUlVRWJxVlE3TFI4cHRZQlpnMUpDLWlNa25SSl9GeWZJQ0dlYlNVYUI1NEMyc21xZFNnZGRqY0pjUDVoT3hna0FJNXJSZDJ2S045aTBIU2ZFZGpzYlpRTEZ2QmdN?oc=5",
+        "title": "Disney Is Taking Full Control of Hulu. How Should You Play DIS Stock Here? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQjNSVk0tSVZ0OG9VMVVMR2ZvdXF0c0lMQ1N5YlJxcG9tbGRrOHJyVjljMFdFN2hHZUc5cjA1QVVVZVg1b3ZZN2ZIWWdjTU5xeHhqMncwWHBqbGtNRV9SbFRraExtMEs3bHY0Z2NXSnFJSUpraV9UTGVlWFk1U3Y5Smp3d1ZKNFItcnZEblQ0QWRnSlhBd2tUMzhwQ3J1QTFVUnFqTWpUeGdQSzlDN0tzZXJCY2d6clRKS3Y2MUJHbmEyUWZZVkhsZGVTZVpLRUIyN0dsUXZmb0ZySkRmM2EwbEFtVWVUWXM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "“We’ve Always Been on the Offensive”: Disney Stock (NYSE:DIS) Slips Despite Plans to Fight Epic Universe - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdENzTThJNFFPTk9XU3VVOTJQREFuZ1NrWkpXaGVhZVVQQWZsOTZMR0dGQ181cl9Qajc2M2hqN015eFFkRzF1MnVha1ZiMURyWFItUHBzVGtBOUxXcUtZUzJqbU8yRUNZdXpySVF4bWlLMkdTUXJzek9fQWVUcVNGQnJPMDlWLUJXeklNazFKV1BMQjIwR2JFMG1CYjV0WTE0X09ZUDFlVmF6bm4yejNDUUVhVk9aNENxMWM4dzk4R3VkdEYtVHc?oc=5",
+        "title": "Best Stock to Buy Right Now: Carnival vs. Disney - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVThpdUFRaVphV2RVVk8zUmJOTEFXdEh4UThJamRPRXJnNDhxUzJ5SzRrMVRITTFwQnB2MkZweEZRcU1Tb0VJMmdONVVKNGlHeDU2QWF5NzEtbW92V25BczBzZFlNZHNUWm9sSl8zZHZqZjFGMy1WazBjUXh0UkdONUVTYzdPN2JVblNUYnJXVi1vcTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Disney Is Turning Into A Bull Mouse - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUVINWtDU1hXVUM2SVJTaFRnTW92TjRhNFJvS3JhZnpvUURGNzZyT0RvWU1QZGlvaWtwX3FuOW1kc1YwZURLbHJrRFhtTWNfdXhzLTlKZlc4bUQyTmRJY1Y1Y2VPd0ItQWFOa2FmVlVkVDZ3ZGlWNU1BS194TWVmaGhB?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Was Jim Cramer Right About The Walt Disney Company (DIS)? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWW1zSnZ0VEdjNEp2QV9kZWt1TXVkdkxTUWVNcXZEUWRZRVN4VWtEUm1HLWFIbVluVTJrVXZvYWRBQkVHRWttMWVFTWxaRWdjTHpVa1V6YUN1VTBqNm43SU5nUHpsd3JnRmxvUEVCcFFWUUo0NHRyQmthTzlVLVhYVkZ3?oc=5",
+        "title": "“We’re Holding On to Our Linear Assets”: Disney Stock (NYSE:DIS) Jumps, Bucks Trend - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEhhS1p3T2RBTEw3UGxsMDdrRVBRZzlXWGQzQ1ZMY1BzNHluTkI4LVY2MlNQU0l1cTdzOEJUbHI2ZmVTRTF0WTF4cmJWYmRlUlBTS3N1SjVGZjdHdjBSckRFbzJnMVU4RjNxUmU1dUdMVXEzdW0wdVJLanFjcXJ2Zy1leWJ5ek82OTV4NlJqd1laTU5PeV9nTU5DbXJCbHIxODBrOVA1amE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Disney Is Taking Full Control Of Hulu. How Should You Play DIS Stock Here? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNenpHYlJYeFRqVE9Hd3pzWXZBTnpLaHBGRmg3NHk3MnU0bnlhMTIwS3M1VVVuZkliVFlWU1IxMEVvZEx1bnlRZ2pDVXVwOE5UVHFhS0RlTU9uTDloV2FINGZacXVEUlN3d21MZkpPTUhTdzZXT05YYU5WSUNmRXljVWFFVHBJeVFLMHRFSG5oWFBXcFViWEg0OHFEZkp6ajEwclFpMmtoRnZEakluTjdhSGFrQWxmVTFE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Procyon Advisors LLC Increases Stock Position in The Walt Disney Company (NYSE:DIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDlxeDltTkV6bzVjRFN1aWhHekw2TVluN2tEWlFILXlJRlp3cjFua0dKekRsV1haNlA3QWRzc2d3YkZobTBObmVFVWhkdDhodUw1NldlUk9xVXdnTEJuRG9QcFRoYnU0WkFkRjdXdHJrV2Y4dUlxWFZQVFBScmZzZ0E5c096MERjNTluRUk3SXhPb0Z5blBaaEQ0V2FQZGo3ZzY2YU9GNFN1eG9SY2MxbUZmTjV1V1pucnIwOHdkZ2dzTTYtY25TcmpzdWFETTVQLVE4eG5tWXk?oc=5",
-        "label": "POSITIVE"
+        "title": "Disney (DIS) Price Target Raised by Bernstein | DIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkgxQlJnZmM3RnQzdGRoMDZGTUM4YllQeTdjLTJWZlhaZGN2ZUc5VXdSdHZFVmwyTWhFYWJpVTlrMl9BZ1J1eVVvSHd2WWNrWWphb05jVWg5VjhlUTlCLTVyTTd0TDdyMFEtS3gyeENiOVNrRnkzUFViM3FqOXctWFpIRzRLd3VjWFhOMlE4U2VqTjlHMk1hQk4teG1CZw?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Rosenblatt Securities Issues Positive Forecast for Walt Disney (NYSE:DIS) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzVQbjM2WjlzMkFhOVpQRDhwbmZlT0VMWkF4cGV2RUVRSFZraWgzUUFuVVZhdUlJY3YtdWpyb2lWVFVJZHFWdHVYdkZEODY5b1A3S0ttTlM0QklfYkxUU0pnU045LUIyVDZJNGdxZzFVNHF5alljUXpJQV9kblg0N216UzRoZGkyaEp6UGRSbVZUdl9WMEU2dUdmaVkxaXp4bWdVV19KbXlLOEF6QWlKMVRzMExmb25HV3pGLXNqTG56c2txbGVDU2tXNnd1NDhySm5N?oc=5",
-        "label": "POSITIVE"
+        "title": "How Disney narrowly avoided leaving $1.3 billion of box office revenue on the cutting room floor - Sherwood News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdC02LWNoNXlIaUphYmp3a3ZzOW9JQnFNTmxrOWIxODdyZmI2aGJKMjgyWVcyQjUxZGpSeGt0N1ExalYySGxaOFBOemExOUtVWlJDZDY3V0lHVm9UWEFCSWdzVFFKSnFEVHRETjFUTUNHbDRQbF9RTVhLaWdDd0lmS2RvZFVKZnV4WEduMlZxaHN5akVQVUpIa3I1Y2ZQYzNqQUJfVXdrZmtqUQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Should You Buy Disney Stock in May and Hold for 5 Years? - Yahoo Finance",
@@ -631,31 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Walt Disney Company (NYSE:DIS) Stock Holdings Cut by Fragasso Financial Advisors Inc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOU1aN25oSkJiMWUyWXZsb0k3Y1ZLNWItek5BOG9SQjVfVjBnZWhwTkZxUG5oZHhkUExVUlBSdWFmTVVSQkFkSEJ5TUpPWDNYY0dLblZJOVB4VHdWOElzMjVHcHlkcTQyQ2staEs1U3phUldpcDRtdDFmaVJiajZsTzljbmF2cUZJbEVlVzc0UkQ2UGF0WkZJY0FKMEpDeEVrZERjNmloZWhGUVpHaVl4bkNSSHZmUHRwa3VMRnFKSW1zeWdDekxXQ3VvRGMweGJ2dHZ5d1lRZUxqOUpfbVln?oc=5",
+        "title": "Disney Layoffs 2025: Should You Buy, Sell, or Hold DIS Stock Amid Entertainment Job Cuts? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPYjJhWU1xc3ZMN0hrRUVGYnZWZXpvM0laZ0JEREdjRXdnSm1YUFlTQWV3YV8xR2xWNmJXNWlTcUJWZVExSUxpRnVWYkV1SWh1Y1hwcDFmRzdvWV9tQ0tXTm95YnNoQUduME4td1ZRVXp0bThLdzRSNWFCTlljWlRkaEFlNm1hRHJGRlNMZTllU1kwUzhxZzdKYkRjc3hmcWZnQ3dtVE5yMTB5eDRaeEFhelNoWXVnNFkxSmNOcnNyYkRWRE5odVpYbkVkTWVkdVBSa0hFa3pRb0dVN2N4dXJqRHA1WG1IWjgtMDZ3ZktzNUhfRG9QR3RfZlVtX3BCUGFrSW55OXhxaWJ0T2N3amZKRnR3VFpBWnlMX0pQRFBGX3lNVnpPZmZXTDI4Sk9GaV9WX1RTSHpiWFk5Nk8tLUNZaURSaDNPcWZlbzBVc3o0b2NBRFgzbThEYlNRd2FDajhZZTdhZW11bU1SNG8?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "If You Invested $10K In Walt Disney Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHRsQzktY3Q0UEY5OVlMWU12Mlg1UkNFbUxGWEdCOExabTBhaFZ1TTRKeUJMV2lsajdTdW1YVzdFRE9oUm9UaGlRQnhlQi1yOEFxQno1WVJVaEdnbjdCUEQ2R3lPNWN1RUFJWWt1aC1WUXRWaHN2cGpZd2VxMjRVakVB?oc=5",
+        "title": "Walt Disney (DIS) Stock Rating Maintained as Buy, Price Target Raised | DIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3F1b2dXYWFONW0xS0dJTTNoYlRHX1pWTUlPc3UtUUlWTS1jTkU2ZllXbVFUNk1PUUxzcG9xNEF0MVdxSUtWOGxHdFkwZ21qNnRqdXI5VU1hSC12Q2M4aDRYQ2N3UVJtMW5YVjFnQm45T24tS0lhUDU0d19NZEZudUN0dWI5SUFIZ0Z2bHh1UVVpcW40a01SLW1fOG9jMmlsWjh1cnlqYUUtNmFoRXF5a01OMEtJYVlWQWdWbw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Walt Disney Company (NYSE:DIS) Stock Holdings Decreased by Milestone Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVJXLUNHTXBWRHNsT1hpNTBxZjBoQ1hvZ1d0NEZneVFMWXhKczB5NEs0MWJFbjN6aTVBN1BEVnNwMFc1dnZkNFRxNTVPWDQ0N0Q5Z0NPNGZVaW1HRHJOQW84Wm04S0tHaTFRMDRRZ2Y2RF81b1NyWEdHYmVReER0NVdBekNtX05mNV9FUU5FTTdSQ0IwVzA2anJLRmxDNFk0RzlKcUFUd0NmM3hNTVE1WG55Tzc0Y1pBWkxVTjFEUXUtYmxZZG1ueEY4bENpa2dHVnVhMQ?oc=5",
+        "title": "Disney Share Prices Jumped — Should You Invest Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWdkZlFORUhLZVFOVkxTTjgtM18tek9kNWhJa3dkM0FIa0kyajE4NE9GdS0tQU1KUk5jX1Z1a1hFZ0p3cmIxd3FyQ1J2ejJiRW9nSGNrZVgtSlVNRjZHWl9keHlyLXQwMEVPR2FPZWxNX2R6bnQyeUVqSTV1eVRwcUxRXzA4QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Grows Stock Position in The Walt Disney Company (NYSE:DIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHdRRGlQOGhZc1JTNVItakd4b1JnLU91eGJLNGRIWkRia0tyWDdFd2ZMYWZnNXdDWXR1emhKYmVfNXBvSXZsZmtuOVdyUWM3V3V3SWFkTGZyNnNtTEFyQVNVVTFPQ0E4S0hIRVNPWWRXZXpTTS1mRmVabHRtSE04TjlXZUtYVHl3Q2pwX1Biem1ZclBRMzBqdmJTTEVPaUNfR2d5MmNuRkhPeVlGdGpBM1ZPTDZOUTlFRkZDeXF4bHpHaUpZS3hTeXpLUFE?oc=5",
-        "label": "POSITIVE"
+        "title": "Jim Cramer on The Walt Disney Company: “I’d Like You to Buy More” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVVlR1RxSTlITFFqa2owVHhiVUF3NENvMFNEMm5PYTdJT2lxMVpSM0FDSVpFNV9nbDAzS2dtbElOQnJxUGZhWjlDSUxDSkFVbmw3Q3lwbF90S09LQVlGN1RqZzlmS3VzT3dxczVNeUxiaUw5c1M2eEZhbV8yc1d5czN3?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Rosenblatt raises Walt Disney stock price target to $140 from $135 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzRsamZ0Y1RyRXRIV2dnUlpJYW5QUVNKQ1VKN1B1Q1YxN2lWQUZfc1JSd3ozV3ZBVV9YYkJ5azFZLUM4UXBpNjFGeDZSNmVBVE1nWlFuczFsbW1IR2NNN0FicFFRYUxIZENVT0VnOTZzdE10UFlrcE9od3NWSndtZ0dWbEw2WDRFcHVWYXNnajdCcW9CUUI5YXhvN2RKVmdnWWgwdHlIRV9Dd0pDUGVrQlVQbm42bFNsOF9nZTZQNXhJdw?oc=5",
+        "title": "Disney to Pay Comcast $438.7M for Full Hulu Ownership, Ending Valuation Dispute - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RM19VUEw4bUJ3TzVLZ2d6d01yTmtqQmJjbVJBdmRabVUteTVneXRRSDVUeDZCZFpKMmMzaHhEbGl0V2pONXl0MmNMOFZWR1JzT0RLS1JSR3JJV0p3SUlYbl9jVHVjejVuMVptMU9ZNW1SS09KRzZBY0dWRQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

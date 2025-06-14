@@ -2,16 +2,16 @@
   "ticker": "GPN",
   "name": "Global Payments",
   "sector": "Financials",
-  "market_cap": 18638530560.0,
+  "market_cap": 18244661248.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.366506,
-    "PB": 0.842836,
-    "EV_Revenue": 3.304,
+    "PE": 12.105178,
+    "PB": 0.8250253,
+    "EV_Revenue": 3.358,
     "ROE": 0.07102,
     "ProfitMargin": 0.15477,
     "GrossMargin": 0.62867,
-    "DividendYield": 1.32,
+    "DividendYield": 1.28,
     "DebtEquity": 73.574,
     "CurrentRatio": 0.944,
     "QuickRatio": 0.561,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.37427328367172225,
     "ROA": 0.03233,
     "PEG": null,
-    "EV_EBITDA": 7.541,
+    "EV_EBITDA": 7.666,
     "BuybackYield": null,
-    "PriceToFCF": 4.936530018677723
+    "PriceToFCF": 4.815214100183417
   },
   "technical_indicators": {
-    "RSI_14": 44.33952633389492,
-    "Momentum_10": 0.9442635054991692,
-    "MACD": -1.4768969528845446,
-    "BB_Percent": 0.3672203864234377,
+    "RSI_14": 41.04206771161309,
+    "Momentum_10": -0.9456473502359248,
+    "MACD": -0.666009600733986,
+    "BB_Percent": 0.2559133086295284,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.934347017646469,
+    "ValueScore": 0.8887557596293036,
     "QualityScore": 0.3976471253319118,
-    "SignalScore": 0.6100453734101912
+    "SignalScore": 0.6302627553527325
   },
-  "volatility": 0.0287702850895017,
+  "volatility": 0.0292345129000492,
   "beta": 0.936,
-  "return_6m": -0.3482247165686766,
+  "return_6m": -0.3431094529662605,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 116.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 115.76
-      },
-      {
-        "date": "2024-12-11",
-        "price": 117.07
-      },
-      {
-        "date": "2024-12-12",
-        "price": 115.77
-      },
-      {
-        "date": "2024-12-13",
-        "price": 114.21
-      },
       {
         "date": "2024-12-16",
         "price": 113.96
@@ -537,28 +517,103 @@
       {
         "date": "2025-06-06",
         "price": 76.87
+      },
+      {
+        "date": "2025-06-09",
+        "price": 78.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 80.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 79.63
+      },
+      {
+        "date": "2025-06-12",
+        "price": 78.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 74.62
       }
     ],
     "current_price_data": {
-      "price": 76.87,
-      "change": 0.85,
-      "percent_change": 1.12
+      "price": 74.62,
+      "change": -3.41,
+      "percent_change": -4.37
     }
   },
   "news_sentiment": {
-    "summary": "Global Payments Inc. (GPN) a connu des mouvements importants sur le marché avec une baisse de 2.8% depuis son dernier rapport financier, mais a également enregistré une hausse suite à un accord de 1.1 milliard de dollars. Malgré ces fluctuations, l'intérêt des investisseurs reste marqué, avec des achats et des ventes significatifs de parts par plusieurs fonds d'investissement. La récente intégration de Sage Intacct et le lancement d'une nouvelle solution de paiements fournisseur ont également marqué l'actualité de l'entreprise, renforçant sa position dans le secteur des paiements B2B.",
+    "summary": "Global Payments Inc. (GPN) a récemment annoncé la vente de son unité de paie pour 1,1 milliard de dollars, une décision stratégique qui a impulsé le retour aux actionnaires. Cependant, la société a été parmi les pires performances du S&P 500 en 2025, avec des ventes d'actions notables par plusieurs grands investisseurs. Malgré cela, Global Payments a lancé de nouvelles solutions innovantes pour le commerce de détail et les paiements B2B, suscitant l'intérêt des analystes quant à son potentiel de croissance. Le sentiment de marché semble mitigé, avec des variations de cours influencées par des annonces majeures et des mouvements importants d'actions par des investisseurs institutionnels.",
     "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Cardinal Capital Management Inc. Has $10.74 Million Stock Position in Global Payments Inc. (NYSE:GPN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQjhudGJ2aGRFd0x2YzBYRXlwZGUwQ3NOWk82VHJmQV9mcDZ5cVB2QzZJNnFfYmh2X3pUeDV5OG9QRTdzZXZIZW90UEZDQkxMZlJDaHZTbTl4UmFSUG9HMVc5UzNHUXpuVXJudUNpOXlMTDlIckFUbkZtazFxSDZHQTF2Vi1hNW1LMW5rRklmVFZ5VXpqZUZaa0p0OUdGNkNQZm9qRFBGVTFBSUNhbWJ1VjVGaUhSMHJPM1BYdlE0cGhWcDdTbVlWS0g5ZzBNRHoyRFp2amt6ZTRkNDEyZndHTkJFSjFWa1ltekFF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Stock (GPN) Jumps on a $1.1B Deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVJCdGowTFNBcVZvNFVpWUx6c080cFEzSElRVHl4X2VBeDFUTWs3a2ZEcW1KOUo0YjRIbnBIbGxtVFhhWUY3aE0tc1FDVEtLZ1p2RFpyQVpjTmpIM0dRZHlsUkRSdjM1SmlqWFZESXkyUW16SU40Mi1vMGk1X0VOb3Fn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Global Payments (NYSE:GPN) Has Announced A Dividend Of $0.25 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcThFZ0ZzUUU1X1JDbTd0NS03VjZydGc0S1FoVE50T091MGY3MDNMYk11OFAtTnJ1MWl1cFQ2Q3BELUgxOFJmUlRwZWNfVTU4d0FrM0lhUTBQNENLQTJMcnNkQkkwdUo1NFZqMDRFMUZYTk1iSUN0RE1hd3UxenNhTW9YVE5GdDRVT2ljOGhINXZiZ3lCZkZvTGNzMDdRclRCMFc4MFFkXzFBYU9HMmJJUFFzOVpvcTd6YmNoWldTN2RmYl9oMUIwbGMtX3lMV0lQNmJ6UE1LcHFoUdIB3wFBVV95cUxOd0NvdjNfODgtU3BrVnp6bVlVUmNsSmxhN29wZlFaQUVQZXFTanh1MXFlVmtwSGNjc2k2WlBQY3RPY3pRajFxS05FSVBlNTNQb0ZXYlZDbzdZMDhQWEFHeG5QdnBmTUVGOENPVm9FTzNJeGhtVjlzQ3FPd29QNWxjeEdBQWRFZVFhX3NOZGlRa2NlNjF1c3k0Zk5nYjFNeEhmc3hCaElBU0paa2drbW1TcjIyRTMzU3hTallaRFQ1T3NlZHRsalU4VXlxN2wzZ21YZi1VaC1lRHk0M0o0Yzh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Strategic Transformation: $1.1B Payroll Unit Sale Powers Shareholder Returns - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcS1nM1RvTkJKREtIel9Samo3eEtyYThUOXN4N2ZyWGtCR1VmTVBEZEVYbVFMNVVqcTYzMTdxb21WMC1kUEEzaVNPOVBHWnM3OUJPSHp2UzU4b00xSVJSdklaeU9talZwUncyRXpvX2ZLWlI4bmp5UGw5OXJncHhoOEpOZTUtdlh3Tm5Yd2ZjcTVqWTAza1Y2Y1g4SndnV3U5MjhFZDNnYno2OHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Launches New Genius™ for Retail Solution | GPN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnN6bDhkbmhvNFlsUWVwdVgzZWFpbUpfMlRHNmlnRkxRd0I1dFQ0MmxFalF3RkV5VV9BaU1jd2wxbUhQMTVFNzFfS2ZjX21kdFBKcFgzVzR0bVVRZXFIYWM2TGFlWExjQVdHa1VjSzltVmswMmxyekpvTlJITG8zVVVLejNJSGlfS1BvNk9qTURBZzh2Yjh6R3lSMUlnTUc2Z3NKT09WRWxjYnQzc2Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Launches New Genius to Transform Retail Operations - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTNJVXdSOHp1dkE1R1J6RTdRcU1PbklMT2E0TDRPQlFfY3kwTXE0SGxkYzNaWnhhQXFKc1I4SFFJWTc1ZTBrMXJmZlZFdDJFRjg1LVBmQ0pYVTJ0VEN0aW1iMHhkQy1qZUc5RVJoS1hoR0pYclpXOVBxMkdNTmVEaVk1YWw4YXhFT3VyY1c4MDFjZzA5aVZ4TmR5RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(GPN) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkxQVWhiUllTV09uU0VUZjNDYVRnZ21samc5SmxOMDByZ25UV0xmek5TUGRic0pkZUZvSEpTVTRWVlplVXV1ZjVXTF91alRaZmxxRWN5bXJocGlaVWxTbkRGdnhGSDRwQUtiUnlvMzZaWGZuS295SEJfVU9wNG8wWkFzenowQUpRY1A0YldvWlV3NmY3RDFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why Is Global Payments (GPN) Down 2.8% Since Last Earnings Report? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJMDNIVkhyN2Q0LW50bVd0d2FoLUxWRjlleC1sblNnLTNPOUlnMjR1WVQtaWl5OWJJTFd0OTlTaWh6S0VnSThkOEwzSTJSTHRCWjBXZmk0RFpfV19QVF9WQzJuMUN3ZzZqdUFUYnl5OG1yUktwM0c0bE1GeVRaUEE?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by Wedmont Private Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3hqQUFJcmkzcGREWTktLWxaRVgyckU0cllFT3AyNnZYNFNkdVFLQ3NxVFdpTFNiYU1LX2hXVEdlUkFVcklIWVQ5UDJ5SmVhTW5IUXBzQzNjRHE3TWNQMDByZlFORHUtMzNoaGJ4RnlnS1JVTEZ3Tjd1X0NYblBkYXQ4Sm8xejJ1SEsyd0lkU0F3dDhDVjNULUQ5bmhIcUhjVzctekhTOVdTVHNVTnFJd3RiajMwUjUwYUhXeWotQUJoRWV1MXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Just Announced $1.1B Sale of Heartland Payroll: Strategic Shift to Core Business - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHNESVhaYlRCUE5tT0tTUjlabE5kT3NvbzRTR3MtVXp3NWt0cFV5TmhNOUZUdzVlaDB3b25IMUU4QnNnOXVuSUNSdnpMOUxzc2J3YWpNQTF4Wk9mT29Rd05MbVhDVmZMQkxYbWdBUzQ1ZGJFSkxzLUdTdzBsNUJUQlVsR19majRoQkVQcERmVGJqaVJQSS1oTDB2dkJkZWZiZUZZOWdUM2F3Y3R1MVcxbHRtY3VxU3Fr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Inc. (GPN): Among the Worst Performing Stocks in S&P 500 So Far in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnVSMW1seHk3RmZMR1NxR2ppS1BDR3FVRVEtQ1JKUC1RRVBNZHpyeUJxa01LdTRYbkt0RllNZHNuRWVwcDNLbWZ5SjMyc2xWQmdZNTBScmdCWlE0d3k2bk9YeVZoOTlzc00zTHY2WG5MNTd3TDY0czlsVDBYelA5Ug?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by OLD National Bancorp IN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVFyN0Z5bG5BLWpxYnN3TjI4QnVoTnhma01Fd2kwbVc1bTdtNVgySmxuZHFyQjBpNUZDQy05LUJvdDhwbXZaZWtXYzV1ZXg1Tzg2c0ZsYVdUYTh0aXVodDFaTWxxUU04MGU5S1VMbkFmWGRCd0FQRmhvc2U2dko4Y2JlUEtUTk53S3ZvQkJDalBhNXM4aGRhc1VtQkZUQUdmSXVVdS1FVGEwMVpjcjJIZllSYUpXQVU1TUNzZHpUUjFGYkdrWUE?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Global Payments Revolutionizes B2B Payments with New Sage Intacct Integration: See Game-Changing Features - Stock Titan",
@@ -566,96 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Purchases 22,920 Shares of Global Payments Inc. (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWVJkSlNNa3YwamtFVThzVXE4OGp2VVY2dy04OGE3TmxJWEUxV09Dd2JaNXJnNVJYWXdfZnNad3ZhcUtBbTc3eFJyOHpfVklDTVlTc1dzbEJTeGtnTk1sdjBzNzBydnRGMVNtT2ZTcWQ5bmJPLTVFeGQ4TXhNNXVHMmN5ZGFObVFUWGVzYTJoQnZIcVJrQzlESTVjeDBmV3RXalZxTlNDSk85dzFsZHhqRVJNaXdHWDhtd2l5bWZJeWJQQkxfcmEwUllzREdYZHRTcF9feGphRFlYTDVyaUJaNkh3?oc=5",
+        "title": "Global Payments Inc. (GPN): Why Are Analysts Bullish On This Cheap Software Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Za19yZnhyTEh5a2hJbURyYjRtTy1UWGlRS2RSR1JQd2d3UHoxUE42VHhtd3hkNndzcGxhUnBQckswb1lrOHMzQWNpcDJNOHhDalRVTGptYjVORVM4ODBFMkZJYldZbS1ITjBQS1drWW9zQ0UzZDBqRklWZVZ1Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Truist Begins Coverage of Global Payments (GPN) with Hold Rating | GPN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXFTZFprdEt6TmRNcXF6cDZyMm43LVRvamxkc2tRT05lMmNGWXZZY1NZcE12dnBaT3otZEtzTGFkbnQ3LUZjX2NkQWZkdmhTQ1dYQ0ZOMXhDRjdXZFA2Z29hUEY4UGRLclFOWXFDMmxjRFd4c054VllRNHBQQVFVT1U3UHQ0dW5OMUdaRUthX1hUbDdQaUdhZG1FbENnbW9hN19Relo5cWJMbUJwMHluaFE3cU9JOTg?oc=5",
+        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by Reinhart Partners LLC. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzZfRzQzWmFUb1NOZVhqRGN1R2FCaDlkSXVDNGRocXVBS1NRZWYyYmctNzlQRElKUklZZWtGbnlpRE5QRlRhYzFPelRvMTNZY3VaakxJT0tEYkN4ckEtdEZwd2dMcnU2d0I2dlFSdlJGa2ljZWhra1hILUY5UHh2SV9qYUZMMXZGdzBybHBNVVRCUjNTSmpDSHJkRUlFdHRRQms3RmNmSHdlb1FJYm5yWW5KcFZhZFh6elpYak9LV2FiNWM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Global Payments Stock (GPN) Jumps on a $1.1B Deal - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjFRbmtHc29zRFE1UW54T2JYazhaVEFqRHBEc1dnZ1o2aEE1RVEtYkpWUVFuVDl5Q3VEay13dm9SbmJIMmstNjY2MjhhanVTU3BNSkNzcEZnNktFbWpSOGVwUlpfWFV6eTNFenA0NmNUTzl5cGwwbGNFWlNuamV0by1pdWZUWlpUNW5YcW1vd3JxUXhka1lyTVFHM2dtaTFUdTFpM0FhWFdIaGdWczh2emxRT0ZKUEdWQUlQSW5UV2pHRjcwbGxvcUVheGxEQQ?oc=5",
+        "title": "Assenagon Asset Management S.A. Raises Stake in Global Payments Inc. (NYSE:GPN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXy05enJnZDRxZ2hGMUg3R0ZHak1IUkthNWZtU2dOSVpSVFJJQjZ1eWdZaHhpcVNfM3ZVR2tsb1MwWjNwU2pfMHRDRlFyOEZLYTlVTWVDbTNXUlVEMEM2LTFTTWhfUUZtNFU2SHdLZmZaTUcxbUVnZXdWdG10dW11VlQzRldTWDBMYV9wTjBKYU1hX2hxTm05NUZEWTNWb1N5Q1BtaUlNVDcxRHI1aGJNUTVRZjdYS3JXbkF2LWNSemE2ZVdLMDhBV252LUhHTVg0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Acquires 1,515,131 Shares of Global Payments Inc. (NYSE:GPN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWh1T1FkTGl4Z3IwNEhxNXJUbzcxWS1yaXZBeUFUWEdZbFhDWDFxMlNhbFZjcjc0YWR5d1pFVEo1SThqaWpUYW1COEtFaGlpN05XbWZYRjJKX3BsYzZEY3NNV2NMV1hpNnpkQ2MxUWhpTXRQeU9zbkswZmdTWDdpZUJwQU1uVTYzbV8yTzJyVHNRd3hVVjI0ZU1EdzlLVm9kVFRuVmZ1M2dIU2JhYkdzSUg0bFlLYi1kM245OXUtZVRXRE0xZ2tnSlBzVjNqeTdPTFZxLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Payments Sees Unusually Large Options Volume (NYSE:GPN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUFNdDdzUTk3UklPaGh0WHNfZ2hsTlE4VFlZdUJMTjZBSXZGdGZwV0RVUzBkbkdTZ0hoS3dTaWhXeW1hN0c1NkFFVGh5eXZEOGh5TkZNWG5keDdiZm1fRFptRGwwZjZLLVNRcVd0VVJEaVgtXzZORlprdlBaYzNZclNVLWFJVloya003UmxsYUMxQlVBaFFram05al82czFGLTk4OTVrZVZ0M21XY2JjZWMtVWNZd2s?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by Rothschild Investment LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWxwR05DbXNIRXFydFRmY2tZSVh6eVZ6NWJoQWJzbExwcmJyMGpCX1hSc2dJQTJoa2Q0UjV0OXJDSUJxMEV6OVVGX0VSSW5FUklETjJkaXp4WTNVSWVBRE1GbG55b0NCdGtYb2R2VWliSURpYmFhZ2tlVUNaQkJuZmpSdEtsSF9VV2szYmhGemhIbEc0WmNFNTZHQ0Y2Y0w2WE1peUNKLW5ac0hYcEdXTmtSLVZKWGJ2UHljcjJxZ2lKVHZsUWpRVmRhcUFYQQ?oc=5",
+        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by Gotham Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnJqZnRYZHFubGhCVURTb2hNMGI4UjZnaUJPRUtjSENnOTRUV2JwaEpEOGtDVWJsMGNzbS1vQ01tOUlJMHE4RjRTWGNyaVIzdTlVMU44MUs1WG0xYVZNekpHV1RvSzFhWXFmOWNiVzY1akxjOWluTDVCQ0t1a1FkcF9CMFZTaDJ6Mzh2M29wdzRwcWVkUXhjS1JjcXl1ZVFNejN3bmtaOEJUUUtrZE1BSElzMUZzckRRMlFoMHQ2eGNFMnh2TnBDZ2tTSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Global Payments and Sage Launch Embedded Vendor Payments Solution | GPN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTS1yYWxkbk54SlVvUzl0NXctRUxkZXhEY1FuNUFTdldaQlV2VFNPNkk3MHFxakhVTklkMWtKLUtJM3BTTGRqbno0QlozT3VvWC1CblJhVjFXdUJ3SGNoQzg5UTVmOTJJMFZiYmU3Tzc0LXpMWHpqODJ0Yi0tU3FzZkhEbUZuSkh3Sk1MM2prT0xBdTVTdGZjRlJwZkw0Sl8xWC1oc3lJMVBlMnJpMWtRRi1ENHFVQnBJOHBr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Global Payments Inc. (GPN) The Top Falling Stock with Unusual Volume? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zOVA2Y2x0cVNQbVRyYkNQd1RXOC1RQ3Bfci1iVEs2OC1PU3hyVThrUFYxYy1hNUF6Y3VXSmJPX2hIcWJFNWhUUlpLQ05hZ21xUjdCYzdITWh0QURXS1JSNlZqdWpMQXZQaHQ0MjlPUVQyZ2drckFWNnRtSGplQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Strikes Massive $22.7B Worldpay Deal While Selling $13.5B Unit to FIS - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYndSZjI5U3NvWGlpR3NXakUtUElnMkE1ZEgtNGlGSGVkSk8xWFdCYjJxajVfc2xuOGdMeXhxckZhS3lrNUh5cDN4ZTFTN3pCVXAyQ3J2TGRNWV9qZWNxOVpXT3labnBEazI0Y3FvZlVZelhhd2w3dlREZ19JMTF2dHlKUjdGY0ZCZnZlMW9NOURtc0VpU1RqLWYzR25MYkZabnczbG9Obk1QRjltYmphVmhvcXB4aEp1Ukk5c0V3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Inc. (NYSE:GPN) Shares Purchased by Gradient Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcDV2UXV0NC1veWY4QzAyTm1qakxqb3g1TVI0dGpoX0ZBN2FYM1ZQSHIxa1JPVmh5MWJJbEZDZVFTTU1nRHNJN2lvUDZrRXRyODJTS0g3Y0p1S3VHODV4Z1BIeUgzYWp6MlJoRmNEYmY3WnJHR3pqVWx2R3ctdWJvMnZPNHgtTHRvV25GZkVMc2pmMG1NQ3F2RFAtckZsblN5UlVBeGdhS2swSXkwSmp6MWZhTHQyd2l0R0d1Tk4tZDZxSDJUWkdzdEJpVzBrQnkyMnhfbDBn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Truist Securities Initiates Coverage on Global Payments (GPN) | GPN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUxaNE1sYnd3Q2Fsc18xcmJfaXQyaGNwNFFBMnBEMzQ3WjZ5OWdBLV9DNXoxcUNyUmRQRDdwREd2R1pfckxDanlFU2VxVTlVRWJwX2hUdEYtbXRuN0l1NGNNTENZNWhMU0N3M1E2dGpUQ1lWZnZGM29NWkJfcnVzYkwxZkhZbV8yV19TUzBsY085ZjF6YzRyakE3V2YyRmFXbDd4dlZJZ0Q3UHZVZkEwaXdZMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wellington Management Group LLP Sells 324,577 Shares of Global Payments Inc. (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdnJvbWU5T2tESFREN1lPbmo1bGo4RG5MUHFseUhXcnVMa1hsQVg2WWlJSU1oLWxfWjh6N0NQRS1ZOTltbFhKM1hPUVp5NHM5OFJ1NjBoMFRDQ29IZXVEN1hXYUdYVzBSZmZIV09xaHdJWmhzSlNFS1RvTlBkYnh5OXZtaXMwV1VnQjRrdXB2YVNvVUZBTnFvcEJxd1RZQVpnMVpaMVdPYUlnQkt6eWkyWlkwSlUtS0VyWVJlSEpNTHlYR3JGV1hyRFJtOWhFNlIzY1I4YklqR1FCOTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Introduces New Brand Identity | GPN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0tsZXZhZDhIRTEyQkczaUpNVkk0ajUyYl9DX2MwNldUeXd0cVdpWFZMbVk4MjFaVnNaSXFtR0Fsd0x4QnFQMTRhV0pSbGFuMUhwbWtjRmpBWENvSDA1NWxQWGJocENRakw5ZjlYRGI3enUycGdoRFFZRm02Q3JyaDdmRXE0Rk5QOC13ZFRibFZHQ0l2S0U3ZDd2QjhSTTVuZlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Truist Financial Initiates Coverage on Global Payments (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMno5aXlKWTZRRXpyN3hmTVJMWU4tMmFuNm1zbDVTSE9IQ25rQmlYV2dnVDN0YnM5S0NweEs5U2FKY0kzZklPNzdMd0RhNUVTWXRGaFhDTWY3bHY5SEVRaGtETC1WMlRmcjZicEZnaDNJUVZiamFkUDEydzNhcGVJWEZIcFRKLTJOYkZvR3d5em1IM01XbnBKdXBzaHhLZV8yLW1MTE05RTB4S1haSkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Inc. (NYSE:GPN) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXR1Znpvd1JHWkRIVnlud21EaEoycnNnNzAtVzQ4bnA5aGNrb0xYSm13M3NyZFBiZk5PVGtkcmdUQ2l2cDZFS3B0RDFmM05BZkhOTUFqWnNLeVZpbGJMVEZLeDAwMVh1QkpsTEx3MnZuLVpXVnFiYVdoRVJDUEJiZE9XU0puYjYzT0ZjWUNNOVpObzk1S2RJcUFjTFZvblplQkxTOVpoU0FORmtnUEhKNjNteTl2bVlBTllPejlIMmZ4ZVp0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Inc. (NYSE:GPN) Holdings Boosted by Whipplewood Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaE1wZmo4bnVRRXVSSFY3WEZwa0lkQVcwd0d0ZF9WOUlROURqZU5ZMXYyRHdKZC00NDhheURwSjNJZ2s0amlwSEFXd3BZblNCWF82MnR2dmtFTkhvdWpNN3M2UEdDdV8yTWd4UWZMLWkyZmNFWW02WGJxR1VnWUhJWmpiejRiZmhzc296QV9GZmhEMll4ZUZPNFkxdkp1YlBncldpenFuZnJRZnFFVmVXMXVoTDl3djlFckNNVHVJaUh0RU1EYW9kaU1VMnpNUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Payments Inc. (NYSE:GPN) Shares Sold by GTS Securities LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2hCY2UzQWF3OWhrR3pmOVUzWjdfckUxSngwZFNTUWdndF9VVUxnQlE5WXJ4LWtEUUIxNVFOaFhIV3UtSnZKV2tQMWpQQng5WXZsVGtaLXd4VkpPcF9ZclQwYlh5U2E5TmxuZF9RRm9OdUljQnp0YnNEODFJTjVEYnpzY1BOeXpjZDRSU005NkY2VEN5R29laHJNUTZzZlNlYVc0TkstTVlSN2tXdGxJd0NleEpkSDlRdnhnMTdHSzFNS1NFQXhRcg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Has $48.23 Million Position in Global Payments Inc. (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDlEXy1kbmY3aFNSTHV6WTBNNWlMbW9PdmMxUHNyeTl0Z0JmU0QtZWNVcVYyYVFMRlN0RmYyM0dieElUTmYyT09BX3dSSndpVnhFQ05HSWdlQkVna3c5WTRfelh1Z0JSVW9kSHNhOXl3cDlkOW9SOXlGVzlZalNqSDBjT2QxQTFpYnR0MWxEc2dZM1FGd1dXbUJsQTZ1VjdvWTRFeWNxQ0Q5TE1WTWFTTFdWOXJod01tNlFTOGRhcTZzbndZNDZsOURWSXIwekN4cXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "First Hawaiian Bank Sells 9,070 Shares of Global Payments Inc. (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZmhORm4yRU9TRXdfY2lQci16aW5mbVQxdU11Y0N2MG04RXZiR0Y1UjNib2FYb2JHazhiVjBIdnpkdWVxdVkzRjVvbHZ3U1hsbEowUE1ldHhEa01TN0hjMV9oZUxlX3E2amgwOS1fVE15VC11R2tsT1R5YzJjUHloSUdoUUZISkZXMF9WSXFtZC1ZNUtwQmZBSUtNck44T1JnbkVQY1hGZnpmOVYtV1pBRFNLbzVFVHh1OHVVMXM2YkFPbGloOThRSHE4MWZIX2FncUtoMjBWNFIzZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Advisers LP Makes New $863,000 Investment in Global Payments Inc. (NYSE:GPN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaU9KZjRiQWtpUktiOXhMWW5yaWZqNG9ReDIzOG9pa0VZckhEQnNTY2dFT3BuYUlTNkRQZjBJRTN5bHI2ZEc4Wmotb3U2eWQyd19SU1Jhc1ZWclVvMGtVTmp4bC1Sa3FwYVNVczZQNnhxZ2c1RjdocUQ3UEtJREFTMDdyV21XNWduS1JkRmwzMk5OdWdUaVZNaDB2MmtRekZPOGlhSk9HWENGalBnalRjaURadVZIaHZHWm4wTFJzMFpZS3BwcE4xQjM1eW5LV1h3?oc=5",
+        "title": "Is Wall Street Bullish or Bearish on Global Payments Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYk9Xby1tTGNuTDVnaFBNQ3FqMFJOOGpxTF9UYlBQb19mdTZoY3I5b3ROR3l6dFI0QXpocWMtSjFEYWUtZGxhcGlBdUc4eGxwZ2VzQmw2cExYRjVUQ2MySUJmam1WV3JYQmFrZ0piMzNrYXkyc1BKWThlcmRla3dpcW9jYWRNdm1EY24taQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

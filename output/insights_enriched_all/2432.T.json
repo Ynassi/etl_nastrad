@@ -2,16 +2,16 @@
   "ticker": "2432.T",
   "name": "Dena",
   "sector": "Consumer Discretionary",
-  "market_cap": 294790660096.0,
+  "market_cap": 296071823360.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.210194,
-    "PB": 1.2110738,
-    "EV_Revenue": 1.591,
+    "PE": 12.260192,
+    "PB": 1.2251292,
+    "EV_Revenue": 1.647,
     "ROE": 0.09713,
     "ProfitMargin": 0.14752,
     "GrossMargin": 0.56491,
-    "DividendYield": 1.25,
+    "DividendYield": 1.22,
     "DebtEquity": 19.723,
     "CurrentRatio": 1.607,
     "QuickRatio": 1.553,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.15013688632183778,
     "ROA": 0.056739997,
     "PEG": null,
-    "EV_EBITDA": 6.817,
+    "EV_EBITDA": 6.906,
     "BuybackYield": null,
-    "PriceToFCF": 11.972652853687777
+    "PriceToFCF": 12.259959088243248
   },
   "technical_indicators": {
-    "RSI_14": 30.652520983571648,
-    "Momentum_10": -5.074950334115947,
-    "MACD": -181.97233052251977,
-    "BB_Percent": 0.1097800736135357,
+    "RSI_14": 34.8956586633081,
+    "Momentum_10": -4.55932507628792,
+    "MACD": -140.18257002762948,
+    "BB_Percent": 0.2509379329962928,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9343601762388531,
+    "ValueScore": 0.8935857147428876,
     "QualityScore": 0.4889016200270863,
-    "SignalScore": 0.7702637675712131
+    "SignalScore": 0.7101576260961258
   },
-  "volatility": 0.0442910564747355,
+  "volatility": 0.0440228238104195,
   "beta": 0.14,
-  "return_6m": 0.0417956576943077,
+  "return_6m": 0.0240280225836535,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 3708.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2545.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2473.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2449.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2450.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2573.5
-      },
       {
         "date": "2024-12-13",
         "price": 2619.0
@@ -525,33 +505,48 @@
       {
         "date": "2025-06-06",
         "price": 2628.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2660.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2712.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2721.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2710.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2658.5
       }
     ],
     "current_price_data": {
-      "price": 2628.0,
-      "change": -19.0,
-      "percent_change": -0.72
+      "price": 2658.5,
+      "change": -52.0,
+      "percent_change": -1.92
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Williams-Sonoma, Inc. a récemment vu une vente significative d'actions par Hennion & Walsh Asset Management Inc., ce qui pourrait susciter des interrogations parmi les investisseurs. Parallèlement, malgré une hausse de 38% du prix des actions de DeNA Co., Ltd., des aspects sous-jacents pourraient indiquer des risques potentiels à surveiller. En outre, la déclaration des Boards of Appeal concernant les procédures en personne comme le nouveau \"standard de référence\" pourrait impacter les entreprises cotées, tandis que les dernières avancées technologiques, telles que les cartes mères Intel B660, pourraient influencer les tendances du marché des produits électroniques.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
+    "summary": "L'entreprise japonaise DeNA voit son cours bondir de 24% suite au lancement du jeu de cartes mobile Pokémon. Cette initiative marque un succès notable et pourrait stimuler la croissance future de l'entreprise. En parallèle, la déclaration des Boards of Appeal sur les procédures en personne comme nouveau \"gold standard\" souligne l'importance de l'innovation dans le secteur des brevets. Enfin, l'analyse des cartes mères Intel B660 par TechSpot offre des perspectives intéressantes pour les investisseurs intéressés par le secteur de la technologie. Ces événements combinés pourraient potentiellement influencer positivement le sentiment de marché envers ces entreprises.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
     "negative_ratio": 0.0,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Hennion & Walsh Asset Management Inc. Sells 2,432 Shares of Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1NkeUdkZ3FpT2dKWFZMY3JPT244TUhTdXZ4REZiSVFCck5CU2U5bHlUc1BTcmNwYzJVMXNpZkRTNFBQRlFLLWZBREkyMmlqeE9QcXBmLURsVGcxVU9PemhkX0cxUDF4YW1jdTVfVXhmZWVLREI5QmFHWHZsemkxdzg4cmV2TE5xN3BFcDJBU2FGcXA1Ujl2UHVKbUU3dXpsNEUyNlg3ZTd4WWRGUmg4SjdfTjhTanY1Q1lpUURpWTZNaVVmaFBzSkVyZE92TmNZb1JhS1FqNlk0b1hx?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What DeNA Co., Ltd.'s (TSE:2432) 38% Share Price Gain Is Not Telling You - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1JCcUhlNXNGZHpWWmUwQmNkUUVQZGUzYnM3bTJRbHFHRXlWMkRUcXFrNG5Lb2ZZaXg5aGdsQzlORzBHV05FZUVaYVhyS0NQbE42VnE1cGcyeDVUR19rSEt1aU1xSkxobjRTcFp1dnFad0o4dXhXQkNjbWxhWEVvUDVINUxZRVJuUno4djlOanZKUGRScFI4RW9XbzJ4eFpFLUZfTEpZT1Nwdk83SVFLek0zMk1HeVJJX010bm5URllzd9IBxwFBVV95cUxPUGphODdWZFJjVEQxdG1UVnBNbnExWnBlWDJkTTJEckpkOTBha0ZtWDFTV19nZGg4akYybGR5N0NhLWFiX3JlR0UzZXNORzJ6WTdET2NnSkhZNEhEMnl0MHUxWUt3MnFMNDllQTFVVVF2UnVUS3dhMTJZS2ExVGJ0dHhyQTBNNUlRMDRVeENVNzJVRm93ZWNKcHdiODhVTFgyeDQ5V2hVbFhoczk3T0dlU0lWd2VQZklXMVBtS21mYjBqb3dfUlFv?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan's DeNA jumps 24% on Pokemon mobile card game launch - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUotX21ZVDBDdExOY1RuSDNNWUt1aUtsLUxET3hSc2kzYll1Z1lOSjZvQnFTX2p6LUhKckZtSDZZNkNndDFjc2RpREw3ZEh2cEtmeU5NRFRXbzdlSk55RHNVSUlBUDRCUHU1T3lPd3B2ci1PNERGZVBtZnYyY0xfdWVnaDRBeWV6dERSaWVzZ0lwVDA0MXVzWU5lNzdYcEpK?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "T 2432/19: Boards of Appeal declare in-person proceedings new \"gold standard\" - JUVE Patent",
@@ -565,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

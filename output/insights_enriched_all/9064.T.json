@@ -2,16 +2,16 @@
   "ticker": "9064.T",
   "name": "Yamato Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 649821290496.0,
+  "market_cap": 638853840896.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.999464,
-    "PB": 1.115133,
-    "EV_Revenue": 0.359,
+    "PE": 17.698837,
+    "PB": 1.0963122,
+    "EV_Revenue": 0.353,
     "ROE": 0.064330004,
     "ProfitMargin": 0.02152,
     "GrossMargin": 0.03973,
-    "DividendYield": 2.31,
+    "DividendYield": 2.32,
     "DebtEquity": 28.949,
     "CurrentRatio": 1.47,
     "QuickRatio": 1.363,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.003656118243134468,
     "ROA": 0.0073400005,
     "PEG": null,
-    "EV_EBITDA": 10.086,
+    "EV_EBITDA": 9.909,
     "BuybackYield": null,
-    "PriceToFCF": -100.8315147867374
+    "PriceToFCF": -99.12971681137235
   },
   "technical_indicators": {
-    "RSI_14": 53.30135408096198,
-    "Momentum_10": 2.0516717325227964,
-    "MACD": -1.87229539050918,
-    "BB_Percent": 0.6220505889264263,
+    "RSI_14": 47.01732373077233,
+    "Momentum_10": -1.123315027458812,
+    "MACD": -4.829941222727712,
+    "BB_Percent": 0.3506458010440747,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.93366772576229,
+    "ValueScore": 0.8966469957034229,
     "QualityScore": 0.3651163570066233,
-    "SignalScore": 0.5538445442845268
+    "SignalScore": 0.6040044453100415
   },
-  "volatility": 0.0160954046808703,
+  "volatility": 0.0157388287495176,
   "beta": 0.226,
-  "return_6m": 0.1606738875129605,
+  "return_6m": 0.0916478549229351,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 1870.0
+    "target_mean_price": 1885.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1755.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1820.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1805.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1833.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1848.5
-      },
       {
         "date": "2024-12-13",
         "price": 1835.0
@@ -525,30 +505,32 @@
       {
         "date": "2025-06-06",
         "price": 2014.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2009.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1974.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1975.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1980.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1980.5
       }
     ],
     "current_price_data": {
-      "price": 2014.5,
-      "change": 23.0,
-      "percent_change": 1.15
+      "price": 1980.5,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  },
-  "news_sentiment": {
-    "summary": "Le marché AIM de Londres devrait être supprimé en raison de son manque de succès dans l'attraction des introductions en bourse technologiques, selon des groupes de réflexion. Cette critique souligne les défis persistants rencontrés par les entreprises technologiques sur les marchés financiers. Les investisseurs pourraient être influencés par cette remise en question de la pertinence de l'AIM en tant que plateforme pour les entreprises technologiques, ce qui pourrait entraîner une réévaluation des investissements dans ce secteur.",
-    "sentiment_score": -1.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "London AIM market should be axed for failing to win tech floats, say think-tanks - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITkNUUXlPYUxLVmVlZkVoUV9jUFlodHVkdFJzU0lSblFYU0ZBc1AwdmlWMGdyTEdJREVLVXVHV2dWcWFXclRVRHN6MFFydjlFZEdUN05mTG9pdDNBS3JYV09BcEhKdzhlVWFudUF3Vzk?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-06"
+  }
 }

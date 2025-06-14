@@ -2,16 +2,16 @@
   "ticker": "GL",
   "name": "Globe Life",
   "sector": "Financials",
-  "market_cap": 9991198720.0,
+  "market_cap": 9903497216.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 9.856881,
-    "PB": 1.8499825,
-    "EV_Revenue": 2.172,
+    "PE": 9.770359,
+    "PB": 1.8337435,
+    "EV_Revenue": 2.186,
     "ROE": 0.20471,
     "ProfitMargin": 0.18334,
     "GrossMargin": 0.32720003,
-    "DividendYield": 0.9,
+    "DividendYield": 0.89,
     "DebtEquity": 58.407,
     "CurrentRatio": 0.639,
     "QuickRatio": 0.503,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.23138338846802217,
     "ROA": 0.03194,
     "PEG": null,
-    "EV_EBITDA": 8.362,
+    "EV_EBITDA": 8.416,
     "BuybackYield": null,
-    "PriceToFCF": 7.407239327575042
+    "PriceToFCF": 7.314427950295797
   },
   "technical_indicators": {
-    "RSI_14": 49.802830479246936,
-    "Momentum_10": 1.3842412287486006,
-    "MACD": -0.2036361184443365,
-    "BB_Percent": 0.5521240181696928,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 46.628503813805494,
+    "Momentum_10": -1.5508323189083084,
+    "MACD": -0.3367555227399634,
+    "BB_Percent": 0.2766467537927832,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9343554379509744,
+    "ValueScore": 0.8920785039172702,
     "QualityScore": 0.4052458863180627,
-    "SignalScore": 0.5775790624306874
+    "SignalScore": 0.6071103159074034
   },
-  "volatility": 0.0180674125012093,
+  "volatility": 0.0180788687345529,
   "beta": 0.564,
-  "return_6m": 0.160272665428967,
+  "return_6m": 0.1428876767191387,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 104.26
-      },
-      {
-        "date": "2024-12-10",
-        "price": 103.65
-      },
-      {
-        "date": "2024-12-11",
-        "price": 105.07
-      },
-      {
-        "date": "2024-12-12",
-        "price": 104.51
-      },
-      {
-        "date": "2024-12-13",
-        "price": 105.42
-      },
       {
         "date": "2024-12-16",
         "price": 106.78
@@ -537,82 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 121.7
+      },
+      {
+        "date": "2025-06-09",
+        "price": 120.66
+      },
+      {
+        "date": "2025-06-10",
+        "price": 120.09
+      },
+      {
+        "date": "2025-06-11",
+        "price": 119.78
+      },
+      {
+        "date": "2025-06-12",
+        "price": 120.77
+      },
+      {
+        "date": "2025-06-13",
+        "price": 119.79
       }
     ],
     "current_price_data": {
-      "price": 121.7,
-      "change": 1.96,
-      "percent_change": 1.64
+      "price": 119.79,
+      "change": -0.98,
+      "percent_change": -0.81
     }
   },
   "news_sentiment": {
-    "summary": "La société Globe Life Inc. (NYSE:GL) a récemment été au centre de plusieurs mouvements importants. Malgré des résultats trimestriels inférieurs aux attentes, ses fondamentaux solides pourraient indiquer une faiblesse temporaire de l'action. Des acteurs majeurs tels que Morgan Stanley ont revu à la hausse leurs objectifs de cours, soulignant un potentiel de hausse de 15%. De plus, des acquisitions récentes et des dividendes trimestriels annoncés renforcent la confiance des investisseurs. Cependant, la vente d'actions par le co-président et la question de savoir si le titre est surévalué alors qu'il se négocie près de ses sommets annuels peuvent susciter des interrogations parmi les investisseurs.",
-    "sentiment_score": 0.15,
+    "summary": "Globe Life Inc. (NYSE:GL) continue d'attirer l'intérêt des investisseurs avec des achats importants de la part de Handelsbanken Fonder AB, Pallas Capital Advisors LLC, NBC Securities Inc. et Livforsakringsbolaget Skandia Omsesidigt. Cependant, la société a récemment manqué les estimations de bénéfices et de revenus pour le premier trimestre, ce qui pourrait temporairement peser sur son cours de bourse. Malgré cela, l'annonce d'une nouvelle augmentation du dividende et de nouveaux membres au conseil d'administration indique une confiance continue dans les fondamentaux de l'entreprise. Les investisseurs surveilleront de près les résultats du premier trimestre prévus pour le 30 avril pour évaluer l'impact de ces événements sur le sentiment de marché à l'égard de Globe Life.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "NBC Securities Inc. Has $775,000 Stock Holdings in Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlptbkFaTDhvejdEUnNSNDN4Mmw5SlhhSnNGTTY3bk5yemQ1RlRnaWV2OFNKTEdaZlJYczc1bVhYamJqZ2JwUXhFanYxd3U0NThaNmlhR3VYRnVVdWt0MERDOXNGTHJRVHZBYzBhSlFnN0tZMU91OC1jNWRvZFRWQ21WRDFRLXl5REZzYTJCQ3hDUVJrWUlTaVM2Z0FkUU0ycDN3M2FkZUpuU3NHXzBUX0FRRm0yeW9RUXhnQl8wZ2EwUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Handelsbanken Fonder AB Boosts Stake in Globe Life Inc. (NYSE:GL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWVNUDZFN21jc20xU21TUkI2VXVlaURzVDlFbmdfNGFTQUJkUDZSWklBbDcxd3ZvRWp1SzZuWkRpelRrdE9iQW45cm9EamN3VDYydXdxQldnaEkzdEZzdXRPWU82UkJTakFoZlVJZU11akFWeG91UHFTUVZSbnUyVWRNWlBYY2tYWFhIQnBSbWpmNEl3VlNuYnhtaWtLQndPWElHQTRvTGwtbVAwVmZseDV1SW1VSE5ud2RKM3RJdw?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "GL Outperforms Industry, Trades at a Discount: How to Play the Stock - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXpVOGZPVnpkYWZhZkxveU5Uc2ZQeFlmUE5mTjJvVmVzQ1NQWmJudFE5Vzg0Z2ZiZ1AzaWhDbkJsTWhpNnBKUXlZSlRzTEVGS3NSV3VZSEdtTGxCR0o2YWJLRWF4M21rSkJjUDJIaXR3eWxhTjlXSVBmYkNicW9od3RZNmdxWGl6NVUxOV9VaDNPcmc1YjByV1Y4VmgtdnFLc2UxbGE1dU5odERfa0ZOb243ckdaWF94alhHV090SQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Retire With Long-Term Investment Grade Bonds (Part 4): Globe Life Inc. (NYSE:GL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTG5OYWVnZlMwWWtIY3drVjFVSHBLcVI4RmhPcDFmTklVYXRuWV9fejF3M2dLUW5TZDdiQkNTZVFrRzJHdHlsanRPdi1vMDVhSFJZYnVjUmV1NjZpUHhBN0w3NXJlT0N3OF9kVmVMU0JTTkpxMUs4RWdiNmxudHlDRWFuUzF6ZVlLcmJjYnJYY0dfdFBwZDNGQjVUS0ZQUGNsV1ViOWRSNUZmQkk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Globe Life co-chairman sells shares worth $733,616 By Investing.com - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzB1NW5LZ3htcEo0UWI1X0pDVWJzTUl5YVN6amVmQWcyb3dyZG0zblBSWmgwUl8xM0FfclQ1ZUtPN0R4X01TUl9oZjJHTHBOTXVManhfUDNQS0VuOVFqVVBOeTRnSExMMGRyTGFJZ1pwc2QyMmpHdk0wSlQzUjU3MXF2dWNnU3JZbkxTZmZlQ3VpSUVzTkxtRVpEZ3pvQktvNzlndVFLeE96MVJISFRDNg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Globe Life (GL) Price Target Raised by Morgan Stanley | GL Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcW1aNlI1N1l2VjAxWTBHRVJLWFowbUdsb052ZEJwUElYNXpldi1HaTBKOF9TSHB1VzhVeGxzT2xfSjhPcjRIR2dNVHNkTGt2ZjNXTFFTU3UzUDVxd0VocmhtRFZmX2dacW5oNnpKd1QyaVJtSktRXzRuNktURWF1YUN0T3RJbElWbzZORnVWMXhNaTJpRGxYd3Z1c3lId3ZtVXMtN3BFNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Will Weakness in Globe Life Inc.'s (NYSE:GL) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHNVajNSNlJiQnN3WXpKY19WZjZhS3IzNl9Cem1HajJkQl9xMHpHQWNSOG9SRE5rZEJ3a0V5NWRRUWtTa0ZmYkQ1ODJ5SmtIbnZKU3ZfR0IyUGNEeTFXdkZWcnVZT0dwTndqWmtKUHJ2eDBDcTh5WnFodVdpSTEyTWFKTE5DeGpZWUhFX1pXUk1DdTFVTnRJeTcxcWhqNlh5d2RZMTZWTzVLWFNhd1pLUk9yX1VZLXFjUUxweS1TVC1NbWRx0gHKAUFVX3lxTE5HSm0yV20wNTBiRmlPZVRoblV0cXZLelJfckcxZHdyM3o5Mjd4TmZ5ai1NWXBMMjRQSmZvWlVTc3o3Qk5mVVlJZXFlalN1UnY0Ql9sWnhXanZ1LXBvZG1NZGtUMmVYRnBJSS1jeWYyNkstOXdGek5SZ2FwRExCbmVOODliV0tUWmk5LW9lOVR4UnlCMGF4WWxobzVjQmRwVmM3V2J0RmhTSGVlaUhRTlBxVFBOcTZSMHZEOVYzVGZoYlY4WGd6MjJxNXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Globe Life (GL) Misses Q1 Earnings and Revenue Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SMjRnWUc5OGhWRTRRaEhCRGdzaWwxNEZmQ3JleDFFWFE2aDZUd1M2ZkJhYkljbFRWUU5zUUkzTzlYdHo1Q294X1BjZ1V1R3FaeGY0X0RxSjZuVWF6U0syQUdpWEotMERaakhFeVljTjdtRlhiLVF5RA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Long Term Trading Analysis for (GL) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkpsdXpib25GYkNWaTlOV3pvbzNZUEJEYlNOS3YtZ1RRd283RkVDdVEwWUNDaEpzTGg3cTRwYmFVTnFXeTRac2pqSVlkOWFfdEtGLVJhMGFQMk41VEFkSDRTbjhjaGphSWdMamViWDJ1SkRSTzZoOXNiYlF1Ml9Cak9qYWVGNnRnSHRaaV84MGotX3hubGNHcThFNE05VHExUnBMZ0tGbjJkdEk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Globe Life Sets Q1 Earnings Date: Key Financial Updates Coming April 30 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjVDZFpUZ3hYcl9ObmhaMVViZ0VTTzdZa3J4TG10Y3RSejVuS1Y3aDRVYjlha3N5X29XSnotVU0wcWM1aUxVT3h4U3ZWSXJWRERaRlRUMm1tOGpoNW1fbVduTW85cUNSSWZ5dzhBeHcxUmI2My1YRDM3MWRXTVkyUS0tQjl2d2hOVVhEcXo3Sk1YbDV1ZkFVTUtabE5HSkVhX3pLTzFIVjhieHNyb0xWS2xnaHJUemJz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Globe Life Inc. (GL) Stock Analysis: Exploring the 15% Upside Potential for Investors - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkh3bkJNWlJJeHYyallCdWROenRWQzNNQm1DMWplUzJ1MS1jRzZYTjhJdkdaWHFqTGVnRW15c3lDWG5NOGtTaTZINlc4dWczLU1pWmNfNlltTXNGZmpBaDJ5T09FaDktelUxOUk0QUNsZk5YbjJPejlLQmgyRl9jV01BUlZOM0ZIR3hpUmgyUE9zV1g3cDV1Y09wd2xaVGhkaDVERWVlMnp5eDZWUXNmS0NqMUI4R0dDbGxvS3NvWmJVYXhVNXFXSXR5VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Has $27.53 Million Stock Holdings in Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFZCUEFnLXcyRExZMkRuRzNyem9FUVN0d0dMWVZNMjZxS2VCY2t0SmRqdG1ScFRlSTVCcDBmUDk1NWxNMGEyQmhmMy1rSXNLbEk0czYwcGNKUXp2UkRVckJ1U1VmRDdXRnlLcGtkNXdrd01xQlJadktCWVlHOTNSUVdPd1V2SHo1d0Jmdk5MN0NsYnhGY0p5d1NKVHBubl91YXRuSWlLMHdpV0k5M3V2eVhqeU1sZHpobnEwbGJuajhDeGpfYXlmRkJiWEcxR08tNVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Trading Near 52-Week High, Why GL Stock is Still Worth Buying Now - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJ1RmF6MkJFMURWSUw2bjVYQy13SG1XSEYzQ3ZCZEtQSE43aUlnOGtCLUZad25vY0tCNlNuUk9PR2dueUlQSzMta0RXQmFMWmQ2dWJ2eGRfM1B0MklTNXVXWHh1RlBlNTJMQXdEekM3cHJGOVA1dGdjamNKdzBVaG9WZTh6MVRyeWJmTERlS0VJT0RSTThBQ3ZzRU1IQUpWaEVkX1VkUTY?oc=5",
+        "title": "GL Outperforms Industry, Trades at a Discount: How to Play the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenpmTG12NjUyYUJFWWpuNnRjSHVsaDVjMHhuZHJjN2t2MklILTVPV0dLZ0w2RkZSZnVEUExEQXlvaExnNlBWUVpqdXZ1bENicFR2Z2Q1N2wwR2ZWbldUcTVuQVJVNGNobjZTQWpSLW1WSnN3dTk0R1hxMjBvSUQ0SDB4RHMtaEpucUdCU0RB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,18 +571,63 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Globe Life Sets Q1 Earnings Date: Key Financial Updates Coming April 30 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjVDZFpUZ3hYcl9ObmhaMVViZ0VTTzdZa3J4TG10Y3RSejVuS1Y3aDRVYjlha3N5X29XSnotVU0wcWM1aUxVT3h4U3ZWSXJWRERaRlRUMm1tOGpoNW1fbVduTW85cUNSSWZ5dzhBeHcxUmI2My1YRDM3MWRXTVkyUS0tQjl2d2hOVVhEcXo3Sk1YbDV1ZkFVTUtabE5HSkVhX3pLTzFIVjhieHNyb0xWS2xnaHJUemJz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Weakness in Globe Life Inc.'s (NYSE:GL) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHNVajNSNlJiQnN3WXpKY19WZjZhS3IzNl9Cem1HajJkQl9xMHpHQWNSOG9SRE5rZEJ3a0V5NWRRUWtTa0ZmYkQ1ODJ5SmtIbnZKU3ZfR0IyUGNEeTFXdkZWcnVZT0dwTndqWmtKUHJ2eDBDcTh5WnFodVdpSTEyTWFKTE5DeGpZWUhFX1pXUk1DdTFVTnRJeTcxcWhqNlh5d2RZMTZWTzVLWFNhd1pLUk9yX1VZLXFjUUxweS1TVC1NbWRx0gHKAUFVX3lxTE5HSm0yV20wNTBiRmlPZVRoblV0cXZLelJfckcxZHdyM3o5Mjd4TmZ5ai1NWXBMMjRQSmZvWlVTc3o3Qk5mVVlJZXFlalN1UnY0Ql9sWnhXanZ1LXBvZG1NZGtUMmVYRnBJSS1jeWYyNkstOXdGek5SZ2FwRExCbmVOODliV0tUWmk5LW9lOVR4UnlCMGF4WWxobzVjQmRwVmM3V2J0RmhTSGVlaUhRTlBxVFBOcTZSMHZEOVYzVGZoYlY4WGd6MjJxNXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Globe Life Inc. (GL) Stock Analysis: Exploring the 15% Upside Potential for Investors - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkh3bkJNWlJJeHYyallCdWROenRWQzNNQm1DMWplUzJ1MS1jRzZYTjhJdkdaWHFqTGVnRW15c3lDWG5NOGtTaTZINlc4dWczLU1pWmNfNlltTXNGZmpBaDJ5T09FaDktelUxOUk0QUNsZk5YbjJPejlLQmgyRl9jV01BUlZOM0ZIR3hpUmgyUE9zV1g3cDV1Y09wd2xaVGhkaDVERWVlMnp5eDZWUXNmS0NqMUI4R0dDbGxvS3NvWmJVYXhVNXFXSXR5VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trading Near 52-Week High, Why GL Stock is Still Worth Buying Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJ1RmF6MkJFMURWSUw2bjVYQy13SG1XSEYzQ3ZCZEtQSE43aUlnOGtCLUZad25vY0tCNlNuUk9PR2dueUlQSzMta0RXQmFMWmQ2dWJ2eGRfM1B0MklTNXVXWHh1RlBlNTJMQXdEekM3cHJGOVA1dGdjamNKdzBVaG9WZTh6MVRyeWJmTERlS0VJT0RSTThBQ3ZzRU1IQUpWaEVkX1VkUTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Globe Life CEO Makes Significant Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3lRbXRlVkl5d0FlUnZpaEFvT1cyUFkxSXpJcEFpN2xuUHlwbkpMNW8yUnU5U2Q1Ykctb0pRVzBWY3QzSFlub3dPalp5UlJadjJxbEFjWHRvYXhVb29EanpfSlRtNFA3dWg5TWFRYXFwYm1mN3R6MC1wRC1KcXV3LWp2V0RGU1NjakRvVXlZRXg4UTlVamtDTFhuX1lHMTlJZ1N0cWlJNWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GLOBE LIFE INC. DECLARES DIVIDEND AND ANNOUNCES APPOINTMENT OF TWO NEW BOARD MEMBERS - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRjVjbm0tblROdlpUdnlpellodXNFOE85OENZVkRqU2RZMllDclh6Z0V6X3QyclBPUU16d1AtVlQtOHdhR1d3d0ItYWRaTVhhcUdseTN3cV9SbE9BYlEwNmdpQVdVTnVtNHE1TkEtTlA3d2dRR0NCR3dTangxajgwRXZhVHE0Mi1XNnZVcDg2T3g5T1RQMnNkekxkU1F6dWRhVEZGdVF3WUUwNmtJbUlaR29taDRnTkw2ampwQnc2YThRTVhWVjllemIzZFQySXA0TEhOdGln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Has $979,000 Stock Holdings in Globe Life Inc. (NYSE:GL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVdQVWZicnF4M1NDS2o4TjhWWmJVUkRMSFQ1VEktY1E3M3VGQnBCc01ma2hxV21yekNrMXQzRFRqMG0yQ0YwakNVZG5pazkycWhzc2RzWVUyOTAxeDg3UGtJbjRqZDRySHFrOUQyTTAwdWtVRWF6dVJvcllrVWtEWTZheWhIeW4xbVVCWjRVNWxjYWgwaVlCMXVsU3B4Rm5Felk5bFRzUXF6cmJadmI3U1g5QXhESENCelZ0OWtSRmFaMmhyd09aOFdGa1RQNFBPUzR5M3Rn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Globe Life (GL) Misses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SMjRnWUc5OGhWRTRRaEhCRGdzaWwxNEZmQ3JleDFFWFE2aDZUd1M2ZkJhYkljbFRWUU5zUUkzTzlYdHo1Q294X1BjZ1V1R3FaeGY0X0RxSjZuVWF6U0syQUdpWEotMERaakhFeVljTjdtRlhiLVF5RA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Globe Life Sets New Quarterly Dividend: Complete Payment Schedule and Record Date Details Released - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWZTWnB5dEhQZmx3dWdHdWhtOFlod25mWTVtbTV2UDJLcmZjVnFJM25tM2FFNWprOFU2VTRHQjVHbGViaWt3bEVPTzFUWWY3alBvd0tfc2ZJTEMxVzd5M1BUOHdHeUZoc3VxYXA0OEVnSWt1S1I2NXpXVFZGaE02Vjdn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Is Globe Life (GL) Up 2.8% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JWG5qeTBJMUN3eUJWa0EwOGdQZjhXS2dDbS1YTFRFZWNOSzhmR3E4bHB0ZmluNzY5UjFlSGcxRDRESmUyeTdUbXVPRnRQa0dDSFhrTS1zWUVHSjM0NmNSaXUzR3U2UkZXOE9oR0lwMnNTTGM?oc=5",
+        "title": "Are Wall Street Analysts Predicting Globe Life Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamhSNkptcmNWZTJuNEdvcmJhYW4tZklxNmh5M2RMM3dLMVM3Q0ZGLWlQQmpqLVJmSDRwcXFZVW83WGxJRDdaSnF3RVpaRnR5enpRYlhydlUwdTFjLUN4NzVmSU5FdkZ1YTdnaGVHaTJlZnl3REVXS0xXMDlDaUpSMUxxVVB6WmZYUWh1ZE9vY05jSkVVQ1poUlRZNlJDcktqYjVSZXlR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Increases Stock Holdings in Globe Life Inc. (NYSE:GL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFZCUEFnLXcyRExZMkRuRzNyem9FUVN0d0dMWVZNMjZxS2VCY2t0SmRqdG1ScFRlSTVCcDBmUDk1NWxNMGEyQmhmMy1rSXNLbEk0czYwcGNKUXp2UkRVckJ1U1VmRDdXRnlLcGtkNXdrd01xQlJadktCWVlHOTNSUVdPd1V2SHo1d0Jmdk5MN0NsYnhGY0p5d1NKVHBubl91YXRuSWlLMHdpV0k5M3V2eVhqeU1sZHpobnEwbGJuajhDeGpfYXlmRkJiWEcxR08tNVE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "111 Capital Acquires Shares of 2,174 Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3Bma0pCd1dhR1paSXBLcHVwUTV4UU5wZU9OYkt2eHhEZng4NUVoRy1iMTNxRkMzSUpObFpqbzByU0QwVzlTdGRtU0xsSkxLWmdyS2twRmxkRVhjQkNaU0dRR1pOQ2djaXQyQ2VrOFB5dXE1ODNfU2lJWFJiV1dYMWpjSHdOMHB0QzkxeTlXRzRON3JJVWhWMHBpRy13ZFFMYms1azBBdC16M0ZoblNOcTFZV2EzbktUOHFr?oc=5",
+        "title": "Is Globe Life (GL) a Great Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RREd1bXJLc1dvSjFYSWFBMGNJX21acEZHVS1tN3JESjZGb2o5TFV5MW5HMndHajdLMjNnZmJBanRKRTVmZWtxUG9KNkNQeERSSUI1bHdHaE0yaEoyS0o0VGFZLUl0U1Nlb3d5TExwTlNRSGs5WFpXNXl6MA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Contravisory Investment Management Inc. Raises Stock Position in Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNTNqOEVnUWFwY00taTJHQ3hWTUYzeXNxYkpZcktkVVU5aEZxVHI5ZVEwMHJaeThycV9NUC0yYzltSTM3ZHI1MjJVcVdKblBVSU56YWdkQndLUlRabTQzYjRHSU1qZno4R2NqMk5OZ0szUWpXX1pjNWNSSWdKczdfLUc4YXhTNVJrbWRacEVxdGVHeDg5bGg0MW83eUtnQzE3TGxSTUllelF6a253WjdMRFJuSGF6R3hZWi1LR2FwQUx5c2JzMGxycVJMejFVOEtBY1h6bWNhVFZvSFZBRFYw?oc=5",
+        "title": "Globe Life Inc. (NYSE:GL) Stock Holdings Raised by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlptbkFaTDhvejdEUnNSNDN4Mmw5SlhhSnNGTTY3bk5yemQ1RlRnaWV2OFNKTEdaZlJYczc1bVhYamJqZ2JwUXhFanYxd3U0NThaNmlhR3VYRnVVdWt0MERDOXNGTHJRVHZBYzBhSlFnN0tZMU91OC1jNWRvZFRWQ21WRDFRLXl5REZzYTJCQ3hDUVJrWUlTaVM2Z0FkUU0ycDN3M2FkZUpuU3NHXzBUX0FRRm0yeW9RUXhnQl8wZ2EwUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Globe Life (GL) Up 2.8% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JWG5qeTBJMUN3eUJWa0EwOGdQZjhXS2dDbS1YTFRFZWNOSzhmR3E4bHB0ZmluNzY5UjFlSGcxRDRESmUyeTdUbXVPRnRQa0dDSFhrTS1zWUVHSjM0NmNSaXUzR3U2UkZXOE9oR0lwMnNTTGM?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Position in Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1pzdW1KZXBQZXZSczd1UXNQV2lELTlybTdTYVFKTXJwM0d5NE90cGxWaUN5SldZNEp2TFlUM1NITkdZT3g5UGY1d2d3azlaOUpSQ0xFdHRqWGdVNjBYdkFtWWRGbV9EdHU1OF9sVXphRGlrMDVjSDh3MWltTWNhVXY2M1o2MWx3SHM5Nm84V2pWay14OThaUndWbGM5VHNVeFJzakRwRFZhSUx6dkR2ZG9GQ0FBcGFsamZucnd4V01IMU1yTHc2aTdfRkRIYjFxN2lBUVg4NENnR0JYeHJ1LVVhdXVzZw?oc=5",
-        "label": "POSITIVE"
+        "title": "USA Financial Formulas Makes New $1.18 Million Investment in Globe Life Inc. (NYSE:GL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGRFNkZwblE3ZWd0cEpHb2k1WmQwSXpjSlltbjNQTjRjLVpjTjB6a19qMUVabGhZMHNidl9HNFhwVDl6RXg0R2ZtMU9LUFlvRHF0cmhfNWhmS1pfdWFhTW5iOS04V1pIM1pKanRmUXVEalhrYklhVFhIWTRiMkllSExzb1NVZ0JRTDl3eHZ4TGMxbGk5MEJrSEItTHVzRTdCV29kUWMxMzNKRzJNTEp3TVlDYWFqYTBYd0ZKT011ZTJQNXRzbDB0U3I0YzhNa2RLRDh5Sm9NMXE?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Campbell Deegan Wealth Management LLC Acquires New Shares in Globe Life Inc. (NYSE:GL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZjBYU0p4TDluaFNJZllKUm9aZ2tBS01mS0JRRml0bGo3M1Z5Sk5OazJMeVBQeUJ4Zy1xODAtVkJqM2NBSThJMEl3aklIamhJY0ZuLTBQejA2UVJSVFRIalV6ZGNjOUtCbmJqVW15YjZPRXlkaUNHcHhKN3NoTlFLVS1DdEk1VzkxWnlsdmozY0lSLWZoU3U4Qlhwc00tbHdSYTlqTU1HcWpXWFZYdThfLWRNWW9qTjRyQ3pmLV9JNmRpTGkwem9mRXp5TTkyYTh3NnhXNTVPbVJDS2s0ZGc?oc=5",
+        "title": "17,000 Shares in Globe Life Inc. (NYSE:GL) Purchased by Livforsakringsbolaget Skandia Omsesidigt - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY3dhUG1yRUhNVjk4cnA5Z184ci1DdWhUM3FZaXNsd3dBUnNvMEpXbEFQbUJKT2xqU1N4dkUxZlEzNmdlUjNmcm1ndTZBSXEzQUhJRDNRbzJrc2Q5SXFTckpmYU1TcEVkbjNaOHcyOTUyRThOUHMzb0dfcW5LM2ZrUWlwQkcxVDFHYWV1Mnhod2dFa0RfVUxIWW5UUVYxNUtSeXp3M01WNUlmMkM0WnJsWXFkN21hZmZsU1hlY3RaN3BSaXdMMTRBczg5OWxaVlI1cGc4dWFhTFVMMGFfMkY0WHBXUmFzVms?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

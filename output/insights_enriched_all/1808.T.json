@@ -2,16 +2,16 @@
   "ticker": "1808.T",
   "name": "Haseko Corp.",
   "sector": "Industrials",
-  "market_cap": 587863752704.0,
+  "market_cap": 572049850368.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.049414,
-    "PB": 1.1037573,
-    "EV_Revenue": 0.652,
+    "PE": 16.891356,
+    "PB": 1.0919662,
+    "EV_Revenue": 0.648,
     "ROE": 0.06604,
     "ProfitMargin": 0.029260002,
     "GrossMargin": 0.14144,
-    "DividendYield": 4.18,
+    "DividendYield": 4.22,
     "DebtEquity": 78.942,
     "CurrentRatio": 2.378,
     "QuickRatio": 0.876,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.048330127745187836,
     "ROA": 0.03898,
     "PEG": null,
-    "EV_EBITDA": 8.266,
+    "EV_EBITDA": 8.199,
     "BuybackYield": null,
-    "PriceToFCF": -10.331229820217365
+    "PriceToFCF": -10.053313281502056
   },
   "technical_indicators": {
-    "RSI_14": 65.4939576032703,
-    "Momentum_10": 3.759036144578314,
-    "MACD": 36.44458286909094,
-    "BB_Percent": 0.8388609452579288,
+    "RSI_14": 58.61311035260819,
+    "Momentum_10": 1.4768937589328253,
+    "MACD": 27.68475729444117,
+    "BB_Percent": 0.6112032896531318,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337854125867844,
+    "ValueScore": 0.8959003916869048,
     "QualityScore": 0.3978607919151569,
-    "SignalScore": 0.4679071119761827
+    "SignalScore": 0.5280798038521082
   },
-  "volatility": 0.0122371227493275,
+  "volatility": 0.0122121485013692,
   "beta": 0.09,
-  "return_6m": 0.089244170086449,
+  "return_6m": 0.0680973780900766,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2021.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2018.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2026.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2040.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2052.5
-      },
       {
         "date": "2024-12-13",
         "price": 2039.5
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2153.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2141.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2139.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2139.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2133.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2130.0
       }
     ],
     "current_price_data": {
-      "price": 2153.0,
-      "change": -2.0,
-      "percent_change": -0.09
+      "price": 2130.0,
+      "change": -3.0,
+      "percent_change": -0.14
     }
   },
   "news_sentiment": {
-    "summary": "BioInvent a récemment obtenu de la FDA la désignation Fast Track pour son traitement BI-1808 du lymphome cutané à cellules T. Cette reconnaissance renforce la confiance des investisseurs dans le potentiel du médicament. La présentation réussie de l'anticorps anti-TNFR2 BI-1808 lors du 16e Forum annuel sur le lymphome à cellules T souligne l'intérêt croissant pour cette innovation thérapeutique, ce qui pourrait impacter positivement le sentiment de marché à l'égard de BioInvent.",
-    "sentiment_score": 0.75,
+    "summary": "L'entreprise BioInvent a reçu la désignation Fast Track de la FDA pour son traitement BI-1808 du lymphome cutané à cellules T. Cette reconnaissance par l'autorité réglementaire américaine souligne le potentiel prometteur de ce traitement dans un domaine médical spécifique. Cette nouvelle pourrait renforcer la confiance des investisseurs dans la capacité de l'entreprise à développer des thérapies innovantes et à ouvrir des perspectives de croissance à long terme.",
+    "sentiment_score": 1.0,
     "label": "POSITIVE",
-    "positive_ratio": 0.75,
-    "neutral_ratio": 0.25,
+    "positive_ratio": 1.0,
+    "neutral_ratio": 0.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -552,18 +552,8 @@
         "title": "BioInvent Receives FDA Fast Track Designation for BI-1808 for the Treatment of Cutaneous T-cell Lymphoma - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0t4WVZtLUE1WUNfdGlvMDJkbHg3RzBEU0taVm1lOFl3Mk5BYmpBV2NBUWVPXzg4X1JFY0FJV2hBR081NWxXTDlVd2ZKTnIyRGo5NE9uRUwxMmpTX2tPUjhNSjNlNWVCOUNwTzVCQUVkNENXSmt5Q2lTaGtiVHVhM3VPWU8tUQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "BioInvent's BI-1808 receives broad support from the FDA - Biostock",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZlU0YnJWa1ZJUkVDRWhFRzFab0dlRU9XUGN1dkQwVjFvYUR4ZHZ3WkZDZE5mQ1ZJM0o4V3ltbTUyUE5LS3N5ZzNJc0xPRnNUTlFYZm5BWDdJNy1sZWdjWXFlaXd2RkNrWlZ6MUtfTlN0VkY3Q09uZktINm1KYTZsTXhxSGlVQ25jV1RzX3dPOXhaeGtQY29yM0NoU3ctWDVBSHBXUVlFczNuRjJSaTRGb3NRNHhMT1hjenFjNXRkaGxKX0V2a0dQc1NnWGszQzBoRlVDY2VXZG1vTllsN25HSkl2RnZjUjJkQTRabWRJY2NxbVA4Mkwxamd2djRIVTVHbzJtMUxmUlM3eFV2R1lEQWVXLXphM0tWbk1pRmRmS1Ryby1lbnM3ckNn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BioInvent’s anti-TNFR2 antibody BI-1808 showcased at the 16th Annual T-Cell Lymphoma Forum - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUpLVVdIcHdiTWpjdlhWSTRvdFRCc1RRR1gwTUZNcm1NWWdFNnYydlFEejJyQWVVWDJYLTJyMF9uYi1RVHVKTy1GWDVUbVNqdFNiUG9VcmFLWHhydEUzWThiQVBvc3dmODBMMnRKS1A5aUNEcWNQM0JyWnkzQUJFNTBoZWE?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

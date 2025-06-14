@@ -2,16 +2,16 @@
   "ticker": "WSM",
   "name": "Williams-Sonoma, Inc.",
   "sector": "Consumer Discretionary",
-  "market_cap": 19439835136.0,
+  "market_cap": 18926931968.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.250578,
-    "PB": 8.994423,
-    "EV_Revenue": 2.539,
+    "PE": 17.789597,
+    "PB": 8.757113,
+    "EV_Revenue": 2.488,
     "ROE": 0.50154996,
     "ProfitMargin": 0.14086,
     "GrossMargin": 0.4566,
-    "DividendYield": 1.67,
+    "DividendYield": 1.71,
     "DebtEquity": 63.334,
     "CurrentRatio": 1.508,
     "QuickRatio": 0.679,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.10737646963918546,
     "ROA": 0.17055,
     "PEG": null,
-    "EV_EBITDA": 12.067,
+    "EV_EBITDA": 11.829,
     "BuybackYield": null,
-    "PriceToFCF": 23.24293988966647
+    "PriceToFCF": 22.664406816531997
   },
   "technical_indicators": {
-    "RSI_14": 45.319689449005345,
-    "Momentum_10": -1.4215342527422106,
-    "MACD": -0.2569092741800602,
-    "BB_Percent": 0.1972148366466155,
+    "RSI_14": 39.75434067108441,
+    "Momentum_10": -5.372148539637809,
+    "MACD": -1.770143727100077,
+    "BB_Percent": 0.1415210553633204,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9297655097637796,
+    "ValueScore": 0.8866702156829712,
     "QualityScore": 0.3111110505054091,
-    "SignalScore": 0.625801934088235
+    "SignalScore": 0.6602981383472311
   },
-  "volatility": 0.0313121067881254,
+  "volatility": 0.0311797993388772,
   "beta": 1.477,
-  "return_6m": -0.1565113949115755,
+  "return_6m": -0.2073536648657264,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 190.16
-      },
-      {
-        "date": "2024-12-10",
-        "price": 186.75
-      },
-      {
-        "date": "2024-12-11",
-        "price": 190.57
-      },
-      {
-        "date": "2024-12-12",
-        "price": 191.38
-      },
-      {
-        "date": "2024-12-13",
-        "price": 195.63
-      },
       {
         "date": "2024-12-16",
         "price": 194.03
@@ -537,47 +517,112 @@
       {
         "date": "2025-06-06",
         "price": 157.8
+      },
+      {
+        "date": "2025-06-09",
+        "price": 156.74
+      },
+      {
+        "date": "2025-06-10",
+        "price": 158.1
+      },
+      {
+        "date": "2025-06-11",
+        "price": 155.58
+      },
+      {
+        "date": "2025-06-12",
+        "price": 154.81
+      },
+      {
+        "date": "2025-06-13",
+        "price": 153.96
       }
     ],
     "current_price_data": {
-      "price": 157.8,
-      "change": -0.18,
-      "percent_change": -0.11
+      "price": 153.96,
+      "change": -0.85,
+      "percent_change": -0.55
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de Williams-Sonoma Inc. présente des tendances contrastées. Malgré des résultats dépassant les estimations et une croissance de 3,4% du chiffre d'affaires, le cours de l'action a reculé. La société a conclu un partenariat stratégique avec Benjamin Moore pour des collections de peinture personnalisées, mais des ventes importantes d'actions par des dirigeants ont été observées. Des investisseurs comme Romano Brothers and Company ont vendu des actions, tandis que d'autres comme Mackenzie Financial Corp ont augmenté leurs participations, reflétant une diversité de perceptions sur le titre.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
+    "summary": "La société Williams-Sonoma a récemment suscité un intérêt accru des investisseurs, malgré une baisse de son cours suite à des résultats trimestriels solides qui ont dépassé les attentes. La collaboration avec la styliste Cynthia Rowley pour une nouvelle collection de luxe chez Pottery Barn a également attiré l'attention. Malgré des ventes d'actions de la part de certains investisseurs institutionnels, la société maintient un dividende trimestriel attractif de 0,66 $ par action, soulignant sa stabilité financière. Les performances positives de l'ensemble de ses marques de vente au détail ont contribué à renforcer la confiance des investisseurs dans le secteur de l'ameublement domestique.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Shares Sold by Romano Brothers AND Company - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamh6VGd6NjRJbDBCeHhoUlM2Tm5GVUNSWW9FSEJUV0JHQTcxVm9jcE5naF80Z2tXUXJFQ0NFNHROcVVSeXNWS3NVS195RkZCd1ZlUUVNOGE3SW9qSWxwN2VYb3dvZ0pjTmIzT0lUdWZia0FBTF9ydUc0VWJTamFwVDJ3bXNkOWxHVFh5dGUtMGNKZHFSR0haa0k3RmROS0J1OUxEeFJoNGEyU3RmU3JnbTRDclI3Y0k5bmdIaEdIeXBhem9DdVFUMi0wUzNMd0Fr?oc=5",
+        "title": "Fashion Icon Cynthia Rowley Brings Runway Style to Pottery Barn with New Luxury Home Collection - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHZ3d29XNzVqeXhBUGZPMXc0T3o2SUF2ZFZCX2d1dmJzVjl4c0o5OWZPTUdXMXVBYXAtcUNOQ0RmZFFmWElWMkF2M29OaHhUeF9tSGNybGpNc3BUQmlJdWxpNHYyODNXNGpFWnRFQ2RjZFlMV3BTR3hBRWl6Ri1MalEyMG5qbXUwU3pNNW10R0ZKeUNsTVlMbDNDazZDRTJvN3VQaHNxck4tZF9MaHI5TkxBRjllT1BtSlNF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Major Retail Deal: Williams-Sonoma Teams Up With Benjamin Moore for Custom Paint Collections Across 5 Brands - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaW0tR1d2SjlDMTJXNEhOWDFxemxTMlh2REh3eDZBT2h0a2k5MHBxMzlzZGNESUlXS3dZb1R0TFZ4SFRvVWRhVnBPM1A1Q1hEWmluRUMxTENqMzJjNmlfbGNFRUFlVkJuczR4SVprNTZ0WXNsMWJ1aGhvdjdyVTlBZmR0cTh4dUJPV214T1ZEOHlhaExkLWFqdHB6MTBuZl84TXRnY2NkcU9ONEtURFBHWXhjdWJpME1hLXJsdg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Williams-Sonoma (WSM) CEO Sells 30K Shares in Major Stock Transaction | WSM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbnprYU5zaUtXRHBtcE9yOVJ3MURIS0VSM1hSXzhhQ0NwMG0xWWpCT1BkXzhsd1RENS01eEtST3NzMHFNREhZb2VTd3lEeXJ6SXVSYmJjU2E3LUJqaDNzWXM1WU8yNlBPVTlRdFJqU0dIZUM0OFBhTGJEbTBXMm50MjZMa3dERGdrT0txNDVrUW1fQzlTcjZUT0VhOVBDbFg0RG1uTVJabmUxX3pWSE56VE9QVDZaSEJHNE5oTS15Q0NNWG8zSVhWMGRNdXg3Y2dFTUNwRVU5RDk3VFRZeV9POXhXTHp3bjJ1ZFFjUGR6LUVLUmxhSC1aTzNVV0lQbGtzaEl3?oc=5",
+        "title": "Smithbridge Asset Management Inc. DE Makes New $315,000 Investment in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQllVaE92UVVQXy1jZ3FYSkl0U3RKYzJaUV92ZFNRVS0teWRrdVUycUVhMllqdERUdkRnWE1wQXUzT3o4WDEzeVBMN2VMc0R2UWVNdExBWmU0dThpQ2NxSDRzTFR5LXpyamZBUm1fOXlFZUlRang5MTFVRTUxS28tZXVhYUFEWkFhNGZROWxTbkRTV3RGSGNBSk1WUUppZmJJOFZDR0Raa0pwVHYtd05MRTcxdXN2S1dUcFNJbVNDTmZHR29WWEliV0wwX2hmd2JLZXlPa0M0T25JdDBDcWZxQk1sMkcwVThPbFFV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Williams-Sonoma Results Beat Estimates. Here's Why the Stock Is Down - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3Vpd2RGOGJ0N2g0cDdEQWtZbm1SbzA5NFNhRWxucTBURGs3b1FnS2VfYkYtM1QyVlJ4MU9WRGZnUTFaUjY4b2VBN1lxcG5uUmhXUFY5TjFpVXRmb1hhcl9MZkxvYXp2aWRFRkxFSThVWWktYUwxTm9VZ0tVUmFvbWVwbnBJbEM5V1lmNkc0LUNEQVpaN0FrVW1YRmstckdtejJCcWEyQkJFZw?oc=5",
+        "title": "Williams-Sonoma Elects Directors at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkNwcmVYb2VOOEQwc2p1M1d2Q0JZazAyaG84YnlydzY1TE92SVNpakZrXy1rREJHd09TWWlTQ2phaUNoMjA1TGxQeGpOdGlsek5TUk5veFhUZmdpMFRKWnlzWjczX0hPNlpSVHk1TEJ6WmNlcGtkT2hySTlSSUV5MFFBNnBUdGhqU3phWG9yaXBQd3JuTzVlNzZna3lJNDdORXhhdA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Curat Global LLC Purchases New Stake in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWRUcEhKX2pFSnpHYnhOZEhMN3A5bE1UUTNjV25YRWY0alV3SFJmVjRVMTNqTU1OY2xGZWhaWENObGpUMHZodzdRbXgxcFVfSWZVbTNQMDQ0U1lHT1VKOFp5UGpXcmxTQkxwWlNXaU9QVzNTZ1VWSkdITnZQVWE3bjlYVUV4SjZXblRPMURXdFM5QWMzQ1Via2ctd3hJdEhsdF9RZUxaVzVsOGlScUlLSXdWV19xOVB2SnRwZjdDYTRHOHBqVl9v?oc=5",
+        "title": "Williams-Sonoma (WSM) Announces Results of 2025 Annual Meeting of Stockholders - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEk3NGJsUHJtcEJVYk0yMVE0VEFVTUtEc3RGVHZZTWI3Nm5GLVJBQ21YSVh0WURDcy1ITUt2STVyQS0tRDZ2bEdXRDZaNEI3S0JQcXdrN2JVcUo1eEphOU9sWC1vdnR6YTJOekYxWGJRWnRneVVUWXNyNVA3bTVYaUZURHRjbnZBWWUyNlZ4aWdTZkN3enRxZjFzM2h1Q2tQeU02bmw4RDQ0ZXA5UjFrTTRfeS0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search Williams-Sonoma, Inc. (WSM): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0hnc3BWNEpjTlU0Vk5uOEZzWGdMS1MxVWRHUnJjU2drZmpORy00WVBHc0tQS1F0akN1YzFEZUd2U1NpSld6VUpGZzIwRmMzbFJvVWgzNTg0bDNoQVJpZDhMRkJsWWQ0M1hCc0FYRDVKTFZyTUxMdjFzdVc5YWVtajJ5Vzg2a1NIMHFpd3M1WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4 Retail Home Furnishing Stocks to Watch From a Prospering Industry - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEdRdzhKSHlpWnRKZ1labmNMamEwWmd2QmdLZEhvWmp0b1RHSVJtZU1HLUZsNmtwbkoyWjZIcG13U0FMcUwzblN4U2JXVnZtdGJiLUhva3RnbTM0V1IzMDlfNHdBWmtPVWw4azZLVVZlQkZMOU9RVTBXMkVTMnZUSzdsRTV3WUw2T3hodjhneEtFVTMzU2pTaHpWa28yalhQY09CdDd4V0I4RDBBZ08yZzJxdkk3cUlRWktaYlE5S3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(WSM) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzZaX05DUVR3NGFNeUtjUjd2bGxSY0o2VnpxcFJ4NlRITEtTMkN2LXdFOVo4ejdzR3VFX09ZLWVDYkVhR2V2dUQyeU1nSW1wY2xhWUx0b0xwaEhEU25odUVqakEyaXVCT1ROUDJxSUtoZDQ3QU9HRjg5aXpMNW1rX2RZNHBPWm1JWUt2UlNEcll5N2xMLUtlUl84RVVxaTRl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KeyBanc recommends WSM, LOW, LZB, CENTA stocks for patient investors By Investing.com - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdXBKY0JzZUJvS0ozYmlWc3JfM2ppbFh6ZmJjRzdHcS1Pa2I2WExGdG5UVmFFNXhRa3RkcVFOekZtVVZ1MGxmaXdFMHlucUlCVDZTd0NNbll5c3lDeUxXT3k2MXpGNUEzZXJiYkF5aFU5VWdPcVhQb0VjMUxnYi15d0kwWG9jQUNoT043XzV1Nk4ydGJhVEhaUGN5aVFWcFFSc0QxejlQRk1ReE5jUVpHay1FeGRZeW04dTVNeGtnQzd6MjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Williams-Sonoma Sets $0.66 Per Share Dividend: Key Payment Dates for Investors Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd280T2pYSkkzenI3V0VKemU5UGhzQUEzX0FKdjQ2aklyajNVM3pHaWg5LVVVQnJtelZjWFNTdkpNa3RmbzVJSkNxQS1fUmNaclN0d1F4bVk5aU9hZHdUNmlSNDBsXzlJdEhKelZ6NEhzd3RaOUdTbWFTOVI2NGNJYi1EVkFidW5oYk1idEt0c2NOVWN6SERuRDM1bFNlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Shares Sold by OLD National Bancorp IN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHpaMi1OQl9ZQlNOSGVRYmV1bDlNNF9rclByLTFUVWNmT1Z5ZU15UFF1MkgxSF9LRTc1WXZiNEx0VVlBYTc5TDJlNVJqcEd0cHZ5Wm5DbDlGZzBHN1hfU0lBaG1BeFZweWlhYTlmR0h6MnhKQk9td3NtWHRaVVNndV9mZXppUGw1Q3c1d0xsQTNHdzByY2o2VWR3LXR3THdVREdIVE5jTWZjdzdBZkZ4UzMxNGQyN09Lb3V0Zmd3Q3VDZy1WTWcwZzN5VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "POTTERY BARN LAUNCHES COLLABORATION WITH FASHION DESIGNER CYNTHIA ROWLEY | WSM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXI1MmpHSmUyZlA1cGdGUFNDbGh3endiaVBWSlVFUndhR0VoX0FaTWNpa0ZJVkVZUFVMS3VLRVFsVW9uR0JmS1VhT0ZUaWQtaV9xMGxUbEpGMjB6QUxScW4wUkQzaWc2YURTUnF4TzkxQjNpNmZZX2FNUWlJaVlKOEpVMnd4dDNhazJydFlPdTR0bWdCdzhOVkVPeHd5bW9EMzRCeFpRXzJrZjJaWVZfTVpjVzhYTlhkX0JCWUppakd1SXZKUEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Williams-Sonoma (NYSE:WSM) Beats Expectations in Strong Q1 But Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzR6dUNtb01jTU84emFpVEw0dU5STHV0X3JDbW9JSHJ2SkI1Wi02QVlUMWpQbnFfTE9lMDNkTUNrb1I2X1JFRTFJLUZjd3FxZmJiekRVWjJXeldkTEhXWEZNbWdrQllwdl9XaFNoSS1UNndYNkY5T2NQdXVrY01VOF93?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Congress Asset Management Co. Decreases Position in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTXB4TUtyemJ0QnBmY1BVQ2ZEUkJzNlNsYndROURsbTEwWk04ZkNuaDVRdlRUV0V5aXhnRC1rQ2U3UlhrQXBSS3RqaWlRZjMwdHJJaXRzNWZESEsxYjJDemNqZ0hNdDNyYmZoZmM2LVBKQ2lCNFkyWUJhemRCWldwdndsWDFfQlNmVG1ma1FoblU4M25NOVUwc0xQcFFHZEZ2aU1CM2o4MzR1TWg1NUFKNkRaTDM0bEpjRFg1ckdqRXZSdVRhTEo5YVMyam4xTFVvUXRNbEZn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. declares quarterly cash dividend | WSM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTkwMWR3b0tsc0hXbkMtRjgtRGJXRWU2UVhSNmJWYlhCeUdvUjVLQ1dsdHpWTVlxOWZtWS1lMHBQM0Yyd19jRlhiVXRVekt3V2JfUTNLTXZNeEFzTHIybHJfRGZPVHlrdTNfRjRRRnV0OGpOZExLbU1sdGI1Ni1tRjNfdy03eVVlcmtjSFJSaGYzZXlBeUVwcGV4MHMyZjVZV1Iyb2NSbGU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,76 +631,31 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Benjamin Moore Announces Multi-Year Home Partnership with Williams-Sonoma, Inc. Brands | WSM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTh6b3pXM24xMG5vaTF5N0Q0R28zYWk2czRDU01NTzNZYzV6M1F0cllHR25CMUJpRlg4Vk9taDd5cjliWDJ2Ulg2VGtYNGR5MHZRS3JFaHU1MTVUUzk2VWg4S1IyZ0lNWVRYU0VMamZ3Q1ZkYVU3ZVNOX01ZMjBud3J2Z2F5cWVxZzAtY3o3M2ZJNDZyaGFCR0hDc1ZZSTE3V3Axc3ItaWExc2NJSGc0Yks4dHZmRHpQbDZFQUNDWnpWdGRsSDZaeEJmUzJVQ2d3bjVJ?oc=5",
+        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Shares Sold by Portside Wealth Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUDRpWWc2ZnNBLW5udWdhQVVpQktyUmNteFZnRzNWSTBEamFEX3NxS2JCTzdmVjZSemxxbFFaSDFNN3lXT0FNZ3otZG12ak5WbXlRdWJZVDg3eVFSaHdObVZFRVQtRzQzNy1BamJIdDdMX0FqYmpDYWhqSHgxR3IwUWhzUm8yUGpoeldEQmRkdDRzbkwwVlIyRzZDcGNzRnhVZWRqbTZwWEFTRzJTSWpFdlpBVWhrY3lRNTFSbWRpNEUzMWwwTDRDbGEwaW53dw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Position Lifted by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUFuLURKZDVWbTUwQXNoZ3B3YlllY0Q1QnRoTW11VG45SG8wa21fWGRnRHZCVUVzTWQxbkFobV9VVzNibzBQcFdlTzV4R1V4amROeTlZcnVzb09aOXBuRzJxcTNxRjAyUk11ZW90cFNIY0oybEdVc0kwcUxaN2xTYUhOcnhNaDU1M2tWZ2Z0Z1poMHV6OTZHLWZaazUxSlpDdVhrNFY0ZGtKSDVTN2dXSk5jRjI2STJMZGswTEZnZUtQcVVUa0xyc0h0M3o?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Williams-Sonoma Inc (WSM) Shares Down 3.7% on Jun 2 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzdiS3JJQnlaLUt1TjR2RW5kUTJQZmJEZUdRdWVJYUo0ejR6UzZfYkowTzlhZVI0dnVlaVpNWHFkUHF3ZGp2V2k3M1NTZUFlMWFjOG5LUzIyOHZMV1RxZU5LYjZ3emtzcHQ1S3g3ZWQ4SUJJVS1hT0M1VmZ3QWpxWDR5Q2lNa2s3RmxNUXZ3?oc=5",
+        "title": "Vest Financial LLC Lowers Holdings in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3RWTDVnZTd3NWFFNDJoQmxHUVgzM1BGdWI3dkZqOTg3SDJ1SmlzMzRzRFo2b2d1cm5PRW5RdmR3N0ROcG5vdXkwcjktdk14WG94UEt3ZHBmVmF3Tl83dWpOMVVnc2MtbUtFcTFDTm5jWUw4Q19lQ1ZWMDRGQ1NyVUZQLTg2TlVENXlHVVFKT2NZV3N4YkRadnY2T0RiYmdxLVZGLXlJdExIYmhqaG1XSU1zTGZfcTBhWk1LT3J5bHVJUG8?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Williams-Sonoma Schedules First Quarter 2025 Earnings Call: Key Details for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUtLaGlWYUxnbEZ1a1RKNGk0SzZmLWdwM0tZTnFqVm9ydXU3U20tLXk1Vm9VaWlsdjEweFJOM2QxTTR2VGpyalVmb3NFXzYzMmtmM3NnN1VkYnBIcFRXdXdXVHlGLWdnQXY0bEpIMEt1VmNQY0VnVFg3YXhFM1p6WXJPalE2WTBfY0VwandLbjBuXzM0dDc0WmdWaGxoZ1FSbjJTUjZiTGpUYndlVHIyNE91SXFGZ011MWtJRVZkdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Williams-Sonoma, Inc. (NYSE:WSM) CFO Jeffrey Howie Sells 4,000 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjdfSnE5Z01kbXZhUVBHZUk4dm5RLXZlZ1d4cUFrT0NNWGxlSGpaTWdwNkVKWGU3M2Q4UWhtZGRxX1B6UjV3blBHZVVHNVoxUjNYZENBNXRDekRuYkpxVVhlSkp0bWtCRkUxdHNnSng5dFJPRVYzNGlkeDFwWkF6dFNRaDVMOW1hMXM1OHlSanZiZGZmbTJEakxPR3U2T0RuV2x0UDQ5Um5TNGhFRUQ3NlhSeE9mTXkw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Selling: Williams-Sonoma, Inc. (NYSE:WSM) CEO Sells 30,000 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGY0LW04VkVJaVN0aWk4RUFDS2U5SE55TmJ5dWY1cDBVVEJYc2RmMW0xdnhhUUdqT2pObVlvUVZ3eTRaSWU3bGxJb3NuRDF0S3pWb1JYdTBBakhVVENvYmllSElncC0xNTBLbWphZmdSOHNMczV3RGRPbXUzM2xlSV96LVBsN05jSnl5UTBjbjRBZmpfWEdOSGY2NlZiN3NuTjNsUFVXU1dhY0g4SUow?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Shares Sold by Jefferies Financial Group Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0ZnTk1YOG5LSjJYOTF0YW9ETUhkTWRScWFzU1J2OW5OZU42MlF1d0ZUS2JlLS1oak9JdjQ4SnlfTk9oZ040NHlGRXhjYlhOa21BMHJqYTNBdkpLUVlQMm4tRGdwV05CelJFcndtUHpkU05ySDlkTFl2REp1Um9RYmViYW1rR01JQjFFTm9PTnJQNDNyM1pxTkVQblpCbUFoem9USmg4WV92cEtRWTVJLS1QaWtlTTI2bElaTDk3VVpTMU9va2VleHk4VmdReDExMTZyTklOcw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Increases Stake in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRVdab3hQcFdWWXNwQndrSTBKMlBOWWp2WHdsV25GZ0daZzNoS252cDl3WXRMZXVOeWdZa1ZvWU0yd3hxS0lnc01abkJjaVVQaERrbDNwRGhSSWFEQ3RBQjlaVFVKd0R6QzQwZU1yX1BnVFVRaFM1dzZ4Y3NUVFZ4REZPdzBvRVp3VWhCUENMMHFuVFlPSFBOQmM5aTZ0RXZTUlVsOHFWX295UTNkS1p4OEpmXzJPLWI0dmhvQWxZZmJOSG9QTG1MZQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kaizen Financial Strategies Invests $329,000 in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3l6OFBnQ2xRY0RrbWRDUWFEMTd1WWVVSDlKeXF4VHJ0OTF2NWdzNE9DQmZlVjFvdzV6MEZFdVdFU1pRTkVBZmFEbXpPZFVPWVkxVHQ1ZkFmWjBDWml6ZER3MmhEV2RnSm9XRklmNzVScHhBVnVoQmx6TWgtWTZHVFBtSXExSnptckYxOWlqNHhWa0wxeVJ0UzVfMGVydjV6OG1KbnQ2V1NGQUNSX0J6ek9mN21vbmtCR0h5R18yYnJOQm96NnNXOE40M0FMQW5lcnItcmFQVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JGP Wealth Management LLC Has $992,000 Stock Holdings in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQckxQYlpIZmJIdUkxazRhQkdjb29xVkc2MnJZUG12Vk9SSGRWaUQtMWIyc2xoYXFqN1FJMlFFQ3pOTjNVVFlGNUNfQVg1VU0xaDlMV2NiVldwRWJXNU5OXzl2V1FyR2dGdGRyanJfZzlFZGNSRU5pd2N3QXNHZ2lHcEdnelg1YTVjQTJjcEhZM01pZFYzaDlwWlR0a3EyZmktZ0hjSDFwT0dfUG1nbmJidWRpZ3NxdFBTRmpDVVNCX2prME42WHU0VmZIRktETHhsSVNyeA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hennion & Walsh Asset Management Inc. Sells 2,432 Shares of Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Shares Sold by Hennion & Walsh Asset Management Inc. - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1NkeUdkZ3FpT2dKWFZMY3JPT244TUhTdXZ4REZiSVFCck5CU2U5bHlUc1BTcmNwYzJVMXNpZkRTNFBQRlFLLWZBREkyMmlqeE9QcXBmLURsVGcxVU9PemhkX0cxUDF4YW1jdTVfVXhmZWVLREI5QmFHWHZsemkxdzg4cmV2TE5xN3BFcDJBU2FGcXA1Ujl2UHVKbUU3dXpsNEUyNlg3ZTd4WWRGUmg4SjdfTjhTanY1Q1lpUURpWTZNaVVmaFBzSkVyZE92TmNZb1JhS1FqNlk0b1hx?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "California State Teachers Retirement System Cuts Stock Position in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd2VhVk1iWl9JUGhCQUhySGlVbHBMbUVXSnpkTmhDMVA2OGV4X3B5akZBVHJRZVFtbVNuTnlHRWhGbWlvUUhhQUlxdEp4bzJWSUFPdHdPNkNsdC1fR1RLR01fVjZCUmM1RHBsSlVfd0pZUTlUSks0Y1RSbGdkRGdyaVBESHhtNXZhY2FoY3Y4WkdmS25NNXNPWDBkZ25VUDhuWkg2V0pqUnNCTjc3SFVCc0FtbWtzdlpJb3FGSVpEV3M1b3F1Ny01dDNWT09aX3BTazhKRlpOTThPaDRhQmxZcHVFNVI?oc=5",
+        "title": "Williams-Sonoma, Inc. (NYSE:WSM) Announces $0.66 Quarterly Dividend - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlcxa0N4YTFoWWNrNDZieC1JM25NLWMwNlJkUXB3V3R2ZEdHRmJzRTE4VTFEcEdVaVlJYXBVZllid2NPMzdpQVlfTzFYblkwS29wY2tDczdFQjRXR1VNNW04MUZEMnMxYmhZMF9FSk9Ec0xPOFh6OG9uNXZEQTlGT243bm56UUZjWTY2Y3paUVJFNlBSV2ZiZ1NjTGVGaVgtT2RkWmxDMzNLeXU4LUFVZHc0NEI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dividend Assets Capital LLC Trims Stock Position in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbG14TWhzZE9ZaHplZk1GNkt1YUxmQmNWYzUtYUJOZ3FjUWNmeE1KVElUeTNYR2hodnRMZDFCbkJTZzlBYTlEeFVGVVlxWkVkR3FmemZoYXRHeDF6cUp1Nkl1WmV5SWdkUnkwdXlqWDhScFI0MGx0c1o1enFJNVpPNUtiM0xDUVUzYUdkbHF3T000b21GUFJoSjBiV0ZFSTZLY1dQTTIyb0RxeWRvUjFZQ3lqZUY4bF80NUdwRDdwMVFiNTM4UEJPZmcwcFJ3aGlxSFRv?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Fifth Third Wealth Advisors LLC Sells 2,408 Shares of Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEFLMTFRV1czNnVTZHprMVdKdVFNNHFZTW95TWQ3TlNGUEE2cDRRaUl4TlNJU2FXbUw0eUhHdUU0OURqemhpMkphTzVxTHhFeWFuOWR5TjU0WXJFcUk3OUI4UktkRWM4YnBvMUtCOXVoc1pTRUtab1NFWGVYTkMyaW16aU5jNi1ILTFEdHF4MU9HdjNYQURDejlTZ04yODNINnJXenlWaHZacHVkMFdpcnBRZElfTnFibW1MSTFiNHR1cDE0cEhVRGd3MkI0eUwyWG92OUpYeWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "111 Capital Makes New $557,000 Investment in Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUowQ0pua2NWYjhnd3pCbUIzN2lCcjRWUlBJWV9mYzQ1VUE4T3BGWjZCaERwRG0zZ0kzZ2J0NnhkZEd4blFnMzNEZGJMZ19IOWR6QWh0UTJwNlFncG1VbzhlRVpwVnBxbmloQUJkZlR5UnJBVXJQOTV0QjM3bEpOUFBvWlZNTjRFLU8wZWpfcnNyaG5od1dzTjFsa0I3SjRuT0JxOU5yaTl2dnJTWTd2VmVuTVdrc0VjU3c?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

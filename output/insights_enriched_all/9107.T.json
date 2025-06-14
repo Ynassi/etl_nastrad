@@ -2,16 +2,16 @@
   "ticker": "9107.T",
   "name": "Kawasaki Kisen Kaisha",
   "sector": "Consumer Discretionary",
-  "market_cap": 1302798794752.0,
+  "market_cap": 1305641222144.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.4823313,
-    "PB": 0.79032654,
-    "EV_Revenue": 1.405,
+    "PE": 4.4928923,
+    "PB": 0.79205084,
+    "EV_Revenue": 1.407,
     "ROE": 0.18631001,
     "ProfitMargin": 0.29141,
     "GrossMargin": 0.17391,
-    "DividendYield": 5.82,
+    "DividendYield": 5.83,
     "DebtEquity": 20.559,
     "CurrentRatio": 1.963,
     "QuickRatio": 1.545,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.020424279484459257,
     "ROA": 0.029760001,
     "PEG": null,
-    "EV_EBITDA": 9.684,
+    "EV_EBITDA": 9.703,
     "BuybackYield": null,
-    "PriceToFCF": -60.86849167844233
+    "PriceToFCF": -61.0012936650219
   },
   "technical_indicators": {
-    "RSI_14": 46.13959338353373,
-    "Momentum_10": -5.128794848206072,
-    "MACD": 33.02427214572572,
-    "BB_Percent": 0.095598907552808,
+    "RSI_14": 47.458527609097935,
+    "Momentum_10": -5.052824988516306,
+    "MACD": 6.283770252462091,
+    "BB_Percent": 0.2081945686934744,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9357116798113284,
+    "ValueScore": 0.8956656510331613,
     "QualityScore": 0.311479056204717,
-    "SignalScore": 0.6479944550449463
+    "SignalScore": 0.6204659875739458
   },
-  "volatility": 0.0234768213144515,
+  "volatility": 0.0234174711994838,
   "beta": 1.31,
-  "return_6m": 0.0274871669005614,
+  "return_6m": 0.002643618172148,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 2075.0
+    "target_mean_price": 2065.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2054.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2062.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2087.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2068.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2079.5
-      },
       {
         "date": "2024-12-13",
         "price": 2110.0
@@ -525,32 +505,57 @@
       {
         "date": "2025-06-06",
         "price": 2062.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2050.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2068.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2060.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2057.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2067.0
       }
     ],
     "current_price_data": {
-      "price": 2062.5,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 2067.0,
+      "change": 9.5,
+      "percent_change": 0.46
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière la baisse significative de la valeur boursière de Tesla, malgré les efforts de Musk pour la maintenir. Parallèlement, le marché mondial des transporteurs automobiles fait parler de lui, avec des acteurs clés tels que K Line, NYK Line, MOL et Hyundai Glovis. En outre, le classement des 20 plus grandes compagnies maritimes souligne l'importance de suivre de près l'évolution de ce secteur pour les investisseurs. Ces tendances pourraient influencer le sentiment de marché envers les entreprises du domaine de l'automobile et de la logistique.",
+    "summary": "Après avoir analysé les actualités récentes, voici les tendances clés pour les investisseurs francophones : \n- Le directeur Shawn Beber a récemment vendu 9 107 actions de la Banque Canadienne Impériale de Commerce (TSE:CM), ce qui pourrait susciter des interrogations quant à la confiance des initiés.\n- Elon Musk se retrouve face à une chute de 660 milliards de dollars de la valeur boursière de Tesla, soulignant les défis auxquels la société est confrontée malgré sa notoriété.\n- Les classements des 15 et 20 plus grandes entreprises de transport maritime au monde offrent un aperçu du secteur, mettant en lumière les acteurs clés et la compétition intense dans ce domaine. Ces informations peuvent influencer la perception des investisseurs sur les opportunités et les risques dans le secteur du transport maritime.",
     "sentiment_score": null,
-    "label": "NEUTRAL",
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Shawn Beber Sells 9,107 Shares of Canadian Imperial Bank of Commerce (TSE:CM) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQalNHVnlKZWtyS3JSR1M4Sm1GYUpwdHEzSTU0b256N21xcDR2T2tsUzdnUWMzbmV0V1NRY3VhTFZGck1meHFzVE5ZTkgxUWdUaFJ2cFpER2ZYSkZJbXJTcmhlR25UWXQ1aS0yR01oTV9oSXNGdHMyZGRubENpY2I4SnNITHVESUdrbktRRG5nc3AyU1VSUkQwTUoySDZLdXR2eGZyM2J5NzZ4d2RxbzBrVmw5MWsxNllUNWhJUWh0bnhJSGwwMEwyTDd3T2poUlk?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Musk can’t dodge Tesla’s $660 billion slump - The Philadelphia Tribune",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkVmTFJtOUdDNVpGRGhIZHpDdXlJQy1YODVTQmVqZTR5ZlJQV2l5RFVLZXJuRnhGYlAwWWRZRHBmOGt2NjZKVEE3NS0xOEdoVlEzWWJaS2M5elZTZzU0RERxclpkS2Q5Uk9uYVNfOEVNUU1FakNuWjJPdW9QRklJWGhOVGVneUlRQnRSaTgzY0xPcmpfbUM3dXJXRFdNMVE5TTNwVHFOWWNURDEwSk0tY1BROG15aDdmR1I4RjAtTzhlR1pIdEVsR0tR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Global Car Carrier Market Insights & Forecasts Report 2023-2027 Featuring Leading Players - K Line, NYK Line, MOL, Grimaldi, Wallenius Wilhelmsen ASA's, and Hyundai Glovis - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWZHekVKRFg1ZkJ3Ri1JTjR1OVZNZ0FqaWJ0VTB5ZEJONm9jT0tCX2E4SHVnZmx4SGF3VER4dG9qTXBCOFZaem5GQkZuY1VFVUVkV1VKZFdmVVZ0VXZRcHFUQnFBeFhJZFFiZEt5dU9NVENCWUZwZ054Qmtuci1Qb0N5b3dJWndNUGw0?oc=5",
+        "title": "15 Most Valuable Shipping Companies in The World - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjJFaFQzNDM3dUxhU0ZIc3htUGxsM1VVY205dGxrQ2dfVUdzUEcyUDZSbmNtMDZSd1Q3OEo0R082MkR0bGMxWVd0V0pndThEQlhDTHZBTFczVjhQYzZiOHJBUV9Yb3FaMm1oT0FDZ0ZrZmRNSnpvOFF2LVRFdHRaakROejNkUVc0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -560,5 +565,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

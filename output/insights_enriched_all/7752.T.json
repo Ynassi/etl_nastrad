@@ -2,16 +2,16 @@
   "ticker": "7752.T",
   "name": "Ricoh",
   "sector": "Information Technology",
-  "market_cap": 719657107456.0,
+  "market_cap": 727343366144.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 16.20305,
-    "PB": 0.69838,
-    "EV_Revenue": 0.422,
+    "PE": 16.357235,
+    "PB": 0.705839,
+    "EV_Revenue": 0.426,
     "ROE": 0.04348,
     "ProfitMargin": 0.01808,
     "GrossMargin": 0.34361,
-    "DividendYield": 3.1,
+    "DividendYield": 3.06,
     "DebtEquity": 48.942,
     "CurrentRatio": 1.411,
     "QuickRatio": 0.853,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.022372189656273793,
     "ROA": 0.01754,
     "PEG": null,
-    "EV_EBITDA": 5.968,
+    "EV_EBITDA": 6.011,
     "BuybackYield": null,
-    "PriceToFCF": 12.725104128952234
+    "PriceToFCF": 12.861013913144623
   },
   "technical_indicators": {
-    "RSI_14": 22.44314898516062,
-    "Momentum_10": -14.188730482009504,
-    "MACD": -62.498386471382446,
-    "BB_Percent": 0.1053443829907113,
+    "RSI_14": 31.910294337045997,
+    "Momentum_10": -5.405405405405405,
+    "MACD": -57.23771458630472,
+    "BB_Percent": 0.2176286959123506,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.934120056325604,
+    "ValueScore": 0.8968199437724447,
     "QualityScore": 0.4150105398191186,
-    "SignalScore": 0.8703265589399074
+    "SignalScore": 0.7099862152804786
   },
-  "volatility": 0.0218235063449945,
+  "volatility": 0.0221029474841275,
   "beta": 0.24,
-  "return_6m": -0.2694246815886791,
+  "return_6m": -0.2748811484743845,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1750.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1742.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1771.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1760.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1782.5
-      },
       {
         "date": "2024-12-13",
         "price": 1782.0
@@ -525,12 +505,50 @@
       {
         "date": "2025-06-06",
         "price": 1264.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1278.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1314.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1332.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1306.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1277.5
       }
     ],
     "current_price_data": {
-      "price": 1264.0,
-      "change": -25.5,
-      "percent_change": -1.98
+      "price": 1277.5,
+      "change": -28.5,
+      "percent_change": -2.18
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Désolé, mais je ne peux pas accéder à des articles spécifiques provenant de sources externes pour générer un résumé. Cependant, si vous avez d'autres titres d'actualités économiques concernant une entreprise cotée, je serais ravi de vous aider à les analyser et à en tirer des tendances clés.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Global warming impairs stock–recruitment dynamics of corals | Request PDF - researchgate.net",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGw0NUVOcFRYendSSjRKNWlCT2R2U3QyVjZvYVJUdzZwTWo2NWUwbTdYeG8zTjl3eURvbUZVbnB1T0piekhEWkxWazBIalFsVWJkdTJHd3NnSDhuQWRHOVJNUjVpU2FfU3pFSWFfMGZSMUo2cEZaMlc1VkhXRWl3azNLR05DeGtVaThfdXNzQkZjcGVaWnY1VzJnUkI2d3lnN0Z1TDM0Z0lnM0VhVVZN?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

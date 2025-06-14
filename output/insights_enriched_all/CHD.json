@@ -2,12 +2,12 @@
   "ticker": "CHD",
   "name": "Church & Dwight",
   "sector": "Consumer Staples",
-  "market_cap": 24372801536.0,
+  "market_cap": 24080963584.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 42.474247,
-    "PB": 5.3543797,
-    "EV_Revenue": 4.235,
+    "PE": 41.965668,
+    "PB": 5.2902665,
+    "EV_Revenue": 4.238,
     "ROE": 0.13354999,
     "ProfitMargin": 0.09516,
     "GrossMargin": 0.45507,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1258544788760475,
     "ROA": 0.08238,
     "PEG": null,
-    "EV_EBITDA": 18.829,
+    "EV_EBITDA": 18.845,
     "BuybackYield": null,
-    "PriceToFCF": 31.90109932912452
+    "PriceToFCF": 31.295115938383425
   },
   "technical_indicators": {
-    "RSI_14": 55.43919856907374,
-    "Momentum_10": 3.949167285354663,
-    "MACD": 0.3105590756081255,
-    "BB_Percent": 0.7612786077733041,
+    "RSI_14": 48.005638093360744,
+    "Momentum_10": -0.5594501434459689,
+    "MACD": 0.3478824288389575,
+    "BB_Percent": 0.4734582006471436,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.927727896934902,
+    "ValueScore": 0.8795445569895581,
     "QualityScore": 0.4161678714472734,
-    "SignalScore": 0.5254377596902191
+    "SignalScore": 0.5951548854488811
   },
-  "volatility": 0.0146523748707761,
+  "volatility": 0.0145869373868012,
   "beta": 0.515,
-  "return_6m": -0.0714253296263478,
+  "return_6m": -0.0689089959893158,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 21,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 105.89
-      },
-      {
-        "date": "2024-12-10",
-        "price": 107.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 105.58
-      },
-      {
-        "date": "2024-12-12",
-        "price": 105.41
-      },
-      {
-        "date": "2024-12-13",
-        "price": 105.64
-      },
       {
         "date": "2024-12-16",
         "price": 105.82
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 99.07
+      },
+      {
+        "date": "2025-06-09",
+        "price": 98.71
+      },
+      {
+        "date": "2025-06-10",
+        "price": 99.36
+      },
+      {
+        "date": "2025-06-11",
+        "price": 99.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 99.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 97.09
       }
     ],
     "current_price_data": {
-      "price": 99.07,
-      "change": 0.07,
-      "percent_change": 0.07
+      "price": 97.09,
+      "change": -1.99,
+      "percent_change": -2.01
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Church & Dwight Co. (CHD) a récemment attiré l'attention des investisseurs avec plusieurs évolutions positives. Des analystes ont revu à la hausse les objectifs de cours, tandis que des entités comme RBC Capital et Truist ont émis des recommandations d'achat. Les résultats du premier trimestre ont été solides, renforçant la confiance des investisseurs. Malgré des ventes d'actions par des cadres, des entités comme Vest Financial LLC et Unigestion Holding SA ont accru leurs positions dans l'entreprise, reflétant un intérêt constant des investisseurs institutionnels.",
-    "sentiment_score": 0.15,
+    "summary": "Suite à l'analyse des récentes actualités sur Church & Dwight Co., Inc. (CHD), on observe une tendance à la vente d'actions par plusieurs investisseurs institutionnels, notamment Dividend Assets Capital LLC, Tobam, Sky Investment Group LLC, Handelsbanken Fonder AB, Congress Asset Management Co., et d'autres. Cependant, des signaux positifs émergent avec des acquisitions d'actions par des entités telles que SG Americas Securities LLC, Simplicity Wealth LLC, et Gateway Investment Advisers LLC. Malgré cette volatilité, les fondamentaux de CHD semblent solides, incitant à se demander si le marché corrigera le prix des actions à la hausse à l'avenir. Ces mouvements pourraient indiquer une incertitude parmi les investisseurs quant à la direction future de l'entreprise, influençant potentiellement le sentiment de marché à court terme.",
+    "sentiment_score": -0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.0,
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Wealth Enhancement Advisory Services LLC Has $5.57 Million Stock Position in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeEM3bnRLWUxubTd0ajFsUXdjcHVjczVuc1ExOFFfb2xRdnNnVExVQk0tZ0JMM3pvRUdiUXR3SDlhcWJOeTRfaHVnNTJxRGNWVnBvQjdhb09QQjdobENVbWFFZFJBdUJOeXN3VVhmaTVOMDRiWXV0VFctM18zNEJoRjlSWVBnd0tJbGpsYmlaTl9wQUh5elo2QV90ZWVqalNQTVdIb0V1MkpNQlZFOXRILS1mSTktRWdKcFpHS202VFhIWjRnOUZQaHczbVhuWl9MdjZrV2gyaW9JWmoySVFqUThfU2otNHRRLTlF?oc=5",
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Shares Sold by Dividend Assets Capital LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbEZpLUotaUZaTHBVX1BINzVSMTYzNmtLNmFaRW5yOEU5VTFTZWhZdnVMVUF4WEtURTA5cnZrWVlkQ1daOU5pNVVFdlNxbk55RFJ5NjFIR1pnV3dtRUQwelI5cURkTDhHcDMtemFCUXJqd1VUUzV1SHlYSmtxdHdmSFctcmxxN2NsV2t2TlpOOU11YWJRRHdZVVhycktUZGVUeWdDZDNGN0s0aF9RYmpUc2ZBSk9ZY3VNYTJjdUdBaDRNWVc1NkJDNmFYcjZLZmhRSGZZSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Church & Dwight Co (CHD) Price Target Raised by Truist Securities | CHD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkhqNHRjV1FRb0dGLXZIRmR4WTlVNERPOVhqZzFGampsMlROUkE3VHV4OGtoeFRzT1VTZDhwZjY0UDY2bF9JWjNheDJtMFlHT3NaMGhMS1VwdTMzS2FaendGZWdOWkRmNXUyZDVrYzFoc09relJNQUExWDUyRkZieFlpNkVSVVIzVzQ4dXRjSTJjQUpyZlR3UV9TX3drQUdIX3JvY3ZCTS1QdW5Dd0F5YkpGcjZLQQ?oc=5",
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Shares Sold by Tobam - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0VlNV8ybHluOUhnd2ZzcVYtUmVBR3l5aVJUVnJxN2ZrLTU4MXlVMzVnaF90alVDdG5YZTBHTXlkQ0lqVTVDT05GWXpZd3lQZU5ObXpOTXZWOGMyTW9vVjhZWDY2ay1HVEpDQmh4T2J2S0E4RjBCNTBCMFQ4Yng1b0hmbnJUdFpoWU5NenlCRDAxTzl5UHJ2LXNDdXlSUEZCSW5WWXV2cnBBbnc2RGRN?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "RBC Capital Upgrades Church & Dwight Co. (CHD), Lifts PT - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNkJEZWNhRW5ORDVEd2VIYzUwbzZHd3I2UXhpaXJsZ2dka2hBekQ4Y3R6LUgzQXFsVlA4d3F5QVB2Tl9QZVE2ZGNiMVhVYmU0bHJPOGdoMHpaTGxBNUFQajFQVlZJTWR6dEdoX0wwYnhkeEVUZ2pqSDFLeDhtVlJtdkNzSjllX05EMlJGa0IxNm1UVld3aGhlOW9TYU43eS1uSF9TT3FnSTIyVV9Ga1Z1VG9fQXdkeFpqUm03bVN2Z21rbVJHcUI2V2R3R2NoNzB3cEd1Zi0xaG1zb3l0dWUxS0lVUnVfY3YtNnFzbzN4cDROd0RURjV6Q0E2WTJhWk92UWhRaGxLc21odFpZSnpyQ0s4XzNvR2ZyX3BGM2JROGFObU5IX3BraVpwZWhOTlFyWmJISDZ0dGktWHpD?oc=5",
+        "title": "Church & Dwight Reports First Quarter 2025 Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDFObUZJRE1hSFB6bmpVZnZaczN0YWoyM2Q2MkZHXzVtQmswMXRfUlVXTFFsMkVDcTRGLWlHTzJsdjM5NmFPYlAxZUI1QWxKYlpvc21NNUtGaHRDWlVWdGFicVVMeGM4aG5ocWtFWWRyU0VjYzlyRmNRZVNYVjk5TWg3NjFwVi0zbTRTcE51VW1uU0NVa0tzZlNB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Church & Dwight (CHD) Price Target Raised by Truist Analyst | CH - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEVfX0diSTMxTm5ESTc5WWdlVFM0N2FhdGN2OFFFX09RS3ctU05IZ0lacVBfanROWXRnZnY0VkdYNTNSNUV6cWN5b3dRMTZPUzhmcGhhdXJwRE5YZmZ1Uk10bmg4VFhXQ3FmbVF5T1YxZjN5UXNQem5WUE5tUnJKNkh4YU9NRUdWREpqWGFfbkowZ0xxZVE0VU9YNDR6Z0lUUXlMcWIzeDJWSVUtT0E?oc=5",
+        "title": "1 Safe-and-Steady Stock on Our Buy List and 2 to Ignore - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MblI4elFWY1JMX3JOZGhnaGhOVjdMSlEzZng3VzdiczhqaGdNV3hIeWhnaW5qMlN2blQtM2xNN3BleEVvSG5GT2FoUkV0Z2ViQk0zd1VqTkU1RzZTVTRXOXhFN2dxb2xNdmlpajc2TFp2XzhzRjQ3Tw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Church & Dwight Co., Inc. (NYSE:CHD) EVP Sells 11,875 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQURDUU82Rk1HLVdjeElVMTdxZVN2ZlZmTlBsSHFnRWlnbXV6cW82a3ZPQ2cwVFJXbm9UdFdSd3ZCdWdlLXhjTm9VSFpFZ2JCRnZoSzNEdkhJdXl0YS1xem9aZThEVDU3RVFRTmhvUGNidHlGVlFHckpkeDA3X2ZZaDN6U2dSWFkwUW1CcTFIbzBad1pDT0lrcVh5ekdlSkpuY0NMdnZmLWNFV1dkR3IybDdLN0ZWaWVoRmhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Truist Adjusts Price Target on Church & Dwight to $110 From $100, Maintains Buy Rating - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa3MtaVFkOUU2SDJLWjRIS1NPMVM1RVptclZxcmNGQXk5RDBNazNCeld1UDZhandyLXJ3TUVuVTZjMktiSzdSYzg5NzYyTl9iNnpjekhEUndBbmFWbjFzNlpZZ1FGeUwxMHNNbE84MTBzQ050Wm5nTm4wNGZyN2Y3YjBDcEpISlh2OVZYZUdTSGVRWVZuNUNxZV8xUjZ6RC1VT1FfRWtybUJlRmJCZ0swTzNYQXBqVVRnYmFxZnUzUjFsT0c0V204ZFZJQnl4M2hfLS1uX1loemxaMlRrT3RQTWpaYTBMaWx2M0hsN3Z2Sk5XUVg3MktGTlpB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Firing on All Cylinders: Church & Dwight (NYSE:CHD) Q1 Earnings Lead the Way - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFvVWhNX3FseW9zZVV4NDJNYWctRFlXX1o0R05IaHFabjVUeHo5cjZOOHdSRGY0QXBzX3dDSW9VX182UF9mbmh6VEU2YmlNemQyMUZ4VUJZdVJhdnMyM2JLQVNTdm1WT0dCQzZNaEVMR085ODE0U2dNbnA1LW4tR3VOU0xtY0ZU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Vest Financial LLC Has $56.81 Million Stock Holdings in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTVXWFRyODRSakIyTkd0TkxxbzFGTVJLbENSZGZUWVNKSTN3Mng3SGdKeThPdWYwUDY4TW9YQnkyS1RHV3dQTHJUWWkxbENXQU9SQzhSZGxXUDd3OUhmelV1czZlUnY5dkNoV2NwbzBzTWFfa1g3eF9iV29qaEl5QTZMNkppU3NaRC1UNmFBclBYWVlpdjJuWG9ZbXhwOE1sSHVuclNBazZnTzBBQnR3LTVGZUhPcmZDUEszdHhTdUgtaTZqSFNabkx5a2tRSGVQTV9OMUN4c003eXM?oc=5",
-        "label": "NEUTRAL"
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1RHakJRUnBaSjd6NEdseFI5UFNHSG03azlBTG9pOENXUVhxRW44bTkxTTNISzR2RVdlUnJLQVE4S25wajVyaWJWdmxJelNMYWtQbTh2bVhteXJQMUlQQlRRc3JtbjBUQkF4ZHY5NXFFNXdXV1k1MDFjMkFOcjRMRnJEVnV6OTJZVUU3amxERGU2cDFzYVRaVWRyM1hHYU03SXRDY2MwVmkxWVBEVTFGWkZ6RXhMd0tLeXpnN3duLWUyMFZCOFF4UWQ0bUvSAdIBQVVfeXFMT1BUUnM1c2RlS0pVejQ0RzJBR0RPVW9xcU5aYlNVLXFnY2Y3N0ZGSWQyQURwQ2FQcXpxTHY0TmJ0UXFaOXpuY2V4c2E1YXdtcjBDMExaTVNHNWlkZXlrYmsxamNoQlI4UGNfc1l6ekxMS3RsU0VzUWFxUU0zZVF0cWM0RVFkUXdYX3dMaUFnRXgyZHdJY1ZESEN0ZnBfazlNd1poaHdvbTlXNE1ENHhCZWUxdjAxbXlkVHg5M3ZpSm5BOGZsSjkyNWMyazdudmpyeWRB?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Church & Dwight (CHD) Upgraded to Outperform by RBC Capital | CHD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLXpXVlprWUE0WVppeE8tb2k3NUZaNnVJdC1KbkFubkpxUXN6Y2RXTTR5MWlieXpSTTN2U3Q4Y19LRHB5MEoydVZRczdpV1hOUnFka3cyTHczUHFzZUk3a2pBQ2VlQmVYT2NOQW10YzAzZmt0UFNtUVJqS2JzSzlUOFdGSDAyeUVxRkRBWG5kd2p2QWd5T1hyZ3JSWjVZajI1WXlGSXF1amVtbGFDbDRDUnQ1ajBxODVBNWxOV0ZmUDY0azBacnVlTWo3X1lMYWd3dUxQNnQtWlFKSzRBZGVpS0ctQ2tLVU1vWUljOFAxVFZsNEYyZ3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmdfTTc5UEp6RlBtbFpfSUdwVEJFX1lKMVFLeEtoMi1MY3hhaFNOb2ZPV2ZrNjI2cXIxNFhVZmFYTENKSngzcl9qWjhIN3NRUGIySlZ0N2tNLU9CVFIweHJhbXVwRTNqNWhrYUVzYzNyanpETlRYZ3FjRnFGeEtieHVTblo0RDVtdV8tR2h0dGRpdGdodG50ZTRITzVNSktBdjJyTmFsaUZSVmUyeEE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Church & Dwight (NYSE:CHD) Stock Rating Upgraded by Royal Bank of Canada - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGV6UUZQc3dxZV9uSHBlUGxwQ1ZNZG5oT3NTMjBqRm1PTlNOT085MU41WW9OS0MtVVdiS0xlWGxLZENBZTNDYjk3bzVoNHVsRVpFeTJXMXRPa2YwZ3FwUXlOQktsM2JQSWwyM185YXE4RUxYdmZQeXpGSFZpbXp3RnhiRzlwd0xyT0JTUEV4TTYydDVqTFhocENadFZxTEFJMERkWU1SdUhrUGMt?oc=5",
+        "title": "Church & Dwight Stock: Is Wall Street Bullish Or Bearish? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHVSakt2ejh6d0Q1Y2J3ajRCeldsWnNrb1pYTVhfQWNndVV0MVVBZ2tYSFJaTEttLTd6SUZ3STNWdUVwd0ZOZnc4S2I5U2poSlVyYjBvd1lJUXliMTRXUnBJZnlkTl9FVVJ2OTA1M1FoeERWNGVXSVFkNmxOdUFJT24xcFc5ZG4wVnlhZVdzMUtxaTkyeWVKUllsTU9BeWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "RBC Capital Upgrades Church & Dwight (CHD) with Raised Price Target | CHD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMERjRHVtalpHMkdoSGV0Wld0Y2JCQ080Q1pSbFJ6VzU4azBGbnplU1VnSmtHUDdaVndFSnB5NnZWRXM1SlI3UThnUnBOV2xRM0h4MjN5NTIwVUJiZDFIcTdvNXFicWpRUGJZVEVCb1RPYmhlT2o0TUpwdjBzOUp3ZGI3eGdlbFRuX1U4ajVDdlh4Z2RLTWxSS3g2YWVuSGV2U2VraHllTHRFUVdjZGltYnNKN0JrQkxH?oc=5",
+        "title": "Sky Investment Group LLC Trims Stock Holdings in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcndKbmJqQ3cxWGM0VHNsMWJaeWFMMUMzXzRMdVhaVXBQX0hNdjl4d0dsOHFJTHR2RkhuZFZzaU40N0NfZms0a1h1RkJXYmZZQXlvYXNIRFZ6TXdGQkZNcE90TVlBNV9zRi1QbVVQT2tPZTJ5NlFXaWF0SE9Pd1BVLUc2akZPYkk1eGxySVRFRWFiQWNlbm41UFpWMHhDVjZyS0NldVBLa3BUaDFkWHpjOUdvTE10Ul8yZEd5X0VSanVkQ3RZT0FxdkdvMlpPZVlSZUhjcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Church & Dwight (CHD) Price Target Raised by Truist Analyst | CHD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclltQ1pnNlpxdDlVMnZ5RW5wTF8yVGdITndJaGZvc0hQN0JJUEJodlJJblZCRVNpYXdEaDZtZ05PTDJYZGRLZGs4VWlybTVpS0dwQm1KQzFweDc0NWVsWFYzLWJkZ0tMdU9hSWp2eVJRTENVMDBjZlJHRHY2NXFYMjRtY24yV2JCUGFXTGxLbDA3bDJIQ1pid285SGV2RWM3bEg3QVBxMGtYX3FzWkRXNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Littlejohn Financial Services Inc. Purchases 4,688 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXp5SjN2anlFUGNPdVJjS3RpeEZ0M1NfbGNTVjNvWldhNWVZWlBmbmVxU0x1SEdxNEc2LWh1Zk1DNXZrZERkSDdwZi10QUpRSF9GUmU1aVdWaUpnWmxpUFFpTWlnNklLcmt2LUhRZDFLTC15OVM2cnZiWTRtMU1hbnRZVHZYc2pRYXhRVXZjRzhYNWFFNnZGMnBDbHUtaGlTYnI4eXl4c0lHX1Z6SUhKOEp0RzZZQnRiSy12T1R4TFZnaWMzcGxMZm1Mb0Q1T01hZEdZZg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Shares Acquired by SG Americas Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXRZWWNnb2h6RTlpU2FncUIxa1ZWZUVWcTVjNkl0M0Jybk5BNFZueVY3VEk2blFkSFI3VWYxZFBEaEFjM2pfZml2eVlxR05ROUhIeXdvaVpqa1VvTWR4Z1FZcUY5MG5ESFpFMG5Rb1BUaUFxd1hVUFJiVEJxaExTSU9sVGU3YVYyWXpCeDV3SkpXTGs5cVdOdHhUWEE5MmNmZ0dBZzN4cTdHNVBOb1FXRG9rMFJnUnFlaGtaWUo1QlB4RTFaUnNUazFiWkdIU3BP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simplicity Wealth LLC Makes New Investment in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHFyTVBoU3FxelZyMlNXQzIwRlJGQWVFeVdvWjBLTWlCRE1hTnh6a3h0OXFVVkdlZEdwSjJyR1Z1ZzR0ZVdWZjEtYTg4VmZRYmQxNjc2MlBtVko0TWJwcWhON0dWR2s0VWtDdTFicEp4a3BDbnYySHdVMDVOYkVNWUVlbzRoUGV4ZXNZUVZvQWwyYWR6R1BlN1NybW42S25xV3F4UU50Z0FSWk1wbVJJSjNoSXF3YXRyNF84R1ViVnI2QkVna19waFZMQ0hjRXBp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Northeast Investment Management Cuts Position in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0NBeEplcEVkaU1DRUlWLVViZVhIYWxTekF5QXhqaTZSTU1YR0Izclh1VFI0ZHpCMDc0cmhkT05BSnBRU0ZuLUZtR3VzSG9QTXFJQXBMaW0xRFhNRG9ELXpIVnJhUFpZWEluUGk3MHFmdURpWDlIVkNFUHBCWDhPRHY1cEprZXpnb0RrZDFFVkxWMXdfcUtXcXF1Q2tLMWhOUFBJejFVVWRFT2tsWGRDbXhBcERyZG9BajJnQ1NtRnVTejktMGp3R0RfVExzbVl0OGlrQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vest Financial LLC Cuts Stake in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTVXWFRyODRSakIyTkd0TkxxbzFGTVJLbENSZGZUWVNKSTN3Mng3SGdKeThPdWYwUDY4TW9YQnkyS1RHV3dQTHJUWWkxbENXQU9SQzhSZGxXUDd3OUhmelV1czZlUnY5dkNoV2NwbzBzTWFfa1g3eF9iV29qaEl5QTZMNkppU3NaRC1UNmFBclBYWVlpdjJuWG9ZbXhwOE1sSHVuclNBazZnTzBBQnR3LTVGZUhPcmZDUEszdHhTdUgtaTZqSFNabkx5a2tRSGVQTV9OMUN4c003eXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Congress Asset Management Co. Sells 993,670 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajJsMDY2UmlwRVUybWw4cmp1VWpCQnJKbWZXWHFubEdaQlJwZnpoTG1wckR2LTBWV1Y3eDFHYm1QX3RfeEZid0ZFaVJTNGdTZWw2bVQ2NGQwNDd0VU1HeUNKT1d3RTFRWEhtczdoRjRUa2NEcUp2ZW8wX1oxSTFsallCMmstdTFCYUJNX0xoMzNyNzgzd202dFczbnBkRTFqejJ6dWZyeVFDVFFsalFNYmQwWVFCeE51NWJUNzJrSkpSdGZjeTRHYjItNFlPSUpwUjRCVjNNa2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yousif Capital Management LLC Sells 3,484 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2lIUUNXRlo0S0dINHFoV3lTRXF0YUg1amlrSFVYdGdHRWlWbFAwODFBQ0szUVRRc1BYUGJJcFlDeEIwNHYwcDZ3VjdlYkU3WWh3dXhQTUxxbjRNVFQ3d1Jvckt2UHlLTjBJcTB3OVdHOWlGTU9BZDhGSEZmSFh0UmN2UlBnV3dHRnBKdzEtQUZfeFNtd0cteDc3UW5KbXRFb1BNZU5TeDlodkx2bnhTcGJWWWNOd1E3S0pNRzdobzlTcDIyTGNBcnJaSVVmOTcycTAwdDhYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Littlejohn Financial Services Inc. Has $2.42 Million Stock Holdings in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkNtWVZDOEN2TkdPb0gzNGFzekdpOGs0ZGRiSkU4OXR2VnI0aWNxRzY1OFRsX2lGV1RaaGhXdGJuTUwxTHp1RmNJeGV3d3ZaQXJLeDhSZjMyRklqR3d5bm1PbFhyYmQ4VWtEQVMzQ1NTN3QwNjZ2YmNBXzYteW5ZTVlJSE4zVWZtZXhZYmZPcUU1VGhELXRrRmlNcDVPQzNVREwtOVRYWTRxVi1DRFpnRWhLZWw4ZGRKUXl6YTdZWjdxek1jSTBKZHI5VUZRV0l5djZ1M1hwN1pkQ3pRNXpEQkx3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Church & Dwight Co., Inc. (NYSE:CHD) EVP Sells $294,150.00 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVVua1FZZ0lEelVIRmVwY1ZOcUlaaFdERzJ2QmZsV3hKWURsOERNR2V6aWdOdUZRSG5GVGI4cE40RXRBREN0WktzTmcyNG4zeHRzT2xpcFB0cnFLRzVOTXhBZGwxdTloUjNlZnBqYlR1UWNpTERLM3hLQmM0ZTFUOU1TRWZIMUlZR3dqM25yNkt4MmlKb1NrVHhjcHB2dU4xSmlyWS03dFB2aEx1cGJxUmc2UkhqZVpaQnJtbEFJTHk?oc=5",
+        "title": "Gateway Investment Advisers LLC Buys 4,698 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUndqeUxUR1BlLXZYaWxYRnJzS1RUN0JnTnlNV191aGhiOUcxWjBWQk9zV1lrV0ZwQU1ySjFwb2haX1pvc1FCZ0ZTTC1rNnZIZUJGT08yVlYyREY4VHZBMzJpZ1p5NlFKRVdneEpTd3czZGxqYjlwMW5sV0FGN1Judzg4VFNaZ2lCZk9kanZhRG5LQ2pjVHJzZjY3MmVvMDVqZTBHREU1ZEFqSEJSOWdsOE5LQklJbE9MTk1raW5xc2w5akU5M2tUeUQ1YkJJbklNTVRWaDhsamo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Raises Stock Position in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3l2LWhBN0pvcGlpalZIc1lyV0o3cVNBMVM2WUt2VG81VHg0MzFUXzVoc3lacC14R3llUmFNTW83eWtZcXBsazhwcXk2N3I3aWFHYXZiZ1ZKb1ZINndLckZFTWh1V0doUmg2VWFaM09jZGJtMDdxd3IwVmY5TFQ4Ymx3ZWMzVkxFMkVaZEkzYUFoVlcxSnB4Rld0eElEajdMUTZma1lqNUw2bThsa3M0cWhkZ0pOdTJ2X0dSQWZLSUsyb21HVmlwR2dRZTlQR0ZSZG5UeGhEQ2hoSFFwVmJV?oc=5",
-        "label": "POSITIVE"
+        "title": "Baldwin Wealth Partners LLC MA Cuts Holdings in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0EwNHFVRGtDYzVPTzlhU2Y1SlhibU9yTWZwb2JLcXlaak0tS2pFUDRpbGRYU3REdVlBTEJtRGptb1BlNVpYNV9wZnpXbGV3dFI0dnlXbzVhOWJ1RjFBeFprdlI5TGRXaWVjWWdPQ3FHNVVaNlVOMk1HeVFMY1FEOU9pb1h0T25yNFplX3kwemhQd1Zaek0wd1RQSFhhZHBsSE02dm93UUU5UXR1R1B6NE9NYWFFb3ZqUm9NVXk1Vy02c0tJWlB6UkFxcXY5eGVvTmhn?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Receives Consensus Rating of \"Hold\" from Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVnFSS01MR1dFdzB6dldlLV8xYzBuRGtaRm1sQ25qckZiVDZsUkxMcDRYajdiMVFiVGxmbkJ4UHNSb0dob2RmTkdPLU0ydHhpbnVCYl9OOVdyNUgtekpOVVhxVW5CUHl5VTJJYXJNVUdUV0gtMUV2c1ZtVlZka1VsWEJicGhWQmh5U0VERzhWTWNtTkJ3eHVLdlUzbEMyLWdqZUpwRjg0a1dYYzk1LUNwQ2h3dlBCaU5paW12ejRWVFNTak5fYy1QMl9B?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Unigestion Holding SA Has $11.05 Million Holdings in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZFNfNnFYLURvMDFIVU1YYXlzSWtOM1ZURlVKeG9nVGwyTjRDX215WVZKeXpmQm1xd2lqdHI2RXJwOXZySFlKUG5zR1NQOVVfVmFISDhMYlJnRWYwRUVFWnFyOUFMckFPOEI3MkFTM2JRU1U5ZUMwY041RzJUN1JCYkdHbklUT2FoVTRiSGZRV1Q0S00ydHktVUJFV1dwdkpTc0JlRzJYd2ppODR6ZmRieVN3aUFGUWJiZFlXa0dCVnpCN2pGS2RWc1YyMlBfa0pSdGRDOGhRTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Czech National Bank Acquires 3,374 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTVnNEVxUEI1cFk2S3VOZFRSakU2bV9xbVJkY2ZPUHB4NkM2dTlGMy1YalpBd184c2FwWXFDX2MwcmpraUliaFNkSVBWQlhXT0hEQmt5QjVJVXR3eVBUZHAxZGZKZzZRbm9qZmZoZlg1V1lsSExOcEpGcmFZZlBPSU1HVXdvb1FEaEVtY2NSRnVDZlBKRDFjRVlBQ2hmd1l4MUpCa2l4QmVRcUwzQkQ2TkxCTk82MDZvbzJ0cV9zVjBreW0tUEp1QTV1QUxjeFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bath Savings Trust Co Decreases Stake in Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlRXY3ItbzVrckZjNXFOMU5ST2JOZmExY2xBd0JMSHctYm1vSmhnT0p5a1VWZHR6eld2QklrM3psNmJwZGZzcXg3N0lvaHZDWEt1T0kwMFo4UDQ1M1hPOVRISVU4QmdxM2xQX0hrU19GejFIS09naTlFWGVIbFZkalhCLXNPeHR6SkZWcDRMQlBLZTRJMnFvazVtWFdLNXF1RW1ISGNWSG9DdTVHLUFDWWFMQmRMQzVYWnBFdjBTUGgtZDF5YU1JYU52NTMxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Thurston Springer Miller Herd & Titak Inc. Buys 8,225 Shares of Church & Dwight Co., Inc. (NYSE:CHD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSjdKblZWc01HaEpzeFFpT2txcjhDVmZOV2FHTzFvVV92NVMzaXpJTDBxNFFDc0l6ME5nWDBBZEV2aTc3N1VJX210RFgxVzhTX2dCRXVnNjBBUl91UG85Mk5zdkNuUjNxdzZBOG9YSU9XNE1XQTJvMl82b1BaM3hkbEczTVgtZVJHSXVSaEh6WmYzclg3SnZUbVdqMEVFTUduT2c5WjJ1b3RVZXlNaDZCM1ZoYkpmaTNodEc0MERLcXVwWWcydzl6aGlXQnNCZWw3UUM4c211Qzk2M0tmLXBNRkh6dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Director Ravichandra Krishnamu Saligram Sells 14,660 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzdOR0huUnNNNFp5aWNRRjZqSWhVX0lHMnJGczRYSGp6MzB4YUpuYTVXYkRMSUlMTlJ6dDBON0JFS3RmZlItYmljYXh0UlFmQWZCWFlBQ0tpSnE3M2xoaE53dk13cnIyNm16MVBUVm5qeGN4RVpqZ0h4XzhPR0JjdXU0WDRYWHg2OXBXQXIwdHpCVDFkVm1YWkdYc2tOeTEwSG55cVBCaWFwZmJkNEhoMF9KcEk2dDNwSFlwWXI4ZTdrWk5pWEFYSE5DM1NNOGVkd0FldU9iX0o?oc=5",
+        "title": "Church & Dwight Co., Inc. (NYSE:CHD) Shares Sold by First Hawaiian Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEJ5VTNNWWZva3FtTmZGZTBSVHJiTmNaRGN2RHdHUWZxVXh1a0Zvcnd6QS10YnRPcWNhR3cxeEl4R2xzSldueHhNblRZSkVSekVLUzBSMzZyenBsVWhrWld2S1hoQUhmTVh0cHlOTkNWak5RTjM0VXNlemwwQUxHelVxc1UwdU9jVzE3N01VMlBzUXpRbFhsUHR4a1pKZ3p2aU9aNVJEbmxvOUZSRlREUmNkSGFWS3gxZWtfdHZ6Q0FCMWRtazlVcEdwc0I?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

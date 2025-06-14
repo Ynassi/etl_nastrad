@@ -2,12 +2,12 @@
   "ticker": "ADT",
   "name": "ADT Inc.",
   "sector": "Industrials",
-  "market_cap": 7022501888.0,
+  "market_cap": 6788278784.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.915386,
-    "PB": 1.9405918,
-    "EV_Revenue": 2.955,
+    "PE": 12.484615,
+    "PB": 1.8758667,
+    "EV_Revenue": 2.952,
     "ROE": 0.16264999,
     "ProfitMargin": 0.11047,
     "GrossMargin": 0.82056,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1625121356875847,
     "ROA": 0.04816,
     "PEG": null,
-    "EV_EBITDA": 5.713,
+    "EV_EBITDA": 5.706,
     "BuybackYield": null,
-    "PriceToFCF": 8.714686112495164
+    "PriceToFCF": 8.388854313931189
   },
   "technical_indicators": {
-    "RSI_14": 52.95936775857454,
-    "Momentum_10": 3.0061454073734124,
-    "MACD": 0.0778839469733654,
-    "BB_Percent": 0.4834693756306895,
+    "RSI_14": 45.99064430330047,
+    "Momentum_10": -1.8069350718498591,
+    "MACD": 0.0157608408373839,
+    "BB_Percent": 0.1827677717227758,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332497477898948,
-    "QualityScore": 0.3776803719537123,
-    "SignalScore": 0.5189267182397364
+    "ValueScore": 0.8947929260903316,
+    "QualityScore": 0.386265693203309,
+    "SignalScore": 0.6040832664763303
   },
-  "volatility": 0.0191181507848927,
+  "volatility": 0.0192423905906566,
   "beta": 1.232,
-  "return_6m": 0.1314977956297696,
+  "return_6m": 0.143035340466048,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 7.4
-      },
-      {
-        "date": "2024-12-10",
-        "price": 7.33
-      },
-      {
-        "date": "2024-12-11",
-        "price": 7.4
-      },
-      {
-        "date": "2024-12-12",
-        "price": 7.26
-      },
-      {
-        "date": "2024-12-13",
-        "price": 7.2
-      },
       {
         "date": "2024-12-16",
         "price": 7.16
@@ -537,33 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 8.43
+      },
+      {
+        "date": "2025-06-09",
+        "price": 8.24
+      },
+      {
+        "date": "2025-06-10",
+        "price": 8.34
+      },
+      {
+        "date": "2025-06-11",
+        "price": 8.22
+      },
+      {
+        "date": "2025-06-12",
+        "price": 8.23
+      },
+      {
+        "date": "2025-06-13",
+        "price": 8.11
       }
     ],
     "current_price_data": {
-      "price": 8.43,
-      "change": 0.18,
-      "percent_change": 2.18
+      "price": 8.11,
+      "change": -0.12,
+      "percent_change": -1.46
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'analyse des récentes actualités concernant ADT Inc. (NYSE:ADT), on observe une dynamique contrastée. D'un côté, des signaux positifs émergent avec une augmentation du prix des actions atteignant un nouveau sommet annuel et une confiance accrue suite à des résultats solides au dernier trimestre. D'un autre côté, des éléments négatifs se dessinent avec une baisse de 3,7 % du cours de l'action et une augmentation significative des positions courtes en mai. L'activité des investisseurs est intense, marquée par des mouvements importants de détention et de cession de titres par diverses entités financières, reflétant une perception mitigée du potentiel de valeur de l'entreprise.",
-    "sentiment_score": 0.1,
+    "summary": "ADT Inc. (NYSE: ADT) a récemment annoncé une offre publique secondaire d'actions ordinaires, accompagnée d'un rachat d'actions en circulation. Malgré cette activité, des investisseurs importants comme Apollo ont vendu des actions, soulevant des interrogations sur la direction à prendre. Les résultats solides du premier trimestre 2025 ont renforcé la confiance en la croissance potentielle de l'entreprise, tandis que des investisseurs comme Merit Financial Group et Northern Trust Corp ont accru leurs positions. Cependant, la baisse récente du cours de l'action de 3,7 % soulève des questions sur la prochaine étape. ADT semble être un générateur de liquidités négligé, traduisant un potentiel d'appréciation intéressant pour les investisseurs.",
+    "sentiment_score": -0.05,
     "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $6.16 Million Stock Position in ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV3NOcmstYWE1TFB1cWVDQk1YRHBTZG13YmhSMGJ4dWJzZGZNSjJMMzM1ZGtIUk1DQk1ZZEg0U3d3SUgtTzdPUVRzUWxhbTNGVGMtamRJRkdaTVUwS040WE56STVMY0dKbjRIYmFyVU1yRzYtMldTYl9kb1pkVTV1TVI2V1F1aVZ1N3BOZ0lTV1Y1TzVYNTgyZThxOWVlM0Z3dTZncDJlR1ZKOVB1NWJzc25iRUppTzRrbTNsTm0ybEdNbmRGZXFJM2s2UDM1eTc3WWI4UHItbkl3aEFQR0IzbWpockdOVnpJdEk0bDIwVkQwQQ?oc=5",
+        "title": "Pallas Capital Advisors LLC Acquires 73,748 Shares of ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTl9VQ0hhWGJtZ3hvWWJ6WFE5RzFDenI0RWtWbk5ZSEJvYVJsSmI1OUhEVUxFaGptYVlYTmR3RnR0UU5JaXpKZXJkVjhEc1pEOWJTdndXc0hHakVYbHczMEZlVHlyMHNJZkRnM0dnWUl4SWxWZEIyeWhmV3p3b1otN21TYnJQVXhkT3kyamFpNXVSdFhLaUJLcV9hNmR6dzdGUUUtNlVIQVBBVVhlNGxxQ2JZSk9yUkVqaFUzd3BEMlZiZ3RXc1dDcGt3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Do Options Traders Know Something About ADT Stock We Don't? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmdiNXRMSUlPN0VhaW5ZbXFWTlN1WlJ2Z0x1akxObDNrSjRMWGFvTEx6VVBuRHYxaktnWWRObDBDbkc2am1GYjlmaElPNldvQWVaZlJiaGF4TG5sQkVkTjAteUlwS2hwdWtyTDZQNERHakx0Zl9NZGpYZ1dqRC1VOFFOeVVacDAxWjVOZXk1MXFPN1BnWkE?oc=5",
+        "title": "Do Options Traders Know Something About ADT Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3VtODR0R1RWWk1scVRjSHo4b09kZm9aNTdtUENBVHJTbjhRZ2J3bHdoei1OOTRXbDUxR1VRSl9WNXBOTVZIdHRtQldrWm1kSjBFTXhUbkZJY3pXaHhaczkxelBFcGJvSG9qZklodlAtQ0NnVEROSXRMbE1kUUxGUTJtTTdiMmc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Boca Raton man faces decades in prison for insider-trading scheme hatched at family party - The Palm Beach Post",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUF0blNuV094QkJmaVN4TGxBVFFqN0xPSGt0ZXN4QWw5QU1qVmVtSjk5OGRSWDMxOElpNTU2SkRjLWlSd0JKRFdkTnZxRVlRWDdyRFZ2RVJGYm1kcnlYc2JfZDl3S1Vjb2xySGV2YXlXLWNhZ05sanNRSTFDVTEzT2xtY2I2bXRyOEMtbk10YlhKbFQ3RlFabTVCenQyQjlCS0VYcUJUYW84NzhmX000TUw2dW1lakFKRzBRZnhyeHNKUF84WVZZaC1qQlRobDZJbHplWUFzMA?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "ADT Announces Pricing of Secondary Public Offering of Common Stock and Concurrent Share Repurchase - GlobeNewswire",
@@ -571,8 +576,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Marques Coleman Retires from ADT Board of Directors - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjYweUlUM3MzX2xranFEYkRadmNQS01HZWFtVnd2eVhYNGltMzVka1B0dEIwNmI0aU5zbVJZblNWa2c4VTBvTDlhREZ6LWZPb2JYTDBiLUFQSG5lNGs1c1ZSVDkxMzQ0blhadlFLaHJiQUkwNm5jU3k2aDQ5bGFrcE1XMDBBY1dkVXlNZ2lEQzBoSWUxdk1PbV9yV1k3YXJfajF2YThR?oc=5",
+        "title": "Apollo Cashing Out? ADT Buys Back 20M Shares While Major Investor Sells 70M - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkhzOURwaGZSX3BLNGk5cFowcmMydTZxaHluM3MyTFdmMXdVOFRGMW5NUzJsbWpfaFI5dS01TmJIZlBaSUFoTVc3MkdURVRleTJRUjdpVFdJYjR3eTQxM2FmWHRpMXpyc0hpN3hMTEJONnBoYl9IOWEzOFdNRmxqX1NzYTBOWDdFbC1TbHY5Q3FEbXRoUFRLNVg4VXZZLXY2WFcxNGF1aDRkRTJSd2FaQWt2eS1ybWNNTnVZcw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,13 +586,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "ADT (NYSE:ADT) Stock Price Down 3.7% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTk1T3hUUUtnb2I2M3lncEFaMFBJMmFBT0g2VXd2OTZERHV6cTUzVXh5TFBER3hSRmFrVWFlN25ZTno0VXNMbExXcTg2QzQyRlVfeEQ2NXQ5ekp2Nm95dE5DaHpvTklJeTdhbktiR00zaTVpQVV2WEdvNFcxTWYtM2k3Qmx5V0VmaDZnNEUtdklHTXJzOXktR25hQll6V00?oc=5",
-        "label": "NEGATIVE"
+        "title": "Merit Financial Group LLC Has $663,000 Stock Position in ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmRQdlBDNHJUOUZrRDlCaUNzdFY4TWlUUmQ2LXFsdklLcVZKYXJhemVveEZXSXJfcWluTHJjaGZwT0V6SmtubC1DLXprMXlrYjByNEpwejU1bUNXOUVMYWtISm9Sb2F5cXlKTEpacXozZEN4dTRsZDRGSlE3dUZRUVE5OTR6a0F1ZmtrUjZOVG1MMGRrY0U3azZSM3lxS3FZQjhpTllWaDNuR0JJaWhTUldtUzlDWFl0ZnRQSGZDMXdYZUQ2MElJOWl3?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Should Value Investors Buy ADT (ADT) Stock? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01OHpuN1JuLTR5eEozMTJidGZuUGlxWDVMWksybzZzODlTSXFpanR5d01UZ3E4QnhzWDFUWGNYbWFKeGpJUkwtaDhLbENsS0NFeHZaalpDeFM4XzRGV3RWVmRWNzNRc2dfekQ2OTNMSVhVMG9lWTN4ZGd1dnVUNzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo Selling 70M ADT Shares While Company Repurchases 20M: What's Behind This Dual Transaction? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZ0U0h2YjBzU3ZfNG1UM1lwZjRyZUNyMnNENDR5MkZQOTRSb29zRmpiSUE1X3k3cFFFT21LZERQd3VUakVMMUZ2TXF2b1pCajVrN1hiS2tWenFxZkItTV9rOTZEUVFnSFV5MFJJbkRTRlBMLTRjLXpUVGwwX3A2Q214TVBUZm90LXYzWmtNRVg3SUJpX1I5VVEtdVpSOGk1QzIyNmJTV04xOWF4WjRveTBwTzVUSjUtdnpv?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,53 +606,43 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas Financial Markets Lowers Stock Holdings in ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2pGZDdmek55TlJCd1p1YmxDOU81UXFNTWV4blo5QjRQODFpdy00TmZxMFl6YVpteVlpVXBqdm1Xa3NnRmdzTTA1U19SY0FUWURsTHlzbGJxUDJIdVRHT0RudC1Ddi1DLVlEUzFwd09BVC1JTmtpNHV4UjIwYXpCOEZSVHA3cHFXMlhjX0lQWTlGNjhqS3ZjVE0wVHBwYVJ3MDdmMkxweGZlbGJyZDJwT3dpN3NTOUVwN1ZTVmdsMTZoUElQZDgzdg?oc=5",
+        "title": "Millington Financial Advisors LLC Takes $342,000 Position in ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmhpYjhzSHNDZHpJMEZrR0Z6LVNPejJvUVd6OEc5WVFzS1I2OUxla2xBU3BrUTYyMVNPX044S1hIbUpvWFFTSExlQWxIVXF2SzhycTFJakQzSktYU1JBYktQODA4Ml9FR2NuVkQ2Q1ptSV9MWUM0Z1d4alJHU2ZYUThCOHE3ZDU2emhHNU1NcXc1Z0lHRkUxbUVrOUJobFNUQ3d4WnFsbWlUZE5GSjVSQ1JxOTgtVlhnWXR1NG1QRF9JdUdoVlBwUW1KY1VYcEdz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is ADT (ADT) Stock Undervalued Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlhNUkp6RWVlS3dBYnplMW5rVXRVdVFXV0NwZGYyZ280N21lNjhwOGdUSzdrSmMzb1BhTnFRUzN1dFVWME5CRGIyaTlsSDZjQklFS3BaenlSWHRLbUM0cWFPX1FBbmVLRGx1LWhRdWJzUDBpb2phRDdVSC1FZFllcQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADT Q1 2025 Earnings Preview: What Smart Money Is Watching - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3YteHlfZ2RKX2dYTnhteDllYUpBbnRNamFxZEZLY3RMaHl3SlNPVlFfeUpWcEkyTmctU09wajc5UGdDQVhES1ZMbS0tdEJIWFlzMTBzSjVjbDRzeTdrVVB1bjh2R21iUm4zNE15YWFRRUpRa3V4Q3ZHMWdqMTdNWHAzYmVqcUpCOURtZUtnd2xxTGdCV2oyUGFaZ2tOSnRRQmRhQ2gzNDhobjBiQW81VC1VV1hRdEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Raises Holdings in ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSnMzMGI1eGtKUDMyajJURFYzekFkXzgtbXRjZlMxVlRQWXpweFVPNTZfdUpYS0xkNGI1emJPcS1IdTdwdm54M0R0cHRzSzNOUmpfZVAzQ1JnWnVaYTBYYzB1aFg1MDM3TC0xeFdLX2s5OGgzME9VeXVTVFZYRnVXRlpya3dheFBRYWVlc0VweF81Q21BclFRY0lWZGhwdEZya3g2R3JsQXhwR0RwWTduNjZNYk9qWXRsQmJ6WXA1MC1UdU9BSjF5em11QUdjY3poelE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why ADT Inc. (ADT) Went Up on Thursday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HaFZLbUdNdGlOU2VXa0dQa2U4LXBCWE1uNzhwTDY1M3pLQi02UVpZd1V6U3c0TTdKSmtSNHctczhTRE94dUJYbG1iLTZ6QXV2UjhpZ2NaTkc1VTRMbEpHNjVhYll0SFBQdVZ0UTkwTEk2dTI0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Decreases Position in ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2M2WDBTSE8wTG50bEJtbTRqTm11YnB6YlY2RG1xSVFYVDk5UFVPZWRzTUItMHhYTkFVeGU5QXRaajhQbDg5YVVrVDFsLW5fTzgxRVFiUWNLRW1LVGpEVkE2UmpVOGR3ejNqNjNITkt4NGlwNXMwUHY0M054WGJjbGhLNHhiY2tmUzVlandyT09sWmZKdWJ1Y2FPeTh1c1JvVU9POTB3dEFyWkxYZDRfc2ZJQ1BuS2FCeTRMVjJwTEM5QQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is ADT (ADT) Stock Undervalued Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSEJuNkhDNWIwNlktek5ocnc1T0ZrbUVJQS1TMVhMSWFKdDlqdlFtRDJPeTl6cW5Gc243RzlodlhTWVdWcnZXWTByenlyaGhJSXJ1VThrX0p2TF91UGFCT2pxSGtIb245N1R6ZDhKZkx4bEJwYWc?oc=5",
-        "label": "NEUTRAL"
+        "title": "ADT (NYSE:ADT) Shares Down 3.7% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTk1T3hUUUtnb2I2M3lncEFaMFBJMmFBT0g2VXd2OTZERHV6cTUzVXh5TFBER3hSRmFrVWFlN25ZTno0VXNMbExXcTg2QzQyRlVfeEQ2NXQ5ekp2Nm95dE5DaHpvTklJeTdhbktiR00zaTVpQVV2WEdvNFcxTWYtM2k3Qmx5V0VmaDZnNEUtdklHTXJzOXktR25hQll6V00?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "ADT Inc. (NYSE:ADT) Short Interest Up 39.3% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcm9CQVBURUZsRkJpcDV5b1pRQnNsTE9rUDlWa2htYUNzOXFSNkhjUFNZUkthd2dGVU1GOGRaSlh0eE9DZFNOYlU2N0dZWjlfb3hENkxvVUdDdVN1WmhTQ3RIYThMWEtQRjNLLUlWZFRGOHJNTHdVZW9GaWhwcDJKSmU2SFg0dkdaR0pfTVZvNkdJc3JDNGZjUGMwSXB5b2J3V01Bc01zckE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ADT (NYSE:ADT) Hits New 12-Month High - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHVpcjVnbk9mQ2prT3piLVppWXpWN0g1Z3EtVUswWm11bzVpUlBsVnVyMnZSYmtmU24yZldBZm9pdlVlSlZYMFlQVUk4U0xseVB2QXo5MUZHTk1xdUtNZ2xSTy14UjdIMmtZLVBtUEFqRl90T3NlYk54Y1NKWURlNE41UFNHRzNESTh1cmdueEdmaU9ENW5nRkJ3eldRWjY0Vzh3eHcyNFRLNlE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ADT (NYSE:ADT) Sees Unusually-High Trading Volume - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVNfQS1iTjRkSGhRR0NfSzFlcWdrVXdYYURrdU9kZGhQS0ZTeERQcUNpZjI4YnRPYzV6YkhveE9QNWZzeVpJM29CVmczMVZvT1VMcU9kbTZKeG5GcjB2bUVQQXZYSzJnZF9nOWQ4WmVJRjZZV2I5LXJIQWxkVnpJWER5MkVXS1NncnhVRlFfOHF1c1dKUXV2LTUyYmpEWUtCRFIwQ0ZqMVRQSmx3QWxr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $1.65 Million in ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbTdLNGZzRUxXNGFxR2RSR2ZpSkhmMXcwMU92QkZ6MTBkeUg5dUxhQXBxOVN2RDVWalF5QXphOEhhTi1TeklWR3dSQTNpRk9zZ3FINXBJaU1NREY3c3BpNjQ4aTkwVW9aRGN1MmxTOEhOc09wQzNMcjFXcjZraW9aVlJTTERiVGdOVFh3ejVBN2JCVUlmaGpxMzdYZjlNUEhpbmxEbGJleVM2cC1GazRobnR2Vm5TWnM1RDJZeFlDaTYxUzBmRF9YSjgxbmVud21kVkZGMUlqOUZwV0NTTklTRExVaU9STmhkTHBZREZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Advisers LP Has $2.94 Million Stake in ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNazBnS1dEMXpVMkZQbl9TVjdybU1NNklzT1JiUmViYTNyS3FBSzlaeEhIdzZsU3hwSWlhdGlDSndyTmZPWlBCTjF3eXg3R3N4YTRyS1RRNlR4YmZLVGx0UHF5M1gzbTB1NVdBbko3eUJvNGNqTmktbjlBaVpFdE95NFFSbGx3QzcxVHNwbEt1bmRCZHV2amtSX2pmMDU0VmszX0NHOXEwbUtMaEZyU3hsZGtQWXVWVS1FWXFjMlhuRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ADT Inc. (NYSE:ADT) Shares Bought by Ameriprise Financial Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0tOV3ZaUXZOaHJHc2V1bFFCbGdnSUhQX2MyZEx2WUc4cE9PdE93d2NEeXhOemROMkRqcWhZNHgzXzYxaWViSklmcFNMdUp6Z245MmhObC1GSGtMQTVyaXNRUzkzRjJTbVZWZnBTemlGVE8yOE50b3Nfc0xRTy1RcXkzcGtWdElNZHBBdlNjYkNKdVhPbzVKclVrZ2w0OUR2QXRvWVRQbzNlSExreGdYWVVDc2ZtNDYzdHBn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Boosts Holdings in ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2FfV3FlSnFFWG9hU1FwRDB0eThwVjhudEpyOExKLTNWTUZYWnZYak1nNGI1cmFubTBUYjU3ZXN6akpJQm93Qk9PLUk0dS1weFNvdHk0Z1BYZlRiamVRT05zMFI2SjJYaW12MXUzS3FXaTVUQTI1OHNmbFd0NTBrcFVOdEJhUlhxTHdnbjlRb3FQVXhGSkFJY2FtTThRd1d4TkpjNHFXekJJNkhyVmlQbjRiNjNvVWhzV2p3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Redwood Investment Management LLC Sells 527,414 Shares of ADT Inc. (NYSE:ADT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3pjbGJpV2dMSXo2RlhEZWR4VFRReC0xc0hPSmRKdHI2UkhSaWtpV2I1VTBXZk05SU04WThDa3dBSnN6WnNGVGdQZTF5TXZYb0hqR05IUTJCTm1YS2x6bFk3MlBOeExyeFJ6YW5HcmxZaDVLOGsyR3dJSWp5NzRJaXNKVmw0Z29GT0pneE94MkxmX1RVTl9YN1ZISDhxdmhtUHNTR0k1MHR4WS1Tc0k1UDlEN1U5UjVY?oc=5",
+        "title": "Wedge Capital Management L L P NC Acquires 76,233 Shares of ADT Inc. (NYSE:ADT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUDZfUHdxZmREVjZydnh4cy04M0FXMGRuNWRWSVdlM0tFdVlnWm1LX1JjRUVjUmpXeEdxczZTOVRvcEVmTGltTHBIcXVhWlE3WlhCeW1GRndFallIYVZPMU5lWlRRSEE2RFByU1lCaGg4bXpQTEF1X0s3d3F2SDlfZkx2bDVGbVVwM2ViNWZZWXJHM1I4VEZtRkZrOUwzcWJOQ0FTSE9CV2ItNUpyTjhJSFk3dDFqekE5VW9TVU1EcTdwcTRDV3dIX1dNMUdFOFZXT1V5dg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why ADT Inc. (ADT) Went Up on Thursday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HaFZLbUdNdGlOU2VXa0dQa2U4LXBCWE1uNzhwTDY1M3pLQi02UVpZd1V6U3c0TTdKSmtSNHctczhTRE94dUJYbG1iLTZ6QXV2UjhpZ2NaTkc1VTRMbEpHNjVhYll0SFBQdVZ0UTkwTEk2dTI0?oc=5",
+        "title": "ADT Inc.: An Overlooked Cash Generator Trading At An Attractive Price - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHd2azFhemItd0VUUmdiZURDQjJsS0oybm9qM1ZfajU2MThqdGxzNl9QZ25KNEwwMElES083NVBDU1BDVzhtdDZ6RWJBZDJ3djhITHM3SHVXMjVBdGsxeDIzTWpPZmlvOVBfYUFEbXdHQXFkdGwtQ190WjdxSWVlRGdvbUlnNnYwSlVKZGtGcmV6UzJjSWVjT2pCVFQxRzZWY2ZLVmpMbw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

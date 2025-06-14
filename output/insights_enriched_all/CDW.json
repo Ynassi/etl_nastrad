@@ -2,16 +2,16 @@
   "ticker": "CDW",
   "name": "CDW Corporation",
   "sector": "Information Technology",
-  "market_cap": 23495237632.0,
+  "market_cap": 22484553728.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.109047,
-    "PB": 10.115086,
-    "EV_Revenue": 1.351,
+    "PE": 21.157993,
+    "PB": 9.679971,
+    "EV_Revenue": 1.344,
     "ROE": 0.48707,
     "ProfitMargin": 0.05095,
     "GrossMargin": 0.21858999,
-    "DividendYield": 1.42,
+    "DividendYield": 1.43,
     "DebtEquity": 272.795,
     "CurrentRatio": 1.323,
     "QuickRatio": 1.152,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.044901315189242,
     "ROA": 0.07545,
     "PEG": null,
-    "EV_EBITDA": 14.505,
+    "EV_EBITDA": 14.433,
     "BuybackYield": null,
-    "PriceToFCF": 24.518212821749515
+    "PriceToFCF": 23.43725423304669
   },
   "technical_indicators": {
-    "RSI_14": 52.06903929832509,
-    "Momentum_10": -2.3446710336918195,
-    "MACD": 2.142776039764726,
-    "BB_Percent": 0.258088681217644,
+    "RSI_14": 41.53551121018574,
+    "Momentum_10": -5.278334575429441,
+    "MACD": 0.2611496519850504,
+    "BB_Percent": 0.0019421466113158,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.928788248847226,
+    "ValueScore": 0.8890961493397114,
     "QualityScore": 0.3309358636176888,
-    "SignalScore": 0.5985946752550535
+    "SignalScore": 0.6509437328480727
   },
-  "volatility": 0.0223146626799983,
+  "volatility": 0.0223529785176677,
   "beta": 0.943,
-  "return_6m": -0.0023795257380817,
+  "return_6m": -0.0236317134925015,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 182.46
-      },
-      {
-        "date": "2024-12-10",
-        "price": 179.01
-      },
-      {
-        "date": "2024-12-11",
-        "price": 178.25
-      },
-      {
-        "date": "2024-12-12",
-        "price": 178.05
-      },
-      {
-        "date": "2024-12-13",
-        "price": 176.06
-      },
       {
         "date": "2024-12-16",
         "price": 177.79
@@ -537,32 +517,102 @@
       {
         "date": "2025-06-06",
         "price": 178.24
+      },
+      {
+        "date": "2025-06-09",
+        "price": 177.43
+      },
+      {
+        "date": "2025-06-10",
+        "price": 178.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 175.75
+      },
+      {
+        "date": "2025-06-12",
+        "price": 174.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 170.42
       }
     ],
     "current_price_data": {
-      "price": 178.24,
-      "change": 2.41,
-      "percent_change": 1.37
+      "price": 170.42,
+      "change": -4.33,
+      "percent_change": -2.48
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente entourant CDW Co. montre une forte activité d'achats et de ventes d'actions de la part d'investisseurs institutionnels tels que Chesley Taft & Associates LLC, Rhumbline Advisers et California State Teachers Retirement System. Malgré des performances solides au premier trimestre, certains analystes restent prudents quant à l'achat d'actions CDW, mettant en garde contre une acquisition prématurée. Le gouvernement américain examine les contrats technologiques, ce qui a entraîné une baisse des actions de CDW et de Dell, soulignant l'importance de surveiller de près l'évolution de la situation pour les investisseurs.",
-    "sentiment_score": 0.05,
+    "summary": "Le titre CDW Corporation (NASDAQ:CDW) a récemment attiré l'attention des investisseurs avec des avis divergents sur sa valeur. Alors que certains considèrent CDW comme une valeur solide, d'autres recommandent d'attendre avant d'acheter. L'entreprise a dépassé les attentes au premier trimestre grâce à de solides ventes de PC, mais elle a également été affectée par la réduction des dépenses gouvernementales en technologie. Les mouvements importants des actionnaires institutionnels et des options traders suggèrent une incertitude quant à la direction future de l'action. Il est crucial de surveiller de près les prochaines mises à jour financières pour évaluer l'évolution de la situation.",
+    "sentiment_score": -0.05,
     "label": "NEGATIVE",
-    "positive_ratio": 0.15,
+    "positive_ratio": 0.1,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Dell, CDW Stocks Drop After White House Targets Tech Contractors for Savings - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQbEVVbm5sVmQ4NExmUW1xaVNuRG1QdHRydTBCR1V1alY4blFESWRGVzdRM0QtenpnN1pkaG1wSUhGbjJoQ1FINElnTUhQQUtld2J3QlAzajZWazlpS0UxWEh5d1Z2SjhuM2xpYVdEZzB5MVBkY2pmQk1rLUp4dEpPTE5QY2U3X05xelVxUEJna0g5OFVMMFJZYnRfS0dwMXo1Szd1WHlwa3NuWl90SlBmSmpEcktxU0NaVHRDeDNGNmQ1V2lxU0o3R0pyWmpUaDhpZzlla0xTRFZVdTB3MnlBRWI3TjBwalA0ZDlSaXltU3VyMUdJV3NrNXJjQkxKbUJwdlFVQUJqSnVMOU5oU1BrRTQ2R1FBMXUyX3hEMWtDSENOMFJKajFjLUhxY0JqaTZhcEVfVWVZVV9fV2gxV3BzOGpiYWhocF8xdlBkMW1jOEFoaFIwVkFQV2VyMFByZVR3YmpXNjZJem9RSHVtWk5wWEhLWnNQamRJNXR3X21KWkpVYjY4RGxaRzd0dzE1bFh5LWFvYmlYeXptaGliTjJNaGdQQkVWcFNsZTBYdWJzRXRKLWNpTzRmcFg2RVE2Z29XNTlCbDJDWmQ1Z2NPYVFXYW5HazNZUnRVM2JIMGRkTnJ2YzNJM3FGeU84UTdxWk5fa2VMa1dzZzFBTUE3enRBQzlTMG40QkVZLTZrMGJ4Qll4dHBISE82VzdSRDI?oc=5",
+        "title": "Tounjian Advisory Partners LLC Acquires New Holdings in CDW Co. (NASDAQ:CDW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTC1yejdYUG8xWFFERU1CejZwLW5oRmRwb2llUEpGdnJhelpVY1FtZ0c5amw0MFBxT2pmazFhaEppeWl5eVFOR2hBY1pkZk1wNzQyM0JYU2ZreFRuNUV3RkpZanIwNUNPWGR4SXBLa0ZuclBTTG1OQUZtUzlPYkdIb09RNy1yNHlXbDZmQ2U4eFRjckRoUHNzWFROLUpucGg3a0JBYnpiTG16dlI4Z3pMc0N5clRMTk54MVVNOFdLRVo4d1Q4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is CDW Corporation Underperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjdobC01QjI2RWN5dVJha0k3ZTZnOFpxYm8yZV9FT3VIaERKcTFOOU5TQjBCeDhxcGlVemxtYnZPbGpNOXdFSVRzdUVRS0Y0UUxYVGhtcGNyUHYxLU9CNGlBRkt2ZmVhRVdjV2RKaFJManQtcjh1d05pZHpENklyTDZLbTlLQjRIT1o3TjlzZmpnSm1FUTUxMVNTcDNmV25WR0g4emN5WHloc1RFSWo3d2dJUnRINnNUTzk3eUtRVXRCRktG?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Chesley Taft & Associates LLC Purchases 1,945 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlpsWmgwOHVydDNSOFE0ZTFsSVV6b3BIN0tvWHhVZVF3cGVBNjdJZl9Bd3FZN21yT2Vvajh6aFhNRFE2M2xlMVBLM2FXek1WSXNVOU1MY0xha1FRejRpMXF3RWNweUR6WFF4NFN4MWpOZ1JrWWpzOHRDTTR4YUJPZkpRV1BQYnlJVkhRMVpGOGpoR3czNlJreFNWeTRRdzVfNW52a2M5VUFVZGlhUVF2MWVJaTN3Umdpb3FHV2xkQ21XUHoxbUl0T1h3?oc=5",
+        "title": "Here's Why CDW (CDW) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIM0hmQTl4eldBWnJIYVN1QnNCX2VIcmR0RUlqVEpmZGhrNVl0Y3RrS21QeVA5QXhkTjlPXzhQOTZhRUJQRk9pMDdkRS1VWWFoa0MxTkE4MGdPWnNOSURBLVVqX21ycTJ2UzZIMFJEM1FmMGRlQnlCbVNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (CDW) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTBsM1dDSnlLd0xTMnptbzNVcVpsS1E0clNvRGMteHUxVFAwSWI2OFl1a01DTUtCTGlQLXU2YUJMYTNERkNVcHVBQjRvS0thbHRZREVmUDN2d0lpMkJHNjV4NjM4cWVDWkRzcS1wWXYwejFla1dyQUo3MGE5blBuWmVBd0RQS3NEZjVMMzQ5OF82aTRveTlZZ290Z2JSV1lYRHhwMFZMS0hjQkxjNXE4ZkdXYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is CDW Corporation Underperforming The S&P 500? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakVYYVh5OFg5U3ZzS0k5REk0R0ZCaGJBYzZ6VV93UXdad1dNcEZuck83dHF1dldhMGZxNjFybWhZSk9JZFFKZy0zNDM0QzR6cU9OZ0RKd01qX3lUUFhOanF4bU5jdlJFQmtzcE1obnJCX3VvM3h3bldqYVBCejZ5T211bXB2SkpESVNUcmpwZHVvY3pJMXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why CDW (CDW) is a Strong Value Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YeHMyMi1sWHEzRmpGYUwxZ0xlY0FoRHZlaUtoYlZLT2w1VVpDTzB5SGdxaEtjRjduN2tlQlpSOUV1S3JpTFFENmNqRVd4Z3d1YzN4VVBxU1VNR0E5OUJtMkpPTlpkQWM3MkpnXzJMT0RkNE1WUjVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CDW Stock Isn’t A Buy Yet - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVZkODJOSnF0N0hQRUlKYkJ2X3lSQmNFc2FkOFBHdkhzekQ2bExaa3JhRjVDU25weUdvU0NXbW1rOGQ4dmNXN0xiZnAzOUxJZVlOeVRHalpCWk5aUmVTSDBKa0pHaF9ScEFZWkV6SXp6TjhqT2hrM0pVSGhjTEQ2QVpmMzNaRFpPY05N?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell, CDW Stocks Drop After White House Targets Tech Contractors for Savings - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQMzh1Yk0yZE9VWVI5TVJuWmNPUjNVVVQ1WDQ1YjdBWGdVTWJPaUFnYnlkRDB1WlBsYXBMR3p1dGFmWExBNE9RSkF1M0Z5UW5EdWk2ZG43dzVUcFZKRXdkX2g5QVFGcVJFTFlhWklzZGdoVlBCSHM3SDFSM1ZYRjV3ZjJJVTROQTFON2RkdHJLZEhHZHQ5VW1PZkdjQmFaUm5KX3lYR3ZUaFlTOE10NmdhR1llN2xMTmZSemRVZEs4SlgwNktBYkF0NmRsRlBSVGFnOHZTMjVYTUNwYi02UkE5ZmlwMzdodVdFVVpVZXFPYUI5SHJUemVtYmQ3Q1ROM0c2X3BzdzlseUh1OWhrYWtCZGY4aF9xMHFqbmJHVUkwUHlzZDZLRGpQUHFQZ2Y0dUM3bG9kdFoyYVFUSUk2S2g1cEtOVUFDTUV3Snh3WHY3RTd1d3ZYNjRsdkFJdFJfeGlTVXJCWndTV0tVbmRXNTdGb2RBTGoyeld1bVo2X2pfS0xld2drV3hmYVFZeWxvczBSdXE1YkRBTWhTUnZaSG53OXBJb1VkTnJXOFBkVjZNbzZRTHJYOHlzc0paVE81NG9VMnNRdlZ4RzRBNU1xNmplVUwzSEtCaUl4YVNYMDNyU3dRQm1acURha2c1eWM5N0FVenhNRkJrcHF2djJKUXp0YTN2dGYyYmtkaVBOQkFPd0lfcXBNT2hEQnBleDc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tech Reseller CDW Tops Q1 Targets On Strong PC Sales - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6czlvV3EtMlN0T1JIcTZWenBsZFJVblVlamNJODc2Zkh3YkVMRG1FOHUxU20zcjJRb3NGc3FRUUxmYlNlYXJzZTJDTXdxajRQVG1xQ1d2Q0lNOXBVbnYzV0NvNU9HdmY5ME5RS1NONzFRWlE3UDZQeg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CDW Sets Q1 2025 Earnings Date: Key Financial Updates Coming May 7 - What to Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEVlMlRRX1dBck5WakQ2T0dLaHd6SE54dWdabzBBQ3JkV2xna0xPQ2gxQzFodnNVQkhXa0Nrdy1xN0E1M2l6WTFsTkgxeFh4RWZXWjRPY2xrQ19CUmxsbFpvSDFULU8yZjBfREJFYVBjNWljaThZbURUemx0MmtQbWRZa1RXWDJLS0FKLVhjLTVLbGFfWEI2SmNmU0lUNThPSVBPaUJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cardinal Capital Management Inc. Acquires 27,545 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNm1XYWo0X3A4YXh6cTJtTEpXN0tydmRTM2JFcV9JZmo0UXIweFhMQ2cwaTF0clBCeUowb1FpbnFzemJFMHptc2VRdmpVeldRcE1XUnNrOGFZT1FSMjBHNmY0bFVfeTdmMnhMNVg0NmVRUEhDbXlQV3RoMC1WTklYRVExVGNPSzlFbWhuOTRELTJIUEg2d1BxOWxVSWczTTVKdXB0dmZ4TlhFNUJNbTJET2tBcmNRYWVFU3h4a1FZazNQYUNhZU8weVhWUDhlUlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in CDW Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFJ2Z0Mwd0h2cHhYNEhSOGtTY01NNU5MSl8xcEVnY2d6YXdBRU1DX2VYeWdJVXlmYnd1VUlPTGVEMlJ5elZSQ1IzNThxTWNIT3hWeWNFYXg2UU9fZkRJRjNjZHhaLUtVcjFmamNZUE1VTkxrNmdBSXdjXzlmZmdBZ1pBS2w?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,91 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Tech Reseller CDW Tops Q1 Targets On Strong PC Sales - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6czlvV3EtMlN0T1JIcTZWenBsZFJVblVlamNJODc2Zkh3YkVMRG1FOHUxU20zcjJRb3NGc3FRUUxmYlNlYXJzZTJDTXdxajRQVG1xQ1d2Q0lNOXBVbnYzV0NvNU9HdmY5ME5RS1NONzFRWlE3UDZQeg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "CDW Stock Isn’t A Buy Yet - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVZkODJOSnF0N0hQRUlKYkJ2X3lSQmNFc2FkOFBHdkhzekQ2bExaa3JhRjVDU25weUdvU0NXbW1rOGQ4dmNXN0xiZnAzOUxJZVlOeVRHalpCWk5aUmVTSDBKa0pHaF9ScEFZWkV6SXp6TjhqT2hrM0pVSGhjTEQ2QVpmMzNaRFpPY05N?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dell Stock Falls As Trump Administration Expands Spending Review To Tech Contracts - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVRINllzMW1iZHkySlV6TlRVdnI1VmhGMEMxOGxCRnRTVVJSTGZnRGtmdjlwdXd1Rkp3ZkozdmNlVVg3dkxhUEg4THRhRVNZT085Nlk1cVpGZnU3VnhQQUlRQ2lweElXZnlxUURyN2xXS1dsZjJyUGZCMUd6eFpKMjA5YUpnOWc1V3NlSDZXdFhhMlBtazZ3dmw4Z2xkNG5OV0JjVXZKWFlnSU42LXozanJVQXp6TlRENk9RTS1GUnU3ZWlIWkdVUVJEYXEyZUl2c1IzNGd6TQ?oc=5",
+        "title": "Are Wall Street Analysts Predicting CDW Corporation Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdE83NHZxeko5aGw4Q3l0UEZFVzNNb2JRMXdNNmlUVy1sUUVSOGdLWjVkWTdzaXdOWWMzQnUwNmI1bUIxWkdMUlNRaldGR2NjcHUwaW9SSmIzTW5vM2pFT3Bsd3EzaUpjbU9DRW5oY1dkeVdNWnJKWTJVbTJVN05MVGh0TVRHcmFoVW10QVFoNE52ejlGOHNmalctNE1PUVRjZk1tMXB0OFdyZ0pUb2dRUTZILVowVHhEdGJvWFNVdnI2am9lUHRaWXd6TzJ2MTU0NXhPUElyQlJUaUYyQ2xicW5KNjRFNHV5MTktSg?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "CDW Sets Q1 2025 Earnings Date: Key Financial Updates Coming May 7 - What to Watch - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEVlMlRRX1dBck5WakQ2T0dLaHd6SE54dWdabzBBQ3JkV2xna0xPQ2gxQzFodnNVQkhXa0Nrdy1xN0E1M2l6WTFsTkgxeFh4RWZXWjRPY2xrQ19CUmxsbFpvSDFULU8yZjBfREJFYVBjNWljaThZbURUemx0MmtQbWRZa1RXWDJLS0FKLVhjLTVLbGFfWEI2SmNmU0lUNThPSVBPaUJn?oc=5",
+        "title": "Net Worth Advisory Group Invests $254,000 in CDW Co. (NASDAQ:CDW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXlrU1h4a3dmeDZQVkZGUXNmVlVRWlJkeUpaTGxGUGVGME5vSU5hWkV3VE5kaXVJS2luekdoS0pldXI0VU5fVnZ0ZkpDUDZzN1BwYlVGcVFJS085SGNVdklfdS1VQm1NRXNGM1RvNVpSTjdnQzFpVXE3MmRMcEFjdTExYnQtdUpxb2VaR09zT2hPNU0tNkZneXlIM21Oa2NzakpoZGhaekJHWm1BbDlkVm54S3lDdGRNNWtMZA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Acquires 15,590 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcENlNDRMNVpPd2JwSmhGMk9tajhucHR6NDVweXFRcmV3dFVsdi0tTG9nX1V0TEtneDVuOXl1QmNqVUp4cE51dEgtOGxXVXRwNlNpVUQxTHlUU1hVSzJTRzYyUUdKVWZxM2EycXVBajZjQ2dqUTBjbWl1YWR6YU1DV3c1VlFFV0J3bDg4RVJoNlQtN2psMDdreGRqRFllUFZGZEgwS1VBTG1GRm5hMEFkMy1yY1hfanlUVVFIQmhR?oc=5",
+        "title": "Is CDW Corporation (CDW) the Worst Depressed Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkZQUTEwd2s2NHhKMEtRT2trcGljak01VmRDdWNHNjhHOVBkR1c1QUhZbjZBaXNDWEVlYm1zS0JYc25SN1FkY2JZQ2NnOHZFN0tRVGlvRHE0eG1vTXlSaF9mREt2UWZyRllWTXc0RW5BRjRXV000THB5NENTVTNJVTE1aGRuaXpE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Options Traders Betting on a Big Move in CDW Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNktOVjBlOUVsZ3JRNmZ0N21ZVjdRWHJDMjhVb0ZjbUFwSUtpUV9iLTV4cEdicEtQQklZbFF1RXp6UE10anNYU1NoNXB1VTV2WnNPQjNqLXZVSF9XSzZhaHFzaDlaWExneDNOR24wd3ZaZFVVVkNndEJnb3dEQVdwMndpOUg?oc=5",
+        "title": "CDW Co. (NASDAQ:CDW) Holdings Lowered by Fenimore Asset Management Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1pYckQ3bldST0xNTFZkMTJGcmhaWm5LbUFEbC1fc3lYcHhaM2NqSEpjQXpDTUNuS3dXQ1lHSjJMR0NablhsVGVhSFhXNkswMThkX05VNnBFcHZVOHl3ZDg0UzJOR2ZwUTA2Z1JWUks2QVYzMWdkMkswbjBsd0xHc3RFS1NkdEhfd2RzMDVXd1lqdE1NOUN2UVZhSnBSUVhfZ1lUMklhU3Q1M2xCMGFkSWRicHpkY3NYWUFYU3ZxOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Acquires 1,713 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjZ1cEFZZ3J2UkJlRm1sNnBfZ2JoVk4wNEtUZlEweUROUjh5T0JrQzUybXU0YzZGTmhJRGRZSElVamp1TENsMy1MZzZIR21ybE51R3p6dC02NVZ3dHpvekdiWkpaMjNyT3doSjk3aUNvSmtQMWhScUVwdjIwbnNUOXMzMkdqZjkxZ0JOYzVZVzl5NGxsRk15UzJIUWtZSzZQOFJ0Ym5qSDZTU2hpMENvM3pMcGZQaVE?oc=5",
+        "title": "Chesley Taft & Associates LLC Has $1.04 Million Stake in CDW Co. (NASDAQ:CDW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlpsWmgwOHVydDNSOFE0ZTFsSVV6b3BIN0tvWHhVZVF3cGVBNjdJZl9Bd3FZN21yT2Vvajh6aFhNRFE2M2xlMVBLM2FXek1WSXNVOU1MY0xha1FRejRpMXF3RWNweUR6WFF4NFN4MWpOZ1JrWWpzOHRDTTR4YUJPZkpRV1BQYnlJVkhRMVpGOGpoR3czNlJreFNWeTRRdzVfNW52a2M5VUFVZGlhUVF2MWVJaTN3Umdpb3FHV2xkQ21XUHoxbUl0T1h3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Wall Street Bullish or Bearish on CDW Corporation Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEJhZHRnZ0dhLWR5RzVvVnI2MHBnZ3ZjalAtdXBYVzhZN2dtdnhJejNfcVUtNVN1REpVQ0twRUcxakwtQmdtM0hZWlhJQzdlU0NTT2ZmeE85SlVuMllXclZsQ1dHSkVNUFIxa2ZJQUxoSDBYbUowY0VjQjJ2OHhvTWxhRjl6ajlzUm5kdg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Boosts Holdings in CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkxHX3ZEc2RtM2d4UWR2MFR2aE5LOVVublNnUlZ4Wl9xcDZ5NnpEY2xHeFMwYVM3SEdNUkZpX1NHV1B5ejV1VFg4QjRmRHU4S2VWS29JWDA5OWs5dU9ZXzluNXpXeXkyZU1JRlZNR3JvaVpkSVMzNks3bVhOVDJINzlMT0ZIck9MVklidHp4cFVFWHVLcHprTlh5bXVLNHY4ekVLc18xWXBSWk9iclo5TUxNOA?oc=5",
+        "title": "Wealth Enhancement Advisory Services LLC Increases Stock Holdings in CDW Co. (NASDAQ:CDW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU0x6aG5PUEpyUmNfekd6SENUem10anNBUjBXS01hNHVLQ2NsMHRIa1ZJVXlYbGZxNl9HekgtNW5RcEd4QzRmZzQ4TzZMcUI1YWdwNWRHcVN6VFdVOHZId2R0cS1sZFk0SHJKTXRIZVl5OW1tX21hd1c4YkdEQWxNSVJRSTJsTWg2dV9WUnJ0ODE5ZU41UHpycG1zZ1pVMWNLSUE4SVpseUpCUkhpVFkxM0h5Y21oNmZrcUdwXzFJakxrbkkxQmpVNUdrb0dDVmVZZmc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "CDW Co. (NASDAQ:CDW) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbEp5blRvVUxYM0VLZEZER2VXSEFpYTFMUVNVanQ4cXcyRThjMmZKbHdxUkItNUVSWm1rMmxOZGlFTVZwVW84SEtlTm5HWEhQNXpQaGVOU3pOQlNiV0dHdDhIUXdNbm5HMnNFSU4yWFdLb09pT052OERLdk5EM1dQOWZhTEZhX0xsSlRUWjZBMzEwVktzdE0wVnd1bGdPOUR5?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Unigestion Holding SA Sells 59,268 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmF1STZPMUxDR2JMSlIteEFKUDVJdUhhTldTUnJWbjVWaEZVTGYweENIZ1czbzVzNHo4bEx4ZW8yLTloRFFrOTZydDJuazF0OFFCTDliOTVsaUcxVlpxdG9JTk1JeV9UVVNwTHBtNV9MLXhER282N3ZpVHdZU3R5RnBuR1E3QVo1VTdwUzM0SEQxbXhocGZhb25FTGtNa0ZLQ1RUWTNUZEVsTExtbnFqeEhnMUxkT2ZlS1VnaGtn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases Shares of 137,896 CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3NsZFFoV2Z4MG5SR09NVzhBMDdFVUlLU3VBY2ItMlZOSmJkajhjVll2M29DS0pxYVlnamF1dUtMdjdQVkVrSW00MTV3QzVPVFdsZFFKY01CblVXTkNPdERIdnhlM1lmY0dSTEZXQmRtaldXWU5ydGVISjFSZUIxTXFURFNwNWk0WnQxTG1RMEJfMWdxVVdBWmJHMXZyY3VSalpCUjJJTUZJQkVoVF9jdWZhNllpbFJNSW9BMUZJQTJLUi1uYzUxNWh6T1d1c0Rfc29QdktFTzBOSDQzVkRyOXBXWjV5VTVZd2Rn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AEGON ASSET MANAGEMENT UK Plc Raises Holdings in CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbTZveDRVMlZkMVREVnlBbWo2ZHF1bElNTjlGUnE4Y0hKbUR4V2RhMUNQN2NJTElwMC1vZThRN3djdE5GVnBqd0FQNU5OR3Q4ajRXV18zUTNWOVUyRW5pVl9fZ0MyUjRaQXBFQU51UGdqaXZjb0VkdlFLUVl4NGxsLTQ3VW1BYXBEREt1ZVNaSWx6WDlXemVvQ1owR0gycVZMU0d3MTZONFNUNzc4TEVQWEplMHhhRUtfakZwS3p3blpRR3pNQmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "California State Teachers Retirement System Buys 10,362 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkFYazBXM1dtZWdNZ21nOTg2QTlFUU5sNTRkaGRnWG9PRkZjWC1hSkRTbmFqN3JDa0gxenpvMWFjdWpBblpraTU0ODlSZFZ5cnJTbmhjRHQ1OG5WMmsyX2NDZUEtRlJNUVFpa21ZSDVUdkFtX1pBM0V1bGNob19OY2Y2Zk43b3RtX3ZRcjhLOV9pN2JVUGktMFh2LXFodW5yUEh1ZGNyenZnVXllZWR6bzZBZHV2d2lIZmh2b2NpSjBIeVVrYjVjUXF1Y3V1eXNOOG5tYg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "111 Capital Buys New Holdings in CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0JhTjlKc1M0OGtGY3YxdVdtZzMzbkdmOG5iZ1l5QjdILVZ1dzBDMXVRdllMdm9pTTRmbTFHVWJUN1VIZXg2QzZVeC10d3ZPb3kwd2pkOC1TRy1MZmlTUWZFQ3Q2X3BhTXRaTlR2VjQ2WjRZTnRPS0RNNmNPczhwb1RRWHRjVnU0am1oOF9UT1VLaW5SWFV2cmRDY2kweW0tZk0wdlhPT3lkVTg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lansforsakringar Fondforvaltning AB publ Takes Position in CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb2NRZXZrbHYwVFlOY2RxdW52dHM4QTdNYWtHWDN1Sk9ZZHF3alZZamNzS0xZN0tBQ2o4VXhPUlppbnU3ZEI5UlN4cXNCbnQ2V1ZLOG1Pd3k0SkJMOFYtampFQ3U5VGVnM05Ed3NDUFNONmI2Z01iSUF4ZVdKcHEyVGlqVWQyOXViODktUU5GeHd5ZGJHaU00V210aWRHNU4xcHpkRTZfRHVQdFlQSVkxcHI1Q1IxNF96alFDVlUtTUdsQ1VrTDVEejRhWVRWVWdtV3ZTVTM2STlMUnNlQmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Siemens Fonds Invest GmbH Buys 7,103 Shares of CDW Co. (NASDAQ:CDW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOW5YczhZRWlLb1JjX2lpWHVDVENtc3g1V084d181LVNmWHRrRlRXRm9yc1UwTjE0ZUxnNFJBRHMtSG1QQ0FBbkgzZEpsbTB2M3ZRcEFXV05PcFZ6T19aTjlfd05sSThJamswMlBFUmFnNXp4RWlscHpHeVR3eW5UNlV2UWpmX0lMX1lPNDhEdU55dXhuNThfVVd5SEJoYVVZSHd0a21McFkzZml6R2NhSTJlbXlUcmstVUtmSHRoTU4?oc=5",
+        "title": "Be Sure To Check Out CDW Corporation (NASDAQ:CDW) Before It Goes Ex-Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGxpXzIwN3ZvbzZrYlo4aWxDMFRsR3NtRjhxMk5Id1BGYzVjNE1sVXkzRVNBNmc3NldBZVVvcWlpc2c2eUFPMElqa3ZJS2RzajRLZFE5TTlUM3M3MEpyc2ZtX0dTYWFYTS1sSEY2UVVzVm9IUU5IOTAxTHkyTlVNaVN6WTEwSE5UZ0RCRVRIUl9zNG5aTWVYcDFRTGExRjNSemJmbGM3Yk5OdmhNak9ocHB6VVhMbURXQnkw0gHAAUFVX3lxTE1kZEJmNWk2dTY5eUxxZVZvcE9HY2phd2hacUdZb1JvUFEzV2RFNzVrV3dITnZWTmNsVUFiN3E4Y0kxSEFQMlh2Q1ZJd0NBRnlGaXFvbnh2RU01VUV6UzZoVHcxaFFTUTVhbkpFOVFxT1pZVldkeFhKTGxncEZGX3pOemtsc0w0alNUcmQxN09DT1FhTHpncEMyZTJBNExoZGlvd2Z5ZGhyNXpNS01xRlRSQmRPLU5QeU5oWmRoNlhxeg?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

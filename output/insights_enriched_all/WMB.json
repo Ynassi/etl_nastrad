@@ -2,16 +2,16 @@
   "ticker": "WMB",
   "name": "Williams Companies",
   "sector": "Energy",
-  "market_cap": 74121420800.0,
+  "market_cap": 72918720512.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.637096,
-    "PB": 5.952638,
-    "EV_Revenue": 9.354,
+    "PE": 32.10753,
+    "PB": 5.8560505,
+    "EV_Revenue": 9.301,
     "ROE": 0.16197,
     "ProfitMargin": 0.20608,
     "GrossMargin": 0.59939,
-    "DividendYield": 3.3,
+    "DividendYield": 3.33,
     "DebtEquity": 184.4,
     "CurrentRatio": 0.405,
     "QuickRatio": 0.245,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07249842514839823,
     "ROA": 0.03994,
     "PEG": null,
-    "EV_EBITDA": 18.2,
+    "EV_EBITDA": 18.097,
     "BuybackYield": null,
-    "PriceToFCF": 92.30896124220689
+    "PriceToFCF": 90.84253722593505
   },
   "technical_indicators": {
-    "RSI_14": 58.08997317786121,
-    "Momentum_10": 5.13419939842059,
-    "MACD": 0.6528012989187602,
-    "BB_Percent": 0.7804515618058692,
+    "RSI_14": 51.62295220355869,
+    "Momentum_10": -1.288877241449918,
+    "MACD": 0.3226112182056653,
+    "BB_Percent": 0.5109546791185392,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9284176466928992,
+    "ValueScore": 0.8658241929253545,
     "QualityScore": 0.4357717295557354,
-    "SignalScore": 0.5010852011741467
+    "SignalScore": 0.5820259771059755
   },
-  "volatility": 0.019529700133442,
+  "volatility": 0.019273403221348,
   "beta": 0.679,
-  "return_6m": 0.0867521552258401,
+  "return_6m": 0.1070416884082172,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 20,
-    "target_mean_price": 61.045
+    "analyst_count": 19,
+    "target_mean_price": 61.57368
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 54.67
-      },
-      {
-        "date": "2024-12-10",
-        "price": 54.55
-      },
-      {
-        "date": "2024-12-11",
-        "price": 55.39
-      },
-      {
-        "date": "2024-12-12",
-        "price": 55.19
-      },
-      {
-        "date": "2024-12-13",
-        "price": 54.43
-      },
       {
         "date": "2024-12-16",
         "price": 53.97
@@ -537,32 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 60.56
+      },
+      {
+        "date": "2025-06-09",
+        "price": 59.66
+      },
+      {
+        "date": "2025-06-10",
+        "price": 58.96
+      },
+      {
+        "date": "2025-06-11",
+        "price": 59.42
+      },
+      {
+        "date": "2025-06-12",
+        "price": 60.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 59.78
       }
     ],
     "current_price_data": {
-      "price": 60.56,
-      "change": -0.0,
-      "percent_change": -0.0
+      "price": 59.78,
+      "change": 0.2,
+      "percent_change": 0.34
     }
   },
   "news_sentiment": {
-    "summary": "La société Williams Companies Inc. (WMB) a suscité un intérêt croissant parmi les investisseurs, avec plusieurs fonds d'investissement augmentant leurs participations et des analystes ajustant à la hausse leurs objectifs de cours. Williams a également annoncé une augmentation de son dividende pour la 49e année consécutive, renforçant ainsi sa réputation de valeur de dividende stable. Malgré une performance positive depuis le dernier rapport financier, les investisseurs restent attentifs à la capacité de Williams à maintenir cette dynamique. L'ensemble de ces mouvements souligne un sentiment positif autour de l'entreprise, renforcé par des acquisitions et des ajustements d'objectifs de prix optimistes.",
-    "sentiment_score": 0.1,
+    "summary": "L'entreprise Williams Companies (WMB) a récemment reçu plusieurs mises à niveau de la part d'analystes, dont Wolfe Research et RBC, renforçant ainsi son attractivité pour les investisseurs. De plus, la société a augmenté son dividende pour la 49ème année consécutive, démontrant sa solidité financière et son engagement envers les actionnaires. Des achats importants d'actions de la part de Fifth Third Bancorp et Assenagon Asset Management S.A. indiquent également une confiance accrue dans la société. Enfin, des spéculations sur le potentiel de croissance lié à la demande croissante de gaz naturel suscitent l'intérêt des investisseurs.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is Williams Companies Stock Outperforming the Dow? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHgxMk9hZlY2NXhydkE4VEkzSTBwbmhRVGpQN0V2S1otZ1U4WU1oS0IyV3JpeWI3RVZxeWd1eFA5ZTlJYXRORjg5UnpEaXpzc3hLZ1NNaUNhOFk1ZnVYcWRhRFAxdmJHdTl4aFZnOWtmdEdOWWtPZVpGR2FGMWJvOW9TaHZvaWNHSTZQamY2aGN1OXluOXZxR01jTi1EMVA2MjJXN1RGVUNiNzBzR2FGbUE4NVFGdVp2YUlVdW9ERXI3TWo0cllPYw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Williams Companies (WMB) Receives Upgrade from Wolfe Research | WMB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXJPU3NTUjdsOTlPVGF3QllNRmgwNFc4T24zbjVmR0Q2QTk5Szg0dzMwM3BDRTVvdFhkWXU2T3ZaQVN1c0JQc016ZW5SZjZWQlpzTTgwLTFKN2gxZXBMbm9UaGl0V3piUi05SkJaS3RoQnFTYk9lcHMzM2gyVDlpSUViYk5hSDU1QXZ3ZGp0cmRHLTMzLWhVejctd19LMlR4d2hnUndnSEhMeXo2UkJTSGM5QQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Chickasaw Capital Management LLC Grows Stake in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOakJHZy1zUTRXMVRieVlSbkYtakQ0MGNWRVdyVVNZU2xQMTdjQjJocGhrWXBWNUJBVEQzdHQ0QlBReUpvOHJpYW90akpJU05Rb200U0NXN29LZTREOU1mY3I3TkV6MXJ1QUJ3Ti0tcjJWUWJHTFJvMzhIcmRFTzEzYlRPR2pzUEh4TnpIVERLNG9RelQwTjE3eXBRWnVabnN0ZkFxdzBhZ0NvenpJeXNpeFJpTUxXeld6T1A2TjB0Qkg1WkNjYllWdDVMWmxlR1hfYlRmcmhHSkEwOU5lRjZnQXZtOXZKQ3Yw?oc=5",
+        "title": "Dividend Assets Capital LLC Sells 6,224 Shares of The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGc0bk00ZmZQd25rY3dadU1DSmhpNl9rcDljR0VGZkNMTVdPN2J0X1U3ai1mUHQ3c2Z6U1ZSdk5vYTdwVGlFSVpYNnl3NncydGhWdDZWR2NNNENNYmN5UHNka2d5dDFEMjZWQ0dCNWNjekVYdnBDdWV0X1ZNQUVDbklGdldSVlo0a05nUGpiUUl5Z05qWW11N3Itd0pfT25RQlpWdWxodUxTRlhzWVBycDJnaHJ6eElKZXdZenhrMDFSM2lQV0JsVk1YOVZjeFdSdjlVamtkOEl4cTlkN3hDbjhjeUxrUEN2YWJ6VWx3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,78 +571,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Scotiabank Adjusts Price Target for Williams (WMB) | WMB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmFubmY4OWpZdUJwV19iS3ZzVmVLQjk2anNyWHh1YWJQSXNoR0tGeFZ3cGxjOHNOUGJISWdCVFVDNFpteXhVUlBXaFZ4QUtjb1lXN2pZbEpkbjRfRlZtNUZ2bWw0dW5Hb0t3ZkRSYnlldldfbDRacTZlWlJmTnM2NUxMcmFUcnZIU2lEVVVNQUwyOWhyZXRQNF9BLXA4MFc3TkU3VQ?oc=5",
+        "title": "Deep Dive Into Williams Companies Stock: Analyst Perspectives (6 Ratings) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTkyTEk5WkVMMDZHTzZ0MkNHdjRsU1V5dmstS1lFckY0RlpNYWxSZ3V5aU02SFlNTzFMUlJvdmlxT1ItRFdFN0hORGtqMTI2eGhfX0dIR2ZwM0t4S2NQdTFWZGRsdWtLZkN0T1RZSFR3em5oM1hjcFN4THZqa0Y3NEFHTzFVR1REaDVzSzM1Ql9NYlVmNzRsTGhRZjlHV05wdk1wNzVtY2ljalNNWUFqS1NjWnk1Z2M2QTM5TjZDd211d2d1dHEtcWQydHVrcnUx?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Williams Companies Stock Outperforming The Dow? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpqcm1HWmE2U1lMWXZFdzRHWjZsOWc5UFJuQi1yQlRSaUk1MTBJQ1Q2djY4SVdQTV80NDU5U2hiTUJCdWVzMWVSRDlPNDJxbVRzc01LOGxGcUZOOW5wWE52SDJBN2JqdnFERHFQVmxoaEI2SWQxMUJqWFRHS2JSQnJoVk9NUWxJZF9YQW9LM2ZabUpFcTRHTjdB?oc=5",
+        "title": "WMB Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MajRGZ0JrY1cxLXBReVhWUl9UY3VTZjllZUlPZmNGb0JobGlyYU5qQVlEYVlid1BFVHpQWlVYQWlGRy1mNzI0S2h0cXJkTlg0NE9LcTlCd2Z5b2hFMF9kd2R2NHVBN09HTXFNZkVIOTFnNEh5?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Williams Companies (WMB) Up 4.1% Since Last Earnings Report: Can It Continue? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNakREZG9wWGVWUUJJMDY4akxidTM1YV93Vlh4dzJiNlpsZTBMcVZudlNlWENuLXB1aXhkeC1oX2VrUlFNdUw4RmxpR3c0SGdLNDVPdlMxbkpPc2NYZE9sUmMtMXJLRjlfMFVEMDNndlV2bDVidTVHbEpmcUphRDg4b0gtSjZKQnpWMl9XMWFuWHl0Mmd5a3VXNnl3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Bank of America Securities Remains a Buy on Williams Co (WMB) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzdNOTB6NXIxdlRGZmJoQk9tTkE5aE5IZFBTUnNiNDVOTGdMMXpsTWRjVUlhVmtna09QSURXbi1hVEsyNlR6R25nakdPWHI0dHFKT0hoNHBiZ3ktbHctVnl6Y0VQX1dQQWRtdnM3Ml82Q1ZQUm5kOWIyUllVNC04VzRnLVlRSnJsOXMyVkNfYTJiNnJDMDhMOVJPcGhONU5JdGZZdkRTTHdSWGUtV0pfR3haVHhrekc4YmNMOXpvWWtEaGVtdE9RaHd0RmRBVHNEenhuOTJiYjVieDI1cjZ3?oc=5",
+        "title": "Is The Williams Companies, Inc. (WMB) the Best American Energy Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0VhWW8tWVYzakdjSnFlQ2Q1MU1qS3dWRXg1ZmV6V1A5dzVfY0sxT3JFRGJsVVVpSWJ4MmhnVFgwaERXWkJqd2xiQjhsMkw5TmNxVVZ6SXNfRGRaX2FyR2lQS0VlcTdWTzFXbXNnUFcyakp6RG9LT2dfUTc2M0l3RG9qbw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Williams Companies, Inc. (NYSE:WMB) Shares Sold by Generali Investments Management Co LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbkVuMGwtY2ZvWUVobFIwaUhqVzRnVS1wS1ZaRldYMUVsWEdmOE1ibTNWWEE4ZDBsaFFSN2hOd2VrcFFzUEFRcXI4R1ZsSDZRcXhmRmJUWmc4ekhteFoxSjl2NENvb00yaHhkZVJ3NlpYUkZZcTZmXzFlY2VFRTI5bXlVdnRoRkVGVGFTeklVdDBPcjFkR292SURTdFBaTEZubUVFdlFoT3hsbGNmcmcwYzlHTVZDZl8zV2pBaWtzdUJDYlFjUXpHWm9FZUtNQjFvMUhheGtWQjFGSjdWZ1dpbnB6cw?oc=5",
+        "title": "(WMB) Investment Analysis and Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXZObGpvUXFCVkFKSU9pNEMyU3hIaFlqdklWNnZJMGJ1Zkd1Zm5pWGdneGNYeHlwNnFsaW1TMmVHMmxUUFhLRDZIUGx0cXcyTi1IQWVjSXMybzBoWG9DcmVBMHA2UXFEeXdiX0dUX2p2Q2lrR045bXJTYmE0U2s0OXBZTk5xYzJhSXNIUFFsdy1maktqempCTVY1dHNJNDhURTRfaWluRzV1YnJEa0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "RBC Keeps Outperform Rating on Williams Companies (WMB) Stock - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEhXTFFRZlBvZy0wTW5LbFBfR1NTMlJ1cncxTkRGb09CaGFUb2p3X1hwZDRUTGI5dlpMbWlleXQxVjh6NGc3a0VocksyQkVuVjlLeFFWV2RwdTUzbXVZZWtzNEZpSDB3N2NKdC1MeHZvbnU5T0lJSG1hOHBhUUVya0NIdzBHSTB4cXJOZFcycEJ5cW9mSlRLc1ZRZl9QdXVDdnUyQmxEVldKUGpoNmNfczc0bw?oc=5",
-        "label": "POSITIVE"
+        "title": "Is Williams Companies Stock Outperforming the Dow? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHgxMk9hZlY2NXhydkE4VEkzSTBwbmhRVGpQN0V2S1otZ1U4WU1oS0IyV3JpeWI3RVZxeWd1eFA5ZTlJYXRORjg5UnpEaXpzc3hLZ1NNaUNhOFk1ZnVYcWRhRFAxdmJHdTl4aFZnOWtmdEdOWWtPZVpGR2FGMWJvOW9TaHZvaWNHSTZQamY2aGN1OXluOXZxR01jTi1EMVA2MjJXN1RGVUNiNzBzR2FGbUE4NVFGdVp2YUlVdW9ERXI3TWo0cllPYw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Scotiabank Raises Price Target for Williams Companies (WMB) to $59 | WMB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUtJYTQ3aGVZTEhsLWhudFRqN05uZ19oUFRvWnJYNlBnV3VLWlBYa2dHYzVtNjNabDBHbmRjNXJJa2xVdlp3a2xGQjNUVGYycGV5U3RVU0VOalVXeUo1aFhLSlZtZERUVTA3RjlIb2d5U3FjLTNTa2UtOEs4SlViempuX0ktLTRWbkxsblZnNERpazRTQnBhQU9hcVlHcjY1OXBDcUZqeENCMXMwNUhqeXVxVk5RYUxa?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Orser Capital Management LLC Purchases New Position in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYzVOaktGdGktZGhLQXJ0RnZGaTdibVlGRXItYjZjblEyWGV0ci1XdEkySEtkR1VwU0NLYlRHU2RZa3VjTW5wMHNFdnBKRWI5M2NMTmUwWGJER2JDczBMUDFvcms0Nkx5SXBxYW9KU3k3Z29nMElfR2xJUWpUVjUybmx4VjNEZ1B2SkRZcGwzcXVEci1vSXdjM1FHeFVNR3AwaXY1aUQ0cDlWR0xNd1pUTnBnOTRIeXJlRzREVk92MEdsYnhuZWc2TVlHRm9rbktkSnV5UWpnWkpnYzYxc09RcjJrRTlRMms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Williams Companies, Inc. (NYSE:WMB) Stock Position Decreased by Gilman Hill Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb2tOZUhHV1Fsa1NUd0VtR1B6SEVjakh4cENoYzhYeV9leGZEMU5CZ25aNXVzNmNnMUhwY3d5Skk4UGk1N1NHLVluY0pCM2xUdHpURnZzRGY1Wk55V0JHNmRHMlJDQkhDRTE1U1VYUXhObVhHODcxRnhkN2tMRW0zSU1rZW1JcHJwVW1vZS1JUkkyek9xejV5TGVnZFAtRTNNZm15QUdnZG5kalRldWpMR0lkY2FTN1FPa3RHYVlKT2l6b3V6dUJ1YnBxbG1KYVRDemNKcC1rM0s5RjcxejdiSkF1bXR0R0NfbTBxTw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Williams Companies, Inc. (NYSE:WMB) Shares Sold by Stablepoint Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXJDSTl4UnJHUUxsMlNXRjYtM2gxRkN3UGxzLUprQWtaQ3ZwSU94Vmxnal9mWGw2OHlNT0t4V2V4dDBUaVd0VDFxaG5nZlRudjl2RGgtTnlmaUxnREtHR25zNU9Sbjl2UnhvVmsyQVV6NWRIMlpnT0FhV0ZObmdWRVRCeER1OWMxcWZyVmJEQzBIaDFsaWVYdkdTU3JvSk41WjhacVg0a2lTUVNBd240NmtpamVxZ3Fyam1xSlhrNjFwRTZzbUQ5T0MtcV9sSGpf?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "180 Wealth Advisors LLC Has $976,000 Position in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcVRvRkE2ZmtzNU9UUkNzUEdfaUFjaGNra3k5UTd2NmdnaG9zUFoxem9QLVN3OW1WUjhDYkFPWWs2dWpfRjd6U3lMWllUazVsNkJwSVFQZWNWd0RTM25LVWhFbS0yR2k5RW5nelNqMnl5YmtCZ1pfVXdlYTZ2ajR4TWpPQl9mQkd6NExtVWtDOXE1TlpnQ3gyV0VVM2NnTzR3N2xnbktLQ29ibGFocDVPM1lZMDBjV2ZVMVVmcDBaZ1dCWTQzcmpNa0cxN19KY3NCZUNOTnM4b3dqYnp1?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Williams Companies, Inc. (NYSE:WMB) Shares Sold by MassMutual Private Wealth & Trust FSB - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcXRPVUk4aDRfbTgwZVBtUnM3MERXSXpnbEJpM0JucWt0dUdzUmR0bFJvNzdDUUdMVllRSlNnLXpveUR3RnRSZ29SUWZfbFFtWGFVV1VnM0pDdjdMOUo5eXZUTlMxcDhjb0xKR3RGdk81SEFraHFVU1VvMUY2bVE3TmhIVVNXTWlJT3hwRXg0NGZ3V3VJLWlGMkdLa0FHWWRsQmJ0WmVqd2E4RWlsZDE0MkdBVWg1aF90X1lBbk9DV2ljbHZ6d1Z0OVEzZk53b1ZQVmJabHJVNWN1b3RzR1FfenI2d3B5YTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "111 Capital Invests $456,000 in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbnBsZ2FUQVl1QTd3aHE5bFV6SWdGblRpamhQV241UXp6RGtaRVpRbmYxOW1BNUlPLXJSa1dqTlp5UEo2cG83aVRrY2NsTktqY3VwdUs5MmowY0xwYnEyZFJIVXhyRm51Y1JUd3pOQVQ1MS1Fc0ktVzQ4LW5NUnU1VzdfSUVHUUpRa2RWVzdQN2EzN21Bd09TdnIxUlptakFHSTZEWnR3M056UGRxR19QdS1QODBldzEzLTZlaFNlSlA1RXkwZDRpU1NlRkVfOWs?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Acquires 12,992 Shares of The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONjFZMVhvc0MxelpOcHRwV2RlelgxdTA5UUdnRVdtdE45R1laV25saTBoWjhVc3hoY3ZqYlp3dldIeHdEWjBlSmdqMHE5V092VFdDSVQ3OFU5Vk5CZ05ZWGlzeVltMmhacUhwZEUyYXptU05CZEdBRWdwWHZ6N1JJZjdJZE14cVU2ZDFQZGE5UW5pY3VpR0JWTFFoNDJqZHNxOWZ2amNzQWtwTmRETmxmaXlTWE1JNFZIT1VlZEhLbUJiaURWMEhKck5vZ2p0dWx2dy05X2NR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Grows Position in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdWlJblFLZ0dSZjNIdUJPQ0NZQzhrYThmU1FESjljSGZwUG42c0FmSi1ZRmdpbXlnSFQ1Y2RjYnM4dTFJRmZ5OXJZckZVRU5KejFmVWlZYjBxeldsMld1dVhUZmw5VEtiaEQ2OWNTNVNNUno3aVJuSEJkNGhPVEhqSllqLXl4WW9ybXBFVmVtN2RnMFRWRkhEajRwSDd4and4RmROc0RuUDdzdnVQaTFoMXV5d2FYU0o0MlM3RnhyVzNXdzlNQ2VxSF9fZVlaaGhFWVF5MnVIdWtrQQ?oc=5",
+        "title": "Williams (WMB) Receives Upgrade from Wolfe Research | WMB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTJzZmNCN0hCUXlkd01tc1pnR2tFNzZYNzBuRTNYN2lsRXFlamNSUGQ1eWJTakJsVmpZcU4xdlY3WVhpRUQ2U3ItZGI1c3hwNzVzTzJYbFNXVEJFNXZVRlV1VGFoU1N5VDlLVDBjM3Y1TmRENXJudlhpbkZiX0ZGelBKeWJvUTVCUFYwejdRVXhzdXFjTUQyRDllV0dsaDdEdG9mbk9R?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -651,11 +606,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "33,422 Shares in The Williams Companies, Inc. (NYSE:WMB) Acquired by Point72 Hong Kong Ltd - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUZPQ1FnQnRNNEQ3QWhDT3VGaEZwbkFMM3IydDB6YVVZY0o1aTk3aUR3MW50T3pDaDZ1RG04clZSM0xEWGZRMFFBanNvUThRNTZaR1dCT1pLLWVVTkVJMUM3eGx3Y0owVzBmX3dxdUs0bERQd1AxeG10TG9vU1BzbklfV1N0N3E5dEd2S3lsMDNCbUJfRlpHNElOUmE4US0xVkxZWlZWb0h3NkkwZ0x1WHJPbTNLY2FxZU1tOTJQRmpnZ2VSMlc0THZhYVk3eFJicGc?oc=5",
+        "title": "Williams Companies (NYSE:WMB) Upgraded by Wolfe Research to Peer Perform Rating - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0NZYzNQVXhnUXFURWZxLUJFRjEyVExZX21rNENTdzQwamhNLUthTkJPd3VTdEJEelNYRWt1RGhWYzd0VW1Ga3RoZk1OQU1LTy12NWVwWjM0SlVnTmtSc0oxOVFfalVaTGlCZEJqY216SGw0S1BhVFZrVzRlc3l5OFJGR3dzUTdyMW1tNkNwYkM3VVFaNENnSl9rdnpKQ3doQVZCLVBoeklZRWRtb2hzS2RYNXE2dkoyeGE3Q1BFa2pmQmNRSGVHWUdB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RBC Keeps Outperform Rating on Williams Companies (WMB) Stock - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaEtDTzBvTTB0Q3V4Q2dlcTJKdnA2dlBwQkdSdVYweEk4SnNoV0gzcWhDN3hLSnlGdk52MTdhaEc1T3pUQi1YNHVKRzB1SHFkT3F1MXV5cnUyS3AtbnQ0emRwUWtzQ1pjREJWdVI5MVd2X0ZpemlSZmdHZHRvMUtCMXUyNHVnUEVEdDgtVVpQeGpvcmo1R1MzcXk2a0hmeVNxbXBwaGNEMElsQncxUnZIeVRONXkyUElYbGJNMkVwTUg3QXdpSm5wUGkwc1Y5NnpNbWJiMmF1dXJ1SEx4czdKSG5lTkJWQlVfUWpPdmR5WGdTLWxJY0kxcWpZdjJLMjE3RkRsdFljQ2EwMHNDOXhhd0xoYVJFT2JrVmJUc2xBZ3kwZUN5WDBTdzNtWkRHUVRjbDJJSThySlprRHc0WWNscU8xbmE1aldt?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Will The Williams Companies (WMB) Benefit from Growing Demand For Natural Gas? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWmlSUXRXTUp0WVQ0M3ZXNjFzbjVCM2lGZmgyRWlSeE9zc1YtbDlTUXZWY3g2UkJDaVFiNDVyQUxBV3QtTElyTElPaDVjYTVQX0pqRWxhNUxHWlMzZkk0VXlVZFN1MWZma2t2YWhKcFpDSGpzaERrWmo3UWNZTlowU2tVX2FNci1wT0xMYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bancorp Buys 35,738 Shares of The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnV4Y2ZUZ2xSRFFHT003N2xldTB6d1ZjQ1FlQ1JhUEx4d1hoakpuZF8tTTl6QXRrTGdJbmgwSy04QldfQ011RTR6TXozRHlpYWUxZUZsSWt4OWcwbkVyTU5tNmYyMFZhVmlocElHS291NTVLT2RxeGFMSWxzMXE4T0RxNThsRHpqbloxMHRGWVJ1YURIZHlES0JLV0R1aXlqY0dZZ1JwSVo3aTVqSUpUeFB6SWpFRU1HOVAyYzB3U1VKZW5MX3pWNEpiOUlLZEMySWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Williams Companies, Inc. (WMB) the Best Oil and Gas Dividend Stock According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0I4aDVIb19oc29TZ3FpVWFrSGVTNDlnSEJxd1VyRmFHSE9KWnFVOXdHNF9fcmQ4YjFGMFVsd2NiMmNmb3dEamdrWTRUeGw5S2tQYWV5Tl9RX1Q5d2tDU0dENlk0STB1d1BtZHNGZ19qVVI4enJhMzdQWjFDMlNHNUpnRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Traders Buy Large Volume of Williams Companies Call Options (NYSE:WMB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazNFc2hZd2RyUnlfR3VlaVpwLWVKcHd2dEI2dkEwNGdEcHRVNjVYZDNoZmEyYWV6bDd1Si1kdmxEN2tqZkczcHdhQ1E4S2pDcDdPNTBFRGpudXNYTG5RWkhmVVRQY0drdnNtQUVUdHhjNkRUUjVhZ0hYdUw1OW9YR3FVeUNwVE50d3ZiTHJYRnZlQkZrUkd4OGxWQXdOZW9MVUhUbHNMWk5wLXRneFo0clIzVVZzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Williams Companies Inc. (WMB) the Best Infrastructure Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzlxOE1oM1RFYVdMTFZ2bndEQjJEU1E0UENGV1VlZHZMdUVjUXlVSFR0R01EYWV0Nk9GamstMWt1Z1FTeW5jbktsdll5aWlzeTBiWEhVQXY1RTJDbWlwMUFYQ2Q1ampvTHI0cW5lc2lpY2RfZzJRcWZTdmZmUmlVemFHRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Miracle Mile Advisors LLC Makes New $357,000 Investment in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdmN4c3ViRTJjWTlOY2dsSDdPcF9OSkQxUndNY2NTNXp2VHJhSWlDQVQ5aXplSnl6ajV5a2M1WG9hYU9JMXQ1TGVrS0Z5d0Y1UTI1ckJVaWdtSHhMUUVyTkNmTkdkSDljOGtBN21aYkVHSXFoWUEyVlhBcnh5UGUwX2MyMGZ4N1RIcWRMTUNjOHRuVEhJZ2JlSENvOW96NkVBY25GS085bGYtc29oSGh1dGp0ZnFWR0RfTGxVcVRqM3d2azBaampYRVhfYWo1MXdXS3RReXhmdllKSHhIMEtTVmpmSldMaEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assenagon Asset Management S.A. Has $52.67 Million Stock Position in The Williams Companies, Inc. (NYSE:WMB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMVMyNERwVFl0Q2lTSVhDM2ZsTGZnT0xwcmtqRXdPaURiRjZCUVBVaVkwWmJJTVVVLVB5c0lRUzgwenBDY3JFc201RFU3THRBLXotQnBmb1NlWFF3UG82am5teEZoOTZKczk5YnRKb0NBakxlek9YWFNBSm84TG5FLXl2dUJ4VTI0OWJMYkZYeFBHRnkzaGFUa0kxMTFMZ0dZaWhJMXZBTG1JNmtXRmozUHZQQWxMajRxcDFNZkZ1MkxDNmZwZ2Y1TmRfX2ItTjExd19wSm5Va0Z1RGFiNGNhbEU0NFQ4TzMxSEE1cnNJTC1Jdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS Remains a Buy on Williams Co (WMB) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaDV4RXE0cDhHSlUxS2F5R2dBSG93T2t0RXdXc3RLdFZVQ195Y1E5VWZiSjBWSXhTeEJHMDZjRW9MQkN1TGNyTU10SzJNeGxqRERwcndCa3Z5VWt4MWREdGFNVnNzMkRnd2pRZl9oMjZzc09iRkJWRURpbFo5MlB2SDk3aWFEenVVRVVLMlQ4MXlxdW9hTVdwUzMyTDRTWkJYMFBxSHFPZWNFaW9KR3JSdmdaeFNXaXpwSnRHR0xn?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

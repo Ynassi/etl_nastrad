@@ -2,12 +2,12 @@
   "ticker": "CENT",
   "name": "Central Garden & Pet Company",
   "sector": "Consumer Defensive",
-  "market_cap": 2026688384.0,
+  "market_cap": 1963182336.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 18.832447,
-    "PB": 1.4799565,
-    "EV_Revenue": 0.995,
+    "PE": 18.194149,
+    "PB": 1.4297956,
+    "EV_Revenue": 1.002,
     "ROE": 0.08186,
     "ProfitMargin": 0.03904,
     "GrossMargin": 0.30831,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.09865676680930575,
     "ROA": 0.04221,
     "PEG": null,
-    "EV_EBITDA": 9.508,
+    "EV_EBITDA": 9.579,
     "BuybackYield": null,
-    "PriceToFCF": 6.563762881268167
+    "PriceToFCF": 6.306470322335165
   },
   "technical_indicators": {
-    "RSI_14": 48.17094350320365,
-    "Momentum_10": -1.515999922326611,
-    "MACD": 0.0367898722825117,
-    "BB_Percent": 0.2885083607658598,
+    "RSI_14": 39.6013931487494,
+    "Momentum_10": -5.144202638911413,
+    "MACD": -0.068534186033176,
+    "BB_Percent": -0.2210887429861278,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9319909189193892,
-    "QualityScore": 0.3581160656875277,
-    "SignalScore": 0.5632705959154425
+    "ValueScore": 0.8938334104263287,
+    "QualityScore": 0.3678410355190423,
+    "SignalScore": 0.6467222716329009
   },
-  "volatility": 0.022340761824792,
+  "volatility": 0.0225632375662535,
   "beta": 0.648,
-  "return_6m": -0.1216820249786482,
+  "return_6m": -0.159995068623329,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 41.02
-      },
-      {
-        "date": "2024-12-10",
-        "price": 41.02
-      },
-      {
-        "date": "2024-12-11",
-        "price": 40.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 40.0
-      },
-      {
-        "date": "2024-12-13",
-        "price": 40.72
-      },
       {
         "date": "2024-12-16",
         "price": 40.69
@@ -537,63 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 35.7
+      },
+      {
+        "date": "2025-06-09",
+        "price": 36.13
+      },
+      {
+        "date": "2025-06-10",
+        "price": 36.33
+      },
+      {
+        "date": "2025-06-11",
+        "price": 35.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 35.52
+      },
+      {
+        "date": "2025-06-13",
+        "price": 34.21
       }
     ],
     "current_price_data": {
-      "price": 35.7,
-      "change": 0.55,
-      "percent_change": 1.56
+      "price": 34.21,
+      "change": -1.31,
+      "percent_change": -3.69
     }
   },
   "news_sentiment": {
-    "summary": "Les marchés chinois ont marqué une pause après un appel Xi-Trump décevant, tandis que les actions de Lululemon ont chuté de 23 % sur des perspectives faibles. À l'inverse, les actions de GMDC ont bondi de 40 % et celles de Coforge ont progressé de plus de 1 % suite à un fractionnement d'actions. Les stocks à faible valeur unitaire ont également été en vedette, avec des hausses impressionnantes et des mouvements de dividende notables, reflétant une volatilité accrue. Les investisseurs devraient surveiller de près les performances des sociétés énergétiques renouvelables et les fluctuations des prix de l'argent, tandis qu'une rare accusation de délit d'initié a été approuvée en Colombie-Britannique.",
-    "sentiment_score": 0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.2,
+    "summary": "Les marchés ont été secoués par la flambée des prix du pétrole et la chute des actions américaines, alimentant l'incertitude autour du marché du brut. Les actions à bas prix ont connu des mouvements volatils, avec des hausses importantes pour certaines, telles que GTL et Exxaro Tiles, tandis que d'autres ont chuté, comme Genus Power. Malgré cela, l'indice Nifty Auto a enregistré une baisse et le Sensex a mis fin à une série de gains. Les investisseurs sont attentifs aux évolutions des relations commerciales entre les États-Unis et la Chine ainsi qu'aux acquisitions et aux performances des petites capitalisations.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Hong Kong stocks halt 3-day gain as Xi-Trump call underwhelms investors - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1NUQVk3YkZnaldPeTh1c1RZSmM5TUJNOVZ4YnUtbnRNcUNuQmVXM1l4Yl93LWdadG8xSl9kX3Bjd2FYc0RvOHJrSVdOczQtRWhoano1YlRjVS1IN2VfOVdUX0N4QTVfS3p0QVFDRVpnT1VxVjJVN3dmZG56enhWaVBIMlh3Q0hmN0hNclQ2bmFCbmMxcHI0SGpqR254WVZPU1BXUFJscmRHbWFOQzA5REtXTVJITElxd0Ruclc1bmpiTGxCVXdFLdIByAFBVV95cUxQaVl0MXIyM2ptUGVSOVZEZ0c2YzFPS2Q3MVp6aDVXSVpuTmRJZjk4WjFCM3FKMzNrTEtKdDdlSktsQzNVNEZqczJJNTdwcmRaVnAzRTlILVp1VFE5eFdkZXZSNGF1VmJjVGNxeTVqdEhzVWZsQU9HeV8tVjVWWUppV3JWVTgzdzFQRjNnaWFHM0VlV25TR0k3RFNEVnF1dWVQUVhxLWpDd0xrTnJmRWFVWXhXemFkNk1EUVNZZVA2aFViMlNvUWlObQ?oc=5",
+        "title": "Oil prices leap 7% and US stocks slump more than 1% on worries about the crude market - BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaWJJeU9xc2dPZVFmZXQ0SWlGNGU4LTQxU0w5S3Y4bTZjOUJEUXhlUU9iVGs4Mnd1ZmVIZHZfakcwUmh0cTBBSVI1bkczNzR6QUYtSjN0UzdySk9vQU9WQmRkOGFwZW9sWHJ1VVVKclQ3OTN2a1pQYXpWb09oVGRJT1NLWElVc2ZCUFVHMC1jUEhfN09IRFAxalBGM1R0eDBMWFNnZ190ZEFNY0NpTDZ0cGVZeS1mZ1I3NDNEc2VYUFpSdW9EUlY3amZwcTZhVVhKMmc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "What's behind 40% surge in GMDC stock price in past one month? - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNemZRU0pWaDJ5MVZCakhDMjFLd0ZnNjRxTk1oMW9GUUx1SXBSU1lRWXRYYjFZM3ZtWk9PQjVtR2tobVRucmpZNktmMEpUSlYteXFaOFJDZG1YYThBajF0cGZ4a2llZklxYzJBM2pCRHI0cUhHZ2ZpdlpzNklaMlVCMXpjbEtvSUNpZG4zOGZidEpjU245MHNWeE9EaHN3Q2h5SWU5Q2h1cWdYTmRqcml4VW9TbVBuMk12S3JZNDVWbGV3OFRpV2fSAcsBQVVfeXFMUFo1ZXlHYmtMejRGVFZSa2U0Q1lac0dpM29hSWVzRmZUd19JZzhNNUFBc20yYXV3T2M1RjRyNDZzXzFjbjFhd0huTGhYOFctRE5GYWY4QndJZGdxNVVvQmhlNXpSdFdncGhZb3M5eXBPV2I2QVk0MXBoZURKamRBRV9fYzBXQlJlWGNwWnpsOVY5UFN6c0huN2RzcjR2UVlFbURKNEllX21QTXdtY1E3bW9Qd3JZUHVic0VVQVk5dkdDX01oNC1UT0pIUUU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lululemon shares plunge 23 per cent after hours on weak guidance - Business in Vancouver",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnZvUmwxZHZZWVp0VjF2cjBrYUtWMkZ2X0w4cElYaERpM2ViX0xjWHpTOG5zX1Z6d3V1VXFrNFJUMWlQcElYSHZnd21ZZ0hiTU5xSktaVUFiWWhCRnZ1eXFaWV8xN25Hc2oxVWo3QUNCNHVaRkRKT0RRdEU1QjRleUE3UDlYZ1ZNbGJaamhfVWgzdHRwQmxhU3JOZmFDelVSb09zWm5WV283YVM0RURYRHBjaWV3Z01LMmtN?oc=5",
+        "title": "It’s normal for stocks to collapse 85 per cent - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVi1nT0JvWFBKcmVEamNkYWw3TXVZdGd2OXJWQllVNy1BWWpuYWc2ZEFZUkR4OFk1Wkx4SUlnaHEzSUliT0lpVDR2UHFwWXZCOW01Q051WjFtMGdaMFYyMVA1R2xpMnktS1R4dVdfRGc?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "US stocks close higher on jobs data, China hopes while Tesla bounces - The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHpxLWdOZklaVU41UnRKR1FGdTJsZWJra05JTjNLN1JZTm55dk5Eb0NqaU95ak5CelZsVWRjTFZpbDBpbWI4RG4xS2ppVFg1a0JKc1hxUHlCcXRBSUZFc3draGpRU19DM3Z4Zjh6NGkwZmpDUDgzM0trNVBBWXNoVUFSaEQwd2NQYmFDRWtfYUpfdVhINExKS29aaDVFQWU0VUtCNmVoMHdtX1NURWRVTTBzNGZyb0FOSVhBZ2JUWXU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "50 Cent Shares Clips Of Diddy Insulting Donald Trump Amid Talk Of Potential Pardon - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuYXVCYUxFbTdubzNDLU1FMGgxblNxYXdPY0ZPU3BqSUJpN3ozaUxwQ2tDSjJDZUxuT2R4eHBDMk0yZ1JUNnhjTDdZcFVQOTNYUGRZWWdvTFRBdS04dVVHN1VVdDVmZEljX09IaUZ6M3lsTUxzNEI0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "This stock surges 7 per cent post 'buy' rating by SBI Securities: Details here - India.Com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTd6aGlRbnRLNTFyQ0Nlbk83TXJSdHhfbUdpRDVFX2R6MjctQ2R6ZWhXN2VIWmo0ZUZ2eVotOWRvLV9GX3E0NGtyNGRSc0paSnkzRW8zSTRud1dWWnB5SFFlVGk3SlYwN2tkWm5IRXJKRG92SHI0d3VSc0JYbVRDczk4anBHOXVOVTJIc2tDZ2Z2OFBsWlJHMkY5M05aRHFuT2pucWxlUjM2bFM1VE1LVEs1VU1lMDRxbE5kcEdiTms5Z9IBxwFBVV95cUxNdU1EVnBYQ0UwUEJhWXdnZ1lGWVV0NWV6aUZVUkFrcEN4dFlFU0tzcW1raExENEV0VDdRV1NIeHRDWndxZElHbk9RZDVZVHNtWHFnTEF4cXN0N2toNjZVZ0ZDeDVSNjJUN1M3dC1KWV85SjctS2pDNmI1eVN2SUJsbmpJSi1oSFdMMTU3NmdNNG0wXzJrd1NsSF9iRU5SaEhTUkNXbW1MNnNQZVc4M3NuT0g5N0l2ODRXY2dkcU9PenJYNklYWW84?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Turnaround penny stock hits upper circuit, Revenue jumps 13 times; Volume highest since July 2024 - financialexpress.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVVo1R1hHbzExZG9JcjVsNTV2ZGR5dWVUbl9yZ3pncVFOSkJQWEw0NlNlaTFsMFkxeUNFZFBVVU02OVl5Qld6d1o3dVF0M2VKWElfczBWSnZhWVk0SHRkZHQ1WC1qa1E3VmphV0gxa1RuelVhTUk5RHpKTVp0VHJleHhJUERTUUxTX0otTV9kZ1pJaUZOamhUWmd1bkxVZlQ0RTNCbHhKdlI2WVFDNUJRNHNXRXdBUDZNenFCQURaREdDaEJxUnBlVjdmc2Y3ZkNEd1JiRzN1ampHUWtMTG1oaUNGdHBtaGdmb19lZ3dUZm8?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Penny stock below ₹2 hits upper circuit after bonus shares, 100% dividend move - Mint",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWE2ZEZ1UDYzYXJWYUVyemFMU0dJNWwwdjR0SEpoWXpHUkNQUUZLQ2RMUVQwelpxNDRiMm0wVWZqOC1EQl80ODdyWGhBblR4dk8zQ3EtOURYNlB3UTlRZEVCYkRZd3NURE16Y2VlOUwyb2llU0g0N1FrUVo0QThOTklGSjlIcU9IMG1MSHU3Rkthd1I4dXhJWUlwdXpaRFBIX2dKTlQtY1ZZcFo3dTNUclhQbHBUVTFDeHQtOXQ5VHlIN19pOWV0TElyX0FuakdwYVNLUDZqQVEzLURiUjlHN1NUeFBlWGJ4ZHZpdWFvWVBONG9QZXBj0gH8AUFVX3lxTE9PMlNBbFVnTVJ6d1lwM1AwYndOQTlXNm4zZGM3c2ltR2lsNl9BdWFVV3VIb0RwN0ttWjRDSUxKaE9fOTJWWVNNajdyeXQyV3MxMHNVakhYNk8yS3hZM05LdWtTYzNqU3BPU0dqWmh2VnV3X2M5bGhoR3J0cWxxZHFZZ1JuSzRQeHdWU3ZMeXhkLWpuLU5QRzVVaVFWVlVPZk9STGstSjY1T2FtSDJvMXNpM0pVY2VSSl9kZTk5UjZqZEVsR3ZWdGlTV1ZtY3Q1VzY2d1dZUkZ2aGFpZ2ppaWFTblJzUms4bk95V0ZLNHlCd0t2bmMtRXd3TzR2Yg?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Best Penny Stocks to Watch in June 2025, Using Technical Analysis - Investopedia",
@@ -601,61 +571,91 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "US: Stocks slump as Tesla shares tank on Trump-Musk row - The Business Times",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnNhTXRBQ1M2VmlVbGwzQ1BVQjEyZ0RPVTlfOWdkSDY4NWt3bEtOSG0xS3FCQXhxYTRKMGxMWmJIQVBrTUZfNGo1Z0s0UEF6UDdxNnd3ZmplWFVWb2d0Y052djU5R0NFQVZOc1pOYUppLXU2R3BwajdfMi1EVHBNdXdpa2VfN1JKN3R2R2VGcnBZR3haU1k5U2I0WER3ZFc5SmlwYnhHaUZzVjhnN1NDaVc3eFVtQW1PRURmeUdmb09HSjh6?oc=5",
+        "title": "Penny stock below ₹5 hits 20% upper circuit after THIS update from the company's promoter - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUDdkTXlYbFgyZ1ZaQV9SMXl2cFNsSVRjWlhZRG91UFRaaE9mWGxUMmE0ZjNGdXk3MVZzRHlET3h2eUt0UlJWU2lKWjl3V1QzWHp6WGFLSVJIRV9mcWE4ckZ4TEdQcWdvUXpva1BwWHJMNzFEMXAwdU9lZ1FNX0tkNnJaUkNzQ1hIU3JZQU9hZ29jRDhTenZubmp2MnU3Z2xRUTJhX0FUMnB6d2tSX1Q2YkJsZW9zTXhXbDNIT2NOalZIU0p1S3RRWGpCR3BtTlZybk1xVVY0ZUNkUVFtN3hqeHdqemZGQVc5YS16TdIB8gFBVV95cUxQMFZuUUxsOTZlek50MzdGSGVtSXpHeEdPZmFaLVpsWkZrd1hMenBmdENzMGJMVkR4OW54cnJaaVVGY2JheDQ4MXVsQS1iRUFtTmdySDFDZGlpNEdnU2RjOXRtSlk3SktYNE9jTF9rQm5ZSDdnTGZvVWhLaFAwWHNySjVrN0ZRRXVCN3dQNkg2MjNNMFJlZWdPdkVDUFpad2Q1WE9xcXplLXZsRkdyRVdrX1hObWhMODV1Q0Y3V1pDazZDc085cERoV3h6RVNiRDlsWXJxNnRZcnFkNmxKZmN0QlJ6eFItU05yZmoxenpyeXR3dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTL, Exxaro Tiles zoom up to 85% in 1-mth; time to sell these penny stocks? - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS3VKYVVwMGJTM3pxRjhtaVJuVnNrTDVSd0JpOWtka3BXQlRYOXh2QWxyWTVjZ01aOTJNXzU0cUYyTndYYVFRWEJfQXFkSkkzN01hUEJicl9QM2pSV3VkZGZUampkVTBVdlQtV3RGdlAtWGxCRFdtM0g1WUYtMmo1N29JTFdMd1Z6aHhQbHRmQjhIbXNJNzRpOTFoeG9rSXJtSWRxbHlQbmFhQ2NYTEpaSF9KS0lPWVRwdTFVeG83ZWlPTFhucHB3R3R2TjFnNDRXNDVNeNIB2gFBVV95cUxQTVI3N09SRUxFSkZTZHJic2VBMlFHdXJhdnBRQzNwZ2tpcUR0UF9DZG8zbnk1dzV6RExNXzdCNkZ1RjlDdFhHQmU5VjZuelFKaXZsNkl6cDMzaEVfYUJleHdyN3ZOTGRNMEpxcVhONmlWdVJBd25VeUdwY3lVVWhGVElIWlEydGJBbFpMR3ExRmViYzhMaEF4UEt5YU8zV3RUc1daWXdtb1QwMWpLVlc4cDlnV3o4MEx1NVlMa0NWc25MUFNhaHlCd0hwUU9FLWFQczFCWXh2RG1vQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hong Kong stocks erase gains amid ongoing US-China trade talks - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXE0aUxBWEt2QjJkbmY3MjZhclFaaDNveWN6RlkwZmtxbTdMaE9tUjRQQ2VZdUtpTkpReVRmSFVpa281QWxYU1d0dUVXN0FZWk1ZN3hFWVo4SUxGYUYtTnhFZWxxdjBiZFJnNHlVWHBzdXdZVzVJWVpKRWJGVUZWNWhwNFpNbFloVVZnQU9DS3dnaXludU9COHRNSmVpVjlKaXRTbUFUamVZc1ZaQkw5UmZfR2NaRDZueVHSAboBQVVfeXFMTnU0c01WTXRtY0dNZFpTOC0yM1RFcE5Uc0F1ZVFBbG9nU2d4NlZ1VDN0SGhhZ0xZVDNPbHhYUjY2eHVxVnYtelBSNlhPLXZYby05akVlSXNVWmNhb3l6ZFkwbzBXWUk2UmIxTjZvSXhQNksyQXo5NHJ2WUxyeTdiWk5oSVVVZF90bFczUGVSUTU0U1BWZzRrdmxRU3NXcnhkbkVrRll0VURoOHN5SWhHdmpCek53NzEtVk1n?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Coforge share price rises over 1 per cent after stock split - Value Research",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVVfZ2syNmtiazdRZjBvZWhqNGNSbjBqTjdmMXdSb3VEWm00MzJKX0YwUjE4bFZ6cHJMRHBDSlREXzdUWDc1RDJtSVhmRFNqQW9HZUZaU1E3UTQ4VUdTNjg5VXF3VWlFYV9IOXYyNGVhRThteFB3MlFDOVlNWm9VVE04cWtPa3gxZnI2U1JmVGt4QTBJVWd4UGcwZlRYbEViZ3pzVlFQS0k?oc=5",
+        "title": "Stock market update: Nifty Auto index falls 0.36% - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUjJzWlRXVDlLV1o4LUdmQW5rYlYwZ1VPN2M2bzd5akZlbHc1TDFhc29KVmxoZWhOLXZJcElCMDBqMDVlOWFSd2hVS2FlckY4YUM2Z2lwT3A2WlJtQ25xRnNZMEtaZEg5UnZtVzJsSHhDcUFGRG5YQkdEdEk1dGxyS0JkMjJEMkhSRElIVTZBNmh4dXJXYklscjlxbWFjVjFrR1hsQUh5dGVrTGpNRmRObm9mOHZ5NngwZ29Ya1FhbXVxb3lleWZ1SlkzU0nSAcwBQVVfeXFMTVIyc1pUV1Q5S1daOC1HZkFua2JWMGdVTzdjNm83eWpGZWx3NUwxYXNvSlZsaGVoTi12SXBJQjAwajA1ZTlhUndoVUthZXJGOGFDNmdpcE9wNlpSbUNucUZzWTBLWmRIOVJ2bVcybEh4Q3FBRkRuWEJHRHRJNXRscktCZDIyRDJIUkRJSFU2QTZoeHVyV2JJbHI5cW1hY1Yxa0dYbEFIeXRla0xqTUZkTm5vZjh2eTZ4MGdvWGtRYW11cW95ZXlmdUpZM1NJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BSE Shares Under Surveillance After 130% Rally Since March - Deccan Herald",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEhjNlYtWG11dm1TRHg5WWpqZ1A3V1hNRTZWRjNmdV9nZXZCREhhbGVnRWsyMUZqQ2pXMHlpaFpsX3IyTnREaGRrY3FyZkU5VnlpT2JiTXlOeWVSdnRxNGpvTkNjQVBXeE00cko5QXF5ZVBGODl3VWt0OWhhWlhsZTllMEFWS09WNkRHMWhmbkhWM2Jnb0FFNlVKWEw0aWc0bHZVUVA3UWpoSlVRY09LbTdUc0g?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "This smallcap penny stock soared 18% on renewable energy foray; details here - Business Today",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNME02aFo2aW1FNXpvR01TSmVzVS1ENUl3YWVTN1BSQ3BRcUV6eXdtQ1N2TXRGU1BHUXlyX0VuQXhEUTBUeld0eXg5bkZibEtDWlJ6aVg5V1BpS0h1V3doNHRtRWlIdEpCV1Vvb0RsX3VUMTl2eUR6bks3SmpQZ2s0Ukx5RE5jTW14Z2poel96MDR6bDI5cWdPZ1piMk43ejRuMHhyYXI1RHpHYXktWkxjalYwaGltdFowd1F5XzQzcDI2MmVrVlpUeHdENXNqTzJrVl9MTmpad3VBQdIB3wFBVV95cUxQMThaT0dwV1ZXUU9oZ2lIRjJ0RDBUNHBuYjZzOHRFcW1lMUUzZGN2X25wSkp0cDREZVRIZDNJeEtNZDEwOUJQOFZuMWJqNlM3dWJTTklRZEo2czE2MFBKQkJfMnMwd2c4dS1EdURRZFdaWEtsNERLMTI0VEhUMng3bHhwZDZnLW96c2UyMVRyazlwSWtkV0kzMWs3bmJXZUNmQjV1RjVGekxNTk12TkFENkdHOWZrcW53eS1KY0FCLUs2Zk5SaXBVVDJYdEQ1TnR0NVdfajN5eWxlX2NyTHRF?oc=5",
+        "title": "Stocks sink and oil soars after Israeli strikes on Iran shake markets - This is Money",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1paSDE0MHVOVFRLTjZkNzFoWFpsZC1OT3NfNGItUDUzc19kRFR0bUxENml0V1pMbjRYQUtuV29id2RVNnkzTnZjR3VBdG1taGRjZ3gwcGN5RVd4aDQ5TkpZbWxuTzJPVFJCdVlsdFlIRWxxczAzSE1aakNoamZTNkhLSkxONkVtNEEwMjE2NkhxMzFTd0V2STFlclNCcDZQbm95Rm5qNkFKMEctVjBWSzJKLTlmNTZBTWtFUklvVdIBxAFBVV95cUxOLV9nQTVBQm8ycXYzUGJzbERYdmVMeW1FNkgtYnZBcGVCdkNLa2gyZHFUQ3RFeHhKaGR1QTl4b1pGa0sxd1FPbWhpTkZ5MU5fQW5YU24xUFRLbk1Td0VrdXNlN1g2UWQtWnhLd3V4LWdtTFFuT2JFS1hWNUhPNk5IQTZGWmNacXhQajBEOXBNdWJhcmtXQ3hMVzN1TU1aM2tRQ1JfTGk3S0JWdGJUbm9JdEh1SlVHMUpFcmM5aUVRTEJ6bEFw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Three small cap stocks that fundies tip are on the rise - AFR",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0RJUE5ONmlxd3BxZ2pjcjc0TGRjQmtjcU5zQnp5RktNOEZ5a0xxc2RGMTNJcTZyZW9vWllnanhpRHRCaTBmbEppUFM4S25sSUpyVi1SNmJ1eC1MdTh0bi1JbHV1VGN4VzVuOGRwQTFBU2dpV0VUdW1uREJKTzN5Y0pGdWlBLWd5NlJtUll2V3VCaXVxRUx6M1FCVERGOHZQNWV5aU93dzNxZU9zTkZMalZfTEs?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "3B Films stock lists at 3% discount on BSE SME, misses GMP estimates - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakttRDlrcWZGem1HLVVYQTJTZXhWV1NURW1Dc3F2WHdBRm5XTnRRRWQxa2xnMlhOZG1BNU1razBudW5KX05ZSDRMeUJacEd1SmptRzI4bmZSdFlsSG5MU251bFBQaFItUmd3MjUxZnFnTW45ek51ckR2UEQ2djJtMWVzZlQ2cllFR1E3dE1XMjQwTGlleVBaY0dmSk5pOTNBZkdpdHJqWEctcFV3MlVGdEgxamwzSXVjc3U0ckhobHNvbVRoUDQ2UHpTUW12a0E4V0HSAdcBQVVfeXFMTU1DSGJRZEhya295cVFYVkxibWtkVnJ1XzhZNGQ0dmJxcWlka0YtR2VEY2Z4bG9XTThYX0VMMGtJcTAyeHBhVjQ0RkUtdTRPMndnakMxdklxY2otVlp2WDJaU0NDYzBWXzVkLThReGtYaEtfSHZqSk5JdFByZ0dJbVVEcEpqVnNFclVrXzl6WUxOckZxTUp4Z3RrQm1haG83Z1JhOE9OZFZxQ3lLYnJFMWVtYUR4Y3dva2xGV3hlbDhsZkZYcUdJRWhrZFNjY0Z5OXVSUEpFM0E?oc=5",
+        "title": "Acquisition: 1300% returns in 5 yrs! Realty stock gains on buying additional stake in subsidiary - details - ET Now",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU2VadlY0YkRsbGhPQXF6SW43M1JCc1BaTkZKZFpfeDlPOGpuRUtoblVkSU96aFRuRHZiZFVuVjZKSEhSTUt5d1ptSld3dGVvQXBJMVpxN0ZILVp4MXFCcUxvbXRvbnUyam1Nb1VwTGRGX0N0anlXQzhpaWthSGdlRTdlTHZHX2FfaU0zc3RQcWlWUDdRbi01NkZ3dHJMVkF4c1JaWFhERE1CQng5cGY1MjRrY3BhR3lyY3N5bURLN1RHc2NXRE9pbHl3d0F5RjgzUWNwR0pWLV9FSVV1M09KZnlueFRYbldw0gHuAUFVX3lxTE5oc0NJcUN4c2ZZNnJZcmF0MFdVdmhVOUd4SERSLVk4RzQxYkRPQkNRQUlTTjRScGVZeUVLMUtWS180RGRMLUtRcV9uYXIxWWVRcFBUYkhxRjJVXzFaQ1FJSE0wWk9vRmExSzV4RGxhYXYyX2x2ekYwYWgwQmV5TzFrS29KRWlhS1E4UVQ1VVUtdndLb3BsSjFqRnpmNDZXYkxMNC1ET2lyV1c5NU5XeGVEb0YxVmgyMlpwUDZqSE8xR052YmJ6dERZV05kN1pBa1JpV2ZWNHVLblVLTnoxdWVzXzVZWTAyYkJqeTVqT2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why the SEC is allowing some stocks to trade in half-cent increments - marketplace.org",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFI0N2ktVi1EZ0pzOWY1MVZUcThnYk9GdGt3RlM2UExEM3h1ZUZvQ0JPMDZBZ1pvX05UR3YzUi1INHVzX3hkWXAteGpzQzJYQmZTRHcwUE93c0JoMkxUUUlZUkoyVmk1RmhsN2FwblNnZElvdnRkUDcwdlFJZTVwVkNjOFVZdE9yYWVaU0loT3NSVkx6TXlxU0x6R0x0S2lTalNJbEtFRXlpd0tV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "750% rally in five years! Why will penny stock under ₹10 be in focus on Monday? - Mint",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVkk4LURCaW1MTDc1bnRScUZWU3dUZ0pMVTdBS2tLLTc3X3JLU1VuWS13OHJzSGMzRDhxSklWVk9UQl8ySDBueDMyZTZUOFpuRVVpNVl1Z3ZacmJVV0d4dlJEODdFbGxrNEVwRDBkWEdMLUR2VmdIRzd0VEFlLTFsUW9qaVpXb0N4SW9HQjVMNV8xb0ExX0sta2ptaE9EajM0bXIwYjJIeHUyVVV5UE0weFNyekRONTR5VElPUXY3ajdRRGJXZ0hTUVJ6SE9reVZreGxIOFlybHJiT1hST2x0b1pRWGNkQ1NEN1NZSi1hSl9DQTBIQ0dUSE9DR2dZSjlOOTVRN2Jn0gGLAkFVX3lxTE4zSUZ4N01wdVhQR05QMUJQZnRuREh6Q3FRbENvelB4WG5vMGVTa1hMeFM5MnhEY2pXcDI5S3hGRng3cXZfNnJ3a1E1RVNlS2ZIaENtU3JuWmczX0ZkeUpQZTRCbTFiX3VXMHEwSzNrWDF2TVhLaUtwSkR5STF0enJvM1ZYVDc3S3g0MEp6UENrUUhiYUdTM29McG5XZVU2bC1QbEZROVZ0bWF5bWZ3R3RNXy1oX05fSGJiOXE2dHZGVE44UE5pNDVjWlk4MEVJZVl0akdXLTUxdDdtbjZ5NEk4WmUtb2YxWDZ2SHUxRUlPY210WmVlSzRVbXNkVjB4aU9XZG1uVXhWTGZFTQ?oc=5",
+        "title": "Penny Stock Below Rs 2 In Green As It Expands Horizons with New Firozabad Glassware Facility - DSIJ",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWFwUlhTS3BILTRoc0JRQURTZnNIVUJKVVh0ZHZDZlBaemJCdFdNYlE4YmdSNGNzRzlJQjlydm5STy13MW5jU2FGQ1BVbElyVmxhN2FwWHFBZXRmU0ZNcE0zNEZJMFpBSDdBXzlaWkJvaHdMR0p5dHJHX0RLdWJIS25XSkNNVFJHX1V4RU9XUHBudkZpZTY2LUt1OUlmMXYtbmVaZ1N6VUxlQWhRU1l6MkNFRS10R0UzSnRXVG54M2NjMDhlT2ZzTHdzQWk1dk93VEgtZjBKOV9uQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rama Steel jumps 13% on renewable energy foray; stock up 25% in 3 days - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPajhBN0s1dFpiYU5hZHRMSTd3bXdadFd4bFdMY1djallPR184bWxCZGRmc2ctMUFnSmFlMEZiQzVJMlJkc3BpdTk1ZnE0XzdmR1hTUC1jQ3lLOUZFbUwyN2tjVTJFRnBCdjNFNm1qRVZZSThaM1hHOGZxSHNPb1NEZ2liSGstZThXdV8tTzJGQ3JQREtlRzhQbENuU2h1QTNyYllsMjhSaWdEMGpTUzVvWVBELUxTeUctbWlXbFRyTTZrMGxBeDJsaGpIbEoyQ2gtQ1ZtTGl30gHbAUFVX3lxTE9DVll3UlFIbEcyZFFxaG1YZzBGRkJ3cXVtNnpJU2wtSEtOcUg0dFRfbE1qMkFJdFhhSkl6SzVleU0yOHowMlg3WHdLa0RXWUI5VTVzU3lFNmhNcHUxYTFnSnliZFB6dlgxdURvRWFHUWJqQUdKYUhYS3oyQXRSY0haNDVCUDZBb1BGSXJ0ZnJhRzlNR05RMjNTSEVvWkMzUEItdkJIOXhQTWxnbmVySWxoNkQ3SlJsbXBvR0lFdlVIeVYxQjVfbjJ6M1VJQmJSV25jYUhHblNzVWU0NA?oc=5",
+        "title": "Wall Street ticks closer to its record after Oracle rallies - BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWV8yRTgxWVp4bkd6a2dDUG5ITG1rTERFWG1Oc1owWmNIa3lic3hRWXVSbnZEeEpGRnQxeXBoOERQdVlMaXR5Z29FbTNuNW04Y2UxTFF0WDZFQS1iY3p1cVpPaTF3TVFPX0kyWDlrbGo5eVpBNFVtVURaRzJhU3A3aFE3T1JQN0VIMjMyeXhINjAyVGtrUFVsbS04NjJHU0p3ZXFrdnRXSmVPa2VNV2N0elh2TDRITHJMSEpDX2hB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Penny stock below ₹1 skyrockets 19% after Q4 results 2025. Details here - Mint",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVW15LXdFT1hUWXZJQlF6ODRLWXBCQzJkZU5ZTVgzX1ZHRFJVNjByODVfcGQ5YXZUMXI2VDFpd2ZrVER4eDRlYjR6a25JYjhOblR2aGphNEd1dWkwU2lJcnpwNEpoektrbk5HNUttbXpBeHBvbnREQXVFV3lZVDYxSU9JRWhLTmtwS2lOcl82MHg0MlBTbXM4WFNpaDhoQ1BJdUJBdXZScFdGZ2FmbldFaDI4N09TemNBVHVaLTBIUlktbnFyUWFrWUZFQTJ3WG1XTW53dEtSaTN2TktHMDIzbDFDUTJTak9FZmfSAe8BQVVfeXFMTlNRWWhKQkk1TTBFSkV1dzhDSW9WTngwLUw5WjRZaHlJOWVPVUVEdEJpMWYwOVhSNXJfSEl3YU5VY2d4Z29rNmtUUnFmcXJIT0g0UXlMejdvNnhiUS1RYi02eW9PeENKckpfZ2RYUnp0N3RXdU9qejROZTRkYUU2Zkg5TldBUVI5WUpMRnotSkREa055czdkM3hRVW9kanhDaUptRW5Ka0dQbnhlZHBJcG9EbjNMRU9jcUE2YTNhbEhxXy1BRXMwN0NuQ000WXQ1RFZqenc1Z0xYOWZyOE1Hb3p5MnVXaEdGamlLUTRaVkU?oc=5",
+        "title": "₹12 to ₹870: Multibagger penny stock turns ₹1 lakh into ₹72 lakh in five years - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM2xJaDhqV0hET1JYSkxBdVktSllzbFJPaUlsdU1mWEdtR0hORFJHZmV2WjdNN3B0WTlCbjdqcmEydWlXdXp2R0ZjOUN5Y0x6LWdLa2g4dTY3TlBSUjZHbHBNQ256MFJfalJOekpEUEhidTBhN2tyQTBKRXFuTEwxQlduQ21uakNFNDkyTjc3LXQ4S0Qyc2k1VUZ2UlZTbWJPXzVCV1RaNERCZUJWWWx0TTFhTmpLYzN5MDE1RWVRcUxEVXVUcWl1UTVRYXk5cVhUb1E2U2NaeWdhMknSAeABQVVfeXFMUDh0S0RjcXF4V3ZQR2RvUERDUmtndU5LVU9rMm5CRm5abnhIOWxwTHlPNkZHTTBwREpucTdiRzdTcnhsRUMxV1R2dWlNcEFSajcxLU9ZY0o4U0pMaGpjZThIQUh0V29QbmhpbkNuaDEyekhYaXVMWk55ekp4ZnYwZnlUQzlMVUllYjN6RWcwaE1Xbl9fbndKOXg3a0JlUmN6a1loZ3pPLUhfSFIwUkdjZHZhTGV0X3QwT2NTdlNpTkpIcllZOHlwdHo3TVVYcnNHLTFuT201cWdBYjg0MGNFQlA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Genus Power shares drop 4% on reports of block deal being called off - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnF2alhIeEZCRmw4cXY0czlMb01vck5ydFZva3dGN0J1VldHTzhUVkFuM3liMVZkQWc3MVgwaGRkejNHV1M5aE5sWGltVDlTWElOSF9YVmJ6cGU3dmdkRXpoak9ROUh1TXdIeHRsdkVNbU9OdXZrZUN2TzVjTDc4bHNhbmdPRUpNUFJHNnpuSldqd1VpRFhsT01IeWFfSHAycHJaV1ZHYVFfRkMwZ19LWkFhNlh6REFfdzljcUJuYVV0dHJMN0dUX0tnZkZaYXPSAdQBQVVfeXFMTmhrV0VPdEpRUE11QmNEa0RsYXpVeDMweFFPaFN0T3pyM2VIZzZTMS1XemRpUnJUMktpX19LWTBteUF4OHpfUVF2Wi1oMmlKajMwM3JQOENac1BucVRxRWtHR2JuT2I5R1JlTmpWX3BiYlJCTTZzWi0wM0lTaXZldkNZYktxamJFQ3laQUtRUHNNRGF3dlNmdHFLRzVWQ3QtZTFyMjNKSFY1SjJKR2dGYmxIcjYzY01lRXVxQ3VhYTY1WEYwbXVkZ0Fja0haNjhnZEcyU2s?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hong Kong stocks halt 3-day gain as Xi-Trump call underwhelms investors - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1NUQVk3YkZnaldPeTh1c1RZSmM5TUJNOVZ4YnUtbnRNcUNuQmVXM1l4Yl93LWdadG8xSl9kX3Bjd2FYc0RvOHJrSVdOczQtRWhoano1YlRjVS1IN2VfOVdUX0N4QTVfS3p0QVFDRVpnT1VxVjJVN3dmZG56enhWaVBIMlh3Q0hmN0hNclQ2bmFCbmMxcHI0SGpqR254WVZPU1BXUFJscmRHbWFOQzA5REtXTVJITElxd0Ruclc1bmpiTGxCVXdFLdIByAFBVV95cUxQaVl0MXIyM2ptUGVSOVZEZ0c2YzFPS2Q3MVp6aDVXSVpuTmRJZjk4WjFCM3FKMzNrTEtKdDdlSktsQzNVNEZqczJJNTdwcmRaVnAzRTlILVp1VFE5eFdkZXZSNGF1VmJjVGNxeTVqdEhzVWZsQU9HeV8tVjVWWUppV3JWVTgzdzFQRjNnaWFHM0VlV25TR0k3RFNEVnF1dWVQUVhxLWpDd0xrTnJmRWFVWXhXemFkNk1EUVNZZVA2aFViMlNvUWlObQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hot or not? How recent high-profile U.S. IPOs have performed - BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm9sWGMtM0dhcjg5Skg2Tks4a0c3ZXo3a1BuZTlZMzVMLUNaRG5tclU4MFNueURCTkFSd1hneDl2R21DdkNtYVd4Q0h3OXU4QkZJUkMtU3JQM3dGUGpYWHYtR0ttSnZyaE5DeW1uSDVTaGdRSVJlY2tGdW5KdElxVndNR0lIeGh4a0RCRngtX3haM3VnWFJXY25zeFp4YWtsRnp2cm1MT09ILWc2VHdNQk5RWnFTV1BOemlV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tejas Networks shares gain 5% on receiving ₹123 crore under PLI scheme - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTJIbFEzMndZbE42RUZTOEdZbGRTU25WTEZGQUVYTHJKNGV0VTg1TEJQVDloX0ZmZzhXQkYyaTdNUHFkU0RFU2pSLTBJTGlVQlV2bnVLZVNQb0UzQklYQ2gxRnRHX0c5cEVzbzVBUTczZm5rbFNRVS03REJiVVlNekgyUVZqZ2JwUWUtQk1WV2J3dWxBbVV4Y0k0cEIzY3hKZGlGWFZtbTBjWW5PbDgxd0FDZ01zbGUzSUNoNGMyQndSVTVTZlJnSm9VcHRlN090?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Penny stock below ₹2 declares record date for 1:2 stock split - Mint",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMzk0YU9MdTFUZWtzbTFBNGhBRHdTTEdiVWl4Wmp6TnNnS0QzdnNBbGxhV3BiQTRHaXBWUmt2d0RZdFJodTFjSXg3ZERKdGNfanBsTWxyTTdmdHU0YVlVUGJCb3NGTXZDUjVfYWk1amhpUnNuQVg5eXpGTHJuRXphaXRVbUVhQ1lJZGF6LWlRTE1aNV9QMk55d3lZVkhiVGF6bmh0dnI2OGREUjVlRzlabEMwU2s4OFZsZTV2NEdVRWFPUmdWM0ZrMjJUV3A4LXJXTTBiLUttelI1SGNGWE95U2VKY9IB6AFBVV95cUxOdlFaczBILVI2RmItTXBIX3pGNmlyLWRsLXd3WS1YUGtQZDduaFBXN3pOZnQ5bkpGS3lEcWE4YXZoVDJ2TTN3ZVF2OTdQXzB0YWk5ek1GdGN5ME5zZ2tmOGk5TWtORDlSaFhkVVRqMnF2cmJiVjk0bU90a1hGNnAtTXR6TG8tbWxJTElQQjdnS3BDcnhjdHRLY244bUlpOVBmMk96aDlBazQ2ejJHV0tla3ZLUEdoOXVPWTc2ZnY0TElGcEpEUE9seUpnUFZudkhMUmVqTW8ybDg2dVgxd2RQdDBaUmVIeVJt?oc=5",
+        "title": "Sensex, Nifty 50 end with modest gains— 10 key highlights from Indian stock market today - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkZ4dnh3dUthRkJvQlQtaGRMNXZDN01Nd0NqYkY1Um5hdlF6UGVJNnVDYWtHRDZka1Vad0dkNEdiRkZ2WEtVbDFtekdYbFBHQ05hMVJydWwtRm11cWZKZ1kwSDBRanE3WTg1dU9oUENYQ2E5dTZjbWFSYmdyM2VGaUZQaWI5cDVTWTRxeFh5UHdSNmg5aEFPQjJLRGdjSHcxTll5RGlzdVluMElmQmlNSmtjQ1l1TzZGcm0xM0hiQWNzSk13ZGZQaGh5S2tjZ1EyZDRjdEExX0dBWU43and2Y2hlYlJnOWhvc0dtddIB8gFBVV95cUxQUWR2NzMxQlhWOXVWRG40MkZFeFh3dl9RWW1UMFhRel9NNUZQYUFQOGRHRFZCUVFGM0JKUkdKWTE0YVVoaWNRNnppVi1jdjV6cUxTRDFnZDIxTzVUbW9PZHJXX25XVWo1X2xRb0tJYzhhSzY5UTcxRFNxcVRYcDktNTMtV2RKY0NheXZ4QkNkcDFJLXNTNDhva210MmpQQ1k4Tld0c0pBZE9CbHB6bXRhUHNqbTFaSnR3OUthbUc1LVpYSkJWTEsyVVRnRXNXb2VJSW1UZzdjNTBxYmpXS245ZGpLSHozSEQ4eXRTTUwyYjlGdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hindustan Zinc, MCX shares gain up to 9% as Silver prices hit record high - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTEc5dFNlTzJiWnRyVVpUTFRGTXVmQjFsd1hlQ3VNNEszWFJJRXVPRlZWSWJIamhBa0tETm5JX3BiaXU3TjBrVEt6a2ZUMUFjekRVZERqdjVwNGFRWnlRX29jSHFXTjhJT2NuZXlCZ0NianpnaEIzSXZwMktqQ3dfM0JoY0FleV8ydXlRWE9ybDlvV2pyc3kwaXVZWm9CM3g4UEVwRXdwczk4QnF4anhqYW93RkNQeUY3Tk5tdXdXZEVodzNTWkV5X0UtdUJsQ1VzaU9pRtIB2gFBVV95cUxOZUEtd1o3YjM3eVpLVU9NSFlLSV9LRmk0eFpHOU56M1pTUmY2SldGcm4tckd2bGlzbnBZeVFRb0ZGdkZVMEZiLWg5eHZvMmFWMmM2bVZZaWxmS21YOHJES09YNWN4Q2dDWjJjU1ZjV3N5MXVXSGdhR293N2RCMlBLdmV6Yllpa2oyS1NXTFdwcERaTmxoRVhoaGVMM2VfaWRfanJmYTU0aXJWQk9HZTdYMm40d0MydVJOc0RjdXI0YV84QUNseHR0bF9ZM3poU1NTSWJKSHFmSTg0UQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Rare criminal insider trading charge approved in B.C. - Business in Vancouver",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdKcDlxd3VuWWN6NFpNWG1JcV9DNmhDSXZuUFdJNVFJLWNWOEpBczlyaE9rYnAxeXhjc0hoQThJUmRQSFhBeFVGcXFjcW5ZWnJYMzdLOE1GNWFWay1IY0VKN0FqY0lra1NfUGlSR0hqc1BiYjBTMm9fZ043UnlkTUsxZ09rQUF5VEZKMm1pVXNwdXVQc3R6UGd1anVSUDFiTUtWUU5UUE5yZw?oc=5",
+        "title": "Sensex snaps 4-day winning streak— 10 key highlights from Indian stock market today - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0pnMG9jbGkxMFlLaUZtLTZhNUlYcGNKZVlDT2lrZTBQWnVmOG9oZ2kyZXZyTWhHeXo2ZTItQUJCa0trbmxzU1V6QkpmM1Z2dFlQaGwtQ2ZQbmR1ZkNaZGdBMWwzQkNxcEg3azBJblZmb2pVWEFENTB2aTlNVWI5bUJwVjZGNXBWdkMwN1ExTklCb3hCYzRzckdFaFRxM3ZuOW9KaHJ5dUxpcFpnbTYzbW9Cenh0THdFa1JQQUVZX1hmejMzcVdsYWRUZFhGNnB6Y1o2UnpWcmJwOXlHSzhvSDU2NFlMemfSAewBQVVfeXFMTWgyZlZSU1d0STVpZ01ReWswRnpFcUJSX0YydHFPQmpXaGN4cm5mb1lrOWxWb1ZIekJWMEJnQWUtRlFzT1NTNTMzRG5obTFkT0Rqb3g3NG5QYVZNSzlDQ2NZRjZvMlhIX0Q0cVZJakV3VU5fR0lMYzF2NnAyTHJsTmROajVZOFdVbjFwdjEyU1htVEYyckxmVDl3NU5yNW1kT1Z4VGVzRm5ESk1Sd05yXzB0QzlLTG1nWU9tNi13Q1pvNTdHTkRnWmdCdUxJWV9aNkU1d1lEX3cwLWNhS09mOXppa2twU3hEUE9FMWY?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

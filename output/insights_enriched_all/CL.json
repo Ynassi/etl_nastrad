@@ -2,16 +2,16 @@
   "ticker": "CL",
   "name": "Colgate-Palmolive",
   "sector": "Consumer Staples",
-  "market_cap": 73383534592.0,
+  "market_cap": 73541558272.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.65156,
-    "PB": 202.12053,
-    "EV_Revenue": 4.03,
+    "PE": 25.7068,
+    "PB": 202.5558,
+    "EV_Revenue": 4.152,
     "ROE": 4.51259,
     "ProfitMargin": 0.14518,
     "GrossMargin": 0.60806,
-    "DividendYield": 2.31,
+    "DividendYield": 2.23,
     "DebtEquity": 1128.104,
     "CurrentRatio": 0.847,
     "QuickRatio": 0.443,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.14438887831366445,
     "ROA": 0.16023001,
     "PEG": null,
-    "EV_EBITDA": 16.537,
+    "EV_EBITDA": 17.036,
     "BuybackYield": null,
-    "PriceToFCF": 25.498982799679446
+    "PriceToFCF": 25.397685149301967
   },
   "technical_indicators": {
-    "RSI_14": 46.73840098772918,
-    "Momentum_10": -0.3630383118978685,
-    "MACD": -0.1340469627543967,
-    "BB_Percent": 0.4518437730932448,
+    "RSI_14": 47.12007312583728,
+    "Momentum_10": -2.3760547674602637,
+    "MACD": 0.0723126867604122,
+    "BB_Percent": 0.2629534045573755,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8388237257810706,
+    "ValueScore": 0.7877794616963527,
     "QualityScore": 0.5402525726815027,
-    "SignalScore": 0.6090009560963727
+    "SignalScore": 0.6091234563145345
   },
-  "volatility": 0.0146754129004741,
+  "volatility": 0.014799819340344,
   "beta": 0.382,
-  "return_6m": -0.0282000858594919,
+  "return_6m": -0.0178732901837525,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 92.94
-      },
-      {
-        "date": "2024-12-10",
-        "price": 93.89
-      },
-      {
-        "date": "2024-12-11",
-        "price": 92.76
-      },
-      {
-        "date": "2024-12-12",
-        "price": 93.56
-      },
-      {
-        "date": "2024-12-13",
-        "price": 93.44
-      },
       {
         "date": "2024-12-16",
         "price": 92.92
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 90.24
+      },
+      {
+        "date": "2025-06-09",
+        "price": 90.87
+      },
+      {
+        "date": "2025-06-10",
+        "price": 91.94
+      },
+      {
+        "date": "2025-06-11",
+        "price": 92.11
+      },
+      {
+        "date": "2025-06-12",
+        "price": 93.14
+      },
+      {
+        "date": "2025-06-13",
+        "price": 90.26
       }
     ],
     "current_price_data": {
-      "price": 90.24,
-      "change": 0.09,
-      "percent_change": 0.1
+      "price": 90.26,
+      "change": -2.88,
+      "percent_change": -3.09
     }
   },
   "news_sentiment": {
-    "summary": "Dans l'actualité récente de Colgate-Palmolive (NYSE: CL), on observe une tendance mitigée. Malgré des ventes d'actions par certains investisseurs comme Two Sigma Investments LP et Sarasin & Partners LLP, d'autres comme Vest Financial LLC et Annex Advisory Services LLC ont renforcé leurs positions. La société semble attirer l'intérêt d'investisseurs importants, tels que NBC Securities Inc. et Versant Capital Management Inc. De plus, la direction a récemment présenté sa stratégie de croissance lors de la Evercore Consumer Conference, ce qui pourrait influencer positivement le sentiment du marché.",
-    "sentiment_score": 0.25,
+    "summary": "Colgate-Palmolive (NYSE: CL), une entreprise défensive de croissance, maintient sa performance avec des dividendes stables et des acquisitions d'actions. Malgré les défis liés aux dépenses des consommateurs réduites et à la concurrence, le momentum dans le secteur des produits pour animaux pourrait stimuler sa croissance. Cependant, des cessions d'actions par des investisseurs institutionnels comme Cohen Klingenstein LLC pourraient susciter des interrogations. Parallèlement, des entreprises comme Roku Cl A et Wayfair Cl A présentent également une force relative croissante sur le marché.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Colgate-Palmolive Stock: Is CL Underperforming the Consumer Staples Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVpfSmVoYmxxVUlkVUZLZEZrel80ZTBxam04TzBGNy1kN0J6VTNHQXRKZGxuX01UVS1NOVZXZEpiXzVjN1FjSHRZd2Zsc3RJR0dMRnYxRGFXVk9uVmJOUVdhVF9Nd3NOa0NpNzEwZFpSa1h3c1NPV1hrZlY1YTJzb3Nfb0tFQlhEd0lmN2JLSXYxLUc5MXIxVUR6STZQVmN3Q1pBQWVFMW9JdnB2Z3hTLUtsakJsRy1ET0F5aXRRYWdQaU9mdkE?oc=5",
+        "title": "Colgate-Palmolive (NYSE:CL) Declares Quarterly Dividend of US$0.52 Per Share - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1dSVlNZWHN5QzZCNFpGdmpqc2gyX0dPY3ZUNnRTWUJNTHJlTmM0TnZwRWhKODBkMUFLM1VpMUJjLUFQazByaGVrempCb2g3RnEwSS1aMW5BQXVUdWV0MDhQeUdhLXdySzNXNVpVSVcyRTROZ2dWYVk2MzVYNHg4YXUtb0V3UDFVTUszc2xqQS1jZVo4aERsM2toUkdiRW9CSTN0Ung1c3BXODhCMnV4Mk1mdjYtbWJaemN4aGtZSjVGZFU0bUdabTYtTVJMUdIB0wFBVV95cUxObS1hOU9yX2theHRjYVZZTTF4NHduUDFnTkNPSk9tRm42RWhPbTk1aFNFUlpCa1I0ZU1FU2dXcFRBc3dpTGdBRFRaZnpVT1EzRVB3emlEaHZwRVliV1dPLUYyMGo4cVhvT2JNTHM5dE1kMkMycThYWUluQkUtNnBWamt1aE52ZlhCdEdTNGJobXdoYm5jQ3NIQnQ4bW5wNnA2TGRXVVNRMUlnSlRDWmFoSUZRVncwWUFHZDhBaDc3VVE2YjRYSVdma3B4dnp5dk5pdGVN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Colgate-Palmolive (NYSE:CL) Shares Acquired by Simon Quick Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNenl3MUkzWmloSGxSbV8xVDdrbXdiWTNFSmpZcWZlZEEtS1c4WUlLdGZuYkdYcmtueUJtSlNGekY5WXBMb3I4bmpDaVU2X1JwNFZiT3BFQnQyNXpkV2ZXOElSc29FMF8zN2ZReTN4dDN3dDZxVlVJZkoxOGktRWprem5uVHBpRFUzeHdRbWJZVE5ZWnFiVGxJQkszMWZqcTZVdFlFeDNESXFPR1pJc2h6TEduMFBGNVdNRHNnZUlnUlIydEVvTHJfQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks Flashing Renewed Technical Strength: StoneCo Cl A - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXp5LVBMMUZYWUxWeG90NDFOUUVEc0hSSjdJekZ2M2Z0OEdRUXQtTHJuNnYxWkh4Yi1iVmtRMXlndTc0VUxXQ0QxNVcwWW5yUUpPQXpJdGdtdHNfRWFsdkpiZTF3TjUzY1k4Q1VRR2JkanlRaWJVSWVuMjhYNV9ybjVzYldCTHhMRFhMS0hMTWlNSmhBdmlib0h6cVBTQklramp3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Colgate-Palmolive: The Defensive Growth Case Is Delivering - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcm9uQ1gxSHpnYzBZUW15WVVBZ3U1UWdmcGZKajZrMDJ4MVVseTRrZW9HTnRKRlB5SDIzWV96SklSRllhM1lnaUZObVoxZ0pnbF9EYUhEMnZ3akVWc2M0amR2MllKM3h0YWJKUXNJSEJWTF9jRlc3RjFIZGZrSUtzNmNoMk9VYmJXUXlwZmNnSnVOVkR4RWRIcktDcHNtWk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Colgate-Palmolive (CL) Faces Challenges Amid Reduced Consumer Spending | CL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjZVTnQydWhqZUtOaDZTTkZrVmlVR28zTFBxY1Y1eEMta2FKUldzSVhRekNMUUZmRmJGbTc0em5qUzlaalN3akd2bVJ6YVQzQTB4RTAyZERrMDMwSXpEbzNqQk5JWGloVzU5ZjRJcHF4NHdjdzJBQjUyMUVudDE0TDVsZloyUHgtSE5wSjVObXhBbWVKRE1HVjdlV2pJN2l3RmZiUmRTTkJYZ3FnSGtweXBJY0FKV3BYMEpuQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Momentum in Pet Business: A Catalyst for CL's Growth Phase? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeXhhbjFQNWpCQktCenpYLUh1Z0c5TnRXakZZd05rX1NPcHNjaWVEdWJmUXp2M1NYY3o1QVRRSzE2aFk4ejNkb3Fqem1RUnJCMmdjZlRsRWpKbHcwTXdITzJyTUxXV1FjSnVVd1hPZVZMLU9QNXFlTzRLRk16alI5bFZqSmxtUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMC Entertainment Holdings Inc. Cl A stock underperforms Thursday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbmdLaU16YTAwR1pKSjhDaUtCbzFHZEtfeHE1VDFOeUljSTVjYWNHOFl5VlhpbDZyczhaVWsyd1Q4ei1mNWJHMFdIcXhhODhsZ3pFODdoQ0hEbzRpQ3RDXzJjTVByTWRVenVyai1Hc2J3V01GRTNlQkU1Nnl2S1FpQ2VuOWY1aURuY0NvTHE3NGdhZEUxOFBmdlVEU19YN0JrUzJfaDNWZ18tYlFoVXQ1MTFlamdCSkJDUzVfTUlzbzZLdUktZzBIVVQzbTZHaDltOTktLWw3eEpWRzNjeHNJMTZJVU9DR0FaY1hnaGVYMmctWUpOVGs5Ukpnd09ZTmVE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Victory Capital Cl A Clears Key Benchmark, Hitting 80-Plus RS Rating - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYWtaa0laRl9nQTVXQU5JckxlVzJQQi1LUlRHV1RtNEdIWngxcUZmemFBZlJiaFVHYTZEaVYtQlFfbkZRVGQzWF9vdHZSX0VBamJMcmxmdm40djBsMUt5NGtmbEpuYnRYNmZzVGxGMS1xWEVRWXAwZ3IyNjFnYWJDb0t2S0RpNEE3OVJYVHdsa2t0aWhGeEp4MjhpRjRBRmJybU1FSkZGMDhNX3VQSlVsMHRsbzltZ1dsU1I3T1pHMUVyeHhSeC1sX3piQ25nMW5Jd2JsVW1rNl9TZE92UkVvMA?oc=5",
+        "title": "Zhang Financial LLC Acquires 5,660 Shares of Colgate-Palmolive (NYSE:CL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0RheVV2M0tQaTJSRDVPaVRxM1lSdlptTTY0WVVSbVEzcEZfUFM0WHJrbzVERm5HbjlJSW5aRGlNbEVmWlF0Y3dBUkE5SkFXOHkyM284aF9fRXM5bjB1dmtyaWlsMVdtM0RDb19YRnlKNlM4UTNzMmUySUZrZkg2dXdUd1dxdXFSRzVkZmEzR0NwRXVrSm9XYW5QZmZyRDJJS1BNR0lLVC1meEJDT0NLSFN0aXVvQjVWTURxTWl0X1JMamNiVTAwaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Colgate Declares Regular Quarterly Dividend | CL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWI1SzVjd19uSkl2OHRSVHJnMWoxQk5aTW5wYnpVWFV6R3BhVVREZEFPdVAzSzhYbW9SeTJJWG1VOEc4M2tRVnVkcVliTjJxVGJzZi03QktYOVRKN09ycENqaXREMXBPODNnV1lfNzRiV2NQdzlxSUVrampXWmZzNlJ6Q3VseWU3SVlEakdiVVAtT0V5NnhXTnQ2Qnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Victory Capital Cl A Shows Rising Price Performance With Jump To 82 RS Rating - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUY4d1lVWS1ZYXVjcGdYemQ1ZUdhUWVLRUxXV09NUGFJSWZfdHVBdy1WMmtyTUl5NnVCM1V6ZlNjTlRwZExDOTIxbDQ4OU5lRXpsNHNiN2lta3AtaVYxLVhKUDE0aTFRRlF3N3diWUpVTklyX1UyNHQ2OUJLVllvd3lnLTJaM0JGcWNQdS03R3hSaVlEZmtWR2xFUlM5WkgxZjZlOE1OcHBtMzF4aXZPbk1VeGZhRW9Zak1EejNRSkk?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Colgate-Palmolive (NYSE:CL) Shares Sold by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQldUWVBhaVNMOFoxcE1mbFVQUFEwd2t0WlpicUNRMUdCRXN0RnF5NWZLX3NadlZ3MUU1RkJVcWtYcnFsQUZTOHA3ZmMweXVNdzZBc3daN3ZWa3RfckUzX3l4S2RpSmVKVzNDSDI4cjV4UW5zZVZXWmRNcV9EdEJfakh6WVE3aE44MmdWVU1vVlJEUlk0QjE0YXBRLXhROUtBR1k0OFN6VUUtYjU5VGVJeU5TaGZWMHU5TlQtTDJJcjhPZVE?oc=5",
+        "title": "Do Colgate-Palmolive's (NYSE:CL) Earnings Warrant Your Attention? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa3AxbjVkMDJKa01rc3ZMSFc2eUJVVHJ3Y2NKNTRjVFN1dmJhdGtxR05SNHBndFRyUnptWDJTd3h3czBrcDdOUVozVGpDTHByWUJhTzRUaWhlWGVwRXdJbTZSRHRUSk1WRnliY2RWNUUxMzZSa2cwT3BBNjYyR3ZtS0pQZkJOM2Y4aVZ3NGl3d1lYbUd0VGZPcnJJOVp4M0RjXzUxTmxSSkJWNm5rT19JaWxZbjV5elFBMnFDRkdZcVhIVDU0c3R6MFlFdXFLZ9IB0wFBVV95cUxQel9hN3FEd0F3X2VJQ3Jhb3FIUGtmSVU5Y3ZaZ1FhVjAtQnNJcnZMZlliTzlFc3RkRF95R0lLLWhfRkdUZUx5eW15R2xPaVhra1BSUTJRMU5zTXp3V2hfcnRZZ3ZhVl9Nbk0yWEhlQ21SZ0EzV1dybUNEenVpODNwcVMwWFd3Q0pwVGZMdG5vSWx5bkNpeTJ5N0dLMTJPMHRHelNBVy12QUxtNzdBN2FQdlJUeFJkSHF0bVBSNmR1V2ljcnI2SE5Eb2ItSGo0LWdyTzln?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Constellation Brands Inc. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWs5aDJtcnc3dTVYeGxicjR1R1JMcUk2UGYxR1lPSHU4VDRaSXI1Rm5kSUQ3MlllZERFR1I3OUJ1Y0tWUHI5N1htdzBfMVNzMjl3VHhtMC0wZnZ4dndCNDNhSWZtcHNqb2N5YlVEaXVRNXVfT3dIOHpVcTlTZ1F3SHRzc2xHQ0NKcmRObk1ya3FZV1RYazlzWnI0M0ZkdHJoUDZsX1VKcXZ5M2hxTFlLLThzSkhRSFJCajBIcGtLdWJmYVhtVEtJLWFQN1lpR1ZPckRiLU4tc25lVEp6Qnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Colgate-Palmolive Stock: Is CL Underperforming The Consumer Staples Sector? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRndsdlA1UThTM2d1OEpld3hRaG1MSG1Sajk3V3Y3VnBwU3VtZm5xU3VfNUJwSjZIc1lkdXVWMEF6RmlMQTRLY2lyeGhHMVQyVFVOdWpfR21mUTlhNFYwUVVDenJ6SldVZGVIOEQ3QlRRRlE4VlIwMGN1TFRvNzF4bjM2cXFQVE5lZmdCdTRudlZaQTJ3SXBsRW8tbWpLNm40UHY5QzJMdjhRa01vX3ZhYS1XV3BBOXpjclE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Procter & Gamble Vs Colgate: Which is a Smarter Stock to Own Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZUlFd0lkcl9oQUc5YURkSHpEM2RpdFZKVlB0NnBDRFBzVi1mRWNLODdyMm9Sa0VZMFVEeGRsZGlsVlo2RWlCX29uRjZVNk93WW84blZRQkVwU2w0MkRENTZvTjhXelh2ZGlBaU1vbk5mT01PNGRoZlVRVHRRcGNBWlNGaGNHQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Colgate-Palmolive Leadership Reveals Growth Strategy: Key Executives Present at Evercore Consumer Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmYyNGZvejQyWkwtbzliR0hDamlMMVdVVXpKWXg5dkpSUzd5cENfeTJNbFF4NmVVM2dyaGs0eDVaXy0wM1hLaUg3XzZlcUFBVDlfbHVaS3BIdlVfOVhaREJUZll2WHNIVlZEemhyYjFNYzhkM1VXWjFLQzlSdEdLUDdUZ2NzWHBMZnUzM1BXSTI5WU5HakhNczdWVm9pX2NpMng4bmZJMUpTb3VTQk83S19adw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CACI International Cl A Earns Technical Rating Upgrade - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1VaTk93Sk9wOVdZX1VFY2t4bVJxNDNFYU1WaldlRXhJd01OVnd6M2xrazYtSGxZN2xWQ0hWeXBoZENFdGFiUkdRMDJLOWV2LVItZ1JaR29JeEVxbVB4dElzaXozRTJOTU5fOFE4SGVoYzZud0RHNkdoLVNQZE1jRnpQYWpoMFRzRi1sVFlSc0I4UGMwbUx4TDZXand1dzhsLWRKbk1rbnZBUUJteDRXMWYyY2NTTUtsZFFFTGNzX1c3N1Z3cmNFaURFTXU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Unigestion Holding SA Reduces Stock Holdings in Colgate-Palmolive (NYSE:CL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT003cExTYXVMNmJEb2lua2lFaVhZYklrOTd5dXFZUjI2YzdPY0tmM01RQ0x3dXIyRFFGVVRhb3ozcFpJUms2anpUM05zSnFteDhBanRmekx2ZmNjdlViU2ZBMFBRbWQyNmpRbFR4bjJUQjRXMFZZVFIzX24tMVJYTjFYclp4OV9tenkxel85bUF0ZHFneGd4X3NPMnQ4WTA3MDhzVVplbWxlcHYxaHFNZGk3V1FBXzVLUlltblFqRXZYYVY5czB4NlVkVQ?oc=5",
+        "title": "AMC Entertainment Holdings Inc. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb0dhUkxteHFwVWVYY3VlZE8tYWh6dFBadnNBTzllcGQ0czNuZFozQWVHb09heVZwalFXWnhBN2w4RzhISzFZd1R0bElWYzhwWkItYzFFSGR3U19iOVhpaEFDdlprdWI5Qy1reWtZTlpUcEdYOHFhR1pweThTNEdCaGt4bTdpR2E1dHVxVTgxU01BYzVOSzRTMk5Odmg1UlozUDdUaGx6ZkphWGRWam9wMTZGZTh4cVo0cXlicVR1bDdNX2tOR19iRXRtM1ByQlR6eVBDYmtiOFotcjlpUHgxX0hKeXZic0J1RmdYdFBpc3BWZFF5ZWtZd0dINVQxUmNwUUE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Lennar Corp. Cl A stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjdhWW5vbmhEcDdJUWYxVGNOSjZYUkxEWUw3M0dLSWVmdUFMQmxHV3BZczRXa1NuaEVuT2RvUXlaNGpIQWhmclNtRHA1VXdwMEg2MEdiRmwzMjN3c1BjOWhEWDFZWk9vMzJmaVB2UWpVeG1XUVl4aGtUclRaRFJZQmZUdnRlOHU0aTNpVldVS29Id1VEdjVyQzdpQ1pXV0ctSmhEaHg5WmxSRm9JN3d4R1NtMHF2NTRTSE9UQ1hGMlFUYTNOdjJ3WElLdFBUZkY3QXdldWlFYTVBMG51UF9JeTNFUjloc2lLUS1V?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Constellation Brands Inc. Cl A stock outperforms competitors despite losses on the day - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDVTVXB4ZzE3VWZub0JoVlJfWWIwaFNKM25IZ0hyZGZzTV9PODNwT1RmVjFSQ0FGZ0tBZ3A3VzZ6VnphLTByZl9kZ1ZsWmt5NlJzQ1o1N3YycHIzOUQxLTBPTV9kVmhXd2xoUml5WXFUWERWX2JEUTBtbjFfd0plTmU2alFWUXFGRDJONTVYYkh2MGN0V200VWwxNmwtbE1oRW5JRlNJT296XzhNNFFhalA0Qm9XelZfT3BqYm5NX1lISnRBN25NN0Z6QU1tcFJCUzJHZ0Jn?oc=5",
+        "title": "Stocks Showing Improved Relative Strength: Roku Cl A - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGJqeVlRQW9odWVxOVlDUWU1eTI5VUQ4am04dG1FTXBoVXFMaUFFRE10MlRJZWZZSnNsblBVRWFSbTJ1Q0pqX2tjZ1JqRU1icjRxVDh2azlJbndMRjAzbHJaakgzRGlRb2IyczBURXZOUExXV2hpWXJVa1l6M1B1OXVsUlozMEdZVHVIcDdINGRYcTFlS19yaVFwYUozdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Vest Financial LLC Has $59.36 Million Position in Colgate-Palmolive (NYSE:CL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUZ2bkdPWE1FbzVOUklrLVNMcHBOZl9NOC1HN0gtTmhYTTFjRjJzdzh0eHVoNS1pZ2VqMXA2THl2bHEyZWxUZmNQMXZFZGdpTG9jWkR2ZktGQXA2M3hreWdHZVQ0YkU1UWpwOTN0Tmh6YlRQQjZRR0JRTHlReHJ0b0JBdkdMVEhremRCNXl2TFR3VTRxOUNfVXV5WWxKeWtHaGN1eWFwdnZJVVFqN18tLU1ZSWNpbWpfWkgtQmdETXdFUGxzMWFPVzgzX21hdw?oc=5",
+        "title": "Assenagon Asset Management S.A. Raises Stock Holdings in Colgate-Palmolive (NYSE:CL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHM3M0t1b1RZbzlFU3JBRlhWS19IMnc0bENIcjRzWVNHLVRzNWlOR2VpNm5ZU3Uwam92Nk10d1FhTUs0SmhlbkExVEtxR1BFT3dYQXl2MFc1aS15VzU2R1VPeExuekZTdlY0MmpvNnhzdFFIaG5ONWJiWXJpZXZ5Y2RqNE1FVGU0MHRaaktlM3BwdWV1SDlZclFwR2FKcVdwdFJCRlYySmlfSk5VQ082bzVYM0lZSExuZS1qUk56WXFIenQyMU8zQ0gzb1B2VVowamVfcUczZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stocks With Rising Relative Price Strength: GameStop Cl A - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTVISmEtbFpiTXd0cloxVG1tUWR2SVdHWlpkUEVXZlpnZnN0QUd0RmdHczdEbHpLT2JyMDdOeGZVb0ZxUk93OU9TaUZWdWtqVkJlRFlaZ196dXpiVTlyT2R1aTVIUTE2VmtvalVlYUN0SnUzbWgyTnNQR0ZyLUl3ckJyWUhQWnYzTjIxRHc0RGx2akoxSFMxSHBMTHloc2t6Q3c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Stocks To Watch: Affirm Holdings Cl A Sees Relative Strength Rating Rise To 81 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEFOZl9lampWREZxeWt0cGxQNEVKeHl2Um9YajBvcmZ4eS1KYjl2a21Yc1diek95YnZwV013R1lDU0RNYnM3Sm1ISFNIVEZYRjJXTTZ1VWFtNXkxeW1INmtjNmNGLUgyd2RaVnN4d0NRcVFBdUFicmVtMDF5Y0JUR1B0VTFyQzB2bmlWUzJua2MwN3ZMUktiY2VtOFhFV08zbjQzSzkteTRNX3UyTzFHSlFWc1ZYeGl3czZNX1phclM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Colgate-Palmolive (NYSE:CL) Stock Position Boosted by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbkM3RTlWZEo4cmM0MlVObF9NdlZOUDBzQWVHeEZVQjRoY0JBeGd1VUs2dktQMTNjOFJrWGVKeDJHZENJQjl2b2FYamdjLXVqbV94ODU2RThNRnR5U0l4MXV5ZktiNEJhTzRJeDVMRnU5bWJDdmxfMjRnc2VTX3ZyMkZvaEx2dzc1Q01ENWJTakc3cjBFclRScHZRZTlhUDFFTHk0dXZFZTM1V2c2R2x3VmxuM1g2cHc4V3Z5NnZtUm9Yd1NWTTV3R1BkUkRqQ1RGRDFkNlEyWmJFUTRQb0diSndXZF9jQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Top-Rated Stocks: Freshworks Cl A Sees Composite Rating Climb To 97 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3V1ZHZTRDMtOVRDbWJwaFc4QVR2clVQYTBFbkE0TURMMUpiZ1Zmam9OZ3gyUVMxd1V4b1FNNnRKLVBDSGluQXhMc2NtZUlTYThQWFlDYjIxOXlkbFpQX0gySWtzZGhKbHJYbGg4VDI0em4wd1lmNXVodmc0T3VyQ2hwb09wMFdJOVd4N1ZIazZCYnpkU2Rsa1VMX2JJVU1MaEZIUXdqM1B6TW1pbGZF?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "RFG Advisory LLC Has $853,000 Holdings in Colgate-Palmolive (NYSE:CL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEJibms0dUcxc3paZWU3WVMtdXJBUUN1U3MzSzIyVFFMOGVLYm90YXZjaGR4dEVSLVZHam5UM0diNjdJWUtxU2l1ZF80bVFzMWdQV0x5Q3BUM3FHWmU0YmxkQlExUExwVTViS2ZZRGFaYXBUcncyQ2ZNWkVXeHJ1NlFPbmVuYzdQR0Vxb3U3dFNacS1CWmZocWlnUnFDMlRpUUpOT0VYWThqTGxRZUhhV3JFcUhfQmlCSjU0VnRDVmRCWjQ?oc=5",
+        "title": "Cohen Klingenstein LLC Sells 8,000 Shares of Colgate-Palmolive (NYSE:CL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0dqbkpKNm1KdXJicm5RdktOaVY5dm84LU9HT1ExUUEwOEZhSEg1Mlh2b1VGSDRCTHc4b2FRSy1TTS1nVnVydTBVakYxNU9xVGZvcUNjNU84S0pmQ0l0RGsxVDJ5VnhIX2NERXFOOF9HTEtjQ2c0cU93RS11RFZZbVNPS28xMnhnTlpwa1BOZk92X05xSUFMdTdoa3FmQy1tcVZ1d3NpNlVndFpPaVVWcnNGSElIdHFNamNzTmhHbkc2eWFkMmZuXw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Increases Position in Colgate-Palmolive (NYSE:CL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzZuRkktT0V2MzRLU0lyYmlSeXMyU3RBRkg1VmNmSlBsdERpRHlHSkNlMXI2bTNsZWMzNV9WbFJ0c2ZMNkI4VG93bnJmdWVrTVNxQzJfd3JuRWNQLWFHNWRHNUNrT3FtRlVMZGZvZlNXRFBFMGFONDZxR3F0S251RkVPSUx1UGdoTllyaGR6UkRXYmhqV25LT2h1c0psUmdiNGtaS0I4RWFOVkV4cmIzRnctc0Rydl96UmVyb2s3M1NoRzBv?oc=5",
+        "title": "Roku Cl A Meets 80-Plus Relative Strength Rating Benchmark - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFNuNFZGTUl0ZFJkWm5FOXNnY2xMd051WWJxUTdlNldrTmJ1b2ttbFNaSzVyYVo3emQySjhZQVdkNHJUWnNDOXBNN3Uwa3Q4T0hpWTQ2akFlS3RHNjVZMlZWdjY4QXNJT2NaYllEX2R5TXBncUkyblMyVUNkSDl5RWdjbjFhSlh1Z2xSNEFuRHhZLVF6QTh2Z19keWdhMzZLMFN0NkdESQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wayfair Cl A Sees Relative Strength Rating Climb To 78 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTZIdVBfOFhjbzJya2FxeHVMQmlhanc5RG5DQi1Edm9uX2YtZU1FdVFYUXJVcUp4VnAwajRXR2R5MzRWRXFzRHYzZzd1ZW9QWi1pMFQ3TWdqVGVnS1NJM3lPbDVSWmc0UThQM2R1a2puTnAyUzNIWkhzU0dDazlqeUlpbVlyRkphZU96UGJmUHM4MmRJem1BUGhWWExjTEE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Colgate-Palmolive (NYSE:CL) Shares Bought by Annex Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGpwdEtzbUVRcEFTOHlGMEd0WXZ2M1ZFZlNxa3h3ZkR6TkNKZVV4UmpobG5WMGpmT2tMQjVKSHVTdmRsQndOdDBpS051NGk2SDU3UUlUajNtbEs0ZE9MdzVPMHdJLUJheWNJWUNNSnVkMFlKMzFhU01TNnRnSi1IWmpxM1puR0hobEk5YVh1VjdKbldDTC1leGF4U3F5cGhGMk5pOUlYQUFvNEpiMmNqcWsyak9MVFJuVXViRl83ZWVWYk5sZGprUmdR?oc=5",
-        "label": "NEUTRAL"
+        "title": "Evercore Cl A Scores Relative Strength Rating Upgrade; Hits Key Benchmark - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1JBUjMySlRPY3l6R2FKaEZaVXNXckNBLTJ2R2JwYTQydy1CLWphTG9pSGFuczlFTHNaaHc0TXh3STZ0ajVUQnNMVEpGY24wcnVadDUyY2NtVjB4S1VKbnZrdFdoSktIYURxc0VrVTh0Ni1JQVd1VGEyUDJwTEFqM2JTVEZ5dVpteE5iRWRESDRCMzhKa1hoRG9CN3RKN0Nsa1pLVS1qdGpLRS1US0V3R3JRVEVtSVkzS0E?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Colgate-Palmolive (NYSE:CL) Shares Sold by Sarasin & Partners LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlFCbWFpcmRucURxYkNqaTRMVEU5WWpBOTg1VnhFVmpzbHFWeHh6Mll3RzhxdTE2SEdEbTl5MUJrelgyOGNxMjNDODZXQVJXd1R3NEdlZFIzUURmT2hKTWp4RURTSVF5cGFjV05heE01cjJhd3A3aEJXWGpqa3k0S1NlUU5YOTc2WERNS1R3aFFMdGRwNU84X185X3dwNlpyMnAtZmxaX2ZLZnNQMVhWMEdKY1l3NnhpYUZmR0ln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Colgate-Palmolive (NYSE:CL) Stock Holdings Lifted by Versant Capital Management Inc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkFkbmloX3VHa25JbjBTUm53a2pWd1pIdmV3WVVjMUY5aWh1QVlBQmVIVEJRZHd5OHU1ajAyR2JGQ3A5amNBQmUyVEV6YVNWb29LLWlNaW9OemJMUGFQWlY0bEFtM0FFUEQ5RDZiQlY3dEZhZ0RROEMxaGxNQ3NKV2gtVnlidFhpSk45dVNtS21vbG1iWUVWZHh4UDJMSHpNektOTXFMMVdDeU9saHR1U0xhS1N5SzJmOVVGYWN6WjlQWDFGN0R1X3ZSYmltQQ?oc=5",
+        "title": "GO vs. CL: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSG0wUkx6aE4teTh0WjRJbHZsZXh3X0JVcTBEcm12TEd5SlJ1Q1JhbWUxNWNhOUNZOXdaN2dKanl3U0R3dW5EVExscnJ0ZWRQNnFmSHRQdXA3a2wwRzFjWjlyX0pETmYtMzhBeU5HNW5zSXlVVGlFMUln?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

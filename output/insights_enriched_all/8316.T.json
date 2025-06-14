@@ -2,16 +2,16 @@
   "ticker": "8316.T",
   "name": "Sumitomo Mitsui Financial Group",
   "sector": "Financials",
-  "market_cap": 13989327142912.0,
+  "market_cap": 13815185932288.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.996416,
-    "PB": 0.9523649,
-    "EV_Revenue": -4.695,
+    "PE": 11.841189,
+    "PB": 0.94050974,
+    "EV_Revenue": -4.728,
     "ROE": 0.07628,
     "ProfitMargin": 0.22568001,
     "GrossMargin": 0.0,
-    "DividendYield": 3.78,
+    "DividendYield": 3.75,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 55.213949827490765,
-    "Momentum_10": -0.0552944429084877,
-    "MACD": 58.400401851099105,
-    "BB_Percent": 0.5882185685152977,
+    "RSI_14": 49.81289295784289,
+    "Momentum_10": -3.5135135135135136,
+    "MACD": 36.32694061145321,
+    "BB_Percent": 0.2969158342878437,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.93510332310555,
+    "ValueScore": 0.9125811692031436,
     "QualityScore": 0.3943336723063129,
-    "SignalScore": 0.5507820101808898
+    "SignalScore": 0.5943264664738968
   },
-  "volatility": 0.0237308082404006,
+  "volatility": 0.0239250674014711,
   "beta": 0.22,
-  "return_6m": -0.0239434778644993,
+  "return_6m": -0.0522962569684098,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 4154.359
+    "target_mean_price": 4181.282
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3761.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3805.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3791.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3811.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3807.0
-      },
       {
         "date": "2024-12-13",
         "price": 3767.0
@@ -525,43 +505,53 @@
       {
         "date": "2025-06-06",
         "price": 3615.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3652.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3628.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3589.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3628.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3570.0
       }
     ],
     "current_price_data": {
-      "price": 3615.0,
-      "change": 19.0,
-      "percent_change": 0.53
+      "price": 3570.0,
+      "change": -58.0,
+      "percent_change": -1.6
     }
   },
   "news_sentiment": {
-    "summary": "La récente actualité économique met en lumière plusieurs tendances clés. Tout d'abord, le secteur bancaire mondial connaît une forte secousse, avec des craintes de récession grandissantes et des actions en baisse. Néanmoins, les banques japonaises affichent un optimisme, avec des prévisions de profits records et des signaux positifs malgré les menaces de tarifs américains. Dans le même temps, Sumitomo Mitsui Financial Group fait face à des défis, notamment une ordonnance administrative pour violation de règles et des sanctions recommandées par l'autorité de régulation. Par ailleurs, des mouvements importants se dessinent sur le marché japonais, avec des acquisitions telles que celle de l'unité de location d'hélicoptères de Macquarie par une filiale de Sumitomo.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.21,
-    "neutral_ratio": 0.57,
-    "negative_ratio": 0.21,
-    "bullet_positive_count": 0,
+    "summary": "La tendance actuelle sur les marchés financiers est marquée par une intensification de la vente des actions bancaires mondiales, en raison de craintes de récession. Malgré l'incertitude liée aux tarifs, les mégabanques japonaises prévoient des bénéfices records, tandis que le Nikkei clôture à un plus bas de 2 semaines avec un repli des constructeurs automobiles en raison des inquiétudes sur les tarifs américains. Toyota lance une offre de rachat d'actions de 5,16 milliards de dollars, et SoftBank obtient 9 milliards de dollars de prêts pour son Vision Fund. En parallèle, les grands banques japonaises affichent des bénéfices records et une certaine confiance alors que les taux domestiques se normalisent. Cependant, des recommandations de sanctions à l'égard de SMBC Nikko et des cessions de participations stratégiques dans Toyota par les banques japonaises pourraient influencer le sentiment de marché.",
+    "sentiment_score": 0.111,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.44,
+    "negative_ratio": 0.22,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Here's Why We Think Sumitomo Mitsui Financial Group (TSE:8316) Might Deserve Your Attention Today - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd29OMEpHQ2MxdnJnM0ExdlhMbF9VNlFQVEV0Z3FkSFhvcEZpV2RXX3p6aGlGTm1reE1FeS1uU0pXdzZrYl9tYnhGRllhamg5RC1RWjQwOVIyUkNIOWhkb1BQdG1DUmt4UTNMQnd3QS1Tc3NMYXNCQmtaWmhDSXV1RUs0WjdmeHA0OXdhWU9CTVRkM1pzYzFVZnZ3eF9KYjRkMFoteWpwYXdVMXBTaVpEalFMWG5TZjVWTGhsekRzQ3ctbDRwY2tiQm4zNFNJQjBSMVhZbTZqLUl6VnpyN2xIeWJkOGVBUdIB6wFBVV95cUxPNXNxRTdfUno0S29ITUhVbmZ3bWFXVFFYZ0ZsM0FiVjZTTVJEeGt0T21qMUYwc2hreWR3aXhVdVZGMGlpbDdrWjZPXzM4Nnk4WmxVb3lhelJIZFRPTUM1cmthcjFpU01vb1I3bEVWN1NnS2RvcXNCeXFCUFVNV2M1cE5BcnJCRTJKZDNNa01EV3h4X0RKd2lHUGtnWEV6dEd4YjVIdlZlTmhxTVotd1lTMng1dEJOTjJJMnVrWUdPVzRJcVVmMkdSSHhJMVRRM0FQanBxMjMwUXM0WHp4X3hUcVJZalpHUmIxWWd3?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Global rout in bank shares intensifies as recession fears mount - KITCO",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQW1HVnFKZnJrZmhyS1pfNHdoN1E1TUstN3BEVmdHdjVHQ2JGT2RMbThjaEtWeGFMbDFyaWhNcXZYWnNndEh6Y1IyR1BXNzBsTHdQT2hWdmlvb0VDRHE4djRHZXpwVGF1YXRhNXBVTTBYNUh5SHBLT2gxWi1JVDVkc1Q0NzdHVGY3ZThJb3JkS2tGUmp1UGdjVFJwR09zbE5QVW1oU0VucC1XRHE1?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Burgundy Asset Management Ltd. Sells 8,316 Shares of Yum China Holdings, Inc. (NYSE:YUMC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVlFQQ2ozNXVPSmU4MjV5QmRtQ2dLTjNmemFDY0NTQmFBMmJPa2ZpZUUtVk9MOUNFRGoydUpIVEYzMlhzWFRiNEFvOTFaNzZXYUVlMXBzb05JUzBaMVdyYjdlZ01TUl9keERaSk1hVWNoS1dtLTBKelZPbjRkUmQ3aTZZUUhCVThIUUMtVUJkMEdMZWlSa1BzVVZ1Y2p3cHNzeE5nWUFRNTNrelpUaElCVFAxNW04cFVVQVFLV3VnUGliUk5zWFNtSzRnNVNGeG1SaG1iWlV5VURnTkRYV3g0VVJXSUhtZl9xRWtNYg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan's Sumitomo unit to buy Macquarie's helicopter leasing arm - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ295T3ZhVklUNWgxWUpwQ0h2QUVGQnNuODA2enZGZ01pcUZXYWNFYVA5Vko2SW15LUhGU0xCVy1tSkgwZEY5anc4VGZDdTc1RXRTajk5SG1na180R3NVUDFQS19xM3NNNGNBc3piR3czdVByczM3dWRMY20wZnhqS1JkTVp6aFh3a1dpag?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan's megabanks forecast more record profits despite tariff uncertainty - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkxudW5HVTlpOU9uV24ycTVNaHY5Q2RJNjJ5TVZCN0NIWm0xT01lVTQzMllfM1NFN3RGZlZ1NjIyaWZLamRaOVo4bkpfVzFMQTNEaWZTWktnel9RTjhFMDRpOU5EZWFZMmZZV3dnc0g0bDUxYVhxNGdCcE53eUpKZXRsaWcwYTM5NnJ4M2dhd1RjYkFuX3ZOYmRhOG5SWnZtdXZtM3JBWC12S3dSQm9XbDFsOVM?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Japan’s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
@@ -569,23 +559,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Japan's Nikkei ekes out gains despite looming tariff threats - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONk9nNU85RnZ5TXRfWFAycThWZ3B5ZXdoUmlmYnBEYlhpZDg2THZuZ0FoVmxQeHpNSFN3WlVNY2haTTFaWUctaWpyMldNWGNGLWpPMVB1QjN0Q18yZmZmUEhERGQwSmZOSzFWd2NwTVJ6aFFvRmlaNXI0eDN2VXJlUG91MkhNZ3dLN0pwQXR1UzlnSjk3OGc5b2JiVDVzVzhwOU5FaHFldTJiZzFEVDRxc1UyQUQzZTB2eExUeWIwNzFPQ1JXempRQ1Jn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Japan's Sumitomo Mitsui hit with administrative order over rules breach - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0FmZzl3MW5tT3ZtUEdXNWdEaUd0dkZ2ejluMllXWFFsblRRMmtaeVZNdzd1SU1wTWtIRDM0TVlJc2hTUEdtNFhtaGRqLU9PTTVzZXA5V211U1ZZNklCSkJNTzY0S0hwb3VETHEzY2JfOEU3RkdwUUFNbGZVbHBVMFNwdGpxTWRiLWJOejQzYWlnNmlwQWhaVkRyMU1NZWZva1VVM25sV3RXT0RFTDRZcGZvNmI?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japan's SMFG plans to buy 10% stake in SBI worth over $443 mln - Asia Business Outlook",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXNCR3NzZTNYa2VPZ3BmOERHTlduZU96NzZXWmxyN1l2VTBzSjFZUGszeWdEamMwY1ZSby1zTTJYeU10cGhFaGVyU19ZWFVNSVBYSWc3WmNnOXBnVVlOeUsxSnAyNlZHeF9ZVVdYUy1aNHhtTjNiVFVaSi0wdHpmMC1QWVVKSjN0YkRPNXhJOEd3VjYwWi1EM3p6WTdEdFIwQlFhdUFtQWpWZ1ZIU1R6d0U2UnZBZw?oc=5",
+        "title": "Toyota to launch $5.16 billion tender offer for own shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2UtVE5Lb05qOExheDhFWk5HYlBZMlpoM2Roek1JU293c3RzTk8tNVo4ZUwzeUkxMU9US3BRamxCVm5GaUN0T1lCMUgtVW5MTHo3ODRkemxadFJJY3pRR1Rub1hzT2YwQmtSZ1lrTkR6UTc0M0JTc25nbVVucHhQX3RhWnVXOGQzdFdxU0dreFE0MlVBbFhmejV5QmhfYkNHWExaQThndmFjcHRVNHlSMw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan banks to begin divesting their strategic Toyota shareholdings, Bloomberg reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlNTa3Y5bDlVcnNMM0xndzFlRWJyZWVjOTJicUQwdHdSaWZzamdOcmhsY1ZnMmt0RXR0X0hfSms2dWx5aTV5cVJYVVpJems3TGEyWlFVQUJmck1BQjlRVkk3SW54aXBzTXFZb0lSelN3Wk92TjItRnFMclprdklHR2E2QkVNeVRaNkZ1VmdXd014MzIwb01mM3hEZVNVUUdPaU1jUDJKRU9VdVlBck9QaFBqOHdLUGJibnM4?oc=5",
+        "title": "SoftBank Lines up $9 Billion in Loans for Vision Fund From Banks: Bloomberg - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1RUY29Makg3cVIxS2NJY3p3cVRrWkhNRVJ4c3RZeGF1Vl9xOE9oc1l1alR3dVJxZ1psZlVkUkdlMGQ3cWlKeHFjX05BajhvcktPYUVQVHM0NVV2Ym8tZThkMHJ0QmwyMHpUZE5UUjBsRFJPMnZVS05vdUNYMUtSNHRZdEJyZkI1LU15Y05mb0VLeEdEZVZYWnhYeWdUdXJ2SFdlRTl3NFVjekNFRURsT1dkaW1Fdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan's SMFG plans to buy 10% stake in SBI worth over $443 mln -Nikkei - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlNaUWI1NXlzRVUtNU8xUG1fbGFKY09zQWcydVpMaGpZc0NpdjZ6OXM1UFJRXzV1bGRRX0dTcVVWdUhjSm5WczhEU1cxNEdjUXlSRTE1bEp2OVVKOHRpdlVMUlNvOXRZcEpLaTYxUkU0LVBZZmNqX2RUXzVMYUhmUmlLdGhHTjJkTnBNTnRvS3M3UUFXLUlNSkY0bFRaSklmUlA4SXBrRGJyZ0dMVG1Z?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -599,21 +584,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Shareholders of Japan brewer Asahi to sell $1.3 bln stake in latest unwinding - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlhkcWJTSjc0ZUxhSjhSQTZUc3NDUkE1bFBMVmxlb0JJVkkzNWk1WXhia1dfT3BoTVRwQU1uYXd3bFBoc21YSHUwMzM0ckxKV3A2bEpOSldaUDFfOXBYejA5QWE5ZHJKSFNPQmFFMlIzZmt0ZzZuWWdNX2pMaGtjQ3pWTElEOXZtWHNiY2oxNjZVcWRwc09rOWtpcmRkclBkUkV3UzhoUWJ4UHhNUkJfblIyd0JJQQ?oc=5",
+        "title": "Japan banks to begin divesting their strategic Toyota shareholdings, Bloomberg reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlNTa3Y5bDlVcnNMM0xndzFlRWJyZWVjOTJicUQwdHdSaWZzamdOcmhsY1ZnMmt0RXR0X0hfSms2dWx5aTV5cVJYVVpJems3TGEyWlFVQUJmck1BQjlRVkk3SW54aXBzTXFZb0lSelN3Wk92TjItRnFMclprdklHR2E2QkVNeVRaNkZ1VmdXd014MzIwb01mM3hEZVNVUUdPaU1jUDJKRU9VdVlBck9QaFBqOHdLUGJibnM4?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "GE to sell European private equity financing unit to SMBC - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXRTcFR1T1Q2ZnRQNmYtcDhaajl0TnhpMFNQTW1Qc3ZFZ20tbzZKeWFPSW11bF9lUXU2YlVuTFVPVS1UaURoY0tJb1JJdHp3cE85OUZTQ1M1VGUzNlUyMGhuLWNJQy1aRFZjSHNZdGxJOTVYaVRtMklEbUoxdm1HRGh4X0d2RFRSa1drdHBVSWZwOTdhR18tVjRNcE9FVW5ua2hqcGF0V0syYTNmTnQ2aWpKS01mdmVKa2Fv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toyota Motor Corp and Mitsubishi UFJ lead high-volume stocks in Japan with over 3% gains - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlBiNFFJSTNkS2E0NlYwWmlwNnZKdTR1WDN6R3J2VXF5OUNINElCcEwwZDJhZ09sTkZfX1NmWXRoM0VuOHp6VHVmYVJtS3dQeGtGc3lmWkI0dE5uaXQtTExJcGlEWi11TVMwLThqQ1NBZkZtVDl0aFhJdXhmTXhrSWpmSXVDcWUyQ1BfOGpWdHpPMndjQUhzWWxoeVlmZnBsV3RoRGJ5ZXFDWF9tTXJBNEVQN2d4U2wxNkJDRmswLXRFbXdFMUttQ2ZsV01MbHh4V1lCNEo2bWFuY0hRcFFN?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

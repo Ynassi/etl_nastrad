@@ -2,16 +2,16 @@
   "ticker": "IBM",
   "name": "IBM",
   "sector": "Information Technology",
-  "market_cap": 249807978496.0,
+  "market_cap": 256578633728.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 46.02483,
-    "PB": 9.293445,
-    "EV_Revenue": 4.734,
+    "PE": 47.191456,
+    "PB": 9.545329,
+    "EV_Revenue": 4.944,
     "ROE": 0.21851,
     "ProfitMargin": 0.087110005,
     "GrossMargin": 0.57041,
-    "DividendYield": 2.52,
+    "DividendYield": 2.39,
     "DebtEquity": 247.978,
     "CurrentRatio": 1.007,
     "QuickRatio": 0.849,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1681348584770484,
     "ROA": 0.044689998,
     "PEG": null,
-    "EV_EBITDA": 21.323,
+    "EV_EBITDA": 22.267,
     "BuybackYield": null,
-    "PriceToFCF": 23.64082294155564
+    "PriceToFCF": 24.38861607207766
   },
   "technical_indicators": {
-    "RSI_14": 65.24935596719604,
-    "Momentum_10": 3.9923375919590542,
-    "MACD": 4.968347571794993,
-    "BB_Percent": 0.835416634107937,
+    "RSI_14": 66.36358659766111,
+    "Momentum_10": 6.789931484467088,
+    "MACD": 7.048413595930867,
+    "BB_Percent": 0.8416692203219175,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9253280541736112,
+    "ValueScore": 0.87464173086556,
     "QualityScore": 0.4175604831326314,
-    "SignalScore": 0.4733236423429318
+    "SignalScore": 0.4677645908141726
   },
-  "volatility": 0.0213532561649859,
+  "volatility": 0.021259685563755,
   "beta": 0.652,
-  "return_6m": 0.1442457090040516,
+  "return_6m": 0.2120205482847446,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 252.272
+    "target_mean_price": 253.272
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 230.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 231.72
-      },
-      {
-        "date": "2024-12-11",
-        "price": 230.12
-      },
-      {
-        "date": "2024-12-12",
-        "price": 232.26
-      },
-      {
-        "date": "2024-12-13",
-        "price": 230.82
-      },
       {
         "date": "2024-12-16",
         "price": 229.33
@@ -537,42 +517,102 @@
       {
         "date": "2025-06-06",
         "price": 268.87
+      },
+      {
+        "date": "2025-06-09",
+        "price": 272.08
+      },
+      {
+        "date": "2025-06-10",
+        "price": 276.24
+      },
+      {
+        "date": "2025-06-11",
+        "price": 281.52
+      },
+      {
+        "date": "2025-06-12",
+        "price": 281.03
+      },
+      {
+        "date": "2025-06-13",
+        "price": 277.22
       }
     ],
     "current_price_data": {
-      "price": 268.87,
-      "change": 1.96,
-      "percent_change": 0.73
+      "price": 277.22,
+      "change": -3.81,
+      "percent_change": -1.36
     }
   },
   "news_sentiment": {
-    "summary": "IBM a connu une hausse spectaculaire de 16% en six mois, atteignant un nouveau record historique de 269,34 $. Cependant, des signaux mixtes émergent alors que les analystes réévaluent les objectifs de prix après les résultats trimestriels, et que des faiblesses dans certains segments ont entraîné une chute de 7% du cours de l'action. Malgré ces fluctuations, la récente ouverture des laboratoires Watsonx AI par IBM à New York et l'intérêt croissant pour les actions liées à l'intelligence artificielle pourraient offrir des opportunités intéressantes pour les investisseurs à long terme.",
-    "sentiment_score": -0.15,
+    "summary": "IBM connaît un essor significatif, atteignant des sommets historiques grâce à sa stratégie axée sur l'informatique quantique. La révélation d'une puce quantique et du plan ambitieux pour le supercalculateur Starling en 2029 a propulsé l'action en bourse. Malgré une série de hausses consécutives, des analystes restent prudents quant à une éventuelle fin de la tendance haussière. Le titre continue d'attirer l'intérêt des investisseurs, soutenu par des annonces stratégiques et une croissance solide, bien que des fluctuations à court terme persistent.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "IBM Surges 16% in Six Months: Is it Time to Buy the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zN3o1ZEdWQ00tdnlsbkpXUmVGWkRORFlHbTdVVHcydnBXSThUckpSckJQSkpUdThpLTZCSXJmcHA2VHhIeTF2dXRfUWNmTDVEaUhyYkZxbkF6QVVGTEczeUtoNEFzeEJ6RUtXNTZtWHZBZGFRZXVKZGln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IBM stock soars to all-time high of $269.34 amid robust growth - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3U2YmRlUE9ZTGdDT25MUUdzUjZLb3NYcGYzTXhScFlXdGhMcjVxSDFQOHBvNWNZZEtjRE1TX2p6RlZjM3E4RjQ2bXFzSjlkREdYUTJ2MWRyS2gxbTgyTXZsZkQ3UXpHTzZIZXJvVWVldXpCRGJRVVdiTUZFS0tGTGk1Z3oyZklYSjJON0Y5Rm9ZSDZ4QVFlMUZHZTNBeFNCQ2ZhN3FkZDcxTHY3cHdzQ2pUYTNvdDQ?oc=5",
+        "title": "IBM Stock Gains As Tech Giant Offers Plan For Quantum Computing's 'Next Frontier' - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzBjX2dsMFB2Vl81aGtWQUZKeWZUU2J4N1YwQXIzWWJEQzhEczZtVVdLZFRHZmFtUEtXVmlIcXhVNS1zdU5UX2RubzBQU0N5djBhazhoeVU2MGZianp3X1VqSk5CRDZYQ0g0MlZuYWpra1hLb1ZacjEzQ0xXdmZ3MF84MzJRZw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "International Business Machines Co. (NYSE:IBM) Stock Position Lowered by Vest Financial LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjhtLWcyVUlma2ZXeHBZenR4Vmg1MnllQ3JReTA5TlVTSHc5eXNrYXZwdU5XLTFwYWgySnBIY1VjZWhqbElVRmNTcy1pUEl1Z0JmcXJpZmpncDh4bTU0WTcxYnU4bm1DOUk2VUh1WlM0bEdrY3o5UWwtNk0wb005aXVQcnRtY0Jabm5HTHlvZ2IwUDUxTzJmMTVwVVNnTVVmX1RTMXhNSHR2RVExbW9PV2lpTnQ0Q2JBeEJra1k4bWhjc01FTU5NT3RDa1Vva1dBVEVmekJaNi1Mb25VU3h0QlZ3?oc=5",
+        "title": "Is IBM Stock A Buy At Record Highs? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa3R3THRvY2d2aHM3U29rY2hFRHdoZS1ZLUdIZ1ptX2JGdXI1NmFjUXprWVFTZDZ2dkhyYVdKRjNFdC01cmJqTHdsTklkTlFqbV82M0pPbWw4NDBmZTVoQlBNZW90TnFSdmQ0elk1alJsSWNCXzFybmpRSHBtVzI4cWpmN0VVZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "IBM Surges 16% in Six Months: Is it Time to Buy the Stock? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEZJalpKVjlsSFh6UkM3ZFNoQU95MURJeVZ6cU1FOTNSN3B5YlU4ZDhZb1FLa2tQNkRUTkxKN3RraUo1SzRwbFlscjFOZWVVQzZEWlBkRkRCenU4NzEzNmh1SGNjZ1ptZ2NlTmkxc0YyV1RLTkFnNXgwQUZhQTZQMGhFeTBqX09GVmVIQWNBeG1rVGtHRWlYRFRqeFM?oc=5",
+        "title": "International Business Machines (IBM) Stock: Double Hype - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pb21zVU0wMkc1Q3pWeHAzdkdjb05mSmFTMDM1Nk9FVXBMTXU5OEpnRV8ydS1QMHBGcGtOVTNEQzNhc0ZTOW9nMFVIb0FrcnQ3M0RLMGRJak95bkNiNTVHV3B2cmlfUDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBM’s stock just set a new all-time high. This was the latest spark. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBweFFIa1hxcHFCRHZYbGI5NXNJcmhjSk1IVllZNV9HLVpzczc0VGd1Nm9sbVpnTEdSS1pGN3BXTTBBZHdLZzRCUVpiYUd0MkR2dU5sc0lfNmI2Y3JyRnhSeEV0UXRvaVFNdjcwbW1xTHU1VnBjbzItV0dXaXpwb04xMHFqdHcwSFdOQWJSZGU3elB4UXpjcDJNVVpUOEoyRXdZVVFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBM Stock Hits All-Time High as Firm Touts Roadmap to Quantum Computing Breakthrough - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTFCUHdqUEM0aHJqMUZIQVBGUlB4c2dxWDN3OEJtSFItVFlreGUybDBZdlFTa3B6T2VseU9YVV9YVHg4UUY0M2dZOW1wYjBienlhMUh6djQ5akpBTzdacDRzU2VCV2JwMV85eXJtalF4TVZOdWpBelljQ2VjdmQyNU5YSjNhMG1XZnhkb2hVMjVmRTl1d2IyV2l4bldHQ2VMU2gtVmFwQVFZWnB1QmVBLWxhUWxXYVZzT1NjS2FBdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBM Stock Continues Powerful Rally, Surges Over 64% in One Year - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUVFSG5tMUxLbkxYeDlBd3lJWmY5M2ZRMnZyYkhvLWNEOG1pNnZUSmN2ZEtHc05fUHF2Z2JhaXhkazdINGV0SDI5N0tXT0ZrdEE3ZEduRHZ6ajJ2UnJnd3QxbEpzb2tBeU1tUUhVZHgwWnRIWW5mMFpmLWdZRkExNmVCSE8xdlh4ay02TGNoeTZlSjJwaklvX1ZVaFRCb3JtZjcyd3Z6U1hVdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "IBM Reveals Quantum Chip, Eyes 2029 Starling Supercomputer Launch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjU3YmJKbkl0UmhiVHNHNXJQS0FXeVJMeVhFTzZURU9FTlV4elFyY3Q4NTY1VkFZanNKZVpNQzJvZEZpTWJSdzNDcWtjVXFqOXJIVWUxTmdJY0dBMTVhLXp2ZWFfY1VLczVWSnJ5WkZKaDVwTXMyNTRaS2lsSndHNQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "I Prefer IBM Stock for Quantum Computing Stock Investors Instead of IonQ Stock or Rigetti Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX21fcVVKcGh2R29jN3hraG5WZHJLQ0NzNzVCaXhzRXlLb0hHa2pkY3ZMcHF3XzNZcU56d28tUmZQUW1hVGVZSl82RF96WGtjSFVzalpUUUNGc2dvVWRfbEdqLWRNUFJsLVpER0U2ZkhCRGFEUkFuQXZlRGI3QWVyVzM3b1dvUzVSSU5PSzM5YUJXYlNzWjBSYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Quantum Leap: IBM, Vodafone, and Oxford Stocks Move Closer to the $1T Quantum Market - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnBhM05YVFV4TmRfdVJyeURVclU5MkV0cTFQMllWUlVERk1ocUxUNUNHcklmOTRzd2Z4ZmxNZllaMm5mcmNMdmdORGk1NmJpZlhqbFdoNFhyQm9pblBRWnZSWnpGNTJQVEJtNFBDLV94dnZnREpwSnNWRF9oOGhNOC1DLV9vSFljWVFKczhjWW5kbFNPMElSYXFUWm9Kc0dldThMb1F2MlVySEZlMTJv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "IBM Up 10 Days in a Row: What’s Driving the Winning Streak? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHdWbG55YzBlQ2dKcmY5VDVmaG1IbUp3cHY1U3lTMk8wQWtwMmI2eUFxT19tUFdjMnRpYlhwSnN2eGh2bHpyeEctVUs2ZkxpdHIycVltNHUzRG9uU0xvMkxkX3p2RlZGNlR3RlNVcnNWMkNCTXZPeWFoVF9PQVZtci03bzVabmVYcDFQQkJmM19EdjdsVW9EWkNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's why IBM could be a member of the 'Magnificent Seven' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hSUxLem9odjJuYzFRSXlFQkhxNk5fQW9WZi1uazRyMTc4Q2VkYWdfdGtxc1hjWXJ3ZEtmWXV4TmcxZFBlNmRKbHdrMjRJdzlMNjNOQ0MyWUlWOGVkZFc0a21qem1mQTZwYllPbVFubVR6ckZJUWpFLUo4VE1CQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBM unveils quantum processor and bold starling supercomputer plan for 2029, stock prices soar - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZUFhbEhTa1ZsU1BpTlFkd2d4VHZjdGg0ak1MRjFwYjAtOEIxSjhpd1ZvOFNYX21MejJlcUxLM0pSTC1jbXNjX1o0dV84Ty1CR0JqZk93RVRhMHAtRi1waWloNmdaQlRkSUVNYldIUFF4VUQ3b0JjNF9vdXJVOGUtVnVNRUFJQ0VaSzJKWXBjX2hZSjdhd2NLQlZMbGhCWnNTdzZvaURyWmdJY1FTQ0RWVldHTk5lY1Rud2hqd2dNakIwMlpvdFM2M0JjemZxbTBZbUlrNTZHZjVIa3V3c3RjU3FDQjVqM3FwMjVyTGJIUFVKWUNXRjdONGQ5RTlzVDB0RzZaRWR6dy1tVzJJV244NXpadw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,81 +621,41 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Analysts reboot IBM stock price targets after earnings - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVYtOTNzUTJNWDVoQjFXbWlNSlA5NVliaV93ZjJsaDdONGV1VUtNQmllcVgzSGpjcDBwVkoxOXRqeXUyX0hhNG5vcDdqdldrSDJaaGhHeHZoZzIzRHFQNDFMSngxVFNtV2NiMG1oall0NWtWS1RyS1ZMWk5xbTFNcnhVM25tRVdmWWo1OXBkQ0J2WVl1YjJVT3hWNTJCUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "International Business Machines (NYSE:IBM) Launches Watsonx AI Labs In New York City - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcEg0UFVra2hDS2F4TldoanRXaUNWWWZ2UlBTWmh4ek81enBGaHdJaGZnT1BKZDdKQTZQN0xfZ1B3NUNtRHMxeEN1dnRrQWpNRUNQbTlaTWsxbXAwLVpNSTFqUEVNTHFmRjdFNDBhcmdLbjVIdlhWcGhmSU5qUEExOFhXSDdDbWNMMlcyaVNqSUR0Q3ZfTDJsTzlyUFpPT2VJbEpncmdma0F2MnEtcl9MWTE5WFFMcWtKZTdNT05VX1U5YXRxZ3JrQXBFcUJxcmxNWTFiT295Z1EyblBrOVZF0gHkAUFVX3lxTFBIUWVyU2tneWgwTDc5dHQ2NU9vVDNLekdIWE9renRSSlBQdlpTeElkLUVmT09OLU9PdkNkYzRQOEVhYmxBYkZqTnFKYTZacHRnakhKOEJObXZMbWNIYlNZZWtEdDVTUUxyNzFPc3FHWHQtUjZjeU1WM3FvcEpaSXhyMjJuS2dMYUx0VF9rOExaWHNDXzJqVjhWTnBSQmxVWklYZ2N6cHRxb3VvTVFvMm83RVhqanJSLVFMZHo1NHZLNFFGOWtyWHM5Q2drNzNvd0QxNkxpbEFmUy16UjB2SHg3QUpBQw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IBM Announces General Availability Of AskIAM - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXlGNTczam41Y0Z1c0dNNE4zX0UxRkZmaUVIdndCOFc4bjFfVHVuSWhPczdKMDRWRVhJeHVWdzFIWTM3Mko2OFJlc0xKakNmanR6U0FyYlRfVEtXdkxTQldKT1VJcVh1TjNpdjlpclV6WWpFZ29TZmpkeTFIdXdxd1l0LUhfV2l3Tmp2ZkszZzhLQ2FKMEo4M2V6S2xWdUlKcTdJdmJyRERzTTRmbWc3aA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Artificial Intelligence Stocks: The 10 Best AI Companies - Money/ US News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "International Business Machines Co. (NYSE:IBM) Stock Position Lifted by Anderson Hoagland & Co. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd1AxejZUYVd6bnpxYjdobGNuajFKWkZSbHpkSGFDVExBdHFNbDFmNFFGcGZGWFoxeTgzaDVob1BtRVNqZUNIbFAtWHY1NnFpVFdDU0RtZnNveGY2UDY4TmpfaWtPT0lRZkI4MUljOU56QVFLT3lfaVp4VmxxdkkwVU45dFpmc0ZLMEs3bGZiTHJaOXpUU29kbzZfNWk5RmpUVGxPUldBX1NlSUtKcVppS0lFMDRIQzBzVHI2Q1VtTzl4eDhxOEFsbmJ5bk1lTGk5Sm1qV0pReUhLZTh4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IBM Stock Tumbles 7% After Q1 Segment Weakness Overshadows Guidance - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81emZlV1JHeS1CbjdCUTd3Z2hveTV4SXpZNEg4ekI1dE9yeGI3X2RGTDVmaENWdUloSS1kRmZvb3FxaVVQamJPUzlwUjhJa05yTVJKWTBPV0JCcnFrVVU2aU1OenB4R2xkM2V6VUt4TktIb0VOblhr?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "IBM stock soars to all-time high of $269.14 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUJDU25DTko4Mm5CUGQ2RUpKWmdTd1JZU1o0SGR1U3Zlclg1czEwZVBlbmpUSV92c0xzYTRTMkwzTnF0RC1KTlNyRWh1QVNSYmdiN1ZaRjlZbkVsMDEtanJDdEJUM2U4NEdRdGRsNktvOGprSTBnZHNybTVad2U4WkhkSnNEbkxKMVlla1JCaFRFaXZYcmp4Nmh4SVpFQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "International Business Machines (NYSE:IBM) Hits New 12-Month High - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEltczlsMmdVRXhNSDJBTE1ScTdBdUFNNGo2Tm5yWXVDMWZRMlY2VXNtb255akdlLWI2cnI1R3UwbklxMTdzNDNGRDgtOTlNZEFCSUVoTWFPVXlOQm9pQVpWZ2tRZEx2UHJ1bWdTN2JZUnc3V0VfY0FZR1hQTWNMaHg5Zi1QT0dTeEdsQjhIQS1QUDd1MVBEenpURU9iMDVUclR6aTB5aWJmamlHYndpLXN6TnczZDVMUVUwR0JFODh0SFNqbGc0?oc=5",
+        "title": "IBM stock soars to all-time high of $269.34 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3U2YmRlUE9ZTGdDT25MUUdzUjZLb3NYcGYzTXhScFlXdGhMcjVxSDFQOHBvNWNZZEtjRE1TX2p6RlZjM3E4RjQ2bXFzSjlkREdYUTJ2MWRyS2gxbTgyTXZsZkQ3UXpHTzZIZXJvVWVldXpCRGJRVVdiTUZFS0tGTGk1Z3oyZklYSjJON0Y5Rm9ZSDZ4QVFlMUZHZTNBeFNCQ2ZhN3FkZDcxTHY3cHdzQ2pUYTNvdDQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "IBM (IBM) Laps the Stock Market: Here's Why - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBialNvbFluTEljRDB3SDVNR203RUE2VVRNRm14ZWlTY1FHU0xWWGgwTmFvdHdybWE5dk5IWWxIeEx5cVBENHBTaHVJZDlndlJwSExnYk1qa0daMVR2cTVGMVhPWjVlT0VTSWl0bjRmV0hYenJPR1hlY083TQ?oc=5",
+        "title": "RGTI Trails Quantum Rivals in the Past Month: Time to Hold or Sell? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVlQWTN5TDNMX1d2cVBYUGdtMkhNYjJqZnNnLTRKdFlTbEY0WFFpYUt5aW4wcEZuRks0RWhwTjQ2eHNZWWZCajBGM1MwZUtkWDhPSVZ3T1NvSlpsdlMwaEMzMDFrSUVBbWdRV0x0NWxPbzdMc1liS1AtQl8tTkpZYnM5N0NqTUpqRGpPb2poU2tBaHgwZ3VtMnUwV0hEWUR1RTVEamVSNTJhN2hHd1RTdGp0Sjc3WjltMFdVV2pR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "2,971 Shares in International Business Machines Co. (NYSE:IBM) Bought by Curat Global LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFhXaEtGME1PNjNwYjNSa19SYllJMjYyeVItQWFuMXNDTWtEanc2akEzb19BRE1iTkpGcjY0aHNYQkhJQjdCeHF5ekxvb09TSTR2Y0FodTAwMmdfSnNXc0p3TXV6NV9JYV9EdTJXa0RORDhNUEJkWDVmcHJ6QVZGWE0yV0wzVC1mYUpxd00zS2xITnQxYmJUQ0JnWDRYaFNNeG9HRERvc1pkblJ6ZHpneERPQVJ1RDltN19BdjVad0QwMy0wX3hVSkl1WU1DUHZqNFA2X0NUZDBmLVNPelE?oc=5",
+        "title": "I Prefer IBM Stock for Quantum Computing Stock Investors Instead of IonQ Stock or Rigetti Stock - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTk1YeXJXTUR6clNrSlJLRld4WFJCY0ZkNThya2szanVDZlFxSWdvNUdvUXJQbFBuQWROeDRWZmNCRVl2eWZETW1pbzNOUlU1eDlXSC0wZEtxdVlKZHZDcFdreGVwajJHVmd2RS00cHY1dlBGS2UtTVdDSjFuRXVzajBmdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rigetti vs. IBM: Which Quantum Computing Stock Has Better Prospects? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXNsb1luUlZEM0gwR1d4cUdBeHhJb05vYjFxVEhjNDBSaXhtVHhJZ3g1ZXJSbUZ4VmNYMFBJTDg4TVMwdzROdXY2dGNMMmRfd2hqUURGaXdpdnNwdkRjLVBVdkF2VmhZaHZNUTBrQ3l5YkgtcXVtQ2tsdnJzd181STZ2YnQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "International Business Machines Co. (NYSE:IBM) Stock Position Lowered by Columbia Asset Management - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRHhiOTJLWmVMLVBBekNRbGZ2QjltRk5Fal8yT01OSjRKWFFRRDZuUXpEM3VJMFRXbnl3ejNlUFRuSHVBbDdocUhnRi1DTWMxdUFBSW0tX2x6V1RxYjJtUmd5S1NOSjFWNW1CdXZlWHlLR3MyRFhSUjc5Y3JBaldldFRCWVZqemZXd1NXTk9qa0pzVld5MjhCUlFVUW5HdDNHVmp0cTkxQmZxYXlIUjZsZEpjQ0liRlE0X3ZRUnlxZ2Q3YmVwOVJTdkU2MHpISm1RVmdCcURiZFFrZjR2N2dzeWlUME1kM3ZXcmhkQXhn?oc=5",
+        "title": "IBM Stock Dips to $278.70 in Daily Trading, But Long-Term Growth Story Remains Intact - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3NxMXh2c01Zb0h1bDFoUUZYeTVPaVQ5a3c1TktMS20tcjJBLWxqcnE4Vk1RQ2pMMkR6bms1STJRSy1NX3BXYmpWMklMeHVKSndYQ0FUdWhzbmF1WGJVVEhtZEk5czlCVDNPV1ZMQ243R3BTbTR2ZU8tMHNZRF9MSzVibUlyX2IzWVNBZXR6LXJSTlVqVEs4THdoN0FCN0o4TmZ4R2R1NnJGS3lGbEQ5TGRTOTdNRlZhRVl3VWdkcGpCQVUyTVZF?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Investors Heavily Search International Business Machines Corporation (IBM): Here is What You Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHpuRmdLbEJHa2d6d2llRGZSQ1ZNSnhDLXhXajNmeEgtYVRZaUVsWU5pajUtMHQ2b1B6Q0JDWWZfSzI3a0o3WHVhY2ktd2VaallfcmR6QUtGT3dHWG04YUYtdVJzeHRBa2pmc3hGV0xYaUFaTk1RbjJUd1QzcVV4Z00zY0szUVc2M25wV0VwYURLdGN5emlNMQ?oc=5",
+        "title": "International Business Machines (NYSE:IBM) Stock Price Up 1.4% After Analyst Upgrade - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQUhlT3FOSkZ0SXBTSGYzbnpUVHNUXzVjN09tVmF0dG82SjNwUl9GekhIaXhrNmlaOXh1OFl3UWZkclY0cFZjNXdMRDltS1pvc3BSeV83NzdXOTRKREJiU2ZJUnhqel9nU3VDTG40NnpCNnpoYTVNbm9vU0JFRm8ydkdUTGZMRjVQTjh4cW1vZ0pheERTblBUU2djYk55UkY1SDkyc2VfQjR2bExTekJyM2F2M1dKWmlRUDY3RmFzRnFGNnN4bUVrZ3AxOTM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "IBM Stock Hits All-Time High as Firm Touts Roadmap to Quantum Computing Breakthrough - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQazFzdGlSbkNGYnlCcmhEb2dwNE5YWDFZbGJPbnZNSTVMVVZBRnNyNWd5RnhaQjNscGZBdEprbGNKcnZ1OVRVcG5jUG0xMFBxTjF6S1FBX2YzTndaVWF6eUJSaldLbkFPTkFGcDlWLU9kcXV2RWVCWklNRVQ1ZThaZ0c5MVh4YlhYeWhvVGVST0hXU0doZ2xKc0VoSWFBUGtZSGdwQnR3YzE5VXc5aVBwTUsxaFE3NWVDdVh3SnduZkJidHlMSlktN25Pc21GT0Yyc1RIdzd2X2V0X0k2MjFXNU1QVk55NTB2YV80YWZMSi05TFc3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "International Business Machines Co. (NYSE:IBM) Shares Purchased by Fifth Third Bancorp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjliNExWSzNfazNMX3ptZHpydDkyZHVoQlNrTGZqNVRodlMzTlZNWVhIRU1EQWJ6b2FEeEZ6Z1pIM0VnQldIR3Y5Vnc3N2lWYTJfdjVqR1ZSaDd3ck53TnBzSUU4V1IteGQxWW1pSUJCdFVQOGd4NUNxNVVvanZFZ1FyZUJOMkRMSUNRNTlUbDZVdVpjclhTc1dRZ0FzZmRsS1R6d2dRZER5SmN3WjEzaVd3VHRLYjRiMFIwS1RKU1JOYUdkUGVYNV9EVzVVS0labXBfQzREb3p0Q3c?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "International Business Machines (NYSE:IBM) Stock Price Down 0.4% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUdCR0YzZ3E0NnQ4Tm1Tc014c0tnOGx0emIwLXNDREE2SjhIM3o4RC11N1pfdmF6dzJYVGdoZmFqcjdDVTd3dzRMcV94UEF4M0hZV0VzWERDVTZjTTVnSWxYOUpMYk1VM2JZbTRTN3RCZXdhbnlDVGx4cFRfT0Z5NXI4Nk13dGZZZjdRREhVQmJkYlkxT1U3R2R3TGdVQzFNT1NIWmhBa0g2NmhjU3FzRlV2S0FhLURDZXIzSkhDZ0lXNEZ6WEdrVw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "IBM (IBM) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xMWdKMEtjdl90MjRicnRxX05wbnBqZnhLaEhvVEdLcE1UQlMwTkFURndHRFNVQnZHcmM3b2hzNm4wQlhxTkthVjktaXJSTGdqRzNaNk9PVW9BTGhtSzhLTENiWnFoRGgzOGtNLVIyWnJXTTM4U1N1elpR?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "8604.T",
   "name": "Nomura Holdings",
   "sector": "Financials",
-  "market_cap": 2664431878144.0,
+  "market_cap": 2616778293248.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.060185,
-    "PB": 0.7619472,
-    "EV_Revenue": -5.293,
+    "PE": 7.911039,
+    "PB": 0.74831975,
+    "EV_Revenue": -5.318,
     "ROE": 0.0988,
     "ProfitMargin": 0.18004999,
     "GrossMargin": 0.78628,
-    "DividendYield": 5.32,
+    "DividendYield": 5.28,
     "DebtEquity": 925.352,
     "CurrentRatio": 1.548,
     "QuickRatio": 1.529,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 61.907753754329455,
-    "Momentum_10": 4.144351057734284,
-    "MACD": 14.012036721991876,
-    "BB_Percent": 0.9233504259964208,
+    "RSI_14": 53.25256656900709,
+    "Momentum_10": -1.091974821606322,
+    "MACD": 12.076184371296904,
+    "BB_Percent": 0.5027167724131237,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9358279744301582,
+    "ValueScore": 0.9150022206976424,
     "QualityScore": 0.4745391286600287,
-    "SignalScore": 0.4874866718205983
+    "SignalScore": 0.570633089294623
   },
-  "volatility": 0.0248506333054839,
+  "volatility": 0.0247275987727169,
   "beta": 0.568,
-  "return_6m": -0.0216983269830262,
+  "return_6m": -0.0161583296090374,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 8,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 923.6
-      },
-      {
-        "date": "2024-12-09",
-        "price": 921.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 923.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 924.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 922.6
-      },
       {
         "date": "2024-12-13",
         "price": 914.8
@@ -525,38 +505,53 @@
       {
         "date": "2025-06-06",
         "price": 894.6
+      },
+      {
+        "date": "2025-06-09",
+        "price": 897.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 895.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 891.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 889.9
+      },
+      {
+        "date": "2025-06-13",
+        "price": 878.6
       }
     ],
     "current_price_data": {
-      "price": 894.6,
-      "change": 11.6,
-      "percent_change": 1.31
+      "price": 878.6,
+      "change": -11.3,
+      "percent_change": -1.27
     }
   },
   "news_sentiment": {
-    "summary": "Nomura Holdings, Inc. connaît une performance mitigée, entraînant un faible ratio P/E. Malgré une amélioration de ses profits au T3 et des revenus de marché supérieurs aux attentes, l'entreprise subit des pertes liées à Archegos. Son repositionnement est en marche, mais des scandales internes ont contraint son PDG à démissionner. De plus, une amende de 453 millions de dollars de l'UE pour entente sur les échanges compromet sa réputation. Les investisseurs sont prudents face à l'incertitude liée aux actifs américains et aux attaques de Trump contre Powell, tandis que les banques sont sous pression avec des litiges sur les marchés obligataires.",
-    "sentiment_score": -0.111,
+    "summary": "Malgré les récents scandales et pertes importantes liés à l'affaire Archegos, Nomura montre sa résilience en affirmant son engagement envers le marché américain. Cependant, les départs de son CEO et les amendes infligées par l'UE soulignent les défis auxquels la société est confrontée. Parallèlement, les licenciements chez Macquarie et les litiges juridiques continuent de peser sur le secteur financier, tandis que l'incertitude liée au Brexit maintient les investisseurs en alerte.",
+    "sentiment_score": -0.429,
     "label": "NEGATIVE",
-    "positive_ratio": 0.22,
-    "neutral_ratio": 0.44,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.14,
+    "neutral_ratio": 0.29,
+    "negative_ratio": 0.57,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Lacklustre Performance Is Driving Nomura Holdings, Inc.'s (TSE:8604) Low P/E - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNWt0WTUtUFdFbTI2Zm1PMzVoMGp0UzVycDlpRnJFbzlmVGtUcjUycTNCdGpiTWh5SlZkV0xoZVR0dVA1WVBlMEl3MFFPLWZYejR3S1E2WWtPTmNJQy1adE5iNG9INVFYXzFJNGRjNlJIMGdUQ09BNlI2aU1lZHczcC15dnNTWUNOc0U5S0IxN3FGaXRVaDhQclFaTkxUOHBfX2JjNGxYbWdPeDZIcVdQaVFHcFlWMDlPZ3BuQ3RUVGNvRFoxOWFUcElfal9oTjNsVWVHUkVKRkpsWUw5TTBPRm01NE1pN2PSAewBQVVfeXFMT3FfUzRpSHVaeU9qcFJfNktXUkNncXdaVmpsMFdxOGxuWEF6ZnhvX2tKN0xJbVpqUXdTVWxOa2E0MzNwa0pSZExyZjlwTUptaEJ3OFZDNUQzaFlleUFVUkVTM3lGa0hVaWYtdzlWTjctNGZLVFlBY2gxZnJoT1lFS0Rtb2xlcGVlcUN5WUJ4US1qRnV0NHNQQm1DQk9yWV80eFV2WWtTYTlUcDhkMERTd2RCTk1KUE9kRV84SFRJN2FoY0M3V29JSzk3WGVoVHVuX1QwNlpSZG1DR0l3RUpoS0pCMm11U3ZYbno4Y3c?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "8604.T - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWmVqeUpJeWtHRDc2WWl0eXNZaVlZckloWW5teTY1em9OZjJQaWI4QVgtN0JmRHpud3RvaWVzWXpUbmJRY2V0dWJpMEp3UzJlR1h4QlljMG5sODN1?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Oaktree in Talks With B. Riley (RILY) to Replace Nomura (8604 JP) as Main Lender - Bloomberg.com",
+        "title": "Oaktree in Talks With B. Riley (RILY) to Replace Nomura (8604 JP) as Main Lender - Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd21CLXo3R0VoclVFMnpabEswMmQ4WGJYTHo1MlI3d3BIV1JBV0E1eWtJQzFqYTRqUlJIZmpRaWR4MWVkYXNkWHBuUHF6cjdTb2I4dzBZSHVWWlZEZGhDUlBCOWtwRTVtckRaZHI0VlEyTzFQMHRWcHlGSHBtMWNVcGtETG9YQzM3OGFhbW84YkxoT0J6d0REQUd1MnVETU1FMmRlSTVXOGhnUndDZldPM2NpSQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Head of Japan's Nomura apologises after former employee charged with attempted murder - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelB4djJ6ZXh0WTdwT0hrZXY4ZnY4clM5UFppb0kxdUZVd2JvSzdCQjZPWXpkZkJIb08wNGZnRVl6RzlkcUF0UWgzN1dlTi1HNU01eTNMMGhrSGJmTjdQQ0VXeFo0MGZBX1FzaktoUHdvUlVKbFo1aWNuMDROemRyT0hBYk93ZmlDRFljR2dMSkdEUEhoSUV3RUtSMUx4eTl1VXZWUHV2aw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "CNBC Daily Open: Investors grow wary of U.S. assets as Trump intensifies attacks on Powell - CNBC",
@@ -564,19 +559,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Japan's Nomura doubles Q3 profit on revived markets and investment banking units - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM05UMUItWkc5ejEyZVI3Sk9WSTlYVmtfY2c0SXpQUGx0QjRXVnloOHQtcm5pTVlJTWRSU05Gdy1wYWV2dXkzRVdpTGFZdWZPdFlJZzBITU1weEJDaFo1SGpLVVlpQUhXc0RMMnk0OGkzOVJQMF9JSDB5bGt3aUlCRHZXVE42NXlLUi1qUjNabFdzUGVOM0hZd2luQ0lQLWJYQklmeW5Ed1RRNFE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Breakingviews - Nomura is on the cusp of its promised re-invention - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0p0a2lBUVVwbUtUTWhlbHZVSWpSM3hCM1l2QWhkSGVTeHE5bDNOZHoxN19ITzB0NGhwMWJwVWxmR3l5akJ4ZmFLb1NORmkwY0wtYTEtcDh5WWVVREoyTEp0NXE5UUMtY2dxWEZnY0VwdFl1V3pWWkV6NXdDU2xORkJLTGQ1U09uRVJ6eUxWQ3JuR1VU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Hedge fund blowup sends shockwaves through Wall Street and the City - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlRJVVFfeTJGUzM4UDduUUhkYmhTZVRoSDZfX3pYb2JuTTQxZFQ2a0lvRUxQVVQ1RjhuOHR6MzBCNzVYMzNhcjFjYmhaVGZYNml2WG9mWmdOaktKTUxrZHVsQ2VPOWRQeDhDUWp1Zld4RWdQZE5kWXBONGt3WlVpMjN6MG93R1BUcmtmcU84eS1xN2cxdEJlaGlwWktMcFVZcGpyVFlXcWo0czJqbWJMRG1KdXUwZw?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "SoftBank Lines up $9 Billion in Loans for Vision Fund From Banks: Bloomberg - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1RUY29Makg3cVIxS2NJY3p3cVRrWkhNRVJ4c3RZeGF1Vl9xOE9oc1l1alR3dVJxZ1psZlVkUkdlMGQ3cWlKeHFjX05BajhvcktPYUVQVHM0NVV2Ym8tZThkMHJ0QmwyMHpUZE5UUjBsRFJPMnZVS05vdUNYMUtSNHRZdEJyZkI1LU15Y05mb0VLeEdEZVZYWnhYeWdUdXJ2SFdlRTl3NFVjekNFRURsT1dkaW1Fdw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "EU slaps Nomura, UBS and UniCredit with $453 million fine over 'trading cartel' - CNBC",
@@ -584,33 +574,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Nomura sees markets revenue beating goal as brokerage courts hedge funds - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0VhRktJV0p6bjktdkltSkxSVW1YVi1UR190aTdzOVZCRFZlMDRvNTJWbW5NRUVETDdDZzVBVTlNZ01MLXlNaldMWmRjMGRoYjFrVnpFRTVZRjFvbzc4dlEtQ1pXeUcwbG5qS3ZhM21Bc3BsNmoycXdNX094eWNLZ2lCcU9FT1pLZDhvbFV0eGtTeFVnR2M2R2RURmg5cVh3NG9DdGItUzBTYXRMS0JzVjNQdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mitsui says has agreement for control of Singapore’s Portek - The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXN0MjdSOTlORWpRZEk5TUl1ZDhHOEoxUjQtSlVWdW00bnlrNUh3S2ROVkNKVW0zTEFZU3FCSkVwSTB2NWQtdXN1OTdDdlc4ZDdCSlhxTkZxWXdfam85RUstbjRqQUJWSGtaNXZYRDkxZF9HZjE2V20xcHJ2Uno3NlF5a1p6V1RCeTBiQkVvNV9FaXVpSzFKRnI3Y00?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nomura net profit leaps as retail income surges - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM1ZyRERzaEdiS2tsU3V3ODFTYkphbnhERlp3TlJhSFRkZlJPWG9meEEzX291ajZTQ0lHYjU3ZWc2X0t0Z05RdXZjR2UwWklyeV8yTEppNkVHQUN6ZE03OE9fSDVzVHlpWGt0NExMZXliNzU2ZTBGM3ByNkpIZ2M1c0p4alNCSXRtcXFweUJ4bXg5MU05blRhMFVuZ01uS3duWlVvQUF4SGszYjFLU3Q5aTh5Z1VtX3VV?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Nomura puts Archegos hit at $2.9 bln, affirms commitment to U.S. business - Reuters",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2hadGVneGdSbmhHd2pNYjZURVZEcjROeVotTnE0aUNEWTd4OTQyVmlxaFVUS1VRalppOEN3VjBSYVBxT1hfOHlJb0NtaGJ4SEVVcUhHRFZGcFBFR2xwZGxwYzNvNnBjZVg2VkV3NHhua1EtTDlHbHkwX0RlNW1rQzVNLWlZbmxaZm4wY2laeXpNN0hFMVcxTVN3Rnk4RG1CeklGYWxKcw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Japan's Nomura to cut risk assets, costs for wholesale business - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEIyTWlhUlBsM01mOGxEYXdfaUtsX0hYaXcyYVJtM19qcTB6S250Q1RpSE5zaHRRSDNTOHYwa0pkYkhoUGpKWE13bDJjZW9OdTdfVTF4UXBjZWY4dFJmRlpqazFXNzM2VjlxX1U0ejhQa2ZGNFY1TktYQ2ttbjZyeW90YVZCNHJTa3Iza3ZrdS1RMjhNbjduTkNOUm92Z3otcWVBcWJwOA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Macquarie lays off 15 percent of U.S. investment banking group: sources - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUg5S0tIdF9SMGw1clluczBCQ1RMZmF3cGpUdHMyZG04bTVRdFBxbE5obnR3YnhKTHJuX0w5QUtBWmt3cjg2bHgtRUNSLTBLaE43M2dmS3FSMHNjaElVaWxhcVVCbUh6XzkyT25ReWtNQ0xMdHI3bFdXXzJGTHEyQUI3RVA5WTlGLTVsRV9lY05iekhHSnN0cmFPdFc1clNrdVVJbnFtMFA1bkU?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Sleeping bags and mini golf as traders brace for Brexit all-nighter - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0FMU0dOMV9FSlV1SmczaDl4QmVEZUF5bG9PTXhDemR1My1QMThGZkppdTdITFJDbjJ5RC16Z21ZUllSU3dibUpTSnRQMzVvZG9KeDlxd3o4UG9OcENlNzFSOWU0UE45V2JiN2hJU0YzR2E2MmpVem1sRzY5ZFVLVlRkN1psNi0wYjYyVmFxaEZ6bU9Rd284bUpUQ0pqYm1DRlEtYktSdUVUejVvQW9INW5JdGlZUDFWMFhhWDQ3WmI1Q2MwdVBSbw?oc=5",
+        "title": "Nomura Securities says employee in Japan leaked client information - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGY3SkZ1UDExU3pwT0xwNHl4bndGaTc0QmNjOFV2bWM1VWVlNmtJSDAtV21qVU1tVlZXVzFldFpvcEFDNk45RmdCYUMtM1pXTTNjYXJLWm5jVTROMTFGdTVsWnZiMGZYRlRNVFFhdzM1ZFM1RXV0bFd3RlZVMmQ2OU9nQWdDZ2JkMGplRXByLXpFanZfcWdPMHd1c2F5MExMODRxbi1PVy15Z2RwX1ZucWNfd0hydnhDdGlITTBGZm1pdFNPWXhj?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -619,14 +594,19 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Shareholders of Japan brewer Asahi to sell $1.3 bln stake in latest unwinding - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlhkcWJTSjc0ZUxhSjhSQTZUc3NDUkE1bFBMVmxlb0JJVkkzNWk1WXhia1dfT3BoTVRwQU1uYXd3bFBoc21YSHUwMzM0ckxKV3A2bEpOSldaUDFfOXBYejA5QWE5ZHJKSFNPQmFFMlIzZmt0ZzZuWWdNX2pMaGtjQ3pWTElEOXZtWHNiY2oxNjZVcWRwc09rOWtpcmRkclBkUkV3UzhoUWJ4UHhNUkJfblIyd0JJQQ?oc=5",
+        "title": "Sleeping bags and mini golf as traders brace for Brexit all-nighter - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0FMU0dOMV9FSlV1SmczaDl4QmVEZUF5bG9PTXhDemR1My1QMThGZkppdTdITFJDbjJ5RC16Z21ZUllSU3dibUpTSnRQMzVvZG9KeDlxd3o4UG9OcENlNzFSOWU0UE45V2JiN2hJU0YzR2E2MmpVem1sRzY5ZFVLVlRkN1psNi0wYjYyVmFxaEZ6bU9Rd284bUpUQ0pqYm1DRlEtYktSdUVUejVvQW9INW5JdGlZUDFWMFhhWDQ3WmI1Q2MwdVBSbw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BOJ Kuroda laughs off face-watchers trying to predict policy changes - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEJxRlM3aXh0LTVoc3ZrbUVvYS14c0RjQV9SY3VLYVFRendSTUNENGVvUFQ2Z3pxWXRGLXZJX1dTejlsckF4Z0ZDT09IQ0J0YU1YUWlTZF9CakQzWHJsa1Z2dncxdFdWLUdLU2EzdzFvZVNVMkc3ay1kR2Z6LU8wX0FzWGg1b1B1UkVWLUhFS3JQdHVLbXdGcDY1MXFWem03WEh1WUVVTzdaR2RCV2RpUHlKOFFZd2M1U3J3OEJ6ZTk5Zw?oc=5",
+        "title": "Nomura buys Lehman's Europe investment bank arm - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnZ3Ql9RYmw4Qk1GdGZUTHJMT2xvVmljel9JN0F6YU53aVJDQ0wxWklNR09DT0Fta3VFMHptNjVrRmUzWkp2UWJYd2c3ZFBNYjJUZXhMYUx2YTRKUjBILXlBVG1GQ3cxSlpHVlFHMnhPVUc2UUZsaE1pMkJrRFlucEJfQk1YbWI5UkZxdkJNcnA5V0J4dkZpX1Y2bmI4OER6YWZuUGhn?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Italian court convicts Deutsche Bank, Nomura in Monte Paschi derivative trial - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3pWWEQzT19Va1ljNjBjVEItcjNvZ0dKb0lFT3RBVGJ3UVFvWVVKVFNIWmZSc0xEd1U4b2hxdlhYUTNSVTJhTmJkNVJkb2tabEtibDhCTTUwM3RlREhkZVhkaVQ5MG5jZDJyT3ZtaWU2cGJtcEVUWEVLdnp1TGZoXy1aY2FXS2F0aE5pelJKVENlUFQ0bUNhYXNFT2lBSEVhT2JIbE9oUmZTV0hFNnFaVklkS2xkVWFjaGFnUGZfdGstWHBEYmcwOVNLcTI?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Five banks sued in U.S. for rigging $9 trillion agency bond market - Reuters",
@@ -635,5 +615,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

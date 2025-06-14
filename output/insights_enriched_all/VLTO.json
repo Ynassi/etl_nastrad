@@ -2,16 +2,16 @@
   "ticker": "VLTO",
   "name": "Veralto",
   "sector": "Industrials",
-  "market_cap": 24805928960.0,
+  "market_cap": 24139182080.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.594286,
-    "PB": 10.772874,
-    "EV_Revenue": 4.979,
+    "PE": 27.825714,
+    "PB": 10.483315,
+    "EV_Revenue": 4.936,
     "ROE": 0.46036,
     "ProfitMargin": 0.16555999,
     "GrossMargin": 0.59916997,
-    "DividendYield": 0.44,
+    "DividendYield": 0.45,
     "DebtEquity": 121.871,
     "CurrentRatio": 2.186,
     "QuickRatio": 1.77,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1465713215797377,
     "ROA": 0.12527001,
     "PEG": null,
-    "EV_EBITDA": 20.005,
+    "EV_EBITDA": 19.831,
     "BuybackYield": null,
-    "PriceToFCF": 32.091390426543136
+    "PriceToFCF": 31.175225751465444
   },
   "technical_indicators": {
-    "RSI_14": 55.248027570152715,
-    "Momentum_10": -0.8813695676925902,
-    "MACD": 1.0795620193993187,
-    "BB_Percent": 0.4121295878297339,
+    "RSI_14": 42.8413440661384,
+    "Momentum_10": -3.766208404582802,
+    "MACD": 0.3229493371962775,
+    "BB_Percent": -0.1143231959248479,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9271858406990672,
-    "QualityScore": 0.3935872692016559,
-    "SignalScore": 0.5693057214890092
+    "ValueScore": 0.8771206496933129,
+    "QualityScore": 0.3933911293665056,
+    "SignalScore": 0.6366749083416512
   },
-  "volatility": 0.0156334830413964,
-  "beta": 0.99,
-  "return_6m": -0.058453709704382,
+  "volatility": 0.0156933097578985,
+  "beta": 0.9915,
+  "return_6m": -0.0634530609579702,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 15,
-    "target_mean_price": 109.51267
+    "analyst_count": 17,
+    "target_mean_price": 108.51118
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 106.75
-      },
-      {
-        "date": "2024-12-10",
-        "price": 106.39
-      },
-      {
-        "date": "2024-12-11",
-        "price": 105.35
-      },
-      {
-        "date": "2024-12-12",
-        "price": 105.79
-      },
-      {
-        "date": "2024-12-13",
-        "price": 104.22
-      },
       {
         "date": "2024-12-16",
         "price": 104.23
@@ -537,37 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 100.27
+      },
+      {
+        "date": "2025-06-09",
+        "price": 99.72
+      },
+      {
+        "date": "2025-06-10",
+        "price": 99.96
+      },
+      {
+        "date": "2025-06-11",
+        "price": 98.21
+      },
+      {
+        "date": "2025-06-12",
+        "price": 98.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 97.32
       }
     ],
     "current_price_data": {
-      "price": 100.27,
-      "change": 0.61,
-      "percent_change": 0.61
+      "price": 97.32,
+      "change": -1.43,
+      "percent_change": -1.45
     }
   },
   "news_sentiment": {
-    "summary": "Veralto Corporation (VLTO) continue d'attirer l'attention des investisseurs, avec des annonces récentes telles qu'un nouveau dividende de 0,11 $ prévu pour le 31 juillet et des résultats trimestriels du premier trimestre 2025 dépassant les attentes, entraînant une augmentation de 2 % du cours de l'action. L'entreprise est également mise en avant dans les portefeuilles de grands investisseurs tels que Bill Gates et Ken Fisher, soulignant un fort potentiel de croissance. Malgré une performance positive, les investisseurs surveillent de près les objectifs de cours des analystes et les rapports financiers à venir pour évaluer la direction future du titre.",
-    "sentiment_score": 0.2,
+    "summary": "La société Veralto a récemment publié ses résultats du premier trimestre 2025, dépassant les attentes en termes de bénéfices et de revenus, ce qui a entraîné une augmentation de 2 % du cours de son action. De plus, l'entreprise a annoncé un nouveau dividende trimestriel de 0,11 $, renforçant ainsi son attrait pour les investisseurs à la recherche de rendement. Veralto continue d'attirer l'attention des investisseurs, notamment des milliardaires tels que Bill Gates et Ken Fisher, qui voient un fort potentiel de croissance dans la société. Ces signaux positifs pourraient influencer le sentiment de marché et susciter l'intérêt des investisseurs à long terme.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Veralto Announces New $0.11 Dividend Payment Coming July 31 - Key Dates for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1hNQThYOGdyc2tVREFvRnhSZDFwVDY3VVpnc0Y1QjIzMHlwbjc4Z3NLSzMtUzNwN2ZMQXRUVTh1dHRCQjYwQ0hpdU1MU2FMZE15bGY1OElaRUxqU2dQTVVlRGd1dGtDLVJBMTRIMFN3bUNsNjkxVXdSOTZOSkZxUzdRWnI5ZXJqMGc?oc=5",
+        "title": "3 Reasons to Sell VLTO and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLUG9hV2RxeDdLVGlLcXlGdGk5LTNRSHhpaTN1bnpQRUVDYzk0LTJ1Z1VMSVQ2ejBSSm5SZUNINDJjdjZXRDFLcjU0anNfYzZrVHNIZ2x5WnltU25uRHhQUi1LallEaGV6NXdHbVM0UzY3dFZWLUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Veralto Corporation (VLTO): Among the Best New Stocks to Buy According to Billionaires - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEFUMXF5bmlwMDdpc0NnNE9UR3Q3NGQ0X2pTb29nSVctQTZBeVRKcGU4Q0l6NUl4ZUdKanhfZFB3eThic3hnNnM1bFhIaEc2Q1JFWjhVZTNIbURXVVBRX0VlUXVfbGVLMHZ3V0FSeHNGRDJTUlo0Zmxra1c0Rm1rOUNMWGF5SWp3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Veralto’s Q1 2025 Earnings: What to Expect - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YejFfam4yTXRBSmlvNWRiN0hFSkd6U2lhbFptNm5YTndlMG9ycFhoMExXTjFMc0FOd2lpSmp4cVJ3ZDVLNV9XdGhVY3k3UGMtQVNvRE1WYzUybS05TE1yQ2dUWkpMd0JlenM0aU9YTGpBTEFORE4xTw?oc=5",
+        "title": "(VLTO) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjhJb2ItX1MyRENQTkRDZkh4S3FsVFY1VERPSTA5Uk5GTTgwSFFMa2FOSWg1cXh1N3J5Y25MY1dfYVFUMThMcHAwU3VFOWFQb04zXzJDMXZIS3ppWVNyNVNhc0xySWJRT0tXX3FLMXVBbVVQbGRVWDZXemI5TndTcnBXT0VoaS16azloU29xWGplWENDQS1WTFpPbWxrY3VsLTJ2SkRlR0kwZjZfRWc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,18 +571,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Veralto Stock: Adding To Its Reputation (NYSE:VLTO) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ON21JSHJ4WVYzNjMyNjlSSFdTdnFveWxUelF6b0ctallnZklGa0dremUtNGJWTGRneGs3R0RsVTg5cGZPS1p5M0MzdnZ0ZUlnbm1zRTVKLWtMbUJLcTRwTWFmeFdyN3F6dnRFQXkyYXVhd25oODZMVGNkS3hSQQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Veralto Announces New $0.11 Dividend Payment Coming July 31 - Key Dates for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1hNQThYOGdyc2tVREFvRnhSZDFwVDY3VVpnc0Y1QjIzMHlwbjc4Z3NLSzMtUzNwN2ZMQXRUVTh1dHRCQjYwQ0hpdU1MU2FMZE15bGY1OElaRUxqU2dQTVVlRGd1dGtDLVJBMTRIMFN3bUNsNjkxVXdSOTZOSkZxUzdRWnI5ZXJqMGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Veralto’s Q1 2025 Earnings: What to Expect - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YejFfam4yTXRBSmlvNWRiN0hFSkd6U2lhbFptNm5YTndlMG9ycFhoMExXTjFMc0FOd2lpSmp4cVJ3ZDVLNV9XdGhVY3k3UGMtQVNvRE1WYzUybS05TE1yQ2dUWkpMd0JlenM0aU9YTGpBTEFORE4xTw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Veralto Corporation (VLTO): Among Top Stocks in Bill Gates’ Portfolio with Huge Upside Potential - Insider Monkey",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVZPV0NoU3RmOWJuOGNoRXhyOUlXT3p2d203NzloRlFfdElVTFJWSUtZVUJkLXJ3dURTMldQaUUzLU5tX1BRdUFmNVdTdE1xSS1RWGZhOVluVlRsTFp5OW9ZREZSejNRYmp0N3E2QV9qYURZOWt3Y2cyRnRaZ2F6NVNEb0NKWm1SX2xzN1Y5UHBmTjFHX3A3RVVHWDR4dW1pMmx6a3JwdmlmUUtxZTZ1V0RqUzl0VS1Gek9fblBIV0ZaMVUyLW1kNjZaUjNoSlJxUlHSAdoBQVVfeXFMT1F3cFhkRUtVU3I0ZXBCa3phT3dnTExoSUpKYU4yNm5jT0phb19ZTjNSVUk1T1VSaEVCWEZLaER0bWhuSTFEanM5Y0swejV3NXF5QWhSNmNRalZPTWxrN3JBN1RHZjNIbTB3bWs0bHMyZ1E1cmhZV3I2UFlhLWtoNlhYZFlYeVdlYUU1ODZOVXpwME1QbmxlX2dzQ2JvUTFfR3BQWkY0U1lMNnZDZS11ME5rUUFZUEdtOVp0dFdNUTNWMDJ0WWh2aUlZOEp1c1lpbHdwWXQtVXVhdUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Are Wall Street Analysts' Target Price For Veralto Stock? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1VlZTZGUDJBVlBXajlJVkloYnlSM1dQclhPVXJKVlpOMnlxSjZpZFo4RVlEWTBCT3F4dDdkcDBTQklNMHNaUmdvVUxXT08wRUl0MnJ4Q1NGNWwxMVI2VkI5WjRVUllOWFdUdjBKUDdFbmhGMlFENnBzc2NheS1oTFA1bTM4SGFWZmhaN1NSYmIydkduWFBTTzl1LW9WTFo0aHFNNlR2ZGE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,23 +591,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "How the (VLTO) price action is used to our Advantage - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmpRME44UXFaVldCX2tqWXJtR0F6eTB5NVVMbWRIYzFqSFhXMEg4NDBvd2VLS1l2VndDb2VNM3lTYVZVR3pwbFFCejhqSHkyVXEyMm5HZ2F3eDd0TlFMTUN4RDMycHcwSkU3V2NtSUdXRzZsd25KZlMtLW9oUGFENDJhdnhWLU5QekpUd0NlYnBfOUQxLUhiN2QyY1JwZ3ExWkxRRkVTTlNuUmh6YU9xZmc0TXZtV2sxN0ZLTjJ4enNiNEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Veralto Corporation (NYSE:VLTO) Just Released Its Full-Year Earnings: Here's What Analysts Think - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlpMb21IWlhObEFTU1hKM0dmcjRaUHhGX2hTX3VlSldpUDhDRm1CS0NOd0lKdGxueENWZ05GUnB6RWN2QXdEZGtZRUdCSE1CZFhERzkwZzI2TzhvMFF5WVZMbEFvU0czWUZKUVVMcVJ5MjlSU2NoRnRVek85OFQtQUdwZDlMZ0o1UnhCblRIVDhDMmxDWW5sYmdrRW1VUTAxcDhYMzdmWTVRS0Vrdmo5bU5GOUFVQjZrdmtCQjF4SmhwbmdHQXJPbU9CSWpNZW1o0gHWAUFVX3lxTE5TdFpxWW9GcG9PU0YzdURCVnc3WFlEMWRoMGM5Tk9XMV9UdlpGVXpUUGxXMWJhSDlUOUVZZ0duZlN5ZllFdE1fMXVFSWJuN0NtTmdiQ2xMeENQQzhaMjFXQ3BzX3hXeWRuYW54WjZvMndncU41TWNEUEljcmc4NTJtTTJpZnRqcU1FYU1teWZVYTZvS2ppa3JnZC0xcmNabUEyaW5uZmtCVC1ESVFMMTBFTEMtMkNuMWlSa1Byek5CREQwMUF2WWswWmJlOGNnWWc0bjhPd3c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Veralto stock up 2% as Q1 earnings, revenue beat expectations - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGM5YUlXbTdmMkhBdWc3XzFNNHBGQWxaYWRCcFlIeTlvM1l2clVGTmVmdHk3REFLTFVCVzhqV2VOcFQyWDAxcEpuVzVLaWJnRmp3Z2JuUjRfTlcyWDNrLUlGYkhUbU5LVVNVdDRGcUxwd0pSc0psLUEtT0tjX243TjZUdzBNN3NRMklIVU5GNVZkNUthejhydGV5MlJNUm56ZVllTmVUbUM0MWZGU3NmaGxB?oc=5",
+        "title": "Veralto Corporation (VLTO): Among the Best New Stocks to Buy According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEFUMXF5bmlwMDdpc0NnNE9UR3Q3NGQ0X2pTb29nSVctQTZBeVRKcGU4Q0l6NUl4ZUdKanhfZFB3eThic3hnNnM1bFhIaEc2Q1JFWjhVZTNIbURXVVBRX0VlUXVfbGVLMHZ3V0FSeHNGRDJTUlo0Zmxra1c0Rm1rOUNMWGF5SWp3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Veralto (NYSE:VLTO) Reports Sales Rise To US$1,332 Million In Q1 2025 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUtyX1Q5bXJfYmUyb2ZDWFZUVzdqNFV1TU00X1dlQ1hTbkdjak9hSUNSWTlmalZUZm10cWd4ZG5FNkpKM0YyVmNtTXF1Z1V2aDIzdHZKVXpSaWpFT0toNDFVQ1ItaVJsNzlybk9ub0VlQzZiUHlmbEw3TnY0RlR0eks4Yw?oc=5",
+        "title": "Veralto stock up 2% as Q1 earnings, revenue beat expectations - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGM5YUlXbTdmMkhBdWc3XzFNNHBGQWxaYWRCcFlIeTlvM1l2clVGTmVmdHk3REFLTFVCVzhqV2VOcFQyWDAxcEpuVzVLaWJnRmp3Z2JuUjRfTlcyWDNrLUlGYkhUbU5LVVNVdDRGcUxwd0pSc0psLUEtT0tjX243TjZUdzBNN3NRMklIVU5GNVZkNUthejhydGV5MlJNUm56ZVllTmVUbUM0MWZGU3NmaGxB?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -646,6 +636,11 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Veralto (VLTO) Surpasses Q4 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbDVRRkgyeDEwM0ZRVUZvckt2ZjBITUczMlFadTBERFZFendtVk01UlRGT01FdldvTVBOOUtzSGRBVmZqZTQ4WVAxZEN4b2xiSkplN2ZSSVRCSGF1ZEI2NTVMcW4zMzJpX3lLaEM5RVpQblpFcmpQU24xWDJLNXVPNXVRR0lGVzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Veralto Stock Rises 15% in a Year: Here's What You Should Know - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45QzA1TkxseXVkeXI1QXBfQWZubVdiMUVadkFsTVVoeXoyM01fWkRkb1JaMTVFT19NMXR0M2lRX04zV0FoTHR3NnVzbWprNnE0a2RjQm1iN3ZRajVKYmVsY1ptby1Hby1aSlRUZ2tONldwN3Q5V2JVVFMyNmVoeWM?oc=5",
         "label": "NEUTRAL"
@@ -654,8 +649,13 @@
         "title": "Veralto (VLTO) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakJFUG1UcXZscDc4MVNkcEt4UW1PWE85VTdGSjRqUE84ZWdmTzVhM1lNem1SRTdfWkF4empNQW5nMjZyYnpvU3N5Q0dnOGRvb1I2MzktOGxhTHl5OVRhbmEwcEU5a1kyZG5MTUw5eGo3SGFwS0hmaWdCWmw3dkVkeVpwRnBJZDdydUM3NA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (VLTO) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmpRME44UXFaVldCX2tqWXJtR0F6eTB5NVVMbWRIYzFqSFhXMEg4NDBvd2VLS1l2VndDb2VNM3lTYVZVR3pwbFFCejhqSHkyVXEyMm5HZ2F3eDd0TlFMTUN4RDMycHcwSkU3V2NtSUdXRzZsd25KZlMtLW9oUGFENDJhdnhWLU5QekpUd0NlYnBfOUQxLUhiN2QyY1JwZ3ExWkxRRkVTTlNuUmh6YU9xZmc0TXZtV2sxN0ZLTjJ4enNiNEE?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

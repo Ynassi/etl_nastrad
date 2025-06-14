@@ -14,30 +14,30 @@ from typing import Union, List
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
 
-# 🧪 Chargement de .env
-load_dotenv()
+# 🧪 Chargement du fichier .env à la racine du projet
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+load_dotenv(os.path.join(BASE_DIR, ".env"))
+
+# 🔐 Authentification OpenAI
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise RuntimeError("❌ OPENAI_API_KEY introuvable. Vérifie ton fichier .env ou ta variable d’environnement.")
-
-# 🔐 Client OpenAI
 client = AsyncOpenAI(api_key=api_key)
 
 # 📁 Répertoires
-BASE_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CSV_PATH = os.path.join(DATA_DIR, "sentiment_news_summary_full.csv")
 JSON_PATH = os.path.join(DATA_DIR, "news_summaries_full.json")
 
-# 📄 Tickers
+# 📄 Chargement des tickers
 df = pd.read_csv(os.path.join(DATA_DIR, "df_final_merged.csv"))
 tickers = df["Ticker"].dropna().unique().tolist()
 
-# ⚙️ Async config
+# ⚙️ Configuration asynchrone
 SEMAPHORE = asyncio.Semaphore(6)
 TIMEOUT = ClientTimeout(total=60)
 
-# 🤖 FinBERT
+# 🤖 Chargement du modèle FinBERT
 finbert = pipeline("sentiment-analysis", model="ProsusAI/finbert", device=-1)
 
 # 📚 PROMPT LIBRARY

@@ -2,16 +2,16 @@
   "ticker": "ZBH",
   "name": "Zimmer Biomet",
   "sector": "Health Care",
-  "market_cap": 18246531072.0,
+  "market_cap": 18130790400.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.494444,
-    "PB": 1.4724666,
-    "EV_Revenue": 3.135,
+    "PE": 20.364445,
+    "PB": 1.4631264,
+    "EV_Revenue": 3.17,
     "ROE": 0.07318,
     "ProfitMargin": 0.11865,
     "GrossMargin": 0.71199995,
-    "DividendYield": 1.04,
+    "DividendYield": 1.03,
     "DebtEquity": 59.058,
     "CurrentRatio": 2.436,
     "QuickRatio": 1.271,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.17161784549258777,
     "ROA": 0.044180002,
     "PEG": null,
-    "EV_EBITDA": 9.449,
+    "EV_EBITDA": 9.552,
     "BuybackYield": null,
-    "PriceToFCF": 13.82779620950651
+    "PriceToFCF": 13.669062258552831
   },
   "technical_indicators": {
-    "RSI_14": 41.63900025816854,
-    "Momentum_10": 0.6272549243177696,
-    "MACD": -1.993158140835618,
-    "BB_Percent": 0.3078826887591445,
+    "RSI_14": 40.93624759873033,
+    "Momentum_10": -0.6997902309644657,
+    "MACD": -1.2681500005653703,
+    "BB_Percent": 0.2447640743662831,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9328729431720758,
+    "ValueScore": 0.8877658004558794,
     "QualityScore": 0.4327851388913388,
-    "SignalScore": 0.6269577508363313
+    "SignalScore": 0.6295802288938863
   },
-  "volatility": 0.018338653547228,
+  "volatility": 0.0184622411958677,
   "beta": 0.72,
-  "return_6m": -0.1425473153254377,
+  "return_6m": -0.1376893544952486,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 26,
-    "target_mean_price": 108.46577
+    "target_mean_price": 107.5
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 109.47
-      },
-      {
-        "date": "2024-12-10",
-        "price": 108.4
-      },
-      {
-        "date": "2024-12-11",
-        "price": 106.91
-      },
-      {
-        "date": "2024-12-12",
-        "price": 106.84
-      },
-      {
-        "date": "2024-12-13",
-        "price": 106.74
-      },
       {
         "date": "2024-12-16",
         "price": 106.85
@@ -537,92 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 92.38
+      },
+      {
+        "date": "2025-06-09",
+        "price": 92.83
+      },
+      {
+        "date": "2025-06-10",
+        "price": 94.92
+      },
+      {
+        "date": "2025-06-11",
+        "price": 94.24
+      },
+      {
+        "date": "2025-06-12",
+        "price": 93.26
+      },
+      {
+        "date": "2025-06-13",
+        "price": 91.28
       }
     ],
     "current_price_data": {
-      "price": 92.38,
-      "change": 0.46,
-      "percent_change": 0.5
+      "price": 91.28,
+      "change": -1.98,
+      "percent_change": -2.12
     }
   },
   "news_sentiment": {
-    "summary": "Zimmer Biomet (ZBH) a annoncé des résultats financiers mitigés au premier trimestre 2025, avec une réduction de son bénéfice prévu en raison d'incertitudes tarifaires. Malgré une baisse des bénéfices et des marges, la société maintient un dividende de 0,24 $ par action. La nomination d'un expert en croissance pour diriger la stratégie mondiale laisse entrevoir un potentiel de croissance, mais les préoccupations liées aux marges et à la solvabilité pèsent sur le cours de l'action. Le contexte macroéconomique incertain et les ajustements de prévisions semblent influencer négativement le sentiment des investisseurs, malgré des signaux de croissance potentielle à long terme.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
+    "summary": "Suite à l'analyse des récentes actualités entourant Zimmer Biomet Holdings Inc (ZBH), plusieurs tendances clés émergent. Malgré des préoccupations concernant la marge et la solvabilité ayant impacté le cours de l'action, des perspectives de croissance sont envisagées grâce à des acquisitions et innovations. Les résultats du premier trimestre ont été mitigés avec des bénéfices dépassant les attentes mais une baisse de la marge opérationnelle. L'annonce d'une acquisition ouvrant sur un marché de 5 milliards de dollars a suscité un intérêt pour l'expansion de la société. Cependant, des révisions à la baisse des objectifs de cours et des perspectives mitigées continuent d'influencer le sentiment de marché autour de ZBH.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
     "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why Is Zimmer (ZBH) Down 0.5% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGUUhrSzJKWWE1eGdUcHFndEt5enlETG5GeVF2VlNEdEl0WGJyTmpoWmdFSDlZOGFSbGQtM3ZXcjlHeTUzWnR6T0g0bm51ZHZGTXZidUFpVDZhZ0o4dGllQ0FCaUxUZWotYTlCX2xHeDE0TkxVSVE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ZBH Stock to Gain From Buyouts and Innovations Amid Macro Issues - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUV9QdFFVaFJHNWFUSF9zNWRpM0dhSGNyMkxlc091bk5DQzI5N1h5N1F2cHlFRVFYVEozbGNpZXBWN1N4OE90eGg4RUdUb1c3Y2lvNTBGamRRbmMzVENXVWNsdXpjXy1oMjZ6MWVFT2hjLXg0eU5ZNzRMNDQxUjRpbDJLbEhCeGxPbllkMEhHTnBGdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Zimmer Biomet Announces First Quarter 2025 Financial Results - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYi1pMWxRa0lMV3JlNHV2bmlDeTFlMWhpRHNJUDFEM2NFYWNIYWtIWUJ5SE9IWDVKLTQ4OElmUmRBYnpmd1dBOGFVUDRfb0UxYVYyQk5uSUJGdElvbkZtaEgyT3YwNlBtUmpMeUZGa190WTJILUUycUQtd3N6N0lUWmdncU14MTRwLUZoZ04wek5lRlM1OVJVVTJVMXI2NE5HOTNVRlJ3MnE1TmZuM010SzdjbkVnV2s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zimmer Biomet Q2 2025 Dividend: $0.24 Per Share Payable July 31 - Key Dates and Details - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjV4aGZGX3JIMUlVRkRZSHczU2tOR01TaFh3X1lTX2Z0WHVET253T1RLaHRTUlotNUNyQWFDZDROQ0lZcWhmYVAwdXB5NW1OczR6NGZ3UUNhekRnb01zNHMzSUJGY0s3Q0VuX1piUG8xdUJ4aWdsb3R4WktEZVhueDF2Ym02WEFFQ2RJVWppNEx5UzNFQzBKQTBzZEVpMC13VFdmellJUVFjNHQxRTQySXE4TFE2YmlYaGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How to Take Advantage of moves in (ZBH) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFRIcDBPWTVpZjRIeHRrZDRlVDdGbk1Wb0NpUWI3SnhUOWxlQ3pMZVdCdDlTOGYxQVFVNWdRdVpEOXc4TExPMWlwM3pHcDlWODhzZjdrNXZKeEt6NXkzTlNiTG1Zb3MtZjZVbmZodm1MeUFzaHBBdlRJYWFqUVZfeFBJYlVna1djWDZ3SThxT0NyUnV1SEdpNHlEYnpOcDNsZ3Z4UWZwMWFMUVBidGdfRmlR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zimmer Biomet lowers 2025 profit forecast amid tariff uncertainty, shares fall - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGN3LXA2Q25pZWRZOC1zQ25LU1dqMjNnMUVra19jNDJOa2xjNWswVnpIR0xudUF2QWF6Vy1hUkc3Rm1pbWNUU0dhYmJoalFVSkd6MFJqamxNTlk5VTRvS2s1SFRyQXhkRTYwckJYc282ZmxSMWFkM3l5a1AwbjIyVkRpV05NX3FWOUI3VlVDT0FwZmRRYVVVSElITmdUQWJQajI3c1VDRlNwdGRrUnM2ZmptR3k3MnRIVHBoQV9RVXQzQ2d3OVdSbnBWNFF1STM5eG96dUVWRmF2V0h1eHpsNGlmZXI?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Zimmer Biomet Holdings' (NYSE:ZBH) Dividend Will Be $0.24 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2EyNHM3S2lPSE9RWE1tTGtrTU15Wk5XZ2Jtb09SQmNOOVhRWDNCWExFQjZyYXIyZUVSOG5LRDlWalNLWjgydUZFRGhLZ2xDcHd4ck5GeE9fNGIteE9WVy01YVdjampwTnNDd09KQmlsOTRNMVhuYm1uTmUyQldEV1pSXzg2dVVXamU5dEY1OFNVSUl0S2swVGtMVUg3NXN5bW9fNlhJQWRxT204LVdtaXVhX2VGcXRUaVM2LUZ4cG5sTllOclBSVWlqbXpjd9IB0wFBVV95cUxNcWd3NHY3NXJHaWJzMmJjSENMTHNBUHZYQ0g1TWs5Y29NZ28tWkZnT2dNU1FDYnV3X2FUd3ZZQXhVeWhHVjNFWDhOTG92Yk5XS2N5eVBtNG9ZUWFYdGNyVTlfTUN4Vi05Y091TjdmOG52b19xYmc4RGpHY20yNGNnWlJxRzJySlhDSEM0U2M3YjdtT3M3dGZ1eGFSak5fSlVrdzN0WEVpSVRQUHZvNDVQc2YwcXlRajlXakdZN3lLNWhvT1JveFJ5U3p5MUN3eGF4clFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zimmer Biomet Holdings (ZBH) Stock Analysis: Navigating a Potential 17.25% Upside in the Healthcare Sector - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYnptVWM3SWJCQ0RWd2FoZUpwRHhHSTlZWG5XeG0xZkxWdFI1WXBkc1BaU0Zxd05Qa196NkhTcXlOblBJZUpadE9ERkFLRjc5TVF2T01pcVJ5bzhGVDI3eGZTSXpLSVFpT2ZNQ0tDMl96N29JWlcwd002ZEhiRVlwSlBwQy1pdTNBR1o4a3MweDQwZTdHTGFvdjJ2VjFUTl9yd3RIclNUOXV6WWRYNFhvV3ZiUVRtaVh1c1BJR1dfTDhCWElJRGVubDFXazRFcEpJOUF1VlFwU19nZEtkVFRTZVlteDAzOXU5?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Zimmer Biomet Announces Quarterly Dividend for Second Quarter of 2025 | ZBH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVKQjl6Rllya25DdW1JOUM0T0I4VzF5OHpsMnRDd1lmREhfaThpWnQ3YzhTZU52LUxRbG1SYnBmV3VRa0lTX3YxenVIUDlBZDVfa1RWTjlfX3VsOUFOSEhFaGJTYnQyUlNTbDVkZHh6RGFKSXU0VnpWcE1FQVBOci1mTjdWb2paSkpkc2hBRVo0VGt0MUo1Y3NmSVVpUXQ0OHU3elRaMjFiZ0RsV203VmR4aU5Bd21FdU5zT0MzSW8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zimmer Biomet Stock Outlook: Is Wall Street Bullish Or Bearish? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1dPUG1JUTc3TEJmR3FHb2U5dlRMNVNnVU1fbzRtdnNWVlYxVm5MSDlGV0VqM0FkcFpQXzh0Z2hia0Z4akZVc0pZYm9EOWttaE5OQmxTYmFYTUhHeEhhRnBCbjZDS2JtcjNmcmZUeGJYQzFwNW9IajN4YVBkdGVIdFRIT1hKU1RuRXhJUVIyRmQ3ZC1GaHRoVTQzYnpkY1ZGVC1sMUk2NmxrQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Zimmer Biomet (ZBH) Stock Is Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVFVHckV4WkpuenhWX3RfZnBVN0xxM1lPbi1oYXlCZlhaSkoyLWlDdDRNb0xIUEVoRk16UVFMN2QtYU1paFJaVU9NTEd5LUlzUmdKam1pRUJ6Tl9PMHFfMHJ5SVZGbjVIanBvYlI4R0FMZkNybnZheWl5UFcwZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Zimmer Biomet Taps Growth Expert Kevin Thornal to Lead Global Business Strategy and Americas Operations - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFZQOUdCNGpVQW9hOVpnTklZRWVIcjhuYVFZR0MwTEIxcmo1a3plemdubWIxQkt1XzJQVlFyT1Y5TURLc0VOM182RnBkRXlNMlZnRzdpRkJNQzM1ZVJqRXp2U0NiQ1lMRFJINVlUQm91X0dSY3hzcy1Xa1dkMnFsa2M2bzJJQUJZZmk4N2RJSFp2RTdUMTN6ZGpBSTFaZ2FjbWpRZmVOakhTYWVMWUZKUFhkVEJnNTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ZBH Stock to Gain From Volume Growth Amid Rising Costs - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0RRUElRQl8zZnJCWXoweUlxN3FoanZtRjJ5OGZDbTVXNVFTenA5ZnlJUURQMnNPUl9KbGE4blRwUTJGSDc4dldJM1ZjNnRpeUgyUl91M1o5MUswRlp6U1NkcHR1WUZTM2pVV1hrT29jbTlvSFYxQ2FOdGFRSFBEaWpXb3Q?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Zimmer Biomet (ZBH) Price Target Reduced by Canaccord | ZBH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjl3U2Z0SkZTN2RaTkRkb0JSS0VWQjlDNmNrcHdsZkh3UzdqZHJzUDB4UkZrelMyU2JEMHBsZWdGSVAwWVRKTnd0WXpyR1cxN0t3YVdWMzZLd1V4dlFkeWR4SkptRXZKX1l5OUtPN2I4a2lHcWk4RmhBc0I0ZlM0b2tlUEtZMUV1SlJmR19yY28wMXFOdXV5cGJEcWlYS1U3NEFFT043d2k?oc=5",
+        "title": "Insider Sell: Sang Yi Sells 1,000 Shares of Zimmer Biomet Holdings Inc (ZBH) - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemNDUk1xLTU1c0ZVdG5sSGhWN3M0ZS03eXBRTmtDeU50SzlXZjV6RThqbFl2SllmOVRWUG1SdHBEQWd4OTh0eEUwcVgtc2xkTGozOUZPRkt5XzZFZTNZclNBZks1eTJ5cFp1LUtaYWlwNWxMWmZZV1AzMWt1Q19CcEEwNXh4RnJhcFgwSEpXNmd6RUI3NTBHa1hrYU9mR3ZIY2ZIRV91ck95MmZKOFJnaQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,9 +566,39 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "ZBH Stock to Gain From Buyouts and Innovations Amid Macro Issues - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUV9QdFFVaFJHNWFUSF9zNWRpM0dhSGNyMkxlc091bk5DQzI5N1h5N1F2cHlFRVFYVEozbGNpZXBWN1N4OE90eGg4RUdUb1c3Y2lvNTBGamRRbmMzVENXVWNsdXpjXy1oMjZ6MWVFT2hjLXg0eU5ZNzRMNDQxUjRpbDJLbEhCeGxPbllkMEhHTnBGdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zimmer Biomet Q2 2025 Dividend: $0.24 Per Share Payable July 31 - Key Dates and Details - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjV4aGZGX3JIMUlVRkRZSHczU2tOR01TaFh3X1lTX2Z0WHVET253T1RLaHRTUlotNUNyQWFDZDROQ0lZcWhmYVAwdXB5NW1OczR6NGZ3UUNhekRnb01zNHMzSUJGY0s3Q0VuX1piUG8xdUJ4aWdsb3R4WktEZVhueDF2Ym02WEFFQ2RJVWppNEx5UzNFQzBKQTBzZEVpMC13VFdmellJUVFjNHQxRTQySXE4TFE2YmlYaGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zimmer Biomet Holdings (ZBH) Stock Analysis: Navigating a Potential 17.25% Upside in the Healthcare Sector - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYnptVWM3SWJCQ0RWd2FoZUpwRHhHSTlZWG5XeG0xZkxWdFI1WXBkc1BaU0Zxd05Qa196NkhTcXlOblBJZUpadE9ERkFLRjc5TVF2T01pcVJ5bzhGVDI3eGZTSXpLSVFpT2ZNQ0tDMl96N29JWlcwd002ZEhiRVlwSlBwQy1pdTNBR1o4a3MweDQwZTdHTGFvdjJ2VjFUTl9yd3RIclNUOXV6WWRYNFhvV3ZiUVRtaVh1c1BJR1dfTDhCWElJRGVubDFXazRFcEpJOUF1VlFwU19nZEtkVFRTZVlteDAzOXU5?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zimmer Biomet: Stronger Cash Flows Needed Before The Stock Rebounds (NYSE:ZBH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3FlZE5OMUNaSkk2cU9iRkEzWVA1WV93NDhuT2pkLWVOSlJuRGFGRDlZSlo5RWNsM0VVNG01YVVvT0xLRXZUN0NibVJSSHU2WHg1QTBaZmxGeHJRZktQRzFBR1JGY0xsZ2pNOVdoc1FhNmUzeUZUeERuSWI1eEVZZTdYR0ZxeklScXFfSkxkNW15V0tEY2VEaHdnNGg4QXdJWC0xRGd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Oppenheimer Hosts Meeting for Zimmer Biomet Holdings (ZBH) on June 16 | ZBH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekQzSW9rektKbi1tdUZpYTRCZGtka013QnBUamtSN3lSYXgyTEFFenVqSjRWaWVFX0p2bGZ5Ym9EdEw5VW5hclZmSUtwbkk2TF9VUWxxbWp0MlFGRVNXT1pTczJ6TlZ0RVdwZF8tQlRCRjlJZ0VUbE9vbTk5YmlmWUI2RHBPblE2LUc5R2hSaHdPUWpFZVQtQnQ4V2RQaktMQXdkN1ZSQ0lVdXBWUUkxMmJVTmZGaks4TDA4TGtKd1Y5QW5DaDhRdk9rLVRVUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Zimmer Biomet to Present at the Goldman Sachs 46th Annual Global Healthcare Conference - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHBCSk1DaG1kN2U0YzFKMnlId0NxY2RRSU4zQXhLU3MydnhLWWxfMUtTNUFfY2lMQ1JGRUwzVmpVR0V2Ukl3N2VTS1pMSlRfMG1uTHZON0VHUGNLWlFNRVVLREt4NEx3OUNueGZma1l0ZGc3NVYyQWZqRnBZTDNZb0thMlpJSkRqc1ZhUGlpVHJWOEp2eXdqbXBZM3BFNUdudkxfQTNEbUtRd1VpNW4wT2dCYjhjdjJwUWc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "ZBH Stock to Gain From Volume Growth Amid Rising Costs - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0RRUElRQl8zZnJCWXoweUlxN3FoanZtRjJ5OGZDbTVXNVFTenA5ZnlJUURQMnNPUl9KbGE4blRwUTJGSDc4dldJM1ZjNnRpeUgyUl91M1o5MUswRlp6U1NkcHR1WUZTM2pVV1hrT29jbTlvSFYxQ2FOdGFRSFBEaWpXb3Q?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "ZBH Q1 Earnings Beat, Operating Margin Dips, Stock Down in Premarket - Yahoo Finance",
@@ -641,9 +606,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Zimmer Biomet First Quarter Earnings: Key Financial Results Coming May 5 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX25QaTB6Z0wyZm9pdU1DWXgzQVdic0FOb2tyUDBkeUFmNVNXRS1MUlktNzVHY05yemg3NWlRWFRlODU4QVNJazhVTnFtVThLcS1CbTNmNnlzQktxdUtqRmVjZ1BuTU1heFRvMlJuSXJWSjlrQlVKS0lZek4xUnFRZWMyQ2E0Q2ZJOVZ4alpodXZMbzZZNFpmalppRS1LSnJBSm9WMEhORlVGTFFmT2pyRUtMb2QxR3F1NnlOamNTOA?oc=5",
+        "title": "Zimmer Biomet Taps Growth Expert Kevin Thornal to Lead Global Business Strategy and Americas Operations - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFZQOUdCNGpVQW9hOVpnTklZRWVIcjhuYVFZR0MwTEIxcmo1a3plemdubWIxQkt1XzJQVlFyT1Y5TURLc0VOM182RnBkRXlNMlZnRzdpRkJNQzM1ZVJqRXp2U0NiQ1lMRFJINVlUQm91X0dSY3hzcy1Xa1dkMnFsa2M2bzJJQUJZZmk4N2RJSFp2RTdUMTN6ZGpBSTFaZ2FjbWpRZmVOakhTYWVMWUZKUFhkVEJnNTA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Zimmer Biomet Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUV6LURDSVNwZWgtTFdiN2lIM1dJYzk4RnI3VmViOENMYUF3X25WZzRsY2V4b2htTU4yRWJRR1g0S2tZZ2daUHVqNnJ5R3lELWJQcFNhODFiU3NPRFBsa0V2MUM5S01lQW5BTTQ5RFZHbUdKb0ZkNlZabi0wdXVXWjg3VWxwV1hTZXdHUVFlYVJBUHlTc05hcm1pLUhad1g1TEdGTHNrMmFrQQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Zimmer Biomet Holdings, Inc. (ZBH): Among the Best Medical Device Stocks to Buy Now - Yahoo Finance",
@@ -651,11 +621,41 @@
         "label": "POSITIVE"
       },
       {
-        "title": "ZBH Q1 Earnings Call: Revenue Tops Expectations, Guidance Lowered Amid Tariff and Integration Headwinds - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZGNEMUZjcEJqdmlqTnRFTC1hTWZaM3R4dTJPX3RpYTUzeC1HX0h0SXdhcGlqNXpTWHlZaVJGeWxHZUY0RGs5TTBYMlpCejhKSHdoOWxZZ3puV3o5aGdacTFfYmI4cTZOc2JoNzBBZkhUMkVhcDZJNW9uXzVUY1E?oc=5",
+        "title": "Zimmer Biomet Announces Quarterly Dividend for Second Quarter of 2025 | ZBH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVKQjl6Rllya25DdW1JOUM0T0I4VzF5OHpsMnRDd1lmREhfaThpWnQ3YzhTZU52LUxRbG1SYnBmV3VRa0lTX3YxenVIUDlBZDVfa1RWTjlfX3VsOUFOSEhFaGJTYnQyUlNTbDVkZHh6RGFKSXU0VnpWcE1FQVBOci1mTjdWb2paSkpkc2hBRVo0VGt0MUo1Y3NmSVVpUXQ0OHU3elRaMjFiZ0RsV203VmR4aU5Bd21FdU5zT0MzSW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zimmer Biomet First Quarter Earnings: Key Financial Results Coming May 5 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX25QaTB6Z0wyZm9pdU1DWXgzQVdic0FOb2tyUDBkeUFmNVNXRS1MUlktNzVHY05yemg3NWlRWFRlODU4QVNJazhVTnFtVThLcS1CbTNmNnlzQktxdUtqRmVjZ1BuTU1heFRvMlJuSXJWSjlrQlVKS0lZek4xUnFRZWMyQ2E0Q2ZJOVZ4alpodXZMbzZZNFpmalppRS1LSnJBSm9WMEhORlVGTFFmT2pyRUtMb2QxR3F1NnlOamNTOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What to Expect From Zimmer Biomet's Next Quarterly Earnings Report - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHk5ejVwU2JEX3JMWkdoanNzMnY5el9qdC1qQWR1X0lDQ2lKUHRKUVJxdjdjNWJpUGZoSi1mTWRqRkxfT2loUkdvR0FtZGZINE03UDNYVG83Y2JJN2dQTThGOTFlMVMtdU54MVA5QTFtX0lramFzaVYzRFVwd2IwRkJqQ190ZndNTlNJNm1Sb2ptUzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zimmer Biomet (ZBH) Price Target Reduced by Canaccord | ZBH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjl3U2Z0SkZTN2RaTkRkb0JSS0VWQjlDNmNrcHdsZkh3UzdqZHJzUDB4UkZrelMyU2JEMHBsZWdGSVAwWVRKTnd0WXpyR1cxN0t3YVdWMzZLd1V4dlFkeWR4SkptRXZKX1l5OUtPN2I4a2lHcWk4RmhBc0I0ZlM0b2tlUEtZMUV1SlJmR19yY28wMXFOdXV5cGJEcWlYS1U3NEFFT043d2k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zimmer Biomet Acquisition Opens Door to $5B Foot and Ankle Market, High-Growth ASC Expansion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXpFSXljOEl5RkYzbEZoQ3FHX0NqYmx6RGJ0SEhxdnZuclVhaHNnQ0c4OVlNSDBKQkdPcGU3cmcwSGlmYVZDNkd6eFoyMmoycDFuS25fdUd5dGhJams4RlVwS3RmNUNXV2dScHF4ak42VUwwN3RwYmxwVzByRXBQQTF3MThlTGFvMHFxaGN2eUhUTDBIM1VMWVB4SzFtakxjSmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zimmer Biomet (ZBH) Faces Price Target Cut and Mixed Outlook | ZBH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnYybHNfUWhQNzJiLWRUcWpKN0V4UlJ4c3ZIT1JhLS11NG1qR2R2YTBnWGxuTkVUbWFGaE1fa1pJR2pwcnNXWUhETnBiWkJLSXo3ZjB2NTNSTkcwNkQ4eEl5dzNpcjlLNUNNRUg0M1R5SkZrSUNHNFRJQXNkb3NXWkRvT0NyejhmM296cHNIZU1NQVgwSXBjTGd4SW9QWmtsVmdoUHVIOHV3WnRrMWlnQUpGQQ?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Zimmer (ZBH) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRW9LMXk5Qmhrd1QxdzN6THVVWkhwZThzOEhHdTJyTnhTbThwVlR6ZURhZTFmMTFUZW9tOENwaE5kekw3VUFFbTY5LTBRQThRS1c5b0dGQ2dRUHpmQS1Md3Ywd0RUOVU0cmRuN2kyc1pjcmd1bTh4TzR2ekFKT09hdw?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "1605.T",
   "name": "Inpex",
   "sector": "Materials",
-  "market_cap": 2365260038144.0,
+  "market_cap": 2541906034688.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.583039,
-    "PB": 0.5108201,
-    "EV_Revenue": 1.62,
+    "PE": 5.827522,
+    "PB": 0.5489699,
+    "EV_Revenue": 1.667,
     "ROE": 0.0915,
     "ProfitMargin": 0.19575001,
     "GrossMargin": 0.59474,
-    "DividendYield": 4.59,
+    "DividendYield": 4.37,
     "DebtEquity": 22.647,
     "CurrentRatio": 1.37,
     "QuickRatio": 0.618,
@@ -20,25 +20,25 @@
     "FCF_Margin": null,
     "ROA": 0.097600006,
     "PEG": null,
-    "EV_EBITDA": 2.409,
+    "EV_EBITDA": 2.529,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 62.371796804753494,
-    "Momentum_10": 4.746751524794484,
-    "MACD": 28.38846473859485,
-    "BB_Percent": 0.876726906957799,
+    "RSI_14": 78.37363332234816,
+    "Momentum_10": 8.762490392006148,
+    "MACD": 48.40178583961915,
+    "BB_Percent": 1.1611976223650784,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9356591174305297,
+    "ValueScore": 0.894815283335215,
     "QualityScore": 0.4764027006242923,
-    "SignalScore": 0.4768726612064478
+    "SignalScore": 0.3912510544721962
   },
-  "volatility": 0.0181516859350108,
+  "volatility": 0.0183865711006174,
   "beta": 0.341,
-  "return_6m": 0.0128766273421974,
+  "return_6m": 0.1051574803900319,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1993.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1975.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1982.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1970.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1981.5
-      },
       {
         "date": "2024-12-13",
         "price": 1963.0
@@ -525,32 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 1975.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1990.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2013.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2032.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2061.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2122.5
       }
     ],
     "current_price_data": {
-      "price": 1975.0,
-      "change": 13.0,
-      "percent_change": 0.66
+      "price": 2122.5,
+      "change": 61.5,
+      "percent_change": 2.98
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Inpex (TSE:1605) a annoncé une augmentation de son dividende à ¥45.00, ce qui pourrait attirer les investisseurs. De plus, Inpex a fourni du pétrole à l'Allemagne depuis Kashagan, renforçant ainsi sa position sur le marché mondial de l'énergie. Cependant, la démission du PDG de Nomura suite à un scandale d'insider trading fait peser des incertitudes sur le secteur financier japonais. En parallèle, des avancées scientifiques significatives ont été réalisées dans le domaine de la santé avec la restauration de l'intégrité des organes lymphoïdes. Ces événements pourraient influencer le sentiment de marché dans des secteurs clés tels que l'énergie et la finance.",
-    "sentiment_score": null,
+    "summary": "L'entreprise japonaise Inpex a récemment fourni du pétrole à l'Allemagne depuis le champ pétrolier de Kashagan, ce qui souligne son potentiel en tant que fournisseur énergétique majeur. Cependant, le secteur financier japonais est secoué par la démission du PDG de Nomura dans le cadre d'un scandale d'insider trading, ce qui pourrait peser sur la confiance des investisseurs. Par ailleurs, l'évolution du marché de l'éducation au Texas suite à une refonte majeure du curriculum pourrait offrir des opportunités d'investissement à long terme. Les performances des constructeurs automobiles comme Volkswagen et Ford, avec des modèles emblématiques tels que la VW MK4 GTI et la Ford Focus ST, reflètent une tendance vers des innovations axées sur la puissance et la performance.",
+    "sentiment_score": -0.167,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.83,
+    "negative_ratio": 0.17,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Inpex (TSE:1605) Is Increasing Its Dividend To ¥45.00 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDdTek11QkJfT3JmMmRjUkxZVGNSdDdYWXNOcXFvMmdjc01Xc1ByeEx0TDFfV1ItM0JXQjRmamxBU3hsX1BZMU41ai1oWUxaX3ZlVm1fcEZHQjg1RFJYcFpwYmVNdWpOUDJkcW9jNldYRktZTklYdHN5bzVXaDk3SHU5RW9BNk1lMzhjYmdKT1lEbUhCQ2c3TWhCSk5PaVczc0hwMzV1WENQbWVsUE1ocUVVUEFEUUHSAbwBQVVfeXFMTW51S040NGUyM0lZRjlKR0RFTk1VcnlVYWN0cjgyT3Z5MmJ0Zk1jWVhtdWlqQnZKN0Y4NDdxb013WGFOVEFYZF9DdTFOcmYyOGF2bkNaM2pyWE1sOFpEQ2dNcVZjLS1ESURIWEtpcnNQZVNseVlrZ3VuZkRQeUhBbWdORjA0U0duSmpGUi1ZSDV5cWtPZURqbXVYOGdqMlJrcERCNGR4M2VVdzQ5Vm1SWUthY3VsUTJfUTltQkM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Alaskan Officials to Seek Investors in Japan as Trump Touts LNG Exports - gCaptain",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHl3d1E0MGJtc0hlSjA2MFFLR3dyZXpmLU01R0luZ1VyakJDUkZpVjhzNmNONmc5dEJ4VUZrb3FFZU1hSVE0anVDRGVhbTRjNE1DX1hpZlRaemFKOW95b3kzbzJibnJMUWptVTRSRWZucFk1ZjZIOGdxRnJRaXpYN3JBYzNhWC1qZ1l3S0ZncEdWTFo2OTRpOA?oc=5",
+        "title": "Japan's Inpex supplied oil to Germany from Kashagan, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTFEb2ZreWwxVi1xd2h2dlNUWW43UjVoZGQyTG1tNHNJVUJDVWk0Mm9TdkZ5Wm84ZXE1TVlpc1NSeFN5TEFkeU5NMFNTNHQyeWw5VzFERjA2anVRdlZDQ1owWnQ1c25FSXhaMlJ2OVAxZEt5Mlo0NGQzR2F0QjdaVWZIRlZVeGdRU3pXemZzYU83OWlCTlhJdHRrdXlFMDZKcW1HRk12NEF0ZTJONzdN?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -559,23 +554,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan's Inpex supplied oil to Germany from Kashagan, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTFEb2ZreWwxVi1xd2h2dlNUWW43UjVoZGQyTG1tNHNJVUJDVWk0Mm9TdkZ5Wm84ZXE1TVlpc1NSeFN5TEFkeU5NMFNTNHQyeWw5VzFERjA2anVRdlZDQ1owWnQ1c25FSXhaMlJ2OVAxZEt5Mlo0NGQzR2F0QjdaVWZIRlZVeGdRU3pXemZzYU83OWlCTlhJdHRrdXlFMDZKcW1HRk12NEF0ZTJONzdN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Chartreuse Hard to Find Right Now? Ask the Monks Who Make It. (Published 2023) - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSEpFZVVXVlNseTZ2b2Z6WU00b0RtbkQ3OTN6MHN0Y0xhcmdDTjBEUWIyMWpZNmJ4aDV0aERwYTN4Tzl5NG9XdnFWOTVfX2oxMlROSzdYN08xNUt3bzhwTmRaSl9rejJ3ZE8tamN1N1FVaFgxeXZMVzRXcndPZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Restoration of lymphoid organ integrity through the interaction of lymphoid tissue–inducer cells with stroma of the T cell zone - Nature",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQUc3cUI1WmRabVp3OGotQkx5RjY3bnZDd2hIdlRleF9ieG9NWlhwS0o4cV9lUm5hdlV5X3h1a0JLZ1JsaHo4amdXMnlEVkpy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Legends - The History of Winnebago - MotorTrend",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUWE0UkRCMXpZcUw5YW5UVmRlUnVsSHZJSURRRzNRWWhxZGp3NmoxNW9pMUVGcjBoaFlYLTNSLUxMMkd6b2RMd3FMTWNzWnVQdFhDeGxKYlFVQ01IQ3BqUlZiU3h0X19vNlZkaHBCNFBIY1BTMU9WdDNyX3k3UQ?oc=5",
+        "title": "Project VW MK4 GTI 1.8t - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIV3cyM2ZKR01jY1ppX21yX0hZSHltWVJxRmtPSDFEOEFhSHBXSDVXNTlmRFZaMEM0aWR3VHNTNTN0clZJb0VCaFJRdm1ubHkwQk9VTVN2OGMySXJsTG9ub1Z1anR4R0VFZVRxclVoUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -584,16 +564,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Project VW MK4 GTI 1.8t - MotorTrend",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIV3cyM2ZKR01jY1ppX21yX0hZSHltWVJxRmtPSDFEOEFhSHBXSDVXNTlmRFZaMEM0aWR3VHNTNTN0clZJb0VCaFJRdm1ubHkwQk9VTVN2OGMySXJsTG9ub1Z1anR4R0VFZVRxclVoUQ?oc=5",
+        "title": "Big Bolt-On Power for Your Focus ST - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRjFRck9uUWpDbGVfb3pmU1F2dDlLdzhWVDBhdkNuYTFzOGZLUi1OOHd0R2Vvb0l6UjZSSGNBMFJVazQwbWlDUEp0MGg5Ul9rMFdSZHhGUk5NLVd4MDFibUpuUnQyWjMydDNPd2JHOXc3M1JuOHhfRkpIYzh2RlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Big Bolt-On Power for Your Focus ST - MotorTrend",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRjFRck9uUWpDbGVfb3pmU1F2dDlLdzhWVDBhdkNuYTFzOGZLUi1OOHd0R2Vvb0l6UjZSSGNBMFJVazQwbWlDUEp0MGg5Ul9rMFdSZHhGUk5NLVd4MDFibUpuUnQyWjMydDNPd2JHOXc3M1JuOHhfRkpIYzh2RlE?oc=5",
+        "title": "Legends - The History of Winnebago - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUWE0UkRCMXpZcUw5YW5UVmRlUnVsSHZJSURRRzNRWWhxZGp3NmoxNW9pMUVGcjBoaFlYLTNSLUxMMkd6b2RMd3FMTWNzWnVQdFhDeGxKYlFVQ01IQ3BqUlZiU3h0X19vNlZkaHBCNFBIY1BTMU9WdDNyX3k3UQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

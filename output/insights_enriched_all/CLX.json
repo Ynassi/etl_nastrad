@@ -2,12 +2,12 @@
   "ticker": "CLX",
   "name": "Clorox",
   "sector": "Consumer Staples",
-  "market_cap": 15740640256.0,
+  "market_cap": 15214966784.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.887096,
-    "PB": 583.1507,
-    "EV_Revenue": 2.646,
+    "PE": 22.162477,
+    "PB": 563.6758,
+    "EV_Revenue": 2.645,
     "ROE": 3.18652,
     "ProfitMargin": 0.09887,
     "GrossMargin": 0.45078,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1596915570110812,
     "ROA": 0.11598,
     "PEG": null,
-    "EV_EBITDA": 14.727,
+    "EV_EBITDA": 14.725,
     "BuybackYield": null,
-    "PriceToFCF": 14.068463084155054
+    "PriceToFCF": 13.53295094255505
   },
   "technical_indicators": {
-    "RSI_14": 33.92083382886676,
-    "Momentum_10": -2.429329888507089,
-    "MACD": -2.5867131612582455,
-    "BB_Percent": 0.109325441368609,
+    "RSI_14": 27.95237217706122,
+    "Momentum_10": -6.452837292349502,
+    "MACD": -2.90551595690161,
+    "BB_Percent": -0.0281034687469083,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.6623648054200124,
+    "ValueScore": 0.619838324526365,
     "QualityScore": 0.4637891310711693,
-    "SignalScore": 0.6942762903087478
+    "SignalScore": 0.721951029994125
   },
-  "volatility": 0.0148652025707431,
+  "volatility": 0.0150316668229328,
   "beta": 0.533,
-  "return_6m": -0.2225585670172873,
+  "return_6m": -0.2391193956193255,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 19,
-    "target_mean_price": 149.69
+    "target_mean_price": 148.90053
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 167.4
-      },
-      {
-        "date": "2024-12-10",
-        "price": 167.66
-      },
-      {
-        "date": "2024-12-11",
-        "price": 164.66
-      },
-      {
-        "date": "2024-12-12",
-        "price": 164.65
-      },
-      {
-        "date": "2024-12-13",
-        "price": 164.9
-      },
       {
         "date": "2024-12-16",
         "price": 164.41
@@ -537,37 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 127.69
+      },
+      {
+        "date": "2025-06-09",
+        "price": 127.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 126.89
+      },
+      {
+        "date": "2025-06-11",
+        "price": 126.26
+      },
+      {
+        "date": "2025-06-12",
+        "price": 127.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 123.07
       }
     ],
     "current_price_data": {
-      "price": 127.69,
-      "change": 0.38,
-      "percent_change": 0.3
+      "price": 123.07,
+      "change": -4.21,
+      "percent_change": -3.31
     }
   },
   "news_sentiment": {
-    "summary": "Le récent flux d'actualités autour de The Clorox Company (NYSE: CLX) met en lumière une dynamique contrastée. Alors que des investisseurs comme GAMMA Investing LLC et Wealth Enhancement Advisory Services LLC ont accru leurs participations, d'autres entités comme Vest Financial LLC et Confluence Investment Management LLC ont réduit les leurs. Malgré des résultats trimestriels mitigés et une pression sur le cours suite à un plus bas sur 52 semaines, des analystes soulignent un potentiel de croissance pour des actifs à rendement élevé à long terme. La valorisation de l'entreprise semble s'améliorer, mais des incertitudes subsistent quant à la nécessité d'une croissance soutenue et de taux d'intérêt plus bas pour justifier un investissement.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
+    "summary": "La récente actualité autour de The Clorox Company (CLX) présente des tendances contrastées. Malgré des investisseurs tels que Wedge Capital Management L L P NC et Sivia Capital Partners LLC augmentant leurs positions, des signaux négatifs émergent avec des ventes de parts par Tobam et Northeast Investment Management. La baisse de 12% du cours en 6 mois suscite des questions sur un éventuel rebond, tandis que la faiblesse des résultats du premier trimestre est soulignée par Clorox. Les investisseurs se montrent divisés sur l'opportunité d'investir dans cette entreprise, avec des achats et des ventes de parts par différentes entités.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "The Clorox Company (NYSE:CLX) Shares Bought by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGZzMTNMNmpOUklJdXM1QVVRQTZ2LW1lM0tISzVhZEtMenBUM0VNWW1XTGxIdlZHN2JxTVduamQ3cUNNZG1STTE5TEo4ckxDUFhORW54c203V01ZdDBidWJ5MlphS3dweTZSY1MyODdmNkVBQm9tVHM2dmFVS1Q1YXBybE1mQkhwcWVlOTFsTHNEM1ZsaURLazIwZFNDMXcySWpFNDZnY3BOenFwZnBubktLcEFJNi10N1FqSnlxdm5teHJP?oc=5",
-        "label": "NEUTRAL"
+        "title": "Wedge Capital Management L L P NC Increases Stock Position in The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWU5RUp2NEpaODE3aE9VbFliZ1R3aWpwWklBZXJRaE1aMEZJVUhrZ2RwRHpWMHhwV3djU0I5blZjc3VxNF82QnAySF9JQk9lQTQ2Q1cwWGtTWjFNYjZCSVZXOU02S1hCek16VVBtVEhaRWdMLV82WXhDUTRfMmdoY1k4SW90VFpFSEFUSERPVzYzWXdleko4QWRNZE9Xa1o1ejNfZ0hYaUVjNHM3STdoMzdvajJiVmZqVTBENFhaSlYyUXMzOVZhUHJpeVozLV9sdDNQY2pwX1FpVnc?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "1 High-Yield Dividend Stock Near a 52-Week Low to Buy in June for Passive Income - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzMlZQSDB0X2FtQkJVcGlEbk9mUVNKQjVWRGs1a2pYT29oTnNSdXFweUU1Q1lFMzctaVA4RmtFT2NDSDZHQmpIbXJkTEZER0Y3aUdPbkJsenFRc1pMQVB6M0htWExzTXp4RHYyV1NPc0FqV1Z4Wl9BQW9Xa01ZQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Clorox: Lackluster Earnings But Improving Valuation Picture (Rating Upgrade) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3gta3JyU2FXb2FPZDNRSTZRTXUxZlplaEVGYVlocXFJQUhVS2k2bjhtWDFWTjhOTDRRdno0LUlQVzJWU0h5bXY4TFZDUG5sVUozNnNOQW96TzNYRjg3OE1oYnhyUDNqa0NEaVRENE9MUWdiZWpqX2JTYUFvei14RURoMGVhb3dlaHVmaGtxYklpZDhLRW9OdE9BenlFQ1J1RkV4MS1XRXJDRjFhanoxcXdlMDk?oc=5",
+        "title": "The Clorox Company (CLX): Among the Best High-Yield Dividend Stocks for 2025 and Beyond - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeExGd0Z5SGFVb3dnY1Z4SG9IRl9yN3BoMzVWakVPYVNoYVBEZmF2cnBZY29saHFuY3BxMzhVR1lLS2tWd2gyM0dvb0FVeFlPMXRiandLSGxpT2hydF9Cb2FFLWJvSnZJSGFVY0c5TFU2VmtRUU9YV3g4Z0tfUFF6cw?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -576,8 +571,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Clorox Company (NYSE:CLX) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcW1pMk4zdmtQcG1SckxISklaazJic2g5UnhDWkFuQ01JTm5hbThkbUZRQ0JTM0s2MDZJbTVIT0xVQXFDaDJLdk9qU21HRzF5ZnNnQkthYWNyeVdIYWhZMVhuTkwzdFdabXJCTENhYjVMUkZOZTlTVllJbWJPZzZ6S3lVZFB1WWhJOHdIR0NmSUNQNDNjQjM2YkJRNzRxMnhoaW5hczFOcUVzcW0wWmc?oc=5",
+        "title": "(CLX) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1FmajFqR0g3MVN5ZlQxbl9abG9fUXNxU2V0R2xXaEVTekVYSXdyQjJobm9rU0hxMVpCQUdPY0JrVy1Ld0twelBubUZETkItS3U4TzNkOUh6MTJnRUQyVDQwd0o5dnBfMTdEa1FyQzBZczVmbzMzM2EtSVBTclZOeUhJQjZzeF9mRUYzM2Zjd1NuMnJqbmg0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Dividends Aristocrats at 52-Week Lows. Time to Back Up the Truck? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGJ6NURubmR6aENwLXNXVHlmLUxxSGR6c1gzZGRnZU1wNWRtRWdyVmFVck44RGZDUHFodkRZSWxLaDFxOVhMb1FwOHNuMkpSdFh5a1BFVUhKWXJkWHRpY2JaRWJORm8yRlVpRHI4Ti1pR3FBbkE3UnZMVWNGR2tNbWc2bTBSR3lJTExlRjJKTVNqX1JsZ0w1MHBnTDI1ZndEeWxwSWpGaDRrTVRVS0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tobam Sells 4,022 Shares of The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTJNM2I3UW9LQWhKd2JuWjlEQVdDTmc2cUVXN1lHTU5TbXcyeTRLa2tfalR5UUR0YzNNX2p2eEhmNDV2UDFTQmVvd3NXMEQtS2VWM2pFeTVueTFrYzU1QVdFVHdsQmJpTmtYWGllZm9ocEVub19XeVVpV3J0ZHdheUNfWVhtbE1PSmRtd3VIamVNNGdUTUI4eFZpWmpqQ3NQR2hXWUxZSzVDYUc3dFhJLXB1REc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How You Should Play Clorox Stock After a 12% Drop in 6 Months - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yaENQandLLUx2S3dpYmsta1VFeHN0b3g2TWpQS0VEcWN0d3l3ZllQaThZQm5CdDMtZ3R1OWNVMFpRREcxdC1hZ3czWEttcGlsa21YSXJfY3BXalY1WEtmYU90a2NVQXBNdDJSSjdhRFhrbjFUdi1SWkpSV1I?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Popular Miller Lite Infused Charcoal Comes to Stores: Where to Find Kingsford's Sold-Out Beercoal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTlHWDN4b3otaWxINk5KN1BVTTE3YjBaeXQ3QVdsZy1DbE9uc2NGSU9HVlFyeU1jbW45UFN3Q3FIaW4xbFlCOEpUV2E4U2JkQUZHN0xOQ2EyVDloS3JzenliVy03UzhPY2tKZ2tSa2JtcllPTC02YnpSczBHMklYMjRCS1kyY1FsR0ZwQm9wSE44NWtRMldMWENFb21pNEVDTGY0Z3NybkI0MFVlRFY4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sivia Capital Partners LLC Invests $299,000 in The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM1RRdnFsNUlJRVNWa1FsQVU3cnpWdWpQRVlJTWppWXk5dV9fZlZ4THJjUGtlc0RNdDhqWlFPU2VwRmRoQmZhYTBHTHpybXQ2WkE0b3BTckNCeEhwcnh6WXMwTjV2YlF6bWxFMWgxSnNzaW5GR2o4aGVsWlg5RlJhamo3N1FmOTVqMjA4REp1dmVsV2RsVldRM1Y4YUdBbkR1aG1UM3d2UVRxYmxXRTd0VWI4RTJjTVNycXRxRDZWZmpma18yMk5lMjlHS3VWcElQakc1Xw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,14 +606,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Clorox Needs Growth And Lower Interest Rates To Be A Buy - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2NsQ3NGUkEzbThYanBfbS1TWFBCdkd5ek15XzBickU2c012YUJHcnRlbkJqZ3VRMHRTanRjQlBtck5PWFRxaG02WVBWaFoyTkNuNGZhU1MzOG5FVlRia1FKUzBlWVM2dTdhOE11M0Y3MzF5WU1LbWpKQ011b0VOTjRIT0FkMFBSN0FlNGxVVEJoMXNmRXdlZk5jNGtoZw?oc=5",
-        "label": "POSITIVE"
+        "title": "The Clorox Company (NYSE:CLX) Shares Sold by Northeast Investment Management - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTC1pSHJRdlNmUkpQdGhlbmUwODE2dUhmU0ZpTUtIUmFmd0lwUXNpREJRZVlXM1N4LTZ5NGJZOWNXLXM0TVktelVWUDdiek8zZ09CMmNxV3N3SlFhZkJFRWd4blplaGxSTHRDWnZEUE05T0VKZF9kSm9NT1plZ19wNC1tLWJ6QkJIUUozWV9qbG9CZjNrWmNlUEVfN3ZQSmtvSTBOb0NIZVpUb29TWTNkby1kWHB6UjlLamNHckc4MUF6LWtqS3hKLVpoQm81Z00?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Vest Financial LLC Lowers Holdings in The Clorox Company (NYSE:CLX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnJkU2JhTFYwbkxwOUY2cXdieVY2cDg1RjZ5UElvNHVmZ1RTX3J2UDVLcjJQcWw3cVBHWkplMjdnbFlFV3laelZ2T1U0Y2hfRFJnc0ZEal8xMHZBdEt0YjhZWG9sdENGX0ktZ08xNkdNRFRyUXk1WHFJQUVuZzhGTV9UUmVTcDNqTUVZMnJWc2RXWk94aFVONUF5c1dValNEV2lVNVc1Ty1IRjV4VlFOdXV4RmRTQW9EOFNqYmwxaXlyVDg?oc=5",
+        "title": "CLX Q1 Earnings Call: Clorox Cites Category Weakness, Maintains Full-Year Margin Guidance - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91dVNNbGloNWdMNG1oS3AxXzkxekFuWHAyNXNBOFBTVGZhSmtOc1hkLTIzWkF4blAyV0x2WU4yMzJicFlhVjdXeXdwd18wcm5KRnZ2UWViU3d0NnBITVRXSFpQOFFmQTBxRDM1ZkdHdm1HaG1RdVR6NGcxT1lPZw?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "NBC Securities Inc. Purchases 2,477 Shares of The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmdlYXRBWDRXN2huVXYwNzFGUzNGQU5YVDBodnlHY19LMndRNFhIbmszR2VrTzA1MC1vODYyRm9CRUlWUmQxUDNUcm1pRnprNDFDeW1kLXlSS0JwZGtXWVVDa09UWEd5cnlMdndBS01wbWZ5ajQ1Y1ZocG02RXlrNDV1MGpldThDSmtRZ3RYZkpGTVBsVENhbDhWSHNaaEIyOTJHenNRNVZwZmN6dzVJX2lvdlVNRmh6Nzc5VHR1NnNCYktNTUJQSGdSR3JzNTQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Clorox (CLX) Down 3.7% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
@@ -601,61 +626,36 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "SA analyst upgrades: COST, CRM, CRWD, SPOT, CLX (COST:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTgwV2ZjWTRWZDlmWDN6Q0dsSHcyekl4YWdfZVh6RXB4TnA5cTRYaFNtay1FVEdVV3RjeUNCZE9JUW5YcnlDdmNMWDY2NVd1NkNTUExsZ0RLZEQwYUNMRlNQRUxfODlNSWlkakhFci05b1JGMkI4VFA2N1dobGNqS1pPRm9UZ2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Clorox Company (NYSE:CLX) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXRXT2MyNjZmdnNjVnVsT01iMVBjOGVhb0JqLW1xOHNwUloyUTlaelZVNlY3c3AxNmozVmxWMjVISjM1c1hRZWY1Rzd1Mm5udWhtLXBnekpIUTdUOFoxcFgxOXU3MXN6dEJrZHZpWGkzRUhMN25xODk0cDN3QlBNVGplSHB1Vm9kSkUxbG1JMzk1NUs5OEc1eEtWRVlib3VSM0RUaFpaWEVaWjFjSGFBWkRqTjFlYi03T0lpYVY3WEZDV3IxQ3E2ZFFPY2dNUDA2ajdXTlU0UURjVG5q?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Clorox Company (CLX): Among the Best High-Yield Dividend Stocks for 2025 and Beyond - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeExGd0Z5SGFVb3dnY1Z4SG9IRl9yN3BoMzVWakVPYVNoYVBEZmF2cnBZY29saHFuY3BxMzhVR1lLS2tWd2gyM0dvb0FVeFlPMXRiandLSGxpT2hydF9Cb2FFLWJvSnZJSGFVY0c5TFU2VmtRUU9YV3g4Z0tfUFF6cw?oc=5",
+        "title": "Merit Financial Group LLC Increases Stock Holdings in The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcU5rdHZJWUhxY3d1alh5d0p1b2w0MHozY25uYVdkcTd6aTR1c1VzbEtLQUdlQnc1NnhaSUR4Nm0xbUk0RjY5N3NHcDZ4NlNzQ3QxMi1XZFV5VXA3NXlvYWxERXp1dDdwTGFoMWVVOExaZ2Zjei1GWng0bnNLbjJLWWJ0dU85NDl5dnZ5bjJWcWgxMTlOcmZzenI4MzlXQkhhVmNjaDlyTGhwOHN2RVczbW1PakNnV25WUUtlUG90RnRhZXVnNVZjNWc4aEFibldYMHF3dQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "The Clorox Company (NYSE:CLX) Shares Bought by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTByeE5EZElRNF9jU2JPRUQ5U2p4Y19mbmRzRHZVSU9FaUlhbXF2OWtrbEUwTDdiT3BuRUtCby1DamY5S1N5RlE5aFlJWjllcExFQ2tPTGtvbGlJallJRk9NTHhnWENreXpmcUN1NnFuX0k2TTlrQkxkYmFEMTZsVlZMblhqb1Z3VUdPeE5HalpJTmItZFVqYmFuTUdTY0VZMzFPRG1BaXJlWGhtbjNxd182d05ybG1JV3BWcUdDbFNrNFg5amw1bTJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Boosts Stock Position in The Clorox Company (NYSE:CLX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUVFaS00RmVxR3h0eUJSSGF6cTVWR0x0bklERVE3cFhFdXJiNVRMWXgyRGxvZjU4R3lIV1NTSEFnWnlEeWtwUjFrdUV1cXFQSmsyOS1vYm1sYktlaEtYX0JwUUlDam1WcDdXSmxkUUdDUG1JTXRXdkNfdHU5OGJDdGVQbVdWclE3V05fVFhHSGNGa0c3dDVxUXNFYVpRbFBfdlhFWTNxekh2bHJBRENQR1Bma29WanQ1WGVQc0lDLWo4VVQ5bjRLbC02NA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Mackenzie Financial Corp Buys 3,148 Shares of The Clorox Company (NYSE:CLX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMEpTR194SDFrczh5UmlpNS1kdm1CYTZLdmVVZk5pNWdNZDZYZXZEM2dLU09aSlRMbXRFLTRjQ2pfMzNUVzJnQTVwNFZYWDR4dEhjWE82LWR6aUljVzd4NGh4Qy1nZnF2RjJFVVdFWmc3T2pHaU5vdHBFX2ltcGc1TXhnTFpOT0dWVVlIOXlZZ2tUMW9pRVNSd0NvS1Y4ajhNNVRMRHlvNkFtYXgzRk5CZGdObml0dlZwLVdDVS16N3RIUl9ubjl4am5hN1RLSDludjJnc2JvbDlhWGpSQWU4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Clorox Company (NYSE:CLX) Shares Sold by Confluence Investment Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV1pXdDN5T0o3TWJhc3BDcjFQUnM0WG9Cdk5qWVp1VWt6Q29BSEpPaVBJcFNUVGNHOTk2ZHJKWFA4aGxWVjNXOE94WWd4dE8xb3VJTllBLVZQclozWEJSakk5N2RuV2kxTFdIc2l6ZDRTTG1tdmc5dDRqUlN0QlE1a2d3ZUg2UU9ZOUt6WTFSSF93dkRjRTVoREtiYXgzeTB6YlZRYzh0MzE5Wk02M3h5ZHVRenFqeXFGazJSUEVfVFdqMnFKS29fWDFNTExGbGJrZWlCeUNDNjAzQWlNVGNQYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brokerages Set The Clorox Company (NYSE:CLX) PT at $151.23 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmtOWmE4SWU1ZnN6ai1EM2lzVTk0MHA5eHJhODBGREVHc1U3X0Y5dlVlSF82bjZfNk43a3Myb0VYa1dfX0FxZ3VkY3dQdlQ2VTdSa0RNTmNSdnItQ2dsX1NnbzBzX3RVZlk5Y2Q1c2RyTEJYRHBvNURBeDd5Vk45QUFFb2NFRXdkY0xyOWY0RURGRUZfN1Y0LWRZMUJwakdwbHZSRzN4Y2M1aGNqQ3ZtOHJCR0JFZjN1REZXMV9FN0RyN0VOeHZmYXd3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Clorox (NYSE:CLX) Reaches New 12-Month Low - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVm44VU84WEVrN0FVQWxNMG1oencwTnVYSzVLQ3ZJTFJ1Z0dYRFozMU1oLTVjVENRNFNBYk9scEkzR0t6N0NDVnF5S2Q5YmlGRWlRM1NQVi1na0NzLXRpYUNOdVp6WlB3WlNIZVNMcVRzMlpSemlqUUQwaUtIZTBYQUpyYUUyVVpKODlfcEhrUVBtZExCUGZlaVVfV2JmS01jNWRvOEY3MElEMHJSU1E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Milestone Asset Management LLC Acquires New Position in The Clorox Company (NYSE:CLX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUWlDZnFlOU42a3UxMW9XVGhxRUYtX0ZYcENkMmpsSTlDT0lVNXNZNElTQlV3cE1WR0lwLXp2S1dDZGNhS1REcFBKeDUtTFJELWphcHVwUWx1R0VNSHM3NGQtMmdhOFFZOC1hV0hCeW1ZLUlPVC12OUdIQzFhVmhCNnBMN2hQOURwNzFteHFBLVJyNVpOeExBZnpSdzFQTUwxeVFlZThQbFN5MEFSNlVpTXFCSG1zMTd5dzdrSFRpVnF5cEJVc19fRk9mQlpqSk1pRHBwd2dpMkVyZm9s?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "The Clorox Company (NYSE:CLX) Shares Purchased by Man Group plc - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemtJNWxIcFZqUklVc2ZtamVJdEY2SlF0RW5iUWV2Q1IxNXVXcVJEYVR2ZldqSmJPQzlkNmN2ZHgtQk1ELVBUWGdwVjFsWnZvU1lCcEFWdFVZR0U2UHdnZTFScHNhMFB4LWRiSnp0Sm5zR1E2QlA2X1JaaHNnTk5tOTg2TERRYjNnc3RHRHVnQXN0WEpUX21QbmoyT25tUlZHS2RTOVJncGhLV3Z3NG85Tkh3eWU1LVN3RUxmaUhR?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Clorox (NYSE:CLX) Hits New 12-Month Low - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3kxSVgtNVNpUUc3TGpMX2h2SXhsYWJYb0pBYWlZbVlwOEhfRVpndDc4b2xmd29Ja0txRXJ3U0hwUVlBbUR0OExHT3JOeUxJU2JHTVgyQXUyVVJxaS1hbnVISEw2V21FNm90LVc2NkFCbUlYWHAyNE9ONWxPWDJiUjBUMGpMQWp4WVdSZmxqZEZmUlFZQ0dMMExQb0wtTGFBOE9R?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Clorox Company (NYSE:CLX) Shares Sold by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSERTR25jMHQwOS0yTzFQLVp3MFNkSlhFN1lTTk13QndMVXl3UUZVZzd5aEFpTlJBSHBNbUw4SVBMdzhPSE5fb0Q0VkxuZG14YS1yRVhZTTUxTHlxY2taYm9qU294emRyQjJfVXN6aW5XQlpaRlZIRTR1ZE02am95M3FkY2hoUEtnc2cyZGJvUDRnREtmbmt3VTFpYkZxR2UzelR6UEFrdFFOVTF5S0ZqbFJyMGhwMGN1Q0hVQ2U4ZkJsMzM4R1NRNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toth Financial Advisory Corp Purchases 3,564 Shares of The Clorox Company (NYSE:CLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTkxYZXlscTIzQXpKTWhjSzhZc1M0bHVYWVZpb2kyY0xxOWpwd0RiNWc5UkF5cjFOWUNZajFKaVBMNk14czBRLTROcklqcjU0MHZUWVpSTlZ3b2hvenF4cjdUdmZKcTlhQ0xMX1c0eTdzdWp2MFRnNzlzZ09Vd2RRd1phSF9XNmVadzFJMDJaMnhYN3BRNEhLU0E5UzdJTTF5MENLakdYbnJkdVlOSjJIeHRQSDJXTVVLZ0tjQm9US3o0Vy10ZFpxVW1OZTdfdlFYRE0tUTFJenc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Clorox Company (NYSE:CLX) Shares Sold by Vest Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnJkU2JhTFYwbkxwOUY2cXdieVY2cDg1RjZ5UElvNHVmZ1RTX3J2UDVLcjJQcWw3cVBHWkplMjdnbFlFV3laelZ2T1U0Y2hfRFJnc0ZEal8xMHZBdEt0YjhZWG9sdENGX0ktZ08xNkdNRFRyUXk1WHFJQUVuZzhGTV9UUmVTcDNqTUVZMnJWc2RXWk94aFVONUF5c1dValNEV2lVNVc1Ty1IRjV4VlFOdXV4RmRTQW9EOFNqYmwxaXlyVDg?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

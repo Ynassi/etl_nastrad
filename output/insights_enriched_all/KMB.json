@@ -2,16 +2,16 @@
   "ticker": "KMB",
   "name": "Kimberly-Clark",
   "sector": "Consumer Staples",
-  "market_cap": 44426842112.0,
+  "market_cap": 43627167744.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.241144,
-    "PB": 40.35262,
-    "EV_Revenue": 2.763,
+    "PE": 17.912806,
+    "PB": 39.626278,
+    "EV_Revenue": 2.596,
     "ROE": 2.0706,
     "ProfitMargin": 0.12482,
     "GrossMargin": 0.36451998,
-    "DividendYield": 3.5,
+    "DividendYield": 3.76,
     "DebtEquity": 595.098,
     "CurrentRatio": 0.763,
     "QuickRatio": 0.396,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10388500918691213,
     "ROA": 0.115430005,
     "PEG": null,
-    "EV_EBITDA": 14.138,
+    "EV_EBITDA": 13.283,
     "BuybackYield": null,
-    "PriceToFCF": 21.64476276989728
+    "PriceToFCF": 21.161178713676794
   },
   "technical_indicators": {
-    "RSI_14": 38.79253476141472,
-    "Momentum_10": -4.2576006785275045,
-    "MACD": 0.3868301099787743,
-    "BB_Percent": 0.1257814703619925,
+    "RSI_14": 37.64776073671926,
+    "Momentum_10": -7.67175688653908,
+    "MACD": -0.8877403390291079,
+    "BB_Percent": 0.0764030786120579,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.915179287933588,
-    "QualityScore": 0.4562593017993254,
-    "SignalScore": 0.6847429107172862
+    "ValueScore": 0.8715521432620866,
+    "QualityScore": 0.4529895273101351,
+    "SignalScore": 0.682345568004668
   },
-  "volatility": 0.0131269120479249,
-  "beta": 0.372,
-  "return_6m": 0.0026363351011358,
+  "volatility": 0.0130646889122309,
+  "beta": 0.398,
+  "return_6m": 0.0194963447237612,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 19,
-    "target_mean_price": 142.95947
+    "analyst_count": 18,
+    "target_mean_price": 142.40167
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 132.95
-      },
-      {
-        "date": "2024-12-10",
-        "price": 133.07
-      },
-      {
-        "date": "2024-12-11",
-        "price": 130.61
-      },
-      {
-        "date": "2024-12-12",
-        "price": 130.89
-      },
-      {
-        "date": "2024-12-13",
-        "price": 131.34
-      },
       {
         "date": "2024-12-16",
         "price": 131.36
@@ -537,57 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 133.55
+      },
+      {
+        "date": "2025-06-09",
+        "price": 132.69
+      },
+      {
+        "date": "2025-06-10",
+        "price": 133.04
+      },
+      {
+        "date": "2025-06-11",
+        "price": 132.85
+      },
+      {
+        "date": "2025-06-12",
+        "price": 133.89
+      },
+      {
+        "date": "2025-06-13",
+        "price": 130.84
       }
     ],
     "current_price_data": {
-      "price": 133.55,
-      "change": -1.75,
-      "percent_change": -1.29
+      "price": 130.84,
+      "change": -3.05,
+      "percent_change": -2.28
     }
   },
   "news_sentiment": {
-    "summary": "Kimberly-Clark a récemment opéré une transition stratégique majeure en passant du NYSE au Nasdaq, marquant ainsi une nouvelle ère pour la société. Cette décision a été accompagnée de plusieurs alliances et accords avec Suzano, renforçant sa présence sur le marché. L'acquisition de 51% des opérations internationales de Kleenex par Suzano pour 3,4 milliards de dollars témoigne d'un recentrage sur le segment des soins personnels à marge élevée. Ces développements pourraient potentiellement améliorer l'attrait institutionnel de Kimberly-Clark et impacter positivement son positionnement dans le secteur des biens de consommation.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "summary": "Kimberly-Clark a récemment effectué une transition stratégique vers le Nasdaq, mettant fin à une histoire de plus de 100 ans à la NYSE. Malgré des éloges de Jim Cramer pour l'accord avec Suzano, la performance boursière de KMB a été mitigée, avec une hausse de 10% sur 3 mois mais une baisse de 8% sur 3 mois. L'entreprise a revu à la baisse ses perspectives de bénéfices pour 2025 après une chute des ventes de 6% au T1, soulevant des interrogations sur l'attrait de l'action pour les investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Jim Cramer Praises Kimberly-Clark’s (KMB) Deal with Suzano - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPdTJlN3I0R2JySDNmdm1jak9UcjJaSmxBVzRDekxHZGc1MHdaSm5mWXVIR2ZiNmlpalFOM0hoSlBCS1U1elBwcndpUnZKOTJwS2w1cld2Z0hGaW9IY3NkZElSRFJvQkExbHdEa3VtZ1M4THExLXYyZktoR3N2MHRKLVJTTHlZWmtScVZRaFZVRzRWWmlvOXI5NGZyRzJYVV8xc0NNNnZSaFNoZlFJa0hZckVtOTU0NlVGS2g2ZzgyLUluN1BBYXc4Z1BBc0ktaWNMVmFvZHp0MmRWamJpMzNNWjRlc3dQWHFYLUY3OUJzbTNTTjRDOHdqWUJJam5xallINEllSUp0Um54cjd4aFdpai1yZ0ZPcjR2ajFNcFJmeHR0MFlaVVdNdDJVdVNuMWMzcGdTa25uUmJ3VzNLT1E?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Kimberly-Clark Makes Strategic Switch to Nasdaq, Ends 100+ Year NYSE Legacy - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0dfN25LLWJMTS03RW9TR25FRzFSMzBBSGF5TDBrOHNPZXVRVnVvbzlvVU1MeGFNSUhReFJiV3k5SnJPX3NJZVZzdmRfZ2R1S1Fvdnprd0FlakZGWkl1RlZFVFR2SFV2UlZJTlRkc3RNaFViVUdhdllTb18yRG9ldDMwRkZNRTBDOG56RHJYcFRDdlFuRE90bnlJUDdxUWZyeGNmMTlYZnV4eUs2VDhJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ADRNY or KMB: Which Is the Better Value Stock Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NV0t3QzJkbG9sS2N3NWZqcmZIYnVXdTY0Y216NU8yMGZkdjd2QmFXSmQ2UVZKT2RmaTRFNWxmUU5zVUFFYzdoZm50ajAzOEJ4YkZwc2h1VVhHaGVONE9tRF9UbW45RjI5Mm5LdUZ2WVRZWE9HR0JnZVl0aFhsTjQ?oc=5",
+        "title": "Jim Cramer Praises Kimberly-Clark’s (KMB) Deal with Suzano - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelVGWFNBOV96Y040Qld2OFNwY2VDNkYtZ3J3dGVnN21Kck52S1REWnkwMlZTcWJuZ2RWcmZzWEFmZUFmOWFGWURBMmRVbXVKNGNVWlJZVEtIVHRzWUs4MldhY1BsUE9DUmZ1YjNFVHpINTZ6TlNhZWs5WXBid3NDdUllaHNXUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "4 stocks to watch on Thursday: AVGO, LULU, KMB and PG (PG:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3JYRzZYQ0VlZVJpMHFlY2tOZzdxV3lCYTFEVlpMdVBoZFhHM0RvRENUQVZjUEswc3VTMUhRVFNhQjA1T19vcnN6YjdiS2owZGoydzY5azVITTNKczg5TEd4WFVmbnpnUWJ2bHd1UXVEVUpQTzE4TGdLc1F2TGJYZk1TNFduNU9yc0s4Z0ZWcklQZw?oc=5",
+        "title": "KMB August 1st Options Begin Trading - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tcFUzcGd0T0lSZS0tNk8xbmRCTkgxZ3hfR3NDb2swclh2X0pzUWJ5SWt1SV9HRFdMbTJhb0QwT0RaV1ZYLWhyU1ZUb2dDTzkwV2U3cUsxb0VFQTBwbW5KRkZ2RTFZRndnSHZoeWRsTmlIVVlUSG9r?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Kimberly-Clark (KMB) Forms Strategic Alliance with Suzano | KMB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVm4tbk80eXFzS3h5M09fODFEbjViTEdrb3hZb1JaX21JZ0dWU1ZadGlBcXR1VDk5aGhRR2JPaEZMcmkwcV9WS3pjdi11a3NRdE1QeTNJb1hETTB2bVg2WkQzaU5kZFZVZVZSa25xOVBtWV9ES29Oc211V1hZVE5Lc3Y4LXEwWnJwcVhpZ3ZQUTJLRGJudi1rNEZCNkhGUjNfSk5xT0JrZ29CM21T?oc=5",
+        "title": "How Is Kimberly-Clark's Stock Performance Compared to Other Consumer Defensive Stocks? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPclV4ek81LWF4aVhTNGlRd3NOQ2hMclg3bmtMSS10ckYtbVFqUWxVRG9fSlpndV8wMXJlMVdqYjFEMHBNTVk3WWduUktmTUxxaVdjYjRrSWtQbldJdjhpOE9TbTNVZldBNEdsQlBzM0dFVWJHWmgwSWR3SnFweG13eUtrZ0s5Y3drcWs2UVdkN3RDRWhsMFFxd0JyMjRTYzI4dmtKMVRfVUJBQTZ5bmRnZ2xhNFhTWnVmUzMxTU9naTA2LWc1SWd1V1lqWnUtTXZ1SUF0dldhODFoSWVQbm9JenJ2eklrbXEtWThocnhLUG5vd3RMOTVfTkNJUXRUbVZ0X0E?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "RFG Advisory LLC Boosts Stock Position in Kimberly-Clark Co. (NYSE:KMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjMwWEt0YUFMWWZ3S25yTjQ3R3VBNFJqczZleFRsaG9pcEFFTjlITGNNajA4a01ORjY1VUxBV0M5R3F4TjE4b0JPNjF6YnQySEl1OWxRNXB0WDVLcXdpb21waXhXVGdvMFdQdmVQYTRPQ1lkRUV2RHZJaDdablF1U3hsbWRPZTczVzlCM3hNVHMyaTBNbXR3SFU5UFVrM1Y5bGJMNkNEYzFROFgxak4wVjdPYXkxdFdsQnRRZ0pZWFBmVzN3cE44?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Kimberly-Clark (NasdaqGS:KMB) Joins NASDAQ Composite Index Boosting Institutional Appeal - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGN1VFlOY3FyRnlmQkM0bThYTW1HRlExWHBYQXBuSGlBaGdQMmRpYVY4dlRXLVBoSHQ2MC01NHZ0S2hlWm03LXljV2c3SWRoclZVTUhZNHBjb2cwaUlYZG96Y2Vta0dQRE1SejBSWE9uNzhlNkJfNXRlbjBLUWpvTVVSRGxlUlVNdS1zaHB2d0NLQmZfSmhKc25CU0RaMVZjd0x4Sy1MbFB0Q2diUm5jaWdTMDdtRFp5aXVfUGx0cm1HWWNRZHdDQjd4TjJuQdIB0wFBVV95cUxNNGpGZklna1F5R1dNYURRU25XblQyT2U4czBnV2pOM0g5b0RiS2Z0bS1XZFhCNnlvajFKcGNyNXNKSjc0Ml9aTHpqNXBudGY0NnBZbzlrbnVHU2FhZktqNTVfOW1xSmpFOWlyQUQxaVNUYjA3VEVjNUVDLU4ycEFPaXR3MG9QQ0sxN1ptSUNJdzgyR0Y0bnhDSzFPREpvZHB0bzRCdXhfRWowUjdFdm9zZHRaQ1Z5YjRua3RQYXVoQ1Vqa1NUUVJoNWZvTm90VHJqMVdN?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Household Products Stocks Q1 Results: Benchmarking Kimberly-Clark (NASDAQ:KMB) - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjdSRzlxR0kxTWp0aEx1MldrUTdFbTFCTkxwemE0RGF5THliWEVpRkpMdWF3bGNCVTZqbXU2MnZ2a2p0Y1hTVTJvTzI3NjJQWUpiOHBIc0tsc1dHTHBQNHZIS2w3VXZwT3MxWWtjb0tpQVNMSFdxeXdFSldTdlF5VVd2cDVORDhMMmFZSUY1R1dLVHhmTGVmUzVZU0JOdmdJWVVBYmZzWUU4WWE5RmR1RjBjcVRZMnpsN3ZjRDhBVFJIVXNYa0xwMA?oc=5",
+        "title": "(KMB) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1A3cFZ4bk8wam10RGZVVFBVOEhPSmVPMXlqSERMeXA2ejMzWDVLQzBnZWxzNjF2NURITllXNzhBVWRtZzEzOUc1S2N5eUp4bllFSXFURFBHcFNJVjB4bVdKLTkzTnBHeWduRTk5R2k3b1RPREdoUkREZEJWVU5UQTdPZlpsMzJqZ1NWYmpaNl83T1dmMEVrU2VwVmNkOVEwcGJIUjlhRkFkLWJmZUl0bXJxUnBscEE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,14 +591,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Kimberly-Clark Forms Joint Venture with Suzano - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmszZDhrTUZGU3FvLXJubzM3cDZRZmVSN0MxRmdnV3VYWWpRTDBHbFU2cHNwdURvXzdlTHY5X2NRYW4wTnZVUkl3cjAzM1lzSXRaN3otVjBuNDF6S2hhVGxJdDE3ekFpZXhlVHppbFN5SFk3b2hRenhKNUNCMW1OSG1hbEdBVGJWODJsbFZfUGZXWlUteENxS0tyeDMzZWM?oc=5",
+        "title": "KMB Stock Gains 10% in 3 Months: Should You Buy Now or Hold Steady? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWtwV1VqTXJxaXZ3UXlWbldEbjVIVGV2b21xUHAyMGNKeTloalBCdEVid1hzbnJ1cWtwSzZEN20xbnFOYWo4QzdKdDkyaTBSMjNIczh3SnpHZ2NEUXU2MWpfaEM1M3doNlhScUhWdnM3SDgwN2Q3Ul9ENkVaakRvV3I2d2E2QXFnSC1vRGh6QlpjcWZiVDhqeFRtdDVLMTk4Tno2aDlfSlQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investing in Kimberly-Clark (NYSE:KMB) a year ago would have delivered you a 15% gain - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXU4S195SFRjMldoVmZBZWE5SGgtUjV6Y1JOOVFvQVYyazRINElfVm5iRFBDMlAyM2N3TlhIemxsRlRnb2EzNnBQcklqSVNZd3dUeER0YlhsWF83bktIOU5HdjFuel9PV3dDZTBzb3Z5WnFScEtDQzlMWENFVF9FbDRQdVVPRG5FSzZhSmEydHYxaWx3eDViTEtNNFg5R04yTTlfRHBrX0NSUXZ1YnRCQXlvbjdnZF92b3ZaNWZWUlM0V3dxTmdUYzdCa9IB0AFBVV95cUxPVjNFUlhFNEtySzNBcnl0YnVjUnlaUThNMWwxWUVQdjFqUXV0QW9LaE0tWVdzMXB3N09XODEzTzNiSlF6dzRzcDd4UWlHNkNGbC1KV2gtX2w0M294ZW9yOWowN0FFRlZCd1AtTEYxbG84WmVWYW9LSk04aDI3OURuOXQ5SkJUdGVJSTBYQnR0VW9KcHQ1ZjhrMW1nLXlFNG5aNEd2QndrdlFwQnJCVG02akhGWTQtaGNFdHpJVmtfVG4yamk4UDJRVnRVUmR2X2tZ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Kimberly-Clark Trying To Close In On Key Technical Benchmark - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnpXRnhnUnNiRzBsU29qZmwzZ0d4S2RHR0dqclo5N3FPUHJiWDdpRE8wY3V6ZmZtdy1ud0trQTdJbXVGdksyNDZLLVEyUFpaMUVlY3hNSFhGNlFsemhWQXBrLUZyNEJEQXpNeG9JbllwNjV3bWd4SkstVWNZVTA2YWcyeUZxRFZSTUxhUGxOQi14dW1vUkJ1MGQzVUNjWkxfeUJxOFE0VQ?oc=5",
-        "label": "POSITIVE"
+        "title": "ADRNY or KMB: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NV0t3QzJkbG9sS2N3NWZqcmZIYnVXdTY0Y216NU8yMGZkdjd2QmFXSmQ2UVZKT2RmaTRFNWxmUU5zVUFFYzdoZm50ajAzOEJ4YkZwc2h1VVhHaGVONE9tRF9UbW45RjI5Mm5LdUZ2WVRZWE9HR0JnZVl0aFhsTjQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Kimberly-Clark Stock: Is KMB Outperforming the Consumer Defensive Sector? - Nasdaq",
@@ -611,51 +611,51 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Kimberly-Clark (KMB) Up 5.8% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zeHFQS3hHdEZzSFVBcVR2ZlNkd3IwMG91TjRDUXBKX2h3X3VZdVEyYlBrZ09KcWFKeEFoazg1SW0tQ1VwemFWNW4xcmQ1WVFTM2lsS1BNc3oxSVFmbG1ROVZGVGNPWnFBYjh1c080bXp3QTRzSVRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KMB August 15th Options Begin Trading - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vZW9ESWhrSFJwLVJJZ2ZKSnhVNzhzcWx4a2I1bjBkY21vVFJ1MWN4SG1HdXhuclVHNWhKVU1XUGtlbHJMVnEtSnplTTU3SDM1cUo3bnVzYS0tY3QwSG5DNzNTeU5LQUpRMUk0YVNEYmlHa3NyYWd3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4 stocks to watch on Thursday: AVGO, LULU, KMB and PG - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMjAtUEd5YTU5eURBZFFUUFNNNG0xQlU2MFotUld5SHFYNUxkeFpqTmtWVjJncy01ZkNNV3dMbWlBcFdrRlZGNW9tb09lSUxZM0xHMW1LbEstWGZFXzU2amsxZ08tUzA1QVk4NzJ4Wnpha01LR2xnTUtGT3lLSG9ZaXU3Z3RXbmhnZ2N3UVVZVUxNTGlfckVIbVdoVHpXWFJEWndpd283RmFkRTE1LWJpQU9xSGtCam9oOWpaRzdrenI4SjdFdUpUWmdaMDdOVDJTVktjLVZPaENQUk4yQkVjX0RPLWJzR21oRl81UVpFOU1aUUxsYzd2MXdGQVExOTV3WFdseXRZZzV0Y3dSVTRnd3IzcDJvcHpDckR5bHE1NG5WakxMMDd6bVlyVnhUSWpaVmFTeTRUcThiLTFlVXVvLUNGR1dGa2QxZXVkaHJ5ZU5PNHFKaktvT0ZpWm15MDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Household Products Stocks Q1 Results: Benchmarking Kimberly-Clark (NASDAQ:KMB) - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0F2RzJyTndGa214d2dYWmpWeEN0TEVpQWhKRGVfemlxaVdqNV9sNDU5X2hRWkQ4R2ZiQW1RclhzVWltLXExVS1ycTFPUW1PWEtVQ2ZRYXhUVDlNeV9wdFpXbXlKWGR3dXlaU2JvVVJRdEI3Y3Vzb1NsNUcyZGVqd2YxZEM4Y1lFOFE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Kimberly-Clark's $3.4B Deal: Major Shift to High-Margin Personal Care as Tissue Unit Joins Suzano - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlzT2dyaDFzbTkwazBTQ1MwRVRUM3g0cW1YdXBQa0IzR0JVXzRYTWxPNWh6eWdWbkdIRUdvcEhnS29rUkE0dWZGU1NNeGN2MHNqRzB6UTE3c3pqcktpckZaMERPRlBEcXBWMVNTeFg2MHRON0xTNEZmQ0EyZ25zbk9EdG9xRXpqYm1vS0d3N0RoR1FwZ3lwZlFBTTBXQ3VpOXlIRXhlajFXczN6ZVcyZ051c3FxaHQxSUE?oc=5",
+        "title": "KMB Stock Down 8% in 3 Months: What's Next for Investors in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91OHVZWjZXaG00TzF6VmpzWGM4dkR2LUFvZlpFTDA0a2xzMWtoTFlKQ09JUFVOc1Z6REJEakZ1emhRNE8xenBrWVVtR0tMbGRnOWFaNmN3S1daSEU1OWF1bkozYTFOVFNxZ2N2Y1VzZ2JIdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Kimberly-Clark Corporation (KMB) the Best Performing Dividend Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSExCcUI0eUdUQzZwRzNYZnRIMDV1T1FfaTJqczNhMGdGdGNPSWxrc1BZSzJZYjFNcTlteE5nWW4zVjg4YkdzN0ZtN2NXWkhFSXVrWUEwNVhEcXhDM3hJUDByVVh5QTZ6Q1lHUUg3WDZVSTVwRV81ZEV0aDlfTS1FcmNOUlNUeGx0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Better Pick: CL Stock Or KMB Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTludlpKVUNZWGE1T2FlaUlnaUhXMkJJZGlucHBMQkN4aTdudHUtTjBYaERNZWZXZFZnN1M3X2NNNk1JaEZVT1Z2VWFfSFN4aldCSTFCd2h2UnE3WXdzbFNJZTQ2Sm5sQk8wSi1FSndoUEtCVjhHU254ZEU2eURzT3JoTjN4WTVPbDJER1pLOVRaSFZsSF9j?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kimberly-Clark Up 7% in a Month: Is the Stock Still a Good Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sT1hfRTR6STRHNTF2bUNtVHFzUzVvSTZrVzllajBEbXd5RFpYcUxVTDVaTkZCUzA4RXJuNjJkLUF6OUE0bGY0S1J1R1MxQWRidnlaQkJ0M1NtN01GX2lZaXlDSktiNXlEdVctNzNaOFNsVUlXQlNZZ2g2WmtSTjA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "NBC Securities Inc. Raises Stock Holdings in Kimberly-Clark Co. (NYSE:KMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2pQRDJld1JIMm55OUI4eThuZklMLVFrUGotOTg4MjQ5X3lLOVByUjBJOC00MUFMUnhGZ3NqT3VVdzhlRkV6b3Jra0lLTTllaEthS2xwS0ZDSXJncHlCM25IYTdPVk5kTU1YLXo4N04zaThqSkJPYU9CTW9zY0M2cTZuUDV2MmdteWM1MkV0cUxIU2ViWHFVVzBKNkZjNXd3MUNGcVMzWk0tdkh5cDlKaWRWUXR6Q1BKdXNsYWhnUUFMdjRfM25GTDVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kimberly-Clark (KMB) Nears Sale of Kleenex Division Outside North America | KMB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXBMQUNNOV9hTUZBRnJudHFNRVpWQmtCaHZtdlJCLUJGcTktUzFseFVNeURmYjU5OXF4NXh0cUlmQ09HcndFbFhWcHBNMFlQTTQ3X2tkUndmT3IyQy1jdkllWWpIb0hNUHFNUHdUOGlaUVVBS1RFcER1U096azJjaTN4bDZibk5zOGZyNF9rN2p2dHloMkFGRmhDRzNtR2FFd1RhcjdndWNVR2MtaEpvZmNfNnljY0VPaGoybzREUE9SZGFHV285dk5kbWlaTDlDTUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kimberly-Clark and Suzano form a new global tissue company that plays to their strengths (KMB:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdFp0Tkl6MlpUOVg3em04eFlKcFdXYXdham4xZWluTFZVRnlycHJIYVJSNW9uT3pwUTNsU3FJME1ZZnJybXZBUEMteXZJTVJIdWVRZFl0eTZldk80R0xhVXV5RGRvTDlvd1huelFRTjd0dWRpckktNXpsZ2IyU3hDXzJwNWlra1BQMFBleERNaTRaUEpqQ0M3ckYweUZQc0JoczlfYVlBcHdVdzJoVi1ZZ0IwY3g0UjZtSWE1Nm1XNzM0MjVt?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Massive $3.4B Deal: Suzano Acquires 51% of Kleenex International Operations Across 70 Countries - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSXdEMm1DNS1rQ1RtWXktaU9RX0RSZW9MNUt3RWVtaDZQWTRuTThTNmlmelJDQ2ZDdnhtcmdoY0FWVTRqSUlxaGctbWVJeGgyYmtReDUtSDY0cnZTSnJ1aWFvazVoZFJTS1c1eVdqVkp2VnZBQkpfWFFHdzM2RHl6VjVEUnp6NFZoaUV3R0dSUUttVmZjdVVWaWN0UnQxR1ZjQ1VsTlZtUXNabFY1XzZkNHR6dmFJZGlqMFJkMg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Summit Global Investments Sells 14,187 Shares of Kimberly-Clark Co. (NYSE:KMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXlKTm5QQ0xjcmwyOEh2RlBINDR2eHNlRzlBMHRlcUM3MDZVMmd4RnoxWWFqcUhLZzBBaHJ0X0NHblZWUkEwSG1qYWktQjFWRTF4VmhnSmQ5OXNpNXJwalNvSnV1ZDlvcWgweDFtRjd6Q3lNVE9ta1N5NTNoV0dRaTRDdmo2MDJfMEI0Zlg0N012dFNiUGp6Vk9McndtRTNDTjItOGtBRElYWEg1UkxTS0VGbUtTSWljWWdtTHNuMHoxRWNTWjhVYlFUNTRQMEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kimberly-Clark Announces Major Step Forward in its Powering Care Transformation | KMB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWd2XzhjY2JoNk1veXU5U1NQTWVpTy1hblY5T3RlZ19EbFJkLU5JY2VSWmczRkp0RmFfaXJlNFpKVTNYWE1NdElCMTRfLTU2MjR2YUJ1LUVnTU1iSzFCUEUwQ2tERnhIWjhsbGwyc29CZWstT3NtRXNiVkc4V1dFZTR4ZkZlMWRnVG1xUVF5amRoQTdGelZSX1hfNFJwTkJDOEZSVmE5cjNHTmdfR1JWU1BqNm5GWEVGTnlRdjd1TEt5WDBJWUFETHdQbG4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Buys 10,283 Shares of Kimberly-Clark Co. (NYSE:KMB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0V0RFJhOE91dmVyeTBxNGlYdEk1QldQSE12M1dZckVQSlZIUkhmbGtSTUxnVlFiZkptX3BGRU1LZWUyR2RhclhkRkROSWp5UDlMS3NSVUpzME9QSkJIOFBaMlZUZ0JIVk1UQmR0a044OVQydW9qVzEyVFoyYlZQaVdSYkxZUHQwMDFEelB4WDlUdzlWWV9WNFBCVU9mbmJ0aHJFc25YN0FES3JnOVl4NE1aQTNnUVRGUkxFVW02M3RGTHhEcmstdzNJVHlBVXd2Zk05Sjh0VnJBMFgya0VCbEtmMDB0dS1R?oc=5",
-        "label": "NEUTRAL"
+        "title": "Kimberly-Clark Cuts 2025 Profit Outlook After Q1 Sales Drop 6% to $4.8B - Full Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdS0zbEx0Zzl1OFNPUFpLTGRqdmNwUWI5dnhaTklld1pvZG9md1FlMVllemNlOHJJc092UDI4YjJtN2pZM0hGYWFhNndfVEg1V00tN0dvdUZaSF93ZjN3RE9qMUlEdHBDR01JX3k2aE96NkFyRHV5NVA4UUMtZWR3X0tXelpkOEFsUUdGbC13bTd0TkVxQU1USHVLSnhsOVdTSXpNMjRYZ2sxT2NwdFFucW5GSk1kWlpDUEVlYWQxOA?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

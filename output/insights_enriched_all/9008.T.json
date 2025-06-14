@@ -2,16 +2,16 @@
   "ticker": "9008.T",
   "name": "Keio",
   "sector": "Consumer Discretionary",
-  "market_cap": 412386557952.0,
+  "market_cap": 418418032640.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.860589,
-    "PB": 0.9945711,
-    "EV_Revenue": 1.791,
+    "PE": 10.00113,
+    "PB": 1.0091175,
+    "EV_Revenue": 1.804,
     "ROE": 0.10628,
     "ProfitMargin": 0.09462,
     "GrossMargin": 0.24982001,
-    "DividendYield": 3.06,
+    "DividendYield": 2.98,
     "DebtEquity": 107.759,
     "CurrentRatio": 0.88,
     "QuickRatio": 0.377,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.034479628124905265,
     "ROA": 0.030739998,
     "PEG": null,
-    "EV_EBITDA": 9.329,
+    "EV_EBITDA": 9.398,
     "BuybackYield": null,
-    "PriceToFCF": -26.40731691291868
+    "PriceToFCF": -26.793544495915704
   },
   "technical_indicators": {
-    "RSI_14": 38.575202702221226,
-    "Momentum_10": 0.8678044547295342,
-    "MACD": -88.49670098914885,
-    "BB_Percent": 0.4302805900174356,
+    "RSI_14": 46.5566304892277,
+    "Momentum_10": 0.94151212553495,
+    "MACD": -53.62888208958066,
+    "BB_Percent": 0.8811410421578094,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9347880978539844,
+    "ValueScore": 0.8935650561474504,
     "QualityScore": 0.4116294569690356,
-    "SignalScore": 0.65779845738446
+    "SignalScore": 0.6061544192106616
   },
-  "volatility": 0.0180399670500872,
+  "volatility": 0.0177449508048461,
   "beta": 0.254,
-  "return_6m": -0.1396212930650874,
+  "return_6m": -0.1006609049313675,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4105.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4065.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4013.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3991.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3997.0
-      },
       {
         "date": "2024-12-13",
         "price": 3934.0
@@ -525,35 +505,75 @@
       {
         "date": "2025-06-06",
         "price": 3487.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3480.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3492.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3524.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3520.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3538.0
       }
     ],
     "current_price_data": {
-      "price": 3487.0,
-      "change": 57.0,
-      "percent_change": 1.66
+      "price": 3538.0,
+      "change": 18.0,
+      "percent_change": 0.51
     }
   },
   "news_sentiment": {
-    "summary": "L'incertitude liée aux tarifs douaniers envisagés par Trump a semé le doute sur le marché boursier, avec des craintes de récession. En parallèle, Kimuratan Corp a enregistré une hausse significative de 42,86%, tandis que Sunwels Co. a chuté de 22,09%. Ces mouvements contrastés soulignent la volatilité actuelle du marché et la sensibilité des investisseurs aux événements géopolitiques. Les investisseurs devraient rester vigilants et diversifier leurs portefeuilles pour se prémunir contre de tels chocs.",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
+    "summary": "L'actualité récente met en lumière un fort intérêt des investisseurs particuliers pour Keio Corporation, détenant 59% des actions, tandis que les institutions en possèdent 40%. Parallèlement, l'incertitude liée aux tarifs et la possibilité d'une récession cette année, évoquées par Trump, apportent de la volatilité sur le marché. En revanche, des informations techniques sur la restauration de smartphones OnePlus et Xiaomi pourraient indiquer une dynamique dans le secteur des technologies. Ces éléments combinés pourraient influencer le sentiment du marché, incitant à une prudence accrue face à la conjoncture économique et aux tendances des consommateurs.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Retail investors account for 59% of Keio Corporation's (TSE:9008) ownership, while institutions account for 40% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXg5UF9SQ0JqeG1fUFltdkpBamFxLUtWTjltb3c5NzBZeHJDUnktdFJUYS16YThCSDRWV2l0YlRfUnJ2bzVQbzcwZ2o1bThTLV9rdVA5M3FFRG9FVmJZZGhPZ1pKQ05oQnVKd3lWeHZOMG04bmhRR2thR0J4a1ZUQnJxUEZSN3dvMFhuNUh2dldQcVhTSWd2RFJ3d29xSi1ZVW5zdmFiOS1wamhJeFlWWVIwdHBOWVUtOFFIU2FlekZabWp2R1BrZlM5amkyZ9IB0wFBVV95cUxOdWlTM1dsSTRNd2ZaS1VNZWVlLWxMbVBQMS1Wb3pUNG5uWkdrTjZ5eUp1Yl9GekdJWkVxU2dIcmVrY1VoTl9lbFR3WWNXU1JZemVhZ2ZqMXF5djVRb3E4TDNpMFEzWExzQ0NVTzJtZ2VZcHNES3VLODUwQi1zazZ2ejF1OUZLTDJGR1FjRVdHZVg2S193dHRPWUJ1bVFLMnlLOGd5anpOaXhNZHBhVHB6Y2s1Q1pBTE9UWGRXb0FvU0NPSWVnSVlMcXAtdzlrUzNoSDFF?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Trump doesn't rule out recession this year as tariffs bring uncertainty to stock market - WFAA",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUt4UHY4aTI3XzBMNHBLS3kzRDAxRV9mU2N5UG9LMnJSOHo2WTF2S19TbzluX0JLdXR1SEVlQ2NvcUQwZExxLVZZMUMyQWdDRS1BZzU0RkY1WkRhZ1N0b0xDcUJnaWVsSXlPRW54UjFEalZLYTRKcHBaWHlYWmk2LVg4dXNVbGpiUUExQTRMQ2NJOWJCbHh3d0FqZ0dfWnBfTEVSaGlzdnpvSmU1SGdsVWs4X2hSc3hEZ0xHdHdtbWRvQWhzbTYtLUpHeXhHczA5SVE4bjdxZWJRdnhTdUZXUlcwc0JJSmpWU0ZPeUI4QTNyNk01YkI4N1RfcUNoTlZpUW1pRGt3ZFMtazlZVU5jOHNhS08?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Kimuratan Corp gains 42.86%, while Sunwels Co. falls 22.09% in today’s market - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXg4ZUdVNTZkbnNIVUljbnJsd05vaHJ3X3lvRGliVTdGZHlET05uZEFubGY5cFV4R0d5NHNscnVNS00zSW54WmdfM1BnVG8ybTRnUHNoVERmMndoSHVsWlJJVkRUa0JBd01rdFpaUTV5cEVoX3FJTjJNYzRYMC1EdjFJQ1lpVnl4Nkk0UjFXMTQzTWk2Qm13dFdaWVZsUnd0WWJiZ1MtM1p6LUxLRmhOdkNnWXdhdHNNaTVhamNWUWFUa1p2eVJUaHdJaw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Here's how to revive your Nothing Phone 1 back to factory firmware with this unbrick tool - XDA",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bGtDQlliT0U1MzRvLVpKYmpJMmRNOUg4ckMtdzM4eVNQYkdyZloxQ0JzeWxpc1F6aDhiQXpnY21WTFBLYWstamw0U1U1RWFQbmFmNUR4bWROYzh1VGxUSDU5b3kydkVudFA4NlRvUkFIZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Realme C3 RMX2020 ISP PinOUT | Test Point | EDL Mode 9008 - Get Droid Tips",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSEpGNi1acVkxOUdUYm9BQl9nNHZEb2ZsSElkbjR5ODBaZWl3X0ZyZ29xVWlXUTBQZUhMR24ydUlucS1NbUhONXEyNmR4T1hRRmdaaWYtdmRpYWpwbGx2SjMzbkNoTEw3Unc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unbrick OnePlus 9, 9 Pro Using EDL Firmware With MSM Download Tool - Get Droid Tips",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iWGpuUGdoTV9fREtxZC1UbFRhQmNyRUUyQS0xd2ljU2lkMU9kR3lmY3pFdXIwX09yVW16aElUR1NNNzhQVS1UX2xVSEVhSTVybS1mQnduMktVRXdGUllvUFpPSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "10T Pro Test Point | EDL Mode 9008 | ISP EMMC PinOUT - Get Droid Tips",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83bk1YMm8zZ3A2UXpUQmM0R0VRYlU4eVpsVHhsRW9QMUZhNG1vYi0tcnNqek1hWHo4UzVsNE9FSWN0SkZjWWxQS1I0V0xXOWtfWTMxMWZWSDljM0pLV2dVT1dIczhXbnZKWGxNRDJBVU5iVW9uRkE?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

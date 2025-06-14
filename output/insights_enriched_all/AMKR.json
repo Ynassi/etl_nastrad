@@ -2,59 +2,50 @@
   "ticker": "AMKR",
   "name": "Amkor Technology, Inc.",
   "sector": "Technology",
-  "market_cap": 4921352704.0,
+  "market_cap": 4915179008.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.535433,
-    "PB": 1.1727295,
-    "EV_Revenue": 0.757,
+    "PE": 15.54297,
+    "PB": 1.182537,
+    "EV_Revenue": 0.783,
     "ROE": 0.077259995,
     "ProfitMargin": 0.05041,
     "GrossMargin": 0.14173001,
-    "DividendYield": 1.77
+    "DividendYield": 1.62,
+    "DebtEquity": 33.475,
+    "CurrentRatio": 2.057,
+    "QuickRatio": 1.8,
+    "FreeCashFlow": 177311376,
+    "OperatingCashFlow": 950705024,
+    "FCF_Margin": 0.0282623952028126,
+    "ROA": 0.03648,
+    "PEG": null,
+    "EV_EBITDA": 4.909,
+    "BuybackYield": null,
+    "PriceToFCF": 27.7136394903393
   },
   "technical_indicators": {
-    "RSI_14": 62.64389451912457,
-    "Momentum_10": 8.765161003782733,
-    "MACD": 0.5687044159073729,
-    "BB_Percent": 0.8500537404815796,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 58.49499903227196,
+    "Momentum_10": 10.88773248427957,
+    "MACD": 0.4898992153046535,
+    "BB_Percent": 0.7613068906077076,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.86650792349494,
-    "QualityScore": 0.2488683797618944,
-    "SignalScore": 0.6751711235662359
+    "ValueScore": 0.8953472697838989,
+    "QualityScore": 0.2219805297237106,
+    "SignalScore": 0.4969194415596043
   },
-  "volatility": 0.0361052011474897,
-  "beta": 1.867,
-  "return_6m": -0.2052112964130559,
+  "volatility": 0.0364305236201058,
+  "beta": 1.833,
+  "return_6m": -0.2438682286140366,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 8,
-    "target_mean_price": 23.8475
+    "analyst_count": 7,
+    "target_mean_price": 22.28571
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 26.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 26.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 26.69
-      },
-      {
-        "date": "2024-12-12",
-        "price": 26.38
-      },
-      {
-        "date": "2024-12-13",
-        "price": 26.54
-      },
       {
         "date": "2024-12-16",
         "price": 26.98
@@ -526,37 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 19.26
+      },
+      {
+        "date": "2025-06-09",
+        "price": 19.87
+      },
+      {
+        "date": "2025-06-10",
+        "price": 20.45
+      },
+      {
+        "date": "2025-06-11",
+        "price": 20.32
+      },
+      {
+        "date": "2025-06-12",
+        "price": 20.39
+      },
+      {
+        "date": "2025-06-13",
+        "price": 19.89
       }
     ],
     "current_price_data": {
-      "price": 19.26,
-      "change": 0.43,
-      "percent_change": 2.28
+      "price": 19.89,
+      "change": -0.5,
+      "percent_change": -2.45
     }
   },
   "news_sentiment": {
-    "summary": "Les tendances clés de ces nouvelles concernant Amkor Technology Inc (AMKR) sont les suivantes :\n\n* L'entreprise a subi un plafond de ses actions à $17.815 le 30 mai.\n* L'entreprise est en baisse de 26% et n'attire pas beaucoup d'investisseurs.\n* L'entreprise a payé un dividend de $0.08269 le 25 juin.\n* L'entreprise a annoncé la date de ses résultats trimestriels 2025.\n* L'entreprise est classée parmi les stocks en tendance.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
+    "summary": "Amkor Technology (AMKR) a récemment suscité une volatilité importante sur le marché, avec des mouvements de prix significatifs suite à des annonces et des événements clés. Bien que l'action ait chuté de 26% récemment, des signaux positifs tels que le maintien d'un dividende stable et la participation à des conférences de premier plan ont été observés. Les investisseurs ont réagi de manière mitigée aux résultats financiers, mais certains analystes considèrent qu'AMKR reste sous-évalué. L'entreprise affiche un retour total supérieur à la croissance des bénéfices au cours des cinq dernières années, ce qui attire l'attention des investisseurs à la recherche d'opportunités dans le secteur des semi-conducteurs.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Amkor Technology Inc (AMKR) Shares Gap Down to $17.815 on May 30 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzFNVnQ3SVBRQWlucjY3ZlA3b0wxcm5CenZhMXIxWm9Va1ZCYnJrWWE4bGQtemNTS2xpZ0RPdWJaa0hXbW41dGRfNVA4SC00YjBlZzRwNHhSSEdYSGY1Y1V0N0Z6OUNZQ1JnaC0xTURTZU15dU9rbmtpeXo5Qlc2bmtseVJqcm1NMG4zYzU3c3E5cFE5MDM5Tk1vWEhWNHNa?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Investors Heavily Search Amkor Technology, Inc. (AMKR): Here is What You Need to Know - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbC1FSEplWUFLSDVRcnBQbURrcE9UbW9uSVlrWlVMZE1QUHI4aWMzdjc0TUhHWXRHXzd0UjZ6ZXBTTUVSWlVEMFVHVE9KSjYwNHMzYU82c0Q1Nndtc0pvQURHWmdSSWthV2lLa3ZUdkJZelRJZExqTVpwV2VrZmEwc0pMNUFkLVZhcS0wbVFnaENCRWhXaGlydEhlRXVnbnl5eEo2aTFCTzduQmdUaUxfc096VWp2S24zUlJ1RWp2NWprNXJKR2xwMUl3S3FaN3c?oc=5",
+        "title": "Why Amkor Technology (AMKR) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOblNpSmgyM1BScHFiRUpHMS1COWk2V0EyOTVlNHU5bElGOGtESUxUY3hmdEkzQ1NzbnVyNGt1MnN5NjRFemhiOGlhMVRib1p0RV9RcU54bFl3T2k0MV8zMGQ4N0IxN1Zkd3F5dk0tN1NZOUl1TXEzQjBvMXp2R3lZclBpNGc4S0k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Amkor Technology (AMKR) Stock Moves -0.16%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdDRnTGt1MXhtR1dvSm9ZNXBVRkFPNHlJR2R2RDNVNm01ZTVvbGtuanpfejM0aUJRMHVZVWRFbjVXdWZFZVhNRjhGZWpfSUp5b1FrNURqUXh1clRSb3VrVWpQNlRUdHBweGs3WTlJcmZHVk9tZWhXYm5acTJlNXh3aEViNjFKQQ?oc=5",
+        "title": "Amkor Technology, Inc. (AMKR) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjB3RnhMNHRia3hjVUM3dTN3SGMwbGhZWWNqSzBJYzZXWEJHMjNKOE02aG9FVExkSkwtb3BHRG9wSHJEdjhTcGxFRm9Hbk9HeVdsbzhERkJxd2NBX2FWQWxJQkpOc3lDVUgyTm9vUDcwWmN1NVFsRThFQzNvZWlWd0VqRHZJbUhFQzhfSlVEY2tpcVhabnBaQnFibFA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amkor Technology Inc (AMKR) Stock Price Up 3.61% on Jun 9 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGtKVWt3a1lVTFdFdDVnS2JzX044TEZwcHJ6Nm13bnpwWWc2bmtLdWRWQjRoYlpWSFREQXhkS2ZaZEFjY0ZBOE5YOGw0a2ZhbkNxR0dIM3luajREMklNaEFnNmQtS043Vkk5d3pFd21hMU5rRm04aVJCQXVOVGV4LTh6cXRqczk2R1ZvVEp4dHA5UFU0R1dv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "When (AMKR) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHd5VHJuVFhUcmlHZndHYzlOU1JlZkQ0Zm1mNWtqRERkNlRnSzA1S3A1TFBNV2VOa2puREU4STM5S0JlenB3SFZWOVA0QzdCcDFRQ01mdFNIV1Rqa3BrNE5mUG5ReE1ZWmVBYUc1MjhEOE9pSHVMQV8wWFJXWTVvdGx5cW1OSFdlVE1ZVGREMWJWRURBTWZmWm9Oam1uUU1TOWYxbzlzVEhsenpJdUZWREU4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leading Semiconductor Provider Amkor Technology Reveals Q1 2025 Earnings Date - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEVtY2hpd29OaTlZeWk2RVBKYzludUd2SExOVHZRendnQmpULUdidGpHMWswUnluZ3NrSXpZQzJFdVNSN2lFenhpX1RXOTZUMWJtMFZaQ0ttcHVZbkljaURBMWZGcnJJMnRSUFU1TUg0WEd2REwxSGpFZW9ydDdtYmhDblFwdXdwVUI0VTFYOHFNcVdLQWpuOS1pMmcyNWVhUUR5U0dTOW51SHhYUEZXS2pJa2RxMTFmS2pTNlhHamM?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -565,9 +586,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Amkor Technology's $0.08269 Dividend Payable June 25: Key Dates and Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWxWa3JyekxCLXpyaFlEejR5MXJZX3E3MzlaZnI2S3psUmtpYUxYWkFTOVAxUVJwNlFxNnFFVXlHRnl4SFh1STJFaFZZUmEtX2Q2WjUzTUJHUUF5RTJWbFFTdFdEUWR0R1E0YTVYOUZiOXgwYllOQ2VWSFhqZWIyYzVGd2oyajJveUlld09uNFN4c1ZC?oc=5",
-        "label": "NEUTRAL"
+        "title": "Why Amkor (AMKR) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51RWlUVGxRdWJtRGJMck9MS3UzR1JXN3BPdjZ6NC1paDk1ZEFJc1VRamhXWjduUnBRSUdRY2lObDN4QXBUU0FiVzk2NGJtX3lfOXBYNTNWa1dBc19jNzQxMF9qaWl0MjJKME9od0o0eFF6OFVOZW1nT1BMTUl3R0k?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Amkor Technology (AMKR) Stock Moves -0.2%: What You Should Know - Nasdaq",
@@ -575,38 +596,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Amkor Technology Analysts Slash Their Forecasts After Q1 Earnings - Amkor Tech (NASDAQ:AMKR) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWJ3VlNnQ1FvZWx3RlFTeDRWcXR6Z0ZrZ1Y5alhhZUhJUmpHVm9LUXpiYzZJMzl3TTJYMmlLaEpVYlR4QjF5cHhlSzlBd080QV9nTnN0eEtiQXduZXFUN3Nhc3MteXVKd3BJU24xU3lwVTV4TVZ6QjhxU004dnk2ZkctWjl3US1YSnhtWVgxbU9FM1hTeFdrZ2tja3V2NWI0dDhOSTZkclE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Leading Semiconductor Provider Amkor Technology Reveals Q1 2025 Earnings Date - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEVtY2hpd29OaTlZeWk2RVBKYzludUd2SExOVHZRendnQmpULUdidGpHMWswUnluZ3NrSXpZQzJFdVNSN2lFenhpX1RXOTZUMWJtMFZaQ0ttcHVZbkljaURBMWZGcnJJMnRSUFU1TUg0WEd2REwxSGpFZW9ydDdtYmhDblFwdXdwVUI0VTFYOHFNcVdLQWpuOS1pMmcyNWVhUUR5U0dTOW51SHhYUEZXS2pJa2RxMTFmS2pTNlhHamM?oc=5",
+        "title": "Semiconductor Giant Amkor Maintains Steady Dividend Stream - Key Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNXpGdDRrVGJTUG4teUFaY3RBMXI5YTJ6V0YyeG42TDdORlNyVXUtbW9aRFpPQV9ZdlZHQ0xIWTZMUFpUMUMwNkVkcE9JRDJSaHdhYjQzak5mazJHWHFTa0hXUzdkY3NrZFRxQnB3VHhfeGJRQ2RPMWtzLVFNVnhQX3plSXhnZW0xSmFqNmRPMUt0YUhN?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Amkor Technology, Inc. (AMKR) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHFOR0JLSXpaTWpVcWg4QnNWeDBTMFBBUnpUZ3llTmR0QU1sYzZJVms1LUpVRTF2YlJ6eFg1V0o3bnZLYTVuck53WmR6d0hCYjJ3X1NiTWFQYkhiUkN1dkZOQUZXUjJfczV5aUd3cjZ1MFI3bW5lUUkxekM0WW5BSHB5Q3pEZTdfbDBpLXFRRXNfTEY1czRES0ZzX3Q?oc=5",
+        "title": "1 Unpopular Stock that Deserves a Second Chance and 2 to Avoid - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ05wTFBjaXlCY2NCTXc4THhNejRael9UMWo0ZVAtbHl0b1NaR3NHSERFT01JZXRPeEhKOU1RUjZ3a3VISVBob19ucE5IYk9YbnhLREtUZlJrNXpSMGNZNEdtaUlEaTBvcl95U1hmQ2NGNXc3dTBkR29DVWFEd1QxVmRlWGRPUF9zRTRkb0J5RDdqRHc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Amkor (AMKR) Stock Is Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51RWlUVGxRdWJtRGJMck9MS3UzR1JXN3BPdjZ6NC1paDk1ZEFJc1VRamhXWjduUnBRSUdRY2lObDN4QXBUU0FiVzk2NGJtX3lfOXBYNTNWa1dBc19jNzQxMF9qaWl0MjJKME9od0o0eFF6OFVOZW1nT1BMTUl3R0k?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Amkor Technology (AMKR) Stock Moves -0.5%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU3Y3X1pYSXdLeS0yczkteVpmWGliYks1S1dRdEM4ZzdLaGt0TXpYc0FMWU4tOVJ1LXZuVy16U2Rxd1Y5OXZvNXVQUjh0U3M4Y1VnX0VqYU14OEpIWjNjWm5tZTdqV1JsU21oT0dhdkp5eVZVY0Raa0JiM3pTTFFQaVA1bEowQQ?oc=5",
+        "title": "Amkor Technology Joins Elite Tech Companies at JP Morgan Conference, Offers Investor Meetings - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2dzMDRQRnN1SzJNTFMtUFhvckhaTzdfSXJMSDQ4MGdybG43SUUxc2xLT1h3SUpBQUE4TjhMSTU4d1JtTml3S1RwODc2RjlkbzZqT2FfbFVzWDJHN0RrSWE5YjNhbkg1OEFyYXMxYW5PNkVXejZHZUMwQ0J3eUtPR25jemEzYUZwM0VWR2t5VThvVmlkcVZvY3lFSUozQS1SWDBrcXJORkUxM19EOFV6TnNTQUZMZ1F5VXc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Amkor Technology Reports Mixed Q1 Results: Revenue Hits $1.32B Amid Market Challenges - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJTb0ZvQ0YtcnVBemVHSFRWS2FwR2gtYjd6Uy1qdmt6TkZqSkpMWU9aMWNwU0JjVHJhMl80Ty1PWEpZQjRsZEgzUDNYa29taW8yeW5SRk12VHJRMmJYVXZBaVBRejRYU00tMUtOaGpDU0tzZzBGalNEaUlyUFlwZUxqdEFDcjFnYXdyY3dEVngzMFREWGJhcl83N0VOY0RYUl9BTzRITTQ0WnQ0cWFiRUUzai1mZ3ZGdXpz?oc=5",
-        "label": "NEGATIVE"
+        "title": "Amkor Technology (NASDAQ:AMKR) Has Some Way To Go To Become A Multi-Bagger - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzhDVUVqLVJSTmpmbjFKVDkzXzZua2I4LUdRSjk5VE9yVXhuNlE5T0E0VExwRkFZZDRCaUZ4R01VT1pOamRPcEJpUHgtVEI0YTVhMUd5SGVYWC1lLTBMOHZIZ2NZZExEVUpkS1d0dENuYXp2TkpMWEtESWkzVURLR0lqMU4?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons AMKR is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zdF93WlJrZzJBY2pFNnlyWldReHZuYktmSmxuY19Tc0Y0Rk9JUU54YkQ5TDFSZnJfQmU2dGZkT200WktVYjJFYmd0dVNrTkstVGFsSEVEWndnNTljZldUNjlVWEQycGxJaVlkczFOMHpIRS02ODNZ?oc=5",
+        "title": "Amkor Technology's $0.08269 Dividend Payable June 25: Key Dates and Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWxWa3JyekxCLXpyaFlEejR5MXJZX3E3MzlaZnI2S3psUmtpYUxYWkFTOVAxUVJwNlFxNnFFVXlHRnl4SFh1STJFaFZZUmEtX2Q2WjUzTUJHUUF5RTJWbFFTdFdEUWR0R1E0YTVYOUZiOXgwYllOQ2VWSFhqZWIyYzVGd2oyajJveUlld09uNFN4c1ZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Amkor Technology (AMKR) About to Explode? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUlUaGhBR1RsN3VHSGtfeGNXaWF1U3BaMUI4N3lDRElrYUVUVXgwUTZFc0hWMVQ5Sk5IV29OZUp3M3E2bmpGcnMwUkZrV1BId0U0aGRTbm1teUl6elZCTUZGLVhyeUtIel9BWERiQTM3azktOXk1Wm9FdTVoVW5JXw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -615,9 +631,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "AMKR Q1 Earnings Call: Advanced Packaging Drives Results Amid Tariff and Market Uncertainty - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHBpRjA3QkVORjlGRkptT1lEWWF6ODlLNVNwNEFLZ0psUGhVYUtOcEQ4N09Wa25Ib2huWEx3a0dITFNpN0ZuQ2tDSlF3Tng4T1hLc3U4TVczeTlJWU9iV1hvWTYtRC0wZ0RvYkc2TU1kVEhpdEJGU2VEZ1hVZF9sZWV3?oc=5",
-        "label": "POSITIVE"
+        "title": "Investors Heavily Search Amkor Technology, Inc. (AMKR): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGljOVRINE9YS1djbFUwNmFZcDRoeXhEbWpPNjkweHZTSkdmT2V1eUFBR0JpbU9xQVk3ZmZ4R2s0WWFuZkM5T0FSYWd6S1ctRWVkOVRTR0FVdlR0bXFuX2ZmQ2MyMXpQSXBtY3B0S3czN2V3T1RZQWE4Y0JLWEtNZ0NlY0M3ZVBDVVdQc25SXzE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amkor (NASDAQ:AMKR) Misses Q4 Analysts’ Revenue Estimates, Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5d3BadEVYeWpLcGY4ckJkZS00TXUwYUV4Nld6R1l0M1QycC15MWpjVHVTTkFfOXVVQ1dFLVllbzQ2ckhwMUI5cV9CR2dCcGhYY0FVcXo3ZXRSekxsU1gwMnZaSGJudDh0RllzeWtlZWowRF9XRHV1cnY0TGFEUQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Amkor Technology (AMKR) Among the Undervalued Semiconductor Stocks to Buy According to Analysts? - Yahoo Finance",
@@ -625,26 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Amkor Technology (AMKR) Gained But Lagged the Market Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2NHNEtjRnhraTJhbDV5NHRlb1dxVjZVaENUa1JWcE5JTDBhUnZQQ216X2RySmhaYkRyYm1kck45S3E4dTQ1ZXc4YVVERXNqWUFmd1dma0Z6Y2hkZW9wTUViNmYwVnctVUg0ejhlZjUwYzBFOFpqMTRQN3dnRjE4b2lzZw?oc=5",
+        "title": "The total return for Amkor Technology (NASDAQ:AMKR) investors has risen faster than earnings growth over the last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVRDaXN0TkRyRmFKNlRiLTV2UGZ5RjlVUlVUSjdrTHZRSHRuN09hYm41SlBEWFlkM0NnMjIzNy1tNjBYUUpUbkMzQUNKX3YtdU00VmUwQTROakQ0UWwweDZmUndtN3hEWGRYQnNPYWppTDRYak5QeHBUNG5oRTRiS3pXNDZ2bnpDUTlOaGY5b2JuaWhIbHJoQ1BYWTl0SWxWc1oxdkRoNFFOc0lrSXFTT0FGNHBLam1DOTFIMVhPU3hsVDhrWTNYR1FFVlhxMHZGSEMwRWhzbG0zTGPSAeABQVVfeXFMTUlEblg4c0JaTGdXdGlqcGlDZ2k4aGdlU0owa05vYlNLWlVPM2xXeFhxZDlPNmxmRzFVSHRvX2Ewa0VWR25GM1dFVDJmOTFYZmFEMTU3SXpfaDdsUlZCTElOZ2VOYlY0cmZXcnJGOHA2YlJCQjZPMTBNalgtcjZPTDBpeHFtZHlJRHIxLTNNckFFNld6N2gyWlp0Q2ZMZGtiblFaZG0zTy12WkhRZ2RSWXJNQUJUTnpFUzh4UUNnM2FqMVhUX2JWTk9ja1lsNDZoMVFmTkNZNXM1T252dHdrSEg?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is Amkor Technology (NASDAQ:AMKR) A Risky Investment? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0N1VjEwb090Q2ptQ1h0VFoxUXhFcFJRb1FXMDd2aVBfNEJtN0NGalZ5eDh5V2NMTVZMU3BjdEphUEN2enRVN0xwNG1YbmJpZXJCdGdyRWJPWnZXLUgtbzdqSFpWQy1LQjlzYUtvRFYwWl9RV2dvRjBzXzV5QmQzQUxjd0pfYjBFN1RuTmJMTi03NEdNYTh5d0JPTmJUb2ZpR296bDBZRktxSGdtUkc5WFlINWtuV01YdlFzVVJoekpzVHZGWWU3b3B6cWPSAdIBQVVfeXFMT0dEakx1ZXNkdkRjSmVvQmhyQ3U3ck5WcEhRSmRTcnBtOTZPWHlzaUg3aTBRdk5vNEUxblotVHFOYnBmcDhJcWpzWlUzZzBjWlFud2JCRjBKbUhLWVhYeGVBX3ozNHo1bUUzSVN2QjA4X0NLWXlfMGZTU2N0ZkVWOWhGeFM2MEJjVFU1V01PRlM1SzVHamZUUU5jNUI5Z3FKZ0VtQ2M4RFlwSnI3ZTBZb1pEMzhNemZLbHVxZGhKekR4aWdhSFBnVmtrQzFnLTNQT1RB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Q4 Earnings Highs And Lows: Amkor (NASDAQ:AMKR) Vs The Rest Of The Semiconductor Manufacturing Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZLTNydXBja0Z6X3lVRG1EQzZfbFQwVmFWd0d0WHFPSzJtWTdtRVYzZ2lxTzJaeGRsUTZ0M2NNMm1fcGREYklIS1dHOExvN1ZvbWJGNmZBWEI1d2c0TkRYdEZodThGYmxqRXRIdEJmMU8tYjFnNi1tRUI1b2Vmd1E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "AMKOR TECHNOLOGY Earnings Preview: Recent $AMKR Insider Trading, Hedge Fund Activity, and More - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1hxRFUtSU9CeDhraS1uRktFZDRfV1QzR3BPX1dXVjlzenFmaUEyOTJnWVRiUGlxcUxyd2VqX2ZENHk3QzhuVFZNWlRHRk1yMHl1YjZxZFhmS0dwQnhFdDg4VmpwVVBRczRJS0I0VDVXeFZQUFI1UnpvVU5aYlBIbHMtOWFuR3l2SkgzeVBJb3ljMS1FaTRPeVFiT2pNTkFfU0ZkS0xxcGNPU195UVltZ1NzVVVaNXkzVTRNMHEyRQ?oc=5",
+        "title": "Here is What to Know Beyond Why Amkor Technology, Inc. (AMKR) is a Trending Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU5xeF9oMFg0NGhXVFZvOVFEWVZ3YzFyeDVGRU5NeWxEVzdiMjRuZ2NMZWZUX3VzSDZfTkN3UXpoSklYOHlYbTBCUDRwODRlS2JYTTZEZk1OQWhESWxxSjhGOXItMm1ZR1RPRWFqRWF6SHpXWVp2VExhTFhSU0k5N2FnaVhZOGxHelhvTVFKOGxkSnl6WjQtX1pfYThobWxrcXc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-13"
 }

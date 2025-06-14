@@ -2,16 +2,16 @@
   "ticker": "5101.T",
   "name": "Yokohama Rubber",
   "sector": "Materials",
-  "market_cap": 553169321984.0,
+  "market_cap": 540451602432.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.83523,
-    "PB": 0.654622,
-    "EV_Revenue": 0.948,
+    "PE": 8.628547,
+    "PB": 0.6393245,
+    "EV_Revenue": 0.95,
     "ROE": 0.07677,
     "ProfitMargin": 0.05696,
     "GrossMargin": 0.35331002,
-    "DividendYield": 2.92,
+    "DividendYield": 2.9,
     "DebtEquity": 68.222,
     "CurrentRatio": 1.452,
     "QuickRatio": 0.723,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.024261372580195086,
     "ROA": 0.040430002,
     "PEG": null,
-    "EV_EBITDA": 5.852,
+    "EV_EBITDA": 5.78,
     "BuybackYield": null,
-    "PriceToFCF": -20.404058085444184
+    "PriceToFCF": -20.48179502270452
   },
   "technical_indicators": {
-    "RSI_14": 57.84735520220646,
-    "Momentum_10": 2.692420251682763,
-    "MACD": 93.6844411984348,
-    "BB_Percent": 0.5981437285273066,
+    "RSI_14": 49.45524102045351,
+    "Momentum_10": -5.903349807797913,
+    "MACD": 57.16563546138286,
+    "BB_Percent": 0.2328831892497695,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351764000371572,
+    "ValueScore": 0.8964659555263232,
     "QualityScore": 0.4240638324471503,
-    "SignalScore": 0.505685521113783
+    "SignalScore": 0.604101088286138
   },
-  "volatility": 0.0249811828309187,
+  "volatility": 0.0250956052187863,
   "beta": 0.239,
-  "return_6m": 0.1522504129277098,
+  "return_6m": 0.094536864516969,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 4026.6667
+    "target_mean_price": 4104.4443
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3093.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3136.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3142.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3178.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3178.0
-      },
       {
         "date": "2024-12-13",
         "price": 3180.0
@@ -525,42 +505,52 @@
       {
         "date": "2025-06-06",
         "price": 3509.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3479.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3489.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3520.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3521.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3427.0
       }
     ],
     "current_price_data": {
-      "price": 3509.0,
-      "change": 19.0,
-      "percent_change": 0.54
+      "price": 3427.0,
+      "change": -94.0,
+      "percent_change": -2.67
     }
   },
   "news_sentiment": {
-    "summary": "La Yokohama Rubber Company (TSE:5101) va verser un dividende de ¥48.00, signalant une stabilité financière. Cependant, Damon Motorcycles risque d'être retirée du Nasdaq suite à une perte totale de valeur, illustrant des difficultés. Par ailleurs, l'incertitude liée aux tarifs de Trump pèse sur le FTSE 100 et les actions américaines, générant une volatilité sur les marchés. En parallèle, l'intérêt croissant pour les pneus reflète une demande soutenue malgré les tensions économiques mondiales.",
-    "sentiment_score": -0.143,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.14,
-    "neutral_ratio": 0.57,
+    "summary": "Galapagos (GLPG) présente des données prometteuses sur GLPG5101 lors du Congrès de l'EHA, renforçant son potentiel en thérapie cellulaire. Malgré cette bonne nouvelle, le FTSE 100 chute et les actions américaines sont volatiles en raison des inquiétudes liées aux tarifs de Trump, laissant planer une menace de marché baissier. Un fabricant de CAR-T affiche une décote par rapport à sa trésorerie nette, offrant une opportunité d'investissement intéressante, tandis que Damon Motorcycles risque d'être retiré du Nasdaq suite à sa perte de valeur. L'augmentation du prix des pneus soulève des interrogations sur l'inflation et les coûts de production, ce qui pourrait impacter les marges des entreprises.",
+    "sentiment_score": 0.143,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.43,
+    "neutral_ratio": 0.29,
     "negative_ratio": 0.29,
-    "bullet_positive_count": 3,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Yokohama Rubber Company (TSE:5101) Is Due To Pay A Dividend Of ¥48.00 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGQzM0Y2RTVadTFWVmlrVU5YOC1HVlBlUHJuUVZaV2UzLTBETnJiWXBmaVJRdldFMXlSbGpoQ1FlWFpraG5PWFEwNXVEb3RSTTZxSkxxeDB2enF0cHdCcEVIbFVza09Ua1ozNE5GSzJyRzdvS2JrcnBHZjEtREwzUjZxOWx6c09FcnVmdFRrekFTWF9yQ2tudjZGcUhSYVBubDQ5S1FSTllYTG5vQ3NFSm4xNC1BQnJjSUdLb2tra1lHZ0VtRGtFZWtWT2VYclVUNnpIOW91ZzVuUdIB3wFBVV95cUxQS0g0VmllUXhuMEhMM1JnRm10ZWRkWjF2N2ZMbWt5SjUyN2VVLTlKTTlTaVJ4S3kzRm9wdmJVM2dLck1YZ3pPbmlBZVVnM05CYUNEZERaSlV2dm1PdE9WaUEwVmdvZjNaRi1OeTRBRWNzWUVHWmx1clZkcjNMNXllN3QyQy1LZjNaYXNVWXhzUGltQVpvaTNVc3JWSmRuUHQ3eWk2MmlXVWlDaHFpd2tZMWx4Z1R0bDBxTlBiT3g5NjQtRzI4V0NkQlI1MFlsbVFBaUJXdmNTM2U0UU9zVkZv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "5,101 Shares in Meta Platforms, Inc. (NASDAQ:META) Purchased by Legacy Wealth Management LLC MS - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXh4b25tc2ZVMGhiS01UcHhDQXo4S0lPU29KZzZyMmRBZFF5RFlURXFQREpHNFNRcWFaVnlnbXJNVktmXzh1dTdZS2NtMzhYUHhpYTlTNk14S0pBeHN4ckQ0dExVMkEyQ0g3X1FPbFNDOHAzTEdrVnFKcWt3Tmw5N3U5aG9Vd3VIYnQyYlZVcDY5bzliNkRIYS1nbU0wb0Zvdzh2U1JFd05fZWNTcnZFcGJwNmpSOUZhNm5MaEFaVFlPODlNcXVFbTZId2hxUThmX09FbFNLTHcwejEzQ3c?oc=5",
-        "label": "NEUTRAL"
+        "title": "Galapagos (GLPG) Reports Promising Data on GLPG5101 at EHA Congr - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeS14VnFMSXJBMnprRGx2a18zMjdvRWdOWWxBVGVXVWt5czhhME5xb0JiZk1qbDJRc1pSV2VnNlplT3lINzVmOUh6Y2JfTVR6eUE4cmtldVNkY2FBa1l5RmhseUxKbF9QRF9KanhiSnh1NF84NWYzeTFBb1gtN1B6cVpicHpNMUpDenV1cHI0Z0RCM2l4dlBLWUFraUFsRl9tamtucVFkSVZDTFpoNlB1ODZtTjR6YmthRVZrVg?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "FTSE 100 plummets and US stocks volatile as bear market looms amid Trump tariff worries - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFhDN1VvaExhYnV4S2lJcUxRaFdvY0JKbjU3NGVLblVucVRVRkR1N21fX0RRaDhiN0NBNGxodks5YXhCVWVoV0JZQm5VLVB3RjY0eDM5anFpb3hVZktkRkNQd0V2RkRvTjhlRjlRT1B1SGJoZm8zeUNCdmh0RFRaRG1YZ1BiZDVHSWo0TzFkNU9oZTQzdW5KQTBqYlNqbnliaUE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Damon Motorcycles Is Probably Getting Removed From Nasdaq, As It's Lost All Value - RideApart.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1RTbG5RZGFrWFNibzZ3ZkRiaHhuWFBCTW1UdTIxVWY2a3BkRUNGVm1CREx0Q3B1cl95YjFsak8ydml0bGJ4ejc4SFlVRzl0M3FIWlczRGF1ME5XWEFiTERMMGYxYkZwUlFQcXhidTVyMzdzM0tzZEVGQTM0cGpPeDdjRXUySXVmUmpFbU1wZXg5dFl5c1hmSmVkRHlBRjg?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -569,9 +559,19 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Damon Motorcycles Is Probably Getting Removed From Nasdaq, As It's Lost All Value - RideApart.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1RTbG5RZGFrWFNibzZ3ZkRiaHhuWFBCTW1UdTIxVWY2a3BkRUNGVm1CREx0Q3B1cl95YjFsak8ydml0bGJ4ejc4SFlVRzl0M3FIWlczRGF1ME5XWEFiTERMMGYxYkZwUlFQcXhidTVyMzdzM0tzZEVGQTM0cGpPeDdjRXUySXVmUmpFbU1wZXg5dFl5c1hmSmVkRHlBRjg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "What Is the Carried Interest Loophole, and Why Is It So Difficult to Close? - Peter G. Peterson Foundation",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEJ5V1E3VklCYjdiU3VBMk0tYW9iWl9nZmgxY2FUcjhBN3J3OWR6eGxWX1JMRWo3LTNoWmR5Z3c5VzZZQi1ZX3B4TTJTYy1IMW5YS01xQm5JcGg5Z3VIUzh4VjFLN3hJVXNUeEVGaUJBZ1Zpa1V1SURuek0wcGZ6clRFcE9yWUJ1Y1hjcVdHREI4bDlqazNiVHZzeE9Zc19PQWJmcTZB?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Galapagos (GLPG) Reports Strong Q1 Revenue Growth as Cell Therap - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3hkQnktTHpoUHo5WXZHdWRwcFNqdHlXcmFvdlpDc1k5SmJGWTVKRDk2TmRMUGowV0hidW9YNkQ5dHVmZ013RDNHZE1UeVg5WTZRSl8xb0llLW4zdlNmZG9EcFFjeWdZOGNYdG4wTnN4a3J0cGYzWXlGS3dTNTBteHRSNzZuZ1pqamprUy1JSTVYTVBDZjJkdnNCOVJIMmlUd1MyaS13c0NKQmxfU2IwQW5GM3RKbWJDWWU2d29VTUlEM0RZWWc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Why people are paying more for tires - CNBC",
@@ -580,5 +580,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

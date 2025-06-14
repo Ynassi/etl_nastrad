@@ -2,16 +2,16 @@
   "ticker": "NEWT",
   "name": "NewtekOne, Inc.",
   "sector": "Financial Services",
-  "market_cap": 293093504.0,
+  "market_cap": 273429952.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 5.564767,
-    "PB": 1.0013052,
-    "EV_Revenue": 2.292,
+    "PE": 5.3782387,
+    "PB": 0.96774197,
+    "EV_Revenue": 2.321,
     "ROE": 0.18177,
     "ProfitMargin": 0.14343001,
     "GrossMargin": 0.81838,
-    "DividendYield": 7.19,
+    "DividendYield": 6.94,
     "DebtEquity": 258.04,
     "CurrentRatio": 31.494,
     "QuickRatio": 4.458,
@@ -20,25 +20,25 @@
     "FCF_Margin": -1.1383513715880471,
     "ROA": 0.05831,
     "PEG": null,
-    "EV_EBITDA": 4.713,
+    "EV_EBITDA": 4.771,
     "BuybackYield": null,
-    "PriceToFCF": -0.7322825976030565
+    "PriceToFCF": -0.6832199600722018
   },
   "technical_indicators": {
-    "RSI_14": 48.886202334189434,
-    "Momentum_10": 0.1865625334998111,
-    "MACD": -0.0132550361709569,
-    "BB_Percent": 0.3263173066239148,
+    "RSI_14": 42.62237565335196,
+    "Momentum_10": -4.331799543818477,
+    "MACD": -0.0043535462695771,
+    "BB_Percent": -0.0330279704877604,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9371736242120818,
-    "QualityScore": 0.3761336245212258,
-    "SignalScore": 0.5528112917495778
+    "ValueScore": 0.8993274624630916,
+    "QualityScore": 0.3846833174830937,
+    "SignalScore": 0.6292364669813655
   },
-  "volatility": 0.025561552110393,
+  "volatility": 0.0260582330361754,
   "beta": 1.285,
-  "return_6m": -0.2095977911394315,
+  "return_6m": -0.2388005965545999,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 3,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 14.2
-      },
-      {
-        "date": "2024-12-10",
-        "price": 14.25
-      },
-      {
-        "date": "2024-12-11",
-        "price": 14.25
-      },
-      {
-        "date": "2024-12-12",
-        "price": 13.97
-      },
-      {
-        "date": "2024-12-13",
-        "price": 14.1
-      },
       {
         "date": "2024-12-16",
         "price": 13.59
@@ -537,77 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 10.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 10.91
+      },
+      {
+        "date": "2025-06-10",
+        "price": 11.18
+      },
+      {
+        "date": "2025-06-11",
+        "price": 11.01
+      },
+      {
+        "date": "2025-06-12",
+        "price": 10.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 10.41
       }
     ],
     "current_price_data": {
-      "price": 10.77,
-      "change": 0.2,
-      "percent_change": 1.89
+      "price": 10.41,
+      "change": -0.54,
+      "percent_change": -4.93
     }
   },
   "news_sentiment": {
-    "summary": "NewtekOne (NEWT) a récemment fait l'objet d'une série d'actualités positives et négatives. Alors que les revenus et les bénéfices du T4 2025 ont dépassé les estimations, le PDG Barry Sloane a augmenté sa participation en actions. Cependant, malgré une hausse de 7,2% du cours de l'action, la baisse des bénéfices du T1 2025 a entraîné une répétition des prévisions pour l'ensemble de l'année. De plus, une récente notation à la baisse a mis en lumière une diminution de la qualité du crédit. Ces événements contrastants pourraient influencer le sentiment de marché des investisseurs.",
-    "sentiment_score": 0.35,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.0,
+    "summary": "La société NewtekOne (NEWT) a récemment affiché des résultats financiers du T1 supérieurs aux attentes, ce qui a entraîné une hausse de son cours de 7,2%. Les directeurs et le PDG, Barry Sloane, ont acheté des actions de l'entreprise, renforçant ainsi la confiance du marché. Malgré une baisse de la qualité du crédit et une note de crédit abaissée, NewtekOne reste attractif pour les investisseurs avec un rendement élevé de dividende de 6,4% et un faible ratio P/E. La participation majoritaire des investisseurs individuels dans la société pourrait indiquer un intérêt soutenu pour l'action, bien que la diversification des détenteurs d'actions reste limitée.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Newtek Business Expands Equity Distribution Agreement - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdzFQa3JVcDZpMmlocW1UQktYZUtvUkJ4VUhoT1QtQVFCaWJnVElXY21zMHlYNkNySXpLdThVbEgzd2RqUjBpbEVwbXBzMjZwWWdCVXJsYldpay1nRWd3V0EzNFU1endfQjJveHdrc0hLY3RYNWY2RGZrdG5yR0JON3FQQ3VhalJFWEpvTWNGenNzcVdJSU9Eemh5ekhvRy1xTFNRZzlBSXk?oc=5",
-        "label": "POSITIVE"
+        "title": "20 Undervalued High-Dividend Stocks With P/E Ratios As Low As 4.0 - Sure Dividend",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1SHU2Vk9xUWtON2l0Wjk1Ymo1R1B1X2tEcWZ1NUJnUTNyNXJZT3Uwbzd5ZUVRY3lkaTlXQXFsZ1R3aE5veGJ1MTg4NDRqRVFoZnRlaGVFSTRkYzAzVjJPMlNybFIxZkZGVkc4eFc5Yw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "NewtekOne, Inc. (NASDAQ:NEWT) Short Interest Up 26.2% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHpDT1B0ZE01cGRpQXRFRzFmWlJpa0Q4NmF2Nzd2bUtmQVBaTi0tY0FSSDkzbkdEOVZmaExYTXFoa3kzTkh0czVZdEowZHc0Zkg4SUxBbGZ1UWszY01oc0xxVGVjUXdlM3hEY051Y3dMQVBDTi1zMGpHM2IyZ3RicVg1MU5EOE1sZ2t3clFCNFZ1UExNZ3VTN2JnajZmRDNZWTYwbzBSQkhXZ3c?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(NEWT) Trading Signals - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFpiN1NZQm9MTHBFaHZzN2JDNXNSeXNmbjdLSTdqUk5BMTU2aWtxTGdsYkRVU0JKNDc1OGRyY05aU2R3N3JCczlTRy1FZ0tuaWFoNXpBa2g3Sng3em1RckJJQk1vVGc5NWJGS21aLVROcEJkSDIzMERZVGV0VlE5UnpKUmx1SERVZVJzOHRYQ0cxdk5YU1IyMzJKbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NewtekOne Sets Key Q1 2025 Earnings Date: What Financial Analysts Are Watching - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2lBNXlJVnFDRmRpZ2FQb29FdnRkcUN5U013YTdnQ3hDSlpLOHVDWE5BVm9kNVJYallTcjBvNWJ2Ni1Kcmd4d1FCMjNGM2FkOGxGSnJHWWgwYWVqSHZQSlFjUnlSVU9XbkxXRTlGdmJBVzNEbko5dEpjVDk0bkx1OHB0aXlfeGRZY2lIUzg2X0ZzTnhuZ19oMkR6dnA2VkhLcWliODB4dEpWTmozaFFkUWNVTTFDS0tReWRzRUhwQm0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Newtekone president buys $5,530 in common stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmxJdGltZXVrWUJNSm9hemFRNDhSOWoyQzRBeUNhVTdpWHdELW5lQ254QlVqRFFQX29lZVEyV2JsWllFeWs5YVYycjRicExLQ3JPNmZMMEZBQVZHNGFmQmJzRGhBcHNWaTZ0Yy1Ydnkxc01TbXRMNEFBczFGS1VhUWNuNU5yVzUxZ2JGUEx1dFdHVGZkMDhYMmVaYzhxdWdDaVNhcVdmVGlGajlsQjBz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NewtekOne: A Well-Positioned And Undervalued Stock For Your Portfolio (NASDAQ:NEWT) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWhqTmpZcEVfNk80TW9Rdk40V3ZDdEF3WldMdEFZY2hrVlJsT2Nwc1czRlZ1VjBhUTNlOVNkWlVKaEVQZVoxZm1SSEFYby05VDQxMzNPR25EeEJodDFIN19uTXRERGZlUUtvT0gwb1ZicWpCZGVlc1lkTWpsSmhtRTNMaEpNMTNlWkFHUWRMRnc2aTBuNExhWW5EczdkUUZm?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NewtekOne (NEWT) Surges 7.2%: Is This an Indication of Further Gains? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WeFpqMEpGdDFrbUZubjZTOW90R3hVcWlHSmg2UFlrUUlwSzVMdlJJaXo5UzBUT2NMX2xLVDFRNlE5ZEFGVldiNkd5MGF2QXQ5MktRd2lNNzlxSHRhdjU2elNzN2tZbnJaMmRfQ3JtNUNWX08zNTdGVUkxTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "10 Passive Income Stocks With 6%+ Dividend Yields - Sure Dividend",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWmJBTFVsZ1Fkd3VjWTBLc3FNcERRR0Mxd3dzOUNmUURtYWRmaDZ1cXFDZzJNZkdZTnZkdW1SVEZUbDlIOGNyTF8tQ2hLX1pqLUMtdC1zVktJdWw5Mm94OQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NewtekOne (NEWT) Q4 Earnings and Revenues Surpass Estimates - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVERUQmtZaUJBektFZlBkdk1JM0xRY21ScmlWQ0FOYUxsYUFuZTRWZDFhUEppTEt6bWREMWVNVlBEeFJJbi1EdEpVcHZybzNXa0lPcWl4VEhQMGlSVjNuNWdfQlhBZ2hSdEVHdDhjaV9ZSTZNR2NGTmJrVjhlZF9sWjNhcnNiM2lTSTF5QWxWYm5mU1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nuveen Asset Management LLC Raises Stake in NewtekOne, Inc. (NASDAQ:NEWT) - MarketBeat",
+        "title": "Nuveen Asset Management LLC Has $871,000 Stock Holdings in NewtekOne, Inc. (NASDAQ:NEWT) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWpEbVctcXdpRTFVcm51QWh2a3BnRE04elFud2VNTW1CbnB5dmtJRU10Rm5fRDlQWDdQc0dlWkw3MWM3SVpiUjNsQTEzcjlWNWh5WG45RmZ3b2M0YjFuZ1V2WUU0WXJkb0pwWmdvRmdEdHYwTXAyM3AzUERvRXJTOEdTMlM0U29ieW50R3NWX1VPMzJ5RTJqak92a2tBUmEwZXo0ZWFDd0RGbTBtR3IzcEJocDYyeGhsVm1mZU53VjJMTko2TUtCeFBR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "President of NewtekOne Barry Sloane Buys More Stock - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWNCZldOMlZYU1JTQ3VZeEhWT1VfUmRVVHROTnpKSW5CMk13SFdwTEl5MHZ0clVwWDBncHJhWkdVQmhYUFpIR0g2ejJnX1ptS25LU1lnamFhN2tCUmlzN0lvQmJKT1NJOHNCUUdiT1VPLVdjd0ZhLTRGLXZXZHNrV0FGTGJIZXRJdVYtWEV2NkE3b3NkWGRsR3k0dkgxeFVndmJ5R2lrSDNyR2pHLXdrWG1WeWFGcGNrU1RjSWlJazQzalI5Mkt0bjNtYnh3d9IB0wFBVV95cUxQSWtUZ1Btd3lPcThLbDBhV2U0WEFUVmZnRFNQU2lKRjN3bEJJdGVrQklVUUk1bXotTXhMU2dTQ1hZSnFEMTU2ZDhLbnpjQ01XNDFsTEZ0VF9RZ0xBYlVIeDFoSlZGNUlCd044OU9Bcm0zczZRN094LThxaUxvWExLcE1rMURIZXpsai0yYzlnQ2RsNk5FbTNUc1JjRHFfdG9waVpKemQ3enlJbThGMy1sN2J2WTVWOUhaYkVBTDYyS01RX1ZGc1FFSmgzXzRQWWpzU0Y4?oc=5",
+        "title": "NewtekOne, Inc. NT 29’s Attractive Yield Is Hard To Resist (NASDAQ:NEWTH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGpQb3FTX01yVE5hS1p0akNLSDFTeGViZDI5aUMzTjVISlBHQ1JKbGhyaHdPMVFNQlhtNE4zY01uSkVBeFBrTDBSVFhvNWU3b0J2U2ViSUpGT3dhMTBRdlJOaXAtbjhfTXFacnFYOW9UekpORTJfVnFJcDA2QjFkWjVpN2RBQXlRLXgyZmVKaTZGY2QxUG9RazRmUmg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,29 +576,49 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "NewtekOne Stock: Bank Conversion Progressing Well (NASDAQ:NEWT) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXYxUURCV0R2LUdkYmJ1NFM3TFluVXlhZ2lWUGYzdmNNcGF4NVhkeGxSdVdtOFZMZDViY1IwMUFIWkVuWndlbVRNY3gxdFRqZ21vQXc2UXpCZlFVUWtOYkpKTV84M2tHWVVCdU5IWmROcC0ydmJHWTU5Y3Y1YWZyUkhKREdrR05KNGZF?oc=5",
+        "title": "Directors Make Bold Moves with Newtek Business Stock Purchases! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGt2Z0VzRWdQd0FsSmo1TTFXOXB5U0RNb2xqSkZDM1hJWGl0Xzlfdll4RzhTZWtKMklXYzVSamV6dGJ3Q3I0VG9FVThzWGJLdmJYbWlIVmxQeXVaYU9wMlIybFcxd3g5Skw1aUFEQ1lPYkFWLXNfNEk4XzZnR1J4Tm11V01XREtpbVdLTGY5YWE1aWRuZW5YYThoRE83VzBSTlJKMDR0YnpwUXZQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NewtekOne's $184M Securitization Deal Achieves Record 85% Advance Rate with Zero Charge-offs - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXh4YXQ0eVhsQ2xTa1dPQXRxc1EtdUtia1lZMEMtVGRENmVhWURCRS0yRy15bE4tcEF5cWg3SXlOUDBSM3lYMl9yWjNOUXpBRmpDSlVkX0ZZN1hqUjg1MG00ckpOSUxTUzlvTUpVUG5SSWdYdjhaRGc0M2RQWm1MalB6ZS11VEYzNTF1YXA1ZmRKUmZON0Zvbmo3RzVvWWYzQzJ2cVBfMmRnZUJ1Zi1ERFdhVEp6T3Vf?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NewtekOne’s chairman and CEO Barry Sloane buys $112,325 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbXQtekc4T0dMbnFBamJrOW13cnVKaFFZQVR0ZHFDWkQtMklWS1NZUGpESk5TeWhKVEROM1M5dDUzeHZVaXJLT2NvejRPRE1iQ09wTG1wZDgzWkliNTJXaWhFRmwzZENDMUMzd2lfUDdMN21QVDlpZVJxV1JQbU1JcWRPMFF3a2V2ZnYyV2YySnZGRjUzdTBoemFnV3FEUFpjNDN6UjZkeXljUXFQRjNJWDNFWTNWcU9rUmFmR19hWTJudzNX?oc=5",
+        "title": "President of NewtekOne Barry Sloane Buys More Stock - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWNCZldOMlZYU1JTQ3VZeEhWT1VfUmRVVHROTnpKSW5CMk13SFdwTEl5MHZ0clVwWDBncHJhWkdVQmhYUFpIR0g2ejJnX1ptS25LU1lnamFhN2tCUmlzN0lvQmJKT1NJOHNCUUdiT1VPLVdjd0ZhLTRGLXZXZHNrV0FGTGJIZXRJdVYtWEV2NkE3b3NkWGRsR3k0dkgxeFVndmJ5R2lrSDNyR2pHLXdrWG1WeWFGcGNrU1RjSWlJazQzalI5Mkt0bjNtYnh3d9IB0wFBVV95cUxQSWtUZ1Btd3lPcThLbDBhV2U0WEFUVmZnRFNQU2lKRjN3bEJJdGVrQklVUUk1bXotTXhMU2dTQ1hZSnFEMTU2ZDhLbnpjQ01XNDFsTEZ0VF9RZ0xBYlVIeDFoSlZGNUlCd044OU9Bcm0zczZRN094LThxaUxvWExLcE1rMURIZXpsai0yYzlnQ2RsNk5FbTNUc1JjRHFfdG9waVpKemQ3enlJbThGMy1sN2J2WTVWOUhaYkVBTDYyS01RX1ZGc1FFSmgzXzRQWWpzU0Y4?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Has $3.24 Million Position in NewtekOne, Inc. (NASDAQ:NEWT) - MarketBeat",
+        "title": "NewtekOne, Inc. (NASDAQ:NEWT) Shares Acquired by Wellington Management Group LLP - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMWRvbHNtd2xITTFLUVN5MUdZd3BvdU9TdGZzc1ZyUTBDb0EzU2R2N1A3S3ZzOXVSV1F0UjZ4MmhtMmNNblRxODlvM1pSR2d2eTQ3R0lkdzJsZnRfQTQ3R19KRms0eTdVcWRoc25FLU11bzJXMWQ5ZzV4UjVraGwwYUtOcmFycE1hbmFucHFoNU5vWUNxRDVpOU92QlU2aFBDSXZzZlc3RE9rZXBzUUJmazgyYkxzT3Q4ZXBQVjc2SHY1X2tadjVfUnF2dnNraUUzWDNWOXhkZnZBejRQNkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NewtekOne stock gains despite Q1 earnings drop, 2025 earnings guide repeated (NEWT:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZmVzdtcU9YalVRY0xRVlYxQ3I4Ry1LSG9OTmVaYTRfRWRCaWdhYWtQVUNDamtOX3h6MWQzS2ZRV1AzTjAybUJ6NWlNRmVzWl9IRjlvd2J5UjdOSnl2N0QxT1JLYnZGdHU2RGtnN1IyQmxvX0VhU09DbXNpcDRKMFBmZ1RJblBsLUtOQTd3LTZ2MW9rM2VYZmJkSDJiaHltQzRSZmhaa3Q5ZkZRVzFneFBKOA?oc=5",
+        "title": "Newtekone CEO Barry Sloane acquires common stock worth $116k - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblRtY2dCTFNkVWptY0NNX2Z4ZU9aQ2JyTk5TbWVyOFAzNExZNjZOQVJJdDlGcExwR1dpZEhCTFc0SkEyaHMtNnhnWmd3OE9KZTh4cEljMGpsbWRfVXpFX2pxN3JMd05seVVNbEx2RVE4anp5YlBXYl9zZzJpTGdCOUFnTkk2OU5lWHBHQU1JcVBSV1N4cndwVHI5Rnp4QmtkQ1BtTDJfTVRJSkduVGZBbEI5ZGF0ZjFsZloxTVFGQzNCZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NewtekOne, Inc. (NASDAQ:NEWT): Among the Best NASDAQ Stocks with the Lowest P/E Ratios - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0Y1c1ZrN2NUbjBXUGNJNGVjcm1GRmJVSmF5czJmdGVhNkI3SndaU2JqcjEwSWlkU2QxTkFHaUs2WmJQbjhRc0F1c1E4T0k1ZzRNdXdJcTNEMnhiNlhhdHZ1RkFRWFV1STNnWUc3UkFiTlBveDlDbXQxOXpYa0p1RmIyMVV5NFlfeXVfYmtNZmF2MDloNjNHVk01NVIzbFZSTkN2QU1NRUladktQNXdNc3R0UU1qZy1DeDM0c0lLOWNCZ9IBygFBVV95cUxQNzlpU0JMbV93amZwS0k1dXlqUGpoRzdxS1dnc29MZ3Zqd1V4ekxwMzNqekR1bTAtN0JzMTNJR3k5d1M1R1kwYlVOQzBLNzF4dmFoaXZTcVRkWVZvcm52S21JZU5yMlZmVEFzanJHNXI2UkR1WEJSM0N5OVBqcGJET2c1bDdzSzdCcmw4X3lCelVfVTlDWEhXa0FJY3ZQcGprSlIwaUNqQnlfMDBSbXpiZ2kyWlVHYlZMWHhiV3RyQV9pY3FmV3RuU0J3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NewtekOne (NEWT) Surges 7.2%: Is This an Indication of Further Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WeFpqMEpGdDFrbUZubjZTOW90R3hVcWlHSmg2UFlrUUlwSzVMdlJJaXo5UzBUT2NMX2xLVDFRNlE5ZEFGVldiNkd5MGF2QXQ5MktRd2lNNzlxSHRhdjU2elNzN2tZbnJaMmRfQ3JtNUNWX08zNTdGVUkxTQ?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Newtek Business Expands Equity Distribution Agreement - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdzFQa3JVcDZpMmlocW1UQktYZUtvUkJ4VUhoT1QtQVFCaWJnVElXY21zMHlYNkNySXpLdThVbEgzd2RqUjBpbEVwbXBzMjZwWWdCVXJsYldpay1nRWd3V0EzNFU1endfQjJveHdrc0hLY3RYNWY2RGZrdG5yR0JON3FQQ3VhalJFWEpvTWNGenNzcVdJSU9Eemh5ekhvRy1xTFNRZzlBSXk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NewtekOne: 6.4% Dividend Yield From Banking Upstart Is Elevated (NEWT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTJHdk1ETEZfcklWY1NvZjZMRmp2QnNCMXB3OXV6bmppVnRqMGtyZkd3dm4yWGtpWkpDRlA2UlJoRjBXM3F4NFlSV3owMmYtUlhVZjVJcWdHMGEwN2VoMFFKTG5icC1uSWlLY2ZQNWxEa2tnNGlOSmRJWGFOWTdZUDB6cTVzZWVYR1hPOFpsWUNMajlfVjJvMGdiVEpfZDBLNWZuZHVVWDFGX0ZCZHdR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "10 Passive Income Stocks With 6%+ Dividend Yields - Sure Dividend",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWmJBTFVsZ1Fkd3VjWTBLc3FNcERRR0Mxd3dzOUNmUURtYWRmaDZ1cXFDZzJNZkdZTnZkdW1SVEZUbDlIOGNyTF8tQ2hLX1pqLUMtdC1zVktJdWw5Mm94OQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "NewtekOne, Inc. (NASDAQ:NEWT) CEO Barry Sloane Buys 10,000 Shares - MarketBeat",
@@ -646,16 +626,36 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "NewtekOne: Strong EPS Guidance, Credit Quality Dips (Rating Downgrade) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXpQUzltZDg1aWlLaUxVc1M5UzNpZ09yc2FyRjlMNTd5OFBSZ2ZiVTNIZ1BMalNEY3FHYk1ja3djakwwaUd4RHZ0eDBYM0tFUWViOTdWcV9rWURwVVREVlJDang5MmpLdFJOZVRNTVRCLXk0bWpUNFZ3X3QweWVfdTBfc2ZtZmJfb25CclZWaXZjQTlqSmJ5R2ZHcGRWMW1SVVNOeGdUQ3ctWkVKMWNEWXNjUQ?oc=5",
-        "label": "POSITIVE"
+        "title": "NewtekOne, Inc. (NASDAQ:NEWT) most popular amongst retail investors who own 57% of the shares, institutions hold 36% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3VyR042b0NSSnNmUDE1Q245d2dXR1pLMU10NnJFbFVmYi1VR3QtSWZqcEFubmRXeDZKTy1XM1F1c01zMmUzQjd2TTRwRVBWTjdFT21DcmlYSmk2MHZ5clkyQ2N2Y1h3TjRsY0FxaVQ4eTNGN0lpdnhHa1BFRDVPd0hR?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "NewtekOne: 6.4% Dividend Yield From Banking Upstart Is Elevated (NEWT) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTJHdk1ETEZfcklWY1NvZjZMRmp2QnNCMXB3OXV6bmppVnRqMGtyZkd3dm4yWGtpWkpDRlA2UlJoRjBXM3F4NFlSV3owMmYtUlhVZjVJcWdHMGEwN2VoMFFKTG5icC1uSWlLY2ZQNWxEa2tnNGlOSmRJWGFOWTdZUDB6cTVzZWVYR1hPOFpsWUNMajlfVjJvMGdiVEpfZDBLNWZuZHVVWDFGX0ZCZHdR?oc=5",
+        "title": "NewtekOne: A Well-Positioned And Undervalued Stock For Your Portfolio (NASDAQ:NEWT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWhqTmpZcEVfNk80TW9Rdk40V3ZDdEF3WldMdEFZY2hrVlJsT2Nwc1czRlZ1VjBhUTNlOVNkWlVKaEVQZVoxZm1SSEFYby05VDQxMzNPR25EeEJodDFIN19uTXRERGZlUUtvT0gwb1ZicWpCZGVlc1lkTWpsSmhtRTNMaEpNMTNlWkFHUWRMRnc2aTBuNExhWW5EczdkUUZm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Newtek Business Announces Leadership Changes at Newtek Bank - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEM2R2d6WnFTN3dURGI3T040Q3dMelhzWkJhQlQ1SXFEaVFqV19DRVVOZmE3QXUwbHJ5ekVlR2RmQi1udHlXSGVwRDBMbnZUS1lIdFEtVFhRTEJKNHRyOTJxdkM1bWFicUR6bklIT3djNWNLWGxGVERKMDRfWHFYR0NNWFg4TmZEXzAwaGI0Rzh6T2N2emdPVk93eWRkUGFXbmREX0QwNHFOTkJwWHZrUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NewtekOne, Inc. 2025 Q1 - Results - Earnings Call Presentation (NASDAQ:NEWT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0Nya0VmUERRMkxNUWVXRUJvZHpCQjVzMERzbGJpRHJGTXB5S1puQ0tmRTg2NG9aM0hTS3hNSTlNak41T0lYQTFVVWlLc1ZLNHRtMjJ1emZMUTE3eUViT01yUG1yV05JRXk5cjU0bTBmR3VUOXpkN0NQcTYtemdfQ2pHaEZyazAtdktFYTVDX3JsU096NzlnVWZOZGR0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D. E. Shaw & Co. Inc. Acquires 44,969 Shares of NewtekOne, Inc. (NASDAQ:NEWT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkU0LVcycTlxaHdFYTJULXNIQ28taEdEZzZDOUQ4b0xwU1JiZzNoOTFFLWZ4ZVVYRVh2Z25kVG1makVOWkdpTk40SzFNeVVyUW5NRkJaU3VHeGc0cG1PeDROLWNBTWFXZTVMOUdJcVFxWGVFdzhPWlFkVzlXeXVHdzR0eW05cjN2dm50ZWxDSnY0dlllSEtRQVIzWWxBenJXSW9FcmJVS0lBVEZ3azhFeHFqZm5ua2ptYndxTElnX3FQR2Fa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NewtekOne: Strong EPS Guidance, Credit Quality Dips (Rating Downgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXpQUzltZDg1aWlLaUxVc1M5UzNpZ09yc2FyRjlMNTd5OFBSZ2ZiVTNIZ1BMalNEY3FHYk1ja3djakwwaUd4RHZ0eDBYM0tFUWViOTdWcV9rWURwVVREVlJDang5MmpLdFJOZVRNTVRCLXk0bWpUNFZ3X3QweWVfdTBfc2ZtZmJfb25CclZWaXZjQTlqSmJ5R2ZHcGRWMW1SVVNOeGdUQ3ctWkVKMWNEWXNjUQ?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

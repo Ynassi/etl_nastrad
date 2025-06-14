@@ -2,16 +2,16 @@
   "ticker": "4503.T",
   "name": "Astellas Pharma",
   "sector": "Health Care",
-  "market_cap": 2499007479808.0,
+  "market_cap": 2485581512704.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 49.521107,
-    "PB": 1.6516683,
-    "EV_Revenue": 1.643,
+    "PE": 49.255054,
+    "PB": 1.6427947,
+    "EV_Revenue": 1.662,
     "ROE": 0.03264,
     "ProfitMargin": 0.02654,
     "GrossMargin": 0.81738997,
-    "DividendYield": 5.59,
+    "DividendYield": 5.51,
     "DebtEquity": 54.943,
     "CurrentRatio": 1.132,
     "QuickRatio": 0.786,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.05488161321141584,
     "ROA": 0.042069998,
     "PEG": null,
-    "EV_EBITDA": 7.28,
+    "EV_EBITDA": 7.248,
     "BuybackYield": null,
-    "PriceToFCF": 23.81109830919177
+    "PriceToFCF": 24.160775593888808
   },
   "technical_indicators": {
-    "RSI_14": 49.870682133335706,
-    "Momentum_10": 0.2153625269203158,
-    "MACD": 7.268363197141753,
-    "BB_Percent": 0.566613746147936,
+    "RSI_14": 46.579995843405705,
+    "Momentum_10": -2.834149755073478,
+    "MACD": 5.613156819009873,
+    "BB_Percent": 0.2999101435615398,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9286535518841872,
+    "ValueScore": 0.8877930153560785,
     "QualityScore": 0.5124969795350047,
-    "SignalScore": 0.5861615030033305
+    "SignalScore": 0.6128687370315804
   },
-  "volatility": 0.0170843662771992,
+  "volatility": 0.0171482004856064,
   "beta": 0.128,
-  "return_6m": -0.0947215033597168,
+  "return_6m": -0.0854122156806413,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1581.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1582.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1580.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1574.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1581.5
-      },
       {
         "date": "2024-12-13",
         "price": 1556.5
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 1396.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1402.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1417.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1419.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1416.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1388.5
       }
     ],
     "current_price_data": {
-      "price": 1396.0,
-      "change": 0.5,
-      "percent_change": 0.04
+      "price": 1388.5,
+      "change": -28.0,
+      "percent_change": -1.98
     }
   },
   "news_sentiment": {
-    "summary": "Astellas Pharma Inc. (TSE:4503), largement détenue par des investisseurs institutionnels, a surpassé les attentes de bénéfices pour l'année 2025, démontrant une gestion raisonnable de la dette. Cependant, malgré ces succès, des avertissements sur l'achat pour le prochain dividende et des inquiétudes liées aux performances antitrust d'Amgen suscitent des craintes plus larges dans le secteur pharmaceutique. Les résultats solides pourraient être tempérés par des incertitudes liées aux acquisitions et à la concurrence.",
-    "sentiment_score": null,
+    "summary": "Astellas Pharma Inc. (TSE:4503) a récemment surpassé les attentes en matière de bénéfices et a réalisé un chiffre d'affaires solide. Cependant, la forte concentration institutionnelle dans l'actionnariat peut influencer la volatilité des prix. L'acquisition d'Iveric Bio pour 5,9 milliards de dollars montre une stratégie de croissance agressive. Malgré une utilisation raisonnable de la dette, des interrogations persistent quant à l'intérêt d'investir dans l'entreprise pour ses futurs dividendes.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.12,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.12,
-    "bullet_positive_count": 4,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -554,6 +554,11 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Tairen Capital Ltd Sells 263,030 Shares of Meta Platforms, Inc. (NASDAQ:META) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTG1BLTVFcWszTTI5QzdSQ1lGMVBoeHR5X2tKemd1NzNlUmxQbGdEYTQ3d1ptcFBJU1Z2RU95ZldnMV8xejk3eldNTjFaQy15LWNFZ1Uzb3Y5Y2RIVjZjTHluY1VmYWxabFVSTXdjNDNteWdsNXp0OTZBZlpUSHlybzNqdDRUenhGNXN2UXZuQ3hNdjVFTE5GWWh2LWI2ZmlaNVYwdkF4THQyNHV4bmVJMjlSUko0amFjU0dodmdETVhhT1M0Y1hIWlByY3BMNWtJdHhtQXRnMHlhdHVm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "These 4 Measures Indicate That Astellas Pharma (TSE:4503) Is Using Debt Reasonably Well - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMVZUUjhQLWVqTTlZSDlHczEwRFEwREFzQWNuRmRaZHhDcVBNQ0cxWTVSZFFWeU9HbFhWM3lmQmNGNl96TFk3Vk16V1hrenQ0RUVlclpFcEhMUU5rVWZGb2ppMndxZnY1V3hobGoweXJkRjRNWXFyU3F5bFZuWmhBNGhXbE1tT0FuY05HSkxSeDRGQ0tSSnFUbHkxODU0UXBXZFlsTktXczZTU1g3UllsYUUxN240OFl6UmxRZzdsa2p3a2h5eFJCSS1TUHBnLUVvVzVXdFlOYTQyOUFNcXRpTXRfNDRZczdH0gHuAUFVX3lxTE1kZ1pTSXhpMGV4UjBmNENNb1J5WUNNMjhyS3dUeWdmTUJhZXk3U3VaTk9xOU0zaTRBU1JsS1V5OTNoS1B2aTFBWl9Pcjg2cVY2Ym9rWE9idTM3cWhXLWZZWVl6aFFwYlE0YVE0c25HWmlnS041Wnp6SmxMY1E2SjVTWU5GVXpvaHhCR0pvTWhvRjRuYWJKamxibWRxV2tGOVNuRGRlMDVkbjU0NHVnYkltREp4RnRHTkNxRjhNbkJESFVxVjZDemNieTZaRmFzRUNqODRtS0l1aXluUWNRY1hkNEtmVDJFV3dPUGlfZmc?oc=5",
         "label": "POSITIVE"
@@ -564,9 +569,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Amgen's antitrust woes spur wider pharmaceutical deal fears - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXFkSFpvSjZ1S21yZksxVFNUVWF2b2FpVzNPYTV6ckNlNnR6VHV4MXFud0lXVWtvZjQxcTZ5OTByRGtJV1VvUnc3SDB6N3ZEbGtEbE9lZzdVQm5lZUlySlMwb04wejRzWHZuRTZ5U1RMNTZUXzV5WVpyQzlYSm5wRFN6LXhxYTAyVnJUSHl4Q2xlbDZlLTJWRU1kVGhoWWk5emRYWXBST1dPWkVM?oc=5",
-        "label": "NEGATIVE"
+        "title": "Astellas Pharma buys Iveric Bio for $5.9 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZkaDdIbElRbEkzWVlvb1lnXzhlaF9yNXRFVDhPZG9WSVpaT09mVHhqWE9TRXJRd3JrYzJzUjBBVVVVMTNZb3BXdFJnSWtBb0pMZUdIWEFZX2R2SWI0Ukl2bm5GTERGd284VWZZRmhpSXJFak1tSk10dGRpUGZsLXpFaGx2cUlMX2Z5eGZoWkFKZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Continued strong Cresemba® (isavuconazole) sales by Astellas in the U.S. trigger CHF 20 million sales milestone payment to Basilea - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3dRSGlsZjY5TEE4QXBEVWZhWXA0dDVMMnlFMEhsU0hXMV9NejBGVG0tZEdUT2UzZHQzMjJyV0lBYmIydHpORGRZSTA1R0d6VzlhZXBtbzhPc0t2UTVGZUUyOUFqMlhkVUJQMHgwZUVtOTQ0UHdqaXdVMTRDbXVGa0Qxb3lCMW1pQlFYb3YyNEV0ZjcydmtVbTdR?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "It Might Not Be A Great Idea To Buy Astellas Pharma Inc. (TSE:4503) For Its Next Dividend - simplywall.st",
@@ -585,5 +595,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

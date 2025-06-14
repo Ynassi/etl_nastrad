@@ -2,16 +2,16 @@
   "ticker": "J",
   "name": "Jacobs Solutions",
   "sector": "Industrials",
-  "market_cap": 15314483200.0,
+  "market_cap": 15121632256.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 42.064358,
-    "PB": 3.9703133,
-    "EV_Revenue": 1.505,
+    "PE": 41.672184,
+    "PB": 3.9203162,
+    "EV_Revenue": 1.531,
     "ROE": 0.06804,
     "ProfitMargin": 0.03935,
     "GrossMargin": 0.25028,
-    "DividendYield": 1.02,
+    "DividendYield": 1.0,
     "DebtEquity": 66.356,
     "CurrentRatio": 1.502,
     "QuickRatio": 1.445,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.11036633989293257,
     "ROA": 0.05056,
     "PEG": null,
-    "EV_EBITDA": 13.414,
+    "EV_EBITDA": 13.653,
     "BuybackYield": null,
-    "PriceToFCF": 11.865703313216994
+    "PriceToFCF": 11.727366885176696
   },
   "technical_indicators": {
-    "RSI_14": 56.60298029297877,
-    "Momentum_10": 0.5731666427110872,
-    "MACD": 1.098182799101508,
-    "BB_Percent": 0.6543615254003161,
+    "RSI_14": 51.419412701421976,
+    "Momentum_10": -0.2810794523798334,
+    "MACD": 1.0137285609664275,
+    "BB_Percent": 0.3342397605063482,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9286880907251668,
+    "ValueScore": 0.8882259870772229,
     "QualityScore": 0.3473240428992932,
-    "SignalScore": 0.5493276895175558
+    "SignalScore": 0.5774285149844296
   },
-  "volatility": 0.0164107361308278,
+  "volatility": 0.0164096617193719,
   "beta": 0.76,
-  "return_6m": -0.0613325431027943,
+  "return_6m": -0.0674924725707158,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 134.8
-      },
-      {
-        "date": "2024-12-10",
-        "price": 134.73
-      },
-      {
-        "date": "2024-12-11",
-        "price": 133.78
-      },
-      {
-        "date": "2024-12-12",
-        "price": 134.67
-      },
-      {
-        "date": "2024-12-13",
-        "price": 135.63
-      },
       {
         "date": "2024-12-16",
         "price": 135.88
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 127.67
+      },
+      {
+        "date": "2025-06-09",
+        "price": 127.74
+      },
+      {
+        "date": "2025-06-10",
+        "price": 127.47
+      },
+      {
+        "date": "2025-06-11",
+        "price": 127.06
+      },
+      {
+        "date": "2025-06-12",
+        "price": 127.61
+      },
+      {
+        "date": "2025-06-13",
+        "price": 125.89
       }
     ],
     "current_price_data": {
-      "price": 127.67,
-      "change": 2.7,
-      "percent_change": 2.16
+      "price": 125.89,
+      "change": -1.72,
+      "percent_change": -1.35
     }
   },
   "news_sentiment": {
-    "summary": "Jacobs Solutions Inc. (J) connaît une forte activité récente, avec des annonces majeures telles que la sécurisation d'un important projet énergétique en Australie et l'obtention de contrats lucratifs, notamment avec la Space Force. Malgré ces succès, des signaux de risque émergent, notamment avec une réduction de l'objectif de cours par BofA et la nécessité de surveiller la résolution des litiges en cours, tels que les affaires de talc. Les investisseurs pourraient envisager de rester vigilants face à ces développements et d'évaluer la diversification de leur portefeuille.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
+    "summary": "La société J.Jill a connu une baisse des ventes et a retiré ses perspectives, ce qui a entraîné une chute de son cours de Bourse. D'autre part, Jacobs Solutions a augmenté ses participations et a sécurisé un rôle dans un projet majeur, mais son cours a également chuté récemment. Alors que J&J a vu son cours baisser en raison de litiges non résolus, Jacobs a reçu un dividende spécial. L'incertitude entourant J.Jill et les réductions de cibles de prix sur Jacobs pourraient peser sur le sentiment du marché.",
+    "sentiment_score": -0.45,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.5,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Arthur J. Gallagher Stock: Is AJG Outperforming the Financial Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzV4X050Z3JmRjdvS21pSEhoQTlHMGtnSy11Xy1VSmxESzMteDltY1hVOE9fdXJiMHNLNGwtT3NjQkVobUpVYzJWYnFXMGtHZXROdjBRMHB2QTczNFRveUNaSHM1OTZXOUJfbUJTOHlZaW0ySWhFWVZWUm51NEJpUTRnUlV1eVBZbzFmVUxva1Z0NXd2Y3MyZVI2WklGNDNDUjY4S0JpREVvNUUxT0NzckVDeUpRY3c4cU1qVi0zbG9sR0NKV0JxSDJoU0pqQkFjZlB1QVFTQnJmUFVSa1c0?oc=5",
+        "title": "J.Jill Stock Tumbles as Sales Fall Short, Outlook Withdrawn on Uncertainty - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjdGb2lxdldZNjBQbTNMTzUzWXAwWTdMVDhoT1UwMjRRRUpaLWJBQlNTSE04MDVpM3V1S19pQVotaGFyOHNVaHJVd0NVY0JzQWdYNEV4RXRXUElJVGZGY0hLOEZjVEhBTTNsZVY1ek4tYVVzLXRyc0k3enBNV2NPeUdQMVhlN3o1dDNTZkQtdWpwYUoxN0xaOFhQVHM4eC1GR1NoQTh2ZW1LanhLb2FWTw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Man accused of pulling knife on bystander who tried to stop brutal attack - KCTV",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNExHU3JWVXEtZUpFV3BjaDFvYlQ1SzNPOUFZQk9jbnU1WkhQNEVEdzFjdF9kZkZVMlg3MFg2ZTdmbXdKQm9RN19rdExuVUpBU2todXVGUUhKVG9BUUY0QmJ5VUJDcmhVeXRsM01GYWpTRXZNbS1RdFYtblY1QjdZcHlQdlFhbVZqY2F0MVI5Tjd4WWhmbUtxT0FPMkN6VXfSAbMBQVVfeXFMTjVaSXZwSVUyQ2dYS1hnUFVpZnMyZFZTelJFZzBlaWxoNjlpeTV1bXNnNDNDZGNYRHlKLUNmMVEzMjVLQzI2RlY1LUpOZkhOR2V1YmU0Nzl1LTYzMFBrTnZzX2RCZmx2TFQxb0lDRWFXZXY2ZnJrSGZNRVJaZ2NiVUhIME9rWG9McmZoRldaSS1oRnBTVVJrbDdDMWdMTEktWWlGWDVmdFZMcmlVc0ZOQjlsMnM?oc=5",
-        "label": "NEGATIVE"
+        "title": "Jacobs Solutions Inc. (NYSE:J) Stock Holdings Lifted by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXZsUXlmLWo1OGxYX0NUbi1QX3l4Njd0QTRPZldXck5Eb1FncEVRTExibDdmTV9XYmxOcUp5V19fMEFTN1lWZ0g3cWdFcV8yUmZqWTB1NVFSX1hNbU84alo2dWRsZzY4MnZjV1B5Z3hka0FyVWRxcU5CeDJpYTFRejdCUEJGTzdSU1N5dVZrSGlfbWNRVTNBNUw5NDJEZkh1RzMtWlVwLUFRQzhBVTdtX3RkdzNuUURpdEdfaURKTURwbFhaS2pmM0NDUlQwMjg?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Why Jacobs Solutions Stock Is Falling Today - The Motley Fool",
@@ -571,33 +571,68 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Boeing Selects Jacobs to Deliver St. Louis Site Expansion | J Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0ViZm5TbFRrXzh2LWhyc1hiblNTS2MtaVY5dmFXSGtOMmFNYkVwQTFkbS1LaTBwOHVvTmVueXBJVWVoQmFBOTdnakVBM1JwbTcyX19FY1dub1FDUHBmN3k0QThmY0tEUEJCdmZCV2NYSUJ1dmhBWXBJc2xMQjhRQ3o0eUhTR28xUEN5QXJldHlBek40Y1ZLM3pDYUV5b21nLVlaYjV1ck93cmhu?oc=5",
+        "title": "J.Jill Stock Discounts Some Operational Deleverage, May Become An Opportunity (JILL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaVRmRGRyYWxfSGtNWEozV1BDaEVIR3JvTGp5LTE5VkJmVURDVGx4VDAtczRPeVpzN0NwVnpnNm5lbUJ2SDNlY0YzTnVTNUZmdzFvQnVOWTNQdUlsX3JSaXBjQmRrT1RoT015Q3FHUGMyWEJneFQ3d1FnbjMwTlFRdmZjZmdGRHNLTElLcDRNbkFuZGs0UXF5cUtOOVFENmlXLUlEUFlUUkYzam5hbGFLNkV5QkluZzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jacobs Secures Massive 1500MW Clean Energy Project: Australia's Renewable Future Gets $3.9B Boost - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmp2RzhGX3ZVUnRRdWtZT2ZVRVlzRWpHNDZCQU9LYi0tWXc4SThLTVVhRHZ4aS00b0Y1eFBfOExIYmhMR3IweXU3YmVWcTlrWEdQQU9yUndtaUQ0azhoQVRWeFlkWjVlajl4VUJnMkQ2bzRfb0R3Ti13WUhubno1WVJZSFV2MWNvSGdGTkppX05XMmFQQjJmWlZ0cjFKZFk3bFZsakstY2dRVnpO?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(BTCC.J) Investment Report (BTCC.J:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1dMM1AxRE02S1NGLWlQYV83UWpnUHdZVXJFdzVFR0ZPb3NmUnpEZC1lc2hsaDE3RGRidUQtTGRITjU4cE9lSnphRTJnRXF1RURNWXdqSVl4VUVUMTE1akJ3ZjQyYWJPcnU0SG5ILWpobXI4enRZRTVzTV9WR3NrWHB2OVAzZVZn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jacobs Solutions (J) Soars 7.0%: Is Further Upside Left in the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TlBnYkNQc1RqdXhha2c3cmNHMkt0bmtLM3RfY3BrVU12bFRjSC1fNkJRMnBVSVhYd2FMX3VrOGJvX2w5UEdOMEFuS2g5LVJ4YlJkbnZVaTJvMDl1UEk1eFFzbno4QUNOZGpkb1FlM0RzT0RWUTc0cVdLWko?oc=5",
+        "title": "J.Jill Stock Tumbles as Sales Fall Short, Outlook Withdrawn on Uncertainty - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNakJWWkpEaGRDbmpyX01IcnRMSWJyNnUzYkJ3NDNfRW1CV1Q5QWY5N3h1akNRN1l6VEN6Y2VleVNXZko3V0UwcDZXZVhhd1N1ZlFFUFd3Yk1rSDJmNWlCX3d4TFJXTzB4VjFWOUdBcHBlMlNuNWUtejRZMFpna1YxdzluZmNWTWV3YjRDWDNxU01iZmZOVWZsR1pwcmM5Y2lQdHdRNGE0TF9XSG52ZWhybExGYlJUTWlBYXZ6MUdzT2dFazBrejJWbC1BVnlyRnN2ZEVvOFFoWG9UUzduNTZrV3FBSU9RQXE0?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Jacobs Solutions Inc. (NYSE:J) Shares Sold by Williams Jones Wealth Management LLC. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWTEwWUZLZ0l2UWM2UWZZS2gtWE1MMUdObDBMeG1hbk1Vd2IwWmsxMWZVaUFNWjMtdXBIM2NjMDNyVjVOTGR5Q1VMUmVmLTlVWUw4ekdOVW14SXQtVVc4N285MUhWRDU1cXlSbGtaSGhpSmstTmdFR2VhbzdsVkpyVmtrcGRCYVdOM1B0M3ZfYkt1UTZMbzlQQkpua3hCRFl6ek9kQ3hoVGh1NHBoNWZFZXJXMEVuaG1EbGV4ZW5FRjRqQlZCaEk2YmR0T2FoOGx5ZHptLVdlRGhIbmROZ0gzd3JmUkE3VDY1NkdfV0VQQ2Y?oc=5",
+        "title": "Jacobs (J) Secures Role in Grand Coulee Modernization Project | J Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmgtYW1SMFg4Mlhid2FZaFJYeVNleTJYSU9YcFBEQkYzcHJhRURzaXhPY3Z6bmNhM2dKRzd3ajVzSVpYay00S0o1T2ZUMkJjTFVrSHdaUmZPMVBNZ3ZzTERoV2RDdzJQUDlRMEdfWjFrbHE4VHgwMURIS2toQ2ZqR21MOG56emZCZF9lWWE2V25lc05fYXYyOWEySWFpNlZaUldydkd1X1QzcXd2RWkyTEdR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jacobs Solutions Inc. (NYSE:J) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNmNSV25mQlZ3SmE1NmwxR2UyUUsyV3ZvSUZkQk1QQl9DRzJzMTRUTHBEMHB1NGw5NUFtT0FORzBXdS1jWnF2SndROVdmVjRUaXlFNFRWQjU5YXgzU09XeFJ3UVFZM1FGcGZ0cUZhU0tUc2JkVkh0LUpHRDlHc29EVnhvUUh6dk9OZTdkQl9maFhNcjhQNFNtTFRSalIyU2NTZ0lqRjF1bHdlSGs2YlhMYjVhTmg5LWxRUDV4UXdJcFptZWN1enBNTFZyamx1NW5IY2pEdnJXZGRkLW_SAeABQVVfeXFMTjBkZVpYanVfZWZUR3YySDJmcFBkbDREbDNjblhycVdHY2Nzd0NqTnFGLTdVd2JTUE9TRjhpWml3NE51WHBfc1BoeTQ5amV6QW1rTVZkbTlBSFp2NlVmYUtleUoyN0sxT3FWXzFubmI3d0xlbER5cWtPazdhMkNOT0owQ2FkdWVqMzk2V2dRYlN3OXk4dHRGbUQ5c0lhYjRVWlRPeEFyUUtBcGdDc2xtN2FEekxzdkhaTDZfZmlyREFqV1I1YVBvZTFyQUFyalVRdlQ5d3VkUGNIWTZJOFppOGY?oc=5",
+        "title": "Is Weakness In J.Jill, Inc. (NYSE:JILL) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG90TkhLRHU2QnR2LVA3bFF4SWpTU1RfcWtrMkV5LVR2Y3JMUGNwelQ0NFd4dFNxWno2Y3pwWlVTZ0FSUlMtbGpYdkR0Z0RZUnd2UEphVFdzRVozcEVlR0ZidDc5X3MwMWJYQWNyNEpOVmdsTGFhTkd4N2dvcHlpemViZndWc2VQQ0VqcW9zVFdocFZkSHhMVkRKNWtvYWFfTFF4OUt0QXJXa3ltcWQ0SzM0Slg4M0tEcFh4ZtIBwgFBVV95cUxOX3c2alBIeWt4UkJoZU80US1UTnVBZHVCazZvVm5GUlNiYWY1b1REMjExSVQtY0Jib3d2bGRFWEgwUnlFWHNuM1BvTzhXQ0tsS3VvNm1YNnRJcjBYajFLcUVaWjhSdmRwMUhHdFNOejRTZnhNQVY1RWd3bUI2bmRRTE9BTkYtVUwzRUo1ZTBWTzNmTFlvVzV2YVg1cEc3dW1nX2VJSEZ3RlBYTVB3RkFPTzNtNEZaUXYwRmlaSWhaRkN0QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jacobs Shareholders to Receive Massive 7.3M Share Special Dividend in Amentum Stock - Key Dates Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3lNR2ZjSlprWEdCdXBxWnVGc3MzYTcxRWs0dzBvM21lc2YyY0pkdFdqRmpzLUo5UGI0SDlKc2p4UXNTRGJTTVlZUHFPZnhkdDFSdDFyTm5kRklpMmtENDVmQ2ZVcTF6UFl5VWowLVh4X19PUFc0UHBtUWhrQk5lTE1fV3czX0k1cElFYzNvS2J4ZXJpMnpVWFJvb2hVS3IzWU9zVnowRlgwaTlUNURqN1o3eUVyTDMzeXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "India-Pakistan conflict: J-10 fighter jet maker AVIC Chengdu Aircraft share price tanks 18% in a month. More pain ahead? - Mint",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdDh4TERRZnR3dzFyLXBVdmFYVGRNaDhCUkN4QVY4R1JaYzFpcEFLdmk1MFlmVjlpeTJ3MmtOYl9qLWpZRVBCT09ZcEJVMEhpQXV2Tmx0RWEzVDdmUjJpTjQxMWZ0eWNQU1hFbWhPUS1kUHNIWHVGMHdqMjhmcmZ2RnZqZkZvXzhjN3BKVDZKalVVV25ORUdnczRYWnZFNVNoalVSSDFyYlVMdmM3c19jSGg5bDZVZlRsMks1bnNDYVFUUVNsdEJla2dpS3YyMmtfcE9rNkdINmlMT052bmJrdFc5aDFmamttRzAtZ0pkM0ZVZ2dPQm1HTzdRdXFXSU5UTDhvT1djSTIzeHd2cE9VWFZ5RdIBmAJBVV95cUxPVkxPT0pUblRrRGJLdThkM091alFRbFJQUzBQbEgzRFZxTjFzMUJXMG5LRF9HSm5EMU5rbWNXX2dOZVdKWEthNVJUYlBGRl8xZ0duZlE0eUR5S3lPQU01WHRjLTFRenpxN29wTVE4UTVIYXhUNVRUaVZ2X016RmhZREdoU0VRTm5xcDBmeVo1VEVSVHNuZEtVRWtzUFJ6cE5JeURqTWhvTVRUcGlHdFgyX3FkSVp2MWFERmVMREhtWnpwd01xdm0zQ1lPLVpuR1A0NHotaFdpOHVMLUlSb2RITENWRTV2UVlfWTVMOEZUSG9sT3c3NUJhZzVZMjAwRnd4TWlXelJvX2V3S2dKNnlkUzdrYmpsYi1O?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(BTCC.J) Stock Analysis and Trading Signals (BTCC.J:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTQ2YnB5cV9XNFZMTm9ycGdSYWRlQW9QTmh3bi15VzZ0dW9kSzR5WUlTSUVBYUxUd3JURDRodEU1MXFXOHpVbU5yS3NIbmRBakU3bkdISFM5TnoyYklyZE1INjRwaWJBVUZoVDNQYUQyRXlJTjh4clR1TDg2ZVJuOXJIcFVrZ2lsTWRBbWdaQ0w1ZU9YeEJLVTN5Vk9KeGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Man accused of pulling knife on bystander who tried to stop brutal attack - KCTV",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNExHU3JWVXEtZUpFV3BjaDFvYlQ1SzNPOUFZQk9jbnU1WkhQNEVEdzFjdF9kZkZVMlg3MFg2ZTdmbXdKQm9RN19rdExuVUpBU2todXVGUUhKVG9BUUY0QmJ5VUJDcmhVeXRsM01GYWpTRXZNbS1RdFYtblY1QjdZcHlQdlFhbVZqY2F0MVI5Tjd4WWhmbUtxT0FPMkN6VXfSAbMBQVVfeXFMTjVaSXZwSVUyQ2dYS1hnUFVpZnMyZFZTelJFZzBlaWxoNjlpeTV1bXNnNDNDZGNYRHlKLUNmMVEzMjVLQzI2RlY1LUpOZkhOR2V1YmU0Nzl1LTYzMFBrTnZzX2RCZmx2TFQxb0lDRWFXZXY2ZnJrSGZNRVJaZ2NiVUhIME9rWG9McmZoRldaSS1oRnBTVVJrbDdDMWdMTEktWWlGWDVmdFZMcmlVc0ZOQjlsMnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Jacobs Solutions Inc. (J) the Best Engineering Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZFIwR1JPcGltcm1JdXJpaFVVZHVDNkxWeXR0ZXh5MjNqcEhGbVZZTnk3MGpJczF0T3FxN3VvM243UFJlMnRuOW5taDg1TlA0eFE4SFFFMWxmU1Mxd3lFdW56ak5RX3IxTXdxNDBORVJ5bVFGV1RjSkFEcUJnUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jacobs Solutions (J) Soars 7.0%: Is Further Upside Left in the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3hMVTdKakYzei0wMkRuV0UtaGtfblY0XzhYNXFLNzlYWUhVZ1FIWWlrbUxYZFVkUDFkOURORV9ocFU2dGRxT3ppS253dEFFa29fdERrWlBuY09Hd1VrVEw2ZmlzSjluaExlWlQ3OTllbEdfb3AxLTlYVnpOUkdtMGtHTXdPS080cnUxdzJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "J.Jill (JILL) Stock Declines as Shares Fall 14% | JILL Stock New - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWZ4ckNid1dPZ1ZCVjJNc0Y4VnZXZ04yRjNSeE5pNEh4V3YxVjMxMkZxbF9FbE02QkdzZEs5eG9YdDUtbXVKTElMbElJSHh3NW05VUVYa3dIdWw1TTI3d013MDZHajVJRU1TejRIRVQ2Qm5JMDloOWdMeHY2b1lZUW9CSy16YTNETW9WR25tR3NpSGF5MzUtTGpqNlBCbVk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AVIC Shenyang Aircraft to Aerospace Nanhu Electronic: Chinese defense stocks rally as Pakistan plans J-35 jets purchase - Mint",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb0plRUF3dm9vU3BMcmNIUFJvdUlpUnBqamdfQUhNbkpRdU42RWxiUDhrc055S3hfTms5bXFYdXk4cTJ1blBvR0NoX1B4UlFSbnZrV0lUREVua21ETjVnSWVvZEtiSFRVWFFsWEFYeVI2N0RMUC0wVjFzUlVXbk9CeGl1VXdyekxieTFLMlZfSDAxYnRIRWVaMXM5dXpHRThaRmRlWVI2WWNZQ2M2QWsxY0ZibHdpMXpmdk1talBMclE0TF84OFdhNFBzVlFnUGdvSWVkV25yT0UwR1JiQ1RybXlHTF9BRmlINXBuZFJFNHdCVF9TNV9UQ3ZYelExaktwakZiQXNudm1JSkt4X0p2MEN0MnfSAZoCQVVfeXFMTVZTOWxVVGZRXzRjQTI5OVJlQ1JScjJkTEJrVWZlbFFNbjZXcHNyRXpOVUJUeTFvX2N4Smxrc090VDJ3OGZma1JHNTNiTHFzOHZacWN4SXpSX0tSc3pyMHdDbHpJM3dHaV91N2pDOTlzbHlUVS1ZYWpSS2NjUDVRekN1c1RGYnRjUmZGTXc2THdpa0FmYWQtbFZhSk85MUw1ckxWNjlhRHhhVFVVQ2FoMXVhN1V0cDdkLUFmaXNrSEZEN0wzSkFxRjFVdW0xVmRteGFzTVAzQ1g3cW02cEtrMnZOajhYclR6dklnSUktWW9oUHBkSl9SVDk4QTR5Q1VVc3ByZ0x6Nkc4S2RzWUlkeHo1RUdtN1dYNEVn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jacobs Shareholders: New $0.32 Quarterly Dividend Announced - Key Dates Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjg5NTlxbS1RazQzYWpoeWRlNG5kWGZWOEpmOHU2aXZuVUhrLW0xSzUyQkwxRkNmaDByVG83SjBCcXJmNEZ1ZE9xMTNaODJNZW01VG1XdlV4b2FlQzd0OTdRV0lPYldYc3puV3pVb0lkZ1Z0Vy1YVHpWb2hEWUpRYnE5Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,56 +641,21 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Reasons J is Risky and 1 Stock to Buy Instead - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0R1SWJPMU1wdFhuMFFhRlQ1VkVGNk15ZmViU3NtLW5VMGZkLVNkemp2QnpYdjhxaElYeE1nTUhXVjV0ZUxSV2U0bE01SnVOc211NkswSjNGQUhmZ3FfZnpxcW1ZU0s4dFdNcUpXdW5BeU4tTjBCMElLSWZ0U0lmQ2hCR3BSVHEwX0tyVmt5U2I2MElsaEdWVVNJcko0YlZwREhPeFdoWGhaanh4V0twTTBWSFNZNk9jcGNDWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why J Mintzmyer Is Short Walmart And Long 3 Shipping Stocks - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3phZXdoN0VEOEYxdnRNZDZmcFNWM1h3MnJla0Y4Yy03VUFSQldFM2FxdS1mUk1HV1hqQUthMXZ3eHNfbWdabmh4WGZJSFpLV3BJQ25vb3dyU3hWR1NwSV9rWmxzTmg4WVJDNW5kVGNKSE9LMTN3c1liZHZXVDVHdVY2Z3YtWnBYSTZnNk85MTVIUm1WWTJyYWRXSzY2bzY2VE1VRVp3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jacobs (J) Secures $4 Billion Space Force Contract | J Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTdmelU4bmpCaUZjY1NrQmJkbEVUV3F5ODUwN1pyRDV4Q2N2aDZSMVBwdXdnSV95dmVfZjZXZGNMVF9OZ1NVMXlOQjdObmgyT2NSWkVYb2tiQ1hRN2g3ZmMtYnNaUzVsZmJNak15UmYtYk1faUpna3FfZEQ4a0xxVWV0cE93VGRlR2hnYmlvT1dkRV9ScC1GaF82WW9Nay1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jacobs Shareholders to Receive Massive 7.3M Share Special Dividend in Amentum Stock - Key Dates Inside - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3lNR2ZjSlprWEdCdXBxWnVGc3MzYTcxRWs0dzBvM21lc2YyY0pkdFdqRmpzLUo5UGI0SDlKc2p4UXNTRGJTTVlZUHFPZnhkdDFSdDFyTm5kRklpMmtENDVmQ2ZVcTF6UFl5VWowLVh4X19PUFc0UHBtUWhrQk5lTE1fV3czX0k1cElFYzNvS2J4ZXJpMnpVWFJvb2hVS3IzWU9zVnowRlgwaTlUNURqN1o3eUVyTDMzeXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Jacobs Solutions Inc. (J) the Best Engineering Stock to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZFIwR1JPcGltcm1JdXJpaFVVZHVDNkxWeXR0ZXh5MjNqcEhGbVZZTnk3MGpJczF0T3FxN3VvM243UFJlMnRuOW5taDg1TlA0eFE4SFFFMWxmU1Mxd3lFdW56ak5RX3IxTXdxNDBORVJ5bVFGV1RjSkFEcUJnUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jacobs Solutions Inc. (NYSE:J) Stock Holdings Lifted by Axa S.A. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0F4UTlmdlJ1UzU0c2VMYTlUQ0Fra2lIS1ZuQjRab1ZDTUc5cDcwcTI0SEczZEZ5TUhjaUJVZkZuY0JDX3htQlFSRGFLdFlnMTBQZFZGZ0Ztazl4ekRpaXIwQmVVR2Z5OFRSbkF4eWRLT1pHdVZjWEljQjQwNExJaHV2SDkxX21JV0VpRmctSG5jWDd1WTV0bUZDWlVpbmFISExEZWJFZEFLM0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jacobs Shareholders: New $0.32 Quarterly Dividend Announced - Key Dates Inside - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjg5NTlxbS1RazQzYWpoeWRlNG5kWGZWOEpmOHU2aXZuVUhrLW0xSzUyQkwxRkNmaDByVG83SjBCcXJmNEZ1ZE9xMTNaODJNZW01VG1XdlV4b2FlQzd0OTdRV0lPYldYc3puV3pVb0lkZ1Z0Vy1YVHpWb2hEWUpRYnE5Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "J&J Stock Up More Than 6% in a Month: Time to Buy, Sell or Hold? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0VmpsVzZCNm5BWGlZdkw3dGY5WmhoX3pfRXMteS1yNFhaLUQ5WTRnc2hXMFJqQzN4b21ycUhHMmhURHlpZlFrNHFPUmk0NUhTaEFVOFFHbDRPQ1FVRDU0UmFkWmhuQTRpaDRJYmd0dw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Jacobs (J) Price Target Cut by BofA Amid Sector Concerns | J Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGRoWnJWQjlXZzJ6X29jeUs0WUJ5T0R6aHdDOW1jTGx1X1RLbUwyUkxrM05vdVpSd0dwNGxaN1g5MHlKNk9LUDYzalJQbnAybC1faUZRT21MNmNjWjVvcHVRMWRHNXRuRzhmalB1UGN1OEF6Z25JUmpsQVhsUlV2TEUwbXIxcmRWcmFadTExVnlUTkJVSHJPUDZ5MmZTMzVFcUU5WFlxN09fZw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Jacobs Selected to Strengthen Transmission and Distribution Infrastructure for Bonneville Power Administration | J Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaU9JZjlVSnhmczRxamF1dDNrTUFDWThnbkJSaHhWcW9iaHJka0l2T0tVMkV6LWRlZ0xWeWtoeVQ0UzFicDNtVE5PdS01ZUdZenJXdndFZEc3eGFDMU9xZlhRMXBvMnBrdU9CRnROWGJHemVvdGhYbzJlNnN5MENGVmt0dTR4cFlLY2RqZmlrcUdvTmE1ejlUeVZjWWhKLXFrTExwOWI1b3pqb0o0bElSN2QwWHFzYktMMXhzekh4TDluUUNQbmk3M1BHdEY0d2xiS1ViZ3dvaU1SM0lVOGdPNDlsU1VtTjlJNzEySDV6UWF4eWxO?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Twist Bioscience Corporation (TWST): Among Nicholas J. Pritzker’s Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGZXZm9vbmI2eWttLUk1Y0YxRFZQYWVBWXJ5QnR5UnRBejNJYUlNRnlJMFNsNVBudWlJSDVuMHlFZGt5R2xBeUFJa3BMakZtSUFPZ003TElVWjY0eTR6blpXeGFzNU5FU01LRnJDX2RvaHF3WlY3RmJNNEhqVTRJaDM0M3ZQblhHby1MWmdB?oc=5",
-        "label": "NEUTRAL"
+        "title": "Jacobs (J) Price Target Cut by BofA Amid Sector Concerns | J Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGozQzEwcUV5ejh4S0FiTmd3bEdjdUpNSVRkN2hWc21WQnViczJaUTl5OTQxb09jMnlvd2pzWHo2QnN3VDdjVWlIZl9YeUJ4aUdmUkFseHRLd29Gb1JsQURQeDZtZFdhSEVvdkJzbE1YRHFaclptREo1M2x5TTBBLTM5eXh2SllSb1RMbG9ZbEVoYk16RXM1ajJ2YUI3S3pzaWs3b3EwN2o4SE0?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

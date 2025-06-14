@@ -2,16 +2,16 @@
   "ticker": "HPQ",
   "name": "HP Inc.",
   "sector": "Information Technology",
-  "market_cap": 23650895872.0,
+  "market_cap": 22458017792.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 9.684616,
-    "PB": -18.583025,
-    "EV_Revenue": 0.596,
-    "ROE": 0.18977,
+    "PE": 9.196155,
+    "PB": -17.645756,
+    "EV_Revenue": 0.597,
+    "ROE": 0.184080005,
     "ProfitMargin": 0.04636,
     "GrossMargin": 0.21154,
-    "DividendYield": 4.69,
+    "DividendYield": 4.68,
     "DebtEquity": null,
     "CurrentRatio": 0.733,
     "QuickRatio": 0.356,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.04811640996449399,
     "ROA": 0.063379996,
     "PEG": null,
-    "EV_EBITDA": 6.916,
+    "EV_EBITDA": 6.924,
     "BuybackYield": null,
-    "PriceToFCF": 9.030970746747412
+    "PriceToFCF": 8.570793623793135
   },
   "technical_indicators": {
-    "RSI_14": 39.93227575042502,
-    "Momentum_10": -11.75438730340255,
-    "MACD": -0.4468135213584219,
-    "BB_Percent": 0.200833234545826,
+    "RSI_14": 35.167023523814805,
+    "Momentum_10": -2.735604604109423,
+    "MACD": -0.5645968724414985,
+    "BB_Percent": 0.1905236617963126,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9440206671049212,
-    "QualityScore": 0.2856887431101725,
-    "SignalScore": 0.7457857560254715
+    "ValueScore": 0.9061771184903156,
+    "QualityScore": 0.2856167194584911,
+    "SignalScore": 0.6675113176800156
   },
-  "volatility": 0.026469553670787,
+  "volatility": 0.0264196094957435,
   "beta": 1.313,
-  "return_6m": -0.2914638320866192,
+  "return_6m": -0.2929051156748131,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 16,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 36.45
-      },
-      {
-        "date": "2024-12-10",
-        "price": 34.94
-      },
-      {
-        "date": "2024-12-11",
-        "price": 34.55
-      },
-      {
-        "date": "2024-12-12",
-        "price": 34.98
-      },
-      {
-        "date": "2024-12-13",
-        "price": 34.55
-      },
       {
         "date": "2024-12-16",
         "price": 34.19
@@ -537,57 +517,102 @@
       {
         "date": "2025-06-06",
         "price": 25.18
+      },
+      {
+        "date": "2025-06-09",
+        "price": 25.12
+      },
+      {
+        "date": "2025-06-10",
+        "price": 25.56
+      },
+      {
+        "date": "2025-06-11",
+        "price": 24.82
+      },
+      {
+        "date": "2025-06-12",
+        "price": 24.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 23.84
       }
     ],
     "current_price_data": {
-      "price": 25.18,
-      "change": 0.48,
-      "percent_change": 1.94
+      "price": 23.84,
+      "change": -0.9,
+      "percent_change": -3.64
     }
   },
   "news_sentiment": {
-    "summary": "HP Inc. (HPQ) a récemment déçu les investisseurs en raison de coûts supplémentaires liés aux tarifs, entraînant une baisse de 15% de ses actions. Malgré cela, certains analystes voient encore du potentiel de croissance pour l'entreprise par rapport à Dell Technologies. Cependant, des prévisions pessimistes de la part de la Bank of America ont contribué à une pression baissière sur le prix des actions de HP. Les défis liés aux tarifs ont également incité l'entreprise à envisager des hausses de prix et des changements de production.",
-    "sentiment_score": -0.5,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 1,
+    "summary": "HP Inc. a récemment connu une baisse de 15% suite à des résultats et des prévisions décevants, attribués à des coûts supplémentaires liés aux tarifs. Malgré cela, la société a déclaré un dividende, attirant l'attention des investisseurs. Certains estiment que HP est sous-évalué mais sans perspectives de croissance majeure. Les analystes se demandent si HP sous-performe le S&P 500 et s'interrogent sur le potentiel de croissance par rapport à Dell Technologies. En outre, HPQ a annoncé un dividende de 0,29 $ et un partenariat avec Pragma Industries pour l'innovation en hydrogène vert.",
+    "sentiment_score": -0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Why HP (HPQ) Shares Are Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iMkRwam9mT0M0R1N2WWdEY29DdWR3Y0JGamRseHQ2NnJveTNsOW52cVVJdEFYbHpycjhxV0twQlNWN3dhSEdCNl9OUXZRcEF2X1Z5QVhuelZlck41czF0UXJyb2c2NVppc1pqUy1zalBjU1dXMFdfYzFtRQ?oc=5",
-        "label": "NEGATIVE"
-      },
       {
         "title": "HP sinks 15% as company misses on earnings, guidance due to 'added cost' from tariffs - CNBC",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdlVqa2sxRGNyblpCUVM3d0tRYVV3QnVUaXd2UWJJR0x5dm5ieGMwTnFYX05MYml6R2lDNmRMN19BOGlERVRQdDhpUjYzenI5bWpMZFZNb1A5RnhiZmcwcm1XWElDYTkwWmcxetIBckFVX3lxTE5BcG1ROS03NFBtZlVOUE9wek9tMTlfNnptSVNoNEdlSTlBazBTZXdmSV8waXhITnFDeFNiVjZSWDNPMGxSX0hFeENjUDdlbWtzbS1HRWZzaXRBVTN5U0lCVnZxZ3FpQzZpYTZnc0tQQWdLQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "HP Inc. (NYSE:HPQ) Stock Position Lifted by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlk1b2Etd1ljaklyRWlEcVhTOWF3eGFST0o0R2pEd21JdjRxa2UzTFhBVmYxZ2JRck5PZ2NRX3g1R25OemRpZDl6S0lvY0ZyLXVGdk5UTEE4S0JzY1o0ZTRRZGNpTEFnVUdlcjVSeWFycjg0cG9oRzNBdFg5R0lmc0pnLWhRaVhlMC1aUDhSaWtQS1JNZU4wREtrYUV0RDJ4NzdTYW1NMDJubnFrYTFkQkhnLUVCaWdZSjNmcFZzbnB3bjQ?oc=5",
+        "title": "Tounjian Advisory Partners LLC Purchases Shares of 27,672 HP Inc. (NYSE:HPQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZE5OYW5MazhocGU5SUNhVnhfS1RwTlpheGV0UXJwZDRCZzhkZzVZM1RVdWhDcXRwODFLRDlJdEZRazNIeExJSU9Ycm1pLUhzZm5iOG4tY3BySDAxUHNIWC1QQnJXRFYxLUh5dktsUGNCcGtKaHpXVWhQeEpnWGV3d29vWHN3dy1oZDVPWFNlWnlUSFZvQlg4ZUpRc1ZSTEVaSG9NVXY1SWNieGJRalpJckNzcVZSZUZ1czdVRXNsY2VDQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "What Analysts Are Saying About Hewlett Packard Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUVxLXVRVEk3ZUYwSHkyVXJwUXh6ajNlSnk1YkQ1NHhpVHlsVVRRWE85Nl9NSkZhakZ4cThCVTlSY2VJNU1JTnA0UEhfNjFIN3JoLUdYMTFfZTNacVV6cGZOWmo0REhPNWc0eklfeDU0VURaNmVlRGk5SnE2X1J0XzlhNXgzbHFRUTU0TDJZTQ?oc=5",
+        "title": "Why HP (HPQ) Shares Are Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iMkRwam9mT0M0R1N2WWdEY29DdWR3Y0JGamRseHQ2NnJveTNsOW52cVVJdEFYbHpycjhxV0twQlNWN3dhSEdCNl9OUXZRcEF2X1Z5QVhuelZlck41czF0UXJyb2c2NVppc1pqUy1zalBjU1dXMFdfYzFtRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HPQ to Host Conference Call with CEO Enrique Lores | HPQ Stock N - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWpYRTZfdC1PcjRRb25uNkhZeWNUYzFla2ttMlpWX3ZPN0RRM3gxclFXdzVfVlFNMWZGLTJzNVJKY2Nuand5YWVHaU9YOTYwLTNwWXdjOE1zOEJSMUJiNFJHemVuS2U3RG9IVlc3ZVJBeWwzdDZweWtqUjA1Y0hMaWp3WFl3bkkyN0N0UkNlbU9RbkVwcWZuczBqTEpXOE41R1RCNlgxaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Dell Technologies vs. HPQ: Which PC Stock Has More Growth Potential? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2lWdEZnc1pYODZfTVE4amlvc2toVXlQMTRsaHRfVjl6RElUMjBFeGJZRm9XdGpiQnBlSjRGcHk0YTlJT25BNzFWOXJmakJwZ3JMZGZLY1FIXzV3MzBwZDJSM1Q1SXJFbTVrMUdNVzRqbV9EMzBBUkJnRm9tNlJNMTFiMmhZRm92dGdaaGxtTjBDQkdoOWtOZWcwRGM1VFN5dDJyVE1YRkNYQQ?oc=5",
+        "title": "Is HP Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZFQWRrM1VEMDNGcjlSLXZWWmxIWkx3VGIxaGJfeDJVMU8xSVg0ek9Qcnh1M3kxTXQzdjFIY01GV2VGMXRXRnVISU9sRDNNdVNRWFNJNmtoZmtGbWRHMFRIcDBsRGNWLWY1YzFjMnUya0Y1WGp4d2J0U3FZcGJpejR3MzR5SVJwWjVlYjltc0dicG5JNjZnVkdDSTFzY2ZlS1VJT3hodkhaVnV4bnl5SzJiRHl1ckllQm16d3VjbFdNLVU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HP Inc: Undervalued, But Don't Expect Too Much Growth - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVRVVGRvYkE1Qk1ESUFlVzRyNlc2M2lTVS1GYkc0QVEtN0V1SU0zYnhJUkhpQ2lhVlNPVjc3UEpkRUFmSXdTNHQtdUE0MzF0RUpRbk5aVlpFdHlWUi1FN3VWMzNFY3ZhejZsSlRoaVZlR2U5cVRLUXJ2NXFMVG9tRzJhNzA5dUg0eXUzbGlMUTZnbk1yc3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "HP Inc. Declares Dividend - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLV9oSjJKRWFCdmhnUjRCWEVmamtaUTRYYkY3cnlhM1ppOUdoay1NR1FERW54eFctSW9EdklrUTA2TWFqS2tMalNibXdWb2pVR0ZTUDAwSlUwc3NWeWN1WlpkcVZ1RHNVdVNwanJxLUI3cGxyMkZJZjQ2SXM3bVJSQnI3aFFkVkltWUJJM1RhNjdoRm9SLW1yZjNpNDg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Where are the Opportunities in (HPQ) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFN0cFk2cFZEb3dfTC1kS0daUjhpMFNXMXZpOG1VODBKajBHbFpRRUpLU2pRaC1JdlI4R3NJV3BXTDBNVWs3YmFpMXI0UHZHVjl0MW03MnJtSjJ2NVU1QlM1NjY1MTZ0Y1A3TXBWSGRYV0FNZG1uRTdhYlYtMzlXYUU3M1Nld3ZLS2NYVW55OXJpeFltS05Cd1ZDeTRrMV95OWdqNExXbE03T0Z5?oc=5",
+        "title": "Rockland Trust Co. Sells 52,756 Shares of HP Inc. (NYSE:HPQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1EzSWpwVEtxdkI5Y0h3dG5nZk9mS0lNeVNZaE5pNGVXd0xua0R6dFMtZmFYczRaVTFnenF5TU42YmdfNk9fN2ZhWG1pS0tBMjB4cC1vbTdnUFdLNDg2Wl9JTmF0c0xuZS1ZSnEtZHFXbHVOOFpNT0g1MG1jVzFGVUJtcHBBamdfZXRSazBlekQzdGxNbUVnRWNUbGM3eVBXSkV6cklfZkxxS2Y3SGVjS3VRWlczZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hewlett Packard Stock Is Trading Higher Wednesday: What's Going On? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmlVMDM2V19weS1JVFRTZWVPb0tOb3lCcFhiRFBsR1k5M3E1YzVHb3pfS2JkY2xFS1JnM19lVDFiRzVVVWFCQzdBSzM3ZldzcUxTdjNJWGw3Q0ExQ3NjemlxX1BaaVVuVVktUDVzVnlhV0tCaHFrM19pYlFSaWpwNDJuWDdwT09fRWgwaTlVQjNBbWp2amNaRVB0N1pNYkVuT0hlRmdObFlnSlZyU2JYT1BycTJjU3RPUGc2MlNub0pWaGc?oc=5",
+        "title": "HP Inc. Declares Dividend | HPQ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1JVSXdPX3oyb3o0SVctTzdWa1BBajhvUHNqUEdJQkNGTVRYVnpFSWhfNGNjbm1xV0tpcjVFR0dXVXdXNG5KTTZlTEdZTEsteFUzZ1ZuLW5TRy1ZZ2VWbzczbUZzT25yemx2M2NjRmtMLVQwdk93dmR1YjdBUkJYX3JkMHdadVAxSkNYY3hkMDFIXzF5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Highs And Lows: HP (NYSE:HPQ) Vs The Rest Of The Hardware & Infrastructure Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGMnZPbjZza0k2QzZYSE5aZFFwUUF1RnBSMFpWbWRyTXY0WmhIakRrUWdnQnJWV0hVNklJWmM0ZE9idTJmREFhdkV3WDlydFl5ZzEzeXZjRHhOYjRCTTYySTBncF83UmpHcUtHOUNJOTJtUEowSm9XYU52TQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SG Americas Securities LLC Grows Stake in HP Inc. (NYSE:HPQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0hSeGo3UlV6RTBUZ2NER2pmaUJYWTIzaHVwVGNfME1pSEp1ZkxISTVoRENxNUMyYXYtVkxOblVVN0FhSGdySFQ4S0I1c1QzcmRvNjdqTXMyekI5S05qUEZocGlFUHBfTlRJUVMwc2JyX29mUWVpZk5pU18yLUZIZ2owQUxjQjBYaDB2ZG9SWF9wc3hORFM2SUhUa0xVY1RsdWsxN0J5Q0pZZ2ktTXpvZ2hHWnlKV2s1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HP (NYSE:HPQ) Declares US$0.29 Cash Dividend Payable October 1 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53WnJQb2lpU0lMLXU5bW52d19jaTc5aEgxY0wza0dTenVwSHJCMGRCdlFjcS12bzNrcl9lV1BwajRPRV9SWEtxYmt0eEJ1bEQ0NTFjdW9pUkEta2ttZlE1clpELWxLa3JSbkxLQ1hvLWgyMlBINHBmbw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,19 +621,19 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Rhumbline Advisers Buys 11,993 Shares of HP Inc. (NYSE:HPQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3Z0X0VDZmJETmRLUFQ2RzNPSUFyWW5yY2pkOVR6UmhGM0YxTDZzYkpxZkF0RXNMNENKTXhsX3JBNmh5NV9fUUxyeHQ1QnlXOG5QdGRwQ2ptaFlJYnZCYUFsaWtlMkozbWg5Q3RVN2RZWjEydDJsWC1CS05uNlhPdk1NNDUzYzhqLWRHanVHYmNKNmlzUDJ3aDJ0cXBobVN6VWFWUTNNS0NWdEtJSXdrQVBLempScG44Q3MwUjVaRmlOUFRRRlA4OQ?oc=5",
+        "title": "Vest Financial LLC Raises Stock Holdings in HP Inc. (NYSE:HPQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkMzS3ZNc3g4RUQwN2s2MDV6TE5ucjZRbVk2enZObVlOUUNZWFpfQnJkSXQtNVNVNDFOdGtKUDg2WlNiUkNXdXJxekJVS3o2M3N6SjlXOHRfZFdYTk1sbmljU2gzcDlUNjhuRTRVaE93TFFETzRjZHE2TWpRVWZlX2dPSEN2dkhiajR0dU9mRjJRNk45cjhTcWEycGFPUThmM1QxaTlXQW9fUXNBZWR4b1NmT2diQzdPOExZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Don't Overlook HP (HPQ) International Revenue Trends While Assessing the Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGRQRUNnMFJQc0o1ZXNnaXdFcDR1WFFuQkZVTExxZWs4MjdNclR5alprdkhzcHVBWXJIM2JDcUpneG16VXNFdktmVnlOd2NxMkdXTDY3Vnk2ZnUtUFNXLXVRLXIzTVFUM3phZFEzTWFDVFZoQlpYNHp6c0NDYWh4dTAwNW4ybEU?oc=5",
+        "title": "Dell Technologies vs. HPQ: Which PC Stock Has More Growth Potential? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ydjc2YW45d3pLekN0MW5qbEtmcGQ4OTZ5TWhReURBRE4zeVRmOGM1dktWd3JfNUh2ZlgweVUyU1FOZ1FMWnFMTkxIZEtfTThGMEprUEZGeXJSaV9QbTBnYWFDRG9SYWdLcUZuRDRTREdNTmFIdGhfSFZMeC1SZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HP Inc. (NYSE:HPQ) Shares Sold by Neville Rodie & Shaw Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHRTOFU4dE9vOUI1eUw3dnJDN3pTR2pBTUFnM0M5LV84YzB0X3d4ai1LWVJoaV9JbWxSaF9mbXlMenRscFktdV9uSTJkZU5SNWVUTjF5WjdlMVRrck1lLVZYa2tmX0RxRUxMVUkyNE1kb2ZfSDNzMU14Wm9mcHdKREJHeWJSLWxrdG9WWG1ycUl5dTh3WTJBUDdtS1U0alBfc1N4bkIzZW9jckg4ajB1dkg1eGFicm5wbm5Feg?oc=5",
-        "label": "NEUTRAL"
+        "title": "HP (NYSE:HPQ) Lowered to Hold Rating by Dbs Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckJLLTZDM3A2eUNMM203MTFtRUlLYmZlU1c0Z2R0dFk3dzJMYWJYVkI2b2o2enBVNVVVb25aODl6OWUweVJ3Wm05cTVvTTFRVzM4Uk9SVkNjdjVrZ3pBV2tkNGhjNHNJMG9FSFdCYjVxSmRmRHVJbFc1MlNnUEVjc21tLWVrYkxXZ1d3dzE0U00wN2VETmNxRzlJN2gzdw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Should You Hold on to HPQ Stock Despite its 16% Decline in a Month? - Yahoo Finance",
@@ -616,46 +641,21 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Bank of America Issues Pessimistic Forecast for HP (NYSE:HPQ) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeS0zVFZKUmdFOWxucHdHNTZPdzlHMGdlakVGV2F6eEhrMkRGZXBWTHBhWUZ1akM2M19zZm9MR20zZmlCdG5ZSV9IOVo1SkdUQWU4bndXazYtMThLRTl4UC1FNGY4ejZBT2VTV3FxdjFYQ3Q5N3BiTWFiWmsxQWRpZGNWNlE0V3dqV3hKRTFINVdiNFNlLUR6NEpFYm1BMmRpb1pUMXZ4RVVNMjA3ZUp4WDJDUkdzYVhIeW4zOQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is HP Inc. (HPQ) the Undervalued Quantum Computing Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2UyTzJpeXVNSWlzUXg4YnhaWmNuMzhnQWExdFpEZkRxV2VHSHZqMWV0M1c2cTlDVklFV2N2MlVLenl6MDFENExXRlBtNjNaaUJmSzZwaFNYMFF2dkFQZlhrNjlLSC1ZRGdrWHdQU3hMZG9xSlNWdjNkLWZNNVF2Mnl3?oc=5",
+        "title": "HPQ Gears Up to Report Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSHBGX2gwbC1jYV9FUlE1cTNxYkxDb05QTHlSR3ZibFJ6ZnI0SEMtQnMwNy0wclk1SjdiZF9UVEVyd1EzUHF3UEc0MWNldW4xNFYtU2NadXhkSWhHR0VfQnN2UjZBUkZxaGg4dGxvZlNjRmhMSEw1WGRwWnE1UUk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HP Target of Unusually High Options Trading (NYSE:HPQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVZhR2c2QTBzNlFWd3NZTUxVSmh1VTlrcHd5b1hNTlloXy1PZzE2WmNPaUtRQ1VmM09zX2RXc2FibFNreWlKejRpZU9nVlJMSklXcVFLZzZUX2tRcW5MSE1uYXg2VWZma0FjM1k4cVZYN2xxZmlyZlN2ZU1uV3Rleld5Q3B2a1NNbF9OY2l4a0pNXzIyRjhPRXpHdnZJV1dHVW5XMmZSdGg?oc=5",
+        "title": "HP Inc. Announces Quarterly Dividend of $0.29 (NYSE:HPQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWNfZ2VYbUthclllZGFmR3owY3ZlZkhQQzc2cDl1Z2UtUzhOYzBpeGNvUk9zTGp5RWhOaUxaWXZ6VGN3WWtudm1GMkU5ZVJjajBGZE9JMEdQbE9fUlgxQ0s3TFhlQ1FETVdrT3VZZEpnYUVvRk5mSjVIbmlOcnZQbE5jNU1SY0hzTzVLeEEwQndIbFI1dEREUGoxRmdQTTB5bUtrVjNDWQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HP (NYSE:HPQ) Shares Gap Down After Earnings Miss - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjkwZzZuUjVJSXNzWWlOQURraS1qcW5KMlc0ak1WUm5sOEFEVkNfSFNHdTltQ1FKbXVoN1RlMkRaR2lpTDdza3dSaEVIYjEzdkdvQ1JGR1NrckdpeTZabHZMVW9jZHdacGNfaXI0bFk0M1lSVVZwWEphbXdKM2FfdkpXblVSb2tZWk9hS1Fnb3d6VC12X1VOZWZYLWVOZHdZeUE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP Inc (HPQ) Plans Price Hike and Production Shift Due to Tariff Challenges | HPQ Stock News - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWlMU29WV3Ixc1gxekpnMHl6Q3ZCSnFMUXI3RFJzRjZibldyb2hSb0V6VzBUOVRZay0zRDF0b0p1V3hDaVNUTmczMkw1UGFHOF85aExrN3A3VWNGdmExU3cwRW1WcG14dnBnc1dEMldaSVFHODNuRGJQLUtDQzBBbFlpS09qOTg2ZFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Milestone Asset Management LLC Decreases Stock Holdings in HP Inc. (NYSE:HPQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGhaejE3ZjczN3RTcGNnV0FpQkFsQ0JHM0twdGE5UUNIM29WLWFDOFd3cWxzWEV6My0zY3lfNmJFRWFaa2ZsaGdrVUx0ZkxrS3Y4ZlRUSGtiNmEyNTdaOVdyUENFY3RhY3VvWGhYS2xXd0dxSl9pNmJybEtPLW9jbTFvRVVVUXYxNGY0bkhoVm9NRWU1MEp5bUZWT1NSV0NQM2FmaHBaMFBLVnNnSmtmQm1ubGJwZ2FEUkNCUFln?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP (NYSE:HPQ) Issues Earnings Results, Misses Expectations By $0.09 EPS - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUIwNzY0aVlZTGE0X2FXN3gyUWdhaXI1Y0Roa2tIb29iWU01SXRKaDMxMVd1eW1pc3BTQlc3TVNWSlpNQVVHWHU4ODFWaDNjdGs3UEhSSThvUTNySHp1ZVVaaTlsUlBfZVJpVE8zNDNDeDRHeTdsRUdXUjV5MjJzNGxtSXVQLUNLR2FXOU5TRVB5ellReG1VWDNQWUxRZUViZEVMSmh2RG1TdS1mY1dPVkp5OTE4S29ZWldwZGRn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP (NYSE:HPQ) Price Target Cut to $26.00 by Analysts at UBS Group - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc19fV1Q4Z1REeFp4MGxEajYzRmJad2w1NlBZWmtKSUtwekhUSzFTeVUySTRER21DTDhtblJUTVJGRGNPQk5mTl80U1dqZ0s5Zjh3dWdBU3FXRDNMVFVSVGk1M0hWSm9FVDFHcEN0NzQ5Y0NrMDNSdnItQklfRmp1OS1ZT3k0X1R3OFFXZDBkMDNhNl9wdWNTUWdfc09iQy1QbjNwMDRnNzRfWkV3dzFvbHFjVkNtUQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "HPQ Silicon Partners with Pragma Industries for Green Hydrogen Innovation - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM183WVJhQWd4YXdqTVRYVFBRVHFXaDJmRUhXOXEyQ1dpckpHMHVZRGpXcnR1RFFxT09UeW1FMlhDSXBYeFZuSFNuZWFlSWp6MjdINXFobGlhXzUtb1c5eWtZR09Zc0lRUE9UcHZ2ZnpIcnF0RDFDMTVQSXZlakhlUDk4LXduY3B0OWtEZ0tzSHN2UmxVMTI1QnZtZWdsejNQejFidWhpaDdlM2xSWEcwdEMtZEVMX0dOMDNCTXJpbVJNUkE?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

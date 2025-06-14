@@ -2,16 +2,16 @@
   "ticker": "TER",
   "name": "Teradyne",
   "sector": "Information Technology",
-  "market_cap": 13726338048.0,
+  "market_cap": 13404694528.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.239378,
-    "PB": 4.914422,
-    "EV_Revenue": 4.362,
+    "PE": 23.671387,
+    "PB": 4.799265,
+    "EV_Revenue": 4.592,
     "ROE": 0.21551001,
     "ProfitMargin": 0.19860001,
     "GrossMargin": 0.59365004,
-    "DividendYield": 0.59,
+    "DividendYield": 0.56,
     "DebtEquity": 2.458,
     "CurrentRatio": 2.705,
     "QuickRatio": 1.492,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.17186270296481643,
     "ROA": 0.105579995,
     "PEG": null,
-    "EV_EBITDA": 17.529,
+    "EV_EBITDA": 18.454,
     "BuybackYield": null,
-    "PriceToFCF": 27.423650210039273
+    "PriceToFCF": 26.68802646385266
   },
   "technical_indicators": {
-    "RSI_14": 61.55470878047368,
-    "Momentum_10": 8.892857111613603,
-    "MACD": 0.952306459639729,
-    "BB_Percent": 0.9688031999821812,
+    "RSI_14": 53.12561000991814,
+    "Momentum_10": 6.278632676580933,
+    "MACD": 1.7508454724285656,
+    "BB_Percent": 0.6130536478183318,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9306068838621568,
+    "ValueScore": 0.8814796875496612,
     "QualityScore": 0.3045227213491811,
-    "SignalScore": 0.4495998557399834
+    "SignalScore": 0.5340742515951782
   },
-  "volatility": 0.0366105025636547,
+  "volatility": 0.0365924989875765,
   "beta": 1.673,
-  "return_6m": -0.2761249287431532,
+  "return_6m": -0.3201083890790758,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 16,
     "target_mean_price": 96.48625
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 119.56
-      },
-      {
-        "date": "2024-12-10",
-        "price": 117.03
-      },
-      {
-        "date": "2024-12-11",
-        "price": 120.2
-      },
-      {
-        "date": "2024-12-12",
-        "price": 120.95
-      },
-      {
-        "date": "2024-12-13",
-        "price": 123.22
-      },
       {
         "date": "2024-12-16",
         "price": 129.48
@@ -537,43 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 85.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 86.8
+      },
+      {
+        "date": "2025-06-10",
+        "price": 88.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 86.79
+      },
+      {
+        "date": "2025-06-12",
+        "price": 85.91
+      },
+      {
+        "date": "2025-06-13",
+        "price": 83.08
       }
     ],
     "current_price_data": {
-      "price": 85.23,
-      "change": 3.49,
-      "percent_change": 4.27
+      "price": 83.08,
+      "change": -2.83,
+      "percent_change": -3.29
     }
   },
   "news_sentiment": {
-    "summary": "Teradyne Inc. (TER) affiche une performance boursière solide, avec une hausse significative de son cours et des recommandations d'achat vigoureuses. Malgré une récente baisse de 28 %, les résultats financiers mettent en lumière des gains de revenus et de bénéfices supérieurs aux attentes. Les analystes soulignent l'importance de surveiller les tendances de revenus internationaux pour une vision complète. Bien que le marché ait connu des fluctuations, l'entreprise reste attractive pour les investisseurs, notamment en raison de ses avancées dans le domaine des tests basés sur l'IA et de sa distribution de dividendes trimestriels.",
-    "sentiment_score": 0.1,
+    "summary": "Teradyne (TER) a récemment connu une volatilité significative, notamment avec une chute de 28% de son cours, due à des avertissements liés aux tarifs et aux restrictions commerciales. Cependant, malgré ces turbulences, certains analystes recommandent l’achat du titre en raison de la domination de Teradyne dans les tests pilotés par l'IA. Les investisseurs devraient surveiller de près les résultats du premier trimestre 2025 qui seront annoncés le 28 avril. Bien que TER ait enregistré une hausse de 3%, les incertitudes commerciales continuent d'influencer les mouvements du cours.",
+    "sentiment_score": -0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Teradyne Inc (TER) Stock Price Up 4.56% on Jun 6 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTNCWFhuQjc0S0tGNk5aejZjcWFYUFhTdXZoT3pvX050REpHMjVtYmFDSHpUN2JaeVlGUERybFZzcl90dkx5MTNDNTFHQUJIclM1UHVwNWlBdXJlYWRuX3ZFeXhObmZmcTNCSHhGRHFTemJHZUw1SFhmWUxpNW5MdXMxQlVTTkUxdDdJ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Teradyne (TER) Outpaced the Stock Market Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVdRenI2MTlFSlJMcFFaX0N3U0pqZk85WlhjT19vRnFVUG0xVUh0bUV4SEVEUFdyZk9UTTE2elluNnFHdnVGamhnMzVsVy1SQ2NVTUg0Q2hIcGUwNER0eDdyeDMweDQ0MmdlNTIyZDVYdkdPbXZRZmdQbTVrRnp5dmJzbw?oc=5",
+        "title": "Why Teradyne (TER) Outpaced the Stock Market Today - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0JObEJuV1lPSW43OEpZQzlVX0cyUW9IeWRfdEdUbHpyTU5EQWpFNGxVanlHYUpkR2hVZ2owTEVFTVdIbDdyTGZLeXdRd2ZvdUJJTm5PZDB4c3FyTWFqTGNGdVpta0toczIwWURRMDAyZzlxbU1XaHVaRDFwUlpTTldqQ2s?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Options Corner: Teradyne's Value Proposition Also Bodes Well For Swing Traders - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhUcTB1VU1iZlFObi1haXFncmMtQzhEZi1ES0E4d0tBNHVDQ0RlbmRyUkJRams2andwamN2V2V6TEVLc3p3V1luVmVVWUJOWnVhOXUtU0dHcFg5aFhQOWgwTUZMN2pwNUhXUnoxLU1ZLV91SUY3YkRiSkJDcGFIQmdJT0hqQ3piOGlicGxfNm8yQ2U3aFJkTXN0ZnlNZEpCTVgtQ3M2VkZqRGV6SUZF?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "$TER stock is up 5% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdlkzVW5pVWs0MzViemJSSGhBSlVSZHRUekpYclRjRWY3Rm56UDItTmcwMDBGN1I3XzAtakJCQk8tdlVqcURHNXZKUmt4UkxRenBrMEZFQV9fR1J3UFU3bWJyMnJheDJPaWpNdm1hS3ZESHpRWG5XbjVuQWllUy1ESnpR?oc=5",
-        "label": "POSITIVE"
+        "title": "Don't Overlook Teradyne (TER) International Revenue Trends While Assessing the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0ZjaEtzUE5pd2g0YmN6WVFBSGl3QWpUOUZubDNfOVhCakNGUDQ4aEZreGRzSEVVV3pvUXNhWnJQckNHS2JJSXVyTDQwMUZ6b3NUQTI1YV9XWHpwMGFVd2dwVi11LVNFY2NmWUVpM21JMUJfZ2NsNzBxSVFUSUMzQUJmZnRsMlhLSURTeGFqWQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Teradyne: AI-Driven Test Dominance; Initiate Strong Buy - Seeking Alpha",
@@ -586,18 +576,28 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Teradyne Declares Quarterly Cash Dividend - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbERZZnlFQWp3dTVVSUstcTRTY2hHbk1rZUhCQjlYc0oxbGZWckNvQkVoUTY4S0JFZTkwMGVSMERzOFFCSVpUeFdPNFZGaHhkSlV0MDVzR3ZuSXhGblVFSnZvZW8ySDJSaXZyR1F0NnNYaVlmaXpvRTNNMzZQdXRrV0NEVkNRWDBQLWFDRzdlSQ?oc=5",
+        "title": "When (TER) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDlNVHdGQVNyb0UtU2lSNGQwX0l5RlRRUjBqbmVYM0lZQlpCaDNuUHJFYXAtcVNibXhFc3p0eXVmcS1RSnV0em5SS3RlUDZ6d1RXNmhWcVo5d1ZNTm04SGl5ZXkxQXk2MV8zWE9ueHh3X2RheHQzSHZJV0U2YmM0aFpoTXNHa250R1BzWlRtSkhXa2F2bDF5cFVlcEdEN2NPQThod3NkVzNKblM4ZXlGamxPRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "What Are Wall Street Analysts’ Target Price For Teradyne Stock? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEQyWGRXRHFwdGxuNmZOUnYzaTJTYVhsNjMyOFVMc09DNFRTMmRUMUh1S3RGNnk2TGdyZjJKS0tmSjFVaG1QR2RTdUhjNDgwU3dhZVBsbWc1MmZiaGhRQ0lLeW1pS1pvRmRzWW1QRmxCeDJfWnNZMTB0MFlCdEdUN2U4WmwwNFNYM0FmdldPakZoYXllbXp2dDZJQzV3VV9OV3VBc3pLb3lRZw?oc=5",
+        "title": "Teradyne Stock Plunges as Firm Warns About Tariffs, Trade Restrictions - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNm9odUlhWmN1UGdTNVR1NlhYS2g0cktGUTdyLXlBM2FWd3ZWMnZ0YUtsT2RXRHhpR042TjJINnJkdHVxR2syckxTR1pFRkFoeS1DWWxsNXJkSm5ueUszVXkxeFg2cXBURUNhZVRUX01DNm4xYkJ3N3hwT1NVdjUyTm1TTnEtTzFVMkNjSlZpTTRJdnVLbmVZRzZKZGhtOEl5ZGtpaEtMLVNNSWM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Teradyne Earnings Alert: Q1 2025 Results Coming April 28 - Key Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYW9iSjBBWHh6R29sNWlpRkpLV01YcjhrcHc4N1VRS040UGZjVmY4LU1kRjdIQTNISERIdl92YnBGa0xWV21QR0F6TnhaQnk1eHpFSWZtRkg2em5ybXpJaVlTWExCZG1vZEJ0dk5rbFpFT0lQTWpPQ0NsWEJKR3JmYVBQSWtqUjBza1pjeU1NVWp6NG51dUI4MA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Don't Overlook Teradyne (TER) International Revenue Trends While Assessing the Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0ZjaEtzUE5pd2g0YmN6WVFBSGl3QWpUOUZubDNfOVhCakNGUDQ4aEZreGRzSEVVV3pvUXNhWnJQckNHS2JJSXVyTDQwMUZ6b3NUQTI1YV9XWHpwMGFVd2dwVi11LVNFY2NmWUVpM21JMUJfZ2NsNzBxSVFUSUMzQUJmZnRsMlhLSURTeGFqWQ?oc=5",
+        "title": "$TER stock is up 3% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONmdaaVFRb0tDT3BCeU5WRUxlbXFBbHprT0ZqTHNubnpqMWxDaFVZem9DM0dfTDFFbHJUZWMxRnpjTk5GRWtSZ2lJVG5acW1nZ3hyVU9XdkRDeHlvLWJKSHFDRGdDUnNVUEppMzh5eTF4STh6QWpmdjFXcXZVRVk0NEN3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Teradyne (TER) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVdRenI2MTlFSlJMcFFaX0N3U0pqZk85WlhjT19vRnFVUG0xVUh0bUV4SEVEUFdyZk9UTTE2elluNnFHdnVGamhnMzVsVy1SQ2NVTUg0Q2hIcGUwNER0eDdyeDMweDQ0MmdlNTIyZDVYdkdPbXZRZmdQbTVrRnp5dmJzbw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,13 +606,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Stocks That May Be Undervalued According To Analysts In June 2025 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHR6d0xQMXRfU3dOV29pRVFpMDgwMWR2XzFfWUpUSGxiazZSeWxyODVXcF9ITkQ2Q2VDVWFOUDBYSU5LMzk2ajctSW9Nemxjd185U2pYcHlLbm9rQ0hxNURUbmh2S2ExVHBWZmFmMnlWb2lMOUg3MnhfVEpnZTU4X1pwNVByTUY5NXloTC11X2d6MkpvSkpGVzFTb08zYmlMYjhKX1hiTXk3OTctM05lWlFETVIyQ0JIaHRqc2FoakpabENRcm9TMWhjd9IB0AFBVV95cUxQQnFqTy03WC1Pc016MUdBOGxpd1VZNVg3RUhzM2Z3eGN3TUxmcVFVUGRTQ0dUUHVzMlJMdGN1SlBqUlRUT3ppcUZ2MGdtZU1Pd1BNZTJYY2RQZVJxUl9qM3dlb3VsUkd2RzR2NEFpVDE4d0hMOWdHdFU2QlRWcy1iQ1pvcFJQcm9uOERvWVJKU1VqdDBPaHUyMTdORV94QnFsWUNwLThMci1TbkMxeWJRREJfYkhTRGN5Nk44Wjd1U2JrYm1LM1p3TmllX2RpN0ZT?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Reflecting On Semiconductor Manufacturing Stocks’ Q1 Earnings: Teradyne (NASDAQ:TER) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVG0ySV9qYnN2d3RNeGJldF84NFF2cVdkLW1pV3FQcGppdHY1dGVzTFpGeVRXdFphSmRWa2Q3T3p0TW4zLTVRVGVqWmlXZkF2V0pBQTdaVFZHRm1oSUg2WUZTSzhucXZ6X1BLemwtdnBCcWNqTVNRVmN3NFVoRjRkUmlyaUlwejVnVU5kbktpSzZjM3pGWGtBMmtB?oc=5",
+        "title": "Teradyne (TER) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOE8tZk9jTnNZMXM1Uk8tdXdjSjY5TmtGa0JhMkdzNTVTeEw2QlN6NU5WdDVUTFhjTGZiY3JnRHdvdUxweUI2Nk1pNFN4RzZaWkJ2cXhHa25uVHE2YXVrMnFSX2JEYmdydVpmRkNJSmhWLTFoeUt6UGlSUkxQOEFET0RrbHQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,9 +616,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Teradyne (NasdaqGS:TER) Stock Jumps 10% Over Last Week - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2VqcTZKVk92UG82dkpQdUtsVmtGVmlxWW9VRXQ0VnZtR0tNNlJocmQ0ZXNPeUF2V2dqWnd6aDV6X1ZYQVZ0WmhzeFJpVHVieDlUSmNWWG85ZXlUZlFQTnRwM2Rzakk2dlF6UjBld0gtYnBFU3UtR1FISndoSmc4MEY4TUJldw?oc=5",
-        "label": "POSITIVE"
+        "title": "Reflecting On Semiconductor Manufacturing Stocks’ Q1 Earnings: Teradyne (NASDAQ:TER) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVG0ySV9qYnN2d3RNeGJldF84NFF2cVdkLW1pV3FQcGppdHY1dGVzTFpGeVRXdFphSmRWa2Q3T3p0TW4zLTVRVGVqWmlXZkF2V0pBQTdaVFZHRm1oSUg2WUZTSzhucXZ6X1BLemwtdnBCcWNqTVNRVmN3NFVoRjRkUmlyaUlwejVnVU5kbktpSzZjM3pGWGtBMmtB?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Teradyne (TER) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
@@ -631,9 +626,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Teradyne Inc (TER) Q1 2025 Earnings Call Highlights: Strong Revenue and EPS Beat Expectations ... - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FMTRSYktqQ0J3ckZFRUFHNkZBZ1dUaXR6OGsxcHNEMWJkTVl1QTBOMHN4cE4xMGgzWlRDUGZCTFVQYzFlbXJ0cTFBV1dZdVM2TVItLVdyUklDb2U5NjVWc2RWSldYSHdBODk5YWdVMUhmVHZ4bGhPcm9B?oc=5",
-        "label": "POSITIVE"
+        "title": "Is Teradyne, Inc. (TER) the Best Semiconductor Equipment Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0QwYUF1R2ZjcDBTLVFnWWU2MG5aNDIwaVd5MjhQNU0zNkFLQWtMeU5OSkVxYW9rQTc3MGhxb0Uya2dBZV9LUFlwSkotT0x0TVBRTDRGbGxiaVJHMl9vdjlWQ21wZUNSdUZqbEp0VXNYR2NxN2hWSThtTW1majNaVUFjWlR1TnFH?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Brokers Suggest Investing in Teradyne (TER): Read This Before Placing a Bet - Nasdaq",
@@ -641,21 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Teradyne, Inc. (TER) the Best Semiconductor Equipment Stock to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0QwYUF1R2ZjcDBTLVFnWWU2MG5aNDIwaVd5MjhQNU0zNkFLQWtMeU5OSkVxYW9rQTc3MGhxb0Uya2dBZV9LUFlwSkotT0x0TVBRTDRGbGxiaVJHMl9vdjlWQ21wZUNSdUZqbEp0VXNYR2NxN2hWSThtTW1majNaVUFjWlR1TnFH?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Teradyne (TER) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOE8tZk9jTnNZMXM1Uk8tdXdjSjY5TmtGa0JhMkdzNTVTeEw2QlN6NU5WdDVUTFhjTGZiY3JnRHdvdUxweUI2Nk1pNFN4RzZaWkJ2cXhHa25uVHE2YXVrMnFSX2JEYmdydVpmRkNJSmhWLTFoeUt6UGlSUkxQOEFET0RrbHQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Teradyne (TER) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0Y4MExsZTA3Vm4wUW5MREZxbnlxNkpiMXRkX2VhWi1TNHg0bEZZR183UEJxRFpBOUcyRWhZcjBwVzlfaXhuWmZnTDR4YzNBY0Iyc2xOYjZKdFhENnRHUjl3bHdCcHM1MzJ1WEFYZkp1Wm41dVFTZl85SU9oRlJ6YnZYN2ZZUQ?oc=5",
+        "title": "Why Teradyne (TER) Shares Are Plunging Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXh6THp2b2VJaGpvWDZTX1l6LTFHeXY5Mm0tTHhvY3RaaS1iR0lzSHVJSHgteFphcDJlaGVmVHNNMXMyVlJ0QWRYMU0wNGZGdkRJUXBhMzdhYlZOb2IyUnhVNFdqejcxaVNrcDVzSGI2LWNfNWN5UWZxSWVLNlhOQlFhVzY?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "What Are Wall Street Analysts’ Target Price for Teradyne Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtYYS1yNXJJdV9mQTFfVmFUZXlnWEFZMURaY2p1ekRfUlhOdGhxbkktWEUzSlJfdVpYQkpJU3Bsa3pnVkgzX3RaMHFTTTFibXVnLVFSZS1xb0lTdVpPTTJfNWZpTHpCb3FwcTFfTTA5SGt1U0FtRzlGMDBfaWJMMUVwVDNzRUlRdGsyODliamhKcFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Analyst Projections for Key Metrics Reveal About Teradyne (TER) Q1 Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmFGYXpHdVVxZVJ6elFsUXRlSHZQaDFIMzRzNnVPamJYRlBET2ZwVS1PQlQzQ2NNWC1lMUNTLV96VzNfT0pFTDZJTjRLMUFMdWtpb3FqWXVnSURBTlB2ODJpVVRWZEhwWkpZXzdVdWp1Tk52SXlOaFdZdFVtZ2piTWZBdGlSSzlIckFOck9RdXFFUWw0WnRMUmkxRDFFSm5zTDlHaW85V0U4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Three Reasons Why TER is Risky and One Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DTmR3S1pobzk3M1ptQ210aW12OC1JZ2lRSHloQlFEUWVqMGFhWl94ajF6YUJvWHktYV9DbGQxNG4wZlUxM2lZTmFTUUJUalhMRzFnWGNCUzloS1hNWXYxV2JtUHNlLXpURTJWeU1DQTRzSjJocWwtSGFSSFpOZw?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

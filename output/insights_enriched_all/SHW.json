@@ -2,16 +2,16 @@
   "ticker": "SHW",
   "name": "Sherwin-Williams",
   "sector": "Materials",
-  "market_cap": 90211344384.0,
+  "market_cap": 84540243968.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.992447,
-    "PB": 21.737925,
-    "EV_Revenue": 4.457,
+    "PE": 31.885633,
+    "PB": 20.371378,
+    "EV_Revenue": 4.439,
     "ROE": 0.70217,
     "ProfitMargin": 0.11634,
     "GrossMargin": 0.48718,
-    "DividendYield": 0.88,
+    "DividendYield": 0.89,
     "DebtEquity": 329.968,
     "CurrentRatio": 0.767,
     "QuickRatio": 0.393,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.0817313770048698,
     "ROA": 0.09887999,
     "PEG": null,
-    "EV_EBITDA": 23.16,
+    "EV_EBITDA": 23.065,
     "BuybackYield": null,
-    "PriceToFCF": 47.736754357746214
+    "PriceToFCF": 44.70479578464993
   },
   "technical_indicators": {
-    "RSI_14": 55.89717174278542,
-    "Momentum_10": 1.9755492757630737,
-    "MACD": 3.121104274508184,
-    "BB_Percent": 0.7005622494346778,
+    "RSI_14": 34.97504165358076,
+    "Momentum_10": -6.088180755647934,
+    "MACD": 0.4491838301594839,
+    "BB_Percent": -0.4136447273739213,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9213461453375434,
+    "ValueScore": 0.8732423937682845,
     "QualityScore": 0.3471930377130379,
-    "SignalScore": 0.5400905887337137
+    "SignalScore": 0.6861504044710178
   },
-  "volatility": 0.0163611030692413,
+  "volatility": 0.0168754555724205,
   "beta": 1.212,
-  "return_6m": -0.0607933531592,
+  "return_6m": -0.0708170357460181,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 377.49304
+    "target_mean_price": 376.62347
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 376.45
-      },
-      {
-        "date": "2024-12-10",
-        "price": 371.6
-      },
-      {
-        "date": "2024-12-11",
-        "price": 371.94
-      },
-      {
-        "date": "2024-12-12",
-        "price": 366.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 364.5
-      },
       {
         "date": "2024-12-16",
         "price": 365.03
@@ -537,28 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 357.48
+      },
+      {
+        "date": "2025-06-09",
+        "price": 357.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 360.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 357.13
+      },
+      {
+        "date": "2025-06-12",
+        "price": 356.2
+      },
+      {
+        "date": "2025-06-13",
+        "price": 335.88
       }
     ],
     "current_price_data": {
-      "price": 357.48,
-      "change": -0.59,
-      "percent_change": -0.16
+      "price": 335.88,
+      "change": -20.32,
+      "percent_change": -5.7
     }
   },
   "news_sentiment": {
-    "summary": "Sherwin-Williams (SHW) semble être un titre en vue sur le marché, avec des signaux mixtes. La société bénéficie d'une croissance à long terme impressionnante et de prix plus élevés combinés à des coûts réduits. Les investisseurs se demandent si l'action est surévaluée à 360 $. Malgré des revenus en baisse et une demande instable, les marges de SHW restent résilientes. De plus, des partenariats pour transformer des installations communautaires et des centres pour anciens combattants pourraient renforcer son image.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
+    "summary": "L'actualité récente autour de Sherwin-Williams (SHW) reflète une baisse significative de près de 5% suite à un lourd sell-off et à une série de dégradations de recommandations par des analystes, notamment de la part de Citi. Malgré cela, l'entreprise a annoncé un dividende de $0.79 par action et a bénéficié de hausses de prix et de réductions de coûts, ce qui a soutenu son cours en Bourse. Les investisseurs se trouvent actuellement face à un débat sur la valorisation de l'action, avec des opinions divergentes quant à sa surévaluation potentielle à $360.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is The Sherwin-Williams Company (SHW) the Best Dow Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2FhSzJleWh2dHJacGduOXJ5NzJ1R3VPd0YwZmtJbkE0RUZ5b0NCSkxjVGpQMWNTZzc3OUxUU0EzTnBTZE1wS0JmS1VRYU05ZGdseVpVaEpiUmgyLV9Ed2lYdS1sR1hFMDBScU9lOXRqel9kYWZ4d3BtU2VJUW1MY01aNXliUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Why Sherwin-Williams Stock Just Dropped - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzdmdzRsTzhZVFBBTGJKNllCUGg4UmVBM2VtSDdjYjdjMzdEUWUtWE1LTkZOZ3VXRVBSZG5rRDZqVjFQUU5PVDVIbE5ld25nSFNpTnVoa0VHbzVmVHh6Qm9RemxXNGllT1lTbW94MnNHZUkwenZjcnAtMUFaTXlyX3VPSXQtWmZ2X1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sherwin-Williams (SHW) Stock Plummets Nearly 5% in Heavy Sell-Off, Erasing Recent Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGxteFlWb0ItMjVxQmFMY3cxTFdqM2gzU1c5SXoxTm9JY01KYjE3UkpQZU5qU1JPXzdwRjdTTVVPNDREcEpaN1J1NUNPdkpSRENEaTEwSlQyUFZqcm14NFMzNE5UWXNyQ0taX2xBaWYtY3o4NTBzR1ItRjhCSFA2bW1iWm1SWkhDcFZwLUREamE1cmpLY2NKV29XdzZPNjlRNTZQLTdtWUZfWmtuQmZCWEUySTQ3cGxkbkQwM25hM2NNUjl1dG5v?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sherwin-Williams (SHW) Sees Downgrade and Price Target Adjustment | SHW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFhGVW43aVI3LUs4eWZERUMzTmc0NElqbklRU2tzMlA5d0owY29LejlYT1JmTHZtMlppV0JiWVlaeDZ3d1BYaDhNSldweXBrR2tWa3ZnaVBtU1Z0U3hBaEtiXzY4OHpKTHpIQk5TMUpjejVTbzdIWUFINWVlcTZsRjlFeGtObU56andGTHRzM0RSdDhVQW5FTTJPOGM2ZTlnQS1xTVZJSjRLOWZZSjhBeUF1Sm5rd0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sherwin-Williams downgraded at Citi on housing weakness (SHW:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjRZYW9nUTU5dE5ZQjZKSWhFNWY1V0wzSkdUMzVKUHRnYmVRS3ZtRXVUQkkycFFSX2FTY3dpWjByRXBtdkRlMGIzaUQxUUVlNDA1dzg5d0FBUmpVR2Y2LWx4azF3NFdua2JkV1NQYmI3QnBzcjVhRi14ZHFMRU1va19GR0JpUmVaWGxrN0prWVNlbmhEaFVLdQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is SHW Stock Trading Too High?\" - Forbes",
@@ -566,28 +581,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Sherwin-Williams Stock Underperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjhwajVTemdFNzd6N0tCa3lHVlUzQk1sVkE5R0dKSUZfNlR5d3VrcnQtVnVsQVZsYkdidVM5Z3JvdS05UG0wNjB5XzJuM09KZkdiX0pxUUVVY251VEoxR010SmVIR19kdXluMUtEdDZUOFgtcjFjbE41bVV0cm5sNFJ2UTkwcUpVNm9VcU1LZjNWSjJGVkI4TjZ5Z2dRWXBLQXZUTGJpbWJNcmJ5TXpqY1U3SExncTVRcUhUUWxlNDR5M0lIajMwQ3RFaVJIcDRuN1ZQUHdB?oc=5",
+        "title": "Sherwin-Williams Shares Fall After Citigroup Downgrade - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeTVKdldGMmpHdTRQSWFTOFBCdUYtMzg2N3VscHVFSk1nbmtsVlQyeldUcjN0TEFRRGtTUFNadnpJVjV5Z1laOUdEN3BlXzhNUkU4WnJiTTh1Rll1NHdsZXFaMW1Eaklxck1HUHB3WmpUZEo5dk4yUHdKb3k0bjIwdmVKY1hmRFFEZEZyWGNvbHZqSTlfdl9fcGlHVUFLUDFUX2NwRnltYVNoZDdXZEM2ME5rQ21GaGJuYW5FZEJlSlY5dTVxeE81NF9MSUJJeGxaaVMxYzNBOE4yaVV2?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is Sherwin-Williams Stock Underperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUtWUXMzb2tjSUI3SkUwd0VlM1VBUkFDM0RiQUhBX2F4WTlmcTE0bU9MRjVVeENXRVVZWTl2YV8xZTdXX1YtYmZ6VGNZaWRKSVVsZkJGaU9Jdzl2NnlTYm9OcVRvWFl2UWZUUVIwNUxoVjBKdlRtVzlPWXZGSl9Eend0WGpWNEtFMzlBMExRbHRFc2dHeU1heGNtLThIdkJ5TlZITFNjRUNCc242TTcxQW03bkYybllORjRyZ0tWRVFkX2FHaVZyN1J3?oc=5",
-        "label": "NEGATIVE"
+        "title": "Buy Sherwin-Williams Stock. It Can Help Paint Your Portfolio Green. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXhBWUZoM0xPQ2VUTi1abko1VUV1RUtZMUtNelhFdVJITDZydmdaTW04NFdNM2RSRWEzekdmOVhtY0NGMU4wOGdvMHU2WTYwRWg3MGdPN3Z2S1NfWkhsN3gyQlpWM0dyb3BxZTEzYy1aVXc4ekMyRXFZZDB4cmFvZF9UM0pVMWh4TjdV?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Sherwin-Williams (SHW) Shares Edge Lower on NYSE, Long-Term Growth Impressive - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHJBUzZKVjVHOEstN05Jb2NkclB3SEpfQ3RDLU1RdmJJejk1NTJNN183NXlWVGN1bmhQVU05akUtM3RSb0N4NDl2N2l0TG9tT3NucTNGRjJCOXZXdjR6Wi1Id3U4UkVvcFkxcXF3UlhsV0tQYTlvSUNpQWpvNU5fYlBFREZabXg2Rkd0M2l6dFdJV0FDMGdLbk1mczhpY0hnM1ozem5jcFd6WGdKZGhFUUh4MlZZNG1raVE?oc=5",
-        "label": "NEGATIVE"
+        "title": "Is The Sherwin-Williams Company (SHW) the Best Dow Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2FhSzJleWh2dHJacGduOXJ5NzJ1R3VPd0YwZmtJbkE0RUZ5b0NCSkxjVGpQMWNTZzc3OUxUU0EzTnBTZE1wS0JmS1VRYU05ZGdseVpVaEpiUmgyLV9Ed2lYdS1sR1hFMDBScU9lOXRqel9kYWZ4d3BtU2VJUW1MY01aNXliUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sherwin-Williams Executive Cashes In on Major Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGFzZWZtZEZNVERQa0twLU9aY2s1MVZFRmdXWTU0ZDNzR1NlVEU4S2ozVlpzQkZlc0s5YndGNTRHT2RxWFBuTHRPdTlDY18zX2QtdlVYbE1fVlpCekZpQVlHWnFyaGVoY2ZYRGNzVG5GWm1KYXhsSXY5cjRsOU9oS2JETkN6WUNTTUhhNHctR0RkUkFVQS1hV3BIblJ2R3JLVDBwTTlFT3JKQ3prRjJNcFFsVldMUmtyc2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (SHW) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORS1MNnFxbGY0MHZnUG9KNUpzR1N6amZVMlVoejZsQnNrak51MlB3NFlFdjRTSTkxUXJjXzlYLXNPaUFuaUl1QU9RUW8yYjFCQXZrQkpEelVUZHJOZGFOMkZCZTg0cC1KdmZXcmp0TkxqaDB3OTU5eVNJX1pldWZaU1B1eFFwdFBtYlhxaTR1aktUdWd4UGtjOUs5bHM?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Sherwin-Williams Declares Dividend of $0.79 per Common Share - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWFQR3ZyTzRZX050TkNLLVRTU3VlN2VvUXllV19nV3NvYmVmZEVMMWo4TDVKS0ZKS0dDeUNzU3ZxMzJyZzlYREtaNkNLcjJKck9oYXdZYVRHWlFtMlFJQTNDME1UVnVtMzZZMEJsQXBXSVZ2SHc4SE5YRFlWVnQ4TnlleGxrWDdCdU9sdFI3aHdQd0hYZFhJUjFNQkp3R3BFOUZSVG1OZk1tV1BRRmZWMFMtejlwdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sherwin-Williams Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXJpVEFOSi0tVWxRMUtPZlpGTE1VYm40M3E2R0RGeHp1bGJaOEp5SXpDQjNyODU3ZjhaeWVIVEJoZnRWeWs1ZU9kVWNob0tLdnFGZWlTbFFNc3hYd3ExRllLNDZxMnhUdldRVXM5REtCbG9aLVM4Ri1QRW9tNUxnZ2xJNjhPWmVjZUJXWENn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,23 +616,33 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Jim Cramer Discussed These 16 Stocks Recently - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklDYW8tU2hCN3UtcUFhSXJrVGdLeUtGaVB5WDZGb2pMcnotNkdsQm1uUjNkajBVM3RBOW9TNDkzSi0tWUJIVTFEeDNROXVkemM3RTQwd0tveUZSaFVPRmJBNm9weV9qNnJHZDhQYnhMcWp6Y2VBcFJjaVJPX0dxZFlKa1lVd2VlLVo5UHdpTXlUMDV5SEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sherwin-Williams Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUp0QVBKdVdMOUhjOTVkM01rSTgwUVd1bS0zOGphSmxUX3ZpZ252UU15OEtteWtyeUc3SThMTVNzcUgyRFVrLUpaSDFXNkhtNklmNHZZYXJ0bXBIMzN3MEpUTlJMb0pMb3BYTEo1ZXY0V0hrRkdXVWN5ZzRGaDJaY3hoTHg5a2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Sherwin-Williams Stock Rises as Firm Benefits From Higher Prices, Lower Costs - Investopedia",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEV5SjlLc3I0WHN6TU5BOE1JTlZfZml1WlUwRkRHRXhoOTBiRkZNUnl6c2VzR2x1bkVfMEJOeGNhZ0NoeGtnY2VvajdHeThhaFlKeWRGcjhLZHlLdzI2U3FSazNfdl9UVzctdmJXNmZKVDdNeGhlNzNqMWRiQWkta0NZQkRFZThJMVNPRkc2UElISUd5c1o3NEJnMm5jS2dKMDFPdExxUk5ZNm5QOFMwNzJ5Z2E?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Sherwin-Williams Is a Sleeper of the 100,000% Return Club - Kiplinger",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTJtM1FBbUZtY3VUcHBJcmdqOVdzdWNITmVrbU5aOUpXOTJ1TkIwck1XcnpDME85MWN3VW5ra3MxeGVLbzhRTm5LTFFTVkNZUmJfSUVSZnh2S1Q4T0w2TXdJRFM3Q1VWMXRfM3E0NHNtV3pGSkI3YmF6QXJLVHNjYkhqTXlqbGlRQmlfY0NXZDV3U3BmOGEzZWJaUlBQQQ?oc=5",
+        "title": "Sherwin-Williams Q1 Earnings: I Love The Business, Not The Stock Price (SHW) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeE5QZHNlSFZqNURhMmEwZ2xjV2l5Vl8zRlJfYjA5anVDamNfeV90bWV6VUJEM0ZqMUZWVWFMblNlNGdjcFBua2lHdUVIZnhienhwUUtoLTFFUS1OaDBTckt2N3JsazExbUZoOEdKQnFoajR5Tk1HVlduYmtLSVZZMVNQVlRvVWhBRGwzam5kM3hETDNhbERpRWh3bl9ucUh5UENrN2VGcUtveUlSZnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Sherwin-Williams: Is This Best-In-Class Company Worth The Premium Right Now? (NYSE:SHW) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFNMzl5YXduVHZ2LUZkYTg1WDNkWXZqRUFQa1hVUUZDLXEtUGhLWlQyN09TWGN4OElPdEFsVDFjWnl6QWVLcG5kejVPc3BBeWg2RDA5d1phczVrdENhOEVybGV2NmFreFQxdWo1eENTRThFY0pIOFREdWhFcnRoWUYwdWJYYi1mSWlIM2Y4SXBnaFpwR2l1SXNLdHVrLWVwc2VDcGVGdGhyYUpLMm1LdTNhU3BHQQ?oc=5",
+        "title": "Sherwin-Williams Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXJpVEFOSi0tVWxRMUtPZlpGTE1VYm40M3E2R0RGeHp1bGJaOEp5SXpDQjNyODU3ZjhaeWVIVEJoZnRWeWs1ZU9kVWNob0tLdnFGZWlTbFFNc3hYd3ExRllLNDZxMnhUdldRVXM5REtCbG9aLVM4Ri1QRW9tNUxnZ2xJNjhPWmVjZUJXWENn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is The Sherwin-Williams Company (SHW) the Best Monopoly Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTNacWcxQndSZzBHeEVwdGZmNFp1Nmd1TDFlQ0tmTmRJRnRKU1VvTnd4NHZLVC1CNHoxbW9WckJlX2FCdElReS1pUlNMY0c2S0J0bmFvdEE2bmxUanh5amN2cEdMcUptS0k5TWZhMm1zVk9icEV6OU43ZTNLSG1mRGlkT244dw?oc=5",
+        "title": "Three Reasons to Avoid SHW and One Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ZmJ4TUZTUW54MXNuNy1jUXRJV2Y0dEwzbUxRMVZQZ0dmSWJLVEJUU0NNTzlVcWotblNIWGhPTHZYWUtUNWg4Z2VVWnpwQ3VSRU1rOXNteF9UbzBiM0FidWRaVjZxNkU4Z1lDbVlwZUlFSVdReElwSDhJMTJfZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "SHW Q1 Earnings Call: Resilient Margins Amid Soft Revenue and Choppy Demand - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWtDTW43ME9kN0JVRkF6eGFPM2gwa3pKb1pJZ2FSNGlGWHZ6U2QtT0dRcm1CZVJ1UXluU1p5M3lSeTRiSHlPT1JSdFRscnlLUjZzUzRKcmctci16TGpoTDhCQmpwT2dlWEhXR29RU2VVemFUZ192Qmk5ODAyUUlUUGVR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Sherwin-Williams Stock: Analyst Estimates & Ratings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUp0QVBKdVdMOUhjOTVkM01rSTgwUVd1bS0zOGphSmxUX3ZpZ252UU15OEtteWtyeUc3SThMTVNzcUgyRFVrLUpaSDFXNkhtNklmNHZZYXJ0bXBIMzN3MEpUTlJMb0pMb3BYTEo1ZXY0V0hrRkdXVWN5ZzRGaDJaY3hoTHg5a2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is The Sherwin-Williams Company (SHW) the Top Stock to Buy According to XN Exponent Advisors LLC? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdncycE9xYkVPQVRyVEVnR3pnTzlmXzJYNElpRjkwbXhwRW5yUkZKUGpDTE12WG5HZmlWTktKaWtGWmZiblpnNU8zWXBMWVFGdFBDV2xXMC1xelZueFZqMF9ZZXdpMkU2R0hvaXRNZXBZcTcyVS1aVnFDOHRjQWZiSnl0UXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Sherwin-Williams Company (SHW): Among the Best Performing Dow Stocks So Far in 2025 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLW9ibHUxajVrX25lb2drTVNtUG1NS1JVTGRwMmVxYUU3VTZJZU5Bd29wSXBrclVWZ18xeUg1Rmd2WHBKSzJTR292RG5JZXJSRG9yMXFpOGRoQklIeGpFd0pCUUFFZ2NnWEF1RjE2M0s2ZE00b2VQRjF6YTlHekd2UlJpUUo2MEU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is The Sherwin-Williams Company (SHW) the Best Safe Dividend Stock for 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3plR01SYkE4ZlNBSHNjUXFHeFo4UDNHRVRWeU1uTmI4aEV2MmZVRUNWSlRHd0JzcjB6V2xIdnZxN0FmSFVodC01VlNPTjlrbG1CUW5YQ0NIRTVIaHhzTDkwMUU3cDI1SG1QYzFaMkFhU0d0T0pZN29SOXhDSDFnYWFNanc5dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Building Materials Stocks Q4 In Review: Sherwin-Williams (NYSE:SHW) Vs Peers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzVhTUhSVEttTjRIUFJGRXFodlhQMWVaZE5wR2NwMDdfX2NPZkJja2k5VHczRUZjZHVUbE1VWVVwdDV2SXBGZjk0WDNnRjI2alBxOXZQUTREXzBIR04wWXpfbnU0SHRGaDJyNFppYUVLTm9CcFg1anY5R1pWZnRDWUtvVWtGWVlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why The Sherwin-Williams Company (SHW) Is the Best Stock to Buy in 2025 for Beginners - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjh4c3N3T0d6blJCUnVFcFROX0g1eC0zd2JPMVllRVpDVHZhdG5GdGM2X1MtRGxNaTVJaXQyTnVoSzBtVkFrMlNDQXotRDE3UV9tZ3dQeHZ3ZG12TW1oa0tRZ21wcE5Od2ROTU5uNmxsRlJLd0ZLWUFRdHZZaVFQMjRXNUE?oc=5",
+        "title": "Sherwin-Williams: Is This Best-In-Class Company Worth The Premium Right Now? (NYSE:SHW) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFNMzl5YXduVHZ2LUZkYTg1WDNkWXZqRUFQa1hVUUZDLXEtUGhLWlQyN09TWGN4OElPdEFsVDFjWnl6QWVLcG5kejVPc3BBeWg2RDA5d1phczVrdENhOEVybGV2NmFreFQxdWo1eENTRThFY0pIOFREdWhFcnRoWUYwdWJYYi1mSWlIM2Y4SXBnaFpwR2l1SXNLdHVrLWVwc2VDcGVGdGhyYUpLMm1LdTNhU3BHQQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "SBUX",
   "name": "Starbucks",
   "sector": "Consumer Discretionary",
-  "market_cap": 101514616832.0,
+  "market_cap": 106787512320.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.48364,
-    "PB": -13.31495,
-    "EV_Revenue": 3.353,
+    "PE": 34.17091,
+    "PB": -14.006558,
+    "EV_Revenue": 3.582,
     "ROE": 0.317925,
     "ProfitMargin": 0.08609,
     "GrossMargin": 0.25030002,
-    "DividendYield": 2.8,
+    "DividendYield": 2.59,
     "DebtEquity": null,
     "CurrentRatio": 0.644,
     "QuickRatio": 0.399,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05086794386271668,
     "ROA": 0.08979999,
     "PEG": null,
-    "EV_EBITDA": 20.119,
+    "EV_EBITDA": 21.494,
     "BuybackYield": null,
-    "PriceToFCF": 55.01567122284691
+    "PriceToFCF": 57.32054121985411
   },
   "technical_indicators": {
-    "RSI_14": 59.30875426321733,
-    "Momentum_10": 6.383232740777946,
-    "MACD": 0.6022950440610799,
-    "BB_Percent": 0.9972769383368192,
+    "RSI_14": 65.1005320682282,
+    "Momentum_10": 11.88208036465508,
+    "MACD": 2.232585820772073,
+    "BB_Percent": 0.9341288414466318,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9379551091321584,
+    "ValueScore": 0.8918877400486603,
     "QualityScore": 0.3326471196706979,
-    "SignalScore": 0.4836566982313468
+    "SignalScore": 0.4475202783350598
   },
-  "volatility": 0.0252175497594638,
+  "volatility": 0.0255717349732517,
   "beta": 0.99,
-  "return_6m": -0.0965226267080837,
+  "return_6m": -0.0235589081335875,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 29,
-    "target_mean_price": 91.11897
+    "target_mean_price": 92.01552
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 99.31
-      },
-      {
-        "date": "2024-12-10",
-        "price": 98.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 98.42
-      },
-      {
-        "date": "2024-12-12",
-        "price": 97.82
-      },
-      {
-        "date": "2024-12-13",
-        "price": 97.42
-      },
       {
         "date": "2024-12-16",
         "price": 93.12
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 89.64
+      },
+      {
+        "date": "2025-06-09",
+        "price": 90.67
+      },
+      {
+        "date": "2025-06-10",
+        "price": 91.43
+      },
+      {
+        "date": "2025-06-11",
+        "price": 95.39
+      },
+      {
+        "date": "2025-06-12",
+        "price": 94.32
+      },
+      {
+        "date": "2025-06-13",
+        "price": 93.26
       }
     ],
     "current_price_data": {
-      "price": 89.64,
-      "change": 2.65,
-      "percent_change": 3.05
+      "price": 93.26,
+      "change": -1.06,
+      "percent_change": -1.12
     }
   },
   "news_sentiment": {
-    "summary": "Les récents titres économiques concernant Starbucks (SBUX) révèlent un mélange de signaux positifs et négatifs. D'une part, l'entreprise a enregistré une augmentation de plus de 2% en fin de séance, montrant un momentum récent solide, tandis que de nouveaux investisseurs ont acquis des actions de la société. Cependant, des actions de Starbucks ont été vendues par certains fonds et des employés menacent de faire grève, ce qui pourrait impacter négativement le cours de l'action. Dans l'ensemble, l'attention des investisseurs est attirée sur l'entreprise, mais la pression baissière persistante pourrait peser sur le sentiment de marché à court terme.",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.2,
+    "summary": "L'actualité récente de Starbucks (SBUX) révèle une dynamique contrastée. Alors que le stock a été affecté par des ventes en avril, il montre maintenant des signes de reprise, avec un maintien du prix cible à 90 $ par TD Cowen. Cette tendance positive est renforcée par une hausse du stock à 94,49 $, soulignant un fort momentum de rebond. Cependant, des éléments tels que la réduction des prix en Chine et des tensions internes, comme la grève des employés, pourraient impacter le cours et nécessiter une surveillance attentive pour les investisseurs.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Starbucks Co. (NASDAQ:SBUX) Shares Sold by Davis Capital Management - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWM0b3NDQ1ZqMjcwX1dQV05UX3FCblpRWXhhbmZqSno0bUVWOUxBVUZVSFltdUc1SnBRR1pTU1ZHR1NhUWlCcENpWXhZdkJaanJDVUE4cF9YZGRKNWpPUkdGY2hETDhtdUVhWUVxMG5BSnh4N3VsLXdoWTJOTm9vQlYwT1cwUE5UaThaVmcyT2UyWnpUSVpWYnFyZnVRa1RtN3pPMGJ3MnJSSm91TnFCZWVoT2oyX2xGTzRpRFdVRnNuZw?oc=5",
+        "title": "Starbucks (SBUX) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmhrVjJ0NGZSVkV4a18zUm9Hb1Y4TFFfR0kyZFRLcTFmeG53ckJIQkp0UjFEMlByVUFRZnhOUF9nZFJPeTBJeUpqMmM5YWw3X2kyNHFpYWxKbGI1U3JnT3RsamNEaGhjcEdja01XRDduNUhNM0pGb2hBbjNidjhWWDVpc3ctS1U?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jim Cramer Says Starbucks (SBUX) Stock Sellers are ‘Stupid’ – ‘How Dare They’ - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHlFa0VKbi1IMzlyVDFnSko4ZExmal8yMG9WTFM2aF9JUlgtUVZFX0EtOGZBQkF2Wm1YbGtHLTRqS2gtd0ZnajV6b1FqUU9lQ0Y3blFCWDRYRDBoaGdzSEdzdllwZkhqTGRreUJxSWNqNTRDM2U1MXBxaXZNZGZwSlFMLVZ3R0JUcEVKd1VIbkFuVmNzMk9HNEpMUzg4VFR2M2NHOHNLeE9rVTRpM1ZyLUpyc1ZKMllvUXA3dHpR?oc=5",
+        "title": "Where Will Starbucks Stock Be in 5 Years? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTNvLWNtV0tLczhodU10bTF4S0w3SDdtZ3Y3X0lQSEgzTU1UNmJzeWZnTU1CR0ZFbGJBYUtBY09tejVzamFKYm5QWGVpdS05ZVhBLUZTRlZrY2dqR2c5TlNERTRzd1RsM0ZpNzF5NUd5UUZucTFBY2ZYQUZYRWJiaUtZYUlXcTdPNWN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks Co. (NASDAQ:SBUX) Stock Holdings Decreased by Rockland Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJkaGhvdURtY0psZHBzMFNBajBtR3J1SENwZ3h5T0pCSjVXLTB4VEhMWXp5Y2dOWG84NFlXRXdaSXJTY2xUWG85S3BXbllwM2tGX1czaElmeE9NczEwaWlQLXVORmJLZWRYaVRyUU1fMkk1eEgyZFZ2Qm1CbG5kb2QzNW5fSWxORDlWTWlJYVY4R3d1cEhVMnBlVGVIaFdTcDQ2Z3M5T1E3eDQ2ZlRybHhZanhFSmFGdEJHVDBYMDhVT3VacFBaX1lB?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Starbucks Stock on Path to Recovering From April Selloff - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnEyQ3ZtMDkxNDMteHFOUU5YQXZDV0JpUDlTeGZHQ0hNWWNfa2ptbk9sSWxQOWNzZUdqSzYzQWdmWS1XWnVOVzctUm1TWDNYd2lQOGNzNkhWV1FTWjRBWFNMTm9OVnVLN1h3NWVyOEpKcHNVNzZKV3JlWW56YTBYb3Q5N0ZXQ3dnNHQ3UFRZRkYtRzhKQjZFOUd3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Starbucks stock holds steady as TD Cowen maintains $90 price target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFNnUE1HS3E2dUhBR2MwbkJfNDRFZUViLU9WTWhibk5kWGlEZGhoNzlNcTdmc2F3Z1RvZWRZTXJFOXZaZ1pNenl2QzYzVGlMcGVVU3hQVHlKZENaaHQ4NHFFOG5FWUNzdnAyMGI2dGVyRkJZRGIycHNPdUQwR3BQSEJhdkcwWnJ0STJ4YnoyMmZfaG1SLXYtQjJ0VGlzUy1xRGdXdVA1Q1VoRW5kZlh2UUloX1V3QU5kRkV3WGRmZzlzR2Z6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks (SBUX) Rating Reiterated at Hold by TD Securities | SBUX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmJmTm8tQldDa28zeGd1MGVuSnJidUZjaFB0OEdjdnF3V3dVeXdSMWtwQ2RXODlHSmdLclVqOHg0bEk3NC14ZGFIdzBXTE9ibElnVEdMZFE2M3BwYW9SRTYxUVBaV255ZDVGdm9meVB1aVIxdW1fLVotcXVjeFkxcjY2TzN2dHpDeGhSM3VqcURCUFB1M1FNOVVqcHl6Q0ljdEJ3SGZYVWVwbjdJZTFEanpVdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks Stock (SBUX) Edges Up to $94.49, Highlighting Strong Rebound Momentum - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVYtcVpQQUFSOEdGOWFWU3ltY1llc2tWVXlBT0p4X3ItcGQyTlhQWXRvUmdURFBseU93bGdRUVQ5N01Ba0U4ZVdQZUxfbTlBWUJMMGZ6RE9aQWtpd1lxZjBQdWxjcjhwcldPMkczbS1xMHVnR1lGMWZKU3FiZVRGRXBfNXNydFVYLVZydUJuZ2pXZFhCVjNhME1KdE9vZ2dfYnpBcUVUSFRSX1dHUl9WZGVBaXlTX25vc2VuQw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What's Going On With Starbucks Stock Wednesday? - Starbucks (NASDAQ:SBUX) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDVxM3lacEo4M0tGTHhBd0UwNUx3VjMwM05NVVo1QlJyMGt3S2wzWEFiY1hxRG5DakhfV1A1N0RZQnlyWGdNLUM1SEFGd1ItTXE3cmJWX3A3UnNvV3hzeUxHUnFlSGRDbXdpb2hBTlhiS1J1T3hfblIyUnZJTmtNSFBXWUl2SGdmbW50UjZiQ3hOZDlwNzRMSXVudlhCNWN2VGVCZVlrXzFEX0Ff?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where Will Starbucks Stock Be In 5 Years? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFBMX19hSkVuU2Y1WFNkMUp6U0FXUkRzLTVvVXhGYWtNS3hnSnE4amJkclZ5bGQ1MlVjV3NJTmpWX0RJTzBlQThNaHgyWS1kXzhtY2dCWVk3dkc3MDZRWm9MRDBjQU51ZU9KSGFMdlIxdnJra0d1b3cyaHdKRlBXZ0lRQ05NTDJFelk4SGhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks Rallies 14,000 Store Leaders: Inside the Massive Transformation Plan Revealed in Vegas - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3pIQ2FDdk9YT05jNk5rdUxtdkdhYUVKcmdZS1EwQkJJcTl6QkZvVVB2NVdfVU9qa0c3UTZ3V2I4UWlmU2o0Tk1pWTVlSTVvSlM2VFhQejJaWWxNWFFMdElUZ3Y3S01NbXR6UG5BcWlYblRMdkd5N1pVTlhJTEt0LVl5a0JLNlBDbFd4MXJxQTV3endtQUVZY1ZZT0g2UzJFMXZESC1ncG1XUGs1bkkyazE4MmpYY09WdHptNQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where Will Starbucks Stock Be in 5 Years? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWRqbTJwVW9EcDNQcHpfcjg1dmd4dzY2aXFXMHpiekF2NmtPUUJxUXk3TEF3amtaTlFfZkxHSm1LWTVleERFQ3ZXdjMySGlNNWVJRnVTdC1BRS04WkxpZmZHTkFITDJESk43YmV5cDJOdzJXVm91S09uQVF3d0tuTU8xbEZ4ZWhsTnZLSjFlMEV1c1VWUW5sbnlsN0xjVmlmcnJPNTVfdGtCOFdSMEFvM2ZqdEZNNkJvVDJlYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks Stock (SBUX) Froths Up as it Slashes Chinese Prices - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU21PS3BrUklGTnRNZzIyS0FrVlFKTFhiS0ZwSFI3NVJHS0I4REVibEYyRmlKQkJ3SHpXVzhYVjNlMUlPUjltSjdYdDNfNS1XOUZxRWxON0ptQ05tZmczSlNBcDEtcFpEY1VZeEFHTDlsUjNfOXVFYzRXYkcwMGJ5VzRoNmd1cUFGSEJkWWRYVEtwenM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fifth Third Bancorp Cuts Stock Holdings in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSFoybHdsMHBPYUc1N0RIelRSdm1JZzNFdmpZQ3Z0UU5OOHZoWjFBcUNKeUwxZW1IY2FhWWNqakkzNk9fUnV6TGRqUng1T2JHbDJLdkZYMHRubDNXOXAxWWRmQk5ENWcxYnZQTElEWVU4bHh1eEU3Sl9qcG4yLTRUYWFuck9rQ3pzX1RpYkNaZzRjc2RHTDR5MnBwODRpZ3o0S3BLeF81N0JJaEh4clJEd1JpQkFjcERzcm1wRVJ5VzQ0NHVzckE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Starbucks Corporation (SBUX) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmRCcy1NVV9NRjk0N2QxUHpUSTA2ZWdLT0hLQlVqNVhWdFVhaWlHVWdiaTBjT2xNbmNRaXF1SjU1elI0Q1JDU1RjTVNqb3lnSE5LLTV6SDk2UnpjTklBX25jdk1rVXJEUHZOa0d2Vl80OTdTbVRjZDhqeDBTSlZyTjl3MEpVanJZUlFrVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Purchases 5,289 Shares of Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1lJb0N5QVRiX0dBbHM3dThPTGFIV01TSDNiRlREaFdqRC10XzlPeThYQURkQVlQT29NMUU4YkRiVDdoY3pPU2lRQjZaWE52RGE0aTB6MjhkQU9hRVYwUnZWdFFmb1lrRUg5NEpuR09DdXZRSXlLT2wyZ3h1ZkdUT2o3Um5ad09GMFpleDJpckJiVkh2cEdJNXRJNUxtcVRuWXdGc3hEQXF4Z1hvcjNwLV9hM3NVUlJHSlZnMzZQSzYzV1FiSmRGWnJnTWRsWlRrR0ZfQUZBQnJOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bright Rock Capital Management LLC Has $7.85 Million Stock Position in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZlg2c3pva0xwUXlDV2ZrZmk0ei1NNnR4TlhKSHFtWGxxVnpkYnNKcXdsMGprbGZQR0dGNkZrN1JGdHBleUZOenFfRE1iWEY3Y2t2NDBFRHlmbGt3bjFnVDJJRUZET2d5VGF5UGE0NklwakJZRGpZZTA0WGkyejdmYWRSWkFrYnN3UjZCeGs2R2tZWTl3VFB6RjZXbmwwLUxndzJTSmxaMGJrcExiSE1zVWc1elk0THNadnB5SGF0OWMyWEZYUlhQWjBJSjctQzI2VVM3X3FiQUZkNkpLcnFHQ08tVGs4QnRW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citigroup Issues Positive Forecast for Starbucks (NASDAQ:SBUX) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmZHdVJpdnNiRXNRR0ZtbHBtV1lXQWZjcE9RODFBRUt6Ul9QSkM2YlNPaEl6TEFXRFBSYUdKcDItbGhNU1BQNVM1Q3RNZVNGQWFxbkNhYkFMTGRDejFEVFBMU21jeFp0NENLbVZHNEhTbTU2bm1GQlphWUtseUV3am1oM1hIdW9LSnNSUlo4dmZrb3NFZFZrSUtEMWIzdXlvcFFvaVcxMXJ1U3JyTWNzVjgtYjBhcjdQUy1LOGxSRHVlQ1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Starbucks Stock: Culture Fix May Be Key to Long-Term Growth - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjFrX2E0bi1YclJqbDMzNWpvLUVIZ0ZSa2pzTmdmN2E3TGtzTTBxTmtkWnNaS20wclVxMFRyNEZFVlpMMXdsb0x0S09iZENmTmZyNXJmV0VHYjNXR0NLeHZSQl8xVFNuZGdUS3JTb3BWRUlvZUZsdkt0dU1RaUdjSDREaW1qSW1iOEVqSXJhX1ZwUFdYUUlBNU9pYXo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Starbucks Co. (NASDAQ:SBUX) Shares Sold by Yousif Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUURUZk53QTdxMkNHaXNOZmh1OVRQaFpBQmY0Y0hYUFMtLWNXVVRuSlBxQTZMN0IxdEFUZ1p4SHc4a0d5eE1EX1d4TjlJazg2bVNOeXNmU1FWdnNza0pnRVRkbUNBcmVKUlFRVzBkZ0Q5ajM0LWVmTVJMWnByNEFRUEhsdWZIM2oyNUVGLWFjNEUxZ2JDZ1VObnQxek1SM0s1UDM1UHAtQ2Q1azlGYUE1MVdMMEJScEh5dklnMENONzBtbFpuZENiMXdpcmYtaGM?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Starbucks Workers Walk Out, Threaten Stock Price - 24/7 Wall St.",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhTVUJrcW92X01wV1JKSjdRY1lrM3d2dVYzNGNEMnBFR2o3bmNFaGpXN1I3RU9SOHFNbXU5V2NnenBsUGREelNZclh5VGxReHpaV0ZPVFFJQ3hNWVNBYWVCbDNqM0hYWFUwcDdHQko2RzBsUnRmS19rdWpwNjJWOFhZRS1vdEZ4ZzlLWllUSQ?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Starbucks (SBUX) Stock Jumps Over 2% in Late Trading, Shows Strong Recent Momentum - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRFdmcDJnMXBCYW9TMXlCdXFURVNEazJVU2RLZkNCdFlyX1drVEJZS2xhZm81YVFWV0VYb291UTg2V3NJSzVpcThzNGJzbzJHekNmQXB2dExfcC13QmRBN2E1TGhIYzVVYmp0TEx2eGtNNHk2b3dGRHFmTDdGLWs1Nl9ZZ0dVUjhCWkUtRlBpMTRfZEs2aG1mTDRQbmI2eWkyMm1XbTdzbVNONWsxZEpuaG9ZTWRNNU1XVTNXVWlwZHI?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "“We Need to Move Faster”: Niccol Revives COO Slot, Starbucks Stock (NASDAQ:SBUX) Notches Up in Reply - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2FNVEtWeHJkczBGZVZNS3lNOF8zSjlveW5wVHpJeGdSMGl0ZjdtS0Q4OXNuLXphUk5YNVJtNWppbDBMYXBFMjNCeU5NRlZTNlNwZi1EdUVLTnRQZi13OW8tMVR5YlBpNW85Tl9FYlZabFViVThsUnNpaUZvcVl0TmZWdk5zQW9zTERaVEZxczlfTTA3ZDIwa0JZUVpFZUU4V09aVWRJc0VVbjU1TTJzRmRLZUQzR1d5NDJVMHZlX2o?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Starbucks Corporation (SBUX) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUy1hOGlkUTZTdnFvS2VzdlZqUVljZ3F2YWJhNWVKWDB2UmlCLUx3SXZfYzRFMUx1emNqZERjckx1WGxqejVyaWhjTFBHM1M5Zl9PUWQ5eG5JRXV2Sldrd3FQaFJHcGc2ZXgzb0hlaDVGeUJHOVVLNHNGb3lqbWYwWWkxLV9DamUwMnBIMmpKaTUzVzZnOVlN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Starbucks (SBUX) Surpasses Market Returns: Some Facts Worth Knowing - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDBNa1d3ZjI0bTBmS2hYQm1VQWFoZndGbnZoWXI3eVBUOHYwajB2ZmNUVHl0US1lVmo4NEwtYWNCT3U2Z1BGMVIwVFNuVGZ1LXpVZUczSDdxbjBXc2lwOEFOMzBqSW1qOTRNNlN2dXUyTG5vc3Y4cTRhOF9ndHo2ck5zTzFvR1U2Q1hEQTRXekFndFdMbG5zRWoyQTg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Starbucks (SBUX) Appoints New COO, Announces Leadership Changes | SBUX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ05FNnZvd21KUjRyYTFjWlZJQ2hlRUVBUDktQWVlTWZURFB6VTZhUDhCbTRjZGkxMVdtYXUzb01oeXFKM3dHd2tFUEQxdDJ4eFBpdHF0VmN5M2d1QndZV203ZWk0cm03NHlKOGM1M0ZKVS04WlN4TjhKYkp4dlpCaE94WDd1ajZ6UjEwUFJHdmxPYmpZYjE4dWR3U2hGbHlKNWtmZHQ1TjFoRGhxMWdhQ01tTmgtN1U?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Starbucks Co. (NASDAQ:SBUX) Shares Acquired by Intellectus Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTdkMF9sYUdLVjYtb3g3R0hjN1pTZHYyc3R0VGxCSDl1bzRxa0FXN1V4MnI3WGJsTFdqVE1lZU4yRlg5WnNJLWh5RkFuZGVWNk9lbHVNUE1ySm9mRThjbUx6VjI4RV9oaTAxdHNMRDFnaENOSnR5bDdvWkJsM1M1Wm51clZJeG02Szk0THpsY2RIUnNiRDV5RzA3UnY0QUF1MnlkY0ktLTJ3b21WU1FxOXpfN2xITHNzQW1rOG1ZZV81T3dCcmVF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Starbucks Stock Underperforming the S&P 500? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOV80UTM4YklEa0prdmpTNGhTbmNWRkYyNzJxRFpPcmxYSDAwVEZQZElFOGpDVHM4aklwTUZPTS1QdktkZk9FQ3JqNzBNdFRiRUo4MXRfdDVkMGFSQndpbi1BTy1ScUxpYlVnbjh2MHZBNHB5M0QtWk1TbGZVTEFGWlBFU1g5VmZhRmM5dDBISm1iYkxBM1d3S2ZwZ0dORGJpYWc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HBW Advisory Services LLC Trims Stock Holdings in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWo3Y1ZqbXZpa2lIdDcwTEQxTWY3NWs2TmR2THRoTngteEtUS19JVjF1LVUwckhWYTZYQlEycTJXaW5qNjBLTWtOaDB0YnpHYXYzZEpLemJENUJnMzBYWW92d3lNdFpzTWNmVlVUcF82bHRqaFoyWkpHWU5qbkN6anZtenEzSlNwYkZwYmttM05nUzFlVjJObGRRdmdNM0RvUHVUVUtVaWQtcmxkZEs3UE5rWld5TnZHQlhLUHZ2czh6dHU2dXdQeS1Jb0w?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Viking Fund Management LLC Sells 45,000 Shares of Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeVVtOTlmQk5jVXdULTFTMlZmbHhjbkcyc1BqVE1RS2FweVJWc3JueF9qZzdRd1JkX3JZRjUwUWQtTjNDU1ZCVHAzM1MxVlQ1WXRrT29UdWc0Y0FnUjF3UVlpaUJOMmpTb1R4ZWFha0tsNkxVZ3NqV0x0SzZOa01CeFY3VnYySHM2RXFMYmt4X0Y2cVhLZVZQUnc3WmRUT3duZTdjakRaM3RFZFFVRHVOWGpTVzdySVZhTGhOTE5tY0VLbDlHSTR2bUJJVDJvUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Curat Global LLC Makes New $801,000 Investment in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX05jQW5fdDRfMlBod3hzOFJYZXVXVGxzQmthYzhYOEJoelQtbE8teFhhVWhJUS1BU3RyQTNYMGswdGhkZHFkd2xDSVlmRmRqaTJwUFI1S3IwakZYdjVOUDZPMnY1TWpsTmo1VVNneVpZVF8xUmpDaVR3TjdwYlZXWGhETGFIekw5RWVsVjNUVGFqbEVfWmJ1S2VoTUxONzNKUHpPUUJoN3pLb0dUM0JsS09UQWt2ZVlrN2kyeE9aZldQTjAxNDJ0am9LQzA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Procyon Advisors LLC Increases Stake in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEo0Nk1Od2VtZTlQZElScWpMN0VXcC04bjg2c0x6Q0c0N0FCVXBnbmhtTmgwT0hMWlBsTXVVMkkyaEVNbzZsbGx5dVlGWi1rSGJXNVhPZ3pPc1lvblg3clZMaTVsNktFNHBEbUd6UkVONUpMYmJzdS1CcVBaZElNOVVSeXBWWHJrZGpCckwwa0t1TTJJSVZYVFBqeXFQMF9HTDVJXzB5Q2pIUnBOMW5VZi14ZFd2b3EwUWZsUEtuRnpudw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Retirement Planning Group LLC Acquires 9,219 Shares of Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXFyY3BudDBMREotOGtGZDdld3JJWTJ5VVZ5SUV4a1dlazdWWkg5SzZTY0diaFcxMUt5YUlvUTVkZVYyd3pQZmIxdHZQc1pmNnJtU1JkYmNXLTFfYng2NlVlaUZCU1pDUHNITm5jaXRwRzgwTTJoMVMzc0lOSEt6dHVtSVowRFF6RllwZUU0eUdjWnhxTDk5YmNWeHB1Uzd3Uy1kY0lCQ2p3dVY4cER1dDI4VXVxbDJSOGE2aDBRSUFQUWtLckxHd3R1aklmSVRwUG4xUA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Starbucks Co. (NASDAQ:SBUX) Shares Acquired by NBC Securities Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbkpmYVozUW9vX21hRlZzeFU4VlRzcllEMnhnMmJmMG81U3hNeDdCTmxmclFWT2F1eWlYd3czR01ycEkxbG9XcnpROFVheW1aNURkTGc4T2N4Smh3RnVwQlkwU1FCeVV3SF9XWEgycXd1UXFVV0ItcUxFa09UVXp2eExNUzZWWUQ1ZGV2YWREOXRCR3BiVzVDTFlfZTQ3ZmtyS0RCXzViRFdMT09QY21VNTd6SV9ZcHc4cDVweDFVd3U0LUJROUVV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Thurston Springer Miller Herd & Titak Inc. Purchases 7,250 Shares of Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcVlkRzlYbVBnWUtiVERsOUY1dmFEMkdtVkFRVm5uRWJKZzhyYnhuTW00VEZ5QjJITjhNdzl1bDBIOG0zS1FzeEtuLWFyNjM3MFVBV2ZJcE5xR3RfTE9pQmJyVWxndHZpM2c5cEI0dUp3RTEzdzFqa2sySlBnY0xOSXg0a09HWHB3c2FRQmV4SWp0N1VKam5paHhBSjJfVVFIc0RxU1RiU0tOckl1Y3lWLVNlSTktX0hJcGhnd1BDNVVyMTl1QUdIR05RZnkxbjE2MUJuU0ZGT1V6UDd3Si1JT0o3dXpHUDg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Starbucks Co. (NASDAQ:SBUX) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWZGVno0dS1pVmN2UVNLckdFMTJJQXoweGgwcURsRnFUekFoUmUyLThYWWF2Q1UyQS1YM25uV3hyX1lJNHdzZjUtN3MwV2lhWS12XzJFZnVQTXJQQk5jYkFaYmFHbGNlU1paODk0ZjRSWldodUl3NE9wZVVTWGFyaGkxd2VvdlhFX1ZLOFVzYW9ZdVpVTEd1TU00cmpsVjlGeHd3azBkLTFuUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Will Starbucks (SBUX) Stock Rebound as Earnings Approach? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNG1rSlRQNmNhRUxxbENiT0tKenNUVkk1ckpWckJFMTI1Zl80SnFaRTVOZ2FNRXFBSjFPanFuRkZhd3BnWkxCLVJDenVJd3I2bW9zelpsbmNqQUNSYXpYeGRybHdKY3B3RWYzYjhNNG9EUVp0aDhVcVNMS3ZTSm5PZFNiMFJQM0lZYlNJ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Merit Financial Group LLC Grows Stock Holdings in Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0p6RkhxYzhDeUZmbWtIYkdES2o0aFZjdWJoMWpGQjl2NWhHYjlZSC15TmVFMjBrWjVSYnlqQ0RDdVkwZk9NWWdJWjdFZHhpSzZNZ2V2SnpmcnN2NnNpN3ZIY0ItWE4wdmIyUklib2Q0UU45ZkFXUkNwU1hOSU0tZ0xwaFdoU3lvNmU1Y0xNandXNXNxT2dpam5US1RGcEs5WndVQUI3WHM3QW5zOURIV3o5UjZna01haGRWSVhiaGVLaXdTMWFJbmhsS2ZiOGc?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

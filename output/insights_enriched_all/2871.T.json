@@ -2,16 +2,16 @@
   "ticker": "2871.T",
   "name": "Nichirei",
   "sector": "Consumer Staples",
-  "market_cap": 474944077824.0,
+  "market_cap": 469181104128.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 19.37941,
-    "PB": 1.8264282,
-    "EV_Revenue": 0.791,
+    "PE": 19.216953,
+    "PB": 1.8042662,
+    "EV_Revenue": 0.788,
     "ROE": 0.09983,
     "ProfitMargin": 0.03523,
     "GrossMargin": 0.17979,
-    "DividendYield": 2.55,
+    "DividendYield": 2.56,
     "DebtEquity": 38.502,
     "CurrentRatio": 1.588,
     "QuickRatio": 1.09,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.026479176465997834,
     "ROA": 0.048649997,
     "PEG": null,
-    "EV_EBITDA": 8.911,
+    "EV_EBITDA": 8.819,
     "BuybackYield": null,
-    "PriceToFCF": 25.547675197052722
+    "PriceToFCF": 25.305062808231394
   },
   "technical_indicators": {
-    "RSI_14": 53.680250488125694,
-    "Momentum_10": 3.044305517803751,
-    "MACD": -0.0311140880130551,
-    "BB_Percent": 0.7373283370032534,
+    "RSI_14": 49.92627099076922,
+    "Momentum_10": 0.6449879064767535,
+    "MACD": -0.0265942808609906,
+    "BB_Percent": 0.6258704561549313,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9330933564627732,
+    "ValueScore": 0.8947977446509039,
     "QualityScore": 0.387277420477129,
-    "SignalScore": 0.5426755966882577
+    "SignalScore": 0.5797368148159339
   },
-  "volatility": 0.0156542574315792,
+  "volatility": 0.0155268296523668,
   "beta": 0.274,
-  "return_6m": -0.1001661523854735,
+  "return_6m": -0.1127694859038143,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
-    "target_mean_price": 2300.0
+    "target_mean_price": 2330.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2106.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2122.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2119.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2142.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2156.0
-      },
       {
         "date": "2024-12-13",
         "price": 2110.5
@@ -525,20 +505,40 @@
       {
         "date": "2025-06-06",
         "price": 1895.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1874.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1875.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1864.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1877.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1872.5
       }
     ],
     "current_price_data": {
-      "price": 1895.5,
-      "change": 10.0,
-      "percent_change": 0.53
+      "price": 1872.5,
+      "change": -5.0,
+      "percent_change": -0.27
     }
   },
   "news_sentiment": {
-    "summary": "La société solaire enregistre une croissance du bénéfice de 2,871% et voit son action augmenter de 5% suite à des résultats solides au T4. Cette performance positive pourrait indiquer une tendance haussière pour les investisseurs. Parallèlement, une étude sur la divulgation des risques d'entreprise en UK souligne l'importance de la transparence pour la valorisation des sociétés. Dans un contexte où les millionnaires diversifient leurs sources de revenus, la confiance des investisseurs pourrait être renforcée par des données financières solides et une gestion proactive des risques.",
-    "sentiment_score": 0.333,
+    "summary": "Le cours des actions d'une entreprise solaire a atteint la limite de hausse de 5 % après avoir affiché une croissance des bénéfices de 2,871 % au T4. Cette performance solide pourrait susciter l'intérêt des investisseurs. Parallèlement, une étude britannique met en avant le lien entre la divulgation des risques d'entreprise et sa valorisation, ce qui souligne l'importance de la transparence pour les investisseurs. Enfin, l'annonce d'un ratio de bonus de 3 pour 1 incite à acheter des actions avant la date de référence du 12 novembre pour recevoir des actions gratuites, ce qui pourrait influencer positivement le sentiment du marché.",
+    "sentiment_score": 0.25,
     "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
@@ -557,8 +557,13 @@
         "title": "How Do Millionaires Get Their Money? - Business News Daily",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUWhXWTZjcDlCUm9JZ3Z6MmV3V1VUWW0waU9oTmlFQmRVM0RBZ1pnOGhmaDY2T0NuVW52N2EwYlZ5UGNWSUxUekVGOVF3OW5vSkNwVnZpUjY5aVlxV19tbkF5WHNTYWN6b0FxNTlyNGtzamFGTVpDQzlKS200cUU?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "3:1 Bonus Shares: November 12 Record Date; Buy The Stock To Be Eligible For 3 Free Shares For 1 Existing? - Goodreturns",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOam1DbnlLZWxZcHpOWUhWejN6a3A5UmZGbk9tQVlEMDlVRUk4ZXJkTTcyMFoxck5BRzVQaVVBYjVVb1Z2VzBidkxIREtYRGlLWWdHOXo1LU40dTRiR1ZMZDczcjdMNmlMcC00WWVsTUMxeTQtdTh6amlueDl6b2tJWWhralJlRjlndmZqNXNOZlc4MktaVkwxRjhzMnZ1VngyQkN2OGlmalU5MU1vM2xpVkNqM1B0RlkydGpvbHZzYXB2N1ZyQUFFcGhXeXY?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "CAH",
   "name": "Cardinal Health",
   "sector": "Health Care",
-  "market_cap": 36823085056.0,
+  "market_cap": 38549913600.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.106249,
-    "PB": -12.507499,
-    "EV_Revenue": 0.19,
+    "PE": 25.276213,
+    "PB": -13.094041,
+    "EV_Revenue": 0.197,
     "ROE": 0.151085,
     "ProfitMargin": 0.0069999998,
     "GrossMargin": 0.03531,
-    "DividendYield": 1.33,
+    "DividendYield": 1.27,
     "DebtEquity": null,
     "CurrentRatio": 0.944,
     "QuickRatio": 0.436,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.01582983132151729,
     "ROA": 0.03131,
     "PEG": null,
-    "EV_EBITDA": 13.33,
+    "EV_EBITDA": 13.812,
     "BuybackYield": null,
-    "PriceToFCF": 10.469569375073345
+    "PriceToFCF": 10.948448965549002
   },
   "technical_indicators": {
-    "RSI_14": 63.31739495705645,
-    "Momentum_10": 1.2984429511531648,
-    "MACD": 3.088460196283961,
-    "BB_Percent": 0.6724630121902718,
+    "RSI_14": 73.59152195656935,
+    "Momentum_10": 4.480703224263885,
+    "MACD": 3.0986740792902197,
+    "BB_Percent": 1.2494719190862795,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9391119028283256,
+    "ValueScore": 0.9027653030997272,
     "QualityScore": 0.3199650228097982,
-    "SignalScore": 0.507698443446327
+    "SignalScore": 0.4469772292635642
   },
-  "volatility": 0.0136836799004127,
+  "volatility": 0.0139679159455148,
   "beta": 0.677,
-  "return_6m": 0.2668139014455812,
+  "return_6m": 0.378551577851743,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 161.27467
+    "target_mean_price": 169.87466
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 121.58
-      },
-      {
-        "date": "2024-12-10",
-        "price": 120.42
-      },
-      {
-        "date": "2024-12-11",
-        "price": 117.42
-      },
-      {
-        "date": "2024-12-12",
-        "price": 117.46
-      },
-      {
-        "date": "2024-12-13",
-        "price": 118.1
-      },
       {
         "date": "2024-12-16",
         "price": 116.55
@@ -537,32 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 154.71
+      },
+      {
+        "date": "2025-06-09",
+        "price": 153.62
+      },
+      {
+        "date": "2025-06-10",
+        "price": 153.08
+      },
+      {
+        "date": "2025-06-11",
+        "price": 153.53
+      },
+      {
+        "date": "2025-06-12",
+        "price": 160.52
+      },
+      {
+        "date": "2025-06-13",
+        "price": 161.41
       }
     ],
     "current_price_data": {
-      "price": 154.71,
-      "change": 0.63,
-      "percent_change": 0.41
+      "price": 161.41,
+      "change": 0.89,
+      "percent_change": 0.55
     }
   },
   "news_sentiment": {
-    "summary": "Cardinal Health (CAH), entreprise du secteur pharmaceutique, affiche une croissance dans les produits spécialisés, mais reste exposée à des risques. Des analystes ont revu à la hausse le cours cible de CAH, soulignant son potentiel. Malgré des résultats mitigés lors de l'appel aux résultats du T1, le titre a progressé de plus de 13% cette année. Cependant, des baisses récentes du cours semblent déconnectées de la tendance du marché, ce qui peut susciter des interrogations chez les investisseurs.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
+    "summary": "L'actualité récente de Cardinal Health (CAH) est marquée par une série de hausses de prévisions de prix cibles de la part de divers analystes, notamment Morgan Stanley, BofA Securities et Citigroup, reflétant un optimisme général autour de la société. Cardinal Health a également dévoilé un plan ambitieux de flux de trésorerie de 10 milliards de dollars et une stratégie de croissance majeure, renforçant ainsi sa position sur le marché. Malgré une légère baisse de 1,14% du cours de l'action, les signaux positifs et les perspectives optimistes continuent de soutenir l'intérêt des investisseurs pour cette valeur.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Cardinal Health: Specialty Pharmaceutical Growth Glimmers But Risks Lurk (NYSE:CAH) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdS1wcC1uenAtMlpmMlJVc1NVV1ZGWmp1dG9lZXg5bFJYeVZOSW0zVF9kaEY2QXZ0VEpWbEltTGZJYlo2X3RiTmRtQmgwZ05EYWREUy11SjEwSG5MY3ZIM2NuZXcwVGhGUUgtcVdzUmstYTd6LUxjdkRsUzlHc2hwbTlWQ0Q0Y3R2M0Iwd2ZCTDBXWjJ5b2NsTGRMSGFGczdLMlRGZFpoR01CaUhIYVdqVTBB?oc=5",
+        "title": "Cardinal Health (CAH) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUg1SUFHZnY0b1FjQnhzcEp1VW5jbTQ3UEpwRy1XQ09sZmpfU1RuTWtmamJuUGJGU0ZnUnkta3FhUXc3UWp3N04zanhSaFI5R05OczFHTE93SHdtdEhTbFZYZ2EtYzNIZmZ3NUtSc2lIVVZtbVNVNXVDaW9JaEVhT3R3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wells Fargo Upgrades Cardinal Health (CAH) Stock, Lifts PT - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVhzNE5IUWtOVlpWdWh0cUFHcjExNDQwdlVtYXk1ZEtPZW5HZHBuOHJNMThDQ0VFRlhGZzhpNnhYSXBLYXBNRzRTY0Vndk5iRnB5bVBEOEFXWG50eE1XV0ZKMTBybUpqZVhQMnlXZTlWT2UxNVp3QmZRTmxKcDdNNW9pbGhDTEszbUpsZGFGTGpza0dvbjI3bG1tUjBRRTUy0gGoAUFVX3lxTE9aUWh6VTFZLVdyWHRPZE5WRWs2SW9ydVNONmN6akFSbmJtU01IR09VZFBUZFJ0a2MzRjFuamZnZThsWVIwNkF3SklvekR5MEVOcnVuTVh0X19xSVFibC01cFVzazE0ZHJ3cVBFSmQyZWI2bnl3OXQxX2cyeUxsMXc3eDU3MVlCSHBjNV9Td0ZhRExxWE1kYU12cFFTM3hFREFXd2taM1NabQ?oc=5",
+        "title": "Cardinal Health (CAH) Sees Price Target Raised by Morgan Stanley | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUNWc19qbWMySWc5SkRiT29XQ09mT3VtNC1EOHFlcl8zeGJpUXNTbHIwUEFFeWhONGxUMlQ4U3VRYkQxeS1LV3BxcTJYaTNiaEFlYlFYWXNTOUVTVkt5WHlPUXVfdGpzX2JoS0VOajY1UmFrMl9aTHMySnJWNHdlT0FRSnJZc0ZTUnpvRVVhY3BFb2lLdHhKQlpzTGkyYjJrN09wczQ0YU5FOGdGY0xGdDBpTUd0SzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cardinal Health Boosts Earnings Forecast: Unveils $10B Cash Flow Plan and Major Growth Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMU81SlBIS2hDRTN4Z1I5WnpHTFNIN3pUcG5FVldQekVmSXZ3cUt2VlRaYklLR1FTMVk1cER4UlFRUUg3LXVPVEtiRURMaXpGVGtOY1hST214ZWpGZHB0d2tRSUo5eG9FVlU4WktWc2FISVhvek5fazNTSF83Sl9kaFhvblBNc0tyVHJTWUwzclUyYW5BSm9sT1EtNE1qb1ByVnVUVWdmaGpSSXRKbktWUkVQWEU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Doubt the Market? 3 Stocks to Rideout Fear, Uncertainty and Doubt - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMldUblVCYm9qV0xPWTRqYzVvZDFjWEhNeWlYdjQwUHRaNjBlc3N0RXFRMEJzRnk1eFpqUXRpaDdtSXpTNE1CRHpXTXpvaHlDNzhMdDR0VURnNFJaUU82UmQ4bGMyYktMM2gwNEJFMzZLcEFCVFJocFBSanFyd0p5RTZkajl3aHNEQUdtMDRQRVU2Ri0yZ0N4ZW9sc1pXa0xtdnFhbmdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cardinal Health stock gains after guidance raise (CAH:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnRCR2Z2QjJrYzFmNExHanpvNnFUMW5ieXN1QU1OOW93VER1SjJwNEZ0YUxDeEE3NGh6U2pNc2ZrOTVJNm5FZlpTeGFmVlNtcVJFSktJcXZHLVg0X0FTbWlMZUhyYTB6R3hoYXAzWWpKMTEyWXd0MFFjblhIWDJ6LWpaellTOHpYbGpQbzRJUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "2 Reasons to Like CAH and 1 to Stay Skeptical - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQktsVS1YUnRLdGoxNF9PMEpCYlFhUmZFc1U0S2J5REpEUDFGLW5NVnF1SDZEM01wLVp4V3E1MnJoeW42b3N1Mms1dF9Tcm9IN3ZrTFhHMFVsZVdBUzVHMXQxTHM1U1M5SXhQLU5iMGVWWW5LRWdRR19pWThHMDdoR29obHI3S1FhVXY0MDdEaWxYWU4xNl9nWG9ORlZsVDNRSGxpTngwNlJpVVlyNldoWEZNZlBDN0NTbHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Upgrades Cardinal Health (CAH) Stock, Lifts PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW5WODViY0c0aUktbWJoWEp0SW8zbVd1SHI0QzE0ajI0U1YzaWdUOWt0SzNKUVhIM3pwMDhJUWtLMVhZMnFqY2ZfWmhFRUM2blEyYllyZm1vZFNKRE5lRUVIbi1xbHFISU5OWVRGNl9yLVBnUVdpODNJTTAzd19TSWNTOUItbHpMcTRMTnZRSUgxeThyeW9OcGZTYU9CVVI2SVZtdGx1S1NBS0tsZmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cardinal Health (CAH) Receives Upgraded Price Target from BofA Analyst | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQU5SOUk3QUlISUd0bWpESVBrU2FzSVhmSTl6dFZwemVLRDBHQ01haG05ZjBsbXB6MUlUUk1CSjlOS3FiSVBMTWNvckJEUWo1U050SUt6cldtOHVRbDRaNlBZTlpISHF1MVpvYmJpS2JqWXpxYm1GZHpDT3U2VVFxbjlIazU2ckdMZ1YtRklKTGRUZlVIMzhobG1EVFFUV2NEQkZrWjJyTk1nbkRzcDJfQ1RPQURtSnNJRHNfMTRBMi0?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -571,54 +601,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Cardinal Health (NYSE:CAH) Launches Innovative Single-Patient Monitoring System to Enhance Patient Care - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVpsWmlMX3A1LXhLb1l1d2RRSWVxME9ZOUJ6RzlGekJzUF96ZTVBSnZKbEc4NlNlV19tdXdwUHAwRS1sXzR6ZHpTZy1TOWRqS3V3TjA2VVNhU1lVYnNfbF9jTWVwSHkyYWd6QVRYNnYzMEFRMVVuanByUWhRTU16U2IzVW9RVC1XaC1pSUFocFpGdmJ5RjUyU0RVNWRpSEd1NlRVSzdIbmsxa09jWXRqOHl4dXBFOW91cG00RFJydkktRWdCQUtfWlBvZDhDUdIB0wFBVV95cUxPMGlPWlpLSEw4MFhPenppMG9acXNTOXZoVDF6amc4QzYwN05laGRlaERCYVMxWldFSmJZMVVaNk5tbU80MC1jRkplNUhHZTU4TFEyeFFka0pGTUVvWjQtSG5WQllwcnZNa2FZUExtNnlJLW4zQ0hydlZFQlZuVWpqS2JyZkRGRFBjQVFkeGFLWDhKUFRKMXpYeXJHZTNlbkpEMERtMkZJMTZEWjZfSUFoSm5aZ0hmZzJvUHJyY1lVeHZMZVRza0hURmV4MHd6TE9RZldv?oc=5",
+        "title": "Cardinal Health (CAH) Sees Price Target Uplift Amid Positive Industry Trends | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzdqZWF4VzgyNXpSU045cVlfQmdwQTB1U096cE13N01XaXRTdDBDbzd5SnVhaldXT0ZERmVhUjhETFFFSE1sekVORzlQbjBXSFZjaDI3TmtnTUZtZmViQTBqRGVGaVIzSVZSQnVaMWM3ejVSM2lPMzQ3SWJJdjM3OGN2SHNIdXI2NTFBT1NGV3BGTWhIWGhCaTVCSHQtWjUwVjdtMjdrRnRod1htNF82d0gyaU1YNXBKSzRrZjBjdndyZ1VnLW1R?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Cardinal Health (CAH) Receives Target Price Upgrade from Wells Fargo | CAH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlBsNEJGdnl1LUkxNFJYWTVxRkt5d3dNN3gyLVpoUUdZRnJQcnpKZ1VfbDBnNHNhM0dYSF91Ym1xNW1sd1pyX0RUSm5WbDJwc3hLaFNQUUxMY0g2U2lGMjJXSkVKQTNZS3RvTXVpSUE0eHJ0MlZlaF9WcUVpOXdmV29BM1Jma0FLSDF4LTdpQTFkLTVwWkhYNjRuTXFPWTk4OTJSU19GcWYxbl8zY3BfNmJHcnFLdy1kU2lYNUJR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Forget UnitedHealth. Cardinal Health Is the Best Healthcare Stock to Buy Right Now - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNlcyaFdTTlB2RU9IM1pBS0NMcWc2Y0dWUUJwQ0d3VXczRjZlei1GOFY1V0p6c19LeWZ3WG9UaHRDdFNNMmJ3ek9sSXhGREFGVUdBSEdDTl9Yc3V5ZmFsV21vYlRxeW84YnBNQ21UWG5MNTQzM0FaRGtBZ3hZM0ZKMVNQcTgxcWR4bVBTVnN6ZGI4RDczdlZxUVZ0c0Nqam9QNl93MXEtNi04OWFQMnV2LTU5aVgxaUdWbjBBMUI5NDN3QXdNelA0X094NXpLQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CAH Stock Rises More Than 13% YTD: Should You Buy, Hold or Sell? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2t4bENvb2xsVFJEY2lPWW1LTnVEcWM1NmpiU2NRU21JUnhnSU9XMUw4cXlTQXNtb09yZERob0RuSGtHOWhmQmg2bGlDZWVVemZqTThtcTBfRFlIZndDX2hLTHJMODRBSkpacnFDSXV6Z0hiQkhySEt1TmlaWVF1bDlOeE5iMmZoSG5heU9vNUo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mizuho Adjusts Price Target on Cardinal Health to $161 From $150, Maintains Outperform Rating - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOHBaVFBBb3EyMGUwdTJNS3RaT3BrRHBPZmJLV0hyYkNFM09MVXBsU1MwR0s1OGhfT2QyV2JiSzVxclU1ZzRZZnBoVldoanl4WnRpNl9jRkFyMWpSRzhRZVZ2dmVta2czMDZBaDN6dkluMkg1SE1WdDh0b2xUMWtRbDVrYUc2Z3Nfc0FDWkRsUW9vbWd2eS1HTnlPbWlqYnQ2dDFtYW94bDVLY19FTFNZcnc3eHZ4Y2c1aFBWa0RGNFRpWFRjZW1iTVAtM1ZOZDhKcVBPa2IwQjIzN3dDTk9uRjR2R2pVSTQ2QU1YRVdQbE1ub0J5Wm1iYy1JVXVoUVhwU1ZpMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Investors Can Still File Late Claims in $CAH Settlement — Here’s How to Get Your Share - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeE1GNVhXekNuejRVQjh1akFVSUVrcnRBNmxkOE0tWXl3Z1Nuc3hwTDhLX05rRF84X0lIZ0tfQ0dkNVZKem1CR1NVY2x4QzM0cjJseEJCdkI5M0t5VUFlVmlySFRmUjQza1lra2xwRGJibFpvVWhFb0hBUWZSbWQ0QnpsdDJERFFoTGNNcmlzQzRoX25HM2NGNnRnb3hxQ0pnbklmSldDR1hycDJTZDd4MWgzS0JxbGlHS1M2eW1HTHZvQ1h5VGFKVjRscXVaRTNaVXZqV1ZaVnhPZkN3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cardinal Health, Inc. (NYSE:CAH) is favoured by institutional owners who hold 89% of the company - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEN1cWZncm5xQnk2X2RHTEFLdzljX1FDYnN3SlMtQWFpcUgxMjk2RTg4anNRdURnM3Qyb2FxTHUtNmJZcW45QnpoclhEMm9JT2tTWEdpOEdsdGZGWk9HUmp4VTd2R1I3aHZEakdkZ05fdDVEWDcyN3Q1eHFUck0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cardinal Health (CAH) Launches Innovative Patient Monitoring System | CAH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRkxxdFprY3V4WF9ER2JuWm1MVzZ2M2IwM2FXOERzMlk0UHFNd2JwcHUyOTlzMC1CUVRFNmczYWl0OXR2cVQzTHU2dF9RaHRDaGh6b3hLOFBnWnRJa0JJTm53NHEtWUVORVYxOUpNYk1OZkNVRmtXdG10dnY4WjBmXzBnRmFZNkZTUHM5eTFwSm5CQUZFV3FYcjViQ2d3QXViVFJhMHo3aXA5R01Eb09UQmFXNzdSc0g3UFpFWTlvaFRva2ZwS1U4bXU2eS1WMzZ1Znk1MFl2N1BRYnBlOVFGa1lIclQ1ZEliTHZQQy00ZE5nckktSHdVRUg0YzdFYUpVWHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cardinal Health, Cencora upgraded at Wells Fargo on industry outlook - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWY4MnF6SXJTakQ3SWhaU2F4RXRtWGdJVEdIeENxbHRJZlBCdGVNb3NGczY1VXhGLXhFanBkVHg2QXdzUTcxbDFJLWlRa2lYcWdMcDFTTVdQZzRRbjBzY2RMVkNTUjVHM19yN2U5N0gwemxldFBOazJvX2FTX3VkWUV6MTdaZ3loRTNFbnN4Tm8wTFZsUF9RZGdR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cardinal Health Stock: Is CAH Outperforming the Healthcare Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzc1LWVlVDJvdUVzNzJ0ejV5aWpxdzhfUkdiTHR6YXJoUkQyYUlEcU9zQVhCcnMyRC1QYTlmX20yYWxsTVBHQzJFMlRfU00tQnJqT0R4blhfWFJUQjE2RXFKWWdPZVAtc21hblZYQm1xZTcwdVF6cUZ5d21nM2JrY29PUjExYzdZeVlnb0IwZnVvUXM?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Cardinal Health (CAH) Stock Moves -1.14%: What You Should Know - Yahoo Finance",
@@ -626,36 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Cardinal Health (CAH) Receives Upgrade with Higher Price Target | CAH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHU2d3pTZG04UmpjSHNtb0VyTkxNVDZtRVE0ODYxVmQ2Sk9GZHhLVTRkNHdtTUFfa2pzeTNaN0ZPN19fWEJpRy1vVjRYYkNadFBCSm1kXzJwaTVidHZES21PNjQtalMtSk9VdmZqTjBZX0lWb1JtUzd4Y0RIdktUSVpxWWIwUGp2eFF0ejdydV9hYk5LRnVCWEtoRk5jQjNvRTNfQ3Q3aloxRjVZcG5ZQmxQLWp0dw?oc=5",
+        "title": "Cardinal Health (CAH) Price Target Raised by Citigroup Analyst | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUZFcFVhMmV4ZUxpUzFpcFp1cm1VbWpfMS1PSXJ3eHpYeHA1ZTNQQUVTbW1Ud3d5Tk5VcmxSRVhKOFAyX1lrdXVZZ1dZVjR5T0FCM3BJM01ET1BlNkZUMi1Wb1o5V0VBMkREUE5BT2wtYzZXNmNsb3FJd2xXdmZQd1Izd1N2c3lLY0Z3aUk2SGxtUzRNYWJHMTc5Q0ZxVkNqdklJSlpuamN6dm5WTVJ0UGxvM28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cardinal Health (CAH) Price Target Raised to $170 by Citi Analyst | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1pWTl9BMGp2dGh6VUtFTVc2NmNILTFrckRDRklDVUY0SWp4eXBkVHNHY3JrbjFSdGg4TmZ6cGlQNjRYaWFfZVRwdmJlMkRuQktEUW5VWTBvdGJQQmRMSFNDQTRBci11RTR2Q2VnckpPVmQyeE9qajhqR0QxUUJWLWo0OFp1dFRTT1EtT05qaHBQd1BhRmxRbGg0VlNTZVkyYldmNnA0MWlmQTRrUmNlcS14Y1dhMDQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "CAH Q1 Earnings Call: Cardinal Health Misses Revenue Targets but Exceeds Profit Expectations Amid Tariff Headwinds - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEdBRDdnN2VuTi05U0g0VWRnZWdjaUVfamlmamk5Nmc2SlBWQldLYkY5VERQdkw5bmk4U3JXT0lRYV91aGdSMFh4UUQzbUE5d0Y2YnVCR1FBamgxMV9LNThkSWZtSmJYd1NoS2xXNjBteTdiNUJ1dEp3ZHVWMTZiNg?oc=5",
-        "label": "NEGATIVE"
+        "title": "Cardinal Health (CAH) Pursues Growth through Strategic Investments | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUk1BcUExMDBSN3dIbVphQ1B6WVNqSUdxbW84VlVOdGxHcDAxSGVoai1OY2JpX1hSNmNrXzR0dWVyNWpPRHhUNkp1R2NadGRFVldodVh5dEdiaVRMRC1tZ28wTGx6SmFyQ2JWUmhKeGF0TUpxWm1Ub1RCYk1JWXdVRTNJeWhLM1llV0lKemdKT3JiYnhpOUVZbnJGVUlQMEJ2WUZvUi1DODFGSWp2OGJDZl9nd3hJSndHWEZ5WWFxWGJfTmFKcVctN1JGaktqTkdVVG4zV3FMbXg3c3VPTWhTYU1nT1pZZEVoSUs1bFN6MmpLdFJ0TE4zb05DX1lDZEh2?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Cardinal Health (CAH) Receives Rating Upgrade from Analyst | CAH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3B3ZTN3dWxuTVpuSG9kYXI1RXMzVFdoR1VaZ21Md1hPWmtRYThpLWlqRDJFelBENFpkd3hUYW1yRzB0bG1tNzRlU0hJMWNhcjZsaG1fQ0dkLWhrNzJYNHdwcGREY3FmTXpRNjlpWDY3OWZialNEVkZrNXJmcDd5RU5yUlJjRFZVdWIxSlpRY3FFU2pCTmJxNWVVS0dOV1hnX2lTT0M2NU5IT09WYk9v?oc=5",
-        "label": "POSITIVE"
+        "title": "Evercore ISI Increases Cardinal Health (CAH) Price Target to $180 | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDZabHlYU0M0a1ZMUGdUMDRjS2hvMng0ckc5TGVaUnJEd1d1QmtuckRhMHpXQTJIbG9OUmJobkw5ekowVFJEUVpFZUdxU3M5VVB5VkhCTWMyRUU2MzBtUlVEUzVFbE9aOURGTjZURHhwcndXenR5bWlaVktzQUcxWDFUcmNTR2JvSkQ2YUpsUHJ3LUEyMU9FQzdoWDJmeER1NWNUMngtX2FFbHdjSVE0REVKWHdUQVk?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "CAH Stock Up Nearly 7% This Year: Is Now the Time to Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3NEF5c1kzMXVrZEdjMTBabU5FZlBtUDZGci04QU9CQW5GbHl4QXU5Wjk5dGhrdDVXY1k2SXdTQU1iUFVfTkF4VTRKSU81WEs1c1VPd3NtOXpkOEgwSFRlODI3cWxkdlNpZmVZR0I2SnhlTEozaHRJ?oc=5",
-        "label": "POSITIVE"
+        "title": "Cardinal Health (CAH) Target Price Raised to $180 by Evercore ISI | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTU5TMUhsczNRMVdleUs2SGNCa3g0OUx0NnFYUFV1WDFiMVM4Y3JNcE03TVFqcVVleE52Y0xhVUpqY2Fjc20xY0RkRl9yektjZGcwczRZbE9HNFRVTDV0MXBfeko4UWdrNmlEMG5rejB6dy1iOW1JRWJidVExWmZ3QS0xZnkxeXB3VHQwdmhoS0pJMkJHN0Y0R1ZvbnVNWjlXRGNreXpFQ29HVm92TGd0MjVDS21jWFk?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Cardinal Health (CAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVVUZXl3RXFBblRLMC1halFHR0t2dDFJNHRxSndSclBISjFtMUlKTWJiZUlkQ2dFQ0NvcnFteDJIZzBVTTdwTEdSR2MybXVkeFYxVUxzU0NJWWxUN0RFLUtVUmhxdWVCNDdLaTJzQ1ZWYnd4eVVzZ0NTWk94MmxDQzh6OA?oc=5",
-        "label": "NEGATIVE"
+        "title": "Cardinal Health Details Momentum and Updated Long-Term Value Creation Plans at Investor Day | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEF4Zi1HMTlndFpKazJGbUJIbnJfdWVySFc5eWxZYnFlbzRqTUV4bE9IQlJfNjd3VExfQmxmYnBfMEV5d05oQVR1WWJhX2RiUW95bTVYbTFHX2RCRTBaNG9zTnNzMEFqVUZtTlZkTEVQQXNQTkJlNDZLaFE4NGlkazM5cjAyV1hLX3NxblRTQmZHUGNBRElHY2xFcEdwY1o4LWpIcE9ISUNQcUQ5eHVOREJnOHh5THRYbUpQR240Wjh5MnhhT21tNXZ5ZEFtd2RFVzU2SllnRVBhejlCcjhQaXVTeVdfa2F2OUpwUg?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Are Medical Stocks Lagging Cardinal Health (CAH) This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamRSMWNrQ3FfTFd3Mm5JUmVTM3FBZDRRRWNBRTAzZ09iSVFfRDhKTjM5UW5WZWd0d0pKb3lXTkZfRjhrTGlPMkFvZUxRcm5uSEg1RnA5Wm5nMlhEYlEyMHFuNlM4SDNLZjBMWHVSUko1MXRLQkoyMzd1S2g5aXFTOHdpWlNVMjIyR1QyaQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Forget UnitedHealth. Cardinal Health Is the Best Healthcare Stock to Buy Right Now - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEdUNkRjQUl0ZW5kSmFSV2hLUDJHdldTMDB2ZGRJSC03NU43VUFRQ3kxWVJVSWc4b0lEbjZlOElRMlRTVEZRVmVfaGtzdTBjNm9xYkw5RkgxbkxkOWRqcnJ0VFByQ0lJRXk0SVVwZkZDb0pLWFlmUjFXa3ZiNFh5bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cardinal Health (CAH) Price Target Raised by B of A Securities | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNF9WdzJsMmFGbkVsa2J6aUxGMmZSMFd3MEszS19xLU94RndSemZILV9XWG1YQnFWR20wdlljaDJOblpENG9ZTThNNldzZEpfSEQycDBxNmIzUVVTLTVNeHhRdlV0YkxsMjd2Y2ZSS05ZVjZBTnJDbUpSc2pIZGhOa3k4VmtkdF9tbUpQLXEya2R4OHBuSjZ5NDhLQXNhNkVGZDBteTdjYmNWZllHM0ZoQXkxNjRGQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cardinal Health (CAH) Price Target Raised by BofA Ahead of Investor Day | CAH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEJVMmRtdFBJdHpPRVczSUZ6OG5XYzR1Nmt6LWF5bU1KOUpxSm9JN1FmWVNEMGRER3E2eC1XWWVRa2M4UVZnRVN6SEUtdl9iblZvOGJ5Y1dMNmhRSUJQdmNobEd5Y3ltamdKd244RkJIVUo5b1ZEb0hqaEtOUk5YR00tSVVTQVFTYVg3ZXVpR0lLdkJqWlpsOFdaSFdWZlRTaVl0M2ZHcXoxTnJhVXlBNDJZa2thcXNxSlVWMFFKQ0w?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

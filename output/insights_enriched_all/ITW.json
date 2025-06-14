@@ -2,12 +2,12 @@
   "ticker": "ITW",
   "name": "Illinois Tool Works",
   "sector": "Industrials",
-  "market_cap": 72493678592.0,
+  "market_cap": 70906568704.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.73351,
-    "PB": 22.340656,
-    "EV_Revenue": 5.043,
+    "PE": 21.257696,
+    "PB": 21.851551,
+    "EV_Revenue": 5.041,
     "ROE": 1.07584,
     "ProfitMargin": 0.21371001,
     "GrossMargin": 0.43707,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.17079263408544243,
     "ROA": 0.16544001,
     "PEG": null,
-    "EV_EBITDA": 17.593,
+    "EV_EBITDA": 17.586,
     "BuybackYield": null,
-    "PriceToFCF": 26.976216424885592
+    "PriceToFCF": 26.31209355439575
   },
   "technical_indicators": {
-    "RSI_14": 54.26246896289651,
-    "Momentum_10": 1.0583941264482242,
-    "MACD": 0.9049615722779264,
-    "BB_Percent": 0.5779716464239789,
+    "RSI_14": 44.45328014632336,
+    "Momentum_10": -1.285298323706105,
+    "MACD": 0.5412350355301214,
+    "BB_Percent": 0.1009187008281905,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9228171505580018,
+    "ValueScore": 0.8723526512723723,
     "QualityScore": 0.3700757741320518,
-    "SignalScore": 0.5571653387049833
+    "SignalScore": 0.6157374586936304
   },
-  "volatility": 0.0164950618005171,
+  "volatility": 0.016599724053848,
   "beta": 1.119,
-  "return_6m": -0.0856751147211005,
+  "return_6m": -0.1010255086595822,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 18,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 274.07
-      },
-      {
-        "date": "2024-12-10",
-        "price": 273.75
-      },
-      {
-        "date": "2024-12-11",
-        "price": 272.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 273.12
-      },
-      {
-        "date": "2024-12-13",
-        "price": 272.11
-      },
       {
         "date": "2024-12-16",
         "price": 269.66
@@ -537,87 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 247.56
+      },
+      {
+        "date": "2025-06-09",
+        "price": 247.28
+      },
+      {
+        "date": "2025-06-10",
+        "price": 249.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 246.62
+      },
+      {
+        "date": "2025-06-12",
+        "price": 246.01
+      },
+      {
+        "date": "2025-06-13",
+        "price": 241.48
       }
     ],
     "current_price_data": {
-      "price": 247.56,
-      "change": 1.53,
-      "percent_change": 0.62
+      "price": 241.48,
+      "change": -4.53,
+      "percent_change": -1.84
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Illinois Tool Works (ITW) a récemment été au centre de l'attention des investisseurs avec des événements clés tels qu'un achat significatif d'actions par un directeur et des acquisitions d'actions par un autre directeur pour une valeur de 210 000 $. Malgré des signaux positifs tels que le dépassement des estimations de bénéfices au premier trimestre, des défis de croissance ont entraîné des déclassements par des analystes et des recommandations de vente, notamment en raison des tensions commerciales sous l'administration Trump. Cependant, certains estiment que l'action présente un bon équilibre entre croissance et valeur, ce qui soulève des interrogations quant à l'opportunité d'acheter, de vendre ou de conserver des actions ITW.",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.55,
+    "summary": "Le titre Illinois Tool Works (ITW) a récemment suscité divers avis des analystes et des acteurs du marché. Malgré des performances solides au T1 avec un EPS dépassant les attentes malgré des vents contraires du marché, le titre a fait l'objet de déclassements et de réductions de cibles, notamment en raison de défis de croissance. Le stock est également confronté à des pressions actuelles, ce qui peut expliquer sa sous-performance par rapport à des indices tels que le Nasdaq et le S&P 500. Cependant, certains analystes recommandent toujours de conserver le titre, soulignant sa solidité en tant que valeur de dividende sûre. La récente proposition d'actionnaires et les ajustements de dividendes pourraient également être des éléments à surveiller pour les investisseurs cherchant à se positionner sur ITW.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Insider Purchase: Director at $ITW Buys 872 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2pVeTUxSWxhZkxxanRjS1hiaGRoR0RRM0tObWR6MFJDakFqUHRHMEFCdzhKZVhjbHNmTmtsdDFxVE1lZVl1TmlKZVYySTJFcS01MWZ4VlpVZDhKLWRiTkdtTTlDS3RCSjNNRnZqVUxIZWhKQk44NHN5R1Y4YkRrRENEVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Illinois Tool Works Stock Underperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSWl0ajdfOWpydWJudHktSTFSbFlEcFNiUndXTUUtLWY4YUw1ZzZxRXk3c3BIdG5TN3JNN1QxWFQtYS1iREdJUHRUd1V3aG92UTNhMl9EQ1lWSFJvZFZ2UDdPRHk0WnF6WUNsUEpGV1FCU25GQ1ZKd19mQTJyVWlHV18yNFZjQUExdFVDLUROV1JXb3ZBU3p0NEZQQnA1QmdET0ZaVWhBajBWVUc2Y2dDVk04X0txdC1uUFRWY2JFMml2aXUwVXhPN0hBNC1UR3dOeHRpSlZXRGQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Director Makes Significant Investment in Illinois Tool Works! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUlhRGpHS3ktdWQtaVZBVE1VNEw2ci1wZTlWemJjY3J2ek9oRXpZb1dOOUR0QVZPRWl2SUhEZUhRUFM4c2pqZlhZaFJNeTlHVGo0Ql9wTFl6THFVZHZ4TnlyS01hWTQ0WHlTZzNxM2pHTTBwRnIzMVNxcTBGVWZhZ01xZ0k3c2dDNmhOM3h3TDhNdkRxS3JqSHVuSWVLeFZpMXVMYVZxbmxzdWZyLTF5NjFVcHkzSldRa0ZJX29BQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "At US$252, Is Illinois Tool Works Inc. (NYSE:ITW) Worth Looking At Closely? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVE1BcXFvTV9wY19PTmdOM3NXMlhHenhFd19RNlJLZkpSajdDbWxnT3dDX1VlZHNNNUZ1XzJ4Q0syOUZVT3UwNnptMWtUd2tLNE1qaERaMFJiS2hJSXI0dVM2bmRVZEUtczd3YmFITk5LM2dtVkctR1FhaWhpR0ZYVWczcHBXN0NXeVc5Y0ZIU1RiVkVxYzZFRDNaZGwwWmxpcW5Dc2lmUkxfdXZlb04xRUY0MDhPWGFJdTYxWDBJUzExNVhFWTJVQVhPRFpQUndnaTNHWGk0ONIB3AFBVV95cUxOYXV2NzRiNXJ4Y29WSFJDZzBNQjIwT25KcWhVaWtTV1poQjF2LXVLTUN3UklobWxoUkZJaDJ6WTRleWRBa0RVTzRnRzRmNkNKNEpvZTA0Rno3QnNJalZIQWR4YmxaUnJJSmNmUk9ES0FncnZkbDVjZWJWcXRjSFp3S2pzOXkxdzl4QTdTVm5CdXNGWHJWSzBsMzA0d09DVWs4by1NdnZFY21BdF9pOWhnWDExZlF0dUllYTRMdFNhQUo4cnI3cUdwcVlVUDEtZUhlX0prUDFSdU9JQ0JJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Illinois Tool Works (ITW) Up 2.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uWk13VHAtV1hORXdSRkZtUVE5enVESElxVy12MlJ4WXdSb3RPTWYySUE1RVkzdGNWOFRDN290M2tTYXRHSEtpcUM2VGpJOVNlOVdfOG9adWhvLWwzTzd4Tk9YVVd4Ym1kNEhZZWhCcGdGZ3JlVVBYaUU1dw?oc=5",
+        "title": "Illinois Tool Works: Focusing On Business Acceleration; Initiate With 'Hold' (NYSE:ITW) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWtBVktoMWFzVTZkYVAyTXpZX1U4RHo3UWtXUERTa1ZfWi1mbXlPV25weEFsTlBYOE1jUmFhQWhlU2tPNGE0ejhVOWFlYS1Yd3lSV3RGaHR5R2o2MWFZUEMxVjZFcTZlZ1hJWjNPaVdCV3MtMUIzYUljUUQ3UFQwN3pNMUFKcHgtdFZXcDZGTEw1VFNqNy1kdTVMVWt1eXR1X2c3VHdNR3lwcGw2ajVGRjl6VQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Illinois Tool Works Stock Is Under Pressure Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWRSQlhwdVRFU19JdEFXLTN5LW42QkFkd0ZFMGlKUFJHQktKTHFMaXowcl9NMzh2NzVOS0tvS1ptMGd3SFZyaFdXUjdiYlVhSXZqOFJWVU1ONUdXUTRIMkd5VTBiWEpsYmtpT1NFWmRvYW1MMUszaFF0ek1DdjZSZVBrcEF4RzExU3VFOWhIZWphaktaMTAyNg?oc=5",
+        "title": "(ITW) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcW1UamV1UEE5ODUteTU4d3hjT1ZuN205Z2t5Y0l6V0c3MEZxVG9fNVlRcWdqR3FJSXc5SXpqSjNuN2Z2NGFWRy00ZERob29PX3AwTTdZQWRwc0FnWXVMVlZGZC1ieWFmQ2FfTWxjVmlib2JkMmZvTU9CeHhBYWxwcTlPVFJsWDNucGdBdzYtUEFQOXpRS09FdQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Illinois Tool Works director acquires $210k in stock - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnBJVjZSeV9fT2FpOEZFTFp5UUh1QTZWRlpndFl5bXlmS1NqT3dlcVdWMFFyZmpQQjBfNU4zT3pjWnlSRFZ6R1Z0SXRmdi11OWphLU53NVdndFBtM2g1M0QwV0dITmtGQU55ZjFMZkhpWEFieXdCckp5dl85YkszTlRjbzJ2YXowVWc1SGJMUWFTa3FVT2xFTTdFVF9NZWlmR3kxZ2gwdWpIdXBoSFE0NkFUTUpBZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hedge Fund and Insider Trading News: Bill Ackman, Ken Griffin, Warren Buffett, Brevan Howard, Illinois Tool Works Inc (ITW), Block Inc (XYZ), and More - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVFQyeDZwdFl2Zm9HM3pfLXp4bUpHZU0zc2tHRG9ja3pOTFhwVzJGRTB3d2JuZ25yNVFCb2Vvek5FT3dQVmpqSWdrdHhNODNmSU9LMUVmT0ZGSGZnMjFadHBQNGdrcFNJXzlrNXR6T2Fza2hBRW9GNkRIeGlNRmhubElWTC1rMXZaMllLYkVyTzZ4bFZFUFp0ODJZc1F1ckJ5WEVyT0EwV0NFNHpMU19iY0Vvb093MkNxb0RnbmxsaG5GZkxUY0RoT2pLckVsdzRTWXAxajJJZEZUeFBTQzBWbTlTYkxMaGdaMXJHR2N4YmZESVdCeXIwR2FpbmJlV0c5Tk9uSUVGNG9GYlAzSmh0Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sell This Stock, BofA Says. It’s ‘Uniquely Vulnerable’ to Trump Tariffs. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFJmWnNCSFRGZWxXVmhSbDhaMWdXSkxCRHRjLUZBbTBZRmp5Tm01UUdTTEdaZEc3b3gxaFJPaXJfdkZuMlhGWXNzNjJjMnVGUUIwWExzTkxKaklGLVBOMThJNUtzUG1aaV80N1QwQi1rSmMxM2tEakExVlNObldJOFRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Illinois Tool Works (ITW) Downgraded Amid Growth Challenges | ITW Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1FuWDhxbm1McVRIVFpPQnFHSU1DNW9rNWZ3anFQQVRTQ2E4X2I0cXRYQ05xQVk3OHE0dTY3cm9xUFBVYldjanQ5Wlc3TE83Q2ZTcDJWTTdpVHBuV0tIbTh4SXpUc1BybWJpZW95Nl9NVmpZRm4wY0N2VU1mZ1V0dVBESzJwRFRzZmpsaW1wS082ZFNJTEQ1TDBvZmZVTU0ydkdIX2JITTB2MXNpNmk2Ug?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Illinois Tool Works: Good Balance Between Growth And Value (NYSE:ITW) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFIybjR2VEdXalpKV2ZsWGdaTXFjQ1FXUV9CUEJubE5ZMzl3dHlSOHJfRVRzM1MzRENhbzduSGhaazBPU1hNZXM3OEl5TDBiN3h2R0JRbk1nRWNkSVZMWUlyWEczSDlWdEV4RFJNUmJsZ1padWNxMWxYZE5WUGhWMFN3M2lOUDF2VG52VzlRQVVVQnozQVVnVnpPeVI0WVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Are Wall Street Analysts Bullish on Illinois Tool Works Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3pWc2tKTTBORW9EckNQTW5pVFFSbVU2ZVdKR2JVR0F3UFJYMEtQczlqc1c4WnRwVkxXeGZMbkg5UERKcmsyZFJaR05hcHBrT0JyRl9IVzdSR1N2SzQ3QzJRdUhPdjNmcGVFZDJPaTRtSGRIM243QjRtbHhXS0Q0UkJnaFpYTTZpTllKT2k1aWtKNUJwbm9UMWowcjhoLUlnMUxpTk5OdmZldnFTSTllbnlSRndWUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Are Wall Street Analysts’ Target Price for Illinois Tool Works Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3BFT09sYWZGcFlyTXVhajY5R083OW9fZ3p3c3dwOThPY01mYzRpWmlpcmk5eFNtZkh0LTFabnVmdjA1bnd1eGhPRmlkMGZZVThKbWtON0JGbEh4Qm9VOF9jdW9qa3dEemlfR0Joc0ZrbllzMW9XUWx5djdLbDlqaTlmZC1PT0xCOUFfSjkwWDc1UkRvdk1yV25kLUMyR0ZFSUE?oc=5",
+        "title": "Argus Adjusts Price Target on Illinois Tool Works to $275 From $270 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeGwtTTN4V2UxNS1kckczNlQ5a05aLVcxc2Y5TmVjdWd2Um5VVnd2ZUFJYWs4OWE2NlZ5bjVOcElyZ1dFYWdJRmFCS2paaHhSM1NEQ2J4Ql9ScWNZWmVQNGdKTW52YWc4YjFFTzNBOGkzRi1hS1lrME5KRXJ2VDNjOXZ5cUpxNXJnRlBhRnpDN19wank1NnNHUF94QzdVaUt4YTRsekRoM1YwVXNKMi1fT0FHczBhYXlmclJCbnJ5ZVcwemFIeEdBUUsyWm5odmVOMmlnRnZMLU9icFV0dzJCWFdEZ1c1NDNZ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,9 +576,24 @@
         "label": "POSITIVE"
       },
       {
-        "title": "ITW Q1 Earnings Call: Tariff Mitigation and Steady Execution Amid Uncertain Demand - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tOTlKRS1tR2JKZjViTjRlR0N5enBwUzJOWllGckJDNjZSanFiZ1NTQ2JqdHhnOE93OTBnY3Z6Yk9KM2xhdk1Xa3QtcUVvcmNtejdrdjVMZkRBWVd1cFR3QTlVNnQ3QlFCSXVVUVJJWS1JbHJPVnB1dnlrWHRuZw?oc=5",
-        "label": "POSITIVE"
+        "title": "At US$252, Is Illinois Tool Works Inc. (NYSE:ITW) Worth Looking At Closely? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVE1BcXFvTV9wY19PTmdOM3NXMlhHenhFd19RNlJLZkpSajdDbWxnT3dDX1VlZHNNNUZ1XzJ4Q0syOUZVT3UwNnptMWtUd2tLNE1qaERaMFJiS2hJSXI0dVM2bmRVZEUtczd3YmFITk5LM2dtVkctR1FhaWhpR0ZYVWczcHBXN0NXeVc5Y0ZIU1RiVkVxYzZFRDNaZGwwWmxpcW5Dc2lmUkxfdXZlb04xRUY0MDhPWGFJdTYxWDBJUzExNVhFWTJVQVhPRFpQUndnaTNHWGk0ONIB3AFBVV95cUxOYXV2NzRiNXJ4Y29WSFJDZzBNQjIwT25KcWhVaWtTV1poQjF2LXVLTUN3UklobWxoUkZJaDJ6WTRleWRBa0RVTzRnRzRmNkNKNEpvZTA0Rno3QnNJalZIQWR4YmxaUnJJSmNmUk9ES0FncnZkbDVjZWJWcXRjSFp3S2pzOXkxdzl4QTdTVm5CdXNGWHJWSzBsMzA0d09DVWs4by1NdnZFY21BdF9pOWhnWDExZlF0dUllYTRMdFNhQUo4cnI3cUdwcVlVUDEtZUhlX0prUDFSdU9JQ0JJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sell This Stock, BofA Says. It’s ‘Uniquely Vulnerable’ to Trump Tariffs. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFJmWnNCSFRGZWxXVmhSbDhaMWdXSkxCRHRjLUZBbTBZRmp5Tm01UUdTTEdaZEc3b3gxaFJPaXJfdkZuMlhGWXNzNjJjMnVGUUIwWExzTkxKaklGLVBOMThJNUtzUG1aaV80N1QwQi1rSmMxM2tEakExVlNObldJOFRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Illinois Tool Works Stock Underperforming the Nasdaq? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXJwWXJUa0pxMnNkbnRHZ2cwcWJXcEVrZnRvSkMzZExIMUtoU1Z1dmtIRkF3OVhibG9sVHlIekxCZFVwSHJLdDFYbEZGajF6NTFXY1BtUl8yeFlBRG1XZVpFRDd3a3Z5Mkd0Zl9rQUtOaWR4Y1hUWFRqRkdiQ3plN0s2YmdvY0Ewc0Q1NVEwQWJvTkVyYjVnZmw3aVBTRWo1VTNRSUswWUdtSFNoTlV1cUlfRE1xMEN3Z3d3dEkwU3oyMlZGdnc2dkUzWi1XSXVwNnIyOGQyMW1RUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "1 Ultra-Safe Dividend King Stock to Double Up On in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXVUa2pYMjdnSVBMcGdOSmxnUWhIWk92ZHFVZlU1TWVEd0FXU29Oc0phQ2F6REZsM19JQThUQlJ4ajQ2cW5MRFVLbTd4NTllNEJqWkdUTktCTVFfdnEwTVFuV3YyX3hLTi1FYjdWdHlJczMtZ0xzVzdEOUFxcWstLWRsYnc1RkZEalZncl9tcFk2UQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Is Illinois Tool Works Stock Underperforming the S&P 500? - Nasdaq",
@@ -636,13 +601,48 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Illinois Tool Works Delivers Strong Q1 Performance: EPS Exceeds Expectations Despite Market Headwinds - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnE0aDh5U2JlVmFkYktTdDdmOHRKcUw2aDBPNlFYMnVqUE55N01hMktRM3FPM1BMWXNpeVVlOUtqTUpSeTRkMEloZnJFakVMWndWNU5WV2lTQV9YMzRUMG9vSHd3eXBfUFN4LVZYZmZYRWRvUTFmU0hZRDBiZ2ZUN3ItZ0ZqMzZDbFJZeA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why You Should Retain Illinois Tool Stock in Your Portfolio Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEtjaFowZTNVd3hSUHhZRHVmcmJHY1diV3hQSW11b3phX1kzc3U1T0E1dGN4Z1B4eEJCTnlzNGRVVnB3c2FkeC1VVUpPR3VTdkgtUkpMTnpSODZacFBKck9Hc2dWSC01dHdTX2Zpa1RGcGlmR2htSm5wb2FjUG1sMjFsdGtCTXowUFVoOEJ4Z0Y0M3laaUNYOE5kbjJjc1M5TkFtX094Nm5hSlNrcjBr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ITW Board of Directors Declares Quarterly Dividend - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmV1enZoVUhBNUlxdFctM2xXbGNTcl9pQ0F0M0g3ZTh1eDFWR3FQWkFFTDM3RUdGZ3NCNXNRa2JWTWFScm8yRnVyc01BcFRXcjVtZHRaaURQdFd6WTNDTEdzdkFaM29JN1pvWjlFaWxCcDdOTUpTSWxjYzFzQXBtRWQycnN0WkQzd085WUIwRkdhRm5rUFVyM0ZpTm8yVWJoYVpnV1g4NEJkZW93WXJjUXljRkozamd4YXR3b3hYbzFQNnNN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Illinois Tool Works (ITW) Downgraded Amid Growth Challenges | ITW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1FuWDhxbm1McVRIVFpPQnFHSU1DNW9rNWZ3anFQQVRTQ2E4X2I0cXRYQ05xQVk3OHE0dTY3cm9xUFBVYldjanQ5Wlc3TE83Q2ZTcDJWTTdpVHBuV0tIbTh4SXpUc1BybWJpZW95Nl9NVmpZRm4wY0N2VU1mZ1V0dVBESzJwRFRzZmpsaW1wS082ZFNJTEQ1TDBvZmZVTU0ydkdIX2JITTB2MXNpNmk2Ug?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BofA cuts Illinois Tool Works stock rating, target to $220 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjRVZjhSeVZ5UmNpS2pzTUpkQW93d2w4NnZod0pxdlFNOFI0NS0tdGVXTTQtay0zQ0h5U0hxa3hkay03OTdyek52ODBKNmI2YmpSMFlwNm01c3hDS0FMMzRuTmhsSjh0WlNKWmgtQTFLQ0FIWkdNSTlucUlkMFRCLXpPOFZzNnQ3M2lyV1JSdVpJQk9wbG9qU2RlYjg1Y0hTdVpsZVJoUW94UHpIMmlyLVBXSVFubk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Illinois Tool Works (ITW) Up 2.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uWk13VHAtV1hORXdSRkZtUVE5enVESElxVy12MlJ4WXdSb3RPTWYySUE1RVkzdGNWOFRDN290M2tTYXRHSEtpcUM2VGpJOVNlOVdfOG9adWhvLWwzTzd4Tk9YVVd4Ym1kNEhZZWhCcGdGZ3JlVVBYaUU1dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Are Wall Street Analysts’ Target Price for Illinois Tool Works Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3BFT09sYWZGcFlyTXVhajY5R083OW9fZ3p3c3dwOThPY01mYzRpWmlpcmk5eFNtZkh0LTFabnVmdjA1bnd1eGhPRmlkMGZZVThKbWtON0JGbEh4Qm9VOF9jdW9qa3dEemlfR0Joc0ZrbllzMW9XUWx5djdLbDlqaTlmZC1PT0xCOUFfSjkwWDc1UkRvdk1yV25kLUMyR0ZFSUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Illinois Tool Works (ITW): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pOWVOdDQycGQ5ZTNTZGcyOFQ4bzU2UFJZdGtMT0RoSGh6VVQxbFZaaENncjYyV0FDTkxmQkZOUkhYc054NElCNGU3dnRhaENvOXYxdC1NTjRVOVhYdENwSTZLSGp0QmNPMzZ1M3VTRVFCZllHdHo3MzNMT0plZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Illinois Tool Works (ITW) Among the Best Industrial Dividend Stocks to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMU5fZUtFWWVWdmF5RlVWaThfaGxtVS1TQTU5WW1fdUlMaEc0RzJYUGYycUJKdXJ0UDVGWGVONFB5aWNPcXRxUlF1TERrb1JSbVdBTFA0bWZFdlJkYjFrWUhmT0laUGVrU1FITExsX1ZsdERRTVpDamVLV2pnNjIwRA?oc=5",
+        "title": "Why Illinois Tool Works Stock Is Under Pressure Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUtMVGhUZzkwTGVZYWpUUXpCbG5sYnBVZlVPLWoxM2hnQnJiWUVuaWh2SEVzdU5QUkZyVmdPU2lNcGZGTjRSYnNBZE5mMHh0bm51eGd0MGxFclVLYk95bmRmckJ2U1RHa1VBRjRobnJzaEV4YjZWOWJSZWtZYUFUdA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +651,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Illinois Tool Works (ITW) Tops Q1 Earnings Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91MW54LTBKU1ZuU2pOU2lZM2hmMllmZ3dBNy11OFVYVFI5bUVsMGZWRDFiQzZuYzItazRUcnExdnQ0UVVPOEJES3gtS1RpWXpVMmdrdXhtWG9sdUhCWkxUNjV6Q2FIWGxpejBDSHlEN0VnWXFzNVpSbnV2NmZhZE0?oc=5",
-        "label": "POSITIVE"
+        "title": "Q1 Earnings Roundup: Illinois Tool Works (NYSE:ITW) And The Rest Of The General Industrial Machinery Segment - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1V6bGRjend6VlZBbHF5b3lxamZWSm1Yb2o3RnZqR1lNMGFoRUVlUmhuY1k0a1FMUkNrVlFLRjdCZEpVekJ2TUM4emd1c0hURjFsZFdoQlRMMkdNWTlHYUx1MU9uckxBTlBpajMxb1p3dzdodVFwcWRNZzFaSUZaVFZoZEg2QQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

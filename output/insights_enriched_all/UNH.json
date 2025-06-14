@@ -2,16 +2,16 @@
   "ticker": "UNH",
   "name": "UnitedHealth Group",
   "sector": "Health Care",
-  "market_cap": 273484562432.0,
+  "market_cap": 284057272320.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.614226,
-    "PB": 2.8867166,
-    "EV_Revenue": 0.794,
+    "PE": 13.1073675,
+    "PB": 2.9983149,
+    "EV_Revenue": 0.844,
     "ROE": 0.22700001,
     "ProfitMargin": 0.05391,
     "GrossMargin": 0.21989,
-    "DividendYield": 2.99,
+    "DividendYield": 2.78,
     "DebtEquity": 77.277,
     "CurrentRatio": 0.849,
     "QuickRatio": 0.769,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.049008733016050014,
     "ROA": 0.07044,
     "PEG": null,
-    "EV_EBITDA": 8.982,
+    "EV_EBITDA": 9.549,
     "BuybackYield": null,
-    "PriceToFCF": 13.667784845388361
+    "PriceToFCF": 14.15258191872702
   },
   "technical_indicators": {
-    "RSI_14": 33.11495265732971,
-    "Momentum_10": 1.719073500894892,
-    "MACD": -29.929860305882418,
-    "BB_Percent": 0.4314453305955507,
+    "RSI_14": 41.235170783911016,
+    "Momentum_10": 3.7315120296832496,
+    "MACD": -18.81025439532084,
+    "BB_Percent": 0.796300293888569,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9335972716729114,
+    "ValueScore": 0.894977196631397,
     "QualityScore": 0.3803260559947703,
-    "SignalScore": 0.6669065712601392
+    "SignalScore": 0.6083975773833956
   },
-  "volatility": 0.0355236135492847,
+  "volatility": 0.0352202706690048,
   "beta": 0.453,
-  "return_6m": -0.4470184529498422,
+  "return_6m": -0.3958014451338465,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
-    "target_mean_price": 387.21292
+    "target_mean_price": 385.33792
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 560.62
-      },
-      {
-        "date": "2024-12-10",
-        "price": 565.19
-      },
-      {
-        "date": "2024-12-11",
-        "price": 533.53
-      },
-      {
-        "date": "2024-12-12",
-        "price": 515.76
-      },
-      {
-        "date": "2024-12-13",
-        "price": 520.48
-      },
       {
         "date": "2024-12-16",
         "price": 498.5
@@ -537,102 +517,92 @@
       {
         "date": "2025-06-06",
         "price": 303.22
+      },
+      {
+        "date": "2025-06-09",
+        "price": 303.19
+      },
+      {
+        "date": "2025-06-10",
+        "price": 303.79
+      },
+      {
+        "date": "2025-06-11",
+        "price": 310.56
+      },
+      {
+        "date": "2025-06-12",
+        "price": 318.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 313.53
       }
     ],
     "current_price_data": {
-      "price": 303.22,
-      "change": 7.32,
-      "percent_change": 2.47
+      "price": 313.53,
+      "change": -4.97,
+      "percent_change": -1.56
     }
   },
   "news_sentiment": {
-    "summary": "UnitedHealth Group (UNH) a connu une baisse significative de son cours de plus de 50 % cette année, suscitant des inquiétudes quant à la solidité de son dividende. Malgré cela, la société a maintenu un dividende de 2,21 $ par action et a annulé les unités d'actions restreintes de son ancien PDG. Les investisseurs continuent de surveiller de près le stock, avec des opinions divergentes sur son potentiel de rebond. Certains analystes le considèrent comme une opportunité d'achat à prix réduit, tandis que d'autres restent prudents quant à sa valorisation actuelle.",
-    "sentiment_score": -0.45,
-    "label": "NEGATIVE",
+    "summary": "Après avoir analysé les récentes nouvelles entourant UnitedHealth, on observe une forte volatilité de son cours, avec des signaux contradictoires. Malgré une baisse de près de 38 % depuis le début de l'année, les fondamentaux financiers restent solides, incitant certains à considérer l'action comme une opportunité d'achat. Cependant, des ventes significatives d'actions par le PDG et l'impact de l'ordre exécutif de Donald Trump ont maintenu la pression sur le titre. Les investisseurs devront surveiller de près l'évolution de la situation pour évaluer le potentiel de rebond de l'action UNH.",
+    "sentiment_score": -0.3,
+    "label": "NEUTRAL",
     "positive_ratio": 0.05,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.5,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "With Its Stock Down Over 50%, What’s Next for UnitedHealth? - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFVrV3VGVUoydzRLQUducmFFYjNad0NzZjJkVGplcmRwdDZKS3d1NG9CR01aOGFhaUpTR0tkTEJ0S1RfOHFxRmxJcHNtSTVIbjNpNUtwSVpVSHhna1g0V3R6TFlleGUwTGJFV3pLNGFqdTY3ME5sQXdZclY3REctQ21hS0FKZWluVDdmZ3hNOA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Group (UNH) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHFILXQyb2xVMmQ2NmlHV1F5Ym9YNWVOS0ZJbzlGSkVjd0l1ZzAtQ3A4bWt3V2FjOWV0SEx0dWE1NDFXWURfUXFUb0gxRnlpR1JQZzBKTmVpTTNXNXVtMFhUVWJaOGJPM0ZOek12YUZpN0cteUZLU0hndE1uN0lYQWZ1OHVLdnpEZ21Z?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Group: At Less Than 12x Earnings, This Remains A Bargain Basement Strong Buy - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcDFfZjFLSjEzSkV5NmxWLV9aSm1FNjFMV2YwVWVfTUtGYnViaFJUN3czeVhrT09HNUk0c1FTRk5oUGdxVF80Y2RoM0pTaWQ2NjIwVEtyVXNlaGhFNjhzTTVCdGFmT0RYWDhIZ1plX3RvbEVJWDdyMF9XX253MFU5TmQyVnpWaDVJLVVNTFkya0kzYklqdklzdmRleXlnUHNoZHF2VVc1U2RlV2RjQ19sbzZLcG9GSzR6cDB0TGxESUpFYTNVTHlz?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "3 Reasons Why UnitedHealth Stock Isn’t a Fit for My Favorite High-Reward, Low-Risk Options Strategy - MSN",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFMyZk04VGM1WE9wUERDdjMtLWNlS3R4dTNnU3lKbTF6ZXJSUEN1SUt6VmgtV0VzWmFPbDhxSUE2bVY5VXk3VVNfQmFFelFURm9BVGFPY2Z0UTZQLVRtSkxmVF9oblh6MEI3dS1KQkducENPR2xSLUM1OVh0SWhDSS00MExBR1dFTW1TWXNMM2NwZTdSTXoxRV95dFlxUk40NGZ0bmJVODFpcEJHNzVHeEo0WEVaZUNuX3FIdVdSQnAyYzQ1V1dXc3RMRGF2dE9Ba1VmOVFwTFlrRlVvWV9MUDVEYWY3bmsySUM2ZHdHSU5Sc3FJOFl3OGhkbklaV1E5eDZGWTNLYw?oc=5",
+        "title": "UnitedHealth Stock Just Raised Its Dividend. Should You Buy UNH Now? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzhfLXJFN0RNTDR1aW1rSEllYVltWlY0ajlZeWVOUEh4TlVKYmhva0NvOXVXYjZvekd6c0hweVZ6ZUhyOUw2bDhfZ1VpQkFEaWxVRVBndWNpcTJPS0pCTm1NVEgycjkwUHBvMnVBQXp5a1A3bjlhcl95ME9OYWpCY00tU3lKMV9OTnhjc184Z1RyS0RnVmhKUmM5WlU4dWJNOThMVlBNdlE3R1ZOUUlRNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Down 40% This Year, Is UnitedHealth Group's Dividend in Danger? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlRkQzV5SHJ2dDQ5TmdRb2xkNjRwT2NIU2RvY1Jta3I4SUlmU3pEY3pYczQzOTNnMDc3SDBhMGJhRXNrZ0dLSUJ1VVdYak1FSElPVkZVZ0hYTjEzZGRGZkZNNXlnZVZiV2tJejlNS2xab0pqeHNYTHgtb29sbWx0SjZtN0M2OG9FRGc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Group (NYSE:UNH) Declares US$2.21 Dividend; Shareholders Reject Parachute Proposal - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0dKeWYxVEx5MlhkcGR3NGRRWmV1dnhXTkYtcVB5SEJ0WVlKYWNDeExoTlhqeGFGNGJqOE1tOGh5bVVjb1JicXp2WXd0NE5FazV1QXRPT1c1cXZHVVFOVXRXeGxVYmN4c18yUjc3d0FfdWRuZ2hMOC1SUDg4NTgweFlybDEwSktDMVE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth cancels former CEO's restricted stock units - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdRT185ODllUkRadDZFcERIREM0MDR0QkM3WTExcWh0NXlPT3NHdnBqR2VKc3hyLU1KTUQ2cDhHdjdvd090dXczZW1EUl82TDl4Q2ZJd2tXYUo1aXozLXh2Q3BaWk1mZkhKaUVVelA1cmplanNRWjg5NW9hdnFpQkVtUFpaOXBDM0RnR2hOWQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Board Reelects Directors, Hikes Dividend As CEO Pledges Review Of Medicare Practices - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdjhZVzJDWWd1QktoLTQ4TXo4QkxndkFKdjZPc1lOcldlcmNvMGJGa3puWkVxQ1pFal9aYV9GRHJHZlVBNjB3REZlWnpYblA4SjFEUVIxLWVTb0YzMV9OZ1NxT0RNRmlmc0hxbVNjVWRJaTRiWWxZaWJJM3RBX204VUxtQjJxYTVOM29YX2VFUWJSTGNyeFExTWtvZnA2b0dROHBGVGRUMmtQU2xic3NXajQ4aGtFNHlHNWJMSXV3NGtyQ1VjaU1OWVVrbVltNWJhakMwM2xySHJvUUZBWTJDOW85eUI0YmVYeXc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Cancels Stock Units for Former CEO - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3NseVFFTXNjS0VqTF9sV3M4Vy1ZV2tpU0dKVmI2U3JDV1k0ZGhWZjhBOUpITk04N19XSGE3WTZLdE9TVDVrc2RKekNQQlhvSWdrNENpVllpVEc2Rlh1cFplclo0QTdSTFVYQUNfWWxDZTZFMzBWWHFyOG5pbG9UdW15N1NweHhPQmY5QWVJaE5tVkRNNDBwYk9sdWdZUUUw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UnitedHealth Group And Its Real Value (NYSE:UNH) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTDQ2d1BFdmVfc1QyZVZqZk9LSnlZV2pncVEwV3dEQzRsQmNZQ0VKaXptRG5rQXZxMTR1T2R3THZNNHg3blQtX1lUTU9OQXQ3LVI5OVlKUjBpN2Fpd1N3dTlSNWxBWm9jQnFrQXkxWm1SblFnSUV5VFpB?oc=5",
+        "title": "UnitedHealth CEO Makes Significant Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNi1wRy1ydDhsdnBNYWRzRnVJYlZIRDNDdmd5LWpLNVpITWxNOFlmQlJVa1pUOVgyTWxpZldOZnVodW4zOHB0NkZxdHpXOVBCV2pOSzZBb3FJblV2S0ZaZHk3RXE1b3BEb3FNYUxHd0RvdjFya2FDZUt3dFo0MkVpeUZCSUtZS24zY3ktUURwOGJ5WldDX1A1MUZrYUJiRm1EM2x2MzlZSnhFX28?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Should You Buy the Dip on UnitedHealth (UNH) Stock Below $300? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjZVRjZhYVdOSW5TTWt5WURwWTRIcVUyTy0xWUNXdXFDb0I2UGxtcXZiZGVjWVNqUXBFcnRlMUg5YncyeGl3emoxNi1rYkl1dHVKX3VqTEpudzlxMndlYmF6UU9DWld5TEowMFd5X19tQ3ZSQzlJYXcwazhFVzBvSU91V1E4aXpXRWV2amkxT0FjS0N5RWNWSVRmb9IBoAFBVV95cUxOZl95WWJEWmtlV2t5QjNBa2o3VmxiNThsYjc1b01Ua09qUF9VS1RxUTNsVGlQUktuS3JocjhVTFlYNmc5YlBnNndHdkswTlh2ZXpUb0F4T0dXbW1scFFjMXFsSmI3V09fWTRuY0IzNEl3dm55b0hkc2NIVHdrdU42dUZLRFFZYk1taFotQ2lTSllOLW5xcnBHTGpxUW1YYlA2?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UnitedHealth Declines 40.4% YTD: Here's Why it's Still Not a Bargain - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVU3RzFXVFU2QmFjV2hOYnNyazFzSFdwRDhJR2ZfS05FaEV1emxERjJTT0IteXJhQ1dHTGE0UkIxeVBLS1BpNFRHczBWZXNuSk1uUElJYmNabEh0TGlCdEVLeFpSQ2NhblBHUVhFalZpM20yMThGSzMzcFAwRWs4T3hn?oc=5",
+        "title": "UnitedHealth Group Incorporated (NYSE:UNH) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXhJdEhMYlZiNlBHY0NIY204eHMzczJxTWNNU3N1ZjZ0QU5kdFktWThwX2pNT0JjTmFVNmczZXVCdGl6NDVMLW5qM05vYnpvQldFdGNrRXp4VENkZGJ3WEx3dFNoMlgtUGZzWHUwNGxBQzJQTU9YWm9hYktrT0plUWNFWUpnVnhweTFHODhPOA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "UnitedHealth Group (UNH) Stock Declines While Market Improves: Some Information for Investors - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNeVRYUXNjeUdfa3ROQUQ4WDRJRlpUZzNHNlptR0p5S1VEMHpGaXA0aHlMRzBtUVlYZlp1UnVFaDU4ZmtucGtEa3hHNHNoTWlYUF90V1plNFlMOXpBZ2lMRk9zaW43MEptWmJVYzJyOWdlbzlhaE5OVkdPdVR6c0c0cUYwdmphM0p0QXpySV8wZUNkMEl5UGpqNFJmczBObE1CTEFHS3F6ZGQ1UG5YOTlkbW1MXzZ6eTZXTkZzLW5rMXFUNWlxZ1Z3UjhwQktkVlN4eFZzY0NzM1JMaW9aRTJiZ2x1S05MNHFPNlZiWWt2Yk83QlBLSmJSWmlaZk9BYWMxYjhyVV9vOGJsTmxodEpIemxNbDQwRWwwcHFIUDJkeEVMMllBNGo0T0NpVnF4ZlVITWVfb0dPSFpUSGZ2eXlPWmFEWS1VU0pjdDQtSkwtZzVhQVFqRVVwWmtMa21mNTVnamt4NjZ1RVJDdmQydFpldlln?oc=5",
+        "title": "UnitedHealth (UNH) Stock Rebounds, but Remains Deep in the Red for the Year - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEVKTXNHbnprb0FvYVJwSkkxV0ZlWUtNYmJ5UF9tWkhLOGVvOURQUWloQWNyQmpoTW9HcDhvb3RGeWF2TzhlM3FhTTEtRnJZSGdRQVVxdThsQ0FXZWlueDRmS3RNemJ3MkF5a1RCdGo2NTZUSV9WMXJHSFlmd243ZFc2NjlkVWdxMy1ESjNpZHB2UlZEWDZGY0QxOFFNUDg0YzJSM2xIWUdKS09RaTRvUzVTTlBOMkk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "‘Only the Beginning,’ Says Top Investor About UnitedHealth Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTElSY1VjS0J5UEs4YXJiWUlnZnF0OXlpSUFwNjFBNjE3MHZhaDBoakJpczVKNW1GdHBGeWduRWZ1Z2N3QmhvMUtnRnVmdjRaUnNuNUg4ZGo0bGpMa2EyS19pbGRZTDhaVDlaSzJVZjY2VG0xUm0xZW9RdHBDRzQyQmFTUkgyYXBWdEhCWFJtQlNlZ3pjQ2c?oc=5",
+        "title": "Opinion: It's Time to Buy UnitedHealth Group Stock After a 50% Plunge - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEhGUy1YMTFsUXBnRTZubDRZN3lTdjBFaWs5YzBubzQyU3EtRmt3TEVKd3Ryb1c4OW5LZ2J3WnVOdVdDZS14TFZLSFJGRU5hU1Y3Z2ZMVE5heGszU2hYYTBhVU5GUkJfTTA1eHpyZEVuTkJncmlzWUxPX0l4QV90Z2F3Y2RhUkY4XzhDTHRKaWt2V0ExQjlCXw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Options Traders Target UnitedHealth Stock Despite Steep 2025 Losses - Schaeffer's Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTjlrUXRhMTVwcEdqWGU4S2xTZ3ZKOWxwLU1lbFRVZlBsaU90dmNFVGJHU2VMNDVsYTR5UGI3VHN5aUw4Z2s4VjdVa2swLUpKRlJBQkI1WlFacWxWb0JLUFBkZWhVaWlTUmN0bUV4TE41Y05aRkVEdzQ0eGVOdExYTk1DdVRJcUY3c3lXQzJtcUJybWpjVlBhMG04QWRxZGNDeDBTUzg3dVhid2d0akRleTA3MzJkaEhKZ0lRLUJ1QVBLNUc1VDAwMQ?oc=5",
+        "title": "UnitedHealth Group Incorporated (UNH) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHpKREZRbGZGUGxMenZGTVdpdExCNERzaV84a3VwR25xcVY0NUhROVdmcENRQkFXdTJIbl9PRU9EYnRFOTNGTVZCYWpLT1duVHk0cDZHWEY5aktILUVMaFdtbGlpNU0yZWtZcC01eUV2OGhiZnNzRVRxblkwSHBwMktjUG9KaTVmY3V3TDlWY2t0clBk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UnitedHealth Investors Back CEO’s $60 Million Pay Package - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjV0MEhMY2Jia1lkYVVjeWhzRzRRTXZlaXJNbnN3NjNxS3pWemRBY182aTlJbjRObE9QTDlIb29hODNtM1cwaVc0MkkxcTRLN2dWeGhTUHUzaF8wRFRGMGhGdERTdy02Nm16b3lGRnFPdkdMSDl3NmVUMFk4YkpTNWh2LWtTQnFiTGRRMXFjNlNQSFkzNHZ4SzBfV1hNZHY3bnJHSDlFNmVfZmROLUJNQ0hTWQ?oc=5",
+        "title": "Donald Trump’s Executive Order Maintains the Pain on UnitedHealth Stock (UNH) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1hiSGFwR19xYXFfcHpYWVBxZE91UkxSenNKWDMyZjBJU2EydWNsMEVablhZVUcwZExlVkVSWmtraTdiQjNaWmNjUzk1cDhGQzE5aHk5VlNOTVQwYmxMazRoNzdFN2FsUGEtZ09oMEpHS0pudmxxbUFiUFE3M01FTjRBTV9mS2ZaYUZJaA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth Stock Dips: Is This a Value Buy Opportunity? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkNEek1pUnVxVWllVEp6Z0pkSlpmWXkzWkg1MEtwcWR4Q2RoYTVYWnVPbGl6ZDZRbm5ha1F2Sm4tdHB1WERBSzUxUXpja2JsRy05REo0R2tqb1dVSnNQOHljdFQwZ25qRVNxUHI2Ml9XRm1rVGZCN1J1aGw4bE13bFUtNmdOVkJNOWhQWE1HMExBYU9DN3RteA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Healthcare: Earnings, A $200 Billion Overreaction - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenZ2dXkweEpOS1J3VEV6ZVJXTVJCZ0ZFWk15eWhCc3FES2VnUzlBRmJyZmF3R09MVVRSV1lZRHZJM0NCOGFEcmZwMnhIMENQNXhLUFZTTkhGLUVvTXlGaGc3NWZsS21Yc0trR21uMkFYRlZydEtndXZ3ZHVWWDdEN25UYXd0SFk4Sm5DSg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why UnitedHealth Stock Imploded Last Month - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaldSTjJXWmQ2a2xTYTVLcFc3T2huUnF0UFNCcThReU5jaWtOUk9MRU9YLVFoYlZlRWV3MlhLdGhLNFFyY3BnNHF2Rlk2cTFRdmMtMS1rVEVRSUxMVTdkU1ZXMzVNWVpXRUlwc2ZPQjhDTEM5UXRtZDN0R3J5SC1Zak5ZMmxwaHpSdFE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "UnitedHealth Group (UNH) Faces New Allegations of Secret - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVEFFRGpvcTdWdVp4WUNyVHJ5LUo0UUZ0bk5OYjkwaHJETjloQkhDdElvcUZuVi1nRktkWXFYY2s4TExmMzR2bFY0enhHdXZUTHlxRDljSFl6TmFrX3RqZjB6bEE5cnNMX2V0ZVBqZTJPcnZCbDcxSEtBWnRxTzR3a1BJcDEtZ09EZGdNemVQOFFOaTFZUEh6bHV4cTB4MVRvOTRaMDRuUUVKcjRvUmtsXy1FekZrdGZkU3czTTk4cGlpZjRvV3Brb0pGYUpGRHpiRVFqWDhTWE9lSVkwWTZROTdHUDNHLWNfXzh1TnAzblJGbk0yWmVTTkNOTXgtOFpRcmlkaXJFTFE4ODRCMkR1WDRfQmRYa0dkdHpOMlpPZ09mNTlMZFlWYVl0R2tUcTcy?oc=5",
+        "title": "UnitedHealth (UNH) Stock Faces Severe Downturn, Down Nearly 38% Year-to-Date - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ195am9hRkRRb2pPcTJ0N2dKWnM3MTR3Q2tseHctSmlMVE5XeFZmQUN5ZExiamxBQWNsZkV1UEZ0Sk1FMzhCTlIxd2VuaWhDQzYzS2RNT0RtUmNpYlVxdnJtRmg1bE5ISW5Kai1HUVU1bFFNaG5ZbUJDbUFvUXFBSmxZN2dSSTBFaVZxVlZxMFhhZ2htaXc3UVRTcFZ5R3FaM2dsVlFsRU9jWVA0eUNoSDRFVzktdTFH?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "‘Time to Load Up,’ Says KeyBanc About UnitedHealth Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHJ0OWRpY21fNXY1Wm8yTXlaa2xNQXJxUkVQQjdjVUhLWUxUdlFHQjhSTXI2WjJzSHpTM1ByRVA3bWcwOUxfQjdxLXp6Y1Z6QzIyQ2pNLUtvbU9uY1NmZzZlUEhEdzk4Nkp3M1gwaGJQQ3hBa1hUSlVlQWtsUzczSklsekN0cmFCajkw?oc=5",
+        "title": "With Its Stock Down Over 50%, What’s Next for UnitedHealth? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFVrV3VGVUoydzRLQUducmFFYjNad0NzZjJkVGplcmRwdDZKS3d1NG9CR01aOGFhaUpTR0tkTEJ0S1RfOHFxRmxJcHNtSTVIbjNpNUtwSVpVSHhna1g0V3R6TFlleGUwTGJFV3pLNGFqdTY3ME5sQXdZclY3REctQ21hS0FKZWluVDdmZ3hNOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insider Trading Watch: Congress Is Buying Up UnitedHealth Stock - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnVWMTIyU0pESGFja2ZoTXdhbkZyUExNOFJRSEtPTVlmRDlHX0FQWWI3T08wcG5KMnNZSjBKcDRXc2gxYVM0R1FlSU8wdWtLbkcxcmgtTkE5aHlSMlVWRklpQ2wxOWE5eFdnMlE1aEhyY2FqTW9PNW95MjIyNlpZTU85MEJ5QzVJY2lyQ3o1ZVhhay13STR4UHpfR1REclBR0gGmAUFVX3lxTE5rN0xmaEZ0ellDal9PN3lnYXgzMDZXV2Y1TDNrODRBdzVtZWN6eEd0amVoMUp4aWhRMzNyaUJJTzRFUjRveVlKaklONzJYbjh5clloNjRyN1hmbG1KMjB6bzFqWWg2YjNwVFRKcnlKUEZCSG1La0J1RkNWUl9ZaU9WQUZPcy1waUxORmtWT2EySHNFcHNqXzBSZFlDS05FVUY5THBqSlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is There A Silver Lining Amidst The Gloom in UnitedHealth Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnVuNnpWZEUza2pHSjB0bDR2dFZZT0RJYy1ndEpnYzN2anY4emQwY3FvaFhsWXFjcFlrbnN0RU9WOElkQWh3cVBSbGowbEdQTWJhSzlFSFRoZlpIMHByRVF2ci01NmM0cGR1djFUeFRsZHVRQTZKVkxkdmpMRUJvbVJJZ0xQcWpnSkFn?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "UNITEDHEALTH GROUP INCORPORATED (NYSE: UNH) SHAREHOLDER - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNUzdrYU5VQktLaUhoUkhpN0RLb0ZBR3lNeTBZTmREX0xjNEd3M1d1TjhyT1hXb2Y4bHo4MTFHb2NIOXNjRFRjdEs5RDY3OUJNdmZJV18yWnZYVVNLN1I0Y0x6VHUxenlaOFBWUVo3Yno3QVR6MmlnZDhkLXl3VXZHOElVZEVVTmlJeE1WRlowY3d0N291RGtVSnlMOF9jdU9VSWwyaHVrcEZDSVB5RkJoVXJzVHN6dzF6QmNYdzhJdXJOMkdfUFYyVGJIeEJOM21NMFBmSDJwNURVcFIySkxpZGItOW9vUlB3OVlCa1JRQXZrQmVKRnhlR0Yzblpjb09LZVhKQlB6eFhVWHZFeE1MNXFmY3BJYjV3dVNyUUgwMkZGMnVPTHRGQmJMa0dHYmxCZGZicnBoM1ZRSFFEU21BOU50eEJUQVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPVjhHN0duUlJxWVRXNU90SnRydkdMcXB1MUp4RFVyY3NNc1JnbERhb1BHeXNmUWpvdk4wWlhuYl9ma3YtcWEtbTFUWWxoMnRCSEJ0YXJoZTQ0VlBla0ZZTHc3UFFOLTFENTVaX25WTG8zMFVWMFpBUS1JYjN0NktGYmRnTmZMVnMxT1o4dWpqZHRtbEJBZHY1eXN3VjN5eFFOUXpLNzlZTFZqS0Ywa2VUQXlJcTFFc29iSTVLN1pMOEdlUWtORWx4YXBVOXlhUFo4YjJwbXhoNEw5Njk1VkZWVGNSeEF2VEZEWVpZWmpXYkhzdVlOUXB5MWJRalZVX1RiUHdwZlpDc0pUNkhqVVNFb29jREtEc3VKZG9ObDlqemkwek5lQXNHdlQ3dXh4dnFrSmxqLVRadDE4cGYyN1hNLXFZTUwzTnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is UnitedHealth a Buy for Long-Term Investors? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGJSN3JRd2EzVHo3US1QaktjWjhXSlhmUjJiRnBkWXQzVmE0QVpieV8tTXRZMmtlb204MldrZ0wzbVlmdFZFYkdFRmFZUkQzZEFsQVhyY0RHOTUyc19mSndHRmotMnpsOW5JRk5WSnp2OElFaHV6aEFtUnNmNWVqR2M0OGRKYjZIMzdlM1lCdkNvUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Sparked UNH Stock Crash? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0xzUWdrUHYzbklqN1VPajFTZF9CdFNuWTNoTlAwTm56ajJSNndYYzd6Y1pEa2ZPbzhzaHgwRTVvay11Sk44NU5qaUYtTUJYa3o0Z0xJbThuc09Na1J3MjlPMUdlb0VKeTEwTjJwT3Z4ejJhQm9naWgxYV9aUVJLSElRUmw3TWVUaU9DM1RYclk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth (UNH) Sets Sights on Market Comeback After Brutal Quarter - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFVIZjNpWXhXenA0U0luWEFxSGtlMzA4UFl4WjRiYUxzcGpxcWRsRDczZEZkV1pDcS1rR0RMUTdJMFUtVUxLemlVMEhmNkQyaDFWaXpreXItRGVpa0prMWhHcTdwOVBFSHlxMnU5T0dNc2JBbl9aQUx5aTYyZEZVQVNHYWxxNWxH?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better Buy: Palantir Stock vs. UnitedHealth Group Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkhGYV9uMW5sd0JRb0o2cS1iZEtodWc5YjRSMWNTU0FKWHByMHFwdldTaTVhTThwQ0NtNTJKaDNtRVVBLXJaRTROazl5ZDhLTF9wNjBTM1o2SDEyZGllOVNwSGMtQzlLeGU1VUNpV2JXSTNybzZja1JYcFVmcXBadjViSWt2VkZMSEpMOVp4TU5qX3NVc0M0VA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

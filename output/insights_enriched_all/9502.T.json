@@ -2,16 +2,16 @@
   "ticker": "9502.T",
   "name": "Chubu Electric Power",
   "sector": "Energy",
-  "market_cap": 1284265213952.0,
+  "market_cap": 1288041398272.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 6.359149,
-    "PB": 0.46088105,
-    "EV_Revenue": 1.041,
+    "PE": 6.2695293,
+    "PB": 0.4622362,
+    "EV_Revenue": 1.042,
     "ROE": 0.07532,
     "ProfitMargin": 0.05508,
     "GrossMargin": 0.06597,
-    "DividendYield": 4.1,
+    "DividendYield": 4.17,
     "DebtEquity": 96.454,
     "CurrentRatio": 0.909,
     "QuickRatio": 0.481,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.02772673366760932,
     "ROA": 0.021259999,
     "PEG": null,
-    "EV_EBITDA": 9.251,
+    "EV_EBITDA": 9.26,
     "BuybackYield": null,
-    "PriceToFCF": 12.62352360469058
+    "PriceToFCF": 12.660641134139576
   },
   "technical_indicators": {
-    "RSI_14": 40.86377355602635,
-    "Momentum_10": -1.960219083309311,
-    "MACD": -3.4529749196181,
-    "BB_Percent": -0.0156887032150331,
+    "RSI_14": 45.91398808447376,
+    "Momentum_10": -3.5350678733031673,
+    "MACD": -13.592188856883013,
+    "BB_Percent": 0.3202961572704956,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9356224502824492,
+    "ValueScore": 0.8966332993006292,
     "QualityScore": 0.3782157830727471,
-    "SignalScore": 0.6543105865204286
+    "SignalScore": 0.6241085593098059
   },
-  "volatility": 0.0144464293070202,
+  "volatility": 0.0139103078155065,
   "beta": 0.2,
-  "return_6m": 0.1004232805570266,
+  "return_6m": 0.0663730897157546,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 1996.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1573.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1579.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1577.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1553.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1624.0
-      },
       {
         "date": "2024-12-13",
         "price": 1628.0
@@ -525,18 +505,38 @@
       {
         "date": "2025-06-06",
         "price": 1700.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1690.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1689.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1670.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1677.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1705.5
       }
     ],
     "current_price_data": {
-      "price": 1700.5,
-      "change": -6.0,
-      "percent_change": -0.35
+      "price": 1705.5,
+      "change": 28.5,
+      "percent_change": 1.7
     }
   },
   "news_sentiment": {
-    "summary": "Toshiba, un géant industriel japonais, a été radié de la cote après 74 ans, marquant un tournant majeur pour l'entreprise. Cette décision intervient suite à une bataille d'enchères de 15 milliards de dollars pour son contrôle, qui s'est finalement conclue sans éclat. Parallèlement, la loi sur les médicaments moins chers n'a pas eu l'impact escompté sur l'accès des plus défavorisés à ces produits, soulevant des préoccupations sociales et économiques. Ces événements soulignent l'importance de la gouvernance d'entreprise et des politiques de santé dans l'analyse des opportunités d'investissement.",
+    "summary": "L'entreprise JERA a conclu de nouveaux accords d'approvisionnement en gaz naturel liquéfié aux États-Unis, renforçant ainsi sa position sur le marché. Cependant, le processus d'acquisition de Toshiba, estimé à 15 milliards de dollars, a connu des rebondissements, suscitant des incertitudes. Par ailleurs, des critiques ont émergé concernant l'efficacité de la loi sur les médicaments moins chers pour les populations défavorisées. Ces actualités soulignent la diversité des défis auxquels les investisseurs peuvent être confrontés et pourraient influencer le sentiment de marché.",
     "sentiment_score": null,
-    "label": "NEUTRAL",
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
@@ -544,8 +544,8 @@
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Toshiba delisted after 74 years, faces future with new owners - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblRiSjh2b3hpV1FYQ0hKWmtTNEY4M1duNmF1SExVd0F6eEF6Tlh3U0dRNDM1MC1EYmtWSXZ3enlBbXh0SEtwY3o3UFVhWXUxZVVJamhoMlM4TTJucU1zRmVBUk11S01DM2tMbHZ3U2wzQks2cEdvX2NCN0dCLVdvSW5XYUpNYXVMYmdmODZNS2IwX3drRDh4TnotUnZkU3BGYUJiT1BGTkpueHpiazFjeU5VTQ?oc=5",
+        "title": "JERA Agrees New US LNG Supply Deals - Marine News Magazine",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53S1pBT3pMaDFvN1MyZXYtd2FQQnFhaHJ4ZWxYM0RxeXRoX1Z1VE5aVzY4NTJTNFp6aEhXaHkzNmtqcUFnY2h6UTV2Q2hwSmJoMDZtdDNVejVoM1NuVUJYY2s0am9BNS1scFR1MEJiYkhYX29GV1d4SENxdWdqZms?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -560,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "ATO",
   "name": "Atmos Energy",
   "sector": "Utilities",
-  "market_cap": 24168636416.0,
+  "market_cap": 24310001664.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.251398,
-    "PB": 1.839592,
-    "EV_Revenue": 7.144,
+    "PE": 21.405594,
+    "PB": 1.8503519,
+    "EV_Revenue": 7.22,
     "ROE": 0.09186,
     "ProfitMargin": 0.25346002,
     "GrossMargin": 0.58158,
-    "DividendYield": 2.28,
+    "DividendYield": 2.25,
     "DebtEquity": 64.747,
     "CurrentRatio": 1.328,
     "QuickRatio": 1.101,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.3598772191309296,
     "ROA": 0.03644,
     "PEG": null,
-    "EV_EBITDA": 14.635,
+    "EV_EBITDA": 14.79,
     "BuybackYield": null,
-    "PriceToFCF": -14.977779204927154
+    "PriceToFCF": -15.05225864228144
   },
   "technical_indicators": {
-    "RSI_14": 41.1629876616496,
-    "Momentum_10": -1.4446599524345431,
-    "MACD": -0.818861961022094,
-    "BB_Percent": 0.1857858507780841,
+    "RSI_14": 45.74884367798353,
+    "Momentum_10": -1.0376233537217914,
+    "MACD": -0.7884049117490406,
+    "BB_Percent": 0.3160213447528753,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.932213659830236,
+    "ValueScore": 0.8754830367439727,
     "QualityScore": 0.4359931103315361,
-    "SignalScore": 0.6476471735762668
+    "SignalScore": 0.6086071634367238
   },
-  "volatility": 0.0123156735908654,
+  "volatility": 0.0123774174277033,
   "beta": 0.703,
-  "return_6m": 0.0840908883364288,
+  "return_6m": 0.1011359711688417,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 12,
     "target_mean_price": 160.94833
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 141.05
-      },
-      {
-        "date": "2024-12-10",
-        "price": 141.11
-      },
-      {
-        "date": "2024-12-11",
-        "price": 140.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 140.22
-      },
-      {
-        "date": "2024-12-13",
-        "price": 140.58
-      },
       {
         "date": "2024-12-16",
         "price": 140.45
@@ -537,33 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 152.18
+      },
+      {
+        "date": "2025-06-09",
+        "price": 151.97
+      },
+      {
+        "date": "2025-06-10",
+        "price": 152.98
+      },
+      {
+        "date": "2025-06-11",
+        "price": 152.47
+      },
+      {
+        "date": "2025-06-12",
+        "price": 154.49
+      },
+      {
+        "date": "2025-06-13",
+        "price": 152.99
       }
     ],
     "current_price_data": {
-      "price": 152.18,
-      "change": -0.22,
-      "percent_change": -0.14
+      "price": 152.99,
+      "change": -1.5,
+      "percent_change": -0.97
     }
   },
   "news_sentiment": {
-    "summary": "Atmos Energy Corporation (ATO) a récemment suscité une volatilité importante sur le marché. Malgré une baisse de 5,5% après son dernier rapport trimestriel, des analystes soulignent son potentiel, avec Argus relevant son objectif de cours à 165$. La société a déclaré un dividende trimestriel régulier, renforçant son attrait pour les investisseurs à la recherche de rendements stables. Alors que certains voient en ATO une option défensive face à la volatilité actuelle du marché, d'autres soulignent son attractivité en tant que choix de momentum. Les investisseurs sont invités à surveiller de près les prochains résultats du deuxième trimestre pour évaluer davantage le potentiel de cette action.",
-    "sentiment_score": 0.15,
+    "summary": "Dans l'actualité récente d'Atmos Energy Corporation (ATO), plusieurs signaux clés émergent. D'abord, Argus a revu à la hausse son objectif de cours à $165, soulignant des fondamentaux solides. Cela contraste avec des inquiétudes sur le risque signalé par certains sur la valorisation de l'action. Atmos Energy a déclaré un dividende trimestriel régulier et a surpassé les estimations de bénéfices et de revenus au T2. Malgré une baisse de 5,5% après le dernier rapport trimestriel, des analyses suggèrent que l'action pourrait être un bon choix dans un portefeuille, bien que les performances par rapport à d'autres valeurs et la volatilité du marché soient à surveiller.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why Is Atmos (ATO) Down 5.5% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aQnZzeUI5QWRISm9ab18zUm5ITV9ELXNNRC1OVWlGd296RVMtMG93Z08xV3BWWGpzeUtrT1pYWVQ1cnl3SjhpbFFjaTJXVE9DeHBlOGZtRDJtc2ZjYmgzZWRQd1VLM0ZRVnRLYTh5aTE3TWpR?oc=5",
-        "label": "NEGATIVE"
+        "title": "Argus Raises Atmos Energy (ATO) PT to $165 on Strong Fundamentals - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNVG42aUZ1YXo1QXc0MDZNSXFieVFmRzB1LW1fdTdLX1hhS25yUzU4ODRZN2p3dXQ3YXh6c3VBMnlMWU0yNHA4dU5tNk41dnRXRWZwQ2NEVTVPRlREeVVXMmJneHZLd2ZTZEN5MzVvc0pYRGp6ZU1PQV9lTTdJcnpLaDk3d2R0ekRRb2hCV01odnRFUm13WlFmbE1RME5HNG1aN2Y3ZVVYNFpTeEJ1Y0FNLTJtWXlqa2JXQmkxNy1SclYteDQ3TjlvV2ZqSHNFMDRBRmY5cFhURV9pekpCX1IwTGw0YUNRZGMzYXhPOGFhaUZ3YWJTZGRIQkdaRGRBc1NjR05tUE8wY25wWkk2UHV2a3pid2xWOURvcU1sa0NaVy13RkRCZ0Y2U29ONlFOLUtTeXZKLWNaaFg5ZHhuX2ZkQnlsUEdtM1BOUjA2d1NuSklMdV93dFBRU0NIVmthWnJ1M1k2VWdZTnZ2VDJtZXZB?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Has Atmos Energy (ATO) Outpaced Other Utilities Stocks This Year? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVBqaHNlT0hscl83bHZieWRHTWFoV3E2VHllMERVdTZhb2lWOXkyaTFLRFdXODJtYTg0Uk9TUWR2X3JFRzIwZTAzblp1N241bGstMnJMTy1wNHlmMzFEUEVQSl9raXV3NUJ1bUotSEtZLWx4aW9kR2FlOHFOVlhJTWZRMWZ5MnkyMzNES21NVENKdkhIVWc?oc=5",
-        "label": "POSITIVE"
+        "title": "Why Atmos Energy (ATO) is a Top Dividend Stock for Your Portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmtnMFVrSzBuemNEOTdnTGZuZkZzTmNZTnJObmtPVUExeTBwY2pINVZGZUJ6ZVc5OTVjZVBzbzA5TS1kbk16NVBZRlhhOURuRXZSN1ZJUXNzNGlQWjNscTVHa0FJTWVROVIxek56WGM1WHNnM2ItdDlmQVhucDBJRjlSSS1vTmdxd2xkZFVkdzhFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UGI vs. ATO: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV2F2bk9nVmFOdWw2MHRzeUwzTDV6cDBzNlJHN2thNzBhUFlKeVhTdXdDN3pVWmdoVFVsRHlGMkZGa3dxMWlzd19fdUpMLVB6QlR3RnFfc2JwNDQ4NjVFcUQwVXRCS25CTHVUSG9Mek56X3FrMXFsOQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Atmos Energy Corporation's (NYSE:ATO) Share Price Could Signal Some Risk - simplywall.st",
@@ -581,38 +586,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Argus Raises Atmos Energy (ATO) PT to $165 on Strong Fundamentals - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHBnZjlHeEROOFgtM0ZqU0xhMEhKQTdfdmh5RFdRa1d6VDRheVZUMGN0c0Q0LXhuNUpmdkFtejBMTmRSVXU0d2xRcXh2dG1NamxUQUswTmdESHZ1TE5RTXIxT3Fxd0hjSDM2SXdFbnNwUlVGTW02SXlEaWVDbVdtVXFqT0J2WkxhN0FjUFh2UlZoQlNHNlBjZUxrbVZ4WVRTN1A1ZW9TSjFkTUVfZzFNV20xa3NESk0?oc=5",
+        "title": "Has Atmos Energy (ATO) Outpaced Other Utilities Stocks This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVBqaHNlT0hscl83bHZieWRHTWFoV3E2VHllMERVdTZhb2lWOXkyaTFLRFdXODJtYTg0Uk9TUWR2X3JFRzIwZTAzblp1N241bGstMnJMTy1wNHlmMzFEUEVQSl9raXV3NUJ1bUotSEtZLWx4aW9kR2FlOHFOVlhJTWZRMWZ5MnkyMzNES21NVENKdkhIVWc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Fund Update: STRS OHIO opened a $10.3M position in $ATO stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2x4REVkR3BReXdoQjBzYklUR1k0cVJKZDBIaVBEeWpXejdlTmpZNmZicmd2Z1BDaVdnR2JwOUJuSUw5NG55UFgybThiOUNMWkZoMzV2TVM5d2ZzQ3NKNXZyY2d4YjVzTHRPbVNlcWpUSDJaY2NBVlJHeHdaLWg3aWRPSjNvWmJkOHdGdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Atmos Energy (ATO) is a Great Dividend Stock Right Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03RS1ENWRZOHpycG14UUxzRXpPTkpxbTFSTE9nN2ZvRjN0eTVkcU9Cdl8xdHNzSVVkRE1BSjhLX0RQakcxN0hWT3U5SWJObGJyWVR5UXZ0cVVWeUlQYnhETF9CYjZ2R1pOS0w0OHVyZkZzWGMwNmxxT3c4Rzg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 Natural Gas Giant Atmos Energy Sets Q2 Earnings Date: What to Watch - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1Fva3kxOFVleFROVzEzRGlyU0pKY3cxZHp5LU5sa0ZLUVpnZW9sTUg5Q3BTVGRyUFZjQWdEakREcXRvMVBpOWhOWXIyTTJkREIwbGFtZ0labmR1bU1KWWNUZG1YYnNTelpBMy1ZMzh4VDlqcDRsLVVhTXFvdGJURWNIY29waFZFYzUzemJ4aVJ4QURIb3V3YU5aZE56WXZWZDFYYzZha1o3R2lUX0dPZU5xT29qUlVDUDFfcUV1dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Atmos Energy (ATO) is a Top Dividend Stock for Your Portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWJRNEVQLTVJNTNXSHdsMVRYLXpmQnpBWUtWRkZKRlQyUENtUEZYU1RyZTIzRGhZdVdIS3ljY3B3WmhWa2dMUVJORDE4U21DSkJqZVo1UVRNVm5rY19QTlM2RWJMVkNOWGY3bVp0ZFVQZl8xWmdNWHMzUXF0Ym9DNWN0ZVlGUkM1RDFmUVJxUzhOQQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Why Is Atmos (ATO) Down 5.5% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81S1duVThUNm95dUtySWdmbjNMLTlWOU13eldMY2NkcEQ4Q2RXeHFhUXpJZ3hDZ243VDhsZ1ZPY2hpMEZNZGZleUp4X0RGQ0dBMnFCS1ZINm1OcmVHbmFwMFJ5ZUp1cmJNZXREdEN4b3JldlRVQ3JUWDhURU1WdkE?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Atmos Energy Corp. (ATO)The Best Defensive Stock Amid Market Volatility? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGRDVfM0VWUHBpWjVjUVUzWG9rbEluU29FYW8xLWQ3WmRGVnNzWDRfS1NCem9NNm9jWGdXVzlIZEVNMjA5aGZtUFMwaU5IdkJlV2wxc3NGNUUwaFhKU09OQTFpVmRJcFlndlRyY1BmZ1E1UmlHSmMwMVA1dFo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are You Looking for a Top Momentum Pick? Why Atmos Energy (ATO) is a Great Choice - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVZlandqX3AzQmQ0YWVLdHpNQ3IzVjFyLUlpMW9pV19zSkNCTnA5czhMQ0xuclk0aU9Ycmc3T2QzcFhRVmdvRG4zWDhfSTBoLUlPTmU0Uk9tbFFreVNIU1c1T1VMbHVEVUE0LVhsYXZkNjMtRTVkQ3VBOUIzQ2J4Y2xrN0tSSXAyYnVjZ0EwTm5hVXJxYXFMWHROenR5Skst?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,8 +606,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Reasons to Add Atmos Energy Stock to Your Portfolio Right Now - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHpMTVRfcGNBT1BvLW8waFBFcTVKcWdMRllza2dCTWVpN3F4YlBKMDhSZzUzM20yMk56amJuNGJ3dE9EaVBLU3g2c1RPVjFwbTZmRGhvLVVpSE5BOGdYNmFua2ZxMnZNZmlzWFNnS1Z5WmVjbVlLQV9FNUlMMWhESEdVRmlGVFZSSUdQVUs1OFVmdWM?oc=5",
+        "title": "Reasons to Add Atmos Energy Stock to Your Portfolio Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1hHWFRKaVBCTFRQbTA4X2cxWWdKaEY3YW9NVkgyZ1owVkpIVHhPZll0NF90Z1VoNGk2a1RXRG1XeFVyeXZvT3p1TjlZMlRlNU5kejA4UzlPbkNYVU1DemtqT0hSX2lOejNBSVdtdTFSMnhtczhRU0R3Qkc5SURvcFJB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,31 +616,46 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Atmos Energy (ATO) Beats Q2 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BWlZmQlc3T3hMNnRxWWtqUmg1Y0gxY2VmbEdFNGJCb3RpT3VINTBaalRxRzRpU0VXaXZxeUFWcy1BVTZFWW5MZ3owUUVpQUkxRGRmOVRIUmxhVEJvVGdvUHVNNkZVSW1zWDRTYW1Mblg3YnhxMTczZjVYVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should Atmos Energy Corporation (NYSE:ATO) Be In Your Early Retirement Portfolio? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlNFUHFtb0VXOFZjWl93YzdOQ2VYNE9qRU1aWEZkUTV5dmV0a1lQM1VLd2FJT1JINXRpaW1Tck9oNlhZM0Z0MVg2VXFQYUsxX0VPT0VDY1dRTEd1SDZ3MmVFcWt0N3hLdDJnN1VjbmtWUEd4MFEydjVkM0ZsdmliSjFXVlJ4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Atmos Energy (ATO) Could Be a Great Choice - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BVERPVGlUcFFPOHc1MGZHS1NzTzA2V1ZPM1h1aENOckRXbUZPSEV6TDFXNGk4ekN6OXBfX0J1bWJBb3JKQ3VLOTM5YWlvY3M0eE5SZ1pHd21xeU1aOEduaGpvS2p6ckJTQU5rckRvWkY4LThzdEs2YVZ0bHk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Atmos Energy to Release Q2 Earnings: Here's What to Expect - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFN0WGdPejV5YTBfa0dhWXZ6YzRVTmJXdzE1YWdPamZyRUhRTkswSUJ3ZjRxSnd6V2toZ2VyaGhIWW9jQlhHUVpfNWNLTWE5bE1nczdVbUsyNDhIbmU3RkF6RUlWYUgyV1RJTldrXzJwbnhIcHl3R2VUNEJtRlNpWGZEYy1mYXZjWFE?oc=5",
+        "title": "Are Utilities Stocks Lagging Atmos Energy (ATO) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ09sdnhPZ29SWVF4NEZQWXF3dXJoLVljcy1ldmROVkpBTTZnbXhfSHluQ2V0ZGtKOEVfSmNaVkJ6aXFmeXh2MmdGNEt0SGwzZ0FnbWNfdmxFaVZ6ZjduVHE4VWZtdm0wQkdFZjBnUXJnTC02dzJYTGkyN0ZucnY1UTd3NFk5S0c0UUdz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SWX or ATO: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXNXWlBBWmNwQnFwTm0wN0REdWh2aExHMkRVYUVxTDJKT1o0M2xtWVd4V3pGWUgxeEU0OXlQa2lnSlBZYm95T2dBN3hFTThCeEtaUzJOOWYyejlXM0FrMmJPa3BBRDk3cC1TVzZ6ZkY0RmpFa3NDTGZod1piLWJDNlU5cDVfUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "New Analyst Forecast: $ATO Given 'Neutral' Rating - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUthYkl1T3NvcnVmN0ZqLW9XME9wOHE5R2ZrRUVWRXBSaktxYlZValRoQ0lXcDB6NEthdG1mR2xERHpQZll1YkRzUHdTN2twX0NYa00ySmdRREpqTlM0UU1WSE13OXpWN0h6QUNodi1zemR5cmIwSHMtc2lWaE4xRWtpbw?oc=5",
+        "title": "Here's Why You Should Add Atmos Energy Stock to Your Portfolio Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1RmZ3E0VFdhcWtvU3phMlRoMVZzaE9PWVBVZjJnU2hyRTJ4M0RDbHV1Sl8wMTFaRXoxUWRpbEpIS1FSLTdvbWRaeHBBME1xWU5GTU1JYUI4TW81ejZXQ2JhbklPYV8xWUJlLXoyVmtyLUJuYmFoa2h6QzFKRkstYnlxNkJEZjFYZXNsVVhwZ051T2Vfc0RDM3o0UXc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UGI or ATO: Which Is the Better Value Stock Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzlwS19XdEg4cE1rUWRVMFNuVjAxcjRya09jcjBHcVI0Y2VTQndxZTZIbEtTSDlZRmIweU0yR3ZlM1N3cmxxU0xMaFpiR2JjZFQwQzRMZWRNTjJyUFNXQjlnZmtZajBUS0NZV2R6eDh2YzExajhUM0lLU3BzYmR6MEpEOA?oc=5",
+        "title": "Will Atmos (ATO) Beat Estimates Again in Its Next Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzM1X1R2YWlpWnJPdUZzaEROLTM1Q2RmQV9BRE9xUlBNck5XTEJMZWRQdUdSMVhvUnhHLXpyN2piMjFjTHd1NVlPZDl6MjBEMW04Q0dBQVBIQzRRa1N3OGZsZGF3ZWZLQUl2VGFETjY3XzRnamF5MDNMVTMzV0haVm14ZVAtRzR5SlJsT2I5U1FqQ3VqVy1JcEp3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ATO Named A Top Socially Responsible Dividend Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkxGbWF5MWZmSmhzblZ3SFdjUWxCLW1KMk5wVGhwb004Qm15b21Zb1h4THJ1MEs3ZkZESGtSbU1wWU1SVkJ5UkhOeFFLUXlsdlQ2OHNabDZzYlEwZXlHWVBvZTkzeEVqSVpER2dFR1ROdzNNVG5hdGcwdkhiTHllbnJBS0c1XzQ4?oc=5",
+        "title": "Argus Boosts Price Target for Atmos Energy (ATO) to $165 | ATO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUm95M3pweW1oU2tjWUNaeFNnLVZKSXJOOWFvZWlYSnUzZ21BX2lreXFpdGUyUW9PSXAxaUg3NHdLaUZhZG5rZnRzS1ltNk1vbmVsdkRrWE51cVkyNlZwSzhfNXdBNTRacEFTeTYtTVZsVU9yWFNIYUhzZHRkSkVIVkREeXpkUW9DNEJmYTZ0ODdBNktlZ1RBUm5FZ3BuOGZrNkJESS02MDFTeE9B?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,32 +2,43 @@
   "ticker": "ZD",
   "name": "Ziff Davis, Inc.",
   "sector": "Communication Services",
-  "market_cap": 1318709760.0,
+  "market_cap": 1298402432.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.904285,
-    "PB": 0.72648335,
-    "EV_Revenue": 1.296,
+    "PE": 17.628572,
+    "PB": 0.715296,
+    "EV_Revenue": 1.293,
     "ROE": 0.04118,
     "ProfitMargin": 0.05414,
     "GrossMargin": 0.85758,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 49.421,
+    "CurrentRatio": 1.522,
+    "QuickRatio": 1.346,
+    "FreeCashFlow": 212885120,
+    "OperatingCashFlow": 335369984,
+    "FCF_Margin": 0.15035969740106941,
+    "ROA": 0.033889998,
+    "PEG": null,
+    "EV_EBITDA": 4.405,
+    "BuybackYield": null,
+    "PriceToFCF": 6.085236882690533
   },
   "technical_indicators": {
-    "RSI_14": 44.085488923339575,
-    "Momentum_10": -3.958272198488799,
-    "MACD": -0.4130189070879488,
-    "BB_Percent": 0.2855962006036586,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 40.95315846441462,
+    "Momentum_10": -4.901351148425008,
+    "MACD": -0.0197736761228384,
+    "BB_Percent": 0.127186888366743,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934010199178722,
-    "QualityScore": 0.3658245678012463,
-    "SignalScore": 0.5386059516981201
+    "ValueScore": 0.8953609006521691,
+    "QualityScore": 0.3309581611244661,
+    "SignalScore": 0.6392497543942619
   },
-  "volatility": 0.0294589030693925,
+  "volatility": 0.0302531484421957,
   "beta": 1.555,
-  "return_6m": -0.478246401711711,
+  "return_6m": -0.4658008591953294,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 6,
@@ -35,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 58.76
-      },
-      {
-        "date": "2024-12-10",
-        "price": 58.73
-      },
-      {
-        "date": "2024-12-11",
-        "price": 59.19
-      },
-      {
-        "date": "2024-12-12",
-        "price": 58.94
-      },
-      {
-        "date": "2024-12-13",
-        "price": 57.75
-      },
       {
         "date": "2024-12-16",
         "price": 57.9
@@ -526,24 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 33.3
+      },
+      {
+        "date": "2025-06-09",
+        "price": 33.53
+      },
+      {
+        "date": "2025-06-10",
+        "price": 34.26
+      },
+      {
+        "date": "2025-06-11",
+        "price": 33.84
+      },
+      {
+        "date": "2025-06-12",
+        "price": 32.36
+      },
+      {
+        "date": "2025-06-13",
+        "price": 30.78
       }
     ],
     "current_price_data": {
-      "price": 33.3,
-      "change": 0.49,
-      "percent_change": 1.49
+      "price": 30.78,
+      "change": -1.58,
+      "percent_change": -4.88
     }
   },
   "news_sentiment": {
-    "summary": "Les titres d'actualités économiques récentes concernant Ziff Davis décrivent les actions positives de l'entreprise qui poursuit ses développements dans les marchés de la santé et du jeu vidéo, ainsi qu'une hausse de la cible des analystes à 40 $ pour ZD. Les actions de ZD sont également en baisse, avec un touché à 52-semaines de bas à 37,04 $. Barclays a mis à jour sa cible pour ZD, et Insider Monkey a classé ZD parmi les stocks les plus sous-évalués. Les titres mentionnent également que Ziff Davis a annon",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
+    "summary": "Ziff Davis (ZD) fait face à une série de défis, avec des résultats financiers décevants et une baisse significative de son cours de bourse. Les acquisitions stratégiques dans les secteurs de la santé et du jeu vidéo n'ont pas encore porté leurs fruits, tandis que les valorisations de l'action sont au plus bas depuis un moment. Malgré des partenariats innovants comme celui avec IPVanish et VIPRE Security, l'entreprise peine à rassurer les investisseurs et à répondre aux attentes du marché. Les analystes ajustent leurs modèles à la suite des derniers résultats, ce qui souligne l'incertitude entourant l'avenir de Ziff Davis.",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": []
+    "headlines": [
+      {
+        "title": "Strategic Double Acquisition: Ziff Davis Pushes into Health and Gaming Markets - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeV9sb1NjbC1GaVF1bENCUmNsTUJZb0ZHX2NXVUFnZ3lybkRQWTdZYlN0eVlSbGRHUFhOd2lYZVJXb2dxVTg0a0tCa1JZa0tHUXZKTThkMW05SFZ4UmVEcWo4OXhnbTRpUkQySU0xSzFMUFVRMnQ5WEdxMmJ1NXNKQ2hMeW9fa1lGRk85UVA4YzhYMnJ3TU5FMXB6Y0s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ziff Davis (ZD) Slid on Earnings Miss and Poor Organic Growth - MSN",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUlReE1WRm5BMmdjaUNjX0pHVmlreXp3RGZCcnN3eWR0ZXo2NWNLSTlFZ3VfOURTT2FSUGM2TV9EN080WjdOZU1ubk56TEFiSWVMU2pYS0xEaHZkb2E2VHNPX0dfOFN6MDV3Q01zTlFxLVFfODREVDUwWGJteF8xbWM4U0hSTTZfeHJka1RRdHM1VlIyQVl0TTByNG1Mb0tubjlKQlNGQy1XVzAtSUdHRw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Ziff Davis Inc (ZD) Is Plunging In 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yZzRmaFduUGxqeHhSS0VUOGlmTEFlRXJRUUQ1eGw2dUpyUUVPRWVPdjk5d2p0VWJWSi1RS1pjbXZ1V3pPR0dfN1A3V1BsVHVKcGtMNHhJeVhvd1N6N3hYN0FNaHBIdU1TOXFlQko4WWVMWlp5N0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Ziff Davis, Inc. (ZD) The Most Undervalued Stock With Smart Money Ratings? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWN3ZjYydVdKTF9ib0RKRTlPbXMzWE5DV2lOS2o2OFcxZFhhZEUwUmpkUzY0bnB3b0ZjTkl3aFNDeTh4ZHJtR0ZhTzhjUzF6ZEZDMmhLOTE1QWFpbTZqMUR0ek9JNWVZTU41cjUwQWdaSGI0V1BxWGZqNjRMQnlTLVVqU3NQZFp0bEFJbWpicTVyV0ExWVZtSDcwYm9TTjVKQWQyVXUzWHlYNGI1Vm51bnl1dVRacknSAb8BQVVfeXFMT3pkc2wxdmpaWUo3WkVhU1FIS0tfM1hfWkxXMDRtTzlmODB4dVpFSnNlV251NHZiN2RLQVhnNVEtcFZKdUdDQnlwVzR3X0pxREhXazNJNFdvSXNRb2tBZkhKeEV0Vno4LWdRZkFkU3RLYUwzWlUyNGI5RGRtaTd4Y1R3RGIwMVZ2U2FockpmS1JjZ1hOaTJ1RFgybTNFZHNyZzZ3Mzk2U3RnWUUwVUFsRjl3STh3OF9QUkRmU19Ed1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The three-year shareholder returns and company earnings persist lower as Ziff Davis (NASDAQ:ZD) stock falls a further 14% in past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQklYdEt4UDZvVkdqeW9NNjJLREhjWWRNS2pVdktxWlJtZUl3eGVKUkI3Sy1WUzFvMWlmTkNILU9vNzdnUlhMZXpfRkc3bEc0WXFzbllSOXJCeG1jYktmNWVqcHlkUE1jMW5PY2tITi1vMFlGakJiYnYyY2F6S0hOSmNETkhrSHg4UXQ0b1kwVU1Qc1ZtRjRqd2JzVmMtRTgtakZjTzJlMVMtWXBXcDR0QXMxU0pMS1lBRVZEdTZzSHdwcVNhcVg00gHMAUFVX3lxTE1xUU5zR2N5bDJ1ZVBfM2JKZEMtRG1hTVUzTlJJank1V1Z3aUlwbDVqUXVhSG85RldjMG5TOUxwVnZhRktKMGY3aklXRnZCTVNSVG9RSVZORktUTFFBc0xVZkhiY05PWUhIa0tzY1FWMUVKamRROXptbl9YNUFVeXh2cDhaclgzbG5mNFhuZlZoOFpFSERuYl96OU10djNjaUFaeDY5bXVBRmtzWVV2c1V0ZjNucjBranNLNl9uSUZrR3djeHgxZUItcXNGaQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ziff Davis Reports First Quarter 2025 Financial Results and Reaffirms 2025 Guidance - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdk5UNWdJRndDZS1JcFRTZ0ZoTlc5YlAwWDBQOGlMLVlBQ1ZGb05XZ1dpRjFIX1ZBVnhUeGR4YmNjdWhTRlI3Q0pPeW1CZElKa1d6cHVPLVl5X0RCMzBMeGN1ZndJQ3JHamU4Z21hRHNpSU1fd3BUcGRsTUdRZGlBYnJBZFJnT1c2aUdYeDNmam00S25sVm9Ra3Z3T1ZueFJSRnFJVHdSU05yS1FvVWtXWm9VWHdZdGpaX3lHUUZpTlYzT3VQeHF4QUw1SGM2QlZfZERMWjVZQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ZD stock touches 52-week low at $37.04 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEsySmNCT0hoZEN6MVI5Qzh6amdHNG1XeWgwY3pXeG00Tks1UVBYVDVaRG8zN2NoWDRsRHQ4VGd2cUJPMGtuTThqSTRNNDZSZ1FQTlZYU3kwcDJfYWtSQ3JvMGlCUFZLQ21nRUpuSjlZdHFBZzBvcHdiczNjbXZReU84UkhaYmNYZTFPaFlEUlZseHkwY2hsZVgySHhvQWlNR2FBeUM5SjlTZHgyNUt2ZGN3bDZGQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(ZD) On The My Stocks Page - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWZXZkNaTlVFUHlEN3VEcUJfM21nVXdoVWVVay1aNkdmOHdkbE1aRnRiX0xVUjZYR0pKT19nLVN3ZjEwRDh5d2MzVnZaZmZhRXJuSVh1aGY0TXhrOGlnZFU0X2NkM2ptSlVvNWNya2xoNTZPZURNZUtCemEtc2RYSDZ4TDZaUkw5eC16MDVXNzJjN182Z0dVY1BuVEgxVUpl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ZD Q1 Earnings Call: Ad Markets Drive Growth, Profit Falls Short of Expectations - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR1BrOHJNbFlRZ2NOWDE1OC1IQ01JenFfUzNLaVhKb3lUWkdzTHZnQnN6MDJ0a1BFbnRDcnl0SkZLaEoyNTZJTW5sd0dZaFNCQ2xzTVFfNkZNNkRna2t5V0hNemRnSDA5MnR6WEJjazg3M2VoTTQ2S1BtUHdlWHFDWms2QlU2SWQ4cVRWeDBIRnNJLWRYLWFBdms5VFl3aWJkazd6UXV1N2N3cWlzV3FuRENPekJocmsxR01YSVZOWWtGdTVNaGpxYzhLVThhR19iVms0STZqaXdfazNsQ1lUbkpLWW9ydw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ziff Davis Inc (ZD) Shares Gap Down to $31.44 on Jun 2 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWR1Q3MtV3RKS1c1RUJiQVhSN3l2WnZZcWMtdTJUdldSMmtJZVBoYURqUUdRUWs5ejlUb0xyZWFqMFBtRWRiRFMzdXlqMG5MZHpCSUc2OEJ0TU1BRERLZC04eDgzak1PQW0tc0gteWFzWGdZcXh6Q2E0M3c1M29CN3dJUWlKTWUta0lfclZlZXhGN28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ziff Davis: Trading At Multiples Only Seen In The Depths Of The GFC - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXZ6elg3bGJOY3czWFAtck15QkNkTlFFY2F3am5hU29ud3FmdmNabmF5ZmRQenJ5bzdsX25tQnIwb29QcW0wY2V4WFdwRUdTWWxpZk1qQXVnbUpVRzc5S0tuY2ZPa280NFF6UWgzamVxTUd4LWdNTVBNR0haT1hZVEs5bEhBQ1cwYkpfU0RHS0s4RWpWZ29PNU8xLU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tech Meets Rugby: IPVanish's Game-Changing Partnership Transforms Match Officials System - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSld0aWhpQXlZQ0xvRzNrZW9nSGVlTXZqc2l0VlhKRWZyeWxKUDQxb0hyLUJpTDRyckljeXMwdUI4eHpwWmtWeEVZNkc5bVA5d2piUll2T2tvaVV5Vm5Ob19sdVlsR25qMFBLUlFPVXFyZUNIRFExQlhIa1FwYmdqaExzaUZPT3NzbkRtNXZYdWhCd0dJeFgzaE1XTk01al9zc0VXamMzVlNYdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ziff Davis Insiders Added US$820.8k Of Stock To Their Holdings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0J2NGNSM3BWT25ETGN0b2s0VlZSTlZNU0M4ckRZZk5yZmgxWHNVUDdfZHppWmpDNkxiQ3RWZTRjTGdJOGdxQ0t3NEVfeWdVejFKRTU0OU1kalhYWDZ4bC1VeW0xcUpmNFZJT19Mb3FGNE40U2tFQ3ZPbkRZdmgyX3luYnlYYVd5b0hMWVRzOXh3SW04UGJVRlpDeGdPMFRyZk16YmlvOXR1VElrZnNXV0ZXLWN4R1RyeEQwUGVKSmdRUdIBxwFBVV95cUxOMk4tT0xYUEswNWVhenRLRHR6V1pTSUhlRncxV3BNdkRSZnctU0RGek1LWWZZdldxNWhialpBUVdGUk9OOVJMbzZHeTZTU1RveHBDWEpqaG1UQnNKRUZSRUUteWdpOXB0VEtQRTBfdFY4MnpvVHhJQkVsMW1TMmltaEFYMGxVWUY0RU1WWXJhSGpuNmYtYzF2TWdjbmFib0RRWEZqdzBYZENuOTFnLTNaaDVhRUdmLW9GOUpNaW1FWTVBNmVTdmU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ziff Davis, Inc. (ZD): Among Stocks Insiders Were Buying In Q1 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44LVNOU1FLcWlsby0wQVc3V2g3Wl96ejZoc0dWOFduQkg0TXhwYktJVnkzRkx4X1J5NE9ndS1scENvQS1JbTVOY1R1MEpTdlpLMlFaS18tOFZrUV9WUE1wck04TkZqTWgwVE5Jc3NHQl9iM0FCWVBGSg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ziff Davis Sets Q1 2025 Earnings Release Date: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2ZWNllxdDd6eHh1NUdKeUs3dTUtcnZZejdOLXkya3RJVFRnSVk4TjNlMUp6YnFkd2ZKZnFYQVFMTDR5bTBzZ2Rldk14VXhLQ3VfX3NCeExyT0U1UFBTaEx1ZGtkaTdiVzRWeEphU3R2Vlo5a0ZBcTFwY3JUQ2xrejJuLUxYRlk0TGhua3dianFnSWZRaGxBWWlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Think About Buying Ziff Davis, Inc. (NASDAQ:ZD) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjFZMFdMMXhnOWN3UHB2a0JMTml6cWNXTF9rOHdUdnZTMnZiZTBGdFFab0NCSGxXdktpOHZWSkdtLUdOcmxFYmNMZU5iT0w0ZmJ2NTBfWmphdGRBdjlBSFpabFZMRzVFS3hNRTZaM3B5ckpHMWZTWXZGalY1b1NYcUZhRFYxYmpyazQzNndXUE1pcl9WMjRHZ296TGJlMDN1RUtVY2dCQlR0SENaT2h4c3QteHZnME5ZRlUtclF6enjSAcYBQVVfeXFMTjc5VFhqc3RtN2xNYUlNSkhLdG5JSXc1a2JleXkyeEJPazlWSXRpUzROVEJZYUhhUFNXTnBMWmlWUUtUcko0UWNzYzF2WUJsYVJCR2dpMENwenc2a1VTRkZKQVBBVkRTYVhHQlZTYUFRc1ZHLXR6N05leWk3SkVZNWpxUEFhMktMRW9qT0YwaTN4WUhfcS1BbXZBRWk3R1ZFc0FCam16cFJNSHFqN1c1UmlTZkNJRmZwYXJOc1haTncwQ3JRMW5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Digital Media Acquisition: Everyday Health Captures Millennial Powerhouse theSkimm - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1lvTzFBdUQ4YmJYNUxZQzd6a2pYZVlOZGt6ek4xUVdhU3UzeEU2MnprRlFxWDZXVENyZFNMUlp4OUIwWkNnWlpBcWNQNjlwbEswS1FoUGpRdE95Z3phVTB0NXVoQVIzVWh2WlhMT3pibEZGWlc0ZnBhNWJ0U0Vtcm1WTFJOVVBqcFV6M0FPa3EyODJSS19ZS1JEa011UWw3cHFySndld1ZJakYtRTBiLVhmblpnR0FMd0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ziff Davis, Inc. Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMW1oQV9tNThJWU9TSjN3ZzFrTEtLVlNzRmtYUVRZb0pEVGN4X05zck1ja0VqMHVnUDhSTlBzbjM5X0JYZ1NMUjA0WHlCenVWcVlYb212TEhHTzE2X3A3bmQ5YWxXQzlYWDVUeHFjSk1LMkVUdlJDXy1TeDN2MXJKcEV4aTB6VkFDNFpYOTgtdlBIMWtmYk42ZUZvdVg5SmFQaFdfWExVYU80c3Q1ZU5UVFVrYk55bm1WVFo2Q1dGZjJvZ9IBxwFBVV95cUxNM0xnZnNZZk56cGdhLVdDNUF3b3VLREtBZmRFZ1FfbnBYZlZBc01DRi0teG5scTJHaDZQc0Jld29LbXJSOEo3NmhTT2UyaGxIcC1JZjV6MGhUWThTWU1KcWZOY0NQZjRwcXloUTY4ZnNNd3MtRXowOW9oWDRpd0dRMzJNZ0N5aXNwZlBiOHBRTUFOdkZCYzJoZ2lyd21IR1NqUGRCWmVrLUxCY3pndjVFTnVsUF8wYWFkWXdfQVlTejFneEFaaFNz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VIPRE Security's Strategic Move: Major Partnership With United Rugby Championship Spans 5 Countries - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjdDYTJ2MVlDejlJalVsanlKZmFXQm1uNjlkTWg0XzM4QWVvY1Q4V3NHZ0szY0dBeWVQTG5MSU1NUk1lQnlGbG96TmJhRmZ3NVRSbFdiVURnc1ZZbU53V2F1bnJQYWVCa3RtaDItbnExcjY1akZ4aUlZbmxHQmsxamVyNmw4d3poZG1pTzc3REhLZGdxNFlyYzFRTVFNTk4zREpRTWNDODJtZTVmczlpZ2xsTEk2Y1R5ZkpVZA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Out-of-Favor Stocks Facing Headwinds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHdlTFoxREFoUGlFSHpYdC1fbDlKanp0ZzhRenpPRy1UWnk0UjA5NlI1UVowZERveXpCYnFCOFdtTmt2OU1PeTlUNWdTV0dnVW1CdUVCcHlVNkhmT2NGSlVsX3ZrS2xuWER6OGJuSkhRX25neTN4bVdsck1lTG1VbnRBaw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
   },
-  "extraction_date": "2025-06-02"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "3436.T",
   "name": "SUMCO",
   "sector": "Materials",
-  "market_cap": 340615593984.0,
+  "market_cap": 353030242304.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 19.075598,
-    "PB": 0.5804806,
-    "EV_Revenue": 1.653,
+    "PE": 19.763117,
+    "PB": 0.6016377,
+    "EV_Revenue": 1.72,
     "ROE": 0.0324,
     "ProfitMargin": 0.044060003,
     "GrossMargin": 0.18384,
-    "DividendYield": 1.69,
+    "DividendYield": 1.52,
     "DebtEquity": 56.273,
     "CurrentRatio": 2.867,
     "QuickRatio": 1.214,
@@ -20,52 +20,32 @@
     "FCF_Margin": null,
     "ROA": 0.01729,
     "PEG": null,
-    "EV_EBITDA": 5.922,
+    "EV_EBITDA": 6.032,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 50.68152024603806,
-    "Momentum_10": 1.6277102659168718,
-    "MACD": -5.236737819601103,
-    "BB_Percent": 0.4896964929809378,
+    "RSI_14": 53.20906684986492,
+    "Momentum_10": 2.7271789416974825,
+    "MACD": 12.568775091920427,
+    "BB_Percent": 0.7015636153115611,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336357770151138,
+    "ValueScore": 0.8925437394398185,
     "QualityScore": 0.3300341559618091,
-    "SignalScore": 0.5718552803060213
+    "SignalScore": 0.5502625421404777
   },
-  "volatility": 0.0353864352201878,
+  "volatility": 0.036699849311947,
   "beta": 0.833,
-  "return_6m": -0.1681697595034086,
+  "return_6m": -0.1156873453021414,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 1445.8823
+    "analyst_count": 16,
+    "target_mean_price": 1398.125
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1177.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1219.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1234.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1211.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1180.0
-      },
       {
         "date": "2024-12-13",
         "price": 1147.5
@@ -525,24 +505,54 @@
       {
         "date": "2025-06-06",
         "price": 974.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 981.8
+      },
+      {
+        "date": "2025-06-10",
+        "price": 990.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1094.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1051.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1009.5
       }
     ],
     "current_price_data": {
-      "price": 974.0,
-      "change": 24.9,
-      "percent_change": 2.62
+      "price": 1009.5,
+      "change": -41.5,
+      "percent_change": -3.95
     }
   },
   "news_sentiment": {
-    "summary": "Désolé, mais je ne peux pas accéder à des actualités en temps réel ou à des données en direct. Si vous avez des informations spécifiques ou des articles sur une entreprise cotée que vous souhaitez discuter, n'hésitez pas à les partager pour que je puisse vous aider à en faire une analyse financière approfondie.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
+    "summary": "Le Nikkei Stock Average enregistre une quatrième journée de hausse, porté par les espoirs d'un accord commercial entre les États-Unis et la Chine. Sumco voit un potentiel à long terme dans l'intelligence artificielle, mais doit faire face à une concurrence féroce en Chine. De son côté, une étude met en lumière le rôle crucial du facteur de nécrose tumorale dans l'épuisement des cellules T. Ces tendances soulignent l'importance de suivre de près l'évolution des relations commerciales internationales et les avancées technologiques dans le secteur de la santé pour les investisseurs.",
+    "sentiment_score": 0.667,
+    "label": "POSITIVE",
+    "positive_ratio": 0.67,
+    "neutral_ratio": 0.33,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Japan’s Nikkei Stock Average climbs for Fourth Day on US-China Trade Truce Hopes (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KVWh1RGd1SjZuaTd2ZGNZWU9iWlNXWk8xUmFfeU1Xc0tiR3Q1dWQ4eDBBOUh5Mlc4UG9DR2wtY2pqd1NBYWl4NHA2aG9TVHJ5Q0g1RGdLdHdLR25VRW1SVDFDbG1iWlNpUjFjS3B6cllndzFoZzVGWEt3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sumco's Long-Term Upside in Artificial Intelligence Offset by Competition in China - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFFycW4yRi1qbktJbHZCNXlBU3AwNzQ0U1BWYWFHYk9XdGhidWJaNGxLN2JaeGUtNnZBb2V1aDhaYnBMU3g2NHVTWm5nNS0xOTQ3NGEtWlBqTXczNXQ1ZUtnNzBnQ2psUkUydXdGRk1QSHpXZjVhMzRGbWNCTDdvd0dDRkFxODliOHloWi1BMmgzWWtXQWxJcE9fNkJKNG5XYnhtNXE1MDZPTm1Wa1A5V2xjWnE0WjNaMlhibm9SVlVIX2ZtWmtOSHotQUZfUQ?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Tumor-necrosis factor is a master of T cell exhaustion - Nature",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5dWl6X05ScWNYY1pxN2FETC1KSHRlanFUUERtQXNReFpkMERNRW1LMXdOeGMwaGJzdlV6cDlQT0J5X1FwWURlUWlPUi1sQ3kt?oc=5",
@@ -550,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

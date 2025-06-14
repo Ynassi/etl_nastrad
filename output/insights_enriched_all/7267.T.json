@@ -2,16 +2,16 @@
   "ticker": "7267.T",
   "name": "Honda Motor",
   "sector": "Consumer Discretionary",
-  "market_cap": 5818692403200.0,
+  "market_cap": 5783415160832.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.834591,
-    "PB": 0.49436525,
-    "EV_Revenue": 0.604,
+    "PE": 7.785786,
+    "PB": 0.491368,
+    "EV_Revenue": 0.603,
     "ROE": 0.07046,
     "ProfitMargin": 0.038540002,
     "GrossMargin": 0.21504,
-    "DividendYield": 5.06,
+    "DividendYield": 5.0,
     "DebtEquity": 90.683,
     "CurrentRatio": 1.357,
     "QuickRatio": 1.004,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.05078947419312107,
     "ROA": 0.025050001,
     "PEG": null,
-    "EV_EBITDA": 6.701,
+    "EV_EBITDA": 6.682,
     "BuybackYield": null,
-    "PriceToFCF": -5.282224076311921
+    "PriceToFCF": -5.250199304065898
   },
   "technical_indicators": {
-    "RSI_14": 46.0748195787791,
-    "Momentum_10": -1.163200563976031,
-    "MACD": -0.8906323146181876,
-    "BB_Percent": 0.2685433148293962,
+    "RSI_14": 44.72617776498781,
+    "Momentum_10": -5.074931880108992,
+    "MACD": -6.314082432288615,
+    "BB_Percent": 0.2413636046391087,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935430636440496,
+    "ValueScore": 0.8976863089188265,
     "QualityScore": 0.385410109626991,
-    "SignalScore": 0.6197152005366566
+    "SignalScore": 0.6363089098146977
   },
-  "volatility": 0.0253282250435728,
+  "volatility": 0.0253089839380846,
   "beta": 0.349,
-  "return_6m": 0.1158350339384264,
+  "return_6m": 0.1030681591653768,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 1644.7382
+    "target_mean_price": 1641.6132
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1286.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1300.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1314.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1306.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1300.0
-      },
       {
         "date": "2024-12-13",
         "price": 1293.5
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 1402.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1400.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1400.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1412.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1400.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1393.5
       }
     ],
     "current_price_data": {
-      "price": 1402.0,
-      "change": 18.0,
-      "percent_change": 1.3
+      "price": 1393.5,
+      "change": -7.0,
+      "percent_change": -0.5
     }
   },
   "news_sentiment": {
-    "summary": "Les constructeurs automobiles japonais Honda et Nissan sont actuellement en pourparlers pour établir une société holding commune, ce qui a suscité des inquiétudes concernant le ratio de transfert des actions dans le cadre de l'accord. Malgré cela, les actions de Nissan ont chuté, tandis que celles de Honda ont enregistré leur meilleure journée en plus de 16 ans suite à l'annonce d'un plan de rachat d'actions et à la perspective de l'accord avec Nissan. Les spéculations sur une fusion potentielle entre les deux entreprises ont eu un impact positif sur leurs cours boursiers. Par ailleurs, les inquiétudes persistantes concernant les tarifs commerciaux et les récentes performances de Tesla en Californie ont également influencé le sentiment de marché.",
-    "sentiment_score": -0.15,
-    "label": "NEGATIVE",
+    "summary": "Les récentes nouvelles économiques mettent en lumière une série d'événements clés dans le secteur automobile, avec Honda et Nissan engagés dans des pourparlers de fusion qui pourraient créer le troisième plus grand constructeur automobile au monde. Malgré les préoccupations quant à la valorisation des actions de Honda, les investisseurs semblent réagir positivement, avec une hausse significative des actions suite à l'annonce d'un plan de rachat d'actions et d'un accord de vente de Nissan. Cependant, des obstacles potentiels tels que les inquiétudes en Chine et les fluctuations du marché pourraient influencer le sentiment des investisseurs.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -559,48 +559,23 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "'Car Wars': Five auto insights investors should know from top BofA analyst - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fQzljWDlLbkY5MUJlZUlaR0ZlaDc0b0JCWklGeGVkbmNKVlcxY29UY0xhV21KRVM5ZkhWd3ljby1WWGxWbDlRT05BeUlFNkZGR0l3bm1XTmJ3X0NGZXpIVndncEV1V0pjaS1LN9IBckFVX3lxTE85d2V6Wlo0bUN1TnJvUlVJWUc1RGxpUzBERm55WDZMREJEUmhRR3FuMFZFbE9qeEpldmpVTnF0UWpBVHhrdVdSMkExbVp4MUpXc0lIaTNmRDZzUHhCV0FZZjVnZ3JWc1k4dE1GMElHNkM5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Honda faces 59% profit drop, pauses EV supply chain expansion in Canada - Austin American-Statesman",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTdVRGk4NXFfQkFPUDVQTGtmVEd4b2ZlWi0zS3hQa2YzdEdaYkl4NkpmQVpSekZQaWpKSlR0VS14MWJGZm1Sb1dLcTR5cW1FNjN2S0ZSelY4TUdKQnl2MHFuWDROSDM4SW5SU2x5WGpQZGV6aW0xeGJtRDVrZ2phcC02RXBqTEtaNDNQaTlPQ05JS2JDUUdLTg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Japan's Honda and Nissan to reportedly begin merger talks - CNBC",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeElRTDZZdEJrYklUUk5zT25Ld1VobVdRTlBKdm1iS2Z4TTBrb3BsT3AycE1weGdqdHI4RVRLQy1wNGs2Mm0xNWQ2cGpFbGgwU0U3SDk4VlVfWnp0ZXk0V0owOXlRcmFwaDlXZmpJY2hheUZZU29BdDR2QlBnTmNnMDQ3LUxhRFNvWmJmNjBFVXp2YnBnYnVtN9IBngFBVV95cUxNY2NyUi1IT29oVUxzZmpScWFVRVFaWDJCck9BQnZOUS1OX1VMR3dZOU1WajI5NXVudTlFNlJCemM4UGdfZEYxUmZvX2E3NmNBUUxZdmF5U3VrV2w5dWZCU1hPaktha1R4MEpFMGliZUZia3A2ajN2bVJUM2EzcUhScEZvcDZFeHBvUy1IZ1Q5N1dFQ3hXcGtMUThLYll2QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan’s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbWV2X1pVMmtUSWRSQkFLb1F4WTBCMXJDTUs1R3dMZjJrVGtOOGdyazREblJmS3JOaHM1eXdMOGd0QkFmVDhyWERYTndzQVg4dGNGcHRRZDdEemFsYmdST0FlUVBHc0R6X3dVY2pKTWdNLW1oVXB3S2Vn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stocks struggle, gold at record high as trade fears weigh - KITCO",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFZQNWlWRG1JTGxCc1RUTFpXcFZzZFkwQXd1ZWh6NllZdUphWEdIajR6c1loZlMzNUJERmpsQWxYZUk3R19nTUJyVkpoU0FkY3VZYmJ2R0oxMll5cnY4cHdOVU5oNS0weHdESWl0Y0tjSjVIb2ZlcEZGam91ajItekU5X1d2TmZoVGd5LWhoVm5xa2F2ZFVtakZxenVETWpPbFhZ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla's market share in California sinks amid backlash against Elon Musk - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaExvV1gxTk1odzFvTXd6LUpHcUp2eWlGV0JMZ1pwQllDTnZvZEJsOEtMakVmQjVqdnJURUw0Vl9CbDZvd2dNSXNmNDVua3VNZFNBZTRBRzBsVkNrZnJCdzJaYWVVaVZhMnVfeThtcGpxRkJsRWxHZGlvcUM3c0lqekh3ZXVSRk5VZkRnWGhBWmZDSlVLZGNaZTVsMC1vMzl0Nnl6bDFsa0tfYmVoWkFFWEZZdVlEQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "CNBC Daily Open: Despite Dow’s nine-day losing streak, we aren’t in dire straits - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTl3U1F2bHByc1FoSnRYaTVqWG5tMWFDRU50MHJyMlhaSnp6eW01MWh1SWxmcXZjbW5YY3laSUZsSFQxUGo3YWVtUGpTVXZSdUZiSlh1WU9FQ1JQWWd5VTZtVGNhMGFLTDhlOXpTUWVlYndYX1diRHdLNkdXakZXVGNMUGJYZjdFXzYzTC1zSzJwQUtmanJhVnVqcFhOMk9CZGRxSUNNR3FKazFITU1CZE9EVdIBuAFBVV95cUxQd2YyTDJzdG10eXhUanJYbjRhS21sLTdzS3hUSVJTSk1YVEtjT1lnaHJBbXhoSjRUZl9jUy1VTHRsNzlEYXZEb09VbnFlU0Q1UmV4eTlxQ1I1MlpKejJsdDRnR3FGV0stdWZFWXo4dV9vdnNaSjM4MWtwUVhMYm5tQ0JmQktQbHhGWnhkNFRuNExyZjJaQmhNM2hiM2hzT2xOYmZoRUU2dVpRVjVCZXpqRzVWa2lsUmJq?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Trending tickers: Reddit, Robinhood, Nissan, British American Tobacco and Unilever - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazZoU3k5ZFVoWWdmaGJJR05RM2gxTG9jVGR5YW5RZUtlMk1EOS1rXzhoSHBWa0ZsUk16bDJIUnB2Q2tCQ1I3Z1ZyWTliZkJ6WUVxNnFoRXBzWnNadWsySnp1cUNqeWsyMmxuZ0g0NDZrTmZuUkZDOXVYZklIUTViS3A2VXA0WHpnTXRyQWJ5TXBhNzZQdFdqWFhabHpsSVJXbFR2V1ZLeVpGWVA5S1NyZGtxRGhBSVppdGlNdzR0Q1g?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nissan open to new partners, sources say, including Foxconn - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVh5S0NLcmNBQWdLTXczVzJZNkl1YTkzZFB2ekhGZ1h4cUlQR0RIZ1Z5bzZqUkt4elJDcXJxb0Z1QzhmSGVIWWp1aWJNSVJJblFlVHlkXzdMQ1FPZ2NpTmticnY5NlQyUnhCWDU2UjI2RF9ydDU4WTQ5d3JWT29kX24xRzBKNjNpeVhZOVlDMkp2MGdTb0lVVWtiWDZ2b2J2ZFlpcUM5eDNNaEx0a05YYjRUTzlqQU1aSHVZcWlpRGpWNjN1?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nissan and Honda shares rise as report says automakers may call off merger talks - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVUtcmpxY3FudE9rRXVzVktBbHRuTFBaY01RMllTNWFHRzM4REhUUDlXMFV6M3NPMlVsR1MzRElrWHNXQXAtRXo5N3ZzV0Q4SEV2SW9jUnFpVEljb0hlWmJDRFVZU2M3Um9Mb1p5Qm5YR0RmM1JxU3dhM1p1cWRuT1BCV0lDRm0zTzRiclZTdFBLSmx2cDlGQmc3S29vRmpyUjNZZllfQdIBrAFBVV95cUxQZWZ3VldhUGJFWkNkMjRWaU9kQnFYTGlCeE5XQXh0RzUyMU5QejBrdlA1NU5VNzlzRFM4WnNoOS1IY2x0N1FVclM2SmRkS2JWZ01MOWpZNzgtZUozS0JaNkZQSVA3T3NYRG9OTFJhNU9hSDJhVzNXVnp1bkdvVGR2blFtaFVmbEF3SFZNT2stZFVQdXR2UDgxcWhDMzJjeDJYczhRakdONU0zMDZv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla 'should take a look' at Nissan opportunity, analyst says - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbll5X2o2UEJ5VndCUkZLRzYyeHlsby1qMXhhSTdRLXQtRzhkZFB6b3N0VVJ5VDE0RUlDVVhHRDFpLV95UEJPWmZQanI2Q3hfVnRDVFlpSGFITEw5aHBKRkZpMFhSdjBKSmtRRW5RUk5VR0lIMEJiZkNITy13VUFoNmJjbU1vaUhaeXNOeQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -614,9 +589,39 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Honda sets secondary share sale price at 3% discount in $3.16 billion deal - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZzlFX3NWN0RKaGQyVGxwR3ZFRTRqZHh3VVZqYllSMHZYMGdWTWczNHppczlWSmNxanlVMElLRGpNR3hvWG55MjZlSTU2cTR0ZV9wdnNNX1RWb3RHbDRfUkJHSlJJVEhBblBLR3FqN3VOYVZtbEZUejhCazVyeW5ma1dPcWdrMjczZnluYlVlRjJNUm1WZGt6RFA4N0N4Wk5PbERVbW1ZUnNkNzh6eGR1QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla 'should take a look' at Nissan opportunity, analyst says - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbll5X2o2UEJ5VndCUkZLRzYyeHlsby1qMXhhSTdRLXQtRzhkZFB6b3N0VVJ5VDE0RUlDVVhHRDFpLV95UEJPWmZQanI2Q3hfVnRDVFlpSGFITEw5aHBKRkZpMFhSdjBKSmtRRW5RUk5VR0lIMEJiZkNITy13VUFoNmJjbU1vaUhaeXNOeQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 things to know before the stock market opens Monday - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3RIZzk5ZFpuc0ZIbFZaOG1Pd1lwTWJzdGVrVml1M3BCMUFCQmZFWVFmMGhwSWY1Y1NoNzZ5dkUyM0podjdZQTlrRnE2M3lGa0RHSFNKV05aNnBmdWJHNnJDWnMtY1M0bEwyTzdPNllfWkpZV2hWR1cwRVVka0drdlJnTDQ3cHQ0Z1BBYW1tZDBaYXdZdjFDdWNVekpGZlAxMzRVSdIBqgFBVV95cUxPWWExM3FIX0M1NFBwbWZ3VG15RWp6MVRnTndqTDQydnJfQTFuMVpkdFdpTGtGVElzaTdVcnMtWjNqTVFRSFpuZVFqQ0pFemFRNHRsdFpDdWdIUmFQOXFSeFB5R082dE55eDhfUXYyWHZReFZTWHJzZTU2XzN6cW4tMFgwazBLdHEzalZZVk01ZWl6bUVnT2kzVWduS0VzSF95ZXgwVjZfaURQdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nissan and Honda shares rise as report says automakers may call off merger talks - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVUtcmpxY3FudE9rRXVzVktBbHRuTFBaY01RMllTNWFHRzM4REhUUDlXMFV6M3NPMlVsR1MzRElrWHNXQXAtRXo5N3ZzV0Q4SEV2SW9jUnFpVEljb0hlWmJDRFVZU2M3Um9Mb1p5Qm5YR0RmM1JxU3dhM1p1cWRuT1BCV0lDRm0zTzRiclZTdFBLSmx2cDlGQmc3S29vRmpyUjNZZllfQdIBrAFBVV95cUxQZWZ3VldhUGJFWkNkMjRWaU9kQnFYTGlCeE5XQXh0RzUyMU5QejBrdlA1NU5VNzlzRFM4WnNoOS1IY2x0N1FVclM2SmRkS2JWZ01MOWpZNzgtZUozS0JaNkZQSVA3T3NYRG9OTFJhNU9hSDJhVzNXVnp1bkdvVGR2blFtaFVmbEF3SFZNT2stZFVQdXR2UDgxcWhDMzJjeDJYczhRakdONU0zMDZv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CNBC Daily Open: Despite Dow’s nine-day losing streak, we aren’t in dire straits - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTl3U1F2bHByc1FoSnRYaTVqWG5tMWFDRU50MHJyMlhaSnp6eW01MWh1SWxmcXZjbW5YY3laSUZsSFQxUGo3YWVtUGpTVXZSdUZiSlh1WU9FQ1JQWWd5VTZtVGNhMGFLTDhlOXpTUWVlYndYX1diRHdLNkdXakZXVGNMUGJYZjdFXzYzTC1zSzJwQUtmanJhVnVqcFhOMk9CZGRxSUNNR3FKazFITU1CZE9EVdIBuAFBVV95cUxQd2YyTDJzdG10eXhUanJYbjRhS21sLTdzS3hUSVJTSk1YVEtjT1lnaHJBbXhoSjRUZl9jUy1VTHRsNzlEYXZEb09VbnFlU0Q1UmV4eTlxQ1I1MlpKejJsdDRnR3FGV0stdWZFWXo4dV9vdnNaSjM4MWtwUVhMYm5tQ0JmQktQbHhGWnhkNFRuNExyZjJaQmhNM2hiM2hzT2xOYmZoRUU2dVpRVjVCZXpqRzVWa2lsUmJq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Honda shares set for best day in more than 16 years on share buyback plan, Nissan deal - CNBC",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFNzRHMwYklHWHNuLVJYd25UcEtVN1hmdDZCaU9aM3hsZkZ4V1hndVdNcENGanRUV1dFSU1xelpIR1Fnc2hIemhybEYxV3hGQWVlekdMbVZ2enZEc1B5QWdrcElmLXhjbWJqd01ZRUhrRWEwSGktZ2tEMFczR0RYQzZtVUtfUFQ1VElZUmZhS2Zqd1J2RG1oMTMweTV5bHk1cnJpYkZ1djlrRmlkYjU0dHpNTGpUcVpqMURGd2Z6NNIBxAFBVV95cUxNcDVfRUZIcmp3U29lc3A4WXZrNmRuaXF4dmdLWnRPV214V2Vtek9iaXJtSXRiTjc2cDdMMU9kVDZXdEN4NUFMOE81a183SG9HM3dvYUFtS2VBbm4yMlE5b20tS280NUV2RWFsWEp6cl9XMUVFUHBjN1pvTDBJbDlWSVBIRUlQdVFkUHViNmo2VDBSSlg0ZXcySTlSS0NIR010ai1QMVZyQUhnMlJrQUd5NGVNcTl2OEJsYXN1WUlGT0k1TU0t?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan stocks rise amid broader gains in Asia as Nissan, Honda reportedly aim to finalize merger next year - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm5xVXFFSE5vZHYyX2dGWHVHLUtMMmk3Ui1sWjRSTDJEVFAxNU1HM0NhcjZlYXI4alI5SGlSdzdCZzNxdnJyUE9wa055cUVOUG5QajdRTFBXQTRUS1ZZWGRVZjlWcmp2TmJlRXhVaGpfdWRXSUpUSERQVDgxVDJIMEMtV053V3RjT1JkMVpKZldRZmVPT25kcmdyU3lFUdIBowFBVV95cUxQRWw3REhGemdpRzZqc3Q2Rzd5ZEZPLThJdUVoTGMtVlJmaXA1RTlGMUI4Wm1VcTFCYW15RndMYXlmUkE5MHNxTmkzWkNiV01SYUt5dDBqWXl1QzNCZzZsTGZMeHIwbDVYY05GMWhHalhCRUZBb1J3SXI3WVR2RkFGQ3Y4NU9fVl9JWnl2YnpGUnBaRXhtWTFnMF9CTm9CYW1BbTdj?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Here’s what a blockbuster Nissan-Honda merger could mean for the auto industry - CNBC",
@@ -637,13 +642,8 @@
         "title": "Why tariffs could push car prices even higher - CNBC",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHR0cHdJZXFGRFRQOTRGM2wtdVZnMWM4TWNzRHhsZHo1T2pzRkZ0aXZyUGRodkg4UFV4WUtVZXRmRDBTQ3ViR201ek13Rk9tUDFONFdXRGVlVnVPMTM4UTQ2SXFYc1RLeEtyOGsyQXV4b2ZCSFFtOW51bkl5VTdTMVBSOWJfak5BUWfSAY8BQVVfeXFMTmJDek5QTmJzTGlQRnoybzBGZmpReVk5bS1hZlRlT2k1M1dZMDEteFVOMGVLQjBLcVRnaGluQWQ4OVJvUU00YmxERmhZQ3daVDQwX0htNUJrLVdJTGxZUjdXVThGRGdaMUVDcFFFcEwzR1B6enl6dFJ6ZFlXYXN0aTRpVF9OWUk1Yk9sWWE3MjA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Ford CEO calls for 'comprehensive' tariff analysis for all countries - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlhjMC1tZ0pHQU9rMEdHXzRzck1fb2tzQlJzYnpWT0w2YlhFWW4zYjVoRkVEVm9VNi1sbUhsdGl3QVRFajVqdGpRXzY5U3Vic1VHR3NFX2lzekw1QlI5dEZMTmxVaDhrMGM3TUp6dk9vb0NqTElMcVBfRV9YTHRDaG51WXZkdDhmUzdwcWhKSjJCYjJ4eTF0RkI2RTgwcFQ3b2tvNTJB0gGrAUFVX3lxTE5nZExPV0pDSmdMZ3pxQmhEbnZPd1V4YThGTDgzRVJnYm9rLXUxZTd3eFhhcTF3V0RkREFvRnVEYUdEdmUta1RleC1CX1JWNHNORGQtVUZGMTltQ1VTaW5kTm1LeEtPNEFmMWhZYl9zXzM2QW9OUjV1N0tpZGQyR2k5dDZ5WFl2aEFLRTk0eFJzTzZHYWF5dmprZ3NTcUdXZnZjWGtwTjNJYTEwNA?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

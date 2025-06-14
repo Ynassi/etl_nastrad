@@ -3,6 +3,11 @@ import numpy as np
 import yfinance as yf
 from tqdm import tqdm
 from datetime import datetime
+import os
+
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+os.makedirs(DATA_DIR, exist_ok=True)
 
 ### --- 1. Enrichir df_final avec ratios manquants --- ###
 def fetch_missing_ratios(tickers):
@@ -43,11 +48,11 @@ def enrich_company_and_date(df, ticker_col="Ticker"):
     return df
 
 ### --- 3. Merge final des deux jeux --- ###
-def merge_final_and_enriched(
-    path_final="data/df_final.csv",
-    path_enriched="data/df_final_enriched.csv",
-    output_path="data/df_final_merged.csv"
-):
+def merge_final_and_enriched():
+    path_final = os.path.join(DATA_DIR, "df_final.csv")
+    path_enriched = os.path.join(DATA_DIR, "df_final_enriched.csv")
+    output_path = os.path.join(DATA_DIR, "df_final_merged.csv")
+
     df_final = pd.read_csv(path_final)
     df_enriched = pd.read_csv(path_enriched)
 
@@ -82,5 +87,6 @@ def merge_final_and_enriched(
     df_merged.to_csv(output_path, index=False)
     print(f"✅ Fusion réussie : {len(df_merged)} tickers sauvegardés dans {output_path}")
 
+### --- Lancement principal --- ###
 if __name__ == "__main__":
     merge_final_and_enriched()

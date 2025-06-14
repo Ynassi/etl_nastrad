@@ -2,12 +2,12 @@
   "ticker": "TDY",
   "name": "Teledyne Technologies",
   "sector": "Information Technology",
-  "market_cap": 23478851584.0,
+  "market_cap": 22827976704.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.631428,
-    "PB": 2.3652062,
-    "EV_Revenue": 4.496,
+    "PE": 27.885519,
+    "PB": 2.2996385,
+    "EV_Revenue": 4.455,
     "ROE": 0.086210005,
     "ProfitMargin": 0.14373,
     "GrossMargin": 0.42885,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.15187267822809208,
     "ROA": 0.045500003,
     "PEG": null,
-    "EV_EBITDA": 18.618,
+    "EV_EBITDA": 18.447,
     "BuybackYield": null,
-    "PriceToFCF": 26.72655225606982
+    "PriceToFCF": 26.067733256635343
   },
   "technical_indicators": {
-    "RSI_14": 62.032890996491744,
-    "Momentum_10": 2.6657608024464587,
-    "MACD": 5.48819690885,
-    "BB_Percent": 0.8503627916004519,
+    "RSI_14": 45.486699197517225,
+    "Momentum_10": -2.16493367078894,
+    "MACD": 3.466748971314928,
+    "BB_Percent": 0.0810804601922051,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.931131352486074,
+    "ValueScore": 0.882448492349266,
     "QualityScore": 0.3545187623805771,
-    "SignalScore": 0.5016962713247357
+    "SignalScore": 0.6149197395795143
   },
-  "volatility": 0.0167322085020211,
+  "volatility": 0.016799249810945,
   "beta": 1.051,
-  "return_6m": 0.0580720107884844,
+  "return_6m": 0.0254920875283093,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 557.13544
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 470.74
-      },
-      {
-        "date": "2024-12-10",
-        "price": 471.02
-      },
-      {
-        "date": "2024-12-11",
-        "price": 474.82
-      },
-      {
-        "date": "2024-12-12",
-        "price": 478.96
-      },
-      {
-        "date": "2024-12-13",
-        "price": 475.05
-      },
       {
         "date": "2024-12-16",
         "price": 475.96
@@ -537,47 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 500.67
+      },
+      {
+        "date": "2025-06-09",
+        "price": 505.36
+      },
+      {
+        "date": "2025-06-10",
+        "price": 500.56
+      },
+      {
+        "date": "2025-06-11",
+        "price": 498.24
+      },
+      {
+        "date": "2025-06-12",
+        "price": 494.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 487.47
       }
     ],
     "current_price_data": {
-      "price": 500.67,
-      "change": 0.76,
-      "percent_change": 0.15
+      "price": 487.47,
+      "change": -7.48,
+      "percent_change": -1.51
     }
   },
   "news_sentiment": {
-    "summary": "Teledyne Technologies Incorporated (NYSE: TDY) a récemment fait l'objet d'une série d'événements significatifs. George Bobb, un vétéran de 17 ans, a été promu au poste de PDG, tandis que la société a remporté un important contrat de défense pour des drones militaires autonomes alimentés par l'IA. Malgré des mouvements importants d'acquisition et de cession d'actions par divers investisseurs institutionnels, le titre de Teledyne a maintenu une performance solide, surperformant le Nasdaq et affichant une augmentation de 6,3% depuis son dernier rapport de résultats. Ces développements récents indiquent un intérêt et une confiance croissants des investisseurs dans Teledyne Technologies.",
+    "summary": "Teledyne Technologies Incorporated (NYSE: TDY) a récemment annoncé la sécurisation d'un important contrat de défense pour des drones militaires autonomes alimentés par l'IA, ce qui pourrait renforcer sa position dans le secteur. Malgré des signaux positifs tels que la promotion d'un vétéran de 17 ans au poste de PDG, des achats d'actions importants par plusieurs sociétés de gestion d'actifs et des mises à jour financières clés à venir, la société est confrontée à des vents contraires, comme la vente de parts par un important groupe d'investissement et des signaux de baisse dans le marché boursier. Les résultats financiers futurs et les annonces stratégiques du PDG pourraient influencer le sentiment des investisseurs à l'égard de TDY.",
     "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Position Increased by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONGNTZ0UybzNLbHN3M19QOHhPZXhMQldHOTRhejhveS1fdnVaaXRqZ0dZMVFTVktFRU9QSkhUakpBTjBxdTA2OFhtbTAyM3RGV0FrbXp6ak9XMHg3Wld6Ql9MQnF5QW14cGFSa0Qxd1pvVmtIVlpRcTY3VHV1VzJiZDlWWEs0bWc0dUUxT2hwZkRRMmF2di1EVTBIT0psQ2RSblhQNlk5Ym5UNDk3eUlGcVZibUpoaDlvOUV6VDBBXy1iWXU3djNxY3ZwTVdpUWR4b3p4U29GeDJkb1hJNHVUQQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Stock Holdings Decreased by First Citizens Bank & Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVnczcFZ3NGRaZG4tUEE1WjR0b0NMd0NuMm0xR0JNU1ZCdWJ2UndQcXZZOWl3NEpXQ0NXenZ6WEhoTlBkMmhpU1lHaXNlVVA5V2NaNW9mQ0RyazVVVlpQb0R4VXoxTHZ5dFJhUTV0Y0p0Tlc3UjZwRTlaTTZTWFRyVElvNUtrUkUyQURVSmg0RkdRSTFpV0VHUEU5NmdvNURjcWtGX3NrRk9oaGNGWEc0SjVVV2ozTUJCX0tHczhGSkZ5Uy1fQnI2aG1WSVFkU0VjM1dPZDUzSWRXTkZyUmt5R0VLX2pUYzgtbXRFQWlVWE1adw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Teledyne Promotes 17-Year Veteran George Bobb to CEO Role, Former COO Takes Helm - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnNMV1FXYmdsc3ptMEdpMDFfcVZTQW9DUjE4eHBIMkV2T0lHQVdkVEJXNjBuV08wM3hUMEpNS09iSXgtelF5bFBMS0tZaUJvT0xBS0JlY3lyRmNmei1WRl9Jc2oxVTFnbmVTZHYwRDBzQ1hacnl3RzA5aGtWSTBrRDNwTEtKLWNNMjNDSjB5d3VLSlJlZjhTS0hQQ2VjQ1ZGdUhRSA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TELEDYNE TECHNOLOGIES Earnings Results: $TDY Reports Quarterly Earnings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORl9qSUtjQ2ZyYkN0UWI3NER4QWhPcTNrY2FfcjN1V2FBS2Y5VGNwaEh0U25HblU4TnlVYU9fUlNtNEZzczlsNm5OUHVSaGN5VXFidVVxTEVlVVRqdFIyWjMxZ3p5SUFJUTlpc1EteTJqMjBCazFXRnNSV3ZTaFRER0t1eTNNYzg3T3FLc2tQbDU5RTAwWXc4anM0NUJGZXROVHFv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Do Its Financials Have Any Role To Play In Driving Teledyne Technologies Incorporated's (NYSE:TDY) Stock Up Recently? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZU9MUTVNV2E2VFJiZmpycUhVN2ZUZ29EdTFZNGNBeFE1cHB2SGtDNHdiaGFvM2RIb2ptVkI3eG5QblR1SDBkblV6bHFFUVg0TV9IOWpjS0ktQ2ctLVlRMFdsYktORi1sZ25STFB0R2NMNjlESVd3Zm1fdnl2anpOeFBRbndYM20tbWF6U3ZBLUxXbjhIMF96UkItZG1RUkRDUXh3ekdaTVpQTTF3bERwV24walpxcXZBXzNsZEt6a2tDeHJTX0J2Q3lHMDI5NTTSAdQBQVVfeXFMTUROU2FCQi05WVA3dEMtSDB0UVRTVm05ZThiMldzcW16T0VjeUJlbFZQQldlZXpCTTVvc0diZFpVUkdHLXdZMFhtck1oUG52YWV4MjZTNEJseE1UeHZhMHIwbHNlbGYzclF4c1hYb3hBbkhLU0NfZTVVSjA4c2hGOVBGSVJBQ040VXdLa29jbzlIWk5ENFgyanZ2b3Fjc2JPYWZGbVU1MHBOU1Vxdk1lVkdmczJJX2J5T2hBQnA0ck9OTWZxYjE0N2dnbU1IRGdUX3ZtWXI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Shares Acquired by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHMzdnVGRWNVVDJHRjA2TW1sZTR0OVlXcnlidWhFS0l4UVZ6aFRNa2NTYUt6UXBfTVhtbjExUm9Pc0NOZExrLUlkU2p6NUVFWlk1TEhoN0hGWk5YdWotQWdPMlA2eXV3LTJKOFpMbDdpSnNReFd5d2ZWUUdRakxuWGhaTGJyUlFrM1VJZXUtNkJack51SEhuVzhJTDQ5NExMZi1rQkpqWUhXM0o3eUpLdUdTSmdCWjJHUUFpZE4tWFRTbTNCUUdTb09KQ2lkQUNLNEpqaWVKV3ZUZw?oc=5",
+        "title": "Learn to Evaluate (TDY) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ZnclBUUXVMbEhaelRoMzdDQURoTVJkbks0OTRpOVc1MnJzRkU3bUctNWY1a0VURF8ydzFpdlpwWXFpNm1abXNxTDZDejZJbVRoVDFfVmtGSHJPT0RHWHlSMHBuOGFSa0dVQ0Q1cHNwTGZybE1sekRIYjNQTzFZbWpobk43ejk3RjA5a0VYNmZfNzhMaEpRdFIyNzJvXzloMmhJeVhpc0lXUzlNeTlEdW13?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,64 +571,69 @@
         "label": "POSITIVE"
       },
       {
+        "title": "2 Cash-Producing Stocks to Consider Right Now and 1 to Keep Off Your Radar - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUZ5TTBQbFZTSmdmODYtUHEzMmZpN2duOHJpS0RYUnQ3TnBlWWJlbE1uNmhuS1VuNEVrcmd1R1N0LUZNQTFUb2QzMEcxVy1iRDFDRThJdHk4V2pXNjEyeUs2SDlJYnZtQ0tVTzJkRmxORWUyN0FSTFhLTXpWb3NhRU5NUFQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Is Teledyne Technologies Stock Outperforming the Nasdaq? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGR6d1dPSUdrZW93MUE0OV9kQl9LeWhRYlFMMFFXSFVteDNKbXlvWTRoODNjN2lEOXZiWEhqd3NhRWpDOG5TeHB0UVBMMWxKdUNETnBKd2tRWHpTTFVWZnhBdEs0Ni1XRngxRzJrTGdPbVVYd3JyZ0ZxYlp0R1RVblJXa09sZW8?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU1JakJ3M1Z6cHppNU1oeW1iYl9TN1Nvcm04SUF3Rzl1N3VMc0NlOVp4U3RoVF9LdVpkaUhwQTJfSjcxeHpuZ0F2MGFSd1EwakJXSm40RWNxSFNrYWtQRWR4TEVNX0RvQ3lfbWxHX1VRcXl3dVVIZ1F5c0JMRkhtLWcyVDRwcXZpMWVKbTFSUVZzaWtudFFKU2tHUEVHSGV5M2h3MWF0UE5DRktnV0xGR0E5M2hCSkJ5SnRRbE1hSlc0RGc?oc=5",
+        "title": "Do Its Financials Have Any Role To Play In Driving Teledyne Technologies Incorporated's (NYSE:TDY) Stock Up Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZU9MUTVNV2E2VFJiZmpycUhVN2ZUZ29EdTFZNGNBeFE1cHB2SGtDNHdiaGFvM2RIb2ptVkI3eG5QblR1SDBkblV6bHFFUVg0TV9IOWpjS0ktQ2ctLVlRMFdsYktORi1sZ25STFB0R2NMNjlESVd3Zm1fdnl2anpOeFBRbndYM20tbWF6U3ZBLUxXbjhIMF96UkItZG1RUkRDUXh3ekdaTVpQTTF3bERwV24walpxcXZBXzNsZEt6a2tDeHJTX0J2Q3lHMDI5NTTSAdQBQVVfeXFMTUROU2FCQi05WVA3dEMtSDB0UVRTVm05ZThiMldzcW16T0VjeUJlbFZQQldlZXpCTTVvc0diZFpVUkdHLXdZMFhtck1oUG52YWV4MjZTNEJseE1UeHZhMHIwbHNlbGYzclF4c1hYb3hBbkhLU0NfZTVVSjA4c2hGOVBGSVJBQ040VXdLa29jbzlIWk5ENFgyanZ2b3Fjc2JPYWZGbVU1MHBOU1Vxdk1lVkdmczJJX2J5T2hBQnA0ck9OTWZxYjE0N2dnbU1IRGdUX3ZtWXI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Is Teledyne (TDY) Up 6.3% Since Last Earnings Report? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nS0pzc2h0Y3loWlFQdHNyYW1Zby1kaTdJX2ZMTnBac2dwc1FLaHpfZ3pyNkpGM2tqd2J0am1fTklGeEFvZUxVYWJIV0ZjWFpxMWw5V2lQT1g2ZlRYdHVmSWJMdnVhb1hVYTVtSHA5UGF2MGtkMlUxRjQybS0?oc=5",
+        "title": "3 Hyped Up Stocks Facing Headwinds - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdE1WVHctMkZPMjhJNTJ2b0ozVHhfTlczTGNsTlNCZmcwTG1UdHVpTG5lbWIxSjlfemtLeVBCNDg3X19IZHN5ODJPSDB5TWo3OEo5TVhBbmE4QWdlT3dkYzZPYU1NajZJSzNqamtJSGtHMHZ3cWY0OGxwZ2cwbmtzRXctanNDcjFUWmdieDZMTVhUd0l1bEdlQVhIUzdnZnRPMUlQZTEyNVdvM3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Buys New Position in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVnRWWTNlN3NuSVlTcFk2MGVlcGdYSEFwQ3NfMzBJOHZtV1pNYmlYMlNmOFNFZ0hmODNWbFYzRmtNeHZHNnBKOVlxVXBNdXpfUFpIbUlOOHFUOEpXXzZNS016MUQ4Z1BCTkNhMjU1MXItX3k0QW5YUlNCenYwRmdtdVpBcDZ0SGFUbjFNcDAwSkFwNGtnOFVBV1NyYm0zYVkzSGtzSzN6M1hfNnkwMWQxZHVZU0k4SjVUWUhqZEtLMmhReGtSM0RtbmlNYnNVRlBHWDNBZXlFTVEzVHd1aEo2azRySzE5dw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Teledyne Technologies (NYSE:TDY) Shares Acquired Rep. Robert Bresnahan, Jr. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnVJdDZkbExqTUtpbDRSWU9na2pQX2JuMnpYclhTdkl5S0tRMVNnNlJlOEMzMmZFaXFyVGZRZVBFTTVNZUVZVV82S2d5U2dOZ2FhY05BRjFad0d2NlJUVDBaZWlkM2c1ZFJDSk1DeHZoQ2dWRjBDZTRlSTRGNHhFdXJvaEUzRHplbzVqeWRqX18xQmRMMlhLQm5DcFU1RDItaTMxRmlVVGdmLTBvZWh5OWJkRWNaa1FWZmtKUDItZkstT3c3NUZWNFpQY3Q?oc=5",
+        "title": "Teledyne Promotes 17-Year Veteran George Bobb to CEO Role, Former COO Takes Helm - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnNMV1FXYmdsc3ptMEdpMDFfcVZTQW9DUjE4eHBIMkV2T0lHQVdkVEJXNjBuV08wM3hUMEpNS09iSXgtelF5bFBMS0tZaUJvT0xBS0JlY3lyRmNmei1WRl9Jc2oxVTFnbmVTZHYwRDBzQ1hacnl3RzA5aGtWSTBrRDNwTEtKLWNNMjNDSjB5d3VLSlJlZjhTS0hQQ2VjQ1ZGdUhRSA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Squarepoint Ops LLC Trims Stock Holdings in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM2xyWXVLZWEtcHpZbXVuMFBQYkF4am1zVmY0eWN0YjRkTzg4aTNoaG5nZzJEaGlPYVVDd2FaUzkwMThEWHIzVzdXYWVlbTd5U2lMUXhTVGdBTEFaMUltcC1uSEE5b1hGeXZrN0txRE5pTzdJRFpYVGxWLUpNNEZJaGROWUxCcnIyQkZJc2NQMzkxSE9NbXk1a1FsRENSSFdCXzFVNUJ6UFhkam42WFdiNzNZN0FwcXlBMjVVNTdhWE03NkhacUNDbHg0T1pJTWhFeTk5RmE0ZWRkMlVE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Czech National Bank Buys 598 Shares of Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUU1GTWdDcUR5aWpmSjdtLUFFd0ZSZnF1QWJmLXBUZmFqYmlzR1NOOTA0aEZWeno1NGRxWFM3RHFJcEV4QTZ3aWg3THhrV1haTVJQaHRYVmJ3Z1N2THZDNWQxZlJyMzVUNVpWb281NVVOMVZ1M1otdmUyZWotclhvRnQ4dmxLN1RlUmZPQzVMSW1ydDlGMWFOZkRvV0ZQbzFJcFREdmU4Slo0WlUtR1pMRjB5YjJ5VlhkN0dBR01hRFRFRU5jeU5JR1RoWWo0RUQ1ajQwMmlOU0lOUDI0czZHVkNSbG5SQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $12.61 Million Investment in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSW0yS2pZWFMxa1RydUp5NktsVzI2WDBXZi1nLXl5dUtJYUVfSFBXTXd1X1J2QlZZbkFlZ1had0F6WWNzWWxDbjRqQVBScjhIanVuWnFPQWJib0pwMDZxTVlQU2M5Ym00YmlZODVGeWpPZFNrWnhoVTBNRlNFWmRVRll0dzJ4LTcyWEU1dzBkWHJxM3pqWnhNb0llUVBmY1p1M3k1OUJTUktHVVpLaThNR3VqTnEzS3pIN0JlQm5nSDl0c3p2SG85MDYwd01SZU9MRERvZmZRaFpWSHNfNGNrNlhWVFZBTUxQVkUwUFhZS0xQc3RYRHEtNTV5d0dOVC1wTmMyVm0xWGdTQQ?oc=5",
+        "title": "Teledyne Technologies (TDY) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObU1GX0M4enRqcUpicXV5amgzZEZlczd0SjhDVlhkMEdvSVE2bXdzX1pzWnFucDQ2YVptYUVGclF3T2R3T1FmWnhrNXpKcDhlWU5xanFfOVNnenpJZzdJVVFOZFduQ19wdlBZOF9kTHdRSzNSUm83X1VZOURKRVQ3Y3pXeVRKOTMyNDMyeQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Summit Global Investments Invests $728,000 in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZFBiU1F1R29JcE8wR1dFTUtldkZFMnA5MGZaeVM1ZmJNX2JPTV9RbTdfY0Y4SUtiRzFWSE0wdUNVbFg4eUtWcVdldFpLQnpkMThPa3BUY1BLeWdWcUV0RTFBX2JlUXZDU0t1Mi1JVHZ5UWNwT3h4UHZ1MXV1aUppWWJTcG1KV2FOa3RIOVF5dVU3NEtRRmRDcTd0Q2trZVVpMmdXZkVyemlMcFcwcEZEVkp1TV9MQ2JjaGJRbm1UX3l2QmdSSTdPNkxhWm8yOUpoSzl1SzFmUDhReXMyTUUwQw?oc=5",
+        "title": "USA Financial Formulas Buys New Holdings in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODV1QnVwZkpWekJrTl90Z0xyVWpHaE4yMzVqRHhYVWc5eDU5MFNZZGticnptVlFmS1Y5ZzVsMWpTRG9CSUswTnhDcXJIVklUNjB6Qi1BRHZpY1g5MjlaOXU5a2RHSGttTmdwQVh1aGhNLW1PZDAyWEpINm53TG00VUU1Q2tleFZGMHc2aGtiZ1gyZFhiMkgtWDFVQk1IWWI2bFJreGJNN0VMemROSU5aXzZZN0J0Q3NraGFnNklSSnk5d2xuRHNSQ3RzcEZaMVhLdUhPbTUxLTRaUXFk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "D. E. Shaw & Co. Inc. Sells 9,637 Shares of Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FKREloX2M2SGdXdGZCdjRTS2xuUkVZMzFvVV9rVTVzVWRLTlZNdmJRd3g3cTVMQTkyWUVXSHB4VVNFZExHZXRDZlFqU2h3MldVOF9wMWpEUGt2bmhJT042emhlYVBjVGVMMUFELXIyQUdTbGxORERiUFpiTEVOSGdVRG1zYl9zUlp6OUQ2TjRtb2lWNVY1RWVHeXQyLWl1V1JZaTRfWkgxYmRVNjh5dDc4NEtXNDZkM1VFWkZsMEY1YXdSTkE?oc=5",
+        "title": "Teledyne CEO and Vice Chairman Set to Reveal Strategic Updates at Major Industrial Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakVseHBEZzVlQXFVNnE3VXRYZm9nRkNWRk4zOHR2R2dVVm9aUGh3UnhGS3ViSmkwUGZFTlhlREd2X3J0U2JzY21la3loaHdLM3FLM3JQNGx2MXU2YkY3Mk8zSmwxWUpfd0hxa0pzX2c1cXBrLUhVOHhMUlY2X1ZnUFF6eUJWdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Woodline Partners LP Decreases Stake in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzhrdHlXeHNEa0ZaUWJZUHZ1a1ItbnhDNnhCNnpiZXRaYkg3dWh2VV90VzF0TzFiUFdGMklQYkFzZkVhQnpudy1scm15dlBqNFdGSzVLcnJ3VTZsRU9HWjBrVnZ2R0JLZVl4dFpmNmt5dDZNV1B0TjV0c190Vm1ESkE1U3pId2hhVG5VYjQxTXJPaGFKU3NoSVhaNmdFU2dXSzRXRnctQk9KcnBEa1JWNExrb1JZcGJUbVQydnRXM3BTMTFQOERsZ1I0T0lsdWJQNDFVcUlwc0lfWThWeDNj?oc=5",
+        "title": "Assenagon Asset Management S.A. Purchases 19,597 Shares of Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPamhiODhDSEJqbEdpWERKZUxDNWxmcHp5Rm1aRl9hOFJ4Wm1tbWVEZVZ6b2lnN0FtUlpXdkp2SHlHR2FweUpqUXROWDhzM2RCN0Y1ZUo3RGhPdm9xcW52LWllVmlrWTFOb1dMWWJJR1BONS1WRXhMM2tzMTc4bjN5Z0huMVJmZDZ4aTAzYlZMMGxkTGo0ak5TLThuU2psVVBDOHAxTHROYkxXTC1WRjhuZ3FRMFhjcWMtTV9yeEl6dW91cTQwLWd1X3J5RmdiVUtZRWhLOHU3OUF2ZTA3dUh3bVdCNEpLcF83NndMamcwZ2E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Stock Position Decreased by Worldquant Millennium Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjU2OGxiajY3aHBJd0RZVGhHUFJtaW9yQWI3Z1JFM01ZOGtiUnE4WHo3VVdWYVN3U1duWXFuRUNCMnVjNUNDNzZ5Q2Q5WnRQZG1FeWJEM0Jra1hIZWcwc3k1eFlobUtVYzFubHhDa1dPTWVCTWJPTzZwLTFfSm1oNFZLOGFhckVuXzR5T3ZRVXFpZWhMZDM2d2MzdmZIUTRIQzhBLTRnVG4xdDNwbjdYWHJfRDh0ZUI5djFMUFBLTFJEaDlRLVJxZGFobTdJSkJLRU5US1JuNHg0OV9SMmdoV2VlWVJjNjNB?oc=5",
+        "title": "Teledyne Sets Q1 2025 Earnings Release: Key Financial Updates Coming April 23 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMW01QjlvMjROeW95WXNCQmplcmRSRW5TYkY2UU91alpfc1pLSlVFX2pqNDA5ZkxKSDhESlBtVkJLZ1c4TTIwdmczZ0JwUnY3dE9NQ3o0aVdLQWJIQVRINFFRX25mMFIyazFhOE5adGplSlp6eXpBQ0ZrZ2phQmRZYjZTcU5TR1g2VlMzc0tEQjNUVWxiZkdNM2V4WWphTmZ3SkY1QW53ZXRyYldK?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "California State Teachers Retirement System Cuts Stock Position in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbWM3Vi0xZ2NhSmJZZTMwWmV4bEgyOXFhT3ZCeUgzTkpLdUlfajROOXlYRjFmY3Via2c3alRSV0NrcXQybTllMmc4dGt4eGd1QWMyVVQwTFFPbTJnV2pXTFBzUUMxcjVKOGtWNWxidFZBUWZpdWlrR1VzZkptWTVvTUhFVzBjU2k5VTZQYlhHb01FTHNoWnZLVGduc1FBalNuVnRxQ1N4V1NybUdnNVBSRm9PazBkcEZmZmk3SVdTbVNlWDVmVXZrSWpDVjEtcGxqRFkxNTNDRVpWcU5uNWVOclA4ZEFjeGs3TFlHaDhaTjZWbWJN?oc=5",
-        "label": "NEGATIVE"
+        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONGNTZ0UybzNLbHN3M19QOHhPZXhMQldHOTRhejhveS1fdnVaaXRqZ0dZMVFTVktFRU9QSkhUakpBTjBxdTA2OFhtbTAyM3RGV0FrbXp6ak9XMHg3Wld6Ql9MQnF5QW14cGFSa0Qxd1pvVmtIVlpRcTY3VHV1VzJiZDlWWEs0bWc0dUUxT2hwZkRRMmF2di1EVTBIT0psQ2RSblhQNlk5Ym5UNDk3eUlGcVZibUpoaDlvOUV6VDBBXy1iWXU3djNxY3ZwTVdpUWR4b3p4U29GeDJkb1hJNHVUQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Game-Changing FLIR MIX Combines Thermal and Visible Imaging at Lightning-Fast 1004 FPS - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjhUS09yMUJyazdSYnQ3bk5Za1lSUHpyc2R0WXBXWEI2UUZESENLQ25YbnVMWmNldEpZUnk1Y1Y5Y3M4VE4tR1UtaHpqMVJyQ0NhR1VMeHNEMHBtVlFrMHRod1ppbkFCcWxsN2x6Smo2YUNGa2twam1OXzk5enkyRUIyaEZIeWwxalNXclBKN0RiNFNSd2lsMkE2TmpMVTRYNEQ5Zm5Rb0tpdC11Wlk1MHNKeGJVMThxVkZnRXN3?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Teledyne Technologies Incorporated (NYSE:TDY) Stock Holdings Increased by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
@@ -651,11 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "J. Goldman & Co LP Invests $17.01 Million in Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYWhIZWNCUllsNGRWZi1GTTdkc0haWHR1T1RIcE5BVGdMTzRUWXg2b3JJb29DRUdULWl6VlRfYTBESVRRTldPZU00QU13MnFabUNydmU0aGFsOUFtNmNnQlNodGZkNnJJa05BWUJRN0pLSDlPaXM2VVJiYl9kSjNqcGplSTg1cEtJT3FhU3ZfUklqeU1NVV9wXzRsc1RRTWJiSGh3S1d2czhTeUlfcVd1T0REdzUzeEdkQTdHVHZkclprbUJVYjg4Y2xsQmxRMXNESVBrRA?oc=5",
+        "title": "Select Equity Group L.P. Sells 51,339 Shares of Teledyne Technologies Incorporated (NYSE:TDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYVY5Y24wZ1V2TzB1ZDczZk01V3pybEh5WFRfc2cyNjhIVmJxNllWMl9OWUxvVFR2aXRpYVFaNFF4X0dlY0lfbVhGWUdsR1JNSmRKc3ZiTmhtY2Jwc19mYUJfZjB6Zk5QTkhFcjRFWFEwSTg5WFlWZms5Z3pIdDFuRG9rTlhZTlFNemRFTGU0VEZOUzFZbVR3d2g3ckJCQnFDcExXTUpCaDdHU2lBaHFRZFlDblY2azFSRkszWHpuYUk5bmtYUnhRVW54TVA4aDEySFRSUEZFWVpnV3AxRGtmbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU1JakJ3M1Z6cHppNU1oeW1iYl9TN1Nvcm04SUF3Rzl1N3VMc0NlOVp4U3RoVF9LdVpkaUhwQTJfSjcxeHpuZ0F2MGFSd1EwakJXSm40RWNxSFNrYWtQRWR4TEVNX0RvQ3lfbWxHX1VRcXl3dVVIZ1F5c0JMRkhtLWcyVDRwcXZpMWVKbTFSUVZzaWtudFFKU2tHUEVHSGV5M2h3MWF0UE5DRktnV0xGR0E5M2hCSkJ5SnRRbE1hSlc0RGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Teledyne Technologies Incorporated (NYSE:TDY) Shares Acquired by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHMzdnVGRWNVVDJHRjA2TW1sZTR0OVlXcnlidWhFS0l4UVZ6aFRNa2NTYUt6UXBfTVhtbjExUm9Pc0NOZExrLUlkU2p6NUVFWlk1TEhoN0hGWk5YdWotQWdPMlA2eXV3LTJKOFpMbDdpSnNReFd5d2ZWUUdRakxuWGhaTGJyUlFrM1VJZXUtNkJack51SEhuVzhJTDQ5NExMZi1rQkpqWUhXM0o3eUpLdUdTSmdCWjJHUUFpZE4tWFRTbTNCUUdTb09KQ2lkQUNLNEpqaWVKV3ZUZw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

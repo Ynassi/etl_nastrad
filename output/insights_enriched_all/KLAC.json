@@ -2,16 +2,16 @@
   "ticker": "KLAC",
   "name": "KLA Corporation",
   "sector": "Information Technology",
-  "market_cap": 107203805184.0,
+  "market_cap": 114445328384.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.500364,
-    "PB": 26.76892,
-    "EV_Revenue": 9.245,
+    "PE": 31.50455,
+    "PB": 28.577135,
+    "EV_Revenue": 10.197,
     "ROE": 1.04097,
     "ProfitMargin": 0.31993,
     "GrossMargin": 0.60562,
-    "DividendYield": 0.96,
+    "DividendYield": 0.87,
     "DebtEquity": 152.049,
     "CurrentRatio": 2.544,
     "QuickRatio": 1.608,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.22231859464057155,
     "ROA": 0.19229001,
     "PEG": null,
-    "EV_EBITDA": 21.202,
+    "EV_EBITDA": 23.385,
     "BuybackYield": null,
-    "PriceToFCF": 41.52786020671899
+    "PriceToFCF": 44.684515715777586
   },
   "technical_indicators": {
-    "RSI_14": 65.1763330432099,
-    "Momentum_10": 5.635105659821594,
-    "MACD": 20.95413159611792,
-    "BB_Percent": 0.8528513445772073,
+    "RSI_14": 72.49337825543897,
+    "Momentum_10": 14.771825382425313,
+    "MACD": 35.51562413859597,
+    "BB_Percent": 0.9551868232685184,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9192204458894644,
+    "ValueScore": 0.8523932270127765,
     "QualityScore": 0.3681771227212052,
-    "SignalScore": 0.4559052218064493
+    "SignalScore": 0.3896726343097138
   },
-  "volatility": 0.0303275397741031,
+  "volatility": 0.0304947813397667,
   "beta": 1.386,
-  "return_6m": 0.2562190899280336,
+  "return_6m": 0.3299573845756438,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
-    "target_mean_price": 789.77386
+    "target_mean_price": 792.65845
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 652.37
-      },
-      {
-        "date": "2024-12-10",
-        "price": 641.87
-      },
-      {
-        "date": "2024-12-11",
-        "price": 648.84
-      },
-      {
-        "date": "2024-12-12",
-        "price": 646.6
-      },
-      {
-        "date": "2024-12-13",
-        "price": 653.76
-      },
       {
         "date": "2024-12-16",
         "price": 656.13
@@ -537,42 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 808.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 829.29
+      },
+      {
+        "date": "2025-06-10",
+        "price": 856.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 872.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 875.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 867.67
       }
     ],
     "current_price_data": {
-      "price": 808.0,
-      "change": 16.11,
-      "percent_change": 2.03
+      "price": 867.67,
+      "change": -7.33,
+      "percent_change": -0.84
     }
   },
   "news_sentiment": {
-    "summary": "La société KLA Corporation (KLAC) a récemment affiché une croissance à long terme solide, avec des hausses significatives de ses actions malgré quelques baisses ponctuelles. Les analystes recommandent l'achat de cette entreprise dans le secteur des équipements semiconducteurs. KLA a récemment récompensé ses actionnaires avec un important programme de rachat d'actions et une augmentation de dividende de 12% après des résultats solides au troisième trimestre. Malgré ces positifs, des incertitudes persistent, notamment une éventuelle scission et des fluctuations sur le marché, ce qui pourrait influencer le sentiment des investisseurs.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.4,
+    "summary": "La société KLA Corporation (KLAC) a connu une forte performance boursière cette année, avec une augmentation de près de 40% depuis le début de l'année. Malgré cette tendance positive, des incertitudes persistent quant à la capacité de l'entreprise à suivre le rythme de sa valorisation boursière. Des signaux mitigés émergent, avec des hausses significatives du cours de l'action mais des avis divergents quant à sa performance future, notamment en raison de l'instabilité du marché. Les investisseurs doivent donc rester vigilants et analyser de près les tendances internationales des revenus de KLA pour évaluer pleinement le potentiel de l'entreprise.",
+    "sentiment_score": 0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.3,
     "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "KLA Corporation (KLAC) Stock Jumps Over 2%, Demonstrates Strong Long-Term Growth - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUtmdDRkNlFYU1V6NE5KNDBYaGVlY3AzaEJ5YUVsQllQdjlybE5jUEtOaktCVEE2WWRkRHo2YS1IWUdZT09KLUZkUzRhRmg4VmN5WEktTnVCa041SmpWZjMyQ3FIMGtoWVVZNzJWVmxrUlh3U0g1ZUl1YzE4RUVtWGUtdDhHSTdYTGU1WFNaOTdFV19BT3FkeWw0TlRsR19wZWNjYjhaM1UzZzFXV2xaZ3RGMWZkVmtiR3pGc0x3?oc=5",
+        "title": "KLA Stock Eyes Buy Point After Surge Of Nearly 40% This Year - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYk04OFZtWk9kNXN2UW42N3lGQ01VWGFNempEeDhCckVUNEhQQ2xzYnYzXzZHdGpUMlZOa3ZhYTNwTHVtYXhGWEROeXU2am9Kc1FHUjN1ZXMwSjFFVko2Z2tsWGE0MTlBUjNYUWZTenBzNVNoMzY3XzJITTFHTWpZYU5fVlBPVXBhRTROSlhuMlE3dHFzeVcxZ0xLZnllNGllc05rRFN3ODJxWFBQV2dRQVFpYUdfM0x2bG9xWEJ3NFhQazlq?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is KLA Corporation Stock Underperforming the Dow? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlFNTUVhdkltZTZlajRTa1pBeVpkb0tVSURyNVkxNldVd1hkdUM3ZXF1SGdrMkFycm53RVhfM0VuMFU0bzNSWGtjQmVXYVNhN1lpYi1wemRmSkp2dkFYT0xJQlpYWU1EbHczMHdJd3ZXeE1xMC1Rakt2U0pQNllEa044X2pLQnZlMmtiQWhIeFF0b2FEdjVvWXU4SExza2l2QlBSY1dOWGZRMnpXaldVT0JFUFZLbEpiR1g1UERpN2FfS1NoVlBr?oc=5",
+        "title": "Day 9 of Gains Streak for KLA Stock with 16% Return (vs. 40% YTD) [6/12/2025] - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTB0Q0htZmJGYVR0OVIwNi1MMjZrMFZyWmVVQjVqbk16VnNYcWFQbEhiQmt4V3B4UEE2ci1jSy1hVWJhMW5Ka2p1Qm41VmxIRHNFLVI4ZERWVmEzb05qUlpnUUNzd0tEem1kd2lxaTh2bzNyVTJDck91ZTl2WlFhUXJpUDlLZ0ROenJxb3plZUJrTVZUWmx0c2ctRjNJMG00d3JpOXBob01FMDgtTW15TmlxdmRLUFZrb3p5Sjl4R1dES3dmRURxb2UzX3N6djIyWVZ2ZDNudjE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is KLA (KLAC) Outperforming Other Computer and Technology Stocks This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWZYTHJ4cVBlWEVLWGQwaHRrNjBud1YxSkVXcUd1bW9WSWlaekY1MTBRbXI3Z2htdnlVdmJCY01sdFh3T3ltZ04xWHg2NGd3clJ5eFN2SURUUXUtc2IwbDE5RHhYTlhucnQ3a1hvQW1QSWxGWTZGV3V1OUh2ZllHRVFfTXg2MTc3UFNuTzdvMk1URm9sTzBIUFB2V3k?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "KLA (KLAC) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnI5YjlzeUdyQktYZXg4cW83S1FGM1d4c1BVN0FsOHlMR3JNaG94aUNGZHY2WEFPTWFFblUxT0xlVG9YNjJMcFA0aGtWc0F1ZVRCdE1ycWNxUm9VQXFoVEFnQW5iRlBPekFDOUdOQWFSeENZXzFCS1h0a3hTY281cHo5LTVaSDhGRUZSaklRMU9jNkM3bnkwMTFRSnA2cXliTDlVNGpLcw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is KLA Corporation (KLAC) the Best Semiconductor Equipment Stock to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVpPZzFLd2FQZVl3aFVEcS1LeTY4dUNpVHVwYlhYWGFjcHZrRkp0MU5QOFZ2NWZ0ZEVpbHdmQkJicV9vT1l2cHJVQl9jRVZSdWhmRENpcVIxLTNKQ2dKTVBBNGZPck1obzB4SjZPRVQxZHV2UTQ0cEJnb3dzbUV4OGpTX0pkb3N1WVctSUVn?oc=5",
+        "title": "Don't Overlook KLA (KLAC) International Revenue Trends While Assessing the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0pGZ1J5Y1VkY2tsRVVDYnhIS0JYcHJkWThHZ0I3d3Y0V3dJY3k1ckVyLU04NWRISEltSVJyN3FZaUduV241dXluQkVEbjVSNWdLLUFVc0VyN1gxaXRwVnJscE5xRHM5QlV1ajZDQjZUZzNvMFZZcDN5eFNOT3hycXVlenEzTmhWUnc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,14 +581,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "KLA gets downgraded to Hold at Deutsche Bank (KLAC:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0liWnRuS2MxbFJCWXJEVjA0dENSaGZyRkpoTzlralF0ZGxhUHN2NFhrM25OZkVxeUJ6VTNlUXh0OW84V1RQZmN0RFJiRlp5VFltV01BNWZfQVZFaWo4cGtDRmprLVEyS2EyUWhjUy1CRmQ5VUp5cDRLOFhNWDVCS2c1d0JQVU15OVE?oc=5",
-        "label": "NEGATIVE"
+        "title": "Why the Market Dipped But KLA (KLAC) Gained Today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHI2cjRHT0JQUGxoc3VNSnhVTThhYzRDMk9hVU1YMnZmbFNlbXhwaFBaUlZCM201emMxRE5BN2JZQ1RIVEoyODJ1ZUF2Tzg5cmRqYXR5OF9mYXZtbDllUkR5dWNzZGlrQ21rajFwZG9rcTN0eE5CQUlkTHRva1BmTHl1RWQ0ajZIdHVDY2NfQm5QQ3kySDZmZzctSENYZENYNmlB?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "KLA Shares Rise 2.1% After Key Trading Signal - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlU3OWVOVUgtZzN6VGxvbHo4MnpyUTdvM19Gdm03ZVdkVTlEN2JILVNra3hBdWduYUlQZHdMcW1pVGpuNzM2TXpkakR4RDJvV0pJOTMxVjVWQVpLcU5xTlRBdzFSb05FSUxKdzBOVmFBTWl4Ynh3M29zN0ZUaGJDWG9VRjU3YTRzbEszTFphZ05aVEhQWXdqR1NNTHdfZUloR2RB?oc=5",
-        "label": "POSITIVE"
+        "title": "Was Jim Cramer Right Telling Investors to Trim KLA Corporation (KLAC) Last Year? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkcwMS16MmhSYmlhVDlOYzVoTDBTTWpiQnlMdFdta1lLcVhBQTJrOWN5OHBSa1NSMzh4Qm1iTmVWSHBoOU81RGlOcE11bEtSYjBIVDhZbXR1VDlUV2w4dUkwTDRyaEtKVlI1NDZoNnJMaTc0VTBSd251eTFCN2hEUmdzbzgzekgxQ1Q4cE5SQVZJdkUtc01XdGdvS091YnNrSEsySEVYc21BNzVWQ3ptdFV5OFJ1aEZrOHNYczlB0gHGAUFVX3lxTE1Vbk51SzVsdkVMM0ZleDlnOXNYM0ZKUDRLUWE0WWdzTGtvdmhrbjF5VTVycEtaX2lRTWpZTmJtX1AzMGFQcHhoVF8zU3ZEZ2Z5eGxmamZ6cmlMXzRsMmZTUVZLSklOTDdGMHV0ZWg1N1FscU5fNzRMMmh3OXNZZXFZT1ZOdkFYRWdoUXhGT0J2cTh6c0RUTTJIMEo0OUhnalZZU3Nua1lXOGlQcXhlTm51ZUI4SmE3RklZMHlOaERlV3ZoRm13QQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "KLA Corporation's (NASDAQ:KLAC) Shares Climb 25% But Its Business Is Yet to Catch Up - simplywall.st",
@@ -596,29 +596,24 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Don't Overlook KLA (KLAC) International Revenue Trends While Assessing the Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0pGZ1J5Y1VkY2tsRVVDYnhIS0JYcHJkWThHZ0I3d3Y0V3dJY3k1ckVyLU04NWRISEltSVJyN3FZaUduV241dXluQkVEbjVSNWdLLUFVc0VyN1gxaXRwVnJscE5xRHM5QlV1ajZDQjZUZzNvMFZZcDN5eFNOT3hycXVlenEzTmhWUnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "KLA Rewards Shareholders with Massive $5B Stock Buyback and 12% Dividend Boost After Strong Q3 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOV9jdTBLOGJxWjJFVEhNQW0wZWRLVURQVVRhQjVrZTJYN2tqMW44R2l5dTl6XzZyTTFKWkJFV0tFRW9MRkdGVnFrTDJTanRab21lMEI1UmlpYjdSLVFweVprZlFKRkoxN3NHaG5PTzl1YWprZXVVcFhGMzZ6M0FsQ0hHTnA2VGtQaEFFbHNlN21uWmNCR1I5eW15MDJIaWF3c3BmalNMRGtZbnFzVVFNRGdOSXhtaDgwTHJUR3A2WQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "KLA Corporation (KLAC) Stock Rises Over 1.6%, Continues Impressive Long-Term Growth - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWJmR1ZfcHFvT0lieDZkajVjekloV1pfRHc4UlhJQS1LN0E2bTE3amVlQWFlUG1DMm1GNzNJYjVyY0xRd0xBb3IzWlBjak51Q1BuNWRkOEtjOUJ4UEVBZFE3NXZJRE9DN2FqOG02a2sxMnd4YmlLc0l5eW5HZmMzTDJZdmw3U3FkUVY4eUgwNHlMbGg4NzdldzdYYnRpc3pNYWZYTXRGdUd2bmM4NUJmU29QcVRJNEpzLWJpVTdDQmRidw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "KLA (KLAC) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3prRTVqcjg4c0w0N3oxTEZHOUktVXIyUjBxNWk2UXY5RXhfZS1qcnNTUnVPVGppOHFoelExRmpyQ0oxLWtIWk84QnRvSHlkcUE5c3J6eTZWWWhlb2hHZHBVLUUxb1JHVUpZTXAtSUdHbTdPRjVWTDlmRFU1bnlVRA?oc=5",
+        "title": "KLA Corp. (KLAC) Downgraded to Hold Amid Market Uncertainty | KLAC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWNmYXlsdlZOdWZNcVROdkl4QWlVdEhDQktqRDJ0aVZHX3N2SEtfZy1wYVpkOEpvMXJ4cDUxSF9oSmxpVWlCcnhQd2FwMlFRV0JyeHBmOUFNOEMwWDhKOE9abHJpd0U1UlhRVVhrQm1SUWg3UEtpTkhtVTNsbHoweWd1VmlpTFFQcHZZYUxkNWctQnBEMVQyNm5pbHZRZDUwWFhFS09KV19tUS14TUpOSFJB?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "KLA (KLAC) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnhveHZmdUtFLWM2UlREa3RFemZXbDdXVzhDRV90LUFtb3VBTHFMWXFJTFBJUkZZWHB5ZWRrZzdPZlJkSVM5bmN4ajJsemI4Tm9jbmJOM0lmRm1jOURjcW81QXBNakxndW1sZV9ueS1LNzdVR1djRk1kaW96VzQzc0ZqQXRYWFBra2c?oc=5",
-        "label": "NEUTRAL"
+        "title": "KLA Corporation (KLAC) Stock Surges Over 3% as Powerful Rally Continues - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPck5aRUlsZFkyQjdKN3JFVG41OE5aYzNRcUhxX2Ftd0piQUFGQmdNYTJoUUxSR092dXhVR1JLNko3TGVTSXZVR1BpeXpkUDZLTzdBVGJ0dHN0eExkV0Y4d29vbmhHVElJazlOdWdndXpKOU51QUczN0o4RnNoTVdnZ1A0aTdOcUlvMEJrNE83NkJtSk1tSEVTaFh5VzJuRWk1eTA4TFlRclJLdjBGMVVwdC1VSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KLA (KLAC) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnI5YjlzeUdyQktYZXg4cW83S1FGM1d4c1BVN0FsOHlMR3JNaG94aUNGZHY2WEFPTWFFblUxT0xlVG9YNjJMcFA0aGtWc0F1ZVRCdE1ycWNxUm9VQXFoVEFnQW5iRlBPekFDOUdOQWFSeENZXzFCS1h0a3hTY281cHo5LTVaSDhGRUZSaklRMU9jNkM3bnkwMTFRSnA2cXliTDlVNGpLcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is KLA Corporation Stock Underperforming the Dow? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlFNTUVhdkltZTZlajRTa1pBeVpkb0tVSURyNVkxNldVd1hkdUM3ZXF1SGdrMkFycm53RVhfM0VuMFU0bzNSWGtjQmVXYVNhN1lpYi1wemRmSkp2dkFYT0xJQlpYWU1EbHczMHdJd3ZXeE1xMC1Rakt2U0pQNllEa044X2pLQnZlMmtiQWhIeFF0b2FEdjVvWXU4SExza2l2QlBSY1dOWGZRMnpXaldVT0JFUFZLbEpiR1g1UERpN2FfS1NoVlBr?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Has KLA (KLAC) Outpaced Other Computer and Technology Stocks This Year? - Yahoo Finance",
@@ -626,8 +621,13 @@
         "label": "POSITIVE"
       },
       {
-        "title": "KLA Corporation (KLAC): Among Stocks to Buy That May Be Splitting Soon - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnVWX3BFenZpN3ZLRTduMlNOTjRGX0xEaEVHU1JtV1RRdXprbjY0a3poeE12cjNWcDJQYVFRY0g3S3pFdmQ3MTBhNWhPdnpkclh3QXMwLUlKZE5rcFVsZFIwWS0yVUxfQm5od1VwMXAxUFA1dnBKbExaX0k1OU9GbGJjdmpjQQ?oc=5",
+        "title": "Is KLA Corporation (KLAC) the Best Semiconductor Equipment Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVpPZzFLd2FQZVl3aFVEcS1LeTY4dUNpVHVwYlhYWGFjcHZrRkp0MU5QOFZ2NWZ0ZEVpbHdmQkJicV9vT1l2cHJVQl9jRVZSdWhmRENpcVIxLTNKQ2dKTVBBNGZPck1obzB4SjZPRVQxZHV2UTQ0cEJnb3dzbUV4OGpTX0pkb3N1WVctSUVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is KLA Corporation (KLAC) One of the Most Promising Technology Stocks to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSm5RdHVIc1lZSXEtRWQwcDltNzNRX0NtUDJhc1M1MzZ5V1E4Z25hbVQ3ZldGSXVOcE1LQkNLUVV0bnNRYjdCdDBYMmNMSzR2RlRIRnBXMS1rcjRZWmRHZ2FzcmpjemMwRjRQQ2lHRlMxdGtMX0g4cXhkdU52eEw5ZA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,9 +636,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "KLA Corporation (KLAC): Among the 10 Goldman Sachs Tech Stocks to Buy - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzQxWmN2amY5OEswbzBLemlYTVF6MGs5X01YQ0xFQkh4R2oxcmFoSUJqWnplSThqYlpqcEdhekQ0V3NtTFpLRGdOV3Jla0FoblhUbVp5SE5yVFFXck1MQjBIaTB1ZU1FQzN5RDR6cEFuanZXVUF1SnBtUUdseVFtMA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Is KLA Corp. (KLAC) the Best Performing Semiconductor Stock So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUt4eXVMZGlwV2VSOGRTdjBNSDFia0otR1VDZlV5enN6TVN2em5yei1sN1lna3lscndCb2NZZHJYNGktcVRqY0VVSUplb2xjTWtGT29uRkE0MXNXU19xSFNIZVRjMEpCS3RzeFJtZU5BZnc0NlJQQ01aM1Atb2dEMA?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "KLA (KLAC) Crossed Above the 200-Day Moving Average: What That Means for Investors - Yahoo Finance",
@@ -646,16 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is KLA Corp. (KLAC) Splitting in the Near Future? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUlUzSTk4ZW9OWTBPUmtmeGZlV09UZmpZZGswTHRNazRpaUFjLW1Fc3FnSnRQN0JzUTFER291eUtJUlR4MC1JMlJwVHF1WENhdjhKbjJyZmdKbTdSbGJaYUdlUnBfdlpaOS05OW56eDhVcnhhUzItNzhnT25vU1k?oc=5",
-        "label": "NEUTRAL"
+        "title": "KLA Corporation (KLAC): Among The Chip Stocks In Focus Amid Tech Selloff - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUlneHFsRkNoaE1maWFfYUZEUjFpZ3ZhQnZadk0xSHJTMUU0UU1WSm13ak1PV1BqcGpiSERiYTNGNkVkWWo5Y3BralkxYk9jNEpkbkdTQzlXWmNBXzNWd3BGQXBlcE5FUmgyYlhTQk5oMjkxcnlPOFZxd0hiS2hBclJUVQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "KLA Corp. (KLAC) Downgraded to Hold Amid Market Uncertainty | KL - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQW9ENHN2U1Q3bm9MR3o2NS1VdHhid0NIOEtrb250bkt5WFRremtzYjQxVFZWSDZHZFh1NlkxT1h3U1JWU2dLR2NGQVQ3NlJHVGtCV0t5UWtxMzJIc0J2WUliMFNVWUZHdS1FU2RPWHF0ckVpLUtnNG01NmRJR2FUSmhLNHlnMkZ0UnVqdnYwaUVuLXhqOWtCRUluQnRRbVBrYzRpaS1qZHZYYlVOLW0teg?oc=5",
-        "label": "NEGATIVE"
+        "title": "KLA Corporation Stock Up 21% Year to Date: Is It Still a Good Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnJwd3BpcXMzXzJ5dnFVMFVLNmhTQy0zSkIyN2ZNUFlvM3Yta3VvNlA3NzRkcHhQc3NDRzNyOXhIZHN6YU5maU1uMVg5NzF5XzF0ZGtXZG5zanFvZE94cy1SenB0NmQzQTVpLVI1R0dabEpQM0h4U0ZudVE5RnVCQURWZTdfei1jVHN5Tg?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "LPG",
   "name": "Dorian LPG Ltd.",
   "sector": "Energy",
-  "market_cap": 957440896.0,
+  "market_cap": 1068512512.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.490654,
-    "PB": 0.91737497,
-    "EV_Revenue": 3.851,
+    "PE": 11.707663,
+    "PB": 1.0237986,
+    "EV_Revenue": 4.022,
     "ROE": 0.087139994,
     "ProfitMargin": 0.25787002,
     "GrossMargin": 0.62521,
-    "DividendYield": 14.35,
+    "DividendYield": 13.5,
     "DebtEquity": 68.11,
     "CurrentRatio": 3.544,
     "QuickRatio": 3.396,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.33809306549303353,
     "ROA": 0.03894,
     "PEG": null,
-    "EV_EBITDA": 7.612,
+    "EV_EBITDA": 7.95,
     "BuybackYield": null,
-    "PriceToFCF": 8.11315193285429
+    "PriceToFCF": 9.036658798254365
   },
   "technical_indicators": {
-    "RSI_14": 55.25350161460234,
-    "Momentum_10": 11.13861344068873,
-    "MACD": 0.1565671419362786,
-    "BB_Percent": 0.5555402282844704,
+    "RSI_14": 70.1707581714302,
+    "Momentum_10": 17.021950812320277,
+    "MACD": 0.5404993335087802,
+    "BB_Percent": 1.1243325550417442,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351079336934056,
-    "QualityScore": 0.4162690032062097,
-    "SignalScore": 0.4741446963836231
+    "ValueScore": 0.8965246849608068,
+    "QualityScore": 0.4253413446991382,
+    "SignalScore": 0.4193176008824243
   },
-  "volatility": 0.0340663586925903,
+  "volatility": 0.0343418788446365,
   "beta": 0.887,
-  "return_6m": 0.0398650697338782,
+  "return_6m": 0.1035923551082096,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 4,
-    "target_mean_price": 31.0
+    "target_mean_price": 31.25
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 23.15
-      },
-      {
-        "date": "2024-12-10",
-        "price": 24.05
-      },
-      {
-        "date": "2024-12-11",
-        "price": 24.32
-      },
-      {
-        "date": "2024-12-12",
-        "price": 23.95
-      },
-      {
-        "date": "2024-12-13",
-        "price": 23.86
-      },
       {
         "date": "2024-12-16",
         "price": 23.39
@@ -537,37 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 22.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 22.31
+      },
+      {
+        "date": "2025-06-10",
+        "price": 22.57
+      },
+      {
+        "date": "2025-06-11",
+        "price": 23.11
+      },
+      {
+        "date": "2025-06-12",
+        "price": 23.7
+      },
+      {
+        "date": "2025-06-13",
+        "price": 25.05
       }
     ],
     "current_price_data": {
-      "price": 22.5,
-      "change": 0.2,
-      "percent_change": 0.9
+      "price": 25.05,
+      "change": 1.35,
+      "percent_change": 5.7
     }
   },
   "news_sentiment": {
-    "summary": "Dans le secteur du transport de gaz liquéfié (LPG), les entreprises BW LPG Limited (BWLP) et Dorian LPG (LPG) sont au cœur de l'actualité récente. Dorian LPG a annoncé des résultats financiers solides avec un chiffre d'affaires de 353 millions de dollars et une stratégie de dividende robuste. Cependant, malgré une performance boursière positive, des inquiétudes persistent quant à son potentiel de croissance réel par rapport à son cours. De son côté, BW LPG a lancé un programme de rachat d'actions et a récemment versé un dividende de 0,28 $ sur la Bourse d'Oslo. Les investisseurs devraient surveiller de près l'évolution de ces deux sociétés et évaluer soigneusement les perspectives de croissance à long terme dans un contexte de marché volatil.",
-    "sentiment_score": 0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
+    "summary": "Dorian LPG et BW LPG ont été au cœur de l'actualité récente. Malgré des résultats trimestriels inférieurs aux attentes pour Dorian LPG, ses actions ont grimpé de façon spectaculaire, soutenues par des rumeurs de hausse de dividendes. BW LPG a lancé un programme de rachat d'actions et a déclaré un dividende en espèces. Les investisseurs devraient surveiller attentivement ces deux sociétés, car elles semblent afficher des signaux mixtes avec des perspectives de dividendes influençant potentiellement le sentiment du marché.",
+    "sentiment_score": 0.3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Two Sigma Advisers LP Sells 125,700 Shares of BW LPG Limited (NYSE:BWLP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ01BVWpZOWRlX1R2X2lfNVJFakotbnEwQldXOURKMU5rUkZUOWdZNk9oQzZtbWlHRC12LUFUOGpVOXNHUEJ2czFxemM1YmZDb0V1WVJFTUU4OS1YeE5rWnV4UFFwVFVZLXNoZDhUV2NQaUl0TGRHcHk0NkJJaVVhZFRuRHVZNGhMR21IelFIV1loSkxSbEJaQWFST2FkdkRrZXYzSVpVanBhRE5BbUhvR2dtNEdPTEhCSFFxYkZtUGxORU5hMnVNRXB1cw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Dorian LPG Ltd: Shares of 14%-Yielder Up 36% Since April - Income Investors",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJmU0xJdGJKZ2FucFdoMUl2RV8yLUNXbzdMdVJsTk9EX0g0ZGNkZ3Y2S1dGU0VkMVNOdEZRb3YzUkd0VmJYYlhpNHpJeko4OVktYlg0X051LWRvSzFZTkhLbXBMaUx6MW9tU0dUSmRMTWNqSGVueTk3XzJYN1ZKeUpGU3BaaVRVRmdVSnV3aEJINTJhTnFNZFZ2TDRLUQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Dorian LPG (LPG) Submits Automatic Mixed Securities Shelf Filing | LPG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSVRWNW1MWkVodVUtT2RUT3ZGdXBJb3p6Q21DNVQwVXdoN0FyXzd3X2dsdXlVZnJJeURZLWlJcXQtZ1ZWV0RWMm5MZ0ZsakZrRUQzQ1FLeUEtd1lHampSVDJfZzJIU29ra1Y5RGlUSDZWVE9ic3RxdXlic0UyTWpjaFpoVUY0SXl1TFg1aGw3UFMtdlpkTUs3MXBMdVZQZ0lnd1NieWtRQ2FIZm9JekNpRnphbEx1TlR1cm44MWdjVXhUX0p1blVTb2pZZFJsN2lJUlhUbVphZnBraV9Lc1h6TGZJbnBLa3ZydEl5b3I3QnpidGs2Y1E2WlE0Qm9HeUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dorian LPG (LPG) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HNGlTUTROZHh4SzNxRldlcWYzQXB4UVpXcHAwOXU1UllGdTJwamJBWU9KVEg0TDNMeXRCcDg1cjBPOExFTUdBWUswZ1lHOGhiWUE1X2NIbktLWGRuczdfSDF0Nl85Rk9kVV8yZGdvZjBpZGVscU5CdVpla0FLdw?oc=5",
+        "title": "Dorian LPG (LPG) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVYxYlI0MmxjMjRSaFdyTmNfb0s0NzYzU051UVdONXdLbHh0OGhnR3NmUzFKRWd6enh6eFA3LWNCQlFwd0FXcnA3WG8tN3JDcVFGLW43OTA2X0h1bHROeUg1d0lrN2NJT0lxcjgtUEdaN0V3SjVkR1FTaHBvamJEYg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,73 +571,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "StealthGas: A Deep‐Value, Almost Debt‐Free LPG Carrier Primed For Re‐Rating - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2E5ME5FeUR0cVZid2wwWk93Q0Jfel9reFAyT0FUdG5IeFFWMEdwUWdOcW05MEpNSDBkbDZ6NmlKdVR0Qk5SaHVPalZlQU1NMUt4NWlBSk41azJ0d2lZTVNzRTdpd24zSmRQdXA4dF9wWHdhYXprNnNXS2UtUzN1N003VUhLUm1yTUNaekluQjhnR2o5LUZMNmd5bW9kWlNiN3RKWklpSC1uU1pNMC0yOA?oc=5",
+        "title": "Millennium Management LLC Purchases 48,188 Shares of BW LPG Limited (NYSE:BWLP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnMtRmZtOWhaS3VSb1lCb2RzYW95R052aVNhaXR5LWxpSnZqRHdDUnctMDNKNmx1R25rU3RfOXl3TURTWS16R2FWRV9DdWg1M3VsZ3FDc3ZMWjRqWDhkcEkyTlB2eGdpU3JyWW5neXJLUk5CYzJVYlJrSXZ3djhQS1dkaGJLS3JtcldGZWFXa1VfU2JFWE9qSFhDNTJFdE50RzBCVHVraXU3bFhoQnZ5cFp0VmJEbE1ORkN3RENSMk92VnVoRnFZaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Where are the Opportunities in (LPG) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTd1R2E3WVVBLVFqRV91Z1FHWlgteGhxYWlneHZNM2hrcXp1UjdnSW9tV2doSTF2bmVwRlltMnRwaldENW42REZKVkE2c0NmTndLYWQ2SW5oV2tuRkFPTngyZGFHbXNuQUxSZWRWVUVSM29qZEhIdEkyYlBCN2ZmQWtyYWJZTGtPN1QtdDIxTUk3c2hRYmFHNmh6M2p0MG1naVhpa2xFVnN3cTRGLXc?oc=5",
+        "title": "Earnings call transcript: Dorian LPG Q1 2025 misses EPS forecast, stock dips - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3NVOUk5endrTGFab2xiSnFsTFVvVktFMFRLQ002MXF0b0Y0akpwU3dPb18tdlh5bUEtRlM4Q0tLOVprUXVUaS00Nk1IS0Izb3FpNERNRWFyRlFsVnhSM3AyOXMyNXdBMDZCcVh2RHZiN2xRcVA2eG90VjltRVBJbkgxMkk0dlVIeTZ2aHY2Q2hQYk55alBOSk1NUE5LYng4T0Z5RXlTXzNwSVZRQW53anA3VHNGZE94VHBULTdvVGdEdWVpeUNsc1ZR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BW LPG Limited: Launch of Share Buy-back Program - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXl5dUxJVDYwSDFWdkhodjNqd2dLdnpoRE96Y215ZlNpQlVYd2ZkQnBWMlBsWXdBTDNsV0JmYWIyMDgwSGtVZ2oybEowZU9USVFPZU52S0loTU5VcDBFT0N6UXNlelVKd2NBcmhra0pLU1dKbTZubkx1bHdNS0ZxWFo3RXlnbXRBVXYwb1dlb215VXFPWGhpbFFueXVDS1ZmTUgyMXBxbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dorian LPG Financial Results: Revenue Hits $353M as Company Maintains Strong Dividend Strategy - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjhYRFlyNVMxUlZlalUtdmxvY1VsczJhbDV5bHZTNy0zc0txNnFKZ1E3aHhIQU9waVMweVBONU1DLTJiOEx2UUU4akV5M0RwX3luTUpiODF6TnJfUGdkN2wydzFsTEJpNHdiZXVZWU1rLUJLS3F5a1FTWHFSYlhJdjl1V3lrRmkzU2ZELXdRNmtnUnBkVjM5NlJWVkNWVlVmRVhoeE5MSDFHTXoySlhwUG5OQ2U?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Dorian LPG Files For Potential Mixed Shelf Size Not Disclosed - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTR5bnpneFI0dEQ0TTgxYVc1YjhRNHpPN1JKa1RZLTdxTnV4Y0ozZ0pSUUhWVjFnX1pTOU5xejJ2dVFzeEJ0S0NCX2h6TzVISWE2TUJBeTM1Y2FpQlVoQlVYZVlSckZlazdLMl9Vam9tYmd5cU0wZFFfYW15WTBjZDhsVFVOSU5waER3TEU4UC1VVGZkc2k0by1iMmtKQ1JPRk1XU3NuYXYyWmk0bzMwWXN5TXRvRVo1SkxnRGl6aHgyQmhvQTZweW1CUDl1LTB3TmttT19KbTZtenc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DorianG (NYSE:LPG) stock performs better than its underlying earnings growth over last five years - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWVydFJKazhpVnRsUWRfRXBDWjlBdE5YWlRoQVdOVm1COFE0dmFNemdnLUNjMVZmZVEtbEVkS3o5amtVQ2lTdjFVelpwcEh6MjRpRS1ET0F6YkptTjk4N3lOMU5ZeF9BOEx0SHZMQWdzdTVDS3RiUl9yQWVmVi1IZmxZbTJMSkhVY1VLMVF2eWE0RFUwYURMMGpyeTFQbmppMmV1WGhOQXZNdGRhTkhMMTM5TFlIMHpQRmlMVzV30gHDAUFVX3lxTE9Zek8yaUpwR1RMcDFJSEJUWVBsd1RobGtLM09keVRENUlLRmJUTksyZEVqekxVLTJsN3B2VUhyLXRRcXM5ZVhNMWJjbHAzQjRVaW9NQTRPaGVXeUNXNExJN3UxWHI3Q2l4SVF1WEZHZEhJd3ZGUmUzTnIxOXNRMzJQOE9FUUY1Z1JvRkpGUnBLOVFraEIxR1ZSWXhwWnp0SW4zd0pLOExubkY0MXV6eDdERGtvV0R4N0VNN2lzMEZoTk5Jbw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BW LPG (NYSE:BWLP) Shares Gap Up - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR183a21DZ3pGOWlKVVFFSkluM3h1amNfNHd2VjlTNWN3SmYwd2U4VWQ4TkhrZDZwN0tBc1Byb1V3SXZaX295MDg3b0JDMnFLdXcwd1k2SWRvLWN1b0c1MENFXzlBbGdrVXNwVklEVEJUWUdvVkJGSXRoWGFWWVBHOThhUEZ4dFMtcUZ1YkM5UmpSOFo0ZllWLTJPNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dorian LPG Ltd. (LPG) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xcm9rTlZBN25uZFE4TF82QjBpSU5ySERUTUwxUzlyVjNlTTZoUk4tZGRKbFhLdHFTNGZmYmVBWDV0WWNFUEt2MnpjWEl1OGJPcFd3SEJ6MDJ3OTFEa1pXNVRaTXFsMGVZSk9fbHR5M2NFZld5aTZBNDlFZHNBZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "$LPG stock is up 2% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1NCSzgyYzNrNmxRMk1fdDZDemZkaEF5UlRvWkhVcDlPUlktcFVjZHk3QmV0Z0x6VlhoMUdVQ1EyUUhVQmRoMTRneEdvVjhlNDdWUEktOHBwTW4wS2dLMGVzUmxXR3JsUlB4V3hiaXhjazdzNllDQ1JDa3hLYlFpcUdR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Dorian LPG: Dividend Increase On The Horizon – Rating Upgrade (NYSE:LPG) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW1MbGs1QzZtMnZqQVV5OTVvSXJyX2I2YlBraGtUcno5OWF0a1paRVljTEd5eF95T0c1N0lVY24wbUFtOWhLRmNSZ3FBcmp0eW5LVXFMWlNINU5lUnluZW9mcFV5V0xjem40Z2VNLWprNUVVd1ZUdDVOZzNrOHVqU0QyVk51MG83WkpUbVV2MDR1WGNYOUNvTzNOWGdFMy10?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BW LPG Limited – Ex Dividend US$ 0.28 on the Oslo Stock Exchange Today - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW5XdnRMQ2llOUhNUDNDWWFSZEJOUDBNUHR1SVgwZ2FvR3NFUXAxYTMzY1VId1JfQWI4ZWoyazVlWjJ4TmM4VGJQbldCM1dIYmhUaF9rRklUMW45Q2NkY3lka0J2SU5VMUVvbDNKTzQ3LXVHTTNSdjVVYUpJalAwVkR1R1NuNDQzRTVWTHJENVJSTFhYdXRsVnJpLVR3blVWaFZYbmFLVmZacWtPVjdrV2ZQVnhnMFdsMmhnbVdoT1F6T1lUTWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Has $999,000 Holdings in BW LPG Limited (NYSE:BWLP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3RmYWgyOTRpaWNmLVJlekhINlhaUTE2LWNDM3pQZVlUSUFFLXpxSHJPcllTb0JGaS1xQjdzUkI2Y0dlNlVHUDVsc200RFhXeWhTT2NWOG5vV1VvNFBZYjZ2dkhLYlVUSUlkaWQ5aUFvV2Q3N2t5S0tmcTYzQ3BEQUtLVV9TdGl5XzBMcF85MlcwRGNDZ2cxdkxBYzlrSGNBS1lGenZuZDBJY3VienBDMzJUdmFEOUowYlJ2cy1TSzJXcmZENEE1LUJBOE4tS0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dorian LPG (LPG) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVYxYlI0MmxjMjRSaFdyTmNfb0s0NzYzU051UVdONXdLbHh0OGhnR3NmUzFKRWd6enh6eFA3LWNCQlFwd0FXcnA3WG8tN3JDcVFGLW43OTA2X0h1bHROeUg1d0lrN2NJT0lxcjgtUEdaN0V3SjVkR1FTaHBvamJEYg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dorian LPG (LPG) Laps the Stock Market: Here's Why - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFB0MnBPQXZyVkp5OEJzRWN4UExLYWFWV19ybDlXYVZUdkw0MFhIdm84SzE5eERaSEVRV1hUWWR1WWhxb1pPOWdlMmhid2pZVTA1aXBsdDgxa1lNTUVyenRHVTZ6eGhab0ozT0lBUkp1NWdIU0h5ZWNVSmZhbDRWVDJ3?oc=5",
+        "title": "Dorian LPG Ltd. Provides Update for Fourth Quarter 2025 and Announces Fourth Quarter 2025 Earnings Conference Call Date - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM3JGaE9saWlobWFoTkNpemhrWjNoYnMyUFA5cXh5Z2J1bGdxNFlnQkI4d3F4U1hfT3p5cjZMVUlMYXh5djFiLWpzQzcwbzd3QzB5RGQ1VkE3b2NPcHJIZ2s2VWxsWHhJZWNCTVJGcUtFVmtmeDRFSm9hZHNaR2xLQnNtU0s4R1lRWDVUQ3FHTURmRTR1TDlidGlZaUgzSnozdTVqd0lLZVNKUmNxMVVEX3M5X0R6aGtHaU5FRVRySnpPNjk2RDBNN25veS1vU1Y2TjBCaFBaSlZKdWUzYUNHS2N4U3lhempiY1JYM2cyZjR3Vkp3OFpyZGxwZEwwZXhpRTJMT0hacw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +591,71 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "BW LPG (NYSE:BWLP) Shares Gap Down - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjRVZS1GTVd3NGhfVFB6MFEtT3ZkNkxTMWNGQVhMNk8zYUF4dW1Jc0tyVWhQcURlRFBSVW8ydHBUaFo3dHhydzhmTjlFaURlc2VpUWs0TFJnWk1DWkNyeVB6dGFHQXVrRzdpQVA3X24zaGpvWnFLcnZQbHZYcy1KTUNhYmxMdWYwVFduY2xoTTRoem1jOGxkanFTY3Y2Uk0?oc=5",
-        "label": "NEGATIVE"
+        "title": "Do Its Financials Have Any Role To Play In Driving Dorian LPG Ltd.'s (NYSE:LPG) Stock Up Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWFQOWRubFJ5aGxTQTFmV3MtcUZPemR0cEYxNFZjcHNmd2c5RFFoai1JUEJEajVQanNoR19BYWFQRWNOLTNlTU1PSC03MjdDUkRqNzRYZy13Mm5sbnZlNTgzN3NkcFczWU53OWd4Z2djMGkyemNCZTNYRmdkMmJrdTA0aWktWnFGTUlDbVBKSkwxLUZmTjRqOFNTb3hfYmZiVldTVDZJb2JSdjNHNVp3bFF2LXVGOFY0dnI4QlhMdlfSAcYBQVVfeXFMTUF2aU9hVVNzYnJ3azlNQmR3SnZMNUFqQzhFcndrUmtBMmdrWmQxMTlIOWV5V3JYank3MWlOb2xNckthMTNIak5rZTdEWHFzQXZHVHpnVUVTT1Bnbk4tOGZ0Rk4zUUM3MUtvWk1idG42a3U5MnlOTzY5R0c1Y3lHOVpJWG84LVFNUlhoLXIzT2g1RDRvaC1QVUw0TnN2NHVZSlNDQXk2cXBsVzhCblNMZzlETHNYcThnLW1KSlpPQ2NxVVlhYTRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dorian LPG (LPG) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HNGlTUTROZHh4SzNxRldlcWYzQXB4UVpXcHAwOXU1UllGdTJwamJBWU9KVEg0TDNMeXRCcDg1cjBPOExFTUdBWUswZ1lHOGhiWUE1X2NIbktLWGRuczdfSDF0Nl85Rk9kVV8yZGdvZjBpZGVscU5CdVpla0FLdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BW LPG (NYSE:BWLP) Shares Gap Up - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR183a21DZ3pGOWlKVVFFSkluM3h1amNfNHd2VjlTNWN3SmYwd2U4VWQ4TkhrZDZwN0tBc1Byb1V3SXZaX295MDg3b0JDMnFLdXcwd1k2SWRvLWN1b0c1MENFXzlBbGdrVXNwVklEVEJUWUdvVkJGSXRoWGFWWVBHOThhUEZ4dFMtcUZ1YkM5UmpSOFo0ZllWLTJPNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dorian LPG: Dividend Increase On The Horizon – Rating Upgrade (NYSE:LPG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW1MbGs1QzZtMnZqQVV5OTVvSXJyX2I2YlBraGtUcno5OWF0a1paRVljTEd5eF95T0c1N0lVY24wbUFtOWhLRmNSZ3FBcmp0eW5LVXFMWlNINU5lUnluZW9mcFV5V0xjem40Z2VNLWprNUVVd1ZUdDVOZzNrOHVqU0QyVk51MG83WkpUbVV2MDR1WGNYOUNvTzNOWGdFMy10?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BW LPG Limited: Launch of Share Buy-back Program - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXl5dUxJVDYwSDFWdkhodjNqd2dLdnpoRE96Y215ZlNpQlVYd2ZkQnBWMlBsWXdBTDNsV0JmYWIyMDgwSGtVZ2oybEowZU9USVFPZU52S0loTU5VcDBFT0N6UXNlelVKd2NBcmhra0pLU1dKbTZubkx1bHdNS0ZxWFo3RXlnbXRBVXYwb1dlb215VXFPWGhpbFFueXVDS1ZmTUgyMXBxbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$LPG stock is up 8% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRkl6Vy1ZZmc5U29PczA5ZzJOSlZ4RjVtUVZLblNSTlJLY1NfZFJrMUFqaGVYejlNM2JBVzc4cVdNN0FXNjVhNnRHbkpBZFNWTWViNlhLQ3dzaWZmYXVMSEZqVmNpMU9rekhEanFuaU81WlNCckRqQm1FN0pLaVVRemJ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dorian LPG Ltd. (LPG) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xcm9rTlZBN25uZFE4TF82QjBpSU5ySERUTUwxUzlyVjNlTTZoUk4tZGRKbFhLdHFTNGZmYmVBWDV0WWNFUEt2MnpjWEl1OGJPcFd3SEJ6MDJ3OTFEa1pXNVRaTXFsMGVZSk9fbHR5M2NFZld5aTZBNDlFZHNBZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BW LPG Limited – Ex Dividend US$ 0.42 on the Oslo Stock Exchange Today - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlNlX2ZQM192aEN3d2tSdlI5ejN0YWlRc3d5eUxvYUNLRTZMT0lTdk40ZFJ3aVowQzZQM2JOTFRmUnQwWURGdXl6WnltaWRBMk1QSXFrMy1tVFFHUXBpWkQ0WWtlaXhwUWV3R2o3dXBHaEcxejlzYXgwa2RWU0pZZXhzUkJDNGVFazh6ckVwTkFEa1ZSMTM4S0xENG03SExvQnlHdG1NRVZLcDRIbS0ycTdJN0ZmdlFCV1lSRnA3VTJNWURxNkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BW LPG: The Case For A Weak Hold Rating - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3k4VWZjQ21KN2J0b1VfQzNpLVh3a2VNS3hVVUFBaENLOS1aUEdwWVJrbENONG9iQUV6ZHRDZjFxMmx6MldwQUlRX1hSY0lmRU5QTUJ2STluT0lPSk5SamE2VEZlekh6cHdCMjhjejJSdEVXc0ZDNGdCNkRiTWNtX0puZ0RDZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dorian LPG Ltd (LPG) Q4 2025 Earnings Call Highlights: Strong Cash Flow and Strategic ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16TDZqSmZFSlhSSHRxUTV1ZWY2eVZVSXI1UElqRHNpV3RaaGtBa1JfY3JkV19taFhXRHhVa0xFajFmdk5TWTAxUkhLckE4R05lRUhIT0kyX2dFdTF2Nzl6V2JXTmJUR3Bramp2T20xaDAzSk0waXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dorian LPG Q3 Earnings, New Capacity In 2026, And Undervalued - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVk1ZbU0yaV85U2tCTkJTV0V2WDAxWUtkNlZJZk1HeExLMUtEQUFhV09FZHZMQVctb2lrOWVVcHVaZGY3RjR1S280V05LU1NiY2M4SUZiSjA3cHNxcnAwalFaWWlERG55TVJQaVA3N1N4aHEyYS1UMUF4WVhwMThuejJ2dTNFWlhrb2FNeDhVNkVsdE1ORFZGZFdPMTBNZmxmTHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BW LPG Limited – Key Information Relating to the Cash Dividend for Q1 2025 - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUhXYUZORFQ4aTVXU1EzeUN1ZU1DMGxGS2NpWlVJX0JXbzNhS2lzS05iX01EV3ByaFFXQ04wbnB4a0dpamYxNGJUT2oyU0JIZWtYQ1pvT0F3MmNha213VGYwcTVBc2dtb01IRUlaX0RBaDlXWXN1Xy1HRGh2OUZIdFNSa3N4Tm9FU3dSTk1nYzNoR3p0VGhWeEdNWXp3OW9peG0tZ0UxVHk5MFNycHRubVpBVndjUERBUHRhdGxlOVctRS1uZ3Zsag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dorian LPG Financial Results: Revenue Hits $353M as Company Maintains Strong Dividend Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjhYRFlyNVMxUlZlalUtdmxvY1VsczJhbDV5bHZTNy0zc0txNnFKZ1E3aHhIQU9waVMweVBONU1DLTJiOEx2UUU4akV5M0RwX3luTUpiODF6TnJfUGdkN2wydzFsTEJpNHdiZXVZWU1rLUJLS3F5a1FTWHFSYlhJdjl1V3lrRmkzU2ZELXdRNmtnUnBkVjM5NlJWVkNWVlVmRVhoeE5MSDFHTXoySlhwUG5OQ2U?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

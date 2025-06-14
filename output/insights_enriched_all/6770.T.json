@@ -2,16 +2,16 @@
   "ticker": "6770.T",
   "name": "Alps Electric",
   "sector": "Information Technology",
-  "market_cap": 293055528960.0,
+  "market_cap": 281402048512.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.7466702,
-    "PB": 0.70786244,
-    "EV_Revenue": 0.25,
+    "PE": 7.4422398,
+    "PB": 0.68004465,
+    "EV_Revenue": 0.248,
     "ROE": 0.09423,
     "ProfitMargin": 0.0382,
     "GrossMargin": 0.17687,
-    "DividendYield": 4.19,
+    "DividendYield": 4.24,
     "DebtEquity": 24.256,
     "CurrentRatio": 2.182,
     "QuickRatio": 1.379,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.011631329871851686,
     "ROA": 0.027479999,
     "PEG": null,
-    "EV_EBITDA": 3.639,
+    "EV_EBITDA": 3.469,
     "BuybackYield": null,
-    "PriceToFCF": 25.43939975231463
+    "PriceToFCF": 25.24861588109111
   },
   "technical_indicators": {
-    "RSI_14": 56.23732224765159,
-    "Momentum_10": 4.70242468772961,
-    "MACD": 5.292163914949242,
-    "BB_Percent": 0.8763496449872847,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 44.15331781458247,
+    "Momentum_10": -1.2621709340064913,
+    "MACD": 6.703452530519144,
+    "BB_Percent": 0.3406692950357684,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935377725326075,
+    "ValueScore": 0.8986941868217122,
     "QualityScore": 0.3911367492710454,
-    "SignalScore": 0.513608560184172
+    "SignalScore": 0.6156322972736363
   },
-  "volatility": 0.0223470662030243,
+  "volatility": 0.0224948445461693,
   "beta": 0.236,
-  "return_6m": -0.0636498485497585,
+  "return_6m": -0.1304505459239597,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 12,
-    "target_mean_price": 1476.6666
+    "target_mean_price": 1426.6666
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1550.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1561.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1603.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1619.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1633.5
-      },
       {
         "date": "2024-12-13",
         "price": 1604.0
@@ -525,27 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 1425.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1425.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1432.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1456.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1415.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1369.0
       }
     ],
     "current_price_data": {
-      "price": 1425.0,
-      "change": -6.5,
-      "percent_change": -0.45
+      "price": 1369.0,
+      "change": -46.0,
+      "percent_change": -3.25
     }
   },
   "news_sentiment": {
-    "summary": "Alps Alpine Co., Ltd. est confronté à une menace de surévaluation qui pourrait dissuader les investisseurs. D'autre part, un analyste crypto prévoit une hausse spectaculaire de 6 770 % pour Dogecoin, suscitant l'intérêt des investisseurs dans le secteur des cryptomonnaies. Par ailleurs, Sony et Suntory ont pris des mesures pour constituer des stocks aux États-Unis face à la menace de tarifs de Trump, soulignant les préoccupations liées aux tensions commerciales internationales qui pourraient impacter les marchés.",
+    "summary": "Powerchip Semiconductor Manufacturing Corp. (TWSE:6770) peine à atteindre une croissance suffisante malgré une hausse de 25% de ses actions. Dogecoin pourrait connaître un rallye de 6 770% selon un analyste crypto. Sony et Suntory renforcent leurs stocks aux États-Unis face à la menace de tarifs de Trump sur le Japon. Ces actualités soulignent des perspectives contrastées pour les investisseurs, avec un mélange de défis et d'opportunités dans les secteurs des semi-conducteurs et des crypto-monnaies, ainsi qu'une incertitude liée aux tensions commerciales internationales.",
     "sentiment_score": -0.333,
-    "label": "POSITIVE",
+    "label": "NEUTRAL",
     "positive_ratio": 0.0,
     "neutral_ratio": 0.67,
     "negative_ratio": 0.33,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Alps Alpine Co., Ltd.'s (TSE:6770) Popularity With Investors Is Under Threat From Overpricing - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2lXbFdvT3BqUkppaldvZ2RDOWZZQ1owRVFWUmVaczBHVDBNN25PQUZ0eFZrUWdVWGZ1RkNCNEltMlJQZTQ1QXZLcjBYZFpFME55alpSeHVhLWx6WFpud25mQWVkZ2o5WEVQYXRwX0JIVG9CNzNlU096RUVFdzJidm92WFdZNkcwVnVtOEhpcE5vS3ZldEpiUHpfMW1mX2tmSU1FbmVYaG10OTdkT0Q1M2ItRFZRTEQtaExSSFJYVG4ySjFDT1JWUFp30gHPAUFVX3lxTE51YlV6VHhKaU1oNTRLOHRfQTUxT0xRdkpVTjVyWjEtODBZeXoxY05MNllPVU1iTjJ6aUtqTDVOc2hiaHZTSmtiYy13dzVKd0Z6M0FnSF8tTFVHblo5eTc2R3VocVI0QVBmNjFBZnRNRjFmdUVaYkJsWGlJdkEwYW1fWEc4dWRfbFhGMXZrTHl2VE1RVFRsTGlNLWpZVnVVcUNZZ3lRRDFiTms5eEJpR1BxYjhBU1htSUJnRGVTcXI2Sld6WTE1NldfR2RMY2I5NA?oc=5",
+        "title": "Powerchip Semiconductor Manufacturing Corp. (TWSE:6770) Held Back By Insufficient Growth Even After Shares Climb 25% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSzNpcGVyN2ktU1FRWW85TDl5WW95ZjJnTHRfWjVyWUdsMHo3d25Ea25VVjhqS1lVZHUwVzRrWi1QUlIwR3R2VjhkMnV5eVQ5eDlRcDZ1SHJNUHl3c1R2bkdSZmY4US10MjlYNXQydi15UHNMdWw5TzFVV09TYXc3SmxaNmZvbEk4V3R2TjRpbXA4RmFwWFlOcFZKTlJtMkNWVzdxQk1MSzFTTXdVRmtvbzlvZF9wMnZIbTF6bnpFVkotYnRVRV8tT01uc0thN05uS3lZM2VjR3pPQWNnVjVhVjUxc2dEZ1ZJMVVnQy14MU82QmVoS0trSGt1TdIBgAJBVV95cUxPLXRtRF9MQmU4c2toc1Bfa1F3T3RjaVIwbXVkMWFLbWJpa216bV9mUWFmczVwUzM2RFNNMDFsN1FjWGtCWjYyYUVuY3RSZkNjZm1MazVmc3VkSnE3RTZXdWNxclZLYkxGM0I3RGc5Z0RyRlRHMzUxUkhwbDlQbnBwR3pxY0FYYXZkekc1Qmd5MGxBdW1VWUZaZ21ULVlxX054OXItRFRqNHp1Q1NwNFZ1NWV1NW5RWndUdUZJRXp5MVUwdE9uTDRmLU1WV0RxNWV4aWIwb1VwYzZ3ZnNoNUNxOWJmNzlBck1Ga2xyRVRUUmphTkJ2X2oyUjhLejk3c2hO?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -560,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

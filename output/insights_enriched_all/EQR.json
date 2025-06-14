@@ -2,16 +2,16 @@
   "ticker": "EQR",
   "name": "Equity Residential",
   "sector": "Real Estate",
-  "market_cap": 26796169216.0,
+  "market_cap": 26821230592.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.116796,
-    "PB": 2.3563485,
-    "EV_Revenue": 11.522,
+    "PE": 26.141222,
+    "PB": 2.3585522,
+    "EV_Revenue": 11.737,
     "ROE": 0.08901,
     "ProfitMargin": 0.33110002,
     "GrossMargin": 0.63221,
-    "DividendYield": 4.05,
+    "DividendYield": 3.95,
     "DebtEquity": 70.333,
     "CurrentRatio": 0.204,
     "QuickRatio": 0.073,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.4809389240855937,
     "ROA": 0.02643,
     "PEG": null,
-    "EV_EBITDA": 18.841,
+    "EV_EBITDA": 19.194,
     "BuybackYield": null,
-    "PriceToFCF": 18.521709060734548
+    "PriceToFCF": 18.632615956473742
   },
   "technical_indicators": {
-    "RSI_14": 44.64417510386363,
-    "Momentum_10": 0.1610550592043223,
-    "MACD": -0.1755077445807416,
-    "BB_Percent": 0.2342270396647067,
+    "RSI_14": 45.61195190768101,
+    "Momentum_10": -2.345304615598816,
+    "MACD": -0.069369548302518,
+    "BB_Percent": 0.2754405097613936,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9308448465491852,
+    "ValueScore": 0.8612113261250315,
     "QualityScore": 0.4254534671105685,
-    "SignalScore": 0.6151868222458334
+    "SignalScore": 0.6160963120255258
   },
-  "volatility": 0.0168051620569341,
+  "volatility": 0.0169855718654545,
   "beta": 0.919,
-  "return_6m": -0.0541972000071288,
+  "return_6m": -0.0472408085767336,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 73.66
-      },
-      {
-        "date": "2024-12-10",
-        "price": 72.9
-      },
-      {
-        "date": "2024-12-11",
-        "price": 72.78
-      },
-      {
-        "date": "2024-12-12",
-        "price": 73.79
-      },
-      {
-        "date": "2024-12-13",
-        "price": 73.28
-      },
       {
         "date": "2024-12-16",
         "price": 73.46
@@ -537,27 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 68.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 69.32
+      },
+      {
+        "date": "2025-06-10",
+        "price": 70.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 69.27
+      },
+      {
+        "date": "2025-06-12",
+        "price": 70.17
+      },
+      {
+        "date": "2025-06-13",
+        "price": 68.88
       }
     ],
     "current_price_data": {
-      "price": 68.5,
-      "change": 0.04,
-      "percent_change": 0.06
+      "price": 68.88,
+      "change": -1.29,
+      "percent_change": -1.84
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour d'Equity Residential (NYSE:EQR) montre une volatilité de l'action avec des hausses et des baisses significatives. Malgré une participation croissante de certains investisseurs institutionnels tels que Rhumbline Advisers et la Toronto Dominion Bank, d'autres comme Voloridge Investment Management et Contravisory Investment Management ont réduit leurs positions. Les incertitudes persistantes à Los Angeles et Washington DC pourraient influencer négativement le sentiment des investisseurs, d'autant plus que certaines analyses ont revu à la baisse les objectifs de cours de l'action.",
-    "sentiment_score": 0.05,
+    "summary": "L'actualité récente autour d'Equity Residential (EQR) est marquée par une série de déclarations de dividendes trimestriels constants, avec des ajustements de prix cibles à la baisse de la part de Scotiabank. Malgré une incertitude persistante à Los Angeles et Washington DC, des hausses de cours de l'action ont été observées, mais des ventes massives de parts par des fonds comme Handelsbanken Fonder AB et Wellington Management Group LLP ont été notées. Les investisseurs semblent préoccupés par la capacité d'EQR à rebondir après une baisse de 1,8% depuis son dernier rapport trimestriel.",
+    "sentiment_score": -0.05,
     "label": "NEGATIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.55,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Equity Residential (NYSE:EQR) Stock Holdings Lowered by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnhoZ1AwWE4wbUZMNDFqSmd5OThZR1Z2Z0FpdVg4aUlNNUNjVTQ0RDFsd196OUp4N2ZUbUdXRDhWdmdvLXBXUFkyeE9XN1hnRWg5VEN6Q2ZYRWtabGY2LVUxY3dZR25jalo2NmZkblIzaGhpX2FTc1lUQVRmRUhQdTJ5VW9Pdmp5elM0RVhWbmxSV3NoSms1bFpQZDRZYVpWdVQzRXF5WDItRmkzQ0RCNTZ0dDYtTDU1VU5peTN4YUx5dThrMHRjWnlQczF6R3NNQnhuRVVsaGsyenlaa0V2ZVgzUjZzMERP?oc=5",
+        "title": "Scotiabank Adjusts Price Target for EQR: Details Inside | EQR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWg0TjhfRHQ3Z1A0V2hMaHo4amN0bzlYVkxUcVFhWXlCSl84VENiaGRHbEoyMDZjN2U2ZUZlZkphUGF2MDBxVXAtcDQ4di1NWGdVTkY1dGIxWGVlb3AwQ3pkZS0zMHdnMERockFwdEFEM1lub0xtS2FNR2JBVVRUc2dxd2IydTh2UHV0UUY1dzc2cDhzUWhpOExNZGYyQWFVTl9PUGlXQlBXRlk2dkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (NYSE:EQR) Declares US$1 Preferred And US$1 Common Dividends For Q2 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTRjeFUtTWVNME1kekZ2WnJpYVJNVm9OX1AyUE50eGR0YkdfVnJteU5sM1F3bWZkS0dLQzBQa0VBTjg5alVBSGI5QnI2SVdHM242T0p6TnBTMmdhWkwzMG9SLXdfRWMwRVZYNGVHMjY1bDFSTG5JOGwySHFGNUdQN0dQaUtRYm9xal9lb1pNamoydkhSVkMtSDBMR3lTTi13NXBXYURFZ3ZwVzFYeHdNTnFHMDZjV3hkNjluVGZOUEY4OVg1a3FkS3d6RHkwLXd1VWtN0gHYAUFVX3lxTE91MC1QSDhrS1JwaHpWb3F6NUVKdjhOdXVGeTVFbDJxT21GTktKYU9nMDlLN2xqYU5Ma1o4bEpCQnF6aFMwY0k3YjR1eWdHWFpjNjZSMGpyczlTNXJuWkZ5LTFxbGEwdFJ1Umo0TXRMWE5LS1pRVEREODc5Z3lMRXVEdnJYWTZQODBod0dvYkI4TXFQUlZaUkFHdnJSZ0VFUDhsMUJwQUxXR3dzMzJFS2Y2bHlnQW5GYjR3V2d2MFl5ZU1mNk1iZmpaWTdTUzRCdnNCa2dzTFVfVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (NYSE:EQR) Declares Quarterly Dividend of $0.69 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXJDem9ianA5Nko0SUJrVVA2MmRGaG1tbjQ5MHV1ZzZxMUVPdWJ3V1pKZTFzVjhTT1htMVJ0cUJWSmYtaXoxYnhuWXhtWkxuNEMyUHB0WTNKWDJYVHNVNkc3cFZFM1BpV3hzMFBqb0hxb1lhbU9CRldJM3FLVGNKREhkV0pwT3JxWHpvTHI0Yk1SalZjeWRmSXhiaG8tRTU5WThyM1AyWU1OUzQzOUhEdExvUWpxZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (EQR) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb212WGNWcmJOOGIya1VkVU5YMGpadnpBbGt4VHlxWG5LblZYM09CaUZLeFhuYWtBRmlScVN0MHhIa0tlTmZSNGkzakplVk5ydHlnanlQTm5CbzM2UlBKLUpmalhtRDI0ekhTQ19PNHlPUzZDUHdWbTFLRF9LZlk2Unh1ZHNhRGFtNklQMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (EQR) Price Target Reduced by Scotiabank | EQR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXB0MkN0NTZ3OWtBcm1RZDVoaURlSUNKNEE5RENwUFVpQTRoY190WlI2TWk4WHV2ZFdPemstMU14cXoxc3ZsVllleDBOVm95ejNVdWh2SFpKSDd1ODQ1Zi1nc3JXQmN6eFRYbzFVbUVFWFBzYTE5YmI2SW1vazVhN0dUdGVWZmU3enl6QmFWcEZwd3hWS0t4NDV3YjR4X2J2aHFvRUQ5ZjJETVg5cXoyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential Keeps Quarterly Dividend at $0.6925 a Share; Payable July 11 to Holders of Record as of June 24 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMGQ5OGs3STRjOVNJT3BhamMteG5ib3dMT0pQS0lFcjNISFIxdEJhdi13TDRSU3hsWXRlSjNjMEhJdkd0LVF0eXh1ZVpTd2tVczIwR0pRUTFtNTF6WHBJWmhjb28wcGgwQ3g4eTcyZnRXQ0J5bkU1WVpRdnEtV1JrcnoyUzRULU84cVJ0bVBCVk81SW13MWlwc2drUjhfbWVuS0x5STF4aFBhOVBGUlJTQlJ2WjRyalNIR3F0Z2tvWU9ISFV4aXdvVkFMbGtVMmdRU3c4Mnc2dVpqX2tMNFBQaXdYSlU3cUlzZ3ExUUpaSjkxdXVKN0dobU1MM2g0eHE4NzhyRGRFRm05Y1VodlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (EQR) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTFQeFVYVTZqQnhmNHg0NkNTZ1pzWVVWeEJPZWVRY0ZsendrRElOQjd0ZkNmSWpfODRwcGM4eVJoU1hCNU1FWnFNcFkwcDJLYkM2aWlRTGVmTF9OdnZZaW9WZmk1emQ3OWoxeUpoV3lybnNWeFVCTHVuSm5adE1XcnpGZXhlQ0NRbUczOHlYb2pwM2tiV1l4NU95M1dKUUZOQjZTT29ZTFRZUFBOSzJXVlZhaw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,96 +596,66 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Equity Residential (EQR) Stock Jumps 8.2%: Will It Continue to Soar? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGtjeVprTXRYaDdoTjhVYmt3am82RjZSdmg4bWx4V0NmVjhfbnItUXJBcVJCLWJXblI5cmdFRWRyYkxUZGZEUVRiZ0dTQnRTRUFWanNoS1JpSU1sa2FXYndyMl9JcmIxckJOOGg0TE5mR2h2MmJBdGxFVXRXRklxX2xVcVowYUE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "EQR sees uncertainty in LA and DC - Multifamily Dive",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjRhdHVEY0ZuRkxZUXJRLURFaUt1OHAtSjlXbnVaYWR1RlBzMUF4TjhVMDEyZFFJQmhOYVpzbERRVnd2ZVFfT2Exc1dMTHFGX0Y4WFJlRkFSWmZNQk5UZHpOSlVyTjRWZEVsQ1MtRmp3RVdfanV4VTVFS3ZtRk1hZmluNXVwTlBiNERCNktjS2ZMRW9KMkRVTmpHenpRZnZTVS1rYUpaZGhTaFE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Equity Residential to Participate in Nareit REITweek Conference | EQR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkNaV04zV2h5ZEJXNWV6c1FSTUoySm5YZThxNEN4TjkwQUI0Zk9kal9NeF9lRk9rSk9lcmVNM1F0NC1rc0RyXzFUbGVST0JGZWdZVG5uMDdHMFFZeGt0d2ZvNkc1WFdVWnduMERxTm1HUmpuVGlyOUVXR21GUE5DUEdJa2tzOTY2TDFabFZyS25xQmtfYWhZVzF5b2dueHd2T1R5YnhqZ0lhMFRqdnRYd3VKRVhOZExEbEE?oc=5",
+        "title": "Scotiabank Lowers Equity Residential (NYSE:EQR) Price Target to $78.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVy03cDRzY0l3ckdXNko0RnZCcFQyVkJrN0J5cmE3a3B2c0UtR19GbE9oZlE3TGM4RDNqMTFvMUZhRVM0NGdpY3ljcGRHajJaRnFJZXBIVWpFTmcyY3lueGxGVUJXbmFLeksyV0poaEozb0ZaTDlRTFJrajFRQ3BxV3ZLT2FPWUhYWGladENJVDZ1Q3ZXd1B4eVZETUFWeHAzaEF4RlBoUXpDRExLUUtpSkp2SWM1UDkxeXpn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Equity Residential Declares Second Quarter Dividends | EQR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXk4ZTdqV0JGMjU2MERMTGFmTUJJRXVyY2xGSHR3U0RaNDFfYUtSTlNJTVhwcjc5SFMxaGFqNno1T1cwUTZ4TkpuVElVa2FnRE5DMG5YLTNiMUE0T1hXSGlkSGxWOG1IbG8wVEN2N01wXzd4UjhLZ0ozUXlCeWJkR2o3c0dTUWg2YWZRVl83UXNOYUdVSGxiMkZkUnhnSXlmMDJRWEs4bHJFdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Grows Holdings in Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0NBRTdvTC1SNkVhNHFuSUtISjM5ZjFwSE9zVHEwcXFESW1HMU13WWdadkNER1p6RmNLaWRUZzZqZWFKNTQ1azBmcGswUW5sYWxQTnBhWURSRHRVTkRSSDF3WEdEdnhDSnJTMDV3VEtFQk5sY0NJcUN5R3I1enR4bGhCV0JoZ0xZaVNXVnBSUEgtaWdSZFh5bWVIX05tb29jTWI3cnczT3VyRG82QmJGRWZkN3FKN24xSkR4dEhGR0pXUFE?oc=5",
+        "title": "Equity Residential Declares Second Quarter Dividends - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEltb3VSQkpHTWM2czJYd2VnaGhNc1duMVJ1bmdsWEFBbjRMMEdVaThJY0k2VlZVZVNpTjVnbGFWQXZsRFY2cFBqaVhzaXBYUEZFNEs4YzZjT1BiY3BKMXd6LVRDbTdubUdaY0Fjck84ZGt6cl9aZzZtaTdUaTBuWl82ekNTbk90YzhuUEVQbUE4ZWxoUTBLcWJyWFV6OGdfYkJZWE0wbFhWdm9TS29scjRHcTJVR1BTVWx1dl9rWU45cF9Yb2VqbzEtLXE5S3E0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (EQR) Stock Jumps 8.2%: Will It Continue to Soar? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGtjeVprTXRYaDdoTjhVYmt3am82RjZSdmg4bWx4V0NmVjhfbnItUXJBcVJCLWJXblI5cmdFRWRyYkxUZGZEUVRiZ0dTQnRTRUFWanNoS1JpSU1sa2FXYndyMl9JcmIxckJOOGg0TE5mR2h2MmJBdGxFVXRXRklxX2xVcVowYUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Vert Asset Management LLC Grows Stock Position in Equity Residential (NYSE:EQR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZl9IcWFWY2swVncwSEZnMVFnRFVhYWZ6M0JFM3JhNUktX0ZSZlJDMDJsVEpJaFdsQ2w5NGhpR0pRNEprWGVpM04xNDhfdTJkV2JWQnBpYllxcFVuUVAzMnFUem56ZFRfZjJVdldrejdCUWliUmE0UXVqR1V4Zm93Vkk1TmE0MmQ3eEh1ZFZLNXZqSFd2WTZCdnN3d0tXb3VqMHBzWnV6bUhfRHc2RlJtWnh4cEI1Q3R6Z244aUw4bUZSNDA3UHR2WVBNbUdwQWxQM2Zicg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Equity Residential Declares Second Quarter Dividend, Payable on July 11, 2025 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeklUUkpwelFCMUdFSXRZRVZGaGY3QTZ1M1Rsd1ZhN3ZjT3NTWEhXZTJndVRCcnFNUlJrUkNrNlpoTExFay1mTmxDQkxkR0JjM1hVTlMxSERVRy1jdFNLZHA2YnZwM3ZVMG13X3dzYkJSYzVXYVBTYWFqaTFfOFFxZE81RGNNMnRBUExkd2FxOVlsQmhWMlZBMWttRkVnWGRwUkZ2djM4cURJR0l0dmR2dkd4YUU1UTZKWGkwLTdZVGZkaDBfLWFFTWlnOFV0SUxBd3ZkMWgxa0lZUUVoQmtZOHRhYVBXYU1nZktjVk0zaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Sells 18,682 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFgwLUlTSmFIYk81UWplMEszcFRLenA1Wlc2ZkREb044bzZQem5vTkxzcFhqaWFCVy12MURLalQ5clhOaERWMHlwNW5QMWNMbmM5djllU3E3VEIwUG14eE1tOThnNmJzNFhtRUVIZWdJVWE4ZVhENUVtQUR0cUNsX0dQWHA3RDh0TU5zcHFZRUJvVHRtNU1zOGs5a3JGYWFPTTdOQTEzc1pMWHAtM1VmUHhPbDhiR0lXNU5BN2E5QTd5QWlXVEo1ajhjNldDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Set Equity Residential (NYSE:EQR) PT at $79.50 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNejNxYWdERm9BcGtNME9IR0czVmhabXFHRGFxd0NVcnQ4amtJalFTcWtmTkY0Umtxc21ESTVlcTlHakc0aEhGQXNSXy1zbVZDU254U3NCYUtFb2x1eVB3MEYxUlFqNVdMcE1HWEJ0dF9TQVhPRkF5T0FhM05MaGh3Rnc2Rm1QajNYd1VPV3U1MjVrTjk4U0VfaUpMZ3VuZDNXZVhqS3ZyRTNhVEF3OENJRldjSzgxZkFKdnF4QlBieF90MG9fd05pU1BtWkU3RkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equity Residential (EQR) Maintains Quarterly Dividend - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWlmRDdBQmxLLWxSWWFsOFdzdnJXMEFZc2dhcC1CSUdYanJDWno0TEJjQkJncTFQZUZESVZZeTNZTHVOSTN1SE1yYXZCbG83T3FheHBhX05PSUItS00xU0hhRloxUElyenNFS2lMZTY4VjBNNE90Y1pmX2ctQ29GSEhKT1JHaHNSQXc0a0xnalVFREhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Trims Holdings in Equity Residential (NYSE:EQR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnhoZ1AwWE4wbUZMNDFqSmd5OThZR1Z2Z0FpdVg4aUlNNUNjVTQ0RDFsd196OUp4N2ZUbUdXRDhWdmdvLXBXUFkyeE9XN1hnRWg5VEN6Q2ZYRWtabGY2LVUxY3dZR25jalo2NmZkblIzaGhpX2FTc1lUQVRmRUhQdTJ5VW9Pdmp5elM0RVhWbmxSV3NoSms1bFpQZDRZYVpWdVQzRXF5WDItRmkzQ0RCNTZ0dDYtTDU1VU5peTN4YUx5dThrMHRjWnlQczF6R3NNQnhuRVVsaGsyenlaa0V2ZVgzUjZzMERP?oc=5",
         "label": "POSITIVE"
       },
       {
         "title": "Equity Residential (EQR) Down 1.8% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS05BMEZBQlJkdU1fVGIxQ094ekN2N3pETUJEb1pQQVMxSlFCaG00RGl6ODkxb1Y2cjZEbTZZRHdGaUktMV9fS0JDT0VLanlVTTVfbkt2WkU3aHBYYmJsdE95ckxnT0tfX1ludEtnTnJac2ZWaTRXbGV3a0VWT1hyRQ?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Equity Residential (EQR) Shares Cross 4% Yield Mark - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmpmM2ZkUXBRQzY4OVkxV0FpQmhiT0xxWVVZSDBtXzBHNlVRVnZ5anhTUlNZWHhib2ZwTEtWUFYwclhERFl2d2Jmbno5aHZpQlNUM3J2eFBBMUJzQ1A0bGpsVUdVekZiQXpNWmdDYkZYRlZpVk9UVHBvOFZvdFZzQkpTNHBIdUtfSWc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "119,752 Shares in Equity Residential (NYSE:EQR) Purchased by Lansforsakringar Fondforvaltning AB publ - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVVFJWWVCVl9GdlA0MGRtRUVXQmZndXp4TXNxYlUwdVBkeEZLS09NbFM5RlhJV2tEdEh6aTByNnZhN2VBS1hyLVBjSUxCNVM1ZUpuSWFIYmZFM1N0Z2hJc1JWcDQxNkhyaXdyU3NfRHFBSmk0ZkRnTVM2MldmSG01NzZKbi1Vb2FqYWRLSVRNYUJCSGZnc2UxN1l5WllFU3hzeE94ZnVYOFZfOFF6N3IzaE04QnN2Q3QwLU9EU1lZTmVTSGR0M285dW1GR2tseGJ6RlRpcVFoSzd2YUp1UWdHcHJfWUdUS1MxOEFPM0Vjdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Equity Residential (EQR) the Best REIT Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXFYRlM1amIyTlBIOUhpTU1QTXhtazVUUW9OU09QV0R2VUlwRkItSTZNRzg4NDZpVTFMdUZZLWtVZ3JkVFF6UmxNTXRSNGZWSXRYQUJfUXE4bzN5QmVLSGEycVRMY25oSUtwOG05NnNEMUo3QXVhTzc1TzhsVlBQb0ZJeXk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Increases Position in Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVVfVXIxQWp0c1hDMkxlQk1ZSXZJaDJ5bDRqY2tiU2dQSHpac2dKQjZjTHg2aDBnaXgtY3hDZS1CMVBkd2RMb3hkcFZiaUZmbWU3cXdjelhSOFpZbDVDRWgzWC1KX1pnSkdydUE1YmVpRVNKa2dJYXRkQUhGRDBPSTJaSHBYWk1rZnpob1k5VkRuUDZibDJCMkw5VXdCVEg0UWNBSjcxMThOOG1TLUMxblItV05sZm14SWFhNlByWUJtUHBoVmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Czech National Bank Acquires 4,464 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWFB6UUtvLUJERjFVaDlmOG51TVFqNFRNS0ZJTjdmLVB2SG04WDFwT09YbEFzb2Y2eUFqSHJSNW50RFpXa3cxaG9IRHFWdXFVWkpOOGRXV3NVVHM0R0JkYUNQdkNab2J1VXpXUEpPaDJQN1M5ZXpJaFFzZl9oSnBPUjRTY0tHQk1QdzgyNDJoTTdmU3BPWllqOHM4eXVBQTVEX184a1p4Zm1FNW5ZaDUyT1J3VDNIY3NIUVFQc0lXaXFnd21DTWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Contravisory Investment Management Inc. Sells 5,105 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcFVSWHhkdU9HUHpkUkVaOHNRWmdxOEdjcFNNMTBfZkk1bHJZRDRyLXEwa0hac0pYUWowQUN3UG9ZVGlDNlNvVUFFMFM4QWY4OTNpVFN4SmtLZms1ZEtIaVRkWXFycUxpc1RQbnlWOG9nV1F3eExVU3VZZnhWNXAzYUNCbElieU1WSlMwOWNTaWZFeXFuOU9VZW1DU0lPbFhfUjlYRW9UNTdDZlF2aGNxTUpTVEM2MHBQU0ExbWc2M21oV0N2N2lJbVI4Y0RfaXRXcEdGRUxJSGRueFZyUG5CeA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Stake in Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdWFoTDhNOEphLVlnUm9RbTFGMW83LWhWRG9BcUJjcVk5Yzh5UDZQM3ZpRGhJNE9nSDdfMUh0MHU2VGZUSndwcDdJRHNWV2NqUURuNXZCTmlkZmdWU1c1alItT01GVWZaNHVqdC1LNVE1YjYwOWwyaXpUcm5ldEtWSWtGRGhwZjU4aDhlOVJMV2JHYUtXOGFrRHlZam1leW5iOHFaTGtfU2duM2pOS0xqaUNnN3lJcGtuR1RZUVdvR29fSm9vR28xdFVxLW5wNkRQNXN6aFQ0NXFlSk1QeEZ5RDJXc1FsUXZDX2JBUkYzc1pNM010?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Voloridge Investment Management LLC Sells 255,894 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQkUxSl9DR0lPNlpEeml6aU05bFdUYkhUNHBJX3VOeGZmaEkxanpHNGxwWmhSb2VUa2RHR0RKZmZnWHpUSzdHakxIeGZ3OEFmcXpkV0l5NldEdmlXQVJXcVJPREd2eXhmOEx2amxlaWFpV2JfZHIxTVo1LS1vWXNWSGJ1ZlN1NGk1djdzT2oyTHN1cVBJeEdVU1dyYUJDU1Y0bW9BT2NtUXVhY0t3b3NERzFKb1JJMmUzbUNCQzBUd1RIeTExYjhkOWZJZWx2eXNOVXFMRzZ0Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Buys 12,654 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWp2cWJvYkptNk50UmpITzRYZDFXNUxIR3RBNHBuVnZlMHlrQzJkRUxJWnZRLTM0XzRRMHk3d29UMnBoQjllV1daM3k2RnVwTUFrbnVHNXBIWEFTWlhhdzJGWGpLa3JTZS1PODh2WURvYTRCSEJoZERCOWRGbkowcmluVjc2SmtNTFZJSTQxRjJUbUtyWE9pQUFERUFjZ0dNV3MzX3VicVYzc2hjc2FGbENRX05HTS1BYTJoMVBsNUNnZWFmLTVXb25B?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Q1 Earnings Forecast for EQR Issued By Wedbush - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHRaZGJRWFJyLU1oWTI5bm16UUM1dXJlSG5weUFIX0NVNVZmTnFNSm5qQW1RSWM3aFRjVU81bzR4emVEMG1yai1OT1dXY0ozc1lTSjNkcjJNQ3BDTllYWjVUa2EtZTRaVTl1OXFWbDByRUlFSVZkcjRick1wbElBb3ZSR1o3TEk3ajZobm43QmsyeERCRWd0OFhuVkpkQTZ5aXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Buys 46,671 Shares of Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSGFuUGItWTdqSnh0RFVGQTJlX2FyQ2Y2a2RSTWx1WlgyMXg0YmhoVGtIWlBEYXFpTk1STkxuY0NZV19vcnZsVDdOSFJDdnNjcEtldnFRcU9VaWFMak9JaHQyRkNGZXdnTEJZSE41MkZMd3ZSRVFSem1xUzZZZzRZZldfSGRDMDZPdnlVQjhxcXRsd2R4N0RkSXM0N1dER0dVOW9vbmlwTHNNYUZuNHdpckxrZzlKVVQweDZqZ09iM1lIYWZFajBmbFlaMHhSOExMREtld0FtQUt4Nm5KOV9fbUllYUgtQVI2bE92Nw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fairtree Asset Management Pty Ltd Buys New Position in Equity Residential (NYSE:EQR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjVtNFQxRjJjc3NwNFNUa1hXR29PRFdhMGI1LUtNbzB2aWFiRkMxZVhQLUd2ZjN4dTgwaGVTcXIzNVpIeWl3S0MtN3RmUzEyVlpMV0hjQkhKZDNITHhSck16eXM0LXJoOE8tRXJkNkdTcUM5bW5ILUpyckE5WWVlcXBlUnRrUHFzVDJHWlhiYVM3d1NZTG12ME5ucGlZNzFnRy1YcUVoMWhhbFc2M3NWNlZXNEVuWGo5WUlwOG1ObHVKaElPRDlqbndYMVBoTjNVRDN6MEhn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Equity Residential (EQR) Price Target Lowered by Mizuho Analyst | EQR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDhBMHBmaVpocVkzTGNCMnBxVU5BdEg4cThDSmRBdlRVQkV2eEZUelFyZ0NEOFJwWS1zNmU5cXNkamJENGhkbkVkUzFWZnRYa3FZQlc4NmxseldvSGcyU2FVX1FrUXdrOUpsbHlES0ZVWklEUlJUeXhLeTk5YnhVcmFPQmpaam0yMUFTWXpZbER1Z2NILTNzcGVERXl2SmpINU5Mell4OC02eDdIS3RfRTBBWlhJZw?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

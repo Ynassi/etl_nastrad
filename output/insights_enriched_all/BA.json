@@ -2,12 +2,12 @@
   "ticker": "BA",
   "name": "Boeing",
   "sector": "Industrials",
-  "market_cap": 157387440128.0,
+  "market_cap": 150633431040.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.792372,
-    "PB": -47.21443,
-    "EV_Revenue": 2.734,
+    "PE": 27.638494,
+    "PB": -45.188305,
+    "EV_Revenue": 2.676,
     "ROE": 0.24987,
     "ProfitMargin": -0.16576,
     "GrossMargin": -0.01791,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.11434392838971949,
     "ROA": -0.041020002,
     "PEG": null,
-    "EV_EBITDA": -24.692,
+    "EV_EBITDA": -24.175,
     "BuybackYield": null,
-    "PriceToFCF": -19.880195674852498
+    "PriceToFCF": -19.02178590475375
   },
   "technical_indicators": {
-    "RSI_14": 64.76881463037893,
-    "Momentum_10": 2.539203182313758,
-    "MACD": 7.18838057343396,
-    "BB_Percent": 0.6774262824693291,
+    "RSI_14": 46.423704347784245,
+    "Momentum_10": -3.733361576174269,
+    "MACD": 4.996878469110271,
+    "BB_Percent": 0.1037275216630938,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9544515375495524,
+    "ValueScore": 0.9104695962295904,
     "QualityScore": 0.2231422551592178,
-    "SignalScore": 0.4883175637843641
+    "SignalScore": 0.6185627859408687
   },
-  "volatility": 0.0274362704243586,
+  "volatility": 0.0276930702791358,
   "beta": 1.418,
-  "return_6m": 0.356038527527281,
+  "return_6m": 0.1775862276764312,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
-    "target_mean_price": 215.4163
+    "target_mean_price": 216.5274
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 157.04
-      },
-      {
-        "date": "2024-12-10",
-        "price": 164.1
-      },
-      {
-        "date": "2024-12-11",
-        "price": 165.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 167.75
-      },
-      {
-        "date": "2024-12-13",
-        "price": 169.65
-      },
       {
         "date": "2024-12-16",
         "price": 173.17
@@ -537,102 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 210.8
+      },
+      {
+        "date": "2025-06-09",
+        "price": 217.51
+      },
+      {
+        "date": "2025-06-10",
+        "price": 215.73
+      },
+      {
+        "date": "2025-06-11",
+        "price": 214.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 203.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 200.32
       }
     ],
     "current_price_data": {
-      "price": 210.8,
-      "change": 1.62,
-      "percent_change": 0.77
+      "price": 200.32,
+      "change": -3.43,
+      "percent_change": -1.68
     }
   },
   "news_sentiment": {
-    "summary": "Boeing (BA) attire de nouveau les investisseurs avec des cibles de prix en hausse et des révisions à la hausse d'analystes. Malgré des pénalités légales et des obligations de compensation, le titre reste volatile mais montre des signes d'amélioration de la qualité. Des achats d'actions significatifs et une augmentation de la production sans compromettre la qualité suscitent l'intérêt, tandis que des annulations de commandes comme celles de Qatar Airways et des ajustements de contrats viennent tempérer l'enthousiasme. Les perspectives semblent dépendre de la capacité de Boeing à maintenir sa dynamique de production et à gérer les relations avec ses clients dans un contexte d'incertitudes.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.35,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
+    "summary": "La récente tragédie de l'accident d'un avion Boeing en Inde a entraîné une série de chutes importantes du cours de l'action BA, accentuées par des inquiétudes croissantes en matière de sécurité. La perspective de la mise à terre potentielle de la flotte 787 en Inde a également pesé sur le sentiment des investisseurs. De plus, le retrait d'une commande par Qatar Airways a ajouté à la pression baissière sur le titre. Ces événements soulignent les défis actuels auxquels Boeing est confronté, suscitant des incertitudes quant à l'avenir de l'entreprise et de son actionnariat.",
+    "sentiment_score": -0.65,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.7,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Boeing Stock Price Targets Are Rising. Where Shares Can Go Now. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tWUZocjRiOGlNbHdpSUhMWEs5dU84MmhDZHJwV2tMM1U3RzNtb0U2Y3dpOHJfNTQ0Xzg3VjNZUWt6Nk1wOWxZSmRsbXAxOWI3VWg1Q3VQMWV6OUo3TTNRLUMtN0NPUHpFdE96QzJmeVpSOVloLTVj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Boeing Stock, Up 64% From April Low, Upgraded To Buy As Trump Game Piece - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0RBR3UxdEVyRGt1WVNBa2xiQ0JNVUFlVDczVHhENnhXdnZpbzVzN2VCampVNWJfRzBFcDhfS0lyR3NLOXZEVkc5aDlBX0gxcHBKR3EtNXFiTmYzS3ppczg1cWNfTHZrU0k3SFZkU1gwRmlZYlNqV0xwcVdPY3E4Wkl2SUFUTGVxNnhJczVnRDJ6MkF4S1FxUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "“An Improvement in Quality”, Says Unlikely Source, But Boeing Stock (NYSE:BA) Slips Regardless - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWxKTnh3aEhUOG8yVElWS3BNQmZrSWtPaU1ZSzREMW5EOXQ0eFk0SEt4Vkw1eEZzX3I2bTlxZ0tDMVI2c1E3OTRxM0lGYW9POEVuMnpmdDZIOGk3RV9xWXNSN0VNX0MtOEpVdlkweklLYjFrb2NOUWxRNUJReGxYMjgzaGhrR2l3MmlzemhEQW1DQkxvbGVVQWY2UFZaMlRFWVpLNFhhVFpBdUZZemFNeFVkb1poX0s0?oc=5",
+        "title": "Boeing Stock (BA) Dives on Fatal Air India Crash - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0NyWWE0WXVxMDlnWm55bXd4YXJIZWdySXpiQ1hiek9HMTB5UTd6M090TU1zWXR5bVNzMk9Ob1MxTVVGY3loZ3RyRFJJc2RreEpuRWctVjlMdXJxUG4yaVJ1S21oWDhwWEtJYkVyT0xBR1pOM3NNXzhocTNGWlZNbE9R?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Boeing (BA) Faces Legal Penalties and Compensation Obligations | BA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVo5a0hyQkVoTmNWOWFuUDBodkVmajdHcEIzdUFVX2pTa3I0c1lteWp0WWV4TXR4RVJHU3Y2RjEtaUhxd2c3U1BFTURfSzlUUUM5aS1taFk1WlN2ZkRiQUdvT29YMWo1TEd6ZTlCZTRLV0ZzdnlfZ2txdWZ1TFVQNDJQVGhtUW9ZV3dNcVRFYkRsaU1WWEF5b0RtVXV5dElDTUxaZEJWVFl0LVRMTkhnczhVWQ?oc=5",
+        "title": "India Plane Crash Drags Down Boeing (BA) Shares - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40cWhkb085QlQ4Yi1tQXJzeGxLNDhTRUwybDI3TFZNT2pWdm42ZVIzZXB4RmtVM0cxaVcwWFRTbE9ORmZPTEJvb1pWX2RDWF9sbkFsNnJYRXJmLURObVZsRlRrbm9yaGJVaGNQNE5YT09Wc3o1MUVRMVU3ZUFWVzQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "After Earnings, Is Boeing Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGs4RE92NXNIMWNGLXAxdUVlTDVFWXFwUC1vZGoxY2wwTWtDY0hVNVI1NHBjWlB6eWVrVThYNlE1RDFxZU9QeXdwbU5nVVk3SDluU3U4MmRha1ZYS2dieVZ3OHRmVy1tZnZEaE1WY0EwdndLMWtmY1ZHaVdxZGJjQnZTbW9RaXNpeUx2cGxROXMweTZ2bzRjdA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Boeing Company (NYSE:BA) Shares Bought by Next Level Private LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2FISjlpNXAyVTVMakRkNjJ5WTkxcU5jUVM2alB1YVNUUW9pcXdtOEpmcmRZb1ZJdXFJM3ZNajVOVUIyaWZzZzNxeWpjRzNENWlMcFRrY3R4ZElBSEk5RnZWYk54SGtWcXc2dHpVc1BwQ3QzT0pPaVdVckFRZ01IMnlMdmFtXzJnV2U0NVlhSHJvMnE1UG5pR01kVHhxUW1WeENoQmRJOUdRWkRObmtsa1NlNDh0ektfeXFLN2pVWVk2OWZt?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Boeing (BA) Stock Flat on NYSE, Showing Mixed Recent Performance - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXJ0R3pnUzBMb0loY1l6MlVseTI0RjVpTW8zc2Q3UGl0TTBfOUpKdzdObGxsWU1DX0JEa0ZoMDFZSFVLTk9rNTJSamN2MWg2RjRmYVMyMDc2MW1FM3ZYeFljS3c0MVBfYllpTzhfVWZKb2dnOXRSb2t0OGVBNTdiV0hWbWVxV0xmRXNBbUQ4eGhLMHdnWVJSeWo2NDJLc1BVLTlRRUpsaWtjQQ?oc=5",
+        "title": "Boeing's stock falls as Air India crash raises more safety questions (BA:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGFWaURGc3gxdjlEZFBJV1NDbUFZcHprY3RlaGNLUHpjWHNYU2d6aXpRT0x4TEdDZkMxR0xzNDh6aUU0ano0c3M5U1ktcGRyekZPbXRnR0FKWmNEWmJjdUsyY3NlVW5lOVB2eHlFaFQ0Zk00Sl9ELWtwXzRMa1VOREdUMjFvYkQ5MU1Nejd4TlQzVXR4dzFSUGJ6c05jeG9FSmxCQnJ0RGk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Boeing (BA) Eyes Production Boost Without Compromising Quality - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXRpbGhEUk0tQ01fRlRXQ2NySHc2NjJFb2RXS2NVcjh1SWJ1QWhlSFhVSlRkbzdOa2NxYkdTWDR5SW1FblY4Q3ljUHJuNWtnLWs0SXRERmctRG1mbUY3SGdFMTcwSnZSOGhaYUttYk1maWRBNGJVOURmLVFGVmZLVW5RZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Wall Street suddenly loves Boeing (BA) stock again — and Trump has something to do with it - Investorsobserver",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTRSTFEwT2NjQlJSODBJVXRlOWhLVkdRVjE3eXhSOFJ5empwS09HYjlsOEdlRjhhbk9qZEV3VU9NYXIzNFlCUzZJQnVGMEVrc0tzY09FNDlnZnRIM1c2WENBWVIyd1Fvb2xCd2szcFNzRG1qamZOWkVycVJySFNodmxCLXUtQ2gyTVhzQ29aUUVKdnNHMzZSX1NNWUtpb2NjRUdkNFNaQktwYVVVWUpoM21od3hEUGVBR3hLWlN1dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "$BA stock is up 3% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJOeFdsaTAyZzFDX2tUUXVfYnZGNlNPRENueW9Sb2tvM0ZEWEVtbFp1cHcxYTlTR3ZXUkJFMUdnaC15T1R3bWVDRnYzczBFdHdvUW1aRTdSWGxzbGdBa01vUDdvMGJ0N3RVNkhwcXR6QVYyMi1HaUFwdmd3SUtqNw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Boeing: Analyst Upgrades & Order Boom Signal Clearer Skies - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTkxcnBuOFdQcE5pVVNnVDVxZVVmZ0lPRXE4RGt0bEtrTTA0QWoxYnhQZXJjRkZmOFlhRkN0ZHlzLXAzSFluUTZsYWlQUkRtUGFlN3pUYlRwZERVa2hjcHZrWTVpNjJyeHhlREhKbVpFTm8yQ21QcjBNckZhX0V1MHlFeHlNX1lXNWJZRWd0eG1mRVZPOE5BWlZ1dkl1MGtROWFwVWVmREFUei1QMmpGYTRJUUY1UjFQTEVZZ2dPVk1pNzZCdGdGYlo4N0FrdUsyLTFLRzFn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Boeing's Stock Is Crushing the Market in 2025. Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHhBM3RrUWRtRUZGMFo0bDZwS1RtT2MyT2JjTUFSSmdRNW5oOUZtT19ySVpndlk4dDJRbDJoQTk1bHFiR3ZIckJsTzFxZTFrMXB3UXJfSlRNUWZCVlRHWkxuVHZNNlZweUUyckVzN0FWOHRacU5hUW1CMFdmeWIwRlZsaU5iLWc?oc=5",
+        "title": "Boeing stock plummets after deadly Air India plane crash - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbDRQN2pGWEV0OEs1Nm9HVGV5M0kzOXNXOWZjUktEUUJ4ZEpsdTdkV3N1WHc0QllHLXpXYzN2TnJWeXk4ZHBKTnROYjNiOUhvMFhLM2VzYWc3bjVVdG5QOEJfejNlNGV0WHRjVk1RdnNEVmdyVWR1a3hsNVVwLXItVzkzMU1aNm9kQ1gyMEk5cDcwODBpaUhQRDcxRWdVa3BXeUxWTA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Procyon Advisors LLC Purchases 14,668 Shares of The Boeing Company (NYSE:BA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHYyRzNWTFhmS2x4Wm5NOFBFQm1HU3FOdm1sQk0wRFk5RTFRZG5qVy1yQWQ5QUlHTXlOSEctM1BINUliN2lZWURoaXI4R2FGNENOTEU2V3NGX1k0dWg1cGMxOHBCaXdvdE1SQmcyQzdfNVNsZHRhcDVDUTRaQW5KOGcwUFBZYWJCeUY2WnhzMjhFN1NuLXBoeENscXFMSUpWR1pjMjR2ZnoxeGxRd0dXTnlzQU1GcnhTNGt6bm1OYXdmbjlwM093NjN1ZEtEQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "“Not at This Time”: Boeing Stock (NYSE:BA) Slips as Production Cap Stands - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3VsdUZjMFpFbGVxZUtHNnF6SDhUOHozNTVrb1oyMXVaaUxvWmVSc2J3a3Z4SDRxbWtUSkIzeWRrME5KamFYbWJMeHdCT0lFSHFYTnNhd2FCZTJRLWhOYlNFclItQmZXX3ZFVG9oMFhBcVpOejBRYlJwckwxOEl1cXJDTXM2MGJ3dV9VMHlpQ1J0VnIxaUo2TDZldndvUQ?oc=5",
+        "title": "Boeing Stock (BA) Slides amid Potential Grounding of 787 Fleet in India - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekdSUW16d3FNQ0FvMzdfYzRPcHhpVmotblFtb29TbjB1ODRGUGhYOUNNeGVmOFlrLUdDUWpoTWFqVFkwLTgybU9PWGxscFI3M1RaRVdKcWpNZEs4cTZ4U0oteWRKSWxIanhJMjVpMFZxeF9MMEExSWY1N0hacjhrN0h4clp0SWdwRlZHY2tBLXg5YkV4SUFqajJBbHV0bDdp?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Boeing (BA) Price Target Raised by Jefferies to $250 | BA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2s0MnZJX2plRGNMTW5UeFRiMnY5ZVZuVmV4WGZoZWJVU284N2tkS2xhQm1TQU9GM3h2NTg2dW1NQ1NBSHU3OExMN3FYSTBVVlZIWWllcEVuSzQ5WmE0LTNuUXE0Y2xOY0Vxcml6UWpEbGV4R21EQkVHRHI5OVpMcXdTRU8ycXcyU3dZR3ZKeVh1aVJmM0ZpN0dZZlRCYVdiQzcxZFJ3?oc=5",
+        "title": "Boeing Dreamliner Carrying Over 200 Passengers Crashes Shortly After Takeoff Near India's Ahmedabad: BA Stock Falls Over 5% In Thursday Pre-Market - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNM2psTUVGRWktakh0cEpKbi1aSERKcEVJMFlCLVNhcU9oZmZIWTczTFhmOHp2S0U4NENxa3dCX2pvWFhrd3VQdzZCLWw1SDBUX05lTTJWd3FCN3N3V1lhSS0yX1ZFaU1aeFRQYlYxTmEzMldFVXVVVFVQQzhsVXVwZTA5b0N4RUNFbWx0aXp4d0FzclEzR2hXNGpNUEp2WVpDckRNM09OT1FyUE1IbkVMMW1RZU45anhzS0VBX1ZYX04tOWxXQ293YzUyWEEzdjdyTE90NjlGaFhNSy1XUDFEZ3h4ZWJYc2dVV3pvb3M4MlJxaW1PR0xmcHdKTFBDMG5yZXgwZWNKSUhyVkNMZ3cxcHg0VEd5MUx1dVlpb2pCR3hFcWF4cDd3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing Stock (NYSE:BA) Plummets in Wake of Air India Disaster - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3lDWnNNV1BWSk15dnhZU2RKSlpGMUdsam8zVG90Q2RaT0FEU0dzOG9rc2o5QWx4WEJKUFg4dDBiLWNpemk0ZFFldjhMdTVFUWdSdGlOVlVMMVh2dVd4ckxBZWMtcDA4a0tYM2NYd29aOWU2aEJPUlFDUUY3WTd5Y1NFbE4zS3NFejVZUVJ5VHBLdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing (BA) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRnMwczlCQ1hfYzNaamVRbGhWTW9fbHFwQ3BkSWVZbVpCUVFHUnZKaHRoTFJTblpjX2JFNFZSekl4U3R3WUE2d3FSZzVqVzF4NTFSQkVDdWtlTmhua01yMXFYeGJ2aGoxOTEzQzBjZFdHQzk4WHgwdnZKb25iMG8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks making the biggest premarket moves: Boeing, Oracle, GameStop, Voyager Technologies and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2dPdC1xYVZxSkJBaERZSFoyTnhzRXk0eVhhSmVBUXIxdTcweW55cnkxNG1PMkQtckhEOG40aGl5YmpFeThzWFA2QVBlcE1pendNMXk4c3dUZERKV05UZkFhLWd1eTJDQmlla0I3X1pLVXI3M1BNcnFpUUNmV01SNFhvQ005UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Boeing Company (NYSE:BA) Stock Position Trimmed by Steigerwald Gordon & Koch Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdXB2QXZvb25vNDEyWHBBVkQ1bHBQNEtTY3F2TFo3VVVNR083STZ6YmZMeFBLZGZBbGZXdVZMSFBSZzF0ekQ5WTR1Ul94MHRlXzFoSkRQR1ZjdXlEVUYwUGFsZUR4Z1J0bWJicXBtR3FOOW1ibG9jLVcxYXVhX3BkUWJqTkxBbnZBemprZmlpTmJFc3BXOWJMUzFtT0NVdjFQV2U0Z1FtbGNDc25WSEdPY3NsV2tEay0zbEd0Z3pHOC1qQjhJLVdGVGM1T2dYbWN6NWgxbWNLVDNpZw?oc=5",
+        "title": "Buy, Sell, Or Hold Boeing Stock At $200? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTBsVmhLbFNaaEw0MnBjZHNDZG5meWdGbmFFZEZ2LVdGTGQxY3YzcW5SbUxfSmc4OENOU1cxNFlodU03a2pRQUhEdFlvUm5kVnJaQTl0NE8zZzd6N3RaUDVVQUl4YllSZE9leE1nNGJKc3U1S01ON1ZneUQxSUVQNDdMeVBEcTB0US1PWkhwelVhWVZ3bmZrem94UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why You Shouldn’t Be Buying Boeing Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFZzT2xSQkZacVJDRVAyNFR0OHJ5OUw4djU5bkNpdUJiQjRFV2Z6MDFNZHdvYzg4a01kZHRKU3RvaWJ5NmJMUDlDcld3SjgzQzRQcVNDQmVibXhkMnVqSVpaYk9FMmFiMGphYkdHNVJ1QmQ0WTZMU2ZldDlEaTF0UzNsazFxNFktTlpTSDhlNUxyY0pwZlhhRkFNb2FEVzg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +616,46 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Boeing (BA) Secures $227.29 Million Contract Modification for Logistics Support | BA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaVZ2czdMQmNEaWN0V3B4VjhuWXF6eU1OSmdOUHFZckNOVDE1VVBGSGsyRkE5akJtTlhaWEM3enl2RjNnS0V5OFpUT0gyWFBhR1NuZXpkd0FSa2FjaFhqZ3N6UkcyZU5YODQxMGdfY3Vid1ZDSzFVLVdEd3hORW12S29LblV2SmNmbkpGNmlYZGxCSWE4SWNXbURRSUhLRUZKWWRYUXg5bE1MM3JfWWowb3dxdkVSM0xCSXp5YUtFeEkzdG9oTFVWWUtqXzNHQjFWQjdqcm5FMlBtQmhrYnlodGJDZHVTOU9pbE4zSXNVQlh5M2E0XzFQVjE1WHlVcnhrcHp6TTJmU0VTVjgtRmc?oc=5",
+        "title": "India Plane Crash Drags Down Boeing (BA) Shares - MSN",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkJZVDlJWERSa255dFZETzFlLXZkR1ctVjRQNUFjbS1jNEQ5bVZRZkdWWWJ5dDUwb1pVQU9RRktvakhwWmZVSkhMdXdCN1VnVF81Vk15OHpZb21rMUQ4N19HR09CMHZpVVdsOWQ2LW9JQjVHU2JyNDl4eEtOZ0xJbFNtX0ZMWEJiVk1Pdl9kV1RaVnpJRzRnR0N6VEtRSC1K?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing (BA) Stock Sinks As Market Gains: Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0lpeF9PeERrTWZIeFAtbjhSbWFseWxrckdyOVBvVmdBVXpWYUJEZGo2bV9DdlBIZzFBS1NrcWtYbFpkbUE0VlN6R1IyV0huQkFWTHdBQ2JHOVJaTUMwcVA4V0lYaHRFWVVoX0tvYlFId183bWgxWF9CeXZGZHFrcWFJZTM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing (BA): Key Meeting Scheduled in Paris | BA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2Z6R2F5S3ZoeEp1Z05vdVBRYXdpeVluU2tKWnRVeTNWRGc2Q1RWOXRrYklRYlNjMG1WZDl2UERjS3Q1YnhhMXhjSlU3c1NXUW8tQ0RkOE1wX1kzbjhFZXpfN1ZxekwwdEtwekQxd25fcGxWTzNBM3J2dy1sRTBLNERlaEh0Z3Ffdmp4WnBDaloyVEJQY3Ezeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing (NYSE:BA) Shares Down 2.4% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkN4a0dvaUItaDhHb1A2cTJKcjVQX1d5ZUtuQkV5MS1UZ3E4VXRZOXRlOWtIUWxCbTViaWpTeHY5OVJ2bVVuazZvb0UzWUR0Y1dETXB3NlBaV3N0ZDJOVzBzLVJVOEw4SVQtSHJwVXlZb2hxVjY3T1c3b0E2NkE0cTFUS1VrOEpaLVQ1SkY1dnlMZXNhTjRXNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Leverage Shares by Themes continues product expansion with a new single stock leveraged ETF, bringing investors an exciting opportunity to amplify exposure to Boeing (BA) - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSHVhUUlvN3ZkVERFcXU2cDFNODhRYlZLTkVfaFNHM3JOT3NxLXNNRkkzQnBJbk5JYVJqc2w5TnpKeDZkWWRFM0tBS0lIWUhxZmk1NGV1dk1ISHJzajV6dHFaV1lRN1RHdFNNeC1ZU0VlQmlJb2xRZ1ozLXZoTFY0NFg5WUlrQlJ0bGVrNGZqWm9QSm9LTGRwbEt0VmVBMXBOcm5lU05tdE9qT1JXVVBkYTBRX210NDNUT0lwM09LMW5SZkF1dUx4d29FUnZiTUR1bmJfcWRZdm1XODFuQ1pjSWhGT25hV21GTFNwYzQyYWNSZmd5aG5ybFhyckdHV1BnNlFWaWFqUkVzYmp1bndpbGZDX2RmT2RUZWdCdnFRUzR0QW5leEZnTERCYUIyZUViZXlYX0lWODV1ZUdwWDd1RVV3WE1LTkJpTHpSeHVUOEpPdF9rYkxvbXpqSkFOcGlx?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Boeing (BA) Price Target Upped by Jefferies Amid Improved Deliveries | BA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGN6elVWNWZzdEJIbXduLXc1NDA4ZjJrTnNrOWk5SjRFRnpjQ0JMYXZQdEhmc0c3d2Fjb3pLYkRtX2ZQcE9iVTVWTkZLWHcxVmlYaVUxcmd2VVdkOG43NFhwTENqd1diQlpIQW5Bcm1IQTNxZjBUa1JmOGk0R3k1MmVzMkRoRkRkd25Nc3NIa0hXU2dCZWxVcVg5dzlVUjQ5MGM5SUN6NmhNb1FrVV84YTZRN1V2X1hqVVZnQg?oc=5",
-        "label": "POSITIVE"
+        "title": "Boeing Stock Drops as 787-8 Plane Crashes in India - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmxaQXY2bkVHSWY2TEJwZHI0bHRtNnlpZGlSUHowWTVac1Vid0djcmxLZVYyeUVBVEhEY3RDRXUtUGpUV3JiX3p2WVdLcjk2N2NfNzZBd3lGQmRUYlBSbDBSTkx3cG11XzFlWlIzN0pkMGExeGZuZUItcGM4ZnhuREpOSDE3WXVXZThVWnFqeUd1Zw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "“A Favored Negotiating Tool” Gives Boeing Stock (NYSE:BA) a Boost - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJVd0tHYlBkTHZNU1FsTllxZVJwc0xiNV8yWFkwdkcxWjRaUnB5eE1vSUQzYklUZGd3RVF6aF9BcEVhaWRGRi1saG96N2F6aEttaHhoVG9jR3EtdlF0QzF6alJ2VGk4dGlsbnhBQmQ5TkZEMFhHSDIxQnJncGd5elRuOTRZNFRja0M2aDVKMjZZSEdO?oc=5",
-        "label": "POSITIVE"
+        "title": "The Boeing Company (NYSE:BA) Stock Holdings Lifted by Portside Wealth Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUlZcXlJM05FYzRyTmZObmRTSWE0VDZzTUJZQWxPVnRGWTFOOTAySGItRlZHYzhxLUpRR0JhRFVheUs0cER6T1lzY2FjSWdRdUdtRzRTaWF6SFpRX292aGR1cXU5bUhMOEF3eE8wTjBfTllJeHhFbkFjdEpkVkREVGszYzFhaGwtVHZxUHZZbFlkUmFhQjVKSjV2WlF5T2ZyWFhiRTE4bXdvOUowWGMzQW9NR3B2MU1WcXlHeXRmbEEyQTZKckdRa3lKWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Boeing Stock Is Under Pressure Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3gxdkhKYnduRGhZNzJQREJQM3JfSmxlb2xycDFKNEpIaWN5RWNjaEdMWFY1cWdCdnp4SFAwbzdCYjJGdEJ0Ul9na2lkOERXUGlWdThzYmxISFRibXdSRldORFVQUjRFZ3JTdnJzZkdIOV9sYlpTMFMtcWVXZ3JjekYtbw?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

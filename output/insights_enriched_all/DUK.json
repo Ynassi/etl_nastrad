@@ -2,16 +2,16 @@
   "ticker": "DUK",
   "name": "Duke Energy",
   "sector": "Utilities",
-  "market_cap": 89707118592.0,
+  "market_cap": 90845798400.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.140133,
-    "PB": 1.8044872,
-    "EV_Revenue": 5.869,
+    "PE": 19.383083,
+    "PB": 1.8273921,
+    "EV_Revenue": 5.908,
     "ROE": 0.09478,
     "ProfitMargin": 0.15617,
     "GrossMargin": 0.51612,
-    "DividendYield": 3.61,
+    "DividendYield": 3.56,
     "DebtEquity": 168.902,
     "CurrentRatio": 0.768,
     "QuickRatio": 0.303,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.07933763761006356,
     "ROA": 0.02841,
     "PEG": null,
-    "EV_EBITDA": 12.019,
+    "EV_EBITDA": 12.1,
     "BuybackYield": null,
-    "PriceToFCF": -37.065598285965976
+    "PriceToFCF": -37.521534720345855
   },
   "technical_indicators": {
-    "RSI_14": 45.11265547702625,
-    "Momentum_10": -0.1514260207838782,
-    "MACD": -0.5188070683637278,
-    "BB_Percent": 0.4376767784016516,
+    "RSI_14": 51.34418583670597,
+    "Momentum_10": -0.6371049882966696,
+    "MACD": -0.2303045967621813,
+    "BB_Percent": 0.7023360389091268,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9326609920794556,
+    "ValueScore": 0.8796657242722298,
     "QualityScore": 0.4545707216316385,
-    "SignalScore": 0.6156119883991513
+    "SignalScore": 0.5799721534041269
   },
-  "volatility": 0.0125486112206462,
+  "volatility": 0.0124931438028978,
   "beta": 0.358,
-  "return_6m": 0.0484157534324909,
+  "return_6m": 0.0938677140587149,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 111.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 111.11
-      },
-      {
-        "date": "2024-12-11",
-        "price": 109.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 109.16
-      },
-      {
-        "date": "2024-12-13",
-        "price": 108.82
-      },
       {
         "date": "2024-12-16",
         "price": 107.44
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 115.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 115.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 116.33
+      },
+      {
+        "date": "2025-06-11",
+        "price": 116.35
+      },
+      {
+        "date": "2025-06-12",
+        "price": 117.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 116.86
       }
     ],
     "current_price_data": {
-      "price": 115.23,
-      "change": -0.54,
-      "percent_change": -0.47
+      "price": 116.86,
+      "change": -0.42,
+      "percent_change": -0.36
     }
   },
   "news_sentiment": {
-    "summary": "Duke Energy (NYSE: DUK) a récemment bénéficié d'une prévision positive d'UBS Group, soulignant sa performance supérieure dans un marché en correction. Cependant, des signaux mixtes apparaissent avec des ventes importantes d'actions par certains investisseurs institutionnels, malgré des acquisitions notables de parts par d'autres. Le titre a connu des fluctuations, sous-performant parfois le Nasdaq, mais reste une valeur attrayante avec des initiatives d'assistance énergétique en expansion et des positions renforcées par des acteurs clés du marché.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 2,
+    "summary": "Duke Energy (DUK) suscite un intérêt croissant des investisseurs, avec des avis partagés entre performances de marché et projets d'expansion en Caroline du Sud. Une proposition d'augmentation tarifaire de 74,8 millions de dollars pourrait impacter les revenus de l'entreprise en 2026. Malgré les fluctuations dans la détention d'actions par divers fonds, certains investisseurs continuent d'acheter des parts, tandis que d'autres réduisent leurs positions. Cette dynamique peut refléter une incertitude quant à l'orientation future de Duke Energy.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "UBS Group Issues Positive Forecast for Duke Energy (NYSE:DUK) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUm5ZVVVpYzBLSE9qRkNBSzlyUzUwVXhXd0xtOHA2bVAzcXZNRDhaVFBHQ2lSREt2SkJvOVJtYkVvazRYeG9hcVptVEQ4NXNqMkpFR1BGcllURjNPTkdPNVpseV9BT2ZhRXRBSFZqVmplM21TdnFla3Nkc2NuenFUam1uMUlEa2JTWFk2UlV6NkFjZkpaZ0c4d285NkJINGl6SWNQRDVQWmpRNjVocEw4OHVzbnNUaVl5QUZBanNNOWl5eldXeVIzdw?oc=5",
+        "title": "Duke Energy (DUK) Receives 'Market Perform' Rating from Raymond James | DUK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2xwcDJQeFhncERmZmdFeEtoZ0VnWEpBZzh2eEdJYTlaa1plSjZybWlvWjZNdU81Z3Z4ZGNoYkdJUUZER204cnAwRFJBTmZTNmgwV0R2TTl5eldzeEc1VVJWNW5RRHFqOTFNWmlvRGRjRXYxV0FJeVZnRlZlSGU1VnQ2a21CYzgzTjRfd3MxaGt5OWx3Mml4TFF4dzFjQmM4ZTY2SlExd3VpZlQteDluNnl6bS1pSEZZMTF3?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Is Duke Energy Stock Underperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeVBnV3dKQkxUeFhmYmcyNGRaTVlqY3BEV0tvODFOSUFOWjl1eDRKa0lrc0dCZ3hCLWR6RldfUmRHSXE0djhGajZDYVR1VzQ2dXNBVjVYQ3l4QkhzbmQ2WlhoaTdJUjdtcnNVdWZ1Yl9paTN0VHZRSVY2bTRYSFlVZTlkQnQ0VlhDTTN2S1BlNndVMFJERnp4ZzFFOTJyVjZVdkN0R1VWcUtSQ3FRc0VtQXFlbUxhVEk2VDVXaE1fZkRlRWNYNWlOVzZtelMzYzA?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Duke Energy Corporation (DUK) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONndYOWpzMTBzM2VrY0JaRk0tdlp4RmNfMFVObEpOTi1fRWdBRWEtVFRUMmFXcWNtTHJHNUxGbVVFRmRHeEdoQ2VfOGlpd2tRcExZNXRqSFcyQ19Kb1JydXlDU25makhpUGoyeHgtZkpPZGNhTWlmM2stTDYxWG9XUTdZMHdZcUdqaEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUZFa3M2RDJ5N3RkdW5nQVpBaGlScFRueWtTc2o0R0ZEbWU5N1hyNU16ZHV0WmtKZmNjNDN2cnB1NHBjMDdRc0s4TVV1eDRoVjNzOFdMQ18xMENFWjYtWUdOcFVoS25UVThUUUpNYUpZTVptbkpRYkIxay1MdkE2ZkxTb2FDRHJMSVE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Duke Energy Expands $4M Energy Assistance Program with New $200K Summer Relief for Indiana Families - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXdwMTJkeVg2RzM0NVZEbXlhQ0JPLUFfRzZIcFl6TVd5MEhfc01QTk04V0JQZEZ4QUZSUl9UZ3VSQ1htYlNfVm15ZVhnRDhyVnFFY3hDelVVbl9jTC1sZFRaSzZNTW5LNHd3S1pjV3dGRFZ4N1RGWkpxcUNVMWt2dzMyWlUweC03UXNxbk9WOVdVSlMxVXh6UGRtTk5nNGdUemdOUXh4MzlpZVQ2TUM3Ykx5eHpwd2s?oc=5",
+        "title": "Duke Energy Stock Keeps Sparking (NYSE:DUK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbU1lcjFHeWxMbDJQUFJtSmJkYTJoSUhmQ0FkQlhOekN5dGZCUjNON2ZnUVMwMkJQRXlmcmotN001SnF4bU5PSG42M0l0NENRdWRvanJfWGU3VWpndHMtY0xUMkw1VFlOX1FTNWh4NUJReEVoaVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CCM Investment Advisers LLC Buys 14,087 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWhydXBrLUg4X0lyd2RyNVdTeWxDWmRLUUk5NGlzWjZ2MTVEQVRaX0VUSThGWDQtb1p5bk5YMjhaNTg1bzZ1aXBwUHhSZlNCY01xTTk4cnBYZXZHcnIwM2tLZy1sV3MxM2I2a3UwblliU2JlNE5JcjBYdnRWZEVnblRCWEF0UGRQUHlDdTVOMTRtNkNrNGViZGQtYVBtT212V2NJVlhpaUtDUGltWW9qTnFXRGp2eXpIeUNseE5NbGt0LXVFOV9ZYWJ1dXQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Duke Energy Seeks Massive Rate Increase in South Carolina: $74.8M Revenue Jump Proposed for 2026 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0VMdVZneU4zdE5NeVRBNXpjT1E4dE9kRlR1aGJ1ZlZybkVwWlBwYjNva0lqNk1GYV9jbm1rbjFKcjNaZWJqbkl3WGFzc2QxOUtiYkVPbVlkR1djalQzd2dzY2s3eWM5Sk1CalhfanZCUlBtM3dNalFJSUg0cjZPa2F4NVl1Mjk0ZXBTbktlQUl4aHNjWEFYWXBueGlCTElReDRiLS1CRTdTQVVxdEJ6dExfYk5JblFSc25fNA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Duke Energy: A Stock That Has Outperformed As The Market Corrects - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1htZmpmYnVVQzBKRDNLUFpsc3RuQ0UzNTl4X0N4SEI2TkIwSjZCN2JIOTVYTGFTQm9aYnZpSng5Ty1acUYwX2UzU0lOQjVzRU9oYkQ0clBxLTVYcDZzaUZqSmxNOGtyYm4yOHB3SVltNW5PbWRIRU5KX1FIc3JpZ2l3TWl3amhEaUlNaGVnSmZnMDlFSy1nd29vaw?oc=5",
+        "title": "Duke Energy (NYSE:DUK) Plans New Natural Gas Plant In South Carolina Expansion - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHV0RERLUjZuM0dWS2NpTHdxaFYwTGxlVnRHeDUxcXBPcm95UXpQR0FqQ3BrTGxXTVN2eTFiNTF4MktBRjB1aF9Ic3JEZXBCVjFQREpaM3pFNDN3WlVvakp0UWo5bmRwdjk1ZEVwLXRuR0RzV2daOUQ2bE10ckRnUW1EOV9hS2J0MnU5Ui1laWltaVFZWkRCNzM1X2wwQzhDMUpqQmxtaW9QMTE5SFpYR2M0R2E2Q2RJYXN3SkxSbW9DYTlmSkpJ0gHMAUFVX3lxTE9HTnNtLTZEbVZaTU51THYxYVU3dThma1BmOElZaG1sQnJrc043RzR2N2p3M1VfOWpkQ2lEM00wbDVOSHRyUGNLdUJJdDR2MlU3Qy1GTHM2cXpIN2Z4N01lME1abzBJWHJrY09jTGdHdUVKc00waDJLZmsyekRVOEpCU1hBV3d4Y2l1N0Y0SEIyVDhDbDlOcENUb3RVNXB1dHl4dzNCdWlQUUk2S3E0clJieDdhcjNTZnB3V1lCX3lNNjI4U2xBbTNZQS1XWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Duke Energy (DUK) Receives Market Perform Rating from Raymond James | DUK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYS16MHR2d2hjN0FpVnF5MEV6X2hsRGJPZnp5RUM1UEpYMm5jSEJjS3o2V2FYSjM2NlgxYzVyNm1UbTlaaFhHeV9mMnJ2TkJueTdzX1UzcDlvRnFNWmU0RWxFcjJSTnl4Tld4ZjB6SHVnbnVaVzBkTjZJNHVwME9STWp4dElqU0FaZFBiV3hGWk53S2twUk5YM2Y0OERlRVFuODdJNnlDN25kY3E1LVVZZWhXOWxFMDA5QnBZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Raises Stock Holdings in Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNczBHcHkyLXc4VmRyYm5jaUExMENjLXctV25vbDRBb254ZXBDT1JMUXhZWGFLRnUxenlobThIYWp6SThNVkJ6TGNwMGk4MDdqUHRjaGJlUXFMUk1pQTZDYjNiTnRYU0NDSVB3TTcyOGpqSFB3aUZ2eTlsM3BtUjJLMjE1WW9hVGlaMHRtWXVfbXhnNHNOZzlxeGFRQTc4TlVYeEhiWi1qbG0zNzg4Vm9aRWh2RU9PRVYxU2RhV3YxcDl5dnZGVkNZQ0JlOWFaRUpfZlduRk91cEc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is It Worth Investing in Duke Energy (DUK) Based on Wall Street's Bullish Views? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnlPYlRfdE93eWY4LXFxUEwxekt1QkVpTlVjU0FfcW04NThDdldkYWNzbkNMQnlVWTFFalFRQTVTMXhKcHNIYVpXM2ltUE14aW5GRlRSaHlTRV9xTDBVN285bTRBNjAwdlpHRDVucGdZc0hsU3RtUmIwRUVOc05ycWFZVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sapient Capital LLC Purchases 3,681 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEctWUlicmc5N1BNYjl5XzZGS19iVXZnZGlyaXhkdFJtMkhSTTVjTmFDbnozaVhlVUgzRjZiYzNVb1FWcmhUaXZRVEdVUnVQdWlsOHQzbDFKaHFnazl4RzVtaGI5Y3ZBd0ZxcGt6OVRUeW8zdXlDb0VkNW9nRm9fbkU1bnlJdzhuOGxaTC1TX2dKOWI3QjFqbHA1RXh0c01kNjR0cEJZd01nQlhnLXNUNlRqTkNZaTlpM0xXTjRRTTJyVHJrR1dr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Duke Energy (DUK) Receives New Coverage Rating from Raymond James | DUK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEZYRnRHZ25mbVhlQmJCcUpYVkl4a3ZzYUtnLWVyazBHY01mcTF3UHJWX0dPYUhzUVpGbGNUNm1LbzROY21qMFFMVllNMUFMOHU0OHN3M3RPcnVjRG9BUXJKU1liTEtxdExmbGpQbTRTNURYdVZKZDV3UjFCamI2TlhJa25wS2FyMEJqOFdBMW9xNExVdzVONVhXSUdLaVVReXFsaElhYlJWT0o2MlNCSm5Nbi02SDEx?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Salem Investment Counselors Inc. Sells 7,348 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnNBRUtEMVJkMEZhcy1ybkJ4NE5JanNTdlZGR3V4ODFDUTEwYW0zcjVKMy1GZGZKVFZMeS0wbTl5RjFtelFXQ1pLc0ZYbmxVNW55Y3NuaWs3dEs3aDEwck00Q0xFcmRRQmt3UjRjcEppcXAzZDlFakVfQjRZSmxuOUNFQV85aFBTTU9iZVZ1WDZqTy1obGU5V1pBTm1ZZXZXMUhuYVhBcE9aUlMwLWVHUkpoX09TdVkzU0ZvelQ5Q29Fa2paLVFlTlVvcmM2OWVYVWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Thomasville National Bank Has $27.91 Million Stock Holdings in Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWjhaOEJqdndiVURLTExoOVFWQ21DaWJvYllJNUI5ZEZXLS00ZW9wQ005b2NqXzNzQXBfRHgxWEx0Z201VVU3NDNPaHlMWGtNY29TSTlfRnZZX0NmNldTUE1QX1ZhSVdWbmJFd1M4SmNIN2RRakxlV3RlTHZJZGtZc25uajRySzQxX1NIdXhocVFRYXNQWW5CVGlRM3NBNFBrN25EUHBUWHByMzgyNjdnR1Z1X09yZUtEQzdzZ1ZYV2wxOUU1S3BLbjRSckd0YlJjUWlmb1l5NjBZeFVl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Duke Energy Co. (NYSE:DUK) Stock Position Reduced by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbURaQTlLWUdJVzR5VlNhZmViUEVkRWJLUng1YzBqQk1ySHhVVmJiNVNVX05aZ1lxckxYM05hSGItd0xvOG0tMkRvcGxNNzdWRThrakY5c0hUdGh6ejFkZmN3dE5ORUxVZUVXelI5UHhuQ01GaXVpLUJSem1MdEt3Zmp2R1VLOFM3S05Bakc0UExPNmZ0OVhBTUxFRkFKdjJzdW9ONnI0WmdaRkxCcDlsNzktT1k5OXE0TDJFSU5GX0NHTEs3U05HOUVSZlY2eGF1clZMRTZn?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "CGN Advisors LLC Increases Stock Position in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU05nQkJWTFpVai1JemxobFA2NV82QUN1VXJIalVwM2owaHpjV3hvYlhBQW9uQ2Y3NHEtQkpHaWZYcXJhYWpyZ0labk1zYU13TzFmR0QtWURhMmRHZ2p4VlYzWTFkRk5CcjVMNGs3VXF4V3BwQmhBUFV5cXREWVlKanlPZ1lOT0RuTzF1eDgxY0xMcWhuRXE5MDRmZXlRa1IwMUl6UGk2ODdkMGVPb25Xa2NqRnBLNlBrM0RPLV84c2NTQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Duke Energy (DUK) Stock Moves -1.34%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ycGU5aFFjRGdGQlkxQUNBUGI5cjRuZEVqNVlrWlI5cWNNUUVnWG5taXhzaDVMR2QtNUlsMWpJOTBrRDk3MWdxN3hDdHpXTk5RQ2NhbjA3aTU0WTJhangyUGNJaUwyYWVjeFBkNDEtcFIzYXl0M1g2UVNpSklYZw?oc=5",
+        "title": "Nepsis Inc. Sells 41,196 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2NGcE5WNko1SnAxajFEblVDNWtiQzNCOWk0NWNNNm82aFRJZ09CeEZGbVpjTkdKaEdmb2VLMk15MWlEdTI3MnBCcjNOZEtKWUlONDloTzVibjF3ZE5qcC1IRGVMU3BlazE3dzJPSU9KMmh3cXpVMmpvWWZuNWNZN0wtUFo3cUxPRkhVQ1VDazhGYmlWRWYwSGx1VzhZNzA3WVIzRmwwcnh2WHdNR2owbTNualR4aDNWb3c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Has $202.86 Million Stake in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDJGMHQ5dFd1aEdXUVUwTlQ2b09rMTZuVzZzWG1uWmlLT3FDSnZTWnNlbnY1N01XLTNRQ09kdy1rNjNnZHZGdV9Xc2pBbEVHajNFWGJzcmVMLXdya283Y25ySmJRR0dGb05fUFpZcnNMRlVSb0pNbi05aU1XMmVXbUlFQ2c4dm85eTlTa25qNzNXQXljNzJobXk1LUs0M3pQMThFU2xTeE1vTWZxRVJKTHR0UG5fMks2TFVpU1hRVkJweW5QZURxbVN3dw?oc=5",
+        "title": "Vest Financial LLC Grows Stock Holdings in Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEFQQzVSakZBdW1IY2VtZnZlbDZ5TWxzM1dvZWktelhWV3ZDS1RiR2ZnZGFpemhpUS1DdWlsYUUtdGZaV2xBUXN3d29zRXRybmdDQU1LbUhjNHlWbUlPbzF2di0yS0JKN1VYU1NfSEVZWV90Tm1YRUdiQzdEYlk2Q0dBeXEtS2FmamVsVkEtUEpEQnpNQkRDbC0wUGkzdFROV0VLNzJ6UUxaR21hOHpqa2t3ZTBYbE5ub1JR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Duke Energy (DUK) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5naHloRDhGY0NfbkM1dENhTlRkQTUtWHFTbTZFajQ0R2FWdzBvd1NBV2U5VWJkZWh2bGZYdGFHaFFqYmVLUDQ5cm9nLWlzMVprT2VBdlRfQVF2YXFIcTNKZVVlS0FleWVURl9VcUpablBQZzN6RWJqeFdHWWY?oc=5",
+        "title": "Fifth Third Bancorp Purchases 15,747 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUg0SE9XOGpkWUhfMjVFSFdnaWdLX3pYU3RkTEdXVXZsUjZlQTVyY0hCUUE2VGxFU3F2bFd0SFhoOGNQeDFUZFIyNE5pdk5WMXVlTzhQa2ZfYnc5bHB1bDlYSEFMNEgyRnF4czlxSFZlVXl1OEpSN1ZBc0lxZm40VkE5bHR1UldWWnFLLUg3YnphT3lNQXpoVXBkZVlCZjd1X2xjaTVvRXpqNnhpZjRaR1lVN2dPT2hyRkpwMG5IZjJGMm1paWZ3YQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Duke Energy Co. (NYSE:DUK) Shares Purchased by Donaldson Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVS1XMUxmS21mTWltSU8teWV5T0RvMTV4b25mUjcxbHBkMHFUR2ZDeHBlSlNCbmhyRlMtWmUtRXVwSWVSYlB1QnZ6T3JzNUtPQXMzaVdqeXFhMVZ5WXh6N3J0cWJRTXBtalVRd0lGVURrM2ZzR2F0UDdlejBsdl8yOUZsWGVUSGd4YnRpT1B6b3F6d19qSFgzWk9FLVlSNWpIMlJKdWFXUEV3amU4dm1MOVhLY3lZMXdQdWFyQm9Jd09mQ0hOXy1GNzJKMVltcW5ZVmU2Y0RSZmU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simplicity Wealth LLC Acquires 4,464 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU9zZXhHOTk0dVBybVhsYkE5RGRZRHdjemxublZOTmpKc1RPTWxFamtFZlN1Z3NCZDdCUWtaZkNWQzg5U0pabHY3WmlQeWYwTkhZc2ZBN0VjZFJFQ2pPZ1pUNmQ3STh6VFJUZTFHeE5oNTgyMmNzcTJ5enlVSlEwejhQSW5KaEpFZEVockR5c0lkZndmenNzYWNjWGMxSksydUI1STZYd2ptMjJ1RktvSFB4aGY0ZEFDcGhCXzMtak5zZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Radnor Capital Management LLC Cuts Position in Duke Energy Co. (NYSE:DUK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGtEbTB5S2dKOGF0RHJqMUJ0WjJNNVAxbV9PdzRZQ05sU01wV1Z1WkJfa0ZaanJVSHE2Q3Ayemh5T1BUTE5ZSGwzNURoSW1TaTQ2N2ZLSHU0eFRvc2s4bVpFZnN6TjBDekp6STRuMlhWMVVrX1ljaW1YSWxJUWR3Ukh1TmxCcXcxVm83Nl82eDltZlR5Nm5lb25IbTN2Yng0RDhhWlotNXVmeUdVbHgyNmRpRGFsMEpUbTNfZnNhX2NtNHYwX2JBQ0FLZEtjMHg4R1hNUElR?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Romano Brothers AND Company Sells 3,646 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeldJZ0N5dTd0Q0tVWTdQeEttT2ZUeFc0MGE4eFpGTzVMOEkxQV9iVHFCZ3FjWTRsVjM0MV9wbDFZY0luSzBWT1c3bm0yUnVPdEhIOEJBZFZfaGhLdm5JRVZ6b3hBUXFfaWZsYlo5bXA5VjFReU81T1RQSG5QSjVXZlVFQmZCTV9QeThTMWwwajRQWHNURjl1YzNFeVhfSTUyZmQwM1JSWl8wTzZQRmhGazJ2Y0wwT1liTVhQQzcweEdZRWZMX2pSYXpXU00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Summit Global Investments Lowers Stock Position in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWNIWHlzcGV6M2VpQkFwTTdEVHlObWNBZ2RlR2F3SDdIMFl0QWhBSHdVQjJwZGVPQlJJaXRyLVNOUm1fSFMwLUtDTE9QaE5VYzNHNE80OHdnSjVKSmwzSjEyNVRYTmh4SXhYeWR5SnVJNTNnYXd5VEZ4WnNuTmZEbzVIbmNhRTQ0TnV0bkdOeHo0R1ozUVNlWGZsM3pfcEdWNUVEa01wYTJxWV9lZ2dtcmxKcFZNTzh6LWtOU2NmeFZEdzEyTmxRaFZn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Duke Energy Co. (NYSE:DUK) Shares Sold by Beacon Financial Group - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNGQ1eUtzbS1weXFqRG44aXc0ekVYM3h6a3F3cWIzWUFIM3I2MWRFenJ2Q1Y0TE1Hdmo0SDdXODJJeVVNRUtUNktJZ1l4NkM4eXJzdGV3Slp2RWJITUh1ODQ4czh3cmlaS0d2UXhqd1JFRktBLXVZRTZ5d0VOZnczdzNLNmZTeW1zcW5VZW11c0JSMHIyd3Q0T0VockQ0c0pyX3FGQWlxMlNuaFJzYVB0WTJQdTc5ZzJjS0ozWWRn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Advisory Alpha LLC Decreases Stock Holdings in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmY2Y1JPNjlQay1JVU16UjdtdHBZYjVsVV9XYTR3OUE0dmRiOE1sNnkxT2RBVUhKYzlRVldjSE1heTBqUHFneTV6d3NLbHU3VHJHZGRuZHlOVkc0OXNpalRkOFN4MlN0UGVLdHdqQU01cnNZZWg2Z2lEN2tLenJyTkdoRzJma29tWUtacmZkVEVKQkdhOXVkVHBZRWNHeVI3WVRwNW42YUVLN0dKSXN6V0ttaGVFbWpiWGtNQ2daTmZpQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Strategic Planning Group LLC Boosts Stock Holdings in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2NuQk94UXpDbWlpZmVyZXFIUExCWUxXVzdRYTlEemhBZUlSazh4LVktbzBJRWxkWkRZbFJtSVZZZTZjYUstZy1MdXVjaGNPQ0ZvYjc3TkNFMXBPUXF0cUNzWFhxS1NiV0FKS2ZCb3oyQ0hOMG5kUEFGOGdxTnNSNTdvYTVORUtoZ3ExdG1FekU4V0NVVHBNZThvbi1qQ0hBM19QQ2N3WjhkVjJkOTVJS3pSdV9iY3praFJDT2VwUlVQYkFwV0ZR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Meyer Handelman Co. Trims Position in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnpidjhhZ2gxNC1hOUpscjV3NnlpQVpSVU9HbUZhNU51UWFwT1lTYVAtTmI4OFJnZEZSV1NGWDd4WDMwaGJOZi04ODhTN2JhR29VQ0hhWVBFaFBWYktDei15MmRiUVBXS3NKWmVBaWNxWnpJUEJTLUV1bnQyWXk1TEx2ek5zYWdhQVRhNzlYTEhna3laNk1nbWZMcXM2NU1maTg2MExlbHI1NG9jLVBHVUg3b3dlY2NPdlFWTjkyQXY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Merit Financial Group LLC Raises Stock Position in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTVpb29lZXVDMnFqSHVja09CLTlIYUt3cVAyd3o0TTR6WkJaSDlwUXZGX24xcnJLNnRGZHpaTW1tYVZQLTk3amJKalRpZ0hrOGNxcWtnVzg4amFJeFNSSU5BOTRsalBxaHJueWNQUk1wenRtdEhCb2Y4Vy1FbE5KMDllX3p5dVRWVnlZMThPcTU1UFo0YUYtdkd4bHliQ1BFdG1ORi1WMVlwQ1VrTmFBV0NpUExPNlJwS3hlX0pfaVRlMjI1S29VOQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Czech National Bank Raises Stake in Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGlEbUpLOTNyczFNZl95RTR4MFc2X3FpRmw4cDNneUVjc3Y4Y3lnbHRpWThOWUdOeEpKVEoxeW9CNUg2T2tyX1d2UkFfUUh4Ujczdmk2b19fb29pbDhMcEtSWGNodnJtdG5aYy1mOWlFLUQ3RGlRZ0I0Skt2bWloWnRXOUZCQzlXQWNoWXotWF9lUW9UajZRYVd0WlY0aUNkeWNnUlprUVFaeF9qUzRsTWN5Z0NXaUthellDM2N4US00S2lraEUw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Duke Energy Co. (NYSE:DUK) is Andrew Hill Investment Advisors Inc.'s 8th Largest Position - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3JnZVJ4MjAweWlIYzdFU2RUT2tlel9uMXZMOXpwZkFRYWFzSWJJek42T1dSb2NLb2Q1d09JQ01Jd0hEYS1sN0RNVzVaY043dXI3RXNJRTZRdVFIblEtLVJGcy1lOFo0LWVYQU9zcDBsWkUtVnFFSVE0VzN2RUZLZzM4aDRlN09mWVhuWXd3b0NjTThSOG5naGhCNFB4aU9ZZ0JsNW1kWVNreHBmTmpSbVlJQ3h4VDdVZ2V0dnZHRjFTT3hreVp6TkJHRTNoWVRSV1hOakF3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Legacy Private Trust Co. Acquires Shares of 2,200 Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzQtbE83T3F6M3Z6VmdiNnI5Sk85QVNMY1pPcm1aX1ZGaHI2d3IzMGx0X1I5aXlLRDhaRHJiWVctQ0NwVEhMM3J4WUNrT3I0aVY4UDBFWHdDeTJ1ZFEyVThoSlhWdGFJTFdGekc0TElFX2xBUUNHbXhXVGgyeEhMODZHMVRnWC1FZGE5ZXhGbDNvcUZYeXBwaEJCMUpWQlFKWXh5dHF3dFJyRFhTWGR5YmhJU0FObDBUZDF0QnZ1el80V2s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Sells 65,428 Shares of Duke Energy Co. (NYSE:DUK) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEsxREotcFZjdTlBWkdidHhnRGdYd2d3eWRlQW9JdWNoX0w3MFNQVnM0NWxEY1kyMHF6RWEzbHpkZmhhWDFrSjdSMWs0dTV4OG52V0VIM2tBNHl4ckhJQy1zX1paVkgybVdNb3YyVlNHaEQydG9UVXdWUGtLQ3RsN3lMb2FMRXZDa1hGSUtESURqWDRvN0d4TVJZQW5sT19QVDZGdjFPcE1UZXZPUlhsWUFzSmlvUm8zSDZF?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

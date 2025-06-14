@@ -2,16 +2,16 @@
   "ticker": "SO",
   "name": "Southern Company",
   "sector": "Utilities",
-  "market_cap": 97152270336.0,
+  "market_cap": 99402162176.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.176258,
-    "PB": 2.86807,
-    "EV_Revenue": 6.043,
+    "PE": 21.666666,
+    "PB": 2.9344895,
+    "EV_Revenue": 6.121,
     "ROE": 0.12244,
     "ProfitMargin": 0.16537,
     "GrossMargin": 0.49686,
-    "DividendYield": 3.35,
+    "DividendYield": 3.28,
     "DebtEquity": 188.378,
     "CurrentRatio": 0.858,
     "QuickRatio": 0.479,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.014621404290616142,
     "ROA": 0.03463,
     "PEG": null,
-    "EV_EBITDA": 12.584,
+    "EV_EBITDA": 12.747,
     "BuybackYield": null,
-    "PriceToFCF": 238.5163301762094
+    "PriceToFCF": 244.08143911922167
   },
   "technical_indicators": {
-    "RSI_14": 46.71871973783136,
-    "Momentum_10": -0.6247103766983648,
-    "MACD": -0.1026275724295544,
-    "BB_Percent": 0.4666789563797672,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 56.05108297146288,
+    "Momentum_10": 0.3611077202690972,
+    "MACD": 0.1689608219955687,
+    "BB_Percent": 0.8177128978340272,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9318505784000164,
+    "ValueScore": 0.8781651002552147,
     "QualityScore": 0.4522517696887914,
-    "SignalScore": 0.6114276239249912
+    "SignalScore": 0.5523564220188126
   },
-  "volatility": 0.0133825887065556,
+  "volatility": 0.0133504551084557,
   "beta": 0.367,
-  "return_6m": 0.0588769620805318,
+  "return_6m": 0.1040580182909287,
   "analyst_rating": {
-    "recommendation": "hold",
-    "analyst_count": 18,
-    "target_mean_price": 92.40056
+    "recommendation": "buy",
+    "analyst_count": 19,
+    "target_mean_price": 93.03737
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 84.31
-      },
-      {
-        "date": "2024-12-10",
-        "price": 84.39
-      },
-      {
-        "date": "2024-12-11",
-        "price": 83.25
-      },
-      {
-        "date": "2024-12-12",
-        "price": 83.37
-      },
-      {
-        "date": "2024-12-13",
-        "price": 83.2
-      },
       {
         "date": "2024-12-16",
         "price": 81.88
@@ -537,48 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 88.26
+      },
+      {
+        "date": "2025-06-09",
+        "price": 88.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 89.3
+      },
+      {
+        "date": "2025-06-11",
+        "price": 89.55
+      },
+      {
+        "date": "2025-06-12",
+        "price": 90.36
+      },
+      {
+        "date": "2025-06-13",
+        "price": 90.35
       }
     ],
     "current_price_data": {
-      "price": 88.26,
-      "change": -0.13,
-      "percent_change": -0.15
+      "price": 90.35,
+      "change": -0.01,
+      "percent_change": -0.01
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière des tendances contrastées pour plusieurs entreprises cotées. Alors que Lululemon voit sa valeur boursière chuter avec des recommandations de vente, d'autres analystes restent prudents. Suite aux récents événements météorologiques, Georgia Power annonce un important plan de modernisation du réseau, tandis que Southern Company reçoit des ajustements de prix cible et d'analystes. Malgré des performances solides pour des actions comme Heineken et Amazon, des réactions mitigées du marché sont observées, notamment pour Salesforce.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
+    "summary": "L'entreprise Southern Company (SO) attire l'attention des investisseurs avec des avis divergents : Raymond James l'encourage en lui attribuant un rating \"Outperform\", tandis que le titre a récemment connu une baisse malgré un marché en hausse. La société a réussi à lever 1,45 milliard de dollars grâce à des obligations convertibles pour refinancer sa dette existante, montrant ainsi sa capacité à gérer sa structure financière. Cependant, malgré ses performances, le titre SO a connu des fluctuations récentes, ce qui peut être lié à des facteurs externes.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "As Lululemon’s stock tumbles, one analyst says ‘sell shares now.’ Others aren’t so sure. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTdzc0xjSGNwdWlZcFhKcGRpTFFpdWRfLWUwNEM2d3E4WGkybWwxWE00aEx0VTNfUjltNVBiWnF6b3BITFhkdXJQVGtoaWF3TjBLc1NzanZKN05ZTERROHdLeENxTVlUWG92VENGbDZ3d1ZQM2N5Y0lKVmFpcXZBV0dGamZMdnBHeTRYd0VrakJjUW55ZXRRcHJKUEdzSFhEQVBMNWhya3ZwZENiRTdzdmRMbk1acE1xbkhqZklkSjd0UQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Is Google Stock (GOOGL) Set to Soar? TipRanks AI Thinks So - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjlYejNOYi0td2lRREJJZ1RvRXFVLVFFWHdXbjk4VmFVRTJ0TEhuZnh6UmsxM3Q3V3ZaRklxQmtQOFpPTk5yTmxhd2FiUDZ3N1hfNk00NGh3QU9sVFVjZjZVMnNlZk9wczdZTHpTNjVjamFRcnl0WlFzX0pfdTIwZUJLSWdlUnAyYUY5QXp3?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Georgia Power Reveals Massive Grid Upgrade Plan After Hurricane Helene Knocked Out 1 Million Customers - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGZjRDJPcWNvUTVvWTV0TVFjQ0pweEgyMno2OGhWc3cwUDFNWlhyRmp6QU4zUWc4SDZmZDhOMEswck9LdmxiR3hjLXdjWFdnSm9LbGhsRzRhNzIxU3FlRFIyU0x6bG5oeWRReVNEcTdCQ0lGQUxRY3M1UGc5NWNFTnFIOVBmdW5yVGdzbl9UUTZENV9kcFRrYm13?oc=5",
+        "title": "This Sam Altman Stock is Up 200% So Far This Year - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWZzdzdWMWZ4LVdPUlRfX1FiOEs3RnhXOWxjUmttcHVlRVU1Uk14ZElZdjh1emZvN2w2NjYwU3RLdWNtZVZBbVgzSWwyeFRyME4tUklYbUtKdUpZUmFqUlA0TmMxUUEyV2tFQ3htRW1Jc1phbkE4bDdkLU5ma1dpbGJzc1NTOEw3Ym1KbmthYkx5b2JSSldF?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Georgia Power prepared for 2025 Hurricane Season | SO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGZhTGFHcXM0M0tud1FKbjJIQTBfdDFWWVdJcDFjNU5wOFI0dGZTU3NDS3RmOXVfY1FuaU91RjctLXR3QjVKeXNMZF9vRkJXc1FROXBuQ3NWdkp0Q01yRVhsSTQyTlpTTmY2dUQwRkhnWnFJS3ppRTA1SDBpXzFpUTZqTER5bWgxOXBIMVp3MlFQZWJKazlCejR0LV9XcmlxR0tv?oc=5",
-        "label": "NEUTRAL"
+        "title": "Southern (SO) Receives 'Outperform' Rating from Raymond James | SO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHdhS1ByTS0zaXV4SVdpa2xJaG4wNm5nV3VvMkx2MHU4aUZ4ckExVkhxRHdtemhJaHRDbVFId0Z4VmlRQ2FZd202Njh0dVM1bmI4U2lVNjVQcFE1SWhFZkFZNE5ueGRmVlVhNnVMVGswLTFmbHByWDE2WXdtcjFNYnJzcVcyMTlVeGZNS2tlazNQM3Q4aDRlb3RmNldpbFMxMVVOQ1RPZVc4NFFVdndF?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Why Heineken Stock Was so Frothy Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEJ0S1VoRTBvYjRodkp2TGtBcUt2OElCWFVaWllYXzNIdENyMWg5OWJVM0hNcXlHMldtM3lpU2ViSDdjYkVkaFdvSlIwaFZoa3VFaHYtQjVPeVJJYnRtVldEa3hqbmFuM2FFbGh1X0Rab2stR2lSZWVhcnJGMlpBSXVGWmludjU5?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "CrowdStrike vs. Palo Alto Networks — why Wall Street values these stocks so differently - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDRQc2lTaXRjZ2IyRFNXQWtyUGcwNzZ6UTFvWmwwZU1XSWx2VWJhZXNvQ1dRUkV1WUhtZlA4a2tOcVZvb21rUTlkM0tqZExCVi1oMGFlMVlWaW1kMGRrLVAtbWlxNm9NX2JuMXBTWnpqM3ZScl9ZSGtkdnRNb1ZTY0duWHVEVEg1c3pHTWFOVFZPMFEzWnA0bUhzVnF1ajR2XzR1VnhjcS11Q2xNM0tXQkZKYnlOSENWY1dFcDdn?oc=5",
-        "label": "NEUTRAL"
+        "title": "25 Best-Performing Stocks in 2025 (As of June) - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MEZpeExUNWt0RTk3QXFkclBSd3ZzMDU4aTc0OGVpcjNnd2x1NWFsbi1JaWRKNnZ1REVkSFlqenB5TEU0N2x1Z3UxNEw3bW9uUDh5V3FDYTBSSk1MSXlwaXpseV9hOWNCMnRWWVMxdEY4SHkyT1E?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Southern Co. (SO) Stock Sinks As Market Gains: Here's Why - Nasdaq",
@@ -586,58 +581,23 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Boasting A 12% Return On Equity, Is The Southern Company (NYSE:SO) A Top Quality Stock? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFpMaWwyUzhHN294UnY2dzhlbWkxY3g2b3VYOEo0NVVRYWVmakFKb2wzR0xYQkRRTWlaZmxpaUhsYUdkYTJMWGdoZmpsbGRwLVNMZ00xZHR5bUdsVk84eUIzdXhueW5uV1pSaG83M0phNTJfMTB3RGVUMnlobEZvVW1qSUpUNG95a2VReERwY2s1aFFiTW90Qk00NFllekI3OFVDSU8xVnU0allIMXlBeElLY2tLZDBDQWFFc1oydElTZ9IBxwFBVV95cUxQRTRjV2Q5c1FjY0YwX09xTXJVdFpxQWQwekNhX0FBMmhQaVlxOEQtX1Yya2p6SmlaVnp2NVBCQ3NwWTBHX2dPU3BFcnRnd0NobmdScGpobDd1NVJHcGVyNWN1NHk5R25sbHlGVEtfT2NmR0taQ1d0TWlaS2pCNmd3VXU3cU5RLW9xS0N3T0ZwRkpRUktUNjJpbVgtdHJEQTFaR3g5WDRHRmQ3MlFCUDFrcGdicVI2T3JqWDZDWFhmalBRcDFDcWcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Algonquin Power Taps 30-Year Southern Company Executive to Lead Critical Regulatory Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnREUk0yNXAwdlNNSEpSNy1BSzhfYm5UVnpOWFpnOUFZMi03eUMxaUNWazRBS2x5ZG9fVGdRMm9oQWNqRmxDRU1Lc0h6LU1PWFVNczNRUmZRS29iXzBscExZZUlyNzZVX195WTJSWlJmTGFjT2ZVTDdVLXVRVnJZVXlRS1RQTGZjSnQ5T0dmcmNMZk1MTE1zRFhvSDVRSkRzNGowRXZmQWJiNlpheDZoOW9XNW9BNG1zLWVSVERn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why This Stock Market Makes So Many of Us Want to Scream - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNRmFnTXp5WlVpMDA0ZWpSOHlUSVBoWTQ0b1FxZF8zcm9PcmZ1NHV2Mm5qSU1MVzVIdVcya0RxX0JMSWMxVG9LZElCMHpaWEJPbEZPc1NOMzFaMS1vUDNmeVMxWkpWWWpqTHlRUnAzWm9NTWpsbUhfTWhGV2ppX19BOUFwMGpha2syZTN2UGVCZEp0MlFtRzV3Zk5TUjY1WHp1NjdvNTJhb0ZMa24yVERZYVUteHlfSFZJM3Q5Y0JxeGpyQkZPWWg2dEdhbUdvSXRMRjE3MXNNZmZ4R1dUTDZ0bTV4RUtxZVp4RGx4RzdVX0ZyY1puXzNpUEpoQzZjT0E3NFhRQnJVZG4zaVZQR1VrSy1HajBoQU9Ubzc1UHpCeEx4MkFlZC1NakgxQjNZZTFEbWFsZTBhTGVHbTB4bk1Mdmg1MmlNQU5zODN2TUV0YkhBVlRST252bmE0bWVEaHlaUlI3R29jSUpQYUo5WGw5dURhLTBLbjExVTNVdGN5REZIc3A4TjV0UC1XWWEwTC02MlZnWktKQS0xeW5WR2ZXVE4tbXE0eU4tNXNR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOaEZUU0o4WkVNcDAtUHgyNWM3X19ZRVR5ZzBrVDN4ZkNGSnVOeEhsRXdjUjViYjk2QTkyV0tQNWNSMzQzMFJveFF1bVJCTkZJNkdrWDlQWWIxRlFGclNxb1NmQXNpWnp2VmV4UlBZRTktZVBRbWVmMWoycmNXQ2pHMzFmQmd6V0JMQWJqWWI4QUpvWmFpTWRoOHpUOVNySjBkTGM4RWJIMU5DRmhoSWRzX3NUUVdsM1h3U0xId3JlNkxyNF9tWnVFZ3BwNnpqczVBWUhhVjVUTzczMGhpNU4xMDV4eTZpYmQ2d2tVdktiZDh3VmtUak5HNnhKNlZzNmNEbllRb1gzTFhTRlNxV1VOd2lOdWpqcW9xdVprcnVONVl5dkpWVEhmUDhGT3c2dVFMQ2tmX05pQ2xKLUhmeEFFZnJNYTZxMlRNMWtSMjJMNlFhREZPdVE1UUMzM0kyeXJLYzBSLWxjT0VVd3lGQWVKYkZ2VGduQzdpanVaMklyZ0hoZEJlalBfV2tSZmJHbXY2NFFuRHRiRnVRckdwWV9BVTNTdXhLSUc5eElB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Zebulon mayor will not resign despite calls to do so, shares plans to move forward - WRAL.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUF9TNlluRTRkbVdrSGNzMHNUS1F2NkJodFFpRWpnTDVHUzctTVJ4b3E1Vm1GN3N5dlJjOHVfcEtyY3Z0RnN6UE5rWE1ZRWpXLXhmSjNTeTNSR1NnWE9RSElmWkYyR09vZHdPVVQ3ZzQ0ZERfVVVNdGl3aXlUcl9uN1cyS0VVRGg0VjJ4Mno2dzNsejNiTVZ5aQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Did Nvidia just dispel the bear case for its stock? Why this analyst thinks so. - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGxXRWFreFIzdFVta2MxWU9MYzd0X0lYRFdhVk5sNHRBbkw5Z0JMTFMzNDZSN1F3T201cDlMV1lYV2hpaVVQNVR3cG02Y2ZoYTV5TnBhU01DZXllN19VUXNKZG5IYy02TVI5bThueG9sUTFZNlRzclVueWdTcWFYUnc0am1ZNTNsNWNYSHREMmoxZXlXQXVnZzRxcVhMLWYzby01cGtaVEJmc3B3TDFOVUtPcHlmbmNoelNBQm5KZlBtQ3lXMGlZWWExRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Duke Energy Stock Underperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUVqOHBiWjBxb3lEbUNFY0dWMDUyUFFMc200b01MQi1fQmVmRXZ6ajRjRHQ4eldWemJGRTZjd2h3SWNiY2hGWndfcDZFXzlGcUc5TDFJQTI1blpNZlRFX3d2RndHSXBLODhDaWdSOHBqRzdMX2piU3lCVFhRQ1BSSkoteGFXTHlaMEVlMTcwaDc3Z1BqX3VOeUZmblZQT2VfRm1vaDNQQ2I0NkxheFNuRmZzMjdBWEgzcEQ1Q3JUTEVRTVhtWTZPcHo1MTV6Zw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "This Monster Dividend Growth Stock Is Up 50% So Far This Year - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcktmR3pPRV9ZY243c2RKTXNsaVkxQ0x1WUJYSE9NSElFMG5HUXpDYzU1MHdUR09ETS0tZG1pbFRzQzVEeVJVUExMVExYQ1RJbzJyNjAxdkxwOVluMjFUZnZpVGVUckwzZG9ub2R0Tk9Rbk5ITXUxR3IyTlNxWVZILUZsakg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Amazon Stock Is Up, So What Is The Best Play Here? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDVVWExha29WN2EySHBESEI4cHY3M1JxRW83NERFU3JFYkVxcmlvNXBobEoyX1JOcWp4N21JbU5kX25KNFpKemdyOFZLMThpZ0xqc2ppd0NnTTcxSmZZdGctVmZXQlJjTlhWT0twMk85eEpndzFtOXpuU0lkNVUwR0RWTjJMTHZTNzF4ZGRJMldYLS0wQUh5Nw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SouthStar Energy Services Piloting Full Supply Chain Emissions Tracking with MiQ's MethaneScout™ Platform - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckVCU1hpVXJzVkRrQ1BkYS1kNzdCMXJ2T2ZlQ1V3NlVfeXp6Ykdjckc1SjJRMXNNTVhHZjNqTmo0aHQ5b3hiNUpFLUxtN0gzU0hEVjJYU0pwUkl5a0dLR0JIcldIR1htY1ZOR3ZJY25EbmUyR2V5bXdCWi1aNjgyZWdTNXlNNlVlRmRUZzlmUUxCb1phVjgwdjBCc2JBWFFyRFdpYlBzYTdHYXZfbmdNNlhCYUY0TXM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Southern Company (SO) Receives Analyst Upgrade and Price Target Adjustment | SO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeU02ZFE5MFBtOUlKQlk5UXBuQ0F1ZWRRcE51ZVU2RktrZXVhSzJKMFRUX2tFTHpqQWt2bWx5YXBaRm1VTERiNk13ZDloN0tydjNQMEpweVNBS2RyUFRra1Q2WWpld2xtR3NpQkR1czJkTFZTRTQwODBycDBZdjRVaEFKOXJfamI3TTBSTGFzb0dVWGpZQnNhaXJDMFBlMXBwTEw2TWRscWxONU02dzhQUkZDY0YteW9ZNDc1bWoydnZQR0Vw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Monster Dividend Growth Stock Is Up 50% So Far This Year - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1Z5VVVzMjZQTlZ2N0xFQ3lUWFc5U3AydHlER1ZkZnBIQ3QzWTZrQmNoOGtRbkF4N2VXeVBvT1pMdW5IYkxic0QzMEdDaEJIOXh0WG9YUzVMOFhmQmJxVnEwSEh4NGZzUzVlWWp0ZVU2VnVxdlZNRHg5Ukc5TDdKUEJ4NmtHZGFyM1FWLTRJUXpfMUREcy0zdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Southern Co. (SO) Stock Moves -0.15%: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjRMUDN3ZVlQaVF4R0NSVjFCcGtROTB6WTB4dVhQczV2Y0llcktvOFFnWDNmU1lkdFBpdDNSOTNlbWlCX3F3U21yeXR6dmMtX0pTX2Y5VnhuMGllSVVpWFhwU1hCMjJLcDVvVG1WNThtaGlldUQ5UW1rejhuYnRFdGxTNHlHaEEtdzgw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Southern Co. (SO) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTc4a1E2akJXMUxMcmZwVW1BLTVCdUl0RWU1bnI4SnBSbDE1b2U2VklKOWJEMlZ0TDk5dDBRcVE0eXVYODk2MUlnSExnV1JWZ2dUTVo1Y3U3TGQ3UkZzSDVsbEJ6MGJWQjRpQk05Z0JXc2ZldnlSZENENk5WTVRReTlDVQ?oc=5",
+        "title": "Baidu Crushes Q1 Forecasts--So Why Is the Stock Sinking? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmIzZTBsV0ktTktzRUJPQjBGMHNlaEtlVVhnQzNpTVppbDVsUnR2VGJHN3hmQ1ZQMkNIMl9ZaDNRSGRKS0F5eGUyVThWR2x4MmhwR0haS2dnZndLYUVHcW1BX3E2d3ZfcjlBeUlKOG5kR0NGcTJJMHVSdWlhOUdhR1lB?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -646,16 +606,56 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Southern Company (SO) Receives Upgrade with Promising Growth Forecast | SO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ3FPMk5yYVNzdkVLZFpqa0NHc0NROXFfMXBaMnRpZ0p2Tm5aR184ZEx1WmpzUDIwTXQwSnpEVE5uZnpOY2RYX2VkVnJzWDhZWDBybThXRDRNM3lEMXRuY3VYX0pfNEZEME16eUpIS2p0LW8ycVFjZWp4WXdLamNaYUdWZmEyTXVKUWhvWE83UUQyX0paejJaaWRpWU1JMUI3aDBHZDhiZVk3V3BIVXB3aUtFdmRUa0ViMDB0SzFIVU5GN3JHdDF1aERUZXpVU3IwbHhUY3BESE1EaUhDTnFhVHNvU25CMWl2V1RmZHdEVWw2RkdyYmR0VWlUSy1TUlBrTzRZ?oc=5",
+        "title": "Save up to 40% on Stanley tumblers right now - SFGATE",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQ3M2aUd2RlBXRnktanZnNGJkZlFJeEJibU14a24yemlsNFlWLW04bnQ3Z1dvSGh4bDBuR0l6RXJVOERtOWljM19fQ2xxSVdHbVdCUHJGcUZwUW9zQkJxQmo4ZUJiSzhOYWI5emVnVEZWcVQ1YmdYT3Q0VjF3MzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James Gives Southern Company (SO) an Outperform Rating | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONm9KeWgtNHp1TWdZbFI2cTN1dzdrUWJxUF9hWkJDTnZUX2JLcjIwbzVXRUF5VmZab01MOG1jeGZLNGVDSUdISEd2QTluNXNSYUt4dEZwcnh5M3dsR0JoOHBkZHRNaS1hbnREcGlvb0lCOG84MEtxeXlpVmVhdHJxSUFSVzlaQURYQXVsM0I3b0J5dVp1YjdBY2Fad1ZYSVlsWEY5WmVaSFhCVmc1NVdCQ3Q1RQ?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Moves -0.15%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjRMUDN3ZVlQaVF4R0NSVjFCcGtROTB6WTB4dVhQczV2Y0llcktvOFFnWDNmU1lkdFBpdDNSOTNlbWlCX3F3U21yeXR6dmMtX0pTX2Y5VnhuMGllSVVpWFhwU1hCMjJLcDVvVG1WNThtaGlldUQ5UW1rejhuYnRFdGxTNHlHaEEtdzgw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Southern Company (SO) the Best Dividend Stock to Buy for Long-Term Passive Income? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0JRX0pzeVNGRWlTN3pfdkZfcG5DdWRKWXo2YTVXdkw4Sk5aUkljNWFZTUZoU3hvLXpZUF8yS0EwZ0ZjbzZDU1FGbFJfVnBxWktXT3dLc2Y1OW54NlQzeGFMd2ZQMnpQUHhPdVl2b1ZNbTN5YW9qYWg5eHV4NjUxLWNVN19uYzNVdUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Company Raises $1.45B in Upsized Convertible Notes Deal to Refinance Existing Debt - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0RCb0dUSnJieHJ5THhXakhHZHA4cVlQZHdscUV0ZTJZOTdjUEpUQ1ZDNWhBanNJYm5mbkJ0UmtpNWxSdkZIOFU5b2NWSV9vYjFtX1VTb0t3bjAycFIzeDZDR1dyRm9TZUJiNHBBSm11aEUzT1I0UzN1dmZmb3dCbW5ScGM4MFpGLXZRZEs5NjM1OUdDTnhJTzg1S2F2NFJqVmdLZmI0R0Z4UTdBa1pIS1NDOHFFeUNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James Rates Southern Company (SO) as Outperform with $98 Target | SO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1FZallpM2REeHZNdlFTNXZtRDdtajBYUmN3VWpldm9vSUl5SjVuUXhaeWVyMWlWemZPZGtiVG1tMFVkMTZOblVBdEtWM1l4QXVUU0Jma2VZOXdyY2tObnNKaWlTdXd1UTR3T2dESmFmZ2R4MzBFVGZLMXlYQkNadmJXUDkyZE1qcmh1TlFnNFlkVTkzRzRKS2IwT2l5Qm1XeE5nelo3T3VmQWdrYWNKeTFfLTJKcks5em5xVE9VWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Drops Despite Market Gains: Important Facts to Note - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW5zZzMtS1R3WTFWNXFBODA0TTBlSDZGV3lFTGRxVnAyNVk0SDEzOXNRVzUwaGRwb0tUV1B2c25Cb1ZtbERQT0YyWGwyS2wtM0xWZGRNdzhjdzE0VnhINDE5QlhxajBfUGphckRsT1FMSWI5T2RPQXY5VS1zMmpPdkJzRm5zYjBXMU1vNG9uMmtQejNIWHAzd1VYX2Z6VTY5TUV0ag?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Hold Strategy Is Apt for Southern Company Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuN2JJTjJhUGJhVTRwbXE0RlM5MmhkX2NKR2ZJUGpoTDZoQnpPMUpURmt5b1ZKc1FTNmY0R0RORDdHUGs0M2VsazRWdnhBZ3A0cGgtV0ZPZUdHb01HZUQ4VEE0RlAtR0VLYkszRHdkZkE4S0s3dmhGb0NIdDFzQQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Southern Co. (SO) Stock Moves -1.72%: What You Should Know - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JQzRhZnVSN3hOS2hKSEM2T0xNbE0yX0xfV0c1VS1BdmtWU0FDeC1KYlpXOEpnQ284SmxMOVY4WlN1RnhLMHpRQnI4Z1pIOHc3dC16U2N3WHdGNlhhSW91SFQ3NjRpMVhYa2pReTZTaG9XMklCZkpTQ2FzOA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Laps the Stock Market: Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekdzNGtfRFk0dG50aXN0QjRaQ3FmLUVFaDNxLVd0LWxOWTdod1lWSlNkMzdJWXBwZVhBSkF2TXlsaWQzMWljREo1bGlvVDh3LWptZWEzcGprd0UzeXktdHgyaFNwbzhzZmNMRFJ3UFNaSWtvNXZhU1NZVnoxSEdMWWNn?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "7731.T",
   "name": "Nikon",
   "sector": "Industrials",
-  "market_cap": 467536019456.0,
+  "market_cap": 461613662208.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 80.01126,
-    "PB": 0.7324165,
-    "EV_Revenue": 0.697,
+    "PE": 78.95329,
+    "PB": 0.72313887,
+    "EV_Revenue": 0.689,
     "ROE": 0.00925,
     "ProfitMargin": 0.00856,
     "GrossMargin": 0.43613997,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.033123685851046275,
     "ROA": 0.008909999,
     "PEG": null,
-    "EV_EBITDA": 8.27,
+    "EV_EBITDA": 8.172,
     "BuybackYield": null,
-    "PriceToFCF": -19.733190005140557
+    "PriceToFCF": -19.48322637455422
   },
   "technical_indicators": {
-    "RSI_14": 48.25502021317763,
-    "Momentum_10": 1.5,
-    "MACD": -3.4159413215763834,
-    "BB_Percent": 0.4664424587609361,
+    "RSI_14": 45.85615697675325,
+    "Momentum_10": -3.838245373543523,
+    "MACD": -1.763315318235982,
+    "BB_Percent": 0.3220832146625368,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9246774218408094,
+    "ValueScore": 0.8866480774635871,
     "QualityScore": 0.4353914164388489,
-    "SignalScore": 0.5851997768099257
+    "SignalScore": 0.6233286416337118
   },
-  "volatility": 0.0231985867053304,
+  "volatility": 0.0235642078024469,
   "beta": 0.181,
-  "return_6m": -0.1283394045695712,
+  "return_6m": -0.1556958838637554,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 11,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1656.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1646.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1656.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1650.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1697.5
-      },
       {
         "date": "2024-12-13",
         "price": 1688.0
@@ -525,32 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 1421.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1406.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1420.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1475.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1444.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1403.0
       }
     ],
     "current_price_data": {
-      "price": 1421.0,
-      "change": -22.5,
-      "percent_change": -1.56
+      "price": 1403.0,
+      "change": -41.5,
+      "percent_change": -2.87
     }
   },
   "news_sentiment": {
-    "summary": "Malgré la tendance à la baisse des bénéfices chez Nikon (TSE:7731), l'action progresse de 4,2%, affichant des gains sur cinq ans de 67%. Le marché mondial de l'équipement de lithographie devrait atteindre 49,6 milliards de dollars d'ici 2033, avec un TCAC de 7,5%. Cependant, le déclin de Kodak se poursuit, soulignant les défis persistants dans le secteur de la photographie. Ces événements peuvent influencer le sentiment des investisseurs face à l'industrie de la technologie et de l'imagerie.",
-    "sentiment_score": 0.333,
-    "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
+    "summary": "Blackstone envisage de vendre sa participation dans le fabricant d'appareils photo Leica, ce qui pourrait indiquer une possible restructuration ou une prise de bénéfices. Parallèlement, l'effacement du « moment Kodak » souligne les défis persistants pour les entreprises traditionnelles dans un environnement numérisé, ce qui pourrait inciter les investisseurs à se tourner vers des secteurs plus innovants. Ces nouvelles pourraient influencer le sentiment de marché en mettant en lumière la nécessité pour les entreprises de s'adapter aux évolutions technologiques rapides et de diversifier leurs activités pour rester compétitives.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
     "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Despite the downward trend in earnings at Nikon (TSE:7731) the stock ascends 4.2%, bringing five-year gains to 67% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeUdETXlGUk9WbkQ0WWNLNmlUZXNlMWpyNjRKVkpybjhrVDZ3ZWNhekwtUjh3QVdFU3JDeF9reE9SUU53cEo3eTMxMGZRZzRHcjVqcFROSFU3aXVFQjFjeVlnVkZGR0I0OElxa0x2S2JJSmJCMHB1MUZtMURiQkxmUGJiZHdnTHVPSXdrSzJ4Zk5BUHl0UWYtbEhVdnBaN2V5WkdZbmtVQlpLZkZTbUx6LXBjRHF4T0dkZ1JEdGFWOWNVeWNmNTFnSWZjUmstY09NSVHSAdcBQVVfeXFMTkI3NVFEWGlHaU9sQXFTdHVOcHFYb05scDFTVC1zVnVXM1NpYVNIZW9CTFlXaDU0YXFkbE5iZDR4c1N2cDlFcmt6bFJSNzZEQkNtQjZMbUpVM0dfVk9TazJwZGttNVBfZlZwZmFZMlVtSnh0SGlRXzhYY29UcFpfSlJLTS10QkRGR1hYTW5jVk1RYVFjeFhxZGxtQlBJZUJ3YVlfZVNNWFBXRHNrZXVSN2FhejhkQ3BlWXVqZkg5b0YySVRnSmZ4UHZRTE5sSDdyZU54WElFbVk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "[Latest] Global Lithography Equipment Market Size/Share Worth USD 49.6 Billion by 2033 at a 7.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkt0Rng2NTU3LUdEdlN2bGs4cXFveW5ocUlZYVZublQ0RXNwUVVET2JGbFRfYjJSckg3bk1GbGlhdElqbVo1UENjdF82T04zOFBJMGt1RlE3Mk9ZeDhkSGpKSmt2MzFHWDBUQXdmZzdPRTVjVjRkTWxTb01kTUstWkYwY2h4ZmNuRUpSdmdEeXk4Zw?oc=5",
+        "title": "Exclusive: Blackstone in talks to sell stake in camera maker Leica - sources - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSm5OR2FwazE4VFFxaGxJenZwR2JsdS01OWIwci15MDJxLVVmUE44QlVhdGFCLTFFSnNrbkl0V2NxVzdKWUI3a1Z3Vlc2bG9YTWN6akU1T3pMQ3hrY0hsTU5ubGFjVWF4Y2xFUmMtejVLdEs0NEtqZWxPYzFudk5qUmptVHJxUVBlSkNqdm9FS3RrMUU3b3ZyTVJLcW5QcmZCMUJuTVJvbTVIOElWQ1U4a3BRSlhYcmNMbHlTTmR4TnFoVkZ0cTlOQ01yTXBRQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -560,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

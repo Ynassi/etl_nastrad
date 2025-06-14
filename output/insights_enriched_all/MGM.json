@@ -2,12 +2,12 @@
   "ticker": "MGM",
   "name": "MGM Resorts",
   "sector": "Consumer Discretionary",
-  "market_cap": 8647534592.0,
+  "market_cap": 8650255360.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.185267,
-    "PB": 3.1139748,
-    "EV_Revenue": 2.269,
+    "PE": 14.189732,
+    "PB": 3.1149547,
+    "EV_Revenue": 2.299,
     "ROE": 0.2582,
     "ProfitMargin": 0.03955,
     "GrossMargin": 0.45415002,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.03247851869780951,
     "ROA": 0.02345,
     "PEG": null,
-    "EV_EBITDA": 15.896,
+    "EV_EBITDA": 16.102,
     "BuybackYield": null,
-    "PriceToFCF": 15.571155908302385
+    "PriceToFCF": 15.517360636710787
   },
   "technical_indicators": {
-    "RSI_14": 49.07938905020266,
-    "Momentum_10": 1.4513554008598826,
-    "MACD": -0.0595990357445543,
-    "BB_Percent": 0.3522568813291263,
+    "RSI_14": 46.34175214488458,
+    "Momentum_10": 0.0158011632717568,
+    "MACD": 0.1518954938418204,
+    "BB_Percent": 0.3408370305708392,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9331214532854708,
+    "ValueScore": 0.8904690276006383,
     "QualityScore": 0.2621974020179413,
-    "SignalScore": 0.5806995040332019
+    "SignalScore": 0.5999563413987616
   },
-  "volatility": 0.0310053108086241,
+  "volatility": 0.031347411743939,
   "beta": 1.767,
-  "return_6m": -0.1332515070707692,
+  "return_6m": -0.1231724180024246,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 45.82368
+    "target_mean_price": 45.98158
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 36.6
-      },
-      {
-        "date": "2024-12-10",
-        "price": 36.52
-      },
-      {
-        "date": "2024-12-11",
-        "price": 36.94
-      },
-      {
-        "date": "2024-12-12",
-        "price": 36.8
-      },
-      {
-        "date": "2024-12-13",
-        "price": 36.25
-      },
       {
         "date": "2024-12-16",
         "price": 35.28
@@ -537,37 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 31.86
+      },
+      {
+        "date": "2025-06-09",
+        "price": 32.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 33.39
+      },
+      {
+        "date": "2025-06-11",
+        "price": 33.23
+      },
+      {
+        "date": "2025-06-12",
+        "price": 33.14
+      },
+      {
+        "date": "2025-06-13",
+        "price": 31.73
       }
     ],
     "current_price_data": {
-      "price": 31.86,
-      "change": 0.54,
-      "percent_change": 1.72
+      "price": 31.73,
+      "change": -1.41,
+      "percent_change": -4.25
     }
   },
   "news_sentiment": {
-    "summary": "MGM Resorts International a récemment publié des résultats financiers solides pour le premier trimestre 2025, avec un intérêt croissant des investisseurs institutionnels. Les actions de MGM ont suscité l'intérêt des gestionnaires de fonds, malgré certains ajustements de portefeuille effectués par certains acteurs du marché. Les perspectives de croissance future, notamment liées à l'activité à Macao et aux offres numériques, ont contribué à une hausse significative du cours de l'action, soulignant un regain de confiance des investisseurs.",
-    "sentiment_score": null,
+    "summary": "L'actualité récente autour de MGM Resorts International a été marquée par des ventes d'initiés importantes, notamment par le directeur Keith A. Meister. Malgré ces cessions, des signaux positifs émergent, avec des achats de parts par des acteurs tels que SG Americas Securities LLC et GAMMA Investing LLC. Les résultats financiers du premier trimestre 2025 ont été publiés, reflétant une pression due aux préoccupations de santé des consommateurs et à la faiblesse générale du marché, mais également des perspectives de croissance avec la performance solide de Macao et des activités numériques. Ces événements combinés pourraient influencer positivement le sentiment des investisseurs sur MGM, avec des analystes soulignant un potentiel de hausse de 60% si l'action retrouve ses niveaux pré-choc d'inflation.",
+    "sentiment_score": -0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "MGM RESORTS INTERNATIONAL REPORTS FIRST QUARTER 2025 FINANCIAL AND OPERATING RESULTS - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTjlxNlgyeVRhLTRuVmdVTEk5WGZPWUpMQW53a0NrUXlKSE1BcDdKRnZJdE5FVTB1OWZYbXpjdWRNNnJnUHQyLTJaV2t6aVBuTXVNV002SE9uSmFlcUdReVVZbm5qNnNJaEhHd0dCNDFPY0tMczlISTE1eEZEa2s3aFJOS2JzdVZwbjMzV1RQblZaNzlXd1dwbDRTLV9TMkRtX3hrZDlzaVg0NnRLOWpVYW1VQmh6dlBYMGpJWWZ5d25oVkdyclZzRl9UV2JieU82MTM3S29QQQ?oc=5",
+        "title": "Insider Sale: Director at $MGM Sells 366 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04ZHgtSUtxTmc1UXUxV1BScUxNcmhBd0RmYUVIcFBZallpUExQVWd3bHo4dkdsYkVzRGh4RXNYM0s4elZWcFN4ZFl6dmlGNjdxT3RvcURZVHhGLXFEZ3VPanRfN243NmJacmx0eTlmNjE1VW04ZlJXQ3BMSUdyR2s?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MGM Resorts International (NYSE:MGM) Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZjdROGl5ajhHTmhLT2VUXzRleFVVVEd3MHp2NG5XenJYTm40Y01tcUo3aGdzdzVucDhyd2lwTXc2T3VIdkc4Zk1SY2xyVnpvaVZqQWlmaTROdFhTZzAyUzRDS2xSaFVEOVJtXzg1b2x2b1Fjcjdfcng0MXF0U0NBZEtyLU9UQjRtM1c5djVTYktHa1VXdG1ycE0yZkZjNWJGdkVtWFVfQlNwMExkOUlOUU1xTU5zWEVnOWhPZDM3YTJRaXJoSlhVNEF2Zk1KRGxUazZWSkZLVFZzN21aTHpEcWltM1kzaTZkX3FnYXJEWTB3YkczdXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Is MGM Resorts International's (NYSE:MGM) Share Price Doing? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ1JYNUNRY014ZlppQ1EzaVVHcl9obVQ4V1IyZFppMy1oUnhkdVlEdjIyalE2SlAzS0JKdEJqMklvTDNZMXNTMTc1dWV1RTVJWE9VX2tTU0VRNG5xcEpMNFl5MDdEMEozcHRybE9YNmhJQlJkZkdpYjlDNE9ZMXNCY1dJWWhLckw4WGdDM1dWQ0QyaDNUWTdYYksyY1NPVm1Zd1dKaXJHUTY5anBnUmhEazlFOTQ0aWk4aWRwVnJfQlZXU3hRSlBRdzdyQkt5SFhQVExUUWFVSjVXZXdkMDBvUEpoUDnSAeoBQVVfeXFMTUpkck9lTUVTdlQ5LWJHd3p3enk0Zy1wMF9YX3NVdW9BdEYzX1ZVdGVGTmtYRVdBMWRxRUFFY1VvUWZ0d3NRdmhlNnBkMXU4QnBfaHhxSXI4ODBwLXd6WHJjdlY1ME8wY1UyQU1jUHFBQUd5c0NkblYzVkpKZjBkd1NDeXBnakg1TjBHNUY5aVNNQy1objNYZGJDSEYwSDdrZ1FuMlBWejM2cTR0WGhzT0c0UWw3c3NlUXZuOTRLYlVOUTgzWDdLcmpzMUJzdEdNTHhza2dpV1J2d2FTbFRiQm5aUmxOeXJOVVZR?oc=5",
+        "title": "Keith A. Meister Sells 60,000 Shares of MGM Resorts International (NYSE:MGM) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdzhmVFpNQlNzeEJ6ZnhFdE4waWdsbFY3d3VEZ2tuWXItTC1PNERiam5HZHNvS3VVZjl5M0pUMlNWRFU3bXh3MVd4WmtwZW93WXFpd1E0dV9SNEUzUC1pZVlDNXhVMDIwVnR3LW1wNEJBXzNlQktySWd5OHRCTWtZdENGaHd2Z0ZhLTJrNWgtMDBZaWJxcjVLX2hUcUlxNldSMXZZeFp4TV9tWldLc1pUOTlRVHk3M044NzZhWlRHdGswSzlLNU0yQUlycw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,9 +571,34 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Have Insiders Sold MGM Resorts International Shares Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVU9XWEtXM0FPWXpxbnlaTDVjVzBERVVfVEdsRldtNHNPWGlzeWJTS3Vjd2tDWmR1UHU5SFR6cDhWcDExdWk3WEt5U3RPakNELXVaempXVk5wZmZwYU9HTzRYVW5WdmhHZ2FHb25sLUU1cHkxZjViSUU0M21BaUV2YzM5Y190WW5QVUtkZTRXa3k2ZEZBVUVyOVlCdFBNM0Y1WTM5MHF6MXRrU2ZNaHZsLVRCZFBJZTR6Sy1xSnN4eEgwVTBWWjBHbGsxSm9RSVBSX0JuR2lDTDdGUnpaczhWY2ZJNmTSAeoBQVVfeXFMT25ocXVwVzNCXzNUQ0plZTZ3VmJqMHBELTlLbzBaUnYwTXZNWFctUDMwUVo3YXlTUk9kWGFsZVJwSEd1eGpSVjFQeUlKekFDSjlnV2x4NHBRNnY5NWVkcnZkUmoyX3dxcHNhMUMzV3A5VkZlMnZBQTQyT0NqWkoyX1lIeHNRMmk3ZkFvTzVNM1BuWUFreG1TakJ4YkNibDBiTmRWTUVDLXBoMG52dFFNSjhqMG9OTlJSb3NEQ0Vlamt0bkl1ZjN5NzZHYThHWHdFQ2pPWDlLbUMzTVlrSWRHZTEtMVcxU3U5Q3pR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MGM RESORTS INTERNATIONAL REPORTS FIRST QUARTER 2025 FINANCIAL AND OPERATING RESULTS - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTjlxNlgyeVRhLTRuVmdVTEk5WGZPWUpMQW53a0NrUXlKSE1BcDdKRnZJdE5FVTB1OWZYbXpjdWRNNnJnUHQyLTJaV2t6aVBuTXVNV002SE9uSmFlcUdReVVZbm5qNnNJaEhHd0dCNDFPY0tMczlISTE1eEZEa2s3aFJOS2JzdVZwbjMzV1RQblZaNzlXd1dwbDRTLV9TMkRtX3hrZDlzaVg0NnRLOWpVYW1VQmh6dlBYMGpJWWZ5d25oVkdyclZzRl9UV2JieU82MTM3S29QQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MGM Resorts International (NYSE:MGM) Shares Purchased by SG Americas Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMDVrYTBQX21xUWlDS0tkTFNIU25PVnVZY3huUjA3a2ZZMGNGM3ZGOERoOGl2RzVOa0lyUlF0Y3dRRHAwbVZQNERSaXhYdUNVZVpvUkIwamhwdlhUc21fYzBrLWpTWDZwSDVIeVBRS01Nd0FabkxNeVZQNTE1UjlOd05mT0hvWHZsQWU5T3dZTVNHZGd1LTlRVTlFQWFrNnNCem1uSFpwZ0hKVFJoYzRpY0J2ZUlJVFpJVjhQQkd2bWRmWWk5YjRMRW5Xc3BLaGg1OFV0NXZLYnBreTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "How Will MGM Stock React To Its Upcoming Q1 Earnings? - Trefis",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTZUUDRmZjM3dk1uUGNLQ3lTR0kyR0szUVlWY0tFRy15WnpZR3p2QVRTdHlEQVFaVy11TFY0THJqTmpXOEZfRW5mYWxiTjVsUHRJM3FfOWs2UnByd3d5Y1YzdEtTRUkzV3Bya1Q4RFhKQWJ0OXZJTmFxQUswcmVRRmxZX2hCdlJ0Um5IYlU2YVA0OV9CRENzeXRBX2VBYXdZYW5reHNGb1lsamVXVzlMSlFn?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "MGM Resorts stock holds Market Outperform rating at Citizens JMP - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGZ5ajltX2xmUnpuQ2kwQzcyZklIVExHSWRrU2xlMU13bDhNdzQ2N3B3N2FjNV9EV2U4SExUellLOWthS3VtZ0trQlpCcGE0a0JNRXZIeGwtTjhhMHlSNXJjZXh4VnBaUzByVHVKM2lMWklsMjhYazFfbW5aSWZ5TExnaFZrQUs2Z0V6c0RySkZnQjJEaEFINU1TRVE5ejN4RER2TjRnVXg5TDhNWVNQdU1lQWotV2c1M2h6QnR6ZUVPZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MGM Resorts Stock Flashes Bullish Signal Ahead of Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXBBdHQ0UkhGdTdXb2ZYRW95TVZtWUQ0Z01hTWtmcmFzQzFGYmVDLXhxWEtPYVBIdkhPNE5uSjlDWFg5cEtzZ1B3cUw4dHA2aHhFS1FqMG5SYjlxZlNoX21QRkFrSFA2TDFTTEhmVTJYOHNPS3JzakdrR2lWcHFSc05yb2dfUQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "MGM Stock Could Rise 60% If It Recovers To Pre-Inflation Shock Highs - Forbes",
@@ -586,59 +606,39 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Consumer Health Concerns and General Market Weakness Pulled Down MGM Resorts International (MGM) in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzlpamVpX1dtM2Nxb0tYY1ZnS0hQbXN5ZkZlcC1NTDgtMm0xRmR3N3VtV2dMNEVXVmlRM3FtOHlPVzdkcDV0NTk1VFV0R0NpMnJtRTVvOWNKVlNXVGlzbGg1b21mYXdvNmttR0ZHeXBoYVU0YktOWkVMSkFuS2RIY3lET3k4ZlU0UkFOZDJoMll2OUdDZzBEbDdzRTZYTC1JOGFwTzItTmk0c0pHN0FJMm9YZnlyY1ZGS1E0ZWoxelNPSGQ5NEVnVUtqQ2dKTXFrVU9EUUUzQ3RMQjgx0gHkAUFVX3lxTE1oSUxBcnlUN3pPN1luVFc4Y2xHV3FwMzhid3lqNkxvZ1pna3BBWWxoVnAyZlR3U2ZmYlAtYTdId0htdUxFZWdGOWVPa1NtQkxraU1YRldNb0l4OXczdzl3b1dRR1o5V01mTThVb0VocENsaWQ3MHZ1TlFfVDdaemdwbnNxcDcxZExOSE9zSVFya3NxaGFZTFNBZ3JvamliRUFwT2ktbTlkdjJudjE2Tm10UzVlS0VYaWlkNzBaS180dmhvd25MNzI5R3paUUp3VWhxY1FwdkpiZ3hPSDV5eDVaN1JTag?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "S&P 500 Gains and Losses Today: MGM Stock Surges as Macau, Digital Businesses Thrive - Investopedia",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEFKektPRnJlckpSVU1xdUduRXB1OG5Vdkx0eU5PZlplNkVNOGQ2Q0JkOGNGTDI4b21uM3NPd2FqckN4YWhUN3RwNnlLU2lYQmJ6cXJ2Z09BTERfTW1fdmdjOEE1XzJabHA0MmJVVVhkSjlmNmpHRC1EcHNheHNuamE2bHk1OC1VYkZXdlJ1azlmVkNiajNPSXJZb1E2RGhxX0ZNLTZtOE96dklsX0dLcHlmYmNKUkpBNm1INU9qOUNTQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "WYNN, MGM, or CHDN: Which Casino Stock Holds the Winning Hand? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SHotYUgyaUZvenVsSzVuMlIyMEJMZkJUZjdUU2xCaTVma1NvWktCQW1DNm53ZUFVSklyMm5uSmFaYVdpQmVsUzU2UjZ6SzRaeEF5THZNVVlGZE1xMXI5T1hkYlZfazJPbFJHY1lpSlNrbGpMcFN6eHJ6UjA?oc=5",
+        "title": "Learn to Evaluate (MGM) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEU4aUtWU1JJNHpVeGhBQlZqUVBQbnNTWkFidnN6SEJMc21IZksxaVo2cHZNblc0WHZWUTA1dEI5S29yVjRxUU05djJTTnlLdjdMVE81eU1BVzJ2SUdXalpBQzlNU3Y3MDBEZ1lQRFN3eF85bFprel9CN2p0OEViS3pLVENnTUJXdXVIalRYcmlRazJCYWx3WmhoSUNxX3hmSmFXT3dwWTg3aF8yWVlZV3Nn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MGM Resorts International (NYSE:MGM) Stock Holdings Lowered by Graham Capital Management L.P. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR0NKNEtvTHZMbkZ4b0p1SGh4by14dW9UZVlnWkJBUmxFV1kxbnVtaHZKOGNzWDhsMGowazAzUnhmRTdTRi12ZXgwXy1CUnVMWnJtN2Y4bWw2NTBndXh3MG9oYktOVURZRVBrWFo1eHYyTkVLNnVWdzdObjkwUUJpMmhtNVJFTDV3dnkyVDZqOXZxVHI4RHpPVUFKUm5NdmxBbDEwT0ZDRWtMbVhCYlRQeDhpUllZWmdWRkdXNUo3RS1RZUFKNTJ6eHJnSDRaOEJxYnBiZkltM09qY3VqU2RZalBPeXI?oc=5",
-        "label": "NEUTRAL"
+        "title": "Miracle Mile Advisors LLC Decreases Stock Holdings in MGM Resorts International (NYSE:MGM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVy13VmN3a21HRDhzdjk2a3JXdG9TTWRLUmd1a3cxSzZMQkJNVDk1TXE0bUpEVlhhOW9mdFJKV1gzd1lzMUpNUWhSei1wY2xwQ0lTcHpBS05DQUdNQ2U0ck5uNXhKX3JySWNBbnZEbXUybDBXdTg2VkQzNXNValhndk9yV3BTX0pRblVOa1hCS1NuZDkzMHNLdmVoNE14SkIyaDEtbjJFdW5nTnRjU2JGVTRFUzBGNWJWSEU5MjVMTG9lbnhTV0VLeWlZU2wycDJGSzktNERB?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Have Insiders Sold MGM Resorts International Shares Recently? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVU9XWEtXM0FPWXpxbnlaTDVjVzBERVVfVEdsRldtNHNPWGlzeWJTS3Vjd2tDWmR1UHU5SFR6cDhWcDExdWk3WEt5U3RPakNELXVaempXVk5wZmZwYU9HTzRYVW5WdmhHZ2FHb25sLUU1cHkxZjViSUU0M21BaUV2YzM5Y190WW5QVUtkZTRXa3k2ZEZBVUVyOVlCdFBNM0Y1WTM5MHF6MXRrU2ZNaHZsLVRCZFBJZTR6Sy1xSnN4eEgwVTBWWjBHbGsxSm9RSVBSX0JuR2lDTDdGUnpaczhWY2ZJNmTSAeoBQVVfeXFMT25ocXVwVzNCXzNUQ0plZTZ3VmJqMHBELTlLbzBaUnYwTXZNWFctUDMwUVo3YXlTUk9kWGFsZVJwSEd1eGpSVjFQeUlKekFDSjlnV2x4NHBRNnY5NWVkcnZkUmoyX3dxcHNhMUMzV3A5VkZlMnZBQTQyT0NqWkoyX1lIeHNRMmk3ZkFvTzVNM1BuWUFreG1TakJ4YkNibDBiTmRWTUVDLXBoMG52dFFNSjhqMG9OTlJSb3NEQ0Vlamt0bkl1ZjN5NzZHYThHWHdFQ2pPWDlLbUMzTVlrSWRHZTEtMVcxU3U5Q3pR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MGM Resorts International (MGM): A Bull Case Theory - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFBpa2F4TFZvNmF4ODQ0TUhQN291T3lNWk5uRHQ4R2pRbFZyblAteWVmSzIzSWVMdGQycE1hbTJfLTBBbE53TnJuZGpqU05tb2RSZmh5WWhqa2s3UG4xQld5SFNwRkcybWp1ZEpfWXNJak42bTExS3ZWZElQRVdQTDFwT3JpYmM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Has $9.32 Million Stock Position in MGM Resorts International (NYSE:MGM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSkFRMHlFNWxjRm95TVp3VEZJMjJuSnZaUW5lOWtEc3B4bjFualNsVnhoSkxuQTV6SGF0RkRPa2VGeVU3QjhzXzlBTzJuekRhdUJVbHpfc0pSWnhjejNreVFBODEtdDNobGo5eTJOVGRQTVFrdDlwcGpkdi1ldHJFZnAxRTNKc0ZUNFhwM2NCSHBNWXVpOXVYVmU4VXFFTjJ0LWZ5a1NJTExmN3QtV1d6VmRrdGpkT08tTGhyZWQ0UTNrenBxYWlMUHA0ZUdnY0FIZ1hnSUwyRWFsUU82cHFGcHBHNWR1dlpVamg1b01n?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Are MGM Resorts (MGM) Shares Soaring Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpelVqV3FRMEZReVFDZzEtaUY4dUx3UWhlWHAtRFY1NThIS19RaVdYUGVQOTQ2ZzJvVENBdzRuQ21ySFZLRnJmdllub2stV2tiSERvVmRDWkxBS3NmVlhMbEluRkt4d2dSQlgyX2ZfdHFjaDFrRlVvVTd0dXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tidal Investments LLC Sells 27,019 Shares of MGM Resorts International (NYSE:MGM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWpWYkpIcVNYRlZza1JhazNBRUQ4dTBjN041SVVJbnpCSWpMQlRSNXAxMHJfbmJjZm1hYUtUUkRoU0dpSkU2dmY4dzVQcTJDTDdLcWw2b19wMmNLeUFvUk5pemo5Z3l2NjFOWTNlZGh5ZHU1ZDQ5N0NEZU5MUEZaWGdMaS1id25ZMVhUSl9FU2gzX3VTbGZ5amVzU2JZSmNkRTFneWEybVpER1FSb2ozS1dENnNZMjlhQVVhc2JEcWEzaFZTLTVfSzluNElsWFJJdDJlUm5RcjBXMDBkOEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Investors Should Retain MGM Resorts Stock for Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVk4S0IyY0YwUS1vcWdtQXU3ZFBNVVRZNGRkX1VOenl0Y3BIMEE5UmNSOGRmMGg0VVNfZmRwaGhfSFhSUHRYY0hEMXpiZWNFdm12WWxGdWdvaGtyaHlWV2JZLWFXNEs2NVhORGd6YVZmM0J5U2FaV3RHa29HOGRmWEZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires New Holdings in MGM Resorts International (NYSE:MGM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdUo5SmJFWHFCbzBOdGcxTFJ0RzFxUHM2VlZ6YU1vVmJaZlQ1NVJSbG1WampRYXdDY2d0TUJIWVZJajJEbEZTNnFJVWdJRUd0SENBcnE0WFBhZlFxOEFnMHJRVzBtZ3A1V0l0b2dEbWhNb0hhMTlEVXQyLUk3QXFOWFdFMENpQXNMX1lmZndvR0U2Y2hLSTlwNmhjRW5TRDdBd2NuZmNyWUtPelZqc3h3MTdLSHVSX1FFOXV1c19IMk55WFplVkljUXdKTE56SkFqRHViek9XSU5hSDh0QkV3aVZfdjNMOS0xN2M0UWUwcHlMZEhZSm53TklTR3hMMUFIOVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MGM Resorts International (NYSE:MGM) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2dSMFhaZ2RkQUQ3aEx2R2NuYjVXclRRbnB0OEFJcXF5ekx2XzlzdGpfdDhBQ1pFcDFyY1BzdXYzZHQxc0QyS2pjQWI4RmsycnE5YUNMYTVLa0VyS3Rid0pqTEVnNFNEbFBOOXkyZzNUVzM4TlFVRVBvQk5XdlF2TnNzcVFSOXBCSndyeUVEblQyX21RUXdBLVBENUl1djl6cGZibDBDWXoxTHNONjEzaEhZdTlVcEI4Y2h1Q2V6M2dlcEFWQ05YcmhLYTlNT1hVSElnUjU0Z2pFZmM?oc=5",
+        "title": "Rhumbline Advisers Grows Stock Position in MGM Resorts International (NYSE:MGM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTGV0RWcwZGdMV3A5Q1VOLVMzd2hmMzNNYWd6Vm9tMS1TcUVDUEptYUtabG5VYmJkU2N4b2JoSklGMFhwYU1lZ1JQMjE5NGVUTFpBRi11cVV6N2NwLTcwTnMwRWc5LUpuM2pGU0pyRUtabWZLYjZHQjZhV3A3TWI3MHFXa2VzaFFrbktHQTJ6aDRrSF91czZxbHcyWUhlY1Y5ZUVwYjdOVWpzdlMxQjRlUHgtSzU2RkpBSHpkZlVTbjhqOTl3ZEV4RlhaZjVvRFltS2w5TQ?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Purchases 186,120 Shares of MGM Resorts International (NYSE:MGM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHRhYXJ6dENBRjNDN05mdlFHWFRnRVhaOFZRVGJrdGZqVWVkcVhKa19yMDQ1X2xDcDBBeWdIdWhjS216QUdUemVCOU9fMEdCZkEydFpqdTVqaENaSmRmUXJGWGRRaUVlaENXc1NWOVdsYXRCZS1BUXNoY2xOVnBKdWtKZ0JsMkhWbkdMTlo2dEF3M0FhR1dWQ2lWdl8zSi1LSUROclpsWEV6MWJ3ajFndmhOTUFjY3BNd0ppQy02ZEZVTjlvZVg0RnRRNUZuTEZQZVhjT2JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "14,481 Shares in MGM Resorts International (NYSE:MGM) Acquired by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVUJjbXB0eFNlNVN6ak9oQThTNkZMbUtvekJMbHhqZ04wb0wtOUEtQ3RtSHZ1Z2QySEFLbkRaWTE2WnlvajJVRmQ4MjFwQUNlWTktYkxvenZQdmZiYUQ0OG9wckVhUm41QjIwTTRvWWEwYUJqbHVQVW4ta2VjNjZjTmJwUVBwaUJIZnRTZ1FQV3QxWndhand3RkxjLUlTd3ZFWklCT3pGOWNKSjNxTFRxSHZaeTcybXN5UjNiWjRSR0VNZUJRZ05xZHlFUzBTNTdWeG9Gb2Z0ekxRdGVlQmFEdjFobkI?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "MGM Resorts International (NYSE:MGM) Stock Position Decreased by Ameriprise Financial Inc. - MarketBeat",
@@ -646,16 +646,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Toronto Dominion Bank Sells 36,565 Shares of MGM Resorts International (NYSE:MGM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanU5bEMzV2labTBLN3daQU9RdWp2dFFmVlF6Y0c5YjZDbHZ0TGlmSmpOaVJPUC1XNG0xaU1maVZESEpVUGVBMUxmaE5FS0hlSzFmZ0dhSFN5VFg3azk0YW1Kbk1DRDBZa3dxVW80amhMZFowUG0wMlJaWkQ5MFBmcDhLdkhFZENBRkZnbzBybF82YjcyV3IydGw0R0VqbjNHZmJxTE1RNzV4M09ST1ZrelhvNk40LXlhQWtmM3RLTFhfaGVFUzZOUlFkd3JDbEM2SXZDaQ?oc=5",
+        "title": "Top Leisure Stocks To Follow Now - June 13th - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVhOY2JQSWxTdXo5VWNKYTRkQUJKT01CdFFlQ1NEa1NjZ2lYQXhUdG1PZkFDRFBweWVpczdCT3lEWlhpRFNUakxTV0ZYd0RxaUlTZml6ZHY1ZlhXazMxTWx0NXVrUHE2WXBHaGJQMTZFRzEtRDduX1hqc1djLUFOdUI0M29xZWc3QzRVdkV2VzlQcDRwMDVZam5JWHo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Woodline Partners LP Takes $471,000 Position in MGM Resorts International (NYSE:MGM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVU5wazBSNkQyOGdKOXJlSzBwTnZ4WGdsRGc5OVFRSnZsbjd1b0lHbmFady03dms2cldCQkJzaWRrMUhvY01GWC1sQmNGTG1Td3hLeFNuaDA0SnlLb0g1RExHZGlPYzB4YlY0NktLdVJ2TlRTa0ZFSG5YSVNLcmFTQ0JEdUNMUV9IT0w1STZQb0FMVUFiOTh4bXpkZG5zcElRcmxjak1LZTVmMFZIWGMyanBYMXotRGlPaU9lRkx6VDlQTFgtRzBIbHlhOTk0ZkdyNGszbXd0d0pzZDA?oc=5",
+        "title": "Chemistry Wealth Management LLC Makes New $246,000 Investment in MGM Resorts International (NYSE:MGM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEN1cVowbTh4V3hGN3J1V0F0cFptRXhwRTI3VkpTV1ROeUs1ajJ1TGlWdURhaVNNS1FPa1dzajhPX0hzNnlhZHdFb1BlS0xZTjRWTUszZFFuZ0ZhOEtIYlpGdkxGd016WkpQRG1nckZHRDdWZERMVC1jTjA1S0MxblhRZXI3TjhJMXdfLWlOOHdKamRfcGdQSTVOYUZ6WE8yTFB4N1VtU2pxaHZBckJaV21tNkxUdFVqMUY3amRTbXMtZzlaX2lxVFNPelUxN3FDZEMtT1lpS2pLNzBTXy00c3FmSnJmQQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "PRDO",
   "name": "Perdoceo Education Corporation",
   "sector": "Consumer Defensive",
-  "market_cap": 2164008704.0,
+  "market_cap": 2069636352.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.675556,
-    "PB": 2.2303276,
-    "EV_Revenue": 2.366,
+    "PE": 14.035556,
+    "PB": 2.133063,
+    "EV_Revenue": 2.24,
     "ROE": 0.16537,
     "ProfitMargin": 0.20914,
     "GrossMargin": 0.8255,
-    "DividendYield": 1.56,
+    "DividendYield": 1.63,
     "DebtEquity": 13.155,
     "CurrentRatio": 4.456,
     "QuickRatio": 4.197,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16270335893704727,
     "ROA": 0.09832,
     "PEG": null,
-    "EV_EBITDA": 8.339,
+    "EV_EBITDA": 7.896,
     "BuybackYield": null,
-    "PriceToFCF": 18.308844513497814
+    "PriceToFCF": 17.670808717493497
   },
   "technical_indicators": {
-    "RSI_14": 67.12003048181012,
-    "Momentum_10": 7.877619400285585,
-    "MACD": 1.4399581967781714,
-    "BB_Percent": 0.7094929563946814,
+    "RSI_14": 51.71175997688315,
+    "Momentum_10": -7.22679472872505,
+    "MACD": 0.7766953320965619,
+    "BB_Percent": 0.3460244127680088,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9323969096208646,
-    "QualityScore": 0.4477720709161291,
-    "SignalScore": 0.4170080731065906
+    "ValueScore": 0.8938416486565282,
+    "QualityScore": 0.4575665764296273,
+    "SignalScore": 0.593476832453258
   },
-  "volatility": 0.0266277889902635,
+  "volatility": 0.0267136097114224,
   "beta": 0.849,
-  "return_6m": 0.2396658056120975,
+  "return_6m": 0.1652297366190478,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 1,
     "target_mean_price": 40.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 26.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 27.53
-      },
-      {
-        "date": "2024-12-11",
-        "price": 27.62
-      },
-      {
-        "date": "2024-12-12",
-        "price": 27.31
-      },
-      {
-        "date": "2024-12-13",
-        "price": 27.35
-      },
       {
         "date": "2024-12-16",
         "price": 28.08
@@ -537,42 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 33.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 32.27
+      },
+      {
+        "date": "2025-06-10",
+        "price": 31.77
+      },
+      {
+        "date": "2025-06-11",
+        "price": 32.19
+      },
+      {
+        "date": "2025-06-12",
+        "price": 31.88
+      },
+      {
+        "date": "2025-06-13",
+        "price": 31.85
       }
     ],
     "current_price_data": {
-      "price": 33.0,
-      "change": -0.27,
-      "percent_change": -0.81
+      "price": 31.85,
+      "change": -0.03,
+      "percent_change": -0.09
     }
   },
   "news_sentiment": {
-    "summary": "Perdoceo Education (PRDO) a récemment vu son prix cible augmenter et ses actions s'envoler, suscitant l'intérêt des investisseurs. Cependant, malgré une hausse de 29% des actions, la croissance insuffisante de l'entreprise a été soulignée. Les mouvements importants des actionnaires, tels que les ventes d'actions par des dirigeants et des achats par des investisseurs institutionnels, pourraient indiquer une certaine incertitude quant à l'avenir de l'entreprise. Les investisseurs doivent rester attentifs aux prochaines mises à jour financières, notamment les résultats du premier trimestre de 2025.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
+    "summary": "Perdoceo Education (PRDO) a récemment connu une volatilité importante, avec des ventes significatives d'initiés et une baisse de prix de l'action. Malgré une hausse de 29%, la croissance insuffisante a limité sa progression. Néanmoins, certains investisseurs institutionnels ont accru leurs participations, tandis que d'autres ont vendu des actions. La question de la sous-évaluation de l'action persiste, avec des spéculations sur sa valeur réelle.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Perdoceo Education (PRDO) Sees Target Price Increase by Barrington Research | PRDO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbERuX3hSWUdEcGpZcHRYX0hWazlyVnlDSldabmJxNVU5cDZzbmYybE5BSURfYVM2VUpwWXBwV1FfdGk3dGlnY0ptQ01HY2RhWTRTQ2g1Ny1MbVdqSXFLdFJ3d0hXN3hvTGxHc0ZGdDJMel9EdDBVd2xZMThOV0VGNUg3d1BzZG1ZZVB0QkdBbWxJd0Q4aGFhUzFWaENWWmhaWG9NOTFhekpXdWdXRmx1aVdkMU5aNEJoNDJyS051T0JvZldKM0ln?oc=5",
-        "label": "POSITIVE"
+        "title": "Should Value Investors Buy Perdoceo Education (PRDO) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWktGN21NQV8zZUQzSFZCS19xNW90SXlXLXdabXUzNE04TXN0TjU4c01lOHFOd2xxZy1tY2wyYzYwdlBVbkhVRTB0M3N2TlNILXAtUjRfbXNiR21lRllzZkRpRi1wa2t1SFZGSDhFU2ZNb25xWENtcDQ5OG1FS2xmc3J5ai1LQVlSeEQ0UHNfTldGbUMy?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Perdoceo Education (NASDAQ:PRDO) Price Target Raised to $40.00 at Barrington Research - MarketBeat",
+        "title": "PRDO vs. LINC: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wNHI0Q19lNmFnZXBUYVJDYUVrd1Jyak43aFNuaXp6TjIyTlBsMDh3VWVpQl9LWWk1Qm42Qi1EVExERUNadU5LemwtUWoycE1EVF9jWnpYQXo4WG5kSVdOOTFhX3V1YkpwdUFSNDhSNW1QbHZfWGpBNWNWMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barrington Research Forecasts Strong Price Appreciation for Perdoceo Education (NASDAQ:PRDO) Stock - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0t2TW9yelRtLXg4VVVrajdlbHZGTEpmWlU0d01XenptbkFucjg4X2E0Z1UwXzZRWFJZZjZfVEttVlQtX0lheDJHRE9mRUJJLTNYSFhQdzZvSjlBV0NEN0wzTHFoSV9BT0dPb2s3QjY5eHQ5YzhKeTlWMlBUOGR2aXlDMXVLOHZBUnJnTXhZRElOamJDUVdhTGU5bjYzX2VOZHNnQXJ2am1DbDdoT2JQUXdFUEhtT2lLR19vb0JpS0UwQWlxajJ6MGRZRmQxVlU?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Are Perdoceo Education (PRDO) Shares Soaring Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWRqcVNkS01WTVNsZ2FsQzNFZGM3VF9HN3ZqM2pDSFVVSmdWVkxtSWRUOVdId0YxVENxajhya2V3UWRGb1pPeHdXX05TTDBIVWRuMmR2cEhWV2tOV0lpSkRCejI2MWZaUE5yZVpuWGlDcHdMNEh4QWFEYmk0RUJyUmNQSkV1alE?oc=5",
-        "label": "POSITIVE"
+        "title": "Perdoceo Education Corp (PRDO) Stock Price Down 3.65% on Jun 9 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1dMYUU2d0prZXU4MC1vTmtlYW1YdkhKTDFsd3RRX1QtdXZvTmRnNHdubmlONldqMVlNMDQ1VDlCcndYUGxiRF9fd3ROOHJVcUdraTh4bHZlMUxXalJXWk92Qmd2bzJ0MW9jVUpIUS1UZmtnUnktSFZGeERJam1xSllCNzNNWU53T194MGNMdXpIaHdEWGxyMnpHREtldw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "(PRDO) Trading Report - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbms1bXkzWmhFVm5iSF91TXZwS2xySFpYU2JjSjRlUzdKSFV6SDRNWVRod2I2amN6aUpfN2NpeXpmaWhoUzl4Rk8tOUFJTE14MjFDQXcxOU5nbTJZUjZZOHlNdEVmM003TXlVblRmNEFnS214QndqOWU4X1gxcUo2a1QzOXdfZkp6d3RsMkFObldVZGJDSEwyMnNn?oc=5",
+        "title": "Insider Sale: SVP of $PRDO Sells 71,254 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45eF82MUpDdnFrWFdYQUJhVHlQVjQtckx0UXpFc1d5R1FMYzlIbVFRUkJyVzJTcEtueXN2Mzh1YkUtV0VFU3NGT291Y0RMNUh1SThvRUN5SHV0by1JOUxiUnZuTjBDU1RfRi1BbHhVMnZPWXp2WTdGUjZOa08?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,18 +586,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Perdoceo Education (PRDO) is a Great Momentum Stock: Should You Buy? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGFpeGx3OG1VN3dFczFyaFFKcmVLSzV4ZS1lOU9NQkxFMHN1OTBEV3BsdzJHNXpmQU5udzRGUlpOZFhXSm8xdFpDa01hdHZ4UnlsQ3dPTmpLLVViMDFWRWxnSnZHVGZxVVJkYVdpbFlqbk9aYlBzWEttSGxWQUdNQjRTd2FOSFVSSDZIYnA0RHRIWXJTYnc?oc=5",
-        "label": "NEUTRAL"
+        "title": "Perdoceo Education Corporation (NASDAQ:PRDO) Held Back By Insufficient Growth Even After Shares Climb 29% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWwyS0U4TnVDcDZJaEkyRnl2QnJFUnNPUFBKbEJScUpkMnJlb0Q1azQ0c1BiaW1aQmpBYXpIOUZIZ2Q5cVYzVGQ4eXh5TndmMkM3S3dmSEJQdklmVU9kNGRHT3NrRjVneHQtQkExV3YxcTNjd3AzOFJtclZOZWZhemNXWjlwZEg1WGFvdWc3RGxFbWVWTXNwOHJUSVFVRzU2N1hYeExBcXl3OGd3ZEI5dTVxMGlLWkNlU0VkeHo4YjlkOEFlWEdkd0xwRV91dTVZSG92UWVPZmlpSVpVbEVR0gHkAUFVX3lxTFA5QkJ3b0FwRXpNeF9vYml5RG13dFZhM0RMcEFFMllCZ214UHA4NFc5em51Qm1JWUFLVkhuXzVZSzd0bnpHOUhGY3ZhUVVHVUhheDBkMks0SEFNR3M2Q29NclZNYnU4ZDR6X2d3Wk5xa1dLRlRqNkZYZHloWWpPX0haamg3SWp3dVphRkVDejNXNmc0X1BYMzd5SnRuYWFQYUpiSWVNcU45bUtzWERhOTl4QTB4dGVRMXZjZ2Yxa1R0NHRON0tLTzRCSTZCR0J1bFBud2FDaWpVUXBXMm1IMzlLZnVkbw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Is It Smart To Buy Perdoceo Education Corporation (NASDAQ:PRDO) Before It Goes Ex-Dividend? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb2pINk1MYUxxck1jN1pTVk5BN1VfMFE2c002cmlvWHlxakdBM0JEdUlzSXlTVW9ET1daRmFfenJwNjJZenFlZ19ySlFyOE02eGJnZkh3RTBIWTdCY29hZVVTZzZWaV9yUUo5R2ZjNnluMTFod2dUdXRCa1RZMGFPcWN1aXRUaHQ4d25xZWJxeGd2T25wSjJNbF9tODFIbWNsNTFIVEdvTTdBeFNRbFMzazNtZVJ4NEdhUldiblhxclFtQ0x0a1Vkbmh1UmdtQUhDV295d3FzaWdVVl9yclhR0gHkAUFVX3lxTFBfU1BwODFNeGkxUXNXdXJGZ1UxdnZLNDBXN1ZuUTNXV00tQ0hLaFpKZjk2cjdOSXpJT1JYX1pobm1PeldkOVc4QXNtT1l6cGpLZ1FlUjBrVUREaGdyZWVQTDdCdFNoZzZReVNsV1c4aUZsaGpXZTRDck4xWHhCOXJMWmY1MG5JNDNRaU53SWlCcHI5bEkwcjVOWVVZSk54MW9oWmJxT0lZNFVMaURXWURyUnlqZTIwbFlVdlVQSXRZYnVDMFVkNW1QVTlBa3dsaW1QbUk1YU9xS0hYQ1IzVUNDbXBLNw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Perdoceo Education Co. (NASDAQ:PRDO) Shares Sold by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFR4Y1hvSm1JM09zWlVmd2tST2xxaUZmbkttRmpKNnotR3dNM19oVjdaeUxYQWowV0lTMjlCbGhfLU5mU3IxZ3BGeHMtYzZIcDE2Z3V0YmplS3JMRzhqc093Q0NVOXpCZFNSWkhKZG1MQUNNQzg2bkZRbGJPMzd2OEVzTTBLT0FTdGxaTFZjaC12MzRjV184MXV1dnhIanlINzBPeUM4dW1jRC1EOEkzZ1d1dW9nUVlZQ2pUMUQ3cWhnTGZEUUtiQ3FrMXVlQQ?oc=5",
+        "title": "Perdoceo Education Co. (NASDAQ:PRDO) SVP Sells $2,262,314.50 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlRrUXA0cldkM2Zib1RBSWZnMUN1NkZvUXAzV2tPSFlZSmE2cGpUUERjMzhPaEtFT3JXeTZtcHdHOXp4Mk41eE5hbk1weHFaN2N1LXRrMUhmRUhiZ3V0T0JLcWF6bnhGVDBud2VMM3FkdTd4ZVQ3Z3hCMG9DSjFRUFFJVUZWaERCSDZVN1VxNHRrQWt2TFI2c0ZxbW9WakVFMlpMUENULW9KRXg5T1RnZHM5ZnZCZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +601,61 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Perdoceo Education Co. (NASDAQ:PRDO) Director William Dean Hansen Sells 5,994 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPXzZfUFhFQlgwZlNhY2JxbWJpdGw5eGRKTzVsTHM4SWxEaVpaN3JLRmdrVFk0RnU2b19SaFlDMXNheGMwa0ZtOE1PQ2V5b0pYSVF3TTVYbVlCUzdOc1Foa01PT1pZVzN2aURXZ1BIWTJqYlRMSHh0ZUE5RjY4ZmQ2ak9uZThSdFJGSnJVSE5kc3JmRzVXRlNaWVAwc0tFYjNHZGVCeWJfRjZiZkVpTS1ZWko3VlVKejQ2SXdQSzB4bjcybFM5WUJZS1RTbUxLOUJISy1nag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Perdoceo Education (PRDO) is on the Move, Here's Why the Trend Could be Sustainable - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXNudkN4Q1NKY2lsQzZ5Uk9ZQ01DRVFHQUtLRVNXVjJmay1MeTVnVlBvZEtabW11MDJyXzBNa1ItQjl3eS1Yc1htV0VDT1NNS0NkTTZiSUJ6cENzeEIwcWE1YVY2TldlUEZDTnJXWWE2aHM2NHRGX1BTZEFVRlA4a0VIOTVpN09QZEtKVHpIUjZzTFFuT0kyaUtzOFVMQ2Ft?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Perdoceo Education Corporation (PRDO) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnYycFJMWWYtb3ozYW1FUlEyTmt5cnM0b1Z3YXBJLUlJaU1jVTlaSTdXUlUzNzJhaFBaZjQ2b3RuWlVIOHgycTdwUnRWRW5ORVczdzIxbFVxdWpDUU1ST0J6dkM1VzRGUmtBRnNUeC0xTmdPSnVHZ2hBS1JRVzZ2amk3cThQc0N2YUJDYzF3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Vest Financial LLC Boosts Stock Holdings in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlRoUk1BVV9mQXBMSUplMEZ0N1h5Zm5qck5lUXRiWExpLThtNXV1RmZDRGFpYms1RW9rX3Q1OU1PNi1YcVl0aGROdUs4OGFZdWM2NFNtQm1xSnlvMWRjQks3Z09RaVZ6YTY4QTctSDVVdFhRQmU5cWNqVFRPMDN5cmtKTUw2WUhENFRvU3VydUJXRHJQVmdlQ2NWZkhsejFNdnp1M2xuaWdZYVUwb240NUJzNFBSSE52cVZ1NUhEUmFlQXFBMnNpaWlUM0ZJUkVzTUhXeGZGVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Is Perdoceo Education (PRDO) Stock Undervalued Right Now? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTBwNmg2c0tTc1dVYjZfMHpmZ2pfdEJGRG5ZSUp0eGpwdDFTTG9SajlsQWlRdi12eURnZUx5MlNicGZZdXJkUXdaTGxsMnZSTlRGS1FIT0FKYUhYcGZ6SDZtY0JxdFVldkVHNjZ6R3NLU2xmZHpTQTRndlNoZE11aGw1MHEwRXp3dk4xZ1ZB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Perdoceo Education Corporation (NASDAQ:PRDO) Held Back By Insufficient Growth Even After Shares Climb 29% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWwyS0U4TnVDcDZJaEkyRnl2QnJFUnNPUFBKbEJScUpkMnJlb0Q1azQ0c1BiaW1aQmpBYXpIOUZIZ2Q5cVYzVGQ4eXh5TndmMkM3S3dmSEJQdklmVU9kNGRHT3NrRjVneHQtQkExV3YxcTNjd3AzOFJtclZOZWZhemNXWjlwZEg1WGFvdWc3RGxFbWVWTXNwOHJUSVFVRzU2N1hYeExBcXl3OGd3ZEI5dTVxMGlLWkNlU0VkeHo4YjlkOEFlWEdkd0xwRV91dTVZSG92UWVPZmlpSVpVbEVR0gHkAUFVX3lxTFA5QkJ3b0FwRXpNeF9vYml5RG13dFZhM0RMcEFFMllCZ214UHA4NFc5em51Qm1JWUFLVkhuXzVZSzd0bnpHOUhGY3ZhUVVHVUhheDBkMks0SEFNR3M2Q29NclZNYnU4ZDR6X2d3Wk5xa1dLRlRqNkZYZHloWWpPX0haamg3SWp3dVphRkVDejNXNmc0X1BYMzd5SnRuYWFQYUpiSWVNcU45bUtzWERhOTl4QTB4dGVRMXZjZ2Yxa1R0NHRON0tLTzRCSTZCR0J1bFBud2FDaWpVUXBXMm1IMzlLZnVkbw?oc=5",
+        "title": "Perdoceo Education (NASDAQ:PRDO) Trading Down 4.7% - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGRpdDNZQlctYjh6TWUwa2pRN3M4N3dTQ1FSSmMtWDJLMlNKQTk3T2dOYXRYRWNVVkszenFfRjl1YUxpTVhnTllmWEtjeTJGWnBBUUlmcUNFWUdMenhMSGhWdXZBeG5YbHpIaWVIV3JoNGlQOFg5eEVoS1RxamUySTZfcEtrLXk4OWZHU3pORTJPNk0xZWozMVl0bjg1SjBQdjVwR09NMU84SUk0dGRuZFRZRTh1ckdkekE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Perdoceo Education (NASDAQ:PRDO) Sets New 1-Year High - Should You Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMllBRVNmNWFuLTkxMkpTd0U1LVAwYmcwWEFiM2F4T3ZYX0pGaVR2Tk05UDk2anNXTk5VdUdZQk5sTDZqRTZwWksyRTJXSm5DRjdyYlNHMHZ0bmVONWthWnR5VkViVFc3ejNzWnhWaDhGa2Y2bVNnakFVeXRBNnNmY3ppaXdpOG53R3p5OXpvQ0hqTHJJN0s1VFNlNzZWVVRlRFBMOG1BVFliSFpOYzU2VERqZ1I?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Perdoceo Education Corporation's (NASDAQ:PRDO) Stock Is Going Strong: Is the Market Following Fundamentals? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZHdXNHFSSkJSMGZmaC10T1lLTVJpVmpBQ19xUkJyQW40b2ZtLXpvMFB4V01tYlp6dk9WNTktTGpfdjZfWmlVUHp2WjZiSnJKY0NuZUdFWWRfbi13TVlLLTJUa3hfYTBVdXRZS2pZdG82UWx6cXo5aHlpUzVZZUFIQXpSTlNZUTM1UGcydFVzWldPRkU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Wellington Management Group LLP Grows Position in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYUZPV2ZFWFhWa2FoU0JWdkh0SzYwak85NE1yRERzcUhYY3FrenFITFgzRXIxQXVqZ1YxN01aeXppTVJuQnlQd1dMUVRoQ3NaeFYzYUtrcVVWTWYzUUZiWEx3bXg2YzNyWEs4QWU1NWpoUU5JQkhLVXg4SzlnZWRST2ZPRjNWcm5LQk9mTXBibEU5UGN1NFBOOE9qek5URG82QWM4ejlTdUpKdENrUmh1S0FyMGRlWGJ5Mk45UmItam9RMVVDRFpSV2tTbThDSVh3NHo0UVJpT1NjWHFTOThzcg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Julia A. Leeman Sells 5,000 Shares of Perdoceo Education Co. (NASDAQ:PRDO) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM2pJSi1SMzdocXZVbHRBN2VjWnFqWXBfUC1XOUZPMlR3Q00xX2ViY2QxSGl3Skh6Z2I3YU4ta0Q4cDQtVmZBNGhKakRfQ0hrcEdWdWpzQXhrU2hHUTZNNndaUmllUXZuM0l1Zk9IS20yRnI3TkxzaHJpYzZ5M21wRk8tc19Jdld3RU05WmJxcGE5b01hZzBpTTJFeVFfTWNaY1A0QVVKdjd3TnFHY2Zya2FuTGpTUHlEVmFWSmxTbWd2anFTS1hhODhuVkk2UQ?oc=5",
+        "title": "Perdoceo Education (PRDO) is a Great Momentum Stock: Should You Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGFpeGx3OG1VN3dFczFyaFFKcmVLSzV4ZS1lOU9NQkxFMHN1OTBEV3BsdzJHNXpmQU5udzRGUlpOZFhXSm8xdFpDa01hdHZ4UnlsQ3dPTmpLLVViMDFWRWxnSnZHVGZxVVJkYVdpbFlqbk9aYlBzWEttSGxWQUdNQjRTd2FOSFVSSDZIYnA0RHRIWXJTYnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Perdoceo Education Co. (NASDAQ:PRDO) SVP Sells 14,296 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmtoa0xGdDNSVC1aQ2pqTmN6dk9YZTZkWl83cWtsTUR6clBFNzVuaEtzRkVyWHhDUHlVSFNmMHRnaThBZFdXanAySXI4TmF4MzcxNm4xNVI5UXZ5UGpXZGpGZktUdGo1a3I2ZVRHVmQxQmc3Wm5BbXRzSWN1aUhyRXhqd1BnbVVsNDgybmY1YUtnYU1NOXhEdW84X3lnTmN0WVRXZjNTOXpWdHRuYnFqaEtYNVk?oc=5",
+        "title": "47,344 Shares in Perdoceo Education Co. (NASDAQ:PRDO) Purchased by Two Sigma Investments LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0thZmlsbEpBX3l4RkJXWExPSWY3MW9LNVhmTEtRbk5pblQ2UldGYURBbndNS3lSeDJvU2dySVVHMlVKSTVhRGI5WUZIR2ZsSmZIMDBnVEhKcjNhVEp3N05tS0M3VUZ3dVNid2ZkcktFZUVTWFM5UUh3UnI4b3dIRFZ6UnEzYTlaelhYRmZoaFRRVTZyY0FOSTI3Y2k0eHprN2FKQTl0clVnZEthYzBjTFRTa0ZaUURZeUF1NVNNSW1tUGpYcmEwaU5Mak12d253TFFnSC1OSFBVcU56R0pGbA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires New Stake in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT3JaYnN5c3VNa205WDRxd0NZTnZMY0V1SHdkWnJlV3dsSlFGd2tjTWFXYVhzSlMxZ04zcWF3WUtCR0Zhb3J6MFRZTDRaVS12cHU5aVdEQXd3RmZTOGxhQ1VUdFM5bXo5SFJtNU04VTV2UWZxdG5uMzBsVW1HNEViTldxRG5sM2EtWmhHdk5PRldoQWFHVUhoOVBkMmYzVXNsTWYtRktDcUkwSGRoV0ZONV90V2o5bl9DaUtqdmZQU3pRV0xPbVhJRUxsTGdPMF8xQ1dfZXVRaTBhcVNvS2tETWxyVHZHcFV3NkI5T2hyZ2ZBTWZRM2RYdXJWUVZBNER4Y3dpLQ?oc=5",
+        "title": "Perdoceo Education Co. (NASDAQ:PRDO) Shares Sold by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFR4Y1hvSm1JM09zWlVmd2tST2xxaUZmbkttRmpKNnotR3dNM19oVjdaeUxYQWowV0lTMjlCbGhfLU5mU3IxZ3BGeHMtYzZIcDE2Z3V0YmplS3JMRzhqc093Q0NVOXpCZFNSWkhKZG1MQUNNQzg2bkZRbGJPMzd2OEVzTTBLT0FTdGxaTFZjaC12MzRjV184MXV1dnhIanlINzBPeUM4dW1jRC1EOEkzZ1d1dW9nUVlZQ2pUMUQ3cWhnTGZEUUtiQ3FrMXVlQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bank of America Corp DE Has $3.72 Million Stock Holdings in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVlpMYktPQ2UtNVlwc3JZUC01SlhEWjNKRjBtX1lxYXgteHQzdU1BZG9rck51NExUOGFjd2lXQVhWa3VNc1ltX1pRT2FNUEJENjg3QXU4d2NsLUswY1NNMlNSa0ozYWNUVlhrMmxHRUNWNld3TVpPZUVYdnktcW5DQXg0RW12ZTg5dGU3dl9jYlVlTE9tMVVUTWdYMFdvUlZ0bVU2eS1acGczOXpqLUJOTFNjS3Qwc0ZBNHNDazJPX1FiNEpXbWVTZThYNGp5elpwcWR1VQ?oc=5",
+        "title": "Axecap Investments LLC Takes Position in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZmdWelFqbVhTcmlFQnl4MC1OSG83SzBHSXZlOGpYODN3VEhXSTEyT1BJNWZJNTZ3bDgzN21mS2JfSWJHeEx5QzlpWU9BT0V5NkpvVTlBay1qX3JQR2ZYR3RHTDJ2aWoyVldLMVBoZ2pJWUFqRzR6SEJYR3hNWmFhYmFXUVFOUnM0cjBzSHZucUdkRFQxbUtiUUJ6M1RKdTh3aDIzd01HeFdYbDV0UTF1dzNsc25XNW9NS2VRc3hLUHdPRGNSajNlNmViNjlHNDA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Cuts Stock Holdings in Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNW8yeVp4OFVqZERhNUMyMlg4OGRfeHlSYXpweWxDM19hNmpmSklHLXZqT2F1QnBSaUJBLTQ2OHVkelZ4RGE5MzltV25RSUJWYWVnTnRDeGZucWpYWU1menRsOGVzLTZPVUo4UUJPdU9seGZaWEtFWDg2dUtnRThWNy01TGlydEoxRUZnQzFVUGF3Y1VBcnZzTzlCVF8wYzBTdkEzdlgxV2VpcllJb2N5d19FejdRYzBGeE1LNXNFNG02akJQNEZKcUpzZTZibjRtdEk0TVp1eG9mUG83NXpvOEw0Q3djSWpxVXN4VUhZdVRzZmVFcndzUHdQdTlGUjdVZDdkZFdqLWhQc2p4OE15eHR3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Nuveen Asset Management LLC Sells 29,982 Shares of Perdoceo Education Co. (NASDAQ:PRDO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUUpxWllLdEdicVZfbk5TZTRHMU1xejB0R2wxbVNZN0Zlb1lvSHNhY3NKXzlwWi04NmU1SF9NeEc0eHVyMDVMdU5NdXRTdVJlNXBUNmYzQno4S1Joam1oLUpkNGNoQW1tcDFGVGItLUxfdzNIaUdkTV9RTkNxYnAxWUlBYWdZcFBpNnU4YkZaQndKVk5QOVR4cEFKMTVsOGVweUZfWThNWG9haUs4eWtPOU9UQmNrdGFUX2NZdEM3NGtwZXRRcTUzSVJFekJUMHF6dFE?oc=5",
+        "title": "How To YieldBoost Perdoceo Education From 1.6% To 12.9% Using Options - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSC1VU2R5d0lFY0JzVnhnZ3NBMmJOdDVYN2E1UWg2TGlEb2dGaHMwNE4zVW15dk96ZERMZXZpdzd3d1NVVGJwWk9rR2k5bjgxTUdVSTdhdFJTdGxzODhBeUtWQ2JiLU13ZmdlSlYzSVRJeHF0TlJlM19JM1hLRnYtV2FHSHEwWmVUc1JUSDlGQQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

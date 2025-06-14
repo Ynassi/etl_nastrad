@@ -2,16 +2,16 @@
   "ticker": "PFS",
   "name": "Provident Financial Services, I",
   "sector": "Financial Services",
-  "market_cap": 2168956160.0,
+  "market_cap": 2155889920.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.954955,
-    "PB": 0.815805,
-    "EV_Revenue": 6.74,
+    "PE": 14.864864,
+    "PB": 0.8108905,
+    "EV_Revenue": 6.821,
     "ROE": 0.06774,
     "ProfitMargin": 0.21053,
     "GrossMargin": 0.0,
-    "DividendYield": 5.82,
+    "DividendYield": 5.67,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 48.22580547822137,
-    "Momentum_10": -0.5392459539125616,
-    "MACD": -0.0170539173026647,
-    "BB_Percent": 0.2898210733269949,
+    "RSI_14": 45.42093062783293,
+    "Momentum_10": -1.1976093042061031,
+    "MACD": 0.026641229743479,
+    "BB_Percent": 0.2263352404751679,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329493948931652,
-    "QualityScore": 0.3210824712007377,
-    "SignalScore": 0.5593205432632997
+    "ValueScore": 0.895240026497567,
+    "QualityScore": 0.3301569271963464,
+    "SignalScore": 0.6045126443689999
   },
-  "volatility": 0.0211050255469017,
+  "volatility": 0.0212595351421265,
   "beta": 0.834,
-  "return_6m": -0.1790860606090332,
+  "return_6m": -0.1680006032192595,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 20.49
-      },
-      {
-        "date": "2024-12-10",
-        "price": 20.42
-      },
-      {
-        "date": "2024-12-11",
-        "price": 20.56
-      },
-      {
-        "date": "2024-12-12",
-        "price": 20.31
-      },
-      {
-        "date": "2024-12-13",
-        "price": 20.36
-      },
       {
         "date": "2024-12-16",
         "price": 20.66
@@ -537,28 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 16.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 16.87
+      },
+      {
+        "date": "2025-06-10",
+        "price": 17.08
+      },
+      {
+        "date": "2025-06-11",
+        "price": 17.08
+      },
+      {
+        "date": "2025-06-12",
+        "price": 16.93
+      },
+      {
+        "date": "2025-06-13",
+        "price": 16.43
       }
     ],
     "current_price_data": {
-      "price": 16.77,
-      "change": 0.27,
-      "percent_change": 1.64
+      "price": 16.43,
+      "change": -0.5,
+      "percent_change": -2.95
     }
   },
   "news_sentiment": {
-    "summary": "Dans l'actualité récente de Provident Financial Services, Inc. (NYSE:PFS), plusieurs signaux clés émergent. Malgré des résultats trimestriels décevants au T4, les investisseurs institutionnels continuent d'afficher leur confiance avec des acquisitions massives de parts. L'entreprise semble bien positionnée pour faire face aux défis tarifaires, offrant même un rendement attrayant de 5,8%. Cependant, des incertitudes persistent quant à la croissance future, notamment avec des analystes de Wall Street divergeant sur le potentiel de hausse du titre. La récente augmentation des participations d'investisseurs majeurs, combinée à des bénéfices à venir le 24 avril, alimente un sentiment mitigé sur le marché quant à l'évolution à court terme de PFS.",
-    "sentiment_score": -0.1,
+    "summary": "Dans un contexte marqué par des mouvements significatifs d'achat et de vente d'actions de Provident Financial Services, Inc. (PFS) par des initiés et des investisseurs institutionnels, l'entreprise a récemment connu une expansion de son empreinte à Newark avec l'ouverture d'une nouvelle succursale. Les perspectives de croissance sont mitigées, oscillant entre optimisme et craintes liées aux tarifs commerciaux. Malgré une hausse récente des actions, des signaux baissiers potentiels ont été observés, notamment avec des cessions importantes de titres par des entités telles que Squarepoint Ops LLC et Millennium Management LLC. Les investisseurs pourraient rester attentifs à l'évolution des résultats trimestriels à venir le 24 avril pour évaluer la performance financière de l'entreprise.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Provident Financial Services, Inc. (NYSE:PFS) Shares Sold by Millennium Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcGpZcENQVnB5WFNoc2NCYTB5NEFCWXEyV1EtWERublhpazBjUG13a2lkbF9WRW5Gd0lxV01xcG9ZWHZUdW53R0JJbHFpTUhITHlYT3ZhdTBWcXNtZ1I1TlBBNm5McmVRaTBzOTE4Z0lJRFZHUkRDWko4MEIyOTg1M2dnZDFwVTBfSVZhbC12eUI2djlscFU3Z1V6UjRLZkR1aE1BanFpT2dMYlI1YlhONXk0eEVoZmR5ZGJ4UEdYZU9LRmtxR05OSFJmREZjbDdaYjdNeXB2U1FoODdHY1hRMzdSYTdBSjg?oc=5",
+        "title": "PFS Executive Chairman Sells Over 55,000 Shares, Details Revealed | PFS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSi0wb0RiTm5KazNtcUxWR2tVTnZDVFdqbkpLUDZLX1VFakdjN294LUwtWmIyaURGb3ZJUGVTUjFmOUEtOGl3WVJnUi02M0poM0FzQTdLWjdkSGZhRzkzRkZpdTh0YzkyTVdScUdablIxNWRobGg2bG55VHpEb2QxS05vTlNXcFdjZU9sd21peUQzbXEyTEtDTzRHR3hGTUNMaVRCSHFlMFo3d3R5dU1QdWhLMnRMMGZS?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Provident Financial Services, Inc. (NYSE:PFS) Chairman Christopher P. Martin Sells 55,668 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalh0bWpXbUZ3TzlYS3laNzlsSXNqZDA3cW9PbXhrWDdPNVNhb0J0cTc2TWx1QVhLalM0Smx1RjJpZkEzbDhKVnRmQzUzak5zdUpiRlhVNEthN3JUUW1OMHpfLWI2UmlZYlZUUFctcmVJZElGbUZFSzFsS1VhUHF4dHg3NC1BMDFIRDBGbHlmSlA3c2FOOUZBWVZ4dXI5Nkp1TjZNRjlIVzg2RkFwYVg5OEI4UzgxNXR5clJDTDVCYXJDc0t0cUNrVndlRkVLS0lEMzFMT1doSllCb2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Provident Bank Expands Newark Footprint: New Downtown Branch Plus $7,500 Community Investment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk1ZNVY1dkNLMDV2eUJNOGdLam9JczByZENqQmh6OGc1V3dKbGlJN0hWQmtGcDQ5bldrdzlRUk9iQUQzc1JtU25GNkIxbVlzalhHMzNwSnVBaWFWQ2RHbnk4cW55SGRhOXdHaGo2dFhxZVNLeXBQX0otaWJiSk5lMEgza2syWGpCRXBnRExiemoxb1kxLWJKUVBDeG5XbFllem5pSF9jVU9UOVY2Q09UZU1aNWVCUTJwMW1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Provident financial executive chairman sells $949,974 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFN3NkRublNEWkd0X01WaThaM3VYUTVIcGI4eEQzbmN1dDQtUFBtcjgwaEF3N3BqNWUyV3VlSFdKaTRqY2xUYjZPaVZCN19zU1pPRkt0OTE2enJ5WEVJY05XZ3FCbFd4UE56ZURxSVYxUW9tYnJRbjBmd3ctTWE3UFBscjRJdWRTVi1DQkxCR2hScjUwcFp2TV9YNDdZRzNIN2JTREdDNTQyU2dLOTduZUNseGFOZ3UtQWxTT19FaTAxNjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Possible Bearish Signals With Provident Financial Services Insiders Disposing Stock - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORXcwRVB4YzRQLU14LVBlZVlhUWtMQ3pwMFNfNjJfTmllMzEtRGtrOU1zQ3BFRm9ZcEgwRUNDXzM1TEtYNTh4eFdVVG5WWU1tQVFoeXVkM2gyM0Nza3pHSkZQV05vS0dibUVqWW1KSFFubFdERlFaamVOZ2c3N3dwVEZuaExVdzNaVVNpZWljTFViTktCYWlreHBXZmtBYVkybzNVOGl0TUlHelVHdzFxSkQwZGNfbHp3TGY4a3lDMVgzRVJNVG5xWEs1QWsydXc2OFZ6T1psUEHSAd4BQVVfeXFMT2t0VWZnNC1PLXBSYmZBWFdyY0tiTTVoTzZPTzRzd2FOaVNROUtHMFJiLXZYOGpTRGZISDJLdE9jQ0RzUWlCeEd0cUwwSGJ3R0MtZGFXUWlfWU5WMm9zeEdNSXA3dVFsbWdMaG5PRVVkUGIzRERlT3c0b0FCQ05SaUFkZFMxUlRqTmpfbHhMdFJqSzE2N0FaNnNVQ3N6VThidTMtb0YwaGpDTENwbUFpb2ExNlgzd2hjbWgzZTZwM09Td3Nqem9JTzRMNzZ0Und0QWVBVnB1cXc3TEplb2xn?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Does Provident Financial (PFS) Have the Potential to Rally 28.82% as Wall Street Analysts Expect? - Yahoo Finance",
@@ -566,14 +586,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Major Business Survey Reveals Mixed Signals: Growth Optimism Clashes with Tariff Fears in 2025 Outlook - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd29jX3pQdmFUS3hUVEZSRjZZYUpNM2xDeDR2bXcxSWJ2akRiblMzN2NyYWNMa0N0aEd1Nk9XS2RnSVR1WG1EUEI0X0pJbmZYSm1xc0dydWdYWENGcmRrMzRxRG4xQWJsTkRXYmFhdE1pWFREcW1FYVFsUldxNE9xcFNHSlNIOXBael9QYVdaV0tNYWVFU2p0NFBoMTBINVl0T0RoMy1semJ3RkkyUFJNMHA4djEtbXM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Provident Financial Is Relatively Safe From Tariff Challenges And Offering A 5.8% Dividend Yield - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0dqd1J6al9VVGNRaXNlZUN4M1FFV0h4RjFTb1BmRE53QmczcldQRmZtdW4xYTFweWdaN0FwdjNleG5hdjdBVTNoNnZTNGNBU1ZzZlFOQTEtcjJ2VWRzSFljVTR6RWRYemdSZVRyNUUzS044NUtDY2tBSkxjamExdUhkd2U2QW5CMUdSaXpreEV6aUhKZFdSSjhvNTdJY1NCQmFyQ1piN05NLVVjRW1ibTA1aUl0TjhvWWlsUWplbzNIQQ?oc=5",
-        "label": "POSITIVE"
+        "title": "PFS Investors to Attend Piper Sandler Conferences in Missouri | PFS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlIwV2dxclpxZjNNOTJwNEZmWmdYZUYzWVRYMi02dnlBTy1tbVVIemdSWkMyRG1TRFZmZXhDU2RrX2RmSE9RU0lqemVJdEh2M1U0LVp2dS01M3hiVEU5MmNfQTlxTjFPemxBOV94VFNzXzdCQWg1ampmQmpfN1JXclltT1FkU1h4WWFXYjhOZVFDc1d5bVN3c2VJNm01cVh4ZDF4SjhYUUttZldXcnhuZVJRVXJvakE?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Provident Financial (PFS) Soars 6.1%: Is Further Upside Left in the Stock? - Nasdaq",
@@ -581,24 +596,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "PFS Bancorp, Inc. Authorizes Stock Repurchase Program - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUZSaXNnMDFESmRMRUZ4Zi1Xd0lDUktmZS1KUThjcmF1WlFINDBmUVRseVBYNHFKRUNrYVdLYjVJUm5kM3NwRmhuYzltS3pydGs1NWZON1I4cV9iX3RvS0tPYkVKeDlXOUVRVTdMME1BcUw3Ulc3NXk5bVZCZDg0SUUtYmtBb1hBTWhMd1BCdGdlRkl2VEYwbllVWG5ZZGxvYkZDM2Y5MkFFOGJ6YVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 43,849 Shares of Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOR0Q1VU52ZTBhMWdjR0JIaW9TVDM5NXVMR01WaHY2bFM5MTZ1UUFCQlNpYTY3SWRvQldHNUU1c1VjVFA5OC1saDItZmU3RGxxOWFBUU5MNXlreW8tV1lTWG1jeDdjMjlSRDE4eldqRm5OQnVZOHdiNFVBREo0dWMwdURTbk5wTDVNbFY3Q1F4cXZKd0czbnY2MDJkQTd1Ykp5MjhGSml3OWpGUnNlVVFObElPT1pKWVVvWWNWa2FWTVJUSENHTDNmc2RMZnNLU3VnbHVVbHJ6OGRjYThCSU8tU3ZTVjZCZWxNaDMtQTM3OFJXVnBkMmszeVNJeGt1S1lpVW41SHp5SmR2TU10b0pLb3FtaVJScFhick9DZFRRb25FQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "A great week that adds to Provident Financial Services, Inc.'s (NYSE:PFS) one-year returns, institutional investors who own 69% must be happy - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSW9jSGZaYlBqWTg1YWtuendwd0x3aFFhbkJaSWhYVXVxZE15TjgzNEhkNWkzV1RSbk50X3BCdVdxbWNJbmoyN2ZyUUdwN3FKaWhaeEgyYTdVeDdSU2Z2Z05nYm10aldWdWJoRWZhcTNLUXVTVFlKc1pRd1hpQ2FBOUZ6VHV2cTBCYU1JeVk5cTJkZFdkNTJDbUhaZnVuVEYxYWdneW5QbG54U210UU1JYVoxeTd0QlV6NmxCRmxjQko3b08zdTNtSTVxVDI5MDJhM0QzckkzMNIB3AFBVV95cUxQUTRMMGZ0TWpJYmNKMHlfY1JFa1FEQlhGWWJaZ3dDUEVCdHlzOTJsOXZjaHB5dzNOY2N1Q2Q0WjJUT3pfVE5MUVZzRVkxRDFMdDBycUk2cW9kYm9jN1pBUDQ4WVh2RS1qTWxzZ1JBWWJXY05nY0dhQ0p0Um9GeWVoSGRBVnZyT0ZRcnBxeDExbHdRWkFfQzhMMnR6ejlfOFIxSGdMZjNVV0s0ZzlMeVE2Q0Q0RTBUVXRORnppMnlQWWxEQjJBczlCN3QyNEo5enFqelNJdkZUU2xPRFZq?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Olaparib Plus Abiraterone Improves Radiographic PFS and OS in BRCA+ mCRPC - OncLive",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNm0wUDdscHpIOXRCdHRxaG1sTjhsZkhrczVSZ09QRWVabnZWZ0twRGhab09GTTFhUmxqVW5KVzl0eXl4STdObUlUcEFEZE1XU0xSZGxkd1RWVWk2ZDVsV2pSTFAtdXRMRTBhSXFCR2NiV3kyUWhRekJsNmJHTXotRkVXdUlsUHdaa0pyYXJidllfclY0YzFNWTlmUm5JU1YxTW1N?oc=5",
+        "title": "Provident Financial Services: Reported Earnings Could Almost Double In 2025 (NYSE:PFS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk5aZHVkVlJzWVN3dTVjQXBrWkR2Y1NSMmw1ZjBlaUJfVjFPbDlZdkVSWG5RUDlRbmVWV1EweUl4RHMzaWJtU0I1elBmU1lOYjVTdW9xRGVJNGk4WFVOWlVaRXd5SW5mb3pwZWNaajBZZkk0d0VWU0xKSkdiTHlWT2stQUhtZkhhcDN5OG9zMzhmQXNwcGFzRXFJVXg2TVl4YlRWcV9aY21KWndMVXFYaXZuRURDZw?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Squarepoint Ops LLC Sells 125,055 Shares of Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnV2Yzh1STJqaU5nYWlGMndZM2tQdlgtM0lQUnh0TWUzSzZwLW5XX3NOamdKbmFnTS1NSGR0WFVqM2E1QnBiS1lKOWl2c0lYcDdWUHhnS0JhaVBBWGxVSTV5Ukxkb1VSekgyUWsyWC1FVEtBX1Fsc2RmMU1VbjBsR2tYX1hYdGYzT0pGMkdkb2UzZUI3cGhncG1rM3V4SFhXOG1iaTd5QlJUdFdvanVYM25Lc1lLSVhVTTZKUWtfaVh4dUd4NG5McDBpUm9JZWdOQTU0d3ZzYUhUZFJP?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Provident Financial Q1 Earnings Coming April 24: $24B Bank Giant Reports - Stock Titan",
@@ -606,29 +611,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Provident Financial (PFS) Q4 Earnings and Revenues Miss Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnVVZUt0cWl2UERESnBfVXZqLWhqeFBURkZWMTJLVWlsTzdLajJ3Q0xLTG1KNzFGeV9mdGh0MU5BLWtuQUt6M2k4THhGNHhxOG0yNDI1Z2VYYlhaVWFiR2xhWFgxUWtOc0lRcTNSSFRsZWtySFJmeUdXS0xzM0c1WFNaWFhkazUt?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Wellington Management Group LLP Cuts Stock Holdings in Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSmxoc1Z1T1l6RHBRX2JEdmxPbWhKUHNIV2UtLU0xTWlqc05iQzROU3pJZ1pBdEw5RDQ2eWhyTnFLaDVOMzNLZVVYc1dZQWQyb1dVeU9uUkZmZTJLVDhWVDNwYkVXUWg3Ylotd0s0SGwyNEhadXItWUFKWGw2OGlPb0dsR2dkeXhSQ2p3ZXI4N3R4ZXFVdWtjXzdHMlF1OENYd1hQYjN4eWpTRDlJbHRORmJUamx6aTZBLTFqVVZvODIyR3ZVd3ZyUmZRSXUwdnU1RGVwQlRneDJsMktpWHU0N1RpXy0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Arizona Sonoran Updates on PFS Workstreams at the Cactus Project - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelYtbGdWNm5ZYTZPeUMzZ0wwc0d1SjNiSUs4Wkh3aE9iR3dWMDRKVFZXNjl2cU93S0l0ekhENlZidktveGdQUFplcWd1cmR6V0ctajVST2ZnZ3FDRkgyQmVvM3dDLWVvQTJLc2NWUHYwdUNjam1va2xDdFVPellMZWRUNGlIMmRyb2xPVEdqM1VSa21rb0xveTByRDg5YlJjcW9OMlkzMzdOZkdtRDhwOGdB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Provident Financial (PFS) Reports Q4 Earnings: What Key Metrics Have to Say - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHU2SUEtWEcxN1lVWDZ4LWlqTVdxcHlYYTFJdzN2enp6Wm1fZzBWYlh1RlZTbUl3ZnY1aXhnNlljY2hpUDRXUHlOenpOOE5MVVlqSzhTcEhoZTRoaU5sVmtLSjBrV2hoLUNfVTZBdU5NMUUwNUprOXVxd3Znc0dnQlRsS0N4VWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Man Group plc Invests $296,000 in Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMWlNYmppTHNZamtBN0V1c3NXbHVMV25KZ3ZpWXZFS2Q3ZTdRLXZHZ2RGY0Z3MVdhbFczRmNYR2VIRGFVWmVDNzl3aTRBd1l6b1YzUjh6ZTc2QU9VTEtIckRmaVl0QkRsQnY5RGZOY0NHZ0ZxWW42OHNTTTJyRWkyTDhqXzlONW9ncVFyTnlRR1JIUG1oc2hFdUJOVERLRDFZclZocjRGcUlfMm5YX1RIbVRmcTBiRnVLdzc2cmFjcW9PQlNadzJiRVpaVnJoYlVaRnBnNkNqdHBvejg?oc=5",
-        "label": "NEUTRAL"
+        "title": "Provident Financial Is Relatively Safe From Tariff Challenges And Offering A 5.8% Dividend Yield - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0dqd1J6al9VVGNRaXNlZUN4M1FFV0h4RjFTb1BmRE53QmczcldQRmZtdW4xYTFweWdaN0FwdjNleG5hdjdBVTNoNnZTNGNBU1ZzZlFOQTEtcjJ2VWRzSFljVTR6RWRYemdSZVRyNUUzS044NUtDY2tBSkxjamExdUhkd2U2QW5CMUdSaXpreEV6aUhKZFdSSjhvNTdJY1NCQmFyQ1piN05NLVVjRW1ibTA1aUl0TjhvWWlsUWplbzNIQQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Provident Financial Services, Inc. (NYSE:PFS) Shares Purchased by Deutsche Bank AG - MarketBeat",
@@ -636,26 +621,41 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Major Business Survey Reveals Mixed Signals: Growth Optimism Clashes with Tariff Fears in 2025 Outlook - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd29jX3pQdmFUS3hUVEZSRjZZYUpNM2xDeDR2bXcxSWJ2akRiblMzN2NyYWNMa0N0aEd1Nk9XS2RnSVR1WG1EUEI0X0pJbmZYSm1xc0dydWdYWENGcmRrMzRxRG4xQWJsTkRXYmFhdE1pWFREcW1FYVFsUldxNE9xcFNHSlNIOXBael9QYVdaV0tNYWVFU2p0NFBoMTBINVl0T0RoMy1semJ3RkkyUFJNMHA4djEtbXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Provident Financial Services (PFS) Expands Presence with New Newark Branch | PFS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2ZvdFVtUE9sc09mdlExay1OR2dtUWViN0JMRWpGdzhmM1BodGhqMk1ObUhxb1F6SlphZVA4elRzek9ISXpYekgtejFzUm5Ic2wxX1FuTXJ2SVdjRk9sM2lRaVo0OWRtTWxVQzlOeFdjZjBoT2xWcUotNGRjMGx1X2FpZkFjUnc4dVNDd1pCS2VLSGYwTnFYc0pFLWxxQVduWDZfYkxaQVAzRnI2Z1gxRzlXYkg0bU9qejlKNkNKem41a1FKUHpkZXVXRndVQTNXQ0t1aA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jane Street Group LLC Acquires 35,579 Shares of Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNanZuOUMxeHJNU19kQWdTazBnMW9GNnJKMTFnT0l2V2xybFhhQlk5TGxaZEhJTkZ0emtrNUVEWGhKTVFrNnE1dm9VdE9sbjM5VG9KU1c3Sm1Tc1NOb0o4c2kyb2JxWDM5TlVIN2MxZ09kR21BaG00YTlFaUdHT1BRa0t6RmlKb3pYbzJPR2RuNXktbXUwbjFjd3p5blM5c1VUdWxHclg3MEZLOEtTTlR6SWQ1azZ5OXZSMHp2OXNrVVd6TGxMN3hKMVdOcGVBVDlBMmNlT3Z3UmhmaVVWQUkxbnJsQUZIRHhaTUJ2ZmVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Lowers Stock Position in Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdXJxOC03YTRaY1BGRkVHcUphRkZscE9KaGQyd0FZZ3lxLW9KUi1tckY1dHc4NHotekhHSS1XdllQVEhQWnYxVWJtSkJtWE9yNVNSTVpwWmJkTDBDeU4ydWdWV2ZpNDNWQWN0UFp2LXk5RnRwaXUwamwzTUU3aGhTQjRrRWdicG44YzlfZW5OY0JqT1ZOTk5oRnpWcWFzVkJ6blVSYU5Ec1hVcFZDRk5yLW9XMk5kdDUyNUVyLUlDY3lEZThBMWxRS2lHREVFd0U0VHFHdXhSd0FMckg2N0I1MmNIRFlrUkdLblg1clJn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Leigh Baldwin & CO. LLC Purchases Shares of 48,998 Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcndaQW11Y3VSemJ6dVp3WVFGU2g4RDFIaDA2Z2d5VGNmZVhZblUya0FGNC1NdXN6R09HSE5hQjdzUGltdEdUdmZ0WUxYbHpKdFhJQ2ZNazRuZHUxODhxSzdIZ3R0SjVFQU1sWDV1X21DQ20zWjIweVN3cHh1NHFtMEk5YlZfRzJvMFhpcG9iZFRCbGhwZjFSRFprUFcxRWZ0em12aGZwRHNDUnc2bnhzNWx6SGoyZzJ5cnI0Si1lYXpmRzBhejNwVGVLbE15TWctZDRnVzZrVzZ5cE1sczItV3JB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bank of America Corp DE Decreases Stock Holdings in Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMHEzMWM5RXZ3QlQ3TC00U3FDMDE0M3k0TmVsWlVNZW5RcFpscm1zeVQ0c1oybWtneHU3WG1YYTVWRkZOVTdUVDc1YnBDek41ellNWlFYWnpBTXpMZVlwR01XS0Fjb09wNENzWjdYN19JRHJaRm9CcHdsVkgxQWxwdXFrMVBDbGJxNi1LaUlSbld4c0pDeUxLQ0NTZjlfR2tHeWNzamJPV1RZY1c2aC1tdlA4UXd6d1p1Tk1NZkF5VjQ2ZS1KQ0FnZXI0cmxSNGFYZEp0WVFWTnZycEM3RGFsR0RyclE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Systematic Financial Management LP Buys 87,612 Shares of Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVzVnQTV5YTIzclZ5Zl9lN3FJaUtSV21wNFVhOURuUXZUS1lUWkduMjcxcUdSeWExMGdORU52MkdHVW1KWWRJME5tcndfUFR5WjlZY2lfQUZWUjVaQnBfNTc2RHI0YktBMkIwN1czX21pdXVfb2FkVUVfSUp4dS13RnVuVjE4bmVMR1ZVdnFYZU80NDJFYkxTamxQdFM0d2FFMzBMQnVERHRkeVpyVnV5My1tS3cyZHliYzhFZnZ4TU5VbFRDRmxnMk9RUDl4YVRKaGc4eC1HRnhoUGprMzJtUlBiSQ?oc=5",
+        "title": "Millennium Management LLC Sells 254,561 Shares of Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcGpZcENQVnB5WFNoc2NCYTB5NEFCWXEyV1EtWERublhpazBjUG13a2lkbF9WRW5Gd0lxV01xcG9ZWHZUdW53R0JJbHFpTUhITHlYT3ZhdTBWcXNtZ1I1TlBBNm5McmVRaTBzOTE4Z0lJRFZHUkRDWko4MEIyOTg1M2dnZDFwVTBfSVZhbC12eUI2djlscFU3Z1V6UjRLZkR1aE1BanFpT2dMYlI1YlhONXk0eEVoZmR5ZGJ4UEdYZU9LRmtxR05OSFJmREZjbDdaYjdNeXB2U1FoODdHY1hRMzdSYTdBSjg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Algert Global LLC Has $2.77 Million Stock Holdings in Provident Financial Services, Inc. (NYSE:PFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlFwb0NGUzFZa29aTzN4cXpVaEZkZFZZeHlhRUhTQ2R4amE2dU5aRXZpWlFBVnQ1anhYczRMU203UGl3WUNaaC11WHk2Zm42ZV8wM0lLOEprLWFWZ0lWRTNkY3NJN2pQZlpjMGJlak1FVWNkc2lLWmpJU2sxcEhKLVZaVjhhbHZPaWpBdlE3NFh5bXNFaEc4SmNQWldzMkNnZFU4QnE1LTVieFBpcjRPd1M1WEFjckp4UE9KZXZTTTlmM2hjTGE1cDNwYy0?oc=5",
-        "label": "NEUTRAL"
+        "title": "PTC India Financial Services Limited's (NSE:PFS) Share Price Boosted 30% But Its Business Prospects Need A Lift Too - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1lHQWROSm1md1JJNFdhejBkU1dHdk5KODd4eUFXaE16bWpQMkoxWTFDc3FtRG5tQVZiazVQRDFNSE9qQUY3TVItenJCSEZrMjRZeVpYOXJfOEk4UVBPb3c0a0pUejhDaDB5MlBadU5BQnk3TGVlOGM4ajdHUU4tYzljeV9XcmtNbUljak1vSVVwakNlS192M1dMaVQxSVFFOXVMMXB6dUl3d2pkb1NzWUF3SVN3VzhxVVlNaVdjRjVvU1lyZ1hlRXZob0twTVVfdEg4a00xLWRDa0ZfMEJoNEZpLThPcm9GR1JNcWpVeHlFRG5GY1lN0gH8AUFVX3lxTE9TV1A5WGNYM0ZfaXJZOXhLZlZIMEFjanFYQ0VmWmdxYXV5d0NoaVZmUnVPa0s0d1FkTmhvLXIzVzNjWDVVVmpVWVFzNTg1MjlYaDhhcTNjVGNhd19OSW92MXFYRWtOaDhBVGh1Mm13V2RuZTVqNkN3b0wzSWZTSW1zYmJIN05rbG9uNThQdW44UWNqSlBHb081ZXhoZGRMR2IwUTJBaWFEc2pNQUNuZHRtQWNxT01aTFJiaHJzOG5yUC1BVEh1X3Z6N2lWSXpSQzdzLVN4OFE5aVRSMVhpdF9EV3pxalZUeGVpQ2E3Nm0waXE3T1BsbXFQVldldA?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

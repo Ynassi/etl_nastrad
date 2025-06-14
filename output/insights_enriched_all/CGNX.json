@@ -2,16 +2,16 @@
   "ticker": "CGNX",
   "name": "Cognex Corporation",
   "sector": "Technology",
-  "market_cap": 5066165760.0,
+  "market_cap": 5052736512.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 43.739132,
-    "PB": 3.5044124,
-    "EV_Revenue": 5.381,
+    "PE": 43.623188,
+    "PB": 3.495123,
+    "EV_Revenue": 5.447,
     "ROE": 0.080240004,
     "ProfitMargin": 0.12803,
     "GrossMargin": 0.68299,
-    "DividendYield": 1.06,
+    "DividendYield": 1.05,
     "DebtEquity": 5.098,
     "CurrentRatio": 3.14,
     "QuickRatio": 1.999,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16195812640263596,
     "ROA": 0.04022,
     "PEG": null,
-    "EV_EBITDA": 31.034,
+    "EV_EBITDA": 31.413,
     "BuybackYield": null,
-    "PriceToFCF": 34.12255977431826
+    "PriceToFCF": 33.97605912373463
   },
   "technical_indicators": {
-    "RSI_14": 53.54497206823835,
-    "Momentum_10": 0.9702272380366036,
-    "MACD": 0.4337093491755688,
-    "BB_Percent": 0.3780613148839395,
+    "RSI_14": 50.47063194042789,
+    "Momentum_10": 0.4337706743199907,
+    "MACD": 0.4191396490230055,
+    "BB_Percent": 0.3413464737551916,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9195403546815588,
-    "QualityScore": 0.3275645077752283,
-    "SignalScore": 0.5224892328269024
+    "ValueScore": 0.8794814213667855,
+    "QualityScore": 0.3349089751444534,
+    "SignalScore": 0.5730604055575641
   },
-  "volatility": 0.0296333147265158,
+  "volatility": 0.0297417116448758,
   "beta": 1.465,
-  "return_6m": -0.1968068031219283,
+  "return_6m": -0.1842454347201737,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 36.55556
+    "target_mean_price": 37.38889
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 38.36
-      },
-      {
-        "date": "2024-12-10",
-        "price": 37.93
-      },
-      {
-        "date": "2024-12-11",
-        "price": 37.49
-      },
-      {
-        "date": "2024-12-12",
-        "price": 37.71
-      },
-      {
-        "date": "2024-12-13",
-        "price": 37.08
-      },
       {
         "date": "2024-12-16",
         "price": 37.47
@@ -537,67 +517,102 @@
       {
         "date": "2025-06-06",
         "price": 30.28
+      },
+      {
+        "date": "2025-06-09",
+        "price": 31.14
+      },
+      {
+        "date": "2025-06-10",
+        "price": 31.43
+      },
+      {
+        "date": "2025-06-11",
+        "price": 30.84
+      },
+      {
+        "date": "2025-06-12",
+        "price": 30.6
+      },
+      {
+        "date": "2025-06-13",
+        "price": 30.15
       }
     ],
     "current_price_data": {
-      "price": 30.28,
-      "change": 0.04,
-      "percent_change": 0.13
+      "price": 30.15,
+      "change": -0.45,
+      "percent_change": -1.47
     }
   },
   "news_sentiment": {
-    "summary": "Cognex a récemment dévoilé sa stratégie d'IA sur 5 ans lors de sa journée investisseurs 2025, suscitant l'intérêt des marchés. Malgré une hausse de 3% de son cours le 3 juin, des signaux mitigés émergent avec des paris d'options suggérant une forte volatilité. Alors que des partenariats clés et des annonces d'investor day renforcent la communication de l'entreprise, des inquiétudes persistent quant aux vents contraires à court terme. Les investisseurs surveillent de près la croissance attendue des bénéfices et les mouvements de prix récents de CGNX.",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
+    "summary": "La récente actualité entourant Cognex (CGNX) met en lumière plusieurs points clés. D'une part, la société a lancé OneVision, sa plateforme Cloud AI révolutionnaire pour les systèmes de vision en production, renforçant ainsi sa position sur le marché. D'autre part, des ajustements de prix ciblés de la part de Goldman Sachs et Needham, ainsi que des prévisions de croissance des bénéfices, témoignent d'un optimisme persistant des analystes. Toutefois, des inquiétudes ont été soulevées quant aux performances passées de l'entreprise et à sa volatilité, incitant certains investisseurs à envisager des alternatives. Malgré une récente baisse du cours de l'action, les fondamentaux de Cognex semblent susciter un intérêt soutenu, notamment à travers des initiatives stratégiques telles que l'investor day dédié à l'IA et à la vision par ordinateur prévu en 2025.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Revolutionary Cloud AI Platform OneVision Transforms Manufacturing Vision Systems: Cognex Breaks New Ground - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUNEZW5XbkdCbFd1cXdCeXF5bV9iMGxNTU9sN29lWVl5YnNIN0tfa1R2a29nblMwQzRmLU5Ncl9vazJYS2VXQkJEQXQ2S004Q3dZMDZ0aVM5djYwU0pTeUNjbEpIYTJuZ0c2Zzk4Zkl2SkdUZ25wTlFRZGtpVVdjN2Y4dHhqZWlSMGdPaVk2Q2Ntb1lKM3FIYzVRU3FBcTNtTHk4M3EyLUdkOTZROXN0aTQ3NTJGX3hnRG5FZg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Cognex (CGNX) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM051REFtN1VPX2Uyb0pPWWNVM3BEN05IbVVzOFpPYWZaQUtFVnBBT2M3OEhjY1U2WEZ6ZFdmc1I4RDBzVEdjYUwya3M5X1EtVkxRTmtneWVGcWtVU3pmbTV6QnRHNTN4cWNrckJXa25tRFhzWlFkd1dCTUlXc0FhS3I3YTI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs Adjusts Price Target for Cognex (CGNX) to $32.00 | CGNX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaFRjYzlObjhTVExUZ0gwbUhOazRvVXBoRFdkYmJzQzlwcHpRWFdHMHh5aWl1UG9Jdlh5b3pWTFBJd1YxNjNRdlkwNlZrLWJSSWF6MEdJOTZwbFFwNU1Lcjk0ZmtmUmVRaEQxTDNteEZlTGNXaU9CT1dyREhJd0xtRm9fWE4taFo1UzNVeFQzUDdJeUtCZTFvSDJnbzRVNUo4U2M0VmYyTnpYcGdxb0FGMGRfc2h3Zzl1ZGYzVWdNYTVPc2lYMXkzT3FPREJ4YjNQVTl1VDNQMlFpSW9UWVJWcEYyODZPLWxYbWRsSXQ1bjg3WFkteGNyaHFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Are Bullish on These 3 Laser Tech Companies - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk10WFRjbU8xZnV6NGdyb2I1ek1fYU5nUnpnc1ZKMHVxNnZ5bkU1RWtKYzNwaFNYbTRTanZXaVpBSS1wYXNLVHlqLXZNbUF0cWZMWWJjN0pUT1Rrb01FRHAxSmxXTE1fVEd2U0Zialp6enNGcDZVeEFjRXlBcTZJRU9wU0pSa1pWX3F5X2FDOXlVSE9SNG5z?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Cognex (CGNX) Stock? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSlowOC01RWlhckQwLW1vT3plVnRpbll5M215eFdQSWJ1QlU1UzFjakxfZEVYdUpuM2xsM1o1YVpiSERXRHZNbEZXVHdQanBFR2pHQzNfQkpMOUg1bEh0TmExUFktMVhaQ25jX1V2ODFNV05ENzRMeWZvU2JvSGhZbUdyVW5Jd1RJTHpQZE5BX0JkTWtTV1dJWDZBb2liM3BfdklkbEtmcVljWWxubEEyS2lxbGhPYzIwMENRV3EycDlNVjZadnRRZVgxVzRBSmM3YVRjSGdwUzlyME04YUhCOVZzUjI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Returns At Cognex (NASDAQ:CGNX) Appear To Be Weighed Down - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkkwbkVyXzJuTTEtRU8yRGw5NG5XRDVQdzM3MGpnT3Fyc1kyZjNjS0I4Z3NZTEJ4X1ZHV3BnT0NHSm83emRjY1B3VzMzTVU3M2NkODlNdWM5bFJwRGJranU3Nm1Tb0w3eGJ6cUloRzRtWHdial9iR1dYQ1RMZWIyWnEySkYySjEtQkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Needham Raises Price Target on CGNX to $36, Maintains Buy Rating - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlB5aGlCVy1KWDFvS3NObGlVamotWUNtV0pHczZGQ210ZXF1TkF5Wmp0SkgyY1gzdEs4cDRway1BU1NhVzNhT1M4NnVzSVZ5anFmbG9VeXAzVExxdDZtZzJ4TGNaNXY5Y0U2U1J5UlNmelVvVjU1bmVEd3FweS00b0RVa1V2a1RScm04TGowUGstbTBscVAwWmpxdWdHVTdCM2hJMGJqNGJDWkMyQzBMdlZINDI2RGd5?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Cognex to Unveil 5-Year AI Strategy and Future of Machine Vision at 2025 Investor Day - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1ZvWWVUWHE4czgtQ0FKUEZVU2o0NEtoNDBSckdtdHNTaWxTSThuc0NscHhCenU0U3lpakZzWmZDcEYzVFhlejhZM3dRQm1xR1U0aVY3cXhYakR2cHJvTjBxM2l0MjJNQTlwVzBsckljc01pU3FwUXEyWnpuWVJlMVp0RXZjdk5qUllMZzQyd0VXLVlJdEJaQg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Options Traders Betting on a Big Move in Cognex (CGNX) Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYi1vZnprUjVhckhKN1BzUjNpeERCMlltQ1UxVVppX203WU1OWTROSG9tNzNFbHhENHpVbklRNnh2NzFUUXhwc0FCc1VTNlNYa0sza1FUSlRidkw1dk91aXJ6WDhSejZqX3lkZHZXaUlWWlgycExybTNacld6VTYwaGJya203cGhEMzhyQ3ZqQQ?oc=5",
+        "title": "3 Reasons to Sell CGNX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16UTFUT3U3ekxEY1NxNTdwbV9hR1N1S0lldTJvbmNuZXJpS2d6SjBXR1FfeVFJQk5yT00yQ2J2VExtSEJxYlBNV3JMQlJBNGNHNnpFQm5SRWdSNVNTUFJxcVhlWTdDTnpDUEFURzFyN1JoUllPRnc?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognex Corp (CGNX) Stock Price Up 3% on Jun 3 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHJlRmhoa0FyRUpQVkZVVDFwR3ItSzFQMUt2N2ZfMkZaWGtGOWY2dloxNkwwd2d6OWU5cG9jaVBBeHNNYmZQRnFsSHFOd0NuOTI4UjFZNUJaOE54RnhhejlMX21DclphQzhLQUJhTHBPQ18wV1NBVnd3bVU1Rnhac25JZmx5S2ox?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Are Options Traders Betting on a Big Move in Cognex (CGNX) Stock? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYVE5NUlmVDVsRTA3ek94dFZlbnNJYjZkQUtZaEZ0Nl9zTE1jc2c2ZUFlLThfQnN4MWZRWV91ZWlyTF9DZWFTeWhTOEZrT0tCMURMRXBUVnhvQ0k2enBzQVlpcl8tWGJjdVdfcXVfZ0Z5X3REUkI3QjExWXowa1J4Rm1OQ25fS0hyNGJXUFFmamRwYmFiRFk1RFJhNzVoT3otbmxjN2RueFRtMnRwdkxiZWZhSDN2eXdpQ2lOSjBDa3psbThSWkhLRk5tUHpNcGlHdy0yb0R3N3JZQWlEOG5RUEJR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Options Traders Betting On A Big Move In Cognex (CGNX) Stock? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblFUY0V4LVQ4a0ZnaU1CSlVfdmxMektXcHV1RWswa1ZrRnF3Z052ajZfeC1TRHFEN1ItVUdvcTNnTnUwWmt1UXdTbTlVM0ZxeVd4RFlYSm1BV1hReS1OaWdaMXkySGlsM3RvSmoxRXZqV3hZM2VlR0xWTlh5Vkx3Z0FXa1VnWTlGYWJOX3FGQVE2OVJjS194LU01d0tmRVZ0TVZJV3dIN1hfUk0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cognex: Attractively Priced, Despite Near-Term Headwinds (NASDAQ:CGNX) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzNONmxhaHN6eVZqYTBuWmJ5YU9mWXlQYVZhb3dSai1HeHRVN25PajZaajhKT0NZWWtDTnJncXZuNTVwQTVzN0JxdGplQ19wa2FYTENfaU5KVVVjRmY2N3R4bDFzVEVqdkxJaEJURjZ1UDAtRVM5aWg4OUhvM0VBY0V2Zk9wQUd0RU1nR0RYYnMwRkoycDVyVmN1Zw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why We're Not Concerned Yet About Cognex Corporation's (NASDAQ:CGNX) 27% Share Price Plunge - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcF85QUVYNGxaMEN0SW5yRUlDdVBlckVmalFUUkZPMm1FUndXZDRzNDFXalJrZkttb1phV1ZmUGh5VHVQUlFNNWVxbVZJcFlIRU5WWXhIb21hNHI4cUxsSEZhVnBSdVUyc09ESW41ODRJLXdYTTJFSTYycjliNWlwWWVlRDNnUEhscHN0NzI1NmNXc0Nka0loQmJVaGgyNHM1Nmh0Y0Vkd25sMjFtVUtnZlQxRGt3cEJqUmoyVmNB0gHDAUFVX3lxTE1mQ3NZVnUzajhieE9NaTZVdVR2YWg1ODJnV1FQLXlGZU9wNUlsOUpJMGo2djNncVh2dlJiRnlyU3ItYjhKTmJCOUJISGZRMVUtOTlVcHE3NHhyMENOV1pqSy1XTHNDRVktR1F2X0d1WGxTVXNvcXRYWDJYR0R1b0VmN3hDSEtreFFqQmVOeG80dnNKMGJRenN6WkZ0ZmlVdTREdXpMQTVURGExVHZqak1fbEl6M25oWmEzaVJBWUdfM0c2QQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Q1 Rundown: Cognex (NASDAQ:CGNX) Vs Other Specialized Technology Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3J5dkwxRlc3aEo1aTB5NXI4RnlsYzZJZUQtbUVmZVZGOG5ES1ZoUW1lQm1UTkxwcXVjUU9TQm9ubGtTZWlzQmFnYllha19yX3lqYnhDSDhXemJJU1F6eWppZ0VhbU9MdzQxWWtOX3RrNWZlamVQSUVjcUNUc3lMOA?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Cognex Strengthens Wall Street Communications: Former Iron Mountain IR Leader Takes Helm - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTFEU3FYemRsYktZNmlMV0FUbFg2WUlscmxMT01lSmdDTXRkdjMtcks2NUZQNGJUZXduSXgycktFZVZnam9NWU1mbkU2ZEtDOVRILW9oa2YwOW9OclBPVzFvaGVDN0RTME9MN0RsbFJkVEtOS0pzMVRVYmt2c2thX2ptSGJDNGFQZUQ4RThZNURhdmxiU3BtcW05YXotcFFZd0Ew?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cognex Introduces OneVision: A Breakthrough Cloud Platform for AI-Powered Machine Vision | CGNX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNzBlSzh6RW4xLVo3Q1pEZ2hidmRJMGdwQS1Md1NVZFplaE4ydjNMQ3NtWTR5a24tTWdfY1Vfa3BGcGpGR0pBZDRjTFN4aDQxb28zTUowNm9TWTBkWTdlYjFPbGV2eE1GbGVvaVQ1TU9IMF96dXlDXzdlRzNkbnAyOFRFZU5uY09Yd3NXTm16N3Z0MUd0eEp3RklVdDBxZ2hORXNzYm5hX3VXVzZlTEV4U0t6allYQjg3SFBrQWxPV2tqRGtvTTlYRWhrY1FrOTZhM2tDWWtxWkc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons CGNX is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2Mk9xVTVFbURES2FuemlHd0twLTQ0RkRIdm1FUWZjQ1BMMEhEQ1BTRHZEbEZXN1c4RWhoWXN6WGdiNWR3S3doN2M4OXlTLVM2VldKaWNOVGhMUUNHcW1hekRoRW9idUYyR1RWUVNWVWFXQmFVWFZJ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,33 +621,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Cognex Corporation (NASDAQ:CGNX) Is About To Go Ex-Dividend, And It Pays A 1.1% Yield - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzF2emVQMWlZZS1nTkp4RUNldXBVcGJRZnlHdVZsSGVWUVd1bUtmTDFRM3FMaC1ic2ZSNFFtSkNtOGNQemhFUmJkeG9PWVhoWndqMVhOdkI1a3BMb1RLdEl3NlN6NUd0M01uaDJUSnNvc0dCT3N6UGFQS0tPYjBIS3NIZVZoWFRLZ2hxLTY3NlBlOUs3a18wTDBMV01yWnM3NExDYVdkYlVXMEtNQXctYnhfNDF2RDhNNms1UHdR0gHDAUFVX3lxTE1vVG5kUExYVXFTNzlVSDBhU2pkbldRclZldnI4Sk1LWWxDWmo0SmFBSjY1ZUF0Wm9XXzViZERQUVQyeWF3OGpqUWMyY3BCbTZ6Y3RHdVJEUkJsS2pnLU5ta2daR01OMUhSaVBCMmFnUzZqWWtvYVc4Z3ZBbUQxeEVmQ19RdHNJazdXM1JzWTNCSlBBOWJobm8yWk1CS3ByQTZ1S2h4WjV0VjY4dUxBeXROR19TNDRkS1pxYnBlSmNmN3BNbw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Cognex AI Vision Systems Power Next-Gen Sustainable E-commerce: Major Partnership With IMA Targets Zero Waste - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUU96YThBbEhtQUlmWHhKd2RRRkZrMm1LdUFkQUc1TFIzT21RdmJBeVBSWjFwOTE0V1QzR25Fc0d3aF9uYnp3N1cwNWRKaU1lbk9rMl9WX2JBNUlISHZ3dzFXOHVIQ2tJUHE3NkFvd0JXMWJZU1lkcjhuVjNvcU84RmMtLUlOVFNrU2RuQVJodk5fX0VrMTdYcGNIOENCNDVBLWZJQ0tOaC1VWnU5MjRnRFRvWFRuVTluelJUMg?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "3 Reasons CGNX is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2Mk9xVTVFbURES2FuemlHd0twLTQ0RkRIdm1FUWZjQ1BMMEhEQ1BTRHZEbEZXN1c4RWhoWXN6WGdiNWR3S3doN2M4OXlTLVM2VldKaWNOVGhMUUNHcW1hekRoRW9idUYyR1RWUVNWVWFXQmFVWFZJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Manufacturers and Logistics Providers Embrace AI for Enhanced Barcode Reading Performance | CGNX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSWg0WDlEN0wxT3lTYnlRZGlEdEVFNlVGdEhEZjh1bEVKRlNJUC1vXy10UnluY2E2c1p0WG0xeTNjdzk4TVU5RzAyZnBraS1DcGo2aHdXNnRyTWtvMGtSS2NwcDRkYzhuMWtkanRHLXYyN25Ra01jbUJxZGRXM1ZHeGdUZDI0Y3hhdEpRc3lrWVJYY3Q4aGpSV2J3TmM3ZUNCLW5YbEZnaVZkc0h3cW1NYmZSdlZiOGxxSHJ0VXJfN2Y4ajdTUk5QME45NzJzNW94WHZGbHJXWEdGQlRUOGc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Cognex Corporation (CGNX) Went Down on Thursday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk5zSURvcl9DSjBXVzZKX1lSbmkwQi1ZbjRpQ0cySVFqVlFfVUxLS2EyOTJyeHZWOXhLaGItMmdPVzJJMmUtelBsU0gtUlJlZGNtZHFRZmNCU0ZuTkg3YkJJYjVVb1FLNXlRSk4xZ1VxTndJUjlfWFpwdi1OUUhwYWV4bTY?oc=5",
+        "title": "Q1 Rundown: Cognex (NASDAQ:CGNX) Vs Other Specialized Technology Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3J5dkwxRlc3aEo1aTB5NXI4RnlsYzZJZUQtbUVmZVZGOG5ES1ZoUW1lQm1UTkxwcXVjUU9TQm9ubGtTZWlzQmFnYllha19yX3lqYnhDSDhXemJJU1F6eWppZ0VhbU9MdzQxWWtOX3RrNWZlamVQSUVjcUNUc3lMOA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Cognex Appoints Greer Aviv as Head of Investor Relations | CGNX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc2NIelpBb2Qwel80TG5xUklBdW1hdTdDVlZTMmk4R0FCMGU2cEJpTHpMb3gzdGhidlVWY19la0RvaklvRm04RGY0R1NLajRrWmlxeHRwZVdiaUYycmFvbVBndEZKNXBQNWNwaHhXQzBIZkxjUzREcXBlWFpqbnFNeEVFUDcxZjRTMmM3V1ZldVdYaWk4SlJnelVtc1Exckw5cFM0TWhlaTB1M09LYkIyOEJ3Sk5qNjZJRVI2czF2ZllYQ0pnNk9ReGVBbVNBX1BvNjhWaC1qcmFpbENOaUFtVGpIbHJtNlF4eEdTMC1iX2VYdkZGcGxfUQ?oc=5",
+        "title": "Cognex Corp (CGNX) Stock Price Up 3% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHFQT3BvRndtemdNOTNZXzNsOXF4UU94dE4tY3U2WGpYZXl6N1pkT2NCQWF5dlhtb05TaWFua2hSNnFyc1V3cnNHZlR4Wk40OHM2R1pKSm9WYTJEOXRFR3VKZnRMTURJSEZnN2ZMWjh0YXBsTzFwdnQ4QmNUNVp2MFVBSlVXNzJQMFppaExHSlVHbkNocy1Dcl82cndPTUVOTTFET19LOE9PSFFDNnFwLTZRUGV6UXVRUXQ4VXd2ZExYSkVGS2hNaXo3cWNBMXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cognex CEO Rob Willett Headlines TD Cowen Tech Conference: How to Watch Live - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEdLZUdZTDZ4Tks3NlUwLThXVWRybDFkS2JsQ2ZtWDVMLWhKaml4dmhmY3ZJVWlnX0RQV2pwbkFXUXVyRnllbWpYbjRMenJKVV9GTjNMM2xlV2Z1QkNnRi1jNVUyOGN2Zk9tdVhqZThJRUVleGsyMWxUaXEyQmpPYzlyNHRpNnpmSXRySDJWY3RSNGI0RjdYdWJJMmFFMlhZdlVfSjJMcWhHTDhTdUdMamloOA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Cognex CEO Rob Willett Headlines TD Cowen Tech Conference: How to Watch Live - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEdLZUdZTDZ4Tks3NlUwLThXVWRybDFkS2JsQ2ZtWDVMLWhKaml4dmhmY3ZJVWlnX0RQV2pwbkFXUXVyRnllbWpYbjRMenJKVV9GTjNMM2xlV2Z1QkNnRi1jNVUyOGN2Zk9tdVhqZThJRUVleGsyMWxUaXEyQmpPYzlyNHRpNnpmSXRySDJWY3RSNGI0RjdYdWJJMmFFMlhZdlVfSjJMcWhHTDhTdUdMamloOA?oc=5",
+        "title": "Cognex Appoints Greer Aviv as Head of Investor Relations | CGNX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc2NIelpBb2Qwel80TG5xUklBdW1hdTdDVlZTMmk4R0FCMGU2cEJpTHpMb3gzdGhidlVWY19la0RvaklvRm04RGY0R1NLajRrWmlxeHRwZVdiaUYycmFvbVBndEZKNXBQNWNwaHhXQzBIZkxjUzREcXBlWFpqbnFNeEVFUDcxZjRTMmM3V1ZldVdYaWk4SlJnelVtc1Exckw5cFM0TWhlaTB1M09LYkIyOEJ3Sk5qNjZJRVI2czF2ZllYQ0pnNk9ReGVBbVNBX1BvNjhWaC1qcmFpbENOaUFtVGpIbHJtNlF4eEdTMC1iX2VYdkZGcGxfUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Specialized Technology Stocks Q4 In Review: Cognex (NASDAQ:CGNX) Vs Peers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzFrTUJCdHE5bHFTcEJ4VVV4NGdBMkFHbEFJRm9kc29qTERadnRPMHl2dXp4dlE5UHdVSzJFMFhyLVJRWDRYMjRMSVVQZ2Jmb0pPLUFyOVpIR19udDJQVS1wUTVjMVhDRTNPMVpoUW9JZnd6U00yb2E5SnFrM3hTcmFNSjRFbG9BUTBYaWF3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts Are Bullish on These 3 Laser Tech Companies - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk10WFRjbU8xZnV6NGdyb2I1ek1fYU5nUnpnc1ZKMHVxNnZ5bkU1RWtKYzNwaFNYbTRTanZXaVpBSS1wYXNLVHlqLXZNbUF0cWZMWWJjN0pUT1Rrb01FRHAxSmxXTE1fVEd2U0Zialp6enNGcDZVeEFjRXlBcTZJRU9wU0pSa1pWX3F5X2FDOXlVSE9SNG5z?oc=5",
-        "label": "POSITIVE"
+        "title": "Why We're Not Concerned Yet About Cognex Corporation's (NASDAQ:CGNX) 27% Share Price Plunge - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcF85QUVYNGxaMEN0SW5yRUlDdVBlckVmalFUUkZPMm1FUndXZDRzNDFXalJrZkttb1phV1ZmUGh5VHVQUlFNNWVxbVZJcFlIRU5WWXhIb21hNHI4cUxsSEZhVnBSdVUyc09ESW41ODRJLXdYTTJFSTYycjliNWlwWWVlRDNnUEhscHN0NzI1NmNXc0Nka0loQmJVaGgyNHM1Nmh0Y0Vkd25sMjFtVUtnZlQxRGt3cEJqUmoyVmNB0gHDAUFVX3lxTE1mQ3NZVnUzajhieE9NaTZVdVR2YWg1ODJnV1FQLXlGZU9wNUlsOUpJMGo2djNncVh2dlJiRnlyU3ItYjhKTmJCOUJISGZRMVUtOTlVcHE3NHhyMENOV1pqSy1XTHNDRVktR1F2X0d1WGxTVXNvcXRYWDJYR0R1b0VmN3hDSEtreFFqQmVOeG80dnNKMGJRenN6WkZ0ZmlVdTREdXpMQTVURGExVHZqak1fbEl6M25oWmEzaVJBWUdfM0c2QQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

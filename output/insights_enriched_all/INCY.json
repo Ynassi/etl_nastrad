@@ -2,12 +2,12 @@
   "ticker": "INCY",
   "name": "Incyte",
   "sector": "Health Care",
-  "market_cap": 13327294464.0,
+  "market_cap": 13110496256.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 344.25,
-    "PB": 3.6378524,
-    "EV_Revenue": 2.413,
+    "PE": 338.65002,
+    "PB": 3.5786748,
+    "EV_Revenue": 2.5,
     "ROE": 0.0046900003,
     "ProfitMargin": 0.00482,
     "GrossMargin": 0.37054002,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.14004398647173377,
     "ROA": 0.020350002,
     "PEG": null,
-    "EV_EBITDA": 35.117,
+    "EV_EBITDA": 36.38,
     "BuybackYield": null,
-    "PriceToFCF": 21.552643092317307
+    "PriceToFCF": 21.21908902020459
   },
   "technical_indicators": {
-    "RSI_14": 71.09401390703215,
-    "Momentum_10": 6.766389271777805,
-    "MACD": 1.70419626436545,
-    "BB_Percent": 0.9569525197650766,
+    "RSI_14": 59.79992705008928,
+    "Momentum_10": 4.349833902938525,
+    "MACD": 1.8712601169031728,
+    "BB_Percent": 0.6746884652761154,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8842356780739127,
+    "ValueScore": 0.8409918668444193,
     "QualityScore": 0.3683545406641703,
-    "SignalScore": 0.4189882980687528
+    "SignalScore": 0.5129357563888703
   },
-  "volatility": 0.0217185356796048,
+  "volatility": 0.0211336629983088,
   "beta": 0.676,
-  "return_6m": -0.0931243396383031,
+  "return_6m": -0.0119620664962638,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 72.11
-      },
-      {
-        "date": "2024-12-10",
-        "price": 72.48
-      },
-      {
-        "date": "2024-12-11",
-        "price": 72.49
-      },
-      {
-        "date": "2024-12-12",
-        "price": 70.83
-      },
-      {
-        "date": "2024-12-13",
-        "price": 68.55
-      },
       {
         "date": "2024-12-16",
         "price": 69.8
@@ -537,72 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 68.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 69.89
+      },
+      {
+        "date": "2025-06-10",
+        "price": 70.07
+      },
+      {
+        "date": "2025-06-11",
+        "price": 68.85
+      },
+      {
+        "date": "2025-06-12",
+        "price": 69.22
+      },
+      {
+        "date": "2025-06-13",
+        "price": 67.75
       }
     ],
     "current_price_data": {
-      "price": 68.77,
-      "change": 1.53,
-      "percent_change": 2.28
+      "price": 67.75,
+      "change": -1.47,
+      "percent_change": -2.12
     }
   },
   "news_sentiment": {
-    "summary": "Incyte (INCY) a récemment publié des données positives sur son inhibiteur mCALR pour un trouble sanguin rare, suscitant un intérêt croissant. Cependant, des préoccupations sur la sécurité ont été exprimées par UBS, ce qui a entraîné une note de prudence. Malgré les ventes significatives d'actions par des cadres supérieurs, les analystes restent partagés quant à la valorisation de l'entreprise, certains suggérant qu'elle pourrait être surévaluée. Ces événements ont contribué à une volatilité récente des actions d'Incyte, avec des ajustements de prix cibles à la hausse et à la baisse de la part des analystes, indiquant un climat d'incertitude autour de la société.",
-    "sentiment_score": 0.15,
+    "summary": "Incyte (INCY) a récemment annoncé des résultats prometteurs de l'essai de phase 3 Retifanlimab, mais des inquiétudes persistent quant à sa valorisation élevée et à des prévisions de ventes en deçà des attentes pour ses principaux produits. L'acquisition d'Escient pour 750 millions de dollars semble avoir déçu les investisseurs, entraînant une baisse du cours de l'action. Cependant, la société a étendu ses partenariats en Asie-Pacifique et a obtenu l'approbation des actionnaires pour des amendements importants. Malgré ces fluctuations, la présentation à une conférence d'investisseurs à venir souligne la volonté de la société de maintenir une communication proactive avec le marché.",
+    "sentiment_score": 0.1,
     "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Incyte (INCY) Reports Promising Results from Phase 3 Retifanlimab Trial | INCY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHN4dGY4VFIzQ1QzTFl5OTJxNXJsQlByQ1hab3Q4NWl5cWloSV90V3JCM2JmLW42dFRETlNlek05b09UYlEzUW94RUdjOW11MHl1Rld4WXViUmhsa1BKTzdvdmhwR296NWx1WFk2MjMtbVBOa01INHRQU29vdFNxNmRLSnRkR1FSVnlUcndLWnI4MFRMQ1FRTzBXaDFuUThOcUNtMU15Q2JoM2FTYU13cFJ4SGg1NEI0dDJLMHB0cTFTQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Morgan Stanley Maintains Hold Rating on Incyte (INCY) Stock - MSN",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0JEdmRMZWRYWGY5TkFuZ3lxWUJZWlJEYl81Z1dTSHdsYVItOTJ4NkdsRnNTd0FJa0dldW9VNlVGak1wR19HeGw3Q1REcTR6X2xyeTFDbVVtWUN1cEUzX3RWQVA1cExvLWFlWVB3THdqQTlqSlFUNEFjWGc4UGxReF9sYkNkeDM1LXp4aG5Ud0M4M1ZUbC0wZlVsSlhXZjNXbDJjS3hPampMTWtGQ0lMSg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Incyte Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | INCY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbDYzUDJGTFJyay16THB2dlhWTF85MGdFRTl1NTRoXzVfQ3dZSl9nS3JBaWdfZVNxMkZ5QVFEMjRORHRSSkVKZGVCT080UmlYVGt5WVhrZWV0UHE5YmFpT1UzODU5djdoMThsYUgta2I1cEFyM0pjVXZwZVdPck9taGwwNHVPUG5ZdWRMMXc2OXBfeEpRZ1VNUXo2UG1UMXBaakRQU2hCMTQ5WmJhcjFINi1ia0ZRX082NDVPNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Incyte Executive Sells Significant Stock Shares! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXRsaGM0N1U5Y2QxVnJBd21KRWtadG1tWm54WnZJV0xfSW1sOTQzU0pwQ21FSThNaXFhUGEzdUdCb2I2NHBGRzNDWHdTODhOSXJoM2pnRUVKM1JzVmpMVXd4UlhtYnhvOHZrVGFSc0JKUkxoVEVlaV9TaEd6TGxfalpwcGhtaFc5c0UxMkZiU2I3YWEyeFlSQmxORW01Sm9wdjVjd3gwTWVEeDc2S1hxczktdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Incyte Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWJjVVJ0WUV4RTBhWFJFaFExOXlEMTc5YW8za2tpVnd0UGVrUnZyVU91LTNNOWtvbXdTcXl6b1hBdjFhZDh1d1l0MWVwSFVPWDJnQmxwclJRalVWbWw0Nks3eFRNY0N4cU5mSjlHYnBVY3pobEtyWjRyVzNlc0VZaGlXMm4wNk9kNThYZnhzWEpVNUJ6ZEp1d2g2eDE0RktBakhIMGpTTGxDMzNiRklldzZZeUsxZGtTZ0FXOXROaHI3NU0yYjduUkpOSUFiVGRaSlQ0clhlYkYtbTVZaFlpcEoxVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should Weakness in Incyte Corporation's (NASDAQ:INCY) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaldZakhPQ1dBaGI1T3hLTFV6R2x5ZUsyWnBLbEsyZVA4U01ncFVINWRsUldwQWltQWo5Q0U5dVBOQWtXSEtPVlFlMHo4czlLZzBybjNvZXd3azN0RTFFbUU4ei1VdS1YMWlHbGVFM18tZ0VFbjdaUEp3RGV0ZUdSN2hTWU80SnozNHFqUHpxbTYyeEExa0FsRldSUHhESXpjemdDaHU1LWVFa25oMGdKSndyQ2JKMjNXaDY5WHZ5QnpWdlRHWHByaDRDRTR6cTlvZ2NUWVBOWdIB3AFBVV95cUxOOWNneW1OVnhQVlUzSVJpZnI3RkxPaXhmVi1hU3Jua0xaU09FUEFTYnlRY2Y5bk9XdXVYVVZaOWYyWW4tSDNhWmhtSV9jQ2hiWkVxYnoySXBLUFNvUTZDUVJ6d0I4cnU2aDZ6VjNvOVpnOVpyMEVRXzBUZE5ab2huTTdiSS1NZlJoX3FjcVVoc3BoY1dxaHVlVTRKWGNCM284Rk5iUXdnQzliWElfbDJscHZuUmVVbml0U25QUGRBemxFd3V1VFR5VkRJajZRX181OG9aVk5RSzlDMUNG?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(INCY) Trading Advice - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcl9lTnpUMEhudE5kVm96QnFJQnVzM1Y1S05uYzBSTVZER3NVZkVoZktxX2ZBSlQ4dHR1S2pLVzduUW9rUDVpbGNlSUxsQXl2eWlNaDNwX28zRDNrMHBVaE94RjdBQVBqVVRuVzA1eVdYMHVXUHAteF83S1dvYTJnaEY5UFJzTzZ5Sm01bnZSYlFVWlZEN0xOZ1p3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Incyte (INCY) Up 3.6% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQkJsODhMOV8xNGg1N1VUWnBKaS1QeGpQTE53T0NIbldYdGpldHl5OHB5LWpxMVh5X0hRZlpoNEh3TmpnYmRIYUdPM2dkanQ2ZFNPVlM3ejZLMUF6bERXS2xHRU9BZ0ZqckJLaDJvaEhIdTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Incyte: Good Company, But Potentially Overvalued Given Patent Cliffs (NASDAQ:INCY) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlg4emZpbE1VQkdySkRjaGpUVGFCZTM2SFpXVE9kb1gwXzB5RHJha3JOWUVBWGotbC0yWFJ6SFhIQlFuTnlPenRMWjZFVjNXZVFodVY3dDB2cUxxcUVEd2ZtNnJRR2VyTERFTTdzY0xrR01HVVNpWEE0NkpxQmFiYTIwYUFVU3FDcGhZT1I3RTlsVnRQd0lSMjBhZVpxekJzd3cxWk9aTjc4d3c?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Incyte Reports Inducement Grants Under Nasdaq Listing Rule - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR3lDbEp4M2VZWmxva1NtQjAwUklFSnhscXV4NEV1ckZOclBRSlcxUDNrWmFQSTJFQUlhQmZvRTJCdlZZdng3eDRaRXFjb1RKVXhVYTk5aTJ4b0RtNkYyT3B4ZUMtbXhQcGxNT1hIZ2ZYZEJvU1ZjQW5Gd1lKTDRlbHpvOWhHTC1pVGNZeTRQZGtDTWR1Q1U2aGlnSklUM3BqbjAtcHFWa1NNUUNWd2dtaVE4ZFZOcjVYdm92S2tQWDZhVHN6aGQ3UjVKZzlhS1pYcElYXzRjdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Incyte (INCY) Unveils Positive Data on mCALR Inhibitor for Rare Blood Disorder | INCY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9tVEg2ckRQTVpnaDlwMTZkNldVX3JhN1VSSU1XeEkyaVM4RUFmRm5WdnFHd2d4SGt6WGJBalh1YkJVbERKOVJHUmlNSFBlaUxmUXMwWWRkYzRWWEpNTnltb2VxV0ZYVEM3dXNiUXFlSEt4eHJ1VGpBLUU5RWFLOUtIN21aazBKbXlkTmZaX1lHR3R0azlxRDBiUTdFQTl2eXk4eEZsbFZ3eU5VNTFiS0dCa2NTUXVjbzhwVkF4Y1E3dXVOZlRRNDZ3eC0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -611,43 +571,83 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "UBS Expresses Caution on Incyte (INCY) Due to Safety Concerns | - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnF3TFJwR1FLVy1xLWEwWWxndlVMZkEyZkN3dG5RMTk0Nkp5cDZiTzhaTXAtcXNGZ1RWZ2N4VDNRd2hHVWxGTUR1TDhJMktLM3ZCdllMR3UyVFFrRlY0bE5ibEJzY1hiangyX20tR2pmNDUyM2JrQTlEZEVVb1lQaWI1LVkzNzlybTAzR2NCa0prckx3VTN1RnBnQ0dsT0Z1SkFheS1Fb0dNN0hCLTRjdU1Pdko?oc=5",
+        "title": "New Analyst Forecast: $INCY Given 'Buy' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZHpVczhwcEwyR2ZOTmdzLTBsM19WVnNUODNjMWg3OTdBNVB2WFJKMlpOczhXdnltTUNoM3pzWUY2b3FzZVh4cWF6XzZwZFdXTjZxeFFLZ1J6UmxlTzBCLURwXzJWRnFOc093eEZwWW9veHZPTzQtNUdjTWpIaGM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Incyte’s CAO Makes a Significant Stock Sale! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekd2ZG4zbzFTQlZSN05JSnJnMU5UaldMUTlZanM5SXE2MWtFVHBiOERDTTFEU29YdmViX2hUTHdRaVJKM0ZNWDRqaVFBcU9PN1FiVTNMdUdkSkQybndJNGNIM2ctbDdScVNYcng2aV9vdkVwOTk3S0loY05DVEwtWE43dFBCTk51YnFhbGJ5UzFadS01Rkp4RFRRYWk3TnBHbGlJOXRScw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Incyte (INCY) Maintains Neutral Rating with UBS Target at $61 | - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnJabUZrbVZvc2NBRVR5Q0d3SE9scjUyMnZtVWJKVldXUjJqSUxkM29KWFZSZ01ja0ktb0pleF9EWWFEMVpIOUJQTE5DbkJ2N3VpMUg2WnhsdDFWRHk4UmlROGI5TnNkQVJCM1ZfRU5PZ1BSRXNURHBhWWdLUWMtR1NFTmQ0dXQwQ25sZjc2eEpaQk1NT0wyXzN1LWxtVjRKbHh3ekc0R05QUE03VEhOZWpFSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Incyte's (INCY) mCALR Shows Promise in Essential Thrombocythemia - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXNDMHRILW5wQmdSWVpfNTROVGVhbXJtamRZSU01eE5PZFJWT1J5LWVGYXJ1TTkxMmh5M0VZdjV5eF9XeHFYNTF4Zl82MFgyVXdKdUNGN21BdmxpT29OVTFzN0V6OHdMMzZtZUZRS3A4RXFZbDBDQXphaERBdWFVSGxvUjZXMW13ZVhCRFJIbmNMcnN2WGZiQTRyRm1fbGM1eURPLU1hdkVGV0ZtelFlQVdxaXRSVEU?oc=5",
+        "title": "Incyte (INCY) Expands Partnership with Specialised Therapeutics in Asia-Pacific | INCY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHlMZThjTVctcTJ6VEVmd0g3cmxVbjhXX0IwRUFhY1lTM0w3aHpzdFVVSGtxdUhyQzFJN1lVV0RTZ0tGT29ITmpYU1B6eDNaX2tFS083UkxTa251cVpwcG5TbzhMZGZHd3dFU2ZQYzZLd2cwaGkwWGdydjNQZTBqSkZidG9hQUhTeVFpM2t2blN6N0tBTVRQbWtxUmRFbndnWTJsRk1Jdm54Q3dqNWtPc0M0bjRvOGFacUlyd2NIRkhhbEtuSU9TY0oxbw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Incyte Announces Multiple Presentations, Including New Late-Breaking Data for its mutCALR-Directed Monoclonal Antibody (INCA033989), Accepted for Presentation at EHA 2025 | INCY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPU0lhWno3enNiaWZ0cGh6SmFKUTJhOEVIVnpibFZOX2hiMFFvdDdlcG1zWEpJbVFKWXJnYWFZVUpDdGo0bTlRUVpzQjhCVjNhZG5wcXUycFdlcjIzNl9yaFdjTjN5S1l3enAtNk53eUQ1UmxURkJlOTU3SVNFQUJvOUJ0WGNzbGc1Vkh2YzdIRXV4eS1GM19LWGxVU0VFUHVLVmtZdW1mRWpnZy05SHJGYkZ1cE1ZSm4zdTNkNl9ESFdxUE1OZ1Q0QTlKanVQckZINjlmczhUb3NLQWNXdW9UUUtOZW1LOVQ1SXFJMEJRQ3NkU1NCcUVHTnh2UDVaSUJmbmE5WWpIUUY3QXc5TmhFQ1c5OXRRY0tuOWZRcWFxd2k5OGd2QVZ2dDE3SXd0b0N1T2pZeG11RGstZ1lkdmVOTlhR?oc=5",
-        "label": "NEUTRAL"
+        "title": "Incyte Collapses. Why Its $750 Million Escient Acquisition Now Looks Shattered. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVBvaUFxWU9zWW5VbnFvM0tDMTdaZTc4YWx1RjhCUVo4Y2prbzM4Q0NXalhVYXpDbHlqcWxaUGU0ZkZTb3d1SUJiYW5BQUNPbmNGQmZXS0paYW5lUXk3cVF2ZlJNTEpTZFEzSlV4c0t6Mjh4ZktxNndLVV9OV0ppWlhFRzhNc1ozdURRUzZCcHMtZkZsUko2VURB?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Incyte (INCY) Sees Price Target Boost from Truist Analyst | INCY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORndpNHhrdlNSZUVFRVNXa1phRUotcWk3VjRILWx2V3FsdHhpV2VRNnBpcW1FNTExZGVoN2ZISHhSRktONGU1WXJ0SEVqdUN4azFlVjhtRTNHYl9jSV9MajFSaVk0YnQyeWhiRUktcDRxS0toU2VIR1pKbWhaUFNIN0MyLVJUQU5NNC1RMmVFeF82R1JmQXRrWllvRzVjU0JpZUI0RGo0SFM2VjFPZVQ4?oc=5",
+        "title": "Incyte: Good Company, But Potentially Overvalued Given Patent Cliffs (NASDAQ:INCY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlg4emZpbE1VQkdySkRjaGpUVGFCZTM2SFpXVE9kb1gwXzB5RHJha3JOWUVBWGotbC0yWFJ6SFhIQlFuTnlPenRMWjZFVjNXZVFodVY3dDB2cUxxcUVEd2ZtNnJRR2VyTERFTTdzY0xrR01HVVNpWEE0NkpxQmFiYTIwYUFVU3FDcGhZT1I3RTlsVnRQd0lSMjBhZVpxekJzd3cxWk9aTjc4d3c?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "US High Growth Tech Stocks To Watch In June 2025 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1pKOVk0T1NQUGpvV0ZGRGFNZW9laDJINWowTXVWSVpPV0Y4VjFJbGNsV3hyR1F0b1FQWE8zb3lSQUk1WE1KZXhnbWs4ZkRFZTlnRkFvZFRwdGZxbi1SaDRudWp6bGlhb2dydmpTTVN1elFyYXduMzdUSVpncENybXhvUENXOHl6U3ZYbUNEY2FFeFE4VFQ3S2pwNVR3OWdqWmY0QS1PbnBlUlZHTmdINHRneV9OMW5xbzVrV2laM0YtMnBxSmZr0gHMAUFVX3lxTE1DQ0VMaVBMZllLM1JtR1VXQ3RTOHl6dHNidTdrOXlaeW1HSlJsNjRMcExWeXpLdnhUQ3cwajBxakZQMXdYNXI4UUNCNVVpWDJnY1h5RU42U0ZmdFhIQU53VDg5MFV1VWZ2aEZFaHpDY2MzSlpHYjhSSmZHWEU2R2h3WTFTR1FxVWxLN1hUaDAtNDdaZTdYVDROaWJfTlhoUTl3Z3owU29vcXJ3Sjk5ODZmV0gwTXpEenlORXJFWmNWbEIwdkpRa2NBY291VQ?oc=5",
+        "title": "Incyte Stock Sinks as Sales Forecast for Key Drugs Falls Short - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnBMbWhJendMT1Rua25DS0x0UWNqU21SN1Fqc3FhZ2hCeHVPUlJRM09qMUwwY3hyNWc3WEcwYVFqU0VudVdtY09yUzI2b1VpemdZT2IwUmpoX1hVVWpBLXhsbFJOamlUWWxHZWRGRWhhcWpFZGV5MnhCWGJkdHRDSC00TG9zV1hPQTY1bkdnVVduVzVtSEJ0R096bTBNV1k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Incyte Stock Was Tanking This Week - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkUxTkNvcWR1SXlvU1c1d3h1LUF4Tk8tbW9laG95cE1xZjN2cFZaOVMxY0FON0hzeTJsaEdzN3NYcm1rbmtxcDVfMTUyZVZMMnhVRlVoak9YU0JPb0RkRTc1UjljeDF2eHpLQ2dRb3NVSUg2QjYzZk5GMUFaS1cyLWlVRVl4ZWlG?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Incyte Stockholders Approve Key Amendments at Annual Meeting - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGVYeG1EM0NYLVlQVmVnMmRPci1PN0JyOERGc1BJajRDN2lxWXNGNTVhN3dxUnREWk9mZ0tHd1ZqUFBvLUFCMkYzRk1hVzd6MmN1LTFFWFoxcXk3cmZ0VUQxMWFVNEhKc1NXQUFIY3hfc0hSZ1MwZjVZYkthdlNBazhNZklWTF9oam9vcWQtZkZ5RHNseV9MenFVbFF0NzNtTmd4RWFqNWtremhaWWNlRHlpUmM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Sale: EVP & General Counsel of $INCY Sells 4,495 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGszMl9SWXdPbFcyMThNWnlxeFNJY0drRFd3c1NkQjJ5OHBQVzI1NVhLeHAzQjVqdG5WeEpXTU5YZEpEQV91VmI0by1fWGY1QTI2YXBka2M3azBVdDdqQlUxc3hYU0E4R3lWZjBEYmZ2dXNCRmlISUM2aE5pUERvSU9lYW9UTlo1QU4xN0xSalg?oc=5",
+        "title": "INCY Stock Down on Disappointing Skin Disease Study Data - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVdMTlJlMWY3UEVva0JWLTdNa2llSEc3ZlllWk9ocHZwSEtJY3gzdE9ORG53SGpHMWVVMGYxNXpvcVhwaFlLd1AycXNEM294azI4MGNZWGpkbXJFQXJwT096Z3lmX0MxdWMzZEw2aFJza29JSXFyVkY2TDR3V05Kb2xNdTZVeFk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Incyte Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcnh3WWphYk0zWGI1emF2SU1tcW51LUczYS1qOG1FdjJJS3B4OGlIQXBXSjB1RmdDS19MaU5FcjRMWVJ5dTRFRXZyemFBMDF3UElJc3o0TmJKcFZJUkZoOWlIQUM2b29GLU44bkEtcUd6R3NKc1JSZmVwOEVpSU5xdHF4aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Incyte Corporation (INCY) Announces Amendments to Stock Incentiv - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1Rmd2kzMmkxMDl5UllhVEx1ZklRbW5qcFpBQXFvQUwtTWgtY0NSN1gyNldNb3ozSHNUTWgxdVdFdTRGQm1wS05Ob3kxVHlJYkM2RlhaVWJ4aUVGN0lfVXZXRVJMWTlubWJVdklXdE00a1YzZVdkd3FKbGJLR01Eb0JRN1dfdUQyRzlBRlQ1aTA1YjNlQUNkM3Jjd29vSFdsOXE3eDJ2Z29RdWVVeVM5WXZQRXN4cGFHV04xOVA2dmw3RjRrUkxjU3MyaEZLMjB5a3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Immuno-Oncology Stocks Q4 Highlights: Incyte (NASDAQ:INCY) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEJhQ2FJQU1wWkpQczBEa253bWZZT3VJSmhzZzFObzRQQlRDejRJYzRkb1UyMGFDNW1OcnN5TVloS2d0QUEtXzNaQnAzVXpMOWVXNlpjbXgxRy1iWjBsWnFsNFYyRmU3NDZpMWNLaHFYX3h2S0haMXVtS3VPOVJld0hHVHV4WXdrVkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Incyte (INCY) Up 3.6% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNWjZMeEZXdkROR1ViLVZjYUh1QkZ5Unk5a3RkT3pSdHJPNFlUYVRHOWNlUHZ6cF81a2gwYWczU29CTmU0d1dOS1NvOVhReDA0X0NSaUg3OVpSRGZtSnBYNlBBamF1LW0tRVp6N3NtQ0Vfcko2bGVWTlBRSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Specialised Therapeutics Expands Partnership with Incyte to Include Two Additional Therapies for Hard-to-Treat Conditions | INCY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNM2h1T1RxVGVLY3Z3UndNMXVTSWlEcThGU1pwRzlGLW1IZmFlMXpEUnJJYUtEdzVvYmZLZXFPRGZ2S2RoOG9qVEpKemJvaTFYczhubFQ5dWNsMEYzV01lc0FKQ01FUEFTNTdpZlJPNXBnTC12TzFHcmE4NkdxVXphMUFKZHY3NlFfQWY2VGJIX2FhZDFBbWZvakltaEd4dElUM0d6MjMwLXJfQ2tHT0JKV0d1Y2tIcW03RjRRd3R4T2dSUkZCcnVXR1hfdm5raVR3RmRNaURUZU1hYmFxekV2YW4wVWJkVF9ZaWFONnRmWFkwMWVGTm5sSjNmbUNybEx6ZVJmT293?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Incyte Stock: Is INCY Outperforming the Health Care Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQTNXVE5CQTBxZDFCOXY0emVZU2lQX08yQjFCamZQUUNmTFJLMGxMUDZVei1Ra2Y3UVdNSzV6ZTBSaDl3ZVg1bGJQUkM3WkhybzJLb3N0VDlLVnZtanhuckdOcW1uRjRKS2UyZVo5YlVmSF9Pem9udzZWRE40d0dXcmFxQ21qdkdXUUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Incyte's (INCY) mCALR Shows Promise in Essential Thrombocythemia | INCY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjE2djQ3WDE3NHZ0a3JSdkJWT0syNmhLTkhUSnZVQkZtSzNSY0NBOHpyZWxCMTlkbVNNcm5ZTlhQZ25vc2h2VTIxTXZrN3J4YUJJR1ZNOE12ck1RemNwakpsbGtoTFFUNUZ5WDlZWVBJRkJiVVpqa1FHcVNPbWJaNHlXRXJMYnc0SFFZT0FfalpSVXA1cEZ4UnlyeWlGSi1seUhiRm52Nnd4X3B3QnZ5eUVFbnlRb3F1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Specialised Therapeutics Expands Partnership With Incyte - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQkVVNC0tVWYtWWZFYWY0MGhrMVBPMzZSaE8xNTIxYTlvX09uMjVHSXFWRDg3YmhUSTNZUnBxNFJ3R2xhNU1DcXhISnQ2VnpBVzdKdDRLVVBCQTNRbE9CWjhsVTRaeWJqcVBmSmhNbHp5bkhOcV9yZzVkLWYyandMY2swVzczZGlhWUNDRE05Q0s5SnNJSk9hb0lyZy1yMnhCT0EzTElBMjBJckVRdmlkRlVoUVU4Njc3SXZlc1pMQllqLTBhY3BJTTVwdGtiWnh2amtSbQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

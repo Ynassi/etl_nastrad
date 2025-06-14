@@ -2,12 +2,12 @@
   "ticker": "COO",
   "name": "Cooper Companies (The)",
   "sector": "Health Care",
-  "market_cap": 14504593408.0,
+  "market_cap": 13887102976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 35.120773,
-    "PB": 1.7499939,
-    "EV_Revenue": 4.249,
+    "PE": 33.625607,
+    "PB": 1.675493,
+    "EV_Revenue": 4.234,
     "ROE": 0.05148,
     "ProfitMargin": 0.10386,
     "GrossMargin": 0.67197996,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05758863940767086,
     "ROA": 0.038829997,
     "PEG": null,
-    "EV_EBITDA": 15.082,
+    "EV_EBITDA": 15.029,
     "BuybackYield": null,
-    "PriceToFCF": 63.01370088991136
+    "PriceToFCF": 60.54666238653184
   },
   "technical_indicators": {
-    "RSI_14": 41.702880897105885,
-    "Momentum_10": -8.095845587987696,
-    "MACD": -2.9889130295597823,
-    "BB_Percent": 0.3049310866797529,
+    "RSI_14": 35.62923737563763,
+    "Momentum_10": 1.7867622180934202,
+    "MACD": -2.694396852456933,
+    "BB_Percent": 0.2651245759987077,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9304842888362352,
+    "ValueScore": 0.8825380624841509,
     "QualityScore": 0.389829364588075,
-    "SignalScore": 0.7045285815766837
+    "SignalScore": 0.6415835376999233
   },
-  "volatility": 0.0246576514704236,
+  "volatility": 0.0245777933640941,
   "beta": 0.986,
-  "return_6m": -0.2634245268886308,
+  "return_6m": -0.2661570429447645,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 94.85067
+    "target_mean_price": 94.62733
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 99.26
-      },
-      {
-        "date": "2024-12-10",
-        "price": 99.08
-      },
-      {
-        "date": "2024-12-11",
-        "price": 99.28
-      },
-      {
-        "date": "2024-12-12",
-        "price": 96.72
-      },
-      {
-        "date": "2024-12-13",
-        "price": 94.85
-      },
       {
         "date": "2024-12-16",
         "price": 93.98
@@ -537,37 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 72.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 71.97
+      },
+      {
+        "date": "2025-06-10",
+        "price": 72.69
+      },
+      {
+        "date": "2025-06-11",
+        "price": 71.42
+      },
+      {
+        "date": "2025-06-12",
+        "price": 70.88
+      },
+      {
+        "date": "2025-06-13",
+        "price": 69.7
       }
     ],
     "current_price_data": {
-      "price": 72.33,
-      "change": 1.15,
-      "percent_change": 1.62
+      "price": 69.7,
+      "change": -1.18,
+      "percent_change": -1.66
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour des dirigeants d'entreprises cotées met en lumière une série de ventes significatives d'actions par les COO de différentes sociétés, telles que Semtech, Astera Labs, et American Coastal Insurance, ce qui peut être interprété comme un signal de prudence pour les investisseurs. Malgré une réunion clé organisée par Needham pour CooperCompanies, le titre COO a connu une baisse, tandis que d'autres sociétés comme Comstock Homebuilding et Datadog ont également enregistré des ventes importantes par leurs COO. Ces mouvements suggèrent une certaine prudence parmi les dirigeants et pourraient influencer le sentiment de marché en termes de perspectives de croissance et de performance des actions concernées.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
+    "summary": "Dans l'actualité récente, on observe une tendance de ventes d'actions significatives par plusieurs COO d'entreprises cotées telles que Lazard, RBC Bearings et Akero Therapeutics. En parallèle, des nominations de nouveaux COO comme chez Hims & Hers ont entraîné des hausses de cours. Tesla a enregistré des gains après des annonces positives de Musk, tandis que Meta platforms a vu son COO vendre des actions. En revanche, les résultats du Q2 de certains COO ont été mitigés, avec des baisses de cours chez CooperCompanies et American Coastal Insurance malgré des perspectives de croissance. Les ventes d'actions internes chez Lincoln Educational Services, Astera Labs et JPMorgan Chase ont également marqué l'actualité.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Semtech EVP and COO sells $76,400 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHMyZ2FRWG5DTWpkb19YYzY0TEpVWF9FVjVzNTdnODljWlVhaGNDNllpN2NDTTdmdUFfNVhxSDM3WDZuWGs4T0piQWRHRVF6NGhVUXpqRS1OUWRIdVVYMWM5M1VlZGEwZUU0NHJOZ3kzVy1VRXpFdWFvcVRSaHM4N01UZlVUMWlzR1NrZi1FUmlQR1NZYk16REYyQ1g3bms5c3QzQkU4SzU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Astera Labs, Inc. (NASDAQ:ALAB) COO Sells $8,695,194.97 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmFSam45Wi1OZGlIYUM4Q0FpNmZfUmZIY0xyY1JhWVA1YjF2aXdZX0FQR19FekdTUzJJYUNKRDdMRlBWaWpvUXBMREFscjRfVEJKeV9aSnlLRFo3XzB6ZzR0U1pjaExwdHN4Y0lEZEZ5YjdnWnhrT2RuRmRIeEJRMUFhZVoxU2w1Q2EwOVJrUDhsYXI0VThjSGFzNmRvdW5UOERjNjFVRlp3RDdVcFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Needham to Host Key Meeting in Denver on June 12 for CooperCompanies (COO) | COO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVlBqZHVvOENUT3Biem5BdzRsNkE1WFJBRTBvQzVuZEpYSVdTV3k1S0NZRnNOM3N5VzdjQWFyWEQweVdNTkhjcFFScjk4ZFdTSTF0OV9pQ29KTTVMWi1WUzlEQmtuT3ptMlVBVTRPQlFjcGVSY05rUVBZNWRzMHMxNWYwUy12NVhDX3FNUEJYajFORlpRdHd0cjNWaXhnQ1MzSXNrc2pvODFKb0FzM1NzR1hzSmxtMjJib3VwYjVxU3FkTXBq?oc=5",
+        "title": "Lazard COO Alexandra Soto sells $3.76 million in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXNDeWFwT1NhQzMwRDZwdEcyVjZOdDJKdHhIbUxyaDhTRTMycTI4bXNRZDU4VDBHS05jYlBiTV91NDNHXzRVQW5HU0VBYXlwZmFlQk10RWhjM0RGY2hZZFYyd2s2b3cwcmM3M3hyWlVWMW5aUjhKZkY0UmUyQ3cyVVlPNmNrNVpaY05DMW14LVQyYWNzTC1BWnAzWEh3Yzl5QkFDTm5VUXdnbTZZMGU1dW5WbmJlSjZj?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,13 +566,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Today's Hot Stocks To Watch: COO, DLTR, and MDB - Baystreet.ca",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaThsUEZJbzJSX01HTEFucjEzZjZqeGNYdUoxQmpDQVh6Z2RHR0ttVk52Rm9TNjBUSk5IYVdpZ2ZqOTZOdEJQTS1XQWZxTHVPTHhHbkxxdXd6MEVvMGRtWk1tOEdtdEU5N0xuS1c0Tl80dzlhOGU4LTlsdTJKMFRQMmtQMjhDUnFfcGJpaEo1Qkc?oc=5",
+        "title": "RBC Bearings Incorporated (NYSE:RBC) COO Sells $11,895,918.96 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcGNfajBMSWpGZVowOG5EQUpxb3NLc1M5WXNQSktxeXByNHY2c1VhN0lSZW1PbUZzOTBYZmlaQlJlTnNIaU8yREVXQzNpbFZ3WmdrdEJJSjdkZWFVZkdUeTl5RVg4YjZxVzhxZE5TRmp6MHBmVVJmRXh2dGxGRmhHaFdEV1E0Mk0zdHJVRTJZNWd0MXMzeEpwLVQ3ZEVmTUo1Q2s3TE9uTVQ1YlNtNm1Hb0FMTnJkNDZRX0h0dUE0Slc3bEYwRU5jaS10b2RjWDFNdnJZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "COO’s Major Stock Sale at Comstock Homebuilding! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1NZYWhGZV9aUE9Jek5NTnJwYUVTUUdJUDZEU1RnYVF1bTFyWkplNGQ4SVVHTzQ1cnBDa1NfUU5UZlp2VS1ldHVHXzNBaVZINVNBd01iX3c5ZlR1VWlZb0l4Y2dhX3RHSDlqRmJHZXFyaG15bmtkVWc0YTlIYzlfU1RfVWlyTDFPM3d1eHJoSkswSTBETUgzNW1UQkFlR2NsNW0wRVl1X1preERo?oc=5",
+        "title": "Tesla gains for a fourth day as Musk sets robotaxi date, Trump tensions cool - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WVHpvMllleVpOYk5Kdk4zNTg3RzRZQ29SYXNSUGJ0T3RPWmRrS2NkQVctcEdBX3Q1XzIxOW1wS0RuRF9yM25RVHFpeWNSRl9jTnQ3NVV4amhQWTJ3MzhxUU9SZ2VTSFZtcEFuNFF2ZDVtT3hjTDVn0gF8QVVfeXFMTTNnTGFBX1gyVEZud3FhV0c2eEQzUFdiT05NVnpRVWxIcjBIbFNWTG9RZlYzTFQ2Um5CQ0NRTll6OHJjVklXOEt3U25sX0k1WTBQNmdCa0pvdjZZcnlzdmZ2emhOcjFWTm1wTzI3TjB3R2JnNXZiUkFuVklLdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hims & Hers Names New COO. Stock Rallies. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkltRXVWanIxUXRxN053VTlRcjNyQVE4dWZYN0dhVDdiUGFVTHlTTUI4OUhoRENRTllKcmRJbkJUVkpWRks1ekhpcklYd1RNclFQbXlIZzIzZ0s2NHBSUl9BRVZaZ3FqdGJlT3VnR09zZ2lPcVd5dmdweTM3TTZmLWNwOFhGZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,71 +586,76 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "COO Q2 Earnings Signal Growth and Caution: How to Play the Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjZadU96Q1U1RDhYbkZnZzJCbWxIY2IzY01EUVk0Rm1jRDZacENhaHNtTmJYTG1rbmJDTWhPNlJFQmpMb1hiT1FUV0FlcHRvVjJ4bjcxWHZ1Rmp2WXp0WU54a1pzYWZqcmRBVTNYeDlHWmE2U3JRQVJkNU4zNUxvYWZXbC01aHBoMFRoYmJ5Z09MZzhhZmhrbmdCQWpfTXdqdVRYOVNFZTd4clVpMjk0LXNqYXFyUmxR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Why The Cooper Companies (COO) is a Top Growth Stock for the Long-Term - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWGpsSUUxcVF5bUlrNWd4Z2ZlZ3NxTHlMazVId09BMmJacFJQc0dkTzJvTGlub19VVXJjMWVIWkdTcXdZS09NXzNuajVJSkVvNTA4dl9xOEU0enhLNnFvdG1OYlZLNXhzSUprT2JKdkkzdGxWWFBsVmR0NC11dkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "American coastal insurance COO sells $117,800 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUZsZHlMM2JrakNsY3ZRQnBmbWktVFpJY3YzVVgzQ3RaY1VIVTVXLWZXbWJ4SjhIVnozOGFtTERaTllUUDN4M3FtLURRVzRScXZFWkk1aG9LS0VBRHJaNVFmaFRnYzN0N0xzcENVWExMaXNvWm53OHcweWdXU0xkUXI0T0FvUXJFOTI3X2ZmeFQxUDlwNmVmUEItZnBMZEU5alAzdmE2QWl0dlhjOWFYeFBNVmVDZXJ0?oc=5",
+        "title": "Meta platforms’ COO Javier Olivan sells $360,866 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ3Y0NXVRTHJGbGR3QlhEVGQ3NmpveHJUVXAydDgwZGVqRUFfbnd4Zm14cndDMm9HV0pzMXQ1X0xreVo1YU9nZFNvU0FnUVgtaHBMNDE5UEVwZGVRR04xc0VrTzI2cjg5c2tENGxxQlpjVXpfOXBtSFNPdXd1M2ZKeG9tVDVBUEp3aC1OVy1xMlUzbjNDMlcxWEdCNWtnNGNfUHRvWFFDaTBXanBpS1oxUjNfc29xdjFVeF9J?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Townsquare Media COO Sells Significant Stock Holdings! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGNMbFFkMGVtQVB6Z1EweUplLTQ4RUhOemhJYkxvV3VOQ3RWdEVpUmtYQlh1NWJoRkcxMFg5Z3JMdmVGdzNicHAyR3dHLTNPblhDbHZlMGhOYXNnMmdpc05DaUtaWmtMbnVIMGw2LVdHZDdWRUZBdkJVODZNSFZuMDdhNWdoZ3prcU9tWnp6bmlhblRRTm9uYklhVWlkU3ZuQjA0bnBRV3dwZkRsNWNyQjdIbVNrQQ?oc=5",
+        "title": "Akero Therapeutics, Inc. (NASDAQ:AKRO) COO Sells $134,597.07 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNUc3eGdTZFR6ZUNGRGtPbWU3LVVDb1RTOXNpUDNpWU4wMW9MUkdYaFNISjJ0Zi0wclREazZDT1VsRG81Z0JDcGRtLUtxY1VWY0VnQk5MdjNNR2dIcjM5ODRoQ1NBQWhUOUhDWkl5Q0pMR3JiQVprUHRvQ2xYbVJSTlN2LWJGdGV3Nm44WnA0UlN4ZzhWbXRyY1B4c1gwLXVkU2R5S2dQbkZuLWVDSGIzXy1VSU42SWdNbmVJV3JtTm1IYVpJMk54LTJ2b0ZVLTg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Datadog, Inc. (NASDAQ:DDOG) COO Sells 14,710 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlB6SUk1SzhiS1lnUUZZYzZDcVB6QXFwcF9hT092YkN1WWZ2VzdrS0xyMzN4VVJmdmx2YkRaSm1nak90dEpweE9MNDdXV3BBb2w2b0lBZHAwNnpXWFFUd1l2dE9hVkVxQ3lnVHlNai1HWHpWX0dzSk9pdWY5b2ZncGVjLTZBcjRwQnBtRUhsb0F1QlFEaEpEYU0wcUtmYnZ4OWFTSDNjYVU5eTEwS1Q1aWllZGk4RHNxZnVhbG1EVW1mdw?oc=5",
+        "title": "XRAY vs. COO: Which Stock Should Value Investors Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHlNRUxIMUlIUHVjMFpjZDRsZDJEb1dTSVJsTmZreGJ0bXpHNGNjYTFNdjRTbXRLbDdQU2pWc2ZpMHVhdUVmVkxNVGxWdnh6ZlZhV0VvMFJVS0lyakFGNXpxWjZ4WlBsSE9HU1REMkpkck1FNl8wUGNmbGpWVnFtUjJyOWo2d2pCbHcwLVcxdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hercules Capital COO Christian Follmann sells $7,042 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzQtMFJ6c0YzX0dRS1pQc012TG1iTnpRRVozaFhjYUpXNjA5b2pnM2tqeVdQZmZyeF9DbmotX0FnbmdXbl9rNzBudWY2cGd0Sm1USjhhVzlER1FDTGp3c0xReXkydTZva0hFRmVvRHRia2hVc1hiWHB0aUhsQ3NiSENFRjNDcmNpajV0c1Yxb3ZZZ2pCQ2kzWlZjenE1WXhaUzZiU3E0M1l6Z0ZXOGNWMTR3QlQ2TWhPaU5wd0Q0dHFlZw?oc=5",
+        "title": "Axsome Therapeutics, Inc. (NASDAQ:AXSM) COO Sells $2,761,000.00 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVZkWGJNOFp6S0RTZnItOFY5R1d6c1NRWkp2ZDBhSE80YVVHczVpSm50REQxeGpQOHdMTkViQXJIU21ScVIwRDNROWFoMy03NkFxZGVxREJza0JZUkxHMG5WN3pjb0VrZ0VsTjRxN3ZlOVp5bWgwcjJpeHlOeHZCeTljZ0JqSE9yaFozdl9YM2hYU0tBeDhla19ROEZKY2lFbnI1TGR5MHlTc3dLLUNPNDRZX2w3ZWM4?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Paycom’s COO Cashes In: A Significant Stock Sale Unveiled - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0FjR1hqc0dmWXJxejlHLTFuekwzQ05lRDZRVUxiSHRGNWRDWW01Qm8xV3BrdHdOR2tYeTJjODVUZXRhZHdwV3pBVVdzdmgyMEcwQmhuYWYwY215TTNVZmdUd2p3bTl0LWdWUHZzdi1Way1hSWxlSGhhblJ5d1NSWnJnY0pvOTE5cnZ1WGdCai05SlB0R3NIY0dVTS05c2xEX05oZjFWQ2Rnc1NZMWpEWjl4dnlTUkhS?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Riverview Bancorp EVP/COO buys $2,995 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzItVlZPZHhJMTlKVS15bG5DZFZCQVlST1RvRE4yMXBjNmliSS10RjQyV2dDdkZXQmYyY3RKRWNPbXBoZ2p3WDZ5VXcwM195UG1peXgxYnJrR2N0WUJfXzh0dV82alM3ZFZtRlhJcHZQMlZqSy1ESjVta3U5clN5QkdHUENBX194ZE9rYmlfLVpyem9Da2JzaDd0ak5FUV96T3QzV3Z2TEE3R0Vk?oc=5",
+        "title": "Xometry COO Peter Goguen sells $392,595 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGxBWElFNUZTNnVHelRJckVBd2tjQkg3WWZObmRuNkF3NG9JNmNhMmFBcVZnVTI3em1sQWY3RmgzNktXN3pXeUhTQXpUWGpDMEIyNkF4X05rZ3Z6OWxLWEdweGdhXzlJQmRzVUNoMmRFbXQ3T3BIbUZXUER4MGVqd2RQSlNsT2tqSzVpV1psQlUyaWYyZmZuVFBsMnM1Y2JJS3F0dTBpR0I1R2pZYlQ1Ug?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "“We Need to Move Faster”: Niccol Revives COO Slot, Starbucks Stock (NASDAQ:SBUX) Notches Up in Reply - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2FNVEtWeHJkczBGZVZNS3lNOF8zSjlveW5wVHpJeGdSMGl0ZjdtS0Q4OXNuLXphUk5YNVJtNWppbDBMYXBFMjNCeU5NRlZTNlNwZi1EdUVLTnRQZi13OW8tMVR5YlBpNW85Tl9FYlZabFViVThsUnNpaUZvcVl0TmZWdk5zQW9zTERaVEZxczlfTTA3ZDIwa0JZUVpFZUU4V09aVWRJc0VVbjU1TTJzRmRLZUQzR1d5NDJVMHZlX2o?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "AMERICAN COASTAL INSURANCE Corp (NASDAQ:ACIC) COO Sells $117,800.00 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVZuM0Y2dUpmWWRWUTVXM0NUWjBZdDg1MVY1UHBwX3VKa0lyTlpNYzJLZ0VkQnRBbWNxSXNmN3h5UkV5UjVWaFRrRDA5Z3R1U2MxSjcwd1FMZWxHeFlTU2RWVUdmU0pxUDJSTkpMbnB6N0JuS1A4THZXZzdaMVppdjVEdERHWDVUclM1VzI5Q0w3V3NEanpuNnNSZFExV3VUcjkybFJyQ2J4ajdiMDRUdXFqblIyYWJtM3ByT2JBN2ZVUQ?oc=5",
+        "title": "COO Q2 Earnings Signal Growth and Caution: How to Play the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXpBSnNOcE5QSHFBR3BlZE1BM3E3cmxETTRoa0JLS2Rtb2pQRG9FajFFendEM2ZUT3ZxSnFucW9NTlVtWmRVVVJpRkNKQ2kzN0p0UTByUWVWYWtPbkxMRFhNcHo1MWVoZFF0Zy1hcDdlUDZ1eTZIMUZ5LTdGQTlmRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AlTi Global, Inc. (NASDAQ:ALTI) COO Sells $98,926.23 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGt0QWlxSHI3NUZRRlRuSFcyRkVYMkpEUnJKV19ZcDlBQkU1VmFpQW5YQTNseVc3SEZlYi1ycTU5NzZ0RVl1bGlKcnBmTmMxbFdMQVJjNXJ3MjZXYkYzOTJuc1pPemU3YzVxNVczLXoxb0g2cmFzeHE2QjE1U3hFcUhrRzJmMERLNTlTWEF6c2tSeEIwSjNyOEhZcGhPeklEaC1UZFE2QjJDdk0?oc=5",
+        "title": "Ast spacemobile COO Shanti Gupta sells $541,200 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlJfZGxFdEFhcERHWjFsSWp1Q3RMY1NMOG8zcFh6MDZadnBmc21nbUdFNFhPbDVyMXR2RXFTYmFtY3hpZ0VQS0hwLTZObnlZbTlIci02SXJmOWR5QV9VaEd0cW9BelhueFpuM2xjcDFiUGloUDUzZUVMSXNUUWNMRFo3TVhUMDh6N1J6SWt2aUt6dGZ3LXZfWngwZkpmc0dxLVgwT3FiWWhWU2EyV2tvaEk3V3c0bTlFRGpJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Trupanion’s COO Makes a Bold Move with Stock Sale! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzlFQUR6UjJuRVNsdVJ3cXhKaXZ1QTU1ZE94dUtQSnRfTmsxU1RyYVhOX25Yc1h1c3JBcnBLSXFzNjVuTk9hX2JTMlF3UjY2UWhjdVdLMW5sbjJjQVJVQi01V1F3YWtCZ0huLTFoX1c0Y0FMR056b2daME94RUZxTExaeTVYZ1MtZGl4bFNTSHZuNVlRSXVxT053?oc=5",
+        "title": "AMERICAN COASTAL INSURANCE Corp (NASDAQ:ACIC) COO Christopher Griffith Sells 177,084 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNam5tRUc2UE1MaEx3aHh3amRRajkza01NZ3BYc1hQWFVldHFxSVc2eml2bE9vQ2pfdmZFSXpVTXA4MnhfUU5NWGZZV1djTnc4UW9rVmJUQS1KQlhBaGc1Mk8zejR0TnRxR09TcmtWSS1VUTd3YlcxNEl1ZTVVZnlNQ3l4dERudThOSms0ZnBqT1ZjU0x1NGJVckNrNjc2a045UFgzZlhjR1FMaXJ6aEtZM3VTRmhCZlU4aE03azBCNXd0OTM0T19oemxHQ0g5S1BudFUwOFBXZ2dvN3VYSnc?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "COO Q2 Earnings Beat, 2025 Sales Outlook Tightened, Stock Down - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85MUlpQTN2b3BvX0lCa0NwYkxRMV9veWJSdVFUek9MamVOeVVLSmRjLWcwc0h3bEphbDNSek5sOHpiNC01bkUxc0Q3Z3RHSmY3WjZJQ2xsUmtUS3pzV2RUTVJEcHM3eWRXemxGMWRuTWtPb0hSWWIyUjUxVQ?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Insider Selling: Lincoln Educational Services Co. (NASDAQ:LINC) COO Sells 6,200 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDExQ1daVkh5a3kzMXJSRHp4b1o4QWYwa3g1ZUZSbnJ3NmN1Ni1ydVlXMElEYm9VSmtpZDl1b1ZCYTBLaDhpSS0zbDl3R2k0RnhDUE1hZjZvdUd1cVA4OW81MmdqaFhjTjNCZ1RjSXV4czN5M0lyVDFSQnQxTXVjc3Qyem9JdVFHbnRRcEF3YjBBekk5WGlfLWtGTVJua0Vqd2JpRjFqck1YVzZULUhkNlVGajVJQ0taU19DNnVOOTZCUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: Astera Labs, Inc. (NASDAQ:ALAB) COO Sells 88,627 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmFSam45Wi1OZGlIYUM4Q0FpNmZfUmZIY0xyY1JhWVA1YjF2aXdZX0FQR19FekdTUzJJYUNKRDdMRlBWaWpvUXBMREFscjRfVEJKeV9aSnlLRFo3XzB6ZzR0U1pjaExwdHN4Y0lEZEZ5YjdnWnhrT2RuRmRIeEJRMUFhZVoxU2w1Q2EwOVJrUDhsYXI0VThjSGFzNmRvdW5UOERjNjFVRlp3RDdVcFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: JPMorgan Chase & Co. (NYSE:JPM) COO Sells 6,128 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXZHS3FJTTVHbjhJX1dRalhNZ1JGWkM4Q3N4NExaQTBaZ0hXdDJQRVlKeVdidmV5ZXctX0ppYl9DXzlyeS01T0ZueUkyTHJiUlpBaDdOa2VwbGFDRHN0bnVSTkNPV0RNbWJUbVE2aFF6VHI3ak9sbExNaG9hWV8xbU82eEIzckRqM0h5YjNKYmI2bnBUNGRGYkxoVWpfeG9JOXp6RlUySkc4OFFOT25XV1VyTVMtWkllNU1UV3NXbW9tOUQ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CooperCompanies (NASDAQ:COO) Misses Q4 Revenue Estimates, Stock Drops 11% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHZGSTltcnRDWnd3Vnp0dHd3Y3I3aTV2eHlmemx2T1BiMXVjNGtRUjJ6M283aVRaZVB1c05CU0ZWMnBVMV9GUUhJb19RYURyTzBGZEswM1BkbkxMU0NQcDZ3bXY2M2Q1MXJPZHFnd1ZKbGlLY0VxbWljQThPUWtGNkZSbFowRjNmNEE?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

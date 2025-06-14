@@ -2,16 +2,16 @@
   "ticker": "LII",
   "name": "Lennox International",
   "sector": "Industrials",
-  "market_cap": 19610142720.0,
+  "market_cap": 19105370112.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.605299,
-    "PB": 23.008245,
-    "EV_Revenue": 3.877,
+    "PE": 23.982626,
+    "PB": 22.416004,
+    "EV_Revenue": 3.874,
     "ROE": 1.3148301,
     "ProfitMargin": 0.1496,
     "GrossMargin": 0.32801998,
-    "DividendYield": 0.94,
+    "DividendYield": 0.95,
     "DebtEquity": 174.757,
     "CurrentRatio": 1.433,
     "QuickRatio": 0.676,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10989789335673593,
     "ROA": 0.19844,
     "PEG": null,
-    "EV_EBITDA": 18.589,
+    "EV_EBITDA": 18.577,
     "BuybackYield": null,
-    "PriceToFCF": 33.232855720583245
+    "PriceToFCF": 32.37371312309257
   },
   "technical_indicators": {
-    "RSI_14": 43.24761777323667,
-    "Momentum_10": -3.865290964353385,
-    "MACD": -3.240804550450548,
-    "BB_Percent": 0.1591649472500988,
+    "RSI_14": 37.62778316847092,
+    "Momentum_10": -4.561952060938053,
+    "MACD": -6.106469564024678,
+    "BB_Percent": 0.1128741045145838,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9221936507383508,
+    "ValueScore": 0.8751145220004505,
     "QualityScore": 0.3473549509335432,
-    "SignalScore": 0.6588926177828749
+    "SignalScore": 0.6669575541555679
   },
-  "volatility": 0.0240353918213132,
+  "volatility": 0.0238386011125896,
   "beta": 1.145,
-  "return_6m": -0.1607197380707803,
+  "return_6m": -0.1864823200516,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 18,
     "target_mean_price": 559.1667
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 638.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 646.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 657.48
-      },
-      {
-        "date": "2024-12-12",
-        "price": 662.0
-      },
-      {
-        "date": "2024-12-13",
-        "price": 664.5
-      },
       {
         "date": "2024-12-16",
         "price": 668.03
@@ -537,32 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 552.35
+      },
+      {
+        "date": "2025-06-09",
+        "price": 556.09
+      },
+      {
+        "date": "2025-06-10",
+        "price": 555.29
+      },
+      {
+        "date": "2025-06-11",
+        "price": 550.95
+      },
+      {
+        "date": "2025-06-12",
+        "price": 550.21
+      },
+      {
+        "date": "2025-06-13",
+        "price": 538.09
       }
     ],
     "current_price_data": {
-      "price": 552.35,
-      "change": 1.82,
-      "percent_change": 0.33
+      "price": 538.09,
+      "change": -12.12,
+      "percent_change": -2.2
     }
   },
   "news_sentiment": {
-    "summary": "Lennox International Inc. (NYSE: LII) a récemment annoncé un programme massif de rachat d'actions de 1 milliard de dollars et une augmentation à deux chiffres de son dividende. Malgré une croissance modeste des revenus de 2 %, l'entreprise maintient un dividende solide de 1,15 $ et prévoit de dévoiler ses résultats du premier trimestre. De plus, Lennox poursuit des mouvements stratégiques tels que la nomination de nouveaux membres au conseil d'administration et la formation de coentreprises pour se positionner sur le marché des chauffe-eau en Amérique du Nord, ce qui pourrait influencer le sentiment de marché.",
-    "sentiment_score": 0.25,
+    "summary": "Lennox International Inc. (NYSE:LII) a récemment annoncé un programme massif de rachat d'actions de 1 milliard de dollars et une augmentation à deux chiffres de son dividende, signalant la confiance de l'entreprise dans sa croissance future. Malgré une valorisation modeste selon Seeking Alpha, l'entreprise affiche un TCAC de 28 % sur cinq ans, surpassant sa croissance des bénéfices. Les résultats du premier trimestre ont dépassé les estimations, ce qui a conduit à un maintien du dividende de 1,15 $. De plus, Lennox a réalisé des mouvements stratégiques importants, notamment en ajoutant un ancien cadre de Cummins à son conseil d'administration et en formant une coentreprise avec Ariston pour dominer le marché nord-américain des chauffe-eau. Ces annonces pourraient influencer positivement le sentiment des investisseurs à l'égard de l'entreprise.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.65,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "These 3 Stocks Are Buying Back Billions in Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3VKc0N4TkFEOXI1NGU0MXFTWnBWTVpTLTJtdzFWMEVtSUtLZGNwRzN1aXZXS21ZMUdEU2Zhci1qc2pjYmxnZ2hYdnJ2WlJhQmNjTkVIaFVQQUU1LXpjX2RGSlRKczQ4NGJNSjAyNHBEWlpVc1dnU0pQX1ZRTDgyclRydVZPczhDWXNNZWhuMWZaRGM?oc=5",
+        "title": "Is Lennox International Inc. (NYSE:LII) a Small-Cap Manufacturing Stock Hedge Funds Are Buying? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3lRSjZnM050ZEFTc3lBTmxSOU1ZTTZ5UWQ4Z1dRc2d6ZUFRRTNzZkJ3YkZQRXJXOFB5SVU5OUhIalJueHZmeVkxQ1lvbDhBUGN1M1F3S0ptN05iOWlMZU5SRTIzSUI2Z3NPdDVabGtHRld1U01udmVVZWlsZXJFVzF0Sm9RQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Lennox International Inc. (NYSE:LII) a Small-Cap Manufacturing Stock Hedge Funds Are Buying? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3lRSjZnM050ZEFTc3lBTmxSOU1ZTTZ5UWQ4Z1dRc2d6ZUFRRTNzZkJ3YkZQRXJXOFB5SVU5OUhIalJueHZmeVkxQ1lvbDhBUGN1M1F3S0ptN05iOWlMZU5SRTIzSUI2Z3NPdDVabGtHRld1U01udmVVZWlsZXJFVzF0Sm9RQQ?oc=5",
+        "title": "Trading (LII) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3JtY1NUY01jVU9xNzNvZ2dXcHNOa0dGSEg5UVBPX244MUxSSVVfZE90SjNpQmlOaDNqa3ZxTXI0N0FYdUtlNEl1bFozNGpRQzlLS3NhTGFEczA5dkM1QXRUemp2bk9rY0pXYWFSbXlmVHpFNFFmS2FqbE1kUjA2ZWdGWmdKU0pTSmhRRnpGXzY5aHpZMWhScEE1ejFWUGhVNFZEazZNdGdUWlV4M3NpVWFZc0hNX3c?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,33 +571,38 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Are Wall Street Analysts Predicting Lennox International Stock Will Climb Or Sink? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVI4NjlfdGI2cElFbURwZU1XemdpZUtrMHRxdXE5d0pRWGoxX2xPbk1nbk9HZ1dRUjlZN1MyZkVWV0NYUXN5MGFJaHY2cmhOR1ZHN1c2dS1EUUZIYllXcTN6VnpSOWRvQm5BREJNcm1FYzFaX0NfWDgtTmpHUk5OM256UmwtZmljVkZrTzkwSklINnZBM2VwWVM2ZjVTUWZYeGZ3RllZaWk4OHUzYV8zTS1GcHFUdnY4SzRzNTdYeUlKTlJO?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Lennox Increases Quarterly Dividend and Stock Repurchase Authorization - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQTVVWmFIWWNfZnJkaEhCcEdvSXBkRHdWV0VBdFFHTkdnWHBIakVzdURrbFgtc0FJa1F0eEp4LW9uVHNKUWxBN053TS1lV1FhZVNKMVpzdlFZLTJnalJ1dTBKQ0tKTWo2enEzSUxOdzlmaWNKbS0yZUVlQkIwOVBSR2xqSUZoT1lDRUpoUFZGLUxjcDRSUW5vSUNkM1ZNUGI2Ykw1aThSMTJtWWJBM2RmMXZDdUNFU181X2NxZnUtbkJQRnF0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennox (LII) Ups Share Repurchase Program by $1 Billion | LII Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2FDWGtPcXUzdnFHQ1FSTGE2czNqTlFBS3dMM2FkS3lBYk1pYWlYMXJ6cTBmU2FlY18yR1AtRngtQjVTSE40Tzl5LThJZEVPVDVRTER0Vk52T2tkejFtZ2VSYXhvVzZEZjN5MXk0ZVNsRy1CZGJObWgtRzJNMGlIWGtiSjhjLWFsZWhXeGJaU2NLdTNER0JMR2Etb0lTU1ZQY1FvWHRoNHJWYms?oc=5",
+        "title": "Lennox International: Priced For Modest Growth - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGQ1SVVPREUwNTNlSUxtZm9uTFI3TzkwMFZsel84eXRCdk9JRzAxSkZCZHNWNngyNkEyLWJMRzI1TUJjd3JKTjllY29reWN6OGNmM2VVN3FxMy1sM0VoSTRvcUdPaGZWZ2Z1ZHBnc1FQZXp0VHp6cldodVViTFA3MF9DWEg2Rk5pbjBvUF92VQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennox International (NYSE:LII) Announces 13% Increase In Quarterly Dividend To US$1.30 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTNQWVVCQUtnSG1fNGdBUk5iTnV0SllEYVh5czFoa0dzSHFhODZtam51aDN0aFJmQi1mcGJ5VHA3cTZfSUFlT2paOVlRM1dkNDMtSXVyd2x4ZEdja25JczF4UmQ2QjRqRXQ2bHd3WGpPbEUwbVhHelFPb0NqMEk5TGRZQXJhS0twNkZESFBwNlZyZUhOVHVfYzFsTGI2Q3VnWnQ3akc4cjdxakpEY2ttdHNiWlJBeDg2TExtREhGZHlkaWVVZ2hici1YWkNPRC1yRXFCTzlsV0XSAd4BQVVfeXFMUGprTjJmb2tVTTFodUpmZy1KS3NaUTNjZTVRZ255T3A0V09uRU1BM3llYXFzdkJBT3U4SW5nQXZtTTdkcnNmR3BoYmxaVmRSX0xUMFRsM01Ya0hSakZsMnZTOWVZYW96X3FoTUc4dy1ybXVPUXFPRVBkRkltOHMtNFhwMmRPQVU5emJQa3ZRa2JzaWU0NnhqdmRjS3JQWDFoeXdRZmQ2ZXU4VnJSek1aRlhFRnpqT2cxUE5hNWNzcm8zOTNvSktZQ0lKVWZHWGtfT0E4T0hzUWoyUlpKRWxB?oc=5",
+        "title": "These 3 Stocks Are Buying Back Billions in Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3VKc0N4TkFEOXI1NGU0MXFTWnBWTVpTLTJtdzFWMEVtSUtLZGNwRzN1aXZXS21ZMUdEU2Zhci1qc2pjYmxnZ2hYdnJ2WlJhQmNjTkVIaFVQQUU1LXpjX2RGSlRKczQ4NGJNSjAyNHBEWlpVc1dnU0pQX1ZRTDgyclRydVZPczhDWXNNZWhuMWZaRGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Adjusts Price Target for Lennox (LII) After Earnings Report | LII Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFlZc1BOMWt3cnF6U3RENUg4UGJ6dktOelBUaVRtZGhUNlA5aVhIZURHbDk2WlFBQTA2VWxVX1A1Nkl6ZUNGR3k5eVptQkZRSXNkV2RPMDJPVlV2cVoxemRKRFZGbUpISzBPOHFkXzNsNHhuOXVSY2ItRjJmTEUtMExwSUpEVEZMUDNnaHVmbkVnQldYUEpRek1FU0h4YlZLMDNUMUp2cmMzUmN1VTRLV2daYjFIdWZPMXNybGRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "William Blair Keeps Their Buy Rating on Lennox International (LII) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdmRtUFVQX3dQLXc5NWExandGWjdObGpyYjVoZDlnVzNweXRIanNuOE9Wc1lwZF9YY0Z1b242aVg0eTNNbWFtUW9IdjFybW02X1FCSXlEWC1GajNuYUhvTE5JYUhBNVl0NC1sUElMRDFZSnN6ZUtEUTRnMG42WUc4czNWT1lramIzV24yUnVQSDVWSTdWMldGZEkxYU9qSk16ZXZYNU1GdExBeVZrQWpnYUdmdjdHWUV3d1RfS2RaRkNZNXNPVUVQN19GYVdmMVlrTHdGcEsyRXd6ckxKN3hRUl8zSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lennox International's (NYSE:LII) 28% CAGR outpaced the company's earnings growth over the same five-year period - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlFCbTd3blJTSFJUdEJSRUFiSDQ3dGt2NDNadWY4dXhUdXR6a0Fqdm9kNmVmNjgtWmlTbUZkdzZGelM2NThFbGp1clU2N2F0b24zOVkxZF9kRDVlOUZwaERrN0V0UVRNQl9UV2dUZFQ2OG1tckZjV21za1VjTGh0VEdvc0NTQy11emoxTWphbFBYcTRLOFRSeXBqaXJlZWt6THdfTXNYRmJpQ0tubkVsRDVsNUFxYTR2NXJaYXJmYjdUZV9rdkxaWmwwQ0xVNm5jQnJjcmpsVdIB3AFBVV95cUxPellDQVF6elBabmxHQ1lDZk9RMWVzUFVKOWs3TzROdm5keG16Z056aldtZ2J6N2hGVjNDX3hvY3BJcGtoSWhLWTBtUTVfSU96N0d1T2NhUklIamRYMlNGOGNEdGI2MkRiRTdpM1B3S3ZtMHNSU0Q0U2E0TUU2YVhJV0tlWmxTU0FaY283elJSdWV0NnBMRXFKRlVJTmhhMVJlODJJR2VneTZsSzlscjBCQ1FCX1JzMDVzM1JMVmJvZlFNTG16eTdFaFVoOWI2Z2xrRGhHSFNGYUk3OS1r?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "LENNOX INTERNATIONAL Earnings Results: $LII Reports Quarterly Earnings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlRleWRiQTZFMVdJdVBJNWxWTy05dEtlNXgyS1ZqMEFGNUotbm1GNmhwV0gxVnZ2QWNPdEJSRUpaTER6VmRXWEJid0lwbjdBZ3I3WVYwRDc4SzlXNnBNTkpfV1JCaHFONUZUX3RKSmZsT2pRRnFLc1BVMnFXeVI5VllmdTU0LVdjLS03cVU2Q1ZoeTVxZzIzNFJhLTNJOFdnaXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Former Otis Americas Chief Joins Lennox Board: MIT Grad Brings 23 Years of Cummins Leadership - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFFRZExvaGFLbXlyT2N3WmRuYThONzE1aWZVUUdnYnFPVmwwY1VacVhPZ24tVDZ2UW03ZnJ6UnNPQXloWGd2UVYtRmp2b0steEdvc2xMRUlUbjdaMDQ2VWdSMXpfMTlRYW52TjdWa3Z1UXlwQmJldGhDVVlncFd1R2pBNkZ1QmY0d2gxMDRMc00tOE1XU3FVc25B?oc=5",
+        "title": "Are Wall Street Analysts Predicting Lennox International Stock Will Climb Or Sink? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVI4NjlfdGI2cElFbURwZU1XemdpZUtrMHRxdXE5d0pRWGoxX2xPbk1nbk9HZ1dRUjlZN1MyZkVWV0NYUXN5MGFJaHY2cmhOR1ZHN1c2dS1EUUZIYllXcTN6VnpSOWRvQm5BREJNcm1FYzFaX0NfWDgtTmpHUk5OM256UmwtZmljVkZrTzkwSklINnZBM2VwWVM2ZjVTUWZYeGZ3RllZaWk4OHUzYV8zTS1GcHFUdnY4SzRzNTdYeUlKTlJO?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,13 +611,23 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Lennox (LII) Price Target Boosted by Mizuho to $595 | LII Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVm5BakN6c0VCX3R6cE44aDdOVFlscTNNNVRrYUVXQjQ3N2UtVnV6NTJGREFQQUtPc29sOFFBRHpBSWd6NFFLb3RiZUpMTGlldWVQSlVLVkRwa0locmkxVG1UOWlRVjhfblpZTTNHTUZhV1JJUGR1VjV1MmhiRlVFRWVpWWVPN1Q0V3pORUI2NDlWRnJxT0I5dmFlcm5fVm8wM1VCUjZB?oc=5",
-        "label": "POSITIVE"
+        "title": "Former Otis Americas Chief Joins Lennox Board: MIT Grad Brings 23 Years of Cummins Leadership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFFRZExvaGFLbXlyT2N3WmRuYThONzE1aWZVUUdnYnFPVmwwY1VacVhPZ24tVDZ2UW03ZnJ6UnNPQXloWGd2UVYtRmp2b0steEdvc2xMRUlUbjdaMDQ2VWdSMXpfMTlRYW52TjdWa3Z1UXlwQmJldGhDVVlncFd1R2pBNkZ1QmY0d2gxMDRMc00tOE1XU3FVc25B?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Lennox Reports First Quarter Results - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXN5UUR0c1AxQU5kdzJ1NTVPOXk3enQtaG1WN2ZyNmlYTXdrTlN5aDhib2p0NUljR21TaDdNWkZzbnRkRnlKVmlLN1Ntem1XYnlYZll0WmpnUF9MT18tdllzajFqOTZUM3pMdGNWRnM3VENLdUlJeTBDQzhpTmRGLTR6NUxoei1yUjhaU2hQT0t4cXZkaEtz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lennox International Inc. 2025 Q1 - Results - Earnings Call Presentation (NYSE:LII) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanlQcjQ3elZidFNEZlhXVk0tLWtBOEJiOUtUclJnRi1DeGYwTnZydUx3eE1IYlhVT3hVdHBZY19Bc0FMVk9hU0tEcU5qZGpqeXZQWjMyNzM4NHNwc0R1QjFOeTNWVEhyalRveFphUkEyVVg4TERveWczMlFOQzFrY1o4TjE2U2hSdDVVQXRWVmNjcnZIQnYzY09ZSkoyYzAxZjNmSXl5cjlQV2cz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lennox International (LII) Q1 Earnings and Revenues Top Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWgySk5QNC16dWlZM3AyOUNtVks3cWk1cHhrSTFJWkVYdC1aRE9DSGdqN3JvZHdRc0lGbloxLU8yZjZpRDl6MUw5aW1rYUt4c0xRQWpkQ2xWdmRqUURQRnh2V2FSSUNzZzJlWlJRdWZpNGk5elpqcVJpUm1sbTJqWE9BbnlhS2pGaWc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,18 +636,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennox International (NYSE:LII) Reports Modest 2% Revenue Growth Despite Earnings Dip - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmJrRnU1SV9sN2pOODc5UDRNcVVaRnpveDhLQ21mdHJQN3V4UF9Xc2JfYmhwVVlIT3UwbTg3ajRkMUFCVF9mbVdNbk1FMkVlc0dDeTBjblhHUTQtd05WaHJKYUxQOXRNYnd0enJRdC1IeDFhYk5UclM1OHVCSGxhZzRNZkQzX0pJeDJV?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Strategic Power Move: Lennox Taps Honeywell President for Critical Home Solutions Role - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnppTXlTcUdYd3JncktkdTY1WGNKeHZ1dllQbG1Dc1pCNHdxQWxFMTBndUJWRElpV0pueDR2SzNpMG82b3lKSU5EN2lVM2g2cmRPcUx6akwxS3J2MWVyVThjbkp1eGZBbm5HVmpEYUZBcHFTcE9PWmZRRmlIbk9QVld0WElMdWZSZzRRV2FvdV9PN1AtTlFTVnN5akpkRzFXcXE0WTQzLUMyWFhTX3NCWEl1VE82TzFqOG5jZjV3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lennox Increases Quarterly Dividend and Stock Repurchase Authorization | LII Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY3FuMUFza3FFYmJaRnIzaGVEOG1yVWlBNVVrVEM3TnBjTVQ3b3B1cVFyS0xfRG04OEtOeVlUNFFMQ3dhb09zMC1SOXZyb2FYOG55S2d6OC1pdEFEemlzR1J0d1BVTGZXY0RRa3ZleF9vS3RTZG5hVWZQdmgxLWFIQ3lIaWJmR1RYRTBuM3hFQTBRSW5SdHZRaHpoaFBhODNUTFQwRDl6UjFuM3ZvSF85aEpRVDdiZTZxOXYya3JTcGg1Y0k?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +646,16 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Lennox Appoints Tracy Embree to Board of Directors | LII Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWM4bGM1Ykw2elM4MjNlTHFvWHZVcG1VNUozeW92emowNW9pRThGMk5EZzlSb3RDV3lNRGlyWDhON0tWQTN4UmhkaFRjeGZkandRVm9nWnJEWUpxeXkyaWRkNG9WRVY2LV84MUhreC1TT2UwTnlLZkk5YWRrck1WY1o5X1UxY1FOVk5OWWxVa09sU0ZNTHllMTJ0b0NzM2lyS1c3bmxPUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Q1 2025 Earnings Preview: Lennox to Reveal Climate Control Market Performance - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZnYtRk5KMHZLLXZCdlE4anozOGFRZUtzZndNdTBNQ1U4aFNpSW0tSm0wSjVyc2VkMzR5ekRQV283SXR5eHdEZnQzTkp6alF6NkkwN1R6X2QxVmctZzlkQlc0QUFoUHQ2Tmt3LUVObmIxcFNVel9uamplTlh1NWVuaGx1X0UwclkwWi1scw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennox International (LII) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmpzcmZwSlZ2Y3hKQlVoM3p2d1ZRSENweEZXR1Vjb2VVT01BaVRsUGtVYXRNMHlaVmRWazNOWThkZkJtQ0VUTnpQb01mcV9jajRTVU5WOTY5SUVqVjl1SlgzSUVzbmZZTHlIOGFIa3lBd3JtMjdWblhnZGRjSkNMOGxBV0k1ZTNBTmxBSg?oc=5",
-        "label": "POSITIVE"
+        "title": "What To Expect From Lennox’s (LII) Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnhmNkVISXdIem9HQm4xSUgxTFZYTEU1aDRFSmRjOFRaUFVFcWVDRHkwTzQyVXFFdGJEdmE1eUdKSjBEOW1WZm8xYjd6eC1iRHRDSkZaRU5ER1lDU2ZibVJlbGFJdzV2RHV5anI1dXd5eXZRaFlYRkNGOUFHYUVYRA?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

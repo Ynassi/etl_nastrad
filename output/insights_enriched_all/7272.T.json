@@ -2,16 +2,16 @@
   "ticker": "7272.T",
   "name": "Yamaha Motor Company",
   "sector": "Consumer Discretionary",
-  "market_cap": 1045062811648.0,
+  "market_cap": 1042639159296.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.692806,
-    "PB": 0.93478364,
-    "EV_Revenue": 0.687,
+    "PE": 12.657409,
+    "PB": 0.9326158,
+    "EV_Revenue": 0.686,
     "ROE": 0.08252,
     "ProfitMargin": 0.03233,
     "GrossMargin": 0.31553,
-    "DividendYield": 4.69,
+    "DividendYield": 4.6,
     "DebtEquity": 86.306,
     "CurrentRatio": 1.371,
     "QuickRatio": 0.802,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.01796675852751494,
     "ROA": 0.03323,
     "PEG": null,
-    "EV_EBITDA": 7.556,
+    "EV_EBITDA": 7.545,
     "BuybackYield": null,
-    "PriceToFCF": 22.720732870195732
+    "PriceToFCF": 22.668040192735344
   },
   "technical_indicators": {
-    "RSI_14": 44.815174276547566,
-    "Momentum_10": 0.5597014925373134,
-    "MACD": -8.896678695088212,
-    "BB_Percent": 0.3873756898217965,
+    "RSI_14": 44.34238221009617,
+    "Momentum_10": -3.1081081081081083,
+    "MACD": -6.412694219640343,
+    "BB_Percent": 0.2922564490910836,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9345024758938478,
+    "ValueScore": 0.8964996593917455,
     "QualityScore": 0.3526475345291127,
-    "SignalScore": 0.6124756732557837
+    "SignalScore": 0.6276007351204436
   },
-  "volatility": 0.0231741384000753,
+  "volatility": 0.0230104200453521,
   "beta": 0.792,
-  "return_6m": -0.1640885165555128,
+  "return_6m": -0.2150667342805694,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 11,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1312.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1328.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1354.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1359.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1387.5
-      },
       {
         "date": "2024-12-13",
         "price": 1394.5
@@ -525,37 +505,62 @@
       {
         "date": "2025-06-06",
         "price": 1078.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1080.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1088.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1096.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1088.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1075.5
       }
     ],
     "current_price_data": {
-      "price": 1078.0,
-      "change": 11.0,
-      "percent_change": 1.03
+      "price": 1075.5,
+      "change": -12.5,
+      "percent_change": -1.15
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Yamaha Motor Co., Ltd. a récemment publié des résultats décevants avec des bénéfices ratés et des revenus en deçà des attentes, poussant les investisseurs à se questionner sur l'opportunité d'achat. Par ailleurs, Hino Motors a été perquisitionné par le ministère des Transports japonais suite à des données d'émissions falsifiées, entraînant une chute des actions. En parallèle, Toyota renforce ses liens avec Suzuki et Subaru à travers des accords de participation, consolidant ainsi sa position sur le marché automobile japonais. Ces événements soulignent l'importance de la transparence des données financières et des partenariats stratégiques dans le secteur automobile, influençant potentiellement le sentiment de marché des investisseurs.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.4,
+    "summary": "Dans l'actualité récente, Yamaha Motor Co., Ltd. a dévoilé le tout nouveau modèle YZF-R7 2022, renforçant ainsi sa présence sur le segment des motos sportives. En parallèle, Toyota a été secoué par un scandale de tests, impactant le marché japonais. Malgré cela, Toyota a renforcé ses partenariats au Japon en augmentant sa participation dans Subaru et Suzuki, étendant ainsi son emprise sur l'industrie automobile japonaise. Ces événements peuvent influencer le sentiment des investisseurs envers ces entreprises et le secteur automobile dans son ensemble.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.44,
+    "neutral_ratio": 0.44,
+    "negative_ratio": 0.11,
     "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Yamaha Motor Co., Ltd. Just Missed Earnings And Its Revenue Numbers Were Weaker Than Expected - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV05EMmdLeUV0ZXFqaU5rTWhJYXRLNEVoSllWc2hrdmRDejgwMDZyRHF6NkpjN1JvZDFZbU1ZVkhRMmhybGF5c1M3WkRVZkM3OU1HT2ZBX0V5YmdKWFhUeklDa1RKR3BuU0NTTXhCTTQ0QU5fbjlPV0Jta3IxVUs0T2JxZnBUY3h2cTdBZUhOWVR6TjZxemt0NkYtX0hHa0ozWGhHSUs3SVJhNHBsUDFkSGs2di04TjhyT0ZSV1NDMUh0eXllcDJndnBLRWM3d3VYRy1DWtIB2gFBVV95cUxNVWxZLTI1cnctcnN5UWVncUM1RmhxZUQ2Q2trZGNSVXdxQUZmTElHLWZVUl8xc2RzWDhTVzRKeGw0OUFZdHdKWkhjOG5McG15d0wxVmlTb281NHROc3pSVG5nemJhMjRnSndad2FiRjJpWGhaT0NiVHBRSjVuUlFIQngtLUV1dGFtOWN0Zjh1U3BKMmJhUU9qTmtQSnZVNUVQOGZ5R0N3SXUxSjNQU0gydXdQejVGaEs5Q25VQ21KZFlWMy0tMFduLTdJOEt2S1FfVG5OaXhJN1lhZw?oc=5",
-        "label": "NEGATIVE"
-      },
       {
         "title": "Is Now The Time To Look At Buying Yamaha Motor Co., Ltd. (TSE:7272)? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHpLVjNEVGRuNWxZVkZWUHJ3SWtta1pjMUoyVVk0MXBJY1d4Q3VKckNOcHo4TVpVdGhTTkNGcml4d3gtZjg4SjdWelc5LUFvYTl6cFJVU3lxNEpmWmZLVjFodGZFbGVFRkdsT3E1NTNfNFZBaWtVUkJ2WDJfX00zelowSXFCZG90endPaUFBSlo4b3lxajdXN25SaC15eUV6cmV2dmx2YXc2aENfbk95Ml9tWlczYzk1dWJlNm4tYU81RHFna25ETEpTTTJBbk5fQlN0SdIB2gFBVV95cUxPNFF4anJtVFBXTWREV252QTl3OTJ3NG1YNEt0VU1QQjZxdElDcG1WTjRHNFBwclUzbFg5Mk8wam1DUmo5TVlFck1aQm9wYVREZFZUcEl3Q0o1UC0zT0hTdDVnUGFzZGVPc2FFZGdvSXFHaGtpMUYxUzVxVWktX1JCWW93STVjMGpCU241VHdiVTVxZjBHaW93UXIxTTdtTHI2OTZtS3lNeFpSOVAyaVJTT3AzQnZTQlhyc3dRaF8xTWZDLUVSMkFjQnVhdnN4d0twUm4zQzVTMjhrZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan transport ministry raids Hino Motors after false emissions data, shares tumble - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1B6bVJZemlFOVNZYkdSNERpTFd6OC14NFZISkFLc2RQdDlaRVp2TEljbURXdm1aeVBsc1E4RllnbWNPSTE5SjhNeU1OS1pMenVyZXVud3k2OFRtTG9DTzB3eUQ3SVE3TnB3T0h1QVh1U2xZZVBCOXlFTnBsUmx2ZTJ6SEpuLVFhbHlMek9CQkJyX2ZwRExwTGRnNXJXdGRZVy1lVzNza1Fpa090Wi1iLVIzRFJGemhGbkFHblFOc2lzc18zWVE?oc=5",
+        "title": "Why Toyota’s Testing Scandal Is Rocking Japan Stocks - TheStreet Pro",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWFjTk5SNTNPNUJEWnVVWWJaXzlKVi15U3hObmJoUUJOUW1WRFVvRGxXVUUyTkwxeWl5QTdfcGFxSzlQT0lLS0VfNHQydURiR00yVGhGOE43M2liUjhUVUtCTHdfTDVjOVJPbjIyZGNEQ2JUNVltakxuQzZldWZPSkoxUXpzYl9qcHNmX3JNeGU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yamaha Unveils All-New 2022 YZF-R7 Supersport Motorcycle - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUldLSndodWo1WEh4WWRVRTJ5Vi1jdlhXczVSYWdNMDloTG9qYVFTVkRYZXdDVm5wZXEwbmt3QlVBbFlMaDNncnlnbDVmbEpGU09iMW1TS0ZnZ2tBVVN3YWFOMVhTWjZoV3dLY1hVeF9EQklQRGZZdFFHX1Q?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan auto safety scandal widens, Toyota halts some shipments - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0VITEtfbk5Ld3BpMHllQVp3TExPSjFmMHltcXF6T0pGS1ZYWE5uRkxzVmFnRW5ESXlXdWhMSFpYM3JnUU44VHB4YVVhRzV1SlRNZVBOY0VkX0w2OExERnZvRkowYUhWQlFWZWkzSmF5Rkl5TUZCYUtyblg1dEpUSGxuaDVuelBCaEJsb19NLVlnSkRqZUw3VHNwUjd0VlBNb09zMDdQRF9aUTdzTElPZ2FzaXNNeDFjMGhHdnBlYWJ6STh1TDk2NG1FYzdxam8z?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -564,11 +569,26 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Yamaha FZ-X India launch likely on June 18 - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sVHVVV2FMazV3QUFwM0RKYVh2Znc4ZDd0S0RmMFlwR3FNN3hoQWNReDcyYlBkY2hoV3FWdXpwckdtVTZLMWI0MVVidTNTQ1JmQ1l4WGxILXNnQ2JTZVZGalBLZGlDWDhiX3FCWUVnbTJ0bmxRek93dnlUUGthQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Toyota strengthens Japan partnerships with bigger Subaru stake - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzV2b2wzUzhweERzMVNJQ3dFejctRUczNzBHWWVaZXZkZnV3TGctcVU3cnNBelJHcll6MVc4VXdrZWlRb3RwUkpBT1VIbDdKaW5wVjFLeVEyUTRETFp3ZVNSdjBCdXJZUG1NMXI3NXZzQ0J4bkVhOXA5Z2N4elpLODViQk9KX3E4eExSSW9Td2VDYURqakxCUy1kaUpZRklKc3VIaVBmNE5XeEg2cy1CZUJ0dEpYU1BhSEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yamaha NMAX 160 launched in a limited-run Star Wars avatar - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFKRUdoTURHSDVYNGlUdExzVHJieEJpQzZYc3R3ZWFXQlFlZkNrYnZiUjZxNGt4SzZjcXk0ZHgtZXExUXpEal9oZWZOdmRITWs3UXRrbThNNzUzX3RtZnF2TU94TUxVM0tqX2hsZ0s5SVZuVkFLZUJtd2R5aWFGZnJQenFCQmtu?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With bigger stake in Subaru, Toyota expands reach over Japan automakers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU29lRUNiUWlaVjd3RE1UcEFzMlBxWEZMS0lpTTBMQ21GRVM2REZ6WXFscnJheWZQSFpqcWphSllnR01JTXJxcHB2MXNRYWFXcnVOTDFTRlJ3QmtwSDRLdzk3Zk1OREYzVXdiaGl3ZTNuamJ1VlRZN3pmYU1UR1RSNW1fc0lZOUM1MGs5ZV9TVkpSbmtkaTZnSS0zSkhQSVpGc3BVZk5RV0NuUlVJNTBGX1lfcDZwZHNpLVB3T1hIa3NOT1JleWJtSDRn?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

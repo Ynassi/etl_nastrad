@@ -2,16 +2,16 @@
   "ticker": "8795.T",
   "name": "T&D Holdings",
   "sector": "Financials",
-  "market_cap": 1704841445376.0,
+  "market_cap": 1644682543104.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.844499,
-    "PB": 1.3161421,
-    "EV_Revenue": 0.295,
+    "PE": 13.358731,
+    "PB": 1.2696993,
+    "EV_Revenue": 0.279,
     "ROE": 0.093789995,
     "ProfitMargin": 0.03497,
     "GrossMargin": 0.17202,
-    "DividendYield": 3.7,
+    "DividendYield": 3.8,
     "DebtEquity": 9.794,
     "CurrentRatio": 4.114,
     "QuickRatio": 3.772,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.12679752031202213,
     "ROA": 0.00719,
     "PEG": null,
-    "EV_EBITDA": 4.933,
+    "EV_EBITDA": 4.654,
     "BuybackYield": null,
-    "PriceToFCF": 3.719769296600578
+    "PriceToFCF": 3.5885094435535243
   },
   "technical_indicators": {
-    "RSI_14": 61.860546034413,
-    "Momentum_10": 3.5294117647058822,
-    "MACD": 108.5939224118838,
-    "BB_Percent": 0.7104741114337012,
+    "RSI_14": 50.17636194987922,
+    "Momentum_10": -2.655401327700664,
+    "MACD": 61.61639165972565,
+    "BB_Percent": 0.3826259434421389,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341925313605032,
+    "ValueScore": 0.8974330852316875,
     "QualityScore": 0.3879786428246272,
-    "SignalScore": 0.4744948672314627
+    "SignalScore": 0.5822929343680634
   },
-  "volatility": 0.0261945538265702,
+  "volatility": 0.0261409588987853,
   "beta": 0.253,
-  "return_6m": 0.216359810981018,
+  "return_6m": 0.1738598998758154,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 3663.0
+    "target_mean_price": 3810.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2782.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2740.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2739.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2832.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2829.0
-      },
       {
         "date": "2024-12-13",
         "price": 2781.5
@@ -525,12 +505,50 @@
       {
         "date": "2025-06-06",
         "price": 3344.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3387.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3293.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3251.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3259.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3226.0
       }
     ],
     "current_price_data": {
-      "price": 3344.0,
-      "change": -6.0,
-      "percent_change": -0.18
+      "price": 3226.0,
+      "change": -33.0,
+      "percent_change": -1.01
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Allianz, BlackRock et T&D forment un consortium pour acquérir la participation de Cinven dans Viridium. Cette opération renforce la présence des acteurs majeurs de l'assurance et de la gestion d'actifs dans le secteur de l'assurance-vie en Europe. Cette alliance stratégique pourrait indiquer une confiance mutuelle dans le potentiel de croissance du marché de l'assurance-vie. Les investisseurs pourraient interpréter cette nouvelle comme un signal positif de consolidation et de collaboration entre les géants de la finance, susceptible d'influencer positivement le sentiment de marché.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Allianz, BlackRock and T&D in consortium for Cinven's Viridium stake - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFRFdUxmQUhvVkVqTE81eGpCRUYxYXNlVkRzWU5GYWF3S1lQWHc4YWZCdWoxQkxneXg4OHVQRDloN2xlNWVVV0VGNFRSRm9oa2JidkJVbWJMMDFvNFFmN1A0YmhYRFNGYkFaZGtZYnpYLWtUSzhHaEdaV21aRTM5ekV3RGpEYW5L?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

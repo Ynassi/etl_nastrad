@@ -2,12 +2,12 @@
   "ticker": "8233.T",
   "name": "Takashimaya",
   "sector": "Consumer Discretionary",
-  "market_cap": 333102448640.0,
+  "market_cap": 329765355520.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.241582,
-    "PB": 0.704163,
-    "EV_Revenue": 1.226,
+    "PE": 10.136144,
+    "PB": 0.69710857,
+    "EV_Revenue": 1.22,
     "ROE": 0.08307,
     "ProfitMargin": 0.07929,
     "GrossMargin": 0.6006,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05763218379886645,
     "ROA": 0.028010001,
     "PEG": null,
-    "EV_EBITDA": 6.738,
+    "EV_EBITDA": 6.702,
     "BuybackYield": null,
-    "PriceToFCF": 11.594590862647726
+    "PriceToFCF": 11.478433717736513
   },
   "technical_indicators": {
-    "RSI_14": 38.34711383027737,
-    "Momentum_10": -5.912596401028278,
-    "MACD": -5.526193472215027,
-    "BB_Percent": 0.0449544197846877,
+    "RSI_14": 38.158559166825405,
+    "Momentum_10": -5.76506285218899,
+    "MACD": -11.193664507801486,
+    "BB_Percent": 0.1157866256652113,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934920029374788,
+    "ValueScore": 0.8954160978308867,
     "QualityScore": 0.5004131382908711,
-    "SignalScore": 0.702962323151441
+    "SignalScore": 0.6720546095251125
   },
-  "volatility": 0.0180377934264304,
+  "volatility": 0.0180974795286548,
   "beta": -0.048,
-  "return_6m": -0.1201923076923077,
+  "return_6m": -0.1236516038643672,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "hold",
     "analyst_count": 4,
     "target_mean_price": 1272.5
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1248.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1227.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1227.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1242.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1250.0
-      },
       {
         "date": "2024-12-13",
         "price": 1253.5
@@ -525,24 +505,49 @@
       {
         "date": "2025-06-06",
         "price": 1098.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1095.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1105.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1118.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1101.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1087.0
       }
     ],
     "current_price_data": {
-      "price": 1098.0,
-      "change": -5.0,
-      "percent_change": -0.45
+      "price": 1087.0,
+      "change": -14.0,
+      "percent_change": -1.27
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente montre une progression des actions, accompagnée d'un repli du dollar américain suite à l'abandon par la Chine de sa règle de quarantaine. Cette décision pourrait favoriser un regain de confiance des investisseurs et stimuler les marchés boursiers. Il est essentiel de surveiller de près l'évolution de la situation géopolitique et des politiques commerciales pour anticiper les possibles impacts sur les marchés financiers.",
-    "sentiment_score": -1.0,
-    "label": "NEUTRAL",
+    "summary": "Suite à l'annonce de Prabhudas Lilladher recommandant l'achat de Polycab India avec un objectif de Rs 8233, l'action pourrait bénéficier d'un soutien accru. Parallèlement, la progression des actions et la baisse du dollar américain suite à l'assouplissement des règles de quarantaine par la Chine pourraient indiquer un regain de confiance des investisseurs sur les marchés mondiaux. Ces événements pourraient influencer positivement le sentiment de marché en faveur des actifs à risque.",
+    "sentiment_score": -0.5,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Buy Polycab India; target of Rs 8233: Prabhudas Lilladher - Moneycontrol",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnlHTmwzNVRrdllBenlwLVNycXJvb00yYS13c3VqSW1pOGNDQVZNdXpvVjVQdUpZMHBCN3NteTlQNzkzbGNhQWhDaUdxSFNDTVdGUHZWeE9kSlUyNlJJUkdRRllzMmJEemVNYlY4MUxKb1FTV3hSOGRobFN5dExVUVgyaWhrNTdsSzFMdmdBUkVEaVVMNGdKX19GaVkyV2lDYjcwN09mSEZXVXNvcTljWlhybnh0dGJEclRN0gHAAUFVX3lxTE9NTWE5M0N1T0IwMlpIQkgtYWtFWURpZHlFZmZWcXNnYmJNZDMwUXRwamRjaGlKMHpjWk9tZ3pmTWJsUFltR3lOaXpjNERmSzFIS1V4b0FhdFBTcXk0MURKXzZIcExfRDdVMlFILWFiamp4NF9IWXM4VVlVOGxnRnF6cS1OejdjS2JfQkdWM3V4UzBUSzJBaWF0M05CLThZcTd4bmQxLTZXSkdXc1ExQjM0amNOdWUwZ0dvSG90WFpYZA?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Stocks advance, US dollar retreats as China drops quarantine rule - Cyprus Mail",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWwzRVBmbnZ6c1N2QzlPREk3ZnVwbVJma0ctT0QwV1pXTmpwNGtCbzBIa1lEd3h5bkh6WnRSNzNvUWVPbXVSQ2lNYVdGZ1hPdTllTFkzeE9JVndWY2dSWHJMWHM0aEJqUnZzbGJZV3F0a2RBNzhPMVNfa0VMNlZwemtDOVBoX0dEXzF0QjFvd0tabWF2S3BydE4tVm80M1Fh?oc=5",
@@ -550,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

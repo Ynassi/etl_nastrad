@@ -2,16 +2,16 @@
   "ticker": "5108.T",
   "name": "Bridgestone",
   "sector": "Materials",
-  "market_cap": 4024128241664.0,
+  "market_cap": 4033617592320.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.83879,
-    "PB": 1.1328391,
-    "EV_Revenue": 0.943,
+    "PE": 14.870065,
+    "PB": 1.1355104,
+    "EV_Revenue": 0.956,
     "ROE": 0.07818,
     "ProfitMargin": 0.0,
     "GrossMargin": 0.0,
-    "DividendYield": 3.93,
+    "DividendYield": 3.82,
     "DebtEquity": 19.113,
     "CurrentRatio": 2.49,
     "QuickRatio": 1.46,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.06019997462776526,
     "ROA": 0.0509,
     "PEG": null,
-    "EV_EBITDA": 5.238,
+    "EV_EBITDA": 5.25,
     "BuybackYield": null,
-    "PriceToFCF": 15.109414661219862
+    "PriceToFCF": 15.31555399274812
   },
   "technical_indicators": {
-    "RSI_14": 44.670376102329776,
-    "Momentum_10": -2.735910878112713,
-    "MACD": -3.1786008636563565,
-    "BB_Percent": 0.140562439045346,
+    "RSI_14": 45.78018083426412,
+    "Momentum_10": -4.2477876106194685,
+    "MACD": -12.708896736976383,
+    "BB_Percent": 0.2716196116113067,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9340702162836952,
+    "ValueScore": 0.895274573461492,
     "QualityScore": 0.3535755161989632,
-    "SignalScore": 0.641451252925207
+    "SignalScore": 0.6283580442613486
   },
-  "volatility": 0.0163988427983033,
+  "volatility": 0.0163060691226172,
   "beta": 0.239,
-  "return_6m": 0.151277106763622,
+  "return_6m": 0.1435564111521174,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 6390.909
+    "target_mean_price": 6522.727
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 5260.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 5317.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 5327.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 5300.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 5380.0
-      },
       {
         "date": "2024-12-13",
         "price": 5308.0
@@ -525,28 +505,48 @@
       {
         "date": "2025-06-06",
         "price": 5937.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 5944.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 5969.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 5998.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 6018.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 5951.0
       }
     ],
     "current_price_data": {
-      "price": 5937.0,
-      "change": 79.0,
-      "percent_change": 1.35
+      "price": 5951.0,
+      "change": -67.0,
+      "percent_change": -1.11
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise japonaise Bridgestone a considérablement réduit la valeur de son offre obligataire à 350 millions de dollars, suscitant des inquiétudes. Parallèlement, les paiements de sécurité sociale pouvant atteindre 5 108 $ sont en cours de distribution, ce qui pourrait stimuler la consommation. La demande croissante de pneus, entraînant une hausse des prix, pourrait bénéficier à Bridgestone. Cependant, la liste des entreprises cotées spécialisées dans le vélo suggère un intérêt accru pour les moyens de transport alternatifs, ce qui pourrait affecter les prévisions de croissance de Bridgestone.",
-    "sentiment_score": 0.2,
+    "summary": "L'entreprise Bridgestone (TSE:5108) prévoit de verser un dividende plus important cette année, signalant une confiance dans sa capacité à générer des flux de trésorerie solides. Cela pourrait attirer l'attention des investisseurs à la recherche de rendement. Parallèlement, le marché mondial des pneus connaît une croissance soutenue, avec des acteurs clés tels que Michelin, Continental et Goodyear en tête, ce qui pourrait bénéficier à Bridgestone. Cependant, l'augmentation des prix des pneus pourrait peser sur les consommateurs, impactant potentiellement la demande de produits Bridgestone. Les investisseurs devraient surveiller de près l'évolution de ces tendances pour évaluer l'impact sur la valorisation de l'entreprise.",
+    "sentiment_score": null,
     "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Japan's Bridgestone more than halves value of bond offering to $350 million, say sources - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzhUVXpTVThaXzJsMml3OFlpc3ZiRzljekZwSnpCTl9hQ0ZhODdHNWNCR0FFQXNVa2IxaG1wbUwtbUpSbUZKdVdoUzNGTFowYzJPM053WGVoeU0zWDdnZlF4Vl84THZFb09weld5TVZDcGRtZ2pYT3JCeXZNdnNsV3prM0poOWpwMmVLSU80TWYxVU9sT3UxNUx0dHFaYTlYS2RVVWRlV2tRRmVNcVRlUVRiX2FTRm9TdjFKa0Nzc3dBX1lVUkVTenFIWUtZTU00?oc=5",
-        "label": "POSITIVE"
+        "title": "Bridgestone's (TSE:5108) Upcoming Dividend Will Be Larger Than Last Year's - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU3VReVphRHlpS0FudDJaY2tNZ3ptVUtjU3Z5VzZ2VEtPclI1SW5DM19nMGRhdnBzMnBhZThDM3N2Yk9uWU8zMkRnenhwaDU2VUkzLUluNE5hVXRDM19halExQ0x4elFIQ01LN2dRelFheU9ETTlQZUdpOTF4ckpPUm5tYjZhZUVGSkhTd2ZNZXJKVFlDMGJrUDBYRlZrRDBHOFpzTXdNb2RtSENjcUNOM3JiVG9HclFBZ294VzV6eFRUQjdXMFhhUUlkTXBGTnVBRnpN0gHYAUFVX3lxTE4wdWRXYkRib3ZCV0lTYldNSDNLT2tJSFNsbGg4RElLQW94eW9uYlRKM09FQUdBTEFkY0ZZX0RQYi1tank4TEZnUGl3cjczaE5MRXV0X29UQ0VCMktCSlV3SWFNenpka3hQUDhmNm9yQVRjZ0xpWS1NMFNaRHJFM1E5Mk81NkNsYWlXS2wwMUNPV3RWTU9tMEprS0tNWnFUenN3M2hyRnZpVjd3OGExV0x1UUtzQ2tOLVd3cjJBNWk2aGVtdU9MaERlcWw2LVE4UkxoMmRvbG5JQg?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Want the Max $5,108 Social Security Benefit? Here's the Salary You Need - The Motley Fool",
@@ -556,6 +556,11 @@
       {
         "title": "Social Security Update: Payments of Up to $5,108 Arriving This Week - MSN",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWpIM0lEUGx3ekpLNWhFNVlNUEhXa2c0MzM4WTlMaWt5TG9IU285ZTVPTzRYeExRNlJSZGRvQnpOaS1xTWFtNG10Mm5GMWlSd0M5eHVQUXZOaGtmOGtTWkRyLXdCdjZzM2JzR0NFcGV3WWJLalI0Tl9WSUVNcnBfQ3VWZmJXUE13OW9vSzBHR1RiQmpJVzlUZmFxSW9wT20tVVZDdXBWeE82QVVZWUU3TF9kcm1XRU1Jc05RRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Tire Market Report 2022-2027 Featuring Leading Players - Michelin, Bridgestone, Continental, Goodyear, Sumitomo, Pirelli, Yokohama, Hankook, Toyo, Kumho - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVm1zV1ZHWGZMRGtRSnJxSndBMUZtVVJJRG13N0NrN2pZZVpBZkx4UWFvNFN0ZmY1MHdCZHM4R0ZqWkhmR3p5OUd2WDNHRFhOa0x3MUFaQnJ1U29iVllpYV9kNnh1bXJpRWJta3UtNGZ0Uks0d1R1bGwyanNUcVVnV1V1UjJVQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -570,5 +575,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "V",
   "name": "Visa Inc.",
   "sector": "Financials",
-  "market_cap": 708702175232.0,
+  "market_cap": 673113374720.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 37.21831,
-    "PB": 18.6834,
-    "EV_Revenue": 18.462,
+    "PE": 35.3138,
+    "PB": 17.74518,
+    "EV_Revenue": 18.692,
     "ROE": 0.50655,
     "ProfitMargin": 0.52859,
     "GrossMargin": 0.9777,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.3920018140813739,
     "ROA": 0.16936001,
     "PEG": null,
-    "EV_EBITDA": 26.484,
+    "EV_EBITDA": 26.815,
     "BuybackYield": null,
-    "PriceToFCF": 48.12589378243289
+    "PriceToFCF": 45.8344956257371
   },
   "technical_indicators": {
-    "RSI_14": 67.04480446565064,
-    "Momentum_10": 3.343855959964402,
-    "MACD": 5.867942853407158,
-    "BB_Percent": 0.892199615279267,
+    "RSI_14": 40.85607301930701,
+    "Momentum_10": -3.9951795614206462,
+    "MACD": 4.111235186927388,
+    "BB_Percent": -0.0828235070503274,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.920971978322848,
+    "ValueScore": 0.8319615817697081,
     "QualityScore": 0.5040172919053277,
-    "SignalScore": 0.4696234279008259
+    "SignalScore": 0.6463981662245919
   },
-  "volatility": 0.0153131183141828,
+  "volatility": 0.0161297389681848,
   "beta": 0.943,
-  "return_6m": 0.193492056412863,
+  "return_6m": 0.1197349470824216,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 40,
-    "target_mean_price": 381.46475
+    "target_mean_price": 382.43976
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 308.3
-      },
-      {
-        "date": "2024-12-10",
-        "price": 312.38
-      },
-      {
-        "date": "2024-12-11",
-        "price": 313.79
-      },
-      {
-        "date": "2024-12-12",
-        "price": 314.23
-      },
-      {
-        "date": "2024-12-13",
-        "price": 314.74
-      },
       {
         "date": "2024-12-16",
         "price": 315.89
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 370.22
+      },
+      {
+        "date": "2025-06-09",
+        "price": 366.66
+      },
+      {
+        "date": "2025-06-10",
+        "price": 370.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 373.31
+      },
+      {
+        "date": "2025-06-12",
+        "price": 371.4
+      },
+      {
+        "date": "2025-06-13",
+        "price": 352.85
       }
     ],
     "current_price_data": {
-      "price": 370.22,
-      "change": 3.4,
-      "percent_change": 0.93
+      "price": 352.85,
+      "change": -18.55,
+      "percent_change": -4.99
     }
   },
   "news_sentiment": {
-    "summary": "Visa (V) continue de susciter l'intérêt des investisseurs avec des mises à jour positives telles que les prévisions de croissance à long terme, les recommandations d'achat de Mizuho et DBS, ainsi que le lancement d'une carte de débit révolutionnaire en partenariat avec Klarna. Cependant, malgré la tendance à la hausse du titre et sa croissance constante, des signaux mitigés émergent avec des divergences d'opinion de Wall Street sur l'achat de Visa par rapport à d'autres actions telles que Nvidia. La volatilité récente du marché a également pesé sur le cours de l'action, nécessitant une évaluation prudente pour les investisseurs.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.1,
+    "summary": "Dans l'actualité récente, Visa (V) a connu une forte volatilité, chutant de plus de 5% après des gains annuels solides. Toutefois, la société a surpassé le marché aujourd'hui, suscitant des interrogations sur son potentiel. De plus, Visa a établi un partenariat avec Street Soccer USA pour construire des parcs de soccer majeurs aux États-Unis. Ces événements soulignent le rôle de Visa dans l'innovation et les partenariats stratégiques, malgré la concurrence croissante dans le secteur des paiements. Les investisseurs pourraient être attentifs à une éventuelle correction des cours pour saisir des opportunités d'achat.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Breaking Down Thursday’s Top 3 Unusually Active Options - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWk5GV3pXOGJFTk9VblpZV3EzMkNpaVBaODFqblBJS0RyWmJ1VmJ2MnJEVk5Qb2hhNjktRmczUnFQdHg2M2dWd09XaDZnZ0daT0xlYlRMSTB2V2tOSnZWNDlWeWNMbEdZZG91a1BJWkRyZ1JydkJwRHVlaVBHeTNrb1MweXMzYWUyMU5GNmxKWHNRU2tKcms0eXk2U1F5NlE0MWtXRHVHQkhRcWg0bTdRZHBBVXhrNlctaF9HMHExOFA3QzZxWlA4eGhpMnNQSlBJTUFB?oc=5",
+        "title": "Biggest stock movers Friday: Crypto-linked stocks, ADBE, V, MA, and more (RH:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZOZmg0NncySS16amNzZ1NGNGR5QldtSmdSVnlXWnFMQ1R4U0NLU09HT212T3lvaVBUU0Qtb3l2cjZuNXlnVWxlcDVQX19aZWMxeXNpVnFSel80R19nYVU4SHJXWVVBTjFMVmk4V212eksycG5BNEtoUzdhVXY4dmRRSm91YXdEWmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa (V) Stock Tumbles Over 5% in Sharp Sell-Off, Pausing Strong Annual Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRjNTRzNJclJxU3ppVzZoUGdYZkI5NXJEcUxFUkROOV9wTHh0Rl81QUZ6MlRUQjUwbkpuT2JOdmxvMjREc0pHZDBvTnR4d21GNHc2VmZVRTIzX0t6dWY2czNIMXBMY0JOMkxSR0ItQk9uQWNIcFFYVk1rd043aFlObzZzNHlHRzhEZlo0UGo0SmViSHYtOHgtMzZNVFRQQWxVRTlSN24xMWJ0c3J4NFZSQVhFeEhWWnRtNEE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Why Visa (V) is a Top Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kZVZ5QXBlMzVWV1RxODVkcXBSc1RYeVdLNk9QT2pxdWg5N2dNMWVVSmtrQ05SMDB4UHdNV1NrT3JUaFh3N0JqNUFXX1EwaVNJaHVKbFJKZEhHWWRnbzlXcjZteW55eHlZc2h5X05abWFVZw?oc=5",
+        "title": "Visa Inc. (V) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ESklySVRTOThtaUNvalhjQ1R1QjhYYjFoVGhUOXRDYUZRT1B1WUZhUmI2RThEdWFOYjZhbDU2alRxNXRGZWJ5Z3FZcjdyYm1sR0wzRjVXOEM1S01yN3h3R09OTzE0ei1iSDZVRTJaTl9RazdyTUpWQnBjNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Palantir Stock vs. Nvidia Stock: Wall Street Says Buy One and Sell the Other - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnI0X0Y4SVFuN0FCdEdINno4ZjNtWHpnRllUSkJPemJoSzIydkt2b0hWb1l3Nm5HYWhyS0FUbWVUVVN3aUlPUFo4U3RIVEdJcmVkUmZZQTNHekd6ZHl3MU9tUmtoYXFhcFRhSlRwRTB5V2RmWVhrVXVVcTJNSWxSQzdR?oc=5",
+        "title": "Here’s how rare stock-market rebounds like the post–‘liberation day’ resurgence are - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUlOMEJRMFZRdlN1Z2pyRG9lVzVPSVQzaHZxcHZpWVZGaFhnM2ZRR0VLOUJhU0Rnb3MtMjV5cHU1S1dYOXBPWmZ0OXdZQnA0cm0tMTl0TG04TEFxVzlHb1BGRE1mREQ3S0JXNmxHOTJpMlZPblF3bGltalF6VTFHNU1qbTVUdXA5S3hOOUg0R2YyQV9Fd2l6T1gwNGF3X3diaWpHekNCdzJUd1E5cVdpMm5xU21FM3VKMzhSeDRpcjZpdm1K?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "William Blair 45th Annual Growth Stock Conference (NYSE:V) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmRGOHdjeVNUZ0FjN3FyQ2Jvay1LclJjbmk5XzFiREgtTDBQWmxacXlFMnNDN0tlMGFUWnE2THhmYXhJTFdGXzQ2ZTV5X2JFb2F3YWRoUFYzcjVnVjR5SGF0bEs2NkR3X01qQXVoczJ6dUxHSnI5MVF1ZDU5Y0w2eUpURTNBempyN2V6elJkeWd3Wk52?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CrowdStrike vs. Palo Alto Networks — why Wall Street values these stocks so differently - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDRQc2lTaXRjZ2IyRFNXQWtyUGcwNzZ6UTFvWmwwZU1XSWx2VWJhZXNvQ1dRUkV1WUhtZlA4a2tOcVZvb21rUTlkM0tqZExCVi1oMGFlMVlWaW1kMGRrLVAtbWlxNm9NX2JuMXBTWnpqM3ZScl9ZSGtkdnRNb1ZTY0duWHVEVEg1c3pHTWFOVFZPMFEzWnA0bUhzVnF1ajR2XzR1VnhjcS11Q2xNM0tXQkZKYnlOSENWY1dFcDdn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Palantir Stock vs. Nvidia Stock: Wall Street Says Buy One and Sell the Other - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ZiNndUNW1kanFxN2pJaHZSTng3WVZuZzE1ZV9LSEtLUG5CX3BocEZfV2xqaklYZjZmVVptUUZmRkVPQ01sWmFJV1dtM1o2SEdJLWlpUTNQTVFWb2Y0T1VTX1lGZ0t3a183TlBXb3dvV1htRFdqMzJoNHNvX0ZYYkduclBaV2dqa3QtUU5xcnZRV2hac2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Visa (NYSE: V) Stock Price Prediction and Forecast 2025-2030 (June 2025) - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG1JeWlncDRRa2I3MDZaazVGUjdBb19yakVhaWh5T0Uzc0JZUXFEcFlyNExvTThsUDBJSy1fN2pWSHo3NUpkamdkZHJXTzJwX05pcnV2S2hEa29qVFdnLTJkTGxJNFRsMWJ3bkpTVllHVWNEOEhVLXF5QjNaVWJnekFIZlEtS0drbG5wV1NtOWtGZHNU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "‘Now Is the Time to Buy,’ Says Mizuho about Visa Stock (V) - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVlaVTk3VGtDYl9iYXBEb0liUk96MldndE9WRVlocUowUkhUcVJmRUJySHFaN3BPbndjRDhKSS1vQ3l4SFpqaU04MVZaREl1RkpvTVN3Y00xQWlSRG9Pd1VtQ3IyZUpLcGdMWjk0ZEppVTROYjhNS2hjVHM2cjNfYnFEOEJ5dlU5ZUdR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Klarna and Visa Unveil Game-Changing Debit Card: 5M Already Waitlisted for Hybrid Payment Solution - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaW5EMFFrcUk5UlY5Mng4WU1GQnk2MG15d3QzUS1pZEY5a2Qzb3R5Q3VjQ1hRWnRZcnY5cGktQkpQNG9jMW1oZFljdERrQXVOeUZyU1BmVW1fdXI5ZUdKVERKbE90Tmpmc0htaVcwb0Nhell1Tlo0bjVOM0ZjUzAxQjlzV3NIaVA3Y3ViSkYzV0x4bGNVLUpaRVpiWkt0ZXRua0s2NjR6Z29BRTFUeVdJVmc3bw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Visa (V) Receives Analyst Upgrade and Price Target Increase | V Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEMya2ZRMlVtVE8yYXJjVXI0RkRxYWtQTlc4VGZXWWJHbm8yaVNJeUNHekU2WnRCRXh2cUlrOHJOR0Q4ZFdRQmcyZXNFVUR6Zy1LSVYyTktQOF9MRVB1TDd2U29jZWRiN1AyVW5BSzVzZERwR05FcHROamtIWGZOSmNGRTVwWkJ5U2RwQ1BjUWJveXZER0VSSVJvNjJzRTg2QzVKZ1dDWFJqbmM5ZzFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Visa (V) Stock Gains in Trading, Shows Consistent Long-Term Growth - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjd0ZWVVV3BoUHNueHd3ckJYa2x3ZC1zazlCeURVT29lcnBSX3FieDFZUWxfaDRGTDhfNVRWUXB4SzZZTURsWVoyckJSbGdOSWxTd3A4Vm9qZEJlT0JOXzVycWYwSWc2VnFDUWxxOUtpU2Fpc2Y1aTk3bUc0dkdDSVhFalBKZlZBVVY3M1NRckxMaDBUV1NyTElnc3dYRWFOUDkzMzVvVWlkZjFB?oc=5",
+        "title": "Better Energy Stock: TotalEnergies vs. Chevron - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTM0RUdUenk3Z3I5YWRLSHZ2clBRRWVrV0JyclZqQ2tGbXdTcFBQTTdRbTdxdDhieGR3bWlLd2hsWWxZMkx2azdVUC1LYzZPMzB1SGpDUjV2NVVjR0VEbnRMVkRrVll1bms5WVhJTVdZYzl6YTgxeUktajQ0dFFXWnhzekhyamlzaHdySDdXN3g?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "(IVQ.DB.V) Stock Evaluation Report - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3RwM2doRV9QV0Yxd1RoVGpRYjBIVVhjMEdDVWdlUy1hWnBoWWtlQTlHYmJnbVE3WGNDREZaTXFOM08xSlhQUVpkbUxsX2I4ZVZEblY0LWJuaGdQNTlacGRoaXoxNHR6UzU0MDJyRFpNeGtJRXBoU1JZUVF5Sm1jWGl3bEpSeW1oRmNZSHhXbmtVdw?oc=5",
+        "title": "Marqeta and Klarna Launch Revolutionary Debit Card That Transforms How Americans Pay - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzBXa3hBQVR6TEl0ck43dm9mUjZRc3NGMmZzOXRIVkQ5ckJVTEdtcnBtZnhNVmdWZ3BtTF96cXVhaW5vUWU3YzVuekY2Yl9ycnZuYkhIb2pjcG1ZQXNUMV83R0xudVByWVNsaTd4Vm1HMFBKZHE5eVhhcTd2NzZPZ1o5dTdFeHU4bXVEYjViRE5PZ2JEM2ZtVXBjQzhXb0tr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEtfMlRSdVUwRTBnSW9ldm9XaThRRFJKd19EVFlwemd2bjZHYmZjaWpKTGVONnh5eHY2UUxQSGh3X29MOFFxcmNlMjNXN0NtLVBpZHMyeHUtYmxnQ005UDN4eThuQS01cEdTRGdOc2s0NU1TZlVOaU5OMEh0QTVyR0Nvbk1QSXJsZXhxcWtjRjFkbEthTmJXNw?oc=5",
+        "title": "Why Visa (V) Outpaced the Stock Market Today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmxud19jMDNZQzE0cExkSkNhUGI2NjZXNlBpVTlyMlJKRk02LVNkZGRKZXdYQ3lYUXRvU3paQlk5bWprX1l1Y2tILTRIV3RieEkxMnVYQWtUcXp0b0lZNWxHNmx5b3RNcTNiWF9nMEVGdkFZMUpKejdacU53dU9DY2xmcHl2YThoWTZGTFItWGdvZFdKODdMWVhFSm5vdllHcnV2VF9VWF9YUUxKMzZVaEhNNUs2SDBWYmVtZ08tQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Palantir vs. Alphabet Stock: Wall Street Says Buy One and Sell the Other - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXg1UG15TElvamtLYks3SmFNN0NYVTNvNENrWEpiNDN0ZU9JVXdGcmg0bDlCMTR4cjNEeFlSWlRSS29VcmRDRWFyRnhuNTdPaldCUXlNMDhGT183NUw4NU5CdjVMQUJ4bnpRRS0xYWU0dEZmUHgzeXVybE5vWmprR2lsOA?oc=5",
+        "title": "Strategy Inc vs. BlackRock: Which is the better Bitcoin proxy stock for your portfolio? - Cointelegraph",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzk0ZXVtelI4ZUZJbjlzM3NkQTNHLVNUWGl5eVJocFdybkFqcTFPMThHSFl0ZzhieTFEU0JOSDFxQ0FSRlk1UXBKdXRGeTZCZ25JUGlmMzM4a0dSV3lvV0U5Ujh1R3FhamhGaDY0NlcxUFlEdkc2R3JzNEhtQ3l4bVZiX2dLNlUxMTh3YjZKcmRHamk2OW95bFZOY0MwS3BNel9tZlZfYnpiQkpEUmM2TFFDUm1kaDdBRmZDZA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Palantir Stock vs. Taiwan Semiconductor Stock: Wall Street Says Buy One and Sell the Other - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1k5aHdhZUtnWUJGUVpsaTA2UVc0Z1BLM2ZoMTltQmQ2STlRUVZrWEVvci1MY1JaM0RxWlI2dFgwQkhfN3hhWFVmeTN4a3RiS2RORGhBcjVWcHpEUlpCY1Y1Q2NpdjRJZThBNWNrcTV4MmRJNEZrX1prZnpyN1Ywc1lrWmxkdG81ZW5LbktjZjNNbnpic0RV?oc=5",
+        "title": "Visa Teams Up With Street Soccer USA to Build 6 Major Soccer Parks Across America: See Where They're Opening - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEhsSVZuLUdoOTdmdHFTdGQ1Ukw5UG8xODVZcW5lMjBWdjJETXRKcHFNQUtveHBsQXZpR1RHU3hjXzRwVndyM0d0dkZGZ2ZOWGgzeVU1bTlJZF9PNl9MaW1JazFrVWlidXdqQk8wSGpTb3JxUW5xWkNhQ2htaE9iYThoVEpkUWkwNG96UFJZRFMwdnlLRjRFcm1VTWc0NDBCR2pfR2JuWkFoam44RjRIaEdtdTlBS2s?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Crypto-Centric Stocks in Focus on the Ongoing Bitcoin Rally - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQWJMUnNMeDI1RkhVV1NBRm81QmdfZFlPSV9XVFhiZ01CaFU4a2dxLWJIWnBXcktkS0dHQkJlak9Nd0kzVlE5azk5MVJiREVLNTBWZF8wZEt3ZHZxR25NeERwbk9hakFwMFRRMUItdjAwbTZBS1RkcE0tMm9JRnF3Rw?oc=5",
+        "title": "Better Hypergrowth Stock: Rigetti Computing vs. CoreWeave - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0FQb1J1Q29wVDh1dE1FUVJDLURjd3FscHVrSzdUaDhDWlIxR0s5YjdybTY0U1UxYzJ5Ri01cHBxVWd2RkM1eGlnWVZpWlc1YnpTMHU3Vlpxeks0dEpIcmNYNVlvY3ItODNxUlk1aEpkX3cza0E2MUdEVzcyRFlMTXJ4akY4akNCWG8xdDJ2RkhXZGRVUU80Nw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here is What to Know Beyond Why Visa Inc. (V) is a Trending Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFb244dENrTUlJX3E0M2V5MnJvZ2dBNFFRZER3eFRjdl9BMTJ5YUlTRXZ4QVBwUjlHZVJGQU5naEZEODdOZHFDY2k0S19sdHRFZ00xdk4wU0hjNFR4enVQd2VDbjZ5VTR4MVNGUWMyUTROZDhnWmFCT0RR?oc=5",
+        "title": "Better Fintech Stock: SoFi Technologies vs. Robinhood Markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUlkRlRMclh5NEdSOWoyV0RqUnhXaFpPbDI0ODJ5djFuTmtmck9PcTU2cGZrZ2ZZSXVDRW9Xajg2T3NtVDFJWUg2dWRpbEZjLUxaYjI1dm1QbUlRMXBReTBxRmNZTkdmZGk2SVNmMkRpR1JsZXJzNUdwZTVUTWdQZWRUQURfUzlTTGVFSg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better Fintech Stock: SoFi Technologies vs. Robinhood Markets - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjUwNy1SaXdNa0NJUV9TSklJU1hKTWhHazZmb3FlVklmUFNEemxiSjliT1dWQWtHUUxQYndvRDhpZFdWY1dBUkQwOVZqVUJQTzNJTzI3UWNKSDB1R0JCbXY1bzBybVRaRzhMVGVFbTRfelRlbEpWdUxJZUtNUG9hYnVIU0luLXRmZWtxXzdpWEg5Rm1JQWl0bw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Visa Inc. (V): Among Charles Akre’s and John Neff’s Stock Picks With Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUmIzMTFJQTE1UFhXMjhTYmNTbVdhaU9fbGdQWU92Ym1SN3JoS1pwU01Bd2ZoQk5iaDN0NDlBcG9oNzVrSXdzTlNKaHp2ZGVpT1BkbkZRakFsYlF4M3lzeFJSdjZ1bnkydDl0RW9zcFQ4d1RYRnpSenJ3?oc=5",
+        "title": "Better Buy: Palantir Stock vs. UnitedHealth Group Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkhGYV9uMW5sd0JRb0o2cS1iZEtodWc5YjRSMWNTU0FKWHByMHFwdldTaTVhTThwQ0NtNTJKaDNtRVVBLXJaRTROazl5ZDhLTF9wNjBTM1o2SDEyZGllOVNwSGMtQzlLeGU1VUNpV2JXSTNybzZja1JYcFVmcXBadjViSWt2VkZMSEpMOVp4TU5qX3NVc0M0VA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Visa Inc. (V): DBS Analyst Reiterates Buy Rating, Sets $400 Price Target - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uR192Y3VHcUtNNnhVU053d1gzUzFVaV85Q0hBTnNQbF9kell5TXhHWVpwcEFNUXVqSDNQX1BnOWNxVVl6RDBuSmd6QTByVDV3UmF6OU9jc3hmTDFLM0hkT2NqMV9ObTl1VHpYSEgtOGJBMi1fdVpB?oc=5",
+        "title": "Is Visa Inc. (V) the Best Monopoly Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rXy1KMFdzbEJHYS1COTJrSFBaakl6eklUOFZNZ2VtU3UzeFhKeThNeFdGQy1lZ09LQmU5OVVTTlhxbzVDV1pfRFNwRmxlN2VxSTFCZ1FqY0tqb3ZtRTNyeFFpRWNMS3UxRzFKQ0Y1czFiZ3hxd3daNVZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Visa (V) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01UG1oZ2R4alNNa1R0T1lWMXRaRHBPZGpQbVRiQWtCUkNRSmxCeHBrVDlFSlRLbEVIb1dwRnRYdmxCU1BwcVUyWHlKRFVraTJXYnBKSkNvWVlWN0FOOG1vS1JFamRYSEFTUDdYYlBnWnBhc2Ytc2hjUQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Shopify Stock: Bull vs. Bear - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44UmgzSTRzQmtJLXFtTUtobEgzR21wSVdHZE9CNnF6WU93cVhqQ1R0YzNzV0poc2YyaUd0Qm5TTUctci1HTFNnWURNenQyRlk1Y3lydlphT2NhUlhsdDZjMF9fMWg5cC1jOVdOTzVfY091aThITTVPNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa Stock Up 16% YTD & Counting: Buy Now or Wait for a Dip? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTVlvSjREbWIyQV9pQS05bDNqY1llZEJ2RGtKTXRubV9ORkJhSmhINTQ2Rmd0aUI1azJjRFZtWVJxZXNvUVRHX1pSd2ZqSUNkekRicXkzRTN3Szh3Zml6UXZFMGRiS2kzVHdMZDV6clRXUGVUeUVVdzFWNmI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better Artificial Intelligence (AI) Stock: CoreWeave vs. Nvidia - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTm8wZWsweTBsNEtxbGVVb1k1d1ZQYkpJdVQ5SXQ0bmtScS16dTRZNkNVR0xmT1drU2NyOWhUOWJPWVBtSXFxbzROQ3pncjhEN0V3dl9haGVvLUs5TTgtdVk5XzZGc2xBVHNZQ2pRbW81VzgzTndpTXlNdmdyYUVmS1U4X3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa vs. AmEx: Which Payment Stock Has the Edge Now for Future Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zdzRqU25hM0I4VkV4X2xsdUxqWmVIUlZIOElJQW9jY1pHTmZNVDZIRllRRldhOU13aVJzX0FmSkwtb3AyWk1lTzktNWJ6SzFHay0xNDExRjhWN2NxdFkwcGpBcDlCWFNHaUZjQjNWOVZkMzY0OFRONDUwY0w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Stock to Buy Right Now: Costco vs. Home Depot - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazhOTXJHUUFZQ2FFVy14V1d1a0dtQmFYTXNUWXBySjRhWi0tblc4VndFLUJ1ZnlxU010dUJVc0swVnNueno0UVZ1cWNpU0tTMkxqV1JhLXJYQWFWY1hYZ3dYaWJFQVRXMkJINDE5S0pKc0twcGg3VVNQOWlmcC1wS3k5WUtXMl9pWGl1azJxazBSUWU1THc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Visa Inc. (V) the Best Stock to Buy and Hold for 20 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVG1ocUFPWnJZdWJRM2JsbWw0cTNUVFdMdi15R293S0xHU2NaSDdwcGtfelJzb3hRdmpYNkRpLVQ2MjBoN0FpX3Y5aU9CNlUtaUVteUh0OVliNm94ZlpuNnBPOTJRSEI2V1UxendKSkZ5ZEFYQnc?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

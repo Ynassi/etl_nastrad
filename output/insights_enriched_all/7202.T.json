@@ -2,16 +2,16 @@
   "ticker": "7202.T",
   "name": "Isuzu Motors",
   "sector": "Consumer Discretionary",
-  "market_cap": 1296915234816.0,
+  "market_cap": 1278759141376.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.9199095,
-    "PB": 0.8988754,
-    "EV_Revenue": 0.545,
+    "PE": 7.8083563,
+    "PB": 0.8862916,
+    "EV_Revenue": 0.54,
     "ROE": 0.10696,
     "ProfitMargin": 0.04188,
     "GrossMargin": 0.19328,
-    "DividendYield": 5.01,
+    "DividendYield": 5.04,
     "DebtEquity": 42.078,
     "CurrentRatio": 1.658,
     "QuickRatio": 0.946,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.004360741530551601,
     "ROA": 0.043709997,
     "PEG": null,
-    "EV_EBITDA": 5.094,
+    "EV_EBITDA": 5.041,
     "BuybackYield": null,
-    "PriceToFCF": 92.70550500035024
+    "PriceToFCF": 91.40767938615153
   },
   "technical_indicators": {
-    "RSI_14": 37.24553595464455,
-    "Momentum_10": -5.302833376657135,
-    "MACD": -10.527842522681794,
-    "BB_Percent": -0.0386998972132844,
+    "RSI_14": 37.20783045483701,
+    "Momentum_10": -8.343965297269712,
+    "MACD": -24.851263361282463,
+    "BB_Percent": 0.0473856769423094,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935235714522538,
+    "ValueScore": 0.8976795734889584,
     "QualityScore": 0.3612523628786077,
-    "SignalScore": 0.7042254410296989
+    "SignalScore": 0.6934431690287612
   },
-  "volatility": 0.0173839546056477,
+  "volatility": 0.0175186692331158,
   "beta": 0.556,
-  "return_6m": -0.1034012009667725,
+  "return_6m": -0.1371352987066089,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 2220.8333
+    "target_mean_price": 2197.5
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2077.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2084.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2101.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2086.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2108.0
-      },
       {
         "date": "2024-12-13",
         "price": 2128.5
@@ -525,40 +505,55 @@
       {
         "date": "2025-06-06",
         "price": 1821.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1802.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1835.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1850.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1824.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1796.0
       }
     ],
     "current_price_data": {
-      "price": 1821.5,
-      "change": -15.5,
-      "percent_change": -0.84
+      "price": 1796.0,
+      "change": -28.0,
+      "percent_change": -1.54
     }
   },
   "news_sentiment": {
-    "summary": "Isuzu (7202) a récemment lancé un programme de rachat massif de ses actions, démontrant sa confiance en sa propre valorisation. Parallèlement, Volvo a accepté de vendre son unité de camions au Japon à Isuzu pour 2,3 milliards de dollars, ce qui pourrait renforcer la position de ce dernier sur le marché. Cependant, l'entreprise d'Internet et de services de communication arabes soulève des questions sur la valorisation d'Isuzu, suggérant une certaine prudence quant à son évaluation actuelle. Ces événements pourraient influencer le sentiment du marché à l'égard d'Isuzu.",
-    "sentiment_score": null,
+    "summary": "L'entreprise de services Internet et de communication arabes (TADAWUL:7202) fait face à une faiblesse temporaire de son cours de bourse malgré des fondamentaux solides, offrant peut-être une opportunité d'investissement à moyen terme. Par ailleurs, Toyota et Isuzu ont relancé leur partenariat capital avec un accent sur les camions connectés, soulignant l'importance croissante de la connectivité dans le secteur automobile. Ces nouvelles pourraient influencer positivement le sentiment de marché en soulignant l'innovation et la résilience des entreprises face aux défis actuels.",
+    "sentiment_score": -0.5,
     "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "[Japan ECM] Financial Crossholders Offering Isuzu (7202) - Big Buyback Covers Most Of The Back End - Smartkarma",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZElEU293R3VuVnlRWGVvd0xkbFRlZVcyMlJoNk1PcDJvUGxnazJRTWV2a3FnV0RhMkJLbjg1VUdEX0hsSTd1RkthazdkZDVqZkFzdjg1YlV3WmVDd09jTlVGQkNYR044VzUzaDJ5MjJZWktvcTdLLUFiUDIxTEN6YWhhOENWUHlvUXVWeVZrTXl0aXVoMnBVdWstV0ZRV1JiMFE4S0g4WmNvckhqbUVPUVdQWDlZbzBJUTFHYmZZZU5wUEpjb0NF?oc=5",
-        "label": "NEUTRAL"
+        "title": "Will Weakness in Arabian Internet and Communication Services Company's (TADAWUL:7202) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMGk1VFk5UUJLWUVGUklZN09WT2s3VTlTbGJxTi1kUUtTXzBNa1N1Zno4MzBqNTJYNndvSnlOUmRoR3g3RkdBbmtrSlcyUjJyM3h3OE1IcWljZHlxdkUyM09LRTFxLVNTazJrbk9hVVB5dkFfU3FCWWp5UnlHYTh4ZU94dGxRZXN4WmRieXBsMXB1QlNVQzNCYk9MMHNlZ2owT2lSUUxyUTVkWWFiNlNGVkw5T2lhaGJORGpHSm5EMzI1WFRGOFROTDRucXotMnlBSmZzZGFjQUxlNTA1U1VaNFRpQTVXWk9IbW05MnRpWk91eFNyQ3ZXcVR5TdIBgAJBVV95cUxPOFRLQmd3eXVEMVpUd2c1OEJrRkMyc3RVNTR4NXo0ck1hSVR4T05UV3ktZU5SZW5LRml0SnJ1MVFmbk9HTDEtbzlvRXB5LVJ1eGpzcmxmSWpkai1Bdk4xQ1lGX3RTZnN1SUtBWkNwS2dIa2N1VHg5bWNMeUFVVVRSUllNc3QxSS1lX0lOd01lNnp2UVAteENjemQtazZoSzNUQmdYbXNXYklOWjVrZGtwUXFPVEt0ZERieWoyTUZ2SG1pbHBoSTJNUHZXVTRwWHQyTUFzSnhMQVpmZTNDRU54cjJQWTFJY2tub1pheFZsSk9ReHpWd2lRMWFaRG9YSm40?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "What Arabian Internet and Communication Services Company's (TADAWUL:7202) P/E Is Not Telling You - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQmRuVTlRNTdvT0xuUU05bUtnS0p2Q0l3WkhsVE5XZngzOEVlTGtlRkV1Wmg4RkVqQ2Q5TmJmV091dndNbW0xd2t3bmVKNWRkVlZROUVKNlhoOEpJUERMVm9KbDMtRGFNb1lEbWZtR2tyakxmbkxzNDJkc1BqQ3l0VXd3azV6QU9PNGg2ZFZhd2lNZ2JXcHZBWWFWOHRVWE1PVFVsUGpzN2Fpa2ZxeXlLamRlUFZoR2V5S1phd2tNdzY3eFltU0xpUXE4NjRjaGNVWlE1ZFpPLUh0bnVIdkNGSGJsU3hnVGktclV1WWtFRFFUNEwzR0tuUXJGY9IBgAJBVV95cUxQa0lvcXpfSUpCY3ZrUloxUHJYMEhneGVYaFJMQVJZYnV3MFZVWUZMZlQ2MTl3czhoRklFbmgzREpBeVNTdUthMXM4VXNsUVhzUFhRZnk5cDBqUXQ3S1pMaDlFVWpGdU5mRFk0LUpfamw0Q3VodlRKLXlrUUIzVkdaeTZpNHJiN1pfbFVnVzE1WGRuWEt5QzYzdnVfZThsclpmOEszaHNGeV9IQ1NzWnhXak8zTGZkLTVSWEhtaXBVQWMwUE1JUzlidXp0aDdBcjZTNjNoWks0YmVLYTZxd0cwZjM4bk9NdEFNeC1CazVlMS1FYVVKUlJhU2NORkRxdm1s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Volvo to sell low-margin Japan truck unit to Isuzu in $2.3 billion deal - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3k3a0NTU0UtQ29VdW52MlVkVmtCNFhMRi1nWGo0aXVBZ0xHZHB6ajc4S3RYWGJVMmZLMVI1RzJnY19vNmY3REhHNEZURC03QkVrbGRBM1UyaDZJUWd2ZGE1WVVSSHA0S2ZhNFR0ZlJrdWhhTXRHTGk0YXcwSmxRZ2JOc2ZOY3pfRjQtWnhqTC01LXlROTBqRTF6TE1ib3VSZkZVc1lyMHdYSnlFQU1MbkdTdUZKRGJJc0lkbE9DZFdRamc?oc=5",
+        "title": "Toyota, Isuzu revive capital tie-up with focus on connected trucks - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFluNHc1d0EzZnJuSUZ2TVpqeEFVaDJMd09lOGVWMS1oV2V3bzNaQ3pPX3JjQUdMVjRVa0ozb1lPbTU4cjZEZ2M2bjU2eGtJQkJQTElLSGxMekEtVWYzNFJVenpoVDFxY1NJTVBxbHRGd0tReGVtTVRvbjZVX2k2Vi1VQUFKSV9ZNVdUcTR4V1QyQ1BZd1VFU3o2ckktdDFQQzVGa3M4NXVZRkI0S1J3Q18zUzh1TjBBVEJhZHhadFlpdEF3SFdpMXhB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

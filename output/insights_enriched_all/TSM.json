@@ -2,16 +2,16 @@
   "ticker": "TSM",
   "name": "Taiwan Semiconductor Manufactur",
   "sector": "Technology",
-  "market_cap": 1067074650112.0,
+  "market_cap": 1095030013952.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.728367,
-    "PB": 1.1689706,
-    "EV_Revenue": 1.174,
+    "PE": 25.315348,
+    "PB": 1.1995955,
+    "EV_Revenue": 1.274,
     "ROE": 0.31641,
     "ProfitMargin": 0.41687,
     "GrossMargin": 0.57411,
-    "DividendYield": 1.62,
+    "DividendYield": 1.53,
     "DebtEquity": 23.492,
     "CurrentRatio": 2.39,
     "QuickRatio": 2.105,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.2219602428647545,
     "ROA": 0.1433,
     "PEG": null,
-    "EV_EBITDA": 1.715,
+    "EV_EBITDA": 1.861,
     "BuybackYield": null,
-    "PriceToFCF": 1.5264388363080403
+    "PriceToFCF": 1.5704808457539803
   },
   "technical_indicators": {
-    "RSI_14": 70.82807605744544,
-    "Momentum_10": 4.8677317564181175,
-    "MACD": 7.292777150725413,
-    "BB_Percent": 0.9642869158037644,
+    "RSI_14": 69.06255874978103,
+    "Momentum_10": 9.212702712515648,
+    "MACD": 8.632119357901274,
+    "BB_Percent": 0.8484666507650972,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9301151568711552,
-    "QualityScore": 0.3851650526592269,
-    "SignalScore": 0.3891515850041515
+    "ValueScore": 0.8915324436770775,
+    "QualityScore": 0.3944298746319433,
+    "SignalScore": 0.41797890626176
   },
-  "volatility": 0.0309841879981274,
+  "volatility": 0.0305377553714879,
   "beta": 1.34,
-  "return_6m": 0.0205767281859243,
+  "return_6m": 0.054543040642075,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 199.17
-      },
-      {
-        "date": "2024-12-10",
-        "price": 191.94
-      },
-      {
-        "date": "2024-12-11",
-        "price": 194.6
-      },
-      {
-        "date": "2024-12-12",
-        "price": 191.46
-      },
-      {
-        "date": "2024-12-13",
-        "price": 200.99
-      },
       {
         "date": "2024-12-16",
         "price": 202.22
@@ -537,28 +517,113 @@
       {
         "date": "2025-06-06",
         "price": 205.18
+      },
+      {
+        "date": "2025-06-09",
+        "price": 207.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 212.46
+      },
+      {
+        "date": "2025-06-11",
+        "price": 214.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 215.43
+      },
+      {
+        "date": "2025-06-13",
+        "price": 211.1
       }
     ],
     "current_price_data": {
-      "price": 205.18,
-      "change": 1.81,
-      "percent_change": 0.89
+      "price": 211.1,
+      "change": -4.33,
+      "percent_change": -2.01
     }
   },
   "news_sentiment": {
-    "summary": "Le cours de l'action de Taiwan Semiconductor Manufacturing (NYSE: TSM) a connu une volatilité récente, augmentant de 1% puis diminuant de 1.6%. Les investisseurs semblent divisés, avec des analystes prévoyant un potentiel de hausse important, tandis que d'autres recommandent de vendre. Malgré ces fluctuations, le secteur de l'intelligence artificielle reste un point fort pour TSM, attirant des investisseurs de renom et des prévisions optimistes pour l'avenir, ce qui pourrait influencer le sentiment de marché à court terme.",
+    "summary": "La société Taiwan Semiconductor Manufacturing Company (TSMC) continue de briller, avec une augmentation significative de ses revenus en mai, soutenue par une forte demande de puces pour l'intelligence artificielle. Malgré une baisse récente de ses actions, des investisseurs institutionnels comme Parsons Capital Management Inc. et NorthCrest Asset Management LLC ont accru leurs participations. Les analystes restent optimistes quant à la croissance à long terme de TSMC, notamment en raison de ses avancées technologiques telles que les nouvelles puces nanosheets. Bien que les tensions sino-américaines puissent peser sur le titre, des perspectives positives persistent, avec un prix cible élevé de 220 $ et des affirmations selon lesquelles TSMC pourrait surperformer le marché.",
     "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Up 1% - Should You Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkY2Q3RvQlFYNEkzTmZtVzVxQ0pUcW5pdTYtQVZwdXYzQ0pLLUhSeG1IS3lNV0VVcFlYTEpwWUxzVVZtb2NPMklhUVN4b01ZaEFqc0lLdk9raWdRTmdEYXVlYUx0bFNWbG1OYnZtRmtGenRQcUQ2NVBMSHZHMkFYWTl4Sld6TzBNMVZjM1NZeFd1dEtVNDFCa05YMGVjbmR4U2NDVFp6cV9uRjkzLXZJa2VvRVpya3hlc29xQXpYeEtxTElDMldZ?oc=5",
+        "title": "4 Reasons to Buy Taiwan Semiconductor Manufacturing Stock Like There's No Tomorrow - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTRpcmZmeDVhZHJ4eGlGQW5nMzhGaGpkeVBfMkFMZEhUTXdNcUhBSE1neDFRTVRPZll6U3BKX0pkZlJ1aElGaEsyNjlpNkJ0aW1Yb082R2NDb2kzc0VFQ09ibUMzQzUtcWIxdFdjWTc2RUlldHFYbzdSUVQ4Rm9HR2N4Mkh2R05VWEluUENUVGFDTTBLRnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Down 1.5% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0JxOFNKRW82Z3pmQktXaWczbk1sc1d5UWdmYldKX2dyenFHOXktOTlGR2E2RDYzeGYtVzV0azhmaEFOOGd4eHFoTFVJNGRZZVZ4R0pZNFg5N3lYX2xBRmh0ZmxyT0FuWG1yNG5IRkRUcHlkRzFKd2t5a1JMaGhEVU1lNzB2UmozS2lHTXBuTjNoMGJ2Vi16UUhYR0h3YkpmcWxNWDAwM2dheWt3akozYWQtOGFzV0lPd0VNbHhR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TSMC May Revenue Jumps 40% as AI Chip Demand Stays Strong - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTFVaGtqeGk2RmZvMFhvYWt4eDhNZ2gwdFFvcVZmQzVQZi05c3BCdzJ0dDVYVG9JY21wSEprMlNjR0xiX0hwUjNPRmYxWUpRTTlodjBMNWxGQU5FaVlDMGlxVlE3X0RUcWZSaFlRS0ZOZjQwQWVfLTZLN3FjWHQyblg1Njc3TFdTSEg5LTlpeHJINC16M0ZWbkdsTUxHTmxfRU1MRg?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Nvidia stock could surge after surprising Taiwan Semi news - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhkaGh1X0ZmMnVZQnBHTWFUbzhYaEt1TWNuMWNIdl9yemdIYW1jeUVCUlVNZ0ZFZmNWaldDb1lxcjN6SUdPWDI1MzdiUkNVc1Z6UnhRRE5zSG00NFRYYXdlaTRqNXJVdUFXQ0VnU3huc21kSmptOHA1bWl6dWZ3bUlHX1FBUHFtTWxpbGp4MDdfOTROT1JmbG9B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TSMC Stock (TSM) Jumps on May Sales Boost - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDBYMWlrVXZkbFY5SjJQM05RSjVyZEljRTREeUc5aFZycGJXcWtfVjh6RDl3TE15cDc0Zklxc0k1VXc2WElVM1JyMzAzRFdXano1VFdLLXFNSFlkT1NYeXhGSW4xRDBRMmVWZ2ZhNWF4M0QxcVdEUlVCVEhuc3ZIWnRDNGJPUnFZeXhTc0JDak50c0tvVUJYS3hZU2c0eGZDQTBNenJPR190UVd5Vk5mV0VCT01iQi05aHFHdzBjR3UxZUU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are AI Stocks Overpriced? These 3 Leaders Look Cheap (NVDA, TSM, VRT) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUhJVFJWQTMzUG5TTGwwWGZBdFlTYWtDaFVsUnplT1ktNTJRVl9nZDRKeG9nNGVlOFpqQkJnanc5V01fdk8zOU1QXzJ2UTlyS2hraGswZXBISkhYbTQ1MGkyU0FPUFpkbnRyeU5SSzNHN2R4WGpNdWR2c3piZzRHYlB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why TSMC (TSM) Outpaced the Stock Market Today - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WRlFWMjdBak1xNlNBUWhYNUx3S0FqVzRfbDBkajlmbXU4bGRJQ2tsNVhScWY5SGFPcXVuQkV1Z0gzM1lKdUw3cmo3REdGVW1MY1c2Z3k2S2xrMy1ta1pnR1Vta1pxZzRKM0pXVEFBVjZEY3lqc1ZmZTIzUGZFVUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TSMC Stock (Ticker: TSM) Rises. Monthly Sales Jumped 40% in May. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZV2NaMXNaMktyTTVpd0JwaE0yN2hjQk5INGpTM1FzT3NYUDByZjVjOXhsOVB1QWktdFhlM2lqemFnZTVUa1RCMkEybU9UbWFQbUxHemhTd2FDSnFJbmh5NUp5T184NXpRYkt1QW5nZjZ6cGNzOTRz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Shares Acquired by Parsons Capital Management Inc. RI - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObS00bEVQc0xRYkRCeHNhTHd3SWxwdDdoTmRJeUoyS0xwRUZ1b1lQQmN3dzEybUpNdGNodzkxMl9uZW94VlB3d0FBbm5yS2gzWXplNkNCR0F6dGw2OC10TlVJY3AxLVVRQlprMFBqazFCUElvdC1VTmh1SkZlVTEyMFhXbE4xLTYybHVYLWlNTzQxRHBYWWhWZ0NZcWxNNHFlTm40SGQtdU9zWHk4UG45SnpfY3lJSWJjakttaVpEWTk2ZzRqMU5vWlhYVVJpTnE5T2VXSGY2S3FaUXo1dXRVV2t1SjRlbGc3Y1ZsSVI0YUYzWVpaVVRxWUpDMXZwOURaU3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Monster Stocks to Hold for the Next 10 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHZWUkVQdE13MVA5d3VyTVhTcGlORExwNlhBU1BkaGFpWXl2RFZIMm1XdmlWb3RQczUtT1VUR29ROENjWk5YbGZEb19sTHd0cWRXYmxWU0Jlc1RqSzdHT2Ytam5vejBvLWozRU5DRVVVRzFiR3IteEs1T1hNWjVuU2ZPRE1BcEdxZW5JdEpKYXNfV3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Invest $1,000 in Taiwan Semiconductor Stock Today? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2ZfQllzck5nOG5lU19RY0Etc3g2SkQyMk53Q1kyalNUSEFWSWNnNHNNLV9hdXNzMWZMTWdSRFhLMlZuRlFWTW12V1ZaNlRhWXh2cnFUbVFrUjgtdjg4X3JuT2VFNTd4bEVjOE1IcURtVmpVYlhPbTdmMWNlR1gzaWhtMFVCdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TSM Stock: Here's Why It Could Soar Despite China Tensions - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFpDeE8tVnFURXlRd1hkYy1MQ3ZMRnpVVnVlMWdNTkoyVFZ2TWdYTzJTZjE0QktXT1AwNnhIdkxGMFpCMDh6VGhDY2hoWjgwbnRBaUJNblE3RzFPVV91QWJ6WnJnTmF3MUpxb3l1RnNxTWxfc2hXRlVUQjQ2TmZYOXJtTXNkLVYzRmJ4eEMxdTB2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can New Nanosheet Chip Nodes Cement TSM's Long-Term Tech Leadership? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjFfVW1oRzVaRF9RcnlIVVRpZHR6U2NzcHhaWUJpSDM3Q3dtVGg2LVhBSExkQVdaVzFWdDVWd3hQV0NkVlN6WHdKYXgzelJNU2l5NndaT0liY1NTT05ScWZvNkMweGxZRVVRQjViT3ZNdlBhOFVXeDMwNExrb3NSdHZraHFSeWJibUZQZlZrYWxRdTUzV0dfcGcyc1JGdEIxVjRRQVU5VFM4Z1dONXUwS2NfM0VucGtHeG5IM29xVXlUU0JTUzNFWWxWR0tsYjRGejNhQ0d3bE9oQlNsRmg1V2Q2WGpSZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Shares Bought by NorthCrest Asset Manangement LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQmdPckhiY0pzdWFXY3g5blMyWEJjbFVORXY0X2ZuQ1R1Y2Z3ek8xNHVnSmZDX1EtS1Q3bnFYRVVrUnlQRUtINVZlTHhqbnY2alA0ZWoxZ19sa0RveF9haWFlZTE1SHRmV3V1NUFRZU04ZzJqRDVjdVBqN0NEbHY3SW1BX3JUbDRTckdwcVFHNXkybmloSzk1cFpFcGNTTHVCQ1k0ZzItaTJGMkpZeUx5X3ZTQ2FXcjkxTzFia3BNQXpyaXhsZ0xzNW5CSE8zOWJJR2lEOXh0TUJuOGU4cEJqaXRWTVotN0VJUTQ5SkdzRmkxVG05ZWg4TWJoandudw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "TSMC Stock Maintains High-Conviction AI Play Status With $220 Price Target - Yahoo Finance",
@@ -566,96 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Palantir Stock vs. Taiwan Semiconductor Stock: Wall Street Says Buy One and Sell the Other - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1k5aHdhZUtnWUJGUVpsaTA2UVc0Z1BLM2ZoMTltQmQ2STlRUVZrWEVvci1MY1JaM0RxWlI2dFgwQkhfN3hhWFVmeTN4a3RiS2RORGhBcjVWcHpEUlpCY1Y1Q2NpdjRJZThBNWNrcTV4MmRJNEZrX1prZnpyN1Ywc1lrWmxkdG81ZW5LbktjZjNNbnpic0RV?oc=5",
+        "title": "Quintet Private Bank Europe S.A. Buys 61,386 Shares of Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeVcwY2haQXVmYlVxRmhGVG5HY1dWbzkzTnlINnVEYnZvN2VRdTJqZHJadnRtaUxIa0hTOC1zTFQwVEdrd2g3NW10cVBiQ1B6a2szWmduWTN6MWFPeW1ua0RCejNtOVoza1VPMTVyc2JldHVqTy1GbDQwa29DcVBrakpNVnNJc1I0c3ltb2FLWC1BdG9WN0RsdzZtQi1NSFRTOUtSNElsb2ZiOWNGQVRCRnNha01ENE1aM1RvWXhpWkFrR0w3RWNhWmRjeGlIRTJtX1lyVTZrcmN6d2ZwOHd6di1PR3lHU1JJdGNyNTBFT0ZiN3YxbE53Rkl1YXNRWWxm?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Nvidia & TSMC Keep Attractracting Billionaire Buyers - ETF Trends",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUFFazRpbWlsQ0RQSlZIYlAxZTlFbU9XcVBMVmNlbmJ4YWdSQjlOQkxldU9ETFFtWTBXZEVheUF2eDRTdWw0eXFlU25URThzc0p2RmpFUlNqXzgzdUpRM0FsaXg1aHJxZGQ2TmNabUlKd3VkLWtMc19WMk9vdlROWXpYZF9MZmZ5cFlNREY2RU9QZzFIdHM3VjlKcDlPeG_SAaQBQVVfeXFMTjJhUVB0azFFRFlnYU1WRmZnYU10M3loOUs5UWRfVW8yU1d1NEVnMUExR3JGd2Fwb25sOF85Y0NEZV9BdURJY1FOUTg3ZFhWdkdDTUltM05WMnF5aWdQQ3BQQzdyZXhiVjF0S3BuRVFIaEw1OXhjR1hiQkxuSURfVkwxemcwSW4zUUZGejBZdFU2bGRyeUh2cmNuNnhybXh2SVF2ZXA?oc=5",
+        "title": "TSMC (TSM) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1JHUnE4dUliMW1EVDkySDZ5ZEppXzJnQUxVeksyRWZBWkc5MGlIR1cwZ2pPUWxiYUZpa052UVIzbkl2UGVlSWFfbHVYR08wTDFwX3RiQW1CeVBjdlFFRzRCUUpRTkY2TFNzWkJ4dmk0RzBkWHhqLTBDczJIZ0llaA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth $3 Trillion in 5 Years - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVEs4ZC01T21fVWl2QVRPQkY1bVJKRXFEeXpTQTdFNHJkQWhNejRlMjZYY2paRGZBX1BsRURtcU1zUE9rYzhkZG1LLW1sRks1M05SSlFRRWNGZmJ6NXNEQXRDWERkY1lyemJDdWRsYUpWVjV0WGRlWDU4TnBvWWRQNmYxdDBwYS1GUUgxRElTdXpfUU8wejJHX1NNdnRfcmpKMUFxUXhhY3RlRkJkTHlwYUNoUU9jdDlrSkNVeERPUm5UbGFhMkRXeGZfQnhDbVNtMDdIOFNRVkdvVVB5emthWTc4c0Z1RDVUVU1LaU1jVy1NU09IbXp0OHNBZ1lTdw?oc=5",
+        "title": "Wealthcare Advisory Partners LLC Purchases 1,446 Shares of Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY2xVSmNlVzE4N2NnaWtHRkJPWVZTWWRTY1YzVWR0aDBFQ3ZnZmFBdDVUb1NRdlFtakFySzBFOHd1OUdSTkpnVHhEemR1aG1IQ202cnRyNlJnYmdwc19aRWM1a3RoZ1ROWHRMalpzUHR0X0Q1d00xc2FCQUZXSXJsTGtNZUxhTG1BWXdfbUFQcFRKYlp1SjNGaUJsTUxFZUt2MEZ5QXpkOXJrMXM4VU9FZTVlSWpoRk15eTB1TVR6TTJEdFY4cEd2c1NSS3JWWFh1MmZSSXM3R3B4dlRpak9HUFkxSlVkOUdWZndPV0FQdl9ZQUd1b2ZwbW5aaFpFVDFBdjIxeGZ5R1c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Position Lifted by Procyon Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSk4wUUQydVRQZThSMGNJYzM5YUtvWmt2REVFN254aFg0bXV1dHIxSzdsTjJ5bEZUQjJLSHhPZ1Rsa3BxaG5sZWo2amNsSDU0SlNzR0hvZ0lPeW00aTRWUkJoSE9GemxGcDlCNWJzeE4wSHpBbGJwMVQ0ZjAyQUNPYVlObWZmdHVjcWFhRHJKU0FnWjMtTVYzS1R0TC02c1E2Rmpyb2czX2JoQzIyTV9kSXE4M1JSeldiZHhtMEVkTFNCd2F5bVNsWGhIRTEtaXdiN2VOMkxFUDRubHJSdFNRSlJLek83ZDJERV92OEZJTmo?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why TSMC (TSM) Outpaced the Stock Market Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZFFuTGFjcHRJNFhNaFBOWHRMMGlmQlZrVWlxd1VfNEJkbTVkbnpIOXlha3BjeE1kXy1BWGVMR1k2VndxOW01V2ZNaG80SG01WW9TSzBsRkdhN05JSXYtc09UNElVdC00cFp6ZzY0dlExYUs4OXlHallKYUVaZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Artificial Intelligence (AI) Stock Could Be the Best Bargain in the Market Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQk9DenM4d1IwS21YOEs0bEcxdWJsa0d5VGtrZS0xRHJXSDZQazJlV1N5X1BidTk4azBwdjVRZlA1bVA3OWdZVW5yVW5UaEZ1bmpNb2otMUh2ck9saTdZU2hXYjM4M085M25DRlQzNzdBRTFkQTdCUS1LX1BHWHJwSVBVdm5pVzZaOFRoUjMxM25Xc1hWWko2dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Rises 13% in Three Months: How to Play the Stock? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb2tQejJNYTF1amFwUVUzaTFoSVZrN0lrdlA4d3VnZ0R2eGJ4Mmoya0xucWNMUk9QTVZhRHQwbDhuRHJINW9xeEVFZUtqTktoSXNCVlAtQ0hjaHY4U2dkNGN0WndLOUV1cGxGcnVGVEFxR25LeFRHNllwQ28xMm1Rck1zZkZEbnNwcWs1c3BJWGo0VXdyQW1YaHNSVi02bXZXc3RNM19WNUZlQ0V3eGcxWUxpd2lqVDZ0V19aOFJIREk0WUZ4eUNhVkxEZUhOVmc4QXJac05WOWE5TUc0cGU2UDZGWUtzMHY0U3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Shares Sold by Eldred Rock Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWENwRFN0Z0lBLUJLT2prdnIwb1NDXzY1WUs5M3FtRV9sOURoSXJPQlpKcVhZTHVUOTVFZWV2RDFzaDU1YjRCb2tRTm8zMXZmdXh0aThqVHlZbkEtbHljTXgzWkNXUVQ1eWVxdFBRY1F5M1JOVnhJNmZHZjVZRFUzWDMxOUJQdGpDRW5sY2pTNU55SEFhRERvc3JNX2tUcWFvd2pHWFdnSE5GRDlLT2dxcll3LV9QdTJKZmc3NG1XUHQwZ0lNRTRnYzFDUDB0SGNZdE02NG9haEYtSG4yTW5OUGdFTUFYWkVBUW5hN1F2bXBodUk3V0x0WU1wN0VKeURqUVBJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TSMC Defies Gruesome Geopolitical Odds With Friends in High Places - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmdLRmhmYm1UWGRaSTk5UnJiVHdyV3pBU3pwTmQ0Tkg1WjRfcUVXdU9FZG9UcFRWbVhDdTN2SHRRQk1rX2RCanlRRnJPMDVORXdOTHFBdlN1Wkxvcjg0NDZ6NC0zMFFuS1lnVkN3NGw2Nkw0SVg4RHB1U19SSTB0UExiOFNKZGp2RzNYWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "5 Brilliant Stocks to Buy in June - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGNsYVJsdHdsa3lrSHhsdnJfUUZhOVJhMlJWMlRXN29SZDU4LW0yVFlucDdtNnp5aFE5Q0pWZDU3Rk5sV2JFZnFndHlWUmNucDF0cHE5d3dsM2RBVVdEbW5TM1FvaTREUVF2elJUU09pSTVsMFFzNy1FcVVXTnRncHlR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Stock Holdings Raised by Hennion & Walsh Asset Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbE9iRU15NzhBWU13ZTVLQ2RZNTJfNGY5a3l1V1owY0RueHJ3cDc1eC1jVVVyX3I1QV9UdzNYTUZRdnVpTVRFYzNCd216Q2NQRE56YWlPSDhJaWo3M081Q1N1cTQ1UFprbzNrY04zZ0NrcGpTWEtBMmxzU0NnSmF4YnpXZ3JvY1lOWnBtTGg5bERDOHpNUzNxWEJMNDU5d244ZklObzNnLXVpNEEzMUtPRDJ3Q2ZyekNHUkU2S2l2Q1EzTWRLSWFXUVdYWGJCYS1NRjc4blNOTU56WmMtU09xTW8xX1VnTEUxYnc1QzI0aFBJaU1SQUZCVUZvckw0M2xEQnh0c19WVzZORmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Rises 13% in Three Months: How to Play the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RMSEstNGxfVFFvVFFSTVcwcHhBXzlxQUdMQTlPZUJHMUlaMGhMWktsYXBXNVJ5cjIyLVNZRkpudnoxUElSRS0xV0k3bUhveEpMQlpPLTNHc3BvSVZuN2xLWm1uRUF0aXdLLTVHd3U5MVkwaGhTOHZHQm15R2l1bDNMV0RKU2dQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fermata Advisors LLC Takes $283,000 Position in Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQajhTWk9rek9mOW5IR2xKb0l2NFoxMG5xUm9GaW1kY1ZtVklWak5mOWozMWpJay1wa3NLOHE3VFJIY2wwVzlPLVNBMzRuZms3YVVKTE5MQ2szV0trSDlaR3ZyRmJITV8wZ2NTbjlHY19adlN2Q0FRbHEwaEJlV1dxaXZJR2h3QzZxM09yRElkY00tak9xcTdGRFBibDlXNmJYdG5relg1M1FmcVBfVERNckZGeGtIMXNvZ0xUQ1hsNHdPQXZmcWJVTkU3Xy02TDRScUQxdFZFcVZkdnR6UVlBU2Y0MUdLSlVRUDJyLXpOTm9NWl8wS056Yg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Barclays Forecasts Strong Price Appreciation for Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSWIwNkpKV0VrbU42TEloZHlmU0E5Vm1NRDcxWmdTbTA3WU1lbVBfcDBxYXBEbHhoVG1CYXh2TUF4Wk1QdDBuTWhNM19DS3Fha3d4X19Zdlp6YnVjOHRPVjcxYjdQWkZ2OVR3RDlia3JmRElMTVZGRlVXbDZrWmFMVDdYbFNhaXVXVXVPWVdpOF9sTXJrb2NGWVoxVjR4ZGRvLUw5dzNxbVNaYUlmVUJNTDRaSmxkc1Zla0p2UUZMMTEyNEJMM1k5Zzc4MXI5TU43cmZVTzE2YUZGRE42UHlrTmlKTmlJQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Down 1.6% - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkNaRkdzMnI5NFk4SVFtc1QxRHA2d2UzMlM2dXgwT2QwdUZrRXg3Y0c3cUZ1YU9kMWxobWtJeHZBRHFkaEMwZnlub0swa2x0MTBiOF9FbHZ4ZUtpakFDMWc3UHJvMTBtX25lQ0NOZE5CaFV2bVEwbE02NDZSdnI1OHBxYkdSQ1lfY0FBbkxaS1ZaaVlON2toOFM0RDlhUFhVZGVKSWpuNDUwQzRReXFINDdoTEsyTFU5T2gycTk5Q2I5QQ?oc=5",
+        "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Slid due to Broader Market Correction - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW5aTlBhemRhYXNoVkhSTTNpS0dLa3hpMHA3Vzl6N0drNmJNZ21hdEZxOWlHdWlaYUYzYUMtWnZHVTd1TU9fMlRKNkd1dWJuYk5TRFVnZmlFYUVSVGdZRG5TT3FZMERibGdOSGdOM21sQjdUUlI1SlFxU3NtQlB1OXcyQV93eV9KTUUtVHQyMzFVenpiZUNDa2RyYXE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Shares Sold by AMS Capital Ltda - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXR6OC1lOXUzdXd2ZlkyNWRaWjhVZ1k5ME5KVk1nYkZTNEJvSnN5c3JZUjNDNm5rdmdCV0JaVndwYVRIOGYyMm5KbERfbEIydGdhanpYUjk1aTVHbjhJX1RrWUVpV2tjYVQ0MkVqOVhZMDFLVkNSN1V5LUt5OHdaNVd1eUFTRkNncnNSUlZ0aFhMN2I0N0RhcmxEWUhhYnFPYjA0TWdiOFplRkNrTG1qTHFoOHFxaVZ5Rmg4QXRleTRKdTFhdTNnbGRUZHlJX1BhY3dNSHVCNVdGYzU3VGRFcWEtWFJMUQ?oc=5",
+        "title": "TSM Stock: Here's Why It Could Soar Despite China Tensions - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFJDZmdEMnllT2szWlpvc1hSY2dLaHZzRFhnVHRXU3VjVnQ2YWpFdklEQi01cGJqT1pMTWp0MWNlbGFSMlI4S3RDR0luQ0ZkMG5kV0tWNkVjZVJ1a2hsMXZwdnJnMkxNVkJhejdVS3dfcldsZmEtMUZMel9rTkhKbDdSNklYdUR5UlZZd0Zqb2pFZURZMENEZA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) Shares Bought by Fiduciary Alliance LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbGE1a2dxTEwzX25pODhnd1ZmdTd2UXRoQ19IU25RRHY0enE4dVg4d2J2NUxsOEhlX3VXaS1EaUt3SHV3ZVdFdXA5OUhORW5JMnZ5d2otWnpxbUNpaWJjNmd6NTRmZFB4Ry0yR09RZWJvYjZUTTlEMzBIUHNUSmN2a20zdzdIWXR4ZTJ2SmNkV0NCdkxlT1EzOXp6Q1RMY2tIdmpMVzEzMW9SV3REamhaWW1aQVdVTENkMWJVVkROQ0kwMmx6UGlpbXdwV043Ulh2X0hFNWhkZ0FhM1NyRk93TlVJREk3YWVoNU9GelZud29UcXlvbkdJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Up 3.1% on Analyst Upgrade - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3RtZzhjaVg2VkpiaTZxeEhReU9JazR5azZkSlNCNUVBcGx1c1kwZUVJdmhwSmJNSTkwMk1nQzJEMXlwX2dxTU9ZX1phV3dSZEtOVGxRWlFwVlAtX0dKaHlvVXJmS0tTSnVHbUE2ZGVLWmM5Rzd2V2otOVhVcXlXcV8tZ2ZGMnVHd3JjejczME83WU5mNEgwbUJsU1MyRjk4YjY5bHNBdlhtc2MwZmg3Y0hia3pkQ1FKTDUteXdVdElxSTJReUNj?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

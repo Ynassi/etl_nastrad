@@ -2,16 +2,16 @@
   "ticker": "WSFS",
   "name": "WSFS Financial Corporation",
   "sector": "Financial Services",
-  "market_cap": 2985902336.0,
+  "market_cap": 2942752000.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.844594,
-    "PB": 1.1356815,
-    "EV_Revenue": 2.405,
+    "PE": 11.673424,
+    "PB": 1.1192693,
+    "EV_Revenue": 2.475,
     "ROE": 0.10285,
     "ProfitMargin": 0.26709,
     "GrossMargin": 0.0,
-    "DividendYield": 1.31,
+    "DividendYield": 1.28,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 49.03398789678932,
-    "Momentum_10": -0.6611229376657266,
-    "MACD": 0.0401353096778933,
-    "BB_Percent": 0.2786240906831171,
+    "RSI_14": 44.20464535469455,
+    "Momentum_10": -2.0041549836001917,
+    "MACD": 0.0405758979365558,
+    "BB_Percent": 0.1286778295776157,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9346689971566198,
-    "QualityScore": 0.3297993423296427,
-    "SignalScore": 0.5551356704570716
+    "ValueScore": 0.8966303177822303,
+    "QualityScore": 0.3390550065932033,
+    "SignalScore": 0.6131220315873191
   },
-  "volatility": 0.0204791123593648,
+  "volatility": 0.0206727696497988,
   "beta": 0.866,
-  "return_6m": -0.1118374086504375,
+  "return_6m": -0.103290112779372,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 59.17
-      },
-      {
-        "date": "2024-12-10",
-        "price": 58.82
-      },
-      {
-        "date": "2024-12-11",
-        "price": 59.09
-      },
-      {
-        "date": "2024-12-12",
-        "price": 58.2
-      },
-      {
-        "date": "2024-12-13",
-        "price": 58.13
-      },
       {
         "date": "2024-12-16",
         "price": 58.08
@@ -537,32 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 53.08
+      },
+      {
+        "date": "2025-06-09",
+        "price": 53.24
+      },
+      {
+        "date": "2025-06-10",
+        "price": 53.95
+      },
+      {
+        "date": "2025-06-11",
+        "price": 53.22
+      },
+      {
+        "date": "2025-06-12",
+        "price": 53.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 51.71
       }
     ],
     "current_price_data": {
-      "price": 53.08,
-      "change": 1.21,
-      "percent_change": 2.33
+      "price": 51.71,
+      "change": -1.37,
+      "percent_change": -2.58
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise WSFS Financial Co. (NASDAQ: WSFS) a récemment annoncé des résultats trimestriels dépassant les attentes, ce qui a renforcé sa position sur le marché. Malgré cela, plusieurs grands investisseurs tels que Wellington Management Group LLP et Millennium Management LLC ont réduit leurs participations dans l'entreprise. WSFS a également fait des acquisitions stratégiques, notamment celle de Bryn Mawr Bank Corp., mais a été confronté à des révisions à la baisse de ses notes par certaines agences. Ces événements peuvent influencer le sentiment des investisseurs à court terme.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "summary": "WSFS Financial a récemment fait l'objet d'une hausse significative de positions d'investissement par des acteurs majeurs tels que GAMMA Investing LLC et Wedge Capital Management L L P NC. Malgré des évaluations positives de certains analystes comme Keefe, l'entreprise a également été confrontée à des avis plus mitigés, avec des recommandations de vente de Wall Street Zen. Les performances financières solides de WSFS, illustrées par des résultats trimestriels supérieurs aux attentes, ont généré un intérêt croissant parmi les investisseurs, tandis que son indice de force relative a atteint des niveaux élevés. La nomination d'Allan Matyger en tant que CIO renforce la direction de l'entreprise, mais les fluctuations récentes des recommandations des analystes suggèrent une certaine incertitude autour de l'action WSFS.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Wellington Management Group LLP Sells 14,827 Shares of WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjZHOERCakRyWkhGbUY2WjNPTXBTS255VXFIaG00RjRWdGZEM2tHMmttWHpKX3ZGNFJoN0Y4dlJaMmJiSmp5NDh2U3RPemNoN3IycTFuWmpERWNPZjVCVlN0cTdNbGIzOENZQ1N4d0xXVzkzVnROdzFoV0ExSTZ6czh5eEF2QXUwekZldnVVUHc4dzRtWHRDSThOTF9SVFFYQnIwQ0hYaUl6RC1ma0xMYWlSLVFJbEZUNVR1TVNWRkxTLVgtZnZKWHg4SUNmbGNkRk9WNnVCc0dIUVk?oc=5",
+        "title": "GAMMA Investing LLC Increases Stock Position in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUJCaGhYaFlSQWtBUXJiQ3pXZWNFZ3dxbEZSQnlNdUs3X3dEYWVueXI5cDM3WE5uYm1qN3VFeUpNbmtPWHZuVllDNjFCZzFBRjlpUjhodVNsM3NfSmZJcDVwc2p5dk5iVU9CYmpKcHI1T1J2RFVHRm5iWHVfU01yak8yTll4M2o3dVp2MFhzZFRZZzFnM2xoS2NEenRzV3p4NWhCYWtMYUJzOGtKM2x0cU1YTjFOd25oLTRyUjEyLUIxMFd5eDYtUA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "2 Bank Stocks with Solid Fundamentals and 1 to Keep Off Your Radar - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmo1MzZPUGNWZHZWRjV6NHFSS0xfbVpfWm1iMFpOaDFkaGVLSmR6Z2pVbjEySlh3d1ItY3RyNEl4S2g2dTFRc0k3TksxZUc0dHRETXZXOGFjS3hGU1BPdkRUZkU5NGZDcG5oMGlDWlhUZ1dqeUJ5UzNaWG1YNGpnQ0p3VzY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Stocks With Rising Relative Strength: WSFS Financial - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHQ1MXpFS0s3N3Z1QWVtaUI0Y2JXUzZUZ3lQUGZIMmVCU2xybXQ4RHV3VDd2d19wSzJsWXhqVVpkcTZIM2Y3QUJqZVNjbV9yUlhEZElKMngxUlRaS0xHNlNfR1h0TTFpMUFOWjhQMHNGNWZmcDBKUTZ6c2J6dlpyeWNyVVBXRWxvOFYyam45VVplMzhJZ3VxSTFTMA?oc=5",
+        "title": "Three Generations of WSFS CEOs to Discuss the Bank's Legacy at 2 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNnpvLWJFa2pyX1NMT2Z3aS1sZnY0ZWNJREUxR0tWelJSeXJ3YXFQalU0bDVsV3h2QXMxR2pOMHlVZXNaZVA3aVNjSE5MS1BiMmI1SDdpdHB5X0U1Rm1Fa0gzSWV2QV9tbHEweHNtNGhHQ3FBdV9hQWFOQjJxeWNPZDdCbVgtNG41c1Y1Wk1Va3AwczlzNmI5V2NreGFQd3JidGM1ZjQ1SHJhT1dsdEUxbGlVVm44WlY4aGRWbllDaFNGMVJmX0VUcnlqYlhWbzZnQnBuTWduUUJfRG1ta2N2ZDRvSUVUUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Bank Stocks with Solid Fundamentals and 1 to Keep Off Your Radar - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXcwOC1vM2psVGUyNnNqQ2ZRUHVVMjdhUERJc2N5OGdCaF8xbVBKa0lzQjlrNjVLSlhjNW9LSWZWWUZzcmxqWHZMWWxhcnM1U2Q2bEVybG9yeGN6ZVhqa0daUWhDUXFka1JtZlZlb0k2QnZ1cXA3b041aHJqSXQwa1NybC1FcHpick1ZOXVHUUhUeDVPMHBQSW04OEIyYjZlM0J1eUhjbE45aF9WTVQwUV9PQ3BGa3FlMHY1Y21qUUl0Q1hyNWQ1bTZwRHNXNFJ4bWJmVFRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Keefe reiterates WSFS stock Market Perform rating, $64 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUZTNjhKamNMU2gxSkxhX1hMaHZYMjF2MDJJeHg2SGNIMmxIalJHd2UzLWlaS0VtX2ExTHhXRjdOeVlGSlBWN1FoY2lSNlFvazZBaDlBcTBDTXNxVGUtb1ZKU3lrVF9VekhVeU5WQjhYMXYxbHN2OXp6QXVsdkZNMWhGc21CWklYNVhuekFmdzhMNDg5SVphY0FaQThJbVBVZEFsbGh2Z2VpdE8wU3dZZC1XOEdoNm8yTVhv?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,9 +586,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Millennium Management LLC Reduces Stock Holdings in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGlOQnEyQjUzRGFXN1lISG1pSEZXUF9lbVZhOHh1STB3RHBqV3lMNE5QWC0yWGZvQWtwVURjVjZ1aHdyNFktTWVPXzlwb2EwekJiU2llQnM0dkdwSzlQeVZmR2dvcG1iSnpuSHZMRWV4dnZHM2swcDVxNG1jaXltVjdsT01lZlVXQ0dvc19rQjVEQURCdm9yUGFxTEhvbUR6UV9pYlpHeVJFSTlQcU9yN0dGdlk3emVjTXh5bWlSM0V0aG04X2JWQTJhc21TWW1H?oc=5",
-        "label": "NEGATIVE"
+        "title": "WSFS Financial Trying To Close In On Key Technical Benchmark - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHBGXzhRQlkzNXV6S3UxT1JDaUdoOXFuZ2tsTERDTGt3YVMtbG1NLU1fblV2by1BN0ZmTkN1RmZaWVBTM3hXWU54M3VsNktGNHlxM294VFRCX3oydHpNYnNQbUllQmU1NkNreG1mVDZWVU9mTWpzamh3R3AzcVZjUVNfZmJKMk02VmtRbEFTc2hVTTBDZDBQckcxQ3hHeXNSY2JyUGQwMGxhQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wedge Capital Management L L P NC Has $2.06 Million Holdings in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFhnQi05dFg0MGJ4N1ZoalJwSi1jUnVpSzJaUUJYZGhlaUJRQ1RObHExa3k0Tk1MT084bHpqUElPYlk5c3VYZGszUEU4R1FNdThkR2pFUWRJS2hpR3ZEMm5xbEtFMVkzZENHUUNGZXp4MTNwQkw2MDY3bVRZM1Q0MU1HakZSUnp3MXNZcThHZm9KU21RZUZ5ZUd2NkxYTUpsaVdzX2NRbkctckd4UHFoRENTV2ctR1JpMjdKSTZvYlJ5TFhWci00VjBCQ1lfZnB5bHlyS1RZWEdvRzMxSG5WeXVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Cash-Heavy Stocks to Consider Right Now and 1 to Question - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnZpY1JsY2xVSF91eUtBZk9iTzROMEVoSXFtTDFGWUZfLTAzOTNCdnpIR2xjMWdUTUxfQ3hEX0xBZFUyYXQ2eGVyY0d4VmNsV2pFdndGSUYzaUk2bm9GQVJmdGVOMG13MXRtbFdvYmxUMDNhZDE0Sk53RTlmWHlsc2FrQ0JJRFFRSHV2RFZSdUVwcWZBRGFpNFRDS2lPZ2xkOTduVHNHZFB2bmcydmozdGplWmhZMGxNbjhja252ZXVRRlhGeHVESDdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WSFS Financial Hits 80-Plus Relative Strength Rating Benchmark - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjFBR2RKTl9kZmJBSm1nclhLOV84TjRWM2hweG1va1VwS2hrZ21LSXJhUmlvQ2RLaGFjTmFxbVBmUi05b0FxaEU2QlVwcHAzRW51RlBEUkhLd1VoVXFjVzQ5LU9uYThrZTBVbnBTMUlSV1FIQ05xN01mY0tsY3VDbWJNbF9MY3ZqUXI5MDlLWU5YUjdxOTVlRzFXUXgwVzE2MWhwcjBDTWJtQQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "WSFS Financial (WSFS) Q1 Earnings Top Estimates - Yahoo Finance",
@@ -581,24 +611,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(WSFS) Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVFOai1kR1NQWjc3SU1kdGxRSnVERnJqLU5oMlp2X1lJNC1EYXhHcGtmTnZ4N3BVRmZ4am95WlFHYnZ5NFRLRWdBT0VVMWlDSHoyU1R0NUZ3dGNPMnRST2VHbkV1TGdlcjEyaUo4WW1tV1lyYTFIblE1TXNwWWlLUTQwajJvRnZfMm5iNm1yOXVyMnA4bDZISmJxYmx1SnM?oc=5",
+        "title": "Graham Capital Management L.P. Makes New $1.03 Million Investment in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUVwbGNPSEJxV2YxUWdQdXc1d1VqNTNhZDY0VjNYN09BdWNIMEwyU2pXMTBTWGx0dU94REtIU2RqUVFCYXAwRE9QN3RrTWpybFBMWVA4R2l1VFRoUnJYTVFZLVVsM1hmUHRfRmpsTWZXdmdVcUN4MXcwX0Q3N2ktOUEtbXh5a21zcHU3eGFpNFVrYm9STEtLMHhUSno4c3Uxcnk2SDBHVW5jMTV1MlN2emNlYi1oSmNNNEZHcWJwVmk1QjNJTXFvZ1JvdlUxeWJGMUFF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "WSFS Financial Corporation Announces Fourth Quarter and Full-Year 2024 Earnings Release Date and Conference Call - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVlRrNHlKQ0ZRa3JzYm0yNnpZZl9rSzlHWTkzdXdyZ0YxQTZHZVhxMDE3Y0FzaW5mZE5UakpUTzh0d1RSX19ZblBRWm5HcHUxTFpRZUIxZURjNHhsa1NSR2x3UlJqRVpEWDdzOTdBa1ZJYmdOenlzVWQ4bjkyU0tpS2NlOHdzWl9YTUo0M2N2bGFmWUIyclpnNERsNHRLR0Uwd2toSy1sNnktQ1JTSFdXb1lDU3FDRFV2dFVES1dHTnUyeFVCT0xySl9JU0liNlhwc0hUNUUzUzFqMmtnbl9wbC1BeWF4SjJNWWdQU3d6UDBMVTBJV2tqUi1ROW83QQ?oc=5",
+        "title": "Stocks With Rising Relative Strength: WSFS Financial - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHQ1MXpFS0s3N3Z1QWVtaUI0Y2JXUzZUZ3lQUGZIMmVCU2xybXQ4RHV3VDd2d19wSzJsWXhqVVpkcTZIM2Y3QUJqZVNjbV9yUlhEZElKMngxUlRaS0xHNlNfR1h0TTFpMUFOWjhQMHNGNWZmcDBKUTZ6c2J6dlpyeWNyVVBXRWxvOFYyam45VVplMzhJZ3VxSTFTMA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Brokerages Set WSFS Financial Co. (NASDAQ:WSFS) Target Price at $62.75 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDd1c2hyWjRXVG9XYXduSnBjU3VrWDVJbkx2VEVaekppTi16WEZTYlhjeE4tN095TDhSN2huZmZVSFBuSER6WkZublhRdThsU3ZUV3Q0QlVfY294OGhiTE9DZk9FbmlJc25RN1FjY0xIeWE2MnNSZDNXaFBpbEJqclpGNXdZYnpfZDhRVHMwaHhmaDF2c3ZmU0pPSTBGb0taVjVfTDQwVFMyR1FmaTY3ajZTUmk3Yk5fUTBZa0stYS1ReTI1eFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Trading (WSFS) With Integrated Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmNNVFZSZGNqckE4cVB4SU81RTlYU3FOUkloUU1VUEpZaFpFV3RXSFUtZzNmOE5PSTRyLWJwWkJ1RHNKRkJqenVJOHJwQ2hjVmtkRHg3LTNacU43d2tscG1VR2pOSXlTNVE3TDd4R3kxV2NRSUJ6MTR0ckw1N2tRYW1BRk1TWG5weWZNMWoydFdvVTl1R3ZKa0gtYThNVXh1VndqcERqQ2hHallhckQzMmZueU9EczlK?oc=5",
-        "label": "NEUTRAL"
+        "title": "WSFS Financial Corp (WSFS) Q1 2025 Earnings Call Highlights: Strong Start with Increased ... - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGxpdXZCUTR5a0tJRXZTYkZtbkxqNzY5Y0hCUFRYbWR6TnRhWTM5SzdxWEp3LS1wdkJrSVhTX0ZETmx1cWZTc1NZcE5INXlXZXloY2ViS3VYdjJwSnB6SzZ5alNVTUJDZUNiUDh5LTlMNTlJWVR4QWFxcldjR2JOZC1n?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Boosts Holdings in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
@@ -606,9 +631,14 @@
         "label": "POSITIVE"
       },
       {
-        "title": "WSFS to acquire Bryn Mawr Bank Corp. - Delaware Business Times",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByano1OW1fMXpnMk9adWtNMktXNGVmRnNSclU3bkY3d2c0b0FJZGJaR3dPc3dCeng1TWU1aFA3U0NMTG1nTUF6S1h1VXNmcWlzbDZWLVZfNmQzUjlsZlMwNG4tSVdLdnMzUEdLd3Bn0gF2QVVfeXFMT0gxMXJzOUV2NXVVZEJiYWpPQlBTY1dYUmF4YU1keGtQaTZpeWdfWmg2NldtTkh2dWFXc3Qxd0RISk9velRYb3pfM0kxUG41cDdpbUh2MFdzZXdSdlBtbVBvaUlEbE9BcUo5UWVsUUJzeVlzWG1aUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Stocks To Watch: WSFS Financial Sees RS Rating Jump To 84 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDhCNjFKbU5rdjdsWXdwZGI1dTk4S1NIdnM1MU9KTmxCSEd2YmVTcmJDM09uMG41dnBiV2VoeGtWM19DZk1rUmF0eEVVLXB3UlNKa2gwVzlDY1JOVlJEb0JncXkzQTNCU3h3UEdTOTI3enA0eXllMGxTSnBGZF9SYm5zNkZQUVNhTGU4RE1Fclo3UnliSXVOYlhjMVNobFJUeVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WSFS Financial Co. (NASDAQ:WSFS) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDd1c2hyWjRXVG9XYXduSnBjU3VrWDVJbkx2VEVaekppTi16WEZTYlhjeE4tN095TDhSN2huZmZVSFBuSER6WkZublhRdThsU3ZUV3Q0QlVfY294OGhiTE9DZk9FbmlJc25RN1FjY0xIeWE2MnNSZDNXaFBpbEJqclpGNXdZYnpfZDhRVHMwaHhmaDF2c3ZmU0pPSTBGb0taVjVfTDQwVFMyR1FmaTY3ajZTUmk3Yk5fUTBZa0stYS1ReTI1eFE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "WSFS Financial (NASDAQ:WSFS) Lowered to Sell Rating by Wall Street Zen - MarketBeat",
@@ -616,46 +646,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "WSFS Financial Sees IBD RS Rating Improve To 73 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNekNMcndmU0o1c1hvZmJNanlaUmVvOWhJdmlmRGoxSGg2cDlNSmpjeFdPbGo4b0dhVHM3MGQzM01MRklIMXAyc05EcnNrdmhqWjNvZUFuQ0dTNnY2MHA1NlI4NzhOeUdNa21HcS1ZemxRbGlRVmN6N1doNzRzUTRqOUhGYUVYOV9zcEtWQ1dGNURlNkJmYVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "WSFS Names Rebecca Seeman as Chief Operating Officer, Consumer Banking - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHNEdV9sdmowY0psa3VsZHpiSGs5Z0lHODZaREtrNDRiMWhIUnc1cGEyS1VSc0Rrc1NlZTlIRTd6c1RlMUtsaWFUU2dUamhfbVM2WXpOMVJnaWlGWE1sUV9Ld0FGcVpnTjJ5d2l2bmlFRFlBc2RQTDdZb2hNU0ZJZnlpbmZRZ1NIY0g0X2pLdjVxSUgxdHNySzh0bHk0eFcwQ1g4N3Q5SDYtVkJtTU5jd2dUQkdPUTVfR25WUUZwS1ZQbThR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ProShare Advisors LLC Decreases Stock Position in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0FhOFRtVW43QlNOeU0ybGlIZWE4QXMzZDhjRVdFYUZuWEtnSWRXMmZXWnZuOTlYTndpbWF2eGlPS2llT0ZxRGlXM19yU2V4OGdwVkc2czlFZm5hMlJ0RjhnS0J2MjlMdHRQS0QtazNmVmRSX3FQOWIxMGJvaFc0bW52cndZZGJhREQyNVpFU1B0WDJZTWN4ZkVTeGUtZ25RTXd6NEhaS1VGV3lhXzhXVnloQU0wV3ZjelZaVDRRbXo5bEZad29HZjVUZG8?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "BNP Paribas Financial Markets Sells 11,369 Shares of WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEU0QkZfWUdiRHpFS1hwanJvdzhpZjRKcTlnZ0xwSXU3T05tdHlGcVNZYmRaY3ZPY2x4VmcwUE9tS002ZUZ2dUpvVTRfOFdHbDc5S0t0WVZ2Z0YycW1nank3TDBkaFFlNGpkanRfM1VVUUZiNnBpMFd4UDhJc2I1bkNhS0U3Umh3MUZlWmRuNkl2QUJLQjIzOW5KdFp0RTRaZlpETXBQMnhkOFdhNXFfeFVYa0pCTHl0V3FIOVFKUFdqZjVnbUduVnl5ZThYTm1aWDdYcWJmLS0yeFgyLUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Deutsche Bank AG Has $2.75 Million Holdings in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDJLYmdwckIycTJvLUdCVUZPLVVrYkRpTXhrQm4yMUN6c2YyS1JEaTRpX05FNXY4Y20zNktGVGEzZmFhdWtNNUFwdXRTS05oYV9FenlrVjBDQzFDQ2dpTHppeUFpSU1wQmY2SEY0eVI5Rk9DNEJMNWtENy13NE5Ja2Q3ckFSQ05lMkVjSjhJYURvcXZoUG5kSXQwZUhYR3VHYjF0bWxxLWtOa3JMMlRRQ2N3QnlPUDdPUDV3LUxIdzM4MjYwVDZ2VzU2cw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Price T Rowe Associates Inc. MD Sells 26,284 Shares of WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV21RVlI5RWwyOTBxYWpSQkgyTlhnUmhlOEhrOGZ4dkE0TDJQNzhwdTdTM216WHZSc0l5djE0WDVGOWQyczdRLUlsRWlXZzduNkFXQU1kZ0xCTnNmNXFIT0NNU1Z0bXM3TnNFeFRtTEtLMmJQMHh1UlB3cmFfWGFGRHpJOEpxLXNfaTNpSHFzT1ZxQ0FvNHZORmdnUXpIbzVYeVZBSzZxWXpWek12alhfZ0dFM2djZ2JNTW9kZ2FMYXRWUzJRaEFSZ0gyNUp1MTd0Y2ZZUXFFRWU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tower Research Capital LLC TRC Has $155,000 Stock Holdings in WSFS Financial Co. (NASDAQ:WSFS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTWNYTmlmc1g5eXVsbDZKTXlvRWliU2tJWFNRenV2ZzBtSXVza0F4Z0sxUmZoemtHR1luNWkzZTY3VjVHWWRzbjlvM3Vpc1QxWXAwZHVVbXRRbk4yaUhqWE9DOWZYSHA3ejdIS2hsejNYQ2NRa1phLVpFa2ZsOEFhZWVUNHdSZk9zQ2NxMGhLOHNWX2pfU251SXRRWWpmbXhSQzhpaFczSkxhR043NWtPNjJVTzNheGNYTURReTV5RGVGRVJEQWxQSElOS3hsVGF0YUM5Uw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Power To The People: What Construction Companies Should Know About Employee Stock Ownership Plans - Bisnow",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORkh4NXJ0QllmRTkyM2VUZ3JpQTRhYWwyaTBCQjhIbklKd0MwaDFVT204M2RUZ28wSHlPR0hiZzZEdlFoaDlrdDdKVDFzV0NSLWt6aXlHYTN6MVRiaDk2bV9lTWxxaWcwSmZ4SUtzRHRMSUxCTFV5c2hYQmJXWXY0VkNwUzZtSnJnX2NnUWFTdnRsbHo0anU0M1U2ZUJZYkFvLWdsQUx2R3ZlQV8wZ2RjN1FrYnFSWWRrNmxadlZ6XzBFMV9FOWs3ZTk3ekczSzVodm5pcHdmMnFSWTdCbER2czM3cTlpbWVrUWlEa3ZXWFJiTURVeTlXcHB0ck0zS1N0?oc=5",
-        "label": "NEUTRAL"
+        "title": "WSFS Financial Sees IBD RS Rating Improve To 73 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNekNMcndmU0o1c1hvZmJNanlaUmVvOWhJdmlmRGoxSGg2cDlNSmpjeFdPbGo4b0dhVHM3MGQzM01MRklIMXAyc05EcnNrdmhqWjNvZUFuQ0dTNnY2MHA1NlI4NzhOeUdNa21HcS1ZemxRbGlRVmN6N1doNzRzUTRqOUhGYUVYOV9zcEtWQ1dGNURlNkJmYVE?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

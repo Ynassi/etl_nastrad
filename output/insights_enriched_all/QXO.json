@@ -2,12 +2,12 @@
   "ticker": "QXO",
   "name": "QXO, Inc.",
   "sector": "Technology",
-  "market_cap": 11044880384.0,
+  "market_cap": 11319557120.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.86514,
-    "PB": 1.7146962,
-    "EV_Revenue": 73.381,
+    "PE": 15.855715,
+    "PB": 1.7573391,
+    "EV_Revenue": 104.44,
     "ROE": 0.01444,
     "ProfitMargin": 0.65396005,
     "GrossMargin": 0.40504003,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.24957315220305656,
     "ROA": -0.02623,
     "PEG": null,
-    "EV_EBITDA": -38.504,
+    "EV_EBITDA": -54.8,
     "BuybackYield": null,
-    "PriceToFCF": 786.9046644659896
+    "PriceToFCF": 814.2392101054477
   },
   "technical_indicators": {
-    "RSI_14": 70.07492916019365,
-    "Momentum_10": 13.555295648115262,
-    "MACD": 0.8577149071038654,
-    "BB_Percent": 1.0476267186348052,
+    "RSI_14": 67.05278960375885,
+    "Momentum_10": 15.147063311408548,
+    "MACD": 1.2885649923623106,
+    "BB_Percent": 0.8160681453852189,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9173765303018768,
-    "QualityScore": 0.2868508631537125,
-    "SignalScore": 0.380329743435493
+    "ValueScore": 0.8756954041887062,
+    "QualityScore": 0.2923188974470968,
+    "SignalScore": 0.4376133546833037
   },
-  "volatility": 0.0373226991224269,
+  "volatility": 0.0369429201245303,
   "beta": 2.344,
-  "return_6m": 0.0983324354133781,
+  "return_6m": 0.212825371944815,
   "analyst_rating": {
-    "recommendation": "none",
-    "analyst_count": 1,
-    "target_mean_price": 44.0
+    "recommendation": "strong_buy",
+    "analyst_count": 3,
+    "target_mean_price": 34.33333
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 16.16
-      },
-      {
-        "date": "2024-12-10",
-        "price": 16.3
-      },
-      {
-        "date": "2024-12-11",
-        "price": 16.4
-      },
-      {
-        "date": "2024-12-12",
-        "price": 15.99
-      },
-      {
-        "date": "2024-12-13",
-        "price": 16.14
-      },
       {
         "date": "2024-12-16",
         "price": 16.96
@@ -537,77 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 19.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 20.13
+      },
+      {
+        "date": "2025-06-10",
+        "price": 20.16
+      },
+      {
+        "date": "2025-06-11",
+        "price": 19.95
+      },
+      {
+        "date": "2025-06-12",
+        "price": 20.1
+      },
+      {
+        "date": "2025-06-13",
+        "price": 19.66
       }
     ],
     "current_price_data": {
-      "price": 19.0,
-      "change": 2.24,
-      "percent_change": 13.37
+      "price": 19.66,
+      "change": -0.44,
+      "percent_change": -2.19
     }
   },
   "news_sentiment": {
-    "summary": "QXO Inc. fait l'objet d'une couverture médiatique intense, avec des avis divergents des analystes. L'initiation de couverture par Wolfe Research avec une note de surperformance et un objectif de cours de 44 $ a entraîné une forte hausse du cours de l’action. L'annonce de multiples offres d'actions a également marqué l'actualité récente. Malgré des résultats trimestriels en demi-teinte et des pertes liées à l'acquisition de Beacon Roofing Supply, la dynamique positive semble prévaloir, alimentée par des perspectives de croissance de l'EBITDA selon Wolfe.",
-    "sentiment_score": 0.2,
+    "summary": "QXO Inc (QXO) a récemment attiré l'attention des analystes de Wall Street avec un potentiel de croissance estimé à 70,8%. Malgré cela, l'acquisition de Beacon Roofing Supply a entraîné une hausse significative du cours de l'action, mais les ventes d'initiés ont suscité des inquiétudes. La société a également lancé des offres d'actions et de titres de dépôt, ainsi qu'une plateforme de commande numérique révolutionnaire, ce qui a stimulé l'intérêt des investisseurs pour son potentiel de croissance dans l'industrie des produits de construction.",
+    "sentiment_score": 0.3,
     "label": "POSITIVE",
     "positive_ratio": 0.35,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Wolfe Research initiates QXO stock with outperform rating and $44 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGJBbHR1WG0zSXBaTUpVdUk0ZmFNUzBiVjlmY1dHTzdwa2tDS3Z1TWZtbkR3UnMtN3dqSEdUelBSN2pPWTNtcDVhcm1PUVZfVGV6Zk8zTU5jUGJXTzBpVlNwN2RvajZkd3F6NnROcGpxdkU1bHZiQWpTOFp2V3ZkdkNSeWt4NkRFdDhSektQT2w4RTFIa2VhakNHT1hYSml0c1MtSDhENTVPQTlKWXRCUTFITWZ5dVYxME1LREJMbFZSeTFKcTNZNzFaSQ?oc=5",
+        "title": "How Much Upside is Left in QXO INC (QXO)? Wall Street Analysts Think 70.8% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9URXRRX2tmYzRZWVd2SmZnWUM3LXJoeTJ4aDNzeGRzQnlLWDB5UzgyUFRVTmVmUC1SMlNvWjBodFVXRzZ1UHZkaGVXcUxLRG9kMVJXajJwV2R6QXhxcWtCZjFMOWhNYXRoQWRLS0JPVVBmSjBwUHdqbHFn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "QXO Stock Surges After Wolfe Initiates Coverage: Retail Optimism Surges - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHp3Q0h1eFJ5MFY1TDZZd2J0N0tRUGtrSkIyM3VsS1dqUmF4Mzhfa3ZCZkplQXJIcTltbUFEWjJyZ3dFUUFINFpORmt2Ul84bkQtcU1UbmFxWlNpOXhjbXpFc0l5SzdaQTlBd3V6VjZVUWV6Z3BfNFVuc25PczhZY0pDNm5PQ2hPNFBwQVNOVEx5azFFUjZkcFdyWkhFcE80ci1CUWN5ZHRobkZMRzFEYjREMFpSczVfdllXUGlmUEprMXZoOGxjczB1djYtSk13N0hpTUhzM3d3WkhoZWFRcWVfQl8?oc=5",
+        "title": "QXO: I Am Buying The Company — And \"The Man\" - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nYmZiTHlQdkNiMkpkeHB2eHh6TDEtYXdJOWtLNlYxb1ROeV81cnFzUmpJZGtnQ0g5Vk5Zakw2WllPQUc5aGxVbzVJNWxKd01lYTI1aXF2c2FmeHFON1BZbksxYm96UG41UXhlaVJndkl1WGQ3bUp5Qmd2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QXO Stock Rises as Baird Latest to Initiate Coverage With Bullish Price Target - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3NaQS1VbHh1RXplX216MGRNX244VzRNRmFUODhybkluMWEyRGZXbUExZllDYkVFM1VTZF9UWktMa1FlMVVveV9IT25KRUwtUTlpZmhuSVNtNzI4QVNXOFd6WUZ0VWliWXRCYWVYSWkyRW8yUEVpUVBQRnRxRFRuY3MtVnM2OGl1ajUzal9FNFhaTzZDalFtZm1aQ1hjXzFfOWVBMW84UVBsZW5Yc09nWWlhZHZMYTg?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "QXO Announces Launch of Concurrent Offerings of Common Stock and Depositary Shares - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlhXVFRmSnYxdGF6ci1BbTBnRlNlZGtfRzlKNVFFSG5iUDEzZ0FiQnNTUU9aWEhxZ0JYcVZRbVA4TmNuNDZqZ1RDdmpnLUswZm50SUo4UF8yYTAxemdKbXcwcl84eWYzb1YtRTJPelRuOE1OS1EzM3dvOU1WdXF0cF9naWFqM1JBc0g2NlJzaHdNRDJ5Y0loVnV3bmRNOGloNDB2RUZjbzg2ZkowSFFVY0FwM3pRUzA4ejM2bXg2WVNkdF9rc19OZzVtcjltNEF2WkVGT3RB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "QXO Inc Shares Surge Amid New Analyst Coverage - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmo0aUpUNFZpMkYzMUl0RWR4cjNXUnF5OExVQmw1dkFIc3ZxT09yX1dJd1dNT2pEeUJfLU5kb0l3Q0hoX0xyRUJMRHJCbWQ0eGtRM2FTNnc1MVNZdWZKbVlCTVFDR1hYVzVONjdEWkhnbTNrY1BKNC05QktWR000OWYxbXB2dUhMdkpzV0dn?oc=5",
+        "title": "Will QXO INC (QXO) Gain on Rising Earnings Estimates? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRER1bGdNUmltWEotN0RqMWY1cmMzc2NRSmNDOVhyOEt1dVJLa2ZiSnZXZHFvd2dybjFWNVVMZU91WXRaWXkwMkJ2TTVGVFVSSi1CVTZGMjhULTNCM0dpSml4NUFUZzJld3FUZXQxMUU0ZVh2c3VZN0lLYzkyb0RLZkhqOGZxdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why QXO Stock Is Shooting Higher Today - Mitrade",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXd4M1BzR2ZlVDNKb2NPN21aUDhOY293TTV4V2UyQ2V3ODBHRHBTemZnTTQ3ZXlOaDZ5eEh6LU5VeHl1OVlHZDNBYXo2VUJkd0taWmRaOFd2cEZpVkVRYjZSNExTNW5uOGtZSUNOYjVqLWI5bnl1aENieWFwMEZfQmFB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "QXO Shares Jump After Wolfe Research Initiates Coverage - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM01fQ0gwYlphWVlmUEtYWno4bTJoTUpZR21tY1dOZU0yckt0NzBCODNFcFUxT0lVMC13b29lMEJJRlVXY1R2aWwycEVZTGtmTVlQQ0ZYLV8zSlE4bnRzYmNMTVd3bWZNTnl6UGxITUNTXzNicFFLYU5uZEEtUXlZM1lucFFOeTJWUHJXSVZZdWdseGpoQ1B0b2lyYjBGLTF1alZTZTlnNVc4cTlBa01kUVl5QVVNTTJfeDdfcGZjUk9QYWRyZDJ5Yzc5cw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why QXO Stock Is Down Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WDVKUklBaUFiSGtJVDdRbHNtdGVCQjJSaWN6MnRqWHBmWDg0RE9SbmQ2OU8tR0JsaE83UjFsY00wRXFJb0ZTOGRLRFV3eVFySkp0T19RQVVqYjdrNVB3bFM5RHBmVGpfX0h6cF9fSnFXZTB5ZVpsNVRn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cramer's Lightning Round: QXO can go higher - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0oxbXhSVXQxeXkxaTBqdXA2Q1JJNnc3MXBlekhGQlRNcGZQVVBraXpGbGc0V3kzYVM3eFZUbUFZYjNPVlpSRlBVQUxpeTVKS05nT1FGYzNyanZLRVItV0R2SVlQWHF4dWVtLW9iRjVNUDFSVUsySEJwWEVWR2dSX29HZzbSAYoBQVVfeXFMTy1MaVpHNWxRU2VMX3BqV0FDekxDU0gySlY2N3VXWllCT1EteG5uRVhseGY3MWRkSmVMWEJ2V1cxbnJIS09EaVVINHg1ZHlWaFlwNUJnN2ZNaEdMSzVhSm55WnVYS3FfRXJlaGNtYVE2X2RNY01MZ2I4N0NSUWNaaG9STmlCQmlTaW53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jim Cramer Thinks Brad Jacobs Will Take QXO Inc (QXO) Much Higher - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlhHVGg5Z25waDhaSjVsaFQxekE2SzN2Vld0ODZwTjVhMm5lLUFfR2c0VlZ0WEJObmpzVjhPbGtfTnBKTUp1am1qbXprNTNEaldSREp5N0xXSk1yeWxaejk2eVFZeURDZ2xyVFNMTVlnSEpXa0hORVJ4Y2NPUnRsSlVOaUVGY1RjTzVpWV9JZWRVR3ZVSFhjdlp4YXlSeGczQVlURE8wNjBzbFo0OVlzT1puZWxNOWt0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks To Watch: QXO Sees RS Rating Jump To 80 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRm1tbHdYaG44b04yZHFoYTFWV09TTy1razg2QlZuN1FFbzNkaTFSeXhaMUhPdnA2d0h0ZWJ2WUVCZWM1TEY3WnVVaFdBNUZFN3hab1Roekd0WUJzQ1ZrR0hVbHZBMjJ2OEtCQjRhZXY2ejN0UjdtUDREWlFUZ2ZkaFVUbVVRT3ZOcTRhWnJocE0xRHM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Brad Jacobs' QXO extends tender offer to acquire Beacon Roofing Supply - The Loadstar",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM25KcXhFc3JtNVNvVG9pbVdzV0psODNLb2QxZ3ZBZVN5NG1jSFNIR24wSU1CWXo3VldJYk05TkRoTkM3ekZuZ01Vd21ISlU3T3J2SERYbGI4dVgwN1VKLTk0UkNGWkFibGtoSnNndUp3ZnVBUHZNOGVyNC0yMVFZYU12Y0VBZF9WWEtKUnhjWWxXU3NlcFdWZVpn?oc=5",
+        "title": "Why QXO Stock Is Shooting Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWU5YkVDRXVHWVNlNWQ4V25vdlEtVjVEX19vWGd6M3p3WExNU0xSc1RBelREVE9FSWpxOWNIX1c1aVd6QUw4aHU1S3k0dHQ2UFJiVXFRWW1SOVhsQXE0c1pBcjYtYTNNTDVRS19iRkg5TzBPTzNHV2ZxYmFJVWJrOGNrX0c2NWhq?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -616,14 +586,49 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Wolfe starts QXO with Outperform, sees path to EBITDA doubling - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzEwakJqY2gzeGhQOThyWUI5djBYMEFveVZXR2F2Q2pqNmZPQlU4VFNJVmlXU1FFc3pqVTVOU1lkZ1VSVDhjSmtVcmlodHV3NlF6YzJDd1pMb3kwRGxVZlNYWVVpZzVKTUdhZFBXaE80T0VmOFNteUFLaVAzMzVURDRyQmRTN1A3VjhlZkdjaThBOE5ScURwMU9mTDhSSUZPM0VMTFF1MUlyZw?oc=5",
+        "title": "QXO Revolutionizes $800B Building Products Industry With New Digital Ordering Platform - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXoxSnoxdndrRTE3c1lnVTltRWhrUV9uMnJWaTZ1amJXZjRFLVFiYVVwRVBoWHRyUVJ4dUhWdkJ5NzZFS19DaURmOXhRbzh4SDkyd01xN1JLRkp6ZWx1Rmt2dTZmdUY2Mnd5UGpVNHFGRDdGeWgzV1Rnek1YaUZfZHFlS3pESjNnX3VoanlvemxqRmRwV25pQ2x5Rl9wUm9HYVRoa2Z5TWtoUklYalc5SDQ4UDE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QXO Surging From 'Outperform' Rating After Beacon Deal - Roofing Contractor",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUm5jVHhMNFlqbWRJeVpxckZranZIWnBLYUtfUVJsMEhrV2ZsU3dDMm92eUtIOGNtTVFtSVNJT3BzXzdvRGpxeEZKZndKVjYyOWJlTl9FSURoX1JyWHpxZ0JQdzVOYXhIR0hjaXZVN2g3cVJHa0dJOFNLcmNXTFpZTzQ0MVRrdWpYcll2b21sdUVnME8xcmE3UVhBZ2psX0lwY3hHNA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why QXO Stock Is Shooting Higher Today - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXJIS00wZVJ6UEE5bVBRcjI0Mm1LOU9wSnVaQk5rNW5BUV80N1dyUHBVSDlYczZPbm5NRTdrbjN3cVV2bUtmX3FjMzk2V3FPV0JYLXZGNEFhVmhZaTlEb3lRTTExRUp3UkhCaTZLRnF0eW5vd1JqeTREY09GT1Z0Y1RYVW1XZDZNNW9UeGJIbzhQMGEtVG02dzFNa3diSFpuZlFHWWxNQk1kVTFzU2p5cDhReGZ2Q3NObTYyOFExOHVWYl9WNEE?oc=5",
+        "title": "QXO stock initiated with outperform rating by Baird on growth outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkJJN05pakctQnAydzcxSkUwQnhwNTR4U2prUnlJNVRFSldGSUZsY1ZMNmd4UnROTFRiRGN2d01YemNZRHlIMmtON1FqMWw3Y0lsenpuZFhmUmpCdVhnZG95VmxxYmZrNDB4NXMteWdkb0hJTXZIeTVmb0UtQ1dYaEpHa0ZEMlQ4N1FkbzBkSEtYSXU3SWJ0ZUpVNzJUWFhSdV92My1VT3hIOEROa3lNNXFkTkNWRW9jTk1naVRVTlZaWTRTWXVlVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QXO Clears Technical Benchmark, Hitting 80-Plus RS Rating - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWd3Yk1GZVpQbkpsQ3JBLW9sLVNKQTFGNTg1WnNzaEZOVFNNN3RtcFJtYnllSENMcjA1QWdMTExmMnIxUkFrbEJVUlZpc0wzelAzWmhIQWtvNTJGN3RWc2FiWHU5bUJTME51YkZERFZKRXlWMVVuRmlVU29mZjhjcmJsMXBGM1c2c294bUI4MWRRZ2hvNk40QmtyZnJwRTFrUHc?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "QXO INC (QXO) Is a Great Choice for 'Trend' Investors, Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmxSa3ZwdWZCNXAtUWx0YlRZT3E4c3VBSG9zcGZUTmNWU01HNVR6aGx2TDJXTDhKTnI5Z3ZZRnhqajRXc01Ub0c1MXJ2NHNQU1hLcXh5OUJLUWZya2dhUjk3YVFNOERxVEItVi1HbFFqamZnTlNSM0xuVlM2VFBic1VseUdOQUF4OFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QXO Announces Launch of Concurrent Offerings of Common Stock and Depositary Shares - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlhXVFRmSnYxdGF6ci1BbTBnRlNlZGtfRzlKNVFFSG5iUDEzZ0FiQnNTUU9aWEhxZ0JYcVZRbVA4TmNuNDZqZ1RDdmpnLUswZm50SUo4UF8yYTAxemdKbXcwcl84eWYzb1YtRTJPelRuOE1OS1EzM3dvOU1WdXF0cF9naWFqM1JBc0g2NlJzaHdNRDJ5Y0loVnV3bmRNOGloNDB2RUZjbzg2ZkowSFFVY0FwM3pRUzA4ejM2bXg2WVNkdF9rc19OZzVtcjltNEF2WkVGT3RB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QXO Stock Rises as Baird Latest to Initiate Coverage With Bullish Price Target - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUlqbEpSYTJia2NBcFRGdFZURkxJanNOSFFCT2xkWVRqWmZkRklLVnhvRzB4bXdzUGlxTWlRV28wM1o0elItUC1rdjhpV1BBTS1CQmhhTm04V3hkcE9Kc3c4MlpCVThnQXkxaFQyOHRjbE1HMU94cVlrLXdQZDJWa2lEcVdQVl9DRlFNbEVmek4ybnRCUWtadE9COFBxeEFoQlVwM3RLaDVGcGx0ejhsSlR1UjZUaG1rdEU2Tjd0OFBwM0pucHVuVjdlZmE4ckZweVdldjRsU2xwWmNuQ0tEYlFtLVBRSktvTE9EMkVBWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why QXO Stock Is Down Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WDVKUklBaUFiSGtJVDdRbHNtdGVCQjJSaWN6MnRqWHBmWDg0RE9SbmQ2OU8tR0JsaE83UjFsY00wRXFJb0ZTOGRLRFV3eVFySkp0T19RQVVqYjdrNVB3bFM5RHBmVGpfX0h6cF9fSnFXZTB5ZVpsNVRn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "QXO stock initiated with Outperform rating at Oppenheimer on acquisition - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOEdVcGtfX20zZlR5ZUVqQ1hxdFctZWYzMG03SmR3TlhzSm9ORS1XbFJadGE3SllfOElsZ2tsLUhOUWdTSUdLeEFFZV9jdWF1UjZiRHZpYUtvOEQ5UkdkVzFBRHlZQ2ctRDZRWFhieE84TXZFazNmRU44TjMyMjlsNURXb0I4RU1jbHB3bWdYc0VZc1JUdVFpcHdWOWhjU2J0WGE0UW9FR0NIT2dFUGZERURfYTNtMUZaNnZfd2pwU0l2Y0xYZWJkNjJXck4?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "QXO Completes Acquisition of Beacon Roofing Supply - Business Wire",
@@ -631,31 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "QXO initiated with an Outperform at Wolfe Research - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVBrRjFyLVUwMERLWUhnS2VvR0pVWHh4dTIwY2NkZ1Azb3hkMzhha2lmT3BTYlRzd1dWbThaN1RSRVFYX29HdWNzLUxnREkwcmN6VVdHQUZXLVBJT0tOTUdMYlppRTZtRnhhTXpJYVN3VEl5a1RTak1BNF9UZFh0dVRROVhOWVVCc2M0QS1ISFNTYTRPbkdQbUVPSQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "QXO Announces Pricing of Common Stock Offering - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcTA0S2ZIN21Bc1Q3dW1MMEFERE5lOVBhamVzYXlYdVZHZW0tQnNMVXlRak9jaUFubUtXQ1lkSTFlSm9rVTZJeDMzWjVYT3ZkWnowQ1V3d08xcnRCMlVQck95Qm1PQnpHWVl4SHBTcGRKS0Jnd1dNS191MncxYmF6cFJjc1ZudTlXVnk5eTdEQmhoMkh0bkg4eWNrb2hYY01NWG8zM1ln?oc=5",
+        "title": "Wolfe Research initiates QXO stock with outperform rating and $44 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGJBbHR1WG0zSXBaTUpVdUk0ZmFNUzBiVjlmY1dHTzdwa2tDS3Z1TWZtbkR3UnMtN3dqSEdUelBSN2pPWTNtcDVhcm1PUVZfVGV6Zk8zTU5jUGJXTzBpVlNwN2RvajZkd3F6NnROcGpxdkU1bHZiQWpTOFp2V3ZkdkNSeWt4NkRFdDhSektQT2w4RTFIa2VhakNHT1hYSml0c1MtSDhENTVPQTlKWXRCUTFITWZ5dVYxME1LREJMbFZSeTFKcTNZNzFaSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "QXO Reports First Quarter 2025 Results - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2pCZzU0clRRUHpPYkl5YWV2SnR3MHNxbUNHTDNQaEp3ekpIclptYU5OeFNWNEtTNllkanVFSUxOazA5Qm03V0RVSi15M3FEdGdCSk1SX0VjWnFOcWhHVlMySnNTUUNGaUJEVHh0QnF1WUNld2NEQWpfc3ZIRmwxbFFQNHBJcmtfNHA1ekw1TWFPVGxwSnM0YXl1bw?oc=5",
+        "title": "QXO Inc’s Recent Underwriting Agreement with Major Banks - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclNsckI0MWo4VjZxOFdhR2c1LVFxa1JpUmVrbWRPZzVWZm9ibV8xZlBuYnpoQUVyeUVoTV9sd24zdU4xeGQxRjdBZkY0eXZlRUFnTkpVTmVYTFk1LUVpelh3bnROTF9LNndMdkhBYWxZSm15QjJFQUg4cDJ2aHhuUEcxajh1Z1d4Nlg2WEFLbXkteUd6WGk5WWRxX21sT0Y3ZF8wU1BnUVlzVm8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer Thinks Brad Jacobs Will Take QXO Inc (QXO) Much Higher - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlhHVGg5Z25waDhaSjVsaFQxekE2SzN2Vld0ODZwTjVhMm5lLUFfR2c0VlZ0WEJObmpzVjhPbGtfTnBKTUp1am1qbXprNTNEaldSREp5N0xXSk1yeWxaejk2eVFZeURDZ2xyVFNMTVlnSEpXa0hORVJ4Y2NPUnRsSlVOaUVGY1RjTzVpWV9JZWRVR3ZVSFhjdlp4YXlSeGczQVlURE8wNjBzbFo0OVlzT1puZWxNOWt0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "QXO Posts Q1 Loss Amid Beacon Acquisition - Roofing Contractor",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjRHcHFZM0hmQ2phSzlMSUt4NjJ3eFh4VVZ4RVk5MnhGZFNzR1ItQ2J4S0Z6dnc2QVRldWI0UmVZWkJ5V280dW42cTM2RzVGanZfanVtRFN1X3lKamlYTEFlZHpQaUNfNXpTTVp0a2U5c213bXhZMTR0a240WF83VmlJNnlMdUkzcjdOb3A4dkpqc2s1a0E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "QXO Inc Announces Major Stock Offering Agreement - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmZBNEdqb2tXSU9NazRoVDRWVW04a3JZa2NpTkhNSXdkRHRTTGF4ZTlSMVBZc1ZQaWVhVFdGZS1HOGRFSzlsVmZZVmljaHA1TXpka0lVMmJ3bVFHN0J5SzhXUXRGdVdUSjRyVjUyejJTa0dlY3VqclNoQ0VQR1NWaGE1UHY0ajNtVVdiRk45MjdGR3V4OXYzNGd5cWxfLU16LUE?oc=5",
+        "title": "QXO Sees Insider Stock Selling - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUZxaHpUdHhXcl8wOE5tSHM5Z2FidDd2RzlHU3J1dlR2dl9DeEFoOVBwZWVzNFE4M2dlNmFVNFU1Z1lLNE1ydTFCX0xXU3BDaHU3UWo5UU9FZVF2WnF3VGxwdkY2bGF0NDNNY0VSNTFhTzhLRGFpb2VveTUtRmRYc3JUaDlBYV9BTFBKOXNQblFoZjZXYTFMN0hR0gGfAUFVX3lxTE9PLWJmbGc3T253V0pYTjNOQmpPbXlmeVk2MHNpVUxCWXVCQ1JSSDRQUUpTbTZSTnpvaklYTUlraHRNTjNGQ1hIS1FjVS15YVhPelRpNUFBaUNGV2lzeE5qejFuS0ZqQmFWSDhBazNKUzBrbTBIOURoWTduVUJBWDdqSE5FbmZkTkNUWnozR1lHYktmTzhOZVl4aVBYckdfSQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

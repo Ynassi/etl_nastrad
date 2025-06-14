@@ -2,12 +2,12 @@
   "ticker": "MNDY",
   "name": "monday.com Ltd.",
   "sector": "Technology",
-  "market_cap": 15630560256.0,
+  "market_cap": 14204846080.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 304.802,
-    "PB": 14.258256,
-    "EV_Revenue": 13.584,
+    "PE": 282.59595,
+    "PB": 12.957713,
+    "EV_Revenue": 13.287,
     "ROE": 0.05387,
     "ProfitMargin": 0.050819997,
     "GrossMargin": 0.89488,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.2685100089386236,
     "ROA": -0.0023999999,
     "PEG": null,
-    "EV_EBITDA": 5690.948,
+    "EV_EBITDA": 5566.525,
     "BuybackYield": null,
-    "PriceToFCF": 55.65058475299477
+    "PriceToFCF": 51.03141981767857
   },
   "technical_indicators": {
-    "RSI_14": 64.8856346088882,
-    "Momentum_10": 6.268771275868411,
-    "MACD": 9.066694945651534,
-    "BB_Percent": 0.8821654012989973,
+    "RSI_14": 40.35401381243161,
+    "Momentum_10": -5.956503345454605,
+    "MACD": 4.992342694319461,
+    "BB_Percent": -0.1072925279252087,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8088627042632386,
-    "QualityScore": 0.3631384838807176,
-    "SignalScore": 0.4107848389768713
+    "ValueScore": 0.7696493646984569,
+    "QualityScore": 0.3707900569435676,
+    "SignalScore": 0.624274739942138
   },
-  "volatility": 0.0444743854191559,
+  "volatility": 0.0445436129460361,
   "beta": 1.298,
-  "return_6m": 0.0362877386256355,
+  "return_6m": 0.0244983256568158,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 290.19
-      },
-      {
-        "date": "2024-12-10",
-        "price": 276.43
-      },
-      {
-        "date": "2024-12-11",
-        "price": 278.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 282.04
-      },
-      {
-        "date": "2024-12-13",
-        "price": 273.08
-      },
       {
         "date": "2024-12-16",
         "price": 273.33
@@ -537,53 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 305.29
+      },
+      {
+        "date": "2025-06-09",
+        "price": 309.02
+      },
+      {
+        "date": "2025-06-10",
+        "price": 308.12
+      },
+      {
+        "date": "2025-06-11",
+        "price": 301.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 298.96
+      },
+      {
+        "date": "2025-06-13",
+        "price": 279.95
       }
     ],
     "current_price_data": {
-      "price": 305.29,
-      "change": 0.29,
-      "percent_change": 0.1
+      "price": 279.95,
+      "change": -19.01,
+      "percent_change": -6.36
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Monday.com (MNDY) a suscité un intérêt croissant des analystes financiers et des investisseurs, avec des recommandations positives et des performances boursières en hausse. Les derniers résultats trimestriels ont dépassé les attentes, renforçant la confiance des investisseurs dans la société. Cependant, des prévisions pessimistes de JPMorgan Chase & Co. ont pesé sur le cours de l'action, malgré des signaux de leadership fort au sein de l'entreprise. Les récents mouvements d'acquisition et de renforcement de positions par des fonds institutionnels comme Lansforsakringar Fondforvaltning AB et Wellington Management Group LLP soulignent la confiance des investisseurs dans le potentiel de croissance de Monday.com.",
-    "sentiment_score": 0.1,
+    "summary": "L'entreprise Monday.com (MNDY) a attiré l'attention des investisseurs avec Wells Fargo augmentant son objectif de prix à 365 $. Les résultats du premier trimestre 2025 ont été positifs, avec des revenus et des bénéfices dépassant les attentes. Cependant, malgré une hausse de 3,08% en une semaine, le titre a connu une baisse récente, malgré l'optimisme des analystes de Wall Street. Assenagon Asset Management S.A. a récemment acheté une grande quantité d'actions, tandis que Two Sigma Investments LP a vendu des parts. Ces mouvements suggèrent une certaine volatilité et un intérêt croissant pour Monday.com sur le marché.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Wall Street Analysts Think Monday.com (MNDY) Is a Good Investment: Is It? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0I3TnBoMDdPOW1qb2dMRWtuUFBVTVFzbnRESnRGVHhUWUNmangtNmtUTmo1NXpqa0VTWjB2ME1JenVubDJjOUZIQU5fcHAtdGNmYUdBVkdMaXNCdmZxTUlFalBjSjB1c2JtY2VKM01YdUxlRVhvM3pHSFdPQWFIbXFidUk4Y3Nrc2RWM2ZVdVA1bWswZTVj?oc=5",
+        "title": "Wells Fargo Raises Price Target for MNDY to $365 | MNDY Stock Ne - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlVkNGRfRTU5NFotOXQwUTJXdGNRdzlxOW1NN1ZFbDhrZ0pjdWhWeDlaTWJYMUlNZTlPWmd0OUZObUdsQkcwXzlScU4ydXFRZkplTE5xTXJUTVR5Q1N5M1RBYklTMTlFd3ZVUmtNZklHaGU5MFdmQjBUcVY1V0dCZkZvdml1Mk15YWZPTGhwYlVlMXVIekhmNGt6LTV4RGtDOTJ5Wg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Monday.com (MNDY) Is Up 3.08% in One Week: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPNU1nNmhHV0VoUTlPVVgtdUpDTThXWWZpRDh6UHVaR3dCak9oN0gta3A5cVNVc3VsdlNHUVU2dzI3UmtNOUo3dUsyRFNPTVVrbVFzVy1lVzExUlhaVktVZ29IWmphYUJwRm9nSFQxVDNfckhp?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Monday.com Earnings, Revenue Top Views. Software Maker Set To Break Out - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGE3T0x1TUNMdm41MGY5MGdkcmc0bG9IeTZCdjZVV1huX3ItNEJkUjVXVWt3S3FLVGt1Y29yclJXY1gtYlJ3Y1hMTzU4UGN6NFJhT2RLblRFRHAzWHptX3oxTmYtQnZDdFA3WkhiUkpuZmJBRmNXSkR0TWQ5ZTVtVlVDbzFaYjVTa3Z4TkNOY0xzOWE2M1dv?oc=5",
+        "title": "monday.com (NASDAQ:MNDY) Given New $365.00 Price Target at Wells Fargo & Company - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWtpVXlmY0JyaVJ4UEt1NkdKbzFCU29EOV9zbnJpRERIMUpITEdYVnNjUFFWTEpLelBoaEJveHBObTJVUWgycUVMU1hDZnJMV0p3UzczczNBZThVVHQ3b2V6NDREUndsSHd0dGRZRUJBeXNvdXdRWVlsdjRfaHl4QTRCMW5WVFluZ05XeWxkU0NtWm9vVzhVaEpDRVJpMWxFcFFVcXFlUEZuUWQ4NDFzTDBkcTFyZjBGSUQ4OXFvdmlBT3BZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "monday.com Ltd. (NASDAQ:MNDY) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYkRSTW0xR20tVV9DdjFzVkJZXzRzdVp5ZFNTTTF2SENLSE9FVzNVV0V1U2w3ekZ2QjVrRGhhMk85UEt1RWJ0M0M3YzNWQXdkQmpxQ0JHZjlOVmo0eTNlcEVrMWlPNC1MOThuXzdlRlZMemZtWjZPQldXNW8zRnRHd2R3N3F5d0MtNWV3VjA3QVJSeTJjU2FoS2VjNnFFcUZJLTBOWXR0RmFpQWY3QU1FSHhxYVV6NUhmeFVhb25RNG55Mi1wOFFnaEJ0VDZnQ21yWVE?oc=5",
+        "title": "Why Monday.com Stock Soared on Monday Morning - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUkyZ2JIWG1KQTJuWGhJQ1pWN1VmU3lORjFTR1BBYWRPd0VpLW52Tm5uRnhPZ3h0WERrTXpPLXJ1LTJTVDlsWXhoM1BVVC1ibWxZZ1NtNWV5NmdnX2pENHV6Rkc0QmlmY3pnYlJqQ0J6MzVuZnN0RXl5Q2lqa1h6ejVqVXNybURtcGEzUTNVaG1vQnZ2MTZDWWxlUmN5bkF2Njk4bEplNzQ2Vlloc2FPaU9ZdlVMRFlPUU1XNUtOWlJtMjREcFpjWjBEUGpmdw?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "monday.com’s Enterprise Moat Is Widening (MNDY) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fTzhrUDBVS1lMZnZaYzlLQlBmR2hXV2hvQnV2VU1vYVcwUDlEQzhlTFVjNENrY0RGLWdQZVBhYVBENEQ0UzJxQkpfUkRHektMZVRQUXBkNlo3MnQ2M2gtczdBcUtnNEp2a3d4V1E4cGk3clZ5anhBY2YzS24?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "monday.com Announces First Quarter 2025 Results - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT08yUFFuY01Pdk1sSXJGbVh4Vi1KdDFpNW00OVdxTzUzVkNQcU8xYlZIT05rZ29EdU41VEVRSWJmblN2QXMxMGg4WU1BLXFYaFAtV2FWNFJNREdDN1VWWlBHazF5U1FhZUpieHFpU213Tk9pZEN2YnBvV1NXTG9uN05jaWV3SE1UZVBGbTBlLWctaGgtOU00a3p3?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Investors Heavily Search monday.com Ltd. (MNDY): Here is What You Need to Know - Yahoo Finance",
@@ -591,8 +576,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "8,091 Shares in monday.com Ltd. (NASDAQ:MNDY) Purchased by Lansforsakringar Fondforvaltning AB publ - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzlMdEd3djNVQkRGc0RONFNDRTZ5RzExbGVyei1iOGZGZ05VWWhUZEU4Y2J6Rk9iRVM0c2dZYlNBeXN1WU9zN0lrUTM5ZmhKRTl6dVI2OTA4ZTZaQVBKdWNVU2xFVXhRRUpUMXVxMExwUV9QbTEwNF9sc0hLNlBwQjRXdGUwSXBqQkpickRqZzdLYjZjUXNHMHdRRVNWYVRuOU9lM1FWaGJ3WERqdU9fOTNxUTNnbHZJZE1TYjNzTHNQLWFSelVuUDMtVTlnbk4zNHZVbjdFcU1EVGtUUlZoUjlRdFUwZ1JRWFE?oc=5",
+        "title": "monday.com Ltd. (MNDY) is Attracting Investor Attention: Here is What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcm9iaTlTRTlsNThmVDFFSjhiZzdqVmhuMm1Za3doLWpSVTNxTUFjZUFVSUVIdnJzTE9rTnVyQnlEUnhfOHlGcUlsSjJjYXI4bHNSRFhJaU1KdUUzNGFwc3piZVhnVHoyYnN1bUc3dWJCLUx0SXNWLV9SWlkwM0Q2bWV2NVRBd3Nsc1ZPblFsdnpIekhnWm00UktIdzUyalVQVjNVbHZyc3F1VHJN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Monday.com Earnings, Revenue Top Views. Software Maker Set To Break Out - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGE3T0x1TUNMdm41MGY5MGdkcmc0bG9IeTZCdjZVV1huX3ItNEJkUjVXVWt3S3FLVGt1Y29yclJXY1gtYlJ3Y1hMTzU4UGN6NFJhT2RLblRFRHAzWHptX3oxTmYtQnZDdFA3WkhiUkpuZmJBRmNXSkR0TWQ5ZTVtVlVDbzFaYjVTa3Z4TkNOY0xzOWE2M1dv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (MNDY) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmw2RTVqWU5iOHJXWjBEZllmWElxVkN1ZTV1dS1XWDhjY3QxSmhaeEh6bHZwQ0w0VWR5NGdZTzVoQWtzX0llTlM5eklsd2RGdnBlbzRnZndrLXN2T2xUZm1KdkhuOHZyYjNHNXRZVlVlXzFuRFNfVmwzMnMwZTIyQ3FfOXNYWjdwa243R1ZnOUN3SWR1TVFaTDlTb0hraVRFcGdPeXh0T0xJUkxRT3ZENHlXMS05OUYwSDlaa0VrSFVDYWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Cuts Stake in monday.com Ltd. (NASDAQ:MNDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQXlJOXdidHZyV0x4NVA3VVlfWVp2QllZSjlfNU5Bbk5GR1NWYXF2eGhtSDF3dzY1bWZXdXpXOU9hN0d5LWs1ajVVM2ZicDhPQVhINU5PVHVjYUZUVkNnY181YnF0MFN2RUN0cGdJZXFra2ltdEJzSzZjZ0hncnB1aUtNMmxrWmpMcFZsdjItYnVsRFIxdUhyWVNRYnk0TWI4T1hRYmY5VlNQZ3RBZTVuR29VZ3FJNUtQNVF4U09XUEJMR0xlQ01wdXlFZFhkTWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "monday.com Ltd. (MNDY) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NjNKTVVNQ1Z3dTRnVEhtb0w2RjB6dzJ3Rloyd1JRdXBQbGludjc1dk0wdnUxejNMaTZrVi1hZWloZDZra21EMmpFNFEzU1ZpeGxMalk3WC1CQ2UtSzA1TTB3b2ZDS0VrSHVwVHFRaXk4ejRhWl9EakFlcXNTdjQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +606,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Monday.com Stock Gets RS Rating Upgrade to 85 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeURiQ08zNWhPLWR0Mk9Dc3lIRXFta0k0RWh5SnVEck5DbElIS25Jb0JMaTVRN2pCNHlUamtZc0hvNGtpSk1xZEhZZFZhSVFnc0luMzFxRldrNk9Wcmc0dHR5NDBEOFFzd0NNUFk3QzhKUjlDUVZPc05Pak5yc1VLM21qTlRaZ0ktN05TOUhHMDJEUQ?oc=5",
+        "title": "565,200 Shares in monday.com Ltd. (NASDAQ:MNDY) Bought by Rubicon Global Capital Ltd - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMXlxQm5heFFaT1VmcGgzSnRoU3l6cGZ2UDdBeDRhZTNiUktNWDR5dDVObmdlWG0zNm5KbkVuNERhMHZFVFVwV0hvUWs4Z2E3NnF6emJKUFo4ZGZ4S1pub3pnZzQtRGx3N21vclhrWnJLcDYweTFFdFdUWWw4VVZMcTg5cVpBRDV1Vjh4SUpORXA3UmMxak51NWlGeHRMMnVRRkpNYi1VMXdoX3pPekxrVmtVaS1NeFFXc3FjOEQ4ZGEtUy1UcE1MR0FUVS1wUUhzYmVuNGFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Monday.com (MNDY) Is Up 3.08% in One Week: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPNU1nNmhHV0VoUTlPVVgtdUpDTThXWWZpRDh6UHVaR3dCak9oN0gta3A5cVNVc3VsdlNHUVU2dzI3UmtNOUo3dUsyRFNPTVVrbVFzVy1lVzExUlhaVktVZ29IWmphYUJwRm9nSFQxVDNfckhp?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "monday.com Leadership Takes Center Stage at JPMorgan's Elite Tech Conference: Key Updates Expected - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0V6dl9jeGRTMzVQTy16MDYzc3dkLUZvM1NTT0NJX1B6R2k3OUZNSjI3NjJwMjdxR09LVWU1SVF0Um9IRTk2TXBVQXVfdElrMmdjS011Q1dxMEg2UlN4RWtfZFpiR3NJVGJMSVR5Z2J0Rk5oY0FZOC10TUhmMk5ZUE5EYWlVZWllN25SaWhibWU4ekxvRV9fSDBkMWRCTWtRelF2Q3l4eDRvUWhTeEFwTEVreUI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Monday.com (MNDY) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZGRJVHRBRk1HaGIydzJIVi00V0lTVERZczlPYVZWMEQySG0ySDN5YU5PaVJUVXNpcE9uU3hNN2djX0lkUTNsLUNHSTNuem9aaGI5X3VNQnpMWjVGMFVUNDlRd2RNeHZvYl8zN19DX1pkeFRGYnUtdWZEXzk4UQ?oc=5",
+        "title": "Monday.com (MNDY) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2RyY3RFQ1JmRmM3TVpnVkR3Y0UyN2lpQl9PTUsxSXpGbWxZNmdOQjJwcmtGbndrSjRWVUJMaVVBNFBSejY0cm5VVEZZMEc4bU9RU3lETmdpWmlxQlhWdllwZndGZUhGTDJnSmxRMWlLV1U0QmVaNDRiU29BS1huOThjd21iTC0xMEpyYTVXX3NHZjdBazAwY0dVQTVkWndmSGFZUnQ5WQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for monday.com (NASDAQ:MNDY) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnZTUTU0a1NVVXIxbDFyVnFPQmRjWmhzc0h3RjB3N0FfLVJ2bVB2ckdPd2NkZ1RoSUUwMm1CSkxRUzJ5a0FkMkNvZzdkS2N3WTJqNkpnUi0yM1g3bWdZdXJzVEFZdzItT0RqbVZCaTc4MllQVURnV2luOVVjaGRHaGpSVngwcHZHaGt0SmN2dE5GaFlIUFg3Z29nX3JQQklobGgxQnNUdFc4am9oeFhIdUt1ODB5NldkanRiRjgyNkVucWhvZEI4cTdiZzNqdWhoaWc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Monday.com Earnings: What To Look For From MNDY - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0hhak90TkFyejNZbnZ1V0MySFdfMjZ2NnlXQ28xMUJ1MXpYaGc5X3VlU3BnMl9MYXA0NVFJRlNvcmlsZnJjOEFVV2xjRndrMFo3MXp6OFJPRVF1TV9fNk0tTTdXYk9ILTZiTHU2emlwOTh6Q0dZSU1qZ1VRZHV0bQ?oc=5",
+        "title": "Toth Financial Advisory Corp Acquires New Stake in monday.com Ltd. (NASDAQ:MNDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGtMenMtVG40ZmFhQ0hRRmFCbVFPTktLRGZYU2dzLVh3TVUzdW9LbEJtSW1qRGhhV2l5bXYyaUZNLXhsVHB1dWlvWHV3Z3AtbDFJVy1JQm1vYll1dUJKTjN0SmkzcjEzVUI2Q2tCSjVOV2RqRzdCdktxWWUyS3NDYUFhZUctejN1SWdHX3VkT00wUzNLekZwLTFUcWVuWG1lVFNzZ1BjS1N3bURTb1pFVDllcVNFRXJvWFltTmF1bmtlWDJTNi1QZFhlazRsYzg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "monday.com Ltd. (NASDAQ:MNDY) Holdings Lifted by Man Group plc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnZvOXE2RTZkTXRlbk1wUUIxQm1ReUZxcWtnMU5BTHB1b2pzOFpfc2V3dHBfV2Q2QVowX1U5aklrbzNTZkFDcnlMSE5OSm9CdXExTDF1ejNrOHZMRkN4clVGLVV0Y1hZQmhDdDlyVUUtdlhZQkxBckpXTUtfdGlFUjUxQVVVQzFXYXZLd3k5SVUtNlJPQ3FLV2QxeTZ6UmcySlhNazZvLUhzQ1BGMGg1LTJWRlRFR21oblE?oc=5",
+        "title": "Why Monday.com (MNDY) Might be Well Poised for a Surge - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qai1VRkRNSm4xbHM0NnJqMzdJc2l5RTBKWlRBbTcwX3B2V2pOT005bndJSG9TVFdMVE5rT0ZiVXk3eVppSWZyNDdITjJ0M0ZubXhHRklBcnhFeWVrSjFhN2Z2MW51eXg4ajVtMjQ2Z0l2MUpuSndkVklBOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "monday.com Ltd. (MNDY) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NjNKTVVNQ1Z3dTRnVEhtb0w2RjB6dzJ3Rloyd1JRdXBQbGludjc1dk0wdnUxejNMaTZrVi1hZWloZDZra21EMmpFNFEzU1ZpeGxMalk3WC1CQ2UtSzA1TTB3b2ZDS0VrSHVwVHFRaXk4ejRhWl9EakFlcXNTdjQ?oc=5",
+        "title": "monday.com Ltd. (NASDAQ:MNDY) Shares Sold by Two Sigma Investments LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXNlN0RWZ0tYNFpnLXBkbGVHNjZZTFV1Q0g5amtuaGJYUkZfSWJBZFBHUk02bzRyOS1YVVZkVVRVMWczME9kdzJGX0hBMDVfSWt3WFh5Tk5ubHRWSTdVTHZ4eElPcGR1ZUhJYUsxYUcyNDJBZjJSN0xMYXNaYVN5bHYycEtueHBFdHRNcjhCS2JoQkExbUVnMHRhS01NbldFN3NSQjdweXhydUkzM1d1UF8zeWtXeUlMcW5GM1ZwVExQclUybnVvSjRB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Acquires 13,827 Shares of monday.com Ltd. (NASDAQ:MNDY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHV1eFV2dzBrMU9TWnpmckQ5LWhaUnlXU1RvN2hyUjFxRGxjblNSM1JmSExwRnJ5VE1penhWTjYyRDJUUFlWWGVMOWJRbGw3dVRzd0tia05IakJyTDZNTzNhZjNEVTJIQ3RWNnptZUl3eHduZGpqS0Q1ZVRQVlZzZkw5NmFrTTBzQkcyOXdwSHVzZGVxd3MwQk51N0xZamJhRld1YlpBSUQxTkxvMmlsRjRXOEU2RnYxZ3h4SndvWjkwQ19zYWxtM0FTak40Ui1sYXc?oc=5",
+        "title": "Wall Street Analysts Think Monday.com (MNDY) Is a Good Investment: Is It? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEhjTzdlWXpSYW4wTk4yS2FaMl9CRmlYVDdRTklPbzRHbGtHSHRIU2QwZmFjNXVuMWhNY3JpZHp6a2traW83OWt6VEdoNGZZMGFfLWs5QmpRVFBTQzk4dEV5bGp0UDZRUjJUXzJ3cUVka3FJZVZrM2dWN0lNcjNrM2lHYkg5Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Monday.com Ltd (MNDY) is Skyrocketing So Far in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZktwU1pRRGpWcGVzUjFfNG5WVDlTS09TeFRpRmNYQ2xDZmJQUVdDaFM2QktyWUJWV3NnMzVvZF9MRVBNcjBoZVZZX1U5eldLdWFyQ0hOazl4ZmZzVFVKTkZmTDZfTHVHU01FdjdVdnliZXUxYmpYdg?oc=5",
+        "title": "Assenagon Asset Management S.A. Buys 389,073 Shares of monday.com Ltd. (NASDAQ:MNDY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEZoY0FlZGtDR2JTTmROU3RjeDY1ZlZfSnBEaTI5NDF3RUlWQjVDNDRMTDVkY0xmMlMzR3liM1JSc1RZSjg1M1g5bmdLRkRTREYxNmJhNGc1VV9YWC1iWmw2UDRnc1JQekxYOXBqdVdFdUZlaXlQaGFnT005Zkw3b29wazFmNW5vazV6Y3hvbjlscmt1WVNkdjc0R05hMWlPaW1Jam5IMWp6cWUtMDVFSndGdE5kT3NsUlFFY2djX3kyRGZfcHpEal9Nckd6dnRvZWFqbFlGazNhUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Monday.com (MNDY) Stock Is Falling Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rVTVBWGQ3bFpKZWVDX3BGcmNpTVA2MV9QOW53Qlp4dUN2QVp3M0h0RE5tMVYxbm42WEsyWW54Yks2X0QyZ3hRV2JpR2x0ZXVhNDAtUWVVMnpEdzhrLUtnMHJDbUNVNXB1LV9FTVVOc29uQm9EaFRiN1E4NA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why monday.com Ltd. (MNDY) Soared on Monday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJQkl3WU45aklBZnBpTDJwZmFTN0ZKYTVXUnREMDAtaGI1VzJScF9xVU93UlFhZFBrbEFkaVR1V3ZLRFFDU1ZKMlFMNUhLUFNsVGRsQ3g5NFpkX2pZQmZ6N3RiaVlPTERfLXltbkR6aVN5M080b1Z1Yw?oc=5",
+        "title": "3 Nasdaq-Listed Tech Stocks Flying-High in 2025 Signaling More Upside - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uWml2VUxIbmZ1SkMzajI0WmtJR2pxenZSTEhENzNNM3BVcEZoV0J6ckN6d1lsNWRSTkh2czVCSnRhOUltNXR2U3gtNEs4ZVFvVV9oX1hhaXA4NmtGZVVqZWE3NE5lSUtXRHo3c1VhZW9wdzBnTUdldjJfN3BvQQ?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "monday.com Announces First Quarter 2025 Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT08yUFFuY01Pdk1sSXJGbVh4Vi1KdDFpNW00OVdxTzUzVkNQcU8xYlZIT05rZ29EdU41VEVRSWJmblN2QXMxMGg4WU1BLXFYaFAtV2FWNFJNREdDN1VWWlBHazF5U1FhZUpieHFpU213Tk9pZEN2YnBvV1NXTG9uN05jaWV3SE1UZVBGbTBlLWctaGgtOU00a3p3?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

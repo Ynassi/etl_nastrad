@@ -2,16 +2,16 @@
   "ticker": "OKE",
   "name": "Oneok",
   "sector": "Energy",
-  "market_cap": 51026190336.0,
+  "market_cap": 52490952704.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.955079,
-    "PB": 2.3883872,
-    "EV_Revenue": 3.34,
+    "PE": 16.413088,
+    "PB": 2.4569483,
+    "EV_Revenue": 3.377,
     "ROE": 0.16409001,
     "ProfitMargin": 0.121470004,
     "GrossMargin": 0.35621,
-    "DividendYield": 5.07,
+    "DividendYield": 4.98,
     "DebtEquity": 144.846,
     "CurrentRatio": 0.666,
     "QuickRatio": 0.452,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.07043269230769231,
     "ROA": 0.06048,
     "PEG": null,
-    "EV_EBITDA": 12.793,
+    "EV_EBITDA": 12.932,
     "BuybackYield": null,
-    "PriceToFCF": 29.085537565415244
+    "PriceToFCF": 29.757069542662116
   },
   "technical_indicators": {
-    "RSI_14": 46.01744015080975,
-    "Momentum_10": 0.3932649428817433,
-    "MACD": -0.9071449249607468,
-    "BB_Percent": 0.3544563068223574,
+    "RSI_14": 55.19931221810388,
+    "Momentum_10": 4.14399586253499,
+    "MACD": -0.357691875153904,
+    "BB_Percent": 0.8472216210993696,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.933096980378961,
+    "ValueScore": 0.8872722219652013,
     "QualityScore": 0.3567603871488237,
-    "SignalScore": 0.6061507771925976
+    "SignalScore": 0.5362190462836123
   },
-  "volatility": 0.0235608659209694,
+  "volatility": 0.023477893972747,
   "beta": 0.931,
-  "return_6m": -0.2329774497373729,
+  "return_6m": -0.1728203126272468,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 105.12
-      },
-      {
-        "date": "2024-12-10",
-        "price": 104.34
-      },
-      {
-        "date": "2024-12-11",
-        "price": 104.33
-      },
-      {
-        "date": "2024-12-12",
-        "price": 104.47
-      },
-      {
-        "date": "2024-12-13",
-        "price": 104.03
-      },
       {
         "date": "2024-12-16",
         "price": 102.85
@@ -537,42 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 81.72
+      },
+      {
+        "date": "2025-06-09",
+        "price": 81.12
+      },
+      {
+        "date": "2025-06-10",
+        "price": 81.72
+      },
+      {
+        "date": "2025-06-11",
+        "price": 82.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 82.65
+      },
+      {
+        "date": "2025-06-13",
+        "price": 83.75
       }
     ],
     "current_price_data": {
-      "price": 81.72,
-      "change": 0.54,
-      "percent_change": 0.67
+      "price": 83.75,
+      "change": 1.1,
+      "percent_change": 1.33
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise ONEOK, Inc. (OKE) est au cœur de multiples ajustements de prix cibles par des institutions financières telles que Scotiabank et Barclays, suggérant des perspectives divergentes sur sa valorisation. L'annonce d'une acquisition stratégique à 940M$ renforce sa position dans le Delaware Basin, mais des prévisions pessimistes de Barclays ont entraîné une révision à la baisse de son objectif de cours. Malgré des annonces positives sur ses résultats trimestriels et une augmentation de ses participations par certains investisseurs, la volatilité de l'action reflète une incertitude persistante quant à la perception du marché.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "summary": "ONEOK, entreprise du secteur des pipelines, a récemment annoncé des résultats solides pour le premier trimestre 2025, confirmant ses perspectives financières pour l'année en cours. Malgré une baisse récente de l'action, des investisseurs institutionnels continuent d'acheter des actions de la société, soulignant un intérêt persistant pour sa croissance future. Les acquisitions récentes de ONEOK semblent bénéficier à l'entreprise, mais le marché n'a peut-être pas encore pleinement intégré les synergies potentielles. Les investisseurs pourraient trouver des opportunités d'achat intéressantes dans cette valeur à rendement élevé avec une croissance prometteuse à long terme.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Major Pipeline Operator ONEOK Sets Strategic Update at Upcoming Investor Conference - Live Webcast Available - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFJBSi0wUWhrTE1CeFB5SHBGaVR3ZXN6TE04MGlxcE5tTGZFWEEwTHNCcTlYdmRWekhrdVViV3N0Y1RNWldrN2IyTEZOT2s5VXhoUWM5TENwVzJmRy1uMWF4eEFDeUpid0pJWHFuSlhSeU41cnNQQjhIajdSM0NlV29ZVGZVUWRFZlJDdkN5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verity & Verity LLC Boosts Stock Holdings in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXdjcHhpcmxMVkN4TlBHV0xic0ZpOFc2NUJuSEtIcUw5RHN1cEhsVHFZdllpaFprU1pzRWZjSkd3QVdzVzlqY3RCblFJRjZuWVhEcUxYdEdZaVhVb1A1Q245TFZPZTJYOE1Ydzh0RjJicWQ2eHVyQ1doOWF3TFBmWlZaLUUwSjB5UmRGOHhwR2NKZ21UUnp4R2x3Tm1nNTViUl9NWEVUeEpLUWU0MUtVRDJSOThxREJGZHNFS3B3?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "ET vs. OKE: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5faEpweVM4ZGNoYjJpTlRFUEEySFI0TVQ2NUNabVdPaXN0aW1COTFpVTlKbHpIUjBTS1hVZ2ZiVVp6c0JTNF9RTEk3MjN4RFAxRHpaeGpoeUw2MHhHeVQwTFpiQ1BxMGpRblVrRExDWlhpYklDRlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fulton Bank N.A. Takes $316,000 Position in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUs1YUtGRW5zLWlQcDdMaV84aUx4bGNnM0pwd05Gd0xoVjd1SFQwSlFJWE5QbDFzbW5aUWFkUjFVTXA5cXNCS0dlQjJFMGMyTmlaVExKMGlsbFVhbjJmMUpTQmxTWXhUbzhuSXlpWUJUZnhkeU1CUXlyeE03MXZ5YnNnNC1ITUh4enNxaDgyMzlLUHJCS3FlWmF3b2lGN1RDa0lWMFdra0p5a2JHZHpkYVdwcXRqM3BMMWc?oc=5",
+        "title": "ONEOK Gains From Fee-Based Earnings and Strategic Investments - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0YySGVGQVlLSFJOUDJoRXNhZF8wWkc2VXRBZUxQTElJamhBS0o3TDdXb2VTRm1fWk9zUUxPMUtMRVVVMTR4NE1scmNxM2dvNjRkMG9HMWdWRmxyWDMtNEo2SWpna1pwYnNFR2FqN2k5N3dmR3ppVUtTT1g2RDE0NVoyc2R1NEJhblVRc0x4YzRZejhoNU9aWDlxbDdwTHFIZFdDdXZMdHBOQTREWDF0WFI5b0RlWE5v?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ONEOK: Now Is The Time To Buy Again (Rating Upgrade) (OKE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQl9ydEVmUG1VNHgtLWZlWFpRR3l6Ym1PeUpGVlotUU9UdEVidmlKbmE5T2ZLNTB4SXh2cWZRYTRmdklrd0htbno1S2N4OVRxemhKQVltY3d5SEVXSkJjTWxZUTFLbGVmWU9neC1qbFI0SnRfV1hzNHZQcGNXNVk2UGUzUHdZOFVLVWpDcEtCX3dQUzJF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ONEOK Takes Complete Control of Delaware Basin Operations in $940M Strategic Acquisition - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlF2YlBnVE9STjFkVDRUOG85WEw1MElPUXlFTkpLQVgwbGdWbE91b2QyRHpSclJzaHVFamJHcmlaRi16UURBbnJTTEdleE91ZUxPSnI4N0d2QTlHUEhqR2xuRk5sVWg2X2RnSEpHTWVUT0kwRzVSUC10dzNoYk9RMWdMSmxxelZudDNDT2tzQVE1YzRITHZqUTM2MS1wYTYwSUFERmRYazE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Scotiabank Adjusts Price Target for Oneok (OKE) | OKE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlMwNjBJNTJuVENtX3VvTktMX1FQTlpBZEJrTm04eVUxWVd2ZjlhMnZtZHM2VnN6eklVSzctMklURjU0Ujh3TmVwamRSUzk4dkJDRnV2SUk4Q19yQ0NMZzduXzB1TnROYzJJY01zcnQydGRmVUtIVG9pXzU2VzVTekNpb2kxYWMwUmZ5OVlKV3BtMHRXSnp2ZG1TM0RMelVTNXc?oc=5",
+        "title": "ONEOK Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEd1Z2xTdFlpNDVOMHNhdk55eUtXcEVMNTFPUTh3cER5WE1nd1pHQmROQkhfcHEzOUM1LTlnR29XQUVvZHN2VDdaZjh0YlBPWXViMXlNT1U0WTRlOTZ1eDFHaEc0MHNUclJhbzdEVUZQWWJGay04R0Z4SnRHRldUU0dHblFNWVNWa1E?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,24 +591,19 @@
         "label": "POSITIVE"
       },
       {
-        "title": "ET vs. OKE: Which Stock Is the Better Value Option? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03X1VULU5fXy16QTc4MC01TUEtWU11eGpIa042UDAyRU02REdNT0pSR2lVVGIxc0xCS0hndEd0bm1UTHBBT1RBbEpNWjgtOGRvMnlCNUdhb1BPdjJvemlidkxKRVczWkFaZTcwMFdITUYxR29ZSERZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Gilman Hill Asset Management LLC Trims Holdings in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjhTX0VraFZzZmZoLUxyUXM4S3U1Q1VvNUhSY0VXN2hIcUFlYnZseG1Hdi1YSXMxdW50ck1aSGFORm9GcXlNbTdVbWE0SGt4OGVyVXU1OWIydjZzZGhYY09VckdDRHBoakkzd2ZORDlIcjRiWW91MUhZSUZoZTctVXhHUGtJdWF1QVpNNTZDNWJwUGlobk9TVkxtaWpkMnZwMTltSUZ5dFJ6VlBLWjh4VExoX2lkQ3dNUVlKTnJwaTlNNTBObzVlcA?oc=5",
+        "title": "Oneok Inc. (OKE) Gains As Market Dips: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPam5waFFXU09Bb1RUdWd0N3RNMGR3Q012SDAwMWhKd1FKWDhxQ3BGSTlKdkdzTzlBTWw5dHJSanVncTNxcEJzRWZxRGFTYzR3cWVPMzdyS2o0cDBRTGQ4VzFFVHZ6cjVFZGRLaFdXcnBrQXlJcVkwMS13bVd5LXNfb2tDd2dPWU9QeE1GQXNDQlduanlKMlEzNGlNSEFzNm85T19PdXFXMGYtQkRpamlRcFB3TGpob0NtcWhpSTQ4a0hHTk5fRGVGNlE3VmZfNEw5?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Scotiabank Adjusts Price Target for Oneok (OKE) | OKE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzU2TDR5SHh1c0xnNW95ZEJCWUpHT3pGMzh6bHhpOTFwWjdRVm5JTVNUVnJMUU9HSVpwaGRlOWp6WThZNTdjM3VNLXQ0WFBxY0tyYXZLbGRzZmF0T2hTT1RJbXFZelNnMXpoY2F5OTdoSUMxc1dBUzJVUXA5dXgwMjhHR0VkcjRfYWVrR0FiY1dfbUx3SGVXX0tIOVdBTWww?oc=5",
-        "label": "NEUTRAL"
+        "title": "This 4.7%-Yielding Dividend Stock Has High-Octane Growth Coming Down the Pipeline Through 2028 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlFGVjY5WGJOWFZGUW95ZHo0a2ZyWm9TQl9OeVN3eThHMzRGb2VRNVkwWk9HNjFJcnZCMnB6cWxGWFJOMWNETnN2OU1EMDQ4bUZpSHd3cWtmdmZrY3M0Tk5qTVJVZXZPeXU5XzhCMnQ2NG9RcXRUZU1NUGFOSTNvamdFSUhXallDWExYck1oamZKNkVyTFl1UQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Barclays Issues Pessimistic Forecast for ONEOK (NYSE:OKE) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbm9pZHJhMXlnS0FJbHFrVVkwYzhiODc4QVdrNlJ6dU1YVndGQXhsOThsR0pnVTJGLUtTdFdPcl90ZWtpazgydDR2YjBYN1Y0dGt5YTdRMl9kc1RqSnVyZThhQWxrU2R4dlpYRzRGY3VGZFJOX2pIRnJ3UGlPM09ad3ZYNFNZekx5Vk8weGZqREVGTWtwY09VQ0tlMWtwNHpOSFBqdnFfWnZyazZnSFgxUGNaYmZZZ3ZteVQxTQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Net Worth Advisory Group Buys Shares of 3,039 ONEOK, Inc. (NYSE:OKE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZi1wUXl6bHNXZGhMRnI5dndiZi11eHMtNUI5dGVKVFpmeF80eVdjbmg1NkVLQy1zRjFHbzVWcHFsVGk1QTNkOHF2aWdrVkM2Uks0NXVWVkdPZTA3RnoxQ3lxMmlWbzdrT09nT09YV1EwQ2xzdE9tQXBjUVpDSjF4b0M5UGNLVU82UGd0UWtDN18yUC1VWk9uS19QREpGMnVhNVMybGVoU1owcDkzZXFrT0FXSXhteWhSMkFQeDl2NDM?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "EPD vs. OKE: Which Stock Is the Better Value Option? - Yahoo Finance",
@@ -606,8 +611,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Scotiabank Maintains and Lowers Price Target for ONEOK (OKE) | OKE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFNCdnVfVURYLVBWSzlfMUxnaXM3bzgwN2xFeDRYdllfNUFNNG14RUtDcWNNUFdjZkRnb2R2dzEtRGpTYWNSX1BzMGI2QlB4TUpmV0pkV0kyYVVYQlIweFV4d21iLU14VjFGNDlid1lKOVlGUG5qRGlRYXRWUU1aZUxZVk50cGNjSW9NUGdTaERVc3NobG5pbXhwdmFYWjI1ZnVsT3ZfZUVHNVJ6cmRKOWd3?oc=5",
+        "title": "Oneok Inc. (OKE) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQW9KNU1HSGFpUW5XZU9RU1FyM292QnlRMTRYQlVzSGo2SVBDYno1X2ZUSkVia3BVN0NpeHVBcExRR1RJSkIxLUF1X1NFWXFOQ1RzN1BQcmswNHhFSlU0SmRKeldvYXo1NnBPUGFSQWp6T1NaOU05bFlSYkN6WUNlWTVvT2VxX3BLckJ1c0lFQWQwa2VrVWEtd3NPS2Y4Z1drS0ViTFhR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MMP Acquisition FAQ - ONEOK, Inc.",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWU5hSngtNzZYVVhla0tRSDhHUVBhWDc5cVVLTUVheFd6U1JjZTJPUVhKN1Jidm44emxDTXZmdkl3Z3BWVUtMUUxGMUlWR0c3N3NUVmp1YmRvNy0zcmVKMjJHR1lzZTlQdG9CeQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Market Has Yet To Price In Full Synergies For ONEOK's Recent Acquisitions (NYSE:OKE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkYtT2VRd0ZiR3VKc2VqamNjZVZ3eDlFMFotOTJ6ZnlxdWdOQ0NtUUtTcUdKamI1Y3ZMSnpoeUhXaGdCbnFyYzlhRjg2dWVqVFNsZ3NZSDB5am9FRE96WkRMcWRzazUtaUc4YjNFZFAteEVvZXlpT3FoN1FXNmloa3p4Q1kxNGdqbEhKWVBjeks5TDVaX25DUE5za0VqazJOOHU0bDhXTWFURkFhQUpPeWxOVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ONEOK, Inc. (NYSE:OKE) Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFJYWHJtOGN6X1BTdjcydU1JMjBhQzMtYmdHWW02UzBPS2VrVGVQTG5sMjRlRWtXSnM0a2o3ek5kaWtsb1g1ZC1EVVhYUmlIWXZNZXZpRDFsTnlIZTZXSmdTcnljTjUycDVHYldMQXZiMTI4bFdic19nNTUyaVRGR0VJU2RQZkF5aF9MS1llQXI2MWhBUnhuMVpQUk9zeE10b3lFQjFOeURnV3ZGZXRUU2JILU9wd3JFVWExTWc3eU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ET vs. OKE: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03X1VULU5fXy16QTc4MC01TUEtWU11eGpIa042UDAyRU02REdNT0pSR2lVVGIxc0xCS0hndEd0bm1UTHBBT1RBbEpNWjgtOGRvMnlCNUdhb1BPdjJvemlidkxKRVczWkFaZTcwMFdITUYxR29ZSERZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Farther Finance Advisors LLC Buys 12,166 Shares of ONEOK, Inc. (NYSE:OKE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1R6aWNiVjRCNzFEZTdsdkIwRTlQUTMxMXdNWm5tME15N3lrYW1OQ3JjYmM1ZHYtRDhlLWZCWE1rZGFpb3pyUXN3V0Y1ZUpBNE81YkNHTVIwdWl5ZkMtWU9TbGYzdjg3NkRfcnNrcmd3emZaOU50SHhOV1FvbllTZ0g3alVYd3VIRzZMbEZ2YzJQUDR3Q3FxMC1uYkhkT0xUb1R0ZlUzU3dIWVZLa2toVkVxMTduLTlMeVc2YkVSUlNLbHZXZnRqVWRCdDBiVWs4SjdNZmJXV2o?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,46 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Boosts Stock Holdings in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUZUSzlubGVQYTNsbHVJMFAtUjRvQ2JpVWJPVUVjbkxBNzJpX1NYbWZPS1lhMVFaUFNIYkhzbGNZc2s3emxaVTlQVWt5dXhWcjB5bkd0SjIzZGs2eE95NlJCRS1EV3U2ak9mRDZZbFpBd0FrNlYxcHFqNFRGSEEwenJFTnRqWHE0YlRoYnB6WXViQlRUSzNQckVMTG4xNjdrSnFjUjExNG9lczVkdHNlQnpkWFM4RjZOMG5RUHBPSG5VVGtueHlLZ0Z2cWFBQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Oneok (OKE) Announces Sale of 4.85 Million Common Shares | OKE S - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjZIaXY4bmtISHhIZE9NWTA4WWNfQ255cU5BUGVsR01SM1JyM3NDXzdMS0YyX1FwQkozZkNldndIV1FRTTZwRjZtcUZ0c25xR1ZQLVJkZGkxTnpKdWY4MXNiMlpraG5sRlpEMDJNdDBqREhlMEZxZjllUE56UjhDWDRkdEUtNUhmMEM3QVNUSVJoOExrXzlESTlSSk10VThmbk01ZFZsNTNvYkgxT28weVJNa0phSFd4M1Z3?oc=5",
+        "title": "LifeWealth Investments LLC Makes New Investment in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRC0tcGt3VWlCTTVLZUJYWnctcEZlalg1WnFnaTgtNklnVlNZNmZiaXVFUzlMNkp6WnpvT1lDZWpranpVS0F5d3JRcmZId2RnMzhCeWZ6Ym5rdzdOWG9yRlVxUERsYWVic1lEeTNvSHA4cE5OVWlIUTlTaFNfRDh5MmtEMG1udXFSa3pmVmhPcENSOFNMYmZQcVFFWFBSZnhmMjM5SnVCZndSVzB5SDYwZUkyaktUYmxJR2w3bnBMYkR6OGs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Buys 15,841 Shares of ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUhUQ2lIV0tQX0dYc2xmLXNhZHpwOXkwUkpYQjhwQU1XcTI5OHhhbG1ZSGlNYkRyck9rWUZhdUFlNlJIeTBQV3Z5bUZaM2pEWERVdXVVb2xyQlJlMF96anVra2VlQkVmZEdLQ1NLMHZMbUhxQk1XQks1UFY4TmNYUXU2OWozQjN6ZFBJbWhoRUd3MFN1TmhxYWFnQWV2b05RUVVyMzhKRFVfZ1d0QnhKSzEwN0lIWmZBM3BkOWl2d1R5dw?oc=5",
+        "title": "13,554 Shares in ONEOK, Inc. (NYSE:OKE) Acquired by Tounjian Advisory Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2pCME4yeEttZ0o1ZE82UVVUX0R3Y2IzMm0yb2tNaWFVSkVRY01FTWpQbTdCelppZWl2OFBmaE5PNXNJTjlacWZFVE5mSHZITEFHRkFPWXZEWFVUR2ZULU8xeXFtWTY4elAwSHFTZkN4RUNFSVI3Z1N0X2JRYm52ZVlLbUN0VnZqSkNyN3pCLWVnNU1scDZZWXFqZUJsMnozdjdTUnZXcW5COXlGdTZlV194RHhXNHhReW9uelpXSG5XY1lKMkM1bTRRTW8?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "ONEOK Acquires Remaining Interest in Delaware Basin JV | OKE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjJYMWpMRkZERVlDMGtrN3VDOXQ1MnpVWTgzVnNBRWUxdzVLU25LbWlpaUR1WVk5OGVtal9JQ0drbXZKZGdsVXQxR2NXT1IxSzRpS2RrUHY5S2E3Y01ZWDVrVFh5WTRucnJTT0g4bkdRWExoTDI2R1NiRW54a29WTzFBcEFMZ04xZ2R5dG50anpZalB4VUxWaS1iMVZnYUM2TXZBSXVna1NvOWNa?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AdvisorNet Financial Inc Increases Stock Holdings in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE1NYXlPT1lLYVlvS2R5aFdPcG5ha0VIcXVvaEdnb1VfUzF2X0tqTW1lRFg1Rm1VajROYV9feHVfN3ZKT015azJZRnVILWh2WHM5Zks1Z3p2bXZzbmpFN0g1X3IwM21vU3BKeGRsME1nR1dwU0l6ekNkNkxSdWhGaVVkVmhXYkUtOHMzaTRlMXlaRmF2enZDbTM5V01qM1VXY0h2N2FpYTRwTHpSRGpKOGNycllrSDA2ZWkxcVMwQUdOLXNWZkE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ONEOK (OKE) Price Target Lowered by Barclays Analyst | OKE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORF9DTlJUTEI5QmJsYTJwR19STEVZMzlBWmZJWWdUc0luRVZTUm9GMFdRcXZ4eHhDUm5MdFdWTFYwQjNhUkQwUmV6YUl2Q1NnZUZaNFd6WTg1R2lzamxXQlYzX3lzX2NIUkwwa00tUmpnUDJrRDdLSjZYNzZuVHg0NGxnX3RQYnpwQlpBYWo3TDY1MTExRWR5ak1YYTlFdnZfRTFRc0RDdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Smith Anglin Financial LLC Takes Position in ONEOK, Inc. (NYSE:OKE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRG4xMkRUcW55eEtZLTFETXB0cldwZzQtS01HZ1g0OUZLVExtVjhfVzZtUjE0dDhjYms1dUJlS0pFbFo2eHFWckh3TnBvVXloM2M1Y0hsX3ZOdEhCZTdtTkc3NUxXc0phRm9mYkRjX2NIUm42TXVROEZ1Nmd6REdnUjktb1ZoSlNjb0YwTml2bUJzZlllbXN2TEhfeGcxM3Bya1M2SG1laTNpNzMtYWtJeXhtUUJOa2J1X1l2c19FSFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Oneok Inc. (OKE) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQW9KNU1HSGFpUW5XZU9RU1FyM292QnlRMTRYQlVzSGo2SVBDYno1X2ZUSkVia3BVN0NpeHVBcExRR1RJSkIxLUF1X1NFWXFOQ1RzN1BQcmswNHhFSlU0SmRKeldvYXo1NnBPUGFSQWp6T1NaOU05bFlSYkN6WUNlWTVvT2VxX3BLckJ1c0lFQWQwa2VrVWEtd3NPS2Y4Z1drS0ViTFhR?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

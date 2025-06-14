@@ -2,16 +2,16 @@
   "ticker": "4631.T",
   "name": "DIC Corporation",
   "sector": "Materials",
-  "market_cap": 282341539840.0,
+  "market_cap": 271926706176.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.319907,
-    "PB": 0.7223448,
-    "EV_Revenue": 0.661,
+    "PE": 9.004828,
+    "PB": 0.69827473,
+    "EV_Revenue": 0.658,
     "ROE": 0.07675,
     "ProfitMargin": 0.02802,
     "GrossMargin": 0.21174,
-    "DividendYield": 3.35,
+    "DividendYield": 3.4,
     "DebtEquity": 115.704,
     "CurrentRatio": 1.691,
     "QuickRatio": 0.783,
@@ -20,25 +20,25 @@
     "FCF_Margin": null,
     "ROA": 0.02473,
     "PEG": null,
-    "EV_EBITDA": 6.907,
+    "EV_EBITDA": 6.816,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 61.36531900224148,
-    "Momentum_10": 7.977466836271124,
-    "MACD": 62.19336310487461,
-    "BB_Percent": 0.7811410595616838,
+    "RSI_14": 49.21196838470262,
+    "Momentum_10": -3.656491110365649,
+    "MACD": 43.49141099273493,
+    "BB_Percent": 0.4764851405624715,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935100538268248,
+    "ValueScore": 0.8972422392051753,
     "QualityScore": 0.3869901534010788,
-    "SignalScore": 0.4466176923074262
+    "SignalScore": 0.5963025203335433
   },
-  "volatility": 0.0239424640687777,
+  "volatility": 0.0238716292373109,
   "beta": 0.313,
-  "return_6m": -0.1201307178106343,
+  "return_6m": -0.1817038297740915,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3425.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3479.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3438.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3514.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3521.0
-      },
       {
         "date": "2024-12-13",
         "price": 3560.0
@@ -525,30 +505,70 @@
       {
         "date": "2025-06-06",
         "price": 2971.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2971.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2937.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2950.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2945.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2872.0
       }
     ],
     "current_price_data": {
-      "price": 2971.0,
-      "change": -11.0,
-      "percent_change": -0.37
+      "price": 2872.0,
+      "change": -73.0,
+      "percent_change": -2.48
     }
   },
   "news_sentiment": {
-    "summary": "Le gestionnaire d'actifs North Star Asset Management Inc. a réduit ses participations dans T. Rowe Price Group, Inc. (NASDAQ:TROW). Cette action pourrait indiquer un changement dans la perception de la valeur de TROW par les investisseurs. Il est crucial de surveiller de près l'évolution des participations des investisseurs institutionnels, car cela peut influencer le sentiment global du marché à l'égard de l'entreprise.",
-    "sentiment_score": -1.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 0,
+    "summary": "L'entreprise DIC (TSE:4631) semble afficher une croissance des bénéfices sous-jacente plus forte que les rendements des investisseurs sur trois ans, ce qui peut soulever des questions sur la valorisation. Hudson Valley Investment Advisors Inc. acquiert des actions de Starbucks Co. (NASDAQ:SBUX), montrant un intérêt continu pour la société. D'autre part, North Star Asset Management Inc. réduit ses participations dans T. Rowe Price Group, Inc. (NASDAQ:TROW), ce qui pourrait indiquer des perspectives moins favorables. Dans le secteur des résines époxy, le marché devrait atteindre une valeur de 17,10 milliards de dollars d'ici 2028, avec un TCAC de 5,7 %. Enfin, les usines de jouets chinoises ont été impactées par les tarifs, malgré qu'ils ne soient pas encore entrés en vigueur, soulignant les défis persistants du commerce international.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Investors three-year returns in DIC (TSE:4631) have not grown faster than the company's underlying earnings growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWwwak9kbTZQR3Y3Q3hFSkMzcWRfTlRIR0RlVWFjNzFwU3ZRXzFzTlRRbjNqdUVIaDlSZnVhVFdKbnR4cTNfSmt3b3Zvb2gzRnBVdmhKYXduZXJNUEQxWHhPYTNnbEpxZHQxTlhsYzg1RU8yNE9LVHlrOG01YjJ3N2lnWHVtMDVmNTdFZ3l3Y0FlWXk1cEV3UnUzV0p4eHQzNzN1V1ZMX3RnQWllTTlQaEwyc0pNdFB5bVZ0M2xQN3VzWDdoTEHSAcsBQVVfeXFMT0RnbTN0X0lrQ0JVUGsxenNSZWUtcEVmVXk4Szc5NmlNN1VpUUd4amFvMXhselg4OWJ0Nlp1YWttNGlaUmhSMGhDZTNpT0wtaHhxdktmTTFBUk5Ja3NlYWNJVGxILW1QM0h2VFo1em83dzVHc2stVlZDbmFnY2s3d042T3R2cENZaGF4M0FWMW9kS2ozOE8yOUg1ZFNoZTN1RThCTTlFT2xoOGgyMmRfSlJPeVZIUGk4eDBValFfczFQZUZKRnAtZldMb1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hudson Valley Investment Advisors Inc. ADV Acquires 4,631 Shares of Starbucks Co. (NASDAQ:SBUX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUjdPZUx1Tmx2MGZnWlZURFZsWllkYm9mM3YyMS0xUmx0M19qOXJWUm44OTM1eFVua1d1M0MtVndveGZ6VWE4MUJEMmM0VnN3OWtzd0xjbDB2Q2hsRjQ3bklwcnNTX3VaSjJ0MDlaeHBkNXVURUJaTTlZTFM1VUt5anRrRUxWUng4d0wwd2FYMnRpSUxYREVCVGt6UTRHNEozS2Z5QTFjY0E2YTFSVmtoT2NUQUtJdGJ4bC1aSGZ4d3phZW9rVmk5eXhPb3VISzhYNHNtcjlMT3M5blZ2RmllN0xUVEgtdw?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "North Star Asset Management Inc. Decreases Stock Holdings in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXlsa09yUXpOcTc0c08tVTZRSlM0allaNlVGRVEtQW03RTlQRXg1WG9RUjNUSEs5Z0VhY3ZucURmS1NsS1o0WkFPSFhzZV9lVlZUV2NiRjdsWnNIWUV4WGcxYXVBYVpfVGhXQVh0UG1aQTkwUUg5MEU4alZncnU0ajhkZ3B1Y3djekFKMlNqbEdVNEJpbXVRdE5RU0F0YnpMb3VGejVTdDV6T1l3WUJfbThGelV6QjdjT1NvelFNY0toTUFDc1JSczFvNF9wVGtLNTFtSlB6Q0xTbDVmNURzRA?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Epoxy Resin Market to Worth USD 17.10 billion by (2021-2028) | Epoxy Resin Industry CAGR of 5.7% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VQ2FQajhBQ2lVLWdWYTR5NzkxX29oQ2FMMlV0OGEtNHJad3BibE5jWHpoR3FHX2pDaTM5WUFPSnFqRm12MTQzSVdkcmxBTmUwVVBJc1o5cFI5M1dHaWVjUjc1Y3AyWi1zbF9EMzRGS0NQWTdPSzZNMUhWdmljb2s?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "China's Toy Factories Transformed by Tariffs—That Didn't Kick In - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOcVBxRWNUd1UtbGlDYzhCazZDQzJ2aS1PZmdXRFVrek1qS25QeVJQNTQwOERaQ21DU3hvWlAxNEJGei1UbUtmU0hBU1o0R0dnTjVvOV95RlN1cDVvandKX1pLTFlXcjdPbHROM1A4a3AtajhRdnJoV0ViVnJmY0ZXc2ltelBQbEk5TjhQLWd1S3JNbkUwb0JFMnFPQ2RvVWdXRWNJNWR0bXdwNlVHbXZlQUZBd0c1Y1dsektEOXNVRzVsNFJHOWU3clJqVVc1QnBYdlhidFhzS19wbXg3T2RBZ1BkaU9CR18yM1Fkd3ZVUjdZQ1RRN2x5VS0yNm1hZzdNZjk1aFp3ODBONFVtQXhDdmR6SkpneVNHWWxqakxWLURIMnoyZkJ3NDlKd2s1dDlSNHZ3THJxa29YVzh3ZjdBMGlhRVB4NDZQRkpwMWxPOUxDT0pCRTVWRy02VkRuUy1IYm1BWE45ekhUV25ERmhPa2dIMll1cWNKVkdXLXZDTU1OV0xqMk9KRk9DT3RUYVI2YXU5TVJvMDQ4bGNnWEtweHdjN2czMTlacEg3bktRb2FyM3lzYTJTNUVMTll1TklFdGRfc0FvNmRrc0VDbW1fUm9KUXU1M0J6eUltVzgwY2F4RUpXVU9B?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

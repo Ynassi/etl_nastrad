@@ -2,16 +2,16 @@
   "ticker": "BANR",
   "name": "Banner Corporation",
   "sector": "Financial Services",
-  "market_cap": 2142231040.0,
+  "market_cap": 2129090560.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.170923,
-    "PB": 1.1653718,
-    "EV_Revenue": 3.539,
+    "PE": 12.096267,
+    "PB": 1.1582234,
+    "EV_Revenue": 3.604,
     "ROE": 0.1009,
     "ProfitMargin": 0.2874,
     "GrossMargin": 0.0,
-    "DividendYield": 3.14,
+    "DividendYield": 3.08,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 48.45132617931837,
-    "Momentum_10": -0.2736609334647885,
-    "MACD": -0.2469188006390226,
-    "BB_Percent": 0.3346512333409996,
+    "RSI_14": 45.71838594175124,
+    "Momentum_10": -0.1297677681664047,
+    "MACD": -0.0800902989544098,
+    "BB_Percent": 0.3027924298891421,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934272517600282,
-    "QualityScore": 0.331328374262306,
-    "SignalScore": 0.5577827512980738
+    "ValueScore": 0.8961952111053354,
+    "QualityScore": 0.3405187562190301,
+    "SignalScore": 0.5996917402894268
   },
-  "volatility": 0.0190583602641401,
+  "volatility": 0.0190376388666047,
   "beta": 0.883,
-  "return_6m": -0.1646202380385314,
+  "return_6m": -0.1244916800649191,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
-    "target_mean_price": 69.8
+    "target_mean_price": 70.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 73.78
-      },
-      {
-        "date": "2024-12-10",
-        "price": 73.26
-      },
-      {
-        "date": "2024-12-11",
-        "price": 73.53
-      },
-      {
-        "date": "2024-12-12",
-        "price": 72.03
-      },
-      {
-        "date": "2024-12-13",
-        "price": 71.37
-      },
       {
         "date": "2024-12-16",
         "price": 71.89
@@ -537,24 +517,59 @@
       {
         "date": "2025-06-06",
         "price": 62.42
+      },
+      {
+        "date": "2025-06-09",
+        "price": 62.72
+      },
+      {
+        "date": "2025-06-10",
+        "price": 63.38
+      },
+      {
+        "date": "2025-06-11",
+        "price": 62.47
+      },
+      {
+        "date": "2025-06-12",
+        "price": 62.34
+      },
+      {
+        "date": "2025-06-13",
+        "price": 61.52
       }
     ],
     "current_price_data": {
-      "price": 62.42,
-      "change": 1.25,
-      "percent_change": 2.04
+      "price": 61.52,
+      "change": -0.82,
+      "percent_change": -1.32
     }
   },
   "news_sentiment": {
-    "summary": "Banner Corporation (NASDAQ: BANR) a récemment obtenu une cote \"Outstanding\" de la FDIC pour la deuxième fois consécutive, témoignant de sa solidité financière. Les performances trimestrielles de BANR ont dépassé les attentes, conduisant à une mise à niveau vers \"Acheter\" par certains analystes malgré des avis mitigés. Cependant, des ventes massives d'actions par des investisseurs institutionnels et des déclassements par des analystes pourraient susciter des inquiétudes sur la valorisation de l'entreprise. Les annonces de rachat d'actions et d'augmentation de participations par d'autres entités financières soulignent une dynamique de marché complexe et volatile pour BANR, nécessitant une analyse approfondie pour les investisseurs.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
+    "summary": "La récente actualité autour de Banner Corporation (NASDAQ: BANR) présente des tendances contrastées. D'une part, l'entreprise a annoncé des résultats financiers du premier trimestre dépassant les estimations, ainsi qu'un maintien de son dividende à 0,48 $. Cependant, certains investisseurs institutionnels importants ont récemment vendu des parts de BANR, tandis que des analystes de Keefe, Bruyette & Woods ont réduit l'objectif de prix de l'action à 73 $. En outre, la société a reçu une évaluation \"Exceptionnel\" du FDIC pour ses performances en matière de réinvestissement communautaire, renforçant sa réputation au sein des 10 % des banques américaines les mieux notées. L'actualité récente laisse entrevoir des perspectives diverses pour les investisseurs, soulignant à la fois des signaux positifs et négatifs à surveiller.",
+    "sentiment_score": 0.05,
+    "label": "NEUTRAL",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "When (BANR) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlJnZGFIS1RkSXhPQmNDNXYzZFZUWHJrM01ybFhneWJnMmRkUHBMaGxPMnJoVVU5Mms1NzV1QW4xUU52MnRQMmFNckJpTm1rVGVwbUtnOWR1S1JibXpnSTVmejc0SFExZndKcG5CYkQ1V2Q2WTB5cUphV3MwQVhONGV4UTNaMThsVnNTS1NzbzhyZGJPclJfdEkzSDk2RGstQkFfZllZdHR0YkJPZllXY28wb08?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Sells 6,129 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVI5SVlpRlVUNHgwR0N1MllsaVBhbVlNZmQ5SVhuQlY1WjBOYjNGYmUzRVd6MjB6S0pCZERvYmRidHZsSmdhUWhkeTlFdlYzSXNRNEpWOGNtRDBURU5iMzlTR2puY25BcGZDMzJRV0d3bkJzOTJLN25sNTFfdDhXZG5tQkhIcjBfQ0otWDZZTXdZVDhDZHpxSlZ0Ull1cWhXTlFSRUFpOXc3YXpxMW13eXRVZ3JNX3FsRHpLX0JB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banner Announces Redemption of Subordinated Notes - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0hrWlZGc3Z3RnM4d0lGWF9Eb0FZaEJ3QmdKeG5mbWtGb3JEa04yUGFkSWF0QXZxeVdDQmYxTm1QVkI2Mk5rU3pPQ21lOF9aSlV2TmJ4UnpKY0tWM01fUmVreTZvaTBVdlJzWlExcjcxQ2RZWnNnX3dRMlBWODA3SDRfNFBjODN0U0FlUldsX2dyN2xxN3FuM21DUXBwWkdpazNV?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Banner Bank Joins Elite 10% of US Banks with Outstanding FDIC Rating for Second Straight Time - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHdhNlM2eno5bzFiVEJ4V01GTk9oVWplVVYxTlJJeU9VMEctOUVWVHVpT282NlVBSldxVkQ5Nm5CSW5BSnluTFJaUjFhLWtFLUZXSnhRQWJXc2ZJVWt4M1F4VmJZQVFVNFhBQ3BoVVBiRXBYaFJLVnZqR1otVFpVb2Y5TWFNblVJMUVyMmFIUE5rZEw1c2FoUU14TW90UHB5OS1CWmdxUzdUUklFREdpQ3lrZUJPcWpYUThGTjB2TQ?oc=5",
@@ -566,28 +581,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Public Employees Retirement System of Ohio Sells 4,150 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWtETlZRaWFtRnVLOVFDaExvUzVvNWZicG55YlduODl4ZnRJSWVCM3NsRGE4UmUzdjZ6bWdKYUtwSHpPako3RWdBNzZhMExXU1ZZNkt0NTNsTHN0NjBOcGpYcmhyUFVUV0hBQUhhRzdkM280RFFPQ2ZPQ0VRZUtVSmJZcG5wQXVlN1NxSDdESVlYNGF3bTVfNU9wV0lkWFBXTW1wOHJMQVBicGJ1Tkxxb0xhVFhCbS1VVHdNekpHaVVwdGRFQkRfX3pCNThYYl9xRnVWLXBTb3YyTjFSRnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FDIC Rates Banner Bank 'Outstanding' in Recent Community Reinves - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdVg3MUFER0hPUEg5WGZGUGxKQjBSeTlUOTgwX1dmT29FdVN4SkpQSHNiREdxMWhrb1p0d3BocFZsWW85VGN1aWRlODMyOWgtRmxUOHBQNllWNDNQUkdBTTJjWGVCVHRHcU1JWElMc1UzNnlydlE1NzNZaHBxMG1FVUFJUF9nZ3dNanF1RGNiNmw0clR4Y3Rpd1h5YWJYdjJZWkZtNlVxMVQ2bmFmMEFWTHM0VzNNRV9NeExDWWZwY2F0NS1sY3N4dGx2WTlLRG1vM1ZCYVozallseXdhOWMwaVJVYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Where are the Opportunities in (BANR) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXVSUDlyM0xMZ2pGekFwdnJSR2gzX0tzYy16YndUaUJWdmlXOTNYMGRzc0JDWHZMNnI4SDBZUVJYb2lReHptMHB6ZFRpM3F5Q1VLdVBOYnA5MnB4dWFKdXRXX0JQMkhzOXNzRmcyZUtUUUFNZWYtcnNINVNPZU5fSWdabHQxMnZnb0FsTF9xdGo2ekplUHlBbElQRWJNc0hSTU1jUUVQYU5pWTQyRnZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Banner Co. (NASDAQ:BANR) Shares Sold by Jane Street Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUG1BUWtsMmItWVphN21CcTdEOXd5cFM2SWU0dDN0VHptREFReFgybGNZRFpFcEhfaGZNRkIyUllwak1HQjFseGk4UlNjUmZQNlRxWHEza1dEYllQQUJMWEE2NzBXYlFkTWdaU2hCNjlEeTdPemxsOHMwNmxYSnhHa2xZV3NsX0RNNDF2aUVmYW1JNjVLa1VSRkV5d1M2RTVSVktsZ0h1dFkwVklZc3lTbzNROVhlbDJKRjFXTFR3a0w?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Banner (BANR) Q1 Earnings and Revenues Surpass Estimates - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzdLN2QtUUJxbVFyTzRDRDYxZWZYdmJiR0FNY1pNcjdkY2hYYUMxcHVWUmctSDkyejdpNmdYS0EyUHl1MjJna1IzMjJHVGl3NnAzZ1ZZZEQ1QkI4U1A0U2dUdkF1SWk5X1FoVnpmUlVHM2d2dVpWMTBLbW1oNzJwc3VSbVFSUF8xNUo2YUZMRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Buys 47,593 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkI5UjZwalQ1RThGMVFVTXZsbGNySk1pT2wwaVEwR09CUzJuR0h4c1g2b0NMYjZNX09JRjFFbGE3NGFuamJYVTdsV1M3aXN4c1ZkN1ZNbHJfdU1nbTJNM0xNZk13YUp2dDRlTGg4T0NrUHViZWZQOHZJN1dtaG9KOVd3ZGJEWEc3VkNLUmFBM3RJNlUzV1dPQUFob0NUVnBVTlBJTHIwOHM0cjM2ck5MQjBwYUx3bThTTW9KVWoxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FDIC Rates Banner Bank 'Outstanding' in Recent Community Reinvestment Act Performance Evaluation | BANR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSTg4YUZpdGdlOGNSN1g3eDJsYnZrWllGUGM2ZVFmWjd2TnZlSzFlalFNd3JsZldKaDlLWHJoMmRMMS1rbG5KaUs4X0dReFB5MTZjT3B4RERiREtNWHhsSnJpOTVRQVhUMVF5V0gwSVVMTUcxR0hMMDVTNXo5X1p0a1lpZmtibzdfUjNibEh4VHI0UGJUaVYtWVlTTk9saVFpRkplWDRhUlpMR1R3aGlnRUd3eVZEZmp1cHpMU3hRYVN3ZHlfbFp0MjhDV0ZBakNjTWItTmtyOTlVMm54U3R2M2YySlg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banner stock price target cut to $73 at Keefe, Bruyette & Woods - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY085d0I0N3JIekhBS3pXZ3RoVDhKQnU3emVpMndKb24xMDYyZlBVcEs0YTRoN3g2WjJoNDhRZ28xNzJpNDUyT3lxMFRKWk9qektUU0VZWUtuVklPX3ZQRzd1bG5jSDVxaExNbU5YSUIyWTBFclNibjhTOFJXMUJTZEFYaWpicE1yeVprc3JGNElQRTVNSk5fbU8wQVZJWDRwQTl6VW95ZWJOWkhNcGlfY2pqZXRyYzdPdGdwQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banner's (NASDAQ:BANR) Dividend Will Be $0.48 - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUEFseXgxQmNvTmdtV01sOFU3SndUek5sMkNmSkFKLVNzaHlIZWFlNExGWmtCaFhXS0VtR2xqUUVlSXpMbzduUlBTYjN1MWtYQXRtSC1GSW93ckJqc0Z6b2V6YWxoUGRxSzNRaHJGQWtfUUJiMDZMYVUxa1lGUmRUOUh4Tm52Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,53 +611,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Two Sigma Investments LP Lowers Stock Position in Banner Co. (NASDAQ:BANR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTlIUmR2M1VTaUsyc3FIMDBFN2kzNkVzUjBoaTRqUTVwOW9nS2FIUUp5SWdPVXBBUF9VTDFSOWp1TmJBYjg2X0FZaUlCWl9ETk5uZmRaTS16aTZfMUxEek50anB5Y3lPLWpFbXVxTG9yYXdOM3dmbnUtbUZSRVI0Q3ZoMmRHWE5WTHJYUHJIalVYU1dPenQyQ3BIZVl0SnluMWdpVmctMlZ2bDdVQnVReWNxMUZuV3FKRkZJU1BwYVNGV3ZxQzJSSGtaNHp4ekE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Banner Corp. (BANR) Upgraded to Buy Amid Strong Earnings Performance | BANR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNmxyenk1WE4xcHo0LTdmeTBvbHNMTDFqWVRpSU9XVDZldm5nVi1SczBLdTRESkx3cVJ1TXE2cDVnbW9NWVVGTEVYQVpBUWtTVko1U3dUWFIxNFlEUkxxeGVUdlptZXluWl95dTBpODc4MnliVGFVZl9NQ00yYVJMcXZhbVlENFpaWEtHRkZkTVJHUDE2SUQ5QlI0WnVRbDZYRFhJZ2ItYTd1OW9MUVVTV0FiNjJwVDFzYXZBNg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3dRZGMyOVBJd0I5N3M0cWUydkVkQjh3NjhqMUtVQ0ZmMmVYdTY2aHNGS1huYW91djQyNjd4Y045THVIRUZiNmtLLUduTjNuT1VfZXRMenFycnFNc2RyVUZBNTlROGhUbUdxTUxpNVduTWFGaHh5VUFKYlAxb1BzQ3dIX3RqcTdqMmhtbnExLWZhcE9feUlEel9QdzhPTmppNF82bVc0TzlLTHYwVmlBaUp5UXhaMFVOelNzWDhuR1hGMTMzNFItcmZxZGc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Banner Corporation Announces Stock Repurchase Program - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENZZWplN0daQTNlV3dDTlFESEVoT3ZRMlh3dWExd3lkaXhyR3ZBOGFRbkFLa3FBamN0YW5mMENyWF9ZNE9SenJMc1Yxd0dURmZoVVVOYzFNSVBPOEliN25QWnhjbVhqaFJkV21lSjRhaXNPMDRHRWJKRVpMUGJDbWVzX1AxUGExTDlzMUFTenAxM010cWtfcnpWTDI4cjlQRkZCNGxYNUNFcGpBbG5z?oc=5",
+        "title": "Where are the Opportunities in (BANR) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXVSUDlyM0xMZ2pGekFwdnJSR2gzX0tzYy16YndUaUJWdmlXOTNYMGRzc0JDWHZMNnI4SDBZUVJYb2lReHptMHB6ZFRpM3F5Q1VLdVBOYnA5MnB4dWFKdXRXX0JQMkhzOXNzRmcyZUtUUUFNZWYtcnNINVNPZU5fSWdabHQxMnZnb0FsTF9xdGo2ekplUHlBbElQRWJNc0hSTU1jUUVQYU5pWTQyRnZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "This Norwegian Cruise Line Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeExFWTZTYmZUVUV6dmlmX21LZ3dvWlZZT1lHQ3lDcklsdjBNNmE4eldDTDFISmtQYWJ0anZlLW41Q0pxcWZXM01HZXZTTUh0MFVaRmZEVS1RNXZZQWNXcWVCYmNndzVLZkJlbUpYcEdYQmhHVmJ0NmxhZXBkbW9zaFdoUE1nalU2TXhpeW5ET3ZxRDY0eG9RY0h6X0piM25SVWUtTndpcmFVeW51QXpLYWxINUFlRUtGMVdfVS1MRms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Banner Corporation: Not Enough Margin Of Safety To Consider It A Buy (NASDAQ:BANR) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjd3RUxick5VN0t0ODE5cXdOemRfX1JZX05TZm5UVThrMGxCYm1VV0ZQZVV3NFBZcWtnRjVZcmI3Q1lfR2JPLXBEOGozalQ0T3pUMFRSWlMwTmpDM0VPUmVJSGhHanVUMUxZdm1XRThYdkRFd25pUDl6c3UzUUZxZEs0ZWFZYUhScWpGc3JOeTlXQk82X1RBNG8zaHp0OVA1UTdZMVlQTk8yYi1m?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Advisers LP Sells 44,500 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUhiWFFkdnVBU2NlcWlDZjZXV2pHc3N0dzJweTh4d3BNM1NkOTJzT20xVWZhU1RNNzdvLVE5MEF0MHdvMU1WRWs0cUN0eG04WWdoaUZ4TFFtYVY4T0RMT0lGV1h1dkloSWo3MnBzRm5ueXlkN0NiVzZjMnhIMlY1UmxYWF92OHRPSl9JS2lSVF9Oek02UWJfTlpTdVZtZzU0OEZOTWE0QU82T1lTd1hTNWViTGJQSFJGNFljY1ZMeG95Y00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wall Street Zen Downgrades Banner (NASDAQ:BANR) to Sell - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGFNZFBDQWpLdUFEbGN0YnlYWnFQS2FpbkF2R24wU0txV01zcXpmeXljM3JGN1p3THpJdUgwcXpyNnRDay1wUW9QSFRDNjVWOHpJQlZLQXNnTEhDQmpsbE1ZR0tVWFBwelhTdGZOSHVFZnQzZkJyQ2EtTjItc2oxMmN2RjVWVE1SSW5TVU5PcmFxanp6eV9DTHFFN2FXSG1CU1BCejN5eUtrdGliTVpLM3dxQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Banner Co. (NASDAQ:BANR) Shares Sold by D. E. Shaw & Co. Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVpRY25YNFJUd3lUV1gxQ0hpSGQxaVE3ckpkYUdBV2NJQXFBanhsZ0p6MDQ0M3loWlZVY2NtNUVZSDRMaHpSMU9TWnNSUmxoVUxxM3F6cHpLRk4xYzRzTGs2TmNHR3dubDRraGdia1lyRWMwMTl3R1hka19ndFl6VFBKaWRfalhWczFRZFBkVWhkbnFuNms0dUVQb0RudU1CYmRFbGVFMTBlQlNqcDJKMmZRUTA1Nm5IaGZJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Raises Stake in Banner Co. (NASDAQ:BANR) - MarketBeat",
+        "title": "Banner Co. (NASDAQ:BANR) Shares Acquired by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLWtaNHJJY24xX01Ya1hvT0lFN3JEM29ZeloyZjVuT1I3U3VZdGdscUZla3lTaUlWV1AwajdWR2xLUTV3cW5oLXFRODVzUTUxLTJYcnJEaUdFYjJudVh0UlpYSnN5R25kX3h4YmNQb3Q4OXZCRHladE1vZmhrMTZORkF6THVRMUJCRHYyRm14UUZHVlFaenpyWFREMEktMXBEVkhvQVlQekdKeVItaWU1Q0xXN1hya01qT25mazJXZ0xmOWRiZG9SMU03aHktYmdDY0JiTGM4ZW1NcUpjbUp4S1lZaTkzMmRZZnZxbWZyN2p0NVljYlNPOHV0MA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bank of America Corp DE Has $5.19 Million Stock Holdings in Banner Co. (NASDAQ:BANR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWJkTjh2bTUtb1JLSXZOeHIyMHNSQjQ0Z3k5cjFmaEktZklWLWtMY3ljemV2LW00SjNVNmpTZFAtTk10TVFObko4NGhXQ21rYXA4MW04YnFsLVdSbXlZeXFVQm1NMVR6TW1pc0tTQzFuX0dia2QwM0ZGMmN5UHVCaUVtcTBwcEdoWmoteEhXSGFXWUxFSjIxYlg2dFNKVDQ0TW9fNHVPTWl0OUhWWFNYRzN0dWVYV2p3SXM0ZWc0ajNoU3ZEUXhobnFHZFo2UQ?oc=5",
+        "title": "Banner Co. (NASDAQ:BANR) Shares Sold by Jane Street Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUG1BUWtsMmItWVphN21CcTdEOXd5cFM2SWU0dDN0VHptREFReFgybGNZRFpFcEhfaGZNRkIyUllwak1HQjFseGk4UlNjUmZQNlRxWHEza1dEYllQQUJMWEE2NzBXYlFkTWdaU2hCNjlEeTdPemxsOHMwNmxYSnhHa2xZV3NsX0RNNDF2aUVmYW1JNjVLa1VSRkV5d1M2RTVSVktsZ0h1dFkwVklZc3lTbzNROVhlbDJKRjFXTFR3a0w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banner Co. (NASDAQ:BANR) Shares Sold by D. E. Shaw & Co. Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVpRY25YNFJUd3lUV1gxQ0hpSGQxaVE3ckpkYUdBV2NJQXFBanhsZ0p6MDQ0M3loWlZVY2NtNUVZSDRMaHpSMU9TWnNSUmxoVUxxM3F6cHpLRk4xYzRzTGs2TmNHR3dubDRraGdia1lyRWMwMTl3R1hka19ndFl6VFBKaWRfalhWczFRZFBkVWhkbnFuNms0dUVQb0RudU1CYmRFbGVFMTBlQlNqcDJKMmZRUTA1Nm5IaGZJ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Bioenergy Alliance Network of the Rockies (BANR) - USDA NIFA (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0laRUc0WHJyVUNSUHpVQ1pIMHQ5dmdJQjI5RjY4X05tQkxPclVmZnR0bXFHdnFIOVU0aVhIeFV4bndUbWV2ZjdXeF9pY1BjN3FNdHRtU21KcmZ3UElaV3Z6QUZEUW9yaDZMUHQtekJDZ3N6cGxRS2NfQVc5ZmhnX3dFakZLMndsNHVhenBzUUplbVIwOU5VQWFhNkhHWWo3T0xROHNNQURpT01xd19idFAyd0k1Z3pXX29fUjMzYTJyQno1?oc=5",
+        "title": "Two Sigma Investments LP Sells 44,038 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTlIUmR2M1VTaUsyc3FIMDBFN2kzNkVzUjBoaTRqUTVwOW9nS2FIUUp5SWdPVXBBUF9VTDFSOWp1TmJBYjg2X0FZaUlCWl9ETk5uZmRaTS16aTZfMUxEek50anB5Y3lPLWpFbXVxTG9yYXdOM3dmbnUtbUZSRVI0Q3ZoMmRHWE5WTHJYUHJIalVYU1dPenQyQ3BIZVl0SnluMWdpVmctMlZ2bDdVQnVReWNxMUZuV3FKRkZJU1BwYVNGV3ZxQzJSSGtaNHp4ekE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Zen Downgrades Banner (NASDAQ:BANR) to Sell - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGFNZFBDQWpLdUFEbGN0YnlYWnFQS2FpbkF2R24wU0txV01zcXpmeXljM3JGN1p3THpJdUgwcXpyNnRDay1wUW9QSFRDNjVWOHpJQlZLQXNnTEhDQmpsbE1ZR0tVWFBwelhTdGZOSHVFZnQzZkJyQ2EtTjItc2oxMmN2RjVWVE1SSW5TVU5PcmFxanp6eV9DTHFFN2FXSG1CU1BCejN5eUtrdGliTVpLM3dxQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Sells 4,150 Shares of Banner Co. (NASDAQ:BANR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWtETlZRaWFtRnVLOVFDaExvUzVvNWZicG55YlduODl4ZnRJSWVCM3NsRGE4UmUzdjZ6bWdKYUtwSHpPako3RWdBNzZhMExXU1ZZNkt0NTNsTHN0NjBOcGpYcmhyUFVUV0hBQUhhRzdkM280RFFPQ2ZPQ0VRZUtVSmJZcG5wQXVlN1NxSDdESVlYNGF3bTVfNU9wV0lkWFBXTW1wOHJMQVBicGJ1Tkxxb0xhVFhCbS1VVHdNekpHaVVwdGRFQkRfX3pCNThYYl9xRnVWLXBTb3YyTjFSRnc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

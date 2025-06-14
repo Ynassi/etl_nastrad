@@ -2,59 +2,50 @@
   "ticker": "SANM",
   "name": "Sanmina Corporation",
   "sector": "Technology",
-  "market_cap": 4713368576.0,
+  "market_cap": 4613124096.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 20.407408,
-    "PB": 2.1240814,
-    "EV_Revenue": 0.572,
+    "PE": 19.97338,
+    "PB": 2.0789063,
+    "EV_Revenue": 0.582,
     "ROE": 0.11158,
     "ProfitMargin": 0.03086,
     "GrossMargin": 0.08523,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 15.284,
+    "CurrentRatio": 1.962,
+    "QuickRatio": 1.166,
+    "FreeCashFlow": 152734368,
+    "OperatingCashFlow": 362670016,
+    "FCF_Margin": 0.01945818649101315,
+    "ROA": 0.04654,
+    "PEG": null,
+    "EV_EBITDA": 9.503,
+    "BuybackYield": null,
+    "PriceToFCF": 30.21932813445105
   },
   "technical_indicators": {
-    "RSI_14": 64.5806723708229,
-    "Momentum_10": 8.344599589942327,
-    "MACD": 1.9343305724827216,
-    "BB_Percent": 0.9890168611815648,
+    "RSI_14": 55.11073032284427,
+    "Momentum_10": 1.8833406243040844,
+    "MACD": 1.7510344172298034,
+    "BB_Percent": 0.5829681686651187,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9271757121284584,
-    "QualityScore": 0.3254647599169634,
-    "SignalScore": 0.3910375140050547
+    "ValueScore": 0.8919949414575274,
+    "QualityScore": 0.2840584524961689,
+    "SignalScore": 0.5401468082380558
   },
-  "volatility": 0.0246583769399531,
+  "volatility": 0.0246130294442142,
   "beta": 1.146,
-  "return_6m": 0.1094891099657311,
+  "return_6m": 0.0778888241430821,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 2,
-    "target_mean_price": 92.5
+    "target_mean_price": 95.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 79.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 79.34
-      },
-      {
-        "date": "2024-12-11",
-        "price": 80.02
-      },
-      {
-        "date": "2024-12-12",
-        "price": 80.96
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.05
-      },
       {
         "date": "2024-12-16",
         "price": 80.23
@@ -526,12 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 87.16
+      },
+      {
+        "date": "2025-06-09",
+        "price": 87.91
+      },
+      {
+        "date": "2025-06-10",
+        "price": 88.27
+      },
+      {
+        "date": "2025-06-11",
+        "price": 87.78
+      },
+      {
+        "date": "2025-06-12",
+        "price": 87.45
+      },
+      {
+        "date": "2025-06-13",
+        "price": 86.33
       }
     ],
     "current_price_data": {
-      "price": 87.16,
-      "change": 1.13,
-      "percent_change": 1.31
+      "price": 86.33,
+      "change": -1.12,
+      "percent_change": -1.28
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Sanmina (SANM) a récemment conclu un accord de 3 milliards de dollars avec AMD pour doubler ses revenus de fabrication dans le cloud et l'IA, renforçant ainsi sa position dans le secteur technologique. Malgré une croissance solide des revenus et une augmentation de l'objectif de prix des analystes, la prudence demeure face à l'incertitude tarifaire. Le marché réagit positivement aux résultats financiers du T1 2025, avec une hausse de plus de 5 % de l'action SANM, mais certains investisseurs semblent rester prudents.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "New Analyst Forecast: $SANM Given 'Neutral' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEUteFROUmg1Ym9mcDFpUHBKWGhCMlV1ZWF2eVJaeUxwUFRMVGhVcG9CYm5FWkFGVThmaE9yd25wODgya0dwOE5SRHN1eUZjeVF6NkNpMVVMTEJkbGV6M2hYTWhDQXdRNU1ZakJ2SktqU0REcnZkTmUzNS1jdFJpaU9pSk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanmina (SANM) Price Target Raised Amid Optimistic Revenue Outlook | SANM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRi1rNU5uc1c2em9teUZYc3Fqb08wVTNEQWxfdm55Tl9Rb2ZicFJTMnZ3RUxGeTJlbGduemctb2pLQTBPb3N4T1Z6MTdIVm9rSlhjWC1QY0hsUUlCdXBMV1pwZmFkSWRuNXc1aWpJeTRJN0w0VzM0NGNQbGZYSFNvWk1UTmhtTGxvcU9iMGhDNTFlb1NIcWo1SDlyVlZkdC1BUFcwR3p1UEd5ZUZBZWxBaklyLV84LU9Hb3JKNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sanmina's $3B Deal with AMD Doubles Cloud AI Manufacturing Revenue in Major Tech Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNllMZTVBY0xXVk1aS2xIRG5ZVGhhblNQVWpyV1FwcVcxTVFTb3p5cE92RTRqOXcyV1JHT09wUUxhSkpVRTNCcGlrS0ZNb2lDY25MSWd0TXJhQWVQN1J2SEVOSVJGck5FR1dNZ2FBV2wwYlljTTdmNUxmME9yZ1hWcmJucU04LVFjeTNGLTJ6bFNoaGNqWk84VjdORVhLbHN0czYwamRDYWM2VEtFQU5XODlzeTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "1 Small-Cap Stock with Promising Prospects and 2 to Keep Off Your Radar - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc3FrOHZxenRnZVpjTGUtZ1NVX09teWpmeEtiMTNSODJYV05PQUJncTRubXFSZXlVdWdnVDdMX2tUWEhSTnZTUEszeFVfdnZIc2lHcENzWHBUT1hkM2l4ZndOTmJ4Vm5WdzVELVA4cUJQM21CdmxxendDaFEyUmFrbGppeUEzQm96R3BWT0JWem01Z3ZVUERhSUNEMEVGbjFETHlpUVFQbUxSS2Q2WUJSVGRNekNkSUlOMHZmb2xRUUdBdVZEM21tdHE4Yk11eXphWmlVdHotRGw4RTFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanmina (SANM): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aU1I4Nm1CLUNPaTFwRHNFckZWMFpvNmFoaTJTZUEyRUJleFRVNHY5TWpOZl9kSWJZOXd2UWxtNkNHYkFEenJjZm9fWmg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMD to sell ZT Systems' server-manufacturing business to Sanmina in $3 billion deal - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWhuQ2NUMjlZV0ZTLTY5Y0hSOUxBOE1Fa2ZmaV83MFI0ZWR3LXR0MlBfMExnYndUQUpGNE9zZ21XM3d2M2JsV2FJSWtKWkNkeHI5anpVeFhXV25yelhFdVd3R0dVZ01EUlQxSDJ3cTB6aS1VMU1XbkpuYWxmdFVvYjVUbW9aWTNPdzl0MVZnaXN5ek5DaWdDbmJpZHYtT3otWXZvdWhFQURlYzItWGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanmina: Becoming An AI Play With And For AMD - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42a2FnRndmekY0VzFPN2tKN0JZN1pUWklvc3lmRXMzQlJJRXpUaVE0MUdzRHdsMWZFYVJ2alU1a1AwWlpNa24wbTFaVHVwWl80R0dvSjlnMWhKX0tNdHhTc0xwWTJnX1RSWlZlTDF4Y1JTSmdKM1NrcVZlaDVWT0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SANMINA ANNOUNCES ACQUISITION OF DATA CENTER INFRASTRUCTURE MANUFACTURING BUSINESS OF ZT SYSTEMS FROM AMD - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMVJNQTF1bHRrZ2dMTlgxYXhsckZrbUJEV1YxQUgwcjczTXB1dVdGdGhVbENyNkQ2aEZOaWlwQmhoTDhKcUVpMWJ3bXV5TFdIWVpEcjBILVpFME4wVWxpZW1NLXZnbVZDMkVxenU0eUtoaUFZMUhmRFdfXzZlU002NWdNV3lvdjRIUFVpZERkZFpSeC0zb3MzSDg0dWhxZWxWRGg1cjJJOHVRVFhCbVV0aE5JVTB0SXJsU2NKd2l3VEZLcmtWcHk4RnpKZVU2aHJNMUFsazFDZGhhal9rZ29paWFOS24wUjFITVg0R2dZUENqbDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMD Sells ZT Systems Manufacturing Business to Sanmina-Sci for a Whopping $3B - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTE9LQVE5cmxfSmZTNXo4SlhsNXBlakFnX25QcUtBaHdYa1RhblhXUFZtRG16dWUwYVF0TlF5Y2pFblROMktxek9qZWZqbHRoWk9wdHYxLTd0c1JTT3g2T3puVjQ1SUZKOHE2X08zMzZfRE0tYVJxSi02b2NBN3Vxdm9kMzhVMFVUa2ZqT3VOM1IyNFoxWUhDM1dMdnMyUElGZjNyWHJzb0xNbUZfX0FCTEhMWjVSVEVoTVJyLWxPMTNkVTdyUXdCMFlsM0l1U2psakg5Y0pSRmNDWklqLTFHQzhMNFlpVFJGdnR6MU1tX1FnODlZNHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Highs And Lows: Sanmina (NASDAQ:SANM) Vs The Rest Of The Electrical Systems Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXNnUEJ0aElXTVVyZmx0dTNIVDNuVWM4YmZvTkVlUGtZaU5MdVl5NERrTWhxWVhtZ3BuTC05QUtmUV9obkEta2p1ZHFla0R6T1VqSFZZZEdNQ3R2d0N6WkxUYnF4S1FHV2VscVNIZndObWJBOTRFbU5qQmZURFJoZ21R?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sanmina's (NASDAQ:SANM) 26% CAGR outpaced the company's earnings growth over the same five-year period - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXo0WmY5X29Yd2puVUVJMHN6dUZtYkd1Z1FpN1BhQjZyNE9aeDdmNDJyenREc2RpclNiUkVVVUtid0hzZ3RuQU5pOFZxenBtbnRpUDJFZVd5Tjd4Ymswd05zQkwtak43VmVsQnVqREIzbnNXemdtblpub1BuYXYtbVJIR2ZqdFZqRG5wcUVNRWh0RHpYaWFZNXJiQ2VKbnF2N3U4cjhZTzRxczVYaTFXVWxJUDdQVERJWk53ZDdwNNIBxAFBVV95cUxPckxISWJPbzhGZjZXYXc4MFRVVzdmRXBuTjFaeEZTNDF1MEdDV25NeVprdTFZajJaN29GWENudlg1X21hMDBZT1U2b2wweEFkd2pmSGM0NElFNVZFYjdJN29vVkN3N0hyTUJwVzRsTk84UHJiUVh4cWRNSE9saGx4MFo0OTd3Um5aUlVfQldiTDlzalNnYzlyYk9ub2FJVFlRYWs0cHlkR0F3TVlDX3VZQm8wb1JocWRzem9jT2JDSGZMclB1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Where are the Opportunities in (SANM) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWk93c2lGRDlOc3haVTl6R2NjRFhySnlKVm0zbjVhcWtjZ1lNc2JlVFJkdmZPMjdnUGdWM2g4aktidl9aS3pZVFBsZG1TQ092ckk2Smo1TzJxclVpWXl2TlJ3aHFadEpMS0RlanVOVFNpRGxLeE1YanE4RzhNWElJVFNuUGVZeGJkclc1cm1ZTS1wQUNTWDlSM0U0WFlDSV9zM0ZOVnlKOFk3aTcwZ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanmina (SANM) Price Target Raised by B of A Securities | SANM S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV184TXprTk05OVVmdmN2QUFRc3JPSTBaaDRkcGsxdHdjQmV5TzlyOHBxbXI0dEFjVE1VeDhUSzRtQzJMMW4yaGt2Tk1SRW5iSElFbjZsQnBNZXVMVzkwTVR6bWIwZFU2blBVelpuQ1hha0YwLTFUX1B2ZURSUVJkalRPUDI3Wi1GckNGWFctLVFldXpfajVvQm93M0RIR1JJMFZtWjR2YlJHNEhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Business Times - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJTR3pGZUpncHhhNVBoNWtsT3VPWEYyWVhQcFAyOUY4clREMG1tNTJVdllZTW9abDZIdDU3dWZFYjkzdC1ILWR4Yjcyd1BuMnVIN1VVZkY5dms1SlJWdXlvWmpiNUs4WVJVNG5wb1hXeWdkS25zdGZ0LV9aLUpaOXc3d3JUczNudDQ3N3JLOXRwZzR3Tnk4QWk4VGpkNmpPZEZlMC14YnBqUjlKYWlVb2RabEd0YUsxT25McnBtYWMtZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy Sanmina (SANM) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3BWSUVZNjJMQ3pCTkxYRm43NEYwam9OT3BxeHdVZEk3WVNjNFZOODBjNUEzU3NpLTZBdU9abVJkaWM0T2dDM2JmRC0zczBFRVBBV1NrZzRRNTNWQWtGbmMySnh6cHg2Q3h3Ym56SEJVRkhNVEtseV9ENG1VX0JFTEQ0RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanmina to Reveal Q2 2025 Financial Performance: Key Growth Metrics and Strategic Updates Coming April 28 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWowT3piSWJOQ0M0Q0VVR3lkNW53RDJaVmYwcEJnZ1RqbWJEanR4aVdtV1lhM1NsUTFFRVdwZmFTclB0bktqeHBRSl9KTkQzbkhPenI4bm1ROWJYWWVxdkgwRVlXZ1lPNVVWTUVRTzZXQWJZMGhfMkJ0WUpFZG5maWlBQ3ZLNHVvR0VQYjN2TmZ2SFpPa04zVGxCYTNZTkFNLTlrRG1ISVBMX2VPeWtVenU5V3JFb28xb0RFcg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SANM Q1 Earnings Call: Solid Revenue Growth, Cautious Outlook Amid Tariff Uncertainty - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLU1o2VHRFWnVBaWJtcFF0NTlxQTVFQzJ1WDNGeWhxTGk0alE2OTZ1NW9qQ0ZxZ2xWdXZOdnp5RzMyU21za24xOUhGZ19seXk5bGFfSng1WEpsYzQ1V0gtMmRQTW1FUTlvcHVCR3BxeHBiTlhUcHE2OC05aHJGZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noteworthy Thursday Option Activity: SANM, BROS, AKAM - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXhrSHVRdFA4djZjSzNIMGxKVzVUTXhaTklvY2diMkpIbm1Kd3lNTFpmTHFCc2phM1hndW1HRGh3VkUtSUhVOXgxLTNKMHk0cTBDNnQ0dTRqNVpLYUNtSHZnWFU1WlNEcTVSVzNiS3RnYkNxanlnRl9USmhwN28yaHE3aXlaSHdfeGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Cash-Producing Stocks Walking a Fine Line - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0dwa1hENWRQTHdsZy1JZVNkT1M0QzFRcHBHUTNydEp5RDVmeDNNeGZsZHZMTmNlbTllb2FqaXlFeDNTQmZQbEhKOXA2SW11ckN0dUxtWjB6dzlMZ1FPMXNob2dJbjc5X19KRXdVX19jTWZmeG9ya1FmNlQ2ZTM0V19EU0UxY2NTRTlfNG9iZzNrVjQ4cXpsaXFRUEtrTC1hQXo0MVJIbWRYRGxuVDZ3MU5TeEhrZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SANM Stock Surges Over 5% Amid Positive Earnings Report - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFlrVGVsWGxZMjJsTHp1cktyY3JrY0JZZVZ1eXdVRWVKb2JIN0RVUWZ2UVYyOVFLSHhfeEJvcmlHNkpNQVp5c3RvbUxUdW8wTlR3WGItTnRRMEhFaXN3ZGF6Y1ZjU1A3RzNhZDZ0MmhnNmx4UFlRSXQ3M0ViZ1NjdlFFSzhGVFBtNlBOYmhYUC1JV2pZd25Deg?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

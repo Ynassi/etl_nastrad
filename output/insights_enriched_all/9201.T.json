@@ -2,16 +2,16 @@
   "ticker": "9201.T",
   "name": "Japan Airlines",
   "sector": "Consumer Discretionary",
-  "market_cap": 1288716288000.0,
+  "market_cap": 1220395008000.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.047996,
-    "PB": 1.3216829,
-    "EV_Revenue": 0.791,
+    "PE": 11.411601,
+    "PB": 1.251614,
+    "EV_Revenue": 0.755,
     "ROE": 0.11464,
     "ProfitMargin": 0.05748,
     "GrossMargin": 0.60072,
-    "DividendYield": 3.12,
+    "DividendYield": 3.17,
     "DebtEquity": 88.133,
     "CurrentRatio": 1.307,
     "QuickRatio": 1.148,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.013226356264371845,
     "ROA": 0.03871,
     "PEG": null,
-    "EV_EBITDA": 4.542,
+    "EV_EBITDA": 4.331,
     "BuybackYield": null,
-    "PriceToFCF": 52.32595269329941
+    "PriceToFCF": 49.551892880046196
   },
   "technical_indicators": {
-    "RSI_14": 68.80891388947904,
-    "Momentum_10": 6.378378378378378,
-    "MACD": 81.07400759470829,
-    "BB_Percent": 0.8560768502752523,
+    "RSI_14": 44.69029302899243,
+    "Momentum_10": -4.361956893602463,
+    "MACD": 50.90102387156958,
+    "BB_Percent": 0.1995672751088159,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9344079680729064,
+    "ValueScore": 0.8963303160577407,
     "QualityScore": 0.4400055382069892,
-    "SignalScore": 0.4185752282874961
+    "SignalScore": 0.6197097961078684
   },
-  "volatility": 0.0151870802267781,
+  "volatility": 0.0155575200786882,
   "beta": 0.459,
-  "return_6m": 0.1845192052232753,
+  "return_6m": 0.1095546836383347,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 3309.0908
+    "target_mean_price": 3354.5454
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2529.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2557.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2571.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2570.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2586.5
-      },
       {
         "date": "2024-12-13",
         "price": 2563.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2952.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2943.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2943.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2915.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2902.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2795.5
       }
     ],
     "current_price_data": {
-      "price": 2952.0,
-      "change": 7.0,
-      "percent_change": 0.24
+      "price": 2795.5,
+      "change": -107.0,
+      "percent_change": -3.69
     }
   },
   "news_sentiment": {
-    "summary": "La compagnie Japan Airlines Co., Ltd. a récemment surpassé les attentes en matière de bénéfices, suscitant un intérêt positif des analystes. Cependant, des événements tragiques tels que la collision d'avions à l'aéroport de Tokyo ont entraîné des pertes humaines et des inquiétudes quant à la sécurité. Parallèlement, Japan Airlines reprend ses activités de fret aérien, mais des incidents comme l'atterrissage d'urgence de ses Dreamliners ont incité la compagnie à immobiliser certains avions. Ces développements pourraient influencer le sentiment de marché à l'égard de la compagnie et nécessiteront une surveillance attentive.",
-    "sentiment_score": -0.182,
-    "label": "NEGATIVE",
+    "summary": "La compagnie Japan Airlines a dépassé les attentes de bénéfices, suscitant un intérêt positif des analystes. Cependant, un incident tragique impliquant des avions de la compagnie a entraîné cinq décès et suscite des interrogations sur les causes. Par ailleurs, Regent prévoit de voler ses aéroglisseurs électriques au-dessus des voies navigables japonaises, offrant une perspective innovante dans le secteur aéronautique. Ces événements contrastants pourraient avoir un impact diversifié sur le sentiment de marché, entre confiance renforcée et préoccupations sécuritaires.",
+    "sentiment_score": -0.25,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.82,
-    "negative_ratio": 0.18,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -551,16 +551,6 @@
       {
         "title": "Tidal Investments LLC Purchases 9,201 Shares of DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDJ6djdPN3pwY2hPVUdSNTlQOFU5UmZZWmItTGlsMV8talJSUzhsUDNLRG5tN0ljaFZic2tvUEdzYUZid0dlc2VBaE5Mc3dXczZCWHhtdHJfdWNrRWExQ2ZQekRPZWQzVW1RRWlGeFkxZmdROFBsSE43NGkwT19tNDBfRkh2Vy1Wd01IWDZDbVhJaElyRjdDS0tqQlltUFo1eG1RXzBkY3laQ3h6TzA5NUNMbk4xbmZ5eXB5RlpScmVzUjNaWjhVWVpWRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Manassas Manifest Market - August 3, 2024 11am - 5pm @ Harris Pavilion. 9201 Center St. Manassas, Va - FauquierNow",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa0Z1aDBOYXhVbU5MSVljTG9Sd05scDJMU29Nd2hDRE1IZ2duZjBLcHp1MHE3SjhFUjRPT3ppenZkTG1DWE5tUHJmVmE0V29aa0ttc0NTWWU5TWVtaUNkc09Dek1hdkw0VkZlQkxsbzBJa2xqb3JGVjllMk9WMV95cEZ3Z1dvS1I1cEwyMzFoblQ3aXI5VElWa1FReTVPeFl5d1VYS281YUd4NFROejhxMllWNWZWS2NHYnNPdXFpRU9RSkdtWXpkYUU5V09EekVsMnJKRmgwSWJsRnhZMldiLXlCcmRxNzNXem5pS1NtcXdXckVIa3FBaTFuemhHX1Z2?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan Airlines returns to freighter business - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDJ6QlFlNDdicnh5bXR2RzRrVUdqaTNOZFlYZFlaV3FNRlJEWUNrYWt5UFVBODBobUNtanByWG1Hd0RQdTlvZWF1RnRobGN3UGtPdE5QSXUtTUI1TGp6X2c5UEZZMjdJVS1HTHZaMGt2UDdIXzdpejJoamtidi0tQUl4XzBUQ0Z3dWF5RjhWdnA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -584,21 +574,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japanese airlines ground Dreamliners after emergency landing - Latin Times",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFp1S0hRamtqeDRLUXFha1JGZnpVeHFTNFZnNG5RS1JKUmpaVXc5YlUtN3NMNkRjTXJVYmJvVVVNY2VSUF9hWklod25xeDFYSlI2ZVFKbTBqbG1nN1ZhQ3hjM01uNGF3SHJjdWNwM3V6Nl9DTWdsVVJ4bG9CUlkxQWx0THp0YnRhc2NXSGJYTGhDSzJqTl9xNnNR?oc=5",
+        "title": "Low temperature a factor in Boeing 787 battery meltdown in Japan: Asahi - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1pnQ21Ma1dBbnNzbTlhNEtHS0VxN3lqc3FfMk9RNGJ1NFhLYnppbjNqS1NCQTFDS1VaenJabmJTV01uMnBhbFlvVEV0STRkN0diekd2ajBnZHQtZEJvQlRPN3dDVDNMR3JyTUh4MnJVXzM1RHpOUnU3Y0Jia3UtQjdLNnRqdm9ZUjFQUXFuS2h4bmZLTm5Od1BFLUUxUDBGcFBUajBwNUdhRW9xcUpOUl9tMUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "How sweet potato pie became African Americans’ Thanksgiving dessert - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE84elpWeXZpdEtYcWdpTjRrdGdJTWtJYk9SRkc0NlVVcThNNWFqUWNoM2dSbE5xN2JMUWFXQUpfM1VjQmlSRUI2SDdQbHM1Tl90YXlPZHhSZ1pCbzVnME85Z2pxUmJYUjhJOWZNTk8tdVBZSVNZeFF6S21lQ0RoSEwtNGdkeEwzWHkzbFlFb014el80a0JDNnhDUExURUxRbGhsYUpWdXhKVHFwUUxDN2RVLWJ3eFNwVldmUzJtTTRNbUNEbGM2b050cW1Mcm43VjBwTU1MeEMwNW4zd0RScGU1c3MwNllZQXRtMHEta0ppSDhuQkpZcGJxTQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Low temperature a factor in Boeing 787 battery meltdown in Japan: Asahi - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1pnQ21Ma1dBbnNzbTlhNEtHS0VxN3lqc3FfMk9RNGJ1NFhLYnppbjNqS1NCQTFDS1VaenJabmJTV01uMnBhbFlvVEV0STRkN0diekd2ajBnZHQtZEJvQlRPN3dDVDNMR3JyTUh4MnJVXzM1RHpOUnU3Y0Jia3UtQjdLNnRqdm9ZUjFQUXFuS2h4bmZLTm5Od1BFLUUxUDBGcFBUajBwNUdhRW9xcUpOUl9tMUQ?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

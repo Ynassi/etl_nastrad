@@ -2,16 +2,16 @@
   "ticker": "ALL",
   "name": "Allstate",
   "sector": "Financials",
-  "market_cap": 54796140544.0,
+  "market_cap": 52742475776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.13388,
-    "PB": 2.7343242,
-    "EV_Revenue": 0.88,
+    "PE": 13.604166,
+    "PB": 2.6318464,
+    "EV_Revenue": 0.854,
     "ROE": 0.19723,
     "ProfitMargin": 0.061929997,
     "GrossMargin": 0.22642,
-    "DividendYield": 1.93,
+    "DividendYield": 2.0,
     "DebtEquity": 36.672,
     "CurrentRatio": 0.437,
     "QuickRatio": 0.244,
@@ -20,165 +20,32 @@
     "FCF_Margin": 0.0636284597694199,
     "ROA": 0.03111,
     "PEG": null,
-    "EV_EBITDA": 9.513,
+    "EV_EBITDA": 9.229,
     "BuybackYield": null,
-    "PriceToFCF": 13.171187641636035
+    "PriceToFCF": 12.678503362296196
   },
   "technical_indicators": {
-    "RSI_14": 53.485025357768286,
-    "Momentum_10": 0.706247608730486,
-    "MACD": 2.3826211540437043,
-    "BB_Percent": 0.5552228554825572,
+    "RSI_14": 45.082635167895816,
+    "Momentum_10": -4.644849982473615,
+    "MACD": -0.3687809620394375,
+    "BB_Percent": 0.1866601876751356,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8948786552651329,
+    "ValueScore": 0.8950486795258432,
     "QualityScore": 0.3938246389784549,
-    "SignalScore": 0.5732945161599843
+    "SignalScore": 0.6309795263037985
   },
-  "volatility": 0.0181624214770246,
+  "volatility": 0.0182676809566233,
   "beta": 0.345,
-  "return_6m": 0.0182441642867579,
+  "return_6m": 0.0248082146855492,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 227.58824
   },
-  "news_sentiment": {
-    "summary": "Une tendance clé actuelle dans le secteur industriel est la vague de fusions et acquisitions, avec des opérations significatives telles que la fusion entre Chart Industries et Flowserve. Les records historiques atteints par certaines actions, comme IBM et Palantir, suscitent l'intérêt des investisseurs malgré les préoccupations liées aux valorisations élevées. En revanche, des déceptions en matière de prévisions de revenus ont entraîné des baisses de cours pour des sociétés telles que CrowdStrike, soulignant l'importance de la vigilance dans un marché en constante évolution.",
-    "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Chart Industries and Flowserve Strike All-Stock Merger - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOMG5iTWNSc1U5NDVhM2h6WTlpTFc4UnFVWGQyRjRXbHl5TFRLYjhveGxJdFZXYklkRk5GN3pnb200RDJmVEcyeWpfZ1ZuTXJVdHVLcmpFdGJfVFVoU3JLTTJmbmtFLXZDaGtYVWdpWUs5VTd2M3JLaml4bXp6djkxVDFEZGJGcm9OWXJRSXhOVkozdXNLSnZkOVBFUEtpX2pLVmp0ZjJwUW82SWZ0UHpuNU02UFdzZ21VTk91Vmx1WjUzNjBMcVlZbWltSWVYbGdzamxvVWlGQjM2VzY1ZHRQbHo4SmdXc19EQkkzLVFPaTdieUI2dVhYeDl5Q0hmS25VZE9GcWFNTWcwMDN3TWY5amFzc0pSelF3cmFGaTg0andJVTlaalVfT1A5TWYzMXRxV3FMNkZKbktpT3RUR2s0djBDZ1d4MHBwTEtuaF9aMHJ2TGo0YzFEM3hTNzJpNktNQUptaTFXS0FPV1M4c2Zfd2ZNZHVXQ3oyblhEUmVLdlFVeGJsWWgzSW5DTkhDRHZtYkpvckxrSmJVZTZvbG81ZlpR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Chart Industries and Flowserve Corporation to Combine in All-Stock Merger of Equals, Creating a Differentiated Leader in Industrial Process Technologies - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObm1YYjVFckVGVF9aZ2tNQlVycEdtaDZ0UjlEWnI1c2wwQkNDRjNOcFRDTEdQWENTLXdib1l5dUdOUUY0b0FuYWVpMEZqa2pJTy1Helotcy1waXFpalY5S3lfMnNxZEZybHBlbmg5NGkwTF95dHNOTVRXaVU0M0E3MWJfdmp4Y1o4Vktxa2QtQWxrbXNzZzJIemZ4blNObWZhMnlkaVdVQW44N3U3US1rdWZ1d3ZoazJHMWNMV2FUOUVyd1dUZDZlNGcwbjhGNzJDZDVJVC1nR3pJTmFCSV9SYW1ELU5TRkkzNnpXLWd3eDJWa19pNy1Nb3hhLWhlbHc1cmw1VGxqandGQ2dHbXI2ODU1N0otazZrWXpRTXdEYm1vZ3lDRnJmSmxFd3hUbl9iQUE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Prediction: This \"Magnificent Seven\" Growth Stock Will Hit an All-Time in June. Here's Why It's Worth Buying Now. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ254T2VNOUZpc0wtV0I1RFFOX2dRbk5iQjBRaFUxd0ItVnJqa0xtczhvOE5MSnYwTUdtN082Z09leko1UjBGZWlWWVVQRnNlQVVrRS1ycjgzV1dhVnF4WUNvQWVXWmM5NTdfZHdEVEg3WXdjLXEzVUp6Unl0VEE2ZlFETWxNXzZoMXhTNGo4ZGE4TzR0VEJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allstate (ALL) Stock Moves -0.2%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DSDFnakNxNjNQX1BqRjJsaGRvd3ZHSG11OUR6WVRPRUVoZTdCcmRWLTdsMUlTMGxhZjhIS2pxT2IycFMyR0dQeGV6TVVqQ2NhZUN3b1M0dDhfa0VHMVBYaDF1R1BfYTM3V1JIUlF4UW4wY0RpZ2dhLXBB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here’s proof that buying stocks at all-time highs puts your money at greater risk - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzNHb0NGdHl3ZDFSdElTRHBhRU5OMUE2RTM2ZkVmVFNoNXVQZFFlZ2JLMnFhd08ybGZEUTNDV2tVOUhTWTZubVV5eVlTblpTS1dWWERaaEdndUhmUmR1d1Q5ZzFlUk1QSW05YWp1ZExrUm8tZldiQ3AyeEd1bnpmUGdOZzlDZzFndWlGcWtaRzlJNHR6SU9qZjV6NGhnSkJwOGJOVERUUlNwX1lwQjc0WVRzX3RKN3NwOWJibmtVWGZiMjJWblV6SA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Movers: Puma, Filtronic, Broadcom All Down - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbE9TQ3dyVTdndlh3Ti1qLWVhbVN3N0U0QXVNTHFJQ1VVakVpT1Bta19Vd0hua2ZBLUt4WlctNnBTbTlaSllPX3FnUnNtQmpIZkJMOURYWWtQWV92a2t5Y3kxSEM4ekVlazE5Nk1XQ0VIcGRoM2xRY1V2SGxJQzRtT1RZcTJOZ3BVSU5aejdZYTFQemVEZW9hZWtPc0puUFF6WXc0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TipRanks’ All-Star Analyst – Who Is the Best on Broadcom Stock (AVGO)? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVllDTGpEbzNNeUMtUjBmWjNxZDFxenZPb214V0NlWUx1NFpmbXdTckZWLTktZFp6cll3anB6c0RYdGZNYmJRYUgySnc0ZUxwazJvUkt5bFZ6NVBDUGUxcnFaU243eFZLanl5MEprcDdzQVFrbDBxV2V2dFlkS2hDeWlmTFV0MXRPVUd3WlltMkY4S1dram1laEFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rocket-Redfin deal clears hurdle with shareholders' vote - Detroit Free Press",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS29ESHpKV0xfMU5RWUk3bDc4b1pRVk95T1F4Uk9ZSHhyelVYQW5Rd1FhV1VzcWNmYUhfb3hJUDVnd2JtODVXNTB6RFVvajF2R0NNenI2ODZicG5RNjB3bkdRVEd2Si1FZ0NtV09UN1cyNVFoaFhvMWlvSzUtZmwtR1Y2RGk0TkJialQtYWgxemtxX1pwM2hUY3ZtLUtxYTA5OFpYS2FWTU9QQXFOa1l6a2d3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Magnificent 7 Stock Just Hit a New All-Time High. Did You Miss Your Chance to Buy?? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTE5bUZkNWVlQlE0NHZ0WjV2ZGZ2VGxGeGdaM281YkRaWlF2Y0RvZEZTVjZGUmNTMDctQTNhbmFsRTloLTVIc25MY29YX0RfdEMtUTZ1czdSTVlZY3FxX3doRDJpNkktQmFQdVRJQTBydmx1N19EOHAzM2NORGk3a0JaclprTGJ6QzdXVU5xZVI1SEZNRGZaeDFQTDFaOFgwSW5xT2hsU0pNM1FwNWNfbXRiU3ZqVUtUQ2hPN0lrUdIBxAFBVV95cUxNcDJ2Vkh0TFVGdGhjdGdfWUJobWhWSzBRZ3ZfZE1tR2hMX2lLRk54M2VycFhyVTZaWFh3azAtYWNnVVNZRlBOTnNYSVQxZnlpbDR4RDIwcW5jb1hPNHVpWXktcjc2aVhMczg4SllXOTRYZjVtU2Q3WjVCZzN3ZGtNSlViYzhnYU80Y1d1T0ttTnQzZ3hYUE1INDNDeEI5ekNlT0JCckdUMGZxSHFVT0MxSnA2LXhPc05hN0p2UzdTSlg0NDRs?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allstate (ALL) Begins New Coverage with \"Sector Outperform\" Rating | ALL Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2xaRzRrUU1wbUhmOUM4TjMyb1Jhc3ZzNjk0dWRfS3FRTTY3OUVjZGlDZ1VzT2JsYXNyR3liMDNKN25jQ1FMcHh3T3BFSDdUVmtXMklqOVU2UEJMbVNpYWxhRk01NHNGWlkyQW1nU2ZqN2d6dXM4MnFrY0FSdGQ3S1o1UmI1bE1MZlBSSHl5eDVnbTI3MG5xeHpfbHlpekhXRVlRUEhCbVQ5eHFUYnVRVE0tU3hoT28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IBM stock soars to all-time high of $269.34 amid robust growth - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3U2YmRlUE9ZTGdDT25MUUdzUjZLb3NYcGYzTXhScFlXdGhMcjVxSDFQOHBvNWNZZEtjRE1TX2p6RlZjM3E4RjQ2bXFzSjlkREdYUTJ2MWRyS2gxbTgyTXZsZkQ3UXpHTzZIZXJvVWVldXpCRGJRVVdiTUZFS0tGTGk1Z3oyZklYSjJON0Y5Rm9ZSDZ4QVFlMUZHZTNBeFNCQ2ZhN3FkZDcxTHY3cHdzQ2pUYTNvdDQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Palantir Stock Pulls Back After Hitting Fresh All-Time High - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Rta2lKYUNlS0N1Yy1IWGNsTFNFbS1XVmRPek1STXBKR1pxRUIwMWxyVmx1Z3M1eGplLVVIY0xab0FPOHRTT0NTRk1RVTlTdFBrR1lieDRSYTlRTDJkRDRBR1pMY3FVa0t2LV95R2hIUElqTmMxVFVvRm5lTGtnMlA2Yy1FamFoSDFWbnZ4cWNzcXJyNlFoaTkyRHdwUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Flowserve, Chart Industries To Merge In All-Stock Deal, Creating $19B Equipment Giant - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVNvRDI4STJBOUlURVlzaDcwdnhBVGU0Q1JPQzZjQ1dIWU1RMVBLV3IyeS1QN01QOTlQTHQtYzdnc0NMcGxNR0JpYTAyVXkwM3BTM2JtdWE4MzcyeGZaUTBxMmJ1OVBhRUNxMDV2Nk42Q1d6WE1DVkZQWGsxTlUtWHJES0NQZW5iZXBrQUo4bkw4ZDRHcDVFNGtaNEQxWnRrN1A2R1Fzajc4YU9LbU81WUJKUllaX080YXVIRWRfZjU5djdzRi1Mb1I4TGtBZVFEbXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microsoft sets another record as stock all-time high and why Wall Street sees no bubble in these BIG numb - Times of India",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQOGxkOGZCQmdlWVcyM1VLdEdyME5aR1pkeGl6RkIzcmhWVXZvRktTRmVpa0FIdFRpUURGNG1DRXZCWUI2ZXFjNTVSQmthZUt0NWRNdThrNlYyTmZza2kwQ3NzTmkzMU5hbUlhZjJDX1lnOFZPVzd3cVFoNmdBMXpCazhwY2kxQlBhcXVwTzQ5dkl6OHNSbDQ2UFg3a0ZmMWQ3V3p6RHo4NHBwYU5hb3hwMnV2bC1YZ2QyVm1OZG9Ja0RPXzhQdHNrOWwzcEJwTjFvWWJDZzJRRnQwNk9VWFVUaUJUNGtaRVFqLUdTd1Q4dmxBY3cyVi04UHJkSFJfNG5Fb2hFNWxnc0ZSdVZGTEZrVnJwLUtVQk1UejUw0gGgAkFVX3lxTFBXeUowb2ltZnFkMV8tbUhnZENaSWJFUVc5Yk54b19hcGRlckg4dGVzZlFwaHRoOG53TmFmQXd0VjhtcWRGOTI3SkI4YWF6YnJOMWg5RUpCajkySElpZzVXSFhMMGZQYVdoRVJmX1d4NXd6OWQ0YkxBd3h6VXVDajFvMi1MLUh2b0lpeUMtZ2ttSE0tQloteGJ4LWVWdk9kcGZpMDVBQTZfTWRmcTloNEdqOFpUOE9aalhiTExQS1A4U2ZabWxaY2Q2dWgtZy1FcjVlSE11MmxpSEFSeVAzWVQ5eTNsdThPRG5md1ZfRmhIei1ZVDdiSjRBUXlBRkR5NUhzMHlHdWpKVTRGOG1ZQWExX0hlS1VVbUVvRDM1UERnTg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Chart, Flowserve Merge in $19 Billion All-Stock Deal to Form Industrial Tech Giant - Pipeline and Gas Journal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3k5SkFHNW5EUFN1elM2UV9TTXd6LWZfNzN4TXBDRFBUY0RhRmtRa0pRWHhtTjNkUHNSQWpVZ2tNMjdsbmV3UXNsUGtCSHc3SjRTYXBwTlZhTWJfU01NM2ZSWUYtZmRPUktnU2pJYmt6N2JveG9kQWNCV0JfTm4xX21aWXl5TE9iZ3pqeC1RWXIxX1k4OUpEVExpQWVyUkFnR0JNVWMzaXRFRXVYOFFKTEhUVUViNWZa?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Chart and Flowserve unite in all-stock merger of equals - Hydrocarbon Engineering",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGRrYkE2aURpXzhwV0tvTVU0b2VOMGswR0J6enJwd3dLYnZuZkI5T2FtWEE3N0pQWHhjTDJGbEQxYXZPZE85R0ZMRE9fa2JUdGJKcWRjbjJuMnJBdGZuVk5FZUF2NS1EaV9zUE5uWUZCcVVma3dOdzhYNElvREpMTU1fZnBGd2ctWUdDUmhtS2pxTmwxVnBjQUQ5UFZ0N19zLWhRc3ZPajlqNUViTTl4a0s3ZW1xNTlaZ2Rr0gHAAUFVX3lxTE56ajBqOWhTVnFNeDJLUklfaGplWWdhWlFyQk5SRGliTmhaV19PbzV5eVBKdnJiMmcwWGdWdFdwaVBsX2ZGTUZMcGc0Wl9nQWJ3ZFNwaVI1M0VUV05CVUJiUXRZanBNY2VXemZNQnJLdUctcnZHRWY3VnVjTEQtX3lhdDUzN0FWRWNnSnBiY284WGZUd0drUTVNMDJxdUY1VkhraTZ5SXFIWVBzSXc4Mkwzc184V3M3eHpwSWVqZnZIbg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Viper Energy to Acquire Sitio Royalties in $4.1B All-Stock Deal - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVUxMGVhR3lrNmhPdllCTmJoZFR6Wk5MVHhSRC1Xa1c5NDhlNWhQOUVRSFdLc0d6b2VQQ0x0U2dpREhISkJKOERjWmVrMmV2VXNvcGRkNmhOeTBmdERySWlFYVpqSTZxemhHTndRaUhEWnB1MHNrU3Zwd0lPUEZKYS1VMldQeHVweHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CrowdStrike Stock Slides After Hitting All-Time High as Revenue Forecast Disappoints - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1X2Y5UDUtN3RYTkJHLWJXRlFLR09NM0k0YnNod2kwYXB5TW1LUW5fUFRWeHZyeVQ1TWdIOXhMN0s0ellxNkxlbHFfVnB0OV9NSUF5LTlZZ0c2bE0waE9ESTNqOG5LVzVzTVAtQmZrYjM4VGItRFF3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Watch These Palantir Price Levels as Stock Hits Another All-Time High - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQl9qcW1IN0Qzd2ZKeDRBQ0pLaXpueU9MLUJEU21rVDZPSnMxdVFWSEVocEwwZDV0QVMzbVlDMjFIeFNrUnV3ZFFhX3RRcUY3UjdYUWZRcnR0Rkoxb1dIVVN2bU1xZjdoT3B1R0c0eVd2WmI0LXhKRElnOE45Y2RwVDhtQ2hnWDl1WjZUS2QtNmpsLUtKT3FPdXZxUDdoUUtVX29IeDllc3ZKSnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Applied Digital (APLD) Stock Hit A New All-Time High Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWdYYTlQQU1CRmFQZV9rTTFTSHE4Vnh5RVNCRWdoU2l1eUg3NTBudlRHdjhhcC03QjU0QWVQTHdEWmtBTFpYVlBwZDBJeHpKOGIwUkVHcXE2SlRxeHQ5V3dYa1NBdWtzT3Q1THFnekFwV1FJSE9BNUVOWVRIWjYwUlVaOWgyaXBoSHdDT0h4dU1BUnpWZ1hLOGNjRGxCUzh0ZUpyTS1fVF8yeDh2dFhkZ0JxeFJ2WkhrQVQxZjhB?oc=5",
-        "label": "POSITIVE"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-06",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 199.04
-      },
-      {
-        "date": "2024-12-10",
-        "price": 195.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 193.3
-      },
-      {
-        "date": "2024-12-12",
-        "price": 192.3
-      },
-      {
-        "date": "2024-12-13",
-        "price": 196.26
-      },
       {
         "date": "2024-12-16",
         "price": 195.02
@@ -650,12 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 208.06
+      },
+      {
+        "date": "2025-06-09",
+        "price": 200.77
+      },
+      {
+        "date": "2025-06-10",
+        "price": 196.4
+      },
+      {
+        "date": "2025-06-11",
+        "price": 196.18
+      },
+      {
+        "date": "2025-06-12",
+        "price": 200.32
+      },
+      {
+        "date": "2025-06-13",
+        "price": 198.92
       }
     ],
     "current_price_data": {
-      "price": 208.06,
-      "change": 1.41,
-      "percent_change": 0.68
+      "price": 198.92,
+      "change": -1.4,
+      "percent_change": -0.7
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "BioNTech a acquis son rival CureVac dans une transaction entièrement en actions d'une valeur de 1,25 milliard de dollars, renforçant sa position dans le domaine des vaccins COVID. Cette opération pourrait consolider la position de BioNTech sur le marché et renforcer sa capacité d'innovation. D'autre part, Oracle a atteint un nouveau record en bourse suite à des résultats trimestriels solides, indiquant une confiance croissante des investisseurs. Ces mouvements majeurs pourraient influencer le sentiment des investisseurs et souligner l'importance de la recherche et de l'innovation dans le secteur biotechnologique et technologique.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "BioNTech takes over CureVac in $1.25 billion all-stock deal among COVID rivals - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1FvOFdhSTd4WFZpV3VrN1pSdUxKdkNXLTlISElzVHFORXZORHZYNGZ5aThzdERReGhDNDR1Q0NESWl2dmFMVVZmeVp3aTR4YlRfT3hfdElLSmZ3dThoa2F2aXdfYnpWWkpReWJWT0ZORXZodl92VkF5NXJSY2V3TXhiaDRNMk8zY1lPLWNpSTdNbEFQcGx3X09wU0xraE1hMWJ2QVIyUG1FVjE3YV93czZQWHF2M01LNnBlWF9RdkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech buys mRNA, courtroom rival CureVac in all-stock deal - BioPharma Dive",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlVKWmlubGFWbXdrS0tOcjZtbFV4Y0NjMXZxak1SWXpSS1ZyeHk5djM4TmRrSDR5a01yYldZYlo2UmJXZjNSM0pQN1BxdUgtNDBSUk5fal9nU3VTdG1BMkNfZjlFYnNFdG1nQlVMZ203dExwbll0Z3hrNVo0bHpGUTlET09ndlRLN0JwUU4xSmhhZ2laelE1bVJwbjhLVVgydGxnUXZYVDRWUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech Swallows Vaccine Rival CureVac in $1.25B All-Stock Acquisition - BioSpace",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3pHN015TUhSNjBfYndoMTREN2VYLW1jbmhVYm5kanhfUDJ1Y1JzalBhY054ODFGdkhGdlZzR2Y3SF9qSnkwQV9YSkJRY0p3TEJVTVBRNlpfQWxmVko0RGI0S1E0ZjlCd2xTdDY2QkNHVkV4QUFFam1zbE5jVVFWYnpsZ1VuQmJ1V3o5aXJmMHlvWV9zLWtzV1NqWTlCQjFXOUl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech to acquire CureVac in all-stock deal valued at $1.25B - Endpoints News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1FTUlJQTWY3aEhfZDRJM2hPUlQ3VHltZ29XOE4tVGZjcmhIeXpIQXliYW9qdzFIVXd5aU1KbkhvUzFGMEhpUVhqSV94NVVDZ1J4MmdEZmtoOFJmdGxsd3VQMTV5TW5Db2lSRzdvOTB3bGNkX1Y2WXhnZHlFR2ZkMFRIeTdVWnJ2eFhQbEFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart Industries and Flowserve Corporation to Combine in All-Stock Merger of Equals, Creating a Differentiated Leader in Industrial Process Technologies - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObm1YYjVFckVGVF9aZ2tNQlVycEdtaDZ0UjlEWnI1c2wwQkNDRjNOcFRDTEdQWENTLXdib1l5dUdOUUY0b0FuYWVpMEZqa2pJTy1Helotcy1waXFpalY5S3lfMnNxZEZybHBlbmg5NGkwTF95dHNOTVRXaVU0M0E3MWJfdmp4Y1o4Vktxa2QtQWxrbXNzZzJIemZ4blNObWZhMnlkaVdVQW44N3U3US1rdWZ1d3ZoazJHMWNMV2FUOUVyd1dUZDZlNGcwbjhGNzJDZDVJVC1nR3pJTmFCSV9SYW1ELU5TRkkzNnpXLWd3eDJWa19pNy1Nb3hhLWhlbHc1cmw1VGxqandGQ2dHbXI2ODU1N0otazZrWXpRTXdEYm1vZ3lDRnJmSmxFd3hUbl9iQUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chart Industries and Flowserve Strike All-Stock Merger - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPei1iZF8zOTdSa0ZaMTh3VWZLX0xZa1JSbzlwRWNOWXpQX3ZFZVladC0wZ1B5UmRiS3h3XzE5dUVXallyd084YTlRX1VmM256TFJsbkFDRFNCYUNhR0JTSkpUSVZFM1Q1M0JQcm1fY0NtRGxCSm1zREJkUldQVHB4NWl4T1d4VjlvcGQ0OGZLa0lrM2N6UDk5WWhybUFaQmVoX2xzUWVJVXdvVmtJcE1QSWtUeGdPc29uRDl5aUxZWDJJS3g2OV9tbXR1ckFkOG44X2oyLUZ1NWtJZjhPZlFiRW1tZDBtV2Z6Uk0zcHlFSFc1VmZJbjVSQWx6dFRqeUpvSmFmdDhzb00zZE5mcjNIQ0FfcEpPdHJVSGpUV3F0Y25wb2R6eE80VXphZkJpcnJ5SEU0TWtWaUxfeDFzbF9DLUh2UFA2X0ZxbkM4Vkk0VXZzNXdVTmJtdTA5SEtPWU9iOXlkOVh6OGVnV0ZIUTAzYlpnNWNKa2RZcF9mWVBMMUZySE1Tc09tLUdJYlFqN0VpSUkxenBEX1N0Rmk5WGZFY053?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eric Trump-backed American Bitcoin to go public through all-stock merger - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFB0QU9oYjlIajNRdU5uZ1FMRXNwTkV4OVRwdFV5b0lUR3VFVGY1U054TE01Ym16ZGlndFVHa2g4U3BSMkNuaHhuamRQSFc4MjAtRExWNE5PSFd1b1NPVkF0TmFRU3U4V2RBVWtRSERxNk5CYkxpNXVzUjlabjd5ODVFU0dPVTVlamcwMEpkZEpYSW12ZFBPaGtZS2IyODlTTFJSZlV6QTlUQ3ViNlBxSndEeWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Broadcom’s Stock Hit An All-Time High: Analysis - CRN Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDBIS1Z6MFkxajEwVWJPNTItX2F3TjBpNmRKNWdHQ0J0RkVmUnQtNFI4aUREVFZXbEZfdUtJYmg4NExkSHVTNmt6Ympfb1hlbGVjTTh4QWFJWm4tYzlQTEo1cTdnTEc5QlRSZkxqRXVvRFl1Q25Sdk5tcDdFOTBldVE5UXU5Y2JDeWU5WjNCdDgtQUxlTnNF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Corporation Announces Redemption of All - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQYUlEQXE0cHE2MEp2MlVFMFlkN2RyN0NUa3NsVG8weGpGbE9vSE52T0ZhX1FpV2t6UWdlaktYMXF3VDZHNEhNa1loZ1BaejhpT1ljZ1VxU1QxZURlb1hFeFkyNlJfZm41enhzdlQteW9iQVdqUjA5MTc2ODhLUEY4SUpZck9yQ0wwVXZkbFgxSmc3U1QtVUk5c1pLVWQ2R0YwVm14QzdYd1FJUFlfejlka0tOLUtPbVN6b0wzUmVEUW41Tmx1QXBIU1NJQ3cyMWw4ZFpNWnY2VzJGM3pFZE51MHBRbERWTjNMUjFLS3JUZDMzN2pVYURFNW12cWE1WG44RjdEVTZ5VDBuNmV0MU1IOWNGb2QwbkJINzlFa0FFeXQyTjV2T01MaXBUTVFieUtVUV94UDRnYngwdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech buys German mRNA vaccine peer CureVac in $1.2B deal - Fierce Biotech",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2RfLW05eW8yOE5CRXprY0lNNHIzM0tpUHdqQjMwQlluUGRiTXA2T0dmRjI5RGFVZmtyMmRPWjNyUmZMVjZ1MnFBNE0tV1lfRGxmRjJlRHJXSEo3NEFiQkYxcmVqYUhieTlVNFpMMXpkb0w2RnFud2dXRVozbmpLWnUzREI0Z1RTQWFxSFBxN0lVZ3c4eHgtbkJYS0xhckFpRFlkMmxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AWK Makes it to CNBC’s All-Weather Stock List - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjA2ZTRhVl9wNjRiQnc1WE9HcTYybGRtSnhaMU9id2dJWFZxXzJlUV9UWk1rRThWRWdZYWNSZGZla2R0OHpRdHJJRTFxSUdLT1FBR24tSVRmZDI5MGN6T3dxU3RFNHRRS1VPT0paaEh3cWxRT0d0SDNoQVlxRlFFY2hnSnU4cXFkVEJ6NnZMUzFCM2JBRThQOVFrY1hnZFlUdFJMRUpYVG5JU3NJcmc2VFRhbm5ZU1ByUHlsM1lTSnJxQkU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Down More Than 90% From Its All-Time High, Is Newsmax Stock a Buy on the Dip or an Investment to Steer Clear of? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUlKOUF0OGJqZFB6QWJOWnpaQ3VjbjJRdkk5dWNmU1RPVE9NVlBUa3ptTDVTVDNiVktuUHhFRThvMnRwTXNSX0tOY3JsLWN4YXE4c2xMMVFZUi15eGU4ZExMWFJ4bnRXamU3WlU3SjhuOU9YQVptRzRMZnlKNXN5SUdfck05bnk4bWNGalE2cVRuclNtMlZ2UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Oracle stock touches all-time high after earnings beat - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3FpT0FCODNVc0hzX25mQWxDQlYtMWNfb3ZoTXBPSlpaaEQ2OVUzMnZZZHBtLUhZTFlnSk5RUkt4d0pjaDQyQnhRdTR5dGVFNHBsX1N6bHRJU1E4R21jYjlRVHVUSGdOdkw0UmRzMTM5bDVFdHB5bjdacWFfOU9hWVA5dVRQTjlqUDZEbHJCWTMwcHUwTF94RXVvTXZsWXQtcGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: Oracle Stock Soars to All-Time High on Strong Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzJUa1BrMGF5S3RQNms0Rnlta1JDenhoWGxMZzZ4SEtWeE5aMTNXY0JaVXctQnFHQnhHTVkxYmxvR3RpQlloUXZXYlhTMHNBRldnVzhqblRuSkJ0YjZDcXF4aTI3MkF0b2V2TWFsUzRMd2dOTU8wYWlNT3BNckxLZUNiMmZINlZkWjFUMGx2dEQ1RUkydXhvTzdDSjNrNUtQNVRkWE5aMzEzUWl5X1VERk1oenp0OTVnT3VrVzhvSmdCcGtDRkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BioNTech To Acquire CureVac In All-stock Deal With Aggregate Equity Value Of Approx. $1.25 Bln - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUE1cjJMdEJFMk1jczJtLVFXSjYtRDVXMEJYR1ZsRkUwV2tzaXJyNlJ2UzljdDhkMXpaa0g5X2ZUclVrYkZsY3BkSDVhMXJHTm55MDZzbDFBZWVkS2JobHhWd1JQYXJKU2l3SzFrel85SkxmbVhPLWxpcy1SaUMtOGNOMThQbWhqVWNkVFoyS0c4bEZjY1Z6WW0yM3JRNVVSRWhRc3FPZ2dQM0JXTkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unusual Machines to acquire Rotor Lab in $7M all-stock deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOai02WU1CZTJpbXVxT0hiSHVlMENlNmdfWEY1VzB2T0ZuSjF0ZnczR2lSSlFQTi1BMTBRbDRxcUVyS3U1LWg3Nlh2MDBvYTNlSjBkRm5xSjBVeTk4VDZrcG9jdkJFSHF4dGNWMWlaYVRJSkl5UUlHd1dCOWhKSjhUNm1wZ2k5eFVzLW5DS0lfdExoSmlHeUVmRmhIbFhId0oyWlNsajZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech to acquire CureVac in $1.25 billion all-stock deal - PharmaLive",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcngzOG1Hc1VEV2RMQWtINWNzODZHNHA0STlSQU9Wa1Y5dzg4aHM5LVVOUzZvRDBoZ1NZQ29sR1lqa3UwNUN5REswbUxIbHc3RnBWNXpHdGJ6dnFtSVRrZnUtSzJDQVN6bUU1VXJPNUphTXE3VmJPMlYyTml6ZVJwZ0dSMHZCVXFTelZFbFJiOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BioNTech to buy German rival CureVac for $1.25B in all-stock deal - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEdkUGlnMTQ0b1dkVTZmd1VjOE5NbjQxcFJ5RUZrdWdIb3ZYOU1QLWY4Ry13ZnhFUVBrSVFVR3JzLWJPSkh3dGZKT1kwR0YzNGEyRkFzQ1dzaDZsMmVCQ0Y1THFBQVRRdk8zbDB6dU9pRFBYWFhRVU1SQUhqb1NTTTR1ZkFzQVBFWlpJSklycnlsWlJyREd4dnNiRFl5QjRhRUhCUlNrVENfTllmbUNuRk9GQVB1UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Hits an All-Time High. Here's Why These 2 \"Magnificent Seven\" Stocks Could Be Next. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3BsdW1ESWhVQmFfSTVFY3U5bDVnQnROd2RtX3hubTZjN1FTY3FlNG8zTi01YjNQd1hPXzRYOGRqTmg1NzRkVU83dFQyVWh2RHhoMjlnblN0SjRlM1pEdy1tdEhLYndqSEVFSnNTa3ZNcm5Ja2NjZDNXaWRXcURPZFRzMWdMOTFDYTBzbUl3Y3NwQTUwOGdv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Oracle Stock Soars to All-Time High on 'Stunning' Growth Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjRzMlZLdlVaS0lLVDByLWMxVU5tWHBtTXhJMlVUUjNFN2U5eW9SdjI2TTdCbEZ6WDNTaHowT3lIdjdxLUg0X05kZHdyUjBhNjBuYVVOS0hmbEtQaldJVWd2Vk1hTVA4M1Z4Z1p0T0hETjR0Qm9Idm1fbkpSMUFnNG5ZTFhteFdmRlUwMDNSelNFRUd0U2VWZWxHVnFiTzhWU1VwMGhtM3NIeE0?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

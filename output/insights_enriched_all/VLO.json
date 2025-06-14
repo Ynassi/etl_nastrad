@@ -2,16 +2,16 @@
   "ticker": "VLO",
   "name": "Valero Energy",
   "sector": "Energy",
-  "market_cap": 40238362624.0,
+  "market_cap": 41830227968.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 43.84727,
-    "PB": 1.7129439,
-    "EV_Revenue": 0.399,
+    "PE": 45.73801,
+    "PB": 1.7807095,
+    "EV_Revenue": 0.416,
     "ROE": 0.03714,
     "ProfitMargin": 0.0076,
     "GrossMargin": 0.049489997,
-    "DividendYield": 3.56,
+    "DividendYield": 3.39,
     "DebtEquity": 41.246,
     "CurrentRatio": 1.558,
     "QuickRatio": 1.046,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.03407577086221343,
     "ROA": 0.02456,
     "PEG": null,
-    "EV_EBITDA": 9.451,
+    "EV_EBITDA": 9.852,
     "BuybackYield": null,
-    "PriceToFCF": 9.668022851394404
+    "PriceToFCF": 10.07442562825033
   },
   "technical_indicators": {
-    "RSI_14": 53.828768182426145,
-    "Momentum_10": -0.2952182094536685,
-    "MACD": 1.8117163630037536,
-    "BB_Percent": 0.3884364050355245,
+    "RSI_14": 61.781857609429494,
+    "Momentum_10": 3.6752775438472782,
+    "MACD": 2.3846594686930302,
+    "BB_Percent": 0.8429435943865535,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9295780749628378,
+    "ValueScore": 0.8919282233291748,
     "QualityScore": 0.2919797452292048,
-    "SignalScore": 0.5712899803999794
+    "SignalScore": 0.5070960947590712
   },
-  "volatility": 0.0275313344686998,
+  "volatility": 0.0274420821364184,
   "beta": 0.972,
-  "return_6m": -0.0068382996683238,
+  "return_6m": 0.050889308565436,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 134.55
-      },
-      {
-        "date": "2024-12-10",
-        "price": 132.32
-      },
-      {
-        "date": "2024-12-11",
-        "price": 133.29
-      },
-      {
-        "date": "2024-12-12",
-        "price": 129.68
-      },
-      {
-        "date": "2024-12-13",
-        "price": 129.14
-      },
       {
         "date": "2024-12-16",
         "price": 125.07
@@ -537,58 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 128.35
+      },
+      {
+        "date": "2025-06-09",
+        "price": 128.26
+      },
+      {
+        "date": "2025-06-10",
+        "price": 131.93
+      },
+      {
+        "date": "2025-06-11",
+        "price": 134.06
+      },
+      {
+        "date": "2025-06-12",
+        "price": 133.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 134.11
       }
     ],
     "current_price_data": {
-      "price": 128.35,
-      "change": 1.44,
-      "percent_change": 1.13
+      "price": 134.11,
+      "change": 0.61,
+      "percent_change": 0.46
     }
   },
   "news_sentiment": {
-    "summary": "Valero Energy (VLO) a récemment annoncé la date de ses résultats du deuxième trimestre 2025, suscitant un intérêt croissant des investisseurs. Malgré une volatilité du marché, certaines entités telles que Portside Wealth Group LLC ont acquis des actions de Valero. Cependant, des signaux mitigés subsistent avec des analystes qui mettent en avant les défis de la dette de l'entreprise et des préoccupations concernant la possible fin des opérations de raffinerie en Californie d'ici 2026. Les mouvements d'achat et de vente d'actions par diverses entités suggèrent une diversité d'opinions sur la direction future de Valero Energy.",
+    "summary": "Valero Energy Corporation (VLO) a récemment attiré l'attention des investisseurs avec des mouvements contrastés de son action et une activité accrue de trading. Malgré une baisse récente de l'action, plusieurs analystes ont relevé leurs recommandations à l'achat, indiquant un potentiel de croissance perçu. Les acquisitions et ventes de parts par divers fonds d'investissement soulignent un intérêt continu pour la société. Les investisseurs devraient rester attentifs aux résultats du deuxième trimestre 2025, prévus pour le 24 juillet, pour une mise à jour clé sur les opérations de Valero Energy.",
     "sentiment_score": 0.05,
-    "label": "NEUTRAL",
+    "label": "POSITIVE",
     "positive_ratio": 0.2,
     "neutral_ratio": 0.65,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Energy Giant Valero Sets Q2 2025 Earnings Date: Key Operations Update Coming July 24 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2l5anZ1aTUwMlUyaVB5NktzdG0wV0U3QUF4M1c1Zk1acUJTZFdqam1zYmJXTnJCSnpGWGxqdlBhWEljWk1JWHJVbUE0U2RodW1wV1RFZ05vYTRXenJ1RUoyQ0ItSHlhekVtVFR2LTAxSTMyS3RrQk82UElwSVduRHd5TjdtX09mNDZSeXNDYnVQamZRVi04TnBLMlZJUmJhRDk5QUNyaDZCTGJhUUVQRlFfVm5qcGFzdlJXZQ?oc=5",
+        "title": "Here's How Much You Would Have Made Owning Valero Energy Stock In The Last 15 Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYmp5d3I5WGdQeElJX2J1VC16cjFaaWJaSjVjTVVxYXUwVmpNa2NqcE80RVBQY2tZeEIzWm1nVE9ReFJiN0JLb0FNanRUdGRRc0VCeVlYTGFtMWwxLUJPd0pVaDREaDhJVmJOYXdHZEd3M2oyTmxtMXM1MUFCNGU3aU16Z3Y1SFVJWGJKWnVjNHUzelFlR1QzUVdKbWFqWWhrTVNTYm53eDRONlRpclJoNHJlTDMzQmpQZVBPcFNaN3lBb05rSnh3NmQtTGdua2Zucnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Valero Energy (VLO) Gains As Market Dips: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2F5Yjdqc2x6UTg1d2twbmE0UjBfYnNCRFJISlFUR2lxaUVkd1BhZmI2ODNYSEVDa0t2QzFieEdITk9kWW5WRUpFSnFMc0tWUWduTkFyaExoeUlYSjAzeXcyOHptZm5Sb1pYaVB6bGtCMEpybTAwZHFWQkhrZGlvUHJB?oc=5",
+        "title": "Valero Energy Co. (NYSE:VLO) Position Boosted by NorthCrest Asset Manangement LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmU0Z2JuaE9SYlc4RnAyV2NWM1IzdVk3SDdNZmlqcTVFMzBhZm4td2JZNHNfaWJUSWd5MUJCOXQtYV81UDVBYzhjUTNLblc1dHA3LTFGNFlkTDZxT3JHenA2MDI2RkR1N25NbURfVWRtbGVuSm9ZdkhVNHpiRVlTR3M3RTkxUlBrUjRSOUd2VG9iZFI2U3VWUHhNakt6NmlZV3RJMldHQ25NYm54Z0N2ZmYwdks1SHhiWnU3b09HWWJQZDFYeWZZNWVuZjROekxadl9BcA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "2,146 Shares in Valero Energy Co. (NYSE:VLO) Purchased by Portside Wealth Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMzNpcVU0RUdqMGU2QVhsOTlVQ2FDN0w5V3M5MUpuZnRxWFFsSGdEMWtuaTFnZVZrUldvdkhNRW5nVUVlcXlKY21OcHRVVENJVUpjMzdjSGh4WHZmaXhEejNNeGduLWVNdDU0MGhrYmhicHBKdkFRSVF5eEZWRHNDZEVZYWdpOUZtSkZCQ3BsVjlOMEtLNGgzLTZ2d25BMTBfRlFwT0g1NWtMUU04LW45YWE2SS1OMklMa1FIT0lIN1dCd2VRdk5ZYl9xdEt0OC1OaFIwaS1B?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Valero Energy Corporation to Announce Second Quarter 2025 Earnings Results on July 24, 2025 | VLO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNXBOZ19tc3dtbmFIV0I3RFRQYWZweXNpSXY1TFpZcFN0NWFkai1pdndUbmZ4TDE1LTFhQXUzaFZQN3J0dHdfNnFPNWxqZVNYVWc2dFAtMFlBQ3JTd3Y1UXdmZHFHTmU4LWFOdDB5a25Ua0t4ZVhmd281V3JjM2lWTGRSTHBOYW94R0laT1psY2FsOC1tY0NzNWQzMlluYmhFMnpNZGxoUlo5TDNEVWNYWGRpdEJ6a1BsWUJfTlRtT3ZsdFN0bUNSTVg3N3pMVHRfZ1YyRk5Eci1qalZGY1A1cXJpTUhlejR6MGdvLXFjX2JNR2xPNjFuU2VhcWRBYXdsZVJXOElERzJmS0hEQVpmZktOS2JIWExKVGQwNWd1cUlfU1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Valero Energy (VLO) Gains As Market Dips: What You Should Know - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUlvOGktd3gxZWNHMUM1N04xTEJnRzJkU2lUWEFRMDFBNHUxdmlub0padjQ0Q2JCaTNZeUpqSElmX3J1Y3RNQm5jcGRtaThPWlMtNUc4cHlPRndkSTJnU19sMWliUW83bjJJVDJZN0R4NVgzaEU2dWxZQXZfeUE2WGVuaGVMZFlwdmt2dlF2cDdCNEF3aUxIRzgxNDRENU5pQU5CYnAzVzh5eTlpSmcwaHRoTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "We Think Valero Energy (NYSE:VLO) Can Stay On Top Of Its Debt - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDcxU09jSGY5dnRrYUR6RHk1LVZhMTBzQjA1aTNPdjVZRVVRa2lWSnFHeTJZOW00bW1aNTVDXzdyRVYxN0RCM1JQTkl2OWJ3cWFsdy05QUdDMjdQM1hJLWVHbmtnZ0Z1M3NXWmZjVGVQVng1Z0dnN2lIdXM5c2RzOEwxZU1pY200OEhiVDNDdi1DX01HQjNNZmt3Q3IwcUNNc1Q3a3prQWJVdW1yZmpXOG5aTlloM1h4ZDNFY3M4eHBVemFqLUHSAcsBQVVfeXFMTkhtTFNaVm1xT250YXRsYXY0dWs3cnY4N3BGaFc1Q1dNMUNkb1BCMmdJd3VydjFocTZBOVRvVk51SVlXU1VKTG1KVjJZUFJ1SE9ET0NPUVIzdHJYcGdUbVJVM0FvRVU4NU5jeF81bjNBNmp5ZE5vTlZjNk4zMWl3am1HSWozYV8yVTZOTFpHbmVMd0ZiR0piejUzeURkOXIybUx5eEh5U0hkdWlSVmh3cThiU0xLYWdrakVSNkxmeDNHdnlkME5zMmpTQ3c?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Valero Energy (VLO) Stock Drops Despite Market Gains: Important Facts to Note - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUpGU1RuUE52M3F6U3prMXJHa3EwSlU0Sm1UTHlJaFRPNy1VeUs4bFJEdXB4RGxuay1zcDJqTHVuT214N2lLQm5CRS11V29xVmZHeHdYZmFra3NrdGpKUGpndnhQNmo3UmtjdTltYW91V0N4czRMZFU5SHRoMzdmd3pDXzhzMmN1NVk4azNwQ0ZIMXdEemY5YVNoVXNqck1va1Z4VzN3?oc=5",
+        "title": "Is Valero Energy Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOS1UQmxNTDZROHlycFNFcFBLUFoyQmdUS21iaGVmakhFZEV3NF8tWGlNU3g3aDFSOXA4MGo0Wml6RVlHa1VDUmtzbTlqdS1lWWEwb3JBaEd6WlB4ZDMyejlFNWlqdTNJVnNTTkFBLUtJcVY1cV9LZi1yYTVmU1ZPV01PdzVJa2Vkb3ZYRVdXREtIQm1pNnRMamF2ZkVkQ1RXYVU0a3BaRThFcXhkdk1mdG45amxvRzYzRTRCOWZQZVJzcmlhdXlFdFBWWDlnQQ?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Valero (VLO) Sees Increased Bullish Activity Amid Rising Implied Volatility | VLO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFBvbVowOHdSY1dTVXJGYWJHMjJMQlFxUEZPd0l5UGN5U3ZtaUFJb2w2cG9aV3hpRjJmcGRmWjZPa0NMeDdKak9PdTREbXQtZGY5c1UzdlhVUE1JT0R5UWdHSzdwWE9sOGZVaEpVNkNsZ29uQmFfV0FwTVJYc2JtYWRoWWNucUJqQlRzdlVaOW1USjhRNlpFbFNxblNFQ191eVZ3Z1dSdm83M0Zwb0NlY0FDQUQxejNTd3czQ0tGbFdHaHhKeUE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Valero Energy Corporation (VLO): Among the Stocks Analysts Are Upgrading Today - Yahoo Finance",
@@ -596,23 +581,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Reduces Stock Holdings in Valero Energy Co. (NYSE:VLO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWxJbU5NNFRqX2xla1k0T18wMlNPVzFNX0VtZzlIcG1QdTJEMURFeEJiZ0ZwUVRoVElOMGhuQnFQUDN0b0g5RUw3QjdiaTNuUTFvVEc4a3ppZWt6MUk2QUJpYTYycXdtcDBCVzhEZ2luVlBPTlhTRU1HQ0cxWkhjdU1CbV9EZXM0QXdLWXJWWVUteklyUkJmbExibGVRTUliYWhTbGZhX0RUdVFGZ0NBRTVCeENTMjlWa2RKSFJlTTRxMlFkN25BSUN3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Valero Energy (VLO) Stock Slides as Market Rises: Facts to Know Before You Trade - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1k2SWNFaHpCenZ2MHlXZWszOGR1dGtUVDNXMUVxSDlKYXFiSW42NzdjUkhhLV91RWlHcHhpX01XY3Fna3RDcGNsSzNMZndnRnV3N1dfaGhRcE5PalE4T1JvdFFJUGlyYkhLVWRTamdaVHAtWTBXTHlWNnlfdDFWU01DQWxTTHhfeEJNb1A0YThYVk9Ua3JVbmZkRFA1Y0E?oc=5",
+        "title": "When (VLO) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVhINHpYVlBMUTJaR21CZG1sZDVtOFZodUJPZUMwcW45dmdrMEoxaDYzRURGenRBcXFmWjdGdXllZ214ZlgxaTlPQWdJMUdwdmRlcGVSb1I5VF8zWXVjQ0YxUGFGc1BfZmllazRNNjllemU1Sy10c3pJWXVyd05tODA4RmhNQklMV29fTHRhM2o5c1RwZmtUcWRxMDVwMGhmUWQ3c2RzekdQWTRyWm5qMks1TQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Valero's $1.1B Hit: California Refinery Operations Face Potential End by 2026 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2U4dWJnVGV3RW5SdjZpNjdBcHlMVDhfS1A2OWdkdDA5XzdhYXdQNG9aWFMtR3ZUZGNwaW9jY09HRV9MaTZ3SjlkXzRHMWJrU2dfNHJXeGlmdGxzT3d4Ql9sM3ZWdlc0dUpUZ1RSTTIxc05vQ3hsczFvaFFUVzI1VkN6Nk1nN3VSczlMS1VFcHVVNUcyN3dxaTF4S016b1RNNHpWY21ITU5uTVdObzByVGlQZw?oc=5",
+        "title": "Energy Giant Valero Sets Q2 2025 Earnings Date: Key Operations Update Coming July 24 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2l5anZ1aTUwMlUyaVB5NktzdG0wV0U3QUF4M1c1Zk1acUJTZFdqam1zYmJXTnJCSnpGWGxqdlBhWEljWk1JWHJVbUE0U2RodW1wV1RFZ05vYTRXenJ1RUoyQ0ItSHlhekVtVFR2LTAxSTMyS3RrQk82UElwSVduRHd5TjdtX09mNDZSeXNDYnVQamZRVi04TnBLMlZJUmJhRDk5QUNyaDZCTGJhUUVQRlFfVm5qcGFzdlJXZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valero Energy (VLO) Advances While Market Declines: Some Information for Investors - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ09xcVBVYWw1X3ZybUF1WXpYTEMwRzJnS1RFdlFlUzd6OG9xeE1JZHRaVUVXUmZ2eXgyVFNuZHNYcGVPU3UwVDcwT2JhSGpxclNiNGRCWTRHT3FVcmFpM01GbkQtdkVzWDl5Y0c3SHJTbThxbW0wVmViMV9IT3M1aXhmel85RUh6M1pJandOQ0oweVNEQl9ReHhYLThRWF9nR3FWWEN3YUVZWjNDTXB1RzR3TENlbU1yYjJJZnR0QXdyRnFBdGlsUEY3VlZ4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valero Energy (VLO) Stock Drops Despite Market Gains: Important Facts to Note - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUpGU1RuUE52M3F6U3prMXJHa3EwSlU0Sm1UTHlJaFRPNy1VeUs4bFJEdXB4RGxuay1zcDJqTHVuT214N2lLQm5CRS11V29xVmZHeHdYZmFra3NrdGpKUGpndnhQNmo3UmtjdTltYW91V0N4czRMZFU5SHRoMzdmd3pDXzhzMmN1NVk4azNwQ0ZIMXdEemY5YVNoVXNqck1va1Z4VzN3?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Valero Energy Co. (NYSE:VLO) Shares Acquired by Sendero Wealth Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPck8wZi1fcEhsV05DTGdjdWh4U0I1c2o0ZEhZVGlTTEdwRXZVTkNVdHJMYzJkXzktaGVnV0o1ZklWblhFejVDT0pMSXhwakpwcnZrQzk2UTZXS2NWR213eHZhNVZDM1UtNWZENW5QOXFzdzlhTEh6YlFXMGRySVJ2bHhFMktkN1F0Yzl6QjVJYkpGXzFIOFRBa0FjOXhyMzd1emtXRUN1dV85bFk0LVA2QlVjQ2xqNlVPc2s2eDd6SXNLZjRvNG9sb3d2Qk45NkU?oc=5",
+        "title": "Valero Energy Co. (NYSE:VLO) Shares Sold by First National Bank of Mount Dora Trust Investment Services - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa0d3cDdQWkFJMmF0THBMUUtkS1VWZkJYd1c2a1NlTlF4S1p6VVNpRkJjZ2NoUnpBWlVUdlNpZ21iYVVIYWwtM1Rha3Zfb1FleHhmMmZIa0R0OGZDdU45eEJrMjdqSWc2RUlhazBUSXBCR29VX1hzcUV6dERHSHNVb3BuaG5ZMGVLeHVwSDZjek1MN1VhVm85TjhybjRycGE2YWJWSzZZeEFCZFVWbFBHY1hyQ25iS2JyMnpTNlNLNE16Rjdna21xa080SUd4dnBJdnU1dC1qbElyalNXTDRhd1BmZUFQU1E3OWpqU1JnNFVYdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "VLO Quantitative Stock Analysis - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zTzRYUDVWMjFEdlBwLVVQdEtDeDVtWjRYZGZRT2JHWXlFWkFHdzhWQzdxR0dPQUdjM2pLZU5Vb1Z3Qlp6N2NuZW5yel9FTXJCVVBlSl9jRGNZNk9tLUhCUS1DZFRGRHhuaVFjczR0NWJCVWEy?oc=5",
+        "title": "Valero Energy (VLO) Stock Slides as Market Rises: Facts to Know Before You Trade - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1k2SWNFaHpCenZ2MHlXZWszOGR1dGtUVDNXMUVxSDlKYXFiSW42NzdjUkhhLV91RWlHcHhpX01XY3Fna3RDcGNsSzNMZndnRnV3N1dfaGhRcE5PalE4T1JvdFFJUGlyYkhLVWRTamdaVHAtWTBXTHlWNnlfdDFWU01DQWxTTHhfeEJNb1A0YThYVk9Ua3JVbmZkRFA1Y0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Valero Energy Co. (NYSE:VLO) Shares Sold by Annex Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUF5M2J1MUh1a2t1Smk4NF9rTHE4R3ZHQng2MnJVWVVERUZ0UUtzYkFPMmxrdUtRV2QzclRGNTU0dlZjSy1GdzFSbG54RGM0dFRoeHlYX0NRSHh6THRoZWVYeTBfdmhRenR6SlNnSlZPYkotcDVfWXNJTmZXWHBjZ2FoUFVVYVNSdTNMWmJRSW1JeWJVV0JzRnRrb2dzcEpmdUdhbU05MFRoRlVaY0hfSV9uN0ZFbFktTkMxZndFbVY0WXlUQjFfX3VvWjJmRFlU?oc=5",
+        "title": "Valero Energy Co. (NYSE:VLO) Holdings Raised by Fort Washington Investment Advisors Inc. OH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTBETHF6bUxjcUZyM0NFMndGMzBrdTVFdGtuREczWXVzRkdYb3pBdFBITDR1VGhzcUxZREhoeEo1SUl0VVF3N1ZueEtIUnZaVWp0UjhDRTVsdF8tNEQ4UElXZnEtZmFDZzJxMzZBR2JjaEFERklzZ0l2YkZFQVF2Z05ITEliUG55V29QNDBBOWhRZUphZC1HMkVQSEhtdlk4XzQtOHdLSTFiemRFRnlEMVQ4WVpSVHlELXc1VlVUWHQyUDJLUDljX0lJYnBjTXMtaU1XR2poejZLSU5sT1BXNw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Valero Energy Corporation (VLO) the Best Energy Stock to Invest in According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXdnanVILU5TU3o0aGxMa3lGU2NsbWltdnNJQnQtR2szSWV6RUhZSUNfdElDaHAzZEhBUmlTTjdyc2VJTDFkVFJTUVFGdEpEWEJkR1RIM3M3b3RUU0pheFNRTlNpZEU2UXpSMEJmWHlCRXpMVjZnT0l2dlpTc1hBUHZ6dXJic1k?oc=5",
+        "title": "Valero Energy Corporation (VLO) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM053T0p2VG1GWHJuSWJ6czEwVzBjelNONEJMbFoyZlprSHpPbnBlTVdBdkd0bHJPcUQtZk5yMXVBSjlJN2o1UDkwSmJzYnJiUF9JODhuMHNrNkNjb0VaQmMyZ3RhSFZRM05rUl9nRDJZUG45bEdVVmk1T21zWVFVT0lNNDIwR09uTE1pWA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Has $179.05 Million Holdings in Valero Energy Co. (NYSE:VLO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS1NFaHlpaWRzZE1tWjBZT1BwbmRUcGpuWjEzZkY1VmNXRUM0NFR1bklwaUlsZWh4VFp3TzJRR2g0eS0xYlM1Vkh6aDJVY3YtMl84OEtobnlvR3p6ZlhWRGpEZUlWem9oM2J1UW5VSGlySHI3T2NnUHdGWTY4RENfN3ltdjJ5TllfRlJMcWFSUkRGcmx4SGNzRjd6QmhsaGxJRzFLYzdCYnpBWGlMVm15OTVPSVBQdUV1dnNlYjN1dGIxUk4wYkRDVXQteVhMZw?oc=5",
+        "title": "Valero Energy Co. (NYSE:VLO) Shares Purchased by Willis Investment Counsel - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkRzVVVVTHI3b3NuMDNnZUxJYjRfdmZRdEFKYWZnUWlEdXJsU2pWWk43ZlJ4VzZncF92aTlia0U3N3hnT25qaEd2TkhiZ25fd1NpSGQ2Wjd3WkhlY25KaHZUd3hCUTRBZlVwdEIxcVR5UFRyVmk4RHdTRDMzbXZNaEpHTW9jRUlpNTVOLWFFcS1lb1ZWWDRON3B6NjlHejgwQmlPNE93Tl9Pcmc4OTlpOHNOUnhwR0oyQ3VsWU5vbVpZMkllUk5XRGxvVQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Has $542,000 Stock Position in Valero Energy Co. (NYSE:VLO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWN1bDFiQnhCVHVVRmJqMjZlRUg4dHBVb2lvUkNyS19URENQVDN2QTNQcWVSMm5aOTFHZzVsamRqUmR2YzRLcVZxVXJkS1pra3FUZHVZTXFmWHd5WUx2OUp4eWt0S3hmUzU5c3NHQVNwa2JIcXRYRHhxZC1CWlAtVXBfd0pDb1poLW5ONHBZZUZIREZtRkVpX3doYUJDT1RQYk93c01MV2lldDJKeDROQWVCVURJd3NSV3VTMklPYTdHMlRLaTlrbk1MWUtkQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Czech National Bank Boosts Holdings in Valero Energy Co. (NYSE:VLO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDNzMjJfNm9fNWU3WTdNeWpiT0JYX0Z6b29ta09YQTJuNnRSX2h1U1F2NVhoZ19WNGZERGd0QTZWNlFpRHYydGNQLUdQc3FQNjJoQXczVC14VW9jZjduWlhiMWFxRXpQaWVKakpjeXZzWWd5MFBKVTlEdGJ5cnRGRXhQMF9HUEFlWTRyTGJ1SDA5SVR2MGRHRWJJUzhzb1lNRWo3dFZ2Sm1BcFFMQndoWEpKM0laUHNUVXZBakJpV0hGQQ?oc=5",
+        "title": "Valero Energy Co. (NYSE:VLO) Given Average Recommendation of \"Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHQybkxmM1ZrUkNyMC0yRUo3T3gzTmlrZTduT2ROYlRCWF9PN09hNUt0dHNZLUpBTEJNbEFnZWdSVXJacFVNaVFoSzVjZ1FhamRISF9jd09LVzhGTDd2QzZTTHZwNjVra1N5Vi15cFJmeUhRS1BibnZSbXdvazZiZmVQOUlNall5aThPU3lETlVPdmZ6a0x0T2NpTTA1NWpuV2QxM3dDVXhVR2ZGU1lTalFvYVQ5LVNZRS1QcVpScTVKWHpTd1Vj?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Valero Energy Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSF8wdEgtWEw2M3d5ZF9zYkViNUFmMzRueHJrX1B2SFFXLVctV0tIc25qTWNab0hjUUlRNk5tcE5rM3JVak93Nll4dDZpME1nbm5BdzdCWWJFb01Qb0taS2E1aldvbC1DWVdlRlFmVjlpSUhzanBwbFdVaVcxNTloaVJWaHE2SXdxVm1ySnB5cWFVWGt0?oc=5",
+        "title": "Farther Finance Advisors LLC Increases Stock Holdings in Valero Energy Co. (NYSE:VLO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGg3dGNOczFnbVVPUEN4VUdQOWRTVk02dE5aQzZGczRxbnZLRjJCeHFmMWp1VzByQ0NUdGpqRXdsdG14TVlBS0ZFdWVhZkxiVWlOZDBpRm42RzI1bEs0amVpVnRFc3gyRVBNR05jckl4U1gwc1pMSy0yZEZzUTRVT2k2ZEhBM0k2Z29XQWw4MjNJYVE2WHE0UG42aThkWTF0UnRrVGEzVkgtWUVvQTU2bTV1bmNvbVVSc1B3SDJ6NVhmUHJfZHRDUGxzMTJNOVBsd20tcmF6ZnJkZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Donaldson Capital Management LLC Trims Position in Valero Energy Co. (NYSE:VLO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmxzZTF6MkdOU3VRdnRRZUJBalhTNkF3eXdSeFRFLXItRU5XTjl0QjQzZDluQng0dFQySVBoZGotUGVUNWV5VDFhWmdzLXFTSm40RkVhcGdKdkg3TVVLSjIxVXpFUkFaaEY5SGMxYkpvOEp3V3cxMWVFcFVvNDZjZFFyTVhBTWNLekNKZTQzWXFKRjVNMFRvR19mLVhQTC1fNDc3MEpYTGtHZ0NpUFNFTUJicWRLVlozU3RDVGdEcFF6S1hzTDNKQTNicDlkRmdSUUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Buys New Shares in Valero Energy Co. (NYSE:VLO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYk0tTW04X0VseHVjYlZZanR5XzAwZkdXSWswUDRJaFRjeVl2UTNxTnY1R1lTU0p4eXVxckRNMEVuNk5FOHZ1N01xeU9DYUpraW9pSVREeUJPN0ZRQ3ZaV3JNVmlEbkRFUWxkdHp1N0ItMTVCMldnbW5iWUwwdFA1enhNS28xYUw3VDlnREJSQUstcVFrdjFJbTUtQlZCRF95WU4yR1FFWEh1ZVpEdnhZcHZfbkF3QnZ3aGRVYm4xUmJSS2JHQ2tNOFlhMHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Acquires 4,100 Shares of Valero Energy Co. (NYSE:VLO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWN1bDFiQnhCVHVVRmJqMjZlRUg4dHBVb2lvUkNyS19URENQVDN2QTNQcWVSMm5aOTFHZzVsamRqUmR2YzRLcVZxVXJkS1pra3FUZHVZTXFmWHd5WUx2OUp4eWt0S3hmUzU5c3NHQVNwa2JIcXRYRHhxZC1CWlAtVXBfd0pDb1poLW5ONHBZZUZIREZtRkVpX3doYUJDT1RQYk93c01MV2lldDJKeDROQWVCVURJd3NSV3VTMklPYTdHMlRLaTlrbk1MWUtkQQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "LEN",
   "name": "Lennar",
   "sector": "Consumer Discretionary",
-  "market_cap": 28586174464.0,
+  "market_cap": 28389500928.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 7.951095,
-    "PB": 1.2643051,
-    "EV_Revenue": 0.714,
+    "PE": 7.8935037,
+    "PB": 1.2551476,
+    "EV_Revenue": 0.73,
     "ROE": 0.15213999,
     "ProfitMargin": 0.10438,
     "GrossMargin": 0.21847999,
-    "DividendYield": 1.82,
+    "DividendYield": 1.78,
     "DebtEquity": 16.9,
     "CurrentRatio": 8.668,
     "QuickRatio": 3.159,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.25641473526384845,
     "ROA": 0.08224,
     "PEG": null,
-    "EV_EBITDA": 5.126,
+    "EV_EBITDA": 5.237,
     "BuybackYield": null,
-    "PriceToFCF": 3.1181316656429727
+    "PriceToFCF": 3.109538221006198
   },
   "technical_indicators": {
-    "RSI_14": 51.5187616192965,
-    "Momentum_10": 3.438125857256196,
-    "MACD": -0.2749707447651417,
-    "BB_Percent": 0.5559195302880314,
+    "RSI_14": 48.45794662057128,
+    "Momentum_10": 2.1775994708905664,
+    "MACD": 0.5181677841911636,
+    "BB_Percent": 0.4873596016781429,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9350454683364364,
+    "ValueScore": 0.8969299785662636,
     "QualityScore": 0.2887191420783407,
-    "SignalScore": 0.5504103334888983
+    "SignalScore": 0.5783194572009362
   },
-  "volatility": 0.0211562347961616,
+  "volatility": 0.0214181953540041,
   "beta": 1.354,
-  "return_6m": -0.3058090208581016,
+  "return_6m": -0.270395358863851,
   "analyst_rating": {
-    "recommendation": "buy",
-    "analyst_count": 16,
-    "target_mean_price": 136.89626
+    "recommendation": "hold",
+    "analyst_count": 15,
+    "target_mean_price": 132.68933
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 160.71
-      },
-      {
-        "date": "2024-12-10",
-        "price": 156.51
-      },
-      {
-        "date": "2024-12-11",
-        "price": 153.11
-      },
-      {
-        "date": "2024-12-12",
-        "price": 150.5
-      },
-      {
-        "date": "2024-12-13",
-        "price": 149.46
-      },
       {
         "date": "2024-12-16",
         "price": 147.07
@@ -537,37 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 108.53
+      },
+      {
+        "date": "2025-06-09",
+        "price": 110.37
+      },
+      {
+        "date": "2025-06-10",
+        "price": 113.55
+      },
+      {
+        "date": "2025-06-11",
+        "price": 111.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 112.15
+      },
+      {
+        "date": "2025-06-13",
+        "price": 108.61
       }
     ],
     "current_price_data": {
-      "price": 108.53,
-      "change": -1.53,
-      "percent_change": -1.39
+      "price": 108.61,
+      "change": -3.54,
+      "percent_change": -3.16
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de Lennar Corporation (LEN) montre une volatilité de son cours de bourse malgré des annonces positives telles que le lancement de nouveaux projets immobiliers et le versement d'un dividende. Cependant, des signaux négatifs tels que des baisses significatives du cours récemment et des avis d'analystes mitigés suscitent des incertitudes chez les investisseurs. Par ailleurs, l'annonce de la construction de 1 500 maisons géothermiques par Lennar souligne son engagement en faveur des énergies renouvelables. Cette actualité reflète une tendance mixte pour les investisseurs, les incitant à la prudence malgré des perspectives positives à long terme.",
+    "summary": "L'actualité récente autour de Lennar Corporation (LEN) met en lumière une volatilité significative de son cours de bourse, avec des réactions mitigées des investisseurs avant la publication de ses résultats du deuxième trimestre. Malgré des anticipations prudentes et des options baissières, certaines analyses tablent sur un potentiel de hausse, comme en témoigne son récent passage à l'achat avec un objectif de cours à 121$. Cependant, des signaux négatifs persistent, notamment une sous-performance par rapport à l'indice S&P 500 et des chutes de cours plus prononcées que le marché dans son ensemble. La récente annonce d'un dividende de 0,50$ par action peut rassurer les actionnaires quant à des rendements stables à long terme, mais des incertitudes persistent quant à la solidité de la situation financière de Lennar et à sa réelle résilience face à un contexte économique incertain.",
     "sentiment_score": -0.15,
     "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Lennar (LEN) Stock Moves -0.15%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hclVmMzFpdGxmS3lsX2RZeW1QclNXSUJTVlZVdGhsZ09tUjVzSnpkOTdodTJtZDNIaGFWTXhJcmRqOGlfU0ViTG04TlJTb0lVVEo0VXpyV2VVenJDUmUyZ0gzLUNsU0V4bThtMXVweHViWndIckQ0cU93?oc=5",
+        "title": "Lennar to Post Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2lzZXlUNEZtREJ3bGo5SHYxYlR4ZFpDSjlvVndwNHRFX20welRPVl9nM0dHUlgyQnduUlYtLUstYWZlSENMc2VJS1JTZFQ1NVdCMzdBbTdTUnFuOHdXR0VNVjcxVzRKNmZyYWJJdWRsWFpya1IzMS1JTzZRWXdpQg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Leading Homebuilder Lennar Sets Q2 2025 Earnings Call: Key Details for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFBmbENoZkpoWG5XMU4tSkc1aFZKcWR4ZTRFQThTY1VvbFVQSE5DQy1yV19XQ1pwaG05bExKT3l4eTdGaXNha0prSTd0dXpFY0JHRWVkMjJmMXBXaU5JazVaWVAzd1FYZElmMmsyVGppdDdMOUtlQVlWam52WjB0aHFmZWFrT01GUUJJNXhpTl9tb2FtX2lyNE9nOFFrWTQxSkUxSEhfZ1hYTzN6V0pkaWZKbHBUVHpOMHZZQ1pn?oc=5",
+        "title": "Is Lennar Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWlN2elRGNTc4SXZwZkh6cXE2YWFxNEt0cS1ObUMyRFB3Vzd5TWVEMmR6cFlXaU1VaS1MSWk5eEZZdTVtRFZMcjBHV1F5V3BFQnV4NFkwYmpFQUJLRHBLdGJKS3NjOWRSdTI5YjFwNUFuUWx5R0Z5ZWg1bUJ1YTdYSy1EUjQwT0dXZlNUM0hPaFc1elNvbXdoVHdJRjlIZkJReGF4ajNxa3IyaXREa1QtVjlkaHBzdjJvOWtKZ1IyUlNRT3g0RFQ0Yw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lennar: Low Expectations For A Seasonally Strong Quarter (NYSE:LEN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHo4XzNFN0J4V3B2bUY5am5sUmlkOUxNdEZDekMyaWhxZDByM2JfbTRhWmdoNEN1SkN6cHRJWTcxc2VkSWVVZVktSUU1M2NGVnJLU3IzYmRvZlBEa2lLRXNQZkxtcGdvMWl1NTQxNkY2cUFyUWZuZFFyQ2g2WEhic1VNUEtqQUttUlRYM2RSTWp6ZWFUaUdIYW5XdWY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Will Lennar Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1hXT29nNHlBa0JoQlpYdEF2bHpvNENvVTVCM2w2NWt0WHZUTE9yaENxMG5JTl9YLXFhWXdDOWFlRFBtUlVXNnJGbEFOMXRVWnhlNUJaRzRUUW83dXVldThJVEdYTkJIaElTc1JETHhkanRBMlVsaUxEYjhyZDhITC1NclE0akRONnNxVl83Q1ktempRdnNwYS12U0VPN2k4bk5aeHpkYS13dWdCTDRlTnd3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Options Traders Betting on a Big Move in Lennar (LEN) Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjE4OTZINXNXelZCSXJ0aVBhb2RQdWluOEtDYWtZdkNTWFlZXzNNd3ZBMnJmZTBBUWR2YmsxNFhrSE9FVWZXV3Q5cmo0Vk5oeS1wSzBzSGtSM2RKRWV0RnMxb0VBZnJLRlpYTkd3YlNKY2xCR3J3V0hhaHhyN1RnVlBhY2NIaTN3T0tFQTY3Zmw?oc=5",
+        "title": "Lennar (LEN) Sees Bearish Options Activity Ahead of Earnings | L - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWMwM3M1VmY1V0ZvNW03bF9vbDh5eEJZUVFpNU9UYmJheTlhb3ZLTWFpNUpqd0xVZERRMURqVEVGQ0VpR0FHWE1idzRTQ1BHbENnWU9OOEZaVGotMm1hVEZxaWdrTUswa3lhRG9FSXcxN2JwbklTRjM1TnJBTy1ZTUJRVW9MWl9rYzF1UlZ3Y1Fqcl9sNTRGYTFWWmJyazlrSHNZaktrUkx2NWFIbkNuVkp3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(LEN) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGl5YlA0d2VTam83M2VQMW9OWUVKN0VzMVVjZ19sMC1vb0pmTmltRXE4cFlYbTRsT2hYYlZXTTZqdFBPTm5kQkNuVEJ4OWt4X0pfd2loeXNUZGt6RFdlVmFwN25WSDBFXzF2NTdjUHFfTnVnVS1ISVpydjNpeXRJeGpZMU9tOHh1ci1GYzU1ZU5JeloyRC04amp4V2dPRG1IcmJfS0VkUS01djJf?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,29 +591,19 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Lennar Unveils The Townes at Arbors at Wiregrass, Bringing Luxury Townhomes to Wesley Chapel, FL | LEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYnJoMXFsZkxaVFZLYy15MERVa1BJMWE5czZkbWJfMFVRQnRqOUVFRkwzeFlNVDJPNll3N09rWl9sSlJwb2VkSUx2SjdCSGlsSVJSak9VUkdCMUNtYklNNm10Qy1sVlg1Y3pBV1JQTEVuNjlYNDdPa2x6QjBNYldmRlRjb3dvVUZ0SjhrQkRvNlgwdXBCNTdUb1FBbXBDWHlmcWpuQ0wzSVBCUUl4dWZhTFp0V2JRYmxkQzVHVWdoa2xfUnprYWN1RTctUjFuc19wZFQxeTRWaEpFa0QyUzVGXzRUMA?oc=5",
+        "title": "Are Options Traders Betting on a Big Move in Lennar (LEN) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjE4OTZINXNXelZCSXJ0aVBhb2RQdWluOEtDYWtZdkNTWFlZXzNNd3ZBMnJmZTBBUWR2YmsxNFhrSE9FVWZXV3Q5cmo0Vk5oeS1wSzBzSGtSM2RKRWV0RnMxb0VBZnJLRlpYTkd3YlNKY2xCR3J3V0hhaHhyN1RnVlBhY2NIaTN3T0tFQTY3Zmw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennar Rewards Shareholders: Fresh $0.50 Dividend Announcement Signals Steady Returns - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdnWW85c0V6OEYtRUlUWFJiRnkwY3J6WmxJZVFwdldFUFVxQUFTWXVwTEJ4NXk2YXIza1UyWW02bzh6SDRGOTZsSWVMSUcyV1RmcEtPZ3NtNWhBZzlKdUtGNjFnaTRvNmllTWdYY1E5YVdPM3Vad1ktaDJFUU4yUkpudzQyd19QbGF6X0lDbVQwT0hsREE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "LENNAR CORPORATION TO BROADCAST ITS SECOND QUARTER EARNINGS CALL - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDU3clNHbG1yUm1yU0JVbmNsZWlPeFV0VENqR1M1cnZfLWtPbTlnTXVLcVVLTjBwdjVOYUJGZE5UUXZGbmZpWVd0OG8xakZtZ3puT090bkxFa2JjWTNyU011YzlFWGt6cmk2V1VYWnlhaHlmYVd3LThqcjZ1SExWekdQdmJUWHFINTBZQXIzdThCTHpyd09iVjZhRnVnMXplVGN2MDdOcXc3R0hZOXhVYnMtX0E5LWVxdGxoQmVSM2xuX2g1cEJfSjVDNGtYMDg?oc=5",
+        "title": "Lennar (LEN) Stock Moves -0.15%: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejE4b1J4azBRREFLR0VFcUFwQ1VsNF84bEwtdXN1cldDQ1E2NS1QbEZzWUdFZlE0T2tKUmw4V1pOT0RDSHNPMWtNTWNDQ19WanlsNkMwMDVtUE1COWNwZ2lXXzlKdmYxZF95MUEyVEswRG96amNiY0l2WjE3amVrZ0FEX3pmdnZibVNJTmxJNV9faXZWemhrX3Z0dzluN0xkZWhr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons LEN is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LUEtOZ05falBxSU1PR0Q1X1Uza0d0UVJGZHVJOHpDRzZweDVVak1RMXBlRG9uQkpZSExWMjJSbERFSi1INWR2em1KRDAwYlF1bHNscnlYSFBHV2ZPLXBjTUN3eGxxaUNNcndhMDVDcVBqRVRtWEE?oc=5",
+        "title": "Lennar (LEN) Upgraded to Buy with $121 Price Target | LEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWxsRTNHSURYcHluS1dOZ210WGs5ckUyTmlVRnVRc0t3V2xxSlBwZUI2Y3ZDNHkxYzNPcTJSaE1OVjc5ZEEyTmY3cXJ3LXNESUVXUDNKUlF0YVlFOG02djhLaTFFTWRvVnduTEs3VXh2SUhpRlh5NEZiVy13Nk5vMVc4RVF2QkxkOFIxR1p0ZjkwMHYtRVdmTDlDN3JjOEVRMGpTdA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Wall Street Analysts Predicting Lennar Corporation Stock Will Climb or Sink? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV3RncFJrUDhPQ1g3cjV0OEl1akhxQm9wU2h2emJCWUpza053ZUR1Um11aW1jYkRnYlJ3WVQwTWYtMTJKS2V3a3NBU3JOeElPVWRhcEozWnlLRW5IckNVWjZQck0ya1J1V25yZXNkVm0xVDlPR1ROb1VwZ0p2NUl0ZjUwVDFSbUMxMFRVWU1jd2ZLNnVFdjZwank1MnExT0lab09wekE2VE5Za292LXNBWWdab2llUzJ2WmhZNjlhQzJwbEY4b3hhTTU1Z1FkSHZWN3I4cmFhWGQ5ZHJQUjNLTDdlNXJwbHZ3NDc4dWt5bG8?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Lennar (LEN) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
@@ -606,8 +611,18 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "3 Reasons LEN is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LUEtOZ05falBxSU1PR0Q1X1Uza0d0UVJGZHVJOHpDRzZweDVVak1RMXBlRG9uQkpZSExWMjJSbERFSi1INWR2em1KRDAwYlF1bHNscnlYSFBHV2ZPLXBjTUN3eGxxaUNNcndhMDVDcVBqRVRtWEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why Lennar (LEN) Stock Is Falling Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CT2I0Vm5HRFloVWpHbDluVEFrNVA4ZnFDRngzVW1ORHZNNDBEaXE2Si0zNVdsdm1TUWdZMnBhVmlPNTR5RVpGdzlGTl9EMWhSM0pOdTZwd3ZqVWFNa3NHcm5HaXdweU5IQVh0Z3FfSG9GTW56YjNBRGVNdGZybVk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Lennar Corporation Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMkN4U2lsSzZfb0RtTGpha3VVcTZsR190bC1sVEwwenNqcUU3S1cwQ1JwTjRWZll1WDRwRHRFNU93ZmhhdHhfall0SUdvSTVFZDRfZ3JsT0dVenNQSXdsdjZSaENOUHBoRnA2RV9xRUlGRmppWGs5Y1VQR3hSMVFKQ09CX3cxTkMxNkgxbTRLMkNlM0dMQVB0dktERW9tR2pGWUE5MEpWbUp6SV9LeE9NaXlTMDVjMnNwUU84VGVOZjZXTmRraVVFSkFNM09LejhaNW10bDMxOG56b2ZoX040blJkdElqZnV0cklaVXhkZ0NGRjhzVGtndlBJdVNZcmMxNFM0VGFZNmktYUN3YWd0UUVjRkljTjdJRnE2UkxyYTB2d0hRb2ZsS1FyaDBydHZhQi1relgySnhBcVNmZGlpNkphZDg3N3NzRUF2RG9lZmhGVFZWWVVpZmFJa0JrOFlwa2U0WGxOWVZsWmdhYVpJRlBJLUk5V2sxVEZ5dFhZOWU1MmgzaGc?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -616,14 +631,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennar (LEN) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWg4TTE4RlkwUWdNXzk1QWlPWWZhekRuNVpPVTc0aVlxRnVmajdXZzJyTnFUVzN2LVNXNTdWYTVkYTRueDNKa05XVHdBdXd5dUozLTAzczNjTDRfNVotcFVSbFVSaDlMeVhmTUl6U3dHeGJBTUEwbUN2UUpxck14UmtB?oc=5",
+        "title": "Lennar (LEN) Falls More Steeply Than Broader Market: What Investors Need to Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNGRpSEJnRTdjVkUwNlhyT3pJc3ZFSlRGY3l2NExVXzJMQTM3MU80Q19NQnF4WGxleFU3Y0lub3pXTHlsM1lKS2laQnRQOERVN3g4QzlOejI1eGlGNGlGWG9jRFRMT0F3UHVLd0JzdUYya20xSlBOREc2T2lURUcxZEI3NnVuWlZnNkN4elR4VDdaSTVoZ2NQS0JDT0dZQU5wbFBSdjN1R3FfenpJdkVjbm9ZYzZyZXZQQ1JCS2NMeWhaeTZoakRHaHN4cw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Lennar Stock Declines 26% in Three Months: Should You Buy the Dip? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWpJV3FDYkp4TGRZMlBXTGUyeU95WlM0WE1fT0tnM3JxWU1OZ20zXzVGa25sdHJLWFQ0UENGYnlPeGU4aTBwTGZRbnE4S3dmUTJpZ2wzR0xoQm9Tc3NyNGt4WlB1ZU15Qk5tanQ0am51NkNSWTZjNWZZb0JMeHlHcFpR?oc=5",
-        "label": "NEGATIVE"
+        "title": "Leading Homebuilder Lennar Sets Q2 2025 Earnings Call: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFBmbENoZkpoWG5XMU4tSkc1aFZKcWR4ZTRFQThTY1VvbFVQSE5DQy1yV19XQ1pwaG05bExKT3l4eTdGaXNha0prSTd0dXpFY0JHRWVkMjJmMXBXaU5JazVaWVAzd1FYZElmMmsyVGppdDdMOUtlQVlWam52WjB0aHFmZWFrT01GUUJJNXhpTl9tb2FtX2lyNE9nOFFrWTQxSkUxSEhfZ1hYTzN6V0pkaWZKbHBUVHpOMHZZQ1pn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lennar Rewards Shareholders: Fresh $0.50 Dividend Announcement Signals Steady Returns - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDdnWW85c0V6OEYtRUlUWFJiRnkwY3J6WmxJZVFwdldFUFVxQUFTWXVwTEJ4NXk2YXIza1UyWW02bzh6SDRGOTZsSWVMSUcyV1RmcEtPZ3NtNWhBZzlKdUtGNjFnaTRvNmllTWdYY1E5YVdPM3Vad1ktaDJFUU4yUkpudzQyd19QbGF6X0lDbVQwT0hsREE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Home Builders Stocks Q1 Results: Benchmarking Lennar (NYSE:LEN) - Yahoo Finance",
@@ -631,31 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Lennar Corporation (LEN) the Best Residential Construction Stocks to Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm4zZlpidGpWQW96ei1aTnVuSkhTbmpib0c3emU5UDBSVWZ3SDJtZGJqejR4NThweFBVR1ZqT1ZhZWZaOTFKSUNSUFlVbEM2bDFVX1NIRnRCaGlUVlJWX2ZvVlpWSThvbU1DUmxNbHZ4SzJ1eFpscXYtU3dUd21sZmxSUjhKZUpYaEtpMGRB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Wall Street Analysts Predicting Lennar Corporation Stock Will Climb Or Sink? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2hDc2JlWDB4Y3hybk1GeXZIMUgwcWlzQ0I4RXhSYjA4VkRhZ29tdzFrVXRNRW0wXy1ucjZ5T2RuNHBFUks0WGpGYjhKSzlKOXQzQl92S2EtNGpuVWd6djN5NXNIeWpCX2l4R3FGVFdaYnc0Z240Y2xSTnlyQ2V6WHE0ck5SU2w4N2RnYk1ETkpqSkJTQW5EX2Z4dC1GRFItRGhRcTctSVdIZ0g5SzFNdFdUbkJkNEdvcGRvZWdrRlRYdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Massive Green Energy Breakthrough: Lennar to Build 1,500 Geothermal Homes, Promising $30M in Savings - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FCVGlwTzdJX3NsMzRuejdabHdLMWpfeTJhQi11dWQ0OUJCZTZ2ZC1taDZoYkJzZlVhOFNwZTA2c2ctSkpRLUZNbGcyQW42dUZkM1BuV0ZvSVNlMWhBNGNSbjVkSjZwUWhoR3lXdHlqbTNYTVc2SkROeEJpdVJsWklISmhuaGNvWTZZVzRIN0Q0MU5IUzRlNm5rbU1yRE9XZmhyVUFmTEV1THpnYWY3OElIM09Tb04tQU1WaUN3?oc=5",
+        "title": "Lennar: Resilience Built In Its Balance Sheet, But Extreme Caution Warranted (LEN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb29TU3R6QjY4TE4zQWRMbm9SZUVhN3Z5QXBjV3c5NzBQdkJDTkxZaEVUR3dwQS1iNkRzb0QxTldpM2RaVk9GN1VlckRSZ3hrWEhqZURfM3J4S3pMTlRPZkZfcmxnOFlEaV9naFZvbWpVNFhoQzhHSlpkamtNZS02WDN6ZnlGTFVib2JhNmpWYnhGR0ZKUVpQeWxWbDk3azZlRmFmYlJOTQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Lennar (LEN) Upgraded to Buy with $121 Price Target | LEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWxsRTNHSURYcHluS1dOZ210WGs5ckUyTmlVRnVRc0t3V2xxSlBwZUI2Y3ZDNHkxYzNPcTJSaE1OVjc5ZEEyTmY3cXJ3LXNESUVXUDNKUlF0YVlFOG02djhLaTFFTWRvVnduTEs3VXh2SUhpRlh5NEZiVy13Nk5vMVc4RVF2QkxkOFIxR1p0ZjkwMHYtRVdmTDlDN3JjOEVRMGpTdA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Reflecting On Home Builders Stocks’ Q4 Earnings: Lennar (NYSE:LEN) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHExU3dnUVlyN2JNbWNoWEgyZEJwY3QwamNKNUJvcjlvMTVDRXl2dElmamZwcTVoMkluM2ZSbTBNSEtmSm5nb2loQ3drZTBKdUhsS2Y5SmFVX3dldDNKQXdLcExBT0wzbVVNcGladWRKWE9wQW51Q21TUFBXRHNURV9FTzJ2SG8?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

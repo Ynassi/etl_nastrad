@@ -2,16 +2,16 @@
   "ticker": "EQIX",
   "name": "Equinix",
   "sector": "Real Estate",
-  "market_cap": 89638395904.0,
+  "market_cap": 86543400960.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 95.95497,
-    "PB": 6.453901,
-    "EV_Revenue": 11.994,
+    "PE": 92.25547,
+    "PB": 6.2310634,
+    "EV_Revenue": 11.846,
     "ROE": 0.07059,
     "ProfitMargin": 0.105170004,
     "GrossMargin": 0.49398997,
-    "DividendYield": 2.06,
+    "DividendYield": 2.09,
     "DebtEquity": 141.235,
     "CurrentRatio": 1.437,
     "QuickRatio": 1.248,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.36799409858143356,
     "ROA": 0.03119,
     "PEG": null,
-    "EV_EBITDA": 28.844,
+    "EV_EBITDA": 28.489,
     "BuybackYield": null,
-    "PriceToFCF": 27.64295218234177
+    "PriceToFCF": 26.92065697010605
   },
   "technical_indicators": {
-    "RSI_14": 72.01518293263668,
-    "Momentum_10": 5.680319758006347,
-    "MACD": 17.56022467257992,
-    "BB_Percent": 1.01650955399786,
+    "RSI_14": 52.38178653012834,
+    "Momentum_10": -0.3904088240236328,
+    "MACD": 12.623849217867589,
+    "BB_Percent": 0.4676487395429264,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9186076852767404,
+    "ValueScore": 0.8491198615856496,
     "QualityScore": 0.3692875333692111,
-    "SignalScore": 0.420754772219828
+    "SignalScore": 0.5708526852230038
   },
-  "volatility": 0.0173505772470167,
+  "volatility": 0.0173121075218744,
   "beta": 0.957,
-  "return_6m": -0.0598033301577646,
+  "return_6m": -0.073452908916419,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 26,
-    "target_mean_price": 1009.11536
+    "analyst_count": 25,
+    "target_mean_price": 1010.36
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 968.98
-      },
-      {
-        "date": "2024-12-10",
-        "price": 961.72
-      },
-      {
-        "date": "2024-12-11",
-        "price": 973.57
-      },
-      {
-        "date": "2024-12-12",
-        "price": 975.3
-      },
-      {
-        "date": "2024-12-13",
-        "price": 965.0
-      },
       {
         "date": "2024-12-16",
         "price": 957.98
@@ -537,47 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 914.43
+      },
+      {
+        "date": "2025-06-09",
+        "price": 907.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 907.34
+      },
+      {
+        "date": "2025-06-11",
+        "price": 893.7
+      },
+      {
+        "date": "2025-06-12",
+        "price": 896.42
+      },
+      {
+        "date": "2025-06-13",
+        "price": 892.64
       }
     ],
     "current_price_data": {
-      "price": 914.43,
-      "change": 4.69,
-      "percent_change": 0.52
+      "price": 892.64,
+      "change": -3.78,
+      "percent_change": -0.42
     }
   },
   "news_sentiment": {
-    "summary": "**Synthèse des tendances clés pour Equinix, Inc. (NASDAQ: EQIX) :**\n\nEquinix a attiré l'attention des investisseurs récemment, avec des insiders vendant des actions et des achats signalés par des sociétés de gestion d'actifs. Malgré une baisse de 7.07% due à des inquiétudes concernant les investissements en intelligence artificielle et la demande des centres de données, les analystes de Zacks prévoient des résultats positifs pour le quatrième trimestre. Les avis divergent quant à la performance de l’action par rapport aux indices Dow et Nasdaq, mais plusieurs sources soulignent Equinix comme un choix solide pour les portefeuilles.",
-    "sentiment_score": -0.1,
+    "summary": "Dans l'actualité récente concernant Equinix (EQIX), la société a vu son évaluation boursière ajustée à la baisse par Wolfe Research, suscitant des préoccupations en matière de valorisation. Malgré cela, des investisseurs tels que CCM Investment Advisers LLC et Smithbridge Asset Management Inc. ont augmenté leurs positions dans l'entreprise, tandis que d'autres comme Avanza Fonder AB ont réduit les leurs. Ces mouvements d'achat et de vente reflètent des opinions divergentes sur l'opportunité de conserver des actions d'Equinix dans un portefeuille, avec une attention particulière portée à l'évaluation actuelle de l'entreprise.",
+    "sentiment_score": -0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Adaire Fox-Martin Sells 2,949 Shares of Equinix, Inc. (NASDAQ:EQIX) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2h1OTdmQ1pJTFdDd3NTQ2h4aE9DeDhXdHJnTzNTOXZrcHFlTDZvaThwQmE0TVF1LWNJNjRqdDBtdE1INEcydlhUdnk5NEczdFhNeU13RlNpdWctcDlqZXNvbnRUOTZoZ3p2dFduNFg2MzFSaHV0Y295QUZab0F4Z0IwRUpnN0hXb3ItX2JoMmNKU181R0FRYkF3bVZVd1M5MnF1TFduNXp6elQyVTRDUk5kb2NXdWRkS1Vab0xn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Equinix Stock Outperforming the Dow? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFdUQWJZeS1KOFViV2tBM0R6UFQtTk4wbWdOWEVxX040Z1QyekZXa3RMRndXVzZtYXctd3dpVFhYSGs0SnpvWUVkbXZnbEozVFAtczlkMEdhRWRiVU9neXVwMkwzcC1Tc1pNNGN4ejdHWHFBRnAydlJMZ0xuTWVVSnFWUGsyQ0RScGtMUG9BM3RkVXp1c2o0a3B2QlZwb2d3V01oeGZ2NmJWcTJTVDlBTWdVZnhPT3NTZVE?oc=5",
+        "title": "Equinix (NASDAQ:EQIX) Stock Rating Lowered by Wolfe Research - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYW53TUloWVFOMV9zSXhQaXlQYlM2RHd4dm1WTFJPYU8xWEx0Z0dYR1ZBVTFCclpwVy1kSDZsQWN2YldpN0o0cmRtWEtxN2J6MWRMVG03eWF4aXFMWC1LcjdUWll3OFdpNHRWRllMYXBCTTZIT0NPSmdId19xS242Znp4a0NzaWgyTE9jbnV5b3lLdWpaVzZ1WFBZVE1jeC1fNGcza2lwTVRFNTVLWjFUX1l3Q2dfeDdOOU5Balln?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is Equinix Stock Outperforming the Dow? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdMX2duY1FEVHJPTDk3VnE5TlloQ3A2dU5oOXFBd25IeTFtMjZCazV1YzFWMEVKWnJoLUNCTGhkR2RKZ2x3R2NmN1N6NnE4Uk9wRlNWMFUxZjN1TmgxaExuNllCckFyLTRKZXRfY2FiaHVCNUhKN1ppeFlZUVJQN0JEZXIzbWRkNC15aEJKMWRzcnUxRmQxbGVJMHFCOTlZTENieFppZC1qZzRpUEhGd1ZncUZVdl9OZF9WVEx6LU4xWmc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "5 Reasons That Make Equinix Stock a Solid Portfolio Pick Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXc3Qm5FWjA3QXBqQlFPdUhnRlNObi03YmVUQWE5RGhKekVFMVRwOHd2MUxOcVlSU1NBc1lUck9MT0FOMXlibTdyU3M5RjMxaVdsY2M2a2FWb1RxMjV4Y05zdnNwZEVzaXdNSHVUeGFJTnY0R283cWU3R1Nrbm44dw?oc=5",
+        "title": "Why Equinix (EQIX) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzYzMXdrbEJtaVRkbUlReUJQUS0zQ2NNTUdTWWJ6cS15ZV8tRHp1SENYVzlHUkFtX2FGbzh2R1Exb1BXeVhaOEMyeUkxUnNuWTdfZlpURTdqMXpaRkVualc5NUdfUzlpNjNITk11SlE2bWJaLVdPNHVtMTZWVmU0UA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "5 Reasons That Make Equinix Stock a Solid Portfolio Pick Now - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0NEZjE5MWljLUNuaHB6c2FwMFRxM0hxLVVfUWs2YlowSE9LdnVRbG9JeHZvaHhSOUR0eC1QY0lRbktpTWVNVm1pb2RHNUwtSlRnLTZPclFNU2Fxb2wwZWxGOFJXdVpyTHZyVExfb01QSm9nS2ljRGduTTNVT0tYQXBwTXNTT241UWxCVzREVkFUeEo4RXU5Y25FWmp3NDhZSC1R?oc=5",
+        "title": "New Analyst Forecast: $EQIX Given 'Peer Perform' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYk16dHhpSk5sOW5TRnN3eFQxUVhKczAyOHFMWHNEa2hPMnJadzJRUUJEaEFVMUY0Zy1ESG1oQTY4WnBtS2h0YzdJWVZxc19kYXdIREhNbGNqQUlkNE1vZ1B2LWZMTWVveXNRaG1TdGlYQW5fcWRiVnAyR0xOWHk4VmhqNWNJdWdjZnM4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equinix (EQIX) Downgraded by Wolfe Research to Peer Perform | EQIX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEFHUFFzM3Z6dGNZLU1PTThUclZsZUYxajNmZm8tZHRqemhHU3BXNWZqZEQ3bjRRQ3I1b2ZQVktxRHJXdWk2Zm0tTW1XcTJBMGNTU2lzR2Zjd1Y1ZU9NTkVMeEhHTVBlOE83ZWNqTkJqUnlBYkRmVWQyZHRkM0d6dUZrNGthZXMtQkdJY1lTN2ZHMUE4ZGhkWm1wVHlVMzlNakk3SUdUU1dGcGtzVXgtZVBaRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$1000 Invested In This Stock 15 Years Ago Would Be Worth This Much Today - Equinix (NASDAQ:EQIX) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeThjVU5zZjJjV3BIYlVncm42QWR2RWFXODhYNUhSVjBlS19JR19tWE1BMGQzYjlva2FrYlNMYXNiSnZZVzIxd2doandHdXRTcVp6TnJfZndvZDQ0VWpCMFA2bWQzbVNIWjJLem1ha3dmRnJzcl95NDd4RnBDb1FMOHlWRTl0OUFIRWJsdlR1UzJyWTg2V0NmZEJHR3dCMU1rZ05mMzc4QUVQNXp4dEJBdjlidUdhS3pvQm5XQ3dfajA4ekE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CCM Investment Advisers LLC Buys 1,737 Shares of Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZmVuVjJwODI1NWhDR3o2enhOemlQODdTSzAtTjQ3a0FNWjBBVmM0aGhXNVJ6bU5iQm9vUXRZZVc4WHdMRk9UTWx1Wmw5cXFJWTFfU1JTXzdfRlJiZ3ZGM29jYUpnOVlMZnRXZXlPV2VRWUVMeWVjeldZUzVaNE9VZkpRWjUwWlBFUm1iRnJSTXFtQl9lektleDBYY3NISU1iSzFXelFCMlZra1VzclptUlk0YmhETTlObmdOU3NVR1ZlM0gxN1psbThsNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Adjusts Price Target for Equinix (EQIX) Stock | EQIX St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDVFRnY4OWVkTVAzc3c4WUxxaHBsQzI3Q0pqMXVHUHJkeXlNV2hpSl9pTXJGakYxbEFZcERJTUJMcEdiNTVoOTQyaG5SVVRFYXM4LWZlNVBMTWdsVFByckhpRWlYczFPRVJmYVRiUkx5SXVLYksxWEdqY0dfajhMRi1oUU5qSHFBWnhvRWpvZlBIS0E0dVdlVWU0akd6ME5qbDBXNG5TcmpPUlU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,76 +596,66 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "If You Invested $100 In This Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU0ZQLTBoYW1YOGhjd1BxeVVEZWFSb3JGTGF2cm5ndlpqdmhlTEN2Mk1LaG1Xak1WZXVvWnN4bUcwM0VhMlpjYlB4MV9aYTJiSFMtaEhJSjFfMGNDMm1MMXRob1ZtT2VsbzZRNWM5NkhwemtjSnhHdDJkUmN5VVYtMzRYWTBRZk5WWlBxYXhCcGpqT2hXUDBMZXdia3dyeWlWdEVIZUZRUFh4aXZtRUJMUWNIWmJSWU1wbS1Tc0lyU3UtMHhNZllKaXVydw?oc=5",
+        "title": "Smithbridge Asset Management Inc. DE Invests $1.03 Million in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcGVEUW9qdlM4eUxJUVQ0ZGNRa1JpZm4zZkRXbXpqdUUtcVM1aWpZallNOFkzS1NDX1pyaGtNQUZwVHlyZ1BORDlfWmZkZ3RFWUN5MjE1WS1wZjdTS3FwRDl2OENBZE4yN055NUFIM1R2VEI1WHRKWTlyLUZoRl9aSV9aTWx6dlZCazNrZkEwNk5fNE5QaEQ0Ykh1emZRSnJsSkdVWjBtR2VCa0ZrZ0d6MVEwVmFQZlN4ZFRSYW93V3dVSWM4OWVtQzR2d2paQ3RhSDUwQXRESUY1dw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hennion & Walsh Asset Management Inc. Buys 337 Shares of Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "title": "Equinix (EQIX) Downgraded by Wolfe Research Amid Valuation Concerns | EQIX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnNLTFJ5NnVLaWNpX1VqOEtGWkJCdmJvN1ZjLWRqVUlfcklkUTV4dHY1MHhKTjltV3RQMHI1YUZlVU90OWRNM3pVdkZRYWtzdzE5aFJPaHV3QTNWWi1tZm50b1g2TzlNWVg2YU1SdFYtMFQ3ei1tV09vaFdBUm9lSEZ1ZHF3VGNhUVJ4Z0luMkdBQWJTYzB3MDlWTEV4T0xCMWZaOG5JMHlpbEVtNWZGYzh4NkVPQ3hFLVBEcA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Equinix, Inc. (NASDAQ:EQIX) Stock Position Increased by InTrack Investment Management Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYVg3dEN3TWQwVTcwdDVyVUd4OG95MjJMWDRRSkRhdnNMbHo4dlA1ay1Mcmk3TjJOSkpLZXBoZVRpWjZFN1F2WTBQX05rWVZ4RURsVzJLRDFfa3ZkSy1jSVoyVGl2T0hpMXFTNnJPUi1rNV9TSjg3MnJXMWxFWDdvY1hBWW9Kak0xWXNrTkpjZGhLY0JQTGNEZGFfY251QXRBYmRVRC1BT2JMNFdHUVNYOGd6ZDI5S3NteXp3R3pYMERqSDFXZTVYV1h6TFJuM0QtSUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Equinix (EQIX) Downgraded to Peer Perform by Wolfe Research | EQIX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZDA1ZVB5Vk9hc2FzSGlfRm01V0JtMnByNldrcXUzM2Y3OXVheTc3R1RRQ2FUQ2JSdkQ2YksxeEU3eUhJZk82dTMzNWJyQmxaTWNmMkZLOFFyX0hCNk1CWXV2N2J1UEhPU29PLUxnU216cVhXX2l4RTJTQUtXdlAzNEJPeUVSXzJfcUZudWxValhIQ19VM3hJQ1VTNHVlQkI5em9jUGFZc0NqQ1hwNXFLQmRIODU5eURsZUJGZ01rZ0REVTJOZDNJcWhvWmU0RkZEaGxYQ2pVc05FdkJDYmVRRFJad0M0V0Z5QUNzOExpVjRPOXpjaldRQw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Equinix, Inc. (NASDAQ:EQIX) Stock Holdings Lifted by Hennion & Walsh Asset Management Inc. - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZC0xLUNDLVRaSUJMMG5Da1RTMHJnaW4zWUIzSHViYS1YRlFiOXhXRGt1WGE1QkVWYTJnM2llZ1pQanduUlJfTHU0RlpIRDZ3Y21meDNWY0FFdFcwUFNwUzNmQngzWjkxWm01R3c1cEpaa3ZxSGlRRktuWFl2eDZGSGF2b1hvX0JEc3NaT0c5b2FQQlFnMGo2TlVCV3JaRzVZd2RKZ1diS2lQQU5sRmliRHNUVUpuUW5famtRSnFVWm5YTGRYaVNvMTZ0dmk4RTVIQ3lr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "What Makes Equinix (EQIX) a Best-in-Class Real Estate Company? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVhWdWU3UkhmUmFwN0NkQnFVaWZiSC1lRkFqTGR4MC1LTmNIVEIxMTU1S3psRjJBeDhwWXc3NXNYYTJDWUJ4VEluQXRDVnc4UTZYZW9NQTFOcnVCampxb3doSnRXWUxRVkJ5X01ZVXdsTW12Z2lXQUYwVkZWVXRLOA?oc=5",
+        "title": "Net Worth Advisory Group Makes New Investment in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQW1rbGlEMl8tUU9UUzJZbjF0ZmxOZm1sRHRMVjhGQzY0XzluVjQ2T0ZzTTJicHB3THdVZ2EydWduVmVxYVE3czZRbFdsbzg5Sy1rQjdMQ0twNGFTLUdHVC1WMGdJeG5wWjZGaGUwSnNWRnVoT3pDMlE5UUV4djhJanVMel9mY3ZoOGFPMGVtbko0X2dQU1hURVdoVHlVVWtBdU9JZjZmNmlicGlmeHE1eTAtUGhqbHF0RGVqMTFFUGFnbzExYnpBck5fUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "5 Reasons That Make Equinix Stock a Solid Portfolio Pick Now - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2tGMC1CUEZzSlZoNXlKUF9mdVUwRXdHV1VNTHl2dEJnYmxKdFJQTVJIeG1iMVBCSUZQWDItV3VKQWM3UWxCbGlDdFNkaGp0QmRKcVlBcjlqRVhCNW1pal9NcXdIUHJTR3J6MzN5S3hhUnFWRlUtWEt6bk44OFpBSzdyemw1ckFQSHg5ZU4yVzdrUGZob0dyV25OTnZnZ2lJQ3N0SEpNUkxqdmtYbHNwek85aW9lRFpoTUJSTnNkTExNR1Q2UlRpalRhcGxTa3lwOGpTQUR4NUQ2N2JKVUlfSw?oc=5",
+        "title": "Harbor Capital Advisors Inc. Purchases 371 Shares of Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWUyOExTSTJGLUNnV3EzT2VWb2hVNXowSkd0endPdU42dWU2aEpOeEpnZ1kxTllvMU5tRHlRbzVqdlUwLWt4eHJIZzRfdmtFaGswcHVfRFdfSVhJZzdnSFRzQ3BITm8wbkJZVjJpRHJsWnJkeTEwY3VPdnIyWF9kUWhjb29NZEpnZkVtdnJveUlGa0loZW50aGRxOUhlQS1jN0xYZzFRRnVYeE00ZnBaTGJLc0RBdFd2b2FIaFh5QU1XbW9MeFpR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Has $18.23 Million Stock Position in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFVCVmphTEVoeUNLcEtEYWtsY01rSzh2ZUVQamtxS0ZDcm92amQ1d3dVc21Nc0xLSXFSRTZmZEhHeFQ3NWRHWEgyZHFqSnhFTzd1SWU5V2VTSUZVeUdwOTJmN2t4MEVOZElIaFAyWDhUVlhWY09MZVpBa2JLM3NlaXlscnp6aU5FT0trYkhPUVktemZoTXVEWmRic3l6aVpmWnlGMXhrQzdhUEdERkNuc1I2VVVZZmc4N1BBRExyUWFXTXBTU0tR?oc=5",
+        "title": "Sarasin & Partners LLP Invests $8.69 Million in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU3QwbHdmTVhQWjRfZm54SVIzd0V1WkI3NC1BTFhncHZtNG54ZEJkbG5QN21DRk9JZVpObXFtXzRkc3ZETjJRTUFTcElSbUhWX3FMaUdqT0xaNTY1TFNwRjEwZHBSdFdaWGJhRnlOTmhjaU1OcUxwZnlSSVkycGlOMDY1VDBDTGt1YWJMbnFXWVo3cHdtS2dPOHN5dHRWQ1p6aFJOdzA2NFZxWjJrVEFfSnRTYTNkWXpPaFhzRHE4LTlSRTRBN2hSVTBR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is the Options Market Predicting a Spike in Equinix (EQIX) Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTd2N1BDOEhrZDlzOHNNX3RUTk95VDVfMXF4dGR1c0ktUGV0b3ctQkJ4U2FNNHoxelQxZmlkakZNcms3OU1SbVc4Y2xUd19mX1pENXI1LUhyREswQzJwWlZHRGpyUk4zQlV5ZVdrMndSSjNFR1g3V201NEdjbUE1VDh1YUNCQTk0R1ZsVVhR?oc=5",
+        "title": "Equinix, Inc. (NASDAQ:EQIX) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXNMRXV6dTZ3UlBxanM3LXU4ZWxEN3hHa1pZVlhLNXQ0ZGpwLWFoWTJZLU1EeEVOZnJnTmxENS1oMTJfa2ZObXl2dWxxdUI5cXkxUHQyczJ6LWNLNGhyTndObDFNZTQ5bHNQMTdWbXV5UEpPZU1MdkNaTm51ZnBtZTdYc18zbkRZbEtZb3B3YXpXakd6TWdqbkFHekM1ZmpjTU03Q01TbEVGMEVRaFRkWWw5aUZlS0MtZU5DN3NKTjZ5al91Ri1B?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Buys 4,900 Shares of Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM3ZkczlCRFhBVXVTMEN6MGNZdFM1UEZlT1BoSGdvMGwtVDJUOF82MmhER0tiYlA0NmNjYjNxMTVUYURCV1JHdTVmTE91OG1uR1YwWkUyTkpKVnQ4ZzRzMGVoQVByTUNEQXQ1blB0b1JQWlRzZVBKaDhGcWNmNHZ6MEpmZEd0YjNZc09LdllXcnF1ZUlSLU9NcDJBNlNpUmpDWnNMSTNhVFdpU0VZSjdTSVBxbkhYS3l5cFBjQWFHT0lDZVdLSUJj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Douglas Lane & Associates LLC Raises Stock Position in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcjUycEFpcThKc2xQbXlyMUpJMXV5Mm1qTWF1UE5Rb3lxODdYRS1Tcm9jTUJCQVdhNXhCZmVaajNtX3FoX1hyRGNqX085R0c3THZ6amlBb2pITWVSYVVubmFqaHZ0VjJGRzNXdlJzN2JiVmdEMkhuMGIwQUZyMXNxUkduS1ZlLWNSWmQ3MEZ1Q2x2VDVidDJnOENLb3lrdnUwbkV0aEdQWGk1NnhQSEZBaXZUX2lIdWdPVTZFRlRLcFFjZEc3dy1tWGpvYldGVGdDNVZOVjNn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Has $725.96 Million Stock Position in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGFWX0lrZl9VQXJwZnpBR1cyY1dyZDFLNHJPbHFDUHFlaG8xb01fV3RHVzd4cElMSjV4SkprcFJhOElpcWp6aFpBNFItU0QxV2xpSjZrU1FzVW9YVnc0MjJZczljR0pPQy1pbzM4eC1sUkU4VnJmNEJIWXdRaWdEOUJuaWRZMks0V1JmMHRzTm04dGJseEZqbWlvbmpTZTJyam41Y0F4am5NRkJ4TUdJQkljbEs2dlFlNGJDanJ1N0Q2MUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Gradient Investments LLC Raises Stock Holdings in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThxS0FYWjczaldfWXRKYTRHSTVrWTlNaFI0SXg0NUw3YnhGRUhOdkJINzVXcG9fMjNfVlMxOFJJYW44LXJPNWplVnFtNTc0YWZrX1c1WkJhM0lqdTlLbmlwcTZkX0pwdjJUYVhYT1dYakdwNUlKb01IdDVVUXM3c2V6YUt2MlZ4eUV0OHhsZFVjYUJJVWx0enUwSGtCR2ZYenZrNUx5VzctTGtaMTNEUlA4Y05XQTl2ZXBnd09lb1Vqa0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Has $159.94 Million Holdings in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnVDUmtxU0ZsVUhJVERmczBUc1ZKNnl5MUViZUpTV18xc3pWbGNfUnAwdDdIa0ZpOEduZnN4cFhYaFVFMnlQZmZmRGMyd3RFeWdEQjRrV2xLTll5S1Y3S09oV0FoTjVaTWp6X1Y0NnltTzljV2NaZWllOXdybVFNRXRvbU5YSGhraGFIUlhYSWxNQTUzVEdTV3FkSUFoSGxrVkhleEtqRnFrT01zMm4yZnBtdGZ5YzQ0NTRmV3Zn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zacks Research Has Positive Forecast for Equinix Q4 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcExLTjBFTVlPY1daUzBIMG43ckdOVjBNN3JTSjc2V01nWmE2T2JBYVRLLW5uaFJQcXpvWEdiQXdtQUZoX25CdmctS01GUG9tLVI5MXZ4V2ZhajZTZjZ3THA3ZmNONXhveTBUTTJON182LU91eV82dzdLSXRITW1GMHNUSk1WUTlfVXpzT1MxR3c1ZWJGTXZtYzA2WmR2al90TVJBV0ZodFJLdnNSTUJz?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Equinix Stock Underperforming the Nasdaq? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3d0xpQXRRWTJMcGF2VFN4RFppOC10YkRUNU1rLUtsMjhTc3JqZ3JxaDVJcGFOZ25WbHh0X0hyVl9EZ3Izc3pHNTF0U1p3d25OckEtVk1teG9CQzFMeFB5SmFEZFhjRm9MSnNPbnRqdzlHanBvWGEw?oc=5",
+        "title": "Avanza Fonder AB Lowers Position in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDI4TGtVbno0c1czV3VkMVdIRFBjTlU4VmlBdTFiaEltX0RhYVh4SGRhSzI4UHowWTBqZ1BPR3M4TURsMldVV0g4Mlo4RXM2LW83dXMwTW1YS1M3VEVHLXdZYXV2Q1BJbzNaOWxDNEg4ejU1TS1LWDZqc1dGVnF3VmpqY1FVS2JJZjA5dUdsdnkwYVA4aHNCZlhKNzdKRjNhQTVqY29RbldZR00tWWJoWHlyQzcwVklYMWw2dA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Equinix, Inc. (EQIX) Stock Drops 7.07% Amid AI Investment Concerns and Questions Over Data Center Demand - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bGxTdE02d3pTT3JVRVpvSkVKRUhldHdVdjBxMVdObWlrbFZtRTEtVTlSREdZZXoybE03ZS1BLXZoUUNoVldOZllacGYwSXNNVXIydnlVSWNfUnItM24wWlF3NWlVRm1rdFkzQ0dwanIzNGJiUGVRbVFXN3JqU2c?oc=5",
-        "label": "NEGATIVE"
+        "title": "First United Bank & Trust Makes New $451,000 Investment in Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHN6STJXTHlSWmVrX0ZBVVFjVlZ1eEFrZ1lORnZJZ2lzMUxzQVNWRGJhMWpldV9wQ2ZTXy02UU1ROWdNQ3FOUHpKVE00MW9PUU1pOG5SREo0RmtMNDhwZXJJQV85MUJMTmJISjgtem1NUHFTejJPX25BUjI5THY2Z1oxMjBTWTZVT0JoeUlMcjRfbU1HRkZ0bjA4S09tNjFpelNNUGNBRlM1OHZRVWxNTUJIN09ERE1ERWcxMm15MElwSzAwQXUxeS1SQWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Citizens Bank & Trust Co. Sells 6,919 Shares of Equinix, Inc. (NASDAQ:EQIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUZyY3FHUUN0bEhUWnZWSnBYUUtMZ1ZmSHFLMFJQbERjcE5wYVFidXVLRmRNczd2YzFDQTU4V3FpY2pVY1pOQnFpYldsRU4ydGswRFBRU2kxVkpNOU4wNDRkZUpka3hZUTdkUlJhUnE1dC0ySUpzUHRaekc5QnJVTGxpRTd0dDI0LUtqOHJUSnh5cDBoVkFrN1ZNTmVBdFNsRWFHX1FTOGJVcGktdkM5a3o3bFVRUGY1cFhyV0JoZTVRVzF1YlpYQzl3Rm5IQQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

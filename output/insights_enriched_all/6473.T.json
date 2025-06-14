@@ -2,16 +2,16 @@
   "ticker": "6473.T",
   "name": "JTEKT",
   "sector": "Industrials",
-  "market_cap": 350035738624.0,
+  "market_cap": 347807318016.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 27.249071,
-    "PB": 0.46976116,
-    "EV_Revenue": 0.267,
+    "PE": 26.73034,
+    "PB": 0.4603617,
+    "EV_Revenue": 0.266,
     "ROE": 0.020680001,
     "ProfitMargin": 0.00728,
     "GrossMargin": 0.14927,
-    "DividendYield": 5.44,
+    "DividendYield": 5.49,
     "DebtEquity": 30.93,
     "CurrentRatio": 1.582,
     "QuickRatio": 1.014,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.002611312869310072,
     "ROA": 0.01505,
     "PEG": null,
-    "EV_EBITDA": 4.57,
+    "EV_EBITDA": 4.507,
     "BuybackYield": null,
-    "PriceToFCF": -71.13463047974994
+    "PriceToFCF": -70.68176850306529
   },
   "technical_indicators": {
-    "RSI_14": 45.366570748773654,
-    "Momentum_10": -2.396804260985353,
-    "MACD": 5.28719830579189,
-    "BB_Percent": 0.0441253494691167,
+    "RSI_14": 39.81375835802569,
+    "Momentum_10": -5.149647887323944,
+    "MACD": -4.024587805450665,
+    "BB_Percent": -0.0061301452719785,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9326134142220396,
+    "ValueScore": 0.895853481361386,
     "QualityScore": 0.3821855850738405,
-    "SignalScore": 0.6331497882683514
+    "SignalScore": 0.659336158135003
   },
-  "volatility": 0.0244865148091132,
+  "volatility": 0.0246395257153894,
   "beta": 0.212,
-  "return_6m": 0.0345682154725603,
+  "return_6m": -0.0417963539350823,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "strong_buy",
     "analyst_count": 4,
     "target_mean_price": 1325.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1085.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1087.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1105.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1111.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1131.5
-      },
       {
         "date": "2024-12-13",
         "price": 1124.5
@@ -525,40 +505,55 @@
       {
         "date": "2025-06-06",
         "price": 1099.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1090.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1094.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1104.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1092.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1077.5
       }
     ],
     "current_price_data": {
-      "price": 1099.5,
-      "change": -3.0,
-      "percent_change": -0.27
+      "price": 1077.5,
+      "change": -15.0,
+      "percent_change": -1.37
     }
   },
   "news_sentiment": {
-    "summary": "Les performances de JTEKT (TSE:6473) semblent stagner, signalant un ralentissement potentiel. D'autre part, l'entreprise attire l'attention des investisseurs avec une augmentation de 26% de ses actions récemment. Parallèlement, Griffith & Werner Inc. prend position sur Unilever PLC (NYSE:UL), ce qui pourrait indiquer une confiance dans le potentiel de croissance de la société. Ces événements pourraient influencer le sentiment de marché, incitant les investisseurs à rester attentifs à l'évolution de ces valeurs.",
-    "sentiment_score": -0.333,
-    "label": "NEUTRAL",
+    "summary": "L'achat de 6,473 actions de U.S. Bancorp par Iams Wealth Management LLC et Unilever PLC par Griffith & Werner Inc. indique une confiance accrue de ces gestionnaires de fonds dans ces sociétés. Ces mouvements pourraient refléter des perspectives de croissance et de rentabilité positives, ce qui pourrait attirer l'attention des investisseurs à la recherche d'opportunités. Ces acquisitions pourraient également influencer le sentiment de marché en renforçant la confiance des investisseurs dans le potentiel de ces entreprises cotées.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "JTEKT's (TSE:6473) Returns Have Hit A Wall - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGxWQTZpdENrWUdva3lRVjZOV2lTZmVfTG5aZy0yMXhJeDVkU3NZZGJDbTJIUFdWdHNKTHNmWXRadEh6aFh6NkJweUNORkNZSHZ3ZXJMQTNqNXFKY1JXeFRKcVBYVEJtRFc0ZF9IVXVCbUpuYXhFODNwLUFhR0ZuLTVOU3dudjg4TUJmcTdOYy1BRmY3SUNtR01jaFdLTmlSYURySlVaXzlFczVPdXfSAbMBQVVfeXFMUEgzNTV4Y05KRjVDRzdIQWUxTS05bnN3QmZiMjA2WGg5Z3N6SmMyUVRoVUpua0VPcmY5SnNQbUR0STFzdk1tOC1TbUpCLThoTjhPRU9iZWZIZ0hrU3NSWFVrU2pGVHRwOFR3N0RzTzRlaEtFeng4RDlNeFpOb01lcXhBYWZuTVprbU5MNFVDMi1nSUF0bXBKcG9kdjhob19fYmdjYnN3VjVfbnk4TzFZM2Z5b1E?oc=5",
-        "label": "NEGATIVE"
+        "title": "Iams Wealth Management LLC Buys 6,473 Shares of U.S. Bancorp (NYSE:USB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWtxRlFybjhGdWxELUU4YS1OQUpWUl95SEhjdmMwOTNLcDU0MzRUTV9MTWw5RUpnUmMzZEtqYmYwVVNDV1Z1WUtpZnBoenV5UWFxZEljSC1uVHZyX093bU9td2NjUnhqWFRYV0I0R0R3QVlqTnVUTmo5U08tYk9KanRDQUwycU01YlBfb1ZmTHpXTGIzWWlQSzVZTjU4dVFoOGpscUM5SEtJalEwQVV5NXZmZUEzNENDcDRDM0stemVpZnc?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Griffith & Werner Inc. Buys Shares of 6,473 Unilever PLC (NYSE:UL) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNemVjSXdZT0FVZ28xRXFNeUN0a3g4dTk5WnFsN3prVklPVGtUbTVjNHpjY3AwU09xWWRYMnFRS0J5S2NuMzhUVExGa2sxNmJPakdXY2JmWWViUjJPSEVqWVpIekt4ZVVpWnlZMk10RFg1WjBQS1hKVkc3clcyX2huRFJ2NTdPbV9aN1lRVk5iM2FuMEZNOTJ3VWlwMDBPREJLNzZOeWpGRUxGcVBUUW1oamFxd2hjb0NkanpJTA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "After Leaping 26% JTEKT Corporation (TSE:6473) Shares Are Not Flying Under The Radar - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVFBcXcyRnRwUXZUdDRwdEVrcjRXeFU3eUdDSFhsaF9YSmFQZGNMc2ZPN2tybTAxYTJTa1dRSF9PNGU2cVlJS2RJTU5HcjNzc2QxTUp4VjZQLVp5TG41RkhzTEZXOW0wQl9oRzFQM3A0RzZYSXR1S2pySlZvUjNOVGdfTC05SkFkdlNvSjh6YlYtbFhfamR0Y3NUcGtoYzJvOGRrYWNfYTQ0WF9Zbml0ODFGQ3RUVHMxSTdQenFaY3E3cGRTOGs3OF9nb9IB0AFBVV95cUxNdS1uLV9KOGdwNzc3di1sbDRrTTY0elhOWExHbERlUWlZa19CZnNRUG5KMTh5dFZhaHdLZ3NrNGtrRHFhS1hyVjU3WGc0MTdQck92dzRLOEx0SEh1M0U0aE9ZdE9PeTFPWmQ3M3FYVUNPWnUyb1lhRVZ5UDFRTk53WHVESVlvU0tIbTNVa0RfaWU0N2xCTTdlMU8tY1JndVZ2bk1iV1piN055Z2EyNnJUNy1wbXNOTkNVYUR2SGdUYXRueXRRSHQ3Vlp0cUx4R1dD?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

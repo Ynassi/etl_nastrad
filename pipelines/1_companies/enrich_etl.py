@@ -7,6 +7,11 @@ import yfinance as yf
 import numpy as np
 from tqdm import tqdm
 from sklearn.preprocessing import MinMaxScaler
+import os
+
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+os.makedirs(DATA_DIR, exist_ok=True)
 
 ### --- 1. Récupération des tickers --- ###
 def get_growth_candidates(limit=350):
@@ -51,12 +56,16 @@ def save_merged_candidates(df_list, final_limit=700):
     merged = pd.concat(df_list, ignore_index=True)
     merged.drop_duplicates(subset='Ticker', inplace=True)
     merged = merged.head(final_limit)
-    merged.to_csv("data/tickers_to_enrich.csv", index=False)
-    print(f"✅ {len(merged)} tickers fusionnés sauvegardés dans data/tickers_to_enrich.csv")
+    output_path = os.path.join(DATA_DIR, "tickers_to_enrich.csv")
+    merged.to_csv(output_path, index=False)
+    print(f"✅ {len(merged)} tickers fusionnés sauvegardés dans {output_path}")
 
 ### --- 2. Enrichissement via yfinance --- ###
-def enrich_tickers_with_yfinance(input_csv="data/tickers_to_enrich.csv", output_csv="data/df_final_enriched.csv"):
-    df = pd.read_csv(input_csv)
+def enrich_tickers_with_yfinance():
+    input_path = os.path.join(DATA_DIR, "tickers_to_enrich.csv")
+    output_path = os.path.join(DATA_DIR, "df_final_enriched.csv")
+
+    df = pd.read_csv(input_path)
     tickers = df["Ticker"].dropna().unique().tolist()
     enriched_rows = []
 
@@ -97,12 +106,15 @@ def enrich_tickers_with_yfinance(input_csv="data/tickers_to_enrich.csv", output_
         except:
             continue
 
-    pd.DataFrame(enriched_rows).to_csv(output_csv, index=False)
-    print(f"✅ Enrichissement terminé : {len(enriched_rows)} tickers sauvegardés dans {output_csv}")
+    pd.DataFrame(enriched_rows).to_csv(output_path, index=False)
+    print(f"✅ Enrichissement terminé : {len(enriched_rows)} tickers sauvegardés dans {output_path}")
 
 ### --- 3. Nettoyage final --- ###
-def clean_enriched_data(input_csv="data/df_final_enriched.csv", output_csv="data/df_final_enriched.csv"):
-    df = pd.read_csv(input_csv)
+def clean_enriched_data():
+    input_path = os.path.join(DATA_DIR, "df_final_enriched.csv")
+    output_path = os.path.join(DATA_DIR, "df_final_enriched.csv")
+
+    df = pd.read_csv(input_path)
     df['Ticker'] = df['Ticker'].astype(str).str.upper().str.strip()
     df.replace([np.inf, -np.inf], np.nan, inplace=True)
     df = df.loc[:, df.isna().mean() <= 0.5]
@@ -111,7 +123,6 @@ def clean_enriched_data(input_csv="data/df_final_enriched.csv", output_csv="data
         if col in df.columns:
             df[col] = df[col].fillna(df[col].median())
 
-    # Mapping sector vers structure df_final
     sector_mapping = {
         "Communications": "Communication Services",
         "Retail": "Consumer Discretionary",
@@ -125,6 +136,7 @@ def clean_enriched_data(input_csv="data/df_final_enriched.csv", output_csv="data
         "Real estate": "Real Estate",
         "Electric power": "Utilities"
     }
+
     if "Sector" in df.columns:
         df["Sector"] = df["Sector"].astype(str).str.strip().replace(sector_mapping).fillna("Other")
     else:
@@ -132,7 +144,8 @@ def clean_enriched_data(input_csv="data/df_final_enriched.csv", output_csv="data
 
     def safe_score(df, cols, inverse=False):
         valid = df[cols].replace([np.inf, -np.inf], np.nan).dropna()
-        if valid.empty: return pd.Series(np.nan, index=df.index)
+        if valid.empty:
+            return pd.Series(np.nan, index=df.index)
         scaled = MinMaxScaler().fit_transform(valid)
         score = pd.Series(scaled.mean(axis=1), index=valid.index)
         full_score = pd.Series(np.nan, index=df.index)
@@ -146,8 +159,8 @@ def clean_enriched_data(input_csv="data/df_final_enriched.csv", output_csv="data
 
     df['IndexSource'] = "AltScreen"
     df = df.drop_duplicates(subset='Ticker').reset_index(drop=True)
-    df.to_csv(output_csv, index=False)
-    print(f"✅ Nettoyage terminé : {len(df)} lignes sauvegardées dans {output_csv}")
+    df.to_csv(output_path, index=False)
+    print(f"✅ Nettoyage terminé : {len(df)} lignes sauvegardées dans {output_path}")
 
 ### --- 4. Lancement complet --- ###
 if __name__ == "__main__":

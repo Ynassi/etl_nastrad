@@ -2,16 +2,16 @@
   "ticker": "7261.T",
   "name": "Mazda Motor",
   "sector": "Consumer Discretionary",
-  "market_cap": 530124374016.0,
+  "market_cap": 529809178624.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.6494913,
-    "PB": 0.29571608,
+    "PE": 4.64647,
+    "PB": 0.29554027,
     "EV_Revenue": 0.013,
     "ROE": 0.06452,
     "ProfitMargin": 0.02273,
     "GrossMargin": 0.21483,
-    "DividendYield": 7.24,
+    "DividendYield": 6.86,
     "DebtEquity": 39.944,
     "CurrentRatio": 1.484,
     "QuickRatio": 0.903,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.04907436623158228,
     "ROA": 0.02952,
     "PEG": null,
-    "EV_EBITDA": 0.208,
+    "EV_EBITDA": 0.207,
     "BuybackYield": null,
-    "PriceToFCF": 2.152361041763205
+    "PriceToFCF": 2.1510813151263317
   },
   "technical_indicators": {
-    "RSI_14": 41.77948594756389,
-    "Momentum_10": -5.907360540846061,
-    "MACD": -4.8001905782628,
-    "BB_Percent": 0.1130314340923661,
+    "RSI_14": 42.67040535304592,
+    "Momentum_10": -7.9206823794751235,
+    "MACD": -7.617299468086912,
+    "BB_Percent": 0.1516306694256704,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9360477876281612,
+    "ValueScore": 0.8999904931804114,
     "QualityScore": 0.3662844414805712,
-    "SignalScore": 0.6849953744123705
+    "SignalScore": 0.6615379402931176
   },
-  "volatility": 0.0261621374120635,
+  "volatility": 0.0264020052663896,
   "beta": 0.505,
-  "return_6m": -0.1017158542091749,
+  "return_6m": -0.1143692653396436,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 13,
-    "target_mean_price": 954.61536
+    "target_mean_price": 937.6923
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 964.6
-      },
-      {
-        "date": "2024-12-09",
-        "price": 982.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 983.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 977.3
-      },
-      {
-        "date": "2024-12-12",
-        "price": 972.4
-      },
       {
         "date": "2024-12-13",
         "price": 977.8
@@ -525,43 +505,58 @@
       {
         "date": "2025-06-06",
         "price": 841.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 849.1
+      },
+      {
+        "date": "2025-06-10",
+        "price": 856.2
+      },
+      {
+        "date": "2025-06-11",
+        "price": 866.8
+      },
+      {
+        "date": "2025-06-12",
+        "price": 874.7
+      },
+      {
+        "date": "2025-06-13",
+        "price": 840.5
       }
     ],
     "current_price_data": {
-      "price": 841.0,
-      "change": 12.8,
-      "percent_change": 1.55
+      "price": 840.5,
+      "change": -34.2,
+      "percent_change": -3.91
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière plusieurs éléments clés pour les investisseurs francophones dans le secteur automobile japonais. Mazda Motor (TSE:7261) fait face à une dette significative et déploie des efforts d'économies face à l'inflation. Bien que ses résultats récents aient déçu, certains analystes restent optimistes quant à son potentiel. Parallèlement, Toyota est secoué par un scandale de tests et implique Suzuki dans une transaction d'actions, tandis que Mitsubishi Motors envisage une importante offre d'actions en janvier. Honda, quant à elle, enregistre une baisse de 68 % de son bénéfice annuel en raison de la baisse des ventes de voitures due au coronavirus. Ces événements variés influencent le sentiment de marché et soulignent les défis auxquels l'industrie automobile japonaise est confrontée.",
-    "sentiment_score": -0.077,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.62,
-    "negative_ratio": 0.23,
-    "bullet_positive_count": 0,
+    "summary": "Les récents développements économiques autour de Mazda Motor Corporation (TSE:7261) sont mitigés. Alors que des efforts d'économies sont entrepris pour contrer les pressions inflationnistes, la société a manqué ses prévisions de bénéfices, suscitant des inquiétudes parmi les investisseurs. Cependant, malgré une dette importante, certains analystes estiment que l'action de Mazda n'est pas aussi sous-évaluée qu'il n'y paraît. Parallèlement, Toyota renforce ses partenariats au Japon, notamment avec Subaru, tandis que le secteur automobile japonais est secoué par des scandales de sécurité et les incertitudes liées aux tarifs américains. Ces événements pourraient influencer le sentiment de marché à moyen terme pour les investisseurs intéressés par le secteur automobile au Japon.",
+    "sentiment_score": 0.118,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.29,
+    "neutral_ratio": 0.53,
+    "negative_ratio": 0.18,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Here's Why Mazda Motor (TSE:7261) Has A Meaningful Debt Burden - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVVIbzltMHVTN3J5TGYxSGM0ZFE1dHpJZTZKNlRXVzJuZ1NhNDJ1ckd0R0VIZWYxNGZkOXY3WGlyc1l2VWREdmlkX1pvOGxWa2VFSDU1WGtaQTVIUnJqRWFNTFJlMkc3YnNHRVBBX29xb2RoWFJRV21DSXpDVFhxT2pGZlhuTHpZTWswdjJ5bjd6T2praHNzZWQ2YkpGT0V0bnJMNWlmdGpwQlRPOUE3QndzX2JMUjJ1ZmZhdXpxZlJkZkppYWVQeDAxODlBN05w0gHWAUFVX3lxTFBPazFieTVWSDVmTGRaQ3JSMFlfZUVOb05QTFFWVXJjV2hSZ21wV3NQUVY0WkNmanVLTHMtbmVmaHdXZXhfWm9INFRGejR6a0lFNmkxSHFYVzVzTGU1clI3UXdxbWdwV0JNaWFkV3g2REU0bFdneVd6ZUNadGtNT0NubGFTNjZYMldLZHo0dWg3bXJ4RHJzZklnbWFJYkdycmFFcjNCRHhFM1djMEp0cFlOcjJzN1Y5dmEwTGdqTGl0a1lHTXRPdXcwRGJyN0Vka2VQdFAwVGc?oc=5",
-        "label": "NEUTRAL"
+        "title": "The Market Doesn't Like What It Sees From Mazda Motor Corporation's (TSE:7261) Earnings Yet - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnRpNUlOVkxZRmxPZVM3WEVqVlhhYjRRLUMxNjdYZFpySVNnZXRqZUJGRE5ZbXZxOFh4bVFmcXAxU00yQzNEcHBfLXVRTGRBX1BESFB6V1lHbXpuUmUwdVV0LUJ2NEpud2o3dXpCZjdzZmxtTGVsbTRHTXlTblNYNUZGUDNpdHVNd1E1eGo4QjlqaFh1UkhuakpmSC1PMVZ5ZVpHeWxXNEhDbXRicTNpVGJsQ0MxcnBhNEF1amJFS2hWME5qU08yclFBQjhpYXVULVJn0gHYAUFVX3lxTFBkRDA3cUZLQU9OMlFiWWp5V2VqZ3NxUXl6Q2RFQ21MRnR5dzY2VUVKYktINTMtalNJdVppXzYwUHFKZlIzR0UtaXMzQlRuUlpHbmg2a1p1c0ZZVndGTzI5M2VfOFh5WnM2VkVPNmU1dTY5M3hKQ3BkbmZRRmlOZVhHQlNQbHVjVEZscDcwbWZ2eWVUTHh1UGZaXzR5WEp0RHM1TGljV0I0RUV5Q1AzZEh5ajhHZVYzUXBxN1ViM3dUdW1tclMzQkNLYnRwSmlRVTJvRlExZUhVZQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Linde plc (NASDAQ:LIN) VP Sean Durbin Sells 7,261 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdml6RDYtVzk4dk9wWENWTGtNZTdSVnM0eEJtLTZhVzVVTXlsbWJhZmhUSW1RSTRkX2JOdm4td1RBM0l0ZWhKZExleW9LeVpDZEluR1hPTU0xdEFWSHg0WXZkZkJZdFFXeTh0RlNlbU1xaHdUV3pIM0dFc1BhYk1lNWQybG1vUEswLXdrQXREODVoTENOT3VTOWtSd1Q4dGlIejJR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mazda makes cost-saving effort as inflation threatens to drive up investment spending - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2ZFTDQxWlZST1JGQTBLc18yZEpTdmZFM3p1dFdDOEFkbmdxWmtQbHVlaUZlc05WZzMtMGdmb3FwUlp2RUVvb19VSldKcEw1b2tPYXlCRnZLbjB2Mkp3R3pDSzdBUXhHdWVCanAtUTV4ZnRvN0hnZ2xDWVdKUzBQbmp3?oc=5",
+        "title": "Mazda makes cost-saving effort as inflation threatens to drive up investment spending - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3gxYjhfTU1TM0c5WGY5OE1rWUVKQnRTeHRzQlQwTlZ6U2hsOTdGR3J6Vm9HWlJmS0RDWlpsa1FRUFQ2YTJUcEpNQ2RUZkJDYmZGd21CUU1YRmVkRVVIM3gxdTlRT3dZQzJtN2pFZ180NkU2VDJrMHdPVnRRT3ZLWC1nUC1iQXpfMl9Wc0xBUXRLRVQtWWRxZjVuSU5ybTlIZElBOGV2NG9LSDFZX2xrUFhVRWNNRzNGSEJJQklBaEtDaHlfODNSQ2dkVkVTdWpHTTJIU01WM1J1QVV1RHc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Mazda Motor Corporation (TSE:7261) Might Not Be As Mispriced As It Looks - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFpGWmNrUWdlXzRya0x1aGpGSXJvMG16TzlTNHI4NW9jdkVKOU1aVkFnbWdJYnJxaW9IS3E2aEtmUHByc3gxTEJvSld6ZlZTN2lHRzNfMUpOWUJKSFA1RkJvMTI4RUtkaTJCTWpHQVl2SmVYbEljVHJkUGRLdzlrbElSWHdwQWtUQ0hENi1peXluVGVkS1drSUNlSzJ5aTdGd2FkWnk4LVl3eGVzU3FBYTNFZzgwOTFKN1NTQXVHU20zaEFvOW5ZdkVEWFNWblZ6OGVz0gHYAUFVX3lxTE03MTZqVlhHWFByQjZnT1dScS1ZRm5RMTBBNmNHV3RoaDRHdkFQcGdTQ3d5S25BSThwa1g5SHZVQmEtVDVpV2o3bnhYc3RNeUVlWEJtajBxLW5lMmNrVWN1OFJlZGJyQ3IzaHc1VXE2N2lFQ0RkcWNTWE94bk9zQjBuTDBsUDFaMlU4bFJGTHRsZzVfV1V1eWVDOVdPZUZ5YTZLWUVoNjRWSWJNMU5XLW5QLVJHRkhuLXhCMlRLMFI5ZFJ2UVNKekQyUERLVExTWEJtRnlvSlVpdA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan’s Nikkei Stock Average climbs for Fourth Day on US-China Trade Truce Hopes (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KVWh1RGd1SjZuaTd2ZGNZWU9iWlNXWk8xUmFfeU1Xc0tiR3Q1dWQ4eDBBOUh5Mlc4UG9DR2wtY2pqd1NBYWl4NHA2aG9TVHJ5Q0g1RGdLdHdLR25VRW1SVDFDbG1iWlNpUjFjS3B6cllndzFoZzVGWEt3?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Mazda tightens its belt amid inflationary pressure in Japan - Automotive World",
@@ -569,13 +564,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "We Think You Can Look Beyond Mazda Motor's (TSE:7261) Lackluster Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1JXZ1gwaTd6V3NaeGtXNVNrNl9iV2F2UkxmbHR3SS1tLXozNTRiSWdWbW9wWllMU0hfOVFiX1dscUx1LVJBNU9zYm4yN1NQYmZlaXhwT292dHhCbEp0THc3UjFlOGdiR3k4bnFEcW9qWnRHMGNyZmtrajlTSkRUZkYyZzZzck5WTUVzb25HdVBKOUd5YXNxTFVHck13Q0VHek5qTUE2NERFU3NNc29aYjliQ28yUjNfTEhCN3R2cVZPUVUyLVRsaDFMVm9jREgtcEFv0gHYAUFVX3lxTE9FeHJQLUVZMFNRSlM5eFduLUJiN0hSSDM1YU1vMGFIT25ndEh0X19QSkNkRG9IZW90LTlVYktyVTFhVG50OWV1LU40TlpiYkFLcnkxVjRhbGVxb3hBcnN5bUxtX25fRXdJdUlJbGVSUm90dy1IV2R4alBJYmlTUE9DTUdGQnRuWnRDTThpWHV4aWhubWUxQjVDTlFDZEpBTUMzOExERTNQQ0hBN0Vsc1gxQ2xLWDVnTnVNRGpyR1BJSFgtZUZHRGRxYzBXSGppQ2JTNVBjaDRFUg?oc=5",
+        "title": "Here's Why Mazda Motor (TSE:7261) Has A Meaningful Debt Burden - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVVIbzltMHVTN3J5TGYxSGM0ZFE1dHpJZTZKNlRXVzJuZ1NhNDJ1ckd0R0VIZWYxNGZkOXY3WGlyc1l2VWREdmlkX1pvOGxWa2VFSDU1WGtaQTVIUnJqRWFNTFJlMkc3YnNHRVBBX29xb2RoWFJRV21DSXpDVFhxT2pGZlhuTHpZTWswdjJ5bjd6T2praHNzZWQ2YkpGT0V0bnJMNWlmdGpwQlRPOUE3QndzX2JMUjJ1ZmZhdXpxZlJkZkppYWVQeDAxODlBN05w0gHWAUFVX3lxTFBPazFieTVWSDVmTGRaQ3JSMFlfZUVOb05QTFFWVXJjV2hSZ21wV3NQUVY0WkNmanVLTHMtbmVmaHdXZXhfWm9INFRGejR6a0lFNmkxSHFYVzVzTGU1clI3UXdxbWdwV0JNaWFkV3g2REU0bFdneVd6ZUNadGtNT0NubGFTNjZYMldLZHo0dWg3bXJ4RHJzZklnbWFJYkdycmFFcjNCRHhFM1djMEp0cFlOcjJzN1Y5dmEwTGdqTGl0a1lHTXRPdXcwRGJyN0Vka2VQdFAwVGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mazda Motor Corporation Just Missed EPS By 16%: Here's What Analysts Think Will Happen Next - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVVhZE9rVUNNSC1kM1M0TVMtdzRMOE9SZGRvTUUxRmdub3dKeU5HQlhqU3c3bXp5ZHZGR3NqV3czRE1OUVZZYlZRdU1WZnZJNnRQLTFMS3FVX2h0aWJqMEpXb3pZcmx1Qkpmd3ViMk91bVY5aUhySWFYb1BiV1gtQi0wMVJneTg2aFpBcjV4b2NfR3RNN0dINjFveUpmNFE5Qm1iWXRuS19ZdTFVVDRqWjlnMk5iMFlBMDJkRGo4UmFBX2c4LVNVZ0VaZDNDLWRRajl30gHYAUFVX3lxTFBMWm0tMFBRaDhxR05SaUg3V0xJZlRXQi14ZElWRlN0alpja19wenQ1RGp3ZmM0WXQ3QlJ3Nk1BM0hWUzNfQ2czTVA2ZG50VFJuUWxsV0c1TXhfeUxEbms5XzFCZ2NyYkpBSHRRT19VOW5HSXotRjdnX1pQSWxlVUtvRDdlQ2V4ZUxYcmt5akhoX1VoZk9EUzkwNk92VElNTHd0WWxuVThnTUJ5LVVTb3VzUGdDNGgwbEo0aTJKMTcwZDRRa0U3Vk9ST2gxRC1HMi0zU2k2Q19rLQ?oc=5",
+        "title": "Toyota and Honda will be most affected if U.S. tariffs remain contained to Canada and Mexico: CLSA - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREJVVjJ5Y3ZNcWZIaDQ3MjJSelBxWkdRM0pNQl9FR2otWWdZSFVIRnYwSUNxTmtDdlp6S0d2TXl6ZXFCUzNlOVhOZjlQUUN0MVcwNVUzTUVqY2Q4Q01tMmlqQjZkb1NmQmxBQ1BEdHAwMkxkVEhZYmdHbUNWSE1zYTY2UFdXREQxTENTT0QzU0thZ205b0wxT0k0dFpGRlpGRGZRQWx5a2FfUXFrcmMyNGxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mazda Motor Corporation (TSE:7261) Might Not Be As Mispriced As It Looks - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFpGWmNrUWdlXzRya0x1aGpGSXJvMG16TzlTNHI4NW9jdkVKOU1aVkFnbWdJYnJxaW9IS3E2aEtmUHByc3gxTEJvSld6ZlZTN2lHRzNfMUpOWUJKSFA1RkJvMTI4RUtkaTJCTWpHQVl2SmVYbEljVHJkUGRLdzlrbElSWHdwQWtUQ0hENi1peXluVGVkS1drSUNlSzJ5aTdGd2FkWnk4LVl3eGVzU3FBYTNFZzgwOTFKN1NTQXVHU20zaEFvOW5ZdkVEWFNWblZ6OGVz0gHYAUFVX3lxTE03MTZqVlhHWFByQjZnT1dScS1ZRm5RMTBBNmNHV3RoaDRHdkFQcGdTQ3d5S25BSThwa1g5SHZVQmEtVDVpV2o3bnhYc3RNeUVlWEJtajBxLW5lMmNrVWN1OFJlZGJyQ3IzaHc1VXE2N2lFQ0RkcWNTWE94bk9zQjBuTDBsUDFaMlU4bFJGTHRsZzVfV1V1eWVDOVdPZUZ5YTZLWUVoNjRWSWJNMU5XLW5QLVJHRkhuLXhCMlRLMFI5ZFJ2UVNKekQyUERLVExTWEJtRnlvSlVpdA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -584,13 +584,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan transport ministry raids Hino Motors after false emissions data, shares tumble - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1B6bVJZemlFOVNZYkdSNERpTFd6OC14NFZISkFLc2RQdDlaRVp2TEljbURXdm1aeVBsc1E4RllnbWNPSTE5SjhNeU1OS1pMenVyZXVud3k2OFRtTG9DTzB3eUQ3SVE3TnB3T0h1QVh1U2xZZVBCOXlFTnBsUmx2ZTJ6SEpuLVFhbHlMek9CQkJyX2ZwRExwTGRnNXJXdGRZVy1lVzNza1Fpa090Wi1iLVIzRFJGemhGbkFHblFOc2lzc18zWVE?oc=5",
+        "title": "We Think You Can Look Beyond Mazda Motor's (TSE:7261) Lackluster Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1JXZ1gwaTd6V3NaeGtXNVNrNl9iV2F2UkxmbHR3SS1tLXozNTRiSWdWbW9wWllMU0hfOVFiX1dscUx1LVJBNU9zYm4yN1NQYmZlaXhwT292dHhCbEp0THc3UjFlOGdiR3k4bnFEcW9qWnRHMGNyZmtrajlTSkRUZkYyZzZzck5WTUVzb25HdVBKOUd5YXNxTFVHck13Q0VHek5qTUE2NERFU3NNc29aYjliQ28yUjNfTEhCN3R2cVZPUVUyLVRsaDFMVm9jREgtcEFv0gHYAUFVX3lxTE9FeHJQLUVZMFNRSlM5eFduLUJiN0hSSDM1YU1vMGFIT25ndEh0X19QSkNkRG9IZW90LTlVYktyVTFhVG50OWV1LU40TlpiYkFLcnkxVjRhbGVxb3hBcnN5bUxtX25fRXdJdUlJbGVSUm90dy1IV2R4alBJYmlTUE9DTUdGQnRuWnRDTThpWHV4aWhubWUxQjVDTlFDZEpBTUMzOExERTNQQ0hBN0Vsc1gxQ2xLWDVnTnVNRGpyR1BJSFgtZUZHRGRxYzBXSGppQ2JTNVBjaDRFUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan auto safety scandal widens, Toyota halts some shipments - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0VITEtfbk5Ld3BpMHllQVp3TExPSjFmMHltcXF6T0pGS1ZYWE5uRkxzVmFnRW5ESXlXdWhMSFpYM3JnUU44VHB4YVVhRzV1SlRNZVBOY0VkX0w2OExERnZvRkowYUhWQlFWZWkzSmF5Rkl5TUZCYUtyblg1dEpUSGxuaDVuelBCaEJsb19NLVlnSkRqZUw3VHNwUjd0VlBNb09zMDdQRF9aUTdzTElPZ2FzaXNNeDFjMGhHdnBlYWJ6STh1TDk2NG1FYzdxam8z?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "The Return Trends At Mazda Motor (TSE:7261) Look Promising - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl82VG9CT1hqNjBXRm9Rc1lrbmRPbjhUMHBwdkttczJEalQtcDJwYWxEMGRsR2Q3WE5Pd1JhWTBXeFdhZWVFWUxlU09OQzU4NVNMSzIzdVVrYmpMc0JzVGRkczdabUhka1hMS0tfWUo0MnZwYTRadGJBczQ1UUQ1RE9wVlRCUURJRmJjZmE1eTU1UzNxTzl0bHFfMVpONXAzYWNveTFEVUp0bnlxYi1XRnJDeFRKT3BhRnN4VE9VUEVlZ1NscDhwUXJ4VFAxLWPSAdQBQVVfeXFMTl8yOVJWejhnRF9Ceks4cVNCZFpyOFVRX2JheW4zendOM19qWE5jV2Y0UVFoN1JQU1ljWGtQdHpvR3NvM3Zwc0lEQjJKc21jV3JXNFZsMmNGdTdfV0ZRaVpZWTAwQU5BWHYwSEhYRWJ4UFo4YzNyT1hMTWhpRjJRRXlBTUM2TzY2X25zT25jVXNlc3JnOWlLQlRaTDFMc19Mblo0a1hpRVZEbFZkU1ozTnc1WWNzM29QcVpycHFPWjljY0dybzNxall6amxmaWZvdi13bU0?oc=5",
+        "title": "Mazda Motor Corporation Just Missed EPS By 16%: Here's What Analysts Think Will Happen Next - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVVhZE9rVUNNSC1kM1M0TVMtdzRMOE9SZGRvTUUxRmdub3dKeU5HQlhqU3c3bXp5ZHZGR3NqV3czRE1OUVZZYlZRdU1WZnZJNnRQLTFMS3FVX2h0aWJqMEpXb3pZcmx1Qkpmd3ViMk91bVY5aUhySWFYb1BiV1gtQi0wMVJneTg2aFpBcjV4b2NfR3RNN0dINjFveUpmNFE5Qm1iWXRuS19ZdTFVVDRqWjlnMk5iMFlBMDJkRGo4UmFBX2c4LVNVZ0VaZDNDLWRRajl30gHYAUFVX3lxTFBMWm0tMFBRaDhxR05SaUg3V0xJZlRXQi14ZElWRlN0alpja19wenQ1RGp3ZmM0WXQ3QlJ3Nk1BM0hWUzNfQ2czTVA2ZG50VFJuUWxsV0c1TXhfeUxEbms5XzFCZ2NyYkpBSHRRT19VOW5HSXotRjdnX1pQSWxlVUtvRDdlQ2V4ZUxYcmt5akhoX1VoZk9EUzkwNk92VElNTHd0WWxuVThnTUJ5LVVTb3VzUGdDNGgwbEo0aTJKMTcwZDRRa0U3Vk9ST2gxRC1HMi0zU2k2Q19rLQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -599,16 +604,31 @@
         "label": "POSITIVE"
       },
       {
+        "title": "The Return Trends At Mazda Motor (TSE:7261) Look Promising - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl82VG9CT1hqNjBXRm9Rc1lrbmRPbjhUMHBwdkttczJEalQtcDJwYWxEMGRsR2Q3WE5Pd1JhWTBXeFdhZWVFWUxlU09OQzU4NVNMSzIzdVVrYmpMc0JzVGRkczdabUhka1hMS0tfWUo0MnZwYTRadGJBczQ1UUQ1RE9wVlRCUURJRmJjZmE1eTU1UzNxTzl0bHFfMVpONXAzYWNveTFEVUp0bnlxYi1XRnJDeFRKT3BhRnN4VE9VUEVlZ1NscDhwUXJ4VFAxLWPSAdQBQVVfeXFMTl8yOVJWejhnRF9Ceks4cVNCZFpyOFVRX2JheW4zendOM19qWE5jV2Y0UVFoN1JQU1ljWGtQdHpvR3NvM3Zwc0lEQjJKc21jV3JXNFZsMmNGdTdfV0ZRaVpZWTAwQU5BWHYwSEhYRWJ4UFo4YzNyT1hMTWhpRjJRRXlBTUM2TzY2X25zT25jVXNlc3JnOWlLQlRaTDFMc19Mblo0a1hpRVZEbFZkU1ozTnc1WWNzM29QcVpycHFPWjljY0dybzNxall6amxmaWZvdi13bU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Mitsubishi Motors plans $2 bn share offer as early as Jan: Sources - India Today",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV9JM1hpOWkxYnVDLVNRX2V0ZVFMekFhcU5ndWhSUXYxNlpsamNGaEhqdWNWNTNTYzV6OU9vbkFkX19WMDdHYVdTbUJQVDYyRmNrbGgxdnF5ZVZ3VzJuRVJtbTAwWkdLTmd0R3JqMTlwZ3dvSXd5blo2UzZHamdNclVnV19CbnhWY0VNRHpHRks4RjlIRG5BUFlTbG15dXg4T19tOThWZmRSZVRZYlI0TA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Honda sees 68% drop in annual profit as coronavirus slams car sales - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczJfdmZ4WFVZQnJ6amp3MFJjX0VTUGh2SGp0MXVqVm5IM1c4dndtVGVUOGlmaE1TTXVhSi0wR2tHRUxUSFRsQ2hDVDJRakZySWphT3N5d20ybm1NMDRGczhkU293TUhIMjVXNnFsWjZOanpmcDhFTldUeHNTQ0M4LXdSSW1RX29UUjk5V1JCejR2MTJ0OFdRUUhiNzZfWk5mNW13ZTNXRjVuX0hHQm02b083aldRd0lDNDlUR3o3NA?oc=5",
-        "label": "NEGATIVE"
+        "title": "Toyota strengthens Japan partnerships with bigger Subaru stake - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzV2b2wzUzhweERzMVNJQ3dFejctRUczNzBHWWVaZXZkZnV3TGctcVU3cnNBelJHcll6MVc4VXdrZWlRb3RwUkpBT1VIbDdKaW5wVjFLeVEyUTRETFp3ZVNSdjBCdXJZUG1NMXI3NXZzQ0J4bkVhOXA5Z2N4elpLODViQk9KX3E4eExSSW9Td2VDYURqakxCUy1kaUpZRklKc3VIaVBmNE5XeEg2cy1CZUJ0dEpYU1BhSEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Institutions own 40% of Mazda Motor Corporation (TSE:7261) shares but retail investors control 55% of the company - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON0tOMERMdEoxbHV0b2ROUDZ5cHMtaUxVLVpRU1J6OURtY0hCM1k5clVGS1Fhd1YtWGlGMWUxM2FFclJnRHA3dW9TaHlKYk5la3JuN2R5T0h5ZmVOaEpGT1pCNkZTMjRraWlqcm5UWE9VNmlVVk5LYW5QZDdfYW1zZHdzVTExTldXcVN0LWVjM1Z2dUxzZHQzR1VITndCUWRVbWI1aUhsaVhnYV92d3dmMzIyaC1jWnJqVmhncjA3R0tMSm5hV2s2aVFrQXlZVG9nc0R30gHYAUFVX3lxTFBKaUVmSWhoblNsSTNnakEzZ044MHJUd040MVhidkJXaEdQS2ptVUJMTi1iWldmc2c0OEVEREJtMTRGSG1INzRnZnVMVmlJemJ3LUJ0a0RlVmFMUGRLWmRxNVF0Zm1uc3FKUC0xZHhseHF6OUlFSTRpbTl4U3lJVHQ0OVdJeDFFU25fTndTNEZvdFJPZGZpeURiTFBzS05jcDNMUmJYYzk2X0d3Ukw5NG1ZbHFhQXR6c3BnbkljZ3lCa0xIZVdyOS1OWUxhWHV3aTByZDRiM1VjcQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With bigger stake in Subaru, Toyota expands reach over Japan automakers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU29lRUNiUWlaVjd3RE1UcEFzMlBxWEZMS0lpTTBMQ21GRVM2REZ6WXFscnJheWZQSFpqcWphSllnR01JTXJxcHB2MXNRYWFXcnVOTDFTRlJ3QmtwSDRLdzk3Zk1OREYzVXdiaGl3ZTNuamJ1VlRZN3pmYU1UR1RSNW1fc0lZOUM1MGs5ZV9TVkpSbmtkaTZnSS0zSkhQSVpGc3BVZk5RV0NuUlVJNTBGX1lfcDZwZHNpLVB3T1hIa3NOT1JleWJtSDRn?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

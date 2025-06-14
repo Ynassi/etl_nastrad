@@ -2,16 +2,16 @@
   "ticker": "UGI",
   "name": "UGI Corporation",
   "sector": "Utilities",
-  "market_cap": 7608366080.0,
+  "market_cap": 7749683200.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.600822,
-    "PB": 1.5180558,
-    "EV_Revenue": 1.939,
+    "PE": 14.872016,
+    "PB": 1.5462519,
+    "EV_Revenue": 1.976,
     "ROE": 0.1082,
     "ProfitMargin": 0.07283,
     "GrossMargin": 0.51886004,
-    "DividendYield": 4.24,
+    "DividendYield": 4.1,
     "DebtEquity": 140.032,
     "CurrentRatio": 1.234,
     "QuickRatio": 0.939,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.04582877864634003,
     "ROA": 0.04961,
     "PEG": null,
-    "EV_EBITDA": 7.898,
+    "EV_EBITDA": 8.047,
     "BuybackYield": null,
-    "PriceToFCF": 22.705327404718243
+    "PriceToFCF": 23.14651987425372
   },
   "technical_indicators": {
-    "RSI_14": 55.28821890251764,
-    "Momentum_10": -0.3090772966562179,
-    "MACD": 0.5568853933061035,
-    "BB_Percent": 0.4592953495406301,
+    "RSI_14": 59.19206653888645,
+    "Momentum_10": 0.2190753263041773,
+    "MACD": 0.5072006559889388,
+    "BB_Percent": 0.6767327011785773,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933316302751325,
-    "QualityScore": 0.3476625918182802,
-    "SignalScore": 0.517440257766828
+    "ValueScore": 0.8946937274775597,
+    "QualityScore": 0.3563220302058056,
+    "SignalScore": 0.5322957289757155
   },
-  "volatility": 0.0141375715784674,
+  "volatility": 0.0141425755676238,
   "beta": 1.081,
-  "return_6m": 0.3118310463061302,
+  "return_6m": 0.2973511494114749,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "strong_buy",
     "analyst_count": 4,
-    "target_mean_price": 37.75
+    "target_mean_price": 39.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 28.33
-      },
-      {
-        "date": "2024-12-10",
-        "price": 28.54
-      },
-      {
-        "date": "2024-12-11",
-        "price": 28.64
-      },
-      {
-        "date": "2024-12-12",
-        "price": 28.79
-      },
-      {
-        "date": "2024-12-13",
-        "price": 28.55
-      },
       {
         "date": "2024-12-16",
         "price": 28.08
@@ -537,47 +517,127 @@
       {
         "date": "2025-06-06",
         "price": 35.51
+      },
+      {
+        "date": "2025-06-09",
+        "price": 35.53
+      },
+      {
+        "date": "2025-06-10",
+        "price": 36.07
+      },
+      {
+        "date": "2025-06-11",
+        "price": 36.05
+      },
+      {
+        "date": "2025-06-12",
+        "price": 36.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 36.2
       }
     ],
     "current_price_data": {
-      "price": 35.51,
-      "change": 0.16,
-      "percent_change": 0.45
+      "price": 36.2,
+      "change": -0.39,
+      "percent_change": -1.07
     }
   },
   "news_sentiment": {
-    "summary": "UGI Corporation (UGI) a récemment atteint un nouveau plus haut sur 52 semaines, suscitant l'intérêt des investisseurs. Malgré des signaux mitigés, tels que la vente d'actions par certains actionnaires et des émissions de notes senior importantes, des analystes estiment que le titre est sous-évalué et présente un potentiel à long terme. Les mouvements récents d'achats et de ventes d'actions par diverses entités suggèrent une certaine volatilité, mais les prévisions positives des bénéfices pour l'exercice 2025 par Zacks Research pourraient renforcer la confiance des investisseurs.",
-    "sentiment_score": 0.35,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.05,
+    "summary": "UGI Co. (NYSE: UGI) maintient des fondamentaux solides et une dynamique positive de ses actions, avec une hausse constante. L'annonce d'un dividende commun confirme son engagement envers les actionnaires. Malgré un nouveau sommet annuel atteint, des investisseurs value se demandent si le titre est sous-évalué. La récente acquisition d'actions par des entités telles que Wealth Enhancement Advisory Services et NBC Securities Inc. souligne l'intérêt des investisseurs pour UGI. Cependant, la société partage des nouvelles mitigées avec ses clients, ce qui pourrait impacter la confiance du marché.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "UGI (UGI) Up 1.2% Since Last Earnings Report: Can It Continue? - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LZlZDWS1fb2t6VEVONk9JbHVOaTJsdHg4ZEowNzFLYTgzTmZyaDNQUVBsWXc3SHk0SmtpNDBVRG5MTU13eXBZbDlKN1dlY3RqdW92TUo5cmlqeGs5UUI3QUNXZmE1Z0pmVFQyckZBQnhxRHZm?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UGI stock hits 52-week high at $36.22 amid robust annual growth - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmI5UnN4MTRGam5yeWcwcWpVckttdTQ0U1FKSFVpU1NQb3Bsc0huTVRxNHJFdkF2aXlLTGtFcmQwNWwxbHY1d0FzV2Q2SkhEa1Z4Zzh0YUNSem16dzI1T216TFZQWjhGR3hpS0FkOWZtS3ItZG10TWxraE5GZ3FMZHd1bmJZNnpLemdJV1ZxYlpxNkhfY2tDaUF4Z1VTZHpJcGk4UmRHR3N0SUR0Mi1weS1VaGoxM1JJ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UGI Co. (NYSE:UGI) Shares Sold by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGNQSE9QeWY0MkdXMml4RzFYbmNPX0NkQkhDZEpvenNkc3pkbUdmYl9HdnRtN2MxRHByMzdhUHpKeUl0VzlHMVgzTW5pbjYwOG5MODdXeDZPV0FZbmZfSFZMV0lYVXZHTG5jNHJ0TU5qR1NObHpsajdRZ25jRWlsdUl0dkh1c2otdGFnNW9JbDlWb3JqVTZ5UEQwYnhIaGlFSW5xMWlVelBtdk1la3Y2dHVHWC1aMjRiZ0JnaTVXT2I?oc=5",
+        "title": "Energy Stock UGI Maintains Healthy Fundamentals As Share Strength Continues - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFVOZVVnOUtrYTRNTGo2RDdKU0Q4ZmlzS1g3WmhpMXF4Vy1wT1B2ZUdjSENGNnJMT1Y4SDdPcXFkRlhjbndDTjVLQUtCbzc0cHV3bmtjci1fR3R2UjRyVHM3NUN1TEFPUTVPeGt2NjNKZ0luRkdrWXB0cVZvYTJocTc3YXlRUWdTczZJa1JQRk1oNGJmRjZvVkR4Tk14ZjZ1?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UGI shares both good and bad news with its customers - PennLive.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW1JMmZibG9ZQV84QzRpbWd6TG1VSkxPVGlrSVZFQlJFaUhZTFVXcVVLS0o4aTF5Ml9kdk8zRmF0U2J1OGdFZWZ2M2FTdU5Qa1Bib241WHZ4M0ZZcUMtVGZUQVZmNzJ2em85c05SUkRvZmhMcnpRak0wWVJ0MmtqSzBpUXZhLWJUT1hacF9DQ2pLcUlveXA3TU5VSmExQnc0?oc=5",
+        "title": "Here's Why You Should Include UGI Stock in Your Portfolio Right Away - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUJ4alEya1l0SzN5NWduSEZWRlU0YUpjVy1DTnAyeUNZVEZKX1RRWHhYbC1vTDZIRGNOaGYySHJWSU55cC1GM19QY2lKVHN3QnVWM1M2TGFSdFVCX09HU1Q3T1BwWGV2Mms1dnVHaUsxNkZHZGZRT1pHTlpwSFFaTm9QbUZjenVETkVnU2JNMnBtdnFvY21HVGUxSzItUU9Uak1NNEJFcHNrNEVZcVJkdlR6WVYxbW5SSkxzeWRZMGpnaTNzZ1VBNHI2VDNCUURjSEtYVVVIcEpMektmNWNGamNZQTJtVFE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UGI Subsidiaries Issue $550M in Senior Notes - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVh1M3RnemNreG1FbFBZUnY2UVhsY1FEeElteExRM1BiYmN2djZ0dHBJd2JtYkxiU2RqWlNHai1UbGlpLWJfS3dKeExBZzY5cUNlSTI0X2VDUW9NTXhDeUZ6bmU2cmNtMlloWjF1UC1mYjZGR3VRYUhiRHJoVnVNQnpjX0Iwa0RqdV9zSFRHUC1aRTZXRnpfWm54NA?oc=5",
+        "title": "Should Value Investors Buy UGI (UGI) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02eW5fOS1UTzlXS0tQVkkwaXUtTnZnY1hTYXJkOVdSS1FseG4wNDlGQnZZQXI0TjUwTy1HWlRGMG1yYTREWE1WejBldGNlVUJ4S2hRNDRZbWM0YWlVRFdOTjVEOWg1VXhsQWU2Vlk1dnhlT3FyeUc1a3RXNWpvZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Purchases 269,897 Shares of UGI Co. (NYSE:UGI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2ZvcHgyV2JYc0xJZHBrQ29PSWVjaXlOZ0lGQzk3cS1INmZaaE9BODVHN214bmhiQnFZNFA5UjZFU1JIR1RUcE9nc29teEhDYmJ1RjBzcGdNVk95ZjRrUm5Ycnk5RVQyUmluTjVKQnE3RWhzZFhjVks4RGJIay1WWmhGb3hsekN5bFgxV0l3dThNVmFZN0RQSXVSVFJrd2ZqMVRRTUc5TVdVZHpyNWJ4X3QxUnZOWHNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zacks.com featured highlights include Intuit, Fox, Qifu Technology, UGI and Ingredion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFFRWWZ1Vmt3Yi02QjZfUVJ3SkpJR200UTFMMkRxLVdHX05tYWRnUXlGTVFlbUtsWlF0cGs2VlB2THZtajVVTldoSzRHeGZzVUR4Snhtd3RDd0EzaXhsZGY2UTZISzNyOElQMWtwMFVfR2VCNmhOV3lPS3A3bjg3TWRVS0ZUajY2QXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UGI Declares Common Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0NRb3ZnTENiRjN2dW9YX1JXTTJzVE5HY2NqenRPTl9KMi02N1hfSEZHVjExOVZYT2QwUTlfc2xVVzhWa05UazlJM2xOSWVFUm93dm5qa3dKaTh0WmlvbTVfdkN5Tk1Fell5dmNJR1RzOHhKY1Q2S1FYR2hyVkQ0UmVKQmxzazNHbjlyTHh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where are the Opportunities in (UGI) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDNoYS1lOWxEbGNfRVVsWjlpZDl0M3BRSmI4U2swcTU4ankyNjdOWllRMmZqWnNWenBBTFRKRU91d3dHdVJOVUlYN1NKMFhDOGVmYVNkNWZtWndqNkRENDZFVFl0ZkNvTEFJR0xUcFJkemladFhYSjlLWU02eC1leVgxMF9NamFPT2xMZy1INkRVWjB1ODJiNTQ3ODhESkZUUU1PZFl6LVdXcnhD?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Grows Stock Position in UGI Co. (NYSE:UGI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb3l2cHljdWRoMHhtNndob0NFZnFoWXBKUVV1blBGMzdqZTI3bUlmcGlUem9lN2lMZjlXbHVzYU5KTVU2aVM1QUZXSDFRN1ZkTHFKYVIxTDZSeUJMRzZSdGRSUWFZSGUxT25zU0hmSTNSNDZURXF6a0VWZ0FIOWtvSkhyRnlsVm9ldnVaZnFKTEhHNUlSaFRCSkQxSTEycGlqSkdFZm5xSDNUcGV2TFRYampxNnZweUNzU3dCOHNCQVlndlpRSmUxVzZxbDN0ZEU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AmeriGas Partners, L.P. and AmeriGas Finance Corp. Announce Results of Tender Offer for any and all of their Outstanding 5.875% Senior Notes due 2026 - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPZ05TSXloU0s5THR6RzBHZ0ZQU09tMEVCNktOR0ZaSEh4SUVQbHdDTWpDbThNdFdFVVVoMkhwSTBveUhZaV8yNERGcVlIWEFXRDQ3M0pDTFlVT29sTUtHazBCTmltSExLSHZaR0lnQ1YyLXIxcnZBWTZldEltR0w1aUM3U3ZxNXBRcVJrbHpFTWEzcFVDMGdSZzZwZlBPeDZUcFlBMnNCVGxrRVhIQVJjOTF5aUZKb2FqYm4yQllEd0FpaVdEUlRPdzZ0Ukh2OXdQRmxZZnJvZnZQX2tyb1NmcDBjLXY0TWV5cFh5WmxPZW1wd3Q2RGJRMlBMVGNrMXo3RXNBR1BvZ29PYTlWY0tTbmpOVG4xT3pPNmY0czNUME0weGdiV3AtNy0wRDM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UGI's (NYSE:UGI) investors will be pleased with their respectable 67% return over the last year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHV3RldpeGRIWVJqM1VCYUZlM0NkVVV2MGYzWHQwMzFNb1MwcU1YVkdqUWFZSFgteDFIRHNtUUJhNGZpUWxRRVUwTG1HVmlOV1lRQmlIM3hYSHBadVNEcFEwbHhYV0xKeTVrN08wMWN1ZUZ4c2c4blZYWjFBRmdQYWhDZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UGI (NYSE:UGI) Sets New 12-Month High - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblp0NGNfaU9jMXBlaTEtUWNCa010NkQ2bGNHRThfcmMwbW52VEtVbGlkc2xZb0hhMlVaOWFqR0FZSkhPUzB4UnhBUU5pN1JjdzBaUjlncENCanlSOC1YbDg3REpxYUZWY1RDVldQd3gzZUxCaE9zaFBsakNFTXlYSXpUUXlZQ1RfdzZ0cnBaU3FMS3htTXZRWW1id2dXUHFvN3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UGI Co. (NYSE:UGI) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnY0NjRzdjFzVWJKeTF0TUVFZUlWTTNwMll2cHNfb0ZpYm1LT1BGZkdWOFQ3Z2dSVXFpUUl5Ri1yWnB1a0tUUmZ5VmZfa1Y1X1NfM0pPT2paUnVJU1VvQm91OHBhMERDOFVkVHRteUJNa2FNejA1emVxNFFlN1pYWmtTVW02NmdkV28zblZTWGhlYkhjVnJuamFGZ1FFSHZrRXZtenFsWEFITGszVDFhX1FrbGZCZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why You Should Add UGI Stock to Your Portfolio Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QNUpqS2NZejRJRmdpY0pCX0FFRnZMVEtsU1JRQVdHcUc1WHZCLXJmZWROLUdfbnlKWS1RVFZGZE1ZVW1PRGVoUmhPVHJtU0dScWtTSmtvRGdJc0c2eTFReVEwck1rVy1ySlBvYm9ZU010emZCV2txRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why UGI (UGI) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96U01Zbml0LUVHMEc0SVRWb0FUNXdCdWRqLWtXVWxmQ05kdlYwZlNhSnkxVTdLejktNHNQZkZCY01wenExVnE2XzBVMFJZLXpKODNBbFZwWWo5MThaR0NQbHdyN1E0bk9YYVJzS19DcGQxTHBJSEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ProShare Advisors LLC Purchases 38,958 Shares of UGI Co. (NYSE:UGI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFhSZ25QdVVaM1FQdmhzOWFBNkpSMzdFbmdpdXMxNDRvRVJ2MVZVNE5COXY5bTFZSjE4aWZEajB6aXM1aUE1cXZsMWpVLWJOcWhzcmlCZmNoOFhsNkNrNm1VN1psRU5VQVNjN29lcFI1c3J6SG9aQjhPd09ETHVicEcyOGNMYjBZTGlLVkpnTFpITnl2YlUyQnlkZUowZWNHM3dxT1c0VDhPbXVFMEJIb0dGMXpJZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why You Should Add UGI Stock to Your Portfolio Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9henJfVjVUbDlGSGdINTJ2eTdrQnoyR0gzSWF3MWdULXNGRWRfWnFKajZrNWtzR1VySlhMaDBqdGNBb0wzUXl2Q1lvdkJjaEk0Vy1pd05lRlJsSWUwaVhlX1FjdUpnZXluMWk1azB6QVVxd05ldDNHWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UGI Co. (NYSE:UGI) Shares Acquired by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelB6eHF4OVVYbkVETjNCNExUT3dLS19UOVBqdGNZTjlkbndndmUzb3lPRUJub2FQcDZwVEdBOVBCcDZMS1JhcE9UNWJwUk0tdF9YZVpCeVFhZ3JoWE1Ub1pBZWk0cWF0SVhpLWFXTmhyZGtuWWpTYWdTNjJ0T3pYaUVNejdDdlEzSFROY3RtaFE4dm4tZVktcm0yWG40SjlaN3BDVFVqQWRfX3IyUHVCaVB4MA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,76 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "UGI Corporation (UGI) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBObXBMcVE3SkxMbExua0Q5dzlQbE5CYWI2VWtaNFlzOWhTM2xfMEdKVnA5OWRBMG05YzA3RXVHeWVVdHRLcnZ1cUNPeGFrbWRqV2RDR3F1VW03OENNV2ZfbVh6SEIwNVNpaFJHVC1tLV8tOUltTmo3SHBabjc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NBC Securities Inc. Purchases 20,621 Shares of UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelB6eHF4OVVYbkVETjNCNExUT3dLS19UOVBqdGNZTjlkbndndmUzb3lPRUJub2FQcDZwVEdBOVBCcDZMS1JhcE9UNWJwUk0tdF9YZVpCeVFhZ3JoWE1Ub1pBZWk0cWF0SVhpLWFXTmhyZGtuWWpTYWdTNjJ0T3pYaUVNejdDdlEzSFROY3RtaFE4dm4tZVktcm0yWG40SjlaN3BDVFVqQWRfX3IyUHVCaVB4MA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Squarepoint Ops LLC Reduces Stock Position in UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTRYNmNwWVh2aGxLOWtjVHQxNjNuSTNwd0R2YnNRcTVRR2VkMTlpeElCYmszTjlrNHBKVlVyRUM3ZU4ycGhyVEpDTzZRM013UC1UcS16Y1daaU1RcnFnWW5CenYxZVJuMXduXzZnVER0SlJDM1J6clNQU3Y5eDNkeE5lRVdITjEwbEx2bFBMZkpQbGFySlJtZnY4MDQ0eWNKSEZRTDNVMnF3WWlGQVhJ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why UGI (UGI) is a Top Value Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96U01Zbml0LUVHMEc0SVRWb0FUNXdCdWRqLWtXVWxmQ05kdlYwZlNhSnkxVTdLejktNHNQZkZCY01wenExVnE2XzBVMFJZLXpKODNBbFZwWWo5MThaR0NQbHdyN1E0bk9YYVJzS19DcGQxTHBJSEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Stake in UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1FkUlBZc1o1QlZNdFNiamk4S0N1bS1WeXoyQTJnYkN5WkxJemctT29Qb2ttWW84NmhXOENXZk9PRFRJdEd2WXI3bzJRNnpUVHBKdjVhLTlkV0dGaFVSMXpzeEl0SjhPRGRDSTRyRXdQWWIyMjlndnVJOGdRbjRZU1o5QVFOZGZSOEhDZWVwX1JUMGU4a0pmSkFLTnM4TTJ2WFZFa0ZKSnFhNHZXSEtMN3Vub1BfN3VsQ3ZNQzAzajF0eUJ6RGhYYUhrRFcwUFd4S1g4UTVQTGxPSmktcmVMcWhyRnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UGI Corporation (UGI) Soars to 52-Week High, Time to Cash Out? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YU0gyRkZVMWpUdXBGY3ZzbGpjMzdhTFNxMGNFdTFNOXFrQTFqcUVlVnVMaWJveWd2NHBQaUVhQjI4OFRVeWM0RE1vTERTSzlhb2p4UHZXeTdvZTd5a3EyZ0lnem4wU25PLTFRNmdka2ZoLVNidngtNEVaTEIzWjA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Wellington Management Group LLP Sells 8,160 Shares of UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa040a2VDcUlESXdEMThocmYzX3RLMmlYOXhqVmctU3hQdlpwaGVyaFV3UzVXTlJJT1pPN0JpUXhoT1dDcThJbDlwR3k2LTM4dURRZ24wTTlMd3pidGQ1T0FNN1UxenFKUEZjRk5BTGU1aTlNeHdXdHRkXzRQRlNkMklPY05hVmt3UnhTalZIWm0wcU4zSHF3WklXbm1lYlUxemtqeGFQbElGd21zeUJETVlLZ1FHN0ZpVGJzY1JrSVBpS1FJbERN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is UGI Corporation (UGI) the Best Performing Utilities Stock So Far in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbC1LNTE3MnlvUlhWN2xGbTdZbzdRVFZMSFZ0MDhBQXBDREx0VzRaTzR2anhERzBnbHl1UFF6eThpang0dFViWjBjTDNfM2tfMWpOdEg0YVlCMnJPS3VCTzgxUzJuWDRGMFhEWFZwYVJTTFZQcDB2cENCZV9QVDlSTkkxSkUzRENL?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Global Financial Private Client LLC Increases Holdings in UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT25DQzJuWEZjaWNVc0xiVEZ1dHVub0JYbWRCdG54UjdzM3RhWEwzcFBqVmhyOGFPUTE3Y0lqR25kbDNrWE03T0RJclo3VkhGdmZGZmxTWHp6aEtIaC1LYkNodHhxdmo0YW41RU9NenNxTHlpbWZuYXpJVG5fR1pURWNrb01xNWhrTGplUElVbjc2c1JhYWs3NnJJWFhEOFYxQkhLLWQ5WlU1Y3lTMG5Nam1JSmNlbVA2bEtYUlFubVR1Mk1tMTl5bWJMTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UGI (NYSE:UGI) Sets New 12-Month High - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFYwVG12dnpkZWdyRElVak4wSlJBOEZIYW5FbHhnQVhLNmtWMDlrR2pmeVJtbmdwcjBsd3d5eWdVQ0FzRmNTQUJ5OG5QYWotaWZtNV9XaWtuaG9rWVRNdy01dUJILU5ZcTk2RVQtUml2TXMyTEU1NmxnSUt3WmlMYW9mMUYyVmQzS01HelpuQkpINjBEdHJ0dEl0a3BfLVhn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Zacks Research Has Positive Forecast for UGI FY2025 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHRIVGR6NXJPTGxZeGIzT0tPazJsTmh3ZDBfZW9ITFNXOWlqVFBBejNidGJBbUtPa280OWE4REM3akhaRERZd2s3dlYzc1E3LXBxek1fd3pkY1IwZlIxbkR6Ukw1VXZ5eXk1MnJzNEYtYTljaUl5MklrXzVXOUNfelRlME9RLUZ3QXJZbzc5aER5WHp1S3g2S2NaU2w2YzRqLWluekRMakNjdHhKU0RGUloyMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Apella Capital LLC Purchases New Position in UGI Co. (NYSE:UGI) - MarketBeat",
+        "title": "Apella Capital LLC Makes New Investment in UGI Co. (NYSE:UGI) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXlRM0JMNVM5ZENqMWI0bU1wRDRsa1RaUXZIVzlfbHF2dzN4WGtnZ29FOUY5N05SMnhMNHNwVG9FeDA5eDNIQWY2RUdWbk9CYnBBVWRyNWdRcEhCMUxISll3WGt4aFB5RXF6U01jd196cC1WMEotcF9HSm5CMHRQZVRnODNMT0pMVnpic0ZTRlc1UmpoeTY5Tmc5c3lVd29oMHBjRV9waFdVZDBhZzZ3M1BkdUhfVjVyQ0Vacw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northstar Financial Companies Inc. Takes $415,000 Position in UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQek9RQVFtYUwzMUVIQnNTanEzZWN4emxwM2VOWkpEcV8yNmRIRGlIYjhmT2xqbVlIMTU4dzJTX3J1dUY3M3JiM1RiaTNqSlhkRWg0bGlicEFZelhmeU1iT3AyTmtxY3dkR21Rejk2WWJiUDJqWmxmdXFheXRlYXMweXUzYWwtdTVHRGtRQm56UV85VHcwa3g3TEwyRTZZY3dxUWxMS1dQQ0NpTXZvYll0Mlp0dFRPNEdVQU1PNkdfX2M1Z2dwQTdVY3JOUmRmV00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealthedge Investment Advisors LLC Makes New $487,000 Investment in UGI Co. (NYSE:UGI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXN0VGVpTGFrdGxwcDJ6LWVDVDBCblQxSTFtZHM2cm16bmdfaE9nRWV1THU5b2RSbVlWaUNBWnQzMVZEMjVUY21ZOFJobG5QN3ptbFplcWExX0R2WWNMeS1ONnk4RXdmTkcxREpoeDdRU0NZMm1VNmxBTFVKVjRYNGJSUVFNRzdKMUZGMEFKdjRfWWh6NVF2VTR2T1FkWmZGWUdFWlJKSmdmY3RDN2h3eHZkalZuNzRqeHFnT1V2V0lzUHJvcDRv?oc=5",
+        "title": "UGI shares both good and bad news with its customers - PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW1JMmZibG9ZQV84QzRpbWd6TG1VSkxPVGlrSVZFQlJFaUhZTFVXcVVLS0o4aTF5Ml9kdk8zRmF0U2J1OGdFZWZ2M2FTdU5Qa1Bib241WHZ4M0ZZcUMtVGZUQVZmNzJ2em85c05SUkRvZmhMcnpRak0wWVJ0MmtqSzBpUXZhLWJUT1hacF9DQ2pLcUlveXA3TU5VSmExQnc0?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

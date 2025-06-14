@@ -2,16 +2,16 @@
   "ticker": "BNS",
   "name": "Bank Nova Scotia Halifax Pfd 3",
   "sector": "Financial Services",
-  "market_cap": 67093172224.0,
+  "market_cap": 67597627392.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.478449,
-    "PB": 0.79007584,
-    "EV_Revenue": -2.445,
+    "PE": 15.550143,
+    "PB": 0.7960162,
+    "EV_Revenue": -2.416,
     "ROE": 0.07908,
     "ProfitMargin": 0.22761999,
     "GrossMargin": 0.0,
-    "DividendYield": 5.97,
+    "DividendYield": 5.9,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 76.66660138695556,
-    "Momentum_10": 4.3490949109557855,
-    "MACD": 1.112507532081139,
-    "BB_Percent": 0.8765418145548,
+    "RSI_14": 75.08725788281919,
+    "Momentum_10": 1.4013452794939285,
+    "MACD": 1.060133646391094,
+    "BB_Percent": 0.816426000914433,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347447234063434,
-    "QualityScore": 0.28631332941837,
-    "SignalScore": 0.3790217560171213
+    "ValueScore": 0.8966521301841613,
+    "QualityScore": 0.2943914562006196,
+    "SignalScore": 0.4505923442728078
   },
-  "volatility": 0.0113477835828458,
+  "volatility": 0.0113463151467298,
   "beta": 1.209,
-  "return_6m": -0.0341581273742249,
+  "return_6m": -0.0207505909270498,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 3,
-    "target_mean_price": 54.59577
+    "target_mean_price": 55.014343
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 55.81
-      },
-      {
-        "date": "2024-12-10",
-        "price": 55.83
-      },
-      {
-        "date": "2024-12-11",
-        "price": 55.84
-      },
-      {
-        "date": "2024-12-12",
-        "price": 55.25
-      },
-      {
-        "date": "2024-12-13",
-        "price": 55.42
-      },
       {
         "date": "2024-12-16",
         "price": 54.94
@@ -537,48 +517,78 @@
       {
         "date": "2025-06-06",
         "price": 53.9
+      },
+      {
+        "date": "2025-06-09",
+        "price": 54.07
+      },
+      {
+        "date": "2025-06-10",
+        "price": 54.11
+      },
+      {
+        "date": "2025-06-11",
+        "price": 53.85
+      },
+      {
+        "date": "2025-06-12",
+        "price": 54.31
+      },
+      {
+        "date": "2025-06-13",
+        "price": 54.31
       }
     ],
     "current_price_data": {
-      "price": 53.9,
-      "change": 0.27,
-      "percent_change": 0.5
+      "price": 54.31,
+      "change": 0.0,
+      "percent_change": 0.0
     }
   },
   "news_sentiment": {
-    "summary": "La Banque de Nouvelle-Écosse (TSX:BNS) a récemment annoncé une augmentation de dividende et envisage des rachats d'actions, renforçant ainsi son attrait pour les investisseurs. Cependant, les analystes de Cormark ont revu à la baisse leurs estimations de bénéfices pour TSE:BNS, ce qui pourrait susciter des inquiétudes. Malgré cela, la Banque de Nouvelle-Écosse a surpassé les estimations de bénéfices et de revenus au premier trimestre, montrant une performance solide malgré des défis passés. Les prévisions de National Bank Financial indiquent une appréciation potentielle du cours de l'action, alimentant un sentiment positif autour de l'entreprise.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "summary": "La Banque de Nouvelle-Écosse (BNS) a récemment augmenté son dividende et envisage un rachat d'actions, indiquant une confiance dans sa situation financière. Cependant, malgré des signaux positifs tels que le franchissement de la moyenne mobile sur 200 jours, des analystes ont revu à la baisse la valorisation de l'action en raison de vents contraires. Les résultats du deuxième trimestre ont déçu en raison de la hausse des provisions pour pertes de crédit et des investissements en cours. Malgré des perspectives mitigées, l'annonce d'une augmentation du dividende pourrait indiquer une volonté de maintenir la confiance des investisseurs.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Scotiabank: Buy Now After The Dividend Boost - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHE2RE1jNk9QS0VJMDJhQWlvZlE3MnBLa3VZbVM3aXAxdHBNRWV6Tk9HTk9WX1p5MmJscjhzRERVRDdkTlBaNWd4QlJiZzg5c3RnUE4wYXI3YVVnZGE4SXNmbW1mVld3ZEFKbzk2dHpiLWdKb1hhc09YWGREVGk1Ty1GUWJsTWkxODZkeg?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Bank of Nova Scotia (TSX:BNS) Announces Dividend Increase and Considers Share Repurchase - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbDFFSEQ4RWtyVkxuTW5UbUZfTUkyR0h3aU9HTFV5SlJZNWpLY1FZV0t5VkNiZF9MVDVjSF84TzFhN3dLSElUVDRoY2lucWxYb1k4dHNYRHlPem5JOFA0WDc4SEp0MFVOM0xkTlB1UmFpSUZYNFFITlN3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How the (BNS) price action is used to our Advantage (BNS:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUh4azh6XzhCdG1EOWNUTW0tSHE3RzJlekVaa0Vmams4cXh0b2QxQUZ6RkFvREVoYkZvY2FHZzdsdmtJbjFhM2lpWUp6Um9XLXF0SlRGRVZnLTZ1OWVlNFJKR2UtQkl2YUF4Zmt3cjlnWS1GeGJrYlBkUUtCcDc1TTBmbkRnbDh2Z1QzZk9iQm55X1J6Q3U1SjVMLTVXTjBRY2xHRXpOYTNBNVU?oc=5",
+        "title": "Bank of Nova Scotia (TSE:BNS) Share Price Crosses Above 200-Day Moving Average - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzB4Tzdzd0xOaGpHMGZXMEpVVUdVRGFnQ1QwSGNVOFZPNTUxbnFfX29VSDRyTjFXREJXNElVSzkzVFFmSEc4NEdjenVGZU5RcjRiZnV0LUhHTS1YUmFWYWpnM1VxLVZBSktSUnJrR05mUlBuSlN1ZkpKcEloeUQ3b0wtVG9RSk5yUF9hUUZFblZtM3haYnozZFRDeFg0amZSNFRxMUpieFM5X0pMaXRRd2dHcmV0VVNtdFFNVl9iSHRYd0gtMmMyQ2VTLTZrXzMxM3luVHlB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Cormark Analysts Decrease Earnings Estimates for TSE:BNS - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXozVUtBVTc0SWs0bHg3eURBWkJpQWxZclBlV0VhY0RxdG16OU9ZVU9jR05yMGFkZzVmaFYtOERZblFfOV9oTG5SeWVNSlNVSHNTTHNRQllSLVVxdlFteGpUQVF6NXRDSkpyQTlObHhpWjRYYlV3TmpwVGNONmtUU0k3Yi10Mmt4aHRNQ000Ry1ZVDdKLXpYeTJIcjNDbFdRSnh1N3M5eEhqOHV3Z21Hdw?oc=5",
+        "title": "The Top 5 Canadian Bank Stocks, Ranked In Order - Sure Dividend",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMEh4VjNrZEItdVVhWGNZQlhBQ2FUVFAtV05IQzFYOU5EdlZxelBkdDhzQjc5RjN6SjNDRm01QkNHU2pLR09rYVlqZm9hVUZRdFplYjZWUzg1ODkxdWZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BNS) Stock Evaluation Report (BNS:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb19NSUNkdUo3dXVqWW4yVE5LMVpwTm0xSHdFZlg4MDZLMmczZnIzNDdyTy1TQTJlMFA1RE02WlFwb3Y2MWI3VHd0MHFLRmVFZkYxNkstcFBUNUk5b2RvWnhmRVhaZ1loblJ1U2dnTjdtV0JucEpUZ2NTc0NVUGF2TGVtOGtjYW43QlJOcVV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Nova Scotia: Barclays Capital Lowers Valuation on Headwinds - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV2ZmbXdvbUF0OERyREE2YnFDbDNCV2pWcm5jSEdZNXBzQk9RQ3BtaDlmeHd4cE14Y3hmVHhGSFRVeTNiS04tMXp5MVFwSWNnWkxta0l2cklzV1hzSWtqaGhrSVBEeVZITW5XS2pJNWhiUWVxVjc0VVA0cW0tWFRZUlAydzlpcXJJUjd0T2xqbkVQMXQxVUR6NjVJR1U4eDlpbGdDcFBLVUNWWGVGVXlJTWJtYWtMeW5GRVVuTDNoNHZELWJNOEJLYnMyY3ZvLXNRTUxFN2xNQVd0QTJ1R3pERmF1d1BDMG5t?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Scotiabank (BNS) Target Price Increased by BofA | BNS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVtcktLRHlxOFNrSVYydXR4V2Q3R2s3d2dPdGVzYlh6NXZGcGVvV1cxeC1MRkd6OHY2OVk1d0dHQ1NyZTN2eGZJdE5FZFZLem5nLVp2SEptTUg1QV9pWXNpME1vUk5OX2M0N04wcjFpQV9IVEQ3TjN4NXNGeWxoVzVURnZIVnFjN2dibmdxeGYwaTczVWlFNXVoT0psZWcyMWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Holding Steady: Why I'm Not Buying Bank of Nova Scotia Yet (TSX:BNS:CA) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREQ5enNFVFE4RDY1MHVyTzhmS3p4M2hwbDZFYVN0VzNwVnQ5RE5Tb1E0ckZiXy1nMzg2b3RVTEVQcW5wR0VCLVZhMmphbHRyX0owMW9qU3dVZDJ2bHg2U0VQUU9ObkdYaUQ3Z1FhektPU0NYTFNOQ3pNQk5hMjVTcmZIcDdZTWRp?oc=5",
-        "label": "NEUTRAL"
+        "title": "Bank of Nova Scotia (TSE:BNS) Given New C$78.00 Price Target at Barclays - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzB6YWZ6NmEyX2JaQjFrSGs3RmdzU3hrY3E1endRY05PelhYbWw2dDdjVGphaTY0T1dtZExIVTQzVHJrMTVrbzVYd3daVGRkQ09wWXU3UG1kWFQyUFo5c0g3NS1SOXpVLWpDN0hXUV8wZGRLcjl4dzhfY2ZfSy12SllERmx0RXI1Q3J3cHBNTzNCclI0aHNkbEJwNXRISGFtZ1BnbFl6eWJuSzZqbkhvRERieDRQaDA?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "The Bank of Nova Scotia (BNS): A Top Extreme Value Stock to Invest in Right Now - Yahoo Finance",
@@ -586,49 +596,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "National Bank Financial Forecasts TSE:BNS Q4 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1hzRjlwUmF3NzR1MlYxNl9QaGFxTEU5UE4yZjVnckI4a2wwYVJGV2hnZGppc2g1VHo3UWZSS1hDeEZueXc4SWpFdHI2dmJyMWVFVnQ0YXNxWEdlRkFRMGU3a2FDeDFoOVhURXpkcUd0b2lwc0J5NUQ5YXllcEZlcXlnRjUzU250aUNrXzJxM1luaHV6cEVNZ2ktd0tXUjQ2NzZULU5rSlR0Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Scotiabank (BNS) Receives Price Target Boost from CIBC | BNS Sto - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2dVQm1jN0FXalhad2NnZi1XZld2SHVMQWtieEVYTjZaajRIYWRuYXlQbzZUZDFILUZObTZ3NXZVU3F3aWFobVlZUmphbm5SZUwyaTVtY3c2eEMtbEc1WnJQLW12ZUVqMTNSbk1qU0hUYlR3bUhvbjU2RlJsV0pkZmxUbUF1MW9xTlJpd2hFNzRoQ3BpNFVWOFpRTjRPUE80eUU2WFAwZElrZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Bank of Nova Scotia (TSE:BNS) shareholders have endured a 5.6% loss from investing in the stock three years ago - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaemZkUDZKQlRORkpXZDlYQUJVT252RzJzdkJkQ3lHbW5Dd0k0YUVrZ2tTVFYwTTMydUViMFZkNGxaSEVWX3dfZzVNMVV2VFV1amZLUkxZUVNhSm9UMnJJNjk5WU85cENma1RUZnE1U192ZTZQQ1AtbVNR?oc=5",
+        "title": "Scotiabank Q2 earnings disappoint as credit loss provision rises, investments continue (BNS:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0d1bURxTUVFMXZ6VE5LeUJMejhnd1B0LTdoOFBJenppWDJIQ3hPU3ZiZGp1bENiLXVpMEVBMUUwRjNuckRGSFhWZU9MLTdGV09qb2xoMDU1NzFUUHlGaEtMU2ZTUVVhd3QwM3hDMHlXMmRLZ1RGczJ0U0gtQ1NxSGFYLVRLNE96RHRmYmVSZzhHUzMzb1kzazk1bnVJZmszbkNsRGx5M09QTjVDX1JoRmZyZVhtUlRIanhPWGVRbks?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Equities Analysts Offer Predictions for TSE:BNS Q3 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUlxS05JN1JfWHhRQ0ZwOGNoajdkUjJMLWg5MDNFeHdCZlZlWUgyWC1uVEtKM3ZwMnRqX3dzSmZrblVucTZlNFRCQ0tjYXZ5emp1ZDh5TWVMWnd6UFNMclVaY1Zoam1Ndi1FbXkyZU5oUDVnQmZRTDY2NVFDUjNuak03eVVCTndFNFlNX1E0YU9ldjFIZ1dtZGxhd0ZNUHM0d0x2NlN2Yzh6U2dYdkpGeQ?oc=5",
+        "title": "The Bank of Nova Scotia (TSE:BNS) Receives C$77.00 Consensus Target Price from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTlFfMndPeGx5SkZFV1MtQzlvZnZmSFBYVXExM0xSaThOcmhWMU1Ua1RnZVExWmFzeXpIS3JVNDF0WDJtdGVlaFhuUlU0ODJ6elpfRG9INXlUd21GQ0FCTzk0Z012YkhXUEIzTVlrZjNEblhkMXp6ek5wcnRUVjhDendreEpxVll1SURHMkw1YklwYW5zczZnZGFvMVVrTVJCeUk0c1ZqTXRTQm90bVppLXZSbTgzQVVFV0t5QTB0anBTekN3emNUcDhvdjZUXzky?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Scotiabank (BNS) Increases Quarterly Dividend | BNS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDNHUkFyQUFZVjVJeWtfbHN3cUFyUHcza2NnLWZTNkE4Nk1JcXVlSERmUnQwclQ0bHV5MVFNLVIzLUJFLVNRTnFVUldvTmV5ZDNIMDBEa0htNnBYb1B4eFh5NmRRMnktZUtmN1kwblVSTWdlMWtfb3BVaEs3QldiR0o5bVNBYWVXSDQyNWNLcWdnU1NYQnFmMmZINmp0QQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "National Bankshares Forecasts Strong Price Appreciation for Bank of Nova Scotia (TSE:BNS) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzNOOTJQR3pEeXRGSTVZVHZIZG13cTA2QVlMeV9MYlZUTTNpVS1VeDBMTFc4VjZoNk5YODBQcFY1cEhLcHkxcHNvSElyWWFPa0d3cHpGNDZta2tZNkJzN3Z4ME0ya2x6R1BwSzdKR19Ic000STVZZmI1ZHR6UmQtT0pxWWpoeHVvREhMaFpPTjZzNjZ2QUFKUlVRdHl3d3dMcUVKUXFEajBQS0F6QXc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Bank of Nova Scotia (BNS) Misses Q2 Earnings and Revenue Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NeEpoMDUyUGRXWnRhM0MzUGZTa29ObmdybThYV295YUM5NnM3aXoxanJMNGhEdTktZFkwTUY5Z21IT2NtV29EZkEtY2lLa3NZRzBGYjU1dlh6NV9SWDNwakVlRFZaa0pIWnozSl9SbUp4THVUZ191ZjFFMzhYUQ?oc=5",
+        "title": "Scotiabank analysts rank Canada's big banks as earnings season kicks off - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEk5WWh5UnhJdUtTenY1UU1ETUxtdG9rbkUwaEotWFQzRGdBakhtejJPMFZkeExHbDM3Q1Q1UUltak5Pb0VNSGV3NmJBOUdTQU5rNnRIMTNEajhnVFlkbHdPWkQzSHgybHgxa0pObjJPWktFQXJWbWhjV3otZHd0d1lpQ3dUQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD Securities Increases Bank of Nova Scotia (TSE:BNS) Price Target to C$79.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUxpQWZQY3p4Uk1FVm01dktSMHBSWFBEU1YzNmthUUI5WlZGQUd3TjVMVVBRRlV0VEVOVUFja1ZFMHliVkFSaGxXMFc0S0I1cGRBYXdxbW5xTUk0aVpBTEdsNmdkSW8tdWtoakxnR0VMaHJwSnhZR2tpc0daZURMNnhvM1BVZEJvWHM2TmpIWm9CWTFBSTNvSmhzU3l2MXhhdXFPYURvTUhxWDZNNGc?oc=5",
+        "title": "Bank of Nova Scotia (TSE:BNS) Price Target Raised to C$77.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkxQSkpYb2ctZXg2d0FvLVBpOGlIdHIzNnRMdEFxLXlhNWhLTWZNc0dabzlRdW9nZHlxYWJVMk1teGNLU1BUa0dabjJwN3JtTklkR0ZKVkFKbHd4ci1FSW1lNWRNaDRQdkphNHdQdk1fY0U4RjVUSUEyLWdvc1Rwamp1RTBqYnRRcmVTNld3WUtEX1hTVlF3R3pUQjZ6Y3lCemdSem1XYmpWTG82MFRTMVh2ckNMYWJNaDJFUG8yVWJyVERrM1E?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "1 Dividend Stock Down 10.2% to Buy Now for Lifetime Income - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5VGJrbzlIN0ZzSHNXUEVfOWlNV2cxZEFiTzlmUDNUTmFVOWpHd3JyU0xEdDFVMDhmNm0wUUpWY3FSenczQ3JvNHJMSTZ4RU9TUDd0d1huRFBxcVgyU1kxdUtCaDNMNGhIU0FMSmFQMkt2ZF9DaDBDV09kbnViQQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Implied Volatility Surging for Bank of Nova Scotia (BNS) Stock Options - Yahoo Finance",
@@ -636,13 +621,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Bank of Nova Scotia (TSE:BNS) Stock Price Crosses Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdjBLVzhJeXYwOFBpMl9ZMW84ZkdkSFpiQm5ZQ2lkbkMwUDZxU256OU5vU1dlTVBEaG1uMzhDYjlLdl9ma1lLaW1ibFc2TFJDcjZGbm01Z1N2ellkMkswSWxIZmpET01zR0E0N3ExUUU3RGpmQzRFRTFleTVtQ1AzNmkzUXo5Q0RGRDlaYjZBclN4dmF2bEx2UXVaX25NWUQ3Um42NnJMX2M1Zmp5REhrT2RVM1o0Y2NMMkR0cG16a0U2Z2dwN2lSNFY5TndrbUgtaFhVc3NWOF9XR2ZCblVBczlXeHZkM0k?oc=5",
-        "label": "POSITIVE"
+        "title": "The Bank of Nova Scotia (TSE:BNS) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFM5M2c0RmptOFZmTGI0UFBKc3A2V2NlUXFqYUEyU05OcEJwVF9mQnVOOXc5dnFRMmlaLWhmM3E3Y0oxYTk4eGxDbVZyQTZiaUJOSkJtaEZZZE9OTE56cGpqMmNfS2lIRmtlaWpBZnRXUjNvU1l5cjdKU2N6MEtNVi13NGd2VzdaUGs1MWd5cGNMSkJfVklpdVcwMXNfMGlpRV9EV0xtTThjaUpiMWhpMWZSWFJWZ0ROYmhpUXo0OVV5c0JFbVFDYmE1aFQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Here’s How Many Shares of Scotiabank Stock You Should Own for $2,000 in Annual Dividends - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVhNd0lCSTlfLWpsLVNlNm1XTDBTZ3gwRjFtaVJCODVPLTNMQkNmbHVhSnNlX3VCQmEtTHJhcDJoZ2gwZGk4UlJQWEF2dDd3dE53VWVEbXg2YkVWTl8tOWZLZVctUXlzWWtJNEhqRi0xMUo5b3ZuLUxGV2g4Z1dKX25LVWRuOUw1?oc=5",
+        "title": "Bank of Nova Scotia (TSE:BNS) shareholders have endured a 5.6% loss from investing in the stock three years ago - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaemZkUDZKQlRORkpXZDlYQUJVT252RzJzdkJkQ3lHbW5Dd0k0YUVrZ2tTVFYwTTMydUViMFZkNGxaSEVWX3dfZzVNMVV2VFV1amZLUkxZUVNhSm9UMnJJNjk5WU85cENma1RUZnE1U192ZTZQQ1AtbVNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Royal Bank of Canada Issues Pessimistic Forecast for Bank of Nova Scotia (TSE:BNS) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUdSTUNkUDdidkxrVlVwQ2RrR09HUGF2MDNSRFNuZ255dl9ja09yRmxXZWtfMFAtdFdHVTZHMXpkbmtRVlBVMmxFQWk0cS1OQVdteEFEZGNwUHFhamJpcG1feTVITWtZUGlGeF9xM0JTZThOQWZwSUpzQlZJVEZXY240RlpaQnpoSTFvZm5oYWpjRWtDb043THZXNkluTndNc1k5a3ZfRi1Lekhsa0djekppNXFLQ3VYSmJGek90eTZJTkktcmV1eFln?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Bank of Nova Scotia (BNS) Misses Q2 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NeEpoMDUyUGRXWnRhM0MzUGZTa29ObmdybThYV295YUM5NnM3aXoxanJMNGhEdTktZFkwTUY5Z21IT2NtV29EZkEtY2lLa3NZRzBGYjU1dlh6NV9SWDNwakVlRFZaa0pIWnozSl9SbUp4THVUZ191ZjFFMzhYUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +646,16 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Scotiabank (BNS) Reports Increased Q2 Revenue Amid Strategic Investments | BNS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb19XdVBZUXMwb3dCM3ZoNEVyWHV2NEpWSmxRdGplQk1SUkpPWE00SHM2dHRtUVNVb2FzcHpnbXJxOXFGY0tYbHdjeWFuTHdiQWZacDZxWHM0b3VGaDZ6Zm1tLUFSeHZYUGdzaVhOVlgzVXNCbnFXbTRZUXk5YWt5RlM0aGNuMEFadmhsOEtiUl9DVTZmVnoySzJSdnBPTExPazNQSEh3VkhqbVVOWUdiaHBJVkhNNDhSckJJbDVmVWdCZw?oc=5",
-        "label": "POSITIVE"
+        "title": "This Canadian Financial Stock Down 11% Looks Ready for a Significant Rebound - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3BsQXVlbGVpQVJiZ2ZlUnJkNER5YkhfemZyUkRkc3FmcWV0WUROTUxYb2w3MDlGd0tDY29QVlprZnZyb2JEN085Q0Y4bXBDbW95dlloaFAxREYtQVNyNDBfVXhsekljc3o0cGd5MFdmbjRTUUxORk5Ec3htSGNLZ0hYSW5PakZG?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Scotiabank (BNS) Increases Quarterly Dividend | BNS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDNHUkFyQUFZVjVJeWtfbHN3cUFyUHcza2NnLWZTNkE4Nk1JcXVlSERmUnQwclQ0bHV5MVFNLVIzLUJFLVNRTnFVUldvTmV5ZDNIMDBEa0htNnBYb1B4eFh5NmRRMnktZUtmN1kwblVSTWdlMWtfb3BVaEs3QldiR0o5bVNBYWVXSDQyNWNLcWdnU1NYQnFmMmZINmp0QQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

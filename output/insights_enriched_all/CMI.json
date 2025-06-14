@@ -2,16 +2,16 @@
   "ticker": "CMI",
   "name": "Cummins",
   "sector": "Industrials",
-  "market_cap": 44919152640.0,
+  "market_cap": 44160122880.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.070969,
-    "PB": 4.1119795,
-    "EV_Revenue": 1.521,
+    "PE": 15.791627,
+    "PB": 4.0424967,
+    "EV_Revenue": 1.527,
     "ROE": 0.26187,
     "ProfitMargin": 0.08198,
     "GrossMargin": 0.25581,
-    "DividendYield": 2.25,
+    "DividendYield": 2.24,
     "DebtEquity": 67.789,
     "CurrentRatio": 1.343,
     "QuickRatio": 0.677,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.01254317605115157,
     "ROA": 0.07728,
     "PEG": null,
-    "EV_EBITDA": 10.229,
+    "EV_EBITDA": 10.274,
     "BuybackYield": null,
-    "PriceToFCF": -105.8545203016507
+    "PriceToFCF": -103.59954400518657
   },
   "technical_indicators": {
-    "RSI_14": 57.82083280761128,
-    "Momentum_10": 1.9814346075267029,
-    "MACD": 4.4427525487230355,
-    "BB_Percent": 0.5624609446470902,
+    "RSI_14": 50.878170116692374,
+    "Momentum_10": -0.2332959979996691,
+    "MACD": 3.2606269339635787,
+    "BB_Percent": 0.2915177219135783,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9324504187028776,
+    "ValueScore": 0.8920608368308407,
     "QualityScore": 0.3278525413313259,
-    "SignalScore": 0.5298137916612786
+    "SignalScore": 0.5792140829917347
   },
-  "volatility": 0.0224444457832885,
+  "volatility": 0.0223647769914102,
   "beta": 1.028,
-  "return_6m": -0.1319947001662087,
+  "return_6m": -0.1183009963029129,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 19,
-    "target_mean_price": 350.35736
+    "target_mean_price": 353.2574
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 383.42
-      },
-      {
-        "date": "2024-12-10",
-        "price": 377.72
-      },
-      {
-        "date": "2024-12-11",
-        "price": 370.15
-      },
-      {
-        "date": "2024-12-12",
-        "price": 370.57
-      },
-      {
-        "date": "2024-12-13",
-        "price": 367.51
-      },
       {
         "date": "2024-12-16",
         "price": 366.97
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 326.57
+      },
+      {
+        "date": "2025-06-09",
+        "price": 325.68
+      },
+      {
+        "date": "2025-06-10",
+        "price": 326.99
+      },
+      {
+        "date": "2025-06-11",
+        "price": 323.58
+      },
+      {
+        "date": "2025-06-12",
+        "price": 324.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 319.53
       }
     ],
     "current_price_data": {
-      "price": 326.57,
-      "change": 3.49,
-      "percent_change": 1.08
+      "price": 319.53,
+      "change": -5.21,
+      "percent_change": -1.6
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Cummins Inc. (NYSE:CMI) a récemment attiré l'attention des investisseurs, avec des mouvements significatifs sur le marché. D'un côté, les achats importants de plusieurs fonds et institutions tels que Curat Global LLC, Apella Capital LLC et GAMMA Investing LLC ont renforcé la confiance dans le titre. Cependant, des ventes notables de la part de certains investisseurs comme Fulton Bank N.A. et Lmcg Investments LLC pourraient indiquer une certaine prudence. De plus, l'analyste de Goldman Sachs a récemment rehaussé sa recommandation sur l'action de Cummins à l'achat, ce qui pourrait influencer positivement le sentiment de marché à court terme.",
-    "sentiment_score": 0.25,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "summary": "Suite à une série d'acquisitions et de cessions de parts chez Cummins Inc. (NYSE:CMI), plusieurs sociétés de gestion ont ajusté leurs positions en fonction de leurs perspectives. Bien que certains investisseurs aient augmenté leurs participations, d'autres ont réduit leurs expositions. Ces mouvements pourraient indiquer des opinions divergentes sur la performance future de l'entreprise, ce qui souligne une certaine incertitude autour de Cummins. Cette activité récente sur le marché pourrait influencer le sentiment des investisseurs et nécessite une analyse approfondie pour évaluer les perspectives d'investissement.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Curat Global LLC Invests $807,000 in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2NBYWxYN05NMFN0NVZiU2s5a3B4MWc1bFJ6bUl1STBYNXl6Q2Vmb3NLc1VmTnZNNEY0QmstdTJjdDNVWTF3LXllZ3dYc25ua2toNFZYMG5rZ0E3Y0c3dmJKaFFaWWFpMHpYTXdsTVk1b1BucF9ieGFrZFV1Z1BNcXM4UlhxUl85cnNpdHdOOFNPQ20za1lTS3BLUUxRbjRLdTJHcjNGMWRRV1NCWFZpVW1VRzctdw?oc=5",
+        "title": "Cummins Inc. (NYSE:CMI) Shares Acquired by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc3B0UllfclYxelUzdWdqRFl0bWVsMzlUdkNkcks5VGttUFV1NHZ6emY5MFpRaF95bExoOGNHWXJ3VjhsUlhjU2RDUnJyd3VzN1YzLS1KdXh5YnNLYzFVUFFfWmdGRXhoRFV0XzNDVDUxUjdYRl9nbFhRWWVJV09zMmU2RENNdFBRbFpJOEQzSWFKTU1XSlpJZFlBMWtBR3FkMWlfbmhzd2RidnJHQjNXQW5zTW8tam5FRkd3NGxOazR3M0RZOFNRQ3BfVUc0QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Cummins (CMI) Up 8.8% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiZk9Kc2RqLW9tWWJGeXZUSmUxR05OVTZFcnVBZEpYc0d2RUI1T1g2OGgzeVh1VmJZZldnVmtwNUc4TzdUMzRUV0Z1eXBjQ1J5UEVRb25JZ04yeWFtLWpSZ0ROQkpFOXZISWlQX2d3Y20wYWxNTUE?oc=5",
+        "title": "Cummins: Data Center Demand Will Help It, But I'm Not Looking To Invest Now (NYSE:CMI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1QzZzZwSlNwbW50OXRQQURZSXZxQVdZZ3ozOFlJVi1SelE0MmdlZ1RrNmdRTkQzc3lSd0lSdzVpaGlpSm5jR2RjMGZOS2IxVVctZDhHdmtNTXRoQzJDTVpHQnJ4VHJ1ZUlBbUNOZXhSbUQ5dnhwaHBJZFFGVlFUZ3FBZjE1T0xzdnEwVkx0dnYyNEpac3lMaW5lSDFfRHp5X194UXZja1pDZko1enU2WENqNEdNeW1Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Cummins Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2p2dF9PcndrZ3M5Vk5IdkllMEhQdW9DLXVsN2RpNmd3MmJDTkxBNXg2ZjBCR3kzWkRZZVlLTHZ3cWtjLVJmTngzRlZ0ZnpEeS1LbE9LWEtlLXJidC1MaUNNLXRNVy15NzlxakQtRFFXRWZqckhuQ2w5SXFldDEtZk5rVVF6dFdzMGh6M2p2V2x0MThLWkdqZGxvUDBiclVpcGd1WEtuSHF1eGVqV1VsSmY4RnhoTW9JZkJjRHJ5OGg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Cummins Stock Underperforming the Nasdaq? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHdxdVJsTm9HQmtlV29aZTFCV205WkpYTi1xa1pMdlJmWmlUcUhqRG90aGVDcmdDVldyZGZNX3dURjBYSDQtdGJ1SkpiNy1tVi1XOGJUakV1STJHeEpPRUtMdlFNcjFPdjM2OUlXS1BYTm4tUUlENFJYUnU0TkRRZWpCOGpoUUpzSkNPWDZHeW93SmRwRjRleEx0ZFJSb1RFU2p5c3hreFNTUDhLV0xiV2tnOEdlMWF3WW5mYjVJU2t2VWxSYmhvajJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cummins Inc. (NYSE:CMI) Shares Sold by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1ZVLW1Zcm14SGRvSGVmTkpYWTNRZ0M3TDIxMVJFbnFMMHRLS0tOb1NhTlVRb2l2VVJIMy1qX3ptc1dYQko5ekpWbzVGZFBvWkI4dFp0eTdyNXo0RDJwbXJtcUlHa3NOQWFNRHpfenctRm9oakl0NERfQXBKMGtEd2hQR1JUdjNkMWpqc25uazVmRE5NRnp5MEF0LWMxZ1FnekcyTklxanpRZWFmdk5Mby14RV9QRWJEYnlUYU92YmlRRmpvS2NEWm40Mi1TNUxa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanibel Captiva Trust Company Inc. Raises Stock Holdings in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3JZM21MU1hNS2UwcUIxa3lWTGs0ckpGM0cta3YzSkU5S29wMGFHZ2YzZmNvcEtfVUtNcXFDQjBfZEFZOWR5eW5jQ09RdFZ6WTE5cURRVmJkQkNxWHEwMEJjOE1Ia19kU2NJRk1vdUFsaktyNFVHYmJkLThScDg0RV94OFJzOFBuRkRhOFF4dU8tMkMzcHI4elBpZU12VW8tV1lpZ0oxb25WbGNMWmNzcW9wOTM4dTNVcWUxX0tFbXZYTzhxMnAtR0RKSFBld04zVWFkZmVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cummins Inc. (NYSE:CMI) Shares Acquired by Donaldson Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOTAtMU45N2xiMmMxRTFoeG15RXNVbFFHd3MtMjczcXlHVDRmLXdJUXF2cTk0TV9uSk5FNVY5dGFQQzZBczNSd0xHMHVqUG5aLV9EVUFDU05OYWExeWNsQUxleEw2ZUcwQkZKYWl0ekRDT1BnRDBFNEhiMmV2OW1NZHowLXFJY1F5bldYZjVvOV9kclFtODR3b3NwWHVaNXVsLWdxU1RPYkJTalhWSnlxTnhuRWNfUzRPdlpwbkVLYmVLRFBxeHQxcHFKdmV3Si1LZlVOcFNCT1VnaWNhN0ltUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Smithbridge Asset Management Inc. DE Takes $1.36 Million Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ0x5ejItWGRRNnJsS2ZLRGdLZ0V1eTd3VVdmdnhqMlg4TDhBY01kajhFQW90OTU1di02REhsOU1MdmFKRkVRR1lseFdkRG1FY2xGVGVMaEpjZVhyYU8yMWppdDBRV0c5QWxzbGpMT3VRMnNlSUVhZjRyWGZFdFdpWGdwR1o0cFhFSk9jekVwS1hFekVSV2x2OU5vYWt1eXB0RzVJY1V1RVM2aGs1ekg5SmZjbjIzRlp6SzZHWUZfZ0ZlUVFETDRHYTNYdllTX2t1MjU5eF91YTM4N1Z3UXdZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Daymark Wealth Partners LLC Has $2.41 Million Holdings in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGRqbkFWRk5DWFpRX2ptSV9ub21qODc2emVNME5tN25nSGRYWHdpME91ZjU5WVNodTNzcFhXTUg1UF9ST0ZZVTJyZ3NyV1dpQ1JkaEh1c1lyU1FlWXFveVJyNUV1YUZtdThMcEVjNFlMUm5aQ19vODJoZTdZU3lSNExIVlFNUXNfTnVqR0FRV1BPVEo1WTk4V3VuSGYyWjFJX044U0R1d1V5Mkt1SXMwUU5FOGlENjBCU29VbTVtd01ncURHUzlpRTNObDRNb01ja3NvenFVNE81UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cummins Inc. (NYSE:CMI) Shares Sold by Capital Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTNpVVVkTUIzYXIyTUJ0Y0JuWmJBbFEtTzNaYUNDMUgxYW5jNTBIS1Z2RFZZUDJqMi1qdXFvUG5kVE8yQ2l6NUFmaUJ4YUQ5QlNkTFZVSVM3eUU4Zk5DOTM1OGp6ZS1LMm95THNzUFgtVWJLcmRpZmY5WGZXZGJXRHh1SVNpRUNQY3RKdE5hNVVHdWJIMk91dV9YMU5EVWRvVTBVanhNRE5XZFB6MVREOHJJUFhub09UWVU4LXN1eHZ5ZXZBWDNaaQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OLD National Bancorp IN Cuts Stock Holdings in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVd5OUY0RDB0dFRhRnp0Uzl4eUZJNzN0WXR5aE5xdHRtaDN1MjR3Zi1Ud2FjdzhYcnVlZE1sUnlyd0ZFbnlQUWdhTEYtdVQ1VXlLZFhJTlRURmgxUjREMWRfVHlVd2ptUmdKdHpkTm9tN0VUdGZKQnhPYWJ2dld1VHp1NDZVeUprU29SUU1nUWJ4dkd5U2JnT281aHRtSDBPQjAzOWREcHRibUNVRVAtS2lKeTA2VV9ZUS1kVnZjWWdfekFfM1Q2N3J5TVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cummins Inc. (NYSE:CMI) Shares Acquired by Transform Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzk2bFN1Zm1UcVZSa2tOUWJDSlFLaUUxOTlYdW9FSnBzOXBMZFhEY0k1TlRKSUJ1d2NGM1VZOUw0TVZLY185aFE4Xzh6eXNvbExtcUdjYm51WnJRcmxzSXJIam54MWNjT251eWxsZUhKUkFOX3FndFZwamkzRk5FVlJvb2VYTUkwSXlTR0ZleVZScE5lczhfTHFia01Cb3U2aTd6emM3cDVua1hHZDl6WUIyUnVSZ1BNUTJPM1Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accurate Wealth Management LLC Invests $302,000 in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREdma1dBMmdzZktheUNQZ2Vrb252YXVad2Q3ME1QTm9pWW9PVWVnZkppUmJkcFJIbHF5M1lyRTRRckRyNEtPZTlRTzBTUmltZnpPR1FFTXpwck9PbVdib3Y4dlRaa3RxNmNGZjJQb05NdmExZmtNeWtQdzVxbzF2LVA0RHZ1Nmxmb294ZzE4QWdaQWZRMzJDd3lGZTc1X1EzblViNTBxQ2xmRDRtTlR6cGhJVGJoNkoyZXk4eEFOcU1jUFZPRlFOVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trueblood Wealth Management LLC Acquires New Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXNGYU5mV0JUNEpkUjI2UDk2ZkNHWGhkeG5JLWlianJiT1B4YTJ6SFV1ellIcy1mczNZT0Y4NkQyQTI3bHFlOWlXSG1rT1N1czlUR0VuSjd4MUtLZENtS29zT3kyZDlOZnNjSERwWndvSWpma1FkT3hTMnVxZ2JEcGgwcTN1V29Zb2gxaG1ydm1NRHl3TG51QXFOamw5cm5GdlRmUnNqelpqd25UR1JkTkZmQmtHQUJibmZLaDFhMzdCQ3VSd05IM3d3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Park Avenue Securities LLC Boosts Stock Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejBkNVV0Y0JIZy1BWWFKMzZTNU4ycDFJTlEyT282aXo2YjRLd3djUzdEYUM0WlFJTnllZnZqemVqQ1JYN1RmeUg4eDdxc3l5U0hzckk3QjdQVkM2a2tMX1pNcm9kYlNlbXJnSWNLamFER3lHSFMzUDVQM0lVVktrTXZubUxFZ1BMc0JpZTg1SFljOE9hQUZqUEY2Q0VlZWV5Yzcxbk1uRmtmdjVHdlkxbmFTaE8xaHpJUllESnlXRGZydw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Do Options Traders Know Something About Cummins Stock We Don't? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTNBaEFSSEdFOXU0eVI0SW1BckxNdUM2a0ZpdVNVOVM0alUxaFpHak5LcWRISTZGaVB6T2taNmo3QmY1VE5iRVBhbzRaV3hDWVRQYjVqVXNGR194Z2N0OU1tNy1yUktKc3hwcUo5UDdmSU9EZmctVDVaNDlkVmYwX3YweXJidmlxTHIzU3VMTzE3Wm9vNlRJeg?oc=5",
+        "title": "2,857 Shares in Cummins Inc. (NYSE:CMI) Bought by USA Financial Formulas - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTdGX19DNVB5SE8zMkpOckxCdUZoS0ZDX1BLT21sMjRmRnBFYUY2ZEtUZkJMUTBUR0dqeEp5RnRtMmFReXFfNEVReENxZ3J3VGlzb2FucmM4eWt1Q2tEdHVQUS1hTGNjanVHLWZ1aklOLXhGVlk4WnNTSVRlNGJFQm1aeEpUZ2t4RXVvSjYxWkFjMEFmWHJtcldkS0RIWUJvbWItTDRFaFB1UXNvekhoMFBVOEhTejVzSHdRVkdR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Goldman Sachs Upgrades Cummins (CMI) Stock to Buy, Raises PT - MSN",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmk1WXFDVlFOUFcyU3V3Zm03UUtOSHE2VnFEcjRnNl9tQXlNcW5hdWZpQ2tOMmctcmFLdmRRRVlrb1NXT0RhNExEa1ZNaHV1RVVHQjU5bUc4VTdQQXBtdHJfQ296N2hwdUNzM3FET1JmOXctQXdkdDl4NmxaaXVUalZNYTBESGVqTUluV0Nva0hfRERYVzRWeXh3VkxGMjQwcFZGTnpVTi02OENmaGZ0Rg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "American National Bank & Trust Takes Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa0VsOFV5VDhWX0lBSjlBUWluS2hGbmdMbUtWUVJEeVhlV29oYWxRRXJBUUNPOUExQUdLTUU1Y3ZtaXlLWm9NbzNCX3JCWVNVZkxsSlU3NGU0WERvNFd6QXVUMGdFMjV6azUxOTZVVktmdTNfNk96S0JLSnJYQ2ZDTHo1YzZpS05DM1dWSmVROFNLNHdUYzNkWTN5QjRndUVWUDdsRFJGOWdZT2hVR1RBS2trZEpfVHh5YnNxbFlSVXoxQ1VaUVZ6ZmxDc3FwWFl6?oc=5",
+        "title": "Simplicity Wealth LLC Takes Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSk45cUdtM2ozTDMtWmtXMHRpbU0wdlFEVWVjd3JzdEVWbG44bERwN0pwazhBVEhNTVB6N3MxSnFPbURqYS1aUmFpRFFzZWZYZG9ENjJaYXQxMzFwVUU1cXppbDRRQkFjU0llN0VmRGJ2U1R1bUc0c0RLU3RsN2NhYmFyc1dZb0ZwSXhfN213NDVXN2g4TGFBb1pDYk9HeWRqYkxkVmZuSm1VU01qQTJtOFJBQzdLdmNSalMxNw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Cummins Inc. (CMI) the Best Stock To Buy According to Marjorie Taylor Greene? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQV9rNnF1eUlyaXRiNmxaNUtpMUwtY0UxWEdKdTl0WjlWempiLWJRRVJRWk5Edkdyb0dob05aLUE1UXUyb2dHVkcxSnVSeVI1ZXJJbkhLTXlLOFZiMk1KZDdhZlZXbHVvNTVhYkIwYVlpbXlvNFdQMEk2b3o?oc=5",
+        "title": "NBC Securities Inc. Acquires 1,139 Shares of Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC1GVV9YNjlIWFlkZUc1X2x0SkxELW9LQXY3SzQ1SHNqTjZ1WFRuTE1RX3VxRU5seGxlSGcxZ3FieTlGTmpSSEcxbjFpTVlocEZ1MVB2UDJ0YnhQU3hxNEp1djNFcG5Sd1R4dGg0TEVOb2t5QzF0WEtpOHNXSzVpb3pjdldjMlUxM1I0VzZ1WXVhcG5saDhBVUxiZDF0bVk4dVA1UGVXZnFVaW52NEh4c3NqbFJ4SEhIREdrcEszT0lxMjVTN3JF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fulton Bank N.A. Sells 1,138 Shares of Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlAxZ1k5UUJueDJNdF9QTmlWeFlQNGY4S2I4YUNrWnRNNW9JN1YxSms5MmtFM0lvSzVpRnZ2dk1wbHVrZzFZbHRhS0s5dnFvbHBFLUpTdXFteGJnNmV6VHVDNnJhNHUzLVJHZ0hDZ2FTRDdEejd5dm1lRUF1SGNicldHQ3o2ckh0UWg0RGNhX3hwLWxoSE8xS0lwY05pWFFtUmNLa09mdUhPZmhnYnFjb2VJWmxsZzF3OFlTS2kzR28?oc=5",
+        "title": "Intellectus Partners LLC Makes New $584,000 Investment in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWFkNU0wN3hpbktjZno5RXpiazhsSXVlNWg2V3RjNV9RSEo2T3hUNzVHU3hpSzRfUXFZN3BlajVWdktGaXFjMmFSeVl4LVNRNTQtYWZ3SDZDUXRxdjA5QWQ2aGJoUVhNNnpTSFJRNmpaSU9TdkZkM0F0ZWhhTVQzVENXcDVtQ3doYWdPRjNseUZWWmkzRFVNa0c1aGJuZE5SQ1BLMGJLa0drV3J0LVpnVVRnYzNFNk1EakJDbDRmb3dBOFBLMnNLM2R3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Apella Capital LLC Buys New Stake in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVVDdmJTZnhVc2duaURpcGpSblJnZWo4OW9jOUhOS3BDMFFBSzJVQkhCSXVmZXIzVXoxMXQ5YTBYYmUwXzJKajNzU25RYVVPNXg3TlBRbENRYWVpNTIycDQwMkJLSC1iUGYxeDc4dEttMDhHM0ZESzNWdy01V25qSElLSzFzczRaRy1maXVNMmtnM0xwNi1VR09fT1N3STNlWlliNWlSMUZMNFBSaV9ndjZsbV9sSFNB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cummins Inc. (NYSE:CMI) Shares Sold by Lmcg Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3cwWGprM0h3OGtGVDBGQWtzZjlmangzRGNoUU9RMzNMYm8wLVFEUnloR3BOWmhyTnNaMUg0SXl1ZW14NDc1ejA2Sjkwa1puaF80SEx3RFRiTmhFeWdSeHh5RmpmbnZzcndQclE3UmotbDMtT2ZNODVpUjlRT0REYnZlcVA4VXEzRW41YnpxZ2R0OTEwLW9IOE9QY2FWOXFTN3EwLXBMSHl5QXdDQmx1bExtTVFKYXM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Czech National Bank Grows Stake in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0R2UV9ERERWcTZHckZRZEVRTGZpc0RzT1J2bC1URHhfc0k5eUlqanVLQ1BEb3gtZjRTQkdoQ0pGWWtDNXJGSmFnRzJPeDcyaFRKSEV0OF9BUGw0YXBydjdZTUs5dFJGT0RTc0o1MW5FZ3FlSVQ3Qm5GVjBzYUN3QnoyVUtjVXJzU1lnWEZqNmlsdFA2T09Fb2M4N3BRRlpWSjhaLWxuRVU2SEpTTlBvcjdiLXBYQWNzZG5BVg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sweeney & Michel LLC Purchases Shares of 1,030 Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTF6cFVHc2kyZmFHZk9sX0dPY3NqM1B3QnVOWDMzWnFQQWJkRDJxU3BWS3ZCb1o0RkN5SG1aVlF6Tk5tNjlRMjdBelUyU0laeUdiWmxWSWl4ZHVjLWJ4SURiTzhCMWtzczRCQ3FQY0ZHeVJIRzY0aGtwSlU5cU5wTDhnbGd6SlhaYm41VUk5TmhZVWE1OUpfVXVJT19OdkZYN0VWcWNGU0VXLWRINWhsUmJNMmpMZWVLeVRsWnJGaXhTUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Grows Stock Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXJWRjJVVXRjUExDQ0dSdEs2eXZNUldkeml1bkVVTWV4SVVlRkQyU00yTXRMUTV5V3pPQU5MTE5vTjYxWEQ3TWhWQ1c1Tkc1OHZZdlc2a1psTU43QXcwZVVNczRGWnFGdkR3WnVFV1g2WFEzbzRMZE1SS1FIR2RXRFVqemtLUkpGRE9vVHlGaGxMalFrNXJrdlZaaC0yaW5yN0VDa2VPUk1ZaVdWQ0Z2M3lpZy1oOFYwcXp2Mw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Purchases 1,188,276 Shares of Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkpNS0twQ1FyRDA4WDhKOXBLT3ZMUmcwazRJNFZKN0x0LThVOTJ5ZXJ3aktad1ZZMFZvVm45YWpOd2ZZbjRuWEJnTndCZjVZdjl3NVVULU1QVV9QVWpHVkVjRmJOaGhwY3ROZEVyRFFfRVBnVE9Ja1pxeHEweDg1b0lIcDJTaS1pX2owZE4xZk1iN3RaR19WTzB6Z2VCNU9JblExcmN6ODFXNGNueGs1NUJnYzh2UVozNzQtYWFvcUZCY29TSDc4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AEGON ASSET MANAGEMENT UK Plc Raises Holdings in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbU9PeTh4bVJKcHVYeW1HdVFWc20xZW1tR0F1bFJYS1JURVNmM2RZa2VraXFNeFpwQWM1UmZwR05GTnZxQWVIalg0LXhyRDBJTW9XcnRiVzFRSVQ1NjNjNWdVQVlrM296ck15MVBWa01yTzFrNG16Q0w5Ymd3Z3dpZEYycXQ5Vkl5dDFsZzZaNU8tQ1F4VnBfckZwbXFWREYyMmN0eTlRVGF4azFkZXp1Y1pJQWt1dWtRbmFvcnNhdGpJTnI4TW9BWEZn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Richard P Slaughter Associates Inc Sells 4,574 Shares of Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTkQ2SEN0amIwSXY5MlBJUXlOMkhlWG5RTENBeDMzVXNEaElUVkhGZVN6djhLT2xrQkRUMDhNNVFXa0xMUENvSklwaF95WkFZNFRvdjZ1eFY1UnVRU09ad1RUaXc0a3J4clF6SmlRTGZHbUFQaHU2MDNycm1kUFRkYUMwLUNiV2NtR2lrWkNUb3RpUTMwYjVsM2ZQNFozWk4yQVRxR3pTSVJpM25kX2JqOEFDZENOQmRKeXZ4ZDY0bnZxdUZJQ21vUXd3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portside Wealth Group LLC Purchases New Stake in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1hiYVdXN2hFcmNKUUFib09xVWZpY3VrX2Z4aG9RRlF6S3l6WlhVdnh3aFdZeTREQTRGd1BTNzJNVzNYbzNMc2FNenR5TVdPZTdNTmFqdTdmMS1zLUxld3ZoSHhVVVpNbldwVFk4WDRRcDNYMVJzNlBaNVc4cDhmOEd0ajk5Nk1QaUQxU19TTEtJYktXWlNJVFlySE1tQ0ozMlZfbEpUUGtObmNMS1oyVF9FM2JSTU1wb2ZEZkdheXo0WmN1Q0JuZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Merit Financial Group LLC Grows Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOREtuelZEZ1ZTZnRtU3dCWlNsTVR5R0hQZzVrdlltRlZGcTdzVGNVV3BOLU1tSWEybE02ejNQbGZ4LWw5aUk4QUZNX0VjRkpqV2gwVzRXcDBYQkV2RElKekFFYU0xNU1jT2RlR2dLNUxHaG5CRmlVaU52NnpQaXVoTlk4cGk5X3hqVnBDZTBVaXVwYlMzSjJWNnpBYXhLdkZ3OUxzN3QzU21EV2Z1UWViUVU4eFdQUndtUE0tN0N1cWRsZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Fifth Third Wealth Advisors LLC Has $1.57 Million Holdings in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWE15LWtsRnFpcTF0RFB2S0N6ZVBxWjRadTVwcHRNaWpWdGpKa2Y5eENtaGVsX0FrNnBPLVQ2Vld3T1BWUmxwRnZfZlI1SzBRN2xTanhHOC0wR2QwZ0lIV0c4dkxmb0FHOGEyRHVuNURMY2FOSkpKR2dVb08xRkJHN3ljZDJ2WkFUNXdsOW13aC1aaTVOcFJXX0pFYTJWMm9IY2EzUnFaSnFMOE5mT0w2Z0tTWkRpa2ZGYUN3c0lTaUhMZnhKSnoyeDBHYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ST Germain D J Co. Inc. Sells 981 Shares of Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVp0R0FQS1pJYW5XdTBrZDR0Z2MxYzNhdWpLbHBEaEhVSTMzYXNQa3IwQmltRzVmQ1JsaklkYjl4NUpvUFY1X0hJUGNUdE5xZXRlaFRFUWJQZUZyTkhwdVRwb1FjNVVvRTJOcTkycVU1aHgzZ3NsNmY5ZWVBNDdvdTk2NmhfUVlsb19WVTNQNlNBVjdfdGJ2Qm91YUF6OGJVTGh0SFJ5SE9lRmtBMlowbFlpMHJKbHd2S2JIaVJ4SQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NorthRock Partners LLC Takes $273,000 Position in Cummins Inc. (NYSE:CMI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTl3eDVKaFhyd1Ezd2R6QUNPNVh2TF9OdUZDTWo1VDZ2OG5RZHI4SnhRajRXM2V3MjhtUEFjd2E4cTNxWnlCZ2l6SllWajN6OEktcG1Yb1RzX3ZOc1lSajE3Sm5QQWxodVkwWldzQm5yU1BuMlJST2Y3NDNDM0tkWG84Y3V3VlNMdkhLZ3NzV0dEdHFjRnc5NHVJVFRhVmVKODdCenJCcjVzS3E4WGhPend6OVNVLThKRTB4RHh3?oc=5",
+        "title": "Sivia Capital Partners LLC Invests $328,000 in Cummins Inc. (NYSE:CMI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjloS0VLVFBlUlY5Y05LaEI0UjRncU9HQkJxYy1fR0pKMVgwTng0TnZxaVQ5NzcxbDZmQzJrS0VGenNiQ1dDbktUclRVWW5ydlFiR3BGaHVPZzlBMG9aOG94Unhxc183WjNlZ2d6b1dHdFdBNVlNVUl2bEZ0LXlGY3IySW5wTW4wUFY0eGNqNUxmNUN0STQybUlMSDljVDVhSW9KVllOQkdZWFAycGFSUm5TbmNiNHhSb3BQLTFPT3BIUzQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

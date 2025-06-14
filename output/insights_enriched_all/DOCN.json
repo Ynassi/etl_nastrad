@@ -2,13 +2,13 @@
   "ticker": "DOCN",
   "name": "DigitalOcean Holdings, Inc.",
   "sector": "Technology",
-  "market_cap": 2611751168.0,
+  "market_cap": 2440608256.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 25.389381,
-    "PB": -12.419914,
-    "EV_Revenue": 4.848,
-    "ROE": 0.1095849999999999,
+    "PE": 23.725664,
+    "PB": -11.606061,
+    "EV_Revenue": 4.896,
+    "ROE": 0.110174998,
     "ProfitMargin": 0.13459,
     "GrossMargin": 0.60283,
     "DividendYield": null,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.06207645292708732,
     "ROA": 0.04894,
     "PEG": null,
-    "EV_EBITDA": 16.215,
+    "EV_EBITDA": 16.377,
     "BuybackYield": null,
-    "PriceToFCF": 52.1891392160323
+    "PriceToFCF": 48.6892592476903
   },
   "technical_indicators": {
-    "RSI_14": 46.29502766919104,
-    "Momentum_10": -1.51046563469041,
-    "MACD": -0.542197009389092,
-    "BB_Percent": 0.3388165856710826,
+    "RSI_14": 39.16229065377883,
+    "Momentum_10": -5.265017001014332,
+    "MACD": -0.5732218873809636,
+    "BB_Percent": -0.016267750509392,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9443583116214804,
-    "QualityScore": 0.2801729350640284,
-    "SignalScore": 0.5755260109417342
+    "ValueScore": 0.9159608064702504,
+    "QualityScore": 0.2867852186280027,
+    "SignalScore": 0.6514119507648375
   },
-  "volatility": 0.0411329869833258,
+  "volatility": 0.041224273595793,
   "beta": 1.784,
-  "return_6m": -0.2857853661482781,
+  "return_6m": -0.2968791315256157,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 39.03
-      },
-      {
-        "date": "2024-12-10",
-        "price": 38.29
-      },
-      {
-        "date": "2024-12-11",
-        "price": 38.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 39.37
-      },
-      {
-        "date": "2024-12-13",
-        "price": 38.13
-      },
       {
         "date": "2024-12-16",
         "price": 37.77
@@ -537,53 +517,83 @@
       {
         "date": "2025-06-06",
         "price": 28.63
+      },
+      {
+        "date": "2025-06-09",
+        "price": 28.96
+      },
+      {
+        "date": "2025-06-10",
+        "price": 29.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 28.88
+      },
+      {
+        "date": "2025-06-12",
+        "price": 28.2
+      },
+      {
+        "date": "2025-06-13",
+        "price": 26.78
       }
     ],
     "current_price_data": {
-      "price": 28.63,
-      "change": 0.87,
-      "percent_change": 3.13
+      "price": 26.78,
+      "change": -1.42,
+      "percent_change": -5.04
     }
   },
   "news_sentiment": {
-    "summary": "La société DigitalOcean Holdings, Inc. (NYSE: DOCN) a récemment publié des résultats trimestriels solides, avec un bond de 170% de ses bénéfices, laissant entrevoir une croissance significative dans le domaine de l'IA et la sortie de plus de 50 nouvelles fonctionnalités. Malgré ces performances, le cours de l'action a connu des fluctuations, notamment avec des baisses et des hausses, suscitant des mouvements importants sur le marché. Les investisseurs semblent divisés quant à l'orientation future de l'action, avec des analyses contrastées entre les scénarios de baisse et de rebondissement.",
-    "sentiment_score": 0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.35,
+    "summary": "Après avoir analysé les récentes actualités concernant DigitalOcean Holdings Inc. (NYSE:DOCN), plusieurs tendances clés se dégagent. Tout d'abord, l'entreprise a récemment collaboré avec AMD pour faire avancer l'IA en utilisant des GPU basés sur le cloud, ce qui souligne son engagement envers l'innovation technologique. En outre, DigitalOcean a surpassé les attentes du marché au premier trimestre avec une augmentation de 170% de ses bénéfices, mettant en lumière sa croissance solide et ses nouvelles fonctionnalités. Cependant, malgré ces succès, la vente de millions d'actions par un actionnaire majeur a suscité des inquiétudes et a probablement contribué à la baisse récente du cours de l'action. Les investisseurs pourraient donc être attentifs à l'évolution de la dynamique du marché et à la capacité de l'entreprise à maintenir sa trajectoire de croissance.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.35,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "1 Super Stock Down 76% You'll Regret Not Buying on the Dip in 2025 - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3FCeUdpV2dZZFBWSnFCVFliWWV6amJUTThFbGRTSTJwUXNYMkpnOVREbEgycHFRQmpUdmkxaks5TzBnc3Z4MS1qRkFWRFhsMFNOSmFpOGg5dTBCbVdncmk0MWtiRTNINWp6MEIzOWhBWHFRZ2pGQTJkRDFTdnhpSUtsVlpkZXkxbnY3c3dvN29ybnd2Z1E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MRA Advisory Group Invests $369,000 in DigitalOcean Holdings, Inc. (NYSE:DOCN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa05mVzczN1JiNE1oMFV5RlgwczlmUkR3dEVLakowSE51TFhnOVdHSkt4cDM5dnJybkRkcDF5VkxKS0lzSU56ajVqVklOWVphTTZpZUprZTh1UFNqR01JM3ZDb2VDQzNkZGNLd01wMnd3VEQtQjg2QUpCSmlLWHUwQVhGaTJ2emVScldHYzNVSmVuWE9FVXo2dWZnV3h6MVYtcGtJM3I3dkJ6S0UtcjJKTm1adGw1VUFhWnFtODBkSnRGT29COXFnX0VfNlM?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Why DigitalOcean (DOCN) Stock Is Down Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWRERng2RWFKd3hwYzkxMERZZ1E1cmJXSl9Hck5wNUd6dElYbG5kOGJHWlBQTGpzTUE4VzJwSkZqUVBXVkxCcU9ENGZsNXV1X2lsV0sxM2pUak85dW96SFlQeWwxakRIX1oyem1hT1B3TVlrNDdlN0dxX3FwLUJuZC0yc1M?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is the Options Market Predicting a Spike in DigitalOcean Holdings (DOCN) Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamxPZlNLa1JrcThXWVVPOFdVaEVFYkNYN2hienFPZzJQbXJKdl9nREs4a2ozTVlEQzQ4SnF0UmQyYzBLZDlSUEIxZU5INnI5QlhQeGg0My1Yd3dVZXdSSXZYV1g4eXZjTVk3WTBFeHc1cWRvRkJBNnlna2t6NDlmajYwTC1pZWFEeHEzMExyMlRmNzBzMkRMWTNnOGU?oc=5",
-        "label": "POSITIVE"
+        "title": "DigitalOcean and AMD Collaborate to Advance AI Using Cloud-Based GPUs - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGtQckhPb1VrbHlzU21jQV9QNjJwRkFFM3hzel9qTDBKMkV6ZXEwZGszRW9yTVc0dzlPcS1aZjh1OF93Unlka3FUNUpxUnBCQ01xeGR3eDU4UER5ajZWLXZCR2kyMnVfZldLanVXLTNDd3JyMDNIbHhoaEFEc2RnR3lXWVpDMXloNENPRHNEd3hwdFJPZHhVX2ZzSzYzQVFBWjBQTnRnRVpuS2FadWFXa2hyT3lFaDh2N1F1U1BPRFM?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "DigitalOcean beats Q1 estimates, shares dip slightly By Investing.com - Investing.com Nigeria",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUE5M1VVd19zMDI3Y3lZVllvSlZiLWt1bUhVWjVSaTBwaXlrWlB5cUFpNUxrbDhmZEVRTkFMYXhfUjB2Zllxc0U3SDB1MVVEX1U4aGtla2wxNUllQ1Ruc015LTVxYzd4cEh5SFNsM3ZnMmlOdEw0T3I5SGtlTG4xLUxoeWFlVGFtNDFrNTVybVpHc1o5VHdGMlJDU1pLNEk?oc=5",
+        "title": "1 Super Stock Down 76% You'll Regret Not Buying on the Dip in 2025 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3FCeUdpV2dZZFBWSnFCVFliWWV6amJUTThFbGRTSTJwUXNYMkpnOVREbEgycHFRQmpUdmkxaks5TzBnc3Z4MS1qRkFWRFhsMFNOSmFpOGg5dTBCbVdncmk0MWtiRTNINWp6MEIzOWhBWHFRZ2pGQTJkRDFTdnhpSUtsVlpkZXkxbnY3c3dvN29ybnd2Z1E?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "DigitalOcean Stock: Don't Miss The Pivot (NYSE:DOCN) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzlJb2tPZ1NjajZZMHZteDQ2dnlhUkVCaExQVURKYkFBWkhTNFRjbk9pb05pX0Q2cWtLVGQzaFB1RElxSUNFMXhNN1IxUGV3ZTAybnZ1cmNGOVRPcFJFMlBsbkFmSERWVTNXeTlRa1dxUHkwVnpQUHVDVFRubk5rTTRCVFhmQQ?oc=5",
+        "title": "Wesbanco Bank Inc. Purchases New Shares in DigitalOcean Holdings, Inc. (NYSE:DOCN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JqVl9sci1OTWtwUEFBNS1HeTRqcHZvYUdNYWVMYUhnajlTVHlLbnZ6Qnh2NmR5UEx5dWFRUmFta0phV3M3aWhkS0ZzeDdoVGNvY1VoSzY0cm1pakdDSDliVGN5blBvQlV4VW1MY3FrcFhCQmROMnc3U2RpeTJ6RW5ST2hBSHFpUzU1VEpxMFo4M2dWVG81TVlILTlEX2ZEOUlLdGdnMVl5MFBXVjRYNUlJVE1hUmFKSXR0WkdnZ2oxV2RSSTNtSnFONA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in DigitalOcean Holdings (DOCN) Stock? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUFKUGJ4RmdFNUh0Y3hMcmRvUTJwQzBIcmlKNmpuUlFlOXVTSHRoTW5kanNJdTNjMjBxbFRmVW9vR0RNaTRKRUMzeHdaOGdOSTY5UkFsYTBXVXZ2YmlqOTA0Q09uaW5vYXZaNGVpX1lvaFVkQVJPVUhRdlJWSnliVEtRa25OWXpNVGV3NXFjRXNMQm10Wmpkck93Mlc3TENBbXV0aUs1bjlMdjhjLV9MT1lIUG1ROUZs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Results: DigitalOcean Holdings, Inc. Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenJxbXdUdmVBeUYwbTJhdElkWVg0MUR0dklhMmMyN2hHZi1JMGRyNXI4aktodHg2TnRSWWl3NDZURmV4Nm1Lb2lBalljQlU0bUE0RnRCSFBxQU5qVXBWMGhCcFVZbV84d2R6QV8zVmh2dl9yMDVJRTRBa01IanRzTkZSQ3VJYlFYdEFPZ2lXbE5mZFJsQzd3aHprV3RBX0ZHMEY5Ukd3ZGVWanJEdFA4UWo1ckp4OXQwYm1KVlY3VFZXWW1fVlFNTm1INW1wUHJWS2Jz0gHYAUFVX3lxTE95cVQ0S2sxMnZTRkVQX0NlWE5MUE5kWVJJdVRJamZkU2ZOb25BdkZxZmRqQ0haT1lOZmJRNEtjWnFWOFJBMTNJa194aE5PeXV3MFltRjFuVEFOWk0zV3NORTFXR2xBUWVvMDBmak9YSHA1bTFoTWZteklZN204NmotUUZsWDEzT2E5MG9KaXZZWWhMRldDVGN5LWsxM1BIcXY4NmZUaEdoU05QQ204NjdzQlFxTEVjc09tdEJ2a25BZmNHeF9YdVJYVUltWU51TkJoWi1LeUtSRw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Stakeholder Sells Millions in DigitalOcean Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVFsMUI1cEVuVW5BNDlpa2p2VUV2aEV3NFQzUHpEN1dvLXk5OHo0THJnZWRPbktTV0dTYjZKdVZrdnVYLV9xTEZ3NmlTdzZzZzR6bmFENjZpUkdmQmRXOFV5aFVfUFBMX1N1X0kzbG1NQ1dKMTRiSzZYZ0ttbWd0WFVCYUpSU2RJRnF5aHRqMngycWtwYXN1Z1V4Zk1DSTZrclVwNmxvSGhhaHNxc0lCSGFNeXdsVVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Stocks Under $50 Skating on Thin Ice - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDB1S09zXzlOYXR3MGpFNEJiaFNQSkJVQ2Z2OFg2RUhYQ3ZsU1dHbkFsLVRNemU2eHpvX1M2MTdHel9zN1ZVN1RLcjlVVldfZjF3bnVJcXJDU0pqRWg2LU82YjBoNm12X0ZwSUF5RTdxRm9Fc3BEbjNQc2lwb3ZuYjcwM3ZyUEc0X3FGRGE3ZkJ1TWFaaV81eXFHRUFxNlhOUnYtdUVrQ1NTdlVYelE4?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "DigitalOcean Crushes Q1 Earnings with 170% Profit Jump, Unveils Massive AI Growth and 50+ New Features - Stock Titan",
@@ -591,18 +601,13 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Is the Options Market Predicting a Spike in DigitalOcean Holdings (DOCN) Stock? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaFdXWFdrT1V1SnhQdFV5S3NTYmhFSGtraGI5QXlmeS1KRzNBSFR5VWNoZWQtUU16bGdjcXpFRVBIampCdkJvZ0ZiU2FCYy1NUGpWYkozWFpWek96ZThpTHJhaVFoQmVZQkUyQ1VWNnNSOWNmQkJ4ZjE3R3liREx4VlA0WTVlY0RseVpLaExYbU1JTjI3NWRYMVh3TDNoWkpMVWJ6YzVlRW1Xdk9IWlFFc29QaE5nZU1iaUctT0ZKUkpqdXN6VURKQ1JLQjZjMWVXalJFeHh1SFZUeE56SjJ6VXhvbURtbk5velFKc3liLWpuVURYQkRZ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "180 Wealth Advisors LLC Sells 23,536 Shares of DigitalOcean Holdings, Inc. (NYSE:DOCN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjFCZVZPZHBqN09CbHgyZDV4dklMcF82Mjd2TTJNUU1kMVMtVjJ3dVVsYy0zT3F0M250ejAwcFVIX2pjQjh1MHgtQlNaYXV0M3lPVVVxczR1c3AtNGVKUWZlREFrRzg2ekVoNC1wb2hleGJtS1BIaGVZM0Y1YlZlYzAxd0p5bW42d3FqXzVPU0xlZS1YYll0YkhDTklIX1hENThzMDc2ZDhPajBmZzFCUVFsTWJoNEo3WFZZZDhTVmJ0ZlVPX1ltbXhHYTZuUXZn?oc=5",
+        "title": "Prediction: This Magnificent Artificial Intelligence (AI) Stock Will Be Worth More Than SoundHound AI by 2026 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRU1lUjNsc2pMT0VJU1dXemVWbS1wSFhrOHVHVXNNMjNRWEVFcTVDN3VWdmUzZE5ScjlSdjdxT0RlT1dfbHJia2FNeWE4dVNBQWVJaVZKTlRGRUpzOWhYZXoxQ210MVNGMnV2dUdackpjWDdOaGxLUlRyZ180RW93V1hucUVhM1puMG5lSXBtNVNBY0lWaUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "1 Growth Stock Down 40% to Buy Hand Over Fist Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnBJVTB5R1ByTWRDY0hXajFiQjRNSDhpTjZRZVA2eXBpRV82OUtBZ1M2UFJTQ3NhNnVUZVVxaGFWVVJ6MUhUYWdPZ2FYbUpnSGZxU3gzMkhtT19VdHhXNGtYZEd5eTk5UFZmejltLWtzS2lIbTVnNFVnV0loSkVkSUxIbzl6MDAtQ0FOSlFjaVduNkF3VmU0ag?oc=5",
+        "title": "DigitalOcean (NYSE:DOCN) Shares Gap Down - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFEbHRhOTZYcFNFajNTckJsaHZMSHpONTdGejVIQ2JsZ1RpSm41X2RIUUN5eTNWZFV2YUxRQUJ5Ym1JNGViSjlTMjNVZWJLSUNrUnppVnpHLUtxZ1kwcXNTWkE1QVItemhnQTdEeU9mZ1hwM0NMd0Y5SllnTEZsTjRqUUJGTFIyRUtKRXFoT1I1OUd2dVpYWGFMNWNGSzVlRzZtVHNIVQ?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -611,39 +616,34 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "DigitalOcean Holdings, Inc. (NYSE:DOCN) Receives $39.83 Average Target Price from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSVVtb19HZkxkQ3RwSGg4REFPZTNDSW5lYlBjaWxrZ0xBY196VlBSTG4yMzBPZFJmMzd3ZDVrRUdVOVpXNHFpcWM0T0R5VHNrS003Qm5FMjlKLWJzQ2JfNWM2TFlVR0dUaWhGNGJ1NHdkQkVPZkdrcjc0ZHN2T0VFZVpaNTR0ZnRjbkFYZkN4NGJTRTBray1tbVFxUVE4M1RHeWRhWHdkcXNQLURIekhVUG1NTWxlN1lUVUJtX0xWUnl3ekR0YnRzVkVaR21zc2tVUnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why DigitalOcean (DOCN) Stock Is Up Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUh1cUk3VDJpaE1XVHhpSFJqdUpfaVZ0VzIzMXIxcTh6Y0JRdVJFVU1zQ1NZUnY1RXFfcFZuQXVjbWpNQkdqYmZVZ0J6bGlhM0xtaERMd251eFpXcHY1OWlqYlpzOGFjV0syajZZemF3dXNFdlhhVVVMYmllMjV3YkN4Ym9jUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "3 Reasons to Buy DigitalOcean Stock Like There's No Tomorrow - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekp0ZEtLZDJndl9kOUgyVVROSUhmS2ZjcjNoU09uRTNaMkNZX2ZNSGczcEJQN1JuajRpTWE2TGNwbnk4MndMR2dSTzhGREx3WDdJRUpYeE1ZRkw0Q01UeHRFbjVnMzBWUnhlUmttaG0yV3Z0ZzRpOTVhMmpBcldRcmQwTFc2RVdXeDdYNUE0blg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "DigitalOcean Holdings, Inc. (NYSE:DOCN) Short Interest Up 17.6% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFI5blhwSEM2UzJVVy1iZ081MWdTRFZKa3VMNWpJQTNEUzEyRm9Lemc2QnlrVkZlcFF1bjlYcXhnS194clRIVHo1VEtzVnlTZzVPUDBEV1hBMjZRU1pYMUMwUzNwcHJfaGUyVkhDR09KYmM2ZndOcWlnbWtYRTVwdXlIOUQxNkkxeWNRdmVDZHJMeHB2ODJkdTZtbm1UM01YTWlvbzZ2TVBWcnpjWmdLenZrQTdLa3hG?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DigitalOcean (NYSE:DOCN) Shares Gap Down - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFEbHRhOTZYcFNFajNTckJsaHZMSHpONTdGejVIQ2JsZ1RpSm41X2RIUUN5eTNWZFV2YUxRQUJ5Ym1JNGViSjlTMjNVZWJLSUNrUnppVnpHLUtxZ1kwcXNTWkE1QVItemhnQTdEeU9mZ1hwM0NMd0Y5SllnTEZsTjRqUUJGTFIyRUtKRXFoT1I1OUd2dVpYWGFMNWNGSzVlRzZtVHNIVQ?oc=5",
+        "title": "Balyasny Asset Management L.P. Lowers Position in DigitalOcean Holdings, Inc. (NYSE:DOCN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTdQWFVhNXp2bnczSGxmb2J0ZldLU2wtai1seV93dWpSbFNQMVJmbUdSOW84Qzc4VndQU2lzcHhkdE9WZnZpUGtjMk5oSi1HaWl2SEZJYVcwWmROQ0VGb3BULVlZOGRjRWI5NTVmcVYtTnQ0czM5TjdCNjVjUnQ2X25CNDFTd3ZHNG9ibmc5MWpDUmhBaXJ6ZDRuc1BzQXNUcG5VMGNUMFRfeHIyVDFvRngwRHdnT3hDOWdsOHlsbk5FdlpCX2JtekpVZ1BiVjFXMC1jR0wwWnBuQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "65,000 Shares in DigitalOcean Holdings, Inc. (NYSE:DOCN) Acquired by Viking Fund Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWTFmc2RkaEVtdlFFTkNjaFY5aEsxMjNBa2FTT094cVQwXzM0eDRLdU9nbGFiN0R3aDlUWjYwWTF5VUdXZGlHdWNLRFMtbGVoaUd4TG9nQy02Qmp2S2MzSW85bUhESkl5bWt4SVZpaTNBX3Q2SkxRVkhocUFjaHRXb25WTjhuMUkyMnVwMU5BcHZQRzk0b2FMdFRzeXg0OFp4WTdDT3h1Q1VtT05DaDBWTlVqUTh4b2dDYk1rQWl6RmdJMmhaN282bHhZMnM2R2ZEVVBWQ3pzVUhCODludUdB?oc=5",
+        "title": "DigitalOcean Holdings, Inc. (DOCN): A Bull Case Theory - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlg2U2dOeGRTZWpDLU1kSlc5dW52RE1lWkxodG9UR1NrZGtHRVg5dUY0bnFNckthTThfcWFsOV9iVjNVOXUwSERvQXUwUzY0UHk0S3VwUkVySHdCY0RkVm1nbk15RVNycWtvYVNPWEJkd0xhUmFwcEtSTVBOTjdPRWd3cFNBYnpx?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northern Trust Corp Increases Stock Holdings in DigitalOcean Holdings, Inc. (NYSE:DOCN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYlNxODFpb3VUODNWYURRRW9yWkRVc25WWmp5aEFtbjdDdXVrVDhqS2J4SW1fd3VyWnJ4X3ZvbG1WcUtxNDV0SGYyR3g1Rkc5YThIcHBRMmdpTHBPcERCUzV1cDBOdHdxMUJoeFp4QXBZeTU0X2FIYkxvZGJJQ1RMaENWMFA4R19zd3lKQ3llRG04VS1TTjVuNDA3VkRhUzVnUUFVbGNWazUzUzlnZmE5Z3k5d0NSR283NmlMbmZMUThZaEM2d2QtOW93NkJEUWg3X0E?oc=5",
-        "label": "POSITIVE"
+        "title": "Prediction: 2 AI Stocks That Will Be Worth More Than C3.ai 2 Years From Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRW41RXdyVW9YWjdVTElPZzgxM2Q1WHhsd0U2bXU1WVFvR1Bmd1hjLTVDSTIwSlV4RmpicFdKNjEwQS14R19pTmtMMEpVdDRpTTdxbWo2Y0ZCbWZad25FMW85a2NsNU95R0dyc2FSNzNUNHBvN3BRajlGVGUwOFdZcDB1a25OMmhLUTNqcURNWmY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DigitalOcean Holdings Inc. (DOCN): This Software Infrastructure Stock Is Outperforming In 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2lRYVVQV2JhYm5Rc09KNmNUdXVJSU5KRE5oQjBOdElxQWtwWlFSMG1uWEhKYkxHZ3JtajQwOXVtcm1YZHFUTUlqYVoydDg0TXpHNzhVMVp1dHA4V3hyUUJCdEt5V1c1dDZpNG1sU3BldlhhT0pxdk83YlVZOWdOcXNVeTVLN1EyQzZhZ29B?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DigitalOcean (DOCN) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVBxYXloMVlTMTRyc2ZSM0ZNbHMtQnFKa0d3QXI2VDFqLVJrRHF1OXVHX1BaRnJtMkVsdFVJM2x5WjBXWEdYMV9SZGJpOGswQ1hlOHRyMHBMZVh1QjBVV0tsMmRuMjJTeXJLYXBxMGRqM2RFaHFVM3VYU1dnZE9CdGh0WEFwRGxf?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "DigitalOcean Holdings, Inc. (DOCN) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
@@ -651,11 +651,11 @@
         "label": "POSITIVE"
       },
       {
-        "title": "DigitalOcean Holdings, Inc. (DOCN): A Bull Case Theory - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlg2U2dOeGRTZWpDLU1kSlc5dW52RE1lWkxodG9UR1NrZGtHRVg5dUY0bnFNckthTThfcWFsOV9iVjNVOXUwSERvQXUwUzY0UHk0S3VwUkVySHdCY0RkVm1nbk15RVNycWtvYVNPWEJkd0xhUmFwcEtSTVBOTjdPRWd3cFNBYnpx?oc=5",
-        "label": "NEUTRAL"
+        "title": "DOCN Q1 Earnings Call: Large Enterprise Momentum and AI Investments Drive Results - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNlllNzZxSmFVc1lnUDRkWVVQYzBoOVR3YlJ5bVlyNmtzcGVoRXN3aVF2bHNJMEtrU2pWYnk0WFJWTFREQlVRaVZ1a2dhQ2xoOHh3OWZCaEdoN1c1QV90UDM3Nm93V3dORHBCc0t2TFRkeDRpUWxnWlRjcW83QQ?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

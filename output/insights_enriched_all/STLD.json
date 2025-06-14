@@ -2,16 +2,16 @@
   "ticker": "STLD",
   "name": "Steel Dynamics",
   "sector": "Materials",
-  "market_cap": 19843846144.0,
+  "market_cap": 19705784320.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.565046,
-    "PB": 2.2626786,
-    "EV_Revenue": 1.313,
+    "PE": 17.442839,
+    "PB": 2.2469363,
+    "EV_Revenue": 1.311,
     "ROE": 0.13199,
     "ProfitMargin": 0.06798,
     "GrossMargin": 0.13408,
-    "DividendYield": 1.51,
+    "DividendYield": 1.52,
     "DebtEquity": 47.5,
     "CurrentRatio": 2.743,
     "QuickRatio": 1.292,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.02805201347042355,
     "ROA": 0.05924,
     "PEG": null,
-    "EV_EBITDA": 11.508,
+    "EV_EBITDA": 11.489,
     "BuybackYield": null,
-    "PriceToFCF": -41.05655848541611
+    "PriceToFCF": -41.03196628962954
   },
   "technical_indicators": {
-    "RSI_14": 54.375827659796286,
-    "Momentum_10": 2.806223950718892,
-    "MACD": 1.2597444231102486,
-    "BB_Percent": 0.5918383058555325,
+    "RSI_14": 52.888380029521315,
+    "Momentum_10": 7.893884774011036,
+    "MACD": 0.9636945524102316,
+    "BB_Percent": 0.5737923586534098,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9331089046483332,
+    "ValueScore": 0.8933098250386993,
     "QualityScore": 0.2697196491798723,
-    "SignalScore": 0.5409385199107266
+    "SignalScore": 0.5267151591008143
   },
-  "volatility": 0.0268078019848188,
+  "volatility": 0.0262519655883105,
   "beta": 1.394,
-  "return_6m": -0.0150718467054542,
+  "return_6m": 0.093556079348491,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 147.22
+    "target_mean_price": 147.60461
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 138.25
-      },
-      {
-        "date": "2024-12-10",
-        "price": 135.29
-      },
-      {
-        "date": "2024-12-11",
-        "price": 133.55
-      },
-      {
-        "date": "2024-12-12",
-        "price": 126.91
-      },
-      {
-        "date": "2024-12-13",
-        "price": 122.37
-      },
       {
         "date": "2024-12-16",
         "price": 121.71
@@ -537,28 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 133.56
+      },
+      {
+        "date": "2025-06-09",
+        "price": 133.63
+      },
+      {
+        "date": "2025-06-10",
+        "price": 133.81
+      },
+      {
+        "date": "2025-06-11",
+        "price": 130.03
+      },
+      {
+        "date": "2025-06-12",
+        "price": 131.85
+      },
+      {
+        "date": "2025-06-13",
+        "price": 133.48
       }
     ],
     "current_price_data": {
-      "price": 133.56,
-      "change": 1.46,
-      "percent_change": 1.11
+      "price": 133.48,
+      "change": 1.63,
+      "percent_change": 1.24
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Steel Dynamics (STLD) a récemment annoncé un dividende de 0,50 $ par action pour juillet, récompensant ainsi ses actionnaires. Les actions de STLD ont enregistré une hausse de 9,38% le 2 juin, avec des analystes soulignant un potentiel de hausse de 9,20%. Cependant, malgré des fondamentaux solides, le titre a récemment chuté plus que le marché, notamment en raison d'une prévision de baisse des bénéfices. La décision de Trump de doubler les tarifs sur l'acier a également généré des réactions, illustrant l'impact des politiques commerciales sur l'entreprise.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
+    "summary": "La société Steel Dynamics (STLD) fait l'objet d'une attention contrastée sur le marché. Malgré des signaux positifs tels qu'une distribution de dividendes à venir et une levée de fonds stratégique de 1 milliard de dollars, des incertitudes persistent quant à sa performance financière, notamment liées aux tarifs douaniers et à des résultats en baisse attendus. Les mouvements internes, tels que des ventes d'actions par des initiés, suscitent également des interrogations. Les analystes ajustent les objectifs de prix, avec des perspectives divergentes sur le potentiel de croissance de l'entreprise.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why Steel Dynamics (STLD) Outpaced the Stock Market Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXpUbWc0RmNRdURabDNmbnZUb3ZNZmFNdGRqaFZobm5VOHdRQzJPXzFrWVZrVVNFYWlRdURIenB2bmNYa0wyLV9iVk9oVzlCUElla2xoTHN2VXplX3RkRGlHc1hSNkhmckhCM2h1UVdiVHFaYUljT3NnSEJnenY2X0VHa0k?oc=5",
+        "title": "Why Steel Dynamics (STLD) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95ZjQxSWNzQlpJU0t4SEE3SjZJMWpaM3UxcmV6eGNScWNFMkhIRDRHamN0QjFYQjdSakxQV1djY1ZlNGY2X3NQY2N6XzRoN09jVElnY1pKSlBlc3I5Q1hzejBxUmpFV25jUTRkaldjNC1zYmpiX3BxN3Q1MVBSdw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Steel Dynamics (STLD) Falls More Steeply Than Broader Market: What Investors Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2VENG5BUjdfZjFkeVVRU0FpQlVtdFQ5LWxuZlY1MG16aGhRelRSdndtbjVLZWVXSFpBaVZCaGppYmVHNGxkb01lZkVaU29fLXg3X2lIbTY4MGh6UmVXNXRaaHYweVRTX1I0RkNBT1c3YWk2bXVpemFzekM2NkRxVlp5YllVcUY2MUJNMW9YNzRlbWNmRE9UVjNUQWJVa1Q1LTJfVXBMRjFJZHRRdXp3?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Steel Dynamics Rewards Shareholders: $0.50 Per Share Dividend Coming This July - Stock Titan",
@@ -566,58 +571,43 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Stocks making the biggest moves midday: Tesla, BioNTech, DraftKings, Steel Dynamics and more - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUU5eUpCMnVfUEt5WHhGanNwWEVMbkJZTnozSk9jZmxTdC1lMU9pMm9SRFpUQXh0Qkl1ZThnMlNEeDRaTkRRRlN4eHpSdXJmblJzb2NPUVVXRHYwdVpDTWU5QmNqTlJhNGlIMUVRZE5IQnVCWVBfNDBtdk9UY2VLbVljNnBMeUtuUUlpTzZVZ0o5OEhudDJPVDVORVJVLWUwSWFWZktHSQ?oc=5",
+        "title": "Fewer Investors Than Expected Jumping On Steel Dynamics, Inc. (NASDAQ:STLD) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVUdfRG5fTmVBTHBSb3VHZ2x6cW1VcjlJUjRIMEYxYlV1cWdYNGZEbGdENEp1OHU3ZkRuUm5fQWNUUzR0QldaeXFDSURzTUtiaTBKalFBd3VpUmZra0N4Z29xSGNlT0hUR3BiM0RlZlNLNVdUMDBMZXJ3aW9BUFlhOTRKb29tQ00zYzl5SURoSXhVcHV1cmJLZmRxNFM1MFFvX3Rwc285QVFnUG85aEdmVG9CdkFzUGVHNnVvVE1JT0RzcE1QdE5oNkFGdmR2d9IB0wFBVV95cUxQUDRmUldaTElvSU11UmpGeklBQmpzUlBDZTQydGtFQUVySGtWclRoSEc0NFdpQkhtVVBfYlVZUjlnaWRHbVNKYVFPZF9jVzBXM3VrSThPX3BFaWsyeHdFVFozWEFPdUlWc08xU0NkaHpUTEhucHRTcktRX24wLVYwRlF3TVlLWk1USXozYzFHcTdyeFVwc3lkSTR5Q0RwaUtGbzBiYWl3MEVUamlMbTFxMVdyckpNZ2RpbE41VDBtTVNqUmRsUmh6QTYzZXpzM19rdjhn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "2 No-Brainer Steel Stocks to Buy With $2,000 Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWdMclBteVFMNGdfQkozeXNMTExfZThEdk85cVJzb1FwX09HWV9ObnIyZkR5b3lFNWVYbFJsc1BkQm9tb0lPcmtMZFQ3Z2pWM2daWTFlZ2tBUEwzQk85WnE0clMyNThVNk9mNmpyTU5PeGxUSFplVWEwLWJsSThGaTFFcXMxbDExdF9CTkJMZzFxbm9uQkpRdQ?oc=5",
+        "title": "(STLD) Investment Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlBPUDQ0QnlyNGdYRlgyRlJBZWZ4Ul80blN3OVFINXZ1bjJtNjVlOEJmcEVUNUtiSXQ0U3EyN3ZleGlxTi1JbFpSQ05DUGtBOEhsTG1sc2dQWnJxdnVIVXRSRXlOeEpiWnhHV29BVlFfM0E5UEJTVWFqM3VxYjBIYXBmbG5FMy1LaVVSSlBnN3BzbHYtUjlOcG90NElNZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Steel Dynamics Inc (STLD) Shares Up 9.38% on Jun 2 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3RVZWhQbDV1UDNiUHQ5MzktUm1VbFVIZ3pMS0Vac2J6YlZGc2RZMlg3OXBMNElnTEZScUtNOG9jaTQ3VG9SVWs0dTJWWUtYeW93QTRuS2d4cWRCX09oYVZZbVl3Vk1qc0JKVEdiT0VpSURwTGUtRHJ6VGVWMUEzY1ZnM2xCR0RVOFVoUFR3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Steel Dynamics (STLD) is a Top Value Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFFaVC1DTm1XZDRsRkliTUZhOUh6a1ZmX3ZZQ3RHYm4tQktSeW9NZjF4OVVCWHB4UU05aUE5MHJubS14SVlydDR6eGVLUUhHUVpST1lZdlFEYjJsNnh3dTlwbGZ1ZHlYcWpXcVNROVNaRVRXbjk5MFFsWVAxbkpGbHQzY3JSV1RR?oc=5",
+        "title": "Citigroup Adjusts Steel Dynamics Price Target to $150 From $145 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnZlRS1GOW5RZUNYTXNqZWpHN3hIb2U4eWxTeTZZN0ZYVjJBaVAyWnM5X3gtUVp6V1hzMVZZWThPZjZvNDJkN1FTRkF6SDBfbVlMR0JsVzhPU3JLekxXcWFmMGJpcUtHLXRLQWJYcVU2aHJOcDR1Q0VLaUtJbHp5MjJMal84cnNaMzltN3pNRlF5eFMzcTc0YjlvMnZRUkU0VjNuWmg0cDVRX18wMU9nUHpZRkhid0ZsZmh6VVdvUmpkUGtrYndfWTFNbmplaFA0UlpQSmFkcnB1eGZY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Stock Market News for Jun 3, 2025 - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZEpNTDBPTERNbHo4RGtscWlBalNGMUZOSVdSMkRJWXFjWjhaUFNUME5RVkR6NmYwNlV3NWVBeTRmOUNlLUNmNG5iM3NrUVVZdF9iX2xRWkRnVGJhVjBuLXlHNjd0cjltdEJDVVN2bHI2Uk1BRGx1a29FQklMdHhKdGxNMUczUGlKLU5idkRDZERQR2FHNnlZeF9UWEJDMzRiZTZJVnpVc0Y1dE1WTFZyclAxLVZVNC0wQWFZSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Steel, Aluminum, And Capital: The Steel Dynamics Investment Model (NASDAQ:STLD) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNE1PR0t3MUoxMm9Oc0VqekJvN3p4cEZETEtDZHM1QVJSMEtLQS1qTGpJSmtYN0lfamJEQUlGNFdZY1JIVTU1WFNST1FtZXZZOGthbFpLOGY2SDVoRTVPMkhwUFpZZHR1UFlHYWpFaDlxNDBjTTl3aklYM0RIUE43SDdmRkZEMDZiOThISi1ReXRaSmZTQWIxdDBBWllZbGZScnkxSWRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Steel Dynamics, Inc. (STLD) Stock Analysis: Exploring a 9.20% Potential Upside with Solid Analyst Ratings - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1JpemlqUnZZSTZlUXFhTXkyQ2xQM3oxZlJmZUE3OS1UdzJ2ZEc1VGkzOEcxN0FhNklJS2dyMlQtZ3ZnQzNIU2VHeEF1WC1BRmgxXzVhaERsWS1VR0VZdEVSQWdTdHNLUW9tUzdnWFFfUjF0WlA0dHB0S1dseVpBTEFlcE1teVJpanVrcjRLaTRGSk9rXy1HTGlrQmg3dWVxeTIweUFzRHV3Q0hRb0RJNXNzUlBMd0hrczg3ZEdkNk0yTUV2NURRbTV3WGJjLVJvY0JOMHJHRnNrbzNoRklWY2RjTFM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Steel Dynamics Shares Climb After Tariff Announcement - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1dyakdCcExWQmVfZmlWRENLWVh5dDlDc0F6dTFuLWdBemtOaUJsTTRtZzREWWZwSXlWdzJGUEI5Wlg2RFp0cmJ6azh5YlNMLWl1ME1SNm9RLUR1MTllNmhMUFRKVU1MVEVEVmZ6eHZTRFZ2QVhLVzlTdVJfT3hDRG1PREhJVVJrMm9kZVNLZVBOdWJaZTh1aGNJZGZ0anRMZUhyN3VFMkhrWVdSR05OQ2hYRTBFOWtfdUo3cEtlOGxqbTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About Steel Dynamics, Inc. (NASDAQ:STLD)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0oyc19LYWZNcU4yY2hBeFQ4TVMxSkRhemxlS0VkaHloMm54VWY5Rl9aNGxuZDBqbHItRUFxTF95WFlzMGhaRkxDeTFWYjJCYWRKTXVEbG1yTFdQczJGUzFQQ1BrcUpZaEdhanRsSDFzUEd0aVhlRnptUGIxNEVnMDNoWEdRRm9vWlcxMmJ1V01CTmxkbGNyX1g1M1lXRndZQmcwQlEtQTQ3V01pQkpuVmZmdkNZdVlRR0xzUzNWVXU0TUlhYW92MW1ReU54U0NKT3dSY0ZR0gHbAUFVX3lxTFBUN0JQdzM1VVJpTU1QU2ViaXlNSWNWdEE2Rmt2WkFPTEZSWTJZMFRBTEpzenRwVW5iQ1FtVXR6d2tkMTc0ekg2NjNQUnlCRWY4X2dzR1lQLTAxMTRDUUlGRm9KbGlBRkQ2dEx0UEVseEFqbkRCN3Ria3Z5Zk4xOGRBRmE1TVJYMGxfdXJ2NjZSaEpOUzFYajhlU2dfOUJUOUVIMldFaTNJUEZjR3VTcXVvQmdiWUlNVHdwRkNxMUN5LTlNbEE3RmRNVldSSUR4WThYVFhIQi1JaHdFZw?oc=5",
+        "title": "Uncertainty, Tariffs, And Steel Dynamics’ Deteriorating Financial Performance (STLD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmxIRkVpQkh0LVg3cHk2azQ4eUhYb19BNmJ0ZlJyWGxheld0OTZCd2VWMHZNUzQzMmxWSXFHcm5ILXpBSVNGWWRzQjBEajNBSElIRVRSQ1lSTnV5X2p0X1ptMEUtMDYtRl8wQTc1a1lqTUhKNFNjSl9lY1FnY05jcWtSZmg5V0IteFdxSlZyajE5MVJaOTRxaGJPbGI1bXMxVW9UX1JCRTJreG96QThzYkVUa2otQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Stocks Poised for Growth as Trump Doubles Steel Tariffs - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckFFTTJRLWpnSmxKVXNiakI3SmRyMC1IOEVtbFFUVlZhNng3WE96QlUtbmRsZ3E0MDVUYnlsSHVoeHVydUJrQnVTV29xMGNQZjA3dGxKSjg0TGZWWmliOXFxdWxCWDBoLWFfMm1yQVd4MXZzSWkzVWdWZWoyMGp2Yk1RRHNKYUR5c2VPMmtoTF9EZjNwWkdPXzVUbnBwMms?oc=5",
-        "label": "POSITIVE"
+        "title": "Steel Dynamics Executive Makes a Major Stock Move! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFp1ZFpKd28zamxPRFJ1b3dKVlJ1WVE3UUw3TmZJcU14LXpZdjZrZWZXYTJ5LWNSQTBqdkFBdkpGZ2pyMWZrejVieXcxdEtfRVBHanlGVTAycjRrdUxES01JeDhhS0EzQzVfWW9WNFlFQ3QtRklxZUNyOEVlTHBZSzA2N2E3RkVIcjZHSWJfblQ4ZEhxYUVSX1dkRQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Why Steel Dynamics (STLD) is a Top Value Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95ZjQxSWNzQlpJU0t4SEE3SjZJMWpaM3UxcmV6eGNScWNFMkhIRDRHamN0QjFYQjdSakxQV1djY1ZlNGY2X3NQY2N6XzRoN09jVElnY1pKSlBlc3I5Q1hzejBxUmpFV25jUTRkaldjNC1zYmpiX3BxN3Q1MVBSdw?oc=5",
+        "title": "The American Dream in Action: 2 U.S.-Based Businesses to Watch - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWJrWXdLQnBFM25RMXBFZWxHaTltaXlDLXJwdWxFRnNpc0dIeWFmVm8zVGRYcmEtWExGODBFWDkzMmxYVDZIRXlTVWVKdG4tLWp6U2o5V2MzQ19sVmFuaWp0aGc5SUM5MTlHZU93aDNjanVwM1FxSklvOHptTWlyYmYtVmgzS1QzQUZpR1JqQTMwV2Z6MjNHbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: Director at $STLD Sells 1,254 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlZpaWFmMWhnNndDV2hpd0lyZzAzR053Vjc2TWVnczExNUx4TXZfcHdwRkVYZkZ1S1VWM21zQmVJenZSVmhVRzFHQTNtNFZ3ZlFiTTkxcTF6cmt0eFBnUnNxdHc0RkM0RUktNDQ0bFpwT3pERkN6Y0c5NXRWU2FYRGtB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NUE vs. STLD: Which U.S. Steel Giant Should You Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NX25hWUQ4UWV2Qk9MZV9NY3hUMXBfQ1J4cDBKc0xlSEc2c3ZjeGdQYVRsNlVhQzZvLTFQYUhCU28xS1BKMXpFbFVEWWVXZFlvRHRnNE03Z2VWRlpMcFhXcHVZSXF6eDFzb191OFdTTS1BYzg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,9 +616,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Steel Dynamics (STLD) Registers a Bigger Fall Than the Market: Important Facts to Note - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjBYSHhjY1piR2lXZERIcUxzaHhDNHgycExjWkpscWpFdTcybV95dVZ6MkVVelZVcy12WnR3WGhvYS1NOWRyeWRCcjJOQW9aWTFSYkNuWlNPRThpVjdKYmdQZGVCVlRfY1YxQkZHendVeEdsMXE5cHFoWTV3bzdLUXM4SDM4cGFBY3NuTWpfd0ducU84S0hYWHJXQ28xcDRoT1AzVGR3?oc=5",
-        "label": "NEGATIVE"
+        "title": "Have Insiders Sold Steel Dynamics Shares Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbnliaWZGdV9lb0c5VGpZaFNrWkZ0ZHdzNzNGRzg1b2ZDOVVGZEhrVV9ZUDJiRUs5UEJWMndSODF4a0VRS2c1X2hZbGp0S29EaUNlX1JHcFdwZHJrQ0cybHR5S3pRWkQ1aWlZV0lJdU0wdmJwaUJSYmE0cWVCUFU4eUJnT1g3cWVXakI5OGtldzFwYk1tbkRhTzViODBkUG1iMU0wQXdMZ1M1NGNMSHNEWjZHQjd6WG5wQ1d6Um0xZF9BekXSAcgBQVVfeXFMT1Z0bUwtb081OEtWbWpocjE3bGJuSkxiaDVVMzA1UWdZSDhaMlJ0akdzNm1FTlNQT2hMbWF4ZVNMb0NJOTk3ZGlFMUVvQ21venFQT05mbXIyZkVxR3NDZVBzVkYtZ09JTWlKRmYzWl9KQTQ1UC1kS1RMOWJUUF81Q3lqNlRSTDQzSml0aDNfeWRCQkpTYldjM1N4Q0sxQXRERnNfVUZUSWtVVG0xZzRGb0M1Wk81cld4UXhUNE9RejJ4aWhHUXZldXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 No-Brainer Steel Stocks to Buy With $2,000 Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWdMclBteVFMNGdfQkozeXNMTExfZThEdk85cVJzb1FwX09HWV9ObnIyZkR5b3lFNWVYbFJsc1BkQm9tb0lPcmtMZFQ3Z2pWM2daWTFlZ2tBUEwzQk85WnE0clMyNThVNk9mNmpyTU5PeGxUSFplVWEwLWJsSThGaTFFcXMxbDExdF9CTkJMZzFxbm9uQkpRdQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Steel Dynamics (STLD) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFFaVC1DTm1XZDRsRkliTUZhOUh6a1ZmX3ZZQ3RHYm4tQktSeW9NZjF4OVVCWHB4UU05aUE5MHJubS14SVlydDR6eGVLUUhHUVpST1lZdlFEYjJsNnh3dTlwbGZ1ZHlYcWpXcVNROVNaRVRXbjk5MFFsWVAxbkpGbHQzY3JSV1RR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Steel Dynamics (STLD) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXpUbWc0RmNRdURabDNmbnZUb3ZNZmFNdGRqaFZobm5VOHdRQzJPXzFrWVZrVVNFYWlRdURIenB2bmNYa0wyLV9iVk9oVzlCUElla2xoTHN2VXplX3RkRGlHc1hSNkhmckhCM2h1UVdiVHFaYUljT3NnSEJnenY2X0VHa0k?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Steel Dynamics Top Executives to Present Q1 2025 Results: Key Details for Investors - Stock Titan",
@@ -646,16 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Steel Dynamics, Inc. (STLD) the Best Aluminum Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQWdFV09fdlMzN1FGUHAxWnJic3NyTlNUMHVsNXVZTFhLYWloRlpqOFZ5UEszYUVTcFJ1RnhSR01vaG9fQUtlOEtQM3JhbTliWkJ3RV9VT3hid3RfQlVSeVE4Qi1HUW9hVVhxVTlxdGNQRDBnQkdQajhmRktWM1k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Steel Dynamics (NasdaqGS:STLD) Sees 3% Dip Over Quarter On Earnings Forecast - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXRwRkhNeWg2ekFWRDhpSW95OFlVMXBvcXE2T0hINzlnckJsekY0cmlzZUpQLUNLWTJWRUM0dUNudFRHSHpQeDVScU9kNHJlNk1xcGRTRTlZbnJKRUU0eklRcHVwcnNDVGkzdmR4NkI4bjZVTGxRa01FcktaQlhDN0V4U19kZw?oc=5",
+        "title": "Steel Dynamics (STLD) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkV1d0QySGhUT1otUmZKdEp2NnNBOEtIUTk4a2o1M0s5V2pFUEk2SE1tLVJkUXhfZkM3b0JYbW00ODVoeHpmNjYxR3ZGcFNMdExQNE55V3JPOGIxcUdxVWRGSjd4bTlqd0VzczBnbDNVR1lQVlBJa1ZKWEFUUzFWWl9WTmNySmYzeFE?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

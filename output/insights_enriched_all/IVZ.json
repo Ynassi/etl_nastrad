@@ -2,16 +2,16 @@
   "ticker": "IVZ",
   "name": "Invesco",
   "sector": "Financials",
-  "market_cap": 6411239424.0,
+  "market_cap": 6516415488.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 11.46,
-    "PB": 0.5998492,
-    "EV_Revenue": 1.898,
+    "PE": 11.648001,
+    "PB": 0.6096897,
+    "EV_Revenue": 1.95,
     "ROE": 0.05092,
     "ProfitMargin": 0.13142,
     "GrossMargin": 0.28774,
-    "DividendYield": 5.89,
+    "DividendYield": 5.62,
     "DebtEquity": 6.111,
     "CurrentRatio": 0.658,
     "QuickRatio": 0.658,
@@ -20,52 +20,32 @@
     "FCF_Margin": 1.7267130092364769,
     "ROA": 0.02438,
     "PEG": null,
-    "EV_EBITDA": 9.132,
+    "EV_EBITDA": 9.379,
     "BuybackYield": null,
-    "PriceToFCF": 0.6074527148934158
+    "PriceToFCF": 0.6152867373823867
   },
   "technical_indicators": {
-    "RSI_14": 46.98231983259324,
-    "Momentum_10": -1.68038331166744,
-    "MACD": 0.0034393473545595,
-    "BB_Percent": 0.2295428406609027,
+    "RSI_14": 49.12086696317954,
+    "Momentum_10": 0.5878287546523775,
+    "MACD": 0.0760369048805369,
+    "BB_Percent": 0.3846109757002466,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347257429879728,
+    "ValueScore": 0.8930788451011442,
     "QualityScore": 0.2899466516836957,
-    "SignalScore": 0.6194452681408482
+    "SignalScore": 0.5838145490347832
   },
-  "volatility": 0.0286868613862041,
+  "volatility": 0.0287354938221519,
   "beta": 1.435,
-  "return_6m": -0.1764864454716886,
+  "return_6m": -0.1727203634569768,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "hold",
     "analyst_count": 13,
-    "target_mean_price": 15.07692
+    "target_mean_price": 15.17308
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 18.36
-      },
-      {
-        "date": "2024-12-10",
-        "price": 18.45
-      },
-      {
-        "date": "2024-12-11",
-        "price": 18.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 18.39
-      },
-      {
-        "date": "2024-12-13",
-        "price": 18.04
-      },
       {
         "date": "2024-12-16",
         "price": 18.09
@@ -537,37 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 14.39
+      },
+      {
+        "date": "2025-06-09",
+        "price": 14.68
+      },
+      {
+        "date": "2025-06-10",
+        "price": 14.81
+      },
+      {
+        "date": "2025-06-11",
+        "price": 15.07
+      },
+      {
+        "date": "2025-06-12",
+        "price": 14.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 14.53
       }
     ],
     "current_price_data": {
-      "price": 14.39,
-      "change": 0.15,
-      "percent_change": 1.05
+      "price": 14.53,
+      "change": -0.42,
+      "percent_change": -2.81
     }
   },
   "news_sentiment": {
-    "summary": "Invesco Ltd. (IVZ) a récemment annoncé des mouvements stratégiques significatifs, dont un programme de rachat d'actions de 1 milliard de dollars et un partenariat majeur avec Barings. Cela pourrait redéfinir sa stratégie de croissance. Cependant, la société a également interrompu les paiements mensuels garantis pour deux fiducies de revenus importants, ce qui pourrait susciter des inquiétudes parmi les investisseurs axés sur le revenu. Les investisseurs surveilleront de près les révélations clés du PDG lors de la conférence Bernstein, tandis que les mouvements importants des actionnaires institutionnels tels que Contravisory Investment Management et GAMMA Investing LLC soulignent un intérêt soutenu pour IVZ malgré certains défis récents.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "summary": "Invesco Ltd. (IVZ) a récemment enregistré une croissance significative de ses actifs, atteignant 1,94 billion de dollars avec des gains de marché de 70 milliards. Malgré cela, des questions subsistent quant à la sous-performance du titre dans le secteur financier. L'annonce d'une augmentation de 5,6% de ses actifs sous gestion en mai a été bien accueillie, mais les avis demeurent mitigés, avec des ajustements de prix cibles et des prévisions divergentes émanant de Goldman Sachs et Barclays. La communication à venir du PDG lors de la conférence Bernstein suscite de l'intérêt, offrant des perspectives clés pour les investisseurs.",
+    "sentiment_score": 0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Invesco Ltd. (NYSE:IVZ) Shares Acquired by Whipplewood Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1AwYk03NG1SdHBKQlV0V2dVa2p6Qkd5bWpRWFlrRE9IWl9RUHFROFdsczNfQVJmbk1RMHFxXzJuTjM1NVRfa1RsY0tha2I2TzE5ZFZGMkZENWpjdXFjNm5sVm1ZNnY4RG8zaDNtUVk5T1FMbjY0d3ItT3NjU3UtOXV6TU5YTFdISHZtaHAtTjdCYnREVlRLeDJWVUdDSkhVQ0JLU0hDdEFCQjJrVnhlQzdzYTVRZkFPc2xmZi1XdkVhZw?oc=5",
+        "title": "Invesco Ltd. (NYSE:IVZ) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTlFOUNFLWFyU0trWUJnZDAzWVFqUmV1UVVJeFdOMzRiNFlVUEU5N3A0M3huWXZMU3lUQjdxSk50RXgyY1k4VU1TdG1KV3RyZjFtSkNMaVFuVWwyb3NyYnAwbVJkNFFURFVNejBTUWlCVGQyYWNUSkxSLU5HU0JuWXVndl9zcVhoZzZqeER1emZPbTNBUWhTREJkOVBQQnJyX2ZIakY2RG03bGdONnpiU2ZFYzlQMVhGVkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Invesco Ltd (IVZ) Stock Forecasts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkhCLXF5T1RLZGFCVFN5Q0FvakIxcGtRZnhLT3dwZTY0ZnRlRjBxUG9RdnVJaEpjb2hwN3dtYzZWZlVjN2Q2ckJmYWdET0RDTThxQmFZODBzN1RqWmJtTUkyckV4Ykw5N3M2UUd2SEFzckk1czlpRnVHR2E4c2JvUWswOHlpOC04RjJxVg?oc=5",
-        "label": "NEUTRAL"
+        "title": "Latest: Invesco Assets Surge to $1.94T with $70B Market Gains, Strong QQQ Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDVmV3BKT0ZndWhHREpZdDlWamxOX1VmSHpXLVhnWmdvUkJ5UGQxcUV0T0dVLWRKbmtRUUxwZ2FuZEJVNTNqTTRPTFc4VHRDZW9NRm5rcjdVX2VqRW40TjF6MS1MUlRTaGNCbmFXR2FkVzZiUmpZMVY4QXY0cmZyM0J3N3o5Zi1EUWw3TGs4YlZUQi1QR1MzSEFYbWxHS0NnV3c?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Invesco CFO Set for Key Financial Insights Reveal at Morgan Stanley Conference 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVpyUmE4TVlaVU5yYVQtOER2bVlkeV9lcXh1ejZwVUVmc3VxZ21NZFAxLXVzNDZrRmNEQjl1eVVVbHVpTk4xdUtjUEstS0I0RTFIeFlwZThMVU9kZVJxaVpNU2xWblptUTBYTk9iTXYtVV9iUV9MLTlSbFpkcUZ5UnUya25zTDBGN0VKcmQwaXNHUDA3ZnplTFFiNmlraUs2aVV0LTR5RTM2cFZLLUowMmNRelN3aE1s?oc=5",
+        "title": "Goldman Sachs Maintains Neutral Rating on Invesco (IVZ) with Increased Price Target | IVZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTFEwMGNVX19VTGljNzZRRW43Y2JwbHVnS2lIdEFTaE5XejQyRk1oa3RiRm1SMGZOUXR1Tkd5VTBPTE1rSUg4bHZFVFFMVHdWOWdEc1B4UmJyOUVGXzljZjFnMEZhanY2RzZMWGZxRFVBMDhjSjBpOW1JUW85bF9BSENlN2JrY25DVEdfd193YnpDVHZhT0ZKZ1diclRFUW1tUVNXd2xQNlZ4MDljckZpMVhTTU9hVmFEY3N1cExrVlpSMHdabEJVX1VlY19wZzZiM2xjN2hEaEc5VEdLMlFsMmJRWjZnUzdXU0MzbG9BdDRoVDZWX29kMHFpU3VwTGVX?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,39 +576,44 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "(IVZ) Long Term Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkU2QWN3ckV3TU0zV0xfb2x6Q1phTGphZ2dETklKQzRzSjZaR3JLNWY1VVZFVHhuTmgwbk95V3UxaTkzNGpnRmpaaGdhbkpFcS1zSWdoZ2tuZjJsd3dSZFRiMm5QSXZQM3Y2WTRrQkVHZWhXck4yTElkZ01HVTZ5MHpyUXZtalZzcktVUHEtTE9lNU5jeDF6SmUxaU5HSmhiLW8waFRDLW12ekdy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. to Participate in the Morgan Stanley U.S. Financials Conference | IVZ Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWRKLWc4UFVZemg3UldpSGNBQUlEOGxfcjVJZnRFQnhTWmQtZnNpQ1cyVU9ENHZna2EwMFJpdTgteXlGQTBNSUdVTU1EYklRY1VGUTRWRlREVWVXMDUwaFdFR2JFZ0Mya2JwN1BsTTRQbzVJZTVIY1hTT1U0R1NCS0NlY0FaTTBTZ2VrQ214bHBaR2hYYmdtSlN2YWJvLTk2eHg0MS1LTFE4NjJ1X2lsbWVwT0tOU1pJVFI0OHpqODFtRTE4U3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "REG - IVZ II 2030 USD D $ - Net Asset Value(s) - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEc5TmdWUUh4eHRrOVZCQVFYNWRvUEF2RUJKVWt2LVBMTzhraHZpT3lybnZzOWhBVEVYTFl6SkIzd3ZZbGo4dmplWjNwYzdfM3hFVHJMMnZYY3RxNlVlVkM3OVhXWG5HWGRtcDUteUJwWFdmLTdOeUo0R2NNVWxEWm45MXRkMUVZdFFiVmtvSGZmeG5HbUR5THlUYjdfQ3JTcWF1cktHc2Z2dE5ZSjFJWWdtOVNKZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Contravisory Investment Management Inc. Buys Shares of 46,795 Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd3VObjltc3JxRWpueHBJR2h1bzhkMVlNTEpTSV94NVhHdTlTWlBNQlVmcS1vcW9xaTNOeVU5bkRjVlZ6cjBqT3lkMG1FMmZFSUJzUUJUXzZ2ZTZtdktlWFltRHppRWtPdmN3VU9QLXVWbEJqdTZYZHRqZWZZcVFuSjJ1eEMzQVVCZDhNTk5INnVhcGtJVUZSU0JVU3JZc0o3S2ZaS2pNNkgxVmdUNTFSVnctTTRGM282Q3pwd0lZd0l5VnFhbThQS3BGU2ptVm53RE5rSDBpZWoySmRYcnBZSWFnbUk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Strikes Dual Power Move: $1B Stock Repurchase Plus Major Barings Partnership Reshapes Growth Strategy - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0VqV1c1ZXhiZ0xwQXhYYlNuY3diRDc4Yk1mLXpISGJmN19ReGRta1NTZ3pSaU1tMFJYVG1ERXN2dmdPSkFXQ3RCd2dkYXFNMWZjaXRsYTVteU5ldnVaVmdQUThzTldyTE50MDNxckwwa0VHVHpnYzZtZWdOTTc0TTUwR2p1djJMaUhqa25rNm8yZEpxU3JDZ3RZZUxzNkNjZ3JiRnFFb2ZjdnhIbUVCN3ZGRnNMMloyX3ZhMUNB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Is Invesco Ltd. (IVZ) the Cheap Asset Management Stock to Buy Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JN05iSTRtWlV3VUVpRFdXUUp2cTBYTzJXbi1VYk1seWZjcXZTYVhlODk4Q3Z3a2lRSTMtWnoyMFVXcEw2ZXVBbm1mcTVCbGFmY2IweTJiaDRqb3UtWDJyRmd3b3o2VFoyX0RjYnhKTFdaeU5wWGZCbUZKSHBDQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GTS Securities LLC Reduces Position in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeURtc0pqWFZyUm0yVE5hTll2T0lybVVnLVBfYXVmU09FdlFkM2lUWTFkd2hEUHRHeldwTkJNbkJvbzMxYmliWkFVUVhwcUtzMllwcmVxZ3ZnY3FVenAwMnlfVWs2NV9BYnBfZEY2aHA0NkhVdUF6ZUZDZmlFdEVWWU15eTRDdHVrVjh1TkplbUxTS3ItN3VDVGh6WllqVHl1Z2xfeVplemlHWWs1UHQ2dU5sNUoxLTViUTF3bjZB?oc=5",
-        "label": "NEGATIVE"
+        "title": "REG - IVZ Financl US£ - Net Asset Value(s) - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEJveDNPNFlqWTFMVElvUFQ4dUU3YXpsWkpGSXhuVEhybHJfSjJESlp2WnNGNm5fTGJuODJRUjM2LUtjeXdCcE5IYkdmMGNmc3BZNlB3QzVrT1E4NDFKZWtuTFlSUzdEMmczcWdoR1lacEVrVTdyMVdKUFhOb2J5SGNFWlhONW15SzlsaVN1YlZHOU4zVkJDV0FBRWlNa0ItYkxxdDNlbGNiTzNpaTJpZTZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealthcare Capital Management LLC Sells 33,000 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0lfcWd0eU92LXNpYXdKeUxLRHJUZlVNT3lxMjhGNlRVaXJFY0ItR1JUdHptZDNPY2xsTUQ5RGNxY1FsNVdETWoyTmpxUG1raWdEWjRFQzIzWlhObmZCd19CU1FkcWtMUEJIMk1iMm1MdHhSZXhvSWNweEhjczBSSUk5a19FNU9OTE9KWk1GZFpmdE1ld2lubjY3ZlZBemRVN2pJZlMtMnpTZEpfY2F6RV8zYW5ycXdWNkdaRXRXWE03SGpYMFNkNXNURzRPd0FSLW40Yk1KMHFhZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invesco Reports 5.6% Increase in May AUM to $1.94 Trillion - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUxQWU85ZTI2MmlfMWh4UDY1MWhQMmhRMjNwVlBYaWtBQ3R1ZXpXM0NkNTZMNTRCSE1XOEtlNEd3eW53YnEtSWRuakdQREJWbEVNLVA4MUxFWWV0dTNtVnctTmhJLUljNFU4UEdTSFR1NmFMNVVFTWwtczZ2S012dW9aWUdiQkltQmxyeU5MUTJPV3lNSXctcEloLUVrdjIzMDBySTZKWU9Fei1z?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Global Investment Outlook 2025: Invesco Reveals Major Shift in World Markets and Where to Invest Now - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMG9UNU03Y2Jyb19ZY3VJYnRMblRKSmF5U3hfZTZSVzVjbS1UVU9pZGgtbmZDQkdycTVyNnBJUHBxR1NBOWFDdld3ODRxbTdpZ0Vyc3Z3SmtreVBqRFVVaElrYm9jWHdHT2hDV1RCSDVsT3JWU3ppWkhkMEtYY2ZMWVdQX25WLWtoUkFBTFN0MWs3WEJyUzZ5ZG5kOVlsbjNQdUp0MVM2WXU3WlU0dk5aTkV0bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invesco Ltd (IVZ) Stock Price Up 3.02% on Jun 9 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnpTZWhVbmVKa2xzV1VhNWsyUXRNS2ZoSXhNd2c5T0tSNC15RkFiSHJnVklaXzNveUR4LXlwQ3RVcmJULVNtdjc2NzBDUE5lVVdqWlpVQWtpZS1VR1dmcnpkUWVnUk9fRHVzeVUyTDlCbDJsNVlrcFFuNkZOTEVaZG1QVi1JbEE5aUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hennion & Walsh Asset Management Inc. Sells 25,565 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3hfYXZHVGtScXFvTDJhTmVGQldkOXRrWGlXcjNyUVdmcWFUS0pzc1BQVmpmbDJVWms3OVRUMmVkOTdscEJ2ckhTb3V0RFZsNFl3OGtkdmhJWWFuWVVIVGpLQmVwamF3el9CTkFxVy00SHg2SkwzSGlXYnpZN1pLVFlRUXk2NGJZRDlKMk1KSDc3alhBQm4tQWZWTE5GWXpHMXFLR2tOM3hlalZBbmxlR1JvbFUwQWZJdWxuWGdGclIybW13YUdXTUt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invesco releases 2025 Midyear Investment Outlook \"The Global Reset\" | IVZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEw3am5iYkZKeUt2b3ZjZ2d3SHN5UDFiaHB1MHhLdURqWFZlMHFSaTFKVG1WeTJoQnpRNGVPZGNyR2QtSjFWaXNrbUk2OHNoRnphMDh1R3dPZVZqcnVVRmxNRWpTclpFTk9Tci1xbGV6Qk95TzByaTFCUXJVRC1UMjBsRnRuRUhkQXZEWmFjZmlndEJCeVR4bWYyLXRZWnZIeWE1X1FVS2Y5bGdMbVJpdWNqZHpmWDMxRUF5Vw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Invesco CEO Set to Reveal Strategic Vision at Elite Bernstein Conference: Key Insights Coming May 29 - Stock Titan",
@@ -616,46 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Invesco Ltd. (IVZ): Among Billionaire Nelson Peltz’s Stock Picks with Highest Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMS1xM2haOTd0bmNLWGZkZmhUZlYzUFdwSy1GRWZYU1AxWmh1c2VqT0NWUzNIdG1HaGFtRXdNMi03ZEdqdFhpdEJ6LUR1VkhOQTByRDVteUJwdnE1QzVyT2tuLU1qSzRnRXJsbXZKei1TZDhnaS1pMVU0bDNnamJnbzV5TkU5QQ?oc=5",
+        "title": "Barclays Forecasts Strong Price Appreciation for Invesco (NYSE:IVZ) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkhxWW5CanhrMGplbHYwZkdiU2RjQV9pSURBZ0Vmdk5fLTBLb29WRnNYSlptNTYyY2xrNGw5d0lWVVRGcnRDZWhXcWFMQnVZLTkwM09wN3IyeUR1Z2dETU1pMWlITFJ1ZlpLQXE4cW5Vb0VjNjRoZWdUTDBKaHZCbWtoWk1qN1UwZ1ZYeWFtbVBmOFdVazBEWjhIS29xc1BSSDk4bjRwOGp3QQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "GAMMA Investing LLC Has $52.05 Million Position in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVZsNXpSOFlnTHpqZGxWSDNRRERtaVJIWFNKb3dsb0J0czFDWjhSTGJXQkliVldNX0JHeWE2YWc1REs5YVZVN3czcDdRdjd2T3U4U0NzaHZxLUVVRDlzcFVaOTlkbWZoT2liX3N0dDJuMHhxSG1ubmhyc2ZUa0c4YmN1SjlMVjRRRjVuRGt6XzNjMUY3MDJBX05iMlFLLXZDN3lJUTJXbExtVi1ya1F2SjdBbkRpaUk?oc=5",
+        "title": "Barclays Raises Price Target for IVZ While Maintaining Rating | IVZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcEEyem5LVlh0dTVkWnRJRDZDVG82MFkwS3pENGloem5sMlJQQzlocVBQU2drZzFfVnRqTW1KRzNHb3Q4Qk56SVYyZk52NUJaY1ZMSmY0QV95MjlYZERzVEhFZmJzWUxCUldFR0xUYjNPWjBNMHNaOWY1QXR1OXJReUhhOEQtbWUyVEVsNTBxYWdLd2hwX0d2NWRZd2liT1FRNnVWLWtSVVI5eWRORWtlQmF1NGVnaU0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Invesco Ltd. Announces April 30, 2025 Assets Under Management - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWtnNDdfYkE0QmszMEpwMXVqRnB2d3gwd0pKRW1ucVZoVTJlWlVnZWM3OGNvc1Q1TThJYWRKUkdmYmJoWTd5Mjh0UTQxd0JTZlRsTnpWalhtZnRhTjNMUEdXRzNkdEJ0ajgwUFZTWlY5bEJRX1RNdVQyM2pTZDYxZFRXN0MyNWpmSXdLNVBFV1ZHd085SzFEWnJWLXZMejVBcWhCeA?oc=5",
+        "title": "Invesco CFO Set for Key Financial Insights Reveal at Morgan Stanley Conference 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVpyUmE4TVlaVU5yYVQtOER2bVlkeV9lcXh1ejZwVUVmc3VxZ21NZFAxLXVzNDZrRmNEQjl1eVVVbHVpTk4xdUtjUEstS0I0RTFIeFlwZThMVU9kZVJxaVpNU2xWblptUTBYTk9iTXYtVV9iUV9MLTlSbFpkcUZ5UnUya25zTDBGN0VKcmQwaXNHUDA3ZnplTFFiNmlraUs2aVV0LTR5RTM2cFZLLUowMmNRelN3aE1s?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Has $7.53 Million Holdings in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Z1UzY1ek1qaGtWXy1xalBjVHo5NnhSTFAtUVBOUUM5ZzI2dmJrSzBCd0wzUElKOEFVR1piMEV3ZkszMmVYTHdoSm1GQ2xnZzRKVktHRXlxNWhjSXpVdUl6NEZwTFNpSzFXTm01MWgxdlBnRVlPaldqSDZmUldvQ1hWQWhBOEQ1ZDd6RGNrSzE4d3NNMFN5dzVFU241czZyQ0o3SUVnQ0xOblM5WGRkc1pUMDF1SW9ZTzJadHVR?oc=5",
+        "title": "Barclays Adjusts Price Target for Invesco (IVZ) to $15 | IVZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUVyc2JhRG9uUmgzM2xndGFoTmNIbEgxcFNXaFE5S2dEeHZHSVVYX2ZaQ2V4cUpWdXY5UFprVzkxd2hwVko5anVhY29hSTFQTVRXSWVUaU9ETmxWZHhNbGtFRWdyYjJiWE5tWWlJWUJXT0EwLVpVVHhOb1paMFlXdDdOcDd3bzNzeWdnWmRYaGY1a2M3akNJTTNPejV1ZWN1aFpTM19ORE0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Invesco Halts Guaranteed Monthly Payouts for Two Major Income Trusts - What Investors Should Watch - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmJpWmRTM0Z5M3RPSzktczlDa1F5UTNobzdldENKYTV1MHVVU2RRdWFCY0Y5RDhvZzhZeFMwNGJOS2t4U21PNEdNMkxqT2EwYVNnbXBON20wcUVFYnZwOXM2ZWZtMWdfNjFoRGVHSTRhbHFRQk5USnhjdmtPQnBLTy1PZHBoNF9qUEF0NHI4QXlIZDgzeS1BRlJLN0VTelRxWTQ5TjFDVWM5bnEzVWd0aVRCTXl2RmRCM0k1RQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $3.30 Million in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeUsxZ1JvRmJDLWRmc01UaFFfV3VlMWdLYVNoVUpXWTd4a29CWlpFOW1IOFVzSHc5bTRKSXJ1VU9NM29XSWp5WDhrckMyQktuMF9IbEM2eFJsWUdIR3FPUlFjZmFoREx4RFM1WlN0TTVUblEwaHl2QWNHOEpOSDdjSTFrNUo5dU51T2RNUUIzRmNZT1BxNm80TnV5V01LN3NtMklkd2llaGFYLUd1MXVrNGZOT1ltVlNSWTAyUFhGR2EwdkNYOEtGelZnOGxydVU2RVEtUEZvX3FLSFVsUzIxYjc2MA?oc=5",
+        "title": "Tounjian Advisory Partners LLC Purchases New Shares in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1hXVTE2ZG9KQmp5cDdSM0NmRzVxNkgyUmg5MGMxbDRvZG1VOXBDQThIZVFfVGZjM1FPUGxsN0VVQ1VHNDY4REdOTy1BTjVZdGo4SlZSSUJEOTM2M2NBeEx2UDRtMHZZRnI0ZGthWl9ZQ0k1WU9MNms3NlZhWm1rT1FKWVBHYWVMTHY4aVN0U19kZVp5bUhQVkJZYXlXZmozMjhWY2g3WC1qZm9NbUprUkEwTzNSaHJKeFRnTi1fQVgzel9td29XN3MwQnNSOTk1?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Increases Position in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMHVyb0pxS0o0TzU2UUlxSEVBUnVJTkVfNHRzV0xJNzFsRlUzSlhPWlhoWGdHQ19DYmt6YWVKRG9FRmxhcFMxZjV1cGpfNDlvY1QwYjlTTEZRUGJ4eDdKYXFLdGY3OXdBbXBFSnR5YzEwZlVoeTFBR1JsM1JfZXNXTHlYYU0xTElpMzFqcUlDb3I5RXViM2dCd0lfTlF5U0xDakJfSkVtWXZjcnBuTG12eDR1LXRiNXBadV9wcFdBUTFwT0h4aWVKRncyR2R2R1o4MEctN0gtRzdfYTA?oc=5",
+        "title": "Invesco (IVZ) Sees Notable Growth in Assets Under Management | I - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGJhdVhoTlBZZ3JMa1lOdU1qX0s3WU1CUGFqaFZZQ0dLejNGOHhQUm81dW5wRTdrUmdOaV94NHB2VVJrSlJ4T2p3bUIwdWVCUHYwY0o2S0xSZmRORDh5WTJfaWFuUWYzRVE1SE5jSC1SZkIyZkVoRmhlaWhsaUNaWDR3bF92a0p0Y0Voc0FZYU9tNU9iZlFzSTRjMHo4WjZQaVdUWm9nZWcxVkR6QjFwa3ln?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Mackenzie Financial Corp Raises Stake in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWFWMV9McHp0QnNtMGFJSVBTaEU4d0VqRTRObHI4UXRfSmZBaGFPeDMzTTJrYVowakV1SHlpZDZVcFZocUpCVjdOempjMEJvMi01ZkFuenNwUVNlRGZjQTBlOElaZzdvbE9DdmRFYWlJTzIxbG9Td2ZpeU9IekZrVzNDNUJ1aU1fLWltWkZXR0djWDJ1VG1UY1NheVZyalV3UzN2QU5vRzVQX0h3TW1nOTNrN3lEdllMYTltai1LdWFXWGVRdmc?oc=5",
-        "label": "NEUTRAL"
+        "title": "The Goldman Sachs Group Forecasts Strong Price Appreciation for Invesco (NYSE:IVZ) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcGFmWnJERkxOcGhqcE12R1prRW5QODN3MGVGR2FwLVYtb3JYdERXZGFRbWhXZ2stMW9RNGhaNmNtV1JqNU9HRjB5a2xLX0lSb21RWWZNT25Uc3d2bVlSS1JwM1R4dXJ2VVNTS19fOTU0UmlyVkxlVENXbjQ2ZU4tTHEwX3VvZTlPS2E4cGJ0eTVGVUlIeU9NVFd1My1rUjl0R2FkZjhwUFNUbUZmejZnRU1KME51ODBJZ0N3SGhFSm10VjI5VERPMnQ4b09BdnhoR2RRbTVB?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

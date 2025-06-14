@@ -2,16 +2,16 @@
   "ticker": "NOC",
   "name": "Northrop Grumman",
   "sector": "Industrials",
-  "market_cap": 70277160960.0,
+  "market_cap": 74433798144.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.276747,
-    "PB": 4.6948195,
-    "EV_Revenue": 2.148,
+    "PE": 20.400787,
+    "PB": 4.972501,
+    "EV_Revenue": 2.18,
     "ROE": 0.25412,
     "ProfitMargin": 0.09193,
     "GrossMargin": 0.19344999,
-    "DividendYield": 1.89,
+    "DividendYield": 1.86,
     "DebtEquity": 120.969,
     "CurrentRatio": 0.95,
     "QuickRatio": 0.741,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.07213014799194234,
     "ROA": 0.06404,
     "PEG": null,
-    "EV_EBITDA": 13.672,
+    "EV_EBITDA": 13.877,
     "BuybackYield": null,
-    "PriceToFCF": 24.155981397259353
+    "PriceToFCF": 25.541504883540327
   },
   "technical_indicators": {
-    "RSI_14": 56.18265818521449,
-    "Momentum_10": 3.819026872493677,
-    "MACD": 0.9777214298147784,
-    "BB_Percent": 0.8538396990707754,
+    "RSI_14": 71.99538679869514,
+    "Momentum_10": 7.179866671718561,
+    "MACD": 5.0670144759805,
+    "BB_Percent": 1.228621009055295,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9316483689382974,
+    "ValueScore": 0.8889989061077577,
     "QualityScore": 0.4159958785627586,
-    "SignalScore": 0.5226145687991579
+    "SignalScore": 0.4395892082176885
   },
-  "volatility": 0.0197675827401689,
+  "volatility": 0.0200842796147899,
   "beta": 0.144,
-  "return_6m": 0.0404656329744173,
+  "return_6m": 0.0875318775445406,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 479.17
-      },
-      {
-        "date": "2024-12-10",
-        "price": 480.18
-      },
-      {
-        "date": "2024-12-11",
-        "price": 475.62
-      },
-      {
-        "date": "2024-12-12",
-        "price": 481.51
-      },
-      {
-        "date": "2024-12-13",
-        "price": 480.0
-      },
       {
         "date": "2024-12-16",
         "price": 482.6
@@ -537,53 +517,73 @@
       {
         "date": "2025-06-06",
         "price": 489.41
+      },
+      {
+        "date": "2025-06-09",
+        "price": 491.36
+      },
+      {
+        "date": "2025-06-10",
+        "price": 488.8
+      },
+      {
+        "date": "2025-06-11",
+        "price": 488.46
+      },
+      {
+        "date": "2025-06-12",
+        "price": 497.13
+      },
+      {
+        "date": "2025-06-13",
+        "price": 516.72
       }
     ],
     "current_price_data": {
-      "price": 489.41,
-      "change": 1.26,
-      "percent_change": 0.26
+      "price": 516.72,
+      "change": 19.59,
+      "percent_change": 3.94
     }
   },
   "news_sentiment": {
-    "summary": "Northrop Grumman Corporation (NOC) a récemment vu une série d'activités d'achat et de vente d'actions par des initiés et des investisseurs institutionnels. Malgré des tests positifs et des milestones atteints dans les essais de moteurs de fusée, l'opinion des analystes est mitigée quant à la performance boursière de NOC par rapport au S&P 500. Alors que la société a augmenté son dividende, certains estiment que le titre reste trop cher. Les mouvements récents d'achat et de vente d'actions par différentes entités soulignent une certaine volatilité autour de NOC.",
-    "sentiment_score": 0.25,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
+    "summary": "Northrop Grumman Corporation (NOC) a vu son action grimper de plus de 3% récemment, soutenue par un rallye puissant. L'entreprise a levé 1 milliard de dollars dans le cadre d'une émission obligataire stratégique pour refinancer sa dette et financer des rachats d'actions. Cependant, des signaux de risque ont été détectés, notamment la vente d'actions par des initiés et des prévisions pessimistes sur les bénéfices de Zacks Research. Malgré ces éléments, des investisseurs institutionnels continuent d'ajuster leurs positions sur NOC, avec des achats et des ventes notables signalant une certaine volatilité.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Procyon Advisors LLC Buys 2,580 Shares of Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblVTYnJpVUk4ejJ6S3NwN0pneGFzOW52XzBicnd5RVpGM1FxSnBGRWkyTEFYNklSYW4tZ1ZraGpCeVZaV0pVTl9BUVVydkFrNzBFQ1d1cEVmbm8yMFB3SWVBak9OclpncTgzYl9WNFoyenNjMDREcFdjTmVwU2tvblRScXhSb1dVR1dqYWxhSk9GTUUtWFhHWDFNNFZKbFBFVUlzWUtHUExFRUd3T2YyR0ktWm9QUF9uaVBSUm5lSkN1UGZ4Ykl6Sw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sale: CVP & Pres. Mission Systems of $NOC Sells 991 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMHFvWTdrTkd6SlB2U19IZXR6c0hTel9PVnl4TWxIMFJCSDJZY3p2NjQ5YjEyS0wydVZTVGNscmN4bVdfSTF0ZnNSOWFmUnR4RWdmZmt3dWpZck5HaU5KUmctSVlpYkVPc3pQYVZOMXVLV0tYUkRLZ19ia2l6THAwYlZERlhJYXlsNnJkQmRmWUJMTnNi?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RTX and Northrop Grumman's New Missile Defense System Outperforms Legacy Interceptors in Critical Tests - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWcteElLbURHLUNEbnNtUWlPUjlNSWlfTHlvcjNpb0FoVXEtMzBRSHlyblFfdi1rNXJoR0haQUdyM0xYWXlvMWExZG5DZlZDcHNydVY4NUZFX2RqUWc2c1ppRmZ1SE5YWk1KRkx1dU1uVUFXNGF4SzlheXpUMzcyTWFvdWJhbVFmNlFpYjNsYl81UmRMTzZLSV94cElYTXhxWUI5Vmxyc25QMWVaQVNRR0VTRkJmX3Y2YTBLQnR5VQ?oc=5",
+        "title": "$NOC stock is up 3% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUEyNnZKR05FNmxDYmNmN1lYVGtINjFqMnZQMzdBZVBDMFNudEpRMFJ6azdSTUM2UzZ2UEVwVi15SnhwUVZyNldBckpnd3BLb2NJTUFPVGctaVZsOWVyV1MtbmMyNTJZRmVld3lxYzhFbDhqRnNzQlB1RXRrRk1ndWJ3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Jim Cramer Says Northrop Grumman Corporation (NOC) Is ‘Nothing Short of Catastrophic’ - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGRCeEpEby1DczRrTEhjcXdMaHBRcl9ocHVMQXYwdXVNNFRLYi1Xa3RjWkgxQTFTZ1JXUWthNkZXbWQ3bHk0Q1pCWVRDQklYNmNrR2M3ejJMMGppeGxCWGNSNVo4WEExRWZnQUNaU3M2VTNLOF9GcFVlVWRwNkFQVmlOeU0?oc=5",
+        "title": "Kathy J. Warden Sells 3,750 Shares of Northrop Grumman Co. (NYSE:NOC) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObE04dGtSWnRBQThWYldURktmYnlxQ0JpcDJpZ09LWm0zSjFBMWhTNHJQSFlfSklaUm9HRGh5UVE4aklpZEVOeGJFaDZ1TGpGWWpTVWExeTNWREF6S0VReEUzTE43YmI0SG1wLUtGMXJQNWdIRlRKS3ZJUkNmcDZEVmJQdmNrMlJqY0hlb2xTRWk5MzA5ZUppRFNfZnVJSXl3NmgyV3RxMzVxbHR3cm9aNkFZVUxPSWc1bXRmMW5jS1A?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman (NOC) Achieves Milestone in Rocket Motor Tests | NOC Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcElaM2tQVGFWX0xDM2s4OHR4NnVmNzIwejQ5cUNrc2NCWXhlYVdhekEyUFF1NGVvaXd5WDZwalh0QUpsTFVUTXVVSVN3cDcwRklSVU5PN3hOeDVfZGFEbWxpUkpGcHV0Rm5jaGFnemQ0V3NCNXpUdVB1VmViNUoya3hDd0RJU2FsMmM3aE1jSldsbWFiTTlzUTZUcWdoVXNBS2VDRzVqU1NvR3RTLW0tSmRyT3FjQQ?oc=5",
+        "title": "Northrop Grumman Corp (NOC) Shares Up 3.32% on Jun 13 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlFyRXpIcVR2NlVqRlNyU2N5Z19Nd2dDVFNhT1RMbjhFY20tR3BneTZfMHRDR3BmbWdHRnc4SzhHMEttQm1aclJTaFpnS3JBQ182Q3RnemM4WkNSN1hPXzgwUF9RdHJOVThWdk9jY2ZmM2Fka0lZcE9lRXJhWGt1ejg2YUpLVENTV09GOUE4Um1jZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Northrop Grumman Stock Soars Over 3% as Powerful Rally Continues - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2ZaUWJ2U1N3dS15LVZ3RWZHRnV0VkwxN1RmMmlwWkpfMjN0UUd2WDAzXzBON1dOcDM3VDh6Y01DZXNla0wwTjJ6eDl5NVVNclJGeG52dExEUjdzd1dtTnZqb1dTNmg2MURTYlNESFJIRzhRWGNoRWlxb2VFelNXeTl4cncxb2hmUnJvR3BzbzFfa0x1MFpDUkRaVDV1X0ZmdHJIN3VjQjRGc0Jm?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Northrop Grumman Stock Underperforming the S&P 500? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTFHT2N5ZFlTMUNfWjlwV2prMXp3T195RzRFb3AzUi1IbS0tdFNzOWtBOTdQWDJRREMwLVR0TW1yWWEzRmptMWY3WUo4bmlzaXI3Uy0tYW9QSFZDZkFFYzFtanl2NUNYX1pOblcxUG1LOHdKaGE0UTQ3LWxSdU4yNmpSSElrbVhnNThwMnZ4dnVMbWR3ZUVjWndUZzZ6ZER2d2FBa2M0UW9qNUtwY1BQRkVlUlhQSm9hSmo2ak9USGJDWmFqNDJWTjJ5Vm5VU1VxS1pwc1NB?oc=5",
+        "title": "Stocks making the biggest moves premarket: Chevron, United Airlines, Northrop Grumman, RH and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjl4eVNhS3pDYkRISktxWHdnN0VKaU4tXzJ1cl9fSlhJTDFRN1Ezbzd5bHdVRmREeWlGcG1lbE1TamxCZ0RXdFBZREpjWXZCOEhQYk4wVG1aV3dpV1dXTkE2OUNldVdvYkNBOUgzUmFNSVBXSENCQi1zcTZ3c2JxMW9ZTENoSG1vRS1BX2k3eHhYMzdEZldpYXdHZmsxMkdhSkxhWA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Northrop Grumman Raises $1 Billion in Strategic Bond Sale to Refinance Debt and Fund Buybacks - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXhPVUFTNF9IQUtpTmJtQkxCSWtfcHBwUjdfMXlWVHlTbmJQOGVnWWV5UFdGOXVhdnF4a3Nad1Jjd09FMXRQOTdhYWVEaW9nQjZ0NDdXQnE1eEtINEJzbVVzbEVOSU4yeTMtUUs2ZTUxSS1SbWRfRjc2ZDY1ZzZMNVRGVGhOelpoM0ZyM3d1aXRpSWQxdGtBSlZR?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Northrop Grumman Corporation's (NYSE:NOC) Share Price Could Signal Some Risk - simplywall.st",
@@ -591,71 +591,71 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman raises dividend to $2.31 per share - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVVhUE1PZEpXU29FMFVYRzFON0xVRU11TVRrZWk3SFprSklNZ25SOXJlcHpRbjRJYUExNGd5Y2Nnd01MbWMySkVMZjdNRWs4aU1ZMUYwNWFtZ0loa0Z2bmprc3dZYmUyVDhHNDJFNjlJNVZMTG5sTTNidWJRT1ZxODFVSWk1VHp3ZDdDRWlPTnZtV3UyaVY4UjhjWGVvWjhpTUc1cWpuOVMxdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Northrop Grumman: Solid, But Still Too Expensive (NYSE:NOC) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0I0WWpGemlCdUs2UXljeTV3Y25GUThJVmw1X1lnYTRmb2JaVVZmRDBkUjJoSVRBUHowZ1Rvck02eHdCSm9uSnhoMUZMemFaTDlYekQ2SHVmeXZlSkN3WG9iYTE2ZXE4Mm8xWnljeDd5d3g2TXlkNlVVQmxPZmcwaE90c20zYzBQWEstTWJNV2U?oc=5",
+        "title": "Northrop's EW Suite Achieves New Milestone: Time to Buy the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjhsSHdNQ0ZCR1Y5cjJUcWNMdmlwRmtWZjQtLXlsa1RNeGl4RHFuOHdnRGNDald2UkFjY2JNOERLVzhWQ2g2Ty1wSVpBSXJEdEFOaDY2aEtWUjR0NmtDZS0zLXV1Z09rQTV1ZE4xbVdzSG5JeHNkYUltcWdHVWZiUHNSUmpOZHdzbW4w?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "LMT Vs. RTX Vs. NOC: One Of These 'Golden Dome' Defense Stocks Is About To Make A Golden Cross - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVZlREVIVGJWUnNQNzFWQi1ITW5zaVRZbUdiZHBkQnlNYURfRGV6ZkR0ZEQ3VGJYNkt1UGFjaDJxZ09EcHJqa0RpOWZXcC1WaDhTWmZlVHdndi1paEdQbW9lbnhZMUtfdWNveEtyR3VzWDN3UVFEWGxuZlZ5WFRrTEJSei1aRVBLRXI1X0lhZm5DcHNYZEVQR1RvRldqbFhQdW9XcFoxYVVWckFxNUxpTHdGbGQ5ZVZqaHVyd2tkYWhiSnl4bTZIWnZSZWhXMTZQd3Q3NFJEQk9hZThwanN6S1RQNEpQclUwVUE?oc=5",
+        "title": "Northrop Grumman Co. (NYSE:NOC) CEO Kathy J. Warden Sells 7,500 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ29kRVRGQmR5X0FVTTZqUlR5UFVTNmhjR1hEMTh6b0JWOGxDQlRoNFJaNnRFUlBUdGxITDE2MVZ4MkFZNm9tYmxpb1F4MHpwY1h0QWdoRXlzejh0LThuSVNYdkxLVHlsR2xhOEZiaS1OQmZoaEpMRXMwRl9YMmRpdUxYN3NPc3lmYUlJLWVFTkQ0TWhRelY1alZlVWc2UWIzNTROdFBScjVaRVBaYTRpZjB0aFFSczlaTWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman Co. (NYSE:NOC) Shares Bought by Intellectus Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjNYcW1zRzFRRzlqLU8zRzRjamxIYldzcXZtaTlrYU5zVnV0NmRpcFlCU1RLSHN0UzZpQmVpMkZCZlFEMS15Y0xqcGswSUo1aXM3MnFzbkFBS0UxcWFQUDhIRy0wTE8ya2lZRXljUXF2UVdHVXY0XzlaS1p5UThuRU9ISEdUSVZfR21lcl9fbXNnRTB3U2VMVV9McVlIOTRuVzZ3VXJ5ZlFldTJUV3dibWFnNVlhUEZYRksxZUprN0R6bHhsRTA0aTlB?oc=5",
+        "title": "Yousif Capital Management LLC Sells 1,053 Shares of Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFh6Mks1M2sxVmo3TElSdDMtTE1YSzM2bTc4TmRucmNsYzluR2FTX2hTbHd4RzZTRHNSV1luWXlianVhaXUwRzVFb0N3UVhmc3pQaHNHU1lWT3hWeGMwa096UmNnb0dvdTEycXpTVkpCRWQyb29md2RwV0YtQ0o1TDl6elBUczRRYmpIX0NOcEljekRoLVI4WFJqUW5GWW1EdE0xU0s0Uk4yUUQ2TURwY1NZOWMxaWJnR2RuUXVjX3E3RVJGdk9YVDBheUZGNVZsLWVaYzExTlh2SEN0QWtV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman CEO Kathy Warden to Reveal Strategic Insights at Major Defense Industry Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG8wcGQ4bDVkUnZNSXc1SFBMOEhxazFkWmlZS1ZBQ1d2WkhUb2JzWXBhQVBxcFppdF9tN2RteHhHMXNvS2NlSWd0bXdsWWhrQmVYVURybUNJOGMteTRCSnFXWDhHOTkwVE9DU2FWVkd1TEZ5LUxHUEdLR3hOdEYzN2lXa0hqckNEVWxZVGJhZW5DY2Z1VXBVVmlMMGV3UlZZTVRQSFo3dDJxeC05Z3ZyMVFTbDZuck44TVR3MFVXMA?oc=5",
+        "title": "Northrop Grumman Co. (NYSE:NOC) Shares Sold by Ferguson Wellman Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXRHcE0tWVVEVkJxZ2E2TlZOMlpFWDVJTVprUV9FeThYUGRabW1pelBrOFM2R29xcHllZ0FsamlYd3NCb2lZLXJEWGxKdERUMFptWVNDeGMzS1c4LXBxbzg0b1hpYlY2bW1TQUE4cHBNVW9NYlFHR2lYa3FTYS1VNjBNRG1XcElxZDBzZ1hPcmZyYTluUnQxYjBrakZmajR5dXVVOFN2RTVaNFN4M0p0SUl3c1g4RXFlN3haeDk5S3BZdFlNNnZkMTV4OEZJUTBGOFdTU2xFNXpyVUk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman (NYSE:NOC) Advances Rocket Motor Tests With Raytheon For U.S. Army's NGSRI - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZHUyRHNvSjhla01VVGR4a01JdDFRT3NKU1dua3pBbE1PUFpMX3BSZVN4Z1Fmb2hOR0pELWREM3VOYkVCeEZuZUZQWVZnaEdxVlplT1haLVRqbHJpSDVaRkdlX1lBcWV3TWJrRW5ibVN3cXJJWDY2cmVpdFAxMWZuTFNHZG5NekNZVlM5aENuRlkyZEk2V3Q1Yi1yamdnRzZhYXNWNlQtazF0cGhpT080Y3p4STRyWDJpTVlqN0licE9lQURUZmNPcnAtcml1NG5VMjY40gHYAUFVX3lxTE5wcl9iZVFUZThRZTJtTkUxaldSMXZua3lON1JjT2FnN1E4YW1Ca2NqSmVDcG5ZcFU0RVNjVVhvcks1SUlnUXFHam5zbUFjY2FSYS1Dc0Nmd2huZGFXTkFBNmY0N2gtcGhLUVVWQVQ0UFhNclJweXRFZ1lfWmpERFpCZlFZTUotaHlYbG1RNzRCTW1KZEViV2JYckc1RlZ6Q3ZFcy1wNUNhUDJ1UGlLUlk2Q0ZRTG5Jcmo2T2hRWEFIc3FTTnlGcWM1WjRHdGdiUXFabHdmRExQeQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Roshan S. Roeder Sells 991 Shares of Northrop Grumman Co. (NYSE:NOC) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUluYXpYRV96VU9wVW9tZ2JlZS03M29Xbl9ZMGdScVY2YW1tSzVwUFIxZ0g0X0dOdUVMZU9xT2QzNXRFdE5CNEx6TnIwLWxORDlJMTZMRHpFanhTQ1N0RGJpOGxaRTR2eVJSUE44bmhBRGV0cDVwMWl2WFZPaTAwdjRIaWhzX0JfbGFucmZaWWtNSEpvSldGQTkyU3RldEdtMllldjg3VGNEZ1JkZEtvUVRuYmFfbWdBRGNMemhUc2s?oc=5",
+        "title": "858 Shares in Northrop Grumman Co. (NYSE:NOC) Bought by Paragon Capital Management Ltd - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUlBenVJOS11MDJwSS1CYkl1cEhYU04wLWtWakFXc0RDUmJvMFJUZDROUEJLb3JuaXYxdzBHb1pBOEUxZmozazF5RVh2Zm14WHdPTUhnZlFkZWJobnV4MklBM3ZnMFJPdTZDdm5MS1hqQjlzV0lFelZMZE52VGJyVWlKejNkbmNMTHpXS2JmTGVtRm5seWtRQllrekxyeHh4a2laU3ZaUVRodnNDcjlJSDRsTi1QYVV3OXgtZkw4bzNKZTllNmRGTEVCSmNEZzFtbHhUTkI4MTBHVTg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Charles Schwab Trust Co Acquires New Position in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2IzSHJFT0hBZ0wwb0V5dC15MjBuVHNmc1J6bUROd0FDNkdDMlEyR2RiUGttX0hYdmZIQUFBNlN1R0pkMzBYVjlxY3A0QUFVZk1YVUNtWGgxRlFldE1Va2NWMkhkc09TZ2J0Q3ozc2lrLWUyWXhPZTE3dHY0anExeFNnbkRNYjdoVm9DVkx5elBwWnNuakNtR2NjSmJmbW5TOW1LbkE0WWczbzF5c09WamNYdmhEMHBHei1xNnZFM1laeUpEZUJSU2NfSmN3RURBelo4?oc=5",
+        "title": "Simon Quick Advisors LLC Grows Holdings in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdF9pcEdwR215ekNkcHhUR3l1R2dlWWJIVHNidzE0cUk3RC1kNC03aG4tdTdwOFk3YU90TzhJUmNLdHAxaTRCRUJ1SlRKZC1aQ0pKVUFxZTZsenN4T0dPNjRhRGNRU2cwM0htWlRJck1GMUtyZVBsUHpoWmxKRUVyb0tUNTVmZkJiVkl2TEJNVElaYnNFRVJxZHNzUWRVaGN2N0NZbE1LQ3YyVnBUUjlnMWVvdUdaVXg4UzIyZ1RJbFpOdU5TWEFmNWxZbw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman Co. (NYSE:NOC) Shares Sold by American National Bank & Trust - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXlBR1ZyNmdTZzZrMWEzaDVPTkh6NlNRN0VoWmNiWWpnY2EyNENESFhLQ2FrSENGWFV3UUhma0JlQTNOSGtqTmlyY3hYR0gwNE1lUnB6TzNsVFl0YVgzTDdFTnlHa3d5M193ZU1jejJuTFBzZE0yTWFkOHpHSkQtclBkTFdwN0dOazdnTUVNa1FZbFNHUnl1TVQ5Tlk0RDZxbGkydEtkZ0F1ZTRndDJlUVdzTlpDU1JIQUlFYllzd2hKNHluRnVHMEhuMzJNUjRfTGc?oc=5",
+        "title": "Zacks Research Issues Pessimistic Forecast for NOC Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjdlWl9KZFBKTmViNS1BQlJBOExRU3JHOTl5aU1CXzhMd3lXWnVST2hwaEwtRUJpeTYyeHVEUngwWTVTSDkxSnJoX1ptb2dMUE1VOWk0b3lNZ1hwcVpTVW1CY0dwY3lrVEM4d3gwRnplcllXRmYybHFaMVlrb1NyLWpDQTRUTUU5b29FbFFydWxUaGdDWGdwVWVaLW9GcV9LWENfM3MySW5mbzJXVDdyai0ycw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Harbor Capital Advisors Inc. Sells 958 Shares of Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnlrYkE2bmszVGY1akNNWHUtelFEc1ViLXNwM0JMVHRLVWsyNklvVi1ReF9FUDUxZXRNQTF5U09mb0pOSlZReDF1R2JBUnkxb2pDXzJBcGJ4LXZZWHQ2Wms2azZrdV9JZjhsdjVkbTgxOWYxRnRQWTlUYTN3UDh3MjVoUVQ3RTlHYXZXdkxXelVQdk5LRVNWRU1OWDVwMnRLTHdDdTJfXzZYYkZvc1duanVCOVRJTlRaZVZpanJFM1piS0kwTnVJSDN6QUwxWVozT2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Northrop Grumman Co. (NYSE:NOC) Shares Bought by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWFSQ0lmTXdDV19MWEZYb3hucFIzOHVHNGwydm5XQmhYUEl4ZzNvRkx4cmZjeGlvS3FESU5oSXpYVjFyemNJLUl1OUlqZVhVemZXSmtrT2lFanRRTndueWo3cVB4UmpkUkl0MU1lTzJ5M0JSa2ZDUGhxTkpyUHUzUkZHX0kxYWQtaHVZVGFMWkJHSlk1dnZyenhYSW9NZnJ0dXlzMXNiZDRfa0lSNlhuT0pUU0JkLTdOdFhxQk1RSEhvckQtZDRr?oc=5",
+        "title": "Insider Selling: Northrop Grumman Co. (NYSE:NOC) Director Sells 33 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbG9lYzJETUNHMnNDZVlMWFJ4emxEM1c2M1VNOF9IS0xlOGdKTmtSRkx1dVBlRm5GUkFkeFZCOWJMaHJYYjVKbWxLd21ZV0ZzRHgxcVRqeGlLSVhka0pYRmx4Ym5JcERuMzdJZlM4ZXJIWklRNEdCX1h3aFJkc0N3ZTdyQm8tU3VyNnZ3NnBPVG5YRUFuZTlaSEZmTTd3LXYzcm1MY1haWFo5MGxjdzJyLVR6QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Gradient Investments LLC Sells 847 Shares of Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2ZxYk1tRG1ZWFZZTEE0SGk0N3E1d19INWNxTzdJVWtlajkyV3lYRE51c3hFQ2dDZlpzNkF5Nmp0aFlmd1JyV3pZeDBFbjZPdnV6cndha19VV010OFRHOHNmNXFVa2tiaVNJaDBnODgzclpZR29vNjk5V0xxR2F3YU9lQXlFRFM3TVZ4RFl1YkpMcHl6SlMtWHMyS3ZoZ2lUam85dGxLcEhVOHZkd2FDZTg3U0xLcmVjeU9DalpGVUJBOWdITmd0WllR?oc=5",
+        "title": "SG Americas Securities LLC Sells 38,515 Shares of Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3hjc3pBV2hGWjdOY3pZd2VHNEtTNkFwMFM2ZW9PMHRsa2U3ODJqOWRKb21jWEFPN2Y2RWRkcTRDN25FT19ramlmQ05NaFAweXU0d0k5LVlxZGYwU0ROR01XXzBtNm5pSUFXN2k4YVZDREwtM2JoV2JUWFBDRGl0ZFlGUGJ2VENlZVFJY1FGMnVoRURqRk9SUjhrTkhrbmlSX0Z1UHY2RGwwM3NYa1lFODRwSXh0QjZKSU5BbVlYS0NiRzFuVXVUODl2TTRkSHQzdDZz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Boosts Stock Position in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk5HZ05WTDB1amlwM3VWdmFlTkUzUkFOLWsyVkhMVjBqNlR2ZTdvNEJ4b1dWSW5tQ0tHTzRiX29RUEVVQ2I5SURPQlpOSm1zbHo2U3VaN2ZMZ3RSdTlZRENPcXV4d1h0SkU0YXJqNmtsclB3WVhGLWE5ZTBxUk1kdmpPQThQZ2gwZ1JGdkp0TTFOYTFVN2M1TFhKUTdUNGxIbE1FYjNRSFlxel9OdnE4TkR2Nno3ZGdVNHhIQkZUNVhHTUZGWU91d1NMRQ?oc=5",
-        "label": "POSITIVE"
+        "title": "RFG Advisory LLC Takes Position in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTZYOTBEVGNNN1hpMFBCd1dPbDRvMXI1U1JKeWZ6aG1Rd2d6TFNCX1JkRGt1Z3JQOWdKazVBaWVWdzh1Q29YRE5DXy1qTk9yTXI3bGRPdEllZGVlNEJsZHR0TG5mVVVjOV91N0pVdWI1RXBENnl6S2w2RHdOSEZJeGRNRlpZbUllSVNKeERkcGxpVERhRHNtMW5aMHBWbldMV1FWcXI5Sjl3cnNYb29JTnBVc2otaHp6WDdUSGtqdDJmN09QOEhEaHVnY2o?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Merit Financial Group LLC Raises Stock Position in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHhDY0tJT2pUWTR0cVZCbmIzU1ROSjN2X19jSlVLZGFlT21McHRJb1NsNXdnN0JsS0M0eGcxUl95R1VTanJfX1BHYWZiN2dvYlo3bkZ3cU9EZGw0UE40YzZpQ1U0d29tV2tlOUt4Mlo3bDVMY2FVQmlsOUhZbE94LTFmcUI3N3pJWEpHU2l5QkZuVU54VXhLc3dBelBpZzNRV0lQZEdfZXRBM3RQRU13RUlLUXg2Vk9EZWo1c3hxbUlzOFNuWmpQalc1QXptMFhYR0FyMExR?oc=5",
-        "label": "POSITIVE"
+        "title": "Northrop Grumman Co. (NYSE:NOC) Shares Sold by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHMzck1QMkp4OE5EZWQ1OUp6VW92b1hnMFlVUUFldExlWE5mT3FQci1CQlFCU3RrUjZ3N1ZmREtTbHAxWjdzMlZMeUQtNnRuRDI5MEwwb2hzUFI1Wm5KRUtpSE9NX1JvUU9OUFcyZi1wcDcwMTBBc3dUTFY2OU1RcUFmS1lweWZTUlBaZVRiRlY1T01DcnIyVHJGZzl4dHJONHAtNFpSZEZIZG1DYzlPSDJELWNXYVZnV2ZqajdGQnM1bXpPVkpFWE91YU41ZmdWbEFJUWlYSWlfbXFX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millburn Ridgefield LLC DE Invests $284,000 in Northrop Grumman Co. (NYSE:NOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2ZWOVhON0hQNmUzOXc0eW1IRW1SU2kyRWpzYzlpOHppVVhVS0lMTVMwR1JScjRmOXJoblV3TXJOSUN3QjJranBoYmFoQ3pYTGpsMF9oZHQtbzlHR0c4UXU4SVdBS3RSdmtzZ1lKVEEzcWRzdWltSjl1WThjaVRIS3BTMXFMX2hrT1NYTEw0dXg0R3ZMZ212TEUwMFpKT3NqMnNjQWN3bUxIV0l6M2lUcURiY1V4cS1VNGY2OS0xcVhDWFgxVHk4UzYzMl9EQQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

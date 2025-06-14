@@ -2,16 +2,16 @@
   "ticker": "BALL",
   "name": "Ball Corporation",
   "sector": "Materials",
-  "market_cap": 14919538688.0,
+  "market_cap": 15063796736.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.556818,
-    "PB": 2.7321682,
-    "EV_Revenue": 1.79,
+    "PE": 30.852272,
+    "PB": 2.7585857,
+    "EV_Revenue": 1.829,
     "ROE": 0.08219,
     "ProfitMargin": 0.04177,
     "GrossMargin": 0.20419,
-    "DividendYield": 1.5,
+    "DividendYield": 1.45,
     "DebtEquity": 126.809,
     "CurrentRatio": 1.04,
     "QuickRatio": 0.638,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.02094774527220098,
     "ROA": 0.04257,
     "PEG": null,
-    "EV_EBITDA": 11.408,
+    "EV_EBITDA": 11.652,
     "BuybackYield": null,
-    "PriceToFCF": 59.07598160079444
+    "PriceToFCF": 59.91346920357498
   },
   "technical_indicators": {
-    "RSI_14": 57.72010356630101,
-    "Momentum_10": 1.2782664471340888,
-    "MACD": 0.6154396408776677,
-    "BB_Percent": 0.7593020754590023,
+    "RSI_14": 57.457686943173485,
+    "Momentum_10": 1.798424625821298,
+    "MACD": 0.8085885479099062,
+    "BB_Percent": 0.7039510267065003,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9309318391666884,
+    "ValueScore": 0.8895263932238213,
     "QualityScore": 0.3070727559733736,
-    "SignalScore": 0.5373565222264196
+    "SignalScore": 0.5378828953352937
   },
-  "volatility": 0.0178558981270143,
+  "volatility": 0.0178982745158893,
   "beta": 1.083,
-  "return_6m": -0.0511787627133906,
+  "return_6m": -0.0605920735549141,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 57.67
-      },
-      {
-        "date": "2024-12-10",
-        "price": 57.08
-      },
-      {
-        "date": "2024-12-11",
-        "price": 57.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 57.99
-      },
-      {
-        "date": "2024-12-13",
-        "price": 58.24
-      },
       {
         "date": "2024-12-16",
         "price": 57.83
@@ -537,92 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 53.73
+      },
+      {
+        "date": "2025-06-09",
+        "price": 54.23
+      },
+      {
+        "date": "2025-06-10",
+        "price": 55.02
+      },
+      {
+        "date": "2025-06-11",
+        "price": 54.93
+      },
+      {
+        "date": "2025-06-12",
+        "price": 55.15
+      },
+      {
+        "date": "2025-06-13",
+        "price": 54.37
       }
     ],
     "current_price_data": {
-      "price": 53.73,
-      "change": 0.24,
-      "percent_change": 0.45
+      "price": 54.37,
+      "change": -0.78,
+      "percent_change": -1.41
     }
   },
   "news_sentiment": {
-    "summary": "Ball Corporation a récemment annoncé des résultats solides pour le quatrième trimestre 2024, ce qui a renforcé la confiance des investisseurs. Malgré une vente importante d'actions par Jefferies Financial Group Inc., l'entreprise a maintenu un dividende attractif et lancé une offre de notes senior de 850 millions d'euros. De plus, la nomination d'un vétéran en tant que CFO par intérim et les acquisitions de parts par divers investisseurs institutionnels indiquent une vision positive pour la croissance future de Ball.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
+    "summary": "La société Ball Corporation (BALL) a récemment nommé un vétéran des transactions en tant que directeur financier par intérim, tout en maintenant des perspectives de croissance solides. Malgré une baisse de la position en actions par Wealth Enhancement Advisory Services LLC, certains investisseurs comme GAMMA Investing LLC et Handelsbanken Fonder AB ont augmenté leurs participations. Ball Corporation a publié ses résultats du quatrième trimestre 2024 et annoncé un nouveau dividende, tandis que l'annonce d'une offre publique de billets de créance libellés en euros a également eu lieu. Les attentes pour les bénéfices du premier trimestre 2025 sont élevées, avec un appel aux investisseurs prévu pour le 6 mai. Cependant, des interrogations persistent quant à la performance de l'action BALL par rapport au Dow Jones, ainsi que sur la récente baisse du titre.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Jefferies Financial Group Inc. Sells 115,098 Shares of Ball Co. (NYSE:BALL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakw3dWRGYTJDb1BMV1Q5TmRPLWx3TElIWHVCNUR6RE5GMU9GcG5DNHBxMnMxS1FSZDFaamFKU2V2a2xmX3dhNF9HakdudnF4NmFkbk53UG5ZMUtMakZJQWFBUW1kSThzUGs4VUpKWVZmT0FRTnRaejdiZS1JbGlvbmdONXFwckRoYjdVd1JDNHFkN29KNjU2bWQ5YjFQeHNkTFN1NGJFVHVDT2ZYcHZVOS0yVWVjZzBzci1jRmRVUkh6eFYyWl9uNy1WMUozcldPb2c?oc=5",
+        "title": "Ball Corporation (BALL) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYTVUSzI5eEdiWm9aSko1T1c5NVM3VVByNUprQ3pVOGl5VmNJVmtWMUQzTWkwa2l2MVJjUkhqUkRxbVd6a01CTzhTV0FXQlFzRmNUaXZsakRvbmhvOHdIVUNDNVlfTWxRMmhwb0g3RHowTGlsTkF3WFhwNHZJS05QYnoxaURsNVNrbmVBbg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is the Options Market Predicting a Spike in BALL Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTNBM01tT3d2WVlGeHB0UHhFckZ3cWRmMm00VWxYT09Gb1haMzl0YmIwaGdsM1c2Ti1YRUhiZFZKTFhpNWs1ZHpKZ2d6RG9hUFFmTC0yQ3ZFSmVKejZjUUQtcTRBQ1FZQ2FvUUZjbzVwM1k3bk4zSzg2YWI1enRidFhmcG1ZRzlSdXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Corporation Announces Fresh Dividend Payout: Key Dates and Amount Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkdMeU5jWVE3bURPZW1hWl9wLXlCQk51bnkxcEhVd1U4M0MxTHhqQ3NqQWR0NTFyTUxQRC1COUNvVWtudnJyb1dyNkJQSXg1cEtTQnc3VHlIWldpRGQzX3NrQ2RxM0VTX2FNT29NWnJOd05YeDhXNXZ6ci1Vd1BYWXg5Z1R2UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should Weakness in Ball Corporation's (NYSE:BALL) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzJSM2UtbkxiYWt0MXM0OEdpdnl2eU1HZTI0S3NrNHB6eTlYTVlJRUNQYWxwQ3o0RU5vQ2tDRzdOdXNpT2dZRWpzZzNnZGdvWG8ySDI0UUpXMFhqRGZPSnF4RnFRNE5nT01Cd1NxcGZFMUF4TlpDa2VyZ1JrSHVWWUpCMkdjMG9QdU5hRXBKZTdNYjV3c2NmMHo4c2VKakxUQ1JvcmY5STRSb0NjOE9GdGZFRkVpdmlxZDlkRTZ30gHDAUFVX3lxTE5CNjdKUlpEWmJXck5TSm9BaFpnNjNWUElCSG0tbnk3M0J0bm52NXFIY0lUalllLURXRDRCLUpNeVJ2QlQ3aWdheDBVRmNUc1Q3QS04aml0NHlwQzBrRGlJdzRlUWhCc2JVcUdDX2RDZ2NhM29kSkJfODQ5aTlxcEQ1X0tLaUMwSmxVemQ0TDd3djFqUVRHX0ZhNTU5Sl9yb2xnZXo1d2FfWndZNzZfRVA3QmpVZXZ0NW15OGw4ZWpTVThuZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Ball Corporation Stock: Analyst Estimates & Ratings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnAzZXpBdDZTek5XX1lPTEh6dU9rVTBzR2Z5bm92M29sdS1RZWlzOEF1cFA3bXhtdzN3UGp5UTVlSEVXU3JhODZERHpvTzBoSHlNcUhDNnI3c1dHVUREbFlRRXRsWi1HNzdJQWxpNFVtaWNrVnM0eHZGTUZ0eDVvOUtGT1BzRHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Corporation Announces €850M Senior Notes Offering - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDFMRmtsNVFNanF3TmdXUU9BUUF5a2dMQW9XYmJjVjRYSElhaUl3akZUQ1h4TTluYVlKRG1PUjh2cWE3ay1sVHlNd3ZQMUZheGJDY21zc1FVX1VzQVhEdkNPRDRIM1NXeVlMMHl5eE14X05teVJQbTV1UUhwVGNYa09IRS1Wb05DNG9sdXI4dnI0Umg0UEN0REJHZFdYUjJxVWV4LU5rTUNoQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Reports Fourth Quarter 2024 Results - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVFRLXNwcVBQSEMtWml2dXE5eE9oTVJWaXcxS05GX3pOTWZzSXYyU08tdGJCclBRTVY2YWhFempkOGZPeFNrTFFlVnpTU3pGQXpLOVF4VWdhTW11Znk2Y0NhYjJYOHJlYWttclVTWjY3dzVjcVplTnA1eVB1M2kzNUp3SUxvai1oTUx1Y1g0ekIwV1daemI2NUVCSmk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Stock: Is Wall Street Bullish Or Bearish? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUFkzNWEzVDhxbG1fSktyRFNWeGliN0l5b0FPYVVPWjNWWVYtUnIxVXFYMy1LOUpma3pnQ3pRcEc4RDFjc01qQkkwOVVhVU80Vk1MMk1nWExudWJvWDl5OFA0NC1TbldyZUU4SWp4c19iMnplUEkzMk9WM3pvQm91TUtxN1plSkFJNGJoTXJVZFFWZWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Boosts Position in Ball Co. (NYSE:BALL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzV0OUVnQU9hMFJmTVJYU2VQa1FIc2U5WEFFVTJXVG1JYi1BYUxFaXBqODhETm5yZEI0ZTFoeG40OXRab0JfTVdMdW16TjVuM2cyRUtFNmZmZHFpNEVBaTI1NTF6Tm5sVmJXdjdjM3ZvSUR0WXRRaEpCNjZOSzI2QllNMUNPcUprcGl0a09LVy1lVGtNNlJoc2ItUzNablVSaDlSYm5CTWllWjktVS02dUh4SVdSdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Ball Corporation (BALL) the Best Aluminum Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPal9CX2EtZW1zQ0hxaUZuMXctakxGSkpDWXg1TUl1bnctb1hTSE43NjMtdTc3SU1DUmJQNVNXUC1HdC0xQlM1WE45TWJFcjJxMlFCaXZqaUhiekMxaXJyN2Z1N3BBRmN4WWhJU01OTDFpdFF4dDFKbWhheVJwa2lzMGF2ZWt4RlNf?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Q1 2025 Earnings Coming May 6: Key Investor Call Details Released - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0pZUDFXOFZIdUZtV2V0NjM3Nmo4X0ZXd3A0cVlVaEI3dDAydm5Sb2lsb040Q2d3ZHBhb0ZFVnBzQkp3dVFiU3ZHTkVyVGc2MVY3cWxVOVVCT1Z5UjM0MVNvZmM2WFJwQnBzQTR3blhwN3Vhanhwd1p6UmVMSmdvNVpjZHRtVlphS1VqRFJhOEwzX2NGV2U2NV9sT2oyb3AxeHpPM2ZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Ball Stock Underperforming the Dow? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WNGtrdVlLSEpJaEpOZ3l4NnpxWXpQSm5YVFJtQThEQ0QzcE9pNFRfRldFbkpzNWdtYWh2REI3NjJBMXhHVExqeDJZM0NJaEczRFF3MURWQ0tSN3F0c1ExQ2JDaEhkNzEyMnJPa0V3RQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "We Think Ball's (NYSE:BALL) Solid Earnings Are Understated - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2t0U3hDT3p3X2hxb1oxY2IxejUxTlNtdDF5SWlBbjJoQTJzcTh3YlF0NjhuMmNQd2FGTXpVa0RyTzB3MHczVkQ0WDlhN3lPdVBoNWlLTExtTkVtWDJrZU0zTWhRWTVFZ3NENW1DcnhnMFVSVmpBM2FId3Z4NG1aT09ic2VUd29CV0JaZHM2cFZsNzEtdHNCNXJZUUxsMXJKWDZ5ZVFWVTVjdEczbGNGSDkxV0ZSRVnSAbwBQVVfeXFMTU5YSldNbEJ4WUc3QVAwbWQ0YlByRjZIUkxyRGZFYUJMUWx3MkQ5d2gyVGlYM3hRT1hFeWhyVERNcFltd3RmdlVWY09pX05PdGs5UXplbmF4VXBCa09xTUh4SjdnWDhXbGVJcEN5MVdhNUoxZjYtemtyaXhvQ0tVU2xVQ25lSmdCSkw4VGJnbmMwN0ZuMHkwbXhrZDhxTVlnR3JjT1FnU05ERl9rQjU0QUt4LUduTUgtM1Y5VXc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "California State Teachers Retirement System Sells 91,779 Shares of Ball Co. (NYSE:BALL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUTFxclB0ZHhtNkVxc1pTT2FrSDFxQ2YySHhOZ1JHeHlqbXl2bnVuR0U0cGR3c2NHRHRBOE0wVTJ5bW5RS0dMbVJ4SVo2RlhueV9feUxjZFhxVWhCODI4N1lMRE9zQTVHNVpIRm0yOWIyejZQczA0QmhKVF9mdkphWUd6STYyeEtQMmZ6S29lajZ3cnlWTDRFZzhVWVhzemxLc19WdFF0UDhoTVdJZW9YUE9CNTRreHI4WU9Hb3hldEVRZDZvVG8wN1VtUUt0V1ROM1E?oc=5",
+        "title": "Ball Corporation Stock Movement on NYSE Composite and Valuation - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGw4Q21OOERhS0VYNjM0VTdBdGxzMXc2X19jaTdvaW1UNFNDWFVZX2lkSjVYd2NGTE0wU0czTEdLUnRmQUc1SzBtVlRUZEFfdU1OWXhVT2EzVFlLV2hOMVRpUVpnR3JPTFdJWjk2bnZ2cXpxSG5fQVNmTW5XSk1sZDVrQkNqUWVLQm9EcVFTanN4cF9OekN6Uk14bUhMbDVta0RHOFQ3Mkt2cDQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,31 +571,91 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Wealth Enhancement Advisory Services LLC Lowers Stock Position in Ball Co. (NYSE:BALL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUFaVlRNZ2N6aE5FNTBBa25EYW5Yb29Xd3c3TE5RNGo0TDZQVGRmQmRYXzI2MU83UjJsSTNMUjlYWmdRWkJ6bzA0aThsZ0E2NW5Bemp6NGlkNEZjZDBlN2gxM0F3S0IxRjRSQjZWc1BPaTdJX0JZeU12Qm1OcXZLM2lNcXVfR29zc1Q4WV90UmlSVlNBNnlocFFxV29FZ2t0RVlpX1JhekZCSUdzdzBOS2VGdFRWUFR1cGNtNmEyOTVsWjNtazh5dkY1MExSeW9jcUpJNHNvcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ball Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2SUV6SEJacEkxbVNtbGpXejI4VGFkaFFKU0RxNDdOcTJhRGNtbmczaVJkUHhGQ3dqM2JQS3ZfRVBvdTd1cGNrZHlITUdWWERuSDVmTG9OZXFLeXdUWnpseml4SW8zMndUZ3dxckF1LWhLN085SkMwVHc0WGlDQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BALL) On The My Stocks Page - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDF3Y2lrUDg5eGtPUWF3d0hCYVdkaU13c19iX3dLZk4ySWxTd2ZFWWtVU1NfSDNUbHBmNFBZS3VUbmxYckJDXzhldFlnSmtCTUpiRDZYSEkwS04xVlRGTkJ3VmZEV0lXNVBieFFjMWhxQjdGY3k4Q1NFUEVGSi1GU1JkUHY5cXVBREY2cXFCdjRUSUpPR0dUWjhfSGZvNndIY013?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in BALL Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTNBM01tT3d2WVlGeHB0UHhFckZ3cWRmMm00VWxYT09Gb1haMzl0YmIwaGdsM1c2Ti1YRUhiZFZKTFhpNWs1ZHpKZ2d6RG9hUFFmTC0yQ3ZFSmVKejZjUUQtcTRBQ1FZQ2FvUUZjbzVwM1k3bk4zSzg2YWI1enRidFhmcG1ZRzlSdXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Weakness in Ball Corporation's (NYSE:BALL) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzJSM2UtbkxiYWt0MXM0OEdpdnl2eU1HZTI0S3NrNHB6eTlYTVlJRUNQYWxwQ3o0RU5vQ2tDRzdOdXNpT2dZRWpzZzNnZGdvWG8ySDI0UUpXMFhqRGZPSnF4RnFRNE5nT01Cd1NxcGZFMUF4TlpDa2VyZ1JrSHVWWUpCMkdjMG9QdU5hRXBKZTdNYjV3c2NmMHo4c2VKakxUQ1JvcmY5STRSb0NjOE9GdGZFRkVpdmlxZDlkRTZ30gHDAUFVX3lxTE5CNjdKUlpEWmJXck5TSm9BaFpnNjNWUElCSG0tbnk3M0J0bm52NXFIY0lUalllLURXRDRCLUpNeVJ2QlQ3aWdheDBVRmNUc1Q3QS04aml0NHlwQzBrRGlJdzRlUWhCc2JVcUdDX2RDZ2NhM29kSkJfODQ5aTlxcEQ1X0tLaUMwSmxVemQ0TDd3djFqUVRHX0ZhNTU5Sl9yb2xnZXo1d2FfWndZNzZfRVA3QmpVZXZ0NW15OGw4ZWpTVThuZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ball Reports Fourth Quarter 2024 Results - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVFRLXNwcVBQSEMtWml2dXE5eE9oTVJWaXcxS05GX3pOTWZzSXYyU08tdGJCclBRTVY2YWhFempkOGZPeFNrTFFlVnpTU3pGQXpLOVF4VWdhTW11Znk2Y0NhYjJYOHJlYWttclVTWjY3dzVjcVplTnA1eVB1M2kzNUp3SUxvai1oTUx1Y1g0ekIwV1daemI2NUVCSmk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avanza Fonder AB Cuts Stake in Ball Co. (NYSE:BALL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEVwdmZ6cW54ejZUMERpRGJpMzBseV9Wa0hFVVQteERsb3JBNFdMaFBXLTdNbUxaNXY1UTdiT3g4LWtyenVDSno0NjJTcGJoMmg5ZE4xZHdLZmxyUWVVbFBhWlg3SUwtUEZTRFBaZ1VHcW5pQ1RTeGU4aGJ5SGFDTGRnSzJHTjRYXzAxUk9IVzlwM1FqdVg4QmhzM1I0YzZCVWVoRnVGVlFsQjFITE5QM3Nwdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ball Corporation Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnAzZXpBdDZTek5XX1lPTEh6dU9rVTBzR2Z5bm92M29sdS1RZWlzOEF1cFA3bXhtdzN3UGp5UTVlSEVXU3JhODZERHpvTzBoSHlNcUhDNnI3c1dHVUREbFlRRXRsWi1HNzdJQWxpNFVtaWNrVnM0eHZGTUZ0eDVvOUtGT1BzRHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ball Q1 2025 Earnings Coming May 6: Key Investor Call Details Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0pZUDFXOFZIdUZtV2V0NjM3Nmo4X0ZXd3A0cVlVaEI3dDAydm5Sb2lsb040Q2d3ZHBhb0ZFVnBzQkp3dVFiU3ZHTkVyVGc2MVY3cWxVOVVCT1Z5UjM0MVNvZmM2WFJwQnBzQTR3blhwN3Vhanhwd1p6UmVMSmdvNVpjZHRtVlphS1VqRFJhOEwzX2NGV2U2NV9sT2oyb3AxeHpPM2ZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $10.44 Million Holdings in Ball Co. (NYSE:BALL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzBDc3R6Z0EtZHNmRFQySlUyWjdEUF94dXRBUFJlYUE1eVdQX0h0dzk3MmZ0NFdNbmVYMS0xZmpOYkE5NkdaSnhTTmtGaXcteGpzT3dZZVNURWk0SzNaQ2NuQXZlTEtCdFllM3JyaHNmQ0VJMXU4Um9ranExb2UxeVd5RG9heE1xb2lvbVBMaElJdmNrMEZXRm1HQ0htb1lZaHBjOElyREZrcjVvdHhiVnpiZWYwX0hvVXU4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Ball Corporation (BALL) the Best Aluminum Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPal9CX2EtZW1zQ0hxaUZuMXctakxGSkpDWXg1TUl1bnctb1hTSE43NjMtdTc3SU1DUmJQNVNXUC1HdC0xQlM1WE45TWJFcjJxMlFCaXZqaUhiekMxaXJyN2Z1N3BBRmN4WWhJU01OTDFpdFF4dDFKbWhheVJwa2lzMGF2ZWt4RlNf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ball Corporation Announces Fresh Dividend Payout: Key Dates and Amount Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkdMeU5jWVE3bURPZW1hWl9wLXlCQk51bnkxcEhVd1U4M0MxTHhqQ3NqQWR0NTFyTUxQRC1COUNvVWtudnJyb1dyNkJQSXg1cEtTQnc3VHlIWldpRGQzX3NrQ2RxM0VTX2FNT29NWnJOd05YeDhXNXZ6ci1Vd1BYWXg5Z1R2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Ball Stock Underperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WNGtrdVlLSEpJaEpOZ3l4NnpxWXpQSm5YVFJtQThEQ0QzcE9pNFRfRldFbkpzNWdtYWh2REI3NjJBMXhHVExqeDJZM0NJaEczRFF3MURWQ0tSN3F0c1ExQ2JDaEhkNzEyMnJPa0V3RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Raises Stake in Ball Co. (NYSE:BALL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG1ubXRFVlN2TGRLaEZSWXhhT0gtS08zYmJqcjl2Wl9YWHJUU3lDSFk5elVJTFBjNzFZSHRmZzZ5V1V6Z2dWZTZ5ZzAtaEx2WDJ6ZGxleE15X1JfN3Rsc2ViejQ5RWI5aVlGN2NYRXp6UG5lek1UeklSSHQ3aEdRazI5TVY1QXZWNXYzLXNEQUdJcml0eEtnUWJSbDB4QzF0VGFpMWFxMEROT1k3dC1iME9XZDRxMWxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Ball Corporation's Q1 2025 Earnings: What to Expect - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0hvSUNpVTc4aUtiRUxSRTkxZ3ZTY0tpcHZQcV91dXhvNEhBZmd6OHBpMEp1QkJvcC1iRFV6dVhhNnpiWEpBYmpVMjFmM2pSNVk2UmFjVmxTTFhXQ2U2WnhTbmc4amhBOUFfTGpYVHp4ZkNUQmJZcTJTeU5uaFNHVmJWY1M?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Brokerages Set Ball Co. (NYSE:BALL) Target Price at $61.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamc4SzZyVm04bFM2WDdiMEs0clFPSGtoaGJ1SkpLcmpERTFjc0hWUVRTOHg2bU9rdkxkSDVZRV9XMjFGdTN4ZWJQc0NGWXpiV3pYNHZaOW1VYU9Gc1cwZXBjeHlHdWdyOFdHMVktdVJIRklva0VsM0VTY0l6d25GalU2LXNBNDlJYmNoU2RiclgxakVsTXZaczJhbzJ4UzlvVTFXNTU2RTR1TzJBX2hQZ1pJaEJFTVRweXMyMjhpaW9sNDNf?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Buys 9,173 Shares of Ball Co. (NYSE:BALL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVVJFSzI5SUxrZi1mM3RRX0FPU2dvaUNsSVp0a19BM3ZNdjdqVV9YTDhQOW9CNVZVTzQ1dlRpN2FZdGp0MUx0c083X2lHUzJRVUgtb3pmSnhOLXZSc3gwNkhFMnJ0ZWhyQThBSURGRkh1LWdacjB6U2RITHJFbTRpSHA2Q1ZPai1ZMEY4QnRHeU82LTJuc2V4Z1RnVFpVbDNWTnI3b2drcERQTWVUM0lyLTFjWlEyNXhtY2J3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Employees Retirement System of Ohio Purchases New Stake in Ball Co. (NYSE:BALL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkRBTjAzNmQ0T2VIRVdkSlFoOS13b0NMOFY4S09IUGlqOEhpcWdBUlNqRFpQcERWbGNwUTJBaXRJaG9wNEx5VXhZS1NjMjEtcWR0a3d5M09MTEpjcUFhaEIwcE5Sa2RycUZQV2hCWjd3TzhuVmhpN3BLTzNYeGFwNHJnYVRfTG5ETk9OZHBBSGhrVmoyNy00X19DMUdDdDFSRVdkRDJYclAyaXhHb1VMSDFETDdTbko0VTU3VndXXzJhWnlTTG5qaUtPZEdtZmRHeU5hN01DWlVDNzBD?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ball Co. (NYSE:BALL) Position Lessened by Boston Common Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOODhTVDZjSmtWZ2pqSEdOMHVBaUZpOFZ1V3BXY0VhaHJRcC01SnRXQlhwU1dJaXZmTm5HWjY2NG9DRXcxNFh4YzBGWmhseW9uQjNsdW8zQ29tZTl4ZG5zVEFDUEhoX0gtSmRQV2U1Sm9hVUtTZHN4b3RRbmgyXzdsYTBrd09QbjA4NEw5TVdUbDQ4N2loc3dxa1gxbXBHYUFOWFIweEZOUjdZR3dGMEJFMTlfbnNiNDVrelFDVHhDaXVGeXhWQVd5ZHREWElrV1k3?oc=5",
+        "title": "Why Ball Corporation (BALL) Went Down on Tuesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRktfdDR1MktaeXhhQUgxMFplLVRkLUFxcWQ2aC1UUXVVQkViWHFkbFl0UDhmUFN0TkxUN3NFSnhRVEtPVnBfWUtxd0d1U0l1WnZ3eUdBdTl4M1ZianVYMGhGOUkzWVZMT1JUUXV4Si0xV1J0WVAxdWJ2MThkYXdtazl3?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Ball Corporation Announces Public Offering of Euro-Denominated Senior Notes - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHMyOGlxbVlEc0F0aUdadm9TZ0h6dHZCMEdvb2VBLTdGVVAzczNkZVJuLV9IRDJ5UHpMNG5Sa1NSVjBwaDRLRVJjSDB5ckJZaUVablNGUGxPV2FkY1o2eW9MRHc5NXlxcFJjSXJuTDFRa1BhX2FJaXY4V3RGR01xSmZrLXZBRHBjM1p1V1QwM2ZIS0tlT0ZUWnJmaGNELU42Z0lZMkJMWk15WFlHSGZyeXNBRnZNN1BJ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

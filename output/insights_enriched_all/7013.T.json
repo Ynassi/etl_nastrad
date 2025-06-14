@@ -2,16 +2,16 @@
   "ticker": "7013.T",
   "name": "IHI",
   "sector": "Industrials",
-  "market_cap": 2353679040512.0,
+  "market_cap": 2318108983296.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.884817,
-    "PB": 4.886002,
-    "EV_Revenue": 1.693,
+    "PE": 20.564224,
+    "PB": 4.8121624,
+    "EV_Revenue": 1.671,
     "ROE": 0.25753,
     "ProfitMargin": 0.069299996,
     "GrossMargin": 0.23021,
-    "DividendYield": 0.92,
+    "DividendYield": 0.93,
     "DebtEquity": 101.192,
     "CurrentRatio": 1.165,
     "QuickRatio": 0.681,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07185864249771345,
     "ROA": 0.041350003,
     "PEG": null,
-    "EV_EBITDA": 12.772,
+    "EV_EBITDA": 12.607,
     "BuybackYield": null,
-    "PriceToFCF": 20.1338011785079
+    "PriceToFCF": 19.829528400627655
   },
   "technical_indicators": {
-    "RSI_14": 74.26082204441636,
-    "Momentum_10": 12.762871646120376,
-    "MACD": 1018.0466486684109,
-    "BB_Percent": 0.927319315601552,
+    "RSI_14": 64.5888761992747,
+    "Momentum_10": 9.510189488737932,
+    "MACD": 837.7922727360765,
+    "BB_Percent": 0.7424685405108172,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9313654543898956,
+    "ValueScore": 0.8905519269582787,
     "QualityScore": 0.3261740789244595,
-    "SignalScore": 0.1480756737580599
+    "SignalScore": 0.2735515392195277
   },
-  "volatility": 0.0369590506962154,
+  "volatility": 0.036632341898121,
   "beta": 0.995,
-  "return_6m": 0.8505295727716291,
+  "return_6m": 0.8619822029257793,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 13370.0
+    "target_mean_price": 14190.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 8403.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 8270.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 8225.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 8739.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 8730.0
-      },
       {
         "date": "2024-12-13",
         "price": 8278.0
@@ -525,35 +505,60 @@
       {
         "date": "2025-06-06",
         "price": 15550.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 15635.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 15325.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 14555.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 15015.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 15315.0
       }
     ],
     "current_price_data": {
-      "price": 15550.0,
-      "change": 355.0,
-      "percent_change": 2.34
+      "price": 15315.0,
+      "change": 300.0,
+      "percent_change": 2.0
     }
   },
   "news_sentiment": {
-    "summary": "IHI Corporation voit ses revenus propulser ses actions à la hausse de 28%, attirant ainsi l'attention des acteurs du marché. De son côté, Toyota Motor Corp et Mitsubishi UFJ se distinguent en enregistrant des gains de plus de 3%, ce qui les positionne parmi les valeurs à fort volume au Japon. Ces performances positives soulignent un intérêt croissant pour ces entreprises et pour le marché japonais dans son ensemble, signalant un potentiel d'investissement attractif.",
-    "sentiment_score": 1.0,
+    "summary": "La baisse du Nikkei Stock Average, attribuée aux tensions géopolitiques suite à l'attaque d'Israël contre l'Iran, crée une incertitude sur les marchés. La forte augmentation des revenus de IHI Corporation (+28%) est saluée par les investisseurs, suscitant un regain d'intérêt pour la société. Les perspectives de croissance de IHI Corporation semblent intéressantes, incitant à surveiller de près son évolution future.",
+    "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 1.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.33,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Japan’s Nikkei Stock Average Falls on Geopolitical Worries as Israel Attacks Iran (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBza1g4dE5kVnl2dHdlOTBTYV9XanU0RXJXYmZCSTZ3Um1tWVhSSXdkektQOHQzT0U1WXZ2SFFNakZKOVFDWDJUbXR3ZElzRWk4N1NYb0dLM1Q2VVFaNHkyOGxvTzlza0dUdzRGTlRBMTIzZw?oc=5",
+        "label": "NEGATIVE"
+      },
       {
         "title": "Market Participants Recognise IHI Corporation's (TSE:7013) Revenues Pushing Shares 28% Higher - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX1ZKVnFjWnAwbUVuVXhWWVJ1WU93MXB3MGtFelhic2RycFJnUWNwSkxYenM0Y3A1eUNUNmF3b1JIejBwOHhDQzBhVXpYTlpHNXNneDJ3YUc5bWViV3VvXzY0OUhIUkI1Rmo5aDUtVnpTM20xTnlCQlZreHBpN3hzbGRobW9iaVFBVlNiaWVZS3p5MUp1RnN0UTE5MWpwbG5sdzVEQ2ZtTlppc2FfTFlHdzlEcTRoUXVPZ0lOd044aVRzLVR4UEgtN2xzRdIB0AFBVV95cUxQQUt2TTdLS2FKLWx6MF9tZG0zS09pZnNQM0ptb1Z6S2hSYVFOd0RqV1BUdFhBXy1aMm9XaC1URHFiQUVHRU5jYW5KTlBRbWx0eTctVUpnOWFDd1dpbFhlYWhvSnN2aUNBUFV5cXViS24yZHM2WHNTZWo4ZkQ5T2pIaGtlMWt0My10VWY5d19QMkF0QzJUMzl5dk40WGlRaWRLMWpQSS00aDdKNWhsYmV0RjhEcjc4elM2M3B5THg1ZktnZGZSa2JlMGl2QjNqeXZR?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Toyota Motor Corp and Mitsubishi UFJ lead high-volume stocks in Japan with over 3% gains - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlBiNFFJSTNkS2E0NlYwWmlwNnZKdTR1WDN6R3J2VXF5OUNINElCcEwwZDJhZ09sTkZfX1NmWXRoM0VuOHp6VHVmYVJtS3dQeGtGc3lmWkI0dE5uaXQtTExJcGlEWi11TVMwLThqQ1NBZkZtVDl0aFhJdXhmTXhrSWpmSXVDcWUyQ1BfOGpWdHpPMndjQUhzWWxoeVlmZnBsV3RoRGJ5ZXFDWF9tTXJBNEVQN2d4U2wxNkJDRmswLXRFbXdFMUttQ2ZsV01MbHh4V1lCNEo2bWFuY0hRcFFN?oc=5",
-        "label": "POSITIVE"
+        "title": "Why IHI Corporation (TSE:7013) Could Be Worth Watching - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1QxVlo5ZERqaTFTMUVwSWhuSGs1QlRTdUlqcGhBT3daN1RHLWlPTmkySEZId2F3U1FnblJ2Tk1maGYxeDJFZTlIbmx4T256TTFPTWF6aUhOT1gyUkxIRXF5WHZjbjdwRGdlWVRJTjZ0SFowZlQzM2UwVmM5LUMyR0RMNXZHTFNiS0ZhYlYwdWUtSjd5SDd1ZkU3c3NpNEJydkE1T3g1cDZPQkEtbmJvV1drXzNXMzdaRFozaXYyeVhTQdIBxwFBVV95cUxObW5JVDZIbkJtZU8xRXRPald1cjhXbEJ4YU9KNUVmS04xMm92bnpDcDBjdnBHUDZPOXc5MnFXY0RBMlF3WkdveHZodVpDbVF3UThuYnVxYWw3dG1sczIzZEdBT2FnbVU2MnVSVjFGOV9iLXlydFEybTZGTlgzaUkzV0NrcXZ6Y1M4Um55TnJtQWgzQlhxWTVkMnZEdUZBdHZSWE81Z0E0TWc3MlFFLTJRUFlhdVlUYUYyczNtNy1oY0V1MThjQ3Jv?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

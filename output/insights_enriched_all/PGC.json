@@ -2,16 +2,16 @@
   "ticker": "PGC",
   "name": "Peapack-Gladstone Financial Cor",
   "sector": "Financial Services",
-  "market_cap": 488801408.0,
+  "market_cap": 494299552.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.311111,
-    "PB": 0.779544,
-    "EV_Revenue": 1.697,
+    "PE": 15.483335,
+    "PB": 0.7883125,
+    "EV_Revenue": 1.74,
     "ROE": 0.05307,
     "ProfitMargin": 0.14024,
     "GrossMargin": 0.0,
-    "DividendYield": 0.73,
+    "DividendYield": 0.72,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 47.596260863379825,
-    "Momentum_10": 1.772524163916753,
-    "MACD": -0.1498449902041407,
-    "BB_Percent": 0.3429440669970376,
+    "RSI_14": 50.50948535439364,
+    "Momentum_10": 2.917285516074801,
+    "MACD": -0.1250692335231562,
+    "BB_Percent": 0.4355413454293693,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9339344960126322,
+    "ValueScore": 0.9335431959330972,
     "QualityScore": 0.3058527162498327,
-    "SignalScore": 0.5541940345170118
+    "SignalScore": 0.531728871257833
   },
-  "volatility": 0.0225105184057274,
+  "volatility": 0.0226336591247761,
   "beta": 0.856,
-  "return_6m": -0.2405756632110055,
+  "return_6m": -0.2191661098407071,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 4,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 35.81
-      },
-      {
-        "date": "2024-12-10",
-        "price": 36.11
-      },
-      {
-        "date": "2024-12-11",
-        "price": 36.42
-      },
-      {
-        "date": "2024-12-12",
-        "price": 35.59
-      },
-      {
-        "date": "2024-12-13",
-        "price": 35.37
-      },
       {
         "date": "2024-12-16",
         "price": 35.89
@@ -537,43 +517,48 @@
       {
         "date": "2025-06-06",
         "price": 27.87
+      },
+      {
+        "date": "2025-06-09",
+        "price": 28.01
+      },
+      {
+        "date": "2025-06-10",
+        "price": 28.3
+      },
+      {
+        "date": "2025-06-11",
+        "price": 28.14
+      },
+      {
+        "date": "2025-06-12",
+        "price": 28.2
+      },
+      {
+        "date": "2025-06-13",
+        "price": 27.0
       }
     ],
     "current_price_data": {
-      "price": 27.87,
-      "change": 0.56,
-      "percent_change": 2.05
+      "price": 27.0,
+      "change": -1.2,
+      "percent_change": -4.26
     }
   },
   "news_sentiment": {
-    "summary": "Peapack-Gladstone Financial Co. (NASDAQ: PGC) a récemment dévoilé des résultats solides pour le T4, surpassant les estimations en termes de bénéfices et de revenus. L'entreprise a également bénéficié d'une mise à niveau par Wall Street Zen. Cependant, des cessions importantes d'actions par des initiés, dont le PDG, pourraient susciter des inquiétudes. De plus, l'acquisition de parts par Wellington Management Group LLP indique un intérêt continu des investisseurs institutionnels. La dynamique interne de l'entreprise semble positive, malgré les ventes d'initiés.",
-    "sentiment_score": null,
+    "summary": "Peapack-Gladstone (PGC) a récemment été élevé à \"Hold\" par Wall Street Zen, tandis que ses résultats du premier trimestre ont dépassé les estimations. Cependant, la vente d'actions par le PDG peut susciter des inquiétudes. Malgré cela, des investisseurs importants comme Two Sigma continuent d'augmenter leurs participations, ce qui pourrait indiquer un certain optimisme sur la société.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Two Sigma Investments LP Reduces Holdings in Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUk8xWWEweGVGS2ROSEhvV0JXcGM3LVFBQzhPblU3OFlJb1F1U2dGV182Szd0SzVUeDEyR29yZXBGZ01tc1duQWZXVEwwVVEydnlja3dReWNOZUUzUGhvQUF0QVdGV3dxczV3NWQyNlA0ZXFjM1ppUExEYXFjak9sV0FmX1RyNkNzNjdKbUxzWWNqMENMb1dzdWVSSFo0NDQ1QkF5eFJqcHN4eV9ZS0pZMTU3azE4T2ZkMTQzMGx6MzctNUREMjRnQTFLeTNJZmczZzB1bExmYjFfM3dHZ3VTQUtB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Insider Sale: President & CEO of $PGC Sells 5,000 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmRjVGxxLTlScExlNlBNVXpUSmFkREFHbm5DOXZhOXBEUnFoZV9HNU94NWFVSXlZQmFDN1ZIbExTYV9zbzhYNDlVSnExY2dISW8zWXBJdE9UeVJpTFNsNm5Dc1NRSjhTZGNBN21CczloR3d4dGtrR1FhYVFmRVBmNlZ4N19wazA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(PGC) Trading Report - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkx4eDN6RWJLeGdINW4zWjFTcFV0c1Z4aWVMTmx0LXpSM2E0X3A2N1VhMl9jN2lTTWZUMDEzVjRDS2FWTC0wWE9XY3M0QUlpdWk2aEIzZDRxNnVfODl4ZDNta0NUdmxHVldCNmlmTVM5RUpxdTZnUjFmMkxQWk1QWG0yN2llTFd6bVN5WHd5aUtpMUFMdGpreQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Advisers LP Has $1.61 Million Position in Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT2k1X0ZXSkVmemtUZDYxUEhzUlJ1Z19sY01IZC1Fbm03aEg4cU9aVm5vRHVtZk5xSjVVNEVDeWdhQUgxdUJCZ0llbkNvRXU2MEs4UmQ3cmhEaWxDMXUwZjhNT1VIVXctQVdETVdKZmFTQlNTd2RqeE9WSGhmaEYzbkpYZXdZZUtHYlNqbGVEb0pHeW11Zl9VV0tmbnVrcUJhWTNqWjJya0lFUDVkclliaDBjd1cxN2YtMC0zNEhZSkxNbjFpaFAwbGN0ZWFERzkzZWs0UmNaUmpvZm9nTnZF?oc=5",
-        "label": "NEUTRAL"
+        "title": "Peapack-Gladstone Financial (NASDAQ:PGC) Raised to \"Hold\" at Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3BYeGtPZkIzU3hva2pDazdfM1cxb1RfcEY0ZGNMQlAtejREdjdMdzhQVmJmSnB4dGFoUHA2VWtEMEpCVzdMU0RwSGtiZklqeDJ4YS1UTVZqeDlQbEFYa2ttdTR3dm1xWFFzZzhVY24tcThxWmFRLVAyUGhHZlY5Y0JLek9JQ3pwVFN1WVI3aV9XTmpnY3FTcW8zTEJuakZjTFc4TFcyWEVlR0JERW8xRUp3d2xkTEN5Z0hZRV9GLVR0cDVOcmc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Here's What Key Metrics Tell Us About Peapack-Gladstone (PGC) Q1 Earnings - Nasdaq",
@@ -581,19 +566,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Peapack-Gladstone (PGC) Tops Q4 Earnings and Revenue Estimates - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUR0Sy1GRkxndld1dkRRdDBJVXVSVl85TkxVNFlXYnlWNnlGSy1CWDUyZXppSGpWZzdtaGRrMFdzX0RTUmliRzc4SmcyR0duTjNTVUpMOUlOZE9rR1VIelBsMUdTV2xJbDRSeHdGQkxRNE5lMHBtbGpUZWNfUGpIcURXdXc5bi1xMVMyV2tyZWNMUjNSeEVKc2tXMGZqcVNzYnJralVGaVBGN0M2YmJhVTIxSTd5aklzMUNzX3V6bTc4Nk9ISllQajF6M2t1Mk9URjZ3clN2cw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Peapack-Gladstone Financial (NASDAQ:PGC) Upgraded at Wall Street Zen - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUdobWtWRUFiX01xVzA5VGRSRmhKcmEtMHhDNjN5VDZiX1h2Y1pORXhBLXVhVVlRT2dnN3JmSFVNM1c2X2F5cEdCYmlNUlZzU1F6b25RZ3EtQXZpRnotWGVvZ0s2MDhsdXk3Vi1vYmg5S21lUExJTUJYc1NFdzJ4b1ZtZ1IzZmFJamVuaEJmR2ZoaUxRbng1VTFyVmF3dEVuM19IbXlOLTNBZUQzUlFZZHUzRXBDTGZRQ0tGQm5yaHdqZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Insiders are the top stockholders in Paragon Care Limited (ASX:PGC), and the recent 10% drop might have disappointed them - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXMxZ3d5TlZRLVlObmQzVDF3R3FmTllOOEo2NVFqMENHcE56ZklTRUw0bGN4OUkwSXM5djNjc2VROTloQ0l1ZHJMbXR4b1U0OXRYcHgwVWN5T1VmMFBJck4waEVPMW11UVR4c0ZMRm1HZ2NTVmpwT3piOVpTeHB5YnRWMDdrdjhndURDMTd2eHpIT3l2c0VNX0dsZTMtRjIxaldOUTdUOGgwel83dzZjUlcwVEVFMDVldmxxaXFoRnNicnRHNWQxNE5Eb2U4bzBENnfSAdcBQVVfeXFMT09rR3JNTjFJa2ZCVEp3NmNDUHpEWDRDY0pCdmlnaWF5cTFlMzNmUGxoREdKSV9jaXBRQ0t2RzMtNUR2T296RUItc3hnVkVSZjlueUlGVm5yMWNNOXU2UF9Ydm1yQ0JXUnVianJFUTBYaWFTVXZfQlY1RDQzaHRTeTRNREdwTWUzXzNfQlJaUGpUVW5UNzNDWFFnSUFlVERnME4yYXc1dEVBZTdGYzBIX0ZyZExEV3RTZVlhN0ZXUkxnUElpekFyU3FSVEFOTUlhX3MtWVE1bGs?oc=5",
-        "label": "NEGATIVE"
+        "title": "Two Sigma Investments LP Has $1.79 Million Holdings in Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUk8xWWEweGVGS2ROSEhvV0JXcGM3LVFBQzhPblU3OFlJb1F1U2dGV182Szd0SzVUeDEyR29yZXBGZ01tc1duQWZXVEwwVVEydnlja3dReWNOZUUzUGhvQUF0QVdGV3dxczV3NWQyNlA0ZXFjM1ppUExEYXFjak9sV0FmX1RyNkNzNjdKbUxzWWNqMENMb1dzdWVSSFo0NDQ1QkF5eFJqcHN4eV9ZS0pZMTU3azE4T2ZkMTQzMGx6MzctNUREMjRnQTFLeTNJZmczZzB1bExmYjFfM3dHZ3VTQUtB?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "(PGC) Investment Report - news.stocktradersdaily.com",
@@ -606,8 +581,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Acquires 22,805 Shares of Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObl9udS1nZFdmLTV4b2UtWUpMTFEwbVhpVjY1aDlZQjE3a0pyN0JLQzNtX29tcnNFRU11TlVRYzBTZ1JVamh6TDdLeVhndkN1ZzNCeHNNMVJFLXdOQzV1R0xoLTU1cW1jc2F2UW9reTFobmk0OUhJZEl3eDc3SXQzTUZoRGFBTUZZb3o3VW5GcHRQWU83SktqVTNoWVotNGVZYVJIc3NSRXI3b2dkd3NiT0pXRV8wTF82QkxKZ0pKYVo0RU91bzFjSzVrWTJqMzk0a09TSzc3Ym9ROTZoNXNlV2U2V3ZtQQ?oc=5",
+        "title": "Peapack-Gladstone (PGC) Tops Q4 Earnings and Revenue Estimates - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUR0Sy1GRkxndld1dkRRdDBJVXVSVl85TkxVNFlXYnlWNnlGSy1CWDUyZXppSGpWZzdtaGRrMFdzX0RTUmliRzc4SmcyR0duTjNTVUpMOUlOZE9rR1VIelBsMUdTV2xJbDRSeHdGQkxRNE5lMHBtbGpUZWNfUGpIcURXdXc5bi1xMVMyV2tyZWNMUjNSeEVKc2tXMGZqcVNzYnJralVGaVBGN0M2YmJhVTIxSTd5aklzMUNzX3V6bTc4Nk9ISllQajF6M2t1Mk9URjZ3clN2cw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insiders are the top stockholders in Paragon Care Limited (ASX:PGC), and the recent 10% drop might have disappointed them - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXMxZ3d5TlZRLVlObmQzVDF3R3FmTllOOEo2NVFqMENHcE56ZklTRUw0bGN4OUkwSXM5djNjc2VROTloQ0l1ZHJMbXR4b1U0OXRYcHgwVWN5T1VmMFBJck4waEVPMW11UVR4c0ZMRm1HZ2NTVmpwT3piOVpTeHB5YnRWMDdrdjhndURDMTd2eHpIT3l2c0VNX0dsZTMtRjIxaldOUTdUOGgwel83dzZjUlcwVEVFMDVldmxxaXFoRnNicnRHNWQxNE5Eb2U4bzBENnfSAdcBQVVfeXFMT09rR3JNTjFJa2ZCVEp3NmNDUHpEWDRDY0pCdmlnaWF5cTFlMzNmUGxoREdKSV9jaXBRQ0t2RzMtNUR2T296RUItc3hnVkVSZjlueUlGVm5yMWNNOXU2UF9Ydm1yQ0JXUnVianJFUTBYaWFTVXZfQlY1RDQzaHRTeTRNREdwTWUzXzNfQlJaUGpUVW5UNzNDWFFnSUFlVERnME4yYXc1dEVBZTdGYzBIX0ZyZExEV3RTZVlhN0ZXUkxnUElpekFyU3FSVEFOTUlhX3MtWVE1bGs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two Sigma Advisers LP Has $1.61 Million Position in Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT2k1X0ZXSkVmemtUZDYxUEhzUlJ1Z19sY01IZC1Fbm03aEg4cU9aVm5vRHVtZk5xSjVVNEVDeWdhQUgxdUJCZ0llbkNvRXU2MEs4UmQ3cmhEaWxDMXUwZjhNT1VIVXctQVdETVdKZmFTQlNTd2RqeE9WSGhmaEYzbkpYZXdZZUtHYlNqbGVEb0pHeW11Zl9VV0tmbnVrcUJhWTNqWjJya0lFUDVkclliaDBjd1cxN2YtMC0zNEhZSkxNbjFpaFAwbGN0ZWFERzkzZWs0UmNaUmpvZm9nTnZF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Peapack-Gladstone (PGC) to Report Q1 Results: Wall Street Expects Earnings Growth - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEtBTTdrd1VtWWYxUDdYeTF4b1A1SVM3dnEtRjZ5M2t5MHM3eFRmZ2ctZ1N5US1ONXA1MXpyTkN3MS16T0E0WlYwRVJKMWFuMVdJT21SdWNGWXlHMVJDejNQOGNubnVVeDU4Nm4xbTIzeHVzUFlQbjNRUXFSZndBT0xpbDFpR01QQWtwOThZc25WZjhFR1Y1ZmVfTFQ3QzZURWNiSHpaMURXTXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Power Grid Corporation of India Share Price Live Today - CNBC TV18",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckliMXpwRkN0amlGanplbExiSDk1cFRnNnAtUVJWcnJXUnRncjBGWTBaVjFMYU50Zm80MkxDQk1PZnR2QmtjSWtyZHFNZG9hX0tBQmFPX1plQkhaTWFvbUJiYlFLbTBtaEVkOVZWWmpLNXpUdG9McmFLYk4xWGdobEpuMURQMUhGajZEcU5jSGE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,6 +621,11 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Wellington Management Group LLP Acquires 22,805 Shares of Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObl9udS1nZFdmLTV4b2UtWUpMTFEwbVhpVjY1aDlZQjE3a0pyN0JLQzNtX29tcnNFRU11TlVRYzBTZ1JVamh6TDdLeVhndkN1ZzNCeHNNMVJFLXdOQzV1R0xoLTU1cW1jc2F2UW9reTFobmk0OUhJZEl3eDc3SXQzTUZoRGFBTUZZb3o3VW5GcHRQWU83SktqVTNoWVotNGVZYVJIc3NSRXI3b2dkd3NiT0pXRV8wTF82QkxKZ0pKYVo0RU91bzFjSzVrWTJqMzk0a09TSzc3Ym9ROTZoNXNlV2U2V3ZtQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why I think this ASX small-cap stock is a bargain at 40 cents - The Motley Fool Australia",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3VLSzRjY2Ftell2VGtzeDJmempzZ0VsZC1vMnRyYjdnUVRKVzNHVkUxT2x6dnVkZjdLUXN4LTAzLXAyV3hPbng1VUdSZm0zV2lqUzUzSFloMGZOYmRLNFhGc2VrVE5PNW5qRWNIbi1FcGtwOE9aRVM2Qzk1RktISHV4Sjc3VC1oRjFkZXpQLTFOUUtheEIwRXlEdHpvdw?oc=5",
         "label": "NEUTRAL"
@@ -641,21 +641,21 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "2025 Black Hills Stock Show | A Long Road to Supreme Row - Tri-State Livestock News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2lvZmZsak5HRHNxRzBzRHJiRURCZ2VudVgxQzVjczNUYW9XME50REhYLU5ULTZsRGN2YWJsZXhWajZxYnQ0VkJpMXFzeXllTFk4bjJxTUl0T1RkUkJKbzNGUjRSRlFHR01laFZiY3FLLU42YlgyNkdIRlp4T0RLX3NUTjN2anRa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Top PGC official shares insights on losing 110 pounds before hunting season - Erie Times-News",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZk00VHpsdHhLQ01NNVh5dGRJeTUxdTB1LWFUeTliSnBfNkRXZXhZUjZ2akF5X185SkF1NFJfMjlOWnYwQUpNMS1CRzZBOXdjVDN2UldheHJ4VW95MVktdmFjcWRYZGJVdzVEX2VUMmpoOHEwdmZiaklBck9iN2w4RVhPbjR1Nk02STE0Q2I2R21nbmJsUlZRd3VzRlpoX3JOVXNMbGFmald0czNGelZxTVg5Mzg2Y1A3RTRpRjdEWU43azNjckh6QzNLS3V5NEF0NEIzd1JfU3FrLUtWWFA1d1QycXJLZWNsb3VLc3k5TEh5ZHBHWC1PQXVkQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Plato Gold Corp. Reports First Quarter 2025 Financial Results - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGFyWHZRQTIwajRnWnpmdTd6TzlDOGhETEdTQU9TWU8tZEhTTGgwa0hRaFQ2TnhrX2hqUjBpRzFLUVpzcDRCMndlVzA2UWRFZ2IxR0NrTlplUExwOUNRc1hJdWNENWFDN3FWX2x0YkpNSmRnZ0ZtV3VGekd1d1c2Z09rUGFSdWd3MUt1eWljbVVCRmktVnh6T0cyWTJfaGVNNmdNUV9aejdBSjV4MlppWmFn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Peapack-Gladstone (PGC) to Report Q1 Results: Wall Street Expects Earnings Growth - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEtBTTdrd1VtWWYxUDdYeTF4b1A1SVM3dnEtRjZ5M2t5MHM3eFRmZ2ctZ1N5US1ONXA1MXpyTkN3MS16T0E0WlYwRVJKMWFuMVdJT21SdWNGWXlHMVJDejNQOGNubnVVeDU4Nm4xbTIzeHVzUFlQbjNRUXFSZndBT0xpbDFpR01QQWtwOThZc25WZjhFR1Y1ZmVfTFQ3QzZURWNiSHpaMURXTXc?oc=5",
+        "title": "Nuveen Asset Management LLC Increases Position in Peapack-Gladstone Financial Co. (NASDAQ:PGC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMkFZdDFXX1JtQmotLVV3QV9CbXZGX3JhZ2VwU2R2QlBicHZDRDVSX28yZURDcE5kb2hWdVBtZm9GNnVTZzBaZHk4UTlzOVdZS1R5cDVLV3A5elZHXzAzaFQzYjd4WHBaOU1IRjZoeGZJdkhlOVVhd2xobW5ScGxkNlFGeVFGQTMwMTQwYU11ZmxsOXlXbFlhTWhYbkVWSGlCcmdNMGFfT1FTeXZGS2tTdTlORmE4ZEJuSk16c1N5cnlqWGtrcjF2NzNTTWRIWG1acEVkRjVCWlNGN2lXdFE?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-09"
 }

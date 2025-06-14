@@ -2,16 +2,16 @@
   "ticker": "FR.PA",
   "name": "VALEO",
   "sector": "Industrials",
-  "market_cap": 2161716480.0,
+  "market_cap": 2206463744.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 13.015151,
-    "PB": 0.56121784,
-    "EV_Revenue": 0.313,
+    "PE": 13.433333,
+    "PB": 0.57925,
+    "EV_Revenue": 0.32,
     "ROE": 0.052729998,
     "ProfitMargin": 0.00754,
     "GrossMargin": 0.18988001,
-    "DividendYield": 4.92,
+    "DividendYield": 4.59,
     "DebtEquity": 155.88,
     "CurrentRatio": 0.808,
     "QuickRatio": 0.539,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.027463705700161642,
     "ROA": 0.02747,
     "PEG": null,
-    "EV_EBITDA": 3.391,
+    "EV_EBITDA": 3.464,
     "BuybackYield": null,
-    "PriceToFCF": 3.662374483012269
+    "PriceToFCF": 3.738185182229501
   },
   "technical_indicators": {
-    "RSI_14": 45.53897544179621,
-    "Momentum_10": 0.1866082731187874,
-    "MACD": 0.0601864625200487,
-    "BB_Percent": 0.0700584393630738,
+    "RSI_14": 49.9356239225859,
+    "Momentum_10": -4.254860082798703,
+    "MACD": 0.0856954644340106,
+    "BB_Percent": 0.3935885652839662,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9346637046254926,
+    "ValueScore": 0.8976316198706706,
     "QualityScore": 0.277142730214392,
-    "SignalScore": 0.6102782850149131
+    "SignalScore": 0.6059220020056404
   },
-  "volatility": 0.0329700304914852,
+  "volatility": 0.0331675864079931,
   "beta": 1.307,
-  "return_6m": 0.0333467254082384,
+  "return_6m": 0.0405352860906114,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 14,
-    "target_mean_price": 11.03571
+    "analyst_count": 13,
+    "target_mean_price": 11.15385
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 8.72
-      },
-      {
-        "date": "2024-12-09",
-        "price": 9.11
-      },
-      {
-        "date": "2024-12-10",
-        "price": 9.04
-      },
-      {
-        "date": "2024-12-11",
-        "price": 8.94
-      },
-      {
-        "date": "2024-12-12",
-        "price": 8.99
-      },
       {
         "date": "2024-12-13",
         "price": 8.94
@@ -545,22 +525,42 @@
       {
         "date": "2025-06-06",
         "price": 8.59
+      },
+      {
+        "date": "2025-06-09",
+        "price": 8.73
+      },
+      {
+        "date": "2025-06-10",
+        "price": 9.09
+      },
+      {
+        "date": "2025-06-11",
+        "price": 9.32
+      },
+      {
+        "date": "2025-06-12",
+        "price": 9.15
+      },
+      {
+        "date": "2025-06-13",
+        "price": 8.87
       }
     ],
     "current_price_data": {
-      "price": 8.59,
-      "change": 0.05,
-      "percent_change": 0.59
+      "price": 8.87,
+      "change": -0.28,
+      "percent_change": -3.06
     }
   },
   "news_sentiment": {
-    "summary": "La société française Atos a annoncé un reverse stock split pour restaurer la confiance des investisseurs, tandis que Air France-KLM a surpris les marchés avec des bénéfices dépassant les attentes, propulsant les actions à un plus haut de 5 ans. Cependant, des inquiétudes persistent autour de P.A. Resources Berhad, avec une chute de 27% de ses actions, soulevant des questions sur la rémunération de son PDG. Par ailleurs, les tensions commerciales entre les États-Unis et l'UE ont entraîné un repli des actions au Royaume-Uni et en Europe, signalant une volatilité potentielle sur les marchés.",
-    "sentiment_score": -0.05,
+    "summary": "Dans l'actualité récente concernant l'entreprise cotée P.A. Resources Berhad (KLSE:PA), nous observons un plongeon de 27% de son cours de l'action, ce qui pourrait inquiéter certains investisseurs. Cependant, le CEO Vijay Shekhar envisage de reprendre sa licence PA et de mener l'entreprise vers la rentabilité, offrant un potentiel d'amélioration. Par ailleurs, les investisseurs devraient rester attentifs aux évolutions du marché européen, notamment après les signaux de tarifs de Trump envers l'UE, qui ont entraîné une baisse des actions au Royaume-Uni et en Europe. Ces aspects pourraient influencer le sentiment de marché et nécessitent une surveillance continue pour les investisseurs francophones.",
+    "sentiment_score": -0.1,
     "label": "NEGATIVE",
     "positive_ratio": 0.05,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -574,16 +574,6 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "France's Atos to launch reverse stock split to restore investor confidence - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFl0N1lvejFmSnBrZFM4TkozQmVobWVPZUFINFp4MVByU3BUdnltT0o0R2pfS0MwcGdrbi1mME9oRHFmWVM4Mk1tcXA2V25YRVVZWm10SDBTcFlJbTh0MXVJR2NMZElOc25MdW16R0E2T0g3ZFBmUm80cHFUeHZaTlQxS040SEhkSXJzMXRzcmhQWTZRcU9NT0xubURXQzRqQ1hSclU5TjUyN3BrVUZNcTZoVFNyTWZEQlJ2X3YzYkhxamc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "'Forever families' needed for PA children in foster care - Public News Service",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjd4cnVYaUhETXdEakFTYTI4T2FZWWl5VTh5UVFfNGdJWVRlcGV3bFRuSWxPU0QzRVN6ZmREc0EtUlpBZHNEMV9jZkNzQU9EUko5MUxYX1ZIeFRBX0ZZZDNxZTV5MVRUelhKUnZlRS1vRFU5TnM2bkVYdEZVTlBqWG1ocU5HaGo0alBXRTF0REphcUR2bHItd0JfbHZtSUdySEpqcWs5WmQxMmFuZVR5Z0tTbWZLWFdibUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Proposed $50M for home repairs in Pa. opposed by Senate GOP - Spotlight PA",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2lOZXppQzM3djNFajZVQkh6Y1VrZGxScEUxMHFsYjFvTU9xQW1KN0ZIcDZpeHFJQlEyOXQtci1PNVFpd2FMekpIZEY0UkZqMkZkUzFoT3BDbXB2cUVvdnlaWG84N2pQSjZXczVURWY1YlBMLWUwMkZLaUMxQUt4cHBBLWJwdGxaUEpNa1BkZw?oc=5",
         "label": "NEUTRAL"
@@ -594,33 +584,23 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "'Forever families' needed for PA children in foster care - Public News Service",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjd4cnVYaUhETXdEakFTYTI4T2FZWWl5VTh5UVFfNGdJWVRlcGV3bFRuSWxPU0QzRVN6ZmREc0EtUlpBZHNEMV9jZkNzQU9EUko5MUxYX1ZIeFRBX0ZZZDNxZTV5MVRUelhKUnZlRS1vRFU5TnM2bkVYdEZVTlBqWG1ocU5HaGo0alBXRTF0REphcUR2bHItd0JfbHZtSUdySEpqcWs5WmQxMmFuZVR5Z0tTbWZLWFdibUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deadline announced for Pa. investors to file for refund in securities settlement - yourerie.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHBRUm5mU09JZ0xZQWlqMFVWMVZaVnYxVC1saUM2TDhTbWVfQnNpUFgxUFdPQnd3RjNkLVhOemZCTTA4Vy1KdG4tQnROb2lic1pTZDhmeUpRRV95RzdXUEZrRld0UTVJRU1TLWZVV1k2eFBnQ1BzSE1sbkE4cllxMDZrcnItQzBWU3QzYnllT1E5Z2pxZmZzYTBhU25Fdk9od1FFdjY2UUswTWFtMmhr0gG0AUFVX3lxTE16ck5na1ZVTW5qMlRDX04tSmhKRVRrSzZRVVAxUUwxUkRhV2dqNmR1T3NyWEVUZE5aNFQ4SFI2eVVIZ3ZwMkdrbVp3NFN1QlRYamFSaHRoZlQ3Qm1FLVBPcjZWXzdNc0lFSGxFb1lqVXpqdFNLY3VwS1lFUDExQzFDZHZmLUFnLTRVUGFiWUU3RFU2bDFMOFNLVTdRNkk1WkpWemhyZGdBYXBfRjdxTjdQZnBqZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "UK and European shares slump after Trump signals EU next for tariffs - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEFqNkt5TWd3cUdZMGJVR292cS1yVy1DZjgxZTRXY2tTcGoxYkppTWdyTEJUZzdKTmc1S0RWQ3hfMWhhalFZN2lhUW5ISnJkVmw1c2RsWDNRcGs0TUdPQ1I2MjBDbG9OUWp4V0FHWGxuM0VwRWRHRzhDQmx5NUcxQWp0N1pSZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Pennsylvania trout season 2025: Stocking underway for April 5 opener (PHOTOS) - LehighValleyLive.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWURoLVVfbGp5aXpJeTJMWUMyX2JSMkV5a0dEdTVrM3lDdTBnaUZPUWctcVVSTFpOTDAwTjlOZlQ2dmo5d3JPUHRxek85X3Q4ZF8teFFscnlfZHU5WGhNMUFqbFFQWE5WajFpR0pTeTgtMncwSUs3VHpQMUlMTVF2QzVZNUlNcXhmSkJhaHI4d1lIdGxybG1WNHBVS09ueXJLMklsWi01WkZVR1ZwcEVNcS1EN3NSVUdmOGZOYlpLMVE0Y1ZiVmpENdIB3AFBVV95cUxPTXZ3eXVCVkZSTFI0UlBPZVlieGFKNmpPMi14a1ZEV1B1NlF0QjJHVUxRcWlDaHFHQzZqSW93QzlvYzdmTVFZZjNQYWRuS2g3bTBGMWtQSkJLcFNrdHlmWWpZM0xoTjNYbV9DSEJ6VkgyMW1HWmhKMl8wSi1TMm40MkExTkFuWTdWUTRIaXJidkpMVnRhVm55dzBueXVCM0xqOTdmZGNESlRhcGxsS0tzaTRIdEVfb1dVUFVOb3pRSm93UmUxaENQelBKbTdaWWVBT3p2Vjh0XzYwUHlm?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Are liquor stores open on Thanksgiving in Philly? Here’s how to stock up before the holiday. - Inquirer.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmhNejI2eXhmTkpLQS1qbk5PdHA0dFpmVjA2dlUtWEdOVG5HRTJWUmw4aTJZNEhheE5IRTBXYnphdTlYVWZialEwLUVBMjFwb0hPYUZRelZ3Zzk3V0dJWTh2NjBndDM0Q2NYYTBWekR6UVUybjhEdlpUNUxELVBUNDZDZnd3NTcyYUlrNHVQZjd1UjR2TUdMWDFha0NlOVk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Air France-KLM surprise profit beat lifts shares to 5-year high - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUEYzVUhIdzhWZEZNVDNGdVFkUTFDLUZ4U3pkQnZuR2stX2lMei10bmFpSGgtNFFFWmhVeEdWenZYTlMzRTVtUTJlTDBJT1JTcGlDNXIxaXV0UXJmVzAtVG1taUpvOGlFb1REWW00NHVhcEc3SEdTNk1vNDZpMUxuTmpnZFh5UldCcWVfWFltbXRiS0tQekdoM0FnOGk2YnMySktmdl92UlhJZHFkQ1h0TDBtdWhDVEFHdnJudkxuQWhCakpjWldsdHZiZm9FcTZsUXl3VDZvQlo?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "David McCormick claims he created ‘hundreds of jobs’ in Pa. Records suggest otherwise - WHYY",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUhCSkNzXy1yV1NxS0FtU0FsT1VHMGJ2Y3Q5QW5fR3lLVldrenJPUVh3QmxhMFh4azVfYzI2WURlVWo2SENCdlZ6azZiOVVUWkZVUVNSWEx0TU5VN2FPamxoVE5lb0E4UmlPUFd2OVV0Z2tTWXNOYW9CQXdkV0dQNDRJZEh2bGRX?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Paytm AGM: CEO Vijay Shekhar to reapply for PA license, charts path from losses to profitability - top 10 things to know - Mint",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZVZLa3lhQTF6MEhnWTNCNUZuMjhPU2JCd1l3ZmM2d3dSVGZ2N3ZLd2FncmQtY3F5STd4bEJqRlFiX0pqSTV4d19IcG5JRWdpTUJ4a3JSMU1wWHJvd09CSXlTNDBHRFJsR3c3S3daVkFHeXpjODBnZGFoR0F2V2RZb3NYcWUwWWtqbnNUUHRPLVRUNlp3d3FlT1FBSFpyRXdlLVBma0Zvc056QWZpRmdkOElVZk1sTWliTE5XZ2pZbkhVS00tc0FFOVloOXFwWlRIZnJhdGRwdzdLM0pDOXBEMzFEa2FzTnQ1RzNhT19XMHpUNHlpNFhLZzRVTWM2WGNmTzhYWlhB0gGLAkFVX3lxTE1yNkRTYnVJamM3QzVicTRXVjJPRDBGaGEwalUzYldsYWRhRGl3MjFrNHFRMzJILTRtamtjTVd1NVA4MEJsR3NPa0tCajRETUFENGw1RkNBbHZSVHFLWXBsd2RfRnNlN1dreXJ3LTdYZUp4cDZhNWhyRUExQlBheWtXVm9RRU5JSmdrX3FNQ1NJdHpCMTdjQ1V6MDRBeEpDU1VOWXpaQ0hUTUZhemJZakZLNktadlpBbVNTbXI2MEtnNnJSc2lqZVNYWWRzWU9kNGkyQ1RMbVZmMVlXeFU3bVpVdl9lVEtXZkRpWXVTQVM1eHRyRVJORjE5a1M1U214dVdacWVjc1JLNnZKMA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -629,8 +609,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "What does Supreme Court ruling on bump stocks mean for Pa.? - PennLive.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckpYRGRjYzdIUkRSZy1BNzVvbUNfdVM5Vy1kMDNOQzFjQXM0b0xRMzZVLUYtNVdpbjM4VUtOanNIOEVwRGVEQnZhWHU1UmF5Z2RaVnhDbms0bGp6OHF2c2tJRUl0QXhKVVpWdUZTUEh0dHZwOG5pWnJ3RHQxWGM4X0xFS3dKeGcycE1Ebk9KQjgwOGpWeWRWaUk3WDhTWEdkbFpFamNpQdIBuwFBVV95cUxOcGZaaFZwVlRJYmtROElNSERCSHJGbkpqTVNpQjRJUjZFai1RRFZuRXF3UFNhYmtSZnRfeEs5Q2o4OWMtOVlOZ2NwaW9jZ1R1VFRnWDk1a3Y2bFdxTU9JUmtRQ2l4aHZtQzVDOGtjdTk5NnRHd0VGWFpDeFJYZmRlMUw3Q3paNVVQbWlVY24tQnhpWjRjR2tyQjJYNFVmZ0hkeUFNLUFnbU5zTVpzT0M0dzU5RWMwUUk5VER3?oc=5",
+        "title": "Paytm AGM: CEO Vijay Shekhar to reapply for PA license, charts path from losses to profitability - top 10 things to know - Mint",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZVZLa3lhQTF6MEhnWTNCNUZuMjhPU2JCd1l3ZmM2d3dSVGZ2N3ZLd2FncmQtY3F5STd4bEJqRlFiX0pqSTV4d19IcG5JRWdpTUJ4a3JSMU1wWHJvd09CSXlTNDBHRFJsR3c3S3daVkFHeXpjODBnZGFoR0F2V2RZb3NYcWUwWWtqbnNUUHRPLVRUNlp3d3FlT1FBSFpyRXdlLVBma0Zvc056QWZpRmdkOElVZk1sTWliTE5XZ2pZbkhVS00tc0FFOVloOXFwWlRIZnJhdGRwdzdLM0pDOXBEMzFEa2FzTnQ1RzNhT19XMHpUNHlpNFhLZzRVTWM2WGNmTzhYWlhB0gGLAkFVX3lxTE1yNkRTYnVJamM3QzVicTRXVjJPRDBGaGEwalUzYldsYWRhRGl3MjFrNHFRMzJILTRtamtjTVd1NVA4MEJsR3NPa0tCajRETUFENGw1RkNBbHZSVHFLWXBsd2RfRnNlN1dreXJ3LTdYZUp4cDZhNWhyRUExQlBheWtXVm9RRU5JSmdrX3FNQ1NJdHpCMTdjQ1V6MDRBeEpDU1VOWXpaQ0hUTUZhemJZakZLNktadlpBbVNTbXI2MEtnNnJSc2lqZVNYWWRzWU9kNGkyQ1RMbVZmMVlXeFU3bVpVdl9lVEtXZkRpWXVTQVM1eHRyRVJORjE5a1M1U214dVdacWVjc1JLNnZKMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deliveroo takeover: What is DoorDash and what will the sale mean for customers? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOendaWDRWb3NLc2JkNmJReFJPdGFYNTA1MHpFaUgzREJJdUUtMkRoSFNfdkYwcUZyMFRrVUhOTkh0RFdOMDJxN1FzZWxySVhueDZyYWhvWmVEcThKYlZxMXYza1RpSGVZZU5HeXZzZGxrQ19xUnNPY1J1UlhxM0loeTRZNEU2YlB4eERqVS0zbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "About the Vaccines for Children (VFC) Program - Centers for Disease Control and Prevention | CDC (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTVZ5ckpxelRSMXlHbWlrM2ZDMk9PMS0ydFAwX2ptNDZIQkI2ZjZwZWxuaUV0YUt1VFNVVzZKc2dsOHRBbThVOVJWRDU3WlNZNUl2aEpicmpfNGxtbnFYWFJDeWc1VlhwVlE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -639,13 +629,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Atos launches a reverse stock split - Atos",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk42d1pnM2Y0UDJ0ZVFIa1RtUEs3X21VeXR2U2lVd3RKb3JsZEEyVEEyQWw3a2hLMDB2cllUOU5MWTZuWFNnaEQ0UkhIeHAxc2htNXhxMUdZR1gyRUlRVXctOFZnWG5tYUdmUHRYTVNiV0Z2NXRJREo4XzVXSzhIbEQzRlNlclJRZGEwMWNWemdDWGVQaHgwaWtndHZ4YmpOWFRuRzVMam4zbDRoUzBPdEFZUlFFN1RHVVRKRDhPaw?oc=5",
+        "title": "What does Supreme Court ruling on bump stocks mean for Pa.? - PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckpYRGRjYzdIUkRSZy1BNzVvbUNfdVM5Vy1kMDNOQzFjQXM0b0xRMzZVLUYtNVdpbjM4VUtOanNIOEVwRGVEQnZhWHU1UmF5Z2RaVnhDbms0bGp6OHF2c2tJRUl0QXhKVVpWdUZTUEh0dHZwOG5pWnJ3RHQxWGM4X0xFS3dKeGcycE1Ebk9KQjgwOGpWeWRWaUk3WDhTWEdkbFpFamNpQdIBuwFBVV95cUxOcGZaaFZwVlRJYmtROElNSERCSHJGbkpqTVNpQjRJUjZFai1RRFZuRXF3UFNhYmtSZnRfeEs5Q2o4OWMtOVlOZ2NwaW9jZ1R1VFRnWDk1a3Y2bFdxTU9JUmtRQ2l4aHZtQzVDOGtjdTk5NnRHd0VGWFpDeFJYZmRlMUw3Q3paNVVQbWlVY24tQnhpWjRjR2tyQjJYNFVmZ0hkeUFNLUFnbU5zTVpzT0M0dzU5RWMwUUk5VER3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "About the Vaccines for Children (VFC) Program - Centers for Disease Control and Prevention | CDC (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTVZ5ckpxelRSMXlHbWlrM2ZDMk9PMS0ydFAwX2ptNDZIQkI2ZjZwZWxuaUV0YUt1VFNVVzZKc2dsOHRBbThVOVJWRDU3WlNZNUl2aEpicmpfNGxtbnFYWFJDeWc1VlhwVlE?oc=5",
+        "title": "$50 Million for Whole-Home Repairs in Shapiro’s Budget: A Win for PA Homes - Pennsylvania Senate Democrats",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVW5EY0lzX1I4Zkx3aGtNVlFZV0kwVWZyUHVkbWlCM19zVmlQRldXdXVxMWtaT2hxcjJOU05DSjVIM0VwV2RCS05kUWNoNks1SFk4MXd5anhobFZVbjlkS2dGelVIX0FTekFNUWpwSklmLXpGQnV3YjNTRndDOXJ4YnA2M3lrNVptN2x6OWdxaWtwZUtwaTJHWg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fish and Boat Commission - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uQ0x1MXJPX080YlpiNUpFZEc1QWNxZXg2aWFMaGtFY09QU3lzTHotM3ZmQW5TcXU2Q0VTVFBKeHE2Z0V6MkluVl9xZ2NfY3dsSEFrR0F4UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -659,11 +654,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "What Shapiro’s budget pitch could do for Pennsylvania’s rural communities - Spotlight PA",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3o3TXRsTDFacDRnMzB1NnBDMFFqNExUczNaYktYVzdqYVhabEduTVlCeUdkWlJGVVl4X2FMOXgxNGN3MHNZcE1iVUd0bUlEbFVOZ2diVzVDVUFXWmI5ZWtrdGNKcmpqZ3N6YkxaMVdsQ1U3YmN6Z3JJSEczWmRieGtKMFNZYjhiUWZ6NzNvZ0hLWW9nZlFNclpUYUk0NU5VQWZTMUlSa3VXdmIzMWFhZ2FEa2N6YlR6SkFnZkxCMWhCbkV3NXplblNyMA?oc=5",
+        "title": "Department of Banking and Securities (DoBS) - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81N2h2QXZlSHpSaHRkSS1lMUpPaHc0R2UwWExGckhXSFFXdEZGRUwwUGpFZGRCeFNlOFhtVXVBWEctWmxvX2VYLXh3bWJRZw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "More funding for home repair program left out of state budget despite high demand - Spotlight PA",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSnFSbUgwMmF6dmFUd0t4Ri1OdDUzaF9FbGp1eG5xX1R0dUNsMzRXRzJxclhKek5NTi05ampBLXFnWEl1b25tbnRJUGk3UG1NZEE5T3lRak40TEYwSm95MTBsZm5JZ1dOTzh1XzRTeGFLTHN0VWpRVnR3UUpKQS02bA?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

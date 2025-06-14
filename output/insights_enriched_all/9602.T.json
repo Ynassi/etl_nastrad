@@ -2,16 +2,16 @@
   "ticker": "9602.T",
   "name": "Toho",
   "sector": "Consumer Discretionary",
-  "market_cap": 1302875865088.0,
+  "market_cap": 1331022397440.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 30.180676,
-    "PB": 2.7234628,
-    "EV_Revenue": 4.215,
+    "PE": 30.853281,
+    "PB": 2.7822988,
+    "EV_Revenue": 4.31,
     "ROE": 0.0915,
     "ProfitMargin": 0.13845,
     "GrossMargin": 0.4616,
-    "DividendYield": 1.13,
+    "DividendYield": 1.08,
     "DebtEquity": 0.386,
     "CurrentRatio": 2.222,
     "QuickRatio": 1.68,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.17245611171449438,
     "ROA": 0.06372,
     "PEG": null,
-    "EV_EBITDA": 16.552,
+    "EV_EBITDA": 16.927,
     "BuybackYield": null,
-    "PriceToFCF": 24.12364511367242
+    "PriceToFCF": 24.644797570199266
   },
   "technical_indicators": {
-    "RSI_14": 51.16329945336391,
-    "Momentum_10": 0.8398950131233596,
-    "MACD": -7.322977826378519,
-    "BB_Percent": 0.6851882558495335,
+    "RSI_14": 56.47607149970301,
+    "Momentum_10": 3.086014445173999,
+    "MACD": 43.55144372318773,
+    "BB_Percent": 0.8238311043651412,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9307631225070804,
+    "ValueScore": 0.882199798924725,
     "QualityScore": 0.4554906624545229,
-    "SignalScore": 0.5767906686388713
+    "SignalScore": 0.5259357809682093
   },
-  "volatility": 0.0205404385138768,
+  "volatility": 0.0203846455382761,
   "beta": 0.251,
-  "return_6m": 0.1823054533810788,
+  "return_6m": 0.1554165649427001,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 8472.223
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 6545.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 6570.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 6492.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 6609.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 6743.0
-      },
       {
         "date": "2024-12-13",
         "price": 6842.0
@@ -525,12 +505,50 @@
       {
         "date": "2025-06-06",
         "price": 7684.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 7800.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 7804.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 7839.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 7877.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 7850.0
       }
     ],
     "current_price_data": {
-      "price": 7684.0,
-      "change": 129.0,
-      "percent_change": 1.71
+      "price": 7850.0,
+      "change": -27.0,
+      "percent_change": -0.34
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Malheureusement, je ne peux pas accéder aux titres d'actualités économiques en temps réel. Cependant, si vous pouvez me fournir des informations spécifiques sur une entreprise ou un secteur, je serais ravi de vous aider à analyser les tendances clés et à fournir des insights pertinents.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "TABLE-Toho -2024/25 div forecast - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa01qQ2ZPMUQ5cDlEMjlxWlhlMmlfZU1PaklFeW85REp1X2RGRXdoNWgzclljMnlOVkRKNms2UkhLYm9GdzVsdm5rbnpIOTVnS1RVSDhNaUtNT0ZOZGxvb05pX2VKYXFxdWkxeUEwMlp5R21xSVlWZUEwZzQzQ0ZsVDFtM0RJMzZVT1poQU1vcHIzZ2owamtMRnl1YjFYNm5vTzJfRGdTN2dmR2M?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "CRC",
   "name": "California Resources Corporatio",
   "sector": "Energy",
-  "market_cap": 3981217792.0,
+  "market_cap": 4204512000.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 7.416113,
-    "PB": 1.1323171,
-    "EV_Revenue": 1.451,
+    "PE": 7.8320594,
+    "PB": 1.1958252,
+    "EV_Revenue": 1.512,
     "ROE": 0.17864001,
     "ProfitMargin": 0.15127,
     "GrossMargin": 0.55103,
-    "DividendYield": 3.52,
+    "DividendYield": 3.35,
     "DebtEquity": 31.172,
     "CurrentRatio": 0.831,
     "QuickRatio": 0.666,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.25075482125603865,
     "ROA": 0.10257,
     "PEG": null,
-    "EV_EBITDA": 3.567,
+    "EV_EBITDA": 3.717,
     "BuybackYield": null,
-    "PriceToFCF": 4.795370915655472
+    "PriceToFCF": 5.07562018352781
   },
   "technical_indicators": {
-    "RSI_14": 63.62542609115488,
-    "Momentum_10": 6.637842768982119,
-    "MACD": 1.5552877338755593,
-    "BB_Percent": 0.820395615928796,
+    "RSI_14": 71.9715777280881,
+    "Momentum_10": 6.744397136170102,
+    "MACD": 1.734211344438961,
+    "BB_Percent": 0.991406207556506,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9365191460566166,
-    "QualityScore": 0.3083249904844721,
-    "SignalScore": 0.4408334434132205
+    "ValueScore": 0.8981076951761213,
+    "QualityScore": 0.315989749392306,
+    "SignalScore": 0.4429861896737314
   },
-  "volatility": 0.0317857483300932,
+  "volatility": 0.0311919462499751,
   "beta": 1.56,
-  "return_6m": -0.1514961893371039,
+  "return_6m": -0.1254438204771422,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 56.36
-      },
-      {
-        "date": "2024-12-10",
-        "price": 54.83
-      },
-      {
-        "date": "2024-12-11",
-        "price": 56.82
-      },
-      {
-        "date": "2024-12-12",
-        "price": 55.24
-      },
-      {
-        "date": "2024-12-13",
-        "price": 54.92
-      },
       {
         "date": "2024-12-16",
         "price": 53.81
@@ -537,57 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 44.64
+      },
+      {
+        "date": "2025-06-09",
+        "price": 44.76
+      },
+      {
+        "date": "2025-06-10",
+        "price": 45.34
+      },
+      {
+        "date": "2025-06-11",
+        "price": 46.21
+      },
+      {
+        "date": "2025-06-12",
+        "price": 46.26
+      },
+      {
+        "date": "2025-06-13",
+        "price": 47.27
       }
     ],
     "current_price_data": {
-      "price": 44.64,
-      "change": 0.68,
-      "percent_change": 1.55
+      "price": 47.27,
+      "change": 1.01,
+      "percent_change": 2.18
     }
   },
   "news_sentiment": {
-    "summary": "California Resources Corporation (CRC) fait l'objet d'une attention accrue des analystes, avec plusieurs hausses de cibles de cours et mises à niveau par des grandes institutions financières telles que Barclays et Citigroup. Les résultats financiers solides du premier trimestre 2025 ont également suscité un intérêt positif. Les investisseurs notent la perspective de croissance des bénéfices de CRC et la confiance des analystes dans la performance à venir de l'entreprise. Malgré des signaux positifs, l'augmentation de la volatilité implicite des options d'achat de CRC soulève des incertitudes quant à la stabilité à court terme du titre.",
-    "sentiment_score": 0.1,
+    "summary": "Suite à l'analyse des récentes actualités économiques concernant California Resources Corporation (CRC), on observe une série d'événements positifs. L'entreprise a rapporté des résultats financiers solides pour le premier trimestre 2025, dépassant les estimations de revenus. De plus, des analystes de Barclays ont revu à la hausse le prix cible de l'action CRC, exprimant un sentiment favorable envers la société. Cette tendance positive est également renforcée par des signaux de dividendes en espèces à venir et des notations élevées attribuées par diverses sources. Ces éléments pourraient contribuer à renforcer la confiance des investisseurs dans California Resources Corporation.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "BofA Hikes Exelixis, Inc. (EXEL) Target Amid CRC Caution - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0lBQ1hZVi0xUW9uQ0pOUmFCR0FSY2c3bWdfWVpSbk5jMERtTm43c2VBT29FdFRxOHR4aDRucEVmbWVzeDZaZFdoZnJhY216cTVmTElQaHZZU0EwODN1Tm1jd3RfTWVUMThvNUlZcGlSeFltT2hNU01yNkNRak1IdW5vTVhvcE1MT2hhdkdCWEZjSDlOS2hPY1ktaVVTd3dXY0Nnb0xQNnV1Zw?oc=5",
-        "label": "NEGATIVE"
+        "title": "(CRC) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHdPOGE4b2drTjJPVUM3enpFZkpJVU9PdzRsMmVjUGItNVR3c2FwOFVrSS1fWE1wemVkSDJRSjBYLXY1NjYtM0x6LV9wb3FwWDBSNjllTEpiYzNlTTF3b0RmX2V5VEd5OGJMVW9qQzNxWnVVVVNKV3BZMHN5UHZYd2k0ZUhKeWpZTk93YjJTMjJheVRkU1dJbUxmdFFIVW54TzRNSVdDRXhVM3RYcE1YSXlqV0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Upgrades California Resources (CRC) Stock, Raises PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3J3dWdRX0FRdWV5R3RRWE5NMXRSQXI1WjQ2VTU2N3kxbU5rdm1fb0Z4R0ZxUU9yazV0VmFpcU9ZSm5KeThiR0NUbWgyd1lUY2NqWkV0NkVXN1dvcnNPajhDVVhRcFBMY29zTUp3UDY0NGhOeUNZaThvbDJaSmtJUnY2TzFfM3VoRTFYYWIyUWJteVJKdHFud0xfVlJlUlVWRW9VejJaWlRTckYxT3Y4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why California Resources Corporation (CRC) Stock is Gaining This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkhQeVpJVXlPTmM3RVBrd3lwMGp5TWpHU2xlQlliVFRveWRBOTg2NUQ3MWEyNy10UktkMmFaXzhxdE1lOUQ1RjRZNmlZZ1hNOEhlYWNWOC1TelFOVmpmcG8wc2xTUTVjMWV2dzlzUkRheXdrMlpqZ0kya25hazNuUzkzbVFUZVA0OHdzTmtXcw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "California Resources Corporation's (NYSE:CRC) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnlwS0lVc3hpeFJlUzRoTHlSOFdHQUd2U2hBWW5oWFhrY1R6Z054eWk1cWZtOVVuVXEwaWhqMHVlNHVJeUF2WHNuc085dzdqV0xkV0YwZ3RMb3JGM09FZ0RreUNzT24tRDg1SFpDYU9hTVF4RzJNSmRaM1FaMHFJU2tBd1JiS0Njclp3SjdYWGtkTHFUZWhXbS1uQ09lTjRYRVJOMkNGS0lTLXZkdGE5YWg4ZkxRR2N0djlTT042VGM1OVFFZ3ZVcjg3eG5iNzDSAdQBQVVfeXFMUHE1R2tzQ2N2MDVmUmNuM193UXlEcWxyQ2sxZmhQOEVvRjV6OFVrS2UxLVpFTTY5QXZUS2h1OHlGOHR0QmRrdTJtZEhGYndKTDlmQTY1Q2I0NnRRcklnbEE3cmJITnBEblUtaUNFdkRwZXVxUVFubHdvVWY5andlN1E1VUExaGthdVVGbWtLcUpkdkdtdk95aVlFRm40SWJPckFSVE1Sc0xUWmRsRE9NZjlzNzAxTzZjNmNLdjhiZ0lhNGZFN1pFbjgtU2xHYVJnYzJzZkk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Barclays Upgrades California Resources (CRC) Stock, Raises PT - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUpSLXdwdEhkbGE2OUl3ZzJncWt5VXdwMGhTY3Z6QVpGUU9NclJNemxseE5CWWtqTVRNUWV6eTEzVnB5Ry1HcFc2MjFNOWtUMXpLSXRtTDNEeWxueXpDVS1IdUg2LVhqQ2NSTHZoR1ZJeVFsaTRBbWkyakk3dmVIaGNLWjRKWmk4YWdtN0FBN0hqbldRWXlrMU1NOE1qall6akRwZ9IBrAFBVV95cUxOQUxoX3dUcF92enE5NWtRTWNlc01nU1g4V0hpcEJkZDhJQU04VFE2dTJuVVBXMHJybUZnYUlSM2dneE1KZzRsWC1SNTdUQVZYTEZSdjZFNU9BMzlvWTBkSFE0MDZHN0RIcWVlNFUwYTg4Sno2UzFRaWpDS2p2YTdnaEJMYkNUN08zVS1JUlZBTDl5QUNuZ2hiRHE1UEZCeXVFZGs1Njg0WkhzODNP?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Top-Rated Energy Companies Staging Strong Recoveries - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVVKdEF6a1VWN25QTDdwLWYyNjhvRE8xZVlmTDBwdmN6OHd0ODlNYmpxdnRjYmp5bUNVQ1o3NjZwRGNxV3A0RXhEODRwa09TT0xsMjg0SVFlSmtGZ2MtSV9hVFRUQ1BnUjBhcEV1cnZzci1Xb0hYZ096dFlzdVhIU2NqWFBaS0ZzTzFaVzd0dWxReHNUVTJ1eHp3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(CRC) Proactive Strategies - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUpDOW9tcTJCUkJXNE1ZdXhMV2cyelhTRVdsS3RMT09mNDZrR1NBeE9jc21BeVFqSDZ1c3JsczZGSUU5b01yWEU0TUR3QnZPZW41TkJ2Y2FIbzBVTWdmWlBnZUR3aGUxeXhmQndmUkxoYm53NnFNejFabkVXRWdwOFpMVi1HR3JRTFpENmFZT2VHYkJ6QTZEVWFXOWdWZzQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Top-Rated Energy Companies Staging Strong Recoveries - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFhvM2d3S0ZLLWt6dldKRzB6Wkl5aG1reGVDSDZxZkkxaV9IVm5meXBzX09wdWZKZEo0OXduSGszVFZrWGMtRWxsell6QU5yUTRiX1poT2luQjJVT05oYlg0bzVkempoM204Sm5vRnBCVklveDNtUjEyLXRQWmF5aDFqN2JLdFZyRE1qNFZTMjRUTmxFZGsxaW9sdDQtbjFLcjN1RUtYbEJPb0JuYUJXbUw2SnRSQ1ZiZnNWeTZtRWljVzJsVGEwRXRrclJ5V3RZdHVQVnJn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "California Resources (CRC) Price Target Raised by Citigroup Analyst | CRC Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTIwTWJCLXRpQWVpMnVfa1lHR3RKYlU4aUlSWkpsUXRxWUVpdFRLSzl0TTJQWTVQQS1KbG1vVzZyLUw3S0NkSHNQUUhTdzc2LTJ5Zjlfd0trY0RTYjNEYlhvVHNfY3loYnRGX2VJeG1hZzVFejRJOWdrRjhFWHNhOHVnN3dzOWNyMjMydU9XTW5OQWk0OVpHbTBWeEtiUHVZWjdJTGt2akZuZ1dUQ2hYNGQ3d0E4MlluUzZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,18 +581,33 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "California Resources to Unveil Q1 2025 Performance: Key Earnings Call Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0VfYk9pTTZmTk5mdTdkUV9YTW9yM2hfMER5LVl6VXJESXMwUVYtR0NIeWVuZ0dKSk9XSWJjenEteG9hNmpJTF9XcGMyUGZQNTc0cUtvdFl5ejFGci1ISlZpNHQ4WlNpZ092LVhtYk5KbEdpeE84S2lqTzA4SVlFcEt5SE9xbXJ3UWVMamJjb3VUVGtpb25ZSjdtNHpib2g5QnlYUU83RmdOLUt2Q0lMZXo5Nno3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Top-Rated Energy Companies Staging Strong Recoveries - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVVKdEF6a1VWN25QTDdwLWYyNjhvRE8xZVlmTDBwdmN6OHd0ODlNYmpxdnRjYmp5bUNVQ1o3NjZwRGNxV3A0RXhEODRwa09TT0xsMjg0SVFlSmtGZ2MtSV9hVFRUQ1BnUjBhcEV1cnZzci1Xb0hYZ096dFlzdVhIU2NqWFBaS0ZzTzFaVzd0dWxReHNUVTJ1eHp3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Barclays Upgrades California Resources (CRC) - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MX3BMUmZoaEp3Uk4yVGJyTGZGa3M0Ym1QUU83NlVvVEFmNE1XNmxjMHl2WllTV3FFT2gyQ1dWOF85bldwLTl4dEJoTGprVHd5c3NwQzVORmlONEs1TkdVX3dSdXhpUTJOU1h1UWw2bHBWVXhrMi1IeTVweVBSX2M?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "California Resources Corporation (CRC) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1dOOGFGTW9ac2d6dzhjeFRjZmluSnk3T1l3amI4NkxPUlM0MFgzc3d1R2ZnUF9Rd2FoUHZ2al9pWTJBMXFNUFBNSlFBZ210M2FDTTdwak9IS21hQlVXMEUxS0lWekdsVzNmOFFYemR6U184Q21Zck1Gbi10OVVEY1JpdjN5aTJ4d1Q3U0NkWHRrMDZoVWc?oc=5",
+        "title": "Positive Report for California Resources Corp (CRC) from Barclays - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcU4tM2x0aEpienE5ZXhpRndXOWMyMTRSSXRRUS1UOTlCc3NaYUVya05oSW5TVlI1QVhKTXU4dFJRRU9YS2pLWlp3Y21SR0xvNTVSRnJQa1M3Sk04Y0dGZTd6NE9hczRHV0E2ZFpDN2RaalFQeGxJUkVZOE01ek0tY3RHRlROZWNzODI4bmY0djZsak9XSU1kQnJzclFFbnVWTGRBVXZFcHFPaXNJc1EzeVJzdmZEZFdiLWFqd2Q0Z09HWUlpMmxqNzgwRDZuYVE1NUx6Zmpkb3l5MmRqeTE4VVpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays Upgrades California Resources (CRC) with Positive Outlook | CRC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVZuX3lpQ2N6RDVJZlFmdDd2UGgwX2Z1bS0yUkp3WUJ3ZmRHQ3B1SU5NaUdQVFk1TS1sMGdmTFoxWUtPSmZzcGE3X0poRUZYMmhacUNGRDdxMmNNLXUzX0JsaFdoT3p2RXBaZGpqWEtMQjUzSlRpMWFRc1c3QndveXl1YmJSdFBjVmoyaE1TZTlCdlY4bGFjX3RGQVh0SU5RZDRZRUpmRFF1ckJtLVpxOU5PTEI5UmwyNmc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why California Resources Corporation (CRC) Stock is Gaining This Week - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1ZqNFZGTEZCalNQVlhwLTRQV21oNVI2NEJVMGxqM1JCZm04VTU2ZVZUcjNxQ3g4RFpyOWcyWWpMX0hBTGhmbF8yM1dvX19oUXFHUU5IZ2ZBSVp4bmZTekVTVzBFYVBubGU5RzcyNjB4aExIeGdLUjJYNkdfZk5veWVuWmE1bmRxVWdVcU8xZFExWGxXcXZBQy1KLXdZQmFLaE9sd24xU2ZYeFNqRExTetIBuAFBVV95cUxNVENCOHc0VlZmcWEwQUNpRDYwSWZfNDFhbEJOZTBqQWo5ckpZdUl4WEowRTdMbkl2VXg1ODVaOW9GM2IzQmxyTjNrT1lfSi1paldzUm5zaXpOT2xtbXpLd2wzVlNScmVyNTloVXp2czB5dmNkbzlDUG5FZlhIZHE0RDlOS0d5TWZyc3lXZ0xIM2pFd0JYQUdBYXRhMXQzZzY3ZTFnZVVyQlIxNWRWc0xKaGE1YUt6Q0NC?oc=5",
+        "title": "Implied Volatility Surging for California Resources Stock Options - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFVHaUhvcVh4Ull0NkhkRDJYOUMzMFc4UDdhZ29jMTkyendwUWZCX3VaQUlmb0FDWDBQUWpVUFJJaS0zS0UzMXczN25TRnF4MW5jVjBsdEF3UmtGc0w3b1ZDYVZuM2VqNWJfamZucjlwVlRyZllDVHhhbWNvMng4OHJ1b0Y1NFZZWU1CQVdVOFFrVUpPV0sxaA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(CRC) Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObC11UGwyY1FDZU54UlVrQmwxV2ZlRzNnTzhURUpqdGNUa1h1WXhrUkVwanFJNlNYSlZwc1pfVEdOd3NpaDNodGVvdVVnYVNpTEdabVhuWjVSdWxqb19QOEZEODJSWU1DZ0h1TjJXdG1nWHFmQl9xejVKcUp4QXBWSk9TQlg4TXZzcGo0NDNEUVYyQlU4MlNLdGFhampSdk0?oc=5",
+        "title": "(CRC) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUpDOW9tcTJCUkJXNE1ZdXhMV2cyelhTRVdsS3RMT09mNDZrR1NBeE9jc21BeVFqSDZ1c3JsczZGSUU5b01yWEU0TUR3QnZPZW41TkJ2Y2FIbzBVTWdmWlBnZUR3aGUxeXhmQndmUkxoYm53NnFNejFabkVXRWdwOFpMVi1HR3JRTFpENmFZT2VHYkJ6QTZEVWFXOWdWZzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Implied Volatility Surging for California Resources Stock Options - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFVHaUhvcVh4Ull0NkhkRDJYOUMzMFc4UDdhZ29jMTkyendwUWZCX3VaQUlmb0FDWDBQUWpVUFJJaS0zS0UzMXczN25TRnF4MW5jVjBsdEF3UmtGc0w3b1ZDYVZuM2VqNWJfamZucjlwVlRyZllDVHhhbWNvMng4OHJ1b0Y1NFZZWU1CQVdVOFFrVUpPV0sxaA?oc=5",
+        "title": "California Resources (CRC) Price Target Raised by Citigroup Analyst | CRC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTIwTWJCLXRpQWVpMnVfa1lHR3RKYlU4aUlSWkpsUXRxWUVpdFRLSzl0TTJQWTVQQS1KbG1vVzZyLUw3S0NkSHNQUUhTdzc2LTJ5Zjlfd0trY0RTYjNEYlhvVHNfY3loYnRGX2VJeG1hZzVFejRJOWdrRjhFWHNhOHVnN3dzOWNyMjMydU9XTW5OQWk0OVpHbTBWeEtiUHVZWjdJTGt2akZuZ1dUQ2hYNGQ3d0E4MlluUzZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Barclays Upgrades California Resources (CRC) with Positive Outlook | CRC Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVZuX3lpQ2N6RDVJZlFmdDd2UGgwX2Z1bS0yUkp3WUJ3ZmRHQ3B1SU5NaUdQVFk1TS1sMGdmTFoxWUtPSmZzcGE3X0poRUZYMmhacUNGRDdxMmNNLXUzX0JsaFdoT3p2RXBaZGpqWEtMQjUzSlRpMWFRc1c3QndveXl1YmJSdFBjVmoyaE1TZTlCdlY4bGFjX3RGQVh0SU5RZDRZRUpmRFF1ckJtLVpxOU5PTEI5UmwyNmc?oc=5",
+        "title": "California Resources Corporation (CRC) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1dOOGFGTW9ac2d6dzhjeFRjZmluSnk3T1l3amI4NkxPUlM0MFgzc3d1R2ZnUF9Rd2FoUHZ2al9pWTJBMXFNUFBNSlFBZ210M2FDTTdwak9IS21hQlVXMEUxS0lWekdsVzNmOFFYemR6U184Q21Zck1Gbi10OVVEY1JpdjN5aTJ4d1Q3U0NkWHRrMDZoVWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CALIFORNIA RESOURCES Earnings Results: $CRC Reports Quarterly Earnings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1UzQmpwYTc1WG51YTFIWXZmMzE3WXMyVmZUdmdfTkdWcVVuY1E5V0M2LWRKY2czQy1qSU5BU3BoN3ZKNUV4WVM4a2NyZkI0R3BIUXBYdnBVTE1KeWFpTFAwRWh5eGlQQllrejN0aWpYNW51bk9wZHlfU3lKclE3RThsLUhPc3JULS1Cck1rNjdacTZzSXpDWWZyZHd3V3lCS3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California Resources (CRC) Sees Price Target Boosted by Citi | CRC Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNm96X0VYNTJFaEIxSDdQRkhueWktcVQxaVBOd19TNzFad1VETWEzQU4xSUlzUm94dUlLOXJYMEhTMlRONVZSck1nbDlSRlFXTmE3b2ZPX29hQkhOOC1nVm9sRXk1b3lIMGlHNVBROGxfZlNhODBBaHByZmxfY0tlSjc4U1lsNDVmcWhjSDR2SFg5MDdCdTZ4UnViUXFwOHZoZjF2bTRLRVpSV1l3czNMeWY5ZW1yVEVpVFRlSG1iX0VoQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Bank of America Securities Keeps Their Buy Rating on California Resources Corp (CRC) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQkZ2MURGZTE3UHBfTzNoMkp2Z0g5b3RSM2NRdmM5dms1ekRYVW5MU3BOeXhXblV5TkZXSjk5RTIyVTcyY2IxbE53ZGR2S3B0eWdZNndBMElid2JONXpGa0FUWjVIdWVCQ1h0QzQ1d3F1b0dVaU1FbVZiVHRrYjdoaXh6UXVSSXF2QVpXY0o0VnVrUUdteHhhd0VSd1Y0bDhORGE3Y3Byc2tfWFZOMHk1X1FoM2dldTViLWxndGgyVmFJcGwzbE10TEZ1a3R2SU95cnV5dnVReGhVQ2F3ODU5a252VTkxZUdpc2tqYm1TQWlnTUdUOVVDZElxWjVFUQ?oc=5",
+        "title": "Cash Dividend On The Way From California Resources (CRC) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SV9YMzJiclNoS2pDUUpaOWhEdndCYk11OHhiaTFOcFN1ZGM0S3ZaaXJoUXZiekxFbkk3MzBlLVd6V0ZIX0ZCRTFITnBUYmhVVmpEOVltVlV6TTN1T0tfZnh6ZDQzeFlNckFxSE9PUTJxNkZEUkxjLUM2RGRqRGM?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Cash Dividend On The Way From California Resources (CRC) - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXpYS3VhckVTZ21vRnNtT2xtNDVMYXREMWdGNkQ3Zk0wSWtWYjFWYjREdkp3M253MDFVU3N0dDE4UTJ4OWJmTkpzanVaY1ZRNklpNFJMZ1dmeC1fZG5mWjE4T0IzOVBTNnBVUkVoZmpMYkRaYWpKam9nblF2R2w5UXl3?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "California Resources Corporation (CRC) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFB1Y1I5SFI0ZzVjSTl2Y2tBQW8zWlNMak80NlhrUlFqTXNyS0ZKa0dERGZGdXVrbjlsbHN6eThLSjFTVktYX0hQd0UxSHFhWFhhNUlOZnEtc3lpVHQ3Z2tYTFJCRHRIaEJOMTdHMjNmZXI3M1NSWHpzNmgwanFWR25wZm5zVWlqLVFkMTFNdmJ6enU4dnpZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Earnings Flash (CRC) California Resources Posts Q1 Revenue $912M, vs. FactSet Est of $866.1M - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbmw5WGx1RVNoT29seFdqN3ZYMjhKVWxOZzJSOURtMWNxME80RGxrc3JTdjhzY0FJNWdyNFJQYjdGejdtWl84RzJSQUp3TnVGV1hYX0JnejVEc2xpbkFLNUJJcnh5eHgzRk5QY2NkRnpqV3VCekpLSmRVUExST05XdmFFWUtnSVVJLUtSUXVoZktZR3QwNDJXSUUwWFdzN3pmZWFZZzE4M3VGSGxoUHdOQWYyTWlZc1VtSnJYaEQwSlBaaUN6WnVKLVk2R1lUVV9GTW96ZDlkb2dUVk5Tbk4tbHdoYWUwU01JQW1HVmpfNlRmajJPRERXcFd5MkdaMV9Jc05uSUttTEZpNEo3?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

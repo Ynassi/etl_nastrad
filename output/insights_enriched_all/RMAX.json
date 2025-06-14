@@ -2,13 +2,13 @@
   "ticker": "RMAX",
   "name": "RE/MAX Holdings, Inc.",
   "sector": "Real Estate",
-  "market_cap": 254756880.0,
+  "market_cap": 257359696.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.422222,
-    "PB": 0.36001286,
-    "EV_Revenue": 0.14,
-    "ROE": 0.1095849999999999,
+    "PE": 17.600224,
+    "PB": 0.36369106,
+    "EV_Revenue": 0.182,
+    "ROE": 0.110174998,
     "ProfitMargin": 0.02803,
     "GrossMargin": 0.74448997,
     "DividendYield": null,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.061979828199491965,
     "ROA": 0.0547,
     "PEG": null,
-    "EV_EBITDA": 0.546,
+    "EV_EBITDA": 0.707,
     "BuybackYield": null,
-    "PriceToFCF": 13.630316191892106
+    "PriceToFCF": 13.5613012982186
   },
   "technical_indicators": {
-    "RSI_14": 55.33779631987739,
-    "Momentum_10": 10.578279038911525,
-    "MACD": -0.0382988841368003,
-    "BB_Percent": 0.7834621561829013,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 53.226012846303576,
+    "Momentum_10": 4.768207252749834,
+    "MACD": 0.1027526840549422,
+    "BB_Percent": 0.6955610408053766,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9339552511805668,
-    "QualityScore": 0.3619695438045765,
-    "SignalScore": 0.4765064727060476
+    "ValueScore": 0.8962411212291279,
+    "QualityScore": 0.3704557055626734,
+    "SignalScore": 0.5456813614387466
   },
-  "volatility": 0.0277215808394858,
+  "volatility": 0.0280269254577601,
   "beta": 1.156,
-  "return_6m": -0.3727999877929687,
+  "return_6m": -0.337520927520989,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 2,
     "target_mean_price": 9.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 12.43
-      },
-      {
-        "date": "2024-12-10",
-        "price": 12.31
-      },
-      {
-        "date": "2024-12-11",
-        "price": 12.57
-      },
-      {
-        "date": "2024-12-12",
-        "price": 12.3
-      },
-      {
-        "date": "2024-12-13",
-        "price": 11.94
-      },
       {
         "date": "2024-12-16",
         "price": 12.02
@@ -537,33 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 7.9
+      },
+      {
+        "date": "2025-06-09",
+        "price": 7.89
+      },
+      {
+        "date": "2025-06-10",
+        "price": 8.12
+      },
+      {
+        "date": "2025-06-11",
+        "price": 8.31
+      },
+      {
+        "date": "2025-06-12",
+        "price": 8.24
+      },
+      {
+        "date": "2025-06-13",
+        "price": 7.86
       }
     ],
     "current_price_data": {
-      "price": 7.9,
-      "change": 0.28,
-      "percent_change": 3.67
+      "price": 7.86,
+      "change": -0.38,
+      "percent_change": -4.61
     }
   },
   "news_sentiment": {
-    "summary": "La société RE/MAX (NYSE: RMAX) a récemment publié des résultats solides pour le quatrième trimestre 2024, surpassant les attentes du marché, et a également dépassé les estimations de bénéfices du premier trimestre 2025. De plus, RE/MAX a été désigné comme l'agence immobilière la plus fiable aux États-Unis et au Canada pour la umpteenth année consécutive, renforçant ainsi sa réputation. Cependant, malgré ces succès, des signaux négatifs ont été émis, avec des analystes soulignant des risques potentiels et des ventes internes de titres. Les investisseurs peuvent être attentifs à la performance future de l'entreprise, notamment en ce qui concerne ses initiatives et ses contrôles de coûts récents.",
-    "sentiment_score": 0.1,
+    "summary": "L'entreprise RE/MAX continue de se distinguer dans l'industrie immobilière, avec des agents enregistrant des performances exceptionnelles et une expansion mondiale notoire. Malgré des résultats mitigés au premier trimestre 2025, la confiance des investisseurs semble fluctuer, reflétée par des analyses contrastées et des réactions divergentes du marché. La société affiche une stabilité traditionnelle mais doit faire face à des risques potentiels, incitant les investisseurs à rester vigilants et à explorer d'autres opportunités d'investissement.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "(RMAX) Comprehensive Trading Strategy Report (RMAX:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSDdIR3U1ekM3SzQ4UktPUkZRSnFHNXY4Mk9teWxmZXlCRmQxUWNMaWF1LXMtVXhJUlZhNXhMZVphdnV0U2Rpc3Q2V0tyM2JhdndERGVDem02Q2ZaVjk1akt0TVltYzhpdVZIZEZQXzFRakQwY0FBT1c2Q2tOVEpjVW1ZaXhOM3dqNHhBNnNwcjlWQVhrVlZsemt6S1hqM3ltOUE?oc=5",
+        "title": "REMAX Leads Real Estate Industry: 6,000+ Agents Break RealTrends Records in Nationwide Rankings - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeW5xVEh0Z184ZGxaMEwwMmdLbDdYU2pYWkhzaHNfUGxYaEtmaHM5SHRLOTdrWURudmRmZVVXVjBwMUpRWmczbnZGd05YX2tQczh1LVdQNVpFS29uOHBiQ0IxNGY2bWhra2poeGlCQkU0Q2I0ckIydjZUN3JpcE5IbFNxdEpLZFkycGdfNEZHMjktengwN2hpQ21Sc2tiSFNGR0RtRnBsMno0OG5zYU1jN2J1cmo4clYzbUxGNkJn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wall Street Zen Downgrades RE/MAX (NYSE:RMAX) to Buy - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWQ2UXBGUDNiWFVQT2Q5WHZNcWdSemNCY2ZmODRNdUNNMVNLYmNoYmJQUFhoeFNBSXhjY1dabUxieE9iMGlLaXJXdDNDZ3M2dGFHNU5scmVuSEFvc1dGbjlhZVhpd1Y4eEZUYmhvLW12bV80aXAycV9tRDlCUlJfb1RDV0NpVHptX0ROcXAxY1lsX2lVbXR5THZ1TVotRnM?oc=5",
-        "label": "NEGATIVE"
+        "title": "RE/MAX Holdings: A Traditional Player That's Still Worth It (NYSE:RMAX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1pmU3daaTk0NXJnZTY3S1htWl9LWFBWYllmbmZVOE1mN2Zvc1FHUm90QzdNeUVjSl94NkVOdjdyQ0FuSXpHZ2RPelYwN0VxVGxoaXZEZTllNURidFp3U3ppV201bmVFeUM2RUhTWE1zcVdQWV9Lb2t5VWdOYXF3SjVWdUdKOEFDdDdMUDhGREdZcUZKSWEyMzJRWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(RMAX) On The My Stocks Page (RMAX:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDNibnhHWkZlRWE1VlpWRjZRQ3FNZmpQU2NNa1UyRzBLenpTQ1prRUV4c3lOM0NPRUdDcTFiaXNRQnFNWnRDWVFOZktqR0dvUFZBRzdhc1ZJWHpydXhJalNIeUFsUXlKVDdKeTdTNXoyTDFWeXByRHpvWWpSX2pQcVMyX2pRUFVDN3lNdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RE/MAX Holdings, Inc. (NYSE:RMAX) Shares Sold by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExCbVM5VHRobVhoTmRQaHJmcWVnYUZLc3JNUTNjcEN2dmwzQ2ZmbTQxTk9LcmxyWWtkdkR1cmx5LWlUdFFHbXlGTDN4UTFJLVRWLXRNV05jUlcwUEdldnViSllMR2stZkt1ZmdiMEcwczZfMjZHd3ladGxKdjZVS1RnNW9mNEJyTGZaUTl0MmxXODJyNlp4Y2tuYjFmdVV4Y3FfQnE3elp4eTlvNkJGU2d0aTV5RjBneW0tSG9oOFF3YkR4dEhEX05iU3d0RUVybUNsTDB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "REMAX® Agents and Teams Dominate Again, Rank Among the Nation's Most Productive in 2025 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSVNfMFNjZm13WDJBT3VONWJKVWZRXzFPZjRaMGdDTjd5TjdXczUyNXNBU0dUZXJpMDFvdnlfTzNabnhtV0lSV2ppbko4bU1yX2dfczU4LUVfbnIwdnNQTHZ0Tk5SOXctWVQxM0lJb3FsSkZ2M2pPVEVleldrVkpHTkN3M2FodEludHRHeEZDMk9NblFOQ2RrQnVOdVY4eWJMM2NuclpRTmhSNFJVdnJlZG1MOHJRb1IxcktSZWp2UFBjaEo0eTBNZ29aTXY4QzI0SzBMazcyaTdKZWx0V0dOcHlQb3ZNU2JuUkliZU1QY0h2TVA5UzVtMXk2Qklqel9aLVE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "3 Reasons RMAX is Risky and 1 Stock to Buy Instead - Yahoo Finance",
@@ -571,13 +586,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Reflecting On Real Estate Services Stocks’ Q1 Earnings: RE/MAX (NYSE:RMAX) - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVdvMmtEZklXdlYwakhEYXcxTTBRUjhNMTJQV0RJTW8xeExyTl9JYjJVVDNzMWROck0xZ2ItdDl0eXNsUGZPOE8tWGxlTXdsQ0NqanpqLWtMS283ejBIVTY5bDVoMDRUMmZ5TU1Cek52QmlCYk5DSDhEVjdLdnlUQ2MxZDRBakFRWWlHQzlaelgtdHZOSU44cnFSVi10d19TWXB4SXhRdnhhbDBYMHk5cFFSNHdmMVFDYVgzZjZYYzl4b3cwcFFxWklwb205c2VGTE1uQVJEQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RE/MAX Earnings Preview: Real Estate Giant to Reveal Q1 2025 Market Performance - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnJ3LTBMN1h2Y3NUQUlrdGExeWxqRDdWc0h0d3FhSWxTSG1qZHF1ODV3djJUeWhGS095YUZuUmRVMFZjb0ZOTGJ1VXhRZ25PdG9fYU1PWnVTaUZGaHh5Y1Z0ckgwZ3BERGVWQzNJV2R3QXVlRkFUTzhhb0xGOFRZbEpMVy1nTlZSU0J1NE5lYUZiWDdCT01TS2VIbDhUTDV2MGRtS004QlFwemJ5ZEYtZXNGdG94TUhEamFtZHlR?oc=5",
+        "title": "RE/MAX (RMAX) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0NvZGpQbUFmMnRKUGF5VGh3NjhzSmlCeHJUVDBzM0hJaWRhUGRPU3R2LW1CMDBvZ0dFZ0tvSzhjME9GZWUtdjN1S3Fzc081dEV6Yjc5cVk3V0JiWWNCLTAtaWVWZXQ2QW42WTZGRWFuNzJJQ1NpTUtWN1doOWZJWDRfWEpHVXdIR1NUc2s4WEtCbnVXSDFnOFFYODg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,19 +596,29 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(RMAX) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTM2T1ZBRXVNVmxpVUFhSUltVVlOVzR1cEZfNDhsOXQzeldWWHpsTlgxYlFLOVh5bVMyemFETHFxUlZNaXVjWVhyWDlvMl9GVkJ1MW16cTRvMVVtYUh2YlRyNjFqLUt2QmF1bExqNmpBQmV6VkhHdzk4a2JId1Fkd21zRGtJOGpWaEVUZVB2c25qakdNMFBkeVV3d3QzdEFKYWFFR2szRktXMkstMEJGMFVCVVk3czV2VHc?oc=5",
+        "title": "Reflecting On Real Estate Services Stocks’ Q1 Earnings: RE/MAX (NYSE:RMAX) - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVdvMmtEZklXdlYwakhEYXcxTTBRUjhNMTJQV0RJTW8xeExyTl9JYjJVVDNzMWROck0xZ2ItdDl0eXNsUGZPOE8tWGxlTXdsQ0NqanpqLWtMS283ejBIVTY5bDVoMDRUMmZ5TU1Cek52QmlCYk5DSDhEVjdLdnlUQ2MxZDRBakFRWWlHQzlaelgtdHZOSU44cnFSVi10d19TWXB4SXhRdnhhbDBYMHk5cFFSNHdmMVFDYVgzZjZYYzl4b3cwcFFxWklwb205c2VGTE1uQVJEQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Sale: VP of $RMAX Sells 3,303 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtUjVqN0xPVWNjdXVZREY0eWx0VUx0dnRTS0Zjb0JyV3VZWVM2N0c0VkZvZkQxZTctSVlYNDk2WUhXXzctOVAzS21pRnBXOEJRWFlmS0o3Yy1wa0xtZHppejdHOFB1T3owYkNmZnIzWS1GYXJVdm16YzJR?oc=5",
+        "title": "Why RE/MAX (RMAX) Stock Is Nosediving - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUlHeTczVXhBSWFwWEdCS2lScUh0VnlINW1DTDFVOV9HcmphSndSTE5Gb0ZneTdFd0ZGZnBteEZ5NWdFaWpza0FtYVZRSk1nUkpNNmo1QXhwOGM5WG9wZUlsTmxsc3ZlMGZrU3NUaTB2bUt0NENIRjA2S0R2clM1QUhzTTVfdE5vVjMwN3R3WU1vTkZ0QXRkWXJmbFhmcVdGeGVqQzNQSzQxUTNnWExYUktpZnk2RHFoOUpBbg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Earnings call transcript: REMAX beats Q1 2025 EPS expectations, stock rises - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnhLcUhoUGpwUDdwQk9rNFdwZ2tDOGRjSWVWdUkzTWY3TTJPdDdINk9aR0FMWU1fTXI3dUNISHJNZERZWnR3SGtmdGNta0l5bzE5YzhYMVc1Vnl3LVZLN2s3WFBJRmdtbnJlSEpjMXcxZjhmY294bTdfdFZTZUIxN1UxN0swR29nM1ZCVDk3bXlaV2p4ZlFab2ZMeFNhYjhjdUN6ajZVSUZkd2c0ZlZPN1cxRVdPYkZUdHVEZ1BNMEduRXlsYk56UA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons to Avoid RMAX and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93Q3FQdGZ6OG5rN3RWaTlDQ21SWDRiLTlCemgzcF8waV9NZjBkYmt3aEdIcWhSNmpaYm9DX05FbzdfQUJTNk9PYmJNOUFVY2VnOXBMdUpkdmtTeXpmM2xOUkJTQ2NlbnB5X2h6YlB3cFNrWnBmZUtN?oc=5",
+        "title": "Re/Max Holdings Stockholders Approve Key Proposals - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXV6LUFiYlowSXY1VW9KS1BMbEt6N3hwa0dsZ2RBc1psUDFPUS1kLUo2UEFjZjZXdW9aZ2xvZkRjc2tTNHBNbW5GdEx2RFJ4RnR6LXlScDNlU2hOODNTTGRSeHVYUTlzYVhOUWdlMTNUdVBpRDA3aURNdFhQVzNCeC05QTllcTMyZTlZZjNFZm5QTGFVNXYzVEh6SXljOUozTGZKcA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Zen Downgrades RE/MAX (NYSE:RMAX) to Buy - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWQ2UXBGUDNiWFVQT2Q5WHZNcWdSemNCY2ZmODRNdUNNMVNLYmNoYmJQUFhoeFNBSXhjY1dabUxieE9iMGlLaXJXdDNDZ3M2dGFHNU5scmVuSEFvc1dGbjlhZVhpd1Y4eEZUYmhvLW12bV80aXAycV9tRDlCUlJfb1RDV0NpVHptX0ROcXAxY1lsX2lVbXR5THZ1TVotRnM?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "RE/MAX Crushes Competition: Agents Close Twice as Many Deals for 17th Year Running - Stock Titan",
@@ -611,8 +631,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "RE/MAX (RMAX) Surpasses Q1 Earnings Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUpmUUFzbTFqWHlVUlVsbUdHRjhvTmRMeHg5TThqdHdwZkh5bXZPdFZPSHBxWUZmeUJVTVNMNDRCTzJ4bklVdUpxTHBJc3NHRFUwMXRjc0xNRnBjWUJlRDZ6cE56NXFncDBrMndFMnA5QVpvcnhYdGRqMVpvMi1ua1pB?oc=5",
+        "title": "RE/MAX Global Expansion: New Franchise Rights in Côte d'Ivoire Plus Premium Bahrain Office Launch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTFDN0FNVFFweU0tSWVETDV3eGw1V0ZOeXlfNHR1cjhrMWpZQXQtRDZkZXNsS3NVV3hzVTUwMUhMb2ZIUGVZLXZnU0k0VXRKcXJ0ai1TQkNkc2lodmZ1MGFTYl9QNjlUSWZXYVBhZ1FJd0lfNm9tTXptdDhkMXB3RHp4VXhCVW5mU1lxWXdRVW43ZGktRVUwS3I4YmUyLUhzYUFsa1FSejVfanQ3QldvTzQ4U2c1WTNFR1FCazBn?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -621,41 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Real Estate Services Stocks Q4 Results: Benchmarking RE/MAX (NYSE:RMAX) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDFzeU1lcFFkS05oeDNsVS00VHpkMEE3Ql93cmtzWGpwLU1aSW9UQ2lTTzhJb04wV1hRNndFR05DT0s5U2h1RXQ1ai1vdnJXQzY5T2M5blJHNUNqMlFES0xJcTdXaUxpVFJuem1renFhVWFnRkxnMzZIc0M4dGJvMlZR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why RE/MAX (RMAX) Shares Are Getting Obliterated Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LR1lHcldTUGhCYTFkOFhmRGRFTzVxenAwOHpUdTBBSXZzZW8yNFI1TWxlOGhZSDd4UUVoMHI1UzBDRDdsb0QtZmJZWEtJeWdoU3lhMTdtN19fQ2RtclFidkxvVW9QN2hrYUZMWDd3YTMzWHhEdHlEY29EVEpjQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "RMAX Q1 Earnings Call: Revenue Tops Expectations Amid New Agent Initiatives and Cost Controls - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzVXZmNzamdNNG9PdFdieTRSbzBRVm44RlhZZmxvT3R3MjQza2ROeFZ1VTJTRHFuQ1VfZy1ZQkFYZlR0c1lwZTBPLVRzclRoLUdNd3JuTmRNeWZId2RzckZSemFDNGMzYkNocHVnSDVnSmV4N1JEZzdBS3UwWHluVQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Earnings To Watch: RE/MAX Holdings Inc (RMAX) Reports Q1 2025 Results - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDBPVV9uMEFTODlOc0FUME8zMXRPY05IcldqTmxrb0cyWEU3Nld1V0Jyeml3QUJIdkgxaXl1Mk5PRk00dm1lZ0pRdml1aFc1MjJSa1dwQWNvUHBxZ0F6LW1HY245Q2NsaUI1eUJRdTdJZUo5UlJpVHBaXzRJREhwbkxzWQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Trend Tracker for (RMAX) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzltQ0F3UGhVN1V0eDY4TEdMNzgwZkFBbkU4cS15MkprR3c3ZjB6MS04NzhDSnJFY0NJT09IeFFvQUM1R1MyMFFtckV1bG9FMENIZTZFQzd3THpNbnNYYjhEZE1seUVWZTl3aGdWNGJCbnp2NUpsdXpxZWdrY0NnajkxWGxRWGNqM0VNYVZRUTBtZllRSlVUVlFqRmlfUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RE/MAX (RMAX) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0NvZGpQbUFmMnRKUGF5VGh3NjhzSmlCeHJUVDBzM0hJaWRhUGRPU3R2LW1CMDBvZ0dFZ0tvSzhjME9GZWUtdjN1S3Fzc081dEV6Yjc5cVk3V0JiWWNCLTAtaWVWZXQ2QW42WTZGRWFuNzJJQ1NpTUtWN1doOWZJWDRfWEpHVXdIR1NUc2s4WEtCbnVXSDFnOFFYODg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "New Resources, Bold Initiatives, Modern Branding Take Center Stage at Annual RE/MAX R4 Convention - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWk81V3FqT2pndUl5S05XSTVZeEllLVRnbl9oaFVTQ01KZHBtemJyRE1SWGtoOGlLclhta1luNUdaUW9mTGtPemlGUW85QzVwYjdIU1NZS2VpcVZuSFVHc3NxZGFuUm5Bb0hwanBXSlg1b3pQaHpJbEswUUhlLThuN1BIMDkyQ2NJZGVpZllhNlVTdTlKMW44NnN4bkd3VlVJQXNEUmVBb3ZuLVlmVklTUHRVTnI5azgwUlk5dy1TdzJkVmZBMk1kV2ZFM3h2NXQyWWEtZV9hRUVMR0lQZmtOd0V2dkE?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "3 Out-of-Favor Stocks Skating on Thin Ice - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHM4dkExQkd3eEc2SXdhSEtWajBHNFl5Tl91SDlielNKZ0NkWFBKdGIxUXNDNmtrTWJ1TFFBRlZmMjBPUzNRcXVuS1FucjRyLTJ4QTFzU1VFUVUzM1hMMEdTN0Y1d21vaEpjc2Fia0VTQzZjYkV6UGhRMUtueFphYnh3?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

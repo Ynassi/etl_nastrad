@@ -2,16 +2,16 @@
   "ticker": "2914.T",
   "name": "Japan Tobacco",
   "sector": "Consumer Staples",
-  "market_cap": 7688304984064.0,
+  "market_cap": 7698958516224.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 42.37205,
-    "PB": 2.031784,
-    "EV_Revenue": 2.624,
+    "PE": 42.867027,
+    "PB": 2.0345993,
+    "EV_Revenue": 2.695,
     "ROE": 0.11771,
     "ProfitMargin": 0.14324,
     "GrossMargin": 0.55705,
-    "DividendYield": 4.53,
+    "DividendYield": 4.39,
     "DebtEquity": 44.153,
     "CurrentRatio": 1.78,
     "QuickRatio": 0.81,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10089803605452266,
     "ROA": 0.05935,
     "PEG": null,
-    "EV_EBITDA": 9.796,
+    "EV_EBITDA": 9.809,
     "BuybackYield": null,
-    "PriceToFCF": 23.544244315873268
+    "PriceToFCF": 24.017311852266843
   },
   "technical_indicators": {
-    "RSI_14": 44.71260252990471,
-    "Momentum_10": -2.652877697841727,
-    "MACD": 6.402342027347913,
-    "BB_Percent": 0.0860932920314878,
+    "RSI_14": 46.02338169341482,
+    "Momentum_10": -2.298332582244254,
+    "MACD": 0.9702847459248004,
+    "BB_Percent": 0.1444203773009705,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9294379540253944,
+    "ValueScore": 0.885517739218421,
     "QualityScore": 0.4788048736434914,
-    "SignalScore": 0.6385972035304985
+    "SignalScore": 0.6136708837445086
   },
-  "volatility": 0.0120062704246051,
+  "volatility": 0.0121915090923818,
   "beta": 0.206,
-  "return_6m": 0.0524784130029241,
+  "return_6m": 0.0640392624828398,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 10,
-    "target_mean_price": 4640.0
+    "analyst_count": 9,
+    "target_mean_price": 4605.5557
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4213.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4206.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4195.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 4185.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 4215.0
-      },
       {
         "date": "2024-12-13",
         "price": 4173.0
@@ -525,21 +505,41 @@
       {
         "date": "2025-06-06",
         "price": 4330.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4365.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 4401.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 4362.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 4417.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 4336.0
       }
     ],
     "current_price_data": {
-      "price": 4330.0,
-      "change": 43.0,
-      "percent_change": 1.0
+      "price": 4336.0,
+      "change": -81.0,
+      "percent_change": -1.83
     }
   },
   "news_sentiment": {
-    "summary": "Le groupe JT lance les bâtonnets de tabac chauffés Ploom AURA et EVO au Japon, tandis que l'entreprise est reconnue pour la 6e année consécutive sur la \"Climate Change A List\" du CDP. Malgré la détention majoritaire par des investisseurs individuels, la performance boursière de Japan Tobacco Inc. est scrutée pour son lien avec ses fondamentaux. L'acquisition de Vector Group Ltd. par JT Group et les projets d'expansion de la capacité de production de tabac sans fumée soulignent une stratégie de croissance agressive. En parallèle, les négociations avec les géants du tabac et la baisse des prix des produits chauffés au Japon reflètent une concurrence intense sur le marché, tandis que le secteur est également agité par des rumeurs de fusions-acquisitions et l'actualité de Nomura souffre de scandales d'insider trading.",
-    "sentiment_score": -0.071,
+    "summary": "Suite à une série de récentes actualités, le secteur du tabac est en pleine effervescence. JT Group lance ses nouveaux produits Ploom AURA et EVO au Japon, renforçant ainsi sa position sur ce marché clé. Par ailleurs, l'entreprise a finalisé l'acquisition de Vector Group Ltd. et prévoit d'augmenter sa capacité de production de tabac sans fumée. Cependant, des pressions d'actionnaires activistes et la baisse des prix dans le secteur pourraient impacter les marges. De plus, les négociations de Juul avec trois géants du tabac et l'acquisition de Reynolds par BAT soulignent une consolidation majeure dans l'industrie.",
+    "sentiment_score": -0.067,
     "label": "POSITIVE",
     "positive_ratio": 0.07,
-    "neutral_ratio": 0.79,
-    "negative_ratio": 0.14,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.13,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
@@ -549,8 +549,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Japan Tobacco Inc.'s (TSE:2914) Recent Stock Performance Influenced By Its Fundamentals In Any Way? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWVXSi1JaHl5Z3RPU3ZTRDdmOVByM1BNQkFxZk5wWXNPZV9PMXVkM3VWaHF4LW1jVUFEb050Q01HYWd1RjFNQUpRZmItRy1hR0QyT2tPMV9JRmIxNEVaN0xKLThpaTlGUXdHQ2xhM3g5YUt3NXBLc0N1WDRFRjBoS2lFUk5XTXRWTmpmUzJiQlFGcDlFQVdvUERuY0gzRzNLc2FNWFUzS0Z6V3RTcDNxUjBwOTcwYzNZeTgyUWp4OXdxdXpXUEVrNTlPUU90YU1lZmN5c0VYQktxajVremtISlU3MFNvd9IB6wFBVV95cUxNYk5DU3NKYkt0SHpmSzRtWkktRTY3WnNWUnJ4eDZyVHJzZlk4M3ZQc2xKZnB3eDZoaXNBTTFKWW96UVp6aU81alFEUTItakkxRERtVXFmb2laUEgybGpMd1JQVHBoSUdJYnFEbFJIMVhiUmFrOWQzV29VNGVmU2UzREUxSGd3cWd5Z0hnZEZPM2dIYVI1QkRyZFg2N3Y5dGYyZG5yM04ybTh4QVhFV3lKcnFzdXdFWmtrOEp1Z1dBeGh5NklZSVltTldLbEVmOXl5QVdTN0g5dzRtTVpGc3lSZmVvMGNqenBWUWtF?oc=5",
+        "title": "Japan Tobacco Inc.'s (TSE:2914) largest shareholders are individual investors with 42% ownership, state or government own 38% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHFYZ3NzMjU0SHBHYzZiQlBRbnBQREFka29TUDhwQ0JSSFloTGcwQzR2cmVnVXRVbTdwWnNBU1pZWm1TTHZPYUlhT1NuNDVkSHdPYzd6RC1PMG5WaUtUZDQ4WEE0dnVfOW14c09zS0ZhRThkOWRzejQxbFhjN2pNaTgwbEotdTdYcHR6aGd0ZTlLamlYVnNPWlVOVVdLcDRJS1N6Y0hfOWYteHZpUUpaYTRNdEd4V0tHNi1QaEpHLUljYTFsMEtaSVRBVVlsMlkwXzh6Zko5bF8wX21IWloyN1ZZM0FIQdIB6wFBVV95cUxObTJFbFoweXRkRnhIdWdVWGxmNG9Rc0c4Ym9BUWpiS2tJUFhBNXBkdjlwNHRRM3h4bTQwYk1Pd0ZDZU1wM1hYdEhaRVJmMmJjSUFlQ28yM2pCUGxRaEctRGlSbDBBZFNucDUxV1lnR3VhN0dvcXY1anBYb21tc3VuX3VNZkpXUkpzdF85alpqZktzZW02cDNBcjl3b2dBbGpZRjF5M0F6N3Bab2V0R0JwMm83bE5JXy0tanVwRXl1RXN1YW9Rd3hzNVBoYUNuNDRQbV9HaHAzZWpxSmNXWUpVNlZoOUJ2Z1N6WVJj?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -559,23 +559,23 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Japan Tobacco Inc.'s (TSE:2914) largest shareholders are individual investors with 42% ownership, state or government own 38% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHFYZ3NzMjU0SHBHYzZiQlBRbnBQREFka29TUDhwQ0JSSFloTGcwQzR2cmVnVXRVbTdwWnNBU1pZWm1TTHZPYUlhT1NuNDVkSHdPYzd6RC1PMG5WaUtUZDQ4WEE0dnVfOW14c09zS0ZhRThkOWRzejQxbFhjN2pNaTgwbEotdTdYcHR6aGd0ZTlLamlYVnNPWlVOVVdLcDRJS1N6Y0hfOWYteHZpUUpaYTRNdEd4V0tHNi1QaEpHLUljYTFsMEtaSVRBVVlsMlkwXzh6Zko5bF8wX21IWloyN1ZZM0FIQdIB6wFBVV95cUxObTJFbFoweXRkRnhIdWdVWGxmNG9Rc0c4Ym9BUWpiS2tJUFhBNXBkdjlwNHRRM3h4bTQwYk1Pd0ZDZU1wM1hYdEhaRVJmMmJjSUFlQ28yM2pCUGxRaEctRGlSbDBBZFNucDUxV1lnR3VhN0dvcXY1anBYb21tc3VuX3VNZkpXUkpzdF85alpqZktzZW02cDNBcjl3b2dBbGpZRjF5M0F6N3Bab2V0R0JwMm83bE5JXy0tanVwRXl1RXN1YW9Rd3hzNVBoYUNuNDRQbV9HaHAzZWpxSmNXWUpVNlZoOUJ2Z1N6WVJj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Big Tobacco nears $24 billion settlement to end Canada lawsuits - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnNpS1h1bGRrb0ZrZTZPYnlSYllCaTJLQ1UzQWt5SGY5Y2lEbE1ocFJwdm03SktRTTdYcFpxeVJyWDdlandhNlRQQy1xQlRVUUNBNVZpd0JMT3RsaHotUjN6OXE5RldrZmpHaUhCRC13UmJra0haUUFOWlNhdEF3TGRXSnEtQUVUSFJLdnhlcWpORjF0UzZZWDNIbHpqUnc0b0NFQW1Sc2luMWIwa3pRQWpmUVpCbGNSbGFhUHZnNVpVRDQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "JT Group Completes Acquisition of Vector Group Ltd. - Via Ritzau",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWRZQ0Nic2R5UEZzSWRlSU53WUFZQktwd0RTQ25EOWxJUnNZSUxnUVJyNjlzYjJycVd1Z1psa1ZtWUN2Vzl6dktVajAzYlo1MXJkdS1zNnVWRHduREJlY1pDRm56OWh0azNpd3dDM0U1YW1BWXVQUU9mTWIycHdFa1BvVVc4d2NCYnlwM25BQzlOZ3gta0lwTGYtMjFLYUUtM1I3N09ZcENwd1Z5dEMzQnFzMHp6Mlp4TjI1MHM1R3VWZw?oc=5",
+        "title": "JT Group Completes Acquisition of Vector Group Ltd. - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmVZZ3AzallMM1ZRYVJkT0NnSzRraFpsMjIxMGxsMEFWZUZZWXJXckVsYlhnUjZlV0VaajFIMGFtamJHc0tPTFNUM2JFT1BWbGlrTjJjV1dlOXFNVTh3Z2pfZkkwNXBrQXEyQ1J5TjAtbDJwTU03ZTdMUWFKLVNqTGJMSjgzeldyLUlEMVdWYkk0SGlhUHM2YTdiRXp6UXQtdmVKdGhhZU1lWnhZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "JT Group to Acquire Vector Group Ltd. - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZk1EZE9mMHY3YkF2NlZvODlEeFV0ejViRVJBUm1hU3R4cXEwVHJNUkdkMm5LQnFGeFF4enJGLTRtc1ZXS2JNbENyd3NpUWc4ODFfXzdvdzdtb0ZUeDRtcUJiY3BiOXlBOGRYQzgxdTM3Ml9FWW5ZQnhBSlpJS1h0M0w0TE1rNFpPd0kzdlJMcDFaRHFTdnhsdDF3?oc=5",
+        "title": "JT Group to Acquire Vector Group Ltd. - NTB Kommunikasjon",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORU43aUxYbFpQWnppdTRObkxhUmd3b3dNQmRXV19ZTWFna0lmdDRiMS14b2wxLVoyTjg5WHl2VTFieGJoWTMtVjBCVXdIbno1SjRwTndET01ZUkdsZkc0MmtVbEM2UmRLVVE0UElKNEFLeEYtaGRIWUMxV2J2a2pzUHJ5RUl2LVQ3MU9tcTBlWlNLaHpPYk1sQXVkNWd3R1pOUWVtWXpOX3luc0t5LV9lQ1Z6b1c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "British American Tobacco p.l.c. (BATS.L) stock price, news, quote and history - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oYUs0UHNhRHhldERFSVhLMjZ2VElNLW1PZ2pZbW9ldkdHXzN6MkI0YVd1UGtnaTROWnpXN2lZYV9kNUxsMWI5TnE2cVJMb20wTWFqbQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -589,9 +589,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan Tobacco to cut heated tobacco prices in battle with Philip Morris - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWxTekVYaDQ4ZGtrbGFMbG5Zc0FQQVdBdktGNUJJWThTMkZCY3o5b2JkeDBuWHRqRm4ybzFGcU5aakhFeEd0TGFNZzN2SmZ0WFlPRTExbzVlQ3pGNl9Zei1oWWFDbUJ0WHU0SWh1THp2WHFpSDdrMy1WN2RoaDJHRVYwU0szTEhjSF9tTzMxU0dYcHd2ZGJ4Zmc1N2ZlUjdrUkFhSUdyTWVyTDVNbTJRZnZ0S2tjcnVKckI4b2llX1l5a1lIQWc?oc=5",
+        "title": "Japan Tobacco urged to sell drug unit by activist shareholder LIM - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWJsMXJ4MEhhN3AtMzhsVjhwVXhzY01HbElFOU96Y1F1ZGZnNFJjTUp5NXpMa0M1VEpMNnZtcHZmcGlZTFVCRmRrQkhRUUpMVUN5ZXdBeHB5azNhdDlBVlp0eXc3QmRjRHM2Ukx2cDRoWVdHMmh0OE9FUnlDQUI3ZmRxdWQ3dEF6cjl5NUY2RkoxTFFqZlBBSXFmcUc4VXpNaTJhRTA5cEpmSFBSeTQ2NF8xSS1pSEVHOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan Tobacco to Cut Heated Tobacco Prices in Battle With Philip Morris - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHB4NlBxaGQ0RFNnbkJfTzduR3BOSkJlS3g0dGdSZTNJNXdhcGVwLVktMEE4UWhKNkNORm1JTG5PSjgyQ0RYekFWOFJ1MjV4MFNGX1BvWWpKX19ZTGRIdlNlNmpzdkNOcTNLdkpVS21mQVRWVlUtQ29XRklNRlprbTZsNTFyLTZfV0hVSkdMSW5fQXpMNFFuSEZpYUMwWWlBZzFQamlhY3RmZGNQT3dveGFB?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Top 20 Countries with the Highest Tobacco Consumption - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUExvVFNEcF9INzM1UjdvdmFaSDNKTVBhalVOOEVrQk9peHpFZjlyc1RGNFU0bUxmSmlXOXZiTGtNemgtcjhvczhKRnVxNkhjcGpBZUpRYzNfTTl5NEdNRDFCdTZMZUhLbkw3dmgtNHBIc2V5QnJiU3lHOUVMRGJjRjl1ekI?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Japan Tobacco working on several possible M&A deals - CEO - Reuters",
@@ -599,13 +609,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan Tobacco buying Bangladesh Akij's tobacco business for $1.5 billion - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPME91dnJPMmRkX3dvdXZyMWcxZGhtLW5fX2g5RFZ1SzBHQmppbDdaLUhXQmwwTFR0T1pkU1FyWU1SM3E1MjNMazdPbWdpN2JRa1VCWHlMdFZZckxsWGREaWNSTHNDWnZFQzdHOWJCeUJyZ1pwbmhXRUlodlR2a2tfVWgyQ0NDcm1ILTdnR09HVzlOS2xRNE1nRUtRa21WZWtXU29OemVjX0V6TkZOa3dWVWZaaGFvSUEyU3RyX19XQnpqd2s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan Tobacco ratchets up smokeless war with new products - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUdudmU5YzhFZzdIV2JHMVhvTzdEZWdpZHd2b29LdG5SbWE4VXoyb1VMbVBCSVNqcTdoQXJpZlVLOU9vTlRYV0RCS1JaaGpaMTR5ODFfUWJBOG5feVBsZy1lOG9Wckd5NUFWRW83ZEI4dEw0LVYzakxRYjRYVW9ieEYxX1ZNeVZTOXJNWU5lWm40ZFpBNWY3QkpRNWpJSmdVendRQ1dlV2U3dVZlU3A2Zlc3aE9LUHUtczFzbEh0di1LNlZOWXBJWEIzbnFVWnItaDJ2TFBoRQ?oc=5",
+        "title": "BAT agrees to buy Reynolds for $49 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdi1lWlJKMU1aSHIyQ2ZhTG5rNHRSYVRROFN2Mjkyb0dfNXdmNVN3RTBGcld1VU5uYkl6amVRVk1BRTdLNGloSUphSWNGbWFPZWd4VkNrd0luY3g4dnAtYVJFT1d3NnBXMFJ0dVRMQ2pRU0RxRGpUNW9lSnpjVjdKUUN2YVNYaGc3TURvTmlCNnNkQVgtSnBMLWxXR0RJQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -615,5 +620,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

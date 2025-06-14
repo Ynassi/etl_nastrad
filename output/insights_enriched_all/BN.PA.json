@@ -2,16 +2,16 @@
   "ticker": "BN.PA",
   "name": "DANONE",
   "sector": "Financials",
-  "market_cap": 47900758016.0,
+  "market_cap": 46692630528.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 23.67412,
-    "PB": 2.6823528,
-    "EV_Revenue": 2.066,
+    "PE": 23.201279,
+    "PB": 2.6287785,
+    "EV_Revenue": 2.041,
     "ROE": 0.12325,
     "ProfitMargin": 0.07382,
     "GrossMargin": 0.49703997,
-    "DividendYield": 2.89,
+    "DividendYield": 2.94,
     "DebtEquity": 82.906,
     "CurrentRatio": 0.931,
     "QuickRatio": 0.732,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.100873020189437,
     "ROA": 0.044499997,
     "PEG": null,
-    "EV_EBITDA": 13.966,
+    "EV_EBITDA": 13.798,
     "BuybackYield": null,
-    "PriceToFCF": 17.345920579832836
+    "PriceToFCF": 16.908430979978046
   },
   "technical_indicators": {
-    "RSI_14": 49.87199703550159,
-    "Momentum_10": -2.035961036427636,
-    "MACD": 0.5217490649248333,
-    "BB_Percent": 0.4246612419498975,
+    "RSI_14": 38.1236227019353,
+    "Momentum_10": -3.4821839335127245,
+    "MACD": -0.0326928402608643,
+    "BB_Percent": -0.0288215957327806,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9319430465055512,
+    "ValueScore": 0.890110973282993,
     "QualityScore": 0.4333580364259337,
-    "SignalScore": 0.6075441923094853
+    "SignalScore": 0.6574612047229862
   },
-  "volatility": 0.0116518109830256,
+  "volatility": 0.0116551327509154,
   "beta": 0.398,
-  "return_6m": 0.1753031606639585,
+  "return_6m": 0.1451198965663123,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 64.86
-      },
-      {
-        "date": "2024-12-09",
-        "price": 64.3
-      },
-      {
-        "date": "2024-12-10",
-        "price": 64.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 64.76
-      },
-      {
-        "date": "2024-12-12",
-        "price": 65.0
-      },
       {
         "date": "2024-12-13",
         "price": 65.24
@@ -545,33 +525,58 @@
       {
         "date": "2025-06-06",
         "price": 74.1
+      },
+      {
+        "date": "2025-06-09",
+        "price": 73.88
+      },
+      {
+        "date": "2025-06-10",
+        "price": 73.58
+      },
+      {
+        "date": "2025-06-11",
+        "price": 73.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 73.22
+      },
+      {
+        "date": "2025-06-13",
+        "price": 72.62
       }
     ],
     "current_price_data": {
-      "price": 74.1,
-      "change": -0.18,
-      "percent_change": -0.24
+      "price": 72.62,
+      "change": -0.6,
+      "percent_change": -0.82
     }
   },
   "news_sentiment": {
-    "summary": "- Les acquisitions et fusions dans le secteur de la mode se multiplient, avec Prada qui acquiert Versace pour £1.1bn et un consortium offrant £1.4bn pour Soho House, stimulant ainsi le sentiment du marché pour ces entreprises.\n- Les ventes de Pfizer pour £2.4bn et l'acquisition de Skechers pour £6.78bn par 3G Capital indiquent une dynamique importante dans le secteur des biens de consommation et de la mode.\n- En revanche, des préoccupations subsistent avec les bénéfices en baisse de Lloyds, qui a mis de côté £1.2bn pour un scandale de financement automobile, ce qui pourrait peser sur l'attrait des investisseurs pour la société.\n- Dans l'ensemble, les mouvements de fusion-acquisition et les performances financières contrastées des entreprises cotées influencent le marché, créant des opportunités mais aussi des risques à considérer pour les investisseurs.",
-    "sentiment_score": 0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 2,
+    "summary": "L'actualité récente des fusions et acquisitions est marquée par plusieurs événements importants. Des offres d'acquisition significatives ont été lancées, notamment par KKR pour Assura, Qualcomm pour Alphawave, et DoorDash pour Deliveroo. Cependant, des obstacles se dressent également, comme le rejet par un juge de la proposition de rémunération de 56 milliards de dollars d'Elon Musk. Les investisseurs surveillent de près ces développements pour évaluer les opportunités et les risques potentiels dans le contexte économique actuel.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "US private equity giant KKR outbids rival with £1.7bn offer for Assura - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZFOWU1aE5fUndGTEV2OU9LRkk1cFRpcTNsY0ZNN3ljYkZlbXI5MzE5QlduUHdNS3ZVOERMME5ET2NqVExsdWpoUDN5U0FBUllSSHNWczRjY0xJTXhqVF9sM195SHVPTGljdHFqWEVuRWlxQUxNZ2dqRktsWFlIdXNR?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Growing shareholder value - BP",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2VwZHNHdUJLZjN1THFNM255R1NSdU1HNXRJZzYyZ0g2M3h4dlBVQ1VBeUhTY1BjSmhYSnlfOENpUzZfamNaQ01YbFBqNWdURUtIeEhzZXo1ZzdELWFvcDkzbXR3SmhudjNKOUhBT1lJd3k2bGFHT3pJMHpfTTU4ZEFEY2p1aHdEZTVNWG5QQUVTZ3JBVTR6aG50UDNYc2V5OU5LSjFjWWNpLWk5SDl1NWJnNA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Record £1.23bn paid out in pet insurance claims in 2024, says ABI - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUZ1h0bXZoU0FrX2E0WS1iQjdtZFFyb25kdjRHM2VnX2hrY3VUN0xpMEtSX21Xa1VVa1lySHpmSS1FWlBodmJKQ09OcTl3Ty1rLW9rcVotcncyYU8wOG1FN0hXZ19CZUxrRHBKOXpnRHlzb2dWUXdpM0xVTQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Alphawave agrees £1.8bn takeover by America’s Qualcomm - Yorkshire Post",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXVjUE5tTUlkMWxHOVdQdXFaVGtpWUlSMTlSLUlNb2RoVHRBUzdzSmc3T3hCUGVOUTRBS1kzMXpDUGVOTWNzRU1vcFdHdG1leWNVUGFoUGxaYlNXVlZSdkRmeWs2V2YwUDdhRldkaHdXcVFQNl8zVmVTdEFyeEV4RFhVbmxvamdJMktJZEVBd2d4cDBwa2YxQWNNZWMtOXZtNGxXSw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Neurocrine Biosciences: Recent Selloff Has Created A Potential Buying Opportunity (NBIX) - Seeking Alpha",
@@ -589,29 +594,24 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Howden US takeover to pave way for $30bn stock market float - Sky News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEd1c1docTlyMWVQa3BSWjN3RjZkQUJleXBPOG1WcklwOHN4SVpoZE11SVlvWTEydnNoc21RdEozYklNNFptRUNWT0Z6RWZNMHRYVjFfYTJPZkxXek9FV1hoS0RzeXZSa1VWTkpSQkljbFo5TzJDLW41MVhWSUZzUU9iQkQxUHBkb3JyeGRRV19tMXRBUHN4Q1ZR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Soho House shares rocket after consortium tables £1.4bn takeover offer - The Independent",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOck5IYjlmRy01d2xVX2VTME9DV3EtLS1rU1ZKTXJPelJQeGptRUdPaHhoeGg2ZXBzWVFKUVhUWG1tZm5BcHlMN2hzbk84TUlvbjR0eU56NGZTY0lzemc2VW9PbGRxd210ZmxaZUtDOFAteTJyQ3Z2VzBOQTJkU0ZoWi1fOTN0UXdwR25NenRIdHFNd1BCYU0xS3pqMGFTZHhRQUpQS2lLM1hoUThBUEx6MmZhZnNIbFR1dnY2bURCczVTbFZtc1dtYQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "EQT to shed $1.2bn of shares in Swiss skincare firm - Portfolio Adviser",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWlBZjJzZmpZellvNkswd3J0cEhZY0VUNHlBUXplNFdDU01zaktTdDd4SW1lMEJsbGh4NUFtTkNLUU0yNlRRM2V4UW5WTmF2T0IxMjh3Q0RBNXYyUlZwTjZxbWVxNzYzQk5zMFZtX0xwWjBnSEhCVXdVUjY5dDIzTUh2TS1fOUNDd0NfMWRab0dOdw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Howden US takeover to pave way for $30bn stock market float - Sky News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEd1c1docTlyMWVQa3BSWjN3RjZkQUJleXBPOG1WcklwOHN4SVpoZE11SVlvWTEydnNoc21RdEozYklNNFptRUNWT0Z6RWZNMHRYVjFfYTJPZkxXek9FV1hoS0RzeXZSa1VWTkpSQkljbFo5TzJDLW41MVhWSUZzUU9iQkQxUHBkb3JyeGRRV19tMXRBUHN4Q1ZR?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Prada agrees to buy Italian fashion rival Versace in £1.1bn deal - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXFTbW5ZdWp5aEtzUGxhd2ljSzUyT3lMeUYycjBtUF9KMmJJbUFkOUZqZUxOSklCSXBRMEFWcmNCUlVOV0lUcFpIVEdZWEtSRVl6bk1ENEhzRk03WEhWTGlwdm1Ka1NOR0I2cldVWDFMS0tNS2dYQVFKVWlQRm1MVGJRUkZiV0Zm?oc=5",
+        "title": "Dairy group Arla sees higher revenue in 2025 as prices rise - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHBSRWFDLXppaGxRVmdINkl1MkltWEdFX3V3MGtxTHNoN3lUYlRaSFppZXJjV0NEOTd2OUp2UWR0ek43SkxjWlZfMGNpRVNmVDhJbVo3RlN4TmlWUnQ4UWk5OWIxRk5uMnROZXpTdXg0ZDIyYlR6LWpsdEcxbURfd3lpNA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Bain Capital to buy financial software vendor Envestnet in $4.5 bn deal - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0VLNG5KOXh4bHJKWTJEeno0a2NvODBxR2w5MXp1OFEwU0l4NHVPcmV4VE0wYzd2TXZJc1NYUWYwYTZEU3hYMXNxQjloU3JzZ083OUxMSThTaFF3V2pEc3lpeXVYbWtBMEFGQ0dncThIUUY4RGJ0cjFEd1hpVmlNYmd3Q2VrbnFUcWxyWDRzYUtFTXIyLU02clU3S1d6MGpkTkJfTHEtVldaa1E4RnFhSkFHbl9wTElibEJGTUhVUldWVDN3QTd1UVl4aGhVN3ZV0gHWAUFVX3lxTE9oR3ZBQU1QaVYzai1ub1J3NFk2VjdOdVhxZnZnQVpfd0Y4NVBTT3QyN29iNU1uS0wxc0JOY1AzaFlTUDFRZXZZbzhTUE1LUDJXR2Zwbm1Edjg0QU96Q3FZMWIxYVdFZ1o3UFZBb1F1Q2RMMGJ2dWpUajF4cnZuTF9ZdWxjM2RzUTVzbllPRXB0cHk1UDZ2aXRqQkx2Q01nUnY2MzJ0aU5PVW5VZnMwT0Uzd1ZERU5iZHh3dVB3WXNmeDJhQmJhM2ozZ1RwaWF6cmRKM1pjSXc?oc=5",
-        "label": "NEUTRAL"
+        "title": "Trump says he will block Nippon Steel’s $14.9bn bid to acquire US Steel - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84UEtlc2xJTnYybDlsd3FxVkotMjZKaWd6MTkzRXhLWnNYSndwRkJ0NExoU3Q4QzlrcHVjOGhJMjVycHNSX0FlZVBNQVJUel9OXzhIeGx2RGY0MWdqSmozMWNXVDRfb3F4bjhkN2pOcW1pbUJma3FzSkx3?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "‘Fatally flawed’: Delaware judge rejects Elon Musk’s second bid to ram through $56bn pay package - The Independent",
@@ -619,19 +619,34 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "British taxpayers' £10.2bn loss on bailout of RBS - Sky News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMG5oaUJ5dHJxY2J4MG0xaGhyZDc1RE41M3VEWmMxeGMyWG04dk1Jd3pBNDVzZ2ZHa2FxdWllT0ZRLTNWYWlONmhUZjlkWWdTVDdweURoVVI1RjRDaGZBTnQ2TG9xS3h4MkdnLXZxemJJOWQ2aDZRY1EyM1l0MGhNT1FWZGFTLW5fckU4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Just Eat to be bought by investment group Prosus in £3.4bn deal - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0djWDgzTTkwU0FWQk1Gb1J6dUlmVGtaZUpmUEk1a0haQUFlLU84bDhxX29fSmdiRzhLY1ZtVU1nUzBzWG9mQ2xLZzN1V2F2d1hOX2tpMjdnNDFURnNaVWNaNm0wR2dFS1JlMTh3R1dzeTcxN3MzWXhGRVVDdE1GTzhMbWFZMkhm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prada agrees to buy Italian fashion rival Versace in £1.1bn deal - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXFTbW5ZdWp5aEtzUGxhd2ljSzUyT3lMeUYycjBtUF9KMmJJbUFkOUZqZUxOSklCSXBRMEFWcmNCUlVOV0lUcFpIVEdZWEtSRVl6bk1ENEhzRk03WEhWTGlwdm1Ka1NOR0I2cldVWDFMS0tNS2dYQVFKVWlQRm1MVGJRUkZiV0Zm?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Sheilas’ Wheels owner bought by Belgian insurer in £1.3bn deal - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2tXcnpXSjNSYWNiZTN6LXpIemVOSjFIXy10eUNKTUd5LVZCRlRlcG5odEk0U3d5cURZYXpEX1kxY0xDdE1LY25IRjFGSDM4RGtyMnd1TjFvNnU3RnB4TkJ5TkV4dGhYNy03NUl4UlViX0pneWh3OWcwRHF2TkljaXZwVjNoVU1ZTFBOOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Pfizer sells further shares in Sensodyne maker Haleon for £2.4bn - London Evening Standard",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGJOWGd4bmQ2eDRXcDMzTFk2VlR2WGtlX3lNRkJKWTVMa1NidXl1OS1MSHVfYVVzRVYwb3BIS2JDTldVSDJYY0VmcXZiLW5aUzZUWGprS2Y5dEd1WEdxNUREVDJ0LXZ5OXd4UHA3OFRxVGlsNTFIa25DWHgybjQtTndBemRZUU5WajJHR0xpTmNjUXFOaVdWc3ZZenEtZWZocnFGNGRWMXVGYWVXLVFsTXRVY0R6TXMxMGJhZ0VUVXZ0R1JlZTRxeA?oc=5",
+        "title": "Royal Mail owner’s £3.6bn takeover approved by shareholders - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ub1NGYmZRYlNpQUEzdGhHbFFoeUtDLVp5dFgxNll1SkQwRUVvRGdZV0Y4dmpuSUtaLWxNaDlHeVBUMU41bVZYOTRWQTc2RDRHWFh6bmZnZ0szcE9xT01OVXpDQkRtRklxajB4NHZRX0FQMGRoTnBnQjQ4UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Just Eat Takeaway.com agrees €4.1bn takeover - Sky News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWJQekQxZHlLTzJ4cXZGak45azFPZlgxV1U5SjBhRWNzMnFxdFZERHBndnVkaWQtemJYUWxPSWJlWE1RMEtlTkM5U2NaRTJSMVhadFZmbGVmSzhEVWFZQ2tmRWhCMzZUUjlTQ1NHX3RjdkRtOUd2X3cxU2hqc3kwMUt4QmllZw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Record £1.23bn paid out in pet insurance claims in 2024, says ABI - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUZ1h0bXZoU0FrX2E0WS1iQjdtZFFyb25kdjRHM2VnX2hrY3VUN0xpMEtSX21Xa1VVa1lySHpmSS1FWlBodmJKQ09OcTl3Ty1rLW9rcVotcncyYU8wOG1FN0hXZ19CZUxrRHBKOXpnRHlzb2dWUXdpM0xVTQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Carlsberg’s £3.3bn takeover of Britvic given go ahead by competition watchdog - Yahoo",
@@ -639,31 +654,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "National Grid sells US renewables arm in £1.4bn deal - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjV1MG1QazZuUkluOUFxN1hneXh4M0JiU3h5UXBIbko0SWdJbHhITC02aHJWVVk4M0EzMEdDZWRrQTVFVkctM0Y0bTdZWDhlM0N4bGRzdkd6c3FmNWJ4NF80Y19BZmQ4c1VKZFQ4V043ZnV3bVA0YXVobFN5cGtkczk4RHRJZm15bkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lloyds sets aside £1.2bn for car finance saga as profits slide by a fifth - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Cc0dIaFFHQk1RT3NUbll6NldpU3c3bXJXVEdPY3diR0s2b0JacXBzUEp4NjFxWWdqVlNXU3BPa2lEQVlWQWNKNHc4UWVGcmpncDExaXJNZlp4eDhxMnd3TEh2OWVNUW1GcDlhS2dIeEgtRF9GRC1ZTC1EaHY?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Royal Mail sees parcel boost over Christmas as £3.6bn takeover nears completion - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2tVczdSOFFwR3FqeWozT2ZCWHdhcG51WkdHV0xJTDVGSFdLcVBlZnlBVWNnb0U2aEJGRzdxOHYxYVZXQlhxSDdEeGpvVVZ5b2NaUkM4elNzTktLR0pwcXQzRGxRWF83a3VGN3BwZFpiT1poSkN6Tll4Y0ZYenVBbF9wSQ?oc=5",
+        "title": "Food-to-go firm Greencore agrees potential £1.2bn takeover of rival Bakkavor - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmdRSXNBcW54blJybDdqYURvZ1ZGY21mSEltNnVLYlE3SUJoN1dRM3k1M3ZCdmdjMnp0X082bmh3WFNrNTZfV3BLTDc0Z1RDdG5USmQwMWdWZG1TbFBidW1xdHZxUEl3MWFMZ1lVXzhmMVozVHJFTTFIYmtIOWFmSEFIaU13cE4xQlFydUh3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Royal Mail £3.6bn takeover delayed amid political woes in Romania - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUlA2ckZmUFhzeC1GWm5OMFlCTzNHMWdiS1RNRktOalRCSnZtOENmZjhZX3VlQUdtQkh6ODVWdk5vTlkzZklfRkpzQ0RKYlVZVS1UbnV6aWFBOWpVdzNWOWFhaDZ3VVY2a0FhNEc5VTUyT2lIM0hnazdRU0NsTjg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Skechers to be acquired and taken private by 3G Capital in £6.78bn deal - Irish Examiner",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YcWlMcTNVYTllaWczV0NyUGJKV1NJR0lpcVl3aUZHenJLSDliWW1WT1puRVhGUFVfdGZhZjZYNHJMZjBheVhzaWdKblBEZkZ2MEpJaC1EWk1qN1BaM0FDOG9ybmI?oc=5",
+        "title": "Prosus launches £3.4bn takeover offer for Just Eat in deal ‘milestone’ - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41ekZualFBeEx3U1ZZUDdoU2dZR2FqQWtNdHBvUXBYZWE2TVdoTHNRRGkyWlFYUmR4bEdCckIwMlRKY1BMVkd1SjFEeFNqSWxmY1EtTlRVYVd3dllNLVIzdUloOHV2ZlZMbHR4RERoM0FGTnlhYmxRWERicw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

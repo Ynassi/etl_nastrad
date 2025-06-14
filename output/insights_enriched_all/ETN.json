@@ -2,16 +2,16 @@
   "ticker": "ETN",
   "name": "Eaton Corporation",
   "sector": "Industrials",
-  "market_cap": 129567252480.0,
+  "market_cap": 126462287872.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.379032,
-    "PB": 7.001311,
-    "EV_Revenue": 5.397,
+    "PE": 32.612007,
+    "PB": 6.833531,
+    "EV_Revenue": 5.457,
     "ROE": 0.20812,
     "ProfitMargin": 0.15554,
     "GrossMargin": 0.38448003,
-    "DividendYield": 1.27,
+    "DividendYield": 1.26,
     "DebtEquity": 58.004,
     "CurrentRatio": 1.306,
     "QuickRatio": 0.78,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.101602002528445,
     "ROA": 0.07821,
     "PEG": null,
-    "EV_EBITDA": 23.586,
+    "EV_EBITDA": 23.847,
     "BuybackYield": null,
-    "PriceToFCF": 50.39009872487258
+    "PriceToFCF": 49.2459071354298
   },
   "technical_indicators": {
-    "RSI_14": 65.4500175906455,
-    "Momentum_10": 3.13793922185928,
-    "MACD": 7.4627176670338145,
-    "BB_Percent": 0.8155523128720613,
+    "RSI_14": 53.9348566965681,
+    "Momentum_10": 0.993126968941265,
+    "MACD": 5.415653686233611,
+    "BB_Percent": 0.3478217597421328,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.928193535897164,
+    "ValueScore": 0.8766142989574519,
     "QualityScore": 0.3408499887057302,
-    "SignalScore": 0.4794017616441848
+    "SignalScore": 0.5577532280053745
   },
-  "volatility": 0.0278881314775536,
+  "volatility": 0.0279198665228712,
   "beta": 1.143,
-  "return_6m": -0.1016378131910986,
+  "return_6m": -0.0857048678341244,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
-    "target_mean_price": 348.53036
+    "target_mean_price": 347.575
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 364.06
-      },
-      {
-        "date": "2024-12-10",
-        "price": 358.49
-      },
-      {
-        "date": "2024-12-11",
-        "price": 361.91
-      },
-      {
-        "date": "2024-12-12",
-        "price": 358.64
-      },
-      {
-        "date": "2024-12-13",
-        "price": 356.01
-      },
       {
         "date": "2024-12-16",
         "price": 355.15
@@ -537,43 +517,48 @@
       {
         "date": "2025-06-06",
         "price": 331.45
+      },
+      {
+        "date": "2025-06-09",
+        "price": 325.81
+      },
+      {
+        "date": "2025-06-10",
+        "price": 324.24
+      },
+      {
+        "date": "2025-06-11",
+        "price": 325.71
+      },
+      {
+        "date": "2025-06-12",
+        "price": 330.34
+      },
+      {
+        "date": "2025-06-13",
+        "price": 323.66
       }
     ],
     "current_price_data": {
-      "price": 331.45,
-      "change": 4.71,
-      "percent_change": 1.44
+      "price": 323.66,
+      "change": -6.68,
+      "percent_change": -2.02
     }
   },
   "news_sentiment": {
-    "summary": "Eaton Corporation (ETN) a récemment connu une volatilité significative suite à divers événements. L'annonce d'un partenariat avec Siemens Energy pour révolutionner la construction de data centers a suscité un intérêt positif, tandis que des inquiétudes liées à la demande en data centers et puces ont entraîné une chute de 16% des actions. Malgré cela, l'analyste Jim Cramer reste optimiste quant à l'achat d'ETN, soulignant le potentiel de rebond. Il est crucial de surveiller de près ces développements pour évaluer l'opportunité d'investissement dans cette entreprise.",
+    "summary": "Eaton (ETN) a récemment sécurisé un contrat de 25 millions de dollars pour transformer l'infrastructure électrique de l'aéroport le plus fréquenté au monde, ce qui pourrait stimuler sa croissance. Cependant, des inquiétudes persistent quant à l'impact sur la chaîne d'approvisionnement en IA et la demande de puces, entraînant une baisse de 16% des actions. Malgré cela, Eaton poursuit son expansion dans le secteur des centres de données en acquérant Fibrebond et en renforçant son partenariat avec AMP IT pour le chargement des véhicules électriques. Les investisseurs devraient surveiller de près ces développements pour évaluer le potentiel de gains à long terme.",
     "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Eaton: A Dip In Stock Price Would Serve Investors Well (NYSE:ETN) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkU0cy1OVWZEa1RJdk9ma1FaeTBlYmE0dTVfS0VJX2cxVHo1SDBKTERtSGdFMHVEbWt4cFU5UVpTa3hHX2MtdjBOaDg0V1lQb0ZkbjdSSnpVSmt5SlBxa3p0dHp0TGZuWElGWjBkU3QyaHlBRVRmaFRUQzNra3RfT0paMlRQNkFvSFJzR0h2QTdTRVhVRUx5eFhB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUZoaVNMNXdtRlozb1ZFS3FCTDktM2p6WWVmY1NXVEtHU0lobU5TUUtSS2NWX1E4V2dkYWpIRGF1MGRuU2V2QU9mTC1CRWRwRUY4dU5TdkFHZlFfYS1LTmRjbnJNQndVMnRDS3RqT3JxX2hZR2stQmxjNFNDdnV4VmZ0Y3dFeEU?oc=5",
+        "title": "Eaton (ETN) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV2steHhXS01CZ1dIM01HdG52c2JzNUI5ZktfM3Q4S19jd1AxdDNNQUpvbGRkOENRSWZpdHJGTkdvaDFGRlZqM2s5NEtCcWM4NkI3Vm4xQ2Z5M2MydV83M2szOHREbTNMSU1rc3hNR254ejZpRmVlNFNpN0xPbjJXdU5B?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "ETRACS Gold Shares Covered Call ETN (NASDAQ:GLDI) Shares Up 1.8% - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUNkWFBmYVdvQ1Bwc09oazVEQ2t2ZFh5R1Vhai1YYzFkSUpKMHlDUHhDcHZWZjBuN2QyaEhFNnNIWnltYTJwMU9UdDI2QlNIMFM0Q1dXeS03MzZMOHlxMGZlVVhQcE9kTGhjemlOTXhHWG5FSEdjNVQzQzlWVV93eWFmb2JWcTc4QUdJTHBEZ25HVFd5aFBFcG1WbmNtS0xyOGhfWjVnRjVGNFpXellobzRVTzNKX3VKMUlibGpCM3U1RTE2MXRoejZWeVdReWItdWd1cA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Eaton Corporation (ETN) Stock Gains Over 1% in Mid-Session Trading, Shows Mixed Longer-Term Signals - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzE4cnVlTzRTX0F4VFFRSjl5LWNDMDk4Tk1FajRxeERGQjZ5T3ZyYTlRanlHUHFaRk9JSW5ZRkp6RE1mWUlKTUk5cHh2SUJja1FneHVkejZmTkczTDE0MUYwb1NsS2ZsU19pdUdmU1YwdDRlbnJqNURfY2pGOFlsVWFZN0MwMlFJYVVNbEZFYnpaczVVSWdhdjNabUkyVi1UWFd3OGZoM0R4NVA2NTNhbFF0TTM1MEE4cVRVcllIZjlvUVZPWU9JT1pIWkZHa2dXT1JQMVVJWQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Eaton (ETN) Stock Moves -0.48%: What You Should Know - Nasdaq",
@@ -581,24 +566,44 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Critical Update: BMO FANG+ 3X ETN Ticker Switching to FNGU - What Traders Must Know Before June 24 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUF9vYU9ETmxxNVh6dTVVMWNhX1duMjJDYThWVmNJOUNDQWZ0MVhBN2JvWHhhYmI2VFJSLTZCMEpXX0sxdmJqdFlFLVoyemNYTnN5SWQxeGpNcUROUm5MRkp3TEhSM1RzY21YeDFrWm8wbDNFaTJndDhUcGFQbzQycWlyRklwXzBZamR6TVRMbFVaQmVUMFpCZU5XUDJkRjJLb2IxNXN1bEdyMzhCM3ZYTTlhNmJnM0hQdFE?oc=5",
+        "title": "$1000 Invested In Eaton Corp 5 Years Ago Would Be Worth This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnZ0ZlhCX21ieU45LVZCWDZkNXdVbGQyYmFMTmlWUkQxMXpjZUdEZGVRQUNjZVFEeE51T0dWT3J0NkZHUUdKc052MGpJcldtallhdnhmYUxwc24yVnV3WFFGVkpsTVBNbG1MWGNnV1o4LWNlMnlpbGN5UjFDM2JxRE9HV3Rhb1h2NXJobXkwWHJTQmZuZmF6QWRQSGtab3gyTTZtNTZzbERXZk03cHJLUmR6d2lRVzl3bmJUZGFleVZTQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Eaton (ETN) Partners with Siemens Energy to Revolutionize Data Center Construction | ETN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUThreVZKbHgyaW1wSE5TOVBocXRZZjYyNzQtUFplaHVsSWprOHZtWDN2WWJxX2VCQnBSVm53bnd6SzczR3hFX0NtUVdZSkg3WG5PcnJCUTFKNnVrUFdjQ2lJZHhzcndDRmxSV25sTGVzSXQ5TUF5OEhNVTF0UTljNDI5WHFPWGxnQVEyWDBOeGdHaWM5Ui1aekd0eWlYNjdQSnU1UDROVnE2X0dOMmVlMVREUWk4TGkwcTZOMlkxOHJqaG9kbGU4QkNOamxkWnc?oc=5",
+        "title": "Eaton Secures $25M Deal to Transform Power Infrastructure at World's Busiest Airport - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEF3UEZHWUl0NXlHNjhnaWFpMU5ONWV2SVVpQmJNMUpJMTNoeklOcGdsV3JBWDN3TVdVaWZKWk5GQmVsbm1XSnJYbFF0M0ZvSHZLdkFzS203SW42RDdRV2pidHVHaXVGSnpMR20tZGNPdlFTVmttV2dkbmtyREZtRXlQaEN3dWI5T3JLVl81b2hldlBEU0t2enhIQzdCLU5MdmVlVklIdzlpRzV3dU1NYjVTc0g0MGpIb1QxeQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Eaton (ETN) Secures $25M Contracts to Upgrade Atlanta Airport's Electrical System | ETN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMVFjb1VGZHlOSFpfMzdrNGcyN3kxYTZGaFQzcWYtdW9VT0RUTXp2ZnljZTJfVXVDZDF2cnBPdzRsZDl0eXFPRjJMUzFvS2F0a293NXZGa0ZIUjVHNDBwSjdqSjJ6SEFpaGF2UEVyalhMdXZpVTJjc081MksyTDdnYVdhZnAtdFd6NHNiRXJ5NDJ4TUg1Z2pTaHpma0Y3Qmt1T0JocllUNzdrdS1ERTlKUVZiWTZvUk93R1RCdHRFbHVaX1oyNC1lQk9jVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Long Term Trading Analysis for (ETN) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUhLUW1ocVhzVEhpRktINUJlVEhTZWlTSE5KT1dudVRrNGFTMy1DckxkWEhhZDFtVEthZXhnU3pfNzlnOWxHQlVTaF9xekV0UFRsOGZmVUVlU2dHV0RXZEJ2YlNFSXdXQkFRQnlfcXlWMHNZZmRCM05TMi0yU1lBTzQ1QlJ5bEdua2JrWWJhVVh2NW1xQUxhRDBVN1N4WUJfTGpab2tqRS00Ui1OcUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Eaton CEO Makes a Multi-Million Dollar Stock Move! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDBVeEsyOGtRTkFFYldScTVPblo2UldPVFlCZVVNNXZDVnY1UElqSjlXRHZIYWJIdXg0bjdvTXNVSUVuWXh6LVoxeHc0LWFxMnVMY2ZqWjBaNU1LOVdSVzR2RXUwSzBSb1B4Qmc3bFhXOU5nNllxeGZFS1RUa1NpamdQM1dXWHpCekhJT1ZtanJpV2hCQzEzOC1qRQ?oc=5",
+        "title": "Industrial stock tied to the AI boom reports strong quarter. We like it, for now - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFl4Q1otT1pKOTVJWU9uajVzMlRrVGhVOUdQMi1ld09RamU0WDRycFFBTFA5RE93c3M4Snk0clZNd09jbF9XaXlMdTlFclhfOFctalNzVl9DVm1rdlpQdy1BX1BHSE9mWjdvTlVPaXhCSFZwb2ZaWmlyNTZxT19EQnFjOGoyNklXVUczWWJRZXpIM2J2akhHc1NfQ3ZrTkV6OWVSQU00Zlo0bDg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Eaton: A Dip In Stock Price Would Serve Investors Well (NYSE:ETN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkU0cy1OVWZEa1RJdk9ma1FaeTBlYmE0dTVfS0VJX2cxVHo1SDBKTERtSGdFMHVEbWt4cFU5UVpTa3hHX2MtdjBOaDg0V1lQb0ZkbjdSSnpVSmt5SlBxa3p0dHp0TGZuWElGWjBkU3QyaHlBRVRmaFRUQzNra3RfT0paMlRQNkFvSFJzR0h2QTdTRVhVRUx5eFhB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "VWDRY vs. ETN: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lcnNFYVhGNG9YRHQyRnEyamlPVE94bERZYmZ5VHdpWDAtd000eDlvaEZINEJWa0REaFZkZG1OOWczbU9PWFBDcmVqSG1iQWdXbkR4NWhuZTl4UmdpYnE4ZFk4ZDRGUzluejhMdmxnRlB0bURGMDdNU3ZnRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Eaton Stock Outperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0dJRXJXLVJDUFQyZFFKN0pmM042MExxQ2swa3QxVERTaW8wMTRPYzhfbU5KNEpTakJGTkFhaWhkdnFlZlFNRmZtM1dLaV9qNll3aDY0NHpXY2N4WXlZOTdQelo4WlU4MkMzdndOWk5yc09UMzN0MUotWVlYWGFISmJkbERwZ2ROOVJEdzdYbmJrNnAxOTdJeA?oc=5",
-        "label": "NEGATIVE"
+        "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3J0WUNRbTBrVlBMTUVfTUlBUi1DajhHU3F2MHM2azZDN09vSnZFRlRtRUVUQ0RVOUZhTlc1MndvTkdpVkc0SjluNFpxSnJyb2VMckhJLWp0eGdKc0lkdUU3YUg3VTJ3Ylh0OUQwUXdzZ28xb29wMFR0MkthYkV5Y0F0UzYza0xYMmdTRlQ2VUxHZUdTa0t3TldXdU03TWYyNVRzQ1RCWHZWcmdMaDh2OHUzT29xOURpdWRwc3RqNlhGUlJFOUNLZnlJMkk5WDA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Eaton Corporation Stock: Analyst Estimates & Ratings - Nasdaq",
@@ -606,24 +611,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Short Interest in ETRACS Gold Shares Covered Call ETN (NASDAQ:GLDI) Rises By 1,225.0% - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWZBb0hlamVEOTFGdkh2c0NXbWVlQ2YyWk5kNlljTnVFd3VVMVpPbUJuSGd3NWVoODUycGVxbjhkOG5uTFloNV9taWRuMEJldmRDSXRQQ1lzdkJHTXRTUkV3VVRFVURyWmFVT1pMVm5hbjZnbDhpTVRXQ25KTHhQQ2p5eE43a0NRMHRpNExkcUF1UjlSUmJKNHlzMWhHTnFiR0EydEpNc0UybzhoVkRMX2UtUm00VGhzcW5zRFpyam52dUpFSWZaM2FJX0g4bFQwcFI5TmJ1bjcydl9v?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ETN Buys Fibrebond, Boosts Data Center Presence: How to Play the Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjdYV0dmTV9XcGE1MFdLRUwyS0w3R05MQXRkSHhzSTBsSjA0TmRrbmVJX3o5eFVGS0JtUDZjNEhJc01ySWRCdVh3NzdUc1RqcmVKTXBKb0lwQzJxY1dDcjJRaGVnSVBNbU8ycWI3ZEJXc0xzeEZzRmp2a3J4QUVRV3NR?oc=5",
+        "title": "Barclays Raises Price Target for Eaton Corp (ETN) to $323 | ETN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHl0cFdQblhCY3VGampXLWdoelFXS0JGS004eTMwMDA2MjBla2FHUmZIVWpJNnJnblU1S1FWeGlST1pBeFo1Z3NLZ1JtdEptZ0NfQV9qc0pMT1pQN2lPOF9mV1R1Qm5OMUpOZm1wcmQyZGFWWFFUU0Q4ODNjRWZXVk4tcjExNGtCdGpybnM0a0toZ2QwSmdldFlJaVRjdGN5WmwtLTMtcUQ2WmNQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "ETRACS Silver Shares Covered Call ETN (NASDAQ:SLVO) Sees Significant Increase in Short Interest - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZV9wNkhzdG5vZlpUcW4xU05mb2xzUktpWjNmd3FnZGdCeTZ4bGpOWHV4YkZkYmZyYVc1akFBZGZ2WHg2RmdmZDYzQVB4VGdZNHhnRlExb0dRYkpYelV0akdrT2pUaS1BMTM0V0ZReTdYWG5NWW14OHhJcGlJRTAyTUNQTGdWaDRRSUh1bWNnbXRnTWVHNHJNdEIwT2Y5R1R0LUZ2T2gyTjRfV1RUOWJQRFRPZVYyekNHaTFta0lkOWNQZ0RFVjI5eERIUFRzVDk3NE5oVUNYdmIxaERlY3lF?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Eaton Corporation plc (ETN) Shares Drop 16% Amid DeepSeek AI Model Concerns Over Data Center and Chip Demand - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMy1yMkJDc0JGV0Z0a3M2dm9jVS1fRnZJMlFzWEdLc1R4ZUJMR25GanR6eGlnQzEwcmVNU1NMRkZQNmRydF9ib1A2cWFKUUxCTG9xX1FJZEVicjBMYzFrOUFQTXg1RWRMN1pwX01lNlpTUHJCNmFzQXdMVUdnNUhzVllBOVI?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Why Eaton Corp PLC (ETN) is Plunging in 2025? - Yahoo Finance",
@@ -631,31 +621,41 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Jim Cramer Was Stunned by Eaton’s (ETN) Drop – And Still Wants You to Buy - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZVp4OU41XzdRN1d5NjZ6U0wyWU43X0FMXzdLd3NNQnJ2U2JRN3FmZmxoQlZ6dUsyN3M2ZVhSQkpCRk1xX0x4MEpCU0s4dklqTy1Cei1JQUQzSXozdVlFNzNoVExmT01ROGpPVGlfN2pQdGlwSm80QmQ2cno2TWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Eaton Corporation plc (ETN) the Best Foreign Dividend Stock to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWRGVWstdHl2eWdKYk9CaUp4ZTF4U2NsN0lQcUE2OWVmSWNCUUZvbHFROThidi1mdUdWS0JJS3pqa2JWdUJib2VKWE51UlR1cG9reGV0Ql9aczU2bExXQ2tFcEZTRkNhNWxBVHFkWmtmNU9VOWlQUkZTaUVLM3FPUzd3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Eaton Corporation plc (ETN): Among Bourgeon Capital’s Top Stock Picks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2JvTHVxa3NSci1nSU1lYXdCbkpXN181NFNrLUFXQ1doRHBxRjlnOGNyV1RZejZMZlZrQktxMEZrNlZzd25td3dJUmpza2dDRVBpNjdjdjVQdzlLRzF1aU14ZXZLR2hJMzVicXZMeklPRlJxWE9IS2traXYyWVdieko5RQ?oc=5",
+        "title": "Eaton (ETN) Sees Price Target Boost from JPMorgan | ETN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRMQlZKXzJIV0dxMWlQT3RJYjBNOTU2WGRLbFc1TTZHc09qN3hkRnlNNmxUUjk3NDFKbEpfeTYteXVlU3h5dHpJTlFickpNekVDaUJQOGk4THJrMFVHbEdFOFdvWWlGNS1ac0p2TmZfSThaQ2lvSHBCeG1DT1BzQmR5N3VmRU1mcWhIYXN4eTNyZmxYS1NMbTV3alk5N0pBVF9N?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Jim Cramer on Eaton Corporation plc (ETN): ‘I Can’t Believe What’s Happened To The Stock’ - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2IxNHNQRTAxdDZLVlZkZmloazlSWHB3UHBUR0N3QW51cDhRZFZLcEJQbDJSX2RlOGd3TEdPRzYtOEZJTU5SRTNwUGxpd1ZubnVsVmwzOEJCWWFMMzliMVZJRUYtOGRWbHdGMXFwTEx0a3lJWnZ2N2prNmFBUFptdGVBNm0?oc=5",
+        "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTVRWklfT0l6S0FHRmFBZjYzM29neFA4eFlxeHNNRFY3VnlnVndXSGZuR3pMalptOU9sOEotQlhnZHFSVFVDWXJfNFNURGxyV3lUd2NFX1dicDJFRjJzWUFzQWZ5Ul9ncTctbnlOV1VKUlJfaEVDdDd0dFc3MFJ3TzliYXVMSXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ETN Buys Fibrebond, Boosts Data Center Presence: How to Play the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjdYV0dmTV9XcGE1MFdLRUwyS0w3R05MQXRkSHhzSTBsSjA0TmRrbmVJX3o5eFVGS0JtUDZjNEhJc01ySWRCdVh3NzdUc1RqcmVKTXBKb0lwQzJxY1dDcjJRaGVnSVBNbU8ycWI3ZEJXc0xzeEZzRmp2a3J4QUVRV3NR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eaton Corporation plc (ETN) Dropped Due to Concerns Over Impact on AI Supply Chain from Slower Data Centre Expansion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGQyaUFEdVdmTkNtZUdIcGhOdEEwWW5jOTJLLTdHMlVYSTFzT05FYmJMZkZySnJqb0JteURibFBMdWJhaG44U0VyOFEyOW1lSWQzeTZPUHotWFV6TTA2LU1NT1Q2YnNtb1cyMktibm5uZ3cyeE9vRUJsa0lXbl9oMy1KYzcyZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "AZZ or ETN: Which Is the Better Value Stock Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWlFazBjV0paRVBGb250SzJLbkRRd0VoVVVrRzJlWWJMYTNkZG5rTUlka3VHZkkydENKQVF1dkNleGJ2WlExMWpDUVBsYjFCQldxUHJCTlBDNkFuMVc4TFZJMGJlYzRNdWY3Z0ZpRVRtendid1RMRU9ydXVRVW5TRzk0Mnp1UQ?oc=5",
+        "title": "Eaton Corporation plc (ETN) Shares Drop 16% Amid DeepSeek AI Model Concerns Over Data Center and Chip Demand - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMy1yMkJDc0JGV0Z0a3M2dm9jVS1fRnZJMlFzWEdLc1R4ZUJMR25GanR6eGlnQzEwcmVNU1NMRkZQNmRydF9ib1A2cWFKUUxCTG9xX1FJZEVicjBMYzFrOUFQTXg1RWRMN1pwX01lNlpTUHJCNmFzQXdMVUdnNUhzVllBOVI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eaton Corporation plc (NYSE:ETN): One of Philippe Laffont Stock Portfolio’s Top 10 Stock Picks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdWVDUFBLMmtBRVNkbzNPRVRRcThHNFhrbkNBLUV4elYxYzhkVW5nVUUtYW9ma1JabklsSGNwOWwzMXVneWxGdS1lUm9FM256aWJpUlk4UURPekZ1cEVKYXk1MWZQcnE4aURWV040ZGYyQUtrOEt6OTRxYnA2WlFDbUZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eaton (ETN) Partners with AMP IT to Enhance EV Charging in Buildings | ETN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2h2a2V0Snh4R2dsNjZVR0hiWFRiazIyckgyUUtYWW5sZldGZmtfTFlRdXNwRmFTUkY4VWE3RnNRQWNYS2JmdzIxN2h2MW5aeTExeFhJQlZmREUyWlk1ODhOU0cwbjZvZE9ZUy1oSUR2NUlHOHl4NXdZY0tpcldFdk81WlJtMXpNT3ZzRG9IX281MUM1NC10aDJXWXBIX01NZ1M3akZDdFgtVW5tYlBSVXNtSEdvR3MxSllVSw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

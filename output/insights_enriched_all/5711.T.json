@@ -2,12 +2,12 @@
   "ticker": "5711.T",
   "name": "Mitsubishi Materials",
   "sector": "Materials",
-  "market_cap": 294311657472.0,
+  "market_cap": 292418256896.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.4125814,
-    "PB": 0.43456763,
-    "EV_Revenue": 0.414,
+    "PE": 5.379195,
+    "PB": 0.4285869,
+    "EV_Revenue": 0.413,
     "ROE": 0.058530003,
     "ProfitMargin": 0.01737,
     "GrossMargin": 0.08493,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.009660494752914134,
     "ROA": 0.009459999,
     "PEG": null,
-    "EV_EBITDA": 9.941,
+    "EV_EBITDA": 9.892,
     "BuybackYield": null,
-    "PriceToFCF": -15.527168545900958
+    "PriceToFCF": -15.427277328132071
   },
   "technical_indicators": {
-    "RSI_14": 51.57806294596664,
-    "Momentum_10": 1.4411168655708173,
-    "MACD": -3.1085998831254074,
-    "BB_Percent": 0.5972121918958964,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 45.995962022221335,
+    "Momentum_10": -1.5074262912879628,
+    "MACD": -3.723551537275398,
+    "BB_Percent": 0.3469918941762182,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9358331294198976,
+    "ValueScore": 0.8986375147868766,
     "QualityScore": 0.3534576243855281,
-    "SignalScore": 0.5684530615650163
+    "SignalScore": 0.6106244133556793
   },
-  "volatility": 0.0193037461393744,
+  "volatility": 0.0192877448062165,
   "beta": 0.415,
-  "return_6m": -0.0419810311778986,
+  "return_6m": -0.0543766003502415,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 8,
-    "target_mean_price": 2470.0
+    "target_mean_price": 2382.5
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2396.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2406.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2432.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2415.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2426.0
-      },
       {
         "date": "2024-12-13",
         "price": 2394.5
@@ -525,38 +505,48 @@
       {
         "date": "2025-06-06",
         "price": 2252.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2225.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2237.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2252.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2238.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2221.5
       }
     ],
     "current_price_data": {
-      "price": 2252.5,
-      "change": 17.5,
-      "percent_change": 0.78
+      "price": 2221.5,
+      "change": -16.5,
+      "percent_change": -0.74
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de Patek Philippe et de sa montre emblématique, la Nautilus 5711, a été marquée par des événements significatifs. La décision de Patek Philippe de discontinuer la 5711 a créé un chaos sur le marché, avec des ventes record dépassant les 6,5 millions de dollars. Malgré cela, certains experts estiment que cette décision était justifiée, soulignant la persistance de la demande pour les montres en acier inoxydable. Cette situation met en lumière l'importance croissante des montres de collection et des fluctuations du marché des montres de luxe pour les investisseurs potentiels.",
-    "sentiment_score": -0.1,
+    "summary": "La récente disparition du modèle emblématique Nautilus 5711 de Patek Philippe a semé le chaos sur le marché des montres de luxe, suscitant des réactions mitigées. Alors que certains estiment que la décision était justifiée, d'autres considèrent que la rareté accrue a alimenté une bulle spéculative. La vente record d'un modèle avec cadran Tiffany-Blue à plus de 6,5 millions de dollars chez Phillips New York a renforcé l'engouement pour les montres Patek Philippe. Cependant, l'introduction d'une nouvelle référence avec cadran vert olive montre la stratégie d'innovation de la marque. Ces événements récents pourraient influencer le sentiment des investisseurs dans le secteur horloger de luxe.",
+    "sentiment_score": -0.25,
     "label": "NEUTRAL",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "5,711 Shares in V2X, Inc. (NYSE:VVX) Acquired by Man Group plc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlFfMTYzN05OeFR6eGl0T214VmxiTk83VE94b25Ra0NxbDBnRVFuYUcweWRidkNSOWFwamJJeXRES2xROFJyY1hYQi1XdFQ1S2d3ZnlUeHZVMG9LUW5iZWRuZ2tBRmZiMXhZZXlWbndGcDlnTUpSMlo2UWswSWZPYnhLX180aTU0M3RLVWgyZGNWSWtpMUR4Sjd6WmhWOVhDRXZOVF84ekdJWG9Y?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Following a 1.0% decline over last year, recent gains may please Mitsubishi Materials Corporation (TSE:5711) institutional owners - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFpwX3RpQkY0Ry1VOUlYVkgwUDF1QTJubUVfSjJVeWYyci1fZVE1OTdQa1VSQ2dnYngxRjRXR3ZOUDlrRzBwVG8zV0dmc085N3MzQW1wUHkteFRNOEZoVVZTV0x2OVB0eC1zNEROY0VGWldJM0pyaGF1N1lialRUYWxYZkdkQTVBOVRSOGd5dnQtcm9WYkhZUmVlRkd2cUtXVTJJTmFpeEoyLVp0S1lrY05mSTRIRGRxckRxckR6WEFyQnl3UGN3Y0JrendxeEwtUHhrTTFRX2hqZ2djX21v0gHkAUFVX3lxTE1EVHVOeHFTbm9Fbk5jc0hHbWhPR1pBTTAyeFMxdWxKc1ZGUmFBY3ktUVpPWnFUUlNRWUJtNDZLWnJWQVU1Y0hYamZRSlNSVllxS2ZsUnh5ejdORXVKNFBjTGNReWpBOXYzVS1XeTJFYVd6cmRSOUFyUFJfUDZraFhMV1ZGdnpUYkdPU01FX1lJSTVEUVpZWVlsSmE0b29TSWg1ZE1CN3hqa2NUOXluYTZGMFVHS0swdndmVERlaDBsVjJhZGRrTkpxelRuNnlETWVBV0UwRUhtVWROLU9Ua05EV0EtTQ?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Agate Pass Investment Management LLC Purchases 5,711 Shares of Johnson & Johnson (NYSE:JNJ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR09CbHUwbHMySmthUXdSUmxhamEwVTZXcFI3YWFoRng3a1RxWmh3NmxucjRzRVJmeUxzN1pVeVBxT0p6OWNVWG82bGpFT0dhaFhKenZhODNNbE5aa0NKWHoteElQVlVDSW1lbDAxWDBVbWlucngtYWdGRU9fdjdzbWZVR3hlU09lQU5DbHBselVkdjhleWhuMjRnN1dNRno5bkFFa2I3MUh1LWduRVpEYXB1aUVkd3VHRmJnOG0zVlJmVDZHWmFiWXlwWjQ4X0llWXVvR1JrcXBWTGhmTnc?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "If You Always Wanted This Watch, Your Wait Might Be Over - The New York Times",
@@ -584,13 +574,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "One of the World’s Most Popular Watches Is Being Discontinued - Bloomberg.com",
+        "title": "One of the World’s Most Popular Watches Is Being Discontinued - Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYzA1Zzk4NDYwZ01nSUtiY1dxT2tuRjRGMm9OcmV4ZjR3SmJnN3dETUlPVGdWcmNrNkdsYzlxc3JPOHdTczVBQk12QnU1WkN2TGdEczk3bmVzQjlrcE1pa3hObHlWNHE5MXlRUHU2S1pybm5OLW1jZjBjZnJIb1lqU3VfTnp0czRLbl9PZGRrY1YtSEp0OG1rRG5Yc29XS2VKX1VOeC1wcng1bFJzXzMzRXkxOHBGM1pocUJkMg?oc=5",
-        "label": "NEUTRAL"
+        "label": "NEGATIVE"
       },
       {
         "title": "Patek Philippe Was Right To Discontinue The Nautilus 5711 Watch - aBlogtoWatch",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaElabWF0OGxtUHFvMWxheENCd2ItRkZCSGEweFVxdmVsampVYUtUWWZ4bW1tcldtQkhueUNjdE1EckEweDA1U085S3NOR1lxREgxMTZpaVJwNzN6V0NuZ29xV1VnVl8wV24zRUU1dkFRSnpUY3RNTXl6cGlzY0hJVDczM3V5RjkxTW5GTERMZnNGMXEzOXBuLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why The Internet Shouldn’t Be Mad About this Patek Philippe 5711 Tiffany Blue Dial - Sharp Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUxzZTRoY29PamQ5NWxJU3F4WUJNd25MY3dYNXRaTWpLRFRQbUU2dTlhOEthd25MYVhyT1FDQVVTangxejVMODJsaTQxdTVETm10OXBsaVZ1dEdYWm91cFZtMGVDdnZiZ2NkOWdFWFdUanI2di1uendXWDRfVHdBZ3lqY3JMQlZHNUh5TDlnY2M4ZFNudFRTMg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -599,8 +594,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "And Just Like That, The Patek 5711 Is Gone - Hodinkee",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdMdmlhQzNpSnJOVDdHaW5fZVZnUVV3MWxxOGNBZGtCYUNUMUVIdHNCXzN4Y3QxMHJqLUhDNEFJYjIteGV2S0ptbjIycndWTGo3OU9LOWg5YkxHdU12TDlfa0xZMWViTHVOd0g2VUNCSlhYMnNzQ2JYQ19wVy0zVQ?oc=5",
+        "title": "Watch Of The Week Why I Wore The Living Hell Out Of My Tiffany-Signed Patek Philippe Nautilus 5711 - Hodinkee",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GaVYyaXV4dnE5d193TGd1WHN3WFlNWVB0WVI4YzJlTTQyMDhGcFd2YWE4dnR3V202LU16aWxic28tMlhQSEZrSkt5eFViTE5pMURwaHhlXzFZa3Z0SE9maVVUSUNUenpKN1E?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -609,14 +604,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Stainless Steel Patek Philippe Nautilus Market Madness: Thoughts On The Current Market Situation - Quill & Pad",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNF9vWW53MC0wUGdlcGFpLWduRnFCaGZ0Vmp6VG1raUhwRFc4Ni00WjlFME1fY0FEY3JRRHM5WGpPN2hSbDZ3MElmVXhqVnluQTRkU3JCdjQ5Q05QVlp1V3Nrb0FCclRUQVlySG1RRnhpYS01eHZOdjJjcXJ0ckQ2VE54MG5DbEd0UjZ4Vy0wU0I5R3NORVJNSmQyS0pwUUxBd21jTFFPLTkxYTAza3BoSDdTajh3eVVVTmdFejBibXh3dGlHNmlMRnNlUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Watch Of The Week Why I Wore The Living Hell Out Of My Tiffany-Signed Patek Philippe Nautilus 5711 - Hodinkee",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GaVYyaXV4dnE5d193TGd1WHN3WFlNWVB0WVI4YzJlTTQyMDhGcFd2YWE4dnR3V202LU16aWxic28tMlhQSEZrSkt5eFViTE5pMURwaHhlXzFZa3Z0SE9maVVUSUNUenpKN1E?oc=5",
-        "label": "NEUTRAL"
+        "title": "Transgenders can't get state benefits as most official data ignores 'other' - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcGtYTlRiaEJuZ0Zjdk5fUE9GVGJJOXpqZ2U0cWZLVnN2VTh4NVk0SVpMeTRKQlFzXzZZa3NCOW8yVDUwTDlNcVp4T1RQVmV4cDdCN3p0ekJLeDUtbW00T0tLVFB6dUJ3YTVDZHRLNjRhcTlMOFdkLVNRMjVxWFNEeVE5QkpfYjVPTWRHMnpvdzlwUlVyYi1ldVNkYkpHOVljMXRrWWRKeF9xb0JmalVmOU5IQ0swby1oSmRIZ3g3aXh6RW1JY09zUGEtLWNlaXBsbkhwMktBbGxzQTB6UmNZ0gHkAUFVX3lxTE1WMDdpS0RVdU9RdkNjVDlPQkVydW5OM25OM1FWUnYyLW1QaG5vTEVVRjNtVGdUWGZaNC14QVRHYzRnM1pzWGZuUkVVV2QyNk5HOExjX0czUFVReXFJYmxQMzVFb2N2cmo5RElhemhJM2UxMGNva1pqTmJhM29jbTdVbWJXbkhzMy1lRHpJakx3Mi1ZcjBqbTNQNDR4UDFaSnhRNmRmZ0dqUzQ3YnYzSkVHWFByU3lZSUNUZXJneFFrXzM0UlZ1UDY3Qk1iSzN3ME8wa2xpcE8zSnUtVm9JS1Y2dEpaVw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Breaking News The Tiffany-Blue Patek Philippe Nautilus 5711 Sells For Over $6.5 Million At Phillips New York - Hodinkee",
@@ -629,21 +619,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Breaking News: The Patek Philippe Ref. 5711 Nautilus Has Been Discontinued - Hodinkee",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNk03RzA4dVNBSzNVWUNKcFdpRjVIOFUwamdobDJBZ3A4Z0tJUWd4QWltbkpiTU1NS1J4b211S3dDelZ5ZWtvWjg1SWFBZTJERFBvdW52Y3B1czZNeENhRElxd2Iydk1fZUVDXzRxU1lLajIzcG1MLUNQUnRxUkxobmdoamFXY2E1cHN4OHFibTd5Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Year In Review: The Rise And Fall Of The Hype Watch - Hodinkee",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54d3BEaENRNGoyX3hpc3RVeDNWWC1VTnVPN0RRbWxLdnZJN0RSYVFQWmdwblVObWRIdDh2clF5TlB4NWhJSlV5REtZLVpzZjQwcTFBSkx5cG5ZMFVpY0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "In-Depth: Why Patek Philippe's Thierry Stern Is Stubborn About Steel - Hodinkee",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTdwZXp6TWE0UXpGUVVuV2lSY08zTFBtVnNDbjR3ZTVsU0ltdEMyallwcUE4ZUVIZWZoemt0N3NjQnI0QUtMNGVQcDl2UnNqZUtwdXlaQjducG5USmxJMEVxMGJVSk5jWXkwZGE3aWV5bnpQRkdCeDlPZnZxdmdUR2Z1d2xFdlNjcUZtT0dB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

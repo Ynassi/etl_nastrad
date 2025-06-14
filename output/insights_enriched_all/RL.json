@@ -2,16 +2,16 @@
   "ticker": "RL",
   "name": "Ralph Lauren Corporation",
   "sector": "Consumer Discretionary",
-  "market_cap": 16566725632.0,
+  "market_cap": 15744814080.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 23.65461,
-    "PB": 6.524983,
-    "EV_Revenue": 2.427,
+    "PE": 22.461704,
+    "PB": 6.201264,
+    "EV_Revenue": 2.36,
     "ROE": 0.29487,
     "ProfitMargin": 0.104940005,
     "GrossMargin": 0.68553,
-    "DividendYield": 1.33,
+    "DividendYield": 1.37,
     "DebtEquity": 103.075,
     "CurrentRatio": 1.776,
     "QuickRatio": 1.263,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1152793502785876,
     "ROA": 0.08456001,
     "PEG": null,
-    "EV_EBITDA": 15.032,
+    "EV_EBITDA": 14.614,
     "BuybackYield": null,
-    "PriceToFCF": 20.310044634226852
+    "PriceToFCF": 19.23486804187632
   },
   "technical_indicators": {
-    "RSI_14": 59.100726795874344,
-    "Momentum_10": -1.1967439851211688,
-    "MACD": 10.250406398042514,
-    "BB_Percent": 0.4883717674394801,
+    "RSI_14": 46.086932046524886,
+    "Momentum_10": -5.604921884215992,
+    "MACD": 4.659128030924876,
+    "BB_Percent": -0.0883357092690432,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9301269713517856,
+    "ValueScore": 0.88757071867009,
     "QualityScore": 0.3238207996048079,
-    "SignalScore": 0.5503469086008812
+    "SignalScore": 0.630254241566649
   },
-  "volatility": 0.0308805583117018,
+  "volatility": 0.0309867717725483,
   "beta": 1.531,
-  "return_6m": 0.1988429178676309,
+  "return_6m": 0.1558463164156949,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 228.13
-      },
-      {
-        "date": "2024-12-10",
-        "price": 227.45
-      },
-      {
-        "date": "2024-12-11",
-        "price": 227.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 226.06
-      },
-      {
-        "date": "2024-12-13",
-        "price": 227.45
-      },
       {
         "date": "2024-12-16",
         "price": 231.66
@@ -537,37 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 274.8
+      },
+      {
+        "date": "2025-06-09",
+        "price": 270.32
+      },
+      {
+        "date": "2025-06-10",
+        "price": 267.98
+      },
+      {
+        "date": "2025-06-11",
+        "price": 267.67
+      },
+      {
+        "date": "2025-06-12",
+        "price": 267.2
+      },
+      {
+        "date": "2025-06-13",
+        "price": 260.21
       }
     ],
     "current_price_data": {
-      "price": 274.8,
-      "change": -0.2,
-      "percent_change": -0.07
+      "price": 260.21,
+      "change": -6.99,
+      "percent_change": -2.62
     }
   },
   "news_sentiment": {
-    "summary": "Ralph Lauren (NYSE: RL) attire l'intérêt des investisseurs avec des achats significatifs de parts par des entités comme Crestmont Private Wealth LLC et GAMMA Investing LLC. Deutsche Bank se montre optimiste sur la marque de luxe, soutenant la tendance haussière. Cependant, malgré des offres de titres senior réussies, des ventes massives ont été observées, notamment par Toronto Dominion Bank et Public Employees Retirement System of Ohio. La volatilité récente, marquée par une hausse de 3 % suivie d'une baisse malgré les gains du marché, soulève des interrogations quant à la stabilité à court terme.",
-    "sentiment_score": -0.05,
+    "summary": "Ralph Lauren a récemment publié des résultats solides, entraînant une hausse de son titre en bourse. Malgré des signaux positifs tels qu'une expansion modeste de la marge et des prévisions optimistes, des ventes massives d'actions par des initiés ont soulevé des inquiétudes sur une éventuelle faiblesse future. Les recommandations d'achat de grandes institutions comme Deutsche Bank et les acquisitions massives d'actions par des investisseurs institutionnels indiquent un intérêt croissant pour le potentiel de croissance à long terme de l'entreprise. Cependant, malgré une performance boursière impressionnante sur un an, des fluctuations récentes du cours de l'action soulèvent des interrogations quant à l'opportunité d'investir à ce stade.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "926 Shares in Ralph Lauren Co. (NYSE:RL) Purchased by Crestmont Private Wealth LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTZsOXJocWlTY3paVXRKNHZJd1UwMnpHbGJONFdnRzNBUGE5eGFQNW1uSHdodURDZGhvbXVBbGtWVTR6aGNSUFlmeWRCcE5ZZ21FVHlPcmNqcm00Wm9BbXZ1RWFGcXp3QWc3a3RGQThjZWZFSGFtSTFEejJNRHVhQ0Y0aHlTRUlVZG56aHBPOFV5S1duSElLclg4QklzdWVGZU5HYlM4U0ZBdDF6Z0l1N2hrVmFrOVlETXNlVjhaRHdFd2NTUzUyNWVLRDVhNU5td0E?oc=5",
+        "title": "Ralph Lauren Rises On Earnings, Expects 'Modest' Margin Expansion - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVlLODFwcHoxR08wUjRKVWxkS3lxYWd6UzFwT3pPbU1IOVkwaFNYelRsTzZOb0NvMVV1MURPWmZzdUxrVU5MdDVJX2x4dXBNSUU4UklNb050MlhnclhJMDdRTkI4UUlsRnpna2RrLVg5Vk1jb1lFM1ZPM1BsRElRdUtUc1pGLVZpOFV5TDhqVVI4SHV4b0k4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insiders At Ralph Lauren Sold US$10m In Stock, Alluding To Potential Weakness - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFpxazVsOVRXaWxhWW5OOXBMUnM3Nmh5REw3MTUwbVJocldSRWZLVEUxNXVPeFZRYU4wYjIteFV6U0VVSHo2ZVQ3b0JBYUNNY1pqX2JqblZqTmRNU0R6MWhwZUdmS0lCd2VLUGJHNS1DeVRidlQ0U2RYS3BzTG91LU9JdllhOU1IWmlGNENoWkZpYUdjN3FubG1ON25rOWJra3VwbW5JaWRMMDJwLWRQekcwWFI1SzZIRHJLd3VVajJRZUoyNmd4alFOaWlURGhYMlHSAdcBQVVfeXFMTUFnV09hTXBTQkN1a2QxX21WNmxBQTVDRjNnT1NoTDllNk4wZDRaVzhIcFRDOU1oZ3owSEZ0T01qdDNnQlhwUUprZEtzMmF4dHZoSlY0ZElvcGtOOEJ3Q3BQZEFQMWRDMW1TaGhfMGVRRnVVVTcxUXRTcFI3X2YtbFFCcGNFSk9Fb0JNM2JTVkJmYk9nUnNPdllrdWZudFcwcUE4QUx2eEJGUHBNc3Nndjh2QXdNWEx2c1F4d3FNZ3ZMQWFKN0VXa2xqcFpYOEIxVmdxUnpKNEU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Ralph Lauren (RL) is a Top Growth Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NnR4U0xXeWxUckhBdkNXUmNKUlNsMTA3LXRROW9NX0s4Y01QNkxDbDFwclJTTUFDNTBLVl8wVk5MekJIQnItdHF6UGEzZnZzUXliRUxfMUhZSWx6N0V6SnlqdURIcEF2NUk1LTdyRF9oNTQ1OHZSSw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Ralph Lauren (RL) is a Top Growth Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2Jld1d2eFlqeFk2WGQyZmM5dmNPZE00aXVDWmZnTFVoVUZiV1FrN01waXN0X3I3dWZqdUM1MHMwNkcxbEs4aU1OX2hnUkNGV3BuYVlzQThzRzJLOGZCaUxsVXAxR2xqLWhSRE1GMnA5aHYxVG52M2ctaXRCbHJZbDdYM2ZPaDg?oc=5",
+        "title": "Ralph Lauren Co. (NYSE:RL) Shares Purchased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlJnRzlqMllvWnQzUTI1bjlMczJKSjFYMXZxZUhna0xkOWdZOHgxWlNxRjhacGI1V3AxR0pFN2hjWnJQMDQzQ1l6Ul9jSHMya0dNTVlFOVg3NXg3WGJhYmNiWFg5U3JZWWNicG1xZzFRekVkeXdxbWMzY3QxaDYtOEdSQ1JiTG1LT00yQ0ttSTBoMGZVQmE2SGtacVpBWHByVDI0RXJtU3FjTlF0bkZUbFFJd19BeWI1N2lpejVB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,13 +576,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Deutsche Bank Goes Bullish on Luxury Brand Ralph Lauren's Stock - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkQzNjNIYUZaZXByLVhrY1lWWk1aMmdQTWNGWGJXSTVIbXJReVp2S2lBUFNGMUZvd2p3b0dOZkZZNzkzazFLMmlIQVVLeFpEdzJzcURwSDZQejVtS1laZ000SzUzRnlnTVRJTkE4RWM2dFItYWZFUlpSSDlMNXhkeVdqMklqWEJlS09oVXAwT3U3NnZNZnM1a0x6RDRTNndtQi1ZS3pRMHdYSnppRnZyVXhDUDZhdFk?oc=5",
-        "label": "NEGATIVE"
+        "title": "Will Ralph Lauren's Q4 Earnings Boost Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnRCSTNFMldEY1lVX2dTVTR2VGhGZndsSUdPOUJHdFF1SWdKaEFLS3NMY3JDaXM1S2w2LXBYdHUyZG02dG9kMUJIczlwN3NUSzV4S3lINUk1NEVoX2pKMXNwVFEwLXcyUUtmWGQzZWU4NXVZajNUZFFhRUpDVVNqZHQwTUhWeG9XQWJyaEJZVlEyd3ZUalBKNEdxdzFuZXM4U2xj?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Ralph Lauren Completes $500 Million Senior Notes Offering - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzhqcUh6ay13TXp0NE1RWDVONW1xbmVXOFJVY29XcWRFbTNJa1BtRWJlNFBjbVJNMGRZZmM5NEpJQ3BqRzh5RlFVYktDRVNDbTFzRk91M1NyVzdGQ25LbTc4LTJNUkh1UXR1LVp0b0gzMENUeWRFVVh5blJmYW5BSE9Ic2hsSEFOTm82WkhuR2dUWmMyVnlueDUtSWg0MVB4WS01Y0ZJU2x2N1lx?oc=5",
+        "title": "Why Ralph Lauren (RL) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NnR4U0xXeWxUckhBdkNXUmNKUlNsMTA3LXRROW9NX0s4Y01QNkxDbDFwclJTTUFDNTBLVl8wVk5MekJIQnItdHF6UGEzZnZzUXliRUxfMUhZSWx6N0V6SnlqdURIcEF2NUk1LTdyRF9oNTQ1OHZSSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Ralph Lauren’s Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVlOakJpMHBpVF9lR3JNQk44MkNjTjJVengzUWl1Sk9GeWpQSXZJRmw2Z1lTZjZyTDBMRy1vSVhvTHVHMENBYTIzREhZcF9uZU9LN2dvLXRJc3ZnSlB6dGlCTFd0SUctYk9WVDFTLWdKbm5xaFkzNzNjM2ItOVNTaU9pUHc5UFItRkc4ZWVqYXZOZkpXUmRPNnZCSjVyaU5mM2kzQUJVVl9VMVg4MG9PbHQ3Q09mNHVfYnc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,24 +596,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Buys 253,244 Shares of Ralph Lauren Co. (NYSE:RL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQk1VR0dCa1VwWGFDaHFRRzZ0ZjRJUnJIbHZ0RTZFM2JJcnE0RUI3djZsc0xNMkNaMi12OEFBQXRBTFFkUXIyM0hDSEhXOTRURlgweUJIcGJYQUhsQnlWTDBQTnIzMGtXWFA0bnpadmNVTV9iNW1vMjFieW4zdU05dVNFcnJmZVFPWWQ2RWpuelhhOTF0dFlrcklmdm5HSzZLOGwxMUo1aFNydGFwajZDR3BZUjhZblAxc011cUZJcjYzYWM?oc=5",
+        "title": "Why Ralph Lauren (RL) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2Jld1d2eFlqeFk2WGQyZmM5dmNPZE00aXVDWmZnTFVoVUZiV1FrN01waXN0X3I3dWZqdUM1MHMwNkcxbEs4aU1OX2hnUkNGV3BuYVlzQThzRzJLOGZCaUxsVXAxR2xqLWhSRE1GMnA5aHYxVG52M2ctaXRCbHJZbDdYM2ZPaDg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Ralph Lauren (RL) Laps the Stock Market: Here's Why - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jcHpQZGYyYWdHU21zcFlBN2tYc0Y3cHFOWTE0cm9TV0hfaWx3RUloXzBmb3I3RTB1U01ZNzdDWEg2ODdKYXVESmg4Nm1rSHFCd29TWW9QVE1iUE1CdEZyYTBUSzRZV3hUc2xBWWUtUFpuSFhNVEdFSzdwdHo?oc=5",
+        "title": "Procyon Advisors LLC Buys Shares of 7,489 Ralph Lauren Co. (NYSE:RL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHlkQjkzYTdrcTBDT0RIckZQZ1o0U1FpeXJBdVdGaGx6c3o0VlZiTVNTTTlLWWN1NU5IVnRSenpaUWN0bUVFa2NleW9NOGhGRDFoVWd0T2pYWmRPNnZhRmRMZHVGS0FPNml2SWhENnhibVBKdWQxZFRSMXRIVlN1dXV1ekR4QXB5bS1yXzRMVUJxRzRJQWxUVVpiRVVUOFRvNUpva25URTM4anRrT01xcnZwcHh0Rnh1QVhpS0dJTkRDRm1sNG1EeHpfb2puS28?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "$RL stock is up 3% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjhLR1JxaVZrUGQybFdyNWhmdG9ncGNfTkFpUGFpMy02X0Fhc3NfX3IxLU1RNE5BVURxUDlvaVIwVWRuYUctT2lULXIzTnIxcDFvaHhXUGhUVkZOUWJQaGs1RVJUYWtwZTFNOVhTNTgzQzBkOExkRTl6T2Fsc1NvUA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Ralph Lauren Co. (NYSE:RL) Short Interest Down 13.9% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLW5aMmFpSmFpdmM3ekZFSmc0YWZjMjBQVHJyRjQ3T2Joc3YzUkdqY1FlOV8xanlvVWwxMWtUamU5N25iS1ZMUUZlRjBudFA0VFJKcjUxTmFmZnl3THdCUTYwak9hNnZJY2RlVjdZcmxTZGhqVlc5Q3M2cU5RQWQyVi1ZMjY0TjVSV3dReXg4TzRSa1dDeFZnMmt0Q1FsM0hXTWhzSTMwdkhuUXc?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Here's Why Ralph Lauren (RL) is a Strong Growth Stock - Yahoo Finance",
@@ -616,18 +611,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Reduces Stock Holdings in Ralph Lauren Co. (NYSE:RL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2drTUNYdFRyRmpWMC1hUXdCQ0RWZnJBRlcyRGY2bzA1aThvYUoyWWZ2cTd6bC1ZLW85cThXQ3oxcFhpV3ZLU2lyeHpqSmNiQ0o3WlhoMzl4MWJCMHJ5eUxnQmoyOUlPVUdRSHBJMWphTzFKdGs0OU8zdWFpZkZpVlBwN2I0UnRQYVpBbzNhaURSYVVGUFl2SlFqSkxvWE5oUUE2ZlIzaWQybkVlMUlhdXVONnA0a1VmX3lqU2xRTTZaY21Y?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Ralph Lauren (RL) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrbWlTQWdXVER2TWtlZmxNZzJ1U0dOcGxubThSRTlrWVVacnNGbWNQOHJWRllENkRvUFU2dHhFNzVUOWlpSUZaSWp1TUFzV1YyUWc1dDBCSXBaaHEzblJJOG5FRG9FZllsS1lMYWZFX2RFUURyd3czc1U3TFFFZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "919 Shares in Ralph Lauren Co. (NYSE:RL) Bought by Jefferies Financial Group Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc25FRmE0dlhSbE0tRS1PU2ZpdGlhZGRnc2tLSHFDWmlMOGVYc1dOX0xGeFpucWlWRUozNktPcURwWTNSMWRZNzBBcnc0MDhsd1dwdUpNWjcxMDNtdm0xMXVjcEpsazhGazFZb0RnYVhhT19BVTBmMXVEN0NjbVhvOERKVEhvaC1XZlJiS3JPZmNTQjgzb0dRT0xSNmJYR0ptdG83QjBJMjFocDkzcE9xTWtRLXVWRTFfVU1IWkZOVDZKT095VzdtQXNqTHdyaUtiaGtxd18tNA?oc=5",
+        "title": "Merit Financial Group LLC Buys 4,822 Shares of Ralph Lauren Co. (NYSE:RL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGhfeVZIeFU2TFdwR1l5U1d5R01LZFNCUy1aV25GOU52dk9CaV9wd1d5cXRzbFh5c2xUUlpsSDVHeWY3c0hoWjh4NnRaTEdDclNCWlVKMF9udFB0TFFwUkZBcHdhcXBTREpnOUR5aHhENG5CcGxzUC1MYkJ6ZDhNZTVnS3RadXltdDZlTEdKYXVkQTNiQ1kyLXhyWUd5Q1JxaDYwX3JJd2ZfamY1X2o2cTF0TjFYX1U1NlV0SE9SUVl5MXFPNFVoaHlGTlRsOTFSQ3Z3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,26 +621,41 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Delphi Management Inc. MA Sells 1,264 Shares of Ralph Lauren Co. (NYSE:RL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEQ1dnNaMUNkeUJiR2hCblNoaXlJTUdBbzZJbGZQU1ROY3EybzJTS0xsT0IzaW1fUzB2YXR2Tnl3T1Rkd1Y2MXNxSFo1MXlRYUNrOWM1TWtZZHpPT0pOMVVVUW41VWFuUDctci12Q09oT3dEdGVpQVdUalhRTklNU3RYT2YtblBoTEZjaFJ0M1o5Nm1SSkd1aE04Q21PdHEtNElpNVlyVURYV3lLcjBaU1NDazdVdjJIN0Q3YUs1Ulh6c25xcjB1OExtSm5jRk4xU0E?oc=5",
+        "title": "Ralph Lauren Co. (NYSE:RL) Shares Acquired by Vest Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnFzQTdzaXRXT2hzakhuem5NajJpZHJwVzQzaVdtaDFhbWJMQzctYUZXeGpoeWhrYnJJNG9XcjNlVG9zeWVDelVNY2xhT21JZ3pRWFhiNWc2X1dRRUp1Mnp3Mnd4N18zYi1kNExpS3BuaFRQT05OSFN1ckt4R3p6OHpuOWhyOFpmNk9tOURzUl9oYkp4eDkzb1VNX2RnRWFyZ0d0WlE0NmZnZk5LR2hzTFNtX1EydmZyRFNtbFlPaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jim Cramer Says These Retail Stocks RL, GAP Can Survive A Market Correction - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHp0RmNnX0F3SDRIQlNOYVJ0bGtEdFh4OFFRbWt5ajZFTGlfQ29xSy1KSVhXMTcxQmEyME1qOWJtNlR1VHVNcFROMUowTXVHemJJSWZVd1pFLTFQVFRjanNaQ3E5YVotc2tER180WXAyOVVJWDZWME9TZ0JtcDIwbQ?oc=5",
+        "title": "Ralph Lauren (RL) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrbWlTQWdXVER2TWtlZmxNZzJ1U0dOcGxubThSRTlrWVVacnNGbWNQOHJWRllENkRvUFU2dHhFNzVUOWlpSUZaSWp1TUFzV1YyUWc1dDBCSXBaaHEzblJJOG5FRG9FZllsS1lMYWZFX2RFUURyd3czc1U3TFFFZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Has $2.40 Million Stock Position in Ralph Lauren Co. (NYSE:RL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFdDTFV1eWN3c3VPXzJUampKcno3cUFJMmhoU180VnIyZ0FnS0duWmJxVS1YOUVmQVVPNHZ2UERUdkE2YnpFSDA5ZExKaEN2RlgySmRJRVJlUXZBVUEyOUx1b3JNUWRKV1VTYS0ydzV2Vzk0QVdGSDNORldvclBQeThjQzhIeGZUUWNNaWFOQ1lSUW5kc0VaTWZIYVFzMmdFQTNwQUREWVNWY1RTalFFRDhwd2VBbU1ZdWJ3QmJUMUpoRnRFbXNkU1FSdEZXY2NCVFBLVmhUOGlxRk9IeHo1WjZUWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Ralph Lauren (RL) Shares Are Sliding Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15T19SMG1ET1FiYnVYaWdkdFc3LXBXM0UtNXdlWXRXSnI0RW12WUh5MTJtQUdteUJreGpuR0dsQnlQek1MeTVBeGJ3LXIxQ0R0X180ZnhHQ0xqbVk2SzlDdzlmWGFoMC1OMjVEc1V0aHFSLVJNZ0VIby1WSGI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ralph Lauren (RL) is a Top-Ranked Growth Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VnNtTzNycmNSTmJraHlJcG5oZndyYU5LZXNLbzM4XzAySDgzenRUUHdKM0NBeTRHcDJoMnRiZGFicmRMemtMeUE0XzJRaU9ZcF80YWdWTmo5eXBQNmdhdGN2X2EwMGdOU25wUXJRYnd3OEh0M0h6M3FoMlA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ralph Lauren Stock Surges 61% in a Year: Is it Too Late to Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEekJiNmlpWDY4QU5hanEzclljQTVuRS10cEpJMEp1eDRvMTlXRl9xZHdzSWFqTWItX3RGeTRtclVWUE1jNVdaaGQxcDZBM1UyTWZ4cmowS1k5ajJacE9ua1dTR1BnbGFGaDlJRHVEcVRmWUUwa0Z0NUlsMjVDMzA?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Ralph Lauren (RL) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTNVOWZJVHVpV1A5QTFCdmpIUUQwTlBIdlNHY29uNEI2Q20xVndrU1FqcWZMYjVKRmw2cG12QlZnbU8yTVdKRnU3UTNIbjA3WncwQ0NTSlZLVllwMWEwVVBjU2EwOVJMOFl2bks2QXhfVnlzM0lmVk1CTjdEYUdfSTR6N3Mzdw?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Ralph Lauren Co. (NYSE:RL) Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTGNzYU8xbFFMZUViVlN5cC1VMEFqeWhWaVdQbWlabWx5NWZkekFQSTJ2VWcxVHBrRjM0S3RWZ09SMTRhcWh5N0E5V0JtZldPYlBaSzdYcWU2NnVUci1mbkRXWi1aUW9DcG14eWxxVXhqS05nd3lKYi1mZG5ldG9Cb0dOZlZMZEI0NTRzODMxUXpRaUM1Y25CS3dTekpjaHVfaFltS0MzSUtkT1E4Uml5MzNxQmhCNEF3Q1E4LXhucUtJMm9jbHlxNVlyZzFMNEdrdmFlNkdON2Y?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

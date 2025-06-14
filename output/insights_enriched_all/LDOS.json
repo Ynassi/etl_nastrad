@@ -2,16 +2,16 @@
   "ticker": "LDOS",
   "name": "Leidos",
   "sector": "Industrials",
-  "market_cap": 18982191104.0,
+  "market_cap": 19106404352.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.880929,
-    "PB": 4.458924,
-    "EV_Revenue": 1.397,
+    "PE": 14.963205,
+    "PB": 4.488102,
+    "EV_Revenue": 1.417,
     "ROE": 0.30945998,
     "ProfitMargin": 0.07873,
     "GrossMargin": 0.17228001,
-    "DividendYield": 1.1,
+    "DividendYield": 1.08,
     "DebtEquity": 133.333,
     "CurrentRatio": 1.536,
     "QuickRatio": 1.267,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.054430961371032725,
     "ROA": 0.09274,
     "PEG": null,
-    "EV_EBITDA": 10.652,
+    "EV_EBITDA": 10.806,
     "BuybackYield": null,
-    "PriceToFCF": 20.62576439764726
+    "PriceToFCF": 20.832469896129904
   },
   "technical_indicators": {
-    "RSI_14": 46.68669468743818,
-    "Momentum_10": -6.879342501394545,
-    "MACD": -0.8198537727776909,
-    "BB_Percent": 0.2839716159303753,
+    "RSI_14": 50.6591560315539,
+    "Momentum_10": 0.175056894261177,
+    "MACD": -0.7805816115445339,
+    "BB_Percent": 0.4354683895122499,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9324762535923604,
+    "ValueScore": 0.8922960418268086,
     "QualityScore": 0.3574443300496769,
-    "SignalScore": 0.6674511401499259
+    "SignalScore": 0.5789724458644581
   },
-  "volatility": 0.0194278159219399,
+  "volatility": 0.0191234227273283,
   "beta": 0.646,
-  "return_6m": -0.0910043079646886,
+  "return_6m": -0.0253781657584369,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 173.28934
+    "target_mean_price": 172.28934
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 160.31
-      },
-      {
-        "date": "2024-12-10",
-        "price": 160.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 153.55
-      },
-      {
-        "date": "2024-12-12",
-        "price": 152.98
-      },
-      {
-        "date": "2024-12-13",
-        "price": 153.16
-      },
       {
         "date": "2024-12-16",
         "price": 152.5
@@ -537,37 +517,122 @@
       {
         "date": "2025-06-06",
         "price": 148.14
+      },
+      {
+        "date": "2025-06-09",
+        "price": 146.34
+      },
+      {
+        "date": "2025-06-10",
+        "price": 145.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 145.92
+      },
+      {
+        "date": "2025-06-12",
+        "price": 148.02
+      },
+      {
+        "date": "2025-06-13",
+        "price": 149.16
       }
     ],
     "current_price_data": {
-      "price": 148.14,
-      "change": 2.76,
-      "percent_change": 1.9
+      "price": 149.16,
+      "change": 1.14,
+      "percent_change": 0.77
     }
   },
   "news_sentiment": {
-    "summary": "Le cours de l'action de Leidos (LDOS) a récemment baissé malgré les gains du marché, suscitant des inquiétudes parmi les investisseurs. La société a fait une percée en utilisant une technologie quantique pour contrer le brouillage GPS militaire, ce qui pourrait être un signal fort de développement technologique. Cependant, des ventes massives d'actions par certains investisseurs institutionnels ont été observées, ce qui peut indiquer un manque de confiance. Les analystes se demandent si l'action est actuellement sous-évaluée, ce qui pourrait représenter une opportunité d'achat pour les investisseurs axés sur la valeur.",
-    "sentiment_score": -0.25,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
+    "summary": "Leidos Holdings, Inc. (NYSE: LDOS) affiche une dynamique positive avec des acquisitions stratégiques et des partenariats clés, notamment en Arabie Saoudite pour moderniser la sécurité aéroportuaire. L'entreprise attire l'attention des investisseurs avec son programme de stages élargi et son engagement envers les carrières technologiques. Malgré une récente baisse du cours de l'action, la valorisation pourrait être sous-estimée selon certains analystes, renforçant le potentiel de croissance à long terme de LDOS.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 3,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Leidos (LDOS) Stock Drops Despite Market Gains: Important Facts to Note - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNVTNaX3dWOUpzY190Snh4bHNSUm14cl9pY2FrQnl2M1UxR2ZlQjRKTjRvdE9pekt6aXJJdkF5dnVmQlMzNmJUeGxZQ3gtNXBRNzEtRTlfRFh1cmhVdFNId2I2WkdJU3ZQbV9jUVZ3Szd3Um5vckphWlhERU9kVTV6NUxiZ2VwMVljYXljdGZYd2d0eUdGU0R4WW9WeTJYWFozb3k4TmZKV204TElMMHNJOWgzQ3pDd1ZfTUlMelRhbWJ0aXV1eFhDazdGaktOYTZMQXFLZlcyQ0N2TlVpbkNIUURvRk94MkhuNDU3NGhZTzdDTUtlYTl5Vjg4bnhmV3FjMkpwMGg0dEdfdHhYTTRtRWF5Q1NUV3pEU0JlOVRkMWdQSDRyWkxTV0VEZzgyczEtZ0xaRF9kQjNUNHRzZmVudEM0TDgxWWtVQkpZUXdnRnA3V3lQc0dVNWkzbFlETzdt?oc=5",
+        "title": "Leidos (LDOS) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnNHOGNWdC1xbmJzY1d6MUtHaFFsSS1wQU04eG9aT0N6Q21Fd3UwdzIwUmd3TEM0bV9QTTZuRTlCLUVfX29ZOFIzODJzUHZhYVBRUDBKaWZhRkctaWpSYjVKcndKY1g3S25feGs3dVlJaXk5N0piQl85OGxNSFhXWWRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Takes Position in Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0dCX3ZxaXJQcWh6czVHaDhQalVaVnQ5M0ZLeUZ1UFZxWXlLQVExQW5IT3FXN3Y5eWxDejFUb3lhQlg3endJeTNvSGdkYnQ5d0ZJenZwRWFwVHVaeDNlNDRmbHAyYVZfUEQ5MGFaSjl0clpBNW1XSHBLSzlUSWxwdU82eWtUWXh6bmNtemVyWm9Da1NlWTdSVUcxRTlobkVCOS03WmVkQTBSaXBIM25JYWpVbkNNUXlkclQyOGlzYnVPdUgyek1QdFNXdFQyb2tpLTc0cERUOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Triples Summer Intern Program to 900 Students, Offering 90% Path to Full-Time Tech Careers - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOamJYSHRfMXBoa0tLdHNPQzZBX1Q2ZGtBLWx1R2YwN21iM1UyeC1nNm5xaHFHV19Qb0dRZFc0ZDRKT2FEam8zSGNXbVNXbXczVmN2b3RaLUFVb1FrVEF5WlNhaVZoQk44algtdkN2eFJkWWJhdThXOG5jb1lHSC01UklSREdIX1ZFbWR1TVlCZ3o4Umo2UE9YWFFodFdKYnlpdGkwS3BsSnAtdHpTX3lOVG1ISTlvalpkd2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(LDOS) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTBvMXBFc2VTY1BqQXlZXzhBUkVSeVI0RjRza2dfMm11Q0VNN01fVGRDSGxVUEdJWFRVOXQtVC1Zd0FJamp5T1hVdW5rd0NtLUxMSEprYzFMZVA3cjlLdm1iWkNzWVNYN05MTk9PMmFvcWVyaWZ1bHB1Q1UzNU9JQVZUTDZkZXZ2bzAzZVJXbHI5ZkExaFhsU0FxbjRSTURP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Welcomes Nearly 900 Summer Interns from 290 Colleges and Universities | LDOS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWk1ZUUR5bFNpbzlXMEk5TFA1VURGeWNRM3hJX0dvUXZmUENwcEVvWkpqY29BcDZSY0pQZ1lPd05fZEJQVEUzbU5nQmw3SHMtaWEwOUtONkVJdlJXZVM0Rk5LZFdteUc4eDcwSDVOa2hrV2Q5SDhzUXhqSHQzQ3UwVmdqTDFhTmlOcUl1YVoxOUZ4YVdJMm5sbk5xRUNKU0x5aGRLOFdyNEtCaWU5N0dkRURZb2VJczhUemRRVTVKMVVpS1h1WUlzYm5RNFVZRHQtZExYUno3TS1ZOGRlYlZuYzZiUXNGYUlrSl9aS3lNN05ySGtSZmN5MHphajRLLWRpMVp3aTB2N0puWl9qZzhKVmhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Leidos (LDOS) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GN2t5SlRnVG9rdWhtd0lRdzU2Y0M1ek5SQ1QwMGlLelhOendvcjVlcDRQQUtIcHU3NlFiSnhrcjhvN2RYVWl5NjhTQnhwUEZZMTdRd19wRmN5YWNwam51VkJLX0R1N2d4WjQ5QVFEeVNYWU81V054WDNpWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Leidos (LDOS) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0tBYlBMWlp4ZDczZ2ZxdV9Fd0FBT3FENzEtdTF4RXdvRjJKQXpXa2tiN1VveFRjMm1MdE1ESTBLZFhJMS1rUHJRZEJmSGdyM0l5NmN5dFpLNjh3WGFhZ0NHLW1CbTR6R2ttOGE2V2NJUnlxWHFmRFk5bzVtdjkzOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Shares Acquired by Atwood & Palmer Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMlBuekY3RktxWnB0ZHFPMHJoVHE2ZHZ1MzE2MkVqY2RlQW81X3JKR0hmM0VROFhhN1AtTDh4MkFZQW1MNEhfOG12U1FRd2U3Z0NRYkpESWQ0Sk1uNVZzdXJDaFhJcGlzdHV6RDZjakdud1pUZVh5RUFEWmpKbjBjQWQ2bmtPNkJocVZacWJSV2RQQjlmTlJEYmFMT05NXzR4Mk9CZTZ1NXNJLTJjODVIR2lOS2lqUkNxTDRlYUh3UVNjblhKTzNHN2N5bW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Lands Landmark Saudi Deal to Modernize Airport Security Across Kingdom - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ3E1RGRVWkJFSG5tRXNLVGI0aGduc3k2bFBvNEprREdCYWtNelJxamJSN3BUTDRDWldPSE1BekNmOEFnZFB0LVY0ZWxMWVBkR3NTUHRQR2xQV090ck1SSnZ4dkMwM0VxN01iQTlGTkNmdGdFZ012d2Z1cUFCRG1DbTMwV2dONzdwR016am9LemRqdF9IeUlIaUs5cFpUY0Q0cEpnNjhlRkRjeHZZYmZxaTdHOEVNOWgzQXh0ZEFR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Leidos Holdings (NYSE:LDOS) Might Have The Makings Of A Multi-Bagger - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzZONlpwalpQSzFGT1JBNU1NOXRGbzlVZDAyNWU3MnBFTjNaZHhScFdjVHNZZXVBWmhJdmZGc0M5cjllYW9DampMSjlYMVZ5UjZCMV8zalQ2UFQ3Y0ZRSllINklNUTJyX3I1andQNFpvNTdXRHpVVG5rUEltTjdpNFVaVjlBSVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Shares Acquired by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXJCX3YxcGNzSDdHSWdXXzd2aWtQQmlkWjY4QVZjMTltQTVobnMxbGh1NFpIZU4yMGZzYzdSc09Nam5CVXNLZ2xpM0lYVUdvT0ZONlFBWkZwY0R2WmFWSnc4Sk4zRzNZRkVHTFg2YUQxaUhXdnc2Q3JTVGdLY0hCQ2RqVk1GeHdrbU84X3BWZ05yWWdXdEpBX3pDXy1kTkVySXFscXM5eFVRdXFINHlmSGY1UzJnSW0weEk1YWw5eTdLZFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos Makes First Acquisition in 2.5 Years: $300M Deal Boosts AI-Powered Cyber Defense Arsenal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVZajdFcUdDV3NIY2I2bE8teUlVUjFxVG81V0tvSnhFREc1cG1Lc0h0cUR1R0hrRnVieUVQSUs0WUE5TWhEbEUweVQxNXBISzN6N19mUDl6U3FoUUtFeWFJRFZxa1lyZ2l1ZmxTTU91cTcwa3JqbTFkRlA0RDA2QUJpVE1JMGliRmJzYkF2LWhFVlN4dmxhSTJvSk10NERHTU56dWF6WHlscE5QelIzVFFhZUdKcjZWdE41Qw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Leidos (LDOS) Stock Undervalued Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczlZOWJXck1yWWNpTmNFRVFNSTZTdmwxcmtzb0EtSXFoY3FoNjNoOVczWkYyMVFVMnM2endQRS1ic2pPZ1NYelVQakpBa1pESTZtc2xpSVY5ZC1JejVUUE9uQjJTbVNkRWpDSEQyNWF2Y083NkRqdTZ4RS1qUll5OV9EdW83QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Davis Investment Partners LLC Takes Position in Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHh3UUVNMmVhOUJJT2dOanpaeDNjMzlEVlcxTkhSZE5EWkxKYXUwN2VqZDZFVW1CUmJSX2dGcWRRY1Frb21OQ2s1aDV6NHI1OHBNUlVxV1RIRkdPSlpldmtaUTJ1Z0U0dkVFQld3TkhYSl9OS29Bc1FoNmpfSWVOSU0yMklNRXFIQXRhUWtoZi1XNlJuQUJRRy1nanBUdjJfSlN3OXdQQmZXcU93eVZ2NXZteEJkbHFiRVByb2ktVi1XSE5qQVRwMXAzZG01cHp3ZThhenMwRUpZNEpr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leidos (LDOS) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3FYR1Qyb3JYVHNlb0NSZ0otT0xCNHE4c1ZIQ0x5U0paUDYtU21za3hxZTVyQm52czJyTXJPV2xXTThfSkZET1VHOEpjVVhiVE8tb1drdzczRFhhX0p2cmJDeEljSXozUEc0Q0ZSSHp0STdQWnBtZ3Y5Y2lJU01tYXNBNA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Leidos (LDOS) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVXdJeUpqVzRUUFBMQzNnTFdnNkhkZllsbkJHcVM5a2JmTXduX25YU0xwdTlyd2ctdTNsWnVWdk9DN2ZJaHNvWW9fbGtwRDl6ZGRuUDQ2Znl4cC1CbkZ5bTU3SG9LdjhVRzJfZUlnVHBHalVNRWtoeVYxUUZkWFdrUENkdGltM2M?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Quantum Breakthrough: How Leidos is Making Military GPS Jamming Obsolete with Diamond Technology - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUxkcXdsYnN3VDVQZVpfV1ZwQ0ZubHItZnpVNTJPZmk1YXF1dUQ1QV9WOGY3LUhrbjgyeVZrR1F0clRBTWF1Wkhfc3ZOZDVlN3ZsRVBMQnhqaThqQm9sbmFnU0hqWWxHVTB1Ujc5eHBTeFdMdnZRcnRwb0lYN2pJQ2hicExsQk5XLU8wM2UteWZGMTNrTC1PVFFObXFqWnFlUkE?oc=5",
+        "title": "Vest Financial LLC Buys Shares of 7,368 Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGR5Mi1VSVdwSF9MckF2ZWwtSkNfUnJnNkozOXFvZWdXUHQ4TktvckV5ZjA0NThCT1VIeEdvMWwwMlhUdktwNTJPSURScXNlNWkwd3JKbURYZ0Qxazdmel8xR0hiU3YtYlN5ZVhlN0hDRWl5dGk5bjdIQVF0dEtTLVVhZWk0WTdqRl8zSm5DSG8tM1JJYnBYSjVXV3M3ekNrOHYxY05hLVZKQmp4djBGNDRmaWp6RXJnellWbUp2REZ0dnZEV0NiZ3JyZEhwWmIx?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,86 +641,21 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "LDOS or DT: Which Is the Better Value Stock Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0tDMWhzZkR2ZkcwRHRfVU5PTDBCdUNQMXk5a0t0cGhOYUsxTUswNE04QWF1VUpNaktibksxVThGbUVRSWozMmhhUWxOWGlsRWZOdEtrYnlTaHc1TVhvU0x2dU1fbjl5cXg3NklKNGw1VHFjcXJlRGpTWE0xb1l5V0JzRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos using quantum technology to thwart GPS jamming | LDOS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllvdjd2RV90NWJTTWF1X3QxTm9mRWxuUHZHeDFQem9kcVlXRzB3X1NQUzZsMDM0dTRsaW1xREpIcm5XbG4zVGowdjBaZzRPWnIzVjhtUHliYVBYMUswRktmdnR3Z1JTQnZ0QnRqd1o5eUQ2MkljSFdTQ19xc3JERnFqWHVnN0YzUHRGZS1WdGRSYy1MVV9vRzBJNjJObEZXNkxGUWN3aHhJNFNy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Stock Position Decreased by California State Teachers Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbjhsMVVDNXI0WXM4MU5ZLUwzYUFUY2Q1LUt2dVNUc1V1Zi04Y2o2RVBua0RIVkhSeGpaY2lDN2FRaWRSZFlqNGtPN1ZZdmFTcHpmVzJHVGFVWGtYUE4tNkJ0Zm9rRVBVNVFUTUdfTFg4djVLSktwUmVRUVdGaTFscVd2YWZNMG5lcTJLUzVhM05qTmZxaEFmd3JTdW0yVWNXWWtoaDZtRXRwSjUxdUhOaVUzT3VyclQ3NGRnMUtGLVFGNko2a3gzVVVFM29aZmxrVG1HZHpFalRFcXVFVWhuNGxB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOejY3bVFVMEJTa1I2Q3pxRzljSGxCelQyRVNBRGx1alotVTVjRk1yVDdCRXhyNktKb201bDUzRXdWNHlTQWR5cWtyUGJmTW5JZDZ6TDNTMjZCRUtoTTZBLTVVZ2dUQ2hIV0owYldTY0RUT2dlRU5lQkVubVpweGhkd3N4c0dzYjMxdlFiSG9VQzExR1pMRlNLN1d5OFoyTUZSVDU1Zms4TFltbjJUbUVGVGRVMEMzWjdfWWJvMkJPenI5MzdRX0cxVHdleFZRMG5Da2VBa0JnY2JGemhp?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos Outperforms Market YTD: Is it the Right Time to Buy the Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXB6NF95Wk1sd3Q5SXdlcEI4U1J2b0owRC0yZ3o0VFkzcmowQy1pd0lqYmlDOF9uTTBwbnhwNlhLUTVFYU1mTjhvcVZsZDVUa1VSallqbmVjaDE0dTFkUXpLN21xWXNFYkd2bWFEWk8xNU5XUEZTR0kycEg2d01DSG0yWEc5VWZJMHN0YmZDemFPMW1yOUVaM2tXdUE1TS1XV1lRdk5EdXBsQjhlWVhvRnVyZEhNMkM1NDluRHdR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Leidos (LDOS) Down 6.7% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95R3hzb1pGeWpVeE9nV0hMLTk5OG1sS1pTSnZhbDBXbnBHenppRGNnRVpoNnRpXzNJTFBzd2M1OV84aVhvNkxuX0toREMyNjBSN3RzUlk1UlJzQ19fVFZTd18yeUdUNEhjbk41NjhYMDBXbENDWTBJ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGs1R2hUZHlCVzFBVHRwTjRzRzJ4eXMzb3hlUXowT1A4UktFUFFJMjlaNU1GTHJDUDMtalMxZklGV19ja085WVZZcl9mRm1KZXRQeWs2eTZoLWswQWVSeTNBYl9HcTZWdV9DeHlwRUIwekNpZXVKdkp3X3h0Wi1RbUc2aTg4MEp5TFduNTZWRk82MlV6YmRyaEhHSWtZTktFWjdqUExMVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Shares Sold by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRUkyaDd6Y3gwN3N3TkJPQXlQcGhmVEhta2pjckdubDlUR0JxVG80MmNkZTNPWmJQdzNkUERyd2hwOGV4V0NzenBsOTZWSThsUjVOdHhrUThQakdqeUI4YXRHckg0eFhXbmxnRnhaeVp0Z3RKUWs5NUh3dGlVNmFHTXNVWE5qeldubk1QVGJZamxkMjFvWk52cUtjMWhyRzdReUR0VmV3aHI4Tm9GQ1VISFI0dTduWnlZZmlLRU5qMDVtelh1cGhhTWprVmw2NXVVWmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Leidos (LDOS) Stock Undervalued Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczlZOWJXck1yWWNpTmNFRVFNSTZTdmwxcmtzb0EtSXFoY3FoNjNoOVczWkYyMVFVMnM2endQRS1ic2pPZ1NYelVQakpBa1pESTZtc2xpSVY5ZC1JejVUUE9uQjJTbVNkRWpDSEQyNWF2Y083NkRqdTZ4RS1qUll5OV9EdW83QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should Value Investors Buy Leidos (LDOS) Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmpTVDZyMW5PYXRLbnhrbF9wRW0zbWhMNU54ZWZaRXI0MnJ3WnRfaTFMM2puNUxnekU0V0VvVFcxeF8zc1ZFcUF5RHRCcVhjT2dsbVdpeUNzTjBURnVLLVpKLVNEbGZVVUhkVHBFNUI0U1BIT0w5S3lYM0dWenc0bUI1RQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos (LDOS) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oNlVsY0NEdDgzTDdLU1prM0FrTk52Y3RlbDlBR0NFYkItNmZrVHc0Z2tZRWh4MVdFUHlkdUFWWTZEMzZaMy1OaENUd1Aya3pFcFkwWkRSRDd4MFRTUkZ1R3IySFkwN0xvZzZsSnZQX005RFJCb24tdC1yNUhPQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Leidos (LDOS) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NGZyNEdMa2ZLUEUzZ2JVZFgtUTE2N0hMV3NXcEUzTjh1czBZSnlvS0tyamxqWVBpcnNKWXBzOUFhbW02U3d2WXl5ZS11aWgxcWlkXzQ3X3pKdkl1Slh3NnhScC02NE5XMVp4NXpVQzk5QWNGbGxJa2JWUS03TFU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Leidos (LDOS) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmhQZzU2dTVXNDE0SkgxREhrekNvTW5iNFVkUGZrT3BUeG5VRFFkSFYzc0xwSEZidEc0RHJzZEJNNEF2a1g2Vk5OMXNBbVZ4UlcyTmlmZEVqTDRiQ3oyY0Q4ZHQ1SWxmTEZqdm5YTUFuSnc0ZWVJMU5mcnlFMV9EaUt2Yw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Acquires 21,848 Shares of Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
+        "title": "Leidos Holdings, Inc. (NYSE:LDOS) Shares Purchased by Rhumbline Advisers - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1FiMkkxR0xBVWlkcVlJWXhZWHVXV1F1b1hBSnJXaktUUFQteW9hMXk5SFBaV3IwanRKZzNCaTZjdC1wRnBqOTZrZGdsQzRPaEVzWEg2S1d2eUZLbVpVbEtzdWhRQk9ROFZDa1BUZEdCUXNUdTJiTk92WUllVWhveUJpalJ5b3dpU2l6bmdiOU8xVVZFOWdTS3FZdVJTc19ZcnVlN004RnhYaExTRVA3dzRUYXJHSUJZMUFBV3JXVmZyUzNfa0xqZkhWMmxMbUU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "20,888 Shares in Leidos Holdings, Inc. (NYSE:LDOS) Bought by Peak Financial Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0ZYei13TTlGV1JNRFJTSDFzbWpmMERhcnBCdzQ1ZlRrcFlzeFJBS3BCZmFNUUlRN3BPdVFEUG9Qbl9CbzlfNjBGR0dhMlRrcUp0UHFRY1hqdGhBaG1JRWEzenZZVGxMcmxCZHFzWmVqSjBNaU9IOXNTRTZOTHBSaXlPU1B6ZFhVWV9hd3c1MGg0eEtLSjNTM0QwclJWQ085X3pIXzFMS2FuVTNzMHY5MXlqQWpFWGZua094SDZIVXpKNGZjckVxMXpqSDNXQW5EWWlGNkJqak50dWc?oc=5",
+        "title": "GAMMA Investing LLC Buys 231,796 Shares of Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOejY3bVFVMEJTa1I2Q3pxRzljSGxCelQyRVNBRGx1alotVTVjRk1yVDdCRXhyNktKb201bDUzRXdWNHlTQWR5cWtyUGJmTW5JZDZ6TDNTMjZCRUtoTTZBLTVVZ2dUQ2hIV0owYldTY0RUT2dlRU5lQkVubVpweGhkd3N4c0dzYjMxdlFiSG9VQzExR1pMRlNLN1d5OFoyTUZSVDU1Zms4TFltbjJUbUVGVGRVMEMzWjdfWWJvMkJPenI5MzdRX0cxVHdleFZRMG5Da2VBa0JnY2JGemhp?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $11.14 Million in Leidos Holdings, Inc. (NYSE:LDOS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNXJETVd3U2luY2tjWF9jN3UzU2U0Q2RhUjJXR1pYc1oxRC1CVjk0bzFWUGlteDNVMUtoNnBMM2cxMWN0OXZSTEhlWHNMaFF4T0t6WEtqSVFnQmlUMExKZFk0Tlc3NE5OTGRaMDFScEpBTTNHdmI0dmF1VzJMTlFOeVdpN3Axallkbzh5MlFjZHdEdV9xbVprcDNjb1lPRENmcE14MEFDNk9lMnNHUEhDaEpTYzZydW5xWEdtVW9URGVBeUVQNjBnYlN2MlhaMUNBTG5scHNMZEJNbUNzWm1ZZlpqR0oxaU5kT0x5OWNoSnNNcnNpTzNBa29XUTUwVnNR?oc=5",
+        "title": "Quantum Breakthrough: How Leidos is Making Military GPS Jamming Obsolete with Diamond Technology - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUxkcXdsYnN3VDVQZVpfV1ZwQ0ZubHItZnpVNTJPZmk1YXF1dUQ1QV9WOGY3LUhrbjgyeVZrR1F0clRBTWF1Wkhfc3ZOZDVlN3ZsRVBMQnhqaThqQm9sbmFnU0hqWWxHVTB1Ujc5eHBTeFdMdnZRcnRwb0lYN2pJQ2hicExsQk5XLU8wM2UteWZGMTNrTC1PVFFObXFqWnFlUkE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

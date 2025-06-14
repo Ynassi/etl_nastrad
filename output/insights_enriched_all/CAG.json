@@ -2,16 +2,16 @@
   "ticker": "CAG",
   "name": "Conagra Brands",
   "sector": "Consumer Staples",
-  "market_cap": 10652333056.0,
+  "market_cap": 10320566272.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.816177,
-    "PB": 1.2133652,
-    "EV_Revenue": 1.595,
+    "PE": 31.794119,
+    "PB": 1.175575,
+    "EV_Revenue": 1.596,
     "ROE": 0.03658,
     "ProfitMargin": 0.02804,
     "GrossMargin": 0.26667,
-    "DividendYield": 6.29,
+    "DividendYield": 6.28,
     "DebtEquity": 92.778,
     "CurrentRatio": 0.689,
     "QuickRatio": 0.19,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10934744110357382,
     "ROA": 0.05133,
     "PEG": null,
-    "EV_EBITDA": 8.754,
+    "EV_EBITDA": 8.758,
     "BuybackYield": null,
-    "PriceToFCF": 8.307527146393749
+    "PriceToFCF": 8.022984548442427
   },
   "technical_indicators": {
-    "RSI_14": 37.136433169367415,
-    "Momentum_10": 0.0224162628191399,
-    "MACD": -0.4152330865536875,
-    "BB_Percent": 0.1504727539199221,
+    "RSI_14": 29.680649991172984,
+    "Momentum_10": -5.373523700453097,
+    "MACD": -0.4031070245715469,
+    "BB_Percent": -0.1847205048648166,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9313228287324884,
+    "ValueScore": 0.8908301196514383,
     "QualityScore": 0.4144317617865226,
-    "SignalScore": 0.6553527185106802
+    "SignalScore": 0.707458651553986
   },
-  "volatility": 0.0161678436657674,
+  "volatility": 0.0162172695188602,
   "beta": 0.137,
-  "return_6m": -0.1574645397642684,
+  "return_6m": -0.2114941297387729,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 19,
-    "target_mean_price": 25.98474
+    "target_mean_price": 25.14263
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 27.74
-      },
-      {
-        "date": "2024-12-10",
-        "price": 27.84
-      },
-      {
-        "date": "2024-12-11",
-        "price": 27.73
-      },
-      {
-        "date": "2024-12-12",
-        "price": 28.07
-      },
-      {
-        "date": "2024-12-13",
-        "price": 28.2
-      },
       {
         "date": "2024-12-16",
         "price": 27.9
@@ -537,43 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 22.39
+      },
+      {
+        "date": "2025-06-09",
+        "price": 22.4
+      },
+      {
+        "date": "2025-06-10",
+        "price": 22.44
+      },
+      {
+        "date": "2025-06-11",
+        "price": 22.37
+      },
+      {
+        "date": "2025-06-12",
+        "price": 22.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 21.57
       }
     ],
     "current_price_data": {
-      "price": 22.39,
-      "change": 0.12,
-      "percent_change": 0.54
+      "price": 21.57,
+      "change": -0.71,
+      "percent_change": -3.19
     }
   },
   "news_sentiment": {
-    "summary": "La récente actualité de Conagra Brands (CAG) reflète une série de mouvements significatifs. La vente de marques de fruits de mer pour 55 millions de dollars et du célèbre Chef Boyardee à Hometown Food Company soulignent une stratégie de recentrage. Cependant, des problèmes de chaîne d'approvisionnement ont entraîné un manquement aux attentes de bénéfices, impactant négativement le cours de l'action. Les ajustements de recommandations à la baisse de la part de Wells Fargo indiquent une certaine prudence des analystes, mais la continuité du versement de dividendes témoigne d'une certaine stabilité financière. La volatilité actuelle pourrait offrir des opportunités pour les investisseurs attentifs.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
+    "summary": "Conagra Brands traverse une période tumultueuse avec une baisse de 12% en trois mois, attribuée à des défis d'approvisionnement entraînant une baisse des bénéfices. Malgré des innovations majeures dans les aliments surgelés et une forte présence d'investisseurs institutionnels, des réductions de cibles de prix et des déclassements d'analystes ont affecté le sentiment du marché. La société fait face à des pressions inflationnistes sur les protéines, des élasticités de la demande et des baisses de cibles de prix, mais la continuité de ses dividendes et la vente de Chef Boyardee peuvent indiquer une résilience financière.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.4,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "4 stocks to watch on Friday: CRCL, CAG, MANU and NVO (NVO:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmpBN1E0QzlwUFNUbkNEZEQtbFJUR1dmWml3TFRYVUE3NjFmaE9uUkh0cDlmM2NEWllCZzUxMjJ6eHptcnFSeWxGdThCTEJFX0hzLWF4RGI2bWd6anpzaEYtWkQ0RjlxZHVpOUN4MXJ0Rkt4OXQwZjA0dzlrM1dvcEl5b19lQkQxSE5pd0htUy0?oc=5",
+        "title": "Conagra Down 12% in Three Months: Solid Bargain or Risky Bet - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0h3NDlrSGVZX0hzcG1BaHV2T3pqSEhneFJpQzZsSTM2VDBjNTVRM2EtRUN5ZmtsbjZ3QlgyQ0xLMGhNazhtSXFtN0pfYmRwZWtGT0dQY01jZlJ5UXRVaHVBc3N0bFlJcWVWVkt2Mi1ZVk5MbXBHX0FuOXVSeS1teUwwNms4ZV9uZmgwWjVadm5UdWhVX2hCLUNkQl85VWRqbXpuYVNpMHgweW9TMmFYVVFKYVU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Conagra Unveils Massive Frozen Food Innovation: 50+ New Products Including Dolly Parton Meals - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkZGSjltRUd3TzFrREd5RUNIQWxPUUw3aTE4Zno2ZVR4UmlvbllwZ3JJNEdCY3pOeXhoUXVVR1ctemFRSl9xTE5qZEwxeHBjZTgxbFRORk9IbE5mYVg3SXVmMDNUY2oyREg4STZtSU1Ob3I5NVl5X1VPUU1DWXN1ekY2SkVPdm93LVNQaWIzamlpaTNBc0JlSVA5WTNNNEV2ck5LdHAwcmVab3RMRkVsMFBza1MyTXNrWF9z?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Conagra Brands, Inc. (NYSE:CAG) Shares Bought by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkxGRzBrSEZCX3Z5YVNkSFA1YVJMWHVjRktBdTkxQnowLUlLc0E4eGJVcGhJYlhvSEF1V1hGOE5yZDBUclp3cnR5TDZPMHl4UWpmbzZLbG5kQVFQY0ZvSjg2STZLdVpsR1FXTDJOdkdJZHlqdEo3NG41Y29rSTQ2SDI2MnA0N3hxU2o1bkZUYWFSZm54OW5fVjFvQlFfc2hROUxKLVJERER0NXhaaUtqUHktMUFwemRQUm1oY2tOOUlwQndWbmxycXB0OXFTQ1k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Conagra Brands (CAG) Sells Seafood Brands for $55 Million | CAG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcm9OUVVCc0tEWnBINFF4RnNqV1lLUlNFaV9VeE1KVzloQWdnVlNlNnFtZjNBSXg3c3JJWjJvQjdGZEVyMTBsOXU4QzRsSXRFT0hsSzh4RVFOSlZxby16VEdJREhROUhmUnVmelhVMk1QV0tZWGhiakVfejh0WXVIZWllcjVZRnVxczlISnVvWVhNQ3lscEVGbnBEeGc5TXFMX0kxNnliXzlTX2dU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Chef Boyardee Gets New Owner: Conagra Sells Iconic Pasta Brand to Hometown Food Company - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTlHRlZWdHJKcXJHRGRTLTNyZjNKYzdhQm9CV1hxWGpMWm41R2ZVdWQ2dVBUU0duTnFuR3QxX1lHT0ZLMk9Dc0EtTjBFX284SVg0SU16NkpNdjY5MXlIaGFIN29RNVZQX3NGRkFWNGhxVzktVXpBQndPVVJ5ay1veU5qM19Dd1FUUmhGMTQ4dC15WHNzVGotQ01UWEJaQ1lGcG1OWWZPX2p0ZmVFbUlidnNxbjJENnM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Acquires 121,882 Shares of Conagra Brands, Inc. (NYSE:CAG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHA5bGdfNTlndU41bkN1NTF5NjNSc1BBMlRYN2Q2Z3pueHVBRW81V2dkY2VBNVJCMEktcGNwbVpvU3QwSnBsdXo4Sm1rWGZRNmFIMjNQakdnQ3dGX2pxVFBKS1lZLXM3T1ZqN2Y2S3phdWRwSThmV0ZYUEJ6UVNiM1hVN0FqM2E1em4tM09rUGZONll0aVVlRE5nLUgzTVBBNkx1cWJodGJkYjNPU0o5M2hTUldicGg3Y0NlR1JOWWxGRkw2TXlKM0NobU4?oc=5",
-        "label": "NEUTRAL"
+        "title": "Conagra Brands (CAG) Downgraded by BofA, Price Target Reduced | CAG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGFLQUNLaVg3akpqWXNhZ3l3d0pCaVMtMkR4S1ZsZHROdlV6aGs2ZTRWNzlTMXhIMmhiX290QlZoMDRhRndLeERTakNrTWRPdmdGTmNubWlRMEtFUzU2Y1ZYeHlzMGkteXVVbEw5b1VGc3p0YmQtZl84S1p1Umx3M3pFVHl4Yl83aEswS2c4bFB3eWRlWmZWMVZHMDhlTTNDbDV5dERpejZQa3AtbG5PMFRB?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Conagra Brands (CAG) the Best Food Stock to Buy Under $30? - Yahoo Finance",
@@ -581,14 +581,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Conagra Brands (CAG): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VV196cmROUlNSM2NOSDIxZS1Rc3EyTW5rZ1doblZrYWMyUXdTMFZ3bzJFcy14X2tEWURRSFRMVEt1bVJadEl1ODEwcmpmTFJ1QWFwSmZn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wells Fargo Trims ConAgra (CAG) Price Target, Maintains Equal Weight Rating - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlpBb1VVWnlwcmVfZE5TLUp6aHZTUWs0Yjg1VThwUTlnOUc0MU43ZGhvYXZyei1CVi16cmhPejVNRFAyZTVUMHgtS3pldjB3S1MxUzQxTW83RTJjSWd4ZjlwZUZTcm1WSnVNSXRRYi12WnMydDFtcmJGV3Fuc29RQ1FoNjhoMmhPRFgxc3c2cmwwSFBWemNlTWl5cWhYVC0tN0dRMWttcWZET3k4RVNUM1ZocUJzelVzSTNuZDI5VjdUWnhS?oc=5",
-        "label": "POSITIVE"
+        "title": "Conagra faces meaningful headwinds from protein inflation, demand elasticities (CAG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFlZXUwbGF4am5CTFo1anlGLS0xYlZsbWY0bTZJT0hhUXBQRWN0UmpKOW1XY3pCVEVjd3VxSlNWSG5Ka3ZBQ1NoQVhOUm5uWVJUcTMxbmlLT3kxTlp2d3FFWUY3Q00zRWY5aFBwUkdodUpucTFwM01wMTFIeDIxTVdUNnFkODhZTDU4UURpLVZQVUFFdTY0cmZqeEN2OUlKREd5SG5GX3pTVWpVVFhaX3JWejk0dw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Food giant Conagra’s stock falls as supply-chain issues lead to an earnings miss - MarketWatch",
@@ -596,19 +591,34 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Out-of-Favor Stocks in Hot Water - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakR5RGh1am5aa25SblhvbGRrZVpQYTZWaXZtX1dUM0M5eHlVYzdHeVJaT1F1WjRRRW5sbnkxRHdjdlN0VGhnLWxWR1N2OE1hWFJZU3ZMY21xOTRRNThURkdFcEVHVG00SFlkdGtac3F1TlJ3a05pQjducmNiM2hDYWNUN1FuelFQUDFGanpiSlBsaHhDWlQ5T1ZxNXV2amQzRWo0dzZDLVBpZw?oc=5",
+        "title": "(CAG) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1hrZmlhMGN0Zzk3UC01RU1MOUJ4eXZLUzBXVW1fZlZOZlRJRVJ6ZEJrQXBNbW80bkFXcE5RQ2dvalUxUmZ2dElxd2N6NmtQVUNVS3FBb0ZFV0I0Uk5HdW0yYkNnd21LLXBKZXhIblFVREdLWlA0eDZrdm9VRURjUnZWQWJUYUNQUk12TzJDSDNWWVd4bXB6Rg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The past five years for Conagra Brands (NYSE:CAG) investors has not been profitable - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMHBBU0FCX19vM1dOc2YxdTVVc1VYN1F3ak83LUg0TE5mTmRwRXBvb19LVWhycVF1dXRFbTl4amxSeXZHbmxHcDd5Uk53ZmZnZHZ6TXYzaUtlOXR3OHhkb3Z0aXotQ2ZYOU8xVnJaZHRBdi1fanFkV2JBbDUyZGVUVnJTU3p5OFVBc1hlWENMZEY2WjRBUHNwY2duZWhYWlVsQ0p3S1Z5MUxmU3U2SGJKclgxNXZtaVo5RDVXcmtLY2FhZzZBS0tpRnVLSmxjbnhlZFV6amtKZmF5MWvSAeABQVVfeXFMTWxvdFhZLXd1dzlVV2M3UDQxaVhocnF3U2ZKRkpvUVFOcE9vZTF2QnB6OGlubzhBQ0ZrWWdoeUd1T1NqejRPZldzZkNPbWp6RGFidEZYNjNacWE4WWEzSlJBUHROZmxBRGszRzR3Nm5RejBNTG5CWmRBdTZCUWRmLTQxZXFUbkNMbWdSQ0l4VXN2WTNIcmEzeWVFRnRmMEExWldCNWUtdmtYQmtJblphSVM1b0JZMHFKUzZDUFlkaHJXM3pVOXFWZEhiRUFwZExZTTBsUC1qcTBiN0VITnotZFI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Conagra Brands (CAG) Receives Downgrade from BofA | CAG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUNfb1p0emE5djJ1RUc3NElXWV8zR0JGeWRmaXR1NlJhOEhieFRMaC1tQm1pZW5rSnVLQlBjS2hWSzR3VWpKbGQwbUE0QjI5bFdMQ0YwcnZXZExUclktcTljelNEM3VoNmtONGFSWFZxM3ZTdDczTlBIYWhoaUdKaDlXRld5RmQxMzJXQzVYeDVxZWVyZk9IS0ZfNzUwZ0ZiekhUbw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Conagra Brands Enters Into a Definitive Agreement with High Line - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdjNjaGt2TlN6QjlvZGFKVmFRQ05va19lc3Z0R0pzWWQ5NnB2bkdYNl80R0dqN3d2el9mY1ZaUVlEOEE1QTg3WFdFS2t5OTVlUnZreWNQcGpTYkZWYm5FLW14YTdEQ3lLTUNTOHVYd3paWGs0TF9GWVM2ekd1M2RPamNzVTVpVnp5dEhPYW52a1pycUE4ZE5DUmFfV3RlR1RSanBDWWNFOVY2Vm44bkxSOGFpcjJ4WXhJZUZpWmhGYlR0RG90aVlrQnZ0NEVFT1NERkhxXzc4d1dPNDgwelBVYXVyYlZtOFdYQ2EwTnU1R0h5MmdjSHpIUWlSVGhKSkNrVDNr?oc=5",
-        "label": "POSITIVE"
+        "title": "Conagra Brands Earnings: Complete 2025 Financial Results Coming July 10 With Live Q&A Session - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUVCVl9keXRPNFFjTGYyeGg1WXNvYjdMVDNUMlhPVFRCcVlCMXFoek5kVjV6TjZCNFFfV0FQN2s5TE5sQkRyY0hJZDB3TTFLc1RMQi1TUE01UnQ2b0dlTWhacmlBb0ZnZGFDY3VBbXJINnI4NS0zcFlmNmVGbTFsWlNSYzVCTTAzZTdweThRS0JyY1NGbVA2cEk0Qjdsc1ZDaHF1RjlMbmhkbks3OTFMZmVaNUxaNkJSVUZGTQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Shelf-Stable Food Stocks Q1 In Review: Conagra (NYSE:CAG) Vs Peers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zdjZySlFTRW5xbDU1VXotckozZ1kyUE1iMnM3cjFlR2NlNWxoZGJxRWJPN1E5ZzYteTlvb21QbVBZN1l5S2JPenEtaUt3a2xNeE12ZGNKNmJwb2lLUk9sU1ZCWDlwMnhZY2I3ZlV3X3JxTXoyRDBNSGlaRmJxZw?oc=5",
+        "title": "SG Americas Securities LLC Purchases 235,891 Shares of Conagra Brands, Inc. (NYSE:CAG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmhKNnBsaWQtZGVIUGpjYk1GR0FIUFVjU2k3MU8za21INlpxV3hDb0poa2dCZklJNGVHWmxQdVBrSjQwTEpIbVI3cG1vSzFCQ0hCSGlSWHVvMlJJMWQ1T3o3eGZnOVVoblg5Y0tLR2llY1B2UHFSSEZtNTJoQ1lZSW5XdUVmYUJpNVQ4ekxKcEtmejB6RnlJZ1k3bldtMUhDYmQ3dGVaMVZmUC1NbFR0Tkpja3daQ2tYRFM0RGd5T2J5YWx4QWR6TTF0S1dod2NSaVp4OWMtSWI?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Conagra Brands (CAG) Faces Downgrade as Price Target Slashed by Analyst | CAG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHlPdnc4eXBUTy1zeWNtNzFyM21VNGlzZFdKV3loOXRnTWlhQ0U0bTN3cEhGUjNMOEJTMDhNYzhfWVNrVHVnY3JYQ3k1YTQ1UnR4RzhERVJ0YTEzaUdrZE5NLWtUMDhvOTQzdVNJLWJRUVZRQkt2ZWc2V3QwcE51VlR1MEhpbmpJNWg3ejJUWXFvUVpOZHRLMHBNTTlwNklOSGRISjktRDhsZ3hKb2ktcTlpVFRQWW9zX01xNXJxWUgtaEZ5ajE0dWFLbDdzU3M4?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Conagra's 49-Year Dividend Legacy Continues: What This $0.35 Payment Reveals About Its Financial Strength - Stock Titan",
@@ -616,34 +626,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Meyer Handelman Co. Sells 60,620 Shares of Conagra Brands, Inc. (NYSE:CAG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmM3QXgwdHdiV3dWdWtuMzJJN2JsMW8wbFhRZml1alJPTkFrS1B4X05uYXRDSERtaFhEOXRsNy1kWFU4ZGZuMF80RWlPQmROSmVKMnJwWW5PcWRna1V2cU9fUVAwZHRjV2hBLWZ1dUJFZWF2SDFDZU5WcUxkLXdEQWdibXpNR3ZZSXdabFBMekdLMTdZNU5ZUHpCTV9rX1Y5cFU5WG9yMHVfMS1jeG5ya1JzX3k4RTFHa1VobVB1Y3pOb1E?oc=5",
-        "label": "NEUTRAL"
+        "title": "GAMMA Investing LLC Increases Stock Position in Conagra Brands, Inc. (NYSE:CAG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2dMdUx0NklUY2pfYVBxUDNBTDQ1ai1GOEhTcnktdGI1TC1QMHVjazFiM0dSbFQyVUVzOWJJV0xHM2c5U0dDUVo3REE3NGJuQVhvaC1CVkdhYzBrNkJrRFdUNUZ6Z245QlY1Sy1sYWQ2Qnl1b0xKc24tWTBRcnZ6M2JBalNEQV9MUkVodHlneVdkSWFOaTV2MFVxREhJZEVqMURNYklFd3EyRUpPaXJqMm1mVzBGMjRWazBycFc4THk?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Conagra Brands (CAG) Price Target Cut by Wells Fargo | CAG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFAydFZETnZrQ2ZaT1FsVmhCN3QxYUNndmtGTzFTMHpDY0ZfeThJdEJRRGFPa2R2VjRzelBGb3JWcUphQmRqWDFYa2R2M3FZbE5lSEcwYzlRWDVQVE9meXJIVkdFU2pQSkhnMkRIR0gzSml1WGFyTXNubkkzX2NDT21ob1JmUnhkd2R4MWZKNU5HWkpHYXc5TnRLWDNsM2JqRzJ0eURDZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Summit Global Investments Reduces Position in Conagra Brands, Inc. (NYSE:CAG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3hiaUFtSHJBUXg3RlYwTmtSQm03UUJBQ1pTNlBwaTZnNHVVOUJOQTBIRl9CUXFIZDU2bjZvbGpMbm9lVXpNRENiV1FUZERkOWlSVEtQVkViVXRWT3lwQ2dXdklJV05EZW1DZTJ6R0ZhODhHeEFza3QzUlJCclY0SWt4WUdleklHUnFaRC1feVRtZlU3b3VrRlBpdFJGSTZZQXhZWTNfZGJPdkt3RGlUYkhhRWRUX0ZOY1VZOFFJQTV3eVZCLWh3?oc=5",
+        "title": "Conagra Brands (CAG) Faces Downgrade from Goldman Sachs | CAG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZF9sTDFiTXd2YTJ6azFaSDBxRXpPYWFKXy1tN2R2VDlPQkFib05oeFd5OTAzRlF3OWUtRFdZV01vT3Y1TVBQSXpQaHRUOFFyUktoWGJEMWZoaTNjbzZJdE1jend3NU40NE5mMjdBc01BSDVLTERpZjVHNkFXTzZRMndiY2UybTBpZUVmS3RWNU56aUVYNDlfSnBmc1FJRTRmdzcwRklvekt0MllXYW1NNjRsTVZQeWswWFpJ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Conagra Brands (CAG) Target Price Lowered by Wells Fargo | CAG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb24yZm9QazRNZmp1WGROdHJPeHUyRC1Fek4yWGR0b2JvazJPdVpVOWl4eDF6ZW9UbXAzS0RlNV9RSGQ0RE1Bdm5KWHFXdVNSNzBCbklVWmVyQ3dBTGlRdUZnZFNtYTl1eHhvZld4MW5acFZKOEJIWkp3TV8waUNMMFNWdlh4WHkyR1dXQkhkZURlYTdXdFRhX19qN2FnUkhweHJlR01UTG5vN1FU?oc=5",
+        "title": "Dolly Parton's New $4.49 Frozen Meals Bring Chicken & Dumplings, Pot Roast to Your Table - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGJIbkdadWVJVUlMYWhnd2N1NUYwRWVqMWl2dkxocXhsWGZSdmhRVFRSSUpBV0hmQTNNMU9KNW9Xc2hDeGx3WEpUZDVVU3g4U1NybVFIYV9DYWN3QWdrakk1LTU3NFBnYVQ4SVc3QVNsazJyM1dHc2FKZ19pb1gyXzkyWnk2TmdsVGFEeWh4ZDh6cUJvMXNxamRtc1d2bjFIYVZ4dnJ1bTd6ZjdnUldPclhYWkNnRHdPbEd6TWdR?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Conagra Brands (NYSE:CAG) Stock Unloaded Rep. Robert Bresnahan, Jr. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUdDR21yc3BQUWRPWDhYeXBvOVc1bWE2ZGVwUXlGQURHVUVNVUlIYXY4aW9WWnRuVGFqamFPR3N6TzBnTmFGRUFfclR2Y3dKX0pVRERzSWotMXV3emJJd3BoQTJxVkh3anV0cVlGY1pzdkZaVGx0UE81THZlWTBMSWFXT0czNlUyckJ5U1V2Q2QwNUl6N0p5LW15RFduYm1ERzRlZWx5MDQtUlFiSFhweFJMQjBUTHM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wells Fargo & Company Cuts Conagra Brands (NYSE:CAG) Price Target to $23.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdzA1NUZiODkwd3pQeDdsOFYwZ29CSTdMc1Q1RldBUGk3SGVpa1YtYmhTazNXQkJqOUdUYXl4c21ka21haFJlYVJwOG1UNUZ5MmI1V1BGdWhNdm9MY20wYUZweHlJdy1waDJIS2hhM3dvWXg4dkpaSXBwQThhT2NHWm4zZVR2S1hrb28yTkt3cjNDYmNEaVFzQnpyaURuYkYwZGJpb19hWGJSdnlycU1tR3ZOQ2lmN2xzaW9WdVdwbV9zQQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Conagra Stock Could Thrive as Tariffs Hit Other Sectors - MarketBeat",
@@ -651,11 +646,16 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Conagra Brands, Inc. (NYSE:CAG) Shares Acquired by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPenR4czBTS3hJYmhiNGZjSmN5U09MTzMxRjlVX0Z3bTNqNmxua2Q1cUF0U2ZjZnNmQTdESHc4cGEzM3RtRHpsYkdFbG9JYm9rSmtqdENWcm1SWERFYmE2ZklWd3FkYTRBS0Q3dDRMYkdBQy1DOWRheGp3b1Z1cEFuS0tWNVpIem0wSERjWGRjV0kwbmhRUEV6VWVwNFk5MWNWWkhaemhfLW1Qbl9SNDd3NTV0ZGtQdEt5Y0k2M2lrbVpTUG9vMEVwOThNSktLQUxmRXlOZEI0U0JVZ05sRU1R?oc=5",
+        "title": "Conagra Brands (CAG) Downgraded by Goldman Sachs Amid Challenges | CAG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlNneWFuVlZFeUMxRElmVE1zZG5WMzM0azUxUGRiMUNRU2IzQjVkclRsUVd4NHlWblZqejFObUxzblpybTVmR1FsN1VLX3Zjd3dGRzhmU2ZBMnd5QTlrOGJSNHlTODQyMC05aHhEakRUT1pvei1vSm9rX2tPNnBIUjA3bWIzOXFoblliQnhSNVlaN0RVWWlVQ3pFanBVaHlGYS0xV3JRMmFtOFNfLVFyVGt6eDBBeXFw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chef Boyardee Gets New Owner: Conagra Sells Iconic Pasta Brand to Hometown Food Company - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTlHRlZWdHJKcXJHRGRTLTNyZjNKYzdhQm9CV1hxWGpMWm41R2ZVdWQ2dVBUU0duTnFuR3QxX1lHT0ZLMk9Dc0EtTjBFX284SVg0SU16NkpNdjY5MXlIaGFIN29RNVZQX3NGRkFWNGhxVzktVXpBQndPVVJ5ay1veU5qM19Dd1FUUmhGMTQ4dC15WHNzVGotQ01UWEJaQ1lGcG1OWWZPX2p0ZmVFbUlidnNxbjJENnM?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "SPGI",
   "name": "S&P Global",
   "sector": "Financials",
-  "market_cap": 159248220160.0,
+  "market_cap": 153539313664.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 40.758244,
-    "PB": 4.7723036,
-    "EV_Revenue": 11.942,
+    "PE": 39.266273,
+    "PB": 4.6012206,
+    "EV_Revenue": 11.733,
     "ROE": 0.11241,
     "ProfitMargin": 0.2726,
     "GrossMargin": 0.69415003,
-    "DividendYield": 0.74,
+    "DividendYield": 0.76,
     "DebtEquity": 31.875,
     "CurrentRatio": 0.902,
     "QuickRatio": 0.769,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.35794119623178744,
     "ROA": 0.061950002,
     "PEG": null,
-    "EV_EBITDA": 24.229,
+    "EV_EBITDA": 23.805,
     "BuybackYield": null,
-    "PriceToFCF": 30.719139366248974
+    "PriceToFCF": 29.645039896131497
   },
   "technical_indicators": {
-    "RSI_14": 60.50848058546548,
-    "Momentum_10": 1.7536321281928442,
-    "MACD": 5.021675567402667,
-    "BB_Percent": 0.7637610999773986,
+    "RSI_14": 41.99695137694989,
+    "Momentum_10": -2.3320188349027897,
+    "MACD": 1.869313953381436,
+    "BB_Percent": -0.1119946847555777,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9275259217725408,
+    "ValueScore": 0.8581807650933087,
     "QualityScore": 0.3880859677953379,
-    "SignalScore": 0.5178088457351977
+    "SignalScore": 0.6326185834947771
   },
-  "volatility": 0.0169289845464796,
+  "volatility": 0.0169505848420595,
   "beta": 1.195,
-  "return_6m": 0.00850385718328,
+  "return_6m": -0.0065425118221127,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 513.35
-      },
-      {
-        "date": "2024-12-10",
-        "price": 512.15
-      },
-      {
-        "date": "2024-12-11",
-        "price": 516.27
-      },
-      {
-        "date": "2024-12-12",
-        "price": 512.87
-      },
-      {
-        "date": "2024-12-13",
-        "price": 505.75
-      },
       {
         "date": "2024-12-16",
         "price": 502.86
@@ -537,67 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 519.36
+      },
+      {
+        "date": "2025-06-09",
+        "price": 515.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 513.92
+      },
+      {
+        "date": "2025-06-11",
+        "price": 513.98
+      },
+      {
+        "date": "2025-06-12",
+        "price": 505.87
+      },
+      {
+        "date": "2025-06-13",
+        "price": 501.49
       }
     ],
     "current_price_data": {
-      "price": 519.36,
-      "change": 4.12,
-      "percent_change": 0.8
+      "price": 501.49,
+      "change": -4.38,
+      "percent_change": -0.87
     }
   },
   "news_sentiment": {
-    "summary": "S&P Global (SPGI) fait l'actualité avec plusieurs annonces significatives. La décision de scinder son segment Mobilité en une entité distincte cotée en bourse a retenu l'attention, tout comme les mises à jour de Goldman Sachs sur sa stratégie, retirant SPGI de sa liste de conviction. Les investisseurs semblent encouragés par les perspectives de croissance, avec des analystes prévoyant un potentiel haussier de 12,28%. De plus, la révolution de S&P Global dans la recherche de crédit avec l'outil AI CreditCompanion a suscité un intérêt croissant. Les investisseurs sont invités à suivre de près ces développements clés qui pourraient influencer le sentiment du marché à l'égard de SPGI.",
-    "sentiment_score": null,
+    "summary": "S&P Global, cotée sous le symbole SPGI, a récemment renforcé sa position dans le domaine de l'intelligence artificielle avec l'acquisition stratégique de TeraHelix, élargissant ainsi ses solutions de données d'entreprise. L'entreprise a également révolutionné la recherche de crédit grâce à un nouvel outil d'IA, CreditCompanion. Cependant, l'activité manufacturière asiatique a chuté à un plus bas de 17 mois en raison des tarifs douaniers impactant les fournisseurs chinois, ce qui pourrait influencer la performance future de S&P Global. Malgré cela, SPGI reste un choix populaire parmi les hedge funds et les milliardaires, et la promotion d'un nouveau CEO chez automotiveMastermind témoigne de sa croissance continue. Les investisseurs pourraient trouver intéressant de suivre de près l'évolution de la situation.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.05,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Here's How Much $100 Invested In S&P Global 10 Years Ago Would Be Worth Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3UzYmp3Y05GaDdoS1J6T0ZTaUltOHlaN3UySkg2UG1KdzRuZmh5NnpiM29mZm80eTNRS1gzTTBuRFkydEJlYkVuX0NJdkRaS0d3YThmZmR3c0RXdjhGSEVYVTlEeXZ6ZUI2azIySHlEcjY0R0ZJWXQzbHl2UG9wN2dvandFVy1mVmFfMUtjbnpPVTdzOHpIMzlMRWhQdDZsMkNWVW1oelF6T1pRLWlDZ2poemlhbXZtVjViUkVnMDljUUVWLUdXOQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Expired Car Registration Crisis: 17 Million US Drivers Risk Fines and Jail Time, New CARFAX Data Shows - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVpxMS00UkQwalRSWTdoY3BCVmNLSHNwVlFRcVRzeGxlajBKNEJIZy1PWTU3VlpHNzY3SWRiRGpSZFlFMFZSTWlqVlJlN2xoZDBMV0l1YVJBcWJkejJMeWtiNE0wd05fdEVDc2YyOU0ydFVxYmlNTy1sVHd1STRiNVZBb3B2UGUxa1BKbGdiaHRzcnZTTzQ5dklqZWJkVXFZVDVrZnpFa1FGWXM4bm5OQ3pBS0o?oc=5",
+        "title": "S&P Global: Why I Decided To Trim My Position (NYSE:SPGI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjN5Rmp2Tmgyd2J1ek0xLXczalUxTlFFWmw3MVBhVC1EU3M1Njd6YkxPd2U5R0owUGtkVklWYTRzSE1nMER1Q2tha3l2bFVPdW9aVlItbWlIWENqbjFtTVpORXRvNDNINUQyNVRZVHlMX1ljaW92M25FUmJPamE2bFdJZ0VZWVBMRXN5YVVEZGdlZHc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Goldman Sachs Updates Strategy, Removes SPGI from Conviction Lis - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDhIOVJzUGVBekNvd1VzWkxvR2NqSC16d0hMOWc0Ty1mUk9EMURTRXVuNThTZllHTlh4MWpCSXpLdjlWWW5LWmQ0VEYyOVV6QkF5c1JiaTNnWDBUNmNwdTZRNzdIdk5tSEMtVWRCSXV6NXFYNkt6enRKcmpQUDY1eXRBLUNxbGFvT0Y5cGduYWhGVW5XS1lxMFlMSmtFZVVFRS14bzE5NFBoTzF3aHNOQ0NLZWZ4RUZoWUdN?oc=5",
+        "title": "If You Invested $1000 In This Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFB6YVduR0NlVTF1bV9PLVlVaGZHMGRnLWZZcnpsSWhLR2VsOWhTQnU3aUVKNUwzMXVzMFVSUGpVRVpsNnNsdHo2ZnpHWXFCTVBHNU82QUhTMFJQSEMwcjZsckk0a3k1QTlSNXptUDdIRFBFRmlxQ1hLazJZeDRod2F2M0tDVDdCdnY3T010MjIwUU00UWoyNmRPNWZydXkxNU1XbTEtMkF5MEJjR20tZkVnT1hYZmFNdEhjZ3JJM0VUN2tTZzFWSHpmSWg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "S&P Global Announces Intent to Separate Mobility Segment into Standalone Public Company - S&P Global",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZWJiaE83V2xlX0t0bllYUm1qRlpMRFdYUFNycGI0R2VHaVNNLWM3ZVQ2Y0JELTNNQzlubTdVTk05eldxVFVvblYyWTNlUGNCSnlYMUg5NTlyY3hyWDhJR2c1TDJub210U0NnWXlWZi1TRjVhQ0VnSFRuZUhfOWoxLUludzltLVJnc1V5SVF4TmdsaEw5dnZBSGZQdDZqQmNQb0tvVHo2UzhBMFphNVIzejFXazVvNFotVndfMXRCVTZydWpYM1ZpSDhGVHVCLVh1WlRLb00yUWVwSlRGZ1BSeTE1N0VvdG1kSVRHeVJIcjBHMVU?oc=5",
+        "title": "August 1st Options Now Available For Standard and Poors Global (SPGI) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2p6eW1YaWxOS3Yxd243aTA2bW1DMWNyVW5GeEtOcTI1N3E2S0VjTVRRdGNQZ0ZFMlptS0lsZkpwVkYzMHF2ZDZndC1Vb1U2VFdQQmsxYXk5b1VvMTlzcVdlQjhVSnFhZFYya0JMNHpoSy1yNmR3QnFfbTRYc1RjSlQzZlJ0c3QtRXJPQ0FaQzhuQmo5NkdPQ05ySQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "(SPGI) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGVfWEtvaTJJQkhON2ZNYXJCWVU3MUY0ZFZuSHdMWFBPeWl0ZVpHRi1sdjVsel8wbmdmbFJBeXdWbzlRME9TRnkzUEdvbkRLMWVKSm5mTWl3U001RnAxSnNQbWJJN3RkTHNrRklsZjczMXgybFlKMWZJYUdmdDhGQUhHeGp0QTVub1FtN3lIUlc4RkN5NFNpQzNFWVNwT3g4SnJZdmRUZWdjQ0FYam5naXpCaUNHTDdXSXc?oc=5",
-        "label": "NEUTRAL"
+        "title": "S&P Global Strengthens AI Leadership: Strategic TeraHelix Acquisition Expands Enterprise Data Solutions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeG9DTHdaT18yZ2lKM2tQY1NLQ3ZwRXdUTnYxek1GRFJxTVpjS0k5c0luMkVQVERRRnNXTjI2NktmWE9OYkFVTy10bDdQRnU3YmNSLWpPRzBGUzR0T0U1Z0xBZ3NGbVRKY05yZlN1X0lpMjBvWVRhZDJFV2Z4S2xfRldBbUJiQVpyVHZqZlFtbkh1TFZvUXNNM3BjWU1EWndMMk9BdDUxUzNzeWZjWWl1TTI4RzhxUQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "S&P Global Inc. (SPGI): One of the High Growth Forever Dividend Stocks to Invest In - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mQnJKRV9OOVI4RlppTExuZWVobnZuazlaMHFHYURWQ2k4U3ZEdGZpMV9uNzg3UDh2eFRuMl8zQjl5QVZBeUNZVWtSUUwyN0xTTE5jcmlEWVg3N0xQYTBlaU9UYjdVdldOQUZvTTU5ME9NTHhTOUE?oc=5",
-        "label": "NEUTRAL"
+        "title": "S&P Global Completes Acquisition of TeraHelix, strengthening advanced data modelling and linking capabilities | SPGI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSTFtdS11S3EyamZuZGVOQlUxV2U0TFdsMW9aX3dxZnVNaG92SUpZNTg1blAwQ0NMMWFpOF9ydlNNS2FNSHp4d3BaY3VrTnI5bzhpSVpIRW9SYmRwOGhhWG5OVEktWGlMLUlOYnM3YnM2VUZmeVhwSXdyWF9hYnVzSG9lWUxaUFJRSWhRa01BeUFtODVaM1ZGZjNpNUd0aWQybnhHZjNJQ0VDV3d3YnpjYWdjMnlmblkzbXNKT2huc0JqX3FuV0RCLUQwQThwejlLSjdTQU45V1I4ekVTazRzakFuWHhFVVJmaUQ3Sm53TWpGQlFhSHVRZzNhVUJFeUNHNHV6QWJBOXF4ZzFWbm9LQU9UdnRpOWRBTU9xYkZoSjJYTU5iTG1vQ2ZiTDZka3NzR2Vibnk0Rkg2b1p2?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Analysts Offer Insights on Financial Companies: S&P Global (SPGI) and ConnectOne Bancorp (CNOB) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORm02WTh3N09WWTZJSEJCNUU4ZVpSaW9MVF8zaFNCYzNpUk9IbnQtWk1Yejh4Y3JOcEtMX1NQOE9LRFRJa0F1c21fZGR6OG5ZXzRxNnJuRER3R2k2YW9XdE9WcENQdWI4cURfdXkyM1o4dHRrc0lvR190UjdYRU54b1ZaTEhmRlFkZEFPZmd2RktmdDRsX0I0VERMclVjMFNmaFZ0RGJKVEJHOFQzbThubTRFVVRtVFk0MTIyUGJoMGhJOWRoRm1JSGhoUmc5T2padERPS3lvSkxqRnlrTTI5Y2laY0ZRb0lBUGdxQm9oaDJCblhLa042VnZHQ0l1M1N6VTBpQzQ4TVU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What You Need to Know Ahead of S&P Global's Earnings Release - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUl0VnEtMDZkdzdCb0s3QllPMEZmUTJqWDJzdGc0dGtnOVV5M2NsMVJ5YkhvNTBZRFBkdk14MXZMV0JpMGZ3cUw4dmk3OEhJSnVtNkJ3c1RmTFRtWWVIdVYtSjVDeW9LT0l0MG9mYkxvZElwcHBUMkdrc3EzZnB1SlJDZWNCSHR4dE5FOQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Investors Need To Own S&P Global (NYSE:SPGI) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlRfcE11eUdhQjBSU3RNTjZEelk2c0J2TnpFWTUxb2JWZFo1X3hGaS1jYTZ2LTFFOVp0dUJRQzlEeVJydG1ONzE3a2lKeE1Pdm1nR2l1U0FXcDQwMkNlcGtaNjRqQVVVRHdJb19yVk5FSVMxS253Z2E3ME8wMDlzbkp2T0xQWU5J?oc=5",
+        "title": "S&P Global Inc. (SPGI): Among Stocks with Buy Ratings that Hedge Funds Love - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93ZURjaTQyZEZrZ2FxdU1pa2VQemMtdmpUU2RYRVFpRlpBWkJaT1BHS0NGV2lCczZ5Rkh2VEplSnlrU29yVGdRMHpGQ1ZhaFFCel9hWWl5blZKQU5WOENHcHdSZWRTaEtUYkxTMzRxdkkta0ZIOE1JUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,18 +591,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "S&P Global Inc. (SPGI) Stock Analysis: Analyst Consensus Predicts 12.28% Upside Potential - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZnNNYldhQWZLN1RoTXBEZWVQcmgtZ3plSEdha3cxR1ZNZ09iWkhDNkU1VjJ2MHhTb0duVUt0VzhXdEFLMC1rYVNWWjRkU0pOWndLWmdRTE1JbEdua1F6Yi12THBoTkZMUFpac0Q1UXJkZy1HVnRERmI4aTJnQW94eHVXc0xUS1JidW8wN2VaZWZ3eVRLbWY2UnlOcFFPNlV2djNpbmRBdC1aUzFBT1Z2alJSUWFFTGdXX1ZMdU95M1Z6RVF6MW5zQlJqN29pZEE?oc=5",
+        "title": "S&P Global Revolutionizes Credit Research with New AI Tool: How CreditCompanion Changes Financial Analysis - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUVxZkVnR05rZ01HTnRCdlFWa2xibm15a2hVeW9TQnRWcFc5dlMwWlpuNXpyZFpqSDlFYWhaRUhwRWxUaGdJdHoxS2FaVXdyZ2Y3Q0pyQzFua2pSdW5XRVo3eXNvdlVmckNPcE1oaEdYN1hoMU9xamd0VGJfS200WHFwTkRaTEhGdXdYSzNKUzBpaWFaRnlSWmlEaWR6OXNtenlrOGk1LVZ0d0xScm14TUNrRGtiRUVCVEwwa29B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASIAN MANUFACTURING ACTIVITY FALLS TO 17-MONTH LOW AS TARIFFS HIT CHINA-BASED SUPPLIERS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX | SPGI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcFJFZ3ZSZ2NqX3puOHZ0eTlObFVzU3pQN0xJbm85YWV3VXNvbDdNRmRxRWNaMHRDVUtseTcyZjFyZ0VNUGVFNldzR2hKek1VOVd5cElSWmFFakJMYVhfVHhWaTlHMTRmVktnTTIxM3BqUUVWS3J2Wk82T2k1YTJaaWtKa0NVSWsycEZXWkF0VlBoVG12Mi1wMDdVQTBOc1lQa3BoVFB0Rnc1a1pCTENJVk5jRTBfNm9haWs5cHJrRDA0TENFNWM0RENQeFZjb0NaY3NjeC1EaDJ0VVUzb0FoTFVjcmJwczNtSjlpbXRENVpKdDR4MjQyaDFlTDJ5ZmtteVk2OXBFWDdCb3k1YXh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is S&P Global Inc. (NYSE:SPGI) The Best Stocks to Buy Now For the Long Term? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0SWIwTEZKTExocnZDejRuWFFvOUhxUWhWMWtmb0RDZGxxQkdEVWJrcnU5U0h0RjdEdjZ6M3o5bmNFa3pFa3pTQzFpQUxfODBiRk1jZjBCdzFDa2phR1NKRjZoNjJpbjdsMEtLT3BWY0R1WVVZc3BN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What You Need to Know Ahead of S&P Global's Earnings Release - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUl0VnEtMDZkdzdCb0s3QllPMEZmUTJqWDJzdGc0dGtnOVV5M2NsMVJ5YkhvNTBZRFBkdk14MXZMV0JpMGZ3cUw4dmk3OEhJSnVtNkJ3c1RmTFRtWWVIdVYtSjVDeW9LT0l0MG9mYkxvZElwcHBUMkdrc3EzZnB1SlJDZWNCSHR4dE5FOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P Global Inc. (SPGI): Among Billionaire Chris Hohn’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zY1hNdElKLS1MNU9Nai1QSWRrZ24yeHZjcTl1ZFBlM2VDaTlPNGYtOEVPcG90T2VBa2VkZExwQ01OWllCcWtqVDRTNElidGRJV3pyZTVnSDMzWEVla19oeEkzY09zbjVZSHlmbG56d0pSRVBZeWQwSA?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "New Wheat Price Benchmark Covers 38% of Global Exports in Critical Black Sea Region - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDNzUG1MTW56VkNzUGRDOEd5OGdUcHpKWVkwZlZBU0hnYW92c1BVLVlrYUowV2lZNEtkVW00a0pFdkcxMGo3RXNRZThCMHRpR0p1cHdoaE1YQzNMZnh3Y3BBanJNU3BvYWVSLXBSZXVZNXFNSTQwQUZQdTBBSW1KUGpMaXlJWXBibDVyVUczY2xOTm5VTXl5NVF6b1JEWURXcG9mQUZBdE5VVFVDbGZrTXRBb3l6OFZPT1QyUjBBMUc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P Global Inc. (SPGI): Among Stocks with Buy Ratings that Hedge Funds Love - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93ZURjaTQyZEZrZ2FxdU1pa2VQemMtdmpUU2RYRVFpRlpBWkJaT1BHS0NGV2lCczZ5Rkh2VEplSnlrU29yVGdRMHpGQ1ZhaFFCel9hWWl5blZKQU5WOENHcHdSZWRTaEtUYkxTMzRxdkkta0ZIOE1JUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,31 +631,31 @@
         "label": "POSITIVE"
       },
       {
-        "title": "S&P Global CEO Martina Cheung to Share Strategic Insights at Elite Bernstein Conference - Key Details for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUGZIaUVvRVRydnVJMDNHeEZQemhhcmFlVWhrMjA4OWFUUVNwRzY1aFpSeWJZSHBnZjJmTE9zSk5xSmZ0bnZmMFgzbzVGWDVCNVdKMkpGR2RIN0ZkS05VNG1feWdzdE80ckpyd1lEaXJnY2t5UVctcXpnSjcxZzZrOXlVdmZtLUdwbWFGZWFGMU85MTdkRk9PSFRKY0V6MEg5b3R6RTRQMXdGMmdtVFU4WWhmai1BV2Q3ZmFaU0dfVUg?oc=5",
+        "title": "S&P Global Unit automotiveMastermind Promotes Product Chief to CEO Following 4 Years of Revenue Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnBFMFUxR3NxMXJJaERqOVUyZnRtN3J2Tld6SnVfdXVHekJDdDA4Q1hjT3NLOWZZeUdKRi16VHIzS0pNU0Yxa2ZOdm54Mm5lblNUZmNlRkVPVl9tM3ZBZEFqdS1oM3ZzS0N2QWpXWDdnX3ZucTBCcFJacDUzVXEyNi1DT05YYkFIR3cyeEg2Z21TQlpCRjN2aUZhaVhKT3U4UkV3RQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "S&P Global Inc. (SPGI): A Bull Case Theory - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IT1l3OF94TERLLUtZdXdXbFdxU25BZExybEFkaGFMSmZmaHp2T0xxSnZIdVJUZXg1T0lzR2wyQzFyWldEM0Z0SWlkY0NhZVFzSUNPNEZyRmxkQ2oyMnhDNy05a2dPeHZZbVBvSlRYZ3Nic2d5cUx3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P Global Revolutionizes Credit Research with New AI Tool: How CreditCompanion Changes Financial Analysis - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUVxZkVnR05rZ01HTnRCdlFWa2xibm15a2hVeW9TQnRWcFc5dlMwWlpuNXpyZFpqSDlFYWhaRUhwRWxUaGdJdHoxS2FaVXdyZ2Y3Q0pyQzFua2pSdW5XRVo3eXNvdlVmckNPcE1oaEdYN1hoMU9xamd0VGJfS200WHFwTkRaTEhGdXdYSzNKUzBpaWFaRnlSWmlEaWR6OXNtenlrOGk1LVZ0d0xScm14TUNrRGtiRUVCVEwwa29B?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is S&P Global Inc. (NYSE:SPGI) The Best Stocks to Buy Now For the Long Term? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0SWIwTEZKTExocnZDejRuWFFvOUhxUWhWMWtmb0RDZGxxQkdEVWJrcnU5U0h0RjdEdjZ6M3o5bmNFa3pFa3pTQzFpQUxfODBiRk1jZjBCdzFDa2phR1NKRjZoNjJpbjdsMEtLT3BWY0R1WVVZc3BN?oc=5",
+        "title": "Goldman Sachs Updates Strategy, Removes SPGI from Conviction List | SPGI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDhIOVJzUGVBekNvd1VzWkxvR2NqSC16d0hMOWc0Ty1mUk9EMURTRXVuNThTZllHTlh4MWpCSXpLdjlWWW5LWmQ0VEYyOVV6QkF5c1JiaTNnWDBUNmNwdTZRNzdIdk5tSEMtVWRCSXV6NXFYNkt6enRKcmpQUDY1eXRBLUNxbGFvT0Y5cGduYWhGVW5XS1lxMFlMSmtFZVVFRS14bzE5NFBoTzF3aHNOQ0NLZWZ4RUZoWUdN?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "S&P Global Inc. (SPGI): One of the High Growth Dividend Paying Stocks to Invest in - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DclFFME5acmxLNXNLYVlJV1B4b3JOUVItY0ZoRHRGNDM0dF85N0k3cGhQYkd1NzNJRE9GNk95UDJFQ2Y2b3lqZEhkVllGVkZjbnI4SXJJenFQZ1FrVTZQaC1sRVFicWFmNE1RUVN4d3gxeEQyMEE?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P Global Supercharges Financial Data Access: Capital IQ Pro Datasets Now Available via Databricks Delta Sharing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0VRM0tEVWJQN054TG9NZ0NEX2Q2R2VXVWpVU25uR1pZbnlGaXVvUGNLSW1BTTB3a3NseTlQbnFNRmdwaFBLUHpHZWJxT2o1cWJMSHRET25VT3MzRUwxRkpzS052M1VSSFVIVnlLU0dKLWpwRTIwZWNHakpzYTlKOXpvRnBodjRTakN0ckI0aEhOcGJRc0pGZTgxX0djLWtJRzRJcjB6cVpicExRV0N5eXJtVWtiZjJQMkJkVWx3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Investors Need To Own S&P Global (NYSE:SPGI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlRfcE11eUdhQjBSU3RNTjZEelk2c0J2TnpFWTUxb2JWZFo1X3hGaS1jYTZ2LTFFOVp0dUJRQzlEeVJydG1ONzE3a2lKeE1Pdm1nR2l1U0FXcDQwMkNlcGtaNjRqQVVVRHdJb19yVk5FSVMxS253Z2E3ME8wMDlzbkp2T0xQWU5J?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

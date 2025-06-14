@@ -2,16 +2,16 @@
   "ticker": "OR.PA",
   "name": "L'OREAL",
   "sector": "Consumer Staples",
-  "market_cap": 203585994752.0,
+  "market_cap": 199431569408.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 31.885452,
-    "PB": 6.1497154,
-    "EV_Revenue": 4.798,
+    "PE": 31.050209,
+    "PB": 5.9836154,
+    "EV_Revenue": 4.718,
     "ROE": 0.20625,
     "ProfitMargin": 0.14737001,
     "GrossMargin": 0.74183,
-    "DividendYield": 1.83,
+    "DividendYield": 1.86,
     "DebtEquity": 25.635,
     "CurrentRatio": 1.126,
     "QuickRatio": 0.723,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.12467690647783557,
     "ROA": 0.10023,
     "PEG": null,
-    "EV_EBITDA": 21.641,
+    "EV_EBITDA": 21.28,
     "BuybackYield": null,
-    "PriceToFCF": 37.54952177416529
+    "PriceToFCF": 36.783277096560134
   },
   "technical_indicators": {
-    "RSI_14": 56.121332826805855,
-    "Momentum_10": 2.2523109321743062,
-    "MACD": 2.9017616172713474,
-    "BB_Percent": 0.6453768706622408,
+    "RSI_14": 46.611200546656704,
+    "Momentum_10": -0.3625150713323816,
+    "MACD": 1.6933151548057594,
+    "BB_Percent": 0.2501522523098474,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9288655331992052,
+    "ValueScore": 0.8794344040933573,
     "QualityScore": 0.4261721221102428,
-    "SignalScore": 0.5365076617057463
+    "SignalScore": 0.6003651180536949
   },
-  "volatility": 0.0167416498802551,
+  "volatility": 0.0166940385808697,
   "beta": 0.849,
-  "return_6m": 0.1299776447381579,
+  "return_6m": 0.1002581930037043,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "hold",
     "analyst_count": 25,
     "target_mean_price": 378.12
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 343.6
-      },
-      {
-        "date": "2024-12-09",
-        "price": 349.7
-      },
-      {
-        "date": "2024-12-10",
-        "price": 345.25
-      },
-      {
-        "date": "2024-12-11",
-        "price": 341.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 344.5
-      },
       {
         "date": "2024-12-13",
         "price": 343.35
@@ -545,33 +525,48 @@
       {
         "date": "2025-06-06",
         "price": 381.35
+      },
+      {
+        "date": "2025-06-09",
+        "price": 378.9
+      },
+      {
+        "date": "2025-06-10",
+        "price": 382.3
+      },
+      {
+        "date": "2025-06-11",
+        "price": 378.3
+      },
+      {
+        "date": "2025-06-12",
+        "price": 375.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 371.05
       }
     ],
     "current_price_data": {
-      "price": 381.35,
-      "change": -0.9,
-      "percent_change": -0.24
+      "price": 371.05,
+      "change": -4.7,
+      "percent_change": -1.25
     }
   },
   "news_sentiment": {
-    "summary": "Dans l'actualité récente, nous observons plusieurs tendances clés. D'abord, Moderna a surpris le marché avec des bénéfices inattendus et des revenus dépassant largement les attentes, ce qui a boosté son cours en bourse. En parallèle, L'Oréal montre des signes mitigés avec une croissance faible en Chine mais un optimisme pour les ventes aux États-Unis. Enfin, les actions de l'entreprise ont été mises en avant dans différents articles, ce qui pourrait influencer le sentiment des investisseurs.",
+    "summary": "L'actualité récente présente des signaux contrastés pour les investisseurs, avec des nouvelles positives et négatives. Du côté positif, Moderna surprend avec des bénéfices et des revenus dépassant les attentes, faisant bondir son cours en bourse. En revanche, des éléments de préoccupation incluent les divergences entre l'Ohio et la Pennsylvanie sur le choix de refuser les compteurs intelligents, ainsi que les critiques sur les dépenses des cyber-charters en Pennsylvanie. Il est crucial pour les investisseurs de suivre de près ces développements pour évaluer leur impact potentiel sur le marché.",
     "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
         "title": "Shapiro Administration Officials Visit Reading Area Community College to Stock Campus Food Pantry and Tackle Food Insecurity Through PA Hunger-Free Campus Initiative - Commonwealth of Pennsylvania (.gov)",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTIta0tDbHMwUHBOV2dyMWVJelRwYWFNTkpUa3IzeDlZdGdISzVHb3VhX2JXUDFWemF5US01VGRMejdzTjdQY0ZYSjg1UjZrTktzNmNpOWpocUJHX0gyUk9ZaGt4R19sRXBUTnJ2MVQtQk03UFVDTnE5a1NDRnh1VG9LUWJIWWhIUWMyWDRIMWhOMWNGSVJ0TTk3ZUdNMFRZbjkwOV9ydw?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "L'Oreal CEO bullish on US as China sales stay weak - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHVZMEk3RHh0Q00tazQ1X2M5dDgtTThjRUhrd2RUV2NVMnhHazduZ3lLWWlkM1M3QVZYRXVuR1FMZGFOSGUtc1JxTTMzb1h2TXZnSEluNE5tRDlQVUxNamtlcUFhZHhMZTRLVUV5WHZobzZITFRUTlZDS2JCU2p5c2RtU2Q4UQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Best Pennsylvania Trout Fishing Spots - VISIT PA",
@@ -589,9 +584,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "L'Oreal aiming for 5% growth in China this year - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGtJTDRvekJNdTJmTWVJTEhJc1ZDc3lCQ0NrOEhnbU1UbVRNT0J6MzdOdFN1YmVtblN6UFZ4ZDVDR2RkbFUxTGg2WG5mM0pEUklJYmhuNU1GN2VCSzFxNnRlRVRkaXV1SE1wSHpPcUluM21XVlY2bW5fYlVrN3dSQm1Fdw?oc=5",
-        "label": "POSITIVE"
+        "title": "Adaptive Psychiatry: A Framework for Disability-Inclusive Psychiatric Care - Psychiatric Times",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmpqems4ZXdlMW9lakdGVXZCT0lnNmRURWhMSVpKVWtpZDJONGRBaUhINlRSZE9OUHI1Y1FNSFBqZVpfbnFnYzVodEd5U3hMOWVoaGprdkZLOGZiOGhCTVo5N0dTQU13STUzYWxoSVcycEhvMXF2eU1IQ0tsVFVVTS1ISzhGaXI0T2FRZmhYU3gzZ2xVeFpWYmgyajBrcGVub2FxeWhlNndCdXoyU3poeQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Ohio and Pa. differ on smart meter opt out - WKBN.com",
@@ -604,53 +599,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Understanding how the PFBC stocks 4.2 million trout and improves wild trout fishery - Erie Times-News",
+        "title": "Understanding how the PFBC stocks 4.2 million trout and improves wild trout fishery - GoErie.com",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRzV5b0pXcWJweXhoem5jbkxzaTUzOVJHVWMyNU50M3VRbkYtdmJSSlRNb3lQU1pNX3MwUUYyamUtWE1Lekl4dkpQOWo0V2lTZUU0cjNGODBRWlBlWHR1dlNva3ZHUXNPcl9jdDFVNkNHMVdNUl9zclZ1anlBcDZhLUdVMGI4Vm1uNVg2X1h1MGlacW1ZMFFnX0tXRXZ5OXNJZTR4R1NlVms0NmREc0tCQk1QZXlSVXR3aWYxRlNBdmEtMVBOdkU3c0d5RzJmX3E5ZTlLYUJCVTJNT2JiSWNrZ0xiSllBaHJKQnVuZENVVEhobmtl?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Pennsylvania releases 2025 trout stocking schedule: what anglers need to know - WTAJ",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclBEZVU5a3VqMzRWX3F1VTlVNnRHcXBIMi1Ob1VPV3JrNEhGYkotaGVIdmZYZnZrcFctZlR5WFRIa2FEN0JJb3hBUHNiMG1YUmZDWlo4SlhDSW5nMk9GTURseEFXYU5kUU5fY1o3YXpTWk10bHJpUlc2eDc3WnduT0ZOcXFPU2J2ZXEtVV9OVm9JMkU1bmdDbkJyQS1rclB1b2R0dnVkdTR1ZWRiRmJ2SlBFaWV6UdIBuwFBVV95cUxNS05sWlAyOXFzUXZFWHVZYWhFSy1LX3hfYkFIZUZYYnY4NzVqclZxU09hOEZxYUJxYU9MejFDYlZGbnFhU2ZDMW9aVmQ3UWNJWFJTUldfYnM3ZEVWQWI1V2FDaHFTUzF0d2QxUEZIZDhsc1h5aUJZSkJjX0JtcVZBbW4yTjd0eE9uWE84VXRoWF84cjJ5cjA5WEE3dWlPbW52bktWeG52MUFXbGxlcGRwR2pfVWMtOEx2cU40?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Pa. football stock risers: Latest on Gavin Sidwar and Zahir Mathis and a slew of Division I offers - PennLive.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbi1USFk1RUNWMW13SnkyQktxajRuX2VRb3hQUXZBaHdPMmNpTDRjeU45Ymp3WW1jYzJ2Vm56MjdFV1ZRY3Z5Q0xNMFk0RWt0cEZLRGdkbHMyY0w3Z1F0cVlSWC1jaU9iMXBobk5tTmZ3ejlQNUJQelcyN3pta0tMYjJmTEV1a3hZMU1hdU1zOC1rVk1iMjhjOV82TjZLQm9oQlpEaFZtNVI5NmhNdEIwLWFVSTA4T1NKTnZwMWswc09PNXBLRTdzdzZqQngxdUFueTVsTzFxUXQ5TGhCemQtSXVCRGJndw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Rosen Law Firm, P.A. Announces Proposed Class Action - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNjh5UjVRRzZuWklIaG9pMjRnUHFtR0pzbmhZV192dGlfUzYwN1BFczZ2RzNOaUYxR2hZQ3h0S2JOY1RFQjlKMWdRdjgtdWFhOXFCUnVYckhZSmdxemExSDNZaVIwWVBkZ0M3YUplclJTZXhDUnJNei0xNDY5eVlkWFZvcEdQdVZPc1dxWkJOMWlCVkc4T3lPY2Y4bzVTOE5IRXhmdlpiLWRVZFJpQ1hUSjg3cU9tQ0RmeWtMU1ZGMmVrVHRzNFRmT3VINTBMOTF5bVZZZkp4RmNxbUNpaFhqa0pSRWhtQ0JiYVZWNFJYcWZreTRfRlFkeXJNMW50dFFhSzlySDNOUVpSZXFiQlVrcXZ2N3FZckxmSzd3SkNCWWxyNEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Instacart, L'Oréal, Cisco Systems: 3 Stocks In Focus - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3RwVTk3U25CMm1yWE83dmVIR2ZiemRHeHVYbDNKR3RfYXZyYkJxbldBaEJ5NnE2WHZjWXpJeVFKQjZmSWRXRlVXZXlCRXgzdGpLWXZid2g1cUptbFAwUTF5cFNncFNrMVU1eGJ2cmtxdGhZWWpqYnd4a1VIOXJZRnNTcw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Department of Banking and Securities (DoBS) - Commonwealth of Pennsylvania (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81N2h2QXZlSHpSaHRkSS1lMUpPaHc0R2UwWExGckhXSFFXdEZGRUwwUGpFZGRCeFNlOFhtVXVBWEctWmxvX2VYLXh3bWJRZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Homepage - L'Oréal Finance",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuUnR6eUJDQTF4OUNVWnZwdm9waVhHTVl5OVRJUDhaV2trckwydlU2cnl5Qk15UWdWX0RZeEswek5tUm9xZ0NpNFlB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Pa. trout stocking schedule to be released, changes for fish clean and new places to fish - Erie Times-News",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMjVzSm1ONVJXM19FLU9OdU9VNHJsVW1qWHhQRnJHNGNpc0FybXl2N29Db1hSYzc3eTlDalVab2ZweWYzOFp5d3VKNklxSF9DVzhSMHdSbHY3QXRTTmZJZUllUUNiNVdiampJRmpBNEFmeHlaUmVkX3BRaHVKcVB6eDBoZmtYakVSZDZ1dmctekN4bXV5eVltRzRiSHpIQmkwdm9ETkRWbDlXMzhfSElvNURyTkJ5UUtyUkJfMFlpX1kzZTFld28tTE5nUERaaS1ZN19aU2wxVnM4TEVFLUJ0RXYyN0dONnVxanYtSGZJVGJmaWljWFNvQg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How PAs and NPs Can Make Doctor Money - The White Coat Investor",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUld6RXRGVy1DWF9nZFA5YlpZTG1sLTdUSUEzbzl0SDAxeXZkdTB5T3F5T1FnY3Q2QXJfalZhZnJnT1QwVUp3Z2dMcHdzRTh5RG51Q1lzSXVnaUQtNkxST0FSbzdKNW1jR0R2al85R3owNHJqdHlqS0laVU8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "L’Oréal Stock Analysis: Is It Worth the Premium? - eToro",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlVLNWJVZERHcmZQa2REUExycHlsRjZQNnY4VUdlMFpaNE5rOXFCclNHenN4TF9PUXlnRGU4V3pZbGxJWFZGclZha1lKQ012YUdlc0I5WUR0TnhFeDZhaER2VlVJTHI1RXJDWWxEWEsyeWZpRi1Vc25HdkFfTHpUVXlidXR4V2lYMV82VHVWbHN5ZDJzWGlKM1BIWUFRNlIwRjE4QnhJUHNTYkdQZnc?oc=5",
+        "title": "Stock your home bar at PA Libations, where all liquor is made in Pennsylvania - Keystone Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1RQT21TWnZXU25TTjFrX1kyOWJDOUpDSGJwR0JZbnMzaWh6X3F5ZlRWMHgwaDFpTUlaUXhwejNuR0ExRlhoa2VLRnFGc1czTHhlRDFtaWtqRGhlellFZmlzOE5ubmJyR2pvWVhVX2MxWUk1VTZVU3RkdGE5eWIxMmIxNE92SEVCb0RkRGxtdjFiRHlseU5tY0ZZeVlQX010VUNtTVlhaTZYU29uaG1TZmtDdjJ4YVE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -659,11 +614,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "L'Oreal SA's Dividend Analysis - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MkhOZlgzeGNKNmZNOGdvR3Vfa1FyS2k0ZTlzR2lMUXc0SW1zM0NmVjh3U0tHUUY2R3NZdDZRSks1NzNUT1E4MWlMZVpXNFU3V05SQVQydVRDSkJWWnh0WWJEM1l4WHhmTmJnQVl1T09tNkFIUEtweGYwNm91N1k?oc=5",
+        "title": "L’Oréal Stock Analysis: Is It Worth the Premium? - eToro",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlVLNWJVZERHcmZQa2REUExycHlsRjZQNnY4VUdlMFpaNE5rOXFCclNHenN4TF9PUXlnRGU4V3pZbGxJWFZGclZha1lKQ012YUdlc0I5WUR0TnhFeDZhaER2VlVJTHI1RXJDWWxEWEsyeWZpRi1Vc25HdkFfTHpUVXlidXR4V2lYMV82VHVWbHN5ZDJzWGlKM1BIWUFRNlIwRjE4QnhJUHNTYkdQZnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How PAs and NPs Can Make Doctor Money - The White Coat Investor",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUld6RXRGVy1DWF9nZFA5YlpZTG1sLTdUSUEzbzl0SDAxeXZkdTB5T3F5T1FnY3Q2QXJfalZhZnJnT1QwVUp3Z2dMcHdzRTh5RG51Q1lzSXVnaUQtNkxST0FSbzdKNW1jR0R2al85R3owNHJqdHlqS0laVU8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "12 Best Beauty Stocks To Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZWhfSWFGV3JIU2hlenpYN0l5ekIxdVlHajlOcUxtdTQxZWh0bmVJVWhCVVZBdGV6Z044eUtiWW1OM0g0TGVIZEdycmo0VEFLWjI2TF9sWFBwVUVxM0FORENud25obEFWcko2WlZyRC1yVzJjaG9SSF9BTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PSERS has delivered for school retirees — and Pa.’s economy | Opinion - Pennsylvania Capital-Star",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFhYekdZdW50Z2FYckNxcTNOM2c2M1N1VVg3ZjhHZDRYaGlQOWx4R0RkUVgzMXl6UlJFeDVucUtFRGQtT1J1MTdxVlJWVXF4NkpJM1VZaVpQMnlIYjhxenZaRmpid1lMd1E4ZjJ4aEszVjVuUU9pbnlJZWFWUWJzNXJGT25Ld0tjcUF1bW5OY3RicnA5OWQ5MlhDaTNLbDMxTVk1U3dJQkI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Quantifying in vitro B. anthracis growth and PA production and decay: a mathematical modelling approach - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PYlBhbHkzSnpVMFZpazNzWm16blpobm1pbE5JSlBhZm45OW9pSmhTblhwVHh5WVp6WGptOS1IWldFYVNGVkdMcFFUSHF6WWJZUGQxSTFkNUZyQzIweWpj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Plum High School students attend Junior Achievement of Western Pa. Stock Market Challenge - TribLIVE.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQby1Va25QS2pLd2RzeEhZNy1fQ2l0NC16ZmVXY0tLdnh1enVIS3dNSG1kZnhSVExPUVh4SkdUeXdveVNPeHRWV3pSSENIVG0yTXBBNDlFYlR3M2U4b2xVLTlaWkdYeWc2c1ZvbWtTLXBqNjR1anczNzcxQ3g4LVl0Ym5wa1JNTk1pc1c3QzFoaWlwaHZKOW16NjZ3Z0VKS0Qyb1VjbFJRaWZQWDJfbjlPbTZwenhfTG5hcFdOak53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barbara Stock Obituary - Reading, PA - Dignity Memorial",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTdteU1rWUtoSnZHc0tocWRTVWUxT3dzcjg3N3p3bXRwT19SUzItclg4RENYUlZvMTZGSXV3eTVmeVpNc09wTnZVLUJ2d3hLZFVLNFpiTmtEa0dJWTRqSW1sTlJKLUpmSTVLRDVEOWZjSUY3LWlzdm1oTGdyaHBCLUlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pa. group scrutinizes cyber charter spending on cars, dining, and entertainment - Pennsylvania Capital-Star",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWVwd3d6QlBYMS1sbUNZdFlqX3JHWGRZUXV6LXBXMk03cGVaMHNhbEJqdXpNUklfaEt5bXNJQUZOZlNWbWZGa0JNUEZwcktZREhlbVZwMzdfUXlfSjZwSklVM1UzNzFOYzN3NndtYUJVT1daN01vZ1JLLVpzRFhQelVFdTRKeE9CSnBoeG5zR2w5dm5NLWVsV3RpVTNwMGRncVhuMzd1eGdoOUp6OFlHS2s3Rm5rU2FLcDNiOXF3akdUckFMdjBwTzJVMEUwdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unique late season pheasant stockings happening across Pennsylvania. Here's why and where - GoErie.com",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUXVGUGNFZDRLOUZOdXdsVVd5d2djRDZ1U0o3cHJnWTRiMGFfVTREVWdyQU1NN1FuNC1HOF94NVJteHJJeGlIbkVLbDZPb0RQLWk5YWtLckpGTlM5WXhmYTZZY1JScWc3cmJ1TUNYSDNuenVxTEI5V1A5Vndfek5rXzdGcExxQjVpNXR3bG9COXR6blVVRzRwa2laQUhtbVNUY3dZLWJmd0YtZ1ZFMHJwWEZJaWZOM2ppLUY3cTFieFJjT1RTUTRQUEdiZGItMHVFRW9mQko2SUxWS19xRWdWcFM5dEtNeHo0NmRBTjBOQlNKcDNKVThpV25Obw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Department of Banking and Securities (DoBS) - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81N2h2QXZlSHpSaHRkSS1lMUpPaHc0R2UwWExGckhXSFFXdEZGRUwwUGpFZGRCeFNlOFhtVXVBWEctWmxvX2VYLXh3bWJRZw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

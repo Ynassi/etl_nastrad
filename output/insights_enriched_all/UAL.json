@@ -2,12 +2,12 @@
   "ticker": "UAL",
   "name": "United Airlines Holdings",
   "sector": "Industrials",
-  "market_cap": 27166670848.0,
+  "market_cap": 24135813120.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 7.568699,
-    "PB": 2.1592295,
-    "EV_Revenue": 0.759,
+    "PE": 6.724295,
+    "PB": 1.9183346,
+    "EV_Revenue": 0.743,
     "ROE": 0.33571997,
     "ProfitMargin": 0.06339,
     "GrossMargin": 0.34877,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.040942118858704565,
     "ROA": 0.04824,
     "PEG": null,
-    "EV_EBITDA": 5.155,
+    "EV_EBITDA": 5.043,
     "BuybackYield": null,
-    "PriceToFCF": 11.57671086943126
+    "PriceToFCF": 10.22409046157918
   },
   "technical_indicators": {
-    "RSI_14": 62.990127015380715,
-    "Momentum_10": 10.065791481419613,
-    "MACD": 2.206857376418924,
-    "BB_Percent": 0.991353469588178,
+    "RSI_14": 42.08905574182853,
+    "Momentum_10": -6.973817655171353,
+    "MACD": 1.0588112119612134,
+    "BB_Percent": 0.0956822830681334,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9346818620175515,
+    "ValueScore": 0.8967494509155479,
     "QualityScore": 0.2917638551163291,
-    "SignalScore": 0.4314690260198445
+    "SignalScore": 0.6572400194574601
   },
-  "volatility": 0.0418491060614354,
+  "volatility": 0.0421353221680394,
   "beta": 1.442,
-  "return_6m": -0.1705225237562672,
+  "return_6m": -0.2230049305894359,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 93.71043
+    "target_mean_price": 94.58
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 96.02
-      },
-      {
-        "date": "2024-12-10",
-        "price": 96.53
-      },
-      {
-        "date": "2024-12-11",
-        "price": 98.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 95.97
-      },
-      {
-        "date": "2024-12-13",
-        "price": 95.11
-      },
       {
         "date": "2024-12-16",
         "price": 95.48
@@ -537,28 +517,93 @@
       {
         "date": "2025-06-06",
         "price": 84.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 83.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 83.2
+      },
+      {
+        "date": "2025-06-11",
+        "price": 78.63
+      },
+      {
+        "date": "2025-06-12",
+        "price": 77.43
+      },
+      {
+        "date": "2025-06-13",
+        "price": 74.0
       }
     ],
     "current_price_data": {
-      "price": 84.23,
-      "change": 3.88,
-      "percent_change": 4.83
+      "price": 74.0,
+      "change": -3.43,
+      "percent_change": -4.43
     }
   },
   "news_sentiment": {
-    "summary": "United Airlines (UAL) a récemment fait l'objet d'une forte attention des investisseurs, avec des résultats du premier trimestre supérieurs aux attentes qui ont propulsé l'action de 26%. Malgré cette performance, le prix et les performances commerciales de l'entreprise restent en deçà du marché. Les avis des analystes et des investisseurs divergent, avec des upgrades de rating mais aussi des ventes d'actions importantes. L'annonce d'un nouveau écran TV géant pour attirer les voyageurs haut de gamme a suscité un intérêt, mais la volatilité du marché a également impacté le cours de l'action. La question demeure sur la meilleure approche à adopter concernant UAL, notamment après les résultats du premier trimestre.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
+    "summary": "Le titre de United Airlines (UAL) a été fortement impacté récemment, affichant une volatilité significative. Les tensions géopolitiques entre Israël et l'Iran ont pesé sur le secteur des voyages, entraînant des annulations de vols. Malgré une baisse de plus de 11 % en cinq jours, le titre a rebondi de 4,83 % en une séance, reflétant une volatilité inhabituelle. Des signaux mixtes émanent des mouvements des insiders, qui ont vendu des actions pour un montant de 9,6 millions de dollars, tandis que les analystes de Zacks ont revu à la hausse les prévisions de bénéfices par action pour 2026. Le sentiment de marché reste incertain, avec des ajustements de cibles de prix par des entités telles que Wolfe Research et une interrogation sur les perspectives futures après un premier trimestre positif.",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "DAL vs. UAL: Which Airline Stock is a Stronger Play Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JSkFzaDJkS25iMmp6QmFtZ0xjbVJGdzhQNUE2S2lmNUdORzRvdkZLZ0Z0Tnd4d3plZVdoelZUdEpINTZoSDc2Wkh6U3d5SWI2X0RTejltclBIZklsRlVEcDJSWFd2STJJNk1FdnBvTEI0bVduT2sxNy1B?oc=5",
+        "title": "Top Stock Movers Now: United Airlines, Adobe, Halliburton, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1BWSXBRVEs5djBOdl82SGVXZWVpVXMtVklDZXF1QWIyTTVfODU2djJfaWNNVmVQTVgxU3NVZ3pONEFrOFlsWE01LUM4NjNaTWc1bVBWUk5ONklpdDNiWDNJdmxER0NuV3I5Z0NuU2lkUE53dWtWOUoyVzhQcW5INUEyU0RvNlBQcWFJbnRHVjg1TUtYTkFuMkpiSzJmSHdMQzVF?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "United Airlines (NASDAQ:UAL) Shares Gap Down - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3ZJbUtyS2NYNFpvWHZMeWpVN0htQnpTd056b3lCVGdqMkp5bW9ERU5VUjZwMWhTSkt0clB6WVZzMGxMZFlCaGZ1WTdwbjBmN0I1eUpTS0tPSllTSU9SV0pLcnBFanZqRGhqZDAzVFg3QXJFZmNCZHg0ODBlZ0JEdUlFRXlOVHNJSjdlNUZRTldZcjRXZFBDQXE0VFdNbXNKQ0d3MkNCeDhmNTli?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Circle, Visa, Carnival, Halliburton, Adobe and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVlsc19EOUdwOGJzUk1ZazBkSUtkYnMtMlRFbXNqNzUzSUNEMzlNU19YNENybHhmTE5UMVNIVkMtNFlwWXVETlc4M1JOZGFRUU1jYk40dnFnQmgzVG5mUE4yU0xxdzFPWVVZbUtFejJCUjhxMzQ5UGNUVk9Pb19LY3k5bmxMazlBd1VRZXFGNC1JMnotakZ5SHZKN2I2ZzJH?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons UAL is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fRkZYczFibHhVUUFDUEpFc3NzOEx5NlhUSWJ6bGtXRjNDMTNUN0lOSVA5X0ZHSjNzZEZvaGcwLTRCZlBFa1N1TmpxdXdDaG9tNG9pU2JQNlF6Q2daSjF5QjV5OHNSNmE5bThFQWJlUThLMm5XZWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why United Airlines (UAL) Shares Are Trading Lower Today - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQXzFDTTJXTXpfZXJuRTdsODJOVk5seS1SeHp2RTRjdVRsOC1QeTBqdUJ4blRPVVl2S294ZmlFZUJIWTluU1p5QjJvSXU4WGFJM1lnS2l3MTlaUjU1S2l1ampnQ2lHODNVaHdIMjNkSE0wb3Q1eFZlSmllMlZ1UVAtWHpjWDVXdkk0OXBPMi1EUFhfTWwxN3Z5M0ZtY2pYWFhlY3RURXNaX2NoRFZfRE9aU0dfcGlYOHpTelNDRjY5NFNUYzBuWGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Israel-Iran tensions hit travel stocks, airlines cancel flights over region - update (UAL:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWxMSHI3XzJEZldJeS02SlJSODRqRjhqTG94U3FiZFVtczlYVmpiVDVjb001MHlvY0lsR2RfYjQwTzZCcURzN2tDWkNfNEFPcThCS09SRHdhbDF2dUs1andmZWtFS2M3ZkFJRml0WU9qNUd1Ynk1UGdaX2VKLVpZQlFR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Airlines (UAL) Stock Tumbles, Down Over 11% in Five Days Amidst Market Headwinds - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3lucGRhaERwalJ6WXFJci15cVJhQ09peVkweFp2OHp3NnFna2FNNzh6SVhOTnBXNlVEMHFHaXp1cGFfVmFpWFNGOHRmSW55NDRkUmFTUTA4dWU5WXhuOXZZWVJrUWNwT2w3SGU4SjhfRlhIWDJzdnNod2pHeW9faVJaNktGR1BXSWJrbDBXalZoMTVCdjZ1M0lIQ3p6RmRlZUpRRW9uVTBwN3RVci15dHV4aTlNUzZaSXFLeEpNZzYtQms?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Airlines Holdings Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ0RtWFJHdmlnOHhla1djRk5OSTJUZnJ6VVZNV2RjRnh2bzcxcWRNUlg0UUpockJsVFRvMFVVQ2VqdEx0ODlPOGQ0dkJoV3pOeGVQWWQ0ZGQxalB4NjR5bEVsUjBBOXp4TlhXS1ZXLVVWM1FROTJNc1EzeVBjOF9wYkc5RGZ4VTgtOWFwb1NENlNWM2ROU3pOdThmRlBxN1lzMkZzY2hOYk5sbnRpZ3BCMHlXZWxXRkh0M2NXVUh3YzVQNVE1SXFrc3BCS0k5WFNNSkJKYTZGX25XR0ZpMy02Xw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Airlines Stock Up 4.83% on Friday's Trading: Here's Why - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2t5Vk5mdzNObU4yVjA4VzlhMWFrVmJzallmZzNfWGdrNDdCUXMxNkYzZDRIcjZYMFdPa1VOdV9mR2xmejd2bU01em9VNk5QSHpaUUdlNGpRQTd4YzltUklaM2NCZTRuUElZdHVxdVo2Qnl5YmdNb3F6c3lfcXZQMEkzRDliQ0tJR0xLVEpsenc3aktIWldrNUliM2QzLVAxLUlwWlhZMjdsczY5LTVJdzFtOGZNdnM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "United Airlines Holdings Insiders Sell US$9.6m Of Stock, Possibly Signalling Caution - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSlpwZmw2TVZwUEpXWWFaUGR4LU1xN2FfNlhDUkQ5RVM2bnZ5MnQtQnBwTjQxaTRBQmhjQ1dILVJCYVBCWGxCNVZTVzkxcTFPUkdzenA1QWtVZnMyaWhnQlRGQzQ2M0VZS3dlM3B4LU5pSDQwZ2ExTllqSXcwTmhuMzNwbkJNNE5GRTlSdV8tTFFERXVNZWxPbmUwNGVGT2NiMHk1RzBaMktRa3p4N3o1S2NhNFJZNWFaY3B4V1FXMjQzT2gycUJSSlVCTWZ5NzFzLXUycDFNa0NwRThvVGFwMFh30gHnAUFVX3lxTE51NDZZTnRhTFhDai1JY3Q4UmhSOUNIYU5mdkZSbEdJVTRhOGh5c2ZJdngyYXNZM19xUS0yUWd2N0lyemxTQkVUZGFIQTh5Q1Rfa3c0SS1ETkdYVVlnSXhuWHc3WUo1VWtZNUUzVWRidmdpcFBVZEEwWWZNS3p6b3Q2d2tGLVotNHAxemNReHRVMlQyQnFqdDBKeU9ZYlNGRWFJTlJBWWNuMGM0UEdyNjk3dy0xdjVvWExuRE9FcU5sdlFHZU5kbHcwX29xTk1ncnFVNWNENnYwejlQcldtVUlpcVNWSzUxYw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "United Airlines Reveals Strategic Vision: Key Insights Coming at Prestigious Bernstein Conference - Stock Titan",
@@ -566,48 +611,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "United Airlines Soars After Q1 Results Surprise Wall Street - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0VJekVBM0NLcVIzVmV5Q1hMTEg4MlU0YUdQdTJTWjg5SEdfQkc5SkdrSkFFakxwQ3VPeVd0bU42VXotWkhvcEFDRmk1V1ZIMXR3RXlXMWROclRfSUYzSm41Rk5reHFUTlRIZW05cS1EbTlQNk5GdnpjYTFVNURobjF2bnBtUnpwSzNWMXd4LWtsemdzZVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "United Airlines Stock: Analyst Estimates & Ratings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU25JWU1ZTXFTWFJRaXVQd0lJdEUtTTd6R1k1SXh3WHJFWVdDQmlsTzdiblBfTXVLOU82LUJBdi1hTDNlUmlkY0ZnSXk5djdwcFJqcnAxWF9hNDVmTUlvY0NRaWlNN040VTNQU2w5WmJaVzFBOHNDNS0ySHFqUFpNbHpQODlLUQ?oc=5",
+        "title": "SG Americas Securities LLC Has $63.36 Million Stock Holdings in United Airlines Holdings, Inc. (NASDAQ:UAL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTDAtT2xOcUJsa3Jpc3BsRkZ1LVRpbDlPZ3JwMzZrWk51blpyb1h4OFNhR3l2NmNWdGt0NkpLVlBWV0tDWHAzRVpSWXh4NHh2STdUVDRuZzRkRC1Rc3d4b0plVHJUMEtqSm9LTTBMMlNFTmotcWMxcElhQmpFMkFfaGZfQ1RsMFpOQkZKMGtVdUpMSXlZYzNJV1NyNlViaEo0NzdfcHViZk45SWhCVW5TMHIxUFlJRnduS0R3MVBHa0hUc2xWblMxbnhTdktkV1ZZWm1ROU9lRVd0Tjg1dGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "United Airlines Holdings, Inc. (NASDAQ:UAL) Stock Catapults 26% Though Its Price And Business Still Lag The Market - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcUNIQmczT2c5QUxuZGFBTERqMzJRTWhVRG5YQndzVzFpSmdxSDJsOXgxbFN0RG45ZHNPTjNrRHc2TXRCTkZFYU1WU1FrQk1BVEo4VlU0LUEwUGtKSDhnRWdIeXVDSzUwOTNvaHVVd3ZtRC05WUFaZmk3amllRE5yTi1QMGtjWnpYMjFXSmVqb3V2d2ZucW5qdjF1OEFQYWtqdk03ekhhN1ozVHdEQnZ0NDRUZjVvNmtSRWlneFZHaXJJck9MY1pIZWdlQXBzNGxmdmJncW9YbXh4Nms2UldJeDZn0gHnAUFVX3lxTE9uZHA4WENGbHVEWk1kekJnOC1zV25BVE9zMUt1bjh6djBKMnBMV0ZhODAyMEFnbjNHdDVNaDhiTHAwWF81cFB0NlFJcWRQNXFuNVRnOS1SSTUtZmtKZWk5NDgwSUo4TWlvVUVTaUd6SnZObTl6X0hEdFBtTWhnMzVYUU5YdGZ5X0JPaXdLOHNGdFFPRmpKSHRneGZ6YXNsaDh6cHc0VThqQk11bjI3VmkzaWNTVWxod093eVc4OW05Q2tHbmJscTJycjVZa21wY2dWWGpSUDBhdjhzNTVIWEhBdkpBOXE1aw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "United Airlines (NASDAQ:UAL) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2lWNURwMFZYeGIzb2ZnNXgwWmNxRkQ3dXY5alJPT3Z4SW5uRXgwWndYSk80SGZDZ3JGWUhRTUN4MnZWVGxRWXVBQzB3bnJOOGNkblYtWUVqd0Z0ZVBwNWF6MFNzMGZ5RTA0U29jTHZJa1hvTm1YQ2N0czYtQUVaNFdicFZCUmdFTnBqYXBtT0ZPcm5SUDdiRy0tSTV3cDYxQ3Q4RGl5Y1UzQkRmRnF2NllWRHBIX3R4SjhrQw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How to Buy United Airlines Stock (UAL) - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1habUJVUEhCVURjR2VPbVI2MGJpekljaWVpdDFpbGlIVklBaFlNRkQ1RG80S2pLUDVjcmRXRWJOZVlYRndodWYzOGtMWDZLNFJUUEtEdFlmNVR6TlNBaW1EZlpUdUVfRHUzRnVZRTk3VVFaZlJ3a2hYU0tfY1hOT2FteG4tZzZ1ci1QSGF4X1RvdXJvRFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "United Airlines Stock (UAL) Switches On as it Unveils Biggest Ever TV Screen to Lure Premium Flyers - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUNYY3YycU1iVXB4cnhsM3pYTlVOcTE3Z3M2eWV1b2loRWFnOXByTVVWRHR4RXVDamdiNWs4T2FXd0lIVGFIRWlnR0g3SHRGdHZRVGJqZzVod21Yc3lGM2RiWEtfOVRmSF9uZl9ZWjZhTXdtRzJlWkoxMVB4V1VYX0dKT0VBZnhncXBzenNJbG9ZMkFZX25RelRHTy1TQmZtVkZuYkFtcVVvOFQzc1lGcEpRc3BJdFhyenRqZVdHYjRzenR0bnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What's Next For UAL Stock? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEtBeldwQzFXcUJYN2Z4VFdMZ2syTzhfQXc0ZTBua3Nxd05hYWdfRHJQX2ZiZ2VzRXFjUHJhZWg4bnRqUU1MMHhxcGltVEM0Qkd0N1RFLWtqeTRmRGZFVHF5ek9PR2RIdUV0RGtmYlU2UTVLb3g4VkZVbkx5Mnl3NkFHMDFsQno3QU80?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "United Airlines Holdings, Inc. (UAL): Among Billionaire Ken Fisher’s Industrial Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczZkMzBjNDY0eU1NcGlCTXdHX1lfdGwxMm5yQmNUQ3NydGtJV0NOTXNxcU56UjZYUElta0VxdDJKd3huSVJwTkRGdU4yWF84aloyc0Y4VHdqTFA3QXpxLXlWbGpmMnZHZHlPaFRkMkZoN29DTk8tenVUMl85UldhSHVBdE4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "United Airlines Holdings, Inc. (NASDAQ:UAL) Shares Sold by 180 Wealth Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXpqc3JzSkJoSmdLMDhxc2VLVDlIUExxeVp2eVVXSS1WYVlDTGhNdFBhOGFjUGIyQnBFZkU0MUZCUVhmNG54WU45SGV2Y0hVNWVrLUJ5MHpIbDZ0YVR0cGtKa1F3SHZjazJER1Q5dTcxYTRDSVRZQzF0Y3FYbms5RDJDZ0FoZnpUbFVVMzhvVExRWXFUSFRmS0FzTk8zNm5fWWJfMEhSYnlaZFJPakdNSHJUamh5WHIzVm5ydmxwaUhZWTRqX2ZIXzZRaUxGbS1CampMbHpvempMR1JPNnc?oc=5",
+        "title": "Stocks making the biggest moves premarket: Chevron, United Airlines, Northrop Grumman, RH and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjl4eVNhS3pDYkRISktxWHdnN0VKaU4tXzJ1cl9fSlhJTDFRN1Ezbzd5bHdVRmREeWlGcG1lbE1TamxCZ0RXdFBZREpjWXZCOEhQYk4wVG1aV3dpV1dXTkE2OUNldVdvYkNBOUgzUmFNSVBXSENCQi1zcTZ3c2JxMW9ZTENoSG1vRS1BX2k3eHhYMzdEZldpYXdHZmsxMkdhSkxhWA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,46 +626,36 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why United Airlines Stock Popped on Monday - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2pfeWZhdFUxdm40aHlQa3NBSWxWeDhadGlMUnlmLWhaMkRVc1IzZDV2b0NmTGNJa1dzRkM0QlpRV3NCWVpfaENoMUJ4NXMzcUV5WlljNWh3R29Mamo1WnU5OWFFV0c0aDZMWEIzdHROVWtLTUtFTDhoSC1VSDBQam5jenpvODhMT2sxNFNB?oc=5",
+        "title": "United Airlines Holdings, Inc. (NASDAQ:UAL) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVh3MTdZUHdFUzVCdVdCQ3B5WGJ4RzhLaVRpa25vX0J3anRfUEtHeDU4RDZIZ0J3WXhHOE55OFBRSkZjRGRwZUh1WjBIMDRiNlRzLWRhSldJdWo0Tm4yVGVLa0h3bTRhanB0Y0s0UmdoODdEcERRMmZmS3dZbDBraTdaR0I1YUxkUHowRjNiWlN5YkFoa2FtQXMzdTdLZTRLQUlzMEtSeXZvT1l0WnY0SVU2YUVncGR0aG52UVFvdGZDX19TS3BlaHRmYVJ4cE9BTWhQU19obnQ2R0Z3bzBaamoxWFRaX3Jk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Suvretta Capital Management LLC Takes $19.48 Million Position in United Airlines Holdings, Inc. (NASDAQ:UAL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWlNXa19CUkw5LTZmRnVKRURGdnR2bGFqZ2U2U2ViSHhydVJnOU1BOUtaazVzTDlrLWU2bEFWQXpyMkVJUlJKeF9SUFJCeHA0WS04UDdfZExQRXNxajA4dzBoZjNLOEFEb1Zxc2JIV0ZQbUlWN1VNcUdhdzZXQjIxYmdxVUdCZ1IyUHJKV09TVnFMR3FkUXF2WGI5TnN2cWZ0ak9tRnctTmZwTjU5bjZxQjE3VU4wNGxmTjR5N0NqcXduMk1ZQXE2aHVKWnU4RG1yNUtFYU9ia2JZQnY0b3lYZ3poNW8tQQ?oc=5",
+        "title": "United Airlines FY2026 EPS Forecast Lifted by Zacks Research - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejNHZlFOYi01VHNCb2h0ejhXVHRtM2JPQWc1cURsdC1GM3k1T3l4VFJwcEMzYjBmQ3lVU05LamtkWFd6QnpDc3NiWFlKVW5yeFREaWJVWTVfNVpLS2dMN0ZsdENiMzlrMm91MWsyc083QTVPaHlsWWc4MTR0aFFRQVJsUDhMUTY1TS03Zmo2Uy0tcXdDSXBNS3h4Q09YUWlUOGVmYlpyemE4QkNoZVhPVlpsLUI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is United Airlines Holdings, Inc. (UAL) the Best Airline Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjlIV2dvaVJnekNOblp2aHJQek1SWGFyWVE5SVhtbGhxQWFfSk5BbENuQzVQclBfSzZ0SERMeUs0RURCd0pLelZTU0QtVl9JUTUzalVJM0otVG9ObW1NV3lvUWFHWHZZUXlFQzV6RzRrRzE4Tm9MV0JtOEVWQnZZMWREVmM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "United Airlines (UAL) Stock Sinks As Market Gains: Here's Why - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMEg3NmdZX0x0UHcwVm5aVzMwUDQwalRiVHBKN0daWTJuWEprb2w3QUIxN3l3ckFSZ2V0SzhMWTBYaUduWVZTUmxsZmpPZ3VKd281eExENmdrMVdFZUh2SXhDZ1RBNllzTXo4OURTTFMyQWpKN0xOQUVOZURlamNncUxnYnItWTY3S0hYN3ZmN2JDdw?oc=5",
+        "title": "United Airlines (NASDAQ:UAL) Trading Down 5.5% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXRKbUtjWHlLT1ZHel9nS2VzcWRfb2F4ZkJwWlhENDhleVM3blZhVE9KMERtclE2Q1lib1JVY2V0c3NnY3NJN3dvazZPSTdMZDNpQ2pYZk9lcGdGVVVTUkJQaE5PZ3BqYmMxaWNjTTlZQUYxTGNmVjhEZ2JONjlxNURCNjBCUE5Nbm5LcDdiZ3NvdEdxTHBZczFXMWhnNngzOV93NThnYWJLNG00RFd1TFJpOTc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "United Airlines Holdings, Inc. (NASDAQ:UAL) Shares Sold by GTS Securities LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHBsT3VMY3BWMUYwOWNfMTVyU3N0TkRKanROU09VVlZwbE9GVndIZmtaTEg4c2J6WWxqa19lellYS09IRGhTQnhPMGh4MV9nV3pRNTVNTS1DczM4bmlKLV9LdFlLMC1hamxkckFoODJURkhhMjRqbGViTEV3SVBjS09FME0wNk1RdFFkTDlDV3VPcFVaUmxPQnJtcWp0dDM2NHdwUHhpY2ZNN05qT0pscS1nZU4tVDJHTEswU2VZSlhUNGt6SVlxU1R2ZHF0S3ZlRHZWTA?oc=5",
+        "title": "Merit Financial Group LLC Buys New Shares in United Airlines Holdings, Inc. (NASDAQ:UAL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFhucXJVZ2syTVhzdkFGUjIxNU9LQTBJRzZFdGVPdkcxcmZFOUNOckI4bEhJbVpNTG5BcjJzTV81cHlDYWR5S2Zhd0dJanpWemhMcUpfd3Y1Y21jcVVWTGE1d1h3Q0t1NWwycGNWeDZQR1ZvVkxkUVh1NEpLNEhzNFlZX2RJMHJaOGtCd2tZWnFjdm1ZMWNMcjloTjNtVGtqVVJQZWdyOWhpUzRlNVNfZDZacEpGQmV0RGdQWjUzX2w1eGF5c2h1dzkyekZSdjFnc0I0YXgyQmg3MzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How Should You Approach UAL Stock Following Q1 Earnings Beat? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2Y1UUp2TGFfMUUtM0U1TTZuSGN4anVCYTVDcVl2UERIR1hPdFlDOWhqX28yWWVUTDBiVDZrN1JKQ1JPZE0tWW1WbmVDTjhEUURmSWZkNFR0ZW01aEVJTm5GOG1MMGFGM0lHRjd3dVlQY05jRWRQdzNfanl5VGt6aDM0UQ?oc=5",
+        "title": "Wolfe Research Adjusts United Airlines Price Target to $95 From $76 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTFVhN0RrWFpGallPYWNkOE9yM1U1ZmdtWHA5V05hV0wzWDlUWE1oOWZPOVdzRmYxdXpfZ3pjRElPOTYyZF90QnpjZ0QwVkl6YVVfN3lEbTV5cFNvZGY3NFlteHZiLVFpTmw5OTU4VmFYMGgwSy1NN09FWWZGLWpDMXFRTWE0S0ZNNGJPQ21hUWdRSTFGdjgwcjg1NDZIN0tkNjNmUU5SVld2NjZwcGNTQWhUM0sxZ1Q0TDZDVHNXSW1wdE95WW9nOVNqVElmOGhuaGtHYjd1a0dVREpiUWY2M1FXTEQ5QmcydEozb3d6Zw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Airline Stock Roundup: LUV Ends Free Baggage Policy, UAL, DAL in Focus - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzYzb3JReVpqcWRfeXZyNmtxbld3STBiTS1YOEViRlBLeHFEUlVSaHliSHNYaUVHdWMwOXpFWWdqeFJ2WXd5VkhwWXZ0eFFjRmk5OVNIdW9oRkxmT3ZpMGJDeDd2VGxrV1hURnFWZU9PTHBucVBXWEdzUTJGMXRidkVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is United Airlines Holdings Inc. (UAL) The Best Upside Stock To Buy Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGFWWkY5RDhnUnRqNUw4b1U1Z0sxT0lsTEI4TGtGcEQxTXNDdWh0Zk4yLTl6X3N3UkdhZkxkTnI0OXc3TW4zOTlRajhyT0IzY2lMN1ZMQkh5MnVOZjF0UDdSZHRsN1MtQUZLVkZVWUVsR19sWGFheHVCeURibmRYV3ZWOWE?oc=5",
+        "title": "How to Buy United Airlines Stock (UAL) - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1habUJVUEhCVURjR2VPbVI2MGJpekljaWVpdDFpbGlIVklBaFlNRkQ1RG80S2pLUDVjcmRXRWJOZVlYRndodWYzOGtMWDZLNFJUUEtEdFlmNVR6TlNBaW1EZlpUdUVfRHUzRnVZRTk3VVFaZlJ3a2hYU0tfY1hOT2FteG4tZzZ1ci1QSGF4X1RvdXJvRFE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "VICI",
   "name": "Vici Properties",
   "sector": "Real Estate",
-  "market_cap": 33212395520.0,
+  "market_cap": 33855614976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.5720005,
-    "PB": 1.2481138,
-    "EV_Revenue": 13.158,
+    "PE": 12.81548,
+    "PB": 1.2722858,
+    "EV_Revenue": 13.468,
     "ROE": 0.1012,
     "ProfitMargin": 0.67811996,
     "GrossMargin": 0.992,
-    "DividendYield": 5.5,
+    "DividendYield": 5.31,
     "DebtEquity": 65.738,
     "CurrentRatio": 21.505,
     "QuickRatio": 21.502,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.2740468224910397,
     "ROA": 0.04871,
     "PEG": null,
-    "EV_EBITDA": 14.599,
+    "EV_EBITDA": 14.943,
     "BuybackYield": null,
-    "PriceToFCF": 31.27427804405925
+    "PriceToFCF": 31.905026150343176
   },
   "technical_indicators": {
-    "RSI_14": 46.359361516161535,
-    "Momentum_10": 0.7051259870987431,
-    "MACD": -0.0565700984264481,
-    "BB_Percent": 0.3297317407648487,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 52.06015817634734,
+    "Momentum_10": 0.8514678825578467,
+    "MACD": 0.1410225191411953,
+    "BB_Percent": 0.6102390970710095,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332012794348308,
+    "ValueScore": 0.858626301849866,
     "QualityScore": 0.5584078778116732,
-    "SignalScore": 0.601433597721033
+    "SignalScore": 0.5685386332301146
   },
-  "volatility": 0.0137588233081318,
+  "volatility": 0.0139285066616555,
   "beta": 0.724,
-  "return_6m": 0.0207990387682397,
+  "return_6m": 0.0579504721269592,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 31.76
-      },
-      {
-        "date": "2024-12-10",
-        "price": 31.44
-      },
-      {
-        "date": "2024-12-11",
-        "price": 31.31
-      },
-      {
-        "date": "2024-12-12",
-        "price": 31.09
-      },
-      {
-        "date": "2024-12-13",
-        "price": 31.13
-      },
       {
         "date": "2024-12-16",
         "price": 30.93
@@ -537,67 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 31.47
+      },
+      {
+        "date": "2025-06-09",
+        "price": 32.02
+      },
+      {
+        "date": "2025-06-10",
+        "price": 32.45
+      },
+      {
+        "date": "2025-06-11",
+        "price": 32.48
+      },
+      {
+        "date": "2025-06-12",
+        "price": 32.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 32.12
       }
     ],
     "current_price_data": {
-      "price": 31.47,
-      "change": 0.03,
-      "percent_change": 0.1
+      "price": 32.12,
+      "change": -0.47,
+      "percent_change": -1.44
     }
   },
   "news_sentiment": {
-    "summary": "VICI Properties Inc. maintient un dividende trimestriel de 0,43 $, attirant l'attention des investisseurs avec un intérêt pour les actions à rendement élevé. Malgré l'intérêt des vendeurs à découvert, l'entreprise reste optimiste sur les perspectives à long terme du Strip de Las Vegas. Les analystes de Wall Street expriment un intérêt modéré pour l'action VICI Properties, tandis que divers fonds et institutions augmentent ou réduisent leurs positions. Ce mouvement dans le secteur immobilier de loisirs souligne l'importance du rendement pour les investisseurs en quête de stabilité et de croissance.",
-    "sentiment_score": 0.1,
+    "summary": "VICI Properties a affiché une hausse de 12,7% depuis le début de l'année, attirant l'attention des investisseurs. L'acquisition de MGM Growth Properties pour 17,2 milliards de dollars est une opération majeure qui renforce sa position sur le marché. Cependant, des signaux négatifs émergent avec des ventes d'actions de certains investisseurs institutionnels et des questions sur sa performance par rapport à l'indice Dow Jones. Les analystes sont partagés sur l'avenir de la société, mais soulignent son attrait en tant que valeur de dividende bon marché.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "VICI Properties (NYSE:VICI) Declares US$0.43 Quarterly Dividend for Shareholders - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXRGcXVYVEVFcUkwWmV3eERmUkF6d1ZRSjNaMXY0RGlHVkpoS0N3aDY3cWhzNW9mdHdBOFhvSXVoUnVFb0FEX0xmR2ZnREFqUGh0dVgyTjUteHFrMkNXeWpldDBYS0pxWW9SN25DUHRzUXE4SlRoUEV1djFJaFJTZUtvcmdwUTVtU2pxRXdDcTV6eTdhSjBsZ25FeWxDQmtIdmVhTWVKZnBNbzBaYXBDeXlrWHNJNGRJNnozRl82N0kwUVduaGpGVUVUTXhKUWp10gHWAUFVX3lxTE5GSnJQclZmUHpVN1BxZkRqeWpOMUdsbjFNZ2lwMHBDcWJwX1Bzekh1Rml3MC1qWlRqazFuQXI5Y0ZKaklCbnViUlNxSkRPMEE1aDJqaWxwd2dONGhQSXlsN0l0ZEJIUEJzc3EyX3FpZVRaNkRmYlBVOUMwc3dkSVVqNkhsV0EwbkgyZGk0TGVHS1Q0Tk9mb1hFM1ZBT0gyOXdkN1FHU0VXYVdtV2lUa255bl9MN2JoYjhac0pwVjluTHRnVkNIV0FMbUdfQ29GTzZIejBpSHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VICI Properties Sets $0.4325 Dividend: Key Dates and Payment Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUJuR29Gdy1uZENndWlaRnkxUVdQdjhRVkgyN0lFWkZnY29zbmkyMV9lSTFSZy13bWU5SzN5Nm9vMEFpSXpUeGFDckFneEZjazBuVlVhWkJtNFZ3TVBWM1dYMUZLdUtBZGROR2E3VkFVUUhhczk3LTVVb2hudmVEcGMyYktmSm1sVjdaR3BZS3B2SjB4RUZFMWNBd2p1dzNyLUM4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VICI Properties Inc. Plans Quarterly Dividend of $0.43 (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnV4S01sa29TeExQZFNOeHdVZHU5SU0wSUNSWkFpeE1mUE10amNCci1tUEphWkNNVGFra1JrckdCRkhxVHZ3LUpxWlZiQmJFUFhMRVE1b2VxTFRyMjBONE1FNEJXMzNfSWpIcmd0X28zakc1TFBIWmVDRHRPNFdMTk91VmdPMElTYzZZQUQ2anUxTFN4R2kyQWJQa1c1SWtFRnZWZHFaVjhvWm5oMEVhaFdtYzY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VICI Properties Inc. (VICI): Among the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmltR19pRHpyQVJwbnpNa0l6WDFURkJzZnV6VnlQekl5aGpkUDM3aDhoZ0VwSjZ1eEhQU1RPT094Z3JYM1dSU0dsSjZpRmJaQlhqLXFnS2g2ZDRlMDRSZTBvOFp2S1BjNXVINktrTElVWWdvaURyVDNtYk9MbGIycnhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zacks Industry Outlook Highlights VICI Properties, W. P. Carey and Easterly Government Properties - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenhyWHlqVnpEa1ZNVnZGRE16MUsyd0NZcjFDVFlmaW0wY1dfa2tSTkFoLXhDSUl2aF9yYXFsc1k4enQ3ck92MEVZRHNsbjhOUDR0NVRzd3dJSjF3Tko0c3dTTEFkLUhfUWg4Q2dMR1VsMkJXZHJ6NmdQLW93eWVVRGV6LVotYUJ6MERPSDh0LURXU19kN3laN09vRG1aaG9yV0J6YmRKYmh3ZVpoaGozeTR6eEZFcEs3TTJCMmk0R0RqeEVaLW1ZZ0xjY2Z5SEZzbUdWQVRndHJkTlhia0g1YmphMkY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VICI Properties Inc. Declares Regular Quarterly Dividend | VICI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGQzQWNkS3RYUjBGNjNTV19uQkQ5a0RDQVU2Q2FHcjFTYmhZR1JYcHdqR0JYTjJ3aXA3NThZN21MdzhZT3BjMzFqNnVsd3diWmRub3k1dmNkdzJQSk03YUtrTThDb0Z6OEN4ZXdyMFdVb2dOc0l3MnpmWGY2SGExTlBCUVpOYkRSSjFsNHhtSTkxSDBmNTZfZFpyUXNiT3ZVTE9WUk1aenpwSnpjRndQMw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VICI, with focus on dividend, return growth, still sees long-term prospects in Las Vegas Strip (VICI:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHNKUHp2XzBiMDUtYi1wdmlhUU4weDVXOC1VdjNXMzFJLVE2WVp1eXp6dThLVk5RTmQzOWdSTFhCZUJaRjhiZ0VqdktvdmE2OHVsN0JTXzVqT1pCR2ViYWtOQjI2QXRGd2VCNlRXbEM1VXE1bEJId1hoaVh4MURzSzdCTllhd3NjWldURi1hN2YyNkxjRk83SGVCbmVkdjFJazc5X2R6QVRtU2k1U21Ic2RvUFNnNGRUZXVOS21BLWtxM2VEOUNIUA?oc=5",
+        "title": "VICI Properties Rises 12.7% Year to Date: Should You Buy or Sell? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmM3MlhuampHQ0gtdy0zNmFWcXctLThXMzdRdWktYW9ad3RRTVN2TkowZDl2WWRZclJ0aXAtU0RNaWhOalFCcEs4WXBxd0p6VlNJMFd0bXZySWZOcHctaVNBTVU3Q1E4UXRGMWo5YnNmN2VEQXVucEI2OWxLMGxTWk13OUdrTTRfNnlTY2pjU0dEUXRO?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Do Wall Street Analysts Like VICI Properties Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTN6YmJHdmNOR2djbGo2VVM0SXBhT2hUcVVSSzhJYTE1Yi1tN3VVcmVFZzhZRDduaUFIXy1TNEJRUjJtZENpYmhJSV9SbWUwZkJqcElMZUw0d0YxREJ4Sjd0c0szcXUxTXlCWXdnVVQxZEdjdTZTVURuRnMxUEhoYUFQTQ?oc=5",
+        "title": "Is VICI Properties Stock Underperforming the Dow? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGRmLV9jbk1aMWpGWWMtcnN2bEdIc0pKbzh6UTZKSEpCZ0xtS0w0Y0hfU0poRUROU1ZjMjJWQm5JbXZkNzM0QVpzQzRuM1A1RWRQUFo3ZVBaODF4Tk16cEpiNXhUZFh3SzFFOHNkTVQza0x3bVBQOGdzS0lEMnlPQk1ITWR3dUI2akJ4X0xSdml2dGozMVJOVVdya3lfOEd0TVR2SGVXM0ttQmtTWmxwcWl2S0pCcmVMZDNLOG5MMkVRVDJrWndxRg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Donald L. Hagan LLC Grows Stock Position in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaEJhV3dFU2lsNmFVVUxlZ2I0VnNqVlRzQ3JOSGRtQzJTa2lNM2dYNVhNaWZKUTRHdmNIRWJnTXZuZzJ5dmlWQW1YTzl2aWJVV1lJcUE4aFlEOVlpMFBqUHRHMGxSV3NJLVVPYmlXTUFMa0pYUUdnZ0lrMnd4QXVhOEljTmZfV1dxTC1ZV1dMTlFZNXRJc1FoY2lSTTY5dmRDeVZNYVVhWWgtdUJZWnlURjN2N1JXTzdNNkJKZ1dLalpZRUczWFk5eUJZYzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is VICI Properties Stock Underperforming The Dow? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQV9MTGZhY1h6NC1zZTVWRlZoVk82YXg3Q1hHWURpQnNLaE1HLVNjeEFUeHJBcUpGX1RhV0U1dlpOczVWb1hfUmF0Rmp2OGQ4X2ZEcGh1TG1vQll4SXBWVU5hM09KY1dkaXhjTTBBRml4NHdOUlBrdFJBUHBBY2Nzd2JVR3lMMzA2VmNjTGxCTUN4MDNGNUtQNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "VICI Properties Inc. (VICI) Ascends While Market Falls: Some Facts to Note - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDlKcVpYb0lDRG5yeDRJbTVqOGxRdTAtZmpkVzRiWDNVV3QzdGtSZVVZNjNqUkU3cTdCT1NsbVkxcjFUR01DTS1OQ2E0VjQyWXFzV2VPQ3ZmU3hnUC1kNlEydkM5cFlKZVNKUXh2UVVKVEhremtnSlBxdTlWMThfT2dIYlRiMlBkbnd3VW5fN3pNZkhwYy1tVzNrcGJpTlh6NGZsUnhyZkt4U3g5QlNmYlVDVmVYNktQZDFDUHpQM2RFUQ?oc=5",
+        "title": "Zacks.com featured highlights include VICI Properties, SSAB AB, Arista Networks, Banco Bilbao Vizcaya Argentaria and AppLovin - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWk4UWFVOGRRMkhwYjc5WmxmNzVrSmZTZ2l2OXBxQU95VDV2ZEFVZUowR1UyajRHRmtrcDctUmNZWjJKSnQ2SUVfeGM2OENDTE5KbFZ0U2l6Y3Rqb1pydTR5NEVKa0RLT3A0MEtKQ3NoM0d3NGxKWXdnYjQtbTBqaFk1UVUyQW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties: It's Better To Own The Properties Than The Casino Operations (NYSE:VICI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDB5VmlTRDh4SXhvaFZ3bTBpaFhCTzc4bDc5MW5OeFhONXZRTWs2Nzh3eDlxTlkxWjJlVlBRQ3BLZWhXcGdnWmRaY3E4M2hvQVhSTS1tTVU1Sk5DMVdGNUpYT2Z1SE1wS2JVNnkwZEhSS2R2SGc0X0FrUnpPRzZBZjAwSHdRbEdfRkNMNEdISTd2aFdfbnBCNEt4b0VRanU1TFFfTERPUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties to Acquire MGM Growth Properties in $17.2 Billion Deal - Nareit",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGZXbFVidGpvUEpERWJTOU13eWRNMFJ1WkFqUDQ3ODRvZnB4UUpkYW8zNFpOclh2ZGh6dU93ZWZyMXQyd2RwUzZJYWY0VTU0MnhBc2cxankzaWZEZTk0Y2FYSU9hS0p0NkhXMndhajJfSHFYdjNQLTJYV05BS1ZOQlJJazZKeXUzR3RzQ3FyQ2dJeGdWSkJ0eFJzUEpoS0FianJVcWFn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,13 +596,48 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "VICI Properties Inc. (NYSE:VICI) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUNlXzlIUG53aXc0RXROdm1GNmFuby1GRmVKM05zTVBlbXpGQXNaQlh1eVRpYTJMemhmSU53aW9pMm9rSG83OUM3TjBIZkVRN0ZCcUhSSGtqbTVVYjRIVWxBWndFSG1nTC1ITG5VcnUwdkFlSjdmb29lLV9ISnM4X0JXdlpPcWt6bFNmQk1oajFONTJ3S0R4bXVvMkxWWER6a0l4eHp1azlRRktrQ2piV0pXdUFQZnRsYy1wanpENjB3TF9IWVV4cFdFUWNqdw?oc=5",
-        "label": "POSITIVE"
+        "title": "Here's Why VICI Properties Inc. (VICI) Fell More Than Broader Market - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVpkZkhJd244Z2FYUFdKZzJQYmE0bnJ0RHNMaHBHVHVZWXhhZGFMSXozYi1sNmtWREVmU1ZGc0FUZXN2eWprQkpEVlFWWFZobjdBMFZkM0VsUXhQYjNuNTFVRVVZdGI2ZHh6TzRlWDJHN2lTc3Z1dlV5WmQ4VEp5d3gwS0dISy1IOTNNZU1JajZtdlJuMjhJZjl2TUJqd0xaT213VGZPN1B4RDhHSFN4YTNraWw4S1N5WnJYRVEwRmRvX2xFVnlaVENzZUN4VTltWFNaQm1FYzBPcjlQYXc?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Czech National Bank Has $7.90 Million Stock Position in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM1NFajRtNGdRLXN3TlFybEZRNkpvSDVzcnJTQzU3RkJ3WTEtSWNKQ21vSnlYX1Q3Y1puUGI5Vkd4bmRvM2R1b2FVYm5QMUQ3alhOLTVfQmlTaHdTWUpuazBJUFQzeG12NEdmLXR3Rk9YbmxwNWFycFk5cHlpTEJVVDd1SjM5R08zeWN3WDdhT3R4QTdpOHh2Q2R5SzYxUFFxVEZxbmJpcmw4WEdtQjdqVngzYWJ4OTZWWlFvX3lwNHBUbzB3?oc=5",
+        "title": "Verity & Verity LLC Buys 66,856 Shares of VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3JUY3JJOHI0eUdwUmwwSzlpUFlCeHQ0ZzBRVEhFMWFjTzJ3cHkwMVhGeW9pdDkyS3Rrcm1TWGtHc2NfMEN0SDNpajRsSjRUaHlxM0NUN3lyaUJrX09aMWVmN2c1ZGtKNi1UbGNiUjJEUks2bkg5MlZkSUZRREp5UThuOW1aS0lTdXhuaWlhcUxoSkRpd2lfeGU2eWwweExXeHY5S1BnbEpqeDNHYm5sek5lV2hLNjFxVmFfaE9FLVNGdGFmMjRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O vs. VICI: Which Net Lease REIT Offers Safer Income in 2025? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3huNVh3Q2pRMXFQVWRkZ1V6OVR6MkhhckdzZjQ1aTQ1dS10aXdLaEFPQThOR0pUMmRXZkZWTkF3SWFnSUdqZVFKWnJqNm5sbENZeWpycUg3WlZaYnFJa1B6MXMwd0N6RTlIU0tqUzBiX19xVFpsVmJtMHBvM3Vma0ZkVEd2MTVpMkZLUjd2TFc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (VICI): Among the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmltR19pRHpyQVJwbnpNa0l6WDFURkJzZnV6VnlQekl5aGpkUDM3aDhoZ0VwSjZ1eEhQU1RPT094Z3JYM1dSU0dsSjZpRmJaQlhqLXFnS2g2ZDRlMDRSZTBvOFp2S1BjNXVINktrTElVWWdvaURyVDNtYk9MbGIycnhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 High-Yield Dividend Stocks to Buy to Cash In on This Exciting $500 Billion Opportunity - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc29FY1gtOFVuSEptbWg2cVNfSlY3RkN3VEFXazQ4emdFalNrUFR1dmdtMFdKUlVJTlFmU0V2NHJKNDJObHdYc3BQajcxRHU0ZjY0dlV3TEVOVm5FanVSUXU3R0RmbnJ6aFRzR1NUOFNWekZkZzlDOGhURVdReTUtQjRpUl91RzNtZFhrRm1nQ3ctYzN4c2hF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like VICI Properties Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTN6YmJHdmNOR2djbGo2VVM0SXBhT2hUcVVSSzhJYTE1Yi1tN3VVcmVFZzhZRDduaUFIXy1TNEJRUjJtZENpYmhJSV9SbWUwZkJqcElMZUw0d0YxREJ4Sjd0c0szcXUxTXlCWXdnVVQxZEdjdTZTVURuRnMxUEhoYUFQTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (NYSE:VICI) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXgzZ2pfcEJ3d0VuTkE2ZVBQU1lCSXNhaUtOYnMtdjRNeDJDLWcxM2tiQ2NvUHRQZ3BLMDd2dXJBc3BLUUJfaUFyY085T3Y4QTI2aDRqZTZsa0p0Y3B1WG1mRmpFR1FGblQwNGVTUlBQeWdvRFllelY5c2N6alZXM2wzaTl4OU5pYUlydS0ySGVieUNFTy11QjVVNUk3Slg2QTBra2VmM3lMVmMwVl9fZFhXdzIzSDFMdDZVc0xCUDBYSzQtb3dIUVZrVUZ4eWVh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sonora Investment Management Group LLC Purchases 7,965 Shares of VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVDNDSzYxYy1oX0tVYnNvOERNMmN3eXpxcUgxYUNHbXY2RmpIU05RVW9VYktPSWFZRVdYTU4xVTRrSlR3aW1fNGx1V2xJUEJOWU81Q2x4SUpqcVdaLVg0b2tHZkkxdVFqUGFOWk1RQmFxZDJSWGpRdkI5RDBkNEVIeC1oTjNSWDRDaXhPR09rWTEybWlUbGJyTkxRUkFmVzRJbWJLTVJBaWFxNmRHS1Z0WHhnbk5IWUJEWnIwenU3Y0NISlNmcml2UDdjbHlqQXBSRjBVdUJDczFDR29zS0pQaEx3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (NYSE:VICI) Shares Purchased by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTFZWDI4d2k0b3FFTGZnT3l5Yk90STlQLVJuYTFic0RaZVhVNHgtbFpscUZsOXJBbDNic2Rrb0hkOXVacndWRDYtYVVzazlpU1hFZ3pQb0hWcnFIOThEbE8tU1BfMXpSRGNKckdzWDJXTk4zekozU0ZJb081NkQ0bFBJbVp5RWVIOHhna08xR1NVU2dKck9HOXFtb2d1SFA4djlfdGtWMTZEQWRTenl2WW5DdTM3QU42elhTenZhVHFTbllhNFE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Has $6.94 Million Stock Holdings in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQU45aGJMSDk5ekN1WWNtT2dxWkJtcVRyOW1iVERfSWN2emFzM25ZQ3E0VVhSd2JuRlhNZFVLb1lNdDZ6Qm5aN2p2aVZ6d21Pak9aX185VVpUY0tnQ0E2OHFWaC14dEpBaF95Y3lrTndEZ2ZNSmhFTGktamMwRVRXV2RkZG1xMVFudm1lWUVkUG1rQnQ4QVU3NTVwZGFhMzl1Um5FcjJDYjFyNGFjNm9UTTZXOV81R0hIOEI1QVVBU1drRFZqSTYteThMbHdDZmJiYXoxQUtPcXhjd0UxWnBmdURnUUFNVGZGQ2g3YnhB?oc=5",
+        "title": "VICI Properties: Always Dull At VICI-Land, And That's Good (NYSE:VICI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU50X1pDUFVUcERUYmNmZTZlc0xkU3ZKYzFhdThwNjRQdkwwVUdjckRJam14OGVmZUxhZERxZ1prOTNXb2pXZHNDcV9YNU1teHNxRHFXQ01tc2hrS01rb2pFZDNUemNjX3NobVZsbFE0eGItdUdJYTYwMDFsLUhZVjE1em5SZDFDTmp0VTNKQ0tCQU82TThZdVZR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "VICI Properties Inc. (VICI): Among the Cheap Quarterly Dividend Stocks to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3RRMUs1WTVWOTRqOUZDOFVGRVpsc3p3dm9IZ0ZCaHJza1VXSnBDVUp0R0VaM2xjRGNELVNQbG1lRHhlMDFRTWZBeERvVkpwRmRJWTVhZmItdUdjT3VVNXRtZzBqYTdHeWR4a3BKTHFlQlp0dk1sdlMtaFBvZzE3aTdB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "First Hawaiian Bank Has $1.23 Million Stock Holdings in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1NzNnZGYW5BUngxcVdPTjNxeC15UFVfeWxtS2VRaEZjcTFTRjRMSWFTS09kR0xFdlhFc0IySTZUaUdEM3dlN3NpaXlxOWxYUkJneVFtRHp2RVZfSVZEYmM5NHAxVXFZWGFFZlZFbEgwaXdIWjN5TTU3Z0U3YVdJWnpRQnFack44SHIyaUhETzJucDdEVEJVcmV1VTBoQlMza3hVT0Y0dmwwSkM3a0VSOEl4Q2RBYk5PNndFaU1kTGhCcUExRzFhc2tHTHg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Buys 123,458 Shares of VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjdsRVdOUHlZUE1vU1lwMzNwbFVtOWV4S2pmaTc3WlctakpGMEpNVkllUmNpdkVsMUtlR1dPRE93eEhMbUVKOFBZWHBtQnNud0RuanJBNjVxc01FQVpYdU5ZcmV0a183VG1xdUVuWDgtX3dKMmlybUpDaHdTbnFuc05EZlRXcmM0eFZBckE1UVhQXy1kUzkwNmxVSW05ZXRJVVFsanJwcV9pY1hCS2dZMFJaTGROOUxZMDZSRXZQME1Iekli?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wellington Management Group LLP Reduces Position in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkFhQy1hMjZvWTloaHRtMHRuNmdObGg3all6VmNhR0NVNVFLcXRMVk1US0otVzhVVFpqNFJjWUVOTHYtTDhsWXpwbUdrU2M0MFR4UjRvNHpVTGFnYzZESkNQTk5BRmJTbXk3Uk9EaVZIYXdWUVpENDV5ZXNOU2MyNG5QdWs4UW1hVng0RG9DQXFZdHpTc2pyMFlKYnBNazdxSlRocnYzbFJKVWF0X0ZTbHF2UXVsa1hYdUlQQkVVbHBLS3dMY2E2NExYQmQ0V1o1Sll4UXMwYkU?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Leisure Stocks To Watch Today - June 6th - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFZGWFlYbHZxRmt5T2p6WDcyV0UtZVZINmR2SVE3UGF6bEtUdVk1X29yT2dSU1ZsRENkeHJnU3Zacy1sR1JlaXZiOHJMWGx0QnBoM1NZVGlqZ00xWmpCaGRCYnR3UllxQlQwbVJZZ0hFUXNZcUtwSkRIc1RpUGw2WEZkeWh0bG81ejVUM2NLNHNvODVzQnF4S1czVkp6UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Centaurus Financial Inc. Grows Position in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckpWMmhiOERRTE5MSW1Kbk96Z1JmVDc1WEdodkRidnRKZGFZQkFUVDFtSlctN2FzUks0dVY0SEd4NFRKQWhFTGl5Smc4bnR2U3JJT0lhOW5uakZ2V3BhRE8tVkFKdUg5dHNnVS05cldQeVBXNGpNM2NhUDMwbkY2cnVzY2JtQUp3TVlvMGg4Zldwb21RQnBfanJmY2FFNmlCRWh0QklyUTJIQTRLUThzdGhkQXFGUktHNkRxLWEtQVdyNVNpN0NONDhyRE1XSGQ4eVJLZQ?oc=5",
+        "title": "5 High-ROE Picks as Solid Labor Market Conditions Propel Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82b3A1eFZLY21jOUw4Yl92bUFXY3RqaUhFN09rUjJGYndSY25tN3NhM29qWW9sejBubHc4MUZLcTk0b1BLemNjRl9kYTNpNTBaTC1vNEg2by1tc3I1cGFVc1dJSTRJT0RxejVHMkxDb2lCYlVVTmpj?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

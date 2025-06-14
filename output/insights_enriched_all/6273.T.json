@@ -2,16 +2,16 @@
   "ticker": "6273.T",
   "name": "SMC Corporation",
   "sector": "Industrials",
-  "market_cap": 3349848522752.0,
+  "market_cap": 3390000594944.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 19.006842,
-    "PB": 1.7372234,
-    "EV_Revenue": 3.37,
+    "PE": 19.230768,
+    "PB": 1.7368929,
+    "EV_Revenue": 3.421,
     "ROE": 0.082040004,
     "ProfitMargin": 0.19738,
     "GrossMargin": 0.45832002,
-    "DividendYield": 1.86,
+    "DividendYield": 1.88,
     "DebtEquity": 0.261,
     "CurrentRatio": 10.483,
     "QuickRatio": 6.578,
@@ -20,52 +20,32 @@
     "FCF_Margin": null,
     "ROA": 0.05668,
     "PEG": null,
-    "EV_EBITDA": 11.887,
+    "EV_EBITDA": 11.885,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 51.5040856251833,
-    "Momentum_10": -1.2401352874859075,
-    "MACD": 1133.7306178626604,
-    "BB_Percent": 0.3763375904480793,
+    "RSI_14": 50.2659074477836,
+    "Momentum_10": -2.954755309325946,
+    "MACD": 723.8452134254767,
+    "BB_Percent": 0.1847080516292508,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329470164075402,
+    "ValueScore": 0.8870646814315015,
     "QualityScore": 0.4117928773970651,
-    "SignalScore": 0.3677836976907093
+    "SignalScore": 0.433611503151749
   },
-  "volatility": 0.0238300368307467,
+  "volatility": 0.0238342882855181,
   "beta": 0.679,
-  "return_6m": -0.1867848672902257,
+  "return_6m": -0.1406710415824816,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 64848.4
+    "target_mean_price": 63915.066
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 65190.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 63290.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 63180.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 63000.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 62700.0
-      },
       {
         "date": "2024-12-13",
         "price": 61680.0
@@ -525,35 +505,60 @@
       {
         "date": "2025-06-06",
         "price": 52560.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 52500.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 53670.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 54150.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 53190.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 52550.0
       }
     ],
     "current_price_data": {
-      "price": 52560.0,
-      "change": -1240.0,
-      "percent_change": -2.3
+      "price": 52550.0,
+      "change": -640.0,
+      "percent_change": -1.2
     }
   },
   "news_sentiment": {
-    "summary": "La valeur de l'action de SMC (TSE:6273) a chuté de 3,6% la semaine dernière, en raison d'une tendance à la baisse des bénéfices sur un an et des rendements pour les actionnaires. Cette performance en baisse soulève des préoccupations quant à la santé financière de l'entreprise. Par ailleurs, l'intérêt croissant pour les entreprises robotiques, telles que celles mentionnées dans la liste de Nanalyze, souligne un secteur en pleine expansion offrant des opportunités d'investissement prometteuses. Les investisseurs pourraient être attirés par ces sociétés innovantes dans un contexte de volatilité des marchés traditionnels.",
-    "sentiment_score": -0.5,
-    "label": "NEUTRAL",
+    "summary": "L'achat de 6 273 actions de PepsiCo, Inc. par First National Bank de Sioux Falls a attiré l'attention. Cependant, les actions de SMC ont chuté de 3,6 % la semaine dernière, avec des résultats annuels et des rendements pour les actionnaires en baisse. Du côté de Shell plc, les actions sont cotées sur Euronext Amsterdam. Ces événements indiquent une certaine volatilité et des performances mitigées sur le marché, nécessitant une vigilance accrue de la part des investisseurs.",
+    "sentiment_score": -0.333,
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "First National Bank Sioux Falls Purchases 6,273 Shares of PepsiCo, Inc. (NASDAQ:PEP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkhzSzFvbW1tYWxMWGY0a1gyRERLQjQ4MkZHRUpEWEFwQTdXNTdMaGcyYkJtOXM2TGtoTUNxZGRuYUpKMl91VmRERU9hbXlCRWI5dHAtU0MzaDFjNmhDZmoyLUVSbXBxM0wteFhGcm9odDNma2hJbDNyV0Q5Qm1Dd2lXemZaVUVhQUlWWnBJUExJQU9wa0ZMc1FqazVxS2pwRC0wMXZQRHdTMFlWZXFnUDh2dzlCZ2Nzbnh0RkhJY0hPWkQxRUtUczJlcFdhQQ?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "SMC (TSE:6273) stock falls 3.6% in past week as one-year earnings and shareholder returns continue downward trend - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnAyR3NwS0RNMjhDcjJYRXRnWG85TjJiczYzZTF2alJTR2FFSVpUX2taSjRia1NiSGExMThwZmFQTlRrLWttMy1CekszWDRsSUJ0WFNubktUbzlfdENmcmlTd1huT2ZjNWVVcTI4U2o2NFozMUU3amtENFdOVWNVVjZXYzl5bnR1aVdrR19YN1lnMlE5amlEMTlUSTZVTlpyeXNqalQ4MGE1RGw2LXc3ZENlWkhmRl9xVVZLSXVwOFB6cWROMUY4OTh6SdIB0AFBVV95cUxQUHFNSGlqcnVoeWxfZ2pZcWg3ck12WjYtUUZtZ1dDUmUyVUZaVVdZOHV2eEJyaExfQmppamtKTHBFNUtBYmhfbXAtYnZpeHQ0eUp1N2VXWXhFUmExcGZfREhiQUp0eHd4N1V6RWk5NjBVV19iZWl3eHVDVVNGT2k5Z2FDSTJDVW81cUN3c2xUZTJnWHljM2ZveExjbDFKYS1qT1VGZUFRY3NwUU43ajRQTjdiblJweHRRY2tiRnhmX3NyVl9vR1VRNUpDSk4zTWJa?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "A List of 14 Promising Robotics Companies - Nanalyze",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16UGwtcTZBUWtOQ2ExOVV3TDNyaDI3UjZsT1YxM3RKWHVmZTRTWkZYWEczdDI2bGVyeWVnM2hBcmFvR2YxV0dCTXpPUk9ONWprM2lNeC1ITlBlLVh5U0JjREVMV1Iwc09ob1JpdnZPVm9sY3M?oc=5",
+        "title": "Shell plc Stock (SHELL) - Quote Euronext Amsterdam - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZkdvaEI4NnN5bjhoWWhHMl9ONDNkbV9fQkw3VEV3YTdsQ1B6eDEwQldkTHNHWk42NE9rVlJlTkp0aG91Rmh5ODhwR1NNamNoMDRiekFwN3RqZzNOMTl3Qm1ZcjlvT2M0WXc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

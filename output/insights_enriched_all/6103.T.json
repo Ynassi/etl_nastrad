@@ -2,12 +2,12 @@
   "ticker": "6103.T",
   "name": "Okuma Holdings",
   "sector": "Industrials",
-  "market_cap": 229301436416.0,
+  "market_cap": 227486384128.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 23.892075,
-    "PB": 1.007931,
-    "EV_Revenue": 0.94,
+    "PE": 23.708935,
+    "PB": 0.9999527,
+    "EV_Revenue": 0.95,
     "ROE": 0.041020002,
     "ProfitMargin": 0.04637,
     "GrossMargin": 0.31736,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.011419843924143178,
     "ROA": 0.03073,
     "PEG": null,
-    "EV_EBITDA": 8.247,
+    "EV_EBITDA": 8.235,
     "BuybackYield": null,
-    "PriceToFCF": 97.08449509509678
+    "PriceToFCF": 96.31601567470628
   },
   "technical_indicators": {
-    "RSI_14": 68.588981344668,
-    "Momentum_10": 7.977207977207977,
-    "MACD": 118.7780389238419,
-    "BB_Percent": 0.9516186808195468,
+    "RSI_14": 61.3664904247174,
+    "Momentum_10": 2.592087312414734,
+    "MACD": 113.27023985130565,
+    "BB_Percent": 0.6898061851914796,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.932794688523788,
+    "ValueScore": 0.8940315218763204,
     "QualityScore": 0.3838402353106065,
-    "SignalScore": 0.3980118621959878
+    "SignalScore": 0.4897635237179889
   },
-  "volatility": 0.0246858970471289,
+  "volatility": 0.0246664556421912,
   "beta": 0.525,
-  "return_6m": 0.2007564131758463,
+  "return_6m": 0.1838526112354293,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 6,
-    "target_mean_price": 3545.0
+    "target_mean_price": 3726.6667
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3200.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3185.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3250.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3225.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3265.0
-      },
       {
         "date": "2024-12-13",
         "price": 3220.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 3790.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3815.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3870.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3795.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3785.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3760.0
       }
     ],
     "current_price_data": {
-      "price": 3790.0,
-      "change": 40.0,
-      "percent_change": 1.07
+      "price": 3760.0,
+      "change": -25.0,
+      "percent_change": -0.66
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière les ambitions de l'entreprise DOGE visant à accéder aux données fiscales et de sécurité sociale des utilisateurs. Cette initiative soulève des préoccupations en matière de confidentialité et de protection des données personnelles, ce qui pourrait potentiellement impacter la confiance des investisseurs. Il est crucial de surveiller de près l'évolution de ces mesures et leur réception par le marché, en raison de leur potentiel impact sur la valorisation de l'entreprise.",
+    "summary": "Malheureusement, je ne peux pas accéder aux actualités financières en temps réel. Cependant, si vous avez d'autres actualités ou informations spécifiques sur une entreprise cotée que vous aimeriez que j'analyse, n'hésitez pas à me les fournir et je serai ravi de vous aider à en tirer des tendances clés.",
     "sentiment_score": null,
     "label": "NEUTRAL",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -550,5 +550,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

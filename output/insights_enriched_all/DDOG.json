@@ -2,12 +2,12 @@
   "ticker": "DDOG",
   "name": "Datadog, Inc.",
   "sector": "Technology",
-  "market_cap": 42248757248.0,
+  "market_cap": 41549418496.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 260.28723,
-    "PB": 14.467241,
-    "EV_Revenue": 13.926,
+    "PE": 255.97871,
+    "PB": 14.227766,
+    "EV_Revenue": 14.039,
     "ROE": 0.06476,
     "ProfitMargin": 0.058480002,
     "GrossMargin": 0.80151004,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.2790611908231873,
     "ROA": 0.00368,
     "PEG": null,
-    "EV_EBITDA": 509.222,
+    "EV_EBITDA": 513.365,
     "BuybackYield": null,
-    "PriceToFCF": 53.33408243542757
+    "PriceToFCF": 52.58751071831436
   },
   "technical_indicators": {
-    "RSI_14": 70.5039109998138,
-    "Momentum_10": 5.762082667099705,
-    "MACD": 3.886818029833435,
-    "BB_Percent": 0.9478456221409804,
+    "RSI_14": 59.522588740113925,
+    "Momentum_10": 2.061418698502152,
+    "MACD": 3.2292170292873976,
+    "BB_Percent": 0.7061296782093239,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8250674254975223,
-    "QualityScore": 0.3918600213260899,
-    "SignalScore": 0.3985628980379126
+    "ValueScore": 0.7771524567805793,
+    "QualityScore": 0.4004336512434884,
+    "SignalScore": 0.5122961986341894
   },
-  "volatility": 0.0273630224659389,
+  "volatility": 0.0270589527736855,
   "beta": 1.001,
-  "return_6m": -0.2746219773979914,
+  "return_6m": -0.2138142944632223,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 38,
-    "target_mean_price": 135.55421
+    "analyst_count": 40,
+    "target_mean_price": 138.427
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 161.19
-      },
-      {
-        "date": "2024-12-10",
-        "price": 154.91
-      },
-      {
-        "date": "2024-12-11",
-        "price": 156.48
-      },
-      {
-        "date": "2024-12-12",
-        "price": 156.73
-      },
-      {
-        "date": "2024-12-13",
-        "price": 153.03
-      },
       {
         "date": "2024-12-16",
         "price": 155.82
@@ -537,52 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 122.16
+      },
+      {
+        "date": "2025-06-09",
+        "price": 121.17
+      },
+      {
+        "date": "2025-06-10",
+        "price": 119.91
+      },
+      {
+        "date": "2025-06-11",
+        "price": 118.63
+      },
+      {
+        "date": "2025-06-12",
+        "price": 122.68
+      },
+      {
+        "date": "2025-06-13",
+        "price": 120.45
       }
     ],
     "current_price_data": {
-      "price": 122.16,
-      "change": 0.41,
-      "percent_change": 0.34
+      "price": 120.45,
+      "change": -2.23,
+      "percent_change": -1.82
     }
   },
   "news_sentiment": {
-    "summary": "Datadog, Inc. (NASDAQ: DDOG) a récemment suscité un intérêt accru sur le marché, avec des mouvements significatifs d'achat et de vente d'actions par des initiés et des institutions. Malgré des ventes massives d'actions par des dirigeants, des entités telles que Wealth Enhancement Advisory Services LLC et Sanders Morris Harris LLC ont acheté des quantités importantes d'actions. Ces transactions pourraient indiquer un sentiment d'opportunité parmi les investisseurs, bien que la concentration des ventes par les dirigeants puisse susciter des interrogations sur la confiance interne dans l'entreprise.",
+    "summary": "Datadog (DDOG) a récemment fait l'objet de plusieurs actualités positives, notamment des recommandations d'achat de la part de courtiers et des mises à jour de cibles de prix à la hausse. La société a également lancé des initiatives innovantes telles que des agents IA et une plateforme de sécurité contre les menaces cybernétiques. Ces développements soutiennent l'optimisme quant au potentiel de croissance de Datadog, renforcé par des partenariats solides en Asie-Pacifique et une amélioration de la productivité des développeurs grâce à des outils avancés. Bien que des préoccupations liées aux prévisions mixtes aient entraîné une légère baisse, l'accent mis sur l'innovation continue à susciter un intérêt positif chez les investisseurs.",
     "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Alexis Le-Quoc Sells 127,105 Shares of Datadog, Inc. (NASDAQ:DDOG) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lwZE1GNnVOa29Rd1pFeEkxY19oTF9HR3o4VFgzLWQ2X0EzQnpEYm1RdDFjRTBpY3c3LXhmUEZNNDVtalJJSm10MEsxOEVUU01udjRQOFJMb2wwbXNYNk5ieEZXdndTd3Y3RGlVOWttMXdkZEcyWER5S3ByVkZUVUUxeFY3eTdPUzJmRV9CaWNpVldORnFWUVVOOW9PX2hWV09KeVVEMEd2b0FIZk85WU4wSFFSNG9DcTNQRg?oc=5",
+        "title": "Datadog, Inc. (NASDAQ:DDOG) Director Amit Agarwal Sells 25,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0JweU9uTGI2N2N2dmhEa1RQQWstT1NtUjFFVkRHWWZrZ0ZRTmhLeEVyNDlyZlZhZ3JiQnlKV2hOV1FpTGhBR05BT1NXNm9mQnNycE1uSm5ENEZQRjFpSnJSd25seXV0VFhLSU1WRFlFcXlDYzdvTGhrOEZFMkNpbHl4MldsX0E0YnhkMGIzQUNpU0dkZndzX3ZBQWRWMUpFT3NVeFFIQ21tenNJaXBDZTJCRWhTd1M2?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Datadog (NasdaqGS:DDOG) Approves Amendment to Certificate of Incorporation at AGM - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU5mTUI4NTdaSm1oQndVaWJJdnozS1gzV2t6VUJRcGgxTk10Y2E1ZzRnVVFQdW4yVHBpOEFkY1h5cDRGMjcxNHRnYkgyTGhmMDlMdGhQVEVBOFN4Wk5iMUU5dlF2M2VvV0tRYzUzVFlvY0t2VGdFTU02NFhDTm5TZzZFdXlxSUx1bmtyLW9UT3FkbXM?oc=5",
+        "title": "Brokers Suggest Investing in Datadog (DDOG): Read This Before Placing a Bet - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUtYb01EaENPQktQalNQZWU4VFFpMVFkT2xnRGRlcWxGZG81cXVKTWZLc0llTWFyV0hIdWptYzIzSHZRYmRoOWpDTjBvZXRNcjJCdWtvYnVJVzVzcGdERG1RWnVZd2FJcWVHMWZoal9kZG5YcHNGclI1WkFlVmh6NzhMT1BIVDlicHJUVw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here is What to Know Beyond Why Datadog, Inc. (DDOG) is a Trending Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUw4b2c5WEhlRHVVVkd3dm5NVHFZM3FzMUtEcFRZTzNlVWZuaHZPakpSYk9sME9HeUdGMHlGMTQ3dGxfYTRMZmo0OWlldDJoaGh1dTZtTHhQeElrTWJXbVAxOEd0N0YtSUFwRmk0WXVLTmttQkp6cHYtSTlPTFo4aDI4V0tlUTQ4cWxwdDVfeGFIdGdwRkE?oc=5",
+        "title": "Brokers Suggest Investing in Datadog (DDOG): Read This Before Placing a Bet - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXlqQVdtWmpfdDdMM0w2UF9qdWg4SFUtU09naUg4U2JUR0NvQk5aSVE0ZEhDcW4zSjBHdFpCeWk2cUJmbmt6NkZkd0V2bG9RckhHOEVkQzloWFVBazc1dVBMbWJiUnZWSzZqZ3Qwa1dobGNOS0hpbEY4UFEwUkNyeXpvV3BsSE15cXBRaW9nRHRtQjA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Stock Alert: Datadog (DDOG) Could be on the Cusp of a Significant Recovery - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTF2UHJhWF9mVjhkZHNZZk1qQ1lDRklZTHdXZGlac296QlY3X2NUT1FkdmJmOFB4WlRkYVRSbkJYUENNUG1fR3p4ZnUxdGY4a3FkZFAzN1daaUE4cmhmUW83OVhPTU1GZUliOU8wOU5kZmZmZkNLRVZYVVU2QlM0U2FIdHlQbW1kVmFmWjBWLWtqTzhNaXRUeDlpLThCT0MxXzU4MG1NYUxIdGZH0gGyAUFVX3lxTE1VTmEtdm1SaVNVQW4tSnA2R2ppOVVLb2VVeWJYVGhmMklRRU1mNzkxUjBUUW9GT2FiQmVXcVBkTktaRzQxenU5cVBmSWxma0FLTGNuZktKRGd6c1pENTB3VTdCaWZlbDV1eVJOMGpxa3ViMENtaUpTYWd5eVBad1NNWml2Ml8xUzNVM2tzeWFmYjlOMFRxSWZZWlFmUVhsZlJxWUJuTVRVUkkyaEQwZTV3WkE?oc=5",
+        "title": "Datadog (DDOG) Slid on Mixed Guidance - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTVRQ3M4M1F4WkZwU1RBa1dBWXZqd2lLX0cyWmktY0NsY1pBY20tMEdfV2R2ejZ6TmhVQ1NSdmd5dFlKTmR6eEQzQWt2ZDdIZmY2VjZobDRua2ZTZW1zNzBHZk9qWWFwbndOcFNGZ3pOc0RYOFRiQ0tZdlk4WUg3LUgybXhTUdIBjgFBVV95cUxNMWp1VVp0eGN1d0tmeFd6cWZxNEpfQS1KXzJfZnJyT0NHVzdtV0R5ay1oekNFS0dVWlVSTE9saFpWNWQxeEVxZktrQ0JGUGt5dS1DSHgxZ1JYQjROR1MyaVVuRVBHQjF0ZndOZ2NNbUltc1BSS1E4TTRkNFE5c0NHRXloT1pQWDFGdHpuQzVR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Datadog (DDOG) Upgraded on AI Growth Potential by Wolfe Research - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2k2VTc0aWdUei1XbDFWOFg5ZkR3WE5WcnQ2Z2RpS1gzZEZRTG95Q1FGdGdTOHpWWmlzQkxrTkNjdm9oNkg5dDFzenJsR2VJRnNlSEFoRWh1LXJIQXQzYWQzNXdRcFdFMndCdmw3UG43Z242TnlhTWhJNUlnRDRaVFB3UU9YZ2FBV0ZfVFJqekN1cnZCRU5aZjgxVHlCZ1UxX0JZb3dCdFVLaFRqam1OUEtDM2dJSkR0?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Is Datadog (DDOG) Up 12.9% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uUk5yUHpTV1RTOG4tRVppZ1hsR05YdlEybDJsYUVoTTZ0X0pXeTZmdXd2V2c1dy04ZERtN3JPT1ZiZDg0cjVKSmk4b19qT05NcmREZmpIdVF1QUdVQ0t0QUpFR2psVXkxLUc5a0E4MnR3NmdQbHc?oc=5",
-        "label": "POSITIVE"
+        "title": "Datadog Revolutionizes Enterprise Logging: 7-Year Retention, Advanced Search, and Data Sovereignty Features - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ3NpWjJCT3J6OTIyckhSVWU3ZHZPUURFZG9YN1ZhWjk4SW8yNE5xQVlNZHp6T1VvTXFQLVlqekVGY21IWkdIUF9ZMXJXSmFIa2VheUxvUTNSVGxaTmthOWFJMTBEeGFBOVFIZ1FyazFONGVKQVNUb3B0ZkFBem1mQzFqVE9GYnhDUkx1dFlpVGdPRVlNVWNSQ2ZoYmdwUDNTQ05YWm0wbkc5c25aZGJyS1U1NWItc0dXdzNqX2NFX1k?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Datadog, Inc. (NASDAQ:DDOG) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkM5UjA1QmdkLVRpTkEtdHZjR0Ytd0h3NEcwMlJjdThQTURaV18zbnJVRDVoUFotbmxXTFJlMUdUSjdLVFNfOWpKNDhrVkRhNEpQNk53Q2dENXU5emstQjktSGo3R0x6eVRVQ2pob2lfZ1VHb213c1dpQlVJMDFsaFNwU2FaSDZpSkRDZmJxWXZwYzBWWHpnWUN0Rk1Ga29JWWhXcGFYVWhrOG9aR2VpR19uVnJmYlc5RVpjaHJwaEVId0VteUp4aHJuRG8zSnBlNFI1aFc2SFp1dGJU?oc=5",
+        "title": "Stocks making the biggest moves midday: Chime Financial, Oracle, Boeing, CureVac, Datadog and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDJmLVRvRXVaTGl6OGQzOXVYYjZJdVd6WkU4XzVvbzVpUExUeGRILTlVMjN2SDRaMUZ5RHhoRnpRRExKY2FuQTZWVWN6VmVyQkpTeUpLZHRKNjJLNU5SR0w1dHBHSWdGUmM1SjliRzE1clZxVTVZU1FmTG10U0dvLVNXd3UtRGVyYlRjOXJ4cTVDZENUdXFqdA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,71 +596,66 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Olivier Pomel Sells 15,227 Shares of Datadog, Inc. (NASDAQ:DDOG) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVE45LV9VNXk4MDVka21FS25aS1NVYkx0UHQ3YW5Qa1BPM3BOcExvMWhlSGhHckhoZTBtdHRnYjd1YnhuckVFNkI2NHNuaTd5THJpbUxPekI4ZDV0dktTOExXNDhETU5GYjNQRVFPNjlZTDZRV3NlRXZPTG5LSC05RUZHc0lCVXdWaFVsNDY4dW1fSGxpQVhpTzFLMHNDSXo1SS1jSjNnVGUtbmNpd1Zra1lRbTMwTTROY2c?oc=5",
+        "title": "Stanley Laman Group Ltd. Acquires Shares of 61,207 Datadog, Inc. (NASDAQ:DDOG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDhXTmhDQ3ZzNnZxV2tIdGdwdmJTV3lXTWdkNExMcUVfTVBDOVJzLU1WUW1jVnBXOS1sT1BwdXRFeEFnbE9ONXd3dGFqTUdjb0VIVHpGRUxwdEtoUE96MUowYk5GS2p4LTFURWhzUmV2U0JBdUxkMVJOQUk2MU9aYWltenhMZm1NY0FGNHB3QVJzazdpZmstMmFQTGtVbGJpbTRNb09CYjFxSkY1djlUYnBMWUZ1VURCZi00a001NzhZU05rdllXekhmN1Q?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Sean Michael Walters Sells 11,167 Shares of Datadog, Inc. (NASDAQ:DDOG) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzZEb0hwTEJHRWticmxDN3JpSWdnWUpXZG44end4U0pSa1NZR0phMTJSa2FmeEVWWWFxd0xCZXdZZ3hSY1VHLW1HdlJkNnprNmtUVTE2Xy10LTNQYnBzY0pNcy1zV0pRTGxWMHBTa3ZYMFpRNDlkdXRLZ0tSTkNZa3Z6Y1dNd0REZ1U2VDZ3N2lmNEZCYUpQOUZnbU9hQlZXZERvOWJjTFBoNGxKWVkwdW01bDI1NzVQcFAwOVJQakFwZDQ?oc=5",
+        "title": "Datadog's New AI Agents Transform DevOps: 24/7 Auto-Fix System Eliminates Manual Troubleshooting - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHRNT0t3aXFxZC11b2RmYkc1YjF2bVY3dk5mUDhLTktfbHNYSm50cFU4X2U4eDJxUGpvMEtsd2ZOX3UtbkJFRXdjNHREYmRERzhNM1NyV21rT3Zsd0Jmck1GY2lXSURpWHF3RUM0WDZ6dGpEREd2Q1J5cHNqcmU3ZnZ2NjdhdTZWLWNkSjZrRmljQjZrRlV4MjlEM1BFZFVKUlRnR0p1LVF1V05JVkRGTmh2QXpOSVFRZGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "David M. Obstler Sells 35,016 Shares of Datadog, Inc. (NASDAQ:DDOG) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm5yUmtMNE1QbFRsVnVYVG1RMUhBbnFWbTM2Vjh6dEJDdTRsaHhHUFBmMmNJanlGNi0wV3QzaHprb3pGdzJ6dEtYV1N2ZjN4MHdFRzhnX3B6d0ZNbUZtRHo4aTItWTNUYVVkVzZ5cGxOY2hWRVhVb0NCUnYwZE9RN2drYW40Tk00Q1k5dldnLThmallhdm8xcHozd01PMkFlNC03d0x1OC1qcUVwRHVxU3lWem5UMTVuZk1YWA?oc=5",
+        "title": "Datadog (DDOG) Receives Upgrade and New Price Target | DDOG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkV4ZzFvNGlkWGdDazR5NG5GYXdXdnNDb3RHaTNRVkhTZjRMS05vcXJLMTRoZkdnM0tpV0FydHM5TmYwVVV3bjBaNXduS09jUk5OV3g0MWFLcGRqY3R3ZkZ3MGUwREt1NDVObU5QLXVlRUtvUnRiNW5xS0RLQ19qUi00T1ZITkU3RXN3WEw5RVBuczVaSUtrUWpZNGxCYml0aEhZX1dfR3htUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "E. Ohman J or Asset Management AB Increases Holdings in Datadog, Inc. (NASDAQ:DDOG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTRWQUUycFpSN3RZaGlyNWF3UzdGQ1lrVFpzb1JWZzJtZDZxZTRwelgtWU11WjVrZ1Z0aG5SSDlBVmJtOXprbHBaZFJ3ZkxhQTZiTVRIUXE1c0pZNnVnU2pJX1dDTmd2eWlUNGY4OURiUXVyVENMeW1POUVDU3BJaFBVZjFyeVRuWmRUaS0zSmJMYUlHbUxUMkplMzJFMDFPNXRkajBLV0hmWE9TNjB3bHM2bmtkdC02RTZIT21zMUJabG80el9DRnp1ak9aZ191eFhETw?oc=5",
+        "title": "Is It Time To Consider Buying Datadog, Inc. (NASDAQ:DDOG)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGd3ZEQ3OExpMmFWOTVkeEp2RUpzZUlfa0JKa2lNM0xzMzY3bk9GWmZvUlZ6YzhQNk45QUdvTlVUb0hueTQ2aGVpUEphTkFsaVpjd1hkRjZlWEFYNlYtOUxfN1ZiaVVudmpaR2hjUDZEbTBldXBGMDQxUGxDTkRLNy1LeVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Datadog (NASDAQ:DDOG) Price Target Raised to $140.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnBPcTRzcVRybm1mS1VzRjFrS2lOLWwybERLWTRqVjg5UzFvZkxVd0N6MWV5QzIwNTI5cWt1MU1hMTZtRktfTk9hMTFpWU5mSkhiQ3lKVXk1X2x4OHA2OERhTkpjb0Mxam15VTc3UWVLRTB6SnhYLU9qM2lDQjliNUg3Z2NiSFRXVEUtVW8xZnRSZzI3dzVacFlOU1J5WWR2Skg4OXI5T1NLVjQ2cEIxWA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "JTC Employer Solutions Trustee Ltd Buys Shares of 17,288 Datadog, Inc. (NASDAQ:DDOG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQclVBV3l4eUc2bm5RVC03UGpKSkw2SjlheV9GOTNsUzJIRjdjSmRzNXhodC1oR1RBSUo3VTlickU5Tk03VEM1b1JZQ0ZLalg3aDkxWUU2SUVwdW5qNWs1Q1p5RF93dVNBakhZMi1oeTFwWFI5UEZMUkFRNHRpOVk1bi1NYXlrS2J0U1BaX3V5cWIyZUhBTElkaUlYdG16aEZYMUpEcmVtU3FSVkFCWU5LTEFjaGo4cVo0eUoxcnJzNkRKU3V2WTRtOXc2RGx3anJOMFhqSFRLLTEtbHpITkxB?oc=5",
+        "title": "Datadog Unveils Groundbreaking AI Security Platform to Shield Against Next-Gen Cyber Threats - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ19LbUtYRUk5aDFWTmcyQ0pxWHdVTDRzaDQ0c2E3RDBrTTZ6QVQ1ckNLWW9Od2N2NDFSMVhyb2NBcXNXYWpDNmVtV2tlSV9oWnJVRkhDZ0pJa1MtOWhnUWR1SXB5eXptZkh6Q2tMcVg3c2pJNVRaV01qWmhhaDh0UXJFWl9hbEcxRFRZV2h3QW03WDF0Wk1WOFctRDJJSzBWNGJadGpOdkVOUEVkSVlMZXhwalZPanFIMFI4?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Datadog, Inc. (NASDAQ:DDOG) Director Sells $2,925,500.00 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTVEVnROWkl4VWY3TGtRekFxcTRkX1dRemZ4ZGFZc1p0VDhIUHhOREg1UHpjclFVX3ByaVE0UDVpQW1LVU9JSlo4RmtkY0tDYzFnR0NCZV9BOXZQdDloOWl1ZVI5amVSQTJaYWd1cElMVDl5YXRISkptcTVKWVRJdFRMNlZHaVAzYnVBQ0REUGNQWkd5R1hGV2dyZUVxaDcwSUdiNnYzUUNsS1dOdTQwMlJVTFhKeXBR?oc=5",
+        "title": "Datadog (DDOG) Price Target Raised by Needham to $140 | DDOG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjJ0b2x3Tm9jUUNCdk1lbEI0VHBFOVZUUjV6azJES0FRMmdKVVBZeHRyLVVoSFYwV0h2cU1IUEltbjNaYWZRakZRekF0MURKdmd1bXJ1ZVpVcFVoRzlzQm1SY1JLOFVOckFUOXQ4c0pfUDFWQzFYUmp3Nzl4ZWgzT2NRRVB4LV9xRW9tcDI0OWlwcmx5TFRYc01uMGsxLUJxaVRYekJ4X3JUdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Datadog, Inc. (NASDAQ:DDOG) General Counsel Sells 5,099 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVdBV0c1YnBFbzFWcU10WjZkLW1FSWNCX2ZhYkpOcC1wUGhUS3ZMRG1qdEd4aDBzNl9oMUtBOVJQR05DdWgwcjBLNG5NNXdEeWo4N2s4emlNUGtrcnRZZDhpbFBqcl9aVkxGaEtPZGJaRHFkbmtuRzViWmxPNkdOZlB4cHpjMWZGeUNUTkFDQ09GVlhPZUIyTmRlZUxNWk1tNjQ0OWJfand1LTJ3MG9CVm9tM3ZrVVpSNWkyNjV3ZmpxckZoa2RoNWRHZ3pWXzZr?oc=5",
+        "title": "Park Avenue Securities LLC Acquires 2,655 Shares of Datadog, Inc. (NASDAQ:DDOG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0UxNEpqQWc4V2hjUGxUN2pobVJ1YS1VUklQaU5hSmV4dWYxdUVVWFBXSU9CMzBKVk9rNEotVE5qSS02dWtIRVdIUHBCSlVuMTdhd1Z1M2phdHVQT0NLRTRZR2lrUndhS1BhS2xfcVo2c2JsZ2xpRW4xVnNYa2d4ZUhSQ1oxdUN3cGtpSGJubXI3OXZ4cmQtbENVdkVSWU9aOUV2OUVWVTZSbVJoa3YyOXNkeGpvQ1ZrT09wSjZibExVc29qdmRhRg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Datadog, Inc. (NASDAQ:DDOG) COO Sells 15,603 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWpNSDJZeU5iN1o3YmZqRmhFX3M5a2oteVd1RjJ0YU1DNnRLX1lvZlNnWkNSZVYwcTJHMU51WTJhQ0IxVlhNcjRfaXE1WU9UbmdWTjZoeldTU3VZZ2lJZXRjNmhpRmt4YmItWDRpTmVsODNmUHdqMnRCYU1HRkhwcTRXb0RZRXE1Q2tjUFREVDNTNHFNbTF4MmVfaWhCcUpuNV9zOXUzQl90bDRWWUNrcHZ4RU9VWGlOZG5Cb1dUVl9GQQ?oc=5",
+        "title": "Datadog (DDOG) Launches Powerful New Tools to Secure AI Workloads - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0g2QXBlNWZjRF9Fbjg4SXlabUF6aXd4QjVoMDFVRHdQSnp0Um5zT3RhbnBGTHpHOGRhM01pdy1SYWdPS1hTWnpWWWNYSjFKUjRuNDVzR1JRcW1CbEd0OWZBWHdOVW9EYTRuV25nNDlwYkQ0RDFNVzVvNjNyWEpRUzEtc3hvOVFub2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Datadog Partner Revenue Doubles in APAC: MegazoneCloud Wins Partner of the Year with 7,000-Client Portfolio - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFJQMGlLQjVFQmc5R1FOOEhETFRWWnFxaTJSQ2NsbExJX0NRZDE3U3k4RHBXSUhVa0tBUzZZQ2otR2RZQlBENDIzTEFpSmx4R1NjeFdxdE82UldFdWJKbmprcU9CSzI0Z2QzOEhGbDJnMG1rdWczaVJNYVhJTEE2cFBYSTVEcERVWDU4S3RLbmM4eGc0MGt5czQtaGs1ZUdxYkN3QU90TEViek9XbTQ1WmNxNEtWcjZmR3VrMFpQbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Datadog Revolutionizes Developer Productivity with Industry-First Live Observability Portal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnVUTlRYS0NmRDYzQVFzSjlibW5MQ3p0clF6VVRIWnNVY0FKamVLOHh6S2NEckFFVGxuWDd5dGxoak1rUnZId3l0REctVWRiRHV1LXlBZmdhWHd6LTVzMnFiWlhwMnlyU2tvV2s5c3FoQm1ldzh4WFZLVkVJOVN4VXFLSUJ3RV9zM294c0hOUVZfc0ttRzM3UldrUERmWm0teEtBeFd6QUtlak9RM3VCdFpvT1pkbVBYTS1Ea09xbzY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Datadog, Inc. (NASDAQ:DDOG) COO Sells 14,710 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlB6SUk1SzhiS1lnUUZZYzZDcVB6QXFwcF9hT092YkN1WWZ2VzdrS0xyMzN4VVJmdmx2YkRaSm1nak90dEpweE9MNDdXV3BBb2w2b0lBZHAwNnpXWFFUd1l2dE9hVkVxQ3lnVHlNai1HWHpWX0dzSk9pdWY5b2ZncGVjLTZBcjRwQnBtRUhsb0F1QlFEaEpEYU0wcUtmYnZ4OWFTSDNjYVU5eTEwS1Q1aWllZGk4RHNxZnVhbG1EVW1mdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Datadog, Inc. (NASDAQ:DDOG) Director Shardul Shah Sells 23,748 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkxrWC1NdHVvVnAzRG1uUG5oNk9pcVV0SGRXLXlHY1g0U01xXzJKV0pMUmdwUWdBMS1qT2VMTFVXTjFHdnFLUXB5MXppdzd5YnVwTzNjUHRBaExhZmV5NEdWNVZtYXlvRllCS3pPdks0Q18xa1dKVFh4WTNZanZTWDg5clAtUmU5dHRQcEI4NlBZX1R5MlRVYkxSN2FROHVGT1gzUTlXQlZ4bnpsZnJudDAyXzNEWkpN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Datadog, Inc. (NASDAQ:DDOG) CTO Alexis Le-Quoc Sells 13,766 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3hGMFJLMG1HaDFBQ2UyZlk1ZWVITWFQdHQ1cDdrZU5mMXpUd2tGdmlPaFpIZzdGWFpodTNwWnI0U25wQmdSUnJUeUJCQUdsWU82ZVNWUTJSb0xJTlRJdk9xbzM0dzFnQmlyczdUdHpsQWpoaERFSzBmWjZUajVYeXM2eE1ocE9ndmZ1d3U1RjV2ek5yLW9DNDBpMHJZS3FxN2VaSXFvdFg2U1RLc2pjMmNiZEI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sanders Morris Harris LLC Purchases 37,847 Shares of Datadog, Inc. (NASDAQ:DDOG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzBGN3MzWERYTW9CeFIzVFhFY0RKUmdPZEVVMlUtUDRtQjdTdDJpVzRyQ0V6MVRFQy1LSzMtV0FIUUJVYWRLelBWMDlyZHo2YlBKUFg0bTFMWXlTaU9NbmRkby1Uazg0SXVaYmFwTzk4OWRKWkFEajJUc0JReVVxaERhekg3WS05WDdlQTNnbzc0enRGODQ0cXZEVnVFQUVJNkdmY0RPZG5ReF9NbnkzQnhUVkpaemVYR0phaWNveFd5QkNBc01VYjJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Datadog Executives Unload Millions in Stock Sales! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORml3MTQ2ZnJPZ2pXa1RIMm5MbXFFalh6dzZ3a2ZMN0JSTkdhX2J0elhjd2pnN3ByTzZCWVBtclphZERWVUl1OGhsYTh3OWJuVGoyc2FpV3Q4c2RmVTNTd2dRMTkwR3l3VFZpeDlmM3V4Y1Uya2NpcGdDR1pMTkxiaVVfQnl1SFhxVldzVWttYlpTWjZVbXZRSzZ6OGNZQ0VUSk1fdEFpU3RWZjFWdm5LNw?oc=5",
+        "title": "Datadog, Inc. (NASDAQ:DDOG) Stake Boosted by SG Americas Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkxEU3hYXzVNenVXRTYtbzd4OHFvOTFhMjkyZExaLTNqM29yWkxuQ3RsTGxRZzZINUxtNEYtbmRXV0M1a0tYWkg3amlvYTlIRHJBNk8wTFRmdjdIa1llM1dNWENwbGhXQmZqZDRiR24wbzJpeDBPcXI4Y3BhZHlOMGg1eG4zSUROVlV3VU1YZlZydWtXY3ZHOC1JelduY2hIWkYtbFRiVnhLdkxFeThqWXVydFJYY25aSXVNNERIM2lvN0tQcEcyWkFWQVVnNl9oTFVFUUtWM1hvdE9Kb3c?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

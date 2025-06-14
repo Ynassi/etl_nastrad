@@ -3,15 +3,16 @@ import json
 import pandas as pd
 from tqdm import tqdm
 
-# === Paramètres ===
-DIR_JSON = "output/insights_enriched_all"
-OUTPUT_PATH = "output/df_sentiment_full.csv"
+# === 📁 Répertoires ===
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+DIR_JSON = os.path.join(BASE_DIR, "output", "insights_enriched_all")
+OUTPUT_PATH = os.path.join(BASE_DIR, "data", "df_sentiment_full.csv")
 
-# === Mapping pour CapType ===
+# === 🧠 Fonction pour cap type ===
 def cap_type(source_list):
     return "BigCap" if source_list in ["SP500", "CAC40", "Nikkei225"] else "SmallCap"
 
-# === Lecture JSON et extraction des données
+# === 📄 Lecture JSON et extraction des données ===
 records = []
 
 for filename in tqdm(os.listdir(DIR_JSON), desc="📄 Lecture des JSON enrichis"):
@@ -76,10 +77,8 @@ for filename in tqdm(os.listdir(DIR_JSON), desc="📄 Lecture des JSON enrichis"
     except Exception as e:
         print(f"❌ Erreur avec {filename} : {e}")
 
-# === Création du DataFrame
+# === 📊 Création et sauvegarde du DataFrame
 df = pd.DataFrame(records)
-
-# === Sauvegarde
-os.makedirs("output", exist_ok=True)
+os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
 df.to_csv(OUTPUT_PATH, index=False)
 print(f"\n✅ DataFrame enregistré : {OUTPUT_PATH} (shape: {df.shape})")

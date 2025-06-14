@@ -2,16 +2,16 @@
   "ticker": "9532.T",
   "name": "Osaka Gas",
   "sector": "Energy",
-  "market_cap": 1439839158272.0,
+  "market_cap": 1435891531776.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.887314,
-    "PB": 0.85258484,
-    "EV_Revenue": 1.098,
+    "PE": 10.90669,
+    "PB": 0.8542303,
+    "EV_Revenue": 1.1,
     "ROE": 0.08076999,
     "ProfitMargin": 0.06497,
     "GrossMargin": 0.19601999,
-    "DividendYield": 2.9,
+    "DividendYield": 2.92,
     "DebtEquity": 49.729,
     "CurrentRatio": 1.983,
     "QuickRatio": 1.13,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.013033712815708628,
     "ROA": 0.032509997,
     "PEG": null,
-    "EV_EBITDA": 7.883,
+    "EV_EBITDA": 7.892,
     "BuybackYield": null,
-    "PriceToFCF": -53.39263579667484
+    "PriceToFCF": -53.24624848490372
   },
   "technical_indicators": {
-    "RSI_14": 53.32075026428722,
-    "Momentum_10": 0.3597122302158274,
-    "MACD": 25.178056068025853,
-    "BB_Percent": 0.3755694771466016,
+    "RSI_14": 54.147824384399314,
+    "Momentum_10": -1.0618023414102913,
+    "MACD": 12.970167441517331,
+    "BB_Percent": 0.5353878029735782,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347679918281726,
+    "ValueScore": 0.895579109739096,
     "QualityScore": 0.4238033773326044,
-    "SignalScore": 0.5634636968824855
+    "SignalScore": 0.5660510722232344
   },
-  "volatility": 0.0142080358053184,
+  "volatility": 0.0139786971746022,
   "beta": -0.172,
-  "return_6m": 0.1453892318613006,
+  "return_6m": 0.1327783619928497,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
-    "target_mean_price": 4308.0
+    "target_mean_price": 4368.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3210.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3225.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3163.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3215.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3268.0
-      },
       {
         "date": "2024-12-13",
         "price": 3252.0
@@ -525,16 +505,36 @@
       {
         "date": "2025-06-06",
         "price": 3627.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3643.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3614.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3608.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3602.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3634.0
       }
     ],
     "current_price_data": {
-      "price": 3627.0,
-      "change": 2.0,
-      "percent_change": 0.06
+      "price": 3634.0,
+      "change": 32.0,
+      "percent_change": 0.89
     }
   },
   "news_sentiment": {
-    "summary": "L'analyse des dernières actualités révèle qu'Intel a récemment lancé la gamme de processeurs Broadwell Xeon E3 v4, offrant des variantes de 95W, 65W et 35W avec eDRAM. Cette annonce souligne l'engagement continu d'Intel dans l'innovation technologique pour répondre aux besoins du marché. Les performances et l'efficacité énergétique améliorées de ces processeurs pourraient potentiellement renforcer la position concurrentielle d'Intel sur le marché des serveurs et influencer positivement le sentiment des investisseurs à l'égard de la société.",
+    "summary": "L'analyse fondamentale de l'actualité récente d'Intel révèle une orientation stratégique vers des processeurs plus économes en énergie, avec les lancements des Xeon E3 v4 de 95W, 65W et 35W équipés de eDRAM. Cette diversification de l'offre pourrait renforcer la compétitivité de l'entreprise sur le marché des processeurs. Cependant, la concurrence croissante dans le secteur des semi-conducteurs et les défis liés à la pénurie de composants pourraient impacter la rentabilité future d'Intel et susciter des incertitudes chez les investisseurs.",
     "sentiment_score": null,
     "label": "POSITIVE",
     "positive_ratio": 0.0,
@@ -550,5 +550,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

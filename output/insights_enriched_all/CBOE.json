@@ -2,16 +2,16 @@
   "ticker": "CBOE",
   "name": "Cboe Global Markets",
   "sector": "Financials",
-  "market_cap": 23342202880.0,
+  "market_cap": 23702835200.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.254068,
-    "PB": 5.244219,
-    "EV_Revenue": 5.488,
+    "PE": 29.667103,
+    "PB": 5.3252406,
+    "EV_Revenue": 5.574,
     "ROE": 0.19018,
     "ProfitMargin": 0.18604,
     "GrossMargin": 0.49293,
-    "DividendYield": 1.13,
+    "DividendYield": 1.11,
     "DebtEquity": 36.019,
     "CurrentRatio": 1.603,
     "QuickRatio": 0.785,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.18778132494587557,
     "ROA": 0.09319,
     "PEG": null,
-    "EV_EBITDA": 17.359,
+    "EV_EBITDA": 17.631,
     "BuybackYield": null,
-    "PriceToFCF": 28.717638943783058
+    "PriceToFCF": 29.065168957956242
   },
   "technical_indicators": {
-    "RSI_14": 47.92348896499581,
-    "Momentum_10": -2.3071553781219745,
-    "MACD": 1.1174404261535074,
-    "BB_Percent": 0.382672412787549,
+    "RSI_14": 52.91580801634221,
+    "Momentum_10": -1.3584531508814028,
+    "MACD": 0.3496529747602892,
+    "BB_Percent": 0.5129291476756309,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9296089155208372,
+    "ValueScore": 0.8774332256612907,
     "QualityScore": 0.4485325848938971,
-    "SignalScore": 0.6199336576005876
+    "SignalScore": 0.5763013329521376
   },
-  "volatility": 0.0154942322382016,
+  "volatility": 0.0155138776996385,
   "beta": 0.428,
-  "return_6m": 0.0927790301651867,
+  "return_6m": 0.1262812489916618,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 201.6
-      },
-      {
-        "date": "2024-12-10",
-        "price": 203.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 202.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 199.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 200.98
-      },
       {
         "date": "2024-12-16",
         "price": 195.65
@@ -537,28 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 222.6
+      },
+      {
+        "date": "2025-06-09",
+        "price": 219.55
+      },
+      {
+        "date": "2025-06-10",
+        "price": 221.1
+      },
+      {
+        "date": "2025-06-11",
+        "price": 222.89
+      },
+      {
+        "date": "2025-06-12",
+        "price": 226.3
+      },
+      {
+        "date": "2025-06-13",
+        "price": 225.81
       }
     ],
     "current_price_data": {
-      "price": 222.6,
-      "change": -0.2,
-      "percent_change": -0.09
+      "price": 225.81,
+      "change": -0.49,
+      "percent_change": -0.22
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de Cboe Global Markets, Inc. présente des tendances contrastées. D'une part, la société a enregistré des bénéfices records, stimulés par une ruée vers la couverture des risques tarifaires. Cependant, des signaux négatifs sont également observés, avec des déclassements et des ventes d'actions par certains investisseurs importants. De plus, l'extension des heures de trading à 24/5 suscite des interrogations. Ces événements récents pourraient influencer le sentiment de marché et nécessitent une analyse approfondie pour les investisseurs intéressés par Cboe.",
-    "sentiment_score": -0.05,
+    "summary": "La société Cboe Global Markets se démarque dans l'industrie et est actuellement négociée à un prix avantageux, suscitant l'intérêt des investisseurs. Malgré une réduction de la volatilité des échanges, l'entreprise voit son activité impactée et a été rétrogradée. Un récent remaniement de la direction a entraîné une restructuration majeure. Malgré des avis d'analystes en baisse, des investisseurs importants ont vendu des actions tandis que d'autres ont acheté, ce qui reflète des opinions divergentes sur le potentiel de l'action. Les bénéfices records de Cboe, liés à la ruée vers les couvertures tarifaires, pourraient influencer positivement le sentiment des marchés.",
+    "sentiment_score": -0.15,
     "label": "NEGATIVE",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Stake Boosted by Unigestion Holding SA - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5yTFV4UzlKX0VCRktLUFg2d1ZSLVF0d2JrdWNuWGhlcW1KM3REa0xQV3JndkxvQVZKM1FBREFNUS05YmR5eHNOc0J6YU1oLUFrQ3E5UTVzVE1GeTZCOVZkeDRXeUs4RC05OUJEVDlBMUdBSkI5VGlNTlM1VkwzcGtXNkRzZWpkcS1KMXZqRXJIUHE2THdtUW9pVVFHQTktR2YtbGtaVksyT3A1enpyUC1GcXFucUROWTZQU1AyNVBZRDFOamx0enV6UHBleXl5Rnc?oc=5",
+        "title": "CBOE Outperforms Industry, Trades at a Discount: How to Play the Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUJBdkY4eXZwdnhKT2k2TXNlU0VHRVd4Qnl5dzFnV29DVXRjZFNIY0VNR2lfT1U2NlFja2xBU1JCNV90anpETGJfSC1MSm5BS2tkWUh4VW4tN3FIbGN1N211R3J3eWJNNC1McGtBbDlkNE84QUVucHVyYnByTlZ1NFFqTG9pSmhqb2ZBeTNERER2Zw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "CBOE Outperforms Industry, Trades at a Discount: How to Play the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWZ2SUxHUjF2R29heFRvT2Q5UkNyMWhweHMwMHcwN0MyaHJzemhYdkI2VC03OW9JYTFxbmRTckZBNW03X1o0OGJVUXBWT2xpVk0yUmRaelFlYnRfN3Rub2h1ZC02MFR4S0NqRS1iamdOSkhUNFNicUt2MC1ILUtPa3ZLMU90Sjd3OXdoTXRXVnU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Tobam - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2tZaHIzakhMcFU2U05rQ2ZOU2VQN0tKTUNXRWFYTWxLVjN5d0NpRFlZTHdzR2xiZzJPanZnNlZQdFVtREU4TTFSMlV5N1NQTVQ1UzBhN3BRbXhlcUc3ektzbUJKeV9PeXRtODlXcjQ3enJtVXA0YUNvcjAzMkhwUE4xRHBteDZmQkxkckNDZzRjY2NjMUdQV0g2dHE0LW9UZVozLTNqRTJzcXZQMWRySXQ0Zk85ZjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Crypto Futures Trading Gets 24/5 Boost as Cboe Consolidates Bitcoin, Ether Products - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0ZVTzlyZ3hHUHpfbUptcEh1aDNEYmFGenQwS1RLVUxRXzhSeXJubzFmbWJhaEc1a2dlNHdnQ3JLc2JMMjhIQmc2QmxRZnVfMWx0VThKbW1iWXlyMndMaF9paERQbEstMjk1N2kycUI5Sl9XaFVnaDZLNHhKOWROU0p3RnpTcDFxNGNFNmgtYWR5S3dIcnFqR2JHMVZaMTRIcDhacDJyeTljcHJpQjltYVR6ekpUZEJI?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "As Trading Volatility Eases, Exchanges Lose Tailwind; Cboe Downgraded - Investor's Business Daily",
@@ -566,49 +581,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Market volatility: Identifying and quantifying investment risks - Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mYmp0c2ZfOGN5Z0duOHRneGllbVhNUS1WVXdjMm5YdzVSVHM3LVd2RVVkUjFzLWlqcTNvS3ZZTjF2OGNidDlDemRnYjFhMWhNODhwMUxscThhWkttUTl4M2toYUpnQ2s?oc=5",
+        "title": "Cboe Global Markets (BATS:CBOE) Consolidates Digital Futures On CFE For Unified Trading Experience - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHZIQXRpM05pVHlnME9jb3pxY25OOHpLUXhHTlVXTW1LRHkwbUtOWUh5YVlucW9ZcFEyM0dEdGhPbjFBLUxLVURkNkJSVDZrUWR3VEdzczE0U0NkNzNfSmJFRWJHMzV2X0NaVkRWLXFDQ0dzdVl5aWE3amZ1cmhFM0hkWkdSaVAtM2RKc203UkZURVNBNnVtYUd1TXQ2ckpPajlTY1U5RkU4Mzhsay1mTjRFdmxPUkQ2bmF3cGlqcDJPd3I5bGNzWnNuQWhhOFVFeEw4MEhYSmJ0SkcwZzZ4S2ppajjSAeoBQVVfeXFMUDVGaVJlLUVIdlVzcm1vUjVGQ0g1R3ByZkdpeWlELXFTWlhxWDNKOWl6UUE4Q2hjbmxFRW95WXg2czZNMlp4QjRnckwzQ05vcU1LeWE0eW4zaWhYTFpUMmNsWVAxX0J3QXJ4MlJfa3IyRmpJV1BWMk5fYUFxUEFsZE1YU2ZIbi10Y0NSbW9RZy1hLXMxbVBNa0FSZ1lJdHZSakptMDNqblpVNUZrM1VuamNmWGZKaE1jUXZ6SnV2RjJJY0syWHptZ1dKd09CeUo4YUhBSzFpU3BROHYwN3BseG53SzRYZG8zQS1R?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CBOE Reports May Trading Volume Statistics | CBOE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3VFMVZySmtOWVcxd2FLdnZfSDBpcWhxeWg4bGYtTjROUDBrOUhPOUJ5Q0xZWU1QS3diWVRvb3M1Y1lNMGtYaFIzRVNJcnVZOFowa0N3NDQ3VmNzVC1hUG53YlhfdkVIdlpiVlo2VURjTEhRRktWVVgxZjNQX3BpX3JMQ3RWOGpkRGR6UjJDa0pTQUE5Y1JXRmgtSUNjUC1kd3RubzBPcUstam1SU2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe Stock Exchange to Extend Trading to 24 Hours, 5 Days a Week - Bloomberg.com",
+        "title": "Cboe Stock Exchange to Extend Trading to 24 Hours, 5 Days a Week - Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeG96WFNmMU1GR1VDVzE4QnBBZjh5SktKVGpOOHBTMVJ0MGpSTHpPZ1d3UTBieVdiVDV3Vkh2VzNtRXZGUTdzTkczTm9Qc0lGRFVWcG9wdGIyejFWYkZkeWhqQ3NxaXQwclJyS2owSTVIR0ZFamlDN2IwekxhUlpteDhLS2NxZFZ4TXFGUGE3N2ZQdzYyZGNka2o4UWNnM0I5NmEyS2REMHlIR3hydkN2TWJjR2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "(CBOE) Trading Advice - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWdPeFNfZl9SMVRNRF9pSmZESHpPMDBCeGFoVU9xRUR3TmJSdFBkY3BoU3BLN0JRM3J1ZUJPbW0tZnQtcmdONUtPWnphUWc0eDg3Q1hpbTVLSHloanM5YlQ0Y1ZLd1RQR3d3QjJ1WHdjZXJoSkNaT1VrY1J1UDF5TmRIQTI1YUpvdzUxNmlndnpBTXdvaWNmT2Rn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe delivers record profit as tariff risks drive hedging rush - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmhGQWQ4blRkMHpqaFZ5SWozaExEYzF3T3JsR2NyX09mdTRZb29xU0x0SHVmc0lxcDZYTEE3cDZNMGpVTFZEbjRfTVhtT0k5LXgxdldOZkxYNXhGaFNxcDVjc3dmeGNGazFfN2lubnpKNkt5SFFjZWxXdmplM0NDS1h4M3MyOElQZlUxTG1IaXlNLThaMVBWcGFPdFBYNzZLbkE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ETHU Stock Fund Price and Chart — CBOE:ETHU - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43N1RJRjBoR05RZE9pVGZmQXBoM1Vtc1ViNjcyUlpVUnNScEVfWmxRRngyaWhDcGE2QkREMW9hWUtURlFTbnRZTVhicEkySXhKaVlpY0xLc2FNQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe stock dips after double-downgrade to Underweight at Morgan Stanley (CBOE:BATS) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazRjano5M1lxQTdtX2xJUGRmZUI5SFJLcDNiVDZsU3pTRkxQUS0yT1hLTjE1d21UX0dGa1drRkxZSFRKN3V3VmlReDVVU0hyNk5IQzZSdnpSSEw2Zy1kV3pXREFwNk4yN3h6RGowSFNFRENKdVpMTS1lT0Rsb3J0YWk0X2dPS3kwa2RBRTdzSldwOG5BMVdESVFjdVJPUWxUbWFPX0F6THk5NnJFbWc?oc=5",
+        "title": "Handelsbanken Fonder AB Decreases Stock Position in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT3RJdmZpZ1hDV2hTeDNzR2lLTDMwQWZ3bmx4d283aDdNN0pKcXY1emtNbTdTUmJjMFdFTmpCSnR4VHpQOGhTOGJ2bmJHQWhIZ3JQOTJabXVGMkRxLUQ3VE9wVzRmMmFkWjB1SnlMQm16QzJ6MHB5ZU5rUUIySHZRR196c2RqU1N3bmp5Z1VSNHk2YS1tVHMtdnNPQncxSGFobFU1UjhhQl9hcUhWb012MkM5cm1tUmJmbVRoZmgyVF9xYVJzTkg2TzllYktuWUNIcUdCQXpReWJlYUxxN09sbA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Cboe Global Trades Above 50-Day SMA: Time to Buy the Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2dNNEpiMTBjbUVSNkw0VFdWU1RrNnE3dXk4UXBKTnRpdEZWUVZXei1vLXFwUDdDdzdsdGljOVJ3RmNqRkU5VVUzV1k2ZGREbnRQdlRWWlpiejVtLWRlWG1TbUhDbEYyaGcxaEU0S0s0NkhKZnFGRGNnbmJiRFNSd0tyVWs1ZjhJbHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWhCcWpDcnNQb0s1ZlFWVXpjeks3clhYVVpvLXZzUWZGUE8weFV1Vkp4d1BVRlZ2NHNyODVuTVNhaXVaVkdLeEhrS2dIcDFLTWtlcEdQXzVrM3NHNUozaEd4cjNSdmNPcDZQcDcxWExJcXlRV3puNFA0SHYyX3dSVWRhaWFzcHM1VnpYRU5KLXZIdGNlM2NkWm5zSlN6S1J2bGc5dk9rWlZYcnFYSXRvY2dua2hFQlVhTUw3ZmJDWnBKU0xoOThvWXR4T3pQdkw0dHl0Q1RiLXFGcm5fQ3BOM0doZFQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Leadership Shake-up at Cboe: Global President Exit Triggers Major Executive Restructuring - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2FQd0FNMGY4ZzlYVVBDLXRZS0d1aVU5WERrS05JdHF1eVJWOFg3UFh1NXZCMG5hdEpHanlUdmt5bHozZi1WTkc1V29IRThfQU9LTHNzUGxZbnlzbzNVRlgtT1l6VDZWQ2p3bldhd1lCTmZYRmJXaENhSmthaUtPd2U1Z0RoQldkdS13NldDalNDVUFMUWoyZ0Ftci1aal9NUkppbjI1VFM1ZV9EcDRuOVN4WHpGc1ZjNkZR?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Cboe Global Stock Outperforming the S&P 500? - Nasdaq",
@@ -616,46 +606,56 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Rhumbline Advisers Has $50.87 Million Holdings in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVZQT2FLNnk2R1VKQVdUeFRwVFR6R293NHRBWllELVpzRXQtYWFxd2wtaUV3Z2ZPYWhfSWZoMDVockJkZnB5ZS1INU8tTHhGY19IM2Fsa19ub0RYc1RhQkxjQ0kwNjZmOVM2dnBENHNCXzQxeDBZQXF6RGt4WmQzV1d2S0h6b3ZYazFWT3Y0dmhjSldlZjZ4c25aY0Ftdl96RENwQ3BnQnpGZUxaa0NlMzhWOW9uYkhfOHc1cDlDZ3k4aV9PaFo2eFlKeVQtMkM3djBZRWJqNnFtcWRlSVI1ZUJ6dw?oc=5",
+        "title": "Central Bank & Trust Co. Has $1.54 Million Position in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ1dCXzNOOTZfZ0E1M0JxbU9tcTV6Mk55UUFFd00tWFEyTnEwWWFNTFpiZTVsdU1SdHRpNEhwQVdULVJoY3k5YVRaZzEycHI4OUx4bHFkOXpPLVFZcFhtdTMtSGZVWDYxMXBXZlRpV3hvTVBFX2ZobEUzNE1JOFpDbko3ZGFpVFZRbmR3bGpPLVozM05qdU1adm1wcS1zUjRnUWRGTHpLOTB4NS00a2JUc0xVYXU5eDNRSkNwRmh0Q0xuQnM2NTVpV3ZtS20wMzJ1TVp2YUZUTy1Rdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Purchases 1,346 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1BGRVMxQld0X1VrdmdUakw2dGhERlBkLXdsV0JlbW1QdDlVMjJxQlh4LS0zMUVjVVdRMEJHUzVNY2VFTHdCSTZtSTI5bUd3TlVQdmhfcmRraVBHazZRSGdmUlNDMTNrVlpLaHZxb0lrbVcxdmNuQ3Bic1MwYTZXLUs4NFZUTFFqUDhtRDFDcDgtdkYyYzBsU0huNDdKTDBxUmZaN0hhY0FmbHBQbVliWE9BZzN3QnpuNS0xWGZsNGNJRnJDaDBMbVF5alFIc2loYUx0SnFmOUppM1k?oc=5",
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Sanibel Captiva Trust Company Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN1loS21UcTZBSy1PcENHM3JZaDludHBUQ3hxU0J3N1lGcGs4b0pFSHdtVVg0TWRnR1l1UlhGUGs0YU5kZTZMdmI2ZzZsa0txUHJhbXdxWTRfcWFiNzNlWXVGVU9wdUc1ZHZCR1dxZVRnVmQ4aU1ybGRBWThaOFo0bEJsZUNaTTg4OTk3S09Fck1UVERVTHFzcUljSnhfMXZRaUt5SEFKUzNPenFCVlI2Qms1NGxTMmpyRmpFZjVlTHE3YVVlQlliN3NlcERiY2NmM0psZGxLTnRrY2Z2VmozTVBYR0M?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Increases Stock Holdings in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2lpXzlockZOZmhHY00wbHVqVGVUeXhHQzJYSGNhTlhFMWdQTTRUS2EzYmZsZWtkWVZDU1FlTl9yNFREXzdIaWkyX3ZwLW1YbENibE01aEZQdnlJYlU2YjR4QWN1aWNsclFRX1V0RGR6WjFRUHNiM253d2VwQl8tNnhkYjMzblY1SVh4bjJYN0NvNWl6SmoxSDZuX3lzWXJPUGMyTmN4YzdLRENSREgwMDVRZTFZOVJ0Q1FjMGdWRTU0V0FMZTRpaWozbGhtM0dHUFE?oc=5",
+        "title": "Wellington Management Group LLP Decreases Position in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT19PVlBPaG5UTDlBRms4dU96ak1IVTNYUW5Zel95SExFWmxFMUIxQWxTRm5PU3RTMzJ3UTZ2eVBkcjctN2FhVGgxdTRzWDM2bXdlaHV0OWI0YUJYbWprMWVxNHBPU3BQSDhqSFROVHRXRWplTGpIMFpTZEU5UUtyVE10QXQxZFdqMGlUTE1CMUR6dUpfNlZlQl81S3lwN0p5U0Jmd3Y0eVRVR0ZJNDhPNThhRHVPUmd1cnNMMjdHSW1wMWJyS01Ub3RqVXdDcFYwbXN6bXd0cHZ4a1F6TG95eXc4QmRkYXJoTzJvMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Given Average Rating of \"Reduce\" by Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlhxWEVtR2xwZlJZLVY0bGxMZnpmdXh4ZDBvbHF3Qmt6MzlMVVJFY0Y4RnJxSVI2VzNrcEtXY19fellSMVpfajRfeFV3dDNNb1VPQWFyYTlrblpQM2ozbWpjVmdHRk5rQUJYNmRIS1ZxaUdjTDdvZ2RIaHU3S05zZ05GTjNBRXZZcjBSSkdKcFRzNEtNcFJrNHN3amU1eF8zWjJrbTJNVEFJcUdOTzg4Znk0aWlLU2ZqSmt5OTVlUjJRZU9DQ29QSUhsSWdGdnZQVmVkNmVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Invests $426,000 in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVFDWnBJUFBtOVJQb2FtS0hmZlZrX19sTDFwcUhLdGp3WWpkTlA4MGdGZHJ2UHNVbzUxWlNOMFpHako5eXR6MVE4U0VlUWtIeDZ3MXFnTF9ZaWdJZ3dXQkxfUFhmcjNsVEdtV1owUmtzaGtaSGxrZTVvd2tySVdRYXI5T2MzbnV3cnlpa25nQ1llQzlJcmZrYnJHMjdvVkt1WXBtOVA5UmNNNWRWc1dveEpGRWQ0TFlqYXhYU00tMXdTQjJyZVd4QjI1X3dlQTFDc0JWQmN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "16,413 Shares in Cboe Global Markets, Inc. (NASDAQ:CBOE) Purchased by Vest Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeTdsTHg5aEE2b2JLaXJ2Vmx1b0drMy1tQS1HWGc3YmkxaGdfTVhOYlVOYThaaTZabk45RHlWVWZ5VUlsSmlXYzZuYmtlcWp5cUFMZUh5LTB4X2t1czk1dVVaMkw5VW9rMkdFQUFPc1lacVMyRVhyR0gtWWJZRlBKS1o4U1RvTFUxU2c3WEVyZFotcWJ4aGowekEtcnRIZ0Fla29GSUN2dnM5WFhzcjF1dVVCUXJ3aHE5N2xvSDloTkpwNXo5SkdncWFKNkllZE52RnFnWVM1VEZuX3JW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Bought by E. Ohman J or Asset Management AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcXdKTmdEZU5BSXRuTkRUaEx1WkRyTUpNbXRieHJ4VWRtcDVndnIwbUhXYVJRQl9jTFg3M29jSnZodHlUN19WMTFhWFlaNmFoWXNjSkhwSm5GV2taWHFTUUptRXRYTlhkOWg4cXBQbElmc1RqVG9KLURUaGZ6VXN0b1F4UVBCWjgyRmsxLXlHOENidFhlOVUxX19IQ00xM18tWVFqa2lqTm5LdUtPOW9MOGtscHZlNG1HVHhlMElQcGZDaFQ5UGxEZW13X0llZGpJM1pvMVI2dFFDOF9nWDc4cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Global Trades Above 50-Day SMA: Time to Buy the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2dNNEpiMTBjbUVSNkw0VFdWU1RrNnE3dXk4UXBKTnRpdEZWUVZXei1vLXFwUDdDdzdsdGljOVJ3RmNqRkU5VVUzV1k2ZGREbnRQdlRWWlpiejVtLWRlWG1TbUhDbEYyaGcxaEU0S0s0NkhKZnFGRGNnbmJiRFNSd0tyVWs1ZjhJbHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why CBOE Global (CBOE) is a Great Momentum Stock to Buy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IcHV5dHJ6VVdkeW9YSTRva2dsdUptLUdZRWdiZ0tMY0ZWTUtURWNNSHZzcW0ycjMtZi1NQ2RZYl9vdHlEWFg4S0E5Y2xTWHJoZUFPaGtQUmhTOHpKcU9iNFNvaktPNWVFSnFrVkJqNzhYMWlxdS0xREVJU08?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe delivers record profit as tariff risks drive hedging rush - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmhGQWQ4blRkMHpqaFZ5SWozaExEYzF3T3JsR2NyX09mdTRZb29xU0x0SHVmc0lxcDZYTEE3cDZNMGpVTFZEbjRfTVhtT0k5LXgxdldOZkxYNXhGaFNxcDVjc3dmeGNGazFfN2lubnpKNkt5SFFjZWxXdmplM0NDS1h4M3MyOElQZlUxTG1IaXlNLThaMVBWcGFPdFBYNzZLbkE?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Acquires 1,212,368 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPckhzTEJPVm1kZUJ2TFIzajBsS2xiUkNjQnJpa3lRZzd2V21qZjkweFZ0NF8zaWE2bVpHcFctbXN1dm1vX2pITG05cGpuaDBfemE0NW9GQ2phVm4ydU1uTW9SeFFtT01OSUVFdHpqTFJFa3lNMmxHWUdRVmxNRzhrOG9BVjgxRGg3QlNrOGJ3cDdHNk5QeEZGSGx3UXpoV3JYUWhTTnc0MXhkUFhjQU83a0JocW9QY2NpOHF0UmpZTG1mTEZfSWZPNVV3ZlpwTm5ZVy1zZTQ4aF9ER0k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Farmers Trust Co. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFYtZTd6OS0wTEJPZU1EYnJyd0dfQ0tfcWIzSE1CWTV4eGUzeVo2MmN6U0JhQU01cFVGZUdaV3ZubHNtQ21MRDQ1U1NpcFRfMUNjRE85dXdPTzJFQk5sMnB0VzJmVlgzZzBNdTJmS0lMSmYxZjVYRUVkMldRN2g3NGxaalNQRksxUnNwbzdPZE1OdlBicGlrRmJxNzJUNTQ4QlVzU01wcTJPQmNTMFVlQ1FNX0pZQ3RjU3dvVmtDdm1wMWppa2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Siemens Fonds Invest GmbH Sells 8,006 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmNvQ1pwejEzdzYzOHJsb0dxOVkyUzdMZnc2SlhmVGl0WjQzM2ZZZlRxRUxoSXNXaWM3d3A4WEpUTGl6a2pGSV9kLTV3eXZ5MjAtMFBPT1JxMVZxMkd1VTJTT0tMb01rYTgtXzlyVWtUZ29xdDV4TE55bU9LTVpzTXNfZFZwekZpX2hJNVVlLVBrX3MzV1RJV0h1QVFQRXBvWjhZRTRXT3FUNW1GU2hMNEk4V0U4djRTTTJqMG03TDg5MGxJT1d0SVp2MVRVOFo2VFdablFGXzhxeW5I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) EVP Catherine R. Clay Sells 3,598 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkFoeWlrazFjdFgwYml2R0M0aWlLamJ0UVlHMTVPeU5LTk9yMDA0YS03VVhzaFNiOVd3empIYkVaTlVNdG1YaEFtR19tQTdrU3JDQ1l2Y1duT1ktYjR2TWE3VDdJZUIyU29lTnFjRFJwXzNJTGZ3QVV3Y3RtY3RGN0ZoWmZXR1FTb3dPSmdpdHl4aFhiR0VFcm5tbzVKMUdEUUtNYUl1b1BmMVZqTlU0M3hVTU95T1llZS1nMVpnR3hOZG45RGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Buys 8,978 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOURTMUxkWFdYZEZiZWhBSXNtYlVhdXZVSjVtTGhVQ19NOXVYOUNqVUQ4Qkpad0I5djZoWGpBM21qS3poOWdWN2VpYVBBSXMyVlNDZmRiV2YweEt4a3J3RHNqSE0xNW5tLXFpZ0NwNFM0azNLQWVnMUFUSVFoREJQX1kxSkJTSXBiNlpZV2gtOXpHOFljdDFrenZoeHVKYzV3MnJpeE9wMUJVcEswZUpuSW9WN3dNYm12Um83aXlYNG1WM2dJckdYVDFDeWZhWDljSS1VbDY3TGtteU1id3R0blFaYm1VdFllcF8zal9yV0o?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

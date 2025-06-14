@@ -2,16 +2,16 @@
   "ticker": "7211.T",
   "name": "Mitsubishi Motors",
   "sector": "Consumer Discretionary",
-  "market_cap": 555871633408.0,
+  "market_cap": 544363479040.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.473867,
-    "PB": 0.5948903,
-    "EV_Revenue": 0.164,
+    "PE": 14.174215,
+    "PB": 0.5825743,
+    "EV_Revenue": 0.16,
     "ROE": 0.0502,
     "ProfitMargin": 0.0147,
     "GrossMargin": 0.19249001,
-    "DividendYield": 2.42,
+    "DividendYield": 2.4,
     "DebtEquity": 32.334,
     "CurrentRatio": 1.386,
     "QuickRatio": 0.869,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.025660168549831563,
     "ROA": 0.03692,
     "PEG": null,
-    "EV_EBITDA": 2.149,
+    "EV_EBITDA": 2.095,
     "BuybackYield": null,
-    "PriceToFCF": 7.769375284529908
+    "PriceToFCF": 7.608526691538893
   },
   "technical_indicators": {
-    "RSI_14": 47.78565871431704,
-    "Momentum_10": -4.373849048563205,
-    "MACD": 4.548057727862442,
-    "BB_Percent": 0.1438013584555092,
+    "RSI_14": 43.12482181103381,
+    "Momentum_10": -6.633009778372487,
+    "MACD": 0.5043034160314619,
+    "BB_Percent": 0.0156984307528093,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9344471685189396,
+    "ValueScore": 0.8979906617383696,
     "QualityScore": 0.4092540870327593,
-    "SignalScore": 0.6383786446159736
+    "SignalScore": 0.6506593238286678
   },
-  "volatility": 0.0357809865659984,
+  "volatility": 0.0358453756577513,
   "beta": 0.04,
-  "return_6m": 0.0300587713055819,
+  "return_6m": -0.0086543661675191,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 12,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 410.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 415.4
-      },
-      {
-        "date": "2024-12-10",
-        "price": 417.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 419.6
-      },
-      {
-        "date": "2024-12-12",
-        "price": 418.1
-      },
       {
         "date": "2024-12-13",
         "price": 417.7
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 415.4
+      },
+      {
+        "date": "2025-06-09",
+        "price": 416.1
+      },
+      {
+        "date": "2025-06-10",
+        "price": 417.1
+      },
+      {
+        "date": "2025-06-11",
+        "price": 420.7
+      },
+      {
+        "date": "2025-06-12",
+        "price": 416.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 406.8
       }
     ],
     "current_price_data": {
-      "price": 415.4,
-      "change": 3.0,
-      "percent_change": 0.73
+      "price": 406.8,
+      "change": -9.2,
+      "percent_change": -2.21
     }
   },
   "news_sentiment": {
-    "summary": "Les récentes actualités économiques mettent en lumière plusieurs tendances clés dans le secteur automobile asiatique. Mitsubishi Motors a suscité l'optimisme avec des spéculations sur sa participation à un partenariat entre Honda et Nissan, tandis que des analystes ont revu à la baisse leurs prévisions de bénéfices suite à un manque à gagner de 32%. Parallèlement, Honda et Nissan envisagent la création d'une société holding, mais font face à des défis en Chine. Malgré une baisse de 68% de ses bénéfices annuels, Honda reste résilient face à la crise du coronavirus. Enfin, des mouvements importants se dessinent avec l'expansion de Toyota en Chine et l'acquisition par KKR du fournisseur soutenu par Nissan, Calsonic, pour jusqu'à 4,5 milliards de dollars. Ces événements influencent le sentiment de marché, avec des perspectives contrastées pour les constructeurs automobiles asiatiques.",
-    "sentiment_score": -0.077,
+    "summary": "Les tendances clés des actualités récentes concernant Mitsubishi Motors et l'industrie automobile sont les suivantes :\n\n- Mitsubishi Motors a suscité l'optimisme des investisseurs concernant ses résultats financiers, malgré une certaine sous-évaluation perçue.\n- Les discussions entre Honda et Nissan pour former une société holding ont été évoquées, avec des répercussions potentielles en Asie du Sud-Est.\n- Les actions de Mitsubishi Motors ont augmenté suite à des rumeurs de partenariat avec Honda et Nissan, tandis que le secteur automobile thaïlandais est confronté à des défis de commandes en baisse et de dette des ménages en hausse.\n- En parallèle, Geely, soutenu par Proton, intensifie la concurrence avec Honda et Toyota en Asie du Sud-Est, et KKR prévoit d'acquérir le fournisseur soutenu par Nissan, Calsonic, pour jusqu'à 4,5 milliards de dollars.",
+    "sentiment_score": -0.125,
     "label": "POSITIVE",
-    "positive_ratio": 0.23,
-    "neutral_ratio": 0.46,
-    "negative_ratio": 0.31,
-    "bullet_positive_count": 2,
+    "positive_ratio": 0.12,
+    "neutral_ratio": 0.62,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -549,19 +549,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Both Nissan & Honda stand to benefit from potential merger, analyst says - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb29OYWE5dXdJblBDRFZabWFEVkxlbFBlWkRfYjFHekRwZHRicThlclpUQzJ0c2kwZUZVbkZjWTFSc3VIYmQwZVBKV1F4anJDeDJkWk9NY3ExSUkyazRVTU1hc2swYWlQUmM2LTBwOS1CdUY0ZTN6S3Uxa2tiN01TLWV5eW1BSTNSNWRzbEdTUkt5N181WThmYUw3UVpybGNHQkhHTDdVcnBKZWM?oc=5",
+        "title": "CNBC Daily Open: Stocks are still staying alive despite the Dow’s 9-day losing streak - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVlsaG0zbGMyNElHQXNaZjMzaVZKNlpqMlhweUZtZGRsN1lZVVkwX181ckRJUVlRcEk3NFE2emhkREhQYlFONmtkLVFFRG43czJWVkt5aUxFUm04NDRJbndCM04xQ0hXMWpJdm8yMktBVEVrRmRrQmxQSm9GX3dacXNkWmtQQVQ1bzBrZWx0V0RsRDV2ZEtSZ2F3VEtTQ002QmVjV0hxVdIBrAFBVV95cUxOM0UxOXR1QjdJUDZCMlpoNEk2YTJFNTFtdVFrazRwaFdYS0ZkMzJEOF9VWDFMVzAzNUUzNXZEMFU2RVdxaUplbEpCMlppMmI1d1hjUG9jeVJ6YnZwWnZCbTZHellDeDBLS2ZpQlJ1R2Z6QVlGWVBkVXQxbHZQZjQzc0RaZVBwZVRxbktsdlotMDFvN183eXpsYllTTTdmY0RKWUw2eGVCTDhUZW5S?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Mitsubishi Motors' shares up on reports it will join Honda-Nissan partnership - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcERBMmJyazZUallFVlgwSHpySEJQTDN0YS12YkVmZlNCRk5FRWpOSTJ1bUxNSHpoZDRrNDQ3US1NRVFnZWxSR0dMcmxvby0xVlpwNDAxUUlpZXM0REh0d2NtaXpnSGMyOGpzaEFHb0xFMkpJMmFiczY0bmhvLTlqY1I5d3h4WGN0Q0pWWHlQTks0Qm9DYk1JQV9lTEUzWk9CdlN5enE4NGhUMW9rVThhdml1RElQNkVRbGdZS1VRakplXzN2YWNKeHJlNW9NZ0hneXpDNGpObGtQdEQtdVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Earnings Miss: Mitsubishi Motors Corporation Missed EPS By 32% And Analysts Are Revising Their Forecasts - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1dYUkR4VkhSWGYyODdvVWdsU1NxMVJaMU1EcUkwMGRKd3dSakJyTEI2WE44c2w3b0R1ZHJZRVlKaGZuanJoV1ZZU2t5Q1FMMXVRTXgzd2xJQVpTOERiNHFQWlJBc0Y3VzZITDJqV05Kbm10RTFiSDNwUEFWaVhuTnNPR25NdmowUk50a1l6VUNSV05XakxoZUVoYjNaWVhOSjBqdGVSbjBUYjFSZE1wcF83cFRoUmxQZktkcUxCdU5jRUJnNk1vNkJ2am5HNTdVd2syaXd1NlUxR2fSAeABQVVfeXFMTXVBMnF6WHpUNlkxMUJPNFZBeTJFTmFfUWlFZ1A3aGozN0FWRWJTVHJaRENoN2ZoLXZ1a0VVRDhuRnRUMjhvRnYzNTY4VDFITE44VDlUWUV4b1hPVUNJRm02ZXpjeTEwSjNYQm5CSVRxX0dpTDNRWFlnT3FfMUd4dTc0UlY0TzA2TXlIZ3MyZWFEUWxKOTBVSF9MWDVqUU85WHYwbzhVUHkyOHhjdUlONDdOMEFUWDNHVDZDOVZKQ2pVQzV0Y1l6VzlpODVTUVF3QWhENHdmbDBPME5PRmlXNzY?oc=5",
+        "title": "Breakingviews - Nissan-Honda deal faces big problems in China - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWc4Z1EtV29LNGQxVTJRNFJjUGMwcHBzaFZiSW9Ecm1mSGFBYTFlOUFjVDl1REFKU2lNODh0ZkJnQ0w5d2QtRDNFaWE1dlZORTRoRjNhUFZkdFRqREx2NFAwbjd5WGItRjV2REw4S1d5S2Rud2dWdGt4UHJDOHZYaVlWMmppaEZnRk5ZTDBuckZvYnNraE8w?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Are Investors Undervaluing Mitsubishi Motors Corporation (TSE:7211) By 45%? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1BEQTl0MjhUaUN4SUNBWUFuR1ByLW5vZ2JIY2lfdWhPeVZ6MEFNTDZ1V0FrNmxrT0NWaWI4MUFDTDA1YTZ2N3gzcXk5ZjFLWm9Cd29QaXJvMXVGVzBJbjFlOFdaMk5JVzdDRmFjdWRpLXlrOThhcmNFeTlxTnBaSjR3U2pYXzAzN2NZZFBvekMtQmU4OVExQ01ldlpGOUZadEhtUERzR3RTN1ZzSldlNmpkbU9ncE5paURMcEpMOGhjUmNjU1dpRlRocmwxS0cyRk5hQ0ZTMURoNnpodlHSAeMBQVVfeXFMTmF6TFFybkpJT3hrRm5Wa0NyaDVlbGJieDBMZk1KajI0YzNsZktNanBlU3g3OWFZU3hMTjlSaG1hWXRudHpPLUdYQjdUTERxeTIweWZmOVZyTXZua1VqTEVYNmNMUmtHbTMxVmlPM0xnVjZhNlphS3dONFBvTEZJQXEzcGN3THFtQ0g4cWQxWEFjaU5rTVMxbU1wMnBvSm5nUEliR3U0anNZVkhqNF9fNldJZlJKUVd6MTZ2MkhmT2Q0MWQ4WU1iQjU3eUwtWWxyR0haTjZLbDRVX2YzRzR0aE9GMG8?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Global stocks mixed as US consumer confidence falls and UK growth revised down - Yahoo",
@@ -574,23 +574,38 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "CNBC Daily Open: Despite Dow’s nine-day losing streak, we aren’t in dire straits - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTl3U1F2bHByc1FoSnRYaTVqWG5tMWFDRU50MHJyMlhaSnp6eW01MWh1SWxmcXZjbW5YY3laSUZsSFQxUGo3YWVtUGpTVXZSdUZiSlh1WU9FQ1JQWWd5VTZtVGNhMGFLTDhlOXpTUWVlYndYX1diRHdLNkdXakZXVGNMUGJYZjdFXzYzTC1zSzJwQUtmanJhVnVqcFhOMk9CZGRxSUNNR3FKazFITU1CZE9EVdIBuAFBVV95cUxQd2YyTDJzdG10eXhUanJYbjRhS21sLTdzS3hUSVJTSk1YVEtjT1lnaHJBbXhoSjRUZl9jUy1VTHRsNzlEYXZEb09VbnFlU0Q1UmV4eTlxQ1I1MlpKejJsdDRnR3FGV0stdWZFWXo4dV9vdnNaSjM4MWtwUVhMYm5tQ0JmQktQbHhGWnhkNFRuNExyZjJaQmhNM2hiM2hzT2xOYmZoRUU2dVpRVjVCZXpqRzVWa2lsUmJq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Honda, Nissan in talks to set up holding company, source says - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjBqUUlDM0o5ck1hdGs1U1o3M3E1N2dlekpvcG5YNmRndk81SElGNm1WWFFIaE9tTVJqcHVoU2tzZUtJMzlYR0FkZ3RPYXktbjBPMXEzZDEyWFJ3RW9IenhuM2lWZkI3ZUVyRGRNOFo0UXBRdUpXa3B0eDRIOXJ1MnhDNDV0ZnVxNW5HU05vYVpoZlNteWdhWlRBRVN3RDZTR0E0dmdyeUN0NDBsWUN6VUtsaXNNVjVL?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Exclusive: Toyota Aims to Ramp up China Production - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xRmh4djBwRnotUjNoV1c3ZXZ0LUpZNndWNjJOay0tblVocDMyZDB3WDd6LVhUcGJWanVBam9YQkZqR1pxa2YwaEl6OGtnTEFhTk1rcUQzNGVsZm1aeWFCR05xdHR0YnlJYzloVUtSNl8tQlp1bTdZczd3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Breakingviews - Nissan-Honda deal faces big problems in China - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWc4Z1EtV29LNGQxVTJRNFJjUGMwcHBzaFZiSW9Ecm1mSGFBYTFlOUFjVDl1REFKU2lNODh0ZkJnQ0w5d2QtRDNFaWE1dlZORTRoRjNhUFZkdFRqREx2NFAwbjd5WGItRjV2REw4S1d5S2Rud2dWdGt4UHJDOHZYaVlWMmppaEZnRk5ZTDBuckZvYnNraE8w?oc=5",
+        "title": "Earnings Miss: Mitsubishi Motors Corporation Missed EPS By 32% And Analysts Are Revising Their Forecasts - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1dYUkR4VkhSWGYyODdvVWdsU1NxMVJaMU1EcUkwMGRKd3dSakJyTEI2WE44c2w3b0R1ZHJZRVlKaGZuanJoV1ZZU2t5Q1FMMXVRTXgzd2xJQVpTOERiNHFQWlJBc0Y3VzZITDJqV05Kbm10RTFiSDNwUEFWaVhuTnNPR25NdmowUk50a1l6VUNSV05XakxoZUVoYjNaWVhOSjBqdGVSbjBUYjFSZE1wcF83cFRoUmxQZktkcUxCdU5jRUJnNk1vNkJ2am5HNTdVd2syaXd1NlUxR2fSAeABQVVfeXFMTXVBMnF6WHpUNlkxMUJPNFZBeTJFTmFfUWlFZ1A3aGozN0FWRWJTVHJaRENoN2ZoLXZ1a0VVRDhuRnRUMjhvRnYzNTY4VDFITE44VDlUWUV4b1hPVUNJRm02ZXpjeTEwSjNYQm5CSVRxX0dpTDNRWFlnT3FfMUd4dTc0UlY0TzA2TXlIZ3MyZWFEUWxKOTBVSF9MWDVqUU85WHYwbzhVUHkyOHhjdUlONDdOMEFUWDNHVDZDOVZKQ2pVQzV0Y1l6VzlpODVTUVF3QWhENHdmbDBPME5PRmlXNzY?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Honda sees 68% drop in annual profit as coronavirus slams car sales - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczJfdmZ4WFVZQnJ6amp3MFJjX0VTUGh2SGp0MXVqVm5IM1c4dndtVGVUOGlmaE1TTXVhSi0wR2tHRUxUSFRsQ2hDVDJRakZySWphT3N5d20ybm1NMDRGczhkU293TUhIMjVXNnFsWjZOanpmcDhFTldUeHNTQ0M4LXdSSW1RX29UUjk5V1JCejR2MTJ0OFdRUUhiNzZfWk5mNW13ZTNXRjVuX0hHQm02b083aldRd0lDNDlUR3o3NA?oc=5",
+        "title": "Mitsubishi Motors' shares up on reports it will join Honda-Nissan partnership - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcERBMmJyazZUallFVlgwSHpySEJQTDN0YS12YkVmZlNCRk5FRWpOSTJ1bUxNSHpoZDRrNDQ3US1NRVFnZWxSR0dMcmxvby0xVlpwNDAxUUlpZXM0REh0d2NtaXpnSGMyOGpzaEFHb0xFMkpJMmFiczY0bmhvLTlqY1I5d3h4WGN0Q0pWWHlQTks0Qm9DYk1JQV9lTEUzWk9CdlN5enE4NGhUMW9rVThhdml1RElQNkVRbGdZS1VRakplXzN2YWNKeHJlNW9NZ0hneXpDNGpObGtQdEQtdVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CNBC Daily Open: Europe pushes for a role in Ukraine’s peace talks - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXo5M0JULUlFYnNLSm5EaXBwS3ZoY3pyYjJpeGxYT3dOLWE0RXZ4ZzNBZVQ5Q3BMdUJFNUFkdTNaV3VqR2M2OUlCTnExZ1EwTjlrbS1RUlh6cnVlb3JvbGNNZ0ppZld2MzZ0SUdQYU9JZUJJc2JjTVNycy0yeS1LcmxEOGlkNGNiNHZlVVhrSGNVaGRoclBkb3VIOWFmN2kwdlhn0gGoAUFVX3lxTE1GY0hKV1FKbWdWRnBUNkVMZzFPWnBiOGE4RWlhR25rM2JzRnVyNDJ0dTk0Qk0wRUdSeV9FYlRIYkFOYmNETnd6RGZrVkd1NXgzU3hpQWJ3VHlpMlZJMTExY3NMbmpxb01VZDYzdDNJUmlBMS1lNWtKWU40bWhhR0N0T3NiZHFXMUJaa3Nsbkhfb1pMV1ZWUjZaZVhUU09IejhFWFQzNlQ5Wg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nissan's Ghosn Poised for Third Salary After Being Confirmed As Mitsubishi Chairman - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLU9jQ0FxblZnbndEQnk0UDJiNlR0aXVEXzNvbmlwNUF2OUJNelNrWmhtZUNzaE5vTUs2TTdDczRpQTM1YktKMjU5eXprYmZ6MDZNaVJtc3RWMVhKaEczSV9uaEM1QnlXUVk1bGZ6d2dfbDVHb3dXREIwYnlqUEtuRExCOGNNaGJBMS0zRm1VTldab3ZGN2xoX1pxX3pzR1JFQVNQRnVTeDIwd2JUVTVzSm5iUzJ6b2ZySHNuSGpWdEM0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Thai auto sector reels from falling orders and soaring household debt - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWlDMkVYUlQ0aXVwel9CMEZSNHdCa0hyQmIyNko0UEFHNTEwYmZrZmtwM0ltZE8tbGUyZzlmUVJhQU5xSWxndk9mcW1pbDVHN3hXQ1JhNmNEaW8tYUV6UnhfeDZZZFo0ckRfTWh4NnpVbjJiZGlrRm1rWWdDMDNmb2xGNVZqcVRQWU14MFhkamJlX3FIQU81WXlzbHZjMTNvZ2tuNTNpNmVqa2UwcTJuYkNrdFlYSG0yQUZIaEJObkR3V3p2?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -610,5 +625,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

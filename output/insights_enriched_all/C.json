@@ -2,16 +2,16 @@
   "ticker": "C",
   "name": "Citigroup",
   "sector": "Financials",
-  "market_cap": 145963106304.0,
+  "market_cap": 142423752704.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.345972,
-    "PB": 0.75216556,
-    "EV_Revenue": -0.094,
+    "PE": 12.046603,
+    "PB": 0.73392683,
+    "EV_Revenue": -0.054,
     "ROE": 0.06435,
     "ProfitMargin": 0.18622999,
     "GrossMargin": 0.0,
-    "DividendYield": 2.92,
+    "DividendYield": 2.86,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 69.7778811750885,
-    "Momentum_10": 6.449197396404105,
-    "MACD": 1.859499789360896,
-    "BB_Percent": 0.9956563978673793,
+    "RSI_14": 56.353158021997224,
+    "Momentum_10": 1.3348401691472835,
+    "MACD": 1.712470366214646,
+    "BB_Percent": 0.5373059054446992,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347118927312384,
+    "ValueScore": 0.8988682548878619,
     "QualityScore": 0.2756202655675004,
-    "SignalScore": 0.428599494966278
+    "SignalScore": 0.5453663743055148
   },
-  "volatility": 0.0240850040942497,
+  "volatility": 0.0241689014467458,
   "beta": 1.31,
-  "return_6m": 0.0993821924649225,
+  "return_6m": 0.0900885771409341,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
-    "target_mean_price": 84.28571
+    "target_mean_price": 85.09524
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 71.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 72.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 71.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 71.43
-      },
-      {
-        "date": "2024-12-13",
-        "price": 71.01
-      },
       {
         "date": "2024-12-16",
         "price": 71.49
@@ -537,72 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 78.26
+      },
+      {
+        "date": "2025-06-09",
+        "price": 78.17
+      },
+      {
+        "date": "2025-06-10",
+        "price": 78.03
+      },
+      {
+        "date": "2025-06-11",
+        "price": 78.38
+      },
+      {
+        "date": "2025-06-12",
+        "price": 78.23
+      },
+      {
+        "date": "2025-06-13",
+        "price": 76.36
       }
     ],
     "current_price_data": {
-      "price": 78.26,
-      "change": 1.61,
-      "percent_change": 2.1
+      "price": 76.36,
+      "change": -1.87,
+      "percent_change": -2.39
     }
   },
   "news_sentiment": {
-    "summary": "La tendance clé des récentes actualités économiques concernant Citigroup (C) est marquée par une volatilité notable de son cours boursier. Alors que certains investisseurs renforcent leurs positions, d'autres réduisent leurs parts dans l'entreprise. L'annonce de ventes importantes de titres par des acteurs clés du marché, notamment Greenhaven Associates Inc. et Two Sigma Investments LP, a suscité des interrogations parmi les investisseurs. Malgré des mouvements de vente significatifs, des acquisitions récentes par des entités comme Viking Fund Management LLC et Sentry Investment Management LLC ont également été observées, reflétant un sentiment mitigé quant à l'orientation future de Citigroup.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
+    "summary": "L'actualité récente autour de Citigroup Inc. (NYSE:C) est marquée par une série de ventes d'actions de la part de divers fonds d'investissement, notamment Yousif Capital Management LLC, Parkside Investments LLC, KMG Fiduciary Partners LLC, entre autres. Cette tendance à la vente contraste avec l'achat de parts par NorthCrest Asset Manangement LLC et Fort Washington Investment Advisors Inc. OH. Par ailleurs, Warren Buffett a récemment vendu ses actions de Citigroup et Bank of America pour se tourner vers des investissements à rendement élevé, ce qui pourrait refléter une certaine prudence vis-à-vis de ces valeurs bancaires. Enfin, malgré une augmentation des coûts de crédit pour le trimestre, la performance de l'action Citi a été mitigée, chutant par moments malgré un marché en hausse, suggérant une certaine volatilité et incertitude.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Citigroup (C) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2loX3lRS1Z0em14QUpmOU5GUWtsbnc0dW9vNnZpWHN5bGoxVXRoMXNmYUN1a3BIOUVYd08zdVI4SExheW80QkdFWC1GXzh1TDRKdWNrem5RcTAwUnhwLTA3aU1LT2tqdDNjT1hGOTJZWnlaVHVLdndyb3gyOWJsV1hTb2VFc2RVTDBxcEN5OF8zSGpicW8xYmEtR3I4Rmdz?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Fury Gold Mines Boosts Private Placement by 23% to C$3.08M Amid Strong Investor Interest - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWJRTVkyTUdFQ3IteHl0NkdEQU1JcHZCMDRmRmstRnJQMmhybUFsQ1ptNjVWV3d3MW4xbVAwSFdrWXRkcWVKUnpxVFVXcHNIc29tMDFWTmYxOHdGYzlRYXNtQXo0Vkl6ZFpJNUpGMzc0MWlsQUxkamZXR2o4TW9FaFQtN2JuUkIycXVzeUVoSG0?oc=5",
+        "title": "Avanza Fonder AB Grows Stock Position in Citigroup Inc. (NYSE:C) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFNOdi11ZjVJRlJKWkhOMDFjYzFwSmNRb2hXZ3hsTG9XWGtqUnRLZ2JlM01QVlRUZGc2Qi1Ub0NUMVdaSmZ5cEp6TnpXT3BqSk1MR09ILXFlSUpSY21ibTNaMmZCUWRfMHFrWThhZ2xGcndaa2JwMXZ1ZkRwd0VQVEVGVzhGd0xsM3Uwc2l4VDcxZkE0aXhnRUJ4VkhZclQxSktjUnF5OU96V2U4eldYU1FhcUxGaGM2YmtiMXdXSGdRcktf?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Citigroup Stock: Is C Underperforming the Financial Services Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONG15azIzSlEyanBXV0NwdWhpb2tpcXljaWFXUTR3Vld5SVhRVUhDNkZOeWNnRktyU2YzZWcwM2VpbU5wMi1ISURaWll2M0h2U2pQdDF2RDM4b3pweFkwRzJfTFY2YjNnUEl1bklOVWc5VWE3V21HQWN2SkVuOVFZbHRPZUxUZFhPYWtWSFdOUm5OZ1k3TWxlTVdHNC0tNnRXcmxqLWNGd0RYWl81OVY1MS1oS1JjS2h3eV9SWQ?oc=5",
+        "title": "Anker 5-in-1 USB-C Hub Just Dropped to Almost Free, Limited Stock Available on Amazon - Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3ZtLUljVjlhRWcyU3A2em4xaENaNFZaOUp6S1pkNkExSHRvUXRoam9SeVVsZUFoZGhPOGlpb2hOYnBMSF9sbHktb3BlSGpHTExLak5vUUwyblBmTDU4UF9Xdmg4QVBibWhPQkQ1bUxSMVJuS2tvNWNfTV8yQ3M3N3hDWFlZU3ZSa0NaeHZDMFJYdFphNXktckJLcjR2eE9qUXE1VkxYWnQtYU5hQ1R4U1J3SHlGUQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Buffett Offloads Citigroup Shares: Should You Follow and & Sell C Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjlSWV8yN2o2YVZfVENuWVVDbDBqQzZjVE8yNm8wMFJUUlBISHdDVHNSbElzTDhSUE5CdW1XbWdtdURwMHJKZWdNMzdaQjBXWTczMWFSdnhNVVpLLTJSWkw3R0lLZnFHYklJOUpqLTlwanNLZFZia2NqNnFvTy1KeDFlMzEtTXpHQWY3Vw?oc=5",
+        "title": "The Best High-Yield Bank Stock to Invest $25,000 in Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFpXclRkM3FGdlp6Uk1RelcyRjNDcGdsSVJCTHREajdHblVYQTl6czVMXzFfMm9iNTNOR3ZqTW9LY29HWXdCX2hOdUVnSmY3Q182STQ2TVVNVmNwTXZCN2NhNDF4LW9JaHZQUWhJNzdObnl1b3hjWnZWcDZPUzVtRHhZS01BR1h6MlF6R2tBcVY5QkhpaTl3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Inc. (NYSE:C) Shares Acquired by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUIxcUp3SW8xaUhkTHVyNDBNdm01Y1JrcEZsTk5Wakd3MVNINlNDTmxRMG1pWUJDbzU0ZVZ0dmNNTm1WLTdQMmE0VGxLU0RNMWNWUDhhb1ItMEp1RE5yLUxpR2w2MXdkTWwyY1ROTWM5ZHpkZGNLU1NoVFRQV1dOOUpVRHhoMTBlTFY0YThWVDlEUFVUNTlVeHZ0Wk1ybU9MMEhyVXVqZjhXX0RVMkg5WDFZcFNJS0VZMlJLMQ?oc=5",
+        "title": "(INE.DB.C) Technical Pivots with Risk Controls (INE.DB.C:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV01sUC1qeWJfcWpZaGpRcEJnQklpcDlBaHM0LS05ZDVJek50WWdxZUNsVkZjTHhYelR3VURsR3V0M0xpN3BYZnRTUFdZOWFXZS1pYkR3ZGJFRnN4bzFPT0ZWYkpBU1dINU02SzVhNE1KSTNFeVJBZ3U3SGp0ZDZSdHRVUDNzNmN0ancxVndmUUgtT09UeTZWQU40ZVNNVS1Zenc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Stock: Is C Underperforming The Financial Services Sector? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmZkLWpVM2pxMUJhUHZoZUxKaVhqVEg4NTdUTHZKV2ZiZV9Rbk1sQTg1bjk2QWg2SlF3NW4xXzNTQlNyV2ozTHFrT2d3UnMtODBuZU1FaHJGU244WnVQXzUwaks3YklydUhUUjRtQzFlWVVPUkVXWnNpRnpNVE5rbkpJRG5wR2x4YXNHRnB0a0drQ1Y5TVA1RklYa0lyY1VGWmZ2U0J4b0s5dU1kV0R0Tw?oc=5",
+        "title": "Citigroup (C) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xd1pSYk0wSFRtTThGMS1BY1hnX2t3V1ZWTnBvcElMbXE1VnRvWktEcWxEUFhDTnRMb1dfVTRqc2lDalFJcHZwdTUxcXotRWZ3bkZZcFpFRHFaN0hCTDBLU3pVblFwdjN1YlJSQlpydkVsRjF4T0xRQ2d0VUNNZ0E?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Citigroup (C) Shares Rally Over 1.7% on NYSE, Building on Strong Monthly and Yearly Gains - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEdYZFl4ZjRMa19GZFFsdThWdG4weFA3WUlNQXYwUHNTRm9KXy1rdk1obW5XQzZ6WFBUaXdEOWp4aEhXaVNqQlhNOTFtREFSTi1icVY3dWVRc1FaQkRlUlRRVkZPNWRGTWhhc004ODNkcGRHc0hHa0MyNnFrYmhhT1FFZERjZUNyWXlzSE00ZUpuZnFXWllpUHVkLW8zajJBek91ZlppS1NNWUVLWjFBV0Qzek9OaXhuN0pGTmplY29lTUFySTlaeFNn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(CGL.C) Investment Analysis (CGL.C:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTBuaGNJeWVUUlhLdWVKV2xHdGd3dERsZEtHckRvTEoxa1AzTVhXY2N2a2pFeUxLekNVN2JJMHR1eHVYVEVPWExxaWxGUzJBNjEyZzZiUFFpd3pMcFBIeGRXc1czT1N6dFU0US1jcTR6U0dTTGVDY3FTamZYZDQ2V3VuRTNibHFUclE?oc=5",
+        "title": "Steelers Stock Watch – C Zach Frazier - Steelers Depot",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YTmVuTjJlWWwzSC1oRlA5cVdoT25vTkl4VXhmenlCSlRyU1ZoMXZRVDNtSnV2djdWZ2l1a3F2b3BRamJjSGlkZ2UyRFpuZXpPQnBwVnRKNlpHNXJzWW9HS1B2Q2dFb2ZDQnpUTFNzLVFCMnJpQXJfQVZHSkw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Two Harbors Investment: Ranking The A, B, And C Preferred Shares In Terms Of Attractiveness - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUszRWxYZklTalZJQWd1V2NVV1FfRktwXzRJd2Y4QU8tdGhYM0dGNzF0WG9hbWJhMGxySW9La3liSnY4UnNOUlVXUlI5REF3TVRXZkNjRTN0WWxaLUFNZW1lNFY5NHBWNHRyNEhlVVlhTW1VMGkzamI5T05hUi1iYVhkVExaZy16Y3FsQ0Q0QnE1dFVvLThwOS1jVmxqMHY1NDJ1cjBIMGtZdFM4ODcyejNqQllLUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Citigroup Inc. (NYSE:C) Stock Position Trimmed by Greenhaven Associates Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSFFEc1l1SENQbUdkd1pBRzZNUmdmU0dpanpFMmNHbG5fRTlURHh1aHdvbDlkbnZiaDdsem1LdTgwajFMVnZvbU4wVndXM2YzOFhfTHFSSkFwdEoxRUhNTG1obWlIeWhDb3FhZHhHdWZDS3k5aDg5b1JOWXhaY3hNZVBUSXJIcDZMQ0RBQ0NvOW9LSW9wQmp2RXQ4cjMyNXBJQkxuSG83bGNndWNQeGxJLW1DdnA1VUtFZ2lXUjFjSGlHQlUwUUE?oc=5",
+        "title": "Citi (C) Reports Increase in Credit Cost for the Quarter | C Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTl0VDlDMDNCM1IxLVAwMktSSk93Sm54OXkyRmQ3MnFjcU9kZ1dIMmswcjZUMTk2NXQ2Z3dJd2Y3Zm4zYW5FTG5HeDV3akExRlAwaVlXdXVvMWZyLUc4SWVWZXhuNkpmODhzaWFqQkwzQ2lJOTVzLUw5YnNlbXZFOGJJVGIzUy1DLXhNXzJkMW9SM2xSZDlPdi1yOFlPOTdLd3pWR3QtcHNlUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -611,51 +596,66 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "(INE.DB.C) Stock Market Analysis (INE.DB.C:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUZOMnZUdGFDQ1B5emU5ZmtGN0c4czNBNXRKSF9fUEx1eW9nekZXbFE4RC1fanJlWmRDNXdteURWcGxRc1ozTmQ5Y3pKbk5MTmRxSVNqbFYzcWlYS0dhREF3OHZ0emp6OXAtdy1OT0xrMXFFc2NuMFl1N09lTF9meE5PS1htQkVnSXpEUllfRQ?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Yousif Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN0kxRDZfaWVIOGdYTTI3TnF5S2VFVWFPdHJNR3VPMVZBSDVLcE5nNUxTQlk0UzUyakVRdGhNbEs5SURlbS1rVGI1bEpyWTFLNFBmLXd6MjZPRTNnMGpOMTdKZjVBdmJQYXFkampFYzJ4RUZtQ2hjUUI5M3hlUVdmZ3ctNURwWmFsbTVWdHE0X2NDSjdfeVdkN2FTYnczMWU2NjdrbWgxQ2ZZTWdkeTJYakJrWTJobVl6cmFJNElXLXliZXdxa2RTUlJQcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbU9MdHVuWmVDSXdwdmFkeDZBdjZhT2xaSUNZaWZidFpBUVZEdEtsVENwWXh5TjB2M2JGdVBxRElvdlhkWnhEdExlNEY0MFE3ZTJlXzVSSzh4dTliWHFRRFBYc09sUnBSV1BpbnR2VnZxZlRKWWFBQ3lDUnFzY0xtbjhnalloVVIzOHhlaV9oUmMzTHpkNXg0MzVtd2ZXemdSc1ZiV0RMN0ZGVTR2ZGxDZ3ljRF8zNmhYaURXRg?oc=5",
+        "title": "Warren Buffett Sold Bank of America and Citigroup and Is Piling Into This High-Yield Investment Instead - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEN6b3JsbXNxY0kyUkxSQmpneTRsWktxWGFITjlOWkZWOXVmWDRSZlB3Qk5YWjhqeEJqbk44TjdEZWxyeVhHUG53V1NJeXlsaHhBcVhBV0ZPZFVWSEx0MG1GUnl3SUg0VURJNE9IT1E5VXRBbllCdHJaRHlDSy1hb1IxT3kydVFoVUdmM1BhY3ppbWpiY3h3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Inc. (NYSE:C) Shares Purchased by Viking Fund Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNengyYThtWDZzeWxVamwyLUx4VDhMVkdibFp0bFhTVXF6ZGVQRm53bjJ3OGhEMHFNZWVGdGVsZUJ1Mk95dklkMEhVZ1lkWXNuMzdCZlRqQXYtOEFFMVZTRjlIZ29tOHR1aGhrcXR4UUVsMzdoSVVFRDBNUklhOHlubzhlbXp4RW82VG5VcURHcXc4VlBodEhvNmdTQ2dhQVhuTHMyYjZ5VnktTlJjQVBocUI1VFlhTE50MXpJSTdFc0ZXOTctcFE?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Shares Purchased by NorthCrest Asset Manangement LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1Qxc0dKN1BlZGlVUWRhLU1naXV2eXJSdmFGbzV1eW85ZWpfQWFrQXZVSXI5eE42NWphTG8xTmxxY0pXR1c3QlBDbXZFM2RFbmZMMHVIQjB3ZXNNU25KdGlLckN5eE1MdUhVWnhqY3kxb0xnM3BuMFpPNTU1TW5rakV6SjYwUFgxTmRpeHlxdVhpXzZWWV9CNlIwbUZRaTltRTAxeFpHemdWYm1SQ2pHTm4zSVl1Z0tRRVo3QTZXc0VPQjFzTDA1VkpXb1h2UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Richard P Slaughter Associates Inc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZSZjh6UVlzcUh5djNxZ3BjcE9nOWoxX2drcjdEUVZEaHBvX3JwSjBMQUJab211cmp2UEdLMnZpRlBUcVpiYllKWU55alpzaEVmMEJkSEhQc2IyaFRMZ0kwbWRSR19qSHJOSWVUR25pbzU3TzNMa3pqSmRYc2hncWNsb2NPcDEzTWlTZEtWM0hWVENNOE9RbURkcWt4clZucm5PNDk3VkR1RVpENWtTVDNMdEM5Tmt3RXdfaXhRR2JFQ0lndDhxVnBR?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Parkside Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUVRYjByWE8xbGxISVJrQlh3bFNjSndJLVBxVlNvdURVdmdXUlI4Mmx4LW8zcjRfNU5lZlAtSVZENGxtUm1kRmFuWHdxNVdDS1RUX0o3VjJWcnBEaDFWSldyS3QxaTdRSDVNb1diSjhQUmNPdXQ2cHNwd202Z054ZDh2ZmoxdnpBaS1EWklrbE5LQnFsSXlZS1BtenhBeEJ0UVQ0SXZiaHY1cTNYcl9iZTltejdaSV9JY281Yg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Abner Herrman & Brock LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFYzWURiSTk4NVc0aFp0Z2F3QVN0amlNTlNudDRCTUxrRG5aVjhCcklMb0tqbFF6bUJKc3VFeWRzS3VTUEZqVWR1OWZya1hSeEZzZ01yYTFCeDFpWUo2WUI0OG4yVDhmMHV2LTE0c2lYdU5sWWpIYzFxaE5SaElNTFM3Y0h3Y0F5SksyN3hzMkV1eEVwTHhwcXM0bjdoTVZfS2hPYmtER0hOamVYbDhSLS1JblozZWJhVlVV?oc=5",
+        "title": "Integrated Advisors Network LLC Sells 33,324 Shares of Citigroup Inc. (NYSE:C) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1psZzFpMVZMQlNRMGEtUkpmZTEwcV9fR0VVblNaRmVxdFZKZjhqWXdaVjhDMEZTRi1sd0cwandudFlvako3VXFIdWJrQ0JBaExBY0EySVZEZzFfQmhqUUFoTzNqSkNCNVpMNWtRc3dPeXNvLTJnTERVdHB0V2ZpNDFFNk56NEJKYzdPbE40TzJGS2ZmOHJqS053ODZ4UWhLeDBYSkFuU3ZjQkl2LUhZbzdrVGRNZlAzTDFydDZhU3JzZzhpbGU5NlF1ZXpUQTA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jay C. Hoag Sells 22,504 Shares of Netflix, Inc. (NASDAQ:NFLX) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYm8ySEFtSGgyb281VTBJbnZ3Y1Q1Ui00dVRCSzMtZDhUZkZpWUtPZW1RM1cwdy1pdUZfV3lpNkg2TnhqME5xbFRfZUE4elFIZ2FVWUxxVWNEb21TZzk3TWRqSElaS3V6SERVb0kzMWtuMnQ1aWw1TGg2S1QtVUdMOU9WM3BjN09mY3BwUWlRTkFYM3Jyc3VPOUJ0ckI1Wk4xWERJQWRFSFQ1aFFkeHlHZkxwMkRBQQ?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by KMG Fiduciary Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzVmV1k2OE56c296Y0lXVjYzdU9sYU9ZVFRaYXlrb195TjNTVUZUOWtxY0xJbEw2d2F6bDVEbUhreXFWSl9PRjJFRzd3RlR6Z3gyUjN3XzBaSTFaT3ZsdUVtcUxEQVZKZmI1WWVmTDNubVFmSHFjdkdTby02OGhtRlJZZDlSYWtpZjZSVmNKdU1YTDRSRllJWXdTX1pPOXpyZHM5QXdtVXhMam5ybGtFR3Q4QndxMm05Z0NPdTkybVlZMmtkMUZ0bQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Sentry Investment Management LLC Purchases Shares of 6,093 Citigroup Inc. (NYSE:C) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMVZmV2dpS0lndEdDSUhwaEMzdWYteW9JVGhJeThWVlJScXI1MlJKdlpBSEd4dHZHbWNTb1VmNDZYLWlZNXVsYlFqZDZodmNucjZsdVZFMUtpbHBOTlRHdWlkcjV4ak1ad3ZjckVhanRaVUhGZ0wxVV9HeUhldkQzUGt1LUNBQVJXYzhHaWFsclVZak5GSi1fbHNHNndCeVk2a0Z5NV9oblg4aEhmdkNlWmdyRHVCLXRiaHppckJOYmEyeHZ0d3A1ODhzM1JBNC1JR19TQQ?oc=5",
+        "title": "Fort Washington Investment Advisors Inc. OH Purchases 13,237 Shares of Citigroup Inc. (NYSE:C) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd21ycm55QWZuWXNacUhkeWJyajdqTWhzQmZ3UXllRnRBSU9GaXY4NllhRkh5WW15SlRlMnc0V2RaYkdPdlNZbVgxOGMzOFhsdS04Z3g0RGJZbUNtdnBmeE56STBLWFBWcTEyUHRWSWpvR04waksyRzRFZlJrdm40ZVFIY0xqMVNTNDMyLXlhcy01MVk3TUs3T0xJZWxucncyYXhqSG1nSFN1VVlJZzd0RXlNcTgyRkQySk5QT1lBbE50ck5xOHR0WVRzeUxQRVdON3gxWl9Wam1KYW8tVE9KY0s3VQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Shopify Inc. (TSE:SHOP) Director Sells C$354,478.36 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbXgwdU1PRUxienpUUjhFaHV0eVI5QUx2M3kzR2FId0dKWVBuV2psd2EtOTdkVjhnR3NZR3h0Q3BVODhLNTNkWVpEbGEwQ3FlcU5hOG1VTXJrLUswbUp2OEJicW0yakM3SkpLUnpCWnpTdDQ3SEdNQ2I1RGdaT2ItRWxBZlo3aVZNWWN1eUlsUnlUQTdCcEZZR29PbTg5OEwtT0M2OVZkWGJ2dHBJeHdqUFZ0SWhnUUY2UUswWWw3dEo3TTA?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Stock Position Lifted by Griffith & Werner Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnRMT2g4SXJaSVoxSEp1NHpMZTczRzZaaGNNbHQwNTE5dU0xUno5RXFkVkc0cllac1dRVXRPMmM4eW5hNHFUam1LYldQSGRfOFRpUGptanN4VzEyUXZUcFBENDAyeWM0bktLYVY1N2ZuTnUxLUNNZ3pVWHZBdXJZOHR0b1dJMmZqRGpaSURxeFhCV3dlZGVEZWlBZjUyT0d3MFVGZ21xV0VUYnU0MjR3bzNNN1RlbGlpNmJOZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Beach Investment Counsel Inc. PA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbzRuQVkzbVJhUU5ac0NsMWxVOFZ1UTFnRFEzUTdfbFpwRmdVbmtuaUdpSHVGaEVHZjlZcHNWRWdLNnc3RkJwTnhxSWIyekd0R1h5SmgwR2tNMkFic1R4bUpyNmpUa3dIbmFCa1lSNUxrb3BMSDdaRk5Fd1NLTU9BeTl0S2E5RG02ZzBqZzBDYzF0VlVQcUhhWmRLNXFjajlEaE9YMnlfbFBDcmxPaXptTDNrR3ZyNzNNb3RnNFJyTHQwcEwyTTJmNDNMeFVVSWM5MGpRZHExX04?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "111 Capital Takes $534,000 Position in Citigroup Inc. (NYSE:C) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWU1VjdzNENjWGxqbGpPYjRvc1FVaXIxVUl4ZUpvNmxORm05TzUyZHFOekJIQ0Z4VklRS0x6RVItOHl3Y2kyNXZ6enBQaHpqbDRGVEtJZXhlS1FVVDV3b1NMM2gxSnVHWFBnenhhX013YlpGSVo2SUUxVGJLc3JBOGgwZndEN0ZRaWo5eXdROWkxMHpLV1hHWXlRN0pPOVBSSjZRODdNclpGMl9vN2RKVEtNZ0VoNm9WVmhEMA?oc=5",
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR3oxNjhGcnRKR1Fmb1JBWWR2cmdXTmlCd3JwbWFrWVlJaGtCQkZlbnhjTUZQRmttdjRaRUs2NGI3dGcxNGNJaXVLNm43VmNLLUtRN3ZiOVFUQjFxaXNCUG93eGVCcEZqYUZGa3VBbGItRVM1el82a1ptQnkxTnlLcERONUpSOG95dEpkNGpYVnlTR3ZMamRNR0xkOFZtdmV2MFE3RXVHWUJjbm9XenJLbm9LdElxcGduNnZCN3Y1M2wxQnBuMGJCbUdfZFB5Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group Boosts Citigroup (NYSE:C) Price Target to $85.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkUtWUhGeVh3QmNpNllqeFdKUzJpM0lnOFBZV2wxa3Y3NkNZM1RJaEktM19fc0NVejRidlp1LWloUGVwaS1SdkRyRHpSdnlTQWlCOUJRY3hyYXFHREowNnIydG55eHQwYUpWRlpiakMzNVNYdVNNWVNYeVNON0hMbVNrdkxpaDhEYXhXZVM3T2tfM2FxalVQVVlicFdaVzkwOUFmYWp5cEUwZzg1NlRNbDVVdmhHMk9BOU9mbV9nTmt3alJBSGpvdEk5V0R4QVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citigroup Inc. (NYSE:C) Shares Sold by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZW5GcWZMLXJkX1g4bE1lTTlRalZwaHNqRnp6NFdEbjZTZjRIbHVyWVlPbmFOSGtnUDVDMWpqTmV1ZzVocUFwLXFDWXZQUlRKNzRSSGEyaEpuX0YwRjR5WS1MMG5XNnlKakNTTTZDbFZfbjkxOExrUXNzZEMzMWdXQTVhYnFUdWhBV1FKbjR4QUcyczB3TVI2UHB5TGp1M1RyZXpmalZub1RmSXdaMmhma2p6OS1TWFdpQUVSREFCNTJWVmlaUFBIYVh4eUF1R0M2MWNXV3hGQy01NlJRdTZkT2hJNA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

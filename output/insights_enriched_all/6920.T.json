@@ -2,16 +2,16 @@
   "ticker": "6920.T",
   "name": "Lasertec",
   "sector": "Information Technology",
-  "market_cap": 1310015619072.0,
+  "market_cap": 1316328833024.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.675907,
-    "PB": 7.387357,
-    "EV_Revenue": 5.58,
+    "PE": 18.742054,
+    "PB": 7.422959,
+    "EV_Revenue": 5.608,
     "ROE": 0.45272,
     "ProfitMargin": 0.31203,
     "GrossMargin": 0.56617,
-    "DividendYield": 2.35,
+    "DividendYield": 2.28,
     "DebtEquity": null,
     "CurrentRatio": 2.128,
     "QuickRatio": 0.629,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.21718082241146713,
     "ROA": 0.22954,
     "PEG": null,
-    "EV_EBITDA": 11.723,
+    "EV_EBITDA": 11.782,
     "BuybackYield": null,
-    "PriceToFCF": 26.791946601075992
+    "PriceToFCF": 26.92106207773189
   },
   "technical_indicators": {
-    "RSI_14": 53.689565554427574,
-    "Momentum_10": 2.577683615819209,
-    "MACD": 243.78088765632492,
-    "BB_Percent": 0.4565282507358824,
+    "RSI_14": 51.85673078222043,
+    "Momentum_10": -0.0684697021567956,
+    "MACD": 288.4156873671109,
+    "BB_Percent": 0.5106169730780601,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9301632211471302,
+    "ValueScore": 0.8779670590201945,
     "QualityScore": 0.3369288096401959,
-    "SignalScore": 0.4985429393707737
+    "SignalScore": 0.5091892879239011
   },
-  "volatility": 0.0331352445407302,
+  "volatility": 0.033456913226971,
   "beta": 1.521,
-  "return_6m": -0.0709715847324933,
+  "return_6m": -0.041239774030639,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 14,
-    "target_mean_price": 17985.715
+    "target_mean_price": 17485.715
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 15755.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 15750.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 15825.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 15605.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 15570.0
-      },
       {
         "date": "2024-12-13",
         "price": 15340.0
@@ -525,35 +505,60 @@
       {
         "date": "2025-06-06",
         "price": 14525.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 14890.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 14900.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 15315.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 15180.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 14595.0
       }
     ],
     "current_price_data": {
-      "price": 14525.0,
-      "change": -205.0,
-      "percent_change": -1.39
+      "price": 14595.0,
+      "change": -585.0,
+      "percent_change": -3.85
     }
   },
   "news_sentiment": {
-    "summary": "Après une chute de 31% des actions de Lasertec Corporation (TSE:6920), de nouvelles surprises désagréables pourraient survenir. Cette tendance baissière soulève des interrogations quant à la performance future de la société. Parallèlement, l'examen du fusil Colt M4 CR6920 met en lumière son attrait intemporel en tant qu'arme de calibre 5.56. Toutefois, ces actualités ne semblent pas directement influencer le sentiment de marché pour les investisseurs financiers.",
-    "sentiment_score": -0.5,
+    "summary": "L'entreprise Lasertec Corporation (TSE:6920) a connu une chute de 31% de ses actions, laissant présager de nouvelles surprises désagréables. Parallèlement, le secteur des armes à feu semble être en ébullition avec la revue positive du Colt M4 CR6920. Du côté des technologies, le PDG de Broadcom, Hock Tan, prévoit une poursuite frénétique des dépenses en intelligence artificielle jusqu'à la fin de la décennie. Ces nouvelles divergentes pourraient influencer le sentiment de marché, nécessitant une vigilance accrue pour les investisseurs.",
+    "sentiment_score": null,
     "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.33,
+    "negative_ratio": 0.33,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
         "title": "More Unpleasant Surprises Could Be In Store For Lasertec Corporation's (TSE:6920) Shares After Tumbling 31% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdDJFektCVUdaZWFqTFk3SXU1WmZ2ZV9LZHdVMVd2VWNtLXZTY19jbXdOelZCV20yVDQ5MHY1MGxIQkdSdEhvNDA2Q2dLdzkwX0hRdmY5dGxKTjJIOXNCYUp0b3M2NWJhVS1tY1kteXNzYXl3dFFJbTlVVjVUVldvTHdpYlhhZGFGbFlDWDQ3Y1lWSUZWYVlLdmZSbWxrSHFmbFotWTcxc1BHcGtUaTVmdDVEdXdkTGU2YTF1dUh6d2hMclZucWRvLXZrRVBwaVd3c2Nn0gHYAUFVX3lxTE5fNVRBUkNHaEtwZ25DQ1V3S1drOU5WdWR5bnZMRjFvTTVjNUFVYlpkVkItYUc4WGVzWWFJTFNqa3JBbk9DYURwWm43TnlrTlZORnJlajd3QTRvS21mNmtUZlM0UGxoWVBrNlJVRDQ0azhWTV92VGdOa0RHbkg2T2UwZmh1Q3lBblZrb2FETGhqak42VWpBWkFXN285MkF5U280bUFYaGFCak5Kb2xsSmZCWHZmTU9BMXY2QmRTNTI3RUxTOTRkdHZrQXMyZHFkSlJ6aGlYdFgzSw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdDJFektCVUdaZWFqTFk3SXU1WmZ2ZV9LZHdVMVd2VWNtLXZTY19jbXdOelZCV20yVDQ5MHY1MGxIQkdSdEhvNDA2Q2dLdzkwX0hRdmY5dGxKTjJIOXNCYUp0b3M2NWJhVS1tY1kteXNzYXl3dFFJbTlVVjVUVldvTHdpYlhhZGFGbFlDWDQ3Y1lWSUZWYVlLdmZSbWxrSHFmbFotWTcxc1BHcGtUaTVmdDVEdXdkTGU2YTF1dUh6d2hMclZucWRvLXZrRVBwaVd3c2Nn?oc=5",
         "label": "NEGATIVE"
       },
       {
         "title": "Colt M4 CR6920 Review: A Timeless 5.56 Rifle - The Truth About Guns",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrNUw3bkktR0NCQ2xZLUVKZUh5OGdDUTlaQnVlbU1KdE0tektrVGU4djBmWmJmZEZvMXhMS3ZHRGNRTXZhZEIyXzlIZzJSdFB1SHpHLVh2Ym5NVjNCSGhfU0puYVN4U01pVkt5UkZ3?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Broadcom chief Hock Tan says AI spending frenzy to continue until end of decade - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRbEpHeDRXZWQ3VFRiTWVqRVRUd2YtbDdYbFRIdkYzeHNuM3gtUDZKc3pHdVRqUUJxdmFYenV1aTB6Nkc1Y1oxRmd6SnA4b0cxT0dscGxRSTNLal92cGpERzhDTC1rc1BLUGo1ZDRpM0k?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

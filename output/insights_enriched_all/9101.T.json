@@ -2,16 +2,16 @@
   "ticker": "9101.T",
   "name": "Nippon Yusen",
   "sector": "Consumer Discretionary",
-  "market_cap": 2142747099136.0,
+  "market_cap": 2201154486272.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.585369,
-    "PB": 0.7348958,
-    "EV_Revenue": 1.073,
+    "PE": 10.931295,
+    "PB": 0.75967425,
+    "EV_Revenue": 1.101,
     "ROE": 0.17187999,
     "ProfitMargin": 0.18454,
     "GrossMargin": 0.18129998,
-    "DividendYield": 4.86,
+    "DividendYield": 4.73,
     "DebtEquity": 24.864,
     "CurrentRatio": 1.331,
     "QuickRatio": 0.962,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.028948024942919606,
     "ROA": 0.03073,
     "PEG": null,
-    "EV_EBITDA": 7.603,
+    "EV_EBITDA": 7.801,
     "BuybackYield": null,
-    "PriceToFCF": 28.593692714268926
+    "PriceToFCF": 29.373104750660687
   },
   "technical_indicators": {
-    "RSI_14": 45.0772672934175,
-    "Momentum_10": -5.0967618317685375,
-    "MACD": 57.03829683819913,
-    "BB_Percent": 0.0018011697764409,
+    "RSI_14": 54.367507512512944,
+    "Momentum_10": -2.864731549990514,
+    "MACD": 28.998925043351846,
+    "BB_Percent": 0.4634696626051074,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934869499141614,
+    "ValueScore": 0.8956177475599347,
     "QualityScore": 0.3280763874456211,
-    "SignalScore": 0.6484595653896013
+    "SignalScore": 0.5710492577314883
   },
-  "volatility": 0.0199329224445931,
+  "volatility": 0.0199250408168393,
   "beta": 1.049,
-  "return_6m": 0.0565400689184814,
+  "return_6m": 0.0380030051894408,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 5175.0
+    "target_mean_price": 5245.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4868.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4900.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4928.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 4986.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 5020.0
-      },
       {
         "date": "2024-12-13",
         "price": 5122.0
@@ -525,24 +505,54 @@
       {
         "date": "2025-06-06",
         "price": 4953.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4953.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 5061.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 5043.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 5069.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 5120.0
       }
     ],
     "current_price_data": {
-      "price": 4953.0,
-      "change": 12.0,
-      "percent_change": 0.24
+      "price": 5120.0,
+      "change": 51.0,
+      "percent_change": 1.01
     }
   },
   "news_sentiment": {
-    "summary": "Malheureusement, je ne dispose pas de la liste complète des titres d'actualités économiques concernant une entreprise cotée. Si vous pouvez me fournir les titres, je serais ravi de vous aider à en faire la synthèse.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
+    "summary": "L'industrie du transport maritime est sous pression avec les préoccupations de la NYK Line quant à la capacité du Japon et de la Corée à répondre à la demande américaine en matière de construction navale, en dehors de la Chine. Les craintes de ralentissement des flux de cargaison vers les États-Unis en raison des tarifs imposés suscitent des inquiétudes pour les sociétés maritimes japonaises. Par ailleurs, les investisseurs de Trinidad et Tobago se montrent prudents, illustrant un climat d'incertitude et de méfiance qui pourrait influencer négativement le sentiment de marché.",
+    "sentiment_score": -0.667,
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.33,
+    "negative_ratio": 0.67,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Japan, Korea would struggle to fill US demand for non-China shipbuilding, NYK Line exec says - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNnB4aXg2Wm1sZldrZ1RlME9NUkRid3ByZnVoNkFlLTF2Nmp0akFESlRjSElvMzlXODVsbHptRndCNEZrckRjc3FmS1M2VlZfRmJmTHYwRVd5RjVnMGhNZGFVeFFWTFBxdmFhbjBfZk5lTGNkWWV4ZFctUllfOF8xamx0SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Top Japanese shipping line fears US tariffs will slow cargo flows, president says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXRKY24tanI3UDFNcnctc0tzZmQ3TlQ3R0dhRlhMYmRMeEZEZUhQXzNHVkZVWlVHX09Lc3U0WUNDYml1X1pMeUdwYXY4bUhuWFpUU01oZ0JlUllLZjFWS1BoVjV0c2tuN3EwRjRITU1GRk9BcDFtVjRCampNUmREeTEzb1JvTFMzOUtJYl8yZWs3RHptWjBzZ1FuTEM4Q2Z0ZGsxOFozUERKT0NpVjZTbWpvcm85RHZibWRoX2MtcVl1bFhwMkxFOQ?oc=5",
+        "label": "NEGATIVE"
+      },
       {
         "title": "T&T investors ‘gun shy’ - Trinidad Express Newspapers",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXQyYVY3WE9udWdUZnR6dVBGQ3NJX01wb1pLRlhJRWRkR2xILXZFS1JCWm1tcHF3V3VMOXRGbXc0VVJlSlotZGFzVFN4X0xjNy1LVTRJM0dnajBnT2NUU3hFaXFBRC1GendHR3ZBVTQ2dkxhRDNfdEFDdlkyQ3JLN3A1MWtLVkFvTmZvOWE3TmtNUkw5eGhteWlWQWhpWDYybVA0bk5WandWbkpxV1BNbm9pOTnSAboBQVVfeXFMTVlZbXdvektGVTA1eGE1bUhjZnV0bkdTbW1lODZCWm9LQzR2UFYyb1ctVVAyTVZHTVlhT0FCZHY1dE1TWDRTa2J5ZHhGRGxxV2dlNkUySEtUU05jZjBUN0hPSTZibGdHdS1iMUhhY1VRTHZyTkxYN0g3dGZfN2ZUbmRqYmZKRzAtaFJCVjU0VHRKWUVYNmZQUWY3QnZ2cXpIVmFqdEx4a25HbGw5Tmo4My0wbWczYW5OQkN3?oc=5",
@@ -550,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

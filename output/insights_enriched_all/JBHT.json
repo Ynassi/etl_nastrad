@@ -2,16 +2,16 @@
   "ticker": "JBHT",
   "name": "J.B. Hunt",
   "sector": "Industrials",
-  "market_cap": 13857981440.0,
+  "market_cap": 13840622592.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.354809,
-    "PB": 3.5839257,
-    "EV_Revenue": 1.299,
+    "PE": 25.323048,
+    "PB": 3.5794363,
+    "EV_Revenue": 1.314,
     "ROE": 0.13971,
     "ProfitMargin": 0.04651,
     "GrossMargin": 0.18825,
-    "DividendYield": 1.27,
+    "DividendYield": 1.25,
     "DebtEquity": 49.659,
     "CurrentRatio": 0.891,
     "QuickRatio": 0.665,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.027986765703055833,
     "ROA": 0.061100002,
     "PEG": null,
-    "EV_EBITDA": 9.965,
+    "EV_EBITDA": 10.079,
     "BuybackYield": null,
-    "PriceToFCF": 41.02053436605551
+    "PriceToFCF": 41.085168019693064
   },
   "technical_indicators": {
-    "RSI_14": 50.30976239739297,
-    "Momentum_10": 0.4855089244655363,
-    "MACD": 0.1966142240069928,
-    "BB_Percent": 0.3762445089157439,
+    "RSI_14": 49.33795664828497,
+    "Momentum_10": 0.7129925753384132,
+    "MACD": 0.514499641381974,
+    "BB_Percent": 0.4093108592394555,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.93134879912244,
+    "ValueScore": 0.8914810633741107,
     "QualityScore": 0.2839994803858644,
-    "SignalScore": 0.5828802407249889
+    "SignalScore": 0.5820218388875726
   },
-  "volatility": 0.024730835030344,
+  "volatility": 0.0249978588751771,
   "beta": 1.296,
-  "return_6m": -0.223607184220778,
+  "return_6m": -0.219404131638296,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 182.38
-      },
-      {
-        "date": "2024-12-10",
-        "price": 182.28
-      },
-      {
-        "date": "2024-12-11",
-        "price": 182.01
-      },
-      {
-        "date": "2024-12-12",
-        "price": 181.15
-      },
-      {
-        "date": "2024-12-13",
-        "price": 179.79
-      },
       {
         "date": "2024-12-16",
         "price": 178.09
@@ -537,42 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 140.21
+      },
+      {
+        "date": "2025-06-09",
+        "price": 141.64
+      },
+      {
+        "date": "2025-06-10",
+        "price": 145.18
+      },
+      {
+        "date": "2025-06-11",
+        "price": 140.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 140.92
+      },
+      {
+        "date": "2025-06-13",
+        "price": 139.85
       }
     ],
     "current_price_data": {
-      "price": 140.21,
-      "change": 1.09,
-      "percent_change": 0.78
+      "price": 139.85,
+      "change": -1.07,
+      "percent_change": -0.76
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente de J.B. Hunt Transport Services (NASDAQ: JBHT) est marquée par une série de fluctuations significatives. Malgré une baisse de 7,2% du cours de l'action la semaine dernière, le titre a enregistré des gains quotidiens, sous-performant toutefois par rapport à ses concurrents. Les résultats du premier trimestre 2025 ont vu des revenus et des bénéfices en légère baisse mais dépassant les estimations. Les analystes de Goldman Sachs ont revu à la baisse leur recommandation sur JBHT, entraînant une chute des actions. La société maintient cependant un solide dividende, tandis que des innovations majeures, telles que le service au Nouveau-Mexique promettant 95% de livraisons à l'heure, pourraient influencer le sentiment des investisseurs.",
-    "sentiment_score": -0.3,
+    "summary": "J.B. Hunt Transport Services (JBHT) a récemment connu une baisse de 7,2% de son cours de bourse, touchant un plus bas sur 52 semaines à 144,25 $. Malgré des résultats du premier trimestre 2025 qui ont dépassé les estimations, les revenus et les bénéfices ont diminué. Les dirigeants ont investi 10,5 millions de dollars supplémentaires dans l'entreprise, mais des experts recommandent actuellement de rester à l'écart des actions de J.B. Hunt en raison de la guerre commerciale en cours. Les investisseurs surveillent de près les présentations à venir et l'innovation de l'entreprise pour évaluer l'impact sur le cours de l'action.",
+    "sentiment_score": -0.35,
     "label": "NEGATIVE",
     "positive_ratio": 0.05,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.35,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.4,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "J.B. Hunt COO and Dedicated Contract Services President Set for Key Wells Fargo Investor Presentation - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1PUWgzcGxfMXc4RDdoZE9EdTlyYlE5bUNDajBlaDNOOFZQTWpleU9uVFRMdy1MRFExbmhrVmU3VjFaM0Vjb1JQSmpHNEpIX3FzRjFuRFZDR2l1bWZQbnlINTJUNzRkMlE1VFlqanlMUkh4VFpjY2VtbEFZQlhoRkE2WjBJZ2ktTFVFeHpYTi1UVHluQjltbmk4U1hsdFhEY2JtXzBKX0FDdld6Y0pBb2l0N2FzbTZvYWl2UXRvZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JBHT: Goldman Sachs Adjusts Outlook on J.B. Hunt | JBHT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekFFT3R6U3MtNS1SbnpBZU9NcVhxcDJWZGk3RXVFdWxNLW5xQ2U1d3NYRWxsRjZoQVQ4VVpqZmlDSi0wOFRaOEJ2QldiZ1JaVVZwX3JBOWxmZkJpaXYydDZSUTY0OEtOT2twbDZSdy1WNkhjbVpuZ0I1X0xGaWluZ1BrMkFMQzRQb1Q3U1ZMUHdES2JlVHpPTHFPOFg5aExMZFE?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "What's Next For JBHT Stock? - Forbes",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeklJLU54YXpERjdNcHlvWEVqdV9Lb2dFVXF2eG1FNjJub29DMmpvMG5ObXdoSmFXUHlGZi1iemo2MEN4T1pYQ3ZXUFFMaldYTmZHcWphRG56bVZoaUtULWhsbDROcHh5N29pbmp0T1dYQmJGdFkzOWduXzE4Ny1zVE5OYmtZUUlDeXZGbw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is J.B. Hunt Transport Services (NASDAQ:JBHT) A Risky Investment? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX1dyT0JnUENrRlEyTWotQS1pMDVqTDRxM2Jfd1l0OHgwRjJZZmk0UTBxV0Zqd3JuWmM1RmUyc3BvZE5xdEN6LWJoZ0Z5RExucWphOTgwdUZyd2VoTHdXX3A3UXBLaHM5b016YkVsN3IySm8zSEhaVVhFM0FJM2JMdW5Ed2dPNjhnVTNJcHhSWG8yQ2RvV1NUNGpkMVRueUhDcm9acFFUWm15QXo3YUxGVTQwbUNndHNRSDhQLTBsdVQ5VFA4anljUzFRR3d5em9qb1Fsbmx4cHFnRWV5aFRjWnFuRm3SAeoBQVVfeXFMT2ZIWDctUVdpQm5DV0NQeEFxVzAzaE9OcHRRTWNMT3ZTTngtdm1nR2ZMaElBa0E3dkV3V0xqcUpYcXVpS0E5cEdhVkVlT09qNXZ3NG1ScFI5cmVHekNQVkRNaXlUOWhpa1BWWkNhUkVzM1phUFh1cDA1UlZSdUFfaHVKTTdUa01nT2NZd3RWLVN1NUNqd2lxUHVTbUNnYjI3SEEtY3NxbmNubjFUS1duRVdlRFFzY2tXaGIxSWRHeGFuM09hTDdTdFFlamxkejJwODZlNWVfYmVWSEcwVWZ5ZnI1eFBsTUp1ODl3?oc=5",
+        "title": "How To Trade (JBHT) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXUtYWV4TTZidkwzaFJ5TG9RZFpPcFI0RVE4WWRoWlNzS04xSzFYNzFQVkI4QmRKbGVTanE5X0tFbHFFNldRWlBKT1J2VExLMklTWXNtZThNbEJOV3Iwd3c4cUc2SDdjSmVXY3FScHR4UFZ6THE3WWFRZGpjakxQbnlFS0RiNHllSS03Ym9acWFuQ05TcnJB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,23 +571,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "J.B. Hunt Transport Services Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSElBM2llbWVVTHZjRjkyTUdPWFVPU205VnhpOUk5cG0xdU9RUVdUaExGSjZhbDZWTjJEeVBsS3ZGTzJ2X3p5M1BJMWU0X1Q2UExlWXZ5NXVNUHlMVGVTUF9PS1VFWmNZTzBwbU00OHdaaUU3Vzl0SHlKSUxMTnNZLS1YcW9YM3Faa2ItOC0zYmJvU09kVmFBYXMxaHh0QW14NHRPM2kxaHpvQXBjci12SXZiV1VYTjlzMHNDcnd6S3owWVRCVkVBVzMyLV94QUc5MU5Fc0kzRGQ2dm81UnQ2U2s4WkwzaEFTdEdLUW1zUXpnclJMYUt1TnVfOA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Raymond James maintains JBHT stock Outperform with $155 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJrM1d1eXM5QWVwSVVLMUIzSWdUVC1HRnJkZUQyV2ZUSjZDRHB0WWswN2VpSjJOaElrTFFtMjdlNDk3a3Y0emk4OE54SHIwd0ZjVUd4dTNTVUNiMDd2MEtRVE1QUmU0M0dxanpSNG1QUlJoVkMxLVZETEhQMy03ejg3cEFDaGc3SVRNUEJhUEFJbmY5MFplYjdNT0hjVGd0ejZOd2hqRFBZX1FSeUtDSEFieVYxSFF3NWplM0ln?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "J.B. Hunt Transport Services, Inc. Reports U.S. GAAP Revenues, Net Earnings and Earnings Per Share for the First Quarter 2025 - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYWV0cDlnRWw4Q21BQkVlWFZ0ek1OMzdxb19LWjNzM01PVU9ZdjFhakFPdmp0YnJTZ2V0bUp0dmQzMks4TGh3Ulp5cm9SN0E2OThCU1NCZ0hVNlFsQUlkdG94M1RSa0daVXMzNVVQRFJCYmZMeWsxUXFWN29kX3hJTmY5c2FiRTdzUlZjN01FQ1BYOWw5bFFOdFpQdnM1ZjRNaHZDQ0lrcTZpZXV4Nk9QSnVfeTJLRE12WGx0NkctU1A5aVV6Z2d5X1ltMk9yZUE5ckFRNERDcklEMW1wY3RhckpFYWlhZEVKazdOY2llMHp5Q3VRcWdDcFJMblZxQzA4UkVEQjRhcDNDcDdw?oc=5",
+        "title": "J.B. Hunt Transport Maintains Strong Dividend Payout: Key Dates and Payment Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDBxdW9IbmpUNVI2ZEE5UkE0VUJmczh1aHhBTUFuVERpdkdxYzV6cDFRckN3TDFtaTdVZktJVEZoRFROdDZ6bE5HMks0dnVFUEwtcGhERHB5MEZPaVJsY2lnTjJQanZ5OXpSdVBpbm15bENVakk3YURaVnVIdFN1N3BNTXkxVXJiazVJaGNHWnlkTFZ0NjhoWXVjUkttc1kxOEVUZ00zV1M4UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "J.B. Hunt Transport Shares Fall After Goldman Sachs Downgrade - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUk9DOXJ6Sk1tSkk3X3BDeFRYQkNoaWJDQXJwSFJBbkxwMEZ5WUNweDB5VmFFZkYyd0I3Y21qUW9QM2RjQkNxU0NNaWlCSHYxVVBTendURzVkQ25IVG1JYWI1OGtJbkdyVjdCM3VOZDFaQXpjZXhpSlhfWkJjS2pmNGFhb1FoV3Fqd2JmR3BVX01GQ1c3VjdQZ19ZWkt6WE4yOFF6NWlSa0Z4c2dFcDNoVVdqZDJrNlMtWFZoTk0wYmFZNVBFYlVQWVByZzBVWWhZTFRjOHVWNVBFbnhiQzFkX3VKMA?oc=5",
+        "title": "JBHT Stock Touches 52-Week Low at $144.25 Amid Market Challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcElfb2VNWW9wQi1QVEZHUXVteXlscDJRNFYxYVRkRXFNUkdUMnNsNUoyUnMxaFZmcEw0V2tsRE95bTh5SzFJTDBQLURxQTQ0MEp6QzJISDByR0NRYTk2ZF9kd2xSOUtBTlNodFA1MWphbFo3RnJRNnk5YS1YbDZHMFo2WFlVY0RKdlVZZjJ1c25aSExMekJsSHdwWUo4R09UNldiLXRPUkdBSlRyVk1GS20wWmJEbXhBdnc?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -606,24 +586,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "J.B. Hunt Transport Maintains Strong Dividend Payout: Key Dates and Payment Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDBxdW9IbmpUNVI2ZEE5UkE0VUJmczh1aHhBTUFuVERpdkdxYzV6cDFRckN3TDFtaTdVZktJVEZoRFROdDZ6bE5HMks0dnVFUEwtcGhERHB5MEZPaVJsY2lnTjJQanZ5OXpSdVBpbm15bENVakk3YURaVnVIdFN1N3BNTXkxVXJiazVJaGNHWnlkTFZ0NjhoWXVjUkttc1kxOEVUZ00zV1M4UQ?oc=5",
+        "title": "J.B. Hunt Transport Services, Inc. Reports U.S. GAAP Revenues, Net Earnings and Earnings Per Share for the First Quarter 2025 - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYWV0cDlnRWw4Q21BQkVlWFZ0ek1OMzdxb19LWjNzM01PVU9ZdjFhakFPdmp0YnJTZ2V0bUp0dmQzMks4TGh3Ulp5cm9SN0E2OThCU1NCZ0hVNlFsQUlkdG94M1RSa0daVXMzNVVQRFJCYmZMeWsxUXFWN29kX3hJTmY5c2FiRTdzUlZjN01FQ1BYOWw5bFFOdFpQdnM1ZjRNaHZDQ0lrcTZpZXV4Nk9QSnVfeTJLRE12WGx0NkctU1A5aVV6Z2d5X1ltMk9yZUE5ckFRNERDcklEMW1wY3RhckpFYWlhZEVKazdOY2llMHp5Q3VRcWdDcFJMblZxQzA4UkVEQjRhcDNDcDdw?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "JBHT Downgraded to Neutral by Goldman Sachs | JBHT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTltNHdxWkVVNzhqQlczNjc5SUR3TVphRHNRMTM0MmJJWnN6dFdXS2Y3ckRXQWZkbkQxM0V4OWNMRjVrUC1jS0FncUJUcFhZUWdOcTU1dURyOGxFQS1mTHJJYTZCejNuekRHaGpsMTVIWnlxckZ3N2Z0dk9wSDVVQjlBUGVkUk5McUkwaDV4czBab1FEUW5rYTczSm1ZUXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Will JB Hunt's Earnings Drive Its Stock Up Or Down? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON19WR0tkSk1XeV9oZ3hidjd2TndYU1FJMU91d2RHMzNDaVhCV1RaSkh3dllLNUVwMHFnMUp4SFFTbzh4em1JNk5vcUJ4cmlBcUpmTDUwV1V2RldySEZyaktfNmpWNDM4SjNhbUhhWGlCRVpwbjV6QjRjeFhiX1N5bVFVQVdsNFBpakNHMzVlYW94VGJtckVvNmlFUlZvU1Q1a2hrZHo4dkEzS0NZ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "JBHT Stock Touches 52-Week Low at $144.25 Amid Market Challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcElfb2VNWW9wQi1QVEZHUXVteXlscDJRNFYxYVRkRXFNUkdUMnNsNUoyUnMxaFZmcEw0V2tsRE95bTh5SzFJTDBQLURxQTQ0MEp6QzJISDByR0NRYTk2ZF9kd2xSOUtBTlNodFA1MWphbFo3RnJRNnk5YS1YbDZHMFo2WFlVY0RKdlVZZjJ1c25aSExMekJsSHdwWUo4R09UNldiLXRPUkdBSlRyVk1GS20wWmJEbXhBdnc?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "J.B. Hunt Transport Services Insiders Added US$10.5m Of Stock To Their Holdings - simplywall.st",
@@ -631,31 +596,66 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "J.B. Hunt Stock Is Falling. It’s at the Heart of the Trade War. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45cXpQc2ttTlRBX3EybHFqZVNWN1ZEYllTUTdaZTNVUzl0Qy1NM2lUUEQxTFpQenRUNHdlZkNXRTFudDU1eE5yeWxCN2NLWEhEQ1Q4UmpuM3JTWVZFczlvSTJtalo2OFpRU1RPd21PZkljLUFJZURJOHEtYWVFQ0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "J.B. Hunt Transport Services (JBHT): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oNWF5Tlhuc2p3VGxST2JYWXBJdUs4bGdjOWVsUE12UTV0aktBdE5vcHJ1ZEd2bnJrLXM4cXMxVTJMMXEweG4zLUg5TWxHSkFLYkhlU1gxaGJOa1Y5bllObi1sOHNLWnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JB Hunt Stock Sinks as Q4 Volumes Decline - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkFQNlJ2dTF6QkQxb0pMNHk0ejhqNVhlUkloNWpPUEhrN0hfZWNuanU0cE5jLTV6YjVFa0p5RXNoLW9DQm1sOFk2UnRUX3k1bmtmbTM0NVVWcFUxdFpISUQ5R3E0cUkxZFdfcV9uc2QxcWEtOHFmQzFjSFY2NEhjMWhaN0U?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "J.B. Hunt Transport Services Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSElBM2llbWVVTHZjRjkyTUdPWFVPU205VnhpOUk5cG0xdU9RUVdUaExGSjZhbDZWTjJEeVBsS3ZGTzJ2X3p5M1BJMWU0X1Q2UExlWXZ5NXVNUHlMVGVTUF9PS1VFWmNZTzBwbU00OHdaaUU3Vzl0SHlKSUxMTnNZLS1YcW9YM3Faa2ItOC0zYmJvU09kVmFBYXMxaHh0QW14NHRPM2kxaHpvQXBjci12SXZiV1VYTjlzMHNDcnd6S3owWVRCVkVBVzMyLV94QUc5MU5Fc0kzRGQ2dm81UnQ2U2s4WkwzaEFTdEdLUW1zUXpnclJMYUt1TnVfOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will JB Hunt's Earnings Drive Its Stock Up Or Down? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON19WR0tkSk1XeV9oZ3hidjd2TndYU1FJMU91d2RHMzNDaVhCV1RaSkh3dllLNUVwMHFnMUp4SFFTbzh4em1JNk5vcUJ4cmlBcUpmTDUwV1V2RldySEZyaktfNmpWNDM4SjNhbUhhWGlCRVpwbjV6QjRjeFhiX1N5bVFVQVdsNFBpakNHMzVlYW94VGJtckVvNmlFUlZvU1Q1a2hrZHo4dkEzS0NZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "J.B. Hunt COO and Dedicated Contract Services President Set for Key Wells Fargo Investor Presentation - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG1PUWgzcGxfMXc4RDdoZE9EdTlyYlE5bUNDajBlaDNOOFZQTWpleU9uVFRMdy1MRFExbmhrVmU3VjFaM0Vjb1JQSmpHNEpIX3FzRjFuRFZDR2l1bWZQbnlINTJUNzRkMlE1VFlqanlMUkh4VFpjY2VtbEFZQlhoRkE2WjBJZ2ktTFVFeHpYTi1UVHluQjltbmk4U1hsdFhEY2JtXzBKX0FDdld6Y0pBb2l0N2FzbTZvYWl2UXRvZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James maintains JBHT stock Outperform with $155 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJrM1d1eXM5QWVwSVVLMUIzSWdUVC1HRnJkZUQyV2ZUSjZDRHB0WWswN2VpSjJOaElrTFFtMjdlNDk3a3Y0emk4OE54SHIwd0ZjVUd4dTNTVUNiMDd2MEtRVE1QUmU0M0dxanpSNG1QUlJoVkMxLVZETEhQMy03ejg3cEFDaGc3SVRNUEJhUEFJbmY5MFplYjdNT0hjVGd0ejZOd2hqRFBZX1FSeUtDSEFieVYxSFF3NWplM0ln?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Here's Why Investors Should Give J.B. Hunt Stock a Miss Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDlxZXdaY18wUXEtcmJMX2FZLUg5SjFqUWFIcTdSQnNETmdPTDBqdDlOT1U3ZUxOX19GRTdjM0Vrb1ZOOG1aZHpVaW53RmhXaW1nU1d2LXVCTnZTaGhWa0ZWd1pZVWRrTWVHZWEzWG1jT3RpYkxrYg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yYU5za2RfbjdBOVdfWHp0Ry03NEVlTmQ1NWtScTF2MnMxMzhRS2lhWEpEZVR5d3pnT2Q1SGtxTHdBRXNLdFp1TTRjd2V0a0hJNktjNkM5Tmp4aDNjenNabkpGYkFEVGM1WWlUYWlQR0IxWUxocUl3dg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "J.B. Hunt Transport Services, Inc. Announces Participation in th - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONi1qUEFiNUlSbVVVU1hsZm12cXRFNWRkQ0ZpTjUwTm1TeW5vaEdFSkdyb25ZbUVpUnlOcEhyYnBWZTU0V29FTjV0OXo3V0xERXdiWlNWbG80dVJtREFrYmxRQWhQNDFGSXhLeTNBX3hFcVUtS1plSXUzUDBIellBWVhHdkp3anpMREN5a3pCVTJpY09LOFRQY2hNMDRYNWd3d0Iwd0Raa3pvVFRlNlBXNEllNUFWQ1l2SGpKZm9Gc1VpMXlQVWhNQVM5S05jNjNYdG9vMTUzcWJGRTEyRlhqenRENGlMRDBjUmFsVnNDVFhXUzg0aEhObkln?oc=5",
+        "title": "Is J.B. Hunt Transport Services (NASDAQ:JBHT) A Risky Investment? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX1dyT0JnUENrRlEyTWotQS1pMDVqTDRxM2Jfd1l0OHgwRjJZZmk0UTBxV0Zqd3JuWmM1RmUyc3BvZE5xdEN6LWJoZ0Z5RExucWphOTgwdUZyd2VoTHdXX3A3UXBLaHM5b016YkVsN3IySm8zSEhaVVhFM0FJM2JMdW5Ed2dPNjhnVTNJcHhSWG8yQ2RvV1NUNGpkMVRueUhDcm9acFFUWm15QXo3YUxGVTQwbUNndHNRSDhQLTBsdVQ5VFA4anljUzFRR3d5em9qb1Fsbmx4cHFnRWV5aFRjWnFuRm3SAeoBQVVfeXFMT2ZIWDctUVdpQm5DV0NQeEFxVzAzaE9OcHRRTWNMT3ZTTngtdm1nR2ZMaElBa0E3dkV3V0xqcUpYcXVpS0E5cEdhVkVlT09qNXZ3NG1ScFI5cmVHekNQVkRNaXlUOWhpa1BWWkNhUkVzM1phUFh1cDA1UlZSdUFfaHVKTTdUa01nT2NZd3RWLVN1NUNqd2lxUHVTbUNnYjI3SEEtY3NxbmNubjFUS1duRVdlRFFzY2tXaGIxSWRHeGFuM09hTDdTdFFlamxkejJwODZlNWVfYmVWSEcwVWZ5ZnI1eFBsTUp1ODl3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Raymond James maintains JBHT stock Outperform with $155 target By Investing.com - Investing.com South Africa",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkRyQ09RdnpUTFJ2cnZFczBvUzFHV3U1dW9hVXM2dXVwaWwyeUZKbXJ0MFFQbkp1ZG5SVWxTNDhBVVhCOERJNVE4bkJ3T01uejVJRWgzbHUzVDFPNG8zVWtRclFybzcwX1dWc1k0dllEM1V0cmJLVFpwU2pfRXltdEVZSTZhMUFFTFkxOFZBM3AzekNiMk1XSjF1OGtpZUhTNmVOblY5MUJKMEMyb00wdlNFbkZ5MnlBbm9kMQ?oc=5",
+        "title": "J.B. Hunt Leadership Team Set for Strategic Updates at Two Premier Wall Street Conferences - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHdfdlQyUVN4YmhheVYtMmxoM1FueHRLTG9oV3NPTVl5VGRCV3d0VmptV0t4TjRqZ3VRSzYwRGNGbDltWS1TU2MtODU4b0trUUVBR2NHWU5oWHJfZmlIOVM1UkdGdmRnQzl4WGJGNHRlTlM0NkY4ZngydV8yY2NEelpraUVvVXMtNVVuaFZBSjJmNW9WY2VpMVhaSjBRQzFfcWpQZmszOHdYb25WVWVnRmV1NXNUek9NSFV3UlZkUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Investors Should Give J.B Hunt Stock a Miss Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42RXdNc2lBeWN4TUZ5WTQ2aGhWSjFDWG44WnhvVzhKQ0RtU3E0NUUzWllpX3JER2JDZC1PZld5dVVYM05jY0p5TjBpdzA0SDBqSG9sNHVBQ3o5SEtPbWV6U09lZTlvOGF0WldMVFUzZWdCcEVHNVZhcw?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Major Freight Innovation: J.B. Hunt's New Mexico Service Promises 95% On-Time Delivery, Cuts Transit Time - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2sxUW1mRXdrdmktZ2hsMy1icjJwT1FmcGx3R2N2bnItaFJXZ3ZvM2hFb2I2NUQxZUt6eVpJZ3R2ZXhLQmhCVF9HYkRUaFF4d2JpWnk1WUVSLXMwa2RrNXIzaVBTNlZCSU5kU3dYaWRPa294NkNFOWt3S1c1eVFTVFZZQXg1cFQ3NmlvclFpWHJ6WDZlSDdpMTZSa21qaFo3UW1Ub2c4NUlrOTl0ajFvNElYam8?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Jim Cramer on J.B. Hunt Transport Services, Inc. (JBHT): ‘A Barometer of Business’ - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IVmt5Z0NsYUNVTC1IZ2h2MzVFclRkU3ZYTEVveTlnWUlPdV9tRXBWUTRBR29MZWRMMC1fNXlPTFZEWklNWjlNQWltNVZZejYwZlZRa1FRUUR6dkM2OGYyVWV0eUlHb3kzV2QzSFdNbF9tZnM?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "NOW",
   "name": "ServiceNow",
   "sector": "Information Technology",
-  "market_cap": 213863727104.0,
+  "market_cap": 203141545984.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 140.84584,
-    "PB": 21.075409,
-    "EV_Revenue": 17.998,
+    "PE": 133.42041,
+    "PB": 20.018782,
+    "EV_Revenue": 17.814,
     "ROE": 0.16858,
     "ProfitMargin": 0.1341,
     "GrossMargin": 0.78917,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.32375318019016636,
     "ROA": 0.049200002,
     "PEG": null,
-    "EV_EBITDA": 97.831,
+    "EV_EBITDA": 96.828,
     "BuybackYield": null,
-    "PriceToFCF": 57.64132044114905
+    "PriceToFCF": 55.156472503679055
   },
   "technical_indicators": {
-    "RSI_14": 65.09274453552312,
-    "Momentum_10": 1.684434962892318,
-    "MACD": 23.406623579558985,
-    "BB_Percent": 0.7674409860277568,
+    "RSI_14": 45.41631010846188,
+    "Momentum_10": -2.891438507967578,
+    "MACD": 12.195148876930602,
+    "BB_Percent": -0.2099756104560327,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9046369189734856,
+    "ValueScore": 0.8187476336955725,
     "QualityScore": 0.4158978722055705,
-    "SignalScore": 0.4910451286967786
+    "SignalScore": 0.6171689303101839
   },
-  "volatility": 0.0303896558257553,
+  "volatility": 0.0303886745544168,
   "beta": 0.956,
-  "return_6m": -0.0817723679680558,
+  "return_6m": -0.1249397460880824,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 41,
-    "target_mean_price": 1084.14
+    "target_mean_price": 1085.3595
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 1120.48
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1127.84
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1147.18
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1148.42
-      },
-      {
-        "date": "2024-12-13",
-        "price": 1121.1
-      },
       {
         "date": "2024-12-16",
         "price": 1129.93
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 1030.21
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1026.86
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1009.79
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1004.33
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1007.37
+      },
+      {
+        "date": "2025-06-13",
+        "price": 988.66
       }
     ],
     "current_price_data": {
-      "price": 1030.21,
-      "change": 12.49,
-      "percent_change": 1.23
+      "price": 988.66,
+      "change": -18.71,
+      "percent_change": -1.86
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière des tendances contrastées sur le marché boursier. Alors que Nvidia enregistre une hausse soutenue grâce à une forte demande pour ses puces, Lululemon Athletica connaît une chute brutale. Les investisseurs sont confrontés à des choix délicats, avec des analystes conseillant l'achat de certaines actions comme Target ou C3.ai, tandis que d'autres recommandent la vente de Lululemon. Les fluctuations du marché, telles que la détente temporaire des tensions entre Trump et Musk, impactent les mouvements des actions telles que Tesla et Microsoft, offrant des opportunités d'achat pour certains investisseurs avertis.",
-    "sentiment_score": -0.25,
-    "label": "NEGATIVE",
+    "summary": "Les récents événements géopolitiques entre Israël et l'Iran ont entraîné une chute significative des marchés, avec le Dow perdant plus de 700 points. Le secteur pétrolier a connu une forte hausse, tandis que des actions telles que Nvidia ont été impactées négativement. Cependant, Larry Ellison a vu sa fortune augmenter de 40 milliards de dollars grâce à la hausse des actions d'Oracle. Les investisseurs doivent surveiller de près l'évolution de ces tensions internationales et leur impact sur les marchés financiers.",
+    "sentiment_score": -0.4,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Nvidia Rises: Strong Inference Demand Trumps AI Rivalry. Is Nvidia A Buy Now? - Investor's Business Daily",
+        "title": "Stock Market News, June 13, 2025: Dow Drops 770 Points, Oil Surges, After Israel and Iran Trade Attacks - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOTlVHTDhGd2ZjSnlBeV9GT00zbmlnN01vRWgySmI5Wlc0YldENWZaRHZBdVJqU2JCd1JUMmdkeFA5M3ByVFFVU3RYUWtmTlhuNm5zMkxWZzVrQjdrbWpaOVh3MGRwLTYtdG5rYzBXYUI2MXpmdm5XQU9oTDgxOUtjN2pUMG5Fc2FlVDA3b0pmQXBycTJ3SmdzLXN4WDJLbVpyZnVQWWFYT0NDQ3BmMnMxdUNzRE9NR0VIbk83bnVtYzVZQ2h6V2ZOcUxjRlhCRlI1cjY3aHlwaUhhajlHRjJVRDlZYTFGQzlaSFppTFBUTnZaS3VaTldWb0RlbDRrMXQ5OERmRGZzX2xxRVlqZ3dvT1lJNGpCR1hGeDVnNVBDOWRCdDlQNFdlcTQxSXMwdlZ6MHhhcTltVkN0a09IRl9tbWtkb0t0eW84dWktUnNOczBueTZnTWdmOXktbDdNX0Nnb1NFSlNZU3JpVzI1TS1oOXFLZW0zTm8wQWNQNGk3MUs4TUhqU0FfY0k4Tk9LdVZBQVczZg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nvidia Falls On Israel-Iran News; Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9weXMxT0E4LWxzVWtpX0pEamxBSkN3Z2paR3RFOW5LbndrZFgxaUNESWZGWFVXQ1VBcS1OTEdIZ2VqSUpZODZtV0YtRzR0TlJzc0NVcVRtWDdoQzNlclB3T1Vkc04zNFIwUkpQanhMVUtqX2ZY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Google's AI Mode Now Creates Interactive Stock Charts For You - CNET",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkh6Z25xeFllSXdlOUxUekQ5Sk41NlNiQmRhbHVxd0JOckp1d2JmV2lTVkpuVEwweUM3V1hNVURTNk8zd2FnczFFa2xHVnVyRzd4NTNULW90T1A1aDE3eHp5SFhUclkyWUVubTFVcVhXZGp4bTZpWlhHNklOVmFWUWhHUmo1V1dGeUZWUmxNQVA?oc=5",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq dive, oil surges as Israel and Iran trade strikes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0pkYkxZM3hTdXE5OHUxUmRDTDJHQ0tYY3dRU3o5WEZJdExJZ3A0cS1GTjFSX2tCenVvdWdvVEhnM1ltbGU1ZE5hNEdENzdzQ28zQlJ4TjA5aG9haGc1dExTSFkzVUw1VUVhSjJoaC05NmhqVFVZaXNxZmFmd2hadmhFQlhmblRxOHgxc3loNzdvcDY2Z1JjTVhGaFVFTVhVVlBZS1haWHBUSno4azdVSXJnVnB6bXBIQmlBZzFQN0hEekE0SlYzU0I0emxEOFFFNHc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Lululemon Athletica Stock Crashed Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnFWVGFvQU83VWNQSUE2UTNIQW53VTZGclhiUHN0Uk95ZEN0dW51LUowNl9hYzJ0czRoZ3dpNXRlU25WLVphNWtrXzFzNkxhN28xekxTVllSV1R3WlIzOEJzNWNoMjVUN2tXb0IzTG03XzJjc3ZOU3ltNjJjX3FLRHBTZFRrZGlzZHBR?oc=5",
+        "title": "Tesla Stock Is Falling. Now There's Something Else to Worry About. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQ0lDbmlMS3hUUVgtd0JZakl1bUhOcG9OQXZsVkpvQjZvcGhidTE1R21scDBvWkhydXVVbE5xa1U4R1dxak5UdUZ3ZUh1X1J1NXA1cEVIRUwzbWRUQU5wM192bUlVUTVYOUNNRFZUMXYtaFJmRHc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "You can find stock-market bargains now — if you’re willing to break with tradition - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUE9NaFdCUzF0NEllVnJkWXJKUkowVDNxRXYwOHpDUHdsUkU1MlJ3NGhqa3VXU2VZaGlFSU9JOERmZEtCVGR2QTE1azFhbXV5UlBhZHBZaURkbHpNOGJWRndFNE1GbEtDa21XaVBvYkR5RmVuSUp6OTR6c19McXdfZUM4dmRHcHY0MVBJcWQzMy1fY1o2ektzNU0xdEthSkpRT2VfY3NnQkRqeUdvbDZpbkZNZE0tUmZ3bVFzX0tDRXJoZ0JORk1JWElJQQ?oc=5",
+        "title": "Top Stock Movers Now: United Airlines, Adobe, Halliburton, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1BWSXBRVEs5djBOdl82SGVXZWVpVXMtVklDZXF1QWIyTTVfODU2djJfaWNNVmVQTVgxU3NVZ3pONEFrOFlsWE01LUM4NjNaTWc1bVBWUk5ONklpdDNiWDNJdmxER0NuV3I5Z0NuU2lkUE53dWtWOUoyVzhQcW5INUEyU0RvNlBQcWFJbnRHVjg1TUtYTkFuMkpiSzJmSHdMQzVF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Top Stock Movers Now: Tesla, Lululemon, Docusign, and More - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3hmb2ZQM0VGb2Q1UDdzdFBGX3R4dzB0RmZYRE5PaDBYWEZMdWdFUnM2OEtnZFZPRUxVNHdRUmpsaTlRaGt1VFEwTkRYVU1fSnJFaWozR29ZcEFUS1FTQlkzMkpJbmt5THc0RU1WemFoZl9BcWc1NnBJOExhSWQ2bkVkdm00ZGNaN2xZbDFfcldjakFmd2Zz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan U-Turns on Stock Market, Now Sees Slight Gain for 2025 - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUt6eklrVmxfU1d1YjNJR2tILWRhRTRmWWd1STFmbUJLbDEtM3hzUGotZVFzLXhCZEZyM2dCcjVvb0F2dGl3LXhTZ0RiUGMwZDdscnBlcVZRRnZGc0VLX3M3X1hBTHhyZ2VOY2hVc3N6RGVjTVRBSjY5Smh5YlZSZEJYOTdxWlNTNjZadjltNVhJbXE4TmlPQk9JQ1RUUHpmRkZ4U0hDZnRESnQyVGJfU2ZpNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Stock to Buy Right Now: Target vs. RH - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZajdBcWdiRWlyY3AyX3liUGhzU1FhbTNoZHVDVnhhUFU1WnBDNVl0SWtONGVKWE1wTkEwMEZkVUp2eVJGVjlRTVotTlRDZjJmczE1NXI3dlNQXzBtc280bEFUWEx0SElkWGtBdEQwNEk0ekZjbUt0MA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Now Might Be the Best Time to Buy Lululemon Stock - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0REN1JkME9IZWZOMzN1czZ0VGN1LVRIZllMZHkxQWhYZ3NRZVF4aWw0NjIxRmdRY0FxcmFCZ256SXpISVZuVmM3T0N4MjhtT0FhRU9KUFBmbXdqSFVzQlBvelQwclotYlFFRkEtcGhaWHprQ01vc0UwN2FJekUtOUtnOV9GazFsZjJuN0JSdHNQSzJYRlVmUDVrb2o3d2NCUHZMVmdtTFJtWmhVNUVFU3pwdXA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Smartest Growth Stock to Buy With $10 Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEgwdEVvY1FXSUZpYWdDWEFoNzk0ZXZkRDhOMFUxQXRyTHphblB3aEFWak4xNFpKeGJKUlNDWVJEVWZ6Y2xBSmpMQlczS0hRdm1qak5vQVprSW9xVzlrRWp2SkFxeElaSEtERzNkS25NU2ZSbUtTN1RCSEdNaXFUNkpndFpYWFFwZUV3ZFZzblpIZmxzMWVhYQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Best Growth Stocks to Buy Now, 6/6/2025, According to Analysts - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW8xQWUtNEpXRE05WHctYzhqUHpGZEFJSjc0OXVmNXI2OGt2ZEkyMzByY1hKaERyZlpiYUtxQXd5NHgzVGxuX3JrS3Z1dWcydmdQenFCMC1IZlByM24yUlptclVaWWlmMjhRcC0tRzBMSFc2dndLd2RqZFpZS1VOd0tKdkhpQ25XcnJpclhxR2hyMkRaa200?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Market Today: Dow Jones Soars As Trump Announces China Trade Talk; Microsoft Takes Nvidia Crown - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUFRNEl6M2tlZThBanY5ZU5zODVZQmJLeW9yUEZzWFRCR3hDWDlCcnRLR01Pc29nWm0tOTc5QmdMYVRLblNiTUVEUjU2QnVjUmIxUE1lZzhrR2JwNllqUmdXRTRSeEtleV85N2JMVjVrRmpNcmp3SFZrUzliSXV0dktQY0JzbXktU21oSWlBUWFxd2xmQ2FnaUQtcDdSZEZwcEZZSVR3eDZXUTlfNjhzWjh5d0tpVXQtV3dubg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: S&P 500 hits 6,000 as Tesla rebounds amid Trump-Musk feud cooldown - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHZScVYzd1BNX1NHb01iY2pQTGRCNjIwZVdMbmtuMjlyNGY5cFF0bHF2Y1ZGRjRsbnhRV0NHcEJEbFphcmdyZjdZdy1zY0FFWktQbFlzY1FYVzZDT1VkamxBOFdPNnlwbS1OWXRlLTk0MWtBSWRUdTMzOWlBamY4Mi1JVzFmRUVGQnN5RmdIYjJtaWJXQy1IYnN3ZWI4c3NRMkZGdE9lUGJqTlpqM1AtZjdFMGZMVjZsVkhyekM5ZERTR3RGaldKWlFqczNCaWc?oc=5",
+        "title": "Stock Market Today: Attacks in Middle East Batter Stocks; Oil and Gold soar; Bitcoin Off - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0ZLTENQMm1uZElGTXN1TF9Tb2ZMM2xGMTF2RUJLLUlVaEE1bWx3SVg2TUhQTWxzczJWcmIxaWhLMTRpXzRaQXNjUGZsZjRZUHZOVWk2bXFmY01nWjZqRjl3VE53RU8tc0diT2hFQ0V1VUdyWGNHS3oxSU40NVZ4YkkxdV9vYjY0WkRzcnpUa2RhYmFSLS1GQ2JCUWhBdUsxRldwLTZNOEJjRUd4R0E?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "As Lululemon’s stock tumbles, one analyst says ‘sell shares now.’ Others aren’t so sure. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTdzc0xjSGNwdWlZcFhKcGRpTFFpdWRfLWUwNEM2d3E4WGkybWwxWE00aEx0VTNfUjltNVBiWnF6b3BITFhkdXJQVGtoaWF3TjBLc1NzanZKN05ZTERROHdLeENxTVlUWG92VENGbDZ3d1ZQM2N5Y0lKVmFpcXZBV0dGamZMdnBHeTRYd0VrakJjUW55ZXRRcHJKUEdzSFhEQVBMNWhya3ZwZENiRTdzdmRMbk1acE1xbkhqZklkSjd0UQ?oc=5",
+        "title": "Dow falls more than 700 points on Friday as attacks between Israel and Iran escalate: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTE1IcmJfQjF1VkFwSk9jNkEyZWpkQW1qNUswTVZBclR0VjNnVXd1ZnNOcW9NVVZRSnQ5ZnRGTjBuOExJRWhEaXZWZ3dRSkpoaVFxZldpdVh4aWtRUG1DMm4ybXRyUEtJdWlZdmpjUnk2eWFhRXFr0gF8QVVfeXFMT3RkRDhFRzRudi1TcmpjdWwzc3J5bklGWGhnS29uTDdJc0pOZXVNVkxUd0xfX2xwMEFIU3dIWDFab1pvZ3pUNTFldDJfTTlaRzNrZWl1ZFVSNDAyZVloTVB1eTVCY2g3QUdoeVRZZktjcHJqSGo3MzBjMExXWA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Why Tesla Stock Is Bouncing Higher Today - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aHRvWVhkTE9JY1VlV2NHdVIxd1ozOUdBQ18zVWd3WjBJakhCeVVBWE92RDZyd2pmclN1NzFwSGMtWTh4RnhKWEtJclEzQmg0NEVOY1dHSnh5OTNRT2JyQTlPSXVCTmZ6YzhWZUlTM1lMSGhGblotMQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Lululemon Athletica Stock Crashed Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmlOUUduNmd2R1c2MXAwWUdmclZoS2l3Ym9ESVU2aHNiYlZqb0ZJR3paZjEwN1VJRVRqTzgyVFRaXzBvZzFWYmRkTW02SG1iQUVUck9jQXJ4anFnYnFHTG5TeUxxREl2dnpJSmstRTRYV19xS2hZUkhHd1dmTmkzUVhGX3R3VzBmeW1qX0VIVQ?oc=5",
+        "title": "ServiceNow (NYSE:NOW) Stock Price Down 1.8% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3JZM3ZYY0pkSjNleEYzVDd5ZXVXbjA1UnRPUDVlLTFLMTJUMzhGMXJsTlllX1JDbzZUQnZNZmE2czFNNWd4NFh3TzMzQl9TZ3kzeWNENmlORS1YSVBVUG50eGJsc1l4Z2RDZG1PNGVDYWd4T1JNdktxcFA2ZzlWWjN5LThyQmJHd294RV9GNWY0djFyU0w0bUVCVlVnQ05YZlpSRG5XaFdZb3lj?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Why ServiceNow (NOW) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdmJuOHFYYUFHZjlJV0pBdnZOUkl6SWtzSW9YNXNCRC1wNThtRzF2M2lrWlZuSXVKY293STFLdkFnakZUNnctTmgzT1BKczFwOW9mUkVwTFlyeWVsY2RPQkoyTERpUXk1SFhNQ3VUajQ3dWdhTk1NS1FrS0p0Z3N2cE5sbw?oc=5",
+        "title": "Larry Ellison Gets $40 Billion Richer On Oracle Stock Jump—Now 2nd-Wealthiest - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT1pVUG9lajlPX0xfWWMtTEVrV1FvVG5FSnBpLUxjZHJsUVZKQWNHckR5bXZCUVhaWUpVenAzMkdUOFN1eHRmaV9uZmt1MWtvdjhVWlZvVFp1aElLTGJLZ0FRQTNsZndqWEtsQU5zZUtIbkRYYWtLcW1rTnBWWnF0NGtpMVFaSWRQak5vcXM1WnpZVDZkMS1xRjRCR1NKSXAwRkhocS1oUE93U2dFMzV4Q3BoUzVyYWtXNzNJN1p4aFk0cHV2bTR4bU9nTF81ZEs3TmpqcmVRQl84eE5UMEg3MVpLX05HQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is C3.ai Stock a Buy Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Id2ZnOHdkZ3o1ZWlvSks5bWtvTVJ1WFJIVFNoLS04QzZDT2VsNnNVMzdGSTFOZklMTzZPZlVpYVVrVjZDM1BHVkpWSEtOZE5ZNjNHaUxQb3RuR20wWlJQSUx2WmJadTllRXlTWVJkMzRLRVFP?oc=5",
+        "title": "2 Brilliant Growth Stocks to Buy Now and Hold for the Long Term - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmN0eDJyRE9UcDVqTEw0OFZGSTV2TVZ1WVlVMHE0Yjd4dElNQWFjOUFITHdscDhMc29tUkNOeG1CYW1FczdYWlZVMGdRRk5vU0x5cHVmZ0xLcmdxZlh2blBXQ0QtWUVKbFlfV3A1bkhCd19IVXVQMXhNVmxaQmJIc0UyR1p2VUlzUWNHVjNodHpJTGw4MWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Roku Stock Is Beaten Down Now, but It Could 10X - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnBoWmVJbHh0NThnQXBWTGkyeDFXMjQwWlg4U1otZFQwX0RaOUY4Y1RYZ2s4TmJmUEJNQnRvbFFlQWN4TVFEYmNGQXlQdkVJNHVLWWM4NDFQaWdTMWh4d2hNMFlwQnoyM0FTR1dWam4tQVZiR2UzYXJqY2k2VkNDU3NrX2VXaTFUNGIzVHBxLU5yZTA?oc=5",
+        "title": "ServiceNow (NOW) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZWRfN3NTQlRlWG1QTFgya0ZyZFVSTnZZdHBHUkZ0VS1kRW94VWczZEhJUXZyUDBJTmU1LUhhTGtlVFlpR0ViZHEtTXVoazFHaDIyRHotaW5yZjZOVExKU1RYN3ZfYmFPWE1mVzZFZTc0dEhCY1ZaXzd5SEwtakpTaXJid2sySDU0RllqaWp3ZHFoU0JEM3R0anU2Tkx0SXVPNXYyN3poWEpydEk2bXdGaGN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SA Asks: What's the best telecom stock right now? (VZ:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2ZINXdrYURnR0xPY29GNFhsWm1Bc1E4R0V2UDd2ckJzUFN0NXVDLTBCVzcwRkdOVGc0X1JpaWE5N25rNWw1R1ZkaFdWSDNZSkJrWWpPX2pRRm90b2lkSnFhT216TXNZeGo4Sjh5enZuVVZiNG5qSDc1M1dWdk5fY2lIbmgxOTdveC1DSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: Dow Jones Drops 769 Points; These IPO Names See Red (Live Coverage) - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3JLeFhqd0NEcE94QXFsQ0xGVk53VzNUeFR2N0VQMXlqd1VBUEFtSGJWb0pvY0RETlJKdzBhR01tNDN1UTZIVVVOWXVVQVJHNzhoX0pCWVNTRjVFLTFKb1ItQXNsOVd5RXNNdTlReklKektQaGthcGxKN1pubmdmY0ZFY2VKdjN1UVVhVWtqR00zS1dCNHRnaTBCQk5YR3NJWDBBc0czTl9zaEhkazRPYWZEd01TeEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lilly Moves Past 50-Day Average: Should You Buy the Stock Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53RTFCdmlIQVNLcGpyNy1WcXUtOEM0dXRya2dtcllRNExjT25sM0ZQdFFzZDZwRDlDSThqdEpnaVFvWmhDZGdYV3Z2QTBtdEtXNnRwMGZhakFRYTVDRml4VmNrdDI4TjFWZG1KSV9JSF9yVlduU0Jlcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ServiceNow, Inc. (NYSE:NOW) Shares Sold by Livforsakringsbolaget Skandia Omsesidigt - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTTBmYm11Vm9OeUx5SVNTLXNRVlRPNnB1ZGZBUVhROVhDOXA4MjJBYS1PeEw3Uy1XdjE2Zk5fbkNmQXhLNjBvVklpSnF6dWNfNXVkdEhWNHd4cExOM0c1dk9faDhfNmdZUUVzRElrNjBvRXFxMlphN3N5cFNBWVlYcDE3Y1YyeTNzdjNEYm0xTVlwbmhlel9faVZhWUZER3Q1bElWclZLMDhhN1hKWk8td25XaTRFNlh1bi1jbmZUZUpqbEJhWm01S3FFdDNWWXZ4eEdPZEc4bnBBV3ZU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Now The Time To Buy Qualcomm Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnBYWlV2Wk9OMFdqZjNPcy1mWVhPLUNrRFF6dnpFajJDS0dwWDZoY2xaaGNXX2xhaklQSVJheVhqTl9EZTdZT2pGSlhwWHJZRUhiaExOQVFKcGM5ZzJ4UDRDQjF2dFhqTE5HdS1lTlVGLVp6WVM5VU56S3JWdXlmcU1mSWRwVEs3RUJlOTVEWDBCTzlQeTJKSjJjVTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Best High-Yield Bank Stock to Invest $25,000 in Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFpXclRkM3FGdlp6Uk1RelcyRjNDcGdsSVJCTHREajdHblVYQTl6czVMXzFfMm9iNTNOR3ZqTW9LY29HWXdCX2hOdUVnSmY3Q182STQ2TVVNVmNwTXZCN2NhNDF4LW9JaHZQUWhJNzdObnl1b3hjWnZWcDZPUzVtRHhZS01BR1h6MlF6R2tBcVY5QkhpaTl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ServiceNow (NYSE:NOW) Shares Down 1.6% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjhYb3AtZTlDRnZtSEpIR19XTmoxM2UtX2p3a09LWXU0NmlkeF9BeXYxdzVEbVBjUkpZVmgwSV9wSk55S19ZYnBnZmVaSWFreXh2RGg4VEtQeHFDOEkxdkp6a0Q1TlFRaGpMWmxzeEVhNjExVE9LMEtGOGM3QXVEM2J1QmZXODZhaTZkY3B2dXBRTEFzNU51Q2lzVlZKZmRqc3V4bThObWtpUFU?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Why Docusign Stock Got Devastated Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFlNcFpzbEM3Y0VQcjk1ZkFET1lYM2VaMG45dzQ0QWVOTENWS0dsUjl4UUxkR0IzdjduYVhnNmtFY240cGxmdjFRRFl3VXRzMkV2c2dkQlk4RWNCZWpqNXBNbVhyelpmcDJSZFFWaGxZWWZrR3N2WUNKamdsa2VCbzhaclNnYjVGcHc?oc=5",
-        "label": "NEUTRAL"
+        "title": "An Energy Stock Down 18% to Buy Right Now - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WWkNqMjUwVnNWZ0tsZ3FTZDZDTnhFM25COTEwcnE5d0pVRG5rWmQ4NDRLSlR5V0paLXk0U2c1SlJPdm9MbnBTY0dUWEpRdGl2cnBDV253RVNSQ2cySzdKMjQwcTl1bWVWRXBMM1VBU3RjOTRVQVNHVzE4X2d5QQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Is Affirm Stock Buy Now, Profit Later or Buy Now, Pay Later? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkE0WlF1N0pPc0JoTzNJVFZpNFpncnRyWTBJMXZKNW1VT3JYUzNyLUc0dUJ1RlZydUM3TkNRSnBUam9ialhxalROV1BnLU1WXzA3R0laaUFpSkgtSU9RT0tyQlhDNDdNVTRzQXQ0Rk5jNnFWc1BFTUFfODQ2bkxzcVNnZmIxRTVtVGNCRkluejFXRkdXXzBlOGUzOA?oc=5",
-        "label": "NEUTRAL"
+        "title": "ServiceNow (NYSE:NOW) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejgyT1BrVEhmWFl1OGRuZlRUY2M2VldKRlBldl9MaUxKRjlDQUtJUG5WaTk5OFI3YjFKcXY2eTY5UkFqYkxuLVNGZTdKeldKZnpKRjdIR3FjblVDYXNMVURZb0lySDlucVhmRWprbW9SLWZEQXpWUmpTcll6LUt6MDVRLXhIZXFsaWZ5SzN2NkZpLWZ0Uy00MFVyc3BiT0hKWURKY2ZVdDliTGs?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

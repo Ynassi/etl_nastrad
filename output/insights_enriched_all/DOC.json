@@ -2,16 +2,16 @@
   "ticker": "DOC",
   "name": "Healthpeak Properties",
   "sector": "Real Estate",
-  "market_cap": 11959812096.0,
+  "market_cap": 12008442880.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 41.987804,
-    "PB": 1.4688567,
-    "EV_Revenue": 7.731,
+    "PE": 42.158535,
+    "PB": 1.4748293,
+    "EV_Revenue": 7.835,
     "ROE": 0.0332,
     "ProfitMargin": 0.09986,
     "GrossMargin": 0.63589,
-    "DividendYield": 7.14,
+    "DividendYield": 6.97,
     "DebtEquity": 103.846,
     "CurrentRatio": 1.679,
     "QuickRatio": 0.661,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.2692840648448125,
     "ROA": 0.017439999,
     "PEG": null,
-    "EV_EBITDA": 13.441,
+    "EV_EBITDA": 13.622,
     "BuybackYield": null,
-    "PriceToFCF": 15.907865149633897
+    "PriceToFCF": 16.03239533292243
   },
   "technical_indicators": {
-    "RSI_14": 44.6546252824796,
-    "Momentum_10": 2.3483975322854485,
-    "MACD": -0.1966226269871924,
-    "BB_Percent": 0.4655086213775375,
+    "RSI_14": 46.29317838420776,
+    "Momentum_10": -0.6605386107183573,
+    "MACD": -0.0871677710479446,
+    "BB_Percent": 0.4859335786519971,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9292755187777768,
+    "ValueScore": 0.8707370351185224,
     "QualityScore": 0.3806078308664105,
-    "SignalScore": 0.5956522123981163
+    "SignalScore": 0.6038633037689656
   },
-  "volatility": 0.0156043981194373,
+  "volatility": 0.0155848036545929,
   "beta": 1.013,
-  "return_6m": -0.1730423863492161,
+  "return_6m": -0.1448821833934058,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
-    "target_mean_price": 22.97059
+    "target_mean_price": 22.73529
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 21.7
-      },
-      {
-        "date": "2024-12-10",
-        "price": 21.44
-      },
-      {
-        "date": "2024-12-11",
-        "price": 21.27
-      },
-      {
-        "date": "2024-12-12",
-        "price": 20.93
-      },
-      {
-        "date": "2024-12-13",
-        "price": 20.76
-      },
       {
         "date": "2024-12-16",
         "price": 20.71
@@ -537,37 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 17.26
+      },
+      {
+        "date": "2025-06-09",
+        "price": 17.27
+      },
+      {
+        "date": "2025-06-10",
+        "price": 17.6
+      },
+      {
+        "date": "2025-06-11",
+        "price": 17.51
+      },
+      {
+        "date": "2025-06-12",
+        "price": 17.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 17.38
       }
     ],
     "current_price_data": {
-      "price": 17.26,
-      "change": 0.18,
-      "percent_change": 1.05
+      "price": 17.38,
+      "change": -0.12,
+      "percent_change": -0.69
     }
   },
   "news_sentiment": {
-    "summary": "Healthpeak Properties, Inc. (NYSE:DOC) a récemment attiré l'attention des investisseurs, notamment avec des ajustements de cibles de prix et des déclarations de dividendes mensuels. Malgré des révisions à la baisse de certains objectifs de prix par Wells Fargo, des analystes le considèrent comme l'un des meilleurs achats pour les actions en baisse. La société a également annoncé un partenariat majeur pour un hub biotechnologique de 5 millions de pieds carrés à Cambridge. Alors que certains investisseurs renforcent leurs positions, d'autres réduisent leurs participations, ce qui soulève des questions sur la performance future de DOC dans le secteur immobilier.",
-    "sentiment_score": null,
+    "summary": "Healthpeak Properties, Inc. (NYSE:DOC) a récemment affiché une croissance de 7% de son NOI dans son portefeuille de soins de santé, démontrant un solide élan opérationnel. Malgré des cibles de prix révisées à la baisse par Wells Fargo, des analystes suggèrent que DOC est l'un des meilleurs stocks à acheter en baisse. De plus, la nomination d'un nouveau directeur financier et des synergies de fusion dépassant les attentes ont renforcé la confiance des investisseurs, malgré des ventes importantes d'actions par des investisseurs institutionnels.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 2,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Healthpeak Properties, Inc. (NYSE:DOC) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczU4bEZWRUdEdUs1cmVvRDRRc1oxZTNVeWRGU3d6aFRBTlNjYkZHWDdGdHpnQnFySzZlVzRHaHJRVXdUSGgyWGhMUDNKbmNmNkEzU1BTeWVhY1Vhb2ZMakVpSGFaV3BUVkdoaWcxZWhxazNGQ3ZKeEZFSWxCaFJtXzNRQ2ZNVmYyRUFidHB1THZ2UXJzTFlTZm15UmhRbW9LT2lrbXE2UmwwRHVoTnJoWmdnWTB2Z2VyWXN3R19raHdXMEtETlBNSi1JYVk4dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Healthpeak Properties, Inc. (DOC): Among the Best Falling Stocks to Buy According to Analysts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGh3UlJ1NzVHRFluTUZNQ3ZuZ1o0QzFfZnBHRHB4RzFxZFNXaDVLSHpvWXFqOTNuZWhkQk9MMC02LTJ0bHFtVnJEVTY1SEo3cHRBVnVOWlo4TjNfbVFfNnRKckRQZWtiTUhZWElNOWhPaXVtT3FEZ2tEeUxjbWtsT3B2NG1CY2k3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Healthpeak Properties Delivers 7% NOI Growth as Healthcare Portfolio Shows Strong Operational Momentum - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFhpTDIySWhHSmprMVFfVHB5eGRTR1YtdzNoNEpUeXhsMjBZRk1GRU12SHRZUnpTTFA2OFRlUFk1bnctRHlFUzMtMGFtWE9nbTUyMmdBV3dMbVJySDROaDQ3UmxKbVl4cFhtS0lpVHBjeVl4VHFtenFvUXZIakE0Y0g4ZHhIQXNkRHZ2Tjc0NnN0WXBDaDU5UVpncGtVeFVDUDYyUg?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Is it Wise to Retain Healthpeak Properties Stock in Your Portfolio? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOS1JZ0JDR3dwM1pXRmNsVWYwWl90VHlwdUhPWE1nXzUyX2wwWmRCMlo3SDZPOEozWkdYWjFOdnhEUW1WTkZ2dS1lRkx5djA2bF83dmRBZXA0OEZXd2JHNXFTa3FTUnMzazNyVFlPc1RhaENaT0VmN1REY0FmZG5RcHRpQkxGWG02UGRFcjhvS083NldVN1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Acquires 120,631 Shares of Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc2Y2QVVldm5CZFZ5OFItOFhrOExUSGFpT2JqaTRQZTVsMDMzNElRT09HQkVETGRYUGx1YUdNLWN5UTBPMkVUX1pqVWxxRlB5WW55UGdNaFF0aWV4anZPYXVpR1ZPZUU5TlJxTU90WUZWMkV6RFJCaVpWOWJUZkhqdkZpQ3EzcHVkWjQ5UWg0OEFqd3hVQmczdDFOdlJmLU1FTkx0Wm83OGNRZUt6cndlMklWTkZfUm1lYXNUT1JoT3dhdzB2am9ISDU3OXVoeTBGNEZ0UGlR?oc=5",
+        "title": "Director’s Bold Move: Major Investment in Healthpeak Properties! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWczaUY0T0VsRFhiV2J1WEhnZHllSVRSQ003MHIxeTVDeUhUSGpPUjBpUjk4Tmw3WFpidGJsa05GY202TGFuZ2RvVmJaSVY3OUJPdklMX0lYUWZVOWI3WkZCT1ZLc2ZBLWlKRnNKZU9lN3R4N3dfdklxY3dKUFloLUFwdFFfblhydEV2ZVBSZ2ZnTG0tWFJZNW80UVpQd1JnbTB5TmhyUmFQdk0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Healthpeak Properties Declares Monthly Common Stock Cash Dividends for the Second Quarter of 2025 - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR0UtdTdHaUhWRFpqS011Y3hqVUdGYTRyWGczQ0ZjUDIybzU4VWliUW9aNnVGYXUwQlpUZTNZdXUxSGFRUjNKMGNKd1dpSjhET2NiaVQwV2I2SWRzLVg3TXFDTk5jNUxSRl8yaUlZel9nRUJaNTd3bnhtOU1tN2JZZWl5ZHFYblBMNHJWbXBDSnBQcHlrN0lfSElaZmdFdUZGTjI4QjJaOWgxY0FPTkEtcjRydGdfVGw1LWxMUllHbWFSeUpsTmROX283NVF4LTVCOWQxZVRlOFZlTEtXVEl3Uy1JTGxOUm1JSUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Healthpeak Properties, Inc. (DOC): Among the Best Falling Stocks to Buy According to Analysts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGh3UlJ1NzVHRFluTUZNQ3ZuZ1o0QzFfZnBHRHB4RzFxZFNXaDVLSHpvWXFqOTNuZWhkQk9MMC02LTJ0bHFtVnJEVTY1SEo3cHRBVnVOWlo4TjNfbVFfNnRKckRQZWtiTUhZWElNOWhPaXVtT3FEZ2tEeUxjbWtsT3B2NG1CY2k3?oc=5",
+        "title": "Ibex Wealth Advisors Takes Position in Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXZnRXlNUHYxMnNyNWhYV29ySW1XS0oydmhFYjQwbVJRZXdZNWVXTHdidE55UzQtTF91TmR0VUNNWEktaWVIRWpoV0t3aTlMQ0VSZm1BWGZsQXc3Ql9NOWJyMjBQT3Jwa2UzQmRJemtBY1dwVXRDWnFGTnRHekhJRlZscVQxU0thZWFjdWVNdHVyTVF0WEI5OGROeTA4My1zNHNDX2p0RmFmQzZ6S1E0c3F4Q0ZDSkxlTlcxaDM3UDdOeUJsajhiY3pWcF9JV1pVRVFF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Better Dividend Stock: Healthpeak Properties vs. AGNC Investment - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3YwaGx1cDBuQ1Zrb1ljQXhqcFhSZjJWVzRwTGlpakZlZE42RUVUZVpvUldmd3NaZUo3R0tfSm95TkxfX091QVZNZ1pNMWU2STZwbXBPTnFwWExxQm4yQi1rRDlCa2VCczNuamdLUFB2dUg3NnhieVI3VEg5REwtZGhJYUhlY2VNdkttNjVRZVNQQzRhU19WRQ?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -577,17 +602,7 @@
       },
       {
         "title": "Healthpeak Properties (DOC) Price Target Revised by Wells Fargo | DOC Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnRzMUVNT2kyVXc1Z1dIS0V0cXpDRTBnN0tVX1AtLUl1SjRRX1RBWUxMME95OGV4MDNYSG84R1YxdDVhYUM2MVFjS28wVkhCWldDWjlqLXJjOFJjMFFjRHdyZE9LVndYR3p2NUdKcjFRNzJUY2s3dGI3cFQwekZyNEltN3pjV0dIWEdBQjZOTGlHS21sV3h2U2loZFVQNzVZaU5COWFUcTJPRF9KazFrcmFLWUN4dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Better Dividend Stock: Healthpeak Properties vs. AGNC Investment - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3YwaGx1cDBuQ1Zrb1ljQXhqcFhSZjJWVzRwTGlpakZlZE42RUVUZVpvUldmd3NaZUo3R0tfSm95TkxfX091QVZNZ1pNMWU2STZwbXBPTnFwWExxQm4yQi1rRDlCa2VCczNuamdLUFB2dUg3NnhieVI3VEg5REwtZGhJYUhlY2VNdkttNjVRZVNQQzRhU19WRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Healthpeak Properties Declares Monthly Common Stock Cash Dividends for the Second Quarter of 2025 - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR0UtdTdHaUhWRFpqS011Y3hqVUdGYTRyWGczQ0ZjUDIybzU4VWliUW9aNnVGYXUwQlpUZTNZdXUxSGFRUjNKMGNKd1dpSjhET2NiaVQwV2I2SWRzLVg3TXFDTk5jNUxSRl8yaUlZel9nRUJaNTd3bnhtOU1tN2JZZWl5ZHFYblBMNHJWbXBDSnBQcHlrN0lfSElaZmdFdUZGTjI4QjJaOWgxY0FPTkEtcjRydGdfVGw1LWxMUllHbWFSeUpsTmROX283NVF4LTVCOWQxZVRlOFZlTEtXVEl3Uy1JTGxOUm1JSUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYW1YRE5JSXRBV1EyRzZqOU9fY1ZFcnlKN1p0WlhIVjFsRzVQWVU3ellDTHZ2VHdvY19OekZwWlR2Z2Z0bjVoWk5LX19DdVZnWG9KRFlnbmVuVkZjaHlqd1N1a0t6eGZvcjk0aWVwT19IcGxwaUNsb3lUNk02RE0wa2daWlc2RWR6cWxFeXhkRGxwU05IbzJ2SXlQTWRHSVFKaUJEWmFXcWV1ZTlaaktFdmZ5bTIwQU0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,14 +611,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Healthpeak Properties (NYSE:DOC) Price Target Cut to $20.00 by Analysts at Wells Fargo & Company - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVjZGbktxTURKOElSTHFmZ3AyV3VtNFZsb25SRWprYU96UzNaRU50SjZncThPVXRpMEdpZUNFZUZqamEwN1Z1dGkycGtCZkExYXJ6WHg0dVVNVnVPaGZ4azJ0dmtBR3J4Ti02cVpvc1Jfc2dMZGxFMl9LenpzbGZqZzZrNkQwZ3lqUmhMeDRRYThUczF0VElDa29sUFVUZk1NV1ZpNks0TzhXTjBaNFlLeFZxbnNJRV9kUnBURzN6Zk14UTV0bDQzZWw4Tm1lOE04ZWNORE9tbDFTS0I0Q0VNTA?oc=5",
-        "label": "NEGATIVE"
+        "title": "Healthpeak Properties Reports First Quarter 2025 Results | DOC S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk05bHBmNGdSdTJlcDBIcDdKS21nU0NmaFZ0aFJaVFlmeHpsSXZBS2VXbXVHNGdmSS1zcTdqNkV3RkhPWWw2Y00wU1lQYTBuTDJMbzczZzJmSlJUaTNYNkFaQzMxNkZIYmpKNWg0WS0zQTN0aUd3S1NSbDZaVkhPTzA2ZG92czJmZ1Z4Rl9LdUZPRjNqRDl3Y2RWRFdpUjlZYTNQcnROeENDdE50eVN3?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Healthpeak Properties Stock: Is DOC Outperforming the Real Estate Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzFWUDA1QkdrcG1YNUJNVlhvVVZLNE1hSm8xQjc5T1YwaURkbEg4YWphMWl4d0xieWMzRk8wYXB0Z2dLdmRYN1Y2OFktb01ObkgwUnhyaDk0SEl6Wl9Ia21XVWtmTDNOSEpGRzZ1TUx5M09oTnRCM1lvZXE5aS1fay1KcUNRTVBGQVVlaDlidEJFZ3A4OWpsZGJzdWo?oc=5",
-        "label": "NEGATIVE"
+        "title": "Man Group plc Sells 953,071 Shares of Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNzhrLVZzSjVTVTlpMU14LU02WnNnLWJYQktsNThSNURITHRTVjk5Zk9HaDlWNlZRYlAxc0h6Rmh3TzhZOW1DQjdEQkdzYXUxMUp0U25FWEFhVmxyTzZTUWRJMXZVa3lReXNKSzBmbUc5cFlPOG1mUUdBWEZJdkNtaVV0N25oWWlCeFd2NTcwN1o4UVU1Sy0tYjYzTE4xbEEtMnA1WXBwaWFSRnRPX296OXFfVXRyUTU1aGRHcjJnbFMwekU?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Healthpeak Sets Q1 Earnings Date: Key Healthcare REIT Results Coming April 24 - Stock Titan",
@@ -611,28 +626,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Mackenzie Financial Corp Increases Stock Position in Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbExHNjdSZ2V3X0xsakZfQ2lJLVVBWFdvd2ViSVllY0tEMnlJa0x2dUFya1lOLVZsT1d5WXdac3ZDS0NXcVhyMnBRU2J2MnlHUjhiN1pUeGlLdTNuQl83ZWpmU2g2cGNndUxqOXZTYnFxbmgzVmdteXdwNFZVN0pEeGdYbWVxWDJvbURvUjdGcEFtRklDbUhwRzk1SUdVcGpvOTNvY2NqdTh2emhwQkJ4MEJvZDBjU3d0SHpJaUtiYnNqcEV3MV9EXzk1eEJNRGxRMDVleVhOaGhXOW1wS1VlSg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Jim Cramer Thinks Healthpeak Properties, Inc. (DOC) Is a Reasonable Medical REIT – Not in Love with It! - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG9oWjRoYWVGVWZKMWprZjdwYmpENVRpVTkybjUyMy0wb0RKNkJ2NmFicDYwaVBkSU4yVVJsZWk2T292VkNNalRBQlp5Rnl1ajYxcTdGeU1IWGV0LVpzaVZkdlNwd1JWeUg4cVNaY1RqcnB3RERxb1F1R3VlNlNSVU0xNloxazZJSWhOWFln?oc=5",
+        "title": "Focus Partners Wealth Sells 38,304 Shares of Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNmZXVVFGQ2ZXbTlpcS1aODk4SVlkeEU0OC0xWVNyZU1uY1lTZGI5S19SQ2V5R0dQUEI1eWpnQkh1c3p4cl9IMDRIZmRfRzd2a0dNUjFLVXVwTkhlbFRPSVdJUnU1Vi1QYnJ5VldLVFNnYXZqbFdrVUh1YzVhS3V4SWxJRkpTNFowUEtlb1RYMnNxLVNHRVEwdzItZnFBcWh4SkRjd3lvQUFVejRwdVJqalM2WTQxNkZ2emRYaG5URXluZjdQRWpueXRnMTFidVp4cTRXSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Healthpeak Properties, Inc. (NYSE:DOC) Shares Acquired by Douglas Lane & Associates LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYm5wQU0zV1p4Nm9HZzNER0M2TTNfZXg0U3Vsc3JESk9YQWJVMFh4RC1XVmVnU2F3dk1IT1RVeUpJMllkVVdERHRuV1RSLXFOdEZHbDA0eFlkR1pWWTQxT0RJSnVsVHZXTGNfaVFNZy1MQ3hSM3hBeXUtUWJWclViNkR5c2F5b0RKcFFQY1h3SmdUcXplMUdJNFNIby1KN1AwWEo5Qjk2alJINk1xaTEwZkF6ZEJ3ODZYS1VaczNJaHZTeDRMNGM0X2JEcEMwRVZ3ekhPQ2gtRXE?oc=5",
+        "title": "Healthpeak Names New CFO After Crushing Merger Targets: $50M Synergies Exceed Plan by $10M - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVlsX0huV1F6TVI4YXNiZVBNSzJUY2pzdVRGNGVaTk9SaU9EVVFQb3V2OWR5ZS1rMHY3d1ZqQjctdDdaRkhKcEFpZk0zS1VqeHMwTlM1VW9OWjFuNE5ldWxlbUVJc0d1d3ZPc1VNYm42RUx1YjYwY0tvN0YybUdrLTV4WUhzUGg2cWxvZnQ5Uzd6bXhTaV9zVVk2SzdkOUtQUXgtUE9VX2VEOUlQNndHX1lZaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Acquires 503,145 Shares of Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
+        "title": "Healthpeak Properties, Inc. (NYSE:DOC) Shares Acquired by GAMMA Investing LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcENNa2dHSWFQWHJPejZJalV0OTVsV19LcWJzNWs0TFRLRnZTWF9FNjZ5N3g3YmlMOXRSVUo1c3FWSnJRSVphaW5CWjJ0VEpTQ0dxLWd4TmphV1d2WVN5RlVEZUpCZUxoUmJUQURzeGFfSjROMW1ETGJRNjRyX2FhSF9pVmRyOUdoREtGdFMwVUdEMlN4c2xJV2RZeWUzblNNN19XNm1qaFNGcTYtME5HbDFpQXNsTWR2cm1nQ3NkWk5sb09hNFBIeU0zdGtDWkNzd0Q3TVY2UE8zWlA0OElQVEFTay0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1,487,557 Shares in Healthpeak Properties, Inc. (NYSE:DOC) Purchased by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWjlITTlVSUZBcnE5eDRaeDZCNWVvd0gwVklmSTlsNDlvNWdZUWdfbkxnMno4WnFfNnNaWGxlcm1lTV9BcktYWUlrVy1NMUFTaUxPSFF5dV9aWUFEQTNaaE0xY1M1M1N1dWtfQ1U3ZVZmeWwwUzBzOUJJbXVrU1FVREtteHdqdk5WVURiZFRDTEIxWGdWTTRhcVllczJnZURSXzNFZ2tfVW54Q216VVZRaXFTM0hKdERuZk1TdC02TXVKNHlBQzRNTUNmZkpRblpXckJCNzh6YjVhb2ZmUjM0N3htVF9TMUFJQnVCcDRDaVdWM2JobnhmdnE2OEVGczBIc1plLXlKbw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Tidal Investments LLC Cuts Position in Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYThSUW81OE1IX1hYZ0ZnUGwtNVdsOVo4bW1sZFVoTTRmRWJmSnpjVzN0ekVSRThNbTJZM0JxNjY2UzFXc1ZMLTVvcEdnNk45Nm96cGhMLXUydGhJcU9Rdm0zU0hhaFpIeUs1VGdjZEU2QkxtVlJHSXp5SkVNdmtjNEowQ1l1STdfdzlHLWI5T0lib2xCRm10clZFNnBlM3JMb0h5VWNGbmZXMl9QcnNWbFpHbHRpOGZpS25odUU1bEFaR2VXRUgxaVpXOTRpZlNRM1o2R0FUeXJLZw?oc=5",
+        "title": "Healthpeak Properties (NYSE:DOC) Price Target Cut to $20.00 by Analysts at Wells Fargo & Company - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVjZGbktxTURKOElSTHFmZ3AyV3VtNFZsb25SRWprYU96UzNaRU50SjZncThPVXRpMEdpZUNFZUZqamEwN1Z1dGkycGtCZkExYXJ6WHg0dVVNVnVPaGZ4azJ0dmtBR3J4Ti02cVpvc1Jfc2dMZGxFMl9LenpzbGZqZzZrNkQwZ3lqUmhMeDRRYThUczF0VElDa29sUFVUZk1NV1ZpNks0TzhXTjBaNFlLeFZxbnNJRV9kUnBURzN6Zk14UTV0bDQzZWw4Tm1lOE04ZWNORE9tbDFTS0I0Q0VNTA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Healthpeak Properties, Inc. (NYSE:DOC) Shares Sold by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV1JfWENqUmNra2xBX0VOcEhuYlliVy1jNW05eHJlX3RmanQtampJZnZ0UW1sdHZyMXFYc19oZVBVMVhFQ3lDNTRZRDJTYVdyWFhtZWpId3pwVEhpWGRNenhSUFJaMmpRSEsta0tzVFNFMGl5THhWdkVFbmMtX3hPYU9pa2pRcEJnT05Uazc0dW42R0tZQ1JnTnRkUlVPYTFya2ZueGFjajREcG1XblNHWTFiSUZ5ZVJnZENTa3RWVXVUWWxzUEtQVERPdjJwSnJCOG1kekhJUjdhMFhJVHJXN3pVanV6V0NDRVYzZlJRd2pRMWg2cGZ6cFYzaTJBNjI1eFlVRFR1TmdXUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's What Key Metrics Tell Us About Healthpeak (DOC) Q1 Earnings - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrVmtVX1RGME9aZ3FEa2ZNUkV1ZmlLQWMxcXF6UXE0OXIySEU0c0oxc0pQUXZPNERMNTQxRGc2U1JtZThKc3FITDlYSjhHRFlyYmxsZm9XNmVHeEwwWHdISVNlZ3ZUZlkwLTNQbDNWeGlGbTlWeEZ0ZVNqZw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Mackenzie Financial Corp Increases Stock Position in Healthpeak Properties, Inc. (NYSE:DOC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbExHNjdSZ2V3X0xsakZfQ2lJLVVBWFdvd2ViSVllY0tEMnlJa0x2dUFya1lOLVZsT1d5WXdac3ZDS0NXcVhyMnBRU2J2MnlHUjhiN1pUeGlLdTNuQl83ZWpmU2g2cGNndUxqOXZTYnFxbmgzVmdteXdwNFZVN0pEeGdYbWVxWDJvbURvUjdGcEFtRklDbUhwRzk1SUdVcGpvOTNvY2NqdTh2emhwQkJ4MEJvZDBjU3d0SHpJaUtiYnNqcEV3MV9EXzk1eEJNRGxRMDVleVhOaGhXOW1wS1VlSg?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

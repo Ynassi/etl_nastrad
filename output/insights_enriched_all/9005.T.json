@@ -2,16 +2,16 @@
   "ticker": "9005.T",
   "name": "Tokyu",
   "sector": "Consumer Discretionary",
-  "market_cap": 1007384002560.0,
+  "market_cap": 990147379200.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.993181,
-    "PB": 1.2168667,
-    "EV_Revenue": 2.163,
+    "PE": 25.512022,
+    "PB": 1.192925,
+    "EV_Revenue": 2.144,
     "ROE": 0.09703,
     "ProfitMargin": 0.07552,
     "GrossMargin": 0.317,
-    "DividendYield": 1.63,
+    "DividendYield": 1.62,
     "DebtEquity": 148.083,
     "CurrentRatio": 0.638,
     "QuickRatio": 0.311,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.014032834817486413,
     "ROA": 0.02417,
     "PEG": null,
-    "EV_EBITDA": 12.003,
+    "EV_EBITDA": 11.898,
     "BuybackYield": null,
-    "PriceToFCF": -68.04637376977335
+    "PriceToFCF": -66.88208119345411
   },
   "technical_indicators": {
-    "RSI_14": 54.91396651788026,
-    "Momentum_10": 3.6653857522908657,
-    "MACD": -4.238254170075152,
-    "BB_Percent": 0.734406777375872,
+    "RSI_14": 45.0784916895229,
+    "Momentum_10": -1.8835616438356164,
+    "MACD": -2.028127754604384,
+    "BB_Percent": 0.4191715566792843,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9322729978341068,
+    "ValueScore": 0.8901482523214521,
     "QualityScore": 0.4288809987897576,
-    "SignalScore": 0.5315859363918141
+    "SignalScore": 0.6165788574746303
   },
-  "volatility": 0.0109955266437891,
+  "volatility": 0.0110670405705787,
   "beta": 0.172,
-  "return_6m": 0.0355384136933816,
+  "return_6m": 0.0232498994883114,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1705.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1695.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1693.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1690.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1700.0
-      },
       {
         "date": "2024-12-13",
         "price": 1692.5
@@ -525,24 +505,49 @@
       {
         "date": "2025-06-06",
         "price": 1753.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1748.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1751.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1752.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1723.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1719.0
       }
     ],
     "current_price_data": {
-      "price": 1753.5,
-      "change": 32.5,
-      "percent_change": 1.89
+      "price": 1719.0,
+      "change": -4.5,
+      "percent_change": -0.26
     }
   },
   "news_sentiment": {
-    "summary": "AMD a lancé le EPYC 9005 \"Turin\" avec jusqu'à 192 cœurs Zen5c, renforçant sa présence sur le marché des serveurs. Cette nouvelle puce promet des performances accrues, ce qui pourrait augmenter la compétitivité d'AMD face à ses rivaux. L'innovation constante de la société dans le domaine des processeurs pourrait soutenir sa croissance à long terme et maintenir l'intérêt des investisseurs pour ses actions.",
-    "sentiment_score": null,
+    "summary": "L'entreprise Tokyu Corporation (TSE:9005) semble être évaluée à 33% au-dessus de sa valeur intrinsèque estimée, selon simplywall.st. En parallèle, AMD lance EPYC 9005 \"Turin\" avec jusqu'à 192 cœurs Zen5c, d'après VideoCardz.com. Ces annonces pourraient impacter le sentiment de marché autour de ces sociétés, incitant les investisseurs à surveiller de près l'évolution de leurs performances financières.",
+    "sentiment_score": -0.5,
     "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Tokyu Corporation (TSE:9005) Shares Could Be 33% Above Their Intrinsic Value Estimate - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXVIZFphUHlnLV9uSUVtWXZZTEtUalYybkxsbm9nNWdPU3pTeDZYejFob3FZSTd6WEF3M29Fd0pGYVZFM2gycUV2d0NjSEd0bDBfQS1NdEFxYWJWVUJlVUxaMURGQ0ZmQkJPc3d5RUJoRXRyNHZoUktyV19ZX3hXS0Vqc2hkUTVjcEhTanlyZU9fbG1YS0FJNmlpdE1FbXMzZFl2T1NjTTcyU0wtRnpmWGJMbmxLZWs3cEhNc3EwT0t1NmZwX3l6aXZrX1gxTG_SAdQBQVVfeXFMTVBnR2RzVkFRbkJmYTJ6ZnZLcVNBZWg3NFhEbGk2ZWZUWUtVSGMzeFFWb2cwelJnSzRJYjBJOUJ2emxCNVJKMWxlbDRBRmU3U18tbmpBYVczUGRnWlNnajlVdTRmS1ZHekZpU3VNMmExQVFudDUxeWtfb2FubGlVeEd6c1Jma0JNel8wZndSWWFlcUJXUXFDSkhta0o4c3JpNnJXcmEyNXJFYWNHVXhlNlhzQTVoaWx0ZnpjQ002WXBObVhEdzBRbmVuYkx2QWwyLUtSOTE?oc=5",
+        "label": "NEGATIVE"
+      },
       {
         "title": "AMD launches EPYC 9005 \"Turin\" with up to 192 Zen5c cores - VideoCardz.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2NxeW82SEZZZmN0eXhZVWkyY09tWjNYbV9faFFxSExuUHZOZVFaanF0Q1N1WS1KZjFPMHg5eEZ3UzZTdE5VSFp3Y0ZxTjd0Zm1ZRnAyZk0tTEpOaV9HUk9Qd1l6ZDk0SjRGa1lhUUhOTFpzNmpTdkxhUGg4YVNyc1pEdTd0eUJDaFFr?oc=5",
@@ -550,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

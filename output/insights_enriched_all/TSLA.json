@@ -2,12 +2,12 @@
   "ticker": "TSLA",
   "name": "Tesla, Inc.",
   "sector": "Consumer Discretionary",
-  "market_cap": 968864759808.0,
+  "market_cap": 1048277483520.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 172.87355,
-    "PB": 12.974464,
-    "EV_Revenue": 9.338,
+    "PE": 184.9176,
+    "PB": 14.037913,
+    "EV_Revenue": 10.496,
     "ROE": 0.087740004,
     "ProfitMargin": 0.063829996,
     "GrossMargin": 0.17662,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.03510091391066147,
     "ROA": 0.03724,
     "PEG": null,
-    "EV_EBITDA": 71.227,
+    "EV_EBITDA": 80.059,
     "BuybackYield": null,
-    "PriceToFCF": 288.87506163809525
+    "PriceToFCF": 311.84835535238096
   },
   "technical_indicators": {
-    "RSI_14": 43.61778814937809,
-    "Momentum_10": -11.916494730876828,
-    "MACD": 6.876906319472994,
-    "BB_Percent": 0.055932494307803,
+    "RSI_14": 52.17879294869789,
+    "Momentum_10": -5.954512899503832,
+    "MACD": 3.47098422190021,
+    "BB_Percent": 0.3961941557906024,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9044961457463204,
+    "ValueScore": 0.8354646415305217,
     "QualityScore": 0.2100901840947873,
-    "SignalScore": 0.7266930089133388
+    "SignalScore": 0.6036943280931499
   },
-  "volatility": 0.0497103943381134,
+  "volatility": 0.049530647429396,
   "beta": 2.461,
-  "return_6m": -0.2273649731248198,
+  "return_6m": -0.2539371928208174,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 42,
-    "target_mean_price": 299.14142
+    "analyst_count": 41,
+    "target_mean_price": 301.5595
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 389.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 400.99
-      },
-      {
-        "date": "2024-12-11",
-        "price": 424.77
-      },
-      {
-        "date": "2024-12-12",
-        "price": 418.1
-      },
-      {
-        "date": "2024-12-13",
-        "price": 436.23
-      },
       {
         "date": "2024-12-16",
         "price": 463.02
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 295.14
+      },
+      {
+        "date": "2025-06-09",
+        "price": 308.58
+      },
+      {
+        "date": "2025-06-10",
+        "price": 326.09
+      },
+      {
+        "date": "2025-06-11",
+        "price": 326.43
+      },
+      {
+        "date": "2025-06-12",
+        "price": 319.11
+      },
+      {
+        "date": "2025-06-13",
+        "price": 325.31
       }
     ],
     "current_price_data": {
-      "price": 295.14,
-      "change": 10.44,
-      "percent_change": 3.67
+      "price": 325.31,
+      "change": 6.2,
+      "percent_change": 1.94
     }
   },
   "news_sentiment": {
-    "summary": "Tesla (TSLA) a récemment connu des fluctuations importantes en raison du différend public entre Elon Musk et Donald Trump, entraînant une baisse significative de 14 % du cours de l'action. Les investisseurs ont réagi de manière mitigée, certains considérant cela comme une opportunité d'achat, tandis que d'autres ont exprimé des inquiétudes quant à la valorisation de l'entreprise. Malgré cette volatilité, certains analystes voient un potentiel de rebond pour Tesla, notamment avec le lancement du service de Robotaxi. Cependant, la question demeure quant à l'impact à long terme de ces événements sur le sentiment de marché à l'égard de Tesla.",
-    "sentiment_score": -0.3,
+    "summary": "Malgré les récentes mises à jour du Model S, l'action Tesla (TSLA) a eu du mal à progresser, notamment en raison du retard de son projet de Robotaxis, suscitant des inquiétudes. Des analystes émettent des avis contrastés, allant d'une vision baissière de Wells Fargo à un optimisme de Tom Lee. Le différend Musk-Trump a également eu un impact, mais l'annonce d'un début de test pour les Robotaxis a permis à l'action de se redresser. Le marché reste attentif à l'évolution de ces facteurs clés pour l'avenir de Tesla.",
+    "sentiment_score": -0.4,
     "label": "NEGATIVE",
-    "positive_ratio": 0.1,
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
+    "negative_ratio": 0.45,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "TSLA drops 14% as investors see corruption being priced out of Tesla stock - Electrek",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE80X3RLdnMwRTM5a1JwS0p1QXEzNkhpRERSeHF2Mmc0RFJqZVZBd09rRDA1SHp2RFcwd3dZdWNaRkl2VVdwazZnWXdaampoS29ydTF6RlZRSHl3RWFGNkI5MjBMNlJVaktQY3duSUVRYVJWeHR2UzlRRndJeHlENnh5OGRMeDh5ZEh4Ql9rTnBwWnNKV0pYMjVuNTZkMVRvNjdPQWJqOUs?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla (TSLA) Stock Rebounds as White House Brokers Musk-Trump Call - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUwwMFR4X1pBTDdoRGxjdnhVWXQ4bmdWUVUyVUZYQ0RmdVpwNl93OVpyOWdZUVJ3NUNoZFhsa0lKZjdZVXo3NWY3X0dkNDl6NElpOHpuU0hVcEk3cUJ4amJKOTFWQ1pqbTRfQ1pNVm9pU29zSEpyN2VZQVNnaUhLN0xHWQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla stock plunges 14% as Trump and Elon Musk break up. Here’s what the numbers show - Quartz",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVBkbGx6cGx5UmlBQTJSV2FHSmVSXzU3YUdsdE9MQXhZVGl3UTdOMlNJWTJvQzl5QlFDRmd5NEhlTWt1RUZSZkFTZ3NuSUhtcXJWRWNOQThsWURNcmo1d1ZsbS0ya2lldGg5QW9CM21SR3ZUajNSektMWXVNa08xUjNXeDM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stocks making the biggest premarket moves: Tesla, Circle, Broadcom, Lululemon and more - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0NFTDc5WV9YdEpCaHFuZmRuTlJ1eTZDZTlBeXRRQWRrNTZWNDBMSzdYQWJ6dm5HUHhyM3Q5bGtGVFhycWlsMDNCeDYtZFlzM1ZBeDd3ZGV3Z3ZjVm1XRFpJNUdNMGlsbXFvS1JzMWNhNldzWXlrVEtiMTRsZnc5ZmFabWZTTVRSR1ZpM2RxRjVkcmRpWnRIV0pseXdwdm1qZHF2LWZwV0lGZlk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla Stock Bounces After Musk-Trump Blowup But Maybe There's More To Thursday's Decline - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnJTVlJuM0ZhTW5uWkJ3d2dKTkE0THY0NDJjX2VDZlZ4ejZiM2dZcTI2YzZiRkF2OC1HUWxvbWdRbXB2MDZBWUZVYmZiQ211NXdKU2l2VWVQM1I0MUx5YkFpRl9zVnNxNWdfNjUwSGxFQ0RuSGRSVkgwWEhZZTczY0JQUG0wZEJ3ZlpLMzNPOHJIUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Retail traders scooped up Tesla as Trump-Musk spat hit stock - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkQ1dHoxdDhieHRtVEwyVHRsT3BNcU9qemRXLTM4eF9GMHo4R05lV1VTeUhibFpWY0dZOVFJTUs4TW5FQUlGQnFLbzFMYlBOaGpHSzNjV283T1RfMkpUdFY3bVZSMDMtcGF2d3BPb05QbHlwZERIYkRaWWpXYU9sOFRXVFcxcm5VZVV1Q2s5anE4QlQ5b0JZN1BIdndsdEVJUl90ZVVnemdZM1lwdVItelIyX09VWlRveHZ6d29zY20?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla's Imminent Valuation Crash? (NASDAQ:TSLA) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZaGpGVXJEQlNvMm9TdTdiSjMzb183eHBndnhjbS1VdkhlRnZ6MWtVX0lQWkNfY1RZTi16RXhUOUJLdFA1T2J6SjNqNWlmdXdqTENoX2xJR3pETzlPcTBIVVB6d0NfRVZDLWxBSHNUQWpuZmZiUTJJQ0pkbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cathie Wood Trims Tesla Stock (TSLA) Ahead of Robotaxi Launch—Is it a Red Flag for Investors? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25LZzBLV3NReXYtZ2V4SlZSMjI5bWFrNUNEenZ2Y2VUbThqeFlRSWZjUmZCLWVJS085a2RFUkJ2V2ZBa3hQTE4xQjNMSEpYQ3luaHd5Y3dRaW5oZ0tBT2lHNldiMS1ZOWRJZ1lfMVZXNUhzMGJHa0dDSHc2aXdtaC1WVGs2ZlJITC1LaE1qd0JmcFpGWVJ2bXFXWU11cnJyc3BFY1VqM0Q2UmNjaXQxZDFTLTBaSFRBMTJlQw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Musk-Trump Messy Breakup Wipes Out $150B in TSLA Stock: What's Next? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbkI5bnYxOEMtd2JlLVZQRzFZdjhHLVJuWU5ZV2lKVU5HM04yZ0JMd0F6U3BGaHVTQlZnTGJFZE5zWldnOEZ6SjZuOTZTRDRGbzVTNll0akpLRy1fM3NzZWRZVW5OanRjaHRIOFoxVG9QdndPN0JyVFhmUnNzSFdCOGRFMXg4OEI0U1duckZQQTRSVllZQ0czZm5qcXhQbThvcklFOXNlOGJQaGpkSEZQRFJtbEFOYnJjaUw1ejdOU04weUVVTzRzT0g5YXNmOVliR3FzN214eXdudVJOWEVKVlBNZWk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla Stock Is Sliding Wednesday: Here's Why - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVk1MenVJQVNjcHQ2QkVCRTkzVDRlbDY0anRtTm1xSy1US0hCNFZJRHNkLTVVbGZpSmYydjRHNWd5TTJRNTJHX2lUeHpaa1FTSnpFcDYtckJfVDREQ2FHbWRWVENqeGUwMHh4cVV2a0lydUQxSl9EcDZrT25sRVdHa2UtbFNqaGhKam5VRVM4ajhaWGttNHBNbEdBcEVYNzhGcjliXzZR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Tesla Stock Is Bouncing Higher Today - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aHRvWVhkTE9JY1VlV2NHdVIxd1ozOUdBQ18zVWd3WjBJakhCeVVBWE92RDZyd2pmclN1NzFwSGMtWTh4RnhKWEtJclEzQmg0NEVOY1dHSnh5OTNRT2JyQTlPSXVCTmZ6YzhWZUlTM1lMSGhGblotMQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "“A Good Entry Point”; Tesla Stock (NASDAQ:TSLA) Jumps as Fundstrat Sees an Opportunity - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEcyM29qd3FwSTVybnJGQmhHTUUyR0VIbFVwRWc3d2poQXZab3dOT1M1Rlpxak8wS0NzeERFWldFT04zMFJFUTRDRVlQbHItR2JlempYSDZWalFzMVpTeVhTaWtqVjljbE51aWlmS0lrZEVUbFZiZmlDc2p5Snk0S2JSeW9rUUN6emRpZjJoVmgtSWFrYVBqTHl4QVhTcTJmdHFhVGpHWXBvYnYtaDg0?oc=5",
+        "title": "Tesla Stock (TSLA) Fails to Pile on the Pounds Unlike its New Model S Upgrades - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXlvaW9oTXUxblR5OFdWRlBkR2FoamY3YUd1ZjQyWGktSmZidmVDTzQycEgwVWxrby0tQlNlSU4yQ1g0UGhCcHhTTkktSXNyY0FFbHgwWTVTZHQ0SXEtTm84OFBpOEx2R3FJRlJ6UTNzc2JiMHM2Mi1VaDdvMzBidktEemtJd3Zsek5GYkR5REhFbGhid2Q1NmdrZnBZVFRIZ0pMOWdNWExhdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Should You Buy or Sell the Dip on Tesla (TSLA) Stock as Musk “Splits” From Trump? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOS1jcFFwN3RKakJrOTBqZTluV2ZJUThrQTlxeDBuSWRVUF9keXpzc0dfMUhIRUNsV1dqVXlQRlZrVkNqTWc3Mng5U1c4aFVkUnIyOFFmRmU3cFlQRjkwaDNua0FZaTFFcWR6b0k3a20zaC1jd2RnMDd6OHJrVlJCa1MtRldrLUNoXy1rLU1xcTVqVkdLUVNFTWdDUlFTYm13ckZ4cTZxMUlUOC1UdWYzUEszRdIBuAFBVV95cUxOWkEzZUFVRWJzWEdqS1ZOY24yVlgxMWo4ZmtOLUZKTWdkVFZCaFpkMURGTXhNWmdGd2wzcC0taE5YVkExM3o5VnRUeUVjVlVGWWRUZjJlcGEzSVFnQXlLQzNjLXVxaktmd19DY21memdBVE5MMUY1M01mZHZ4S1pwUlBGV0NFTjRCYktKUTJ2ejZPUHRNTlc3LVo0elhkZkdmbHhsTUdrVjFyUkE5WWpySXVodTJyVDRF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla stock tumbles the most since March as Musk and Trump exchange barbs over spending bill - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUnYzS0I1Q2J5b0hDYVg5WVBKQ05RMU13Z3NnbHRHc0FHVkRfUzU5aWV2VUhJeGoxTXVjdmJJazdLSjFOeUFaNlJEUng1LUthbUFWTk5NYUJBUlJCeEs5SWhQcGhaTlRpbTV6QW44cUxJeTZUaGYxZGk2aFdlaTJfVjd6MldFSFIwU3A3SmtDQk9wUG0t?oc=5",
+        "title": "Tesla Fails To Meet June 12 Launch For Its Robotaxis. Is This A Big Red Flag For TSLA Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmxTUHdSTm4yMXN6TmpKV2EyVUxkc19UN0dLcVhZSk5pTFpQQ29YZVV2ck9nTmxnb2JJY2VWelhwUjNYeWoyRVlubElwY04yYV9VSGVTdDRZTWhJOF9jTUZ5LWFHY0MxVVFJckpBZU5ZMzJHTWZhN3NVbUd5a2pLUG55LUxYbFlVbW90NjE5WWJQX19mWXpsdE9XdURzZEtkRktVakEwcG1kZkh0el9IQXJ0Z0dQMzhFU1B4SkluNHZCcmdnekpvMXlJVmg3NENF?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Can Tesla Stock Fall to $150? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM24xdDlkT1V0WTVGSlQyOEFLQmVtRlFPUjd4NGdxSldEMDFzalZUY1p6MHk3eTg3ZTBORm83ZlRyQWFGN1pjOHl5ajhOdGNXU3BCaXJneXhxenpVUVpQU2k4QXZrQ2o4NlNSc1dRZkU5cFRWUmhSbDI4bHRLR1hld1JlNkdLRzVlR1ZpMUtnaU9fQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla (NASDAQ:TSLA) Stock Price Up 6.5% - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2M4MkhQRTFja2ctWF9pZ19neFBub3lPR0ljX0dFdWd6MEtFQ2ZMOGFoMTBJVUFiOUQzdG9SZ21yRmxhSVFxUGNGQTlXS2FXVW13WC10ZVRnNXR2QnRzMU1VWlUzVlEwN09YcjBsMlN5NUg4OGR6V25PVjVYTFlfYjVabjN5V09WMzk1cWhZY2ZxM1c0VEZLa19UaHQwNXlPWmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tesla stock rebounds after Trump-Musk blowup leads to $150 billion wipeout - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGZ5VHlPRXFLNE8wdWs0QWFkOHRTX3hiSFZQaldDcFlZUk5RNTNYcXNEVGgxWnNwWnU4Y3ZpVWpfX0d5Z0VFZ21PRlBTeDQ1SXVmX3B0cEJPaFpBdkdtX1FwcHpjdHdSYlFkMzRVd2swTWxUQ3lrdjd4dXdPM2JKSzdjQW5ER0prT1RxUWtZemVfTkFPOWtGVndOempiMVB0cnFydzBBLXQ1Y3UwZHE5enpMYngtSWlwNUM0?oc=5",
+        "title": "Tesla (TSLA) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QWFZZanQxV281TVp1UVZlX1ZaMmsxWll0RmRtU1hXZmRfbnVUUTBRdGNublpBR2s5U2lYNThxNTF6TXlKTWhQRFQ0dW9aQ3FGNFhoWUd3MTM0aHMzUmN6R3RXUHRwblRpUjJLTkNiWGw0VTRaZUVabUxvMG05UQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Cathie Wood Just Sold Tesla Stock In May But Is She Going Away With The Robotaxi Launch Approaching? - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1FsMF9TNE82dWJ6Qy1vaWpHUWN4VEhaRnlNQWx0eGZaT1BvUzZKWUt0Y0hmYjUtXzVXRGtuN0tlal9XcmdoYVk4dzRXT1lES2gwbDh0VG1QaTVrcnhuMWRJbjNpTmRKWEZmVmRqMWlCbkw1eHk1Y25OcHo2czQxZW9GZUJwR3ZCWjZsX1lnZWhBY19WUWs5TGRLUHIxbFlwT0ROdnBR?oc=5",
+        "title": "Tesla Stock Is Falling. Now There's Something Else to Worry About. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQ0lDbmlMS3hUUVgtd0JZakl1bUhOcG9OQXZsVkpvQjZvcGhidTE1R21scDBvWkhydXVVbE5xa1U4R1dxak5UdUZ3ZUh1X1J1NXA1cEVIRUwzbWRUQU5wM192bUlVUTVYOUNNRFZUMXYtaFJmRHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amid Robotaxi Buzz, Tesla Releases These 'New' Vehicles - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02WFVYNjFCc0oxVG8xenJreVhmY0FjWjZtN1cwei14SFhjX3k4YUdwTUZQMkY4Z2FobE1xd0hKcmM3cjZuQTVveGI3TVV2cWRHZmdFTXlNdWYtNG5TbTJUMVYxM29JSGF0bTNDb3BTLWxiTmFxYk9rbUJJMEVpdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla stock short-sellers raked in $4 billion as Elon Musk and Trump broke up - Quartz",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tZmx1cEIxcktYOC16Z0M5cGdtVmo5d2RNYkRoNkwwZFl1S0N4RTk5U05EYUN2U3pvbEtwVEpqa0wzMWt4NkZxajl4STV2UE5WUVcyQkVOUkV1WjJqOVBJSVd6ZVRQN2pCWUd5T1F5anZTVXJLN3I5TjF4TQ?oc=5",
+        "title": "The Latest Tempest for Tesla's Stock Looks to Have Come to an End - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZk5SUkM3eEVQNWxNZUpMcGdhWExTdWtrY3NqR0U5ZmNsaXo5T3J3M252TG1INjNkeE05czFtb09JRFBLb0g4ajNELW1kSmg4bTU0V0JyMnBVZVhDNFh1STRncllGWUVXWkpDNnVVQUxtRVhVSzNjV1dBcUpLLXloakFoemx3U3lybzZ6MXJHRFBYaWRZWWRvQWdWRmdTY3FWTDlKZjViVTVVX1pIZG9saVFoLTY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla stock rebounds ahead of call between Elon Musk and Trump - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGhTT0FrMUZuMUpGV3VYb1YzamxQeUZHUkVCTDZmOFR5cjk5R25LUlBHWHQySDBJNFdPSE9ZMURTMUVFcWJrcTU2Y2dZeDM5LW51NzZrTWtHVVpJek5qMHBISGh6dDVIZEVlSWVOZTBJazhzZGs2RUlMMVdFdXBaNmFYWGM?oc=5",
+        "title": "Tesla Stock Drops. 4 Reasons Robo-Taxi Launch Is a Worry. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUlsOVRpUFZMUW4zdmRJeldaajhWLUFzQ0llOHRqTHdoVjBkVGxuQ3hVM2FBdUhsM2cwN1FaemwyUWt6dzVBQlo3cm9mR0JnR2otY0lEU0IyWmU1elkwT2luem9nOE0wcXM1RmQ3ZW5vSE9sUFF4T1ZfMUF1TkFuRWQ5Vk9paDBSS2szUGtndw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla analyst makes surprise move on stock ahead of Robotaxi debut - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUo0cTRPX2d6V0gxb0hJVFJ1aGVnRlJwZFh5NVlhT0V6RlZ5bmhmTGY1dkJoLWc5dElzTGhsMXJEU2ZJTDR5SEFOaXJDQTBJa0dOZEttb3o5cHN0cGZYM3RKNENka1M5bU9SeTZNVU4zVFJ0OXhoSTZ2UlNXZE91cEd6VWtyZEx4OWFJcGxYUC1FM1BXNlpZbDlKQlBTYS1IRVN5eFhKYi1wU2trS0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TSLA: Tesla Stock Jumps 5.7% as Musk and Trump Cozy Up. Also — Robotaxi Launch Got a Date - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUjlzVEU1aWpDZ0U3d2xCTGlvanQ4eFdYQWFFWDVaU2MxQ3BkOVhwbFhYWURVaG9PeFV2bGV3Rmp2a1kwZF9kY0M3aEJXRUtMTUxoYWpOcnA0TWwtQ2x0ZmFZcWF4aVYwOFJyM3dhMXBVVTQ0ZGhlcll2T0M2eFNUTW5BMGtsT3EwQ0RIdUZsZGJ6Yy1kcUQ4TVhUNE1HX3d2YVZoUHN3OUxCT1RuTTB4eGlPYVRMQ3pLV0VIeVBuS1p5UWE1SElYdlVqOU1OanRZN3RVU254WGtrQUpRZmgw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Issues Massively Bearish Tesla (TSLA) Price Target Despite Highly-Anticipated Robotaxi Launch: Report - The Daily Hodl",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHBHNDlMcmtHcGFlQVRaLXVOVXE4Z3A1bzJTdXpWQ1M4enpObzFibzk1emdfemhReERaUkkwSndrSTgxekhCckxtZWU3MDJTS3ZTcDVPMGx2cWRicDFYTDFHNnhad0dUdXFnS0tLUHE2LUtnd2tLTV9CWVZWVFZtSzNDamIwQ0s1TklzMnl3NTJ5S3ZPM3g1OWpNNmxIdDJZbTVDX2NaMmF3dldCMExIbFFfdFNrMGNpX1c2czBvM0hWZ1JsRnZ2cFY2SmZVb2x2QkFQVzNILUdjVHZN0gHiAUFVX3lxTFBOUTJFTDJKOUl4VnIyR2x6NUR2cnNHeVdfNjFIR0RrcE53MWlsSmVzWXFNRUNsQ2FnbjFaNHBDUkVVQU1XYXR5eV9qWG40VEt5SEFHalVpTDJOeXJrcmVVd1V4V3k4cV94X1RoOVRqQWlpdFY0YkE4VVZfVlY4Z3A5UHhIcXVVd3NrUWhvQlJtS1pRNGt6VXZRa0diN0h5eTdNeEtWZG8xY1FyTm1JSDdqT1huc0RkSDJacHBSSk05eUdGczVhMllLNW40UnB3SXhfaTJyTW91Zmx3TUZsNEFPS2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Guru Fundamental Report for TSLA - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RMEQxbDliLVBRc0tjcU5ycGF5RXZkZWIxQl9BRFAwbFZDZG9qLXhiSmhtWDVlYzlENlp2Z19ySkI4R1pWZ3NZdFRjSUEzWU9tWXRQbzkxMkJrT3VCNjFnb0ZJU0ptNEhaN3kwSjY4Z2ZVUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Tesla, Dave & Buster's, GameStop, GitLab and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzFhOXo0S2RtWTV6RU16aU1Hc1pOVHF4NWV3VE5lekR4enBiNkx5a3U1WEdGNWg4YVdaNXc2OE8zT2RvYzloQnc1dFJoS2JaaTRMWGhRVnh3bEV1aEcyV01VQzRBRDlEeFRrUkVXTW5Jcl9hMzdWOEZjb2hQSFBjYUVvZHhGSkRoWnVKMzRYMDBkVXBvZ3VJUVMtOTc2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy the Dip on Tesla (TSLA) Stock After Elon Musk’s Apology? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1NSMU5DT3libEk1X1lZTFF5NzZqWVZBeGRHVVVVZ0RqZGZxbXBadmo0NThaeGNqSHEyR09YdHloQ0ZPOVkwZjk1TTFZY05IQjhjajRnU1FWbS1jWDRmWlozRHBhZjJtemhRb0lDSU1ud05qeWo3QWQxSTZnVExfTHI4STRCTEwwUjZyNkJobnNwMHRabTFBOU05TUZWdHBEbnVhbU5JUdIBrAFBVV95cUxNVHFhQ1F4TkdpdFNydV91U3ZBZV9uZno1SkRLaVpaT1huSVFhV3pGd3ZMRmhSSHVOeWtKTFdKUXdXUHBoTDV4UnhxUnBWY0lfUXdzMjYzU2h3WHY2NVR3TzhGN0x1cFFSUGV1N2pYeEd1ell0ODBZcFU5YkJySGFuX3JjZFBXSUYzbHpWUHAtX1lkRXZwWV9iZjNPYXhjNHIySkdqUFRwSXlFbXdI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tom Lee Dismisses Worries Over Tumbling TSLA Stock Amid Elon Musk-Trump Feud: 'Tesla Still Holds All Of Its Advantages, So We Aren't Too Concerned' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXhNbmQ5OE9JNnFsOVFBXzdqNDN4LVAtSFpWQ2N0NjJTcXBoMWY5RlRBYkM4RkVTNzFTQ2FSX1lUdG96M1lvWVVVdHNVQk5fLVVIRnJwTTJmTE51eWZHdjBNZEEzZk9JVFhtY2x5RnRWakVEN2FTUmUwN09JcGxOYWx3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Where Will Tesla Stock Be in 5 Years? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW8zRVdUdEhDRHUwTnkwaUNzdW9nMjNYLUNYUTFoa2M0Z2Faay1ZaWZrckZxX2JONXhKcnVKbW5XREpHTHIyUW90UWFTVVd2QmllUmhvS0h4R0pBWDZCenc2NlBBZGhfc21oeWc2SmJucnQtcVIxeWp4ZjRTaGNFMjM0NmNFdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla (TSLA) Stock Dips While Market Gains: Key Facts - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEZMUzl3dzVyS2pmcmJaU05vNjZ4WS1LaXZZYzNIdTdSa1VYNWJnQ3Z3UDZObVlEcmRnNVBHb0RJVmJYMVp0Z3RzY2tvS0tmdVh3SzdkT0VoaXF2OUtGYVNWS29VdTlUV3pHdVZ6MEdzdU9jZWF4U05YeFhVdWhheERoSWw1eHZOR2hYLQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2025-2030 (June 12) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXQ3eHo1QWFES3BzQ2QtdWg0YkI1X0lJamVPZ0xjUExEQmZkWlRTMS1xRThoTUdMYkowc2ozOHExMGpOZWxBUk1ycW82NG9TVUVYUTZsSjlaSWt2RlJTZ2JTc3hqT1pDb2tDVjVnclhzbTNKelFjN3R6TllGR3lLVHhrSUZNQXlnZUhxdA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla stock wavers as Musk says Trump criticism 'went too far,' company targets June 22 for robotaxi launch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaHFZdFBfNHBBNlVLNk8tVUtYSlFCYjVoemdxVjZydWk5UTQ4UE1JOFptQVB0QkdydHNpZTdWamJNSS1pNjRpandubjFRTVRjQXl3X1pnUjU4ZjZzazZwOFlsYWd3d0Y4MXFZdjlhc28wQkI3N0QwYmhRM3dPcmxTTVhCX3JTb2dTV19ENlJaU3NEOVk3aEtTMnUtS09NNFVrNXVudVBIM2tTcUFWbHFwcDYzVUNKekN0Y1AyNDlDaXJOLVNJYnNTSjZKOXAzT3pKZUdTakU4cVp1MXZZX2pQUjlUZ3U?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Stock Downgraded In The Aftermath Of The Musk-Trump Scuffle. Can The Robotaxi Save The Day? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdG5LNXUxRFluVmFtMEdockl3TUJ0NUtxVjgxcklRNm9aeHI4T213dlY0eWtoT1NReTFHMTNoV2lMdDVOLWxGUDNuc0ZEb2dwSEZWd3VFbUs0YUxvUFpCT2ZWZnhfMk1nNjIxclpYd2tRbHh2cS1LVWV5VjQ5aGFjaFlVMzM0Zm9iRThobDVVUFE5UEZ4cUFybHdhaVFJR0VkMGxpQWJDSXFZR2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla stock reverses higher as robotaxi test poised to start this week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2pyN2o5VDE4YTZPMkJMQmFLci1fd3pSb3h3UTQwZ2JqV09SUDJSQzVITFQ5Rjh6SFVJbDlnTEpRa3AxQVdBRXBpVlVDVEthdWpSN25HTkhYYVJCcmp2d2p6UkhSYW90QnB0UGxKaTZvQlhpY1puZHFaM0wtSXFNNmdMNmdIdUtxb0pZX3NnUjRjcG5jRkhkbDBTYWIydGxVRjBnaEg2UDBmVDNvZkJTbFVqaHAwdVU?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

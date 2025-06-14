@@ -2,16 +2,16 @@
   "ticker": "NI",
   "name": "NiSource",
   "sector": "Utilities",
-  "market_cap": 18395074560.0,
+  "market_cap": 18649251840.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.124325,
-    "PB": 2.0672874,
-    "EV_Revenue": 5.912,
+    "PE": 21.416216,
+    "PB": 2.0958529,
+    "EV_Revenue": 5.985,
     "ROE": 0.09364,
     "ProfitMargin": 0.1467,
     "GrossMargin": 0.51035,
-    "DividendYield": 2.87,
+    "DividendYield": 2.81,
     "DebtEquity": 136.355,
     "CurrentRatio": 0.515,
     "QuickRatio": 0.338,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.10135703945593356,
     "ROA": 0.03254,
     "PEG": null,
-    "EV_EBITDA": 13.579,
+    "EV_EBITDA": 13.747,
     "BuybackYield": null,
-    "PriceToFCF": -30.68474966978128
+    "PriceToFCF": -30.939181955969914
   },
   "technical_indicators": {
-    "RSI_14": 50.12341365279313,
-    "Momentum_10": 1.545457716112013,
-    "MACD": 0.0526759424926908,
-    "BB_Percent": 0.5456520139062396,
+    "RSI_14": 54.271054362206215,
+    "Momentum_10": 0.2276179830652143,
+    "MACD": 0.1610529011900254,
+    "BB_Percent": 0.7334591529509974,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9322425362465002,
+    "ValueScore": 0.8790052175267533,
     "QualityScore": 0.4283086391193838,
-    "SignalScore": 0.5744319069694759
+    "SignalScore": 0.5614601447317005
   },
-  "volatility": 0.0141281475342305,
+  "volatility": 0.0141392249004039,
   "beta": 0.549,
-  "return_6m": 0.070024956763822,
+  "return_6m": 0.0999472274165802,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 42.67786
+    "target_mean_price": 43.225
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 36.61
-      },
-      {
-        "date": "2024-12-10",
-        "price": 36.61
-      },
-      {
-        "date": "2024-12-11",
-        "price": 36.76
-      },
-      {
-        "date": "2024-12-12",
-        "price": 36.53
-      },
-      {
-        "date": "2024-12-13",
-        "price": 36.55
-      },
       {
         "date": "2024-12-16",
         "price": 36.34
@@ -537,33 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 39.28
+      },
+      {
+        "date": "2025-06-09",
+        "price": 39.35
+      },
+      {
+        "date": "2025-06-10",
+        "price": 39.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 39.46
+      },
+      {
+        "date": "2025-06-12",
+        "price": 39.91
+      },
+      {
+        "date": "2025-06-13",
+        "price": 39.52
       }
     ],
     "current_price_data": {
-      "price": 39.28,
-      "change": 0.31,
-      "percent_change": 0.8
+      "price": 39.52,
+      "change": -0.39,
+      "percent_change": -0.98
     }
   },
   "news_sentiment": {
-    "summary": "NiSource (NI) continue de faire parler de lui avec des résultats financiers solides, battant les estimations de bénéfices et de revenus pour les quatrième et premier trimestres. De plus, l'entreprise maintient un dividende annuel attrayant de 1,12 $. Malgré une légère baisse depuis le dernier rapport sur les bénéfices, les analystes soulignent le potentiel de croissance de NiSource, notamment grâce à ses solutions numériques innovantes et à des scores de satisfaction client record. La confiance des investisseurs est renforcée par des personnalités médiatiques comme Jim Cramer qui considèrent NiSource comme un titre fiable et intéressant à détenir pour ses dividendes et sa stabilité.",
-    "sentiment_score": 0.45,
+    "summary": "NiSource (NI) présente des signaux forts de croissance et de rentabilité, soutenus par des résultats financiers solides et des plans de croissance ambitieux, comme en témoigne une hausse de 9% de son EPS et un plan d'investissement de 19,4 milliards de dollars. L'entreprise maintient un dividende annuel attractif de 1,12 $ par action, renforçant ainsi son attrait pour les investisseurs à la recherche de revenus stables. Malgré une légère baisse de 1,6% depuis son dernier rapport trimestriel, le potentiel de rebond de NiSource semble prometteur, notamment avec des évaluations positives de la part d'analystes renommés comme Jim Cramer.",
+    "sentiment_score": 0.4,
     "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.45,
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.5,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "NiSource (NI) Down 1.6% Since Last Earnings Report: Can It Rebound? - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uUHk1TzZaRDliN3hBX1NqWkVMalE4cXREUFc2bUdacUZwY2NxX0ZETms2bUxNdmkzaHdiUXp6NF83bG9BNXVsY1ZFa25Sb3NocXN0dmk1TFpJS1hYRFczbGllX2kyU2ZTRzUybHM1a3pHc010Rkkwcg?oc=5",
-        "label": "NEGATIVE"
+        "title": "Why NiSource (NI) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zeGhoRTM0RTc0OFBnaE5mMTVHbEY4ZTRObDFLMENUeThueDZoeXVreDFYbnZuRlo0cWZITEpnSmdWR1BNVnd6emc0MEZXNGFaUkV0TWRlNXUyaU1OMmpVZlNZZ0Fub1lQT05zV1IyX0ptbkR4cTk0NnhiOXFsX3M?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "3 Utilities Stocks With Big Earnings, Balanced Risk - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzd2ZVRUTjhhQ1BTTTRINnVPWFRENWJwcmk1UjlOdFZrMXl0R3FZRFd4eVR6cVFnd1V6MElPbHNSckQ4SGkyQmVSX2s5dXBxcHNYaERtRXE2Wm1QaUQxTkJ5bVU0UUJLWGZxam16TDlIalhCd1lpZXg5NE1TbFJ1c3JRazhtM1lPN29LR0lqakdrSk5C?oc=5",
+        "title": "Learn to Evaluate (NI) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExyZkE4aDBsUzVtZGYtektROHVuaDJ1V0hJRWZKTDhBUjF0US1wUDVjX3VtVV9sQVlXT3BzOGE1OEdhV0xPM2lrZlVjTUItXy0zWHhya0RzeUFtbFdodUdLd3pTdjJEWEd5NFY5bF9PajU5ZFlMMWRvUHh0OUtoODdJWnc5Rm1lT0t1QTViQkF6SDRVMnNUSE9LZHpDbDgyMEVLUnlaQzNScjVrbWVoNVN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NiSource Digital Solutions Drive Record-Breaking 780 Customer Satisfaction Score in Major Utility Study - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2ZPUnNZLVBjWjNPUkVGc05XZFVUbHhnSjJ4Q3lITFpPQk1Ud0NOb0xkb1VfNzlzNnBEaTVhLWlfcWtLVXJfWElpN3h3U1p5QjNfc08tU0NrRXJVbzJiYXlNc1V3bW56NmE0d19jQl95ZUJSdDlndFlwVjBFZmY0ZllKWWdRZ0xjUXdybkxqMzlBRk5tQ3hkelByVDNCc09hQ2xXNXJZTmktcWJaWkctcmZwMjhrUEo2?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Is NiSource (NI) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHhtVU5xdDYzN2l1OWpydmUtNFpkWml1RDVwZmx5Y2kzOHBNTWhxWE1iQmNaTEhEUkxWNmt1aW1VMmg4LUpxc1NIU2xxLU92aGJUbXR1ZE5KNU4wemIwWkJnWFNSQzR2al9LNUgwSFBqUzJ2blN1OUN0aG10bUlOcGJB?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "NiSource (NI) is an Incredible Growth Stock: 3 Reasons Why - Nasdaq",
@@ -571,13 +581,23 @@
         "label": "POSITIVE"
       },
       {
-        "title": "NiSource Maintains Strong $1.12 Annual Dividend Payout for Shareholders - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm8tcGpPdU9MSEMtLXl2N3BxZV9rZEg3S0tRLXdWTTY2QzI3MmxyaFVyRUVDRzlqM3hJN01GWHRId19ac29hczAyY2VLTndOTFA0MTBwbUFsN2pPY3FmbjJxMzk5eDRHQmUtZDQzNDVqdDVoTEdlZjF0aDJSc0VWQnI1SklSeFoyMkt2dQ?oc=5",
+        "title": "Is NiSource Inc.'s (NYSE:NI) 8.9% ROE Strong Compared To Its Industry? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd3c5ZlpFWXl1ZzFlVVdDR1VPT1lPcFJGNkRoUUpKaEpFNGVmVE1XS2V4c19wME9zcUttUF9yRm5DUUZ6Si1FMGstc2tvcTRGajkzOGFwWURUX1p1TFBQMmVFYlZhRktTMm4ydTFMUDlMMGNFRmtkRVNCQVAyWDctR0ZpenRja2RtRFN4NXVDMnY3anZiS0VhTE4wYnk1OUFXSVczT2hRd0dsVE1xbHh2ODhOTTlfQ01oaVJXZGxON2pQUdIBxwFBVV95cUxNTFVTbXloRGE4OW1IYlVreUlqS3Fjd1hRRVZtOU5LQmxmYWJDSzVJbURQVHR3bWNMcGZ6OFNVXzJ3WDBGbmh5SHdSZjVYVFNWNEF2Y3ZVbnNEZlI2amF6WjBpRjZvZVFyRzhFSHNrUjBvdFdoNVpudWd2RHNvZnBhYWd4S3FaV05NRGJMSVE3dkttTXE2Y0RBTElOOUc1M0NJZzVYS3ZfVWFKYkg0R3pBSFhyaVllWVBCREp3SGlKMGdpdnp2Rzlr?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "NiSource Declares Common Stock Dividend - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDJBQUpDY25wNFFSOXpuVnRKZmc5UUtxUVJRS0VaNThKaUVGTUVNNGNSRmwxV05SSndYSmt5V0JDcU1UMktXdGxXdGxMU2lXV2hxYjFGSE5uVVdLdXQ5STFVXzB5bTJTZURvdUdSeDA1OWhvSTF2ZUdpNUsxbXVvZDFHSG9DSFd6RzJXY2JCYVUwRng2MzcteEc1cnQ?oc=5",
+        "title": "3 Utilities Stocks With Big Earnings, Balanced Risk - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzd2ZVRUTjhhQ1BTTTRINnVPWFRENWJwcmk1UjlOdFZrMXl0R3FZRFd4eVR6cVFnd1V6MElPbHNSckQ4SGkyQmVSX2s5dXBxcHNYaERtRXE2Wm1QaUQxTkJ5bVU0UUJLWGZxam16TDlIalhCd1lpZXg5NE1TbFJ1c3JRazhtM1lPN29LR0lqakdrSk5C?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NiSource: Solid Guidance And Data Center Upside Make Shares Attractive (NYSE:NI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlRIanFmUXA2VGVjWnNWWHBJOV8zVnUwUURUNlNnMnlzQllBTVNkVDFrZ1BBRHUxTTQxS2hVNnVKbHJhNW9Jc0I0X05QZWJtUkc4bWllaTB0WnN0YlYtcWVLVDl4OGZhTk1McW5NajY2MGthWDdFeEZ6X1gyMFNQa043ZmRlMjUxaW82V1NkZkVCYUs0eG1LcFNfYzJzSzQ2N2lYY2VMZy1VSld4VGJZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why You Should Add NiSource Stock to Your Portfolio Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjVBR05DZWFUNWNOR08tX3JXaWc1Rm45LUVOQjQtUEZESF82VkI3OTRMVERhdEZUTmx0TmU0SW5YeV9JTnVhUDQ2YXFkZ3VGNmVSdnowR0RGbG54VVpLUjMyTDZDR0tZeUlaOFQ1bGlHaEdBRkxJMzNWY2JRLW0yRXhxN1JKZGdOVnY0VVF0SmdjMjZ4VWdHNmQ3MWpPbEVoNDR1Ug?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,23 +606,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "NI Holdings, Inc. (NASDAQ:NODK) Short Interest Up 46.7% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGlqSjJxWHZfY2YwSjlSVzEybk9LbnZqQkNsSlY3OGdla3FRZE91UTFjeUJMMmt2NjRaQlE5Y1RmMTAzRERPMmtNRWNEY3hoX05scmNRTk42aGFjWEFjSVRGeE5GVkVYUWlCUEhIWU8tTEszWGZQZk9IOVlHUzJHb3JhbGtFNjZfSFpQZk0yck5FTkFIVmpuM0ZXTFZiaC15a3FVenhScktzRnFwVTdqTFoxdFJYSXZIdkE?oc=5",
+        "title": "NiSource Maintains Strong $1.12 Annual Dividend Payout for Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm8tcGpPdU9MSEMtLXl2N3BxZV9rZEg3S0tRLXdWTTY2QzI3MmxyaFVyRUVDRzlqM3hJN01GWHRId19ac29hczAyY2VLTndOTFA0MTBwbUFsN2pPY3FmbjJxMzk5eDRHQmUtZDQzNDVqdDVoTEdlZjF0aDJSc0VWQnI1SklSeFoyMkt2dQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "NiSource (NI) is an Incredible Growth Stock: 3 Reasons Why - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWh3V0g3bGVCeDVZUkRtbENPdFZwVFRhSE9kMVRDdEw5bWpudThoREd6NjNYUXY3Mm45TlFxcVhDVTE2RzlpVnJRdm9aRDRkTHJHOEgxb3dqM01XbVRzUUM3QVJ0a3lNR3dZNjZ2Q1NkTnlZdWYxdkxUeTRjTW00TFBhSjJET0E0?oc=5",
-        "label": "POSITIVE"
+        "title": "Reasons to Add NiSource Stock to Your Portfolio Right Away - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEVNS0F0djFkcDVHaWVGRnNfMno5Zkl1SVZRT2doNHRiTG84clJDNXN2VmlzcjJlODNUWThBVXhhd3Y3V0x6WUZRQzVDdDhneVRyN25vQ2RBY2xlS3FhaWFBLWdvb1Zyc1ViZ1NhZlplV1RlemQwRWZIMDBuRnRrQ21NNlFQeW5wT3loZA?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "NiSource Digital Solutions Drive Record-Breaking 780 Customer Satisfaction Score in Major Utility Study - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2ZPUnNZLVBjWjNPUkVGc05XZFVUbHhnSjJ4Q3lITFpPQk1Ud0NOb0xkb1VfNzlzNnBEaTVhLWlfcWtLVXJfWElpN3h3U1p5QjNfc08tU0NrRXJVbzJiYXlNc1V3bW56NmE0d19jQl95ZUJSdDlndFlwVjBFZmY0ZllKWWdRZ0xjUXdybkxqMzlBRk5tQ3hkelByVDNCc09hQ2xXNXJZTmktcWJaWkctcmZwMjhrUEo2?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NiSource (NI) Could Be a Great Choice - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zTk5LUkpwWUt2VkVxcnVyUzFnUlpmM0RJeHFNSXJ1S0pVd0Zvek16VjdkckEtZ2IxemM5XzR3bjRyVDNiZXA0Y1liR2lOeFdsTElsbTFxTHpHcy01UzItUWZzNHBMbzV1Yk8tMmEwRUxFWFFrWWc?oc=5",
+        "title": "NiSource Announces First Quarter Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVQ3RzIxWUVBRExPZ1N1LUl4bDFXZVJHUDZ1MUVKQ190ejA5Ukx0SUFzakNrZ2t6R252OFlmaXRFT3hKSk1paXdXWEpZMEpQeXNBa2t3MnIyV09pM3JyS1R3dHZKX0w3a1FpbnV6WDBNNmJCT1VBZ3BQakFnZmVuT1ctWTJlY1ZtM0w1a0M3bw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,24 +631,14 @@
         "label": "POSITIVE"
       },
       {
-        "title": "YieldBoost NI From 3% To 9% Using Options - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Tc1Fvb3hZWFZuUmRtd1EtSUpFd0hCTTIyRTBtaGtfNjFBdGt4UkVBTC1mNlJXaHZjZEtNdHlSVnZKOVo0WlBrNVBaZ1FoSTNKbjhROVdwOTZUb21yMnpWc3lCbmNsQldKTEg0WGxKNWs?oc=5",
-        "label": "NEUTRAL"
+        "title": "NiSource (NI) Down 1.6% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xYTZzTl9Ka1phUUFDNzBQWUY1R2tfc1FEYllYbEt2TVd3Qk8wY0JCY2pIRVVhOS1lVGZ3LTJoQXpuZm9UUFRNMTkyal9jcDBwT21Ucm9ZU01vSjMyRnlfcWxHcDFaM3gyb1k1UUotOThJMjhi?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Reasons to Add NiSource Stock to Your Portfolio Right Away - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDdxVXdvQXRkTGFRenVOSFE5YXphbXNHeXNNdUlJZGl2bTktd1Q1ckZIeExzcTNRM3pTRWxOdzF2OVgwSmp4emtMLV9ldTF4OGVKS2lrQ2JTekFzbXdyNXQtTUxyTkFfNnFkeUpxbTJGTTlaZnFyeEJOT01ISFB4NERWTW5qLUR5aEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NiSource First Quarter Earnings: Key Financial Results and Business Updates Coming May 7 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1BhdGxwUmt3Z2dqYVVSWUJlQko1SDFSYWFPeUh5ekdnR1c5OFJEY2s5S2VUVm9xR3YwVEVSNkMzTkNzUzlnX1pFMnRZRXVfNVVudURwMmdPSm5URllSeTRLd1ZDVUJpTWpkLU5YbV9pclNBWjY4SVRWaVF0YUxHcHZ6QU1CbTNZbjBrcDE0TmVLc2tQelp1eEhnVlNOTndXSlhrUE1CS3VVTEtQeDdrYU9LWFNyTVlvRTFN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NiSource Announces First Quarter Results - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVQ3RzIxWUVBRExPZ1N1LUl4bDFXZVJHUDZ1MUVKQ190ejA5Ukx0SUFzakNrZ2t6R252OFlmaXRFT3hKSk1paXdXWEpZMEpQeXNBa2t3MnIyV09pM3JyS1R3dHZKX0w3a1FpbnV6WDBNNmJCT1VBZ3BQakFnZmVuT1ctWTJlY1ZtM0w1a0M3bw?oc=5",
-        "label": "NEUTRAL"
+        "title": "NiSource Crushes Earnings Expectations: EPS Up 9%, Unveils $19.4B Growth Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9QUnRlNVgyVkV1WHYycG15elEzaG1GY3hjTGs5YzJKQmtVMXZsWmhDZF9tNlZ6aW5KcUMxX1ZvS2daaV80Z0s5dlNUbWVVV1pHR3l0cFZpYzlFcldnMnJYVUJNWm05TVB2ZENKVjN0V3BUU3lxV09tbTJVc0pHQWttYm9GVVZVUGVBVV9ReHQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "NiSource (NI) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
@@ -646,16 +651,11 @@
         "label": "POSITIVE"
       },
       {
-        "title": "NiSource (NI) Beats Q1 Earnings and Revenue Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUU9QTjVacFlNelo4UXhHejl6M2tiZHRRb3hUSmtQRExVSDRjMnFlR1lOVGU3U0Q3bTlYb2pNTWY5WV9wYnA1ZmVVdmFUUkZRSm5ScFlOWk52WVlXcklsbzRCNGF6M3dVSVRBZ1ZnbHZ4VGFCc3JLamVfdTE1SklDSQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NiSource: Solid Guidance And Data Center Upside Make Shares Attractive (NYSE:NI) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlRIanFmUXA2VGVjWnNWWHBJOV8zVnUwUURUNlNnMnlzQllBTVNkVDFrZ1BBRHUxTTQxS2hVNnVKbHJhNW9Jc0I0X05QZWJtUkc4bWllaTB0WnN0YlYtcWVLVDl4OGZhTk1McW5NajY2MGthWDdFeEZ6X1gyMFNQa043ZmRlMjUxaW82V1NkZkVCYUs0eG1LcFNfYzJzSzQ2N2lYY2VMZy1VSld4VGJZ?oc=5",
-        "label": "POSITIVE"
+        "title": "NI or CNP: Which is a Better Utility Electric Power Stock? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObi1FdVlMWTlrYi1uWktvOFZ1RXA1b1pfc2trMDE5NWlyWmJwZXc0TUF3Y2JoMTZyV2dxLU9FQlpxTHVCdlJlRk40dFg4Sjc0eFlIUHlmX3NMQmlKU3VBcmtiVW05WHkzVU5kMEs4NHByUzZoZzFKMjJ0NmZmRTRVYnd2c05GeGVkOUZRdmhSejJaZEVMMlJmeFZMV2hKZw?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "VRSN",
   "name": "Verisign",
   "sector": "Information Technology",
-  "market_cap": 26654451712.0,
+  "market_cap": 26325336064.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 34.744183,
-    "PB": -13.510709,
-    "EV_Revenue": 17.289,
-    "ROE": 0.18977,
+    "PE": 34.315178,
+    "PB": -13.343884,
+    "EV_Revenue": 17.523,
+    "ROE": 0.184080005,
     "ProfitMargin": 0.50203,
     "GrossMargin": 0.87832,
-    "DividendYield": 1.11,
+    "DividendYield": 1.09,
     "DebtEquity": null,
     "CurrentRatio": 0.555,
     "QuickRatio": 0.504,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.4829011850359755,
     "ROA": 0.42139,
     "PEG": null,
-    "EV_EBITDA": 24.616,
+    "EV_EBITDA": 24.948,
     "BuybackYield": null,
-    "PriceToFCF": 35.10438588181928
+    "PriceToFCF": 34.547718608883685
   },
   "technical_indicators": {
-    "RSI_14": 63.60030527664788,
-    "Momentum_10": 0.7911768616416565,
-    "MACD": 2.616838687584959,
-    "BB_Percent": 0.8655133870807028,
+    "RSI_14": 55.569094042471,
+    "Momentum_10": 2.7012094243728675,
+    "MACD": 2.608486376267706,
+    "BB_Percent": 0.606155372156752,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9364017002135226,
-    "QualityScore": 0.5089723992815028,
-    "SignalScore": 0.5108452175078841
+    "ValueScore": 0.8504445418057325,
+    "QualityScore": 0.5088858475988534,
+    "SignalScore": 0.5415363828579762
   },
-  "volatility": 0.0151816514500694,
+  "volatility": 0.0147593636031675,
   "beta": 0.771,
-  "return_6m": 0.4891391104331923,
+  "return_6m": 0.4241111041524694,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 4,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 200.46
-      },
-      {
-        "date": "2024-12-10",
-        "price": 200.53
-      },
-      {
-        "date": "2024-12-11",
-        "price": 200.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 199.1
-      },
-      {
-        "date": "2024-12-13",
-        "price": 197.4
-      },
       {
         "date": "2024-12-16",
         "price": 195.2
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 285.02
+      },
+      {
+        "date": "2025-06-09",
+        "price": 279.88
+      },
+      {
+        "date": "2025-06-10",
+        "price": 278.49
+      },
+      {
+        "date": "2025-06-11",
+        "price": 279.83
+      },
+      {
+        "date": "2025-06-12",
+        "price": 281.81
+      },
+      {
+        "date": "2025-06-13",
+        "price": 279.9
       }
     ],
     "current_price_data": {
-      "price": 285.02,
-      "change": 7.13,
-      "percent_change": 2.57
+      "price": 279.9,
+      "change": -1.91,
+      "percent_change": -0.68
     }
   },
   "news_sentiment": {
-    "summary": "VeriSign, Inc. (NASDAQ: VRSN) a attiré l'attention des investisseurs avec une augmentation significative de sa position chez GAMMA Investing LLC, tandis que Public Employees Retirement System of Ohio a réduit la sienne. Malgré des ventes internes d'actions, des investisseurs tels que Summit Global Investments et Contravisory Investment Management Inc. ont augmenté leurs participations. Cependant, Wellington Management Group LLP a vendu une grande quantité d'actions. Ces mouvements d'investissement récents suggèrent une polarisation parmi les investisseurs quant à l'avenir de VeriSign.",
-    "sentiment_score": -0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "summary": "La récente activité autour de VeriSign, Inc. (VRSN) a été marquée par une série d'achats et de ventes d'actions de la part d'investisseurs institutionnels et d'insiders, y compris des transactions significatives par le PDG et d'autres cadres. Ces mouvements peuvent indiquer des perspectives divergentes sur la valeur future de l'entreprise. Alors que certains analystes soulignent le potentiel haussier de VRSN, d'autres pourraient rester prudents quant à l'évolution à court terme de l'action. Il est donc important pour les investisseurs de surveiller de près ces signaux pour évaluer l'appétit du marché pour VeriSign.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "VeriSign, Inc. (VRSN): A Bull Case Theory - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTJYaGlEcUdHYTFMb3lSMDYtUzRyOWptZ2t5d0dTeVh6RndlOFJTVnRNTVM4LXRJR3Mza1RlVlR3NzdVTXlPVUJMRW1Cdm1ZM0Y2UzJJZlNwZFNNWVdvcHpCRHhfNEVrYnJZWFlDYl9WZkIwV0lZRC1ObWlmclVUcFdtQzA3NEXSAY8BQVVfeXFMTm9XOE1NLXI3RHpINVJoc2hONE9lR0VWN2pkSGtIUmFFV3A2MG0zOW1pLUYxamFOd3dLN2dZTnlRZVFuWG9hNGdzRkVuZllENXRJdmJ2SHh0OGNEQ2IweGFuY01VVGRqeHVKN0tXaHlrcEg4bWk0MGh0SGR6dlExWlNScERtVjlBVEVHcW9EQ0U?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VeriSign Stock Outlook: Is Wall Street Bullish or Bearish? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQUmp3M0pHZmJ5RldNaU41cF9oMHF5X1ItX3VxY3lMRXkyZFRXMEtUWTUxS01VVlR5a0ZvSVdyNHNLa2I1N3FxZzNSemlyRTdFSXJBZko1Uno0Tl82T2FkOGRXTFRrcHpVbVgzQ3lJVHUxejJyTGJ1NXNlamptdDdTTUUtWk01LVd1RFZUb3J2QldmRVE4MkwwXzhoWWNJYkh5QUhJSEJ2V196RENFSWtyN1RNNzc1TnVvQTN3dW9vNElSQnl1YXozZkJRMVVUWVRlNzY4WFV5QjVXWXVnMl9jd2NqdmxHQ2JHMkxybHJ0QTdJdVZfdEtBaFowT2FfaVNtdVRuSGhDQ2RHaXprZFBnV1dDSWZTNjhqaDR1VDExSlIybEdlendDamFMaTR6Ni1ZNTgwSXo0LXZWby1vbVpZN2RONG5NelFNdzltTXFoY3NfTVFja1phRGdWb3VZWkhRZGItUHdPRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VeriSign, Inc. (NASDAQ:VRSN) Stock Position Lifted by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRU1sTGtjaVZpLThxUkgtNkNXNXhLY3k4SWN4Q1N5akZrZHJfbFJpbjZDb2dMZW5Nc2EyV1k4enkxWDdMbjdVRzBsOXdLSXoyWS1lY3hxWGtOekxXemUwanEtZ0lfSlhSbHBGcGZad0s0dmlNbWxkUW5hYjMyZGtNTHpaZkxtQkx1TDNscWJFY09nXzJKTXlETWNFU0Zva25yU3UwblFYRURIa1RVU1ZZNWg5Vy1Fal9uTnVXTzZn?oc=5",
+        "title": "Willis Investment Counsel Boosts Holdings in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1N1ZGR6R0ZTbTVWMWktcWtOa1B5UE5FZUxOYVdGbnFSTW1mLVBaanpGSFBNNXNCc0d4OHlEaV92MTBZZkUzMXRfUVFRTC15T0NvWjZqTURJUVFKNFhHM3lyaFc1TWRaclZRRWhGZmlzQzlKRXZsRG9XS0cwNDZwUmpXVUFzdG9ZZ2pBclNTQU9BR2lGcTJpNms5VWdLLXBWQkM2Q2xLR3ZhZUlNckQ2bWliRENKaUg2ZGVYc0ExVGotclVscW9pWA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "(VRSN) Technical Data - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzBWTU8xYjJpSFg1Y01sWlhRQ3FuUWE1Rm9pRkJpM29Sc1MydmNkRXdKQnlEU2wwV09TdUY5THVaLUs4VDEwa1E1UEJVQWI2QWVpNUx1c051M1JkaFZ4eHpLS1dmNGJIdUhPU2tfamVCdFJSdlB5OVBkdkM3cDhwV2Fmdmw4QU9Ic0VUbHFvLXZDUTI1YXR1Tw?oc=5",
+        "title": "Best Buffett Stock to Buy Right Now: Sirius XM vs. VeriSign - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHlTa1FpNVVreWpVNUhPUERoa0x2U3NiYlZDem02dmdKWm91NlJzMnpEZ1BTUTI4RVRvUUZhU0J6b3dmUVlrdWlVMVB5M0YxSzEzWWJHTjJkaS05TWw2bGJvQUloOE1KNnZuM0NzVWJqLU1fRzFVM09FeExkaXJOaERNa3FIYk9HNnowbnFhRnlMLTBOWmlVeg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Where Will VeriSign Stock Be in 3 Years? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUV8zTndlQlkySEZ3dlZ6aWh6Qm9DME1BbUN2ZkxxX0JOaFBENk1fcWsxZWwtR2VESFBHYk1wSGNibVNpTmNZNll0V3ZPZGRCVjBxamxrbXprd0VtSHhhQjJ5Tld4dEpsaVd6d3hBTktXNG1palh6SzdYTXRabGlKNGpzYktibnBDX3c?oc=5",
+        "title": "Verisign CEO Makes a Major Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOF8yN2QzM3c5RnRETnF5Zk80bV9rTDZjcC1MaWJYNEgtWVQ1Rm5nNjdvTVJ2VzdEWGFVOVVkUGcyVEpSV1VpQzBMZlVJRk1GNzhhTWMzc0Nhc0NnTGhwTHp6SEhrUGVOU2VIWnhyUENNblZqWXEtaEJ1TGpDOXljYWp0SlhQakhGM2hDV1kzeXQyMVhQRHNGdjlRd3V5aVJm?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Raises Stock Holdings in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHFRX0liZU1wbnYxOU5OLVhGdURKRER5ZzFnMFZxaE12elg0ZVBEUUg4YXFxTFZJaVh2XzBsbVZEWHgwSmJETFU5eUFvMkYzMnRvZ2Q3OFlkUmk0bmJsajJaZjc4TjBJLWYwLW1DLXp6M1JKUW1XNkxnaFkzNGFlQ2Y1blY0al91a3l0MjN0b0xwU0lFVVJGd1dacFYtYlhrU19FSUdDSzhubGJ2bklVcUFKdXFUbjI5ZC1KVGRTQQ?oc=5",
+        "title": "Albert D Mason Inc. Purchases Shares of 1,266 VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEhqZ2N2LUotYk0yVkxjRGtlMUJCTmpLc0pkUVRaNXRBaVlMaEl4M1FVU2toWVMzMjZEeU4zUWc5NDFxbE51Y0cxcjhtNzI4VEF0RXhZWnhfWXZzN0dKVGtubnJYQ1otMTM5aGRDLWJJWjB0d1I5TVFrbjZhNmROQnBrVURFSW4tRU9qUWViZUhVOXEwbVY0V0VWUHV4eXp2M0RSakxfcXRfSjFrS0NCakVSWjdtTTNwRUZrV3RYUXR4WXB4V1F3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Up 70% This Past Year, This Tech Stock Could Be Ready to Split Its Stock This Year - MSN",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQbnJxUktxWEo0NnFXVk50ZHlBdW83MnhOOWdvNVdwdVpEd0NWSEMtdGx4ZndjS2E0WXBVSkpTaWppOE1Ld0w1Rnd5a2tQUzdkQW1kdlJ2YTBIZFE0bEFMTFF6bVpubmlPYkpMUnFTQnRDRE5wejAzNWY0eUFMbXhJem9uUzZSUzlHakhJVnVhMUtENWFsN3EyYXAxOU45YnZhUldpSHRCNzhEak5GRlhJTWh3d2VNVmdhVDBDQXd6WDZOMGloLVdnVV9uX1N2TzI1SVZmZEpncEJRMFY3MEVZNURvRVZDMC0zNlA3eWRkQm5TcU9kczFqUEcyOFRWU0dxLWxEVS1WZ0hOT1B6UWVDamZzQjd0ZUtrOGJJeWpjZ0VZT1RvZ2p1REdWSndWNVZkY1hDX3FpMldOM294Y2JYYWliVzdQVTJEaGZfWGthc2dRTk5pek9VaWdfSUJZWU50bk9YdHM3YmJ4ODF3OGk2YVVmRHdHSUZ0alhXdmlwSzRVWDA4VS1HN3RkU1AwQnJXRExB?oc=5",
+        "title": "VeriSign, Inc. (VRSN): A Bull Case Theory - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnhWZThMQVFwazZrYl9lRk9ZWUpQWUExbkhLUUpWNGVZb05uYmZkVVBqX011SW1DYjRVUnRYQTdDc000YURDN01tdGI5VXFxTE9KTkVIUS1tNzhId1VycXFLREV1YS1SM2kxVWw2TGUtblJkaWNkWllWMGU0eTQ3S3pUWDlTXy03cmN0VnNRN285cmcxQVRsTV9EbU5fTElWWVhzdGFTVEk4clBWRTRiQnZpTTZhelJl?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Does VeriSign (VRSN) Have an Attractive Business Model? - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTE1emxxcllhLVlvY2dhWUVrMXhMZmNMUzlpZlREaThuVW5MNEVvaVhEMk1LNWJaVjh4MXZZQWprQzM1RWdfRWVDekV5SE12cDVkbDV2NjA3ZnBqMEVfbWpHQ2RDU3hBd3VPTmN4c1JHTk1XUWNkZElWdzJfY1dhOGd5Szg2SlE3eVFIVWxJTGEyZXRKVHQzTXBDR2vSAaQBQVVfeXFMTm9JV2hnY0JZdzlWWllDY18xTnlrMWtMRFk0YU9CTVdac3dyNzVWQjlyVUtVdDlTbldPV1EtTk9TMjlQVUNfRUJ4ZmM3VXlvUWdWcG81cFJITWFmem9wdG5fOFpRWDdZSzc2QzJoNHpvbS1NM2VNeVpwUHNXUkNKZVBEdW5BYVNDdE8zbDdyeU9NSUJOaGFhQUJFOWp0TmNKaDVyRG8?oc=5",
+        "title": "This Insider Has Just Sold Shares In VeriSign - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUR1WGtGQ2Z3U19WTENRUnpDTm1nZlBncTlvZnRCcVl5MURSZEcwWEhFVzVRY2E5T2ttMDhQcnVkVEV0cjctdWdDMnhOd3d1Sjlkc01vMXNyVzB2VFpzbnRiX3NqSGZRMjZ6UlJ2eWtWeXl4VXo1ZE1TUFhMTjdHd1RLQmptQ0xkNVBxWDBnSjQyV1ZoSFlVTkNoTlFtUXlRQTl0UktlSWMtcFlTYmVtb213Q3LSAboBQVVfeXFMTjdrQ2ZCajBTeVJxZUpnWUVKOVNVOFVKSFZ6aTJIT3plRVdMcFBrS3BzbW9UZFU3cm03Y2V5UG04SzUyTGNibEhlZUpsQjVTaU14TzBxVDY2WEtwMFFJdlhYcVgxbi1lZGQtbXl3M2RYQ29TYmZualF4SUxKT0pOeDdlb0UzS1JiaGZlZERRM1ZQTUY5eGdsYTdkdkw2dklRTEwxTTV0QUhtNjFvWHRMWktkdEpIbmcxdEpR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "VeriSign, Inc. (NASDAQ:VRSN) Stock Position Decreased by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeWR0enR4dmMxVExINjFwYzE1a0hFaFBrYlZKYjN2UEl2anN4QVozZkVlRjFMa05QWXBEczdzZm9NVW9VRXR5V1ZBODFUNnc2ckdNMGd4UzVIR0RwNzRzdkFTbDZWSGttX255aDlHcVo4MlN3UUxGS2VjV2xXeEd6QmRlT0FfZmJURG9FMlRiMGRsejhoc0FuQmZKRlVUd1VzdzRqei1qS3VrNkJoWlY3Rk1KcVEyVFIyLUZYUktYU1NDU0JWM3FNenQ5QWpTUmM4RURjMW9GWDBvSldfUG1YRnZHdDJEdw?oc=5",
+        "title": "VeriSign, Inc. (VRSN): Among the Best Forever Stocks to Buy Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBneVIyWTNnN0NwMzJ0WU9Ic0lBT1NRVm1jZEZsV2ZFRUZSQ3pvd3hXSlNweFBzaXAyaTRjTHowbDN1eVprN2QyLUxOczQ4OXl2UjRHQjlTdDlYT2x5VEJqMmhjM1pEczh0UE5nYVpucXM1a1B2Q1oyYlRpSXJtQnM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Verisign Executive Cashes In on Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3I0MEJwT0Q5NDdmQmV1UzhWdDJXckZtQ0RyQUlWWFlSZWk3YVRjLWpBUjc0OURYWXNMaW1MeG9LdEx5NlNaS2pQa2V1QmtSSndlcmFSZWlQOUU1bEtFaWwxY3o2Wm9NWFBMMHpWT2drb3g3ZUV2ampBaWZZOVBjbmJNRnU4aU42Sk5nUHhzd29tLWtKdjdENUpibGt5a1lEeFNnbHNqSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D James Bidzos Sells 5,000 Shares of VeriSign, Inc. (NASDAQ:VRSN) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFpHMk5MbEg3X1NzWERWLXpnRi1CbHRodko4TXlKSFZqbFVPRUZBSGNlcFhfUThvcERmSThiM05zU3djcWg0c1pVVGd2b1BLZTRfNXdacjB5RU80dGdoTzBHVHo1STdBeDdvUFVBNXFOVm51QzNrRnEwLVplU0g1U0RyOTYzQzlvdEI4d1RYSHhaV2loazA3cE93WTdSX2hCSzRtaDZnYzJ4ZnpvdXVVVTNpa3B3UE4xT184?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VeriSign, Inc. (NASDAQ:VRSN) Stock Position Decreased by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc3lzaGM2X19YYzFrMW5iT0N6M0tzSWE3QkhqNHJUeTJvUGNlTC1zZXdHSl9aRTBpWFN5Y2ZFdWVmMG0xU25oQnJQWU04dkVxeHBqRjlkd2FqR19hXzVsUjdoZlFPeHZrQ2IwZ1VLRURHWDJ0UnNWSVc4RW1fU0RSNi1XT1pEeW1WUHItQ3otSUM2aUJzR0ZvWFQyZ3Q0amZqTTNJNVJfTVJYRUJpSkYwN08xdDlLdFo1NXpfYTNYbTFDMVpfUHRNbFpnRWI4dEk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is VeriSign Stock Outperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTZ5UzNrLVJEaGw4T1lwTnFfUFJkc2ZWbndkX3hIV3NSYzRRSzhMbXNucUhUamRCWFJUQmo0QmJGaDFES3FsN2I2LUpITU5wcmgyU0w2TjJrY1hVa3FTODlOVDd2S1hxWkpmQWlMNVNycHoyTENIX19la1BDNHhGN1hqNnhqTkprLXhOYlMwWXo5MTh1UElGV25qeXBnUlctRG9WeHFDWWNvWVh1NVk2V3VVTm8ySVByQjhISjA2Qy0?oc=5",
-        "label": "NEGATIVE"
+        "title": "Insider Selling: VeriSign, Inc. (NASDAQ:VRSN) CEO Sells 2,000 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlZTaHVXR0hSQW1DS2RlY0NoRFhuZG14bmtCbHc2MUFCcXI1VU8xUGJyY3ZiNExxM2Znci1OU3Q4MmlSWklQOTRqc1MzUjE0NVphT0xRRUs1TElHM1BxQ2p1V0pqVVdvZHg1SnAyYWk0bGwyYnJxQzNtQ2tud01IOHc0amVBek5VYWJrejBoRWUzWXpPdGxCT1hVWm1jOEU1cDRaamtPM1pfc080YXE1eDc0V0E1UkhieTFNSjl5MUtQQQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Squarepoint Ops LLC Lowers Stake in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Sold by Yousif Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUZiT252akFBLURfRWQydFRZZDdfd2pDNkFodjg3RFFESjZFS01BaDBUMEhxR0JvNnVhRG02UmVLWHdqZENvZ2JrOVZZTkMyTjl1SU8zYjdqbFl5VGxoV013VDVyMWRCVjA0c1QwZFhrWWcyOHBPT1RjeVF5ZHJ5LXR3dVNBcVh6RUlHdjZWNnpyM0JYcUtJTGd1UW85UlcyWXRmRmdkNnpmRzZLejJKdXQxTTBTY3h5LVVTc3BHMUZIY1lBRklocw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Bought by SG Americas Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenpSeXhZd0YtMWZDd2w1U0ZIWTNhQVBWRXVrTWhCcHB5MlYtcjYxeHljQ0toeERPY2prMHl6Mmkwb1BpZ0dRY1pBanhMUTBseU9DYzFlVzd0T3ctVi0weE5oNC1SclVkWDVQeWthc2xaeHBLV3lITTJpNjlZWFpaTlpxYlRuaG5GeHo5em8tSWlvc0dqeFd6NE16TkF2VHBZaTVVdEQ1bXVGNm9XeHN0RXdKSW9TbVRjS0FMb2YtR3ZzcXRRTkVF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Miracle Mile Advisors LLC Invests $233,000 in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRkQ0QjBGNDVUc2lISnN2M2dlWEs1MWVkZEdwSF9OZG9ZdEFnTWxMZzR3LTRhX21WT3BhaFFFZkhIMjM4MEFLRG16a1drZk1KYmxNaVRtMm5OUFNybE9iNGFwd3R1SWNtSWFhWHNBcExKWlZmRzAzRkNaV1AzRkRTQXpBU2tHM0tpcTlMRkRjbGlDUjhNQVdjcHZQb3lVUF9GWXRJbWwyLTN4Vzl3eEJCNERhVkhrZC1LaUZOYzlQZTBzRWw0VW53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Sells 2,927 Shares of VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemxQcDdZdEhMOTduaDEyMFloZW5DcDhFSHBaOExsZlJmNUtFbXB4Mm9WT2R2cjkyWURGU0lRQ3ZiOFdMdWh6LXRZZVhuNjlNWExYVF9QcXM0R082dDNxYlMydnJZY1lUMDlERS1HaHR5YlRaN013aWZKbE80MHRaeEFaVkRFZ2JraGpJSGI5bl9YMThNVkhmaHRMTWY1MTFid2t3Zko2dWRQQndvWWhfUEZmOVdNc1FQTk1QV3NVR3ZZZ2I5czhaXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Purchased by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZjVUZC0xX0JRdl9xQjVBNTNCZFdrRFV0WUtZTnc5UWJiaDJpM29xdXBDdFExRHQ3bEozWmRJZkZxNm9JdVNaMGd3ODlJWW9xSmRYTXZ2d2Y0QU5KTEpPQ3pRbzAzYXNVNFZhVDEwX2oyLWtGQUhiQUlHN01BbEpud0tneDJfX3BXV3JGRkh5VXA5NWUtOFVzZW5WTHI0VlRrS3k5clRxd01YVjhzOG5KZkJIMzJLY2NFd2VpdFRsUjlRLVhIcWVRd2loZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "USS Investment Management Ltd Sells 5,517 Shares of VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWlEZmV1UjNQaVZmWVptZXA2WHhIX2V1Y3ZjbnhDVE5WVTBFRzBOU3UxMlJ0eHFQVk1rVmNIaW9XeUNsaFdkRTM5bFptaXYzWFBtWGJGWHhJU0RZaFJZeXlyQXkxZjllakVoX0hRa3dOTEVYT2JNaDlwRmhjaDNpNDFZdUxtRExCYlBxSGxRMllmb3ZkOUp2N0FVSG9nNFctcVVKbnVFS3BseWNLQW1BcmdEOVZsNTd3bVRzdTdJcW9MYmtpS2JWSEQ0bl90WC1J?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trust Co. of Oklahoma Buys Shares of 930 VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS29SOUdQVjB3THFOQ1RmaUFwdlhBMzk3MVlmSk9sN0J5aXQtUUVKVVo0WmRHWDh1cjNycXlrcHluUW5VaUJQeF9mcDk0TEJTY3pCTy1GSkpDbE5DWldkQ0RFbmgyblBLQTlZa0hQWDVWSy1aM041LV9RNUhvOFZmc1BGRE5RRXdxLVExNFo5RldWQ182R2VhRlNDMmxBdldxbV8zSXpYeVRMaFU5M3V5b1FGempZRUxDR3FkZ1MwanpNQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Sold by Squarepoint Ops LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRk9uRWtwVk82VWNhdXd3YW1Ub0tRektURkktM2dNNV9EdWZJVHloSlRHelcweWdQUkozRWh2LXBOT0k5eXB2aWNZVE50WnowamZRcUFsSGUtMlRrM0Uxbk16UDVtLUY4aGdUVENnLW9uZ2xodjEyRzB2dnhaUGg3TXA2VjExRmxJNV81MFFvQ1JkenJLbDI4cy1TX3hvek00ZXFkdkpmemJ0MmNRbl9uVHVHei1NdUVncmRv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting VeriSign Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzhyVmRqM2xNa1hpeUltVlZRQThmcDVUN1A2MWlERXJla3E1Z3lZaml4b1lLY1ZXdGVTVmpaVlJUOGJ6MjI2Ty1wNVFONDNpeEdiLURsb29Xc0RsLVRuMGxIYjNVTUtERHBSMW1mcy12amhXQjh0UVloUjJuM0V4azBnZ2lGWGl5Qkt3ZlhzYW1pN1g3UU9yb0ZEMHlqaUNJbnlv?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Insider Selling: VeriSign, Inc. (NASDAQ:VRSN) EVP Sells 501 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTctemxvdEtIdGtpaGRkRVdoaEhZYWNQLVAybE9CUkthY1IzcXlQZzFWUVNELV9uZU1wVzdnM0RLZVN6cFhPVkpmZDdFS2dJV0hncExwTVJSSjA1dGtYUlZiaEthWUdlYVdwTU9OYVFXUEFsMHlPWC1Kallock1xYkp4aE4ybm80RVdidktsQXlXRHFORC1FYUxpUFhINTd1Q0h3Ym9WRnQzbmxGaXFESVA4YmxfZTl0MlhtSlBLMWg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VeriSign, Inc. (NASDAQ:VRSN) EVP Thomas C. Indelicarto Sells 501 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3VWaUE0M3c2dG9Ra1VKajNFZlhTR2ctNU13dXFvcnFBcHpnQTJ3MHY1NEgtUXA2N2ZGdkFEX01sQ21IXzE1a2FlN2ZhaEFfUlBNcHRkSkNkMUdfUkZoOWxXTHlJVUJvQzFWUFV6cGJwNnFVa1dBLUtibjVzZ25YaVBIUnEwbHJSRW5zbHFDeV9JQWtKUjZucWZlaVRVcmhHWENDQy1zNzZ2eTRsWnJtVlA5Vnp2Ym1zQTdKWmNCMnBxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Sold by Douglas Lane & Associates LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTEhYSS1uMDROZ1BSRXpwa1JzeGdNUS1ZSlZ6X0l5VTA3UXFPUWdoUXJ4clF6Q1p0THBVekVrdTFkRnNqSUs2WnBmQWt5dHh4QVAzaVhhblVORTBkTVp1S3ZSbVJaWk1xSmFKS2sxQXVrdEhRdHl0cVhoS3gxOXlNTVdBMUxVNDE5TEJVRzc2a2VMNkhJSjVwUWkyOXZ2NEEwdHUzY0dJWDd3YTBHN2JpYVN5M0U3Y1BvcUZ5X3hBcGZMREttOXJ3N1pDQ2lWdGs0NFg3OU5Sa3psbVhuNXhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Reduces Holdings in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQUtvR29VSXh3bUxXUEZxNTRpdWFqb21wazZqQjhnc1laVTZ3aGIwZ0ZoQ0dncV90YUFIYlVfcTJ5UlVXSkxaSkZlckp0QnMxc0hRVTIwME01VDdISE9tVl85NEtKWlE3WVBuRFI1Tjh1cUFFNWVobGRSYkZUYXh3X1VKLXlhdUF1dVgwMkt6UGpNOG9MNzlYSThULV9IRGt6cEhCend1SHNJREVURDQ2MFJuWWZyWF9XR2k1UFFpQVJXNmFqTGdTUlZJNlNvOWtucDNMZzJ1Ml81a1BSemc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Summit Global Investments Has $1.34 Million Stock Position in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTZYTVFXd1FqQkF6bW1TdU5GOVlmR1lUMXpWMXJjUUhqWmNXc3JXdXpPd21Xa2FhS3FXcnFPQVlaZjZfX3FDVVBsMHBGcGNyR0JvS1c1NElneElWMzVfc1Q5MVd1YVVsQjJyYmg1bk0wUTFDSFo3cEpTNFlBSk8xc1B0NlN1dHZ4d3FxMGR0SWdBTlNKUjBfdllPd2loQlUwdDh5akFmLWhKQUtkQU4wZU96TVdLNHpfemhUUXlxOFdVTUxqUFRUQTVnbFZrZUk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Contravisory Investment Management Inc. Buys Shares of 2,401 VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZEk2MkR2ZjkwcUZoVHJoUkpKVEttQjRQU3Q5NndPdkJwLVl3ZHlCTzhpa3FxUUN5aHo3R2tsTUhlYmwtdDdBbTRjeEZqaGRXaVBBb2JBS3pkZXRnWFhJWG0wYWdwQUVoWTdBYTVObXhiblgwNEN3VWg1djVYTjR6Y1o0ZHNoaGxXR2p2SExEakdWV3NtTnhGV0pqZ24zRUVtWVM0bmNwb2hNNGlYLVJoVDZnSHltQVdwU0FCRWhTWF9rejZUMDdxMnBuY3c0VEpFYUlLMTVua1VBalU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "111 Capital Takes $516,000 Position in VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVZrS2FnSnN4cHF5U2ozeGt3Q0cwN3lMNGY5MkRhMEpmNmdJNmdGeVVWUUlaWXlocEhrSWZRMlBBWGE2MUNvdVNlZTVJMlBnV2ItTW5BaFBWWTRHeGpHOGQ3bTlES01XNEY3OXlkMWI4em1Wc204S2xIcElmQnhfVkh5VkJPSVV4V0lVNFFEa2s5cW9nQVpHaWJWdHB3d3k5b0RnRjNCWjc4ajlXUmp0SVRnR0I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wellington Management Group LLP Sells 93,542 Shares of VeriSign, Inc. (NASDAQ:VRSN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0VWQVJzV3BtdGRIUEhNcnd5NkJfb0k3TmhsRmNvei1aUk9jcllHUUhFWlpVbHprdmVCVG5KandrYndmQm9QcWl6amwxU1NadnBySlZXVVY5UG94Snh1NmlXdFpYNTExbHBTLTBuUG1xb0d3NzVYcXJlam9FLWZBWkJqVmc3d2NCWEhSdjk1ZHI2ay14Y1FVc3dkZ2ZiMG5HcWktN2Z0MGhFN1hlV3ZkSTVGQmRrUU0tS1JvWjYyaDdoQ2Y1Q1NtV3dINA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "VeriSign, Inc. (NASDAQ:VRSN) Shares Purchased by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWRKRXNjUWNCNGFUbDB6Q252Tmg1MXIyRHlvM0RQUElDSURWYmYzWnF3R1E3cEhDUnlIb01pYlp1SUthQ0FYLWoxY0UzV19wT285c0ppcThtLW9CQnJrYWViQzV3Uk9CNTk5bG5aSlpyUDRlczZsYmVTNjdzUkFmZTNvaVNLUTczRU9IV2U0SzhqbUxPZ0syV2RDaFVXTENpQWhuSGZrWXM4SjlhUU1neVVmeEljTVVVaUh1OVJnTDY?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "SNX",
   "name": "TD SYNNEX Corporation",
   "sector": "Technology",
-  "market_cap": 10318974976.0,
+  "market_cap": 10319394816.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.37,
-    "PB": 1.2710227,
-    "EV_Revenue": 0.237,
+    "PE": 15.351435,
+    "PB": 1.2710743,
+    "EV_Revenue": 0.243,
     "ROE": 0.084750004,
     "ProfitMargin": 0.0116,
     "GrossMargin": 0.06734,
-    "DividendYield": 1.45,
+    "DividendYield": 1.4,
     "DebtEquity": 53.761,
     "CurrentRatio": 1.269,
     "QuickRatio": 0.695,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.002518461793495241,
     "ROA": 0.027320001,
     "PEG": null,
-    "EV_EBITDA": 8.499,
+    "EV_EBITDA": 8.742,
     "BuybackYield": null,
-    "PriceToFCF": -69.74644353545622
+    "PriceToFCF": -69.65043899120897
   },
   "technical_indicators": {
-    "RSI_14": 56.8922170210752,
-    "Momentum_10": 0.531437771934806,
-    "MACD": 1.7531703808912624,
-    "BB_Percent": 0.5359489016072994,
+    "RSI_14": 52.93163920497865,
+    "Momentum_10": 1.339212171619758,
+    "MACD": 1.9820620832359168,
+    "BB_Percent": 0.4445958312247123,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336719234602012,
-    "QualityScore": 0.2640544446260783,
-    "SignalScore": 0.5013653233984092
+    "ValueScore": 0.8953465325539679,
+    "QualityScore": 0.2722154494692979,
+    "SignalScore": 0.5514105480704954
   },
-  "volatility": 0.024587679298502,
+  "volatility": 0.0247277626345145,
   "beta": 1.194,
-  "return_6m": 0.005227219739327,
+  "return_6m": 0.0051865064889489,
   "analyst_rating": {
-    "recommendation": "none",
-    "analyst_count": 11,
-    "target_mean_price": 135.17365
+    "recommendation": "buy",
+    "analyst_count": 12,
+    "target_mean_price": 135.9925
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 123.06
-      },
-      {
-        "date": "2024-12-10",
-        "price": 122.34
-      },
-      {
-        "date": "2024-12-11",
-        "price": 123.12
-      },
-      {
-        "date": "2024-12-12",
-        "price": 124.5
-      },
-      {
-        "date": "2024-12-13",
-        "price": 123.24
-      },
       {
         "date": "2024-12-16",
         "price": 124.73
@@ -537,77 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 123.51
+      },
+      {
+        "date": "2025-06-09",
+        "price": 125.9
+      },
+      {
+        "date": "2025-06-10",
+        "price": 126.22
+      },
+      {
+        "date": "2025-06-11",
+        "price": 126.48
+      },
+      {
+        "date": "2025-06-12",
+        "price": 126.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 123.34
       }
     ],
     "current_price_data": {
-      "price": 123.51,
-      "change": 2.2,
-      "percent_change": 1.81
+      "price": 123.34,
+      "change": -2.74,
+      "percent_change": -2.17
     }
   },
   "news_sentiment": {
-    "summary": "TD SYNNEX, acteur majeur de la distribution IT, a récemment publié des résultats en deçà des attentes pour le T1 2025, entraînant une baisse de son cours. Malgré cela, l'entreprise continue d'être reconnue pour son leadership dans l'industrie, notamment en remportant des prix prestigieux avec des partenaires comme NVIDIA. Les investisseurs surveillent de près les évolutions de la stratégie de TD SYNNEX, notamment dans les domaines de la cybersécurité et de l'international, tout en restant attentifs aux signaux de marché qui pourraient influencer la performance future de l'action.",
-    "sentiment_score": -0.15,
+    "summary": "La société Synectics (LON:SNX) a récemment vu son cours passer en dessous de sa moyenne mobile sur 200 jours, signalant une possible tendance baissière. TD SYNNEX a signé un important accord de distribution avec Oberon, mais a également manqué ses objectifs de ventes au premier trimestre, entraînant une baisse du cours de l’action. Malgré cela, Morgan Stanley a émis un avis positif sur la valeur, tandis que des insiders ont vendu des actions pour un montant significatif, ce qui pourrait refléter une certaine hésitation. Enfin, l’annonce de l’introduction de nouvelles communautés AI-driven et l’arrivée d’un vétéran de l’industrie technologique au conseil d’administration montrent une volonté d’innovation et de croissance chez TD SYNNEX.",
+    "sentiment_score": null,
     "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "TD SYNNEX Earnings: Q2 2025 Results Coming June 24 With Early Morning Conference Call - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2RtcU5fSk4tel9sb3hFeUh2N2pHYkppUGQ3TlJCVlNGckhmT1VzbHZsQUs3X1p2dEUxTmpyUFFzeEFFaDFBWURSM2I2anVHSFliN285eHBvOG5hOXNqaFBXRzRmcWszYzFSUkZmQUlFMUUtVVdpR2tydlk1Ri1ZblZnTjZ1M05CUTdKeUtpVGdILUVIUk1jckE4aW1FNEVHTDZQb0J6Nm9KaEhyd1JSdU5aa1EzWmN2Mjc0Z05B?oc=5",
+        "title": "Synectics (LON:SNX) Stock Price Passes Below 200-Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnVUYkhSWHdBVjFRenNsZ3F1cW1XUXYtb3VKN1VQT2x3am5zR0lvcFRlckZUbnhzeDdka0JSR1F6dEdDQzJfRHB3LWFxRndWMUZFb2w4Z0JCcnoySlhSZUlvN2hLa1R3cU9QV0FubDB0d2wwZ18ydjhBemE4V1psRGhYZW1qRTNJbGlDNTJaSU1KelJQSDlpVmlDdlY5VWlibkxiWS1mQjNKcm9NSkZpaXRsN3p3LURoUVVtajFCOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "A Look Back at IT Distribution & Solutions Stocks’ Q1 Earnings: TD SYNNEX (NYSE:SNX) Vs The Rest Of The Pack - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWNoLXNLTkxFZUZuSk83YXBjOHptVGcyNUU3TS1lWlJmMXdRUFpoLXlURW52SGh1eUpIT3NscFhQd2UwWTZDQ1lxZkZPSlItSjZpZUh5QUplMnZ4eElGelg1b2xBUkdReXhzeWJINHhNVkszVjUxU21XWWh2RTVrMjVWUWZuZDFzY3U0LXRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kenneth Lamneck Joins TD SYNNEX Board, Takes Key Leadership Role | SNX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkZpNmtGVGNsSURrZDNMTTNPR3E1X0FaXzAyNmdlUXFLQlZqS1BObEc5U2lJWlhySjBzVnpadDJsOW00Y0x5dGY5dXVqSFFLR3lQV0lHWmVqdjItZndiamVRMk5uWTdrRHE1YmluWE9LVHhsbzM3OEFxb2xuSkxPZHBZOGhOc19NTlR3ZlRLcEktcDBHdXVyU0hnUnE1Q29rZmxOTnd6ektULTR0aDRtUWdNMG9IU294?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Synectics (LON:SNX) Share Price Crosses Above Two Hundred Day Moving Average - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0hZVG9KbHBTQm1KRXVwY0hXRzlwd25Za3lGSnpPckttNnFrektNbUVONlJMQjhuOU9talFDczNTR0xaTWJHTTNuNUYwdVpCUm5MR3JLbmtVdG04TEU4ZHdnNmx3OGhuVzI2d2x6bl9pR0hSc0NtcTRiMzRZZ1VqV2tXZ2pBQlliaFl5SkxsV0xJMWVvbHdiZVBHR0p3cS13ZmxsaUFsdzc0aGRTZjhrVnZSdjFvQXJLbVE2dU1FaTE4a1BPVGNFQnFYcHd3SmdYSlg4?oc=5",
+        "title": "TD SYNNEX Signs Major Distribution Deal: Full Access to Oberon's Wireless Infrastructure Solutions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlRtenFReEhRRldVS2tYdUx2eG1Zc21Cd0NPSUZwVS1KUndlSERMUnpvVi1ybS0wY0s0SzU3QUNscTNvRjJhek1JdlRzazVnUTR6aURvWTEya3dTSmpFY0VnbmZWR1VqcnQzNEcwN1p2ZFo5Nm1kZnVOVmNjaml2ZjM2UXNyRGNGTXlfVFR5bEUybnNFSnFNSjFjX3J3ZlIwZ2xkVkJMMzFBcjJmMlNocHF0SWpCRUJEYTVMag?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD Synnex Stock Sinks as Expenses Increase - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzlrNDMyNURhQWNSelFkQmU5UjBKYkR6YVdjcllRLXFzU2I4Z3V1Ynl6N1hJQ3drakxXeVJMMXFOM0Q1LWZwRUdOaTZncmVLWkh5bnQxekV0WGthQUt5VjIxMThFekYxV1BpTms3blRLU25SdVZEck9SMElMQmx1OXJnSlRNSWs?oc=5",
-        "label": "NEGATIVE"
+        "title": "TD Synnex (SNX) Receives Overweight Rating from Morgan Stanley | SNX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0FIMVgxTEdLaGZMMk9NUVR0VTU1UjRpMzR6TmRLeUVBSFhDMlhkLUlvdlkwNWlPSzBiX29zU1A2ek9JazRqOVRpQjNWZTdnVXFCYXBGZUtSZU5BLThrX2N4bTF6VWRYVlB1LVJJTXg3RThIeUdIU0Rub3ZXZDcyMko1Nk1Rd0dpbnJPSWZCVngyUU5sLTBmZzlnVlYtY0ZmU0JpeTRjUUdES2xOUHczd0VSbEJEdw?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Has TD SYNNEX Corporation's (NYSE:SNX) Impressive Stock Performance Got Anything to Do With Its Fundamentals? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1haemVId21WeDFHSF9IN0RpZ2tLWGlQRjN3QW4xTDFIVld2RFZwUnFMTGs0UEFLeHZNYW13YjZ4bmZZZ1R1TFVQRmtaNEhTYmM1NWlPUWZBTzFpRU04eVU5SXY2TTIyakVKWXhwQUt0QW1YN1ktb3F2amxaWmFDX20zSU1BY3ltNE1tT19mMFFWcGE3a0x5WjdRcDNxV3VKNEltN3c3ci1IZ2VSSWFyNjNEa0xndkdEbUlOc2RB0gHDAUFVX3lxTE5VV09pUHR5SEZwQnFHaWNtakVYaGprdUxVcWNXZnZMSVJBaDcwQ0VmbVN6ZFpReVhUMHQ2UnRhUkxPSFlUZmZNS2g0ak12cEM5YmkyNl9aZldSbUV5S094VkxtWTVvM1BCaHFRcHRMVjZpcVk5Sl9zbGM4MUhFbmk0bXNLTzBNTzE0VjhybnFjdnlzbFM1XzVCVWdRdC1oa1NpaExXV0pRbGYzVGZ5RmJiSElMcDlFZzdsWElsT0dmdWZ6cw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TD Synnex Unveils Its Strategy For Cybersecurity Practice In Latin America - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNGNrUjhzVVRKMzR6LVBUQWRDcXJzQjdFSDBmVThRSnJ2Z3FJMlRtVEF3N214YVRUbnQ2emhyTjBDb0x0QWpxcUhpdXdlMjhBVHNqaVYwSGZOdDlvYlR6UEdtcDNHWlZYSmRUNmVwUFI4LWt5ZUMwblhEMU5IbVNmLXBNcWE2aGxscVhaUjV1dmVyUENYRjBUZnRvd0sxbE5HVnJral9LZldJNnl1WEpXdHF1c2ZHTTYwWFdCTUd5ZENRU19fTTRQdGJsWDlkVzY0X2RmemhuUmRUcndDeDF0aHZweUE2WXZtZzZsYU4zV3ZSdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "TD Synnex: Rating Downgrade On Uncertain Demand Outlook In FY 2025 - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFRHTXRVUWJPNnAteTdqbm1UQU45TlRaRmFsbWFaNnZOSUxid1hiY2hYalhJaUYtOHR6aGRMbTVjTlNFbEVBQWNtc0JjUVV3UjMwY3VKcVNjMWZnNW5zelNBbFYwVGdBNFI3SXRRdXlRRklyb3hTdmY2MlV0VnM0NU1NcUk2cUNIWGgzSGprWEt6ckdvYWhmLVdFSUlDWXNsYTJvZUhTdkt6TzhwZFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "TD SYNNEX Prepares Partners for Market Evolution With New Specialized Community Structure - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkRwQjFTMnZqSmhWemlVbUQ5aXlDbzZTaDV3U1k4d3Z6UzVRUllFeTJkM2ZsSzJmdTJvaUR5ckFBZDc0Ymg3MS05RC1scXUxQkx1aFgxWTNvSXc1X0VnUEljMnZDYVJJbGxNSnNJUmNEQWV2UTRWN2JrNk1tcFpKRlNCSEdRWGd3U2l1dC00ZTBxTVUxLXhIdTlGTzc2Ri05QUdObldFNnBlMmRmdHFvRGVvdjBvbjhFRlRrdlQxdEFKZ1JIRWxOYmp5R3h1c1g3SGQtdXdFNm1JcWQ2cGFV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tech Industry Veteran Kenneth Lamneck Brings 30-Year Experience to TD SYNNEX Board - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcy1MdUtVUDBzTkNzaFZmcDNvOUhZR2dMSERDblBubEN5MklNdlFhZFYySmxFdGY3OWhIRnFJY25JeHZjeFVmUkRTQWp6cUJlUXVEcVI0RDQtNng1SHo0LUdUN1ZTMFpIQXFkU2pjMmpHSWFrcHo0Nk41R0ZuSmJaenNldFRUVFNJMktYNWU1SlZQM28tS3Zxdktn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kenneth Lamneck Joins TD SYNNEX Board of Directors | SNX Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2V5RFdNMXVZeXNLVjRMUDFZTGw1NmxHRzNpa2NLdF91YXBzQWJxV2dmdmxIN3RyZmYzNEdhQkE4SUdfNGtvejk0UzJGRkxQeVlsOURqVXRlTnpKWVg3NVppRFVuTWxRODU0WUVfb0N2TUhCYm9aQlE2ZjZoQ2pDanpLNGgycFlqM2R1SDdGcWdSVHRuZzdQTE9QMkxwSjZXRWQ4eXFRZw?oc=5",
+        "title": "TD Synnex Stock: A Deep Dive Into Analyst Perspectives (11 Ratings) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUstS2ozcHFlVE5yR3l3cFB1ZktSWVB0cVRncjQwMUxZWXhWMXB3X2YwMjdRSVNTVFBmdmlTN0Y4UXhJZjBldWQtM2UxZUVaWkFJaDRwWG4zNjdDVm1lVUVmYUdiVl8tOE1seUdhZlNQbFVFVVFIM05DTERvTXZsUEJRbGVXQjhOT0VBMlNMM3MzQWNrVXRrQ2FwZk9JdTRyWk5nbmlPSTZaSTEtVmlIY3dET25sUHNmd3FqUm41YXBPelJjblNPSA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,24 +581,39 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "TD SYNNEX Reports Fiscal 2024 Fourth Quarter and Full Year Results - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjZIWHFWX0I5d3kwVkxfYWlzTEJVZ2ZlcmtGSWZJT3dEN3BIVU5PdmNta2pkdGJpNUZScEN5NDF5UHFCWUxDWTZEa0RBRy1MQktKWWdhZ2RDRmJWUzJGRUxNNEU3cGROOUY2S091RENLUS05a0ozZDY4bV90aHNGZ0JkYjlxODMzX2tJT0xWRGViTk9hUjZpc2EwVTFDVXNTMVJXdi1PaXJwSUtyVmZ2S0VUa2N4bzdSc0lTMVlKS1o?oc=5",
+        "title": "Has TD SYNNEX Corporation's (NYSE:SNX) Impressive Stock Performance Got Anything to Do With Its Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1haemVId21WeDFHSF9IN0RpZ2tLWGlQRjN3QW4xTDFIVld2RFZwUnFMTGs0UEFLeHZNYW13YjZ4bmZZZ1R1TFVQRmtaNEhTYmM1NWlPUWZBTzFpRU04eVU5SXY2TTIyakVKWXhwQUt0QW1YN1ktb3F2amxaWmFDX20zSU1BY3ltNE1tT19mMFFWcGE3a0x5WjdRcDNxV3VKNEltN3c3ci1IZ2VSSWFyNjNEa0xndkdEbUlOc2RB0gHDAUFVX3lxTE5VV09pUHR5SEZwQnFHaWNtakVYaGprdUxVcWNXZnZMSVJBaDcwQ0VmbVN6ZFpReVhUMHQ2UnRhUkxPSFlUZmZNS2g0ak12cEM5YmkyNl9aZldSbUV5S094VkxtWTVvM1BCaHFRcHRMVjZpcVk5Sl9zbGM4MUhFbmk0bXNLTzBNTzE0VjhybnFjdnlzbFM1XzVCVWdRdC1oa1NpaExXV0pRbGYzVGZ5RmJiSElMcDlFZzdsWElsT0dmdWZ6cw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TD SYNNEX to Announce Second Quarter Fiscal 2025 Results on June 24, 2025 | SNX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejkyMTl2MERlMkV3TDNPOUR2Y29KT3UtQmNKT1lna3RMTVkzQUxkeWx1a0NkVTROdEJPUGY4bUxFaDNzZFlTbjB0Rld3d005aUVianFVMWRnQ3dGbnJnLTJpT3ZLaElrN1M5a2ZYQUloczhWQW9XdWxvYUdtNEhmbnhUZ1NzSWVFZkpTeTQxZW9LSkRrZmVXWmFnMEotVTcwdjhIZ0xHa0RQbFJnb2p3RlF6bTF0c2M1VEJnTEFBTXd4bTVY?oc=5",
+        "title": "(SNX) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGJyZnZidE9Qc1VjM0tnc0RkSEFVNlFMNEpCV09oeHVQa2VOLXMyenlMNEIxdEVmY3BOZUltamVBZWUxOHhvbHUxbktodVR4THI0Ukcydmkxdlhxb0VWTWdPaVY3anR6TFlmWjZvTHZVSmE1VG1JZE9heGN3aGVGTUZuVnNxdXA2ZzdSRHh1LWtsandPdVdhTmlEbWZzQlExNjlkRU94cFFyMUhFNHM1NW52WFBsMVZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "29 TD SYNNEX Leaders Recognized as 2025 CRN® Women of the Channel - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSERlTlExUkRoSnQzRFUzVG5ZRTFhN2RmR0JaVmNwMTNXRnZwSTRBWkJWMFZKdXlCVXdVTHF2SHBRZXI4ZVNGN3BrOE83QWRIZkZ5ZktTdkE4ZmpOYlQ3RGxBN2M4OEVON1JnNkxRZUpiNzUyeEo3OHdNbmthdjh3UGloeXZxZVNSUmRGZVJIeWpsS3FXMkZ6NzBLRWJYUGE3TXJXaFk4NEM3M3NNQklV?oc=5",
+        "title": "TD Synnex Stock Sinks as Expenses Increase - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzlrNDMyNURhQWNSelFkQmU5UjBKYkR6YVdjcllRLXFzU2I4Z3V1Ynl6N1hJQ3drakxXeVJMMXFOM0Q1LWZwRUdOaTZncmVLWkh5bnQxekV0WGthQUt5VjIxMThFekYxV1BpTms3blRLU25SdVZEck9SMElMQmx1OXJnSlRNSWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Oberon Announces Partnership with TD SYNNEX - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1BUM1BlMjZJM2NGY09KR0JTRTV5ejY3cnpkc3VOOXkzdmlLYm10V3pnZGpiNWtyQVhqOVZfN05yZ3oweXlhQ1pMWEFJbUVKNzFUSDRCbTFCUXBwVnV2VDY0WTdLczJmdGM1Sl91RnlPNjB2cDFOM1lhVWhfdU9sd1VUbVliaUhOQXZNV2hKOGI3ekR4cWRBWGk4Q2E4bWlhMXQtWmd2SGlDWmVJVVM3VEoyajV5a21hUVhfNDltVkg2Vloxa3YzeA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Don't Overlook TD SYNNEX (SNX) International Revenue Trends While Assessing the Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91UEtvWGFvS1o2MGlCQXV6Y1htX1RfT285NHFvTWJXNnI0NjFyV1EyZ0lMeWV2R0JPVXZFRWxVVUxBaWtRYmo4X0g3RkVVSHhSMEJrMXBLSVR0WlRiNEhFWklBRm8wNEMxQ0JlYVBHbkNIbUxxV2YyYkpiX0ZXdw?oc=5",
+        "title": "Morgan Stanley initiates overweight rating on TD Synnex stock By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDA2aEFJU01hZ2hrdWRRcWwxUHY5VGxFZlVDSVQ0MDFSeXUwWEFTdXFlZ1NoTGNnMXZvTGtxS1VGM09EcnY2dEgtamkyWHFTcklYMGptWlRseWFSZm5EYTBNSGh0enFMMUJ4a3RLelhlajZTTDhhTlZrV2tSM0dvWFhEbGJLak5nanRWUHpCMi1PcER3OWlNeUstOThwR1dhY0FNRlJXYTFmZEkwOTRaOFNGc19vT1ltcHhFTQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Synnex: Rating Downgrade On Uncertain Demand Outlook In FY 2025 - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFRHTXRVUWJPNnAteTdqbm1UQU45TlRaRmFsbWFaNnZOSUxid1hiY2hYalhJaUYtOHR6aGRMbTVjTlNFbEVBQWNtc0JjUVV3UjMwY3VKcVNjMWZnNW5zelNBbFYwVGdBNFI3SXRRdXlRRklyb3hTdmY2MlV0VnM0NU1NcUk2cUNIWGgzSGprWEt6ckdvYWhmLVdFSUlDWXNsYTJvZUhTdkt6TzhwZFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TD Synnex (SNX) Receives Positive Coverage Initiation and $145 T - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc0c0TUVLbFkxTjd6VDJ2Nnlnd2VyT1VoY0V0UTFSU0w2dnRjZWNNcXV1d2ZwSWZOVHl6VWx6a2ZCSGVvaG9ISG5KNFZOenQ4NENlSmFuSUdPeEdkaXdnWGhvLWZZaDh5d3l2SUFzNnZQd3dhUXV5Y3A5eGl3V01Sd1pqdkVodmw4UXdNTDRFUk93Rk5OREQtWmtRRTlVZTJEcWs0VFZ1TElEZ25QNjFKcTJua0NiR3FQX0NlX0h0eWpZZWY1UE5wTjk5Y1llOGY1ZVBwdk5La2Y2ZTlPVlNsOE9xT0NETWpaWEF3eg?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "TD SYNNEX Q1 Earnings Miss Estimates, Stock Declines on Weak Guidance - Yahoo Finance",
@@ -641,21 +621,41 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "TD SYNNEX Captures NVIDIA's Top Award Again, Leading AI Revolution with Blackwell GPUs - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3UtOUYxcnJqSjhuNzVZT1F6azBnMWxqUGdMd0VxYWkzSk9oSjdHX2JuczZRbEt4Q0NLcm4wZzJaNnlIQm5xYWdmS0Z4LU13WWN4YVRLaWp4aFRVbndoaHh5WG14cFRCTmJCWVBFaURRTkxZQk1kNW94ZkJGUXZINGtjNDM2UXRkUS1PTkJWXzVpU25nZjNEQ1hwaGxqaURNd2x2akQ3Q21YMUh5TGlobHNuWQ?oc=5",
+        "title": "TD SYNNEX Earnings: Q2 2025 Results Coming June 24 With Early Morning Conference Call - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2RtcU5fSk4tel9sb3hFeUh2N2pHYkppUGQ3TlJCVlNGckhmT1VzbHZsQUs3X1p2dEUxTmpyUFFzeEFFaDFBWURSM2I2anVHSFliN285eHBvOG5hOXNqaFBXRzRmcWszYzFSUkZmQUlFMUUtVVdpR2tydlk1Ri1ZblZnTjZ1M05CUTdKeUtpVGdILUVIUk1jckE4aW1FNEVHTDZQb0J6Nm9KaEhyd1JSdU5aa1EzWmN2Mjc0Z05B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD SYNNEX Insiders Sold US$5.3m Of Shares Suggesting Hesitancy - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWU5HSktrTFUwbDFqc1E4VzltMUVWcVd6c2w5SUoyc2x0ZDctdk5MTURUN1JfU0Y5YUotdlNsM3BiWElZS2cwb0NtX1dVREFIV2wxQUxhajcycFRqWldfUHU5bzlUMk01ZTY4RGgzWmxTbjVVTjZEWTR6RW9jWUd1OHoyM1gtdWtKRlk4NUY0Q01XV1JvMjlXU3ZubWRjdzBBSnJHd002d2FwaE13aVBrSFFGLWxVWXRWV3llSVl30gHDAUFVX3lxTE1LZGZMbUVhTkJCNEt3S3FxVlROdHBaQVMydEU3MkFRUXdXb3NFTnFMbFlaQkUzWTZTV3VueWk5Y1kwbm1oeWJOamFJdV9TZWg3QjgtNVdUVzRMRkl3Z2RkNldjWmRKQkhrQ1ZseDJ6ZTJxWE95QUM1RHRTanpha2gzdlI4OERuMFhYVGFFWG5yenBDRDRQYlQtVDZqR2Zua2FUWWZrTDJHdkhZc2NObGRfRlZDdWl0SzYyRllNWU1TVEN3NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Initiates TD SYNNEX at Overweight With $145 Price Target - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdmk2ODdzRDVFdk5KY2RRSFh6RzYxZ3hSS1FjZW5PMUFtR1FnaGk2SlBrTXdybGdWSkNBSnlBMmlwYXktNkgzSzBkdkgwUFJWV0dNZC05a2E5eGx2TzBmNERoUmsyVnl4bUNvSkVyYk1UVU9JSDZUSnVQQ0l5RnltV1B2RFVtZ1BRSkxpU2FUVGZOYnNObVdMTjMzNzA0Z05xbFVzOGtPcFpmRUY5NVhONFhRUGluME1NT0N5cUFNTWYybGFzdC1DQjdhRW9ibWtPYkVJNjcwQ0ZuZUZJcVc2bFFicVBMajh3bDJLMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Oberon, a Division of Chatsworth Products (CPI), Announces Partn - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONWxRLWtRTDVYWGxnSTlaLUFMeDY0dlJKOTZpck0zTGpQT2VYNnExdkhOWlJjMTg1TFVTVV9qOE8xaUpJWDEtV3ZwNW0zenBfWk1VNE9JWWM5Skt1X1N6OVZQQjhLX2ZFZmdkU2loZllQcjFJTjJYVWJiUVRaLUhtcU1hMFEyaDNqb3kxSnlXLTNoQkt3bEVlWDAxUFBsSnZFTHgxQW1vUkctS1g3em4yNm02Q0c5d0ZZaV9XOVI5MnZlLWQ0YjU0N0Y5U3NncnNp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A Look Back at IT Distribution & Solutions Stocks’ Q1 Earnings: TD SYNNEX (NYSE:SNX) Vs The Rest Of The Pack - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWNoLXNLTkxFZUZuSk83YXBjOHptVGcyNUU3TS1lWlJmMXdRUFpoLXlURW52SGh1eUpIT3NscFhQd2UwWTZDQ1lxZkZPSlItSjZpZUh5QUplMnZ4eElGelg1b2xBUkdReXhzeWJINHhNVkszVjUxU21XWWh2RTVrMjVWUWZuZDFzY3U0LXRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD SYNNEX Revolutionizes Partner Ecosystem with New AI-Driven Communities: 4 Strategic Growth Paths Unveiled - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN21fbDU5d0QwOUltWWxmODB4cHFGRnZPVTJreXdzMjMycVowMEZVM2tLWHdMd3U0eFhSSU4xRExKR2xpWXFGaWNhX0w2eFFxOGlTc0p4Qy1uUWNGMXJPa2sxWXJSb0xkRDIzMmRkckZHNi1fNGY4UFdvTW1ITlpJWVlBVEZzREdXSHJrWFZ0OUlFTHlzdzFLbnVTWWtXUFlOVHVvQU12OE5jcXFEWkpVSQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "TD SYNNEX (SNX) Stock Drops on Weak Earnings Report - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVlhR0xpOUJSdjFJMGpqUjk5eU1jT1NNaUJFTjNwRDhxRF9vbzV2Wk5RWGIwYnREel9zRGFhb3dmTldjT3NESHlPa2M4RDJMWmdxcFJaOENkNFlENl9jSURFY0tPUERKTU4wY0ZscW44UHFyMjVXQnZOWTVhWG41RV9xd1lBUzAyZEV3bEswVWNydw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Hyve Solutions Unveils Game-Changing AI Infrastructure Portfolio as Elite NVIDIA Partner - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODB1OUZGcXZaSGNDZEJhYmpxTk1tYTBydXNSQXQzUDJjU2pJRVBYNnhtTnhlWnVMd2laanJYUlRTa1hKa1pzNVdReFNDR0pUeUE2bFRtU2hfZTNxdWJYVl84VThVLXhkdWFtRkY5YXY4dVZ0YTlURks1UDIwbmZTNWNPRDZZVlpWOWpGYjlESWJaM0x1cjBfV2F3VnhBMzVVUmNxRWVlQ0xKRk5QNWtIUkozTm40Si1JU1F5bzR3?oc=5",
+        "title": "Tech Industry Veteran Kenneth Lamneck Brings 30-Year Experience to TD SYNNEX Board - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcy1MdUtVUDBzTkNzaFZmcDNvOUhZR2dMSERDblBubEN5MklNdlFhZFYySmxFdGY3OWhIRnFJY25JeHZjeFVmUkRTQWp6cUJlUXVEcVI0RDQtNng1SHo0LUdUN1ZTMFpIQXFkU2pjMmpHSWFrcHo0Nk41R0ZuSmJaenNldFRUVFNJMktYNWU1SlZQM28tS3Zxdktn?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

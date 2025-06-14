@@ -2,16 +2,16 @@
   "ticker": "T",
   "name": "AT&T",
   "sector": "Communication Services",
-  "market_cap": 201692725248.0,
+  "market_cap": 203312889856.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.18405,
-    "PB": 1.9427105,
-    "EV_Revenue": 2.897,
+    "PE": 17.322086,
+    "PB": 1.958316,
+    "EV_Revenue": 2.927,
     "ROE": 0.10885,
     "ProfitMargin": 0.096429996,
     "GrossMargin": 0.59897,
-    "DividendYield": 4.0,
+    "DividendYield": 3.93,
     "DebtEquity": 119.246,
     "CurrentRatio": 0.704,
     "QuickRatio": 0.444,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.11724482480765785,
     "ROA": 0.041739997,
     "PEG": null,
-    "EV_EBITDA": 8.047,
+    "EV_EBITDA": 8.13,
     "BuybackYield": null,
-    "PriceToFCF": 14.013423833449776
+    "PriceToFCF": 14.083367470513789
   },
   "technical_indicators": {
-    "RSI_14": 56.36585166760097,
-    "Momentum_10": 2.882849286113647,
-    "MACD": 0.1489334301073732,
-    "BB_Percent": 0.7951341119783396,
+    "RSI_14": 56.74018454136955,
+    "Momentum_10": 1.4784216428913597,
+    "MACD": 0.2448581977713004,
+    "BB_Percent": 0.7969297715654768,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9331646242031456,
+    "ValueScore": 0.8887014516234117,
     "QualityScore": 0.4276717183439164,
-    "SignalScore": 0.5301691656372771
+    "SignalScore": 0.543105662989412
   },
-  "volatility": 0.0161872326700798,
+  "volatility": 0.0161408260810222,
   "beta": 0.604,
-  "return_6m": 0.2004395241126404,
+  "return_6m": 0.2228892104046191,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 23.37
-      },
-      {
-        "date": "2024-12-10",
-        "price": 23.51
-      },
-      {
-        "date": "2024-12-11",
-        "price": 23.48
-      },
-      {
-        "date": "2024-12-12",
-        "price": 23.36
-      },
-      {
-        "date": "2024-12-13",
-        "price": 23.63
-      },
       {
         "date": "2024-12-16",
         "price": 22.84
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 28.08
+      },
+      {
+        "date": "2025-06-09",
+        "price": 27.86
+      },
+      {
+        "date": "2025-06-10",
+        "price": 28.42
+      },
+      {
+        "date": "2025-06-11",
+        "price": 28.34
+      },
+      {
+        "date": "2025-06-12",
+        "price": 28.27
+      },
+      {
+        "date": "2025-06-13",
+        "price": 28.19
       }
     ],
     "current_price_data": {
-      "price": 28.08,
-      "change": 0.3,
-      "percent_change": 1.08
+      "price": 28.19,
+      "change": -0.08,
+      "percent_change": -0.28
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière une situation tendue entre Trump et Musk, impactant le cours de Tesla. Cependant, certains analystes conseillent de ne pas se précipiter pour acheter. D'autre part, Broadcom, en pleine montée en puissance avec des investissements en intelligence artificielle, attire l'attention malgré des chiffres imparfaits. AT&T enregistre une croissance significative, mais les avis divergent quant à l'opportunité d'y investir. En parallèle, des incertitudes planent sur Google et Apple, tandis que Wells Fargo voit son cours progresser suite à la levée de la limite d'actifs par la Fed. La volatilité du marché, notamment en matière de cybersécurité, suscite des interrogations sur les stratégies à adopter.",
-    "sentiment_score": -0.25,
-    "label": "NEUTRAL",
+    "summary": "Dans l'actualité récente, on observe une préoccupation croissante concernant la valorisation des actions par rapport aux obligations, suggérant un possible retournement de marché à venir. Malgré l'attaque d'Israël sur l'Iran, le marché boursier américain reste résilient, selon Charles Payne de Fox Business. De plus, Walmart et Amazon explorent les stablecoins, mais l'action de Visa ne semble pas menacée immédiatement, d'après Barron's. Enfin, bien que certains titres comme NetApp et T. Rowe Price surpassent le marché, d'autres comme Boeing et MP Materials suscitent des avertissements d'achat.",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.3,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Don’t buy Tesla’s stock as Trump and Musk feud — yet. Here’s the price to watch. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYS1tbktNLXAwLXNCU29tcHB1ZUx4Wk01cTl4WXZTVUUtWkxqT0RkRzBUTFJtXzNXQm9zaVNocDQ1dHBSaEwxaWVFT1o5UHdJano4ZWxMTkwxWkhXRTdhN1F0NFRiRmk5ZzVRLVpGUVlzeGpCU1M1VWRRLXAzSmVXWHVkODQ4X3JmaFIwRFJpQnR5T1JFZndPbmN4b2JQQWktRnA2bTdramozdWxpOGU2QmlXOElJS1k?oc=5",
+        "title": "Don't Overlook NetApp (NTAP) International Revenue Trends While Assessing the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3V5QVJuWmJOLS00REhzczU3U0JQdVU0ZmpJYTY3Vjh6aFo3NXJEemtSdnM2Qmh1Z2JkWVNYZEI3VjFJOHg2ak9zU2g3bVNxYXVpQTZheC0ydlg3cWpvaDQ1N3g0bElYM0ZrTFozQjU5WEVEb3FUekVDVmc0YXdwdGRDSjhlTDhYWWVRYzJn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Friday, June 6, 2025: Cramer says don't get out of this cybersecurity stock facing a downgrade - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXN4X01sT3ljR041RHVPQjFjNVRfYTBRZzJMaG03UFJCSGpUdjVXbkhZU192U21wc1ZUZmdKTnFBMEUzWWpzMW9sMXRua3l2NlE0b2pwTjB3bTg3Wmt2dmRmNXFteHNQOEFGUzNjaVJ3NXB1NlViVUxaVW1PZF9oVm9xLWNwcEl1TXhGMEJ3emxNMzFscW9FQkg1NGYxWTFqbW9rZ052UDJFWXY5R3hTaVhyeWNFQzhyNHVoUDVkdkdYTWVKRFFzR1hDMGJkQQ?oc=5",
+        "title": "What If Stocks Don’t Go Up in the Long Run? - A Wealth of Common Sense",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0RWMG9QTUJ1WDk5SS1xSDN0a3ZZMGtWSHZlSzV5YjJZYTRHWVRhWlRoeFRVX1h3bEpxM0VLLVQ1S29BdUsxYXBpZTR3eDRWQk9BWEY0UFU5cjRycUlGeTlxeXJjbHNxNXlKSlJzQXlldmdrZ2k3R2RGSXd2bWxXNnZ4M3J1OWYxdzFv?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadcom, the $1 Trillion Stock You Shouldn’t Ignore, Makes AI Investment Case - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZHlkZXJibWFUWGlZcUo0LS03STZRc1VVMkRhbjBWYk51NEdLdnFjdW1kaEM3YURqQkt0ZktaNHEtRVl0d3lEMnM5ak5mblhtOU0xcWtTU1FhNHJ6UHV3OWduZmVqOVM3NVVlWl8ydC1seVdIb2xra3J3?oc=5",
+        "title": "Stock market hasn't succumbed to Israel's attack on Iran: Charles Payne - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qWlVmRjJJWHdEa1VLaWV4LUh0YUs5MF9EODhLUzdQRW9aZWd6X0VId3FZYUFPMDRMcjZya3RsMXVJWGk0Nzl6RnFjYUUyNEZjTmt3SFZaRDZMNUk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is This Why Google Stock Can't Stop Dropping? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUG9MV3NqNVpNbVNTaV8yVldSNEZvY0FkazQyNkR6VTVKcjI5Z0hkdWd4VXE5bU5LSGNIQ2J2bWg5WUJOdWw0cjl3YjRHZkdQWU5seDBQcjY5NnRiR3F0M3lGQTQ4dU1kQWFKRHB2TnBTTEFpNk5NN0tzRm8yelN6OG5FVkk0ZUktd0NpWC1zYw?oc=5",
+        "title": "Nvidia Stock Falls. What’s Behind the Latest Drop. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80UmF2UktEWVFkeU51S3VpU2FwWWU2VzNKSk84UkxNbm9HUGtiQ2VHbmhEeHFkS3c4T3dPUklXdDAyajZ4OTVYWVhPczRIazJoZ0J6eE5nbzZxNExjQ1BCQ0lkZXFGZVh1cnV0akNWZ0c?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "AT&T Soars 52.2% in a Year: Should You Invest in T Stock Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QMzNOLXAzX1JqNGxoZ3EzWll1NlJqWG5QMG5DQV9jV05YUFJzX2JWVlFKWjl1M0MwcFJjMjRNN0wtWFBSV3dDaEpEbzdoc0cwelpOQUxMZjMyem1BWmc0SWltUlBOSXppSnJCMk9kS0lqMFU?oc=5",
+        "title": "Amid Robotaxi Buzz, Tesla Releases These 'New' Vehicles - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02WFVYNjFCc0oxVG8xenJreVhmY0FjWjZtN1cwei14SFhjX3k4YUdwTUZQMkY4Z2FobE1xd0hKcmM3cjZuQTVveGI3TVV2cWRHZmdFTXlNdWYtNG5TbTJUMVYxM29JSGF0bTNDb3BTLWxiTmFxYk9rbUJJMEVpdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons Why UnitedHealth Stock Isn’t a Fit for My Favorite High-Reward, Low-Risk Options Strategy - MSN",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdFMyZk04VGM1WE9wUERDdjMtLWNlS3R4dTNnU3lKbTF6ZXJSUEN1SUt6VmgtV0VzWmFPbDhxSUE2bVY5VXk3VVNfQmFFelFURm9BVGFPY2Z0UTZQLVRtSkxmVF9oblh6MEI3dS1KQkducENPR2xSLUM1OVh0SWhDSS00MExBR1dFTW1TWXNMM2NwZTdSTXoxRV95dFlxUk40NGZ0bmJVODFpcEJHNzVHeEo0WEVaZUNuX3FIdVdSQnAyYzQ1V1dXc3RMRGF2dE9Ba1VmOVFwTFlrRlVvWV9MUDVEYWY3bmsySUM2ZHdHSU5Sc3FJOFl3OGhkbklaV1E5eDZGWTNLYw?oc=5",
+        "title": "Why You Shouldn’t Be Buying Boeing Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFZzT2xSQkZacVJDRVAyNFR0OHJ5OUw4djU5bkNpdUJiQjRFV2Z6MDFNZHdvYzg4a01kZHRKU3RvaWJ5NmJMUDlDcld3SjgzQzRQcVNDQmVibXhkMnVqSVpaYk9FMmFiMGphYkdHNVJ1QmQ0WTZMU2ZldDlEaTF0UzNsazFxNFktTlpTSDhlNUxyY0pwZlhhRkFNb2FEVzg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadcom’s Numbers Weren’t Perfect, But They Were Exactly What Nvidia’s Stock Needed - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGY3cWRpWGVvb3RfRDBRek9NR1oxaFNBZFY3UVY5OUZOdmo1UmZaY0VaWFpxMm9OS1p1TEVPZVFIazZnR3ZyRkFZWmxEN2ZXNWVZVkZnMHRmcF9NalBQQTY5LTFVNFk1RnZxTG1tWm83a2EtLWNUTTBzdGQ5cXEySnZjd1hfb0EtdnFWZDc5Q21SYUUyN2dQTHd2d2FOamJGbzlIMmhuMFRYbjZRcS00?oc=5",
+        "title": "Where Will AT&T Stock Be in 1 Year? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGxyUV9tb19NTl96NlA3NXB4VExvWHRIYlZsUENEMk5oN1Zib01JSHdZbnNMekVPczJWUnk2WHdUSUd1cEpMdGRBaVdRRThydkRZVXM5Zzl3LW41TGgtQjJlOUFfNHVYaGNEb01laGhyWGQyRFJ0d04xYkJNX1loN2xB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wall Street stocks end down as Tesla slumps 14% on Trump-Musk feud - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnM3U0JhdEcyc1FOTEVUSXd4NU5GbXVIcTZyUzBiVkVDbDlIcnczbG9fYzRGN19mNWktaXpwSzU0OUN4ZjltQkIxU2o5YTVqVmJiU3VSenJtRXBndzBrNzBFc3pJOWlyTlBpQWgySFlsUnpfdFE0endiam1GRktJSkpybldrTDQ2YmljZktPNFdVNjFoNHdlLWpsMUNUOXk3d25NMg?oc=5",
+        "title": "Why You Shouldn’t Be Buying MP Materials Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3dmQzk2OC1kMTFYdld5VExhMFdia3NsN0RfNDlPU1JidDZwTlBvY1FxcVc3MUx3anFVWElaUFpBcmxVdUJPcWI5eElzdnhBdjhPY0tJdkRUcVNXTmVZNkVCRU1tcUJLUmtXTGgyM2pBb2pEbHFoQ3kyb2ZpMmJZWEtwMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ZBAL.T) Stock Market Analysis (ZBAL.T:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkdtdnF1VWtaWTNZS2tYUnpidUVSTmFEV3ByUnE4S3gzOEM3d1NUcndIdTJzT3VKTzZtNEFWU0lvMWVIS3JVMDI1T1RYUC1iSnlRcU9IaTBldjVIaFZra1ZHaEhCTTYzckg3ckw5VmFQY2daS1AwRnRaQ3JKWWRwQ2N1X25Rdm1PbVBhdllB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Stock Falls. AI Investors Shouldn’t Worry. - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcERiT0hqZlFsTjBIWVhKczU4OGFqUXIzNmJXNG9Od2lGS3dNc2ZORnpIOXdQVzJpTUt6d2ZHbXVqTkdzampGNTVvV2xzbmpIQXJDY1NieUI2WVNRNmtTN1BhWXhQakx2T0VoTTZIWFc2TmE4Qy1FeEppRE8xRDhXS3FEdmdEVzdJOUl6QmlpNkJvR3MwNDVEcTVrZktqekZ3UGFuWC1hV282R2V6UXc5ZzU0Vy0wUmc5QkEyZV9tMUNEb2M?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "The Stock Market Just Won't Drop, Says One Investor. He's Asking The Question Everyone's Thinking—'Who Keeps Buying The Dip?' - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMUVkc3NtMzJIY19YM0hSN0ZDS0RSbVE2SXQzT2taUWRuemZMaHdqZzNETGxDbE5BZkZhVkNEY1FIVmxhQVk5ZmFSZEJUaXdhbjJvY2JTaEFKY1F5eGZHRXF0YnlMNGdYWVZWVzlYSldpUVhyMTNBWlNBbnFtYlB4M3haY09OeXdzQm1rOFIxSnp1anVhZGZPNU56cERYX1QtSHlnTk9qbG1OSEZJSlczb0pEVzVXczh1Z3I4SUlWVU9EX1lSZ0dGMkhWdDQ0Rzl1TG5FMVN0SEJoamFPRzNCY2dmajVLS1VOVG9zc3MwS1dqd01pNWFxR0RSTGJqQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is This Why Google Stock Can't Stop Dropping? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdmVoVjA3VW9fS3NPNmd3MnVSeXZYdkZDLXFtQUVlYTVuMWtQTU9Ga0VBMHhaOVdQN29ybnZLdkJVTy1WQmhXZDhhMVBXMzlTbm9hMktZVm9qa1MxSkhOLXZiUmdoZ3J5czdudGVyazJfM2NIZjduczdXcVd3VEhOc3VsdGZPS0RreXI1QVdBalRHTG5DdGFIQ0xidkE3U3VfRlRDWTctaTItTmM3RExvcUxvUjhBZzZBZk4xdFJDUXJ3NE9qZVhtcg?oc=5",
+        "title": "Stocks haven’t been this expensive relative to bonds in almost 25 years. Is a market downturn next? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFlwaVdnNDYxajVUTkxrYjVmMTM4a0E2aDRySmpxdmpvQkdNbG9RV0FySkZTNWZXZXlGUkFHQmlDeTVXMmIzZ2R3UmxGdTRhV3l6X0hQcjlUU3l4dTB5eVFfcDRWMDdEVmFtTkNyeGhXYUhUa2hvQkxJVklVWHU2dGJ6cnBYY3lCOHZaQ1pZeklOMjk2ZHJLc1BWNzdZeGN3bEMzLUluWDFQVXRrTW0zbGl2V184bVV5U28yTzVLejU2RU9kVWhIRGZqdTUxWFFFajg1dGVB?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Reasons Why UnitedHealth Stock Isn’t a Fit for My Favorite High-Reward, Low-Risk Options Strategy - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUJ3eEtGN3ZBYUF4NFMwSFJoWTFqZHU0MWExc2htWUJFUzdMb1RLNlN0WExHdmVwSk5GNTZCcjF3bHJrXzlaeUctQW1WcDJ3TW5NUnJFc05jN0VDdHU0bkU5S25uMldoWVZ6SjFKSEtXYU9idE0zQ1Ywc1QtOHhhWnJNWWNDczViUmNwcmQ2a0J3NFVlSkdHVTg4SW9uN1Y3S2Nadm5qYlJ5eV8yVGlyaFdmaklqMlBHd3BHNGl4bFBxMlFyWWhYNk43YmhwMjh5YnpjdExVam5jdw?oc=5",
+        "title": "Dividends Under $100: Don't Miss This 6.6% High-Yield Stock - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1FMMVVDWWc2NmJhOU9MZDFveTNrMl9zR2FPUVRvbzBFZ0RtSnBETzJoYld0Snc3b2JBZUtXTWRNczVldGhLUkpHdG9pU3NpT042SkNNLVhlV3BfTXc2eFpldlp3YXhUS2I2UzZuZDZ6YnJ4cXA2QndMOVg2TnBSOFI3YWxUcDI3cnZaOHJRM0prNklKNVVkeGJTVVdTZHlD?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "As Lululemon’s stock tumbles, one analyst says ‘sell shares now.’ Others aren’t so sure. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTdzc0xjSGNwdWlZcFhKcGRpTFFpdWRfLWUwNEM2d3E4WGkybWwxWE00aEx0VTNfUjltNVBiWnF6b3BITFhkdXJQVGtoaWF3TjBLc1NzanZKN05ZTERROHdLeENxTVlUWG92VENGbDZ3d1ZQM2N5Y0lKVmFpcXZBV0dGamZMdnBHeTRYd0VrakJjUW55ZXRRcHJKUEdzSFhEQVBMNWhya3ZwZENiRTdzdmRMbk1acE1xbkhqZklkSjd0UQ?oc=5",
+        "title": "Do Options Traders Know Something About Omnicell Stock We Don't? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlZTRjlHREVHWWxCVG1lVUE1emh0b0RKOUc1MXJMQWhmOE92WkE4SWt6OVhldTYwc2tKQ1o5U3lremtSRkpNeVVRNWpaMjBlS0JZWU80Nmp5RS1Cd0I2blhIUGFyU0RYMDlCTjVwT0g1N0JiQkdBcDJzU1prYjFySzBJSkRMRHl1Q3Z4bTVJbi14LVdPeFdiRENQUUtkS1lEYkVGN2VoYXV3Z1N0eGRWampSSmxjanpqNmV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CNBC Daily Open: Headwinds don't seem to bother the U.S. stock market - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOE9IWXBJZWxCdVBmdEprcDRRWTB4LXVaMklVUnA2eDVWOXpXcDZQd2RSWll1aTgtdnJrY1h6OVlkbG10c0hLT2FaZ0c4R2xzUFNUQkl4UC1LeG9ISnV4dWFsMXFZS0t3cFFubHdpTVNmMkpNX1JJSGVyN09DU21aR0RXalRJNVNEalR1WVplVEhiUDRLSWttVDZybFUzUzhNb3U2YdIBqgFBVV95cUxPd3hVUWVlMTR0R1VTV3ZVWmlKSElNYTJ0YmVyOGFUZXJRbHd0NDBaaGJLM09UQmtmdEs3amx3MVpUSUxKbkhDenZYeTVZVUdoUlRDQ3hYX2JmN0ZxVVJod2dBU1dDaUN5Z2VaYzFTRGx2N0lhQlAyeEtpQ0pLc0tJYS1WOFVxZ3VFNWRBTjRHY1I1YkZ4YUFDakZUQ1BTXy1rZFpWZWsxT05oUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart and Amazon Explore Stablecoins. Visa Stock Falls but Analysts Don’t See Immediate Threat. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUU55NEhNVlREOUxMVjlnM0N1T2NMRmg2OV9vTGZsV2MzSDdCWUlLRWtrOEVKeENGZTdnbXBvMmlsMjVZMGhXbXE5cnhvVGM4OHdQMmw5OTBoVGxuMW9mZXRzci1NdVRheWdydlBMYWxac1FxSXEzT1F5S2dBNXBsZk1mSUd6dw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "‘It Would Never Happen.’ Why the Trump Feud Won’t Push Musk Out as Tesla CEO. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82eTkyN0hEd1VaWDd0elpWdlpRb2o4VTBZRTQtSTJfUTQtc2Z6aGU2YmlFQkwyd2hIcHBrbUpWWmJBU3lvdEp3aWNWV1ZmZGhxV0FyOUF3SDcyZFI4aFZjRGVOMFZIcVhVd2lRdWQ1NA?oc=5",
+        "title": "Don't Sleep on This Rebounding Growth Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGRwVGtHR3RVT1RhdzEyVXotcWNjMnlRTE8wNFRlSmJxcFJEQ2FIbDIyU3I2Vm1tb09adXJIdFdMR1NONnJuR1lyMk11VERMSVI2UWoyRXFhdVJuR09QYXE1VUJrXzFyamZuVnRBUks4cjdTMFRfOEk4MDJwam9zZDNqSV9EdlNqU1JKWWNn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "1 Top High-Yielding Warren Buffett Dividend Stock You Shouldn't Hesitate to Buy Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmF4TWt5N2tfNm1ONlN4cFVZay1JeUoyVEpnUi1oaVFiWVNEUHpHNC1sZmFzWkZMdzlKMkl0cHVLU003ckIwUU5rQmd2YWRzUmI2bmdJZDVfYXB4NkpmZGlaYm1JVThTZWF4MHdwbC1zNVI3UC1EZXF0S1BPemVWSkw4U25NcTlKUWxvQmtLUTg1SUVhS0I0?oc=5",
+        "title": "T. Rowe Price (TROW) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ackFCM0E5bFhQZTlqWXUxZEJQeWkyUHA4amxiWWlsVGltRjRlRDZhUk0wZE5UeWVUYVNfTzBGYzVJMUdCMUZaN3B2QjRRZ1JFQ0V0eEJodmNPUlVadi1OU3Z4TnhHSDY4ZTVvc2N0bG5uNGw5UmI2amJZN2U?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AT&T Recommends Shareholders Reject Mini-Tender Offer from TRC Capital - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1hTaThkTmUzM3NBRnRiVWR6blBZNGdWb1NFbW8xZ3d6anNDVlNtV3ZITGNDRzJpd2tLenJFMUtHek9nX2lRRFhVRkdUX0IyOXdmZXFBU0F5VXNuQVJ4N09UM0RsQTVJdHpITDZvaGp3Q2NrRkUyVUJjMFk1OU90czMwZThDOHRkLU04?oc=5",
+        "title": "Don't Miss This Incredible Opportunity: 1 Growth Stock Down 48% to Buy Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGhTc2p3WnIzdUtxc0FmaDBDX295OW9OaTVYbDVveFdzVzdxWEFXdlRjVjJzN1ppdGJlUk5VSVNUcFR1TUdyR0JlNDY2Ny0wRzhqWktXX0JvV0FycXpzaE1TQUxIVkJSZzJPLVd6MF9YY1VuSGFVaUlUNjdLVVJsYmtKMTJtSUljX3dVaW1hWW8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why I Can't Stop Buying This 6.2%-Yielding Monthly Dividend Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXI2aHYxdU5YNWUzS3p4RTJSZTNGV0pkb1ByUnlYdDl3TjhKeW5JRUV2aWRGeEg3N2Y3al8tLTgwaWJWUTlaeDd3S3BLU1JocFJYMWt0ZmtGWlB1cGs5ODZoaDlaRV9wUzZCRFZ6eWhRVFk5Nms2U0xGOGJjT2QwVHExaHpZLTdIT2g3Y3RiWUNSeWI5b3NTRw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Apple’s Outlook Hasn’t Been This Hazy In Years: Should You Still Buy AAPL Stock Before WWDC? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMktaQjFXMmZ1U2dDSThKbjdOYWtTOUdFNkVYVXNKRzM4bzFUcE5td2JSN3lIZXFXazYyaldVWThDYmZXOHpDbHZnaVZVRk9yQ0lJWl83T2JZbVdBNkR1SHhhZTM3RXRhZDBiZWxRcWJIUmkteUJ2TFUtS2kxSkphckNSS1ZQZ3FsX1ZJZTV5eDdMR1hmeVBjMTUyMXlfcU1YVmdOQXpST3NoNVF2aGlkOTZ5SU1vWFhsME9KS3ZKTHdVMjJDeWtubVlIUEN5Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here’s proof that buying stocks at all-time highs puts your money at greater risk - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzNHb0NGdHl3ZDFSdElTRHBhRU5OMUE2RTM2ZkVmVFNoNXVQZFFlZ2JLMnFhd08ybGZEUTNDV2tVOUhTWTZubVV5eVlTblpTS1dWWERaaEdndUhmUmR1d1Q5ZzFlUk1QSW05YWp1ZExrUm8tZldiQ3AyeEd1bnpmUGdOZzlDZzFndWlGcWtaRzlJNHR6SU9qZjV6NGhnSkJwOGJOVERUUlNwX1lwQjc0WVRzX3RKN3NwOWJibmtVWGZiMjJWblV6SA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Do Options Traders Know Something About Baidu Stock We Don't? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2NWNzV0NjlpaU02MHRBWTZCeXZpZmNhd2dXZkdTTTBGeHc3MUZ2eGZuczh3ZnZZdHNxMDg5Uk5IR19vMkhKeFhNV3YyTEl0SEhxenBVeXVKVTJPeUsxbmhLRUsyMDhSaG13WWpST2I4T0ZzNEpXTnQ4VENnNGlVR2E0QWZTdmlkU2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Top High-Yielding Warren Buffett Dividend Stock You Shouldn't Hesitate to Buy Right Now - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQkpYcHZ2YTNHZDdlNm5IZ1hwVVNaMkdPSGNzTDh0Tm5WdExiTUFLZDQ2Z3BDYlM1b04tN1hQclBlM0cyUDU1SnNuNW1uNTBjQWxmN01DQ2wyUWlMVmJnaXR0N3BfTmEzMVN5N1BrQmdIWUVVMk41OUk5Q0NWSTlTSTVSdHBkd0dFZFJZMjFDOXU4R3JnekZCSVVZZmtRU3pIdGhtNE93M3lsZ1IwT1JjMXE0WmJjUEZLcDA3LTVhNkF4YWdnbU94R3J0RjgzRWxqdGZyYmNINXVwN0w3aTBOMG5oYmFiYi03bTNuclZyQzhXWUNCVkNuaDB2WUk5aFNVVHRISGo3anJGUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wells Fargo Stock Rises as Fed Removes $1.95T Asset Cap After 7 Years - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00QkVPWjBZQU1hNzRGVlVYaGRXQmxxWlRrYTB3UlhtejZVN01NMGVNQUNlVXRUeFNZdGFYMnFrblRacEEzRDcxakQwUDVXSWFzcEViazVnTVU3Uk9iVVlPbVd5M1I5bUlXT0xkRXhveW1FM0xJRUJzdFFzUnJUUQ?oc=5",
+        "title": "Willis Investment Counsel Decreases Stock Holdings in AT&T Inc. (NYSE:T) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkN1enVfU3Y5WHRwWG44RVc4c3hIaC1ubXFaRDczQk83MlEyTDJxNW04aUR1LXRuSlJ5cGZoQm9weEF6Qmxpa2tDZWRIWUZqajFxbkw0QkNVa205bzF5YVcxcHpWOFAwMi1GVVJsaVJ3RUQ0cmFxVkxfQ3l5Y0J5bkZ2SnBqcy1WT21JVHhYaGV6TEowcWJWMTBIYkxVdjV5MGVZMWV2aURfNmRkSGcyRjh5aUd5aVJUZW9vU2dRYlhsX0tNVEI4?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

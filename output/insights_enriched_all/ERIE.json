@@ -2,16 +2,16 @@
   "ticker": "ERIE",
   "name": "Erie Indemnity",
   "sector": "Financials",
-  "market_cap": 19467528192.0,
+  "market_cap": 18614478848.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 31.658161,
-    "PB": 9.416734,
-    "EV_Revenue": 4.85,
+    "PE": 30.245209,
+    "PB": 9.004101,
+    "EV_Revenue": 4.735,
     "ROE": 0.3238,
     "ProfitMargin": 0.15732999,
     "GrossMargin": 0.1765,
-    "DividendYield": 1.49,
+    "DividendYield": 1.52,
     "DebtEquity": 0.615,
     "CurrentRatio": 1.382,
     "QuickRatio": 1.254,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.09286404365586025,
     "ROA": 0.16288,
     "PEG": null,
-    "EV_EBITDA": 24.314,
+    "EV_EBITDA": 23.739,
     "BuybackYield": null,
-    "PriceToFCF": 53.883179003450564
+    "PriceToFCF": 51.45852927445286
   },
   "technical_indicators": {
-    "RSI_14": 55.46411961218975,
-    "Momentum_10": 7.05642409177044,
-    "MACD": -3.254339244366804,
-    "BB_Percent": 0.9135140306176605,
+    "RSI_14": 44.29950177197132,
+    "Momentum_10": -0.5690241525628602,
+    "MACD": -3.2232118365728297,
+    "BB_Percent": 0.3861881549841104,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.927376529306746,
+    "ValueScore": 0.8780587073806334,
     "QualityScore": 0.4022849592924443,
-    "SignalScore": 0.4983348619032542
+    "SignalScore": 0.6134759071967579
   },
-  "volatility": 0.0234188958334876,
+  "volatility": 0.0233317287238462,
   "beta": 0.357,
-  "return_6m": -0.0898860478138735,
+  "return_6m": -0.1481935899063929,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": null,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 409.71
-      },
-      {
-        "date": "2024-12-10",
-        "price": 401.65
-      },
-      {
-        "date": "2024-12-11",
-        "price": 407.38
-      },
-      {
-        "date": "2024-12-12",
-        "price": 410.77
-      },
-      {
-        "date": "2024-12-13",
-        "price": 420.78
-      },
       {
         "date": "2024-12-16",
         "price": 423.24
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 371.69
+      },
+      {
+        "date": "2025-06-09",
+        "price": 361.69
+      },
+      {
+        "date": "2025-06-10",
+        "price": 360.29
+      },
+      {
+        "date": "2025-06-11",
+        "price": 356.75
+      },
+      {
+        "date": "2025-06-12",
+        "price": 358.76
+      },
+      {
+        "date": "2025-06-13",
+        "price": 356.76
       }
     ],
     "current_price_data": {
-      "price": 371.69,
-      "change": 4.37,
-      "percent_change": 1.19
+      "price": 356.76,
+      "change": -2.0,
+      "percent_change": -0.56
     }
   },
   "news_sentiment": {
-    "summary": "Le cours de l'action de Lululemon a chuté de manière historique en raison des tarifs qui ont impacté ses bénéfices. Malgré cela, Erie Indemnity a atteint son plus haut prix depuis novembre, avec des résultats trimestriels attendus prochainement. Les analystes divergent quant à la performance de l'action d'Erie Indemnity, qui a atteint un creux de 52 semaines. La société a récemment publié ses résultats du premier trimestre 2025 qui ont déçu les attentes. Malgré tout, Erie Indemnity demeure l'un des titres à la croissance la plus rapide en Amérique, bien que son cours ait sous-performé par rapport à ses concurrents.",
+    "summary": "Suite à l'analyse des actualités récentes concernant Erie Indemnity, plusieurs tendances clés se dégagent. La société a récemment fait face à un incident de sécurité informatique, impactant potentiellement ses opérations. Malgré cela, le cours de l'action a atteint son plus haut depuis novembre, bien que récemment il ait également touché un plus bas sur 52 semaines. Les résultats du premier trimestre 2025 ont été publiés, et Erie Indemnity est sujette à l'analyse de divers acteurs, notamment des analystes et des vendeurs à découvert. Ces événements combinés peuvent influencer le sentiment du marché à l'égard de l'entreprise et de son titre.",
     "sentiment_score": -0.15,
     "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.2,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Lululemon stock plunges in historic rout as tariffs eat away at its profit - Erie News Now",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWhKbVV4YVEwOEJXU0tQcFdBdUJfQjZsNzZBTnktSkpfSWJaOUc0YjVCal9ZZGhfODZ2cHByTU0zZW5EVFRXN1VOLTZCZDNBM1lrVlBoY01ZaFRPSHVfU2FlQlA1cGRqUWhpM0YyeHhJOW9kb3ZWUFQzRTRKSzFiS0Y2cWRUeVBtLWVTSGlvTFZEa0lHamw0dG5pS2dadTBNTE10aGtLbFpWRnM0OTZzeWQtS01ORFNW?oc=5",
-        "label": "NEGATIVE"
+        "title": "At Erie Insurance, it's hardly business as usual. The latest on their network outage - GoErie.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXZZVk9HYTE4eVZteU04OWh5MGhQNl9DZXNOVktKZWtwZUI4ZFhZRWZvWHdzRnhMYTg1aXcxSTByNnZfNS1MWm02S2lLbjVWUlV1bDlrSGdHbGwyOVE3UnNLdkw5UG8ya05uQzJ4NzBWNGdPdlNQMFVYdjhvQWlsYmZRbDlreDVJU2pFbFFEeGJWRFpWalllMzFJVTJJMzJDNnZFT2p0cE44dUJLeE93ZHpUQTFZbnUySGNwU3ZsVzZZS3M?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Erie Indemnity targeted by short seller. What other analysts say about stock - Erie Times-News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTVWVzZHZDZVU3RYQ3NPd3ExUlhZY2hCOVRJZjl4TDRPNGhXd2R1WmFoYmJIZDBnZnNsVW5US3dYNlpYTWdZQ295ODJYeE44SGlWU1MxTTVrMUIxSVlQTXNOSWRXSU5LdndsaXItNVdXYnVRek9weFp1R21WMHZIUktrRkc4T01QUGhfUTkyRk1id3dqQnZ3TlRYM3dRcGk2TkRCcg?oc=5",
-        "label": "NEUTRAL"
+        "title": "Erie Indemnity Faces Information Security Incident - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTVSd0hrdERnN3ZlbGJfMmZ6V2hWLUtTVVZnMG1mZWVMN1daSW9RbG94QV9fS3BXVlg5eDBqNU5ySHJHU0FSSHhQdUhLWHpjdjlIaV9ZMEl4bERZbzZNNWxIMWFzcVlGZGYxYVRWTUJFWXJqaGdraW1BNHE0NHliVjliMlBycjYyZDFSeDc2aFliVXRiTGFVdHFNbkVJbFVuMHJhag?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Erie Indemnity Stock At Highest Price Since November; Earnings Due Thursday - Investor's Business Daily",
@@ -576,13 +576,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Erie Indemnity Co. Cl A stock underperforms Friday when compared to competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2ZUMFI4dFVYWG9SQ0JfT3g3RmQ2Y2xOUmJlT1E1OHpqbjdzUU5HLUtxQi14Qjc3WXp6NkRKb05nV052NnlQVFNWbXlWbGpzM2FQdWhhVDRFbzZ5S1phNThNOVhJOWxvZ3Z6SEowT29BMnFvS0xHSDgza285VF9KVXJKVmIydTNCSHlXaXB1N3hVYU9tSHZRQmUxZEJUMXZDNzFidUpwZk9UNGpGN0dUblI5VDVXZXRtOV9wYmtGVjlaUDhiTndzRkNqbVRPZEktRW5MTA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(ERIE) Proactive Strategies - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjBEUVdPYlE2TnZwb1M2X1JaYUhmWTZFN1V3TXNVU3RoUmQtUGQ4U25oWmZHZEp6UnNxaWJrY2NMU3FNTWF5NUtsZzNLMV84cUpiZGZ0RHM4aFpKM2dWNUFtQmJYeTJoRmlkdWNmQnFfOTdQWGUzcmNaRnRGSG9STDdJN295b0V3THBRNlFHZGFiWVhhSWZEandRNXRzekRWUEE?oc=5",
+        "title": "Erie Indemnity Co - On June 7, Identifies Information Security Event - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZFptRVdRWTNEc0tydU1OeGpHTXAzTHF4djhiUjR2QWlrZGJwdmw3VHBDRGRfUFpPRnNYZlgzOVpzQlJpRjVmQkFoRUZ4YV9lMFhucWVRaUFsX2RxU1NQWDNVbFNOaG16VkFqR0N3X3JtRml1eVhYZVZnSzhJUnJIV0NkM1ptOWRTd24tdmZEMVVfLWZyM1JNOEt3TFpGbnRmYXV4VGVYV0kwVWpNT2FyZVQ0TjRoM2JvUXZ3OVZfUHhqSDY5V2xhV2tCeE1ZODgtQVZyY0pHUEI4UmJsVk9lS0NSSGVfdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,13 +586,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Erie Indemnity (ERIE) Q1 Earnings Lag Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGx1NmVwZUxPY3oyWmZfN0tLeGFaTEllQWd5X3lqQUlBYnIwdmdkNjUwa3ZLLVJUakRXNlBYQkVvRVBOUGZueEg0Nl9zNlNBVG1RbjlTMFhzUlQtdUZzdDBTSzR6VEJPQ29kejh4aE9qYUJEUmxzcVpKdEYyYU5YOUp5OA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Erie Indemnity Sets Date for Q1 2025 Financial Results: Key Details for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXFGWlpWa1ZKNFoyVU0wVU4xMVVJZElXSXJsVHZfREdmUVUtTVFXWHRjZDN3UEFTT0RvWVp3MXhxQXpmZWFkbFJSUHQ0bkdkZWdoVEFJbEk3dDhlMFFCZ295d1FWUTJmQ0RHTTJvQnZ4bFdoRXB1djc5Y250ZnFlVnN5NkxHVC1YOWt2ZlE5M19PQzNwcFlKTFFaU2FXbnRaOWV4WnUzZGUxOUdBN0k2dFhZTDVKU3ZqQ0FzMQ?oc=5",
+        "title": "Erie Indemnity Reports First Quarter 2025 Results - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnlQSll6am9OMTg1MHd6LVd5ZmkybTFuaHpCSnE2Qnp2T3JOaHFILXdKUGtpUi11QTc5SWtYTWJMbUQ1dTI5M1lQUUFfYUlYS2hFbkp5SUYtZVhnUGFkVl90SEd2cXA0LXlXSnBjNGJTZ3VDS01NaE5Ua3JaSW5PVURlODctTHg5Umc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,8 +596,23 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Erie Indemnity Co. Cl A stock underperforms Friday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2ZUMFI4dFVYWG9SQ0JfT3g3RmQ2Y2xOUmJlT1E1OHpqbjdzUU5HLUtxQi14Qjc3WXp6NkRKb05nV052NnlQVFNWbXlWbGpzM2FQdWhhVDRFbzZ5S1phNThNOVhJOWxvZ3Z6SEowT29BMnFvS0xHSDgza285VF9KVXJKVmIydTNCSHlXaXB1N3hVYU9tSHZRQmUxZEJUMXZDNzFidUpwZk9UNGpGN0dUblI5VDVXZXRtOV9wYmtGVjlaUDhiTndzRkNqbVRPZEktRW5MTA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Erie Indemnity Sets Date for Q1 2025 Financial Results: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXFGWlpWa1ZKNFoyVU0wVU4xMVVJZElXSXJsVHZfREdmUVUtTVFXWHRjZDN3UEFTT0RvWVp3MXhxQXpmZWFkbFJSUHQ0bkdkZWdoVEFJbEk3dDhlMFFCZ295d1FWUTJmQ0RHTTJvQnZ4bFdoRXB1djc5Y250ZnFlVnN5NkxHVC1YOWt2ZlE5M19PQzNwcFlKTFFaU2FXbnRaOWV4WnUzZGUxOUdBN0k2dFhZTDVKU3ZqQ0FzMQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Erie Insurance (Nasdaq: ERIE) rings the Nasdaq Stock Market Opening Bell Monday morning - TalkErie.com",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUs3V0UzM1FReEtfSjY3RlpvRXFIYUxNajZ6QWFkVmtrZzJYS2FtcXFrcU5TQ0ZPU0JSVnV4dXB3Q1ZOc21KNGE4RVZQYUdneTdxbWxnYXdOSGU3ZnFaQWxZWllEMFA0dlJVWk5icUd6ZlFFV0xaS1N1UWhZd25SdWpvREctN1RtTU9LZDNTblg5dnJlV1YzNFp5UFZWSnRWT0dBUGpKZ1ZlMHVtYzB5dEhHTFdDSjJ0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Erie Indemnity targeted by short seller. What other analysts say about stock - GoErie.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTVWVzZHZDZVU3RYQ3NPd3ExUlhZY2hCOVRJZjl4TDRPNGhXd2R1WmFoYmJIZDBnZnNsVW5US3dYNlpYTWdZQ295ODJYeE44SGlWU1MxTTVrMUIxSVlQTXNOSWRXSU5LdndsaXItNVdXYnVRek9weFp1R21WMHZIUktrRkc4T01QUGhfUTkyRk1id3dqQnZ3TlRYM3dRcGk2TkRCcg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,13 +621,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Erie Insurance CEO Tim NeCastro rings Nasdaq's opening bell - Erie Times-News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ21jdExGZXJRaHJmQUxEXzQ2eGJfODZRVE4yODZ1LTFTV0hXYVpHRkluZFQ2c3VweW5DNjEtbDk0VXZHRUszTm5ORG1jOHRqN3pYQlFBbHQ0TTg2bnM3emtvZ1hvd001Ui13TWZaNkUtZzJ2VTNaanRIYWpwYjZPYXNZVTRjdDIwTEZ5UThTVEZNd0NGUFRUTi1BRUpCRThpdkVpRzM5VEs2cWxQQ1VXRXRxcjN2aWk1dDh1MnJiLWVIWXM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Erie Indemnity Reports First Quarter 2025 Results - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnlQSll6am9OMTg1MHd6LVd5ZmkybTFuaHpCSnE2Qnp2T3JOaHFILXdKUGtpUi11QTc5SWtYTWJMbUQ1dTI5M1lQUUFfYUlYS2hFbkp5SUYtZVhnUGFkVl90SEd2cXA0LXlXSnBjNGJTZ3VDS01NaE5Ua3JaSW5PVURlODctTHg5Umc?oc=5",
+        "title": "Statement: Erie Insurance Network Outage (June 10 - 10 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmlRM25IbVJ2cHpNVWNueDZ5QWo0eUliZ3k5YWpPb3g3bEtUa3o4clBFWkdwZnNQY19SdEszQ1NkRFpoaHh1WlRZVV9velJUSndNd1ZRZG1PUkx1cDlqbUtFcEtqeFY2U2tyZzZzOGZHZEpiZTJKU2FjVlJIMjVKTjBESDYxWUxHTTVTYmQtTVh6cjZxZkNpYTdQZjdsOFV3X2V3bVlpTEEtdlpBc3VFZ3drYTNZRTNqamFPU0NDLUJNWHNRYzdyTUswODBkWkFnQXBJLXNmN0J0elpk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,18 +631,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Erie Indemnity Co. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0QyS2ItVkV4a1E5cWxraTQtNzBlZnlIaWk3UDN2ZTU3QjhCNXVxazF2a1A4MTlRVEMzWm1tdjZ2ZkoteTBOUl9oaGhSWHRkR0VaVHNsSk8ybVRrcGRFV0RWWjdLRG1reDlidGVnTzlMSGdJdHRSQkdGQktzcmItcXRXVWk2N3FVZGI3WlFfT1BxR2ZHTFRSNzVEcmkyeHN5VG9kZjZMYkxqQ3M3NnpHNk0yLW9KOU1MSl80ZlpGLWhsV2lzQ3FKNi11YmxJWnk0MGFETQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Erie's largest employer is also one of America's fastest-growing stocks - Erie Times-News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTBEM2U4R1RnRGRhcHNSUi1rUmZYN2xqNTR6NmJPdC0zdjdacFhHZDNXYnNUdmV3ODU1WVYzVFVaMkdFOGN6NnBnUE1TMERzLWVhM2ZBcHUzZXNPbEhPYXNTS0pzQURUYXRYVFVpZmcwdnVwNDRkTEs2d29zcno5MDE0SU5lMXRMbC1lWjFUVVl1bEtBaURBWE1hR2JzM0hSNnExN0ZzNU5KTEZXSDhFbmJuZUZ0MXFVLVVVWTRKdUc?oc=5",
-        "label": "POSITIVE"
+        "title": "Erie Insurance CEO Tim NeCastro rings Nasdaq's opening bell - GoErie.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ21jdExGZXJRaHJmQUxEXzQ2eGJfODZRVE4yODZ1LTFTV0hXYVpHRkluZFQ2c3VweW5DNjEtbDk0VXZHRUszTm5ORG1jOHRqN3pYQlFBbHQ0TTg2bnM3emtvZ1hvd001Ui13TWZaNkUtZzJ2VTNaanRIYWpwYjZPYXNZVTRjdDIwTEZ5UThTVEZNd0NGUFRUTi1BRUpCRThpdkVpRzM5VEs2cWxQQ1VXRXRxcjN2aWk1dDh1MnJiLWVIWXM?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Is Erie Indemnity Stock Outperforming the Dow? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4eEJJaUEyVHlaV1Q5NW1oeHpPazZJbmc1bXJqQnRHcDl3TUx1cEIzVFl6a0pDcnNYZVA2MFdUcU9aS2hUSldGdE9zNmxQX2JveWdHRmZaQjNQeUVURkFmUTIwYW1iOHJoNWMwdlgtMVphYTRNQXh1SWpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Erie's largest employer is also one of America's fastest-growing stocks - GoErie.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTBEM2U4R1RnRGRhcHNSUi1rUmZYN2xqNTR6NmJPdC0zdjdacFhHZDNXYnNUdmV3ODU1WVYzVFVaMkdFOGN6NnBnUE1TMERzLWVhM2ZBcHUzZXNPbEhPYXNTS0pzQURUYXRYVFVpZmcwdnVwNDRkTEs2d29zcno5MDE0SU5lMXRMbC1lWjFUVVl1bEtBaURBWE1hR2JzM0hSNnExN0ZzNU5KTEZXSDhFbmJuZUZ0MXFVLVVVWTRKdUc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

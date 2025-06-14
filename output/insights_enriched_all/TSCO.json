@@ -2,16 +2,16 @@
   "ticker": "TSCO",
   "name": "Tractor Supply",
   "sector": "Consumer Discretionary",
-  "market_cap": 26955520000.0,
+  "market_cap": 27308105728.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.293533,
-    "PB": 12.064547,
-    "EV_Revenue": 2.194,
+    "PE": 25.624378,
+    "PB": 12.222354,
+    "EV_Revenue": 2.204,
     "ROE": 0.49624002,
     "ProfitMargin": 0.07238,
     "GrossMargin": 0.36316,
-    "DividendYield": 1.79,
+    "DividendYield": 1.78,
     "DebtEquity": 257.388,
     "CurrentRatio": 1.406,
     "QuickRatio": 0.089,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.033365594628846494,
     "ROA": 0.091120005,
     "PEG": null,
-    "EV_EBITDA": 17.119,
+    "EV_EBITDA": 17.2,
     "BuybackYield": null,
-    "PriceToFCF": 54.051593330223504
+    "PriceToFCF": 54.763497201345736
   },
   "technical_indicators": {
-    "RSI_14": 52.69848936768682,
-    "Momentum_10": 2.865426009484117,
-    "MACD": -0.3289717610593499,
-    "BB_Percent": 0.5672225680147996,
+    "RSI_14": 54.819362664441066,
+    "Momentum_10": 6.3429743761117985,
+    "MACD": 0.1351787705459131,
+    "BB_Percent": 0.7027812861741147,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.927334187875503,
+    "ValueScore": 0.8846732447308209,
     "QualityScore": 0.3784775948831481,
-    "SignalScore": 0.5494126317212291
+    "SignalScore": 0.526114951780108
   },
-  "volatility": 0.0205664971248008,
+  "volatility": 0.0206583373012862,
   "beta": 0.734,
-  "return_6m": -0.0922599696852423,
+  "return_6m": -0.0900192190317209,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 28,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 56.75
-      },
-      {
-        "date": "2024-12-10",
-        "price": 56.94
-      },
-      {
-        "date": "2024-12-11",
-        "price": 57.1
-      },
-      {
-        "date": "2024-12-12",
-        "price": 57.05
-      },
-      {
-        "date": "2024-12-13",
-        "price": 57.09
-      },
       {
         "date": "2024-12-16",
         "price": 55.3
@@ -537,32 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 50.94
+      },
+      {
+        "date": "2025-06-09",
+        "price": 50.51
+      },
+      {
+        "date": "2025-06-10",
+        "price": 51.48
+      },
+      {
+        "date": "2025-06-11",
+        "price": 51.31
+      },
+      {
+        "date": "2025-06-12",
+        "price": 51.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 51.54
       }
     ],
     "current_price_data": {
-      "price": 50.94,
-      "change": -0.51,
-      "percent_change": -0.99
+      "price": 51.54,
+      "change": -0.2,
+      "percent_change": -0.39
     }
   },
   "news_sentiment": {
-    "summary": "Tractor Supply (TSCO) a récemment connu une série d'actualités divergentes. D'une part, l'entreprise a élargi sa gamme de produits en partenariat avec Lincoln Electric, ce qui a contribué à une solide performance boursière. D'autre part, des investisseurs majeurs ont réduit leurs positions, et le titre a connu des baisses significatives. Malgré le versement d'un dividende trimestriel, les interrogations persistent sur la valeur de l'action et la stratégie à adopter face aux récentes baisses. Les mouvements importants d'investisseurs institutionnels et la diversité des opinions sur la valeur du titre soulignent une certaine incertitude entourant Tractor Supply, nécessitant une analyse approfondie avant toute décision d'investissement.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
+    "summary": "Tractor Supply Company (NASDAQ: TSCO) a récemment attiré l'attention des investisseurs avec des mouvements significatifs sur le marché. Alors que certains investisseurs réduisent leurs positions, d'autres achètent davantage d'actions, indiquant des avis divergents. Malgré une baisse de 11% en 3 mois, la performance historique de l'action a été solide, avec un gain de 74% sur trois ans. Les analystes attribuent à TSCO un objectif de prix moyen de 58,02 $, soulignant une confiance modérée dans la valorisation future de l'entreprise. Les investisseurs doivent donc prêter attention à ces signaux mixtes et à la dynamique du secteur de la vente au détail pour prendre des décisions éclairées.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Rhumbline Advisers Acquires 59,400 Shares of Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM21RMzhUTFRMa2tESzhQWWZ1VGloSEV5YzU3NWIyZjBSMlh4VmEwRFZoUnV5UXUxWndfc0sxeUJ4RDM1Smo2QjVvVVRxYV9yNHdDaEgtU1cyMlFzSVZmekdOUjdwWXkwdGpMclJ3cl9xd1Q5MVdGRGlOUUpRRW5FcUxHNEVqQ3o0MmNOWF9UZkFFRERyejI3SWJkS2luUE5lZktxREdUQVVVTVlVR1ZweXY2VVk1TTBUMzhOY21tYw?oc=5",
+        "title": "Union Bancaire Privee UBP SA Sells 25,930 Shares of Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaE9JcUN6ZnBnVE5GNVdWRHoyNGt2R3lfSFV1Wll5dTlUTnNPV05RUV9WYWhJNU5UczVjWVptajBHakx2b2QyTnZ6Sks3T0o2cU1ydndzTjI2dGR6Z1NIT3Z4Nzg5QTZLNU16Q1R1eFBiRVBKdlpiOVJlT3o1OHhMQ1Y5UC16WWthRUsxakE1d0p2MDJqRm5ZX2paR0lEendTTlJTZlZfS1UwZnBGVmFjeExUZGJIQ1Y3NWtaclhVbTVSNjhLd05ibDNFZGY0a0d1U0xV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Major Welding News: Lincoln Electric Partners With Tractor Supply for Nationwide Product Launch - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkpoUVlhUy1pckk5NklNR3VHdFVQRnlKYm1iVTFkMTdiTUh3MTVMd2V5XzIwQkk3cUxaTUdscWdXRjFTZ1VocHozZFJTM3lidG1aODFmU0gzTkdSekxwcEc3dUtCaGVSQUs4azhCY1hrby1BNHkzQllJbTk2RFNiOFh4OEs3UlZRT3ZIbTVFQjdHTHNhSDRXRmFtUE8yQmlYTzRnenZKRC1TaWhqUGlfczJjbzRMX1AwWGpF?oc=5",
+        "title": "How Is Tractor Supply Company’s Stock Performance Compared To Other Retail Stocks? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3NPRTlpYXhGYUNxejFxNF9XdEFfTWNWeU5BQ0FVNVVLbnVfVkhfUmFRNjdDNGgzSEtmU3E5TkNmVS1STjZ1MERBelZseFZMbC1abm1CcVJkNmprNXUzcE8tNTlFWHNQYjhWYkt2SzFrNktuTndabEdKSVRiRy01aWxKd3piUUo3OVd5MDM0OERJeXFodE1leERyLXI4OERqcUVxZHNZamVVMFh5NDNyV0kzdU1kT3NMTERXQnQ3RF96Ulk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Tesco (LON:TSCO) three years ago are up 74% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGl4d0l1MnhVMzJMVXpjZnJhTE0tS081SWZXZjFXQkQ1SnZZeDhaakZfNFZjVE01TzQwM1NMaGRVQlVRTWxwTl9VS0xxb2c0ZHQ5V004eWNfRXI5LVF1OF9fczZLQ0Fnb05RVWt4cEJVSkpQU3dUc3lDRV8tdDBvWA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tractor Supply: A Focus On Pets (NASDAQ:TSCO) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85S3NoTHM1UktVVmw1WjBiREhVdDZiNS1yOG5FNThqRFlZTnh4SWtYU1RwTWZDUXlUR3IybU5vSFpTQWhsU1NfbDlycDQ1RjNnYmJiVUxwd0dWVi1HbmlqTUxITmFPcm5sYnJaV2FrWmtaYlVkV3FiaFlRQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Tractor Supply Company’s Stock Performance Compared to Other Retail Stocks? - inkl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1PVU5jZ3JoZ2ZwRzJTbjByZUxBdmR6MUlhZHhXTl9oeTlSem5USEhOcWdvakVGVGZrNDBNXy1MeHgyMjVWcDg4T1MtOUJ5ZzdQd3lTR2xRZjBVbGZoWVRWYl90bXhNMWV6UVZJcHl2V2x3TGt0ekVDdldLUHA5WngzMGJjZnFFSEpkWm11YWxRVTFsUGVvcTFYandxVzhSenlQNEhkSjVxNXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tractor Supply: A Strong Performer in a Challenging Retail Landscape - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkY3OFM3T1RVMW1pZ1RKS2U1THloQmRkYTdFbWdjZWlTcUVHcEhNZDdOTEEtZGE4dG9IVWRxNkpLNEVjTUttWF85MEFqNGRoYUpNb2NBM0tlTUlTOE1jVjJJSmw0THZjakhXYm1qMllyRE03LTVlVGtNUUppZVg0UTNOeEF1S2s2Qnp2QUVWWjdVblhLQV9lYQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How to Take Advantage of moves in (TSCO) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGFFY3QzaGZCMktQRVB0MUxFRldZcEVGTG1HSlFwMUYwMGdxRWJSR2ZJXzEyU3BveUVBTWppd3dnYmRNNmRyd2wyeVVVOWxteklQeE1FQlh3aHpzZkFhRVYycTNZa1ZhVVlaM19vVkpMWmR4Sm1wa2pmX0kwUFkzWUhJVmN6cjdUWnRsaGQ2VS1tdnNuQXRXb0ZlRExIeU4ydlRub3NOUllwNDFzTExuZVpOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bright Rock Capital Management LLC Lowers Position in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzlXckNFLXBJNlJic0xTLURhQmtBY1hLbjBDUm01Y3Vlcmcyd3FFSUV5YW04ZExXc2FLYVlGalBJZmswaU54Ri1oZTRwRVJrVTRMSXdWUG56U0NHRzRRcm5EYWNaYUtUcGNQR3h3ME9VT2xCUm1sdEtERkYtSjNnR3BLSDZTSjkwZVhRbXh4bHNZTnduRWVvbkxLckNFN1FsNElrdVFsVUtGWlBGWnJ6S2JHMDlDeUNjRXlGVXlmdHIzMGN0SmtRWUgzRmFKLXBoNUNaa1VzWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Should Investors Approach TSCO Stock After an 11% Dip in 3 Months? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG11MHpvVWx5cndvUWs3bVlqTTRwTGZDOTdhT2JTUGN1RlZqQlpRd1dzdzhKTF9UcWxMM1ZZTXdtbmM1am1iOWlocFd4T2ZIdTBoQkltdUNON2I2UnRsU29rSWV6aUVIOVRlNml2eVlBaTBsRGtnVTVxdUlMVFljTXNUMlQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Excellent Dividend Stock to Buy Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenFNLVpNMHk5ZWlPdjBHdW5Ld25aODRVUC05LWNEVzV0Vmw1NDJ2YU1WRGtlMkc4bVJWaThOdFAyWnY5NE1qY3M3V2ljN1dFZGtNNzdNaGxfa2lHN3VpTUNTSTM1eThCZ3dwX1lfZXN1Und1YXdQSjQ5MjhBUlVlenFvYXpqZUN2NE5pcFdzcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RFG Advisory LLC Buys Shares of 11,904 Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVJJZUdVQ1gyTmo3eGxBVjJfX1I4TTdiYW5YTmVxLVQ4alZoY0RSZTNmekhnSDI0REtPYWd6WE1CcFdKakhOd0U0T1Fpb0xFaElUdlA0OVJRSHN2MFo4R3pwbDFKRU94ZzRiYmN0aEVLdkF3VlFTM2RQRVo1UEZ6M1ZudXJhVWo2Z05tNWhWc1lITjFWQkd2eldwcXI4Y1dUWmJKZ2FCUjJraEE3Z0huMExERF9nMy1OVnJ0dXNNM3A5VFpSaHdWQg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,74 +616,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesco PLC Advances Share Buyback Program with Latest Purchase - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTRPdUlHNWU3b3ZYRnk1cWtWeVNIa2tKLUd6T3ZrRXExS1R4akdGUzhLakRpSGdLY1pjWnB2RlppdVNobDVWNGxONWoxSXRNajV1bmJLN0x4ci02OXVqQXVmcjFtc3BxZlNlMVdrQm5GYW9kVHlnUEJBeVdGYjRTZTJCVWJiLUQwOG9aTHZaTWZRSGVZa05VWWFfYW9sVUZURm5uczYxc2J4Y2VmSEJSNXZZMUlNbEE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Top Stock Movers Now: Dollar Tree, Brown-Forman, Five Below, and More - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGo4OWZNbXdmY3JBRWZJeDZVSlNHWkFiR2xFY1cxWDJmWWpyQUo3aWlmbTZnQU9tTUxIakZuRVpwbW9iZFhzNmwwX0Z3TlE3SktsR3hZc3ZXQUU1NDljbE9HaDNvR2ZaNUF3OUMzYWJyUkJHYTVXaFFHZHYxazBibUxsdEdoLXJVQnZQb2FQLXdFb3UtVU1UV1JURFFpamFpdTduV0JR?oc=5",
+        "title": "Congress Asset Management Co. Acquires 53,214 Shares of Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUhCLWlpOW9FVERRUWpscnk0SWwyWGVSSFpaSUlOZjhZdTQ5eUREWWE5N2xaRWdzdGtrY0REbDA5Zjlyb1c4U1NZSlNoWUQ4OHQwUnNoMU1IcERjY2s3M1pEbV81dXRoVWg2RU5XT0o2cUdQelVpY0paRzBxRjlqU2ZLZC1Idk1SckhWeEl0LTFPVHdjdHYzM01kQUFVZ2xsSlJqUXFWaUdOMmhBQkpmWldkdVBxMlZoeVRaci1JLTkyVkJUS19IZEIyV2M3bllDUURuZ0NiUQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Tractor Supply Co. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzE2UXR0STFKS29pR0xqaTlmSFNfeXA5R3lMbU9XNXBuNmNlZEtjelQzelZNa216aXlKQXdIUFJrMVdGalVoMjJNU19vaFAxbEd4MEo3bDNORk52UEFUX1FVckpEV285Uzh5d0Y0dWtNaXBxZ3FuV3V4ZGlsdWZGaFU1eEtIVjlyNWtYM3R3MzFZM2UtaUNuaTFhT1hLU1lzTFlhRE91UThGLVpEQWhldGVJNFpSTmVLX3MtREdNTjNSYTdsNDg2Ng?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tractor Supply (NasdaqGS:TSCO) Expands Product Range with Lincoln Electric Welding Tools - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGtVS3dfbWJoOXpkYjR5M3B1UndSVC1YZnhSMF9Hc0N3TWU1T1h6TS0xdGZqSERnY3RTZVkyUXIxVmdwNDFuYjZPa0VLZUVaU1RKME0zOE9YdzFTQTBtaTN0RFpaQ0dpMC05Vnp6aHMtd282aXFSTGJjdWFhd2t0S082WldBZWFDMG1lc216eHFtMG5ERUQ3WExhY3NQRFUxV3JfaVp2R1NEWkxlOFBVRC1LVXpDakNTbFNIY1NIZXZ1N200QmtoODA0MNIB0AFBVV95cUxQbXVGOXlNRmhSTnJSTEo5RXBmSHZDci1KZnRiUDZpMjdxWjMtS3NpWWVkY2dKeXZsVEMtVE15Q29BeWRPdkNxTkZDTVE3Y1pxU2JIdE9lRzZWd3J3QlBpYjRiQUgxV3luaE5fbHliYjBLTDdfMzZJVkhxVldlNHFzZEkweWhucDdIeEhCZUR2WVJydU5ZbXdpVUkyZ0YtcXp5c2xkVFBQSmFsZEtuNHZyM0NleDBLbVhaNDhWSVFFMzhPajJjMU5Fa0VKQm40UHdy?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Woodstock Corp Reduces Position in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHAyZUd6NjlGSEZCOGQwNlppTERtSEhoc2k1LUR0amxkYUlVNVd4VFJmcEJVZEFQcVQxZm1mdGgwYWRST0wzMm1KWk83Q3lCM2dzcWkxa1JNMVlhd2thaHZ1T0FmRGJsdld5NUc2RGM1aEJKZFFybS1kbFNRZzRJcUZpMjB2azZJTmxSdVUtdk5YQTlsUE1TdXhfTTZfWVdIcWFmczJQb3kydHFmX013QkQ2bURtR1dfMzNQeGlnZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "If You Invested $10K In Tractor Supply Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3ZaTkl5dEZTc2N2TGl4SXJodVk5VzJoZUdBX3pXRW9CY2dTWmM5RVhUa3NNRUNtbkhOVjBrSmtXUnk2TnZOempaZ1NaLS1jX1YtNFVhMkoza1Jzd3lxWUx6Rk9QMVh3U3NMZy1LdlRPUW93V09hN2Mtc29fTUY1V014VGdGZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tractor Supply (NASDAQ:TSCO) Shares Acquired by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMU5CZVN5dXB0NnMxNHdKUHpGUkJndlNoVmlid2gtNDhrY2d0RDJHeVBMU2w3Vi0tRGsxZEtqa2pfRVRWcjVCcGJKbXllaFpTR3hCOE1kVS1IQ2dDRGJGNGtjY1VFclE5V1dVQUdlY1MwRmU4Wl9QWnRjaVlqQVptVWwwRnFaRzg0Y3hNS29pRjdsdTlyeXhpbWxfQVRkMk5mN0RNTFlvVFlBQVRKUUc2b2F3bU1iNTZ4OGpJNi1CODhTMzh5WkJUSUdGRVlydmNOMzFObV9Va04yMk8zOTFKTzJLbGJYbE9icUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tractor Supply (NasdaqGS:TSCO) Board Declares US$0.23 Per Share Quarterly Dividend - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWgwX01VSlhmZTN5cXVqWTlya3NRVlZxU1ZhOUZVeDlDYTM1YUs1NWJ3cGhENy1lZWNEUVFiQXVULWdIVTFvSUhJMHJtbmZxaEZRNUF2dlkzUkl0SnBUeGpKX2xBbFdYV0o0TUxRLU5qbGR0RjN5Z2x3dlZMQWEwN2pFQjNTSTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Buys 824,094 Shares of Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSXc2NVFLdWMwUW1EVXdUVlR4VFRsT1dqYzZkMkpudGdObEVqMjVYcUp4a2ZGN2s2YTlUeXlORWd2bEVVSmpKQWpuNWtjN1paNGFPcEhvN1FrdklEU2V4RGo0OEdxekN4Vi1SS0NZSG1zMDdlYkpod2hSbzZGZndRU05qbVNfaXY0NjFPbERGSXJzV1Fqd3pFVlk4WFVqUEIwei1qLWFVX0ZFMExTemR3VjRja05saWFpZEd0Q20xUEprM3RpYWhSZVZDVGxDN2R4SkxDajZYVng?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How Should Investors Approach TSCO Stock After an 11% Dip in 3 Months? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG11MHpvVWx5cndvUWs3bVlqTTRwTGZDOTdhT2JTUGN1RlZqQlpRd1dzdzhKTF9UcWxMM1ZZTXdtbmM1am1iOWlocFd4T2ZIdTBoQkltdUNON2I2UnRsU29rSWV6aUVIOVRlNml2eVlBaTBsRGtnVTVxdUlMVFljTXNUMlQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portside Wealth Group LLC Acquires 8,196 Shares of Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFRQX09TWWFiSGVsblZ1V0J6X3ZCcUhucnFMVEhzb0o5LTVIa2F2bHM5R2tmTHFMUTllU29IVEJuTDNRdTg3N1V5SG1OSC0wRW9DQmtseFdUQ2dJUUlveGlOMWJ0RjhrNks3NkJqX1FDZDBCendmM21sXzFvUl9zY1ZDTnRJWHRzVHNCUnhNZ0ZkenFlUzJReUx6cHB6VkFCY2JFOUJIT05TSVpRNnFxa19jZkE3WkpqWUltNE9YWk9pZVgtb2lGcEtoaHp3YVFUVTR3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ODP or TSCO: Which Is the Better Value Stock Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByaG0ycERSTTlPVkM3MlpTcU95MXpfNnJYNUlvXzI4RGtCQzlkcklWSGFBaVlxSTk1Y0tWVm0tTERSd3I0QVZLVnNOWDVQY0s2MlduY05kVWJ4emFkRV9mZW11WnZuSHlBT05SR3MwSUVrY0FpZUNDZDg2UG5xZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Threadgill Financial LLC Has $2.16 Million Stock Holdings in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNVhrWXJ1dVp0VTJyV3NzVWRPTnFlNUc4bWhwSE1BN282T2dYMFBtZ3BTeElzcElZUk12M3F1YlZPVHV4RFhYT2Q1TzFwSmRYeDBIQnNib2FGRDFTMkg5dlplUHhaZzdITVJQZmJLT1YzcnBzcEttSGp3cWlWdG9xaVdHSVBtMk9HMEk5eC1aYk9HMDI0bHpSV1N6TmZ2Q0lyNl84TVZqOVZnbTl5MnZmcXpNUnhsU3kzR1F4blNyV3lxMDg3Z2FvUUlyZkFYejBGM3RZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How to Play Tractor Supply Stock After 18% Drop in 6 Months? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83a0FmX3NMYzhEazBnUzU0bzdoOGFaZy0tQ09EbDZpcGJPYlNqRWNKSmFFb1pfRmNpcVJEZFhPcWpqOVhuTjNIYUVpSWtrY3FBMkFlUzM4RFdxbmNVTnZnanBPSFJycUZPUmV4WFJjbExOR3pjTnZ5N1BCOWF0NzA?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "ODP vs. TSCO: Which Stock Is the Better Value Option? - Yahoo Finance",
@@ -646,16 +626,36 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Increases Holdings in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmtsRWg4bjhnVWpiNWM5Uk8xN3ljSkswT1lrWW9SWEpTQ3I1VWJfY1k5Qm5KMDJtUUw3VnllYmZvZ1JjNDRQa2o2aFZWU2swNERWMzR5am1DOXZxTVYxQmlxVVdWdEFXeUtjaW56ZVNMdVJneGktX3hidjZ3bUxlT1ZaaEdKWHBwTHkybV9tcnU1X21lSGxNRXlISExHZ1lNYmxqY3drcExlMGszUmlXQzMtbkR2eXBMOHNnRjRFcUFKZw?oc=5",
+        "title": "Merit Financial Group LLC Increases Stock Holdings in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW5RTlNXTmtsd0ZDTUpNR1ZFX3ZucXBOSDk3cHQweWl0dGtzZ2hpeVBzc2k5Q3BDaTItMWdvUjFXSl9wRFJlUHc5eExLRmVOV3RVbDBOWVZ2bTlqU19zdkhDMGhZOFZyM1dKdldlUDMzYUw2ZEs1bzR2RDRtRXpaOXNJUUlaTXdtYzd1NW1GeVBiSm5nMng3bEFPMi1fc1FvSUg4b1F6WHJQYmIzWmhwZjZnUXFDbVQ1OUx5MjdDUjItRHJnb29MQWl3Yw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Tractor Supply (NASDAQ:TSCO) Shares Purchased by Ascent Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWJKTm00Vk5nTjVORGh0TjB6cjloUkMwYk4wcmp3Y3g3YlB2Wnk2aElPUnN0a2s3LXR5Tllvam91Zm4zbEM0aFNucnBSMWZKMTd5eFR2Ym9NdG1lMVl6OXktQVdMOTdjRFMzS2FocFZXQkJPRnFuTGItWkVscmVUYmhBTlV1Y1NWaXU2V0FyUm9WRXJsVDVlQnQtU1lsSWJxdVVGQmpHTXc2M3VNM0VkRk81TkU0VHRWamp1NmtKaDM?oc=5",
+        "title": "Insider Buying: Tesco PLC (LON:TSCO) Insider Buys 35 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMndxZWtuQlNLUXVVOEozbVExN3lmQmUxMzJvZHNZTlVIeDdjVkpCcXhnNlRLWnRXWEM5M2o2a09uMlE3UmFfQmx6WVpYM2tJa3JSWTh4YUlkeC0yZTdiVS1aNUc3RWU2MUlyMHRYbDBaXy1EMzFqSWFKMklvSXV2NWl6MFJub3hOcnVnaVBvYzU5bWMzaDNETzdKVWJ4dDFFZjl6NkZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Bank & Trust Co. Decreases Stock Position in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX09qa2lnVUs5MHNWNzV0ODc0VDRmTHdXaktnTmpaQnNadDFOaFVlejlXcHdBVFNtaDVPcDl4VTRkc2gyblB5ejVYd2R4bnBaVFpKYk9kRm4yZ3E2TVpXMDU0dmN0Uzg5RERKOVdmbHhpS2c3UWRIcnk5SVFPVW5sY3ozem84LVJkT2p2TzRwbm9pRVRscUdFUUNhbU5OTjRmWlJ6VG9iNHY0dmxteDUwQUswUVRpRGhLUFdMeUtLUjA1M3BCNGY1NVRR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tractor Supply (NASDAQ:TSCO) Receives $58.02 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdnBrcUNGeTUzRGxQbEtGX3hubTZyS1FUaS0wYk84SHhVTjZhNXEtRVNkVzRVMXFJTDUzUDJYbTlGeGtoLThmTTZ2eWNFcEFGVU5DY2tLNnRiQ0QxVm9PSjJ6R08wd2tLbWNaQTdkWlp5ZF82YWVBSEk0UVowRG9OQW5pcWc0UllPTTd3YXBTcmFOblpMQkxNVDBPNE5ZMTdiMG0xYVBjUTJBcmJ2ZzlWa2xWNWVLZGFsdWhPUm53aDFXMzNaU1A3YkNJalRWSHlUVVNGcF81VF96T00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avanza Fonder AB Has $2.55 Million Stake in Tractor Supply (NASDAQ:TSCO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0ZuSV9EQk1GZGVUMk0xSXNLNEpYaUpCYU8wOHQ0OV9SdXloelZQV0hjRVpCYjBzUXZfS25wUEQ4SUR2UjR0QUFpdU0xbldMRGZoT19HU2pEeklaV3huVjJsTGdjTWZ4NmNqWm5lTy1oSEYwS3dPQ2JzTXVONjFZcnZXS3FXaVg1NzhQUkFXblUtT3VaZWFKR1VXRDhVY2ZTbE5NdE9RMW41NG1wdHpzQnpFTE11SmFjTVY1YmtDYXd3YzBxUG1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tractor Supply (NASDAQ:TSCO) Shares Acquired by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMU5CZVN5dXB0NnMxNHdKUHpGUkJndlNoVmlid2gtNDhrY2d0RDJHeVBMU2w3Vi0tRGsxZEtqa2pfRVRWcjVCcGJKbXllaFpTR3hCOE1kVS1IQ2dDRGJGNGtjY1VFclE5V1dVQUdlY1MwRmU4Wl9QWnRjaVlqQVptVWwwRnFaRzg0Y3hNS29pRjdsdTlyeXhpbWxfQVRkMk5mN0RNTFlvVFlBQVRKUUc2b2F3bU1iNTZ4OGpJNi1CODhTMzh5WkJUSUdGRVlydmNOMzFObV9Va04yMk8zOTFKTzJLbGJYbE9icUE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

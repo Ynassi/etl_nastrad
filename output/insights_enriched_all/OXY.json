@@ -2,16 +2,16 @@
   "ticker": "OXY",
   "name": "Occidental Petroleum",
   "sector": "Energy",
-  "market_cap": 41919148032.0,
+  "market_cap": 45523038208.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.24494,
-    "PB": 1.5184842,
-    "EV_Revenue": 2.657,
+    "PE": 18.72753,
+    "PB": 1.6490321,
+    "EV_Revenue": 2.762,
     "ROE": 0.0949,
     "ProfitMargin": 0.114250004,
     "GrossMargin": 0.64095,
-    "DividendYield": 2.3,
+    "DividendYield": 2.14,
     "DebtEquity": 74.026,
     "CurrentRatio": 1.01,
     "QuickRatio": 0.715,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.14762911643140025,
     "ROA": 0.045100003,
     "PEG": null,
-    "EV_EBITDA": 5.354,
+    "EV_EBITDA": 5.565,
     "BuybackYield": null,
-    "PriceToFCF": 10.31765555888417
+    "PriceToFCF": 11.238247962762035
   },
   "technical_indicators": {
-    "RSI_14": 54.75906694249008,
-    "Momentum_10": 3.73661095178364,
-    "MACD": 0.0900133714919988,
-    "BB_Percent": 0.6039634438503154,
+    "RSI_14": 70.41671016271599,
+    "Momentum_10": 14.342356467413472,
+    "MACD": 0.892498829992121,
+    "BB_Percent": 1.1637150218536998,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9333752977029948,
+    "ValueScore": 0.8891252518412246,
     "QualityScore": 0.4047082059220057,
-    "SignalScore": 0.5308973132879835
+    "SignalScore": 0.40959340173948
   },
-  "volatility": 0.0264506543834997,
+  "volatility": 0.026659848322688,
   "beta": 0.853,
-  "return_6m": -0.0953574339122595,
+  "return_6m": -0.0181369938978451,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 48.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 48.05
-      },
-      {
-        "date": "2024-12-11",
-        "price": 48.47
-      },
-      {
-        "date": "2024-12-12",
-        "price": 48.19
-      },
-      {
-        "date": "2024-12-13",
-        "price": 47.64
-      },
       {
         "date": "2024-12-16",
         "price": 46.6
@@ -537,83 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 42.54
+      },
+      {
+        "date": "2025-06-09",
+        "price": 43.24
+      },
+      {
+        "date": "2025-06-10",
+        "price": 43.91
+      },
+      {
+        "date": "2025-06-11",
+        "price": 44.84
+      },
+      {
+        "date": "2025-06-12",
+        "price": 44.76
+      },
+      {
+        "date": "2025-06-13",
+        "price": 46.45
       }
     ],
     "current_price_data": {
-      "price": 42.54,
-      "change": 0.73,
-      "percent_change": 1.75
+      "price": 46.45,
+      "change": 1.69,
+      "percent_change": 3.78
     }
   },
   "news_sentiment": {
-    "summary": "Occidental Petroleum (OXY) a récemment suscité un intérêt accru, avec une augmentation de son cours et des cibles de prix revues à la hausse par des analystes. Malgré des stratégies proactives et un fort soutien de Warren Buffett, l'entreprise reste confrontée à des défis de levier financier et de croissance dans le bassin permien. Les activités récentes d'options et d'acquisitions d'actions suggèrent un optimisme prudent des investisseurs, mais la question de savoir si OXY est actuellement un bon achat reste débattue.",
-    "sentiment_score": 0.15,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 2,
+    "summary": "Occidental Petroleum (OXY) a surperformé l'industrie au cours des deux derniers mois, avec une augmentation significative de son cours de bourse. Les investisseurs se demandent si la société pourra continuer à bénéficier de sa concentration sur le bassin permien. Malgré une hausse récente de plus de 3%, des analystes s'interrogent sur l'impact potentiel d'une inflexion de trésorerie sur le titre. Par ailleurs, la forte présence institutionnelle et le soutien de Berkshire Hathaway ont renforcé la confiance des investisseurs, bien que certaines voix, comme celle de Jim Cramer, restent prudentes quant à l'évolution à court terme de l'action.",
+    "sentiment_score": 0.4,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "A Large Oil Supply Draw Could Mean Upside in These 3 Energy Names - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWi1rSTBKMjJEN2JrQ1JfcDdKb3UwLUxodkF2d1JuSFFfMnFRVjhpd3lMc1d2b2g5LWJtRnA5VXpLUlkxelVMUzZnU1RJTmlsMUE5OFVKZGsyYkNIdnV1bVVKNVhVS0lpTkVRRjBkX2dIR2NnSGhlTW9xZm05QnZ3UjN5dlFnblNMdWJ6VjJyZEpKTk45c2pVaG83RXAzV0RpQkxCUXEyV2w?oc=5",
-        "label": "NEGATIVE"
+        "title": "OXY Stock Outperforms Industry in Last Two Months: How to Play - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2lvS0JYTnBQM0tPajNJZFo1dW1CUkFORmNHUFAxN1dpNlFIeU0yamgtNnJBUHV5WWRQVnZsbEhWNXRjN3pmY2pwVlE2ZTgzNWxEeHVRbnRxUmpITXc3YWQ0Nk55VEkyQUJlazZMcEVMb3VhWHJJeTdzYzhrQ1g4T0t4SDRhVkxz?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Occidental (OXY) Up 0.9% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PY3NFaHBOMXd2YjJIVzhHa2dGVHdhZ2NUd1NZMTVfN25DeGtPNlhqMVdaVTk5NmJ6X1hWWWlCVXFFSWxzeTV1ZC05U1pmcUZKd25JMUdkSFBzckgzdXBRX0JmLWluWjRKa1ptSzBHVS1pNTZGa2NtMEVB?oc=5",
+        "title": "Occidental Petroleum (NYSE:OXY) Shares Gap Up - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVdIaXAtak1UTGNUQnRzUmVNanRkV1dOR0xJdnA0NGJqS0h2R2poNkxxTy1MYWxDbGZSbjM1TUlhbFVQckNxLTZoOFpNalVBQUV2TjJncVUyT2lsekkycFJzSVZmSnZFeExzQUoydjNYSk8zZW5nTWhxX1oyQmNQQ3Q0NlhoczdkTGlwWVlYUkFrQVdUOFpWVHNTQTIzdk14ZVNlSFczTDVRNjNX?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Warren Buffett's Favorite Energy Stock Paces Bullish Oil Sector Move Amid Ukraine-Russia Attack - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1RDdFlLMWJWTzNac1BycTVtMDVtdFdyN0tMb3JjQmd4WXpaTVBodFF4Smw0X20xYW1QeC01NGlkZ1ZsendtNzcwVDR0NXB3Z2xOd1NRRDNzeXR6T1VRdDJHUE5obDltSE0yWjhibWtsZERKbGxWaHFhMWsxODBZcmlDbUZyc05NX0R3SXRWRHRMZG4zYnFTZkt3?oc=5",
+        "title": "$OXY stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2NzZmhFRjBOSHp5U1hieUlMd0NBak5mZEttMFhIcDFwSlR2LUYwS2xhalk1b043NkhTUUZIZGoxeVhSc29qQURybGU2WUNqZkVxazE1azBITHdwUzdRdFdrWnBCNjlhbWpucm9LNkpYUkhlSS01T2FCZmhtTzRmbW93?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Occidental Petroleum Continues Working Toward Capturing This Potential $5 Trillion Future Market Opportunity - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2lwSk02ZlNwUkZrM0dxS3BXMWV6VW1QMXl6U2JaNWVSX2s1YWFZTXVtRmlIRHhMTS1XakhaQ3RGUVFHaFdfR2I1MnpYVXY1QUFhRTFPNGoyUndTWVdldnp2UVZVTUlnMDc0ckFmZnBvWWlnUVF0Nlk3SmR1R05mc0l1QjRJdnVjNzhHNUxtZTU0eGxuQkNPZg?oc=5",
+        "title": "Can OXY Stock Continue to Benefit From its Permian Basin Focus? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk85VzVMVGhDaHJocnh2dDRwVV90OGl4Wng5ZzJkNWVXTF9NN3VQYV8ydTNyenhLMGRCdXVnSmlNMEZONDNrMlhFV0JOSE1pNEY2SVpwQ3NLbEUxNlJuMi1wRjFSRldmZ0w3TDdwbTd5WWE3OVF3RzFVT0NEdXF6SUN1MURtUHN2T1VVN1JxLWxwRHZTXzlFTFhTakZ0cmE0LTViczV5V0dXOUd5RWdxNmFyNEo?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "(OXY.WS) Proactive Strategies - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTRvUWRrQ0ZPaEc0YVl2SDBCU3JVdzVEQlRPRUtLSDFRSUkzMWFSTGR3bndsa0NxSkl2MWZlSXZZNXBJUGphRG43TnRiLTBXc0trbXM3Z21weW5uVFA0RUZCaTl0NVB2UDZLSTN5VkZ2SkJ6cmRJeTR2eDl6UmRCYnJnd1dwYk9zV2Y4amRCMTB1ZTd0bWw2MmtwVWVSZldTRVlvUA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum: Leverage Overshadows Permian Growth (NYSE:OXY) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGF5LWZBM3hPVlpaRFpxUUFad05lZEo5aHM1bWtfeE9TOUQybmlSSi1mU3BXYjlBZzZtN1VNbzAwUUNuQklXVGo4MmwwNGtJN3JVOC1FNWEyOTdSYlY0bEpIU04yYTNSVXFQcE5NaVF4OVZHc3RaTDJkY1p1RVY1SWhuZG1wMmRVd1NjekI4dThJT3haN0RqbGFUSEhpdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum Corporation (OXY) Is a Trending Stock: Facts to Know Before Betting on It - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzk5T1BOZHhLVXlBQ3lyZVpUcVBPOHBrLVVzUEtvQkRNUHlwaWJYSlYxUjVkZng0dThueUdZVlpPaWZPZWpaUnRhXzBmWHpCdTQ0aVFvTDNIelVpWGc1dmwtd3AtUXNjWmxUMHNqRUMtczdhZXBrWHJ4Zks3UDV5LW14VDZqdVZCUUJYb1F4TzludTYwdjM3N0dUMExYQzZacUY4anM3VGpVZjJVNjkxQU5BdkpkeVZDdDZzNmlXT0FDd0pndnRHVFpwV1R4VzdBbWY4enlmbm01THIzUkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum (OXY) Price Target Raised by Citi | OXY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjBVY2ZFeHIzUW5ROWR6Q3E0LVdGdnhuR2wweU1ETzJ5ZThhY0dEVnVRT0d0Ql9OVmFJU1RrWnZJcVBTR0lyT0dIcjhrbWl1Z1oyWHZWblRiaEVkbWtzVnlDMFBxd1pDcTN6TVdMTklFb0JFbUo5NFZtN1ppd2FsMUozRWcxU29XRzNyWU00c1lCWWpNbHNHejJOWGxwRGsyd2xwX3JQNGFWMEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum Co. (NYSE:OXY) Shares Sold by Generali Investments Management Co LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM2tUeDhPVlNHX3d1aUJvamVhUTZqVUdZS2J1eGM2a2JETzNFR3d0ZmxBNV9EaHA1TXRRcVoxNWJlZUxpSUdtQTlzRkNRQ1kzSGV3cUhiMjJFSmMtR2V1UXdCanU5SVFVSXM5UDg2MGc5eTZmMXRId0N4SXk2cnRwMnlWQ29FTEhoRkdOOFlOVWRhOHA4dld3YUw5VkVvMEMxT3FuOVZjQmgwTzJLQzFldHNQZXhibjlsb2xVUl9GZWlad3lJdEtwNHdIRm5fUkp5RUlLcUI3Y1JENGJXcmhR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Occidental Petroleum Stock a Buy Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlJKdHVkdVFIY3pBcGxhMXhBR3NwRTAxUVM1V3k1RkZHcmlkQVl0TVVjSFM0anVYVG9LMnE3b0NhY3dkVDZfazNfUFdpcGFic0JsY2M4SVpSWDV3dUJ4dlBRd3hvaGVjUjJpZ2Mxb01Jdm4zQWVzWW15bVczRDlmc1VJQjE5NWpuZHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum (OXY) Experiences Surge in Option Activity | OXY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkoyYW9wejdlamxCemRoVTlmU01LRUZWNmxzVWJ4amdBeW9ibTRuRGFYR2dSRWhmd013TUVRUk1MV2llbkxNZlVnZlFndEwxelpCSHh1RWRQX2lvWnJkQ2RSZ29saDFRdW12Zm9Id0NraVFYQ2NIZC1RQ2dMQjRibGxudWthSV8xMUt0UkVYaHlSQVZveFlZdWJUSnR6bzI3VEotVmREY21WbXN0Q2s0dFE0TU1kclU?oc=5",
+        "title": "Can OXY Stock Continue to Benefit From its Permian Basin Focus? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaDRXS2l6STI1SFpHUk1FcjZBZ3ZIYXVhNWlnTTFybThKVHZWMm1lUG9QckJtLXA2bk1RNkV0NGRPTWRjd2pSbUZ2VWdzeERvYnBLdkFBVHlfRnI4UDhLS05XemEzU2FUYlIzZS1yVTR3WUtYT2M3ZHd2RTU0VFBWRGhkdllsanlZYXYzcUVDYnpVaHF3RGtZd29ReHVPdVZjUlIwaFEwZzB0Ymw2RXMwc3MwY0lMSVpwei1NczBRM1M1R1NuSzZ1dVFIc25fU1ROYnZjU0c2Ym5LUVJoNmtIcQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Buys 331,129 Shares of Occidental Petroleum Co. (NYSE:OXY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVA0N0duRXpCMHdQcllPNFRvcjRiYXRBam52OUF6SUlvOVB4U01zY0xIQ29VaE5MZXZ6bElWUUlSa295MTBLZGR3cnhaVFFBM3B6V1VjOVNyZUN6aDdqQUhCc3dwcEZ2X2FqVzJhRnRDZTdEVVhnZHdKRmNNYklSQ281UjFCS1dPZTdPN1lZN0h5bHdiT2xidUJPdEZnY2dEQnJ6ZW9tZUxqdGJkakk2RlZhLVZ3dXFJNWNzczA0VWJLZ2VZb0VvaFFETzFtdk0?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Where Will Occidental Petroleum Stock Be in 1 Year? - The Motley Fool",
@@ -621,41 +586,76 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "OXY Trading at a Premium at 4.99X: Time to Hold or Sell the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54V3JRT1IyY2Y5NzZUdzNna3dqNTVzWmt5NURjbm1KazBzdURqU1V1NGlUTzBPeVY1LXY2Qzhob1Y5a1hWbnN0WHJNQXFfc3RWMUliSEFDd1YtcWZCUlRRUmdpWVhJa2pfeEY2Mm1HYURXTVZHalgwY3hPSQ?oc=5",
+        "title": "Occidental Petroleum: Navigating Market Pressures with Berkshire's Backing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0YtaFR0eTRfbzdKSC1UZ0swMWIyYWt2Nm1NWG80ZG1fQnRub182d3plcTF2OFoyRzJHalc5VFBEVzRGOUdWQl9yMTkxWlk1WUZ0TlFfbXprUlNsUEQyNlRGc3I3V082SHkzN2p6dkJyVlBFdi1NYXZnRmwwWFV6ZHVCM2s0Tl9ESHhMdHFReDRyNVhIR1padUFR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Should You Buy Occidental Petroleum While It's Trading Below $45? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0Nmd2JOcXd6RENQNTU2bUhObUJqMFp1S2lrckxaQTRaZWFhbUhIQ2dKTVAtZS14NkJTbFg0SDlFSXpsSjU4Uk10cjI0aEhubzhMbG1hbkpzWlpWaUg0YkIzV1E5dFlJRWd4U1A5UDV5eVpvMnBhM1JxTjcwdlIxNVNHeHF5Z3YwUzAwQQ?oc=5",
+        "title": "Opinion: This Buffett favorite is one of 4 cheap stocks the ‘smartest money’ has been buying lately - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVndmNjJzTkJxNlZpdnJuQTBNU0YyZlRtTndHNlJoOTBwdnp4U0p1Z0wzekxhaDBGYU1WQjJuYjRPY3BzWV9NVTZNTV9wVl9nN1J3Y2NlWnFPOEttRFh4QXVjNF9uZHZjLXFiMHV0WTBrbUtmWm9XVWpSMDlvbjdjS19URGF2amlidDJUSG5PU2hnamF4VkZuMW1IeVlRaTFzYWVHYWZOOXpYQTU2NGVHcS1TMTdnU3VIcTVmbEtNT2twMU92TFV2YmdxTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Occidental Petroleum (NYSE:OXY) Stock Acquired Rep. Robert Bresnahan, Jr. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS09uaGY0azZWaktHQUp0RTVsZFN2Y0VnVXRlY0lmck5OYzZxeV9oWnBOUjlkbUR4Ti1ab1RidXViUjV6TW95dkN6VkI1bzlYLXc3UzhoeTlIM2NlN3dYQkl0UmdDd2lkbkVvZnhIcnh2eDh4TzFGSUYxQkxlU0RDb1Bta0ZTMEdQN1FKMDhxc0NJdnJEM0pYeEtfeEt3a2l1RlJJVHVpOU1VYWxueTN4dHBBODBqbHNZZVNyX2VBOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum Co. (NYSE:OXY) Shares Sold by Sarasin & Partners LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGxCR0diQUtUTE5EdzAyTTZSVDNreUNxXzFCdnJjUmtqUmQtem1wbVpDdXJxa2RHTzg0dkpMWXFNbFJtWlhYbmpVdXdrd2wtc1ZqUzg2MnVTem8tZXZ4c2R0c0gtWnhlRV9MeHMyMVRqNWozVms1MWRHZTNYZlRWNVNLYlVtYXZvSGVmZTBXUkFJOUxzNW1lc2h1ZWJQbG0xYmVkTWFmbjQtems2TG50NzJTU3NJRWYxRHlEV3VpSTZBRmdXbTVV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum Is Showing Why It Has Become a Top Warren Buffett Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3ZadS1GOUhSSkhiMkZranhteTFmN3JoenQ2MkRWVEl6b0VfVmZGenBWMVZvRldJTFRtUjY0TXpiZnB4UmdNbVhNeHZ3NDg0TGYxMmk1XzdKYzVZTEhYTzNXR0hFUEFPVDRublA2ZmFSSXVaWDVFTElTVDV4dDF0N3Y5RU9pcllkVWpHcGRyN3VXdUQ0TVMzdEdGeUI5NDlaZFVZTlln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Occidental Petroleum Corporation's (NYSE:OXY) Stock Is Going Strong: Have Financials A Role To Play? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3R6R1M0RFh1bGNtR2RPdS1JT29hNzkzNmJIX2tNaG03Z1N4cTM1a3U4TklKMWpxS254XzlneWJ6ZlhHSTVaTDFBb0wtOFg3dUVsbU0xMGljaTNlcXM1LUR5eVV0aTJYNERZYTA4NE5ha0d2UHhmaGx2clNSY1BsQWlVV3YwNmN6YWhQaDc4MnhYZw?oc=5",
+        "title": "Occidental Stock: Cash Inflection Coming, But Is It Enough (NYSE:OXY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUIyQVpydnEwVXJzdmREWDhfTkp6UXRhbU55ZnJKaGhMSTM1NFQ5RDNaZVVScjAwalFFT2NKOUtpVnF4d0g2aWJpZHJqUUZRRWd3RjZZSVAtYkRsQU85ZVBvWGZZaHl3VlJSQ0ZoQVI4VHdCZ3Y1cXYyUDQ0YmtRbW82SHdpLVQ0TUlVVk5SM0REekJoZUUtS0ZRSmhwMnFzdHc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Could Buying Occidental Petroleum Stock Today Set You Up for Life? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUp0Ni00ZThjZ29ydG9YY2J4RmtTdVRScm5uMkdLUFZabC1DV2JtVFV5ZWs4WUdFY1h4am9wNmJrSy0zMzY2dkkyaGRMVi1zeHQxb21kSFdSbUZzYmpNUEpad2Y0NkoxNTZlVWZjenM4ejNWU2J3eGZfRzNvMGhEcUlHSjF4TGxlVE1yU213?oc=5",
+        "title": "Occidental Petroleum (OXY) Share Price Surges Over 3% in Strong Rebound - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhTVGNLQjdKR0JFTjRGVnI5d3NtWjZ3MXZfMzhzbWlfVUFmZDEyY2VJUkZlLW52d0loQlJ2S3VDNEJfTm1FQmJzZXFrVjJkQjkxU2ltb2tVSjhoaklCbXBVX2xib3RUV0RndmtvbUlhSUhvQTAxems3WGxYNzMybE9pdmdab2g4bmFwRHhiazBiVFVqN2I3bHpiYm1YNmt0bURLMUNITG5Zd2FDVGdEaUtXYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "OXY is a top oil stock to own as Israel-Iran tensions flare: find out more - Invezz",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVZWNERSR1F5QXBmVUVBdzZJSlZtd2RwX0JPdHRqVXhxcHpRS0tialBFSUg3dTQxUXl5NUtWaFZOTzIySlJnSUZUY24zUzBtQS1ueHVKNVo4SFZTQ1lEOF9mNGVzVVZmbTBEQ1dBdnFESkdqbm03SEVCYzh3TTMxUkRreHA0MkRJVzFjNjZyM3hDUGd6NDc1ajM3djBEYVp6aG1qTnBoVEJsTTFmVEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Occidental Petroleum Sees Unusually Large Options Volume (NYSE:OXY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTFoYnhZc2pDYTlDZVg2dHV6ZFBQSkRFd0prTjBDOXdWbXhMX0s4b2FxdUJRWTcxOTlscHBBNmsweXc1WW56dWFacEhCMTl0X2pPRWdLakwzeGVTVUdES0MwckNXZWUtSFFkODFicDJZalAydk1MZk9oLXNoTkdGUElRRUtQVmNaVkhPZ2RidVA3N0QtdTNjaUxpejBCdlpxUHB5Z0pZZWh5TTNWbmNtc2VUMkw4T3hxN1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Could Buying Occidental Petroleum Stock Today Set You Up for Life? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkRlZk56ajJoVUtqMk9rMmZibzlFY1BDcjlsX256Z09URmExZS1xT1ZSM1l1QnVwdVZJOHdFSGZwVjRqSGhLbC1rNDVWMEFwbVVIV2sxWW95dmpvak9HdVhPMWZaRS12a2dWaFctdDc3ZzVKUzg1QkRaRU84WWdxRzlVLUxxMDhwaW5jLTE5M2IzWHBVTTNJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RFG Holdings Inc. Decreases Stake in Occidental Petroleum Co. (NYSE:OXY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS01OWG5vTGQwNHhSaWxiRUJHa0JVSFNKT2VJOC1DYll4T3I2ZTJjRDcyQ05VdEN4Wm9tX0JDQXQwMlNWa1R6YjhjTHluNmVXWEdySTY5d2lDLU9pNWJEWUIyb1d4ZjF5SGxuVEt0clRNVExYdWZYOGthRjcxWmlLUzRPN3hMWklSTGJUNHBNSjdUYTQtcEs1X0dCRVZrQVIzeG9LLVVCVW1IUzMyTWZvRmxTdnN2Z1ZudGlpMzA2SDItT2ZKTzJj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Occidental Petroleum Is Showing Why It Has Become a Top Warren Buffett Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWJnZkdKWGM3RHBmZk01SHYyb3RnZVVhUjFXSGpkT05Kdkh5OFBFWURxNGF1ZmtVODJqcldFY2VhVDJWbFJqQUFnN1pjS2xVOWs2ZTV2aFo5ZHhVWlA3QWNVWFdoakRDa0RtVTU3V2oxTlgzelFVdVA0YmRHdE4zRTVGTVpKeXJyRnV2ZmViUEs0aGV1Nmk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With 49% ownership, Occidental Petroleum Corporation (NYSE:OXY) boasts of strong institutional backing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlNIbnBEVUZlTWFIaUVMZ1Q2Vm9sNklCdGxFQklSQ2RaZHFHZF9PNV9TOTJXTF9TTV9wck9QNHZZdkZYS3NGOGwxd3E1bVhPUEh2bncxaGttMGVJRmZMMXdZckJ6TWMzc2hDdEVyVW5VV2tDR2lGWU5FRjktdUNjWFAtQ3BlQkIwRjREdzBGV3VwQ0FQaWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer Notes Occidental Petroleum (OXY) is “Not Going to Go Anywhere” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNm1HX3BKSnNOeWFZMXdxTC1KN0tRMzJmQnlSZFJtWWZKOElXNEhpM2U4TjFZVEVGcDVPYXBEenZIeDh6dEhBUWZ6TFo3ejVKUjdNMUU3Z2Nidk9LVHdHckVtajNCQzBjaHB0eXRDcjNxbW9nYXc3ajlDR085ZDBfQlJkdVRLTTZhckNr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "As Oil Prices Rebound, These Stocks Could Fuel the Next Rally - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkM5d0pjdm44amRjNmZxcDZORkJYRGdHdXh0ajh5TzZycDlHY19tc1pmaWlXZ3o1TEw2akVCVU9iRHRSd29PNGMxMnRWWkJPU1lzVmRrQ3lPN2NfSGU0dFpKV3ZUaWhlQUZvcmhXWWxtZ1NRTUlDbmhMQ1BJdjB6NEJxT2s5SHFNVjNUM011c0xWb3l5bjNCYUUwNjVENVYtNnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Occidental Petroleum Co. (NYSE:OXY) Stock Position Trimmed by Man Group plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUk9wYUh4ZHBpeDB5cnpEbndwYlhIbU9EUlZJOWpkNlpHck9LejlrYlBCRHZsOTVLWi0wU3UyeGtYY3A3TUpOc0VfTGFqTkd2MF9fbEpLNEpFbGl2bnVXMmJLTzF4clVkQlZldjlWMk55dFVlN2tKQVhGd3FuOUxsMzlUV3Q1Z2RzQkVaWW5zYWxiYmhQdWFscURqcTIxUTJueVZkUF96QlVpdWRlTWR2SzVlOWVEcjExUEtaa2NnUEJGLVlDU0hr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Occidental Petroleum Corporation (OXY) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFJJMnVvUlUxXy1paGlmVWEyYTJfMnpTWG1iajZVa3FZbGJPeTljckp3NThRRV9PMlFLWjUyT1BWXzZsVDhaRnZiUDJDSGxXRDU3U3I4dFlVdXd3d2VjbDJsQnk0YWI4amZRd1ZmZ3hKUnc1N2tIVDJrSEtTVUNKcmllOS1Xb1hScmlZLTR2WlFZRGItalE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

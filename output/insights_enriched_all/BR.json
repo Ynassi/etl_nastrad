@@ -2,16 +2,16 @@
   "ticker": "BR",
   "name": "Broadridge Financial Solutions",
   "sector": "Industrials",
-  "market_cap": 28879454208.0,
+  "market_cap": 27824048128.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 36.915916,
-    "PB": 12.095243,
-    "EV_Revenue": 4.741,
+    "PE": 35.673946,
+    "PB": 11.65322,
+    "EV_Revenue": 4.653,
     "ROE": 0.33918,
     "ProfitMargin": 0.1165,
     "GrossMargin": 0.31312,
-    "DividendYield": 1.44,
+    "DividendYield": 1.47,
     "DebtEquity": 152.819,
     "CurrentRatio": 1.317,
     "QuickRatio": 1.188,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.18122415130023642,
     "ROA": 0.09024,
     "PEG": null,
-    "EV_EBITDA": 19.048,
+    "EV_EBITDA": 18.695,
     "BuybackYield": null,
-    "PriceToFCF": 23.512231133743754
+    "PriceToFCF": 22.714475872884247
   },
   "technical_indicators": {
-    "RSI_14": 63.47150193206212,
-    "Momentum_10": 3.2851653271636647,
-    "MACD": 2.230920311857915,
-    "BB_Percent": 0.9604108669753668,
+    "RSI_14": 43.849368236965496,
+    "Momentum_10": -2.072377335553055,
+    "MACD": 1.0283871118262198,
+    "BB_Percent": 0.1050967126210526,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.92536793041914,
+    "ValueScore": 0.8762177945595898,
     "QualityScore": 0.3481863603938938,
-    "SignalScore": 0.4893724216818969
+    "SignalScore": 0.6226899400003447
   },
-  "volatility": 0.0151818950111578,
+  "volatility": 0.0152013699420544,
   "beta": 0.969,
-  "return_6m": 0.0523260602119022,
+  "return_6m": 0.0220334619995694,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 233.57
-      },
-      {
-        "date": "2024-12-10",
-        "price": 235.9
-      },
-      {
-        "date": "2024-12-11",
-        "price": 235.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 235.89
-      },
-      {
-        "date": "2024-12-13",
-        "price": 233.53
-      },
       {
         "date": "2024-12-16",
         "price": 231.92
@@ -537,57 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 245.35
+      },
+      {
+        "date": "2025-06-09",
+        "price": 243.71
+      },
+      {
+        "date": "2025-06-10",
+        "price": 243.01
+      },
+      {
+        "date": "2025-06-11",
+        "price": 241.18
+      },
+      {
+        "date": "2025-06-12",
+        "price": 239.83
+      },
+      {
+        "date": "2025-06-13",
+        "price": 237.18
       }
     ],
     "current_price_data": {
-      "price": 245.35,
-      "change": 0.47,
-      "percent_change": 0.19
+      "price": 237.18,
+      "change": -2.65,
+      "percent_change": -1.1
     }
   },
   "news_sentiment": {
-    "summary": "Broadridge Financial Solutions (BR) affiche une solide performance financière, avec un rendement de 162% sur les cinq dernières années et une croissance soutenue des revenus récurrents malgré une forte concurrence. L'entreprise se distingue par son nouveau programme de durabilité ESG, soulignant son engagement envers les pratiques environnementales et sociales. De plus, l'acquisition de brevets pour une technologie d'intelligence artificielle prometteuse renforce sa position sur le marché. Les investisseurs peuvent être encouragés par cette dynamique positive et rester attentifs aux mises à jour de la direction lors de l'annonce des résultats du troisième trimestre.",
-    "sentiment_score": 0.15,
+    "summary": "Broadridge Financial Solutions (BR) a récemment renforcé ses capacités en intelligence artificielle générative avec BondGPT, suscitant l'intérêt des investisseurs. Malgré une vente d'actions par le PDG, l'entreprise maintient son attractivité avec une croissance soutenue des actifs des ETF actifs de 600%. De plus, le lancement d'une nouvelle plateforme de durabilité pour aborder les défis mondiaux de la communication ESG renforce sa position sur le marché. Les analystes maintiennent des perspectives positives pour BR, soutenues par une croissance des bénéfices et des prix, ainsi que par des avancées technologiques clés comme la récente brevetabilité de sa technologie IA.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
     "negative_ratio": 0.05,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Reflecting On Data & Business Process Services Stocks’ Q1 Earnings: Broadridge (NYSE:BR) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2VRaGhzM21sZzljRmtpVWR6bnpjcTN6dmZndEVJbGprYUkxUUlZamNvQ1NPM2FQZ09EM05saWRURTlvUGppcFh3V09uOXMzT255M2hQLTV0UW84VDVEV18xdzRQWEJTV3hCR3k2cFc1b2dEVUtWWXFOSHBJeFRYdS1XaTduOFZZcWltOWdybkI?oc=5",
+        "title": "(BR) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVVdTaHFsWmNFVkx6MndHZ3l2VGEwOHlHeVgxN2UwWHQ1aU55WDExTHluNGJndGxTZUhvRjNGdU5PZFR3dDc3cnlfdnV0NDdaZkZVamxnRHRlaVVGdkotcXZCdVJuZFNGR1ducVFDXzVrb195cXJRc3lyN3RIRWJPZ0pfNzE0RW05YW82ajE2N2ZmRVhWNlRfV2JNYUFBc00?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadridge Financial Sets $0.88 Quarterly Dividend - Key Payment Dates Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjgwUnk3OUFzempRcmFyb3o5emRVaTlPTXI5TFZjQ21paGdKaHo2ZEd2Vnh4LXB0TDBxZm1HX2NtZEJYdlBVMk5XYURXLVRiWTEtTTRPc0J3bktlNWdNU2JPaW05VlNLRzFaa0NpbVN5eG1la0NBdlVaaEc4aVY0Sk5BS2JWeXJVQjhPSHpOdkluRFZJdjFMZ0hYSUVFSkJONENBXzRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(BR) Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0hMV2E1SVZNekFtbllXbWFvekFIMnphSEowTTh1SVkyOUxHRVg0TjNqU0IzLTZHZVZLTTgwWjBTeGdqYnlGQ0otNFpoMVVjalZZRnZENS01VUVDR3R1aUJEeC1KRXNZQjU3VEIzVzJORE1nQ09kUVdfLXlWcnpSQnBidjBsZmZYcTFrdmNNMXdHd2NCMTNyNTNhU2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sale: President of $BR Sells 7,021 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclZNZjVlbzJmRmRVZ2xWLUNGZWNNTGQzSlY1cDhzN3FOVFVWWmhENFQwYmFVeS1qWENBSTZlTF9ZZUV0YnM4V294Y1FEVldxLUZ0ZW5fUEZZTnJ6Ui1wQjFjRl9SbjN1WVNDX3FfeVhlN2lWajdDb2VhUVhoNXpmQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Recurring Revenue Business Model Aids BR Amid High Competition - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGhSWU9QYTBmVF83WHZHMHNfZFBieTdlTmVJVDdxenFKcUdjUzJGQVNtM2hyekxsZGItTUIwdWo2RUdwN2tPVXJZYzR3ZFY4dlR0ay10ZTNHMjUwZFJIR0ZqRFdfTVk1bkFZUnN4WmRvNjNaa3FQVjJGYUktTDV1aXhtOUllM0xncjRiVDgzakFZQnBTNVl0RFA4S2NVRG5kbE9ZOThSS3l1T0N4QnVudnIxNlNLYmU5VzFTcy1uVTNOYWlPa2NkUUtwaXZLWWhWN0cxSHlQNTVqR1gxZXdBblByejU?oc=5",
+        "title": "LTX, a Broadridge Company, Expands Generative AI Capabilities with BondGPT Intelligence - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTVyckx3ekxycmgybFFWaUpLYVRlcGxVQXJZT1VqLTRiUFdSOW13S0dEd3lFUmZJMkh1Zk1wMEtVRVVIMlFrczdkb2w5N1NNR1h1QjcyczRhTzZjUHNoWFpodTVNWlVIWkU3TmZDWk40X2hVWTBORE9hVTRqRVZvZzlPaWJFQ0hDVi01QUNHUlFMeGFwYjJRdXJBUFE1N1JkSHJTZ00xVmdtaEM0V2p5VGZiZmxBM2Yw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Broadridge Financial Solutions (BR) Maintains Outperform Rating by RBC Capital | BR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1Q1ZTBJR0hMRVVsR2tZeS1GV1h6LXV5ak9ydEthUVJzazZhekhQdG51bmJQWUhyUjVhdXA5MXVkTERvbVRHTVB6NUs3TkNsNWdmRUFNQ0tIbXhjUkZ4MldVTnV0LU1JNWd6Tk9qbW9mRU1sM3Q1ZVJ1bzZFMDR0NF85eXFPMjZVbDVnMGFJbmFPSGwxdlBuSWdNR2thUmJRT2Izb2xNbWtiaWJvMXZpZmt5dURpZ2NlZ253SVZIVFVTOFdfQmgwdlln?oc=5",
-        "label": "NEGATIVE"
+        "title": "Why I Am Maintaining My Buy Rating For Broadridge Financial (NYSE:BR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk5mdWRvZFhncXYtelFsb1RZNVVuYW9XMGdMSlVyczkzQzRLbDNrTXczQnJON3JNLVI1TFpNbjAzTjR3VVZQYmN3dXEwYVpJaURNcGdkRkFTYkkyeGVlR0ppbWM2ZUE2bmlaSk50dGItakJPVnRoVXlyRzhJUkhRR3FvWTg5Tm8tVkhwWmJhTHRkdVVCQ2Y5LTRsdURnQTBnRUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Broadridge Financial Solutions (BR) Stock Outpacing Its Business Services Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0NDSnV3NHEwblpyNUhYS21nYlVrWms4UEpRVDBBeG1ZY1IzcjJUeWszTGlzNDRqTnBWRWZURFB6c05td3QxSVBxTGhMSk52VEpiVHVYbmNiQVVQanlYQldoZnBnaWxCRnllOUFtczhIakxrNjlSR2lwWGdwelZVbG41N0l4UnFMRUF4bW53?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LTX, a Broadridge Company, Expands Generative AI Capabilities with BondGPT Intelligence | BR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPODMwbWlIWXI4YzBlNVlmbXpYbkhWMjQ3UEI2WXNFWUQ5b2NLNUFQME53SXp1Ny1zVGVHTkNTOHpxc2dFN2FrbDdBNjRzZ3NFX21JMlByNjN1TkgxSU5ZUUVkaS1UbjlHZXI4Rl91bTNVZC1ocHFlZ1JVZ0tTdHJZR2V6Z1ZhNFd0WUhqVlRWd1ktNE1pZ054eHRHQm9qQlZjZFoyam43RV9PemdlOXZkVm5lcXhZX09MTkhaVDh6cS1feGNfbThpX2pzWmRHUjhuMXlrd05COWt0YnVlZWFDSmNKQkR6eHkxNjdQcUtvV29MUFkyV2NvdFhLY3l0YVFTZXl1MWp4Zi16alFNdlRJYmc2Vld0ZUEzTm1j?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insider Sale: CEO of $BR Sells 34,101 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QUUJXY2FOSl80OGgwdFFZdHZxRzlEaGZ1akdib2VGTldVT216N3JwYTZHcnp3a00ydmRjZ0FMeVBGUWVCWUZGMWRLZm5aMkFVYjR3T1NmMTdPVjFrVlNPYUNKVGZKck9hTDRCaUU5ek13Q0tJUGJQbXZ3?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Here's Why We Think Broadridge Financial Solutions (NYSE:BR) Might Deserve Your Attention Today - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVlsR3hLVlBQeXk2RkVuLVVnb2ZYQUNGcXMwM3Qxc1hrWXlQY0NPcWZYN1JQRWZLVHZsZTFxU3lHa1pJYzNSTWtfWEJzM0JEaWk0Y0ljSmx6ZFdOc3JRdkNxd0hXU25PQ1BBZ28tVFdIczlnTHhpb3FsRkJsR3ZNcjhpc0tBMndhOXZBS1FxYkpmd1lDV3BxV0ZoXzVCQzAzeGhYWGVfUEV6UjNucnItWmlkZ1BWQVZKVHk0SEZzVC1IdWJiUUppRFJaeXN4Qk5OTmhFUjVTcUN2THhxYWkwdXF0NE94TkFvQUJpekNlSdIB9AFBVV95cUxQbnNUNUZFcFg3cWdnZFY4b2FKd2RLcnA0cWlGMEpfaENiNDNhblFJNFdsTnZhZDhqMW5vcnZqa2Z1eDhBcFpMMFlKa3VmbE5sREhnc0xFVktMTjhncVJjbWlvd0dDc0ZTeHg2WEl3QXNKNGl3UVFUems0LWZKS1VnM3dsbFZfaldBZkNqamhWbGFaQmVvVTBGTlpRd2JZNVd0SHVvcUlwQXJnUjF4X2dRLVkxTWFVeEhEQ0JIQ29ObE5qUldkUHJKcjhRMnVHTFMtbjZnTkFVYXhrVDlLVFVnTlF1ZV82SjRodFVxeHVLTDhBZGlI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Active ETF Assets Skyrocket 600%: Inside Broadridge's Revealing Study on $1.2T Growth Potential - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHNzeHlCYWwybGhKZ0p3bkJTYjh4dXRUeFFRQkhreVZQZjdVVV9DWUx0THRFRThNdk82bWZGV29OaldXSjBSb3h0emtMYi1zUlZvMjREeWc2NU9KVFRoV0N3aEpZWEJMSmR1LWZJa1dPTW1ZUTFqNnVwVTYya09QQ0FlT2RYNHVMSUJaYzU0b2M5a0M0c0FIZzVjOWZzTXNkek5iUG1Qa2VLSjc5czNBSUozalh2YjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BR) Stock Market Analysis (BR:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW56blFGdFVtdlNXdHMybTJWYThhUndQN19haS1MaU5rSGRpU3J5aWhTaVIwRWRJb3V4MEtlSW5mSy15M19hZGQ2a3IwNV91T0pZT2tsNC1PRWJ0WnZLRUVmRUxfd2FsaEpNQ3l0WVVFWUxrb1ZCM1R0czF4T3doSDhHS3AtM1FTQ1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Active ETF Boom, Assets Up 600%: Broadridge Report Unpacks t - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNLUlKVy1OUGtXbWtKVWhySWxSOTh6Vll2ejlTUjU1ZzE2NzRkRmEwRzZiRnRFNVBjbzNZU3pjN3Z3ckkwN3RGWnpYTlNvdW1EczdweTF0TzBzNTdIUzhMVEFITTAwU0J5X1Q5R2hPTk0tWnVJT18ySmtuY1dyRnFuU0RqLUtuaFZEeHoxWDVfcnliOVRXX1AtT2tuODJNX2VGR2N6XzZscEk2T2lRVjFINTloRU5CVElod05YR1hJd19CV2Z2WWZNRjEyeDJYMlVGLVFKUjRLNzMtWE5yeTlPU1ZLSmxCdHU5RVVYVDhSbl9LTmpMZGtGOHJHX0R4WGZZbF9pSVQwWjJEX2Nxc1ltb0dB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Reflecting On Data & Business Process Services Stocks’ Q1 Earnings: Broadridge (NYSE:BR) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2VRaGhzM21sZzljRmtpVWR6bnpjcTN6dmZndEVJbGprYUkxUUlZamNvQ1NPM2FQZ09EM05saWRURTlvUGppcFh3V09uOXMzT255M2hQLTV0UW84VDVEV18xdzRQWEJTV3hCR3k2cFc1b2dEVUtWWXFOSHBJeFRYdS1XaTduOFZZcWltOWdybkI?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,43 +616,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(BR) Investment Report (BR:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYldJVzhPRG1IcWUtUnVQMHZRc0Q4T3U4ckhiLTNuTUdkNURkdmg5UzdtdGt2M21GdkFnQmJaVERBSTkxS3RKcjhRTlFFN2M4aTlPbm5GY0NHdXZjRi1kSnNPck9McVJiSXZwVEp4Yk5WOGVUSWpOUFNmdVVOUENlenNfZ04?oc=5",
+        "title": "Broadridge Financial Solutions (NYSE:BR) Declares Quarterly Dividend of US$0.88 Per Share - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlhZQllpZDVIMjd4TWcweXZ1emlOdmNOam82S0o1TDNwVFpxMUUxVzFuZUNydmpDY19VdHh4bWpJMWUzLVQ5X3NjdGFuazFDS3k0STBSLVRoNkRWTmJnSEtkSllGTFlyajZQS1c4bnNqd0M0ODBZREhjSWNGZ1cwOU1aWjh4cEpJQV8tUA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadridge Financial Solutions' (NYSE:BR) investors will be pleased with their strong 162% return over the last five years - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHc5a1VOTnpveXptOXl5NFdVR09KZGZOU1pKbEpMeEs1ZTZzTWRBemtnamZ6UnVsWEZiMlRNdzUyWnNnM0FmNW9POG1jdG52T0RyQ0NlaGk0X041NC1SRGdjVThMNldyZ0p2S1BGVExORnEtVl9UZXBKWFlXdUFJT0xJRkR5MUtwd0lONw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Broadridge (BR) Teams Up with Novisto for Sustainability Reporting Platform | BR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFjaWxSRUFFTTZ3U3h1NEZiTGZJSzJ1S1Fnc0I3OWpMbFBBWFhQYkhob0F0RHVLYkRsSFNMNlkzMVVMM2NtcFJ1eU03bEdfc3ZwX2pLUGZMRDhGaXM4b0NwTUpVeUtUTkYtZ0JwS3RkLVp2SUgwQXdwR1BrSk12OExycmppMzc2c0E3QWpWbzdhNURveVUyWS1WMUo1M2xTeE9HWlVLS0JQT0l6X1dpRjAwTzREdC11aEVvNFpFcm9vbWY1QXc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "What Is Broadridge Financial Solutions, Inc.'s (NYSE:BR) Share Price Doing? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSG52X2NXcUMxYTRoYTN0eFBHLXBZcDN0MVYtYXlZQW5QUWM4WnlvQi1DeVJNMDVwX2d3WnBZWk0wNzhoRjl6VlV4eUtUd0YyN3NnanVmZFRsT1AxQ0N0X2N1ZHFZM0FraUl1TFZ5RjA2a01uTUhPWG53VF9KRXNBQTNYYmtFZ1ZaU2NucS1iel9lYkV5ZkJOYXMyN091cDVRZ2gzNGMwc3N0WlF5cWYxSVo1dEsxOWpGMkZPS1VoeXVTclVzaFhrcUNUYzBjREhoSDMzWE5GdUVnWkhpM0FYUkQxMnZFdUpFMGlCR1NqUdIB9AFBVV95cUxNZi12eVVsRm5yX1FVQzlOb21seU8yOHFYMnVyZ09tVTZFRU1KOFBsLVBxcUNQQmM3Ym5YYXc0NEM5TlpiRWhuZktjOWtHeTJFaFZoRFdxVDVBUzFVNDA5N0RKOVdnTFZZa0Z3Q0lwcFhYb3JxQ0haUHBvVGVlUkp6RXZDeHZQLXdMYmVTVi1NWGdLMElwZWw2ZmFQYjNPNVZaaVZ2NTlLeHRJYVZoaENTQ3BZdDBISDFfZk5EX2hPUU5pX1otMTMzMzRTOGM1ZWpYTjNSRzNTdFdtaTlLOUZDYTdIWmZXSlJFbmdjZ19iSVlYc1lX?oc=5",
+        "title": "Earnings Growth & Price Strength Make Broadridge Financial Solutions (BR) a Stock to Watch - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFliOWRlcU5lYkpSNmxzQml2Nkl2SEZwamRsQW5iUHpqYkNGQ05rWkN3UlNaSnlNaTVTQzhHVXFtcldOd2ZkbTZXQ2xWN3VWTURLNzRzSVVxS3VtQ0FscnA3eWZsZ3l1bDhNaTlBTU5ZcFc5VUFnUGt3UFM3UXFwOFZ4N3BjNWY5TnY0YXM5b3VWOG9VTElxRm91MFo4U3ZsdEpfdktaRTgwc05WWndqcHZJT0pDZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadridge Patents Game-Changing AI Technology Behind BondGPT Trading Platform - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0NocEtNY2I5bmZFT2JJLUREU3hrLVdMTmhWVl9NS1c3NXNLR0dST2Y4NFFIMXdLZGFOQzhMb2pSYUhsQjBPOXZTaUc3LWRxaFJiamcxVUxiOVZYTFF2LTE4SWVpbFUzSlMyR2Y4SWtTbUtGX1hadGI4MEtiUjhIb2ZfcVROc1FSMnMwRjVIcDIzOVRWQVVUZVdMOWFCRXktTEpLdWNB?oc=5",
-        "label": "NEUTRAL"
+        "title": "Broadridge Financial Solutions (BR) Maintains Outperform Rating by RBC Capital | BR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1Q1ZTBJR0hMRVVsR2tZeS1GV1h6LXV5ak9ydEthUVJzazZhekhQdG51bmJQWUhyUjVhdXA5MXVkTERvbVRHTVB6NUs3TkNsNWdmRUFNQ0tIbXhjUkZ4MldVTnV0LU1JNWd6Tk9qbW9mRU1sM3Q1ZVJ1bzZFMDR0NF85eXFPMjZVbDVnMGFJbmFPSGwxdlBuSWdNR2thUmJRT2Izb2xNbWtiaWJvMXZpZmt5dURpZ2NlZ253SVZIVFVTOFdfQmgwdlln?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Fund Update: CIBC Asset Management Inc added 37,926 shares of BROADRIDGE FINANCIAL SOLUTNS ($BR) to their portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmRVV1FVZkhHU2FTbEdUTVZ2V193c0w2cU1Ta2s0M0tEZUVaT3RnQnBQTzVGRHMxaDdtc2NUUUtVV01XeENvNjU2S2hqUnNYamNpTGRuVjQweFVGRWJ1UUY0UXpIbHZDT2dnU0lmRGR0aDNhaXkxR0dJZ1l1Umg2TVVDaUVqdWRYandRbjNtYUl2STNQRllDbmNIZE93dnB3NDNQQWdOV1ZGdXN2UUlrb3VDSEdja1NlREFXTw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why You Should Retain Broadridge Financial Stock for Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObDhuNnJuR0c2T1JTbkJhM1ZDcXBpN2tKakdyX3ZScUsyRDVSNDZjZ0FWazdQNDgtU0YwRkFXNlJWMHlINzlMb2pVWFh4MHVCY0t2eFpRenA1dlhrQTBMVzVwdzJIWjVlMGQycUlJdVVQLVZaSXFXbXBhdW5nbWZuei1TUTEyVGQxMjJB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Broadridge Financial Q3 2025 Earnings Preview: Key Updates Coming from Leadership on May 1 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFE2akVKU2NIYmJyVGx3MjZwNFNlVlVkZHN6eVFmZjd5dGVoZkUxNWVPTUx2OFBpTlRiZnB3WnpCYmJ0aHJrZU9wczFnUlVneDQ1QnBJUGwxcEl4d19wZmNzUjdrekg1WklyUE50ZG5HNTJWNF9saDZyN0I4aktud2JUaFJ6RGZubjd1LWNpRlllSDJrdjVnNUpzQWpoQ01Hbi1GclljeGVxNmREeERIOUpNMVVXQWdw?oc=5",
+        "title": "Broadridge Financial Sets $0.88 Quarterly Dividend - Key Payment Dates Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjgwUnk3OUFzempRcmFyb3o5emRVaTlPTXI5TFZjQ21paGdKaHo2ZEd2Vnh4LXB0TDBxZm1HX2NtZEJYdlBVMk5XYURXLVRiWTEtTTRPc0J3bktlNWdNU2JPaW05VlNLRzFaa0NpbVN5eG1la0NBdlVaaEc4aVY0Sk5BS2JWeXJVQjhPSHpOdkluRFZJdjFMZ0hYSUVFSkJONENBXzRR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +641,21 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Broadridge Secures Game-Changing Patent for BondGPT AI Trading Technology - See How It Works - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjFBOTV3N1VBRllvbWZIbUJodC0wcWdQUHZzNHlYS0MxaTJhZXRxRW5oMnRKandiM1RHMVNvVGkwdy0zU0lLYXlicjlHZTExQnpMWk5zZVlLWnVpNGtEbHlmdHdUMW5faEI4TFIwMHlqdElKenhZQ2dDc0lCalFCZVBQdFctUWFIVThhYVFlUXh1d0xZTUdiQno1bkc0VWk1NThDaVZ5QTFoMFF0?oc=5",
+        "title": "Broadridge Financial Q3 2025 Earnings Preview: Key Updates Coming from Leadership on May 1 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFE2akVKU2NIYmJyVGx3MjZwNFNlVlVkZHN6eVFmZjd5dGVoZkUxNWVPTUx2OFBpTlRiZnB3WnpCYmJ0aHJrZU9wczFnUlVneDQ1QnBJUGwxcEl4d19wZmNzUjdrekg1WklyUE50ZG5HNTJWNF9saDZyN0I4aktud2JUaFJ6RGZubjd1LWNpRlllSDJrdjVnNUpzQWpoQ01Hbi1GclljeGVxNmREeERIOUpNMVVXQWdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Broadridge to Participate in Upcoming Investor Events - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkVicTk3SERhUDZWR0hJaThqYnR3UnVkanVCa0Y2aGdnb2otNzJjYTFWR0kzbUs5MW4zMlV4ZU1hdTdpVUpmdTBxY2JuWEVzVU51MjI5RFZkX2t0Mm1fOFpwSF9TdWFhdEJmYWQ5akFPOWI2dVQ5X3lGMVFmdFU0MUswVGg1bEc4VHpGSnFDcUNmVE1DbW1RRExHVzFFNDZ6?oc=5",
+        "title": "Here's Why You Should Retain Broadridge Financial Stock for Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObDhuNnJuR0c2T1JTbkJhM1ZDcXBpN2tKakdyX3ZScUsyRDVSNDZjZ0FWazdQNDgtU0YwRkFXNlJWMHlINzlMb2pVWFh4MHVCY0t2eFpRenA1dlhrQTBMVzVwdzJIWjVlMGQycUlJdVVQLVZaSXFXbXBhdW5nbWZuei1TUTEyVGQxMjJB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Earnings Growth & Price Strength Make Broadridge Financial Solutions (BR) a Stock to Watch - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFliOWRlcU5lYkpSNmxzQml2Nkl2SEZwamRsQW5iUHpqYkNGQ05rWkN3UlNaSnlNaTVTQzhHVXFtcldOd2ZkbTZXQ2xWN3VWTURLNzRzSVVxS3VtQ0FscnA3eWZsZ3l1bDhNaTlBTU5ZcFc5VUFnUGt3UFM3UXFwOFZ4N3BjNWY5TnY0YXM5b3VWOG9VTElxRm91MFo4U3ZsdEpfdktaRTgwc05WWndqcHZJT0pDZw?oc=5",
+        "title": "Broadridge Patents Game-Changing AI Technology Behind BondGPT Trading Platform - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0NocEtNY2I5bmZFT2JJLUREU3hrLVdMTmhWVl9NS1c3NXNLR0dST2Y4NFFIMXdLZGFOQzhMb2pSYUhsQjBPOXZTaUc3LWRxaFJiamcxVUxiOVZYTFF2LTE4SWVpbFUzSlMyR2Y4SWtTbUtGX1hadGI4MEtiUjhIb2ZfcVROc1FSMnMwRjVIcDIzOVRWQVVUZVdMOWFCRXktTEpLdWNB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

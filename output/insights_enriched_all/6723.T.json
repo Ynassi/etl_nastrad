@@ -5,13 +5,13 @@
   "market_cap": 3433818488832.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 21.023102,
+    "PE": 21.013855,
     "PB": 1.4816526,
-    "EV_Revenue": 3.558,
+    "EV_Revenue": 3.625,
     "ROE": 0.073130004,
     "ProfitMargin": 0.12656,
     "GrossMargin": 0.5575,
-    "DividendYield": 3.0,
+    "DividendYield": 2.86,
     "DebtEquity": 59.619,
     "CurrentRatio": 1.119,
     "QuickRatio": 0.714,
@@ -22,50 +22,30 @@
     "PEG": null,
     "EV_EBITDA": 15.257,
     "BuybackYield": null,
-    "PriceToFCF": 23.018011901328492
+    "PriceToFCF": 23.608172998248694
   },
   "technical_indicators": {
-    "RSI_14": 58.882038158194135,
-    "Momentum_10": 7.480314960629922,
-    "MACD": 10.550893278570811,
-    "BB_Percent": 0.9336459066033154,
+    "RSI_14": 55.94533056094003,
+    "Momentum_10": 7.17891194615816,
+    "MACD": 38.30894516773856,
+    "BB_Percent": 0.7645237799391246,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9327509864314746,
+    "ValueScore": 0.886317989345464,
     "QualityScore": 0.4269718803581628,
-    "SignalScore": 0.4741255480610982
+    "SignalScore": 0.5076919563947455
   },
-  "volatility": 0.0403806410435201,
+  "volatility": 0.0403679154456042,
   "beta": 0.591,
-  "return_6m": -0.0138520083075009,
+  "return_6m": -0.0378446615904569,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 14,
-    "target_mean_price": 2796.4285
+    "target_mean_price": 2775.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1965.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1962.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2045.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2038.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2038.0
-      },
       {
         "date": "2024-12-13",
         "price": 2014.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 1911.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1894.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1940.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1979.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1960.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1911.0
       }
     ],
     "current_price_data": {
       "price": 1911.0,
-      "change": 44.5,
-      "percent_change": 2.38
+      "change": -49.0,
+      "percent_change": -2.5
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Renesas Electronics Corporation (TSE:6723) continue de rencontrer des difficultés avec un recul de 32 % de son cours de bourse, malgré des signaux positifs restants. Des interrogations persistent quant à l'utilisation excessive de la dette par Renesas. Par ailleurs, Hitachi et NEC cherchent à lever jusqu'à 2,1 milliards de dollars via la vente d'actions de Renesas, ce qui pourrait impacter le sentiment de marché autour de l'entreprise.",
+    "summary": "Renesas Electronics Corporation (TSE:6723) continue de manquer de sentiment positif malgré une chute de 32% de son cours de l'action. Des inquiétudes persistent quant à l'utilisation excessive de la dette par l'entreprise. Hitachi et NEC envisagent de lever jusqu'à 2,1 milliards de dollars via la vente d'actions Renesas, ce qui peut potentiellement influencer le sentiment de marché autour de la société.",
     "sentiment_score": -0.333,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 0.67,
     "negative_ratio": 0.33,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -560,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

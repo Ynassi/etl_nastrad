@@ -2,16 +2,16 @@
   "ticker": "KDP",
   "name": "Keurig Dr Pepper",
   "sector": "Consumer Staples",
-  "market_cap": 44392439808.0,
+  "market_cap": 44881383424.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.713636,
-    "PB": 1.8158334,
-    "EV_Revenue": 4.012,
+    "PE": 30.040907,
+    "PB": 1.8358332,
+    "EV_Revenue": 4.062,
     "ROE": 0.06126,
     "ProfitMargin": 0.096920006,
     "GrossMargin": 0.55252,
-    "DividendYield": 2.83,
+    "DividendYield": 2.78,
     "DebtEquity": 76.418,
     "CurrentRatio": 0.474,
     "QuickRatio": 0.241,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.09891738956944027,
     "ROA": 0.04058,
     "PEG": null,
-    "EV_EBITDA": 14.939,
+    "EV_EBITDA": 15.128,
     "BuybackYield": null,
-    "PriceToFCF": 28.89803395343702
+    "PriceToFCF": 29.216566651556832
   },
   "technical_indicators": {
-    "RSI_14": 40.153210160498574,
-    "Momentum_10": -1.0148412647877307,
-    "MACD": -0.3366885108861979,
-    "BB_Percent": 0.1862055526480653,
+    "RSI_14": 46.9292838472756,
+    "Momentum_10": -1.722595924856238,
+    "MACD": -0.2312403655968964,
+    "BB_Percent": 0.4634665161124273,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9312726459470648,
+    "ValueScore": 0.8835060511397018,
     "QualityScore": 0.4331283652945156,
-    "SignalScore": 0.6489527375693662
+    "SignalScore": 0.6065896573994374
   },
-  "volatility": 0.0135500040511547,
+  "volatility": 0.0132549192418481,
   "beta": 0.496,
-  "return_6m": 0.0130178618741791,
+  "return_6m": -0.0011618167696419,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 38.616
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 33.6
-      },
-      {
-        "date": "2024-12-10",
-        "price": 33.52
-      },
-      {
-        "date": "2024-12-11",
-        "price": 33.26
-      },
-      {
-        "date": "2024-12-12",
-        "price": 33.81
-      },
-      {
-        "date": "2024-12-13",
-        "price": 33.55
-      },
       {
         "date": "2024-12-16",
         "price": 33.12
@@ -537,27 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 32.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 32.97
+      },
+      {
+        "date": "2025-06-10",
+        "price": 32.95
+      },
+      {
+        "date": "2025-06-11",
+        "price": 32.86
+      },
+      {
+        "date": "2025-06-12",
+        "price": 33.14
+      },
+      {
+        "date": "2025-06-13",
+        "price": 33.02
       }
     ],
     "current_price_data": {
-      "price": 32.77,
-      "change": 0.21,
-      "percent_change": 0.64
+      "price": 33.02,
+      "change": 0.26,
+      "percent_change": 0.79
     }
   },
   "news_sentiment": {
-    "summary": "Keurig Dr Pepper Inc. a récemment connu une série d'événements marquants : des mouvements significatifs d'achats et de ventes d'actions par des initiés et des investisseurs institutionnels, notamment une forte réduction de la participation de JAB. Malgré cela, la société maintient son programme de dividendes solide et des signaux d'achat potentiels ont été évoqués en raison d'un multiple P/E attractif. Les performances du premier trimestre ont été soutenues par les boissons énergisantes, l'innovation et des actions de tarification, ce qui pourrait influencer positivement le sentiment du marché à l'égard de l'entreprise.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
+    "summary": "Keurig Dr Pepper Inc. a récemment été le centre d'une série d'événements significatifs. Malgré l'acquisition d'actions par Tobam, des signaux mixtes se dégagent avec des ventes massives de parts par JAB, réduisant sa participation à 4,4%. En parallèle, des mouvements d'achat et de vente d'actions par diverses entités, ainsi que l'annonce du maintien d'un solide programme de dividendes, soulignent une certaine volatilité et incertitude entourant la société. Les investisseurs pourraient rester prudents et surveiller de près l'évolution de la situation.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
     "positive_ratio": 0.05,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Director De Ven Michael G. Van Purchases 15,000 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcG1kZ3hJNHdjUVFVU2FGUGk3NC1YOGxhTjZNcFhDUmJRenpDSmp2LTBBc2hDYmpEQmNOb0l0S3k0RzdaYmFLaVMtclhwNGFlclNtOFozaWNMczZiUFFaVGRzYllQWGU4T1lHaUlZWkhnUXJ0TDV3dHhKdmMzRWdId2dDZTVKZXdqbVVLZFRtaVNKT3hHcUhVb0pXREpEUTVuT0JRSFpVOWxXb1NpenkzWl9Md2VSZmx4OFJOdVU0bWxEamVOWlBTekluRlVYRnhPLVU0?oc=5",
+        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Shares Acquired by Tobam - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3lrRS1UamxWOE9aTGpVTDhScEQ2ZTdhYjVCRndIdnA5cFRtMXd3Z3dhSDhWRDlLMVBuYjU4TVY5NnNMZldCUTg3VExWWU0zNkdfcjFNQXdoUUo0SkxZeWFqdGFoWlBIZUsweEQybDdxSG5YMWhIMmJhRUJ6Q2J5NERuLVFvQlJPNEw3YmJDdkhCQlRUMTQtSEhiNjdMTEk5LXhFR2VodUwwMUFhWDdSb1ZuNDFTY1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avoiding Keurig Dr Pepper Based On Quantitative Business Valuation - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUV9aalduSUFwZnZLSU82QlJ1TmtQaHFTZUJoeG1xNmdydXJSYWFHWDdlYWRLdmhaeE1Xd3BVMktEN1QyS1ZjeGZYdk01d3B1Z05FdGNHdFpSY3A2VXRocDA2Q2pDZXg3THNQdEpZal9hODhPR19ZeDFfY1RtYVZDQ0xoWHV1c1MtdUJ6NWY5Q3owd01BamdCUlhtNURTNkdzNlhTOUtUdkdnTHA3bDBTRVJTWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Keurig Dr Pepper Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGdEWWRKdDVOR0xfcnNaTW9YZDhnSGRRSlY5SjVYRnlWeUZyeHB1ZEdEdU80MWt6Y3ZjTWhjRWNEZ0FET21fTmxmSUhpY0l3N1ozRkVlT0VqbU5xRUR3TVowWUlGTUNhVlNLeXZPYkNLQVRwRWFWaFllNGkwSXNmWlNmNEcyTVRqbGxHNWVMWi1MUDFEd0FxaHlqVTdJTzVZMTZ3TFJ5ejVWbmlLaXB4NUk4WjNvWnhKdDEyZjUwb2lpaVB6NTQ4czZmYUpyXzVHSjN1NGhR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Keurig Dr Pepper Stock Underperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWJnY21sZk81OGlueGVUVWdRbTJZRVJ5ZTJvci1mQS1DNGFVYkp4LXA0eDF6ZnBHd2xDQlFFSmtnaU5qb0NTMnlOSWpKajMxSlZxNFh4U0lBQ1FsSFhCS3J3aU9mb1FROHZsN0JOVEgyZk5vZGJBdzBodUNMRXJIb181Y2M2WTFrbHpsYVNNaFV1R2hQMnZKcnNOZmtfMDFrYnBfOEVic0k0VUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Major Shake-Up: JAB Dumps 75M Keurig Dr Pepper Shares, Slashes Stake to Just 4.4% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczRXUlZ1U24wZ2tlaWoyTi1kVHdRWWV5Q1pGM2E2eUg1U0p5NVZ2VG8tbFo5XzdxcVJybVptZmNtcko0Q0hweHV6S0N6Y0JBSjd4OWZaNmVhN01XQ2IxX2NKUzEyTGRva0dpVW1rQmxIUE92UHBOMnpVRUQ4Y3NSLVdzRDZwbWN3MVZJTUZwRkp3Q2UtWEthQ1V5blhOMGxsVXczSlJOTG9nQUQ4RzZzQV9DQ3ZoUTZsQWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Keurig Dr Pepper Unveils First-Ever State of Beverages Report | KDP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGticzlOSFEtOXFqak1GYW9kZTE2ZkdmRFpmWGZBSGhJZktQeWdwSWJXRDZEX1ViUGJ0S3UzeDdSV3BEZTNUODlUc0Nvck1KQVpOVC0xM1QwZ055LVpIa002dkp5N1JONXdWSnMtajlDN19icXJ6dzVHTVNYOXJvNFFjVXdGVzBZdHBuekd2YW05U05BT29CMnVYR1FCaFdNQkhid2g5dUpDMlhzeFZsWjJyMVI?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,23 +591,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Major Shake-Up: JAB Dumps 75M Keurig Dr Pepper Shares, Slashes Stake to Just 4.4% - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczRXUlZ1U24wZ2tlaWoyTi1kVHdRWWV5Q1pGM2E2eUg1U0p5NVZ2VG8tbFo5XzdxcVJybVptZmNtcko0Q0hweHV6S0N6Y0JBSjd4OWZaNmVhN01XQ2IxX2NKUzEyTGRva0dpVW1rQmxIUE92UHBOMnpVRUQ4Y3NSLVdzRDZwbWN3MVZJTUZwRkp3Q2UtWEthQ1V5blhOMGxsVXczSlJOTG9nQUQ4RzZzQV9DQ3ZoUTZsQWc?oc=5",
-        "label": "NEGATIVE"
+        "title": "Keurig Stock Rises 5% YTD: Should Investors Buy Now or Wait? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BYTV2bktLVzBEbVVZUExfT1lhN3dNbzhkR1Z1MWVjbWNIbTJaTjlWbUF0S1lWcU1TenFBYXRESmJUMlI4VDBIR05FRHBrQjVIQm9MVFFlWklwOTg0djZWYWh3NXV0WndrVkNvNGJBbHZ2NVFhQ0VDV0Zn?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Keurig Stock Has an Attractive 16.04X P/E Multiple: A Buy Opportunity? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWVjMmkweDZhUjVTNTJaWjF6b0NoM2tRNWJDbWpHZmQ2VnJON0lJcER6OWhPZ3ZWcDZxN2ltUzRDckFOZld4NFBMa0UtWFBQdUZzUV9jNG1KbHJIOVRodG5GU3d4S2hLVTlzdjZwcWpvSkNvOS1KZVE4d25uamdKUmwzdVViY2Q3eTVlZWd4ZTlFNlltVWM2ZzF3?oc=5",
+        "title": "Insider Purchase: Director at $KDP Buys 15,000 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXFOS2VhTTlLT1FKV2NJZGxsejZ2YTNYdmtWbXFVcmw0b3ZvY3pMN0dsWC1sUGI1UjZzbEZmMkhhTDhLREc2MTVNRzRSeUtEaVVwSE8xNlc2SzlRX3BHejJ6eGpVdkFia0tBem13ajBEMWUyOTR1VUZNSnlDajlTSFpUbVowUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "KDP Q1 Earnings Call: Energy Drinks, Innovation, and Pricing Actions Drive Outperformance - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84bWZUX2hTTnFYRWtkVUlpN3FfV1ZLZDRZS3ZKSjB6WDBsTWZUR1JjVWlWYV9OUFhJWU1TSlhWSXBzQVNObzVONGttaVQ5RGE5RFpybnBWU3B6TGNISDdzWWdFcWliZ2l1bEtscGMxdzJhbjNUOURIQVg0S3VKUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Insider Sells $395,040.00 in Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGFVaWY0MkxwMWRYM0JGMTNMeFY2TEFxbXRMbjVlckYyWXQ4Z3FPUVJvSGpXenJ2SGQwTks2NkZVRk5LQWZlSjFxejRqX1RJN1JUY3BCUW0tRHUtT1hwTXpSWkQ5T3R2bTZ3ZUVJUFcyUGFJckhnUkgxQVJLRDQwSVlMRDMwUG45WjB0MFFGcG0xd2xiWmF1ZURLOGhLbXl2RHBLT0hPWG53SXB4S2dtRGhja0xBNms?oc=5",
+        "title": "Sanibel Captiva Trust Company Inc. Sells 21,274 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUdTUzhmbVNqeEUzbGg4Y0cwSm5SUTVOMjBDZTFmSnI0SDB0WklYbXJrVTlwTVZPN2JXMVpEdm1QV1lUMjEzcUxTUFRja0NYX0NUaXRCZUxHVjhUUjdXNHlNb3pqYnFGVE1GcUt4cmc1ZnJ3Y1padTA4ZXV0M3otOEJJb2dKUU15NlVkOWFhc0VISk9TQzhjaWN4MXRDUWVydFFudDJkU2FENzN0VVEwSUpraW5ZazlpZDhnYnlZRFY4bHp6S3pGejNiaXRqZHQyQl96aW16a0ZfZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,71 +611,51 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Avanza Fonder AB Has $3.32 Million Stock Holdings in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0xMQjlNQWJoTDVUNVUyZkstdThEWTR3ekxxMWxUd19hZzhXeE1oaDJXOFNCQ2g3XzFvWldaNjM3TVp0azQ5Z2lCaUs3NGEyQUVwZDlFWEdMbjFPd296cDBQWUt2a0RMRDhxYmFyemdKRWJSVFZQbVdheGdIbmVUV3kydzJRRmZnaFNyMHBIbEtNczRwcjJmMDY0NzlsXy1sRWZiaXBadXNqdkF3aHJtTWtuOEczanVzU0tITXVjNU9HNDZTUlJSY3pR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Decreases Holdings in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRk1LdG9UUWFkbWZOMW5wOFo5TTEwOHd1TDVjV19kWVpvRzY3NWZqVUkxSFoyY2hERWwxRkVnaU9CeXZNS3UtRmRQRzZWb3BEVEMzTzY4Y255aHhaWFd5aGtkbzExTm04WDItbTJ0T3ZTTW9XUk1rc0VHOVlmT0N6czJsUGlVZWsxNkZ3UFFpbzhORkE5azBCWWFWTUxiYXljcWlzLUxIVERvTE8tQmJjQmJUTU03OTlqSjB2VTl2YzktOUYxUW9wZmdWQWtpcVRCRFVF?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Director De Ven Michael G. Van Acquires 15,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcG1kZ3hJNHdjUVFVU2FGUGk3NC1YOGxhTjZNcFhDUmJRenpDSmp2LTBBc2hDYmpEQmNOb0l0S3k0RzdaYmFLaVMtclhwNGFlclNtOFozaWNMczZiUFFaVGRzYllQWGU4T1lHaUlZWkhnUXJ0TDV3dHhKdmMzRWdId2dDZTVKZXdqbVVLZFRtaVNKT3hHcUhVb0pXREpEUTVuT0JRSFpVOWxXb1NpenkzWl9Md2VSZmx4OFJOdVU0bWxEamVOWlBTekluRlVYRnhPLVU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Has $11.43 Million Stock Holdings in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0M3SmpTQ1VMZElUYkY4U3J5a1VnNTh3X3c2WTh6eVBRTm9XX3dMN1dQaUt6MUFxMDFKVXEzRzFNdHJ6X0dqamlibE1TbUs0VEIyWW9MTWpYUlMybVkwNXZjWjJFQXhpMmZQN3hkV1c1VmJZN1NnZWEwVnlocWthOTV5MDVuOU0zY1ljZF9uZGlvWTh1ZFB4X2hVR0pMNF84dnZLNlZRajlLemU4Y2Q0V0FNYU04U0F4Tm5GX3VGYjIyQ3pNbkxoMFR4VEZmcV9YN3o3YmdreHNWYzRsRGlDYlFEcE40OXZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Robert James Gamgort Sells 208,000 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) Stock - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUJiTjFjRUJuOHJTN0c3dXdVbkE1QjBaS243VjEtTEY0NnAzekhIemNFZ1FUTmc5VnNOU1lnSjlsbXA5cnR1d2h1dTJtdzhWdk9lNlBIbTFicnh3YmlYX2JGRUJTN19CUUE3VGpnTjBYREItZVpKVFZqSXhyT2Z1bUhTc2tYTk1iSEhsN09WU2l1blhDWWhUVmFFTzl5Y0dKZlNTQUp1MGpSUlBieklzVm1jaVJPN0NsLWhCUWdjX2lTVW5WYlE5Uml2SG9TcGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Buys 13,567 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "title": "Insider Selling: Keurig Dr Pepper Inc. (NASDAQ:KDP) Insider Sells 12,000 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGFVaWY0MkxwMWRYM0JGMTNMeFY2TEFxbXRMbjVlckYyWXQ4Z3FPUVJvSGpXenJ2SGQwTks2NkZVRk5LQWZlSjFxejRqX1RJN1JUY3BCUW0tRHUtT1hwTXpSWkQ5T3R2bTZ3ZUVJUFcyUGFJckhnUkgxQVJLRDQwSVlMRDMwUG45WjB0MFFGcG0xd2xiWmF1ZURLOGhLbXl2RHBLT0hPWG53SXB4S2dtRGhja0xBNms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Acquires 332,850 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOG1iTEw3RFFZZmlGQlBzcENHeko5b0s0bjBfYXRCaHFFOWU5MVRDR0ZxdTZBMEZBeXljWElndWdES1hydEI2Um1zcHVYcHRqR1dxcGEtWXpHaG5lNmpuUFFCcWZ6T2JobnJ1a2RqNVAta1pZV09EM0NGaTN5cGEyTGViSVI3enRWdC1SdmdOOXBUSlVVeDNwN3JzU1plUXYwdVMzYktEeG9HcnFDSDNublRNcTZaTzlkSVJ3d1h4OG8yMno1dDE5VTJhYnQ2UFpIM3FaUXgxTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Purchases 13,567 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEpzczNOcjdFMUxtazJtMWJFbjM0VzdkZlE0WXI5S2JGQW9NMVFLQkV5YmdNR0JNTTJ4cXhSbGdJYnVpY3NpcDlWNjlyWjMxN0J1aFBMVEFFLTdBWm5ySndqV1JmbmtlWE9OX3NYSW1aS2Vwb0VWX016b0oxYTJxV1JVbnY1NE1tN1UxTFlYSXdMclh6SG54cnluNjM0UXZuQ1VBRVozVERSbTZwT19xUnpOb0hYX21NNWRkMk8xSnZLUHJzMzhFY0ozaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rep. Robert Bresnahan, Jr. Sells Off Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEUtb3RnYVZ0YjhwZjl1T0R6ZWNkSHQyT3htWGtKbEJZNjZ6WEhYQkQ1QXhTVjczaE5YYTl2dFdKTEVINzY5SkZRNzRwNVg4QVlmRUFIc2otUW9lSWZ5cVdSV0tGNEItUVZXTW41ejVnOTVXU3h1QXNOLUJ0M0JCQWZrazhkajN1ZHNCcWlleUU0algyLVB0ZnRUX0EzZGJPYTNobHppcHRaZjdMalhqSzlQNkdYbXhIZkhocFFNbWZEX251bEg0?oc=5",
+        "title": "Major Shake-Up: JAB Slashes Keurig Dr Pepper Stake to 4.4% in Massive 75M Share Sale - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxEQUlaazRrb3RGbWg0UExxczZPZF9JZVRIZXJaSEdCck9HUE1rRENaemEyaklVXzRsaTQyR2FoOWpsLWZsQkVuRTBwRlY4cDlQZkxqTWs4VVVJel94NEJCT3ZFWm8tNTd4dzBwZXlRSGZhaGNnZTZvaDZFWV9GaVc5Y0lma1BGekxvbzZjRDNRbkVscjVlN25EalJ1MGx1N0ZabTZwZy02TTFnb3RhZUlZcXpoN3VsSWJjdQ?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Rhumbline Advisers Increases Stock Position in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTNfOEZqMDNyVXhnRUhFak1GeWE0MXlZUXNSUE5GeVF0TGJ5bmszaTE1Sl9rVm80UTNmcGZhY3NuUjVTemN2ckVDc1I5dVpKQU51bVVaN3JIM1RnZ3g5UVBRQjVlOTFoMnc4cVJLNHRVZDJld2w1Z1N1VFBERWpJbWg1aUVETmRlQ2prckhXMXl0NnQ2RV80UGI3Q1NTVWlZNjRsT2tEMGFiLTE1NXNfZDNPUndmWEFwQU5ZRE4xSXQwNVBNNjVuUzdqOTI?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Shares Purchased by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN1E5NE9Pb3UzTU5fc3Bla3VON2VWdGZ4R3lSR1dNZGVuVUl2cDNvdHg3Yzhwb0hpcHZ1ZW5NZXlkV2xEV21sQldfbk5qZXM2Zks5ZzJuSWd4TDIxZE1HU1BPOUc4OXczdHM3ekpNcVZJS3R3eGcxWlQ0c3cyYUxJZ3VJRXp0dVdOaE1kMmIwQ25TTzg5ajNIN25xd1Q3QkQ1NTJNclQ1SlEwb1V1NFEwS2NoUUt5VWV6ZXFQYlRYeFJhTzRSaF82QVBkTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Keurig Dr Pepper Inc. (NASDAQ:KDP) Shares Acquired by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakdKem1WTUlFQWVKWXE2eTVEd0VWTDBqenFpbkRRVmZ4VEpRd2xBZVl0cGhRRmJtYzZBSzRabnJDSDBvMjRlUExzLXNfYTE4VU1jcm9HS1VRcld6OVpUQXpNZHNlOEMzWXNmNWJFVFIwYk40Y20xUXQtZXlhXzg5a3RfMGZfMXVnZ1ZVeFZMOThXQ3dvZWVDUTdkTHVzaXQ1V0lTa2xVTk13d1BicHJhd09KdEtubWoyTVo4MmxHYThZcTlYa0dZYlg2TktuS1RwQkFnamMxSWE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Summit Global Investments Makes New $713,000 Investment in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVDFwRnJrQ1YtZjhzNHVoSUg3Q3EwZVJnTlRiS09sOTFqdFNxM2x6VVBKT0MzUlg0M3NrZ3JsUE44S1JBbmp4MTRFd0hIbjlIWC1iU0tQRng3cEpQQmR6V0JnZ19Qa0lFbmdaaVJtejl0S0R4eXdBRHRjM0hjWWpkZ0cyUnVZdGkzSTU4RTREd2VGcHlnZEJ3LUNZZVl3RkNybVA0V0RvVS1McFdiODFjVDVNaXREY0lQWUJwNnprdEZnNmNpT094Q19IOFZGRi1FS0VYdTlIclh2Q0hEWEI0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jefferies Financial Group Inc. Decreases Position in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0Q0RDM1MDBoOEl0bkd3WmZPZ05uRUxBMmFMY3J2Z2lvb3k4WUZUUlJoV2xaSGZfendjNW9YTm80TnF4dV9McVotU2F5d2lhb1BvQnZlaFpDcmZmbkpXX2YwZE14UUNWNDBKNTlYSkFwY0ZjNUQ3OGtHVzVuajZORGlrcnE0bkFGdXhLcXpKUEMyZFJjRDZlaXVhaTFjekNWYnlQeW9oV0diUnd0cWFDclNKQ21uWUJxRVpnS0hOYjl1TURLdWxSREhtSmNSUklBdHpkd0VRTzVab2c?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "369,327 Shares in Keurig Dr Pepper Inc. (NASDAQ:KDP) Acquired by Lansforsakringar Fondforvaltning AB publ - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlFHYXNyTkZ2WFpqSWdxTEd3QmdaVnB3WDZwa1FqNzdMSWtkVFhDSXllVm4zX242d0hFQTEwM25CUFFyNXN3RnRMXzZ4YmVjSXVfVzM0YWV6cjBPVm9sQlFfNlI5YjRPMzRmckFYLVl5enc3Q09jSzFENTNCendZVU9sWmthMUR0ZVNDcmRseDV3TXJic0ZEV1hDbjVHMFMxR0YyNTh6V3dOWlBIQ1dHanhIX2lnSHhmUWZHdllXZ0dXb3pXYkpVckxGTVE4VldZaXpobXBSTFUwRVA4cHBhNjJnQl9oX2xQaW9WenhXUzVpU2M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sendero Wealth Management LLC Raises Stock Holdings in Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcnJKTFRiZlY4eUVwcjVsTDBjNWxpOFJEaFp6LW56RGFiNExJSGt0MUt3TnVTUVJFeGF4VmlCUm9RUU5qNDRldkJVYkR0Qkg1dlhfaUdQRlBndkpkM01lWWhWNkJacWFWUnRxcHo0aXBuc21oYU8xSzZKcTJCaURSN2hZdnVET05pLTl4amlMNnJ5TnpmZ3pjSzQxc2lWQVA3SUpRd0FqTURvYldmZ1NWZVZnV1NkRDVtYm1jemtVejNaVGFldUItS05iWHZlWTg2U1ktcVZwNDFEQnpyenZF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "First Hawaiian Bank Acquires 17,884 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnJiaEVCYWNQQTZ3Z0dNdm05Wi1ma1Q2RDhBaTRnVFZpMEZENHY1akhzcUx5ODNXNUF0d0Y4b2pNdEMybEktTWZpMmlKVVZVWnE4bm90S01xaVZQblFFdFZBYjVpT2M5Z0FGcVpMaVRJSjJ2cmd5Rm8xRFlOVDZ6eDRlYVJuMmVVeTEyNjhsNnhkX1N1Rl9sTGdiZlFtQXAtZlV4YzJzMmhWMEpqTEdkZlNNanhQcFVDeWNvY052SWJPR2s0V2duZHF4NDN2eUxw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Unigestion Holding SA Buys 36,927 Shares of Keurig Dr Pepper Inc. (NASDAQ:KDP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFRmZlZzQ3JtTnV6TEQtQzBFcElzYWVTZzNPenNiRjNuV0dGWlhfRnJscjBJTzQ3Tnp5c3hQWWg5QmVndXpQYlRFZXp1NFZEa2ZXV2Z1THl1ZnN6U1F6MnFhaFZMemkyM1lkQzhpaEVHaHZQNHBNYW12M2t5c1JaRHMxdWZCNV9NU1RiSGJEU19na01PQjZTOHNhVHZQWkpqVDNyLUUybWl6OVFvSGI1VTIyUWdMV3RIZmp3d2lXandCb1B2N0w5cUdVTENxOW8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks With Rising Relative Strength: Keurig Dr Pepper - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2FnNDRVRUFPVS1GMWNkYTJoRE5qdk9KY3QyTHRhdGdDQ01FWWUzbGR3ZFBjYjVnMk81cklCb0w4eVE5c2ZmcU81OXc5MDR0MmUzcEZaYlRRRDZpdTJDY29Ya1NJdER5d01kQ0F2VWcyb0ZRdTB3OC1adGg1MW1MZnJhNlpMa1hFT0F2aFdGcWJNRDIwV0lzN0VUVUZSX056?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

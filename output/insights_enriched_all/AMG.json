@@ -2,12 +2,12 @@
   "ticker": "AMG",
   "name": "Affiliated Managers Group, Inc.",
   "sector": "Financial Services",
-  "market_cap": 5160129536.0,
+  "market_cap": 5179745280.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.771623,
-    "PB": 1.6851888,
-    "EV_Revenue": 4.081,
+    "PE": 13.80303,
+    "PB": 1.691595,
+    "EV_Revenue": 4.133,
     "ROE": 0.13672,
     "ProfitMargin": 0.21309,
     "GrossMargin": 0.55575,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.18456763250883393,
     "ROA": 0.0417,
     "PEG": null,
-    "EV_EBITDA": 11.713,
+    "EV_EBITDA": 11.862,
     "BuybackYield": null,
-    "PriceToFCF": 13.776762150597362
+    "PriceToFCF": 13.758807604678692
   },
   "technical_indicators": {
-    "RSI_14": 59.94073186954475,
-    "Momentum_10": 3.4244982944934117,
-    "MACD": 2.5510505476865717,
-    "BB_Percent": 0.6786663204443063,
+    "RSI_14": 58.63550519731181,
+    "Momentum_10": 3.52272553877397,
+    "MACD": 2.7861546361851595,
+    "BB_Percent": 0.6872413854406674,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329788256880528,
-    "QualityScore": 0.3770059853485176,
-    "SignalScore": 0.4705604443861809
+    "ValueScore": 0.8944365406084857,
+    "QualityScore": 0.3858779892349301,
+    "SignalScore": 0.5130891463602294
   },
-  "volatility": 0.0216339291817395,
+  "volatility": 0.0215806013855386,
   "beta": 1.079,
-  "return_6m": -0.0156677241952274,
+  "return_6m": -0.0234168284946335,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 7,
     "target_mean_price": 200.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 184.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 185.36
-      },
-      {
-        "date": "2024-12-11",
-        "price": 188.79
-      },
-      {
-        "date": "2024-12-12",
-        "price": 188.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 186.59
-      },
       {
         "date": "2024-12-16",
         "price": 188.48
@@ -537,27 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 182.29
+      },
+      {
+        "date": "2025-06-09",
+        "price": 182.85
+      },
+      {
+        "date": "2025-06-10",
+        "price": 183.22
+      },
+      {
+        "date": "2025-06-11",
+        "price": 183.15
+      },
+      {
+        "date": "2025-06-12",
+        "price": 184.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 182.01
       }
     ],
     "current_price_data": {
-      "price": 182.29,
-      "change": 1.89,
-      "percent_change": 1.05
+      "price": 182.01,
+      "change": -2.07,
+      "percent_change": -1.12
     }
   },
   "news_sentiment": {
-    "summary": "Affiliated Managers Group (AMG) a récemment nommé Thomas Wojcik au poste de président, renforçant ainsi son équipe dirigeante. Les résultats financiers du quatrième trimestre 2024 et de l'exercice complet sont positifs, avec une augmentation des actifs sous gestion (AUM) et une révision à la hausse des bénéfices du premier trimestre 2025, soutenant ainsi la tendance haussière du cours de l’action. Cependant, l'intérêt vendeur croissant en mai et les mouvements de cessions/acquisitions d'actions par des investisseurs institutionnels comme UBS ASSET MANAGEMENT AMERICAS LLC et Two Sigma Investments LP peuvent indiquer une certaine incertitude ou repositionnement.",
-    "sentiment_score": 0.15,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
+    "summary": "Affiliated Managers Group (AMG) a publié des résultats financiers solides pour le quatrième trimestre 2024 et l'ensemble de l'année, dépassant les estimations et enregistrant une augmentation de ses actifs sous gestion (AUM). De plus, l'entreprise a récemment nommé un nouveau président, renforçant ainsi son équipe dirigeante. Cependant, il convient de noter que malgré ces signaux positifs, des investisseurs importants comme Reinhart Partners LLC et Squarepoint Ops LLC ont vendu des actions AMG, ce qui pourrait indiquer une certaine incertitude. Globalement, la dynamique d'AMG semble influencée par des résultats financiers solides mais aussi par des mouvements de vente significatifs de la part d'investisseurs institutionnels.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Affiliated Managers Appoints Thomas Wojcik as President - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkN4WG1TbnFHdFdVRDRFUDhwNmQ0MzdWQms1a201WklMdnBNMWR5VVFROEpHU19odE5UckZRb01obFlJaEFYWnUxLW5faDV6blFZVDZrWU5xMkFhMW1rTDBCMjA0Sks3UUpNQThoSHY1NUsxTWE2alpBb2JYRGVqdFJnTlYzVVFGMHFjZ295ZlNTemNxTm8wakdDLVVybE5uNC1hVXpaZ3pMNHM?oc=5",
+        "title": "AMG or CG: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1UtWXZZS0FJWURwMnAyQ0lxb25MZmozN1NzWTlEeGM5N0dyZ0FBQldNWGhubTRmVUo2MV9jUEtDOEFVR1FfTUh3N0tGblloTmNicUVCTkhZSVZzRG5Beks5T1pnNVhxbUl5STl2MFBFUURwSDF4a09ndUo4WjR6ZXBn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Affiliated Managers Group Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXh0eUZ0S3loUlRKNnh4VEQ2cnpXUWxGZ08xaGxzYVAtY3Z2bS01VFNid0p3Y0xvNnVMYV95T0V2aV80RHVoNTc5X21mWmF0SnphNFBiNWpxYk5iZ1VDZ0lURVJGY3lHTXJ0QkpscTdUVjhSZXhRa1BSa0U0MHgyNlhEQXBpQ2FKZG1ieHF1QnV5Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Affiliated Managers Group, Inc. (NYSE:AMG) Shares Sold by Reinhart Partners LLC. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFBsRFo4X1pWRFBsdDFCcjlFMDQxb0xTTHR0S2dVSThQSHgta2xxTmtDSHUzWDJWY0k3NEMtalV2STZ2aWtzNDZsSjZrRWFTek56bmVMNnkwc21OdGNCNHJBUDVsZnNENVplYTdld2Nna2llcnNtZS1WMzFDV19SZjY1bXhMUGtoVlhUeE5Fck1SbWhBdXZaRFktdzQwQUhCczFfRFFYMGtEQzYweXNsV285NXNXVy1BdjFWMm1jM3ZocjFfNkRPbC1CNDBVdDZqMllPNTQyTE0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,13 +576,43 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Affiliated Managers Group, Inc. (NYSE:AMG) Short Interest Up 17.4% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelZYUXVObG56Sm5ZQVB0ZjRwNFRTZGVCWWh4dEk4ZEZVUmtRRE1YNnZuVzdlRF90cFFlb3ppR0NyWHM2bU9URXhfekcyWFNXNlJxU010bDJ5QUQ0ZkRlRnNVay1PcDJ2WGxNcmFwTWdPcU5mcHlHclBZZVhoY2FHNFgtMGFabHQwejNUSFZjRDlkTHh4OG9rVnlMQ2tkS3cxbTM3dExRYVc4ZVJERk9IOUZEeGpaMmExbmhvSQ?oc=5",
+        "title": "AMG Reports Financial and Operating Results for the Fourth Quarter and Full Year 2024 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTdfei1GQVMtdjhPZWVJN1FsY014dEFpRzBmSFJjT3E4elUxTWYxVDh3eXFTQmFmRmhxNW5KOUNZS1NjOVhZZ1ZFWHJJZVJLTHpEc1JRU2l2eHFya2pFbHZ0SWNOWlpfNWNiWTZ0LVh2UUVEZWp6c1hLc3Q2clRmQ21uLU5valk3RXpQOXBPZXBwY1Y3MjUxSFo3VHB0cm94SEJLcU5wYWFuMGdyVF9TZjZYN1NlSUJiZEJGNWVEaGlYRXBFTFFZQ0NfMmt2YXVfemQ0bm1TMTlFRURTamRwUzBSaUcyNVI5NzNBckhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Retire With Long-Term Investment Grade Bonds (Part 2): Affiliated Managers Group - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3k1blU1STNhbjRPYjQyQWJjbzZCLWRLRnVMenp1ckkybjJfV0l0MUkzeF9QdEVDYTMzX3hlQ1NJbWhZZFhOLWtzT2g4blA3VnRkNUxpaWhQbUNNcmJIYXd6bFQ4UGx2OXRsYk5vZkNicnRSTWtyOEgtczNYN3phV291UkxFUXNkN1VIX1NibnFnMUpZb2lYNUtPb2toVGxwR0lUQ1BUbWFqUHloYUVWUGtVdHlJSHN4WGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Strong Buy Stocks for June 12th - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9naEUzUFV6SVBmQkkyNC01OVJpODQwYXY0NEdRc0RwTTdFN2FoREZwSlJaa1Y1NEQ1eWpYamxlNFJydnNrMmhCVWJLWW5EQ216OWtKb2NyeV9ldW1aVGNHNzNtLTN3MDJiVG5jaG0wNmJOanVYYUxEeWVwSUpPQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Decreases Stock Holdings in Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2hLelNOOU5ZUnVSSndocW1ZcWJpU1FlbmktZnBSTkxkUUhPRFB3ajFlN28zQ1g3b1IyUHVWTm5fSTF3dUoxbktselhKUE51X242X1BBdnJFUV9yM1dWMEpiM0VfTzdKa2xqOF9kNVhNMmR5UmpCbmRaeWJsUF9rNWFsaDk4c2t5ZXBseDJfdzhUSEZ6a19kY2lQZEhHMGxTZ2VrTEJlWDUzY1lZT05abmxHRWticEdTTWFZd2JqUkxjX0xVWjJ0NFNFclJiNFdWWmc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AMG Q1 Earnings Beat Estimates as AUM Increases, Stock Up - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXQ1QTdrOVB6WXhYUTRJNk1EQ1ZIV3lKOXNvbXI5NmZtT2dzZzRNT18xMUtNdERTd1kxQTNncW9WZ2RFakRqTWUzR1dLWlBZdjBOdzh3aDhpdXpWRmFuanVLTGIwRFlTS080Y19tdFRtblRPX2pPT1pGNS1hYk4xZWduU3Uya1VOOFE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Affiliated Managers (AMG) Appoints New President to Strengthen Leadership Team | AMG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnFTNXd1eFYzQ0xEendUUlBVWE53c1R0TDYzX3VNa0hIS1VMeFhUSDJLaXpObmJUSzZ1WFlzdXhiMUktaEJuNUFKdXhvdGN1OEhMRVpLdVBXX2lqeWtPSGQ3T3M4NDg0WmFBdEVCTWZiZ1JpZ2h2ejltSE9VS19IUl9TY2xvWnQwd3lJT29CMkZxNW91RmkySlZHTTBLVU9yQy1JM2JsNEI1TkZna0kwa09OMUdDRFNmdjNKQ1hBdEd3eDZwckh5dFJWcw?oc=5",
+        "title": "AMG Earnings Alert: Top Executives to Present Q1 2025 Results May 8 - Key Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3NlbE5MNTY2VTg2cFBmUllHYmVJZlN6YUdneV9iSTZwTHVYYmY2Zl8yS2JYcHIxMlJwUVlXN256bWk3MDBtTkJsOGdaMDZuSXVZY1B2WkwtTWJsVmhteV8waFdjV0s5SlhIM1cxbXF1djVvSTdtUlduRW1NUVRFUU1KWUJFMVc0QmprSEZfaGFYcE1Kd000MktOUFlnc01LQVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMG Reports Financial and Operating Results for the First Quarter of 2025 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnZ6djRZMDRTRDZuclVjalJTMEVOSlQ5ODRjdEIzUS1ucVI2ME9iRFF2YU5DTHVXUUxwYTdvcFdwVHUtWGRHNHV6YVJoMXQ5REZqMnVHRHdiUzBJQ25PTlZEaUItZFA2bEdtbUlmaVktRmJ2eW5zNDZnSjZha0U4U2JHQUlCTi1JTFVESUlwS3JMX1JRS1lEd3dXMWhieDZtNkkxa3loUFlyVjFQdy05WE0zU0xpb21JOWFmSzhWWWNINEYtWWh2TXNPX3lMTkxwTjJxZ202M0V2eHoyX3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Affiliated Managers Group, Inc. (NYSE:AMG) Shares Sold by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOamFYSzNRMXpDR3l4NkJoSHZtQWx0T1ZSVkJleWlTaWpvd3NydDdvdE5uemJCMmVOMXIzYTY3aUtKRjBzSEwyRmV6MnRiVW9MTEFsSC1CVmdGMWdQVDM4R01iRU5jcWV4WjVBMXRZRFpzN3JhejN4bUhxT193aFUzTGo0ODBaNmFrYnBCZ05HeUZ4U1FkZ19kMk9MNDVXYjNjcUlUOVR0dFVUcmZERWxmQUlLQ2dnT0Zqa1JHSDVMUG9yc19mVTJMWkMtaVpPVWYwSFlLTUdQaGhqWFBwNEdB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,81 +621,41 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Stocks With Rising Relative Strength: Affiliated Managers - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZS1aN1hGdzliNG1ReXFlUFNGSHBpblpnaFhOUjNtamdPUktsM0NYSF8yOHZud2ZHOElNZF9yQzNTN3BMVHN3b1dkZHdOSmoyRUZlQWdRaDZrTTFPWkh1XzNtZVpWaFNSRm9kSzh1bERLX1ZtVnNrZmNqMzlEeXlwM0dJRFJLWTIxZkNBVm4yRGNWREEtbGI4RDltdnNONVdIWDk5cQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Affiliated Managers Group (AMG) is a Top-Ranked Momentum Stock: Should You Buy? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOay1DaUg4VGtGd19lVmZnLTFDVHlLeU5yWGxZMzBiSm9PVngtbEZsMmx4UzVHeG56TDRIZ1NjbzZ6cFhFYmdCSjVqeE0tTnlOMWgwNm5hTXZ5Y1RKeGhGam50V0hTZE9KX0FfdFVNd1ZZejBkbzJWOVBGSWlnUFRUazRIYWZFdVl3SjQwTE5TdkUxQlFycTNScDZRWE1EWWtrbjVqSg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AMG Reports Financial and Operating Results for the Fourth Quarter and Full Year 2024 - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTdfei1GQVMtdjhPZWVJN1FsY014dEFpRzBmSFJjT3E4elUxTWYxVDh3eXFTQmFmRmhxNW5KOUNZS1NjOVhZZ1ZFWHJJZVJLTHpEc1JRU2l2eHFya2pFbHZ0SWNOWlpfNWNiWTZ0LVh2UUVEZWp6c1hLc3Q2clRmQ21uLU5valk3RXpQOXBPZXBwY1Y3MjUxSFo3VHB0cm94SEJLcU5wYWFuMGdyVF9TZjZYN1NlSUJiZEJGNWVEaGlYRXBFTFFZQ0NfMmt2YXVfemQ0bm1TMTlFRURTamRwUzBSaUcyNVI5NzNBckhB?oc=5",
+        "title": "AMG Strategic Investment: Inside the $12.6B Verition Fund Deal That's Reshaping Asset Management - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM09BcDE2MXZFQjI3ZDJ2UjNXQ1ZUZWxCamhzbFZ1S0NTVlZnRVNRYm5oUFc4VkdSYmQ0SFhQQzRPU0NzVzJ5YVVabjFNMmRxTU92ZW9xY0I3ZDAzcEIyemkwMEVoNG1BVXc3QXFjVjd3UERtTERyMTR2OWtNY1B6cjZwT2p3cXdfNUlyN0FDSjZGa3FlWGpPV3RTOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Has $21.18 Million Position in Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZm0xa2pYRDFSUm5SeEZLU0dTazd0QlVIY2RRdnh4eG53Nk5oMnhsRS03Z3l0TDlsWUctWXRNNERGbDdLYVYxT2pLdXdycGN6YVN4TFB1R1ZYMU0wNXdlUEs5bGE4Mnh4U0pTMURFdTJQVTVjdHlsZURTcTBOVEQ5M1FGbFhYT0RUN3hUNWUteEJlUnFQMmlCZmkzbnBMN1k5aWtXTGRza1RvUG9USzgwYXM3M3FMWnlrNE1URG42elJNNmg0OVBSWVhWU21QQTRfLXVFclo3blhVSzFSdDZORg?oc=5",
+        "title": "Affiliated Managers Group, Inc. (NYSE:AMG) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelZYUXVObG56Sm5ZQVB0ZjRwNFRTZGVCWWh4dEk4ZEZVUmtRRE1YNnZuVzdlRF90cFFlb3ppR0NyWHM2bU9URXhfekcyWFNXNlJxU010bDJ5QUQ0ZkRlRnNVay1PcDJ2WGxNcmFwTWdPcU5mcHlHclBZZVhoY2FHNFgtMGFabHQwejNUSFZjRDlkTHh4OG9rVnlMQ2tkS3cxbTM3dExRYVc4ZVJERk9IOUZEeGpaMmExbmhvSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AMG Earnings Alert: Top Executives to Present Q1 2025 Results May 8 - Key Details Inside - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3NlbE5MNTY2VTg2cFBmUllHYmVJZlN6YUdneV9iSTZwTHVYYmY2Zl8yS2JYcHIxMlJwUVlXN256bWk3MDBtTkJsOGdaMDZuSXVZY1B2WkwtTWJsVmhteV8waFdjV0s5SlhIM1cxbXF1djVvSTdtUlduRW1NUVRFUU1KWUJFMVc0QmprSEZfaGFYcE1Kd000MktOUFlnc01LQVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AMG Q1 Earnings Beat Estimates as AUM Increases, Stock Up - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVJGNzlVbWd6WVk1SkRqNE14WE84cGQ1THpVenk0b2pmQXFCMXZXcUdSLWZHeV9NYmI1bHQtLXd5MUV3NTF3aWNCaktZUlJXZ1gzMTZRNlVZdmpUcEM5Tjl2dGx4dTZvV0Z2SWQ5MTdlT3p2NlZQVG5XZlVwYWktQThR?oc=5",
+        "title": "TPG Expands Digital Infrastructure Footprint: $240M Acquisition of Tower Specialist Peppertree Capital from AMG - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzFabzRySUpVY3BjYUNFcGVuWG1ZSjR1MjlYdDFELVlLRy02SUhHVlQwQlUxOGQtcERhbzVKTjVBTmJRLVA2MFVKUGZRdEpiN21GUURkMGVycnhLMVpuNnJnM21xeG5SbFhtNFJfa2dQMEZLQmV4c0FrNS1CWHBYak1MVHdhdG9KZmlzMm0taG84NXo2NGdfWDYxZXVkZ1ZEaDFB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "AMG Reports Financial and Operating Results for the First Quarter of 2025 - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnZ6djRZMDRTRDZuclVjalJTMEVOSlQ5ODRjdEIzUS1ucVI2ME9iRFF2YU5DTHVXUUxwYTdvcFdwVHUtWGRHNHV6YVJoMXQ5REZqMnVHRHdiUzBJQ25PTlZEaUItZFA2bEdtbUlmaVktRmJ2eW5zNDZnSjZha0U4U2JHQUlCTi1JTFVESUlwS3JMX1JRS1lEd3dXMWhieDZtNkkxa3loUFlyVjFQdy05WE0zU0xpb21JOWFmSzhWWWNINEYtWWh2TXNPX3lMTkxwTjJxZ202M0V2eHoyX3c?oc=5",
+        "title": "Is Affiliated Managers Group Inc. (AMG) the Cheap Asset Management Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdktXUG9rT3lHc01RWS1kejBRMVZIMjIyekRoWWU1U1laOF9oaWQ4TTVUaUU2WmxacXRZWXUyVHYtVEkzb2pGeVVsWUJqSlc4WE1zM21qQkdwRFRwS2s4bm9KQkFmMFlicTNQU2pnTWExd2RZNHlWSFB5MGl1TXdTSmY3c3hlQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Affiliated Managers Group, Inc. (NYSE:AMG) Shares Acquired by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnhzMk40eHdsQzA2YUNhQzNpTW5Ram1ObzVCVUg0T2VXd2JINkRoRFJnd0ZHSnNIMDRianJaY1VpS2R2N0p4VVBKR0Qwaml5TlBGUktIeFJVZ3B4aG9wWUlDdEFsZklfb0pxU3MxUkZIYWFaR09MWDNCSW9mMUhBVm9scnAxMmRQOWtvcFFtZl9kSVZtZjFtZlBYc2ItQmxrRTNJeHZ6RnJHckhLTXYyYmhRSVdkUi1hUjg0V1pXLUdKM25FSm83Tkw2ekVvTkNDbjhEN0FfWXZpQm05Z2tvaU9BeTJiUFdoR3ZENkNB?oc=5",
+        "title": "AMG Beats on Q4 Earnings, Buys Stake in NorthBridge Partners - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuajhCLWFZUXlrTTNmcmh3dDVRS3dhNXFZX3ZiUS1nYlR3NE5heDB0YUVCRXV0OU9vUHVxaV9fOGt2SmVYaXJDTzdDVHRhT2RuS3RTRG9BbHBPVUZhZEpOZHVaZk1GbWFUbGc2M2dWX0NaRmRDUG52dXYyT0o?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "California State Teachers Retirement System Lowers Stock Holdings in Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTllpazJORXlGNTJTTE5sdWdRY0lLaGc3MkQta0tTY3BSWTdRREVCM3RJRjcyQU92b2MtdzROQnNVbTVUczRURjZVcHY4TFdJcVNhNDE1aXkzenBjNVMzNGtTWnBzNTFsNHBzT3RWbG8tM1hxNGRhTEVaR3BRZ3RsOWVIVE84d2U4cjB2bEVUZXZmSVM3aUpzUk9kSFZxYUxlUVVrcTdzbldiUm5INHVKdE5DVmZtdi1ydVdxNDRBLU5PUUxJMTJSVjlPd0tUaUtOWkppOHdLYmppZUozRlhHY3JhMkkyZUhjUHExSkhmNlBFZnJyNmc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 43,898 Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQckpnczFhRnJCdEVhWjBkWXFhanFQTHYzRkhsdFo2ZHdwVlA0OFZJd25RQ0d5M0RSX0lFRzQ3bDZuS3UxSnExcXhZenBRNjBnZC1nWlZTOVQ3amFzaHZGU2RvaDZSYTZBX25oRThsTThnOEdVd3NxVjF1LVp1NFJlNjNCRm9IYm9mUGF2OTF6Q24ycFl5QUFZQWI0SHExWGlMLVEtTTVOcVdaV2lYa0VXYm51dC1BampBU3NHeGNkNXlZQ2tPdlY5dGpzZGlmWlhxSjU0a211OUxLX1k0Qll0OU93VFQ0M2piTjFydzRyaGNmNEYxQXo1UHV5V1dEU3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Investments LP Purchases 3,295 Shares of Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHRyamxjRVlsQUJTdmIydVBhYmN6OEpnaVpnU1NxaElGX2JCTmVybExGZElkbHdiSTEyUXZNOFZEN0haMEZrQjhwNElNWGhwejg1LUlUdVB4RDVCWk1yYmN0UmUwczdUczN6MDE3MVZ4blZHV3dpdnBXNlhXeWdJVTFsVDdoN1BiWVNBM1RobC1QaEx1V1NBbV9wTnk3akQ2LVdrNW1Hb1F4NFhvdHBvenRoWW04dVJvYnhkUGdoUldYVmZBc0FqNnFlUnMyMlM2NTl0ODlhZTRMUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wall Street Zen Upgrades Affiliated Managers Group (NYSE:AMG) to \"Buy\" - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTW5lZFBMOUNLckctZHRtRTVqRE9UaVF0SWY5cWl6dzU1cVJkbGFWTkFuMVBBM25wS0tYR1BUeE5nS0lXcU44YXdZWkVEX0xib0Q5N2toSHFyTTFVQjRjaDV2RDloVG1DNkZoVEtXZ3NLeXpEYnExZ2ZfSWpnNUl0ZXlObk5GZUN4RGpmZDhUUXljUkdBZm1OeVVpTHktX2pzQUFjcExSSmktR3NfdTRPR2ZWdEVIRDN2MFpaVkVJQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What is Zacks Research's Estimate for AMG Q3 Earnings? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHFCT2FYRExSZWdoNEdpa3ZBdXV4dHo1ZDkyVHNablZVYUpDT05yMHJXUHJhQ01YZzZXa21SbllXM05iQ2sxWC0xSmpqRFJkX2VIbFU2eGNfSHM4TVJWZW1LTzBzMlNsbGZxSm13TmZRc21jS0luVTNHTUQ4Nmg3cFB2Y3RLbjJUdFhVX25LalhwLU4xcVZvQm1HcXVXak9SOVI4NzRpeHRzbEp1LUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zacks Research Has Positive Outlook of AMG Q2 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWNnOGhqbW5FVkZjcUtfcnpBVEt5T0hXV1VYZ1BaQUNxRi1lU1VlMFhVWkl3TDlZbHBpSGd0dHVCWFdmbTB6azgyNGlZUHdSR294c3ZUYVNybHRlQjdsYkpWUnJPUlk1Yy12QXBvV2ZzWm85Nng2SGRyVUswVTJfcWdycGpZa09udkwxbWljR3R4NllVUTdwU0xSRzFQNDlWMmFkUk9IRHNqMXpETS1N?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $25.05 Million Position in Affiliated Managers Group, Inc. (NYSE:AMG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOVJwVllPNnllZ0ZKV2pOQTBPSkg2ekZJdnpndHNJSENUdXNBeFg3OHFSTTRqUlRyWUxtNG1HU051dFRYSjN4VUdrREt2SFljQ3A4ZElkbDNab3RQV1Ywb1Z1VDlFTWRBc0tlNk5wVVJqQnI4eTE0UWlwUDczeUdoRVZhblFUZzJzTFZpUmpRalhyRTBweFphcHVxbHdpSl9zRjBJMWhMSEd0Nkc0RmJTVk9ZMThSZWRYSk0xQ3d3M2lUVzNUc3FKR0k2V0x1MlpINDRHUERZa0lPaFc0MkdUOXpkeVBpNm54UjByVnNzTmY0dmxWNlhhbU1xVXlxUmlaQ2QwNzljcGxuS1NXeWZnZHZnVHYyZl9Ja3pOdg?oc=5",
+        "title": "Affiliated Managers (AMG) Appoints New President to Strengthen Leadership Team | AMG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnFTNXd1eFYzQ0xEendUUlBVWE53c1R0TDYzX3VNa0hIS1VMeFhUSDJLaXpObmJUSzZ1WFlzdXhiMUktaEJuNUFKdXhvdGN1OEhMRVpLdVBXX2lqeWtPSGQ3T3M4NDg0WmFBdEVCTWZiZ1JpZ2h2ejltSE9VS19IUl9TY2xvWnQwd3lJT29CMkZxNW91RmkySlZHTTBLVU9yQy1JM2JsNEI1TkZna0kwa09OMUdDRFNmdjNKQ1hBdEd3eDZwckh5dFJWcw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

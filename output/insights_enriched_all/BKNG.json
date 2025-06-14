@@ -2,16 +2,16 @@
   "ticker": "BKNG",
   "name": "Booking Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 182646259712.0,
+  "market_cap": 172333580288.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 34.986755,
-    "PB": -30.029129,
-    "EV_Revenue": 7.575,
+    "PE": 32.980476,
+    "PB": -28.333609,
+    "EV_Revenue": 7.428,
     "ROE": 0.317925,
     "ProfitMargin": 0.22582,
     "GrossMargin": 0.86627,
-    "DividendYield": 0.69,
+    "DividendYield": 0.7,
     "DebtEquity": null,
     "CurrentRatio": 1.217,
     "QuickRatio": 1.151,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.3114828129041518,
     "ROA": 0.17963,
     "PEG": null,
-    "EV_EBITDA": 21.465,
+    "EV_EBITDA": 21.049,
     "BuybackYield": null,
-    "PriceToFCF": 24.377894170479973
+    "PriceToFCF": 22.98083815302671
   },
   "technical_indicators": {
-    "RSI_14": 72.477520522775,
-    "Momentum_10": 5.233234542009713,
-    "MACD": 159.94976837275317,
-    "BB_Percent": 0.911655894818476,
+    "RSI_14": 47.209389256655925,
+    "Momentum_10": -3.7453880915938527,
+    "MACD": 97.22653119360892,
+    "BB_Percent": 0.154120691764179,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9449531407050478,
+    "ValueScore": 0.8875868259763153,
     "QualityScore": 0.3750969086605001,
-    "SignalScore": 0.3941694405686339
+    "SignalScore": 0.5940537149633118
   },
-  "volatility": 0.0204901486870824,
+  "volatility": 0.02047290874535,
   "beta": 1.414,
-  "return_6m": 0.0611438021472541,
+  "return_6m": 0.0169112714463786,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 37,
-    "target_mean_price": 5543.715
+    "target_mean_price": 5570.4717
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 5149.6
-      },
-      {
-        "date": "2024-12-10",
-        "price": 5185.33
-      },
-      {
-        "date": "2024-12-11",
-        "price": 5293.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 5268.93
-      },
-      {
-        "date": "2024-12-13",
-        "price": 5227.61
-      },
       {
         "date": "2024-12-16",
         "price": 5152.13
@@ -537,112 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 5614.61
+      },
+      {
+        "date": "2025-06-09",
+        "price": 5539.41
+      },
+      {
+        "date": "2025-06-10",
+        "price": 5487.98
+      },
+      {
+        "date": "2025-06-11",
+        "price": 5466.28
+      },
+      {
+        "date": "2025-06-12",
+        "price": 5461.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 5298.38
       }
     ],
     "current_price_data": {
-      "price": 5614.61,
-      "change": 53.69,
-      "percent_change": 0.97
+      "price": 5298.38,
+      "change": -163.57,
+      "percent_change": -2.99
     }
   },
   "news_sentiment": {
-    "summary": "Booking Holdings (BKNG) fait face à des vents contraires dans le secteur du voyage, avec un ralentissement du marché qui pèse sur sa valorisation. Malgré cela, JPMorgan a relevé son objectif de cours à 6 000 $, soulignant son avantage concurrentiel. L'entreprise a annoncé des résultats trimestriels solides, mais reste confrontée à des incertitudes sur le marché. Les investisseurs devront surveiller de près l'évolution de la situation avant de prendre des décisions d'investissement.",
-    "sentiment_score": -0.15,
+    "summary": "Booking Holdings (BKNG) est au cœur de l'actualité avec des avis partagés : certains soulignent sa force de croissance à long terme, tandis que d'autres mettent en garde contre des signaux de vente. Malgré une récente baisse de plus de 2 %, la solidité à long terme de l'action semble préservée. L'annonce d'une importante expansion aérienne de Booking.com sur 57 pays attire l'attention, mais les incertitudes du marché du voyage pèsent sur le titre. Les analystes divisés et les ajustements de cibles de prix suggèrent une période de volatilité à surveiller pour les investisseurs.",
+    "sentiment_score": 0.05,
     "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Booking Holdings: Travel Is Slowing Down And Will Crush This Stock's Premium (Downgrade) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tXSTVoLXQwcmNOSEJBM2x4bGhLNUVEZDcxcG9Xd0F3SXZMVmp1R09sZFhUeUtoVy1YLTY3bkJJazMyNnNNcXRaWk5QZmNBcTdyUjNlaWFiaW5QTDROYkNNMGZOS0RqR1lQdjc1MFV1YVY1VVZRUXB3cFpJZkhuX2hmbFFiS0hZZXQxbFFvdG1IN1JZSjl2TTBfS2lOMnNJNnRjVnJSX2J0OU0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Noteworthy Friday Option Activity: BKNG, COIN, BUR - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakRhY2F3dXhjRUJVOE01UjFSSWJfQUZ4bmRtWjRoWl96UDBIaFNQbnF4SXFIRENqdHZLaFY3d2RvSEtXSDVRRTZEa050cHpuWW5iZTBhRnFwM0J1RVctandMdWhJR25CUVVFLTNObGVtRkxZc0FjQUdTd1RmN0NaaDBaY19JZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Booking Holdings Inc. (BKNG) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFN1c3RmbnVoWjVLMmk4Uks2cXRfNFRKS0tzRE45UXNPdHJuTGpVLThaVEhBd0ozTXJFOGNLMEhTdU9DaVZ4aGVpLWhlV1c1WE5LMXJwUTlXLWRpcXBndTdDSk5hTXZSVlRVeS1aMUpQeHRndGZVZDItNUlQUUlESFdMLUlJOGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Booking Stock Outperforming the Dow? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS25WOU14eGZFdkNnYmdzdDVsNm0zN0FaOGYwdl9oU2ozS19HSmF1cks0YzNLdnhHYzBvaG5jWTlBM2ZqRUw0d0xGS01DbnlEUnAwZ3BZOHJWNkRFMTZ3dmVyY0dMZmk1TUFhTG5VbWxlQ3h5LUdvaFJPNENZQTZaRERMZDdWWVdSWTRkck1XU3Y1akwyMktn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stock Of The Day: Booking Stock Holds Steady Amid Travel Market Turbulence - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRG9qMFBnQWprdXNMVUd6YlNueWhNLUJ4aVVOVUxsWEJGN0dhNUNhMFJyelhVMGNXdW91dmYzVjBvQ05vclp0ZFM0Um15V1hPU2hJVjZ6enc4bXlwTHhCSlZqWFRyUGNuaEJ6Z2ZfZ3hDclBHb0pmWUpDeGVUSWYtbWJYc2M2QXZtOVJFSy10VE5fYTYyM09LUmpYNGhDc0tEWUpHeldiNVRhVW8?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Booking Holdings (BKNG) Price Target Boosted by JPMorgan Analyst | BKNG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDBoZElTTS0zekVycE9fbnhhbEFiRVkwTUJabS0yNERZb2NMVnd6Y05sam1xZlgxdnFXbmhiaFktaFlfNkcyWU1XZW9iRnVOSHQ0U3pFdjhZd1JsUWt4NnZiMHBsWjRlRFJJY1o3QVQ2ZEV0NnEyUmRvMmg3SVpnTHQyUEVydUJEMExrcWJib2pzb1hQM3dYeHVacHJfN1haQ08tYVR0c3lRQ0RtZGM1d01QSXExaW5CWWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Booking Holdings: The Ultimate AI Agent For Travel (NASDAQ:BKNG) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTi1BcUJkc05nRG1GUGFTVmJVN21TVnI1THFIV1djeW16TTF4LWJXeWZkbjVXd2pkYXdFUkhBdHZpWUpKUHdfLVhtNU5xOFBKR0tkM0tWdWpDVFNSMkxJVFJCOGlrOTI4eDF5S0xpeGoydTFhYmw2YTc1Wk9TY2pXajA0WVk0aWREUjBfaU5DTjdycTBj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan raises Booking Holdings stock price target to $6,000 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUdpOUczMUxmYW81NmQ5dzJFdUozWHgwdlRuMEtka3N1Mk0yYnlTTDBnVWlheWdDS010WkVpX2hiYVZsYVJiai1TNlMxSzhQUmo4ZVRfMTNpeEFVM3BhTUl1WDRySWxDcHMxbUQyTURnaWJMT1lqN3lEN0dQUmJubTEyLWV0NFljSDZ3cEVObTh5eklia3htdDNsU0RIbXp6ZDB3aUE5SnhfcUZxdThncVZEczBGZHhKUFZr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan Raises Booking Holdings (BKNG) Price Target on Strong Competitive Advantage - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcE9KRWw3VFUtZXA3Y3ZXc1k4ZU52V0hFdDR6aHVua2Zlc2hpMEpGZmNRVmRWcGJldzRFOTRiUGtjSFJuVmRpZGFTQ3NVMldGZXRLeFotYjNqSTRMZC16YzBlZ1l0c1R1MEdrZHZWM2kwRnNxNXd5QmxWd1dWMDllNmlGbE9QM2lSa3FlYWRPMW5IOV80T1dUSkk3dnNIS3o4S1BiVHVSRnF0TEpqUXBDZGZLTTdsTXZmSFJDRHBUcU9jQmfSAcwBQVVfeXFMUG9DUmxIcjdfUUEyRHlQamxDXy1zVEJlUllhMHBqTXVWODlubU9kdjRtWlNqQUdzbFFGeFRoZjZTOVBYdW5NdUZuSE9KeFlnSW1qVUNtV2tKeVl1blBWU1FvSVdVWnZZNUFYT1lSSWVxSEtXR2N0bFZUcWpTUU53TDI1OXc1M0pHN0FxdERQWTl0aHNoQXIzeE1UY1hlX1Y3YlBhVmhyX1lrbnN5Zk56QWhJcFVreGdtZ1pBc0ZiV2t0YmVKOE5wcUpEcElV?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Booking Stock Outperforming The Dow? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWZ6NHJnS3ZFNGRnWDI2UklLZ202VDN5dWNmdlpKX0hna0c0XzFsaWZ0QTFSS0pFbF9yajJBZF81eFhrN0xocjRQMEgtdTBNWTdZTTJXRF9qOFRIZE1zS2lsMzdrRWtUTzlyQzg2OWlxcEN1eXI1dE5NV282QWU2V0I5RUR6b1JqRWpB?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Why Booking Holdings (BKNG) is a Top Growth Stock for the Long-Term - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2J3VzJFWlhUSFNZSVlvWWQ5MXJKMXVuTkZVWkJHeGN2NHJVeEtIQnViUExNQ0ttLVNhQjR0a3dmYTVVMkdaQkozZ05sYzl0bTNwZkNfVHNuNHRUcUZIWG1hZENIcWNERGxRbURaUU8tN2E0a1lYc3o3T09TMFpaM0dNVzVVamtCaGhSRVV0OA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Booking Stock Falls Despite Earnings Beat. Travel Firm Facing Market 'Uncertainty.' - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1Q1c056dG1USHNpbmREUTNkc1U3VXJPTmRRYWNBQjVzd2lYdEplNDRneUtMeGVPRUFzM29BYUlDWXpqaTVsWGthdEpjQldSZ3h3VEpqVG5yMzFndFUwcFpmRENXYWVfbEc3UXQ4czhYRlQyakI1Vmp1SUp2MjdUN2IweTNQYzdnUFE?oc=5",
+        "title": "Booking Holdings (BKNG) Stock Drops Over 2% in Sharp Sell-Off, But Long-Term Strength Intact - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPakF4YmNLclJQUFdZeE5HMW9nLWNMODVBWHdiamtwY2dfYVR1NUN2U0ZqcUN2MmRUSkZBcUFUWGdjNUhhQU8ydUNVNFIyRTVQVWh6b2xJMkxNZUFtSUJLRjVUOHZYS3pKNWhTekl0elp6Mk1KTmNyUHVWbmNPZXlWNUVIRW9RTG5DQUtvYnNWZjNhR1BEVFdzS05jSlRKOFVoazluaDBNTzVCWW9DZlRVSWVpR2k1MGhoYUJZc1laMUxwS2pxR0E2Ulh5RUxYeVdYN3JVMg?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "ABNB, BKNG, and MAR: Which Travel Giant Deserves a Spot in Investor Portfolios? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTDA2ODhBTm11Tzk0QTZzZm4xTV9xdlQweXVKX0hwQzZ4WDV0MEF4UnFKOWpMdlJfRjY0bmRUc2swQ1hNU3d4X3hUa0cyWDNhVXBaaW5UZW1JNzhQTGdpUWpNTmtwbkhHd2F4aWJZSUllVGlXWWdCM2dDZkU?oc=5",
+        "title": "Why Booking Holdings (BKNG) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1Y4RDJyLVJybUVjOTlLSGFQQWhOaEpiZ3dTNXI0UVNSTVdCMzl5dzY3RlpjbVlaVndKRlhMczJPNFFWdDFiUkxsaGxZNl9WakE4MUdac0VpQkF2MWJ2RXl1ZDdOWUdES0RqaEJZNVNLcTVpWW1kVFpSQmVZUmR3NA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Booking Stock Scales New Heights; Trump Tariff Pause Isn't The Only Reason - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUFmWDdfN0lpNHpkSHJ6SlZ3Z2t3NVh0X2JNbWNRMG1saVJ6MWhHcHZ1M2NLRlNIWVp2NlJCdERTdUZpSXNCVllkUU9KV1praERtU2tIN2tPMl9lczFpZmtDMEdLaFpsV1ROWk51TVlaZk16X3dGeFJ1b3lmR096dmZZOEczblh5bkM1SDZ2T3dJVTdRMGJtZGxDUFpvdGM?oc=5",
+        "title": "Booking.com's Major Flight Expansion: 8-Year Deal Unlocks Access to 57 Countries - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2hXdXVlTjlXbmhHTXB0WUZ6MnhpYkpHWlotSVgyQ2MxSmFFOUxmcmNta2lOb1VWMDF0aVI1aDNlcjlleHNWelVTMTFxVVlVVDFmR2dfQkttdi14bG93MVQzQjlMaGxIanZqZUxSMEtBc1R0NE44OWxHWmRGMjl6b2JDMGlZUEFlYVl5RjNaT0tNUXpnMFFJd2J6cm1YWk14d1VLbA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Booking Holdings (BKNG) Extends Partnership with Etraveli Group | BKNG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2ZpTGU0SVRjTk95blZnVDZYaFBkREpIM0pqZDdGVUt5UTN0QllXUWkwRXFyTDN0RmRrZGhPdWx4U05PN1B1LWRERV9tMlo2d3JSLU8tV2ZZQ2p1Z1NIb1hzck05WElKOVpoeUhVTkhIY3ctT0MtdG9Sc3ltRFF0cFJoYzBoZnFZcGc5eGJ6a2wybm9nb1JMbm1wdjhlSzhHZ3hsRE1jTXFaUXBhYVhtUGJtblVUZkk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is It Worth Investing in Booking Holdings (BKNG) Based on Wall Street's Bullish Views? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1UyOWdkeWM5YlQ3YjJVZFk3Zkk2THB6NUNxOVpTZ280NGk3SzJjUDBERm8yOTd6Z0ZZRkZ3TXU2U2dBcU5WTTBFdE44VHFZSV9ick82VkFLazF0TmhzX2FuaVRjMFc2RDFQU2VlRDJabDB6TEZQVldNOUdZMlRJaEp5U2ZOeVlzU0ZwVmppUXI5YkFzOWdVNkIxSV81Q21La1MwOXBHcjlqNms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fund Update: TRILLIUM ASSET MANAGEMENT, LLC added 3,622 shares of BOOKING HOLDINGS ($BKNG) to their portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTdRd0tLaFU4Z2ZPd0o0OUlZaDRkN3NfcVAteXo2Zlk1YWtnVjBNY3IyT1hNSE1ibXNrcUJic1U0QUJKUWdvUzg1ak54bkZMS0tINzVZYWF3QkdVdU8xbTV5TURxVFVDNHp0c2xNREVyMmdMS2RhVm1sblhOcFJLVElpV1RQb3lhMHNKbU04bWV6SXROQ2E3ZEFlem0wRXRobVo1MzhGUUxMcFRiSmFnOHZjSGJhZmV1bVZn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Booking Stock: This Travel Titan Quietly Prints Cash (NASDAQ:BKNG) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXh2aHlDUWU5SHlIcmNQd0x2SG9KbVZsVGVHbjVvaEdWTUlYWGZlZkoxejAwRUZGczRPQmZnanU4OFU0cE5GaklLUUo4enE2a3pINExyV0w4T25RUkVMVHZzVUJhVzhidnJ4d1FmODBTdHdHT3dpQWVjS3I3Y00yM1R3R2o3WmJodWVOTW1DY05yMXp1am1NNy1MMkZGdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Booking Holdings (BKNG) Stock Sinks As Market Gains: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWpuUzQ2N3RUWVNpbS1tMDV4SW5OUTV2NnZFWWRrUjV5dkVyeXUtZWp4Ni1pV0ZDQ2hCTW85OTFyc3BhTDZyVU9YRl9EX24wZUZVRUU3V3E3WW1saFVnNzQzMjd5SnZzUmRFRWJWV1U0TjUxYk5JVkh2MS1HUzZRSEhxUnIzMkE3b0o0QlE5Wi1TcGY0c0lVZlhleHdVNmQwcDNv?oc=5",
+        "title": "Stock Of The Day: Booking Stock Holds Steady Amid Travel Market Turbulence - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRG9qMFBnQWprdXNMVUd6YlNueWhNLUJ4aVVOVUxsWEJGN0dhNUNhMFJyelhVMGNXdW91dmYzVjBvQ05vclp0ZFM0Um15V1hPU2hJVjZ6enc4bXlwTHhCSlZqWFRyUGNuaEJ6Z2ZfZ3hDclBHb0pmWUpDeGVUSWYtbWJYc2M2QXZtOVJFSy10VE5fYTYyM09LUmpYNGhDc0tEWUpHeldiNVRhVW8?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -651,11 +591,71 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Booking Holdings (BKNG) Stock Moves -1.52%: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbkdZUHpxUDZ2QnpraVZjdUdmSXpadlRqQ3c1bE1sN1hJUXpjbG5iMUhIcnp3M0ZRTGZzMHpnM1VuZHY4c0JkQVdkU2F5bEdETTRCZmllVmFQZHk3ck9FcW5yWHpfNUQwamxlMHVFelNrSzdCX3o4ZDBuQUxSOXJrOEVpZXhhQnU0QnJKVjMwb2I0bDdI?oc=5",
+        "title": "Jim Cramer on Booking Holdings (BKNG): “Think Twice Before You Write Off the Travel Bull Market” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWkhSYVV2aU5iVXEydUs1bl9lejY2Wmo4bHlNanNkTDFMUkxBemI0Q3E3cFJDMmZ0TTk2MXFDNHFKc283ZXdRY3pWVHNMdk43TmNRdHBEY2IzZUgwd1Jfa2gyUDdtY015RFZJVDBsRXV1eXJqRC1mM1FiTnJRdjBjQUNRallKTl9VazZLX1BGRThsWkxydlFjbzltcjhsQzJHbEY5dW1EV3ZQZV85UkV4SFctMmYtZjBya3NleTZOSXVRY2JnMC04eF9TVkFTVDhNV2Y2OXp2Vms5MW9DVWtfNVZIaXFHM3M5NXBCdDh0SjMtNzl6ZlBXRFhoWkFkN2Vo?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy or Wait on Booking Holdings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2ZrWEtOcWlDT1dPMEhYcFdlMDNTd3BMRnBIeWNKcFphY2RNVjh0cGtDMjZldEk3T0E0VTc3RTh1X19EYjNuRVRYY3dWcmhJY0FLUkItVmhQRXo1OXoyZlRmeDJrelBWSEJVemZZNW0xRXNMUlZXX3FhRkhTTXR4U0gwM3NNYmNlWWJ1NjdnaW1zS2dJRjRJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Booking Holdings (BKNG) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEE5MnlfdUtBX21JdEk3aEF0NnhhLXIwU1Q0SzRKV2VSd2t3VnZGeWw4Y3lEa1BYMjdIbERoZE1LUmw0MmJ6QXdIbkpZRDYxS0xBMUtBR2Vjdm9iQXRjYlQ3UEFZQWQ3Sm8wRUpHbFU0czNTMk12blZrOTdOeS02bU5fc0RDMDE2b3VCRkoxbjF4Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ABNB, BKNG, and MAR: Which Travel Giant Deserves a Spot in Investor Portfolios? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTDA2ODhBTm11Tzk0QTZzZm4xTV9xdlQweXVKX0hwQzZ4WDV0MEF4UnFKOWpMdlJfRjY0bmRUc2swQ1hNU3d4X3hUa0cyWDNhVXBaaW5UZW1JNzhQTGdpUWpNTmtwbkhHd2F4aWJZSUllVGlXWWdCM2dDZkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BKNG Virtual Meeting Announcement by Benchmark | BKNG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzlMMU9PT3I5ellfUGd5UzMtOUVNei16UUF5VWhJWTBEdVMzbWZGeVBVU1c0bzFUZlp1R2RHSGhmOWk0bGpuNVI3UjVyazJpOWFNZHE5YVljc1JYalV4S25CbDdXdGtUMEx0UXBiTmtfTEFKRnR3VHB2LVJBX0NJVzNjeUpZblktdFFDMDhzTHpYajFIUy1uOFdTTS1GN25LMmpJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Booking Stock Falls Despite Earnings Beat. Travel Firm Facing Market 'Uncertainty.' - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1Q1c056dG1USHNpbmREUTNkc1U3VXJPTmRRYWNBQjVzd2lYdEplNDRneUtMeGVPRUFzM29BYUlDWXpqaTVsWGthdEpjQldSZ3h3VEpqVG5yMzFndFUwcFpmRENXYWVfbEc3UXQ4czhYRlQyakI1Vmp1SUp2MjdUN2IweTNQYzdnUFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Booking Holdings (BKNG) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUNhMm43UTVJZ1pINk50TGFqYndGTW5pODFYQjk1UFRyVkxtMWhyb0hpVzEteElPUnVGUDUxZXNjeDRUd3pTOGhCbUE1a1VGMmtDVllLRFF5bU9RY254UGtkQldOQzBnV3p6S1p4TE1LbDVSOXNJRjVBd3dLcl9DOGgweDRTZTh0YmJtQzV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Consumer Internet Stocks Q1 Highlights: Booking (NASDAQ:BKNG) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk5icno4ZVYyTkY2dmxDN2dDNnU0YVQwQXZLN3BxTzJfTm5mdVBBSVNnaVdUUHZ3OFZzQXZ3N0tYbVowNzhGWWdiQ01NMHl1RXhULWxqWXVFN3V5czFVd3IySnBUU2w0TDRpbm5qbGpRSURfbGlkMUJLUWlROFVvZ25BTGU4OG1HRE1lNg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Booking Holdings (BKNG) Sees Price Target Boost Amid Increased Reservations | BKNG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWpKVS1TU2JuVEFRTk4yaG9uTnE5eXItTVJPRTNnZm5vY09CaUltRVhGSzBKYWVUcjZoT3VrRnBYenJaSU1Sb082dXVJQlJBV3hycFVQYTA3R0xINDVGbTYtNTRwWkgxOWFjcTlLVnFRbEdUQWZId0FxeUJuS0FwWmZieWFyTFkzX2gzUW1mY2VIaHc4a0t6MkUzOWY1VHdoaXZYaGhhUWxTdzhyaGFMdGRJUU9SY3ZmWW1lZF82d0FsLVlvaC1V?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Booking Holdings (BKNG) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzRfYU9lMGJTNEw1cXg5VTJuYTFSWkdhWFBUU194SVRFb3VVcHlBUTcySXFLY0JLT01OVUk5NlBjY1NlY081dWRFbUpwbmFfOUtDVGZ3MWVGcG1UbHBfMHNySUxlMU5EdTlidW9qVnN3UnJKdm9KenlDUlRtVUtqWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To YieldBoost BKNG To 7.3% Using Options - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEQk53OUVpYmdRU1MyM0JOTmROQW84UjItbjJTa2FtYUUzTFRKZzloN1JDQ0ZyNDFPS25HUGM3cFFEclNhZFh3M3I4UnA3cWZQOXJsRnJzTk9LcTZjSll5c2lqNGczR2w3NWN1M3dRMlgxVWJ0ZnhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Booking Holdings (BKNG) Sees Price Target Raised by B of A Securities | BKNG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVlaM0dkM1h5NXhYaTdzS0F3elZ6NlliRDBCc1FpUTk1RDJZdElSOGswRzhSU0YySEcyanRhR1FuQ3dEZ045OEdiV3R3dERyMDVIb3VHMnkteTVabFBoaGlMSWZadmxJR0wxamFPWmhFOTlkbFdLNkl2Um00U2xZam9MbjRRX2xFajFCR214WVJGSXZXbnNPUEpXWTQ3QW9XVWs0c25qMW5HMFdJdE9EWjN0UXlveG8zMUg2cGl1QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Booking Holdings (BKNG) Stock Sinks As Market Gains: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWpuUzQ2N3RUWVNpbS1tMDV4SW5OUTV2NnZFWWRrUjV5dkVyeXUtZWp4Ni1pV0ZDQ2hCTW85OTFyc3BhTDZyVU9YRl9EX24wZUZVRUU3V3E3WW1saFVnNzQzMjd5SnZzUmRFRWJWV1U0TjUxYk5JVkh2MS1HUzZRSEhxUnIzMkE3b0o0QlE5Wi1TcGY0c0lVZlhleHdVNmQwcDNv?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

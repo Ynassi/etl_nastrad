@@ -2,16 +2,16 @@
   "ticker": "GIS",
   "name": "General Mills",
   "sector": "Consumer Staples",
-  "market_cap": 29970204672.0,
+  "market_cap": 29428080640.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.028571,
-    "PB": 3.2348247,
-    "EV_Revenue": 2.229,
+    "PE": 11.810988,
+    "PB": 3.1763105,
+    "EV_Revenue": 2.234,
     "ROE": 0.26834,
     "ProfitMargin": 0.13024999,
     "GrossMargin": 0.35377997,
-    "DividendYield": 4.4,
+    "DividendYield": 4.38,
     "DebtEquity": 149.142,
     "CurrentRatio": 0.667,
     "QuickRatio": 0.294,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.06070845083212025,
     "ROA": 0.07201,
     "PEG": null,
-    "EV_EBITDA": 10.411,
+    "EV_EBITDA": 10.436,
     "BuybackYield": null,
-    "PriceToFCF": 25.162807910535932
+    "PriceToFCF": 24.593432730220226
   },
   "technical_indicators": {
-    "RSI_14": 49.82331490410098,
-    "Momentum_10": 2.643419278924956,
-    "MACD": -0.3901338985213058,
-    "BB_Percent": 0.744596810086738,
+    "RSI_14": 42.55887573882036,
+    "Momentum_10": -0.8661950249625051,
+    "MACD": -0.2726971469518702,
+    "BB_Percent": 0.289126933461928,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9333868286282332,
+    "ValueScore": 0.890988060751382,
     "QualityScore": 0.4661224473296285,
-    "SignalScore": 0.5662932185114213
+    "SignalScore": 0.6226015334540811
   },
-  "volatility": 0.0155696598117847,
+  "volatility": 0.0155529969514482,
   "beta": 0.017,
-  "return_6m": -0.1415443971318877,
+  "return_6m": -0.1776752282672562,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
-    "target_mean_price": 61.55045
+    "target_mean_price": 60.77773
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 65.89
-      },
-      {
-        "date": "2024-12-10",
-        "price": 66.14
-      },
-      {
-        "date": "2024-12-11",
-        "price": 65.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 66.08
-      },
-      {
-        "date": "2024-12-13",
-        "price": 66.69
-      },
       {
         "date": "2024-12-16",
         "price": 65.6
@@ -537,67 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 54.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 54.8
+      },
+      {
+        "date": "2025-06-10",
+        "price": 54.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 54.23
+      },
+      {
+        "date": "2025-06-12",
+        "price": 54.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 53.56
       }
     ],
     "current_price_data": {
-      "price": 54.77,
-      "change": 0.24,
-      "percent_change": 0.44
+      "price": 53.56,
+      "change": -1.18,
+      "percent_change": -2.16
     }
   },
   "news_sentiment": {
-    "summary": "General Mills (GIS) fait l'objet d'une attention contrastée des analystes et des investisseurs. Alors que UBS a récemment ajusté à la baisse ses attentes de cours cible pour GIS, l'action attire toujours des achats, notamment de la part de personnalités politiques telles que Rep. Robert Bresnahan, Jr. D'autre part, des vendeurs à découvert ciblent le titre parmi les actions à dividendes bon marché. Malgré des signaux mitigés, General Mills maintient une position de défense avec un rendement attrayant, mais des perspectives incertaines pourraient peser sur le cours à court terme.",
-    "sentiment_score": null,
+    "summary": "L'actualité récente de General Mills (GIS) met en lumière des signaux mixtes pour les investisseurs francophones. Des nouvelles comme la réduction de la position de Tobam et la baisse des objectifs de prix par Jefferies et UBS suggèrent des défis à court terme. Cependant, la vente potentielle des magasins Häagen-Dazs en Chine et les acquisitions récentes par Rockland Trust Co. et Simplicity Wealth LLC pourraient indiquer une confiance à long terme. Les investisseurs devraient surveiller de près l'évolution de ces tendances pour évaluer le potentiel de rendement de General Mills.",
+    "sentiment_score": -0.4,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "UBS Group Has Lowered Expectations for General Mills (NYSE:GIS) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGFTZWQ4OGZOMnh4RGZQaU02TUtIVDNZLVQxTzBOSk4wN1FGdktCT3U2bXkzX0V0RkZmOVNqRW55RFdnYWpEZ3E3SlM1S1NibFhtOTR5SDdDbjFMOHlXLWJVSGYzeHlWaWktc1VTZXFxQ19sdk1OeEJRbzBUbFFqQ3BnMlk4STY1TUFUeURIdVF3RmJXTzkxQ1R5WTBSMnJveWF1QmhfcWpuMG5oby1idk4wejBiX2VScFVXLXVwQ1c0YzA4?oc=5",
+        "title": "Sombre Fundamentals Suggest General Mills Stock (GIS) is Stuck in a Value Trap - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnZob2pFTmR2OWZUazJqZkVMb3NMel9xekNWUVV5UXllelJwOXFwWHJXdmR4eDhaTHJKUU9YUmtZdWxvOExFQ3Vud2NFWWZoVUdPQ0VNWVpYQVBBcnFUT3IxV1poR3k1a2dlQUFLX3ZLRjFpR3NwdEZYNTNacl9ScktDSTFUQXR6R2J6MnRUcGk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "UBS Adjusts Price Target for General Mills (GIS) | GIS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWFVWUQ0Vk15T3Nmc09teW4zV0ZxeEIyR1lTZE95cUR1bmFlLWtRSERhaDVGRm1JVThUNVJNX3psZk1IQzZvZzB2UWtsT3hXMWc4eWJxcnktYVRFLWNDN1pIUHE1RXhJb0VQUUZpakJKb0RRVUIwU1AtUXRmTkFYaW9NM2U4cFBHbUY1WnA5SjZVY1ljbUlUdGJMUk9QWEo3Mmc?oc=5",
+        "title": "General Mills, Inc. (NYSE:GIS) Stock Position Trimmed by Tobam - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3JRU1JlWVB0dTRiUEdWeXo3NXMyUWphVU5KOE1sUlNxdGRXSWdrcTlLcUtTenlBSi1KQ3lXSEZ4eUZRTmx4bGlrMUlKLURBMXpDRHFtQkh0Y05PVUJJVXB2RHR4Z3l4UkFzbjh1cE5jZERmd1lYRTZlNTMxZWxjVzRQemM4dllsd1IxSWF6cUotdVdOckg2bkVwRTRVa1pES0k4bkN1SXd2V0h2OW9qSUUxZzJSR1IxN3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is General Mills Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzdpNGlzZWZGcHlubDZGYlFwbFNfWHR5UVhvSEhZbmN1WWVlVEhGSDVQcmRjR182ekw5d1hsMUxqME1XTC1RaVAyLWFyZU9QWlF2ajdhWVhqZzhLcFFGVFBqWE5ZWWpjdHVMWDZqT1RsdzVjR29maVpCaFJRMnJDT0Y2U0o0eW1FVjF4MjRZWWVpMHc4aXJRdVZBTnBrbWdibEpDRFlpM05venlKa3RvSEplczI1dWxzY3JkTWxJeEhiamJGeEJLY3VPYkVDZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Mills (NYSE:GIS) Considers Selling Haagen-Dazs Stores In China - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXVOU1hudEtPcEwxc2tlYUM5U1NaNk5rNUxzLVFjN05tUTY0RFVmSVNlMGU1UG9lSFNGNEtSRUV4aDYwRTNoTEt2bnBoV1M0Sm5CRS13S1k4U3c3bjV5WkQzSi1ONm5raWJNVE1RcUVROHBtTFMyZzR4UW96T1NkTzQ5cnVtNTdrVENlTlBFb1NZTVRBUC1oZjBvV3VJVDVFWFRUVUE3R0xIY1hwaGtKMW5zS3lUODRxdHlQNGgtTnYxWEMxNUFZRktEdzI3TF9OQ3gzTUtmbmpnd9IB3wFBVV95cUxQNG1zd2JxRm1ObmFZb2tYWmNGVndqLVFiNW1UUWJmdkUwdlhSYldiZnptQ2plVnVjQ3ZOS2tETlJwcHg0QTBOM0EtQzU1a1F3dU45TDBYZXhxeFJWb3FxSk5kdTZkT2RKc0RIMjFDdHN3T0toTjItQ0hDOW1OV2NGZmoySkc3TDhVWmZfQnhyS0hib2g1SzAwOEFJN20xNFN5aG1KbWtReVpYYjM0a0dSUXVFc25ORUV2akxDS3ZMVEp4S3VqWmdoT2IxS21reXJkamwzS3ZpNk5Dam5sUUZB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "General Mills to Reveal Full Year 2025 Performance: Key Earnings Date Announced - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTZCdXF6VFFiSllRM25tdl9uMGpHOHdPOTZJZ0JKLXBJOHFJczhFZWxYU3V5N21BZnNaYVM2eDNtR2kxcUdiYkdPNm9QM28zc295WjVseVZ4VDBYRzBLaXV6Wng3UFBudU9zb19aaUtNQUpmb2Z4MkdybzZTWlRFMnIwaUo3R2xMR2xKdnFPMHdrNW9Kd0FkWjQzR2ZLOU5ZV1BKRG1FbUR0ZXl0LXYwV05kRHlWTWFYakZv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is General Mills, Inc. (GIS) the Best Buy-the-Dip Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QWXcxRkQwLVFmbkVGc0JBXzd4eE1FOEZrcV93Z2F2MFhQbXZ1eW16NXZfNS1TVWdrcW0tS1dGU0Z6RFgyTHY2bHEtZVlRcmhfTU1ud3JtVTJNNHRLRV9feHY1TExyenlTYVR6WkZYeXM4UUxXVC1QWFVpOUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rep. Robert Bresnahan, Jr. Buys General Mills, Inc. (NYSE:GIS) Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUhUNmZBeVN5ZHdzT0I2Z2xrUkZRcWUwWGlWNkdmYmF0ai1PZk1tb1R6bTZlRlJKMS1yakoxRDVzVC13WDJCT2VvS1ptbVRFLWZjNzhSTUlURlVkZzZxXy12Y0FNN1UzZ1hITEV1cXZTZUxGSF9VRkFlLXZRQzMwdG55cW5HSFd1eHZBb0IzNTdweHNuOUN1czFZbThTRlVPSG5hVldaR0k3MTVQRHRiMVB4WWE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Billions In Cereal And Pet Food: The Power Of General Mills' Portfolio - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlZFb3BKSXE0WUFiLWJ5di00OEJyTXhKU2ZVZkFEa2xLay1rVlVwMEl3R2FVNVdhRHZYdHVRZlFOb25nbGxGbzItWUtVYW84SUhiT0x2U1NNRm5SUGgtcVZxRzlLR1BwN3VQTkpvN3B1RGplUUVyTTR3eFFhSjRYRjBWU1NLbWFtaHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Mills (GIS): UBS Lowers Price Target from $54 to $52 | GIS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEtHX19BUUlwSXdoelFQeHhaQUlrRzl5elI3UkotY1FWb19KYjJhckljaGdZcVR1MUpTY1NmM2ZDQjRrSDlmM25kbXFSRi11LWEybDY4X2JZUTZ2TEMwaUxER0pyQWFmNTEyN19qNERzWUF4dU1NS0pfOUJSYlZCa0lhRWdVNFllR1pjUWZxbVBkXzdWUnpqS0Y2QUhpSFlGUGNmWXVDX3NuTmwxRUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Mills, Inc. (GIS): Among the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRTm85aHV1ZFFHdlZSNE1Nb3VoSXJWUUhwTWpSODVWeW04VWw3T085SzNrZWF1VVBfZmw4aDZRTlN3T3pXYXRHS1h6em5zVnk2T3VvMVR3ZURuVExVenZ0UGN4RTgtbDd3Wmpja2lxQzZaVTdIWEdZaC1NdmluQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Mills Unveils 7 Collectible Fantastic Four Cereal Boxes: Where to Find Each Exclusive Design - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEJ4aGJ2TUZPbFpYLWEtMVdGQmM1VkZGd0ljdE5zbmc0bGF1MUdXQ2hYUndGUzRSLUl5bFBEODhQY3pFdU5aNlVoOW8tYWxPYkVkLUplbGNlTm5DSkFwSklxWnJaemx6YlZteFZzZWhkVzlVTWNZNkk3OFhlVm1HVDRGWlVTVEZXc2lzcGgzVzJJeGMzWC1ZVTJYN1pfWVZ4N3dJZFp3NVZrb1dYSHp3c1otTi1IX05HYVRycg?oc=5",
+        "title": "General Mills (GIS) Price Target Reduced by Jefferies | GIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTdXdUxCdlprZTFfWVB5X3BOUjFub2FRYURndkFpUEtnM1BKdXRGblJoTGZvbnVOTm1xdUVlVmYtdzBCMUdwNHQzTDV6enhoM0x1SkpnV1NNMjYxTEx2TGhINU1nSmlCcGY5eENoUnVHUkcyM0tXYmtOUWdMczl1Q3BXYVlWcGpnRW9IV25YWUNva0dHemJSSG1Eem5tNEpBcFRTLTNUb3ZtQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,34 +586,44 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "ST Germain D J Co. Inc. Raises Stock Position in General Mills, Inc. (NYSE:GIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGtJQnJSWHc4VFdvQ1BFcklZb2NubnBuQ2VxamNmWF9xaHhsQW5jeWwyTEdSZXRlWDJ6MTZ4cXFEV083aG1YdUwzelZGWl9mVUZYOG1EQmZvbWMtS1J6QU1hV0k0eHh4cnRSVUM4YWg3aUdQZlpJOXd1aXhJNzQ1bF83YXdHa190YmNrdTdhbVBIaGc2SVRCTm9JdzBIM25mODZ3UWNQTV80OThsamdJdWFsaWdQME5TMWljZUxuVFEyOXFr?oc=5",
-        "label": "POSITIVE"
+        "title": "GIS Stock Plunges More Than 18% in 6 Months: What Should You Do? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWFFT2JzcEhjVnJMUVV6b05UNXVhc3VxZTJqS1ZJTDdvYlUwUkJwUDh6TEl3dk9vbXd6amFoNVluTkJYMnhFM3lPRXpKYVdYOHhqbWhWNXpaOGJQa3liQXFsQS14S1hUd0MybEMwSWdmMnNENHU3eWh0SGxfM2xGX3VtdGRqdVY5ZEFscVBR?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Was Jim Cramer Right About General Mills (GIS)? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUktMMzktNmJJZTR3WGJEdG4ycEdvUVVBR3RFQW5KYzJDVmNyTlFxNVRTVlZiTzhHUlNjZTdqY0w5Z0pYT1ZlbkU0UF82M1dtT3puZlYxckV0ZGpicGxHMFlpSnlybW5qVU9xd0ZWSU9aTktqMTZjcE9ENlVOSW8?oc=5",
+        "title": "General Mills, Inc. (NYSE:GIS) Shares Acquired by Rockland Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGlsQTJOeldoNERMZkRwTFpkVVJZMXh6b1MycVpHQk40NVBEZGZfY1hOeEtyVU5TaUJLZ1VSNFo4UVJPWW1QVlh4RHFVdEtXdlJZdjBtYVFtc0dpanBJZi1ocmVZVzJoQWN0UWZseWI0WmZnTHFyZjF1b2ZBeldaekNabjNEQ3hwa3VkM0xkLTRmSmJKZDlsR3ZMdTBhbEQwRlFPcHBBbTlKamJNOUxBNUo1WUZCdkVwamtWNDJZLVg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "General Mills: Safe Dividend, But I Wouldn't Be Surprised To See The Stock Below 50 Bucks - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWM5bEZ4UXFKbUpaU012anZ1aFpxckU4RmVzaGc2cGdtUmthSjJDZm5aYldPU2pad2JBRklhc0ZNdzJYclowanJiMDB0dlZhUFJ6OVZCM2dLc25rRWRDRndEQVNidzJzbC1zMmpMcTB0a05OV0FvYklhV19ZUGZ6UW41YmVTU2pERDBnQmF0UWgxRFVNLUwxcnd0Y3JpZWI0S0dUaUdaei03enQzTGZubEZKMzB4Rmg1SV92dTBzSVRGN3M0Z3c?oc=5",
+        "title": "3 Reasons GIS is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kVGJza0JaMUl5dVYwdEx3T3hiZVd5NVVOTnVpSUx1MHUyaFN0R0xDcmQ3bkFoeW1TY1JLNEJoUk1yQlJ5UU5xUHdBZFQ4cUpaWXB3T1VZaklmOEhkMWFBb2w1SmJzUTNvZDB2MWRwOERvWXFaMEE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Unigestion Holding SA Sells 127,260 Shares of General Mills, Inc. (NYSE:GIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNnRqX0JJbGJFZG1NVWMwazdaalFRV0huZXdYaWt5NkZqTllVaTRieFV6TUl2V0poemtHSlliTnppQWNtZGxoSWhocUp0OExJcGJkVkxQSUNuWFBGa2tERTAweXVRZ1NuRkRCYUVrc1BwQkVPYThUaFloYVdCMVlWSFAxUUlCajRmdjNEWHEtLTIxTFoySHRTQ0VQYjRBVC1lSG45M2VsUWhtZGlBZ1dBdERwMUo2SHBtUWs3a3JHcWg3RWxqVW41QVgxcks0dWtmc01B?oc=5",
+        "title": "Goldman Sachs Adjusts General Mills (GIS) Rating and Price Targe - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0tOLTZ2V05FWXQ1aWN5NXlKcklGY1dPUzgzanJkaDczVTRrSWNySDFrcFNrZU1TcndyMC1UelJYSU4xcVhHSm1ORnlKbkZsSEtNajhkcEZTTllfQ1pvcFBGRXhYZUVPMVhwYXJON3l3d3hYOW5mZTZvdC1vajVVYXVGTEhUWlZIXzBhbnlVWDZsZkVpS2M5ejNLUGhvT2h0OXUtQXhURUVuM3pwalRZNWpYaW9LeWJ0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why General Mills, Inc. (GIS) is the Best Packaged Food Stock to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EVFBTRE4zY3BWaXd2dFR4QktlVExUMlV1aGs3YWtxQ3RscEEyZ19vbXJLRmNxSk9vZ1NxVDBhT1Bad0poSEUzemhha3JiMWJWbkE1ZndYYkN6U0RWSHM4M3BNUFRkaHlSRURYTzlkSk9JWFNOUkVyV1R1SQ?oc=5",
+        "title": "General Mills eyes selling its Häagen-Dazs stores in China (GIS:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUhmWGhZcTdyS05QemhoZ1pSSjNLLXlEWHpWcjR1LWNvTWFCdnFjUnd4ay1MMTJzb0RZWDlXMlZ2dzl2XzlaU1dhb2lkRUg1SmREdFc5NFlHbVJlTDZic29ycUE0aGQ3bXM2OW0tSFJxUmUzMmhfU2l6TURRa3poeXhuX096Z0xnM3BEd3Jkb2xCUTZaRXBJX28yR0k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HBW Advisory Services LLC Has $2.60 Million Stock Position in General Mills, Inc. (NYSE:GIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3VGamotNTNTYlRuZ0Jlc1pfMjR3dUg3TGlFNmJwRFFPU2Z0LXc2U09qdW5LRlpXdWduLU9MMTZxSkRLTGJGRzNZNGxzaXEwck83WnV6MTFicEdTaWp2SHQxdDg2eWZkR2tKd2xwVFU3alpBcGMxeVNidzZFQ0t6alk1RnJzX21Fc2xyVk9hRTBKNURlSTREY2xaWkFUa3RmcHpqSHZTVWF0Q0hZQXozLXZ1cFBQaENJZ2dGelBDX3FQdEFKRE91TWt0YnRPdW9WWFN4N1FEeElxczV0UUZj?oc=5",
+        "title": "Is General Mills, Inc. (GIS) the Best Buy-the-Dip Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QWXcxRkQwLVFmbkVGc0JBXzd4eE1FOEZrcV93Z2F2MFhQbXZ1eW16NXZfNS1TVWdrcW0tS1dGU0Z6RFgyTHY2bHEtZVlRcmhfTU1ud3JtVTJNNHRLRV9feHY1TExyenlTYVR6WkZYeXM4UUxXVC1QWFVpOUQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Avanza Fonder AB Lowers Stock Position in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSV9EUnczaV9LVGFYT215OTlCbzhVa0hXQWh5Q2JwRlN0M2w0dllRTGt3ZmZmYWFDWjI1VGl2MG5MaUVtTkVWYy1sZk13VHBCWUJjTTR6aGRWLVQ4cl9Ob1NjZ1pvdEplV3k1OWhaRVV1aGgxNXkzTlZKUGpqbk5pRHlKTFdSSkluUkowckJrOEtmX3BiT0ZTOEFpOTQ4WFpuZkhHb2o0Y2NZUUYySFFFZkdiTzVVRWVqM1hOMHZsQ1ZJTE9PMmo4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Mills (NYSE:GIS) Downgraded by The Goldman Sachs Group to \"Neutral\" - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXNNeUZOVGo0WklTazNkNExDNlQ3VjBpQjJWZjl1M0V5c0JkZ3VoN1pfTlNKX0t5YURCVElsU1lhMDEzb3hwQXhoNnlQR0hmakJJWm9JQ1FkNmluZXRsVUNUSm5PTVY5ZDA1N0s0czVDdWVyUnY3X0hnRmhRQUpZTEhleGY3YWMxc0pPRElITW9TMHBteDgzVE5fNG1FamZuUzBwNkVrTGZRMENldmpCekUwRjJRVFQ0RHZxdW9KZGw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is General Mills, Inc. (GIS) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
@@ -641,21 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Littlejohn Financial Services Inc. Purchases Shares of 36,925 General Mills, Inc. (NYSE:GIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFIwWkUyM1dqVDJ5QXJuZTQ1V2xRd0xsbFYxb1o4ejJROEJkN2stUXRiRzRzNWFOZWpFRW41dk95Qmt5WU1XV0FIX0tQTDNBMl93R0RmZXpYS2wwZEFPLVlydlYzanR4bFhlMWtNcTJwSWwwTHRQb0dvZWx6ZE05ZkotU2xkdEtZV3loS3I0OUx1N1d5cTVuYi0wa0VYLTVkbDV6TTZqNC1yQkhIemM4RTB2TC1hcWx1ZmRSOF9RVzY4Tk9tcDhBc0RHZjlYaVNLQXowMERGQWFaSDBBajBV?oc=5",
+        "title": "General Mills (GIS) Sees Downgrade and Lowered Price Target | GI - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalBIb1lwaVpXOXVEVFdFMkZFeHlPcDAwMnh0Q2dobEFfVUxoTnFxVkdhcUtzcmgwd0Q5VTZTMjB0N0FiZmZDd0RBeE1zLThnZkx0dTJrcHlMLVpGRUU1N2NhVHc2VWk3NDlmYnRpd3JCMlFjYjVGU1VvbDY2aXlhSzhMcEZaVUxUVW5KRm1ZVG9qOHZhSDZ0R2FXVDRtekRlQk1tM1ZZcXkxdTJ4cVp2ZQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Simplicity Wealth LLC Raises Stock Holdings in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX1VHMGFxcm1fR3lwcnBub1lUOExZRzBGd2NvSTg0Q0hMaHh5RTZRRjZmc1M0cThOWHVKZkdhSHpBQ3pGc2VGV25pbWI0Y0d1anVRQ0lhb3JLLUdYRjRlNUpvSWFLb3l2aTNrVF9aNU9EVTFMRzhXVWpTMlJQaTZPLVluUzhlakNuUUlwR2x2Tnk3eWxOZ2RpYlhXUFJ1WVZPbzlYSzIySnpBOUZ1VVQ5WWxaNHhtRFlhXzE0OXhNTk96WHVmQVF3NEtPMzZjUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "General Mills, Inc. (NYSE:GIS) Stock Position Lifted by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHVFNmpGSHJWZW1Kc01GT2V6SDdieWx1ZDdlVUpZNU9OYktVeFNLVmlCaDdBZXVmSUJPM0NYcVRDOWVKVmRGTVlKTktBb1pxa2paeTdqZjdvNW80RndEN3d4SVU0U1hFVzRoaDJKb2ViYkU5MVZ4MHdvTXhsOFFjZTQ3cXk3Y0dTWjlUN2psanhOemdaRUdDY1RzcXpKOFEwV1NvQjVWZy1IUEN3X1VDQ1dWTmdlN3dfeHRIdG8zNkp3REFFSG1XY3NOeTRkcDg?oc=5",
-        "label": "POSITIVE"
+        "title": "General Mills (NYSE:GIS) Price Target Cut to $52.00 by Analysts at UBS Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGFTZWQ4OGZOMnh4RGZQaU02TUtIVDNZLVQxTzBOSk4wN1FGdktCT3U2bXkzX0V0RkZmOVNqRW55RFdnYWpEZ3E3SlM1S1NibFhtOTR5SDdDbjFMOHlXLWJVSGYzeHlWaWktc1VTZXFxQ19sdk1OeEJRbzBUbFFqQ3BnMlk4STY1TUFUeURIdVF3RmJXTzkxQ1R5WTBSMnJveWF1QmhfcWpuMG5oby1idk4wejBiX2VScFVXLXVwQ1c0YzA4?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Parallel Advisors LLC Decreases Stock Holdings in General Mills, Inc. (NYSE:GIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1EtdHFSTXlob0huV3FHS1B6dVE1bmpJZmpRaVJTdjJOMlZrdHJmZG5lM2lvT2s2QzhlWjFBVHpvWUJUSFp0ZWgxd2tVY09CTVZKb2ZEU3FXX08yVklCaEljeDFlRHAwaUU2UUpYczhzOGp3a2YtbmxjdTZfLXFXVG1YMnpZNVFqQVlLb2hmZ1h6MTc0em5iSmhxelYzajNLZWVJOWdXMDBfdGo5aE44WWpoRWZmSkZLTUtBM1hnSng?oc=5",
-        "label": "NEGATIVE"
+        "title": "General Mills (GIS) Eyes Sale of Haagen-Dazs Outlets in China | GIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclFELTI1WmFtLW1FZ2VpLW5JeWRNbGpCTnBMRHhrWW9Ha0cyOTlkM3BEOEFKOFpCMWQ5M2FJY0VoX21FeHgyczc4Z1c1bmloemdCLUJTYlR0eFdBU3AwdmRnaDIydWxZVktOQXdnc1dwQW5rMHg5MGJOcHNiWnlVTkNOajNqSDZmNHNBRy1RWDliTU04Nlg1YW5jQkNUbE9oQjB4cmVvYkwxOXFXcHV3MU5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why General Mills, Inc. (GIS) is the Best Packaged Food Stock to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EVFBTRE4zY3BWaXd2dFR4QktlVExUMlV1aGs3YWtxQ3RscEEyZ19vbXJLRmNxSk9vZ1NxVDBhT1Bad0poSEUzemhha3JiMWJWbkE1ZndYYkN6U0RWSHM4M3BNUFRkaHlSRURYTzlkSk9JWFNOUkVyV1R1SQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

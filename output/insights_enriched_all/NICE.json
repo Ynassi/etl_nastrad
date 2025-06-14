@@ -2,12 +2,12 @@
   "ticker": "NICE",
   "name": "NICE Ltd",
   "sector": "Technology",
-  "market_cap": 11247386624.0,
+  "market_cap": 10825504768.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.56755,
-    "PB": 3.1930742,
-    "EV_Revenue": 3.629,
+    "PE": 22.966526,
+    "PB": 2.9808302,
+    "EV_Revenue": 3.526,
     "ROE": 0.1338,
     "ProfitMargin": 0.16768,
     "GrossMargin": 0.66899,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.2592874587746344,
     "ROA": 0.06966,
     "PEG": null,
-    "EV_EBITDA": 13.094,
+    "EV_EBITDA": 12.722,
     "BuybackYield": null,
-    "PriceToFCF": 15.652246185968961
+    "PriceToFCF": 15.131379386961454
   },
   "technical_indicators": {
-    "RSI_14": 67.13550054563568,
-    "Momentum_10": 9.148569770602649,
-    "MACD": 4.262159829389049,
-    "BB_Percent": 0.9993043131046369,
+    "RSI_14": 46.246512725392954,
+    "Momentum_10": -0.7593530780766697,
+    "MACD": 3.443135442988307,
+    "BB_Percent": 0.3267794397916327,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9273758779994992,
-    "QualityScore": 0.4756956676919716,
-    "SignalScore": 0.4027385447596844
+    "ValueScore": 0.8886160916091387,
+    "QualityScore": 0.486628176939611,
+    "SignalScore": 0.5842774734668315
   },
-  "volatility": 0.0265735187949744,
+  "volatility": 0.0263793256541501,
   "beta": 0.392,
-  "return_6m": -0.0706759046345366,
+  "return_6m": -0.1178550394589329,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 186.44
-      },
-      {
-        "date": "2024-12-10",
-        "price": 181.46
-      },
-      {
-        "date": "2024-12-11",
-        "price": 183.22
-      },
-      {
-        "date": "2024-12-12",
-        "price": 192.33
-      },
-      {
-        "date": "2024-12-13",
-        "price": 186.67
-      },
       {
         "date": "2024-12-16",
         "price": 186.3
@@ -537,63 +517,73 @@
       {
         "date": "2025-06-06",
         "price": 176.7
+      },
+      {
+        "date": "2025-06-09",
+        "price": 175.42
+      },
+      {
+        "date": "2025-06-10",
+        "price": 177.18
+      },
+      {
+        "date": "2025-06-11",
+        "price": 178.32
+      },
+      {
+        "date": "2025-06-12",
+        "price": 171.44
+      },
+      {
+        "date": "2025-06-13",
+        "price": 165.68
       }
     ],
     "current_price_data": {
-      "price": 176.7,
-      "change": 0.74,
-      "percent_change": 0.42
+      "price": 165.68,
+      "change": -5.76,
+      "percent_change": -3.36
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise \"NICE Ltd.\" a récemment attiré l'attention des investisseurs, avec des titres mentionnant des baisses significatives de son cours boursier. Malgré cela, les fondamentaux de l'entreprise semblent solides, ce qui soulève des questions sur la réaction du marché. Les analystes divergent sur la valeur de l'action, certains la considérant comme un bon investissement à long terme, tandis que d'autres soulignent des préoccupations immédiates. Les derniers résultats trimestriels ont été positifs, avec des revenus solides dans le cloud, ce qui a entraîné une hausse du cours de l'action. L'entreprise est également reconnue pour ses partenariats internationaux, élargissant sa portée mondiale.",
-    "sentiment_score": -0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
+    "summary": "Dans l'actualité récente de l'entreprise NICE Ltd. (NICE), plusieurs tendances clés se dégagent. Malgré des fluctuations récentes de son cours, les analystes de Piper Sandler ont relevé l'objectif de prix à 182 $. Les résultats du premier trimestre ont dépassé les estimations, portés par de solides revenus dans le cloud, entraînant une hausse du titre. Cependant, malgré des fondamentaux solides, le titre a subi une baisse de 20% sur un an, suscitant des interrogations sur sa performance à long terme. Les investisseurs devront surveiller de près ces dynamiques pour évaluer le potentiel de NICE dans un marché instable.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.65,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "NICE Stock News: Piper Sandler Raises Price Target to $182 | NICE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2VNaW5lUF9wOVVJY0lQTVNLZDUyclREZDRQMWtHalpDaHM5bzhVQ1NXRXBWVE9fMHVhMy1kYU84OU5TYmJoTnpTVDM5Qk15MVQ5WEpPMkc2TmZEOE5XS3BkVFltZTF6clI4bkVCREpNQzFBRENyS3A0QXNHd0Y2ejM0QnZMejRUdXk2UW5fLTFPcnlyNHZrdXJzaEpXR0lGbVp6LTZxbnJXc1hFZXdycTFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Trending Stock Nice (NICE) a Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZ0gzc2E3NEppNWs2LXpsX2RiekZLSmI5VVJCRWx0b1BGZTJOUmU2ZG9SRVhleGJVMDh0WnItZVFvOUp6VDg4R2VmX3ZLZmY3VDJiNTBRaW92aTdwamttYkYydVEtemxLdU9peXNhbkRHQQ?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "A Once-in-a-Decade Opportunity: 1 Super Growth Stock Down 48% to Buy Right Now and Hold for a Decade - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaDZDdHVMc05WcUZuVnViSTVzQjRwXzYtV29RdHkwdjBMMi1udVNsZ2lSUDNWUHZfVXN1dHN4b2lzNjJLbnhuVk5MY0N4eGxzSVVMTlROTEtsd296YmM4OFZfV21CaG41ZFk1QjRYbWc3QlI1OHpmNktIX2dVV2VEOEt2Zw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "A Once-in-a-Decade Opportunity: 1 Super Growth Stock Down 48% to Buy Right Now and Hold for a Decade - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWFRU29sUFBtb1pUeUZLUG9CT1U5bHBscXJBMVUzWG9rczNITEJJN1lUNGF3X3RfYnhBZkEwajhsNHVfektvWlNGVEdocFJEcmpGRWMtNGJmLXBQTUhJclh2Mk1GUDdkc2NFWVVnampKN2t2ZFZpMURpaFI3ZmhaNERSQmEyZ3E5Tk9qRFRhc2dLMC1hY3E4?oc=5",
+        "title": "Why Nice Stock Sank Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tVUU4WXFkcUtKMnR0SjBjb082WVJuXzRhOTN4aXA0TTYyUGtuVVppR0owVTgzQUhleDJtczZhcnd1Q3l0cENWVFRZRm9tdGNfU2JNU2R6d01NbWUzOUhmcFFhMmZkeU9vQk1EazFFLWtSekcyNTNV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cantor Fitzgerald Analysts Boost Earnings Estimates for NICE - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1pZT200RGRSRFVPZTFBV2h1ZzAtcEVrZFJrVVBtcjhxaUQwMDItU1FRNHJFb01FSDBXSFFCZktNWENITDVIaTlrOXI0dXFlNzQ2bDViaDNfUFRlRm14WWtCUlRJcGNvZmU3NnluSVlwSy16d0NYSGZoRWNFTVZqV3BGU1ZlMzRUaXVBQWxkTHZmTnVRZ2wwUzhnMkVEVjYxWDJSZ2t3aXBoZTJvVTBRRzRrMA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Tesla stock price crash wipes out $150 billion! Investors dump Elon Musk’s company as clash with Donald T - Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcWZyWVZ2RjhraDJqVEFJNnIxMmNrczFtYzNUTFNoRXI2VmxxS2lUa1dsbkRrRzVsVmwxYy12UkY3dHFVTFhhcUE0b1BJSWhsOHQxQUZrTzhHME16LXNGTGlmTWJ4dlo2ZzdlS2hybkx1dFJjdHptQW1QRTRoa293ZWQya2I1d21jeDFxcmxSLW9xd0l2bEZkclBIdHFSYklUbVRja2ZPVzg5bXBIUEZvMmVOQXN4US1DN3E0S2Y2NjJqbHBrOVJQWGcxdzM1dVFVVkUtQjVvWlJrRGVoaUJCaFFYUThfS2k4UnE2NmgyZnRXeTZUWnIxV0YyUHBuMXZSOVZkNFpEdTNCeU8tYm90eWdXeDN1QkljQTdBWmc1VjBNVTBDWFpWU1Q3YlBxTWFEdGptVFBONjNyMk43ZEJwbjBwbDlFZDBOc2JWazVfVnBISlMxQXc5NUR1T2xTWUhXTkZOOXJ30gHrAkFVX3lxTFBIOVZmc0FhRU1VUmNPSWQ1Z3pkWm5kWTlvY2pGU1ZFVE9HeEdxQUFValc4UFZkbGpRaXN6NXF4aDFiOENEZlZRVkQ3R19HRzk0M3p0eGFTVE1NNUxOQ3N4RlJEdmhBd0FrOFNqTGd4aWhWaXJkSDhzWURkeUZKbWM2UlNPNS1DdVB6YldTZnprRGR5cHF5V0tBTTVxdXd5dFRNMEd0YjhCVTk1ZzFMSGltNERVT2Q5T2NjRmlJNmFKeVJHRmtsZEx1emtIdnJQamFETXFFMi0yelliSEFGVGJUT3pLNk1qQVNCTEtRVUFld0Vnc1dma3EtOHhkdVdNbDFCdmRqS1hTR1c3ZE9mMmdDVGtyLXNtTmJHdXhUS3JKVjZvdXRPVEx1TFNuMGJheUtualZMZDJmMnVEUnJ6WnJ5aU56VDJ1RmVSWU1faTJkQm5FNmdXaEx5dVppUzRrLXRaOG94RnBCZEROVQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Lululemon (LULU) a Good Stock to Buy before Earnings? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGtQWHdoUFpSY3g2eEx1OVZNSTNaekJMMzU0YnlaTlgxeGNqdGpSQjNEbnpFZF9PSEpzVFBYaWNDNWpHbmtPeDlIdDNRU3dRRmhtSDdFcTdoaWJvQzU4c1VZeGhnS0NQQ2lwVWxhRkZoSEcyUWxPVW5MZGQ5NHFDTHA4WlI2dUN5ZFJv?oc=5",
+        "title": "Rigetti Computing Stock Forecast: Is RGTI A Good Stock to Buy? - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3prYUZ5Tk5mSG9NVU12X1piZEI0N1oxQ1lnZHU2NEt0OEk0dlBhN1dZMTQ3WV9aUGd4WXM1b1ZEa242T3h6NmFpUDFXbENqYXdUeUZxcUpSMkRCQXdBTkhaeEFrME5vcm42S0JUYWVBYUpPZnEzcWl1Z200a2g2Yk1PTDFuYzJHa3JNOXhUQTRfN2JqZkZIMTFDSjJQeDhKY2VRWQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Advisers LP Has $1.92 Million Position in NICE Ltd. (NASDAQ:NICE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOEpzQ1VOZTJ2dHlmVWtvSnJhMUZCd0NoTWdsbnZ3NmxkREgxbWdVU2Y0X0FnMWNxWmtOazhJNWp4VmhKVUNabFlwWnFuR0o1ZEVzOUlmZWNFVFF3SjVfZ05Pc2VxT1FZd0htbnpzTnU3WndCcURtd3p6QlI1OXVlWmlObG5jT3o5aDlsNFdIRllkdGVoRW5VYUJ2cEl1SnZCZ2VJS3QyaS1iV1ViX2J0eFNVMXB5V3dKTHZRMEFYcE94dTJGWUlCSEtR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Circle stock price prediction: is CRCL a good buy today? - Invezz",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDR3eDJKYzVaR0l1RnlzbzVrOWFvNnloUURZaGlXTloyNmh3X25jSG92MzZhc3ZwYlhsNDRtcUt3eDhlTnF0S0Q0RzBJNm1vOUVHMlBrRV93ZWF5a201NU5jTjFvVnF5Sk12c0xwMEFfVHVaV0U1TmRJYXBNRVFqem5SOEx1ZV9QOWJqSWxpZHExNHgz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Hold NICE Stock Despite 20% Decline Over the Past Year? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXNmUUpveU9NNWlQZWZSOFFSU01aelFMbkVtUHpoa3hrMjVtQzFCMW83ZUxMVE1mVkl4R25lNmp1MVVlVVZidEU4aHU4WlY3VzF0MndoOXNGTkhlODZxRFhtb3dOUEplaS1kX1VLS2hFYjZiVjhUNkhLV0hFNHhfVXlWZlFwMGlkR3hrb1ZPbUFiR3oydDRr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NiCE Announces International Partner of the Year Winners at its 2025 Partner Summit, Broadening CXone Mpower's Global Reach | NICE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeExFR29WQkRmN2E1Q0NLQ1k0dXhSbmJaT3ZsbXVqLVZFeU42ZkI5czJVRDN3bUV4NzJ2cklYMWdmRjl6OWFBa0VlaHZveEdTOXhFWUdfaVh1ZlAtYjl1TXM0aWhsVTJXZTZKa3R3X0IxdlFpaDE2cVJUS1BOME1ub21CWjltWnJTWDI0d0lEMDVyQnR3VnlLYnpIWWI1bnJrZjBJR3hvSWhHRHBsQ0VkblNLSmt0MVY2d1BNa1YybHZKR1kxX2JmNUE1MXZnTTRxaGtqTWl2N2ZBLUsyd0x6WHNYRU9YY3k3ZXFtYU01TlpfRGZvNUJhRGk3dkJOLU4xMm9Vak5NSQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Why Nice Stock Sank Today - MSN",
@@ -606,28 +596,28 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Analyst Explains Why He’s Buying This ‘Nice, Boring’ Dividend Stock With 3% Yield - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3p4LTlUTXlLNVZIbnJLU0stc1VsUWxQcVI0MVctOU9JMDdvbmRmYlBpemRNY0FkX1RrU2d5ZVBLWVc1OVJHSHlUanVmQ3hUOGFncTEwb2FJR0t4ZWR3SUpIa3JaeG1YZGo4c3M5N1V3eTFwT1JrN3NFNzJuSk9aOXNSSEhDUVBEVmUwRFNJRHZtMUNSRHFqUG1HM2NjX3dKbXVDOGFTSlVjQ2plNDR0SHlKbXc5R21EV3o2NNIBxAFBVV95cUxNcjFfeUl0cnNoS0g2ZktIU3J0LXhqQmxzYnEwd2VIclpYMkl1dGtUbTVtdnIxbEF6bEg3OUtDMjBlOUFZSzhPU2ZoeElSQnNERmNvRHAzU2U1dUhtaEtYcVV3RFVaczVWQmZJeWw5YmRhTjA1NjlLdnJ5YTVqTmZucHNwajBaaW9lMm1TVWZjc21hUHFkYk9yLWh4dHhaaHhOMnBsTlRSZ0RVYTBIUlh1NW5iSzY0allmel9mTl9OYkZuTDhl?oc=5",
+        "title": "NICE Q1 Earnings Beat Estimates on Strong Cloud Revenues, Stock Rises - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWhucm1Bdi1mR2FtX21iNGwzZjBsRmZFX21GVC0zWGRyeGt2R0htT2JfSDh4NmlMX1IzRjQ5WHdOSlBybl9aemtITjBKVGJ5Szl2RDJsLWFoT2RIZUNnN0twTFg5RGxfUTJ3MHQ3di13cU5NUjJSV05IZzJWNWkta2FVOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "A Once-in-a-Decade Opportunity: 1 Super Growth Stock Down 48% to Buy Right Now and Hold for a Decade - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWFRU29sUFBtb1pUeUZLUG9CT1U5bHBscXJBMVUzWG9rczNITEJJN1lUNGF3X3RfYnhBZkEwajhsNHVfektvWlNGVEdocFJEcmpGRWMtNGJmLXBQTUhJclh2Mk1GUDdkc2NFWVVnampKN2t2ZFZpMURpaFI3ZmhaNERSQmEyZ3E5Tk9qRFRhc2dLMC1hY3E4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Hold NICE Stock Despite 20% Decline Over the Past Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXNmUUpveU9NNWlQZWZSOFFSU01aelFMbkVtUHpoa3hrMjVtQzFCMW83ZUxMVE1mVkl4R25lNmp1MVVlVVZidEU4aHU4WlY3VzF0MndoOXNGTkhlODZxRFhtb3dOUEplaS1kX1VLS2hFYjZiVjhUNkhLV0hFNHhfVXlWZlFwMGlkR3hrb1ZPbUFiR3oydDRr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NICE vs. VRRM: Which Stock Is the Better Value Option? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SYnpZdUFEV1ItVmFqT3ctbnpMa2c0RFp1LVlOVXhRQmdWWVVuS3o3MF93ZnhFd0NPYVYwbG03UHZ3QldsblRpb2lOcnQxdUtYZVRpdThqQnhucll4bTZzMGoxbFdrRkxQZ3Rmb01VeFpObjlsY3BnT2UtWQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Sea Cliff Partners Management LP Cuts Stock Position in NICE Ltd. (NASDAQ:NICE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDE4WVpObUFSSDZlaWY2SFdlMWRUX2l0RVFoWHdxRTAzNjIxRWVOaTdRc25pWGNqaTZGTnFJVERfeUN0U2x5dnR4M1lpSU03a0FWSDdCalZxUlpmS3Jmd3k0V214WWlSanhUYmhSdkRZQWxLNXpieFVkQk0xOXE5WTdRelpQQU1CWjlQclZTOFpKWnB5UWpRTTZlb0ZQNVZSc0VESTBWWjBWVUJCajRaODhqWU5wWUtGVGRDc0VNYkgzdV9OaWdB?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "WDC Stock Analysis: Is Western Digital Corp a good stock? - Markets.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXhXVXFQeGpaQm1scXFpLV9WWjBkVGVtTG90TVJITFRELXZBZHdQR2p3SFgtd3VucGR3enBQWk80NkxPX0c4WElaOTdoVTUwMTJZREhZdHJybHB2X0dnVHJmZWZoVHlvYzcwQWdOX3FjdWVmdkFqdmpCaEZyeFhxME9hXzl2SDlyTGtNQ3JUdHBfdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Nice Stock Sank Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tVUU4WXFkcUtKMnR0SjBjb082WVJuXzRhOTN4aXA0TTYyUGtuVVppR0owVTgzQUhleDJtczZhcnd1Q3l0cENWVFRZRm9tdGNfU2JNU2R6d01NbWUzOUhmcFFhMmZkeU9vQk1EazFFLWtSekcyNTNV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is ChargePoint (CHPT) a Good Stock to Buy before Earnings? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamVkMVZMYmJaUXJnam5acGlfNW1UZjVBWHRYbnhiQ2xVdElvcW56cHAxc2ZuYWRPcUZOc3dQVXFlTXE0bFV0X05qRktDSktKU1pRekRJTmRmOGVGejZ6bDZobWFyU1RMWDE2UVdYcl9pTTkwaVY2eW9zMV9wUWZ6RUpmOUFLMmpiMEk2MnFFOHU?oc=5",
+        "title": "Here's Why Nice (NICE) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZGVmT1Y2ckVSaEJNMElldG9mZWNxZnlvSUNkVEthdUxuY1VKb1NncFE1TVMzS19MdGJ5ZGoyalY0cmlzanhDbk1mcjREQlRFVE5hRDljelNTRmNiaWZ4ZUtWbXpSTFNBRzVpdXREN2k1VmllV3FlRlBZYmQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,18 +626,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "CDNS stock price analysis: is Cadence Design Systems a good stock to buy? - Markets.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGR0RWYwcF9ncE9HZHpScG1uUWtEODBCSmhKWlBqdl8zLWFESktOMnJuWDh2Wjd4N0ZzYnVaMFRhZnk2R3NFal9qRXlDQ1p1aDNQREdzRGhnRkdDN0hiWnFhRG1YbDZpbi1Gdlh4TUIxWWExX01iSEZ3aGJQUlFSb00zWmVhLWRuZ2JxQkhlMHdHMlF4d0NTaENrSVFFaHB3TV8zVk9MTQ?oc=5",
+        "title": "Amid the Turmoil, Is Now a Good Time to Buy Tesla Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2tHc3dqTC1JS29fTFZISWtjUWd5SjBmTmlvOThueExfdFBZZHF4NU0wbHJFVy10a0V5eFhKdnE2ZDh1elB1TVAwMEdrc0V5Qm5PYnc2T3FvMGRjZ1ZvY2hjbEs0ejFMY01BZUJLNkIwUWJfcUc4RHBmOWFVLUtTRjNOeDdMT3R6N09jMjg4U3RobWk3QUxDMA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NICE Q1 Earnings Beat Estimates on Strong Cloud Revenues, Stock Rises - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWhucm1Bdi1mR2FtX21iNGwzZjBsRmZFX21GVC0zWGRyeGt2R0htT2JfSDh4NmlMX1IzRjQ5WHdOSlBybl9aemtITjBKVGJ5Szl2RDJsLWFoT2RIZUNnN0twTFg5RGxfUTJ3MHQ3di13cU5NUjJSV05IZzJWNWkta2FVOA?oc=5",
-        "label": "POSITIVE"
+        "title": "NiCE to Webcast Financial Analyst and Investor Day at Interactio - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzNNTXZTbkRKcWdxQnRFb1ZhbUF2UVRRYXdmTFZoTmdDUm1RUUVFa1JNc2ktZmw0WVRZT3FmSnBncnBFWlBiRUF0MkhHNEhCellTSVlJX3RXUzZZbHZMb2JXQzA3b1RYYjFUWE1Rb0dnRUJfRTk2ZFpCVjc3aHBRUm41SDIwUG96LTBUQ2ExWUtNUVdNdHgyblV5bW9RSnkwUWVkTld6UVo4ZjBkMDZXd1ZFMURKN2dpOGJWNkZsV1loa0tq?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Nice (NICE) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlVWMVpNbDdZMmhDQlZ0ZUVPNzZSOTh6UHV0bUZwblpJbHBaRmVaYnlxNEhtUTlCLXhUNWg2eXpXWkMyLUJieUVPMWZPRS10dDItVUg3THBwWE5OX2xCUERMdExiSkJyT0JFeTQtVkozcGlFNjVlaUNLeUNneDJqM1I5RjdwcWthcnBEcHFlTGFfNVJSVTVya1ln?oc=5",
+        "title": "NICE vs. VRRM: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SYnpZdUFEV1ItVmFqT3ctbnpMa2c0RFp1LVlOVXhRQmdWWVVuS3o3MF93ZnhFd0NPYVYwbG03UHZ3QldsblRpb2lOcnQxdUtYZVRpdThqQnhucll4bTZzMGoxbFdrRkxQZ3Rmb01VeFpObjlsY3BnT2UtWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Nice (NICE) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZFAyUzI0NUluU3hYRDVEdmFsZ05iSS1iQ1BXZnl3MW5OX0E0M3ctTkhHQTl0dURPMW5CbkdnWXBlYVUzSU9yR2t0dllQc2hxeEx4UUczWlRVa3g4MC0zV28ySmlrdDlsRWdaQVRLY3FneU4yVXRPaGpRbHJLUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NICE Ltd. (NICE): Among Billionaire George Soros’ Small-Cap Stocks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHpKTGk0S1JLTlRiU2hfRkJ4b3NKZ0l3V3dBSU5CUVQ2bzdFdEUzbHFEaVRXeFd0aU1SWG45WmVTUllveVkwaE5BS0dfWWtReFpCVTZ2dUhpanFsNzNTUmRPNTZpOVhzR19rMGFwaDJhd1d2cllETUJaNlZRTnVQTVlHSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

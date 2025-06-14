@@ -2,12 +2,12 @@
   "ticker": "CARS",
   "name": "Cars.com Inc.",
   "sector": "Communication Services",
-  "market_cap": 655279424.0,
+  "market_cap": 650562944.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.323529,
-    "PB": 1.3550065,
-    "EV_Revenue": 1.512,
+    "PE": 15.213236,
+    "PB": 1.3452536,
+    "EV_Revenue": 1.551,
     "ROE": 0.09345999,
     "ProfitMargin": 0.06322,
     "GrossMargin": 0.66625,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1706263955431755,
     "ROA": 0.026619999,
     "PEG": null,
-    "EV_EBITDA": 7.036,
+    "EV_EBITDA": 7.219,
     "BuybackYield": null,
-    "PriceToFCF": 5.330827867482745
+    "PriceToFCF": 5.287195357313269
   },
   "technical_indicators": {
-    "RSI_14": 45.33975921871417,
-    "Momentum_10": 1.9569452450051776,
-    "MACD": -0.2749974527418573,
-    "BB_Percent": 0.448700012302816,
+    "RSI_14": 43.91528696798012,
+    "Momentum_10": 0.9268318734517912,
+    "MACD": -0.1409898479633256,
+    "BB_Percent": 0.4347708912340791,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9333226147440103,
-    "QualityScore": 0.2703933245408393,
-    "SignalScore": 0.5663757214624492
+    "ValueScore": 0.895024404271791,
+    "QualityScore": 0.2767221597497529,
+    "SignalScore": 0.6046282077367553
   },
-  "volatility": 0.0343663560831822,
+  "volatility": 0.0343051943393826,
   "beta": 1.84,
-  "return_6m": -0.4451544358193966,
+  "return_6m": -0.435932378355566,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 7,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 19.14
-      },
-      {
-        "date": "2024-12-10",
-        "price": 19.18
-      },
-      {
-        "date": "2024-12-11",
-        "price": 19.34
-      },
-      {
-        "date": "2024-12-12",
-        "price": 18.78
-      },
-      {
-        "date": "2024-12-13",
-        "price": 18.34
-      },
       {
         "date": "2024-12-16",
         "price": 18.7
@@ -537,102 +517,127 @@
       {
         "date": "2025-06-06",
         "price": 10.38
+      },
+      {
+        "date": "2025-06-09",
+        "price": 10.56
+      },
+      {
+        "date": "2025-06-10",
+        "price": 10.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 10.74
+      },
+      {
+        "date": "2025-06-12",
+        "price": 10.64
+      },
+      {
+        "date": "2025-06-13",
+        "price": 10.3
       }
     ],
     "current_price_data": {
-      "price": 10.38,
-      "change": 0.19,
-      "percent_change": 1.86
+      "price": 10.3,
+      "change": -0.34,
+      "percent_change": -3.2
     }
   },
   "news_sentiment": {
-    "summary": "La guerre commerciale entre Trump et Musk a fortement impacté Tesla, entraînant une baisse de 150 milliards de dollars de sa capitalisation boursière. NIO, fabricant chinois de VE, a déçu avec une perte plus large que prévu. En revanche, Ford a enregistré des ventes solides en mai, mais des vents contraires se profilent. Mullen Automotive a suscité l'enthousiasme avec un plan audacieux pour lancer un SUV électrique en Europe. Les tarifs douaniers ont stimulé les prix des voitures d'occasion, profitant à Carvana et autres.",
-    "sentiment_score": -0.2,
+    "summary": "Les titres récents liés à l'industrie automobile ont généré des tendances contrastées. Alors que l'annonce potentielle de Trump d'augmenter les tarifs des voitures a fait chuter les actions du secteur automobile, des nouvelles positives ont également émergé, telles que la progression des stocks de Tesla suite au déploiement de voitures autonomes à Austin. Des événements comme l'intégration de HCL Tech par Volvo Cars pour ses services d'ingénierie et l'accélération gouvernementale des voitures volantes chez Joby Aviation ont influencé le sentiment du marché. Malgré des fluctuations, les titres liés aux voitures d'occasion et aux pièces automobiles ont été impactés positivement par les tarifs, tandis que des sociétés comme Cars.com ont connu des baisses significatives.",
+    "sentiment_score": -0.15,
     "label": "NEGATIVE",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Auto Stocks Fall After Trump Says He May Raise Car Tariffs - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOTURoZFVWeVBKajdKN2FsN0lBdUhOdzFtb0NEcnRnTkozNDBvUDZ0TmxZb1VKMk83YVNvWUl1WnlZejBwMnhfZEFTb3kyblZIU1JidEwzMHlVSkJoTTUta0xmUG1NZmlzTXJGU0EzSHJiMDhQZ0kwek9xeG1DWG15TnFFVlkwZ3IzNTNTZk5rSkZPYy0wdEhldHJ4Vl80U01OamlTNHpUWk05Um13Y3RDLWZ6RlI0RDJYZ0JKaGRIUEc2YXVuWi1fQUdDYXk5cVVfR3NTdUdQYjdCTHdoYS1sSUhFMmpnTm5MZU1Ubm5SZDhneUhHNTJvdjdicE5JY3VYTklIVUhZWktIamtGa25SVjF0TDJGcTNPOTZaWlQzeE5EdS1aSGp3bEtRV0pMelQyR2ZGdzE3TG1lU0FHVldmT192RzBzQktEejExSWwxMUF2SnppYTd4ZXo3Unp1d1hwaXBtRENqcnA5bXp2OUhKTVdyWVN4dVpYdDduZXZHTGE3ek5zeGNLVm9STnUzTGhTZzMzRTNKUHVkWUxvRlVzdEV5ek5VQnEwRmMtREZWbjhRQ3NHZU5MMzNGcHZfbExkRVZOR3JteVZXQnhMekx6OVB0VG5UTEtiWV8zS0puOW5KYmUwUzd4UjZxVHd5SENUdzVpTzdObzhZSExsbGotYXc5cHlpdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why America's Car-Mart Stock Crashed on Thursday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaEhZZjR5RVZHLUQ0eFI2T3Q0bnQ0azhlN2RHY3BPM295Vk1FaXNncXZ3a3V6T25XR2dKSE9GVHZBUjNjMld2NW5nTWk3TWgzNjBOM2hMcnRxRjRFeHdrWTFxaUVleTl1aFI5LTBmdG00ZE5yYVE4aXVqSTVGdw?oc=5",
+        "label": "NEGATIVE"
+      },
       {
         "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla stock rises as it rebounds from Trump-Musk public feud - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVpzcVJMcUpsb2lmQ3lla25QdS01cTVHU1RVXzNFSjFDZVlLRFhXVGtCS3hwNEowWjl4VzdTSFlNWC1DRmY4ZXBjMVpKMk82bU5jdGdrVmc1cDFtZVBManA0c3JSOHlQX0ZrY3JaMlhLUTVlZHdVaW9wUllMd0tLbW1xVXhVOFJkTjBIeURTNHU5VW45b3FFYXFHdDFDT3BabzM5Uno4Y3M2c1FYYWFoeTliOWpzNk1icmp0Zlc5bzY?oc=5",
+        "title": "Tesla Stock Is Rising. Self-Driving Cars Are on the Roads in Austin. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkIxUWp5QlNCbEFUeUVXampWZF9EUTFQVGdNTzE5dlp1V3VCUXJhYVdlVm84Ml92TURoMHRXRU5LUWVBRmU2R2llQVFzN0tQRm1pVTBQVGVjMUd6U2F0Yzh1bzdVVUhqMmhsWjZINEp6QXVJbDRYNHFQRFlqeTFSc0hKbnJYYU0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Trump-Musk row slams Tesla shares, $150 billion in market value wiped out - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzFpMmlEWFhIelhrdEQtaW1iRVNnZFZJMlhMaW5uMHBDQjVVYThObDlnU0g5NU9Gc2RvdG1BM01mUE5xMVBnS3FYSndWV1gxdW1meUtJVld6Y0FsYzI2b2RTSWxXT0pvZnZ1c0ZpMmpLWWFXOFgzOTE1X2xjTWZIN05XSUtncDlRb0VsejdUaFhra2h5RXN2OUEzblVKbzFweDZHTWx2VHBkbFhRYVNlLXZrTGpMWGFTMXNj?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "NIO Stock Slumps as Chinese EV Maker Posts Wider-Than-Expected Loss - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWnNMdjBDcTRqTnRXSmtCWDdteWlTUTZ1WVR2ajgtcXZvR0UwZ1VSQ2RQa3NXOEpEVzNtZGZCMHlmaXBNR2ZhZE9GZFRXd0QxaE8wRHV1SWpWNE9Mc3JNVkdUY0pRUUJkNGxaMGlfN3RHdzI5Umxra1ZlanRBSGhSRldtZ1JsblRDYUY1ZnhPVVlmc0tlck5qSEo2NGg1TFFHMUs5aHJEV08?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Ford Stock Rises After Strong May Sales. The Pain Is Coming. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PaElKVml6Y0diYzQtTWpoRFItN2xINzd0Y051b0lETmVlRHR3ZDczcXNWTFo2VHRPWXFFMHA3M05Ed1k3LWtDTS1sMFdlMkVWWV93RlBBQUU4LWZ5RmFYZWJLYnZsdkV3c0lBdkY3T1A2bEhidEZSN1F3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Nuveen Asset Management LLC Sells 175,901 Shares of Cars.com Inc. (NYSE:CARS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmhwRHBZY1c0Z09MTzZvblpLM2o2VmZ1ekI2LXRRNXltVlBfYWthV0xKVmctaTRFWm12emZwYTFMR016MTgtd0RWQUhFaEdBcFZ0VVNLTFQxQ2JRWnNLcVM2VFY2c01NRjEzSFI1UTdBMmNBTHVLcjlpYWZJS0VtdTA5ZHMtMzJ0LUZMLW1zT1ZxN3AyN201NkM4VXdKYmZtYVZ5YmpabUxkN2h4Q0dCdjVJUjVlamM1MXgwWW9iSFVIbU1iU044akhsNjZyNVVXdFA4eTd1RGlfSXc?oc=5",
+        "title": "Veteran NASCAR Commentator Rick Allen Joins CARS Tour Broadcast - Short Track Scene",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOel82VnBZUC1nbXdDYnVTamdFbEFmYTVHRTNYN3phUjVEVEZKeGg2Zms1UVlMTGI3RWFCbHVWNllveUl3X3dtdkZmbDVTSFhqXzZ6N2FOSXpDQVR5clZoSmJfRzlQc3E2Rk83c0dEeW11T25uLWt5djBYOVVFR1hZcHhSNjV2dXcwc09nZjlPNmR5LThUSXRfLXh1bU1wV0FZS0hhcUQ1V3NaOUltWGlMZVVDME84dDZzbHNVYWJJZ0Eya3JOaGdCNWQ1RlhVbl9oWFJiWGItaHl4SHdOaHc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mullen Automotive stock skyrockets over 240% as EV startup unveils bold plan to launch SUV in Europe this year - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2ZSZmpPLU1JSnJzMnk2c3VHN1JLMkg0R21FcFV3a2U2XzJIWUNfTi16MTBFSXdWMF9TTlF0cGFLaW5VZ0FIWUlMbnRrSnhERGdKQzVLQVE1NTJwdGd0X3AzbkJpMDN3bHQ5Vkg3aUJncE5ORDdGSWFyQk12WVZCSXhQbzkyMVJEdjJZWlp1bEdCUW5QdGpKa3NHeklNaTdoQkJKM0FLOG9WbnpwRnRQcDd4TERtaXNfRXZLbFVfdkpuREVFc3ozZUdKcndUaEp0U3ZXVU85LUlFUGVWc0xuRmJDeko4OGJldUZKRUN3YjUzS2FpbzVwLS0xa0o0MHlUOEZqc19rWjBlaVRtR2xsV1hEMA?oc=5",
+        "title": "This Wall Street pro calls Tesla stock ‘tremendously overpriced.’ The charts show why. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORS1WQnZhTHI4b25mR1lMaXhBVVVYNGJMZDk2ZzJzdDdvaV9IU01hQVNYUUE1ZzVpUklHZHVLTTl3T0x3aDVPSWRiTUV2b1hSVmFCMDc4NTZoTERQY1p1dUl0eV9MdDNHaFI3Ni1mNFlkLXdYWVhPODY5OEFoTnozU0RSVWlHdUVHTEJjbjA5X2FhLWFaZFkwWHNuLUJTTldUdTlaSExGWk5zM0t4Zk5wNmg1TEh4MjhfVVJfY3luWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Entry List For The CARS Tour Late Model Stock Cars At Dominion Raceway - FloRacing",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYi1nSVhCMlowTUxVLTJJdjV5eVo0Q25KX0JuWVBESmRycXhHeGpQMW9YZXNCZzhhUG1YWkp0ZE5ycDVmNGhJQ2F3ejFlbW1TMlhHa2p3eDV3aDJScXZnZDVpRVd0ZEpWcDFBdjhTN29RaDlMdVFyXzBpVTh4V0tEWTlJcmNWNURFaDdsOVFJaWFOR29Wc0RfY3EwNDdkdVZjdm1JVXZ1M0lfYmxtNHZPZ3VoUlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Car Racing: Johnson a double winner at NCS - Brainerd Dispatch",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNHZkUklKOS1UYWY3N0hYcnhFdzM1aU1LcGNnS1VjNE9Ed25qZ2s5NHRJcXlzNURUaDlWMHg5eDZLT3BvUTd5TERabHBQTmJpUE85LUNINWtRTVIwenNMS2ZhTDMtakxHQlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HCL Tech shares in focus after Volvo Cars picks firm for end-to-end engineering services - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdE4wdXF5OUtfLWJWRU9ZMWNRU3ZKMUdlYXRDdWxuNE9CUV9tS1VNRFZDMHU2emEzS2hkLVZsV0E2V2VQQ2swWXBPQlhtb2RNSkdXNjRndW1MRFVJQkYwQXMwTzBGMkc3SUZyNjY3OHJRd1pfU0VUa3p4Q1BmbmxydVJUcXZsQkdyYi1rSklNU3RzVHFFenhXejZld3lRZDJSazhuTkJxOWxXME1uSnpxQTdPd29ZODhEN3k3eXp4M2Z6d01meUQwUTBXUkVibHFaNll1UDhxTjA0LURGeTFhMlhuVzNual9QVEZBZ2NXVS1PUmZp0gH6AUFVX3lxTE5acV9Nbnh2Rk1ZdlVSVlk1NURuWmhJUXl1a3hvZFo1dHF1QVRrNGpZVll4S1pWbk1rZUprejJiLWxfcThLelN4N3VVNUpLUktsSWJSaDhsSU52UG5ZbW1vOU1hTHhqLVBIUnNwWldXcVZzeV8tZGlPRnNJeGlLMGNkWHloYTdWdExXbFR6a2FaQ3I1dE1ZNWJpR1EtR3VEZmx4cE04R1J1NHU5MHJOZHZjYVNSQjdscTYxb0tvcW0xc29sWjVPTVl6QUE0cnNnZVhNZl9DNFNXdjFwY2hIeDRPcGtrREFjZVZzM0djUFFSSHh2Rkx1ekdMQnc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Cars.com (CARS) Stock Is Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nTnRlb3A0WlExa25sak5IM082dVVFUHpmNFhEa3lvYVo2VUs3aW1DWTZUdENsaHZ0NmEtSWh5R1Rnc2gyN084VVRwUEtvbWZNbm1rRWVDQ1ZuTk1JVTd1d1RHZ0hfdzBqa0xnRWdJZXdqVm1sYzBhcw?oc=5",
+        "title": "Joby Aviation (JOBY) Stock Soars as Government Fast-Tracks Flying Cars - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM01RY3R6Qk0xcVBtLWlUOW5pM2duRXJsdmlTZEtPanZ0LTFVek1WMm5zdGhlWUhuYXo0OVBWVEhQRmxmR2Q2X2dJc0VPbXZ1MWtSYXVsaHQtbnJCV2laV3dpTTkzZVRLd1hNQlk3a1p4akN6bC1XaVgtMTNqSzEwRlpPSFVFeTZoNUtPWkFxTGRQLVNWdTFsaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Tesla Stock A Buy Or A Sell With The Robotaxi Service Launch On The Horizon? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNMQ1B6M3o1aFBpcDBFaHJpUWt5MHRuczhzMHo5bzRaS0hNVVpfRWN1VHdEWmc4VEJmU1Y5Z3k2VlIwX1VidXQ0eVpPakpPMVJta21BT1hLOGJEMGt6VGlSWkl4b3c1bDBkeHFQQk1iTGxjTjVGX1lBVG9qNExTNEdDR3pLUUxJcWJlX3BPOTdnNktMQVdqaHVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Declining Stock and Decent Financials: Is The Market Wrong About Cars.com Inc. (NYSE:CARS)? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTVWMTBzQm8xQ05GakktSF8yVVVrZEc3dlJQY3hUbzVJVHFqNWdwelhTdnJuZ19QT2ZJWTZqSUpUZ3h2ZnhWcHlXc0Y2NElXOEJIUEI4R1djLU1SdFBBenFET3N5eDdoYXdBMW9lNTROajlBcVhMRDJRQmY3NjJsSXFMUUFSeVIxQWpTNHJ2WEEtdUk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "“(Some) Cars are Not Characters” as Ford Stock (NYSE:F) Sinks on Court Case, Cologne Strike - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3FQMUo2b05jQVBhMWFRUEZXelo4U2NVS0hYYXFEZmlTbEU3X0NqdU03RVBubHAzUVp6Wkk0MEhaTzdJWnZGdV9aVEpBa3RXeEsxY1BORGNKQU1uM0JnQ09GQ2hNZkQzYWZrb0o0ak1SMWx6VHMwcTMwbUQ5SEUyWjljdGNKb0ZMSllLVmI3UGFHM3hRN1BEV05TNlRBbmgzN1doODVhbGtleWdRalNORUtKcw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(CARS) Risk-Controlled Trading Report (CARS:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTNzTDRNdmE1SkZpdnNMc3R1VURxSExsT0FkQkZLVGRtZWIxQVlKdXdYNTJFRThLQldET003bzZ0dlRtQWdocS1BbWFTYU1OVGloN1h4U1hMR3VabTh2eElvLW9VVTRpdjBOelB2SzdoZ2UxWTFNOWxpbTJveW5pSVdrcFVSVmlaODNDajhsVWRPSmdrT3B1Zw?oc=5",
+        "title": "CARS Tour set for Langley showdown - Short Track Scene",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXhDeGZnRUR1d3U3Y3dXOGs5Z3RzMWlITTBRQ3hQX21YdVFKV244eHJpOE9fcFRoWENuUWJHWGtPOGw3TEF1OXdvRWdmMFdwVnpkZWo5SC1ZT2J6VjEtd3UwUS1POXAwT3Z3UU91Zmo2R0oyMmczWklLUU9GdWlSTUpOSEN6S3dJd2prX05vWkFyRDZkSDlfR0I0aTZ3RC1vOW5JSXNhcnBqVzRyZDd5OWl2SHFKOGc?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Cars Aren’t Affected by Court Tariff Ruling. Car Stocks Are Up Anyway. - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNRDd4UU9FdVdVeGJPdnpPMHptRGlvejdIRnVzcXd5V2JNeWowV1NNSW9xYWVYV2VyQWU3TklkSms0QWlpdnBtaG9kZzBFSGl1NWpSVE1wREtqb2RDWE1Ya2ZZdXU3T1FscUMxcE5ycHg4YjVyM18wTVQzR3lOZ3htZEoxaVQ1cTRiVGxEc21TdWVoNFRWeWE2cVd4cmU0bXNvNWFHQWJqOFE1T0NXSVdyb0QxMnJuSXAyZmhWMkRZVlFZNjF2NzFtcGpnWjkxaGlVTlpYdkJ1UUNwWDdoMnozYTI1dU12OVM4QkNQRnBSczBnVjZ1ejMtTGxIcExBN3ZNM3Z4UFV1WVJoX0VWTUZpV0gwN29kTXVydERTTFY4bzNMNDhxN21hRTdXZjFRTEJfZXNJaFpjT0pzZDNWTEdDdFpQTS1yVEdSc2FWTkh1eXp5RzBRblpqWHdDQk4wTVhQNEViclk5eHFwMnVNa2cwZW03d1BwT1dFRExlX0pUSU9GQ19iVE9tYmZUZUc0S0tSRUdIbk5DWElJRm85M1BycTl0a2tIenprZnJWdF8taHFFR2RUMnp4eDdzeURiVTlNRE1QYk56RzZRbkoxRWJGLXpmWEVYNlJRek45SFpJd2ZRM0RBNDdYem1VeHpSUGpucktYZXZYYndVUXlwOVN4VHo1SDRxM21DQ3ZndQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxPeGVGYmxKUXdkQWFCQ0xBV3NsT1d3OUFpUzJTUDBicnJHaWpwdTBpZVFlQWFrUUN1R3pSR3REejRVN0l1OUIwOEFBejR1d0tNQjdKZThLZXhLbHVyRnBOV0RpNDNMX2llM09lMk9ubWd2UV80am15dDhDUXlmbDJ1TWZlWlkzV0lLNER2b3pMZzBZa09yTXBfYlozbFcyQy10bVB3R2xvSkVVQUIyYkhTb3EwMjZiZ05Tb25IUkYzTTMwVmRzOGJEdURQZTJFcXNhaG9UQnpSeVJWVkp3NHBYOXVCaEkyZjNMREJ4M0dfSUMwMHQ0U0h1UWhxNk1PMUpKem5hMkhiZ1VvU0JKOGp2enZRZjhEN3RaVTlDSVNDWURuNm14akN3NVhhQ0otNldvZ3RaanpmcjdDWXZISDQwV21jRE9BbDR3V1EzQ2ExX085NENYUFlRYlBLMlZSQmR6NDZQdXYyUFpZSWUwNmRWQlZkYkxzWlRpelZzUm13TU9xZURaY2pfdF9iaHNOVU5qQkl2cFpmZFUwVy1SVmRxY2haN2ZraHFTT0g0bWpFeHBJckpjbm52c3FhbkU0VG1rYzZCSnc3RnhYVnIyNmlmUFMyU2ZfRXdJNXg3XzFOaVR0ZHprNTZFMHVyLVNoeTZ3N1FXQVdoM2REcXkweFNYaDVaTG9iUW82QzZlTg?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "CARS Tour Wilkesboro preview, entry lists - Short Track Scene",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjJBRHd3SjhfTzl5Q0gxeEZPMC1xSHI3TGtfRVdmYVYtU2dlcnhZOFhETGIwUHM2anF6Q2lucFpoVUkwaG1BeUxxY0JqQkJvZ0traVFfN0VZY0NIZkZUNFNUemVEU25tejgwOFg4VUYxZ25ISENWVkRLNDlMMnJpel9hVUozX0FyQlV2LXJXenFxb3A4MGp5NzJQZUR2TkRXejZiY0ZkSkEyeUpDY2wxQkEtZmNhVzFBMVJWTS1Obw?oc=5",
+        "title": "Ford Motor Company (F) Stock Price, News, Quote & History - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RUFhNTk8ydnNSQVlxY2dCZ1RhNlp1SENhSF9aTmwwSjhpX1ZiRGlhb1BHV3F5VTdxUUQ5eTRUVUtNdVVsY2Y5amxB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CARS Tour Results: Late Model Stock Cars At North Wilkesboro Speedway - FloRacing",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2gzWEhWR3pRakI2OHlYXzBvZTdWT1pVSnlvNk9OazczY0xpSnpTZnBOQVBqa2h6YXRTZGJPN1Q2elNSdG9OX1A4Ni1UMnBQQkJoRFc1bDdGUVVrSHZMa3p6V1I0dzdBOW9ial9JZEN0WV9fZ2ktRUU5bExHWGxYUDlnNUhVNVRnUENqa0RlTlUyMm5ZMzJEQ2xkRWhGZEFma3NvTFZSbW05dVRrck5xVnBB?oc=5",
-        "label": "NEUTRAL"
+        "title": "CARS Tour has a restart and shifting problem right now - Short Track Scene",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUE9DOWc4bi1qQzVBdklzTmRZYW1WNXliNDhvaFZVcTFSTEFIWDNWOUNVX0FBbWFTWGxWaTRLMGpLX2xTWkJwZ0w5RXBOMDNJTndBMVNMTjVCQ2RyYjAxLXB0cUEzT3ZhUjRySkE0QW05LXJDcEZzQmkzc00zRXp2WlRQM0t2aVROQjJRUDA1ZGFIOUJHZlIzOVM2OXRVUjRqc205NE0yN0h5WnNYUXF2QlZaZWtKTlVPbklCbTdLXzNvLU83NDVEdXhEZkxuT01rblE?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Landen Lewis Continues Momentum With CARS Tour LMSC North Wilkesboro Pole - Racing America",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUNraGlBVWVMUmxlVk9CdkdFOXdQM2tLQ2RHci1RZkJGT2wxRi1TVTNkYmxKWDBUQ1BlUXI5LWVpTHZESW9QMUt1TS1oekUtNHVncDgzYURiVldCSFU2S3VKNVQwLTY3amRoOXN0cjlEVGh2MTZoMlBKa1lHR0NfRUFXX29fVEMtUjBRZksySlVRV3M2SF9WVEFsV3lhTFBmOTdUVFo5eEFIS0tJcDgwWkNOamVfcDZNaHh3eA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla Stock Tanks. Musk’s Trump Break Just Keeps Getting Wider. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDZUtnekU1RDEwME5VbHFvdGFYbHdHcmVUNGd4QTIyaEhPNVlSZ2JudVdUeWllLUc2OUFsLXJGXy1HYTIzd1V1X01QaFJiZW96ODVoSy1WUFc3U1B6RFd2NWdnSTNfMmliVEVYRE1LV2pfVGI5c2g1LWEwdFJqUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Used-Car Prices Jump On Tariffs, Lifting Carvana, These Other Auto-Retail Stocks - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBINmI1alkzaFpfdWZyYi1kUG4yNzAwLXNXRFdQTnVXVGFxWEVGM2VSTnJRcDFsd2pjenpQR0pDSHpQX2RobjN2Z09BNnRsTGppdlNqNmZrSTNLUEtINjI1UW1fUnVrS1JqXy1tR2FOa3I?oc=5",
+        "title": "Used Cars Love Tariffs. So Do Auto Parts Stocks. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4QVF6akxUb1JoX1liU20tbW5pTkJ2RXBoaktfek15SlpRdzRXV2kzcTE3SHEtWm5wanJWaXZtUDNiU0U1aXY1a0x4aDNKSXZjNDh5NHp6MWxLVzVmMlN1YVhJc3pSY3FvYmtpQmk1dVhjc0RHcFUybFUtbnM?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +646,16 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Used-Car Prices Jump On Tariffs, Lifting Carvana, These Other Auto-Retail Stocks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBINmI1alkzaFpfdWZyYi1kUG4yNzAwLXNXRFdQTnVXVGFxWEVGM2VSTnJRcDFsd2pjenpQR0pDSHpQX2RobjN2Z09BNnRsTGppdlNqNmZrSTNLUEtINjI1UW1fUnVrS1JqXy1tR2FOa3I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Ryan Newman reflects on first CARS Late Model Stock start - Short Track Scene",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUMtMzl0OUg5Y3BiN2syelltVHlzelQ2WWpVbFRYbjhSS1RsNFBLYlJxaGVaVEkwSk9WTTZ0Nm0tMzRGWXh2QnBvYmRodlk1OUxnUzNQNXNZTVVTMWZkMXZJRHVkY2RKNmdlSXExbW9LalBHYzJnWmNTS1dIbnV3MTgxcWhaNm1mdnlKR0xIMzlMTlZEcndIbDUtci1HSkU2dG9FN0lxNi1uMUtvOGFhYzFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why This Car Dealer Stock Might Be a Better Buy Than Carvana - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2t6SXQtRE9ZZVZxbEdzQTJsNEdKSG8yWTVadHNGdWtsVUltQ29fREVEY2hQS2lHMnBfWkNLYUd2OWU0dU5QSVVSbk9nYW9iZmNhTnR6dXlzcEJ3eFJjOFJ6bVlMalUzVmFJNW9MNW0xZ3pKTThheGtHamRQaklTZmhDSTgybjNWZ1pNeEJJcw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Used Cars Love Tariffs. So Do Auto Parts Stocks. - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4QVF6akxUb1JoX1liU20tbW5pTkJ2RXBoaktfek15SlpRdzRXV2kzcTE3SHEtWm5wanJWaXZtUDNiU0U1aXY1a0x4aDNKSXZjNDh5NHp6MWxLVzVmMlN1YVhJc3pSY3FvYmtpQmk1dVhjc0RHcFUybFUtbnM?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

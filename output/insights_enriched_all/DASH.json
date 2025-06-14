@@ -2,12 +2,12 @@
   "ticker": "DASH",
   "name": "DoorDash",
   "sector": "Consumer Discretionary",
-  "market_cap": 92929171456.0,
+  "market_cap": 92270256128.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 274.13123,
-    "PB": 11.074332,
-    "EV_Revenue": 7.666,
+    "PE": 279.1667,
+    "PB": 10.995809,
+    "EV_Revenue": 7.695,
     "ROE": 0.04336,
     "ProfitMargin": 0.03016,
     "GrossMargin": 0.50245,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16529891171418293,
     "ROA": 0.01424,
     "PEG": null,
-    "EV_EBITDA": 162.598,
+    "EV_EBITDA": 163.206,
     "BuybackYield": null,
-    "PriceToFCF": 49.92910159002775
+    "PriceToFCF": 49.933660232608155
   },
   "technical_indicators": {
-    "RSI_14": 66.3034575622351,
-    "Momentum_10": 9.199985779631692,
-    "MACD": 7.078368019271551,
-    "BB_Percent": 0.9143394448397524,
+    "RSI_14": 62.848066640265,
+    "Momentum_10": 4.426072791995019,
+    "MACD": 6.3670520099996395,
+    "BB_Percent": 0.7860352507856501,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8906176938695424,
+    "ValueScore": 0.8310444319754078,
     "QualityScore": 0.2754891017269342,
-    "SignalScore": 0.4210575364941524
+    "SignalScore": 0.4971484382016773
   },
-  "volatility": 0.0291984929593268,
+  "volatility": 0.0291465588544396,
   "beta": 1.669,
-  "return_6m": 0.228737101778981,
+  "return_6m": 0.2436461508616609,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 37,
-    "target_mean_price": 216.84431
+    "target_mean_price": 217.46594
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 175.64
-      },
-      {
-        "date": "2024-12-10",
-        "price": 173.9
-      },
-      {
-        "date": "2024-12-11",
-        "price": 176.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 176.02
-      },
-      {
-        "date": "2024-12-13",
-        "price": 175.09
-      },
       {
         "date": "2024-12-16",
         "price": 179.5
@@ -537,108 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 218.45
+      },
+      {
+        "date": "2025-06-09",
+        "price": 217.49
+      },
+      {
+        "date": "2025-06-10",
+        "price": 214.97
+      },
+      {
+        "date": "2025-06-11",
+        "price": 217.8
+      },
+      {
+        "date": "2025-06-12",
+        "price": 216.6
+      },
+      {
+        "date": "2025-06-13",
+        "price": 218.96
       }
     ],
     "current_price_data": {
-      "price": 218.45,
-      "change": 2.61,
-      "percent_change": 1.21
+      "price": 218.96,
+      "change": 2.36,
+      "percent_change": 1.09
     }
   },
   "news_sentiment": {
-    "summary": "DoorDash (DASH) a récemment conclu un règlement sur le litige concernant le plafond des frais à NYC, tandis que l'action a grimpé de plus de 1,5% en négociation tardive, suivant une trajectoire de croissance solide. Malgré des résultats trimestriels mitigés et des acquisitions, l'action a atteint un sommet annuel de 215,61 $, mais a chuté par la suite. Le financement massif de 2,75 milliards de dollars pour des acquisitions et des rachats sans intérêt a attiré l'attention, tout comme l'offre de Deliveroo qui pourrait étendre sa portée mondiale. Les investisseurs devraient surveiller de près l'évolution de DoorDash, qui continue d'explorer de nouveaux horizons au-delà de la simple livraison de nourriture.",
-    "sentiment_score": 0.25,
+    "summary": "DoorDash, entreprise de livraison de repas, a récemment connu une série d'événements marquants. Malgré une expansion agressive et des bénéfices record, l'entreprise fait face à des actions en justice pour pratiques de tarification trompeuses. DoorDash a réalisé une acquisition de 175 millions de dollars pour renforcer ses capacités publicitaires, mais a également lancé une offre massive de 2,5 milliards de dollars en obligations convertibles à taux d'intérêt nul. Les analystes sont partagés, avec des hausses de prix cibles et des notes de maintien, reflétant une volatilité potentielle à l'horizon pour les investisseurs.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.4,
+    "positive_ratio": 0.3,
     "neutral_ratio": 0.45,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "DoorDash (DASH) Reaches Settlement on NYC Fee Cap Lawsuit | DASH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV95UzMxb3hXV1VRaVZyRm9HX2xWVTRYTmI0ZTBfRkhqTVZHY1ItTU1pTDE4WEJLNXZtVVRiY191RWp1MDF5cHNCQkpYY2JzaTFqc0kwTFpCb1NUSXhsMkZxV3B2b3o2aUk4bDctd2VIcUFpTVNTbEhpdWFMcTQwci1JR2dRTXg2S1h1R0c2b2ljSjVpSW80WFpDNS1TeHJlVl9OT0tIUGJjQTc1SHRN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sale: Director at $DASH Sells 63 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeHoxTHVHVFhxcTdZeVNyQVYzNmtBQkx0OTlzMDZXemtUS1g5aFFMdjdiMnJhalNIZ1RRSFhBa05UUjI2VTFydzN4UlVDVmlISmlmV3VmS1NfV0c5M3B3OV9ic0I1cmZkeFZvZDRBN2FpNk82blpjS2FrbDZEbUk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash Pledges $25,000 Match for CaringBridge: How to Double Your Impact on Family Caregivers Today - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdG5jOXJWRlhmMDZUeXJCMVQyUWtWaTZTR1pVZVVkLW5TZTBEZVNrWTlvU0RSazhPYXduU3g0elRmbFNmREZNbnFscHBpSUVOVExMSllmNmk4ejlCczM0b0lrdVRhSWxpZThZQmJQdkVYR0VPeXBmUWZjSE9fMWJETFlsWktPdlJ1cjNqLVEtLVVSZmFLQy10S2xVWUxELXIzUVVPSmtvck5EeHhYX0FTTGlXeUlkNkN2eFAxUV95TTk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash (DASH) Stock Climbs Over 1.5% in Late Trading, Continues Strong Growth Trajectory - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOczR5OHM0VkdmU19zd3UzbE93QUVXdGFjR2JWZlhoV3VxZ3BFLXFXc3VmZVIxRFJwczFJRkp3WUVaa195VTE3bHhHQkNZbmR5NDVWRVJ1SjBiX2ZBQ05DS3otNWFRY2JuSk1KeGdhc25DMWNaVTF1bmhvbWczcThGOHBtcTd0dUR4dlNQVV9pd0NZNE44WElpak5HcGpUVlpoREI5VGRjZnZydjI4Z3NyMmRMRzh3MFJ4YmdYS0NiNUtieWdtdjNJNWw0WQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DoorDash (DASH) Up 24.4% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YYklWNWFvLXRkLVpSWE5BalgwQ2RSNHg1eDlDWDVwRnZOdUVmLWRoVzd6MlFxd0hKYnQwRmZ0QmdMVW9tVFlPNkxMbFpDNzRVTDlCOEdQVC1pLWtXMlFSTTYtR0xSbk5KT3U1SE9fRVdvLTV5UnJyYXpR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Doordash director still Ashley sells $13,446 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1FEOXpuU1lJUkNRejFVd2JRZGNXUG8zc2tVZ3BKbzNDM0pRMi01akJoVm1JMHFXYXhuS0JOcURTS2wyU0dRZU1DbjZUTURKV0JabVg2R3ozMjJMcEFaUUZ2UTUzX0pBYXRFVTZnTnZUWndmWTk3dEJNdlpmNlh2Vi1EQkZjV0JZcUFoUmNwb1ZEWElnc3NiTGpQRnc1YUppNmI4MXM3T1hGbmxMVDdGZ0ZJa2huQ2M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash Stock Forms A Bullish Picture Suitable For This Trade - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmNDLWdyNE9XU3BwZDBCRm1UYjd1aDRQZFUzMFhvTE4yeDM5cWVnMXl3Q05PVW13bEsxM1djVEthQzRWX3FDU2FaSjljOVV1STIyc3R0WGQ3Ri1yOUFyZXdtZXdOUjdHT1Q2am5BSzM2Tmc3ZVU4TktwcGVHSVB0c2J0eHFrbUFtQ0ZZaVhDZTcxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash Expands Beyond Food Delivery: Should You Buy or Sell DASH Stock? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2puVVZaTGlkOF9zMEVGbGQ3TTJwUzlvM3JGcENXLVdWVG5TM2JUYzVnNmR6bnI1MGNOeGw0WENtTDZGT0kxdmp0c3paMXZGYk94TXhuV3ItRjNnMnEyVFVfWm5taWdxSGRfMTBQbHhwY0ozMEZlTXdicUZ4SGNxYXV6bTh6aUlRbzQzRnRRdEZfU1JTeWNfRzNvREVqTUZUclhXekNIcjRiNkM30gGyAUFVX3lxTE1BVjdMb3dHbFBWU1VRdEh5a2U1eVptUFROcTluYThmZjBpMjU5MzRCWTBNYUR4QU0zVDE3TjQwOUU4UzZQRVVKY0I3OE85X1hhLUdUTVpUVFlPU3pycV8xNjYtMkJDUUlNT2diV251SVN4cjVUV3RuRFZlcHBBWDBkNkpGak94bmtCNUxFb3pPWk5sV2ZWMHRYLUZzcWVwUVktUTFaUURXT1NrV2d5Znc0Q1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash (DASH) Stock Slides on Nasdaq, Pulling Back Despite Stronger Medium-Term Gains - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmNEcUIxbTlGOWJodFRjMlBhNGs2cHJkSHFtYTU5UVlzUDNfdGlCU1BVSWdWXzdMcFZ3UzFrZkM1cy0tbzVpOEh0bmxkXzVBTE4wZ2twSGQ2ZEZjeERfYUszME1feV9NZ1RBRXl5dmU5XzlSSi0tcWhTMjJiMWxOdDJnUTVUeEljUXpJSXBQUHZCc1NhNHU4YTcwWkZyREtrbmkwS1UwYXVwUUxyLV8xY0t0eFB3QVk4QjBLcWlMb0Z0dTRDTGtLeQ?oc=5",
+        "title": "Is DoorDash Stock Outperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVhLN05vbEppbGRZRDFKdHUyMFlMWlRsM0h4ci1ONDNhcEFybUNnVk14eUJ5NktrTHJLS1pkNzNIbFNRcXVqWmJnNHF0Z1hacjFVaDQyaXlNeGNSNllTUTF2MXlVU0pXSzJPWXZoeURtZjJ6YkhzaGpKM3UxbGZpS1lWTVFuaHhVUFFuTk5IV1Y0SVZxTmd1OVNKWmRCaWphUjNVV2ZoY182VHVQd01tTkdSUnNkVG42MEhFcEhPb2I?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "DoorDash Stock Hits 52-Week High at $215.61 Amid Surging Demand - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFJwb1MtT2lVNGxhcThsbll6eHE4Y2dSYVlXeFhncUFYTjg1MlJ5VW5kYk83NDd6djVWVXlsVmVCUWdnTWN3cTl3THJXUlF1LVZMelJCckJxMkwtMHVmeFFfNnRweGpRUGNZZkpVV2NFQWRwTFN2ZmNSYUNGbkxLSFZzdmt5ZGtxS2h4aTRRTE1lNGI3X0lnNzZWYmF5VTlHTTBHTDZ6SE0wX3Vqa25tbUZnbGNyU3Zr?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DoorDash Stock Falls After Delivery Firm Makes Pair Of Acquisitions And Posts Mixed Q1 Results - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3cwTnJoRkxVczdPcFJQQjUtcHlueC16TThMNTZyS1hfcEpodHAxQlZGTDJmZkVGcnRsUzB4eGROV1U1djF1MzJybUpLUVIySmx0bW1HQkVXLW03UmlNRGhWc0d4bklKV0pNbnNHaTVCclZfbDZuVi1hMDdTanRIRFA4VkdrTzc4MDdBZ05lbUs?oc=5",
+        "title": "Is DoorDash Stock Outperforming The S&P 500? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmZPd0FTdUJZNVF3b1ROXy1selJ0bFZjWFFrdDFzR2ZlUW1OMl9ncFY3OVo1dkdldnlUZm9hQzA4M3VRMDhPMG95Mk1JTEJ2S0pwZF90cVB1VV9oWGxMT2lHSlFibEhzemdobzNQdUlVZGRNekNoaGl5Zm83cC1oN2hpQWRGb1VNNkpKX0lYM01hZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "DoorDash Stock (DASH) Falls as Record Profits Meet Aggressive Expansion - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3h1OUlGSWtwLUUxZmZWNHJDalhLZ2ZlcEU5MUE5X1NtcTVWVVpBaUo0UnRsTG5XV0lZNUxxa2FMcmR1cmtFdElIR3JjZ2l0UlRyR0U2Y3RNLTlRNkpycVNJbXFJRllySUVpLXRkc2NNSk53bVF0ODNNMDFWTG1seTFaM2k?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Insider Selling: Gordon Lee Sells Shares of DoorDash Inc (DASH) - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmFsZ19xOTNCcXU3dzBuWGp2cWNockU0cEc2Y0NRYkpjOGhQTlNSUmNCQ18yWDczNnkzR2s3TjZUc2F3ME5NVFlDaVBtOTFRRjVtNkVUQ2lESWlpZkE1Tk5pSV9UVzQ1RUhoeERDLV83ME5tZ2pYTHZiWEJKYWMyUzJIeHNrdE8yeTE0UFZXYmVxUVkzdHJqeEdSSEl0dTQt?oc=5",
+        "title": "US-Mexico steel imports, Palantir stock, DoorDash & Symbiosys - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTEdfdWxlQ2ZYMXNFZWNqenlSWE5WVjl1MHZsQVBIOEVfQ1ZUUVdGQTlnQU5oRGwzV2ZlSEJkUHBVWFp5T2F1NVVaZjMzX0FnLWhQQTk4bWJnYUFyLXdQeGEzYzJ2UVNpaE5wdDZDcVQyMXM2NG1mbnkzNV93SFRRU2lLODc2UQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "DoorDash's New Integration Partner Drives 23% Order Growth for Restaurants - See How Otter Does It - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFNTZUlvbVJjZnJ2TG82MmpnN3FJeDZRMzBScHF6UEpfYXVrd2M1MFR4X1N0eVg0WHhOUnVfR3BEZDc5dkRldG02SHEzOUgxemR2SjAweGdlWk5iaS1taFZZckQ2Wi0zbERtUEI1c3dJVG5aSHRaU2RZLUJBbW1KcGJaOXVSUGRGR2VHNTIxRnN6N3UxODNzR2l1UlpIUGNyN2pV?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Shareholders Will Be Pleased With The Quality of DoorDash's (NASDAQ:DASH) Earnings - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGJYQ3g2bDc5UjNGdlpwcE5hdHZRbk1Xa01vNnpScVBIUEVaTnF2bEVXdFplODRNQW5nMWdjT2lhb0lKYU82UUVUUmxZUGtnWXN6VkF2WkFkMVE3bmxzNVlFd3YzaVIyUWIzYkQxeTVDYmljcXRsQ0FRMWZQalUtUUR0S1hRZGxkZlFMM2xYRGF0b2wyemc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DoorDash's Deliveroo Offer Seen As 'Meaningfully Expanding' Global Reach - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0xnZzJqYTdYYVFtS2h4LVZXbzF1Q0x0NlFEUjdCQ3dlMHhPY2lxVTNWUkdaV0R2NmFPYWFXb2Nac0x1b2U0dDNIOC0weGpYQUZGVVlMZGk0Y2xpYW5XTFp0ZldPU09FNlZLSFp5Ni1lWEp5ZVMtOXd0X2JnVDlrdW8zWjEwdW9EY2JGYi1HYXI4UlAtdUp1dElRdEdVZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DoorDash Secures Massive $2.75B Interest-Free Financing for Acquisitions and Buybacks - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNTcxMS13NDBiU3lDVXBNU3dwRWx0Ukh0UTFOd1hnTUZBZnhlX0N3RDg5NEpVRDc1YXN2NmFzODN1dEQ4X2x4ZklUODV4dF9Ca1paSk1aQi1tTUhSWWhOMTlUZWVmRU1vcDRXRmUtMEZYT044LTZJdDY5N1pBb0k2SU54YnhGT2dmc0JSRnF3ZDhnQUFNT2E5Z1VMMmxraHhCVVhOVThWcGlER1BBR0RkMTZJZk1WazNDb05sYw?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "This Online Retail Stock Sprints To Entry; Earnings Are Seen Soaring 647% - Investor's Business Daily",
@@ -646,16 +576,86 @@
         "label": "POSITIVE"
       },
       {
+        "title": "DoorDash (DASH) Price Target Raised by B of A Securities | DASH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamd1VmRtekdHb3ZGaDVKbUNWNDBabDZzQ05EMXA4X09UVDVZVkNId2ZLNG1Vdkw3VmVmbEk4bVVMYzlJOTd6RjdJcTljTGhGTzFOa3NIU2toNVVWSmZka1VURHhhTGJaYjNpQlo1YVpmbVFBMklpQTJVZVlBQzdMMHQ0bjExUDNkLW9HdGVDeW1kOHBGT0RLcTlDZkZsUUJ0UWtSRy1tbi1tZnpsZXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DoorDash (NasdaqGS:DASH) Expands Ad Capabilities with US$175 Million Symbiosys Acquisition - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDVkWTU2aEJJSFBONjhfUkJPbDd4S0s2WlhxRXJRX3dJcGJvUnp2cDVXMGdkM2wzaE1kZ3RWSkExUlR0NzJUdlZxV1hCTVB2V19HbThxb3A4TnM3eVRndW5lQWJ0NjNmODg3Wi0wRVZzMHItRjA1dDRfOEttMWFTQUpxQ0NtM3pJYjFRQTQ3cmswMzhObXE5M2NOdHo1ZFN4RldCbUc1NnZnS3M5U0ROV0MzQlVZWEZad29aOTlJNmpjU1JBYlNmOU45YldiMkVqUGfSAdcBQVVfeXFMUEJnaXJZUlVqbHR6SDdwc0VYb0hYUnQ2NU9ETmtsbDZGeTBUYzROTVFYN2VWV2ZmbFMwekdreEhkMlFzY01nV2FMMGdod193OWEyT1UwQnN2aldIbFJwYjdhZnA1N1c0Rm5FdmNmM3N2NDNzNU5kTTVhSXpaSU9MclpzckptWmJwek9JTzMzMDY3S1hBeTdmVGliVk92UG9JRld5bFktQmlfa19IN2dZMU5Vb3l5c29iYnZMdEwxcnVNMzNrYUU0RC03V1FHdUNUYTZGX0FIb0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DoorDash Reaches $1B Ad Revenue Milestone, Expands With AI Tools and $175M Symbiosys Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM25kWEJSS3IzSXVHRWN0VHBCWWxNX0c5WUJ6UkYwcnktUi1CQTJCTVNkbWZDRzdMdmNSNm5DMDBBRVpXOXlQUUdUWllCNlJCRWJ4bk92TEtENzllZm5Dd1ExRHlZbEtBemZKMXBXWWJzcHlGQkw4WElPMlNBWUc5cHdRN0dfdDVLVmVHREtCRmM4UEE0a2FDMHBQaHA3ejRmVU4zZU45alhiUENzcmh5Z1BLTGl3YlpjNGlqdElR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DoorDash (DASH) Stock: Positioned For Profits - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR21ZZXNfNkEyU3lNdWxHY2c0SGx5V3FGYmhPNDAtY2oyMlkwNWRhMTBmWmxSMXgzZFFRZ0F4TFlQVGtoLUlOa1NxS0ZYeU9VdXF3cDVmRlhWNUJuQ0U4TFdpUjNOQTltUEhCTmlMTlpEZ1pZODQybUtnc05jRE9Wa3h3WFc0d0RBcHFSN0p6OC0tWWVMVG80?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LYFT Soars 37% in 3 Months: Is the Stock Still Worth Betting on Now? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHlMdnJ1MzBWdGw0eWlsOU81aURSUzVwdTFmZmZOWDFES20zOXRDVjB6YWp4UjNfb1U1UkpZbGJlVTVONmQ4MWgwQWpjd0ZBV0h4emFNLWtCS3Eta3hTb2lXOWdhMld2a1ZoeHYwakxTV1FITlRjTENzcHpSbGdJbHlTb2tFd2p0bWxGbVFDT3lCOUFKTGpOOHAzbnlhT1VjQlRoWjdHNlhfcC1Rci1SZXV0aFgzalp0dFBVTWhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DoorDash Stock Dips, But Still Boasts Nearly 90% Gain Over Past Year - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHBaWENXS0F1NDdIWGZxRmdQdzlBMjc1NUxTZlpDLVdOUEtOekdPYWhGZUVVaDNXYWNMTTJHMWRlNlkxX0Y0VEV1Z0wzbTRfUFNFRVAxYWZJVldmVm9veGVSbGhDUmZCc0JSZGRaZVBGQkZkT2RQSjJ0ZzlOSlRPOERZMUJYN3VJYWgxSEtwc3ZzVmVIcGtSbTAtLVFiYmlmVjJodWJWRFVnX2hvU1Q5VA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "This Magnificent Stock Is Up 370% From Its 2022 Low -- 2 Reasons to Buy It Now, and 1 Reason to Steer Clear - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXNKc2RfOE5zcDQ5WjM2WGxEMDM5eGZHRWV6M2tnUUZVNlBUZ3NSYWhTSzRiTVhBMDZPUG5kYlA5LTlOUHB0LWFsQXNBclBQLWlHSWhyZzdaYTl5anBLaUtEYnN3ZU50TE9mdnQ3MUlIYWx2azhDTW9pSVEtd3VsVENaUGJYSTdXdzNPUmxtM1B2UGJHa1REcTdOSHR3MXE2X0pLOXFNVG9WeVh6d1gxTkN3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer Notes DoorDash (DASH) Has “Been a Winner From the Get-Go” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0dYTXR1LUxLOGxoTTBTWkVOV1pibzVMSXE5UFBIaTZ5ajRfeDZ1VEZlVGtjN1YwRnlmbV9xa0dNalA3cWhWaEdTQmZTUk5nQ3lFQnJHOTBteDRfOWE1bXptNm91elJGdEtLRFlpUFQ4bk0tSU96SHU1ME5qZWY1TDdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel Initiates Coverage on DoorDash (DASH) with Hold Rating | DASH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemJ5Q2YxQkNzaVZEWEU4ZE1UZ2JzcV9mQ05KNm5tTnNEaF9KWDBmUElJNGhoUmpwTDFGSWE4YXl6bVMtVkR2NjBadUlfTXlrRDRvd0NkdWU3STBSM1BGQUh5NzFseHFyX29kMWdrWl9RcDVlUkRNR0NVN2dsOVJ5UFN3aWx0Yl94MU1ZUHBxOVlDQkFpalUzbEEyUFhMZGpyTEVrV0laWHdjNVhHcklxVkFrcHZNUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "DoorDash Secures Massive $2.5B Convertible Deal with Zero Interest Rate, Plans Strategic Growth - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2VUU1VjOFA4WWNaNDFvTERPc2JqaWlqU1NaQ25YTC14M3lPdGcwLURpVHhtRDAwdV9vellua1lKU1BMYk9aOVUtSERzNEdReTdzUFZIcHNObFk0YWl5MlRRdGJoSE5Sc3JFUkdRVE1rVUdKS2FzMVBTbGx5MlBGX1AxVGM3ZGM1MDlPOVMtWmFPdEtCN2h2VHF6RFZVaDZvQ1g3TFo1T3NCWXpCanBQb3huVGNnaEk5?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The 5 Best Stocks To Buy And Watch Right Now - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tLV93b2FIV0wteHhQcDVTXzJCeE5pbG1GUm51TWtER3p6a2c1TGhoV1NZVUtwVGJyeGdfa01pbEpIa2N4M1lOMEZhMWVva2RaUTJWVEUxdm1fZW5yQVpfM2huOXYyWUVMQUE?oc=5",
+        "title": "DoorDash buys Symbiosys, adds AI tools to ad platform (DASH:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHU2Y3lhdElGSUVWcVhqRG5YQktYalFrSzZjUGN2LUVhZlZVZG81SlFKdm96ZGFrMUk3Nmp2RXZVTENVZUJkNk9CM0gwWjZlNmUzbkxDeHJ5YW1TeGhrRDZuOENtWXp0bFg1TWJJUTk5cnFhOTgwdVZUQXR0dWlzT1A4enQ0TTJ3MVdOazUtczVWV3dQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DoorDash (DASH) Price Target Raised by JMP Securities | DASH Sto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVZtMll3Zlp3T1hUeTlZaWwzb0NQdGpmcVZocFBucU95N3BBSGc1UnA3ZnMwS1BHLTV2dWJSNm11WkVoV0JWZEJrenNfUUM0RjR0OWdBRVdVb3ZUQmgzcXI4WUNGdzRTeW85ek04dWFma1FtSVVwb3h1Mmxpd1UzazBEMktmRVVjTUJpbmE0eGJUeEwxV2VQZTVSZk9uakNnN1JNa2ROUElfUQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "DoorDash Stock (DASH) Falls as Record Profits Meet Aggressive Expansion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3h1OUlGSWtwLUUxZmZWNHJDalhLZ2ZlcEU5MUE5X1NtcTVWVVpBaUo0UnRsTG5XV0lZNUxxa2FMcmR1cmtFdElIR3JjZ2l0UlRyR0U2Y3RNLTlRNkpycVNJbXFJRllySUVpLXRkc2NNSk53bVF0ODNNMDFWTG1seTFaM2k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DoorDash (DASH) Plans $2 Billion Convertible Notes Offering | DA - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEhERVptOWdGVGp6Smt4LWhndGlzM2RQQUNOMzdFbGtaaUZTd0V0WlpNMEtTdFF5VVFfU3YwQ0lxRHExY0tmQ2dXeFc0a0l0LUcwRi1ZdllFUVdLVU9GS09NRE9pdE9VcWstdFNQWnoxUTdRc3FHeDdzTnZONE9UY0w0V3lWZ1JDSnhyUVZGQmdMNElWTGQ5bDQ1Z1BwVTduTE5DalRhRWNReXhieTMxUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DoorDash (DASH) Price Target Boosted Following AI Ad Tools Launc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUThqVENXbDNoakdWb0xkazdjc3hzNGQ3TjdQU1RyV21qeHQxR1l6YUFid0FSZTVsTDF3dHhYOUVqbzBkNU9ibElyVWNUODBwT1JGZFBkT3QzQS1VZlNNb1ByMDBiQmxCbUdxamZJVTE5NzVMNzJFN3B1d2oybjB6bzllSnBmRHkwdU9tdzFiaG84c0p2LV9Wb3h6OGItTUhpT1JORkpIcjBGZURyWWdmNk1DWWhlNTVmV2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DoorDash (DASH) Faces Legal Action Over Misleading Pricing Practices | DASH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVdRa2U1V1FXVjdOSXp6Tk1kMzB5T0RuNWh0SDc4MHJ4TUVVYnpDYWVVOVQ4RkhfczNZUktCa0NsSzE4WDh1c3ZoNkRaaVNFb3Uzc0dyN1BJNzJXcUR2bEZ1TmNBcFBFTkJZUWtCQkZBNXMxT0lqX3g5MDRaYWUzZzgtRER0SEp6TmY1RUJKTXBEbldKeUpOZE10d0hScV9lXzBIVjNEaE5VbGRFQV9ibFV6RjIzcnFGYXUwNWxKVQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

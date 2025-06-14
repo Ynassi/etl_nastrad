@@ -2,16 +2,16 @@
   "ticker": "FDX",
   "name": "FedEx",
   "sector": "Industrials",
-  "market_cap": 52651880448.0,
+  "market_cap": 53552771072.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.8294525,
-    "PB": 1.9746952,
-    "EV_Revenue": 3.829,
+    "PE": 14.066078,
+    "PB": 2.008483,
+    "EV_Revenue": 3.8645,
     "ROE": 0.14762,
     "ProfitMargin": 0.04462,
     "GrossMargin": 0.27183,
-    "DividendYield": 2.55,
+    "DividendYield": 2.58,
     "DebtEquity": null,
     "CurrentRatio": 1.239,
     "QuickRatio": 1.111,
@@ -22,50 +22,30 @@
     "PEG": null,
     "EV_EBITDA": null,
     "BuybackYield": null,
-    "PriceToFCF": 12.833293993817957
+    "PriceToFCF": 13.07542035740536
   },
   "technical_indicators": {
-    "RSI_14": 49.76100985427185,
-    "Momentum_10": 0.4433075414862497,
-    "MACD": -0.6101218908405599,
-    "BB_Percent": 0.3979496659740862,
+    "RSI_14": 53.07279665869796,
+    "Momentum_10": 2.5401160619424266,
+    "MACD": 0.8741680000969723,
+    "BB_Percent": 0.6755662491113175,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9335563083048236,
+    "ValueScore": 0.8864015995633968,
     "QualityScore": 0.2870126426662347,
-    "SignalScore": 0.5862578434088688
+    "SignalScore": 0.5545534253897095
   },
-  "volatility": 0.0236963328115799,
+  "volatility": 0.0238762673714352,
   "beta": 1.362,
-  "return_6m": -0.208912148297332,
+  "return_6m": -0.2070730210889617,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 31,
-    "target_mean_price": 275.29388
+    "target_mean_price": 274.06805
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 279.53
-      },
-      {
-        "date": "2024-12-10",
-        "price": 279.32
-      },
-      {
-        "date": "2024-12-11",
-        "price": 281.16
-      },
-      {
-        "date": "2024-12-12",
-        "price": 283.69
-      },
-      {
-        "date": "2024-12-13",
-        "price": 283.42
-      },
       {
         "date": "2024-12-16",
         "price": 283.44
@@ -537,43 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 219.61
+      },
+      {
+        "date": "2025-06-09",
+        "price": 222.18
+      },
+      {
+        "date": "2025-06-10",
+        "price": 227.96
+      },
+      {
+        "date": "2025-06-11",
+        "price": 224.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 225.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 224.38
       }
     ],
     "current_price_data": {
-      "price": 219.61,
-      "change": 2.87,
-      "percent_change": 1.32
+      "price": 224.38,
+      "change": -0.62,
+      "percent_change": -0.28
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'analyse des récentes actualités concernant FedEx (FDX), plusieurs tendances clés se dégagent. Malgré des fluctuations du cours de l'action par rapport au marché, l'annonce de la nomination de nouveaux dirigeants pour la société FedEx Freight a été bien accueillie. Les avis des analystes divergent, avec UBS maintenant un avis d'achat et un objectif de cours à 331 $, tandis que JPMorgan a réduit son objectif à 260 $ en raison de préoccupations sur la demande. Les incertitudes liées aux tarifs et aux performances trimestrielles continuent d'influencer le sentiment des investisseurs, malgré des recommandations d'achat de certains fonds comme celui de la Bill & Melinda Gates Foundation Trust.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
+    "summary": "Le géant de la logistique FedEx (FDX) a récemment suscité l'intérêt des investisseurs avec une série d'événements clés. Malgré une baisse du prix cible de Bernstein et une réduction des prévisions de Wolfe Research, l'entreprise a augmenté son dividende pour la cinquième année consécutive, atteignant maintenant 5,80 $ par action. Cependant, des signaux mitigés émergent alors que le marché réagit différemment aux actualités, laissant place à des questionnements sur l'opportunité d'achat. Les investisseurs devront surveiller de près l'impact de ces développements sur le sentiment global du marché.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "FedEx (FDX) Stock Dips While Market Gains: Key Facts - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjZXYWtZWDlrZDFkaVpFcXJmX0RxZGFEUUlES1ZfY2pldXRqSGV0eTVGQVVsVEU0ejg0R21iakZaMGM3enIzV3Vzc0ZkUzU3dnhtMmVocmc4SGRqSVZmekVFd2NxYng0aHRRTDNuUlN4alJlOGI3QzZpNDZpMFNzZVl5NE95TjRoeTJv?oc=5",
+        "title": "FedEx (FDX) Target Price Lowered by Bernstein Analyst | FDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXNVOTNMNFJFQ1RDMWx1VXNoR0hOUm9oQlNTRDFmWDFOckZBckZ1WW1QS2NYQmIzSXlOV3I0bUpLQkhZWXBGY3pfbWU1OTdtUXFjSHRBRm5fUUxEcVN5SWg5SXNQdzdUZzVWbXhtbVg5RVZ3eGFpSjVMWG1qZWVTa0djMHZLa1ZMYjZvS0pSaHQ0d0Fsdkx3dFA2blFyckNzUnVkN25tLVdUdw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "FedEx Announces Leadership for Independent FedEx Freight Company Upon Separation - FedEx newsroom",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1hGTHM3dXl2V0pvRmhNYTRBakcycksyMVo1eTdKVzVGV0JneENOSmFqRXgyTk96eTF6TFd3OUQ4NTdxQ3NjNWdLRzRtdXpwUjVLM2ljUDdUaUl1eFFXaXlTLTZLTU9OWXRjdkRIV3J0bTlBTDlablQ5c0wycnRRUlFwc3Y5N3BuQmxPcFM1LS1DcjJxTFZNV3ExRmdBajdZX1hRdG1aVF9uU2lydHY4SlhRdkYxNlNrTGFuMTdYc2JDMUg1VEY0aFRxNA?oc=5",
-        "label": "NEUTRAL"
+        "title": "FedEx (NYSE:FDX) Is Paying Out A Larger Dividend Than Last Year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEQl9ELW01YWFrRHJlQ1UyM3hKa0JfNFJCdzRsNEFyVXVreU1TOV9zV0c4QS1yMUtwc3Nwa3pwM0pjOEpPeWJsTmlpQWhOR1dnT2JLajZSdjgtcHByMHdBZVU5SlhTUDROdklubVgtVDFNNkxaMUpsZnB5NHRmX1E?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "FedEx (FDX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWctbTlNdDZScE9MSDJuSEg0WklxbXZpbGpEM1dEOWRZaWdSM2dQcnVQa1ZybG5RMHdmQnRiN0J1TDlHbW9jdTlDaTBUMVBSNlcwaG9NOS1keWpzR2tfaXBNeFpwMzJmUFdtbEJseWl4ZUJxQzFTbl9tNFpKQndvaQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "FedEx's (NYSE:FDX) Dividend Will Be Increased To $1.45 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlZaX01xQzBfNk1yTjl1Ym5RN09ybWFEOTI1RGVGMWhJT3NXYnVNWVhLUWFTN3VMUVNTZ3BJWUd4RE5IOThPZHN4QWo0amJfZFNmQjFOSE5kaDJSUmRkMnVmNGt6eTdMOUhWNlNGUUh0US1PVGh4M21IT0FrYXpwcVB4cEVaaS1tRVhjZzNLS1VrR0FpOHVBTHFIZVZsS3R0N2JFc0hSdXR5MjR3YUxlVzZZek43UdIBuwFBVV95cUxQcmJBT0ZIZHJVMnhUMlRYTzRkUS1pQ2lsVi1qYzlKd0RHX1NBcTJaYXdjQ09iWEhMSmJqcDZwb0hrSGxXQUlZN29VM1l1WmNNU0JIX2lRSzNVN1ZGcnIzc0hOZ1NWbFU5TXBrbjRFMUd5alRXOXowVEF0eDgxN0NyVlFmZ3dQU0dSbmpWMWNjc25HUk9CMW1nQTVnY09RMjEtT1BKMXNUT2xYTTU3d3dtV24xX0VPVFB3RmdN?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "UBS maintains FedEx stock Buy rating, $331 target amid CEO appointment - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3ZmSmdlR20tQ2pxM2kwZ2NwQnE0RENFc1UwUkd0RmlyY0FmZzI4OGRMbG1pRFFhZkFUczEyYmdjblBtOXd6bWdPenlMdElmc1pSY05WbG1MZjhGb3ZTUmlyeVQwSlBXZ2lId05TajV4OXQ2NFU1eUZPNVJtN1FKQTFjQ0pza3lSYml5MWxTUFZINUNySlhvRWZTazR6UEVRV0Z0WVpYVXVpN2dPcDNzT2lVbUtzV3pmN2JZelZscjVOMlJzRHNV?oc=5",
-        "label": "NEUTRAL"
+        "title": "FedEx Boosts Shareholder Returns: 5% Dividend Hike Marks Fifth Consecutive Annual Increase - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXdpYXBFdHU4N3BfSzJ1aXAtdDZOTlprNkx2MlJfT0xIbVZtc0pVMzA2d1lWckxsT2tvUFU5MllfWm1DREVtUTBTUm4zOFBYRmtBVi1UY0lEYVpYcFBkZjFoM0o3TTROZDVUOWthNG12Um9jdlJQRGY3U3l1dHd3R3hwZVkwTzM2MUV0akZSNklyaTVPQmhSUUd3ODUyR3p2Z3YwdWlxWWI?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "BofA makes FedEx price target decision after Amazon deal leak - TheStreet",
@@ -581,64 +581,49 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "FedEx (FDX) Target Price Revised Amid Tariff Concerns | FDX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXdYZzduQWZZS2hXczZqZi1oQkxScVNoc1JTTWd1UkpBQlRMcWoxQWRqZl83MjRJN25hczNPZTBGVG05a05tclgyYkdub0RMTDVVQ0wzSWhGVUJwWU92YzlxaEEySXJjdklMMjBJVmNfUFdaRmM5UzZOWXBhcXF0dk8zNldzd2lENU1IR1JOUGpySHZrbEkySk9ZYVhnejAtLWdEVlUzaUdiQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "How Is FedEx's Stock Performance Compared To Other Industrials And Logistics Stocks? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWxmT3dMQ0VXd01EbWptQmJRbHQ4em9hQXBGd2N1YkN1cW5ISkZzcDRka0tVSHF1LWhNSnZYa0FhbU9HQkxqMzhyTkJQYm5MQ0puZWFkUXN1UzJRWlR3SEJIWVBXNWVQU2QwUTNDb00wSnJaN3FsTDkxTEFpeEFuN2Z3LS1RalFDUUJmVHItaF9VdC1va2l0ZU0wZ25razBrVHUxSnZQenNmdXRHOEFid3JpSHFVM2FESFpTc1l1ZVJmLWt2bEZz?oc=5",
+        "title": "# Wolfe Research cuts FedEx stock price target ahead of earnings - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFg3WUZoS3kweE1wMVpSZC1sWDVTZXRSM0tLck1TOWlZUW9QaUlDNWJpOU0tV3F3MTd2eTBVM1E5amxHbk5HaWMzZFd6eWFLdmFlektVbEZHa0xtUTVIOWN0SFAxYUFzZXZ1VV9HLXNuamlfdEluYlp0YXZxRmZ6MXBOeEZsZ1FaYlpWS0JOdDUyaHh4MG84eWltSVhFdHp3eWwzdUlMVlZzcUdkSk5ZTnNHZ2Z3T3ljTWxTaVNxalQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "FedEx Corporation: Consistency Is Key (NYSE:FDX) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDY5QUJFOHN1TEZxNXdvb1ZQUmRBOGVIVC1tNVhkTWIyeVhja1JJOG5SUGRSOXhDYWI4dzZyT3hiRDM0WGl1LTY2N3R2M0luZVNzRGNVWEZ3dlRhckxBelVaYjlPUXNIX0RYbXg0eWV3ZGdZYmw4dnpuNU1FU19GSlRGYw?oc=5",
+        "title": "Bernstein Adjusts FedEx (FDX) Price Target to $249 | FDX Stock N - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHltQ3cwNTF6N2F3dk1MZVdudVFIa1RhejE4UThwNXNJMzg4bmV4LVU0djlWejNmSlowcWVJQ3MxSnNVRXNzTHZGQlVMd2RtRTlZNXAwcGlnTDBXYXNZVmttSEZtXzVwLWR4X2FBYXRrb2xsUVIzTmFQT0RGcWVJZlhKWUQ2TDZYRDc2NUZQVEt0Mlc2WnpFa1JNbXJXUEFONGk0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "JPMorgan Slashes FedEx Corporation (FDX) PT to $260 Over Demand Concerns - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG1MSTZNeGZYQVlwY3dpb0V0UXZUclItNGgzbVlRdGJUTGlIdU8tTTV5SDUyMTMyUUtrQlE4ekN0WXRVR2p3dFpPUGhNdl9vN1lvXy1lOU15YVRXS3BpXzJrTXBvQThTRzVZdDRxV1QtY2ZRRWJhOWlaUXNMQWgwM3VVU09tZG9iUHhqeTRfbm9hWWdWSHNadkw0dXl2U0w5NGdyODZiY1RjNkJSTzAwVHQtUdIBuwFBVV95cUxPM01SanY1Y09KSFp4RnZPTHZ6YlNzWU1mTFdYbUZKY18zUF93dDRHaEk5NDdkWXNpNmY5eXlmdjRRZ0puUUVjbDhWTzByb0k5dHB2RDF3dGlUUS00MWQ1WGM5MTFLNS1IRFRfTS1qV1kxcnZ6Qk1uTm1NRjdWV08xdHVDdXk3R3pUaG5ZVlgteUlWV2VrVk94cEtXZlpfZ0o0SExXU3c4TmRFSWZzOWUwdzR4RU9wMmNrWC1R?oc=5",
+        "title": "FedEx (FDX) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWdjbXhCNTZwWDU1S09mN1VrUGh5ekt4T1FiTmJHS0Jlb0U0N0FqS0tYZC1KR0RtdDFiMDJmTy1sNzNFQlUwQTZDbFZPSXBaSTBoYzQ1MTUwNnFVVHloN0JTTi1LRmoyYURqaTRkcGtXWWNnNGlGTjdadHNGMTZVRW9YaXhDcW1TdWhiVFZ6VWlnV1FCUkthOUVkMW9FUQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "FedEx (FDX) Stock Dips While Market Gains: Key Facts - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGRyTzlYQ3F2LXJFQXFPUjFLYUNSSTllTC1ic2pUeUJSS2xOZ0YxdzNjdVpuQzQzbTJZSXFZM0NkbWkxNlNSMVhDWmZqRU0tcUN3XzREZWF3Y2s5TGJLWHoweFd3WkhjM3Z3TEx6MlhPSllpS3Bic05SaXpWcmkydQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FedEx (FDX) Price Target Lowered by Barclays Analyst | FDX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkZwTDlTSkd2cVh6OUt5MENCRlZoc01abHFZbnVNYUpkSHhYalFrZUxYRGNQYUcxU3NXUDdhNG1QMFk5bC1ENGMzOFFKSmVqb2s1QVVXTXdUcW9IWk1lX1JDN2FzUFdjUjNuVnl6N0l3ck9FcVp2aDFqY3RiVFVGUXMtNDltSm9aR05sbi1hdFI2Wm5iMlBPSnNONFVEY2t4T2NBbFhVQQ?oc=5",
+        "title": "Bernstein Adjusts Price Target on FedEx to $249 From $282 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGRSMlVrOHJVVUQxWnBsbXlsY3R6MF94RVRLMVVYbmJxbGIzeldSbnFwVGplV081ZGdlWXpRQ21xRlIwZGFhemF5dWRGeDRvUzJ0RUljSkxOd3pnUW5UcGtCMDlFdVlsZjBQOVc0SlhwWE5YXzZRYzVES0pBUGFlNkh6ajREZm94UWE0T1hNRHN6eFo0cVR6XzdKZTB5dnY5U19lRWZVNllDaDFCU2w3V010STBBM0N5eWRZOFRSTkFZR2NLN1pVU2pNX2NaTHFJVlJ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "What to Expect From FedEx's Q4 2025 Earnings Report - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzazByRzlvSklHZDJUX1c4N1Bzb0w2N1pZckNlOXQyX0hqYU5ab0h0a3dWaFVfTy1fMHBsUWJWTVlVbmxpQ2dRSTNlX1kzNHAzZFVfSXlIV2c3WHQyR2dFbzNPS0o3dld3aFVZUUdfd3JSVDhJbWlFRzRIR3NiblU?oc=5",
+        "title": "Here's Why Investors Should Give FedEx Stock a Miss Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEp6YWx6akYyUVphTlhPRHlRcUw5V3VPc043ZlpFZ0FPSDFSclotWEgyYlBxeF9DSGlTYnhhX3FCTi1jMWxXZ3JmX2oxVU8xLVRlRVkwd2xYdW5wZFM0NE5HVkUzX1hOV1hGNk1Pc1VYbkFVNDUwY0J2Tm1KTVpjUXBMOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "FedEx (FDX) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZXhyRU1YU2tvV1hTcTNKeGExdW11RmFqWTA3RmJZQjMxbUlpZ0xhVTRVTm1ldVBPdEE1bElybS1QaVg3UkdlSUhGNGwyTl9hZkdZNVRtM1MxQXdhdHA5Zlh0UFA2NW10S2JtazdLMFRRbjN1LUVlZ0hvUWM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FedEx Corporation (FDX): Among the Best Stocks to Buy According to the Bill & Melinda Gates Foundation Trust - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpUb21oXzU0S2M3cWgwdkFJS0I3aTktM0VPRFR6N0F4WmU1UFdJaW9WX3liT0t6QV9CWFV5WTZnR0FvaGFMQWdaQmRzYlVIT05wc2N4NHVzMW5CSkdWNVFjeTlOQ2ZLMzBXbExDSzFoODBTQzRBUnFPejZRMkFlbEY0SUM?oc=5",
+        "title": "FedEx (NYSE:FDX) Increases Annual Dividend by 5% to US$5.80 Per Share - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMVdkYzFINm5fSzFHZUgtVVIzS0I5VFZBRW85ZnA5QUJhckhUZFY5aDRLZmJBWDgteC16d3lxa2gxazhOZFMwMHZCc2R6MnFCTVJjTXpKYXVMQ19jWEpIaXdmYk5iZDI2akpVeUNpRF9PWHdlZE80VTgzOW9wNTlCZHZ0Yw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "FedEx (FDX) Faces Potential Challenges Despite JPMorgan's Optimi - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTU5EWHFOdU1yX3lETWRMbmtDYUZzQml0cXV0TUZVT2hidFFfeFotX1p1V0xtMkc0eGdoYWx3WEJlZjZjdldJQnozMHlvcHlycmFYbThEekxTWFVqOHNMeXJxSWN0SjJTMTVRaTVobWVqN0c2bWctV1lfTTdJUk1VVmk2eG9yXy1IYUdJd0ZGeHNQQVRSOTZJaS1fRkp5LXBQbWFHVmtGallEaGU4d1hjOFhEandpWjRiZThndTNBOTMwSU9xNmZ3QkRLUm1WUQ?oc=5",
-        "label": "POSITIVE"
+        "title": "FedEx (FDX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWctbTlNdDZScE9MSDJuSEg0WklxbXZpbGpEM1dEOWRZaWdSM2dQcnVQa1ZybG5RMHdmQnRiN0J1TDlHbW9jdTlDaTBUMVBSNlcwaG9NOS1keWpzR2tfaXBNeFpwMzJmUFdtbEJseWl4ZUJxQzFTbl9tNFpKQndvaQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Why FedEx (FDX) Stock Is Nosediving - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMXNKRTU3REM0YTNDajh4cmFpWlRzM2xtV0ozTXNjYmtvU2tHWnlPbmhzZk1UMVdhMGd6VVo1QUhoLUw0ZkhUMFFLWV9WcERBQkRYdms1d1BIay04MF9UMkdmOWhJUXV2alBJM20yVkxWXzZXVmhqUFJ2cXc4b1ZRcG5n?oc=5",
+        "title": "FedEx (FDX) Announces Dividend Payable Date for July 2025 | FDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnVfbmpaTzZqZkJUczRNNlRlT3R6c0FmbUU3bGh2NDFjWmItbXdzdFRXS1JwQ0FSdmVZUVVMamxOTVNhRC0zNWtoVjdxRzdoRUVTR1BWbEJjUmNuN183RmRLRVdMd0ZVX2dldk8zYTVTdHRHLTdiV3A4eTd6TlBXM0k4eXk0VU9uX1ZUemNYUm5DV0g0eC1lX0V5cGJwb2MzX1BRUXRGa3lZR2lMOWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons to Sell FDX and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mM0ZRdXR1YktHZmk5dU5qb09TTDBLQWxXNDZHRUFRVnVyLUhMTVpsaC1ld2hBUE5FdUFQak4xRUltS0RFVU5BanU3dUNZZ3RzdldJX0toLTZHVkpCUEUwS1hPMnlOUndvazJkeGExTWxzMEFV?oc=5",
-        "label": "NEUTRAL"
+        "title": "FedEx (FDX) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUFpNSU1qT2MtQ3JmZHZmeWxUR1VzV2tUSE12dXJZUzlPTlJqUEp5eUJNaWpPbUdMd1NxVVhtQW1xWGZRTEFrYlZpUVJlMVhBTlJWMG5WQXJIZk1IX1FidTdzek5XOW9IcDdQTU1faVhuVjFHVmNmWWc2Y3o?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Does FDX Stock's Lower Valuation Present a Smart Buying Opportunity? - Yahoo Finance",
@@ -646,16 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "With UPS Out, Amazon Turns to FedEx - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0ampiRnVHcUtpcFI3NnVkRWZyeVozdGt4NjBkbkY1bDVjT3RHQ01yZjl3eWVNR2tZbXBVMjVxQWxrMGprQ2JlM2ItMFprU082TEZkNEJYbnBjRUdSYmk0cmUtUnFxY0gzX21JNHZTNnNNdw?oc=5",
+        "title": "Jim Cramer Thinks FedEx (FDX) Is Running on Robots – But the Market’s Not Watching - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVzRxZzFPTnhxa2NRalYzTXlpQ1A1WnRXbVg0Rjh3aV9NZGxlcG1COVVqYzZfbXBfRlNFWGl2cVZ3SmtScjF1M3RQbjIzMVFVWEY0TndObVlqcDd5NXp5VEptR0Y4aWxzX3YyLWsxUUNyeUZxbHdUckZrcWxOQQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Rewards Shareholders With 5.1% Hike in Quarterly Dividend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXctbzJSNDRPQ0MwTzcwRm9uRHFuSklwTjdHZkNVdGZxXzRpa29EUUdlNk5Kelp5NVF0em5hQi00aEhtcUVHWFB2UVFlX2s4M1QzNTRBd1BqSjZUNDdhOGZ2WDd3NzdpLWFGUzQ0aHhNLVVCNm5Pd3hXSkJOOEdvTUtB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FedEx Corporation (FDX): Among the Best Stocks to Buy According to the Bill & Melinda Gates Foundation Trust - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpUb21oXzU0S2M3cWgwdkFJS0I3aTktM0VPRFR6N0F4WmU1UFdJaW9WX3liT0t6QV9CWFV5WTZnR0FvaGFMQWdaQmRzYlVIT05wc2N4NHVzMW5CSkdWNVFjeTlOQ2ZLMzBXbExDSzFoODBTQzRBUnFPejZRMkFlbEY0SUM?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "How Should Investors Approach FDX Stock Post Q3 Earnings Miss? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1poM3JMdG0yUndITUZWcTBMY2tSc2gzU3FRR2tVLWVaTktYcEZON01UOTJTb1c1b3l4WUFwWUkybVpLcXZsYmE0TjI1VDJubHJqa2Y3aGxweC03LU16UlJkT09VZWpWUjRWT0lRUXNZTHUwNXptS05hRHRJU0h1Z0pISGRYQQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Corp. Board Increases Quarterly Dividend Five Percent | FD - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjhhX0xZem51cGU3NnhtNlBEclE1RVpGVmFjQTlZRC1OQjJlb0ZiNzZJeU92amRGWVBPcy1MX1YtYzN2WGdUTE5sa2NLV1U0TW5rYlBJdXpQclhOMFBYVFhmdXlKUURtOTdVaW1zb2tWMW9OdGtScnJCblNvZERjVV9kNkZzbUhUc19fZ3p5U3p0UGhGSTRqS3Nsall4anJ5SjBpWk85OFlQc0c1dEVDVU13?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "HLNE",
   "name": "Hamilton Lane Incorporated",
   "sector": "Financial Services",
-  "market_cap": 8161760256.0,
+  "market_cap": 7473335296.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 28.17098,
-    "PB": 9.242269,
-    "EV_Revenue": 9.243,
+    "PE": 25.794827,
+    "PB": 8.462705,
+    "EV_Revenue": 9.003,
     "ROE": 0.39224997,
     "ProfitMargin": 0.30495,
     "GrossMargin": 0.61499,
-    "DividendYield": 1.43,
+    "DividendYield": 1.47,
     "DebtEquity": 41.185,
     "CurrentRatio": 4.03,
     "QuickRatio": 3.87,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.21957591381795785,
     "ROA": 0.13361,
     "PEG": null,
-    "EV_EBITDA": 20.226,
+    "EV_EBITDA": 19.7,
     "BuybackYield": null,
-    "PriceToFCF": 51.682071685132904
+    "PriceToFCF": 47.532588796959715
   },
   "technical_indicators": {
-    "RSI_14": 44.379139581563486,
-    "Momentum_10": -6.990724880011405,
-    "MACD": -1.5792650448441066,
-    "BB_Percent": 0.2283193486582219,
+    "RSI_14": 32.75441980108113,
+    "Momentum_10": -6.342279831035025,
+    "MACD": -3.6907428173778953,
+    "BB_Percent": 0.0843593974841352,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9180421405615856,
-    "QualityScore": 0.3882574891142488,
-    "SignalScore": 0.6109634469180507
+    "ValueScore": 0.8760968429614177,
+    "QualityScore": 0.3982796666241708,
+    "SignalScore": 0.6990248188163166
   },
-  "volatility": 0.0321517772370099,
+  "volatility": 0.0323722911520142,
   "beta": 1.27,
-  "return_6m": -0.1547927112566762,
+  "return_6m": -0.1701117137711535,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 5,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 176.8
-      },
-      {
-        "date": "2024-12-10",
-        "price": 174.55
-      },
-      {
-        "date": "2024-12-11",
-        "price": 173.99
-      },
-      {
-        "date": "2024-12-12",
-        "price": 171.23
-      },
-      {
-        "date": "2024-12-13",
-        "price": 169.24
-      },
       {
         "date": "2024-12-16",
         "price": 167.52
@@ -537,42 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 150.82
+      },
+      {
+        "date": "2025-06-09",
+        "price": 151.73
+      },
+      {
+        "date": "2025-06-10",
+        "price": 151.67
+      },
+      {
+        "date": "2025-06-11",
+        "price": 147.34
+      },
+      {
+        "date": "2025-06-12",
+        "price": 146.49
+      },
+      {
+        "date": "2025-06-13",
+        "price": 138.95
       }
     ],
     "current_price_data": {
-      "price": 150.82,
-      "change": 0.19,
-      "percent_change": 0.13
+      "price": 138.95,
+      "change": -7.54,
+      "percent_change": -5.15
     }
   },
   "news_sentiment": {
-    "summary": "Hamilton Lane (HLNE) a récemment enregistré une croissance à deux chiffres, avec des frais de gestion en hausse de 14% et un AUM record de 138 milliards de dollars. Malgré des résultats solides au T4, le titre a subi une pression baissière, notamment suite à une révision à la baisse de son objectif de cours à 155 $. Les analystes expriment des inquiétudes sur la valorisation actuelle de l'entreprise, malgré des performances supérieures aux attentes. La récente annonce d'un investissement majeur dans le marché asiatique de l'infrastructure pourrait cependant ouvrir de nouvelles opportunités de croissance pour Hamilton Lane.",
-    "sentiment_score": -0.05,
-    "label": "NEUTRAL",
+    "summary": "Hamilton Lane (HLNE) a connu une série de nouvelles contrastées récemment. Malgré des résultats solides au T4 avec des bénéfices et des revenus dépassant les estimations, la pression sur les actions persiste. Wells Fargo a ajusté le prix cible à la baisse, remettant en question la prime de valorisation. Cependant, la croissance à deux chiffres des frais de gestion et des actifs sous gestion atteignant un record de 138 milliards de dollars offrent des perspectives positives. Les investisseurs pourraient se montrer prudents face aux incertitudes entourant la structure de propriété suite à l'offre de partage stratégique lancée par HLNE.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Hamilton Lane Backs $400M Banner Capital Deal While New $200M Fund Launches - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUpqTzhpbDhRVUpUc3FVV2s2WUtHd0NBZzk4VkZEQm10dEpqOGs0aUdIWTNTSFdqZW1yWk1YU1hSQk1qR2k1REVyamp6V3F6Mmc4RUkxaHdYVlJYcHdZWHFicThfMi1KSkJuSG9ZczktMHF1RmF1MEs4SF91U2p0dnVMbUxRc2lwMjVWZnBLRER5cUFKa1BWdUhoSzlLempGZzBMZ055LUF5Y2tYdVZqZGJMWng1WE1Gb0g2bThXaw?oc=5",
+        "title": "HAMILTON LANE Earnings Preview: Recent $HLNE Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWhPVVRacVZqVjJrZUd6amhzLVJCelRtSmU1TW5ZbHZvOVV5c2VuNmdUeXJwMVAtMmtBbVhyZE9XdTNEQXkyYVBrQ3ZCR3lDMjh4b1ZCSDQ3WkM1MzEzdlE4dlM4ODNzUDNoWHA4cllnd0ZXV05Xd1g2X3JsV3ptSEpHOHlVdFE4WWN0MXloVkItUUpQUzkxb25DWlNieWtyS3lXR3RQZko4bkF0cUt0dzYtT1ZHcS1SMHBV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hamilton Lane (HLNE) Price Target Lowered to $155 by Analyst | HLNE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjFBTnJhZmFrNTlLdHlhX0FJTGJ3cm84c2NUYXVpTFNCMlF2RXRhOWN3LUVnN0Y4ckVqSW9maW9OUkc0YzVJVmhZZFM0ck1MRkNMRGx4SGplV1FLenYyM0QtTWRua0k1TEkxOEpBakdhSlV3X0FLSVlZSjFhSTk2YmowU29xbGswMFJlbWlLTXgtdlREVHVlNHBoY1lCQnhzcVFnSHhCSnQ5d09jNDJDanh3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Hamilton Lane: Q4 Results Fail To Justify Valuation Premium (HLNE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmRQbzdWanBQbGVUcUY2OXVESGxTU0FTZHdlQ3FISHA2MWpRdEZWN0lBYXVFZU0yOGhvTE9oV2hlckNaVUtYMlhqM2lNSXFBV0xaaFNwT0hJa1hERWNDRktKOWMyOE8tNDhGVEg0dS1yVmUyV3V1NU5pdm5jb0FxLTVOaDZ0ZW8yNWdFYXpobXBOOXVYeDB3YXhTT0pDcEFH?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HAMILTON LANE Earnings Preview: Recent $HLNE Insider Trading, Hedge Fund Activity, and More - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWhPVVRacVZqVjJrZUd6amhzLVJCelRtSmU1TW5ZbHZvOVV5c2VuNmdUeXJwMVAtMmtBbVhyZE9XdTNEQXkyYVBrQ3ZCR3lDMjh4b1ZCSDQ3WkM1MzEzdlE4dlM4ODNzUDNoWHA4cllnd0ZXV05Xd1g2X3JsV3ptSEpHOHlVdFE4WWN0MXloVkItUUpQUzkxb25DWlNieWtyS3lXR3RQZko4bkF0cUt0dzYtT1ZHcS1SMHBV?oc=5",
+        "title": "Hamilton Lane Backs $400M Banner Capital Deal While New $200M Fund Launches - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUpqTzhpbDhRVUpUc3FVV2s2WUtHd0NBZzk4VkZEQm10dEpqOGs0aUdIWTNTSFdqZW1yWk1YU1hSQk1qR2k1REVyamp6V3F6Mmc4RUkxaHdYVlJYcHdZWHFicThfMi1KSkJuSG9ZczktMHF1RmF1MEs4SF91U2p0dnVMbUxRc2lwMjVWZnBLRER5cUFKa1BWdUhoSzlLempGZzBMZ055LUF5Y2tYdVZqZGJMWng1WE1Gb0g2bThXaw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,24 +576,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Hamilton Lane Incorporated Just Beat EPS By 8.2%: Here's What Analysts Think Will Happen Next - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJYQjcxVkpzS3ZRMGdYSUtUYlpIVy1vMzExbE9XcmtuaFdoSzBRQmFfdmd5Y1VsRzltVkNXQUdreDFzUFFNNElIWnllS2NxZ19velFhZGlESVVJVTdEejRST2lXTjZXdnlXQm56SmtIQS1QdHFtRFZGcUdxTjZNSjRMUkZ0d0NCSDlQOWhsUC1fa29qMUcyUzhPcWg2QTZXMUQtOUxSdWNVRWZuaTFMU21GY3hMZHFORUkwU3NYT0swSTdXR1Vid0sxTUM4R2F1aTR1d19XcFpwNEFBMVdz0gHkAUFVX3lxTE12MVJLSEpmSm1hREtnN1RJdWNtVmJXb1ZWSlJ0YXZ4WHB5UUZvX1NqTGN0VkdZckhTMlI1bjRmMGtHM2dOSkY0c3RlLXRWYWt1cG9RUmFKSFZySHpqTjIxaFFnNnVMUWJaTmhRS3pVRTR3dFNVOV9tYUcxbE1mM2xzaGs2VUNqUTJRZm1FSkpuS2p5R0FSVm5FUVRZR2R6bHQ2aDB5cm5xSDRPUWpuWFNsOXAxR0dMS19JUFpieVNuSjVvZHlabXBFSjhMNGRwY2xfLUQxQm56YzV0aEtXY0JFNVAzQw?oc=5",
+        "title": "Hamilton Lane (HLNE): Wells Fargo Adjusts Price Target | HLNE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalRWbTgtUGNENFVlOUNaaGZGd0NwX0RLMlF3Sl9pX3hZN1JZZnZLWnBMNEFxVjJyVllxbElpNHl1SHRveVhGdDF2WHNHUmNKQjZpZ3d0dXFwQ3RVME1vOVdUZEY4ckhlMTBrdkJqcmJBVGo1T3ZGRF9hVzNWd0E4LVlBcnpKcUpCVExKVWwyWE5wWXhRejExU19uQWlwbEVKZkx1bEZyMmsyQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Banner Capital Announces Fund I Recapitalization and Launch of Fund II | HLNE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTjFPUl9WblR6WWh0eHNoeDFxb2dkcW5XVXFnZFZ0clpuNWl4LU5lVHh3bjg4NmxtbXJXaV8xNEpIcXhZbXpkU0JzSm1Ma1U2NXM2eVNmaGxHaXlNY014VGNER1BwSTFLSlJHci1hWjkwUHNPVWVQXzlMVlpmOUJuaXUwSjlpMWpyeEl3WXJKQkVwemNackJGaUN2ZVUyU3hiUE9jcHNaWFUxcHdrVzNOeDByQ1RBcUhwenVfLUZSZkJYY3BE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hamilton Lane Pioneers Asian Infrastructure Market with Landmark Korean Fund Investment - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeExMVm9WSGR6bnNucFFINjJoNHFHVFh1bEFvTmVhRTQtVklSeFR4bUNpYkt5VGF5aU9JaWpDQlkwaFFnbkxlVTBMNEhpcVctWUs0MTUyaS1ZYkUyYTEzV2MxQWRmYllfWE5LYzRDU3VkUTg3b21VSThSUFJwdmRNeVp5QWhwYW9mMlVVQjJGX3NJcDdyMVNhdEtMM1Q3b1hRYVlONlJla1Vpdlp0TWE4QVBralB1bzRh?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Compared to Estimates, Hamilton Lane (HLNE) Q4 Earnings: A Look at Key Metrics - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFpKZWNRSFBzck1mZGhGdlpxSmk4WWFjWFpaWnJnZmlWdXg5d2htckhUem5FdXFOT3hrYjBlU0M0VUxvU2VyRUhqWndfMmF3ZWFvcXk5dlpST010LTUzaWZORHRZQnYzeGxBQmFmQ2dJMXFhZGJfX210QzYzS05ZcFdKRHFGSWVveE9R?oc=5",
-        "label": "NEUTRAL"
+        "title": "Hamilton Lane: Q4 Results Fail To Justify Valuation Premium (HLNE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmRQbzdWanBQbGVUcUY2OXVESGxTU0FTZHdlQ3FISHA2MWpRdEZWN0lBYXVFZU0yOGhvTE9oV2hlckNaVUtYMlhqM2lNSXFBV0xaaFNwT0hJa1hERWNDRktKOWMyOE8tNDhGVEg0dS1yVmUyV3V1NU5pdm5jb0FxLTVOaDZ0ZW8yNWdFYXpobXBOOXVYeDB3YXhTT0pDcEFH?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "There's Reason For Concern Over Hamilton Lane Incorporated's (NASDAQ:HLNE) Price - simplywall.st",
@@ -611,18 +591,8 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Hamilton Lane Reports Double-Digit Growth: Management Fees Jump 14%, AUM Reaches Record $138 Billion - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmswX2FBdnZ0SU5peGFjYTZlZ1V3VFpGbHNHcVhYem44SUpsRF9MZTJLRFRBdGhSVWZfVmhlY1M3emhpbXo5VFRRYW5idTVvOXZLdFBicUlxQ2hvbWd1dDZfbmhnR2Q0YWptWklYb0ZNYmIxUWN4VUN4LV9jRnM1UDJFeVZPSnUzaDBlYmRuVzFDbHZlamVwVk9jRHM3cEZvMjBIZmE3aW9XMl9tX2hJRFJaVXRGZHN0a2JBSGVmRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Hamilton Lane (HLNE) Receives Revised Price Target from Keefe Br - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnFTZGRLNG1ab1p1ZnAxV3Y5bzBQTU92MHhMQU1NRnJPcjExVjY2d2loMDRIbnpKeXpEN2ZETnhYeklZVm82NkNZWlN0VE56cVhDeWhMb016RnJZOVo2eVNtQS12T1VyQjcxUkNpQ1REdmFmQXpKVjFxbGVIVlpzR2d0czRBX2NJSmZRR0d1X2hMcXZJSzI5QzNWbGgyRjBvbWhpbHVnYjFMU0liUkctXzh1UUk0bmMycWpsTGJnaEc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "New Analyst Forecast: $HLNE Given 'Perform' Rating - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlJ1SXBIaXFnQUtHZ293RU51S0t0aThlZEcxQVlBN1B5d25kc01FbE1YdFN6MUhhVjVFeWJOTDBQN3VXbWtHZzM0QW5YZmZLdmpwREtSOUZTQ0N3d21sZEl1eW9sWC0xZjRmUTh1WGI4MGNVa2EyalhldlMzaXVWSDlWaFM?oc=5",
+        "title": "Hamilton Lane Pioneers Asian Infrastructure Market with Landmark Korean Fund Investment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeExMVm9WSGR6bnNucFFINjJoNHFHVFh1bEFvTmVhRTQtVklSeFR4bUNpYkt5VGF5aU9JaWpDQlkwaFFnbkxlVTBMNEhpcVctWUs0MTUyaS1ZYkUyYTEzV2MxQWRmYllfWE5LYzRDU3VkUTg3b21VSThSUFJwdmRNeVp5QWhwYW9mMlVVQjJGX3NJcDdyMVNhdEtMM1Q3b1hRYVlONlJla1Vpdlp0TWE4QVBralB1bzRh?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,13 +601,38 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Hamilton Lane (HLNE): Wells Fargo Adjusts Price Target | HLNE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalRWbTgtUGNENFVlOUNaaGZGd0NwX0RLMlF3Sl9pX3hZN1JZZnZLWnBMNEFxVjJyVllxbElpNHl1SHRveVhGdDF2WHNHUmNKQjZpZ3d0dXFwQ3RVME1vOVdUZEY4ckhlMTBrdkJqcmJBVGo1T3ZGRF9hVzNWd0E4LVlBcnpKcUpCVExKVWwyWE5wWXhRejExU19uQWlwbEVKZkx1bEZyMmsyQQ?oc=5",
+        "title": "New Analyst Forecast: $HLNE Given 'Perform' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlJ1SXBIaXFnQUtHZ293RU51S0t0aThlZEcxQVlBN1B5d25kc01FbE1YdFN6MUhhVjVFeWJOTDBQN3VXbWtHZzM0QW5YZmZLdmpwREtSOUZTQ0N3d21sZEl1eW9sWC0xZjRmUTh1WGI4MGNVa2EyalhldlMzaXVWSDlWaFM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Analysts Offer Insights on Financial Companies: American Express (AXP) and Hamilton Lane (HLNE) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaGtZLXdOOXlEMUZUT29WQzF2d3VBUXU2Q0JUeUk3Zkp1a0JCQllBUXdzSTZUdXZ6cFBqQTd4aVVUSEdxN2JIeGZRRExtMExzc00zd0diVV9ndkVfbjdHSHl3TFBzSGhwS3RKNDZaRWcwRFB2d2JiWldKU3c5LVpRTDVDRlVXQm1mRmxQM1dQSV9lTlljVzVMdVJYanJhNjB0N2g2OEJFNjVodEw1YUdjZkVIaDNQUWFQSlhfaG9SbU8wSVFaVmlXOXZFZnNvTmpNUlNERVRuMTA2UHdRUTZXZmZNVWtnZ0tYeVZZREVnU1o5Sk9NUXc4VHBocTdNNFg0WUx5TzJibUs?oc=5",
+        "title": "Compared to Estimates, Hamilton Lane (HLNE) Q4 Earnings: A Look at Key Metrics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFpKZWNRSFBzck1mZGhGdlpxSmk4WWFjWFpaWnJnZmlWdXg5d2htckhUem5FdXFOT3hrYjBlU0M0VUxvU2VyRUhqWndfMmF3ZWFvcXk5dlpST010LTUzaWZORHRZQnYzeGxBQmFmQ2dJMXFhZGJfX210QzYzS05ZcFdKRHFGSWVveE9R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hamilton Lane Incorporated 2025 Q4 - Results - Earnings Call Presentation (NASDAQ:HLNE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUxDU2hpZ0NrTG9jNmg4cE9Ia1ZNaHozd0NsNDJtRFVqMTdfQ1ExNGdGbTBDNjUyakdXdV9adnZFeGJBdGRub2E1Zm5pbnFHUk5WbGRSUlRxVXJRVGExc0hkVnZ1a29oTE43U1VQX2dMUGVnYVh0WDlzTHhBOFdkZ3ZJZDdlNzV1UWxxX3Q4YllyLV96UWcwVDRtVVAzSFJvRUs1Mi0wcWMtczZOR3JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hamilton Lane Reports Double-Digit Growth: Management Fees Jump 14%, AUM Reaches Record $138 Billion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmswX2FBdnZ0SU5peGFjYTZlZ1V3VFpGbHNHcVhYem44SUpsRF9MZTJLRFRBdGhSVWZfVmhlY1M3emhpbXo5VFRRYW5idTVvOXZLdFBicUlxQ2hvbWd1dDZfbmhnR2Q0YWptWklYb0ZNYmIxUWN4VUN4LV9jRnM1UDJFeVZPSnUzaDBlYmRuVzFDbHZlamVwVk9jRHM3cEZvMjBIZmE3aW9XMl9tX2hJRFJaVXRGZHN0a2JBSGVmRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hamilton Lane (HLNE) Tops Q4 Earnings and Revenue Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmRwT0dvSnl3WE9TWHlONW1UamdYOHFDcVNwU2dscW5YeWZudzdwTVk2alc1SGJfdXp4dnloOHkteVd1ejdtSENwTVhNUldXOE5VeDQyNnhVQlZtX0EtSTRpWmlkdWZodWstRmtmNGVGRE54ZmI3TWZEWlNNVXdMM2VlSElCcUVTWmhyOWFfUmpCbXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hamilton Lane Q3 Earnings: Slowing Momentum, But Shares Remain Expensive (NASDAQ:HLNE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbm9IM19xd0NNYUs5RkFJVzUtaU9qZEtUNXFFTUl3YXdUZnAya0JqWklMazNpR2RwSkM5cy05Q1RQZVBFVlhlWEpPaE1DTk5NQzZVTGtDUXpua0RPR01mUFhCVGNCc3BlU2hNM3AyY1ViZ0F6dUxEcC00eUJ5SFR6dzREaTQtOWxZX2VQazI2cjVkRjE4eUYwWDE4WWZVc2R6NFdndmQwZ2h3QVB4ZmF2LWVrZkxZUDMtSHNGR2pNN01HbnYt?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Private Markets at Crossroads: Hamilton Lane's 2025 Report Unveils Next Big Investment Opportunities - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVg5bE80RGxFYWsyYU0wdTltR2p4ckFKbEFtYktNVGdYWkxpM2o3d1B5TjByaGNBQU9mQWFHYkdJaUJ3bXY1UEJ5UkNRMDVqNnlUS0JzVWhEMVdtSGNyV3o1amN6bHQ1dGplM2ZTRjJrbGRUYzdvdHNRd0ZVNDA3cmJ3UnE5cnBQQXlGZU9ScUE3U3Z0YThQTjFIdVJjNjdkTlJRZFhlZnFkUk1VVVRXN2kwcGE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +641,21 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Countdown to Hamilton Lane (HLNE) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDlwdFg5SVRiNWRNQjh6Y0kxZWFnUmx1OUxmVEs5OHpRMWRVeEJuaHB4V1NuZUh1azJZQnFzWXlRV1ctMmVyREF6Qmd6bHhmV0lvbnJTZEdVSVpSN05obkYySUZ2OTlKM2pJeHhVNlJ0cGVXSTF6S0hORThjX3ktZVRzVkdPNTI0d1V2S0tZdzV4YXFEWWdQSV9HcHNHeEd4LVhPZ2xHM1NNMmpud0dB?oc=5",
+        "title": "Hamilton Lane (HLNE) Launches Strategic Share Offering to Restructure Ownership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFNxU29SNS1obld2eE1OWjVUcVhEWTVybzZsa1YwdnhuYkllRnBZTWNZMkxRM1l2ZUs4WERQV0F3Ump6RG5iNjNfVEZUMEl5cktFeHhpcVdTTzV0MFhhMC1RVEEzNzFRTWR1NFpWZmRsWGttMldfdGV4RjVfLXF2SVBlTDdwRHJMRzMyQnNjcmdLcC1US3ZPanhCUkZIRlZwQkVNUjJhVEE4c1dWWmU2eW9n?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hamilton Lane Incorporated 2025 Q4 - Results - Earnings Call Presentation (NASDAQ:HLNE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUxDU2hpZ0NrTG9jNmg4cE9Ia1ZNaHozd0NsNDJtRFVqMTdfQ1ExNGdGbTBDNjUyakdXdV9adnZFeGJBdGRub2E1Zm5pbnFHUk5WbGRSUlRxVXJRVGExc0hkVnZ1a29oTE43U1VQX2dMUGVnYVh0WDlzTHhBOFdkZ3ZJZDdlNzV1UWxxX3Q4YllyLV96UWcwVDRtVVAzSFJvRUs1Mi0wcWMtczZOR3JR?oc=5",
+        "title": "Hamilton Lane (HLNE) Price Target Lowered to $155 by Analyst | H - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjFBTnJhZmFrNTlLdHlhX0FJTGJ3cm84c2NUYXVpTFNCMlF2RXRhOWN3LUVnN0Y4ckVqSW9maW9OUkc0YzVJVmhZZFM0ck1MRkNMRGx4SGplV1FLenYyM0QtTWRua0k1TEkxOEpBakdhSlV3X0FLSVlZSjFhSTk2YmowU29xbGswMFJlbWlLTXgtdlREVHVlNHBoY1lCQnhzcVFnSHhCSnQ5d09jNDJDanh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Countdown to Hamilton Lane (HLNE) Q4 Earnings: A Look at Estimates Beyond Revenue and EPS - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDlwdFg5SVRiNWRNQjh6Y0kxZWFnUmx1OUxmVEs5OHpRMWRVeEJuaHB4V1NuZUh1azJZQnFzWXlRV1ctMmVyREF6Qmd6bHhmV0lvbnJTZEdVSVpSN05obkYySUZ2OTlKM2pJeHhVNlJ0cGVXSTF6S0hORThjX3ktZVRzVkdPNTI0d1V2S0tZdzV4YXFEWWdQSV9HcHNHeEd4LVhPZ2xHM1NNMmpud0dB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

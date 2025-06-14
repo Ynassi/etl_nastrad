@@ -2,16 +2,16 @@
   "ticker": "6594.T",
   "name": "Nidec",
   "sector": "Information Technology",
-  "market_cap": 3102416044032.0,
+  "market_cap": 3282648956928.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.487482,
-    "PB": 1.8018409,
-    "EV_Revenue": 1.348,
+    "PE": 19.565516,
+    "PB": 1.9065176,
+    "EV_Revenue": 1.425,
     "ROE": 0.09623,
     "ProfitMargin": 0.06432,
     "GrossMargin": 0.20598,
-    "DividendYield": 1.57,
+    "DividendYield": 1.48,
     "DebtEquity": 36.438,
     "CurrentRatio": 1.528,
     "QuickRatio": 0.915,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.03920653669270449,
     "ROA": 0.046290003,
     "PEG": null,
-    "EV_EBITDA": 9.29,
+    "EV_EBITDA": 9.765,
     "BuybackYield": null,
-    "PriceToFCF": 30.351830088114284
+    "PriceToFCF": 32.31176671609992
   },
   "technical_indicators": {
-    "RSI_14": 52.12574698490887,
-    "Momentum_10": -0.1846722068328716,
-    "MACD": 57.97500321091866,
-    "BB_Percent": 0.2123958844563889,
+    "RSI_14": 61.81249994076726,
+    "Momentum_10": 1.7615658362989326,
+    "MACD": 67.27716919211753,
+    "BB_Percent": 0.8342956133849994,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933183776337967,
+    "ValueScore": 0.8928183474314433,
     "QualityScore": 0.3323339796735872,
-    "SignalScore": 0.568012833365702
+    "SignalScore": 0.5025206000528957
   },
-  "volatility": 0.0300168713717078,
+  "volatility": 0.0302357934121603,
   "beta": 0.878,
-  "return_6m": -0.0373998219056099,
+  "return_6m": 0.0229324405889743,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 3550.0
+    "target_mean_price": 3559.375
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2807.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2824.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2836.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2827.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2858.0
-      },
       {
         "date": "2024-12-13",
         "price": 2816.5
@@ -525,27 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 2702.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2725.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2841.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2894.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2877.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2859.5
       }
     ],
     "current_price_data": {
-      "price": 2702.5,
-      "change": -9.5,
-      "percent_change": -0.35
+      "price": 2859.5,
+      "change": -17.5,
+      "percent_change": -0.61
     }
   },
   "news_sentiment": {
-    "summary": "La société Nidec Corporation (TSE:6594) connaît une tendance à la hausse de son cours de bourse, potentiellement portée par des fondamentaux solides. Malgré une baisse de 29% de son titre, les investisseurs restent attentifs à ses résultats financiers. La montée de l'indice boursier Nikkei au Japon suite à une progression de Wall Street, conjuguée à une décision imminente de la BOJ, influence l'environnement financier. Ces événements récents pourraient impacter le sentiment des investisseurs sur le marché.",
-    "sentiment_score": -0.4,
-    "label": "NEGATIVE",
+    "summary": "Nidec Corporation (TSE: 6594) a récemment vu son cours de bourse chuter de 29%, malgré des résultats financiers qui ont retenu l'attention des investisseurs. Cependant, l'entreprise semble être sur une tendance haussière, possiblement soutenue par des fondamentaux solides. Le PDG de Nidec s'est félicité des nouvelles règles japonaises visant à faciliter les acquisitions, ce qui pourrait indiquer une stratégie de croissance agressive. Dans le contexte actuel, la montée du Nikkei Stock Average, suivant Wall Street, et l'attente de la décision de la BOJ, pourraient influencer le sentiment de marché autour de Nidec Corporation.",
+    "sentiment_score": -0.333,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Nidec Corporation's (TSE:6594) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVoxVFBueG0xWG1FZHBOcThkdWNKNWpVTW0yamJaRENfeU1BN1R3eHB3ZDdZdnkwT1ZlUWZMX1ZaYTdvdzkxaDNnNUlTRHphOHBUWURyZkdWejl0UUZ5TURwckNNNUYwZmdzaDZ0a3pwMHZjVEFjNHB4YzU1LWNMcjc2ckMyX01iTk1fSU84OVdvMmxSeDhWNE1Dejh4bU0wMkt3bHB3RW5wckJxU1VkZWJYS1JzLUtPdF84STUwUWhYcnlxQ2dhaUhfbmFJZ9IB0wFBVV95cUxPb1I2MGVoSDBKSEJPTmpsUUN2UHUzWVFuX3NXX0tWa04tQ1l3cFdMQUQxY1JoTEhWQy13QzZFbGVpMnhmT0l5NEViTDFPbmZHM2NJZVAzdjl5TVNrOUNDZ0d1akhxV2xrQWZOX2NBeEs0WEk2eHcxTDNjSm8zNnJKbjlJZG9kU1VYbmJ1czdqekg0NS05LVdDdWloc3AxajlRcUFEVERHV2ZYcnY1Slc0UlBWUzJjX0ZUN2RWNmtJLURzUWpPdjF5Sk1KOWpJY1lsT3JN?oc=5",
+        "title": "Nidec Corporation's (TSE:6594) Stock Retreats 29% But Earnings Haven't Escaped The Attention Of Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEhraHkyZGRDYWwyMUg1QVpka0lWd2FYRnpLRnRjdnF1VGlDNHpvTk92VHBBY1l4VnIwNUo5bnBSRlE4ZmZBX2FSaDhkVXJqOU1kdmQ0d1lNYUlHZGhyZE1ENktGZk9RRlhsYXFpQXZ1aXlNaFdDYURicU12UzVIaWpNWjcxX1duUGQwNEV4ekw0R0d2ejl4TmhnSDNQSk8wQVd6dTh2NmN4Z1dvYUtvcFl3UTkwdTl3RmdQdDhpbFgxY2MtY05CdGRWSDFQUdIB0wFBVV95cUxPdWFEVUQ5OE50dXhhTnZkMXY2NUJ2SUFVNDZmMnBUU2pOcHg3MWVKaWtDbXYxRV90TXlIcklpTDdaREN2Z2V3dzl0cmE5UWN1WEllRldOZzZhZVM1UlNjeUF5eVNkTlZ4YUIybUpUekF4SjZveU9yVTdLQVFmR2lRWFcyd2JaSncyeTNSNDdBbExUdlhWbE5PZC11c2hNcFJNZk11dE1KcmppSllkREtTV1RITkhUdFV4SF83cFplV1ZyNG1yWmVjN0ZzbHZWMzJIazhZ?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -554,8 +554,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Nidec Corporation's (TSE:6594) Stock Retreats 29% But Earnings Haven't Escaped The Attention Of Investors - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEhraHkyZGRDYWwyMUg1QVpka0lWd2FYRnpLRnRjdnF1VGlDNHpvTk92VHBBY1l4VnIwNUo5bnBSRlE4ZmZBX2FSaDhkVXJqOU1kdmQ0d1lNYUlHZGhyZE1ENktGZk9RRlhsYXFpQXZ1aXlNaFdDYURicU12UzVIaWpNWjcxX1duUGQwNEV4ekw0R0d2ejl4TmhnSDNQSk8wQVd6dTh2NmN4Z1dvYUtvcFl3UTkwdTl3RmdQdDhpbFgxY2MtY05CdGRWSDFQUdIB0wFBVV95cUxPdWFEVUQ5OE50dXhhTnZkMXY2NUJ2SUFVNDZmMnBUU2pOcHg3MWVKaWtDbXYxRV90TXlIcklpTDdaREN2Z2V3dzl0cmE5UWN1WEllRldOZzZhZVM1UlNjeUF5eVNkTlZ4YUIybUpUekF4SjZveU9yVTdLQVFmR2lRWFcyd2JaSncyeTNSNDdBbExUdlhWbE5PZC11c2hNcFJNZk11dE1KcmppSllkREtTV1RITkhUdFV4SF83cFplV1ZyNG1yWmVjN0ZzbHZWMzJIazhZ?oc=5",
+        "title": "Nidec Corporation's (TSE:6594) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVoxVFBueG0xWG1FZHBOcThkdWNKNWpVTW0yamJaRENfeU1BN1R3eHB3ZDdZdnkwT1ZlUWZMX1ZaYTdvdzkxaDNnNUlTRHphOHBUWURyZkdWejl0UUZ5TURwckNNNUYwZmdzaDZ0a3pwMHZjVEFjNHB4YzU1LWNMcjc2ckMyX01iTk1fSU84OVdvMmxSeDhWNE1Dejh4bU0wMkt3bHB3RW5wckJxU1VkZWJYS1JzLUtPdF84STUwUWhYcnlxQ2dhaUhfbmFJZ9IB0wFBVV95cUxPb1I2MGVoSDBKSEJPTmpsUUN2UHUzWVFuX3NXX0tWa04tQ1l3cFdMQUQxY1JoTEhWQy13QzZFbGVpMnhmT0l5NEViTDFPbmZHM2NJZVAzdjl5TVNrOUNDZ0d1akhxV2xrQWZOX2NBeEs0WEk2eHcxTDNjSm8zNnJKbjlJZG9kU1VYbmJ1czdqekg0NS05LVdDdWloc3AxajlRcUFEVERHV2ZYcnY1Slc0UlBWUzJjX0ZUN2RWNmtJLURzUWpPdjF5Sk1KOWpJY1lsT3JN?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -567,8 +567,13 @@
         "title": "What Does Nidec Corporation's (TSE:6594) Share Price Indicate? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelJRdmxwQVNsbU1LUnpiWFZOb3h3NUQyZ3BUaVg4b2tDcjJsRGsyQmpnZjNLa0Z6aFhLcEdZam9lLXhRZFllYmlSTXNTQ0Q1Yi1KRDZXcHZrV0EtbnlZQ2hXZXFHd2NrVkxFYloxVTNzZi16SmsxNXJyeEVldUJOdzZMX3ZPVU1EOXQ1c3Z4cHV2X3gtMlk5M0pPX2dyMHlkVTRTYUxEcGxHMVpGd1RITHd6OVJEblcxWGRGWmt1eDRMR25lZy1zbFRn0gHPAUFVX3lxTE9MRXJLQjQ1a2lhYjZjaUJwcFV6R1gxTDN4U0FzTW1JZVAwZG1zRkcwTGJITF9yUFQ2R09idWhNbnVFU2tTZnhOWkpSaTVOZkl3LVNzNHhHM2NHWlJzZDlWMlRZV2x6N3FIRldDbGVXXzFPblF3VXVkZlpsblF0UmlRVEpyaEp1c0hHdlpDZEdDZl9SbGVmcE5oc0EzeVg4ZTZjQ1k1RlhCUUl4SFFvbEwtQzRMUDN6ZUU2U3p1NGZTYW9pYm50THNWSEZ1RWx4TQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Nidec's acquisitive CEO hails new Japan rules aimed at making takeovers easier - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmZlWHlfWU8zWVVJQTd0Z2gyYXh0SXI0dlBCNEFwOURSajRCOWNDejRNeEZ3aXRMRDhFQkxMbWlyVVdWQlh6T2RRRkdCLTg2MHQ4UzBVMG14Mm9yNEc5V2hpODRZWlJXZ1puaU1fNGJGOVd6VmdyUjgzVnY5ZktvUzNjNzdJOGdQbU52R2tjZjEwN0VJZmJoeVlYNkV6RHNZWWNYVG5yVGU5TEI5OWt0TEUyZHhaOHUyajNJ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

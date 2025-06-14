@@ -2,16 +2,16 @@
   "ticker": "EVR",
   "name": "Evercore Inc.",
   "sector": "Financial Services",
-  "market_cap": 9455895552.0,
+  "market_cap": 9316335616.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 23.36151,
-    "PB": 6.2761726,
-    "EV_Revenue": 3.181,
+    "PE": 22.994753,
+    "PB": 6.1835423,
+    "EV_Revenue": 3.29,
     "ROE": 0.28142,
     "ProfitMargin": 0.1418,
     "GrossMargin": 0.94153,
-    "DividendYield": 1.41,
+    "DividendYield": 1.36,
     "DebtEquity": 53.286,
     "CurrentRatio": 2.396,
     "QuickRatio": 1.916,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 67.3503051048642,
-    "Momentum_10": 8.847332880871633,
-    "MACD": 7.623915581584043,
-    "BB_Percent": 0.9327067174480416,
+    "RSI_14": 58.852272235158175,
+    "Momentum_10": 4.101686851213924,
+    "MACD": 7.81194898234142,
+    "BB_Percent": 0.6445031582521535,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9244537778181248,
-    "QualityScore": 0.3810196972029605,
-    "SignalScore": 0.3917562265370445
+    "ValueScore": 0.8825270423880615,
+    "QualityScore": 0.3898634735657305,
+    "SignalScore": 0.4882701312627189
   },
-  "volatility": 0.0332600244286302,
+  "volatility": 0.0332934041354023,
   "beta": 1.396,
-  "return_6m": -0.1728316588489661,
+  "return_6m": -0.1788625380797649,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 7,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 295.17
-      },
-      {
-        "date": "2024-12-10",
-        "price": 291.11
-      },
-      {
-        "date": "2024-12-11",
-        "price": 297.44
-      },
-      {
-        "date": "2024-12-12",
-        "price": 299.4
-      },
-      {
-        "date": "2024-12-13",
-        "price": 295.52
-      },
       {
         "date": "2024-12-16",
         "price": 298.37
@@ -537,67 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 245.49
+      },
+      {
+        "date": "2025-06-09",
+        "price": 247.66
+      },
+      {
+        "date": "2025-06-10",
+        "price": 244.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 247.54
+      },
+      {
+        "date": "2025-06-12",
+        "price": 247.18
+      },
+      {
+        "date": "2025-06-13",
+        "price": 240.12
       }
     ],
     "current_price_data": {
-      "price": 245.49,
-      "change": 7.0,
-      "percent_change": 2.94
+      "price": 240.12,
+      "change": -7.06,
+      "percent_change": -2.86
     }
   },
   "news_sentiment": {
-    "summary": "Evercore (EVR) a récemment connu une série d'événements marquants et de tendances clés. Malgré une baisse de 26,3% depuis son dernier rapport de résultats, le titre a rebondi avec une hausse de 14% depuis. Les investisseurs ont réagi positivement aux performances supérieures aux attentes de l'entreprise au premier trimestre, avec des résultats et des revenus dépassant les estimations. De plus, le recrutement de Mike Addeo de Blackstone chez Evercore pour renforcer la stratégie de crédit privé a suscité un intérêt accru. Les analystes restent prudents quant à l'avenir des bénéfices, mais la société semble maintenir le cap malgré un environnement concurrentiel accru et des mouvements importants au sein de son équipe de direction.",
-    "sentiment_score": 0.1,
+    "summary": "Evercore a récemment affiché des résultats financiers solides au premier trimestre, dépassant les attentes de revenus et d'earnings. Malgré une baisse de 26,3% depuis le dernier rapport financier, la société a vu son cours augmenter de 14% depuis. De plus, des événements clés tels que la nomination d'un nouveau Chief Credit Restructuring Officer et l'arrivée d'un expert en sécurité nationale dans l'équipe de conseil mondial semblent renforcer la stratégie de croissance de l'entreprise. Cependant, les analystes prévoient une baisse des earnings au prochain rapport, ce qui pourrait influencer le sentiment de marché à court terme.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Evercore Partners Files Routine Regulatory Report - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2U4M29hMGtYVjFDNVRibDVabENFNUhseXJtdG9MZTJpanBwMDh3cElIX21xUUNQUFRrQUJfQ0dtamJRaW96NC1nTWNXdnJFVFJiZnRfNGlyenNoWXhDWmFfRWxlNFdILTVpcUszTW8wZk1KblV1VkF1MER4WEtvN3ZSMUYwNzhSZHhlM2c4NUMzX1ZYY0NrMzFhMWo3b3JiR2Rr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Blackstone Credit Restructuring Chief Mike Addeo Takes Senior Role at Evercore to Boost Private Credit Strategy - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzdhM19GdGxYRHl6dk5kcWUtLVM4U2V6ek5YS2t1d0hmc0xaTFJBMmhJMHFkX2U4VWo2dEtxaWZWTUMzU0dLQnRHd0VNS2lkNjZ2cFBCWWVMeU1Bb2RVT0FjWTFYTTRTQzUydXRyR1pjZVFsYUlaTlJlaEVTQ3R6Vm1qdUxOYTFYMlNoWlN3NDdyZEFGRWFOdl9wT2JVN0oyWFNHNmdoUlpjS0dYNUtseUZ4bUFDUXJaRGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Evercore (EVR) Up 14% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EbExFM2dXbUVVRldHaldEZ3BDS1VNeklMMUZBaGg0X1BCN1RIM2V0N01sRFNYTUllOE01TE5ldzF4NEJZQzRVR1h2enVLOU5UTENfNFlzSWJHUWgzQllQeGdMYTREZjM5ZEdKcmJQR1VVdHhKYkhYdmFyclc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Evercore: Stay The Course (NYSE:EVR) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yNnNZVFkydTdmOTN5S3o3ZHVOMmlqLVJNelNZQWp5LTNqYXpRYk50MUpOS2ZQZEFTZWNmdWhUVWNyWE9LSS1GaV8yb0NHWXlKNWdUWWpUeEF2c2o5ZlpWWW5OZnVPNFhkSGFYb2gwamNfVWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Strength Seen in Evercore (EVR): Can Its 3.5% Jump Turn into More Strength? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTENKcWZmZnJOaHdJZjFFS2Y1dzQwbXVtQ2NOUW9GbnhMQWp2MkRkeWV5dlYxSTVhWVY5X1lVMmRlWGZvVVRuOHFrSjJWNWhWc3NaUWtXY255bWJCNm5acFFVMXBTZ2g5ZE9BOWh3VnlBSEdZVk9OSFZFSjROV3J1MWlLRkpheUg1aHZaRFB5TnRIZ0lMWTZuWkhpQWZxcTljaUEycUpsajY5OU9XVkU3QmRPSFI4N0xScUVRaWItVmVzN28?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Evercore CEO John Weinberg Set for Exclusive Fireside Chat at Morgan Stanley Conference - Live Webcast Available - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjBlZF9yb1ZoNDBzSF9xS0JYWVhtUEJaN0dZTVN5bzJLV3lKS1k1Y0NjbFlwcE1JYzR4YkN1WXlJQlhZaEFjY1EySHRUY0VWUG1WN1FYZUllcXVLa1pqOWFYTmpvYVZVMGpJbEprUl9vcGZWSEtQSkZfOThlaWhXMkxVSzljcHAycTd6V3IyeV9taEszcHdFM3dydlZDWlEwLXpBOTR6cXVDRVpuR3dQM0ltSlhlSGY5ZWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Evercore Inc (EVR) Shares Up 3.38% on May 27 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWI0WG1heTh2YzlXc1dHV3lvd3N1dWdTVTBrODJaMERITmxkcnNMcU9JN0lEZ1g1M0FPWlhmTVRzY0V5VjRQNHBrMm1qNFRRZVNjdXVrREFwQUM3amZFbFBuaUtUZzRFNVQ4SWhob3hDNkNRMXFaeFduLUdrT0JIVTh4Z1Nvdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Goldman Vs Evercore: Which Investment Banking Stock is a Smarter Bet? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXNXcGhZUXBwTFJIdVRNRjFDNXpjY2QtWjJnWHlZblRoRHRJd1NXT0FIbFRXNVNOaVMwdUd5YjgwdnlhWXdGS052OTBFcUNGMHVRNkhET1hMZEtvbkliRGl3UnVkejlJOHdFZkJPQlBRbWVieWwyZjRrelNFblhFMjVhdzNRODJMTXdIU0lFbndkX1c5eVh1eFd4YWN5dHI3MGU0YnJUSk9qOURSRHNYQ2p3b3RvWDM5UWtEX2wxYzg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Shares in “Eat What You Kill” Investment Bank Evercore Soar as it Ramps Up European Expansion - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW8xSGFKNG1kdHFIQnhKOWFnb1lsRDYyUDZlWkZXZDd0STF1UVJ0Zng2aDU4VGkxcnhSbDdtbVNkcG1kTUpzNjlqMkduamJtLU1lYVltV1dyNExSc2Qzc3FaQlV2OHd3UmJfMlBuY0hZcXVoMEFEd0tzR3o0SE02MTZuWmhHMERUdlc5ekY5cHVRTXNLU0dfZHlhUGdLdTVMV3VVOExnbG9mdnRmX28wUl9mSmdpOFJtcWk5U1hn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Insider Has Just Sold Shares In Evercore - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnFqVDM1ckY0VTRqaGRMLXFaU3lGVXFwOTlsdVowaURZYW9TX3JMY256UlY1cGlqN3RuZVRKbkMyRS1STkY5ZEdrQW5xR1ZQMTJEd1Eyb0tkanRWX1lUSTcyMDRjVnBxQ1ZYZThwbkZpd2U3NXZ5QUhkdFBBQzFEaTNSNHVLVU5PRGFRSUtNUTdYMVFwOWdaQ0l5eG1IM0FoNjBsV0ZOcEthTFFsSklNc01NOGtBeUVWSTJTTmcwOFjSAcYBQVVfeXFMTXNRZEVZUzNiNHF0aWppSGR0ZU16N2FLbGt5eVczOHljN0xzV2c5ajd5QWpNQjJkNUMxN3ZKdDFHbXpGODBmb1NLb29mTHNocUFlMl9HRmxwSmNLN1ExU3hwZjFjTUZJRmpnR3hsTlk5QU1YTllld3Bjb2l0c1I4LXdZZVpUTnN0NkdoWFc2a3FfNjdyZFVjQ2wtWXB2d2oyRVRUT1hxMDB4Q3IzZG1NSlYxc2sxRGNFeDJ5ZDJPSWp6aXdLVGJR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,18 +571,48 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Evercore (EVR) Stock Price Target Raised by Goldman Sachs | EVR - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ01MNkRjakFmRWFmY3c0elY4MU9HSzVuZnJrYUpiVDBpM0ZrOEVnaWs1c25TNTEtUDhXakd1QzJDUGhEWVRtSGRjdS1pNFpTV3lUdVhWWjlUNHRfREFiNUlmQTQyYW95NWdQVE8wZXdwYUs0dWd0dEhEOWhTcS1kenBrQVoyVVNVQmt1SkpMSC1CZkRFbnUwd2hPNkdhNTlPLVNXWWZUZ2thWlJrV0E?oc=5",
+        "title": "Evercore: Stay The Course (NYSE:EVR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yNnNZVFkydTdmOTN5S3o3ZHVOMmlqLVJNelNZQWp5LTNqYXpRYk50MUpOS2ZQZEFTZWNmdWhUVWNyWE9LSS1GaV8yb0NHWXlKNWdUWWpUeEF2c2o5ZlpWWW5OZnVPNFhkSGFYb2gwamNfVWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Silicon Valley Bank Loses Key Wealth Management Team to Evercore as Tech Sector Competition Heats Up - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRF8tM3Z1NXRKdG5YRm5DSjdOQ1FCaVNtSElTQWVqSi1jenJ4R1lqQU91cnMtMzIwSENwQkl2T0YyeFNOaEUyRXdXUHN4NEt6eTBfY1VBVzV2TkNYSTFsdlc2TnlYajRZVmkzd09ZTk9OMWdUSExaZ0tqQkNORmFCV2Jsc1dic1VFd0hXZVlLVzlOb3FHUHoydnV3TVJIWkU4N3d6a2IzSmF4MS1BM1VreXEzdW4?oc=5",
-        "label": "NEGATIVE"
+        "title": "Charles Schwab, QXO, Evercore And More: CNBC's 'Final Trades' - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0NOR3RDam5uLU42NURsUjFPNXZrVGZwVTFNV25veGRFakwwZGI5YlM1T3dFajJLaFNVdElWZmlhVG5Ba0x0cUFNYmE2dVJCMHhwRzF5Q2RnWjN5ZUtZOWZfRTZhQWExbURJMFN1RTlUWWFwNkZoVTJkRnlpMURzVmx3bll2SXcxYWswZFFFVU9RaWtuNDJnbjU2RlV4V2Y3TEtvNldqOElBZVo1aFAweUVmWW9UN2tuRzFhN2xMUnktaW1BQW1ZdVdWWQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Compared to Estimates, Evercore (EVR) Q1 Earnings: A Look at Key Metrics - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWZXLXR6RU8yYzMzcDdyWGozeHBKNWN1YlFtNVFVbnRzQk1QVm5NZUQ0OV96OGgwNS1HWlNEY2t4M0hBT3ZJUk9Jc29vZXdqaFVHOFlBaVBwQ0lRTHI5ZHgtVzBqX2Y5YmYtRWZMSnd3Q2JBNzhRYW1QMk5jQ08xdS14OEdUZkE?oc=5",
+        "title": "This Insider Has Just Sold Shares In Evercore - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnFqVDM1ckY0VTRqaGRMLXFaU3lGVXFwOTlsdVowaURZYW9TX3JMY256UlY1cGlqN3RuZVRKbkMyRS1STkY5ZEdrQW5xR1ZQMTJEd1Eyb0tkanRWX1lUSTcyMDRjVnBxQ1ZYZThwbkZpd2U3NXZ5QUhkdFBBQzFEaTNSNHVLVU5PRGFRSUtNUTdYMVFwOWdaQ0l5eG1IM0FoNjBsV0ZOcEthTFFsSklNc01NOGtBeUVWSTJTTmcwOFjSAcYBQVVfeXFMTXNRZEVZUzNiNHF0aWppSGR0ZU16N2FLbGt5eVczOHljN0xzV2c5ajd5QWpNQjJkNUMxN3ZKdDFHbXpGODBmb1NLb29mTHNocUFlMl9HRmxwSmNLN1ExU3hwZjFjTUZJRmpnR3hsTlk5QU1YTllld3Bjb2l0c1I4LXdZZVpUTnN0NkdoWFc2a3FfNjdyZFVjQ2wtWXB2d2oyRVRUT1hxMDB4Q3IzZG1NSlYxc2sxRGNFeDJ5ZDJPSWp6aXdLVGJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore (EVR) Surpasses Q1 Revenue Expectations with Robust Growth | EVR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnpOZVNybU1lU21mUndSUmNwMVBPaVhhRktjZUxPSWFrcUNOaDZkd2FhekR3ZkNmZ0Z1R1FIYmtndndXbzhCd1lTMlppRDdEYUFaUFNRTlQ5X0poaWJISkx5QjhqYXFKT0hIWFdJUk1NZW1ycGNKb3paanM4d0o2azhkWWJwZDhFS0tMWFIteHA5TS1UN3hJOUFLTjdFM0JaNmp0WVhESmhRZXVweWlYMU9DX2psY3lIQTA4eA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Goldman Vs Evercore: Which Investment Banking Stock is a Smarter Bet? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONm8zOVhkMjVxUmFFSnJzMWJFM19EeHh6azJGazItQzkxN19RbUJOY3FaOS1iX0ZSOHU0VzlKQUk2dVprOGhlaFR1Nk5jYnNyN0xjOXk3c2tGX3prWnU1NTZMeHBCLTJEZW1Ob2Exb2NmZEVweVR6ZHgzX3BTSkx2Z1Rxdzd3VjhtLUthTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore CEO John Weinberg Set for Exclusive Fireside Chat at Morgan Stanley Conference - Live Webcast Available - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjBlZF9yb1ZoNDBzSF9xS0JYWVhtUEJaN0dZTVN5bzJLV3lKS1k1Y0NjbFlwcE1JYzR4YkN1WXlJQlhZaEFjY1EySHRUY0VWUG1WN1FYZUllcXVLa1pqOWFYTmpvYVZVMGpJbEprUl9vcGZWSEtQSkZfOThlaWhXMkxVSzljcHAycTd6V3IyeV9taEszcHdFM3dydlZDWlEwLXpBOTR6cXVDRVpuR3dQM0ltSlhlSGY5ZWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore: Overly Penalized (NYSE:EVR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OeXVRTjZKcVU4c3RFdnhGNDFqZjd2RWQzOGZrQ0ZDRTBueWNjdVJ6Q1NKMzQ1LUtwMU9FQ2NreEZBYk1RbE9WbzBJQmFkMWNlNGRxWXNmREhxb2RBdHVTRGZzXy1MV2FzRXhKWHlVc3R1eWQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore (EVR) Up 14% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EbExFM2dXbUVVRldHaldEZ3BDS1VNeklMMUZBaGg0X1BCN1RIM2V0N01sRFNYTUllOE01TE5ldzF4NEJZQzRVR1h2enVLOU5UTENfNFlzSWJHUWgzQllQeGdMYTREZjM5ZEdKcmJQR1VVdHhKYkhYdmFyclc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "40+ Retail CEOs Gather at Evercore's Elite Conference to Reveal Industry Transformation Strategies - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGtPSldPRzRFRU9wa05FWXRJRTZIcVdtTjdlWW82TkpnREduOEcwSllhcEw1MUNxQnRNZ0dtaXlCVk5PZ0NKM3JXNVB2SFZlSkhFTUktVlRJcDFVWm9fal94TkUtRFZhVDQ3S0ZXWTlVV2ZKS3ZYbGx3MkpkQWV1T3VyZTl3Rm9ZTHJtQXg4LXY1QVROMGUxa2w5b25hNDgwa1plUm5TdzJ3RGtOXzhVeFozQlhtRFY1bXkw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,18 +621,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Evercore Inc. (EVR) the Best Mid-Cap Dividend Aristocrat to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mc0YzNllYMXhUMm9GZDc0VFBNY1MtZU1oOEhEUDBvc0t2bE00b09teE1iZThRaXJLbHBzTWJKZmtmelpIa2gza3ExUkdkX0R4N1hWVWNpTFBKLXpvUmk4LXI3T3VURFBFaVBXYTI1VlhVdXNwRTJySlRHTQ?oc=5",
+        "title": "Compared to Estimates, Evercore (EVR) Q1 Earnings: A Look at Key Metrics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWZXLXR6RU8yYzMzcDdyWGozeHBKNWN1YlFtNVFVbnRzQk1QVm5NZUQ0OV96OGgwNS1HWlNEY2t4M0hBT3ZJUk9Jc29vZXdqaFVHOFlBaVBwQ0lRTHI5ZHgtVzBqX2Y5YmYtRWZMSnd3Q2JBNzhRYW1QMk5jQ08xdS14OEdUZkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "40+ Retail CEOs Gather at Evercore's Elite Conference to Reveal Industry Transformation Strategies - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGtPSldPRzRFRU9wa05FWXRJRTZIcVdtTjdlWW82TkpnREduOEcwSllhcEw1MUNxQnRNZ0dtaXlCVk5PZ0NKM3JXNVB2SFZlSkhFTUktVlRJcDFVWm9fal94TkUtRFZhVDQ3S0ZXWTlVV2ZKS3ZYbGx3MkpkQWV1T3VyZTl3Rm9ZTHJtQXg4LXY1QVROMGUxa2w5b25hNDgwa1plUm5TdzJ3RGtOXzhVeFozQlhtRFY1bXkw?oc=5",
+        "title": "Evercore Earnings: Key Q1 2025 Financial Results Coming April 30 - What to Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1I3cEJIbmh4TEo3cFZCaFE3WDBrMUN0Wk9KNllwbHlLaDRDYVBnNWxDR2NRc1VpcWNuRW8xeG9ITFl1XzFNc2c4ZE9KZFlmNFI4cmtZbkV5dm9pOWxYQ0dXa2FjZmN4MDdJdHNsa2hYbk5aZ1o0SGFNY1BIMzJIeVNhX0xoVHpjWnFoSjZZVTNLUkduNHRIS1VUMmd1elRPVnktemprcHl2LUV2UWZnMldVaW5PSHExTFpJdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Evercore (EVR) Q4 Earnings and Revenues Surpass Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1FieWRJREE2UTVvNUJ1X3F6ekJVTlMzbjg0WVFHeGtrS3QzWWlScUVOTjVhOWVtd1F2cWY5N3JaYkxzc0xZVUlwQzI0ZTRSLVhkQ3Q1Y3p5M1ctdXNCakhjOFNhX3NKZlYxQmE4d1RKMDJjazdXWWQyVWxuUjdpUjBuTjVaUQ?oc=5",
+        "title": "Despite lower earnings than five years ago, Evercore (NYSE:EVR) investors are up 283% since then - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmhQeXB2Wl9Bb3RvbkJqOWp3aGdjQ04tb0thSEtPa3ZmYzVOaTg2WGFmRVFGTTNIMUJXNGVySGV4SzlRbllLWUZfbHIzYWRmSG1DMHdmUGhYYjE2UFFGTzBOMkhTVERzRmNGZW1KWDZMVTRJeUg2ajBRNG1vcl9hZS01ZW1vUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Silicon Valley Bank Loses Key Wealth Management Team to Evercore as Tech Sector Competition Heats Up - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRF8tM3Z1NXRKdG5YRm5DSjdOQ1FCaVNtSElTQWVqSi1jenJ4R1lqQU91cnMtMzIwSENwQkl2T0YyeFNOaEUyRXdXUHN4NEt6eTBfY1VBVzV2TkNYSTFsdlc2TnlYajRZVmkzd09ZTk9OMWdUSExaZ0tqQkNORmFCV2Jsc1dic1VFd0hXZVlLVzlOb3FHUHoydnV3TVJIWkU4N3d6a2IzSmF4MS1BM1VreXEzdW4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Evercore (EVR) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVByUjdlOVB2MWdzMG4xaTFubEJyTE1Oc1BuRF9hU0xLRnkwaXN4THIybmZ0dHZNZmRYQlFvVHBBWjBiWUdXZk1RNjhub09BWEVCd19JWjJ5LUtrMEdPLVhXanpra3Z6LU1aRDZlMlNFSkVYRFA2SWYwclNJYlhCbGx1NUo1Tms?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -649,13 +654,8 @@
         "title": "Compared to Estimates, Evercore (EVR) Q4 Earnings: A Look at Key Metrics - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUDRfWHN4MFdZeUxyVHV0Y19zeGZrb29WWnNQZjNXX1pVM0V2SlNYOVFveDF2MVlWamVxNFY3U0hqSGNPSG1QZEdrR3RwZ2VDc2RTUHd0NjRodmp6OWx2X3VtWm1wSWtXc3VmRzZTSU0wUDhfY294SjJYamo1RzNmTGt2TE9LRjQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Evercore (EVR) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVByUjdlOVB2MWdzMG4xaTFubEJyTE1Oc1BuRF9hU0xLRnkwaXN4THIybmZ0dHZNZmRYQlFvVHBBWjBiWUdXZk1RNjhub09BWEVCd19JWjJ5LUtrMEdPLVhXanpra3Z6LU1aRDZlMlNFSkVYRFA2SWYwclNJYlhCbGx1NUo1Tms?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

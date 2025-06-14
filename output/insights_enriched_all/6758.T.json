@@ -2,12 +2,12 @@
   "ticker": "6758.T",
   "name": "Sony",
   "sector": "Information Technology",
-  "market_cap": 23071593332736.0,
+  "market_cap": 22481712709632.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.390467,
-    "PB": 2.823296,
-    "EV_Revenue": 1.996,
+    "PE": 19.872307,
+    "PB": 2.7511115,
+    "EV_Revenue": 1.95,
     "ROE": 0.14214,
     "ProfitMargin": 0.08811,
     "GrossMargin": 0.28252,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.14149952346149927,
     "ROA": 0.02549,
     "PEG": null,
-    "EV_EBITDA": 10.069,
+    "EV_EBITDA": 9.839,
     "BuybackYield": null,
-    "PriceToFCF": 12.58392184315098
+    "PriceToFCF": 12.262183697420165
   },
   "technical_indicators": {
-    "RSI_14": 56.11662472479269,
-    "Momentum_10": 4.072766766223188,
-    "MACD": 69.00310081957878,
-    "BB_Percent": 0.7160470458738308,
+    "RSI_14": 49.80825713919312,
+    "Momentum_10": -1.968503937007874,
+    "MACD": 39.87125048264352,
+    "BB_Percent": 0.3665784313393139,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.932367946978388,
+    "ValueScore": 0.8908199830724282,
     "QualityScore": 0.3595616885794342,
-    "SignalScore": 0.5072366568383448
+    "SignalScore": 0.5852676598853577
   },
-  "volatility": 0.0294326944340675,
+  "volatility": 0.0289721435484839,
   "beta": 0.768,
-  "return_6m": 0.2223125593494295,
+  "return_6m": 0.1151567493051299,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 4327.826
+    "target_mean_price": 4417.826
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3144.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3206.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3338.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3362.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3462.0
-      },
       {
         "date": "2024-12-13",
         "price": 3358.0
@@ -525,21 +505,41 @@
       {
         "date": "2025-06-06",
         "price": 3833.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3833.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3800.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3747.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3774.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3735.0
       }
     ],
     "current_price_data": {
-      "price": 3833.0,
-      "change": 43.0,
-      "percent_change": 1.13
+      "price": 3735.0,
+      "change": -39.0,
+      "percent_change": -1.03
     }
   },
   "news_sentiment": {
-    "summary": "Les actions de Sony ont connu une volatilité, mais ont globalement augmenté suite à l'annonce d'un rachat d'actions de 1,7 milliard de dollars, une prévision de chiffre d'affaires et de bénéfices plus forts pour l'exercice 2024, ainsi qu'une augmentation du dividende. Malgré une panne majeure du PlayStation Network, l'optimisme des investisseurs a été renforcé par la solide performance des jeux, avec une croissance de 17% par an pour les actionnaires au cours des cinq dernières années. Cependant, la concurrence accrue dans le secteur des jeux vidéo, la réflexion de Sony sur son offre pour Paramount et les défis liés à la pénurie de puces ont entraîné une baisse de 25 milliards de dollars de la valeur de l'entreprise cette année.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.3,
+    "summary": "L'actualité récente de Sony (TSE:6758) montre une volatilité dans l'évolution de ses actions, suite à l'annonce d'un rachat d'actions de 1,7 milliard de dollars et de discussions pour acquérir un important acteur des médias. Malgré des résultats trimestriels surpassant les estimations et une augmentation des prévisions de bénéfices, la réduction des perspectives de ventes de la PS5 a entraîné une forte chute des actions. Les investisseurs semblent encouragés par la force du segment des jeux, avec une confiance accrue et des plans de dividendes et de rachats d'actions. Cependant, des questions subsistent quant à la durabilité des performances financières, notamment en raison de l'augmentation des prix de la PS5 et des incertitudes stratégiques liées aux acquisitions.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
@@ -549,43 +549,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Sony shares soar as games strength boosts investor confidence - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm81eVJBaUpYTXJLdHRxLXRWdXp1dy0zODBYZ0dmOURlRXBxYkxiOU1IVTRSTVVUNTRWaldFWHlnUW1FelpSS3lBT0tYNzZCUzIzM2NmV1d6d1lpLTc2Y3l2WnRTUV9RRElxNVo3UEdhb053U1lsdG1ybGF5TG03dHREdWFzSmhpTndyUjg4T0lQQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Should You Be Adding Sony Group (TSE:6758) To Your Watchlist Today? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFFqc1VDTDJQS1VIeHRBOGpJRUJJd2hadGlESVRLbkRPT0tSNWRMcWFpVF9OUUltZWp5d1IwbDBuSGU2NHNHeEh4cEpHdWpqcF9NUGplck44WC1Day10NG00X2xEVmpBRXhHaHhZLUdaWTFvM1pLbkR0d1h5LTRaZXB5MWxJVzJMbDU1Y0ZuZWNGM3NTcDNTQzBwVnFhOHRlWUFocWE0N3JuWkc2LXdSWFItaTdwR3ZQQUZWS1RrdnJYb0ViczhRTHZMSFJnbEZIQ2Q1ZHo3ZnRyd9IB3wFBVV95cUxOaElvN2g2cEtaVDVxclBoQy1sS2FTQXRJMG1fa0RjWGhxRTVoZU5zcTh2d05xUlpWa3JrQkpJWjBjbWlQa3ZWSUtTVzRHdlIwd0JkXzFpSmV4MzZMRmZMem9jTDhGdDlBaFBrSjQ4MVctSGlXV3pBMWRYc01OTTlCUHg1UU1Tb0hsS1A4M05HY0RlNjVZOWo4X0tLS3JCUk1IdTVpRXF1akQ5WHlSLUF6eVo1RjduQlpPLTJuX1lpU0VrZTRQTmdrblRvU0tJWnVjcm1RTW5YSzNNLWtFY0xZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Nikkei reverses course to end higher as yields fall sharply, yen weakens - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2NU9XcllPSnBGRWk5QkhwY3VyaWlLbG1rbkRUYVBIcFBJTm5peTN1U0gzLUYtTFhoU2czQVRTdzNmMWViaVlSemgzMmNWdllfQXd4RmtMcFhvOHpqZVM3LWhDUlh3cklHWHFwNmZpenVQdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Sony shares surge over 10% after it forecasts stronger revenue and profit for fiscal year 2024 - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2c0dW9DS0NjYVJaX2ctU0hXcjdOM29lUkVWanhFSFdSTGVFSGlaTlhzamg4dkJQcDdyT3FYdHVfOXR6anlGTkRXZklwLXo0VWpKdWZPM2l3SlhsUHk5aVpLeUJWX3k2UEdYR2xzYmNiVEgwOEt0bnd6dXhfakw4d1M2ejZRNWpmTXRUUXB5cFFrWjY0bGRjdkY2Z0VzT2VOZ0dqMUQ2UU9EQ2c10gGyAUFVX3lxTE5uTzBFUGI4ckJfNWNkZjhsMWtGa09CbUZtbTNYaDAxVXExN3QtU3ZIanB2TUdubXozMFF4S2dmOWNDVmRFOHl1WERaWmdlZFBYRzQyWUdfcHFoZ09uZzZTeDlwSjd2SFhEMkszSE0xQ3liX0tBeDdmOUpMWmdzdHl2b3ZyNk5pTllBWnl3OUJBcFhaVGJ5TjJBSkZ2N0VFbU51QkpldGJ0ald3LUVVV09fUGc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Sony Group (TSE:6758) shareholders have earned a 17% CAGR over the last five years - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHczaU8xNWtQcUxkTE5BQmtaYlBQRUt4YWdOU3FWd1A3bjFfNkxmUHFqZUh1OUY4ejZsZkJvWXF6MWdvX2t4dG1SZUp0V1ctZUVidlQ0N1J1ZW1iMzR3bUdMcWtUNXVzY0RzZVM3bXpSWTFsdXhVTmJjazRCek5IQnNDX1l5RUhhTmR1VVJrd25FRDAxcWZTb2FfY2EwRTNGVXM5OHRybGtWcEtvMEJnNFo5TjNZbW4zMXNtMVNpbE9tYW1CRFpPdTNsalNZcUVhbDZuR3RGc1MwQdIB3wFBVV95cUxQaURnRklLOElJR2VxTFFNZFlpZjRLV0hrNVU0TkMxVmtGX2pfRDAyZkxGbUs3TkhFR1d2LXJDZUtjMlRtc1JTbUtRYlFTSDNZc2pFbkJnaW9adTIxRlB4d1VhQ1lQSXRseEpuN2hIQXRkSkQ5RUhBNnR3U2Z1SEZlRjhUU0wyd215WEJQQXBFZk1adVpXMHNKVkZleVBKanV3eXg1U3JzVTFNYnZOWFZpblhKMlNnOGxRYWdlWWd5RW5rV1JaeGdtWkpzYnVJZ0xFLWhoaW9HUjU0SGlsWjBF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "6758 Stock Price and Chart — TSE:6758 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IU0tCTGV2VVh2Z3JmTWh6ajU5TXNpNUJMZk5qdXM1d1Rybzg1S0cwNEtMZDVQT3pvV2dKbnQ3d0RsVXg3X0ZFS19wUlRlenBULVZTbnFzTnk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SONY, MU, TSM: 3 Overlooked “Strong Buy” Tech Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QaENPMFYyT2UzZFFsQ1JTQnVySjZfMmhMRi1EUUZTNmlWak1tVmZkZE9kQk5acUppMm4tWVNWV042ck5CVElCRmYtb0RVejFlVnlyYi1wQVNXaUExbmVFY3ZpSkswcTNCQzVRcE1QeXh0MFFmY0dCVGdn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Now An Opportune Moment To Examine Sony Group Corporation (TSE:6758)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOE5mVlRMLVhfM05JcE9wSkVfZVVuWWVSMEUxZ2QyVXZzNHgyVVJ1RnBrWHFJd2xiRVI3NlhYWUV2bUczNXYxUDZDTHl4MWRPN2hKQWFaejdxYjQtcG5hVFJSbUVURHhHY3lMTi15c01Ec2FzWjB0SlUyZVVPNUplTXZKT1ZOUHFFbkNpQi1BRkJiMmhwckJfMkMtRTNqb2tUQkFSOWlmWHVJRmJqUnpuZ3RXb202NU5QLXVzZ2MzV1dHM3NHbHBZVGptdk14OW91bmtPUzk3TUliQdIB3wFBVV95cUxOT3BnU2p1ZFRXZVJRZEpzZUZxSnBXTklVLWp1UUwyWFl3ZF9CZjRaVzRxbnNrdFo0RjNxajRlcVc4WGEyTWlQTFhhZjJpQzAyT0VQWEM0UFg0M1dyelZCNVRmcG9FSjRlbzRWS2doTEFtSlBRVHNWSmdGNUJYbWJXWkwwbmppQ05GdDQtZXgzZm1XX1J6dWIzNXFnS1pfM0M4ems4c19lVEdJUEhYbTE4TWhNOXRsR3lKbFZYaFJQUkNvUDNfRmN0LUl2YmdHU3ZQS09oZm12b0RtWEpEV0dR?oc=5",
+        "title": "Exclusive: Sony is in talks to buy media powerhouse behind 'Elden Ring' - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkNwX1BHal9iMzlwWTVvcFVGalRNYTJ3UUdvSFF1cjgxZ2tabi02aVpzdENxYjlTcEFSODN1T1UwY21QYWp5REdJOWlOZFh1RTNnTmY2cmdneTI3Y1ZuSFlSRl83cm1ob2hQdmtHSXdqQUlZckUzV296S2JlaWlPU1NROW5USXJxVTg0MzNOY1BYOUFzZzhmMi1qd2tRMDNpZDhoVi1QT0ZIVEVEWXU0WA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -594,18 +564,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "PlayStation Network experiences massive outage, frustrating gamers nationwide - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEowT05DaWI3cC1oZU9HV1RxTFJyamtSYmdxRl9NUm9Tak1WdkxaQktMMFhJYmI3SjdTOVBuR2FpaWwzOFlvYzNqVTIxRHdZUjFmYTZHSDhBUC1FOTduNU5OZDJxM1liQlVobm1NeUNkSVpkWXMxdUdWd3VYWHFIVk5IMzQtZXRrd2Vvakh3clRtNFdnUkZZcER2Q2LSAZwBQVVfeXFMUDhKME9OQ2liN3AtaGVPR1dUcUxScmprUmJncUZfTVJvU2pNVnZMWkJLTDBYSWJiN0o3UzlQbkdhaWlsMzhZb2MzalUyMUR3WVIxZmE2R0g4QVAtRTk3bjVOTmQycTNZYkJVaG5tTXlDZElaZFlzMXVHVnd1WFhxSFZOSDM0LWV0a3dlb2pId3JUbTRXZ1JGWXBEdkNi?oc=5",
-        "label": "NEGATIVE"
+        "title": "With 58% ownership of the shares, Sony Group Corporation (TSE:6758) is heavily dominated by institutional owners - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUhfdkNyZkc2R01WQ0xwdndfUTJPNHZSYzVWbGM3eTRRSjBvZncxNUdNd3FCUm90TTliS1FBQkJfVW5EYmllT1hXQWNMZUlTbEszWEthM2hFSWp1SFgtU3NjN1pSSXlnTkdLN1hvZzdCdVFqZWgxcU9UTmhmX0pOR1MxQnFxTHkyYTZkc2UySGxiNkpUVm04MnYwTWpKSkpGVHF5dnN5dF83R0N5dGJEc2ZnMkdZTnR2N25heDZNbk83dUF5QnpkNlBDeVFtUWZHOUVlNjd3OFROUdIB3wFBVV95cUxNeGVXeFFKbEdqcHV0RWZQVEJDZ2xGLVAzeTRocHVIZl81YUR0TDBvRDZsR3dVRHFMR2xIalpjVGd2eFViLXlhTkJTSC10SHhWSXpvOV9KQkRjQmM5d3hLdjNpR0xFd3NNOE1na1RreHlnRk1rT1JWQ3JONFNHQnRhMldEcDhsQXF4V01PMmJVWmZJcV9NWkZKcUpqLXZtRGJreDMwRWVGeV9oM0N4OWRGTnVyeDNkZzFmRUF1UXFtd0pSdHF4bzdzSHNvaklTc1Y0VENEeUFlM2lRUmM1dUlR?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Sony shares leap 12% on buyback and dividend plans, higher profit outlook - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFpqWFd4TVdra1Bybkd5Y2hRNmREeWFaOHVFSE1kekIyVVE1amcwTVp2cGxKZlBxWHlyVlpWQzFobmtMMmZNWjlJTzNibFZiYW11Q05NTWtTRUYtUUJRcjdTS0kxc0pySHdtQ0RUcGVSVnBYTGNfXzI0eW1wVUc0UWVYYjhGb3ZyQzA2QXdzd0s5dXRVWHNjYWFWVVdmd0N6akl0ckVMeUw4LUNRRlNESA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Sony Group's (TSE:6758) Promising Earnings May Rest On Soft Foundations - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWFaZkpZZTZTX1JFM2N4RGxNWGNFTDFrV1EzNzlFZmMtcm5jSTlUTmVVN0YwS2t0QmZ0NFhzVjVTeEZ6ZTlScXd6UDlDY1RpWDNCdjdvRWdSZFVCSlMweGJnMVJZODRhVlNyckt5eDdSQWVXY3RaTmozR0UydHBpMkc4X18yajNSQllGM2huQVBwc0ZIeTZsVDZvblJCZEsyazFqSE1Gd29XU2FsYlg4T1JUdzRMN1BNYjBZd09ILVh3R2RqQllUbkRVaFBJd2F0TTQyTVF5NHBDd9IB3wFBVV95cUxPMTZYNnZIOGtEUFk2c2R6MlljemVCakFkVHNwQndwYVZvMkFCenFYakduNkFZdVpoVjVtdjZENDU2RTFuRVQ4eFZLbG5pNDh3Umc2anpnblcyU2U2TTZmdmh1ZERSc2NlamRpUGtLTjVacjZ5Mk5mQ21tNzBhSVdEQUhkOE9rYlYzZy1leFk3TVlEWVFlbDE1SThLY3JNR210SHo4V2ZYZXN5cElSV1pXcVdnd1pnenljdUszRmZNSVVIekVWQVBHamdSNUxfeXdJdzZYbkhKTENBWUpwYlQ4?oc=5",
+        "title": "6758 Stock Price and Chart — TSE:6758 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IU0tCTGV2VVh2Z3JmTWh6ajU5TXNpNUJMZk5qdXM1d1Rybzg1S0cwNEtMZDVQT3pvV2dKbnQ3d0RsVXg3X0ZFS19wUlRlenBULVZTbnFzTnk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -614,13 +579,58 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Sony Dives Most in Two Years After Cutting PS5 Sales Outlook - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUNFeThTSEJRdnFTeEdYZWtVT3BKX0xFbHJ1dXRrMkJQaHJRVHlrMUgxUU5iejg4Q3ZHZjBVRW1OWlJHNHhKRHo4RkVfYW1ha3A3WGY5aUZ2WklNeFB5Qi1PaXlabkloZDg2d0FFYzdZZlR5TjZZMjRmcy1FRHZxSg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sony Group (TSE:6758) shareholders have earned a 17% CAGR over the last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHczaU8xNWtQcUxkTE5BQmtaYlBQRUt4YWdOU3FWd1A3bjFfNkxmUHFqZUh1OUY4ejZsZkJvWXF6MWdvX2t4dG1SZUp0V1ctZUVidlQ0N1J1ZW1iMzR3bUdMcWtUNXVzY0RzZVM3bXpSWTFsdXhVTmJjazRCek5IQnNDX1l5RUhhTmR1VVJrd25FRDAxcWZTb2FfY2EwRTNGVXM5OHRybGtWcEtvMEJnNFo5TjNZbW4zMXNtMVNpbE9tYW1CRFpPdTNsalNZcUVhbDZuR3RGc1MwQdIB3wFBVV95cUxQaURnRklLOElJR2VxTFFNZFlpZjRLV0hrNVU0TkMxVmtGX2pfRDAyZkxGbUs3TkhFR1d2LXJDZUtjMlRtc1JTbUtRYlFTSDNZc2pFbkJnaW9adTIxRlB4d1VhQ1lQSXRseEpuN2hIQXRkSkQ5RUhBNnR3U2Z1SEZlRjhUU0wyd215WEJQQXBFZk1adVpXMHNKVkZleVBKanV3eXg1U3JzVTFNYnZOWFZpblhKMlNnOGxRYWdlWWd5RW5rV1JaeGdtWkpzYnVJZ0xFLWhoaW9HUjU0SGlsWjBF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony shares soar as games strength boosts investor confidence - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm81eVJBaUpYTXJLdHRxLXRWdXp1dy0zODBYZ0dmOURlRXBxYkxiOU1IVTRSTVVUNTRWaldFWHlnUW1FelpSS3lBT0tYNzZCUzIzM2NmV1d6d1lpLTc2Y3l2WnRTUV9RRElxNVo3UEdhb053U1lsdG1ybGF5TG03dHREdWFzSmhpTndyUjg4T0lQQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SONY, MU, TSM: 3 Overlooked “Strong Buy” Tech Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QaENPMFYyT2UzZFFsQ1JTQnVySjZfMmhMRi1EUUZTNmlWak1tVmZkZE9kQk5acUppMm4tWVNWV042ck5CVElCRmYtb0RVejFlVnlyYi1wQVNXaUExbmVFY3ZpSkswcTNCQzVRcE1QeXh0MFFmY0dCVGdn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sony rules out renewing offer for Paramount, says it wouldn't fit strategy - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1BwbkQxLTQ3d0ZuMXdiclhDX1pIYUVFY2djYWlLMy1VMHFyMU50X0ZEU2tLWENSbDU1MS1KaG4xMUZXaEs1RzNrMy1MM2gtWXBRdTdWSXd5dGJaYWVoS25la1pzc2oxUEJKR1ZPUUxjTUVhTkxDdG9pN0hiNE4xcWE0XzlUWGlaMWNzdVZSb3RKV2tPNmxfd1VhRWpnY1JDQUNvRG5tNjLSAa4BQVVfeXFMTzd3YlIyMUdkMkVaYXdoaVUwdVM3N0xVNkVSdmhRREdoNGVtc2dGTllRU1Q1ZGNwcFZ3cWpTQWJ2cENlR09sa0g0eUt5b1pBUmo3U2NPRGVkemhGeUlFX3BnN1FPS3gybVgwaEJ0UjRnbzhVcGh1WDh6OGplV01mOGhhVVdnVHFNbHZsNTRQbV81MnVrLVgzWEtKQzRyeXlfQXRZZEZWMTFuREtnSzh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony Group's (TSE:6758) Promising Earnings May Rest On Soft Foundations - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWFaZkpZZTZTX1JFM2N4RGxNWGNFTDFrV1EzNzlFZmMtcm5jSTlUTmVVN0YwS2t0QmZ0NFhzVjVTeEZ6ZTlScXd6UDlDY1RpWDNCdjdvRWdSZFVCSlMweGJnMVJZODRhVlNyckt5eDdSQWVXY3RaTmozR0UydHBpMkc4X18yajNSQllGM2huQVBwc0ZIeTZsVDZvblJCZEsyazFqSE1Gd29XU2FsYlg4T1JUdzRMN1BNYjBZd09ILVh3R2RqQllUbkRVaFBJd2F0TTQyTVF5NHBDd9IB3wFBVV95cUxPMTZYNnZIOGtEUFk2c2R6MlljemVCakFkVHNwQndwYVZvMkFCenFYakduNkFZdVpoVjVtdjZENDU2RTFuRVQ4eFZLbG5pNDh3Umc2anpnblcyU2U2TTZmdmh1ZERSc2NlamRpUGtLTjVacjZ5Mk5mQ21tNzBhSVdEQUhkOE9rYlYzZy1leFk3TVlEWVFlbDE1SThLY3JNR210SHo4V2ZYZXN5cElSV1pXcVdnd1pnenljdUszRmZNSVVIekVWQVBHamdSNUxfeXdJdzZYbkhKTENBWUpwYlQ4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony shares leap 12% on buyback and dividend plans, higher profit outlook - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFpqWFd4TVdra1Bybkd5Y2hRNmREeWFaOHVFSE1kekIyVVE1amcwTVp2cGxKZlBxWHlyVlpWQzFobmtMMmZNWjlJTzNibFZiYW11Q05NTWtTRUYtUUJRcjdTS0kxc0pySHdtQ0RUcGVSVnBYTGNfXzI0eW1wVUc0UWVYYjhGb3ZyQzA2QXdzd0s5dXRVWHNjYWFWVVdmd0N6akl0ckVMeUw4LUNRRlNESA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sony hikes price of aging PlayStation 5 console in Japan by 19% - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDBjSmJpSmJuMnI1bXUyTDUtQ3laNGxuOXNJczRGb3AwV2l6RjZMdGxMSVR5WGs2NU5iQTYxVXJUbDhfc1JfT3Z2Qi0yT0Q5MloxLXYzcHNqOG1QUDBuakh2VkpSOEEySVhqTmU0M1A2QkZDSU9Db0ZUSnVIdDVvV3V3TjQxcWhoQlVyV0J0cENGZ2pSUWUySNIBngFBVV95cUxNVUxXM3VUcWpWRE1IYW9ZZ2xFVlVTaUJrMkNUVGQxazRFdzZiRlpRcnc4UVEzajdkUUhVaVZCSVJtbWtadzBWT3Bpdk1aTG5qbEp2NDVOeEQ3TjlVM3FFY2hVWjdHQnlmRHRQa3A5c2JZX1FCNDgtSk1RNEZ6YlpYQ3FYYm1vWGljc09oVnFuOTFBRUdoVWxzTzRxa0NKZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sony Group's (TSE:6758) Dividend Will Be Increased To ¥50.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkFRX21fWXlyeXd3d3c0M1FnV01aMWx3dURfbm4tLW5HUWhtbTRqVWl1elQxaFFLeURySndjemVtMTNpLXBMTGVjTnlPZ0FIRUZQWGhZNVFsQkZIVmcyeW5uaVRzOXZIOHlRbllJUkFITTE0WVdGWndXbFNyRDJnNEdJaHJYV2ZweGNHb0ZQSU83OGtJbEc0ME1fc05XZGtmVEdKLUhKckZkUmZKb3lUZ2ViazkwXzdGdkF1MmdYenZzYm5JbElLS2dxazRaejZVd3fSAdcBQVVfeXFMUHVUX1NxRVpsSXJEbmI4dm1DWXNaYW82eTlLOXdxS0taWWUyVEpNMzViTE5TNWtGZ0puSmJKQ2h6TFBScmM0aGZURDRwdjRJaC1iVGxSYzJESGxlV1BSUnVlaDJRSTd1TExfczdQd2NaQWZEbW4yX19LTUF5bHQxOWt6R1pXeU9Nc2czV1VUUjg4RkRDdmZOWEFudU4wN0Q3VmdnMGhESzZGdUpmSGtXbDA1ZUpxWnNwZGF2Q01sOHZzOFVKTE4wOEZLa2EzRHFyT1RRR0ZDYzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Paramount shares fall after CNBC reports Sony rethinking its bid - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEhyODN2UTdQRS0xRnhycVFnOWNrc0xGaEtLbFFLTDlFX3N2WTJDbDhZa3pDc1VRckhNZ3V0NHVaOU9hVndDU09oUk53Y1V5eWdsSTR1b2RyZnoxU2pyZVZpMFJaMXZyZ180M0pHd3lGdzFtTVBIc2JnSmJCOUhiY2Z0OFNoUnU3Y202LXBlRjJWZTZ2cnpoOW9xZWhDendreDloTm0wbTY?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Sony Group's (TSE:6758) Dividend Will Be Increased To ¥50.00 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkFRX21fWXlyeXd3d3c0M1FnV01aMWx3dURfbm4tLW5HUWhtbTRqVWl1elQxaFFLeURySndjemVtMTNpLXBMTGVjTnlPZ0FIRUZQWGhZNVFsQkZIVmcyeW5uaVRzOXZIOHlRbllJUkFITTE0WVdGWndXbFNyRDJnNEdJaHJYV2ZweGNHb0ZQSU83OGtJbEc0ME1fc05XZGtmVEdKLUhKckZkUmZKb3lUZ2ViazkwXzdGdkF1MmdYenZzYm5JbElLS2dxazRaejZVd3fSAdcBQVVfeXFMUHVUX1NxRVpsSXJEbmI4dm1DWXNaYW82eTlLOXdxS0taWWUyVEpNMzViTE5TNWtGZ0puSmJKQ2h6TFBScmM0aGZURDRwdjRJaC1iVGxSYzJESGxlV1BSUnVlaDJRSTd1TExfczdQd2NaQWZEbW4yX19LTUF5bHQxOWt6R1pXeU9Nc2czV1VUUjg4RkRDdmZOWEFudU4wN0Q3VmdnMGhESzZGdUpmSGtXbDA1ZUpxWnNwZGF2Q01sOHZzOFVKTE4wOEZLa2EzRHFyT1RRR0ZDYzA?oc=5",
+        "title": "Sony shares surge over 10% after it forecasts stronger revenue and profit for fiscal year 2024 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2c0dW9DS0NjYVJaX2ctU0hXcjdOM29lUkVWanhFSFdSTGVFSGlaTlhzamg4dkJQcDdyT3FYdHVfOXR6anlGTkRXZklwLXo0VWpKdWZPM2l3SlhsUHk5aVpLeUJWX3k2UEdYR2xzYmNiVEgwOEt0bnd6dXhfakw4d1M2ejZRNWpmTXRUUXB5cFFrWjY0bGRjdkY2Z0VzT2VOZ0dqMUQ2UU9EQ2c10gGyAUFVX3lxTE5uTzBFUGI4ckJfNWNkZjhsMWtGa09CbUZtbTNYaDAxVXExN3QtU3ZIanB2TUdubXozMFF4S2dmOWNDVmRFOHl1WERaWmdlZFBYRzQyWUdfcHFoZ09uZzZTeDlwSjd2SFhEMkszSE0xQ3liX0tBeDdmOUpMWmdzdHl2b3ZyNk5pTllBWnl3OUJBcFhaVGJ5TjJBSkZ2N0VFbU51QkpldGJ0ald3LUVVV09fUGc?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -632,18 +642,8 @@
         "title": "See opportunities for Sony's platform business in the AI era: Analyst - CNBC",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3lqek0xekxpM3VXR1o3YV85UjJwTnpmaWJLMXBlZEVLZS1zN0h1ZWVDclJVZGFFR05HMFBCd0NsOGVRd0VjSnhfejlqUnpTbkRGaVBOVXpSRzNNUmhRR2FteU8xbUNKejlXVEdQajI5dHpmNXZLUkl6azNTZE5ET0oybHZxVWVwQTVMQ2RzSmpGeGZaUExaTVZ5THZxaVk?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Sony to make case for finance arm spin-off in latest corporate transformation - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXFNaU9LcWJjbnFIT1VrN19PWUp1SGZDa21aTTBOY1JTY2Vkc2dVQ0h6ZEM0OXowbmZPSGoyU2Z6NUhGOEZYMy1KbGVMVTR1eVR4S3Fsd3BsWFFYaGlsNVU0aUxvSXN4VE1SSkJBSVJ0amdEVzZQWlh0TFFSZDUxWkdvdjl4UUJyRklMLV9BRHMxTUxfZjVXb3VVOUt3cTlfRFJLRHo5dWkxWlZpTEZzUHJKSE9SNmtGc0JnbHpUUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "$25 billion wiped off Sony this year as chip crunch hits PlayStation 5, Microsoft competition heats up - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzR1S0dyQmNlRUJ2QkYwNDFuTXozSmxnUmVKWkROUjdfaThoMUVWQ1h1ejdGcXFaMWhmRkx3cVA4LVFiLTM3cmp5QTdESE41SGJ5a2U1ZFhGcFA3d2Foa3J6WW4tT3lqUUFVdTF3WEh6X0VsWlEtT29vUWFCWVF2bGJpdzhUbHV1R29ZVEFBQ3p1ejR20gGaAUFVX3lxTE9zaVd4XzZPNjE4d3E0SzhJRm1JTEJXMlRadDlaNUVaN3Zrc0RWR05MSnNBMVBQaG5GODlQWGxfWUlMVmNRekFoU1AtMVc4czhnSU1fR0lERFZ4WURKdExnZ0tIbVhIOVo0RkdXS3pkNDF3bFZ3VFM3NEprZUZ5ejRKQ0tFSm1SS25TX09xX1JMUENQWU9XaHMyWHc?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

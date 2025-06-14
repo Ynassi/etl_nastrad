@@ -2,16 +2,16 @@
   "ticker": "PRU",
   "name": "Prudential Financial",
   "sector": "Financials",
-  "market_cap": 37176045568.0,
+  "market_cap": 36502052864.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.563879,
-    "PB": 1.2440472,
-    "EV_Revenue": 0.807,
+    "PE": 16.26358,
+    "PB": 1.2214929,
+    "EV_Revenue": 0.814,
     "ROE": 0.07908,
     "ProfitMargin": 0.03803,
     "GrossMargin": 0.25792998,
-    "DividendYield": 5.21,
+    "DividendYield": 5.15,
     "DebtEquity": 148.073,
     "CurrentRatio": 0.999,
     "QuickRatio": 0.881,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.27158499919221285,
     "ROA": 0.00234,
     "PEG": null,
-    "EV_EBITDA": 17.264,
+    "EV_EBITDA": 17.411,
     "BuybackYield": null,
-    "PriceToFCF": -2.274610259150167
+    "PriceToFCF": -2.2234348062185645
   },
   "technical_indicators": {
-    "RSI_14": 54.7335991380781,
-    "Momentum_10": 2.712081249174669,
-    "MACD": 0.3324182952016485,
-    "BB_Percent": 0.6373035358466639,
+    "RSI_14": 46.62186520841115,
+    "Momentum_10": -0.7989237038511222,
+    "MACD": 0.3622041314449973,
+    "BB_Percent": 0.2801829268480557,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933777194951149,
+    "ValueScore": 0.8954430821602719,
     "QualityScore": 0.3175655838675674,
-    "SignalScore": 0.5401076768594975
+    "SignalScore": 0.6029544953693184
   },
-  "volatility": 0.020307832221828,
+  "volatility": 0.0202068151237342,
   "beta": 1.047,
-  "return_6m": -0.1494373549081101,
+  "return_6m": -0.1227220189676125,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 122.56
-      },
-      {
-        "date": "2024-12-10",
-        "price": 121.24
-      },
-      {
-        "date": "2024-12-11",
-        "price": 120.07
-      },
-      {
-        "date": "2024-12-12",
-        "price": 120.61
-      },
-      {
-        "date": "2024-12-13",
-        "price": 120.48
-      },
       {
         "date": "2024-12-16",
         "price": 120.61
@@ -537,67 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 105.58
+      },
+      {
+        "date": "2025-06-09",
+        "price": 105.82
+      },
+      {
+        "date": "2025-06-10",
+        "price": 106.09
+      },
+      {
+        "date": "2025-06-11",
+        "price": 104.61
+      },
+      {
+        "date": "2025-06-12",
+        "price": 104.9
+      },
+      {
+        "date": "2025-06-13",
+        "price": 102.97
       }
     ],
     "current_price_data": {
-      "price": 105.58,
-      "change": 1.85,
-      "percent_change": 1.78
+      "price": 102.97,
+      "change": -1.93,
+      "percent_change": -1.84
     }
   },
   "news_sentiment": {
-    "summary": "Prudential affronte des vents contraires mais cela peut être une opportunité pour les investisseurs patients, avec une baisse des cours et un trading à rabais. L'annonce de rachat d'actions de la part de Prudential plc et la déclaration de dividendes trimestriels signalent une solidité financière. L'upgrading du prix cible par Morgan Stanley suite à des transactions dans les obligations catastrophes et l'énergie propre montre un potentiel de croissance. Cependant, la sous-performance par rapport au S&P 500 et des incertitudes quant à la réaction des résultats financiers à venir pourraient peser sur le sentiment de marché.",
+    "summary": "Prudential Financial a annoncé un rachat d'actions et une augmentation de dividende, signalant une confiance dans sa direction stratégique. Malgré une sous-performance par rapport au Nasdaq et au S&P 500, le cours de l'action PRU a bondi de plus de 39% depuis le début de l'année, marquant un rebond puissant. L'entreprise a également réalisé un audacieux remboursement de dette de 1 milliard de dollars, renforçant ainsi sa position financière. Les investisseurs devraient surveiller de près les prochains résultats trimestriels pour évaluer l'impact de ces initiatives sur la performance globale de Prudential Financial.",
     "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.3,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Why Prudential's Headwinds Are A Gift For Patient Investors (NYSE:PRU) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0ltcUE5cWREYmJKamtRY2p2cmd2T2sxaHdpT09UdkE5TUVoR2dGaWhfdlJBc2JJekVWQ2VCeUVGWHdYbkZPNVBuOU1udl93Y1UydUFKS0xWbE5HWHRnd0lXMm5TMmc5Qk9GZHQzanppal9CNkdhNU5XMkZzMHVEWXhqeXpRSksyT1dMUFJrUnBnQ0k1UENiMW1BRnN4clZa?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Prudential plc Announces Share Buyback and Cancellation - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemx2anlBVUQ0VXZhMU9ZS1JsMEY1ZkgxWDhkeENEWk5fdGw4dzNiajlnUjNUbGlpT2MzWUQtcUZLYmN0VFc0OWE5bkRzcUdYS1J3U19lVTZRal9GY0U4NmlTMVhCX0MxWmZKMlNVUi1XOVpHZnBnUkNXYjhKeGJBdWdEV3Y4Q3ZYSTVJM0M5clpMbnAwMjFDckhrNGw5elZreXF3VWw3enVfWmZuRHc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "1Q2025 Earnings Fast Five - Prudential Financial",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1dYdVdtMEVJRTAxb29JblNmRjVla1FFUEpELVZtT1lCMmNMQWQtcnRTYnhHWVRDV01FRHp6aGpNaUJxajV3enpacU9iYkR4bFVyd3FmNEpXYnpaNkVjUXpPNEtkRDV5akc5T2R3eWJlN0x2NzRjYVhpcnFfT2gxbFBkQm5XelNHSUx2VXh4SzVSbkxSNlN0dG5xeXRRUWJHWGJKdVZVVDBHMTUtcVE5dl9kdnFkcmoxNTg0ZWFOX3I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "PRU Lags Industry, Trades at a Discount: What Should Investors Do Now? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTXdzakR1UHVfYk9aQmd2TlBlak5OY1JwcU82WTkwaHlnNk1aQzNTU0ZmZlBVdEdOdWhPWDlNV1AwQnJ4bWdMRGg1TFpMNVVqM0stVk5JYWJVWjktanRjYXJGazc4aHRRVm5JQk56bG9RaWdmLWdYbkVsNW5ITEhGYzA1M3kwUV9aYzhJY2lWZDJYVlc2R1hYQzJYNWRGUHRVOXg0UG0wbDdUcVpCR0lXYTE1dTNBTkNNV3lsc21qOUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Prudential (LON:PRU) Shares Cross Above 200-Day Moving Average - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDNFWHU4QmE2T1BNQks5cS1jazZsU20xRWJvNEsxM0VMc1pqWGJaaGs4TVktT19RUGRBSGFxRDhXUUFFN29JbXZTUDlKOE5WeTQ0b2FURVYzOTFPWFNvTDhzaU5uQU5SNWtwUU5SRXFuUlBwb0ZxWnI0cFJuaWtOOVlLV05acGRZazdZeUloZnhNWXhvQVhKRm15OTFlQVRVYmJmY0xHekZRX0NVQ1BxVnMxeVB4aHJ1TnY1bkctd2RzZ3I5RlRwUk5SbmZPVl9qdlFkcmhyRHYzV2F3VVphag?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Morgan Stanley Upgrades Price Target for Prudential Financial, Inc. (PRU) on Cat Bond Surge and Clean Energy Deal - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlhob2JfV2FaY0ItTXZVakNwX2kwRHhQcGQyZW9rZGJKZVA2QUNqVm5vQzA2MG9ia1FPb2RZVXFQMVUxbUR4aW5NX20tTlZfNm1zSmx3dEJ3VV9sTHFIdkdtTDl3LW56WWMza2VzblRUdGVaY2V2d0pxdDFVLTg0LWRXbWZ1elNkNmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Don't Race Out To Buy Prudential Financial, Inc. (NYSE:PRU) Just Because It's Going Ex-Dividend - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR05iSkdTN2l2UkwyLUlESTZHek9uSThYVW1NcElRZ1RNVnYwb0FHeW1YWmhUZmM5MG9idE5TY2lJNTlpMWE1NENxMHcycHQxWEZKUTAzUkhKUEg0eGFwUGhWS2xDNmluWFE5MWVRNnFQcHlLM2N6QVlCTXFvM0FKMEcydUl2TU9kMUZHZkYtMDNod1d0LXB3aElJbDdZZjMwdDBiUFVUcFJ0MVBSV2hKbzJYVnpkRnVFT3dsYm93RXR3b2FxSFJlRHJERHdrT3htM29wZlJ30gHbAUFVX3lxTE9Xcy1oRF9uUDFqT0ZiSHU5SkFpemxxQXdSZEEwYk1BZGpsc2xrTThfQnRWcUJUWE1DdFJqZUIzaW9yTVNsd0JfSGw3RnhFZE5pWWRnRnd0alBqVndsdExJaXlCQzNaX3FRY1dMNGJZalY4d3JINTh0Y3BDQkpESC1jMnRiOWY4dm9wcWFQd2tLV3JYM3pIOU5sUU9NRkREXzlYa3czeV9UVzF5OGp5WGc4WWhpSFhuTmU0aHVIRjFFVzlHVVlXeDYyTjkzZlFldFoyOEpsWE1CRzZLSQ?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Prudential Financial Declares Quarterly Dividend on Common Stock - Business Wire",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjBsUUYyZjNwc2VwOGxHY09TUmdfY01FLWtRSktnMFZBZlZJRDY3V2dXZ3d5b09qRWRrRExrZFdrR21OUENoWjZwTFM3RGdhWFh6OXlIanZsUWNZYVVyWjVpN3VCTUZQeks0eE5ibUhiQXFHNnVvVGFwb29DRUVwRzJEbnJVYlJ0aWRqRF9YTmk2QkNzTkY4Z3FOUGFOVzVsQWdxNV9xM29kRDVKQ1cyam1QWFEzQTVyejBnZHNR?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Prudential Makes Bold $1B Debt Move: Strategic Redemption Signals Financial Power - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTFWUWVROHBVcEp5cnBqdmItSzhacnZUWlc4bk41M3NqbUtuaG1PcUYzdXJ4b2pDd2VRRHV6LXh5emtSNGhGUWppektPdjROSGg0cVVoWkNFcnprNWdjeG52eU5IRF9SV0pXSDVYOUJDdzhIZjR5SUFTRUJnbHc4SHl5eXNLWmI0YkRDYk12aTg3MS0xNVBIQUpReWpyWFFZR3lKeEFnNlV3MWR3eEZYbXlvOVdXczQ5?oc=5",
+        "title": "Prudential Buys Back Shares - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0FteWJmdXNrR0c1bXlTR0VHaWl6Ry0wbHk4WHpKWC16MVpKZ1l0QUpraVRONWVDTnlJckFueXBoLU5nQk1WY0NBbVljWmR1MHBLYTk1WGk1X2syM3VlUXpQdHZvQXpDSWhMZGEzeTRIOVdoWnhiekhVc0lkUUtLUUMzUnZXWkRDY2d0WEVTb3Nxd2pWOG4zekVBQUNnbmQxemZyTXJ0YlN1bzdu?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prudential Executives Acquire Shares, Signaling Confidence in Strategic Direction - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMk1EVTYzSE5QbS1abUhaRDhudjZDRThHR1l3NVJYSFZwbm40RnhSZ3B6eWRtaEtpb01TY185d1pMSkltemhnSWhOWGdHbVQzX1hjZm1sWWs2NjAwRTNXLUx4VmYteWxiMTBxU0Vsd0pEVFdYWG5MallLREFfR1hzVEFwUkQyajZLRzI1clFtVmdMWTlYR2xVdVFLX0pCMmpzLW5BM2l6LVNCR3gyTGVzNkFNcW0xOHhKdkNGbVB5cFhsQ251b2U1R0twNU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Prudential Financial (PRU) Featured in Upcoming JPMorgan Conference Call | PRU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHdveXBIcUM2aC1KS25Ya3NmWkRuNzJaUFBRb3NnWWEwSktVb25iZ1FiUkZSdkE4OUVDcm1iX2MtNG8xRWtoZ0pNdDNYTk44cnloNFpHemNHWmthTHQ2N0J3ZWE5aHoyMjN4d0FaRmVjMk1QQVhrU1hQLU93SUhYZ2p2bk9GUGpSckpUZFlnRTNfSi1oRFVZX05Xd2FGUjdEcnc3bGc0Y29WaG1MV2RGak10aVZ6Y09sSmp0VmFwbHhEZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prudential (PRU) Stock Surges Over 39% Year-to-Date, Marking a Powerful Rebound - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajA4Znh4VHh5ZVBVUXBZUWI5enpaYXIzeTE5SDdoTEI0RXBVbGN2VFk1ZGM3bEE1UDhaMm1PR3diRnI2SXY0dFo2MU8yWFJDLS0tRDhXY2N0ZEl1bTNpYWZEVDJ0M3habXViOFlqelpBMVVGaUs3ZW95N05WdU9xNDhCa1pHUnpBeXEtOWNXejFkd1BDcUtpRE51TXRCRmNXeGczZno0RnVWOXMzZU5GU1JGQXVzVTdTcGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Prudential (LON:PRU) Shares Pass Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzg0X2xiai1ZeWpSbnZxUDVxbFRFR2dhelRkTG5OdnZqemxLNFF2YXpJQVNNVm1MZG96eERILXpCZWhOUlJsbEttd3Z4dUxFUEs0WGh3Qk5RelNNY1Q1S1Q3X1NTb2N1M3Z0cDE0NlFMb2NGS1F4MUJSUEFhT3R3LXluVnBfZUhzbkRlZ09MY2NYZGg1V05VSGdZckF0LWZkV3JxaFVrbHM4Rm4ySzN6ODJCVXhpVUhtejdtWWpDUmYzQXRUQXJIcjgyV1ZxSTZ1anlnUXNEZUR4T2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Prudential Financial Stock Underperforming The Nasdaq? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWhaa3ZvOUxHbnRWMFkwR0VwQzdqRERIZnpVU1RlbzcxZTBzNXpEY1ZRcjRRUlhVU2x6ekFQOXViZ2NoUWZfVUpuaW9lNC0wc202NTF6dW1fcjE0TXhJSnVMWmo0QVNDUlFKQ2dseE5tOS04ZWEwbU85QkFDOE1zT1RET3lYcTJ2X2szempERlFETko4cmdaVjdmS0E5dVB4d0Zj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Don't Race Out To Buy Prudential Financial, Inc. (NYSE:PRU) Just Because It's Going Ex-Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR05iSkdTN2l2UkwyLUlESTZHek9uSThYVW1NcElRZ1RNVnYwb0FHeW1YWmhUZmM5MG9idE5TY2lJNTlpMWE1NENxMHcycHQxWEZKUTAzUkhKUEg0eGFwUGhWS2xDNmluWFE5MWVRNnFQcHlLM2N6QVlCTXFvM0FKMEcydUl2TU9kMUZHZkYtMDNod1d0LXB3aElJbDdZZjMwdDBiUFVUcFJ0MVBSV2hKbzJYVnpkRnVFT3dsYm93RXR3b2FxSFJlRHJERHdrT3htM29wZlJ30gHbAUFVX3lxTE9Xcy1oRF9uUDFqT0ZiSHU5SkFpemxxQXdSZEEwYk1BZGpsc2xrTThfQnRWcUJUWE1DdFJqZUIzaW9yTVNsd0JfSGw3RnhFZE5pWWRnRnd0alBqVndsdExJaXlCQzNaX3FRY1dMNGJZalY4d3JINTh0Y3BDQkpESC1jMnRiOWY4dm9wcWFQd2tLV3JYM3pIOU5sUU9NRkREXzlYa3czeV9UVzF5OGp5WGc4WWhpSFhuTmU0aHVIRjFFVzlHVVlXeDYyTjkzZlFldFoyOEpsWE1CRzZLSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,18 +601,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Prudential Financial Stock Outlook: Is Wall Street Bullish or Bearish? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXV1eWRSa0hyMWxDdzQ2Q1I2MW1ZRm5maFAzZDJieHV3X0JQdDdNcldnTjVjd1ZZTHZxZUN3S1Q5NVJSeDNtVVJEd203dWxGaVBsbDJQcjE1V0JpR25HV3k5N2gzYU1OV1NEcWJpWkpwaGtIYmNQT3l4eEc0OHB4dXlEZ1FKVkIzQzVMc2lpVWRvRmNJYXlETHBLcjA5UDhnZDNFYTVjV0RTTHN0cXpvNWF2RGhnWVA3SmhFaEZ2NA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Employees struggle financially making it paycheck to paycheck, while employers fall short in meeting expectations for support - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVRNM3FYSXBXSnVCSVMzR1ljOWhNTzBSRksyS3FlRTRvdnRjUUw2T2cySHZVRnM4RlUtenlvZFdWZjBnZDV3YXlQcEhRaDl1T2R6SGwwTEt1V0ZRMU40alVkZUJmbVpZY0RYMlJIRm43Wm9DWnFTczNhNlIzZXVMamxjSW81eEpSM2ZhOHhEREZHWjcyZlJmdEtDUThyS2ZmZW1xTnR0SWduRnpWS21pNGRJUTJpdEE0Um5YRnJR?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "How Will Prudential Financial Stock React To Its Upcoming Earnings? - Trefis",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTNNY2lPOTh1aXQ4MnJzS0ptdnZmVkE1Z1JBWFhVTzVfSTl6YWhBeTRRUmxKejNKTDg4bkZhUnpWLXpGcDNFZHVIU1VMSzBVRy1XM0g1ZWlIR2VhSXdtYkdWb2ZndUE3SEMzenJvUVlMc1Q4QXBQUTZTcldvNXFxY2Rub2luMUVjM3RUTHlhY2RZalhfbGRLakM2NHBkSGlvbWcxd0ltOXFKTlh1NGotdnlrSTAybVVqWWdXR0V3UElLSDE1?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Prudential plc Executes Share Buyback on London Stock Exchange - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEdiLUdTRklwazl3RE9Jc29aTXI4UDUydlNqaHVLQXlPVXpYQ0FtcG53Q1E4ejl6OWt1MWNycXdfWjgzTnA4VTk0aS1SakRaTXQ0WTA4Y2Y1MGhLeE5jeXZXb1BmeGVmR3lhVVdYaFFHOWh6TlFMYktYVE9aQzNTWFhEUHVBUE1OV2N3WVFOSEFZbFhTajFvWjZMUmx6RW55MnczM0xNWC01ZXZ6UUNfYUQ5U2IxQlE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,18 +616,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Prudential (LON:PRU) Share Price Crosses Above 200-Day Moving Average - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVkVJeENwRmZKeTBhSFFMbHpvd3huekltVERzMk5OMmp2TDFvNjd0TUVZNUpuU2Y3dkVPTjVlTHU0M0hfWktsalRfYlRzaHBtb0tGZnFWZlp3bTVhbTdDUzZCVTVlSDB1SzhzT3lYLWxETE9NVWtMdnpLYkZuZHVCZnBDZ2NhMEhrVHE4LWo5dmMwOXFMcU1BcHhfN3pYOGZFYWRmVjF5M2lKb0hKOFowLWV3U3l3WkZWWGxuOXN6UHJPRTJGOUwyOEpEdmRkejVsOHc?oc=5",
-        "label": "NEUTRAL"
+        "title": "Prudential Financial: Underperformance Creates Opportunity (Rating Upgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTRFb1dsVEIxYmdqd0dzUjZFcWdmWFE2Z3dPMTZmRkRBc3IxY2dEM3RBbGRycDhRN0ZpdnlRRWVRRkZKZTloWDVIeGpmM2M2b3dLQW5tdjlkNVZvcF9kc1BENXV3UU5PbEJOOU5YSFhnbVlvS2Q2bklzb0V4cUtuWFVmaWhJZTlJdjVzb0JvVE1zSnFQalZWTGJmeWpQbUlGeVFnc3lNN0NxUQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Prudential Announces Share Buyback and Cancellation - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlJmVDM5NVd3T0JUcnhsa2EyTThBcW9PNWNfVFFwaHFaM2dQX094MHhPUEtMb3poY2NyWDdVZl9tMU5fUWFmTUJDWnEwUTNLVkQ5S2ZnYW9yamxITkZxcEF1LWlYTlVBMkgxcDB4R0NLNVJLZmZ5WmNlMHBIWm0xNUtVajRNZUJUZ1o3anlXWUFERV9BaEIzN19wTHl0U3Q1S1VuNVRWOVo0Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFp2NmFUbXNxeE5SdkpYWXoxTUIyTWYtazMyQmFLQ1hIOVl5Ti1xaEJHbFM0RENlc1dCVF9iX0hVRjRTNHZKRUZzRlFHakFicUJLMEZ5RUJlQ2hMLU5PYmJNRGZOUTBzazZvMXdLTi1obkRzQWNMU2I5ZU14aUt2c1ZDaEtud3RhQmpkWjJnenFaMUMwb3RsdGp6b0l3bmJqWVh3eThxdVprZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Prudential plc Announces Share Buy-Back Program - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2dnTGhoWlpUZm55UU1RcG5xc1JRMlRteDVMZDhsS0pUWDdNZUtfUVRNMng2TVVmLTdKSkNtUWhMRUlNN0FOMEFCdG1OUVdwSTdUSnprek83c3EtVV9rZnV6STBJcTZhei1oSk5yVlVQX1NNdERobjBnbE5CRldTZk9xYlJuUHJIeEdPUnNDdURLeE1GY2RmNFVhZVg4bFdD?oc=5",
+        "title": "Why Is Prudential (PRU) Down 3% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vZ1BSc29wcXlvWVN2eTNIY0xyTTFfRmNtWnhYTml5S1Z2d3JDSTFkamNCLU5wVW0zcnZKbWFma1lIbXdkNlQ4VURLdldRNFhwSW1naWFtUE43MVlrTVNQYjNuWGw1UExuaDFjcjV2ZHB5eUdQOEFRNjktYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Prudential Makes Bold $1B Debt Move: Strategic Redemption Signals Financial Power - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTFWUWVROHBVcEp5cnBqdmItSzhacnZUWlc4bk41M3NqbUtuaG1PcUYzdXJ4b2pDd2VRRHV6LXh5emtSNGhGUWppektPdjROSGg0cVVoWkNFcnprNWdjeG52eU5IRF9SV0pXSDVYOUJDdzhIZjR5SUFTRUJnbHc4SHl5eXNLWmI0YkRDYk12aTg3MS0xNVBIQUpReWpyWFFZR3lKeEFnNlV3MWR3eEZYbXlvOVdXczQ5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prudential plc Executes Share Buyback to Optimize Capital Structure - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0JrbVprdXo2OEVRU0RRS0JGdVBsNEd2XzlhWHN0ZzlsOXROUDRVbV9ZaDdmZUhVMXVYaGdfSmdORTdWTWFybjFPanpMeFJRUjZPYTZvU1ZZczVwRUxBRG9mWDJodXB6X2FXUUNadnVuX0M5MUV3SG4zT1JYRmh1Q0VyR01xNE1FMlVEa2piazNIRUh4RlhyMEtfeVF4YWZYRk9LR2xqN2ZUYXBqWE5DWXIwcF8wSVdOdUhOUUh6UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Prudential Buys Back Shares - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYURIbHExVldTN3FockNvT1BkR3ZYUnVVdUpFVmhzNktZN1BfTE5lc21KVEJwZk9DSG9GR0ZSSjIzZ3owRTZxWDhkYWs1YzY0ZGxPT01KeEZfeGl4NktpbzZoeWxyNFFGYjdSMUVvNVU3MnRJSWdKam5DVnllV0ZidTZ1QmJ6SXNyb1oxdFpjbHNaYkx5RTdlNktSZHBFYVhPdXFHMGFyaElsOTVI?oc=5",
+        "title": "PRU Stock Near 52-Week High: Here's What Investors Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YRGw3cHJhb0pLN2lvZUw0T01yaTZGVmVDWDRfNzU3Z1VoXzIxd2xZTW9wemMybkxZbWRFSFZ2TXNyd3BpTENKTmxkdlNNZ0VackN6b29jVlVhNGNyVHQxNHZrUnZXbXhGeTV2anRVaXBla0pybGlz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Prudential plc Announces Share Repurchase and Scrip Issuance - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDVMY1gybngxNW5SSG52Q2llMnZiNlJwVTltdWprQ2hiZ3A2NU1faUw1blpmenRibXlDWXJKRk1lb3JMYTFWendtUExQU2pBU2cwVlhtbVVpUEJpN05QNDcydXhwejVPUWNjVkJMN2tNcVFQWkhtTE9LU241X3daU1hZLU5ZcWNITDE1UWJvUHY5V1d4aGNqNWVDaWc0cHpJclc0eUJ2d1RTeW90bFh3UkpB?oc=5",
+        "title": "What to Expect From Prudential Financial's Next Quarterly Earnings Report - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2syQVNNOTd0SWk2bFRzNW5MWFFLRDVvNzhmVFpPb2Vtc1BLdUFwRjNicS1XUmN5ZkZ0cU1ncDNkVU9jWGpDYS1YV1pIY252czdza2JGSGY2aEZxUldRYnF3SUZQa0lISGxlOEJUZkJkRFBQcmE2OUFTSW9qQ1hWUmU1NGV6Q1Myc1dXRWR4Y21NOU45TEJnNUhOS3I?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

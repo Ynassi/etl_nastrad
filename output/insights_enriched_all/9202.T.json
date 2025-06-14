@@ -2,16 +2,16 @@
   "ticker": "9202.T",
   "name": "ANA Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 1352318582784.0,
+  "market_cap": 1289343467520.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.902267,
-    "PB": 1.1964066,
-    "EV_Revenue": 0.661,
+    "PE": 9.432697,
+    "PB": 1.140692,
+    "EV_Revenue": 0.633,
     "ROE": 0.14035,
     "ProfitMargin": 0.06766,
     "GrossMargin": 0.18494,
-    "DividendYield": 2.1,
+    "DividendYield": 2.13,
     "DebtEquity": 118.329,
     "CurrentRatio": 1.327,
     "QuickRatio": 1.153,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.0262826192738404,
     "ROA": 0.0335,
     "PEG": null,
-    "EV_EBITDA": 4.379,
+    "EV_EBITDA": 4.194,
     "BuybackYield": null,
-    "PriceToFCF": 22.74811496842606
+    "PriceToFCF": 21.68877497235342
   },
   "technical_indicators": {
-    "RSI_14": 58.96603554030771,
-    "Momentum_10": 2.841315225160829,
-    "MACD": 19.834694030923856,
-    "BB_Percent": 0.8023869853632896,
+    "RSI_14": 36.45954504517252,
+    "Momentum_10": -3.972698634931746,
+    "MACD": 5.280805285023689,
+    "BB_Percent": -0.2552277913651432,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347945268336362,
+    "ValueScore": 0.8970399347997791,
     "QualityScore": 0.3748085612515451,
-    "SignalScore": 0.5131774317740023
+    "SignalScore": 0.6667274103260705
   },
-  "volatility": 0.0116900203241989,
+  "volatility": 0.0119560672052181,
   "beta": 0.459,
-  "return_6m": 0.0039219106733823,
+  "return_6m": -0.0600708942293529,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 3402.5
+    "target_mean_price": 3394.1667
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2916.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2955.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2959.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2969.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2989.0
-      },
       {
         "date": "2024-12-13",
         "price": 2970.0
@@ -525,29 +505,44 @@
       {
         "date": "2025-06-06",
         "price": 2877.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2887.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2887.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2848.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2821.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2743.5
       }
     ],
     "current_price_data": {
-      "price": 2877.5,
-      "change": 14.5,
-      "percent_change": 0.51
+      "price": 2743.5,
+      "change": -77.5,
+      "percent_change": -2.75
     }
   },
   "news_sentiment": {
-    "summary": "ANA Holdings Inc. semble nécessiter un coup de pouce pour stimuler ses actions, selon Simply Wall St. Les entreprises japonaises montrent un intérêt croissant pour les incitations en actions pour les employés, d'après Reuters. Japan Airlines avance vers une IPO de 8 milliards de dollars et une re-cotation, ce qui pourrait impacter positivement son cours. Par ailleurs, les problèmes de batteries du Boeing 787 en raison de basses températures au Japon soulignent des risques potentiels pour les investisseurs.",
-    "sentiment_score": 0.25,
+    "summary": "Les entreprises japonaises adoptent de plus en plus les incitations en actions pour les employés, favorisant ainsi un sentiment de fidélisation et d'engagement. Japan Airlines avance vers une introduction en bourse de 8 milliards de dollars, ravivant l'intérêt des investisseurs pour le secteur aérien. Toutefois, les incidents liés aux batteries du Boeing 787 en raison de basses températures au Japon soulignent les défis persistants en matière de qualité et de sécurité, ce qui pourrait peser sur la confiance des investisseurs.",
+    "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "ANA Holdings Inc.'s (TSE:9202) Prospects Need A Boost To Lift Shares - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEdkX1lJeld0T3plX25FYk9jWkVyV0JNV2lLZXZQRHRwWnhLZHBLNXpfODRtNjhrN3ExQlVYMWNITFQ5d1I5VFhkdjBia1ZyVXJENVlXTUlhelc0dzZyWUN5M3NIcVJOV3ZUWWJXbG9Cd0p0eWQ1aWEtMkpnMF9wWDVob3c1ZGpCSV9WOHdlZXN0WmFOQ0QwSk5vLXhtVmpzNW5KNHZlekhFV1hxeVdWUjlLdnR3eGZxeVk4b1ZsaC1tX2xocW41VWNObFFTUzktOTFlZXU1VFrSAd4BQVVfeXFMUExnbUVBaUdqUGw3RXdzcTVBcGkyUEtoOEhOTk1RdUlqeUpCSnZSX3NOejNhM3dwOWwzVXE5X3lVRjM4M3dMZmhDMDdPcEFNeHptUXItRVV0QnRkd1oxdEY3dGtRYnprTzNPNlFFZHdWakEwMC1mcHRuSVNvXy1rWl95ek5XcWg0djFFSFp5N0l5V3dqQWw1QUUwamFCTjhuMXEtR2dKcU81ZFZWNzNEUWR6YXNjZ2R0NldLRDF3cUphLUxXUUUtMGE1XzZFV3RjbTVGZmxXT291bXNkWVpR?oc=5",
-        "label": "POSITIVE"
-      },
       {
         "title": "Japanese companies warm up to employee stock incentives - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRyeTdDYmV0bDJuNE5NNDJTMjZxYW9yT3JGNVFPcWJ6UDRlVmtyeGVxdFpuLWZJZF9BZXVRRDhHQzhLcFhXdlctVDRNdEFHQXd5ZW1rZ1JJSy1hM0JEYWJpS21FVXJRUEc0MUQzTUxzdmlWeVZ0RW55TE5GdEgzMWZfMjRBLXJvQ0ZpY3FlanR0R3loaHZ3RGk1RnBJOTVQc0t3?oc=5",
@@ -565,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

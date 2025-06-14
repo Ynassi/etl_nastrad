@@ -2,16 +2,16 @@
   "ticker": "5406.T",
   "name": "Kobe Steel",
   "sector": "Industrials",
-  "market_cap": 638684430336.0,
+  "market_cap": 638092836864.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.3202667,
-    "PB": 0.5501013,
+    "PE": 5.313429,
+    "PB": 0.5400871,
     "EV_Revenue": 0.54,
     "ROE": 0.102180004,
     "ProfitMargin": 0.04704,
     "GrossMargin": 0.16564,
-    "DividendYield": 4.95,
+    "DividendYield": 4.94,
     "DebtEquity": 71.648,
     "CurrentRatio": 1.549,
     "QuickRatio": 0.677,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.02790665619642401,
     "ROA": 0.03205,
     "PEG": null,
-    "EV_EBITDA": 5.086,
+    "EV_EBITDA": 5.043,
     "BuybackYield": null,
-    "PriceToFCF": -8.957407728463886
+    "PriceToFCF": -8.949110760999979
   },
   "technical_indicators": {
-    "RSI_14": 42.92610166097828,
-    "Momentum_10": -0.7046568627450981,
-    "MACD": -6.317671766240437,
-    "BB_Percent": 0.1401580492630479,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 37.70184404862272,
+    "Momentum_10": -4.358280733393448,
+    "MACD": -10.199255347673898,
+    "BB_Percent": -0.0901291892417068,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935781206627699,
+    "ValueScore": 0.8982195361022914,
     "QualityScore": 0.3382189036171676,
-    "SignalScore": 0.6330119157379142
+    "SignalScore": 0.6664434944956261
   },
-  "volatility": 0.0171504702494632,
+  "volatility": 0.017268003117168,
   "beta": 0.743,
-  "return_6m": 0.0598430346631786,
+  "return_6m": 0.0460223537146613,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "hold",
     "analyst_count": 7,
-    "target_mean_price": 1905.7142
+    "target_mean_price": 1862.8572
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1529.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1517.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1526.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1536.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1526.0
-      },
       {
         "date": "2024-12-13",
         "price": 1521.0
@@ -525,32 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 1620.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1615.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1615.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1638.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1619.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1591.0
       }
     ],
     "current_price_data": {
-      "price": 1620.5,
-      "change": 5.5,
-      "percent_change": 0.34
+      "price": 1591.0,
+      "change": -28.0,
+      "percent_change": -1.73
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'analyse des récentes actualités économiques, voici les tendances clés pour les investisseurs francophones :\n\n1. La vice-présidente de The Home Depot, Teresa Wynn Roseborough, a vendu une part importante de ses actions, ce qui peut susciter des interrogations sur la confiance interne.\n2. Tesla continue d'attirer l'attention des analystes, avec des perspectives contrastées malgré ses récents succès. Certains y voient des opportunités intéressantes.\n3. AT&T est scruté pour ses dividendes, avec des calculs précis sur le nombre d'actions nécessaires pour générer un revenu mensuel.\n4. La hausse du S&P 500 masque des réalités contrastées, la majorité des actions enregistrant toujours des pertes.\n5. Les défis persistent pour l'industrie aérospatiale chinoise, confrontée à des problèmes de contrefaçon et de qualité des pièces.\n6. Nissan fait face à une baisse des ventes au Japon pour le deuxième mois consécutif, suite à un scandale de conformité.",
+    "summary": "Kobe Steel, touchée par un scandale, cherche des prêts, mais reçoit le soutien de ses actionnaires. AT&T offre un dividende attrayant, mais la performance du S&P 500 masque une réalité plus mitigée avec 60 % des actions en perte. Nissan voit ses ventes de voitures au Japon baisser pour le deuxième mois consécutif suite à un scandale de conformité. Ces événements variés pourraient influencer le sentiment des investisseurs à l'égard des sociétés concernées.",
     "sentiment_score": -0.5,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 0.5,
     "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Teresa Wynn Roseborough Sells 5,406 Shares of The Home Depot, Inc. (NYSE:HD) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW9mWkpWR0pxZDlTZldZem5pZ3lfVkJqQVViSzBxNURuVlNNTWJHUlJyMHVJY0V1amdDUnM5c0xnUGYyR3ZFaWtUUkN4OVdYQkViUEg1ZGFOVDZlNEZ5bm4wMUtKNTB5ZWx4VUQ3bTBWZWs3TWVMbGE0Yk5oV1IwSzZ4aDYxM0lFZEpWbWdZRjBwcHc1UEVYRmJLaVhnNVZCYnFxTTh1OURmaHNnVS03V2l0UXpLMHgtMnJwcW1wV0V0UG8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts: Don’t Miss the ‘Silver-Linings Playbook’ in Tesla Stock Right Now - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVhTMTNMQlFXQ2lxalJyVVltYWlkbVA1YTVWNEFCSnNHaE9FclVPMDFmVFFlOVVJLUtPUWNrUkd1RzZOLUtPR0xuTmtQUzBWeThqWVgxTlBiSXhmNmg1d01kU21uZ3Q4clhvZjI4eE1yWkROM0ladlFMNzJZVHV0Z3ZtbmdHeDdPVndWLTNyU3N5bUlPOE5HUHVIUkUwbGxRcEJnMTdSVXNoZmxEZ3J2SDJ6TlBFUGh2cHpUNEU0M0g0U2w3blB5Z0ljT3NUdjFBX0NkTmduQW1wMTZCaWRRb0JvbmI5aXJRdGE0NGhvdnA?oc=5",
+        "title": "Scandal-hit Kobe Steel seeks loans, shareholder offers support - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXJNUkczQnRYVFhzVElkYVptN0RCMUdGN2VpQU1CZ2Iyd1I5ZHRIUmJFYUVVeXZwaWhsX3A5TWVOdENUTjBnM2VEeDl5QUREYW5WTGlCQzNFVDNiV2JYVzRhNGdtdDVuOE5uMkg0RWpoVDlOZzByRVlLMFlNQVZldFlJYkZJTFRmM1dNMUt6YWs3YkMxOWQ3ZFFreDVMelhTZ3Y2QndFMW9hYTljT28wcWZGb1JuTTA2?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -564,16 +559,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Fake paperwork, poor parts challenge China's aerospace boom - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3R1dXlGNkMtR25YOC11M3dBYzlDYjlCSmpZSkkyazc5NGNpc1J5bXJONHFoaDVqdFlaa002SkY0ckh4Umh1eTU2RGF0R2dxOXQ4TFhLWmJobk8xQnpXX05xM1R3OG1zZzB0UWR4Snl5ZHZEX1gwa0xxY0tSWFNZd2pERm5DcUhpcFNYUzdBYUFoeFpFVWdpZHcxRU0yVjg4Qmhpa1Zmcm4zWFJiaktWUkd1RQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Nissan's Japan car sales slide for second month after compliance scandal - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUFBQUlpNUNiQWNnRWNJNzVPTzlBWXFWdExQdDlUUWtjUVhGanVDeFVNcGFCZ0xoQ3Vfai1aU0ZtcEpOQ1k5NDdBc0dhQl9uSGljT2ZoV0cxZEFzcFdxZVYzT3UwZ21PakNfVnhWRGNXelpNRHNPWDNwNm9aSnJ2NkZEeWkxZ2V3SE04djR0bkFiRlVndXpQVTRWUUlBajkwWHVFT2JQWkk1cHdYUWVoOA?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

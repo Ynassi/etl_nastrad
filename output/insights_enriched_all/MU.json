@@ -2,16 +2,16 @@
   "ticker": "MU",
   "name": "Micron Technology",
   "sector": "Information Technology",
-  "market_cap": 122368335872.0,
+  "market_cap": 128867000320.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.194979,
-    "PB": 2.5171266,
-    "EV_Revenue": 4.01,
+    "PE": 27.586124,
+    "PB": 2.6508045,
+    "EV_Revenue": 4.363,
     "ROE": 0.101009995,
     "ProfitMargin": 0.14916,
     "GrossMargin": 0.34735,
-    "DividendYield": 0.43,
+    "DividendYield": 0.4,
     "DebtEquity": 30.891,
     "CurrentRatio": 3.134,
     "QuickRatio": 1.869,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.01938671161351901,
     "ROA": 0.055219997,
     "PEG": null,
-    "EV_EBITDA": 8.905,
+    "EV_EBITDA": 9.689,
     "BuybackYield": null,
-    "PriceToFCF": -200.66571974417707
+    "PriceToFCF": -212.7477902477804
   },
   "technical_indicators": {
-    "RSI_14": 75.1201349339651,
-    "Momentum_10": 15.0163424958474,
-    "MACD": 5.366510408124043,
-    "BB_Percent": 1.0965472159934957,
+    "RSI_14": 78.58146238134049,
+    "Momentum_10": 22.337495954506643,
+    "MACD": 7.339747285618984,
+    "BB_Percent": 0.909506528501386,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9314654772475488,
+    "ValueScore": 0.8825965026271165,
     "QualityScore": 0.3176078895322847,
-    "SignalScore": 0.3239220132605703
+    "SignalScore": 0.3268258481128878
   },
-  "volatility": 0.0463857100979372,
+  "volatility": 0.045832055023467,
   "beta": 1.281,
-  "return_6m": 0.085104430042143,
+  "return_6m": 0.1279038805970149,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 33,
-    "target_mean_price": 124.07424
+    "target_mean_price": 124.6803
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 102.82
-      },
-      {
-        "date": "2024-12-10",
-        "price": 98.1
-      },
-      {
-        "date": "2024-12-11",
-        "price": 102.06
-      },
-      {
-        "date": "2024-12-12",
-        "price": 98.24
-      },
-      {
-        "date": "2024-12-13",
-        "price": 102.5
-      },
       {
         "date": "2024-12-16",
         "price": 108.26
@@ -537,103 +517,93 @@
       {
         "date": "2025-06-06",
         "price": 108.56
+      },
+      {
+        "date": "2025-06-09",
+        "price": 110.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 114.14
+      },
+      {
+        "date": "2025-06-11",
+        "price": 116.03
+      },
+      {
+        "date": "2025-06-12",
+        "price": 116.18
+      },
+      {
+        "date": "2025-06-13",
+        "price": 115.6
       }
     ],
     "current_price_data": {
-      "price": 108.56,
-      "change": 2.27,
-      "percent_change": 2.14
+      "price": 115.6,
+      "change": -0.58,
+      "percent_change": -0.5
     }
   },
   "news_sentiment": {
-    "summary": "Micron Technology (MU) a récemment enregistré une forte hausse de son cours de bourse, soutenue par des notes d'analystes optimistes et une demande croissante liée à l'intelligence artificielle. Les augmentations de prix cibles de sociétés comme UBS et Mizuho, atteignant respectivement 120$ et 130$, témoignent de la confiance des investisseurs dans la croissance future de l'entreprise. La perspective de résultats trimestriels positifs pour le troisième trimestre 2025 renforce cette dynamique haussière, malgré des interrogations sur le caractère durable de cette tendance. Les investisseurs surveilleront de près les prochains résultats pour confirmer la solidité de Micron en tant qu'investissement à long terme.",
-    "sentiment_score": 0.3,
+    "summary": "Micron Technology (MU) connaît une série de hausses significatives de son cours de bourse, porté par des accords de fourniture avec des géants comme Nvidia et une nouvelle puce mémoire pour les centres de données dédiés à l'intelligence artificielle. Des prévisions positives de la part d'UBS et des analystes de Citigroup soulignent le potentiel de croissance à venir, soutenu par la tendance haussière du secteur de l'IA. Cependant, malgré ces signaux encourageants, des avis mitigés sur le sentiment du marché et des performances en retrait par rapport aux fondamentaux pourraient susciter une prudence chez les investisseurs.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Why Micron Stock Popped Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BTVQtdU9vRDE5cHh4Z2Y2ZGNDQ1dXZHpDMU9LYVVodDUwaGJyb2VxVUh3clBWMHFpRUJadGtKaTc5ZzhhLXF2QzUzWFRDLS1OekdqTzFwZVB1TEVHc2tScF9xeUVILWhCLTluSFREMGlyczNTYzdZZzlkYUs?oc=5",
+        "title": "Micron’s stock is on a hot streak. Can it continue? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3RfZ3FWcVRIX29TMUd2QXM0U2xUQTlCZUdfMWZmQWFkWkJYSG9UN1hIUEotSUVJOUhBel82QU03aWRjMTBUMDN0bVRzTVktdFRxNzhyZ1BsUjlLZlhaTmRaNjYxOEFaLURLWUFscFJ5cWpUS1QtVmFZOThvMV9pU2EzQUd0eC03Rks1OWExZms1MHljYnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UBS Group Increases Micron Technology (NASDAQ:MU) Price Target to $120.00 - MarketBeat",
+        "title": "Micron: Why The Stock Is Rising, And Where It's Going Next (NASDAQ:MU) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFFNYlZqcHFLOWdlbjBZUjhnZldRZTJnNENJQ2JqMnBBY0wzeTFueWs0a1dXWkZRcmpDV2pRbXgtUXhRNzBvZ1MtUUtPYm9kUG9aNHpvS2lxcEZQejlrb2Q0Q2plazVxRHJ2NTAyRVZmdWRwVXVfME42UjNDMHRmbHk1dDhnUGQ1RHR1MG9CYnY5anMxWmtIcmRXMGQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Most-Watched Stock Micron Technology, Inc. (MU) Worth Betting on Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQm1zYW5QWXNvYzhoS2JsVTF5OTV4RGh0ekpUVWVwWDBLNm4zMDhKQW92ck9aMEROVEhzaFBWY29jSTA0cUxESXRSQTNidWk2ZDduZzdFUEw2b1pjX1ZiVHdRekc3dEhnS3k5cDRCR09zeGQ2aUYtR0R0U0Z5eVR5WUZMTmpPcjh2YUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Micron Stock Up On New Memory Chip For AI Data Centers - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmN4VXVyTzJsY181dVdOOFRaci1OUFQxbkRVU2tNUmR2cVdhbUEycXBGYmp0LVdkV3N5N0V4a3VDTTI2UDRaTXlDalQ4bXFNSzBEdE5kUENGdHVZeG1FTFRLNVI0OENQaVo2bWV1ODN2YW1UYTV0enFlbnE3MkRnOW5feWp3Ujhza1Q4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Micron stock rises after report of Nvidia SOCAMM supply deal - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa21EVFl2RW5MbkdJUGpjSGRXZ1M5QkctME82SkNIMlIyekxyQjhRVTJkcUJtRVZGYXJ4NXB3bDl3aUlkTXlWd2xHeEJYV2FKb28tYjMtS3JRaHFqUVhDdVpRbmFnaGRFd2dMVFhsc2NCYnVUMy1TT1ZTQUJJVzRHTHBmTXV2Z1E2RHRvZkw3akc1RXQ1VFN4YnRFaml1cGkxbHZZT19OVl9TZ0dPRExycExLaXlpWmpvOEpzMFp2TQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Micron Technology (NASDAQ:MU) Stock Price Up 2.4% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTA2QVJMUHRxMzZTMFdCQW9NVmNJVi1XWWt6MG0wZ243MzE5Wk9aaGxJcXF6WWZkTHF1Ym9FQjlOVVZ4Q1IyUW80LW8xSGR4TVh4b1hLSmZFY3JpVFlGTko3eUFUSHp2MF92RXYtOEZiR211eG9jU1dCYTdkbDN1dnRoSUZsUW1RT0xYLXQ4Y3VfOXNUbndSR2lGcGYxN2tQTThuVWJxME5ocldSdUlJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "4 stocks to watch on Thursday: BA, MU, ADBE and RH (BA:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXpicENLRnN4NUkxY2pUYjJ5RFVZWkt1eHgtOVZ5SWVwVnMwN1VFc25jc0UyNm1VSm9MVmF6V196ZE5ybTlVSWRtOFVDSDBEVVZKTmZMZmhjaGNVcEwzdWxOWklLQkpSUXlqNFpSRVh4a3lfdFpUTHF1ckdvMThHdHh6NnBXZnlORHNfVktn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Micron (MU) Stock Moves -0.21%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTOFJkQ3B5S3NuREQzYjhWaERJcVBiRmNuQ0hHb0FYRDAxYzJNZGd3TVhQdEZFcGRpSHk2N2l3bnBxc3lBSURhdFRGbGVIbjY0bGUzelptS3NWY0NCdnA0ZzR0YmtzTGlFWExCLUNWQW9Cdk9TN3l4bg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Most-Watched Stock Micron Technology, Inc. (MU) Worth Betting on Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2tBRXJlcGg5VF8zQWl1MWFTZzlaZkh2aG5lUjJTb3hQTGE3TkpoUzNTUHRITmpOUzF1MFlGZkFJUmdCVkdFX1g3ZEZzOGpINTdUUEI2MExOWFFjRzVveGEtemtyMEFXblFEemlvbTdXTVdoNTFqNW41ZnEzV2xJd2kxWmxobnc1dGhpT25IV0xxN3Q2cFRJUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS Group Issues Positive Forecast for Micron Technology (NASDAQ:MU) Stock Price - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXVxNTZKVmlULU9ocmY0ZWV6RFRMYlNQS1NDa1dYblpkU19zVTBjQV8wTGlId2F0ZEtwMnk4VmE4YWVpMVRxYlFiYzdGOGJqS3VYcGJTanNZY3NlTVQ4RG1VQ0twalBvcEVDcGw0aXM1S1RYa0JSVnBnZXczVFduVnpZV2RuRFFNVkpFMzBiX0xSTmxxdHJ1aWxQWVdHR3hsMldTdWMyNWNldWdVTzNoUmtYNVRJMncxdDBlcVlJVGVzbjMycDRNWm01S0U?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Micron vs. Lam Research: Which Semiconductor Stock Is a Better Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHpkaVBuTEN5eE1ZRWxkRG90Q1lFbjRJU3JqVTZ1eWVjSTY4UXdoVHZjdU9MbnpKYmRJZm5PT0xBN3lPejltRWNDNHR4ZDEwVkZBQlRFTkZGbkVabUZwT1N5SEFhSk5UdjhBb0pUanZoMUVtWE1BNW5FT1UzY3ZhZXpOaWN3Rk5uQ1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron Technology Stock: A Deep Dive Into Analyst Perspectives (18 Ratings) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPekRBS0xlTmpYV0sxZVBzOG9LNFBqV3pyTThxRmxucWpTSnRxZzkwakphV05MVE80ejZEWVJoQjUtTThKV1ZOTUVZNmpDYmRiVExrZm5YM2ZvZy14Y3FaSzY4Z194dUI1OG1zXzZ4b1I5WF9xQTYtS2pzTy1NV1lKYmpMTlhMZ29jMkFZVi1nV0VBR2pDcEkyLXFlSHB6SV91cXNPTFM2bTcwU190dzJna2RVemFMN0lxejBFMktSMGswcC1PaVB2cWpNa1pkQlJ4NGo4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Micron (MU) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0cm5LYl9fTzFXdWxlMVF3TWNrQzBaaUdPc0MtY0xvZnA2NFNRVW90MzZTWTlFNVRhMUJucXJxOXlzSHZkUzJkWS1fdm5tVHFERHl1VW1NVTdYUWZUbE9CV1pFNk4xbGtSWW1IX1ZyaGs1Y0ljak9neHV6RG4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron Technology: Smart Investment or Risky Bet in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ21tc2pKUmpIa2RWbVVwRHltM1JNYUZHQ2JGdTVvX0x1dk1jbGZlbndvRl9MaC05WDI2MlVZTUxhN3J1OUV0QVFtSVdfNGdPU3MwcGpFc1VTYlYyT0k2b29oV3E5NTJPOEpJOUdvY0swVWRReER4VVVCZGQyVTloYW5YOG5UYmpfWjdUYWgtUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUG1PVWlSQWZyRXV3em5YZ2RUUVhxUEVJZHl2RTdiV05JbDFDWWRZNVBXTjZmUUNXME94Z1dycjNlSFptV2RGVk5ic3JKOUl4TlNnTE81Ny1ZMDV6aFZBTVBvOGE4bkpEb28zcGZGSUZfYldYWnhqMVpibU4wOWM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How Will Micron Technology Stock React To Its Upcoming Earnings? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXF6bDFtTTQ0UkNnb1VPQXZnQi04S2hyT29tbkRyNGFqbVJaQkdKQlBJdV9EVEpBMTEyRFJIRTJLTzlWZFJ6eW84WWpDWWk0YzBSYUJvNVV4LVVrdGJlaDY0QUY3QkVZLXV4akR0WmJCcHQ5dVJ1TU5pX0ltQlo1OHNpdFQycGlmeGdaRzJ4ekJhMjFVYnZISGZjTjhPM1FORFl0bllyeVJRWnRwRGpNS0tMRnh2QjZEUGk5NXo2RQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron (MU) Stock Gets Buy Rating on AI Demand Surge - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vbVhtZURmbUNnTHBYUzV3ZzdkMnhwUElDVTFfRHJzeS1LdE83N3Ewbzc3Sm1Nd2lJWUhxNEhQeUhUSV9vVDBVT3F5blc0ajUwUHBmLXdHZzc5MzFtUS1JQnh3R09tdzFVY2czQkZTOTBrWGFIdjhzSGJB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Upcoming Earnings To Move Micron Technology Stock? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUksyNS1XdjFPMlBZU2FnT0F3R1JFdWNkMXNyZjNfMkdBUUhVZ1RpMnJxTVEyVFlpRlJTOW9rX1RUajF4a29ESXpCUkkzWHNJWHhic2pXVHA5Y1AxOEpLbnEwUjF5YXRxdHM2bUwwU1ZzWkFncXRmZlVRMTJ2ZEUtR3E0eC1oMWFUbkY5b21mOGIxNmltd0p5OUVfUW9tcVVRTzdmeXk0QS05MFZE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Micron Technology (MU) Stock Surging Today? Should You Buy? - Money Morning",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTjhxYld4a2ZoVjFhS083V1Y4eHFwYXhDYlJoV3hKMWFRcUVvcTF1US1ldVZ5QS1Ua3NGcVk1T0VXQjF6b2t6U3JtVGw1b3ZWOGFTUllxZnNIZF9KLUFocFRzWGNqM294amd3ajJ6UHZRNE8tdTdnbFlQOWd3YUFEMDNkOEFUQ0NHMHhfc1VkcEd5X2lzQzFvbTMzZmJabXEy0gGmAUFVX3lxTE8tWTVCYjFPNk9HVDNFN0hEMnJhOHF6WVAtYXFCSzNSTERGdDRDU3g2Q0JiQmhyMmdKSmc4MjA4ZWVoeGdRcWU2NTNNc1d0VUJMblpBRzhlTGFtQlBtZEl3eTN4eFdTSkxCbnpzS0JvR2RQRjJ1a3VmbnprQ2V0VzdNcnVMQmliY3lxR2ZsOWtWTWRzLUg2dUdrRTFBWW9oVE5fNDFpbmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "$MU stock is up 4% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0RianNydXB4LUhrZVpPZGJSUTRZTmlVUW5sYWVfMjlWam1hVFk3Z0xQdG5aRmpXdkpwZDJTQVlOQlo2X2tSa2JmYUdoTnkycndLNjZfNWdScE1qSGxkbFVBOEREREhrU2ZETjdVcC1TRVpFclZLanFIV00wcUNLVQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Micron Stock Surge: Analyst Upgrades and AI Demand Propel Growth - Fingerlakes1.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUY4Q0MyallRcXNDeURnYy1jMVdHTk1NTWhJTVBXazZTOEFsLTkwTXJFQUdpWXg5b0ZKX1BGNmxBV0xWRWZwUTY3RGdRTGpTc0RNV1lLUklxblNKLW9odDQxOUZKSU1jZ1RpNEU4Z3pKVUdxeEZkQXNrYk1aVDdWbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron Technology (MU) Stock Jumps Over 3.7% in Early Trading, Continues Strong Recent Rally - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVVmOXZpb3dfeVhTV0RJa2MxQk1rVmlMY3RFeHJCQ0RvWFE0S1h2YzNXUGdGNzR5b2hFdkFud0hpanU1c2RfbUFOREtWdlA4S0t2WFdxbS1OQnpaWm9pS212ZDlxTk1hODF3SENvbG45cDNwdEd1ZkhKaHlXWEdoZkg2VWozeW03cmVzTC1wbEx1clo5MWFBWTRmeTAxRS1LUVU5QXVVYk4tQlFzZEpKaXdYQVlGdV9lZzBrSHBReldsLVpPUlFMamM5eURHUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Micron vs. Lam Research: Which Semiconductor Stock Is a Better Buy? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDZ5dG5pQmUxekVqUGp0bmhweS0xenBVRmdfbEx0aGxiZVlFelJLaXdGMjRqZGtSa1lWYmFvTTVyUVBrRGJhLTlUdW92WFFYS0ZBNjc4ZUtVNU9MMzBzZE9zLUduaHF0S00xR1JsU2IzSE50TjZVMEpvaHlHcTVsem00N3BwcnplQmdva01OenJxOEdBOXI5bDEtTGh1VWhNTHBsVDhRZWdZbE9VT0hXSVBlVVdoYzVyeFRnV0JLLW02QktZZkZ0aDhhQmRRakZUaXVIaFpjb1pzaVFydTlzT1pn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mizuho raises Micron stock price target to $130 ahead of earnings - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOU1fTkk4UjRBbGlrOUpHaUZkX0dCNmx1TGNfR0JER25nU2ExU3pLNU94bUVhMFpBdkN3UXE5Q0g2akp4X3htNGM3RUlINlMxZGxnYWlVX1p3eXk5a1BOY095bTdna1VXRGJ4NUlSRXlacFlrOEFoZnEydGZTMHJjNlV3MFBBMVlXcWVDdFVLWnJpWjdreEhOUzFNaXZ2cEdZWHEzTXl0QlJXTkZHSmhpV0NwUHBrUk5ka282d2c0UW1lQQ?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "AI Boom Pushes Micron Stock (MU) Towards $145 Price Target - TipRanks",
@@ -641,21 +611,51 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Micron Technology, Inc. (NASDAQ:MU) Stock Holdings Raised by Intellectus Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTlNLTgwUHRXajVkU2I5QlpMQlQ2cW9UYUJaSjIzWHRHRUJzbDcxQVhWMmZ4MUNwOXBZYjdXeGx3S0M4cEwza1NBVVY3MXYwUnRnY0Z4d2pBOG9BRk1tdngwRTVWTVFZNkpNVFp6eEkwR2dxUlpVSkRmeHp1QzJScjZwLTltOElyNzFiSUVkanUtUHIwSHNwbm5nVWxlcUlhYTQ3Yy1DdEpSV2NpMEVoWFhRZkx5aG9JU0ZYbmY1SV81LWRxSlVscm9TbUdJVVNwdE9sOHY1dFo?oc=5",
+        "title": "Micron (MU) Faces Moderately Bearish Sentiment as Earnings Approach | MU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEhMLXBxY0VLcU5IWHdQZ3lFWnBEdVV5Ukw4N0VDS0VhODNreXVEMlVoWGViT04zYl9oQnRZSng3VWFMc2pZbVZZZlVkZWJYMFJYUmpTVHZ2Y05XUUxVRmhYTEpJWjhpTWdWTXM1SUozZ09CMG8wckZQelpITHVZdVhuUHFZMmZQbm1VbnlLZ2dzYTAtUEhCa0tNSlhkZzJDX3lWNEVyQ3NMRkpmU3ZFS0J2TF9ZRUZnc3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Micron Stock Popped Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BTVQtdU9vRDE5cHh4Z2Y2ZGNDQ1dXZHpDMU9LYVVodDUwaGJyb2VxVUh3clBWMHFpRUJadGtKaTc5ZzhhLXF2QzUzWFRDLS1OekdqTzFwZVB1TEVHc2tScF9xeUVILWhCLTluSFREMGlyczNTYzdZZzlkYUs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Micron Technology's Q3 2025 Earnings: What to Expect - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDdEYm16a29KWFZlUWJGNEloRTlPcVJfVUhlQ1ZKNF9UWklEWDFrMGVkclpuaUNaWFZmSlpmbV9hR1hqd18xSUlIU3hDbE1wRjBROFd1NlNxeGpzVjUzbC1oSDR1UHFySFU4ZmNlYjhxX012SEJZZzRoUlduVjRfU3ZrNTlKZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Micron Technology (NASDAQ:MU) Stock Price Up 1.4% - Time to Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ05SYTI2U0dKOVBEUW5tcW9WbE1EZTZqRnZLMGFOaWdMNHdVNG5hU29mOXFQV09TZVFKOC1yVXZaUzgyTnhCQ3BWRDBtYld2aFBEblo1NlduRVFaU2N5SzA4ZlFvV3ZEbTBoT05ZTHJyd2UxNTRFNU9rN0NkYktianVuQUNMU2l1QURpT3Z4MWlnbTJZSmRmSURIanRiM0hYZXJQRDBydlFZZFNkeDRZ?oc=5",
+        "title": "Day 9 of Gains Streak for Micron Technology Stock with 23% Return (vs. 38% YTD) [6/12/2025] - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYzdSVzU2ZjVSeXltOVJMcFFzVmx5eTBLeWdwZ0dqUExxMFpubzJPNmtDUDJKeHFycklQTW5fRGMwTFNqeklrLU9jeDJGblMyOXFjV3h2S0NzSGNtd1N1WWNBWWtJbGZNOE80RVZsZ3EzSGl4a3J2VTlTZlNjZTdoc2dyZ2tqWkQyVXlxSllQZVlXRG9oR212cWdZYlZKNmZvQ2JrclRhZE1ERHNVaU9TcmtSNk9JZldtR2pqaVNOUExNMHJjbGJqRzUtZG1lRmd3Z2pIYkJUYmJfcWlfbkFMVmNYNEZ5bWRG?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Is Micron Technology Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLVJhT3NPeFV6UFZFNXdwcU9QWHdzdmlSNi1DU3kyZXdCbXJvVUV0RjZzbGlZZTlNVkdsWXA5SHljSzJsSndIbEJDUkJvUVg3WVFsblk1S2l1R09CUW5CUnF6YjlJSDJKVTRkcEMxRUl3OFFuSW1mRE5aWV85WHM4Slh1MnlrZWZ4N2RPeXJQMUhYYncyellqbDhOa1J6MWlHNFd4a0lHN1pVSk14Sk1GOW1yZlZjYzc5aVM5Z3JnaTlGQjYxUHRLbjZtRnVTcE9CaEk5NGpub0Y0UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Micron (MU) Stock Gets Buy Rating on AI Demand Surge - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vbVhtZURmbUNnTHBYUzV3ZzdkMnhwUElDVTFfRHJzeS1LdE83N3Ewbzc3Sm1Nd2lJWUhxNEhQeUhUSV9vVDBVT3F5blc0ajUwUHBmLXdHZzc5MzFtUS1JQnh3R09tdzFVY2czQkZTOTBrWGFIdjhzSGJB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Micron Technology (NASDAQ:MU) Stock Price Expected to Rise, Citigroup Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEY1Y2w0QjJMcFpRVEE2c3JOTDFmbnJxU0ZPUlRCYU5kY1RJcDlkUFdDazQwZ0x1WmQ5Y0J2MGJUQTIzMjlESWgxeDc3cEQxMjFRZGVMXzRpRDlWMUpnc2t4QjZob1RVWkZ3bGJmTE95VTFaYnhieldYOS1aNXZzWUNaV2FROXhtZE01czdDcUFQRWlPY1FfWDRnMk5oM3I5akdkbUVYb1ZMdWl2ZUttbzJvSjJiSmN2Qm05dnhmSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Prediction: This Hot Artificial Intelligence (AI) Semiconductor Stock Will Skyrocket After June 25 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmNpR2ltdzVEakEzSzl1VDBwTFdsSFBrcmIzSGY0ZG5SMmFRbHFZMlFCdGozckRiUE9VWHJuU3NXZTczR3BSZjVnSXN0WG5CMzRxQ3pycHdWV3I3d0dZd3kxX3dYc000VjBPU1o0Z04wMjNZa3FsOEQxWVVmUV9zNEhWVTQ2ZHJVbDhrVUctX2FaMXBRNVB4SA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Micron: Share Price Movement Lags Behind Fundamentals (NASDAQ:MU) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXdZaVhyVDdOM3FRb1pzT2JEQ0RTQUZ5TTQ3OElBLWhlb1VTSDJjN2puYm0zTW1xbW1lX2xfSzRUSzcyLVBIS2FsbDFEMVpBYU15d3hkN3MxX2FFbU91R0hfZjNsZ2Q5LVJ5SzFjcGtQY0Q0ZnVIUFJZTS1KLWhrajVwUTNGRVMyS3BwcnZSYjI1WEotUUVpMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Micron (MU) Announces $200 Billion U.S. Expansion and R&D Plan | MU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEtwQ3RBdGlmaHBTYXRLWUFHb2w3RHM3M0wzbzZJelFSdUYxWjZVOVFrVE84dGhIYzcxYnV6YUhVMGMxYkEySEVIdlR3Qmw1REFUOG54bjBSeWZCOGNpZ19xUTBCc20xYVh2Y0RBRkRaaUQwVDVJMUxpaGp4NHh1Ync4dGhuX2Y4TlBuZlppckI0cGN3dUlVT3hUQkFIZEVIb0t6ZTgwZ2l6eXlfRXc?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

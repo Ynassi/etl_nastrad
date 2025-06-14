@@ -2,16 +2,16 @@
   "ticker": "5019.T",
   "name": "Idemitsu Kosan",
   "sector": "Energy",
-  "market_cap": 1057966522368.0,
+  "market_cap": 1085398384640.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.095556,
-    "PB": 0.6149639,
-    "EV_Revenue": 0.229,
+    "PE": 11.384714,
+    "PB": 0.6309092,
+    "EV_Revenue": 0.231,
     "ROE": 0.05747,
     "ProfitMargin": 0.01132,
     "GrossMargin": 0.07502,
-    "DividendYield": 4.18,
+    "DividendYield": 4.11,
     "DebtEquity": 68.848,
     "CurrentRatio": 1.263,
     "QuickRatio": 0.609,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.03285925796869684,
     "ROA": 0.02071,
     "PEG": null,
-    "EV_EBITDA": 7.88,
+    "EV_EBITDA": 7.982,
     "BuybackYield": null,
-    "PriceToFCF": 3.50338613384376
+    "PriceToFCF": 3.594224930608454
   },
   "technical_indicators": {
-    "RSI_14": 45.713919957722005,
-    "Momentum_10": 0.8051370378135939,
-    "MACD": -10.118570886081898,
-    "BB_Percent": 0.4646082853840325,
+    "RSI_14": 54.02539226200291,
+    "Momentum_10": 0.5445249906941293,
+    "MACD": -4.60483860317845,
+    "BB_Percent": 1.0035317969844304,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9349294588305148,
+    "ValueScore": 0.898176546642206,
     "QualityScore": 0.3588490611537989,
-    "SignalScore": 0.6058764095287679
+    "SignalScore": 0.5619980485230993
   },
-  "volatility": 0.0205568891995426,
+  "volatility": 0.0203470418639024,
   "beta": 0.333,
-  "return_6m": -0.1450766705452127,
+  "return_6m": -0.1338684954048229,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
-    "target_mean_price": 1058.5714
+    "target_mean_price": 1027.1428
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1010.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1011.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1015.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1018.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1046.0
-      },
       {
         "date": "2024-12-13",
         "price": 1040.0
@@ -525,30 +505,50 @@
       {
         "date": "2025-06-06",
         "price": 863.9
+      },
+      {
+        "date": "2025-06-09",
+        "price": 866.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 862.1
+      },
+      {
+        "date": "2025-06-11",
+        "price": 864.2
+      },
+      {
+        "date": "2025-06-12",
+        "price": 876.7
+      },
+      {
+        "date": "2025-06-13",
+        "price": 886.3
       }
     ],
     "current_price_data": {
-      "price": 863.9,
-      "change": 1.7,
-      "percent_change": 0.2
+      "price": 886.3,
+      "change": 9.6,
+      "percent_change": 1.1
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'annonce selon laquelle le Japon envisage d'acheter du pétrole russe provenant du projet Sakhalin-2 pour sécuriser son approvisionnement en GNL, les investisseurs pourraient être attentifs à l'évolution des relations entre le Japon et la Russie, ainsi qu'à l'impact potentiel sur les prix du pétrole et du gaz naturel. Cette initiative souligne l'importance croissante de la sécurité énergétique pour le Japon, mais elle pourrait également susciter des inquiétudes quant aux risques géopolitiques et aux fluctuations des marchés énergétiques mondiaux. Les observateurs du marché pourraient surveiller de près la réaction des acteurs du secteur de l'énergie et les implications à long terme de cette décision sur les entreprises opérant dans le domaine de l'énergie et des matières premières.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
+    "summary": "L'entreprise japonaise Idemitsu prévoit de construire une usine de production de sulfure de lithium pour soutenir les ambitions de véhicules électriques de Toyota. Cette initiative s'inscrit dans la tendance croissante de l'industrie automobile vers la transition énergétique. Cela pourrait renforcer la position concurrentielle de Toyota sur le marché des véhicules électriques et contribuer à son attractivité pour les investisseurs sensibles aux enjeux environnementaux.",
+    "sentiment_score": 1.0,
+    "label": "POSITIVE",
+    "positive_ratio": 1.0,
+    "neutral_ratio": 0.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Japan May Buy Russian Oil from Sakhalin-2 to Secure LNG Supply -PAJ Head - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGpkNnJiQUN5YmhkYkZLTjBWUHhXZW92TW9ZNUFHNG5oRmlQMVNiMGhjVWItZi1PQlJMblFOVU1EUXRlYVVnRS1WZGFuMWl0eUxUeThTbjRFVV85Y2dhaVhiMUUxM3h6Y1BoUkp4d01aWkZOY0RBemhUeFRHY1NLajM3S2JiQXBpZ1JHMVBqUWRZM2N3OEwtWlk2VEZYbkU3Z3BIa3U5d0EwSUhNRlE?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan's Idemitsu to build lithium sulphide plant to help support Toyota's EV plans - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2w0dWFOeF96RFFvVjRCaEZWZDE5cnJNZ0sxOTNiWjdRX2VGMHJBOXZZcHJJU2dNeVV3aGx1MWwwX3QwT1gtdEduMFBTSzVueHJwM1FTbURXS0FlSm9OZkNiUTUyMWlTX2lWUHJCbzVFdWxqQ0VZUHFOLVlWSUpROV9XaWFrR2dGZWR2cTBWSE9KbmpnZVlNbDJkM2ZDbXQ3M2EwQlQzRmVBLU95NkRLUEtMeEtvZUd6cXo3aDlvTXo3c0Ny?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

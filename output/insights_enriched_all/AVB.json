@@ -2,16 +2,16 @@
   "ticker": "AVB",
   "name": "AvalonBay Communities",
   "sector": "Real Estate",
-  "market_cap": 28857993216.0,
+  "market_cap": 29203947520.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.211443,
-    "PB": 2.4187388,
-    "EV_Revenue": 12.473,
+    "PE": 25.513681,
+    "PB": 2.4477353,
+    "EV_Revenue": 12.752,
     "ROE": 0.096920006,
     "ProfitMargin": 0.38314998,
     "GrossMargin": 0.63643,
-    "DividendYield": 3.45,
+    "DividendYield": 3.35,
     "DebtEquity": 71.138,
     "CurrentRatio": 0.491,
     "QuickRatio": 0.036,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.4105831019361983,
     "ROA": 0.029059999,
     "PEG": null,
-    "EV_EBITDA": 20.421,
+    "EV_EBITDA": 20.877,
     "BuybackYield": null,
-    "PriceToFCF": 23.546959146426627
+    "PriceToFCF": 23.920534037238536
   },
   "technical_indicators": {
-    "RSI_14": 45.94507754120347,
-    "Momentum_10": 1.3359342343597602,
-    "MACD": -0.5928155077112649,
-    "BB_Percent": 0.3432149132126546,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 49.01285377586048,
+    "Momentum_10": -0.9176895461910626,
+    "MACD": 0.2845788846776997,
+    "BB_Percent": 0.4971902044021475,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9308597683995442,
+    "ValueScore": 0.858270070637242,
     "QualityScore": 0.4401078192033605,
-    "SignalScore": 0.5980661382425343
+    "SignalScore": 0.5923432233565693
   },
-  "volatility": 0.0159995253794485,
+  "volatility": 0.0161682725800957,
   "beta": 0.872,
-  "return_6m": -0.0908511856068634,
+  "return_6m": -0.0794238486429661,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
-    "target_mean_price": 232.80952
+    "target_mean_price": 232.4762
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 226.99
-      },
-      {
-        "date": "2024-12-10",
-        "price": 225.05
-      },
-      {
-        "date": "2024-12-11",
-        "price": 226.16
-      },
-      {
-        "date": "2024-12-12",
-        "price": 227.93
-      },
-      {
-        "date": "2024-12-13",
-        "price": 226.42
-      },
       {
         "date": "2024-12-16",
         "price": 227.5
@@ -537,62 +517,102 @@
       {
         "date": "2025-06-06",
         "price": 203.15
+      },
+      {
+        "date": "2025-06-09",
+        "price": 206.92
+      },
+      {
+        "date": "2025-06-10",
+        "price": 207.97
+      },
+      {
+        "date": "2025-06-11",
+        "price": 206.54
+      },
+      {
+        "date": "2025-06-12",
+        "price": 208.83
+      },
+      {
+        "date": "2025-06-13",
+        "price": 206.18
       }
     ],
     "current_price_data": {
-      "price": 203.15,
-      "change": 0.2,
-      "percent_change": 0.1
+      "price": 206.18,
+      "change": -2.65,
+      "percent_change": -1.27
     }
   },
   "news_sentiment": {
-    "summary": "AvalonBay Communities, Inc. (AVB), une société immobilière cotée en bourse, a récemment attiré l'attention des investisseurs avec une série d'activités significatives. Malgré une réduction de position par certains investisseurs, d'autres ont augmenté leurs participations, suggérant un sentiment partagé. Les revenus d'AvalonBay ont dépassé les attentes en avril et mai, mais des prévisions contrastées émergent, avec des perspectives positives de Barclays et des attentes réduites de Mizuho. La participation accrue d'institutions financières comme la Banque nationale tchèque et le fonds Siemens Fonds Invest GmbH indique un intérêt croissant pour AVB, mais des avis divergents persistent quant à la performance future de l'action.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
+    "summary": "L'actualité récente autour d'AvalonBay Communities (AVB) met en lumière des signaux mitigés. Malgré des ajustements à la baisse de la cible de prix par Scotiabank et Mizuho, des sociétés telles que SG Americas Securities LLC et Procyon Advisors LLC augmentent leurs participations. Les coûts en hausse représentent un défi pour la croissance de l'entreprise, mais des investisseurs comme Integrated Advisors Network LLC continuent de parier sur elle. Le sentiment de marché semble divisé entre prudence et confiance, avec des mouvements de portefeuille significatifs observés.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Shares Purchased by Procyon Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGIySlJycllNUmdWVFNzczIwZFotLUdiMTQ4dGFON2J1MC1WVEtrNnRILVN2YUY0dHdnczNoeFN0R3Jac21VT3dVY2tCU21qSEVrdlJhTEd0NlA5YmQzNGFSN1lSTTZrQmhLcWVoSnNCRDZuTjZyZTJtMV9mbGU4WW55dFlkU0tVT01oelhiU0huVndFUWpJVDRJWElXZWNrRk1HaEZla3NWOU55THY3S0s0Y05aVWRlWkNsYUEyaTVHZlNlZUJzRzI1Z21kR3It?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AvalonBay Announces $1.75 Per Share Dividend Payout: Key Dates and Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTNTM3RYcmJXNnRTbDVTRV9ldnI5cXpwMHN1Z3c1QVVlT2RjZktVVXVCYUYxd1lkYmdSWnlVUkhzZGZzTkRoMGRYQ2ZYV3pqZ1FHUXdkQVlLX2Q1YTlZcm92NjgyM0FDcUxmLVVxcE1zNFpyWlBmR2QtcEt2TnlidURYcFFPRWc2OUtzQ3hwTXlhZmJfaThIQUNXYVpvUHdlWERyeHRBZ0g4dnNZdkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Avalonbay Communities, Inc. (AVB) the Best REIT Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclVfYWluQzVaVzdmWVg4SFR1ZG4xTi10RXNyMWtLTGdSOTZnQ1N0NG5TVXo3X0NUd2g3TEdrMkk3T1p4X29ITkRhRVlhOTVhaDZ6ZXhIMkRWNDV3T2p2VEpwNFB2aFd2UFEwOHZyY1RFeDZXem5WNHdOTmRQNktFckpNSHhfTHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AvalonBay Communities, Inc. Announces Participation in Nareit's REITweek Conference, Provides Second Quarter 2025 Operating Update, and Publishes Updated Investor Presentation | AVB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZndDQm1tM1BRTXF3T0g0SGRmUG1xaF96ZC1RakRTak4xMDYxRmYyWnN4VXZ2Tm1TSld3OC0tNW9oMkF3b3BnV3Zkb1A5eUFpZzJJZVZZUDZDWXJYenVpLTBIVWNSdDNLd0lrZjlDUGhmMjg1YmJDNVZoNTJBcXM5V2kzeVcxQTQ3U2YwbmRQdkhtWHZBalRST0ZrakxBUTlPLVFPeldQV2VMekhEVmVnOFFhRGM1Yzk3X25ibUd2cnlxdk1VSE5WWDRDRjE4VDRKdGlGYmVTdEhZcTExZWJZNGQtZWctMXNKUkwxZC00dUxGdDYzUHZneEppSjluZlV5NUh5TnhzamVteldPbzFneHNYdjcxeTJSZFFwQmRvdi1sSHplVHFxR2J6RU1UYnc5TlhuczluNHBlWV9RWXdBSEFJWnRZNTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Stock Position Decreased by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdlBYaUU3R0R4WFBTZm9GRGIwLUUzUFRpaUFrQWR3X0JrZGFGOTJJazJDNWNtSGFQSXBVdDJyZW1mSkFGczdSTlJ5RTdxM2J4c3JyMzhxdkx2VnktRnpJMldrU3lJR1o4a2hzZGRtTGxwdDJpMnhfYjNCMnBnY0w0MWY5UHBhV0tRNndlOXdXdGgxYTU0ZVI3R3pmM2FfaVRIdUdFRzVxSThLbllyZHF1VkRWM1liQm80NEpabDlGT2tHQmFHTG51RFoyalY4SEdFZEZsWHRmQQ?oc=5",
+        "title": "Scotiabank Issues Pessimistic Forecast for AvalonBay Communities (NYSE:AVB) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2VNN0xQYURaQWVBck9raEQ3M25pWExNYTI0S2tLZGRwVWhta3BhejdBNTFNUzhnOTlJTUExeXJEbl9kMEY5RzljZlczNkdINXhHTHIyX0pmcE54MmFUcC15anZ0X1R6UEp4dG1mODUzdHpmWkp5c3BLVG9CazBIYTJ1SWt2NlhSS2tUdndmNm8tUUZqUUFLMDY5bUtFY1ptX0l6c1M1LUpUOUhzSXlrWVdNelBwWUtYMUdNSGxlZk1ZRG9FV2U0cTRZemRoU2FudEJBcw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "(AVB) Trading Report - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFBaYllTN0stTmo5ZTRoSmE2RU1KUHNuNXdLa3RqVzF2ZU5EQXBPeVRiamRaQk9Pc0hHR0k5alJGUEpfNXVyOXZmNkVpQllXNl9mX3dtNjJyR2ZWYlBBMmxMOXM0SFl1aXRGRGRrMmZvQko0RDdOMEhMYUJWdExtNmlHZ0oyWmotUkhtZjhnei0yTDdObERtbA?oc=5",
+        "title": "Scotiabank Adjusts Price Target for AvalonBay Communities (AVB) - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUZWcC02VXZHaVpvXzgyS2dteUt4MXpPYzZfZ2lvS0lEcG1fQmt1X2FoOWpnWmZvR3l1M0lRaGFCeDJ3cWFmbTgwOHhEY3dBdVNoeXNIbGFEbHJfMktVN3ZzendPNWlIZW1oNGVfSW1KNUxIX1pUNEFKNnlpaExFcUlmR1ZZdUJVYVpkOVFFbFl5WUdSYWVwWE9SemVyaFF2cjl2M1kzVENQalZiMk1aUzBGY2JfQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AvalonBay's Revenue Rise in April and May Surpasses Projection - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXhOY2JxcXNZUGNpZjNJb3ZTa1g3Q2FhMUlsZGdQT0Y0ekxYZDhBVGNQaWMtUjhrdTRub29jMTVhQldRM3FJeTcwUHBGcDlyM2plV0ZGS29JT3Bham8wWTNBVm0wUFFkQjlGc3ROUDN1U2hHT3BOZ1hUSUc3QTJyV2xSU1VnZw?oc=5",
+        "title": "AvalonBay Communities, Inc. (AVB) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjdxRk5vdlo5R0huNnBBMEZPY0FQM2FwSmljeGNtSTNyNjRQS2dqNUtKZE82U1Jrb0J0Q1hNQzJvTkZLRDQ0aHljNGZGNUtOaDRubDkzdkpYaW94cFpLRHVUeVNrR2xvemQ5Mll4dTk3TjRaOHU0em1YVVFNUkdwYVZLNkRjb09RYjFfbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About AvalonBay Stock We Don't? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczlJSE4xZDFzQ3poSkVBQmRNT3ZCZWJDZFk2RDMwUG54cUN2TmwtWmlLQ1N3d25GYXZYclk0RjFQMk5fdUlKY1FLQW9keWxiMTBRQUdiYXlWOWJJT2NFbW56OU1id0RVTTVXRlFkcjdYTXF2cl9ySlFnTWJZczNnUkJKOThoVUhmRzBYanUzZktFck1IZ0hsT0JUaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AvalonBay (AVB) Price Target Reduced by Scotiabank Analyst | AVB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjd1NlVWbGtUeFpfU2x4UnJFRks2ZEVKSm9EVFVfZURiOXhiS1Q0UEFtajh5N3ZvRnVqWF9OajY0QUN5TV9kVjY1MXdEeHF4QkdKejBPXzRRWFZRRWQ0Rmc1dGhJQTJ0SWZJODVQeWNIMzVoVm9qRkdSYzNHMllCeDlIS1ZGSndBeUJhaVp4bVRfdlZ6ZjNicy1XNkhNbEZzNkE5dzFqQzNBUGtUczhZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "High-Quality Apartments Continue to Produce Low but Steady Growth for Avalonbay - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0ZEZm13RkR2OVlndDBvVS1SX1JRTm1oMlh3QkdYRzNuck51bkxpc1pldTZNVWhzeUhnNkxEbVlHSXgzLV9GcmQ3VXhzNjVrU2IySGJHZkNOT3pYWVJfVnRnRVdITFlmV2dSUjRoVTlTOVhDbk1ZOUlBckdNeU0xVHVSS2FkR3FzVEVUTVVCZVJxc2UzVUFPNjR0bjhSMmpGZWVOZ29GdG85UkpjTmU2SWNGdHJtbmc1WTVHZVBxb0doX2xYbmJMaXZVNA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Shares Sold by Contravisory Investment Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjNZRDFmQXRtczk3ZVMwS2lvRGZaa0w4Y25oeEE1Q25iejZhUXdlSkFuaUFSN2ttcERQQ3BsSG4xc01EOEdvbm96Ym1CLVZFd2phRjA2SEI1amFxWU9xWWJSSlB2RXZoVmxSeGhtT1diaXlYRjZzLVMySW0yaWs1Y0haRXhvWV82Z1Z0d2E5MEw5TWNiUVRGZDNUOVhmcXhrd0FIZ3IxVmJ4aG9DVXJRNi1DZmhCWWhxVEtYcExUT3ZkeDBnZkNWTG5mamZYVERXSmxqcEQ0dklSWUR1SXhvQ0V1Q2w?oc=5",
+        "title": "SG Americas Securities LLC Raises Holdings in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFRjSjlSZVNUdkxMNWd1QkJnYjdzeG1TS1liYW80dllIMV8wbnY3NGJjNmxXQzlZTU5vUm9lN2JIcjVUWTRfZWhyZ0pUQ3BjVTNZNXhWSlFvaFhGbTUxUGJnaElRTE4yYkZHRkZ3RkxmMEVCX0FpdG5OZEwyOHNUVjFmQ1I3NDV4UTVkdFlsc3V0djgyUEpXdEQyVS1wb0JCdEhqQmpUVkR1eUk2c2p6TElMYnZwQzcwSm9TQ29sUkVMY04wT0puanM2OWJSQ2xPSFBndzZBbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Scotiabank Adjusts Price Target on AvalonBay Communities to $236 From $251 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlZKQVUtRGYweXVUWjhQYUtaem1BVk9qdzB4dTViREI4Rld2RTEyaVpVVjBqV3dqZF9QVUlqandLdXR5bUl2UjJWZVdncmR0RmxJVmk5QzVyeUNaT19JXzB2aFBNVlU2dThXUEozbm0yU2dDcmZlbU1zaE9jLXNoUV9sRnNMYXYzb3A0d3M3ZlgxQWp0RlV2UmJyODVoVlNoSlhNOEkzTy04cVpSazlNbWdPQ1E1Sjhzd3h3QmhycGd6YTd3ZkIxekdIcmd0MlBwelVGa0sxM2FQNXE0UkFMMzMwR28wT3BBeDhCLUFVNUVqT1g2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With Costs Rising, AvalonBay Communities Faces Growth Challenges - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVC10RGNJT0FWc29STllmMUZNaWliSDFUdi1ta2J1cHZNMGdqdTdqNV9BbFFaSG8xa3hmVzNtVzdMR2ZXTGxPMUs4ZUFKWFJETzdkNEtoVlJUeXJ3Nk5zZm1vT1hZcHBRUEJRV1hNbnh4dVFEVzdUdkZjNUZYY0Y2VFpLdU9wM3JVbGJGR2dUY0NvcGl1SEwwbUZRX1U5UTROMnBtaVBrZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $10K In AvalonBay Communities Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEVtQnNQNkpMSHZtMWZyekRaRzluS01SRVRWTjFUaHdKS0dsZ1RoYWxsWTJOS24ySkNya3dHa2xvR2tlSktZVkJsTXM4THFwOTJMS3pfckZxSEVmaHRkQXZsTnVjMWdlUkFiTENJcG45LWFObWJVTGZwSXh2eHBmc1dnZnpFNXJHbUV6T1VZVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Stock Position Lessened by Sterling Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHJkajN0WHlDT3NzMS1fc0VoRzIwY19MY2pVelhCRFV1UnNLaGI2cy1kbzRIUmtaYjNHOERsSTB0TjJpZjNhQkxMYk56ZkR6Uk5nTFF4TTVaTUJJVG1MNnliVzRZdXg5QnBLVzMxdGtfQmplY1JoRlFDdkNoTjdKUllXc1ZYeWJxbDE0QmpYSGZjeF8zbDNlSi1fei1RVlAxWU9UNkRVQVV4Vkl6NGs0cTIzMW9wdkpqNVQ2Uk43dVFIS3lpWW9VNm01QnhVUXpRdTVSLWNYbEdDaE4zUkh0RHExSVg1QXNYVnB4aQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Shares Purchased by Procyon Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGIySlJycllNUmdWVFNzczIwZFotLUdiMTQ4dGFON2J1MC1WVEtrNnRILVN2YUY0dHdnczNoeFN0R3Jac21VT3dVY2tCU21qSEVrdlJhTEd0NlA5YmQzNGFSN1lSTTZrQmhLcWVoSnNCRDZuTjZyZTJtMV9mbGU4WW55dFlkU0tVT01oelhiU0huVndFUWpJVDRJWElXZWNrRk1HaEZla3NWOU55THY3S0s0Y05aVWRlWkNsYUEyaTVHZlNlZUJzRzI1Z21kR3It?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,39 +621,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Shares Bought by Unigestion Holding SA - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUowbnVrY01Mc1BwbEFMSGtWZ1gwV3RkRzJyd09Zd1ZTNHc0cEdaN1dNRWt4WVdUQU9LdmE0b1h5a2g2dGQxZldSYk5jMjZjREhxd0JreEQ4ZWFVOWNEWlNpWDg4blBrbEt5TElfS1B2UktNTl9SeFgtOG1ZMDdWRHBBaldFa25ieUx3TWhSRGM2clo0bEE2OUVXRTJHYzFUeGc3aG1LaHVBY0tzMktMTTBvUHBXMjdXRHZyTzJlY0dHNGhCTTRPRlVoVHd6UQ?oc=5",
+        "title": "Integrated Advisors Network LLC Invests $2.28 Million in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT0QwRkF5dm1PQkFPTk84dkRvT1N6TV94R0tTODMwaTNzMlZtX2gxVC1WY09nSUl2Ql9wZzhPUnRTRnRydDEyR0FOZGk5VDA2WUZnSDN1TFVFWXB6ajNrWW81aVpXTFJTQS11SVN3bmRQcVJHUkRvLXBKU2szaU82XzczLWM0TURsQUlMdjZNTlpDWEVDaVBvSXFLbWk5bzVfUVJCZEdUVHFWcDR1dzRFa05Ua0lyMFN2WDgzOXAtTEtUVXFyLUVTMHp0OXFOcDdCelVHQ0VkcTNNNjdrMzQyYWlrX0JGQmlzdWlEdg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Increases Stock Holdings in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd1hjQ0VlWkROakpiSGhoWmxLc2FMNmJqaFRxVFBkYlAtQ3V0cEtuZTdjU09kMndXaUZUNWJSZnR6c3BLbE1RdzMyQ0FoQm9tTTVvYUVIV1pUQUJZeHM2TXU1VFNiWGhpR3VfbHBfSkw5QWRxenhiRmhMQldIeF9oLXNWMWRHZW1fQWFSQnhUU3FjZDNvMk1RZWFUOHU2bzVCanFvMG54Uk1YVVZiaDNHQ19yZ3d1aGdxUXhTaURxN0Q3V2NUdHprTTFQQ1pneHVFbDJnSWZZVUljUQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Handelsbanken Fonder AB Sells 1,542 Shares of AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUTJJSHphTlVHTDBKdWJUeUoycnNpTlFBSUk1dTc4MUhOaTI2Qi1TUUJxVUJaNzNJRjdIMWtJamFLMGR4aHphV29LQkdsMndrMkIzRGtPeFpueHdWekkxdXNnaV9JRG8xckFZTU1fZDlwLVdaU1lQQW1BXzVVSGNaQmZnOHJJUFZ4SlpWOE16NDJobGduOUxpc3FGTE9xRFZ0bi1sdG1QallzbEJPbjRnUWNiTnRmc0w4MWhRRVhlRlRzMmNJcWlCTjdERHFYanU0UjI5YU5B?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "AvalonBay Communities (NYSE:AVB) Cut to Sell at Wall Street Zen - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkdTRXZKOFRGTDdwVDl5amVldVhUaFZpTzNkb3ZyN25LWTJWMEYtTVdTUGhTMjVEUEdZQ0hIYzROZmxMRGhQV3NtVDJiNzhYazBmZHgwcTA0Y1FqN3U5V3dZVl9TbEluM3UxaGFUUDhuNkZYUGxPODRKeXlzc3piSFhsYkpaUWZkNzNkOUM4Q3FGZkw3bmdUcEF0cTJ6ZURrOE5wNFJBbEJ1em05Q3J1QjVtQTFBZ3puYmVoeUpCaHJ4MVJwRE44?oc=5",
+        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Stock Position Decreased by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdlBYaUU3R0R4WFBTZm9GRGIwLUUzUFRpaUFrQWR3X0JrZGFGOTJJazJDNWNtSGFQSXBVdDJyZW1mSkFGczdSTlJ5RTdxM2J4c3JyMzhxdkx2VnktRnpJMldrU3lJR1o4a2hzZGRtTGxwdDJpMnhfYjNCMnBnY0w0MWY5UHBhV0tRNndlOXdXdGgxYTU0ZVI3R3pmM2FfaVRIdUdFRzVxSThLbllyZHF1VkRWM1liQm80NEpabDlGT2tHQmFHTG51RFoyalY4SEdFZEZsWHRmQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "AvalonBay Communities, Inc. (NYSE:AVB) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjRmb0hxc09WLVJMN1dsTTJITVRjbExyYUNwOWtBdl84YmFQcEJ1WGlvZDJTMm9BTkFTbXRFdS1aSlU0ZDZyVThVYVY5OUJQejVPQ3l4cDRLWEpBZDcwdUVvRkg2cUFLZ2tjelUyUF9pRjgyRllTdG1OQnBGX2c0b3diSkRBbm90Y19yQVhjZTBqZkJLdEZDbGpFRkR2cy1BUF81SlNrVndGdDlYMjNqLWxqYnFkOTUwXzFBTVRpNkx4Z1BpbkpBVGpvMzZHcmM?oc=5",
+        "title": "Vert Asset Management LLC Has $14.31 Million Stock Holdings in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWkhKRC1QQ25Bb1FvNk8xUmhFYUwzc2ZNZk5FZXp0VUJ6bWZjQ2t3SWxiVFdjOXFKaDB2RTRRTmdrYUVJNFVYaFhWMVBrTkJyNHNBdHhnVzVVekkyX1dZcTlOMXhrS1dyUWtfVHVSZjVtUFV1aWZ3OWZGTHJxb3JDZFoyYmVWTjNNNEpHVmMyT0c4bnRlZ2tsdWlaVW5ZUmlYYWNzeGNUVjV4bENlY3Zwa04zaWJTX0RvMjlVWXBHekZBZHBDTk1NNkg1eHlWbEFxUmJsT05RQQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Grows Stock Position in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWR3ZWhDY3VPQjF6cWdWTmlobE9sUkVCbGNFNTlBY0FXb1FvczRackRfaEJhZ3kyNy1peTlHTlAzSnBrVEZrbWg3ejBheWlPYXA1cUxRR0c3U0h6SzdlSXpOZ292TlB3VmtCemhxMVBUU3ZhQjJJOTI4VnVPRGQ4ZjlDZ3RNNFdFSTE1SzF2X2hvaE9yZXNrbUl1dHIyTzFjb25WTnd1UWFrOHdJZEZRMVVlbjdEMFJsbmtnQ3I1VElTZ2pzeWc0RnkyRUd0UUN3dTk4?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Siemens Fonds Invest GmbH Acquires 3,813 Shares of AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdlAwenV1dDlhb2dhc0pUcjF6OVF4Y1pyTl96aXEwRk1zdUFlQVUzV2RwS2tPdUs3bG1rdnpYQ1VIYVJrSW56Z2FTZjJXbk0taUhGcUM5cTI2cGpNOEZoa01jenozdGhUZDhFeFNQUk96U2FISW85dUZCdjkzbkxsRlZ3UGJVRDdMaUtNSG8tbG42LWxmRnRoellTeC1ZMU01NkoyNmdfakk4U0hkbjdYcjBmbGphblF5dXpJd2J0N09ZdTdjM3l3Sk1Ddk5iMG0tcGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Barclays Issues Positive Forecast for AvalonBay Communities (NYSE:AVB) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkhJLXdiNEVlNTJzT3pyWGpFSVcwbGJ6SjVUZUNVVjlXUzM2NkZhTnM1UG5NYWZSd3BraXUydjc2SU1ma0p0NUJ0ZEpkWWhqNU52NGQ4dG5jRnBOajlrXzJlMk9RUGVxZHpmOGljY1BlLUhreVhKemxmaVBHUDRJb0I0SVlpN3VaaDRnczFHdUE5MFRnLW9MMlpWdG1INDNQeXpXbzg5UjZEVmE5cDNSbU5aY3JWcUQ5d0ViWTVKTGh3dTc4OFpfZWg4Mi1CQQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Mizuho Has Lowered Expectations for AvalonBay Communities (NYSE:AVB) Stock Price - MarketBeat",
@@ -641,21 +646,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Sarasin & Partners LLP Buys 1,917 Shares of AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3duTEVaa1Z2eTJtYk42NmJfbTNOaGlHVkdGSnRWaG5qTFVJY0dPa3FFSmJsaEdETnNTaGRCMUxSY1RHUEZVaWl2MVNJMlVJdnQ1TFdfcVZuVHNodUozX3VEZHFadElQQXN6dUo0MDVxVnh6WmQxVEtFNzlhR3o0RzZvaXNfRDJ5ZzU0M3BMV2g0LTZpdmpYZmswcjlQMUotaXQxU1Axb3QyNjFOLW5kWEN0a0IwVjRkMGJRc0ZSd1l4X1hUZkNNVXV1TFQ1WkZZ?oc=5",
+        "title": "State of Wyoming Purchases 1,722 Shares of AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX05SNFM2X2F2YzNYVTdFUHptQ1lKQ0g1Z2FVZXp2V3Vzbms1WFEwV2FFVDlQaERnSThSMTNOSUdsMWwtaXJGNWR0SGVxZVQ0azZDQVdMdk9yMF9lbGZTOUh5T0kzNkRKZzBRRVNacG5xNVQ5Z1JUZkJtb0t3LWh1WHVoQ1ppcW5iZWhaalA2SXRZelktQVowZldYbDRDazBmSWFTcU5MSjdsMjBYalJKc1lqaHN4S01Lb1E4M1lTUk5fREk0N2ZNYl9vQnBmUUVtYjlzbFRB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Acquires 5,349 Shares of AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzBMaDMxc0NHTElCMDVla2ZmaDRsZGVBQVBjTDVZazJCSzdlX3B0RkVYR2NWcmRNVU9aOHZCcmdZWW90ZnlOOTNHdHhpRjhhTVBfSXZTVHQ2VklSTkQxSkpTS29vdl9mOVplckQyQWZBZmxtX096Qy1XQUJKb19ORXRRbVRxZGctSG94c3gwdl9JdVhxSDh6OThDM05UT3NoVGFVb2V3cnZmdVQ2RGIyRE1SeENxNERqS1NnQ1QxTlJIdUNQZzhTcURWU0dPbHgyd2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Raises Stock Holdings in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYVZfQTZQQVBKaUdtbXNON1hTVHhkSWMwOVllc0VwNms4RHhjVXFZdDBHaDlKd3R6ZG1hbVR6NVR3Nk5QX0o5XzlnYnE3TVFoQTRSQjlKTWVNRlRLektYbVQ2c0xETGJHZVFZdlVkc29GdE5RbXJzWHB6T0hvWldlc2hVc24tUG5aMVhzODV1eHdURnBoYTBNeTRsUWdDOHViWWx2WHFzYkZYbmUwaXJWLWxrMms3TGRnU29pMVlhX2JodUlNaVk1UXozRW5HQk5LcnFqN2tmT3FheXhJbzNiZDVYOTViU3RPWWl1WHMyMjl6QUpzSFE?oc=5",
+        "title": "Unigestion Holding SA Grows Stake in AvalonBay Communities, Inc. (NYSE:AVB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUowbnVrY01Mc1BwbEFMSGtWZ1gwV3RkRzJyd09Zd1ZTNHc0cEdaN1dNRWt4WVdUQU9LdmE0b1h5a2g2dGQxZldSYk5jMjZjREhxd0JreEQ4ZWFVOWNEWlNpWDg4blBrbEt5TElfS1B2UktNTl9SeFgtOG1ZMDdWRHBBaldFa25ieUx3TWhSRGM2clo0bEE2OUVXRTJHYzFUeGc3aG1LaHVBY0tzMktMTTBvUHBXMjdXRHZyTzJlY0dHNGhCTTRPRlVoVHd6UQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

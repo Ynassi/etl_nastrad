@@ -2,12 +2,12 @@
   "ticker": "FI",
   "name": "Fiserv",
   "sector": "Financials",
-  "market_cap": 92291088384.0,
+  "market_cap": 90483621888.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.409897,
-    "PB": 3.5756326,
-    "EV_Revenue": 5.775,
+    "PE": 28.884954,
+    "PB": 3.5056062,
+    "EV_Revenue": 5.846,
     "ROE": 0.116780005,
     "ProfitMargin": 0.15684,
     "GrossMargin": 0.60967,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.19674081083308181,
     "ROA": 0.04385,
     "PEG": null,
-    "EV_EBITDA": 13.05,
+    "EV_EBITDA": 13.21,
     "BuybackYield": null,
-    "PriceToFCF": 22.716393961401312
+    "PriceToFCF": 22.190289834258763
   },
   "technical_indicators": {
-    "RSI_14": 42.68627651070684,
-    "Momentum_10": 3.384161917564707,
-    "MACD": -6.903723975373424,
-    "BB_Percent": 0.4721321645992676,
+    "RSI_14": 38.74357559080608,
+    "Momentum_10": 0.2395720902592231,
+    "MACD": -4.369339781156299,
+    "BB_Percent": 0.4217022987515509,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9303340451306032,
+    "ValueScore": 0.8776198557711011,
     "QualityScore": 0.3991680697470329,
-    "SignalScore": 0.5979470978443968
+    "SignalScore": 0.6355795274662783
   },
-  "volatility": 0.0292132532161076,
+  "volatility": 0.0292575661338903,
   "beta": 0.911,
-  "return_6m": -0.1969316494877691,
+  "return_6m": -0.2025799177758105,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 36,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 202.89
-      },
-      {
-        "date": "2024-12-10",
-        "price": 201.54
-      },
-      {
-        "date": "2024-12-11",
-        "price": 203.96
-      },
-      {
-        "date": "2024-12-12",
-        "price": 204.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 204.66
-      },
       {
         "date": "2024-12-16",
         "price": 203.38
@@ -537,47 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 166.71
+      },
+      {
+        "date": "2025-06-09",
+        "price": 166.94
+      },
+      {
+        "date": "2025-06-10",
+        "price": 168.81
+      },
+      {
+        "date": "2025-06-11",
+        "price": 168.07
+      },
+      {
+        "date": "2025-06-12",
+        "price": 168.02
+      },
+      {
+        "date": "2025-06-13",
+        "price": 163.02
       }
     ],
     "current_price_data": {
-      "price": 166.71,
-      "change": 1.39,
-      "percent_change": 0.84
+      "price": 163.02,
+      "change": -5.0,
+      "percent_change": -2.98
     }
   },
   "news_sentiment": {
-    "summary": "Fiserv (FI), entreprise technologique majeure, a récemment finalisé l'acquisition totale de la participation d'AIB Merchant Services, renforçant ainsi sa position sur le marché européen des paiements. Cependant, des inquiétudes ont émergé quant à la croissance lente de sa plateforme, entraînant une baisse du cours de l'action. Malgré cela, plusieurs analystes maintiennent une recommandation d'achat pour FI, avec un prix cible de 181 $. La récente collaboration de Clover avec Washington Freedom dans le domaine du cricket témoigne de son expansion stratégique, mais les commentaires du directeur financier ont suscité des interrogations sur la croissance future de Clover, impactant négativement le sentiment des investisseurs.",
-    "sentiment_score": -0.25,
-    "label": "NEUTRAL",
+    "summary": "L'actualité récente autour de Fiserv (FI) est marquée par une série de fluctuations importantes de son cours en bourse, notamment suite aux déclarations du CFO sur la croissance ralentie de la plateforme Clover. Cela a entraîné une baisse significative du titre, malgré un récent bond de 41% sur un an. Les partenariats avec U.S. Bank pour des solutions de cartes de crédit et les annonces de nouvelles technologies comme le système de point de vente Clover ont suscité un certain intérêt, mais les prévisions de croissance plate ont été perçues négativement par les investisseurs. Il est crucial de suivre de près les prochaines mises à jour stratégiques de la direction pour évaluer l'évolution à venir de l'entreprise.",
+    "sentiment_score": -0.45,
+    "label": "NEGATIVE",
     "positive_ratio": 0.05,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Fiserv (FI) to Fully Acquire AIB Merchant Services Stake | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHFJeGVsdEYwdG5NVkNXLXAtV1hmWDVGWDVXZlY3SFQwUEdQWW1LSDJzREVkNlIwczNlTXpaWXJfZVMteDgxaEpfMEZPOVZ4dXl4MWxuOUJ6TXZiUFQ3YktOc1V1YnZVZktiLURORTBUX2lQTXl4RThPNmdsTmpfanlWUDhxS0diYmd3M2N2OVU2b1NpeV9mQjF5WllDcFlxcjRLcmpYelZWc0k?oc=5",
+        "title": "US Bank and Fiserv Join Forces: Revolutionary Digital-First Credit Card Platform Coming to 100+ Banks - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFZFUzNmeWhidDhtdHZoc3UwLXI2RkRBTno2RlYxWDVmQnRaMXhNMWp2eVBlZVpZT0MxUklVQmthNXluLV81d1hoaEt1LWRoSll5TkV0bEQxbGZTUEhqWWVpT3ZRcE51SHhsR2FMQjNXWl90QmI2dUVISUloNmlEcDVuT1BXZGZkcGYzb3BZVW1sQkNNa0ZVQm5hdlc1OWhMc3JPeVpfTUtnb1UxbER1R2szT1JmRDg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why You Should Retain Fiserv Stock in Your Portfolio Now - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUItb29waEt0ajhodms3OHVzVXRPVDg5eHh1dmJlbHlxRl9RQ3ZXcEpKTTc3eUVWNzkzbXJVeGxaVjhKb2ppbU5rS290QTZnQzF3dGlfRlZOc1hxWDFnMU5fZUc3T3hBR1k3Uk4zdUxYZjM4ejMwdWhweTZWdWR2T28wVVY4TXY2M0J6SjkxYXB0SXhkS192SEdWTVBWTkZ3Q1h6d2F6eEdKdl8tRFgtZXVnRnFyMEU2SzlZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fiserv Takes Complete Ownership of Major European Payment Processor AIB Merchant Services - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT21RaFdNNUxqbzRVT2RTMkJZb0F0d2NpZ1ZpSWZ6Q3YxUTdnUW1lLVBuNVlOX0xWU29oWE84VlZnR0ptSTFUWVl1eTRoQ1M5d3pXN2lOUmxxa2NSSWNhR2YwaV9yNFlkbWNUZ0s1ZmlRMmYzM1F1X1hvc2p3bm9ILXNJVGNodWxxdzdR?oc=5",
+        "title": "FI Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVRGY5M01FLWh1Q2luYVlvWFV2Rmplejg3TVpCVUVPemUzSFQwekJ6ZF9Yd1dWMmJITmhJaHJkYmNWWjU2U0xvODBmUDRfb0FKYkZtSlhYSzl1ZzQtaXVXYXdhOUhGTVNIMUNTajJBOFhVLTA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fiserv Stock: Is FI Underperforming the Technology Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU5QZ1Q0QnpYRzVabzdDN1NSQlJmbDFIa19yWGdfRlM2a0lhd2J4Vk9hUUNObUdpREtIUW5pT09yeGhqdlJaZjBjNmhlVFd6b190dGdHb0pRX2pHN2JoVDJjRVlqQVd0R0ExVm55TVdSYzgwZG14bGJqeEJjbHNKODJqRmlCQjVPRmZ0S0NoLXozdzFKU2Fqa1BuTGVkWlV4bVEtOWgwc2FmVTFNV0dRd2VtRTdhVmNCTmI0cG9IckNIbnVWZ3g3UGJ1N3pueXM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Fiserv to acquire remaining stake in AIB Merchant Services (FI:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGp6MVNDSGhwV0l5TzlDaW9HdmpnT0JobGVGbXdaelQzTmswbmp0elFEdlk2ZkNtaFVWaVZZbHBLZWd6bl9fMTB6Tm81a2pQWnhYRUMwR3BUZXYzb3pKaFRGVVdsQ3I4SkpJVmhadkRfaUphTUE2RzIzMldyRzVzeUFZZXAzc2RCTmNnVHJSNnhHUXBqZHpKNFRXdlk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fiserv Stock: Is FI Underperforming The Technology Sector? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWJVMnhjRXhFemZycncwWGZOak11N0p0MEtJWXF1UXVwMTRUWGpfRm5lR2pYSmZmSHl4RlJTRTlrWGFMWGFDbzBnTmJaOUFUamNmNVIzbUNET2EzNEEtZnY1UmpfS1o5LVJkWTlFVFAzU2l3WllURWRQUElkalVrUm1xakdBRnZ3U254aFBwMnFYTmdfM0NuU0wwNjBMS25jOGhv?oc=5",
+        "title": "Fiserv (FI) Partners with U.S. Bank for Enhanced Credit Card Solutions | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm81U3lWbkxzTEtxRzlqcXJfQmpDdEs2Q2lMRUZWS0tNQklkMV8wb1pVQmtudFloMTA3T3NBbWZvNk5tUTM0VnFrQVZGUW5oMlhuWHp6QjdHOVotV19abUxuYWNzM0lGc2pzM1JOTTR0UGFwSHZDS2RFVWV6eWZxTk90M2RBbHAwaXBTNUNBRnFIWnp3cy1xMUY5ZFBQRzl0dFNHTVlOSW15MTJ1TFlJWHBFNVdTX3dWdEtR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,29 +581,19 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Fiserv Stock: Is FI Underperforming the Technology Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU5QZ1Q0QnpYRzVabzdDN1NSQlJmbDFIa19yWGdfRlM2a0lhd2J4Vk9hUUNObUdpREtIUW5pT09yeGhqdlJaZjBjNmhlVFd6b190dGdHb0pRX2pHN2JoVDJjRVlqQVd0R0ExVm55TVdSYzgwZG14bGJqeEJjbHNKODJqRmlCQjVPRmZ0S0NoLXozdzFKU2Fqa1BuTGVkWlV4bVEtOWgwc2FmVTFNV0dRd2VtRTdhVmNCTmI0cG9IckNIbnVWZ3g3UGJ1N3pueXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Selloff ‘Seems Overblown,’ Says Analyst After Fiserv Stock (FI) Fiasco - TipRanks",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1Rlc0swa2RpR3NVd096NTF5OGh0NGYzX09IUmUxWkVtRjVVWDUzUk5nTGZFS3MtRXgtZ3lHbFBGSU5hbVk3S3ZSX0hpSTVGNWRLNWxKc1oxOGNpRG1aZFpORnQwbnNnRm9VaVVNMXhRS1daTjNiQ0hTdnIzNExHWTVoMEZRYUEzVkhDOGtNZTlRLXhVRzAzbHJVYw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "FI Quantitative Stock Analysis - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVRGY5M01FLWh1Q2luYVlvWFV2Rmplejg3TVpCVUVPemUzSFQwekJ6ZF9Yd1dWMmJITmhJaHJkYmNWWjU2U0xvODBmUDRfb0FKYkZtSlhYSzl1ZzQtaXVXYXdhOUhGTVNIMUNTajJBOFhVLTA?oc=5",
+        "title": "Fiserv Stock Jumps 41% in a Year: Here's What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLTjI1ZExoUm5ueEJycUI3cGs0d0NJV05VRUpidTJFaDE5MGVWUjEtOG9ISTdJU0lOZmdKU3gwSHFNWndMUHpSN3lrazRHeEhiODJ1eWM1MW1MazNKSndfbjgwT3FGUzFrbWJjVkJpZ19sYmtfdjBHMFlVbDEwdw?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Fiserv to Acquire AIB Merchant Services | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0pCVVNHNWFiZUF2WTgtNmZEWnhzUExfWTZyNzNBOFBhMmZTd0llM0pHbFZZeHlRWmNOVnBRMzlzMG9TZnFxcnY0TFgySUlVUWFVbmhpOHdCLWhkV2dJbkpqV214UmpOaXp2aEFDLW42SVlFZThEWG9UVE1WWHBPQURCNHJiVnBIclJ5VWRCRnc0WHFBLTFFMmNvNnVkektwWkZGRGtmRXNFVDV1MU13Vm9yb0NnT2NIbnNFMzJLR2pzQkhqRlpv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Clover Unveils Game-Changing POS System That Eliminates Restaurant Check Wait Times - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWJfX0ZRQm83V3pXQVVmSzV1cklSdXdCeEhFMEt0TUgwTGtzSlBCaWdrMzZLOVNfUGI0WkxFMlhSeU5TbmpUdkstYXBOU3d3R1lpejM0czN0RERtRHA5dVM4OU1zdGVDWWJ5NEJVR2k1U002UDdxWjFxeUpxUHZnSk85Q3FJeUJZaTkyTGU4R2JoMy1qOG1FR0pleWhHZmRIcjY5QnFaYk9oTlNFS2hQYmExZHhJVi04ZVFmeG93?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fiserv Stock Slumps as CFO Says Clover Growth Will Likely Remain Flat - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUpmaEU5V0FyNHcyRGdIMWhwS2U0ZnZLZEpwOFNUaW9pMGhwVzA2eGtRMEJWLVlhd1VzdWxIeWNxcUh5emZkUS15eW9wVnBjQlRmSHRXWkhhWTduTnRCcnVZc2lkTWlXNm92aTJBeHZSQUhubVlJVjVTcER3QjRXdURXejFOVlU2MXJrZ3JUNlhJZHdPYUFSR1lGOWhRSC1sMG1vZmQwcVliRUU?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Fiserv stock slumps after CFO comments on Q2 Clover volume growth (FI:NYSE) - Seeking Alpha",
@@ -616,28 +601,48 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Major League Cricket Lands Landmark Deal: Clover Signs Historic Partnership With Washington Freedom - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXhuVzVSM2R0WVV5VlBGdnlkelNGTnBnQTlDd0l6N1ExckRhYk9vRFhLTElrd2hOU1NSZE5hUlJuemFCdjY5RGtNeUxMdVRhSGRoc3o3UG84ZDFaUWxhcnA1ay01S2V4SnVjWVJxMHdyZEpyTFo2VFZWX0JYUTQ5TmJWVEwyRVcyLXlVSnlqVXFYRWx2WE9ZWjNLLUktLUVtcVo1S0dnOEIwMTJkQVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Fiserv (FI) Stock Crashed Yesterday - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2s3dlhlSklJRERERGFkWWY1WTNyTDV5LUw5MnZKWXRLeXB1dFhhS2NReU1Mei1xeUwtdXk0aTY4QUFYekQxdWR0YndReGJOeFBhclByTjlkMGtaMm8wY2N1bkxidktQUDY0cklZSHFHeHBIMTF3cU1pVWZ5X2J4LXlVS2N1b2lfZkpwUnBlcktGY1htN2lEUFdCQXRMdy1fRjdHdDVyZkZqdUhqQUVmSWJhSVhtdw?oc=5",
+        "title": "Why Fiserv (FI) Stock Crashed Yesterday - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDB6SVhDVkU4NnpQaElrbklMZ1Ffd0RHTXFiUVRsNGZBQlpzRDM5OFlBcE1RcEdYQW5aV2EzdlZGRlhHbkEyYS0tRFpub2ptdzhCZmJoV2tveWdLODJvUDcxNFdLWS1JWG5UUXl6MHNIMWQ3dkNhaFFmNmhZMzE5TzRzN2hjbzJG0gGQAUFVX3lxTFBZWFJWMm5ic1hMZlFuaVFCSUQ2eFJEb0txQXlJZDRxVldwdnFrVTUzdHFEdGhnUmJaeWFvYTJpU3BaZVczZlE5bldHaFZLNmdHS29pVmFpMTh6R1l6bVdHQ2JHSW5yOXFwaFhFUmV5MjgyUi1YMGZqcEdiX29BanpLdlUwV0QzeDM5aDJqX0g4OA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Fiserv (FI) Receives Buy Rating with Price Target of $181 | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObThzU3l2OEtNZEZxTExadVFiX1FzN0locnpDN09RRUlKeWpYQWVGR3dVTkZxa2JaMEprYWtGeERjZ0JCSGZGZUVlY1VRREVPSDJiWHdsLUFIVG5RaENfRUhjamI0NXFPR3huOHJJZjh6emxIRmVkZlAyM04wZEhQQUlLUUZveEJSdkN4UUM4THNqdmR5a2duRzNBeE5feG1jMG5saHhlbUVNUUZmZGVhTHFDVnBYVkxjQ0Vz?oc=5",
+        "title": "Clover Unveils Game-Changing POS System That Eliminates Restaurant Check Wait Times - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWJfX0ZRQm83V3pXQVVmSzV1cklSdXdCeEhFMEt0TUgwTGtzSlBCaWdrMzZLOVNfUGI0WkxFMlhSeU5TbmpUdkstYXBOU3d3R1lpejM0czN0RERtRHA5dVM4OU1zdGVDWWJ5NEJVR2k1U002UDdxWjFxeUpxUHZnSk85Q3FJeUJZaTkyTGU4R2JoMy1qOG1FR0pleWhHZmRIcjY5QnFaYk9oTlNFS2hQYmExZHhJVi04ZVFmeG93?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fiserv (FI) Maintains Buy Rating Despite Target Price Reduction | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW5XQVhMNmN0MFduRGlqMC1iSG1oSXMzRkFtRVp1cExiLXJRZEg5ZmF5SUtLOXlHR290Rk9QcktCMVdSdVlWMFpENlgtS1o4dlNKX0F4dnRnbGRxYWpyZDFCS2VLSXZkeDNnRTM4eUxyaHNUSVJENVJRVk5iMlhxRm51QVpUZHVnT3cxRmJWTmJ0OVlEdVR4TlNhNUxpZm5UNC1Mb0FmNzl2c2h4WnlxTm54bm8?oc=5",
+        "title": "Why We're Not Concerned Yet About Fiserv, Inc.'s (NYSE:FI) 25% Share Price Plunge - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThYT0RhMEN1QkxEbTZZZlYwRGpaOE4zYnlIREJHVEs1a2NCLVY2QkpnRWFZZ2MwNy1ZQ0RMZ0pYS2oxUGhVWEloYzVZbUptdzJ2UmpHalp4YlFKdVh0eDQ1WnRid045WllYYjVsdmRTbmRSYmY5UW56YU8zNW5pVThEWUdIbF90Q1BWd3JqNmZZLXI5LTZ3Q3JRblQ5WDZjcjViMDZMQlRMdFVtbmRZRGtrMm80SFU1bDJBRmRGb2VUdjV3QVZOVlJ6a01QNTFz0gHWAUFVX3lxTE9PWDZQZmV6MDdGOFcwcEgwSDBiSFloX0pRSm0zcm9YZzk3MmdMZHh4azlzeUtLTWFZZGd3b2hzY2RqbEFkQlpqbWp3MFV4MG91U0htYWFHTXNSdHF5a3ZzZ05INkRCWkxNNXRKNzJrakVvcHlhM0tjMTZ1VU9XWTZNNTB6cFFLbGZFakxDWlBFSmZGMV9HcWQ2bFktYVc4eXFFanY2RGFOa1RSdTQ3Tl8wQXNXcTFBb3ZUcUswT3doQjRpT1prTXRJTEdPNENnYnBtS0loYkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "WASHINGTON FREEDOM ANNOUNCES MULTI-YEAR PARTNERSHIP WITH CLOVER | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2VnMi1nb3UtQ3g4MjJSUk1oTHoxSmEzdkZYRjlnM0xkU3pUOXJlX0RkT2o3UEpvdnhnVWg5UWRGdDNwV0JhSFgtUG1CSFJjVGFZVjNidGFLSlFPenExejZMREM5M3Vkb3JVUkN4Zk14Xy1QbU52TktyVHE2Vm02TTBxdExZeFExckgxMGEwenFmMnF3NEM3X1FVQzAxcU1qZ1RYVVczdnZ1MUFhaTQzQk4wQmFqZw?oc=5",
+        "title": "Fiserv Stock: Is FI Underperforming the Technology Sector? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRDNMWXFzX3dMMUhCaEt5WDdJSFJUVlFIeURmc0VGd2taZU5xdkZ1cVlieUp2RkZvNW9ERmZWcHJ5U2ozRVUzU2hjbFZTdldLOFFDdHdSdUlsLUtkTVhEZWt6VTZHcVJILV9EMlRNZ3JkZUhSQTFZaGF2ZlR0RFFWSEs3dGtMNlhBcjJndXg0NFM5RDBPQzRxanlpX1JrSDVfTTVacFczSVVvZjhGWjhDd1hLakJFSUlEVkRCSEhlUGx5Z0xpWXhwZGw3MzNPbW9sSDRRMzRGY25aZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv (FI) Price Target Slashed by Jefferies Analyst | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUYzTXZybk5rd21hR0JkS09OX29CUF9jOUk5X3RGUHRsZV9NeV91V0l6eGdKdk8yejBFZUY5QVBCTWFmSkFGX193empHdkJ0cE9Zc0FyLUM2NzJvVXZqbjNPd1RlZVRfUEZTN09CSk5iV0hrcmxyQnZka3FQeEQ5YWpRaGxXdU43cGZNeVJTSi1rcVdYc0ZRVnZJY012M0xtNkVFWExXdjhMQkIxMjFMWThYQkVwSnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv Stock Slumps as CFO Says Clover Growth Will Likely Remain Flat - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUpmaEU5V0FyNHcyRGdIMWhwS2U0ZnZLZEpwOFNUaW9pMGhwVzA2eGtRMEJWLVlhd1VzdWxIeWNxcUh5emZkUS15eW9wVnBjQlRmSHRXWkhhWTduTnRCcnVZc2lkTWlXNm92aTJBeHZSQUhubVlJVjVTcER3QjRXdURXejFOVlU2MXJrZ3JUNlhJZHdPYUFSR1lGOWhRSC1sMG1vZmQwcVliRUU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv stock plunges as Clover growth softened in Q1 (FI:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTZyd1A4QlJOcFdCaWYwXzh3T2hUVUlsbkRfN3Bkd2FzcWVkcDhWU3JwSjAyaWdnVUt0cmdndmZCNHNjU1BzQ1ozbTIyelc1M21IUDdJMUpHcy1OeVBndTVUU3RhTTJ4WUpyNlRtSW5XZlg1ZW1oUW93b0tkNV80dGJrQnpkS2pzdzNPNW5iZEtmMHc1?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FISERV Earnings Preview: Recent $FI Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ25oRkticXhlcl9WNy1nRzV2NG9YVGl4eno1bVhMRjVkazNNNkFiSU9fdGxlSzg1SGRuS19fUjYwV3Jrcjl4aFNPSEhjWEdrMlp5VUZaYkhBNlFzNlhQUVljcWV2eHJBc09lOWRpeHpXRW0wSThidUV6ZF9rQ1FUMWdxT1llU3BIcGsxMkJwX2kxQktWci0wRTNPRmFpUGZvMUJyZXZnSm4zOG9sbzBr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv Leadership to Share Strategic Updates at Major June Investment Conferences - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaERGTkJkdVJQcUd4aUhhNFotMm9pdEVRd1F4YmZWeFY0a0dEcmNjTWN3elY1clRQVUtJZUdyUmdRa3NFOFJ6QmdETmJHNTQwRUJfanhNRFJaR09McUFXaktCbm5WUU1tS2N5VTgzYkRsWG5CYWQ3QUQwenJnUXhjZjRiS0wxaU9rNXB5TC10V2JmaDhQaEE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Fiserv (FI) to Fully Acquire AIB Merchant Services - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0hONFZ4Q3dfdjNFVUhmVVFtYkhDdTE1dnMteEdobENvb2N5TWtCbldITzlnR3Vva0ZOZjAwcWdWblFLR0hPZ0lmTUdMTDhlZEJxcm1aSnY0RWRrcE9mczYzQllEbXZJWktDaGpPY3JENVpOOE1HdXFsaWtqUWx4RlBsR2tWbHEyVmhDRVNMSjE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fiserv (FI) Receives 'Buy' Rating and $181 Price Target from Truist Securities | FI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNczZZakRrU0tkVW5mUHZsRm1BUko5NkJfbmRvUXhsa3kzc3lBQmd6V2c2TnltRUQ4eDhRZU9qUzNhV3ZYcXFjdXFkQWdPdmN2VW9JQmVjU29TdGJtUEJJdHhVaUF1bWszRXR5NFZxZzVmVUxEa1FpMUo5T3RIQk1FblIzVGI2dlJNYmtQOVRmWGMwZHJrXzl5VXpxMzJjenBPZDBCdGRsZ29RaGFpMm53S01WbVotZWVwNXFCYmlReWpBaE5J?oc=5",
-        "label": "NEUTRAL"
+        "title": "Fiserv stock (FI) plummets after CFO says growth will be flat - Investorsobserver",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdHQ2dHSUwxbi0wSmU3NkF4M1dwNG9HWVVPb2FVOFk0cTVUV2ptQ1dCZTZKSWpMZTQ0V1FuSXBaa19VQzJXdzdwUzZlaFNqdVBUUW83dUVMWHRjZEY2Wjk3SHRFTDlydTJpSWFZNlprbmR2NXVmWUVjeXZNVlY2TXlKdlVSWFB2cUFXU0RQeEoyRW45SzU0UmNCMzVGeFU0RzhLbUFEQjloMzYt?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

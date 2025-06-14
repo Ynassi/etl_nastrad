@@ -2,16 +2,16 @@
   "ticker": "8053.T",
   "name": "Sumitomo",
   "sector": "Consumer Discretionary",
-  "market_cap": 4392227438592.0,
+  "market_cap": 4315998846976.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.835265,
-    "PB": 0.94489837,
-    "EV_Revenue": 1.073,
+    "PE": 7.698118,
+    "PB": 0.9284993,
+    "EV_Revenue": 1.062,
     "ROE": 0.12743,
     "ProfitMargin": 0.07705,
     "GrossMargin": 0.19813,
-    "DividendYield": 3.88,
+    "DividendYield": 3.87,
     "DebtEquity": 77.445,
     "CurrentRatio": 1.556,
     "QuickRatio": 0.81,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.08829138214735027,
     "ROA": 0.02234,
     "PEG": null,
-    "EV_EBITDA": 12.527,
+    "EV_EBITDA": 12.405,
     "BuybackYield": null,
-    "PriceToFCF": 6.822049344678838
+    "PriceToFCF": 6.703650372687891
   },
   "technical_indicators": {
-    "RSI_14": 51.89240710301043,
-    "Momentum_10": -1.1168618904930536,
-    "MACD": 36.8783951438445,
-    "BB_Percent": 0.1358663702498423,
+    "RSI_14": 44.38230539939624,
+    "Momentum_10": -3.646677471636953,
+    "MACD": 12.419543596234234,
+    "BB_Percent": -0.0099038160117181,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351771250396236,
+    "ValueScore": 0.896136809066584,
     "QualityScore": 0.3673519547313692,
-    "SignalScore": 0.5816994058430418
+    "SignalScore": 0.6260366624055389
   },
-  "volatility": 0.0214929677858218,
+  "volatility": 0.0214095504418271,
   "beta": 0.561,
-  "return_6m": 0.1385302636889716,
+  "return_6m": 0.0882618305869997,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 4207.0
+    "target_mean_price": 4257.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3246.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3276.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3357.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3354.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3361.0
-      },
       {
         "date": "2024-12-13",
         "price": 3337.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 3630.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3624.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3613.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3616.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3620.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3567.0
       }
     ],
     "current_price_data": {
-      "price": 3630.0,
-      "change": 19.0,
-      "percent_change": 0.53
+      "price": 3567.0,
+      "change": -53.0,
+      "percent_change": -1.46
     }
   },
   "news_sentiment": {
-    "summary": "Les sociétés de trading japonaises attirent les investisseurs avec des rendements sains malgré l'incertitude des tarifs américains, soutenues par les commentaires de Buffett. Berkshire Hathaway renforce ses positions dans 5 sociétés de trading japonaises, tandis qu'Elliott, investisseur activiste, acquiert une participation dans Sumitomo. Malgré une reprise du marché boursier américain, le climat reste mitigé avec la chute de la confiance des consommateurs et la baisse du bitcoin. Les sociétés de trading japonaises restent prudentes face aux prévisions de bénéfices, mais la reprise de la production chez Sumitomo à Madagascar est un point positif. Le marché boursier affiche une certaine instabilité, alors que les préoccupations de croissance augmentent, notamment face à la question des \"zombie companies\" au Japon.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
+    "summary": "Les sociétés commerciales japonaises attirent les investisseurs avec des rendements sains malgré l'incertitude des tarifs américains, suscitant un intérêt accru suite aux commentaires de Buffett. Toutefois, les bénéfices de Sumitomo Corporation sont en baisse de 32% en raison de pertes ponctuelles à Madagascar, et sa croissance est jugée insuffisante malgré une hausse de 27% des actions. Berkshire Hathaway renforce ses participations dans cinq sociétés commerciales japonaises, tandis que l'investisseur activiste Elliott prend une participation dans Sumitomo. La confiance des consommateurs plonge et les marchés boursiers sont mitigés, reflétant des inquiétudes croissantes quant à la croissance économique.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
     "negative_ratio": 0.3,
-    "bullet_positive_count": 3,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -559,13 +559,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "As the US stock market starts to rebound, here’s Warren Buffett’s advice - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Sumitomo Corporation's (TSE:8053) Price Is Right But Growth Is Lacking After Shares Rocket 27% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajBOZ2hWSjhobWVIVHpEUWw4Ylg4bG1TbzQ1aGx5YVd4bVFoQkIwUGFaV2dPTUd4TGNtUlNLTENBbTZDOTlURWJIRVNfU2ZUYWlLVVRrbm9xdlRmQWFNb00tdDV1dGFxM21iVlhSbGRPNU5LZGFwalRUQVVYUUZNelBHTmFQRzR2MHY4ZU1mMzU5SlV3bkVJVXZ2TUxnSXpNSGt6b2gxOEtYdjRHTU9KTk9PYmw2T3hRandaTTFMejVsRU52M2JiSFlyNE44OHRKN2fSAdcBQVVfeXFMUHRIRXJkdk1kR2ttRmZhUXFjQzB6U0dQZno1U2Z0ZzhscmFuX3F0R1FiU0lNcW5MeWJDeVFMZEx0d21VN0lLZ2tXSTZnM3ExRTIxVUxzellOb2toZFpwU1IzaWtGVk1fcHV5MUliZmhTMFZkcUtoSW5aLV9LNUJBWUpHR0Q1N0lXQlN0TXYwZC1MWnBIM1drWG11VmozZ18tXzY1UVRveFpfSnlYR0FHc29MaVFRS0hQTzlRNWExZ3RNZTNJT3BGclMwdWF3WkVYMlNmLVFUOUE?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
+        "title": "As the US stock market starts to rebound, here’s Warren Buffett’s advice - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -574,14 +574,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Sumitomo resumes production at Madagascar's nickel project - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXJBbmd6bFl2YWY4TFdFZFZQaGw4bGxiTU5Ec0JpVTczaWxkSnNrbnVQOHlKUjA1QjQzSUg3TmdZMTVxZzlTcENUVmhkWWFPZXB1VGlRN1RtOHRuOVFDdlBtb3ZNWkhXdUdvUzZ5ZzFnQXYyZDllOUVaR3hJTl9vT2NGZDN1REd6UU9WLTFTUndraHNLMzZyZ3ltRVM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sumitomo Corporation's (TSE:8053) Price Is Right But Growth Is Lacking After Shares Rocket 27% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajBOZ2hWSjhobWVIVHpEUWw4Ylg4bG1TbzQ1aGx5YVd4bVFoQkIwUGFaV2dPTUd4TGNtUlNLTENBbTZDOTlURWJIRVNfU2ZUYWlLVVRrbm9xdlRmQWFNb00tdDV1dGFxM21iVlhSbGRPNU5LZGFwalRUQVVYUUZNelBHTmFQRzR2MHY4ZU1mMzU5SlV3bkVJVXZ2TUxnSXpNSGt6b2gxOEtYdjRHTU9KTk9PYmw2T3hRandaTTFMejVsRU52M2JiSFlyNE44OHRKN2fSAdcBQVVfeXFMUHRIRXJkdk1kR2ttRmZhUXFjQzB6U0dQZno1U2Z0ZzhscmFuX3F0R1FiU0lNcW5MeWJDeVFMZEx0d21VN0lLZ2tXSTZnM3ExRTIxVUxzellOb2toZFpwU1IzaWtGVk1fcHV5MUliZmhTMFZkcUtoSW5aLV9LNUJBWUpHR0Q1N0lXQlN0TXYwZC1MWnBIM1drWG11VmozZ18tXzY1UVRveFpfSnlYR0FHc29MaVFRS0hQTzlRNWExZ3RNZTNJT3BGclMwdWF3WkVYMlNmLVFUOUE?oc=5",
-        "label": "NEGATIVE"
+        "title": "Nippon Steel, Sumitomo renew long-term contract with Equinor to supply pipes - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1hVMDgxYUs4dUZfX1pwU2d6MXpFTXdoUjIzM01ja25XX3R4VjZRa0lka1hySW9oX1pxQUZMTTdRazdpREk4MV9iSXQxV3RpaTh0Q1VldnF0azFGN0U1TEpxVS1Sc2FsQWIzUjZ0bERyZUJxTW1pX2ZaSUVENmZqc1RNV0tpZVBIbzB5T0JaRlBwLUNHZ3BaVER1ZUdacmNUdGJMaEMwdTJ4NUgyT2hLQzBzSTlpNVdvU2lkWm41M1BPSEJIVnlJ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
@@ -589,28 +584,8 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Warren Buffett Says Berkshire ‘Built to Last’ Though Eye-Popping Gains Are Over - Insurance Journal",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwWW5wa0NsSXJ2MGQ2MmJhaTBObjZBbDdXdk5OWXhULVhGYllVLXpzS1pMUzVTLVd4Rk9jVVVPRTliY0hYRlRubVN1V1FoX05YWldUQko1TW1TclhOa2VpYlhMR1hTbnc0VFVlbXo2QWdaOWg1MHNv?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Trending tickers: Nvidia, Berkshire Hathaway, Baidu, QinetiQ and AstraZeneca - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDZRX08zRFdvb2F3dHdLUGhFdjlvNEVJTjF0bDV2SkNsNXE1UVBPbUkyeTktR2RfeXFaSXRELVNNckx1UThxSm54ZnpYbXAyV2Y1ZmttSjBFVWg0dmpBZWFBME9jdGhYS3BGdVFOR0Rsekw2WEI1X1ROUGtVYnN4UERHQUNkY2pZbGhfNGNHczUxZHFnNFJ3YldPNWtSWnpnU3d1MHhnQWJ2NUd2N1pYRURwV3djOTlN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Activist investor Elliott buys stake in Japan's Sumitomo, source says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3RBVGdpT3gtTlBscVd1LVBFa0VkNXVScDl5Z0NQZERIQVg1WG1PbEJrRzhzczNzOEhLRERmVUYxNzVkdG83Qmp3RVdzaHdhVE5JWlZ6VzNXTUlMVDBGUmM5RXQtb1dTN3BhYV85TXFacXAwd2s0dzdSV0RPT1pjbkt2ZU5oeDZmVWJaMWlYelZnTU12WU4wLU1Ud1c4eXdDc3czeFktdUJJaEU1OWVmN3Fna2I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan's TSE starts market maker trial in carbon credit market - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUllFOVo4ZmxkbjlNcTBqTU0zX290bHBMdDN5NlUxdXc3cWdVZ3Vtb0w5OGRIdEpxTjRUdmFvc2g3SnB6cHdoVUozVFc1SGFTV2ZKRUQxekVtSXdOSjZYUTNiRTNCU3laZGJoMDV1TzMyVHBkZGVTQ2ZJZWUzWDdLWHFTS1lURmVhZXhSZVVBbUZIeUF1ZUFrdTdLNjhMalFCemhoalhrZmVWOFMxdU90dDF3VXFEVWw2Y3VCeloya0N6bU53Z0VkNkloX3N5eUxaQzdkcA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japanese trading houses conservative on profit forecasts amid US tariffs - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUY2Y1BJa2NXdjZOVmdEaEc4VVFneXRkU3k5S2tNa1pBX21LcXpVbDhiQkE3RGZLWloxNW5CREllb2pXUXJiRzMwbkZwTXBXZHJUWUJLV1Qwd01tQWpjN0JPM3FhbjBwZmhHaWZKcE1PTjk4ZTRKeDJLX2xIQ1hTSHd4bVN2SFphU3NtVnNlR2k2M1g1eFZCSUttdjJRN181YXMzdG9xUG5NaWdZTGhxWUpXcjk?oc=5",
+        "title": "Japan's Sumitomo Corp net profit down 32% on Madagascar one-off loss - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjh1ZzhVR0tRdVhhelh3cHptS0ZvTWZNcTRYLVl2VElrc3A0WHM3S09LWXlnb0oyVWZzMG1LZnNaSEF2SUg2Y0ZDNFpZR3lhWVN2ZTNlczZ5dnV3eTBfeG1JQWoxaGl4NHgtalVnakhCMHNMNUtOb0V0T196VTFWMk9GUmZ5Z2p5aldBYkVoc2d1Z0ZPM3dNc2VRV3Z1UWpIOWlIZV9EMndCc05DVVhncUpB?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -619,19 +594,29 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZlMVk3MzBpOW1HTWlVekFBRzZMVkRMRGl2czg3TC1rb0lLWDRPb3NTN21sczR3S2QwN1pvUGp1c0RJMHZka1diX0RTMUNFeWtuMVBUS2o2N3VYV1ZTNTF5TktNZUVYcUMtc0tJeWZsRFpXWDNMWVpJcExjTXBRZXRXTTRYTFg1U2tLRm52SThzNDNzRVowcGJwWkpfNlBwS1RidkFwVkloVTlxRlJJOVpkNjRDS0hCbDJPUjVFczlxZk0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "FTSE 100 and US stocks mixed amid growing concerns about growth - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMWxZdG9aMFF3cml3bmQ2ZTM2ek5mSThGSjEzVGhETWk1bk1oTHJ3R2pqbktDRHVma3Vhc3UwdnpHc3ptWFhuSGIzOGRJcWFLZnhZemJVNkdrcWxFc0pfaFBFNERUbTJmTzFKYlo4WmtkdFhMcDVFTmZSYjdCb3V4aVRKRkNaeEpHNG1qYjludGlMMUd0S1M5bkhYOHpzaDg?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Fortress eyes Seven & i's supermarket operations, TV Tokyo says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEY2cElxYUg3VWFCMG13RV9ZeUh0a0gtUW5kYldicFBjaW1KV3VwMFBRTTF3cnBEWTg2NFNLc2loX1JKNm9BWVZnaVg0OW54NEpEWmc5R0p4Vy1kWlNuUkVDclpYRVhNUzNCbzB3YW9NNmlCVVdrZTFxV3hCMjhJeWg3RWttSGJwVk5JUHhtZ1Z2ZG5KQ3JDLTZFVkVZQ0FfRG5xWlhTWW81STVRZ0dPOG1n?oc=5",
+        "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZlMVk3MzBpOW1HTWlVekFBRzZMVkRMRGl2czg3TC1rb0lLWDRPb3NTN21sczR3S2QwN1pvUGp1c0RJMHZka1diX0RTMUNFeWtuMVBUS2o2N3VYV1ZTNTF5TktNZUVYcUMtc0tJeWZsRFpXWDNMWVpJcExjTXBRZXRXTTRYTFg1U2tLRm52SThzNDNzRVowcGJwWkpfNlBwS1RidkFwVkloVTlxRlJJOVpkNjRDS0hCbDJPUjVFczlxZk0?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Activist investor Elliott buys stake in Japan's Sumitomo, source says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3RBVGdpT3gtTlBscVd1LVBFa0VkNXVScDl5Z0NQZERIQVg1WG1PbEJrRzhzczNzOEhLRERmVUYxNzVkdG83Qmp3RVdzaHdhVE5JWlZ6VzNXTUlMVDBGUmM5RXQtb1dTN3BhYV85TXFacXAwd2s0dzdSV0RPT1pjbkt2ZU5oeDZmVWJaMWlYelZnTU12WU4wLU1Ud1c4eXdDc3czeFktdUJJaEU1OWVmN3Fna2I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trending tickers: Nvidia, Berkshire Hathaway, Baidu, QinetiQ and AstraZeneca - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDZRX08zRFdvb2F3dHdLUGhFdjlvNEVJTjF0bDV2SkNsNXE1UVBPbUkyeTktR2RfeXFaSXRELVNNckx1UThxSm54ZnpYbXAyV2Y1ZmttSjBFVWg0dmpBZWFBME9jdGhYS3BGdVFOR0Rsekw2WEI1X1ROUGtVYnN4UERHQUNkY2pZbGhfNGNHczUxZHFnNFJ3YldPNWtSWnpnU3d1MHhnQWJ2NUd2N1pYRURwV3djOTlN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buffett's Berkshire boosts stakes in Japan's five biggest trading houses - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDY4a0o1WktpUVRQZzN6UG5KTk9MbHllMUoyWktyNl80Q21BMmF2Y09OWS1TTW5ockxQb19EUThZd2hubkloTmZQbFBSREhuYzFwaVkwVk1mTjhYcDMtRDhuUllScF92Z0xDNG5FcjdBb1VyRnozZlhoWVNLMUZFa3NWQnF2UUJkZ3FoSDRnTjloVDdmMFNhT0o0bmVfUGp4TWpjRUxpYjdhaVQ1TFRCTnFQYkgtdWI3?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Breakingviews - Japan faces a reckoning with its zombie companies - Reuters",
@@ -639,11 +624,26 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Warren Buffett's stamp of approval helps Japan's Mitsubishi shed conglomerate stigma - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdFNFc2RnU0FrdFlYMnctN1JIbXQ3Q19qUDI1QjdBNGFQWkl1NUhsbDNOOXBNemhyTHRWQk9RR1BadVFLaFFtUk9YVjRLY3k4UG9HSWx2SzNPNEU0UVZIa0JpTk01d2Ruc05hX1p5WlJLT0IteU42V3o1NE13aTZoSDgyTF8tRHRPOF9POWRjVTdZaU10QjRKRm9jWWVPMU1wR1E5N242clo4YWpqWXRSZUtoNUNDQUxmNmZUZldKTVdldw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HR3VHRXFtY2ktbTZrWHo1OWZhRzJ6aWQyU3o0WU1aYUZYT18wUTRURExDcTQ3TnhyZnpjeld6a1M1VlFMb25BcDUzQXVQM0laOElyQVFVRlVucGViOUl1VGhDTGJoTnVlZWVVNF9sZ3hzX0FITXg4TFVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Best Japan ETFs - Dr Wealth",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nMWlxSmludHVZZVpnVGpSNnMybVl3cThvckp1X18yRDBpWE96V2V0bDB3UG5SbGxibzZRWm12eC0xSWd1eEJ2bldydVdmZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pampered Canadian pigs feed Japan's hunger for pricey pork - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmpiRmJLM0UxaFBGWWNCQXU2S3ZvbHFiTE1QNTdya2ZVbWhNLTd4N1dPVkhfdF82eWtZVHNRcWoyWER6NU9kWE1fVEU2MmIwT1FTS05sdndycG1HWEVxazE0VjdnNE5OQkVtRXpnS0lPY1ZaM1BtT2U0aFg1WlA4My1qWDhLbkxuMl9mMm43cVZ3by02VlA1ZVRUOGtvZ2pOLWJhRG9kY0Y1YXFUeXJj?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

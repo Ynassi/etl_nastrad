@@ -2,16 +2,16 @@
   "ticker": "EG",
   "name": "Everest Group",
   "sector": "Financials",
-  "market_cap": 14713391104.0,
+  "market_cap": 14219350016.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.470455,
-    "PB": 1.0397018,
-    "EV_Revenue": 0.787,
+    "PE": 16.875315,
+    "PB": 1.004791,
+    "EV_Revenue": 0.777,
     "ROE": 0.06122,
     "ProfitMargin": 0.048839998,
     "GrossMargin": 0.065910004,
-    "DividendYield": 2.33,
+    "DividendYield": 2.35,
     "DebtEquity": 25.368,
     "CurrentRatio": 0.395,
     "QuickRatio": 0.277,
@@ -22,23 +22,23 @@
     "PEG": null,
     "EV_EBITDA": null,
     "BuybackYield": null,
-    "PriceToFCF": 3.204472728780543
+    "PriceToFCF": 3.0984917018858518
   },
   "technical_indicators": {
-    "RSI_14": 50.29615436306763,
-    "Momentum_10": 2.982455885627772,
-    "MACD": -0.5095398678981269,
-    "BB_Percent": 0.5902827564619318,
+    "RSI_14": 41.544626577220015,
+    "Momentum_10": -3.721309178513811,
+    "MACD": -2.4917130585800464,
+    "BB_Percent": 0.1190288957882354,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9337404324787596,
+    "ValueScore": 0.8955641906239487,
     "QualityScore": 0.3452316128484557,
-    "SignalScore": 0.560847843131896
+    "SignalScore": 0.6431808144896398
   },
-  "volatility": 0.016562291864195,
+  "volatility": 0.0166994832431656,
   "beta": 0.519,
-  "return_6m": -0.0633958981409202,
+  "return_6m": -0.073414195453595,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 368.17
-      },
-      {
-        "date": "2024-12-10",
-        "price": 362.45
-      },
-      {
-        "date": "2024-12-11",
-        "price": 362.35
-      },
-      {
-        "date": "2024-12-12",
-        "price": 362.62
-      },
-      {
-        "date": "2024-12-13",
-        "price": 362.81
-      },
       {
         "date": "2024-12-16",
         "price": 357.77
@@ -537,32 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 346.18
+      },
+      {
+        "date": "2025-06-09",
+        "price": 340.62
+      },
+      {
+        "date": "2025-06-10",
+        "price": 336.29
+      },
+      {
+        "date": "2025-06-11",
+        "price": 335.3
+      },
+      {
+        "date": "2025-06-12",
+        "price": 339.82
+      },
+      {
+        "date": "2025-06-13",
+        "price": 334.61
       }
     ],
     "current_price_data": {
-      "price": 346.18,
-      "change": 2.11,
-      "percent_change": 0.61
+      "price": 334.61,
+      "change": -5.21,
+      "percent_change": -1.53
     }
   },
   "news_sentiment": {
-    "summary": "Everest Group, Ltd. (NYSE: EG) a récemment annoncé un dividende de 2,00 $. Malgré une hausse de 2,7% depuis le dernier rapport trimestriel, les résultats du premier trimestre ont déçu, avec des revenus manquant les estimations. De plus, Everest Group a subi une importante dépréciation des réserves de 1,7 milliard de dollars, projetant un bénéfice net de 1,4 milliard de dollars pour 2024. Les investisseurs pourraient donc rester prudents face à la société en raison de ces résultats mitigés et de l'incertitude entourant ses réserves et bénéfices futurs.",
-    "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
+    "summary": "Everest Group, Ltd. (NYSE:EG) a récemment attiré l'attention des investisseurs avec une série d'achats importants d'actions par des initiés, dont le CEO James Allan Williamson. De plus, l'annonce d'un dividende et le maintien de la notation supérieure d'AM Best après une action de réserve massive ont renforcé la confiance du marché. Malgré des signaux positifs, la question persiste quant à savoir si le cours de l'action est surévalué, ce qui a incité certains investisseurs à ajuster leurs positions. En fin de compte, la recommandation moyenne des courtiers reste à \"Achat modéré\", soulignant un intérêt persistant pour Everest Group.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Vest Financial LLC Purchases 71,371 Shares of Everest Group, Ltd. (NYSE:EG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3Z5WkpyT0xJbmZBMVZVZWVrUFB4VF96cVhCNk1paGZQd3VqXzVKWmhhYnZvQ25wQXN1ZlBLQWxic3NzZlZoZERDbDVQYldaaUhSNFBiaVpjaG5iY2k2V3FSQ0R1cVV6VzE0LVZVczI0aFBLRFZ4ekt3bVEtb3ZxaEFleVYtYXFmcUxEdUN3V0phWUNDVnl5Tl9ZaWx0RDNQaU15eWdXRk9LYTcxSkFKdHQ3eUpTUUlPck80LVBOWHAxVGhWaXNRVVBB?oc=5",
+        "title": "Everest Group, Ltd. (NYSE:EG) Shares Purchased by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUxhTHM1U1JxTGNHa3J0NWZqWE1pR0dWV0hFUklqMi0yMnBOV2lVTFFqamszV1g4OTFKU3pKNlF5N2RncnVoQjR2V3dEaEl3OWQxM2ttVmplMWtGZGtidTNCQ2p3VkFJbmpoWjVuQUN2OUdpa0pobDRFa0R4Q1FPSHhQZ1hrWjEyUFplWkV2WnFkdkFVZkJoWVFIaFJzVjhEVGtOOFV3SFd4QkZMVzNSRll4OVJ1RnhQc3k0VTNOUWVOTFo1c0tGNnZSbHlXaDBkNTVfQzVhYzVUTGhU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Everest Group Announces $2.00 Dividend Payout: Key Dates and Payment Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFVIVnJKVUotSXJtamVyS2h4WTY0Q0VMZDJDbDBKc1gzMEdmOTJ3NjFWYUd1OUNPajRIUzE0NUg1VWpEMnpSbTVMX045R0JCclo1WS0xbWx3bDBnUDhLYzNiYnBabkZLeFh3clRtT21PdGZfVHU1S0JhaWNWVGFpbjJR?oc=5",
+        "title": "Insider Buying: James Williamson Acquires Shares of Everest Group Ltd (EG) - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUlPajRENGVVREtQbm00N2lUZHRPdjlSTVB6RUQybFdHUklnc3dPZ3pCTkNpUTRCRmE5Mi04czR2U1l5MFpHRmdJa2pLMUtyREl2YjRDMVZUbUs3bWV1RkJRR1FUcFFaWXdLcElMd1k2SnJKMk9LY2Q3X1pfUktNa0dkdW53VUdzcXhVNUtkVW1EeUJJRnFCTmZVOGh4QmRRZ1lGLVhSVHA1TzJmS2RF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Everest Group, Ltd. (NYSE:EG) CEO James Allan Williamson Buys 1,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGV4NVdob2VOTUlFeU1uM2YxVnF2WVRscUxybVVibTduTW9xX1lwRjhxY0ZNc0t6ZlNoWFhINTNqTEN3ZF9RSXloZTdWSFQ5a0xpX25HTElJUTVfSFZmYkRxd2Y4ZFlURGxhd1hJSXdKLVdvZnU4R2dTVUsxOFZROWFMRWs2Ny1fbTF5bi1zTGNqTE5ZWW1oSFFkanBqM0lpem9CRVdiLVA0cllmSXFETTVHRDZ6OUtIRjFMclEwSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,28 +576,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Curat Global LLC Buys New Shares in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnVnTkNfQmFTNFBjZXEwaG9TbG9mdzlScThDT25YVmR0b0dlNWxQUUlMLUpkbHk0d21id0RUaTZlOG80d3k4WFMzYnlmUHF6TVA0N2I4Z1NJbHJxRDdtTUd2V01SM3p2YjNxX05kY2lvZUJxY0c4VThTWV9QdHFzeW42bmxXcGtFZkZjQkZsRlNPenBhS2h2bkZqdlh2eTdZeHJJZHlZQTZ4ejZhU3c2ODBDUUs3V3lDQUNpWldB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Everest Group (EG) Up 2.7% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2FpODBVd2FENWNEYlJwTzFsREUtOHl0LWhIZklkQ3hoUGtTVUxzQUU2b1B3Ujh4QVQzOC1FUEs5bEJESTFHbmxoSU4tYnZvT2pfQ2xmRHBlRk1LOHZvUWM0N2l0eFVkU2dDMTh0emVjMFk3VDdB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Is Everest Group (EG) Up 2.7% Since Last Earnings Report? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNU96SnlYZWZrZG9UOHFyR3Y0RHhZQkxuV2hhQVlwNGhoalhkWmtYYjY5ZXktRUtxZWRqN2dOYjBpa3EwOHVEd21oMU1lMVF4cTNBTndrNXBMTEV5MmFvTW4yUWNBaWI1T2k4SWQxV1lkVUU0WHdCSUhPTDNzYjJjREtn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Everest Group (EG) Target Price Adjusted by Evercore ISI Group | EG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDJNZUhvWEtjSElaRy1lOElsVlAwV1JRdnNUaFRYM1NaTHU1YndyU0V0czJzY0hzbGZLRWN4dlZSckM5QlVtYzF0NjhxdENjdnljUGdQaWZRS0RIMFYwRk5MN09hTmZSWk5ULVlhZVk5eEpENjRkWVptZHhEd3lyd2xaUERRdkc2M1BMajRqRTIteWtNMGdHaUd2cGVfcTFpU09fMXV1MTZQRUpScE1QQjlobw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Market Cool On Everest Group, Ltd.'s (NYSE:EG) Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkY4ZUdrZzUzcXNJdThuLUUzYndQbzNGdXU4UnBRVXhiMVVzVFJJVHNsM3dOUjZYU3V1MUpQVG5LS0tKaU95UndBbGJ0anZHQ0ZLazAzOV9tc2JwN245QTI0eHhLa0lwemhXZVR5ZFNDWFpRUnZYQ05uWkF2eGNKMDB4dFhaTEhRR3NDOXlpWWxWdER0TG1FR3FjRnM0WEpveXRiV2Z5anZLd3c4Y2k3dUxRTHU4eHFRZHfSAb8BQVVfeXFMUExoVnVhcHlaaUtlZmpGdU83UW4zZHRnd1dSUGQ0N0R2dzYyQ2x6enoyc1VIREp6ZmozWUM2eDRsMDh6VmxkRmM0bWNMZFRYdDg4TW1YYmZ3bzFGUE8wYW1CZkh1R1JKVDZad25lYkdxeERCTk13LU13LXdtSGV6M0JZak1GMWNCYXBCVmJtWGJaZ1BKeUFTNUZleXlSeTUwQW41Q3RBYU9NQ05HeUlUU1BvbEpYd25NZVlLUnAxNzA?oc=5",
+        "title": "Everest Group Announces Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlVXZktKTDJ0VFNINmFfYS1XZnpIS2F2ZzZZZXJjUVNfV1ZVeFNCRDBqU0MzZ0hDVldsRFhxX1BOUWtkTkFkbmFlb3owRlp0OG9HTDZEdWlPUUxncExFR3JaUFN5cXNBS3NsSjFUczh3X2FGVm93X2V2Yk4yRklGdFl2OF9vSXoydVVsTE1WMmhLTVk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,13 +586,53 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "EVEREST GROUP Earnings Results: $EG Reports Quarterly Earnings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnlXUFdHNjNEci0tSmxvSFdSSmV1aFktb0s2S09XN2dxbVl0a3pYbGtqc3h3U1JkZjNyZnA4SzJzbTNGSWF0ckcyVUFkNXVaaVJoRllIYk9vYTBhZzdfb1RsZGQybmtKdHlXc0s4cWRRMnRtVTVtaDh0eTlwSWloWXoxbDFSeUgwWEdvdEU4UDNxSldkcVFV?oc=5",
+        "title": "This is How to Capitalize on Overvalued Stocks; Eg. Incl. - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFRZQVk1UllCS2paMGpTZy1fRVNWcFhpcWZ3RHJ5ZjhjWTlQWUlYdFAwTHRSOVV0OUd6NFZXRU1OcVlhZVNlM0ItTFBEdlp2cF81V2FTbFhLekxOXzY2MHliUnZTTjFocXc3TXZmLWpNWE5yZXlRLUxxZDBsSnlNTEFiOTZuaHNKNWVuV3dXWEZoNXAyMHF2N2dLajhaM0k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Everest Group Ltd. (EG) the Best Property & Casualty Insurance Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10ckhOT2syTm43aElaeTEwRDZJUkxXVE5EZEc3R1loNTdVa0czM1JSazZ6NUFxa2liUmJBbU1nOXdKaTRCeENFUERTWWR4WEM4RFg5NnRJb1Fvb3BBRW50cFY4LUNiLU1aQ0dCOTlfN3NYYlY3RVdxNEVzQQ?oc=5",
+        "title": "Why Is Everest Group (EG) Up 2.7% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNU96SnlYZWZrZG9UOHFyR3Y0RHhZQkxuV2hhQVlwNGhoalhkWmtYYjY5ZXktRUtxZWRqN2dOYjBpa3EwOHVEd21oMU1lMVF4cTNBTndrNXBMTEV5MmFvTW4yUWNBaWI1T2k4SWQxV1lkVUU0WHdCSUhPTDNzYjJjREtn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "OLD National Bancorp IN Has $729,000 Stock Holdings in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmJzRzZHay0zamRueWZ6QXljdjRpWEJtcUdkTjNHeE1FR29lRUtZcWtuZEJlY0FwM1hQSDBxQlA0V0ZiRUVVTFRwa2VXZ3NVaS1jRFVIWS0tdW5rbS1UbWJUNUlpWFY5VWItSFFxSDdVbDFhR0dkbUtjVENsOG5LcmZLQXZ1QUgycGptcVZMNWZIUjJRV3lnaHpVMVBfWTlSRzlPenpCQUFTRWl3bHRhV0ZpTjduMEJLVlhBeUpjdTNwMW9lTVFBeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AM Best Affirms Everest's Superior Rating After Massive $1.7B Reserve Action - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGRNRFZlRE42REJSQWdpb3l0Vjg3S0FUcGt3Zlh3aWJmUERGaV9RWDMtc2VreTg0YUg4VDlXTlZ4R1FYR1V4MU9xWkMzOHcyMW1nSm55akhnNVVSUDNTRTlhaVB2Zm1LTi02OXViRFozVGV0YmQ1d29qUklpcGFCdV9uOGc2d3haZlFOa1dGdG1MZ0RKMVItQWtUd3dvMDl1bnMzejZybTNpRVBteGk4NDVNc2ZCbFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Everest Group (EG) Up 4% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmUzT1RkOGNWUjVmU251OGY2ZnlsMWs1aHczSHRHLTR1YjhEOTR1OEdHQ0V2NmpEcUpVdFE3c000WlV6U3p2eDNoY3FMYS1hR2lMWHhtRmlPanF4VGhXYURPVlRXUmFRTjdWRXdOSlVDWFl4ejdaR3RUQnlTOGlYNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Everest Group (EG) Price Target Raised by Morgan Stanley | EG St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkNkRFRlNGJRTHEwV3R6ZlVXeUgxME5sSDgtTVA5ZlkzLXIyb0JMNXRlNDJ0WmhnblJPNVhvU2dFR05Gakp0bVRkMHhLdXViQTFmUzNhaGNIajRzVU1SU0lxdVpIR2dDdk80RGpNMDZabnI1S0QwOE5UdENKYW0xM0Q2UFpZU3g1aVl6SUY4NmVfQ253QlB5QjFTUGlwbC1GOE14UFVaQlk4LWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Everest Group, Ltd. (NYSE:EG) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDQ1SjNoOWNFbDFRMWVLMmo4RkFrYUthZjV6LTdyNFNwWmU0TS02bjRuWV9RRnVVRl9RMUU1MUxHT1lxQ3c2NjNTbDlaY2t1SldHdTltUzM3ZlZpX1Q0ZGhLTkJtWm9Od1dfN0lHeFVhNnFOVV9nb1AteDAzVDFGczJCZ2JCNU84VXZpVXRNclRwOVBNRmNNMWJsdGlKOUxpNEE2cHE3VmU3QzBTLWtCenBhNHJiaHZ1V1FoUTZBYVBtUV9xSUlSUkk4S0Fwc0JZQ3dxR3FpMEYzdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "1,410 Shares in Everest Group, Ltd. (NYSE:EG) Acquired by Merit Financial Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXBPN2tXNDJmT00tcjlNaThUSElHdFo3cXZqNXdZamUyZ25mU1ZyZTFPdGpfYVNjeEJZS1Eza3N2ME5DRnNfZUlqakk2dGptSTU3ZlF5VUVaSHFWb3NVeVRCQVVDQ1Jnc09GWV83LUJ6dDl6S3Q2YVhiMU4xa2d1UkxNQ0dCZE5nTUlVc1RlR3cyTERKZG1pV3lNc3RrMW1qb081d2V2dm9ERk5NWTNkamVjM0tKYk5qQVE1ZHFMTGxZUDBJZ2RoN0ozTE5VVm5t?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vest Financial LLC Raises Position in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3Z5WkpyT0xJbmZBMVZVZWVrUFB4VF96cVhCNk1paGZQd3VqXzVKWmhhYnZvQ25wQXN1ZlBLQWxic3NzZlZoZERDbDVQYldaaUhSNFBiaVpjaG5iY2k2V3FSQ0R1cVV6VzE0LVZVczI0aFBLRFZ4ekt3bVEtb3ZxaEFleVYtYXFmcUxEdUN3V0phWUNDVnl5Tl9ZaWx0RDNQaU15eWdXRk9LYTcxSkFKdHQ3eUpTUUlPck80LVBOWHAxVGhWaXNRVVBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Curat Global LLC Invests $549,000 in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnVnTkNfQmFTNFBjZXEwaG9TbG9mdzlScThDT25YVmR0b0dlNWxQUUlMLUpkbHk0d21id0RUaTZlOG80d3k4WFMzYnlmUHF6TVA0N2I4Z1NJbHJxRDdtTUd2V01SM3p2YjNxX05kY2lvZUJxY0c4VThTWV9QdHFzeW42bmxXcGtFZkZjQkZsRlNPenBhS2h2bkZqdlh2eTdZeHJJZHlZQTZ4ejZhU3c2ODBDUUs3V3lDQUNpWldB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,46 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Everest Group (EG) Q1 Earnings and Revenues Miss Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oSklrc1dIZElGSW5kQzhYNFMxa0IycG8xZXZadlhkTkxfbzBRZ18wQnVZRGdRd3hwdzhBdlZYNzFHOWxfT3pxSUREcjJ5NFhHdHlidXJmNnZVdzNXWFgtUHNvS1JpMWgweU1xQ3FHVDRlWHlnY1B6WUtYaHl6RFk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Compared to Estimates, Everest Group (EG) Q1 Earnings: A Look at Key Metrics - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0VYajl5TlJHS3FOREdvc29HTVRHT0s1aWljMWRIb0xhbThxTzNHVE9oemt3V0NGWGlHMDJZb3R1RktjZEFCTWpVZVcxYm9obFNOVElOYzlXMS1mVjBhSkpOb1NBWTBWRGlTYnU2ekdkM3o0Q3o3UURwcHB3bVNGbV8zbVNIQ3YzdHo0S3NIOEx4eWZHb2ZjUFNvVXY?oc=5",
+        "title": "RFG Advisory LLC Makes New Investment in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlhFY1lBUjZYdHh6d1dfd1NPTEdFelJ5V3YxbmFDSHlXdF9MWjU0NHpIV0dEWVVMRExFUkppRGdMYmFzRjR4NVZmRHYxYWNVM2VhUElrWC0wTEx1VEN5R2JTZEFqQmJpTnZQaFloYkZ4clhSclNURkVKTEVNeW0yQV80bnB3cWVtUU9QVHRjb2tSTURfOGcyVWVDcGtpbkRtbWVmWXp6OGpXQ0ZRay13cVB1SHl6NVZUTDJSam9OVnRBalE3V2lreEI0bUUtUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Everest Group Takes $1.7B Reserve Hit, Projects $1.4B Net Income for 2024 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3lCeVc3VWxQUnRuOWlFSnN5SS15SlZvb21heGNSVGVaTEw3UDZ2ZDNod0lrV2RvVWpMem1VV2RaaGZ6UzZnYVZGRkRmd0lPc2lUaGtDNEFYU2x2SHlTdGU2VGlfbzZ5R0Zsejk3VGtQcTFWUUhkS0gyenVxbk1mVWlqeEgwTXljOTZxTHFpQXBXX0JWWHdFMzUyN0JHR3A5OU9YelFwREVhUkkwNGk2eXJuLXVCVW13?oc=5",
+        "title": "Everest Group, Ltd. (NYSE:EG) Shares Purchased by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQblpTSmNrWnU4cGlPTDlOR2pDc1VFZDVUb3hiSE4zdFlJNThySy1QRm5qMXdRdWVMY3VLSnhyWDZDV3hWZEhxSVc1dU5BSUtHWTFaUTNNd1N6cUFwYmQxckdHcHgyLXc1X1pEdGVFTjJZemRLMXd2ZUg0c1ktX1RIUGVHenVkNFZQVmxuMmNhc0FXbS0xR2piaWI5UFl6a3VzX0tsYm5USHFXVDc2ZGs3VXNDY1NOM2dEZFpUM2Q0Z1R4eWloUXc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toronto Dominion Bank Boosts Position in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
+        "title": "Toronto Dominion Bank Purchases 1,430 Shares of Everest Group, Ltd. (NYSE:EG) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaTNmemJ5cUJVb3dkMXQ2eUtvZnFDaVRneUtCNzVMX2tVRUVuZFVUQ3FtU0tHUmU3MzF0dE41bzAtRnhJbkZkN2I4dlE1YTZxTkdHcV9GTld3ekhPdXRmMWtWaDk4bGpKNG5vR25DNnE5UlozcE0yekRZNWtHYlF6TWFvOUhpM1ZPaGdmWF92c09fdkdsY0RnV2ZVSkZLcVVLMllOSVNCdmlaSEIxNnpsYmJkblE5SlZ1VHpDNXJuUlRYMTlIaDJ4Vno5M3Y?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Deutsche Bank AG Increases Stock Holdings in Everest Group, Ltd. (NYSE:EG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE9qZnluNFdyNkdFUUZMODhfRE9vTm9XMGNzTlFmejJhbElhdUcyQndTTkJuekM4U0EtdlRLYXp5M2diV1hlUEVvR2V6UzRWbkFHUUp6bHhIbzY0RGh2U1JWMENkT3VpRkd6UGNVZmlCX19TUkVlS1JueXZYZ3Y1eFFUbUVtOVNfSzZCLWxWTDd0Yk5yR05tN1ZkaFZaM0NzRm51Tk9lN3FNREV2MFNORnRB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Everest Group, Ltd. (NYSE:EG) Stock Holdings Lifted by Ethic Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelRGM2djWlkwaW13UW1lWGhnMUJNMndKQWpJcjFVajVnUlptakVjUnluaGpWbjlyZkVqajczQUpvejF3QlRIMlRadkJhaXMxRThMV293ajAzeElqMlNqMTU0X3JVc2lEcE1WWnZ5ZjJxcUNTeHVqQzVyaXE2VUtQeTNjMV9XdjVXQkpaZFp1WHNCUXlRWV9lRDB0c1gyZWlpbGVzNUZxNVlJYUJSa0pLRWZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Everest Group, Ltd. (NYSE:EG) Shares Bought by Systematic Financial Management LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2tMMGRlUDB4bW54TzZBSzZlcmpkQVlLOTl5SGdVcFF0Q2JaUnp5M182OFBINlIxWHRQZHlIRGJlMjlHMlJkeWpEakxKU1RUOVUxaUVJVVE1TU03enQ0RlBpQmZpY01rYWM5Zm1icHpvYVhpVEtZbzJhSGVRZk1lRU5odjBGeEw3YmV4dlEzZTZDZWtEZVJXMDZBcmtUVnRLdTJ0cFhLS3YxODB3dzh0V01lelh1NVJjd2hNRDV1cXM0d3ZBLWlF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Everest Group, Ltd. (NYSE:EG) Shares Acquired by Lighthouse Investment Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVJ2UXhIWURJT1FnWG9rUWoxa3NFcHgwZE1wY2NiaXhyV0h4OWF1eXhkdWdRR3hxdnZtWjJheVMwNzlZRGxRYWxSS3hzcmpiVGszYmZIQ3JxdVBoMU5BeklSVGt0ZDBmdU1iUUNNT214M3NabWhSWlQ3RnFnekNwV1hvMXpzUC04dEdxamNVSVoySl9zQ0U4a0RHeGdpMFZEYU5tQnZRUlhiNllETjVPMjh3dUtEWFR6OFZFZTl6WXVHdFR4Wl90cXZiZ2tEdnd6Ymh3R3V3?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "4183.T",
   "name": "Mitsui Chemicals",
   "sector": "Materials",
-  "market_cap": 608112148480.0,
+  "market_cap": 597058977792.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 19.040358,
-    "PB": 0.7168698,
-    "EV_Revenue": 0.716,
+    "PE": 18.671276,
+    "PB": 0.7038398,
+    "EV_Revenue": 0.717,
     "ROE": 0.0436,
     "ProfitMargin": 0.017819999,
     "GrossMargin": 0.21463,
-    "DividendYield": 4.64,
+    "DividendYield": 4.62,
     "DebtEquity": 76.033,
     "CurrentRatio": 1.724,
     "QuickRatio": 0.861,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.026122630612021046,
     "ROA": 0.01885,
     "PEG": null,
-    "EV_EBITDA": 7.833,
+    "EV_EBITDA": 7.767,
     "BuybackYield": null,
-    "PriceToFCF": 12.867341600656468
+    "PriceToFCF": 12.863349267766072
   },
   "technical_indicators": {
-    "RSI_14": 58.55442174611522,
-    "Momentum_10": 5.9053833605220225,
-    "MACD": 28.1180635979772,
-    "BB_Percent": 0.746312820361151,
+    "RSI_14": 49.97912917536973,
+    "Momentum_10": -2.983257229832572,
+    "MACD": 24.64882739091672,
+    "BB_Percent": 0.5450641169355134,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933665779447169,
+    "ValueScore": 0.8956158446545567,
     "QualityScore": 0.3542585213387851,
-    "SignalScore": 0.4863758027666826
+    "SignalScore": 0.5933447653445125
   },
-  "volatility": 0.0206351212949442,
+  "volatility": 0.0204483976801388,
   "beta": 0.609,
-  "return_6m": -0.0183231698740551,
+  "return_6m": -0.0266547991784024,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 4245.0
+    "target_mean_price": 4185.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3377.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3364.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3461.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3416.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3413.0
-      },
       {
         "date": "2024-12-13",
         "price": 3344.0
@@ -525,27 +505,52 @@
       {
         "date": "2025-06-06",
         "price": 3246.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 3217.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 3220.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 3254.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 3245.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 3187.0
       }
     ],
     "current_price_data": {
-      "price": 3246.0,
-      "change": 11.0,
-      "percent_change": 0.34
+      "price": 3187.0,
+      "change": -58.0,
+      "percent_change": -1.79
     }
   },
   "news_sentiment": {
-    "summary": "Lors de la Munich Security Conference, JD Vance met en garde contre la menace intérieure en Europe, suscitant des inquiétudes géopolitiques. En parallèle, FineMark National Bank & Trust a cédé 4 183 actions de Microsoft. Ces actualités soulignent l'importance de la stabilité politique pour les investisseurs, tandis que les mouvements de cession d'actions peuvent refléter des ajustements de portefeuille. Il est crucial pour les investisseurs de surveiller de près ces dynamiques pour évaluer l'impact sur le sentiment de marché et leurs décisions d'investissement.",
+    "summary": "La Munich Security Conference a mis en avant les inquiétudes de JD Vance concernant la menace intérieure en Europe. Dans un événement plus léger, une moto Honda Monkey a battu un record mondial en parcourant 4,183 km avec un seul réservoir. Sur le plan financier, FineMark National Bank & Trust a vendu 4,183 actions de Microsoft. Ces nouvelles diverses ne semblent pas avoir un impact direct sur le sentiment de marché pour les investisseurs francophones.",
     "sentiment_score": null,
-    "label": "NEGATIVE",
+    "label": "NEUTRAL",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
         "title": "Munich Security Conference as it happened: JD Vance says he fears Europe’s ‘threat from within’ - Financial Times",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtbzhnUHllaG5lZXBTeGJLUzA5Y2FPVnFfUTE5bGUwWEhKQkt1UGhOTk1DZGgzNzYxUDBtQzh5WnljOVgwejVjeTM2MnNzMi1kWEZMNXBjOXJEZEY5UmxZWl9rNDVsSVBXWTN6aVFYazE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Honda Monkey Breaks World Record Covering 4,183 Km On Single Tank - ADV Pulse",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmRVZlBZRTNOd0pKYzZKRUZvdW1wcE5zaU5NZFR4TU1Fd19zODhieDgtWGN6TnRoY0hkUC1YQVBHdUt0QUFZTlpoSTdWc3VGb1JqRVMzT0hfdE1kRmdmM1ZtWVpGYVp2LVczanJET3ZKdXhiTUkxZHFxMHd0X3BZWm9UbWNCR3ZKN2dINVE0eTU1cTU4OTdNTDdaVlNkVHRZ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -555,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

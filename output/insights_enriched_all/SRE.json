@@ -2,16 +2,16 @@
   "ticker": "SRE",
   "name": "Sempra",
   "sector": "Utilities",
-  "market_cap": 49776873472.0,
+  "market_cap": 48655142912.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.774723,
-    "PB": 1.6179463,
-    "EV_Revenue": 6.991,
+    "PE": 16.396704,
+    "PB": 1.5814856,
+    "EV_Revenue": 7.005,
     "ROE": 0.09709,
     "ProfitMargin": 0.22222,
     "GrossMargin": 0.41252998,
-    "DividendYield": 3.4,
+    "DividendYield": 3.38,
     "DebtEquity": 99.694,
     "CurrentRatio": 0.57,
     "QuickRatio": 0.441,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.3899097219771401,
     "ROA": 0.01933,
     "PEG": null,
-    "EV_EBITDA": 17.28,
+    "EV_EBITDA": 17.313,
     "BuybackYield": null,
-    "PriceToFCF": -9.598096554934832
+    "PriceToFCF": -9.283549581884923
   },
   "technical_indicators": {
-    "RSI_14": 50.58307818750219,
-    "Momentum_10": -0.5211746265523208,
-    "MACD": 0.7351230858299544,
-    "BB_Percent": 0.3563973135236383,
+    "RSI_14": 43.79958217852553,
+    "Momentum_10": -5.0069954726497015,
+    "MACD": 0.1263204379685589,
+    "BB_Percent": -0.0029117291122393,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329905697009184,
+    "ValueScore": 0.8769969262113616,
     "QualityScore": 0.411683206859274,
-    "SignalScore": 0.5903256091759004
+    "SignalScore": 0.6388530982402849
   },
-  "volatility": 0.0244032130315507,
+  "volatility": 0.0245927920921568,
   "beta": 0.656,
-  "return_6m": -0.1403589620689054,
+  "return_6m": -0.1553580984476374,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 88.78
-      },
-      {
-        "date": "2024-12-10",
-        "price": 88.55
-      },
-      {
-        "date": "2024-12-11",
-        "price": 87.41
-      },
-      {
-        "date": "2024-12-12",
-        "price": 87.93
-      },
-      {
-        "date": "2024-12-13",
-        "price": 89.16
-      },
       {
         "date": "2024-12-16",
         "price": 88.63
@@ -537,52 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 76.85
+      },
+      {
+        "date": "2025-06-09",
+        "price": 74.69
+      },
+      {
+        "date": "2025-06-10",
+        "price": 75.97
+      },
+      {
+        "date": "2025-06-11",
+        "price": 75.98
+      },
+      {
+        "date": "2025-06-12",
+        "price": 76.23
+      },
+      {
+        "date": "2025-06-13",
+        "price": 74.08
       }
     ],
     "current_price_data": {
-      "price": 76.85,
-      "change": 0.91,
-      "percent_change": 1.2
+      "price": 74.08,
+      "change": -2.15,
+      "percent_change": -2.82
     }
   },
   "news_sentiment": {
-    "summary": "Sempra (SRE) continue d'attirer l'attention des investisseurs avec une volatilité notable dans ses mouvements de propriété. Malgré des acquisitions significatives, des baisses récentes en bourse ont suscité des interrogations. La déclaration d'un dividende trimestriel de 0,65 $ par action maintient l'intérêt des détenteurs. Les recommandations des analystes oscillent entre optimisme et prudence, reflétant une incertitude quant à la performance future de l'entreprise.",
-    "sentiment_score": 0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
+    "summary": "Sempra Energy (NYSE: SRE) a récemment attiré l'attention des investisseurs avec des événements clés tels que la sécurisation d'un accord LNG avec JERA Co. Inc, la mise en place d'une nouvelle dividende trimestrielle de 0,645 $ par action payable le 15 juillet, et la signature d'un accord pour l'approvisionnement en gaz naturel liquéfié. Malgré ces développements positifs, des ventes d'actions importantes ont été signalées par diverses entités, suggérant une certaine incertitude autour de la performance future de l'entreprise. Les investisseurs pourraient surveiller de près l'évolution des positions d'acteurs clés et l'impact sur le sentiment de marché.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Procyon Advisors LLC Purchases 14,169 Shares of Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGxjRTlsU1g0Zl9pN0xHNGk3M3lfV1V5T3hPQ2ExOXJmdUMtVmpRS0RneXRkb1JsaGtlZlAwdjlELXoyQ1Q4LXBnUXJtS3ZnRzlLRndGNVB6MERrQTJKUjlmTzcxbWk2ZjBiOFRxaTdKY3VxVU1Cd1VkMTJnN0g4cDBxQjhQeDJBb251T24zdnBaWDQxbjdLTlVwcm1BeTRNUlhIZ2V2ekVPM1pwekMtZGhra2dleXVrdFRLbFBScw?oc=5",
+        "title": "Union Bancaire Privee UBP SA Sells 342,528 Shares of Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWo3VjNURm9PcDFIUUJxNThpMkxXSEo0M1NSTndNMUVBaDBPajBzbS1rNkx2UFczWHlBa18tR3pGU2xZald2d1dRUmhBcUVTVHg3cW9YZ21waWNUMHoyZ05paGVDZGM1WHZ3YjM5NVA0bGhaQlJxblpKZmZ0emdnakgyZElweXpobWlqc3d3WjlfZk1GdXh0QkxONW9SU2ttTjBBN0NBcVE1cWZRb3B5YVpyT3FONldqc3NBOEtISUJNbWNmRnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Sempra (SRE): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLUXBCQkRPejBSYXZIMmVrRDJBZHRTV3FpVTc1ZW1IRW1peG5JLWZFZHZBTkZqTlRQeFRrLTk2aW5rdk9WOWVrYmFFVk5ST3V3MnA0LQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts Estimate Sempra (SRE) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT050RUlyVURaT3Roek1hSmFiV2V2TmpkeUNCSDhIdlAtMWs5WklZaTlEa1FwQUdTY0xDQlQ0QXpCMWQ3X3ROUkY1VUVuZUYtaUxMZUt6X21sZWdzSTdTZlVHVDRaNnl5eDVkZ3ExU2NhN2U2ZUc0RmFqemFvU1pxU3R1dHA0QUc0?oc=5",
+        "title": "Is Sempra Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3FvOXBoUUpvbXBHMlhaX2k2QTdjM1ZPM0UxdVZxcUltWUdRRFVtYVMyRE9ndTVFOHJQX0tHY0dEQ3NEUU4wc3MxQVlKQmwzQ3lzUXZNRXVWckdqVTN2ZHVSbWVoUjk2OTZMSE5PRjBrYktFbHNULS00V2tNNFBwaDhtaGhTM0hsMmI4OVdlM1RZRzZLQjBlbmJleXZPLS1EOG42YUFQYkE0Qk1jV0lUX1d2RGRUUGRwRFQ4c0dQNjk0ZlB0?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Generali Investments Management Co LLC Has $2.45 Million Stock Position in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeG1ZdEU1dHlieGpmei1qdUhmTmZhUU5YQTNXYnM4RkNCN3owSGdOSEpldklORWY5dW5UclpaTWRUZWZJeFF4YkprMWxIaG4yejJiMFpHSHBMSmJ5ZlBJVnNpT01CM0ozMzc0M1E2U1QySXBSNjV1UEQtLWp5MmVzMU81NkJIY2ZGZEZITXk0WnVXaHRpMHduTGYyazAxdGVUX3JmTkVCOUVjc05fZEFkMnk5SGhCaTBmQjBNQVIwakpiX3A1aFc3b1Azd2xjU2NBczlCMzRRT3daMDFoUFFNX05B?oc=5",
-        "label": "NEUTRAL"
+        "title": "Bets against utility stocks marginally decrease in May; AES most shorted - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1FFZ3JrVzR0SlBBLVNaNllHaVNreFZQVmpISU96RnFQaTNtcTNoOWJkTU5NT0NYUnpfUkFrYUlCWkRTQ1N0RVBYRzA1YVhHVUlYdnN0ekZZRTI0cEtqSmlleXRKWHpiaWdabWJ6UEQydDNQd3UyWlpQQXpKenhnWUZWRmtSd2E2RUhzR3JjSmk1enBYWFZTM0d3MmRzWnJ5ajl2V0lSbGY3M0d6NWNfbEltSzV6Z0M4ekJld0tDQmEzLU1XSW1TQ0tRS1RhNnNPNTRCbHJjNFNmc0hQQjl2SXk3YkJjZw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Sempra (NYSE:SRE) Declares US$0.65 Quarterly Dividend For Shareholders - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDNCb2pSQVpEVkVLcHBXSDhCVWJHZzlTZXlnVjdteVZGT2I0S2VBN2ZQY0RrT0Z0WUVoYVV5a01MTkhKUzlKZWtBTDlUejhLdmNwZ1pxdy1WdzBwNnNqQTBIcHZKX3lvUG1Pa0RVRFQ4amc4RUFma2tGcFhpMkVjRG5vRnZpX19HVzRsdkQ0aHA5bUFFdUx0WS1kNDRKZ01wcWdMb2x0N3lsM21ZcTFDWWpaOUI1YmFobnBJekN5SmTSAcYBQVVfeXFMT1Q1MERuZDkySkZZbGlGeG1xQUt5X1NYcEhVTUYyanVDaUpFS0xfUEgzblJfVGlkQ1hYTlBYZk5oZnBCR2xqZF93YmpSOVNyeWpJWGgyNDFIT2gwV01WM18wMnZlOXRRSW4xbG5RbFV1NTRXMHB3VFluR0VvUlNqaDdfc2tUd204Z0FLNDhDNjNnRnNISmNLUlB6STJrUnJSY2otaF9KQnp3a3Ezcy1pZmd4bV9zVGN3VWk3V1NBYkZDWlJ3UUpn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Wall Street Bullish or Bearish on Sempra Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMm5TUDdWRVlwQ0wzZkRJaEQtQUZVVVlaY25fMmhRVzBjcjNNUlcwRncxWFFPcEVHbjBJZHdjUFUzTGlEWkVGa0JXbzBRTnZVTkluSFVtemZMNTJjYW5rbUJkRFJDVzlpWjFyT2s1TVIxcnl5YzF4YllSaWNocmk4Yg?oc=5",
+        "title": "Sempra Infrastructure Secures LNG Agreement with JERA Co. Inc | SRE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWdlMUFRSVN0WGxqMkRuNTQzSGhsMFplclBJYzlEQmRVd3ZuN0pfODFsTzRtSUF1MFRRM0pWcDBzdE1hYnJYUm1tU0RVZkdlODdlMWhfWDI5ZHppbUw2RUl5OUlUeFR2QTcwblByQ2FXS29EMWhUWEJXcGlya0lPd2kzRW1qQnotazVyR1N0d1BXLWdROWhnWXdRVE1SVkN6SHBBUnpHbHNlczA2dDhHZWMzWVRiZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,9 +581,29 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Boosts Holdings in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWxBZXZhc0l3eEhGaWJaOEJIU3pldUJrdUZzZjA1bnhhUEpYamFEbEM5R1JqcGpRU284OGwwWk1SVi12RklUdWItMmQtdk9uV211TUhsdTZGT1FDOE1raDVaM3RVRWxDNFBHaXNuVWlYX2plNFlYR19lb0RHc1VpZUZzV0VtMjNuM0UtbWJHVnZrTXZvcWg4amYwdHRpaHFwcUQ2U2w4emhPRWlqODJ1c3dtR1dXWUot?oc=5",
-        "label": "POSITIVE"
+        "title": "Learn to Evaluate (SRE) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2R6dlpHSjFoSlQ1ZlRabEhNMWYxSEJtR1RuWENWa1dSV0RvWVBSVDJNd00tYlRCMk03Sm9zdG5ndjRDZHV5TnpYQ00tNlo2MHhxMzlQRFhjaFhGNzQyR1psNGU4UWM3VWxYNEY2YTQ3RWlnWXNvZFRBQVJCOU5JTXhRaVFfdlc4aUxqSkZ3aU4tU0JyVWt2T1JwZFlNWDYzcm9uQi15d0FFNGlZZWUxQWxhVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra (SRE): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLUXBCQkRPejBSYXZIMmVrRDJBZHRTV3FpVTc1ZW1IRW1peG5JLWZFZHZBTkZqTlRQeFRrLTk2aW5rdk9WOWVrYmFFVk5ST3V3MnA0LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra Sets New Quarterly Dividend: $0.645 Per Share Payable July 15 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUx5SFZxeEswamVyQ1hQUGt0LWtYbkZEd2ZGdGVELWlKYW5zWjF4aW1ONHlRWUdybDVTdzdNSkNVUS1qczhwUFEwUEMwVVZ5WkhFOVNnaXc3OGZ6U2JoZEN2NXhPNFEySkhDVWZOLU1uLW1ETVlPUXVIWWg5aE5mM013?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Takes Position in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVNKTWg3Mk1Jc1BLMzIzcmkyMkVRWGRvZDRXV1ladE44bXg5anQ3blhwREV1UnJ0aV81TDR4bzZNb2J6TjFyVEVFNmw1RnhRVHNZcjlZVURBaTZkWE9zTUR6c1Y2Q0Nac0xuR2R5amdXU0NQYmU3VWQ4Yi00dUNDeGZNWm1WNmYwSFUyZHd6NHJpTXQxMUpaNzFHTkFiLW1tUGxIVUx5bnNhSHJieTJtcm1Tckx6Mlp2X1FuSC1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Sempra Stock Underperforming the Dow? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSW5jRFphTHozMGNDZGotdVl0eWJWWl9VeDJZSFlCQ1AzWnMzZmVxd09pUGNrUlc1V2dWb2V5N2piSlF1SGstQXd2TWJWYVEtOFFFMVZqV3AzLTlMdnNOQ2p1NzVfQUlkT3o5VDRDNjFCdHI2VzJycjdvd3JhT19sUy00WXVVVXlrQWhjNDhfQnpCOTZDcTlZQjk1MVdxblVYU0RQa2o3dUlMVlJOWXJBOUdpZmMxMjN0Xzhv?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Sempra (SRE) Among the Most Profitable Utility Stocks to Buy Now? - Yahoo Finance",
@@ -601,61 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "A. D. Beadell Investment Counsel Inc. Grows Stake in Sempra (NYSE:SRE) - MarketBeat",
+        "title": "Sempra Infrastructure and JERA Sign Heads of Agreement for U.S. LNG Supply | SRE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3hJYjFoREpKN24wTDJmcmt3a1FndW90dGVtX2xHVUlEdEVHTVVMamlqQzAwOW9qSjBCa2J1SDFKeUF0eXJ3WUlxM0o2TGlDVjdjamVfSHZKUmVkaU9qNmhJSGlnUGFISHJzRUJybkJTOXRLV2ZkVWhzT1JKTjZySGg4U2hyUFEwN0s3cFl6TGRRNVRSNjljeG14ZzU4bWhsRFU3RS15WjZYRW5sYkloNWlMdng5WFN6a0VwTGRhNkt5cXJrTHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sempra (NYSE:SRE) Shares Sold by Greystone Financial Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjlQcjk2LWRiNWxqRG53V3RTdEFkeF9FeDA3Y2ZqaDhEc1RqTGJnWlYxMWF6bkRpWEtLbzRBN0UxWFhyOFQzcThOWldnYl9Kc1pBOWhWOVlPN3p2eUJ2QmtzRlVIZnFKUHBEZ3g4U3V6Sm5BQUt4WWczMjF5WWhTUHJ1ZmNVQWpuSXlxTjUwTGtGRUU4MWdVS1hvbnJXdFNOcl95MHJBTEprbHlSRUFrNDF6S0FIcDhLVUh2aXA5c1BDQnNvTmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procyon Advisors LLC Increases Stock Position in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGxjRTlsU1g0Zl9pN0xHNGk3M3lfV1V5T3hPQ2ExOXJmdUMtVmpRS0RneXRkb1JsaGtlZlAwdjlELXoyQ1Q4LXBnUXJtS3ZnRzlLRndGNVB6MERrQTJKUjlmTzcxbWk2ZjBiOFRxaTdKY3VxVU1Cd1VkMTJnN0g4cDBxQjhQeDJBb251T24zdnBaWDQxbjdLTlVwcm1BeTRNUlhIZ2V2ekVPM1pwekMtZGhra2dleXVrdFRLbFBScw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Werlinich Asset Management LLC Has $4.02 Million Stake in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXNqXzVQSnh3SVNWY3lDbXNaNXNoQk04cm9QRUY1WnNUZDhGLUN4dGxpYTNVMDJyNjBkQjV0VHl2SzhFTDJxajdhWUpuUmhobjRmTjJsc1J2RlM0NTRHSWJudFZUWm4tS2ZpRjZVTTJMTTNQLTVPcE5saFIzWjVmaEI2Qk9TZnZOcHZiU0tHby1XUWFLNEEtWHdVX0RHeWJWcnlFMjFxOWxBdU9RUUUxcVBQcklDUjlZaWV0bEtLWXpQZDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Compagnie Lombard Odier SCmA Has $46.50 Million Stock Holdings in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmpoV09kalNmckNzNzZYVWN3My1uSG1RZ0NrbXZBN29wakl0aEYxYVcwR1l4SWk5SVhIVWxaa2NuWHIybUtWRHA4NDNMZmhXOTZmN21oeEI2cHlIRFNfSGE2QnlhYzZpblotbnhKWERZNkktSzBITF9sbzBiVzJPYWs1RWJJYUJ1dnV3ckZDQlBNcTNGSld4TmU3UVBnRThKemdjU2FWVXdWNXVoVUJQbEt1cXNZaHJEeVB3QXI3NUpTSHhOaWsyMnAzQkdDREdrVzQ2cWt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yousif Capital Management LLC Sells 9,938 Shares of Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTTRWbWFWNU1zQjFBRkJfTWNXYmd3Q3F5a29jdEd2RFVHX0pOakhHaEZYOWFIb1JGTGFsVmhKczBxbGlobzRER21qTjQtOVB2WF9jaDVvWThsS1lCS3RvbE9tZ1ZXZzAxSDhtckdpSzJzZjN3cHRyR0EwVzFzVFdISVkzWHVEZTdacUE2cVZ0b3hMZ2ZLRTg3OHliYzZZNUt0UW84MFhkMjJDbHNZbmpRZ2tpTlA1VkVQc2cyVGZ1V3R0aFRP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A. D. Beadell Investment Counsel Inc. Raises Stock Holdings in Sempra (NYSE:SRE) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOU1SYzVqc0VWd3NCR2lpRjVrcVlrSWlZZldKa3NUX0JBcDJZX1F6bEVtTzlFUUVxMGJ6UjNpVXNNbnVIZTFpaTRCc3hrV2xsQ1ZJM0dCamlmb3RXTEFUdmJTS1VkX3YtMmhrd2JQOTYza1F2Qk4tZnpDcHUyMEFsc3hpa0ZHUDJFWWc1RFRPSEZNcmhRdzJHYV9sc0NjR25tR3pPVWdFVDE2RXRkZ09UckE3WUNOczdpLW81RTAxcWZvYUU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Sempra (SRE) Went Down on Tuesday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zM0otbWFTSkJ6ZjFucHF6WGJ0dHVFQWRidzFCUVN2MFN4ZnRBVVl2TXlpR2RZUWNSZjJjWEh1NWxaUE14SUlUcTFJcVBKWXF6bWhNTVZVSGtMRk1YUHFsUHZtYUt6cWVkbWk4U3RtbHhYNURSeElfMnZn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Sempra (NYSE:SRE) Shares Sold by Unigestion Holding SA - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUU9DU2RyOU5falA0TDB0b2pmaGlJdjNFckwxZmV2SXU3OTVVdFNNRWtpenhLRXZhcDBCVkF0d0lmNTg0d2p3eDRBRTAwZDZkMlZQZ3lRZV9WWUFib2E4WjI0bzZHYUktd3hiU1lfZ0kwSmlNdUpGRE91YkNGcHhuX1g4R2VVeVFaa2RoQzg1TXdCMmhSd3Y0V3JmTGprN0ZaRjlweVRtcVlmMGpFSWwzZDZfYXZfVVdPelk1RA?oc=5",
+        "title": "Sirius Real Estate Limited (LON:SRE) Insider Chris Bowman Buys 15,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYkZ4bTJ5a0tVLXc0NXNlTVdkVXB2LVBkckxVSFFjY09oaWtlc0RfdXp0dFF3VTFyMkEwZU1qU0NjVktweVJ0cmVHUUh3dlRRTFVjaFNVbnhmWElVZlFmRFYtNHB2TnU1bi1Yc2V3WkR0UDltMkNHcGVvY0w2NW9TbkY4WEFweWJTNjZOV0JaYmpHVkFzLTY4RUhTekplWHRwUmhJcDlTLUVUU1czdGZNTzR4ZWt3d1V4cldlZ0l6aS11RFc1?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Sempra (NYSE:SRE) Shares Acquired by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTZZV25ySlRFT3U1WGIwRVlVOGY2ZC1fdVJBM2hQSnpnTzJ4MmxOZ3pNR0pZODM3NnZ0MUxHWFZqcGdkYmh1M2tnTnRoNlZNa214aUoyT0RxVTVsbTJEV05OLTMwUlpIU1lnRGdxeEtfOWE1WEZjWmtZSVRvdEJMLUZON1A2Ym5zMngwcnZSOHdPU1ByLUM0TE9TSk1IRXp4RlhQQ3J3UkRfbnBya0tLSjdkUW1sS19mbkFV?oc=5",
+        "title": "Sempra (NYSE:SRE) Shares Bought by Merit Financial Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGVGY3VUSnpYV1JtZHhDNDhuNnFGQ2NveDI2UTI1SGZoZDV0UnoyTE0wQzdSTjlOY0tIQXNsZ0d5UkVZUG43X2FFN1pOdmdXUDJkQU05NEFfUHk5dmQ3ZjVuTEtVakpOWGZpOVMyOFcwRkpXOWtVOU5NZ3FkeXBCNVRybFo0LWhBTF9IUmRJVXZPcEJhQ19CYXFsekhxLS1qRmtOWTRUZ0lDckVYMDRfMk1zYWhxWWg3Z1o2Nw?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "First Hawaiian Bank Decreases Stock Holdings in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1hRMmZ6VFBOelNFRmR1QzB0MGx1T3A0cHRZbUJjQy05dVIwaXBSbHV0RDRpOFliY0toM2ctSnZnV2xvU0pzc3poTjZEOTlMRVlScFBiS1RNQ0VrMmxlejVtRVloWTZRSUVBdjJrcWtVajlUV2tiNlVNQi1jdHRsV1E1Ymhqb3JGb0N0RTYyMjYxZmtzZ1VWYURlYjl2OVdYSXBQWnd6TkFRZ085dWxLZTREMkRjc2s?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "NBC Securities Inc. Has $5.09 Million Position in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHN2RWV5Q3JaUklVcDhHbHgwOEhNMXJFelFYMXBWeEVxcEFkd2U1bG10U2NrdGt6OVFRWWE2ZkVDRGdrZUpnTm9Yc1lJTnk2TkJiaEQybHlRTC1MOGRhOTlOX3NJVWFSNGxfajNnVkk3MkMxSG9qbXBvNUVZSTZsbldBOHh6WW1pd2d1QTZuQ1JYZHgzNWkzMWlZR1pHcWVxWk51NGp2LWctN0hXb2EzXzJJSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Increases Holdings in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDZQanE3N0VBY3pqZmNNMHBQVGV5NHBRT3ZRTmc4X2F1cWw0QTZLcGdDZ09fekdfMEpsM25HS05vRUNYaEU3WndzSkVjRTl3NU8wN2pWbENVQWNsNmgyMUJSYUpHaVdlX0cyZ0M0RGhGdmZmR1RrQnVuZktyVi1WaTliWDFNZDNYeG9hR1ZGTVhFaW1SX000dXlISkFTeWwtYkpmWVJIOThscWpFcnBWOEc2QXlyX1ZpTk9jMk55WGN4U05nNXV5LW9HM3hzdFB0ZTZxMnpVLTh3RjR5c1A0UVRUYTlTUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $30.46 Million Investment in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUVaUml1NS16UXl6NkJJTEdPMUpMSTdBTGxjSkNsRHJueER1NDRnOTZqZktLdDQxNjhoTW94Qm01OElWRUEyZUQxN2R3bU4xanBrZFcwVmZrR3pkT3FYeDRfRnZoMHh2RjNoRThjdlVsNWVSUGpvSms1dF9pRFlzeWlQcG5pd2JKR1h4V0M5eDN0Z3hxNDF2RVlCODNRX3hQMlRQcV92dk8ycWxfQUZRVDY0Vzlsc1hNa2R3My00eW9VYi1OQU1BNmVxSkIydTdpZmJxMUFYcC1YcEdNLXlEM1Rn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Centaurus Financial Inc. Raises Stock Holdings in Sempra (NYSE:SRE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlZzVV8wY05Da1ZLUTIwbG9JTXNuU1RDSlFzaUpNaUJac2NnbTI0RmJHRjVEdHBSVmRfT3pjeExLWmtMZFVocjhmLXRUOUtKam1qWFdLNkZJcWFsRERGLUp0VkJyb2lQMVZtTXlaS3ZRUFc5akVIbEtCTnh1QmF3TjF4X2lWcmJhd2ppVVI5alZ5U05CdnNFRnFfRFRVVzQ1QXRkeVl4WmtZMXZqZkhrLUJHZ2VkOTFra1l3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sempra (NYSE:SRE) Shares Sold by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkNTT1lpbW96Y0dJcm83X0NZejFtc2MzMDJ3bUZibmFjeW81cllQREhPX3JsbHpQeU1DYk5rQl9wbmdzdkU0MHZwRWRhNnBWd1gyLTJVZlpIWHlZODk0WXNUQnpNb3NSUnFuZXRhajdTamFxekJTQkx2dWw5Z2lPOWM0T0RlR2xGakc2ZE84dE5XTlVIUm5wSWROSnZlZ1RGRXlxc0ZvQjhRaGRoU080OEZua1dtNGZFZGVQbW94bERTeG92?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sempra (NYSE:SRE) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkUtYlVzNlNycTV5ZW55MzU4MjdrYlFNc0FjR1NfUGtPT3pfbnVjNDVzNGljeHFJbHhacVZpUjJWUEhIOWJnNHRZX0lvSjdIWGc3UXlzcW5VaklxaUV1N0lMa0FIc2dJdFdjR082ekI0Q1FjSHBmVU9wakJHb2JaMm0xLXJpQTQ4RE1uUE5Tb0ctVWZNZUY4dEVUX3pjNWxuSnFmY3dHU2N5LVhlbVFRTDJxZFB4bGcwc3BncFR6TFZHZw?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

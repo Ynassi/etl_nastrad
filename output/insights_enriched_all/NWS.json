@@ -2,16 +2,16 @@
   "ticker": "NWS",
   "name": "News Corp (Class B)",
   "sector": "Communication Services",
-  "market_cap": 16427439104.0,
+  "market_cap": 16234465280.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 38.884148,
-    "PB": 2.202459,
-    "EV_Revenue": 1.94,
+    "PE": 38.219513,
+    "PB": 2.164813,
+    "EV_Revenue": 1.912,
     "ROE": 0.067150004,
     "ProfitMargin": 0.04743,
     "GrossMargin": 0.51948,
-    "DividendYield": 0.62,
+    "DividendYield": 0.63,
     "DebtEquity": 32.188,
     "CurrentRatio": 1.676,
     "QuickRatio": 0.892,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.06533648142519095,
     "ROA": 0.03528,
     "PEG": null,
-    "EV_EBITDA": 14.405,
+    "EV_EBITDA": 14.192,
     "BuybackYield": null,
-    "PriceToFCF": -24.478906115399667
+    "PriceToFCF": -24.20666368898333
   },
   "technical_indicators": {
-    "RSI_14": 45.63440720664584,
-    "Momentum_10": -0.2501561127303893,
-    "MACD": 0.166838820289648,
-    "BB_Percent": -0.0254720197776272,
+    "RSI_14": 38.312197625367006,
+    "Momentum_10": -4.202328410912832,
+    "MACD": -0.0586000200673382,
+    "BB_Percent": -0.0334413945187926,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9299369094620358,
+    "ValueScore": 0.8884610530112462,
     "QualityScore": 0.3299878861152479,
-    "SignalScore": 0.6136535910898169
+    "SignalScore": 0.6604373131206089
   },
-  "volatility": 0.016231846559062,
+  "volatility": 0.016215693612231,
   "beta": 1.247,
-  "return_6m": -0.0096285731618711,
+  "return_6m": 0.00038868048455,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 1,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 32.37
-      },
-      {
-        "date": "2024-12-10",
-        "price": 32.19
-      },
-      {
-        "date": "2024-12-11",
-        "price": 32.14
-      },
-      {
-        "date": "2024-12-12",
-        "price": 31.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 31.43
-      },
       {
         "date": "2024-12-16",
         "price": 31.35
@@ -537,27 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 31.85
+      },
+      {
+        "date": "2025-06-09",
+        "price": 31.82
+      },
+      {
+        "date": "2025-06-10",
+        "price": 32.02
+      },
+      {
+        "date": "2025-06-11",
+        "price": 31.83
+      },
+      {
+        "date": "2025-06-12",
+        "price": 31.67
+      },
+      {
+        "date": "2025-06-13",
+        "price": 31.35
       }
     ],
     "current_price_data": {
-      "price": 31.85,
-      "change": -0.34,
-      "percent_change": -1.06
+      "price": 31.35,
+      "change": -0.32,
+      "percent_change": -1.01
     }
   },
   "news_sentiment": {
-    "summary": "News Corporation a récemment lancé un programme de rachat d'actions de 1 milliard de dollars, suscitant l'intérêt des investisseurs. Malgré des défis dans le secteur immobilier du Nord-Est, le marché de l'habitation aux États-Unis montre des signes de reprise, avec des marchés de l'Ouest et du Sud en tête. L'annonce d'une mise à jour du programme de rachat d'actions de News Corporation a été bien accueillie, tout comme la montée en flèche des bénéfices de l'entreprise, qui a atteint un niveau record. Cette actualité favorable a contribué à renforcer la performance des actions de News Corp, qui tentent de franchir des seuils techniques clés, indiquant un potentiel de progression sur le marché.",
-    "sentiment_score": 0.15,
+    "summary": "La société News Corporation a récemment lancé un programme de rachat d'actions de 1 milliard de dollars, suscitant l'intérêt des investisseurs. Malgré cette initiative positive, l'entreprise a également annoncé la cessation de certaines actions de catégorie A et B. De plus, News Corp a surpassé les estimations trimestrielles grâce à la croissance des segments de Dow Jones et des services immobiliers numériques. Cependant, des nouvelles surprenantes de la Fed ont provoqué des turbulences sur le marché boursier, malgré une clôture en hausse de 200 points du Dow Jones après l'annonce d'un potentiel accord commercial entre les États-Unis et le Royaume-Uni. Ces événements combinés pourraient influencer le sentiment des investisseurs à l'égard de News Corporation.",
+    "sentiment_score": -0.05,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.65,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "News Corporation Announces US$1 Billion Stock Buy-Back Program - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek4zbHRyOTlaM3ZXNTVEMlplQ0E0QTZXMkQ1T1dPdmtxR1B5QmxpYlpGa0gwdkNMVzltN2o1M2ZKWHNNYmRXeFhSeTNyNnp6SW9CUm5xNjlVbzZ4ODFGRjBSeWFFbFJNbVdQakdfUUhEbzRXQzRDSFptY2VkcHgyeGRUYWFKX0FDeFJfOWtyQXN2aXZtS1h4Q0loRXhuUXJ6YmIyeHJHcnhWYW5RTm5oSk1QLVBnVTA?oc=5",
+        "title": "News Corporation Announces US$1 Billion Stock Buy-Back Program - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUlUWjlpWjllb1RsMG1oSGg1OThHdU5RNGxjQ2cxZ0hDS25aQzNJeVR5RzVUZHJiSXdpS1BLLWpMQ1NxLV9CcC1idDczUDRFWFpIaXBHOWIxdFdOSm1tNFFSbF9LVnlNb1otdDlLQ0VWRDY2bTVqRDJVeFZxVWlZRGM2eTJnMU93c3lMMFkydkxVZlVhcEVWdTZ2V0RLczc5RjZreEVaRDdWNTZwWmk3S1Q5UmxXNnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "News Corporation Initiates $1 Billion Stock Buy-Back Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhibWRqQndNNnpiVnd0SkVmc1lyeVgyaXZ1LXpqcDZhX3BvSUVBbTh0TzlNYVdtYWlkdFlVVmkyYXZwcHVnNGJQQ3FEVDFrOC1oQmZwZHdQRUpVaG1DUmgzSkRHQWJJWGoyblNkeklfSktmWHY1T0xwTndtZEJhVmlIR3Y2UzJNd2FyOFBTZV9QVDN0TENULUFLeWNYYklNZWtiSVg5ZnlKOW54WHlIM1g3MTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Record Breaking: Real Estate Investors Now Leading Historic Market Sell-Off, New Data Shows - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2ZSenFYUkNMN0RKMy1pOFl5SlJKQVAxNjBKdV9kd3FkR1ljcTZCTGl5N2xORlFIWFozaWloS0JXcU5OaV9ob0pZZm5HQnEyUno4aDRZdnpfMVBlVGM5TzJjbEFMejY0bjMyTUlBTFVrdHpNQlFzT3VJUDcxU1NBWlhja1R1X3V4eXR5RnNDVWlqWVY2LXlBMmtVNWowMk5CaWRDN3dXYU5rdHR2bkdfN3AyXzZvWVBK?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "News Corporation Announces $1 Billion Stock Buy-Back Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUltYUxTTHFIUFBDMXE4WDM3STEwd2xfX0ZXSlc3MGR1WGFLMDhZQlpuWGVablY3ZkdmWGVWOHdINi1mcGx5LTJSSy1ZT1ZPTjdkXzFLWXZNMVhlcklETkRrVmMzeXRxdjk5cEZNZ0dVblhwRmc1Q1dQZzlkWHpmVTVmcksxSWQxZGlXUlVKUG5PWVpQay1yalVudkZlbXdUcktuMDRJTW1vQmRsejI3WVIyQXU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,28 +581,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "US Housing Market Milestone: West and South Lead 1M+ Inventory Recovery While Northeast Struggles - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEgxUFVsenpEems2X2swYmtKSnVGYWt3cE9JdkxqOUh3cDBhYXczeGN1RThQTHZaZlpxdzZFeldWTDNoVFZwNWN4QmwwNDBKR2hlbmQtM2VRNDVDV2xDNGduOEdHekUxOWNnbS1IT0R6Z2FDd0liSWJLTDRmVmU4OTVwVGtzQ1ZoTXJMV0tJYWl5R0FjVEI2S19oTXNvYm5vd2I5eW1VdXd3Ym4wdWNjV2RnQktDUzRQZFE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How to Take Advantage of moves in (NWS) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFRiX3U1Y3c2TjFGSlVrUERFTE5CNW5pc2I4c2o3VHI3ZjBUd2RKLVprQ29lZWttcExMb254X09SdE9WaWc4Y01NYlJUUzZOTENmWWdHMm1PQ1pmQlFvbzRNWjZrTWtTc1Uxd0hEdFpZc0NhMHVIYVp6Q21kQWRJRDFQa2FCeDlyeXkzYjRaMENEZjgwZlZWM25vRWVmcm9EWFRMR09weERkNW1GOXl5TU1n?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "News Corp Gets Key Rating Upgrade. Prepping For Breakout? - Investor's Business Daily",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjhDOFNSVlJNZTg1eXVhWlVjSlFXMUR4dWlPMkhvdThfaksyV2NLTjBBNlNzRDViRnFMek1KQ1BqR0c5NkZTejFkV3V1aFdQR2dnanBaX2ttZWIzUkN0enNrNWotUmkzbHhRYlo0N2pPb3doa0RrZ3ctcHlfWHh5Zm9BempsWVpuU0sxSlB3d083QQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "News Corp continues stock buyback program - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM19mWWtzVm83c0dGbnJpZmZ6Rm1tUUJYa0xoeFM4MktMU2xjdDFwYVM1YzZiQlpXeVF1SlJFaHpXY0NNdlJRQmVHUmF4WEZyVW9ENEFyZTRoaU9FWWhxTmtiVE0zblBVY3gzOFFoUnZMYVhpcGxmcWhsM1BnejFVakRvenNCdU9LVzFyVjBFdmtjNi1JNTU4Y2M4MzVrdw?oc=5",
+        "title": "News Corporation Announces US$1 Billion Stock Buy-Back Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2Z6aWFxTHRVZmFfUTgybk05XzJKLWtKdkhQWUs4cFY4V0dET0NXWW5PRksxZGJuTlhzODRXX2hrczludEVpdDFyS2Ftd3N6amFQeUQ3alZ6Y0hPUUg5T21SMWp2SVVYc0RKa2JwOEtHWVlXLUsxclVDQ212ZEYwakgxY0pKblBiaDRub1pfMnZqY2FNRXlWZFFfWE96YTFCbGFaUTZZaHhkZkM4U214RS1SeW51MkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "News Corporation Announces $1 Billion Stock Buy-Back Program - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1NyWThpVkVUQUNhd3dBT0ppd2pDQXdmSnU3aTR4M3I2b3NzckFaUTM0THlqY1BYUU5mX2w3bzJlUkhBa3lxOUh0WFluWVpLaTZDTDJ3TEVoYnhjVHJtWkdzNGRIemxGRm9LdGpwWWZMWUcxT1o4N3I5aldnOGY4VWVjUmVEQlVRc0RVZ1c4dV9PazZTc05Na3BQOVZQbmV3TUZzX3ZhTHNJcHlvazNHd2dSYm8?oc=5",
+        "title": "News Corporation Initiates US$1 Billion Stock Buy-Back Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFk4cmVwNThEc3RfUlUzbjRpTWVxcE96R0ZlNVBtcEdmc0l5anJZcmVsdnlQMW9UZEljVklPbWYyWXlkUUlXemY0VVM5T2VlMmpQbHp5eVBVanlpZFVQVVQ2OW1WRFZCVVlkdGxFc0VDeDlYNUg1N1pQcnB2d0dxQi1xcFRYaG5EUFFlWGdncGtOZVRDM2FWRXotQ3h3M1dYWFZvXzk4aFNfLVliZ291clJDd2F5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "News Corporation Ceases 64,032 Class A Shares in Buy-Back - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm1QSEFIQzAyVkdiak9FTXBhS245TXNuR1dHdkl1bmVtNXBmX3dWZGFpNnQ0OC1kRXp2S01MaWEwYmRaME9waldOdUE4Y1lvcnQxZy1xV2x2RWItemNTMDhPRVZCNjMxU21iU25yX204aW5nNFE3M3BOTnpYWnplczFMdVA2UW45WHNFT1k5MWJRX2xyc3BuRUw5MG9QOUlJV3pKWW1LX1hsYjZ5?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "News Corporation Announces Cessation of Class B Securities - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUloeTdRbDJVQ0FwQTZtRFFORXdTR1YzQnQxWm5Ja25KZEhURWwwRE1KcWtLaFNLa0t2dEZCUWluWk9aM05GTGRRN0hfMkk0VEtkWWhvR2JHalRTYVZoZ01HMmpBcTU4UnloTlBlUlZtRE9YbWMtX1pkaFBVRXctNEtFendZMkdUQkhFdDlRM1JjN0JaZnJIV2xxNWVueEhrM1o3VWhPVXZvOTdKdWc0T2F3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,19 +611,24 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "News Corporation Reports Changes in Chess Depository Interests for May 2025 - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWNlVE9DWDhOaENzQlVzcTJPVVlydXl0dm5zcllYX1prdUF1XzNJcFpHR1lWUVQ4Nml2LVNsSkpXekJZNHJkSFpVckJBbTZaQVJGRGtNTDFLOVBLVWtKQVpFbjdURm02NS1FXzZicTViNmxuOUVKd2VTd1FNNzkxeVhGQ0k4aW8xVGptQVB2cndkWEN6MnUtbGk4TWJ1QndlZlljYzJBald4MVEzRTRjdTNTeFpneVMwemJLaVhleV9EaVZ3WGc?oc=5",
+        "title": "US Housing Market Milestone: West and South Lead 1M+ Inventory Recovery While Northeast Struggles - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEgxUFVsenpEems2X2swYmtKSnVGYWt3cE9JdkxqOUh3cDBhYXczeGN1RThQTHZaZlpxdzZFeldWTDNoVFZwNWN4QmwwNDBKR2hlbmQtM2VRNDVDV2xDNGduOEdHekUxOWNnbS1IT0R6Z2FDd0liSWJLTDRmVmU4OTVwVGtzQ1ZoTXJMV0tJYWl5R0FjVEI2S19oTXNvYm5vd2I5eW1VdXd3Ym4wdWNjV2RnQktDUzRQZFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "News Corp beats quarterly estimates on Dow Jones, digital real estate services segments growth - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd0EzbGpVekg1NThYWGszdGhkQkdUZ0trazJpcnMwTEdPY1RBdlNMY3VuT0ZmZzExWl9qRmNwYTNHRW5aSmNXbXVFUHNubm4zQU9DemxLQnlBaXUzR2wtamFYV3hxaVN4Q2ZibExoOGJXS1BVN2lpMFhKQjRVbi1LNVdhX0hZaUhIZTV4aWVHYm5lT3Zpa0x0RDFETFdBWmVwdk5nMExMUDAxLW8yV0VJcGppRXpYekRVU0ZiYkJzSnpGWU9vRWpUVmdzZG9sUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "News Corporation Updates US$1 Billion Buy-Back Program - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTdiZ09TcmtZOUxEdDh5VUNWUGhHUElRbW5aSGJudk41aHlTRlp2QndLRjNHOW5uVzJ1THM4cDl5RWoyX2V3VnhtMktaOXlNZDhHV2ZrdHpqVjVISEhYeS1MZlJZdEtBVnNLMDNNNDd0UXRzb2xrTmxsUE1OZ1pwQWY2OS1pVldYT09uZ3JWV1lNaVBheVlWNUhHdDItX193S3gxcWt5TnZrSkU?oc=5",
+        "title": "How to Take Advantage of moves in (NWS) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFRiX3U1Y3c2TjFGSlVrUERFTE5CNW5pc2I4c2o3VHI3ZjBUd2RKLVprQ29lZWttcExMb254X09SdE9WaWc4Y01NYlJUUzZOTENmWWdHMm1PQ1pmQlFvbzRNWjZrTWtTc1Uxd0hEdFpZc0NhMHVIYVp6Q21kQWRJRDFQa2FCeDlyeXkzYjRaMENEZjgwZlZWM25vRWVmcm9EWFRMR09weERkNW1GOXl5TU1n?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "News Corporation Updates US$1 Billion Stock Buy-Back Program - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlpVQ1JfY3c0VzhiM2dBSDI3VUVmQ2xtUERDTzNRdlpSVHhQVVA5ZUE3SFFEd2w0SlhydVdTdm9MVU4xSEFHU1FXMS12MG5aYkhZWE9oRFlLdm9aR0J0a1g4MWhaeTM4elRrRS1oT0N2STN2ZG1XQkxJd255SFNVLTlxVEowendNNVRXeElBRHE0anNhdHVncGJWTW9CWVA0QkFsY0JRMUw4enlQcHF6N3RzTXk?oc=5",
-        "label": "NEUTRAL"
+        "title": "Foreign Real Estate Investment in US Jumps 12% as Texas Attracts Global Buyers, Miami Leads - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFRnNGNhNGJ5Vm5NVFc2TnpQX3hsdlg5RjFrZXJCTlRGQkp6cDlDN2t3Wlo5VlFMc2hRRVlMZmxSbEVLcWxTV3V5MVcwSnoxSG1wVGQwUlVOTlNZcnBMNk9sWjJGU3dCUXM2VEhab3JabW9KWWNwYmY1UG4zclBZLU5uNU4wX3lJdlBta2VrNVZ3N2k4eW13T1p6Mkc2ckF1RWd4RHlIQ21GNkw4eUNSaXNmTHJXOGVZNGc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "News Corporation Stock: Is NWS Underperforming the Communication Services Sector? - Nasdaq",
@@ -616,14 +636,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Are Wall Street Analysts Bullish On News Corporation Stock? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDl0c016QUN3R01rUmZTeGZHSEtqVVZ1Ymx2ZkFmR2FMV0RNSkxyeU40dHRfamdjV1NHXzRxM3o5NXpSWTJtT3hudUllRmxCTmxVWGZNVVVCcEQ4ZnlZVVc3eGdOV1lJTkt4WFowVnd4RVB0OV9nbWZjZ2RZUEt0M2N0anphcnhVZi1uMzNQMXlRbTBrajBNc2dyQWlUeGt4X2g0Mkh3?oc=5",
+        "title": "News Corporation Updates US$1 Billion Buy-Back Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTdiZ09TcmtZOUxEdDh5VUNWUGhHUElRbW5aSGJudk41aHlTRlp2QndLRjNHOW5uVzJ1THM4cDl5RWoyX2V3VnhtMktaOXlNZDhHV2ZrdHpqVjVISEhYeS1MZlJZdEtBVnNLMDNNNDd0UXRzb2xrTmxsUE1OZ1pwQWY2OS1pVldYT09uZ3JWV1lNaVBheVlWNUhHdDItX193S3gxcWt5TnZrSkU?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "News Corp Stock Reports All-Time High Amid Surging Profits - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGZVMzFxRzVjNDExd0JlVFlfbDNRUGZjSEh6ZTlsSXhHUklGbzBQMnJNYWlKUk8zSzJNYk1wS015bG5kTjRSM1M2dWdFbmJ2RGYxaXBOMllDZVJJbTBLR0JGbW5xcVRZVVUyOG9KckNzOTZwSTFEUWg2RFFxS3hRelRn?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Startling Fed news sends stock market reeling - TheStreet",
@@ -631,31 +646,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Stock Market News, Feb. 5, 2025: S&P 500 Turns Higher; Google, AMD in Focus - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQWF9DV0F1TzRseU1jXy16M1ppaERCbnRVMHEzRFVKMEM5YWdrcjljSUJFaGVmTERCVEd5NlN2dFNOWWI1SXFkb0xYdjl0eFlOYmJ2OVVoOE5mbEs0cjV2MV9ibWd2eWlLeWJDUkhhOTQyTjk5eTJHQlhNQmFVOHVhMERMTExNZl9DcVZycVp5Y1NxSTUtcG5NTjlRT1JnRWhES1RRSVNpdGh5dmZtQlFsekF4UklYRDlmZWY0cGtrX0tRTGY2b2dsTDRyT2ZUODJ2cm5QV3VKeEhmMmlzWVlWWXZhWi1nS0VwaXNnWkpna0xHLWI4d3JoaFF6QU11TEF3MFVENk5LcTFaZ1RfQmU4S3dkSUhOTldPZjdpSDJSckJHVTN4VjJSOHh3SVVQd184TDlUYzMzcnFEVG9BcEpSY25OU3NQQU8xYkprdmRwY1kyRUE2eF9pWmRfN3EzQWtfbXZtVnBaS3R5RF85X3dqVFdVMGhZa1FER25kYm16Rm0wTGZuLVZEd2dUR2dYV3NrYlE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "News Corp Cl B Trying To Close In On Key Technical Benchmark - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdExlTnRzQjFKS2xvWWhqT3ZHX3N5eTA5eWRnWF8yT21uOEV0blBTZU9JVW5aUGxRVm9penFhNTN2MkRSaDNzdFdIS01HQUp0SWxIWHAxa1V3VGlJQkhQamtuVVlBcXBUWV84M0tKVW9rOWtReXBVMWp6aS1fTGpJd3MzVXdmZnlVTnFORXRyRDNhcVEyZHlRUXlEVjQ4ZHRhNEQwRlptOA?oc=5",
+        "title": "News Corp continues stock buyback program - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM19mWWtzVm83c0dGbnJpZmZ6Rm1tUUJYa0xoeFM4MktMU2xjdDFwYVM1YzZiQlpXeVF1SlJFaHpXY0NNdlJRQmVHUmF4WEZyVW9ENEFyZTRoaU9FWWhxTmtiVE0zblBVY3gzOFFoUnZMYVhpcGxmcWhsM1BnejFVakRvenNCdU9LVzFyVjBFdmtjNi1JNTU4Y2M4MzVrdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Pool Homes Command $210,000 Premium: New Data Shows Where Swimming Pools Add Most Value - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0RJX0NEenZjZ3Z2NGlTQnF3UGV6QzRGc0RZNTM5X3pNRmYyTUVHRjdUOEp4dzFQOGFxNENMN19GS0VWQjJrdG9rQVFIVHJkX05tcG16MVZVY2tJelIwRUZvVjRvazVlVHZoNmVEN3NCcjh5aC13VUt4aFNaNGJwUktXNEw5SzQ5YTY3TTZCTEhDZ0ZBWU1VYUVYUGtpWHV2UFVmWkJQaEZTOEhJUnRGTVkzU2RlNEw2?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks Showing Improved Relative Strength: News Corp Cl A - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlAwa09vbDlSSDhObktiVk15WUhuNThGd3M3Z3Mxd0lQbEhFOXctZjlvMUJUd3AyUE0zMDFMNzF4YnMxdW9mOGl4SjVmelYwRk04Z0lpSGg4R1UzcUZsVnRacDNmVHMzOXNJMkl1RzNnMi00dFVEN01BRGVjNG9lcG01X1JwYkVCWHpTQ3YydjJPSl8xaWtvd3BlLXhEUFBSOS1DRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stocks With Rising Relative Price Strength: News Corp Cl B - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTdPNzlxS3M5RU8zNEM5RkxUY1BNbjVncTZSbi02eWpEQjJuaFRRVnRJMEVBLUlzTXQ2VFhUN3lhNFNVNGNWM0N3TGp1dkM3RTN6RnZwa2laR2VFTkhCZWk0b3J3aDdEcjBwMm1NODN6MmNSVURTTWpfZTFmS3JyZTkzUm1SZFdKZFRhVnA4TlVFLW1DWTRfSXFwRmMyVjl4bThNLXBB?oc=5",
+        "title": "Dow closes 200 points higher after Trump announces outline of UK trade deal: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HZUFFeXlrdnhTUXktd1dXWTFmZ3Y4Z0FLYzhqeDExeDB3SXJWbldScy12MkstSDhaTHkwSGNPbkduVTljX0YwMEJQWkJGVWZGeDBSNkJZdS01VWdhbDBnS2VkNjRnOW51ZjNaYTBUMXRIczRuV2Yw0gF8QVVfeXFMT2otcWtOLUpfZXVtb2ZmM1JPMmpfZUVoX2NVR01vRlhOTzlEbkRsZ2tpSktGZlRoU1h0eS1icmNPZFNCY1ZxbUxTZmExU2NKSkxfNWZtMjVoQmNXempMNlhJZjlLYXBlSE1MUDUwRGp4bGtuQUxueUtFZFhvaA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

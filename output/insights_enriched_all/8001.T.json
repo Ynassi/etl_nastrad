@@ -2,11 +2,11 @@
   "ticker": "8001.T",
   "name": "Itochu",
   "sector": "Consumer Discretionary",
-  "market_cap": 10618404864000.0,
+  "market_cap": 10381747552256.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.163566,
-    "PB": 1.8341657,
+    "PE": 11.900971,
+    "PB": 1.7932868,
     "EV_Revenue": 1.006,
     "ROE": 0.15325,
     "ProfitMargin": 0.05928,
@@ -22,50 +22,30 @@
     "PEG": null,
     "EV_EBITDA": 16.48,
     "BuybackYield": null,
-    "PriceToFCF": 44.17267731629393
+    "PriceToFCF": 43.18818037912673
   },
   "technical_indicators": {
-    "RSI_14": 53.693520824719656,
-    "Momentum_10": -0.2662052442433116,
-    "MACD": 103.0977725068342,
-    "BB_Percent": 0.3260003006417496,
+    "RSI_14": 44.92204334632958,
+    "Momentum_10": -5.348837209302325,
+    "MACD": 37.63353496824311,
+    "BB_Percent": -0.0178737167581865,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341326518585656,
+    "ValueScore": 0.8952574905552316,
     "QualityScore": 0.3635434005962226,
-    "SignalScore": 0.5516913721157359
+    "SignalScore": 0.6269083158988544
   },
-  "volatility": 0.0204015625309632,
+  "volatility": 0.0203500045763733,
   "beta": 0.519,
-  "return_6m": 0.0023537474356825,
+  "return_6m": -0.0398727103972117,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 9,
-    "target_mean_price": 8644.444
+    "target_mean_price": 8690.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 7580.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 7673.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 7705.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 7700.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 7820.0
-      },
       {
         "date": "2024-12-13",
         "price": 7737.0
@@ -525,39 +505,44 @@
       {
         "date": "2025-06-06",
         "price": 7493.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 7496.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 7434.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 7466.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 7381.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 7326.0
       }
     ],
     "current_price_data": {
-      "price": 7493.0,
-      "change": 8.0,
-      "percent_change": 0.11
+      "price": 7326.0,
+      "change": -55.0,
+      "percent_change": -0.75
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière l'intérêt soutenu de Warren Buffett pour les sociétés de négoce japonaises, avec des prises de participation significatives dans plusieurs d'entre elles, renforçant ainsi la confiance des investisseurs. Cependant, des doutes subsistent quant à la qualité des résultats d'Itochu, malgré ses projets d'investissement ambitieux. Parallèlement, l'incertitude entourant les tarifs américains semble stimuler l'attrait des sociétés de négoce japonaises, tandis que la baisse du marché boursier américain impacte négativement les valeurs technologiques. Enfin, des mouvements importants se dessinent dans le secteur des énergies, avec des cessions et des investissements majeurs en perspective.",
+    "summary": "Les tendances clés des actualités économiques récentes concernant les entreprises cotées sont les suivantes :\n\n- Les maisons de commerce japonaises voient leurs actions grimper suite aux commentaires de Buffett, avec une solide attractivité pour les investisseurs malgré l'incertitude des tarifs américains.\n- ITOCHU (TSE:8001) présente un bilan sain, tandis que Berkshire Hathaway renforce sa position dans cinq maisons de commerce japonaises, s'approchant des 10%.\n- La famille derrière Seven & i abandonne une offre de rachat de 58 milliards de dollars, entraînant une chute des actions, alors que Warren Buffett continue d'accroître ses investissements dans les maisons de commerce japonaises.\n- En parallèle, le marché boursier américain se redresse, mais le Bitcoin baisse et la confiance des consommateurs chute, influençant potentiellement le sentiment de marché.",
     "sentiment_score": -0.05,
-    "label": "NEUTRAL",
+    "label": "NEGATIVE",
     "positive_ratio": 0.15,
     "neutral_ratio": 0.65,
     "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "Warren Buffett Bought 13 Stocks in the March-Ended Quarter -- 6 of Which He Never Wants to Sell - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFA5WTc4SXFEa3RqSm5tcXpKZTlqNDlxQUxwNEZIVjdpX1FlZnJmVDJWODZPMlA5aC04SlV5cDdmYUw3NUI4UF9oN05NVWo0UEczWWxHVGNuYUNDUVF5dXN0REVvNVNUM19BTnBJXzk4S0twM2pNSy01ajNvQUowdHdSTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ITOCHU's (TSE:8001) Earnings Are Of Questionable Quality - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0dxMlNMRldkaXpMLVd5aG16MnlpSHFvTnJhUWpkNG05QzhPNjhYQlVyZzhLXzg2Wm9mU2lyakN1WjdqV2tXVHVJRmczTTJHTlZnWXNEeGpWdkJZVGVQSzRNaEZsUzgxX2NyWEJiVGVoN0hvQ1NZSU82YmRUaVk4VTlJdFhLclRlbXJqUTdWVEY2R21JUDU0M3hJQ0ZaQjZvWkM3YUZ6QUplRWNrRklWaHR2OGZCcDVrYjNrMzI1R0R1Mk9z0gHKAUFVX3lxTE5hWmtFVlZGOUZkRnhCX21DbjRwMDMycGVZTmI5OW0tcUpScXAyNXE4bi01UHdXY3A5QmlfQVVGN3MwREhKaVBicVJOa0JDXzRNRy1sb3Jta0J0RDdjbG9teXhHMXlnLTFzWXlCcGhjYURaWENvTE5qT0lxUW1ZTFFRLWVSWlctUU1oOG9KTHp4RkNldlpTYkJtTUFzU2lwYVRHc2JPRG1iUDJ2SWNGMWNMclI1a3hROW5UN25MMnBvRlZ6V3NENmdfVEE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japan's Itochu 9-mth net up 11%, firm weighs investing in Seven & i - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXBHSWg2REtxR3JoVE1MUmpmTFZWR3hfNFdpZVRZaG5ucF9nUEpuWW1iRDliN3NOSWM2UEM5U1NXVm4yUHhqTWthZEtWZ2pUc2dCaGlUQWtRaUphcGozNjFRbjUzdTJ6Wi1SdHZHcUp2WHZrWDYxUlhkblNlOUZjbE9kZnF0R2NReGpKYTFhY1M5TTQ4bjFPVVZEQkI5T0NHRHhJa2M2QnRpd3JH?oc=5",
-        "label": "POSITIVE"
-      },
       {
         "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
@@ -574,6 +559,21 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Warren Buffett’s 2025 Portfolio: What Stocks He’s Betting Big On Right Now - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaVlGNGs3Z0VsY01qRUNTZ2FFM09LUGwtN09fSFl1VlF4dlNpWXdfZjVmd0ZKUWFBTWQxTVhYXzdzcmUzQkZLNkZzb3gwRHMtLXpvUXdySVUyQUY1bjI5WDRKYUdjOWpocFhVTEQwMExyT0owUlpSMmZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ITOCHU Corp Faces a -1.54% Impact in T. Rowe Price Japan Fund's Latest Moves - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01Vi1pV25DNlVrVkhpWC1rTm1jMWx2akhlMnp1XzZMbEhQS2Uya0VieXFWSXVpNFd5U2VGOW5PanV1WTBmRXBzZ1FPbDdLamNGRmY5UUJuNnhJRS1aRG1SOXZrcFpmMDhwbFBmSEFNMU9GMXczemxz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Family behind Japan's Seven & i pulls $58 billion buyout bid, shares dive - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmg5T3o3akFCTGFTRDRZSkptNGdnSjItRVFjOFF0X19zRGd1VVRDaVRMSVZPM2ZkV0FzbFJNLTdZQjk2YkV2OGE2eFV5VDVVbUxGQ2tMQzB4NUF0OVozVm1ldkNFWDBoYWUzSHRkOGJJUzdKNXdWSWRNRm4wM29weWR0T0NlMzNkVERSdkpmLS14V2QyOUVBaHJhZmNNX1VYcmxZYmRZX0hrTnBNYmphUlUtNkdna3hIbjdVR2U3TVhwM3JkcnNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Seven & I founders seeking investment from Charoen Pokphand - Nation Thailand",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85NkZZZmFIV2R2SDZPSmFfQXhKWVRxX21VOVFfeTFHc0c4aWVlOUl1OFRIUjBsSHpyY0lFS3h6ZzBBWEktUFd6eFNER0pMcWdiMmVRZDJ0NVJVWnA5bUcyQjVWR01JN2FtTmc?oc=5",
         "label": "NEUTRAL"
@@ -584,23 +584,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzlqV3h5Qzd5V21wLXFkUm9ORkdrY3hUTFdtNjVDTXQxM1RnWTQwdllVZjRzdUc5akpEZFZ0eU4wQmszaVl1Mk9rWENyR1dlN0lHcUtncVF3MjFwdDNpWUhtWlpSRnZ2ZHRsVFhaelVqTWpsMzBsZzRyMFFwUW5WNWNuTDU1bFRsaEFDSDktTDdBZHFGYWRBZ2ZBYkRZYmRIZmV5UzQ3ZFRUZHhMN1laUWdVR2ZZOW1RUEZTemNEZFlRWkFSUWoxV3g0N2NfRG1Tc2Qzd1BPdHY4T2VrTG1F?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Berkshire raises stakes in five Japanese trading houses to near 10% - Reuters",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5zN0g2eDFDeVV6RlJXeWF1eUFIaHhNNFhyeU1UaW9ZSEs0aHRER1VhdEZUeDJEUlM1SDF2RVdzV0p5NXpBeTlhY29zSmx6UWNkeTlBMldodk5Ja0lVUWpPSE5sajA2QTVzRVo4N05OcHdlenhaYkI5ZGQyTThXdGdWa0luVFNHT2M3Q2RWdTBGYXYweEJ4WFhVUF9uMXZ1YVdQYUVkYWJnaFdQcnNhOA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
+        "title": "Warren Buffett's Successor Would Love to Buy 5X More of These Stocks. Here's Why They're Good Picks for Other Investors, Too. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHUwWTBxcFFxODZOa1BXYzY0T2xIWUo3Z2JvdUtIOU53dTgtcWY5TEYyaGNsSEZJXzZQSGdzaEVlTVVDZmxORm9hQXBDaUUyWXFycFFyV00tREVmVmozZ0lXUHRnVlJrRFRONDY1ZzQzUmlzVEh0M09ITlNKSnU3NUtLNjAxSlE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -609,24 +599,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Warren Buffett Loaded Up on These Stocks As the Market Sank. Should You Buy Them Too? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmtYYjItMlAybzRJNWdPYmlCekJDYWNTQlFjanBnU25PVmtkak5zZzRvSkVGUnFvS2RIWkFUd1hKNm9JVHo3WUNObGZoNkp4eF9KLUtvV1VRVWtxWlBxa0RUYUI3YVdOZWwwSUNCQkY1ZlRIUTljOGZiWGpxWTZzUGxtQmJDa0Zp?oc=5",
+        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Apollo considers $9.5 bln investment in Seven & i buyout, Bloomberg says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUFkd2pfX0F4UVJCUm95RjdwdUJNNFpEdUdlWVRSZl9XMWktRDZ0T25uLS1WYy14NlVSa3ZVU2FiUGhDek96Zl9qbF9wN09tQjdQTEt6eWNFbmtFNFhrOTVTVmxmWDk0SHBRVkUzRno5dm5RMlE0ZEdjYlBCUlZFeFkzVl9XVVZFVG5QU2RPTzdHUFd2eEZEbG0xeG5kcHN3R2gxSGNYWlozU3Q1a2NZOFo4OWZreGM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan's Itochu plans record 1 trillion yen investment to drive growth - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHYzZXhoVGxoWm5TWldmb1FKRWRnRUEyc0lxajB5QjFZVDhQVHhZc2dONHJIQnllZml0c1hfbTVZM2lkZWN4ZjVDbW9pTTlMQ29VbHMta29XNkQwTXNZMFlBNVV1UjNBTnVoUndwNXozTm5pYk9fY1g2Z3NtY2FacDVHRTJocm41OXB4NVd4bnBvOFFhNUpRZklobmJ0aDdwMlBiZFZWMVZ3OWxldTBpc0Zhd0RXaG9kU3Zj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HR3VHRXFtY2ktbTZrWHo1OWZhRzJ6aWQyU3o0WU1aYUZYT18wUTRURExDcTQ3TnhyZnpjeld6a1M1VlFMb25BcDUzQXVQM0laOElyQVFVRlVucGViOUl1VGhDTGJoTnVlZWVVNF9sZ3hzX0FITXg4TFVB?oc=5",
-        "label": "NEUTRAL"
+        "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzlqV3h5Qzd5V21wLXFkUm9ORkdrY3hUTFdtNjVDTXQxM1RnWTQwdllVZjRzdUc5akpEZFZ0eU4wQmszaVl1Mk9rWENyR1dlN0lHcUtncVF3MjFwdDNpWUhtWlpSRnZ2ZHRsVFhaelVqTWpsMzBsZzRyMFFwUW5WNWNuTDU1bFRsaEFDSDktTDdBZHFGYWRBZ2ZBYkRZYmRIZmV5UzQ3ZFRUZHhMN1laUWdVR2ZZOW1RUEZTemNEZFlRWkFSUWoxV3g0N2NfRG1Tc2Qzd1BPdHY4T2VrTG1F?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
@@ -639,11 +619,31 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Japan's Itochu plans record 1 trillion yen investment to drive growth - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHYzZXhoVGxoWm5TWldmb1FKRWRnRUEyc0lxajB5QjFZVDhQVHhZc2dONHJIQnllZml0c1hfbTVZM2lkZWN4ZjVDbW9pTTlMQ29VbHMta29XNkQwTXNZMFlBNVV1UjNBTnVoUndwNXozTm5pYk9fY1g2Z3NtY2FacDVHRTJocm41OXB4NVd4bnBvOFFhNUpRZklobmJ0aDdwMlBiZFZWMVZ3OWxldTBpc0Zhd0RXaG9kU3Zj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Exclusive: Japan's Inpex selling stake in Russian oil project to Itochu - Reuters",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1NUkstdzk4WTZUWDBmbHpNNjBzTEZPZTQxdHg3eXhyc0NFc2lidXYtcFV0MV96UUg2eHA4REdNRHZURTRYNDg5TjdBV1hyRERUX2xpSV9TNl9NVzdHWjgzbnF6ckhqbThUNVVhdloyYWl6VThXOXp5bEdUSnE0R0s0UDVWa05ZTjBJeEV6YUF1eVZ4U3RRRFVoc1kwdGRqYnFoWGhTS1JfdmhIQ1llYlFfNjh6NkFHRnJPeGpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buffett's Berkshire boosts stakes in Japan's five biggest trading houses - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDY4a0o1WktpUVRQZzN6UG5KTk9MbHllMUoyWktyNl80Q21BMmF2Y09OWS1TTW5ockxQb19EUThZd2hubkloTmZQbFBSREhuYzFwaVkwVk1mTjhYcDMtRDhuUllScF92Z0xDNG5FcjdBb1VyRnozZlhoWVNLMUZFa3NWQnF2UUJkZ3FoSDRnTjloVDdmMFNhT0o0bmVfUGp4TWpjRUxpYjdhaVQ1TFRCTnFQYkgtdWI3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HR3VHRXFtY2ktbTZrWHo1OWZhRzJ6aWQyU3o0WU1aYUZYT18wUTRURExDcTQ3TnhyZnpjeld6a1M1VlFMb25BcDUzQXVQM0laOElyQVFVRlVucGViOUl1VGhDTGJoTnVlZWVVNF9sZ3hzX0FITXg4TFVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Bought 13 Stocks in the March-Ended Quarter -- 6 of Which He Never Wants to Sell - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUFA5WTc4SXFEa3RqSm5tcXpKZTlqNDlxQUxwNEZIVjdpX1FlZnJmVDJWODZPMlA5aC04SlV5cDdmYUw3NUI4UF9oN05NVWo0UEczWWxHVGNuYUNDUVF5dXN0REVvNVNUM19BTnBJXzk4S0twM2pNSy01ajNvQUowdHdSTQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

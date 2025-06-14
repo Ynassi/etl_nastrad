@@ -2,12 +2,12 @@
   "ticker": "9501.T",
   "name": "Tokyo Electric Power Company",
   "sector": "Energy",
-  "market_cap": 597415624704.0,
+  "market_cap": 650124066816.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 3.703814,
-    "PB": 0.15891936,
-    "EV_Revenue": 0.914,
+    "PE": 4.031793,
+    "PB": 0.17294042,
+    "EV_Revenue": 0.922,
     "ROE": 0.0442,
     "ProfitMargin": 0.02368,
     "GrossMargin": 0.11519,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.07336509577906956,
     "ROA": 0.00991,
     "PEG": null,
-    "EV_EBITDA": 10.345,
+    "EV_EBITDA": 10.433,
     "BuybackYield": null,
-    "PriceToFCF": -1.1956802076081678
+    "PriceToFCF": -1.3011719932279444
   },
   "technical_indicators": {
-    "RSI_14": 33.10108749552391,
-    "Momentum_10": -5.475286718254911,
-    "MACD": -9.917364516215514,
-    "BB_Percent": 0.0004544728422896,
+    "RSI_14": 55.70408897238802,
+    "Momentum_10": 2.088047243514151,
+    "MACD": -5.343460739530201,
+    "BB_Percent": 0.8226817817651069,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9361658817254208,
+    "ValueScore": 0.897461251940223,
     "QualityScore": 0.4007887575672184,
-    "SignalScore": 0.7271054382492517
+    "SignalScore": 0.5459853728120723
   },
-  "volatility": 0.0241024434300912,
+  "volatility": 0.0242771815184855,
   "beta": -0.138,
-  "return_6m": -0.2747958283860474,
+  "return_6m": -0.160008315739875,
   "analyst_rating": {
-    "recommendation": "sell",
-    "analyst_count": 2,
-    "target_mean_price": 360.0
+    "recommendation": "underperform",
+    "analyst_count": 3,
+    "target_mean_price": 384.33334
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 514.2
-      },
-      {
-        "date": "2024-12-09",
-        "price": 513.7
-      },
-      {
-        "date": "2024-12-10",
-        "price": 506.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 496.6
-      },
-      {
-        "date": "2024-12-12",
-        "price": 501.7
-      },
       {
         "date": "2024-12-13",
         "price": 483.1
@@ -525,33 +505,48 @@
       {
         "date": "2025-06-06",
         "price": 372.9
+      },
+      {
+        "date": "2025-06-09",
+        "price": 371.2
+      },
+      {
+        "date": "2025-06-10",
+        "price": 381.4
+      },
+      {
+        "date": "2025-06-11",
+        "price": 393.8
+      },
+      {
+        "date": "2025-06-12",
+        "price": 395.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 405.8
       }
     ],
     "current_price_data": {
-      "price": 372.9,
-      "change": -3.2,
-      "percent_change": -0.85
+      "price": 405.8,
+      "change": 10.3,
+      "percent_change": 2.6
     }
   },
   "news_sentiment": {
-    "summary": "La Czech National Bank a acquis 9 501 actions de PPL Co (NYSE: PPL), signalant un intérêt institutionnel. Le Japon vise à stimuler ses exportations de fruits de mer vers de nouveaux marchés suite à l'interdiction chinoise, offrant des opportunités de croissance. TEPCO Renewable prévoit d'investir entre 9 et 18 milliards de dollars d'ici 2035 dans les énergies renouvelables, soulignant un engagement fort envers la transition énergétique. La démission du PDG de Nomura en raison d'un scandale d'insider trading souligne les risques de réputation et de conformité auxquels les investisseurs doivent être attentifs.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.25,
+    "summary": "JERA a conclu de nouveaux accords d'approvisionnement en GNL aux États-Unis, renforçant ainsi sa position sur le marché. TEPCO Renewable prévoit d'investir entre 9 et 18 milliards de dollars d'ici 2035 dans les énergies renouvelables, suivant la tendance du verdissement du secteur. La démission du PDG de Nomura suite à un scandale de délit d'initié soulève des préoccupations sur la gouvernance de l'entreprise, pouvant impacter sa réputation et sa valorisation boursière. Ces événements soulignent l'importance de la transparence et de la conformité pour les investisseurs.",
+    "sentiment_score": -0.333,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Czech National Bank Acquires 9,501 Shares of PPL Co. (NYSE:PPL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPODhxZHdObndzeGh2c0lBcUJ4NVVQRi1rTVhHWG9pcFdDRmwyaWZtY1M2VWhsTmR5SWhfaHFydlhVZGF4akg1RU8zdHBIdXdmS0dUMmY3ZTVwVHNDc2poNUZwZjFtYzdkd3lYNTFmUHdsT0VZZExsZUFkWVp4cWw3bWY3bkZqV3NlbWZTa0FPTHI2YkxZRUlnMENtTkx5eEVwX0tDYi1PMEFvLVpNN3J3S0Nn?oc=5",
+        "title": "JERA Agrees New US LNG Supply Deals - Marine News Magazine",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53S1pBT3pMaDFvN1MyZXYtd2FQQnFhaHJ4ZWxYM0RxeXRoX1Z1VE5aVzY4NTJTNFp6aEhXaHkzNmtqcUFnY2h6UTV2Q2hwSmJoMDZtdDNVejVoM1NuVUJYY2s0am9BNS1scFR1MEJiYkhYX29GV1d4SENxdWdqZms?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan looks to boost seafood exports to new markets after Chinese ban, trade body says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeW1val9oUHBzQmVvc3FjWG1LOEY3bndtVzRuUkpoQ3ZCS3N4cnVwczhQZURCT0FxRU5VZXdCU0NjUWtRVnBTY1ByUU5TSHZWMVQyWE1NaVd1eXZRZUJ2VG5RQ1k5MU9zYjVpYkstdmZaQ2tzd0pVU19iVHR4R0FvOXFzNzFfaFczRTEtOTNCYzFyZkJkSlZfeGppYkVYZENIZ0UwMnU2QXVqd2JCcXdoMlZKR3J0N3ozdVY5UmVKQWlQUlAtTkdn?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "TEPCO Renewable to spend $9-18 billion by 2035 on green power - Reuters",
@@ -565,5 +560,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

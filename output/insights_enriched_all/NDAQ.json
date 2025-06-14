@@ -2,16 +2,16 @@
   "ticker": "NDAQ",
   "name": "Nasdaq, Inc.",
   "sector": "Financials",
-  "market_cap": 48978345984.0,
+  "market_cap": 49064464384.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 38.601807,
-    "PB": 4.2406917,
-    "EV_Revenue": 7.332,
+    "PE": 38.66968,
+    "PB": 4.248148,
+    "EV_Revenue": 7.545,
     "ROE": 0.11415,
     "ProfitMargin": 0.16351,
     "GrossMargin": 0.61016,
-    "DividendYield": 1.29,
+    "DividendYield": 1.24,
     "DebtEquity": 84.587,
     "CurrentRatio": 0.981,
     "QuickRatio": 0.212,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.23464687819856705,
     "ROA": 0.04354,
     "PEG": null,
-    "EV_EBITDA": 20.945,
+    "EV_EBITDA": 21.553,
     "BuybackYield": null,
-    "PriceToFCF": 26.771489500545258
+    "PriceToFCF": 26.793401090512543
   },
   "technical_indicators": {
-    "RSI_14": 74.44797137060297,
-    "Momentum_10": 5.085577268781947,
-    "MACD": 1.912809953378712,
-    "BB_Percent": 1.0128697035548608,
+    "RSI_14": 66.58049719453861,
+    "Momentum_10": 2.3701169569547447,
+    "MACD": 2.032823845829327,
+    "BB_Percent": 0.7476281345255027,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9285243507015768,
+    "ValueScore": 0.8707873860830093,
     "QualityScore": 0.3869282262963585,
-    "SignalScore": 0.4165490137881001
+    "SignalScore": 0.4915601671255866
   },
-  "volatility": 0.0175681811036095,
+  "volatility": 0.0175304041508582,
   "beta": 1.013,
-  "return_6m": 0.0549006751532927,
+  "return_6m": 0.0703341410798783,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 84.11111
+    "target_mean_price": 84.22222
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 79.7
-      },
-      {
-        "date": "2024-12-10",
-        "price": 80.43
-      },
-      {
-        "date": "2024-12-11",
-        "price": 81.31
-      },
-      {
-        "date": "2024-12-12",
-        "price": 80.87
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.12
-      },
       {
         "date": "2024-12-16",
         "price": 80.46
@@ -537,27 +517,127 @@
       {
         "date": "2025-06-06",
         "price": 85.61
+      },
+      {
+        "date": "2025-06-09",
+        "price": 85.65
+      },
+      {
+        "date": "2025-06-10",
+        "price": 86.07
+      },
+      {
+        "date": "2025-06-11",
+        "price": 86.79
+      },
+      {
+        "date": "2025-06-12",
+        "price": 86.9
+      },
+      {
+        "date": "2025-06-13",
+        "price": 85.59
       }
     ],
     "current_price_data": {
-      "price": 85.61,
-      "change": 1.61,
-      "percent_change": 1.92
+      "price": 85.59,
+      "change": -1.04,
+      "percent_change": -1.2
     }
   },
   "news_sentiment": {
-    "summary": "Nasdaq, Inc. (NDAQ) a récemment enregistré une série de transactions significatives, avec des achats massifs d'actions par des entités telles que Fiduciary Alliance LLC, Czech National Bank et NBC Securities Inc. Malgré ces mouvements, Thoma Bravo a cédé toute sa participation dans l'opérateur d'échange, créant une dynamique contrastée. Le titre NDAQ a atteint un nouveau record historique, stimulé par un nouvel accès exclusif au marché privé de Nasdaq et une annonce de dividende, ce qui a suscité un intérêt accru des investisseurs. Cependant, les ventes importantes d'actions par des initiés tels que Pc Nelson Griggs pourraient indiquer des prises de bénéfices ou des perspectives mitigées. Les recommandations des analystes restent globalement positives, qualifiant NDAQ d'achat modéré. Ces événements pourraient influencer le sentiment des investisseurs à court terme sur le titre.",
-    "sentiment_score": 0.2,
+    "summary": "L'actualité récente autour de Nasdaq, Inc. (NDAQ) est marquée par plusieurs événements clés. Tout d'abord, le titre a atteint un sommet sur 52 semaines et se négocie actuellement à un prix attractif, suscitant l'intérêt des investisseurs. De plus, l'annonce d'un dividende à venir plus important que l'an dernier renforce l'attrait de l'action. Parallèlement, Nasdaq a procédé à la suppression de plusieurs sociétés de sa cote, tout en célébrant l'anniversaire de Telia Lithuania, ajoutant une dynamique diversifiée à son actualité récente. Ces événements combinés pourraient influencer le sentiment de marché envers NDAQ.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Nasdaq, Inc. (NASDAQ:NDAQ) Shares Acquired by Fiduciary Alliance LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXNUZl9aYmozYXo4NGR0Z3ZkUkpNMmRGX3VRdUpYT1JnU0FFUm8zbmFNbVAzWmN5Qkh5TU1oQTZlWFllUlN6REFCemxKbi1IQW5wZmMzOC1oM1E4ZVJuS2ZfMEpqQlE0OGVZcFpSdFROSW1CREtZWThBelRUM1ZIbzE5ZXp2bHdtbHJDem1Dal9CZ2ViU2xkNFljSnhTOF8tLWwyRlVCNHBKaGZqdExWMjRtZFJEOWtEYXcwYmxyZzRudw?oc=5",
+        "title": "Chime Stock (CHYM) Surges 70% in Market Debut - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNankzdVhETkNJUVZvanh6d2tjTVA2QUhpXzM3Zm9SZUZCc0liVGczSXdFYktkV2NhV2h0ODNYZjh0QXlVQmVjOTI3MEcxMjlqUFdTRVJieTVsNVR6RlBNbjdydVcwU1N1VXFxVDI0MnBBWXY1aTd5bHlXWk9rVkdielMwZmcyWkNYWWdwTFRwTktoTjJSaEVhNHZnc3pKTkhaNmlwV01yUm13Umt4cElMMHFGTHhEWnlBTUI0MzdlWVJRV1J3NTgw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Nasdaq Purge: 12 Companies Face Final Delisting After Trading Suspensions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGdmaG8wSEFlaTJLMTNZOEhXbmhWWWVhWkhnTjBmamszUWtaeGpITEdibURra0xEQXpiZDlkQjRYVXhJNmlwV2M0cUZkV1BwbVRKSVNzQ0FQZEY4ZWtMcTMxaE5fM2RBUFdrdkNDU00ta0xjNnI5SlVmVG5ReVctRUhHLXNkTVlWT3ZyYXpqTE9SNUZ2OWg4bWtTN2EzUkF6YXlnaUJFLXFfTFV4VVJfZQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Acquires 11,978 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa2o2SjBLNFdqa2llVDVHYlVVWXhYMHRZTEEyTXcyRy1aSnh4TEVkTldlVFZOMWtyTE4yX3lQZnNydE9lZzVQdHJDWWdGX25tQ0UwcW9WeFR0aUZwZWRaZng5YlY2UGxudVhkVHV5andDVk9fNFotY3FMODh1bXNBV2NjRkcyc3dtQVM3YVJYUXVacDBQU0hRaUk0ZTc1d215OUtzaURKOU13T0s0TjNkTkVPYTZxSjc2VnE0OTNZLWdDR3UtTlh3ZWhxcllPY1lFNkF1WlRvYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NDAQ Hits 52-Week High, Trades at a Discount: How to Play the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95VXlPUlBsZ3Ffd2RlU3h4T01YZzJGajFsd1JIMWplVVpRYjlkNWZ6a1RUaWhneUVmdjFleTJLam9XeUlUWWhGdFplWHkxT1JUdnRfYnhsRDdwZHloNHlLV19OaFNaOU5CLVpyaUtxWmhOOG1KZXdZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Nasdaq’s Stock Performance Compared to Other Securities Exchange Stocks? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnhHcHBkcHBGeU5WY2t5Y3h6bGZJTmpsQ1ZNRHMxTEJ5NnBmM1JLbjZpMXltSUxDZGp4dmFIcjYtc3BWajMwa214aWVIVUFucThFWU0yR1FfNlBOM1dyQllpSkl1cHhNSTVhTWVYQTdPMWtOOGhINUxfcFMwc0RLaVNhdzBoc0VuTnczSWNmZnVOVGZWSTh6cjZwd2JORU5kVU91WEhaWkxFa0JvSUtpcjZtYnlVNHp6NWtYYVZHQU02VFJXc3RIUS16RGRTTmZBOWxhaXRKbzZyOWNUVm9MdE40WEVOenJlRmxqRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq's (NASDAQ:NDAQ) Upcoming Dividend Will Be Larger Than Last Year's - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQURFZFBQQl9rWG91Y2pqeHBucC1EUkw0ZmhDZFY4eG5abFNTb2QwNkFRNjZTV2xmZG1kd3ByT1l3U1dMLTN0MTBWb19KeVV2SkxRYTQ1cnNQMG9TbzZjMUM5WG5fdU44bHdJaTlJQ0VBRGdibXVNa0hjY1RZcTYyUnhMcWFBVUVoVHVkcWt5b3oxYk5XVEJKY2VTNWJYV19tTm1ia2lHbG9OQzhiSUFBaVU3NkNxMm1FNXN6WTVqYi11U3JlU0J0LXl2QlJRQTZCeEN4N0FidVTSAd4BQVVfeXFMTnJrRzlDZWVHQ0FzbHMxMFBPSkozOUZEekZ4WFNOV0ZQLWZkSVBNelkyM2d6Z19GT1dHWkdrRl95cDBOTmI4NjBKU180bVdHdnYzMlZPUXZlalpHdEVpRlFEUUltLWRpWG0wYXczLXFFejJEU2dHUjZYXzNNR0V0ak9QR3V0aERQZnd0UDVoTU4xX19fSS13U2dxM295N3RmTVRVU3Z4YkZjTjlGUXQwZTdOU3U4R2FTcjVWZVR4MUJJaWxmLUJzQ1YtN2JOTGdHbWZHRUxVNXhNLW5xMWF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq Announces End-of-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date May 30, 2025 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYkpOUVQ5VXRGY29CYXRpUUhvRXpIandXRVBZRmJMdC1LMG9BUmxJX0xLRXdwcEMxbUctM2hJb3NQdlYzM3pCcl93V0xqTElYd2trQmVJeHJTQUtsVXJrQ1RxNmx6bWp3b0dyRWJiR0s5VENvd09nODZ5dm9zbmNIWXFpWFUzOEx0WjBqSTNRdEVxY0xOVVNvS2EzX3lHUThGTTNYbGpHUTNkVlJKd2tNMTBCVjAyYlRXVUdmMmltc3JENk1zeUdraE9rcGF0T19hOVgxQ0JBY0txemxJUVRwdzdDaDRDOE0tUURtdnIzWVhIZ2c5YzgwWm1VUkFBd3A4RG01U0RMZk1kZTFueURhcnI5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq Announces Delisting of Multiple Companies Including Blue Star Foods Corp, Altamira Therapeutics Ltd, and Others - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFI5ejBmVEVaZnRFUl85M1hkUG00a0RGbE9GQk9JUXJMaGxTWkp4QWtIXzc0cW1CenBzMFFKc3dmYUlIWmxyQVdwaVRnMW5reHZqVFhsenExUW5jV1ZWMTZKMVl4VzFITk5ZSHdoN2pQZDVPZEhoZjExOVFpam9qTDJlem1hYkZhdmlTM01Qd1JzbXNHNUpvczdab2wtMXRveGtURFJ2N09xaWpXWnhHUWZORDJXbDQy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq congratulates Telia Lithuania on its 25th anniversary on the stock exchange - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUkFZMzFmSkRBQmVzVWVHZnhlM0NESWZJQkZzanNLRjV6RllabU1pY252SmY5R3UwRFQ2cEQtb3BWS2ZZTXlDNnE3NV8wengtM0kwR3lLZnoyQUp1S0VLakNvQ3FDNjk3aXVFSGw3X0piQmJDUTVKWGxCMDJvQlFHeEdPbmRocHVtQ1g1bUJWbHZONFkxOFNPUWd1bHVJckY0TWEtZTREd2VMQXFYRDRLSHhpbERQRFFnOTdFYlBZVnQ5Vjk5YlJUN19NZmtZaDZEOE9FYnBiUWh6aUxiTmFtMTdvZS1weDBNZk0tVA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nasdaq Announces End-of-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date May 30, 2025 | NDAQ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2tqSzBLOW1FTzdQZExxSEJHQWdDQVVaMGVXdHFLMUt4amZZNWdYS1UzRzBjWmxUQXpwSTJVMC1XUml3WllvLU5ha3VHSWdxZFhrSDE1dkxDWmVVSnh3Y1dWQnR0RERlUFVqZDlvYmRXWjJ5R2tOTHgtMlpOQ3FyUFg2bTd1Nk0yZGNZQktFUkE5T2ZhVExaaHpHYzFndVJVNk5wRGE0ZEVtczhYSUxUeWNCVENJblVheVZ2YndHX0t4LUJWY2E1SFRsR2VBYnFzYklnUE1DeW1KbG1ncjJoSVROdWZFbkUzRDkyOGxrQjlMcFdVYXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq Announces Mid-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date May 15, 2025 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbXh5NWQ4aXdaMF92bTFvYXp1TjVVX2NhNi1GYXdocTh6VkIxdHVpbkJNNE1yNXJGc2NzdGlSY1RUOURnRjB2TjhhWk43YjNuQ1A1ak5GUE03d0ZzOF9ybVVhQ0VvcnQ2NGtfbGhWVXdhNEdMTTVWRmFwZzhoamZBd3lyUTVQakhqUVhUVGxNd1JxRWtxdEhVaXFaM015TVFJaHJrR2VQY3Fuck43WG8tdGJyeU5Zb0t5MlIzLTk4MjYxOEh0bmZOMzFBbm5FcWwzNk5Rdk9SbUhlYlhyZWFwQ3NaWEl3T2RVZ002X1d0OTc5OHV5YW5KcTZCTzI5UzIzb3dZVzdFOTF5ejA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Be Sure To Check Out Nasdaq, Inc. (NASDAQ:NDAQ) Before It Goes Ex-Dividend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieEhZMkphalZHaTFBSFZQb3RTRlNweVphX1JVWjh5Mi1uTzByU1lSSTRYeGRLS3VZWGtKS0Nma29IeDRCblcyNjRObVhXdV9TZDRUOGdFMHNhTW1RSERvWHgxRFI0NTdSOGJCWVp3Z2xMZ3VVUjFpWkRKeVBYLUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq, Inc. (NASDAQ:NDAQ) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdllzR3FTaFZQbGR4YWo2YmYzNk9XVmF0RjRwZTVWMDhnQ1lGMzIwbmhoZW03WlQxN2xuQWZLU0poRUZiT3Q3ZEsyUU13dVZKNlhqT29SeVJXc0lkQnlEOHRpTzdlWjduRzNrM0tZeGV3UTcxdzVuQjdtdzdqRHp4SjZ3ZHd1Ni1zeFMtbjEzanlnWWduYTYyOUJqRHJnT0N1aG5xb3JmUXZnWmdjNGZuWmdxSElNaDVVbjBrWGx0M1BVal9hYWdfYTQxMW55OV81SUVsYTZ1XzAzOGVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Asian Companies Get Exclusive US IPO Roadmap at Nasdaq Summit: Key Success Strategies Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQm9YNlhoZnFEVlpSQjFtS1lmTEcxenJMTHJJUDhjZC1DYlpwMFl2elVXVXUzLWg4R0dZcGtUdVc3azJ4VEctck41eUNRNnVyaldLVEdad2pLSWs4eHZybVlReTVMa0pGeHVmVHd1UzAtRzV4M1F6SGNxNG9rRjhKS0JiWGdRQWJiMF9jQi05VDgya2huWW5walh2VEJwVlRxandQOVlFOFdqam5PMmNYUzRabWxzNFJBNmJKNVJ1UXY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philippine Stock Exchange Adopts Nasdaq Eqlipse Trading to Enhance Market Infrastructure - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWmdiVE1lT1E5dzdBbmg2aEtQQjBISmJqVFlIMy1PdjFTVTFRQ2xaR2NaZDJ1R1h2YkRjNWtMLUlqUllIbVN5NnpKcEcwR1JoVURrUXFQWXdMa0pGRkRsLURsTV9fOU1OUkgzLTZtZHZXb2dqYzJEM1cyc1ctMGFJUUdYN09GYlVoSjlPU2YxSWRISkJuS0U4dkZzTzV0Smc3a0wzYklEblEyVTkzcHZJUUQ3ZjBxWXdnczFSRjlmQ0VrRVMtQ0s1TjgwNTZ5UDNMUEhOQkxXSFRRZDd6WTRyc05KVzZsc1BpMDVVcy0wcFZDZ3k4eVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Handelsbanken Fonder AB Grows Holdings in Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRW9vUERQT1lGT1Ata0xqazZFWXpUVXdSckxQSnRVSUkwbFNJUWNBZ05SWjdGSG5GZTRFNWxrZFBlMVFDb2hEUFJGSnp0WS15VlNWSm1XRFM5RVJJVHgxbkpNM0hqem1lQkhwV2N6ckxrQUdCYlRiaFlPVTN6ZzBaZk41dG5LWWJDQ294V3lrNEp1cXA2RVh3cDltazR5ZXJZQjFhb21Hc1JhNnJGUE9WSVRvdmZ5bm55RVNNWmsyZ3dOckE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Simplicity Wealth LLC Makes New Investment in Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON1h2ZGExUG0zbHBldTJNTGdldEs4V2ZMWUhzWlRLaHpjdlh5THlCaUNyR20xZERpMmhqTHVnT2MzYW1icVY1ZVpfeExHdGY3c1NVWG1XRTQ2dlZ3SXY0cDhQb3VRNlNINFZJaHBadERkbGF4MFA5RVhsRUdQS01JS3ctMjQ4bm93T0E1VzlMalhKV2FuZ1B0Smg2djk1R09NX1JSNHpMUkhLODhZTVpPMWZhVVllUzRlcGczOVZtaDFEMEVvNzdB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,96 +646,16 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Nasdaq Reports May 2025 Volumes | NDAQ Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenJJaVE4UHhqTjZydkRpT280V3BqQkpCd1cyakM5al84UDQtU2dZSzltLU81YVRTMFd6Mmhqc0pWaDBQcnBfdFZXeEMxOHpMN1pwb3h0c2Q1d3FaNUk0amd2LV9qT0JJRUcyb3JqeXZIUk1fYmpfZUktR1FhMnJQSHJMOVJtT2lJTjVEY0o2ZzU4Yng2MzJiaXkwdFZ2LU0?oc=5",
+        "title": "2 Nasdaq-100 Stocks I'd Buy Without Hesitation Right Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDVUU0tXUVNpQ2VfWnVTQzVCZU1oVkR1cl9zQUtnZnBnanRObVYxZVk5Nk1FMS1HQUVxbDhDRmFicTZ1RS1ocUR3ckV3cXBzdnRGMDUtMC1rVTQyMUtla2ZJRFdEeUdFWWl2QVAwRE5QMjdRZml4X04wU2JkdzZaRVp2UzdBOHpNTmdqdTVmXzY?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "$1000 Invested In This Stock 20 Years Ago Would Be Worth This Much Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzRFaHhfeVhrWDJqTVB1Zm5uTloyUVdVazFqdEJqUTRfejhJSnFnNUh3b1dZMEtUZTVkVjE4UFNQX3hzSVJvTHJKV1V6V3l5QjR2Q2o4UXVXNGt3Y0s0eDdBNU5kZ3gyanBOZEhfdTBLd3AxMWZDNlpFSVR2em9Ud2hOYXZPaWJQSGM1S0NmZV9BblN5TE5FU0F5d1NhaWVTeml1T192aUw0QTFpVUtXWnBKNDZ5Q2FWYXc1MDBEZk53UGM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Are Wall Street Analysts' Target Price for Nasdaq Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWFUSDFFa3JkY2tBOEwzdS12cHZpME1jaEU0RE51eTI1RWtUWWZHeDIzOUZVYWVPR01YMDFNMlREUGdzQVEzNmkwRWljLXpwWGFZUGJVbmZheFRkdC05bHNNREtvZW1HbU5VSHowdmFhdlk3aEJWcHQ2QVNsVElfNk8wUk53aHBaQ1g5NXZLS3k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Thoma Bravo divests all its stake in exchange operator Nasdaq, source says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDllODRYVmNjb1lweHlHMkp0WVp3TVZQLWFHc3VVX3NmcDV5VWQyXzNnQXo3UFNkRnFYNE9Vc1Z1cEdSWDhPWHA1NXl5QWNFZmdFVmJYTlhmQzh5TEhuYkx5QnF5RVdUSWxQeFBUbExTdDNiOTl1cFhfSjRjVDBrcjBRR1JrY3NHS19qb01oNnl6TlgzNlQyUDVtUG5WUzd0cEVTMlVZT1cwZE85?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Delisting of Securities from The Nasdaq Stock Market - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkxiVFlYQTl6Vjc2WFpTMFlEM0JnNjJ3Vkg4SlRFRkNFQkpMU0N2TUZhcHJlUmU2QTlqYXI4cEdkQkw4V0V2VGpodG5zcUxOVl9LR09McnQtZlQ1cE9odHBHdEpaZExOWTVNNloyXzJXTzRveVkwWmhQOG9oVDhVSU1oVEdEV0laTThSS2duVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Czech National Bank Purchases 5,310 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUV95NnRQYlYxeWl6dnlsb1pRUmNudnBKMmcwNm5UOWV1Q0tvM21XdmlQVnNMeEJFNlFMRGE2UU01WkNTVkNyZkoxQi1uV0hHUWhPb05JUWdlMVA4SFpsVzZGZWJiM0F1TDdvZl82MWppVmVFTUZlTnJmT0YzckUwcHhBek9GV3JBcFZkLTVVZFhKQlN1and2ZVo0ZVBDQnlzdjV3RzdYeFVIZExyWXdsbmloaXJrMl93czRXc3p6Yw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Pc Nelson Griggs Sells 8,000 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjN0TWN0dFhEQzNyY3dfcjk5MWFlVy1lTlJRUVB6Wk9RbGQxVVUtVDF3OXk5eU94c0IxXy1HU1pVZFpIMlF1ZEVuenpIQ2c1eWt3bGJ3WWYtdlJUWU05ei12OXZwbi12S213Smp0cUZpWXZyVGg2eXVCS2tOWktvdy1nSF9aV3dPUXRhbDFKQk5aMkxPSVdSenItMjBnTEhMenVhT281UmtUTVBXYjdzeXpXSVAwOWNJdC1N?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nasdaq Launches Exclusive Access to Nasdaq Private Market's Tape - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTjg0c2pKU2ozZnIzMk9hUmlRbnJPZ2ljRzVsMUVJWTcwdHhyS0VaY0lyLWpEU0JDTEdXV0t3STgwUzIxZm5nRGwxcDdtSjUxanBRVDdDakUtbDhDUjFDM2F4Q0VScWNYbXJwWFVZUVdsUlBoNEhqXzhfMTBXUTg4RHZZcTN3UXU2RURyV3VTc0RkWV9oU20wVll0S2s4dG94b0NWX2RWaU5HWGtXVGNNRk5MUTh5aW9jWndNbGxiZGFRV1JBYXFxcDV1OEhvN0c0a3RVc2RGM3dGc25hUkZnUld2Q2NpVjgxU2xYcEJPeUlnSHJkT0NLNjI3eXdkbGc4cDJlbVlxYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nasdaq (NASDAQ:NDAQ) Sets New 52-Week High Following Dividend Announcement - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLW1kR3BHYTA3YjAwYS15T0YwQl9FOVYxNWFsWFFmMkozal9lMHBHdmRabW1nNmVmSWo5Z2gtbm1FMm1FY0RFLWkzaTItRFhTeHBvY1h5Mm55Z3ZkaTZSQndXZkxZWUxGdjVlcFc0SzctM1FIYzhGRi0yY09PampGUHdBMXNGUmRFUGRMNjR4V1d1WGk3SFAxYUVScXF6VXJiSG5oM19pRFcxdkxoR1FzS2ZHRzJKV2x2M2J0S25R?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Heritage Family Offices LLP Purchases New Shares in Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnpPbHFjUjFkV0M1N2dBOXdWNnA5SzRIei1CdDdKcnJxMUFoTjEzWVpVU2tUb1YwaERfQjduTl80VFNRbEhjMmF5aDgtV0k1Znl1YWhYVWNKOWNxdzd2Y01kaUZ5U2F3VGx4bEpPWDREcjZOV0p1ODduVDJNRzZoWmZZVFdxR2JrSTFZNGV3OFJTWUJOaDNSLU9zMzd1WTVqSzNRQ2RtUEJvWE5rYUFLVm85OWdCSVZzMFVKaDlYRldrX1dOZG9VWHBFc3pnY0Fm?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Buys 10,120 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcjRfU0tNVDVndmRCV1lXM1YtcFZOSUlhc0lRS1BlekRFWXpibDZEWWJkUHpUamM3Y1ZNcnk5bGU1NmVFTHpVSlpEblRVTFdnWlB3THBMZXYxT05SUVBndUlhQjNla1RYWVBiMGgtU0NwQUs1N29IaDhBN3QyRF9FMXVGcGFJc08yRDh3WDlzUzE4MXVCcmQzN1VrczNEQ1JRbm0tNk82WHNpeEY4eFRoWVRZLWJ3WDZvaVQ4WGVEMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hennion & Walsh Asset Management Inc. Buys 16,099 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUZVX2pqdDdqbUdzbURnLXZhb0M1YXlPNmtkdE9vTjRMY2ZqMlFUTmh5ZmQ1LXlIM3VtZWN2MDBOZGxTQ3JXbDE1SjFESjA0Ry1RdE5oRXRvNzRsNThIdzM1amVOc3N3U3lvVVRmdzVpekNCcmYtMGUxeTBmd1RIUjEzcEllNjdiRXZrWGdpOVlQWG9XTGprNlpCSjFEYkNURUo4aTI1RUxrOFpGYVdGTmVNQVFUUkJLcmtrVWNYVm5iS2s2UzZBelJkdEdiMVYyTi1pLQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nasdaq, Inc. (NASDAQ:NDAQ) Shares Acquired by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVRMSUFEZzdVbzlZQldSdWVNTzdrQlRKbFFUSUVYWF9TQ3RqYVRCeGxHaF96bWVsN092bzFRckpka2JhSEtZS1Uzbzc3QTdlRHRGUC16UG5Qdng1Y2JyZjZVU05mWFpTaG42T2RXRUxkem04SzJmQ3pLRlhoYXQ2RkNheTlJMElJczBHNVZhQmF5UE81d0VoOEJzSWllOUExb3VxUnRMTGpoQ2JGb3FBMGx3Zng2aERsVDBlRA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nasdaq, Inc. (NASDAQ:NDAQ) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWVROOTMyYXJoRlRHejlHdlhJWU1UYTNoUEtGY0RTaDFSUm8wOFpwby1TSHo4NE1wSkNLNkE5OGtqMXA1aWpET25SYTU3M28zYjM4a1FzRlROdi1RcFRuTEY5bVBKLUd5azYtQzM4WE8tZjM4eXVTMDl0N2VWMTM1MzE2Z1hxbVhhUzZjblhvNnNHWndtZ1ZqVkhmNE9xTk9wQTdMM2ZoYlkxVEdaeC1mTlYtSFJFX3BySFV3LWI1SzI3bUIyQm81S1lsOE80VVNrNEVJeUln?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "187,155 Shares in Nasdaq, Inc. (NASDAQ:NDAQ) Purchased by AEGON ASSET MANAGEMENT UK Plc - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ1k4WEdHVndDeEh1aGd2RjBxSWM2UTZJY3U3c2UzS1p2bFVzWGtBR1pVWFZDenhQRkU2VlFkVW1oV2xuUmxiYU1ETl90akVoU29QZEtPdHU5U3lBaEI3YkwtdlRSSzdZYndsNWpUeWJCNkNieHZrRGdxVDcyLW5pTGN4QnlvdHppT0lCWlJ4T0hPVk10NHNyc1ZxbWJSbE1jRmIzbjJJRWdzdTFQODB5ZnhNc1R4QjBqczN1Z1YxSEdHUEN5VG9tV2Jfek1zZlVtdVBPU1BhTHJKZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Buys 12,000 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdllzR3FTaFZQbGR4YWo2YmYzNk9XVmF0RjRwZTVWMDhnQ1lGMzIwbmhoZW03WlQxN2xuQWZLU0poRUZiT3Q3ZEsyUU13dVZKNlhqT29SeVJXc0lkQnlEOHRpTzdlWjduRzNrM0tZeGV3UTcxdzVuQjdtdzdqRHp4SjZ3ZHd1Ni1zeFMtbjEzanlnWWduYTYyOUJqRHJnT0N1aG5xb3JmUXZnWmdjNGZuWmdxSElNaDVVbjBrWGx0M1BVal9hYWdfYTQxMW55OV81SUVsYTZ1XzAzOGVJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Raises Holdings in Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzhnTFVicFNMUEg2TjJrcHRfTDJ4cFJfcnFHTGw0QmFScng2Nm5HYXNORmJXOGsyaExyVlk5YThma3Q3ZjRIUWxodFRqMVlfOWplOXhtTnBreERzZDUwYWtqUHl0X18tUVB1alRSX1FaZW5YMjB0QlZrLWRlcnV1SU9RSjJVNXE0bHhPWEt5TG1CYkpLdlFsQ3l6TWhiR05WWUVkTHNaZzJDUXNDeGE5UklVY2NuMXVjbTMydV9VN0EzUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "12,554 Shares in Nasdaq, Inc. (NASDAQ:NDAQ) Acquired by 111 Capital - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakZsdUlYVy1kWjdVcW1GTXFzQk1JdUtfRVJsZUpZLTJPS3VZMGZDRzlvNlg1dFROMWJiWVBGNjBBdC12dlctTlVhamhvdnlNN0hsNHU5ZGVhRW1VZV90Q1JPbVM1Y256NVNja2VVNHcteTMyRWFaTGJzSXR0aDJad3J4VXFlOEt2eEdWcmE5bnczQmxMMlZyWmRwWEtVRUw4dV9LeWRqem1KY01jWTVzUWlNeUI3bFdWdk9VTg?oc=5",
+        "title": "Nasdaq (NDAQ): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMb0RGSDlRUi1UMTY5UDRjTXFkdUVCNFl0cFphc1MtRmNtRFdSNzM2MWZKcUE0VkFyem1QMlVzNHByc2gzMl9pbU1vdw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

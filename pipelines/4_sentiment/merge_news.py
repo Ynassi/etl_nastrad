@@ -4,11 +4,12 @@ import re
 import pandas as pd
 from tqdm import tqdm
 
-# === Chemins ===
-DIR_JSON = "output/insights_enriched_all"
-SUMMARY_JSON_PATH = "data/news_summaries_full.json"
-SENTIMENT_CSV_PATH = "data/sentiment_news_summary_full.csv"
-FINAL_MERGED_CSV_PATH = "data/df_final_merged.csv"
+# === 📁 Chemins depuis la racine du projet ===
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+DIR_JSON = os.path.join(BASE_DIR, "output", "insights_enriched_all")
+SUMMARY_JSON_PATH = os.path.join(BASE_DIR, "data", "news_summaries_full.json")
+SENTIMENT_CSV_PATH = os.path.join(BASE_DIR, "data", "sentiment_news_summary_full.csv")
+FINAL_MERGED_CSV_PATH = os.path.join(BASE_DIR, "data", "df_final_merged.csv")
 
 # === Chargement des fichiers source ===
 with open(SUMMARY_JSON_PATH, "r") as f:

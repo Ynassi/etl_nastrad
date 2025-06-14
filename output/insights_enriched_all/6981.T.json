@@ -2,16 +2,16 @@
   "ticker": "6981.T",
   "name": "Murata Manufacturing",
   "sector": "Information Technology",
-  "market_cap": 3876502372352.0,
+  "market_cap": 3853450215424.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 16.628056,
-    "PB": 1.502053,
-    "EV_Revenue": 1.899,
+    "PE": 16.626717,
+    "PB": 1.5016922,
+    "EV_Revenue": 1.898,
     "ROE": 0.09073,
     "ProfitMargin": 0.13412,
     "GrossMargin": 0.41167998,
-    "DividendYield": 2.92,
+    "DividendYield": 2.8,
     "DebtEquity": 2.325,
     "CurrentRatio": 5.417,
     "QuickRatio": 3.326,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10206480363469045,
     "ROA": 0.061890002,
     "PEG": null,
-    "EV_EBITDA": 6.989,
+    "EV_EBITDA": 6.987,
     "BuybackYield": null,
-    "PriceToFCF": 21.786073898810923
+    "PriceToFCF": 21.65652000044566
   },
   "technical_indicators": {
-    "RSI_14": 48.78210057582996,
-    "Momentum_10": 1.388212372138334,
-    "MACD": -9.972549885349054,
-    "BB_Percent": 0.5136382643346199,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 47.73045468165219,
+    "Momentum_10": -2.3921200750469045,
+    "MACD": 2.6287564081012533,
+    "BB_Percent": 0.4092140956612154,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933545139939474,
+    "ValueScore": 0.8920583376331069,
     "QualityScore": 0.3897705986209691,
-    "SignalScore": 0.584763061672537
+    "SignalScore": 0.6057551789793678
   },
-  "volatility": 0.0294306220386615,
+  "volatility": 0.0295967467741471,
   "beta": 0.725,
-  "return_6m": -0.1608160941590471,
+  "return_6m": -0.1561528508309498,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 2941.25
+    "target_mean_price": 2875.625
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2510.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2505.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2529.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2514.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2529.0
-      },
       {
         "date": "2024-12-13",
         "price": 2493.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2081.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2106.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2121.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2163.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2139.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2081.0
       }
     ],
     "current_price_data": {
-      "price": 2081.5,
-      "change": 26.0,
-      "percent_change": 1.26
+      "price": 2081.0,
+      "change": -58.5,
+      "percent_change": -2.73
     }
   },
   "news_sentiment": {
-    "summary": "Le titre de Murata Manufacturing Co., Ltd. a chuté de 28 % malgré des résultats financiers qui ont attiré l'attention des investisseurs. L'entreprise a manqué les attentes en matière de bénéfices pour l'exercice complet 2025. Sony et Suntory ont constitué des stocks aux États-Unis en prévision des menaces tarifaires de Trump, tandis qu'une chute des actions technologiques a pesé sur les marchés asiatiques. Par ailleurs, Apple utilise des puces de Qualcomm et Skyworks dans l'iPhone 6 Plus, ce qui souligne l'importance des fournisseurs dans la chaîne d'approvisionnement de l'entreprise.",
-    "sentiment_score": -0.333,
+    "summary": "L'entreprise Murata Manufacturing Co., Ltd. a récemment connu une baisse de 28% de son cours de bourse, malgré des résultats financiers qui retiennent l'attention des investisseurs. Cependant, ses résultats annuels pour 2025 ont déçu en termes de bénéfices par action. Sony et Suntory ont pris des mesures préventives en augmentant leurs stocks aux États-Unis face aux menaces de tarifs de Trump, illustrant les tensions commerciales. De son côté, Apple continue de s'appuyer sur des fournisseurs tels que Qualcomm et Skyworks pour ses produits, ce qui souligne l'importance de la chaîne d'approvisionnement dans l'industrie technologique. Ces actualités pourraient influencer le sentiment des investisseurs dans ces secteurs.",
+    "sentiment_score": -0.25,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -559,21 +559,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Tech Share Plunge Drags Asian Stocks Lower - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWhnLVRObVNfclV5VGl0WmRKbkVwV1E2a2dfWUp2am9wa1VtUjJ3aDMtckRsWFAyX0hIdkRTeHdXUHVnd0dJTUtjdVRJcDBwdHlJYkNuV3lFalpBTThnUlhIUmJJZEVCYTRFSUN6QkRqNC05NkVLcjdPNTJldlV1S2xzaGk5eUpMeDdFZA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Apple's iPhone 6 Plus includes chips from Qualcomm, Skyworks: iFixit - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQby02eEdxSDQ2X1JOOER4X0RCOGJSR2RwTm50OXlMMDhuVFgxbl9GWkR6V29Pd0VFTHNBbEpNYWJHbU5tNTI3aHpkaV84TlplcFY3M25rZGxtV1RhWWxNaXh4SWJOenBCSlR5WEMxQWJrT2swUF9kZWxQZ05pTlFLQnV2dHNVaVJMZG04bHB3eWFzbkxtQXlxODkxWWFMZW5LZjdGUTR2UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Apple's iPhone 6 Plus includes chips from Qualcomm, Skyworks: iFixit - Yahoo Singapore",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEczYjZEQXJBenNqRUVsMGV4SEplZFg2X1JjR2RSLUt2ajRSU2U0NHN3SzhyNGlleWpnSHN3djhMS3Nqa3B5T1cxWDc3WjRXbmlkc1lDQVNIZllXU3B1R29kVzBjUGg1cHo4bE9wdElLWXV3WnpKRjB4NGU0X1FsOG9adEZ1QkRpRXRRVnNEd0pSSllaWkdrWURUUFY?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

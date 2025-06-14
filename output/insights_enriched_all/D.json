@@ -2,16 +2,16 @@
   "ticker": "D",
   "name": "Dominion Energy",
   "sector": "Utilities",
-  "market_cap": 47581470720.0,
+  "market_cap": 47423705088.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.54247,
-    "PB": 1.8045537,
-    "EV_Revenue": 6.459,
+    "PE": 21.471043,
+    "PB": 1.7985704,
+    "EV_Revenue": 6.454,
     "ROE": 0.07719,
     "ProfitMargin": 0.15628,
     "GrossMargin": 0.48708,
-    "DividendYield": 4.77,
+    "DividendYield": 4.78,
     "DebtEquity": 145.196,
     "CurrentRatio": 0.73,
     "QuickRatio": 0.321,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.16796953024558478,
     "ROA": 0.02863,
     "PEG": null,
-    "EV_EBITDA": 13.121,
+    "EV_EBITDA": 13.111,
     "BuybackYield": null,
-    "PriceToFCF": -19.007878654001914
+    "PriceToFCF": -18.910787129077388
   },
   "technical_indicators": {
-    "RSI_14": 53.94418136799503,
-    "Momentum_10": 1.4553589661632438,
-    "MACD": 0.6287948369595995,
-    "BB_Percent": 0.5767483231112033,
+    "RSI_14": 52.229903651055025,
+    "Momentum_10": -1.852830899923935,
+    "MACD": 0.3762947325727239,
+    "BB_Percent": 0.3763667778646422,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.932251506229957,
+    "ValueScore": 0.877756523120595,
     "QualityScore": 0.4248961652012684,
-    "SignalScore": 0.5553323006995872
+    "SignalScore": 0.5821759687592523
   },
-  "volatility": 0.0166463130601934,
+  "volatility": 0.0165497128074301,
   "beta": 0.557,
-  "return_6m": 0.0196441138550145,
+  "return_6m": 0.0539683264971833,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
-    "target_mean_price": 58.46133
+    "target_mean_price": 58.39733
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 55.59
-      },
-      {
-        "date": "2024-12-10",
-        "price": 55.01
-      },
-      {
-        "date": "2024-12-11",
-        "price": 54.27
-      },
-      {
-        "date": "2024-12-12",
-        "price": 53.83
-      },
-      {
-        "date": "2024-12-13",
-        "price": 54.04
-      },
       {
         "date": "2024-12-16",
         "price": 53.53
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 55.77
+      },
+      {
+        "date": "2025-06-09",
+        "price": 55.67
+      },
+      {
+        "date": "2025-06-10",
+        "price": 55.61
+      },
+      {
+        "date": "2025-06-11",
+        "price": 55.57
+      },
+      {
+        "date": "2025-06-12",
+        "price": 55.91
+      },
+      {
+        "date": "2025-06-13",
+        "price": 55.51
       }
     ],
     "current_price_data": {
-      "price": 55.77,
-      "change": -0.23,
-      "percent_change": -0.41
+      "price": 55.51,
+      "change": -0.4,
+      "percent_change": -0.72
     }
   },
   "news_sentiment": {
-    "summary": "La société CERo Therapeutics a émis des actions de la série D, ce qui pourrait indiquer une expansion ou des projets de croissance. En revanche, un article révèle que malgré sa promesse d'interdire le trading d'actions au Congrès, un membre a effectué plus de 530 transactions depuis son entrée en fonction, soulevant des questions éthiques. D-Wave Quantum a connu une montée en flèche de ses actions sur le NYSE suite à des avancées significatives en informatique quantique, attirant l'attention des investisseurs. En parallèle, Dominion Energy a subi une perte de 24% pour ses actionnaires au cours des trois dernières années, ce qui pourrait influencer le sentiment de marché autour de la société.",
-    "sentiment_score": 0.1,
+    "summary": "Malgré une série de nouvelles contrastées, le stock de D-Wave Quantum a connu des fluctuations importantes, notamment une baisse significative malgré des visées d'acquisition. L'entreprise a également conclu un accord pour vendre jusqu'à 400 millions de dollars d'actions, ce qui peut influencer le sentiment des investisseurs. Cependant, des questions subsistent quant à savoir si D-Wave est toujours un bon achat, surtout par rapport à IonQ. L'ensemble du secteur semble être sous les projecteurs, avec des comparaisons entre différentes entreprises de calcul quantique et des évaluations de leur potentiel de croissance.",
+    "sentiment_score": -0.25,
     "label": "NEGATIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "CERo Therapeutics issues additional Series D stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFRNE5BSWR4QW5sTGVPQklJa3owelVqV1lxT0xXSElicE9zUWFmN0t6NEtmSkdKUFR3ZVJ3UjhzQ3pZSnF3ZlhnWUZoRnM4b3I5T2kwdGpyeGpoRlluRmNKX25iV1RfMkN3RlRPTFRWbUctUzhRQmtySVZIbkZyaTUxNXpvSWZXV2dya3ptUEdzTTBvWW9uTjgtdE5kRjNpTndDMmNvbE51VUk?oc=5",
+        "title": "What's Happening With D-Wave Quantum Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvUU5xd29YcFJPV2hqd29Idk9ZZU5URW5ZV1l3b09fVzlXN0poQmRQVjRxWDF4TWQtTTV2REV1cEt4cUlqMTQtcEV0SW9tem9qeFV1SHRoMlhibHphZUZjUk11d3UwMmxrSzh5VTRBNW5QdGhJSFFn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CERo Therapeutics Completes Series D Stock Issuance - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVJobURxZlEwVmV0VVJWOEdadkphaVpELTJibm1CV3psR0tzbXB4SVk1bW43R0E1WkEtMHY3dzNEN0hLM3JUUWM2ODJkZ1hpWGNXamxLMklFNmU4ZFVBT0xiREFjSy1UTENIRVZZZ2JLNlZ0Z0hlZmVidEtuYjh6ZWs1SDQyaWRnc29heHJHZHVaSkhPeC1IYTBzeHF0ZXRjVkZWTGJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "He said he'd ban stock trading in Congress. He's made more than 530 trades since taking office. - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQk1ESXRQVm5TaFlOWmlJdjlKNFUzdWlGbzgtSVRSdFVWQjVJWGlncHdQdUhWRFdnMkRERThzZHh1WEhUQlVnMVMwOWJUYXMzTmwxejRrQTJVeENnUHN5Z1draEQzWUZKa2U0c3ZndHVuWW1NR0s5VVNjd3lMUHo1U3dqeXB4bG93YXpnWDF3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Dominion Energy (D) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMnB0dDRVaE1ncnlrc2VSOEhyUkxQRUlEQWFLeEpXVUZDNGxYRWhxblN0NTdmQTVJN1lmOE1CemkxWjlJemFya091YW1OVksta3AtMnRyeTBVUklia0RrV3hQR3pkQnA2RjZnNXpndUdSWlMtOTBLa3M4RDNIQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Dominion Energy (D) is a Strong Momentum Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEtIU0FIeTVUckNzbXg5b3lHdHVDdE4zbFdZSUwzZWJRNUJqT21RTEJBOWpjNHF3dGtta0NqSVpQd2s4eHFvQVBqblI0S3QtcE5mTEp5X3pSSG1JVWFPaFV3azAydnI0S1A4WmcyQW55UldzVmdoYlowZFJld3NoYklrYmtfTlhXNXFz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is D-Wave Quantum a Millionaire-Maker Stock? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2lCRmt4d3NKdTUwMk9uNlhOamRBdDA1ZGFOMHkwS3BsVHV6WnRKY0MxZDJuZkJDNXNtZmdsempNVS02aFh4OVIwOUtxQUhzR01IOFVQNEllSjNlOFVCNG1PVkVVYVRmck13QU9WU2NWdlU4QzZwZFdpclFybnVaNXRUTkFFU0w2S19SUWJuOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "D-Wave Quantum (QBTS) Shares Skyrocket Over 12% on NYSE, Continuing Meteoric Rise - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVAxel9PeFh4ZHM0UHhWYVFPNzVXVERTZGdtRFZZbjdTSzVrZ1V2TlpuVjNoRkVxOTNCVmZWNXZNZ1dSV1VOLUlpUmg3WWhvLTE0WnZxRDFKTDY0Si1vNngzLW5zeEJOYzFBUDExRDBvUGMzc1JOa0dWUFFUTUFOSVI3R2Q0T2ZPTDJLMmVKcUhzc0FzSUxZWV9aaWo0N0hlSUQ5b0JoUUVRMmExeVhLWm1wc0Z2bXlOMjlaSDBBMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "D-Wave Quantum Stock Skyrockets on Real-World Computing Breakthroughs - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG1adl9NY2tqeWpYU3lGMGdkblJ6Y1JVYjV1SzhLdnp0RTljYjdoQmItVWlUcmt4eEpjVXUxNVZMOXlkSlYtcHRFV3p3QTZ1MXlSRVdrU0ZjMmpRcHNhaWRPWEVkVTYyZjNkWDA2MHJtNnQyT2JlVHF2dUJJMHlVdGhtY1ZsdU9vWExTUHVGMFRvMGtJM0dLYXNEdmc2Qk02bURzNWlUMWFWV2xVUDVN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Home Depot, Tesla, CATL, Nvidia, D-Wave Quantum, Viking Holdings, and More Market Movers - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNVVg1OUplVnFra1RKOEhFc2NpT0YyUS1PRzZXV1lnN0ZJdWJfSC12NF9weHZiS2JrZ0UwWkVjZG9JSEJyUTJlaG1hTGl5NHFJeEtrMDFDYUg4VVIxNFpDT1N1enJwaTI0YXdId3ln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Regions Financial Corporation Announces Redemption of All Outstanding Depositary Shares Representing Interests in Series D Preferred Stock - Regions Bank",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTE41QlFPNmh1VC1XQ2pPQUtBejJhQkc3SWwxQUh2SXV2YXc3TDhkc19IdER2aDFMTTE5SFRWNnpWYjNCZC1RZURzR1JwM0gxeDRBYmdBb0ZaeHZJUHJIUmdkRlRnSkZzeEtFQTU4bV9qZ0FJUDBSTnVWYW9oX2FQMjZkRVZYNUdKX1NKUDlza05yQnRMUHBab0gzaVJtT2pvbHM0UVFxRlNhaENGQVcxUGpNNGdIWXFPV1cyb3JJU1pSNTJrUnZPaW1OWktzMmN6c1FFekF2NDV2LWtfa0UxbUJZVVFiN1NDYTRidGVIdU1TTF9DUkZqMFJtNm56eVQzeXgtdks3a0lUdm9uZTJJVFR6aS1oTHFZdzRKYV9LNlFxVTlZMS1CaTY1RmFPU2JFWWxBenZuNG5WbDdENWZJRg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks to buy: HDFC Bank, SBI, Bajaj Finance among top stock picks by D-Street experts after RBI's bold 50 bps rate cut - Mint",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUHNkRFJxOHpDcWRGb1FVNlZfZXYzNktYMlozSkdvRHdmN3Y2ckx6SFcxQlpOU1FVd0JxTEdrM1lFd0RsRVRLWWh1c290cFA3MWIyWlFaVzQ3UVUzUkhaREc0cEEza2kzVXN2TFBXUmxDQXhWWVBNbVRvNWwybUN5MmVNNjVKRDFYSVVnaVR1a05RMXFzU3R1VGF5ZzBnOE1wWXZYTUQ4SjIyN20zdTFQU2pCSWhMNjI5NG0wTHQwLTh3YTJqclplaVFDXzhCWUNUbnFxaWRTT1dwZy1RMm5BVV9ad3pNVndfbXFBd3ZEdUgtTFJwVlo2MWtBY0hqTlhGNDA5X0Y2aTdVR2tBZ24tYW1tX3l1d9IBmwJBVV95cUxOY3dPZFVNY1UzYjY3cHAyVDB4Nkp5akNYZGVPU0txZjZRWjZVREZPWl8wWlpFdU5BT01ucUR5cHlVaUlvcFFfTWphcjhvRUlkcDZxWnFGNG5acUIyb1NfR213UDZBTGxkcTM3c2RNWS11U0xlQ0JveVlNWlladldGNXY0eEUyTEZIdFF0dFpKZ0NaWEVmb19RS3drbHFRYUpiWlBMMmFhNkxlX1dKYU03NGhUTDhOSHpZMFU3azl3S0t6WXRza3BJbFREZjBvTzVMdW1QNHZ1N25SN0hmQlhwMWtJa2Z4N05PeC12R185a1JmRjI3RWNnaEcwYlp5enBGUUN0Y25RODBIWWFRRlV2enZoY0JFQVRNWEg4?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "D-Wave Stock Is Soaring on a New Quantum Computer Launch - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVVMd1ZZQVFnYkdkR0RZNHJOUk1TVlJHcEVTUTh6RzAyQnZQaDdNNmdSNFJzWmkzTUxPYXZMSVdicGtnNUVNeFJKVWZsaDlVaDQzV3RCUGE2dFI3WEFhZGNPQ1hiQkwyenBEUkRVS1ZmemhibUZ6YV8tUDBTOTRxd3d1SEZ2ZDZ1aUFid0NjeEhLX1FZNm5kaE5B?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Now a Good Time to Buy Quantum Computing Stocks? History Suggests What Could Happen Next. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGVmOUp4cnZKSl9ib29qWWVlVW5RRlBMSVR1bl9Tbk9kMnZ3QldxSmJsYlYzclp4SEptbl85M2g4Znk3ZUQtbnNYX0h4MEdhVWI2aTBjRUR5dlNyRHBBenVpaExkWWhxSE5JZ2E5THlwNGdoRThfdHU0R1gxZ0M2ZlpYYnItOVZxZTNLT1Y4S0lUajhUamdtZQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Second-Largest U.S. Pension Bought Up D-Wave Quantum, DJT Stock - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03YU02dWVBZ2FpU1paZlpWTWkyeXdjbHlKZWZCejRlb05rcEV4VjEwOVgwcUhublBmbkdTZml6RnduWjdBcV9BejdqSUxqRmZjZ1lDTXNCclZqQzFXNlBjQm1LcFZVejNzZjA1Z3kzYnZtWVd0WDUxdVpB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "10 AI Stocks I'd Buy Without Hesitation - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHVpVHBVSk5zeVNGc1hVdTZtSDQxaExqeDF0UVUxQVhqZm5Fb2VCeTJMMy1KN3RoRzhBTG92YUZQWm8wQjRkbUdKdW9vTTdZWjR0VmZ6V1BWeU5xdUlFTHFrdEVsMU9wQVhPbEYtRFlRemVCbWJINVJkNWNUVnZXSGM3RnAxQ3Ja?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dominion Energy (NYSE:D) shareholders have endured a 24% loss from investing in the stock three years ago - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVhBaXhseXlxLXJCNGRER0haU2VSZENQSENEM2NJYzJKaXl6bHBhVFRpSktrZGJYZTJfRkxtb2dnTXV3cFZSM1hEWGdCbU9fcU5VODY1RWZnVGtpaDNjeFRYbmIyZ0dxeFRjck5zNTFuRW1ZdE1lYW96RjZINkFaTFFMM3dYak1X?oc=5",
+        "title": "Why Shares of D-Wave Quantum Are Sinking This Week - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2hjTjRfbm1tVEFfLVZrRndaa0k4REVqNVJwNmdKZFM0SVBpQmp4REI2aURaWG1nLWNpMjZmUm5rNVA4ZTlNSnIwM0VXTGYtTHRmN0UwNllrdjZ5cnF1OWJrSHBweEtPS2VIajl4RXh5bWM2c1R6d2Fvd2VVT2hqeG1vdWVsMjRSRkMzUEtpUmxDV1B5U21lQw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Dominion Energy (D) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHVKRUZ0NDk3X2pLcTRvMFdUTWtJel95SXZCNWZLZU1odWpmbmdnV2twR0ZVYWxRb1ItT3A5VjNjSWY3SG5qRkFWMnotTXRjR1lhUlVsZWxSeU9YRWNCU2hXT1Fsdk44M2ljeUp6VEtPRC0zekRJalZXTjhnUDhLYm1B?oc=5",
+        "title": "Dominion Energy Stock: Is D Underperforming the Utilities Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0VZR05QOXB0bWg3TDNzVy15NDdzMzVMSWNzR0VVUFRtMjhNV19IX0kxLWhOWnZhdlpqVmhnd2pDTk9DZXFUTE96a2V5WFF6Z20zbDNNNXZDeXhBanNvZ0RWSHA2bUhaU245ZTJTQ3E5eE0zMzNZRnpHUU5idjBJRjdzNkxrd2M2XzQ1YUlYZ1BkZXdRY19aRTh6OVozaC1OaXNCTjhWa3VhdXZxenlRU3Nva0pLamFpaklRYXJMYmFhc0JNZzdOanZScFdoaTZQQzdIMTdRVHhwZ28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Quantum Computing Stocks: Does 'Annealing' Pioneer D-Wave Get Enough Respect? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamRrVTFRdjJMc2UzWHNtc2J6TG5NTDRaQVJwUzYzLTZtUThTLXlOdWlRMjhlc3VQV0NtdFFSVmk2b2NTelp6dW5nX0wyak1QRFNzdTRDLXFSc3NoSXBuQUpFRFFmQ29EdWx0OVIwZnFyTXpLdF9WQjVtTmJ6TWFiQUlleWV5YXJ0NGZPekN0OTNjMmdhUlNsSGMxb3QwWGJDSnRZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "D-Wave Stock Soars as Breakthrough Quantum Platform Hits the Market - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0ExSkpXTHRfX1dyY1d3VUlRdXpsYlZUVVVvZGl3N05ITzVNYTJpTW9OeUQ1ZDdqaVhxOTFkN2MwcUdVTGxNNU1uYzZiRWVpRFUyTEYzLUR4QlZ1a00tZXhqcVkyWXIzTmhNNHp0VG1ZSkszUVl5Q0JqYW9vVGZHNE9MYw?oc=5",
+        "title": "Is IonQ a Better Quantum Computing Stock to Buy Than D-Wave? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVg2NS1iOHNCX2cyNEtYZEVsQVZzWGVuYmFzWmVyQ2J3LWx2aW42MkYwVFZscXRGejBpZ29HZHBwMWRkRGFWNXM5U0xLS2F3b1NpR01QQXBvN0dUZlFYeGlQVlFJbkZYNGRtdTEwS3NobS03c0pKTUhnNzFVQ0pMQjlXQW9raE5T?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Dominion Energy (D) Stock Moves -0.61%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZE1pZklKMVVZeVlQd0VBcGFhVkVFOXREblZ3NTZwQmxMbFp2ZWZaY1RManUwblV3bjlCTGFSWEVMM2N3Wm1LN1g2TktpeWkxS0dYLXkxYlB5Uko1c0VUaE5oeWxTT0c0eGI4THJQUDdDaGFyRjNyNEpqSUh6VHhTbQ?oc=5",
+        "title": "Why Modest Stock Market Gains Are a Better Sign Than You’d Think - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN2VkUXg4eVZhNW1JNUV0cUNHVV9Ubk5XR0huLW9qMGNvZWEzMDFkV3VNcUZxeHptWmFGVVRfUXBwLU8zZk1rN1YyWmZocG1oMVZwRlRLYkJoeDB0V2txc3ZoV2UwRWhoYVlmMENEQVlkU2lPNzZMTzMyRVJLMEVYckpTbWJxVHE1YzRuNVI1UXYyQlRwYkkzaGRuRWRBcklGLTR4MGxnR3VEeEszYTdsN2d1ZE8wMWpDOG5tYXJOSks5aGZxWU12WE5LWlBRUXl4OEtHSDR4bzNueEtiUk9DSUg3dzkzOVZ2ZTVXcHphaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "D-Wave or Rigetti: Which Quantum Hardware Stock Should You Choose? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOC1BNWswZTB4X2Q0ZEVkV0hMdjhDNC1kb2kxdlhYR19Vbk1MWW1QT0plWnFqRXQ5UzQxb0hqUmstZlZib012OW5PUTh3czQ1cktoQm5OTk91R1R0QmhNYnlhbEx0bjdmWm00RFFEQVVzZUJhUVN3czlZdFZxVlE1ZHpTRQ?oc=5",
+        "title": "D-Wave Quantum Stock (QBTS) Dives Despite Acquisition Aims - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMklXalVaXzQ4OFBqc2RYUmlOZ01RRi10ZklaTFl2T0hic0drMldaV1NOR3gwUHYxVU40UmNudTYzazl3LUhOa2NsU3pTWVBRRVFkWGxTTkR3c2hKQnFIejBRYVFjblNpeElZT2VhOFBvWVlwQ0JIdXM1aWRaS1Z6M0Eydlp0NjJuMjA3ODIyOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dominion Energy Stock: Is D Underperforming the Utilities Sector? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmw5MHhSbE1lU2tia3dJX1YtM1hUc19kLWdveC12bGE4OEw3ZDRqNk9ZUmZfcHluQnp0aDBfaGZCVmlxOXZtQnJwQ0wxWXlzNDdMc1BYVkZPNklGZTdDbzRlWnVQOUVfLU14S2dMUWl4Qk9jcWw3ZjRlTWdlVjUzLWZHdm9TUllNVDZ4dkRhei05R29yQkt4MFdWWmRRZEpxRVhkeTA2ZjJOeXRBTEhXdFJ0NjIxcXRaZFkyZUJHc3FpX1FkTkJmakZIYURkNl9IWXZMSnQ4d284UWJvaXc2clJ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What’s Next For QBTS Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0xiSWwwTXNjajJhd0NCUVN1S2pWS0I1b2ViZnl1OS1Da1pic1ZWbnhTNi02ekZmcVk5MVNVbUh1WHNWUUp0QnlCQlBzdU05T3UtOWNRUGE5U2lORV9PNG5KN1NSZGp4cXI5TVktVnhJbGhlY1dlcE9ZM1VBeWpDMVJrTmRrMm5ydE5nZ255RDBlQkRDRV9kc1NzVmk1Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Corporation Announces Redemption of All Outstanding Series D and Series E Preferred Stock and Related Depositary Shares - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQN3RNVzFJVS1OWjlHVXlJZEdQZm5YMHlPTGtKMkIyVUZGNUFRcTRFYm40RXpCa2xEeWVacy1mSl9FVDhHRnpsYTVETnhvTXEwa1NmeW11SkxibWhqbzlFbDVSOTZNdzhNU25uOXItR3pjT1NiOGUxYnZYaEJ6RDM0UHBPR2gtOWNmR2MteDhPU0pTQWJJcUowUmVnY2Q4R0xCdDhtcjlTdTQtLTJsa3MwNXZqamh3MEdPU0VOcDlUSTM5QzVXcTRXX2x6LXplcW8tdkxyRmtYMGR1VTc2ODRPWlRBZ1ZoWi1JSnBQM2dCTjZwcFdpY1Z0UFY4d3kxNVY4Y2Q1YjRPWlhkUnJLT25ibk4zb3hxT1ZuZW0xMWtGcUotSmo5Yno1YW9ReDY3TjJITGdKa1J5WdIBvAJBVV95cUxPNDl3aWo1TWtCeVkwa29EbElMaElsYi1wcEpqXzRYZ1ZUQnlRcWlCWmV4TTFBQjBBV2lxRzRVUWZGaXhva1ZrTkRJeFlfQnBrNmRYY0ZyV1k3T1pPM0tPM3l5Z0V4dE0xdFpickJSSWJkbVVJZTdTYjRKem52aU82bElmZC16bF9IR3pBRHZ3SUVCZFpCcWJXQW40TEtDZUk5WGtiWHBHOW9XZ3RJYmdjZlRjcm1TaHQ3cnJFOTVVU2RxeVJTTV9Cc1N1cWpXZjhqZzlaa3lwOWNGbEpaMWVGNmk0OGo4YjFLc0NtNVZ1WFpkcXRDQnAwNUpTaXFjbVdMdEF4WVdxdkxDQ3NFeFM2WWVNY01aVDFNbE55ZkZhUHRGZHNRNjU5ODlFM1dfMHZsYm5sdzlocXAzWnR2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D-Wave Is Soaring—But Is ETF Diversification the Better Strategy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaU1tTy03aVhkZ2t1c3J4aUxCNmdXVWYzU2FuZzdmNjluVWR0VWVsMGZ1bjFhV3BHWjNsVUNsVFI2VEZtU2dBX01sUU9GRWhXM3lWVmxrM2JNYjEzNndSY2RLTWFUV1pfSnpXTnljME8zeUFWX19ZeUVBbUNWZHRHV3dTanNINi1CdFJfY0dRYm9xdlVuUkR1NnRFVjBMc2lZUFRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Artelo Biosciences stock rating cut to Hold by D. Boral Capital - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUM2bnhoRktUc3MzdXNUNFRRaWdkWmZsQmZCTWNTN201c19ReW5ZcDd0ZWhaUTVfQXh5a21TR2dVMXlNUkVyWjl2b2lndXkwQUsxTnYxQzRkVjFLNUlWV0FoeklTNE5STXV2TWVadHRaeVFBaURjV0xJRnp5OXJwZVhXX09EMjZYdy0yc3FVNk81N3BJN1BDNDFmLWxKdkg4NVdQQTU0Q1hhVDlMV2VvZEoyMWhuYlFLN0Q2aHZQVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D-Wave enters agreement to sell up to $400M shares from time to time - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GUk4wVDA0Mjdqb2ZDYkNzUWpXS0htYTlqTURkRVlYdDU3S3ZfbUxZemlKV1hUZFlHOHItYk5CWlpwekVQaXBwYzBxZU5pTEtERTBCeE81c2Vad2YxTlRMT1k2ejRkQlpaUHB3N1ptemw2QU94cjVuaDdsX3JSWEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is D-Wave Quantum Stock Still a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2owWDVsWDA5SDlJWXZlb1ZvbjVxRkNkMDdUVmNNbURZV0RLWFRwMDFVZWxEN0VMZUstZWdLamdrbWZmU0Z3ZDFtYXRCRmJubWQtd3IzQ1U4LUlkM3pxdWVMeWFMaGlBOWQ5NndqeWYwRFFfeURBcnM0dU85OU80aXlmMEY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rigetti Stock Jumps. Nvidia CEO Has Changed Tune on Quantum Computing. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkc1UFpIVmdUY0NJc0hSUlhuZDZUX3B6UHJSVzZIZGR2VW9wRENjNWRqaENnMnhrdWJEU3R1eDdlT1d3VjlpazFaUHg5T012dmdCTTZ5YlRlVk5OWjZZcjJCbDhtQW8tb001N01HbTFBNDV2RERtdEdtYnZxRGpGYVhZbGtQeDZmdDh5LUlxaGF3dGpYWW0wT0p5ZGUtSlVxMm5ZT0p3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is D-Wave Quantum a Better Quantum Computing Stock to Buy Than IonQ? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPclhZSTQwX0Y1MjNUQTQ0MkZxQ0lfekx6M19xcGUzZ3EtdHliblpMVmVteURLWmZIN3RMN0hDaWVPSmJDaVV0OWRpbVhXRTVoOVJRNHQxQ3ZJSnZlbkxGUVhHdEVfZXN1WUQ2SUlWN3JIcTdVdE9kWW5LSmQyTnhEMWktMERZOHRlU3lJd28yUVN2Ri1FMFdreA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is D-Wave Quantum Stock Still a Buy? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDBqWkhheVFvbjlqWFJaSG9hT3N3ajJ3NmxTSHZQckZtMnQ0ZU0xTUVydEJNRzNuNHVoOE9UeUhiX0VQTTdZd0wzRWVlWUFkd1RIZHBmVnQxV0pESlNVbkxVV1F4ZURuSU5fQXNUYm1jVElWS1czVm9RVlI3Y2g5US1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Dividend Stocks I’d Rather Buy Over BCE Stock - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzJZV2JxWGEwbXByMWZWU1RrVGppZ09SakpLR0xfaEhUN2VGcFBuRWVvUGVPcmVWNlpEMzVpVnloNlhldUNYTUJfRU5DU3Q3MnpBTmpBazhfcjhXLTV4RUFOVVVXai14enpHQXJ6dDNzYXdQa1ZRbjFZa2ZaaDVfcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CEG vs. D: Which Utility Stock Is Charging Up for Stronger Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nOWdtUTliNUhNQmJkOXBpMzRWcEp1eXZfRjQwQTR3Y2w3UnRobjg1Y0NOSWhzc0w4VEJLVXk0Q3E1Q3ByVHdoekx5UDAxanp6eDBxbmQxTlVJeWtCMnRCb0E5V2FkbElNQUZYRFFvbmk4UEc5aUNV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dominion Energy (D) Stock Moves -0.61%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOal9LZl9mNWZWN3dqNnZ5YzRmZkJDRU50cE45aWVzcWl4UkxVV3VSbUxCb1JFZGlQSEQ3VGF5OEpwVDBtX0tQVE14ZUEySm9obEtOYmY2ajVxX3c4RzZZYUMzRWZEWlJDSm9ac2dzQXp6SUlwV0NtQmJDTHo3NURDbHlTTXdkS1VSWmE3WmdzQQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "NMIH",
   "name": "NMI Holdings Inc",
   "sector": "Financial Services",
-  "market_cap": 3085854464.0,
+  "market_cap": 3145306112.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.531318,
-    "PB": 1.332254,
-    "EV_Revenue": 5.082,
+    "PE": 8.695681,
+    "PB": 1.357921,
+    "EV_Revenue": 5.233,
     "ROE": 0.17378001,
     "ProfitMargin": 0.55933,
     "GrossMargin": 0.80662,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.32488031930437833,
     "ROA": 0.09984,
     "PEG": null,
-    "EV_EBITDA": 6.429,
+    "EV_EBITDA": 6.62,
     "BuybackYield": null,
-    "PriceToFCF": 14.331579029247388
+    "PriceToFCF": 14.522378971118755
   },
   "technical_indicators": {
-    "RSI_14": 63.16634752424568,
-    "Momentum_10": 4.580353511435355,
-    "MACD": 0.8617269086904713,
-    "BB_Percent": 0.7820266164675069,
+    "RSI_14": 63.69439586107444,
+    "Momentum_10": 1.36203511979993,
+    "MACD": 0.8635079978680125,
+    "BB_Percent": 0.8277189808941545,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351056935110816,
-    "QualityScore": 0.5534172235517694,
-    "SignalScore": 0.4536898935133787
+    "ValueScore": 0.8968096273827673,
+    "QualityScore": 0.5642099723641156,
+    "SignalScore": 0.5053568388690817
   },
-  "volatility": 0.017939305096698,
+  "volatility": 0.0176445715835421,
   "beta": 0.551,
-  "return_6m": 0.0053448480422322,
+  "return_6m": 0.0603371159483074,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 7,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 37.59
-      },
-      {
-        "date": "2024-12-10",
-        "price": 37.92
-      },
-      {
-        "date": "2024-12-11",
-        "price": 38.52
-      },
-      {
-        "date": "2024-12-12",
-        "price": 38.22
-      },
-      {
-        "date": "2024-12-13",
-        "price": 37.97
-      },
       {
         "date": "2024-12-16",
         "price": 38.08
@@ -537,37 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 39.81
+      },
+      {
+        "date": "2025-06-09",
+        "price": 39.25
+      },
+      {
+        "date": "2025-06-10",
+        "price": 39.42
+      },
+      {
+        "date": "2025-06-11",
+        "price": 40.4
+      },
+      {
+        "date": "2025-06-12",
+        "price": 40.6
+      },
+      {
+        "date": "2025-06-13",
+        "price": 40.34
       }
     ],
     "current_price_data": {
-      "price": 39.81,
-      "change": 0.5,
-      "percent_change": 1.27
+      "price": 40.34,
+      "change": -0.26,
+      "percent_change": -0.64
     }
   },
   "news_sentiment": {
-    "summary": "NMI Holdings, Inc. (NASDAQ: NMIH) a récemment suscité un intérêt croissant parmi les investisseurs, avec des hausses de cours notables. Cependant, des ventes importantes d'actions par des investisseurs institutionnels tels que Two Sigma Advisers LP et Wellington Management Group LLP ont été observées. Malgré une croissance des bénéfices en retard par rapport aux rendements des actionnaires sur trois ans, des ajustements de prix à la hausse par des analystes comme Compass Point pourraient indiquer un potentiel de valorisation intéressant. Cependant, la vente d'un volume important d'actions par des entités telles que Squarepoint Ops LLC et Millennium Management LLC soulève des questions quant à la perception du marché à l'égard de NMIH en tant qu'action de croissance.",
-    "sentiment_score": 0.1,
+    "summary": "NMI Holdings, Inc. (NMIH), bien que bénéficiant d'une hausse de 4,6% cette semaine, affiche une croissance des bénéfices en retard par rapport aux rendements des actionnaires sur trois ans. Malgré cela, la société reste un potentiel investissement de valeur selon certains analystes, avec un positionnement en dessous de la moyenne de l'industrie. Les récentes ventes importantes d'actions par des cadres dirigeants pourraient susciter des interrogations, mais des investisseurs importants continuent d'augmenter leurs positions. Dans un contexte où le prix cible est relevé par certains acteurs du marché, la performance future de NMIH et sa capacité à maintenir sa croissance des bénéfices seront des éléments clés à surveiller pour les investisseurs.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.05,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "NMI Holdings, Inc. (NASDAQ:NMIH) Shares Sold by Two Sigma Advisers LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZS1tV0U1cDFnVS1FR2JvbURHaVpjRGFmRVZNNTNsYWhzSnI4UnN6dkhvLU8wZ29LSERRMzhJbTRmS29yWEp3cW80a0swc2dNMm9udVhKLVBLZk9vNXpxMFZfYW9hQllIeS03MWJzT2tqOGdLQmlQZnB5X3l1SGNnVFBGSGZ4Sl9xbGhyZHpWNUp1dUJvWE1CSWdjQXhocUw2MW9XbWJRQjN1WHozemJ0NXVCNEpETHkyTWxnZWdxajRwMXM?oc=5",
+        "title": "Why This 1 Momentum Stock Could Be a Great Addition to Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Ym9LYW1CYlM2TzF1YnZhbUxYWHE4MEtaYndfRmRGV09BQXVyNWpUREF1aGZMREU0bDBXQnhVWXhaLWJ5S3pBdzlhZDlsT2dhdzJXLWRxYzYtMkY4VVZOTXJmUS14QmM2NkJRWk9qOGZRT3JUYl9XWTZ1VF8?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54VU91SThyVVJPSHI2bkkwQ3lGY2J6LWNFUjBDU0tLeFRhdWVZekJLa2I0THBUNThuU0FkQ0JiUUJMWWxRMDdTc04tUE8xSXJQS1FWdjZTTTVucDRaMURYWHozczZDM0xmZmw5MmVhY3lLU1RtcUdTeg?oc=5",
-        "label": "NEUTRAL"
+        "title": "NMI Holdings, Inc. (NASDAQ:NMIH) Position Reduced by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUGdmMmNrVlgwdl9JT0FTdmhTVldqUlByQ08xcjBweW8zZHVZczhZRGJ3Q0EyaC1UeFJJX0Z4dkZ0d1dVWlhYYTNVbUl5ZDVvNEhFNWtQUjdld3RNVlJtbFlaSUgxVHJqYlhTLVpBbVlRY0ItVTVCcWF0Y2hCVENIRmYtdGg4SHRyR2dybEUxREJVNjhGWk1CdUFRVnNjMUZrbGR4bG04azRXLVZXbTNiSGZhdXhoWktHM0I1eTdSaXMtZlIyRmNmMXpsWG5oRnZCTlRRTjN4RDZNOHpWdnM4WXBEVi1HaDNPbWF3Tw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2ktdDNiR3Z6RTFYYWJlNU5CdjBZTUJ4WUlVNXFIYWlJblRaY1RNUmFkQk5ZdVdEdTBrOEw4aFAtR2JjRjdTNHVUR0pnNzBxZThfbGdGQnRsYXdoN2VURmZ6VUtsNl9NNC1VT1BQbnF2S0x6ZTFJNGdXUkR5Q3VkQ0F3dHZqMFI2MkpTTVZ5SVkxZHp4TmR3?oc=5",
+        "title": "NMIH Stock Lags Industry, Trades at Discount: Time to Buy the Dip? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDh1WDU4a1UxNk5qMzdTUlY5Ylo0d2o3YTFXN0VaTzEyTzdKYmowQlRyaXJfM0dGV3R1RzNOY3RvaTVYZWtlS0RGWXMzSzFwMmJUWGF1T2FDTWs5c1lHYm9aUUlySG03OWdlR1o4TUdaa2ZSZEpjYUV3VEpZZGpVdW1ZMmQwTTU5TjZXS0dsUkRCRmxXemQ4b1dHSV9Mc09RMUE5WG9HWQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,13 +576,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "NMI Holdings Trades Above 50-Day SMA: Time to Hold NMIH Stock? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lhU3hCNERRN3YwU3RJWFJudVNIOWNWSkpUVTlZRGpLUEkzOXphdGpucWNYMnA2eVpmLWoyVk14MW9ZVnh0cVFsMWMwdUFfOHlGSnA4WVpKalVwN2lJa1pPclhzbG5yZEo1dlY1dlRnbkkzbURCMzY5QjBOQS0yU0VhLUtaR0pfd19RTl90czJvNlZ5YWhRZ1h3cXVBdkR4MjJz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NMI Holdings, Inc. (NASDAQ:NMIH) Shares Sold by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYnE0MUdzazBISXJpdW9aSlp4S2ZtMFlLTnNoT0JEdkM0OEVIV211NjNoRlV3WU13WlA5ZkQydVVXX3RjNmF4dGZwQ18xTjFyU3V1NDRBeklEaVBVRlJNYzNWZXRpR2NUQlRxV2NCbmx1WWN0V0Y5T19paTI2Zmk1MDRvNk44RGliWFI3WS1NTFZ5dFdGQnNqMUhyVkYxRjk1dXREYU91Q3lQTUlDTm14OGhxeDBvZTBybnR2Q2EzekVSM2wxOF81a0FTekkyZlF0eDBydXZZSUZVdw?oc=5",
+        "title": "Here's Why NMI Holdings (NMIH) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVm5udllhNHRVcW50OFBTaFBIaGc0V2xfczU2aGZyLUJIU3U5TWhqSjNPOF8tM1E0THdaOEo4SjIyNEhLZkxEazhzc3FHajJHTXAyZUdvenZsWElEWmY0MEc5YmJwMnNRYmZINlV6djhuaWhqWUFRT0YtUGpFUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,28 +586,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "NMIH: Compass Point Raises Price Target to $37 | NMIH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNm5JVThRb2UxS2hvNnJpa0FiVDNQREpMZ3VkNDJJUV91NkI2Z01qczhVNEVGano5dFd3NHVDcTF3N1J6UmtSalhPaVRTeENvaTAyeUgta3V0VjdVZ2RkN2JhU2Q5OVVYV1BQaHhmS0NDSGRjYTNJQUFOS2oyRkZhR3pBM2NRbkgxZWJvRXZLSEZaSkZLbUNvcGtDY1R5SnZMZEE?oc=5",
+        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2ktdDNiR3Z6RTFYYWJlNU5CdjBZTUJ4WUlVNXFIYWlJblRaY1RNUmFkQk5ZdVdEdTBrOEw4aFAtR2JjRjdTNHVUR0pnNzBxZThfbGdGQnRsYXdoN2VURmZ6VUtsNl9NNC1VT1BQbnF2S0x6ZTFJNGdXUkR5Q3VkQ0F3dHZqMFI2MkpTTVZ5SVkxZHp4TmR3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why NMI Holdings (NMIH) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVm5udllhNHRVcW50OFBTaFBIaGc0V2xfczU2aGZyLUJIU3U5TWhqSjNPOF8tM1E0THdaOEo4SjIyNEhLZkxEazhzc3FHajJHTXAyZUdvenZsWElEWmY0MEc5YmJwMnNRYmZINlV6djhuaWhqWUFRT0YtUGpFUQ?oc=5",
+        "title": "Bradley M. Shuster Sells 21,545 Shares of NMI Holdings, Inc. (NASDAQ:NMIH) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzhYeWNUZ1Nsd2VfeC1XNkpNUi1QUkJCQVRMeHI3MDE2MFZJZktXUUFuRG9ETVZienowWU45OHZwSlllNmo2bmlPdU9OaDcxRzZ5cTNwNThmT1BtdzNLd2xneUNhUkZweEZKQzZuTW5SYVp6Z2JUV1R6RHBmemFEOHRCM0trN2ZMUE5ja1I0MU82dGdPbzZxd3Q3MlR4c2ZJUWRmbnJlV1hCdzBRQ2pqMGJUbDZSYnlpZWhabmY4cFhyUUJzTngySFdpVVNCRlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NMI Holdings (NMIH) Up 7.6% Since Last Earnings Report: Can It Continue? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEN4ZGltZXlRRzhjazAxSW53Sl93SFZUemFoU3h0UGVJRWFCbTVCTjNpejB3UURYazNxVEFLeW1EUlJmTXpTTElvLTVLOGNZTXBXcmc3WURkdXFJV2k3QXk3R3NZUmNteUE5cl9PS3pJSFREeHF0OU9aUGxEM3lhRXZxUmdWM1dDbnFLWWtUMFpjWkE?oc=5",
+        "title": "NMI Holdings (NMIH) Price Target Raised by Compass Point Amid Sector Challenges | NMIH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUlQTFZFM0tVdmpsYk1fWkdGWkgxXzRFWENGOWVnWkRoLUVHRTRrTGdxQUZ6X0Rqc0I5TE9fWHlQQll5aFhDOHBIZW84OGZCYnlYUVN0UlFnNlR1ZWRRY3E1ekRDa1VJaE5leHQ2N1lPZTdHYVJuM0VIR3MwOTZ3dGp1WV8tbmlOeG1VUlpCUVhzQk9MbUF3Z29BNXpxSllLbHdXMUNGdXg1QnpVN1FNUlVvNGFLLVVqaVJkMnVUMkJmUDFoQ1YyTXJ3NXowdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "NMI Holdings (NMIH) Price Target Raised by Compass Point Amid Se - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC10eUFadHBpbWFUdHRYd25RMFZpQkRTdUJRejFiaUZJd0RGaTgyZVhQSENPWmk2NVM1TFpJcjJHZk5ubF9pZWduakhFNmg5ZFdyb1g0d1Jnby1OWHU2NVMxWlJlWWpVa3JHUHhkb1F3T2t6QlZxNks0UmdzS1poNGw5ekY2SnJsQUVaVEw1WG1uc0lOcWRFbUkzSGl6c2xYXzhHVW5iM0FUemdVbFcydVNCUFN6bEVxMzhRY2U2UWszMnlXS3VFSlFDemw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Squarepoint Ops LLC Sells 42,009 Shares of NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmxrTzVQWVJjd0U1MGlSN3JZc3F3T3hZT3NnakZFRmdRY2U3WjFwTWFnZGhPYmxZalNXbldjZGU3MVJEVDhIZlpWX1h5QWQyc3ZFTlNZZTdNUHQ2QWlNd2h2ekV2U2x0aUlrLUFmWjljUEUySUVTNFY5eVBoR3EtTG1JNHNmNHByejBCWEVxN09xeG1yQU1qUEtsWlRYZEVJT1ZRcFJLZnUtMFU4QzhYd0toOVJRTFo0MzJISFlpLV9kZlF2SXJHcGd3?oc=5",
+        "title": "NMI Holdings Trades Above 50-Day SMA: Time to Hold NMIH Stock? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lhU3hCNERRN3YwU3RJWFJudVNIOWNWSkpUVTlZRGpLUEkzOXphdGpucWNYMnA2eVpmLWoyVk14MW9ZVnh0cVFsMWMwdUFfOHlGSnA4WVpKalVwN2lJa1pPclhzbG5yZEo1dlY1dlRnbkkzbURCMzY5QjBOQS0yU0VhLUtaR0pfd19RTl90czJvNlZ5YWhRZ1h3cXVBdkR4MjJz?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,14 +611,34 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtYzRhblF2VloyUzd3UHUyU1FwTUl3akQyZXZISkhkRUZOQzVraXBPaEprX0FlQWctM001TWRDRkhTdDluUDRkMi1WVjZTUi1pZEpTUlh0WmNMckVkd0dsYVpBTHJXc0VJa3p5RXU4ZXdNUTdKSWthNWZn?oc=5",
+        "title": "Two Sigma Advisers LP Has $360,000 Stock Position in NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZS1tV0U1cDFnVS1FR2JvbURHaVpjRGFmRVZNNTNsYWhzSnI4UnN6dkhvLU8wZ29LSERRMzhJbTRmS29yWEp3cW80a0swc2dNMm9udVhKLVBLZk9vNXpxMFZfYW9hQllIeS03MWJzT2tqOGdLQmlQZnB5X3l1SGNnVFBGSGZ4Sl9xbGhyZHpWNUp1dUJvWE1CSWdjQXhocUw2MW9XbWJRQjN1WHozemJ0NXVCNEpETHkyTWxnZWdxajRwMXM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Two Sigma Investments LP Reduces Holdings in NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFBKQVZKWGI2aEV3Q3J2bkNoWFhlOHVVU2R2eVd4VjRSR3I3Sllva3hjdmkya0NpWGxkcXhNTkt5RUQtdlJzc3ZFWVRDNWlieEpzOE1yRVp4dU9GMGpEX0pPNzdOczNpYkZna1VKUHlMRG1BLVF2RUM3SVdYN2VPY2RoV1g2QUhxWVlQMXhhc0JBdzJSUE15Rk9LVXpfTGVJQjdHV0NDRFRaQkVUZFdKc1ktLXBNcDgtdG1HanR4RnVjUUZEc1YtMFlqSWhYQQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "NMI Holdings (NMIH) Up 7.6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waDR3SS1oQWMyQzlzb2ZXY2RZMUJydjdyeU9Sa0xTWm1lNGlhYUNTX0d2NFZ6dF8wTzJnWTM4UEVPQ1hJMlBwWExCYm51cGtzMTQwanFtcm4zMVU3RTVWanpvTmIwUE9NNTZaYS0yOTRPTnFyS1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54VU91SThyVVJPSHI2bkkwQ3lGY2J6LWNFUjBDU0tLeFRhdWVZekJLa2I0THBUNThuU0FkQ0JiUUJMWWxRMDdTc04tUE8xSXJQS1FWdjZTTTVucDRaMURYWHozczZDM0xmZmw5MmVhY3lLU1RtcUdTeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assenagon Asset Management S.A. Grows Stock Holdings in NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGRKRlhCY3hXVFg2U2JiRUZ3QUtkaHdDV1I3VTJWYktneGN4S1NYeVQxbzgzNU8xY3pQamxGa1dXQnZrZGJ1YlRnRDRxdHNYS0VTVXdMejJILU1jTlRGcjlMR2d5Wk4yMUV1ZkJVM3RRblJfOVRqRERuYW91RFZCamNEMjlib05BV0RCWHU1TWkzMG5sREVGR0tDU2JDSVRiOWlqdkY3eWNhcjU4cEZINmZGWVVTcjVZY2F0TmRGM2FPcTZqZVRlcjF0TWRTSm1qZkNvR0xGWm1kbk9mYnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NMI Holdings Inc (NMIH) Q1 2025 Earnings Call Highlights: Record Revenue and Net Income Propel ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01cFBndWVCUUdnMTNhMkM0OGFiYmI0Sm5IUklnMEZWWExaRHhXYUNBRjhrTXpBOUxVdmJVNk91RGc0Y25xZWZTRFM2aGtlbGhRYl8yMlI4NUpjaGhLanV1eERIQmI3amE2ODF3ZW9lclFaQzVFcWhUY0pB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NMI Holdings, Inc. (NASDAQ:NMIH) Shares Acquired by BNP Paribas Financial Markets - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFVUblo2aUZBOTVkdE00dG9IUGE5WW8xc0poajVDbFpHUVczWXJPQlBXVGtPOGdtd0ZwcU5Db1d5M2hZSFlXRGxmSnRIUDZLa2lqZVNyTWRoMVU3NkxtdnFka2gycmRQY25Hd256eFFDZkZGU0VVOE1rMHhfQWpUdlFCR19jOTN2c3QzQzVCb2Y4WDliRE1INW5UT2pwQ0pLVVJyalcwWUlJMi0zamRhMlNoN0RKZ2tGSHg4M0w5MlVmaVpXd19jenVqTQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "NMI Holdings, Inc. (NASDAQ:NMIH) Short Interest Update - MarketBeat",
@@ -641,21 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "58,800 Shares in NMI Holdings, Inc. (NASDAQ:NMIH) Acquired by Jefferies Financial Group Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLVJMWXJOVnA2WHFDWW9WWERZQjVES0kyT192VXpaVURjRkcxRmhjUGFGRWJBWjcwUWdzaklUQ3RxeURsX1daUXZWWG54Y0VpQ1BBa2pVZjJZQUhndnJubFJtQkNDd05xVmtqY2hFbkJRUFREUnJlSUhjSUoxQVhOYnF3NjdqTWs5dEhqRXFyNXZ2aEVzYVU1RG5oRll6dkVJSlROeThJeTRqRlZQTnA1VnpjQVdBQnpGbS1rZ1NNblJmMzhtd20zczE0dm5jeEJ3M1QyRVotZG15RGViOUYyTDl3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Millennium Management LLC Sells 307,681 Shares of NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmJZQ2pPa2F4WVUyM0dRWFJNY1VBREZJNzN3TnNtVHRYYUNzVThvNmtvWGxNUENSMU5DZjFEVnA1MXJDTVJvOTZLVVluSFFXcFJPaDdTckJnbWNYZmc4S3BCenlCLVdiUFFRUXNYTWJ0SlRWOHdBNEg5RVRMdzBaeHNnQ01Hbmlqb1NFeUZwY3E1TWpMeXl3QlNHMHJNZURSZW9sMXlPOGZQWlA4ZWdmQ1h5ZzAtU1U5eHE2ODVXQWVsM0dqejVRSkptbDBfNUJFT1dOWTdR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHh4NUx6Rkp5UnJSX3pZQkMxNUk3akRyLUtXaGl5SGtFWW9tUzJFOHNYTDV5Rkh4WDBXUVBUTVNnM1FuOEtVUngxSUozMTMzUVhjd1lOVmR4ajcxcE1GeTQ5YXpRNjhDZ3plVW5yX0xVaENsOWNLYU10OGxkcVdWWHJRZzA2WTAtUXBucHFySHg4cjE0UkhEeg?oc=5",
+        "title": "Squarepoint Ops LLC Has $659,000 Stock Holdings in NMI Holdings, Inc. (NASDAQ:NMIH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmxrTzVQWVJjd0U1MGlSN3JZc3F3T3hZT3NnakZFRmdRY2U3WjFwTWFnZGhPYmxZalNXbldjZGU3MVJEVDhIZlpWX1h5QWQyc3ZFTlNZZTdNUHQ2QWlNd2h2ekV2U2x0aUlrLUFmWjljUEUySUVTNFY5eVBoR3EtTG1JNHNmNHByejBCWEVxN09xeG1yQU1qUEtsWlRYZEVJT1ZRcFJLZnUtMFU4QzhYd0toOVJRTFo0MzJISFlpLV9kZlF2SXJHcGd3?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

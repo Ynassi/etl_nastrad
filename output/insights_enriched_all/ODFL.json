@@ -2,16 +2,16 @@
   "ticker": "ODFL",
   "name": "Old Dominion",
   "sector": "Industrials",
-  "market_cap": 33909209088.0,
+  "market_cap": 33902866432.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.105068,
-    "PB": 8.029022,
-    "EV_Revenue": 5.883,
+    "PE": 30.099436,
+    "PB": 8.02752,
+    "EV_Revenue": 5.984,
     "ROE": 0.26593,
     "ProfitMargin": 0.20044,
     "GrossMargin": 0.39749,
-    "DividendYield": 0.7,
+    "DividendYield": 0.69,
     "DebtEquity": 1.416,
     "CurrentRatio": 1.318,
     "QuickRatio": 1.194,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10601224776296923,
     "ROA": 0.16778,
     "PEG": null,
-    "EV_EBITDA": 18.271,
+    "EV_EBITDA": 18.584,
     "BuybackYield": null,
-    "PriceToFCF": 55.86094232081847
+    "PriceToFCF": 55.7287342670296
   },
   "technical_indicators": {
-    "RSI_14": 48.05336144489613,
-    "Momentum_10": -1.6786355878331083,
-    "MACD": -0.0123527850298046,
-    "BB_Percent": 0.2872274894838295,
+    "RSI_14": 47.73054533507666,
+    "Momentum_10": 0.4409729939469636,
+    "MACD": 0.1526355659302964,
+    "BB_Percent": 0.3053245061812646,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9281527705159012,
+    "ValueScore": 0.8748655832210239,
     "QualityScore": 0.3334250977260827,
-    "SignalScore": 0.6138857733910155
+    "SignalScore": 0.5911346498178429
   },
-  "volatility": 0.0272710007477528,
+  "volatility": 0.0276371611318128,
   "beta": 1.272,
-  "return_6m": -0.2069277689276589,
+  "return_6m": -0.1974243606767747,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
-    "target_mean_price": 167.64682
+    "target_mean_price": 168.14682
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 203.93
-      },
-      {
-        "date": "2024-12-10",
-        "price": 205.09
-      },
-      {
-        "date": "2024-12-11",
-        "price": 204.81
-      },
-      {
-        "date": "2024-12-12",
-        "price": 203.04
-      },
-      {
-        "date": "2024-12-13",
-        "price": 200.69
-      },
       {
         "date": "2024-12-16",
         "price": 198.89
@@ -537,33 +517,63 @@
       {
         "date": "2025-06-06",
         "price": 160.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 162.21
+      },
+      {
+        "date": "2025-06-10",
+        "price": 167.89
+      },
+      {
+        "date": "2025-06-11",
+        "price": 162.11
+      },
+      {
+        "date": "2025-06-12",
+        "price": 162.41
+      },
+      {
+        "date": "2025-06-13",
+        "price": 160.18
       }
     ],
     "current_price_data": {
-      "price": 160.33,
-      "change": 0.65,
-      "percent_change": 0.41
+      "price": 160.18,
+      "change": -2.23,
+      "percent_change": -1.37
     }
   },
   "news_sentiment": {
-    "summary": "Suite à une baisse de 5,8% de ses revenus en mai 2025, Old Dominion Freight Line voit son titre (ODFL) subir des pressions avec des analystes qui réduisent leurs objectifs de cours, malgré des améliorations de rendement. Cependant, Goldman Sachs a revu à la hausse sa recommandation à l'achat avec un objectif de 200 $, tandis que d'autres investisseurs comme la Czech National Bank ont accru leurs positions. Les performances affaiblies de l'unité LTL pourraient peser sur le sentiment du marché malgré des mouvements d'achat et de vente significatifs d'actions de la part de diverses institutions.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
+    "summary": "Old Dominion Freight Line (ODFL) a récemment attiré l'attention des investisseurs avec Goldman Sachs qui a relevé son objectif de cours. Cependant, certains investisseurs ont vendu des actions d'ODFL, ce qui a entraîné des baisses de participation. Malgré cela, les résultats du premier trimestre 2025 sont attendus avec optimisme, et une augmentation du dividende trimestriel a été annoncée. Les notations des actions d'ODFL varient, passant de \"Hold\" à \"Upgrade\", reflétant une certaine incertitude quant à la performance future de l'entreprise dans le secteur du transport.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "New Analyst Forecast: $ODFL Given 'Buy' Rating - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdWRqdW9RVEVNaUkyLVFqZTNDSWpfZ0liMDA0b01BbDdQT1ZZNHNPVnJkQ2x4bXRUVUEzdXpSREJNREM4eGk5RkZJZFNxeHJ4bzZZU0dmX1NDeFY3QlhhSTFKanZsbGkwWFdkYlo1Yk1jMXJob2QxMDBQbTF3Y0k?oc=5",
+        "title": "Bensler LLC Grows Holdings in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjdscmFQYlZULTlDd1ktYTZwd1lOamRFdE80emhaMEVVUkRvTjcxWTFvemhmeHBKQUJCUldoUnB6OXZVOTg3OVUyeE9IRVY1SUl0SFdwZHlud3ZTTlpZVUNXRXUtX0RtblJTNHhUMXdKZTVmbHB2TTRoMlhKVmp5RFNiUlpKSk9aVTN5SHQtaV9pTkFVUjZGNU02M0FBWUpGekVNdG56WC13NG1qNk95NmQ1T2NfYmUxSTFmQnptMHVmakZWRElVNUdsNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Old Dominion Freight Line Revenue Drops 5.8%, But Yields Improve Despite Economic Headwinds - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXAycWlmbThSRGxOWWFKYTMzWmVTTzc2d2xreG9DUzkxUTRkdHBOYW8zRnhSakxlZ04wdmhnMnpsY0JtMldBdngxNU5TX0p2Nll1WjhNSjNTdFo3SE56MzJ2QmhtQXA5aEJ2SE5wbnE5cnNHVzdENXdhMGMtUW9LWlpfckZyVXRVYUlUYkJoV2xKSnNHNkRSODFYRV9FX2tCSXBtalBGeGljT1NKQW5Del9nMEdlUQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Old Dominion Freight Line (ODFL) Maintains \"Hold\" Rating by Benchmark Analyst | ODFL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaDczekQ2QUxDb2tyQ25waDFnb0tMV25HbFRwQ3lNTUtLNXdZYVh4UG1TTV9LMWpLSjczaW5qMzdBbGhIRERmZnNsaHpibVlxUEV2dVMwNVhMaTRWSTF3YXl0cDlacU93MXBZVEUtbG91TGs1cktINk1vc2ZsNHdncjFPY2pCTzRJXzBEdnVFT05McV9DVnNNT0lpQmJXdVM3REdfc18yNmx2UWE3WEtXTkZIbGY5RHRCOXF6NXBHNjZkeE1nbGEzTWE0RExiZDcxaC1SdEhFbnQ1b2ZjRFJrbExsRU4xQ0NsTTBVSVJ1SEJPY3BrM2dKOXBxcnJUMk41YWo1eVV2ZU1VZTBmOGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Old Dominion: Price Moves In Sync With Valuation (NASDAQ:ODFL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSV9Zek01OEprZmRfRlVheGJuSTR4S01pQ3dDajVidzZVOTdoNklYdnZBcTVpUlJrdXNadXptdFB0TXBya3lDU3VQc091TUxGYTdjdnp2NlQzMnBoeTdpU1pUMWZPMlp3a21wLVVSTlBXOXprVVVmTmtCUXJLNk96WTdhczdEVlphZ1JBcVNlM2Jydw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Old Dominion Freight Line (ODFL): Jim Cramer Reveals – They’re Self Haters That Did Well - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBHOXFLdTNhYjNHVWNlMU9sVnNxRnF4WHJ2aHcwdlpNUDlEblNRUzFNNnQ0NW4ycHUwMmRzT3JfV1NaNDZJWVZhYTh4c0o2N3FkVk9hUW15NGp5OGxrc1lhQmNsaG44UzV3b1Z2TnBNSTlCT2I5N1B4NlZyLW14YURB?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Goldman Sachs Upgrades Old Dominion Freight Line (ODFL) Stock, Raises PT - MSN",
@@ -571,91 +581,81 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Thurston Springer Miller Herd & Titak Inc. Sells 4,175 Shares of Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2ZJcG1BMFRkSlR2MHE1R2VnTEJyVGZObk9IbFgxRXNPOHFQWThrVUEwU0UycE1sS2w1TG5JU3h0NkFaaTl2ODFfX0UyZXItNlpOczljekVPN2Nyb3lOVmlMMkRaQjFVS2pzQTl1NVJxejlPcUNFWFpDY2ZPQThyWkVjNThza2Rqb3I0VjZhZl9lUzVzTmd2WXZBeXN3aWc2cFNwNDhjVFN1T0dDZG5CSndtcU9LejBzZUFMMzFKTWtGQW8xWXFjdXBGNFcxUmhIanY5dWtBSmR3UUo2RWVaQU16QmMzeGN5NzlWdld3VDFhVzlY?oc=5",
+        "title": "(ODFL) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbC0wVnZkbGljbG8yS3poYllyQW9BTzlTNjNRbFBtdkxEWkR4cktKTVZBSmFCdXBwWmRyRHFhcDh2N3hTQWRtZUJneldvNHhFTjBXbE9zY2pHcUJSaWJCeVJRbldiUUkyem1DNEFtbDB3bi0tRm5xOVl6TndVdjlMcWt3RF9tYkt2VEIwdENEWjFfQU5iTXFTdnlR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Old Dominion Freight Line (NasdaqGS:ODFL) Reports 5.8% Revenue Dip in May 2025 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmtqZWo3ZlFNeXFpQ2RrYU5pVzR3elo3dVFVcXJ5a2tzTVI3UDFhY01QU251WnItYmtRTU52aVJtckstMXYyTkhIUWpzMmtpdkpCcVVWU1RiaHV0amhmU0pZdzUzVlBFdk92c0l5ZU5pSFVJc09IVXNEZzdYOFRlVU5GR0ROeElBUFcyUGhDeGNHV0FnVkNySjJWT1FKd295emFMRHdyU1ZsY2ZPSndUOFoxVUltYV9wRmtidnd4dF8tRWFQZ2RRbEt2X3B3WTdWSndaWnhlZW5HT3I4QTFJSHBlbjHSAeoBQVVfeXFMT19WN3VkS1JCazFsczBXeHpaWHZGZzRPZTdtT0lZRGVNRlNhR0U2NndZbW1oU0dob3VQbjRhdGNNemxYM3lWdk1ISFZ5endkbUtBRHQ3T2pzS0xhNnphS2JIR3F4SGNoNFZFMHlDeTkzWHlkdjM1blBiVVV1b0ZPbTBmRGpBcWdXbGkya0VQRmhRNHYwaWFXZXVselI5cEs0ZjNKdDFzQUI1eTB3Uk05NEREZ2gxUzZJMkdOeWo3ZDF0aEhrR3RjX29IQjZzOHhRWXNpd25VanQ3SXpIdk5oc2p1Zk52S3haUmd3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Old Dominion (ODFL) Reports Decline in May LTL Revenue | ODFL Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkM3dXVCa0ZHdE1TQVNYNG1zMC1WeDF2ZlNMWWJPaGxWMVZ0QmdQMGNTR2sxdEZRSHNQR0JRWEZPZjNXdy1VUFpleDhJN19zYkF2MWx6dW9vemdRTEtXM2NLbFRSVEt1WEVmUl9YU1RzeTd0cndYeU9oR242WWlLaTduTVgzXzdha19Sdk16UXNBTkszeThvTXhCOG44LWRraTQwR0lTZ2FwbDQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Old Dominion Freight Line (ODFL) Stock Is Nosediving - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR29ESGxfaWVBRjRMaE0zUjZEZzBwSXhHUWtpLUFoQ3lhbGU4UUxNWU9qWmdoWE9nTlpqMFU3OW1XY00xUjRRbW80aE94NmhqakVGbzZRd0pDOWFyVWNBcDhkTG1ySnJpUnBNRHFxcUZnRFBOcWRWQWRTc0w4VmNMRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Old Dominion Unveils Weak LTL Unit Performance for May 2025 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEVBTGRPLWNCTlBCSkJrbHl6MlprOERtZkhEWUJ0cGR2Tk9RUXl4TVBLNDVvd3JDZHVLdmFRdF9iTmszWWU0aG9vMVFPalpGMVRnbGNzNF9IY0ZmNkIwSFhfSFJpQV85cEdGZ1VVRDlKVXA0M244MWdCZ19leFE2cGlpaTE1QjM5aFppOWJYMFl4d1hyZmFCT3NaR0NWUzFrZlJHVnVnQllSa0pqZlBydUgtY2RIUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Rhumbline Advisers Buys 12,741 Shares of Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkh0Rml2cDZldm8tZllhdDItblcyR01JWWpVUno0bzV2ZXpXa0dNeHZzVnVleDRMbkhZWHp5SWY0Ujd6d3l1dWlSVG9ZdThUYlZkZGRjZm4xTGVNRV9IM0xtdXpDdTZvNkFrQW5EWDVCQnQzYUJMZjQzXzNEVVpHVWl4WE8xY0tJVFNmWDhFY1JSc1Y5eVJ2RWpUdGRjZDlUWlZJZkhKNzZsOV8zQng1UnZ2WXlaRW1vZm84NjNpenZYMVJyOHdHSWZLVktiT2gzU0xMeGpR?oc=5",
+        "title": "1 Top Dividend Stock That Could Soar in a Good Economy - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjBfdVl5RzhYR1ZhRTc3YnNOQVFfTXhBdVprSG5WQzRxbENEUUNOdVdOdnM1N2hKRm9QeDFuR1ZzWHFCQTN6QUQyQ0JzNGN0QkljWXF3dmZVejdLZ2VEN3JMTTJVNU82ejU1akEtZ3ByeVp1QWpILWlmREhzZGsxeGVVZnFyNnFpNnZEMkl5aV9GcTJkWHg4NQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BofA Lowers PT for Old Dominion (ODFL), Maintains Neutral Rating - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlJiMXlsbWhmNGZ5czIyVUZfc28wdHhnaVlqWGs3MzB4QWJ2dXFYS3J4dmpqWDY3akdRRVNYOEY0bXk0a3hyZFlyRGZ5QWxVY0hDTHAzVFN3dU1qNkVudkJnS0RJb1Y3V1NSTjBSLUw3Qm1IaUFmaTdwZ2t5MnctOEZPS1ZqSmNNakZndzZ5ZDRYUFFtbG11aUgzeXc2Tkl2YjlzZDF6eVrSAbABQVVfeXFMTjJHNTJxbDZOQTVyMjNCZVZEajdNQXNBQ1U4YjBveFZtakhWVk1ZanA4clNkMWU3bnpId1JlTWtNUW5IVjVVTkdLUThtRTVmZGhKLXpHXzZRc2w2SERlbmlGRDQtd3VRcEt3a29XTEJ3Rkc5emNlMUw2RW5yNjNrZHNsQmg1RFZ4d2x5VldiemZoelpLRHQ0VHFHWFpXd21WZlVhanZqWU0xbDBKTThVMWY?oc=5",
+        "title": "Old Dominion Freight Line Stock: Is ODFL Underperforming the Industrial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVM1eHJPMDF0UjRkUEoydl81TTFHVG0tTFR3eUh4R2VnVXNQek0xS2wydGFEWE1ib1FDWEZFVTZ6ZEk1ZzFkc2V4aGFLZlRrZHVmLWFSNHFReHZxOHJoSERCVFhWTFJGVGI2WmdYNS1aanZMQ0MtbVpIQlI5dHFGczZpVDJxMmV5anNHa3RtUW1OOGJZZGFGcXUyQWRCZTFadzlISQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Earnings Alert: Leading LTL Carrier Old Dominion Sets Q1 2025 Results Date - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzJVUFZLZUpYLVRFS0NjYWNBdkNSYlZBZThIX2NVeHlxS0RnQkdNQS02cUtEbTF0V25wZkJseWN2ZFAwaHVYVGhQZjhjaFIxU1BMd01iUE05TWgzcW1CZW5qRk5iUjhDa28yRjZPWkRjTmtfLXpSRDFJV2JZam55Zm9NUldwNjFYRGNXLWkwOG4xQkJ3dGlrQS1JWXlrTmpLd1NsQVlWV25lZHRydE5aaHI3WjZpZ1k0eEdBZFZB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Goldman Sachs Upgrades Old Dominion (ODFL), Setting $200 Target | ODFL Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2xNRDZRUzJMQkRlejB3ejdnOHpvakZCV25iWjczbUxMaE1tc0tmOThXSVZtaEtyaHBPc1RNMlo1VndWbFpMNHRSblBsNDc1MWs0WTZPb3VRa1BFTmFWLWllUFo4WjdyN2lCZWpxcGd4aDF3MEJITTJRbkhvMllPS195cnpVbDRlZzNheGxIdFdSNXdCeVZ6Y1pZVkI2N3M1YVBHQkhlV2RrOUUyXzBzVXV0V2M?oc=5",
+        "title": "Argus Investors Counsel Inc. Sells 10,908 Shares of Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkE0aWVvcXpPeTFDR2dyMlpFUTJYbFo5aXktR1BpVXBMYXA0YTE5WTRDM3NtQnRpRm9ZX3RLdTBJSllDbEF6ODlvdnBqQWdhVXJOREp4cEV2aDdKYWFJNHp5YTFQY0F2Sng1T2ZvSzN3MjRzZmRPUlRVMnVOb3djbkoxWU94WGxBTk9rWmt3X0M3UjVLVWlqNGxyT3pHamphTDZJMURYYklsMEFJXzI0YnpCd1JTcmR1cFdVVm1WUUpKdXFhOEo1M0xyMUR2b3E1NWdCNjlsa1pRcTVveHFHc3JINFE0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Old Dominion (ODFL) Up 3% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1RnJqbWVHNGs3S0JpZk5OQTdKSVlLR0xwUzI2dUJ0SFJsQUVFNTEtR1A2cjdFQ0NVamlvczFpWFNaZ3lVLUNqMmx4eEI3MWNUcDUwVTlRVmhIQUR5UzZXYzVQT0Z6VkE3QjBFT0lOd0JUZVE3ZGJfaw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Czech National Bank Acquires 2,416 Shares of Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmdvN2pfajRzZ0dJXzBGQnp1QWdtS05fcUk3QWYtRU0zMmJjelpqZGk5Q3JaclhzNHVkS1pUNlZuYWJ1X3NUTEJwQjBILXFOcmkxZHFEUDloY1l4bkdzMW5PRHQ2WVQ2U1RiY2tVOVFaRGRzb0RwaktZUDFmVm9kTkNPTHJ6N0EwOTg5YWtBSUhzY2xTQU05RjVQS2JIUmZ0ZTVwRXBpaHhUejZUV0dKTXRDVUxpdXNiOFBVdUFWTVFyZEcyTDg3dWFxaE9wWG5NTDVndVBzRnN2aldzOE5r?oc=5",
+        "title": "Old Dominion Freight Line (NASDAQ:ODFL) Given Hold Rating at Benchmark - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlRRNi1uRDNXbG5qS0cwY1hYR0owZC1aczdjUkZDclRlNUNDQ01yeU12NVVodDAxTkpKZjZCVXdPQ2Y4WjNzN3dfUEZBUWhwdk5tekg1VjhTZzNBZGQ0MnJydlNULVJFOXpXcWVxc0lDdlVGbVkxTGxJaVd1UTFScE9QeEFNdkRpMFZlVnNmZTFHSVhJamJHNXpBRjMteEVDYlhOSUJpTFRYN29uSTRTMlRWZXBFM3BEcTRFVWZn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Old Dominion Freight Line, Inc. (NASDAQ:ODFL) Shares Sold by GTS Securities LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWllEOFFXWUdaME0wQlZ3b29CNks5aEJHb0FUQWdLb05UU3ZZb1JqWHdyN01fZ294ZHZKb09FUFlhcHZnUF92clJNX2YxX2RPUjlZYkRsTGZaeEFDTTBBbVNQeDhpWUhNc2I2ano3cnZTOHRZbzFOMk5kUHRobHd6djFiWW9IRllPYUlIUHRhellhR2gyVjlCZ05yZ29GNVNOMHZQZ2thYlJYUkdUbzhuYW9YVnBTYU9pOTVialIxdWFKOFdubVByem94aWx5OFBycExsaHg5a0RPdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Old Dominion Freight Line, Inc. (NASDAQ:ODFL) Receives $180.42 Average PT from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNERCMW5GbldoeUNOUW0tdm5NQjQ2a1hOUHhGeEY3ek1DUGRrd1FNSlF6WTdaMnJaQ3Frek1pcUtrNUZ3cl92WkxPWENoWndiSEpDYzJwQkR2NVMzWmVid2dKQXA0dUtaZ2U2RWlJTkFmdE1jLS1iVHZhYm5NYWVoRGZoSWszRnlZV3NPM29SWjd5UjYzU3V0R0lRYXBsTk9jNE85cGpKOHlkSDI5aG9oTVJKckhtQW1xR0dHRklSOHRIbGNtOFZ2WkplZDhuaXVqRi1KVmxIeEYtVW9n?oc=5",
+        "title": "Old Dominion Freight Line (ODFL) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVFtUFJFbnpZV3hvV2tCaEd1YlNLOTFsRnpMSE9ybllFVUNvZk11OWZ1QVNlYkZ5XzFYVUdwajkwb1d0ak12QVhsNExzVlZnS3JqY0Y0Ui03YTR2emJHNUFHQUFILUtoUUExa1hvS3gzazZ3VHdqc29pTlVGSEJiWGFn?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Old Dominion Freight Line, Inc. (NASDAQ:ODFL) Holdings Raised by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMG9VSWx3aFNnb0ltaWpESHYwcUUya244RWlPMzhzUHRqNGVKdUZQS2xOSktld29aTTJ2RjJWMUx1WXFjdUdZSEx0YURYQzNtV2hHZVdYVk1uYU1tQ3BUMXdQRXNVNEgyNmYyMmRnYkZQclhnRzhGRjkteXQ1RGVjTU5aQjhnT21uMl90YkVBRjVZLXBPS3FLMVZzd050OWlULXA2NTUwQXRaQnBMZk1SZ2pPelJmMDlacnZFVVB3U3ZBb1d4cnpud29KUFZXLVF0cmJ5d2hialJNcjkzNVc0SHZiUE9ZU3pDakZadw?oc=5",
+        "title": "Old Dominion Freight Line, Inc. (NASDAQ:ODFL) Shares Sold by Vest Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRGpGbjdsalQzS3NwaGFwY0lvNWVMR1ZJX1hzY2ZNemc5dFlxOUx3QzJRbFEwMWE2dkxQWEt5dDc0anVHM3BJWnhKRHFHWHl4YTc3WHBleGJ1MjBiejMxRVlmMzZ0SDRVYnExNTRUdTdETXhVZzRqLUhWUENLeDFqNTAxc1hZMHNxancwYU9ROEgxR3UzSjEwLXlzU0ZFMmlZUGk4V0pvY1dBTjMyTkdSd1RmMXNaRE8tLU5rY2d6NFR1MHpCSXpBaXh0YmNDYl92UjBvQVdMb0xvZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "111 Capital Makes New $380,000 Investment in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQkJubjVMd3czYjIyc002bDRsVlBmOWJsZ05YeFBkNGpKUV84YzNZMlUwSnZhNDk4Nm1sV09GaFJ3OFZBOTFHQ3RwczFVdW1jR2x1elRKTTNRaTVHQk9UTWtZT0VHcVdzOW9tSXFDR0pYUDkzVnljSnFoN1J3UGdsM0FCOUkzSzlvVjJLcHJueFlENExsTXVzWGJtSWtEWExnd2V4R1JjU2M4aFlQNFpNenVoNHdack1mMjZ0Vkl5M2l6cGRoVkd2cFpjeEFLRzZfQnNwdg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Boosts Holdings in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2haeWZneUlBQXBtUnFEc0t6dTBxdjdOOGNwYjVPTVhnay16VllSWC1ic09nMjdQazAyei1iVU85QzVoYTVqTzF3c2xUbnRjQ3ppVDVPbUhwMEE2VWFZclcza3hxUmZCUzBZdVQzNkdSdkVFekVxQkZPWk1CblducVpJWjJnWTRvSTlVVVFUa05VcDFYZVJhNXpuMTU3Q1lJbkxreHV6WVlRYnh6b2lYd3BQUnVPWGNldV8wWEswT1Q5c0NGcjlRaWRiUWJYemhTRkdJRTdpNXdtS2dRdHZF?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Retireful LLC Acquires Shares of 2,054 Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUp6eUVYUFFsYkc5UHhOZmRGTGx0NFdQaXQxdDBnQUZJWk93ZXVxRGlOc0pUWVRGVGFqYUFibDVzdzFlWkZBeHg3NEd2QWNHU0M0VGdBMTI5a1pRbXMwS0xXeldMVDd5eFpWazdIaHNYTmpONDhWdDVtNHJ3WW16dTA2dDRVUVdzYmoxWE85Ql8xWGdwUU5EbnlRX01iX29RODlWamNGdG13c2QxbG5uUzltbVVlYmdUcnZ1SzRSOTh6Y2c2Wkh3RkgwMG1kOUQ4ZG5YQ3Vn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wealth Enhancement Advisory Services LLC Reduces Stock Position in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS3Fkcm55WXVKbWFJTmxleTRrQnZzR1I3SGxRQjd5TmxHbk9sZFVWZzVpeVliaWg3cWlCX01NVG1YSjI4S2pqTWlHVF9fN1dMQTI4anpJWFhtN1NmWE5RMkhHY28zTmhSejBqa0kzTTlWZmEwU2FkV3dpYTgwRWJBMXNVaFZmYmY4bW91eTBrZTZZLU1NVkV2QkVzQXB5VVNNY2h3eDZCWFNESVp1Y0Z1Z0piUFA3MGUwcXo1OElVNW85N0VlM3FUdUt3eVBzTkR3UXN4Qkl4UUw2Wm9kWXdtREFRSDVlUEFNTTNqajBJZ1FnY3RQbTlr?oc=5",
+        "title": "Handelsbanken Fonder AB Lowers Stock Position in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYWtkTEtmdjdlMmtDdjRnNnpQRUtWRng1TGdOaUd3ajRJME0xaVRwY1hnQW5jZ0l3MmY5Q0t0RDdYdkZnNzRMX056elFjZC1iOTVDQUNwcXVCUVVURFNJMTRjOW1uUk1vZFJvMURockdrTTRnd19CSlhHRGpVTmw0Qm55NzJWV0NLd2Z0RHVIRDFabDhOUGVGRndaTWxFc0dzaUNCSTNVY2lmWnA5QkFSUDlHbWFEandkN1AtUkE1VklFNXdSVUI4V1NTMk0zblZvOHRRenFIYmNoZFJ0ZGMtMmZhTng?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Old Dominion Freight Line (ODFL): Jim Cramer Reveals – They’re Self Haters That Did Well - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBHOXFLdTNhYjNHVWNlMU9sVnNxRnF4WHJ2aHcwdlpNUDlEblNRUzFNNnQ0NW4ycHUwMmRzT3JfV1NaNDZJWVZhYTh4c0o2N3FkVk9hUW15NGp5OGxrc1lhQmNsaG44UzV3b1Z2TnBNSTlCT2I5N1B4NlZyLW14YURB?oc=5",
+        "title": "Central Bank & Trust Co. Sells 1,723 Shares of Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVVpc0ZPaEZvcnNYaGRJdl92ZWNnNjZESDZ4VDJSTjNsY0FhclFEem1YbmlISVpCbDF4cjUtamtsXzk1UTNkX25EdFJhY3V2N1YyWFlFV0ZLNlN3NGZpYmt0VWl0ZDBHYVpQS045aGNreHRvTENSQUZJRndHQ1FkRllGQnhNYU5KU2hrallMaVVzaTlDWE1KT0RnajJ3Nm01cmlIV2NhU05EYzAyazZoOVNhenlURE1rRDE5MkpndnVsTjJ0Z1FvLW5sQkhGb0ZlRXhFMA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Goldman Sachs Suddenly Boosted These 3 Trucking Stocks - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGxfbGFCSExKR296NEpISjQyMEZ6MWJIaTZ4MHBZMElnU010Sy1lQnpUVWZaZzZ6VmViMERITjdYakNyQThXcWVDcktmLUtTeGtrU0ExaGh1MmFjSzZwVkFUVXRBSDhmeDItRHptSjdjbXF5WHJ2YWZqQ1J2bnFNYjhrOVA0X0JOeEo4RlRDY1JGSDlhWmZEWlV2U2EzRlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Lowers Stake in Old Dominion Freight Line, Inc. (NASDAQ:ODFL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXBneE1SMFZEbEJwSi1jNW9jSjY3NG5IOHBINVdnSk1QNXNnRmtxMlRJWmliN2hENXBjRHYxeTZBRVZ6SDJLZkc0MzhFNU9YWGlhdWd0UnNOSVpfQ25qMVZBR0YwdEdEYXY5MEhIU0xuUVBqYkhrUWtvNmpUSUNobUZZYzVHTVJSVWlxRF8zTUgyQjVGMDY3VmZMTjl0WDdHbzVXa3hlN3J0LTdqXzE1QTk2eXN4bExzRVVHRkk0a3V6cU5UaDVIM0kyUE5aM2xSUnhoYlhXbGNRMDZo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Old Dominion Freight Line (NASDAQ:ODFL) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjAxVzByeWdRNVdmd0tRS2lsTzZiVXVoUWY2U0R3S1JDRS1QM3IxbVNsQ2hzMDRUSV9ib0tHQlhGcDVWNHFzUWtEVnltNEFpUTNMODBjNl9FWmdDX2Uwc2dwRFIxWXFjWXRFQ2Y5QVo2T0VJelJUd3F4Zl83dS1UZkhibEt5NGxKTG1pR3prQXloT1dhUEVBd2M1QXctMDJwaVFoR1BPX2Vhd2UyaWRzYUY0MjByY3lVWFNXNzBPNkxPZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Old Dominion Freight Announces Increased Quarterly Dividend - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3lWVTVueWhFMGNPWTd5QTMtaUtnVGZha24zMk00RFJ5azRRTWVYMXpBdzA4ajRpV3htMkdqQ0J4UGlLTHUyVDJSLW1RMGtRSURBYXZ1MlFQZGx5OExYZzJnZ19CUnFwd1hGQWprMklaOHlyaGtHWHg4VzFfeHgzMllKNTVUdndfQmZfM01zWlA4WUtubVIzX083dmdNWXV1OHZta2tubV9vZml5OXpmQg?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

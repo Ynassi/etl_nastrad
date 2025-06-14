@@ -2,16 +2,16 @@
   "ticker": "HST",
   "name": "Host Hotels & Resorts",
   "sector": "Real Estate",
-  "market_cap": 11049405440.0,
+  "market_cap": 10662693888.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.369793,
-    "PB": 1.6393698,
-    "EV_Revenue": 2.754,
+    "PE": 15.796875,
+    "PB": 1.5819945,
+    "EV_Revenue": 2.792,
     "ROE": 0.09996,
     "ProfitMargin": 0.1164,
     "GrossMargin": 0.29127002,
-    "DividendYield": 5.2,
+    "DividendYield": 5.1,
     "DebtEquity": 83.171,
     "CurrentRatio": 2.092,
     "QuickRatio": 2.084,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.21238824759284733,
     "ROA": 0.03911,
     "PEG": null,
-    "EV_EBITDA": 10.181,
+    "EV_EBITDA": 10.322,
     "BuybackYield": null,
-    "PriceToFCF": 8.95076769428306
+    "PriceToFCF": 8.663319030285923
   },
   "technical_indicators": {
-    "RSI_14": 60.58607594687334,
-    "Momentum_10": 5.967634750065947,
-    "MACD": 0.2547131847465369,
-    "BB_Percent": 0.7790821038671797,
+    "RSI_14": 47.53265295656213,
+    "Momentum_10": -2.0161377211628646,
+    "MACD": 0.2359126299749334,
+    "BB_Percent": 0.3210299926310704,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933438953272642,
+    "ValueScore": 0.8895084372845585,
     "QualityScore": 0.2986619673463959,
-    "SignalScore": 0.4808121840635971
+    "SignalScore": 0.605214021098037
   },
-  "volatility": 0.0225619421860261,
+  "volatility": 0.0228141761974362,
   "beta": 1.351,
-  "return_6m": -0.1376634440980104,
+  "return_6m": -0.1579906367713498,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 18.94
-      },
-      {
-        "date": "2024-12-10",
-        "price": 19.07
-      },
-      {
-        "date": "2024-12-11",
-        "price": 18.93
-      },
-      {
-        "date": "2024-12-12",
-        "price": 18.82
-      },
-      {
-        "date": "2024-12-13",
-        "price": 18.58
-      },
       {
         "date": "2024-12-16",
         "price": 18.66
@@ -537,28 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 15.76
+      },
+      {
+        "date": "2025-06-09",
+        "price": 15.92
+      },
+      {
+        "date": "2025-06-10",
+        "price": 16.07
+      },
+      {
+        "date": "2025-06-11",
+        "price": 15.97
+      },
+      {
+        "date": "2025-06-12",
+        "price": 15.69
+      },
+      {
+        "date": "2025-06-13",
+        "price": 15.22
       }
     ],
     "current_price_data": {
-      "price": 15.76,
-      "change": 0.39,
-      "percent_change": 2.54
+      "price": 15.22,
+      "change": -0.47,
+      "percent_change": -3.0
     }
   },
   "news_sentiment": {
-    "summary": "Host Hotels & Resorts (HST) a récemment suscité divers avis parmi les analystes et les traders. Malgré une recommandation moyenne de \"Conserver\", certains estiment que HST est l'un des meilleurs titres hôteliers à acheter. Cependant, des révisions à la baisse de cibles de prix par Jefferies et des prévisions de bénéfices négatives de Zacks ont généré des incertitudes. Néanmoins, la hausse du cours de l'action de 4,52% le 27 mai et l'optimisme de Morgan Stanley quant à un relèvement de l'objectif de prix à 17 $ indiquent une dynamique positive, malgré les risques économiques actuels.",
+    "summary": "Host Hotels & Resorts, le plus grand REIT hôtelier américain, a récemment annoncé ses résultats pour le deuxième trimestre 2025. Malgré des signaux positifs tels qu'un dividende de 0,20 $ par action et des éloges d'analystes, des questionnements demeurent quant à la sous-performance du titre par rapport au secteur immobilier. Des ajustements de prix cibles à la hausse de la part de certaines firmes, comme Evercore ISI et Morgan Stanley, indiquent un potentiel de croissance, bien que la valorisation actuelle soit jugée attractive malgré les risques économiques.",
     "sentiment_score": 0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is it Prudent to Retain Host Hotels Stock in Your Portfolio Now? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmx1cmFLUlQtMkJJRVI0UmxNR3ZfODZKWHJ3cDFtVGs2TjlNQnJsTnNybFNXbXZGaVJhdUw1OF9XVTdrdGJaOHdkT1ZEWFUzb0FKendvS2MxcjNPV3U3M2wxX3VGaWptNTdYUENvSHJCV05TM2g3aGpXd2ZOeFlIM0ZTSjNya0Y1UGNUcnBVUDBsVGlwdjAtTXZxZldWQVNNSkNwdWcwQQ?oc=5",
+        "title": "Largest US Lodging REIT Host Hotels Sets Q2 2025 Earnings Call Date - Key Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFU2dWYxdXl1aGU3QndkRG5LMUFUN3NsSFRqSU5TVEo4VTJHaWJiNlJsd0R3bXhiZ2ppS3ZrVTJTT3p6V0JNSXNfaVQzaWZDbEp3MTFGcVdpRHJSdWF3WWdKakctcVV0cGo2em1rb09pNlFfdVNBa3ZIVGVrMWIwTVdVbWh3b3NSQmoxNjlwMWNYWEtlSVZyWW5kc0psZTBoOFlTRzdHTGgyb0lDOVlMQzBMUW84TXNnTjJ0Tw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Host Hotels & Resorts Announces Second Quarter 2025 Earnings Call to be Held on July 31, 2025 | HST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTdJMUVLY19raWM4X1RkVmRlTjdjZE9NcXdiS29NOXRWcVVJMklrUU43R0FfSEZ5LVVsU0RZQUhSc0xKSFlHUmtwU1JQdmRVeU1NWUNPY0NlaTlMX2NBWUsxenI1YnZiMEI1OGY0T2hSUEc3bGJYOXZtc2pqR0ZsemQ0czk4WnFXZV9DaWZ1TVJYU08wOVo1aDc5S3FMMXJnTmp6UkVIRDlLQmdEcDNnRUsxbVY2b0tzV09DOGdJeURNS1pvVWdETGpQZGFBSnRpYTNTelFBd3ljd1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HST Crosses Above 5% Yield Territory - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBODZkSXVGeDN5YnNKTlhxc245V2w1UHB5aVFkXzlGYzNYQXRWdElwVVFIWTVrTlNRY2pzWTRaOVZ6V2hoSzl5T1BkV3N1OVVCamN4SEVLbUd3ZnRieWtCY2czOVBhMUx6a2Y2eDdrQWkxSF9wTUE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Do Options Traders Know Something About Host Hotels & Resorts (HST) Stock We Don't? - TradingView",
@@ -566,9 +576,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Host Hotels & Resorts, Inc. (NASDAQ:HST) Receives Average Recommendation of “Hold” from Analysts - Defense World",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGZMRzJMYjVpSGRfX2Y1eWR4SUlMaUFRaVdSeXRKUGJZSG9MbnBORXhwVzlqSWxGY3lOYklNNzFCUmFVRGtiUzBHaXhFc1QzdlRKRkNDaUN5UVE5X3FMTUlsZ21kdGVCVjIxb3NUS0R1TWRqbmgzZ1BPMHEzWjJxUENXNHZfTHZrTTU4RnRGaDQySklfekxOMFZjZkJySDFMTmMwVHROenRydzJnc2V5M01pSHRUejZQQ0NLUFNHaElZWHJFYlhacy1SZTE?oc=5",
-        "label": "POSITIVE"
+        "title": "Largest Lodging REIT Host Hotels Declares Fresh $0.20 Dividend - Key Dates Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHVMM2dFVk5UanZHYXdJU1pSdHdwc3dXLXFxamhPaFF6SmNBNTVZckNINk1VY0U0akRWQVExajFBZlVVNWRyQWdZNHBHVXNOdGFJVmxUVEtzMVlRSnZkTjBmTEpFNzRXMl9rRVhYVHlmUFRZVGdvZDV6ZWJLdmpmb1paMy1WZEY4N1V0aDc3eUJHbXFMczZES2Y5V2k1bjg?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Why Host Hotels & Resorts, Inc. (HST) Is Among the Best Hotel Stocks to Buy According to Analysts - Yahoo Finance",
@@ -576,63 +586,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Host Hotels & Resorts Stock: Is HST Underperforming the Real Estate Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbW9HajZ1N1Rfb2trSlU3a2JCRURwSEszR2NnQXVrYXluNVI4ZE05MXluc1lZWDYwMEI4MDRER0hFajBlWS1Kby1CTkpacDdJMXM5bjFtdmx5bFlZTjRnMXJPTlgxak5wTlZuYk1XVFE2eUw5dExvR1MySWNtT1ZONGpqUDJueGVHdGtMYm5sZFl2RkJLdV9qbmhjOEY?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Host Hotels & Resorts Inc (HST) Stock Price Up 4.52% on May 27 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEtwNHJDNkRlRDY5cm9xbExISmVYclg2UHNVT3owT2g0RmtUZlgzOExaLXpWSkd5UHVmOHFlckhHVkhvX0FLRkJhOTNZSTVVX09EbFpuSFV1MW1lNjJqRVl2blA1RUlud3VkX2FHWDBidXFIMlJWUzMzUGczSDkxcnNqRWdMeEpZWmxZNEI2YndZUE9Ud09hdXhRVQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Host Hotels & Resorts Reports Q1 2025 Earnings - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFJyU05zY18xZFBYMkJjQ1h1akxBQ0JrVm9zVXpnY2p3dGYtb3NGbGxPdDNpa1pKUWFWYTNZVmFBV0kzbUJfUnRGZE5yMGFVa1ZXQ0dIdmMxQmN0OUU3NjBCMHVBYmVaTUdyblA5S2ZpMU1QeU5fSEwyY3hRODVvdzdDYVZBOERtTlVVMTNYX1RLaFlBVnNTMnhKSFg?oc=5",
+        "title": "Host Hotels & Resorts Announces Second Quarter Dividend | HST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjNTbEpJXzZMUm5XelYtSHhnUXFzTWJ1LVZkd2NhMHRsZHI5eVpoRm9xeFBVVjMxV2w4aWd6NUNONktaUXh3bVJRdk5JWEo4VEtFbERXQ1lkaGVIZWlYQkNNamZ4Sk12aThJNXBtWFVUZXZrV3plZ2xJRzFqOGxqM2MyTnpGZS1wZFRobDl3bGdxTnd5ZEFyZFRDUHBDTDlaZWhLLXJlTVRLUjlhLXc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Host Hotels & Resorts: Deeply Undervalued Despite Recession Risks (NASDAQ:HST) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXdyZUZBVHd1UU51N3Iwa2NPY2FQSTJXNWVsLVZPU0hSQVJBOGlmZjdDczBOMTNwbjBRNXp1YzVPZUthTlpDNGhGcGtraUFRRTVlU0pxTDNIWjJMNFlRanZQZlhRMlBJOURjOXpRSWVVajhqcDJDYXppQTZYZ012MEtDRk5NTG5UYWhSNW84TUdkQXloemJTWTVnUFh3Ul92OVptdFp5MEtVNEU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(HST) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnNWNGRPOHVtS0hhS2NGaThnQVNqYV85NVA5U0txRWZRMXVnakJfNUdXcDR6LVdHYTZpV2xOS3NsaXJ6Q08wZ1RiUm1KSng4Skt4U0h2cU9zU3BiLVpkT0NYX28yX0l3MzVOM1ZLZGt3MWM2dmJNc3poTmh1Z29CbFk0dXp0eDNkZVpIRm9zSDZ6Q0xJY0szUmx4TEg2ajRMUEZuZ2cxTkZmbVJTMUhiNnFGSlA?oc=5",
+        "title": "Host Hotels & Resorts Keeps Quarterly Cash Dividend at $0.20 a Share, Payable July 15 to Holders of Record June 30 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRGlMY2tPQzM2U1RXZnFrS04wRWlHQmhEdzBabjZBVHBCcEZ3SjNIamZMeEExR2ttTUVuaFN3ZGt0cWI2VlV2Um5zZ1dtbmZJY3lKYUs4OWtiU0JSOXFQcGl5c3NyOU1nNjZqblFveWtKdFFMckthT0hUTVJCcEZjQnBxRmpqekxzM2ZHQXlkLUxqVlpfdkNfcEdVRHhsSkN0cVUzUXR1LUsxSzR4Y2RRNmxhbHc0M2V3TlAwZlJ5M09ubkpJcWV6Z0p3OE5lcGRSRDFfdFZfWUlROXRhVHA2cFEyVTVLSEtGYVBDeDUwNXV1WlVVWlFDWllZa1ItRnFVNHlfQ1hkOVZUMkJkQzVPOQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jefferies cuts Host Hotels stock rating, target to $14 from $20 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeU83Q3RpazZsZkxicWhNWmxWekdYM1hXVzJJS0NIaGQyQXFQLWpoXzRMbTA4dVBNRmdpYjBXQUJ2YXVUajEycXRxd3hyQk42NUI2SGhEVkpUUV9ObGlMakpsdTBqQ1pPajBqeE90b1owaU95d1d1UENmbjNqbWplOHlpeVRncmRoQW1DbHhUMXF6MWRiV1B6YkNxbk52X0VUSmtaTVhJZ3BUN3JYRktqNGd0LTN0WVBpYVVNYg?oc=5",
+        "title": "Host Hotels & Resorts: Fortress Balance Sheet, 5% Yield Make This A Buy (NASDAQ:HST) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTZydWRoZFJaZFFPZWxWMDMwU21IeElLSE92TUwzNXF1enNFcks1RjZyRWdCMW5kSVhqN1NTUks1Ry1MdFp0OG11a3d2dVNkQ1F6Rmk2bEIybDhlU2RHR2JTa3EwbVF2eHVnenM4Zmtoejc3WHJfbTA5ZWZzNzdZTkJ4SjVqckJiMGlDb2J2RzQ0SEZZLVdaQmhaWjJlTWtZZW8wdU1vb1hrN2M0QWdaNVQ3VktHUFNvM1ZZ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Largest Lodging REIT Host Hotels Just Priced $500M Notes at 5.7% to Refinance 2025 Debt - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQlhla1p5amY1RERDdklWTWlQOEJYMXhwaFRpU0FWWjUyTDdkNDk0d3NhbUdnTVlfTXRnRlFqYTZnTGVFV216ajBfOUFqLVVjdTVQMHNqaXV2RDhhOGQzY2ZvR1ZtZDVkR0N5X25yLW5lMDVIWGJjNEZ5WHNKeW1WcUxJanVFZXF1aUNjMHo5WmRGRkdoSlNZRkpZUnh1NzQyRmwtZFd4VjZwRklZTGF5VzJUU1FEcGZVeEU0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Host Hotels & Resorts Stock: Is Wall Street Bullish Or Bearish? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLW1CMHdJVUJDaXIzSThqdXJTajBnQnZXNDJmSk9FNnJJX3BISWgxUTFDbFgxQzhIQmZBVW9qOWRKNGhrNW9xNGE5N1hxd2xTRGhhempINUNaMldDMkpfc2tqYktlYjRkYWFJMGJ5UTkwTjFfSnZ2RTNaMndQcVNYRU9MMWRhREZzb3A1LXFaTVhfdFBPYjJMX0doMmJxN1FfNVFqd0paUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Host Hotels & Resorts Stock: Analyst Estimates & Ratings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThSWV91dFdfbFB2dktZcVBHaUo3ZE9VLTlCT2xVRUs3djlib2YxcVYzcXdqaVpnbF9Ta3RoYWVqWHdnLVh3R21OcHQ0U0ZGSFlYZ1J6alVFQWxUREN3aE9NLXhKWkhlNU5rWmFYYnpwcGd0MDVBLWJaVkY4REs0a1RTNGZzLUZkRS1v?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley Boosts Host Hotels (HST) Price Target Amid Optimi - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczlOT1hSMElybW92dW9mcEJWZG51emFjSHR6UHljY0ZYYzU1MHlyVDRmNmp5SFRkUEQtMW1yTURHUFZIRzR5TVFWNWo2NHpQSm5NTGN2TTJVNVRaSGN1dnowdVRZaWJhNGFubERULVUxU3R5VEpLLXB5RTlkd3RqclBheEo4cEZndUdHdkdUYktxVFFBZEZIek1mNjJRTWVJejdaaC1ZY0hlNUxRZFptT21sajdON2pPbW1iMDFMS2NCaTBBbmlF?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Is it Prudent to Retain Host Hotels Stock in Your Portfolio Now? - Zacks Investment Research",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlF4MUxtdVZJaXItWUxad1dZNDBXOVBadGppeUJabEtUc3hrVnZtSWNTdnBaMEh0cUVETEdsejd6cDNCZWM4QjVTNTVqenVmNUZ3VjZGWm1aY1VTS3VKdXpsMjEwTEUyYzgwWlVMUXlvc2h3NmJlYVJKUWpnRkwxOTdGS1JRRE1hc0tfcWU0bXJHSVZFTzZreVBiMWJvQlRHSGJPeFNsaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zacks Research Issues Optimistic Forecast for HST Earnings - Defense World",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1ZpZnBqYm0xbi1wYUktVldnME1oUmczV0otZ0oxRmtRWTNWaWRNOU94QUo3THJ3UndqOVZQLXNRdEdEaFJDRUM5Z0k2U0JNYXhBVmNYZUZSaU11MUtMTHdTVDNtT0VVU0VjRnJNRXlWMWY4anpzLWxvdXRQUFNRR2xQYTdpQzVGb0RkRnpQWXl0d05oTEo1bXZUd2RrbjI5ZThjdTZ3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Baird Increases Price Target for Host Hotels (HST) to $17 | HST Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGlYTTRGTWNyUENsTm9UYmFOTE9UMjhsLUxzWmZTaVNhLXNVTXFjZE5QdUYwM0Zad0dsSTZZVWRvX21jeV9UeEpxM2ZBTDlUTVdOMG51bGRycUlvU01RVGJFQmlJdkN3eTJRTDZHTG5GcFFxVUNyT3FVM0dmVDMwYzZOWk5EUE5HUGNuNDdQdDhRZTBFVTFtdktjM2hfVHRUV1JIV2RzVWtHanM0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Zacks Research Issues Negative Outlook for HST Earnings - Defense World",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmJsa2t2T3BMZ0NwdGduQWNoREdWYWhqYWZKUTFYSjVkeV9rRTlJVkxoVTMxYVlfWFhpa3gtaG1oTEFrOHBwbVBKbklQWUg5MmlKalpXSHF5SW9EbTZCN3kybC16OUp0RUhPMzU1X2xseWRUMDVBR1VfSWl2NmxtZ09QNWp2d1RIYXVlQTd5cnpWQklJZjRfN2stYUg3SE45bkE?oc=5",
+        "title": "Host Hotels & Resorts Stock: Is HST Underperforming the Real Estate Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbW9HajZ1N1Rfb2trSlU3a2JCRURwSEszR2NnQXVrYXluNVI4ZE05MXluc1lZWDYwMEI4MDRER0hFajBlWS1Kby1CTkpacDdJMXM5bjFtdmx5bFlZTjRnMXJPTlgxak5wTlZuYk1XVFE2eUw5dExvR1MySWNtT1ZONGpqUDJueGVHdGtMYm5sZFl2RkJLdV9qbmhjOEY?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Host Hotels & Resorts Sees Unusually Large Options Volume (NASDAQ:HST) - Defense World",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFRBR0xPamVJU3VoN1ZoQ1RHc3hUYnBMWHpoWnJjeHpQOEIzVzFqNndiZ3g2Rjh4aGFuTEQ0UG5zZkNCb1ZqcnNlb2ROU2FfUHF1VFItTFg0QUNvVG5Pa1FRWGVKUm5fdEhxcms0b19wYWE0el9sTGpoYjAzZ3FPYTY2Q3VUbG5wd2RaZWI3UDF5MnJzQ192bjY5QzJSbU4taVlkb1hHMXc0ekZYa3pR?oc=5",
+        "title": "Is Host Hotels & Resorts (HST) The Most Undervalued Hotel Stock To Invest In Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wS3llVVRjclFoeEVPeE5FY0xOWExiS2ZtZkNxNXVVbkdUdjVaejRZd0F6ekJfa0xlT1RXSDZCYlpjTTNMdnptbWV5SEo3SnphdDVCcm1WZDd6S1VnY1NkVUdoYVNLRFhCZk1CZUdNSVB0ZHdBV3dDRldURWlVdHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Host Hotels (HST) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ibzR5ejNnbDF1WXFzWEsySzNOS1h6RUtieVhnVVp2N3BUTFAwNVhrMkZ1dUtlMzFzUVRLSkpFaC1DUmNPaGZDQlhZX19VM0hrVVIxUnpkWG5PaUdzWElOaEhGSU02T2R4bWU4aFdtSmg2ZjFGbUZPQWpjaEhtdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Largest US Luxury Hotel REIT Host Hotels Releases Fresh Q1 2025 Financial Insights - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYW5iUTBrcHVpZ1llbUY3UVJ3YTF2SnktSFM2U25LSlBhamlsMFNEc0ZiYkItYVNFVnhvdTBfUjhKWl9Wb3JtRmFpSzNkbjBwN2xpWEtFbVlIbkpuR0I5UmQybzEtSGwxb3VwVi1NRWZleFNWY3VjeW1UTFZaUnNVQmZTeTZUMUxVeG5pMzMxYThra1Z3WjQ5aDJORC1JdHN5a0Y4NUpoeHF1UjA5YVp3WkQxOFVmbExkb3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Host Hotels & Resorts Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZThSWV91dFdfbFB2dktZcVBHaUo3ZE9VLTlCT2xVRUs3djlib2YxcVYzcXdqaVpnbF9Ta3RoYWVqWHdnLVh3R21OcHQ0U0ZGSFlYZ1J6alVFQWxUREN3aE9NLXhKWkhlNU5rWmFYYnpwcGd0MDVBLWJaVkY4REs0a1RTNGZzLUZkRS1v?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Host Hotels & Resorts Inc (HST) Stock Price Up 4.52% on May 27 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEtwNHJDNkRlRDY5cm9xbExISmVYclg2UHNVT3owT2g0RmtUZlgzOExaLXpWSkd5UHVmOHFlckhHVkhvX0FLRkJhOTNZSTVVX09EbFpuSFV1MW1lNjJqRVl2blA1RUlud3VkX2FHWDBidXFIMlJWUzMzUGczSDkxcnNqRWdMeEpZWmxZNEI2YndZUE9Ud09hdXhRVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Evercore ISI Raises Price Target on Host Hotels (HST) | HST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUlnTVRqTGt1WVFWSjFNMlBBdEFEMlcza0poM20tUHNiRUNqemY4UHh6UXZDcEVxQThzTTU2eFlXWDNtT1V4SWlRZG9KaW5QRUVBV1d5bnJFNkZLNUxtb3dCNjRvNHZtWXJDOVN5RENibzdQcmRYSDNiZ29EbnU5ekpQdjZXLUhJSFJyOFRORUg0NDlxaDNCM29oV3MxSV9HNG9yamJQLWE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Boosts Host Hotels (HST) Price Target Amid Optimi - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczlOT1hSMElybW92dW9mcEJWZG51emFjSHR6UHljY0ZYYzU1MHlyVDRmNmp5SFRkUEQtMW1yTURHUFZIRzR5TVFWNWo2NHpQSm5NTGN2TTJVNVRaSGN1dnowdVRZaWJhNGFubERULVUxU3R5VEpLLXB5RTlkd3RqclBheEo4cEZndUdHdkdUYktxVFFBZEZIek1mNjJRTWVJejdaaC1ZY0hlNUxRZFptT21sajdON2pPbW1iMDFMS2NCaTBBbmlF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Host Hotels & Resorts: Deeply Undervalued Despite Recession Risks (NASDAQ:HST) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXdyZUZBVHd1UU51N3Iwa2NPY2FQSTJXNWVsLVZPU0hSQVJBOGlmZjdDczBOMTNwbjBRNXp1YzVPZUthTlpDNGhGcGtraUFRRTVlU0pxTDNIWjJMNFlRanZQZlhRMlBJOURjOXpRSWVVajhqcDJDYXppQTZYZ012MEtDRk5NTG5UYWhSNW84TUdkQXloemJTWTVnUFh3Ul92OVptdFp5MEtVNEU?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

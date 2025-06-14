@@ -2,16 +2,16 @@
   "ticker": "RCL",
   "name": "Royal Caribbean Group",
   "sector": "Consumer Discretionary",
-  "market_cap": 74839220224.0,
+  "market_cap": 69964726272.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.423922,
-    "PB": 9.40163,
-    "EV_Revenue": 5.587,
+    "PE": 20.980457,
+    "PB": 8.789275,
+    "EV_Revenue": 5.495,
     "ROE": 0.48519,
     "ProfitMargin": 0.19378,
     "GrossMargin": 0.4957,
-    "DividendYield": 1.11,
+    "DividendYield": 1.13,
     "DebtEquity": 247.101,
     "CurrentRatio": 0.177,
     "QuickRatio": 0.077,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.0715489989446493,
     "ROA": 0.07429,
     "PEG": null,
-    "EV_EBITDA": 15.755,
+    "EV_EBITDA": 15.496,
     "BuybackYield": null,
-    "PriceToFCF": 62.476641621676045
+    "PriceToFCF": 58.458302935947096
   },
   "technical_indicators": {
-    "RSI_14": 74.5359947775431,
-    "Momentum_10": 15.993061810070644,
-    "MACD": 12.219182705427045,
-    "BB_Percent": 1.016991210902012,
+    "RSI_14": 54.218391718933326,
+    "Momentum_10": 0.5160944411739871,
+    "MACD": 9.663911758844565,
+    "BB_Percent": 0.4892818925710679,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9286746907808968,
+    "ValueScore": 0.8773102813667409,
     "QualityScore": 0.2548784890252493,
-    "SignalScore": 0.3168909285638049
+    "SignalScore": 0.5580120204763865
   },
-  "volatility": 0.0330150069664926,
+  "volatility": 0.0329705894722022,
   "beta": 2.15,
-  "return_6m": 0.07704694973678,
+  "return_6m": 0.0591960212939419,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 25,
-    "target_mean_price": 270.0936
+    "analyst_count": 24,
+    "target_mean_price": 269.26416
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 247.14
-      },
-      {
-        "date": "2024-12-10",
-        "price": 245.66
-      },
-      {
-        "date": "2024-12-11",
-        "price": 245.52
-      },
-      {
-        "date": "2024-12-12",
-        "price": 244.15
-      },
-      {
-        "date": "2024-12-13",
-        "price": 245.17
-      },
       {
         "date": "2024-12-16",
         "price": 243.0
@@ -537,28 +517,108 @@
       {
         "date": "2025-06-06",
         "price": 276.34
+      },
+      {
+        "date": "2025-06-09",
+        "price": 273.99
+      },
+      {
+        "date": "2025-06-10",
+        "price": 269.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 267.96
+      },
+      {
+        "date": "2025-06-12",
+        "price": 265.73
+      },
+      {
+        "date": "2025-06-13",
+        "price": 258.08
       }
     ],
     "current_price_data": {
-      "price": 276.34,
-      "change": 4.81,
-      "percent_change": 1.77
+      "price": 258.08,
+      "change": -7.65,
+      "percent_change": -2.88
     }
   },
   "news_sentiment": {
-    "summary": "Royal Caribbean Cruises Ltd. (NYSE:RCL) a récemment connu des changements de direction avec le départ de Richard Fain et la nomination de Jason Liberty comme président du conseil d'administration. Malgré des acquisitions d'actions par différentes entités, le titre RCL semble bénéficier de prévisions positives et de recommandations d'achat de la part d'analystes tels que UBS et Stifel Nicolaus. Cependant, des ventes d'actions par certains investisseurs ont été observées, même si le titre semble être considéré comme une valeur de croissance et de valeur intéressante à long terme par plusieurs sources d'information financière.",
+    "summary": "Royal Caribbean (RCL) est actuellement un titre en forte dynamique, avec des signaux mixtes. Malgré une hausse de 18% en un mois et un rendement sur 5 ans impressionnant de plus de 330%, des ventes importantes d'actions par des initiés ont été observées. La croissance continue du secteur des croisières, avec de nouvelles offres et une perspective optimiste, contraste avec les incertitudes géopolitiques au Moyen-Orient qui ont également stimulé les actions de défense. Les investisseurs doivent donc surveiller de près l'évolution de la situation pour évaluer l'opportunité d'achat ou de vente.",
     "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "New Analyst Forecast: $RCL Given 'Buy' Rating - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ULUg2RC1MNFNET01qMTFQeDlMYS0ySGR0WmtnX3RqbW5MMHl3bEw2akxwS0hVSXlsUVhZLTZ1bnpKd0VhLV9SbXVXeVdHWWd1UTJfSUlPbTZpVUdaWHVyU3l0X1V3NDFNYno2bG1tM2VHQTFWMkcweWFXQldXdw?oc=5",
+        "title": "Here's Why Royal Caribbean (RCL) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGVjSUxjbGNGWmhrRzBRX191OXR1aURvSm9WWTZBdzRCM18yUjgyb2FrWDJ3Q3hIVlc5SEs2THN5ZTVsS2dXeUxqTnFPNVZmWGhHV3ItUEVTa1l5b3pQSmNBbXlTbnYzazE5ZEgzeDQwMEdkWmdvM2dqTklGYzlyZw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Defense Stocks, Some In Buy Zones, Rally On Middle East Turmoil - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWd0N2hXOWpKeEZEeVNjalJnUXpoZkJsWlpteW0ycDczOW1lTmpxMWdHa21tWUV2ZkJlUmNJcjQ5WUFPNl9lWDRLNlpodlY4bDJEODN1REYycGh6RUszd0RaTVFwaHBlWWFLXzNoTk1HUXlHZWh4TFBPQlQ1RmFvb0l3R1VlNFJOYVhvNUhicnR2LVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Argus Investors Counsel Inc. Increases Holdings in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUUwSnJJVjdXWkRzcVVMYUFYUlhnZUNnS21fZjBwNXk1TW5RWGdVX3BxOTRRNGVGNjVTd2hXWGFaNkZxcFdPUVlPSVdxZ3JWUkYxVFk1OHM1aVN2ZEYzcF9jS216a3VfQWx4X2VkZ0kwX2pMRWNQN28tTlExTnA0Tl9CcmlSYjhBMy1GSVVQcDFONWZGUzJTTVhDelJpd3hDaHd2WnJiQ2x0SUFhMGlnclZhU0pzOEJrZWMwU2xpUUhDZDNJLTMyVS1iM2ZoQXRhVXFFZjRVTWdSUjVLZ1ZN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Carnival Stock Trading at a Discount: Is it Time to Climb Aboard? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdrMENyT3RfcWdWQlBXWjN3QlJvYkN2ZThPaDZhSFFjYjF4SlpQbFpGNkVXdHhzb2RhdkVCdm1DRXpkX2pncjJGNmppWHpMbXhvNWJyNnRHVGZfNkhjeUxqQXJwekxHLU9JYnItZlpLVFZLMHRIdzVVdUpIWmEtRzRZNWhxeC1BZF9kcmhKQjhYazNJWms5RjJpUlRmRHBBTXdnR0loQ3NiajRoclM4aXhyUXktczRnUmlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Notable Friday Option Activity: RCL, TTD, XYZ - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZWgwS0M0cHA4YVRKMWFOZTk2NkJHcHJhX25xbFVwTGFvcktzbGRBNWtqbzNsLW10SjMzeHdGSU1uVExMRkZSVUhnMVh4b2pTQjBvYmMweXNsRFRvUXRGNHB0bjhZY29xekJGRjM1eHdnVFVzWm81ZG95a09BSjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Royal Caribbean (RCL) Stock Dips, But 5-Year Return Tops 330% in Stunning Growth Display - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0pNcjJCM2VCY1VqN3FfUTJ6UDJUNzl5U0N3YkthRXM3RzFvZHhlQW1tV2NqbnV3QjdVZUZhb01CYmdVdUpxUzdvTUN2ZlkwWldzX0ItVjF0RkhuRFVVUHp6bVV0YU1uY2FWVGp4bXpGWGUwSXVzd0FmUFZVT0dSRnB3b1VORkg4VTFxblQ3UDExSm1VY2lHMWM0b3l4c3ZwYXFCUW5JNklIRGFhb3Y4OG8yQ3lqVEhkdmU5aGRhdldQUGg2M0JrRw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cruise Stocks Climb Amid New Offerings, Upbeat Outlook - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2EtY2huRm1QeUc0ck54WE9kMElOWWdyNnZsVlZYUl8wYTUtYzVBQVVnbVAwX3RLcnVONHpvaGpwV3dVLUt2aXd4UGI5ODJ2bVZfN3JqREtkUzV2MGdCc0UwODNxR21Rd1VVNDlReW1lWGpxTTV3UTM1M1gwa194QURmLWJBQVVQLUJ5aW1majZ0SUJ6R3d5djFR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chairman Richard Fain sells $4.95m in Royal Caribbean stock - Seatrade Cruise News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNME5MUzA4cnc0U2ZJZVE2UXh4VWV0YkZqMEZUZ0Z6cnNFOVhsaEhGY21JTDJXbkxNc3ExVTBrWjJfcDcxMmhfZEFOV2p2clBUWXpyZy1BSzJTYzRvOFZMZUxua2FmNlJIa1dSbnRsMTh6MEttR3hNcjlPeTVTV01QeWEzZEl5VC1IbS0weDBZWlc3TVpxdDZ3SmpXdV9FVXB4cEZnX1Yya05hQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RCL Stock Rises 18% in a Month: Should You Act Now or Hold Steady? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDgzcFktQnZ6NE94VHdzV09NQmUzNGxqTkFEbl9NU0JKeDVQb0hzNlRpdlZuempYWlhyMTFHR1FSU2RUdWRibnkyMHdDRHdCSDFiTmpndlpCNHh6NGU0TzNvT09scDgtaG1wRmZMc3BiMzAzY2hvQXI4dHRCcGFsVnZXWFl1bHowdFdqMlFOaDdrYjJ0bk9nM09XTkVvd0ZqN1Y1ZmwwVDVsdHZ0dnB4WkpxME0xU3ZQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa3RSY3BQZ2VIVG9lQVFkTHRXVlRsS2hJRnJYajUwLWJVdlZBSldVQ1BtanJETVlaWDIxRHpSQnZUcWdib3o5dVl0a3BmRzNMS2RJbDVMQksxMHA2ZG1ZSFlNU0c0SDk4NEpSajZ0Q3B2cTc0QjNaT3JfTUw5ZDROZjVUdzdNbkswUTEwUDUzWG1YVnhocmJ1Y1ZlZ1pMcVJ3VzFwc3Y0OGZQWWhtcHRBQVNwdnBUMGNXREp6bEtlTi1JWF9tenFvdjdMSE9JUFlzN0ZqY3Q1XzJrU3FsOUtF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Redhawk Wealth Advisors Inc. Cuts Stock Holdings in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDRiUUVDc0wzTGpKNklLcmRxMlFPM0gwUlR1QnZEeFFCeXhwX1NwVFBIenhUbFVDNEdmT2t4LWFUQlJMNm54RFY0WEU3N2JPU0Zqc3d5S2drTU1MTkhKcE05V1A4bkIxZl9mZUx2eFhWTDcwSUR4QXpkTEg4LXVFU0RDYU1PSDF3eVBqWDU3ZHdJM2RXWjh5Y2tNQ0xNX3A4OUlyeXZtTmszVi1KemNlbkNNVjdJR3BRYjZCY3JSZEhLRExjUUdkX2w2WWhXWUJsOXEzXzNfdlFwVGJURGVWSg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Carnival (CCL) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NZnFrcnpwMGM2UFJsaHhzZkJNd0pBM0lQNDNfaWQybzFKWFgyalhMNVNGTWtaTzVTNjk2UkMtaWpQalpCUUlfT09rMHhvOWdvSFFxLTNEZDV3S0pVRXJWOGtkUnMxbDNUOHFyOHRWeWd3c2E2NHphZm9rR0o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Receives Average Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXRFZkNfRk40WXozTW5PcnVUWVJfX3hCSl9qX0lmSnBuclBxRW5sX1k0QkdxWTgyVldvM1lmbGFyUXYwMk1QQXBGbno2T3FWOGlicWJHN0F3dGJKZmg1UWw2TEQwNVkzVGFyRUdWaGM3akotM2c0SFE1ZTdReFpLWGFTSjNGdVh2M2czeldWeTRONDk4RWh1cUc0ZHZFZDhTc256a3RyTTF2V1JCV213M2dBYjY3czZvdE5SQi1OclRrcnM3YlZwWUw3Z09UanMtLWFXNg?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "RCL Stock Rises 18% in a Month: Should You Act Now or Hold Steady? - Yahoo Finance",
@@ -566,69 +626,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Royal Caribbean Cruises (NYSE:RCL) Announces Leadership Changes With Richard Fain Stepping Down - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFU0WVVPelc0bzNUdWVUU1o4c1A3ak1CQUZMdktjY2EtX0tFRVRHdTlYYnlwVE5PMkFMTTBMZWVNbm5IRkFVQzhxaGVWQkp0aUNCc1p3MG5WYmVjbERzeE1FTklrY1BDZ3RSX29qOGdKZmJkWTllUHVKb3lJSm5qQ0Vxb2tSVjc1VEtjTk9EcC1aN21jTWNrZXB3dk5UX1BGN25aVms2QkItVGdrdUcwdnhOYWNKSVdvRFBCYi1vVHRydWJfUnpJcnB1ZWd4dXRYVmdfZXAydjNKOE5KNVZiekJn0gHnAUFVX3lxTE5RLWYyZGwzcWlCdU9ESmhBWFJXU3VPakt3WC1yelN4TWJDQjEweTZ2RjYzQzVaSmJ0TDZZMWJjQXpISEktMWNXWi01Vm8yMzRIVVdMUDE1LVVPZVhqS3JfeFBydXRNYUkxNDI5VlZwZ0Z2QW5qYU45SjFQMUpGZnVvdXdZem5NMjRNRFVXWTZIa1NrMWVpM0dNa3VXRi1mRWxLWWlVZGNDckhodkd4NXpYZVhKdjhfS01IY3U2ZVFJc0Y0VEdOcVk4ek83eWNZSHlJVXdyS09iSy11T2ItMkxhUnhoVGwyMA?oc=5",
+        "title": "Avanza Fonder AB Makes New Investment in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcy15a0hOWjAwN1BQTDBRa0d4alM1OWpOVzFsRmI0OWNILWcxX0R1QksyQ2VOeVctRkJFS0VRbURRSXRYZFFHWm9Ia3FULXktU29lU1VsNXlyVEY1VXliTGJhMTZVYUs0Rk9MYWJxeGFwVnpUTHIwamZOWnFpUzdQMmpzellFa1pmRFU1RjZNcE5rS25UUVN4TEloWjVDMW9Gc19laGlOMWFUSlN2X2Q1YzdLVjBtNWFqZGpUMXpYVWdRUUIyOU44eE1LWHdEU3dDWUNnWHVn?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Royal Caribbean (RCL) Announces Leadership Changes Set for 2025 | RCL Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFFMcHBZM1Q1VEtWQzB6bmxXek5VRkFrY0V3cENBMUFOUTRYZXFvOV80N2pobFpIZ011S2JBR21zM1NJRVZTcTc3THAxOU9IWnZOMjNkTnJBMENnQnJRb0xTTnllY2twdzlLVjdrbkNqOVVaNHpKVXc0MktwNU1PeEF5QmZ0UWRmeHZNTmxCc05BT1pDZ09BUVJtb3VNeHhlY1pBSUttdk9jdnhNSFRKcUNyX2lhZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1,335 Shares in Royal Caribbean Cruises Ltd. (NYSE:RCL) Acquired by Curat Global LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYkpQc2RQSFltT1ZwdkFpdmV3VGxRZ1dEWUR0WVdlOXJMNWE2Y05nRGZ2UFc0ZVYwcWJvRWtoZXhWY1dMX1J5VGdrcHZLc2pubzYyc0NtQnJvX0JmSXlSdjVQeTJYZjJVMmltS2VyRE45MWxmZWZUVDk4US1YTGo3Q18tR1NYLVNHcGI2b0VCRFZwZXRkR2Y1blFFMmlSZ1NuUTB1c1RrRFBiekRoc0NEX3E4ZXFGeHRpelNiY0xBcTkyTVFDeDRrVGdZUXhGRTZxVzdoMHQ4OA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Royal Caribbean appoints CEO Jason Liberty the board chairman (RCL:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjQxaWN0cGdST244eC1xWGNXV2F2MWhGMXJNZ19kc2dtU2QwdjBWZTRqNEx2aEtZdFpIQ2lXZEY4V09fNEh1NUR5ekxzbDlZRGsxOWJ6bkVGTi11d3J4ZFFFeFJJVjl2V3UtdGdnUEt1X2h0Y2lrSk5qbElKcmlZdzFVaWZhcFJKcTJ0Q2hDZzNqdElMSGxyNjR0YkNkTU1M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Trending Stock Royal Caribbean Cruises Ltd. (RCL) a Buy Now? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pNN2pQNjhEc2c4NG5vTWJQeldSVUU5cEZXYlRPUTZTeHVaOEZTM3lCb0lUekRQWkFFaEktV3AzY3lYbTJ3MjdIamJMSnNfeXVCa0ROR1pTMnllcTJORVJ2b194eFpzNnc0OWlSOTllWlRQMjExWFYySE5uUDRFX0hyQi1HZGZYR0RxNnBsV1ZwWFpjVXhBMlFaNDVWQ2VyS3I4NnFQekVIN3I5YkY0enJsOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Viking Cruises Lower Despite Strong Q1 Earnings; Royal Caribbean Basing - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHBERDMwUG9xMkVNRVdMZldsUEJZMlQzQmhkcFg2RUtRQUUtcktQZ1JyR1NDbVpCMXJRTktDVFVkbDN0c00zWlppSmo2dXNVS3UxaTNQN2ZYM2YtVi02NDlTTmZaOXRnaXhzbUtpNlFQVzV0NENJNGlyem1yWGZSZWpNUnEwX2laaDhrdUtsa19IRWhycG5CSl94YzZCWHNlM1kyb0pzT2k?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Royal Caribbean (RCL) is a Top Growth Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNnpoQjRYc0NzVFdYdGxyczd4ZzJNelZ1eDJTRDNsaUtwX0UyNF9udUpHVF8zTGRFZ3NucnhyckUya1RCWWVjcWZ2azQ5dFRpd0Z6aXFqcUUyM1VCVXF4eERFVXVpMzBJcFpWeTBzejAxaVZzeTlDVXFJM2JMdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Buys New Position in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYm1BU1FuRnhsb1luT0VlTUFOVkNZVjRUTjdSNzhsWHRHMmhtQTEwZkZ1OW9RMzE2bDZ3dWZUd3hNbnNhOGJLNTcyMkU5WTI4enJQRW5GMlIyUDBzZzZjMWZjZFZyRDc5Wl9XVnV0bzJ0eFdVQ3o2YnlGMnRZb2w3YzU0bDROM1F1ZUQycjRJSFhhZjY1RWhNcElDQ1A3YnRWd05BTzFTTVdoTUhoZUdrUzZHR210OVNlbHFOeTdNSFl0aTlpU3VfNmFMbXNuOHpWVkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Royal Caribbean (RCL) is a Top Value Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FhNEFSbHR0d2lvSjQyWTRmVHE0ekpKUmw4SmVEQ3R3NnoxUEV1TDhOMTFwSXpuZkQxSjFvenZMN0dCUy1seW5POHl3R1Bjc3dhbWV1amUtLTVwdTBHbkhmN2FYRmFkS3dQejN3VEVhN0p0WjlQd2tTelBRbG81VWlfMko3bWdNZlVZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "RCL Stock: UBS Maintains Buy Rating and Raises Price Target | RC - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY010RThucHIzVlAyRnpvRmFKdXJiUVJXZGhoeHB5LVhuVlViRXBjamJieEV6MElxamxKRG8tZmN0YVNKX1Bfajd3OWtXRG1TbXpxT3JVZDlvTlZYQ0dDT3FVb01rMk5Lb2lLQmtGSlh2TkREWjNabG9Gc2dSeDhyRXoxUjRkX2EwbjF6b0U2anZ1TjNVMS1sdThSWXNWR3ZEMk5nejg5YlFGLVZpVUFranhB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Stake Increased by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUFGcUxwQnRFV2UzNFRXNEp4cmVjMF9BM2xQbkItWG1ZZG02R3JaTkZVa3NWSjRDQVRDXzh2a2lDNlZFUG9wSUFfeldidEctaFB3bTB3THlUTjEzMkgzOFlSamZrRUZrYmFCcGwxUVdtSlJTNktLZklXRllQejB1dVpWMVdqN2dnRnE5RGUwbDBmc3d3bEJUNWRYSzFROXJ1ZXctOWVmYjE0T3J2c1p6cXhBU20yQkZYTkNqTkIzZ0JFYWhaVDlBNXNFR3l1cDQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Royal Caribbean (RCL) is a Top Value Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wRDRwaUxlbkRRMkRka0Q0YnphdWMwUUhRel9pWjQ4NlhvMGFVVU5hVVZfa1hkdzV5QVFURFRYcDVMbV9Ic3VSaUMyQWNSZXgwMDRyeHNia1ZZbVJMZjlLT3lJNzlUUnpIQ1BxZThOWTBqVi1qbG8yNldYVkozUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stifel Nicolaus Issues Positive Forecast for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEo4azZieWxWQnlIQlVRckc5WTBoNVRiOVhpVExvU2dVZDJDT0haeHJtOXl0VVdORGFhSlZHRUd0N1FjUTdfX1RWUWMwVm5OQUs5MEtTY0J0UWRxaEFZQy1xSkowWWdtYkZ1UDRod3k4SlRIdVlCcUoydlFWZnpTSVRyMTB2LWl1ZHlQWHE1WHY0Ym9xZGlvdGk1c2JYcmFIQ3g2T3NHbkk1cnlMV0V2bEtDcUlHSVJXclNxSnRGWkIwR2YtcWtqckxKMHFsWENrZG9MSFEwVm5HUQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Here's Why Royal Caribbean (RCL) is a Strong Value Stock - Yahoo Finance",
@@ -636,26 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Loop Capital Issues Positive Forecast for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmRKVnRrSHdnNlBMaER5UzhxSUNOdEJUMk5Ic21WRG85dTc1dGlhUWswUkNuUHVBZmJjOUh1OHJvVnNQYnp3ZGhpX2tqazZNdEJERmplQTRhX1pKUmE4QVFQQ3k2SGNfUExkRHVmdG54NEo1Y2NXS3hwV0g3UDVLcTdZTnVGZEpWcHVmWGxiQnFYLWNmaDktUzBwa21wS1JiN1pUbG4tX3hJT0dyTm04ajgwU2lqb3hnR2JYeTNEckZFUjdoWTdpT05YQXFFMGxvNTV5Z193?oc=5",
-        "label": "POSITIVE"
+        "title": "Wedge Capital Management L L P NC Sells 28,120 Shares of Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVTZzaXliUTdTaEhibHROTU1Ja2ItYzNBdDI5UzhOTDgzQXVtWUY1M2dtSW93NmlaUGdKRjBMLTFhRDVQQkxZNlRZSG83b2J1LVEwYVFLXy13UmYwd2swVk9YWVJjbS1QXy1FR2Q2MEpWNkkwUlFEX0hQUG05ZTVnWkhGQ1pMZU9YbU9lWlB6OXFQdVJmTkxsTmp2UTFlWTh1bWJROVZHSHdUNzd5bU1EdUFvcWttVTlQVm5QX2d4MFRvZ1VvdFdUM0ZGS1lnT1F2TWVPUE9BNjBlM0hHUVQydlNLTnp6dTBIUFZNVw?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Royal Caribbean Seeing Inflows - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWk3ODRvcFh6cHRKM1NTVFFnR3QwbWlDaUx6RGNFUl93OFk3a2oybjVNRjIybVRpRmYyalFKSEowbjZWRV90emZ1Z2NNdE4xZDlsZThJSktLVm1Bb3ZZZ3JyQzloWlh6NnN0a0ZVUnVTdXlCTkI4VXBVbk9WN0NwdWVR?oc=5",
+        "title": "Pitti Group Wealth Management LLC Sells 1,447 Shares of Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM1BsU25KWjJnTWNGak9KNjFnTGY2cXlIaDFnMHVpZmFhcDdNdVRITVF3UFJFT1dTbXNtbkRUOTVqalpFMWJoa0pSd2w0N0kzNDNLdkhUQ2VjaWFXVFRPMzRORkNOR1NrcXpoLVRLRXc4aGhKREZtMUtLQkIwUG9wWWVTX1phbGpfYVdmUk1vZXM2SG8zamp4RE4zdEZYcXFoZ2x5R2I1QjVPeEpURmE5SERrOGRGWnQtRTNVakt3V3FJSnF5aTNDMTlBOVdHS3RHNWZIOUdTREdDVkVsb3dqaUItWXJfQmw2aGkzSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "USA Financial Formulas Has $679,000 Holdings in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXRsTU9JREV5ZDlDQUVZTlR4cjd2SktmY1U3N1NnVDl5Rm05bXFOUVp1OVVMT3I3QVY4a296UWp5ZEZpRHEtRE52LTFtQWt3WTZNdzZjRnpOZ05YbEwwT2t5eGl4WVZiV1ItTGxIcmVSb0Z5ekd1VHFKMlV4TjBVVVlEZFpHSTNBZjc2ZU0wOEIwcWctbFhrdDZBWGNtZVo3OWFHQUZvVmVEd0h6VTQxcUlNR3UzY1paZFFkUVVEeG5ZdnotQWVoMTZ1bHhqOXd2OHRKVG56cThHaXlNNk1jOENB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NCLH Stock Slips 26% in Six Months: Should You Buy, Sell or Hold? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKb3c1c0x2Wm9Jc1RBN2FuVGo4SThLallPRmFVaElYR25wWmlZczhubjE5aTJ3S3FDNnlXdHZHUFMtZHlIaWs3bXM0VndFZUVObWl5QWNsODZ5Uk5tdE9Mb2xkREtVU01pVnhmMTdyQnozaFQ4eC1ncg?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Shares Sold by Contravisory Investment Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVDRuRHoxYmhlUWZLQ3JfZjNJdVZMd3BoSWwwNUM1WGpNZWs2em9Ud00wOThRTDVnNk1Rc25KSEwwbURoNmpPRUFBc00wQTMwV21jWjlVR0JoY3hZSENZYmZlZ28yRlNQa05wWEpMaEk4WDZlcTJFcDJGV283RE1Ka3FrYzBpczJuYTBvUWtoQ1prN3FCRlVmTVBacU1IVk9OX0lyZk1HdkVES0tQbnQtZUlHZ2Z3VnRJdHcxNklfQmlNbzc2MzhBcUVyUExfWHEybFNWall6RmNuRklHUXVqR3c0Z09LUEc2bjJ5WUNQZmVEUlg0UUY4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hennion & Walsh Asset Management Inc. Purchases 3,176 Shares of Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEpWZ3hFQmk1blpKMk91SzhVOXFYTVpOTllmODk0RERNRWhsM1I1RzF1MDI5T2llM1FyOVptUE9IWUVIQVRVMFJhQkl5VnM5a3l1V3g2UkMtai1jUjl0VklDVFZZeVBVM2NvRWkwelg2UUpWZ09xTzFqTEp3UWhhUFMxQzVvOW1NY0h2aUFxTll3Y1BvQW1EQXp1MkhHekVGVldmWjhrLVp5aU9HWGtpXzRzelc5ankwSHdkU0lrQ1dvMGp2SlVjU0dGcnpkZnk1U0w4NV9CVXNvVzZGbEwxV2owU2hwYzhvWjVjcA?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

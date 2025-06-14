@@ -2,12 +2,12 @@
   "ticker": "NFLX",
   "name": "Netflix",
   "sector": "Communication Services",
-  "market_cap": 528554917888.0,
+  "market_cap": 516875157504.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 58.778515,
-    "PB": 22.003153,
-    "EV_Revenue": 13.476,
+    "PE": 57.452465,
+    "PB": 21.516937,
+    "EV_Revenue": 13.1,
     "ROE": 0.40842,
     "ProfitMargin": 0.23074,
     "GrossMargin": 0.46919,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.5422725830018758,
     "ROA": 0.13789,
     "PEG": null,
-    "EV_EBITDA": 47.266,
+    "EV_EBITDA": 45.947,
     "BuybackYield": null,
-    "PriceToFCF": 24.294745728533616
+    "PriceToFCF": 23.679524083272266
   },
   "technical_indicators": {
-    "RSI_14": 70.34346664222052,
-    "Momentum_10": 4.613336621505675,
-    "MACD": 40.291889038453064,
-    "BB_Percent": 0.8592060703617362,
+    "RSI_14": 58.99496502907144,
+    "Momentum_10": 0.6295383405725675,
+    "MACD": 27.64681525028868,
+    "BB_Percent": 0.5632432119136196,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.916722543274844,
+    "ValueScore": 0.8433228859291249,
     "QualityScore": 0.3075380195345435,
-    "SignalScore": 0.4344196607546903
+    "SignalScore": 0.530829621625871
   },
-  "volatility": 0.0234728054402284,
+  "volatility": 0.0233619920121776,
   "beta": 1.589,
-  "return_6m": 0.3287010325972688,
+  "return_6m": 0.3217811555490135,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 45,
-    "target_mean_price": 1147.6194
+    "analyst_count": 44,
+    "target_mean_price": 1159.2698
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 913.69
-      },
-      {
-        "date": "2024-12-10",
-        "price": 913.35
-      },
-      {
-        "date": "2024-12-11",
-        "price": 936.56
-      },
-      {
-        "date": "2024-12-12",
-        "price": 925.55
-      },
-      {
-        "date": "2024-12-13",
-        "price": 918.87
-      },
       {
         "date": "2024-12-16",
         "price": 921.08
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 1241.47
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1224.46
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1203.62
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1219.88
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1215.03
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1212.15
       }
     ],
     "current_price_data": {
-      "price": 1241.47,
-      "change": -9.05,
-      "percent_change": -0.72
+      "price": 1212.15,
+      "change": -2.88,
+      "percent_change": -0.24
     }
   },
   "news_sentiment": {
-    "summary": "Netflix continue d'être au centre de l'attention des investisseurs avec des analystes prédisant une hausse continue de son cours d'ici 2025. Malgré des inquiétudes sur sa valorisation et des signaux de vente en interne, le titre a atteint des niveaux record, avec UBS accordant une forte recommandation. Cependant, la concurrence de Roku suscite des questions sur l'opportunité d'investir dans Netflix ou d'autres acteurs du streaming. La tendance générale reste positive, mais la vigilance est de mise face à ces signaux mitigés.",
+    "summary": "La performance de l’action Netflix (NFLX) a été mitigée avec une baisse de 2,7% due à des ventes internes, malgré des signaux positifs tels qu'une augmentation de l'activité d'options et des prévisions de croissance des revenus. Les investisseurs ont montré un intérêt croissant, mais des avis divergents persistent, certains suggérant de vendre, tandis que d'autres prévoient un doublement à long terme. Malgré des plaintes concernant une mise à jour de l'interface utilisateur, le titre a continué de grimper, atteignant de nouveaux sommets avec des objectifs de prix en hausse. Le sentiment de marché est partagé, entre une confiance persistante chez certains investisseurs et un scepticisme affiché par des traders d'options baissiers.",
     "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRU94cTdmWWFKSmJJTzdnRklXWFd3TDBrLXAydlJjX1E4RlA5QjVPQmN1b2dfbmdWQVhoZU04YzNId1VFNUVvbHNRR1VtOXYzOHNzem5LY19Mck92aWpDczNvT3U1bnBNU210b3k3NzZYSko0YUMzMDJDekt1dS13SHJTMG00RlY3alNFQ2JSSXFtR1ZiS3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Netflix Stock Can Go Even Higher, Analyst Says. Here’s How. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUnlqREo2Q2tZM1dXaTlsR2xvaEgwdE1VclNxbVFCV21aQWVfMk9waHF0NGRraUNIbW1VMkFsWGZnX0lCVklSQ1dLaFN6bXJldlMzQm1KLXNlNzA3MUhqS1FGeHE4eVJjczVLS3o2ZEdxbC03dWFpdVNzTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Can Netflix Stock Continue to Soar in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlp0OFo3N2pPNFZMSTVOSmg0anpHUEFjdGJyeEhBN19iN095cWhvZXN6cUtCR1dlNzV5MkVPd05sYXJ2Y1ZtcGVUdXREZXBuYWFCY0psNGRYOURwVHJ0bDdZcXBrR0toQjJ5Q3gyR2tuamtJNTBTUTlIVUZiNmZVdlZBWkY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Netflix Running On Fumes? Why The Next Move Won’t Be Easy (NASDAQ:NFLX) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0FiWDJUeHhpU3NzemJ4c2NzanBwMVhhTTJaTWhDS1hSM1R4T3U1UzYwSzA0UFBfLU9sNHVlMkNoV1lwUzFCYTBpVEN1SENEMEo5X2haYmJuaHFfZjlESGRGbzhnWVRvRmo5SnVmWGJBX2piNkh5b1BPbmNMZWE4bzU1MmdNUk1qUW1ZTlN5OGwxQ3lreUcwVmE1Wno?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mullen Automotive, Applied Digital, MongoDB, Netflix, Tesla: Why These 5 Stocks Are On Investors' Radars Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN0Q2c1NuXzBPYUNMLWdTZ3BUdGU4NXhKNEwyMGRfR2ZhbnZ1NE84UUQ3MVlKbHdSVjI4ZmF2SVJMNlRmbkhRS193UktZNGlRc2p1TmpaUTFTcGdSUml6bmxWODdkZVRZNlFkcXI0Y0x1Z3g4YmZFb1ppUTBzQ1NkYU8wM0d0VWFZYlUyWVk0RGdWVERWZmVnbF8wQXQ2SENybHRuUnBtUEdZaDljTzBFcGlST00xMndMMFZTNzRIdWxlaE5xN01VVm85WTRIOVpIN0pMd055S08wdzQ2MFA3eFBsV1VrdWxrdF9NT0h3akNoNTg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Could Netflix Stock Help You Retire a Millionaire? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVVueW9Hb3JYbDhZUUZ4aTlMS29WRTBfNDh3Uml2TXM3UWtLOUhFanVzQmVBNmowaF9ZekdETjF0MDNwQXc2N3lLbmNjZnlRUmNHRUpubXR3U0gxN3Fiek9zaHdCTTNJVWtTdEh6Z09RZFZKeWs3VUx3YW5vWHZXUm1LMnJzQm1HYk9UejFyUEpGRWRxWEJv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Stock Reports for Netflix, Toyota Motor & Morgan Stanley - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWl9ZZVlEbUpTZ1ZTOHNhZTRuaTJYa3Q0d1dWbUhoaE5UZjkwMFVqcEMzRzZQck1od1dQWkFVLVg4QUd1QVNRQm1VSHN3MlBDeERGNFpzWE1OV2g1d0pHTjlNQWhIbWZaUFRxLWthb0lOTEF5Ynk4c21kZTMwTlF1ejdEbHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Netflix Stock a Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNTDdLVDYyMzJ5ejBob3ZKMEktVE1pU1BzRXhuZDZBcnVickdJZFVnbHFCMy0yZnpTNGFNXy1EZ1ZoS21McGZWRG5CT0o2V3VQY2wtN2NGZ29SVmZUYzEzZVZpTDRIaTF1SGotMmw2NHlfMzg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS maintains its bullish stance on Netflix with a fat PT hike (NFLX:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTVfRDZ1TEJQUWliTEtncG9WTGxXVEFXODhuXzJ3VWJSOGhQem1BcVRWak9iQ1lKbWtXUmVEMnZodkNHTVg2TmJ1Q2RzRElhU0R0bXlRZHFscGpVRzNid0k3NXk3Z2dCU04xY1VxeVdYeDk2YjFmc255VnNaLXQ2UlZoTGlRTUZuNjNTU3JNOThCblJpRUd0YV95T2ZhS3gwYXc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Netflix stock downgraded on valuation concerns despite recent defensive strength - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaE9ackxEVDhoOGVJYWVHd3hsclgta3JJVzNONGRlRkkwejJadzhmQTFIb3AzOGlWbF8tTnZqWDV5R3ZZQ0l3eGEtemdvMEplcjNwRDhHSnFobHA4cURseWc3SG1jU3FmV18yMGJBNDJLNXF5QTFiN2R0RnFrZG92LUdydHNMOERzZTYyNlZKU2Y3U1VZN1ZLSktrOV9xOHNVTmxfeDRVUTRCWXJJOU9YcEwyVEZheEs2MlJUX0dwS3ZUazRU?oc=5",
+        "title": "Netflix (NASDAQ:NFLX) Stock Price Down 2.7% on Insider Selling - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW9PNHlNOXN6UlM0VzRodzliaTd2M0IwODJGS2dSamFtSl83dU5QSHd3ZnlWQVlYbUFxSHQxWnBxRndyaVRHTHR0RUZEZER2N0kxdC01aU1IV0pfeGFSS3I0OFZYN1otUGNqQmxPZVpVYVZlb1hGMDZ4bWRBX2F2MzNhQk1kdjZQWVItUnZNUl9TZkFIbHozTFdZUUFNVGxRTXI5MVlrMG1UQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "How High Can Netflix Stock Climb? It’s Just Getting Started - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZW1GQ2J0X0pPY0tQVGVOSjVNSGZudTVvLWRGVFZucEs0NC13TWs4R3REbXRZU1FlQzZlUVB1TU16VjhqV2ExamcwTDRleElzLWVERkYwcklxbUxjNVQzTGphSUJUb3dHeHM1SHhJQ24wT3VyV2JlbEU1SkRUd1ZQVnRWaUhkQmVlYmdUYXRicUpHUTg1c0Juc0tRdm5VNGlfcnJaQkJNSjZVRENBNDFYN1kyVmc0T2c?oc=5",
+        "title": "When Will Netflix Report Q2 Earnings? CEOs and CFO to Host Video Interview July 17 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUQxTlhJVThicFNuTnYtZnVhSzFQdzA4U2t0YzBJbFB6YXZaU0R2VUNWOE9IaGk1YzRYYUhhTDVDczJtUzdURWVNNnlTUW52MFVrUEwzd1NBLU5QYlNSMU5fU0ZwS21GV1I2VDlDelhIUFpjUlpab3kwenNtcmlaOWszSHVWVEVzeDl5WHpDeUZGN3lsaEVtZjdFSVpQa1FkNVZUUXpTRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Selling: Netflix, Inc. (NASDAQ:NFLX) Director Sells 1,090 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjNOX3QwalE3eWd4Rk53RWw2ZHFDam9jUTdURWFISW1UNlh2c1RpMGFocjQ2LWpPX0EwRnZ4emRXZk00cU5VMjdvQWxPa3FrSmlSNUlfNnlOanVxUWh6bGR6RFFBMEY4aHQwVDlFQk5OYkQ0OThFNlhuVWdNZTJ1UzYzZWMxV1hVendERXZ6a2tCTGhmenVtTGM2UFdrQ2NZWndoUFZ0c3ZRSU1ieEJPN0FuS1F0eFBaaTQyRXBFUWg0SS1Jd0g0?oc=5",
+        "title": "Could Buying Netflix Today Set You Up for Life? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkJhUHZvTFdXOEpyQ3ZBN0o3b1AzS0c3cEcwVy00SDhTX2xCUGV3TDNyeHdUeHEwTkxRbXZidE52TjNSc082eDZSeFY0b05ESi1veTYtU0lFeWE4c1l6RDRHenpIbUhmXzVEX19ZaXZVZndRX21rWlNBZnRpdi02X2Fn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Netflix Stock Hits Record High, Gets Bullish Price Target From Jefferies - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlZ6R2JabVR0WWwtYVVMNXd3N2dlOFp5ajBqOWdPUFNUdF9BU2lqZ0lwbXJia0lTVkZWZ3hJczU1bkJfSlQyWUc0NWxvUGl3Y1A4RExWR3NjMkVrRy1pYUR1NGR5ZzFYNnMtWVZvcWFmODU3RjhVcU4wX0RLUUhlN1RnMlhKNWVqREEyZ2xlRm1vNHVPY3RtSmcyMk1UdDQ?oc=5",
+        "title": "1 Unstoppable Stock That Can Double Within Five Years to Join the $1 Trillion Club - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUlqRXkxRThHcGpGeV93V1c4Rm1BVTBaajliVVA2aXJtZ2xtcDVOOWZaTjR4SFI3alhfRnFyNTZNM0RYc29mNk1hZ0VQUWQ4VS1uRmlubVVYMUphelYyMlRLbUd5U0F5T1ZpN3dEQlB0VVlvVDR1WEEyaE9TdzRIZ3NOWUVySU5ER25YOC1FeDBva3NDbG82Rg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix and 6 More Winning Stocks to Sell Now - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkpEbDhRdEEwaExLQlJqaWFGQUM4a3ZlbE4yUVhaeS1ld21BVUYyUV91dzQ3NzRWT0hodFdhWTV2UEJ4YmFLbFRON1U2a0NvWjJHZXZEd3Q0bTEzd0ZYajVWRmluUDdkS3NKZjNKZVFFYkUxNXZGS2pIb2dLUTZ1V1ZoZDJPd1BSVFZ1Z1dGVE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix (NFLX) Sees Increased Options Activity Amid Stock Uptick - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2ZnaXZLU2FkZ3J6dmU1UWZwbkxsWHRuc21TcTlIQmZva0FUdXA1Z21oYUdwWS1XUnczb1JqNHpPZURRYmpvUDRreDFkRkdCWjZ1Vjh2bE1ua01sTkdwbGJTSk82aDZFbWtOa290ME1XRm9hczYtNU5ZZWdsWFhKOHVJR0RuQXJOTnpiOTNDUno2ZURCWnlfeGUyNGdFN3BoRWEtMlpjRTFiV21YQmNlR0xJbHRHcVBa?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Netflix Stock Notches Record High After Tudum Event - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTVhZGplTGRhWnktU080QzhjSkJhZThQbG9vRnk3aVV3UWVuQmpMSXhNaWNzN1dPdTJtVVZpak43VmhEb3l1M2xCR0MwalNiX0lZYjNNdS03RkNXOVZYYzRVeHZjbFN6YlpXbzlNZlFOV0tLWWwtcThqQjhWeWRxd2tsTlhlVk9fd3owMA?oc=5",
+        "title": "Netflix Stock (NFLX) Jumps Despite UI Update Complaints - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWh3Q0gtY3FXZ3ZTVWpRYy11ZGE1QWQ4bjlhUHNyNS0taEJrTktjeVEwaHY1RzdHNEZ3OFRyMWVGeXBjSFNOZzN4T1NGV3NXR2w1UlYyeFFtU29uQXItampNWDYzTnlRb1A0V3hXUDNoSkpDOVRVX19TVEg3OC1aT3gtLXhkZFZXdWlB?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Netflix Board Member Jay Hoag Offers Resignation - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0xKQWR0T0hDczJ3Z2ZDZjFuZUFiMmJVcnoxX0FGbkNYV0dmQkE5NXFmSjVlb0l2dTQ1elRSbVV3R0p3bTFQSGR3YzQ2bUhjcC10ajBYalRyRmVUcEZLdkViSG1ZMFk2d2Ntd3EyNWszdmYxRFhNaGFacTJyamVTeDZFSzREc1Z0NHNDM1ZCelNOSUdkX1ZLa21pNHZ2azVzaGc?oc=5",
+        "title": "Stock Split Watch! Does Netflix Stock or Costco Stock Split First? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnBkcURjRmNBYXo5U2owODN4VXlwY2hXMGduR0J2dC05c2otRlQ3aGVDTHlGRDdkWGtmTjEwU3M4ckFEZTB2cWx2bVNXbm41c0tiMWJSc1FlVmI3M0NQZTBOX0I5c1pORFUyb2lNT3JoTy1VVW0xQWtMMWdSdEJ6M2h0MEI2c3hKU3J3b3JydHNJV3N3ZGFvRlRMRjY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMZN, META and NFLX Forecast – US Stocks Fall in Premarket - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2lsYzBJdzJTV3N4aDh6YjVlY1ppTmlQc1BYcGdhMGlZZnVOdHcwSGc5NjUtY2RGQVJFZDV4MkQyWjZIMEpKazRRR09KMVp2TVhBTW5STFJraUlGdHpHVk1DRGxPV2lQRXJXTEhwVEE3eHV0RVNFcGNvUFlHTmxzcU02Ukk4ZDlXbU1TTEp6ZmpSTG10eE1LQkNGWUExLTByel8zZWpqWGNvZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "AAPL, AMZN and NFLX Forecast – Major Stocks Continues to Chop on Friday - FXEmpire",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVVlsM0xFVnF0T25BczhEaFVsWmtmWE5xbXlzcGFibmRTM1pnVHM4RUk4WnZwNDFLNHFfNlgtWmVpeGljZWpKZHVwcU1YQjExTmhqV2EtVmdjSE4tNDd2ellBNGI2dXhVem8xVkg0LXFiVGhZdExWcXpRSU5VNXVlZ0xIRUNsZV9VRFJsUm1IcEpYRjhjSGU0emlMQUFmSXQ2M1JRbFZWMmhlTXBzY1oxR3NCX3BiZ2NpR1RR?oc=5",
+        "title": "Argus Investors Counsel Inc. Sells 335 Shares of Netflix, Inc. (NASDAQ:NFLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1VDbkhmWkJnQnFfS0drMVBtY2xEYXpDcmNacU1JNVlYY0E0cFpmZkxiWHF5V2N1NGNfamVUY3ZMNXhNQmxJUE04VXQyQ3ZYVTZSdkNFcHZ0bGRjaU9mQW9RS1pjN05lU1gzQ2RaTWlPeGk1a01nVks1bDYzOS1vMEFrNG5WbDJ4RmdpdmJ1SmJNbVRfa1gta2FOcVd1UnhBZDNzT09rNmR2UzNNUWF6T3JxS0NJSFk4ZGxIZDJLTDh4Uk5RQjYxZjQtZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could Buying Netflix Today Set You Up for Life? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWZWOVFudUdaVVdRYlRNcDZsVy1ITVNQdV9wZWFJZjNMXzZObUJTaUp1QnZhODBfS1ZGME9ZR1E1Z2R0QkZ6dGRjQWs1Q0NtRWpTbUNxSl9Jb1VWMGkzS1JmU1VFVTNaNHVTUGcwY0ZFamttbzUxRVZ6bmxETEcwWHRoaEZLQnVMbzc4MnhvT1BmZ3VYSnBlbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix to Announce Second Quarter 2025 Financial Results | NFLX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjFDTnBEYnlmU0tVVUJiay13RFZYektEWTl2N21vZmxhZWFyN3dkbWotRHJOOEJMQmlFZHAtVG1YQXdweTNjcmxlYjdRUFV1X3dReWY4WHU1V2RBdFNuV3FpWGpLbzhnZUo0NUJUUjQ3MGxWUndhdFctUVFRTUthbmVTUDRRQ19Za01SWGk1X2h0RklaMXhhbW00X3RXUkdQOF9lWlVvbVFOTms3U1ZhTmJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Key Reasons to Buy Netflix Stock Beyond its 33% Year-to-Date Surge - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuMUVES3Z1YXQxZ195Q3p0ejg4Znk0S1k5ckRNTFEwWjkwYVE4MzZrY0dEZ2JhR210aFNVaVBNa2JBd3VxMUZ0MXhaOXZJSzNoeU9VQUVXMFFyYzMtZVA0bnNFdTZNTVc0UFY3NU1qRDB2dXhEN1dKQ3dLNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix Sets New Highs—Price Targets Keep Climbing - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3dvVmo0cUswNWdyY2M1eE5felFONGNuaGJLTE5aQTFfbjNCN1YtblJNZHVfUllzaWZUenJzajNUbVZidVZVam9iZUhkRUEwaHRqRndtRWFsMER5WHlxbXJ3bmo2Q3EzZ05OWUU0NDg4dF9DcnpiZnhoalV2U3pISHpORy13bXdqTEdVZkdLTFg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Veteran Investor Remains Bullish on NFLX Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWE1tVjhKaUsxZEJpVU9FeDFnV2phMnQxTFV2LS1NUk9SYTNHNk8tRlJ0S25NcFFUeUVDUEk1U3VGaUVJZ2tRUy1qU0VKTXRIejNXWUl0ai0tVjVIMlFSb0tzWkVyOFlGZHBUYTNWMVN3MEthek8tR1ExWHV2eHpsdjBRMFRyUHlLMmJr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix (NFLX) Forecasted for Revenue Growth Despite Neutral Rat - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmItcE8zZmg0Y2dsS0gzT1JQMGNrTmFhTkZIYzNrd2RTMEp1YmUtekJaM3hvbDVQVF91WV9aU1F4RS1CVFRuYll6TWVNVFBSOWN5Z3htMXJUMFctRkx0VmNwTnVqLWJOTVFKSnlIM2VmcjdSVFIwNEVYaEhLamNBeG8xY1lFdkQ0bjl0Z1hMQXg2V0RqSE9mLXRQQXhWcVJ4QjA4Zko5WW5qY0Q1UTdfSk5sZTBkMHFrbzB3RA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Netflix, Inc. (NASDAQ:NFLX) Shares Purchased by Ferguson Wellman Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2pzWTc0S0xjVW1iT1kxWFA4elVNczQ1Yi1Jc1pFTFdxLVB4UC1UNUdtUzBTdmd4bUJYWVY4M1htS3pHYTZaRVRiZTV3dzdtRUlWWG1rV04wMndVWFhVTFB4ME8xN1owQXdETndUTzRvMk9sdmNJcUpMaVROM2xIVC1FanVqUmpnMExyblZpaWU4bjdpWU1wY2xRd1B6UC1aSWNiNjJ1QkRzclRZcmlGOGphZ3NQdzlfWkF2cWZBNFRUYXAxNGhROGhTeVpQeWgzcG5KOVY4RkRlMWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix (NFLX) Option Traders Display Bearish Sentiment Amid Market Activity | NFLX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3F3MTZmTU1TNFRkY3pUZ0NzYWVVQ0ExcENoeUxZY01PaEp5SlJaZ2k2MVluNzBya1pyLUlldjlIYWFUV0FvU0dWMms3cl80dmNoc21LeUtSVk5zZFNRUWc3ak1ZbXMzMVFMa19MSzdyVlI3Ymh1ZmZEMzg2SlBBZkJPQ25FcHBrVDdJNWhPRTVHS3pvQkZ3Zlc3TUN4cnllMFRmbXRUb2ZTbExmX2VLbVd4eGpITFFoSThMdjhpZ0FyVmRna1JtRQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Can Netflix Stock Continue to Soar in 2025? - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQnBId3Q1Zk1saWdMek5OOS0tS3NPcjQtWmplN3BmWTB4bVFzbGRodW52MHdMOW1UOUxwMGZTRmV6MkE2ejJvUlVkUE1JeEJZZ2JGQkYwRUFNWXFMajBxc2NIakVHSVk4T0tuV2h5UDlKUXhsaFE?oc=5",
-        "label": "NEUTRAL"
+        "title": "CCM Investment Advisers LLC Decreases Position in Netflix, Inc. (NASDAQ:NFLX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSk1ZczRweDhzNVlSalhUZGZIM0tmdEtraFRoeTJXRXF5NlR6N1Z6OHM2amt4V1RjdFBXcW5WUUpWWG1UU0ZoWENsOGNWdll6TG9YN1lEVC1SYlZMOWctZGFTdUZVX0tnT2N5T29rY2pBNFBnU0NlRk1jMEVobmZiQ25yMWhhQXdocm0xNTlFTkR1dG5fM3A5QUp4QmpLOXYtV2R0SURGbTdTUzBiblRaY29LVGRxQU5kTThXdW93Y2Q2ZzBQbjNsVzNXZnRoUQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "‘Linear TV is rapidly shrinking’: Netflix (NFLX) stock receives huge UBS upgrade - Investorsobserver",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXExR3IzMXdzRjlKY1Z3aDVsOFFyNVdqeWFlSlBrbkdXZy11MjR4MFUtUU5CZGN6MjlxZnRDc3dvQmhqUTNMUE9ON094VjBYcWlWUmlxeU9zRFpQRUdpTnFZNEdvdVAwbjlqUEdubUhZbTZJaGx0TUhSZGR3cm9LUHJlRG1wcXpBaUVEZU1vQmFaS0hPTDVTb1o3d0pQVmxYYlk0MWdiNnk1NUxKZ2pVaTBoSHlTZlRKU3QyeTkzYU0xUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should Investors Buy Roku Stock Instead of Netflix Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjlNTFY0MWVVZ3o1TGtWUXhOMElIOU9TaUJDMWUzQUJ6dkZqdFhRS2pZZHN6QmtYaWNsRHFvWFp6SGdNeEJIc0tPZjhuRkFuUDFpVzlpZklzNlVJUWUyemVvR3lYc1ljZjlmejZXcXJkdno1dDFtY2dJUkNvdlVGQTVhRlh6aXQ4bzE3YjZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Unique Wealth LLC Acquires New Shares in Netflix, Inc. (NASDAQ:NFLX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmQ1SVh6dUFyS0Voc3VzSkhWOE9wcVVQbDRVSDZkZVN1RFVZUThJNmtPbzJLMmVyVVluY2tobUpfOGEwS0lIa2l0eFZ1ZGNyekNITHVzTVhEbkRhVEV5TlBrSG1OSXI2NExueG0zZVNFdURTaG5JUzZ0bExCTTFVUEc1c1JUY1pOX2RyX25Gb241TF82Y1J6cF9JZ2gyNXpOUXEyeHpEcWhpSmROU2dpUlpXLTB6cmZ4aldiWVVEblp1Zw?oc=5",
+        "title": "Netflix (NFLX) Price Target Raised by Oppenheimer | NFLX Stock N - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUF3NVpHQmhsVVdNTE8yV0VmcnVFUjg1QXROZ1NvMnk3OVlkb1pMMEtxN1pYSGVRdTY1LTU3cHBpYUZFaXViZDk4Q05KMjRsYXJkeXJDS3dCX0o5SXI3c0ZrZkphX0QyTl81ak5TUDZ5Zl80T2dkTVA2a2Z4YXg3YmVVUG9aR1AxdkhUZkd6WGFWNjRJVDQtT3VXUmhkY2hyNjgxUkV0S1JRaDBOeXBoTlB4S01ENWVEcllQeHdUZUExUUExcHpNN0ZXZ1pLRFZXQnYtU2VjYVlCVFhQTnFrLVF4cE9tajdUNkRJ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "8058.T",
   "name": "Mitsubishi",
   "sector": "Consumer Discretionary",
-  "market_cap": 11434330161152.0,
+  "market_cap": 11364727783424.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.193001,
-    "PB": 1.2204908,
-    "EV_Revenue": 0.855,
+    "PE": 12.121406,
+    "PB": 1.2081777,
+    "EV_Revenue": 0.849,
     "ROE": 0.106300004,
     "ProfitMargin": 0.051069997,
     "GrossMargin": 0.09864,
-    "DividendYield": 3.84,
+    "DividendYield": 3.85,
     "DebtEquity": 52.582,
     "CurrentRatio": 1.488,
     "QuickRatio": 0.988,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.08696662873959568,
     "ROA": 0.01245,
     "PEG": null,
-    "EV_EBITDA": 17.328,
+    "EV_EBITDA": 17.202,
     "BuybackYield": null,
-    "PriceToFCF": 7.06210828304998
+    "PriceToFCF": 7.01912023553471
   },
   "technical_indicators": {
-    "RSI_14": 56.20478677732643,
-    "Momentum_10": -1.79364537068671,
-    "MACD": 49.228750797879,
-    "BB_Percent": 0.3853547863164219,
+    "RSI_14": 51.0663742671402,
+    "Momentum_10": -3.049403747870528,
+    "MACD": 26.290586245889244,
+    "BB_Percent": 0.1191477451598197,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9344275881122768,
+    "ValueScore": 0.8959675046918668,
     "QualityScore": 0.3556722569889964,
-    "SignalScore": 0.5629501522757605
+    "SignalScore": 0.588205073604877
   },
-  "volatility": 0.019688419658898,
+  "volatility": 0.0196909061060615,
   "beta": 0.478,
-  "return_6m": 0.1448173613125996,
+  "return_6m": 0.1354884668476732,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 12,
-    "target_mean_price": 2825.2876
+    "target_mean_price": 2848.6208
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2556.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2560.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2592.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2580.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2573.5
-      },
       {
         "date": "2024-12-13",
         "price": 2551.5
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2874.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2844.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2853.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2877.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2857.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2845.5
       }
     ],
     "current_price_data": {
-      "price": 2874.5,
-      "change": 13.5,
-      "percent_change": 0.47
+      "price": 2845.5,
+      "change": -11.5,
+      "percent_change": -0.4
     }
   },
   "news_sentiment": {
-    "summary": "Les récentes actualités économiques mettent en lumière plusieurs tendances clés pour les investisseurs francophones. Tout d'abord, les sociétés de trading japonaises attirent l'attention des investisseurs, soutenues par les commentaires de Warren Buffett. Ce dernier a également renforcé son engagement dans ces sociétés, ce qui a propulsé leurs actions. En parallèle, Mitsubishi Corporation a annoncé une croissance de sa capacité LNG à plus de 17 millions de tonnes par an d'ici le début des années 2030, entraînant une augmentation de sa valeur boursière. Cependant, des inquiétudes persistent concernant la dette significative de Mitsubishi. Par ailleurs, le marché boursier américain a été influencé par la chute du bitcoin et la baisse de la confiance des consommateurs. Enfin, Equinor tente de renouveler son bail pour l'éolien offshore au Japon, reflétant l'intérêt croissant pour les énergies renouvelables dans le pays.",
-    "sentiment_score": -0.15,
+    "summary": "L'actualité récente met en lumière plusieurs tendances clés pour les investisseurs francophones. Tout d'abord, les sociétés de trading japonaises attirent l'attention des investisseurs avec des rendements solides, notamment suite aux commentaires de Warren Buffett. Mitsubishi Corporation (TSE:8058) voit ses actions grimper, bénéficiant d'une approbation de Buffett et d'un plan de rachat d'actions. De plus, Mitsubishi renforce sa position dans le secteur fintech en acquérant une part de Mynt. Cependant, malgré ces signaux positifs, des questions persistent sur les performances de Mitsubishi, tandis que les incertitudes entourant les tarifs américains et la chute du bitcoin influencent le sentiment du marché.",
+    "sentiment_score": -0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.65,
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.25,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -549,14 +549,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "As the US stock market starts to rebound, here’s Warren Buffett’s advice - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Japanese trading houses lure investors with healthy returns amid US tariff uncertainty - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWlXblN3OUo2SVp0TDJqSVcyeG1QMElMVF9TUUM2cm5FSThCQlpoQlFYc3QtWWdDNHRKckR4UkFyTnVMdTJ1SGcyTlhPaldGLUhkVDhKQmlzaTBJVzhiRmx6dzBqaHJNcjZxQzVIWnlhYXBIWmIzUmNsMmN6NGlIQ2FRczcxeW05M2tfV3ZjMnVPTDhQY3J0U2V0amdzeGdmZzNqUC1rR3FyZ0hJcGZfNXhkQkxJQUlEU0Ew?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "As the US stock market starts to rebound, here’s Warren Buffett’s advice - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Warren Buffett’s 2025 Portfolio: What Stocks He’s Betting Big On Right Now - Investopedia",
@@ -564,28 +564,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Warren Buffett's surprise investment sends stocks in five companies surging - Daily Mail",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGVkY240cGlieUVxVGlUOUVDMkVmOF9vR1NEVFhPeUFSLW5NSlowQmlPVGQzYmxmTV9rSTM0R3hZMkxNNkFydkx5d2p6ckFiNmQ0bWpQQmh2cTZFbEV1V2NVMmxSZUc0Z2FzVUFVaEpLdjZDcFc3SzctalZWQTltQVMwM3JpVWRUVXdBdTdXOVhjMklyQmtia0R3TnA1TjhvLVVTTTEtMnU1OEthTElNN09Qcm5KR0w5T1BoYVg4cmE2QdIBxwFBVV95cUxPSWxxcmF4UU0ySE5hSEczSC1RNnR2Tnc4Sm4zOEQ5UHlrcmdZYTJUYmUzU2lCMWw3cWh2YjdESGg1UGdYSHRNaTNRV3lWZzhGRW0xV29NdkJkd0tYRzF1azBfV0pQRnl1a200RjlPUGlKejF1dXlXempXcEljcEhWaTVUcDAwaXNscTBLT3o5OTdNSVF2bm5aeXJfWGhLWEhFTWdpRHVqOGFwTU5tNWdjSlU4d0htLTRRSkstRTA0N2Z3UDhwTEtn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Investors Undervaluing Mitsubishi Corporation (TSE:8058) By 33%? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmtMYkxEd0JqUlYtcjZpVmxQbFFrdVZZd2xxUmtJS0x0Y2hDWEpLZ19DUUo4WTcyS2hrMDRHcVVObTZpZmk4dl9nS0t5S2ZaVmNKUEJieUtMd0o4cjU2UGxxMG5TZXdBMWVRelpock43X3BjdDFMSXVaVmt5WmVJS3Vod2trTW0wWW44R212dnJMZVpYYlVVRHZnS2w2TFFsRnpaMFNGTWlQTnZDbG5ReEgySm9jOFRIbnFuQnAyTmFEMzk3Mmdnc3hUdGVWeDhGNDE0VNIB2gFBVV95cUxPSlZ4S0ptV1Z1OEFjZk56ZHVhZ0phdERkNlA3NnA2UWZtTXUzVGZnNTNSdHJnNGc3SmkteV82a0lXQVBsZ3lfSzhuQndfSUtzdDg2VXdNendxTERFMUg4TG9YVkVrMElCVUF0X25ON3p3WTZwdl9lN2hXRDV3eTN1dUFpRGpKSWZxbE5POUhWTkhJNW91bWlrNUZLMVlyMm1rNXRTWThLMnY2N19TTkY4MGgxY1ktMmJaZFpfSV9va0V0VXl2ZzV1RTZTTGg5NHVnc3d5RWVqY2t5UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Six US LNG Cargoes Diverted from Asia to Europe - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1MtRHdfSlk0b1ZaMFlpNlFEb2tOMzlSNHhSd3lZVDliaS1vYUJXamhVaEpKSDhwVEQwZkdCUHktdGVHTXlwQm9DdjlQUy1PWEFVaXVGLUpYTWg1S25udURoZzRHOTg4YUw5emx6QXZseTZ6bmVoazN6SkpWanVNZmNRLTJlQmoyZGltYnpB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -594,14 +574,29 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Are Investors Undervaluing Mitsubishi Corporation (TSE:8058) By 33%? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmtMYkxEd0JqUlYtcjZpVmxQbFFrdVZZd2xxUmtJS0x0Y2hDWEpLZ19DUUo4WTcyS2hrMDRHcVVObTZpZmk4dl9nS0t5S2ZaVmNKUEJieUtMd0o4cjU2UGxxMG5TZXdBMWVRelpock43X3BjdDFMSXVaVmt5WmVJS3Vod2trTW0wWW44R212dnJMZVpYYlVVRHZnS2w2TFFsRnpaMFNGTWlQTnZDbG5ReEgySm9jOFRIbnFuQnAyTmFEMzk3Mmdnc3hUdGVWeDhGNDE0VNIB2gFBVV95cUxPSlZ4S0ptV1Z1OEFjZk56ZHVhZ0phdERkNlA3NnA2UWZtTXUzVGZnNTNSdHJnNGc3SmkteV82a0lXQVBsZ3lfSzhuQndfSUtzdDg2VXdNendxTERFMUg4TG9YVkVrMElCVUF0X25ON3p3WTZwdl9lN2hXRDV3eTN1dUFpRGpKSWZxbE5POUhWTkhJNW91bWlrNUZLMVlyMm1rNXRTWThLMnY2N19TTkY4MGgxY1ktMmJaZFpfSV9va0V0VXl2ZzV1RTZTTGg5NHVnc3d5RWVqY2t5UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equinor Tries Again for a Japan Offshore Wind Lease - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTlmVllCMkhmTEZhZGdSUkp6eG14MHVHUjNqVDRnbW9UWEd5WFRvOHhFQ0NscXlncURtZlgxWVFwMFZRY1p4TEw2NGpNbXlQWFRiby03SWQyT3lYcXlIaHNlbXNINzVJN3o0VkR0X0wxamp4WHZ3SUJHOW45ZXFDckw4SkUxMTgxd2EyeEtLNjRKc3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Japan's Mitsubishi sees LNG capacity growing to over 17 mln t/y in early 2030s - Reuters",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWF0dnNxdmxNZmpReVd6Q3NQdkZoUUI4NVFKaGZzeGJjQXZJMUhyZV81cjhrTU1QX0dXM2RMb2VMUE14QzNfcG83VzZxcndkQkZyUjVta05ScFdjMDFUUkhLTnJSM1EzQ1E2SU1ydHlxRUJ0aWFXSm5mV3FCY3lVa2NFOU9zZ0p1MHhwOVM5TVYtdC1sa2NhNlVxR1pmY0U?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Here's Why Mitsubishi (TSE:8058) Has A Meaningful Debt Burden - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnVmdEJyNGRPVEtiSms4T2NCcjk1bGxRa0hZWTB5WGhIQlVoaEs0Q1VZMXAxRFduUzVJamZEVGFMNzJfOUpkX0hvRkpJdUpsWERVMmZUYXpmdnVYblIzMnNKdzFRODBtSWxPdFBBMml4YVdqQTJRS2IwTWxfZGtJYk9oRnRZdDl5NVZWLUNITnQ3SVNlWEVXeDRHT2VQNHRaZS13QjN6QzlQWWU4QUVjTEZtaVFnS292WVZFaURQLXJGa1Y5WnIyTjJ4LWYtMkxY0gHWAUFVX3lxTE1ZdlZMcGNlWEJEaW5yeDdoeVRLdHlVV29JMzF4NkNqOGk0cng2RkZ1VUhGM2dROTY4ZzFjdklFMUJuMFhSYXJUM3pLcmF0em9BMnFja3BBd1RzZ2cxaFFuSnFwZkQ2NHV6QkFVY3NTanQ1WXdRZnY1RWFqVVUtQXhHNWppU1hzTGhMYmV2a29nZThZMHlDVXAzVkJGQ3ZNQzlJekR4Zk1HYU9Icno4bzNZYWlQMlluZndTRXl6YTgzOTllUm5Ub0p4Q1lDZU11MGJlMm9LVkE?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Stock market today: Stock futures waver, bitcoin tumbles below $90,000 for first time since November - Yahoo Finance",
@@ -619,19 +614,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Equinor Tries Again for a Japan Offshore Wind Lease - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTlmVllCMkhmTEZhZGdSUkp6eG14MHVHUjNqVDRnbW9UWEd5WFRvOHhFQ0NscXlncURtZlgxWVFwMFZRY1p4TEw2NGpNbXlQWFRiby03SWQyT3lYcXlIaHNlbXNINzVJN3o0VkR0X0wxamp4WHZ3SUJHOW45ZXFDckw4SkUxMTgxd2EyeEtLNjRKc3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Warren Buffett's stamp of approval helps Japan's Mitsubishi shed conglomerate stigma - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdFNFc2RnU0FrdFlYMnctN1JIbXQ3Q19qUDI1QjdBNGFQWkl1NUhsbDNOOXBNemhyTHRWQk9RR1BadVFLaFFtUk9YVjRLY3k4UG9HSWx2SzNPNEU0UVZIa0JpTk01d2Ruc05hX1p5WlJLT0IteU42V3o1NE13aTZoSDgyTF8tRHRPOF9POWRjVTdZaU10QjRKRm9jWWVPMU1wR1E5N242clo4YWpqWXRSZUtoNUNDQUxmNmZUZldKTVdldw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HR3VHRXFtY2ktbTZrWHo1OWZhRzJ6aWQyU3o0WU1aYUZYT18wUTRURExDcTQ3TnhyZnpjeld6a1M1VlFMb25BcDUzQXVQM0laOElyQVFVRlVucGViOUl1VGhDTGJoTnVlZWVVNF9sZ3hzX0FITXg4TFVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock market today: Stocks waver, bitcoin tumbles below $90,000 for first time since November - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYW9zeHJiTlIyTGJZampoeDV5eHNxNC1WTl90Y0JLTndYT2pMalYzV0ZYQWFtdW50ZkREeE4zU0wtN29uSWRETmZXRE9fLWZyZUZqeER1ZjM1dml6MVJJVi13TnR4aERMYmp2bE1CX25hckh4ZFBSSkoxeGVJcHdQQ1k2Mk5RV1pJWHB5a1FlaXlaMXVvMmJ3amNqY21haWFBOGk1YnJud0VuQm45T3dFRjRidHVFQ3VEcGxCSnJLYzRZU3AzX1dZUTA1UGFhejVycjFWSA?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Trending tickers: The latest investor updates on Pfizer, Micron, Nissan, Teva and National Grid - Yahoo",
@@ -639,11 +634,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Stock market today: Stocks waver, bitcoin tumbles below $90,000 for first time since November - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYW9zeHJiTlIyTGJZampoeDV5eHNxNC1WTl90Y0JLTndYT2pMalYzV0ZYQWFtdW50ZkREeE4zU0wtN29uSWRETmZXRE9fLWZyZUZqeER1ZjM1dml6MVJJVi13TnR4aERMYmp2bE1CX25hckh4ZFBSSkoxeGVJcHdQQ1k2Mk5RV1pJWHB5a1FlaXlaMXVvMmJ3amNqY21haWFBOGk1YnJud0VuQm45T3dFRjRidHVFQ3VEcGxCSnJLYzRZU3AzX1dZUTA1UGFhejVycjFWSA?oc=5",
-        "label": "NEGATIVE"
+        "title": "Berkshire raises stakes in five Japanese trading houses to near 10% - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5zN0g2eDFDeVV6RlJXeWF1eUFIaHhNNFhyeU1UaW9ZSEs0aHRER1VhdEZUeDJEUlM1SDF2RVdzV0p5NXpBeTlhY29zSmx6UWNkeTlBMldodk5Ja0lVUWpPSE5sajA2QTVzRVo4N05OcHdlenhaYkI5ZGQyTThXdGdWa0luVFNHT2M3Q2RWdTBGYXYweEJ4WFhVUF9uMXZ1YVdQYUVkYWJnaFdQcnNhOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mitsubishi acquires half of Ayala's stake in fintech unicorn Mynt - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkVaNWpNYlRrdEZmOURlc1NERTNZS0xoMnBTQ2s3ZDVCOGdSQ3R6VlhkYXV3X25KNnNwaGRHUkVUUG5XakxROGsyQmhRcFMxM1E0VUFVNWtZWkhseEZNNE5McHZEd2xHdEItRVFzUHlOcy1IVW9sc3BEZlN4WVpCY29EeV9rS1FVRDctek5QeDJYcGJLckdNbm9ybDBibm4xMjdVNDFOZ0tKVzZk?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

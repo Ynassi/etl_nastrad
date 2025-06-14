@@ -2,12 +2,12 @@
   "ticker": "MA",
   "name": "Mastercard",
   "sector": "Financials",
-  "market_cap": 534605987840.0,
+  "market_cap": 508144517120.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 41.22689,
-    "PB": 80.30555,
-    "EV_Revenue": 18.664,
+    "PE": 39.241234,
+    "PB": 76.33066,
+    "EV_Revenue": 18.784,
     "ROE": 1.8770399,
     "ProfitMargin": 0.45213002,
     "GrossMargin": 1.0,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.4971275231353753,
     "ROA": 0.23363,
     "PEG": null,
-    "EV_EBITDA": 30.178,
+    "EV_EBITDA": 30.372,
     "BuybackYield": null,
-    "PriceToFCF": 37.04812445592694
+    "PriceToFCF": 35.317232160160934
   },
   "technical_indicators": {
-    "RSI_14": 65.25357941434964,
-    "Momentum_10": 3.2781425546724643,
-    "MACD": 9.152203598909864,
-    "BB_Percent": 0.890873502233824,
+    "RSI_14": 40.59743007987629,
+    "Momentum_10": -4.502218465428523,
+    "MACD": 5.977963839672839,
+    "BB_Percent": -0.1034693291366398,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8917376116470783,
+    "ValueScore": 0.8030486532652222,
     "QualityScore": 0.4977763155356975,
-    "SignalScore": 0.4788359340324228
+    "SignalScore": 0.6499111733711043
   },
-  "volatility": 0.0156998713065541,
+  "volatility": 0.0163197274842732,
   "beta": 1.052,
-  "return_6m": 0.1172083377926282,
+  "return_6m": 0.0610464968250168,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 38,
-    "target_mean_price": 620.46686
+    "target_mean_price": 621.28265
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 522.82
-      },
-      {
-        "date": "2024-12-10",
-        "price": 529.01
-      },
-      {
-        "date": "2024-12-11",
-        "price": 534.45
-      },
-      {
-        "date": "2024-12-12",
-        "price": 532.41
-      },
-      {
-        "date": "2024-12-13",
-        "price": 529.0
-      },
       {
         "date": "2024-12-16",
         "price": 530.31
@@ -537,77 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 590.12
+      },
+      {
+        "date": "2025-06-09",
+        "price": 584.33
+      },
+      {
+        "date": "2025-06-10",
+        "price": 589.54
+      },
+      {
+        "date": "2025-06-11",
+        "price": 590.74
+      },
+      {
+        "date": "2025-06-12",
+        "price": 589.28
+      },
+      {
+        "date": "2025-06-13",
+        "price": 562.03
       }
     ],
     "current_price_data": {
-      "price": 590.12,
-      "change": 4.68,
-      "percent_change": 0.8
+      "price": 562.03,
+      "change": -27.25,
+      "percent_change": -4.62
     }
   },
   "news_sentiment": {
-    "summary": "Mastercard affiche une tendance positive avec des gains modestes en trading tardif, soutenue par des annonces majeures telles que la transformation du commerce électronique en Europe et un investissement stratégique de 300 millions de dollars évaluant Corpay à 10,7 milliards. Les partenariats clés avec PayPal et les éloges des analystes comme Truist Securities renforcent la confiance des investisseurs, bien que des inquiétudes sur une possible surévaluation et des ventes internes inquiétantes aient été soulevées. La diversification des activités et les collaborations stratégiques semblent propulser Mastercard vers une position de choix sur le marché, suscitant un intérêt croissant parmi les investisseurs.",
-    "sentiment_score": 0.25,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "summary": "La récente actualité économique autour de Mastercard (MA) révèle une volatilité importante de son cours boursier suite à des rapports sur les stablecoins et des tensions mondiales. Malgré une récente tendance haussière, le stock a chuté de près de 5% récemment. L'investissement stratégique de 300 millions de dollars de Mastercard dans Corpay, valorisant cette dernière à 10,7 milliards de dollars, marque un accord majeur dans les paiements transfrontaliers. Les avis divergent quant à la performance future de l'action, certains la qualifiant de société solide mais d'action surévaluée, tandis que d'autres soulignent son attrait pour les investisseurs à long terme.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Visa, Mastercard stocks slide after stablecoin report (MA:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVItR1F5clY3Nk1KQ0NzcXoyZ2hDc3pSMHJzNmhYNXFMOUFhZXJjNHFua1V6RlF4cFRyZ2hNMmViOXRKdUtDbHdJdm1sdFpncExQb0U3Q2hhZy0tU2FZOTIybUxZZjVXNzFjQjFJWk01TEZULXRQSUdJSzB0dHF4Zlk5UFAyZlA2NVpXT2Fhc0s2VTVq?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mastercard (MA) Stock Dips Amid Payment System Innovation and Global Tensions - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTBkNGNBa1h3X1JWbjgzQ2Nqbmx5Ry1IU01kOEUtYW5lX2Rwc2tBZXBpV2tJR2FtbXljaVFGQ0hidGJ5SzVJSjljYkF4U1BQRW5SUnhrd1REWGhRZ0kxNHNEbFBadTJxS1dFRjBRQlNmaG1IQk9RVGo2dmdYdlRQaDZTSzhvRWhUSHY2WkFFSG55c1FWT1dxX2NhWDVDcHNRdHRaMjRrZFQzX2I3YlRHVktNQmM?oc=5",
+        "label": "NEGATIVE"
+      },
       {
         "title": "Mastercard Stock Price and Chart — NYSE:MA - TradingView",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CbFpVMHNMTGFsX01RUmdpWE5uaTlsNEJ0X0d5aDJFbEFsTGMzeVFyaHlnNU1CNmlJMGpEWXl0b3RaU3hIeUxuYTZxV1lXMmx3ajlJbnJZMA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mastercard Transforms European E-commerce: 50% Digital Payments Now Tokenized, 45 Countries Secured - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0w3WEJBdnFMVFZETTlNX1dBMFZ1TTUtaDFaLWhxZER0RXdGWHJaa2FPOG1MMlVuM054WGxRRmx4WDlVR2pxUHlIYW5aMWVnRU5adlVaMXdJUjRqaDVrazVBUk5jY1AzTTZUV3pxellTOU4xNzREanZteFZXOG5tZzVUUXZpblFSSjEwVEFrN2tFQURWREVyV05MS3k2V2FKTmpiYWhTN1pqdGV4X25xd0hRc21oaVpIUUVTcFZ3?oc=5",
+        "title": "Mastercard Incorporated (MA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQam1EaWVLd2JPOXpnMEJYOHExR29FLTQ0a0M0Rmxhelc4YjhCVE1iUTlsNVRqYlFLRU0xLVRtdnhvZEpUOEJVSkxzOHUtand4RUVBTUpWMy10azRvc0gzUXBxMUtyVGxGSmRpYmlsZHBvYUlVSFhQTTRzaWNTSHRGLXljWjJIZ01ycDJOQTlZaWw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mastercard vs. Affirm: Which Payments Stock Has More Room to Run? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmlQSWtTb3p6Mkp5aW0xNkZjeXZOOGpieDNBTmwtX3l2akhyTWsyY292MGZkYW9CbzFWVDJ6ZmhmRHF5OW03MnNLSDFISkJPR2ZTN09RZ3RsWUVEbjNZM3FrbHl6WTdnNUViYWp4NkFranJweW1lZnlVMW5WRUF5Q0UybnhIYkg5?oc=5",
+        "title": "Mastercard (MA) Stock Plummets Nearly 5% in Sharp Sell-Off, Halting Recent Bullish Trend - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3F5QWlyTG5EaHdydDJPVFh1bDZMZGI4UlBvVktmLUQyMHJOQTNYYnZ6cnBsLWZRUl9DYkZhXzFKZTF1aE1PdUtoNEp3cm40QnJmaHpSbnN4M1B1ZWNoZ2JHVktMZWZ4M3g2WmVEcFE1b05SdGFJSmVUa0ZWZklYMWo3enNHRzJTazN0ZTkyTE5naXAyTGRqLWJRN1dLVFpFYmdmNVZXNHpEUWVIU3pvQXphdFl3SERpR1k2aG93?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Biggest stock movers Friday: Crypto-linked stocks, ADBE, V, MA, and more (RH:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZOZmg0NncySS16amNzZ1NGNGR5QldtSmdSVnlXWnFMQ1R4U0NLU09HT212T3lvaVBUU0Qtb3l2cjZuNXlnVWxlcDVQX19aZWMxeXNpVnFSel80R19nYVU4SHJXWVVBTjFMVmk4V212eksycG5BNEtoUzdhVXY4dmRRSm91YXdEWmc?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Mastercard (MA) Stock Posts Modest Gains in Late Trading, Demonstrates Overall Positive Trend - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzFrMkh3SHFFLUVUMDBnN2tPYlhrUW8zQVJvZDJNNUFUQUJDYlgtMjc4NlcwT01KcV9RLXNMaVpCQ2U2UEtPalJDRjN1Ny1KeGs2LWwyNVdtZVJxelJwa0o3N1Vab3BfXzBHdWtzVXVlYk9HQTQ1MHF4VDFDUm1BbjdrbUFRbEFVZ0FvMlRkMkVISHVWQVJ5X2hzV0tHcEo4VnlVZWkzMWlkaTY1V3VtNFd4eDc2SkFvVjVJd0JnVnVEVzRod0J1NGxOS3JzWXdF?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Lucky Danger Chef Tim Ma shares vision for Chinatown - NBC4 Washington",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWkwQ3M1SVhZc1A3LWVrV3hrTG5jZXlvYmF1dUd5dzdETkNJNk1neDkxMTRjWDZnNGdnMldtX2t2YVU2aGNYRXQ5QVNjbmtTcXM1c2prYVp2WFpGeENPd2ZMQlVHYUNyWFZnY2cyWXlLMDRVb0JldFVZNkJMZVBMQ0xwQWtlWl9paHJNb1l5T0x3dG8tN1VMajRUQVpCZG1qUEhYUEN3eGtqZ0RVVTY0YW9fTk0yZDJp0gHAAUFVX3lxTE9XOFltWW9pVlJTb1hPVjBlT2ZNdGtIR2tGNWlRbWxCRVEzOURwS3lzWDFnYlYxV0NBV1ZNRF83N001a1pNNE92LTdFUFNmcDVCZ2ttdWVGZmNGbkRlSThIb0lTTzJhd2NUQVlLTThGdzNEbWpPY09tVGZjWDVqNENVZUdmcUlRdldzMnVYSXl3VGctTUMwaUtHOFo2S2tkdXdUZE0yMWxDcGlETDZyaWdaZU91MjA2cFQ1aktCM19kNQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS Raises Price Target for Mastercard (MA) to $670 | MA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0FvdkNxSTdoWWE4bUEtM1pGbFFLUlZXZjdRVzNEcUNaQmNrZjdyTzBXRHVZeHVpeVphM1hxU1c3aEVBOURIbldGSExrVnEzR0FiLTg0MHBGU0thVVFsNy1RSFhQNzRQMjExeFYybjR1YTJYSm9LaGlMMGRpcW1KYnBjaXlUeFVBUHJvNU1nVGpTLVI3S0loQjNvN1hjSTRJSmxJMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Credit Card Giants Hit Highs. Visa Joins Archrival In Buy Zone. - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OVWFtWFBSWEdxd0lGUXVVU05DQTc5MGZxV2daSE5mQ1RjODRBNy0wNFJWMHR0MzZLM2RzYno2d3Blc0ktQ01yR1NDQTZzR0dHamcweWswaS1RUllGZEs3eXRHdzl0NDdmd0pn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How Will Mastercard Stock React To Its Upcoming Earnings? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPampnTE9HamFpVVZzdjVzdW5waERELTNYMEtBN2tqTkIzOTlRSDl4SWJYUWJKRFdyNm1kR0hCZVhYd2JxRWU5M00xNXhicFF5TVNyRy1uaFBWYWlQMmY4akxTUjF4RFdMY05DdEVkTUVsM1RjT29tYVVhNlo2cWhoangxZUhIZVo5YVRILW1yaWh2MTJXRHVwZzRwcktoZ1VOa0pHczZ1aWhvVzRDSmZPYnh1M3dkZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Mastercard (MA) The Most Expensive Stock Insiders Are Dumping In March? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTVWSTA0TnNQcFdQbnRBS1B5ZXJJSUZJSE9GbE9MUXo0Sy05RW9WNzRGMXZmcGlETkJvRXFodlE5bGx0V0QzVTRpZ29yVDlnN09feEhTWUJjakhkeGY0TEFGTVU3WndSU29fX3paN1dQMXpWeDdQY2pPLTNxMUlyZEZtMHlwXzQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mastercard (MA) Receives 'Buy' Rating from Truist Securities | MA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUR6cDdjQ3VZWHdQLVRyQUxIWVRmVzNnQV9SZV8ybkRUS18tRmFRUDIzX0pFRGJKMVQ1RVp4QXRNSHNIWlROWm84TUhVTmhlQnA1NnVYb2syWG8xVTZQNjdVR05EdVYzUzNXcFN1WTRlNlJxYlV6YllPbDc4LXZzcXdBcHJ5R0h2dGd3VXpUaFJCZDFDT1dWeTNsQ1hiWHVOaFJXS3JSNVBWVkRadlE?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Mastercard's $300M Strategic Investment Values Corpay at $10.7B: Major Cross-Border Payments Deal - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWpQOVRyUnBWa05MYVBXWnltUVBiY25ISU1rOExhNGZKcTl4V0hfMmZhU2ExcmRMUmNkSS05OEl2SDJheVpYdlhoOUJySk00TW9ubkYtUENidmNnZWRyelAyTGUzRm52SzQtZnFZZUI2bERJYXQyQUM1cmVaNC00RG1lRXFZTFc2QUFabU9xSC1vRzhiSjJscUMwUUpYRkV5OGpURjUzTEFuVzhSUTQtN0ZwRWJhUE9hSTJV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Mastercard Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPampnTE9HamFpVVZzdjVzdW5waERELTNYMEtBN2tqTkIzOTlRSDl4SWJYUWJKRFdyNm1kR0hCZVhYd2JxRWU5M00xNXhicFF5TVNyRy1uaFBWYWlQMmY4akxTUjF4RFdMY05DdEVkTUVsM1RjT29tYVVhNlo2cWhoangxZUhIZVo5YVRILW1yaWh2MTJXRHVwZzRwcktoZ1VOa0pHczZ1aWhvVzRDSmZPYnh1M3dkZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,8 +601,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Mastercard and PayPal to Partner on Mastercard One Credential to Supercharge Choice at Checkout | MA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHBOb0RYMElUUUpoOENWdUEzZEdjTXdWWG5QV0JqOUI3SFdNS2VmZ1RPbk9YM1BzbkVSQ2hCTkNKamVIeUtzRE1TZmN3YVlnUjFFWUwxN3hxOXlrOFhZQXg4Q0lPandsOEswQUpOUkhWcEUxUXBJbGVQNVNpQXpiVHU0NzlFckFPWGVKdnhiV2VtQXI2N01qY0s5WGhJakdZOVZwdFFPOWlTT3cxWXdNejBvQl9WazZyWHg5ZHZGdDJyMExObGlIdUZxMjBsa05UMkJWVTFzdnJOWXpFLVJvUVpn?oc=5",
+        "title": "Is Mastercard Stock Outperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW1sUHBBOUh4MWJZS3A2UEQxSkRmS3VSZkNsbldNXzdHMkJaM1RDeHZRX2kzYkNZMjhSZEtHMldONzJ0VkxvVi1CMTl2Q000TWp4UUtzMm05TjZ3RFBjYVBSbzBKODhjcTJhLTJ2Rk5yTVQ0c1JubFhTRVlhUHZVSTVXN2F0TVhiLUtOM1Z3a29XbEc4cm5ENUV0a0lCR3RBV0lKUndTMTR6eXpIcUl0LUdpTEFRVU9hWXRyRzhsSk1EcGs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mastercard: Great Company, Bad Stock, Sell Rating (NYSE:MA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUxPcERaV3NPdkRoZGQ4amRmQTVLb0Z1bnBmUVpReDFDMzRwTkZQSVdJVlhndWJpcUY4dF9kRFBWeHZvYVB3Ui0yQm9qLWN2c09RTWZqTWE2X1FmM3duSEdXS0RXWFRHX01FeXRMR2ktOVZhWG1renc4bmhqR3JxSHhhR29Dcms1aXVEYlhYejM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Mastercard (MA) The Most Expensive Stock Insiders Are Dumping In March? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTVWSTA0TnNQcFdQbnRBS1B5ZXJJSUZJSE9GbE9MUXo0Sy05RW9WNzRGMXZmcGlETkJvRXFodlE5bGx0V0QzVTRpZ29yVDlnN09feEhTWUJjakhkeGY0TEFGTVU3WndSU29fX3paN1dQMXpWeDdQY2pPLTNxMUlyZEZtMHlwXzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,18 +621,13 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Mastercard: For Long-Term Growth (NYSE:MA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FZzBHSXY5dXktM0gxUDR5bENsckl2Ql8xRFd0RmwtOWVxVlo2OFVwZzN5aWdzNkx5U3R4NjRxSHVOWVBLbDNKbHdyX3Q4STQ4SFZRS1pycDRDMHQ5YWpFNERjV0E2MWJNMnBaUzNxYlZBXzVHRnFkdV9DS1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Is Mastercard Incorporated (MA) the Best Fundamental Stock to Buy According to Billionaires? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVBhOTBMYTlUOU1ZbG5ENDhzNG56TUpJdDhmUEk4MGo3c0ZseUhONFJlZFA1dy13QnJUNXpHUGt1Y1NzNE9odFREb21MODg5bmdqUkZiVTZadU1lUGRnbzJFX2FwXzFfUFFjNHNKOVhZLWhHVUllcUdQdjlrUkN6TENUVzEtMmFXWXg1bDJCcXVEVlU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Mastercard Incorporated (MA) The Best Money Making Stock To Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmZjY3lLMmczODhfSUxPNkt4MWFkUVFXV0t2czRqN0x6ME9wa1FUbDg0ekZlU3VndjY0eVVCZzh0MFI3UFFaQ2t2Z3AxYzYxSnh5Nlp4Z2h3TVZQRnJNY3ZEUElTM0FhMW1JbHJYZ1pKM3FMc2h1ZEpXbjIyYWlYeWxSeTlreDQ5ZXZN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MasterCard (MA) Stock Moves -1.55%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeE9XME1mSWZaU1pUdlR5eVBVT2tOenRrVUd6R3ZNa2pCN1hlbExYS2tFaXptdzlNRkI1UVZ3bzFtVEpUN0Z5OVI0aDNPdGc3blZlOGt6TmRER2VaS1h3ZnRzSDc1cU1QWmtVNU4za040YmF3a3ZpbVRtQUcwdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +636,26 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Is Mastercard Incorporated (MA) The Best Money Making Stock To Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmZjY3lLMmczODhfSUxPNkt4MWFkUVFXV0t2czRqN0x6ME9wa1FUbDg0ekZlU3VndjY0eVVCZzh0MFI3UFFaQ2t2Z3AxYzYxSnh5Nlp4Z2h3TVZQRnJNY3ZEUElTM0FhMW1JbHJYZ1pKM3FMc2h1ZEpXbjIyYWlYeWxSeTlreDQ5ZXZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mastercard vs. Affirm: Which Payments Stock Has More Room to Run? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmlQSWtTb3p6Mkp5aW0xNkZjeXZOOGpieDNBTmwtX3l2akhyTWsyY292MGZkYW9CbzFWVDJ6ZmhmRHF5OW03MnNLSDFISkJPR2ZTN09RZ3RsWUVEbjNZM3FrbHl6WTdnNUViYWp4NkFranJweW1lZnlVMW5WRUF5Q0UybnhIYkg5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Mastercard Incorporated (MA): Among the Best Blue Chip Stocks to Buy According to Billionaires - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHJ3bVFiY2ZuV1NndGhWZTVEMzFOTktlNGU1NC1UaUYtNVFxQXVzSmVVZXYwT1dJcDNJS3FIa2t2Q0xFN1F2WUpmMU5SQmJsYVI3SHNpdTFxRDVTb2tsSG5ueWxkbElaTWxZNktyZXhycXVxVVA1S0ZDT0NXR1pmS1hnYzR6MkQwdW53?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Mastercard Incorporated (MA): Among Charles Akre’s and John Neff’s Stock Picks With Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHg2aEtSazdtSEtZakFFM255bWZPc3hSeEdUNW5wWjVENFphdnp1OU91TUlwcEVGVkt1bHpIeklGWDFxMlE2OU85bXRielhsTXdYYW5KN21MMDdoU25RNGVjTk9fVXFSN0x1RmxOY1ZkZld3Nmc5My0yci1pdnFReE1qckZqVGpZNkk4OExFOA?oc=5",
+        "title": "Is Mastercard (MA) the Best Stock to Buy in 2025 for Beginners? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TTzJTaGRiMmwtS29RQ2QxbldyTjBCd3E3OHVLUUtDRDNabElIVkRKSG03NzZRR1YxczFmT3JCQ0pEZ0FpbjV4V1V2dGNZaUNwU0xUSG5kdzU0SnU1SmFMUXVnd1laNEtUdkJxdUtCNlYyN3JZNXZxSEp2Uk15cHc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

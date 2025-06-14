@@ -2,16 +2,16 @@
   "ticker": "HIG",
   "name": "Hartford (The)",
   "sector": "Financials",
-  "market_cap": 36626558976.0,
+  "market_cap": 35578220544.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.85344,
-    "PB": 2.2262516,
-    "EV_Revenue": 1.394,
+    "PE": 12.485544,
+    "PB": 2.162531,
+    "EV_Revenue": 1.376,
     "ROE": 0.18495001,
     "ProfitMargin": 0.11089,
     "GrossMargin": 0.34658,
-    "DividendYield": 1.62,
+    "DividendYield": 1.65,
     "DebtEquity": 25.92,
     "CurrentRatio": 1.788,
     "QuickRatio": 1.002,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.19658760542780024,
     "ROA": 0.03079,
     "PEG": null,
-    "EV_EBITDA": 9.045,
+    "EV_EBITDA": 8.923,
     "BuybackYield": null,
-    "PriceToFCF": 6.918550024835227
+    "PriceToFCF": 6.716356966539666
   },
   "technical_indicators": {
-    "RSI_14": 56.48891060557626,
-    "Momentum_10": 0.3554321343652182,
-    "MACD": 1.5311171246297732,
-    "BB_Percent": 0.5129632373361559,
+    "RSI_14": 45.35688442169296,
+    "Momentum_10": -3.2245521152220356,
+    "MACD": 0.2079757465067473,
+    "BB_Percent": 0.0764426436973743,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9338123712750616,
+    "ValueScore": 0.8939020861801846,
     "QualityScore": 0.3801965624439119,
-    "SignalScore": 0.5517723696910735
+    "SignalScore": 0.6219465444344463
   },
-  "volatility": 0.0154190193724638,
+  "volatility": 0.0151238918987462,
   "beta": 0.706,
-  "return_6m": 0.0875853744892269,
+  "return_6m": 0.1267734389464028,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 135.1906
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 116.21
-      },
-      {
-        "date": "2024-12-10",
-        "price": 112.98
-      },
-      {
-        "date": "2024-12-11",
-        "price": 113.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 110.92
-      },
-      {
-        "date": "2024-12-13",
-        "price": 112.08
-      },
       {
         "date": "2024-12-16",
         "price": 110.73
@@ -537,37 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 129.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 126.87
+      },
+      {
+        "date": "2025-06-10",
+        "price": 124.9
+      },
+      {
+        "date": "2025-06-11",
+        "price": 124.37
+      },
+      {
+        "date": "2025-06-12",
+        "price": 126.26
+      },
+      {
+        "date": "2025-06-13",
+        "price": 125.23
       }
     ],
     "current_price_data": {
-      "price": 129.33,
-      "change": 1.3,
-      "percent_change": 1.02
+      "price": 125.23,
+      "change": -1.03,
+      "percent_change": -0.82
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Hartford Financial Services Group (HIG) semble attirer l'attention des investisseurs, avec une recommandation moyenne d'achat modéré par les analystes. La société a récemment annoncé un double dividende et a atteint un nouveau plus haut en 12 mois. Des acteurs majeurs tels que Unigestion Holding SA et Man Group plc ont accru leurs positions, tandis que d'autres comme NBC Securities Inc. et AdvisorNet Financial Inc. ont également acheté des actions. Ces mouvements pourraient indiquer un intérêt croissant des investisseurs pour Hartford, malgré un contexte économique incertain.",
-    "sentiment_score": 0.2,
+    "summary": "La Hartford Financial Services Group, Inc. (HIG) a récemment renforcé son conseil d'administration en nommant l'ancien PDG d'American Tower, Thomas Bartlett. Cette décision vise à améliorer la surveillance financière, ce qui pourrait être perçu positivement par les investisseurs. Cependant, des mouvements de ventes d'actions importants ont été observés, avec Assenagon Asset Management S.A. liquidant une grande quantité d'actions. Par ailleurs, malgré un contexte de marché volatil, Hartford a atteint un nouveau plus haut sur 12 mois, soulignant la confiance des investisseurs dans l'entreprise.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Is Hartford Insurance Group Stock Outperforming the Dow? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTU1sQURwZU4zTW50X1JPYXdyamJQdFlrMm5VeDloVlZKM3EzeDFaMzlTbGd2a3hmVVRUdk85RlUxSFkycHdrWDIxdk9fVG9mUWs2SFJxWVZBUHBqemtlWkVyQWU0YlphNHRCWnVvZkdNbEhfSTlvYThUdjk0S2l5YU5jRGhJXzNzZEYtRlFkelR5TlVWZEpWanN1TFJtSHhDTFJwa093SXgtclo5TXAwUXhsLXZzd3huWFNXdXFuWjF3QnczNmhfdkoxZXBQQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Hartford Strengthens Board with Former American Tower CEO Thomas Bartlett, Boosting Financial Oversight - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3FaRU9uMEdyaDdYbVNZTEl0ZS1xN19KUnBGNDdMcnZQQVZ1NWozQzZWTUF3bjlDaS1zWUFkVDFQajdnalpMUDlSd0VGYk9OSlpNR3FIclNXa1g3MkRoLW5DWGlFNnNiOXJnQjRvMktLVkx0d3FsUkVsTDJ3M2ozZ2F0VkxfMDBLMF9xaG80SzNlMkJ6SlItNzE5d1pGTEJmR29XSThKR1JSdFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assenagon Asset Management S.A. Sells 501,834 Shares of The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdmdRTXFGMUJrc0FmVGdTVkJieVU1a1lRZXFXM3J3QW5pZUJKTDRPZHJYR3c4c0dLZG5VaU5pQjd5UXdyTWVNZ1c2RkdXMEo4dFYzQk1YWldaQnFGam94VS12RmtvOUtCdzh6aEpJTmFJWXhuMzh2bzhlOEJKQ0Vtbms1b2tXejllMlllWUNCUEdUN0tqdGZtZ3M5eTlMYTVTUmlMaVRPb09pQ3ZkaUYzZ1ZCWUdkXzlPaWx6MHk1aHI1aUVmSzk3dlNaZFFiVkJ3MEIzWkpDRFI0MzhzeVdGR1dyWHpmR1hsb0FwQjhuMWhVVFlWYVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Hartford Appoints Thomas Bartlett To Its Board Of Directors | HIG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTEI2SzlTT3VHS3lHWGJrTFpoSTdjSjlvSm53REFaRGxqaWhhSV94Y0ttdG5FSk5DSUZGU0lmU3g2OWplcTFraWg2WnZZUHBGR2ZHUk9uNDg5RUF3czVDVnhIZHRmZlczcFJ1WExEdURaYm5IQkRJdGZzUGFfM292VWthM0FSMWlpTFY2bkEweWdNc1hqTW80dzVWaERuUEFBTm5abUxwVG9aSFlzZmZsRzRUcGlCWWxad0N0ZHNZcVJvWDBrMk9jVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(HIG) Investment Analysis and Advice (HIG:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkpHYm44c3Y5c3JRUDBXaGt1VGdhbEh2amVQNi1Uak1UZy1rQ2lMVDNmVXdHb3VqWVlPVTc2OFlmS0RSN3RzWWQwU0N0d3hmdDlUcF84OE9qOGdpZmdtalIwdUQ4dzE2TDM1NzMzY1JMZHgzV2NxSURxQVBjSjlBSVRWdE1EZmVnSHplZEY5UHR0T19STmQ0?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Is the Options Market Predicting a Spike in Hartford Financial (HIG) Stock? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXVNOFRrOFNsckxIeTVJX0VHNHh4TWwtbUJkMmhFSXo1QmNPdkI2OGF6eDJFVHFmRFh4Tk9pc0hXMFptS0N3N3RNcmZuYTNKQ3RWc0pOVXY1WEZ1SmFEYXh1WjZVb1BXTHRjd0VBLXo4Y3JpdnVmRDg4VWZDOTNrN3VDRVdCclN0VDVCcF9jQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Hartford Financial Services Group, Inc. (NYSE:HIG) Given Average Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZlZOYXRpa3MwTTdWbE9HMTBMMzl0alE2WkdWMWIzTEJsT2pFZHJsalVTdGo1aG1VWUN5VHpDeWItWjJfUWlraVl2TjBranRYSENHTXJNNE9jd2lRWlFSSjJqczJJaEJkQVQ3bWRPMXBqTjVkSW9lRmZjOXE2V0tHQTBSRi1aYXlhQnhFS2p0akE4OWdrY1hjVS1ydUpWSFhfSWVhc1RFbFcwZWMtNWZGMUV6MzRPbGFqYUcwSGpQajhESDB0R1o2aTJLUG9CRkI5WGFDRmNxNk8taWdTdVE3YXJBLVpESVRtalhidjhrTThzVFU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Hartford Announces Double Dividend Payout: $0.52 Common Stock and $375 Preferred Shares - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWdwQ1lPQzlsMklIWFI3aURjV0w2Wk5IT3BPeGIzbzVBNXlYRThLV213a0hYY19henhfRzV6SVlreFhOVWFSRmV0THo5MEQ0S2pqUVpqZ0FMd054UkI2bnpFcGNidVI1NTlZTE9CTkQ4S3lfTkJMWXRRdkFwVW1VTExMdEZRelExaGs2YnRiR1RuaUwzZDE1NjNHakZKT3M1UW1PTzBkbGVzVGJxRnZhczR5SmdINGs?oc=5",
+        "title": "Hartford Financial Appoints Thomas Bartlett to Board - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWNwRlFmLTZFdkxkX1VTNDJCM043OGxLVXBrbXVhYzVKTkJNdkp6cXg4WGFKdkgyUzdmMDJXNDhGMmF1WTMxZVFaalo5SkJpTTJTNGVRZDU4UUxDNHJhR1VmUEJMbGd6ZVBMTWJJZktKWWE2ZTVFVWUwb3lQN3Q5YS1wS1NaV0x4bHVIZXNRT0Y0YUx6RGVJUkEzNEJscDFmX0ZScS04cw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,13 +596,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "$100 Invested In This Stock 5 Years Ago Would Be Worth This Much Today - The Hartford Insurance Gr (NYSE:HIG) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalR6YnhMeXN4SWQ5UEVQeGVvdEtycGlmZW5BZUdYU2FZY1F0Q0MtWnQwd3VwRDhRWUFhOXZEdGFtYjJVVVhLeE5JZldaSzN0NUdYZFJUbTE4MnNKQTdvdXM0a2gwSnFqZG9UVEgzZW9leS1YX25ET1UwX1BGc1VFZGEtZUxQUGlfWHhKWndDVk1vVmZ6Rkk3QktyaVNaX1NyZGVpNVFhblNfSGNqaUdkTmU0TFpRWkdwam16cllndjg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(HIG) Trading Performance and Risk Management (HIG:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmlYc0JEbzQ2UmVDWXpma0x6SlZzOVo4R0MxM0w0dFFMdkhkNlF0SU12dnpDOV9jTkR5RzdSMWphTTJHOXBHa3c2VzBpSkZVSF9uU1NtMF9NS2h0bFU3VmFOQ3pvVjNuTksyNndSN2RCcHdMTnB2TjVpTjduVjh5bUtUYWlNUTBkcWpUbFFLSjV1ZXgwN0hQSmpsaGpWVkRUSEhR?oc=5",
+        "title": "Are Strong Financial Prospects The Force That Is Driving The Momentum In The Hartford Insurance Group, Inc.'s NYSE:HIG) Stock? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbzMzVUpCelp4Q0ZWdmlkaEM5cmZQdmRLNGItMFgwaUZvZ1B4TjQzVlZnWlFhR2YyNXFOTlYtMm1PWE1IeTlXN2pnZHdzRTNpdHN5Um15b2VhSW1mS0NUdEtDU3h1U2NUUUNXUE1LWjFtaUNfR2lQN3FmTHNGUlJXYldBeFJCWGlMc2dwQWJHRHFjeGc3UTNDUVNuekxWVjJNMmlFTVM4OFhqMDVJMW1EcXZ5SkxPS3FGRUsxLTZnT2hMaFQxb1UwcG45TnVCUXc3MF9fU0tTNWtpSFJOYnc40gHkAUFVX3lxTE9YZHlfNDc1c3M5b2h3X2hxN3JkOVpWWXFncGV3TjNkc1BPRjZRV0Zfd2NzYWtfYVFhSzdLRHFFT1YzTzJNMndzYno4ZWhSQ05aU05wTUt1UldNQ3k5TVZwRUJoR2Ztdkk4X0FaVTcwd2w1WjVhU19BTzAyanBWSERDZlo3cFcwVnR3cndDdEswUTA3WTJkM2hiZExiOV9ZLTRvVmZvV0trWmVvOVlmaE9JN1dlNldIOVJFcGUyclc4cTNTanVqX1FSUUxTRHYwdXA4UUpwUEszdFE5WmU4MHJfQnNpVg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,18 +606,38 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Hartford Financial Services Group, Inc. (NYSE:HIG) Short Interest Update - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXJ0WHFqUEIyeGlZRXNocUw3WUxrSVdKajd0T3J5d1NIblJSckhNY3B5S3pobEpFUjV1MGpjMFo2RktzRld6ZVRFaHFTbTV3djZmRnF0eVd2OE90R2M5R1puTUIzYktpdmhlajVOS3ZQSFp0LWRzRUkxY3pnN193Q2REYW90MXdrSW5MeVRYdFpjU1VNd3dyTXZ6VmlyVTMybm50NDRacUZKZV9pUi1rVFFLQkdLa0JhYVhTbF9xdkx5eWM?oc=5",
+        "title": "What's Happening With Hartford Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3dvZU54VGxYbE1OZ0UyN2duWF9SZTNHckFCb3JnOHU2bTBDWGxuWHpHOVRMMnVGVnI4Z3FralpyLXZ5R3dmZ2dOU0VsSUc5ZUJqQjVONTRtRlpqOEEyRnBNV21FcWRsalUxbEJ0Z3ptc29BaE9BMzlqYTYtend5NXdicXpnU2ZIQVNaWVhKTFAycWN4Tm8tbkVR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Hartford Accelerates Digital Transformation with New Tech and AI Leadership Duo - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGswOFZRYjFxZnhraXRKM25VdFY3TUl2Z1JycFlJZC16UDhTTXJ4NDI5U2VJMTEtSEs3Ymk0MFN2aDlmWkNtUTkyUDdib1dOYkZMUThtMml2cm8zRy0tdDV0Y2paeVl4QUlZakF0dHdCd1BqZXpJaDlwc2JYRlVWd1ZubUl4LXhMLXpLMEc4S29iLXh0UVVF?oc=5",
+        "title": "Yousif Capital Management LLC Has $4.88 Million Stock Position in The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNelZtM2MwdUhTQ1V6cHE2X1puWk95encwd2JCTERkZGxfNFhhcXk3X2F5Tm03dzloMGVIZXBZeFhWSlBGSGlLaUpMODNRN3VueFVwTWVkV1ZBWjZoVFVkSzJ6NHlBZmJ6b1l0ZThsbUdMNlFpMG85V2NYSXNPaFp0bm1nUHVCYS02TXhvT2hqQU9KcEZDY052YUlWVjdwZ21ncmFnSktnWjZPVWRVUVdSOFlrSFV3TklSVXZFeERpeFNCUzlWME00RmhYZVhnS3VtVjNWTkZQdG5sZVZ6NGZkcktpOG1iV1FmNklfbllWVXVFemZ6VWM5a2ZZWHhZLTQzZ2ZkRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Steady Income Alert: Hartford Financial Locks In $0.52 Dividend - What This Signals for Income Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1N3MWt5di1UMlllYmU1SEJjdEtpUGVkcXNpUGduX1R5QzNpUWpiYVdfZF96Y19aRjV5WDFwZ3dSVG9rSWFXNjZOV2ZCZWh2Wk9lT3RNTEVRUjV3MmgwOVVyV3g5WlRzaDRDUVpCbE5TNkNPZ0djRWItQVM1X0hzbjN6d0dRa1lBVEM2eURWTEs3MlpWZ2NDRlpRNFZucEdZTWRZWG1QQkNlME9lSGZzNXpUdWV1Tm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Executive Makes a Bold Move with Hartford Financial Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2t1c3paLWwwcE1aSVBSa2tUbE5VTklzZWRuNVRBelh6akZpWlRuSGRSZVdNb01IMEFqbzJiRUUzYlBfZGJpQWoxY0dyUWp3SHNYbDVOVVFHbG1OS0dnN0xiZFJUS2dTZEFsbHphZnNXTUE0WUNISWRiRGs3azJ1TFZzbWNReVgxZHI3ZmlzR0RoSzRKNmNjekozVVlXR3NuWGIzZ0ozRDQ4d0dtVnk3NklB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trinity Financial Advisors LLC Increases Stock Holdings in The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSHAxZUY2d2htWnZOODJBRGpRQ2trc0NfSEtGVi0zcmduU3BudE80bEppM2YxNHNpMTFvSUlOS2ItMWV5SVlWb3RUak02b2U5SE5SN0dlcTgybUlTeHFYbTYxZzNnLXhSV18tTENraGRaWjVzdmdzOXRUNjFtQUFqQ1RBTXV3VEplZXNRQ1l2dzRfTlgtY184UWpfSzhMblYwTmt4alUxWHozVmI4c3RaZ01HcXZVVFoyenRVRktPUkFEWVQ1QXA1WjJZTXRMd0xIbnc1eUZKMHBITS1VX19aRHQzckJ4RzRtWUlCbjlCLVZNS0pXZG1Bb3VR?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Unigestion Holding SA Acquires 5,647 Shares of The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUVN2Y1BWaWZxR0h1QzFjRTB5ZUpqSnZRaV9ibi1HblRuZjdIemQ2WGJ0dUJzb2Q4Z1NVNjBFU2xYMGtleGxzR2NtYVg3OVZOMVdpYWdjUzJnb3loNnBhcms1d2ItenVpVzBjeTJaX3dlaU1fX1NMSnI2Y3RIUkFWTDZJUzdzaTNITkxGTUdkOVN1RHo2S3ctSjdUd2pkaWFTaWItU2ZuUm8wVWVhTjFWaWF5WmpjN0RRampaVmo3NXdVRnFnVmRid2J6WmlqT3NGU2M3eWdMc2VWTERPUEhfMXBOZy1hUQ?oc=5",
+        "title": "Avanza Fonder AB Sells 4,734 Shares of The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMm1vbGxvSE9IbmRqMU9qUFllNXZzMlNlZUxxX3BqODV1Nlp4MnpYU2JNcGk1QTRBZnR4OFRTTGdtMmQ1U0hDbi14cFRlN3JGQjY3YnptaW90YUQ5N25yRzhISHBnc0NiWWhWbWdKbnBVR29VejFSdWlGcU10RVlmYlBiTndta0RsSFM0VFNyaUNIM0czRWVIdEdVaFVSb3Zoc1NrQl8xTU1rT1h2bDdPZEppUXZWb3lHSjh4SXZWd25jandBRHJSR1JqTDZCNS1HSk5CaFpRS0hUVHdjdmhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "City Center Advisors LLC Acquires Shares of 2,100 The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaEpkMk1NUEZjbkRqUFkxM1JxNTFUTnlkUDFNeVZkSUx0dGZVcFFtZkM0VXItUjQtV1ZrTUs3dU9XUGpkMUUzS014d0RacEVjSUVDclNMbV81aVJsS2d5azdRaXA2eTRnR1duZDY4M3lKTXZrN1BRb3d4bXNoaGpTZDd0VW9qaHlmb1E4SXlFN3NMeGhVVVJyOHktaEVITmJrZGxVQy1JWVpyanBkb0ZXQ01hMDRuRG8wbkdPTlpTZWlvRGhBY0diUDBLcTVWSkE5cFJNVkhmOXExbXBHY0xGWTU5bVNfbEho?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -611,51 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Hartford Financial Services Group, Inc. (NYSE:HIG) Shares Bought by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNUZyb0R5THphUTZkNENsRWZucEZ5TGdER00tMldTQ3dUUXk2cVRCY2xCZDlMU3Q3ZUNnSlFiUWRkdE1jaWxwV056OVlvNHBTalhhM2o4TmM0R0VhcWhwdXB4RUpKUmZOZlQwZ20zYUdFem5QVHpNN1J1OHFTb0g0X0tTRHd1YzlDUHNnRTNGbW13RF8zNkVXQ3pBVzNfWERRMU1HNTJkdzMyR0d2bVlFNC1rMVRVM2lBVE9oVUg1UFdsMFRXcUQ1VDY5TUZBVXUtaDNqeTdYVUxjVHpudEhKbVJPWHM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Has $44.52 Million Stock Position in The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWExMb3BNNUtTek83bUFTbnk5OXdiQXliLWx1RUhBN0JhMnktTDNkVWl4elFHcm1ZSHFqN05vU0x6TkhoNWZyODdZQTNVejlJR2drcThWdEhTTU9vTVFTVzZ5bThmTDV1S04wRHBpR0RGbGxFNWNnQzBOQkZWbEJFMjJwcWVyYklTUkt1ZXZKMjcxZFBlS3Z6SVRkYS1uWEZEbFpCOEZHekZITzA4R1FENkprb2NTYzBuSUJaQVZrZWlpRkFWMEVvNE9uZHB5WFRCbHIxVDZmcEhDWWtqb1FwLWtlNVFoNFZwUjZ6V3Azb0d1Q0ZQTDZGZEhTQnVYTnJBMFBtdWJldw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Hartford Financial Services Group, Inc. (NYSE:HIG) Shares Purchased by NBC Securities Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRHFDNUYxcV9DNWVJcGNLUEtiWkxtQlRXMXBnZU13a1RwQXVCWXRaSXpFeWRqSDRtR2tJUEZiRTdrWHdXQmR4cnBCTFNlaURISXRzbmJCLWhfbjhiWVBCRXExS1RWajRMd0hsdHNPcl9uU3B3dC16aFRPU3FXRERwV1NKSl9abzVXdERNeGdqUTA1Z0E5VVlicVhzbHZ3LTg1QjFzOEEwNVlfTWJmOXlrOU9adDU0RW5CQTUxQWNBQXlEWFpKVV9PUGllQzFoN3dTQVB6YmtIZjBkTlBfOUxkejRNSGxuZmtpX0ZzOXVR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "271,928 Shares in The Hartford Financial Services Group, Inc. (NYSE:HIG) Bought by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUjVCRzc5UllGVW9URE5HQjdYcFIybHlJOFh1QmtSLVdmam50WnRRY0lLV243aUo0UzNJbWREQkZrcll1WnZzd3EzdV9wVGFLcHV6Tk5YTHhLWUs2SVpGZzdlM0RwQS1heUE0aUdJaXNKblVGLU02TFowemZqd2JpYmo3V0p6cmpfZVVmOVFpYTF1eVpfT2JDZzNMaTBGWE1VWEVTRXNnN0VvdDBCQmxVMUlueTlhQTVvbmc3ZWZYM1hEQjRNVmVrT185NjlleEdDaDZSQTR0OEM5Sl9pU1czOTgxMFNvRnc0U29JeTl2TVJKUERxeDQ4QkJXVVRwZDBUZ1VnR3dvYzRHSlhudGNxbllzX0h0YUlwVXA0eFJ0SXg1VHdY?oc=5",
-        "label": "NEUTRAL"
+        "title": "The Hartford Accelerates Digital Transformation with New Tech and AI Leadership Duo - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGswOFZRYjFxZnhraXRKM25VdFY3TUl2Z1JycFlJZC16UDhTTXJ4NDI5U2VJMTEtSEs3Ymk0MFN2aDlmWkNtUTkyUDdib1dOYkZMUThtMml2cm8zRy0tdDV0Y2paeVl4QUlZakF0dHdCd1BqZXpJaDlwc2JYRlVWd1ZubUl4LXhMLXpLMEc4S29iLXh0UVVF?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "The Hartford Financial Services Group (NYSE:HIG) Hits New 12-Month High - What's Next? - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYTBXdkRrdWtwaW5WNHlkWDl0S19tUUlNVy1DY2c5eURCZ1JHVVRKVGFMTkFoLXpIODBxZ0dKYjBmSWtTY29sNVlUVTZtVkpvdTF2c0t3bnYxam9XaGpmYXM5ZTZDeWt0cTFuNEk2QXVweUtEcWxzcWtvajVPV1FPRWxXcERCQ3pvOTRoeFlMV3JhOVRLQ1VMTnJZNVFDU3FFdWRMQTdNTXhFYzJSZHkzT3VvV0VZN21QLUF0bElmZHctRjh6cHJ3ckpXQ1c?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Czech National Bank Buys 3,202 Shares of The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXN0Q09UOFVrZXJlMllScW5pa05aUHF2TDJTcUtNXzZ6YU5SdWtENmNhYk9RT2VHRlFQSjM1M3E0a2F1R3ZGMmpMMW9DZ214b3ZWSHFyd3FFZThiblU5UHpoX3pHZ3ZDTUdLSU45eFR2d0NUdXFGSUl2QmNualBqTXFDdzJ4RWV6dVB2QkRrS0xSbENEM0pRNU4wak4wSGtjR3pTTWRJdktJNmtDVzIwVVMzQ2N3SV9xUGo2d190RTVtZ0ptTjFsekJPSnVwZjREVmR4akxlUHZQREdwYWtpekR4Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AdvisorNet Financial Inc Acquires 2,479 Shares of The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXhHel91X1NZRVo1ZDFKbm5zcXl0TTZFU2F2dm9UVHdhWGw4Nk9kSnFWNHVGQmc1MEI2eGZyYmhMa0NVNDBqSjB1dWoyOUNXYVY1elZGRElRenJfcENBOEpibWp2UEtJY3pRZlg5RFJCMG5QNmw0M29SR1o0MmlqYVVOUTVPdmtCY1ZZNWZKY1pvVDFjaTNmd2xabTJTaVFzUTV5aUZVVmJOSkVsMHBpX1BXc3NCVmZNTlhDcjZyOTFNbHVoREpjWXh0TW5QVHJ5Nnp4VXRWZXU3RVUxZGNhaFZmRHZnd1E3YUx1aHZzOGUxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Grows Position in The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTUU4WFdIbmN5ODF4TDRoZ0FLOWhySUQxT2dmOEtTYTNMaTRJN0R2STlvd0Jfb3hmWHQ0Z0Vhdk5rbE8tejNkZ2VHZHZyQndkYjE0VHVDc2wyX19ORkw1UkNmSHktZnFXZk5yREphUVo4ZjdxUG1sS2huTFV2b25kUng5TzVZNjBqSm9rZ1JUd3Y1WjMycExXeVFma1dvRDEzcjRpVFB2NVZweDFpNmZPWGRXT2kyalJWOHU0M2RtRUxPczZUd2dYanBJeTlBMTNxd21qUjFTM0ttWXI0ZVlNV0hFMzZtREtFdmEwd2Jn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Woodline Partners LP Has $293,000 Stock Holdings in The Hartford Financial Services Group, Inc. (NYSE:HIG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdEp1X0RjdFJ0VFpaZE0tMXByMTFQYjQyQnJOMHNRT2phdXFGcVI0T0M2dUlkOHFIM1RvUU5SdDBKdnFyLU5HS19ZR2hWZ1h0dFdZX25IYnZTMzhTVkRESXM0QU8xblhxZy03cjRreHBHZndhN18tZXp5UGI4MW5NMkk0MkFpb3FLdEJka190V1ZUekR5THZiZjZYVkZKN3c0T2tiS2RLNkQ2SktGZDk1ZW5YU0dVMk0tMjRpTUtNRm50cE45UDdRb05tcjY5bDFjMnRTQ182MlNMWWNWRUo2by1zZlNTWFB0S2c?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "PG",
   "name": "Procter & Gamble",
   "sector": "Consumer Staples",
-  "market_cap": 384621772800.0,
+  "market_cap": 376745295872.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.039682,
-    "PB": 7.4697204,
-    "EV_Revenue": 4.859,
+    "PE": 25.50643,
+    "PB": 7.316752,
+    "EV_Revenue": 4.869,
     "ROE": 0.30294,
     "ProfitMargin": 0.18464,
     "GrossMargin": 0.51694,
-    "DividendYield": 2.6,
+    "DividendYield": 2.59,
     "DebtEquity": 64.975,
     "CurrentRatio": 0.713,
     "QuickRatio": 0.445,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.15035536864586074,
     "ROA": 0.10977,
     "PEG": null,
-    "EV_EBITDA": 16.859,
+    "EV_EBITDA": 16.896,
     "BuybackYield": null,
-    "PriceToFCF": 30.47801920292913
+    "PriceToFCF": 29.779427287894624
   },
   "technical_indicators": {
-    "RSI_14": 48.47911318201075,
-    "Momentum_10": -0.5574732931893635,
-    "MACD": 0.7305632764081906,
-    "BB_Percent": 0.4757589347801037,
+    "RSI_14": 41.06994006100276,
+    "Momentum_10": -5.462357297449207,
+    "MACD": -0.3490599007319019,
+    "BB_Percent": 0.0268509418715805,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9291078887133644,
+    "ValueScore": 0.8791822945942631,
     "QualityScore": 0.4542473544317428,
-    "SignalScore": 0.601546539797307
+    "SignalScore": 0.6542614191293663
   },
-  "volatility": 0.0134837414107773,
+  "volatility": 0.0134522088846019,
   "beta": 0.427,
-  "return_6m": -0.0445337872617551,
+  "return_6m": -0.0489436243872598,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 170.79
-      },
-      {
-        "date": "2024-12-10",
-        "price": 172.28
-      },
-      {
-        "date": "2024-12-11",
-        "price": 170.63
-      },
-      {
-        "date": "2024-12-12",
-        "price": 170.85
-      },
-      {
-        "date": "2024-12-13",
-        "price": 171.06
-      },
       {
         "date": "2024-12-16",
         "price": 171.14
@@ -537,28 +517,103 @@
       {
         "date": "2025-06-06",
         "price": 164.02
+      },
+      {
+        "date": "2025-06-09",
+        "price": 162.56
+      },
+      {
+        "date": "2025-06-10",
+        "price": 162.84
+      },
+      {
+        "date": "2025-06-11",
+        "price": 162.11
+      },
+      {
+        "date": "2025-06-12",
+        "price": 163.18
+      },
+      {
+        "date": "2025-06-13",
+        "price": 160.28
       }
     ],
     "current_price_data": {
-      "price": 164.02,
-      "change": 1.23,
-      "percent_change": 0.76
+      "price": 160.28,
+      "change": -2.9,
+      "percent_change": -1.78
     }
   },
   "news_sentiment": {
-    "summary": "Procter & Gamble a récemment annoncé des suppressions d'emplois affectant 7 000 postes, ce qui a entraîné une baisse de son cours de bourse. Malgré cela, certains investisseurs ont augmenté leur position dans l'entreprise, tandis que d'autres ont vendu des actions. Les performances récentes de l'action PG ont été mitigées, avec des fluctuations à court terme. La question se pose donc de savoir s'il est judicieux d'acheter cette action en période de baisse. Des investisseurs importants comme Unigestion Holding SA et Avity Investment Management Inc. ont des positions significatives dans l'entreprise. Cependant, des analystes comme Jim Cramer recommandent d'être prudent avec Procter & Gamble. La compagnie reste un acteur majeur dans le secteur des biens de consommation, mais des signaux mixtes émergent quant à sa performance future.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
+    "summary": "Procter & Gamble (PG) a récemment connu une baisse de 5% de ses actions en un mois, suscitant des interrogations quant à l'opportunité d'achat. La société envisage des licenciements massifs, avec 7 000 postes en jeu, ce qui pourrait impacter sa performance future. Cependant, des investisseurs importants continuent d'augmenter leurs participations, témoignant de la confiance dans le potentiel de PG malgré les incertitudes. En parallèle, des nominations clés au conseil d'administration signalent une volonté de renforcer la gouvernance.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Procter & Gamble Stock Slips 5% in a Month: Buy the Dip or Stay Wary? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jVEdIZXpyLS1JY0QwbjZnZHZxV1ZhdGhJMzdxWG9oamd6dlk1d0NtZ3RIUlVLN0phRFhSMHZINE9YQk5aTTg1Z2JKUzhwWGlSb1ZqdGJpSFFqWVp3Y3RzaFhkZUwtQ2xBMEtDZ0lsMXBXUldobVJ0Sk8xbDFxa0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Procter & Gamble (NYSE:PG) Debuts Limited-Edition Summer Fizz Collection With Olay And Secret - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDdsMTlycEdONlZwM3NPUGdCNTZUTlE2ZmlaZ09uQTRlSG9ndzBzYVpNbjktMFA2RlVBWXliaWdkSS1KdzItRmZVUWVuUFdpVW41S2hpSC1QMEdlM2xGaFF5S0Rlb0RqSkRHbUQ3VXcweWFVNDVncTdKZUt0RkdpTjVmckF6aUs2aEVrSThoNjdsemdBTmRmc3VobWZ5NDNYN1FhMWQxMUpxMUI3TDhFcHFqN1M0cy1QN3psd3RGdlFVQkhVdEFHeThB0gHPAUFVX3lxTE50QXpmWUJnVWNMb0RxQ1FPSVc4ZVJzQk1ZdzV1Zk4xcHV5Q0ZPRVF6TnN1V2U0YkREbVdKUHpTa2lFcnZKMW5WbXM4emF1TXhvOUM3eUZnYnR2UkxNeDVqVkh1X1Zvdm1vemFTcXhwc0lkd0x6cnNlMVlxekVGaDM3LWVnemdWSmVyNDRFU1ZScnZLMWVTSU5hX2ZWUXAyOFcyT1Z2OGRibnBBd3dpRUdiZEduUksxRGRFMzVUQ2g5NzEwZkc0cjJUcWJjTHJLbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Procter & Gamble Company (NYSE:PG) Shares Purchased by Simplicity Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1V3VlRWNVpXS1FPVjVQRlgzVEstbWhmVEVYV21hbWFiTDJ2WHBtY0N4aXlMYXp3TG1Ra2NhM0Ruc2JKTU9qMzVIRmp0ZzM0cC1XQmI5eFI1X0x3REhjbXN1LTZ0RFViOWwxaWY3ek1yRXh2b0M2NlE3OVZmRHFnY25XTHlfMGlZNmRUOF9SR1kwSEg2alJnaDRGZU1pcVcwUGFrc1VUdFJLVkpXLTcxMWFjUHcwZTJiQV9DNzNMMWJxTGtiSjR4cF9hOWpZU2hTanEydGNBdkI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Procter & Gamble mass layoffs loom as consumer goods giant plans 7,000 job cuts. Here's what to know - Fast Company",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTg0QkRmT1hqZVZjVDNoSXUwZktORDlGN0hQckNWaDBnOGhtMFBzQWM5YUUtaVo5ODVBM2lEUDZyeG4xUXR3Rkk3bjdZM0pSVGV4Zjdhd3lnRlk2LW83NzJrR0dsVHlabjAyNC13UUlPNk8yYnFIQW85YjhzWlpkVTFJeHY3YXFRdC1ESTBJMWFEUWJmV2ZfUGZNWlVhZmM?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Procter & Gamble (PG) Declines More Than Market: Some Information for Investors - sharewise",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWGRMRndyRlp1RlR5Zy1LVXFYeW1NVXlfQ1RfRFQySUk3Nkc4QXFUNkJFVjB1ckNrNlRhSE1vZEZrQ2ZhVng2SFlWZUdHdnZ1QW0zRUtUNkdOSU51MzFSY3lJZVFNQmxNdExRV185VHB1UzBhdC10QzNUYTl0OE9pczRfLTdYOWdwNTE5UmxiZUhZWTRlOXRHZ044dThFd3NhaW5aSnZfT2p5SzRnTDhYLXd1OFNSUzVkWGtKXzRhRlpzdmIwTVVtc1packFMUjA5LW53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PG stock is best in class management: Modi - BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkRyUkxPTlh5RHpPcEVwRkxEN0R2dHE4Mmc1RllTSU9oUHB6eFNQYW5VNUNVaFU2X0Nua2VETlROUDA4QVNJRXV3ZzBpUFNpT0RVazN0ZHZ1c2hNRzNjNUdOdjBsOG5HNmptdElZTU5lZ05vY29kbUI0aGtGN3hsUU0zdWRyTUVVbWpNdWZrWDZucUVya3FwZDBsSW5PbEVGQW1uSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procter & Gamble: I'm Unwilling To Pay 24x Earnings Given The Lack Of Growth (NYSE:PG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPak5PSlBqS1BUcHlVeThQZWtpOHctTllXN19MQVdaVFE4dFREYXd6aEtqU0JkVFVOU2p6UXd5RmVwYTRQcUhpOXBxMHlRVmRiUjhXdmhPWm12Nm9SSWhvM3NKM2pOUFV3clNFYklGa2JmOE82ODdzR0dvTm5URm04elV3NzY5elJkbWF6cGpWZUpleWNHWm50LV82djZVazlKQkljTzAwVGJQVUY1T2F0a010WGFxQlkz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Procter & Gamble Slips Below 50-Day SMA: Time to Buy or Exit? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnRkUnNfR0ZQdXZfZGZtVFlZSDFFUWhSRFo4c2hCeXJNLXVqZTRaSVRDRXZCb2Q4M3RST0VqRGFURlhmWUtCMFhadmE3YlZfSUZHMmUyYVZYR2kzX0k1RXVkU3A2WWs2eXQwaU1LeWFrRjdodUVUNDZyYklELXRodmw3UUR1SDE5aVIxeUFaaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanibel Captiva Trust Company Inc. Has $31.86 Million Stock Holdings in The Procter & Gamble Company (NYSE:PG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaXBhZ2ZqTno2Wm9VSDVBbEpzZnN2LW91RnhTNURwNWh1clpCTjh6eENNSHVDN3l5aW5kRXFKdzNSS0ZhVkNMTkhBRVV2ZW9xUHBRVVFXRTN6RUR2aWpOYTdpdExlQnFQZE83RkV2T3ptUDFSX0gzUnNOczQteXpyeENpNmZSeWdnS0x5Vi1JTHdwOEh0TFNPU21xaGNiOTBtV1RJNWZ1aEFFSTRwb1F4ZTJtbVYyUG5QakZ6R3oyclYxZ2RiYnhjNFNQMTYxWWdRamtwX2swVWRxQW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Procter & Gamble Company (PG): One of the Best Income Stocks to Invest in Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDNDc0pPNDN2SlozRVNnVU9lQlY1dDFQdGZPaC0tYnc1YU4zckJPLVZRekxNMmlVUWFkb1pDZG5jeTY2OXNfYm5LdVpYOHQ1dkhJUXpsenp4djAxMEhQTzlNbUs2c3ZpckVsU0FqVDJJSjI5NUxqVHFNUWFzOWFLZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procter & Gamble (NYSE:PG) Appoints Former Eaton CEO Craig Arnold to Board - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHVZNXBkTHlKTVdTZUd2dllDUU5pSFhDMEtXQWdrRV9UWjJXZUJ4V0VrLWhnSmpzT0N3OVhKUE1zREFyUjBScElwd2M0QThEb00zMjZuUzBmM2syU2d2U2l1dkNRQ3hVb2NwME9ZdEJpNFhzcE9VTGFETEludkk2dkduXzFPTmdSTVJUUUl0Y3U2ZjhMdHZPZl82cTVRMlh4SHFRYURaVkotTDdNYVhDVmdUWUVKX0RZODBRbnhYTHVEY01PVDMwM2N30gHPAUFVX3lxTE5lc3dVeTRuRzNxUXl1LTNKWWtSUFBsMFp3Y0xsUENIQ3hSeVhkajRpVlRoZDNnNldPMHJHUnZZRHJNTWV6T1BhZmhjdUVNX3FaaHlZRW5tOVoyN2tObGYzRFB5R3BBMzdKSDFlVTFZLTFhMjFqeVh0U3l3OTI1ZXVfNnp1d3owc0tlbms3SnFTaHREY0VUZ2NmT1JTaDNaRjRCZThhMXdoZlU5dHNlV2w2NGN2endSZEdYbmdfUjhaV3EwU18yekJ3ZVI0NDg5cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "30,495 Shares in The Procter & Gamble Company (NYSE:PG) Bought by Smithbridge Asset Management Inc. DE - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcWtRVVdQS0lNTkgyTVVjZGZyalVzZ1BTMjI1bWhGc3lWMEVhbERJOVIxWWJoRWVSZUwwVGdSSEd1TGRreWVZamxuT0tjTU5YRzU3dHc3ZzBGOTh0djJRVGgwQnhscWR0c1h1QzRBd0VlQy0wNTJVOFBMaXBSTkltcXpxXzliZllLTno2Z051SWdMXzlsTFhEbU1fYjZYOExqbGhnejNIOEd1eWhZT2hOVXoxV3pWNlhtcllET0R0X2NNeDZ0QXhSM3dJRWZOQmZRRUxDV1dvSUFaRmxNWWdNZVpLRDdYbFpGcmRfaA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Procter & Gamble (PG) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
@@ -566,96 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Procter & Gamble Company (NYSE:PG) Stock Position Raised by Gradient Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1ljem9HblRMN0lqbGtqamN6bjNUMk0zbkZLWDV4N3VGT19wcGU3enNWS1BnUlZSMmhqQzRkbTBQM3BVNmhSV0RjWlFCWExfS1FRVnhzRmRITndDX3hDNUMzQ2EtdHJBYnVMSUxpYkoyaWhwbG5LUE5PUGhKYWtTVXZtY1Nqdm5KS2R2RkJHalpJODVQdkVJNDZwM0V5THdQdENmT0VhcjR0ZzNkVlo5Tm5mR2RTMHlLYVc2Rm5CdlN0N3ZWWTg5MXFqeXZkSDZpSFE?oc=5",
+        "title": "The Procter & Gamble Company (NYSE:PG) Stock Holdings Lessened by Yousif Capital Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOano0T3l2bnF6cllMQlNJNWdJdWVkcXZzZFdFcVNDakhidDd2dmtLUl9VOF80VlNNUWtjWnBndzRmRzBGSjllMU5OTWJFNmxINlZJVmlfbTQxVkNCLVNFVU41anlrUXEtSHNrUUl0Tmp6NlNqMEV4dl85Sk4zLVNEYl9sWXA4bVBqR1d1aWRvWWQ2MVU5MWdaWGMwQ1JTVmN0dDV5NENOdWxlMmsya3RIei1id0IyVjR4aWRXcE4yRVZ2cllnTWhWU1ZOU1NnNnphdDlrWnBIVFJUVHZwc0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Procter & Gamble (PG) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWVaQVVUc3NLR201bjI4aXBRRXRJOEZRQTdPV1BpWlg0Q0poUUVQbVFRTHpveF9nNngtR2RYSzAyV3RaNVpDMUlLakwyd29NM1BEamNuZFVWVlZ4V1NUM2lCUjBZZjNtYkVvand1UVJNUGlEMDdhenJabHRacVU2NkZ6Z09fbk1mTlYxME5FWGFCWWRDNkVlLWI5bHRyc0JZWUJlS20zUmNSXzZ2ckE5WlROMA?oc=5",
+        "title": "The Procter & Gamble Company (NYSE:PG) Stock Position Lifted by Stokes Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVlFXVjhUcDhvaVdRYmdZLWpPMVJ5Si1pSGJzbFpld1poVEZ6RjZ3dTdPYm4wVUlYdDhRYVRnczU4NktLWVhaVFBsVjJfMjBIRmlVSHNFTDRDaDRKOGw0ZUZSNWpkYWJZZUFNSS10SmdvbFlmWXZzRktXNm1YOGhJVHlOMWRMUjJ4N05xSW1DeDB2SlkxamZfelVRelphZUxGcmFWOF9udDE5dDV4UWM1Rk1ZdGNwOElVVTYzNV9tMWRVMWdxVGgtLVg4SW0xc3dBZmpwLU5sRmY3Q0E4dlg3SQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Procter & Gamble Stock (PG) Offers Gold Standard in Consumer Staples - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzN3WjBWeXRUaFYzMmFUZ0xPd1RjSXdweHBmZkY1TTJ1WUJVa0JGZnVvbm1INVdxWGFfSjRCc2pqTXlfdGVEcTVWaHdPNThacDRqYXdaWEFoOTI3R2dmOHg5Y3FIU2o5SDlickNsU0RaQ0JiM3FLY1RYZ3ViNk1YRzRvNnBRcW9XTUtxSFZlRWlxYVJBT21NRVZB?oc=5",
+        "title": "The Procter & Gamble Company (NYSE:PG) Shares Sold by Fortitude Family Office LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV21uM0ZZZnNjd0xQajJDcFl5VnpiVGlISzlCRDRIc19sMnNJZEt4Rk9iWUtVMWtkQ3VZdW81OVQ0NDR3Zlh6cTRYcGFHQ2dmREJ0OEJUdlV6YVlvRVdHRVFTQ1N0WkVxdU43SjBRYmNaTGdpYmtoRzBKMnhDTXRDYlA1OGVpcHl0YUh5NVE0ZnhvZENpWGlaS3daaWE1OWZ1bzQ3RGJLZFI1Qm9FTjdRWGtUOHdBSENKM1ZPZ0NtZG9SNzU2Q2FVc1FoZkRMUUtsUEpIMG9YUG9pRGhT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Procter & Gamble Company (NYSE:PG) Shares Bought by Ferguson Wellman Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHhSQzRPTFBBMkFBOEFpQ3RKbGlGbnhDMzAwYVNhRG5HczJVVFVzNGZ6SlpTTGliWm1nUEpDMWZQZzZrWkhBMG5rLThwMWtFbzltaG5Ud25zeUc4UnZLcy1iVGJyNWVCUE1kR3o2NV80eDRWelpWazVkbDhEbGVCcVJVWWhkZFAxLWVlQkdEN1lfVVpnSU1lVnZwYm1OUVpKcFYwT0NleTdiMHg5ZThpbmt2bXY3b094TUVBc2wtcmxjcWtQY3c0R1hOTnlXa2VFamZHbHBCak5NX1Q1Tmo4dWNFcGY2dGNZMWtrNW1kRmw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Procter & Gamble Company (NYSE:PG) Shares Sold by InTrack Investment Management Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTYtVlAxQUZyR2NtUFNDeFM2UXpCYjgwcWptbDl5M0pxVW1TdFpJMWJ6eFpHUkFmRWxHa1lPcExzZVg1dTZVRTJwMHpVTldWQUtGWEEtTXRHTlZnU2pfUHpRUy1qMU0zUkEyTEp1a2I0QjB4VFUzNmpCb0hLSUFzaGxkcllSSk5BbDRwTm1udjdvbVBVYjVUNTZkSThvRGsyODZMdFlVb2tyVkdHcm9CYk1fRlVqaXczQmV3VDlQVE5vOWNwVk55NUJVSWlwSVhNNk1RM2E0bnlmT2F5c21F?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Procter & Gamble Company (NYSE:PG) Shares Acquired by Simon Quick Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckl6QTVEZHdaWjQ0blY4RmZIV1Z3amxVd0tWcU5GLUVUVVM5S3JfajFWZmFZSGtuMElPTGplcUw0ZmpGUllWWFJUSDlmYzVmUXE3Ujk1SEJVY2J6aGVESTl4Ym80SXNjV2V2d0VWdW1xeDdlUFNPU0RhUHBEVkZ4ZDFHeWJYS1FPdm03UmZjTzRvcnFLM3FKcWtkeXJmTG9SMzZkc2VTbXNKQ2hDckZHNHFjeGRuMndJUkd3S2Rkc0RrbXo2RnhKc2daRlZmNGFUbnBkUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Citizens Bank & Trust Co. Boosts Stake in The Procter & Gamble Company (NYSE:PG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3JkckZNOXJSZl9iX01LQ25XbGN0Vzd1eTNwUG1FQ2NPT3NoekZ1ZTY4RTZIZHRQN1ZiS19JbVhDVHpic3dlRTMya3VRdGl2UC04TzVaMXdkNEZ2Yno4MnczcDY2bV83amdaNVc1ZXdWUGhrUWswX1EzaUkzX3M0cVY2em1QTDhVOTg3VEJHNDlBbFBvT0ZCSm1SUm9pRlg2SUdja1lhNFVscU1qMUJ5M0RKSlJrQ2JRajl1MnNWbTBuZThKVTNIRU5OS3VCcUpOdHplRHRrTQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Procter & Gamble (PG) Stock Posts Modest Gain, Shows Mixed Performance Over Time - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcm1ZT3F4ZFR0Mjk3U0lHZlRLQ3RfQURuNFp5cVhDNThBRWJHejZlZk9HMUFYY0lycHJYOXhvdmVaZmNRVlQtZkljZVBQWjctMXNQTTR1bEF4dVIxUW1GaU9EbnFQQlJIVzFfSllSZzRrTkJBRnVqUEQxWjRRUGd3TXpnTlZsM01xZnktTy01UVNtbzVCN0NtTjd0YUFwZDEyc2VZcE5RVllPbkRuWXhlT1NuQnN4M2YwZ3VUYg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "4 stocks to watch on Thursday: AVGO, LULU, KMB and PG (PG:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX3JYRzZYQ0VlZVJpMHFlY2tOZzdxV3lCYTFEVlpMdVBoZFhHM0RvRENUQVZjUEswc3VTMUhRVFNhQjA1T19vcnN6YjdiS2owZGoydzY5azVITTNKczg5TEd4WFVmbnpnUWJ2bHd1UXVEVUpQTzE4TGdLc1F2TGJYZk1TNFduNU9yc0s4Z0ZWcklQZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Procter & Gamble Stock Slips 5% in a Month: Buy the Dip or Stay Wary? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jVEdIZXpyLS1JY0QwbjZnZHZxV1ZhdGhJMzdxWG9oamd6dlk1d0NtZ3RIUlVLN0phRFhSMHZINE9YQk5aTTg1Z2JKUzhwWGlSb1ZqdGJpSFFqWVp3Y3RzaFhkZUwtQ2xBMEtDZ0lsMXBXUldobVJ0Sk8xbDFxa0E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "The Procter & Gamble Company (NYSE:PG) Shares Sold by Safeguard Financial LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXI5cU55WE0xbTdFWlJISkNNVHZPX193aVR0MV9zbVQ4S0hJeTZiOHVSQW5IWDE0UEZMTFdsMWZ5SDNRaEh4T1ZEN1ZhSDlndWlxeVdxVDE5bkNrR0JwYWo4bFNFaU12eG52SWN5akdrSU9iTWwxSElzRXFPOW51d2UwNERETXRBMkwzcEdCR3JBYkc2U3UwM3NYTTBWUEloVUhGeGp1N1RwMm9tS1NGUExHR2lBcGZ0b0pnUlVkeGlvVDhqbXdHN0Zjb2lDUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Unigestion Holding SA Has $18.86 Million Stock Holdings in The Procter & Gamble Company (NYSE:PG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMS05TXFRNFBvbXNyNG93Zko1SjE3NEN5T1JobUtsUGlaeFJvZVNSaEt4ZEt1dVNDdXJlS2tMOXpiOGUyQjNKd3JBaDI0N0pHNnhyamhJZkdReS1Wekc3eTNMS2FWU29NeDZ2cDA2ekFVVEJuMm8yYkE0VndVcVlUaHY1dWZDblFKSGNBWUd6X2puTU5uODRXbmc5eGw4QXVBb29lTS1BdWVWMDQ5OFhKMk1jcFFwSGNLNWNjb3pvWEhOTWFyTEFweUQ5Z1d2UXhNMzR3Ry1LWFVFQy1TcGppdDVHZnRSdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Procter & Gamble (PG) Stock Is Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Db0FweHZyM0RpeFhUU2szZWhLTXpFdzJpampndTlUeWpVQlRWdV81OWZCcFQyRGJubmNRbkNhZEVyclZib0Y1TDM2V3N5dXVHa0FianlGWVdKUTQ5RkJReTZ4T28zZzFXUHBiRGtKdk1kbHd4RE5pemVFenBOUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "The Procter & Gamble Company (NYSE:PG) Shares Bought by NBC Securities Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRi1kdEJ4WmxMdldqbElZS0JSWHozVWRHY3M5cXBnRjRwRWo1ZGIycllaUjFMWE5LTW55TjYwZW9ScXpOUHd3TmRMTURtVUUwcmM5OVh0c1ZiSUxHUG40TkZ6OGk5WUp4Sk4xZF9IVE5mNER0bjdmTDNUUm1lTldmSmtZVXAzLXhHN3ZBTzNMQkctaTQ5eTFIckg2elg5VHpfVVBfTkN2djRRVHFPYmdDc20zSGNET0hCSUllSDRZaGlmdGhZTDhQTw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Procter & Gamble Company (NYSE:PG) Shares Purchased by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmJEbUt2ZU5JamZldkkteGhyT3pVV1kxXzR3N0pXeHFsNTRNN2JLQkt1Z0NTd0VRRE91RDBNZ1l4VVY3MmtRXzNhektXZDcyRklaV1dwLUlOcU5HcU1ENjZnUHVMNzlvVGpHb1dyWEpOcjMzZGhpZXIzcmR1QnhkRWlBaWpBX05SMEdDWExZcjRVSU5OU2FfWjlFaUpqaDd1NEx1dUlkbGY0V2hVNk9uNTNlSU9KRFFob2tUakpXVnp0TXpOcEVNZ2R2MkM3UjJ0eFZ6QkJ0RHhLZG44TV9tdnYwRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Procter & Gamble Vs Colgate: Which is a Smarter Stock to Own Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZUlFd0lkcl9oQUc5YURkSHpEM2RpdFZKVlB0NnBDRFBzVi1mRWNLODdyMm9Sa0VZMFVEeGRsZGlsVlo2RWlCX29uRjZVNk93WW84blZRQkVwU2w0MkRENTZvTjhXelh2ZGlBaU1vbk5mT01PNGRoZlVRVHRRcGNBWlNGaGNHQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Avity Investment Management Inc. Has $30.22 Million Stock Position in The Procter & Gamble Company (NYSE:PG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXRaSTUzcURQdXNOOHY4V3BNUm1hX1hoLXg2eThKQmNNWjJ6SFh6d0IzbHVEdlo4UDBSV3VTVXNmSEdna28xT3VCQ1FaaXdXZUI1VXpBNGxnZWNoZTJxczNqbTdfazZOV3VHMkJfNS1qTldDcmo4a3pnVGUzaWhnSFNyVjRrZkRncTh0d3dUUGFUWk5IVGlFckd1a2dRX0hncXczY0l0VXZUcmdaSWFsVEJXcnUtYkZndVZHTWlpcUJIWlpqU3RnUURaRDQwWXA3QnBlcGZwRjVzR2d2TlNwekl4RkdnU1doUXVhS0kwbjZ0QVU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jim Cramer Says That “You Can Miss” Procter & Gamble (PG) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTEVGSGhfZ3BRV1QwV2lEMXFUNTVuRUNlYkpjaFhJel9rNy1qZmJxaVNoeklSVVQ4UjBNM0FsdldGZmFtaHdSb3V1THhkZnNnQTBDOEJQUkJzQ19XRm14bDJuYU1DN2VnUWtya2NHLVVsbW84b1p5UVM3ZmlPUDA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Procter & Gamble Company (NYSE:PG) Stock Position Raised by Lmcg Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVZkMnBBWHJVaFAxWklONEk0X2JPeVMxYllDaGR4ckpIQng3TFdDWTMxankyVncxOWZiaEZzWExNU0MzYi1GNGVFUXg3S01Wcl9JdThyeFJoaWEtN0ZBRXpwbG1jaUZrTzdqR1RyREt5VjR2US0zTVRTTm1GR2ludDVDV1VyXzVXeGNqMWxTTDlmWUVPMWJObXk4QjRYZDNJRWdBdlRxdzJKanJLT1BkUTd6ZzMtOEt3aDBnTGRaSnFoNEVETzFSREg3TklmSGlpMjRwVnNLUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bremer Bank National Association Boosts Stake in The Procter & Gamble Company (NYSE:PG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN3lGZFVwSTVtR0d3dnZsdjJnMVBqNWszNE4zWUxSbENZNjVqSjBvMFdVZURjOEpqaXR6SnlVN3ZnN1MycUtTQjRaQ3JMT2JsZFFHZFJBM0swZnVXbFNLNGRraTlvUFc2N09GT2MzOWxQejAzMjlXZ2tva0NvSmN0WUpnb3pBWEUtWU9mZV9wMF9hQ0M1cTFQbGQ0TGg0bnVoekllSmFBZU9EbU9DcUtpVjlsZkJjUkVNcktvY2dyQWhqbkxvOHhrcTFhclhCUDFDLURBMF9zcjNiRjZiVzJmcXBXYVItY00?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Czech National Bank Acquires 27,956 Shares of The Procter & Gamble Company (NYSE:PG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzJyTkpUNERLYVZMZ3pkVHJTZ2I3RV9uUEdnUG4tMTBseVNHaTlXYWFoM0FQQThfV2ZLbHB0RVlEWDVvNmgtdjhSSW1nY3FITDlnbGx2cUNNUE16WDlBWDByLXRkVmNpd1pCNHc5VVpuQTdkYlN0T19KcWJuR09nNDJ1VFVGVE1meTRDaGt1YXFsUWJhVTR0XzBoZzdHbmxLaVl6ZUxLbmttcm5NTjB5ME55UnUyTnJacDdrN0lueTBtSmZUUVVQTnNGMzBvaDdvVWFFZGlDVXBoZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Procter & Gamble Company (NYSE:PG) Stock Holdings Decreased by Armstrong Henry H Associates Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNzE4M1FieHdJMkZNWTVGM2dYNFVXN0FqNWZjUEFZU2RmeWVCV0NDdFFLdjZkZ2k3ZndOc1ZEaF85cDZUUTVwTlJvQ3dxc0cwcmc4aWFMSkFvTVBXZWdIWHIwQnRqeFY1Nkw1MUtyN3NVM3oxYU8zOEdlbEl2VEV3Qk9CZVFaOTlzQVkwSnBVMzJuQXBTdVpRREwtaUpFaE1SemxwVGUyaFRKN2tOcGxZb0R6UFAwdC1Wa203NlQ3eTNHTlhwVzhMZmRTNVp0aXluM2xvRl9Gc0s4UQ?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

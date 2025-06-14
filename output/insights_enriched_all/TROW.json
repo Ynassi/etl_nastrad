@@ -2,16 +2,16 @@
   "ticker": "TROW",
   "name": "T. Rowe Price",
   "sector": "Financials",
-  "market_cap": 20665640960.0,
+  "market_cap": 20207384576.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 10.646992,
-    "PB": 1.994811,
-    "EV_Revenue": 2.724,
+    "PE": 10.410896,
+    "PB": 1.9505764,
+    "EV_Revenue": 2.765,
     "ROE": 0.18447,
     "ProfitMargin": 0.28375998,
     "GrossMargin": 0.52366,
-    "DividendYield": 5.45,
+    "DividendYield": 5.37,
     "DebtEquity": 4.48,
     "CurrentRatio": 3.886,
     "QuickRatio": 3.886,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.131588300065303,
     "ROA": 0.109910004,
     "PEG": null,
-    "EV_EBITDA": 6.834,
+    "EV_EBITDA": 6.938,
     "BuybackYield": null,
-    "PriceToFCF": 22.183838239232973
+    "PriceToFCF": 21.57370674476288
   },
   "technical_indicators": {
-    "RSI_14": 51.132492429770934,
-    "Momentum_10": -0.6457766422441501,
-    "MACD": 0.354137900635024,
-    "BB_Percent": 0.3381750243507185,
+    "RSI_14": 43.02025268703029,
+    "Momentum_10": -2.035472650751266,
+    "MACD": 0.2640426345498952,
+    "BB_Percent": 0.0567333384786692,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341198141032504,
+    "ValueScore": 0.8902193441313082,
     "QualityScore": 0.3268277479473494,
-    "SignalScore": 0.5886654547715888
+    "SignalScore": 0.6265715713162714
   },
-  "volatility": 0.0215955632943765,
+  "volatility": 0.0218022340761121,
   "beta": 1.513,
-  "return_6m": -0.2239560425687703,
+  "return_6m": -0.2219902084823147,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 13,
-    "target_mean_price": 93.69231
+    "target_mean_price": 94.07692
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 123.59
-      },
-      {
-        "date": "2024-12-10",
-        "price": 123.03
-      },
-      {
-        "date": "2024-12-11",
-        "price": 121.71
-      },
-      {
-        "date": "2024-12-12",
-        "price": 120.96
-      },
-      {
-        "date": "2024-12-13",
-        "price": 119.54
-      },
       {
         "date": "2024-12-16",
         "price": 119.28
@@ -537,32 +517,112 @@
       {
         "date": "2025-06-06",
         "price": 94.28
+      },
+      {
+        "date": "2025-06-09",
+        "price": 94.98
+      },
+      {
+        "date": "2025-06-10",
+        "price": 95.93
+      },
+      {
+        "date": "2025-06-11",
+        "price": 95.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 94.58
+      },
+      {
+        "date": "2025-06-13",
+        "price": 91.58
       }
     ],
     "current_price_data": {
-      "price": 94.28,
-      "change": 1.04,
-      "percent_change": 1.12
+      "price": 91.58,
+      "change": -1.73,
+      "percent_change": -1.85
     }
   },
   "news_sentiment": {
-    "summary": "T. Rowe Price Group, Inc. (TROW) a récemment connu une période difficile avec des baisses de performance des fonds, des sorties de capitaux et une pression sur les frais. Malgré cela, des investisseurs institutionnels comme Wellington Management Group LLP ont accru leurs participations, tandis que d'autres comme Harbor Investment Advisory LLC ont vendu des actions. Les ajustements de cibles de prix par des analystes et la révélation d'un calculateur de placements révolutionnaire pour l'épargne étudiante ont été des points marquants. Le sentiment du marché envers TROW semble mitigé, avec des signaux mixtes de la part des investisseurs et des analystes.",
-    "sentiment_score": -0.15,
+    "summary": "T. Rowe Price Group a récemment élargi son offre d'ETF avec trois nouveaux fonds sectoriels, renforçant ainsi sa position sur le marché. Malgré des sorties de capitaux plus élevées, la société a enregistré une hausse de 3,8% de ses actifs sous gestion en mai, atteignant 1,62 billion de dollars. Cependant, des ventes d'initiés et des cessions d'actions significatives par des cadres ont été notées, ce qui pourrait susciter des inquiétudes parmi les investisseurs. En outre, la société fait face à une importante exode de clients de 4,4 milliards de dollars, malgré le lancement de nouveaux ETFs actifs, ce qui pourrait peser sur son cours de bourse à court terme.",
+    "sentiment_score": 0.15,
     "label": "NEUTRAL",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "T. Rowe Price Group, Inc. (NASDAQ:TROW) Shares Acquired by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGtNYnllbXM0bFZZMFdxeG9aOVd2TU50SU9ua1R2akdzYTJnLXY3UG1LNzJCeUJwYklpT2lFVmFrc19tSVllRk9LRkFacm9ySy1KMHhPYWw2ci1wTWNrdFZDUEZMc0tfOXlwXzYyRkpqb1hNdUo5U09jUjBrUWhFbnJNOW9ZWnVWMzR4bERMZ3pxb1NJYTFsWkhQVzFTWUZQcHFObmRsM1lsNXE1RW1Kem5wNTlyelVFLVJDYmI5WnM1RFlwcWhxWldVaDFKQWloa2J0VzFKUlJxRFhid0k5bA?oc=5",
+        "title": "T. Rowe Price Group (NasdaqGS:TROW) Expands ETF Offerings With Three New Sector-Focused Funds - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFgyeHh2c2hDTmpRUnlfR1hHeFlaQlVLTlRyZWFYTTF1Rzg0VjNRaU5SWEt0bEhKemFHSGVBR1l4b3NTSjg2SFZxZFVQcjMxbHlxalB3cG9HNjVMOEtjeU5US09vUXk2THZSbkROYlFwbUNiSWRiQjNYQVJ2cU9yMGV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "T. Rowe Price Sees 3.8% Rise in AUM for May Despite Higher Outflows - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU0VpUXdaWkVSeGFNQmo3a3F2dnpuQk10R0ZrTGxnWk5EaGZlM2JHTkxXT2ZCY2I0V2gwc0lsYTFzZE9KX296aUVGY1ktZHU4ZURvSjFEMUFYZVU2T24zR0x3aXZ3T0NPNXNxZ2NBVVc4cnNhdlYzQ3RTNUdwV2o3RUpNOFExTC16bVdJV0ZvV2FyTFJHTmxESFdHZzROakpzYTNvbHR2eXM4NUZUVUJNMjJJUHh0LXlQczZUVVNjT1ZJa0VsbzQyay02QVFIczV0WkNjZmF4S0M4Q3dRenZWUjQ1eTU0UkpMZlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "T. Rowe Price Group, Inc. (NASDAQ:TROW) Shares Bought by Fort Washington Investment Advisors Inc. OH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEYtRGt6cEJwbHE4dFpKNUZHRnRFMUVKWUluZ3VoQkVsbVJFU29GcWRSVkZOSS1lUmpob1VrZjc1QTB6dXVKczhHRnFRUHdGZE96Q08wTERENjBMZVlOMUlMQnFrQXBCSWFoTi1SSHRvYk5xTXM0MVNFZmphRTJ0aE1ka2I4c2R5a1pzUEI3bEFPREJveU0yeHRyTGpvd0Q5d3NJdmstbzVKLW5iZExhLTM4X0JJWnJWdHo1aFdCYzMtVjZoMkVSaTN0Y3BJUzc2UUk3aGVRUnZHdS11T3hObkFpb1lKTE1uUlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "T. Rowe Price (TROW) Stock Sinks As Market Gains: What You Should Know - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2RSVUdxUWVEVGNxSkJQWDNRRXgycEJyTlVZZm1WVXRvUkJHYk9EdzNsaHJJYkVobllmRG1hOFpDanJhejRJZkljTjFGN0g2WURaMkpyemlRVGg4ZjAycDdDQTVOOW1YUEtLaGs1dldRd3ZpbGlUcmc0aUwycUROM1dtc1V2bHVGbWp2RGRSdWlQdzVsa3R5SlpwcWVMaHFqWkNKSTQ5T0txZURqX2FFaDM4MjhSZFRVcm53WHhMOGhfQ1BJNHNycw?oc=5",
+        "title": "Insider Sale: Insider at $TROW Sells 2,000 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUFHSlR6QWc3R0hrWDVKSDFKLXZfZWFpZWJGTVRidUhZZTl5ZXlGZkFRaXpDN3U4V1ZBNWVSdGtQSkwzYi1DdXVpTUU3dTNFc1p0cDhzTGFBaDR0aU5iMWtDWXhwQU8xaFF1RTNYNGx2TnMwVDN2ZmJUWDNSLTNrOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T Rowe Price VP Makes Significant Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVJHRVNzZW44SnJtWjFKRXVPX1dWRWI0RzdUU3EzQnZTWl9FZm0xOG9lSUFGYTNNTnMxQ0NxYUwyZnU4S0xQbXdrNWRTcnByTU02UHNMdUNxeEhzUlRGeVFCNEpkUzlNTmNLdDJqRlQxU3BQQkZPMjkzcVk0Y0plWUUwbXZ3N2NuNzlLclFQQnRkUHk2UG44S2RhT1NNcTRUZUxzSURvZDVad3pjNjB1NDZrbkhGdVZhdnhzSWN2Njc1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TROW Reports $1.62 Trillion in Assets Under Management for May | TROW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXktSDVzcHZ4cjV3eDktZnFNZFBvVW1BaGgtRnF3MUNPWV9lOXN3WVhBTGpQMk8yTmd3Tk1oWmFTVURlZjlCQURDamFheUdtSmZkd1dJN2p4Rk5PNFRBaDFqYlBoanhYRjFwY2pBWjJHRzk5U19WTGFOWXVKQnp3SXh1WFZ0ZDlpVzJhQXZEdlROZmxqRFIxWUR2U1Zna2l4dHN0S0FhRzVwY3QxS3BzdUNkTERyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T. ROWE PRICE ADDS THREE NEW TRANSPARENT SECTOR OFFERINGS TO ITS ACTIVE ETF ROSTER - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnoxenI4ZVFxR3IzbVpfMG9vV2IyOVBGSFJhNnBMX3g0T1UxRFBYakF2dUxJdVg5cmtEUUI1MUhuNFNrZkgzVlY3dzVpdmx5NGRvUjk5OWFfVkl5cEpZaFJhdm1ncl81WDNrSVZsUVhUeHBBdWgtM09XMHQ4MDB2bkN6Y0VzLUJYdUFkVDJTYVZjeklGTkpzRUNPN2JDeWphSnc2Y0dlQzZHelllM1lPbUdQTGRnb241a3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T. Rowe Price Sees 3.8% Rise in AUM for May Despite Higher Outflows - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSUTdXejZicnYxVkFXN0h4ZUtNMHc2eDV0UDlFdHNlYjZESHd5bjJWaWdkU2JVTF9hYUl1QkR0R2VWUjFXMEhfR1ZLTHBCdmdBN2hLNE9xNWNtSGE4U0ZYRFhjbURjQlhWYVptTFZsRmI4dXdQMGE0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Salem Investment Counselors Inc. Reduces Holdings in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYm1XNzE3OXJnemJsYWRFbUd6dGVDTXVFd2pscjFmaF9JaW1yZGxPazhnR19CeHFLWjR2Q0xqbG4teGNDdTlWbFpESkwxb1ZuOG9jOHRibzY0TjVZTUFZRkNPWEtCcjJOZklVaHZmcnVhWlEyRzhYbFhUblE1bmtsTnFLTWdOeFRiUkxBVTJET0NNYkZZTTV2ZXdhV3FuWGNzQ3hEUm9CQ3ZVT05RWWpFZktxM2dTQzJ1bnZ4aXZUVnJiRkpRTElJMHd5c3V3NElQdF9ITHkzUklSMEc1ZXFZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "T. Rowe Price (TROW) Outpaces Stock Market Gains: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUdiMGdvdkNPeDJVTHItSllWa3VMMjcwZS1pMGpjLUxaVTQxVnktV3ZfOGZIOGVaNVVoRzFzZlFCMnJfTVNGRmZYbVlXMUFhRkpYZ3lMUVlTSDZzdlAySnpQc0RvbFh2RGVpVlhXUkhzcmdkSTdRZkZQTUpFdFRsSjFXYUk4Rk9ySExJaFV2R0ljdE1PUTlPWGFTemVkYTVJWnUxUFNVZzlxaHR0WVEyLVNaeUlGZUFnUU9BOVRUUkVKNzBpX0xkOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T. Rowe Price (TROW) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ackFCM0E5bFhQZTlqWXUxZEJQeWkyUHA4amxiWWlsVGltRjRlRDZhUk0wZE5UeWVUYVNfTzBGYzVJMUdCMUZaN3B2QjRRZ1JFQ0V0eEJodmNPUlVadi1OU3Z4TnhHSDY4ZTVvc2N0bG5uNGw5UmI2amJZN2U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Willis Investment Counsel Sells 41,552 Shares of T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzFtY0R5VnhWMHdmZ2pFb0xNUEhOVC1VU3h3SWNieldiRHUtMkhIQkxoaHRCdkpYZ1d2SDJfcm1DeXM2MUozZVZISnJWcHQ2R2RoRHVrbDNPLVlqR05ibzBLcC1DM1BIXzBBSzJwVDR5UkhyWWxPNmZ3N041T3FxMmI5dkNKMnJnbG1YeGp2bGxCVGg4WUV2NU93V2NyMG4yWDBBakNqMXRfQUdkeHBnTDNVUFI2ZTc2Q3FPUndzc1FfT0U0UnJQMkFINE5hVzExM1JKbWJ1bS1xZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T. Rowe Price (TROW) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TMkpzblE4cGVGT1NlLWo5NVhWaWwzbXFTaU41VEpjV1FyN1BPSGRPaHZsVlpqZDNtRTlhb0RDc0k4Q1pnMVBiQVVSWlM3bFVFYjZ2eXBsSC10RGI2LUZpMWxRdFUzaGp5cTRvT2lYYnprS01lUDJjeA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Polianta Ltd Acquires Shares of 12,300 T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTdrWXh1UV8xTjEzUGQ0Sm9sS05QVml1NzM0UU4wNldUWkJZaGY1ZHJseHBSOUFvZ3Y3WWpWOHFKdndqa1paeHpzMnlxZ1RUOW5Gbm8yUEQxMGk2YW4wSVg3RVkteGs4UnhrLVphZXVfXzVNZGRObnY1TUE3N2hRZjdmSFNJXzB3V2NPOFphaVBXY2tKc3JJRm9HTUxNU1dOSElydFdMX3hKbDgxbVF4VU9BVTdreTFTM3JfQTRIbTZTV3UtYzdhSUh6dVk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,91 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "T. Rowe Price Stock: Is TROW Underperforming the Financial Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWR4RzRXOXBuN0V3aHdyMVZHTWs0WjBQdUltUU45YkNjXzJfTTNXbHZELTlNbzNSVzJ5SlFaNVktSmpMaVEtRW05MHdQeVpNV20yQVMxNmN4Qi1qazltSkdtYkhyMWVVby1UdVU4NGZFcHFROXJ4S19CX3FQOUtWX05GVmZBSmZkVUF1aE1aUWVVQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Evercore ISI Adjusts Price Target on T. Rowe Price to $97 From $96 - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVJpMDIwaV9Uakk0U3dzblZCSEpCcHRtZGYyRkl0MWRRRzh4WFZRV01idmpQZ2QzdmZWZklIVTJzeV9kb1RVNy1JU0ZmX0ViVWwwRHhwTmVDSjdsaDI0MjFXUzR4YnBGNHRsdE1VZUlNNFl3TmZ1WE5UQnRHS21DTHA1Y3laM1RNTFB4RWQtcjJQcXUzWE9KY2xiLUVoY1MyRTdvV2pvUjlTWkw5b1NrWXYzV2puMGJtWS1yRUUwLUQ5eXBwU3EydDl3My1nT3RRcDNhY3VDTU43MXUwSkxYcmlrd3Z2cE91?oc=5",
+        "title": "Dorothy C. Sawyer Sells 2,000 Shares of T. Rowe Price Group, Inc. (NASDAQ:TROW) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlAwWWJxcjk4TUZSanpCT1pxMk5qU1NMZkw1MjNwMHc2Y0FuTWlSZkVBbDduQVFYNzkxal94V29jZkwxVVZtcVhRd1IxZlhRcnNyQS1qU1paNEVkOWRvWl9XZTA1MVZsS05Lemh4TmdmLXhMdXlPaTNBbDNaMWxzRlJGajN2c0diWDMzUlFsN0JUd3JlSWpKUDFJTWZULVQ4TDZ0aVhuNGpRaEJrRnBuUC1TQ0pSTjVuWGFNbm1mRm5acGNEOFZReUJhaw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Weaker Fund Performance, Outflows, and Fee Compression Continue to Weigh on T. Rowe Price - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2I3QVBDU2FNMGlwT21JMEx1T3RObTZmLVdYYnFSTkc3VVhZczEwMDlORl9ubVJwNmNGV3p0dUw3ajB6cFBCbHFKTnpiWHpvdUoyNzVOMkEtX1J4cFBVNUpyTlpWOGdqM0FNLU1oQmtlb0NLekpYQW9zcmJURURFa1c5QVpwRFl5TzVvOXR1SG1YZ3hZbW5CTXk1V0FzZThjN2toYmR2Znc1OGllY2lmc3JsdjBFQ3oyek9HRWNtNlV5d3NZbkt4Y1ZRNlB2NjFlZXY1cQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "When the Price of (TROW) Talks, People Listen - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0p2N1RxVy0tMGcxYVlraXV6VmFfQzdUYWZlOWxSRVR6YnExTThHVGV0aFB3cGs3NkVEeUNfZnREMENBRkozcm9vOEJoc2Z4am13cFBLU3dJVmM0VGVPWHFiUXlacW1pc1psOXBRcWUwRlFlcHVaSjhGZ1FQel9UcEh6WDU1S1diQnF3OU56RTRYUEExRHR2eXdncGJjUXpqaDNTazlwdi1Oa013cDRKTWxDTHY1a3JJSXhaV3d3?oc=5",
+        "title": "T. Rowe Price Group, Inc. (NASDAQ:TROW) Shares Sold by Rowlandmiller & PARTNERS.ADV - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX1lxOHAxUlpLQ3hDelh2T05OcTRTZ2Nubi03T3k4emhtYXFGd0szSWY4UHo5Y3ZGOVB0NTZ1MnEzYnhJQ1pFMU1BWWVLUzRLMURDZ0dfSFhwYllOTzBzcnJBTEM1MXlIMnB3c1NMUzV4eVNYd2xVdVRtZThHLUhPVFBNLXE4eWpoU1BwN2pnUndwcld3TER0SzkxWXZKMmZ0WEVzRHZRd1lqMlJOMjJibExWeGhwSHpjdkFlcHRaT0k2bnhVLWdJcHJRUVNDWWJkTTNUZWJKSmlMelh5ZlZKSk93?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "T. Rowe Price Reveals Revolutionary Age-Based College Savings Calculator: What Parents Need to Save by Age 10 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSTdvRnd0UlNJWHVUM3p4VkV0c2ZMNTVFSnI1TDBEN1BkMFR0TmhzMGR5UUx2cjg1UFZtempLV3FHRnk5MnNQcTJFT1kweC1PRE9nQnNzaUtrZUY0RVdNd3hKRDg3VURMbzZVazRGdkRBTk8wZFlIdXZfbVl3UHNJSUFaM3FhdHNDczR3V1ZRX2RFVWpsT2VKaUtsUFM1TkEzVmZKbTlvRS1hLTFFc3VRbnhYV1lFOHM?oc=5",
+        "title": "T. Rowe Price Assets Surge to $1.62 Trillion While Wrestling With $4.4B Client Exodus - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmFreFIwVVVyRVZhbmk0RjVzVVVYaXU2SGhXejJTbW45VFVSR2I0MFlLcWJtTEF4ZTJ5LWQ1QkRQUDdORm9uZmdOX1VXMWNsSFh1TFdUdzNEWlZtVmotRnF0TzJlNzlRZ2hpZV9oZmxEMDBxVmE3T1VhVm1MVXY0bVJNRmt6bkdfVmgyZ3BZV2U3LWxqWWhnSUhkNjdWOHB6WTNaNW01ZU1aeGV6elVfd1RUdHNZeGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "T. ROWE PRICE RELEASES 2025 MIDYEAR INVESTMENT OUTLOOK | TROW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY29va3dBWGRuUHRkMGlCb1hmT1FNNGFZZXVaV3BuaTJqVm1XVVdid1QyTlBoLUdDMWRnb0dncHBqWVpIVEJZVGlwV3l0S1dRdkpLZFVpdjBNODNPc3NwMS1HN2NfVXh5ekphQXlLUnpTN1o2Tl8wQm9SaXJCWUxiTWpreXhaaW9PVGJMeHpfM2pmbGdfMDk0WHY3VkFtUjNvNWVJQmh0N0lwYTVnT3c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "T. Rowe Price Group, Inc. (NASDAQ:TROW) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0hjWnlmZDJWUUdkX2ZiRklUYmFKdURBajVnYU5RS29TTGJTcVFaTDg5Z2JMMGEwWTZHcGlEMXBnRGFxUE0yQ1F6UGU2bzdjaDRWWHdNRFhNUGJjdWFPVmluZjFMbGY3dFRNbHZYaGR5VzRRQUZWVzBSZjhDeGlSc1FzR01VaVQtT3JSek5mNmV0ZHdsbVpMVUt6MFpOOG4xVkZKajZtaE9JcERuUHFjTzRCOVZNRzMxS3BpbjV0YWpWekJzLWFFc3BCUEU4am8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T. Rowe Price (TROW) Stock Moves -1.74%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZVo5THZudGZiYVJBaEpjeXBQcW1RcnRJNkZhdUxoN3BRRnVtNUEyRDV4cDhpVjlOMjUtbE5GVnBHekduM05scTZrRkZhSzhYMFJpTTJZaGgyWi04WU9ZX3pxU3FyYWd2ei03QWhNa0JsRGYwYlo2WQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Wall Street Analysts Bearish on T. Rowe Price Group Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczg5S3p2UUhucjMtWjQ0b0pwNkJjZEdoOXE3QjFXem1rX1IzUzlEVlI4Y2FkeHd6Wkp1aGt5eEY1ZVd0cy1keHZRcUhjX2ZybUVObTRRWnJRU1hJYWQ1b2Qybm9wcFZGdzVHak1MZE94NUVYM3VIQ1FMZ2lVbmFjMjJFMGVXcHdyR01uNmRqeTc5OUdDLVBoSG1ES3BuVGtELXFFR3Y5aXVweXVSSXZ5RGt4UVQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Harbor Investment Advisory LLC Sells 2,937 Shares of T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb3BsU0dnUjk4OTA1c1hXOXF3TWJQYVEtYjBzMWxmemJZZHVJVWJBdjc2dlFES0ktVkNfRldoeFVhOTk4SlQ1SEhkX2VvNEhqTVVWTVBxU2xMcXpDZ3dIdlUtbDQwRnpYV3Zac0hUYjNnWXNfS1hBTVZOR2Z3ZEpOSU5ieklKeUdlaEgyZkMzZkhKQUdXbDJSa2M3RGUyZXVneC1zcW10TGoxc2lWWkd3YkxlYnhkeGh5Z2NiSlB5N2hrUzZZalV6OWRZNFVnZlFzV1Z4Ny1xamhRcHQz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is T. Rowe Price Group, Inc. (TROW) the Most Oversold Large Cap Stock to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41UldPVEhKOFFLaXlhWkxjWEZKWVRrUmltcHZ2c3pkYi1BamMxeUR6ckN6N0QzMVlSblhPcDR1UlNkaFl6VVVNc1pzQVZJX2RSYmdDdDlyQXRXRkxaZjVKdTg1NWVmUjVwWEJFUEZDeGs2alJEMTA0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T. Rowe Price (TROW) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wYTUyVGc2S3dYQU9oMHpQMTFoc3JBR1F4bVFUY1NycHRVcjFHOTU1OU16Rk9OU29NQjVVV1Y3Um1HQzlmTW1fT2pqSHBER1h6YUlMeXZUTXB0V21RUUl5MG9mVGc5ZW1jX0FXUWpKN19TeG55eU9FaQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Lansforsakringar Fondforvaltning AB publ Buys Shares of 105,007 T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMU5idnBNazJpRFFubURGaVBQZGN6TXExY1RUS1ctWkp2OVVqTFh0RjlSYmhoc1NVUXBuUXQzb1RqU1A4YWFJVWluTXhnR1JMcndIX3plMlVrcEJpdmRISGpQZXdLZlhDZFc5N01LcGI3MWRtRlphdzRKWUIwVVl4cGZveUZBRXB4QWNrdzBHc0ZfMm81dWU0VzNQVDAzS0FncFhFaHZ2QmRMSVRfM3VsS1pwREdxU09KZVZtRDFPZTdLU1dYc3plRGhsbGowalZpejhxYWtCb1RkRV9LaU1WTjQ3LUEwMW41Y0dqT3pB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "L. Roy Papp & Associates LLP Has $15.24 Million Position in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUkVfSkJQV2M1UTBjQVJ0MXozbGtDOE9HLVBtTW5DQkRrekg1SjNfTzJtU1hHUWJ4dUJQbm0zRmRDQXA1ZGxHTXpqSkJoTDFvWVpkZUstWVdpVlNVdUNnQXBIaHo4LVV0QVBseFoyM2pDU0RPQXpkRUxTb01LaUctcGFuVDRpaGZUSk04ZGlkUHR5dnYybGVsYkVmVDJYdFcxOEpld3hwWVB0Z09nRlFUV2d4VDhLQmp2dzhHMzZYbVdHRkcxTkNpbVhnRlBMekNBVUg5cmk1YmkwYmU4T0JB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "T. Rowe Price Group (TROW): Among Magnificent Dividend Growth Stocks to Invest In - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NUmxfa1VXYndCNzk3YUYydmxPenljWldsYXZIM3NuLU84T05oS0toeHhyU2h4aVl0eFFXRmVvbWtPUVh4NEh3UVVGNnNsdURMcG1Eek5pbXFaMzgyUDlkSjgzRE96cFROaXVLenB2X3lVM2V5RDk5eQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Purchases 16,693 Shares of T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjdsTGxRN0ljSGJiSFp6OWdOMktKcU1uZ1U5VjFtNENJeC1FdEpjRXhBUHBSVmxMRFUtYUM3MGd3WDU3WEprTHcwMG5QZ1E5SGVtMl9Ya1JOLUc3VHVGcXh1SHBDbWtpMFhXZ0lXMXpNUS1XUEVzRHdCNjBVOGU1dkJZcGVCR3d4a3RmSEt3aGZlMExHdFJ5d3hDTkdMcGhkaDRoai1kTjl5NjcwVE9aOFE4ZUV2MkFtSWQwY0dHNzZ2ZUhlM3BOV19lUlIwU3MyQmNkSGdn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "American National Bank & Trust Invests $373,000 in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkkzdC16OUVaVVdkQlFGQ0U4TTlOb1BfdXRCanUtME50WWVtOFhqNlNBSFkxa2JnM2pPUUJXYzR5TU1GcXRDNUsxWldtWlZ6bk9KSmRLdU1zbjdyVTEwamdoelBUWExtckFGTEp3aWhwbEg5dkdDTDZHNnI0UmpyMXVHVHVXQnVqVGNEamZyZlZQcHN0WHMxM1dTZmJkQlJqaHJUUHJrQVdEQl9Cd3I4RlZBZU5MQUI4aUxSYU1EeV9EYlF0dHdBVHNsUFZYTkcyYklxc1VPcEV6SWZfUTJIZnl0ZUhCZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Czech National Bank Grows Holdings in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVc5VlRxTTE2SVJ6MFVkamR6OFNFblhPdTBvN1hxOFVFYmQ3X0xiVGdReFcwclVuZFZ1MXFVX0RFd21DcjR4UXk5bnp6SjZGeGFHVGhka0xMVU1oaWQ5TlNCYWc0VGV4ZnZyRzRPNXptb24tNmp1ZTVXQnhYOXpZMl9rdnpHcldGcUlIUFNBNnl4Tnl2THBNQjZkeFUzbXlGUExlQmV3dnZrQko1VVc5dFBYZkdTUHJ0b0I3NnZpeEk1MXoxUDF4TWtJRGM?oc=5",
+        "title": "T. Rowe Price launches three new active ETFs (TROW:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanlFazV4R3F5Y2x5bWVySGZra3pyY213cGtFN2VCY0tLV2JIa29tOG5Td2Y1YVNRUlFLTTJQMFhCUU1NWGp2LW1kZDVyeVRzTjB3UElvbnVYVGRHdnVidVFvQkE5V0YxWFdzR2ttLTRWS3E3NkxVS0RVR04xU3VtcWtqS0ktdzJy?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "GIB",
   "name": "CGI Inc.",
   "sector": "Technology",
-  "market_cap": 24149223424.0,
+  "market_cap": 24222019584.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 19.425224,
-    "PB": 2.3636324,
-    "EV_Revenue": 1.798,
+    "PE": 19.413261,
+    "PB": 2.3749452,
+    "EV_Revenue": 1.826,
     "ROE": 0.18340999,
     "ProfitMargin": 0.11521,
     "GrossMargin": 0.20283002,
-    "DividendYield": 0.4,
+    "DividendYield": 0.39,
     "DebtEquity": 43.312,
     "CurrentRatio": 1.269,
     "QuickRatio": 1.056,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.12812450249064092,
     "ROA": 0.09011,
     "PEG": null,
-    "EV_EBITDA": 10.108,
+    "EV_EBITDA": 10.269,
     "BuybackYield": null,
-    "PriceToFCF": 12.45192857179147
+    "PriceToFCF": 12.470314730073717
   },
   "technical_indicators": {
-    "RSI_14": 55.121508775375894,
-    "Momentum_10": 1.0308298037284438,
-    "MACD": 0.5816025132721308,
-    "BB_Percent": 0.6329997797962778,
+    "RSI_14": 55.00749434235061,
+    "Momentum_10": 0.7121595925239308,
+    "MACD": 0.7362370436074315,
+    "BB_Percent": 0.6615619948503627,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9306064581092832,
-    "QualityScore": 0.3622663354911658,
-    "SignalScore": 0.5130397124462298
+    "ValueScore": 0.8914197506750106,
+    "QualityScore": 0.3728261543655099,
+    "SignalScore": 0.5492672828704066
   },
-  "volatility": 0.0152034647942589,
+  "volatility": 0.01512500536482,
   "beta": 0.651,
-  "return_6m": -0.0438985853481662,
+  "return_6m": -0.0380428397851547,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
-    "target_mean_price": 116.735374
+    "target_mean_price": 117.581314
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 113.74
-      },
-      {
-        "date": "2024-12-10",
-        "price": 114.15
-      },
-      {
-        "date": "2024-12-11",
-        "price": 114.67
-      },
-      {
-        "date": "2024-12-12",
-        "price": 112.31
-      },
-      {
-        "date": "2024-12-13",
-        "price": 112.61
-      },
       {
         "date": "2024-12-16",
         "price": 110.21
@@ -537,57 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 107.84
+      },
+      {
+        "date": "2025-06-09",
+        "price": 107.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 108.72
+      },
+      {
+        "date": "2025-06-11",
+        "price": 108.74
+      },
+      {
+        "date": "2025-06-12",
+        "price": 109.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 108.19
       }
     ],
     "current_price_data": {
-      "price": 107.84,
-      "change": 0.2,
-      "percent_change": 0.19
+      "price": 108.19,
+      "change": -1.4,
+      "percent_change": -1.28
     }
   },
   "news_sentiment": {
-    "summary": "CGI Inc., entreprise technologique en plein essor, a récemment multiplié les acquisitions et les partenariats stratégiques pour renforcer son offre en intelligence artificielle et en conseil numérique. Malgré une volatilité sectorielle ayant impacté son cours de bourse, CGI a réussi à lever 650 millions de dollars à un taux d'intérêt attractif de 3,71%. L'entreprise a également annoncé son intention de racheter jusqu'à 10% de ses actions en circulation, démontrant ainsi sa confiance en sa propre valorisation. Ces initiatives montrent une orientation claire vers la modernisation et l'expansion de son empreinte européenne, renforçant ainsi son positionnement sur le marché.",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.55,
+    "summary": "CGI Inc. (GIB.A.TO) a récemment connu une série d'événements significatifs. Malgré des acquisitions stratégiques, des partenariats et des résultats financiers solides, le cours de l'action a chuté sous sa moyenne mobile sur 200 jours, suscitant des inquiétudes. Alors que l'entreprise affiche de belles perspectives dans le secteur de la technologie, la volatilité du marché des TI a pesé sur son cours. Les investisseurs pourraient être attentifs à la capacité de CGI à maintenir sa croissance et à la pertinence de son évaluation actuelle.",
+    "sentiment_score": 0.4,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.5,
     "neutral_ratio": 0.4,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "CGI Lands Multi-Year Cloud Tech Deal: Suffolk County Dumps Legacy Systems for Digital Transformation - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTBVSjM3Qlo0eUp5OUt3d2FEaEJQYjRHS2s2TlZUS01iVUFfV3NhRXNQS3Y5THZiV3VwMXM4Zjh2WmJtTDFybVN4WjlaeVBkWUt4RDFXTk13OFJSTHJOdzJYcXU3ZlNNWEhuVUJrUGZocDhiOE9yR01BRDBsdmNXUjVPdWIzaTBBTWNYSWVSNnNKOUZoQkNNM0laUnBtd05SNGxCeGpDNFJNc2VOekN1TGhqOF9aWUU?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "CGI Inc (GIB.A.TO): Is This Deeply Undervalued Stock a Hidden Gem? - The Acquirer's Multiple",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelNwZWZhdW5pUzZZaHYzUFMtZ3BlYllYaExMVUtzWm9WMGo4Z0phSUVPQ2oyeklRSlV5S2ZmeE03Rlp4dTZkMWg0MnZTaTFpZS0xaW1NTHhBSEd5MFIyb0FyUHBwVXJTR2xPRGdCTU45bWcxckZZTEtHZ2Jodkh1NGVQWTNLM0Fra1FtZXdWUkllbGFSOGlYaUJRWTljd2wzX2dF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CGI Inc (TSE:GIB.A) Receives Consensus Recommendation of \"Buy\" from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDZSVG0xR3VqdjdieGxkZ3U2eDJHdDBRN0xibHJWeHdtWU9nZk8xLVJFenZKOHk0UDBFSUR0Vl9uZEVLVlRlbkdxSnpGYWIzTFVURkZ3ekNES19abE9GVzlXTktxbXEzdTVzUmFPWVpvRVhiV2lwVUNfUXRaTzhpZWd1WGRjUHAzRm9yaklBcDFPRmU5TXctRGdRcDVjaXlyT1l1VE9GcmFUYkZMMWw2b1R6bFhzWUFaYTFUemQ4ak5zZw?oc=5",
-        "label": "POSITIVE"
+        "title": "CGI Inc.'s (TSE:GIB.A) Popularity With Investors Is Under Threat From Overpricing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU28xaklUWDEwWEFSNENSX19DdmxUX3FnQVFEZWpBaXNTLUJFQ3N2WGhGOUJEZlFFaVFLbV9NaDRnM1hhRlJNUjA1c09BRlN2NHlvckU5VlVfU2VHb1MyMzU3czlmU0ozd3g4cHpBQ04zcmhEdWdXVG5wYjZ2amFEQ25sSENqTmlLdUw4RUZtbUplQXRSa1l3YWpHTFZ3VkRZZnREMk9rRUFUODV5Mlpab09NVFdJMDFrRnhZaFFrNXBsbUg2UVHSAcsBQVVfeXFMTVFUT2hQcHFGaVBwWXRjU2hJdWFWZ21neXQ4cTdBcWwzdE4tODFkOFA0aVUzaWRLaTc1ZlkyODh4eEgwVkN0VDZtMGQyXzlWNGpJOExlUk5pLTJjTDRKX244R1pDc29KSGZNaHpnMHpVNTdQQmtvc0ZXQ0hoQ2IwemluSzZ3bmJwV1ZsbnJWUnVoSnBaVEtxWk9RcEoyX2sxSF84NmRveU1YOHhneFVxd00tbXktNTRXb0E1Sm44dlYtbDBqNE9iOGM1d3M?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "CGI to support Suffolk County's modernization of financial and a - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWEMtZVVDRl9MXzdFWXRXWnhPMzhVSDhBOVZsUU93Q0RMeFM1cVBGTzd5b3FudVJqNURlSVUyN0NkZEh4VXg1dWhRTG00MG9ncG5OSHpyWmxmc0Q4c21ILVh2VE1HT1dUWG5fQnFMLWlnMHM0U05BZURSS2NqUjhaeXR3TEo4aDBRbEdkSXZpSUt1bjNVbmNTZUhOb3cydmhEOEVzUU1Vdlk4Y3BIUm9Yb2pSdzBnZTAzVlpLeEhDaTNjYnQ2blU2M3ljSmhELXpRbElmVEJxYldFN3RJOXgyRUlnbnV2ZmxINnBEdWxJR1JfX0pwRV9ESzItY1FQMGFLemx3enItUjh0Ymd6?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Objective long/short (GIB.A) Report (GIB.A:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmM0Y1ZQQkFFYmN6cjlSVEVEcVlmZURQQkJZNU1ycXlBdjRfUG5vMTdDVVN2S1dpMWlHQzNPZlBpbDRST0FSZ0VsUEwyREZYV3V6SnV0b2o4enRBU2xfbVhWdUdGTkFnck1IcndtejJnQlNlVXo2Z1pnWHA0QzhrRQ?oc=5",
+        "title": "How to Take Advantage of moves in (GIB.A) (GIB.A:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEhsX0VPUFFsZl90a2xlMEdBc3NLTF9jWWk0NkJfZTJMOG1zYVJVVVgtT2NQeUFPV0ZsLUhXZjVQVlFqX2VFQlNqZXppa3RHZXU3eXExZFA0UUotSDRJcjhfSFZmc200TUQxQklfOGZsRUN0bTZFVHZvN0tuVmg1aG9VQzAyNWdGaE81TzljOGhnWXVKLUlUOENBWWZKdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "CGI Inc. (GIB) Acquires BJSS to Expand AI and Digital Consulting Services - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qMm5qLXl2UlJKOERnaFJLXzRmZWNDazZCYWRDRFJtV0dYWFhfaHI5WUh4UkdSX1NYZ080UUdsV2dJeHVhZmFJQ1lHU2lBcUd6S1JpZTR4cjNuSFJ1eFhUX0ZlZGE5YzFrdzBGbU5WQ20zSnNuWjhNUWVKUQ?oc=5",
-        "label": "POSITIVE"
+        "title": "CGI Lands Multi-Year Cloud Tech Deal: Suffolk County Dumps Legacy Systems for Digital Transformation - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTBVSjM3Qlo0eUp5OUt3d2FEaEJQYjRHS2s2TlZUS01iVUFfV3NhRXNQS3Y5THZiV3VwMXM4Zjh2WmJtTDFybVN4WjlaeVBkWUt4RDFXTk13OFJSTHJOdzJYcXU3ZlNNWEhuVUJrUGZocDhiOE9yR01BRDBsdmNXUjVPdWIzaTBBTWNYSWVSNnNKOUZoQkNNM0laUnBtd05SNGxCeGpDNFJNc2VOekN1TGhqOF9aWUU?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "WIT: Wipro (WIT) vs. CGI Inc. (GIB): Which IT Services Stock Holds Better Upside Potential? - StockNews",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1FhbzdwREgyTVBoRTRLTjA0Wnd0RW9HUXppZ2YxOVFsY24zRHVrQ0FDXzR3ek9tSFowZ2t6ak9nVEFRYVRXTkRfQmc5b2lHVkRDQWRvU0ZON1kxcVd6RHZlUkltb09wWUlWV0pZN2dhR2EyU0JtckRwSmpDZHBWd2M3eXA2ZHl1OEV1SQ?oc=5",
+        "title": "CGI (TSE:GIB.A) Stock Price Passes Below Two Hundred Day Moving Average - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmQ2c3dNbVZHdmZfYUlfSDExM2ZIMXAtQ0VYQ1N3akpjZlViTDlxM2VPbkc1QWlrTV9sc2I0MjEtOWZSZ0Fia2pzWWJ4UVNYa3BJSDA5Z1RUeHBJTmlaMHVvLUF5bE1vTFhMV25JVFRZTVVQM21CM192NEhhWUFHNjZCREp6UmdEVFlGdmd2T1VhcXNqRGZleEhDWDdSdDN6SS10aWlycWs5bGxDSjlVZUlxZWxMWUp2aVRVZ1lpSHg4MlBPWTNKNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CGI Shows Some Promise, But Valuation Looks Full (NYSE:GIB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTllzREEyd09vZXZXaFVqWHFuTDBXcFIzZ3BGbWtjX3RGVzJfOUJZZFhtUHd3YnNqd1p1UUdSRmxMbkNuTE56amJ5dE5UU0dzZUpfSUdzU2N5d3djdzFpQ2VjVG1vWmk0VmphbThlN0t1SHR3dk9weTY1U21wRGJRMkRMb0JMcnA3UFA1TnE5N21WZw?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -596,14 +591,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "CGI Raises $650M Through Strategic Note Offering, Slashes Interest Costs to 3.71% - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFlfU3FGdVVqek40UTdqZGdybDhCVWNjQW5ZZFpIWEpLY0dZV0s5SFJ6d09sNXY5R243ZUxnYnRQTzB6OGUzNzdvMmdPanlsaFgzcUdDUVI0U0tYUEI5T3lFbXVLYkdVWjVPWHd6eTRiR2lYV0NTSW9zQWd2ZzVYZnpJbGNMU2ltRHJOTDJQT3ZfVGs5b1FsdjFmbnI?oc=5",
+        "title": "CGI Inc. (GIB) Acquires BJSS to Expand AI and Digital Consulting Services - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qMm5qLXl2UlJKOERnaFJLXzRmZWNDazZCYWRDRFJtV0dYWFhfaHI5WUh4UkdSX1NYZ080UUdsV2dJeHVhZmFJQ1lHU2lBcUd6S1JpZTR4cjNuSFJ1eFhUX0ZlZGE5YzFrdzBGbU5WQ20zSnNuWjhNUWVKUQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "CGI (TSE:GIB.A) Stock Price Passes Below 200 Day Moving Average - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUtfblkyZGdNOXlTZEZqNk5TVE9LZ01DQnFBbTd3MmFFQWNzbG1weXg4Y244by1CMGo0eDZ3QkllQW9rcXliTW40VWpuWkdYdEwwSnR3MThUN21oZDVzdjVTWjdRYVd3RDhsVzdKWGpxNG00bEo0Vy1kVnRJZG82TlY1NjJiTDdFNENGYjc2WEtFeWFLdWVjMHBwUDBZdVU4bVNnallDeTNyc1o5LTZxRGF0aDFrVmdueVFv?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "CGI Inc. (GIB) Stock Plummets Amidst IT Sector Volatility - GuruFocus",
@@ -611,14 +601,34 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "CGI Raises $650M Through Strategic Note Offering, Slashes Interest Costs to 3.71% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFlfU3FGdVVqek40UTdqZGdybDhCVWNjQW5ZZFpIWEpLY0dZV0s5SFJ6d09sNXY5R243ZUxnYnRQTzB6OGUzNzdvMmdPanlsaFgzcUdDUVI0U0tYUEI5T3lFbXVLYkdVWjVPWHd6eTRiR2lYV0NTSW9zQWd2ZzVYZnpJbGNMU2ltRHJOTDJQT3ZfVGs5b1FsdjFmbnI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CGI Inc (TSE:GIB.A) Given Average Recommendation of \"Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDZSVG0xR3VqdjdieGxkZ3U2eDJHdDBRN0xibHJWeHdtWU9nZk8xLVJFenZKOHk0UDBFSUR0Vl9uZEVLVlRlbkdxSnpGYWIzTFVURkZ3ekNES19abE9GVzlXTktxbXEzdTVzUmFPWVpvRVhiV2lwVUNfUXRaTzhpZWd1WGRjUHAzRm9yaklBcDFPRmU5TXctRGdRcDVjaXlyT1l1VE9GcmFUYkZMMWw2b1R6bFhzWUFaYTFUemQ4ak5zZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CGI Group (GIB) Q1 Earnings and Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vb21WbmU5YVN0Y1dvcVhDU0hrNElGVnFZd194QTVXandYMGRObmg1ZWRmd1dxanR3d1p2Z3ZYLTExbXNEaW9LZ0U2SVNMTUNjM3ZSWklpMFFiRVV0U2RmWFBBRUtRc1F2OHQwclBlZ2JlSE5sV0lCcm5nSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "CGI Acquires Novatec: 300+ Tech Experts Boost European Digital Innovation Power - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXY1R2NsYXBTSXllcGtmWnlHanplOGFHOEhCbTVlOG1NLVJtX1pBSXdIczU0aEhQa2JWcjU1am12UmNWR2pPQkY1ZnlvUGN3SEdLUXJUZUZONzBXSEJTX2liV01PczV5X3M3V3Y3c3RXMjR4YmppU3FtOGZEeTNqbHczanN0UVZKcDNKSHM3ZzJzeElveDE3eW5IRzRaZjY3bUJzUFhFbUVrUGQwY1RZNFA5cVU?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "CGI (TSE:GIB.A) Stock Price Passes Below Two Hundred Day Moving Average - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmQ2c3dNbVZHdmZfYUlfSDExM2ZIMXAtQ0VYQ1N3akpjZlViTDlxM2VPbkc1QWlrTV9sc2I0MjEtOWZSZ0Fia2pzWWJ4UVNYa3BJSDA5Z1RUeHBJTmlaMHVvLUF5bE1vTFhMV25JVFRZTVVQM21CM192NEhhWUFHNjZCREp6UmdEVFlGdmd2T1VhcXNqRGZleEhDWDdSdDN6SS10aWlycWs5bGxDSjlVZUlxZWxMWUp2aVRVZ1lpSHg4MlBPWTNKNw?oc=5",
+        "title": "CGI (TSE:GIB.A) Stock Passes Below 200 Day Moving Average - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVBxalNCLS0wS2dKTHZiZEcyXzR5bTQ1RWt5MVlOMnVmcW9jQkRiMS1hb3JlOUFqUnJ1UjdoSVlpYmJoTksxTVluZEwzS3lTTEdzUFJwT1lGRkNkcklkaEkyY1Y0QmU3SkVzUGFZcFVTVkl6N1ZsUVVZZDRBMWRORWhhbm10UTMxdUgyUGo1dkNqS3VCRkt4a1hGdko2amhpZ2hJRUhfa0FuZ1NxVVNVWHlsZnF3Y01jTVhNc0kzaTZUWUV5?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Tech Acquisition: CGI Expands European Footprint with 2,500-Strong Digital Firm - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVc4Nl9fN0xEZF9INGVoOWt0alJ4blNhRlYxUkoxMWwxVmVVcmFpdWdXRjI3WHlKUTlxbzJtMTNtWlZEY0hrbTJicTBwNXJWZTFOVFJ1cDVoWC1CUlZjcXZzd2U1M3NES1ViMURRUTdUZ3BWaEdoRXpXZzZzdF9aYU1UeFN1dVUyTm5qMjZNQTRiOVpLTEN6TUpPTkRGZ012SWZ4TFc3MTMtTVBxMk9YSi13bmg4NGpWSDU0RllIbw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "First Ever: CGI Advantage Makes History as Only GovRAMP Authorized ERP for Government Security - Stock Titan",
@@ -626,14 +636,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "CGI Inc (TSE:GIB.A) Receives C$175.85 Consensus PT from Analysts - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjJUb2xaSGhlQjJmVTdtNmJwSjZvNDdFc0Fmb1pwTVVPbTVYWHhWd3VyQThRQXEySWtER0R6VnVRbHlnMVhjT3AyMnR6WWlzVHgwSnVGbGpLMXU5YXdTRHl3YktfaDUyVy02TUc2dmpDQjBaSmh4dnIxTUlNZVdQLXVCSkpVZjJ1VVBoMGdHR0ZjU0RkVDBYRGtWQzVTVGFtMFlFRUJraTIzRElXSjFfUmUzR0EyQ1lFeFBoc1lCUVBYdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Major Tech Acquisition: CGI Expands European Footprint with 2,500-Strong Digital Firm - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVc4Nl9fN0xEZF9INGVoOWt0alJ4blNhRlYxUkoxMWwxVmVVcmFpdWdXRjI3WHlKUTlxbzJtMTNtWlZEY0hrbTJicTBwNXJWZTFOVFJ1cDVoWC1CUlZjcXZzd2U1M3NES1ViMURRUTdUZ3BWaEdoRXpXZzZzdF9aYU1UeFN1dVUyTm5qMjZNQTRiOVpLTEN6TUpPTkRGZ012SWZ4TFc3MTMtTVBxMk9YSi13bmg4NGpWSDU0RllIbw?oc=5",
-        "label": "POSITIVE"
+        "title": "CGI's New AI Platform Trained on 3,000+ Fraud Schemes Targets Federal Payment Waste - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGxTaVRia1RldUpmanFhejdvNTB5NTVFV2ZYNGFCYW12R2JjRERLLXd2QXlUUnh2UFQ1bU92NnBRMzJBNTNDamlFWHFvay1tYm8tWkJTaEFsZ05aanVyUi1oMFExYlp4Q1R2ODE5STRQOXQ3Vlk2VWRYblI0eklwT0ZCYURORlJ4QWlvanBfdUJDZEVOa3dZdUlfX2xqYzB5WEp5OTRsV1o4LXB0blBYYTg0Q0Q0c2o0OWZPVGdn?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "How CGI's New Databricks Elite Status Transforms Enterprise Data Analytics - Stock Titan",
@@ -646,16 +651,11 @@
         "label": "POSITIVE"
       },
       {
-        "title": "How CGI's Strategic BJSS Acquisition Reshapes the UK Tech Consulting Landscape - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZXFkREVZOVhSRjNjOWh1Y3FicnZRRmNIQlB6VnRyYmJIQmpkSmVrckZXNDdULUZhZkxjSnppOWJlNlRyMVZrUXdLNzdOQTZYVTk3VnY0cWJWMG1Ua1dhS01CMzFob0pzNU9fMFJOeXZWQm9rTVJYMzU5SGR0RW5EY3YwaHlMZzhqcHhFeHJyY2J0WFluRU5mN3VFVDJXZENUc2thM3lCQ2VBY1IwT21wb3ZKOHhWbDBBQk4w?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "CGI Flexes Financial Muscle: Plans to Repurchase Whopping 10% of Public Float - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05jWUZKVFdMR2RRQjN2OVhyaFJDTVdGR2hRQ21XRTlNS1hYaTZlTURKRV9uaGw2RzNtanN3MTZISS03SjVKTE9sUl84dk14Sk95VFFjQW9rU3ZkOEpULWlBQ2o3c2hSUlhwcXZLTzROWTBVMVRHLXVxSm40R1VPRi1wdVJQbnAxSDQybzJ4dzBfNTQ?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

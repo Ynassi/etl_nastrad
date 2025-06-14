@@ -2,16 +2,16 @@
   "ticker": "NUE",
   "name": "Nucor",
   "sector": "Materials",
-  "market_cap": 28089321472.0,
+  "market_cap": 27977406464.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.507069,
-    "PB": 1.3996298,
-    "EV_Revenue": 1.06,
+    "PE": 21.383598,
+    "PB": 1.3940533,
+    "EV_Revenue": 1.058,
     "ROE": 0.074039996,
     "ProfitMargin": 0.04397,
     "GrossMargin": 0.10524,
-    "DividendYield": 1.85,
+    "DividendYield": 1.86,
     "DebtEquity": 37.319,
     "CurrentRatio": 2.522,
     "QuickRatio": 1.389,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.0063851840367938634,
     "ROA": 0.0387,
     "PEG": null,
-    "EV_EBITDA": 9.133,
+    "EV_EBITDA": 9.113,
     "BuybackYield": null,
-    "PriceToFCF": 144.72267339228543
+    "PriceToFCF": 144.80581324054725
   },
   "technical_indicators": {
-    "RSI_14": 59.59611474338771,
-    "Momentum_10": 9.81118472384198,
-    "MACD": 0.8602926673007261,
-    "BB_Percent": 0.8315332780089233,
+    "RSI_14": 55.93833854408359,
+    "Momentum_10": 10.88606319756183,
+    "MACD": 1.4499285538890805,
+    "BB_Percent": 0.737115677205769,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329528310905176,
+    "ValueScore": 0.8938731352808035,
     "QualityScore": 0.2271268344549694,
-    "SignalScore": 0.4515814652040936
+    "SignalScore": 0.4962022754627881
   },
-  "volatility": 0.0276915663518646,
+  "volatility": 0.0275074632979322,
   "beta": 1.747,
-  "return_6m": -0.1382146821249463,
+  "return_6m": -0.0229522672005362,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 144.58
-      },
-      {
-        "date": "2024-12-10",
-        "price": 140.56
-      },
-      {
-        "date": "2024-12-11",
-        "price": 138.44
-      },
-      {
-        "date": "2024-12-12",
-        "price": 131.41
-      },
-      {
-        "date": "2024-12-13",
-        "price": 125.25
-      },
       {
         "date": "2024-12-16",
         "price": 124.16
@@ -537,78 +517,118 @@
       {
         "date": "2025-06-06",
         "price": 121.57
+      },
+      {
+        "date": "2025-06-09",
+        "price": 122.53
+      },
+      {
+        "date": "2025-06-10",
+        "price": 124.68
+      },
+      {
+        "date": "2025-06-11",
+        "price": 117.13
+      },
+      {
+        "date": "2025-06-12",
+        "price": 118.45
+      },
+      {
+        "date": "2025-06-13",
+        "price": 121.92
       }
     ],
     "current_price_data": {
-      "price": 121.57,
-      "change": 2.8,
-      "percent_change": 2.36
+      "price": 121.92,
+      "change": 3.47,
+      "percent_change": 2.93
     }
   },
   "news_sentiment": {
-    "summary": "Nucor Corporation (NUE) a récemment attiré l'attention des investisseurs avec une série de mouvements positifs. L'annonce d'un engagement de rachat d'actions de 3,184 milliards de dollars et une augmentation des tarifs sur l'acier ont propulsé le cours de l'action. Les analystes de BMO Capital ont même mis à niveau Nucor, tandis que Jim Cramer voit un potentiel de croissance significatif, qualifiant l'entreprise de meilleure société sidérurgique au monde. Malgré ces signaux encourageants, certains se questionnent sur la valorisation élevée de Nucor et la volatilité du marché pourrait offrir des opportunités d'achat plus attrayantes à l'avenir.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
+    "summary": "Nucor Corporation (NUE) a récemment atteint un jalon rare avec 209 trimestres consécutifs de paiements de dividendes, signalant une stabilité financière. Cependant, malgré cette performance, le titre a connu une baisse de 7,9% depuis son dernier rapport trimestriel, suscitant des inquiétudes. Les analystes se demandent si Nucor sous-performe le secteur des matériaux de base et s'interrogent sur l'opportunité d'investir dans l'entreprise. Malgré les fluctuations récentes, certains, dont Jim Cramer, estiment que Nucor reste une valeur solide et pourraient voir son cours atteindre les 80 dollars, soulignant sa position de leader mondial dans le secteur de l'acier.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Nucor Corporation (NUE): A Bull Case Theory - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelU1YTdQcFJfR1htVU11Tk5vYU9VZ3lJMlB4NURBb0h2SFZOdkFsTzg4U1JoRTFxTHNJb24zNzM2dmlLbGVlMGQwR0lwQy1TMWlmNGQ1QzVVMWkxQmgtNlJxdTBZTmx2VGVVOFF5aEc4T09KVWJqcmlWa1RGUmtHLTBDN1Y2aUF5SWNnUHpGONIBlwFBVV95cUxPenZ4akRDVk1oc3pETDRXc2JtN0dNUFdhVml5UGpTQnFGemRReC1FNGQ2MlBVdENLSWh6WUpmekRDSWhTU2o5MWkwTkxjWXdQWVVfSW5yaFlFRkQ3Y0hIOE9SOURoV3JQVjFpLUtTbXR0bk1Pak9ETVZjeE9mLXFBOGdhQTJqeFdvMG9UZm1GUHd5YWFSRlNB?oc=5",
+        "title": "Nucor Corporation (NUE)’s Former CEO Told Me About Steel Dumping, Says Jim Cramer - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejdzV0pkZk1PQTljdUgtMkd5NjBXbDV1QjZJb05jbVd2WktsVTF2Tl9mV0Q4OUVjSV9ELVFBTXJCY1ZFb0Y3dUNfckh3ZEZsR2VsQ3NydTJoOGtIOGphWFJvWkI0bF8yUFhSX0hWTXlvZktDNkl5WmY5Ym5PVjl6YmdUVDBDUG1k?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Nucor (NUE) Outpaced the Stock Market Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SY0M5elhtenZpWGlpMm9idVNnVVpVdnRwR3o5TWxKSDdEY2ZqZkFfN2dtVnFGaWsyYTMycjRUbE85bkF2ZDZvYlkwVzFXSWxJejR5bHRTblV0bTUtLUVkdHJXeFdsYy1kUlpQS21iZElJY2hlTThXdmtxUDMwS28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NUE Stock Jumps on Increased Steel Tariffs - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHhHZGwzVVBEYW5UU01VUWd2Q2QyenVTWW9oRXo3RERIZEdQWEFmSUxqZVJCLUg4N09pOTMzc3U0LVd6U3JPLVJidkd3Tl82MEY1SUVKVHBMdV8zT01NSDBmRWozYWxWRUhCMlpidE1JaXYwSTZ1X29lRDgzRmt3a1JyckRuVS04?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Nucor Stock Jumped 10% This Week - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZnSXhWN19oRDg3TUpwVG5BMEQ3aTh2dDk4azNUTlVWQzF3LUJYSld2TFlBY2NtcGlwWmI0S0NzbUltTVEtVUV2S1dVaWQ4ZHJMazNuNVk5cW9iakUwd1B1akNxcWVycU13U0pNM1F6TzNMcnNkRlNGVU1oS291SzNMdjU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nucor (NYSE:NUE) Announces US$3,184 Million Buyback Commitment - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnIzeENMTFhNVGI5Tnlod2phdkpia2pSTUZ2cjFUeHhIUF9Nb241VEJKVHpWaE9fdzJONTVYczNncm5kdFNLcFNlck50bmVSMnZ1VUx2ODRFT3lkNWh4VmVtYmx1dU9BcTlVb3N0WW9nTTV2MWdoQVhFYlYzMTYyRnRaSElib2ZqOExkOENZVzRpcHBzUTN5QVhmODdjYnJIQzBOd1BaWTNDajB5bVBDOUc5bmNTdkJPTUJj0gHAAUFVX3lxTE9aSDNUNVhqQzEydjFWSFJOQ1gwQ1BjZEExVTZPR3lrYkNraDJ5VFZ0Q0h2Q0IzRURTWUFvQW5NbGk2MW9hLTdiSnJkU0NySGJmU09pM2F1U0FfS2FaX3J1UEN1WldwU3liU2xXVXJmUF9yaHlGcU5WNnA5T0NNQlFTQmQtS0dlYlV4WVQwOFFtQlFROWpYRkM5TGxYMFhPbkdKRDh3TWRGRDNSaURUSWlZMU1jX204dnZlY2FqUFAyMQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's How Much You Would Have Made Owning Nucor Stock In The Last 5 Years - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTNibFlxbjBoNl9vQmRuRjlCN2dUa185OENyUmx2a2d0V1BralRlTU1xLWFObzVBMnRyLUV5aUlWNWF2Q1A2T050ekExamZWcUJHMEhtLTFDb0pkNEtYcXg2Vlc2MUNMMDFUcnZfc1o0TEpYYzB6Yk5uenJwN2wzMnFUSE90Szdod1FQY09yWHFKSnNFMzRRYUtNTzFZX1BGYWp3WmhaY0VneGZwWFFieTRIbTZxZldTV2xiS19qZktTT1ZGU0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks making the biggest premarket moves: Cleveland-Cliffs, Nucor, Moderna, Tesla and more - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFZqWXE1M2haQy1GNmZFN2p1bmtSemlvaXJOejB0elRCQUFXb0Z1emxaSDE5WkRCMzRQS1BTTzY5Vkx5VzBFbU9CeXlVdkI2aFNDNU1ZcU5zUndPa2FZZW04WXNpZmlLQnVCSGRvSTA5RUhlcXBvUWFRUnhJRUxLVHpsOUFtQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMO Capital Upgrades Nucor (NUE) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0td1R0cWdNS2RuTjNiRmdpTlUydFBWbFBRRzUxeTdTZEUwcXIzME44Q0tfVHBVeU4tcU9kRjg5NzB0VVQwOFZkVnhfMlhvbDlMbjJpT01tamNtSzhFdWM5MU91VnhoSjlqRDRicTZsRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jim Cramer on Nucor Corporation (NUE): “I’d Rather Wait for an Opportunity to Buy Nucor on Weakness Again” - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEktbl9zaWtNSTNOYU1tRXh6OFF0Z25GTHI2anFYZ0NJVkdHWU9sUkpSdXFYUEROdzFlSkFBcGVkWWhxNTJGWGVkNlJlOFBWMFpCQzBKeEwyallFOG9kaXNHZjJ1QUx2Ql84aG1aRXdlblNqbUhxLVF3TlJLR2FvV0NOTU4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nucor (NUE) Shares Surge Over 14% in Market Rally | NUE Stock Ne - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXJkaE1wVGoxLUdxT3BrVU1JdXRVQmJJZ28wQ3BNSHlrbWZhWjYwU2MtWXZBVGZ6RUFtVmpub1B4aUQwQnc5NmsyQVFvdHhfb1VGcldLeWxkODg1UUVKeVVoSGhMdlU2aU9kZURtSno1OE9hOUJxVzVoTUlaMzRRZncxcHk1Z0tPZWl5bkQ5RGdnWDdlLW1qQzZPcEVSTWwwbEFvNkdpVXo3cjdkVFNvWkd3?oc=5",
+        "title": "Nucor Achieves Rare Milestone: 209 Straight Quarters of Dividend Payments - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkhSQU9PWTBjdGNDb1dKYnpJeHl5eHZHLXFacy1iUmhMZTJMUkJFMk9jWmtONXlFblk3ZlVkd2NHLW9nMFpHTXliSVY3MDg5MlA3YXhQeTlTMzVPaVEwQ1ZGaWk0YThTMUM0eGRQUnFxRUs2Zk5oQ0NjR2dYYWhxQlFLY2diaFpFTDhtS1VScTFDdDBfbVkw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Nucor Corp. (NUE) Skyrocketed On Monday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHdnWVNKYTJZcWVKU2RiSzFMTlp0ajM4NnlPTzczSVY5VlpLQ2x6bnJsb19pWFF1QmFyN3JNMlp2TFJqSnlfVUJpZVprNjJwVmEtLXhEczNUSUFJaGxpRGJNaF9KZUI2ZEVoUW9DQllsWVY1bFd1V0hNU2tsTU5IT3pR?oc=5",
+        "title": "How Is Nucor's Stock Performance Compared to Other Steel Stocks? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZjZ6WmdiYnNkT2V6OTFnNkZCa05vdkJTTGpDY3B3SHFCa0VqZFg1NGFNNHV0a2d0SUtOZzRldjVNalJ2LUVmbGhRMWJudXdDbDhWNHoyYkJVbHVfN09QeWtOLXVMMzdfMXNHZ2ZZU3NUb1BVb3gyWk5XMFBNbnRTSWJVZmtZRC1BdENuN3Y3WG1rRnlPVy1tQTFvY2dERE1lZ252VV9JUmVjd01SX1B0YUl2LWdjbVJyZzVTRGtTYUVuM20wX3dhRTVxcmRic1d0U2ptdElCaGR3SEdnMnpPVV9rdGw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Nucor's Rallying Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaW5MUkZCa1ZuMVpxYjBjazUzQzBmYVd4NkJ4RzBqYjNEVXNUbV9qSFJQYUpDeVVGZ2hRWllucUpKZnhQdWdvZ0NiWHFENXdwS0U3QUVVMjJJUUNBS0JJVzJYMEhBNEF5VzZUQTF6dEdUNlcwRk9PYXp4WTVld1pPODM2dHd2Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nucor Announces 209th Consecutive Cash Dividend | NUE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHgxeTd0WlBjNFlsaGgxcWprSmZ2aHJ1VnhmS0xOUTh0QWxZNTQxSnE0Z0x4ckZ0Q0g5eEt3Y25yampEQzM1SWJzeHBqcnhrem5VRTZZNkhRTnd4cnp1NkJENzFHbEgzMGVRMzVfOHJ5VUtLRHJyOHZtLWhtOWJLQ0tLNlFzdjFlZlgtbDhEZHJLb180elY3Tl9zS1BQZ1FGUktVTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Nucor (NUE) Down 7.9% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfUWxCSURINjRVWktkMnpXUlB5ME14eXhpM0xrbS0xb1A0Mm1JN2VkR3llb2hjOE5JSElzZk5CUmFGR0VMaGxNckdCejlxS3ZIbzBMT3dNUEhCU1M4WkJYTm1wOHBEU0FVS0JtRmRHMklqTi1W?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Nucor (NYSE:NUE) Declares 209th Consecutive Dividend of US$0.55 Per Share - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0lCWVVZeGpFZmFJMHhraG11NmFKYjYxbkNaXy1CbGM0MFhueFh3T09PQkkwRHJiQ2RqMm9BSVNJbWg2UjRHU2Vnc1ZLcnhLdmI4WnNHN2V2dENmYUJ6X3pEN0dJa1FDYnZ4MjBFZ2xKV0sxWDd4aXpXbUFPQTZxeTFvemRneGg4NDNJdWs4LV9JLWNpRVp1SGVyelo0ZlVxcm1CS3NGYzhxVGxZenZEUzJDdHdjZ3dnTHlEUmpYd9IBxAFBVV95cUxQSXVkdHFjUzJ5VFpsNkxhdDcycFY3MmRlN0xmU2ZjaXBhSkhDenByWGlGVGlwYlVxQTUydmdLcEtUT2wwTXNVS3hlNEdVTXk1cWZIVy1xUDBRd0NDVERHY05lQzA0ekdYOGNtLVd3Q2V0UkxZa3lvUU55aHJuVnpxWlY2XzJBajBtUWs1OXpUREFlLXhQLWNwTXRneGxQUDgtOHIzZUFKck9BcEUydEQ0U09NMjF4ajBXMUd5bm9jblVNTmRT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (NUE) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0JmUUI5TDYwRV82a3BjNkRTeW1KU0ZlaVVZazBma0IwV0dwam9MZW5kcVdLMllWNzN4VDhHb2pKYXF5UVdCeGllQkJXZGpZdzc5Vl9EMDRaQUhfTmdUYnFIVWJzMUo5ZUlPcnh6REw4c3c4dVN2Y0c2OHpxcDU1ZHppdEYtNkdPeXNuZXhMU0hnNmFmVjV2RnlPbFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nucor Corporation Stock: Is NUE Underperforming the Basic Materials Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkVkZVJOcEcwVUlwV2ZvdDZwMERJQzVzTU93Q2NEWHJIRVZ0R2FnRjFGenJ4dDJFT0d5S2J1RzFxNkEtQTRaa2d6MHZGU0hsMlN1a1FURFlrUXVTMGZWMXRHYllIbnlnbzg0WVBMSzlFZmtDQmJFa2t3Mkl1NG9jZ3BTLXZRc0Y4Y0V3TUpLdDhNelh3YXNvTW1qT3FPODg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nucor Remembers Dave Aycock, Former CEO and Chairman | NUE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFVJbTZXMGY2cWdrckJXX05RaWFtdTRxUjc3dl9pbDFZTjJCRG8zUm5QQm9QXzR1OXNvY2pkWENjZzBha1VjYzNYdlpBV0JjaTF4WkhsNG5xa1p2c2xKaExqaEt1ZDdJT0ZVQ3NSblpQWFYwbjJBM0l6dWlLSnA2WHBNNy1UNVNnS2s4UmVGZFFpRGlUdjRuS0pYeDFraVhaLXA5dnVtZEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NUE vs. STLD: Which U.S. Steel Giant Should You Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NX25hWUQ4UWV2Qk9MZV9NY3hUMXBfQ1J4cDBKc0xlSEc2c3ZjeGdQYVRsNlVhQzZvLTFQYUhCU28xS1BKMXpFbFVEWWVXZFlvRHRnNE03Z2VWRlpMcFhXcHVZSXF6eDFzb191OFdTTS1BYzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy Nucor (NUE) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3VxMm1wQV95TVNCcmMzQmc0a0FYOURPbmJyMGNrU1VHM3NCV2NsTFU2MllaTmZkc2RRYmRsYnJfTm5GVElqWFhhMVRGUFJqU1hFWGdvNkRHYk1mNkRfRGdRemNCWW1uZThleXpmLW01QWVvNTh1M0ZKMlFicDlYZzB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nucor Corp (NUE) Shares Down 5.58% on Jun 11 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM19BY0hmRUxoNDdlTExGdUFZcTRpcWJ3ZkxKREthWmtERFJ3aEg1QU1SRF9ZZHlwTmVBaGx3ZTZoMjJrOGUycEpicHZwZDRZV2xvb2FLM0FEaEZQRWwzNU5DZ3B2UWJTQnlNNmpPRGNObHEwX2F4V0hlaktUV0sxY0tqY3pFZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Was Jim Cramer Right About Nucor Corporation (NUE)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORDNWZUQ5czd5T1dWd3o5U1NPVmp2Y2ZMUGdsS2VzM1J3NGUzQUQwV0ZWblBRSlJTc2pfT3FfYTlIZkkzTWo2T1BIRUpQS1Rub2hwNkJ3bHFDVXQyUkZiTmFpVHpGZFNjSVlNUkRRUzh5bjNtOFNpVG5OdnBScFZXQmxGZmw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nucor (NUE) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3ZUOGVsVEs3SVJqNGw5LVVKS3NFVmF5NlF5bVpRc0lhOFhnSjlNRWdpbjhfYzV5STJScGxyWkVVNWFBcEpmY3d4N1Q2ZDF0SmpSSnJfRmI3YVA1aU1BVzZNa0tSSm9mWmV2QXNpOUh2WFV5aG9mX29ucURGNGQxQUx2LXA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Jim Cramer Says Nucor (NUE) Stock Can ‘Go to the $80s’ – ‘The Best Steel Company in the World - Yahoo Finance",
@@ -616,8 +636,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Nucor Trades at Premium Valuation: Buy, Sell or Hold the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdW9WdnJtcDN0c3ptRU5STEt2X3pvdURMUG04eXJLUU5QYVRQQi1sbEx6NWRjSVRKR0xzNHotdlBFbmN0ckJGQ2N4WjY0TmIxc2ZNR1pCb1pybjh6RUlUTmJjQTBydlBjZl9uNENrcklMUF9laGlBQ0RJNnBDdDlzdkM1aEROZzA?oc=5",
+        "title": "Why Nucor (NUE) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SY0M5elhtenZpWGlpMm9idVNnVVpVdnRwR3o5TWxKSDdEY2ZqZkFfN2dtVnFGaWsyYTMycjRUbE85bkF2ZDZvYlkwVzFXSWxJejR5bHRTblV0bTUtLUVkdHJXeFdsYy1kUlpQS21iZElJY2hlTThXdmtxUDMwS28?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,36 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Stocks Poised for Growth as Trump Doubles Steel Tariffs - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EVUU0anh0WHp0V2s2VXNqVHZVSXllbnM2Y2dxU0VsYVBHLUxZclZzbDNJcDBjc0VYVm4yNzhzc2M4dGRzWWJDZjJjMENsWlV2bVBRZ3NKOUhqekx6cEFtdVByNENQRjVrWDloMUVJSUltd3VQOFVzb1o5Z0RRSWc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nucor Corporation Stock: Is NUE Underperforming the Basic Materials Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkVkZVJOcEcwVUlwV2ZvdDZwMERJQzVzTU93Q2NEWHJIRVZ0R2FnRjFGenJ4dDJFT0d5S2J1RzFxNkEtQTRaa2d6MHZGU0hsMlN1a1FURFlrUXVTMGZWMXRHYllIbnlnbzg0WVBMSzlFZmtDQmJFa2t3Mkl1NG9jZ3BTLXZRc0Y4Y0V3TUpLdDhNelh3YXNvTW1qT3FPODg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Nucor Corp (NUE) Shares Up 8.36% on Jun 2 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUndjWU0wWGNPVnVvcUVVamc5N21RZHMwVDBtalNtUS1ZQ3dyQzRzQTFNSmtIckdkNmYwMVY5VVk2Y2I3cFdXS3c2ZzBiNlNWbV9UZXJ4SG5tdV9KMlFoNldqNUVCWE90Wm02N3VGWXRHcktNODVFeDNYMWc5a3U4dEVDVEpIUUJuMElqWDlLeDZmRFFDaklmTlR1NTg5Tk9aVGdSeExYT1lqM3dsbV9hY2lTYlhENWFkMm5LMHlreUtUa2lZU2tXVw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NUE Stock: BMO Capital Upgrades Nucor with Raised Price Target | - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBzU3g0MG5iWWdvVk9nc1B0M2Zfem9kN3VqZzRIRXpuSEpNOHVQRGs3NURGNUxxUjdLbGZSMkNNNm02eTkzWk4wSFIyV3VqOXpYZ0x0U3cxejFwN3l5N3JaTHBuSFNibUR6cy1aWWY1OU1RM3FuUDI2SGQyOHZyLUhKa2p6UmlSbUFhX3FPbGY5RzVYcHZTZS1BcnRxVjlUMlEyVUY4bkNFeU5Zb251bk01Y0tBUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Nucor Corp. (NUE) Skyrocketed On Monday - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlRRNVE1MXNmdVBRMmNiYXZMbndBd29FbjVMRUFhSXlndlRpTy1LTUZ5aTBUSGdUQkJaaHJIQ2NmUjRTb3lSQWlrNkctMy0tSFpzT3ZBWWtHY0dHN2xVSXlYbjRodHFwc05saHRtaWNrSjRKb2xMV2lKRTY0Y3N4NTRjakxtTzZYLTh0VNIBlAFBVV95cUxNQm9GTWpqTkhfalk5WTluaHdLU1VCaEszQVFxZ1V2VzlSYWdDeE5mZGVCNm90clBCcDc2MU5LX040UkFpVnB2M3JmSmpUQUVTUHl1eHB5VkNlLUhwVlZMaGpSdU43TXFoUU9iblo5VXVEdERYX081LWlONDJ4SkJWQm56SjkzTzRuaGNueVBmVExnVFVn?oc=5",
+        "title": "Jim Cramer Talked About These 13 Stocks - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdKVVhCeWl0VE03elhIMTlHN3NfWFdKMUZOVzd2X0xoX1pOaU5OcGRCY0VQcV84RW9nQTUzdFNOS3dVZzJtOGptdEpCN3pQbFFjM2VTaUl5dmpfNUVrZTZKVTJhajRVWXFBbGJsSTM5clc4eGlRTVhLNnEycTNpNXlhTjRqaEVOVkxIUg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Noteworthy Monday Option Activity: NUE, ADBE, MHK - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdyTVVhSUw1dEQ2TllHRTNna0J5VDQ2QmxwVmZFUnVMemFYTWxiUTJBTmNnZHhRTUY2MjJObHlzOTFwVVg4Y29QcUFhalFZcTNTa3Vub1c4Y2xrSUhFdzFqekVDOXNzcDlicEVfb2h6LUF5N05scS02ZmRCLWg1XzFqS2w?oc=5",
+        "title": "Jim Cramer on Live Nation Entertainment (NUE): “Big Time Winner on Our Hands” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa0ZDNmRPdklhNVNmRjNhd0dTRE9qX2J0ZjV1UEs4WE5zZUhPTjJEckFERHNUYjAyRUFvNjh5Z215ajBTVFY5NmVMVWhzX0pkY2RYRFVveXBvRElWM0NRbnJSUkFTYnRYSHVXOEZRSXowb09yb1E4TjBmRmc1ZkFMMUJOTWlYOVUyMVE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

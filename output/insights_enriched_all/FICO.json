@@ -2,13 +2,13 @@
   "ticker": "FICO",
   "name": "Fair Isaac",
   "sector": "Information Technology",
-  "market_cap": 43237675008.0,
+  "market_cap": 43314352128.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 76.53081,
-    "PB": -38.48177,
-    "EV_Revenue": 24.742,
-    "ROE": 0.18977,
+    "PE": 76.69957,
+    "PB": -38.550014,
+    "EV_Revenue": 24.906,
+    "ROE": 0.184080005,
     "ProfitMargin": 0.31357,
     "GrossMargin": 0.80831003,
     "DividendYield": null,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.3007423587164118,
     "ROA": 0.28702998,
     "PEG": null,
-    "EV_EBITDA": 55.045,
+    "EV_EBITDA": 55.412,
     "BuybackYield": null,
-    "PriceToFCF": 78.10505387406324
+    "PriceToFCF": 78.48503365907577
   },
   "technical_indicators": {
-    "RSI_14": 44.43727922002927,
-    "Momentum_10": 4.467399395836937,
-    "MACD": -64.31857090170661,
-    "BB_Percent": 0.3879096010590525,
+    "RSI_14": 45.741252829557446,
+    "Momentum_10": 3.2572919523174253,
+    "MACD": -42.37188554750173,
+    "BB_Percent": 0.4909870109920332,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9411435156484376,
-    "QualityScore": 0.3951429972448402,
-    "SignalScore": 0.5905892546649572
+    "ValueScore": 0.8343888980154343,
+    "QualityScore": 0.3950703570899996,
+    "SignalScore": 0.5950400651611074
   },
-  "volatility": 0.0308707584301349,
+  "volatility": 0.0304172986106783,
   "beta": 1.29,
-  "return_6m": -0.2510930501812863,
+  "return_6m": -0.1795664409705201,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 2227.11
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2172.69
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2196.05
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2190.92
-      },
-      {
-        "date": "2024-12-13",
-        "price": 2168.89
-      },
       {
         "date": "2024-12-16",
         "price": 2170.49
@@ -537,28 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 1775.1
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1749.41
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1785.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1805.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1784.37
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1784.57
       }
     ],
     "current_price_data": {
-      "price": 1775.1,
-      "change": 3.59,
-      "percent_change": 0.2
+      "price": 1784.57,
+      "change": 0.2,
+      "percent_change": 0.01
     }
   },
   "news_sentiment": {
-    "summary": "Fair Isaac Corporation (FICO) a récemment été au centre de l'attention des investisseurs, avec des fluctuations significatives de son cours de bourse. Les inquiétudes liées à la question du prix de l'immobilier soulevées par un responsable du logement fédéral ont pesé sur le titre, entraînant une chute de 8 à 10%. Malgré des partenariats innovants et des distinctions pour son leadership en matière d'IA responsable, les préoccupations persistantes autour de la privatisation des GSE ont continué à peser sur le sentiment de marché. La société a également fait face à des baisses sans nouvelles évidentes, tandis que des rapports alarmants sur les défauts de paiement des consommateurs au Royaume-Uni ont accru les tensions liées à la crise du crédit.",
-    "sentiment_score": -0.55,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.35,
-    "negative_ratio": 0.6,
-    "bullet_positive_count": 2,
+    "summary": "Fair Isaac Corporation (FICO) a récemment suscité des mouvements importants sur le marché. Malgré des déclins répétés, les analystes maintiennent un avis positif, avec des objectifs de prix élevés. Cependant, la vente d'actions par des cadres supérieurs et les préoccupations concernant les coûts hypothécaires ont pesé sur le cours de l'action. Malgré cela, certains investisseurs voient des opportunités d'achat après la récente correction.",
+    "sentiment_score": -0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "S&P 500 Gains and Losses Today: FICO Stock Falls as Federal Housing Official Questions Pricing - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTZHVVJzdWhvU2NIU1doNURtbFQxQm9WSktkVl9KNThRcnRMODhwcGJTb1M1aDJJQmpJeEpOYnNaUVlCTXlVZ3J2d0RXSmZaRGtWRVowU3llU19qbS1PQ0MzckFiemVxczMzMWQ1SWQzdWx2aGN1OWdwWi1nYmd3WWRuQmR0OU93UmItcXZuY01yQm15MDgtUGIyYXVsVjVIM0lfcktmWW93dGJuVHA3S0xCbnZqZzhQbXBFS29tVlpRWHdGYVdaZWFCaG5CeUd3?oc=5",
-        "label": "NEGATIVE"
+        "title": "FICO Stock To $1,000? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0d3Q09HMzVDNTBuRmw4dHE0Zk14VXY0QWpJY0lWTHZ0QW5HbGJmSFBDa1pVWk9QbVU4RHRMeWlrVXlhRVVBWmV2WlVPdVJmeEVOZ0FScXl3cVVsTURLODk3U3NDVEQ3WFJWaG9VQjJHSVNieHNjblFibFZHZC12MUl3VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RBC Capital Reaffirms Positive Outlook on FICO with $2,170 Target | FICO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEU1UjRkUXJFcXdmWmt0azY5bFdfVDh0V3EwWkVkSEtlcFdyVklWRzFtdDhTM0VjeklEVWFUcVhoY2xNcG5JVUZjREMydHNOUzIyS2RrdTNXNXJEa0RmTG5KZ18za29CeXlVb1BzU18yRGZ0MXVxUmdydFpIQlBLSzVYV0FUX3YtVEVZQVRYanRuTDF1T2tYV2hCdDFjN1JXbl9samxhTDVzRUR5MU16d3ozRFRhTk4taEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FICO Stock Leads S&P 500 Decliners Again - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnlzLWJRYWd3RXZaZ3NCWExMVTAwZFNaaUk5QWJ5YnRBSG5sMlI3alhRUzR6Y0I1UEpZRWZ0dzF6S19mdGx2X2x5TVpfTXVKMEYzcGZjMVNWZWFGcnE5S2M2U3U0UDJhN3kyZl84bkZidXNvTW1CbDN0ZEhDMGFFc0M3NEtsbDhtYWc?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Fair Isaac Stock Is Sinking Again. Here’s Why. - Barron's",
@@ -566,13 +576,53 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "FICO Stock To $1,000? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0d3Q09HMzVDNTBuRmw4dHE0Zk14VXY0QWpJY0lWTHZ0QW5HbGJmSFBDa1pVWk9QbVU4RHRMeWlrVXlhRVVBWmV2WlVPdVJmeEVOZ0FScXl3cVVsTURLODk3U3NDVEQ3WFJWaG9VQjJHSVNieHNjblFibFZHZC12MUl3VQ?oc=5",
+        "title": "Insider Sale: Executive Vice President & CFO of $FICO Sells 1,000 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2gxLVhHcDlhYmd2Tmk5S2xpYjRIak0yQlhYYXQ2U2hrVDB1Z3VLVUc4Vm9HY09NeVFPbmk1ck1Oa0FUeENQVkxiU1ZHa0d6SHJ6Qm5TZUZValF2U0xHRzNZc0NKSGhDdE9XSWtoaVhuTDRaTWtNWk1xcm15VjlabnBNVDFjc0E4eHVzajIxM1ZtamwzQXpkZ1l5YXQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Fair Isaac Stock Dived by 8% Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkpDLXpFQk9iQlRfcG1OY0xnZlpXM3ViamkyemlIcHF1bi1WU2ZzQnNpRDlfcjZGYXVsNEdodlN0R0hvWVF2ZXJ0V01vcms3d0lveHlTRHozOW5wZUR6NzVWaUVIZWY1NGYzNDEyaVd0VlpPeVRoRGVSblZ1MjdDWnp5Ui1PUWc?oc=5",
+        "title": "Trade Alert: Executive VP & CFO Of Fair Isaac Steven Weber Has Sold Stock - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamFsUzhvY3NqNjk1VktzNTJJaWFsUTdDVXVPV0Vfc2dkY21NTFRucmRTQi1Yd3M5S3UwTGtTVDBtdlNHX0tQVVNncV95TTNRNC10WnZuYUQxYVdMVlVLb0s3TEx3dnJCTHpLejRDcU9CQXJ5YmdPQkhRS3o0U0tqUzl5djJvVHF3c1M3WkNTdXE3V3dSV2JBN1BrNnhFempWWnQ3T1Qxa21jRjFCRU1xamNaajJzVHFjYm5Md2lLb09fZk5l0gHKAUFVX3lxTFBXRGNvYnl5Q1JTT2trNGVfRGdLMG5Pei1pRUhYVVItVk5jcjExTEFkUkJYS2Z4aTlXQzRIV1hwYzU0emhhOG1adjViMnNMdFE5RzlMUU5XUTR6aE9aSGFkdWpCakhVWTN5RVFIS3RvNjJocWV2WkJrQ3FXUk5aTlpDOGgtdW4xYjVoSlBIbUgzWHFOTm5jRmh3c3c1dGh4WTZsemVCUE1pTDdMcDlfeEQ5ZVp4bHdPZ1pqd0FOczZ1aW1fQkVzZzJUWFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fico Stock Is Crashing: Look at Its \"Upstart\" Competitor Before Buying the Dip - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3pFSXpOYkkydVZ0RGhNX0EtamRsRVptT3NoQWpfVkZqdlRISDNtSVgyeGxHcUwweDBmdGRxaC1IRUhWc0lpbkg0eVB0bTljSHZ1bmYwS25PR0VLY3RpekZab2NOakkyMGpEZDNCM01CRzVmRUxQTFNhYlFDNVVkcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fair Isaac, Credit Score Stocks Dive As Agency Chief Targets Mortgage Costs - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RlcxMkk3b3I1WkdBTDVTakR6ZkJSZWRUTjdYY3BPbjJnSDcyeUJYdlpaUy1ua3Vhd1FleGdzb3I4a19xSkFaajhxRzFfOG0tUldveEJiZWZVLW1XcFh3VGF1M0N5amxCdHhGdzNiTHlEbUpQeHVZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fico Stock Is Crashing: Look At Its \"Upstart\" Competitor Before Buying The Dip - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUZDUV81bFZ2TTI0cUI2eElFR2pGTDBCQ0gzdTN4OUlMNld5Y2YtblZQQVo2WkhzODNqb2hndVFBZ042RnY1Y01CVFQybzNtdUctYUZFWnU1YWRzSlluVlZqYnlPZ0dGcGx0dzJvT1hNNWw3Y3dOMXdUZmdjTWFzTXBXdjZic0dnZ0FZR1lfWVdyeFY0LW4zaTJYbV9RaU81OHdhYmtuTktSVk02eGVSTXJXNGQxTkNRMDV3cg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fair Isaac’s CEO Makes a Multi-Million Dollar Stock Move! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEg3Sk1zdUxjNi1aam9IQVRZNWpKemdfckM4aUhZT29ZTFI3SThTb291ZHVQZjItQ0RwNDk1YnZyRmRQOVhMQVpjSmFod0Fra24tWFRBUGpCTllfcElqVm5mc0JjSGZibzVJOHNKcTAtMkdJcU9iaGpGY2pDRE9wX1hYdC1leTJYa2VXaVpJZW5PYVB3VXBSc1V5Nnp4MG0zUkZFVFpNR0hTOHAwV01GT1B6REFvemM0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FICO Stock Leads S&P 500 Decliners Again - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEhyYXpfeFhhVktuS09VLUtOaHpIRFNfTXI2ajk5YWpiOE1RYUFfX2tiT2x1QlQ4dTBJU1RFdmU1ODU0V3UwT3V3VXFTU1J4OGtLRGFsdWZKa2tndGxZT3B6RTBoNHpqOHZCUDdremRsLTBtcEp1UTdCUXBuZWNxQ2J3enplLUJYZzk4Wk1DX1pURzBhVDNaOUxpRnB6NWNOMWZCUDNQRTV6S3NPTmZZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fair Isaac: A Powerhouse Proposition For Strategic Investors (NYSE:FICO) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnRvYXhVQ081TlRlc3c2SUZQNm5XcGVYZVpfdkMzZzR0Z2RmMWdySzJuUkF3d2RDRGM2NThxUE8ya0FVME5oTGdRdldGQ0l6eFYwemtFV01rU3lyWE1sRjFXYmljVF8yYzNuTlhHNmJWcjV2cDBEM05xNUNNMi1lYUF6MFMzWG55aUk3Y2luSnFNM0N0TWFIS2ZXQXFSRkdYRlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: FICO Stock Falls as Federal Housing Official Questions Pricing - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTZHVVJzdWhvU2NIU1doNURtbFQxQm9WSktkVl9KNThRcnRMODhwcGJTb1M1aDJJQmpJeEpOYnNaUVlCTXlVZ3J2d0RXSmZaRGtWRVowU3llU19qbS1PQ0MzckFiemVxczMzMWQ1SWQzdWx2aGN1OWdwWi1nYmd3WWRuQmR0OU93UmItcXZuY01yQm15MDgtUGIyYXVsVjVIM0lfcktmWW93dGJuVHA3S0xCbnZqZzhQbXBFS29tVlpRWHdGYVdaZWFCaG5CeUd3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fair Isaac Stock Is Today’s Worst Performer in the S&P 500. Here’s Why. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5MGhack5YdVRZZE8weDN1QmlpbUY0ZS01QlFZbVVhQ1dDalpaWDFLdVlZNmhtblZFb2Z4bUI0VzBLZXU2TS01NkU4alRKXzNEeGtsNktWbWotb1B6Z2VXZnNzNFFOeFNqOE41NlpRTzlsNFp5R2NTS0R0MA?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -581,63 +631,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "FICO stock resumes decline after FHFA head Pulte says he's still unhappy with company (FICO:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0U0TzhuWkpvVEUzVkg5XzJQNjlOdXRQVjhqYjdJNFdQOXBkSnl6YmNjOWFNYWM2MHpRb0dTSzJaTnllR0lzWkhyU0M1dGc5MEdqNm5fZjlxZ2l4U3NGMklTRGx3RlF0amJMeGNKMGM1cUNjRUlfZ3BkdXQ3dFVTVThiWVNMQk9yMWNPWFJISXh0c2REQ0Jmb1VLc05vR3FYOW5SQ0dqa0s4dHBuMG1oSnlVcnc4UjNKTEVHNTVaRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FICO's AI Pioneer With 103 Patents Wins Banking Tech Leadership Award for Responsible AI Innovation - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUZGc3VwSWVHNUI3a2JKelBmRVVlN0RtVW54anBRVFF3ZmEzUjF6enlaYm9ueEI2RTQ0LXQ1NjhscWRJbHdob2xQeWZkYTZrQmEtamxMQzFsaWVMTGNTYXh3cFdXRG1yYkhEWlVlZFo5Mml0ZmdHeWJ3cFdTemhFbktTc3hrb2dPY1FUS3pkTy0xeEZmaWE5M3pfT3hwM3BCSEpkTWNGOXVvUHBQbWtpMmVaZE9yaG5EUzIxak1DTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Fair Isaac stock tumbles on GSE privatization concerns - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVNSQnFTT2ZQT3hiSXRLc1ZJaDZoLS1MeS1jZnNNUVRHNDVJVjRfbHRfR1pMNmllM01tVENkU3lXRk9Rb0VzM21PdmFObzBEMnpTaXlOZTVFOU9GTEhUb1VEaXpfRVFBa2VvREtwOHVfQjFfSHI1RGVnY0tjLXpFZTRqS0FYaFhpSVFwUWFzYUE2N1pMdjYtWFIyVnNhRGRzcVh6VFYwSTAya1JCZmlWZWo0WEdDQmM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FICO Stock Leads S&P 500 Decliners Again - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnlzLWJRYWd3RXZaZ3NCWExMVTAwZFNaaUk5QWJ5YnRBSG5sMlI3alhRUzR6Y0I1UEpZRWZ0dzF6S19mdGx2X2x5TVpfTXVKMEYzcGZjMVNWZWFGcnE5S2M2U3U0UDJhN3kyZl84bkZidXNvTW1CbDN0ZEhDMGFFc0M3NEtsbDhtYWc?oc=5",
+        "title": "Top Executive Cashes In on Fair Isaac Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnJMNlFBbF95UmVPMEc4bXZkcE5URlcxTHdGaGZoellDczZNSDVQNmZVeFZPOUNhd2YwMmN2RDRHUlc4MFBTMkhkb1BGZ2lGZWI4LVpuUFc3UDJEbm9nR1lCaWpobDI0UFZELUYzbk5aNkZCVHNDRVdaQ0F0cGpPUmpYN2tMNjZ2cFplZmlZTXdva2FBbi1hY2VFY0JKMzdrQ29iLWFicTI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fair Isaac Stock (FICO) Leads the S&P 500 Lower, Falling 10% on No News - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeG9Oa21hVEFHQUgxMkFWVjNUMFc5MWIzUFF5Q1FBN3BpT2V5S2I4SmtRSWNjLTJhdHFISGpmRlpyLUJheGItaXZHbTlhQXJWVmNxVVlseFNMTExNejQtWDl4LUxkSHRTWXFNYmh3aUFDaVBMRHhuMHNhTnFoVDZfYWd2M0dnUWpMQllsb1ozRENlTUg3bThCRmF2UE0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FICO UK Credit Card Market Report: March 2025 | FICO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTY5eEhmd3BMRkp2VGd2X2sxUDFTUXQzRHo1TWVkLUt0RTFrSjJ3aVd3dnE0V0pud3hzSWZPdklyUjNkNWJfYWMxcmw5VFdNc19zaXJCbkZjVUpUWUx1MTdOZ1ZnSVhWblR4V0ZPODNMcVA5R1NLdWp2N2VFUFhfLWV6a1VnX0pnT3NxV0hkN2NZMGlBODlNZ3I3anFXWmtqSTNNc2o5ZWcwQUF0ODVsc2daeHdLRjA4WmE1NjFXd1kwT1NPQnhtbkZKRXZ1bkRE?oc=5",
+        "title": "FICO Stock: Analyst Reiterates Buy Rating with Unchanged Price Target | FICO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWtmV0cwSmNqaXl6SEVndUt6LTRzT3RTWlFBN0NJSTdXVHcxYXhmQ3N4dE00X00xRlM2aG9Bdl9pQktCUHNLajFXUVgwcjgwX1NOOHVpU3VYWksxejE3U2ZFTkxiSnlSWW81ZG1fTkRUajNoN2tFT0lkR2RkanlfTk83andGNFc0WVd5THJfNU0xLVpRU2t6S2g4alp4ZVhrb05XLTUxS3hmQ1JjWVZxbVIza1VpdHBXM0VnOHh4LTFVQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jim Cramer and Wall Street Are Bullish on Fair Isaac Corporation (FICO) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzdRQ0ozZ2FYeWtCNGRYSWNqWlUwZElHaEs4QW1XcEl4M2prVVQ1ajJFTG0wc21xYWl1NURoVWpCZEtSMVdKT3ZGQjNBVDg3cHRpU1hZTFg2RFNTczVMQi1VNGh2ZC1hZDNNYldIc3NDV1hKRWt2Q0pvZWhsYU9iZ1BR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fair Isaac Stock Is Today’s Worst Performer in the S&P 500. Here’s Why. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5MGhack5YdVRZZE8weDN1QmlpbUY0ZS01QlFZbVVhQ1dDalpaWDFLdVlZNmhtblZFb2Z4bUI0VzBLZXU2TS01NkU4alRKXzNEeGtsNktWbWotb1B6Z2VXZnNzNFFOeFNqOE41NlpRTzlsNFp5R2NTS0R0MA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Fair Isaac, Credit Score Stocks Dive As Agency Chief Targets Mortgage Costs - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RlcxMkk3b3I1WkdBTDVTakR6ZkJSZWRUTjdYY3BPbjJnSDcyeUJYdlpaUy1ua3Vhd1FleGdzb3I4a19xSkFaajhxRzFfOG0tUldveEJiZWZVLW1XcFh3VGF1M0N5amxCdHhGdzNiTHlEbUpQeHVZ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "FICO Teams Up With Golf Events to Tackle Gen Z Financial Literacy Crisis - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUl9kZmZpT2FIZ3liNVhHYVdsY0pFX3g1UUVydmF5SDVwUVc5VDVvQV9RNkVpS1RPTUlRZzd3eks4UUV1ck5PNG1ybzV5VWd6YjR4OXNyWnJCZ1VpeXZ0MEQxSURDbGtiejhLUWNISnNvWjZQZzJNb0JUNGsyeUg3RVIzWVdXUHh6S0Jtd0NIbDhFWnVwVnVXTEg3Z0dEdXRGWFNabVBPVThBbU1tRUJwb0l6blhJVnRWSktCNHNR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fair Isaac stock slumps with no obvious news; Equifax and TransUnion also slip (FICO:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzhwdXZoMENxck9LbWgzaGRDYjNHek5RMk1OSEJuQllmOGZYbk5GX3dlS3hoXzFydWI2SWlyZS1wNjhGVkVIbFMyS3dSQWVOdlRjZVlvVFYyOTRwbHlHbWF5WGQ0d2JWWWpJczJMNDVubVhXNGs0LTFoRjhPSnYxb2JPZVhCUkRzWjBycmhPVGYwOFBTY0FtdWVEaWh3djlJWmxaVjI1LVBvODA0bGtoUVFwY283Zw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "How Fair Isaac Makes (Lots of) Money With Your FICO Credit Score - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzd4VHhmbF9LQkVpUEV5TF9feXJrcWtDWmpoLVY5eEVsdl94Y004ZVUzb3J5Z0UtVlI4M0I5M0RtQnltV0E4eWtNUnNkOXFYNXRVVXlaVEdBOWwyaTktZGNPcEk1Y0hGUDFhZkRtR1dSTFQ1SDBOWFhOTUh1MmhmWWF1TQ?oc=5",
+        "title": "Fair Isaac Stock Is a Winner After Pullback, Analysts Say. Don’t Listen to the Noise. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfSlBCV3VjRGo4UDBDclVoQmYwSm1zRlZsQjNjUGZoV1A3a2loaVhMXzF2S1lIMXJSQ2o4Zlo3NDhTS2VZU183TVNQcllwQWJtclY5bzUycU1lUndrcTJMOHF5THRza1NSem1BT25IMDZTbFVJVmc?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +651,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Fair Isaac stock slumps further after FHFA director comments on FICO (FICO:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWp5NVNZN3pFbk5yUHI2YjdtZmdYWmFzLU9yU0tDOG1IZVdmQ2xLeTA1SlJmSzRsUzhvTkRGVnRQd1FvcmtTdWZacTh3b1BQVjREQnVYdFJaQVdCWU8wWElZczhWSU9aMXEyVU5xNFNkNzl2VjNNd2xmNzRhREJUSE9VMlZqNm5HMHFROGFfckJxdDQ0eElNSDdPRzFNcWc5NXlLVVlJaktwUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Credit Crisis Alert: UK Consumers Miss Card Payments at Alarming Rate, FICO Report Shows Growing Financial Strain - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2xpYzkyMEF6T2tsc3JRR0trUGltTXJodV9SZmZjS3BUSjZ1QWJqUTVZVzJmM05YbkpCVzFDUzc0RXFvQURhRDFqd1I3VjU1dVA0LXhvS05JZ2NoUW1haTl3OTR5cmtKLTRucmpBNzJKOTBqYlhDRFZvXzdDUElWME5IdVBFOU85eWllUEpvSVdHUjBpYjVBa1R3?oc=5",
-        "label": "NEGATIVE"
+        "title": "Fico Stock Is Crashing: Look at Its \"Upstart\" Competitor Before Buying the Dip - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWdxUE5DX2w5aDBZd1ptdzBmZkhjRWpmcm5DTTFvcE5oOUlhVVFuRjB5YjZ2cGR3NFF6YmtvNXlqb3MzNUpGODY2SmZQRUNpUEFiRkR0aFlXZFNScmF4WnBUaEZfUFhhZnhvVmNQVkVFVTQtTGk3SFlGMUloOHRuTzhmTzFXc0R2cHdtSWxnNlVUNFFqc1FTdmh4cWx3eEZHdUJYMGQ2N3hZVjlmSkFNS1RNZ2Z1RjltQzlpWVBHX2VNOU1CLWd3a2pZQjdSNmUzV3dsWDhZYTJUZjJPMW40QmRJZ2p4cHp3VUFz?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

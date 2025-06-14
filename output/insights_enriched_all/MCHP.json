@@ -2,16 +2,16 @@
   "ticker": "MCHP",
   "name": "Microchip Technology Incorporat",
   "sector": "Technology",
-  "market_cap": 35379175424.0,
+  "market_cap": 35514028032.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.86514,
-    "PB": 4.992008,
-    "EV_Revenue": 9.026,
+    "PE": 15.855715,
+    "PB": 5.0110354,
+    "EV_Revenue": 9.463,
     "ROE": -7e-05,
     "ProfitMargin": -0.00011,
     "GrossMargin": 0.56068003,
-    "DividendYield": 2.83,
+    "DividendYield": 2.68,
     "DebtEquity": 81.675,
     "CurrentRatio": 2.59,
     "QuickRatio": 1.265,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.23979632133769538,
     "ROA": 0.01502,
     "PEG": null,
-    "EV_EBITDA": 35.297,
+    "EV_EBITDA": 37.003,
     "BuybackYield": null,
-    "PriceToFCF": 33.34552575577286
+    "PriceToFCF": 33.59082686918597
   },
   "technical_indicators": {
-    "RSI_14": 72.30346490381663,
-    "Momentum_10": 12.98879793269034,
-    "MACD": 3.653221399690537,
-    "BB_Percent": 0.994248476346888,
+    "RSI_14": 63.62930001693284,
+    "Momentum_10": 13.43899948195308,
+    "MACD": 4.114580190330557,
+    "BB_Percent": 0.709352315801146,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.927430153517479,
-    "QualityScore": 0.2912921071908277,
-    "SignalScore": 0.3610828438721992
+    "ValueScore": 0.8863690826280678,
+    "QualityScore": 0.2981370014750745,
+    "SignalScore": 0.447776011121851
   },
-  "volatility": 0.0461538406016,
+  "volatility": 0.0462550187056022,
   "beta": 1.463,
-  "return_6m": 0.1231866316284837,
+  "return_6m": 0.1154273808212043,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 63.8787
+    "target_mean_price": 66.13957
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 61.87
-      },
-      {
-        "date": "2024-12-10",
-        "price": 61.92
-      },
-      {
-        "date": "2024-12-11",
-        "price": 61.52
-      },
-      {
-        "date": "2024-12-12",
-        "price": 61.5
-      },
-      {
-        "date": "2024-12-13",
-        "price": 59.93
-      },
       {
         "date": "2024-12-16",
         "price": 59.08
@@ -537,62 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 65.25
+      },
+      {
+        "date": "2025-06-09",
+        "price": 68.05
+      },
+      {
+        "date": "2025-06-10",
+        "price": 69.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 69.6
+      },
+      {
+        "date": "2025-06-12",
+        "price": 67.93
+      },
+      {
+        "date": "2025-06-13",
+        "price": 65.73
       }
     ],
     "current_price_data": {
-      "price": 65.25,
-      "change": 0.88,
-      "percent_change": 1.37
+      "price": 65.73,
+      "change": -2.2,
+      "percent_change": -3.24
     }
   },
   "news_sentiment": {
-    "summary": "Microchip Technology a connu une forte hausse de 34% en un mois, mais des signaux négatifs émergent. Leur correction de prévisions de 1,02 milliard de dollars a suscité des inquiétudes, entraînant une correction du titre. Malgré des rachats massifs d'actions, des analystes émettent des prévisions mitigées pour les bénéfices de 2028, tandis que d'autres augmentent leurs objectifs de prix suite à des résultats trimestriels solides. Le sentiment de marché pour Microchip reste donc mitigé, avec des perspectives divergentes entre les investisseurs.",
-    "sentiment_score": 0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "summary": "Microchip Technology Incorporated (MCHP) a été l'objet de plusieurs ajustements de ses objectifs de prix à la hausse par des analystes de Mizuho, Evercore ISI, et Citigroup, témoignant d'une confiance accrue dans ses perspectives. Cependant, des signaux négatifs ont également émergé, avec Forbes mettant en garde contre la durabilité de la récente hausse du cours de l'action. De plus, une correction de 1,02 milliard de dollars dans les prévisions de Microchip a été annoncée, mais le CFO présentera une nouvelle stratégie lors d'une conférence de la BofA. Ces événements pourraient influencer le sentiment de marché autour de MCHP.",
+    "sentiment_score": 0.3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Microchip Rises 34% in a Month: Here's Why the Stock is a Hold Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3poOGd3VW1NUVIyQlZpOFRvVmh6QU1GcEs4c29CcjZFNm1GQ3JfaE4zQ1BjOXliZnpYUHdxWEE3dFdRSGUzSV9XQnVRcmZkVVFWaDlUd0lfOXpqWGdmSWZtZDVENXZqbnhIMndOYlMzTVhubTJvWHVNVTdpRTc3TlN3?oc=5",
+        "title": "Fifth Third Bancorp Sells 57,262 Shares of Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0lNY1UwNnQxS1k2RUJScjBfTHdTQjc2Sm15OWU3UTNmZGtBSkVfSDM4cnNqT1NmcFlqNkVLU09oS1ZKWkdtZDNQdWV5ZU1fX2l4blZEd3RwZy1nQXZQVkJlenhlWG1VQjZpelBvSUp2bG5VbmxXTnBtdE5zdnM2ZXJjTU5aTEdzdzVSREpXYmNfbGduQmk0cTFJTHJlazZhM2NGV3JzTjMzeUc4MWt6TzM0NzBRcVRXWTY3eW1hbWJHS2h5bnNLU0ZJWHY4djNDbnFDdUpXYS1jRUVHQm83Rw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Microchip Technology Stock Underperforming the S&P 500? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZC02U2N3eHhEbmxoWldSNlE2cVdBdmE3N2ZYeG1xU2pURE84WDRuMFBSTnFZNVFBQlA1cHBzVmdEdEpCOElkdWJINnZJUG1ULWtlbW5nSjd3TnMyWlFhZEJ1eENlckpJQ202VUkxQWRocEJ3cnNvakZpVmZXTUhKSlVjVG1KSUQzTWVPNkRCQUU4UDl4bUsxcWF0ZVU4LWxQQWQ0SlJJOENFdy0tQ2pnN2x3cGJiY19mQ1hDcm5zVlp6TFZ5eTF2VHpZaHJMeXhHbWhxVTVmN0dwNmJ1?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microchip Technology Corrects $1.02B Guidance Figure, CFO to Present Latest Strategy at BofA Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDBXck5kQnV3Wm0wcWtvMFc2M2lZWmJ6VnR1U3FSQUxXTEYyYUlQSDNFNFRnTlE5aTZueF9XYVg5bUx5WXl2dU4zSXI4bjFvVXYwdEctWmw1OFdYaUJaNWc3VUxZSDNiTmNjVG4yUzh5TkVaRjAtR1BGV2VaVUhiUlRUcVBuNWZDdHJzcmw1OEVkQlBYcE90QmJDdEJhYzlXRjVxeU85ZnR6WWdpQmV1SWp4U1Q0S3RhZlMwNExn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Microchip Technology Stock Underperforming the S&P 500? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWlJcV8wbFV4ZDVEckdTRjJ4YW9ldGxFVlhCYXdVRDhSdEdkd0k3elplQXJ2UDhfTVdHbG1EWndGSk91RG4tQkZEU2dKeDZVUkJKQ0wzRnVETk85WFRmZGtPQ1V3anB1TURuRkNTbUFKU05zSi11V3I5em9fUGhZNjZwVUhwcWM5VDc0bzd4WTVQR2J2bUQyOFpfVEFUQy13em5wTDkxU1ZYTXJ6aHl0UFVGQzNOWVVkV2dPOTMtMDJsVjBHcGtZWTQyMmNZaGtGWmZOeEVrZVc1RXhibWRV?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microchip Stock’s Rally Isn’t Built To Last - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1l1YzR1VmdCQzlTbkhXdVVmRWZuSDZBa0ZXNDlwNGltZjNadXBSNm5meDh6X1RjS1h1anVUdzZfNV9WVG44TGdvNnJXT0VZVHVkcHV4RzdHdU1UUlpnLXlyRXpOc3FROEFtNVR3VzhfUWEzWGM3QmRIT1lhUE9QckRkVnhZNUExX3AwTGczVlk1NFpGczF4V01KWl9DRzZsNlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Bought by Central Pacific Bank Trust Division - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSVo2MGJJV3BBZmZ5QzB6NWZpOFdTLTlydkF2ZHVPWTk4Tk54bmR2a3JHRmxNTUpRVWRuWXdjR3NfWEY4VmhKUmRyOUZWS2tBLVpPMXV6YlJMNENmZXdtM2FyNlZFMEE0bkxoLUpMc0F1UWZyaHF4dXp2OWZic0k5OU5RMWpTQzVIT2stbVpKTVRjR1g2cUZhSDNiU09wUl9TcUx5RjN6UVZJbzA1SVFTS2lRaW9pNl82c2NkbVdnNEN4d1RhcVQ1T2Zhck9oeTNmWTdVY01KSUo1aFNTd1NYS1dqbUdkS1EyNWh3MEhBRGVoN0p2clZWWlk2WFZNSEZ2bWVmNWxn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Just Four Days Till Microchip Technology Incorporated (NASDAQ:MCHP) Will Be Trading Ex-Dividend - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOG5zZ0Q4YV9fT3BaWEIxek1reWl1SEZ6X1NDV3pmNy1RbFJjTkhxVTd5TFBQck1sTFBxVnJmLVVaNkRxMEloUlBCMF82SWpFbkJxYXB4eXI4MlJmVVF3bGpNeXJfSEJRRHVlcVBVMHNSQXJZTzNlQWJjTGhnS2NfcE82NldOdzE3WVQ4czl1WjFoZ2xHaXFkbzBQV2IzRE4tU2NEM3N4aGgzbmJsUnRYNGhXRXlfQWxHNFFyajlKOXVHMVFiN1NLRFRsVmZ1Q242dV85bkd6ZUVQcFkzaHfSAeMBQVVfeXFMTVIzczJtdXV1WUZZc3F1LUhwRDJHeHNIOGNZQ1JGaVpFeGRsM21aNXJwZ2JfRG5idGk1VHpuYlJfc0tyVFgxWTRNeEhQOTRJakVtWE5rZDlMU0lTQ1JQUXdIMG9qamgtWk05b3NxNjFVUGt3LUs3R3lhWXN5ZlIxczlOOHEzVkFGUU5tbWtKY3R1My1ZYTRxVUpfZTRMVXNtdFBXV1JMN1hGdGJwUmo3YUhMQl9oR0g0YmJYYzdRamtKckJnWUg3eElGT1VsUXoyTWw0dlBkdUlkOW1YanQtaGdmWms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microchip Technology to Present at the Bank of America 2025 Global Technology Conference | MCHP Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGotSVpyZG44UWxYZmtZVlRGNzBqXzNYRGtzU2laMjBtMmE2dFV1QnhDVC1NSzJIbEtJUXl2WjFWZ05haDZhbVB6Tk12aXZOMmJwV3ZCelJiVTB2RjF2ZzR6VGU4aWVIVTh6VjBxNHU5S0tMYzBpTi1rMGxmR0V0ekw5THhfSWRpRXlHYUhYU2diZmNGTnB0Ym94NmFzVGNsYkhrYkVMcXFBR0s5X29rSmk0RWVBQUZRenhFMXZqSk9idXplV3BmSHdGMjFMTUJVWEVmUi1DQnJCTm1O?oc=5",
+        "title": "Microchip Technology (MCHP) Price Target Raised by Mizuho | MCHP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmhQcXhOVWI3V3I1clYyQmVzY1QzRmVFRDJwcktFME5mZldyX2cyLVJHSnJOWGZ6TVMtOHNpeVRCc2VOWnV3Mm5Pd3Z5d1l3cHFOWUtJT2pONXJ4anlteFV5SENwbEl2b3dfTkVQUlZsVWJsOC1sR2U2NVZucmo3ZXJuRU5UQlF1Ul94a0ZucGxQZDgzQTdNaEplWmFPTXphN1dzSjJOWERDdmFtWUdsRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +571,91 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Microchip Stock’s Rally Isn’t Built To Last - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1l1YzR1VmdCQzlTbkhXdVVmRWZuSDZBa0ZXNDlwNGltZjNadXBSNm5meDh6X1RjS1h1anVUdzZfNV9WVG44TGdvNnJXT0VZVHVkcHV4RzdHdU1UUlpnLXlyRXpOc3FROEFtNVR3VzhfUWEzWGM3QmRIT1lhUE9QckRkVnhZNUExX3AwTGczVlk1NFpGczF4V01KWl9DRzZsNlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Just Four Days Till Microchip Technology Incorporated (NASDAQ:MCHP) Will Be Trading Ex-Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOG5zZ0Q4YV9fT3BaWEIxek1reWl1SEZ6X1NDV3pmNy1RbFJjTkhxVTd5TFBQck1sTFBxVnJmLVVaNkRxMEloUlBCMF82SWpFbkJxYXB4eXI4MlJmVVF3bGpNeXJfSEJRRHVlcVBVMHNSQXJZTzNlQWJjTGhnS2NfcE82NldOdzE3WVQ4czl1WjFoZ2xHaXFkbzBQV2IzRE4tU2NEM3N4aGgzbmJsUnRYNGhXRXlfQWxHNFFyajlKOXVHMVFiN1NLRFRsVmZ1Q242dV85bkd6ZUVQcFkzaHfSAeMBQVVfeXFMTVIzczJtdXV1WUZZc3F1LUhwRDJHeHNIOGNZQ1JGaVpFeGRsM21aNXJwZ2JfRG5idGk1VHpuYlJfc0tyVFgxWTRNeEhQOTRJakVtWE5rZDlMU0lTQ1JQUXdIMG9qamgtWk05b3NxNjFVUGt3LUs3R3lhWXN5ZlIxczlOOHEzVkFGUU5tbWtKY3R1My1ZYTRxVUpfZTRMVXNtdFBXV1JMN1hGdGJwUmo3YUhMQl9oR0g0YmJYYzdRamtKckJnWUg3eElGT1VsUXoyTWw0dlBkdUlkOW1YanQtaGdmWms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why Microchip Technology (MCHP) Stock Is Up Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhTSGhkQzZTS1kwaDRPVXB0YzgxaFVSNnJHZGpHV1Nxb2pValJHQzd1cHNXekVJYWpJV25URE9pVVNBdG96eTcyTWEtRkE2cEctbTViVDh0a29MTGYxSjluT3FkNmpuUjA2dmcweW8yVDdhMWZUUmQ4cUM0aURpaDhVSVRLSTB4?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Bought by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWtLWnpObW5Tb0htUU9LMFFMUEVYU1BrX3QweDN2alo3WTRCcVR1ZHF1REdxNkhtLVpNdEwwZ2ZhaHFRZVJqSTNUOTh1Y0FCbGVSaWFrU2hTLUx5Tjk1dGVuY3R5SEZUNEt2NE1QUVN6ZVlJOUxuSXYyVVJCQ0J1WW5ldmtxandCWDhYdmJhc2ktaGRVWEZ0Ry01T056XzNvMjBKRkRxSENIUnlFdWQxUHIyTXJwQzV4cHpiSzluWHJjenFqQzJCc3hfUFAwYnNUaEwtRlZJREt6bURj?oc=5",
+        "title": "Long Term Trading Analysis for (MCHP) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXFqWWNFTjNfakdnSjJPWS02b3ExU1BiZmFqaGZwWlR3QktheHZZdHhmcWZoZWthMHMtVkVWUEd4bGlyTmVUR0JYQnNFanJfNzNmSHc5OHJFZEpjOUhmMWQxeUlIUExwcnBTbWRiVUFkOTY1UTZ2dUZidjl6RDJORUNrNnM3VVNFVDBHUGQ1Z1BQQkdib2NkZzFaRE83MC1tckNlSklfc3g3T19jQ1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Research Analysts Issue Forecasts for MCHP FY2028 Earnings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTBmRkRwcjBRUXktdGZPTTJIamtCb3psbGw4V2x0OFFlMGNpdFlLUFlJd2pZTjYweTR4aERSakhhMUxlTFliUExfNl9xX1BXSkR4eC1nZ3c5Uy1EV0t5cDFtMU9lQUdGbmJRb2Zub1VNa1NpSUhjSG5RTjhFdng1RThjNUVuaTZ3ZmRUU09EckdDNXlpMXJvLW5yZXJTSjJqblB6WEdERTFKcTVmQXFqQXBR?oc=5",
+        "title": "Microchip Technology Corrects $1.02B Guidance Figure, CFO to Present Latest Strategy at BofA Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDBXck5kQnV3Wm0wcWtvMFc2M2lZWmJ6VnR1U3FSQUxXTEYyYUlQSDNFNFRnTlE5aTZueF9XYVg5bUx5WXl2dU4zSXI4bjFvVXYwdEctWmw1OFdYaUJaNWc3VUxZSDNiTmNjVG4yUzh5TkVaRjAtR1BGV2VaVUhiUlRUcVBuNWZDdHJzcmw1OEVkQlBYcE90QmJDdEJhYzlXRjVxeU85ZnR6WWdpQmV1SWp4U1Q0S3RhZlMwNExn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Microchip Technology (NASDAQ:MCHP) Q1: Beats On Revenue, Stock Soars - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUZtcUZsV2h2ak0tUkFTRXN3Qml5Ni1EaXA2eEJCZmtpa1l2QTFKUV9uTFVWSkhMNDRXY05HUy1HLUNfZkxfd3htMllXVVFsbl9vb09MSTNDOUx4MWw2TEZJNEZ6SmpyY3FDLXZjR0U1Y3ZEOWxYMlZwcDJTR1JON2hiNFRaeXdl?oc=5",
+        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Purchased by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNT2E5Xy1fWG5VNnh4eldoNllRVjlyUTh2YzRNNzEwa0tSZnlvYm9TSEdPai1Uazlpa3k4QUVoQl9hTWs1MEZLSlh2NGxyM1NYOW5pRzU2TFhkdy1sS3hqS2ZfZUVYTmZPcHFlcmNubGYtRGFOVW93NmRMeFE1dVg1eHFKVlF4d0N1RzIwa21SUEZPTkVVbHVvY180U3F4Z3ZFMExsWG1TWHpMQXJDT1RSZkN0SjFVaHZXTW5hRnhJb0tNZU80UFBsQUVsdkY1NFY3U3F0OGR3MEpIcWwzNU9Pcl9FOG1FTXFocFZQbEZxQ2RYTjFraENnRzktQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microchip Technology (MCHP) Price Target Raised by Evercore ISI - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTJib2RZakdyYURiMXV3U3ZIb25rQXpRNlVxVXpmcTRTNERFQm91V1l6SnFSS0lqbVZIYk9rLTllQ2FseGVIeHg3N29zb1RfU3VRcFc2eXdwQzgzSU9mTHVaRnpkWmNVbTU0blJTUGJyQ2pLQTdHTXVvaV9hRmdVZng0RVlkbWNibmlZUTc5LTI3T3o3azhGWllWODdpeEFvQnlXdmotWmxINXM1MVQzTDNpblNzbXc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Boltwood Capital Management Decreases Stock Position in Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdjJ0X1NnRFFyTEFBa3BmbFRNLVo3U3JOeGZrZTJIRTNlTDZuaGZRcmZGalBpNTdyMzNReHZHLV9aUXFtdnQ2VUY0ZTY2Tm4wZWYtZEt6QVhRTnh1UmwwSWY4MEt0anoyMUhQZjlQSmp1R1Ytd05Xb1l1dlZmVXVwZXltU3RGYWs4RE5fZzVXOU5GYTNYWm5rSVE1WmgtdmV5S21acEpaT3pkOTdrN3JaN3RaZlEydGF3YjZqeERfLUJSREVISlZBTk54MVM4Vl93LUFhZVZ4TzNVQ0RQMDh1ZW9adjJRUGNuenU4?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Stake Lifted by Naples Global Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRkRXeVlORU5OWjBpblQyV1E3dzJ4RVBkazZBOGd1WFFMZUhFU1drSmktYWlHVUh6UU84d2lsZ0o0SWUtT0x0NXY3cV95bHJMRWpJaHV6ci02aE05UEJjQ3RPTzJmTzFlampQaWl0WE5jWU0ydDZRc0tubkVqRlpITGFJTVlOb3lfUThwVHVmRG4zeU81TzNiN2xiQjJRTEtybWU3RHJfa0hjSG9iYmlHWjZjeEFMNTIwRHNxcHZwM0QzOVpEYTI5amZoSGZRV1lSbGZuSEJSU1JzVVl1UGxkbzNTQnpDemc0Qmc?oc=5",
+        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWRmbm9OWDNYZDlOMnhtUmZhVHZNUW5FOThrYVd0Q0F0WWR2bm1rakV6elFlcmtETDFoQUV2OHBCRVpqVUJfWC1hN3JzM0I4bFdtQnVPNmh3UXNreWJSNWJ0UGxKUkE0X3lMOTVfSzdubkJHVmgxR29fd21IaGhBeTczb2hfVExUNThQVHlDLTFoNHZ1NXdPRGI5em1WT2M0UzZ1YWUxMElQbTVoOWRPZ3drWEJtZlBJeW5VR3lDN1NzT3FfQkhQN25HSEVxc0lscDNCWUNTMGlubExTQ05HQlppVlo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Stake Increased by Iams Wealth Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTJNVnZ2eEZnOWNsdEFwSGU0eWZPNVQxZXJuN3BpQjRzS3A5ZHdxWEVIY1dVZVNEakN4VXNLbi1TUkpsdFlHaFJfVHU1RVdjUDlvVkdqSVNEY2V3V3Fua2NJWGt0WEFRZmhqaGlRRHRUTUwtVmhQQ1lPcEw0MWlGWFNaZW9JNUZESFJCQ25ScEx6WkRCbnkyQ0MwdjJPTlBYZTE2TF9vNGNJNW9ROGhGdjhfZnEyZjdYSTRhU05JLU9HUzJlcklWQ25tcnFwM09zcE15aHA4RFZwemZ0REFLSmtqbkM0Ni1H?oc=5",
+        "title": "Microchip Technology (MCHP) Price Target Raised by Citigroup | MCHP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTRIbUZzcGwzN3lQbEVhYzFXam05UDJLaDBzNDQxeWhZWGRwd0NsVTY1RXFTU1ZoU1NtQ1pORzRfdnIwaDFKVDgzMk9wdENYYXdMejJZMHVCcUxYbjhGQnZySjB4ME5zN2V6dlgwVnNaM0Z3VGE3ZnNGMk9kdHJwdGpjXzJkTTMwOHc4RTNiLS10dURsWEJVX181bkUtREVLSGJfa2h5RExpTk1RbVhxXzh3cw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Buys 7,093 Shares of Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU1d3dmMwdGIyZ1V6bW9hQVNDYS1HclpsaU9IN0wwZkRKWjlTTG9IUktyZVg1SXRvcno4UG1OaWpJWHRScFlEcXNMX2pmS1drX2E5aHBJQjJmQjhwN0N3ejk2UHV4b1BtSnRuRWxOSDJHc1Qwd3J3TlpyR0g1Y19iWVByVkllSG12UUVlaEloWmttQXRDblQ1SVhVYk83VVRVcTlSbTVSd1FORGhLMjZ5OXVxMExSZDVvc3J1V1Z4SDk0bEEteFpZRXVUdy1vWTBrYmhmOElTTnFRelEtT0E?oc=5",
+        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Sold by Procyon Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3dfRXNRaE9heVVxMHhjd0VzdkNFQXBIbHFSN0xaR09abEJNNTJ3LWhfekwxWHhpNWRjc3lVd2g5c1lvNnU3dllOVW1Ud3JuOE0wd3NPdTQxZnNVUW9vUklhWUlycXlHbkNvTmFDd0EtdndFNlF6QU5jYjU2bGFlZEotY2Q3OUc2UmdRUW5KUHVkU3d1X09Qc0xuVlNxLUFmUXZwZHR2OHozd0JwUk5xeU91czlhTzdhVWFvTHBZQ0lQN2MwVGhfNVhWWDRFcmMtdk96dDdhUGcxRGs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Fulton Bank N.A. Sells 6,118 Shares of Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ21RblpBWGZhYVR0U19uWjZ6RWpNYjFiNUM3NG51WE1Pd0RTQ2ZGQUpwN084VzdCNWY5ekUzaWZLbFYwLXBUbW5yMjBXOXh2eTlzREY1NWphQ1RqU3NiNUFjYl9TRmNVb21sZk8wWjRuOHIxQ1dRTkYzbUNXM1k4b2hoQ1hkOGVmNDhMek93amNSMXdYMUhORFlhRW9kX1NyVGtybk9wNXFUV1hBWUtpdmhfMDAtN2ZmVXJUeDljTTJiMWhneHNtclhLYkpPLWVzd01hTnpkQkM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microchip Technology (NASDAQ:MCHP) Given New $70.00 Price Target at Rosenblatt Securities - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObEVZeEs0emZlQjN3eEM4LU1MRE1JZ3NhSGwyVndxVjN6cHFDTGo4dVk3R0ZRQUN6LUJjREotOWRzMDlqQnlsbzVWQW5wcDNtOXpjSERIeFY0bFBJVHAzX3V4TGhvdC1ZMHpOb3JVTGk0OW0wWGwyZ1VUTDlPSWU4azFEdEZDd1hxYTdFSFFzWmFEUzdfcVFOd2M4bTZJei1mSDE2aEhXMU9Ocy0xMXlHTGN2aEJPVnptMTVTdWkyMHExQU43dV81Ny11LW9WRXY4elNqTmV5ZlpUUERUSHM4a3BNZDhfUVM3?oc=5",
+        "title": "Microchip Technology (MCHP) Price Target Raised by Evercore ISI - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnV6bWtaODRmZDdHZXZRNDFkUVIyX043ZzJFRHRzX3ktV184THhrXzdWSGczb2F5WnF1OG5ZdUJuN3lRTjBUU2l2R1NuYWxSTFAtZXRyOTNrU0Vsc1p6R0RJSzRQS2lPNDBONEM4RjJGZW5TRkNMQ3hrY1JBVGNaZVlpWHItcUY1Tk1Fd1ozeG5fU0RDc2V3eFJwd3FCSTVjRHFYN0RNdXJWMG51YlNoSGdwLVp5ZUdZdmZJSXRVQQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Microchip Stock Jumps as Analysts Raise Price Targets on Strong Outlook - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHhYemc1Ri1MRUNUZGdQR1pLR3AxMG9uWXpQcWpXcVcxYnozam9UR1dKUmhvTk1yMmZ5YVlRLWVsMWdKdVhyOWVJVDFLY3JCQ1VyVUVNSUpmODRVazZYV25zZFN6RXNlVTVvT2hwTWpxckRYZUEyOHVhZGRfRmlmNks4N1pYS0F5aXU1Ym5zWE1fYmk4cnBQRm55eGNhSG1lSmhBamJGMlVCclV4RVE?oc=5",
+        "title": "Evercore ISI Issues Positive Forecast for Microchip Technology (NASDAQ:MCHP) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHZhTENkSlZvSmZEaDlZdWc4YXFJald4SEtkZWMwR1pfRE5uX0ZxektlRmxVeGZreFBzSU5IRkRMUVJnSTJNNVBGTmpfMmNaY2d0QXdrVmIwV1VFOGJTYnkybFVHdTZHYVdINWdoWGJZaC05YmsyZG56RkxINEVzaVdkTGVidnpmM3RqMTJwdURQdk9INHJKU0dWX0E1STRBdm43MFFiOVRQMFRobW8welVmaVR0Q2otdm50OHd4blNFTGxsRzgzeVhhMlcwMkZvcFZHMUtn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Microchip Technology (MCHP) Price Target Increased by Citi | MCHP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0FDbWR2NFJLM0hES1dOcE41a1YwaGZWeUJ1TXluMk5NcFg4YkZvM3EtVHFLclZqRURCUXJZdUhvZE1ITHBMVGRGdlBQR3djcGlCWjd5WTVIam1YSHA4M283UGZKZENJTS1taUdlaGt0cjNab2xGYlluV3R2UnUzZHRMR1h4Nk9TVWJwTFlHdG43eXdpYzFDaDdHMm41Q1VfSkNfd3lqZ0JnSVdWZGx4ZHp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Reinhart Partners LLC. Increases Stock Position in Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWGdiLW52dXZXX2JsdW9DMWJlbHJ4alpBZDF5dEM0Mkd2SzhTTnpDanRhcVA5aGNYVW9CZEc5ZllfN3RxR1I3LVdPbmtLV2Exd21JRm42X1lTbVQyZ242ZVRDcmtnVHdrd01ZQU94VzJDWW9LOUZFUFAwTlg1OFdkVWx4OGlMUVZfZUVoMHJwTXQ3S3FDNzY2MXJQVWI4MHVzYThVUGFqU1lMQjBkTk5mam5ZaVFRZVZkRnBISXN3ZDVZV0tkcGdlTHctcnJHRWl2a25jNnNnS19wV0Juc3h5cEp3VXhOSmlpSXlZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Microchip Technology Incorporated (NASDAQ:MCHP) Shares Acquired by Vest Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTN1dV9XclJDUlNWTmJ0UUdoQV84YnRtSVBjN3kzc3ZkRzVUZ2JQbkVzaHhGeU8xcUF1VHM0MGhEaGJ1RHBkbW4ySFBfaTVDTEVoekNFMmtHM3pGR3dxUzBjUVdCVXB5YmxLYzZhMFh3VDJUQ1ZRb2xpOFlmLVRBdEFQcXU0Vjl0U3N5d2hBVjgxOFNLUWNBUkhOY2czb1FsNkN4cTVpcm5YZzk0UXo0aUo4RVBZdzA3QWtPT2hzQnhiVV9ORDA0X2FFY1ZpM2JUZTNjaF9JNzcxSms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First United Bank & Trust Decreases Stake in Microchip Technology Incorporated (NASDAQ:MCHP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeDZwQXZLbFhLUEhicmVJUHlaVDBLRmdFZG9UeWpXc2oyWGJFNkowaDFRSGsyNVkxVmY2TWJLQmFoakRmRm12eGRIcnpaR2dVS1ZWZTFqaHNfQTlpb1RsWXFlWV9rc1hMMmdlMVZQOTRiZlhKWTRUbXVUdjV6cDhEX05lSWJXdTkzVDRtdTBQb1RlNTVxaGl0WDVfeXdJUExKSnh0cU9PcTdHakNkVlZIRGVhUXFHVjI5T0F4cFdwakQ2MGR5Sm5TWmIyY1VVTVJFZ1RRNUFSN3ZKZDJ6MWVVT1l3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microchip Technology (NASDAQ:MCHP) Price Target Raised to $68.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSDU2RVNaMXNXVlpGTmRFV21UajdnMk96WU51bkN5SUtadjhacTZjN0FsbzJiZW1mNEFlLVBwWlBGYzV4OVNVMkNvd1V3b1ZfLUxMZFJDTlBDRl85emNYQTZuZjBjT0VXMmJQbWh5d0NlQnNyVWR2Vk4wbWZYc1pQckFQUklfd1JEZXIwYTVJZUtLOFphVHM4SHVNNFoteXowRy1Kc000THd6YUNPOERBSW5kU2luNU42Y2F6OFlnQTQtZ1YtclZJSmNoUmZQSjBlYWRKT1ZMNGo?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

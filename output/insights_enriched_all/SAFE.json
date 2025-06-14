@@ -2,16 +2,16 @@
   "ticker": "SAFE",
   "name": "Safehold Inc. New",
   "sector": "Real Estate",
-  "market_cap": 1099518080.0,
+  "market_cap": 1087325184.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.5,
-    "PB": 0.467706,
-    "EV_Revenue": 13.948,
+    "PE": 10.383561,
+    "PB": 0.46251944,
+    "EV_Revenue": 14.032,
     "ROE": 0.0444,
     "ProfitMargin": 0.26686,
     "GrossMargin": 0.989,
-    "DividendYield": 4.65,
+    "DividendYield": 4.51,
     "DebtEquity": 182.702,
     "CurrentRatio": 40.734,
     "QuickRatio": 39.824,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.5488012945077,
     "ROA": 0.02854,
     "PEG": null,
-    "EV_EBITDA": 16.917,
+    "EV_EBITDA": 17.019,
     "BuybackYield": null,
-    "PriceToFCF": -5.1313398216389166
+    "PriceToFCF": -5.101273639371853
   },
   "technical_indicators": {
-    "RSI_14": 50.18770346520377,
-    "Momentum_10": 5.5785085427410275,
-    "MACD": -0.1517103414074103,
-    "BB_Percent": 0.6231124302790305,
+    "RSI_14": 46.24026140507981,
+    "Momentum_10": 0.5972140305935183,
+    "MACD": 0.0038684303254594,
+    "BB_Percent": 0.4471114993032227,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.933454579133174,
-    "QualityScore": 0.3732182747256891,
-    "SignalScore": 0.5249579527976886
+    "ValueScore": 0.8963176648951402,
+    "QualityScore": 0.3801885477038655,
+    "SignalScore": 0.5942262585659863
   },
-  "volatility": 0.02614084193882,
+  "volatility": 0.0264537595583862,
   "beta": 1.518,
-  "return_6m": -0.2679209347486697,
+  "return_6m": -0.2434379125443366,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 21.16
-      },
-      {
-        "date": "2024-12-10",
-        "price": 20.72
-      },
-      {
-        "date": "2024-12-11",
-        "price": 20.51
-      },
-      {
-        "date": "2024-12-12",
-        "price": 20.5
-      },
-      {
-        "date": "2024-12-13",
-        "price": 20.43
-      },
       {
         "date": "2024-12-16",
         "price": 20.93
@@ -537,16 +517,36 @@
       {
         "date": "2025-06-06",
         "price": 15.36
+      },
+      {
+        "date": "2025-06-09",
+        "price": 15.62
+      },
+      {
+        "date": "2025-06-10",
+        "price": 16.04
+      },
+      {
+        "date": "2025-06-11",
+        "price": 15.79
+      },
+      {
+        "date": "2025-06-12",
+        "price": 15.7
+      },
+      {
+        "date": "2025-06-13",
+        "price": 15.27
       }
     ],
     "current_price_data": {
-      "price": 15.36,
-      "change": 0.11,
-      "percent_change": 0.72
+      "price": 15.27,
+      "change": -0.43,
+      "percent_change": -2.74
     }
   },
   "news_sentiment": {
-    "summary": "La tendance actuelle des actualités économiques met en avant une forte focalisation sur les actions considérées comme sûres et stables, avec un intérêt accru pour les dividendes. Les investisseurs semblent chercher des refuges sûrs en période d'incertitude, se tournant vers des entreprises telles que Eversource Energy, Safehold et Flowers Foods, qui offrent des rendements attractifs. Cependant, des questions persistent quant à la sécurité des investissements dans des sociétés comme Tesla et Berkshire Hathaway, remettant en cause la solidité de leur position dans un contexte de volatilité du marché. Cette dynamique souligne l'importance de la prudence et de la recherche approfondie pour les investisseurs à la recherche de stabilité et de croissance à long terme.",
+    "summary": "Dans l'actualité récente, les investisseurs ont manifesté un intérêt croissant pour les actions offrant des dividendes sûrs et stables, comme Altria et Safehold, recommandées par diverses sources financières. Les stocks de dividendes sûrs sont mis en avant, avec des annonces de dividendes réguliers et une attention particulière portée aux rendements. Les investisseurs semblent se tourner vers la sécurité et la stabilité, mettant en avant des actifs à revenu fixe plutôt que des titres plus risqués. Cette tendance met en lumière un climat d'incertitude économique qui pousse les investisseurs à privilégier la prudence et la constance dans leurs choix d'investissement.",
     "sentiment_score": 0.1,
     "label": "POSITIVE",
     "positive_ratio": 0.1,
@@ -556,68 +556,88 @@
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "1 Safe-and-Steady Stock with Exciting Potential and 2 to Question - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15d0NmazFnbHIwV0dMMUVJTm9wal8xa3V0RGhmNG5LTFMxdl91QUZzZ1NSWlpHS2FNMXFYVzVoYk55MVVCTk52bWlyS0JySER2QXp3eGFDeEdwWE55WmJvaV9RekNTdmFuNGVLdkJFV2lVQlFfU0tqUTZXZEpJT3c?oc=5",
+        "title": "Altria Picked by UBS as Safe Haven Dividend Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVHhvVkFoMGVhN0VNRGRoMXZKcUpNakEzWDVscmRadFlqLXdERWxOdnpwZDctM0t1TU13TWRENF9oMVNZN1BPWkVDMDRwek5fUUtjRmJSN3diaUF3c3VWdFNsZTF1WnBKSHRiR0xqN3ZUSlZGT0c4aWk4d0ZzdWs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Eversource Energy a Top Ranked SAFE Dividend Stock With 4.6% Yield (ES) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTS1rMWdHSnFBVldOaElpbWx1c1M2akFXekFESjFCUTNCZzRLcjEtelpia29nUnhCU1Z3TjhXNGtOdVRzM3VFaGhZeVJyY0N5TzNpbVliMDVLbFZQTVJsNUtrUlJwVkZ1d21WNkFXbGtyeE1LUG0tTzhiYkk1amlCVFBpajE3a2pHQ2NEWERfNDM5aUs2ZHpZ?oc=5",
+        "title": "Safehold Announces Q2 Dividend: Ground Lease REIT Maintains $0.708 Annual Payout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd08tdkZ3Mzk1WGd6eV9jNE1iYVVPYkthRjdWejVpa0x1OW9yRVVrczEwMjlTbHU4aXgzaF9PdExac0dpcGZURmdVdFlTS0poczVfRG11WjFOUFE2RGFkTEkwYmtlYXlURXQxd0E0cnVPTnNtaFJESlB6MmJNampPVUF6NWR6SjhLaFAwUTZNSWV1bm12c183czJQLS1MWVFqN1hXSnl2UXA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Safehold Expands Florida Footprint: 336-Unit Space Coast Deal Marks New Partnership - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOek45QlFtNml3UjBCWWJldnBJUGJGMFVYU0hVdzRDXzFYVWpCYXVkZl9jNXVGQjROM3dsUDV1Q2FId3NneXhqWk40TXlsUWNZM3FOMm5aOGd4RkRiVXhPS25CTEN3YTVfXzY5VXBTTWxrUUFWWm8zcG9oaXIyelAwWElkWGFNQ2tQN3F6bTRLQzlGcE5MVEVNSlBXbXJtYlVWS2VMMTlTUktrVjQ?oc=5",
+        "title": "Retirement Stock Portfolio: 10 Safe Dividend Stocks to Buy Now - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFJsTGl5YnJ6SDZjWEdBS2pzTjRLejVJeGdaV1piRUJrSDRwckdScFJXXzVKd2dmdmJGRjJlZThiX2ZZdkp4ZEdnTVFZQVdSTzJDajRtdDB5cW9OUDBoRWZISmlHc3FpVS1GTnQyYmZ2ZXF5WU52YlRqeEtRY0Y0Zlc4bVFPcTFpb2FoZkRseHFLQTN4cWFUU25EZloteUZ1eTR5R2VZTkPSAbABQVVfeXFMTWI3dzdZcXhrUHBmOGYyVWhNZjd0SHlnc2V4d1IxVEhERE9sWXJTUGZYd08yZ09UU0cyUUg4d3lXVXBaSXd6b05pcHRDUnZ0c1licWhkZERBbW92QUNtamNyZmd5bzhwMFIwd2Q5cHR1VEFVUnJMWjV2dGtpdTJIT3pKRjZVQnBzZDVfcWhpbVVlTHhmLVA5eUNzRDRYZkQwMnR1aUhXanhVR3ptYjhZdm0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Safehold Declares Second Quarter 2025 Common Stock Dividend | SAFE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUtwSm9FZmVUSW9IcWJBWllKM0tvWXYwelRCMEVkcHpOd3kxRS1FRk05NlBvRW5Va2xmRnh4dFhDWTE4MGVZYkZBb21OU2lIRV9uTHlFaVhjUDRXcXZfclpnQUdRUzdEaFhaeGZxTzNYbnluX3hkWHlpUWtCb3BGMHRjakZXNGEtT05RMzI1VkJlU0R6ZnV6V0dlU2lZNElobXQ2WjFVY3QwaWc2RGpNUk94b0I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "National Fuel Gas a Top Ranked SAFE Dividend Stock With 2.5% Yield (NFG) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3FvN25iYm9DQkg5WkxkMXBuWWJUSzMyS3I5R09pOWdIRjNxT0twYjViOXNzWkR6X0czUGxHcnpzNUoxbG9mQjBpajNGZVN3MlNkWm41aVh1dWNXRUJjQkdfaEVqTHFMQ0JSSVBQOUNEVTRYMFQtSUU5NkR1aGVGUWdBUEx1TS0yTTBFMExqV2xSUnFVTGM0UA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Risky stocks and safe-haven gold are both aiming for records. Who will blink first? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeXo5TmZ2dGpkMWFvWHVZSGFVOUllXzU4b2g3ZEV0ejVISURjcXJudHh2YXlJbERTMThCajh3ZjRweGJQSFpqeFo3QThZdTBLUHJoTlFCUV9GVUFSSTNKZkotZWVjRW1WRGdmVXpoeUJSMDJyckNsbnB5RnlEM205cWtoVUdXZy1td3M0STgxTnhnSmJhLW04ald4WVFrYlZCNnJsNXFGaEd3NGdyRGFUZGFJX0ZhOGx1cmsyLWt4VFVkMFI5eHNjaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock to Target This Week and 2 to Steer Clear Of - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JNmFibjBHQXlwNV9vTjhuTHl1UzAwdldXUGdzcFVxX2FtRnpYR0Z3VW1fdURBczNMR3gzMlZjc3N3SkJxb3pIUlg5WFNCRXpoT2tITzRxczNqQW9aRTBwRFRrZlI2LXkybE1KVkNfVnMzMXc0WWw0VC00R3U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How to communicate about firearm safety to protect kids - WXXI News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXJWWUpsYU5udzM0eFhHbnhSOGM2OEExZGthQnBfVy1iaGtNZ2w5V1dTQ0RFMUtSU3FUSEhOdGNsZTFrdmx5UDV6Y2lCSjNQeGNHQkFkQnJJdjVRNXZWd2xiVHFtcEZOcGwtMkw4cFBVRkVTSnlSNHVPWUMzem5xb3pRZFVZQmp5RUowR3FOc1BZMnlIQVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock with Promising Prospects and 2 to Turn Down - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVTRKcTUzX1N6bFBpMVVEWE1kMS1kUWZhZklrTXF1UkFGeGtFUGJlQS1lMjJsRXkyUmdzSjdMYURJeE5nUXBFeEVRQXZtRjVJTXA3VFVqUlIxOFBxYWY4YXdJU2J1bjk3SGJJZzBtdnZPaWxONWFLY24xUXN1eHNMcnBNV0IweXR6S01ENVpuU1N0dmZSd3pCQUtXajQ5S0xpV3lHR2VJY2ExQU9UY3hnTlM4SUM0SVNUd0ZpQ0NyLW9lUUlrX2xLcDBnQ3NPSXdRWk53Y3JrVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Ultra-Safe Dividend King Stock to Double Up On in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXVUa2pYMjdnSVBMcGdOSmxnUWhIWk92ZHFVZlU1TWVEd0FXU29Oc0phQ2F6REZsM19JQThUQlJ4ajQ2cW5MRFVLbTd4NTllNEJqWkdUTktCTVFfdnEwTVFuV3YyX3hLTi1FYjdWdHlJczMtZ0xzVzdEOUFxcWstLWRsYnc1RkZEalZncl9tcFk2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brookfield Renewable Partners a Top Ranked SAFE Dividend Stock With 6.2% Yield (BEP) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObThkUmhfTXZkaTAzWHlwd3cxTkQ2VEd4XzRLZlE1T1laN18tWjQ4RDFEdmMtdnNxTkpFVXNoaHhQTnMtT0JCQ2ZiYURQM29yTXBpN01SRzA3RUZWNVBWNDhxYkF6R1pHYmVuRmlKb1c1WW9CNnFGRE1QaTEzREMzS1BRTUhybDNURlB1NDlScHFEYU1mR3ZmQVZ4NExzRXN6Vk9PQlEtWjU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock on Our Watchlist and 2 to Question - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDdVRHZCVDJlUG9OSWhCYjY2T3lPZlFxY0hhYnk4WkRHR0ptb3AxTDNNd29tZnl3d1E2cWF0QXVYME85cnZLTWVkMnE5RHpNX3A0ZEljN1dZeTNMNE1XLUZUOS13Q2ZmTjlrekFoRGZIcTBJUktTTXVBLXVseTVuQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock Worth Your Attention and 2 to Turn Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBONDRJZzU1a19qMHdudWF5NHRtQXAwTnoyMi1vX2VyZ2llMXN3cm5vOW9TMGJkaDBpdEZCZUlCVzdJUFNfVDVWc3FJaF9rbnRCS182b2NNYW80ZEUyV2NpU1haVlNvb1hMWmJrRWZpTGlWWk1qT242OFZrbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Founder-Run Company Stocks That Are Safe Long-Term Plays - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnh4UGRhQVVWNkpsSXEyZ0N5WE9BZkY1OXp6aldPems3clZsdWZqQWVtU2RfdHRfR1VITmh5YnYwZnFYd0E3VkRlcjhKT0c0dDA3MmoySVJrVWtrT1Awdy03cGNWWEVYUnM3ZUVEN2tWYVpJZzRKeElWQkI1bjdoSk93?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock to Target This Week and 2 to Brush Off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OaU1ERVFXZnNCYkRJdHhoZG5PSzVJTWQ4TldpZDRXR01FWXlGaHJnNUlWbnV1TlRyZjM1dWQ4cFZiSGtqNXhuZ1JfV244YWhYMHprcGlqN2plYjdhbUoyTnRiVUFjUkNwU25yN0xtb25fSm5tVXJ0clg5NUU?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "The Trump Trade Is the 'TACO Trade' Now. Is It a Safe Bet? - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHhCS0o2dWlUOFQxVW1ocEhkYnJueHhfdFIxUjlsNnQ2OUhYQzVEcHJmeDl3VURXZUt6dlI5SlFtVm9lV01YaXBteTN5YXR2TUoyUFg0M19UeGdadVFRdjN1eDZqWEJUX3VZVTN0RDVXNTBKbUFVRTBFYWxYdlotTVo1QmotUTNFbHFubWJuLUsxOFM3dndZaFRIUW5EdDUxQjEwMFhaT0Y0UVMtU1lIUw?oc=5",
-        "label": "NEUTRAL"
+        "title": "5 Solid Dividend Stocks With Rising Payouts for Safe Income - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONktfRkZ1WG5WbGo2TWFyeThGTXVmUGlHOGZtZzNZY3RHWjE4NXJQNUlHS18yWGVtOUU3bzhoTzlVX2dMMnJnTTMyY0VZb3VhdGpVOHV2WXRNSTY0eWRKcDVLNGlFRGZCaWMzaElETDlhZzNkUXJ6SmNwOE1SV05FZmpn?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Safestore (LON:SAFE) Stock Price Passes Above 200 Day Moving Average - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0QwN0lhXzdIU2dveUlmMXBwblpRblM3eG0wNkh5WWlxMW1sMHV6Mmh2RF9ObzVkT0Z6MnJiNnE4NXdOV2phS1hDMDFkRXNxVG55Z2QzMDlhZU1NblVqM3h2bDhQcXhId2RmVm84MERDcF9MRkNlZU1WZkx3VzdKY3B3Tm5oRDJmcHNQQm53NTJJRVF2M0dDS1lBVFhtbDU1bWlQLXNfdHZtekFMLVVaeWRtMi00eGNnWjhkQXFIcG1aUWpnTURsLVZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock for Long-Term Investors and 2 to Steer Clear Of - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsLXExQnZKa3N4Z1RabGp4QzlaMU9ENV9IWExnSl9hbVNHRDAwSGVWTGYtWlBJSklGdG5iU19wNlVwUEhNbk51cGwzRXp5ZHdnUlkyVXFvbEJ3cDI0b3YyYUdwaTZRN1JBdVlkOEJaRmpJR19DQWhOZEV3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Northrop Grumman a Safe Stock to Buy Right Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalhwSVhUT25jSHNQcmxfUTFYMmJLOTFiVmh3T1ZBYnNnME8xbnBoS2t1S2VTNFBZQk5vT0hLNks0MHFyaHo4QUJXSGRNdjEtRmhhYjdxWUpQN0ZtaVEtcWFROUUyeVNteTgtbVdFdUczSjZGMnhFcWR4cTZjVVpSaHBPV19iREtiMXNKMnZ2ZEp6bjJuVWJZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Safe & Green Holdings Corp - On May 29, Enters Stock Purchase Agreement With Generating Alpha - SEC Filing - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONW8yeGRiZUxSMGNvalhqRjhDcm1HOFhseVBkZk1nSXZXUDVQVnlscXVTVFhQOUZrS3pJVVpkT1lUZFJKejFiYXQ5bHhmRC1oTnBqdUt2Z1FrM1ZRSUxsU00tX1NnTjVaekNkZl94NlNOWGxNYWhhNjVqTDVNdmlOWDZxZE5ESjJ3MVY2REdrcEFvZ2lnelB3LWRJbHdPd0NhQWdRQ213T2hQVDZ3RGxFNFNFazJFNXFSYktYWmx5SjRlaTN4em5HUGxIc2ZrWFdTVm1NUEpUcWtqMTBKVk1yVndaZU5QVFRoN0dEX21qTW1OcDRzNmk2YXoxaVBnTWtTRUl5N01uYVIwbHBlQXVOS3lB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Flowers Foods a Top Ranked SAFE Dividend Stock With 6.0% Yield (FLO) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3MzZ1JIYjVtZ0FnMS1QX19rdThyV2hOeGs4V0tSd0ZOQzJRUXZXSVEyeUV1MF9qdjFWM0preURrcW94RHJoYWFRcXFqRFNVb09oN0pFZjEzSmMtWDdGdnI4ZlhQYmlfMGo0dmgxYTlLUmhVbHNieGRLdzdEQS1MUU9pdWpXd1o0amxvNUwtLXp1bXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock for Long-Term Investors and 2 to Question - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mQS1WRFRxUTBwSy0yZGl3TFVoSUVUOGdKaWppTXg3dEZZVUZoVXFRTlk2UW5iYjZQRHgxN2RCV0VhQmx0T1M3RFNyYjVIaHhMU1pOTVFOWEQ3T2liNmd3c2dGY2VPc0FfeG5RbVRsMGI0RnJoRGMzSnRn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Can Coca-Cola Stock Help Keep Your Money Safe During a Market Crash? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1lHVTdYRXNBb0pYT3pNZDRyYVNua1JGRkVxUTZDT2dFWjlIc1RDei1Sa0NQRFJfYWk1dmprOUM3X2Y5bzBkYW5JWnZRS1ktbkljaTBoNlhhbUtvbFI3MVFoLXFPOVdIMDNseVl1RlZ4SkNucWtMbUxLRFlTZzJwU3UwNVhPYWVjZDgxNHZQUnpLSHk4TFpzaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla and Waymo Are Poised to Poke Buffett's Golden Goose: Is Berkshire Hathaway Still a Safe Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2NqMFpZTFFHam1nV1kyeklWMkZkdTJJNm5ubGZJVVlYQzRRS3JvbWNVbW5HcXBnUjNZVl92bnN0OW9MTEVjQ2g5Z2dkTnFlUGtpZHVOZVk1bEdzLVhwdTMxMld4bTdMdGx2anl3YmtHMUZ2TjlHOEEtMWRaVFRYWGl5cUNrRWctMzFsNGdoY0lXZ0d2c0lPdHZVQmZvM1VNUEtPZV95ZFhwcXNHcmRtUFNkd2J1ZXlXVTdPdG1R?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock to Research Further and 2 to Approach with Caution - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wcGFfaGwzQXZ3WXQ0MXpISGZZMGNMQTNGSlJVOXdFX1RMOHgyV3NUUTNfVHg1aF9SLTlURUpON3NDOHFMLXJDMTE4blFiVkswMzFDNHB0YjI3UEdHQjIwd0ZINGhCcUlKZDVtc0FOaGhDN1lwelBodl9QNXl5SXc?oc=5",
+        "title": "1 Safe-and-Steady Stock with Promising Prospects and 2 to Avoid - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNW9aTEZ0QzVQUTBOYTh5bnVWdkR5WFNnUW4wZVBYWFRfbUItODlWT1NlSzdGN0RmMVczTy1aYXhUb2tVaUxWZzJ0RldWT2tsVjRSbHctYm9OWEwtOFIxUmN2b1BON1RGN1ZCdWprSzN6Sm5WZGxUOUlBRThuTnQxZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,36 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "1 Safe-and-Steady Stock to Keep an Eye On and 2 to Approach with Caution - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jalI2ZXMzU09oN1UzU3R4WEFBeGh3ZFBkNDRnUjhPYUxQazFtU25PaTFPeElxZGEteXZKOXJ3ejRyZnZ6SEZtWXF6NGtsMVdzRmZRVWZLQ25NaElKN043Um9oQ0daYk04VDRLTkx2NWFjWnVIVTM2WlpR?oc=5",
+        "title": "1 Safe-and-Steady Stock Worth Your Attention and 2 to Steer Clear Of - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9peGxLbVNoelFQbjJmUWNJeGpyVjU5VUdzS1NMaW5tZ3RHV0I0YW1RRGpyU1dESHJxVjgzT29vLXdVMDVvWHRfQU9QbHVSOVdFbnFtTkpYQ3pWSnd2N0MzaHVqWmJORW53X0VzSWEzZTNIMm9FMHhqdWFhOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is NVIDIA Corporation (NVDA) the Best Safe Stock to Buy According to Hedge Funds? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHZ2TVJ0OXlxRkt3d21Sa2g4Q0JHbGtXeERjeVZKTUJvTm1fV1R2VzRfVkQ4OGk1a1Zfd0Y1bzRGdjBmMXZuenVvNng5MVU3aGxnczN3d1FzT2tVWkxIRThadHBpUk1qYWtNRUhBZVAxVk1xcVBGM2J5d1poNGkwUFRQWi1jQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock to Consider Right Now and 2 to Steer Clear Of - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XSWxGWHRGNVFac1NSZVZGRW1feHJWblFKZkpyRFQyUkZxRmlJYmg5TnJXYWxQalFfV1QzRGcwOVdTaThYWFhiU19TZW9KUHE2QzZHN1lNemlHYnpYSWpUZjZnYklSc21vSzJsWXlIbXQ5MEZVZUlSZTVKRUhuQms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock to Target This Week and 2 to Question - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iZnIzTlk0MTZaVWFRQUgwbjQ5WXRMYWF0cTVpS0w3RmhXdzVPTTNaWHVfSnlBbVlMZkItQ2VweVNXelprZ0h0emVpd0owa04yeXFmOFNiUjUwTU1UNG1abGFkTlA4SUF3SzQ2dEpXLUtDNWxSc1NYeHVaSmY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Are Your Mega-High Stock Dividends Safe? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTdTSUhvWmpscjJQdXEtZlVQTEEzZzBWTlU1b3Q4ck9vSERtckJ0SkdoaWhjLUNRTGtkekU0TWw3ZnJrS1ljbXVSQWVkelp2NWJiSXRmX1hER3FtcjVUeEhhWlZBZEtjMEhMWEJWQ3d1SDNzQ2hRQ2tBYWlvblZhOE53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1 Safe-and-Steady Stock with Exciting Potential and 2 to Turn Down - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adVJwbnpPZHhmMEtaMThaYmNGS3BseWJYdUJtc2dmN09KTWJZYTFQTW9DenYtOGFGaVloUl8xbXd2UUo1QldrcVFZajhvOVd6UUFXNUVuUVZHSFdHQlEyX19fYU9JVktTT0sxZllSaDN2MGtJNnc4bzItWGViZ1k?oc=5",
+        "title": "1 Safe-and-Steady Stock for Long-Term Investors and 2 to Steer Clear Of - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsLXExQnZKa3N4Z1RabGp4QzlaMU9ENV9IWExnSl9hbVNHRDAwSGVWTGYtWlBJSklGdG5iU19wNlVwUEhNbk51cGwzRXp5ZHdnUlkyVXFvbEJ3cDI0b3YyYUdwaTZRN1JBdVlkOEJaRmpJR19DQWhOZEV3?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

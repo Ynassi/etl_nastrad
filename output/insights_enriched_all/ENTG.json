@@ -2,16 +2,16 @@
   "ticker": "ENTG",
   "name": "Entegris, Inc.",
   "sector": "Technology",
-  "market_cap": 10951079936.0,
+  "market_cap": 11386793984.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 35.456913,
-    "PB": 2.918853,
-    "EV_Revenue": 4.506,
+    "PE": 36.86765,
+    "PB": 3.0349865,
+    "EV_Revenue": 4.86,
     "ROE": 0.08646,
     "ProfitMargin": 0.095699996,
     "GrossMargin": 0.45983002,
-    "DividendYield": 0.56,
+    "DividendYield": 0.5,
     "DebtEquity": 108.156,
     "CurrentRatio": 3.258,
     "QuickRatio": 1.651,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.07724128505784178,
     "ROA": 0.040359996,
     "PEG": null,
-    "EV_EBITDA": 15.867,
+    "EV_EBITDA": 17.116,
     "BuybackYield": null,
-    "PriceToFCF": 44.067811262518674
+    "PriceToFCF": 45.53028890626609
   },
   "technical_indicators": {
-    "RSI_14": 44.603765771042816,
-    "Momentum_10": -1.1451390943865714,
-    "MACD": -2.0495049112608967,
-    "BB_Percent": 0.3494912128160726,
+    "RSI_14": 48.66217430860838,
+    "Momentum_10": 9.412280217880598,
+    "MACD": -0.1118112145772443,
+    "BB_Percent": 0.5706240905678649,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9234575025187072,
-    "QualityScore": 0.322907548080237,
-    "SignalScore": 0.5883808160860557
+    "ValueScore": 0.8830193808722645,
+    "QualityScore": 0.330937734344942,
+    "SignalScore": 0.5512843148576716
   },
-  "volatility": 0.0415272801276377,
+  "volatility": 0.0422316335924264,
   "beta": 1.243,
-  "return_6m": -0.3373071179256477,
+  "return_6m": -0.2932390538508189,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 110.51
-      },
-      {
-        "date": "2024-12-10",
-        "price": 106.13
-      },
-      {
-        "date": "2024-12-11",
-        "price": 109.07
-      },
-      {
-        "date": "2024-12-12",
-        "price": 107.3
-      },
-      {
-        "date": "2024-12-13",
-        "price": 106.66
-      },
       {
         "date": "2024-12-16",
         "price": 106.71
@@ -537,38 +517,78 @@
       {
         "date": "2025-06-06",
         "price": 72.92
+      },
+      {
+        "date": "2025-06-09",
+        "price": 78.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 79.63
+      },
+      {
+        "date": "2025-06-11",
+        "price": 78.48
+      },
+      {
+        "date": "2025-06-12",
+        "price": 79.62
+      },
+      {
+        "date": "2025-06-13",
+        "price": 75.34
       }
     ],
     "current_price_data": {
-      "price": 72.92,
-      "change": 0.9,
-      "percent_change": 1.25
+      "price": 75.34,
+      "change": -4.28,
+      "percent_change": -5.38
     }
   },
   "news_sentiment": {
-    "summary": "Entegris, Inc. (NASDAQ:ENTG) a récemment connu une volatilité, avec des achats et des ventes notables d'actions par divers fonds et sociétés financières. Malgré une baisse de prix de l’action de 6,2%, des investisseurs tels que Fifth Third Wealth Advisors LLC ont pris des positions. Le plan de succession du PDG a été annoncé, tandis que les résultats du premier trimestre ont été impactés par les tarifs et un ralentissement des dépenses en capital, tout en poursuivant des investissements stratégiques. Cette actualité mixte pourrait influencer le sentiment de marché autour d'Entegris.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
+    "summary": "Entegris (ENTG), acteur clé du secteur des semi-conducteurs, a connu des variations significatives de son cours suite à des annonces contrastées. Malgré des résultats trimestriels manqués ayant entraîné une baisse du titre, plusieurs investisseurs institutionnels ont accru leur participation, suggérant une confiance dans les perspectives à long terme de l'entreprise. La distribution d'un dividende et les prises de position importantes témoignent d'un intérêt soutenu pour ENTG malgré la volatilité récente.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Fifth Third Wealth Advisors LLC Makes New Investment in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdzNTcVVGZVJiNVlRN0V0YUlCSlhJNmZlbmUyNkNvdFotTC1Uam9IelptYlNtdVhrQ25VaFI3akdtZmN4TTV5NVBzTVhLM0lvdXVvanF4bFJQc2JiS18zcFlqZ05TRmVveFdjT1FDV3lCTTVaaGVoMGpCZ1NhaXE2Si11c3NDMDh5aDZ2dTdMV2tUVHh5bEtvNDJKT20wdXdkTUZub1V0U1ZYWWkwUXlxbW15TVlfbE93Y2JlYzZnS09xd2hmUmdtRnpRSlpGZjVXZWR2ZklaZy13aU5FOVN6Qg?oc=5",
+        "title": "UCTT vs. ENTG: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZVGRQZjV5NUxTNU55eEJPMXJRLVpjNXRKZjB1bnJvVDFLVGZhaFgzbVNFUDgwQzVidExKSElVUnhvRHRvd1NCdXEtX3pLS3hlZXAtdXQ1bmxocFlfQUVnNnM5SUVWMW4xQlZlakF2aFdvQ2tYbllPcVNB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Entegris (ENTG) Stock Rises on Nasdaq, Showing Short-Term Strength Amidst Recent Pullback - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmhueEpTWk1GYUI3cTJXdkF6dFJOUDJ1SWtzMldfRjZYb1NZWms5NjYzYWtXcGFZR1JkSlBKSTBpZG1zaG9ON0Y0bUJCYXpxTEwyem13UFFPdHR1SkNVdVBpYzY1S3BBR1g2QjVnWDhMMU9wSjJZaDB0YkVPa1hZcjJrT05lLWxSWFg5emU4anJ0ZndvYkRwUWg4V1BtbXkyZS1jdTdHbWNUa0U1YlMyNEpMNUZXU0Z5a2FtdE5fbjlQSDZ6eVV6UlZLMA?oc=5",
+        "title": "Why Is Entegris (ENTG) Stock Soaring Today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRWwyaVNHR3dNaTZJR0o3cjhGYmprZjRDbVI2a2VFV2RTM2hIeVVGVDVtMVNFY1NRUE5sSm9zc1ZvRW5lNXc0dGNUdXNTS1lOTDRVbVB5V2xNMnFzLUVXQXZ1bTQ5cWVHUE5BOUNjN1VpenZ3UW1sWlFlbENWM2RwOEtkLWlsYnFrb0lzdFduUC1KTzVXUW9lbDlHQ1ZYeFRxV0w1YXZwaVZId282THFvWXZPOWFLcFgzZWV3UllJdi02VnEyYUZMVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yousif Capital Management LLC Takes $4.58 Million Position in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0VSUkxtbi1EQ1NYSzFMY09ib3hOUlRlUDBkd2tfRDZDVmdkcHNaZGlpNXVfOXNDNEtxVVRKdE5aMUlzcHV6QW5mRGUxamJvT3h4aUw3ZUhWR0VjSGNaMFlUalZjU0Q4NjB2SjZndWJXX1BrSmtGUndYR1RIUG9iSGZDem41dXZRWjZoSzZZUl9uQld1XzJmSlk1WHJpLTJvbjhQYmhPZkN2VTEtZ0ZoMTRkZHJERlZ6eDBqcGU2ck1YNXJhdEpDOThZT1Y3MXhKaFJjbVlxTGo0dDNz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Needham Reiterates Buy Rating for Entegris (ENTG) | ENTG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXJYWkg5dDkzQ0Nzd1YyeUlKeENjTXBYSU5NaU1MWVk1WEd0ZTJ0M2gtV3ZnQ29Uby1aQUtNSjFhRE1ZNWtST2tzSmJkX2RMY0l2eGtxVTVqZWU1NHlMZldCa1Vwb1BGNUFBSlVncl9GRTR1UFFpSG9UaGk5MnAtbzJXSUpaT0xFdzdtUzNtLUZjY2hzNnZTVWJMVHNRa3NQUjJkNkdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Entegris: A Crucial Semiconductor Enabler—Fairly Priced For Stability (NASDAQ:ENTG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFRxWHhCenRJbVNfdmk2VGZrcmw4V1k5RTdnenJsa2dEVU03YWJpdFNQU1pmYTltSjNXWEQyOUZoN0RvVjVkbDFDS1E1ZHQ1LTZ5enpBYWdUSlJuZUFuQXAwZ2RBZHF3eGxCYzdJaEc1YzgxdWNzVkRnUG9rY0trd0NtZDVCQnBVWGZfRHRtUjJhcEhoTDIybFJqc1hCUXhaemU2Q051cVhBeGNfU1E?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Sands Capital Global Growth Sold Its Stake in Entegris (ENTG) - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFljLXZOVHI0U1NuS2JqejVrSjhWNzM4VDZHMl90ZkwtZFFQWGlYdU1XZ3BPNTJ2cEJjSXFYRWpCTkcxeE8yS0hZdmw5Y0tZTFQ2UmR6d3diREJaY2NCYWpWMGktakt6aWNabGZMRHZzaGtKLU9ieFV3SFRBTzd1S29iQTZ2dDRuVHZxT3ZjRVJwZG5GelZjNUxyaUwxMHkwLWU2SWxB?oc=5",
+        "title": "Entegris Q1 2025 Earnings: How to Access Live Financial Results and Management Insights May 7 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblpwSlhsUTRYdmtKc1o5eGJxRnVBR2RyV0laUEpZY1NlSXdZUEtXS2RoUWFKS1FmT3RTcU5ybTFDaXZFSmxJY0lWeXRzam9BUko4al8tMk11b2dtaXI0cGdERjFvSWp6aGl4ZUdyUXBNUmZ1aHhGcUxPSkpBcWZvbExBSUFsSWdFRC01bzR1ZXNjNlhQMDFtLWhMQlU2MUNwdVRJY3VKUGpCT0JvdExNaUtNYnFtMXNUaldqUw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Entegris (NASDAQ:ENTG) Shares Up 7.2% - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWThZNmxDbkVTNnVzSUJxay1UbndKbk9kLXB5TndHU0lHX1BPUkh4bW5CY2FmUU5Bc1FsaE9IVGNXRGVLa0NWdHFCUjVPRnd3WDBmM0ZtM2VNSkJzSkRjM2lVX0RVcWN6THRTcjh0SF91NHVyR0RLeHZJYmhmeTJVMUVOMmp2N2VIT3BjM3dYM09haUFjYldwaUc2aDFuOGRpS1RIaw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "3 Reasons to Sell ENTG and 1 Stock to Buy Instead - Yahoo Finance",
@@ -576,33 +596,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "2 Mid-Cap Stocks to Consider Right Now and 1 to Question - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWVfMXhfQmx0WVRmM1F5UEZxaXNRX21nd1N2ZVBSS1hYSWszQ0xUZm1XRWlCWWpJVzM1UVM2Z0lXWWZxS1NHcGVxR3pDbTlyYUZaWFJOOG5SOUh2ZXV2RlNjSWRXZ0gtQ1ZuZjc2eUVrSmgzV24za0ZYWEphY2lmcm91OUJtZU1laERrTFdGUExXSnJPMXRyYmZXbUpIMHFqQndLUWkxNUFTSjVTVF9VdU9fWElMdnhZcFdtNnNpTTZ0dDRxS2ww?oc=5",
+        "title": "Dividend Alert: Entegris Rewards Shareholders with Latest $0.10 Quarterly Payout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXNMLVdtWnJQN3RVQUFPMjV6UXF6WkxwUU5fUTBSZHlIQ29aNXJOYzBTZkpzVVVFMmZJMFBFVndYamJub0N6RzNtNnkybU8wNXgxc1NjS2xHWV9KQ050by01bUVJVGh1MEhXSHFuUVdSV1d4TWRycFdHTDY3cjdSdlQwR3lVeURuVHFWRUVMU0c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tran Capital Management L.P. Sells 123,659 Shares of Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUdSbkpGTHZMTDZfMTVyWHBxUUxzcjllaVgxYVRhTXM4aTJITWxQYzlScEg2aDFrU3A1cEJMdjNVcFUyRmo2WHd3d0dnWHFMdElIYnpmOWE1M0RZZXc5OWxtaUF0NlFRLXNRZFRNWTRTd2doZm5vSGpVZVlveU1MNEdza3cwQ3BnZmRBVUhrRnItd0l1QkpxWmZxOTJDaGZCWUZUNnM3NmpyLTRpT1JnQ1B2SmNXX3pYUlFjU09xbDkxYzJzX2FoRTJXb09XclU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Entegris (NASDAQ:ENTG) Stock Price Down 6.2% - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGVRM2dmak5rTHNuUzB4MmU0NUNBLW5WMnYzR21ZSjNGVzc1c095bGlqQ1ZfMW9SUkFuQl9Db0l6bERWT21FeW9rRU9CeHBjNEprQkhRTVZocVpvNmZ5WldSbERFZFNxWDk2NWRCbGdWUlpNcDVYbmNqWkVnZ3YwZGYxWGpIRV9GUUo3U2xZTlNnWDZmUG9pMHg4a3hUSnZTMHMtQ2xLR3lGdE04WFE?oc=5",
+        "title": "Entegris (NASDAQ:ENTG) Misses Q1 Sales Targets, Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFRqLTVxWHlwWnUwRVNtM3BtTjlrWUVxWG5uZEpzY3pscGt4RzNuQVhzeElaMFlNSmlqajVRYVZPMVM3SlRrX2dBZk5tOGVBR2U1SWlZV1IxRTFPcGdraUttVTZZZWMzMmt4VzA3QmhqTDlPUWd1cVF6N181OC1FTThR?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "New Strong Sell Stocks for June 5th - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DVUVtSXk4eTRwVWRqeFdtMThHa01FaHBfMTlZVG94T2pQMk9nMXRkek1WME9zVXozSk9xRkdvM1M0RE1qMy1aN3hjd0xpMC01M29EcGYwUXhpNkRqZ09PcmE4d2RrS2VJTVZ5Q3RBRmU4ZThhTVdRWkQ5MXZBQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Reasons to Sell ENTG and 1 Stock to Buy Instead - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWJnWGwwa000c09jR2dOak1Da0tMSllLU25WTUpJMnZ6QmdTSThzYzIzUlhtNGtoclpkcHhGQUNfYThrRkxla0Fsazh2Z2hyQTBzNDRub3BTdDJqNnlxdWpfYlEwVUZEZVltM3o1b2NxcGY1Vk5UN3pXWDk1VGs2QUFxamk3ZzlGU2ZCYXh0aXVySUFXOHRiR0tFWEdtdTRHV3lEY0Z6UjU5YTZTUFVUcU5qTWdzZy1RSkotLU5R?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "122,548 Shares in Entegris, Inc. (NASDAQ:ENTG) Bought by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRjJIUTBRX3U1aG5RX3h0RjFqV0U5ZGdTMTRfbWJTSEJodTdFamo5ZExuNlNUT0cxNDNmRDlyc2hjWkMxSDFvbzlLX0xpTEgtRS15c1NUaEVzbERyU0ZEbmx3a01FVTJDZlNqMXhHTFVjZ0dTc19IUEdlT2pzaUlCYjZLdFgzakh3T2d6MXhhWmkweEZZNmZ5dk1tN0FYT3hTN2U3czVkdDlaeExuNHBmWUdTVFFMU0xSbUVwUExDRXdpMm1oNmZtNTgtSGRvTGttaUg5MkduN25GMWZnNXZaM1U4UjNtbmRhc3dJRml3ZVM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "17,655 Shares in Entegris, Inc. (NASDAQ:ENTG) Acquired by Sarasin & Partners LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmtadkpsaG0wQmc2TFZRYVFmUTZUREN4eDl3V2JkUk8zZFpTeEt2TGtjTm01RFBhdk9DWmpER3FxdHpVRUo4d1EtOU84ZlluMDgwWTc2aERmWFI5a0pQdE1mM0haTFIzbmhqUTI3NTBUdnhTTEZldzZIMkRWNU5wVW1fWFFreHg0YXRXVUxEa0FZNmIzV2t2UUtIYnBxUXZrako2RFhfY3lIZ2hVWGRjNWwtd1MzcENSSUE2OTZwQzc4YmlX?oc=5",
+        "title": "Assenagon Asset Management S.A. Has $55.21 Million Stake in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaElwM2hCY0t5VVVDeWhjVGFQUFA2aC0xYm4yVGNHWTBXUTZva2xwMnpQSnFjNGpMLUlUX2NlUWdlX09UV2JET3A3MDUyb25KT2tBVE9HbGRFbFgzdkNTcHhXSW5xdy1DSmFmbXhBeEJZa2cxWVJzTEtPV0tVa0lscGFIQlhWUFNRTTRKdnFwVFphZ3VyV21YQWxfdjJtdVQ3R0UwVW1HWDZzTU5mM2cycUxvYTJCSldSb2o0dE92d3lzaFJBU1BEQTUySHVfLVpMVmNWcHF3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -611,51 +621,41 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Entegris, Inc. (NASDAQ:ENTG) Shares Sold by California State Teachers Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbmdLZ3JJMmxpUmJhNGUtWHFEZ3M4SVlSN3VvOXBxVGlFWVpqRGRSblhSWU9XQVZIQWxRQk5kYUF3UFZKcVVkZVdJRzd0bC1VX3pLUF9xeDdZZnEwY0FPSXZsd3g3cmJ1V0N2SXNNNnpmV2tfaHUyek9zVGZpZXBETlotWE5ibDEzZ3pKR28wdnR2NXRadkUxVEdGNWd1WXdHZVNmdDVsZ0hVOXVXWlBBenVvRUd3UENBdG9oUHFnam90VnZKRHcydTRZUXg1cWNpT0J0UGdtc3YtZGdfWHNTTkFpeFFPdW5nV1E?oc=5",
+        "title": "Procyon Advisors LLC Makes New $559,000 Investment in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU1lb3RRVkprOVF5cnM5Ry04WUlpMFU0WnZnVHRRM2dFeWpRdk5MTk54clRxRnZqcnF6S3lHRVNvcHB4UGl6Z3N5cElET3Z6Uk4xSEx6NDZIeWVxSENfR2VBVzUwU1lwMnRfZHVCb2hfX01pNU9nQThUWndUblVRRk1OaUlVNDVFUEFXVGQ3b3lCYTFpRDlxX05CUWZTdXAxc2J6YmdTZzZVZGxuWVZ4WFp3VnZpNXg3T2NiQ19vbTBTdnBSRmxTcFU2YmZsdHNTRnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ENTG Q1 Earnings Call: Tariffs and CapEx Slowdown Weigh on Outlook as Strategic Investments Continue - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHZnTmp6QkpnZVQyaTFqQnlPbjMwV0lNSHlsRzROeTJGUDhYRnh4eUYyTDJ5UWcwNmxiaFRIazFhZUFzV2dBUlRzbGwtd2Y3UjRqc0JIYVZVa2FOVmItWjQyUkRwWUFCTVlTRU5aMFQtOHBFc2c4OEs5RVhhZU1TZA?oc=5",
+        "title": "Congress Asset Management Co. Buys 12,583 Shares of Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHV1dDJwcFNWNGdTWm90OFdhdFBPR0pjUWszTk14eDU0TEdCYTB1YUhab243LTR4X2VFTERMdzlWMXlINWh5M25Kc3BINHh1MEVVb0huYjlkYmxsb1MySjJsY0QtT01DX2dfUDNDeS1YaXJ4M1Vwa3NFYmhxaldXSW9CdU0yRGgtR3FRV0M3eXpyY1pqM0VVWlNIUGNMMHdhZ2ZTcUVNdk5rWXJjVmRnV2JkN2tHSzZIa2hPajJOSzRYQVViYnF5RzUzUTE3SHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Entegris (NASDAQ:ENTG) Stock Price Down 6.2% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGVRM2dmak5rTHNuUzB4MmU0NUNBLW5WMnYzR21ZSjNGVzc1c095bGlqQ1ZfMW9SUkFuQl9Db0l6bERWT21FeW9rRU9CeHBjNEprQkhRTVZocVpvNmZ5WldSbERFZFNxWDk2NWRCbGdWUlpNcDVYbmNqWkVnZ3YwZGYxWGpIRV9GUUo3U2xZTlNnWDZmUG9pMHg4a3hUSnZTMHMtQ2xLR3lGdE04WFE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "GAMMA Investing LLC Boosts Stock Position in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjNZaHFXYXFJeWZZYk5LQ29KVVhGNGhwWVl2aFRna3o3ZFZncFljdWx6bW9IcFRocENZWmhfS19iUjBZQUUxeW1SUnlZMlBacDRfSnA3SE1rQ2szTDZnbzlhVGVKXzg3cm1Na29uVWhybHJfSTVFaXd3ZHY5OC1Ld2JTNV9ESGFYNUhobURUNldLa25QczZwQTNMb2lpVzVuVnluSkFsSllyYnRxc2NteHZpeW5MUnVBaTBHcFVoUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Rhumbline Advisers Has $40.43 Million Stock Position in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXRxR2hHeENWdHN2azNFYzNqSkNhbjlGdkdkQmkzLWtFME9RSUppQWh3LUlYZ1JvLW4tMlQ4cEN0VVBoQWtfeEdlSnlmcFZpdl9QZ0VCTVM2aFN1eUw5cU91aXVqSlBMMmd2YjhZMHFPa1JLd09Oa2R6VDhhQVBpR3dEcEYxMUpZRWhIaXNLcFU3QzRPUFMwRlRNMTE3VFZ0Z3FGbk0yZ05PWmlRRVd6dzZFZF9wcnN3V1ZCSmRKV1h5aUphcXBPNlRjRXNqbF9UaXE5dw?oc=5",
+        "title": "Fenimore Asset Management Inc Acquires 15,895 Shares of Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDkzTjNsa3l6ZE9qUWQxSGFSRzVZTEdWdXpJRW0xMmxDcmpHM1c3QzZaWTdST1A0SmE4bl8zSXVpYlVFa2czN01JTnFZQ29XMEkwRkxBZzdIZXU3SmdYaWYwc1V4bDNjNUFKbnRDNm9yWU9ONjRxT3Q1dmJmRldjYWlFX0xMRVc1VC1mXzA4ZU5VZGk5TjNEZHNpM25FM2ZPYkpGU2hGNU9oTXBsZWtTc1E0ZEgxQVBwaGdNalRwbFVZSUtoZjVza2R0SE1pdWdoX2tFdHJ3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Freedom Financial Partners LLC Purchases Shares of 17,000 Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXVDdURYRkZqZ2V6Mk1mX29ZMmFDS3hnSVBjamNOM29yTnJieDlyTV9jQW84M0pnNS12VUlvUThNZUhsVXNqQTZORFJlYVVjQ0VCUVhPRDd1VTVHR0U5MzdPLUdpeEEzajJHTldxZ3ByanhKbVBsaTFxRnhXbEFEZjAzdVpUc1RveVpTd1N5WkJpRnp3SzlpUFpPeGhJbXhyRTZMa3c2U3lGUnBuZUYxMzgxdUdfQnNKRTllWmpqNXlMT1VVbmxxUDNuYnZtZw?oc=5",
+        "title": "Polar Asset Management Partners Inc. Has $15.25 Million Stake in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXFyWDJ4bHNqNzhFcXk0d05vZ2JXYXJlckFudlJoZjk0bWpQVk9wcC1ueU9XWW1RNWpvMEV2MVFjVnRWNUpWRjNsckhad3NPNmtDR0R4Nl9QVXVJN2twaVEtdnpiLXVlcHVBdEJMUlhVb2dReE1CdEd0b3ZqRXRHQ1NQY2RPTk0tUjhwV3lRTGktV3o3WmQtY01vdDM5c3JnODZOUXNCXzhuNnlibVZYVUtiS1E1d3Ewa05mekVVYzZEeUo2SF9QTHgyQ1pzV0xlUDJQTXp1U3pIME41MVh5Ny1RWUsxZHRFdlp3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "33,823 Shares in Entegris, Inc. (NASDAQ:ENTG) Purchased by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSTB4dHM1RmdRWmZLZEVCNWR0LTBBSjlOLUI1bGFNNFNFM2d3RDhjOGlpVUZGSVZZQWlmRm1tbXJuUWlGQmtTMDFrM1hwYU9rSm51MHplLWxYZ1BZWW9oR2ZBRDhoN3gzUVpZUEVhdC1RM0gxdXZkQVZuVldCaUdRTVozQTZWTGZqQVJ1ZUxBX2hrNnM4amp5ZE1pZFNrUl9hNGVvWnAxS1gzX3RScHFJSEZXaFB6TThLNmRmeDNLYUk1Umw5dnpCQWIwZk43NGM?oc=5",
+        "title": "Gateway Investment Advisers LLC Acquires 3,435 Shares of Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTVdxWWdFeFdlS0hnOW9yS2I4TWJITS16U29EOHlBS002SE92c3FjLTVIS0xTS1FGcjBYSnJUdllYZVlXWjVINURURDA5VThyaThUU21WRkFZeHBieVF6VlVVSEpTdjE1TUdpZGxpQ01URktpQ0IyYlVDNm93MElVTDNPal92NmxLbGdEYUpHcE81cGFsbFRXeFV6SkJsT3V0SjdKdUhSN2JtMWgwY3VMTTVqRkpfNmFxbTZKYV9JZWVId2cyY09vN0JxU282MjRYZW41bE9Rcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Entegris, Inc. (NASDAQ:ENTG) Shares Purchased by Deutsche Bank AG - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLW9GT3RoQTJOWHJxdzFqSFhhQkNyZ0k5SFZfeWE4anVkVVllR2dOaW5RTWo4SktENnVzX1lIY0J6LURUMVlwT2d6bE9STlJBYUFsSXJoajhyZ3EyUWhxTVBNeFg3MHdWem1kdWZ0bGpFWHdHYm1YbVkwTlR1djA3OXZzRVIyUzZXSzRFUWxhTXJoQjBqZ3RJYUs1al9uRWhjQVI5U05TaUh4NmtDdHFhWnRpZUM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "New Strong Sell Stocks for June 5th - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91QkdKcFV3WEczNlR3TTJQTlB2eGs0bENkYTR0aE1JVHFsNC1ZSlc2LVFzeC1uekdqWEdNTlNsYjhiaDhqNTFIZ1NuSHhJODZnQzMtUlo4UXl4SDZ1WjIyRWc0ajcxOWQ0UFFvblBwQW5rMTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Entegris Announces CEO Succession Plan - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUJRdHFYNjdhM3ZzeldfWFRmelUzUG1ERXdQWHRTQlFCZnZCTFp1czExeGRUTHNBWEN1QlhjMjFFd0VJcWRvNnR1SGNuSU52SFVWbFJ1ZHdwSlhZQTB2NWhybkM2UzMweHNtaGZYZG5UeTRqbUV4NmFGLWgyOFE1Sy1KeFVuUUl0eXRqNmt2cEh5Zw?oc=5",
+        "title": "Sarasin & Partners LLP Makes New $1.54 Million Investment in Entegris, Inc. (NASDAQ:ENTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3RYTXFSRWEwRHpwSjFVTXQ1V1lCVUFYV0NLbkppZFp4SF80RTdJTkk3dGZOa3RYY3BWQ24wQVd1WnBqZWRubmxUMXN1d2dRX1Q5bkg1NVdDMm5hQW5DeWc0M0cySGl2OUdST1FHVy1ZRHFOQTJvZm1BUUZJVERTUkxqUWlCQ1paOHd6UmItRURNZ2lscWM0QVFYMURuMldFbjM4aVFSZVpEd0o3d1AwOXpUU1JQUTRTWXpoUUZFclV0RzlHS2VHS3VBVTByNEZnNGhpb3dEUzE?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

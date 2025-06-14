@@ -2,16 +2,16 @@
   "ticker": "HON",
   "name": "Honeywell",
   "sector": "Industrials",
-  "market_cap": 147058212864.0,
+  "market_cap": 143903031296.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.277588,
-    "PB": 8.413624,
-    "EV_Revenue": 4.34,
+    "PE": 25.713795,
+    "PB": 8.233108,
+    "EV_Revenue": 4.329,
     "ROE": 0.32676998,
     "ProfitMargin": 0.14512,
     "GrossMargin": 0.38059,
-    "DividendYield": 1.99,
+    "DividendYield": 2.0,
     "DebtEquity": 188.514,
     "CurrentRatio": 1.253,
     "QuickRatio": 0.837,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.11104487686671419,
     "ROA": 0.07409,
     "PEG": null,
-    "EV_EBITDA": 17.425,
+    "EV_EBITDA": 17.385,
     "BuybackYield": null,
-    "PriceToFCF": 33.80233875402448
+    "PriceToFCF": 33.131695740698525
   },
   "technical_indicators": {
-    "RSI_14": 65.72911808606236,
-    "Momentum_10": 2.276079339424021,
-    "MACD": 4.730999841344584,
-    "BB_Percent": 0.8279976008474766,
+    "RSI_14": 54.35384369394098,
+    "Momentum_10": -1.2088081860405002,
+    "MACD": 3.276298694084346,
+    "BB_Percent": 0.2943401293066939,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9286832096503824,
+    "ValueScore": 0.8803045724382019,
     "QualityScore": 0.3493992464386978,
-    "SignalScore": 0.4861741456371345
+    "SignalScore": 0.5680618411478731
   },
-  "volatility": 0.0182355123237866,
+  "volatility": 0.0181952427441537,
   "beta": 1.069,
-  "return_6m": 0.0204649965314778,
+  "return_6m": -0.0068692452873388,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 239.96652
+    "target_mean_price": 240.18391
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 225.09
-      },
-      {
-        "date": "2024-12-10",
-        "price": 229.08
-      },
-      {
-        "date": "2024-12-11",
-        "price": 229.06
-      },
-      {
-        "date": "2024-12-12",
-        "price": 227.69
-      },
-      {
-        "date": "2024-12-13",
-        "price": 227.62
-      },
       {
         "date": "2024-12-16",
         "price": 236.0
@@ -537,24 +517,59 @@
       {
         "date": "2025-06-06",
         "price": 228.78
+      },
+      {
+        "date": "2025-06-09",
+        "price": 227.13
+      },
+      {
+        "date": "2025-06-10",
+        "price": 226.26
+      },
+      {
+        "date": "2025-06-11",
+        "price": 225.82
+      },
+      {
+        "date": "2025-06-12",
+        "price": 226.05
+      },
+      {
+        "date": "2025-06-13",
+        "price": 224.29
       }
     ],
     "current_price_data": {
-      "price": 228.78,
-      "change": 2.11,
-      "percent_change": 0.93
+      "price": 224.29,
+      "change": -1.76,
+      "percent_change": -0.78
     }
   },
   "news_sentiment": {
-    "summary": "La société Honeywell International Inc. a récemment enregistré une augmentation de 0,34% de son cours de bourse, soutenue par des nouvelles positives telles qu'un investissement de 1 milliard de dollars dans l'informatique quantique. Les résultats du premier trimestre ont également été solides, entraînant une hausse des bénéfices et confirmant la bonne progression des scissions prévues. Malgré quelques ventes de parts par certains investisseurs institutionnels, des prévisions optimistes de Citigroup ont contribué à maintenir un sentiment positif sur le titre. Les mouvements récents des actionnaires semblent indiquer une certaine diversité d'opinions, mais l'ensemble des nouvelles semble soutenir un potentiel de croissance pour les investisseurs intéressés par Honeywell International.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "summary": "Honeywell International Inc. (HON) a récemment fait l'objet de plusieurs mouvements de positions d'investisseurs, certains réduisant leurs participations tandis que d'autres en achètent davantage. Malgré une baisse de 0,34% de l'action, l'acquisition de Sundyne pour 2,16 milliards de dollars renforce la position de Honeywell dans la transition énergétique. Les analystes mettent en avant l'exécution solide de l'entreprise, son exposition à une croissance séculaire, ainsi que ses acquisitions stratégiques comme moteurs potentiels de croissance future. Cependant, des avis divergents subsistent, certains recommandant d'éviter HON tandis que d'autres y voient un potentiel haussier.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Honeywell International Inc. (NASDAQ:HON) Stock Position Lessened by Park Avenue Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORG9xZFpqdkg5Vmoxd3l6dkV3a1pVSWVZMGstTFJiYWFhTHdPRjlTX29MVjhMSkdHblNxMFMtX3FmNE9HaS1fSGpBS1gyMnZyNXVfbEs3OWI3ZTE5Y3V1eDdvV0ZfV29EaGwzT1FrVU5ZckowN1pnbk0zWjYzY1dHTnl2a19CaXBzaTR3Vy1EV0t6MWFWVWpwR2dlYi1HVzRxanR4R1RWNXNpMjhFc1ZwZzI0S3Zud3JRNllqVnZ1eGdwWHVjenJMaG5jV29LVlJBS2NlMmhqclIwQU5RY19VYktB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HON stock: Honeywell’s breakup is paying off big time - Investorsobserver",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1Vna19oNVZ6dm1PUTJLQnhqcGlWS1RfWlNVQU5mT21nYUcxNi03djBnRUpZbVBHQThKdGNiNk9KU2VPWTl0Tkw3ZFM0bnVJZ2JsS1hkb3oyeFJWRGk0djE4Qm1MTkI1RHluYTF3MzVpTzdab3BsRDNGbnNrUlZMMXFOVDNPaWpMODBqdUtUanpKWlQ0NzlMS1ZKTXRyenlObXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Undercovered Dozen: Kraken Robotics, Honeywell, Blue Owl Capital And More - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEJWWl90RFBVZE8xdTd3b3ZjMXNHSGY2U2l3cjZITDZ3YUtyU3pzNDdpMzlULV9nQVJQU0xTMGpYLXJYa3ZfcGRXbnY1UkszMHFYaF93dW1UNDJCc29XdUlNWDlDRXYtSm1DTGNOSEhCaEFUeXNVT1F0SnhFVkhMZllXazJINmhubHVDRU9kZ2NTY2JCbnpWZVBNeFE4eENkbTBBR2U0ZXp6VkZ0NnlnQg?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Honeywell International Inc. (HON) Stock Moves -0.34%: What You Should Know - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGF3Vnp5U2VxbGF0Z3pTbkgyVkNSMjcwdlZIVXJ5dG1XZHFIRVp2cF9wbktWeklYRlJnNThSUWtJZGU4eE9sZldaRDUwb1lhdV95SVdRNHZobzlwa1RUMkpRaS0zS005QXMtQWowR1JhUEVzVXF5Y3VHekRtYU5SZGJQUTJKQmVOWFVB?oc=5",
@@ -566,19 +581,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Beacon Financial Group Raises Stock Holdings in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNThpV1ZySEt2dGJWSnBvNVR6eEhkLTJaQWtnMkF3d0hxM1J3Vy1sZDBUMVF5OG82VGpUaTdDSHl1MkFaamo0TngzM3kyaVhndmw4N3pTZWtMNTBSTDdNN0lYaHRHRXpITHM1RXlwbXozeVVYV1o0Q0ZweGFJSTJlZ2duQlh3QnRrUWFwbmVRaDAtMGlYelpEcjQzTDRMQ1JHMlVaWGxhVDlQNENXTFoyNGFnRVZRbWlyMkszZWRJYk5ieFAyaklLVHZndEdnUV9ZN3huNFVBdk5VMWNFYy1r?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Honeywell Just Got a $1 Billion Quantum Computing Boost. Should You Buy HON Stock Now? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVNNbjliS1RNeEJYR2xIMnJzRHVRUmY3eGtLWmdPbDhNZ0Q5akg3NHN6LXdtTkIzLVpYQ3k3N2NtaFBsX1doRjY1ZUt3Z3hzTWE2cXRRemZDejVTUGFkYXZVYUFicE10WDNMUXItRWRWNC03OV81QnRscC1udjJoOE55Ykd2RWRCSk9pdldPdEM5NHhQbURlaUtqdElISDB6ZEs4REFCczlpQmE0dm5BU3VfSk1rYTB3ZFFaUXM2eWJfdzRXTkxR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Honeywell Stock Surges On Q1 Beat, Hiked Earnings; Spinouts On Track - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOE9OaUk4SmxoQ3UzbUdCd1JNOWNuVVptNGM2ajdhYnIxb042MXBlZ1ZBNmFoTlNpUFdUanhBbU4waEZteXVtZzZBcW56MlRPM1Y1MEU3WlNjODM0UVNOaDJ3U1J4Q0h1TTVEVkZ6UHVrVGx5alA3OFJlR1B2WHBicHVGTTdGOGVrR0Q0RUUwaVJEVHgwdHAxc3pnWUw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Honeywell's $2.16B Sundyne Acquisition Accelerates Energy Transition Leadership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGhscmxSOWtTUHBDV2JMWXR5TVJwU01SX2U5ejZBS3JQYUpfUzVCNHdmM05ubTFTZU1QTGV1Z09CbjhVejNOcDZPYlhGMDV1b0hWS3NETnFRaEkwNGJ4NTBHUjRmMExpNGI2bkdPSzVpaGt4MktWWUQwWG4zbHFCcnNXZGtOV1RWUzA3TVBRY0dKV3hlbDcxN0hWd29GU20zNkFUMFhnQ1pFQmhpWDhDSmxmVm8?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Honeywell Earnings: Will HON Stock Take Off? - Forbes",
@@ -586,76 +591,71 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Honeywell International Inc. (NASDAQ:HON) Stock Position Lessened by Salem Investment Counselors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX1BkVXhOaDJBNGZlYzMxd3h4bThhTW8zN05UamR4MG5RT182RTJNdWM1dzV0ekFjTjB1NWt2cUhPNkx6dzBfQUU4Q3pVMy1zUGhJanJTaGhsNUZxQzg3MVVhSWhfeGN1WHo2cHp2ZHVHSHhoUkxRRDI2NDVncjBzT2JlbW9EeXFlRDBrZ1J2U2txOWkxV3RPTFhuT2Zaa3Ewa21LRUZJTGFaT3RqWWYxa1BGQzRzMDQ2Q19ON05YWVRtcFBHalM2X1BvN1B0Tm05a0FOYjd3Zm84ME9HSkVmM3NHMVl2OHFRaGk5ZjJR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Honeywell: Good Execution, Secular Growth Exposure, And Strategic M&As To Drive Upside - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNG9OeEkzcG1TM2lham5SZ2sySjVfVWpQa2poVC1qRk1HM1c2Y0hJdmpFUWxMbTVDeXVCdEVycTVFb2h2aTA0d0pjc01ZSm1kS294RDNscEptaWMxUnlYUnVQNzdyNU13UEJHcVI1MUJ5dngxVEl5LUVLN2VUaDI2eG1IWGNHNlJsdkVPX00wVTd6ai1mcXZnNVg1ZmFPRmdTOFVDVWJlNHd5NTcwQ2g4YklEMDloVEhoMEtXMzRfa1h4SEU1R0JjVzFSRkFvVU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "3 Reasons to Avoid HON and 1 Stock to Buy Instead - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91amQwOW0zNUFfRjdfaHRjUHVtZzJZVkhjcHF4N1JZd04zbGd3MUFRd1VzN3QwR3FfNk5wQ0lFWS1MdGpTS0U3OGs0eEs3OFJjZ3IwMERRMElhalRyNjJpenl5MW5JLUc2RGJqV2JBMVNNSXpSUlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Addenda Capital Inc. Sells 6,255 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbUF3Tm83cUtzeHoyRGo3UDJFNXV2UHQxMG1TOVU5Tjl5RC1ndkpFY2w3SDN3WXg5cGVXNVlsU3piTWxDZVZ6RjRiMVBud0tzbGN4clFrSWhLTXdpMXJYLUtLUF9TclFJdWUxenBqTGZxZVdrTDNESVB5X2RLOWNFTEtxVEFtMlI3YW51NDhiQlc0Um9wWWJvUzJSb2t5Rko3b04yY0JiV1NfWVF1RmRwdFdDTTJWZFZYMnhYdzducE05M0RLQVpIblc2QlZCMG15YXc5WHZMQUppbFRYYmhv?oc=5",
+        "title": "Trust Co. of Oklahoma Has $3.77 Million Stock Holdings in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNHpOYXZZQU4xUklRRWNaT0dZRGNVdGhJckRCVzNzMWhWZ091d3o2Ym1LS21FTFhhT3N3d0d5SXlCOE1qQ0FfWF9OSldMUTYxT1d4WWttQU9ROU0tOXA4SXhIQ1FJRGI2bzItMFE5bEk1S2Q0V2lhTVIwVUI5Z2MxZUNSZjdXNExib25OVUZtNU5kS3hianZmOFJLTVgydGN4OFZGVUpTbEY5SUVvay01UlRRS25rbTdKeHZkYTdvc1FTcndEaUxaZjlZU014N3lVOXJzeVM4VzB2am0xUjIyaQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Honeywell International (HON) Shares Cross 2% Yield Mark - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0tpRzktMWRhajA4VlhOejNDVW92bVk1Yl9KNmJkMWc1MF9NUGhGaGNBV3pubGVMZ054a1JhZUtTRzFvVWw2WV9ZdXR4U21iR2lRZi1UcTF1bTBBVHpxWWREY2dDaFlHU1dXS1NyYTgtcmEwblFIc2ZoQlRieG0xVllJXzhqN1BWSXd2b0JSUUw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Two Sigma Advisers LP Trims Stock Position in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPamE2RzdhV1dfTU00Q3NMTXE2LUItTVUzMlNFSWtjcVBVMFhFeWNyckgtLXh4NGxxWmJGd054cUFXNGJUZGZUZVRHaGtJS3B6ZjB4dDVFT0tCV1dzdUlUU29DalJEQkJBcklmSkZKZU1MVFVDNkhNem83U0lVSjRVYl80d1h6Q3k5eFE0WXo0MVJ0SFgzS3NNV3pTT1c3XzZUbGQzb3puWi1aX1R6QlhfdW01Q0RucmE2WHNGaHhlWTVoQ3FmdThRYXY0aHJwYi1oNkQ2Z1NUSmVIaHpZ?oc=5",
+        "title": "Honeywell: Key Acquisitions And The Spin-Off Can Result In Upside (HON) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelp4V2Z5emkwVHlmdnpjaWJmTFlWUnFpY3o0TkN4QVB6bk4zcWczazJfZWNCWndfZ0pSeTFsR282R1Z2UDE4RndFR0xFbTJtX25GbkVGLWhDV0ZqelV0SExJZnpIVGRxTEZSOW1lY1ZzVEUtM1A3ZzlfcWhZU0ZwNjI4T2p5S0h2dEFWSjRUbDdFNjJBRnluanpVdDVEMWdYMkRnTEp3?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Citigroup Issues Positive Forecast for Honeywell International (NASDAQ:HON) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemotLUdOY3pNLUlFRWs1LXpCc1VLc0lPdTNQN0dZNUN5SDlJMDhJU3dqLVp6X0l0aGFHSHZDT016WkZHcU02eVdNMmRjLW9iWFJtLWNpRnJpNy1lczZGYkJjMVMwMzZOM21neTF0dHVqYUVLRjdqdVByTzlIc1Fabndqb3lXOE5jOXBRQklKVFV1a05LWExGS25zclc4aGJtWlhheG91NGN2RkNfc1o0UnJXcmFTYUFHakVYZ2FQTC1Gbm5IX3h1dA?oc=5",
-        "label": "POSITIVE"
+        "title": "Honeywell International Inc. (HON) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0JlTUJMcjZYcER3ckN0cFBtSGlhME1lckEteldSTlJLZzlYTHVhaGJKTnUzRllFc1NHWXJFVG40UkdvUXAweEh2ZmktM29DbWdnMVJJUFd6MGM4ZnFQSmN4S0J0Y2dNaG1RalhyRVhKMHNlQ1czaXpOTzR5UEdjSnJTc3JKZ1NDWU5Z?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Honeywell International Inc. (NASDAQ:HON) Shares Sold by Douglas Lane & Associates LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOEFVMWQ0RVhOSjF3RUM2V210a1JGNWZucERRdWZPQjJwRnduXy1MZ0xsNkxpUzM0SHl5V3E0TTdESVowalExQ1dtd1lWZlhBbVJfZXpVWnRZOHdObmhLeklpNjJxZXBveHcwa3FMZ3hQWGl2OTc5RFJrMElmQ0dpLVRHOERjY2pNWDNzelh2eTQ0LTNtZXJHTE9YdXdmWW1xMEFhVEh0ai1XZ2VWTkJJaU14RWdrcG1CSVp4UEtUMVJSS25URFRja2pXd0hjYXJJWm5TU05qQ3lqd1ZuYU9V?oc=5",
+        "title": "Rockland Trust Co. Has $22.26 Million Stock Position in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0tuN29ZRS00WFl1SUgtWEI2cXVsR2NiYzJLRHJRaWZvLWV6anRzX2hySUNQZHIwY0lERU5OcEFNOWhBeU0xdmhzc2NsZ0FDeHl0RlZyOHppTkxDVlVqOVlUelp1S3VFcGZJTlBOX2RFdndIM3gtekpKa280RmxvZllPd05ib2hzYjc4NXFnekFTcFFsYjUxeWwxMzk5djZ4cW0xei1OcnJ1UDRwN0IzN0NkVEZYaXJNQkFlNUdZS1BqQWhQZkVFOEFZclMybndPYlNlbk1hVU13UnVFeWtsbHNPNTJEdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Honeywell International Inc. (NASDAQ:HON) Shares Sold by Grassi Investment Management - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjNHTExaZWpzcl8wSGlHNzFDQ082UVp4WldtZmVRdTA5bzVCZ1NzWmV4NEVKM1FJUnJLejd1TFZYdEhQWVhFUUxCY0RFNXJBREMwMTdUbGF0YWZja0owYV93TXdWS0FiNlVuT3hpb18tMkdFUkJPcmVFT0RqeDhNRkZCWXhCQ1pRU3NBS0xmV1dhSzNQS1dvUTZnRjc0eXpsdi1fRVFHX1UyWGhWT0g4SUMtRVFXb0NVSUdoME5NaXVXQ05DRFdsZl9PYjdMMWdvWUFYWE5OTWVDOFM3cVd3?oc=5",
+        "title": "Fourpath Capital Management LLC Sells 16,273 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM001MWh5cXNNSTUtNlQ2eW1NQzk1TFhTYm1ZaTFFbFVlcHZ1enZmVXRnUzdpOWJEUURZWnU2M2djQ0twUnc5c3FfZWE5RkE5VjQ4aXU3WGRvOTVtZXFVRnBzdjFadkdVQ3BqU2t5czQ5cmwyQVg5WENENW1lNmpndlcwdC0yVzFaZ1JPazNrcGFLVldxbG5WRlp5OGxvR2RFOURFYjRsOTdWQ3BGVkVxMF9hZWhXLWZfajJ1eTNfNldIUFFjeUI4cUs0Y3ZuYWRzcm1ScGFrNERMQ19abmtqRTdB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Romano Brothers AND Company Sells 1,144 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY0kyMHZqLVBNS3hyd2wwZTAtOTVtUWNwdXpxeFJkSTFYODVJSEVxc1JZTkZ4ZDhWMTBlcktsMFZzUGMtc1huVXdQRkRWcG4wTW50VTljOEVTVDhqUVBDeHJnWEVoa2pnMmo5ZWljc3F1YUo4Q1MtNVA5a0N1b19KU014YVpuMWpYTDNfX3RTZVdIVTZwOVJTdDE1ZG5CZS1UTmY5UjExLXJfZHJ2NDBFQkJvS0E0cTZPdS1fcWtid3VnNzVXNk4xanZXU25IR3pWOWxSbUJYLU9MZlY1OGFQR1Ywb2tSWG5ZTEdFanFUQ3hydw?oc=5",
+        "title": "Stanley Laman Group Ltd. Sells 2,865 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSE9fNWVIT2J3ZElrSFdoSENieW9nX1l3MWFkSEJQOVJvYUVISVROZVlTaVY1M3lGMjVmdThWd3ZWV0R2ZlhYM2xaN19IWGN6UWlIbEFEZk50STFVbmdwTllEcDN2bVF1MWhjQ0NwbzE2OXM4LTZONERqWmVnTDZoSm9MaHNyclJBSlQ3OW95Y1BfR05IMW56LWZGc0s2M3pTOFhucUtXZHBTWnZSNTBLdS1TSk4zZ00wT3ZlOFlzMEkwbGRKdjA3eU4wVk9tb1djWUtURVh2WE55RUk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Talbot Financial LLC Raises Stock Position in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTI1TVFrM3hCTURfeTVfdmxYbWhtSmdURHVCSXpkUHpvd1ZjX1hPUWs3NG4zTkZabWtjQklZdTF6Ymo1d05Nb3pmYll6NEdvUWNvOFljZGpuR2VRQV82RUhrc2p3R2g0Q3NzdDZiZnhGdUNmNElaN3NMR1BMcFZ6VUNlMERoVVJyQWc5aXBySlBRcjV3UXNIb3pFRm1mMEJRS0M1cXlMd0k3RF9CVzktT1gwSXk2WmVDV1l4ckhtRnhzVWx5VEpSc0lheUlpWTJOdWROdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Honeywell International Inc. (NASDAQ:HON) Shares Bought by Breakwater Capital Group - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmtiUHM1STJKQXhOdzc3cW5sa3FSREdXTFphalY5V2VGbXYxTUxEQTVpZnNxbzhJeDhsUmxBUEhaRFB6QXA2Tk9LUGx3bnJRbG1NTmxmN0pxSG9pVlNCczhhaERCMUh0UVFUcFc4RlhSSmdKc3FWRko2X09MMGFYTnBlTTFPYWw4LUtxT2lBSndhSkVad1pFOUt2N0FlUWtId0I4dmFoeC1ydW1pQlF2NUYwcV91d2tVcXllb2t6Qnd4ZnRlS19pck0wLWNjcEtsbHdxbURGOA?oc=5",
+        "title": "NorthCrest Asset Manangement LLC Buys 3,631 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZm9nYmE0NjF2Z3Nrb2ZwSDV1enR1Y0JKeDhHQXVSYzl1ZmZrY0tNdndSS2Z6ZW9Ed0FSOWlSVnBNdEJvYmNnYzhvaVFnWmVBcS0xNklBWEcyb1ZkSUpNSEdPTFI4SzRBZmVwTV94ZWhNZ0VtblBveFdEUzB4M05CQVpadDFVSWF1SFVnbmd2NXFjREc4RVhEajlyRnpQVzlhZGd5eG9MTUVhTE5raXZ3emJERjFEZlh1MTBnUERrUjY0U0MwQ1h5Rm96TXl5VkhLTnJ6dFJLbEV3alNkSER0YVNCLVJGdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Baxter Bros Inc. Sells 1,796 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTl1RHlZSHNUcHJTZFZwU3pxY0NTVXhndzNLZzhjZWdQd0FLU0FiYWttOG81aEFGS3RUeDBXNnkybjlpUWV5VVFBMzNVNWxLZGg1SzFTUk9jcHZ3NGJ5ZVlDbGsycTlzamtyZW5BN3BsUElHQ0ExcVBxeWpvZXNFU1BvZGtSLUNGQ2JLTHB4c3paaEhpZHBqSmNkWjdqWXRNVHFsS2R2MUNmNDNPaXJ5U3Y1aDBGNlJGSkp3N1VWdi1RX3Q0dm1fWjAwVFlkZGZ0?oc=5",
+        "title": "Folger Nolan Fleming Douglas Capital Management Inc. Trims Stock Position in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSlJhUzlWWmg2SXpCX0RrMk10cUhFZkRKV0JkbUtZR0R4YzliazdpZUFLb3ZKaThUTmQwVmxZanQwRmlvdzJGQnZleDVZYWhnczlvMnRxZExIZXB1Z0xrdldqVktwV0U4cE5UUTB2X1ZqMnVEMkpTejNQMjAwempTV2tTWUVGazRqUjhrZzh5QzYyLTJDU0pYTTFfcVlvQ2U3VnZhNDZCdlZ2NkY3ZmhmT1Exc3BTX1o1NTJsdnN5Wi1TeTRIeFlQZUZSNHJOY3FjMlZEd1BuUU9faTVjMjFQdTUya1E1a3QyOVJlamRMdTNPeFFoU1lsdWsyZ3ZNclRuVWdYVA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Bar Harbor Wealth Management Buys 10,655 Shares of Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMkdVenNVWmlnTWUzV1N0TXpWdURhN3BGd1l3eHZ4d3pZa0dMVFJXOXE1Smx1SVVQTmU4WnJGbTFfQnBsUWJhaTRYdG9pSnkzUlBQNjJJSzY0OFd6SU05UWIyaXVILVF0WXh4NWZFVmFWWm9DaVh6Vkc1eXdlTmtnbS1xVU1LZ2loc09vWGp5Z2MxR0ZRV241RXMwckFhNkxya3VGeFlodzNPcHJTNm42VHZNdjZ1VlY0cTkwV3gtWkZ1TF9Ublk5R2RTdW5xdUtReFAtMGJ2UWFWYm9SaTlDZVZB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Honeywell International Inc. (NASDAQ:HON) Shares Sold by Parallel Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLW5PcXhtUFV3dktnenM3Rzlxc21uTElmRDBVWnhUb1J5WUVNQUJlM2xpRUIwVHZaUkthckJRQnh1bmxVa0w4UUh4c2J2M0d3QjNLXzdyWlhZUDZwaF9MX0o3RVpmWEtsU0RpbnIxemdWSk5SeTNoRi15TkhGbEFXdm5mX0dDT3Z3dko4OS1LclJiRkZtanRUS1NmT3pDclJ5a3hQelhlSFJtMTFpN29yMGxLc1o0SmVPbVc1UzlWNVBBV21ZWGNHSENXMFNDZXdUZkJwdTZqWjYwRndoS1FGZWRrN2RlVE43bFYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "1,363 Shares in Honeywell International Inc. (NASDAQ:HON) Acquired by Mirador Capital Partners LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmp3ZTJiTUtiVlBubWJIVXJYZS1yNjBYbm0xZzRlRFJRVl95TXJzWTc4UmRCRDIzVU1CMkxndUtUTzluM0ZIUkg2eTNRSmxlejh0SmlBVGNtY1B5YVVHQUJUSnFFdXRxRWhoNW15Y0dDNnlVM2FPS19CdDBpeHUzUDlUQWxSWTFWaGRRQVZQb2pnQUlvTjFoakN0bENwaTItRTZvUXpkUWRwd3M3TVJPelFMVG1scVZKWU1OTU4zQ0pzX3V6UFNDS28zOGVSeDJUVkVmMVZkTy1oaVhWRjJkVDRibUx4dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Honeywell International Inc. (NASDAQ:HON) Shares Purchased by Veracity Capital LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ244TTFhX2g4YlUzX3J6RGJNWlN2bFM1b1BJb0hyNmJWQ2Rsdmt4bEdJWXVwNU9zUWpKZ3ZXRjVFX05tVlBVZjVrOXptd1RoOVI1RlV5aHZtRWtrMWdfbUF3d2lMMjNVdm0ybDJ2UmUyNGVLNjAwVlRLTFJXZDVfbEdWczhLdVhoR3FIckt6Q0tDaFdKdDc5WFEwYVF1V09QMFJmdFdfcGNua1cyV05lSGFjMW5weXlqU0dYMXE0Z0hFZzZONGlkTkgtbzZvMlFnNDVESFJLUzJXX1k?oc=5",
-        "label": "NEUTRAL"
+        "title": "Congress Asset Management Co. Cuts Stock Position in Honeywell International Inc. (NASDAQ:HON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVkwT0pvR0RtNjFvVEdqcTNTZlJBM1AtWVo3QXNscmZBQ2IzMlBOY1RPRy0zcWFxc21DdmNSbWJTYU1sZEVidmEwYWVqUU9keGdWNFEyc2xmZXRtMzRjTWU1ZmJvdmd6OXZib3hRcjNYUUplU2htRlFHSkJYNEQ4NXpISjROeWV5MExwZHBhTTExeE80WkZidnpHMU9wUjNlXzBXNlZjS2t6TEcyaWNtcWtiQ1Qzck9id2Iyakt1eTZST2ZEb3g0dGhnZGRfenpTVTZXUm9xY0pndw?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

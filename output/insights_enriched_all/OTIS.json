@@ -2,16 +2,16 @@
   "ticker": "OTIS",
   "name": "Otis Worldwide",
   "sector": "Industrials",
-  "market_cap": 37845577728.0,
+  "market_cap": 37877149696.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.102095,
-    "PB": -7.395496,
-    "EV_Revenue": 3.143,
+    "PE": 25.123037,
+    "PB": -7.401666,
+    "EV_Revenue": 3.189,
     "ROE": 0.24987,
     "ProfitMargin": 0.1083,
     "GrossMargin": 0.30175,
-    "DividendYield": 1.76,
+    "DividendYield": 1.73,
     "DebtEquity": null,
     "CurrentRatio": 0.942,
     "QuickRatio": 0.783,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.0951389837605623,
     "ROA": 0.13961,
     "PEG": null,
-    "EV_EBITDA": 17.671,
+    "EV_EBITDA": 17.933,
     "BuybackYield": null,
-    "PriceToFCF": 28.079579647420502
+    "PriceToFCF": 28.04445762359855
   },
   "technical_indicators": {
-    "RSI_14": 48.36200134837542,
-    "Momentum_10": -1.3377269475976474,
-    "MACD": -0.431761517070683,
-    "BB_Percent": 0.3874261169319183,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 49.15653154382389,
+    "Momentum_10": 0.6082871948992276,
+    "MACD": -0.2434845399471328,
+    "BB_Percent": 0.4422719337198738,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9363126921677244,
+    "ValueScore": 0.8912408388386734,
     "QualityScore": 0.343632193631574,
-    "SignalScore": 0.6093334899946119
+    "SignalScore": 0.5836092008529847
   },
-  "volatility": 0.0150821005981595,
+  "volatility": 0.0151060675228369,
   "beta": 0.974,
-  "return_6m": -0.0311822488237513,
+  "return_6m": -0.0106502327257926,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 100.87
-      },
-      {
-        "date": "2024-12-10",
-        "price": 100.06
-      },
-      {
-        "date": "2024-12-11",
-        "price": 98.99
-      },
-      {
-        "date": "2024-12-12",
-        "price": 98.27
-      },
-      {
-        "date": "2024-12-13",
-        "price": 97.79
-      },
       {
         "date": "2024-12-16",
         "price": 96.19
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 96.06
+      },
+      {
+        "date": "2025-06-09",
+        "price": 95.32
+      },
+      {
+        "date": "2025-06-10",
+        "price": 95.32
+      },
+      {
+        "date": "2025-06-11",
+        "price": 95.4
+      },
+      {
+        "date": "2025-06-12",
+        "price": 96.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 95.82
       }
     ],
     "current_price_data": {
-      "price": 96.06,
-      "change": 0.79,
-      "percent_change": 0.83
+      "price": 95.82,
+      "change": -1.13,
+      "percent_change": -1.17
     }
   },
   "news_sentiment": {
-    "summary": "Otis Worldwide Corporation (OTIS) a récemment connu une période de sous-performance sur le marché, avec des résultats trimestriels inférieurs aux attentes entraînant une baisse du cours de l’action. Malgré cela, certains investisseurs importants tels que Wealth Enhancement Advisory Services LLC et Czech National Bank ont accru leurs positions dans l'entreprise. Cependant, des ventes importantes d'actions par des investisseurs comme California State Teachers Retirement System ont également été observées, suggérant une certaine incertitude autour de la performance future de l'entreprise.",
-    "sentiment_score": -0.2,
+    "summary": "L'actualité récente entourant Otis Worldwide Co. (NYSE:OTIS) présente une série de tendances mixtes. D'une part, l'entreprise a annoncé une augmentation de 17,2 % de son dividende trimestriel, ce qui est un signal positif pour les investisseurs à la recherche de rendement. Cependant, le titre a connu une baisse de prix suite à des résultats trimestriels inférieurs aux attentes, ce qui a entraîné une pression à la vente et un creux de 52 semaines à 90,09 $. Malgré des acquisitions récentes de parts par certains investisseurs institutionnels, le sentiment global du marché semble mitigé quant à la performance future de l'action.",
+    "sentiment_score": -0.3,
     "label": "NEGATIVE",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.4,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Otis Worldwide Corporation (OTIS): A Bull Case Theory - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREx1c0JkT3E2RFR0cTI1S1hvVHFJS2NaUjQxWDRlZWNQV3RwU3kxOUlqdU1zaTA4N01GNzllOWVVRHBRSFJCWlQtdXN3VlRZeTl0ellFVC1zV0hUVG13cFgwcnJsaU5IeDVfeUVEV2ZfZFMzY3lVTXJQb0N0bE5kS25Ud3lrYUhETmo0U2UxbWRZUUR4SEZKY244ZTbSAaQBQVVfeXFMUDJyazUzN3hLOTF4d1A2bWVHQjR6bk00Q1h3Zy1MQkRRU2hvbnlDZldrLUM0YmJyZE04NlU0aXR1R1hWZnJWdERCenNaT2dBa2wyLThVQmh5T3ZKVnVyYWtuYW1kNUtKelhfYWw4Mm9mOHdaSnJoekNFRnR2UnE5OUVDTkhxaDc2RkJwQjJrUl9aNWhRNkZyaHVPRkRvRHZ0bnNEUE8?oc=5",
+        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Purchased by Quintet Private Bank Europe S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbnY1UGNQYjhFSG5BV3J2azhQOTJPU1Y1aEFieTZDb2I5V2k2SEdNbkZiTngtX3dnQWdqTmxNQTM5cldMb2k0UThpallSSHVjODh3WVdwVlNOYUdsX2dsUVFVOUdnc0VJd0lBcThmWk83VkZWMm52cHg1bTA3QVMxbFlfaG5TUWZmWEFrdVJ1TndOanJTVXUwQ1pHbFRUS194T2NkeERyRlppcmIzODY4aEJZVmdmS0lINjVtb18xaVVOYlZ3dG1kSHAzdXE5RXRFRHNUcg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Boosts Stock Position in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1pBT1dFUGVFMlVFaE5KSmlwblVCSEVKUHJGQW5xaVRGb3J2aDF4X1RjQllpTzQ0c0JYNF9VUTZmUlpZelk3QWdkWkp2cXpabVdGMmIyQlRldUUwX21scWNNUGpzU3gxWmFKYTJwTE1Rbkt4V0N4QUFJVDNoQkZIMzJyX18xNmlfUEwzUkRVMHdTNl9lMzM3a083YWdyWmZRN000ckVBLWdtWDcwQTJKSWV6MzNWY29EVkFESWhDc3dkcmpKTnRkOXA5aw?oc=5",
-        "label": "POSITIVE"
+        "title": "Is Otis Worldwide Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejNhUldPaFlBaHRlaE1fOWRsdDNES01CenUyMERjTHZxYjY0dHZMbnN4bEUwenhzMURWMjBEVVpBUm9tWjlTOXJkc2ZPektoSHRzakhhVU5qTTFNWVI5VmpfY2RUczN4LTBGdV9WTEI2eGRGUW5wQnAwZDRpTXhRWDNoMmlDY1BKMFI5V3NCaHo1NldGSWRVZXNlMWMzd3cwSlBuRTBjcGlNZmNnb3NhT09tanl2bVJKSkNuR1pKS1hKb2trMTZ3STNn?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Are Wall Street Analysts Bullish on Otis Worldwide Stock? - Nasdaq",
@@ -571,13 +571,33 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Otis Announces 17.2 Percent Increase in Quarterly Dividend to $0.34 per Share - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS2l5Q1hSeFBwSmNGU0x3eU9VR0N4aUw3a1YyM19uMmY1MGxrSWItNnd0UDE0RXo2T3ZJLTgtNUFRaTdlbWpIWUdqMFZUTEIxSmMtNWJxN0tZZ290d1VOMWszUWZ0ajQ0RWxWbDIwWmFsOUlPeXc3VGZpSUI0QkZ0Y3RTS2NVM083Tng4R3lhLTVzMG1UUDBDOHFFZ1FhaFNRUHU0ME8tQXFKWUtWdjBCTm5TQ0tSc1g2cDN0bEJVbEV5VVo5Wm1xaE9qcnlHeTNCZ1IyY3F5dmVNM2dmWFBzR3p3WGM1WlFXdWNKb19pOUJrU0hMbmpB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Otis Worldwide: A Mixed Bag Of Positives & Negatives (NYSE:OTIS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3NWRnBrSVdablFzQWZ5bzJvXzRnMGZQV2VUZVVzbkNpdWUyVjVzc29HMWtZSmlRaW5hY3NoRzVMUzlva1NTa3hORXg3TFZOS3BnOXJFd0JPd0lLT0pQSV82NlQ0S2VMMnZXUkI1RGFSMmpHUjU2a2NuZWVVMElGN3ZLVVlxbDFmVkdPQi1rMUxRUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Otis Worldwide Stock Underperforming The Nasdaq? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5NSE44YS1ya2puUGt4dnUxQ1o5NzVubTE3U012eXRfZU5UeW9Va1JkWjE5cHcxWktENEJ6clRLWWZmeFNVcTA4bjlPOE0tYlJzd254elNNMkd6WWRTd1pYcncxalRRTDktSmVBdE1hSENqZi1kbm5kQ2h1ZGRZaEpOa1lxNW42UFZCSnhkeE8wUHA3YlE1a2JpVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Why Otis (OTIS) Stock Is Trading Lower Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UYXhJU0tvTGFoOHBfaFB0MTNPQ3B5Mm9jMDNFWElrZjJibU5MVWtNNXN5QkdkbUZ6LWs5Y09ycllCZThEV1Fkc0w4Yjl5NGRlQkVvNm44N3plZGVsRUQ3WlVybnJQVGluU3pVWW0xbktqbHVnb2xFR3pWdGZSQQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "How To Trade (OTIS) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbU9wc0NpZGExTlVyZE51YXVKYTNGMzRTdlFqZmtrSnk5M0ViYWg5dFRfOU1yN21FdzdhSF9FUEtHYXVMWGlfSGhWQV9hMWNSSE9YekF3XzFVYUdEWEtSUG95dVB3bjlGSkVoamVaY1BST2lQR2kwU01tbFAxNGF5YzVWbUt5a3pILXQ1eEdxcUNIM0RmTnNr?oc=5",
+        "title": "Otis Worldwide (NYSE:OTIS) Ticks All The Boxes When It Comes To Earnings Growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXRkSE02LTFJRlluTkJvN1VnQUlEOHVzcWNsUWFwalRnMzZnQlc1N1pUdXR5VEFhNUtVMzhUT0haSmhRYy0wOWFmajR6ekowTXdQQl92YU50TXZfeWt1SWRpZTl6R29zWHpsZFVNeDBXbEJuWDdjckZMNks5M1JQS2dtWFRBMS1Hemd1R0xkN0hSTHFlVW51bHZ2STZ3QlpvRDRqeEZiQzhZVWM3NkZ2ay1mWWNyNmtpZER6bjBRMnA3V1REZklfOWRjMTE4UHhoVWfSAdcBQVVfeXFMUHRFaGc3d2RMUlY1cmNmMklmbVoxeWhDQlBHZTlaNjJ1OGRWWG5UV3VHaEMxVXdkWHYwTWhMUGRZS0E1LUhEN2J3OTFzYm1DeGRxZTRiRHluVUxlcm5QRUhhcGxJZHo5amRNZHh5SXhhdlE4OU0xRFByVVVoUEZKenVTUkVpUHZ6NU9ySjU0VmRNVFR6d05haGh2dUk4RUJHS2xPd1laY1dvSjdzbmJJTldoYWI1XzVRaFRMZ3ktNUszRWtwaE5udWJsYzU0dDkxcmlJZDhyLUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Bought by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMWRXRFpIamh6cW1lSk5tM3FYbF9zRFVXUDZFc0dwclo5VkNLTkMwbHpNd3o4S1Q1ZnA2OTY1R0xMcGxIRy1KVTJzNHY5N0RfZHNNZG5rbXBtSjUxazF4bzI2NF9rVnlQRlg4N0xfbmNaaWVfaUpXMjNQeTBBcE1ielVQaHR0Qk1zMEswMnZzN3oyNGZuQ0xBU2tJWlFBbUVPR1dkQmttNkxtVkZ1WmNGbDUtS0V3bFM4R0ltc0dfTzdHLTJxUUROa3JqZWRUYTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,8 +606,8 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Otis Worldwide Co. (NYSE:OTIS) Stock Position Lessened by American National Bank & Trust - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnNTSDRIajNyMUFSLW5aRDJWN082dWtWQ2J1RElmeUtHUEJYck5tOUlQSzNyeUstaFVNWHUyRV81OFBwLWNfbnNfMERUbXQ2SXBfbnVOV2EtMzJfVjJITWxrZk15UV9kQ0s5d2daYVNqaUxQSHl4NWVBc0lxZWZjN012NUxuUmZTR0tXTjNHaFdtN2RFNXNZdnp3bkF5OWxqMW5vNk9TUVFUdkdLOXE3cU9YUm56UVF1UjhOaFNzQ2ppRkVBMXlHd1VoTHZGUUY4ekhr?oc=5",
+        "title": "Otis stock hits 52-week low at $90.09 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWpUNDBkMTZhaGRnNHdEOG5tamRlS29QR0d5akZDTENRYkFseENjUU5uaGxCUERsY0JfcTlDeFRqTlR5ckYzLTVpLVotQk5HaEthTTlKcjh3MlBadHl2ZGwtT0VRTDl3c0JsNzFudjk1NnYybVJmaVVqNzVVYm52QkNpbmRFNG12MGZMV1dBN01TVGlibndrNjhVUzg1czRRUlFnbG5VRkxPcE84ZEZ3?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -601,61 +621,41 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUYweXIwR3paNEFCZHJ5ZzhZTmpjMExocFdtMDhxWHpmYks4anYyV0dwNzJoZnQwSVYzWHg0SUZwU2hyMDN0QVV4MnIwb2JVUUdycHlNemY4UUUtTWVuaHpfLTV2emsybWJRYzZEdl8xRGw2NUhRNVZYZFRKcmlBeGNYS0xzWVhSZHlnN2t3Qi1XZUpBUUZuOWdCV05DVVdaUGhEN2VyZnR4R1RYcTdRTUNRTU1JVEhwRlZLaFIwX0htTDIyc3Z0QXdGaU1JZW5xNmdrTHlFLTNHTFpRWW5EUA?oc=5",
+        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3cydGZ2Z2dUMGxpSDB3VjF2Wm4ySXd5S0xBNTlRQ0JPQVNPMzN6Unp1SE1ZOENTLW91UFNRbWQzS0RIbkE3NExsOGFIQ0UyT0pXWEJfdTB2QUU3UGlaMHNIa2ptamNScEdtb2cwZXhJNkxiejhCcmNJMFExVlkyUG9IRkFXcjRvX1M4T3ZYQ1VDcDMtMkZVczN2dkpTUG5aYUU3anZtbEJhc29JRWJHUXpfLU1RZ19pRGVSVG9tRGd5WmV6TlE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Meyer Handelman Co. Reduces Stock Holdings in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjFUQllrMEJ3Y1ZfR0xxVjFtNmVobGg5OGxZdGxRdlMzdE0yVkVYRzVfM3NWNkFObzVmRXdmSGw3eEJaeHhnRVV5cWFJcE9IdnAwU3hIcVRYTUlyNjhsOTduT2E4OE1MdlR2WERwbXFuMGpocWJZbUJwSzVuRzJEcGN3LUlfdm5RRlFSOUxMbW9aRmVvM3hCUjBjNXlUZEZrcDBFRUthMWV3T0JzT3BQYVhOdHFkejlhNWJTNmNn?oc=5",
+        "title": "Otis Worldwide Q1 Earnings Beat Estimates, Sales Miss, Stock Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnBGUmxmTUhSNGhSUlVRMDNQaU9HNURzZlZxOXN2WjVBMkRIRDhZV19zaGFRcmRJR0dEUGhoOGNVbjFYX3JJc1ZOWlFZaVlKUXN1OENIcVo1bGxMUWJSOF9IYVNKdDZ6Q3pGMU4xQWRSWHdtZV82Z2hURUNIWERSOTR4RQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Czech National Bank Acquires 4,462 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdEZ3QWY4aDhrWG1sRGxXbnpUZm56MnRRcVlqM2ZCcnpBMWR5bk94WUFEOTJMd0duUTJYeUM4VWhYcWV4N3FDRHgwQXFBdzRqQVRYMUFQRmJmT0xhdDZCY1V0UEw2SnMwZzFGUExuaUVwdkkxRk1raG1HWFI3N2ppWW9GUE9QOVVvTE1lQ1BsSmRXM2N3aWVKVFdUNWJiZzRDRzM2VF90OEhhUUt6Ni1RZnFieC1YS2NDRnZCVDdsMkdCTUt5ZkZydEctY0c?oc=5",
+        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Sold by Sarasin & Partners LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFZpSlhUQ0Z0bmloM18xekJ1NERqOVg4eE9STTIzRE0zRGRLX1hTeVBjclpDY0ZJLVhEVXlKNThOQjRtZkRVeVJBWUdjd3lkdXZUeGpSckNIQUYweU1PbTJzNkFWZ0tXY2xJNW1xR2Fxb3FzMHpKNllSWGswc05NQkdscUNRTWFBZ1Y5QUFMcFZFY19TZWFCWG5BZnNicGZNTXB0VlRpNk5mbHhDY0RuRDNCS3lWS0NXWDE3RjhmMVA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Allied Investment Advisors LLC Raises Stock Position in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVc2cEJHSEpkN1NuVFRSdjhMZm9FLTRoemFGeVZYTEJQR2lmMW80UTE2ZTBWdVl2b2tsMndlU21BZkdGM3ZTVDktQXRNQldMRnpVLTBqb2daUF9ZektSVzhQRmFJd2x5M0dacTJYRVFQbUxTUi1YYXB0WnlSQzZSNUM1WHpTQi13c2NYSXR1aEpvcFJxQkpRa09paC1aYXBPb0haVVVjd2w2S1dXT2owVXZYZHMtbWJlYzR0c2pYQkQyWmpIUXhpU2tyWGNyMUk?oc=5",
+        "title": "Avanza Fonder AB Sells 8,001 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYU03dTJ3TUJlV0d6dGhYUFNjMF92NUxOSHBYZDJpb3NheGlmTHoxREtSMUlHWU9SMDBKUTd2a3JqZXl6dnl0d25KX0ppSTNGZ3oxZTRPQWMyeWZxQjZWWXJxUWRKQ3lfVlQ4V2hQVWUxeGpIVU9WVUtVb0I4T1dzUjZHV3dVUDNBS3EtdmtZYlNJbFV1VzVNOVF4WmJJZ1R5cm9EdXNDc1B0eFZvTGpqZWprcDhmWmlvUUtSYm9IZFFqQnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Raises Holdings in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON3BSNi16RUNXOVd1UlN5YWs3ZHNWUllVVGw3X0t6eUlzVWRNcmxGc2VPYXF3YjRqOUhmY3lyeXFtR2NxMmo2TkhNTHVONWlUYWdiOEF2U3pvYnFkS3RuWWxiRVdQOFE0ZVVoSXBkSHRqQjBkalpYaS1VLVNRbzNvQzJwRG5ua1pndWxnZVVJYUw3LVAzRzljMlE1WGJiRjYwb0pzQjdYU3ZKQnZtZjJpR0s4RjNUN1h5MWEwNTg5SmdjX19iSkJNTWpR?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Versant Capital Management Inc Purchases 3,406 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmpQWE1DZ1BaeTQzVW1XY2szTXV3RTd0eC1MZWZmSkxSZkNrSTI0MTdZY056ekNEa3RxNkdpVlQ5UjNkTmRBbGtPcXg1SU9mNTVZT0lSMEQ2UEdMaVhKdjRPTEExTWF3eldib3ZMZ0lnYWUzNUt1ODE4V0tNU1lGTGxQU3MxWGVpZnhtT0JURTN0VlpaaXJXZUYwYnlkSHV3WGM4YWh0ZDgwNWZUWjBhbVNVZ3ZVOF9zYWxCVFAycmM2NHZNV3VIWEU0dFduaDJxQUxR?oc=5",
+        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Acquired by Procyon Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0dlODBCYThuNWF1STJZVlZVWUFSYlFlUnVIV0xJckR4QVVBZ0hPYXk0d1REVFgzYWY5NnZEd19mWFNvTGt3WWNKV0NxY3Azd0lWZ081MzU5VG40SzQ0aHAyYkVQSDNvTVNreXl5WVFUQkNsS3RuV0toY3JuR21yRUVCWHdmR05BazR0V0V3YWQ5N21VWnRtY1JJTmhaMWlxM1pSaEgwdlhEbG9ERmtpQS1Fd1lyTHJHOHNla2lBSEZSQm54SGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Otis Worldwide Co. (NYSE:OTIS) is Sarasin & Partners LLP's 9th Largest Position - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUVWbDVENUhCMllCTm00S18xMHhqSzVmbWljQW5PSUFkSnNaa0xBNERYcXFXVlo5YkpXSk1oQ2dqRE5IUHFvQ21BUFdpUTV1bGJISHE4aVQ0VEJ5QXNlV0ZCczk0VG1UNTZBa2lBMUpiNXZlcF9KdUZVZV9Jc1NLdVg5LUtuSDRNQ2EzZkxnNlhUTG1rb0pBLWM3R1ZPTEpYNTNHU1h4WEZxenFISmlrd3A0WjRSSmFOYmx5WWx2Sk5YcTdrcUZjWmxaNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Otis Worldwide Co. (NYSE:OTIS) Shares Sold by Cacti Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjBoZVNrU2IxTUJQNFo1MHpNSGRNcllsbFFkQkNGYjVQY2hJcjU5ZHBjc0lTbzJJM3Y0UDYxQkZnX0xiblo3cU5wbWI1ZFo0NkZndmpwTDRReGFGRjlIcEYxRFZWTzA1SXpxUFRkd2dGNHRTZWROTmNmRlRVZzNhSi1TRUJhZTlvYVQ5cTc3UFBkX20zZDE2dWZ1UUpVbGduMklGTHVJQlcwOUQ3bXozRGNFbFZ2RkJab1hqZWk3aW1CTDdtZWdpaDU1WW1xSkU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Milestone Asset Management Group LLC Takes $495,000 Position in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWFVPNm1zTXNJSGpZNFUtZGMtTDBPaE5yR3lmbENSMjZVVDRUeVlLOUlOTWN4YktKdUNEVlhoOUlrRTYyc3hneDFYRjRieG9SWGx5dnplb283TTA4RU1yRGExMkZsQllaZkw3a0Jmemx6Z3FhSXZXWThsSlpTbFduWE1kYTRkOFMwR0JMbldBbnB6UFJKR2ZCMFVaRFQ3cWNiR0RFS0oyb24zejFEQlhKUHdRZ0hfMVAwRktqcWF2bVY0bk1lQXVzLTE2b2hIU2ZvWjd4bHAxRi11SXhSN25YV1NLNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Sells 11,745 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2lKYkNJalN1dVhYa1VlZGRyNEdXSnhMbUFMTHdENVRBTDNGUmZTWGRSeGVZYnI2akV3MGV5WnlGQVFoN1U1S3BidmRGR19qTU81Ym5nclE4dzV3RGlJSFBzRWN2UG5uaXRxTGJ2MXFRVXJ0VHhuZDc0cFd4cEtfajNxdkRFZGoxak9sQXdHNFVjdGswcV9zUEdja0NTNEE1ZXpPOGdaRlZWbHVuNnllQ3hmeUx1Q2pfcEViRm95TGZRQnh6eG1tVDhFME1fMDk5MVJVSzNRYjgzLXNWdW1PNWZ2WXlRRTQ0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lansforsakringar Fondforvaltning AB publ Makes New Investment in Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckJ5T0FEcWtHTmNNb3pJLWZvM1E5U0VXMkRBdWp0azZTbVhEY1V0bnF6dTJoZUdfZGc0Mjlhb29kT1dlbzhpRXVoM3pnSFoxUGNpVWtlZmt4VlJyMFVLRGxLWjhIZUtTR3lSM2lMNWh3anZVWEg1QjVjaUp1ajVDanRWanRqWXEwaU1lRkZmT25NMU1NSVZ3VWk2c1pVSnVoZVlud1RiNjRvN3o0YkFuVy0xZU9fVHBaTC11cVRlOEZWc3JKSUp0VjZGZkRuOFVNNVlrQXcwRUxjOExwMDRzTmZXVlFLSFhlYTZN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Purchases 79,200 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWJKMU1OSVQ5dUxlSG9McmQ1Tkc0NEoteXpuUVJZd0xCdGMzT3U5YlQ3djBKM0l2UFBkdEktdkRDQWhMMHdISmxseVo0OUpZb191QzZZUnJsVXhRMkktOWZVS1paSGItRUF2R3dxRElScEY5eHFtTHRHWDdhVTVsc1E1ME9VdVZ4WWJ4emZTWWxXSm5obW1WdzB4ZHRfUEZxSXVwb3UyUjJtUGMySE9PdXFnN1VON0lqNkVUYjA1djlaUlhiVGJYdg?oc=5",
+        "title": "Wealth Enhancement Advisory Services LLC Acquires 3,765 Shares of Otis Worldwide Co. (NYSE:OTIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUYweXIwR3paNEFCZHJ5ZzhZTmpjMExocFdtMDhxWHpmYks4anYyV0dwNzJoZnQwSVYzWHg0SUZwU2hyMDN0QVV4MnIwb2JVUUdycHlNemY4UUUtTWVuaHpfLTV2emsybWJRYzZEdl8xRGw2NUhRNVZYZFRKcmlBeGNYS0xzWVhSZHlnN2t3Qi1XZUpBUUZuOWdCV05DVVdaUGhEN2VyZnR4R1RYcTdRTUNRTU1JVEhwRlZLaFIwX0htTDIyc3Z0QXdGaU1JZW5xNmdrTHlFLTNHTFpRWW5EUA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

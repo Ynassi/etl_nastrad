@@ -2,16 +2,16 @@
   "ticker": "MT.AS",
   "name": "ARCELORMITTAL SA",
   "sector": "Materials",
-  "market_cap": 20264048640.0,
+  "market_cap": 20183076864.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 19.423359,
-    "PB": 0.3991061,
-    "EV_Revenue": 0.483,
+    "PE": 19.17647,
+    "PB": 0.39115694,
+    "EV_Revenue": 0.478,
     "ROE": 0.02254,
     "ProfitMargin": 0.01978,
     "GrossMargin": 0.09658,
-    "DividendYield": 1.95,
+    "DividendYield": 1.98,
     "DebtEquity": 22.603,
     "CurrentRatio": 1.349,
     "QuickRatio": 0.429,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.03443821151008461,
     "ROA": 0.021760002,
     "PEG": null,
-    "EV_EBITDA": 5.245,
+    "EV_EBITDA": 5.194,
     "BuybackYield": null,
-    "PriceToFCF": 9.652994248734679
+    "PriceToFCF": 9.614422485415135
   },
   "technical_indicators": {
-    "RSI_14": 48.71451809416632,
-    "Momentum_10": 0.6049143394970858,
-    "MACD": 0.1045268079103181,
-    "BB_Percent": 0.2123845223690839,
+    "RSI_14": 42.53929356391001,
+    "Momentum_10": -2.3952073581400493,
+    "MACD": -0.0194959926422058,
+    "BB_Percent": 0.0532407703789149,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337788831573448,
+    "ValueScore": 0.8963944765131728,
     "QualityScore": 0.2272584735988541,
-    "SignalScore": 0.5900967661675511
+    "SignalScore": 0.6308293430161909
   },
-  "volatility": 0.0279252590562166,
+  "volatility": 0.0278536641160731,
   "beta": 1.706,
-  "return_6m": 0.1127690396129488,
+  "return_6m": 0.1099083942486591,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 30.681763
+    "target_mean_price": 30.314365
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 24.15
-      },
-      {
-        "date": "2024-12-09",
-        "price": 24.62
-      },
-      {
-        "date": "2024-12-10",
-        "price": 24.58
-      },
-      {
-        "date": "2024-12-11",
-        "price": 24.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 24.28
-      },
       {
         "date": "2024-12-13",
         "price": 23.73
@@ -545,27 +525,52 @@
       {
         "date": "2025-06-06",
         "price": 26.61
+      },
+      {
+        "date": "2025-06-09",
+        "price": 26.63
+      },
+      {
+        "date": "2025-06-10",
+        "price": 26.66
+      },
+      {
+        "date": "2025-06-11",
+        "price": 26.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 26.47
+      },
+      {
+        "date": "2025-06-13",
+        "price": 26.08
       }
     ],
     "current_price_data": {
-      "price": 26.61,
-      "change": -0.23,
-      "percent_change": -0.86
+      "price": 26.08,
+      "change": -0.39,
+      "percent_change": -1.47
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière des tendances contrastées dans le secteur des matières premières et de la production industrielle. Alors que Goldman Sachs rehausse sa recommandation sur ArcelorMittal face à la baisse des prix du minerai de fer, des signaux mitigés émergent du secteur du charbon avec une augmentation de la production mais une baisse des stocks chez certaines entreprises. D'autre part, la croissance de la production d'acier chez Tata Steel contraste avec une baisse de ses actions proches de leur plus bas annuel. Ces dynamiques sectorielles divergentes soulignent la complexité des marchés et demandent une analyse approfondie pour les investisseurs.",
-    "sentiment_score": 0.1,
+    "summary": "Dans le contexte actuel, les tendances clés des nouvelles économiques récentes pour les investisseurs francophones sont les suivantes :\n\n- Les prix du minerai de fer en baisse ont conduit Goldman Sachs à améliorer sa recommandation sur ArcelorMittal, alors que la production de charbon et d'acier continue de croître.\n- Les stocks de riz aux Philippines et mondialement varient, entraînant des fluctuations de prix, tandis que les stocks de maïs diminuent.\n- Malgré une augmentation de la production de charbon, des stocks suffisants sont disponibles pour répondre à la demande estivale.\n- Les actions de NCL Industries ont chuté après une mise à jour commerciale, mais Tata Steel voit sa production augmenter, bien que son cours soit proche de son plus bas sur 52 semaines.\n\nCes nouvelles indiquent une dynamique complexe sur les marchés des matières premières, avec des variations de stocks et de prix qui pourraient influencer les décisions d'investissement dans le secteur de l'acier et de l'alimentation.",
+    "sentiment_score": null,
     "label": "NEGATIVE",
-    "positive_ratio": 0.4,
+    "positive_ratio": 0.35,
     "neutral_ratio": 0.3,
-    "negative_ratio": 0.3,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
         "title": "Goldman Sachs Upgrades ArcelorMittal (MT) as Iron Ore Prices Decline | MT Stock News - GuruFocus",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUVhZFgzM3RHQ1EyS0pyMEZEcE9OVWQ0djdwRDl0TjJnZ2RXaEw1YURKZENlSGg4bGhmUk5vTkp6eDlqaFZMOWlZNUdYVktBdUdwXzRmWWZySFhSRm1xek9oOWdHZXU4MFlyY2JyWm1jSTdueVdiY3dLMFl2Y3JpTTQ4MzFyUDBMLWc3Vnc1a1VtYnAtVGRmeXRtTkZSbHI0dDYtd2gxYjNSRk9HNUJkSnl6ck9LajJza3RORg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ARA stocks fall 2.3% as jet demand accelerates to seasonal peak - Quantum Commodity Intelligence",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3g5WElmZVBqV25udDRSU2J4cnltdmVaMGlFNC1waHZjVWRaMlpkeldyZEZ6WHhaWGNtMldaV2Z2dzZ3UzZqY0RudUNFVmVybjVUeHRkSEJHUEFSRkNlM2FOR1NRbmpBTnJObFR1WElzeC02eHRYMlpheTFSRzI5NGVQMDEzMlVfSVBZUERQcGR6c1FEZGxuVmc3enZYOXU1aENNNjVpbW0?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -579,19 +584,19 @@
         "label": "POSITIVE"
       },
       {
-        "title": "ARA stocks fall 2.3% as jet demand accelerates to seasonal peak - Quantum Commodity Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3g5WElmZVBqV25udDRSU2J4cnltdmVaMGlFNC1waHZjVWRaMlpkeldyZEZ6WHhaWGNtMldaV2Z2dzZ3UzZqY0RudUNFVmVybjVUeHRkSEJHUEFSRkNlM2FOR1NRbmpBTnJObFR1WElzeC02eHRYMlpheTFSRzI5NGVQMDEzMlVfSVBZUERQcGR6c1FEZGxuVmc3enZYOXU1aENNNjVpbW0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Philippine onion stocks reach 100,908 tons - FreshPlaza",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2RVbGZrN1FGWVZzMnE2WkU5T3p2X3JPd0R3dDJ4T3BHZkNJWnA5elZoXzE4OGlVd3Z2LVpmNXh2cEE0elMwckNzY3VKbnBQcFotRUp0UGNoYVFCbGw1a3k0QW9zVWJDRU41SExKZUJBVU5jMW1NQVZsSkhpcnlLak00V293TnZuOG0wOE4zNkxxa1ZGYmc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Local rice stockpile up 24% but corn supply down 21% - Inquirer.net",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTNRNnI5UGdUbXZveTRUelhGNWwxVHJXZUp4YzQ1UWY4TC0xMjE0dHBiVDZ2UV9WYWNJUjRnOGZLYUw2Q3pucXp2WVozN0Rkc0FQOWJtZDdTc3c0UnhWaXM0Z3JYU1p2MFM2RUV6dkpnSWhDZ29lVTBUYkcxdi15VjVFWGlHZjhta2ZIUVNJNmHSAZYBQVVfeXFMUHFYTUE2QW8tckR3Z2lYN205cHFaQnFCZlJjRGU1UWNYa3h2WHNBb2VFZkszYkR5U3V2TDBZVGZUbVA5NlpxTUV6dHdSRnNEX0JFVElUbGFQdHE1UXpoUjVVMzV4enUxYldlNk1CZ1l5LXV5aW1UNkktSUdrVTdpVGFpODJzOW9iYmZFOXdTdThzMUI2c1dB?oc=5",
+        "title": "Global rice price heads up as Thailand, Pakistan stocks drop - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1FwbkE4S0Jkekc1RTlicjRXV1ZmbS00ZUxhb2kzT0VHQ295R0IwRWoweEhXR0NvLWtNNmlqZ002Rmd5YmRLcGo4dTFqUk5MMzNaNWR5b1JvUkxRRmNNVVAxT05BYjlWbEZfRV9DVTdDRmxidG1FMk9pMXRTcnFRYm1MZVJsQlhsOWlRNXB3c1hEN051X2hYd3F5U1JaT0tTY0pUX091ZG94RHRkdlZmQzJJS3hLenFxeXZuNGhfZmtyUnBWRWVkQmJFd1g3dDZUX3BHbtIB2wFBVV95cUxQZl9fUDVMcG54WWpYUnZMeWdHakV6a1VPazZPbjd3dzhfSWR4b0VrR0dwbmw1X09ocFN6TVJISm84S2tjRTZoS1NMSmEtalJWLVNWUnA2MmNVZUdja05ZU2tXeFBKWU1VZUNoU3I3ZVMzTTZ1R2pEUUhSZkJvVmNpTXFKRjhvVnBoTUJzR2VWU3ZVR0lkV2FrbnRrVTdFMzZIZ1MwZ3R1eXlIczhmNEVOYTZoeEdPSl9jWU8xNEo3VWxvWjl4UFdrSkRJWUR0OXB4M3pLaWExdk1Qa0E?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Rice stocks up, but corn cache down - Inquirer.net",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByanRUNG90c2dJMVFmS2txRFBKaTh1ZmhuUW5Kdk8wY3pybEU2SWdzR0ZaR0NBY2MtSlhQVFQzUTZWbmhUUmR2NFF5WUwzWkctN2NHMHRMUFNaSW1OSDFnRUFLa0p3dGhDWC0wUDNwa1lLbm5JZmdmU3huZ9IBgAFBVV95cUxNakM5YnhZWkF3c3lkZmQ4Y0Q0TmlBLS1PbGdQMGNoMFJVam8tRHJQMW53S1VweUFQMmU0SmJIenI5a2ZsdFJMN21hVlpSaTUtN3BsYjBuSUM0dFFlVXJQZFhLWER0MU5sd1VyTGFQZ0NjdHpqeGtrb2hFdlRZYmxTdA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "NCL Industries shares decline 4% after posting Q3 biz update; here's why - Business Standard",
@@ -604,14 +609,19 @@
         "label": "POSITIVE"
       },
       {
+        "title": "7 Steel Stocks to Buy in April for Sturdy Gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kUDZQNXVnS2dkRURKZnVBdmllRTVuOTQwQzZfcktESVZaaWYxS0ZOUUNXSkhRMDN4Q3NkN1A4dERfTDllVVZoUEVQUk5oZmc5ekpFNWp2Z2J1SUxaS3FnamxjSFYteC11Z3ByR1JBcGtVNGhRY19hbzZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Tata Steel production rises 6% YoY to 5.68 MT; stock trades near its 52-week low price - Zee Business",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0dVUm5xc3VIY1UxY205eTc3LXUwaXRkanNwRW9DTWFYUkk1UVJjTTN6blZfSGZzcEljWVV0N3plZEM5TUlHRm9CMVpxb20yYTJUSDM4ZW1OR252bEFrZy0zZGdHd1NOLXdIalM3NGg5dkZhQWgwdFhvM1h4blYxR2Zfb3F1all1dFEyMVNyakRuSDFNODc4UnNrWHNPV1U4cGUzZGZ1YkphOGFLa1lMUDU4aGJ6NHJhWTJWYmhpTnpaQWYzXy0yelJDU2taSzd1RTVGbzdJR2pQejhfc3FuTXJmSHFlZ9IB6wFBVV95cUxOSFJNSVJ6Vlg2dlYwWXE2MDdJemxvSUpJYWZNRnIwSDZYbGJxN29WYTFIYXJrSWstYWMwT1Fwd3luMGtIUTlHM2RMUDY0YmZGV0RhVEViZEtLaTdNUEhOZXgwWGd6R3BjM3AwR0dmdFBlczZtNU15MEVsblVMQnc4aWYyQmlKaEVLdEViU1MtZElIbHB3OUVWcmdrcWllTnR0amJpeTgxdnZzcXVvd1FNOHdUVUFjOWwtQjFhU0JibTlTM2h2a1lGdnZKMmVpMU1aRk1CRmJNWTI4MVV3NmdZQjNYX1dZSF94S0Q4?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "WASDE update: Supportive grain estimates for 2024/25 - ING Think",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUt4dE9qdWN1MEduRXVfeVZzSTk3TF83TWJzOUFQVTJ4RUR0QVluQ2FjN3gtQU9BV1J4anJJdXRDZmduTm5sZTRSaUYwUDdfTF9HcW5adzhfQUJ4ZzAxUlY4YWpFUkNNX0V4d1hTaFExaWhtWXpBRExaVzNTWjgtRFR5MWo0Q19fMjRr?oc=5",
-        "label": "NEUTRAL"
+        "title": "Local rice stockpile up 24% but corn supply down 21% - Inquirer.net",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTNRNnI5UGdUbXZveTRUelhGNWwxVHJXZUp4YzQ1UWY4TC0xMjE0dHBiVDZ2UV9WYWNJUjRnOGZLYUw2Q3pucXp2WVozN0Rkc0FQOWJtZDdTc3c0UnhWaXM0Z3JYU1p2MFM2RUV6dkpnSWhDZ29lVTBUYkcxdi15VjVFWGlHZjhta2ZIUVNJNmHSAZYBQVVfeXFMUHFYTUE2QW8tckR3Z2lYN205cHFaQnFCZlJjRGU1UWNYa3h2WHNBb2VFZkszYkR5U3V2TDBZVGZUbVA5NlpxTUV6dHdSRnNEX0JFVElUbGFQdHE1UXpoUjVVMzV4enUxYldlNk1CZ1l5LXV5aW1UNkktSUdrVTdpVGFpODJzOW9iYmZFOXdTdThzMUI2c1dB?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Highest Ever Coal Stocks Available At Thermal Power Plants - Entrepreneur",
@@ -629,19 +639,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "PH rice stocks boosted by enlarged NFA buffer - Inquirer.net",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0doZFBpdVRJeVQ3WDNSNXdZbmoyNklrNExibHdVX0xJUWEzTTFGRFJyREk5UUU4eENHcmt6N0lsWFhOa1gySm9ZeWt0Y1B0cUNCa3lJMTNLNDhyTVdOdkdxZEVTb2xla20tMG1ZVHBqWnBKZTNIYzRUM2l5djlrZ2U0U1hSVXpTd0HSAY8BQVVfeXFMUG0zak9mU1daUTgxTmRSdHVKcXZzcmFINjZPNDhvamg2ZlFaSmQxSEZrV3FxcWNNZU01cWRRelBDeGJDbk1mMng0VmVWeUpzN3ZYQURCdmFQLWlIRGdzZ1M5TmVVNUl6Uk40eXVrZEs4Wk4zMWVBZDF4QU9YY0xRS3k0WEp1enJ1STI0TFNYSms?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Down substantially again this year, is ArcelorMittal now worth buying? - BizNews",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fRjZ0TEloTGk2XzV6ZXp2NVprVFUxbzdhc0VZRGhMZ0hXNVlIbnozWmtDWmEwYW80QWFSRjA5SERlWGlTTDkzNW5DbHN6dFloSk9QS3FOekdveDhNQTJhcy1zTzBEYzNpSXZJ?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Daily Market Wire 9 May 2025 - Grain Central",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRMm1GVjlzNVh1UVllU2daMTFoZWk5MzZObEJKUThOdWdfWnlHeW1UUHZDcjRwd3R2bnRmU0NZUS12QnY4Z3JTVFYzQVdKZnVmZ1ZCZDhOLXJOM0E4aTMxSFctal9CWjF3dlJiRzJqdzl1czVm?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Rice import arrivals breach 1 million MT as of mid-April - BusinessMirror",
@@ -649,8 +649,8 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "West of Suez: Gasoline, LSGO cracks firm on steep US stock draws - Quantum Commodity Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjJvb3duUW9mS25LdFVpN3BleW1weTNLTEhFMVhkeGdBVi1ONE9SZ2VySUFnWi1fdWVNbHp3UDNkcHhEQ0hQWXlvcnpNc2o5OFRrSjE5WWtnakNYNmo2S2p4R3gwV0VvUWxWTUdRSXV6VlBFbk1aQVhYZkRBTEY2OVNMeVdpbURNM0tUM3lnbWc5eUVGbTBtRk5FYjd1XzdYZjBVNnYwMVg?oc=5",
+        "title": "PH rice stocks boosted by enlarged NFA buffer - Inquirer.net",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0doZFBpdVRJeVQ3WDNSNXdZbmoyNklrNExibHdVX0xJUWEzTTFGRFJyREk5UUU4eENHcmt6N0lsWFhOa1gySm9ZeWt0Y1B0cUNCa3lJMTNLNDhyTVdOdkdxZEVTb2xla20tMG1ZVHBqWnBKZTNIYzRUM2l5djlrZ2U0U1hSVXpTd0HSAY8BQVVfeXFMUG0zak9mU1daUTgxTmRSdHVKcXZzcmFINjZPNDhvamg2ZlFaSmQxSEZrV3FxcWNNZU01cWRRelBDeGJDbk1mMng0VmVWeUpzN3ZYQURCdmFQLWlIRGdzZ1M5TmVVNUl6Uk40eXVrZEs4Wk4zMWVBZDF4QU9YY0xRS3k0WEp1enJ1STI0TFNYSms?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -659,11 +659,11 @@
         "label": "POSITIVE"
       },
       {
-        "title": "With 44.22 % Growth, Overall Coal Stock Position Touches 110.58 Million Tonne as on 13th June, 2023 - PIB",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xR2RCUzRROGZ3cUoyUG5EcjBuNjAtVC1UTmowWmNONTg5VGlYMU1HTU8wTGhPLVhFZUN4X2tCbW4wTFAxb01hQlVxMDR5clotbTlPWUFHR2FrODNwWEM5T2k2Z3pySVpzUXYyOGRrNlA?oc=5",
+        "title": "Daily Market Wire 9 May 2025 - Grain Central",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRMm1GVjlzNVh1UVllU2daMTFoZWk5MzZObEJKUThOdWdfWnlHeW1UUHZDcjRwd3R2bnRmU0NZUS12QnY4Z3JTVFYzQVdKZnVmZ1ZCZDhOLXJOM0E4aTMxSFctal9CWjF3dlJiRzJqdzl1czVm?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "RMD",
   "name": "ResMed",
   "sector": "Health Care",
-  "market_cap": 36934610944.0,
+  "market_cap": 36682412032.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.271046,
-    "PB": 6.6591325,
-    "EV_Revenue": 7.27,
+    "PE": 28.109552,
+    "PB": 6.6136622,
+    "EV_Revenue": 7.344,
     "ROE": 0.25811002,
     "ProfitMargin": 0.26152,
     "GrossMargin": 0.59368,
-    "DividendYield": 0.85,
+    "DividendYield": 0.84,
     "DebtEquity": 15.142,
     "CurrentRatio": 3.411,
     "QuickRatio": 2.058,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.23954270400912592,
     "ROA": 0.14012,
     "PEG": null,
-    "EV_EBITDA": 20.687,
+    "EV_EBITDA": 20.897,
     "BuybackYield": null,
-    "PriceToFCF": 30.70356002765438
+    "PriceToFCF": 30.39393995824602
   },
   "technical_indicators": {
-    "RSI_14": 66.43848598967351,
-    "Momentum_10": 2.8188512827818593,
-    "MACD": 3.881393883552306,
-    "BB_Percent": 0.9500896133569336,
+    "RSI_14": 58.405477642930414,
+    "Momentum_10": 2.1263131556895827,
+    "MACD": 3.572047381217118,
+    "BB_Percent": 0.6209293991667049,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9289288131613386,
+    "ValueScore": 0.8718311435491265,
     "QualityScore": 0.4327728854840428,
-    "SignalScore": 0.4778333826672697
+    "SignalScore": 0.531035061929519
   },
-  "volatility": 0.0203326811473298,
+  "volatility": 0.020239666105925,
   "beta": 0.769,
-  "return_6m": 0.0480448868850902,
+  "return_6m": 0.0534793434364528,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 15,
     "target_mean_price": 264.488
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 244.76
-      },
-      {
-        "date": "2024-12-10",
-        "price": 245.22
-      },
-      {
-        "date": "2024-12-11",
-        "price": 245.78
-      },
-      {
-        "date": "2024-12-12",
-        "price": 242.51
-      },
-      {
-        "date": "2024-12-13",
-        "price": 238.52
-      },
       {
         "date": "2024-12-16",
         "price": 241.02
@@ -537,27 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 252.2
+      },
+      {
+        "date": "2025-06-09",
+        "price": 250.98
+      },
+      {
+        "date": "2025-06-10",
+        "price": 252.66
+      },
+      {
+        "date": "2025-06-11",
+        "price": 251.36
+      },
+      {
+        "date": "2025-06-12",
+        "price": 252.21
+      },
+      {
+        "date": "2025-06-13",
+        "price": 249.34
       }
     ],
     "current_price_data": {
-      "price": 252.2,
-      "change": 2.47,
-      "percent_change": 0.99
+      "price": 249.34,
+      "change": -2.87,
+      "percent_change": -1.14
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de ResMed (RMD) met en lumière des signaux mixtes. Alors que la société a annoncé des résultats trimestriels impressionnants avec une croissance organique solide, son cours en bourse a chuté malgré des ventes supérieures aux attentes au T4. Les perspectives de croissance restent positives, mais des préoccupations persistent quant à l'évaluation de l'action. Les investisseurs doivent surveiller de près l'impact de ces événements sur le sentiment de marché et la performance future de ResMed.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
+    "summary": "La société ResMed (RMD) continue d'être présentée comme une forte valeur de croissance, avec des résultats financiers impressionnants dépassant les attentes du marché. Les investisseurs ont réagi positivement aux gains massifs de 52% et aux marges record de l'entreprise au dernier trimestre. Cependant, malgré de solides performances, des ventes d'initiés ont été signalées, ce qui peut susciter des inquiétudes. La récente expansion de NightOwl aux États-Unis a été un facteur de soutien pour l'action RMD, mais malgré des ventes supérieures aux attentes au T4, le cours de l'action a chuté. Globalement, ResMed reste un titre de croissance attractif, mais les investisseurs peuvent être attentifs aux signaux provenant des ventes d'initiés et des réactions du marché aux résultats financiers.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
     "positive_ratio": 0.35,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "ResMed (RMD) is a Top-Ranked Growth Stock: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dDJ2dkQ2MldJY2ZhYUVVMkVJQktOTGF0LTdsS09YeTZDWU9ZMUdfSFhxNVVwcHBDaFZZZjUtS0t4ZHhfdUJPWHYydVdwLXdaRkd2eHZYNldXdU80RkFmX2lSTEFsVEJVYWY5TTU4eUhkeEdTODlTWXdvcmh0cXM?oc=5",
+        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ib2FtLXF0cmRSVzlERG5HcnpjV3pYTkdvVXBZSHZ4amJQTHZLSW0zUEhpaGVwTDlnNWZIVlBLUjVyV3BXd0xDXzJVMUR4UVVFeVdMZHdfS1dvdS1ONlYzNllndkxkNkFTM01kZ2dMTU5oeWxoWm1pLUEwa2tmdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do ResMed's (NYSE:RMD) Earnings Warrant Your Attention? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcGZORUU1YnlfTlBtR3Bxa2MzOUFhRE5fczYta2JlaDI4WVpSMG9uN01vdm1BbmxySnkyNTVfOFA1QnE5SFgwOWtMa0h4b3hnRlZ4N3hTZHJ0bGx5WEwyYmIzdUt5bG02anNVbTE0WWZ0eDZ2ZGZHX21tQUM3aXdGY19YZDlYVHkxSHVBT3k2V00xWGw3Q05mT0RqZHZ4Ml93SkZMU0xYWUs0VHcxcEhObGFhMFlEVFXSAbwBQVVfeXFMT19UVjNnRkcwUWE2N19ERnRZeTlybTg0RmRXZmxFNUdpTkttU3p3ZkRkNUVMdTRpNllXWmRnY0ExZzZKejJVRkozQ3A0ZmR6dTJ5dFZFbm1GeTRDSHBUWlZrc2t1bzYtYldDUjRSZG81eVFLQURuVFRmTzZ0c2FCNEpkS21DOUlXNTF6Z3RZdE9HSVdfWXZNTHFSSnRId19PajBSaWZQTHBLUmJQdzNQSURSZUJFMjNKSHJoMkM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ResMed: A Sleeping Giant Hiding In Plain Sight (NYSE:RMD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUM4YU5Tak9kbXBzT3F5LTJCZkQxRUVDc19DUElFQ0lpUTh0N2dUWjJfajAzMmpXX3NNbXF4STBUNnZfSHc3dGxaX0lhdzZmS3UxSVJIX0lqclJ6bm5KaHY2T25GS21uckxERnVndkpHOS1mem5Vd0M3U0NsMkx5c2FDdUF1SWY4N2xEVnFicTVOUkli?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,34 +576,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Resmed Inc Reports Decrease in CDI Issuance for May 2025 - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWo3a2s0VDRwbk1SNEJ6R1JtVkUwTHdTVXlZR1lYRnd6ZU9wZ2cxa2stX1J6cHAtakhIaEtMeEdSRE5JdUtPUG42c0RmYkp2Yl9XQVlKVDAwZndFVzdMcWxfSEVuY3VTcHk4UWNibHhJc3RNQXFsUnRCRHppTjNWVzktZHVsWGJGVnNKT2NOaTE4b1FrZUVqWDY4RUp5S0U3dDB6eF94UzliWGdQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Taking RMDS Can Be Tricky. Here’s the Right Way. - Barron's",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmF3OHQxOENTekxaQXZyVzVySDhIZkJwV1VIMlpscTFvVEhrYllZcmRUdEpQWXM0a0ZvM09BbVZmQnhaUHl1eGpnamhyS0FRWTBTUm4xQXlDeDJBc3F6VTFnTWpNWlVwbTdHSVVPcy1Vc2hXa2I4a09WZG56MVZJQmlQT3FHSk4wQ1NjYVR3Q2E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Resmed Inc (RMD): Jim Cramer Says “Remarkable Stock” — Did GLP-1 Drugs Just Hand It a Lifeline? - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmQweUpNOTFUR2FjUGltczV2UTRTTEdSWWwwb1FYd2ZXOEIyVERnNF9hSHRmc0ktejBuRVN4aWNOU1ltY1hTQXc5WEJNN1FfYjQ0RkVYNk03dWE2X0c3U2dWTzhnWm5tRll1RGFwVGQ3NEg3cUNQUU14bDFJZ3J3dmJsS3BpWWZMRFI2ZURRczJLTlkzTEpXNGRSVFRDQTRUdV8zNUdDeXZiM0JJeHpKWldIWmtPYlFCejY3ejdvbDhiS1cxVTdETzk4SdIB0wFBVV95cUxNR3lUVGM2ckNDdGRORXBybGZHLU1BV0NNWF85V0d2bzlmNDZKWldRSkdMelJEN0s4dGg5cWVTYjlDSmFtSDE1cWJNWjhkQTc3NmxLaTkwNEdqbU1ZZDZFMUZoMTRKTTZKSDZ5QndNYVRxdFF5UmhGLUZzMHhhTmlYXzJPOTZmMExwZXZFQVRKbTJ4VFNmMGxaNXpvWVBETzRFWkZRbE9HR0liNjkyejFUcHdHQm9Fb0FVajZPdkhFQjZwdXptbDh0WnN4Y0RyTF9PX3M4?oc=5",
+        "title": "GOOGL, RMD: TipRanks’ New AI Analyst Tool Reveals 2 Stocks for Potential Growth - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFM0QXJNNS1Hdl9qcVUxckJLMDF4cXlRUmRDdjdxOS1QV0ZvT1Rib2lNOFA4czRMRjVFVEJ0U0NCUGl5M0pTTDN6WWlRcmFUejlNMVNEdk9zbE5aVm5iekVuZTJDLUJjQ21rMzlOaTB2cXdNSXBYaVliYjU0NWZ1cVliaURCY01FbUpORm04YlJ5RVM1SmNKVlRWSGpzSXdabFNpTnJUUThuQQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "ResMed Tumbles As Organic Sales Growth Steps Down. Will These 'Mega Trends' Save It? - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclVnUlU4a002ckk0WEVhRUlFRnM2ekR2ckRSVGtzeTBNTzgtWTZKY05kQXdhdF9jV0FuWjNrVldOaDlDNmRmUmtSRU1DSGh6LWZsUFFEa3VPMmJnelc2M0dXOEZzS1pvdzlCSXZrX2VHaXdkbUVCeHRCdXNGVUxodlE1UXVXUQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "ResMed Q3 Earnings and Revenues Beat, Stock Up in After-Market - TradingView",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVk1ODU4VTVWXzhkSmZienpaYzBJYV9NdmZ6bThyMlVSalU3ZGloQkhOTldiNHFHb1ZHTVlyRkdYRzZSSFp4ODhBeFBrZFdUcWNEZ21jdVVHWUdxWkMzdXY0TjZZaWdSRl9kVW9pNnVsRnc4T2pqVW5VQ05uZzBDeGR3S1EyQzFjcWRpWUkwLW4wQkxFSHlzOFRsaEtuV3d0MmtvTVVUak50QW1WYUhXVExSQjhrVXFm?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "There's Reason For Concern Over ResMed Inc.'s (NYSE:RMD) Price - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3FVQzVPdkdEeWtCZzA3VzRTTFZaMzF5a05xakpLMnJISnFHRko2elQ3Y2VqR0dROGdJUHFnZWhGUVVCMXBxRDNtUDZIdENlY1kybHNoM0JqdnZpU0ZWRl9GaUtiWmtycXhGQVB3VWlsaDlmS0JfenZRRHpLM0dGZG5PQWhNa1NydmVRZk96akdndTdnejk5ZUFKQ011SUZsWTkxRkRzT0tjMzRvcWpNNnJ3eWtEc19QR2ZOY9IBwgFBVV95cUxNcVVxNS1pajZLbUk0c0tfYWQ4aFNkTDdPWThaQzBoUWxlaW9wQTRkVHIzNnN6X052RUdCeUtJMkgtYmVjRkhHM2dQWndzQ3JiSGhMb25YU3BQYllvbG8zN0djbGxvZjlQZUJXdmVqSlZ6NGdLV3VJZ3J3Q1JFekdPeWhCWmZuNkFMV01XLUxYM3FRY0tGY01Ob0JGRFl3MVJrWGw3UVBVVHgyZXVkTnZpNEdLb0F2NDFlSklULXJWU0xtQQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "ResMed Crushes Earnings Expectations with Massive 52% Profit Jump and Record Margins - Stock Titan",
@@ -602,7 +597,7 @@
       },
       {
         "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ib2FtLXF0cmRSVzlERG5HcnpjV3pYTkdvVXBZSHZ4amJQTHZLSW0zUEhpaGVwTDlnNWZIVlBLUjVyV3BXd0xDXzJVMUR4UVVFeVdMZHdfS1dvdS1ONlYzNllndkxkNkFTM01kZ2dMTU5oeWxoWm1pLUEwa2tmdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByaEZQeG5oby03TS1kZ3VsTllzelRrRU9pY0xoREZnMEt1eGtKMjlzR0lHU1haSzU4czJYWHo1WkUtNEVPWUQ0ZTF1OHZRMGNxbmtfRUlFRzB6UzZYTDFVc0ZSUU1LdkhTMzIySjZxazVYOWdlTVJEdTlRS0w0UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -611,14 +606,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "GOOGL, RMD: TipRanks’ New AI Analyst Tool Reveals 2 Stocks for Potential Growth - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFM0QXJNNS1Hdl9qcVUxckJLMDF4cXlRUmRDdjdxOS1QV0ZvT1Rib2lNOFA4czRMRjVFVEJ0U0NCUGl5M0pTTDN6WWlRcmFUejlNMVNEdk9zbE5aVm5iekVuZTJDLUJjQ21rMzlOaTB2cXdNSXBYaVliYjU0NWZ1cVliaURCY01FbUpORm04YlJ5RVM1SmNKVlRWSGpzSXdabFNpTnJUUThuQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByaEZQeG5oby03TS1kZ3VsTllzelRrRU9pY0xoREZnMEt1eGtKMjlzR0lHU1haSzU4czJYWHo1WkUtNEVPWUQ0ZTF1OHZRMGNxbmtfRUlFRzB6UzZYTDFVc0ZSUU1LdkhTMzIySjZxazVYOWdlTVJEdTlRS0w0UQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Patient Monitoring Stocks Q1 Teardown: ResMed (NYSE:RMD) Vs The Rest - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3ZacDh0SW42MnU2T2UwZEE2WV9wOUI3N18zdG9QNDROVUJheDNPWExfaU5WRElwWkJpV2MzZDZKLURvMGtub0xBYmw0Nkw3VmFlbHdSTXhkQUlqZjhyUGtCVzdlNVBjUW5Eb0JOUFFXcGQ2bUFMZmpadTVQajZGblBiZ1ZJeGFpLXZZ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Why ResMed (RMD) is a Top Growth Stock for the Long-Term - Nasdaq",
@@ -626,9 +616,19 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Patient Monitoring Stocks Q1 Teardown: ResMed (NYSE:RMD) Vs The Rest - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3ZacDh0SW42MnU2T2UwZEE2WV9wOUI3N18zdG9QNDROVUJheDNPWExfaU5WRElwWkJpV2MzZDZKLURvMGtub0xBYmw0Nkw3VmFlbHdSTXhkQUlqZjhyUGtCVzdlNVBjUW5Eb0JOUFFXcGQ2bUFMZmpadTVQajZGblBiZ1ZJeGFpLXZZ?oc=5",
-        "label": "NEGATIVE"
+        "title": "RMD Stock Benefits From the Launch of NightOwl Across US - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0Rycy14OUVsYmhuYmltYlg2WGZzZ0tnaGtTRi1Xd0p6OWxvQWZTeFhMMldBYktaeXBGNmh2anNTUF9yVmhLcjRuYi1zVmpPM21WaDM4OVc2QXVRNFgyRXpBMm1EVzZva2NzVjFJUDVodDZkUGU4aVFkSEZyamRXbEg3UG5SLXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insider Sale: Director at $RMD Sells 2,000 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1ozamNacWpJVU1fMDlaS0JXM25pQjJRMENramQ3M3d0dGtGWDdtQ25sQU9jUmRYOVRQbklJWDFRNGpuWWM4TDcwLXJQZEx4ZGVzOFFpelFfSjhOLVhZRU9SZXdlVEdWWkhvSEdza1JjeWFpeGxKUXlKQkdKUXlpaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why ResMed (RMD) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55LVVNeVpIU2JrRF8zZWlTaHJOWTVoMjJXYW1mMHpQb1ZRS1c3Z2JOeTN4Nm1pa3pWbW5OdGdONjJrMFZqT2ZZdFl3QkNGZkw5a3NuWEszcUhfZGJwVC1SZ212ZjNxY3BlaE1wMkZhbVluY0hDdkhkeW9VMA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Nasdaq",
@@ -636,14 +636,14 @@
         "label": "POSITIVE"
       },
       {
+        "title": "ResMed (RMD) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHJaakFqSzlJRHh2LTVqYjBaUVpXbWtSb2JRdUU1X2JOd0hRb3pkNkNJVWdVMnFYOFFHVVBOaExReXFKTDdCcERMbmVDMl8zX241ZFZ1dWtvbDIzajBCdG5HZGwyVGxXVnlWR1hsMjNYdmZBNlRzc0JDSUcwTDFLMWVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "ResMed (NYSE:RMD) Posts Better-Than-Expected Sales In Q4 But Stock Drops - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6dmdURl9ZN0xPRTNCc0NWeTVzNkNiNWhKcUFFVmdjNGl1NFV5aXVzNjBOV21JYUo2Y2JEcHBZaTRnaEgtRmxFYVczLXYxc09fZURMN0w0OGpDb2paWExHcWV5cExUR25fQzhQV0hoTTB6eGZhN3V2b0Y4azd2Q3M?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "ResMed (RMD) Up 4% Since Last Earnings Report: Can It Continue? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnNpYU4tekVDNm9YRXpSSEY4b0ZKY3pYTnlERDNfZ0h5TWpROWUyUXUtajloaFZZcXcwRnA1Mk1XcXpuWE16Um5BMFdHRFk5d2VmYUItX2xjR3pNVGcxZUpjVnhlQTB6cGgzVy1INWZWNWZsaWJxUFN3YTFqd1ZwOE9XeUtHMFNl?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Here's Why ResMed (RMD) is a Strong Momentum Stock - Yahoo Finance",
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

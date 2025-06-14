@@ -2,16 +2,16 @@
   "ticker": "ELV",
   "name": "Elevance Health",
   "sector": "Health Care",
-  "market_cap": 88308957184.0,
+  "market_cap": 86815522816.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.214479,
-    "PB": 2.0750139,
-    "EV_Revenue": 0.455,
+    "PE": 14.963006,
+    "PB": 2.0399225,
+    "EV_Revenue": 0.457,
     "ROE": 0.14175001,
     "ProfitMargin": 0.032309998,
     "GrossMargin": 0.27736,
-    "DividendYield": 1.78,
+    "DividendYield": 1.77,
     "DebtEquity": 70.397,
     "CurrentRatio": 1.431,
     "QuickRatio": 1.303,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.04061591997120516,
     "ROA": 0.0493,
     "PEG": null,
-    "EV_EBITDA": 8.477,
+    "EV_EBITDA": 8.513,
     "BuybackYield": null,
-    "PriceToFCF": 11.849379924285056
+    "PriceToFCF": 11.681396420629241
   },
   "technical_indicators": {
-    "RSI_14": 47.98630392611155,
-    "Momentum_10": 1.4850046318842531,
-    "MACD": -7.775237682478007,
-    "BB_Percent": 0.5354426488028986,
+    "RSI_14": 46.703486217929985,
+    "Momentum_10": 0.7260550757334857,
+    "MACD": -4.995443155644239,
+    "BB_Percent": 0.4894456329914157,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9336231236180528,
+    "ValueScore": 0.8962988455347866,
     "QualityScore": 0.3669252759808041,
-    "SignalScore": 0.5875876051748341
+    "SignalScore": 0.5956111459107452
   },
-  "volatility": 0.0203230276501416,
+  "volatility": 0.0200670369819482,
   "beta": 0.617,
-  "return_6m": 0.0271082576450105,
+  "return_6m": 0.0161308532660577,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 501.28052
+    "target_mean_price": 500.7542
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 395.66
-      },
-      {
-        "date": "2024-12-10",
-        "price": 389.86
-      },
-      {
-        "date": "2024-12-11",
-        "price": 385.56
-      },
-      {
-        "date": "2024-12-12",
-        "price": 378.39
-      },
-      {
-        "date": "2024-12-13",
-        "price": 381.41
-      },
       {
         "date": "2024-12-16",
         "price": 373.3
@@ -537,37 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 393.36
+      },
+      {
+        "date": "2025-06-09",
+        "price": 389.61
+      },
+      {
+        "date": "2025-06-10",
+        "price": 383.92
+      },
+      {
+        "date": "2025-06-11",
+        "price": 380.93
+      },
+      {
+        "date": "2025-06-12",
+        "price": 386.22
+      },
+      {
+        "date": "2025-06-13",
+        "price": 384.55
       }
     ],
     "current_price_data": {
-      "price": 393.36,
-      "change": 8.68,
-      "percent_change": 2.26
+      "price": 384.55,
+      "change": -1.67,
+      "percent_change": -0.43
     }
   },
   "news_sentiment": {
-    "summary": "Elevance Health (ELV), malgré une hausse de 9,9% cette semaine, est confronté à des défis. La société fait face à une action collective pour une mauvaise représentation des coûts Medicaid, entraînant des incertitudes sur le cours de l’action. Les ajustements des objectifs de prix et les inquiétudes concernant Medicare ont impacté négativement le titre. Les investisseurs devraient être prudents et surveiller de près l'évolution de la situation, notamment les risques liés aux litiges en cours.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
+    "summary": "Elevance Health (ELV) fait face à plusieurs actions en justice liées à des allégations de mauvaise représentation des coûts Medicaid, déclenchant une baisse de 6.3% suite au dernier rapport sur les résultats. Cependant, la société a récemment enregistré des résultats solides au T1 et a vu son cours de bourse augmenter de 9.9% cette semaine. Malgré ces défis juridiques, certains analystes maintiennent des objectifs de prix élevés pour ELV, soulignant un potentiel de rebond et une perspective positive, mais l'incertitude entourant les litiges pourrait peser sur le sentiment du marché.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
     "negative_ratio": 0.1,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "RBC Capital Reiterates \"Outperform\" Rating on Elevance Health (ELV) | ELV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXpXZUlreFhGNzVnREkyaWhXNUl3S2ZqcVVkT3JTcnNCTW5Rb0U4LUh1eU80Tkc5ME9lYlhlZXFlYVFpbG00N1ctbE9yY3FUNkNnNG53ZXdpMkItUndDYnVRTUlrRWY0bmhfMTRnUDVPemNLM3g3VE1QZEltV0tQLUZLRGMwY3ZNWFNLQWF6d2RFZUpCaE53akNmM0k4ZkpNSThiOFpNWDAzZFAzZ2ZZd2xVQVdIa1p2?oc=5",
+        "title": "New Analyst Forecast: $ELV Given $500.0 Price Target - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHJhNnpCR2ZxSzMtUlZaTDZSWlJCbHhadUdZQnVYSE1FUmxCWVFaX3RMSldMdDl0cXZmN2RYd0Q0NGVwRmtVVVVJdUFfSzFNcllELW5XalRyTkczX2ROa1NaaXpJWHpRSnpzbGpxVnZVLWlYR1k3YlNTVEJQYUpkQVdBSjZNbTg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How Is Elevance Health's Stock Performance Compared to Other Healthcare Services Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM2ZnZWRWMDBTWGRYQ3BQS1M1RTNWQWFYYVJoSU9QQW5PcHpCX1pzWkRlT0hNUW1Jd2liZ1NRM1h2X1o4dExhLXc2eVJNczJ6VDBkeVkxbGRHZng1Z2VRYy1HclNGNWN0U3lfZ3czMzlZX3ZXR1VPMk1GcGNkOXhKWDBGNDNodTJ0ZnhUeUJMaGVENkp0MzFlNVdNRU9DdzFBVVBiazdfczItWm9HUjRZWjlUbmtzaGp0aFBxamtXMi15WUp3OWdLV01KQXpaZUQ3bHFlRzV3?oc=5",
+        "title": "ELV CLASS ACTION: Invest in Elevance Health, Inc.? Contact - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbGswNllSa2wxYW9LbDF2OF85YlNibjZzaWVwTTRBYk1Xa2dDTTN6Z1RxbUdUeHc1TFpvUHF3Z2NWN3hWSk1zZjRHdUlHVGlKT3VWLUxhVERES2VJeHBOV1ByeWdrNE9xOG5rb3FYbnd4Uy1McVg5RC1Ea1haek5zMWZMZHJXQTBRdGRndmh6dmJkcDVjWGp5dFdGbldfUVRQR1g1U3J3U3lza2xISklVZ25kTW91aldKWm9xY3N3TzhCUjRfc0RjRl9Ic0p5ODNuLVhLVVlVRndGajk4UEZvQkhzeDd0Z0RjMTRvWUhPQU5rNTBweTA2ZVlOVGIyRDJZRC0taGRrak5iejQ2QWY0aEd1WGs5VU1wblA4VFRPRUNGczFkZ1YwZW5KdjVxVnJndVE0RUFpSzZaOHRQSDNPZUJjTGExX2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ROSEN, A RANKED AND LEADING LAW FIRM, Encourages Elevance Health, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – ELV - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPLVpBTjcyQUx0XzlEZkxhckxEUktVRVZpQlMtRms2dlNSWnhJYWF1N0ZWMUFWS1k5cXJKcFNVSjE2bTluVmlCblZSZ3J2YzZfenNfeUNETlg2S3NZUW4wSi0yWU83M3MzdWNDZUVzalhtTHQ2dGJfM1M4Mk1xZmt1bXBqcUYzU3ZGQUZTOGNsX1psamt5clY1ZG5odlhCQ0VmNnZ6Uk5PVExaNVNjaV9iNmlsQ0plWTU1VWlldmlBUmxYOXRGR2w4S2NTQ3Q4U29IZmpySDdaR09zd2tuSkZlZkxkZ25GcXFKUzZ1eHJkN0QxUUxJQ0F0SVlmTlpieDNxWThpbkJkRDg5R2RzOXdLTms0M1lGWlZIaVUyVUx4M21xVlhFTFNoR1dWN0g4SmlLQk1sZVF0MHZtcFFFR3RCVmhjdHZISjBvMnJ3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "RBC Capital Remains a Buy on Elevance Health (ELV) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZkoxZFkwT1hqektYT2NvMjlMRk8xN1MzZFNDT1Vrc0VULUlmUl95anVNa3VqRVduZjJ3RnM0OFN5U0J3c1A1c3NFRldtV3VLaUwzczg3SXFMQjJZaE9HSVFPby1LRnNNSEZ5bVc0ZC02ZW9OMDJua1I0ZV95Uy1RMEcxVEVPcG1hcmkwT0ZVbGtyb25Vc3ZrMGd2SjRkQzdhNjgtRW1xQkNOb2RMNFhZaUhNV09STC1mblBKZ1dOUUtxaVQtMDE0TXByYTU4RXlR?oc=5",
+        "title": "Elevance Health (ELV) Stock Rating Maintained by Truist Securities | ELV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNay1vYUQ0MS10ZXV1ZUZWZ3JleHEtZjRIU29qN0ZYeGFNdEZDdVQ2RGt3NnU3VFBVRWdqQkM3eDl5bE9teDE4MldQTDk5NF9aUkhKd1RCcGJmejJWZVRnSGFvSVE3eTBxSHp0NHlrQjJzWU1yMHp6T0o4N055dHlVdXFJUzdJRzZBV1ljbGY2Y3NLN1ZYY0FZXzlBeVBLc3U1YmxQSVNOcUx6X1FnSjBONk5VUWpxajJYTVow?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,43 +581,23 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Elevance Health (ELV) Reported Strong Q1 Results - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFpyRFpCeGg4N1VzazdLXzR6LTR6NEk1Ylk5djBGaDZSOXk2alpHWDB3b0ZsM0NrVmNUVGlDcEtmZm5SUWFWT3UwcUZNeDFnVVVGblJQaXk4aVF6ZXh0QTFYOW12U3haRDFpS1hZT0NiS09Ha1NTTnVpVmR0TjIwMWZkdG9sTk5UT1Jhb091bGVpTzBV0gGcAUFVX3lxTE8ySE1nRjBSQi1icWk3VUpYMEtFLXlaYkYyMm5RUGFaVW51M3FTSURIZnJSRi1iSVFZNHBEZlB1YnFPVnNTM1d4c3JtclUtVDhuaV9mbFMwVi1RQUFsTXVnTlJuZWd1SkhxLUFXVWhXamk5cHNLdVh4Y1JsYVA5UG5yMktOWjlGR3ZpZzh4R3hVdVFYNG9CVU9oTUZwcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Deadline Approaching: Elevance Health, Inc. (ELV) Investors Who Lost Money Urged To Contact Law Offices of Howard G. Smith - Business Wire",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPS1FDNEUybGxkMUowb1R6a0twY3FHdE9MZEREQUZfX1p1LUVJNzB0UDFQaXNaejFITzlNd0lBM25VeGhYZ2ZmdmZNY2d3RVBjM3hfV2JQOUtoOERUdmtGVlRUTWI0eHkwY180b0N2R2t3U2NCZC03Tm9WdDV2VTkxNkNEUFcyM3VQNWh2dkhwa1g2MG41OHRHTUw4dEhMSFhwN0ZBSWJ2R1RmU3FRdXMxWHR0dG9YR0dWWVRoVzZ4SV81WkI3VnFkRkttUVZXOGIxVmdOQk43ZDRqZ19ZR3UxcEI3SGVWX2NCV2hacFNMNjY2OGdHc1BWNG5oNWJYa0RaNUVfVmJB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NYSE: ELV DEADLINE REMINDER: Berger Montague Reminds Elevance Health (NYSE: ELV) Investors of Important Class Action Lawsuit Deadline - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSFVGcmF4aURIRXY2SlNPdDVkNkNxbk9wODc0TUU3VHdWcGhCYUJWWmx2U2hXS3J1ZFJyV3Nvd2xsTTJaQXVmVUlZTHNGY3dQeUZpZ1JLSFRnQUdVMjZ0TkVHbnUzbThPajVadWlMQlptY0hBaExIcFVwZ2x4YlZjRG1vZDBQNFEtcFhvLUFXUVJOTG9zZ2NXSHQ3ZUZDWW03ZEo0X19LOG8wMEx2c2ctMEdyZ2VuY1N0NVNWRkg4WjlZd2YwdHFydUkzS3EzUDh2SXJLOUpJSlNTeFBaVHAwSW5uV1JFQzNyclRGNWRvRmtqQm1TOU9aZkJmZ0I2Z054ZkRHRXhZTlpwV2xRLUtzQjk4VV9SNXBnd0M3VjFsNDM4X2xOcWEyZmc3T3o?oc=5",
+        "title": "$1000 Invested In Elevance Health 15 Years Ago Would Be Worth This Much Today - Elevance Health (NYSE:ELV) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmdhVUtGX1IwZlpJNUNZZ1NzU1FZaWNKRjJBWGMwTEllcWEwSkRCS0lfaHgzeWZCeFJ3N2VPZVhrZlEtLURIMmd5RFFVRmtjMlNiX3Ewb3I4TWM5X0g4elRBT0JOTGpKZS1kN2hlcF9jLXJRU2x2dUJOekdQVVRaTnVXVkVwYXBXcThLbWJWSGVyYjVZTGRqMmo2S2xtNE1JSkh4ZWZrcU81TmhWUkhZTEFyaDdDZE04X1dZb1N0RGNmbGJodXBYVU13?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ELV CLASS NOTICE: Elevance Health, Inc. Investors may have - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTFlfaTNSUHhZbjU1NmhtOUZ4MXNxcWl1YXcwTG45cHJKZGZ0Q2FDTzRSU2ZDZXlmQ0hsVWpkX3lhSVdkb0ZkMERibHRIdXhJb2I2V1BsejNfU3hUdlJTUkVCbFE5c2hOQS13NV9ueEtkc29Wd2h6NVNKbUNiR1lzMXFGOGlXVDl6VFg2SF9zMFNMYktYSnQ0eTkxV1U4UjdBRHp1MmYyVk8wR092NWNhUGxHUVJQY0QyT3pYalIyNENoTlRKbXB1OC1YWVhCVlNQV002V1FqMlVBSUNBdW9LZGNjMEJZMDhDUHhJSFdxS0FKLXJHV1dXSWl2N3JYdzlndzQ0ZDlMamF5WE4zRnNDZnM3OGpQd1pidFhYU18yS0RyQ0tLLUVWM1h5dkhBcnBxNHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Beyond The Numbers: 9 Analysts Discuss Elevance Health Stock - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUUtdkx3Y2o2eWdZNGNpaG02Mmc0dzFCMzNONWNOZnFqUG5zQlpXY3gtS2cwVXZsQlUwemIzYXQxYW16S1JqLWRON1Q4TmdoWmxXMXQycktmb0V0VS1tZENfY011NksyWHVWR1RwcWFEclV1amtkaFlabGFSeGk2c3hKc2FteHRlcjA4aTVXa25pRVg5eXplMFFBeTFQWldzM0VhSXRkX0R4MjhEYkNhVlBZb1NPYnV6cFdydjBrYzFpdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Barclays Adjusts Price Target for Elevance Health (ELV) | ELV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNllwdURWRENESmdjRDU1d2tPYndWbjlwUjBKV1VhTU1wajZjSjk3czBCQ2hOUWNheHdUR3VLRVM0cl9Cd1g4cjNNcC1tcXVBZXplWURCbE8tak1nM3B3V1VPcWQ5ZG5lX1VUMVI0THBCY2dkdm9nN0dITnc5cVIzREJWVHNrOWhYdkxRbmZlREplbnpValYxU1Y0SXN5Q2U2ZU1QcmdpZVBIdkZa?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Deadline Alert: Elevance Health, Inc. (ELV) Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcFdKZWpzSk5aclRxWkpIRERWTXJPdG5sR2kwbmI0LS01NkNzU1FzcUhiMUlkS09MVGVjMFNTd0VKZnJyNkNLVzRobmJ4dnR0VVIySkJ5N0lBWEpHdFF5UXMzSFN0TzdtY09tZ0VhenVnbHBzeFV1bHBLeDR0bWljVjZsNGNVY2lvS3VhYmRsUEZEV3N2U1BaVDZUMUpLbDE3M0dUWmxBQU9sMkYySUd0Umg2anlzT25kYVhPLWNiY3pRckJwNTlBNVNGWE13d3BXRXRkYTNiTElHTGhYeVQ2Qi10dExFUWFOQVZsdnBycUt2UktRVDBTdVgwamNSaktrZVVGRzV2SHZrTEZUVnI5Wk05dWZURVZ5RHo1RW1vYXRJNlJMU3Q4WGdlNTZCeG5BV3BpdGRxdk4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ELV Class Action Lawsuit – Shareholders Should Contact - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUGVKc2N5M3ZYV2xZaGxmVWRUdDNua0x0czZnYzlSc1VLc01YMWc2UU9Od28yNnQyclozbC02R1hmYkY2UE1oYVlfbzJuWnE1QkJCRURoS21ONTlhRVVGWU5xbUNKaS1fNVZvSXh3UFdqTGhRejZ6aEhEUk5qaks2MzgyWEluQVRvc2NlNXM2NS1EV2I2LTZ4eWwzc3hrOEtBZHlEWDZLUzJIUEtDTDhfUzNyVmNCdVN0T19Wc0FNeU1RZ0tLclNFZWh0dUpFMERUQkYxcTVJN0pVRjRXazM0U0FuVldaRE13VVFTaHNFWFN2UkQ0SmVlMjhaV1JtN0VlMGE4ZjRUa0l1N3hNcXVMY0ZIUWJWT1c2SFFPUE9od05QVHVKc0h3UElDdFZGMDJsUUpta1RR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rosen Law Firm Urges Elevance Health, Inc. (NYSE: ELV) Stockholders to Contact the Firm for Information About Their Rights - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcUhJeTZOZVhzMkVfSjFvZ08yLUhfQkhtc3lNMzRlLXE3S2pNaC1oWlZCTkRfdWRZbFBVUUZjTzNqWVhOY2tHZWd4VzhBaGt1VW91TmRHODR4bHNKMW5NcGNMajY1VFlzeGhRVVhERkV5R05NdWtneFhBcWpjRlFmVEs4Nl9aek5YNnFYX2pGWXFRbnFfRkw1T2o0Ti0zQTRORmV5cWo3RHFUZGZPWkEtSTltNW9iUG1TdUJGeGh2NE1CZW1NaUQzc2xPUjJ1TndYZjFYS1hEYmk1akMtdm9kSDFhMkFBVlBRNFJfNDBVNjdFT3MtYlVyMEdTdmF1OHlWQmNyV25n?oc=5",
+        "title": "ELEVANCE HEALTH (ELV) CLASS ACTION NOTICE: Berger Montague Encourages Investors With Substantial Losses to Contact the Firm By July 11, 2025 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNNEIzWlhiWWlrTXV1RmdsUUE1OFVVMUVjYThyc2RackkyaENDNWQyRVpqTFI1ZjRMeS05Q1FUdl9hYms2eFJXcXU3S0J3Zk9lSmFNa0ZIVVp0VzBlRV9TbkJ6clJCb0J1MjM5eTJGV2t5RHdpY3ZmOHk0eXZEaVpFV2VHME9DNExSNVRuc3huZzhVVHZLdlJCbndONzNmTGNEWXNaMWd3MTVUS0pjTExnbno4QV9JVXEwLTBnZjdSTVZrMFB4TWN3UHJEckhrLVJSR3JNVU91d0IyeFRtM2Y4bFg3cHdYekMwMTcwN2ZVUXJaX1NLQWUtdGpuMlpHbS1QNWJOdUk0N3FkZ05KY2szcll5OUhBMVVCRno5OHNfdVpCVzBjY1h2MFVTLWxKNUtxMkpUeWIzYw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,23 +606,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Barclays Adjusts Elevance Health (ELV) Price Target Amid Medicare Concerns | ELV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRk5SN1ZsX0pxX04wa1BRaWJkZHVOLV92NmdtMnJscndoWmJ5WndvZEdRYjN2d2hJdG5sc2RKc3pUWnRtYVBrN3Nfb2QxMDJQMlFBTUV0a2NVTjNXS1AtT2Q2LWtFTUtmY0ZURnZLZWtadmR3czZ2RkpkcVdDRTlLSUdONFVvOW9VQ0kzLVVJRGVBMXN0ZllmSTVsSm1BR3hvQTBYTUhYRDVVWURfQmFFSzY4QjNTZjdfSmRQcFg2bFo2bloy?oc=5",
+        "title": "Truist Adjusts Price Target for Elevance Health (ELV) Amid Positive Outlook | ELV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVhIbHBpTmJSMWdJaG1feEMxXzdhT3Rvc05Nd0pDdDNKSWtXazFIRGJVZXl1UUtHemxwYzZ3Y3FwcnZGenRsZHROaWhqZHE0Mi1aTHdodnZweWNmMFRhWTJ4VG5qZkxWMDZqcjU3RVBnM3NrM3A2bzJ0aExNTWxmMG4zcjJVQVpFdkpzOGxoemtuU3gzaHM2WDNCYzRORU11UUNoNVl3X3BDVVBVM0cyaHpJZFFQb210NlYwSTU1SHN1bWVsMDF3ZkxPWS1WbU9vT1ZoYnV3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Elevance Health, Inc. (ELV) Investors Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTnN3Mno4eDQyYVI0SFRYcC1CNFlzZjlRNzFlN0pnbWxVZ0VLa0lleHZXZWc1THlBZFBlZVgzZDVSQmlzeW9XZVYzdUo2MExLRXRYSU91bFJ4VkNvT1ppX3BCQjZ0al8yM2dJbjRPTDJCZFFQMWJZYWJ1Yk03bC1JLUpkNm1yUS1MckVDR0Y3MzlRSWhPbENFS2gteXVJZFZHUG5wR3dvQlo4V1lsc2FBVFdKd1RtcUVLUDd3d0F2UUNrZ2dPcnh3SXdLRndqRzZEb2Y5bmN3eWFSeGRJNFBZdEVlTWpUYXRBaWJVWk4wSDRWcDdWQW9lSGhEZGt4SDJVODhCMUU0UXNGY3ROQ244VQ?oc=5",
+        "title": "Deadline Alert: Elevance Health, Inc. (ELV) Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYjlzanlsS0R1OXVHUkYxZ01HelZTcXQ2a3hLNElxclJkWElLcXNjTWt1SGlfeHdHaXg1WGYwc3VJeE5EVnE2ems2OW1FTVBDNzRSQjNEcW9yMmxIcmFqQmgyNGVxVWFBbkZFMUpyVFZ0amYwXzFHWTFKRXJBM3BOb1BZX09kbmlaVnM2d2cxMnBwc3ZLcFBKbWVuMkNyWjkzbmRYdVF6clZ0NUYzanYxNXNBeWRkOFcxX0d4VjJkTDhHdERPY2Z3Sk1COGxRVzlfSy1EeHdHVHJKMVVHUXNXMUtyYTBkY3QzX21MQVBuWWVxLXZVOGVad0htYlhZN1ZOR2RFTFdWRlc4YWtjekFGekhUekNSUW1hS0oyaXpSZS1VRWNxbmMzZUJNa1JVdHVIaW5IUWNYbUo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Elevance Health, Inc. (ELV): Among the Cheap ESG Stocks to Buy According to Hedge Funds - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnRrQ3RyV0t0V2p6N2tOWGdpSlRvSG1hQ0NlZk5ZR0RMX2xiZnpjaGZ4WGp1Smk2YXh6VncyNlczXzZ0YjF5YlBtWlRyd3d2NnNIX2lVbmFCYjUtZGtwcWNpUUltcVFudWRkc0NEZldxOXp5Y0ZwVEhCODVYZ0lvWg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Not Many Are Piling Into Elevance Health, Inc. (NYSE:ELV) Just Yet - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhOT1pUekRKY1M2TGpmb3Q5ZGM4dVVMT1ZOb1RVazVfWGM3eVFLNFphUXozQm1ta1FpRW1rMlZUV2Z0emdSYkREeHNzcU5wbFJhT1hmeWg0REp4aEJPRHBybWlEb0tSSFhkUlBkcmJIZlNUZ0hOTXZQczRFY190Q3RSRlRFRW51VWx3S1hTMGpYUVJzczJlREZsZ1FySWNQLU1SQldOeUZySk9rTXVudm03TTlnbngwaS1PaGc0TWhRV2I3Q0l2UjBFUUsydw?oc=5",
+        "title": "Could The Market Be Wrong About Elevance Health, Inc. (NYSE:ELV) Given Its Attractive Financial Prospects? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVNCNUxSSVlFWE5CNDlSU01ROEhsWDNEbDg2czk2ZTRXQVRYZzY5V1V1RnktdWZyWnVzT1EtWFVxZTFuWVRwU25pX1VVRjY0T1ZOc0M2UERlUmdUWGJUdzF6LXRzdGN0V3hkcGhrbXJWN011WExzUGxHbm5mcWdxY002OUVyTE0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +626,36 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Is Elevance Health (ELV) The Top Falling Stock with Unusual Volume? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWFJhVTM3Vkh4bWllNnQyNDc1ai1qbVNVRTl1eGZJd0xxc2JDLW0tMjd6a3pZMW01eXVKYmpPZmJySTJUMG53dFprVWUwXzE0cWNRUXR3dWItMHk2Umk1Z1hzcWdRdDNBXzBHVUZlSThBSjFwcTFmM3BCU05LcXNwODliMA?oc=5",
+        "title": "Robbins LLP Reminds Elevance Health, Inc. Stockholders of the Class Action Against ELV – Contact Us for Information - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNU5KTS1aQ0hOcEJHb1V1bVJkcFQwdmN4MXdhVnZ1SVhYZzZvNnhfSG9Lb3lWV3NKcmdFTkFsRU1ycDFGRHEyQ2hER2x6QjgyYV90b0RaMGZOVk02OTNqaVhQcDFrcE1tdjlack92OUN5bktMaDBkLUhzUTdkTms0VWx4MEFFVzdreXRER1NSU2RmT2Ztc0NlTGJMaFV1RXJ0THV3ZUNCQ3E0TWJtY2dPWklKcG9LNUN3YlJQdWdrVzE4QklCSVlOaDA0d3hTakRNQkRGUVkxUk56NjJsQ09GTXl1VHJObWZwN0lhVWVrWGtWLWVmZFJMUWtldjJ5eWU1Y3BEaTVDZ1NrTnVUQWVScVVOUmtWQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Law Offices of Howard G. Smith Encourages Elevance Health, Inc. (ELV) Investors To Inquire About Securities Fraud Class Action - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlVHM0tTZTRQYUVhQnR1Q280MmlnblZnX2JrT19vbjB5ZGZOQm5rQW5CRVdGd20zV3JxZ1pvbnZvZ1EtT2NuTFJkcEswWE4xN01UTDItSk1QQ2xYakZJOEJBRVF6OXlCR2pHaE92YXlxc0xWSjFWRERTUUYtWVdlbGpTMVA5YXprRmFUQW9raVFNZHpnT3BRLVJ2dEI3eG1sYnRIa1BkeE04RXMtRFZ0d1l1dEl5WXhUdHhBMDM0UHl5ZkVBMkwyZ0JOc0hfNkhuSm5tRkI0a1ZZR3p1LVA5Vk5JUlVweG43R041TllUeGZZWUNSS041RHJyVHBJN1RUci1wQXVjM1FEeWRq?oc=5",
+        "title": "Cantor Fitzgerald maintains ELV stock with $485 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEFHUEtDa1l2bFczLU0wVGNkV2Rfd2l1Zk5jREVQbVNaeTVHMDg5MUNFTUVIYWctbVZFREkwazc5ZFpnTzd3Q1J6WWU5N3dhWlRyelg0SUdKWlVuN0lPSXhDM0V0ZzNkOWpITm5GbFpnMzNDYzN3OVFaQ3BYeVFBYWlSM0dRejdDb0dPVHBjTFB5WTBTVmdfLVlKbWppcjVIUFpndUxfNll6WVpaXzBTQl9RQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth vs. Elevance: Which Healthcare Stock Has More Upside? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXFITW9NaXdZZFpRLW4xWDRFc1JIS3k5NHR6Z0dRblZuTDI1TkV6R1J5N3FNRzVjazM0Ql9ub3U5TW9yc0MybEg1WHhmbGpmSDVDUGZSSVFOVHhYaVI2ZHVfRkpEQkw5ZGNaRGFTQUE4R3dqUFFQd29vT1lyUmZydG9STUhFdjh0X3g5NUhlM0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IOVA Shareholders Have the Right to Lead the Iovance Biotherapeutics, Inc. Securities Lawsuit - Contact the DJS Law Group to Discuss Your Rights - ELV - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNanpON1R0c3RPWkYzYU56Njk5VFNkdUMxbXJURXl5UTcyM05iNzRsU3VFbXN5OVhkWmQ5WVRMdWJJTEtwbU1hSnlmYlpBaEFvcFA3SEZYYXdHdHpHZmppaHlEbkpRUE00bV9WZl9DbUdYdXNJQzk3OUNqSXd1dlJxSnROeEFUZlppdGt0MGIwUTVBX3dZTjFPV2lRVE9XbXFFWjVXd08zS3Z2LUU3eldYcEhIaG9CSnNVRWViT2V4TjQ3QzFvQmxIc3pGVmtaMXM2cG1LeTRsN0lQY3FvZTVCTGM4ZEhqeHI2MHdzLVowN2FXbldKWnhvWi1vUEpvWXpPeGhwekg5TmxmaFBXdGpQbTBlUi0tM20y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ELV Shareholders Have the Right to Lead the Elevance Health, Inc. Securities Lawsuit - Contact the DJS Law Group to Discuss Your Rights - ELV - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPejFFNmtVcUZGVGpJQTYtWWNpaldPZjViNDY4YTRxZGJHTTlPWjNJM3djYmI1WU1ycHlnbHpVOV9ZTjYwQVJsQ2EyMktMTEJTamdfQlVlNXFMRFZjbks0bjIyTkItbGJVVlZJMnFNREhJWGF2Rlg3cFk2TjAydnF5azFSbS1GcDNaSDR5RU9INDREanFvN1NiTEVienJWNjJob0dJX0N0MlJteFpIS0l2bUxudGd1Sk9pbkRlNi1TNEFOempnZnJ1OWo2ZGU5cDZlbmVoRXdtLWdTV0Y0UWdmdXZfaXQxQzRseVdPRDU0VVZEaW9rTm1qc0NoWjdJT3VHejI5SDBURDZ6QWxsM0FzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RBC Capital Reiterates \"Outperform\" Rating on Elevance Health (ELV) | ELV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDVlUG01d3Z5REtRS0Q1VWM2Z3FORWhaRG9RdHJ0Ym5BT2czYjI5MXc4VS1uQmFJbWVHZF94ajJHdXlKYzh1WFU2WWhfQXM5UXhTVU1QWHFvOW1rcG5BZXpaWjhuaTBVaVJvdERjVnZRVEF3cVlocU54SVdlWnJJRmZoTXBqVFRYUHUyVDdJSzZrcGd6NERIZW8tRV9CMEc4Ni1jWGNTc0tEOUU5bFFXT0NVTkp6SUJtYWc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

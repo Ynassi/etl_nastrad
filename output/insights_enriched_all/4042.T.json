@@ -2,16 +2,16 @@
   "ticker": "4042.T",
   "name": "Tosoh",
   "sector": "Materials",
-  "market_cap": 663615635456.0,
+  "market_cap": 656130637824.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.447173,
-    "PB": 0.80232775,
-    "EV_Revenue": 0.73,
+    "PE": 11.313087,
+    "PB": 0.7932782,
+    "EV_Revenue": 0.729,
     "ROE": 0.08118,
     "ProfitMargin": 0.05454,
     "GrossMargin": 0.24357,
-    "DividendYield": 4.8,
+    "DividendYield": 4.81,
     "DebtEquity": 19.847,
     "CurrentRatio": 2.262,
     "QuickRatio": 1.304,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.006775434028494652,
     "ROA": 0.04724,
     "PEG": null,
-    "EV_EBITDA": 5.303,
+    "EV_EBITDA": 5.252,
     "BuybackYield": null,
-    "PriceToFCF": 92.10647766941223
+    "PriceToFCF": 91.99596049494241
   },
   "technical_indicators": {
-    "RSI_14": 53.47311020324592,
-    "Momentum_10": -1.115329852871381,
-    "MACD": 21.528974310469497,
-    "BB_Percent": 0.5179292823498018,
+    "RSI_14": 47.81269432273891,
+    "Momentum_10": -3.670797287818564,
+    "MACD": 10.067157496093389,
+    "BB_Percent": 0.303311728956115,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347434791240004,
+    "ValueScore": 0.8966412168060444,
     "QualityScore": 0.4060505945674647,
-    "SignalScore": 0.5765361723807809
+    "SignalScore": 0.6105358674974448
   },
-  "volatility": 0.0166702206696127,
+  "volatility": 0.0167680709613971,
   "beta": 0.228,
-  "return_6m": 0.0148563078421821,
+  "return_6m": -0.0148254423720707,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 2283.75
+    "target_mean_price": 2300.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2053.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2064.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2074.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2077.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2085.5
-      },
       {
         "date": "2024-12-13",
         "price": 2091.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2083.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2070.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2060.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2093.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2081.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2060.0
       }
     ],
     "current_price_data": {
-      "price": 2083.5,
-      "change": 1.0,
-      "percent_change": 0.05
+      "price": 2060.0,
+      "change": -21.0,
+      "percent_change": -1.01
     }
   },
   "news_sentiment": {
-    "summary": "Apple Inc. continue de séduire les investisseurs avec son statut de valeur de dividende à détenir à long terme. D'un autre côté, le chef de Raytheon souligne l'importance de la Chine dans le contexte actuel, ce qui pourrait impacter les entreprises internationales. Ces deux nouvelles mettent en lumière la nécessité pour les investisseurs de rester attentifs aux relations géopolitiques et à la diversification de leur portefeuille, en particulier dans un environnement complexe et interconnecté.",
-    "sentiment_score": 0.5,
+    "summary": "L'actualité récente met en lumière la solidité d'Apple en tant que valeur de dividende incontournable, renforçant ainsi son attrait auprès des investisseurs à la recherche de stabilité. Par ailleurs, les déclarations du PDG de Raytheon soulignent les défis persistants liés à la dépendance économique envers la Chine, suggérant une prudence supplémentaire dans les décisions d'investissement. En parallèle, l'incident insolite impliquant un python africain souligne l'importance de rester attentif aux risques inattendus qui pourraient impacter les marchés. Ces éléments combinés pourraient influencer le sentiment des investisseurs en soulignant à la fois les opportunités et les incertitudes du marché actuel.",
+    "sentiment_score": 0.333,
     "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -552,8 +552,13 @@
         "title": "‘We can de-risk but not decouple’ from China, says Raytheon chief - Financial Times",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NVRUWDlDbDlNV2w1QWkwNHQtNkpXeGxNQ2VyZDVUdHdRbXpnTl9ESW56WFlDMkw2enZhNUxCVlhGZTRscEFsaF9WY1ItU3I2Zkg0WnRjWlFMV0liTVRGeGtUdjVtLW9GdWxQNi0wcjA?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "PICS: It wasn’t stock theft, it was a 4. 4m, 29. 8kg goat-gobbling African rock python - IOL",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczZvWGdHbi14SElGQ2Z3NzY4WXFPUy1mVnNZbWR3UFFwd0t4aGJkSXp6UGt6dHkwajZwN0lwSk1sRWJjOEtwTnUycV8td2thUHNlYU1wUWdhUXFjeVQzNm1ZVjZCM0NQR045NlRHT0MwTU8zbGI3RERTcjBCVjhEODF2UGh6enZYdE5Id0tBUXA1NW83WmNxNklpSDJYZ1M4aVlDQVo5NEE5U0M2VFBiVzdMT0dSbzRfOGRfMXM3bXBIMms?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

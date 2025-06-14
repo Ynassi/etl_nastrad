@@ -2,16 +2,16 @@
   "ticker": "GPI",
   "name": "Group 1 Automotive, Inc.",
   "sector": "Consumer Cyclical",
-  "market_cap": 5452751872.0,
+  "market_cap": 5486188032.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.848228,
-    "PB": 1.7990398,
-    "EV_Revenue": 0.501,
+    "PE": 11.910839,
+    "PB": 1.8100715,
+    "EV_Revenue": 0.51,
     "ROE": 0.16555001,
     "ProfitMargin": 0.022809999,
     "GrossMargin": 0.16168,
-    "DividendYield": 0.48,
+    "DividendYield": 0.46,
     "DebtEquity": 176.047,
     "CurrentRatio": 1.001,
     "QuickRatio": 0.232,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.002007716186087105,
     "ROA": 0.06628,
     "PEG": null,
-    "EV_EBITDA": 9.61,
+    "EV_EBITDA": 9.774,
     "BuybackYield": null,
-    "PriceToFCF": 130.08283059382424
+    "PriceToFCF": 130.532928456057
   },
   "technical_indicators": {
-    "RSI_14": 48.55651507553778,
-    "Momentum_10": -1.0554663867255658,
-    "MACD": 1.3694692695178787,
-    "BB_Percent": 0.2211188880810568,
+    "RSI_14": 48.19325980174472,
+    "Momentum_10": 0.1712190172752031,
+    "MACD": 3.000366624117987,
+    "BB_Percent": 0.3097462111808468,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934328519939297,
-    "QualityScore": 0.3110815800751163,
-    "SignalScore": 0.5549841273259057
+    "ValueScore": 0.8955699073561164,
+    "QualityScore": 0.3206723099341962,
+    "SignalScore": 0.5736210473597765
   },
-  "volatility": 0.0220559110407461,
+  "volatility": 0.0223904289665303,
   "beta": 0.915,
-  "return_6m": -0.0185196040251723,
+  "return_6m": -0.004663229801014,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 8,
     "target_mean_price": 463.875
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 424.69
-      },
-      {
-        "date": "2024-12-10",
-        "price": 424.56
-      },
-      {
-        "date": "2024-12-11",
-        "price": 424.73
-      },
-      {
-        "date": "2024-12-12",
-        "price": 425.0
-      },
-      {
-        "date": "2024-12-13",
-        "price": 427.1
-      },
       {
         "date": "2024-12-16",
         "price": 427.21
@@ -537,27 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 422.89
+      },
+      {
+        "date": "2025-06-09",
+        "price": 430.89
+      },
+      {
+        "date": "2025-06-10",
+        "price": 442.61
+      },
+      {
+        "date": "2025-06-11",
+        "price": 442.58
+      },
+      {
+        "date": "2025-06-12",
+        "price": 433.72
+      },
+      {
+        "date": "2025-06-13",
+        "price": 424.86
       }
     ],
     "current_price_data": {
-      "price": 422.89,
-      "change": 3.99,
-      "percent_change": 0.95
+      "price": 424.86,
+      "change": -8.86,
+      "percent_change": -2.04
     }
   },
   "news_sentiment": {
-    "summary": "Group 1 Automotive (GPI) a récemment vu une augmentation significative de l'intérêt des investisseurs institutionnels, avec des achats importants effectués par des acteurs tels que Wellington Management Group LLP, Deutsche Bank AG et Royal Bank of Canada. L'entreprise a également renforcé sa position financière en augmentant sa facilité de crédit de 1 milliard de dollars, tandis que ses résultats du premier trimestre ont dépassé les attentes en termes de bénéfices et de revenus. Cependant, malgré ces signaux positifs, des insiders ont récemment vendu une quantité notable d'actions, ce qui pourrait indiquer une certaine prudence. Enfin, l'augmentation du dividende et la révision à la hausse du prix cible par Guggenheim soulignent une confiance accrue dans le potentiel de croissance de l'action.",
+    "summary": "Dans l'actualité récente de Group 1 Automotive, Inc. (NYSE: GPI), plusieurs tendances clés émergent. On observe des ventes internes significatives de parts par des dirigeants, mais également des acquisitions d'actions par des institutions telles que Deutsche Bank AG. Le conseil d'administration a déclaré un dividende trimestriel, et des analystes révisent à la hausse les cibles de prix, montrant un intérêt accru pour l'action GPI. Malgré des signaux mitigés, l'entreprise semble maintenir une dynamique positive, soutenue par des résultats trimestriels solides et des recommandations d'achat.",
     "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.2,
     "neutral_ratio": 0.75,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Shares Bought by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRVJUWEtleENjY3MwemxoaEtnMkhNTXZVUW1xZDl4bmJZUWlnOVhMZE9VM3hlLWNTZE54eWNFNFhsLXRTTUFJMW9reHpoSFF5bzFGaXh6Mnl1WmdjNzZXNzE0dk9nbzdiZDVwM2lKYUVvSDUzWlZ0VmNYbnRUQUx3cUFGc1JMZzZZTDhzbEF3d1pVMEFpdDd6ODBUNGZ1V3hWMXdjUHFxby1BbTlvbW9sR2wtVHBQRW5UdHEzUjhObjJrcENFdjlZOUU2VWlKN21GdHBJTU1IOGdnRWVRZHd5RzZ3?oc=5",
+        "title": "Insider Sale: SVP & CFO of $GPI Sells 1,509 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1McXFCQXFTNmlZUkFoOEFPZ256RENEM2p6VnFyYlpIeWY3cVBlNUJmaXpUenVKUE9DNjRVdzZXNXliWmRYSVB4OFpQaUo2WmF1dkpxRE96NGx1Q3lQOHhCNWZ5V0VTMUtvSEJlSVNDckhveXJRN280VGwtRDNsSHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Sells 2,138 Shares of Group 1 Automotive, Inc. (NYSE:GPI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFFfNE5EcThMbzZubWNoWll5Q1VPSTRaNzVuRnBfSVRKYnRWc0Q4T25hMWhXUVQ4b0dILWYtRDRNRG43bjUyTjdPekFpblBBU1JYNUlfUWlnbTNJTG1sWlVfUHJzZVNZODZZejRUclpaQmdSVjNQX3UtY1A5MmVPczEzdFgyWEo0SFVBM1ZpWmgwY0wzWFpIbkJoMEhxeFlIeTdoeUxvTV9reGZHNjA2YUVnUkp1RnNoMHk4R2FiVVY5alpRc0V0UVFlWGpURl9lTUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Did Group 1 Automotive, Inc.'s (NYSE:GPI) 16% ROE Fare Against The Industry? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmNwakZJaFVfOWh1UU9JVk1uVDlkU1piZFlQak9XLVhmY1BsODBLQjhzQTBSa1VPeUI0MDR4R3NrbWRKcXh0dnk4UkZnVm84VkpIRFB0S25GRzhYMDdDVDZ6REdleDBRNUFIU2JocnRzR1hYc2NaLUlBMWVCM0xlWm0wd2ktTHJpbC02N0lFMnk2LTJTemQ3R3IzLUluSTJUbThiTzRETTQybVhnVUZxZzZ0dkdYWGx5SUZfSnp0d3pROHlEU3RCMVBVNNIB0AFBVV95cUxNMUd6eHd1SUV3OFNERGVrZlE0Q1VzTUczTE9HenJKazBsZVZWQmVURGZDeTcwX1F0Ri1uTmN3emIwZHFPTmJxX3Y0MUtwbmJVNUFCSUVtSHRtcEdpUG1aSEJlaGQydG1QeDRtN2I1cmZDQUZjZjc0RExVSVdIOWpmeGhVS2JMTUZNSW9DSUppc3Zfd0tCazl3RnhmVjctcW9WdTQ0ZmtlaUJ6cjNBYlRKSlZBb24xUnRjQzVBUUo4alNVc0NKMnVuRzlRY0dyck9E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Group 1 Automotive (GPI) Is Skyrocketing So Far In 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yVTBpei16SFNrU3BoYTVtX0tnSUlNRk5YTjI0cHZHWVYwODRBZFo0SG9UZWpGc1Q5ZzM1YjlSYnRUZWF3R2xsS20zN3JtTVlLNDZ5cjB6YW1SejZ0cEFtNFMyQl94aTNMY1R4UUE5MjhPVS1mZ2J3UWU3ZEk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,13 +581,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Group 1 Automotive Expands Credit Facility by $1 Billion - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVF3bWVCakVqMDUxWGlmbW1rMGZnNlNaVDI1QWVBdnk2VDZSZWhZN0dxN0FvMjI5NW1QTGxmTFdwZDhhMmZJOTlybDltTG9wazczek5DaTdzTXF4YVlaVjhRdEVOMFQwTGkxYnY5SjBTQVpQMXh3X3RDTjNYS0g1LWNSM3VkMm50dTFPQ05wS3NlcWZfbUxKMG9WYWN5eGttYlBwcUxwbUtjdFk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Group 1 Automotive (GPI): Among the Stocks That Outperform the Broader Market - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41MTVjdFZLWFZhRlI2N3NOX2YtQkw4dERCUmdJYU81SkFaOE5EUlViUnNOU1BzMnktM3AzR2VFOTF5a21TT29qVF9GellrVGhaRmdfNlB1WGw0aGdnM1RQc014aklvaWVMeGtKRy15WkhYTUZmWEs4dXdPQW9zb28?oc=5",
+        "title": "Insider Selling: Group 1 Automotive, Inc. (NYSE:GPI) CFO Sells 3,000 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXFfSFp5aWg1bGY5eEtPR1VvXzlGWDU5V21ma1NwcEJVSU91U1JraXgyMGtVOVM4aEREV0dHYUo4bHZBV1dJOUIyNTlBWFJmeHd6ajc3ZWFWQlNoanZxTVc4ajhJa3VUeXFkYzhpRmxqQUw1NV84YXNqbi1TVEhtT1Q3d0s5bjdqbDh0VmtneE00QXczcFFEbjBVQWNoelRyWjFiZ2xNRHJVXzdLWEJQYlBwNkJLb1pBd3N0VDNDWVE4OV9pX2pQeXhNRlg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,13 +596,13 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Shares Acquired by Deutsche Bank AG - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3JsQUVsT09sMjh0ZVlDelZmRDZxVjVKeURzRDNrTGtybHBXWjhaa1E2WWYxd0R1MUdIbExuMHZHWDZ3Mm1vT1I0X0hneUY4bnVOTXZ0RjhIU1ZvMTJQMThHbFZSOXJ0bEdnM1NZeUhKbXl5MDVKOE5rcnh5NUc0MjJUTHlrT3ZHa0FGcnlYWWVsc2t4b09pcVVMajc4VWVaVTFSSWNMSU95U25LNFRKNE5oWE9SWF80U3I2OG5kTXI4YVN2TFI0QTFpV0FZeGFISEE?oc=5",
+        "title": "HOG, GPI & 3 Other Auto Stocks Hike Q1 Dividends: Should You Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tRVJnMkRzSTZ1clZRTnVPcEJfOWdJb05YVnRFUjZIVWFaTnluTE1NOWZtSERZM0Y4MFJUVW1KdVlESTd3MERsLV9QTkZRRklPMkxCNkVzOUI4OHZfX3VHWnZlR1RWNkFwMERkM3c4azJPblVG?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Group 1 Automotive Insiders Sell US$6.1m Of Stock, Possibly Signalling Caution - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUlTVVpkR2xhbmpRQ3d4aFZ0SUVFVjFVN1hYdTMtekJLVkJyYldUY3RqZXhscXlweEt5U0ZaLUhPc3FiYXhHZXptR1RMZWtmX29kZzRnY2NhNmVrcmVyWEg5ZXc4YV9rcF9CZDI5czdraS0wUlliblZ3cVpIWW5rMHhrcFdMRGtHdDJiM2ViMUx2RmxpRW85aEEtVDdzenZYTmpRMkhFbEQ4cndwYnpLdFRndUhhOWRZbXZCLTc0TnVUX1FIdlZ0YmlFYnbSAdIBQVVfeXFMT3o1X2dtenpSdmNkcHkxc3ZOODJEdFNZcmdxUU1GUjA0QWxmMmZqSEdpdjUycWtrM0dhOHE5ZzRrVzliVFpwYkV2QlF5V1EyS0F0ZkJ2bzdGNENxMnB6c3VIa1d1YVBLTGtTeGJ6dkFkbU0xUG5FWGFFV1V4b1lDdVhfbFYyYUdqSllpUTMwRjJMZXQwbGl0QlZ0eG5DU2tYSzBTOXpNYVA3ZlJlQ2pVY2hndndRYXdVUzBSQWk3RU9ObEJZT3hrT1RROVAxUG8tbUtB?oc=5",
+        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Shares Acquired by Deutsche Bank AG - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU3JsQUVsT09sMjh0ZVlDelZmRDZxVjVKeURzRDNrTGtybHBXWjhaa1E2WWYxd0R1MUdIbExuMHZHWDZ3Mm1vT1I0X0hneUY4bnVOTXZ0RjhIU1ZvMTJQMThHbFZSOXJ0bEdnM1NZeUhKbXl5MDVKOE5rcnh5NUc0MjJUTHlrT3ZHa0FGcnlYWWVsc2t4b09pcVVMajc4VWVaVTFSSWNMSU95U25LNFRKNE5oWE9SWF80U3I2OG5kTXI4YVN2TFI0QTFpV0FZeGFISEE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,33 +611,38 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Group 1 Automotive (GPI) Q1 Earnings and Revenues Surpass Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sVTNuNlF2RmZxMVJqVHZ5X0FVamlRVTFUWGtZa3FyT1hKS2pKaUdRX2dGYWdNZTVlZW5YN1RvYjB3ZHVtUE4zN0RKZVZiQVRpaUJ0dXRGZjZWbUpKZkoyTEY2TVkwX3A5QVJEUTg1TUhyLTF4c3U4OU9sUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Group 1 Automotive Announces Maturity Extension and Upsize of Revolving Credit Facility to $3.5 Billion | GPI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMUNnY0ZoeXBvV0dLWi1oT2VLUDltWF84aTdydWppNC1DSmM3RUtiNUNPRGFxM1VweHBFS3IxYW1RdHhXejdHb0JYS1otb2lKWWRTYnh3SWJfcmdKaldhMU14cVZWYVJzblQ5ZUU3a09lb3VmRGlvcHFEWWlTQ204TGFWaUoxNnFOdVdMUlF2SXJ4QTBaT3BGbVN3MG9zRnN1NVlHUEM0UFA1VGhFeWg0SnRxU1puU1drLTlUVzRORXVzMk5DMUVfUVNaYXpnN1FWYWM0MmhQZ0JTZHRlOTZRd09zX1Z0REpJMnUxOQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Increases Stock Holdings in Group 1 Automotive, Inc. (NYSE:GPI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdGFUbVRETkQxQVpvSmk0bktURm1WdHpOVm9KYW5MZXJ2VEhMMG42WkJKRS1Pa1lBZ2ZlV21ZMWhCdUpzUzc4a1d3aGtWdU8wMG1fVDZYM25Ra3hkMk5ndWFDa01vMlVsUEwydFFLT0pQREVIZGlwdEE1RTdXVkZ5ekRGN21HVDBrSGt1bUdfdDFoa3BZTUNIbXZDWXM2ekhJU2pSd05ZdDRMNmdiVnBCUDlYZzZQUUt4WGowZWZBM0ZhUHBBcXpCMHluUmpXQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Group 1 Automotive Hikes Dividend: Is the Stock Worth Buying Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2JwMk1yQkxqTi1ZSl94QlFFRVAxOTFfYXNhUUJhYWowbkRHR3hEYnRiYTJDWndjVVBqWVZXSWJlNVNLOXFoYkRySnZnLTZhdXZJazhUS0tCR0N0UUtKWWRGR0F5UmhYQ1U0RU45QWdYTzV4aG1hV0o5aHU4cktzSFpMQ3J6Y0MtUk5BQjlDSGFVZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HOG, GPI & 3 Other Auto Stocks Hike Q1 Dividends: Should You Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tRVJnMkRzSTZ1clZRTnVPcEJfOWdJb05YVnRFUjZIVWFaTnluTE1NOWZtSERZM0Y4MFJUVW1KdVlESTd3MERsLV9QTkZRRklPMkxCNkVzOUI4OHZfX3VHWnZlR1RWNkFwMERkM3c4azJPblVG?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Guggenheim Revises Group 1 Automotive (GPI) Price Target to $426 | GPI Stock News - GuruFocus",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWNDSHA2UTMwNEZyV1VUNUw1RzFfU0NNUThMeVRVb3dVbmtyV2ZXZnNGUjdTVXZnNlFvTGpHQ1JERGhZMWtkNDRpQlVTTmdCRTc2NENvUWlRRnJqb0hiZ0JraXZtUElmeWF3ZlVXUEI2WDB6REtkSE5jU3J6YlpEMk9hd0w5encwTXJpZld0aGJWYXcybUdoRFNmNmZmUnV1a0hHVGZvbWcwVk9GNThuZHlfNkZfVzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2dkeDZPMHZXWEpmY2c5WEJrNFAzZXFrbDVUUHNjcnBxXzZaV0tOVXJIRFVSTjBfci13ekM1Y0hEZ0NRejJSOWozdERWUC1HRHR6cHhzWldHRF9DeGJYY0t5Y19veDV1dlRXR2g1VmZQbkV6dVN2aUgtcGlTYlhNc3lqSDVtOXJoWGZMcVhpTUF3WFpOeFF6Q2p1V2xnZDB3a0hGSUprTE1wVk5UVURwQmFlSHNHbGNGM21SZEdGeGVmd0Q5Sk4xRXh4MlRDblpELTZfTw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GROUP 1 AUTOMOTIVE Earnings Results: $GPI Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFpYc3otZzZEQXBZRTZBU2I4VjBCcXhtSzUwVXU0OFNWX29fd2VSOWZuZEFmOFZyR1RWbTNUb0dxWWF2U25CN0FTazAzTGxFa0ZoMC00aE5HMklWSS1zWnZINkpxS29qRFk3YlJIQ0YySXVRUllkLUxjN2tnR0VmYU1LZTl3VWJtSFRzWHZkbVppX09RdXB1WjBFS3E3cEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Group 1 Automotive (GPI) Exceeds Q1 Revenue Expectations | GPI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpWTTN6S1JKRHg2U2NORnprRFU2cWNlSUhLUjU2VjNIN3pxSVUzalNqRzl6QWJUcENWaWJvWVRDbmtwUUZLV3M4OTJZbFlQeWY4ajk1R1NWQUlqdVNiME5jdWpvZGhQQlRfenczdE1RQnRxZ1NONG9lLWxYVGpuekljX3hTY1NOT1I4emRSQ0llRkFMajBrTDZfWXBjSkZtQVRrMjN5QkVVU2tJSGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Group 1 Automotive (NYSE:GPI) Upgraded at Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVRjZE9EdkVZU0NnT2Nia0VQcWUxMFpLR3VEYllqeUJYMVMzZVZBZl85cjZfNmZMY1J6S3lVbEtIYzVWZXhuZlh2bGRxZl9FSElBVm55bVdsU1Ywa0VCOFJyRExyTXI4U3kyN1M5dUhnenBPNTE1Nm9OOEhKc2NQX2xaQ3hGcUplX3EtX1hrdVk3OENuTGl5S3hZOHpQRXh0QWRwSkJHeG16RXl0LVgyU2dTNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wedge Capital Management L L P NC Makes New $36.04 Million Investment in Group 1 Automotive, Inc. (NYSE:GPI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUtaaWV5d09sV09DRmVXc3RGeTRTd1dIX1NnVmlDbk94UTAxQjZpZ1RXUGZxb2N6cTBrZ2RHQ3JWQkMwdjNRdzV6enlDN2pEdHZTWU4wUzZyY1dOdzd6U25VQll5cy1Fc2Nwcm45ZWZuV1dGSDRNdVlicUVxaDlHWXpTVUVBT0YySXVHMk9oQnNBVkNUT2FqOUxLM18zNFdIUjB4YjRBWENaX0k0UXpNd2N1V3NxTkhUNXYxa1QzU3pQRC1GMkpfQjZjSDhEc01qYW14Q0RTMnpnRU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Congress Asset Management Co. Has $10.78 Million Stock Position in Group 1 Automotive, Inc. (NYSE:GPI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWZLSWNSWF9WNmxMNU16WTVobW1jNnc1ZGdNeFFWNnpsZ2VoQU9QVmFsMWl6Q0h5Mm5kT0Y5T0RManpxdFBwNEVGVERUdjBFZXBObF8yTzk1MzU2c2hucElkUnNyU1NkV1h4NVBJWmpDOGJZSGNpOG1QS2QwSmxpQk10Rm1VXzRvTXFkc3NCTVBLNDJiUkpUUjAzWlFOMXFWOHBNaGRlYUdfTFN3Q0k5YlFaT1lyV2NPd3VMT012a3NWNU1qclNQX2tJX1EySV85VEtXOUlBb3I?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,26 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Shares Sold by Millennium Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUndDR3hadVFxTTJwRHBmX0h4ckd4Zkw2bTVlZGxWbmxIMDI4aHJsOUt1QmJVN1ZrZmx6dHZobTY1R20yWm93aGlUNWVMUnB2NGt3MS1sMU15dG92dFF6OUlWTjY2MVliWVBSYndfQkdidHhXV2ppaS1pc0tTMi1CV3UxclcxRlljVXFUam5ZNVd5MWZlS3VkbThnYTZvV2w5SjlBa21zbWpsaEE0M1VsUEpock1VS2RvWE1LZS1aemNveHlmdGdiTldWdWtkZmpTcXR1eQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Shares Acquired by LRT Capital Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPblZmTG96YUhCWmw5RWxmUElCcm1GM3lDX3RCMkRDMnpYN1plTGVreHo0QUpRakxobVlpYjI5akVWNkpuSGtCVXphakl2eE40WlFVYmRmaU5vdy1ZOXJ5eDZQSFNzclRnT3RHdjVnUEdfbzNDNGxmSU4xYTl5dmQ2SWJCS3AtQVpxS2tUMnBCanlGWENJOXJFd0JyekJDYzZkaVIxdmFTbFVhaGkxNTNMcTV5NENMaDVRTDBfUW0tRVAwMXhQcDROZ3BmcmMtNjJDYnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Group 1 Automotive, Inc. (NYSE:GPI) Receives $454.43 Average Target Price from Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHZxWDlnVzJqTDlSM01HVGF0bDZpdkVyN3pldlU1M055Vlo3emtvMUxad1N1YlFkN2ZfZHUzNEE0c2dQRTBaMWFvZzZCbWtpUy1FVm5YZGZSZTJodEp4a2VVdU5jTUpmSWVWZUdRNTZDQUhlVzdiczJaT3RpQVBaMDQtTVlYLWVfMEhrV0pJbm1NOFlyOHRRanVZWE9UaUkzb0d6b2ZlSGc3MjlFMTJHa1B5WlhqR3VZN2lKU25VeTM1MHNQOFRpMGlXTXZOcEdFZm1XLUhucw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Royal Bank of Canada Has $19.57 Million Stock Position in Group 1 Automotive, Inc. (NYSE:GPI) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR04zS29MZG5lbm54YzZuOXc3SHk3Qmp1YkoxRzZBMFhtNW00TTY4TXlVWnZ6dkpfUlUtVDdYdnNPaFFERlJfeWdMeVE4RzlvNFZpYmpmSHJNM1Z1akpFRk5qS1I2U1pPcHpabEVWVUZKc0ZGNGJMb0JtX0Fsc3JHX2VXOE9SMXk3RDhUVVNvR0lUTUVMV21xaTBoTnpjZXE0Wmlid2gzS2ZMeU1JQS1tRXQ5MzRzWF9xbC1EbDhrTWhIUS1RV1VueTBhUGg?oc=5",
+        "title": "All You Need to Know About Group 1 Automotive (GPI) Rating Upgrade to Buy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00SGQ0dE5xWGJyV1pPTHpjNGFjRENlbnRQWUIyNGxSY244bVVBYXA4WmE0VUxSeHQ4STJMV2RIQ0Fmd1pzUEpJZ1NYOG80cWl0Z3dxckxXRGdIX2JMVFFCTk1MU1VTX1RsSWZwZms3YTlEWndkaW9mdzMzRUlxUQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

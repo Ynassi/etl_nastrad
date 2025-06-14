@@ -2,16 +2,16 @@
   "ticker": "EGP",
   "name": "EastGroup Properties, Inc.",
   "sector": "Real Estate",
-  "market_cap": 8976280576.0,
+  "market_cap": 8929015808.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 37.31987,
-    "PB": 2.6669528,
-    "EV_Revenue": 15.704,
+    "PE": 37.123363,
+    "PB": 2.65291,
+    "EV_Revenue": 15.955,
     "ROE": 0.07614,
     "ProfitMargin": 0.34785,
     "GrossMargin": 0.72911,
-    "DividendYield": 3.32,
+    "DividendYield": 3.25,
     "DebtEquity": 44.73,
     "CurrentRatio": 0.557,
     "QuickRatio": 0.494,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.5259285088468705,
     "ROA": 0.03349,
     "PEG": null,
-    "EV_EBITDA": 24.225,
+    "EV_EBITDA": 24.611,
     "BuybackYield": null,
-    "PriceToFCF": 26.03082543039199
+    "PriceToFCF": 25.988268506848588
   },
   "technical_indicators": {
-    "RSI_14": 56.02251737562005,
-    "Momentum_10": 2.9730690977035885,
-    "MACD": 0.9062417161787266,
-    "BB_Percent": 0.6628190605714552,
+    "RSI_14": 51.50760356013864,
+    "Momentum_10": 0.2801479423044092,
+    "MACD": 1.21178104894463,
+    "BB_Percent": 0.5063948818752828,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.920659268426116,
-    "QualityScore": 0.4236147435999582,
-    "SignalScore": 0.4993911765665405
+    "ValueScore": 0.8816796185960483,
+    "QualityScore": 0.4321517689077152,
+    "SignalScore": 0.5653024800074682
   },
-  "volatility": 0.0173352123194233,
+  "volatility": 0.0169889947830481,
   "beta": 1.043,
-  "return_6m": 0.0345367990347793,
+  "return_6m": 0.0095593566838982,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 186.57895
+    "target_mean_price": 186.52632
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 173.97
-      },
-      {
-        "date": "2024-12-10",
-        "price": 170.25
-      },
-      {
-        "date": "2024-12-11",
-        "price": 170.66
-      },
-      {
-        "date": "2024-12-12",
-        "price": 169.62
-      },
-      {
-        "date": "2024-12-13",
-        "price": 171.25
-      },
       {
         "date": "2024-12-16",
         "price": 169.7
@@ -537,37 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 171.19
+      },
+      {
+        "date": "2025-06-09",
+        "price": 171.96
+      },
+      {
+        "date": "2025-06-10",
+        "price": 173.71
+      },
+      {
+        "date": "2025-06-11",
+        "price": 172.09
+      },
+      {
+        "date": "2025-06-12",
+        "price": 172.05
+      },
+      {
+        "date": "2025-06-13",
+        "price": 170.99
       }
     ],
     "current_price_data": {
-      "price": 171.19,
-      "change": 2.3,
-      "percent_change": 1.36
+      "price": 170.99,
+      "change": -1.06,
+      "percent_change": -0.62
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente d'EastGroup Properties (EGP) présente des signaux contrastés. D'une part, l'entreprise affiche une expansion significative à Tampa avec un projet de développement industriel de 553 000 pieds carrés, tout en maintenant un taux d'occupation et de location conforme voire légèrement supérieur aux attentes. Cependant, des ajustements de position et de cibles de prix par plusieurs acteurs du marché, des achats et des ventes massifs d'actions par des fonds et des institutions financières, ainsi que des réductions de participation de certains investisseurs institutionnels, suggèrent une certaine volatilité et des interrogations sur la valorisation de l'entreprise.",
+    "summary": "EastGroup Properties, Inc. (NYSE:EGP) a reçu un prix cible moyen de 188,00 $ de la part des analystes, avec des acquisitions de parts par plusieurs investisseurs institutionnels. L'entreprise annonce son 182e dividende trimestriel consécutif, soulignant sa stabilité financière. Malgré une croissance continue et des activités récentes positives, le titre EGP a reçu des recommandations mitigées, mais reste attractif pour les investisseurs à la recherche de dividendes stables dans le secteur immobilier.",
     "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Rhumbline Advisers Increases Stock Position in EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakh4d08tN1pZMzRtelp2eVJWWTVCUHd2NjRXWkpxZXhqdlRKdGx5eGxzWHFQRW82bWktRlNHdFNEMzNzck5ucVFlTm1GdTlnTkdMWHQ3eVB5NkZHZVRGdmVLTVBGcElUbGhzX3R3ZUtuUUQ1cDAwZUx3azhwbGV6cklQdDFtRW5ZSkFGTW54WVAtNzdOdlItT1E0Mkh1RVotRGhDdHN0WHBMTUVWcHhUS3NmQTh5djBZTG9MVW5nY0xGaW02ZEY2TGpGU0EtejRiM01uQkdDYw?oc=5",
-        "label": "POSITIVE"
+        "title": "EastGroup Properties, Inc. (NYSE:EGP) Receives $188.00 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEpDX0xNLXZBOGhjQmYzU2xjdjZwU3Jra3FabDREakNyajRMR1pJS1Y5N2hBT29yZVFQQ1ZQWWk1dHpCN3BaNHl5NnlOTzI3NGVzYU82a0pOT0dTYnpJdXJIcldwWTQ1dVdpSkhRaHV1cXY0THBtYW1RSGd4YWJmSGNIdHhEZEt1MmlmaEdJUXFqVkZsVjVXY1R6WVg1WXQ2WTRIazhfZ0lzVTRfWnFaVXdoa0RJMmZ6RzJnaW16b29rVEhHUVFNZ2VWelM2QVJWZlVsZFVXcUxDZ3ZUcGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tounjian Advisory Partners LLC Acquires Shares of 1,812 EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmZPa3U1Q3hXV1dHMFVTY25acFhxdHkxbVgxeWl3bXdOakhueHJxWGxZUHVCNGN2SmxnU0J3eFpFRjRoUFN1WGdPRXJLVmJNdUdNMmgxWGk0d3g1ZDlCOEJzZkQ5bjJjek1VQmtzUWlDOWNuTXRuTC1HUlY4UURQcTAtYUxhZzVjYnJDNXZGWHctdGJRQ0NOdk9YWHhEY2dxbFIycGQyTmZyTjc1WUNPZV8tTjVQazlEUnRXVW1xRjhSWmxlcW5GaEdYSUx3dzdZb2VJWkRwbWd6ak9vWXg4cWFR?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "EastGroup Properties Expands Tampa Footprint with Massive 553,000 Sq Ft Industrial Development Plan - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW05UGxfaEpwai1LaGlXOG5EMXhfNjVPa29FWGs2bUdCYWZTWHVSOW5JUUNoRWw1NldFRlE2UWhNUlk5a0dfN1BxUmNITGxJUGVPcVBkNFlkUnJYNEo0b2xkc2thRWRvcnJpcHI4N19Kc2xDM1RqQWpQeEdBcVVnM3dGT09kLWFWckxzMmkzcXJrSXd1d09ZUWg1VXFhaG91bS0tdzV6TjdfRUg2ZUN6NlN0bUw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EastGroup Properties, Inc. (NYSE:EGP) Stock Position Raised by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3FQN1JnUTd1N25VYlZCd3pTUFhDbi1ZME40Y0JiUUhDV0tPZnJHeTdiZHBZR0tfSUUwQXAzLUlsTHlsUUE3U1JjalpyX2RvaWpsUDYta0xOWUFDSVM3TUp4cnVLZ2JmUlpVRFdTUV94NWxGeUhEcG9PVXRTMWxzamd3X1VqMWRQWmROX0o5bksxc2Q1UVJVTkswLVJ4ODM3ZFd6cmswUkJ2M3BQempqaE1rS3lOYWZyOVJBeF9HdG9sNmwxSW11dllqY2Z6N1YzNjNXZG41TGVmdXhLakM1cGdPSlNqZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,13 +576,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Transcript : EastGroup Properties, Inc. Presents at Nareit REITweek - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSHJ4Q2tLR2p0NHNfdWNDWUV0UGVEY3NuMzZYNDJNWHBLaVRsZkdsalpQMXpoZ0hjYUJwaGlrUVdUa3dqLWsyTUJ3VmxPYlF0VDAyOUtTaHNqR210cTZHdHo2WUdhZVRhV3M4WnhqbDJfTkZoUjZFMUZjMl9tZC13dUUxQUI2ZENfRVFHNVJFSGdUZkc0cWxCaXBrajNjTUtkUmpydWI1R1JISGpiMC1hbC1IWUNPUlpBcUxuTE1Rb29MQ2lsY2cybjljREY2SVZrZ1lFRWJWNUU1SmZZN2FBWEJsd3R2UjFIazJoMXpNQnVLbkp6M0pld2xRSmQxbHItMEo0T0k4QlB5elBVWW5KWA?oc=5",
+        "title": "EastGroup Properties: Recycling Rents To Drive Growth (NYSE:EGP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlZwZm1ieC1XTG4xNnN1UjF5Qll0dGxsSTNwNU9BcmpOZmY0bEJSUkc5QUlubjlNU1lyMEdDSGFPd0ItT2x3amFOdl9RbnZjN0NRWmo0MFFKZS11QmlIWFV2ZUdMZFBIXzNCVlg1UG05T0FjMVpCWTJnY25nZFBJY0hlcWdIRC01Y0lEVHFXUmMtWjRyRllsXw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "EastGroup Properties: Recycling Rents To Drive Growth (NYSE:EGP) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlZwZm1ieC1XTG4xNnN1UjF5Qll0dGxsSTNwNU9BcmpOZmY0bEJSUkc5QUlubjlNU1lyMEdDSGFPd0ItT2x3amFOdl9RbnZjN0NRWmo0MFFKZS11QmlIWFV2ZUdMZFBIXzNCVlg1UG05T0FjMVpCWTJnY25nZFBJY0hlcWdIRC01Y0lEVHFXUmMtWjRyRllsXw?oc=5",
+        "title": "EastGroup Properties Announces 182nd Consecutive Quarterly Cash Dividend | EGP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcG45dmM2MEpZcnRSU0dYYUNIcU0xdExLMlVLeWZRcWtya1d3SEdLLTcxbmdYOTRzdEdRTVpjUDhVZE1jOW9GOUdvdjJWM3dTMjRGTUQ2T3JjLTc2ZnlpUFhCSkZHLTdTcG5vUkVySXNHeFBMNk54Q2J1N1NLMmlPdE85SWV3VUFXcl9VVkdYUExzckJBQmU0MUNFT2pMeHVOOWNGVVgxUW5NWXh2R0tueGNWR0JmZkV2SF9kaVhVakdTSlAz?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,14 +591,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Truist Adjusts Price Target and Estimates for EastGroup Properties (EGP) | EGP Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUhMT0ZlbkpRN1drVnNhdndvampjVmlHcS1IM0VmY3MtMnFfT2ZBSElQcmUwejdmWnpLeVpnQzVuNkdUYkxpQURTa3RCUHQ2dHR2YkI5U0cwMjR3Tm1fQWVpaWoxVWNTb25TcDNzOExfWkY5MmFNV0k1Uzg2cDdiVThHNVNJcVlfd2xzUnAxNzhkd0RQQmMzcVRubGJidGtkMVZvZHhfaWFRRVBMWFNPRlUtcGtnb29lQ3NYdG9SZm1mUQ?oc=5",
+        "title": "EastGroup Properties Confirms Board and Auditor Decisions - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjQ0NlVZYndqRWdmYWZSMlRwb0FHLXkxd0ZRZUN0aExWbUlHSXpqbGFFOGpUUWxiUUlzUGhYWG1xUFJFRHZXcnl6MlAwdVU4YkRQZWh5dGlqWlo3c2x6Z05aLV9xbUJUMHlrbmIxLTUtYklhS0I4bWRwMlhQWEY2VGhzY2pLbUFGMWFNNExLNEF4MzBjQ0xXR1dxRS1abmZKTTlCeG5uLTB2LTFYZUE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Grows Position in EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnJ1RUcyWWktQVpya0RMa2lNNUJZdktRR0NwMS1mM2dQNnkzZnBIZjJ6RWtmMXJ3ZUpvZDdKNlNQTlBhNFV5ejZyNWlqLU83OWxYOGFSUlVUNGpfUzEyWktUT243d05tRHNwOG12cy11Rnh2M0tUTERLS0E3WVJUdjlURnozdGw4NzJvY18tdkJsa1RJRXljTV91b1VvMTJWNjNtTWdwaXh5Sno5dm1iY3FuMUl0Y0t0SFRXN0Y3ZFFIZ2NoTzdzRU9lWQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Industrial REIT Giant EastGroup Properties Hits Remarkable 182-Quarter Dividend Milestone With $5.60 Annual Rate - Stock Titan",
@@ -606,13 +601,23 @@
         "label": "POSITIVE"
       },
       {
-        "title": "EastGroup says occupancy, leasing in line or slightly ahead of expectations (EGP:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTG5SaVNabkktQ1BtU29qWUxkNjdWaTJIZkxtV2RjWHk5cFY0Skpkcnd6SnQ5ckFBQk5nYnYtanlHN0NVeE1vNWhtd2EzNGl1Vk0za1UyUXdUMTVzMkdoTDlWWGdEbEUtc3FRQzZSSEVjbVN1V0tpQzB4Ml9BWnd5RDctLUFPS3JKSDdrdHBOZG43QlptN2pHM0pNSjREcjByNWlIN3FVb2ZaOE5UZVk1NnZ3?oc=5",
+        "title": "Handelsbanken Fonder AB Purchases 16,200 Shares of EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEljeEVVQm9oblFrZTQzeERadXlwWHdMNGFaejlwZEhGb0FRVHhCX3QxdjcwSjZrWThqd3VWOVp5YlpVZGZSU0ZqSC1EbUNPeW1uR1gzRzJxNnZxYUxpbkxiRlJJUzR5V1QwMWx1VlBqNWwyai1acnhCdnNPbEJDd1dodUkzMk93TFJPck1EMWxMZnpkZGc2d3NzU2dmQndybnI0UTRGSnhwQ09mSlFqdkxlTnp3TU9sWWNhVDBBM2JRSklhMWY2VUhyaTYzVUdJQUlUcWE5U1JFZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rothschild Investment LLC Purchases Shares of 2,465 EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnd4bkhQNXFtMV9obHhHLXV3amhIRkhhZzlRZnFybld5d1RDazBNeEpZUlo4cXUwV29VX3REckhIaUpsNWpKS3lkamlxTE5iLUFxWDlRSVVWcUJoNHB0eFBiZGlCNlZOamstYjhIdUxnYlJ6LVFiRWE2b1RvZ1pJVEhUOW9KSk0xMm5EWTRxNGhCNkdPVDJyYjd6UUxQY0l5VDlNOGZSR1MxZ09yS2hWSkk1OXVqWFZoX0NuaVZteF84MEZoQnJOOTlzOG0zRDRYMm92WFZaNDZENTRm?oc=5",
+        "title": "EastGroup Properties Q4: Another Reason To Own This Industrial REIT (NYSE:EGP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUdET250V1VCdkZyVTkwaUs5YWd4cG8zWU1acFVlZW5tSjVCaTdMbjZxZmlpanR2Y2lnVUVLUVR0dnE5amx5R3p2OHRVcFFPX1dYUW5oQWRmNlRMaDF1eFZwbDR2T29QMTZBUDhpWFVwZXRJU0JfOWRDR2tFbkZZQzl1b29oRDJQY01NUGFOaUU0aXVCempMWUJYTkVoNXdFSjZLc19Rb0RZVTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EastGroup Properties Announces Recent Business Activity and Pres - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTENpdFBtVGtNLWVZSEVpclBONmNhWDNiWU5QUVhFRGkzRTd1WUVyUmRzVl81aFZSMnBGV3gtYS1MVndRdnB2RDJEYnRleERPRW0wQk1FNklrRjJxTW5aeklIT1dzMnVTQ0o3cnBZVXpHWWtubTBvcm00VlhGel9wVS1uSlVvNDNiLWR4Ny1QcUF0UU1VSXk5cGRSZWoxQmN4Q0VMZVZ4NS1lVjJwcGRZdW16NDE2UGdSbmtrcGhhazU4c3JFaVdCdnFQRTZiZ2k3WVZrOWVCeUUwWlNoZVlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Holdings in EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakh4d08tN1pZMzRtelp2eVJWWTVCUHd2NjRXWkpxZXhqdlRKdGx5eGxzWHFQRW82bWktRlNHdFNEMzNzck5ucVFlTm1GdTlnTkdMWHQ3eVB5NkZHZVRGdmVLTVBGcElUbGhzX3R3ZUtuUUQ1cDAwZUx3azhwbGV6cklQdDFtRW5ZSkFGTW54WVAtNzdOdlItT1E0Mkh1RVotRGhDdHN0WHBMTUVWcHhUS3NmQTh5djBZTG9MVW5nY0xGaW02ZEY2TGpGU0EtejRiM01uQkdDYw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,8 +626,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "EastGroup Properties Q4: Another Reason To Own This Industrial REIT (NYSE:EGP) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUdET250V1VCdkZyVTkwaUs5YWd4cG8zWU1acFVlZW5tSjVCaTdMbjZxZmlpanR2Y2lnVUVLUVR0dnE5amx5R3p2OHRVcFFPX1dYUW5oQWRmNlRMaDF1eFZwbDR2T29QMTZBUDhpWFVwZXRJU0JfOWRDR2tFbkZZQzl1b29oRDJQY01NUGFOaUU0aXVCempMWUJYTkVoNXdFSjZLc19Rb0RZVTg?oc=5",
+        "title": "EastGroup says occupancy, leasing in line or slightly ahead of expectations (EGP:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTG5SaVNabkktQ1BtU29qWUxkNjdWaTJIZkxtV2RjWHk5cFY0Skpkcnd6SnQ5ckFBQk5nYnYtanlHN0NVeE1vNWhtd2EzNGl1Vk0za1UyUXdUMTVzMkdoTDlWWGdEbEUtc3FRQzZSSEVjbVN1V0tpQzB4Ml9BWnd5RDctLUFPS3JKSDdrdHBOZG43QlptN2pHM0pNSjREcjByNWlIN3FVb2ZaOE5UZVk1NnZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Boosts Holdings in EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnJ1RUcyWWktQVpya0RMa2lNNUJZdktRR0NwMS1mM2dQNnkzZnBIZjJ6RWtmMXJ3ZUpvZDdKNlNQTlBhNFV5ejZyNWlqLU83OWxYOGFSUlVUNGpfUzEyWktUT243d05tRHNwOG12cy11Rnh2M0tUTERLS0E3WVJUdjlURnozdGw4NzJvY18tdkJsa1RJRXljTV91b1VvMTJWNjNtTWdwaXh5Sno5dm1iY3FuMUl0Y0t0SFRXN0Y3ZFFIZ2NoTzdzRU9lWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EastGroup Properties, Inc. (NYSE:EGP) Shares Acquired by DigitalBridge Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRkZDXzlhREp4MmNJSUtwYlo0cUxCekw4RUZseFVOTkttZ3hSSXo4TE9oVk1zN3oyUDBKUmlHaVpGNG9VU09UMFhpZXI5b084NzRQcG40NGE1c1l0aWxaMEdtWm84V2lnbk14X1dSbTJfd2U4ZlNiVzJqZnVweEY3cnJELWF5QlBrZEIyQkZIRTRNQ3BWUGl4OU12d1p6NnNDXzJUc3VxNEJKeU15QnFtZGRlazM0SDdhUFpmRi1sMVBTcUxhUG5VSFhYc05QMWIwcWFoa1U4Tjl5d0JNVHZ2N3p1M1pTdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,31 +646,16 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "EastGroup Properties, Inc. (NYSE:EGP) Shares Purchased by Two Sigma Advisers LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNnVteFFwVWg4VWhCVzFNSjNPc3VtUDZlV1dCS1FVdEJVakYxNzByZU5OOHVnaVZQX3QzU056Rks0ZFBsVEUwOVBqWTVOZFNDOG16akxScFZoS3VDa1Y0R2ljZEFJc25pLUFFQmVFYWVUVHZ4TXFYOVNxTkF6bTFObzlCR0VUUzVIQXpYaXJRcUsyQVZIMzhaY1NXMkFyMHNKckF6b1ljbnQ5RzB2eGI4WE5PSjNMYmRFTHlTeE1XdnlndUI1VVRDdGJYTDJkTVNmZWx1Q1NGbHh5YUJsMTVudG9QeHg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Employees Retirement System of Texas Buys 16,000 Shares of EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDQ3aURTZUVYSEVEbWNuUWtOa1IxSFJuLW54eF8tenZ0S3ktTGVPUkdlbHBoWlpkalBzbDhLVmpXdE1MdFJVNzlrNHVuM2JlX2cyXzNTTUdpX1I1ZUJQcmJVU1A4a3hYNUViM1UyYlJZQkpBQk9XOThRb0tQWDlpSTNHWEhLREgyejdXeVAxR1F2eFc3Y3BUdW5WUVpXcXFKbzhIYXRuR2F6SUU4NG9lanpfUUoxejk3dm5WUzNVbDhwdVQ1UjJNZ0l3d3paZkYzRlJXMWt5Y3dMUUZqdDNLUA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jane Street Group LLC Sells 24,332 Shares of EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdktNMUFCSnJsVUNLUGZIaHJ4OTVhSndWVnlCOTY3dkl1YW82amFYcE9ZNndmN0dXbWNhbjNGZU0xSE04VW5DQ2ZMQ2pwak1GbnBSLWt1eXFzbVlkZkhqT3VodVdfblJaVEtiLWxvbllWQVBDcWlUa2RiOURjd00yOGpPOXVqQ2k2MS1XYXQya0JKcjBiV21QVjlHZExDempzYmNOSVNvaHR1SXQwRjJsWnZKNEdpRHh4Nlo2RFl0UmprNUVMZVZoNS1scGRqa3J3LTJpQw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Deutsche Bank AG Cuts Stock Holdings in EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmZIay1nVXZ4SkxvQkZaV3o5eV9oa1J6NEF2SDhOR3o5Y293Q05OVE5ENXo1blNQRk03azhxUjYyUEp3UWhxUlduUjN3dXZ6MEpqak1sQ0ZIQng0Mmtqd3RWOWFtVllfeERvRTlPMm9KRUk5MkMtdnBiTUJzdXdESGtxTlY1ajRYa0VlZ1NBNzM0MXZac3RFeU42U3RocDVMekthWE8yRmtWenZ5VG1mTWNqQ1FyQWVCaFhLcHFubkJ1ZHNs?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "EastGroup Properties, Inc. (NYSE:EGP) Shares Sold by BNP Paribas Financial Markets - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUh3V2ZEYVFMdUJ6WExHV0tsOWFqSlNMR2o3WUprZkVwZnhzYXB1UGFlTWliSjZpTmRhM2IxMjdVQlh2aGI5aDdUM2FXYmhNVmZEQUJSVWVHMy1ITTFQN2x1OWFSMjZpaE5jT2lSRVNmUHlVMDBhMHJoVWdnVmNRU3RmaWR3bnp2WkV3ZkgxNUVmclh0U1gxaW9RTHZ4WTNkZ1doSFc5eXo5Y3UzcjZ1RDIzNDlkdnFmbnJaSmpYVV9QVkh5aFZ2WWdBTkMxZmZWRzB1bktmOUk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Millennium Management LLC Sells 220,867 Shares of EastGroup Properties, Inc. (NYSE:EGP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejFCU2lJUmVQckdXTjI5ZS02NUN2NWpyMjJId3lTNVFSYWZMaGo3WjR1VUtqdHRXQ2NhSDFGRjlzY1B3by1HZkJZWE8tcHRHckQ1dk9tTUhfLTNIZGZlbi1FS2Zocl9UMGp4aTNyQnVMV01SRll0TUhaSlo4V2gxc0NQUEdzNGd4bnpUMXhFRUQyNXlSUk5uMEg4a3RpYXFUMG53SjVoN0NyMVF5blJiSVNTSzhFX1BhbF9qTnhXZEVSbjNVVi0xTXR1T0Fibk0?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

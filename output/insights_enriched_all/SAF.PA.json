@@ -2,16 +2,16 @@
   "ticker": "SAF.PA",
   "name": "SAFRAN",
   "sector": "Industrials",
-  "market_cap": 111605956608.0,
+  "market_cap": 106807861248.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 17.952127,
-    "PB": 10.882209,
-    "EV_Revenue": 3.945,
+    "PE": 17.39479,
+    "PB": 10.370249,
+    "EV_Revenue": 3.849,
     "ROE": -0.05041,
     "ProfitMargin": -0.02407,
     "GrossMargin": 0.48546,
-    "DividendYield": 1.1,
+    "DividendYield": 1.12,
     "DebtEquity": 47.347,
     "CurrentRatio": 0.842,
     "QuickRatio": 0.533,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.26003932697972537,
     "ROA": 0.047849998,
     "PEG": null,
-    "EV_EBITDA": 20.554,
+    "EV_EBITDA": 20.052,
     "BuybackYield": null,
-    "PriceToFCF": 15.485234707665029
+    "PriceToFCF": 14.819502921857884
   },
   "technical_indicators": {
-    "RSI_14": 71.02456878342831,
-    "Momentum_10": 5.454085192147439,
-    "MACD": 7.207764542683634,
-    "BB_Percent": 0.8694101794696043,
+    "RSI_14": 47.0715938697169,
+    "Momentum_10": -3.1369537642336076,
+    "MACD": 4.183418517111221,
+    "BB_Percent": 0.0716674973004561,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9288002688937784,
+    "ValueScore": 0.8819441750603791,
     "QualityScore": 0.3256017650670078,
-    "SignalScore": 0.4299489131855641
+    "SignalScore": 0.6124986128759091
   },
-  "volatility": 0.0195636645263524,
+  "volatility": 0.0195132212355791,
   "beta": 1.156,
-  "return_6m": 0.2620808786612789,
+  "return_6m": 0.2245623501787468,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 265.98
+    "target_mean_price": 267.98
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 212.9
-      },
-      {
-        "date": "2024-12-09",
-        "price": 210.4
-      },
-      {
-        "date": "2024-12-10",
-        "price": 205.9
-      },
-      {
-        "date": "2024-12-11",
-        "price": 210.3
-      },
-      {
-        "date": "2024-12-12",
-        "price": 208.1
-      },
       {
         "date": "2024-12-13",
         "price": 209.1
@@ -545,42 +525,57 @@
       {
         "date": "2025-06-06",
         "price": 265.7
+      },
+      {
+        "date": "2025-06-09",
+        "price": 265.7
+      },
+      {
+        "date": "2025-06-10",
+        "price": 260.3
+      },
+      {
+        "date": "2025-06-11",
+        "price": 259.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 258.1
+      },
+      {
+        "date": "2025-06-13",
+        "price": 253.2
       }
     ],
     "current_price_data": {
-      "price": 265.7,
-      "change": 1.2,
-      "percent_change": 0.45
+      "price": 253.2,
+      "change": -4.9,
+      "percent_change": -1.9
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de Safran (EPA:SAF) est mitigée. Bien que le titre ait enregistré une hausse de 5,2% cette semaine, portant ses gains sur cinq ans à 352%, les prévisions prudentes de la société ont déçu les investisseurs. Cela contraste avec l'annonce d'un dividende plus élevé pour cette année et la perspective d'une approbation de l'UE pour l'acquisition de Collins Aerospace pour 1,8 milliard de dollars. Par ailleurs, des partenariats prometteurs ont été conclu pour des projets d'énergies vertes dans l'aviation, mais il est essentiel de surveiller de près l'évolution des coûts de production et des revenus.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.15,
+    "summary": "Les tendances clés dans les actualités économiques récentes concernant Safran (EPA:SAF) montrent une performance solide avec une augmentation de 5,2% cette semaine, portant les gains sur cinq ans à 352%. Malgré des prévisions prudentes et une baisse de revenus au T1 2025, l'optimisme persiste, notamment avec une augmentation prévue du dividende par rapport à l'année précédente. De plus, des analystes rehaussent leurs objectifs de cours, indiquant une confiance continue dans la société. Les initiatives durables, telles que le partenariat avec Delta pour réduire les émissions de jets privés de 80% et les accords sur les crédits carbone SAF, soulignent l'engagement de Safran envers l'innovation et le développement durable, renforçant ainsi son attractivité pour les investisseurs sensibles à ces enjeux.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.25,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Are Aerospace Stocks Lagging Safran (SAFRY) This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVUxOV8zejFPd2xxRHVnQVF4YTY1TUFGMlVqMG1SRFdQWUVLSURROFY5VUxmQ1V4NHBENFgtNHNDR0d3MmVLVm10TFc4NkpwcHBFS3dHQ2xZZHF6LWlDS1RMVUNHeVBFdjFhQm1hcjZSeUpwMkROaWxyTlgzcE9YcFJKUFlsWmdGSjhJ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Time to Buy Aerospace Defense Stocks for Higher Highs - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHRwRXNpdVRGNUE4WEw1d3U5bnNORnNlMFF5bFdoMWo2N2lfRmd4QXhoSERRc2JIVlBoQzljS1dkcm12clJHTGVMd2VVQ183VU1kcjBNUEJNdFFUTl9zVHJIMHZJSHVsdExxaTFXTHN5Tk5VbW45c0FEOTdYdmdjSUgzWFFydw?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Major SAF Breakthrough: Honeywell's New Alliance Cuts Production Costs 10%, Slashes Setup Time - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUdUWmRBMjV3YXFqbmJ4T1FlbU5FaWc1eXZMM044QTFSeUZxQUVJc09wbE9Db1NPWGxPUnk2aFpDd1UwSFNCbFpDQl9KU0l5SGtRTjdqdzZ3ZGMzREtZZW9NTlctVTRxVE1fZy1OQXFiZlR0b0JfeWlBSUE0U2pUQ1VjUWQ4Vnh1WHA4SU9VZkVqX1hDS1gta1Q3Vi1SRDFNOFpNelRxSHQ4ZFMwVnpmSWRCMC15dFphRHc?oc=5",
-        "label": "NEGATIVE"
+        "title": "RBC Capital lifts Safran stock price target to EUR285 from EUR275 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2NyNktIWnNGU2l6dVlBd0Q3cVVxalZkWm1RUHZ6dXBnTkZaanZQaFFsaURNb1hlUVNMUWdudUJodFR2SWxadzFRNFdwLUlBOXBXczc2NmxFQ2pkUU9uTTlFVTh5OGlES0dtcXN3UndRWHpmWUpvMXV1TnE0ZnE4UEdLYm1ERlZ1Tnk2eU1YZmpyQ3FIbEo2X3JuakRyR2Z6Um9RSG8tRW9Za29IdDdtSXNpaHlEMFNfMnJvNUtkZWI4Y00?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Is It Too Late To Consider Buying Safran SA (EPA:SAF)? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFlLNHF4ZUpQeTJCa0VHTHRvc2V1VERZbkFwcW92aUVSWTFEODJISV9keVlhcjlZSC0zdW9jZEtlQVZlMlhpVHd3SEV1Qk9wZHdnM1Z5TGJsd3FMTFUtaWlGU0J1Ynd2RWNxTFRrUXBaWWMwU2JpRkwzU1hrNHFqWHZMaVJDV0xsX3lCS3FPY2N4S3RycEkwTWJDci1jNkRTS2R2bWJYNU5sWGFOX09fcW9pUjQxNEJvMi1KQ2loclMtRm_SAcgBQVVfeXFMUG41bnpqWk15ajIwdkxfa2JVMWRFekVKUDVoQTFkNFFTVTVBTEkxUXZQY0tFV3VqdWNOaW02dTJHcnNDUFNJWnFiOHdRbWJkMFRDVVF3c3lNVFI0UFA1dFVrUDcycWJfTXlyLUE5bVVTeWRTb1BCcGpjY0kwRXgwZDhBUFYyVFR5VkdYMThFS3lwZ0ZXVm0tNkg1YzJlWlVxT3l1b054cHkzMWJPNmdseUo0UExHb2hwMHUwSUZqOXU5UG5BYkRqR2Q?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "7 Best Safe Stocks to Buy Now - Money/ US News",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ea0FjblYwUXFvNTJ2ZnAzNFNlaTFZTUk4d1ZXZzFaZml0aVIybWpiZXh4YldTVXA4YUNjaVZweDQ5c09IS2tSRVhGZzlRUE9BbGYxNmFzMXlEa2ZmWi0zUU5OQjg5TzZIVzJ0bkdsNA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -589,18 +584,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Earnings call transcript: SAF Holland’s Q1 2025 revenue declines, stock dips - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGY3LWZtTHdOelliSHVNOUQzeTdTS1JpRVZVNTlZaEZ2d1ZwSENRVmpuYkNLNGhiRGhNSjNjWXZoYXJFZ25RM3ZSS0x3dmNDUWNrM0FDUHl2b244Q2tOTGFHM0xobFJkWVFwSlI5Slo0Rm5aT0c4Z2ZHQnhVUlZTQTRSZUNZQ0hsTllILW5PS2U3MUp4VzBmWjRBLWhrTm9BTEgxNF9Yd2xNdDlGVzRqbm85cXd2aE9UdW51R01admo5Y0U1QlI1dg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Time to Buy Aerospace Defense Stocks for Higher Highs - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHRwRXNpdVRGNUE4WEw1d3U5bnNORnNlMFF5bFdoMWo2N2lfRmd4QXhoSERRc2JIVlBoQzljS1dkcm12clJHTGVMd2VVQ183VU1kcjBNUEJNdFFUTl9zVHJIMHZJSHVsdExxaTFXTHN5Tk5VbW45c0FEOTdYdmdjSUgzWFFydw?oc=5",
+        "title": "Banyan Air Service Is Latest To Stock Permanent SAF Supplies - Aviation International News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk5sWVFNbllwNFJuUTI5S0dxR2g5SllteWhBdS1sOUFfbW9wd25xbDZsN2Uxb3UwMF83TExNbEw1cHFyeXlDN2E2bTFoSVZ5VVd1RnFnUmxjT2dsVV81N05IYTM4RkNxZTVySTdJN0ZhWHoycUFnS1JtaFR5T2d3SkNZT1c1cTVDUUxmZnBJQlA1UUU1cUpZaUFCY1hXY3lXbmxBcEJWLWxtbFRCQS0tVGZDYjFtUDJoYVlvaUNEMmU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Banyan Air Service Is Latest To Stock Permanent SAF Supplies - Aviation International News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk5sWVFNbllwNFJuUTI5S0dxR2g5SllteWhBdS1sOUFfbW9wd25xbDZsN2Uxb3UwMF83TExNbEw1cHFyeXlDN2E2bTFoSVZ5VVd1RnFnUmxjT2dsVV81N05IYTM4RkNxZTVySTdJN0ZhWHoycUFnS1JtaFR5T2d3SkNZT1c1cTVDUUxmZnBJQlA1UUU1cUpZaUFCY1hXY3lXbmxBcEJWLWxtbFRCQS0tVGZDYjFtUDJoYVlvaUNEMmU?oc=5",
+        "title": "7 Best Safe Stocks to Buy Now - US News Money",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ea0FjblYwUXFvNTJ2ZnAzNFNlaTFZTUk4d1ZXZzFaZml0aVIybWpiZXh4YldTVXA4YUNjaVZweDQ5c09IS2tSRVhGZzlRUE9BbGYxNmFzMXlEa2ZmWi0zUU5OQjg5TzZIVzJ0bkdsNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valero Energy Corporation Declares Regular Cash Dividend on Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOG9lTVVmR1lHakV6dEotdkhET2lBZjJqenJyUnJGbzJCZ0wzbWl6ZDdWV0IzNDZVeUFNZG1sVnhZVG9RdVk2OXUwSEt0dWZIcVVFUWJiUXZveDlwM3dwQnIzRWpHWTAyZkFobjhySGg4NVhWOEpZWl9OdF9Ebzd6NzJmMzFmdDZMZWZ2bzdyc2xUcVhOVzQwNmtfNlhvZU9fRWNxSktkU2NseGN2ajhmS3pWUnI5bUtLUWNuV1ZvTEs1eDJHUDZTUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -609,43 +604,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "5 Tips To Find Safer Stocks To Invest In - Bankrate",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbUQxUzU2dlNVTzhGMm16VHQzeE5ZZFQ5al80VW9ackktRUFFWmg5anFtelBsYkhQdFdzczFEUmFlTTlCX1paaFBPTFl3NDliNXZmaG0wWDc5dklwX1NCVUE0b0ZYUXRiVlg3TQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Safran's (EPA:SAF) Upcoming Dividend Will Be Larger Than Last Year's - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0ZSMXFCZzRaMEhwSjJTV3Q3aFI1YS1GckltRVY4ZUJUTksyVTBKb2NKOVFYTXZPdHJyT2FvRDEwWUxjakVkTDk5Q0NMYWE5MWVGQ3Jjd1J2UkVtNHptNE9wYkVHY3NLQ2tjY0Q2aXIteUZJUFFSLUU2aDdBZzFzRnlVNFExWjFPNzVfcFJjaGVLNTV2M2l5UVRaRVo3MkplclBYdVIxaUlUVTBmeEhiUW45aV93cUhuOEJKNEhtUG10LU94LU5vazdQSF84QdIB0wFBVV95cUxPR19wRXZwbksyZTBfQ0ZtcWtxeC02MGQyeld1QngxS0Vhd2N6N0JZVW5kQXF4WVBGZVpHXzJFbVRWRXFsaW03a2ROM2VNVXFqQXJnTmNUcFF2Rk5LT2luY1V0V1lIRktib0piMkU4YmxzMURYSUd5NWItUFBQbVZUSy1KdXdtUTdQLTV4MjRhUHhUdWl3cE0xRkMtcWloSmU3SUd1YXlLeDROUXBHbFFnckhlQVVFaTJVMlNraG9tRi1oLTVYSVMxQml1WGJRQnVldlh3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Exclusive: Safran to win EU approval for $1.8 billion Collins deal, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMm9SRlY5RE85aWpVeUUtV3VBWUtYRXpwLUlQY0dyNDU3VW5NaC13ZGFSYVZSZzRCekN5VFFtMGVFQS1tSWZqbndMZ2RqdGhWcE41OWVXNndiTzY1elpIdGVROWItb2k1SlBsX0hsQW5UZDB4TFM5Tl9vSlVSaml4d2REZ0dyZlVGWFlOUUhhTFZCQnAzckg1V1N6OXltM0dEbFJQOXoycl81S2lWakZ6ZHFHX0piamhDUEhv?oc=5",
+        "title": "Wheels Up Teams With Delta to Cut Private Jet Emissions by 80% with New Sustainable Fuel Program - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemdRc2NrZjhPdGJXb3FGQ3NpSnUtWDlJMm92Znd6b2ctMVA2WXN6emw3QlpuazE2YnNpOThneUpQVUN4VUstVVM1aV9YVF84X1VDYkVEQmltUnVaUTk4TVVsejdPVUNfdWoyUkJFX1RYeF83cDdqWTJzTXRLM19MY2VVNGNGazRXR244NVBkYWNodk9sN3l6MVVOTGpKd3RTdGVPNnJDQ0FkQUxiaTd6OGc5S24tWTAwODZj?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Massive Deal: Gevo's SAF Carbon Credits Agreement Powers $1.63B Green Aviation Project - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUhJQUdpZXZjdEREQ1pTeHhSLXpPZ1RZOElZZncyZVBIQ3lmbDlMYmhBTVZVN3pKUGdLVkxoVFh0eHpfZ1NmLWFvaWxQWkFvd3A4V2o4dkJJLTgwczZfVFlWcmRBNFJjekhVNWwyWE4wQzRaLWdhUktLcFpEM0JMUlFHR1RBbmNneEtPNUlhcFZEVG15TnNQQzk4NGl1Z1l1UWNjaDRoRnpsc0Fhd1NqUDEtRHBHUU9nNDRRZ2xSVEk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Want Safe Dividend Income in 2025 and Beyond? Invest in the Following 3 Ultra-High-Yield Stocks. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkpLdDdDcHhjalc5MDRmYWZRaG5DYkpWTXNFYU1VYzBURUZDVGtENEVaNTQ2YjZLZXVPUDJGbFJ1VWZsa2dWbmRrekhHdkVXeEdTYVNwS0ZwbTZ3STFSblV2a2tPcng0ZXU0a0JPZFZXTlVqM3g2UFN4RkRXQThtNHVCVjZkcGtrMkF1WEVDT3puUk45Mi11SQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Safran SA (EPA:SAF) Trading At A 34% Discount? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkpDSk94YXVLN0pLdUxZdExQSXdJZVFwc0JDYTkzVG1nRVZYMTV1R2dFOUhjbGZQakxZQ1ZwRWhtOXhTc2tKZk43cUNzVnlvVDE0VWR4Q3pyaExRdUVKYjZMVmJVRU9FRGtGU09IZVNOb3FyVU90b2NHd3F6Y2FzbThDWXdNbTZqS2lLd2luVGtqaE8tdVRCWG15a0VDTlBkOElyS2xRTDhINEhfZXVaOWZwTkFRMFRP0gG-AUFVX3lxTE9jME5lUHRCYWJsRXhnMkZRZTdiejVBYnFGVjhEbXVySkx4SXpsSFo0Vm92bW1YQkV3VXF0VVRxZ25mSUJsNXYzc0M3aVMtdzlCLWpqaTlfYjIzcnZCaDQwbHZ0bmZsOG95MThfbzRNaHd4aTRSMnNmVjFyaWw5c3EwRFhHOHF1cm1KRUFQT0s4dG5rUGdBOTNOa2w3cnRWdWlNYmJkQWFYbTNHTG9SLXpmaUR0ZmFZNUJPZ1Z1emc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Major Breakthrough: Willis Partners With Industry Giants for Game-Changing Aviation Fuel Project - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXZnY25NeVhBcm04d0kwMF9vQjRZazZBN2RQS25BQXdBb1BGeUs3T3pYcVRYQUdDQ3BnZFNvQzVGVnd6Mk5Sc1U4S0g5bXlfQmU4TjM4OFBRRGJnVGdHNzR1bUFKZkphSk14R0ZqNzVYeHZpRDhNOU1JdS1ZVUM5WWpxcTdNTWJCaW1CTWw5aGRrOXhoQUFnMjRJSnNwVFRkdXdHcV93?oc=5",
+        "title": "European shares hit 3-week high as US-China trade tensions ease - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk9kS2oxb0V2TzlQVjQyRi1ZNWxZRFpUV0pCMkJFaWJVVnFjM1NkazlFVlRKcFdhZ0VGZVVOZlprWmFaR210eU1kZWVQVV9rZGpQZkdueXh1Q0ZrWWxiTDlUZnJPcG1DQ0JjYWZQa0ExamhKSkEtZkZyb0Mtc0RiMUExS3JmMko5UHBQZm5QOVJPc2l1Um1NU05TUXltcWVsemQzX01iUUVmZWM?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "European Value Stock Picks That May Be Trading Below Their Worth - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTFtNi1XeWotc3RoTl81RFpXLVFETTM0Unl5bGhnajZXMjdfRGpaQ25pMk1Cb0duSTNDUkxGc29QNjVVWXBmMjR0Z194QlY1TWxPVk44cjNZN1BnbzU1WmFqZG12MWU0Y2ZadUVicmRsVTRBRDZrck8wNXZ0MmlUZW9EN1lGazhDMTZPeElmUG5DYk1xV3NFZW0xZ25OZEx4SDhvWGJRNHJWWjVxeDBzZ3JKblBQcnRLLTNMMTYzdldmU0lDVjZLRnEwWmJId9IB0wFBVV95cUxNM0FLMlRqT2RGMXJDaWVUNVY0V0pEOWc0V0YyMDkxZGZsbXNIenJMa2t4MnZweEtHeWpJbzBadDE4WWt2enlsUE5MZ0ZJZjFIaXo1aVdYUVd3V3oxa0lXVnhDM3R4UWM2SGVCRXZEaEt2dFFJVzVFdDZhc05rYzJWZURsczJLaTJfbk9CRDRtaC03SFBZWFhoR3B0TjBGWnBqYWloQTA2UlVROGhrLU5fY3FzSnJITmc5eFBWbkZ4V2dQbWY1QWRKNm15S1FOTmRJRGN3?oc=5",
+        "title": "Earnings call transcript: SAF Holland’s Q1 2025 revenue declines, stock dips - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGY3LWZtTHdOelliSHVNOUQzeTdTS1JpRVZVNTlZaEZ2d1ZwSENRVmpuYkNLNGhiRGhNSjNjWXZoYXJFZ25RM3ZSS0x3dmNDUWNrM0FDUHl2b244Q2tOTGFHM0xobFJkWVFwSlI5Slo0Rm5aT0c4Z2ZHQnhVUlZTQTRSZUNZQ0hsTllILW5PS2U3MUp4VzBmWjRBLWhrTm9BTEgxNF9Yd2xNdDlGVzRqbm85cXd2aE9UdW51R01admo5Y0U1QlI1dg?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -654,16 +624,46 @@
         "label": "POSITIVE"
       },
       {
+        "title": "Gevo and Future Energy Ink SAF Carbon Credit Offtake Deal - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXBzT0ZmUHdHWVhqaHhzZ3NZMFhfYkIxbmxxa2RZb2tHd1dSWVZlS2t1MlNMelBwU0NkeWk4YWg3YW9kc3paTHhNcV9KNGFOdEp5cVJEVDNZSl9iVDVQaHhucXdueVQzRW9QVTdnQ1paOHZQaFE5eFJiUTVDOU1HZ1g5SF9iZEp1SmNYRDdFeEY5SlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Massive Deal: Gevo's SAF Carbon Credits Agreement Powers $1.63B Green Aviation Project - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUhJQUdpZXZjdEREQ1pTeHhSLXpPZ1RZOElZZncyZVBIQ3lmbDlMYmhBTVZVN3pKUGdLVkxoVFh0eHpfZ1NmLWFvaWxQWkFvd3A4V2o4dkJJLTgwczZfVFlWcmRBNFJjekhVNWwyWE4wQzRaLWdhUktLcFpEM0JMUlFHR1RBbmNneEtPNUlhcFZEVG15TnNQQzk4NGl1Z1l1UWNjaDRoRnpsc0Fhd1NqUDEtRHBHUU9nNDRRZ2xSVEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "European Value Stock Picks That May Be Trading Below Their Worth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTFtNi1XeWotc3RoTl81RFpXLVFETTM0Unl5bGhnajZXMjdfRGpaQ25pMk1Cb0duSTNDUkxGc29QNjVVWXBmMjR0Z194QlY1TWxPVk44cjNZN1BnbzU1WmFqZG12MWU0Y2ZadUVicmRsVTRBRDZrck8wNXZ0MmlUZW9EN1lGazhDMTZPeElmUG5DYk1xV3NFZW0xZ25OZEx4SDhvWGJRNHJWWjVxeDBzZ3JKblBQcnRLLTNMMTYzdldmU0lDVjZLRnEwWmJId9IB0wFBVV95cUxNM0FLMlRqT2RGMXJDaWVUNVY0V0pEOWc0V0YyMDkxZGZsbXNIenJMa2t4MnZweEtHeWpJbzBadDE4WWt2enlsUE5MZ0ZJZjFIaXo1aVdYUVd3V3oxa0lXVnhDM3R4UWM2SGVCRXZEaEt2dFFJVzVFdDZhc05rYzJWZURsczJLaTJfbk9CRDRtaC03SFBZWFhoR3B0TjBGWnBqYWloQTA2UlVROGhrLU5fY3FzSnJITmc5eFBWbkZ4V2dQbWY1QWRKNm15S1FOTmRJRGN3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Major Breakthrough: Willis Partners With Industry Giants for Game-Changing Aviation Fuel Project - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXZnY25NeVhBcm04d0kwMF9vQjRZazZBN2RQS25BQXdBb1BGeUs3T3pYcVRYQUdDQ3BnZFNvQzVGVnd6Mk5Sc1U4S0g5bXlfQmU4TjM4OFBRRGJnVGdHNzR1bUFKZkphSk14R0ZqNzVYeHZpRDhNOU1JdS1ZVUM5WWpxcTdNTWJCaW1CTWw5aGRrOXhoQUFnMjRJSnNwVFRkdXdHcV93?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "5 Ultra-Safe High-Yield Dividend Stocks to Buy Even if There's a Stock Market Sell-Off in 2025 - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE5nUWd4Ml9GT09fcWNCa1J1TWNBRmtXRWstYXpVM2VGNTJRNEJhYW50UUoxS2dWSm0xVXdWU1hTSlozTmthNnc4TVA2Q25IS3lxcGgtU0lnNEFwWFFWRzZucjk3VFpqYld4YUh3UnhzRTNDQWp5emJvY2RETUxtdml2bHNXR1BTc2loNTJqTndlN09kbUxydG1KZHljLUVqVEt2SVF0R29SZXkycWUzQXVuSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "We Like Safran's (EPA:SAF) Returns And Here's How They're Trending - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFpCdmZMM2Y1b0NfX1VaT0FwTmlxendwZ2VwRWNGd0Vyb19ZNFBYTGJVTEFncERiYkl6RVVQQjhKelExaHdFd3NieWtHNlRkM1p3SC1wLV9sbUFDdFRsMGVIVEYwdEphUUxnbzZIYjdqS3ZXRmltcDhvM2lwUGhxRFZBVTRNTDVkMzFQUlpvczd5RWRLNUR4NF9CcHhTNm1yaGE1RGt5eXZXUGVzajBYNnpxQlJwMmY1U0ZfVVdlNUIzQXBlT3N4LUstQzI1QdIB0wFBVV95cUxPa0RDcm1DajJMMFY4dkg3U1J4WWdBcHlRTndhV1pwODZXajltMUlXRnJhMTczVTRLSy1LRnpwd3FkQXVoazNDQWk0cE5pSFJGeW8waXRiV0pvWXFzVERwTk82OWgyLWFmcld4WGhnRm1OS25ycXpPRmNHcG9haWVsMFFGcUNJQkdQWURIaE9BY05VVVRQOUVtVGNyTnNCT0tzRXRCT2o1YlhEaUhaMWQ3VDA3cHhXQnBXUTZhbHQzN0pqN2pTbWZRcnF3R2ZSTlhpYkJz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "6 US Biofuel Stocks - Investing News Network",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTA3WmZRUEhKYlJ0bDdjRGRIdXBzazJsNWt1TGxoZ202Y3F3aWU2MElNMUVVUk55VXdqaXU0Y0taY2xkSUJEZ2RqbzVVU0RxVlA5cW13MWpTWDdtTVB0MXRvc2UwcDhxTFNhMXZDWjlRS2JiTzFCWjYyRC1FcExyNDBFcjAzRTRMbjh6TGdB?oc=5",
+        "title": "Safran's (EPA:SAF) Upcoming Dividend Will Be Larger Than Last Year's - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0ZSMXFCZzRaMEhwSjJTV3Q3aFI1YS1GckltRVY4ZUJUTksyVTBKb2NKOVFYTXZPdHJyT2FvRDEwWUxjakVkTDk5Q0NMYWE5MWVGQ3Jjd1J2UkVtNHptNE9wYkVHY3NLQ2tjY0Q2aXIteUZJUFFSLUU2aDdBZzFzRnlVNFExWjFPNzVfcFJjaGVLNTV2M2l5UVRaRVo3MkplclBYdVIxaUlUVTBmeEhiUW45aV93cUhuOEJKNEhtUG10LU94LU5vazdQSF84QdIB0wFBVV95cUxPR19wRXZwbksyZTBfQ0ZtcWtxeC02MGQyeld1QngxS0Vhd2N6N0JZVW5kQXF4WVBGZVpHXzJFbVRWRXFsaW03a2ROM2VNVXFqQXJnTmNUcFF2Rk5LT2luY1V0V1lIRktib0piMkU4YmxzMURYSUd5NWItUFBQbVZUSy1KdXdtUTdQLTV4MjRhUHhUdWl3cE0xRkMtcWloSmU3SUd1YXlLeDROUXBHbFFnckhlQVVFaTJVMlNraG9tRi1oLTVYSVMxQml1WGJRQnVldlh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UAL Bets on Twelve for Sustainable Aviation Fuel: Is the Stock a Buy? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYThObU1tNlFCbVFYQ2g5VlhJdjNtOVcxUGlXOGhxc2ZrMFoxaEFGNkhpdk1QVFJqaXVJa0I1a21LNjIwLThnQTJCanVkNDc4blJBdTdaNmhkSGQtVWRLQWMtMFROODh4c1o3dU5UTUo1Ym9PNEtJY1E4X29BTHFfQlRCRXlqZUR4cG1zN2lmVHcwLWVuSzNJeHo4cDZOQnJBOTU1SGNLU3ZKaTNPMHc3X1BHbFZkWEkxbVhUdUdFbkg?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

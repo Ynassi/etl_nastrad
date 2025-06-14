@@ -2,16 +2,16 @@
   "ticker": "VTR",
   "name": "Ventas",
   "sector": "Real Estate",
-  "market_cap": 28526544896.0,
+  "market_cap": 28679987200.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 191.54544,
-    "PB": 2.485256,
-    "EV_Revenue": 8.245,
+    "PE": 192.57574,
+    "PB": 2.4986238,
+    "EV_Revenue": 8.283,
     "ROE": 0.01381,
     "ProfitMargin": 0.02815,
     "GrossMargin": 0.42178002,
-    "DividendYield": 3.03,
+    "DividendYield": 3.01,
     "DebtEquity": 108.897,
     "CurrentRatio": 0.629,
     "QuickRatio": 0.412,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1720104001053175,
     "ROA": 0.01915,
     "PEG": null,
-    "EV_EBITDA": 21.616,
+    "EV_EBITDA": 21.715,
     "BuybackYield": null,
-    "PriceToFCF": 33.01411674596304
+    "PriceToFCF": 33.138660373587314
   },
   "technical_indicators": {
-    "RSI_14": 38.9244429195343,
-    "Momentum_10": -0.6755699840807563,
-    "MACD": -0.7907721204835383,
-    "BB_Percent": 0.1724189110948815,
+    "RSI_14": 43.45540118494556,
+    "Momentum_10": -1.2834426943204924,
+    "MACD": -0.6491793418539231,
+    "BB_Percent": 0.3334157415106856,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9067204915321714,
+    "ValueScore": 0.8463663684815796,
     "QualityScore": 0.3533157510093856,
-    "SignalScore": 0.6523843133860459
+    "SignalScore": 0.6206984464447154
   },
-  "volatility": 0.0168249066793458,
+  "volatility": 0.0168611502760475,
   "beta": 0.908,
-  "return_6m": 0.0405143933729579,
+  "return_6m": 0.076494025706489,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 75.94737
+    "target_mean_price": 75.78947
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 61.06
-      },
-      {
-        "date": "2024-12-10",
-        "price": 61.15
-      },
-      {
-        "date": "2024-12-11",
-        "price": 60.72
-      },
-      {
-        "date": "2024-12-12",
-        "price": 60.04
-      },
-      {
-        "date": "2024-12-13",
-        "price": 59.91
-      },
       {
         "date": "2024-12-16",
         "price": 59.48
@@ -537,27 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 63.64
+      },
+      {
+        "date": "2025-06-09",
+        "price": 62.65
+      },
+      {
+        "date": "2025-06-10",
+        "price": 63.45
+      },
+      {
+        "date": "2025-06-11",
+        "price": 63.41
+      },
+      {
+        "date": "2025-06-12",
+        "price": 63.72
+      },
+      {
+        "date": "2025-06-13",
+        "price": 63.86
       }
     ],
     "current_price_data": {
-      "price": 63.64,
-      "change": 0.34,
-      "percent_change": 0.54
+      "price": 63.86,
+      "change": 0.14,
+      "percent_change": 0.22
     }
   },
   "news_sentiment": {
-    "summary": "Ventas, Inc. (NYSE:VTR), une société de santé immobilière, maintient un dividende solide de 0,48 $ pour juillet 2025, attirant l'attention des investisseurs à la recherche de rendements stables. Malgré des ventes d'actions par certains investisseurs institutionnels tels que Wellington Management et GTS Securities, des acteurs comme Diamond Hill Mid Cap Strategy et Jefferies Financial Group ont récemment accru leurs positions dans VTR. Cette dynamique reflète un intérêt continu pour les actions de Ventas, soutenu par un rating moyen de \"achat modéré\" attribué par les courtiers.",
-    "sentiment_score": 0.1,
+    "summary": "Ventas, une société immobilière spécialisée dans les soins de santé, a connu une série d'événements récents. Malgré des ventes d'actions importantes par certains investisseurs institutionnels, Ventas a réussi à maintenir un dividende solide de 0,48 $ pour juillet 2025. De plus, la société a annoncé une offre de titres de dette de 500 millions de dollars à un taux attractif de 5,1%, renforçant ainsi sa position financière. Ces initiatives positives pourraient expliquer la progression de 13,9% du cours de l’action au cours des trois derniers mois.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Ventas, Inc. (NYSE:VTR) Shares Bought by Merit Financial Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NHV0J5MktBWmtSZ0VKTXFRUjFkWEZUSUxJM1pERHFaOE9Xak45Ym9XWTVoOGdxMnhFYWlvUmhLY1d5RUV3Nmh0LUFXSmxMU2k1NkwxU05vRE12R0VGQW5aZXhZSFJBLWgtR0dnbXBMeTJ0RXRTNnJVVXg1bFc3RVVUbGVPNlpNMUozbFgtazd3M1pvemluV3NXb3U0aDZFWTY2Um10Nkl3dEd0QmgtazR1S0xWWXVpbWNNZFBwTQ?oc=5",
+        "title": "Ventas Amends ATM Sales Agreement to $2.25 Billion - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHduaTRER2cxa3NjcVNqS3l1UzZ5aUJ4U01GYndOTGNrNF9GZmFPZ0VZTlkzY1pPOXVKeEl2c2FweDJnRkFQc09tSDFHMGNUTUtfMzZsWURnT0xydTl5QnR4Y1QxZ1dZVF9QR2YzNThnNldWNFpSenlxYV9scVVKbzZVVGZQTmdvLVpLeVlfS3RsQ055NUFvak02UGNieWZOQU1F?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are You Looking for a High-Growth Dividend Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSE1LR2pBbWpDWWhEWG5sZWxkdVR2QXhBWTZ2YnpoZU04Ni1uYndhMXJqMTd2YnY0SWMwaG9tazl4Q1lGQVlzalZCN3NISHVBTERIbnU3WEpwTVRVaVh5RlBNUWVLN29rUmRBM25rNmVEd081dllncWJvLVJvUzlaSlFRa3pkMzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vert Asset Management LLC Has $13.63 Million Position in Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjI2aXJxRlhFSTdEUE1pdW13NFVpRm96WkVSbU1SSVNEcWJ4LW0wTEtGZjVyb2o4RGw4bHotV0FZRlJwNUdpTG5pbUhxMW1VLWZVaW53ZHhtTmVUcW1ra3c2bWM4T3dzbk1jc0ZTcW8tWnhnYmJaaGlSMWdvZEJLVVFMdU5fNDBMeHV5SURGNkgybnBGM1JncGRrMXR2ZWh6Xzgza2U3ZWVTU01VbkpkSW9CM0xiM1hidV9pV3JERU9XNk8yZzVyWFVR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,8 +576,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Why Ventas (VTR) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ejIxVEtKbUZFNW5CaHVrLV9pdEpSSmVINXJ2WG1KclhCanV2SHRibkVjRm5mNTRwVlg0bFM2LXJfT040cUl1dlpmUnJxRWN0Y2FEMTRCall1WWNocThmX203MjdPY3NpbWlOUjZJRElKbFdLS0pwU1dOdFhpdw?oc=5",
+        "title": "Ventas Entered Into Amendment No. 1 To ATM Sales Agreement, Dated Sept 18 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2doNlNqZllVVFRwWEV6WDNWSGZxVy1WOG9UX0RCdHctMFlPRzduQldIcURUZTY1SENLNGlJSDVZRWo0SERiNlRPLWVXQXRBNlhWTkk5aFNTR29ncTUzU3UzYnBXS24yZVZ1QTcwQnluTXpXUnRfNFNSeW01cW1OZjdjQWRHTzRpOEtDbXNuR2pBaHM5VFZEem8tRWxlbV85LUMwY242eW5ReGFZNXZaSDdzakZhZG5DWjBPNk5WLXdnbFRjU2Y1ZXRUZmNxb1F1U1RBV1NlaUtzYWxUVTM0?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,18 +586,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(VTR) Proactive Strategies - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFlBdzlWTG1CUWMwSGZzUFFHYS00UVViTzVSaEktR1paN2o2dG5zYTl6VmM5dGFKUnNueE9qNWhGSXBXcEFFeEt5QXNPV3lsZmxrXzVqTjRhVDJUMnVWRGJIMUlUTnQ2YUxEZzc4bG1BNmZ1a1VtaTZBSGFJRUEtTkJPelBYZE5rek9xMXpHc0hVSEFqOGVRNFY1Mlh6MjdC?oc=5",
+        "title": "Handelsbanken Fonder AB Sells 33,348 Shares of Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUs3dklxM1QxU1A1VkZCdW83NTNqM1R2eFotWFU3UUE2d1NTajBLbkdSWFhhei1seF94Vl9ibzFPQXNXUHZ3eG1yV2dSWWZCS0FKbEhzUFVieDlTWkJ1RVRpY0drQWNRRGE2bTNSUTRqaVI5SkUxcVpvbHR5Tkx3cGpJSDlldmFCNmJoVU9yMlhEY2MzU0lzcjlNRER1MjFOTi1pWllFMHFIYjY4YW56S0U0WXQwZEFzRjJKbk83ZVR2a2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wellington Management Group LLP Sells 19,295 Shares of Ventas, Inc. (NYSE:VTR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXZ1SmVDbVVxMlBTTzE2S0FTZktmWTBGbHhhV29nSTkzOWY1M1FyZmtDd0pPTTN4TGI0eHlkRzVielJLZkZuTkZucUhsZ3I0bktxa01kNHd0TW5CTGtuNGxJRFQ5MTF2SnJwSzBHc0wwbHY0c2s2SXlyQ25rTllhMVRjaUx3MGZYbkllTDF0VzBIc2xTUHFxSFpPcXFWNmxoTjViMXhYRm44M3pTVGRSeTZlTG9DWDhiNWJrWXZGaEZzaVRVeFlMTW52QkZlZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here’s Why Diamond Hill Mid Cap Strategy Established a Position in Ventas (VTR) - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXJpc1FxWU5xNDFMWUFiUVhLWGp3bDBiQjNHSU9kdzgwMzhOLS1wX3pyVHhwSHY5Y0hEbUhZa2d6RHFIRDFyVFpkVEVJWWNET2V1NkJwYlBLZ3Q2OWdkYUNFQUNYTzJ1WDJBbnEwWEpSYWtYVGI2WTNMS0ZYQ09kU2lJRFJVdV9nMldWSmZVLWpGOFdLcmlqbExyc0lhZmtseGtCQnRyakJ0OWlOdEcxaUxhMmptRUZKOGhfN9IBxAFBVV95cUxOT2JHRjFqVGV1cGFlZUo3anBhSWx2RVVfUjBjUVhRNWlHXzgtUDd6cHo5YmZ4cUtnOTBBMllHNEpNWkNxbjVfQy1Qc0tzdXZ2UXRoN2xkUEZxczJGYmpuUm15cV9ISms3Z2xzY2I0ZkZoMW9nWnRvLU5PakQ4N2VxUkZ6WUduVXRtZWM0c0laRENzRi03U1didHJhZmFteU5yUUJiWVhNMWdqMzJDU29JUG9OMnNWN09wOVJ5d2syU3VEc0ND?oc=5",
+        "title": "Ventas files to sell 3.38M shares of common stock for holders - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjJGdnBPZGFiTVdzRGZGSGpNRmVQZnpaNmNGY0RVOGcycDQ2UmlYV3ZPdUswNldITUxzYXBJeDJBUXdkMGswSFNMNEg5S3k2ekdQVDJIRFI1eGNSODJxRHJuZW5VNWRmX0tiWXpUZWthSU1mMW5tRkJYeV9ndS1jQmVJaVJpUkw3YkwxSlZQSkdNdGozV2xfWjE4cEVyLUVvaUVjRmJLa2tRQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +606,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Ventas, Inc. (NYSE:VTR) Stock Holdings Cut by GTS Securities LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDlCUlFidFRZZE1DVHVxVXZDRWxTdTF0NUtPeG5pbDZiVGFWNWJfaUdiaGU0TWtkdUgxamZITlJxbWl6S21pRmhaYUxMMVNodnVXb0FyaEtfSUZVXzhoVUx1ZEVhNk9hTk5OWlprTkJnTng5aWQ0QnRZaWNBNEtwaFpBNjBxRzBub2phQmNwWEE1OHF5bVlVX1RLRHBXZ2pWUmUxSFQ4RHE0bVlhYkRwRzA3UQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Sarasin & Partners LLP Acquires Shares of 116,102 Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnBiZzFEZ05pTkNJd2tPemdObl9KTzhyWFlJYnB4RFRzdllSejNwWXZHTGtwa2VYcWl0MExhWEI4TEt5UERMblB5Y2RhYTcxVGJjd3U5cHFyRmtJQ09vTkVPNTR6YkMzdENFc2U4dEdnd2RmeGpaWFlCMlVwSHQ5T0xQeE9PTjdNamFHVi1JWDBOQlo3NU5DbGRGa0RjM29DZjdkVEJCNUhwT2FNZUtleFRmeDNLQlRqcU5kS2lEVVA?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Has $6.90 Million Position in Ventas, Inc. (NYSE:VTR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3hXRlo1bXR4QkxxckhYa0xwWno4MXVZblBzTUNtb19yWUVRcjdIYjkyVjZOT3J5SlJ6cnpmR2EyWndPbEpWS2Nsbm9QdUtoaEJuMUVFeUViZEkxRGNmVURfNWlDSkdfNVh1dmxLVG50WXNXTWhKOFo3TUwyTmtvYjhEdWgtV3hzTEgyZXdnVmlUMmNRWmFYWXlpbl9UbkdKWkdnNXU2NzFWZVdpMmw1YU14djVVRXd2c0E?oc=5",
+        "title": "Ventas Secures $500 Million Debt Financing Through 5.1% Senior Notes Offering - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlhLMTdXekk1bWZoT1ZBc1c0OWpZVXk3T0U5YjhhS0toV2FvRkgtakdJZnFoREtkTUN3aThmcDRuTmI4S1hqa2l2TzBrdDZEdE1VMHJNclA2alJFUnJXVUxBQUVsNHdGZ0h0dFJUTjRfLUFjNVg3a0hPVktRR095MjEzNVZMMG9pWUd4V3dMSlpqLVJDYkk1azNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ventas Stock Surges 13.9% in Three Months: Will the Trend Last? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84NDhkZ0NxeDBHWVNWenpzVG5ZMk5LVmttMm9OZlBLNVI1ZnNtTGM1Mkl5bDVRVDVLVFVaYTUyc2kwMEtnNEwtZENicTlhclNxWTcyQ2tEeGF4cHl3UFJ2RVF1M1praGV4c1RzS0NOTmN4d1dTdWJVLXl3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Sells 20,905 Shares of Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3Zpb19HRFZ2dHdGNjdvWDlwNndRUTVCcUh3VksyZklKN18wb21JOFB1VWUzU1FQWHJXMU1adERnZTd2VmJJYzk3NzJERzNfNmd2U3k1NkJjZ0RNOWtYV1dRUDBUNFhJX0llZjFGenJ3VEZXdzZldU9HWFNRS0RoeWNfaHljLUVzMTd2MFFHenc0ajVvNmw2R1plYUpZR1VsbU4wak1KUFZYTjYxa202NFVWSC12YWFzNlpuRkxfUlpuMEQt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ventas Reports Double-Digit Growth in Q1: Senior Housing Portfolio Drives Record Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlFaaUFUVGEySU10Tm4xUURHakVQV19CS0dtM2c5UmZzRXNVXzAtVUZfVGRQTGlvYzVLejdTc0RfTUNmY3dobkRjLVhWQ3lWN1dCc3lPUzNqYnBjdUlSRmlPVEVNZENKQVdtQW9VdjNYdzR2bHB1RGJObFhEdkVLaFJZYUtfSnJNYXpzQ1FmUEo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Merit Financial Group LLC Acquires 5,548 Shares of Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NHV0J5MktBWmtSZ0VKTXFRUjFkWEZUSUxJM1pERHFaOE9Xak45Ym9XWTVoOGdxMnhFYWlvUmhLY1d5RUV3Nmh0LUFXSmxMU2k1NkwxU05vRE12R0VGQW5aZXhZSFJBLWgtR0dnbXBMeTJ0RXRTNnJVVXg1bFc3RVVUbGVPNlpNMUozbFgtazd3M1pvemluV3NXb3U0aDZFWTY2Um10Nkl3dEd0QmgtazR1S0xWWXVpbWNNZFBwTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Park Avenue Securities LLC Has $1.38 Million Stake in Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUIxTzh6Y3k1R1RRNjVDVXNJbWdVcWkxQ2tESGp4MWR2WlZJSndvdHpoWFpGZ3hrZFRvUG1YZWhCanl5Q1BXSmRfSXNjcGhnZjBSQXNDOXFIeG4zblZzZzIzM1pWRGxBcExkM0doYzRISG9Qai02U2plYmhsS2JrVlZGZm8xQ3BYVE1hR204YTlTb2JfeEJzeUVLM2oxNWhzWDdqUGg1VWhMcW1lV0tCbGZXQzB4Z09nblhHaUlsbVFoZG9vQXZlMVdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Sells 19,295 Shares of Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXZ1SmVDbVVxMlBTTzE2S0FTZktmWTBGbHhhV29nSTkzOWY1M1FyZmtDd0pPTTN4TGI0eHlkRzVielJLZkZuTkZucUhsZ3I0bktxa01kNHd0TW5CTGtuNGxJRFQ5MTF2SnJwSzBHc0wwbHY0c2s2SXlyQ25rTllhMVRjaUx3MGZYbkllTDF0VzBIc2xTUHFxSFpPcXFWNmxoTjViMXhYRm44M3pTVGRSeTZlTG9DWDhiNWJrWXZGaEZzaVRVeFlMTW52QkZlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gateway Investment Advisers LLC Buys Shares of 12,780 Ventas, Inc. (NYSE:VTR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlluR0hBQWFGRHBucHE2ZmJRZzRoUG5CaEVCaXpxUkZ6VUR6N3pCTU4zTXJ3YTFsYW1wUDhVQjBlSkxQUEpXajdNSHZtWmVYcnBDaWhmcjdKb1lUZGlPZk5BUEFsSEI3UmVCblZVQmNON0g3UHQxQVI1ZC1BOVVHVkozY0h1VmdiUlJTT1lRVW1zbm5FR1loT1FmUEVLaGV0MEtKXzd3YTZKQjUtSUNLOUNSbzhMSmJzeUV6V2JRUXdONHZnZXZGUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Ventas, Inc. (NYSE:VTR) EVP Carey S. Roberts Sells 23,500 Shares - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2hRZ3FoZGxJY2p1NkxiRjNRek5xOVE4ODJXaXI0NklOeGRLNzBhbEZ3enFKUWNkd1NoNE1JRmk4ZlZGdk9KWll5RHFESERkd3NqRHFLeG9PVzVTRGhQZVd3YUMyWVRPMEpPN1RseXFLUjVMYWpyLU43WjdrWUlsdi1xSGJ6M21DeXZlbXQxOEYxWklFMnV4Y1phM0xrM2JjTERkV3VTa0ZDUURlNEF6T0l6bWlhVWc?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Increases Stock Position in Ventas, Inc. (NYSE:VTR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUVPbENFODgwMW1pSVFTMURzT1dnd1ZkVlYybzJOX1lEaFdyM0hPV05uODV6V0M4bi1pcFZBSjRwV294bUNaX3Ixa3J0emZQSGRDUVlMdWNuaXpNNHBESGJmSlhtdlJZQ0xMdk16TmtlRVh2LWdUb0dkLVltbXEyMWpKUEdVOUZiY29USkhqVTZnUXNFb3FzMjVRUkFJWEN4enloMGRnODhTaVRIc1QzR0NaU3N4Mm9YQzVmSDVJMlJnNFZD?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Ventas, Inc. (NYSE:VTR) Shares Acquired by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXNPbkZCQ2pibVNmQURCM3VHYmtiOW0zbUZmSFg5V3c3eEZQY2lEVklWMW1WbEtxZk5YN1RYRmRBNjFkRTRDNlFPdDczTWZadHo5MC1vcFF6VmJxU2VwQTU1cXQxcnI2cFBpZnhBaXlmQnAtdkw1cnlheDcxZm5mTXZCYjlMOTIyNzczMGNUa1hfZmlTX1RjT1NVZDRtX1hpOGdiaVhIMmFhcHJzT1kwcHh0NEpHY2lWbWcxRHJsSmRDYW9YV1BSTHVzcmNSM3p6RkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jefferies Financial Group Inc. Makes New Investment in Ventas, Inc. (NYSE:VTR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0FISjZVS3phY0F5RXBRNk9NZkFQOHFxVFI4OWtieHV3VURMOGNYc19BXzA3bTdMcmVKRnhoUG5zMFZLaWtRNnM4T3owMFZWbHpaN0Y5Y2ExQVNuemNJZGV4U0ZKOWRlNlFDZDNwQnNGcll6ZWpfNWdMNWpzVjZRRlVNaVB6cDZrbVl1Zk5uVG1VZVFFbzZnd0lvaml3SXl6d1FSdE9PRmxyTi0yaUszMFNZS0RleXppVG1rYnFObVhCWUVKMExhS3dKQ1ZsNmdI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ventas, Inc. (NYSE:VTR) CFO Robert F. Probst Sells 17,374 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkNCN2RzdEF3ZkRJY285Y1ZXZHNqNUVpSlg2NGpuRFNYeTBfX2VMTlVBVFdRTG9kdFpUR2JlR3h3N3VlWXZHZGFaZGEyYTJ5RXkwZjRTRGtXd3JpcElBT0xya1RXTlUwazRUQWt0UFNFc09OSkEzTVVoTzJwUU9SN2tvWkRtWkpSbVVHdzh2M29iLVRwOVM4TlFUSkhHdnFNZXBxN2cxR1Z4NkhPYk9iMg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Grows Stake in Ventas, Inc. (NYSE:VTR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXlHVmZ5TDlhTXk3ekxRaGJQdGk0UFpQRVRSMk9ieV9KSjF3bUw4dlFLdTBzTVpqalRvWlNlMGgzRS1SUUZ1V0Z0X0RRM0JQVVlXbHhfUmtxQW5YQ1Bsek93eEhFWDdSYV9wMF8tdDlfSGEwMV96bEY1WUpNREdsakV6NlFZMFAxR2k1Rk1uRGhUUEttT05BUTJOcGJ6WXZ4VzlSSmoyUUFuejAzYVBpUUF4Zks?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ventas, Inc. (NYSE:VTR) Shares Purchased by California State Teachers Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT3FHMi1hTU5GbkpORXNZZ01Zc3BnTDRDaG9DTmdxNTNad0R1cEEzSEZlVktBeGlCOW9JZXA1SDBkZFUwaWN1WTBGaTk1dHZDUFNIclZnWmpsenlvMDRRQy16eU1QZlk2NUdHOG1CNWZ6N0dSZDBwSGF2eEhPaHNqNnR4VGNfWVlTeUMzZ2gyMjZ2aGpySEdjZXBOY3R5ZXNhbXBIeExvcTE2RFVwODhPRlI2MlZycmFSTjFfWlByRG9iMU93WjFpeWo1a1R3Y2I2eUdDTnFVMzZtZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ventas, Inc. (NYSE:VTR) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelJkbDl0Zm81UXQ1ZDlqU2lBNk1yZjh1OF9BVm1RVmNMaDlHejF0Z0lnT0FVbmVUTlhEcjdnM2RLbW9QaFl2ZGxySF9mSUZPcTVtMU94aVN2UlN2eG1qd1d5WEdsZ01JUEhtWVU4QUJLZkRZVTVDNGxfQnN2bndCYnViN0tTRVNPVVl3ajZnc2NzNm96dFJMT3hCbHl1Q2ItWnF2V3dvTldpZzRnYjBqcUduakJJRzRBQ0NORGhQZDQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "138,241 Shares in Ventas, Inc. (NYSE:VTR) Bought by Lansforsakringar Fondforvaltning AB publ - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2lmbHAzVnZFVE9zUzRuZnJUUk53UU1GTVcxSXZJcWVoMExCMl9WUXNjNWNwaGdOWWFaZWxIbEJid0xnUm9wczVmQUFHQkYyLWhJT0todHk1THQzNjFZTjlJWnAzY0ZTaURHa1NjZ2F2NExqcDhxdjZRWlA3T3ZPaDFQVFJUZTFmSXAyOFFCb1NBcWpla1lLVGNHZU5tZlhpY0w5Sll4Z254eVVhWEk1SDZwQWxtSVU3R0dObld6ZGw2czNENnB6Yjgzd0VGdHJaMTBSQ1VtY2dYaGMzckVxUjhiZHU?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

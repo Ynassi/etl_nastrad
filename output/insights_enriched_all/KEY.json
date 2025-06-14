@@ -2,16 +2,16 @@
   "ticker": "KEY",
   "name": "KeyCorp",
   "sector": "Financials",
-  "market_cap": 17743267840.0,
+  "market_cap": 17156939776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.563879,
-    "PB": 1.090897,
-    "EV_Revenue": 7.128,
+    "PE": 16.26358,
+    "PB": 1.0548481,
+    "EV_Revenue": 7.179,
     "ROE": 0.0014300001,
     "ProfitMargin": 0.0056,
     "GrossMargin": 0.0,
-    "DividendYield": 5.16,
+    "DividendYield": 5.09,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 60.34947696234173,
-    "Momentum_10": 4.662883045455805,
-    "MACD": 0.2090990351551997,
-    "BB_Percent": 0.6956299131477546,
+    "RSI_14": 46.84646014073918,
+    "Momentum_10": -1.3253427530220985,
+    "MACD": 0.1788233905314449,
+    "BB_Percent": 0.2511990943283352,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332535681070224,
+    "ValueScore": 0.8767560341348297,
     "QualityScore": 0.2747676049325245,
-    "SignalScore": 0.493669203149247
+    "SignalScore": 0.6047584994790638
   },
-  "volatility": 0.0234687752880171,
+  "volatility": 0.0236005676048149,
   "beta": 1.074,
-  "return_6m": -0.1200124115629487,
+  "return_6m": -0.1143607146421799,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 18.9
+    "target_mean_price": 18.99091
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 18.54
-      },
-      {
-        "date": "2024-12-10",
-        "price": 18.41
-      },
-      {
-        "date": "2024-12-11",
-        "price": 18.31
-      },
-      {
-        "date": "2024-12-12",
-        "price": 18.06
-      },
-      {
-        "date": "2024-12-13",
-        "price": 18.13
-      },
       {
         "date": "2024-12-16",
         "price": 18.2
@@ -537,63 +517,88 @@
       {
         "date": "2025-06-06",
         "price": 16.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 16.28
+      },
+      {
+        "date": "2025-06-10",
+        "price": 16.35
+      },
+      {
+        "date": "2025-06-11",
+        "price": 16.23
+      },
+      {
+        "date": "2025-06-12",
+        "price": 16.11
+      },
+      {
+        "date": "2025-06-13",
+        "price": 15.65
       }
     ],
     "current_price_data": {
-      "price": 16.33,
-      "change": 0.42,
-      "percent_change": 2.64
+      "price": 15.65,
+      "change": -0.46,
+      "percent_change": -2.86
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière plusieurs tendances clés pour les investisseurs francophones. Tout d'abord, Apple se prépare pour une WWDC discrète après des difficultés liées à l'IA. En parallèle, Tesla a chuté de 14% suite à un différend entre Trump et Musk, tandis que Palantir a enregistré une hausse de 2,6% après un signal de trading important. De plus, les marchés sont attentifs aux données clés à venir, notamment les chiffres de l'emploi, tandis que les tensions commerciales continuent d'influencer les indices boursiers, avec des mouvements significatifs sur le marché des actions, notamment pour Tesla et Palantir.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.35,
-    "bullet_positive_count": 0,
+    "summary": "Le marché a réagi de manière divergente cette semaine, avec des hausses notables pour certaines actions telles que les actions liées à l'informatique quantique et Nvidia, tandis que d'autres, comme Energy Fuels, ont connu des baisses. Des événements clés tels que les annonces de KeyCorp et l'approbation du Pentagone ont eu un impact sur les cours des actions. Les investisseurs surveillent de près des indicateurs importants tels que les dividendes déclarés par KeyCorp et les niveaux de prix critiques pour des actions comme Tesla et Coinbase.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Apple Set For Low-Key WWDC News Cycle After AI Face-Plant - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PZ0Y0VUhyZS1XbXIxa1g1RlVIY0NoWGUxV0p0UDRQWmdyaTM1ZjlhN3U0MTlGWXBWTV9FaklCNlRtX2hSNTB6VTAxaktYejJzZ1lpcEZOTFJXWkJMZWYyUmVsZjF0Q1pIZXh0eFBwTlBFc1RzcFNRdkNsWko?oc=5",
+        "title": "Quantum Computing Stock Jumped 25% on Wednesday—These Are the Key Price Levels to Watch - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1prN3NVcGxTc3I4RGthZ3R3akQwUmVmWXdCdDFreWJZYjJkd0pXLWZ1S0Q1T21OWnRadzNxX205d3N3WFM2QXNSWEMwdmI0YUdvWkNSVWxSVVZyVzlXZ2NIX0dBSGdXYTg3TTZRYVlxMTlPMHVFSzhMeEZGZklRWmE4OVRHcmNkLWhneGo1ZzRnTV9SdGk4aFNxVnJ0VWdEb0ZfZkdINGlEaXVFaGFZQlM4UGhldGJqYnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "KeyCorp CFO to Present Growth Strategy: $189B Bank Marks 200 Years of Operations - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGFvc1NIa21xbFdSQXdYeXpJYlJ4TFlkbm9JTkM3QzJ4SEpzZDJoYVpMWG9aVnExdHRUUXVrQ1pPcFZGX2VtQkNlUS1UZnNmNV9KMGRCVndwRVhRN0lfVnZtTkhYeXBtNHp3Smlwemx3dC1CYjlGaHFQeEZoUVhqVEduQUF0N3FiWmFzT2dGS1I0UW5Udk5OQkJSUzRua0lQdXJ2VVNUdFhZVFdkQ3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks will keep climbing during the summer, suggests this key tell - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUZpbHNacmhpM3Y1eG9BSkMxNlN1dkNVQVVPR2Nld3F5QVlsay13SXg4RmdXWnFVNUxLdXhwU2UtdVc0eG02UWRPRGpWRFI0d3NIT0RXVDdRV1I1LUxqc25RNGRyRTAxYU1DN3NmSk5TNURoZkNSbWNKUllNM2V1UFczTmNKRWhaMlZ4cVYtZW9vNDQ4aFJuWHZlTVdpU09IRlJrdWl5N3JsYlFXQ0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wall Street stocks end down as Tesla slumps 14% on Trump-Musk feud - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnM3U0JhdEcyc1FOTEVUSXd4NU5GbXVIcTZyUzBiVkVDbDlIcnczbG9fYzRGN19mNWktaXpwSzU0OUN4ZjltQkIxU2o5YTVqVmJiU3VSenJtRXBndzBrNzBFc3pJOWlyTlBpQWgySFlsUnpfdFE0endiam1GRktJSkpybldrTDQ2YmljZktPNFdVNjFoNHdlLWpsMUNUOXk3d25NMg?oc=5",
+        "title": "Energy Fuels (UUUU) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CWTFEOHc4bEJ4dmh3YmdoN2dPb0JCakEzYnlMZWVkWjVBT0dycTNVaDBsU2JUVEhIS1RMRkxNN2gtUHRESTc4YW4xaWdwRktONDMwM0NfaFNlRF9ndmVjdWxGZm13ZFNuNFJreHl1djZBUkhHT3dxUmVvTWtRWlk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Palantir Rises 2.6% After Key Trading Signal - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1pIZUtqZnlaQmhGOFF6MGVHMUpkRHpDc2ZoWW10SE1nOUZwaEIycEJRbnpZNGZMcnU0SHNDcXlKbWMycTBlemZoX08tNGNRSVBrcTl2ODZCYnRIX3dtX2JVdjlncWN4Mno0VFJCVHp2Vm9QWUdETUJuWWF2dkxyenRCRVhvZmRjZzJBdmhfZFBnekhpWU04TTUtUngyeXRTVEE?oc=5",
+        "title": "Tesla (TSLA) Stock Dips While Market Gains: Key Facts - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEZMUzl3dzVyS2pmcmJaU05vNjZ4WS1LaXZZYzNIdTdSa1VYNWJnQ3Z3UDZObVlEcmRnNVBHb0RJVmJYMVp0Z3RzY2tvS0tmdVh3SzdkT0VoaXF2OUtGYVNWS29VdTlUV3pHdVZ6MEdzdU9jZWF4U05YeFhVdWhheERoSWw1eHZOR2hYLQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Coinbase Falls To Key Level: Is Coin Stock A Buy Or Sell Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DQmhwRzQ4aFNySHdPVEtKYl9Jck5wcUNNVXJjc2x6bkVxNXNnVjZZMWRzS1RyajFoOE0tODY1cHZucFZIalBmN3ZWSzdob3RQZTNEMTdsSVhQVDVCcTZwNDF2U1lmY0VZcFdnXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(KEY) Technical Analysis and Trading Signals (KEY:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RiNDZ2cVJkS2dfUTdwQlpJcmhXTkx5cS1nLVlNdHBGbGdEUTZXc1Nfa3E0ckJmQlBWOW53b3hvb2RZejJoekl2TjdlRGF0R3FiYW5ROUs0bEpheGtPOEVhMjlzTmZzNHlJZVZhQWpnU3dmb2U5LUFBaGluWDZpUmY2WjgwLWhtRDEzMXpONHlBZkpWMVdyVG5sYzFiYkowQ2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Stock Nears New Record. Why CEO Huang’s Speech Is Key. - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTZwYktqYXlFUGdRV2hEdlpLZ2lHWF83d3ZjS3p6M1Y2c08zR0dNdTBuY3NtQk10dFAyQ1V5Q3V2UWF4UlBsaDNsNkdyUTdsM0NKaHh2NGNvcjRfbTU4dlI4aVNjMUp4YUh2ZkNSOGVqWGllZnM1VjBKUXljS3R1cjkxVWtCQUVGdzVaT2xvekpKa1Z1ajQ0S2xpcWlhdUVGTEtKNHNoTVNQTTk4S1BrX3JzYWhNVGJiVnBBZjcyYi0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$189B Banking Giant KeyCorp to Unveil Strategic Vision at Bernstein Conference as it Marks 200 Years - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1loc2VHOUFDeUZ6UDN1TDNYdWVoWVE0LXNtZDI2WGFYUTBFZU4wWWp0eGxTOV81RGFSVFpNUDhXdTc4M0NyVGJ2Mzg3WXlGcUgtQUk4S2NUcE85TklDTjY1SHRDVTUwR0xZOC02RWFRME5uWjlmNkVYVXk2R3RMYnB2WkpBRmptV1BZX0JyQmxMOVNJQ0pvQVVpX2l2UklDMm9SaF9KMDFVR2hFS1IwcmYtejRBSU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Starbucks Stock: Culture Fix May Be Key to Long-Term Growth - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOHlBdjBvQmdsa2RndTc0UURVajB4dnFfZENnMVVQNWtWcDFtSXo0bTlCOVpxX1QwMTdMOTNmNzJfZ3JsNmZmZE8zU2hRcTl2MndVLTZiX0dmM0FfUnd5TG82YWNCWWhhbDRnNFo4STcyVGhoWmVXelpLUnAtZGMtMEc1UDlOaGR1d0FTQnpzTTVLVG5aZHVXVFBVejdTVm1iOFpUck5RdjJRakVoT2FJcExGQWVQakxnaFJnaWJzSDl4MHBoNGtwVVRVNVJWOWVRU21aOTNYMUpQUQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "BlackBerry (BB) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS01mdVdRdzZ5SXJGVVlUOUV2c1BsaGt6dHA5aUE2a3p3cXFzcTRwZ3VlYWF2RkpEX3FrLTVkVTY1Q0xXdkJvbXJyYWpBelpTc09sd19FNXNtcUxnV1gwUngzcEVCTVhzR3pyUU1QbkhnWTVycUNCRE9vbU4zb3ozOEhn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "title": "This Key Stock Market Indicator Is Flashing Red: Evening Briefing Americas - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0hkR2tuQ3JDT01oUEFfTjd6UDNPd211a00tQnVvVzM0U1N2VHgtbTduWTczTGxEWG1ma0lyeVJkZXFJVWRLZ2FOV0hGSExyQ0FPVVFnQXZZb1B0am8zdlR3ZHI4SEdjLUJvbFJkRDRTbXVRNFhHNnBsYzBHVmNTeWNuRmh6VGwwWmY5eWo5T0dEYVlZRmNLNUt1ZE80YjM4Sm53VVJRa295M2VzdlJpcDNSU2RuTzdDX21VRGhyc2tiOHBDSkE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Coca-Cola (KO) Stock Dips While Market Gains: Key Facts - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVFXOW8xZXBCV0E4NktSLTVNN0w3OXBVaXdaVlgxQ1BhV05uUlFNVFEtSkRxQWdoVzFpODVJTDhQbnF3N2pxVkhub1pySFNDTGJqZ1dhVTZBc1BKSE5ISDNZSnp6cm1DbGRWUmtva3ZsemREWTBnb25LM0swdGQ2YWNldVFqcC1LcGdwWmxyQQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "KEYCORP DECLARES QUARTERLY CASH DIVIDEND ON COMMON SHARES AND PREFERRED STOCKS - PR Newswire",
@@ -601,61 +606,56 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "This Key Stock Market Indicator Is Flashing Red: Evening Briefing Americas - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0hkR2tuQ3JDT01oUEFfTjd6UDNPd211a00tQnVvVzM0U1N2VHgtbTduWTczTGxEWG1ma0lyeVJkZXFJVWRLZ2FOV0hGSExyQ0FPVVFnQXZZb1B0am8zdlR3ZHI4SEdjLUJvbFJkRDRTbXVRNFhHNnBsYzBHVmNTeWNuRmh6VGwwWmY5eWo5T0dEYVlZRmNLNUt1ZE80YjM4Sm53VVJRa295M2VzdlJpcDNSU2RuTzdDX21VRGhyc2tiOHBDSkE?oc=5",
+        "title": "As Apple reports earnings, here’s why $200 is a key stock price to watch - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb093SWMxaEtwNlU4OW93czZ0SnFrOVpDdnl3bXpZdWo3MWc0dlZFX3hzNjBhQW1KZnV1MWZ3ZXo1U3dNTmV3emx5WF9ORzdXOVJCUUlkeDNVNU1fZTduODRBaXVHQkNyN1JuYzJ2N000TUNCVXQ2NVhuYm9lWlV4WVNJRkw1T09lSkkxamFaVFB2dlNTNWtMcXU1NS11bU5WbGh1YS1JaUdKQVNGUjUyMTNR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "US stock market futures rise ahead of key jobs data release — what investors need to know about Dow, S&P 500, Nasdaq, tariffs, and economic outlook - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPaDc2Yi1yTlZIRW9jSnRwc2M2YlFMZFVueFpERXBZV2tERkFOcVdSZ1N0UnVCNTFHTmdrQmtQOVBiZW93dl96QXgtNm10LWxKV3oxR2JsTHpQMG15U1l4YWNta2xOQ0RYTDFOR3pZNEJhV3V0TVhVZDFfMk5vRWRhUWdyYVZvRkZ1UzhHYmNLenFwajJXZUVvOC1YMmdnWUgzN1hqV0RkY0pxS2lPaGtnc3dYZmVWRzR3MGZ3UGh3MmJ4STB2UVF2MjlCM255UkZld3hLN1BmT25VNlVDNzJfVjhjQ0d4XzJuVE1BcHFkeGtya1R5RXItcF9iVXQ5aE8tRkttTVBCcmNqTHU2RmVvSjFLRlFjVE1peUhrVFFsWjF1SjRfS2RRSlpRRGFyVUZuX2VyQXN5YmxIcXN0?oc=5",
+        "title": "Ouster stock soars on key Pentagon approval: too late to buy OUST shares? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3l5eVhpOVlQWEpmSklVOFNoOVdNdXBNbGdJbEpWVHBNZXlrM3ZJNDh2ZEtkb3JCSVoyaXRCdlU1b1J5bUNuWDkzdTdvSmsyY1FiOTMyc25zNmtqSFdxclVIUGxVNWloQkFQN3dfbUlNQzR3VWNQZnBxU0t2djRYM1F2NnNaVExNaWtqQmVnaWJQMXNZWHdxMDZsNDJEVlFIYjJPVC1xVi04cWpzLV9BdllidDUyMFFXZ01KdlFHbVprbWR3WjBJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Johnson & Johnson (JNJ) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2pWSVNfaUQtbUo2Z1RXenltYURNa3VaNFZkNndDTWpmdmdxa2NKWWhOM3RmOGtWdV93Qkl3TzJGX2N6cGNobUFkVEhJTXdFeDZoLUNJTlhqNjdiRVEzc3BteEpBcTRLSW05SEdLcWpDRG5iMHBrTFg1NFY1XzhBd21R?oc=5",
+        "title": "This Nvidia-Backed AI Stock Soared 103% Last Week—Watch These Key Levels - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSWpISnVJMzh3OFA3ZFV6cTFObkw5eFhhWGlYTVE5YlBQOWhRczRYWW90Yno5M1RCSmgxMnljZkRybVl2MmxsWThxN3cyYmlGTHpNRmJpRHVYTE1KWXFMa3lYUTVsMjlLWGhmXzZjRWNMNWxpQXk2MVhENEJDNUdlb1pGVk9fQ2kzUzlyQ1RvZjQ2RlJPOGZwSHNLckRJWDdjSVdUbEJNekRSTnl4TzllYmZJUHl0dlFpMU9NQ2ZkdElwdGhEOF8tR0RYN3Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kinder Morgan (KMI) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ITkloMFM4YkZoT2dqUHBSQjItWVVLNXpwWVVxT0Q0Y21VNHNrejZiZmZraFUzOE1BZFJBNmJVTm5VSVhBRGR4X3pNN2t6N0JnTVFhV3huZTFLMTBqOWoyWEpLMl9BWlM0aDYxQTNzQ1V4ODlVbVpCR0pHbHBEQ2M?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "KeyBank's $9B Virtual Banking Push: Strategic Investment in Qolo Signals Major Commercial Banking Upgrade - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFBIU2ktM1RubVowb3pJMG1lN3ZDdV9FSXFKbW5ROE5tM1cxUk1VdGd2a1R0VnFvMUkyLTNUcnRnZUdsV1JYd3FCM05sYUFndVgyeHRrZjAyQ2FFOGZVQjlwUklHaV9PMGlUdFl4UUVhVWhmS2JTcUxlUFNLVXJRYzZlZnNWMHNVRUhwTTU2NHNSTmR3T3BRTmRXc0dleWVLS3UzZUVNdkhPZ3RISWhQcjNpZ1QxZDBLMnB3ZTBR?oc=5",
+        "title": "How To Make Money In Stocks: 3 Key Factors For Stock Investing - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JOd0M1Q1pOVGc2cjBvZ2ZXNDVxdlBrN2xuWS1rRmJ4QzV6VEtMcGV3SmRMTUxVWU5SYUlYLVpPb2M4RmoxbFVBcmluMjlERkpBNXczUEpKektnM1hsNURBT2F3cXJSYlUwSlNtX1IyYlUtS0JYUE11ZFhGTklIdUl3REhiUnp3Tl9XTFRUWmdVS0tCUWdKSDQzaXByZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Keycorp (KEY) Set to Pop? What Market Breadth and Unusual Options Data Suggest - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWXNvb2NiTlk2SzZnSjN0dFc5TzJqYnRWMVFzTGNHY3paUlYzd3JTOUMyV25wV2Zaejg0QWFVdEFBZ0ZKNjh4eWFqeFpaczJiWWtPb2t6YTBnOXZ3d2JDaU5tS25nMmVGQ2NZZWcxdnlncDhMbkt1bHBHVWh1THJlbE8wOTFKbUs2dXlxUTMwcS01TWpfRXFTOF9ZdHhRVlFqbEh4NGQ5NkRRbXJIRndnbFRrbzVNc1BqVTV4ZXBpUFNkaWtFSGI4SEhwdDNTWTBaU3VpRFd3REY0dHVtQWs2SlUzNVpSX0FNdm1uNEEzX0MtNzY4ck41akp1Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spotify (SPOT) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXB3UFE2RGVNSDNzdk9Jelk5aXhQdkRPWnVIa3RDeC1ULURTNXcwbzBiRW5BTEZCQl9fRzBsYXFSVjVTS08xUkYtbFpXZVlfQjVLNktldmVQMmRHU19keWxoN2llMml3TW9jWTJ5eUpJYjZydXM1UTJSLVRLSWphYQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Investors Are Focused On The Robotaxi Launch But Is This Key Market Drying Up In Q2? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUk40Y1Q1SHp6ZzBxaWZkbFNpMjlTQ1BQdG1tcjlBMGF0OWFpalhHS283aWVxRi1kUFJERllqaDZjSDN4TllnUzB0QnYtMUJvNFROZW9la3FUUkw1ZXdZSjZHUEpCMEZFSFJidWtOYXhGbllUUDY4aXBBWW1hSTNxOEdmT1VQS1ZiTF9EVjJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Futures: Amazon Breaks Out; Inflation Reports Loom - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVM3YWVwY2Y3M0FneVRPTE40NTI0TDdySm1YS3Y0ZnlOSWtyQkdnUm9sUUlTR1BZYms1aHVIWGk1aHpKQ1pQR1ZlR3AtRWRzTXBNT2M0SWZoMkVzN2traUI1bGJzRE8wZFE1cUlvUXBSWV9hcXBjaTduVEw1WEFmSHVyYm9kMU4wWkk1MEFXWF9JUlljZGVLZ19aY0JxN3BiRU9nOElPOUctUDFoX281MEV6VXp0VU5xcEZkalNWbVpBRm5sQjdLbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEY Stock Up 3.5% on Announcement of New Share Buyback Plan - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EYzUwc19adzRyeW5BN1FPdTl6V1RuVkhtaE5JcG5iNkhfUFlFeUE1bVJjSnRiUzlIenhyejJNcU5iVUsxWm9XS0pHaEttdllTSWtzdG5Id2thTHgyZzRxelJWbGwxZWlDNFQ1bVVhVWtkcjhHOFNpc0plRUQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlVLSmlNTnFYS3Ewc1RoTVhwMDNFT0FYY0lvcUFuelVqMUNHbi11d0lVN2gybFRwcjRHc0wtRENzN0h6dUVqMlhRUGl2MDdZck5rZV9CYzJBNHNWbEExN1dJMEZHdVZWUXZydmQ4VXIxenphZkI2WFh3NmtXMEVaRGwzS2lDZGpIbFVid3Y4Zzg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "KeyBank Transforms Digital Banking: New AI Partnership Targets 70% of Customers Seeking Financial Guidance - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMU1XOTVjZlNfMmpLdV9ZTEM2ZVpINmJuN0J0a1JORXMtaVNzb3F4d2FFZHVOQjJyOWRWRE9KS0xEQmhVTTBfeTdlZTZiVUZyeFh5bjh3Y3RJZEFpanNGV0ZDZG5iV0lPOWh4MGhNZEE2YmlDSVVtaXhuQi1FektOZUxkOVg5SGN2SHZDdTJJdGg3ZlJ4OVFGMVNZNWxrcE9vanlJN1JCQ3kyRUc1d1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tesla stock slips as sales in key European markets crater - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1RUcml0X3h3OW9kOURzVEtzd2RBdnNPbDlsYS1nSXhtdHNCQ1NQdUpXcGY4bVN1RDdGREJxRVFjRzdWb29nNm5rZXlSeWhHalIwZGNJR3ZRWnQ3MGNZT01BSFJlb3NTUmhEVVkyMHNEejZfajNiYmxqMUxqQlhRNER1SWROLVdnU1c1LXptX2t5V3hnY01mcTNHRWx6UWUyRDB5T193?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla Breaks Support As The Musk-Trump Feud Continues - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX19xMnk1SW05TkZRN1h1T2p2VHpNSElyZUlETm5jUzJHM1BBbmw5eWZPTml1Vm95bmZIbEhMUlNZOFdtbGt4X1BkTktfcTQ0bmVpS0JHckRmOTItYzRXenptZHNMaVRuYmF2MXpUS0hYaU8zcl82TGRuTUV2c0Q1ck55LVdLb2xG?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dow Jones Futures: Tesla Breaks Key Level On Demand, Trump; Big Earnings Due - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdU5jZ1EyOHZmZldUaEllQVZyaHJmZXR4eFJtUmRpTHpEY09BLTVtT3d3WHdWbFRTaDNoSlVEaDQzbEJIY1M2bW1PRXZyR3ZUdGpuRWNzcUdRV2VzOF9sMWpldFhGYl9YMnI0WEh6VEdyaFRvWC1falZNOUZFUmJwemtZMzI0Y2RLUFB6WFpjalM5aE96OHg1aUJ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Market Today: Indexes Mixed Amid Fed Report; Tesla Tests Key Level As Cathie Wood Sells Palantir (Live Coverage) - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnprS2FfVF96S2JTYUNfblFOTnZYN2x5el9UUDV5UU9temV3RFBfQ2dfTEQxRjRUZlJvNGtYV20zMkxpaVltMjBnT3h2R1VxTFRwT1htcEk4LWZET3poemdvV0ZaWVJibzhBeU5rZnFwdGdlRS1wRU1Ob1FzbVBWeFRieGxiYURGdWhmeTR6WmZ5bDFXS2hibWtCaTEwMnQwU0NUVDEzeVZVSEFfLTR1Qw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Dow Jones Futures Fall Amid New Trump Tariffs; Palantir In Buy Zone As Tesla, Nvidia Fall Back - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRU00UXpDUzd0UGZIam1GRzdXN2dmNW9ZWnkyakVOSy04ZlMxTWtneHAtTnZ1eFJsMlljWlMzaHJ3VHBaN2RWSnN0OUlDRXp0cW9wUzFEbEh5SFJ1d196VEpLRjRsN25MWThaS3MyMmVpWWRvUlItRy1nLTR3Z2N1aC1zc1p5alNiX2F4SWg0OGJ2Y1gzRDlFanNvVzJfR1E2aGRLVi03dDhtQjVsamtrZkRhU1BEUWRKVDlJcVhQUDhyQ00?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "NCLH",
   "name": "Norwegian Cruise Line Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 8670289920.0,
+  "market_cap": 7915186176.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 11.025569,
-    "PB": 6.075454,
-    "EV_Revenue": 2.471,
+    "PE": 10.065341,
+    "PB": 5.546337,
+    "EV_Revenue": 2.441,
     "ROE": 0.95873,
     "ProfitMargin": 0.090550005,
     "GrossMargin": 0.40471,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.07965662112021987,
     "ROA": 0.043959998,
     "PEG": null,
-    "EV_EBITDA": 9.585,
+    "EV_EBITDA": 9.469,
     "BuybackYield": null,
-    "PriceToFCF": -11.595421532395628
+    "PriceToFCF": -10.591657112051257
   },
   "technical_indicators": {
-    "RSI_14": 62.68131724250278,
-    "Momentum_10": 11.697241661173743,
-    "MACD": 0.2248781351650599,
-    "BB_Percent": 0.853359153138031,
+    "RSI_14": 44.45220671742405,
+    "Momentum_10": 0.7648738345586292,
+    "MACD": 0.2364208717332268,
+    "BB_Percent": 0.3223479918668173,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9321923000974812,
+    "ValueScore": 0.889504698794714,
     "QualityScore": 0.2415844539342761,
-    "SignalScore": 0.4189277233030446
+    "SignalScore": 0.6048261383170777
   },
-  "volatility": 0.0371125370390622,
+  "volatility": 0.036858434876927,
   "beta": 2.126,
-  "return_6m": -0.2981916472201031,
+  "return_6m": -0.3380596911888603,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 23,
-    "target_mean_price": 24.86522
+    "analyst_count": 22,
+    "target_mean_price": 24.90455
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 25.96
-      },
-      {
-        "date": "2024-12-10",
-        "price": 26.4
-      },
-      {
-        "date": "2024-12-11",
-        "price": 27.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 26.81
-      },
-      {
-        "date": "2024-12-13",
-        "price": 26.8
-      },
       {
         "date": "2024-12-16",
         "price": 26.62
@@ -537,42 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 19.56
+      },
+      {
+        "date": "2025-06-09",
+        "price": 19.59
+      },
+      {
+        "date": "2025-06-10",
+        "price": 19.74
+      },
+      {
+        "date": "2025-06-11",
+        "price": 19.08
+      },
+      {
+        "date": "2025-06-12",
+        "price": 18.72
+      },
+      {
+        "date": "2025-06-13",
+        "price": 17.78
       }
     ],
     "current_price_data": {
-      "price": 19.56,
-      "change": 0.21,
-      "percent_change": 1.09
+      "price": 17.78,
+      "change": -0.94,
+      "percent_change": -5.02
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Norwegian Cruise Line Holdings Ltd. (NCLH) est au cœur de l'attention des investisseurs, avec des avis partagés. Alors que certains analystes maintiennent des recommandations d'achat et rehaussent les objectifs de cours, d'autres réduisent leurs estimations de bénéfices. Malgré une hausse récente du cours de l'action, des incertitudes persistantes entourent le secteur des croisières, incitant à la prudence. Les investisseurs doivent peser les perspectives de rebond à long terme face aux risques actuels, notamment liés à la volatilité du marché.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
+    "summary": "Norwegian Cruise Line Holdings (NCLH) a récemment suscité un intérêt croissant parmi les investisseurs, avec des prises de position notables de la part de GAMMA Investing LLC et Transform Wealth LLC. Cependant, malgré des signaux positifs comme le lancement de la suite de croisière de luxe à 25 000 $ par nuit par Regent, le stock a connu une baisse de 26% au cours des six derniers mois. Les investisseurs doivent prendre en compte les préoccupations des investisseurs quant à une nouvelle taxe sur les croisières, alors que des analystes avertissent que ce n'est peut-être pas le moment d'acheter des actions de Norwegian Cruise Line en raison de l'incertitude persistante du marché.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "NCLH: Analyst Maintains Buy Rating, Lowers Price Target | NCLH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHd1R29BaHh5WEpfYVlsQjRsVlZkRGdVdldaUHB6RlhMaXItTkt6YjhCX3JwT3N4Tjh3YWZHYkx5cjRmcmpRa2hXbDRtMzFLU2cwTWVwcVctN3V5bzRwWW5CNDltZ1dkY3pjR0l3UHdUZ0JqTGMzT2psN185NU53NG13dzlMbjh0akU5bEdQZDNuQWNjZ0x1VkxkWGpRZEloaUMtNDdqM3A2VHk1NkRqZGlnRC1yVlAwTUplYQ?oc=5",
+        "title": "CCL vs. NCLH: Which Cruise Stock Offers Smoother Sailing in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Z2t1WG9UYmhNOVlkLVYtblpCYmxEbE1KbVFhTXFpRGRfX1BKRGV2aGwtY3l4RldwVXNNamE2anVHenhYWjRFeks2cDVhQlFyeVlDMEY0S1BWYk92U25ZWDhSUHZiUTJ5LU1XUDhQeDVqMC1rNmoweERn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Norwegian Cruise Line Holdings Ltd. (NCLH) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2hLQTZyNkVWc2FpelpYcVRrcXFjWTVGYVV2ZE9peV9nQWhZMHFtX2tsMDFBNURPaW5CWk5rY2swSktZTGdQUWxxeUU5ajVQRC1IbkVTcU9oTG9LUlRRcGxyVUk2bEh4cjVjd3FidUFYWmlqTThTMHc2a0F6X3ZtRHN1WTM0R3M?oc=5",
+        "title": "Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) Shares Bought by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdElRV1ZhTms4WmE5U01ma2tEcVZ2N3FaeDZPdmpZb20tbGI3YWFPbEtkV21BYUZnSmpNbGgyZkV4ZUx4S3dyTVAzSVl0cmNDOTRVdGhQaVl3OHlpeU5fV19WNUw3b2NBTUlOLTFBODJJYXB2X2dDYmxKM2xGR3FYajZWUlhORXJwb2Q1amVnbENZUVZlQmJNT1l1LUkyeHZ6dFlPMzJpMkNhaURjbWpTLVdDZnlNUGlwcE9URjlVbFI1cHhJMVFTeXk1eVNxazU3dEZYUFcwdGY4NHVwdzRQOQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) Stock Position Lowered by GTS Securities LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUQzSFU2aXY4QlB5T095c2piSDlfTUVQdjRhZ3piX3hwMkdlMHQyM1hadG5TNktVLWlEMW9GRnloR214YUhaVENfeE1CWlRYQmlpcDg0SE4zLVJ2Wm5KNy10clBHNGI4UU1iazVLTHR5Y3lVek1lN0hHMmxjMXNhOXNmODhjYTNvZzlRM0E0cnlvaWFXak91a1NRU2FpTG5NUjhRRzk3UE1YTXY0MVI5Q1ROS3d4U2NCVEN4dF9CV1BzNnZnNzBkVHVWZ0IwS3JRQUp1S09SQQ?oc=5",
+        "title": "Norwegian Cruise Line (NCLH) Stock Sinks As Market Gains: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzQxUnZpeml6R3pWZjQ1QTlHYmF3QkZvLWN0QVB4bnJCNjI2U2Nrbk44d1Yya2hIakRJZ3pnX0NESjEzREs2aVkzQ1IzQVR2T19od3ZwSGFBTFhjdE43VEZRRE80YzNSelZGTXRNWTNVWTJWOWlKRkNaXzVGdXlhbmQ4VzFUTHI2WHZ1MHptRTNOTS1TRGZneWFPbTRNX2N6UTM2M0NmbDJYLWtnc0JuSXZ3MldyU2F2WkdLZDBmdmdDYVp4TncxNA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Norwegian Cruise Line: Choppy Waters Ahead (NYSE:NCLH) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREV2SHM3N0tJVXZFdVNxYmZfMmZIVUJqWEZxUlJZS0xjTFpBbkJCRDVQbVppZ0hKMmw4bi1HdnoyUUNGbUljSDMzbXM5SzZYaTNOcDQ5SXVja2JyWWFjWFNwQ0tKZExsM0xkbXJ6cVczM0ZVWHZCU3FraDMyM1NHLVh2LS1OWi03MWc?oc=5",
+        "title": "Norwegian Cruise Line Holdings (NCLH) Sees Increased Bearish Opt - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWktpTHdnUHFsWDQ5cFJvNGpYZW84SmlrRmVscUE4UFQ5X3l4X1R0VlhsUnZQTUhhM0ZCMUhEb0J0LTN5OGVkcjBQYjd6OHBCUmhZQXU0NEo2MWY2Y3R0cU5vYkJfZTZUR1ZENlEwYmFpaUdRNFZ2cGJDWjE3RjFMUUZQZFpyZzd3dVM4V3pkb015Wmd3cEtFTjFLcDVmU2FsMUtlWUh6OG9SM016MWhtdXozZVBUajNjVzZOUEJUbVFuUnhNREp1QkZn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What's Next For Norwegian Cruise Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFl6QUx3WUFOMzlrRnJfR1BWTXhucFNVY1kwWHdlczZZMnNBclRqQTFUR01UTEpROWw2TzhWZEg1LXhfaUdvZXh0OWJjMVpaNVJ3ZWNDVGhnTUU2c1duRndrZXQxdGg1cjBvYUF5YU84LUFJeGdoTjhnYmhFVkRtT1gtOVJkSzFSb3FMRENGSHAwUWJxbW5vU04zZko?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Regent Launches $25,000-Per-Night Mega Suite: Inside the Largest Luxury Cruise Cabin Ever Built - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdWJiS2M2eVcxZWxBUDV3enZBWlkzV2c1VGlJRGd1Ql9qT3RqdEJKWEdfRWVDNDQ0WHpzd3ZJQVJTckN6b1FKNl9Za3J5aDh2d2doS1Fmb3NXaDc2WjBoT0FFSFhhZzVjU0VyR1RmbExmMExJUmNTcE9OXzRDcjZVWjVHekVkcmtMVVd5Y29pd2hPNXcwOGpheGYzWFc4Vkp3dHN1YkM4VXlpT0JWbUNuaktfVVJYNGM2MkppUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,13 +591,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "What's Next For Norwegian Cruise Stock? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFl6QUx3WUFOMzlrRnJfR1BWTXhucFNVY1kwWHdlczZZMnNBclRqQTFUR01UTEpROWw2TzhWZEg1LXhfaUdvZXh0OWJjMVpaNVJ3ZWNDVGhnTUU2c1duRndrZXQxdGg1cjBvYUF5YU84LUFJeGdoTjhnYmhFVkRtT1gtOVJkSzFSb3FMRENGSHAwUWJxbW5vU04zZko?oc=5",
+        "title": "Norwegian Cruise Line: Discounted Stock With Durable Growth (NYSE:NCLH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWJXYWVHa3hIVm1POGIweS00ZklZVFBlcVBYZldzNkNkRWM2VkdtMTFFQmxaMzhwdklFdFk1M2tfS0dFNVdoWWpXc0tXTU1UQ19uUVQ0ckNFUjZ2bmtRcUZaRkFYRTZEeTdpNUFHeWpLVC10Vl85dVVGNG9tTktQX0haYnRPSThzNDZON1hXYTctUVVkSlJYSlF6MjJZZkVE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NCLH Stock Slips 17% in a Month: Should Investors Buy the Dip or Wait? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDVQVGpGWXhxWE1RclJQREFzRHRzTHFmSEV6TEV5RTMySGZEMGpmQmRIQzdDVl9pbkNtb1NLVzhQM1A4RlNhWXR4VGNER1VtYld5MHZwTURGUWtoTzVrb2t6U1NkOHNud2NZNlhhR0NrSkx6MjdMb2NGUGFfVWdLSnltak1zcm56cmZGUkZ2VS0wVlJnNkRKU0NKSVpIbEFhc1VRcmY4NFZpbVpqMm41ZFhWXzRaZGJsVXVDemxn?oc=5",
+        "title": "NCLH Stock Slips 26% in Six Months: Should You Buy, Sell or Hold? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVhRR19XQ3FnZjRjLTNlT0djNmEtSTRFb19hSWFRNTdSX3NtTzFYSTBSV2NlV1Z1QWlNOWVqejVVdGwxQVFlTl9ocjR6OHBlYkx5S1RvUGZUTTZVZUJMakRUT0xyVTBYNllkckZYWmZ2RTNvQklmVGMzNFg4bzRfMURHQlVZRldPTm9tOE1kbXpyMnJHY09IdmFybTNwVmp1Y2dubA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(NCLH) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3kyNHpfRi1wdkRqektCRHF0ZXJpbmtlTGZoZWpKLU5PcThnV2ZJRmJhYmZWSVl6My1qalpMd1pIMlVTeW9OT08ybVZrS3ZKLTU3UV9oMldidFc1eDhCQjgwc2czcXRMakptRzJ5TFZWTU5iVEtBRHFjd1NsVWRTWV9ya0Jwd21OSHowUHhFTDhkZUFDTHVyWWlSTlBzaGhiWVBwQkxKQm1uZkNTQWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norwegian Cruise Line: Investing Time Horizon Is Key (NYSE:NCLH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmZ3MEJodkN6bGxDN1BkLVVMZkQ2cTNNTUpjcEx6ODQyMk9Wbk9wc0RKNjlXcU92dENMM2ludEQ0dm1WSzFjNXRLdUZ1T1dfN1AtbWF2RUlfSmdjekpIUWJJbkM1dE5rOTI2N1l1QVRTeER6YmhjeGZPWFZycjBtOTVqaVJ5QkFiZDJEU3BjbTk2MU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top weekly S&P 500 consumer discretionary gainers & losers: Norwegian Cruise Line takes lead; Lululemon bottoms - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3JQbkd6TkR4UGtkQ3I2TEN4a1FVZkk2YWl1RkJSMGhzdnJLbXRmU0V0UC1vc0ZPbWlGc1FSbVAxMzFSNUJwNEpickJ4aDlNZjVaVExydjJoTXhxTG1MVHBaWHhLSFhIM0Znc1ZQLWx6NUZ0Wl9pdTh5dmVNaVhqeDFCWHlYNDh2N2pHV3lIZ2trWE9seHo0Zk02cXRjaEJ1M09kVWxQS0x3WnFhOF9rT3M5RFExNGpwTW1HSmp3RWZYZVYwZzhKVTh5RUI1aUdCaDBTTEd5NlN4QzRX?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Q1 Earnings Highs And Lows: Norwegian Cruise Line (NYSE:NCLH) Vs The Rest Of The Travel and Vacation Providers Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFo4YlVaaTRra0oyRVktWERKUWxVemxSa2dRN0lHNDVTS3ZKZERERUtla2xNTDVwZ3FHQWJPQnlnVGpsUVdXT0ktWmx5Y0hyOFNncm9FcXMtUjI3VzhxakRqTjdERDNqNHAwdTdiZEhPcWVPOVA0LURKOWYyZUlwT0NQWGs?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -596,66 +626,36 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Zacks Research Brokers Reduce Earnings Estimates for NCLH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2EzcmRtVlZEUGU3LUg5UVh1MnVSOElfalRlS01pT3RjSmM2Sy1wR3R2ZE1RSTF3TjJtYkVIeXV3NjgtZlU5VDJZV2lQSXFMMllmZTN0RG5pYVAtNHl0VUJsN29SSkU2bWF6UHNxSE1wXzBMZU92d21zbkQ0YklNMVl2Z2ZmMlJwM0dueTdfSzZzVklGdjJoWGhoRVFMZzNXLU9DV01ScnBEekotbzVidnY1QQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Norwegian Cruise Line Holdings Ltd (NCLH) Trading 5.97% Higher o - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0djblBOT1BMaXQwZmRXOE9VNm56TFJ2MUtYdlJQekM5b1lQRWlhcWJnMERiUUxiVzd1anJSaHBTMGV2QkdsTEpueVVqdHFvNEYwbXFndl9hNE1Mb0pCZE4xSDdoTWVydElCNjdnWWd1TkpXXzFqSWhsN19vYW04cEZ3SlpBdzFZMHZfa0tva0dKaWNsRlM4MmJfQmRoUmlRejVOSGQ5Vko3QQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Citi Raises Price Target for Norwegian Cruise Line (NCLH) Amid Positive Trends | NCLH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUZSX3VrNlZKNHhUb3I4QkFoQXJYWTltcTJYSVRyekdIbVdEbk9UUmdRM0VtbjNyc09IWm5helM3bFQzMjhvdzFyV1RTOVUyT01lNzNWVjhpSVcxQ2JseTZiRk9GaWpnc3VqSDMwcEZNVDdIWUxzdnJPV1FJWWwxZHJDZl9iNWVPNEpHR1ZINi1NWUdzcWtCc2cxOUF0T3hXSllMX0pYZ1JMMHdJYWlJaFdRSk9vWk56YUJiQ3ZpRmFrb1JTZDMzNnd1MEI?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Norwegian Cruise Line (NYSE:NCLH) Price Target Raised to $25.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzc2TnZ5QXVCM3JVN0E2eGtVelh3V3NzdE5nV0dpei1EY2pkWHdqSDRlc2cwU0gyOWt3bW1pUko4bUZ1SjN5cHZRdGN6MFBfWlp6eGo4TjFxa0dBeTN0c2VzYjRzNkt4SzJtRDFkR0piVzItSG1nQVZaN1JsLURnZUFPbktkQ2lXUmpoME13SlVreFBZTU1CcENyMXlsS0cybEM3TWgya2RqSmI5TFZKdVB3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Norwegian Cruise Line Holdings Ltd. (NCLH) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0Z5N1J2M3h4QVdhQmtoblYzeUJHZVNMdEZQSzYyMUYxbE5CTGpDX3pfYTM1Y2RHZTJKaWJKbHVaUXBEV0tmQmpGclZPdTlBS19DZGlzeHNFMGg3NXVVWlB5QUxYM3FoaXA2bURhMlRXRVVBZzlFWWgyMEJRUllid250dmNET0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Citigroup Raises Price Target for Norwegian Cruise Line (NCLH) to $25 | NCLH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTlWLWM4S0Y1dmJZT21YSkl5SzFxTVMzaWpRY1VnMlpUMGMxR0dUWTN2bEQ0cWhHQlFULUJJRTU3ckpaUVhEbVQ1WHZyTEVPMFJJd01GdDBZNHhuWk5vMUxkaEVmTTBobjBtSXp2azhUemppOVBwTzlDaGRtV25HTE4za2ZKd2xBcko5TE11Tjdna01Bd3NQSTZTek83R1ZFWTlKa0FHYWpiQnFHWHNYNXgyUnBSb2NRMWRpd01B?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wellington Management Group LLP Has $21.40 Million Holdings in Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONWxuZXBqdWZJWUZYYnBEYUVlV25JWHRZbEI4YkVENlFwTXp3aDYxUUZTd0tjMlBUNEJ2OWVieHpxMWEyZTdzQnF3S1BQVnNxaDgwU1RfS2xVQmI5bEZHaVRJbjJkUExDMTJFeFFWRWRzODBqR2ZQUWxCLTYzYjNINTk2Y0hXVzRBT3Qza09scURvWmh6ZldYY0t0aG9aV1otRlNLWWxoWEVRbzdvOHU2VnlMREJCLWZaWTJpaTVkQWM2bWwtM185cTFsM0JuSzdHLU1sX1ZsVUl5aWhCQW1PWjdKN0ZtSnpOVmY2OGd2emwwb2d1?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CCL vs. NCLH: Which Cruise Stock Offers Smoother Sailing in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Z2t1WG9UYmhNOVlkLVYtblpCYmxEbE1KbVFhTXFpRGRfX1BKRGV2aGwtY3l4RldwVXNNamE2anVHenhYWjRFeks2cDVhQlFyeVlDMEY0S1BWYk92U25ZWDhSUHZiUTJ5LU1XUDhQeDVqMC1rNmoweERn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Norwegian Cruise Line Holdings (NCLH): Among Billionaire Jim Simons’ RenTech’s Small-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXo3bDBqZnFIbXJON2ZQS0FtUHRKRjNSZHVnV09URVFNN1JXZjFValp0NmF2T2lzd1QxSW1xUmI5aUlkcW1jM09Jbm9lTFJEWHFGbVdXWWhFRHV0LUwtMVVLR2taZ3lKMDFRSE4tMDQ3MkllU25UdmgzWnN0VGRrMEtTdHFLOUY5?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) Shares Bought by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSVQ0eFJ2UmkwQjAzTHdnam5Qd0NUcThfNXQwTTh1dkx1R2FJLUtUZG5mejkwdlRiTHlZRjFIdTF1ZWVrYjVkX25nSTNUMEkzc2UxQTNaRlAxMjl4LVYzVmhMTmEyMEJtR2RyeWE3QnlBZmFPdEVMTDNuTkFlZEE4Zmc3RVF6SHJtMDlmblpvd1IyTnoyc3daMC1VVVR5WG9IenYyZ2o5dnBUc1Rnb2tHU3RPWTVFa1R6dkI0Z3RhN0VJd3lpNkhGUlpkSkViZ3JncERtQm1MOG9KSGlRdEllS3RVLXZESW00cDB1bWcxMmtNY0RyTDRwWk91dVdwN3BjMzdrRXVDM0VVYnpNUlE?oc=5",
+        "title": "Norwegian Cruise Line (NCLH) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZiaFpZSzRiSDA2bEVaQ3JrZ0JoZHVfN0paQ3E5SGhZT21QcHd2M1Rlcjc3S0JYeUZ1QV8tU2dybVhLUGo0dnlDUE11MEtwazRDRGFBYWxaRlRsZ0dLMm9VY1RWUVdoS1UtUVpQY292MXU0SVAwOUJTMDkzQ1V1OXAxOFk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Acquires 33,231 Shares of Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaUdXLUEwYmJJLUNlMTBlLWptV0RnS3FRbFhWM2phUnZOTHpBMmkyR3pOTnJTNkg5bU1lODVpSEVtamg2R0tKZmN2dHY4V2hqUzFtWlM3UEhYUjhhQzJUU1pPTnZheU0tM21rZ2xQNjhrdWNrZ1NEYW43VVdnLW1JZ0tkeWw4OWM0eWRXRlZnMVRSM1NRakVhRXpsNGpLdzdERUF4ZEpzVzRPOVoxMEd6eTVtU2J2VzFxVUxTTC1ucngxZkxpam5nVWNfbmdDQkhCeXQ5UnI1emwxQQ?oc=5",
+        "title": "Norwegian Cruise Line (NCLH) Beats Stock Market Upswing: What Investors Need to Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZmlQSTJRMVdnTllWVFI4SjllckNxQkpnei12MjZ6YnhNZ0NWdDV0YmlHZ2JhcHZWeEMxMktFcVZ2U2d6MDdBTlNRRGVkbTBLN1lUVTVCRGxyb0plV1lJbkY4aFNiRUhOZE5RT1Z1SHk4R3pWNUk0alpTZG9GSkstVTBuMUhuNHFfUmhULWFtRjNOb0wzQnAzV2tZSUFIR3REZzNQcnhDdHpHR3MyTVlocFdGUjY5a19DQ283aFp2ZDhWcmR6N2hjc2N4aXFzSGZn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Norwegian Cruise Line Holdings Ltd. (NCLH): Among Billionaire David E. Shaw’s Small-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGVUTGFHWFIzN081SHdFSUd2ME01dFFZazF3LTlYYUp0X3RzTVBCOTlqV2xjcW9zRU5fdDdSbjBxNmVHWGtyeVBYT2Q0b3ZGZm9ydG56YVp1alVMaDlVQjBPUEROSGxFak04SF9EbW1PN2NTVmhUbVZwX1JxUjZKM1g2Uk15SFU?oc=5",
+        "title": "317,943 Shares in Norwegian Cruise Line Holdings Ltd. (NYSE:NCLH) Purchased by Transform Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWTNiZHFMLXFBaFk4RHl5cm5BZEJ0azEwVEd5VW9jZmtOdXVCVWRsLVRBalppd2djdzJMelBnbmJrZThKRUZRLWhqdUFnN05XM3AyeDhmTWxVZFNkeEF2d21SbFJOYzFJSDAtdk5WUmw2SkNvOUYtV3BDX1djRUFEdWZxOXZkRDB3Z09tTWYtR01qVm5jR2NCeHhRSzZsSjYyMWQyRS1IRV9odzkwQ2FCTmF5dnVuX1JiaUlYNTJCSi0wWU4ySWw4QWpnaWx0bjg5My1JMnROZnhDbktXUHZNZkNYUXpPQjQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Norwegian Cruise Line (NCLH) Stock Moves -1.35%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU9zSFVDSDlibXpiMDhWWUZoc3dPVXoyUGw2WDFGdFl5XzlYYXdsek9MT25FcE9nRkkwWGhzdGtXWHRlN2JTY3NBTVdsUzZqSXRiMmFDajdEM09idl9sUTh5VFFQT0t0SEVpRVFlT0N6NG1HNldhYTNhVEFXN0FvUXk3Umk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norwegian Cruise Line Holdings Ltd. (NCLH) Declined on Investor Concerns Over New Cruise Tax - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmdJWEtOLUFJcVZfX0FfUURLb3RmeWZuSzFDcnNpV0JEaURUcjdtbDRVRlFqZHBCR2VsWWhkOTc4Y2JjZ3BIOUdHdHpMcVMwSlpPcklma1RhZTd6MkgxXzFpRFRodUJlODFtckFKSzJwcEtXaG1hLUdpdS1aOC16MGtCM1phb1k?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

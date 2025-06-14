@@ -2,16 +2,16 @@
   "ticker": "ENGI.PA",
   "name": "ENGIE",
   "sector": "Energy",
-  "market_cap": 46526181376.0,
+  "market_cap": 48239411200.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 11.603031,
-    "PB": 1.5218601,
-    "EV_Revenue": 1.198,
+    "PE": 12.045455,
+    "PB": 1.5798887,
+    "EV_Revenue": 1.209,
     "ROE": 0.12886,
     "ProfitMargin": 0.055630002,
     "GrossMargin": 0.33083,
-    "DividendYield": 7.67,
+    "DividendYield": 7.54,
     "DebtEquity": 126.485,
     "CurrentRatio": 1.089,
     "QuickRatio": 0.718,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.1193081793254663,
     "ROA": 0.02868,
     "PEG": null,
-    "EV_EBITDA": 6.541,
+    "EV_EBITDA": 6.6,
     "BuybackYield": null,
-    "PriceToFCF": -5.28323846485153
+    "PriceToFCF": -5.4777827286959875
   },
   "technical_indicators": {
-    "RSI_14": 65.43263978791232,
-    "Momentum_10": 0.9225152912155482,
-    "MACD": 0.4053470695336187,
-    "BB_Percent": 0.720143405788357,
+    "RSI_14": 75.71421270291582,
+    "Momentum_10": 4.687908143459136,
+    "MACD": 0.417672681942296,
+    "BB_Percent": 1.1812049547820755,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9343422426162182,
+    "ValueScore": 0.8947394688053023,
     "QualityScore": 0.370087428931985,
-    "SignalScore": 0.5006229585130106
+    "SignalScore": 0.4364725629432624
   },
-  "volatility": 0.0122171754678014,
+  "volatility": 0.012248635096984,
   "beta": 0.693,
-  "return_6m": 0.3632767719705509,
+  "return_6m": 0.4175824467341582,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 15.25
-      },
-      {
-        "date": "2024-12-09",
-        "price": 15.28
-      },
-      {
-        "date": "2024-12-10",
-        "price": 15.15
-      },
-      {
-        "date": "2024-12-11",
-        "price": 15.19
-      },
-      {
-        "date": "2024-12-12",
-        "price": 15.09
-      },
       {
         "date": "2024-12-13",
         "price": 15.23
@@ -545,21 +525,41 @@
       {
         "date": "2025-06-06",
         "price": 19.15
+      },
+      {
+        "date": "2025-06-09",
+        "price": 19.14
+      },
+      {
+        "date": "2025-06-10",
+        "price": 19.11
+      },
+      {
+        "date": "2025-06-11",
+        "price": 19.33
+      },
+      {
+        "date": "2025-06-12",
+        "price": 19.62
+      },
+      {
+        "date": "2025-06-13",
+        "price": 19.88
       }
     ],
     "current_price_data": {
-      "price": 19.14,
-      "change": -0.15,
-      "percent_change": -0.78
+      "price": 19.88,
+      "change": 0.25,
+      "percent_change": 1.27
     }
   },
   "news_sentiment": {
-    "summary": "La performance de ENGIE - Sponsored ADR (ENGIY) surpasse celle de ses pairs du secteur des services publics cette année, suscitant des interrogations sur sa sous-évaluation actuelle. Les actions de Gensol Engineering ont atteint un circuit supérieur de 5% pour le 3e jour consécutif, tandis que des analystes ont revu à la hausse l'objectif de prix des actions de ST Engineering, les faisant grimper de plus de 8%. Les actionnaires de Engie (EPA:ENGI) ont bénéficié d'une croissance annuelle moyenne de 16% au cours des trois dernières années, malgré une perspective de bénéfices en baisse. La participation majoritaire des investisseurs institutionnels dans Engie SA (EPA:ENGI) souligne l'importance stratégique de l'entreprise pour ces acteurs du marché.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
+    "summary": "Dans un contexte marqué par une volatilité significative, Engie SA (EPA:ENGI) suscite des interrogations quant à sa valorisation et à son attractivité pour les investisseurs. Les récentes actions de SEBI à l'encontre des promoteurs de Gensol Engineering ont renforcé les inquiétudes concernant cette entreprise, accentuées par des problèmes financiers et une possible mise sous séquestre de ses actifs par le NCLT. En parallèle, des événements positifs tels que la démission de certains dirigeants chez Gensol Engineering ont entraîné des réactions positives sur le marché. Les investisseurs institutionnels détenant une part importante dans Engie SA montrent une confiance relative, mais la situation reste à surveiller.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
@@ -584,24 +584,29 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Gensol Engineering Faces Financial Struggles Amidst Significant Stock Volatility and Debt Concerns - MarketsMojo",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXdyRVdSaVZwU0FSSWtTbWp6ZlQ4bWNoZE0yMlQ3bVhZanhfY29iWkFDQURoODFhRnY1RFVqVmRwOUpFM0FkaE1ZTl9Nb1V6dHlTVUx6WFRJSmtsWDVLQ1RKY3pncFNaSVpmX0lmX2pfM1hrNUFDdFF5eksweGpiWFZIb01faG51cXQtVldYb3EyS0lvUEZwNmpfQ2hlV2VXSHBZUnl5SjVneXo1NXJIZFdfZjhFN2ZEOTBHbjBLajh2LV9ydXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Is It Too Late To Consider Buying Engie SA (EPA:ENGI)? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlM4MXJFbnBiSnBISkJ0MmYydGNVQk5IUWQ5VjFpMzU2YTdCYlJtZEdweXhlblg4VWNsdWg0SVYwRjY0cE5xRG50Y2pwRmJQRmlTUmpqelR3RDFNTE9UY3FRZHh2QVUycG9kZHc2VnJiam1RNEM1TkdTSFBrR0ZUSUZYQjFzcms2dWhoX2p5aHVPSWxEbVlhRl9CblozQmEySk9TQTI2dDNMZjQtWndNSlZnSWdReXVGYlM4Z2h30gHDAUFVX3lxTE5nUXFZWXUwX3hOd2Y5Q3JGeG53d2s4SWVPWDlWUV9mVVZKTWxlaFNsMGIzUW1ScUFTMmNDSjE3NHBOUVJMdDJYZXM4SzFwMXFSQVRPOHFQQUZGVUdScG5ldVBHQVU3eEYxN1ZQZVFoSWZQSkZTLUp1Uy0yZWQ0dzJHTlNPalRnQ2dUWV9BXzhSalRsa0ZvWUVoa3ExQW83TmtFUzU4M0lrNUhlU3c0V2ZlVDZGVHp5eG55WElVODRrbTdJYw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ENGIE.PA - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KOHNoOUhpbU5Ndkd0NFNrSTJmYUJCbGhqTmt1dkhZQy12NHhBZ05wVklVcmIwTjRFc0JhQjk3V2owV1NWMzdzVjAwYXMwSmd0dDVmTUZlYmZ4SDdhQUplQw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ISGEC share price target 2025: Engineering stock down 22% in one month; Good time to buy? - ET Now",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTS1kZFBwcl9TRE56dkNHbWFiQmFiQTlHaEppOEdOdWpDa01adnhycmNOUFdob3N0Z0dHeEFSTVBwZ2VFU2Z2T25YeG10M2JyWkppVExWTHhSeGVIWU1BNTFvQm4xLVN3M1pPLS1GQ1RGclloZ01pYlZNdVhlckhFdUt2MV9ya1c3aG5LTjFEcF9mSFlPYW5URTIyZXlOYm94VnBWMGE4MTBwQnoxdzhFX3ZoS1pfZGJKVG1NRzBIUkRDMGRuZW1tcVRIa3pUdnpMUkRR0gHYAUFVX3lxTFB0M1JSb05iSVJWZGx5TDNjeFNmQ0R1S0hTYjBJS3BkS3FmTDZsQWphN1h0SjR2ZV9zamdNWXhtMV9uN1dwazVpUDRrNTRXaHp5S2tsU25OZzBYOUp6QjNYWTlfYWZSYV9KNEtHX1lsZVZUWXJURU9JR1R3MEc2czBDUzloa3FpLTg5ZkZTVVZuUW5BWFR5bVZ4NTBFbmpIOFM3SDh5enZNS2pIN0tFNTN5bldDRE0yU1hod1FJXzY5MW00MkxpRUxqTUVwMi1NY3NNX2YzTEdxVg?oc=5",
+        "title": "Gensol Engineering under ED scanner over alleged links to Mahadev betting app scandal - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb25IOV9PU2h6ZDFybXMtWFBLN3dXRnFjRGZqdmVqRGVwZHlURk9XV2J1cmNyNnRkRThpOWZBNEcwU012ekhlZVZ3ZkZHZUMyZTc0V0lSeDlJWXRqaWhiR09pLTB1aFdubzNTQTN5NVBzTGZlYWhYTjBqeVJNdEFLMUFYTThpQlVtTUZxTVRuZjY2NjhVQXQxYkl0dlBDU3RTOHQ3emQ5VjdYTERtRzJFRmROd0ZqbWo3U2g5blZwaXQtZk9mRlkxQzNzdlo3WHlCRExDQW1nR3RCbTlBTW5sUDB1VjZtbzgwZEo4UkdKNTdlZmh4NFdSNkRsV1NWQ1lf0gGGAkFVX3lxTE5yc1lILWhzVndqaGFJTXZkNlp6UHdNTHZpYUZSaHlvWjF2WlRqcUl2YmkxdzRVR1NOY3ZVa2dJaHNOVGdwSHlIazdkd2U0QlpLV0xxR1RjYzVyYmVkWVZ5MWprdHdiME1hMWtrUDlKTWRXUU1UMnBEcTlIZjFQUF9UNnpEZ1MzZlZISUhCTEFZeVhZRmZEaXJCbUVmMm9MNmU0d09ER1lkYTFxVS1tOFczOWNSVW4yc2Q5cFJQcjc4dVlMdTdnZk02Nkt4RV9WWHg4Q1RMQWVneXhST2FGNVFxVUhwOW5TRXVfRFE3eW13NFJTLXprVzNnU1RlV2RvcmVzeEhpb1E?oc=5",
         "label": "NEGATIVE"
       },
       {
         "title": "Gensol Engineering: What should retail investors do after SEBI action against promoters? - Mint",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSTFWVFNEUW9ZaFFnQ2xBeGRubW1rZmR2emp2dG5fTFFlMUpwdWRNcnUtR3gxYzhwc3ZkTG5oMFhoME5qLXlIajRMYVdaem1RZERrUGp3WURBWTJQT2JIRXB0bFNqZlJ4N0YtX2NaNTFYQlROUjgyN1ptelRWaExmZERQb0h2YUtYWENfRFc4Zm1xRlA0MkpEX0ViNjA4dzU3alMyd3FuTlY0cXRzS1BGMEZIU05kQ21KakxJV2t2cEZIcktubC1VcjZGaXNQVS1ydzRsTlVrcTU3VF9qSTZGR1FBV2FrVGt3RmfSAe8BQVVfeXFMTzNTcExTT2xTQ0FxekNVU0REeHdYa3B3WG44WnlYR3gtaXZON0VTU3Zhdl9LMjBZX2w0NExKTjc4eTdGNXU1d25xbld3bnE0SFZhRk1tb01QRDZIMHI3ZTk0eUpHRmdHU2hSMGhZSExFclJUamJqTFJBaDBfaUVpQUctVWhFRmhLUllIWHh0V28xVGtDSG93MWY3UGV5TXV0SzhuSDl5a1pMVmx5NUltLWxLZ3dfNTQyeGRrQ01BT29QZFRLZGtnbUR4QVgxbXA3c1FDVE9TY0FFbHlBNkNINnVobTFBWUFkeFJCWllOUU0?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "ISGEC share price target 2025: Engineering stock down 22% in one month; Good time to buy? - ET Now",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTS1kZFBwcl9TRE56dkNHbWFiQmFiQTlHaEppOEdOdWpDa01adnhycmNOUFdob3N0Z0dHeEFSTVBwZ2VFU2Z2T25YeG10M2JyWkppVExWTHhSeGVIWU1BNTFvQm4xLVN3M1pPLS1GQ1RGclloZ01pYlZNdVhlckhFdUt2MV9ya1c3aG5LTjFEcF9mSFlPYW5URTIyZXlOYm94VnBWMGE4MTBwQnoxdzhFX3ZoS1pfZGJKVG1NRzBIUkRDMGRuZW1tcVRIa3pUdnpMUkRR0gHYAUFVX3lxTFB0M1JSb05iSVJWZGx5TDNjeFNmQ0R1S0hTYjBJS3BkS3FmTDZsQWphN1h0SjR2ZV9zamdNWXhtMV9uN1dwazVpUDRrNTRXaHp5S2tsU25OZzBYOUp6QjNYWTlfYWZSYV9KNEtHX1lsZVZUWXJURU9JR1R3MEc2czBDUzloa3FpLTg5ZkZTVVZuUW5BWFR5bVZ4NTBFbmpIOFM3SDh5enZNS2pIN0tFNTN5bldDRE0yU1hod1FJXzY5MW00MkxpRUxqTUVwMi1NY3NNX2YzTEdxVg?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Should Value Investors Buy ENGIE - Sponsored ADR (ENGIY) Stock? - Yahoo Finance",
@@ -614,28 +619,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "ST Engineering shares soar over 8% as analysts raise target price - The Business Times",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTFSVV9sVEJHVHRWY3JRTTNveWY5U0hTSjVKb2dpdkRzZEY5dUZFNjlET0txZVFLSWR6bnNVbkY2S0hvQjdHcUhZV3VzNW0yX3Rla3BXREFBWk1EanRhYzFHUERIbDBVRkFvQTlZS1BTTV9kVVNsTjJTVG4zRVdBb0RTSGg0RUYwTmRBWWpxVHpOdy1kcEJoNmF3N0hnbklwcF9yRE54RktmVmJtbDhtMjFR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "1:2 Split Soon: Engineering Stock That Rose By 220% In 1 Year, To Sub-Divided 1 Share Into 2; Last Date To Buy - Goodreturns",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaW1PSV9Mb2NCZElPSGJXVHMyZWtqdFlHX0FoUzcwYWVyd2NxUVBvYUVlTHlQYlVURk5welptdnR6SHQtN2VJcTU1VU10QW00UXhTdkZBcWhsMDZyZURQVVkzRm84OFVtMzliRVZXak13SHFUdjBUd1kyQWJzNmtnRHd4UTFzZzRyOEt6QkZhZEZLTzF1MWFIanRoUzJ1S0ZRVTBMUTczWkFCSjRnb0xSekVvVjVVOXVPSFd4ZWg2SmxEN2dESHoxUjJnbjFKMllNd0xnQ0ptM2I2dXQ4VjZfWmFFRGRuZDExY1E?oc=5",
+        "title": "Gensol Engineering shares in focus as NCLT likely orders asset freeze against promoters - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTnJIS0RPMk81U2xick9Vaklhd2FCbjlabTZNSDk2X0Rtb3FGQjZKX1QtZkhmcHdvblRKWXJWekhrQ0ZIdWxPdVNOMzlKYklMNmVXUjlZSThoQlhGQmpQTTlRQVFjTXNvR1BlcVJ1VHNyN1hMOUszUHJibjRxUm1KeHotaXI0YmF3V2s2eTNzMnhDOWhLRE9jU3JSdVFVYWRoVXppWTFYQ0N6ZHAySzR2UklwN1h2bDNWUGVVY0hmdDhSUmF1S0pvS3B1eE90ZFFseUZhTlgtRFRybm5EeDZreUZoTDY1U3FyWHhaZ2t0MEtjLVnSAfgBQVVfeXFMT3pMNW5sOXJUU1V3cFNwRUI0NzVzSHZJSy14WVk4MXdRX2luWUp2NnozOUxUd3NTZkR1QnJkdEJwci00SkwxUEFNTUdCVm45RnA3WWluZXRMNkE2X0NtQnNjdHg4TE1VWmU0bFNvLUhkT3d4SnJXT2Nua0ZlT1M3b0RCR1UxaFlpQTM0cm9oWGxpLWd1X0NrOGUyanhOR0UwM2RxbzNmaFJqZk9oOFExWXh6bENkQm85VlN5V0drUjhsQmdkcjRBNHZwdF9KNG1KenJSaHV0ZFpnd0gxUkZ3cWZMMk1nVDJTQVctMmllbm9jb2lJNnF0dnE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Engie (EPA:ENGI) shareholders have earned a 16% CAGR over the last three years - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTd4enVCV3ZzMHUxSG5WSEUwc0JCbVJBNy0xeWdkZmtvZVE5b0wzaTM2WnVwN2Z1VEZLNWxBR3JJbXpUVVlWODRWZE1OVTdsT2E0QlIzVDlGTHpYMTMyWmxkSnU4a3lyOExtRHNtTFpGSGtBXzc5Mm53bXZaOG1LNFhmZEE3TXdsWTlaOTM0LWlnU2Q4SHdpSVAybElTbHI4U1RYU25ocDJwdlJ3cHdqcTFKaVlydDIyeHd3WFNrNHlOa3NocDgzWWwyVdIB0AFBVV95cUxNOEhBYVBuTDVOUGxNYWExNFlvSU1ZWWw5bWJiS0RSeGItOUphM2sxZnhvemxxRzQyQ1BkWFZHOFdQVXlndklrLWFaSGRvcF9oY0hlZVJ6TGNMWmI0TDNXOV9FSTFEYVhYS21XQmZ0eHZEOG1hYll2bmt0UlI5SFJ1Q0JUMEQ2c01HaFBnc0dYeHJHOEY0dVZsT1NWYnAwbUlWUFRUTXRDcWthb05wTmR2QzM1ZXVPajlLbGpmel9NZGR5eWZBd095cmFOeE9RejdT?oc=5",
+        "title": "Gensol Engineering shares jump 5%, hit upper circuit after MD Anmol Jaggi, director Puneet Jaggi resign - Moneycontrol",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLVBfYzFNQWlpaGlHRXhjT1lFTXVEbEltZzVyenFET0ZCNzJWUWtqT0xQUTFaY3R6UzZIelVhVGI0cURfdTdQUjlfb0lKQ2ROMHVwbjNLN2FVeVVNU081ZmpEMERLU0ozbmM3YUp6NXBLa2hGOTBQT09oZVBKYnd5dG0wLUlEVTJscUVCMkFlb0p2SUNoM1o0OFlzMXBDRkJpLVJuNHBxbENycUY2MUhTc0taM05wMzBGMXdpclZ3a2Ewc3Z6MmhleVFoaG9OU3JSZFJwQ0NiMmFFTWZJUklzYmdybXdUcE9Dd21VRWhhM1ZGck44RjZBZ9IB_gFBVV95cUxNNlpucHhSRlF2eWxvVTNWSk5neG9LSW5sOHRBdm1UWldwUHpxN2JiUDJYLU4tVWpXQUdlbVBmaUxCbktjWlZ5STVORS1hVjY3Mm8yd0RkOTlBSE5rSm1iOC1ITEVSMVFOZ3kyVnZ2VU5OOHdsR1gwRlpWQlBCV2VsMVcxMXlsRU51LWxlVzBJZ3pCWTFCc0dDeWhzN1VXSG16aklLS3BGZ2tTeVhidXhzUWlsMnZOSEI2R1dqTVRTcHp0MDBZM0ZoUkFTcGNnc0NfUVdkWUFndTkwUXpLbVd6SFJsckkxb3dKbDZyZTQ2SW44a2pkOWx2THpJQm9Idw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "French Stocks: Engie (ENGI) Posts Strong Earnings but Profit Outlook Dims - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJESXdyb3RfWC1xTVRXaHpGVVZNVFV0ajhCenpkUThhTGpNLWh3OTJpRjA5aTVwYzdBMjJ3a3VDNXF3SU9HbVFrNDlNRTlSX0xIMDhsQ2hhdURtODA3bk5lTnRaencwSFR2ay1tZW5vaTBzNnA4OW5maWhxVC1Fd3VmYWJLVWYyVkJoYXJ2ZW9RSGtJZml1NVQwVnduOHl2UW5BVmhOb3lmUDJYTUdFSFZyOFBjdw?oc=5",
-        "label": "POSITIVE"
+        "title": "Ajax Engineering IPO Vs Hexaware Technologies IPO: Which is a better option to bet on? - financialexpress.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1dwUGhNUHVvWTZ2eU44S2RkMm1aYlptek15eGc5WVFZT0hiM0h1QzhrTmJaNjhncDBOemlfNGtaNG9ZQ3pqbXNIUkhTRWFqNnJQUGRnbV9VbTNfZHdxOGVzYkpWTlZtYjM4Tm1nNWgyenFaQ1lFc2RBRDhvc1QzVWVPQl9oZ2I4STVqREpyR21BeWczRzVDREczN2hWUGxCVm1QV2NUd1NpY0Z2bWoyZGFXME5BaS1meXlSQmtGQnFnVTdTY254cERJUzh2Z3pCdEhJdE1WeWhBdw?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Dividend and loyalty bonus - Engie.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zbTFVang0M3ZpeTNDdU1makVDWndzMGw5RTZMTElQUk11dlAwWWY4MlNzeEFDWFRNRDVnV2wzUVVUU3BFOXJBZFFPSnJfTGZzbnRQVFc4Sllna3NQOFZLekY1WjJsMGhtdzE1OFVQMlRiZw?oc=5",
+        "title": "With 39% ownership in Engie SA (EPA:ENGI), institutional investors have a lot riding on the business - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnUxSDAzbUwyX2h2RkNDU1F0SGVYaUt6RXNQbTlLQThvMEE5dm1tcm1IcG13d1pNYW9TUHVrNXdCZHhDTE9KQ0xLQUhsWlYyS1M5OHBTNnJtdld0eTFEMndib0JWN3UxenU0SVhBNHo5OWZ3V0RiQlE4UWkxSnVFSzlRSnBRemhYZUd3WkJ5VG9IUVFvTEUzZ1pnM05hbUdPMjhyblZhVWNLZGptR3ZhcUVkTV9mS1o5Sm9Ga0I2TjhoOWFtSFhUQtIBzgFBVV95cUxNYktMN2VSM0hZbjBKem1FLVVnVnFoY1lQTUY3bEw5LUhaeEZwX3JNQ1Aza2VYaFZVcE9XQU8yanlrVER5blg2dmU2dWpoU3VpYTlOX1lGdmk5dEhQLTR4bERMUFFWeS15Z3VlalRpZ0ZzSE8wcFZLdU9wQ1VqeDFtVm91cEpOYWo5aVJIM0gwbjRjX1VzN0UyYTJQdS1YcXVCcU5LTW0wRmlZeWZzZ056ZkdPeVlFLTdsR2xmY2prZXJaLXpRMGc5MUZ2YWdidw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -644,26 +644,26 @@
         "label": "POSITIVE"
       },
       {
-        "title": "With 39% ownership in Engie SA (EPA:ENGI), institutional investors have a lot riding on the business - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnUxSDAzbUwyX2h2RkNDU1F0SGVYaUt6RXNQbTlLQThvMEE5dm1tcm1IcG13d1pNYW9TUHVrNXdCZHhDTE9KQ0xLQUhsWlYyS1M5OHBTNnJtdld0eTFEMndib0JWN3UxenU0SVhBNHo5OWZ3V0RiQlE4UWkxSnVFSzlRSnBRemhYZUd3WkJ5VG9IUVFvTEUzZ1pnM05hbUdPMjhyblZhVWNLZGptR3ZhcUVkTV9mS1o5Sm9Ga0I2TjhoOWFtSFhUQtIBzgFBVV95cUxNYktMN2VSM0hZbjBKem1FLVVnVnFoY1lQTUY3bEw5LUhaeEZwX3JNQ1Aza2VYaFZVcE9XQU8yanlrVER5blg2dmU2dWpoU3VpYTlOX1lGdmk5dEhQLTR4bERMUFFWeS15Z3VlalRpZ0ZzSE8wcFZLdU9wQ1VqeDFtVm91cEpOYWo5aVJIM0gwbjRjX1VzN0UyYTJQdS1YcXVCcU5LTW0wRmlZeWZzZ056ZkdPeVlFLTdsR2xmY2prZXJaLXpRMGc5MUZ2YWdidw?oc=5",
+        "title": "Texmaco Rail & Engineering Faces Continued Stock Decline Amid Broader Market Challenges - MarketsMojo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXJQemkzcnBXVmdHYXNZZVBqV2NOOWNrNHVqcGVLLUU4bWFyRDVpaUNqMi1CcGVtcFlBSzdZQmxiTjc1V0g1RlBHRDg4dkU4MjdQNTBFWjRPZjB6WFAzWDdiblFFd1hJNVowWmtyYXdXQVRoVHZWSG4zY1NobkNwZU5EREFIVVhLa3ZSdEtuVWlNbnMtQWpqbGVHOWtmdmpqWW91LXlwMnBXR3JxYm94bnBmNmJEYjlZcDE1eXdLMFBmTDBqSHZfNQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Are Investors Undervaluing ENGIE - Sponsored ADR (ENGIY) Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hoNW5XUnkxV3c1LTQ5S0tKNVJjb2Z6eTYtUHJzOGFjVmRRSWFoNzk3RE0wTVZUUXJiUTBzMXBNNDRLbUY5dU1WTnhLVnU2WTVhSEVyMlIyTV9ZMU5kQk1qWmU1NzE2aXFTOW81MzZzd3ZESWZOYkhRRi1NT0NTM1RMOUpvbXptVHZwVzNWREt5QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is ENGIE - Sponsored ADR (ENGIY) Outperforming Other Utilities Stocks This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZhLUY0SzdvWVJ4UGRWcjY1NHAzY0VvRjNEQjlkamFvTFVnSGJrUVl3Tm1YcjEwczlkdmx5U3doTk1FVWQwc1BXWVRueXpRM3EtZllCeEZOa3dOLXBCUHZGYk4xb0xJYkVXXzk0aktpVURnSTBYWG5CVmhiLVV5a0JTVWNjcnYySWV0NHpn?oc=5",
-        "label": "NEGATIVE"
+        "title": "Is Deutsche Telekom (DTEGY) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtPdWQxYnM3cVZtcFJkQXhONzY2SmQzMVMtY1JWT19qeWFOVDhmRkZzQjF4TWNCdjFrUUphSERCeEd4NGdKdWNQbjRxWGdwaG9xT0NRUXhJbzBWTVdpeFFNV0dQOWFJVF9SMGdoTGp4SVRObFp1dUFNV1ZqU19OdFdVdjZZT0NMeEZKQw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Engie SA's Dividend Analysis - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Nc0psZ29OeFlqU3Jkb2hzUE9uUUlYTkVSYUFZM09Wa3pINzBwalYyZXp2Z1NHVkd5aHJhVFcxZ08tUTBzSjFZbWFkZU1sTE9xbUNSajRvMVJFS3BHQ2IwUHdjVVVPajY5cnlza1RWMWZPQlZnS1M4cFRfN0wwQQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why We Think Engie SA's (EPA:ENGI) CEO Compensation Looks Fair for the time being - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzZ0S2R6VkJYTlRpS3Q1Sm5PRWJwWFZlcHRJcV9GYnkzR3VXbHdDUFpSdXpYZEpKdnNpQWlfNE9TRk9ITzg2NVlkN2lnQWtFcFdMSkQyWG5sMjlXSEV4Ymc1b3dhUEVMdk4xdGpRNEY4QzJjNWtEdHN5M1B6YkNuV2xhOGNTODUyR0tkblZZeGhIY3h0RlhmUVR3NUE3M0hoaGFheGlYZGMtRS1zRlVaam04U1dyeTYwRGZ3ckxmcHFlM0tyOHZJ0gHMAUFVX3lxTE00ckJNVFFySklZcTJXTm9GX3VNTllJQWo5RjJpSVdpMm9oTm1LS0FZYzFFN2p0OF9jNlRwTWxzRU1aU01OVFRuZDFNOHlsRDBqT2UyaU82c2pPVmNyeG9MNlRNZDVBVDNkM1gzVFJZdklDNzdNNTlhWXFpNWlSTkM3Wk9YNzVqaV94c3pMbGtYNXFxdGYwWHJ4dlRmVDktY0NHbmF0YUttX0hRYjVjQmx0S3dUdHlaVmJEczJUa2p5Nmw2WE5QTU8zZjZqbA?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

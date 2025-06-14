@@ -2,12 +2,12 @@
   "ticker": "HUBS",
   "name": "HubSpot, Inc.",
   "sector": "Technology",
-  "market_cap": 31960041472.0,
+  "market_cap": 29184724992.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.86514,
-    "PB": 15.806057,
-    "EV_Revenue": 11.156,
+    "PE": 15.855715,
+    "PB": 14.433505,
+    "EV_Revenue": 10.521,
     "ROE": -0.01338,
     "ProfitMargin": -0.00848,
     "GrossMargin": 0.84830004,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.20891265219424332,
     "ROA": -0.01149,
     "PEG": null,
-    "EV_EBITDA": -670.369,
+    "EV_EBITDA": -632.227,
     "BuybackYield": null,
-    "PriceToFCF": 56.46880361482486
+    "PriceToFCF": 51.38994500328528
   },
   "technical_indicators": {
-    "RSI_14": 47.73571683284726,
-    "Momentum_10": -3.469252737370423,
-    "MACD": -4.483285480120458,
-    "BB_Percent": 0.3408116920588798,
+    "RSI_14": 33.72478593255089,
+    "Momentum_10": -6.188337577892507,
+    "MACD": -12.244351725529782,
+    "BB_Percent": 0.0116978237957805,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9148215427808266,
-    "QualityScore": 0.2937935532430556,
-    "SignalScore": 0.58807552504337
+    "ValueScore": 0.8681746803198545,
+    "QualityScore": 0.2999310784887953,
+    "SignalScore": 0.7308068951353546
   },
-  "volatility": 0.0307020438327786,
+  "volatility": 0.0309101376749232,
   "beta": 1.697,
-  "return_6m": -0.1828980092286389,
+  "return_6m": -0.2333762353349814,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 33,
-    "target_mean_price": 753.48517
+    "target_mean_price": 752.7276
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 737.38
-      },
-      {
-        "date": "2024-12-10",
-        "price": 720.62
-      },
-      {
-        "date": "2024-12-11",
-        "price": 726.08
-      },
-      {
-        "date": "2024-12-12",
-        "price": 734.49
-      },
-      {
-        "date": "2024-12-13",
-        "price": 721.86
-      },
       {
         "date": "2024-12-16",
         "price": 746.91
@@ -537,37 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 609.4
+      },
+      {
+        "date": "2025-06-09",
+        "price": 606.06
+      },
+      {
+        "date": "2025-06-10",
+        "price": 582.04
+      },
+      {
+        "date": "2025-06-11",
+        "price": 573.57
+      },
+      {
+        "date": "2025-06-12",
+        "price": 569.82
+      },
+      {
+        "date": "2025-06-13",
+        "price": 554.59
       }
     ],
     "current_price_data": {
-      "price": 609.4,
-      "change": 6.66,
-      "percent_change": 1.1
+      "price": 554.59,
+      "change": -15.23,
+      "percent_change": -2.67
     }
   },
   "news_sentiment": {
-    "summary": "HubSpot, Inc. (HUBS) a suscité un intérêt croissant avec des analystes optimistes qui soulignent son fort potentiel de croissance, notamment grâce à sa large adresse de marché et ses catalyseurs de croissance visibles. Bien que l'entreprise ait enregistré une hausse de 36 % de ses actions suite à un sentiment positif du marché, certains investisseurs restent prudents en raison d'une croissance perçue comme insuffisante. L'initiative de HubSpot de connecter son CRM à l'analyse de données clients et l'essor de la demande pour ses services de service client ont été des événements marquants récents. Cependant, la vente d'actions par le directeur financier et la baisse du cours après des résultats trimestriels positifs soulignent une certaine volatilité.",
-    "sentiment_score": 0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
+    "summary": "HubSpot (HUBS) a récemment suscité l'intérêt des analystes de Wall Street, avec des ajustements de prix ciblant une hausse de 25,35%. Malgré des préoccupations sur la concurrence, Cantor Fitzgerald a attribué une note \"surpondérer\" à l'action. Cependant, la société a connu une récente chute de 4%, suivie d'une baisse de 11% la semaine dernière en raison des inquiétudes liées à la guerre commerciale mondiale. Les investisseurs restent optimistes quant à la croissance potentielle de HubSpot, mais des ventes internes d'actions et des signes de croissance limitée soulèvent des questions sur le momentum à long terme.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "HubSpot, Inc. (HUBS): A Bull Case Theory - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVd5ajVmdFhyNGlkcWRSVnVLMEJTWTUxY3Z6Wlk4eXp0NXRKMllfUnJTS2hrNGowQVpBcHVxdXVnVWlJN1pnaFZPN1FvRUYzdHA0NDBoVndPQ1Bmc0JwUzBUNmZobVpIdEZ0WGdqZVhPTU0zT3ZYTlJ2cHBzd0hkOGk1eVFKZ9IBjgFBVV95cUxOWmxNSC0xLVV6eFlFWENfUW9hZUpfNkg3TjVtdmhWYTZYVG9UZ3Bqenc0NFd6aGQzendKZE9mUlRPQVJkRk9pNkV4VFZGbjZfQ1pBOUtMQ1JweEFza2RSQW9sUWx2VFpPX24zc180REExY29uRGx6b1lPNUpHZVI4V0VFNG1DbWxKNjR0LTV3?oc=5",
+        "title": "HubSpot (HUBS) Receives Adjusted Price Target from Wells Fargo | HUBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEd5QTVUZzNXME1fRVdCcDd2WGc4UmVPcExPNGpnZ3lOZzRTRVRXeWRvRkhWejZ4NllCcXRaOF9VRl92bnliWFBuLUR3YWwwRTVSdEF0YU1xVEdiNXRhWVMwQm9ycnFIQzFnelBDVFJqaVJkUE0xNmpELS15VkJPbmEtUzBJNHkyaEc1Y1JXUEVmTWZrNGV3U1ZkaWc0VTdwd29xWkpXTWpvNGYxSlVOdUlQcE9BQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "HubSpot: Large TAM With Visible Growth Catalysts (NYSE:HUBS) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb1pvTnVJMFN6MkZsUE81aHJNV2hLUUF3UGpWbFVrUnBtVzFfdzBOcktGMWtSbG1pX2U0RFkwUURqd0w0ek9YMnRYUEtSLUg3WnBxcHdScE1rU1JvcEdsQnFSUmFTX1pWMVlNUGFpbDM4WDBJb2tYY2hDNnl2OXRZMndKM0ZibXRFR1VVMlZpVXkzdw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Wall Street Analysts See a 25.35% Upside in HubSpot (HUBS): Can the Stock Really Move This High? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDR1JvMGJCY0dhOFZDcVFwMFZBYTRfa1g1SEFNZUl6MXFjRjJsWDJYZVFMdlpQZXZjZnQ4QkgzbFdob19ZQWROVHhJdzJOaTI1VU9hZnJLczhXSGMwS09Lb0FGOWVoNmVWdzQtS0JoMVlRaFFzTzFmV21DNG9Pdw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Cantor Fitzgerald Begins Coverage of HubSpot (HUBS) Stock With Overweight Rating - MSN",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXR3LVZJNnFSaEUzVDhPN24yT1QzVi0xMkQxelkzc1dXWkthQ1k1SzIzV1V2WWlWa2pZbWNvS216Q2k4T1VtMFBSS1pWd2J0VTBMb0RPVmpWcUx3TmpHLVJzM2dYaTE3b2M5MTBaOUhobm1rX1R5MTJOYzNMejFOZEVyMzk4ajItUW9vWG43ZXlYTEV2WFRMV1VBXzlwYTkxRjBqMnFEVnhTVGVfYngzTElTUXhnbVBOS29qeG5ZeW1GUmNBTjl1amNsZmU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is HubSpot (NYSE:HUBS) Using Debt Sensibly? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTE5bTlBakk2ampUdE5HSFNXQlk0d0ZoUXd1V2lENVFRaEJLTmU4WlVldTJNV2RiOEhncWNhbjhJVGRNLUk2NDI1em5wUGM4THU5VVl0T3c0MnIxbXZtSzgyOG1nYnE2ZTNNZDJka1RFMVk4UEI3RDBBUlJkWmRTWlJlckJQblE2YzZBSnJOZEpHY3RHSzE1LVBabWJnR3RHS2VGeHFHQU7SAa4BQVVfeXFMTWxxNTB2SVlySjZxVlpOUHliVnpXNmVHRmN5Zi02VWZhMk5UalEzYy1xckFrN3J5Nm96RTNOMUtlMWloYkc2eEFzMVNiVjF4UWJ6OHhlcU04SFF1RHRFR1ZDMmxmTldhS2dBV2dVUFlrUXlibjRlbFlKbHRBOUR2cEd2OHRkeHM1TC1ZVWhmMC1TUkdPQW9jZDZwTW1KZzZQZjc5dExTNkxDR2xfRG93?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,34 +581,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Sale: Chief Financial Officer of $HUBS Sells 120 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXhrQzVWczE0RVozWTgwNFFIRFFqTkpkUkpWYlJlTmNhZEVRR1dBX2dBUGN5dTVwQVVhNk9jRG5KRDFMZHo3OTM1M3dNYlFiMkx2cy16WGZWR0I3QkdESWdFMWpVYU5iM2NEQzc3THM0YjhMVmpWOGZHTTQ3U09hejZXNlFUUUl2T2dfX1dxUW5Wbml0?oc=5",
+        "title": "HubSpot, Inc. (HUBS) Stock Analysis: Exploring a 21% Potential Upside and Strong Buy Ratings - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVpfWGVhZG4teFhXakxVZGg3TVhPbldvUmxwQTRRSWRkdDhBT1pmVm5HbGRkVFBlZXFZR1k1TTRHb1NBSThtUWZ3R1V1MXZuV0VCMmZickpuaWdueUstRDRuQkVUYWxiejRPcmxCN2JYR2c5Qk1kbFBpQlNxaXUtTXAwQmh2a2JkMHJoVU82MUdNZER4cTRTWHpmTlk3UVc5NEpubVdvLTRSYWIySmZXekRpaThUcFB4bWFEZW9uYjh5aXI4d3d4TFFBUnI2bU5hUjRr?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "HubSpot (HUBS) Eyes Growth After Recent Stock Dip | HUBS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhDUV9sZWR1b2VUMU9iSjFFdjhVb1I0TkJPSVhLQ0p6azRqT3VTaHRSRGtxc2J6OVprWHU3RV9lSHlJa1AwTWdqQUJBNVpVNDNJOUl5TFJXZWxndUhoSHdRdWUtMmtXNVhxU01NTVoxN2c3NXFISzF6bkZBTDJzVUZkd2loRzAxeUlNanNzZFI3TDNuNVljQVp4S3cxTHJHQk1CMnlseDl6Ui1WRURycUdtRlI?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why HubSpot (HUBS) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGJJTkNiTXk2NG5tbHpYMnBjc2RsU3VLamJxQktpNzVXWUx3ZXhiRGxseTZPME5IT0tZMFV4c3RtazNlOFQzb3RQTHJKaU5PeWJwa0Zob21MQ1k3YlV6Q0w1QVdDaDFjMWN5ZEkwN2UtWHdqd2dSMERNa3FTVjI3aA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cantor Fitzgerald initiates HubSpot stock with overweight rating - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0YzcndDeVRIR19QWEN1X1ljRUlSNDRpSHZJTmFYMEVPeW1WUkFQUlV4ajRqUWhZRFF0TXhOc1kzUFFoNjZqeUZEMllON285ZllLaERlaGVwVXlaRklJMUVRdUgyVS0yYktCYWJQbFY5MmtOSk5POTh2UkRBLWliR2R6NnJvZEFWWHgzWkh1bEEzVXNmRFIzSXMxZjBtRndvb1RXTnJWQ1JGLUxqTDVRSU9aZ3R6SklIRjZUbnZ2MFZnZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Optimistic Investors Push HubSpot, Inc. (NYSE:HUBS) Shares Up 36% But Growth Is Lacking - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2pQYVV3VWEyMHdseklKa0RlOTNYcU9UdEpzZWJkRUpoNUMzdDV3TUZrNU5jaktfOTRXc0E4OUdZVDZ0Q2lHMFRKMEJBOVlQUzRKTTZBVjFkUVVGU0o4MzUwMXp2bnA1R2NZRjMzMV9yVW1nMFFDZnJCeHRUcU1XNEJSUFdPb0hQcGxTcWlmUzcxY2NtSjJ0Q1BLWmF6YTNQZ0xUZWJYalN5b0dKb3Jya3hIYjBSOW9zOWlCdVdRb3rSAcYBQVVfeXFMTUE4SUZ2T0c0NEE4OUxOVm1fSE1XUXdjYVdPUGhGdnp5NlVLcU1mUmdUSHplazJ6WWN5ZnBPWUZkbVR3LUhCd3FRQ19qZWI0aVpuaGpmQW1hUmxvZGt2NHpRNzdraGYxNUxqckNGeWtJenNaeW4wa21qMkdlTVNfZXZ2aUlSUjVHbWRfZlhjdU9ib2FwaVAxS0U5LWxteVRpa2YzeDhGUEtINnJ2WkhQc2Uwd1Y3d3lTaDdOeU1IZkVMUmxhbDlR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "HubSpot (HUBS) Gains Positive Outlook with Overweight Rating | HUBS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEJ5YldyTHNQVHBFR0c0MTdHTXI1Y0hzSFQ5aGdsZEE0OFpSNmg5cy03blRPLTF1R013WUdnRmhpLXBFZW5ubUJSM0diZm11NE12WVFaQjhCWGE1NWFGeDVBTUFIWXZ5VVdPQnU3MnlDZHpBYWZBY3pqeW9kbTZjQ3RxNGhCRjlmd0dSLXNVNV9hWEtQVEJVZmNXZ0o5R096VnhOZVhLd01LeEdTV3Q1bHJPbmR2bzJESTZqeVgxUlVObFk?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "Why HubSpot (HUBS) is a Top Momentum Stock for the Long-Term - Nasdaq",
@@ -611,18 +591,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Customer Service Demand Propels HubSpot Towards $1,000 Stock Price Target - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemM4bnJRZENiMFA3UWs2Rk9FN3pqeGpabWxCTjJpZnFFcUhTUmg2b0RNSDFrN3FNLWJ1LWxaRkVBYW9SQXE4VV9qb01tN2ZVVnFOM09pVTF4eXVCMk1qVjdBZTBSaXBsUmEzcTJPMVZwd0daMVQzN1NiVVFDcTdscFY1VnN1ZFh5TDV4YTRR?oc=5",
-        "label": "NEUTRAL"
+        "title": "HubSpot (HUBS) Stock Tumbles Nearly 4% in Sharp Sell-Off, Extending Recent Losses - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm1DeVljdkNCTS13RUVjWFVxQXhlYm14X2taYmVuOXgxcE5zY2h2TzJQSVNYZHhYVlctQlJfNU1JdUgzck5vcUFucWthMXhFdTV5aU9Sbko1aG9VcmhvdEppZE80enJIeGo5VVBRaDN3bmxDY3U0RGNQSVo2dy16NXRkdFNlTzE2NHlXX0ZNclJEbXVEUWVtWlR0UDM0Nm5sRTUzeGJGb0NFcm12dkk3eTdHRGt5ZGhiMGZPeDVBQQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "HubSpot: Lock In Gains On This Rebound Rally (Downgrade) (NYSE:HUBS) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJxYUhzT09YVXZpSFBQQVFWME5jOGNnV3hjSklSdWFhQXFjMU1yM185Um8tSmxOMmpwSUhYM0F5Y0QtOU1Wbnc3Q2d3NUhjVGl6OVNhV0RQUWV2OC1INFpWQXFFVlBUdU5Dd3FQQ3ZBNGJBQWktSlgzRVlHdDZ0QjFMd0NjeHhmSEFnUzNfc2JRY1VzYm5Hd1NB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "HUBS Stock Coverage Initiated by Cantor Fitzgerald with Overweight Rating | HUBS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUC1lQ1R1S1ZwUzVFeWZ5RExYbHdLNmpBZEZWM1lUVnE4Q1RVWFN0LU5xV2NqTTFyR0c1VWJ2RFRlVEtqR09IbzZYT2RDaUpTb1lJZF92bnVVZk9mT3ZaakVWajRqMTZZSVBaQnFsRmw0bHE2OC1BU0czRVVDVWJpQmxEVVpaZGhNWTQ2b0RTSFVDakI4ZGV2eE1IeWNmUjFYRFNRLWpib2ZiU1lYd3E4SVJnVlV3TkZkS2Zld2NEdWQwdnJGVEVubw?oc=5",
+        "title": "Wells Fargo Adjusts HubSpot (HUBS) Price Target Amid Competition Concerns | HUBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlVKeE9fRkFIMHc0dzh3R3lNdmZSREdGWVM1a1BkMmVxM0UzSzVtWkVOR09ZVnFleTFKbmlSbGVUVUZZcGl5RnZoRWVyeFBEMURZVS1XQjIxNXNWbnF4NktfN1dpN0VfSl95QUdWV1RXRnZvX3BXZmxlV2hFOGdiT0FPX093Z0U1elktQUdUanU1b2pYYnBaeW5rUUY5NDhPWENLaGNIQmhxaF9COFFhSVZ6VVhlMWpmUExrbGZjV2pIZV8y?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,18 +606,33 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "HubSpot Launches First CRM Deep Research Connector With ChatGPT | HUBS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0NfLVdMSmg2TkptLXRkSldMb090RVNLYlJRRE5qSXlNYXM2dXhXMlR5SmlKTFJ5MzdzSWxybUppTnF6Rm5idWNZNkQ3TTJtdklsVWJWQmtvdVNsbV9Tc2pBUEEySURRd2tKZWlONEpwM2tfZEJBcXI4aWZTQ0ZrdnpXcFJCOHR5TEVhbjM0MjhEV1pNTm0tcFl0ck5kUWJ1YTFERVY3VGxidlRobWlvamZzdVVYNDFMVUxZ?oc=5",
+        "title": "HubSpot Schedules Q1 2025 Earnings Call: Key Details for May 8 After Market Close - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWFFUd2p4dGtmVzJTSk03Q25ORXFjRHVZX1QyTzhpeDBieFVqRC1GeVlDR2Z5VDBvUkRkUk11YVI1STFoQnZCc256N2k1bjEzbE5tRm1KN09jSUNPeHUtWE85SThjQ3c0OW95OExiajhJaVFZMVR0T3hneHo0dU80U01XRVlvWm01UW1VUDBxVUI1V1hqMF9wSDlKOXBQRWxmdVFUTmxKLXFIRy1vZlhIaFFGZXZrMC11SER5TjBn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why HubSpot (HUBS) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUERuLTJoeGVqWmpUamRLZlgyUl9ubGtUeE94UDFON0czTV9xVnhUc0NPUDg4ZncyRlNRdkFZZjJYcHM0R0VCRElRLWNGLU4tbXF0ekFxQ3QzR08zekhDM3JoRWVSRWZVVUFpNE1qYWFKekxmRnRsb0p5eGVueUQ3VA?oc=5",
+        "title": "Optimistic Investors Push HubSpot, Inc. (NYSE:HUBS) Shares Up 36% But Growth Is Lacking - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2pQYVV3VWEyMHdseklKa0RlOTNYcU9UdEpzZWJkRUpoNUMzdDV3TUZrNU5jaktfOTRXc0E4OUdZVDZ0Q2lHMFRKMEJBOVlQUzRKTTZBVjFkUVVGU0o4MzUwMXp2bnA1R2NZRjMzMV9yVW1nMFFDZnJCeHRUcU1XNEJSUFdPb0hQcGxTcWlmUzcxY2NtSjJ0Q1BLWmF6YTNQZ0xUZWJYalN5b0dKb3Jya3hIYjBSOW9zOWlCdVdRb3rSAcYBQVVfeXFMTUE4SUZ2T0c0NEE4OUxOVm1fSE1XUXdjYVdPUGhGdnp5NlVLcU1mUmdUSHplazJ6WWN5ZnBPWUZkbVR3LUhCd3FRQ19qZWI0aVpuaGpmQW1hUmxvZGt2NHpRNzdraGYxNUxqckNGeWtJenNaeW4wa21qMkdlTVNfZXZ2aUlSUjVHbWRfZlhjdU9ib2FwaVAxS0U5LWxteVRpa2YzeDhGUEtINnJ2WkhQc2Uwd1Y3d3lTaDdOeU1IZkVMUmxhbDlR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insider Sale: Chief Financial Officer of $HUBS Sells 120 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXhrQzVWczE0RVozWTgwNFFIRFFqTkpkUkpWYlJlTmNhZEVRR1dBX2dBUGN5dTVwQVVhNk9jRG5KRDFMZHo3OTM1M3dNYlFiMkx2cy16WGZWR0I3QkdESWdFMWpVYU5iM2NEQzc3THM0YjhMVmpWOGZHTTQ3U09hejZXNlFUUUl2T2dfX1dxUW5Wbml0?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "HubSpot Inc (HUBS) Shares Down 3.55% on Jun 10 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGZYYmpYNWtHTUxleXF6WjNtYWc2alVkbHpxdklSLVpyWjF0clpZVjktaWdnZXVOdVg3YmNIQ2dsWk9HdzFISzRHcHJLc2lHdm11SkpXSGJfelo1XzY1TW9GUjNmVElHRDBaeHJIa3YyM3VETzdERWJxOUFqdkFIS05EQUozdUd6?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "HubSpot, Inc. (HUBS): Why Are Analysts Bullish On This Hot Growth Stock Right Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUVnc2tqajk0R1hpSkZfMnJCaWJrVkh6M1ZXRUV2dU91WEJhZ0ladXRzVlNjdy1rTzNnMXdTWXF3QS1UVFNRMDlKQ1BQUzkwdmE2Zi1rUGhRVDJlbVNaRS1fU3hNYWF6ZFJMWGUtUlBqVUltZ0ZKc09QWXFQQjg3MA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HUBS Q1 Earnings Call: AI Momentum, Platform Expansion, and New Monetization Models - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ucjktb3VFd2Y4dE5YQ2Y3SDk2NG05dDFsSlgtQ1NjWHNFVThrSmU3cU16RWFoSmZCQWl1ZjJpQlNZVEJEdlhGN2VxYXJVWEp2cFJCbjctWjNsNWdtZEVZTXd6cHExSXRYMXFhS3JlS3JidE5PbmJhV053?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "How To Trade (HUBS) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazFra29JS2tRY0VJZWNhcHIwS0phUkVIbTlhdUtOUU1oVkVGMEJRWG9NMDg0dmw4ZWZZTEhYUDVsbHU4d3hvT3BoSzNNMERCUXI3S0FfLWgtTnNDNFBXazFWU2prbzV1TkV6LWFBZVJyd2ZNemgxUnBzdFhHZUkyc3JZMDd4U05vVjktckJObnRicjUtZEJV?oc=5",
+        "title": "Here's Why HubSpot (HUBS) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUERuLTJoeGVqWmpUamRLZlgyUl9ubGtUeE94UDFON0czTV9xVnhUc0NPUDg4ZncyRlNRdkFZZjJYcHM0R0VCRElRLWNGLU4tbXF0ekFxQ3QzR08zekhDM3JoRWVSRWZVVUFpNE1qYWFKekxmRnRsb0p5eGVueUQ3VA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HubSpot (NYSE:HUBS) Shares Fall 11% Over Last Week Amid Escalating Global Trade War Concerns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFowY3FsaVZsaGt0SnF6OXk4TTFscUVVLXpYU180TkJVVXNmZ3BYQUJDemY3cjJlMjA0a0QzVjBEOVRRQnBUWjRZOGZobll2bXlHSlRnNlJZTE5JQ0p1eEh5YUROV1FzcTJjbzdwVmwtYWJJQVdjbXd6RWxIMzJPQg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HubSpot (HUBS) Soars 12.7%: Is Further Upside Left in the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnRLWXlqY3VBOVVIT2owVTNmLVhNYmEtNFB3WlRDUE5ScUhtVEZMQTJ2b1dMTjdLOWJQYllaTXNtOTktVVRhakdTb0t5ak5lbVZiMlpfZ0kyNkRzeWNKYVBGV3dHcUhWNzRBbmZ0Z1QzTUZqUXplU2pfdjNoTDJ1WktUQkNVakU?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

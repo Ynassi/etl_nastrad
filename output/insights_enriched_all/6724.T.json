@@ -2,16 +2,16 @@
   "ticker": "6724.T",
   "name": "Seiko Epson",
   "sector": "Information Technology",
-  "market_cap": 583186251776.0,
+  "market_cap": 586229547008.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.783674,
-    "PB": 0.7246781,
-    "EV_Revenue": 0.397,
+    "PE": 10.841232,
+    "PB": 0.7284597,
+    "EV_Revenue": 0.406,
     "ROE": 0.0683,
     "ProfitMargin": 0.040489998,
     "GrossMargin": 0.36174,
-    "DividendYield": 4.03,
+    "DividendYield": 3.98,
     "DebtEquity": 27.918,
     "CurrentRatio": 1.983,
     "QuickRatio": 1.1,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.043557638777093254,
     "ROA": 0.03272,
     "PEG": null,
-    "EV_EBITDA": 3.674,
+    "EV_EBITDA": 3.695,
     "BuybackYield": null,
-    "PriceToFCF": 9.82346982038188
+    "PriceToFCF": 10.02041354909908
   },
   "technical_indicators": {
-    "RSI_14": 36.09557310461813,
-    "Momentum_10": -2.20252484555466,
-    "MACD": -45.079463394557706,
-    "BB_Percent": 0.163703445613262,
+    "RSI_14": 39.760612971378954,
+    "Momentum_10": -3.50645926707092,
+    "MACD": -32.30331695723385,
+    "BB_Percent": 0.1556195474669605,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.934908636495038,
+    "ValueScore": 0.8976953699752825,
     "QualityScore": 0.3655711852948942,
-    "SignalScore": 0.6894003839043825
+    "SignalScore": 0.6571814468496542
   },
-  "volatility": 0.0254757133377117,
+  "volatility": 0.0256021629739234,
   "beta": 0.746,
-  "return_6m": -0.3329586383023184,
+  "return_6m": -0.343693828856307,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 8,
-    "target_mean_price": 2450.0
+    "target_mean_price": 2375.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2770.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2764.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2802.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2820.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2826.5
-      },
       {
         "date": "2024-12-13",
         "price": 2830.0
@@ -525,18 +505,38 @@
       {
         "date": "2025-06-06",
         "price": 1820.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1860.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1883.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1887.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1857.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1830.0
       }
     ],
     "current_price_data": {
-      "price": 1820.5,
-      "change": -14.5,
-      "percent_change": -0.79
+      "price": 1830.0,
+      "change": -27.0,
+      "percent_change": -1.45
     }
   },
   "news_sentiment": {
-    "summary": "Malgré une chute de 28% de son cours de bourse, le sentiment positif échappe toujours à Seiko Epson Corporation. Les investisseurs restent prudents face à la performance de l'entreprise. Cette situation pourrait refléter des défis persistants pour Seiko Epson, qui doit regagner la confiance des marchés pour inverser la tendance négative.",
+    "summary": "Malgré une baisse de 28 % de son cours de bourse, le sentiment positif reste elusive pour Seiko Epson Corporation. Cette tendance suggère une certaine incertitude parmi les investisseurs, qui pourraient attendre des signaux plus clairs de la part de l'entreprise pour retrouver confiance. Cette situation souligne l'importance d'une communication transparente et de stratégies claires de la part de Seiko Epson pour reconquérir le marché et restaurer la confiance des investisseurs.",
     "sentiment_score": -1.0,
-    "label": "NEGATIVE",
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 0.0,
     "negative_ratio": 1.0,
@@ -550,5 +550,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

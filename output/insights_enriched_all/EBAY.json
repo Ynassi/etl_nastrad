@@ -2,16 +2,16 @@
   "ticker": "EBAY",
   "name": "eBay Inc.",
   "sector": "Consumer Discretionary",
-  "market_cap": 36478107648.0,
+  "market_cap": 35747667968.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.027645,
-    "PB": 7.403891,
-    "EV_Revenue": 3.707,
+    "PE": 18.646635,
+    "PB": 7.2556357,
+    "EV_Revenue": 3.693,
     "ROE": 0.36479,
     "ProfitMargin": 0.19783,
     "GrossMargin": 0.71848,
-    "DividendYield": 1.49,
+    "DividendYield": 1.5,
     "DebtEquity": 145.01,
     "CurrentRatio": 1.169,
     "QuickRatio": 1.072,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.29726291002701805,
     "ROA": 0.067779996,
     "PEG": null,
-    "EV_EBITDA": 15.192,
+    "EV_EBITDA": 15.137,
     "BuybackYield": null,
-    "PriceToFCF": 11.921846455368206
+    "PriceToFCF": 11.630189472780508
   },
   "technical_indicators": {
-    "RSI_14": 82.50276085912348,
-    "Momentum_10": 10.252440163611489,
-    "MACD": 2.4608833535557153,
-    "BB_Percent": 1.0728757341329045,
+    "RSI_14": 68.9001936650269,
+    "Momentum_10": 5.86306002854063,
+    "MACD": 2.426534726872561,
+    "BB_Percent": 0.7321598015812301,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.930279956834052,
+    "ValueScore": 0.8837077591203194,
     "QualityScore": 0.3758919562415907,
-    "SignalScore": 0.3286978810844041
+    "SignalScore": 0.4618256462446856
   },
-  "volatility": 0.0205734993001846,
+  "volatility": 0.0202992254192162,
   "beta": 1.261,
-  "return_6m": 0.2548281687347133,
+  "return_6m": 0.2254638418587435,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 28,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 65.14
-      },
-      {
-        "date": "2024-12-10",
-        "price": 63.23
-      },
-      {
-        "date": "2024-12-11",
-        "price": 63.17
-      },
-      {
-        "date": "2024-12-12",
-        "price": 63.9
-      },
-      {
-        "date": "2024-12-13",
-        "price": 63.84
-      },
       {
         "date": "2024-12-16",
         "price": 63.64
@@ -537,87 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 78.61
+      },
+      {
+        "date": "2025-06-09",
+        "price": 79.36
+      },
+      {
+        "date": "2025-06-10",
+        "price": 78.77
+      },
+      {
+        "date": "2025-06-11",
+        "price": 77.88
+      },
+      {
+        "date": "2025-06-12",
+        "price": 77.44
+      },
+      {
+        "date": "2025-06-13",
+        "price": 77.36
       }
     ],
     "current_price_data": {
-      "price": 78.61,
-      "change": 0.87,
-      "percent_change": 1.12
+      "price": 77.36,
+      "change": -0.08,
+      "percent_change": -0.1
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour d'EBay est marquée par une série de révisions de cibles de prix par des analystes, avec des avis partagés sur la direction future du titre. Malgré des tensions commerciales mondiales temporaires, eBay semble entrer dans une zone d'achat favorable. JPMorgan a relevé son objectif de prix en raison des performances solides du premier trimestre, mais les prévisions de ventes ont déçu les investisseurs, entraînant une baisse du cours. Néanmoins, la société a atteint un plus haut sur 52 semaines, reflétant une croissance robuste et suscitant des interrogations sur la réaction du marché aux résultats à venir.",
+    "summary": "La récente actualité entourant eBay (EBAY) met en lumière des signaux divergents pour les investisseurs. D'un côté, la hausse du prix de l'action à un niveau record de 79,51 $ et les retours attractifs pour les actionnaires soulignent la robustesse de l'entreprise. D'autre part, la fermeture du bureau de TCGplayer à Syracuse et la vente de 3,2 millions de dollars d'actions par des initiés peuvent susciter des inquiétudes. Les tensions commerciales mondiales ont temporairement diminué, mais le sentiment du marché reste mitigé quant à l'opportunité d'achat de l'action eBay.",
     "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "CFRA raises eBay stock price target to $87 citing GMV trends - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUdjQk1reGVOY1NRZ2ZVUmxUX1c0VE13MFVscGdQc1dYcmZhcVZHV3ZpRXdFclZRWE1jQVFWOFNoeEs2endCaVhscEZmMjkzWXhBTFQyd1NTN3ZIcjFGQm85dEpsSHJ4ZHFkcC1Nd0tZRXZ5ajJKTmw3aFlnU19oUW1LNS1QZ3N0NDI0MlBJXzZ5eU1mVDE5dWR1RVVGc3FIVGZuel9XWUpLM01UdWRuVnNZMFBrQnh6TWVn?oc=5",
+        "title": "Why eBay (EBAY) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SR3E5cWl1THdrUU1LRU1OTlhnOGZtLTBCZTMyaWhvNUd3bEhDbEUxN3JHVmNad1poNHA1VjVYTXVtLWpWZmlBZ2tZSDZDazktS2dWc1NKM1B2RnpXMUNERmRDMUh2U1JOaTRDTXdoanFrdkI4NUpvQXRYeHU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Josh Brown Says eBay (EBAY) a ‘Breakout’ Stock Amid Tariff-Proof Business Model, Cheap Valution - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa3NTc2EyUFhHMlhKdXNpcXhUUEwxMWMxbUpCN1V4cDVPS1VJcHpFOHc4Z1RhMjB6eUh2SkJJRWU3TE94TWZCRTZwWDVrUDVTWWhrZDhGNE5vcV9IZ2VvbklCQXloRlZuUU0wZVVlQ1g5aTlZa0Q3TkVNYTliNHhPM0dJUHJYdUpURUQ1X3hzMmZKOWdKNDloU01EZy1qYWZwUUlsVFNxLWZVMTByLU5WeFA1bW51VUtpdmt5RklJS3hfZjYtR214aHhTSEV4Y3g3WS01WFV4S1NUNXZiRGlYSjhFdGtoWm5Za0dveXR5bno2Wk5GSWlzdnlHVk1xVUU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "eBay Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHlnN1V2VFlwYlREaXNyM2ZySjlEZkNReWMzWVF3NVNCTks1dGZORGQxNWJKSkdKRFN4TVpLWFN0VW96THcyS01Ta3lYZHVKUGl0NXJKNnhWTDRTUTB5bzJvb3djZkpoc2dfdFU4YlItamJiT3VaTUhSYUFvN0JrVUFodTF3U2Vo?oc=5",
+        "title": "Why eBay (EBAY) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VYXoyaGs0YXB2cTlxeVNfWUNSTXJXdFZQTjRPZ054aEVJbGhQbjY0ZENTTXdxSkZydzJqTlQyU21wampiaTdQVGoydzhzU29JZi13dXRxdmpKbXVHVncyS3RTNnJxOFFQdW83U0JZSUtwSVZkcXo4WncyNFZCYW8?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Alphabet’s stock is now almost as cheap as eBay’s by this metric — but should you buy it? - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHFvTmpySHFNOVdtM2lfUG9UY3BNS1JIbDRnOXg2ZHRkbTdTNks1RC1Qb2kwWVlIS3FPbWpBMmhrQ3NiM2RjZWphdWRpVTZ0OWJJU0hjLTJBTEFVRWFYcGc2Ukp2a2hyOHM1Q3VwLTBQQm1Lc1lRY0FwSGRYR1dUTkczSDJ6SW4zRFZDZjhidjRCZXk4cWV6MHdPMjlxYzdMM1VlYnlNZ3VqZVN4ejJoeWlvWE9QaURzSzA3bzNqM0FvX0pnbGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EBay Stock Enters A Buy Zone As Global Tariff Tensions Temporarily Ease - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnUzREFsZmt3STlVN2Rsc25WWlkyRFJYeHRSc2MtUnN3TVdxR0JwWGg0cU92UkN2Vm4yb1VsQ19EbGNLVmFpcEhHT0o1RzVmcElQSFVZZjNOQjVWV3NCTHFKYWluM0FaLXhRWUtCeU93alR3ZUhZbTVJRXpiS2g2UkREa19SRWFMUlVCN3MyOXlUc0N3VUQ3d09yYWxjaGp1a18tRXhWZTAwckJDM04zVHo2d3RBLUdtZjhuMS1IX2thUjA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Josh's best stock: eBay - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnTWw3RUJRTzVMNWlFRF95T09SX2ZON3BMRG5ZaXEzVm5fbGZUa1FqdXZmSFJ5ZkM1ZkVVS0g1Vk5xejgwR2ZNZXIyZmRra3RhMDBiVFMzb0lUX3BGNFZHUjhtMXNNUktlNk10WmRGX2gxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "eBay (EBAY) Schedules Conference Call with Wedbush | EBAY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2pyX1E5WlpNLWYyUHJKQ240U201UXZqWmJiM1VBN1NNWHpCTVQ3N1BZMkZydWU3X3BzVkVDUW5xYlR1bkFYa01NUjJhRjBtbjRiZURER2c4NDUyOHlPdUxGdlVyaTMyY1hZZ1kyTy1DTGduYkp6NU1STEVkaDhNWkJJWUVGWUhLY1NsbGNaZkVSb1puQnd0akZ5czljbG9keG1zWTNB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is It Too Late To Consider Buying eBay Inc. (NASDAQ:EBAY)? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVmVLdktBZ0NsRkM5c3JpR1psZ1NmX3Z1empMbXhtUTRNNTBUaXNfR2xRTTNvSzkwR3FGMG9vZ2hmWHlieWkzbHhtQ1dCa0xpYTlpWnUzTDJJY1lQTjdvYkNhNHpHNGlpbS03bTdWTFIwTE9QMEZpaEx2MVdjMHM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "eBay Nears Big Breakout: Time to Buy the Under-the-Radar Winner? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEl1dkhvNjFmNDcydjJ0UjJ2TXYzYmQzRWVSUU1keE9uSHhVOS1CMmliZVF6dTRZMGY2dTZtcUwwMW5SVEVSVnFwbUNIampBTUVtajVuUzNGa1NzVFlwcTZJQTRmbURvdmVzMUhQdU9nRkd3amEzWC04RXQ5OTk5TEpHMnUyZWh1OEY2SnFhYU1ZdVQ4SlVTcjRVOUd5cE5iUUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analyst reworks eBay stock price target on economic uncertainty - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWMyVS1tTFVXZ2RsUGpuWG03MlpFcVFwVTRxcFBpb1QyU1NSTUJhc1YwOHZYS0EtSTNhR1NMX0pfVzFnSkpwLTZTRmpka05JSGZBTFl1NTJsY0lkQllqM19KWEw0eENtUTIxUUcwNVRxQW4zdTNQakxQRmZCZF91S1RfTkRIR2s4MzZ3elRPRDRmZDU3YXo3Zl9Edi1jeWww?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "A Glimpse Into The Expert Outlook On eBay Through 21 Analysts - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnN3dTZWMU9xUzhZNzRsT1JlU2pCZ0NuQm9PeVMtaVZwRHlEdWRGMXZOekZrZzNWY1ZpZkNUWHVPY1pOQlRqYnExMmxsLVZoTVFCQlJTRmFTWE9WcjVOMWMzRHFPTnNtRlRuTlExWUlKQUFmMTJabFkwdm80STdzUzZrWEpsRU9MbXpTblp1ckRyX3MwaEhFQ1psaG9ZOE5NQ09kTDQ4STg5VTJXS1k3eGpFaDVUNi1rUDBoYUtjckdhNTJl?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "It’s a counterintuitive twist in light of eBay's recent tariff charge warnings - Investorsobserver",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3VJRXdDY2Jmd002THhSeWVfNVZZc2hQVG9Ld0VLZkFqdl9fM2hhX29QMkhjelBiVUsxVmxJNDk1TWpkQjYzb1ZVM2c0dVZoRGE2aEpMRlRSb292X0hxMWtJcmJ6N0VEMjFkV1ZQRmFvamlCd2hQRXFZNHpaZllQMXZMVWZ1anYyUWF0Mi1pNk00bXNxWXJUR1ppZjh6TnZqYUllN0FhTTNHOG95WTZhZkdjV3FzNXk3OTdMWW5jMjFfQkhsUU5obA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan raises eBay stock price target to $66 citing strategy shift - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZk8zaVhDWWotMHNsMjZuWjVlRTd4Q29MR0NueUxlTFFxcEJlUjFCekVnRlNyMVp6ZDJRaVctakktekE0SnNfOF9wM3BTT2M4S3BJRXdmVHNsOUtHa2Y3T2Q2S3BBeGxlN09iNWZkc0tWUTF2WlduY3ZYR2hMeUhjN2JMdElteHlOMDZ6Z1liNk54Vld0Nm1fZk9DZGVvMnItbnkwTU9GaVZweWFlLUphSFFNeDNSWjdFVWR5LXZ3SXNjaEh0c2c?oc=5",
+        "title": "EBAY Stock Has Huge, Unusual Call Option Volume - Highlighting Its Value - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajAwcEg3X1BjUVN5MTBqZUtCaS1pXzN6ZU5iWGdKR3Zmb0oyZzdtdWlaelRvUUgyaWxodF9pZ00yT3ZTYmlGOEV1LUN0TXlFcW1IVjVGbGdNYzAyczFaYlkwaGFGbUp5SkdjREpTZV9nc0RwTE1LeWlYUVhidkw2Y3RpbXZOOU9DaUJhbkpOQUduQURQNU5NaFJEanBuNnNOemFST3BwNkppOTVpck1VYTBSYUk?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,13 +576,68 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "JPMorgan Raises eBay (EBAY) Price Target Following Strong Q1 Performance | EBAY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTlqalNaMHVFdzN5UWhZSW1zWmFqcGVKUU8wbmZuR2p0SjI5Q2k2YjR4MldUS2p6aHRCZXg4b1BuTjJsU2xTR2ZDMW0yQV9xRWxRQW5sckl5RVhQcW9mTUFPMTVUbl9YbS1GS3MxWGIwVVVnRnhtaFpRRklvdUdFcUpOajUzMExXM0lGM3ZYOVJCbnhVSmRUcGtla25oM2Z2cnEwamFzS1VWdUlaZ1RhNW9MZDA5M21iZ3hsUGlMWU5mUHhWc0ZCay12bFZfZGVFbGw0?oc=5",
+        "title": "eBay (NASDAQ:EBAY) shareholder returns have been decent, earning 96% in 3 years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG92SWdYOFRYbmVXNFNtM09QYlEtTWFpdExrS1lKRmM4WnUzZHhOaWNZM3lVZlVMOW5veUpINVNTNzdyR0RGYWw3Q0hVWTVSYlVzVEttcDdRcS13Um1icEl1Ym5YWEVYSXc3cnZFeG1KaVBUcklzZW1tZXFVc2MzLVduN0pzWi1Yb01pZjJ1bVNQRklBU3l2VXNHaTZvVkMtNlBNbGFFSkN0ZlNOZmF3azdYYzRSV2tNT2h0WWhn0gHDAUFVX3lxTE5ZdVFfS1Q2al9iNW5Ea2V0aFpwTm1ta0FRXzFmUXpsT2Y5VXBGSE5laTdaWlVXZUptMmphQ1lfbzZKYWVRSjVaVWNYd2xsZHo4SnBaWEZXN1lPSHZYZTRKbmc0WlJ3TUFzbXVPUEhRREZmOG1zLXVuNXQ4Y1ZtaHhTaDJKLWRjLUhXNlJLZDN6TzBnaXp5RV9nOHVJd09iZ1ZKZzJZMzZyY2l2TDBQTy1oNjg2SXRrZnl1NHIxQW1TMG9hOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Josh Brown Says eBay (EBAY) a ‘Breakout’ Stock Amid Tariff-Proof Business Model, Cheap Valution - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOQ09xdWZTa2czMUgxN20yczZjaDZmU1R0b2RJWDREc2dieFQ5QzR5XzVjMENsU1NLMUY5Wk54R3BEYXpHaUZ1a010N0MtZExiWHh5RnExbUw3cHE5QlJYS0pJb28yY2RHQ2MzZU5CcWJjZWEtVmNoSU9nSW9TM1FLUUFuVzZVNTQtSlFncmRfaXV3RFRmZGZkZXgwdldFSDhZYXNicy1Nd2FYWnFDQ3F5RE5CeUFwbkdPM21LMTA1SU52N3JSb21IZ0g2NGE0SzdoeW1FNUFpUkZEWVFZeUZNOGZmSFJpQkc2NWEyLU8zSklkZFdFeVp0cTBvemNCcFZpOUpWQ29lSmFqSDBDcmJTTGEwajY2UFZnQVpZREV1X2pUZ2ZpS05kWnU3dGpad09BVi15YWU4VnlWcW1tUTNpdWNnU0xnQTBuVmt1NVJSemR4QW1CMGVSM0ZMQ1RSYWNZZ2s5azNFSWhIejlIWXJqQjZn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "eBay Nears Big Breakout: Time to Buy the Under-the-Radar Winner? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEl1dkhvNjFmNDcydjJ0UjJ2TXYzYmQzRWVSUU1keE9uSHhVOS1CMmliZVF6dTRZMGY2dTZtcUwwMW5SVEVSVnFwbUNIampBTUVtajVuUzNGa1NzVFlwcTZJQTRmbURvdmVzMUhQdU9nRkd3amEzWC04RXQ5OTk5TEpHMnUyZWh1OEY2SnFhYU1ZdVQ4SlVTcjRVOUd5cE5iUUE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why eBay Stock Plunged Today - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JX3VkTFVhSTVkQ0ZjOXlSOXQyM016a2RLNTQybXRfVWRvSFRmZ2IzeGZXSF83UVZuRkZWT3VRbGh3dVlHZ0tsV09zalY3SmhybUt5X2h4bV9LYVV0Uno5YWNUd0lTTFlYdmd4MQ?oc=5",
+        "title": "eBay is shutting TCGplayer office in Syracuse, cutting 220 jobs - Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb05TNkZNeW9Kdl91UTVVazJFMHdvRktpUlFBX295ekFSRnNobnlIdzlyUXk0MEhBT1ZEOFl5QWZpYnRjblhEaUdrZ05TYkRJTVFFRDB6dGtSamJQeDFTcVBVdDRrQ1hmMWFJT1RIVjM2X1hjcXVrWkI5RWJrTVc2ZmVCaEJpdUJLRkEyajVSRG1jZVl4NTN0VFRiZVFXalBHZnVDatIBuAFBVV95cUxNdDVRQm45Ri1Zelo1aUFxUklvTGpGOFBLc0RaTENGbFowUzZOZlktNFY4dEp2N2FzUlVZVnBGYUY1Y2t1amU2MUhCNm9RdTV5ZFhwN3U2R0s2QUtkUUQ5NUVGTVFRVVN0NnJKeS1vVWkwSF9GdWxsNms4cmtzZm1PNmxXMjJvMUx6bXdpREVaR3d2Y3lWSmlPUFVpb2ZvTkZGOFFoc3FZTmxmakplbXNqVWNKVzB6NzVv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Josh's best stock: eBay - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnTWw3RUJRTzVMNWlFRF95T09SX2ZON3BMRG5ZaXEzVm5fbGZUa1FqdXZmSFJ5ZkM1ZkVVS0g1Vk5xejgwR2ZNZXIyZmRra3RhMDBiVFMzb0lUX3BGNFZHUjhtMXNNUktlNk10WmRGX2gxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet’s stock is now almost as cheap as eBay’s by this metric — but should you buy it? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHFvTmpySHFNOVdtM2lfUG9UY3BNS1JIbDRnOXg2ZHRkbTdTNks1RC1Qb2kwWVlIS3FPbWpBMmhrQ3NiM2RjZWphdWRpVTZ0OWJJU0hjLTJBTEFVRWFYcGc2Ukp2a2hyOHM1Q3VwLTBQQm1Lc1lRY0FwSGRYR1dUTkczSDJ6SW4zRFZDZjhidjRCZXk4cWV6MHdPMjlxYzdMM1VlYnlNZ3VqZVN4ejJoeWlvWE9QaURzSzA3bzNqM0FvX0pnbGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "eBay (EBAY) Receives Neutral Rating from Wedbush Analyst | EBAY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdklUQW15WkdPLV9MbmJmUWh0NkpmQ3Q2LXpod3RHRkVWcndvU1lzT1lOLWt3c3NweW85MnE5VTNGN09zWjdsbXNvbUtuU1NnM2VRdkJGR2YzWE1SZGxOLUpsVUtkX1lFSzNlQUtVZnJIaUVSeGc3RWRBbWtId2ZzVlhoM1FLZF9fZzY5YXNOZ1VxT3Jrc1hYV1pQeXgtVFVOX0txRDg2Mlh1V2J6d0dR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "eBay stock hits 52-week high at $79.51 amid robust growth - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekVyLUo5S0tuZHpRbmFNUzFoU3lwZkR3cXRucm84V1dUMWl6bE5yWUw5MUdxZkl1RmdlVEFzNXp4T1hwNDNZcGlGcGV4RERaWWZxYXhwNk1Eek1Oak1oS2JBQktlQnNtWGtXY2VZQVkwQ2o2c2JVcnNDaTN1Mm11Q1M2SWhWanpJZ3JvZTJqWFZWcDhKWUY3MWxPaU04WUs0Q3h1dERadTdpODhDcTA0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "eBay Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHlnN1V2VFlwYlREaXNyM2ZySjlEZkNReWMzWVF3NVNCTks1dGZORGQxNWJKSkdKRFN4TVpLWFN0VW96THcyS01Ta3lYZHVKUGl0NXJKNnhWTDRTUTB5bzJvb3djZkpoc2dfdFU4YlItamJiT3VaTUhSYUFvN0JrVUFodTF3U2Vo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Calls eBay (EBAY) a “Real Shocker” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43a1RXNElEeG5QTUQyME8wVlU5a1RDdGNuYklGNTI1OVZjS09DTHhJMnFINFlaWWhQVDAzS1Z6N1UxV3VBXzFNN1ktUGZQcHNsVTVFV3RYVjdPTkZJMGU5QTEtTUhMUU9lZkVyR3hkdUZLT2VMRDI3QmphYWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBay Stock Enters A Buy Zone As Global Tariff Tensions Temporarily Ease - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnUzREFsZmt3STlVN2Rsc25WWlkyRFJYeHRSc2MtUnN3TVdxR0JwWGg0cU92UkN2Vm4yb1VsQ19EbGNLVmFpcEhHT0o1RzVmcElQSFVZZjNOQjVWV3NCTHFKYWluM0FaLXhRWUtCeU93alR3ZUhZbTVJRXpiS2g2UkREa19SRWFMUlVCN3MyOXlUc0N3VUQ3d09yYWxjaGp1a18tRXhWZTAwckJDM04zVHo2d3RBLUdtZjhuMS1IX2thUjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Time To Consider Buying eBay Inc. (NASDAQ:EBAY)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVC1JNVdMYWNlOU9WZWZfT2Z6Y0MtWFo3Uno0ajhHNld4OGxuSVNwRFItN3Uzb1IwTDhBenRLWGtpdmRocEtnVkhhSk9odjl0NDctRTEydTJiRmNTNEY3OTJrSm9TY204ZjlDQjJjdTQxWmduUWRHMDRQbmY1NVZVdWdjNlBmT3kwRkxhX09XYUlPd3FPX3VuMGtHdFJvQjF6cHl2S2tMOS1GWnI0LTJwazhR0gG3AUFVX3lxTFBpdUFMdmRhNERSNDFlZ1lqaml0ZFpNeWhweUtCNDZidEdwRlFDcUp3cXlnUjIzeE1iQ3hoRGJSczhMRlZZWFk3REZseTJPdmFHZVJVZldGVDJRMUEyUFJ6MFRoSVNtcmF6Q1h2YkppaVlPbWgyQUU5Vm9SSjA3d1B4ZE5rTjVzZzhSOTZzMWg3WTRWaDlEbl8zajFxYmxZV2lRUTBqZXZEenFrSS0zX2F0X3ZVTWJBNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "eBay Insiders Sell US$3.2m Of Stock, Possibly Signalling Caution - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Va3V1SG8yNWJQbUt2SXdVVFJFblU0TWJ3d0s0b1dWcndCNHZQMUVRS3RqN3dab0xuLW9pQ2drYVpqYzZ2blkzZXJKa09qeUFfbW5QbzNYYWpwWFlFZmtHeEJaWmZjZUpvZHVwQXRqRTJaS0E0UDNBSA?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -641,21 +646,16 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "eBay (EBAY) Maintains Neutral Rating, Price Target Raised by JP Morgan | EBAY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTU9QQ1NZMHhBUmkxT2JIemtIU3I0QWNhR1lBeGtQLUFwSlJiMG9fZ0NfbHMtQk9lLW9aakVBM19fOXFPdkhmaEZhWjNMRFc3Qlc5c2RvQmQ4V25xR252ejR4cEJRUGdmR2NDMUYzNDlKcW9DalU4MXVYSlk5NFlyZ0RXeGlUaWtfTHhXRmpRa2dOaTFmdE5mZ0pQSUQ3dHlTVTFMRjItTzJKUzJxTXFyRGRpTGQ3X3RJdHU3dG9sUHo?oc=5",
+        "title": "Should You Buy eBay Inc. (NASDAQ:EBAY) For Its Upcoming Dividend? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkY1pZenM5OXBqN1dQY1N0aU9GcTFUZTAydXFNMGtkeEtmbHNjYmdlaXotdUtCLWFKVTJ6cUphQkVzTjJTbkNneml4bmVaVmFFbmlVVzZvQ3BIaW1SVnZPZW1uZmZXTEd3Mkh3d0ltMWhqWWhUZHYyUlhR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "eBay stock hits 52-week high at $71.92 amid robust growth - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHg1bmJRTS1ZV0gydjRxRjNUVTNydFdFM2ZRUEI4WHd0dl90V2ltOHZ0OVpVXzFlemJDdlI3Z2FaQ3ZLZGdsNXpaX2xkUFE1aDBjaWh1NzdFSE42YW1ZQ1Y3WDlzZEJ0SlZGSndPU204bVRidk55SHBLcTFKb3E0Vk53NTZvT0JYWTFNc2dMZ1E3WlVTQ25kdTVfSVBMOHRwaHJwbnI4dFZmaDFtejN4OQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How Will eBay Stock React To Its Upcoming Earnings? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZV9UWWhSUkdnTzV6b0MzQlhPYTVFRzlUMXQ5UFZDMUttOUF4ZTZHSEpnVldWckpON3kxMGZXTHg4RkxtRU5BbE00QlBWeml5VHZMakFGOGhhWXVYaEx5TEdkUW9uSWo2Q2dIWmpJS3lBcVBvR3VyLV9UYmh2VzUtR0FiVHRkQQ?oc=5",
+        "title": "Is It Too Late To Consider Buying eBay Inc. (NASDAQ:EBAY)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVmVLdktBZ0NsRkM5c3JpR1psZ1NmX3Z1empMbXhtUTRNNTBUaXNfR2xRTTNvSzkwR3FGMG9vZ2hmWHlieWkzbHhtQ1dCa0xpYTlpWnUzTDJJY1lQTjdvYkNhNHpHNGlpbS03bTdWTFIwTE9QMEZpaEx2MVdjMHM?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

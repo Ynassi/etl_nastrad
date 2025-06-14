@@ -5,23 +5,27 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# 📁 Chemins
-BASE_DIR = Path(__file__).resolve().parent
-DATA_FOLDER = BASE_DIR / "data"
-SUMMARY_FILE = DATA_FOLDER / "headline_summary.json"
+# 🔧 Chemins
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+OVERVIEW_FOLDER = Path(BASE_DIR) / "data" / "overview"
+OVERVIEW_FOLDER.mkdir(parents=True, exist_ok=True)
 
 # 🔐 Clé API
-load_dotenv(dotenv_path=BASE_DIR / ".env")
+load_dotenv(dotenv_path=os.path.join(BASE_DIR, ".env"))
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+SUMMARY_FILE = OVERVIEW_FOLDER / "summary.json"
+
+# 🔹 Chargement des fichiers JSON
 def load_json(filename):
-    path = DATA_FOLDER / filename
+    path = OVERVIEW_FOLDER / filename
     if not path.exists():
         raise FileNotFoundError(f"❌ Fichier {filename} manquant")
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+# 🔹 Construction du prompt
 def build_prompt():
     fear_greed = load_json("fear_greed.json")
     vix = load_json("vix.json")
@@ -49,18 +53,15 @@ def build_prompt():
         "🔥 Top secteurs aujourd’hui (variation 1d) :\n"
     )
 
-    # Performances sectorielles
     top_perf = sorted(sector_perf.items(), key=lambda x: x[1].get("1d", 0), reverse=True)[:3]
     for sector, values in top_perf:
         prompt += f"- {sector} : {values.get('1d', 0):.2f}%\n"
 
-    # Volatilité sectorielle
     prompt += "\n⚠️ Secteurs les plus volatils :\n"
     top_vol = sorted(sector_vol.items(), key=lambda x: x[1], reverse=True)[:3]
     for sector, vol in top_vol:
         prompt += f"- {sector} : {vol:.2f}\n"
 
-    # Tendances
     prompt += "\n📉 Tendances des indices (delta approx. sur période) :\n"
     for symbol, values in sparklines.items():
         if isinstance(values, list) and len(values) >= 2:
@@ -68,17 +69,14 @@ def build_prompt():
             tendance = "hausse" if delta > 0 else "baisse"
             prompt += f"- {symbol} : {tendance} ({delta:.2f} points)\n"
 
-    # News
     prompt += "\n📰 Nouvelles économiques :\n"
     for article in news[:3]:
         prompt += f"- {article.get('headline', 'Titre inconnu')} ({article.get('source', 'Source inconnue')})\n"
 
-    prompt += (
-        "\n✅ Génère un **paragraphe unique**, fluide, avec un ton analytique, sans phrases vagues ni redondance."
-    )
-
+    prompt += "\n✅ Génère un **paragraphe unique**, fluide, avec un ton analytique, sans phrases vagues ni redondance."
     return prompt
 
+# 🔹 Appel à OpenAI
 def generate_summary():
     prompt = build_prompt()
     print("⏳ Appel à GPT-3.5 pour génération du résumé...")
@@ -93,6 +91,7 @@ def generate_summary():
     )
     return response.choices[0].message.content.strip()
 
+# 🔹 Sauvegarde
 def save_summary(text):
     with open(SUMMARY_FILE, "w", encoding="utf-8") as f:
         json.dump({
@@ -101,6 +100,7 @@ def save_summary(text):
         }, f, indent=2, ensure_ascii=False)
     print(f"✅ Résumé sauvegardé dans {SUMMARY_FILE.name}")
 
+# 🔹 Main
 def main():
     try:
         summary = generate_summary()

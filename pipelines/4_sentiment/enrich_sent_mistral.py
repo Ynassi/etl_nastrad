@@ -10,24 +10,24 @@ from transformers import pipeline
 from tqdm import tqdm
 from deep_translator import GoogleTranslator
 
-# 📁 Dossiers
-BASE_DIR = os.path.dirname(__file__)
+#  Dossiers
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CSV_PATH = os.path.join(DATA_DIR, "sentiment_news_summary_full.csv")
 JSON_PATH = os.path.join(DATA_DIR, "news_summaries_full.json")
 
-# 📄 Tickers
+#  Tickers
 df = pd.read_csv(os.path.join(DATA_DIR, "df_final_merged.csv"))
 tickers = df["Ticker"].dropna().unique()  # ✅ toute la table
 
-# 🤖 FinBERT
+#  FinBERT
 print("🔁 Chargement FinBERT...")
 finbert = pipeline("sentiment-analysis", model="ProsusAI/finbert", device=-1)
 
-# 🔗 Mistral API externe
+#  Mistral API externe
 MISTRAL_API = "https://fzhvs2csuz2ezl-8000.proxy.runpod.net/analyze"
 
-# 🌍 Traduction
+#  Traduction
 def translate_to_english(text):
     try:
         return GoogleTranslator(source='auto', target='en').translate(text)
@@ -35,14 +35,14 @@ def translate_to_english(text):
         print(f"[TRANSLATION ERROR] {e}")
         return text
 
-# 🔍 RSS fetch
+#  RSS fetch
 def get_rss_entries(ticker):
     query = urllib.parse.quote(f"{ticker} stock")
     rss_url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
     feed = feedparser.parse(rss_url)
     return [{"title": e.title.strip(), "url": e.link.strip(), "date": e.get("published", "")[:10]} for e in feed.entries[:20]]
 
-# 🧠 Appel Mistral
+#  Appel Mistral
 def call_mistral_summary_global(titles):
     try:
         full_text = "\n".join(titles)
@@ -56,7 +56,7 @@ def call_mistral_summary_global(titles):
         print(f"[Mistral Summary ERROR] {e}")
     return ""
 
-# 🔍 Bullets
+#  Bullets
 def extract_bullet_points(summary):
     try:
         response = requests.post(MISTRAL_API, json={"task": "news_bullet_points", "input": summary}, timeout=90)
@@ -69,7 +69,7 @@ def extract_bullet_points(summary):
         print(f"[Bullet Extraction ERROR] {e}")
     return []
 
-# 🧠 FinBERT sur bullets
+#  FinBERT sur bullets
 def analyze_bullet_points(bullets):
     try:
         results = finbert(bullets)
@@ -83,7 +83,7 @@ def analyze_bullet_points(bullets):
         print(f"[FinBERT Bullet Analysis ERROR] {e}")
         return {"POSITIVE": 0, "NEGATIVE": 0, "NEUTRAL": 0}
 
-# 🧠 FinBERT résumé traduit
+#  FinBERT résumé traduit
 def classify_summary_with_finbert(summary):
     try:
         sentences = re.split(r'(?<=[.!?]) +', summary)
@@ -116,11 +116,11 @@ def classify_summary_with_finbert(summary):
         print(f"[FinBERT Summary Classification ERROR] {e}")
         return "NEUTRAL"
 
-# 🚀 Pipeline principal
+#  Pipeline principal
 results = []
 mistral_json = {}
 
-print(f"\n🚀 Analyse des {len(tickers)} tickers...\n")
+print(f"\n Analyse des {len(tickers)} tickers...\n")
 for ticker in tqdm(tickers, desc="Tickers"):
     entries = get_rss_entries(ticker)
     if not entries:
@@ -171,7 +171,7 @@ for ticker in tqdm(tickers, desc="Tickers"):
 
     time.sleep(1)
 
-# 💾 Exports
+#  Exports
 df_out = pd.DataFrame(results)
 df_out.to_csv(CSV_PATH, index=False, encoding="utf-8")
 print(f"\n✅ Export CSV : {CSV_PATH}")

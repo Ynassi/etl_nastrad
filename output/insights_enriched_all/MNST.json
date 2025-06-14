@@ -2,12 +2,12 @@
   "ticker": "MNST",
   "name": "Monster Beverage",
   "sector": "Consumer Staples",
-  "market_cap": 62142676992.0,
+  "market_cap": 61547778048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 41.921055,
-    "PB": 9.530362,
-    "EV_Revenue": 8.029,
+    "PE": 41.519737,
+    "PB": 9.439127,
+    "EV_Revenue": 8.119,
     "ROE": 0.20004,
     "ProfitMargin": 0.20273,
     "GrossMargin": 0.5464,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.19394854544223444,
     "ROA": 0.14239,
     "PEG": null,
-    "EV_EBITDA": 27.528,
+    "EV_EBITDA": 27.838,
     "BuybackYield": null,
-    "PriceToFCF": 42.84958802059644
+    "PriceToFCF": 42.57279017568968
   },
   "technical_indicators": {
-    "RSI_14": 62.152220008209326,
-    "Momentum_10": 1.3677452566116617,
-    "MACD": 1.0242653297921365,
-    "BB_Percent": 0.6960279599628877,
+    "RSI_14": 55.474491275806805,
+    "Momentum_10": -1.258796396515914,
+    "MACD": 0.6578814060928337,
+    "BB_Percent": 0.3986898119646164,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.925512576103572,
+    "ValueScore": 0.8661819187872241,
     "QualityScore": 0.4373502396837701,
-    "SignalScore": 0.5135241077316324
+    "SignalScore": 0.5636422774864953
   },
-  "volatility": 0.0146574303975656,
+  "volatility": 0.0145368612426582,
   "beta": 0.605,
-  "return_6m": 0.2190549198902633,
+  "return_6m": 0.1961713915482472,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 23,
-    "target_mean_price": 61.45261
+    "analyst_count": 24,
+    "target_mean_price": 62.30875
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 53.21
-      },
-      {
-        "date": "2024-12-10",
-        "price": 53.01
-      },
-      {
-        "date": "2024-12-11",
-        "price": 52.1
-      },
-      {
-        "date": "2024-12-12",
-        "price": 52.92
-      },
-      {
-        "date": "2024-12-13",
-        "price": 52.76
-      },
       {
         "date": "2024-12-16",
         "price": 52.25
@@ -537,28 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 63.41
+      },
+      {
+        "date": "2025-06-09",
+        "price": 63.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 63.04
+      },
+      {
+        "date": "2025-06-11",
+        "price": 62.59
+      },
+      {
+        "date": "2025-06-12",
+        "price": 63.69
+      },
+      {
+        "date": "2025-06-13",
+        "price": 63.06
       }
     ],
     "current_price_data": {
-      "price": 63.41,
-      "change": 0.41,
-      "percent_change": 0.65
+      "price": 63.06,
+      "change": -0.63,
+      "percent_change": -0.99
     }
   },
   "news_sentiment": {
-    "summary": "Monster Beverage Co. (NASDAQ:MNST) a récemment enregistré une baisse inattendue de ses ventes nettes trimestrielles, due à une demande instable. Malgré cela, plusieurs investisseurs institutionnels ont augmenté leurs participations dans l'entreprise, tandis que le CFO a réalisé une importante vente d'actions. Ces mouvements pourraient indiquer une divergence d'opinions quant à la performance future de l'entreprise, alimentant ainsi un sentiment de marché mitigé autour de Monster Beverage.",
-    "sentiment_score": null,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.15,
+    "summary": "Monster Beverage (MNST) a récemment connu une forte hausse de son cours de bourse, soutenue par des prévisions optimistes de Goldman Sachs et Morgan Stanley. Cependant, une note de dégradation de Seeking Alpha a tempéré l'enthousiasme en soulignant un manque d'attrait à court terme. Malgré cela, Stifel et d'autres analystes maintiennent des recommandations positives et ont revu à la hausse les objectifs de cours, suggérant un sentiment majoritairement favorable autour de l'action. Les mouvements récents de détention et de vente d'actions par des institutions financières soulignent une dynamique d'intérêt pour MNST.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
+    "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Monster Beverage Co. (NASDAQ:MNST) CFO Thomas J. Kelly Sells 27,000 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjJmX1FSWXVkenJ5VElzcnlPZzhvdk8tOTJ3QlJiOEpMSGQzNldVMW9jU0xXNTJJN2ptR1ZTRVFsUUppTl9BT2hlOWhkNmE3X2xKVlFXdE1aQXZ5VmRXYjlhYy1WRGlENVpqaGVabzNEc0h4bzA4dGlqbk9BMENkTkVKYS1UMnVJLXdLMlp2eTVXRWFOM0trM0Z5cXJPdG1OUzdZMzVhbXVXTFdDMEdmYkVvcEtUd3QzUUV6R0llWUUxOHlhU1hSbkNGNkM?oc=5",
+        "title": "Monster Beverage Stock Up 16% in 3 Months: What's Next for Investors? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjhPOG1sRTc1ZFRkcDZ3cER1RTg2VFQ2M3BZOE9GeXBYc2xHOGxZcl9CRVRJek1ROWNJUXQweWRCbFhZbHZxQ1ZsMmwwcVFWVExfdWo2V3NjQmU2R3BQWF92QjhwM3puZEFna1RQYUZreVJ4SDRpZUtPYlhpYk96NWRwbnZzZ0lLQ0tvTndfcWdiZ1JhdGxneUE5MUZzNHhBSlE0OW1pTnNXSThoUFpQQUZxTFRVUEhOMF9EYUZfNA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Monster Beverage Corporation's (NASDAQ:MNST) Stock Is Going Strong: Is the Market Following Fundamentals? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXhQN0ZLT1BxeGlQTUItTEpMZndLeVpBS3puaUVXSHdqdUduUlI0T1dMRWtMRXFJTEdTM2NCNm9qTmY1cXNRaHduTVFCb3R2cm5VOTJ3UEU2S09Edko5Y2hZcTVkcmJzUDQ5ZFlsX01RWWdyeFBBbmkzZm5xLWwzNDRyVnhvLW5RUGNERGYwdVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Increases Price Target for Monster Beverage (MNST) | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQUducEVzMlUwSmdPdkJ6a2pFd3F2SlhwcExlMUlwVmx6Sk5BaHhBN051UTV1Y2dNcGpzdDEtUjNiT3doeTFnNjVFYXZQa1NHS0dmREM0aHEyY1ZkaWV6OGE5Zk9qQi1abkhybXpWY3A5OFFsT2lGQ2l1Q2VSUGozSzhhMERMazNaaFR4S2hsM0NGcFN1VVhvTno1REt3OGFPOUhhbzV0aGQ5U2tyUnJHV3l3RjVDdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group Forecasts Strong Price Appreciation for Monster Beverage (NASDAQ:MNST) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGg2ajVzWTl6YXhiaWNzSlByb0l6TmliNlY5SDNWUXpoN3hLbS1qQVhLa0tfVUZGWGpaaTFSVEwxNHJFeUZCdWFESHgyblZETDdPek9SOFU5aTFFSmFRdXJNSnJYMF9nLXptdl9Ob2c1UHE4bG9vOHRzZEgzMzdxakNpSG1nQWRSUVpFcnY1SGZUX0ZCNFRMOFBNWEktNE1EZWxyM05td250Nl90NFNQd1I3aTgwYks3SmwwZmRYU0dzRjFITVBhNkZMeHh3WDRRZG4tQU9aNElFWWNLTVRYWl9CRUY0UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Monster Beverage: Rating Downgrade As Near-Term Set Up Is Not Attractive (NASDAQ:MNST) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclFFTkdoaGpROVNZaHpZYTVOOGYxVFA0b3luakhibmV3T01uTjF4X3lJekR6RDk0NEk1eHFyZzBZaEJVUnd2dngxdGdWMjIzU2dNc3B5UERGbEplWU51OVk0amRhRlJxM2Z2NWZ1XzRVeDd3bFFYdDZpR0R4OWRZZDd4T0NZR01hTUllbjhNLUthT1hHOVdQTG5mai1sdG9hd1ZjRmpZSUFDdw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Monster Beverage Announces Virtual Stockholder Meeting: How to Join and Vote Online - Stock Titan",
@@ -566,96 +586,76 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Monster Beverage Announces Webcast Details for Annual Meeting of Stockholders | MNST Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeHZTV2NVcUhqRkp4cGREa0kyOUI3X1FCYlZoZC1TWldLSzduVmE0ZWZJSU1WQWc1dTlRSmEtY0dLZmM5V0hRRV9YUzh4a1A5dF9KTl93VmF5dDZtNmZxX1VSRHdiM0xBUTVoaXpMSGVWZWZOeUN0d0xINEh2OVFVblIwa1U0WGp5Y0stcVU0UnQ5WmF5NDR0X3Q2dDdEVV82UlR0ZGoxN2FEWE1LX1MzSDJHaktXbmFwQmQ0dzF1TlhKUGxPZm9WNkluM0g?oc=5",
+        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Bought by Fifth Third Bancorp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdVNHOVJETXZfRTJoU0ZnZ19WTW5fZ3A5My1zbVE0Q2pKNkd0WEkzTlRKY3BNWFZHUmoyYzJhb3ljV2xodlNwQlJ2bm1scFN4LWFZcDVXb3ZPbkdVQzBpa05pb1ZtVEItQ2tMa0ZlVlZIdDFEUDVQdm4zUlBfY01PVDdUa0Z1UHZuY1E3dkpTSVdXdGRMcXZ0NEZCVlJoUHRSZlRpczhTb0U5WlpMWHZPTE10ZlJBWGJ5WjZQajY0ckRieUZjT3dN?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Monster Beverage Stock Outperforming the S&P 500? - inkl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzIwUEhqQkdpX01QcGhEWXEwRGRiSGhZU1N3bzZVbTJxRGZMeGVSUWRPaEdEeUFRMncyYnVUbFpTUThpZVY3d3prbHRCVndteG8zUnFMaHl0WGs3b1YwRjdqTEFmYUJBRk9IdEFES2JOSlFhamN2TkhveW8zd1o4VUVSRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Monster Beverage CFO Makes a Major Stock Sale - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFJRUzF3V25tc3RxRkZiMlFZT2F0aF9QMUVJVGEzUkVJWUQwbm1JR3ZqS1UwZGp6a3ZEbnUtTVk4cmkwQmFyUmlXellCMGRJOGtPUFFaazI5YW9MMXpGQ2RIZ3NHd1BhbTFuRzhLa2U4TzBZaWRRNy1WWGg1NWVveUpjU01FSndpOTJMZEFadWJNNzY0T3c?oc=5",
+        "title": "Monster Beverage (MNST): Analyst Maintains Rating, Raises Price Target | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmxTbUlSTkhEZnlPV0tBUzV1aGxQaWl3SWd4X05vMUpNckJEUTVZVks0ekw4UVRGc0FyR2ppcmZ5V1p2NVladnJVRkRwNDVpenJHYkdCb1JDN3RxSUw4RGt5aU1vOVhqRHBwZ0txM3ZaR2I0Mnd3bjE2ckxJbUk0SnVfTGduZmZRaGVzNy11VDBkeFdXejZGNFEySV9TaTkyT3hqOHZYMlQ5S0kxZTJ5bk50ZnpBMUpKZGlVR0l3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Riverview Trust Co Has $418,000 Stock Holdings in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWS1sMFkzY01TYlhuZ1AxT2ZKa3VINVFscUlLY1JFT082RHNHMXgxN1ZOUFpKWmpiSTVlQW1TX3BLaWlxTXZRTHQxSWxNSWNRZ3Y0S3daai00OTV6T3lzTEZEbnFPQXN0N2tyVEY3dVFRMmhhRDUxdzJnOFAtR3dJQkNNMEdWZGVBY1dBUkpEWThWTENoaWlFaHRlazN6Wmhuc0dSbEw3UDhxYmJjakZ5NEhyRFFfR19pbXV5UlJlWFhuTFZvbXNYLU93NnNYMDhSQjk5cGx3?oc=5",
+        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Sold by Ferguson Wellman Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkFYZHJPdWQ0RFdGcndPbXJCRm0tV3lCTW9WSS1fX0ZmNGhEeU5JTWh5WW1ZZE1mUjUxMnNaeFVHWFZfOGpBcDJoZTdLX05RVkFGS1JyUVhXdWhPVXB6NS1XN1FvSTFKd013NktweWRXM0tvZ1F2WWw1SDVRNVlVcUZqY3lQMThUUG9mV3AxYnJ6ZTd6bE9oYUFaZFpvM0sxYWpNeXhpN2ltMFFiZnZvd3BldDRsYmgxQXJ6U3NYcWo2Rm83X21XV3pLZFRCSnVabTQtaWpxVm5Oal8xbFRZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Monster Beverage posts surprise fall in quarterly net sales on choppy demand - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGZ4QTZyTXYxYXJkRzNiVTBVWDAyWURnUldGRF9QOFBvNFkzYlNmX3ZSTDJIdk1FR19vOHJjN1c0OF9DQjZfTTlUTnQyOG55QVdBOEoyVXBfNVhEUlF5R0t3QXFXSmI1RXJsT2FJcnMwM043NFlpZTFHdm51aUNYNnJST2ZQOG83djRjYzRtUW9YNVh1bUZoelVma0l4NjRvbWItTUljeGNOWmh0c0V2VVRaZ1BQUWRRT3V5VGVWaEZma0dYM1JNeW00UQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Procyon Advisors LLC Has $6.79 Million Position in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTREdlNodVVUNHdTUXJoZ3JKcWxqYTlaa0FtdG1FV2d1cmRnT3djZVdjSzVVX3NXNzBTWXVRb0ZJVEVzYnBRX2JjUVI2ODhoek9pNnZmdExHWnduZlZiempLZC1HNkljNjVKMzExcFNEWTJTV3FpN000Y1ZsMm5qcVB0dUhrZWI3X3RSNXpHQzl3dWpHaGVpNGY0ckN1TFZveVY1OWpMaHVpVTl1bl9RQUVDd2ppemFCSXIxX0IwRVdoTElrQWJVb1dxYTNBX0RiLVV2blV1aw?oc=5",
+        "title": "Monster Beverage (MNST) Price Target Increased by Morgan Stanley | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb29UUk9jaDdReVhmaS1ZaExqWWJpel93cmItSTE1aUJHaWNJaVFFLXFpSVNDY1hORmlIaHNsb2NCNEE3czlWYVFDeWxfMm5YeVNqenJtLXBvd3l3YlZ5RmhRRzBQY0ZRRUE4Q0F0YUVTdTRRUmd3c0JDZnBxRzRfaE9QNlF0Q2E0TXZtUzZBTmpFdWpQSkNod0tydmotaVpqWnNzeHRvMXluTWNHaUxxQ0pjeUU1dm96?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Boosts Holdings in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1NxTVdLa09nQ1RSZHU0aWNOcGhqcmNJYXluNGVmamY5S2FxV19ySUs0VU8zMzVwTklQdGhHT2l3YTktZ19ndXlzb09OX29xa2dkakZfNHo1TldPOGtpV2VraG5FaUR3M2dfejZVUl9VNkJlYVVsQ1BwaGtqQ3BmeWhSSl93ZFFwS1NDMjgtWjBkOUpMdkpkSUZ0SnFqYUVZVy1Qb25YMzdBUUh4dHZlQmw1ZzlmNENBYlhDR25zUUJPekZYT1ZlNnpR?oc=5",
+        "title": "Monster Beverage (NASDAQ:MNST) Price Target Raised to $70.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3RfX1NVNE92b2FvcERScHU5RkhzQnpzWWFSXzU4VVJEQ3h3d0ZWVUdJYUk4V0VDSUZDM3U4N2VubG1Ud3FHR2FIbnR2R0VZTTJ3XzFObmNMX2ZHWjJlZ195c1JvRF9tbllvSU9vb0x3S2tpUEszS1NFZzNhcG5mZFVhOVc1WVZzV0h2SkRWczRaUlVrMjdSTmQzSnh5Vm95Z2tjS1pTN29KYWs4b1E?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Bought by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXdTSUdXUDNtNTItSzN0OWJyQzNPbDZCbTZEdDlTeG5EX2VoTEdMSnM1X2Exc0VzNzhMNFJfWkl5LXdUcVRBb29yNzF0VEFpRjFTTmFKUlU1UTR0QnlrbDNTVHlPNFR2MFBHQVRSZk5xNkZIT2VkT3RmZWRRYTF1c0U4NGx1cVJTc2QwRzBDMEEwV2RtTG1LTWlTMVNCOTEwTXN5TTV1cjFLLURVb3pDQ2NVNElRYVR1TXJ5eHFDZWN5U2tVd2c?oc=5",
+        "title": "Stifel Reinitiates Coverage on Monster Beverage (MNST) with Positive Outlook | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzA3Y3dKcWIwN3ZhMjNmX1FfaV9yaFFxTnBIMEVLcGFrZHhVS2t1TzJqSVBNY0hxejRZVVR5V2o3RVBKOU8tbVRPVlNSekI3Ny01Z1ZDSXY3T0NkX21fSUtoc0lIaGdoY3I0UmJhWmpvczVzRXFBNjQwRTlxdHZzZE5jRjNqWjJaek8wQnJYZVRGcjV1aUl3clV1X2NGU0owZV9ZSUFmNGVkZkFBYVM2N2ZaLS1CQW5MZ3BDRkFLM1dCRHVTYWV4TA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Versant Capital Management Inc Raises Holdings in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0g2SHFWb2tiQUNNN0gxWWtIRkFOalctMVRjTjg1MkxqQlVtdFF6b3NuLTY0WHIwV1RIWXJPbkZGY3dURkZwaGdGQWxYNHRGSEZ4dlYzMkpGYUNfT0s4eHkwLWloclNJOTg2Z2E5dkV0VGVYR1J5Vy1CVmU4ZGg2cU9oT3ZHOWpGeURnM29sbnBfSHQyY2t6ZzdOQzllMjNVVG8yTTJTdGR2UXlpQUxPTGRuOUN3RUM3dDFzTG5fS21BMGhYdTA5d0w1eTJUTThPUnNIVFVvbFE0Sjd6?oc=5",
-        "label": "POSITIVE"
+        "title": "Monster Beverage (MNST) Target Price Raised by Morgan Stanley | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWEo2SzZSMzE2c2ctNG5yTmp3RWpiNFFfNmRmLTNNVi1ZajNyNEp5ZE0tZTZmbVhCSzI5Tno0MWR4QnBZZm1wdWhNSTczdVd3NVllbWFlZE5xRXJNQXN5NVBtUUpTN0oxOWxzWUgyVXMzNmpONjViVVd3UkNkbDUtaV9wa0ZqZkZhcjRaekl2OXdXeEw4TjJPbWZWdzE4MER2dUxnOU02ckdkR3h4S21waEFjZGhNSVZLZ2o4YVVOeWdBRGczLUwwcklHcko2QWhzTk44UTZBOEZaRHBYc3puTzhWVmw?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Annex Advisory Services LLC Acquires 6,896 Shares of Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
+        "title": "Monster Beverage Co. (NASDAQ:MNST) Stock Position Increased by Annex Advisory Services LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWnF2bUNmOGhoTDA5dDFDTmxwN0tZaUVJbXVETExESEo0aTQ2SEFpQ28zMHJQaWdzNzVVSGtqcVIweGJTZk9qLUtyc2FLS2J4aHBzekUwMVpxMndpRlRGNEVfdXZ0aXhSSXFLV0hhT245UGxRZ1h6QlUyU1lqTE9NSWpvVEY1V1ZFRDd3QmpIQVZGWVpobnpkdmtDLWNnUzZxVGV6MnAtT0t6STlLVnBKQzJPZnpiWDJYN2pjdDlLcUFmQm1BaUlMeVo3VXBEYjd6V2F3bS1GRDRoRTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "4,270 Shares in Monster Beverage Co. (NASDAQ:MNST) Acquired by Kera Capital Partners Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2U1YzIwUEoxbW9YLW9sU0d4enExYzF1bGRkOVFZX3VFU3BIZGdKR1k5VWthM3ZMcm1McTJpZU45ZzhfYXBOWjN3YXBhRFV0Wk5XQ1czdF96LXVwZGtNM2VMMFhaR3o3TVFuR25UTS02LTJubkctdG1PcXFBX3Z6ZXZWXzhwSWdHeFd6VzZINWZ0VDRDa1pXa1VXV2FBOEUwWks5VlZaWUc5Z0hyc19BTUphbkNqd3h0amFPb2hYLU03REJvdkx0SU9qamhJWTNTTUxDd3FIc0QtMGRidnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Sold by California State Teachers Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd1ZwZjVybzR2ODlzbFBzMVk3elhXSnpqSlZ3ZHlYZVp4cWVCWGNxSWFtTEJVWjVVQTlGaHB3S1RJck9KV1pzVXJIWHBLUHZEWkVWOXQzWWpVSjU0U21DWmhMeWRaeTdiOUFaQzVhT0JWajN5VndOM0NJb19sT2R6andBSzhvMXhjXzQwOWRVMU5NdnBuVk0wWlZBTlBfa1dTcXpOSTdGWk14LV81U3BtbGJoNlhHZXlQRFVKZ2xKeDlwbXJQemVuamk0Q1ZXSmhabnJyclJyM1llYVl6dDdNQVc5cTk2UWxTWVBMVmd4MXB1ZzBhNUozdnhPQlFvUjA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hennion & Walsh Asset Management Inc. Lowers Stock Position in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGtiZW1VZXdzejg1NzJXdExpOHVwMFBzajNEemhiQjgyT3E1N1lGOHJqNW8xMjJHckJGSWM3YmhLWlM5UnN4RnNGSkctQy1MeEczU3pvV0JkUlcxMGVnNWd3enBrT1o4bDlvRUVBVHZycDJENWRBMUhCSUc1MWc5Uk9NVWhpOC1oamp3QnJDbUFxeE9pelJ4UEJDSEU1OGt6YzFpb2VzMWJ6ZzhDbDZIdVh4YXJiZWdibnptSGxDbUZucEFNN3hmZlplejdsY3puRjAtaWJ6dElMUmFabThibVpHTVRFUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Bought by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWxPc3FLRzJ2V0VtUVZVWVpBcWVHRUx5YVJEa2VNU2ZaVHBVa18yeG5qMm5aLWNGQXRpdlpvUEhyems4LXlYNmlpUGZJekc0bGpuRnlKTG9GU1Vad3l6dDFNcEI5SkdsdzZ1M282Y1BPSVpSclVxM1FhVGJZLTRnRjczRl9qRzM3NVZ1Q3p4THZKS3pmeDhTU2o3UDRSNHJRR0diMlRwQ2F5ZUdLLXZ3a3FVcENDYnUtU0xxRkpqZFpLUWZNX0tUZGVYSGNnN1k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Acquires 11,947 Shares of Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDdZX0JqVzBOSDl4QUQzUzZuYVFjOTU5clVjcUdXLTNrZDh4Z0dmendqNzVWSG5SSXpoYkJ0S2pGX3F2MDB2NExxdXozMEdTdW1aZXRyT0o4N29NcDMtbWk5RERWdmp5VUF6UHZoczJGTnJabWJsN28wc3lXYW5aYm5YWHloYnR3R3FzaW9tbHVSUzkzWFVLSXkwbnJRNm9fZWdTdTh4UV9fOVZrOGd0U00wVVBOSDAxZzl6Y0hpak1vTWMtTkl6b0lhYzdNUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3,931 Shares in Monster Beverage Co. (NASDAQ:MNST) Acquired by Vise Technologies Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2JPYmREcXZ3Um40MUttTzJsaDRnVmlCMTZoRDd6enFkc2tnUHdibzhsUjNnVVU4OGw4WktONHZURVJUZVBEVDVJQVFXZW9tSnR0Vm9wVjkyT0Yycm13cW5vMmlIcmJsM1MxckZ2ODJnRGJaZUdyU1R3NEl0RUQxRHUtX25LWDRKRkFRM1VYQ3RBNVVGMjJ2TmVGWG1BbHo4blk2RllicmJlaUtuekVZZ1ZEYmFpaENIdy1nMnJFejNNMHZQdFVfUlpSOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Park National Corp OH Has $940,000 Holdings in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWJ5SE9VNElBRjFpeVBQQjJUTjFDZWRiS3NrUXpNMlZlY3dCOWZhblRBRjI2REUteVdqdU1NQU4zMnZ5bE9lRmhaNHlMQk8wdFBuczcwWVFFdThaVzRmclpjSEFZaElyaUlwZUdKOU5kcmNONFg4LWFLTEpRSE5mUVluazctbkY0aDVRWEJjdGx0ZmN0WnJEeGZoQ3loSGx4ckdFNVpyQ1BWNHRKa1I1RHdEdXlpYVJDX3E5RTgzMkZ2MWNTU20ybzdlVjlzX0hhTGpUMg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GAMMA Investing LLC Increases Position in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVJEWFN0VzRfTjY2U0llZGtCaXI5QURhQUc0V2ZJLTBONDd1VlBIbDJzZTlVQWhNV3FhUmdqRVAxQ0xDOEJmbEVFSmUzQXh4NkRfZjlYRGtINTVWVGhETFlyMUdVOEJONWNqdjBpLWI1U2twVUlnaFRLY0pjbXBiTUxPY3FZeUV0UE9nWDFOYnNLdFB6WEhmWUtyUTByREpEQ2pXcHhSVUJWN1FaVGR2MW9Zc09PT0VUZm1UakI5WVVvNkJLUG00aTRCa0pJUnVnZ3U4?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Stifel Reinstates Monster Beverage (MNST) with a Buy Rating and $72 Price Target | MNST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXp2MjR2QTlLSl9FZzZSSUVtS0UtWllNZllueW9zSXlTOHFaRXN1WkdPQnpUeEhLWmdMUWJfUnNfQmVqaS1Tb0kyQ1ZjQ0gzRnl3VkFQTG9UZFVkWmRTOGxwM0pKNlhJQno5RkVQbEdtVzNFZHFwMHFZMExRQXA3anVlV3IwaUV0Mk8yWW8zNmNaNTVqcEtXaV9EbU5hcnpnWTBOVWluVTZZZ3pMTS1NdlNpTENiZWtkSE5mQjhiVmx3cnhUbzRlWGRYSzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Forecasts Strong Price Appreciation for Monster Beverage (NASDAQ:MNST) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNF92VG9XUDJhNXV2emYzZGpTdkE3elo4Rkw3T0MteFljNkJNMFFXclprRWwya0pLOFg1WHNCazZ4UVdPX2NVaU1HQTA0OTEwOW9jbmlYZ0hDZ1RZNmNXRTdIZ0pfa00zUTlzNnZubm5EeVBPaHJpSXFpWHJUbDZ3VGJCZFlhMEZlYWpIZlUyVmdEZ19TbU83djhoeGc5aElIVVhMWEh5bjNWOUpha1BaMU55UFhZVS1FdnRObmNLS3M5NTJvZ2JaZUFWZk5NRVpjeE1YTEpXSVlIQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Monster Beverage Co. (NASDAQ:MNST) Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNak5IZVljQXJRUHB1NFl1clJLd2JzYXRmZmZjSkxuMGRzN3h0b3dMUkt0REc4M3VxdHlWUllLWDVnMzBQVTdEWHhJU3dYaDJ6cEJ1cWhDbUhwQkV5UE9JQlZpdWt4SXNIUVYxY2U3ZnNqNThPMHZSVlUzakdKaHIwNS1mRU9nbldCdXNmZmtvU3Q4WG9maDhNNU80cTdGWFBHMGUtVkJmV1B1UlVNckhrdmhnUHhOY3hKLWdGUXlPRzlYSTVnQW00eElCTEVGMHFwcUJwOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tounjian Advisory Partners LLC Acquires Shares of 19,712 Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT05vVUc4RG5xYXRtcG5TbTBhMklVam5Zc0tHTWxZM2hRMk9kcXlZeHpoZGUwa2k5U2Y4WUQ1SThkeXZZVVVzSTRaR1Q1clA4RVc4dENkRWNXV1J2SWlETGhfYUJpLU5KZE1vaGEzRVJjOEw0aUJxZF93NW1nMWdyMzkxOXRfdTZlMXIwVlRsa3JFTmQtaWJfdmhOS1V5clZYVkN6Ym11aUpmbTVrSUpvb2lNZkVQQkNhamt5NXBqRWZzcGdEWmRWUkc2d3VXZzFvakhmVTZTbGV3UTJfbXJlT2lqRGJRY0pVcFMxaWZvdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Monster Beverage Co. (NASDAQ:MNST) Given Average Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT3VCLVp2VlBVSEJ0QW9YNUV5c0pMS2FrRUxwcmxSaDduTXoxb3U0ZjVTY2NUY1JmbTdSai1lZkdpd0pnS1ZoUUJRMGtoOS1PR0owZ2hseE90R1BQYVB2VnZvNlU1NXJCdlZlUHNSWUFGS0FXNEp3eC1lT1VxWnFsNWNsemFaakNFbHotNGtDc1F6YjRzYW1ndGV2MjFqMFRqU3ZtY0lUTmRyaDZ1dUdKdjk4a2RodXA2Q21jRU9HSk1SUFhmSF94VjZTNy04OXo5OXlUQmlVX3U5WWM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Vest Financial LLC Takes Position in Monster Beverage Co. (NASDAQ:MNST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2RIOUw2MG1SeGFlV0pxdVQ2aDgxUlAwamJueXpFak9PR2VsNFpPWDhBQmJIWlppY3Q3YzZieXpuTzNsM0JxeXZGQ2VqbTNQemd3QzFreVdvbkdIaXJTLVV5SEZGbHpoTDJvWC0zNUUxYzZMZ29kdTJleko4a2lFQXJnTWJrVTdxLUNxVnpSUnJTbm1HOWJ3WUJ0N2tYbDNLNTBLakVnQ1Y2a1JQZHhoaGRRd1NEVWpPYkJhNjVvbUJwN2dvTFRV?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "8308.T",
   "name": "Resona Holdings",
   "sector": "Financials",
-  "market_cap": 2933643542528.0,
+  "market_cap": 2946239299584.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.871142,
-    "PB": 1.0775926,
-    "EV_Revenue": -8.934,
+    "PE": 13.92919,
+    "PB": 1.0822192,
+    "EV_Revenue": -8.921,
     "ROE": 0.07767,
     "ProfitMargin": 0.21624,
     "GrossMargin": 0.0,
-    "DividendYield": 2.28,
+    "DividendYield": 2.24,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 59.92747782953126,
-    "Momentum_10": 1.1049723756906076,
-    "MACD": 38.014603574944886,
-    "BB_Percent": 0.6946277913578268,
+    "RSI_14": 58.10998939560754,
+    "Momentum_10": 0.5470887065259866,
+    "MACD": 30.412756510007966,
+    "BB_Percent": 0.6548990844463914,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935167810922112,
+    "ValueScore": 0.9245629798539255,
     "QualityScore": 0.3952203478063255,
-    "SignalScore": 0.5200680998411171
+    "SignalScore": 0.5348150611819049
   },
-  "volatility": 0.0315952213714153,
+  "volatility": 0.0316759489501257,
   "beta": 0.196,
-  "return_6m": 0.0544317989307727,
+  "return_6m": 0.082590086855729,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 1368.1818
+    "target_mean_price": 1372.7273
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1225.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1210.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1205.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1214.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1210.5
-      },
       {
         "date": "2024-12-13",
         "price": 1200.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 1281.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1300.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1281.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1267.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1293.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1286.5
       }
     ],
     "current_price_data": {
-      "price": 1281.0,
-      "change": 9.0,
-      "percent_change": 0.71
+      "price": 1286.5,
+      "change": -7.0,
+      "percent_change": -0.54
     }
   },
   "news_sentiment": {
-    "summary": "Désolé, mais je n'ai trouvé qu'un seul titre d'actualité économique dans votre liste. Pour pouvoir fournir une synthèse pertinente des tendances clés, j'aurais besoin de plus de titres d'actualités concernant une entreprise cotée. N'hésitez pas à en ajouter davantage pour que je puisse vous offrir une analyse approfondie.",
+    "summary": "Désolé, mais je ne vois qu'un seul titre dans la liste fournie, qui ne semble pas être directement lié à une entreprise cotée ou à une actualité économique pertinente. Si vous disposez d'autres titres d'actualités économiques concernant des entreprises cotées, n'hésitez pas à les partager afin que je puisse fournir une synthèse pertinente.",
     "sentiment_score": null,
     "label": "NEUTRAL",
     "positive_ratio": 0.0,
     "neutral_ratio": 1.0,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -550,5 +550,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

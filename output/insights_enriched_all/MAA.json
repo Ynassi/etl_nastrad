@@ -2,16 +2,16 @@
   "ticker": "MAA",
   "name": "Mid-America Apartment Communities",
   "sector": "Real Estate",
-  "market_cap": 17982623744.0,
+  "market_cap": 17945628672.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 31.124323,
-    "PB": 2.9419115,
-    "EV_Revenue": 10.349,
+    "PE": 30.995848,
+    "PB": 2.935859,
+    "EV_Revenue": 10.436,
     "ROE": 0.09368,
     "ProfitMargin": 0.25742,
     "GrossMargin": 0.59199,
-    "DividendYield": 4.04,
+    "DividendYield": 4.0,
     "DebtEquity": 82.626,
     "CurrentRatio": 0.063,
     "QuickRatio": 0.043,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.4509449397096685,
     "ROA": 0.03492,
     "PEG": null,
-    "EV_EBITDA": 18.244,
+    "EV_EBITDA": 18.398,
     "BuybackYield": null,
-    "PriceToFCF": 18.1737870685904
+    "PriceToFCF": 18.170756165486328
   },
   "technical_indicators": {
-    "RSI_14": 34.612335992207534,
-    "Momentum_10": -3.060038852052105,
-    "MACD": -2.3996305159642475,
-    "BB_Percent": 0.089292163747575,
+    "RSI_14": 37.35159948363693,
+    "Momentum_10": -4.551541590697409,
+    "MACD": -2.433530238868883,
+    "BB_Percent": 0.1960561622276367,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9299454470665376,
+    "ValueScore": 0.8640427221502918,
     "QualityScore": 0.4282187988830433,
-    "SignalScore": 0.6962762056007552
+    "SignalScore": 0.667371827520348
   },
-  "volatility": 0.0151432857572735,
+  "volatility": 0.0152390340816834,
   "beta": 0.778,
-  "return_6m": -0.0393762918040266,
+  "return_6m": -0.030864891012019,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 159.15
-      },
-      {
-        "date": "2024-12-10",
-        "price": 158.56
-      },
-      {
-        "date": "2024-12-11",
-        "price": 158.33
-      },
-      {
-        "date": "2024-12-12",
-        "price": 158.35
-      },
-      {
-        "date": "2024-12-13",
-        "price": 157.22
-      },
       {
         "date": "2024-12-16",
         "price": 158.55
@@ -537,38 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 149.89
+      },
+      {
+        "date": "2025-06-09",
+        "price": 151.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 151.86
+      },
+      {
+        "date": "2025-06-11",
+        "price": 150.36
+      },
+      {
+        "date": "2025-06-12",
+        "price": 151.45
+      },
+      {
+        "date": "2025-06-13",
+        "price": 149.85
       }
     ],
     "current_price_data": {
-      "price": 149.89,
-      "change": 0.07,
-      "percent_change": 0.05
+      "price": 149.85,
+      "change": -1.6,
+      "percent_change": -1.06
     }
   },
   "news_sentiment": {
-    "summary": "Mid-America Apartment Communities (MAA) traverse une période mouvementée avec des nouvelles contrastées. Malgré une baisse de 3,3% de ses actions et des prévisions pessimistes de Mizuho, la société maintient un dividende régulier et solide, témoignant de sa stabilité financière. L'ajout de MAA à la liste de conviction de Goldman Sachs et les mises à jour stratégiques du leadership pourraient indiquer un potentiel de croissance, malgré les ajustements de prix cibles à la baisse. Les investisseurs devront surveiller de près l'évolution de la situation pour décider de la pertinence d'un investissement à long terme.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "summary": "L'actualité récente de Mid-America Apartment Communities (MAA) est marquée par des ajustements à la baisse des objectifs de prix de la part de Scotiabank, qui souligne des défis liés à la tarification des baux. Malgré cela, des investisseurs restent optimistes quant à la valeur à long terme de MAA, avec des hausses récentes du cours de l'action. Cependant, des prévisions pessimistes de Mizuho ont pu contribuer à une baisse temporaire des actions. Les mouvements significatifs des détenteurs de parts, tels que Capital Investment Advisors LLC et Greenwood Capital Associates LLC, ainsi que les changements dans la direction de l'entreprise, comme le départ de Bolton, méritent une attention particulière pour évaluer l'impact sur le sentiment du marché.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "MAA Announces New Preferred Stock Dividend: Key Dates and Payment Details Released - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0xNbktzTXZSWXVZbEhZdVdCTU1QTVI0bzZhT1dIRGdnUDJlUTl1Ny1jYzR6WkRqWUljQktCcnN3WGR2cFVrejZVbHlVTkNZTUphWXBSdkVzb1RSUGMtbEJZZXBkM2RHTWxhVTk5TmFxZmdQUmpfREdSU1JyU202SGJLZW1jcU9mbWJaa056YXVfQm1rMVVIWVo1VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mid-America Apartment Communities (NYSE:MAA) Shares Down 3.3% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3ppYXFZWE1Hdml2UjlqbENJcUFPbjJaTXNmdUxocGxjXzFucnl6Y0hHZjZTRk80b2NIMzhtMTd4QThKVGUyZl91aUZZN0p3bkgyTlh1R2I1eExYemRGV1NHMFFGdHptR24wZEV0RHlQZUxnUFF6dzhSbzlYT2xUX3hCcnpEMkl6U0pZVkpxX0xMRVgyMjFGUkFFU0lDNTlaS3dxVjRLLS1oQ1BteE5UMkE1MXpDZTRYU1NHSkFjRVRkVkREeUlz?oc=5",
+        "title": "Scotiabank Has Lowered Expectations for Mid-America Apartment Communities (NYSE:MAA) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMWhSZkJjS1hXNXlXLUxlaVZjZ0J4Y1hfYUtEWEU1eUN6VzJLSE5ITHFjYzNaNFRKeUdoc3QzNWRpc2l1bGNIUldKblBhdlVBRFgtODBMbklBX2ZHWVlWOGVhQmk5TmZWdDJ4Y2oxUTIxMlp6QWZkNWg1VFgwbEJjTUR4V3pRSng1b3hfeTFjTnhoQmlFMWF3blJyeERZT2U0VUsydzZlWFlJTFA5dWY4YldqaUprUWhrM1R4ZXZtQndKT3M1UVBwcThiSUQyaUVfZFFKWFJqV1JseTAzNk9taQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "MAA Announces Regular Quarterly Preferred Dividend | MAA Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajhVbk1MWG9KVnUxR0w4MVc1Um1JR2FzTG8ta0lYd21iR2NDRVd2dHd5S3ZpOFM0U1ZWTXdJLTRURlQ3QXo0S1lfN1pMeWZLNDIzU2x3eFZoaWxtTHJiNVFRUkQtM1BuZG5fVkNGVEFLYW5heGdlUEFOaUtBQndfVWVMSDEtMEd0bm9hcFBsaU9IT2VNQUs0WWZKcG1tbmJfMW10WXFGWQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Scotiabank Revises Price Target for MAA, Citing Lease Pricing Challenges | MAA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXVxWHNIZzV0N3dyNmpzQmR6bnBVMk5vbkVxeTN1dWlEYTUzc3NxLThUSmxqUHNVNWphREhDeUF3U25yLU92SHFQbXVBb1lmRkFxenk2Zy16b0hfNk8xNFdmZ1JEaDBkOEpWLWlkWm02X2xjdHFzaWhZXzlLOXYtSlhGYTdpekttY0JCclRZblZhdzN0elR4bjhZajlrYXNfOWREMEx6TmxhM1NKUUs4a0NJM1NwcnE4dXg3cjlFbTBUZnc?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is MAA Stock a Strong Buy for Long-Term Investors? - The Motley Fool",
@@ -576,18 +571,38 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Scotiabank Adjusts Price Target on Mid-America Apartment Communities to $180 From $194 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObmFXdXc3QlF5ZE45OE8tU2xkckZpOW5GTVdOakZoeE1YbThZX2FBTERpckZ2Y2Y4TndqMEVOamtCaXBwdU1VblBHd0NrOHVJZGE2X043VkNaWTYtY2RsUXEyZWxSUGhBNDNuQlVWQzhhN2YtVEU3UEJTaW1sVnhsd3J4alZpbkp1QnI3ODBIZHlwU2Z4dnktS0VZdFpEcWw2dUFhVEpKcElZYVRRQkpQM2ZXNWI1YTMzdlVDTk9RakVlSkZ3NzQ5TXNpSmpoZWZvSHJlV3lHSm9CR015d0M2T3RTaHJxWlJwOUdxc3NELTlsek9DQ3ZMaWFwSUtNTFNmUXZScA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mid-America Apartment (MAA) Target Price Updated by Scotiabank | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDBLaWVIcEwwbWk1WXNUV05sVHFZYUxvcFhxRVY1azY0T0x5Nkg5ZHYzZXlaRHNwTzFZc3pZYVZhQ0pwd3oyM3N3TUllaHpCTWgtdnlxT0Y0bXBwSk1Ga2FsdXllUDhfLVNCR3h1MDBHcFFUV1N2d0ttVjJPdzJkd29Db2ZmZFdHUVBTMUR2UzRHVjNOYlVUX1hEZkFaRHFZNkYwU3F6WUFxZWRjdVYxcmlWOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital Investment Advisors LLC Trims Position in Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUJjTEVJMnBUbzAweTQyTVVkYWEyYlJ4SkNPVUZ2dFhaWnRKOHA0dGk0NmpMcjdCMUptakZCSldfOTg3NTlibTlCaFZKNEtGc2MzeHpzYUFWUm1IMnBfazI5My1Sa3Nsc1FKYXBDS3pYbkZuTko2TEctalVkMDd1OVpFTmN2TkQ4Qm1HYjNCTnVUNGNZNUxtajZtdy1Ic2I4QkNwYVY0NFdpczdaNVVwVmhnbnRwVVVtYTJwZG02ZFV1YkZRb0ZVTm1vMmdDMkhLaU9wZzk3UUpGaHZJaDZFdzBRS2p0UHpB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "Is MAA Stock a Strong Buy for Long-Term Investors? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3dkdBVDBXMHVFQTBFQlZvUlF3Y2UzNTJPU3dkaUZvQW0xU2ZQSFZENHBpSi1rd283Q3c3akRkNVdSTW5lcTVRMUhMVnZQNndONUhmbTYtNHVhNzJXSVFZa1Zpdm1KUFN6Z3NWMnRPMWJtV2J1ZHhZU01vSTA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "MAA Stock Rises 8.4% Year to Date: Will the Trend Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1odmV0MW9jeVVLT2RZcEpzNWJCLWdUUVdhdzBtYnIzWGp5SHBTd1BJSFlaSkx5T0VTVWJUdXlmaEZ2WGRpaUZtOXlhWmZDRmtmLWcwMGdmZTdVQzdqeTk3bUY1Yk9VTnRwUER2NTJYdmRLeEE?oc=5",
+        "title": "Mid-America Apartment Communities (MAA) Moves 5.3% Higher: Will This Strength Last? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHU4eHY5SHJGNVB0NFV0RGJCeF9MdTV5X2lhVzBwYU4wRlVVNjlOVnBSLW5LUXhzWldlaXNVSV9NWmV5dG1XNGxOa0tXM01FdXl5M005a2k4WEtjMlNVNmdPZE1MdEhGZm1sSlVyaERnYWZOTkVZcUljbnY1Y3RpbFg2bEVlaVVsa2pJ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "MAA Announces Regular Quarterly Preferred Dividend - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNDFCNjFIV2hsbk1YbE43dENtRllRX1Z5UVRSZjhRZWYydEQ1VjF5NWZHWkppRHJFd0hfTmxvbmRjanRPZVVjSG5SOGFMeEZ1UXhBNUFtWmpsYUNscUhrVmRjU29hdFpTdVRvMzI0c0t0QmlhLUtDcHdHUGJva1pOUXVxWFR2RGtsUS0wN3JENEVoVW1aUTM4UXpxbTh5ZjZoSjVfY1FKQUx5NkJVZVNIeDN3blo2V3JqamhzRE1lVHZBNDlXZ0Zuek1jaDNzT01Ld21ia3cwMA?oc=5",
+        "title": "MAA Announces New Preferred Stock Dividend: Key Dates and Payment Details Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0xNbktzTXZSWXVZbEhZdVdCTU1QTVI0bzZhT1dIRGdnUDJlUTl1Ny1jYzR6WkRqWUljQktCcnN3WGR2cFVrejZVbHlVTkNZTUphWXBSdkVzb1RSUGMtbEJZZXBkM2RHTWxhVTk5TmFxZmdQUmpfREdSU1JyU202SGJLZW1jcU9mbWJaa056YXVfQm1rMVVIWVo1VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Not a bad legacy’: Bolton stepping down at MAA - Multifamily Dive",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTlwRmZReEJzVlB6RWt1OEZ2WWdCRHBKMTVEeW4tdnJHX0I3YUpzS0xUVWc3ZmtFNjdJOVZ6cVlESzExMVZrTEkyTjdqbXhXX2wwVzRZdjczZ1h3d1lENEQzN1BpNzYtNGE0QlNnakhuWlpzNTJHSFlGbk42aDFBVnJmeV9rbU1tdy1VU0tXTTZLcS00amozMUQzZUZQM3JZS2NR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,34 +611,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "MAA sees concessions in Austin, Atlanta and Charlotte - Multifamily Dive",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDdqWFRNcnhoRnk1Y1lray1rZXJ4WEpLenBpRXg0cTU3SnBTcXp0VmZmYjBTYTZ0Y1JsejNmd2NxUEs4dWFJbFBjS3M1UzhhYk5mQnZuaTFSSjFLSkh0Tm1xcVZZZWxFc2RNNjM3YmNnZmJ2dmZ5dHRlcGFDUzBBaGFJSFh1SVpHQkFqVw?oc=5",
+        "title": "MAA Stock Rises 8.4% Year to Date: Will the Trend Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2lzREpVSU52TGZ5QW5OWlJiZk1BeG13ckVSQmlBXzFMYUlCX2k0M1RVTmJDUFVZNHFsQk5lQlZBLXdKRGhfMWgwZDZKczZCQVhma0xLcy1ySzNlNFAxVUpvVm9pM3FaY2tKU1ppX2s4V28tQlZGVGpmM2g4QjNUUm5ZR0ZESW8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Virginia leads the way for MAA - Multifamily Dive",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkVfeE14QWIzenNwZ09XUzVLS1V1VU9xRnZIQV85QUV1U3NfcjJqc2pBMG1xVTVkVG1qWWRUSGF5N19mcHV5c1p1YUhXU2xtNDFySjhNSF9BWUd1SGw3NmN1MWp3MWUtNnV4YjdTblBiU1JaVmZ0cG5fV0M1RXJzM0ZqMGQxTm5PNGV3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Squarepoint Ops LLC Sells 48,424 Shares of Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSnNDMGZKdkk2TEFIaEZBQ0RIdFJfM0M0c0tmQjNaQTdqbEJrdHptNU0tOFRXZGtSV0x6V2dqV0RBMU5KU0ZxdlFIdGg4SlZOQWY3WUZMU1g3d1BTejA5akE0MFhFTENsaGQ5Y1RZN2wyOUZZa1Buc1pNRmRxT2VRYW9kQWxNTmFZNU1waUpNNkFKaG9BQ3dlcGVaTTc2cFUwb0lwbkJzaHVQSlFESnNQeDBKRTliR09BckRrODRGUnNaQ0FyVkV0d0phU2VJUHFDaW1uajNjYmtUSEt3Mmkzc1laV2Z5UVQ2d0g4?oc=5",
+        "title": "Greenwood Capital Associates LLC Has $9.68 Million Stock Holdings in Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbkpJT1U2aGN1UzFKTTRfelppQVpyazV3X2dKZHBlajE4b2lpc0loZXBPS25jbFZuRmM2bEhRRENjQXpNTnhDVlMxWVphYmY3Tk5CUmJnWUE0T1lpbVVXZ3p2OWZRV3R2Nk55Ny10UlZTa1UxVHBsNzdaNlVOcUNEc3BYdU05TXVESENHb3FmWkVJZkVGU0tPLXBXVGVKUGhNUXFZY1BTVERUVnRVa0MwT2xTMk5ZUmpQT090Z19FNC12aU83VWMwMmFBU2lhQkNGcHh4SDlOaDZpanNGVlMwU3I5dFNQMU83ZXdzUmJ3?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "MAA to Present at the Nareit REITweek: 2025 Investor Conference | MAA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVZaSWtJS0htTnl3bHViaThFZUZBTU1xQkJNY3NKYUZRMkprZWMya21wVnZ2anY4bnluZUN6UHBXMVp1dUFXQnBvRnN4eFEyNmVFNnlrd3pnV08wXzZOemVCS3Z5U3NLWVZBMk9zT21wT1pMUEZCOUdscHhfMUNNWWM4bVh4VjhLd1JuRk9DQy01SG5VTmROVXhLUlFtN2ptZFZLRXNZQnRnZkNNN2stZVFLekcxZTA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mid-America Apartment Communities (MAA) Down 3.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHlRM3ZrWEQ3ZHZCakoxOWdVOGFCZTVuQm5lbERBSWFVUFpNRFdOYmowb2NRZ2VTV0VnZ0NXWmJEMVhqdkNtaC0tcUdyN1BDZEZjUjgyZV9MUnJkZlZlSFZVeHBjUkdJNGJoMDRVWDR5SzhvQWZNX2EtelVzY3dLZnZMTlA1X1dFVzJn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MAA Added to Goldman Sachs' US Conviction List with Bullish Outlook | MAA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3FRWXVqX1VqS3BrNm9TdnhVQy0zajRCVTJST1RRUUhJS2dyNWVheFNqdERpandvdm5xZE5vZjBlQlZ5clNmNTFFTlpNQjgxS3BPV1YtcVNIRkI2ajNReHVNQlZVSFJKS2dzWmxCbkhxSFMwWnE2SG1OQkJ3clZmOS1ScDh0Qk5jd2pIZ1lFQXpIdmZnUXl0S0V1NzU3UTJycVcydmtMNXRjZkNFeEx5OWU4MG1HanFicWVFSlNudXlraUZUcW5DVlZqN2tOMWktSjRSX09INWFWc0R4SUFyLUYxcWRIdmw5V3J0ag?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mizuho Issues Pessimistic Forecast for Mid-America Apartment Communities (NYSE:MAA) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWklCVkdkRnhYYk45Mnp1ZzduMC1ZNkVPczZxeGRya3BvbG1lbXMzTDR4dUlaQUFvMFU4b3FFQ2ZHWHBPTVoyNHJzaEVUQzAwckJsNUF1b2NwbWRnYXpqYVZoLTBDVHp1RHNYcXFXZXJKRGI0R3ZaNi1ISHJnajFLN1BwV3FTeFNHUkZ3eWlKYV9laVRGelE4TERMNkFHTGZ6LTJtamJFV3NzZnRlUW9qbnZiN0JBeXFDQzBGWEtzdndJX3hCYWxLcWtnMW5ZUS1nYXlXZTNlNTBFQXc?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "MAA's 30-Year Perfect Dividend Record Continues: $1.51 Payment Marks 126th Straight Quarter - Stock Titan",
@@ -631,31 +631,31 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Mid-America Apartment Communities (MAA): Among Stocks Insiders Sold in April After Trump’s Tariff Rollout - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1N3UnluWUFUdnJCaFRZbjZ3cXVCVXZteUMzNEhoOXVVSVZvdmpNRzBVUVg2YWNUT0VudEdQNXBGbDRYd1ZHZ3lEYm9RdHlqengzY1hJUWJieERKLWV5Y1oyeHdjVldXY2xTTlVhS1RWbVllMTdtdXpTaVFNTlQwamhUbW90bnJKTkVn?oc=5",
+        "title": "Mizuho Issues Pessimistic Forecast for Mid-America Apartment Communities (NYSE:MAA) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWklCVkdkRnhYYk45Mnp1ZzduMC1ZNkVPczZxeGRya3BvbG1lbXMzTDR4dUlaQUFvMFU4b3FFQ2ZHWHBPTVoyNHJzaEVUQzAwckJsNUF1b2NwbWRnYXpqYVZoLTBDVHp1RHNYcXFXZXJKRGI0R3ZaNi1ISHJnajFLN1BwV3FTeFNHUkZ3eWlKYV9laVRGelE4TERMNkFHTGZ6LTJtamJFV3NzZnRlUW9qbnZiN0JBeXFDQzBGWEtzdndJX3hCYWxLcWtnMW5ZUS1nYXlXZTNlNTBFQXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mid-America Apartment Communities (NYSE:MAA) Shares Down 3.3% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3ppYXFZWE1Hdml2UjlqbENJcUFPbjJaTXNmdUxocGxjXzFucnl6Y0hHZjZTRk80b2NIMzhtMTd4QThKVGUyZl91aUZZN0p3bkgyTlh1R2I1eExYemRGV1NHMFFGdHptR24wZEV0RHlQZUxnUFF6dzhSbzlYT2xUX3hCcnpEMkl6U0pZVkpxX0xMRVgyMjFGUkFFU0lDNTlaS3dxVjRLLS1oQ1BteE5UMkE1MXpDZTRYU1NHSkFjRVRkVkREeUlz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vert Asset Management LLC Has $9.05 Million Stock Holdings in Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnMwa0RLWU8yMVFDTm5KMEhiWW1tb3BzR0pVSlNDdHhVdXN5eFhvV2RQajdLd0t1VlBGYkctVWxEZnFycEJTZGtfR2NDVUVsS0VUUXZ5Z3RqUzBDaHpVQzFFSVN4M2RLUlU3TjJuNUh3SDFOdkVuazVXQ0lrWHdCdU5IZUE5YWstSFNUM2ZoZ3Y3N2dLQk5oMDFpd0dkMXA2d2p0R0t4U1dpOEVHSWRLb1BVWkdqcDBRZnphc1ZxSnVkOE1FV1lEX2JGejNZU3JWV2R6NXoxTjVtSl9NQ25yMnVRSGxYQU0ya043c3lDdFNUNnlmR0o0bkRB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mid-America Apartment Communities, Inc. (NYSE:MAA) Stock Position Raised by Lighthouse Investment Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWUxrOE9MT3JyUV92cVZfSDdudWNGVkNza0VsYy1IWDhaQUtoWTVwWXFjV0tMZUlwNllfSDE1UlNNb2F5b2RCd1VxRGxaRHVyMVFfQUZDMWltZDV1LVZaQllxLTduWDh4TkJGSUIzYlRzbHV4anlrSDZMN0pieHdya2w1d1Y2X0cwN3pCZ1JEZGtibHFTTEhpc09odUdQeE5yS1dyMWpjUUptYTdRdDJEdllTQTVjdXVEMC1iM1ZGN2dUdkxERk1xT2RxWTlkbmNqY3B4a1hlZlBwT0ZMUExoaHBuTHdfSlk?oc=5",
-        "label": "NEUTRAL"
+        "title": "Handelsbanken Fonder AB Reduces Stock Position in Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRmp5Um9JeFZnNk9kTU5PQUNjVDRnX3hXdDNZVk5pZ0RqSzFuS1VrVnEyU3J1QVJBVUJ6VVIyYTlUdGNMbTZFNll1bzNXT0Y1WWRmbTg5aUFZdXRTbnJoUWVMQ1pOajVVbWxMNm00SWJCZV92OTZ2LXBCbjNoOFFpWGxuVzNEd1FxSDZEYzE4VGZ6ZUU5Nk9CWUkzRTFjNWRUalEzU2RadkhZZXNtVjA4aDBxdERib0dpcWJpNVp4c0N0bGNMZjVNRDdsejl5QmI1MDU2UDljbWFFS21QLS1xa0wtcFhtQQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "MAA Faces Lower Price Target Amid Tepid Leasing Season | MAA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnItZXFEckNjRmlMUDd4VFlTeXFyWnVrcFRxbGRsN1RQWTBFVUlmZnRBWUdaeHRyaGdmaEJZU0hoRGxCdFhuaDZOX0dYLTgwZHl4QzFCQzB0eEk5NTlXRnpsQU5rbDlOTlQ4TU9kbHFPRlAxS0tHXy1CeUs1Z3lRWERQUFFZQUd6Rl9vUkpvaF9EX3dvd1JwazdEQzVqYVNZU19CN2pBRkV5cEVWYlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mid-America Apartment (MAA) Target Price Lowered by Mizuho | MAA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEQxdmJqMlFyRFFwNlRHQlVnSGMtWC1uMnVHUnhlaGg5OURQZ3NQNUU4QVp3YzRvSzFBN2Zud2wyczY1QWRYUW42b0RQTXc3dFh2SklMbDFoOS00NTkwbkp1cTJzNTNIWTJVbFIyWlVFbXEzaEJwaU53ZEdrODEzMk5kV3NoTU5jd3BLM0hTeUhUbGYwcFNCcDd3MUUxZl9aaDlvNmE3SHdneWpLSjFJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Raymond James Adjusts MAA Rating and Price Target | MAA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU09tX1psY21WLXhCcEUzUHhhdW8wNWFhYWc3dzBqVEZMajctYndJczJCcm15US1iV1JYQ2JGQXNibjBDUVA2eXZkRF9KeTlERlFhVjJqdFNSYWlDdk5nZVhUWHhYcjNTUkp2Q3RrS0tzUmE2N0RxZno5cG9lRUR4b0kzVkpYdWdJN0xXc2xRUW9zQ0lfdDNoYkRKWjNySkZlcmZJU1F0bVo2T0Zic29kNkxXbmZ2dw?oc=5",
+        "title": "Squarepoint Ops LLC Has $485,000 Stock Position in Mid-America Apartment Communities, Inc. (NYSE:MAA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSnNDMGZKdkk2TEFIaEZBQ0RIdFJfM0M0c0tmQjNaQTdqbEJrdHptNU0tOFRXZGtSV0x6V2dqV0RBMU5KU0ZxdlFIdGg4SlZOQWY3WUZMU1g3d1BTejA5akE0MFhFTENsaGQ5Y1RZN2wyOUZZa1Buc1pNRmRxT2VRYW9kQWxNTmFZNU1waUpNNkFKaG9BQ3dlcGVaTTc2cFUwb0lwbkJzaHVQSlFESnNQeDBKRTliR09BckRrODRGUnNaQ0FyVkV0d0phU2VJUHFDaW1uajNjYmtUSEt3Mmkzc1laV2Z5UVQ2d0g4?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

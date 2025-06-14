@@ -2,16 +2,16 @@
   "ticker": "ADP",
   "name": "Automatic Data Processing",
   "sector": "Industrials",
-  "market_cap": 132927610880.0,
+  "market_cap": 124482379776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.44944,
-    "PB": 22.723614,
-    "EV_Revenue": 6.638,
+    "PE": 31.324312,
+    "PB": 21.279924,
+    "EV_Revenue": 6.307,
     "ROE": 0.76289004,
     "ProfitMargin": 0.19791001,
     "GrossMargin": 0.48341,
-    "DividendYield": 1.89,
+    "DividendYield": 1.99,
     "DebtEquity": 74.577,
     "CurrentRatio": 1.015,
     "QuickRatio": 0.136,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.14397094708111904,
     "ROA": 0.055710003,
     "PEG": null,
-    "EV_EBITDA": 22.543,
+    "EV_EBITDA": 21.418,
     "BuybackYield": null,
-    "PriceToFCF": 45.71154486972426
+    "PriceToFCF": 42.81985729210582
   },
   "technical_indicators": {
-    "RSI_14": 72.62810070558311,
-    "Momentum_10": 1.80942248862339,
-    "MACD": 6.1283284793896655,
-    "BB_Percent": 0.7605872416816692,
+    "RSI_14": 35.378814494451404,
+    "Momentum_10": -5.756762911144283,
+    "MACD": 0.9380159034781173,
+    "BB_Percent": -0.1228046297004072,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9207630551796352,
+    "ValueScore": 0.8673838466558437,
     "QualityScore": 0.4110557866192418,
-    "SignalScore": 0.4543239636947823
+    "SignalScore": 0.6823615692225322
   },
-  "volatility": 0.013415461388669,
+  "volatility": 0.0134792887858751,
   "beta": 0.798,
-  "return_6m": 0.0865535850170442,
+  "return_6m": 0.0388834916777554,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
-    "target_mean_price": 311.94067
+    "target_mean_price": 314.14066
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 297.56
-      },
-      {
-        "date": "2024-12-10",
-        "price": 302.23
-      },
-      {
-        "date": "2024-12-11",
-        "price": 300.75
-      },
-      {
-        "date": "2024-12-12",
-        "price": 298.75
-      },
-      {
-        "date": "2024-12-13",
-        "price": 296.76
-      },
       {
         "date": "2024-12-16",
         "price": 296.81
@@ -537,38 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 326.81
+      },
+      {
+        "date": "2025-06-09",
+        "price": 318.57
+      },
+      {
+        "date": "2025-06-10",
+        "price": 314.52
+      },
+      {
+        "date": "2025-06-11",
+        "price": 312.37
+      },
+      {
+        "date": "2025-06-12",
+        "price": 309.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 306.82
       }
     ],
     "current_price_data": {
-      "price": 326.81,
-      "change": 0.58,
-      "percent_change": 0.18
+      "price": 306.82,
+      "change": -1.39,
+      "percent_change": -0.45
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'analyse des récentes actualités économiques concernant Automatic Data Processing (ADP) :\n\nLa valeur des actions ADP a atteint un niveau record de 329,5 $, soulignant une croissance robuste à long terme, malgré un rapport d'emplois ADP décevant qui a influencé les marchés. Certains analystes considèrent les fondamentaux solides de la société comme un facteur de soutien, tandis que d'autres expriment des préoccupations quant à la surchauffe potentielle des actions. Les perspectives financières solides et les performances récentes semblent soutenir le sentiment positif du marché envers ADP, malgré les fluctuations temporaires.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
+    "summary": "Suite à une série de révisions de prévisions de croissance, le prix cible de l'action ADP a été abaissé par UBS à 315 $. Malgré cela, Mizuho maintient une perspective positive avec un nouvel objectif de prix à 332 $. L'action ADP a affiché une performance stable malgré ces ajustements, soutenue par des fondamentaux solides et une stratégie commerciale en trois volets saluée par Zacks Investment Research. Cependant, la récente journée des investisseurs a été marquée par une baisse de l'action, et la publication d'un rapport d'emploi décevant par ADP a suscité des inquiétudes chez les investisseurs, influençant le sentiment de marché.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.4,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Automatic Data Processing (ADP) Shares Edge Higher on Nasdaq, Showcasing Strong Long-Term Growth - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWlYyckRfaFJ4VFFteF9DT0RnTGRWaEJIZlRHMXZyUHcyaEdsT1I2WTAzMGVCZ2psOHhyOGpXSEtlSHRqMTJwb2FScE5yWWg2UnBhZEpORVQ2QlpVRWNDWlQwNTMzTm9zdVpEeXA0Q3d6R0pUQTlybGtDRmx6aEhZSWt0T19CR09FZTNHX2pPcU04WTJlWGJsMVg1SEo2M3VjNDZ3aVlremVGWndtNi1XVFJwdlhYcEFHekRRVVRNLWY3YUlJdGFic3dGckNCbHE4d1dwTg?oc=5",
-        "label": "POSITIVE"
+        "title": "UBS lowers ADP stock price target to $315 on revised growth outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTZ1VTQ4RFpGbUNURGZVUnliWlVIVl9hS2FtRkh1M1d4VVVtNzNrSXM3NXc3aE1GTWpXMTNuNmRoOHlNcnZubGpHc0N2Xy0xREZnVkw4REhlNEhWa2ZsTjNoejVYa1lxbE55NWJzVkdDaDhhQ3FrSEJMRVhndEp6dXR0TUItWXl5LXd0YWw3ZmV5bXpENldQYjFTQzFPQjBzanM4UDhVRTRqV0lOUUdKM1VfVmJQNFZqeDA3SkNwUGJmN0pa?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "ADP stock soars to all-time high of $329.5 amid robust growth - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVR0ZWl2UkNPeFByQ2lBQUw5Nmp3WXJnNlFTaFI3QTVJQ0l2VGp4MnBCQUNCYmwyMmxpSXk3cDZQdkZCQ0xaQ1VKaVRYa1N2Rnh1UGpxdF9sQVZuS1l5Vjllc00xWEpVTFdXSzJWLWx5WVgxelNYRGlSTzZVM0I1UG4wVGxnLWZ1NGNXUk8tS09IRmpIQVUzRmtCTW02R3NlS0h0dGdvWFhCNFZ0NXQwbnNSajY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq edge higher after big ADP jobs miss - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTZXSHB4REFNWlgtSm9QTWxMckdnQ09xNWRfNGlVNjhOZW44YzRIUE1kRkloQzZqVDZDSUNMYlM2alpCMkJPc3RwYzJhTnViT0dnMzFJc3VwRFlwcFFjUUVGcTVFbHdRSFJmcjZFbnY5Ym5NT0RnYlRPV081TUJXYVpVelJPTi14bEM4N3BpQW43RjVfeFVncXlwWTh4UG1CcUtoU1pYakxrc0lNMTlSQmIwZG9Sc1lGTndSREZyang?oc=5",
-        "label": "POSITIVE"
+        "title": "ADP: Mizuho Adjusts Price Target, Maintains Outperform Rating | ADP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEdIQlNORDNRZzFoMnZ5WEpzN1RQUzZUTW5YcmFYUGN0clNObzY0cWg2UFAydlVEYlNKXzY3TW5HZHFGeDlnNkhTRXVYNTJMYmpneldlaE1QakQ1Q19ac3RnV1BIQ2hWNS02MllJQTBNdGdvTW9WdGpKS0ZIM0h0UWVCcWV0Wmpjck5Tb2VFQm5uRlI0bTNodDlHenNzMlYwZGc4Z2s1TkI1YmhscUZiRmphMnI?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "The Quiet Wealth Machine You Overlooked: Why ADP Stock Is A Dream Pick - Forbes",
@@ -576,48 +571,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Automatic Data Processing Stock: Is ADP Outperforming the Technology Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOTXd3UlJtR0RtWW5mUzV4NGNoMEc2ZUxpazFPS1hpc1pxdUtaM2Q5ZE5PcTFQdGlFUEpzenl3MmFLeFlYdW55YlpucDF1TmdyZDlyOW81NjN6b3lqUGcySkdYOFVvU1lnVVVoMXVySExtNWdHLVRnR19mSXprWWhUMEpjNlU1YnRoeFd6Z3BQLVgxd2pLNDZIclp4QWYtSTNfbEtIbVdvTThWWFVzR2RDQkRQMFo2c01GTFNpbkRKTi1qb2w4Umh0czZZTXhGb1ZZMXpVS1IyU2Z2T0UzLUtLM0NoR1JpV1hBR2FMdDNKc1NXbWoySk5nYWpBNkRqeDIxNEUzdG5xSkI0QWFac3R4aHBYdzNKN2piMnNqUElTdUlHQlFaTlQ1SktidnBObThQMUVMWkZMQjB6S1lXTDJfMFZocTRBSWpiZW9YYlRyZkpwX09OSHNiT1NMQzFSc3k2RnhaTzBReUo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock futures slightly lower after weak ADP report on private-sector payrolls - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQT0lsUkhfc0RCdmxiMEpuRU1rWmJzM2plVjh1VmxUemE2Q0k5bVlwM0NsSUY1VDRCWXdheHZuWFBCZkFHd1RISWxNMEhtTjl0UmJydzBkZUZXV3NHYjJUdFQ2cU5UeEZlaE9uakt6dm5yMk9zYUl1cVN3ZldjN2NSRDNwRTRjS0ZFX2VJSVBZTS1pZ3VUX0ZROE1udDR6bjR5clJmNFJaYzZ4RmppSEo2RTRDUllqSlNmTkFyWjVkdWZONUFSU3BEVVFFakpQcE02TjJCVU1ZdUhiU3VUd3lXLW5oYk50Ulh0MEt3cUtJUnJLNDBJbVAweXFrdzNIam5ndlhSUnhSc2lfc1Y3WElDb0tuYjJIZlhackJsMTVXZ05QQnZJa1ZCVWFoWllSdlhJaGNnWjRQN2hycUcyWTNyNHpVU3NQMEtvQm1kel9nRlBTSDZ3WXNYc2lEWHFRQ00?oc=5",
+        "title": "ADP stock unchanged as RBC maintains sector perform rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN19VQmNsV19KYkdSdExDTk5aVDJiRVBnZ2FPM3BiSm1uQnotUC1oNW5sdGVCUjNzeWlERjlPRVZsaVQ0T09pcU5EMDU4aWVNNWxFNUxFZ3NHZ0Z5c1p1ZTB4c0JRSHcxNGJNckh0YUxjLWN5UjVfRUpVTFE1V0xQV0h1WnQ4SDVOOTQ1Sl9rYUlUWW12U2JCWllSdGNBSzBvMGpHNTZaV0FjZ202RmR2b1E1V1pWdTZBVUE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Cramer calls weak ADP jobs data 'disturbing,' warns about stocks coming into earnings too hot - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFBPSFNXYlZlWm03TkNZZmZkamhaWDJ5UWx5VVQ3d0x2WDBKMWtsSzhOTXpMOFh1bS15ZXdkM0VDNGU4aE0zQTFST3A3S2ZOOXJBUzNma0V5ak1mWGl0NU9VQVdEQ2pxTjNLMXUtX3JYNjlMNlNKN0FjWnVRcGJrWWF2NXBCNktlWGJHUEx6M3o5NGdhNzNDNllmR0tJLXhTamlQcEVqNXBNV28yUXZCZV9mRHJTM3VpTFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ADP Stock Rating Maintained by RBC Capital with Target at $315 | ADP Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXd1TS1HbEZpOUYxTXBJMTVfYlF0dEtLbUNrcFBjWmJDbGFqcFlsM0RYSVBOSGhwX2NHZjdsc0puQmVzbnJoOUFnVHNUa1RJOC1pVVR1TGpydkJ6N1pSaWE3dHhkdU0yRzd2aVlFcnZwN0RIc25zQmd4NF9acjBYdF8yeG8zemRadjFwc19scHp1alVBYjIySnQyRUxTMEZDd3RwZnNad21ZWUlZdkE3VGZ2YkpKQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks Edge Higher at the Open, Shrugging Off Weak ADP Jobs Number - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONlZyQ0YybjE0akViTXN1ZVpkYWVVVnVxS0MtdVRyNi11NFRhTnEwelptMk9WS0Jid0lTQW9KQlZXNC15enh4X2NFME1iTWl6VTg5cG5QM2dSSFF0MDVEaUVadXlkQ1pPUV81Y2h1NG1MZF8zcFBtdmJfWEFpemVwdTZ4M3I0RndoUkNUUzVnQkNScGpUT1FLRDVibjZxWFZPZEZwYUdrTXYtcUZQVGh4Qk9mbmxqSm9ONWFKRnRadzh5YkdoeVIwdXZUcXRVVWVBdDNKZzZ4Zi1YMmNKUG5ENmpvWU9lX1lLOWt5VlhDN0o?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Markets stall after ADP releases dismal jobs report; dollar continues slide with another 0.4% drop - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWVWZGpmM096Y0NieTZabnNtYmJUWkRZQnR0Nmc5eUNwV25Mb2xULWF2RFFkaHo3cENNZkVPYzVyMEl3bHUxd2VSdG5yV0FLLVdieUxiYzhFaTdnWHQ2Mk1DcW50QTFnR09YcEZoYlB2Ui15X2Z2THZneW9hd014TWRUeDVxR244Q0Q0bURPYnFwYURvUzZ0RkdWV2hfV1E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stock Futures Flat as ADP Jobs Data Disappoints - Schaeffer's Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1J2V0dpOWNfNDdVMXhIXzJtTF9sV1d3RHFBdThMWnVaMjBnU3RhSi1KRGlVS3hyZkQ2aXB2a0dQOTYxUmlPQW05MHFaVjJTNURKSnhYenJxQ2l5UENBaVlUWWVLbnh3TEFJTk43Snp0MFNDUWlTTElSWFptTlNmVVdSM1NIUHpZREdJTHlmQ3NQa1hRa1QwU19xa0FESFloSW1YOXFPZV9qZHNF?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "U.S. stock market today: Dow Jones, S&P 500, and Nasdaq rise slightly as weak ADP jobs data fuels Fed rate cut hopes and tech stocks power market gains - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOaUEtY0dQTWV4MF9iSFhhOTcxQ3pVMGg2T203RE9Xa1g1ODk5MC1yQVVxbFlYX1lZQUVlWElzd1d6WDE2elpPN19Zb2t5N2FfeTQxdmtuZWVaSW8wX3Y1ZGxHRlhKNng4dWt1djVDcm9oSjhtVHZ2WG42b19zSjF0WlIxWGFDRTVRTFJPdUcwQUdfOUluSndjSkEwRUVkRGZlY0Nob1NwODY5MGIzZ1NINkF0b3VKZFFFVnRrNUxJY0ZxSXBDLXVuVFVQamVWeVZGM3FHejE2cmNFZ2doTHU4TWVxZTljaTJDTmRza21Tc3A2VXlsUm5kcnotYnZHSkk4LWZIVnVCbm5ubHR4WjFZZzZXX0lBb0o0b2VFRVB0ZHFyd0x0SGxBVkFna2FmbkxvN2ZEQUZQdHJHNHc3OHJLZ2hJM3o?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Automatic Data Processing Stock: Is ADP Outperforming The Technology Sector? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlQ2dDlzQUNwOVdjSUNOUWJkR1VTRzFRNGVXQW9QWWM2aDAxWnF4cF9TOHFHb1NIOC05WVJCUVhZbXVxNkhxVElwNUFiRzJoUWY3c3hUb2NETllNZUtDNFpwZmdFMDBkcUIxUFVHUDJhU3dRbnFDN1N4RXFEcXVyUnJmX2JiRm9QSk1nRzFnbmNjNlZwc3FWeURxR25hYW40eFp3VDBnakhHQlo3MUdPVzlTaWJKS2RKTjZB?oc=5",
+        "title": "August 1st Options Now Available For Automatic Data Processing (ADP) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2pvYTRJR21meHRMSThwX2RIczNaS0lkY0xybGVfOVdNMS1mMGVwOXVsa2ZjakVfMW92S3VRNUdTS1ViWUE1dGlDQ1ZSOWdVNkJJd0hFS3JTSDlvSVpYYUw5eXl0YjBOR0pUVktZYzZheVBtblU3dzRxYVc0MWxoNVAxX0NYc1JIMGVKTmdLT0luNzdvWmVtVlhn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,19 +586,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures meander after big ADP jobs miss - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHlRU0xvaGxlbWEzWG9pY0ptVEh4d2ktN2p2TFBaUUxfRzlKX1dxTk9hM21fdFptSnpHSWJXQ3VtbzRoM3FRcDRjZzZ4eVd4ZE9acmxOaFRIaHZ4a3JFMVRnSEJEWDFsb21DeUl6bmgwWGs2TllkYXg0N0szcU13UEhldEx3cFM2YlNld2tEa1M4aVlRSFNpX1ZkTkJYZ2Z5bjctclZaV3oxMTA4Ri15R3BYS1NMOXhDT19oN0Y4S2I0QnVkbkE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Are Strong Financial Prospects The Force That Is Driving The Momentum In Automatic Data Processing, Inc.'s NASDAQ:ADP) Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXJabFdkVE1ZWnYwRGtfczJSd2hEWXhzSUx5dml5eW5ELVJnVkJuWnZjdzFxTUUtUHZUNl9Ca0ZFZXNHajg1RW1Zc3VOeERJUWlvcmpqZENKX0d2b1BSX1M0UXdXN0VUWjE4dktLWGM5aUVGc1pXZk5zdnl5ZFRqaGtJWURLLUxmQXR3OUpXQQ?oc=5",
+        "title": "(ADP) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRU1nNnlhRnhhYndkUnc3eWkzQU1vdUEzUW1TMjg1eklpMGV6a1FScEFUakFNY1NRc2d3d0RzOUpNNHkwel9uQ1o2SU10eDByMUtXV24tN2hXZFR3QjdCT1I3LWlxMWJsNkpxc2FpZTI1M0t0RnpXSnRHMkdBemlQVjRpaHlzTzJhbmRGRHp3aG5sejBueTZkcWJpeGd1ZzlwdTAtSklNMXIxeWwxYnhDd2FTYkxDaWFv?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why You Should Retain ADP Stock in Your Portfolio Now - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVlNVV2JrNUcxSl9ZX0ZrVndvZmpYOUdQZDFSSk9tenNxY2RKcXJXT3JxZzgwbHUzbnR4MG4zenZXVURpZzlaLTBqUHZYQ3Bqclc1RWRod213UHNsZzNWU0xPNjlNNG5NS1dscHcwUmhLYnlyaWlncFdrOUNOaENoaTBJbTBBRW9IWnd1dGY5dm1YQQ?oc=5",
+        "title": "Three-Tier Business Strategy Aids ADP Amid Intense Competition - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjh1eVNOZTdWRXE0SVJPWmdqZE54N3JGSVpSSmVoNFUzdjNFVGIxTURwQW5HZThwa3Ewekw3Vm5TdVU0MjBpbnJFTnRLNGJBa0ViR2xRcXFGeWhXcTdlb2pnTW5FSF9EMFloMFZSWGwzOFF5Y1B0bE5oMzVXM0dhU0VPaXFZWnVIZXd1ejFqWUdFbGZBT1BLZ2NhZmhjeEJucXpYX0pR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Automatic Data Processing : ADP Investor Day 2025 Presentation - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd09zQVlFV1RnS3B6RUM3M1Jkb3NBZTItNW4yZjdpWF9uNUJaTmxOc3hCWVlkNm5RS04wenhqcFE2SWI5dWMyMjVkTUhHbXhZbFlDeVZkaEJoLTZCS0Npb0VrSC1yMUl5ZXFkWkJKX3poNnRhU2RTNzZldzlzUHJ6d3p5UjQ4R0t2elBjMHhBNTJzU3VGQ3h4N29WUDdtcGtaMUFjQkE3c2swUGNXTVZJUjFyQ0VabGNiSTc5aGUzMFJnNEdfNDN1SmVGd1Z0WW5yOUFtb1ctX2Fmb0xQbXdSSjJLSmQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "ADP stock holds steady as Stifel maintains rating amid new growth targets - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjhhanRyU2xZYTVCVFZ0a1lpckhIakJ2emZqWFdTN3B6eHBnNmd2ekNPQzNFLXppbGNJN1VsTlJRYmZvVFNKWXpjOTJtOVcyUXRBdjV3UmlpWjhub24tVXh4YkVmdzZKcjdZbjhPa0U2OG90dGtRZE8ycFBfc1NUaW5yRG1zdFpIRWc5dDJTOXhNVThlZ1M4TFcxazhJN0RYMWJzc3ljNkJtRkVncW1xRFVsZ28tUWR1YjNsX3VHNzUzWFBuNjNUUEpDaDdTZw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "ADP Quantitative Stock Analysis - Nasdaq",
@@ -646,16 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "ADP National Employment Report: Private Sector Employment Increased by 37,000 Jobs in May; Annual Pay was Up 4.5% | ADP Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONkJtTHVnSXhuZFNTWVZXdllnWnBPazV1ckdtTHVHck9GOFczYlB1QWljbG40YmlIZTZ2Q09xRW4tcnlpWklOemVPT3pzWTdzN0NEUlNINU5xdERLOFVjblozck9Pc0lLZlFCSjlxZUFNYWdLbF9fREZReFJ4VlZQcGJpZTVTb3VYVXVrREJ4TWd6THFpNmkwQlNseS04SDM3Zmc0YThXRXExMkFxQm0wVTJvVG1ZblItNFFmSEZaRjhOV25tV0xJRE5XZGNhdHItUjhTdUxnVmFKSmNfZmcyc05mSlRKVXplbjdZUm1ycTljYjBZNHc?oc=5",
+        "title": "Automatic Data Processing, Inc.'s (NASDAQ:ADP) large institutional owners must be happy as stock continues to impress, up 3.8% over the past week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWhxMm9FamMxcUJiX2VaYWNLeHBtSWNLb28wTjVQX3dkVzlXSXBkZFZoeW5XU2s3eEFsTTZWX05rNTNZdmtJT21rdEYtQ05HMHNVZ0JsZjJpRmFFZW9CTzhsSmxqVnU1eGFUTkFRSHdZcjZRanR1NFpFR1I2ZWNrTUFydEVocmprb3c?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Automatic Data Processing, Inc. (ADP) Stock Analysis: Assessing Its 124.91 Billion Market Cap and Growth Potential - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM3ZWWVR4ejNGWWhoNmlzemo1eTNxNHhZaW1hb2tFZWwzb05ZZmF1S3h0b2U4RTBGd2FBb3NFYU5ZRW12U2RxTFVQbTN0T3pWUG1xekFkaExiV3pQcmhrZi16ZXFYSmdLTDdCQ2JtTDE3QnJ2eGlVNC1KdWhGTUZTMnJPSmNTcWhGNUFrekVfVXFIY2FmdnlnbWZKbjhCdUpUbmdSNVJ4WWxPaHBKektmamM0VzlRNXJnN1hyRkVKMTZjbEZBN0EyN3Fpc0JrbTJBdVI1R2V3ZUdJQS14Q1lRMjlReXJkZGhlUEMwVUhiOVFDZw?oc=5",
+        "title": "UBS Lowers Price Target for ADP to $315, Maintains Neutral Rating | ADP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0s5SFplVUVVUlZyQ2FCM1AzRTZxU3habmFHbUxpMjFITUlUdjNPNDZzT1M2SHd3RHlMbFhPREtxOVBEUXVBVW9Ta0gyNktYTW1IQ2ExY29xREtETENkclJmLUwzWGRtV3pmVDkyY3AxR1hJQUJaemViUUpXWm5hRXBqSUtiQUV4bmZSVXVJbHpYMjdYNjVCY1JPVTlaWGpGc3NjcGtFQi1seklqYmRHdFU2azB3aVNXTkE?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho raises ADP stock price target to $332 on strong outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2J6NnJhNUstZEE3Ri1yNkc0N3RYWlhzcFZ1aHZEUzlaLUxGRHZPYlhlUEdtQndDbFdQQ002aUs3WnFtYl9NaXg0U3hELUlUeTdMSVAxc0ZGd24wYm9aN0I3blo0aE9la0c0RkJCUXBkM1lrSk9FbFFXX2NwVVAwODNuQmlfc3paNnFaZ1JIOW55aTE1akU0N0RZUHNXUURhaHdTNzJYUDdJS3NZcTlJMmhDajVmenhWNXdlWVRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Computer and Technology Stocks Lagging Automatic Data Processing (ADP) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dkdGhoZUhGSnkzdFlCWm9QNW9jbnlqNEhRczdhNXNPSHJyaWtpVHR6UXFDa040bXp5MTdobVhIN2xkMkpSX0ppU1h0RVMxR2tqYTFMR0NqS0k4WV82WjBYb3dsYmVVTG9hdC1SdVVkTVVhekpGWDBzanc4LUVOTmRSelpjVm13cEl6dHBpSzJWSzBn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why You Should Retain ADP Stock in Your Portfolio Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVlNVV2JrNUcxSl9ZX0ZrVndvZmpYOUdQZDFSSk9tenNxY2RKcXJXT3JxZzgwbHUzbnR4MG4zenZXVURpZzlaLTBqUHZYQ3Bqclc1RWRod213UHNsZzNWU0xPNjlNNG5NS1dscHcwUmhLYnlyaWlncFdrOUNOaENoaTBJbTBBRW9IWnd1dGY5dm1YQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADP's Price Target Lowered by UBS Analyst Amid Revenue Growth Revisions | ADP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmttTmdBSS1KNVRlQWp0MXA4akxOTXF3MldObWNBMkhqb25ySU5mbURTdkdnUTRaN0xxTFNJNEtJTXVMT3M5WGNFd3RMX1BBb1ZmY3MtVHNCTGt5WUFBazF5cGZkUjZWWmZWXzloX3lWQ3hJRW9nSW9jTEdlcmVyeXBMbDlUTWxiU1poczdxWWUwMTNxMDdVY1BOQzFnUG9uWWtSekpjbmlWX1pQeVFTYlZmZTk1RHQ0NXl5SFZOMkdNdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ADP stock dips as company hosts 2025 investor day By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXQ2YXEzRk1CdUN1NnBIM2NpanZoSTZoRTJiQ1FQZTZvTmg0MFVEZ1YyejFWTzR3M0h4c3NrQWxrTGpoR3B1WDhxZk1Wd2d1dks2Qm5GY0JTNkJvQnMyZjI2eXVVOXRNT0toYVFvbEV0WU85aVBVLTM2Uy0wWDY4bk03UjhTQi1TaVN6dHdOZlFjSHVrejA2dWNkRlp5QzEtdXp3blNERnU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cramer calls weak ADP jobs data 'disturbing,' warns about stocks coming into earnings too hot - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFBPSFNXYlZlWm03TkNZZmZkamhaWDJ5UWx5VVQ3d0x2WDBKMWtsSzhOTXpMOFh1bS15ZXdkM0VDNGU4aE0zQTFST3A3S2ZOOXJBUzNma0V5ak1mWGl0NU9VQVdEQ2pxTjNLMXUtX3JYNjlMNlNKN0FjWnVRcGJrWWF2NXBCNktlWGJHUEx6M3o5NGdhNzNDNllmR0tJLXhTamlQcEVqNXBNV28yUXZCZV9mRHJTM3VpTFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Markets stall after ADP releases dismal jobs report; dollar continues slide with another 0.4% drop - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWVWZGpmM096Y0NieTZabnNtYmJUWkRZQnR0Nmc5eUNwV25Mb2xULWF2RFFkaHo3cENNZkVPYzVyMEl3bHUxd2VSdG5yV0FLLVdieUxiYzhFaTdnWHQ2Mk1DcW50QTFnR09YcEZoYlB2Ui15X2Z2THZneW9hd014TWRUeDVxR244Q0Q0bURPYnFwYURvUzZ0RkdWV2hfV1E?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

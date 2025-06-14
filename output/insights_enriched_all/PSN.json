@@ -2,12 +2,12 @@
   "ticker": "PSN",
   "name": "Parsons Corporation",
   "sector": "Technology",
-  "market_cap": 7362084352.0,
+  "market_cap": 7441705984.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 29.312769,
-    "PB": 2.998781,
-    "EV_Revenue": 1.254,
+    "PE": 29.629787,
+    "PB": 3.031213,
+    "EV_Revenue": 1.291,
     "ROE": 0.13258,
     "ProfitMargin": 0.038629998,
     "GrossMargin": 0.21207,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05637390648254536,
     "ROA": 0.05501,
     "PEG": null,
-    "EV_EBITDA": 15.002,
+    "EV_EBITDA": 15.437,
     "BuybackYield": null,
-    "PriceToFCF": 19.343998780408143
+    "PriceToFCF": 19.531640165728312
   },
   "technical_indicators": {
-    "RSI_14": 57.82424986044054,
-    "Momentum_10": 1.4357214276887127,
-    "MACD": 0.7631577951315904,
-    "BB_Percent": 0.798525796143646,
+    "RSI_14": 58.377924839768085,
+    "Momentum_10": 7.387417005031824,
+    "MACD": 1.1936327890863083,
+    "BB_Percent": 0.7449886111953,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.926340981628448,
-    "QualityScore": 0.3583755706835531,
-    "SignalScore": 0.4958970426338658
+    "ValueScore": 0.886397943400588,
+    "QualityScore": 0.3688703480705785,
+    "SignalScore": 0.5071450779667228
   },
-  "volatility": 0.0252781610201715,
+  "volatility": 0.0252426297737777,
   "beta": 0.533,
-  "return_6m": -0.2973069163112301,
+  "return_6m": -0.2788939621589607,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 79.12
+    "target_mean_price": 80.12
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 96.78
-      },
-      {
-        "date": "2024-12-10",
-        "price": 95.92
-      },
-      {
-        "date": "2024-12-11",
-        "price": 95.19
-      },
-      {
-        "date": "2024-12-12",
-        "price": 97.0
-      },
-      {
-        "date": "2024-12-13",
-        "price": 96.56
-      },
       {
         "date": "2024-12-16",
         "price": 97.92
@@ -537,37 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 69.07
+      },
+      {
+        "date": "2025-06-09",
+        "price": 69.52
+      },
+      {
+        "date": "2025-06-10",
+        "price": 69.75
+      },
+      {
+        "date": "2025-06-11",
+        "price": 69.69
+      },
+      {
+        "date": "2025-06-12",
+        "price": 70.38
+      },
+      {
+        "date": "2025-06-13",
+        "price": 69.74
       }
     ],
     "current_price_data": {
-      "price": 69.07,
-      "change": 1.01,
-      "percent_change": 1.48
+      "price": 69.74,
+      "change": -0.64,
+      "percent_change": -0.91
     }
   },
   "news_sentiment": {
-    "summary": "Le titre de Parsons (NYSE: PSN) a récemment été secoué par une série de prévisions pessimistes et d'abaissements de cibles de prix de la part de grandes institutions financières telles que Bank of America et Goldman Sachs. Les performances segmentaires mitigées et la croissance plate ont mené à des baisses du cours de l’action, accentuées par des incertitudes liées à des changements de contrats. Cependant, la nomination de Parsons pour un rôle clé dans l'expansion de l'aéroport d'Austin apporte une lueur d'espoir. Les investisseurs doivent surveiller de près l'évolution de la situation, les prévisions de croissance des bénéfices et les révisions des cibles de prix pour prendre des décisions éclairées.",
-    "sentiment_score": -0.35,
-    "label": "NEGATIVE",
+    "summary": "Parsons Co. (NYSE:PSN) a récemment obtenu un contrat de défense de 94,5 millions de dollars pour les opérations de base aérienne, renforçant sa position sur le marché des entrepreneurs de la défense. Bien que la croissance des bénéfices soit robuste, le cours de l'action de Parsons reste stagnant. Malgré des résultats trimestriels inférieurs aux attentes, l'évaluation intrinsèque de l'entreprise suggère un potentiel de hausse de 72%. Cependant, des prévisions pessimistes de Goldman Sachs ont contribué à une récente baisse du cours de l'action. Ces événements contrastés soulignent la volatilité actuelle entourant Parsons, nécessitant une analyse approfondie pour les investisseurs potentiels.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.45,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.35,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Bank of America Issues Pessimistic Forecast for Parsons (NYSE:PSN) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWThXWElGM0NSM0pzLS1DWlgyQlZWLWZhSXRQLWZ3RGJnMzRNSThMZFVRT1lTTnJ2bzFiM2lza2tIMGlSeXVYZl9MV0dQZndlbDE3ZHJpaGhMMkNKLUJSQ1hDUV91MkZibFMxNFVsTGVka0hhU0FrRHJiUEI3dmVxZDNtQkRiYUlqTEhyeEVuRHk3UGNxQzdPam5CRkc3alJfSHlZRWwydHZJdzRSVHc3M3VTTk91azQtbTRnREUxc3RlOXRL?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Parsons (PSN) Price Target Lowered by Goldman Sachs | PSN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWldvMXR1cTlNNmw5UENOSzA2YnZqR2ZKUlktVzhHNHUyWHdfZl9YRXMyUC1ycG9xclZEREFRT09vdi1ORU1XTGlLbkFfYWZxS0p0SGRyNS10cGV0OWVETjVWaWdfb1VCdE9VcGhjLVFQT2txeDZid2ZyeDlBV0NHdVpzcG13U2h5NG5TWm5fRnR4WDR5cXVPak5ELVZqVUo2QkF5NHFB?oc=5",
+        "title": "Parsons Co. (NYSE:PSN) Shares Acquired by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTVVZjBRZkVGbzdlU1doM3FiLUxMOThUQnQ1MGJ6LVJWcGpCWDREZjFhclJ3bTkzZ1FSV3VpM0xKMUxiWEtNYzFqWVI3cllVenJtOFZZaDlsVFgwQTFlNjFnZ0JRR25JQnhqX1hyQ3RiNEppS084bXlRRUdBQlMwcmdQN053TVQ3VDFLTEh1Z0twaHBXV3Z1SlRDYzBYclBKWXU3VXhnb00yQnR2ZzNWQkdudmRkS3ZLWEE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Parsons stock falls on mixed segment performance, flat growth (PSN:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVNwWGFCMUlRRXlra1VVNl9NdldvemRsTldFaGtnb0hfZzJzVUhDQzUwNkFvN0JpdVoxMXpNWVIzVm9WODdzQ0ZiemtSU3piMUszV2hYVk1fR0FLNW9Xa2pObE9Fd0M5a3J5MnpoWkhYMHFpOFRGT2ZtWTQwUjFBNlhzZFdyQ0Nmakk3YUd4aHlfV2V6dXFndEFKUkZ4TXM?oc=5",
+        "title": "If EPS Growth Is Important To You, Parsons (NYSE:PSN) Presents An Opportunity - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZUNuX2Ridm1LWkRhbUljSExOdUtBcFJaRUsxVm4wVmN4U3M2NEQ3V042d3J5ZjJjdlR2OWxuZHVQcXFfWm4ybG1QaHQtbGVQdS03NlpEQm1raUFzSXpKcVVwbVBXdGMtNS1LaExYNE1HdXA3bjlTX2R3TS1EdXdBMXVjRTVJQnJRdnlNN2w3Ri1sTzVvaHlFX2hsZURhVzBRREp1cHVVb1hrdmd5OVBPY3JIM242SDJ1NVNza2dMVUpPd0lzUHQ3cmN5b281VWfSAdQBQVVfeXFMTzhtWW5qdGk5VnhRV1NuUENxcm9BWkU4b29JNmNhZEJwOG1kbk5Tb3pQeHdmTVhfbEpPLW5uc2JiZk5hbkZHcFZKazVxTllIbVpYN0wzN2RoazNMTk9xaUtMUHItcFlqUU1lekNTN0RIdHRFcVRkRGFvUHdYaC1vWmZHaWUtUUZ4dklvaFo3YmdiMUhsWm1qUF9EYm1saHQtUDB4WDJIUVFxSlhLR2ZFaEFpLVR4M3pTX1NFbld1Zzg1M3dPakZQZmxnZFBSei1ZZE9WNWw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Parsons Co. (NYSE:PSN) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRnBVMVRBVGpZUGtPQnJ3RkVDc3dfWHBEampsUE5oVGt5SXZXczBsa1hhc3YtMDhEQXBjTVhzM0ZSTWtvT214d1ZIQW8tMkozZmlCSnh1RVN4VnBVbEwtWjl0QWFpaVl1UlhwMUlQMkpLeFZ6MDRKNFJJQU5vZnVMR1l6Z1RFbERXb0M0ZVE0MDQ0dkxwZEF2b25iRXdxWEpHYWtKTEE4YUs5bjRFd3pXbFZTRWpMbTFUb1N5Y2MwT2tfb0wzZlkxM0dpN3FDN3ZvM0lJSDFsb0Z3SlRj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Defense Contractors Stocks Q4 In Review: Parsons (NYSE:PSN) Vs Peers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVVdtSzF6bGhJMUg3bndfZkEtc0MzVkc0T1Axa1pRMC00NDhRRDlKQ3FrdWRzVDdQYWdJY2JIYUxnY0JwTlYtbmY3enFzU3pTOE9yalluNE53WEZJS0NlV3dKYlF1SXo1enJIWjNfQUZrVW8zTXRpcEdURGNfVHlGdWliNFpPMnJOVHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Parsons (PSN) Secures $94.5M Defense Contract for Air Base Operations | PSN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYl9zb18xT0Uwek5jUXlZZnVPcTlYMXBPNHFDZzUya190Q2xuZnhLZFpnX0VWTmh1QlI5X3FyYzlMN1FEcnRvNDhkWXhXZmVad0JiX3RpMWVsSGxIdlRFNHZNY1RydlUwUzRMSmstZzA0WnJKNTRlRWdzSGdIMnk1WUY2ZFA1REJIUlVxY242MDdUSE14YjJDTW9oWXEtc0g0TUpQTmw3RkxNM3lJOV9rZE5KdW9nekI2a29z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Parsons: Share Price Sluggish, Although Earnings Grow Briskly - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmRUR3BtVjdEVFRwYnpTekhKQ1AtRGlyNkZkMkp3NDdtMDJyZFZsVnJqVXFTMWVhNTU0bHhRdkVoQjRReDN0cTA3YWpONklwcXp5VElrRE1yWEZUMVk5blBBV24zTFB0TGEtbUhKdDQxUUdYWGhFamJ4dlpCTVdRaldSUFBFZl9LVmdlR0ZIend1cVh0UmdxeDNUX0hqZE5QSlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Persimmon Stock (PSN) Dips, But Strong 2024 Rebound Continues - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjRqb0pMN3Zlek5GQzFhR2o0enU0MDdEX1pBYlpmMWw4UWotSTZmUVZyTERfdExlM0JUNGZnNzd5TUJiV25PclI3V3M4eHh0RzVmdHpiY1M3T2lQOUFJMHBRMFdiSXlRUjd3QUtTa0Z5Z3JGTjFaR1Q5aVJONkxDVDFVeTk1Nmd2dlpyR2xyM09wdU1DMDhTZ3VzZ1NoclJZa2dta01B?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -576,24 +596,39 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Why PSN Stock Is Falling Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5USWlET1hFWWhHT2VUOHAzbzdQbjlTdHkzNjlVc19BSm9CMGVJMHVIUzEzVUhOd0lnWXNuWmNWMG5HOUJpR3k2VWM5ZkUweXhFV0hwczhSaFg4cktFLTFQVjNTVEhHdXB1MVp4R0t0UE1VcVVnUXBVSU0teTJCQQ?oc=5",
+        "title": "Why Parsons (PSN) Shares Are Sliding Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanNibkMzeFhnT0NJeTlNdDdQajdlektrWDRuSkN1emNRa01TM3VDZ3E5Y3YwS3hmSXBXQk9HZmJsc2h3Y09GbXpuUlBnUFEzc0NvLWpYNzl5WjhrbUNzZ3RSZG5rbXN2blMzaU9uYWpucHBqMk5fNEY5ZVQzajVXRm1B?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "(PSN) Trading Advice - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWERndmN0ZkhLUTZzb0M1cHVwUlE3RlhLQVBlUnR2RUo0UlFVcHlicnRHcGtkNVRaMXpHQVpjbnRLWUk3dGNaVzFZdEphVmhwdWNvMWlfSFp6T09ycDFFX2VFT1BuX2s4YlFEMVR5TlRJSW1teTVOdmY4S1NmaGR3cW9MY0ZkNTJ4TzEtZXNvVEJYQ1hNS0hTTQ?oc=5",
+        "title": "Parsons Corporation's (NYSE:PSN) Intrinsic Value Is Potentially 72% Above Its Share Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUF0MUk1UFd6RUl3OERoeTZ6bUlaSENRWEFVNFAzMGpMQkJsbXJVMXZTckJGbUstXzVvT1A3UFJtRjBFZmRob1Vaa2UtbGNmalhJSHdTRjdjeG00ZEttMFZKZUVla1dpQWdOb3djS2RXb1lkWFZoTEYzRjNoRF9hUjJ1cVRuVFNucEw1RXo0YzZEX0w0Tkw3VGNkVmRMSDBkalB3dXVKbkFjV0s5emlacHEyT3R5bUlGcGJpVkdDS0FZZV9VX2F4MUFtTGtyMW5U0gHWAUFVX3lxTFBGaFZoWWxLTlBTWWZadXpKQjVoYXRfRkdQM3RFMUoxNkk3NGRpVWpMYzE2enNfTGhYc2x4MFhlcFBLYmFZY2MwU2NxUHJCc3RIZkVIR3A4OTJTMXBLRXZIU0w3Wllrd2NBdW9rVmhVUkkzcmhZZXRUMnFkeF83VjZULWRoSVdpd0p0VlUtY3pNcWhZMlNlSEFQWGdpR3NuVEFobkVBSlpTbENXazdCamxQZWRqR2Q0a3M3eUROMmxSSW94aEkzWUR6a3JhRm82bUxOWnpSZWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Parsons (NYSE:PSN) Shares Gap Down After Analyst Downgrade - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVBjQUVMQ1lFM2pJNEh5WTFQR0dGMXBtNmFLMC1XM0ZDVkNUUTkzS0tMdWJSTWlPUXZXQ1lxTDRWZThvWEt2YXRYOWFtU3ZjaXdrZE5YcmFmTGpDWVBXTGQ3NFh5aFZaN2M4Z2wzMkk5cmQ3czAxaUNxekN4dVJSaF9zWkVoZGx1azVTZ1A3ZUZlQ25HMTExeUc3T01GWUpuTkswNTNVVU91dw?oc=5",
+        "title": "Parsons Awarded Air Base Air Defense Early Warning Capability Task Order | PSN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGpPS2JqRndnNWE1aktBYmlDOF8zUjZEakVmMUVSckZrb2hiWTdkY1B4ZzNfYVFBOWhndUNLSnNUNjNaZnFLQnNmcmo3ZmN3QURvVDdueUNyU25JMXlFR3d0Yld6NXJiRWR5M25SN0RJUDlJSFBtczhLaExSb3pXNmFsZFJYWmV0RW1TcUIycDk5My0yT2pWRm5YcElUc0dNRm90d0dvSExFUDFmeUlWalV0ZWZWaDZ1U0xXNGZ0dXZReU1W?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aubrey Capital Management Ltd Takes Position in Parsons Co. (NYSE:PSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkRCVjEyajlwU091VktvSU4xS2d3NEFMNjZIbjhYOTg4cGFoY1pPdE9BTFI0akpzeUpQakRmM1JCU2tzdTJPS2pwaDR4X0xQWDd4cGhLYjhCZG9EZ0liekhURWRNTnhDMnZERTE5a3pBNnVhYnVKdElSQnZkRkljdEpKOXlWM1JlN2ptOWt0U0FJdXVsZGlHNUtKNVhjRk5wbk9RNVptM3prT3Y3ZF9Rdk9JUlRTcS1qRmJ5LTVQeUZDaDNJeUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Parsons' Growth Story Falls Short When Compared To Peers - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkdnb0lvMTZGSEN3dHdiVERSbGZMX1hPeE5rVjNsc2JsalpQekxLT1RpUF9GZXZ0Zl93eTRMYkF6YzVhSUJMSUtMbUNOeUQxcWl0QV93bjNpdjh2TlB0Ml9QZFJDWkVMOGkwYWRZX1BqS1p4aGtFZm5UdU52WVRDS2c1c3h5MUZFWS1tM1FNakNvRXoxSXhweUNZZFk?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Parsons (PSN) Price Target Lowered by BofA Following Contract Changes | PSN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2ZhUzNJY19TeEhYbm1WTFVjWG5YU1FwUXNzeWFGdHlfX0lyZzRhVS04WGhySkgwWmM1aUhiWDlvLTQ2WmFaZE5vOXNzNTRIRk1MamRXaURaRG9faXM0WnJLVk1XTmx6V3dIUjI1RGJ2WmFMYkNyaElUQkZQVnVDZ3pUVF96YVIwTlVLQXFFQ0Ezd0ZJNG5vZjZpaVdmOTh4eFdnSkdUWm05cnl0ZGtXV3V0ZmVLVnRTa19PZmtR?oc=5",
-        "label": "NEUTRAL"
+        "title": "Parsons (NYSE:PSN) Misses Q4 Revenue Estimates, Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5idm52d09KVm92RWNKZ2RYSkliVmtVaFlFSW0zUkNqSVRCeFdMUkhKZW1nOVhNd0x6akVPYmRRRDk0WnJqby10MUlMLW5pUWdlMVZTeDV3eWE1ZFNvYURCMGJYVUp0SmFQd191bEpGSW9NV1BBMU5QU3ZHbks?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Persimmon (LON:PSN) Shares Cross Above Two Hundred Day Moving Average - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHpBUkFQaklhUUpMTjQ0MTBSMlQ5MWM4RklEUk1iYlhTdTFrZTdPVkswcFh2WEJRcFFjdUY5NWxHS25UTHBPSTh3aG9hQkl0R2NjSGQ2Q1gwSlJOMWhCSmswN3I2NW1lZTM5YlltZnFtWThRUHdxV3pyQW9wX1lzeER3WVNMTXN2ME9IQThzbGxnU0Vad2l2ZnA0c09PTE1lckpTZW5EbkpSX3RUOGdTSXJiUXdyLWE2NVl3bmRjbEN2cGlHWktLa0gzRnJKcWZXQ1AxeFZqdw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Why Parsons (PSN) Shares Are Plunging Today - Yahoo Finance",
@@ -601,14 +636,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "The Goldman Sachs Group Issues Pessimistic Forecast for Parsons (NYSE:PSN) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTzdtWnhxOFkxUGxZY0NnX09xQmtQbVAzc2dKWjBndk1QdnRacXpGdm1BMnQ5ZWV4RmF5Y1puMXlocDg3R08tVmNfeHNkNVREa2tnN2JoNkJobVNPSDRoVThHR09HNjZCcHBpYjd5bWY3Ulh3S0ExdDFXLXBzaGdaOWdGYlZMd0gzVVhZUDVTQUNIVGN2Q0U3Sm5nMllmTHRlc1Rvc3Bld2ItUW5wSFRSNExhUDliUnc5M2tCUU1wT0FfSzZpZzRVRkZTeG1xSERfdnF3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Parsons (PSN) Chosen for Key Role in Austin Airport Expansion | PSN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWJCTWV2dWxhNU9ScFNUdjQ4WDd3Y0YwcVFScTg1X1JJbFo5Y3pkcERjcUs2SDhjTkwxZWRJQ2FRTXByQ1NSazlnX21KOUZuWXdRa2FNY194YUQ0dGRjeDhnLTRQSjlHc1c3WVYxdDRkdzM0eExFMHpPOXZ6MF9JZUZhWjY3MzJjTEJWZXFmbERtZ0ZkU0Frb2RuZHBPNG5mdGxOeFg2c055WUJxUm43RzN4aFU?oc=5",
-        "label": "NEUTRAL"
+        "title": "Persimmon (LON:PSN) Stock Passes Above Two Hundred Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWQ1Z29KQnE4Q2xsSE9RN3pZV3dNdFRyUk9SMm5uVTBGU0QyNHNveFRZbVNOemFVZm9FbkF1YWt0WlMxSEVKTUE2U3pIQWtLTUZfLWIzWDVSRmxiRFRzdEs5Wi1jV1lkX2RzT1lOVW4zVl9IQmE1ejBGU1BNa0pjbUlqb2lsanY4NU9GUURMaDhiQWVDd2E4X1ZjRkxfdm9iMGF5Z1ZVcmZsaG1DNnFsV2NaSzgwRXduVHhxeWNPQkhsNVhOYldqbFJhR2xPZw?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Parsons (PSN) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
@@ -616,46 +646,16 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Parsons (NYSE:PSN) Stock Price Down 5.8% - Should You Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGlVd2YwMlVSWDNjeWJISWtJZmFyWHItLTlfckVMdGVYLWQ5TGR0RzJaME1pTG8zOTRKVWt3ZkRmOHg1YmhtbWNIZFRyWjROM0k4WDAxcE1ISnlnQk9pOHp3bjJvejZ4WnBWbGM3MmJIWkMzQllZel9ncFM3TkFwNlZFZFRxZ2FaRHhzRjRWZmJCUHdLOUV4emVn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Parsons (PSN) Updates FY25 EBITDA Guidance Amid Contract Uncertainty | PSN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmdxLW1rSFB6NjdTTlNIZTUzblFlOERJcklhcG5RTEFZUXFlNnhubEFSbHN5MWlUVVNsUllkRzAtQmNUb3FfeFJnVWh2WjQ2ZWZpUno1SlZDazJMaDJCT05iYUZiSXRpcXRSUmhkRWg4RUFfS1ZILWVZMmczVWw2M3BleWVvZUM2UEtlUzBRYTM3bXpwLXdZTXlRN2sxdUd1R3hwNmEyNjlRcTZGQ2l5UnVMdmQxOTViZ2QtSQ?oc=5",
+        "title": "SG Americas Securities LLC Invests $12.43 Million in Parsons Co. (NYSE:PSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2x1SHJlZUI2WUZaZ3VJTWhRZlRaOVRua0NLQzAzVUNPNzVBNU9ScU91V2pGRXM4QzhvTGdKSTVtcHQ5SnB1Yi15OGQtQ1hCVnRjYnBMWXJwR1pjMlgyUXUtaEdJUGNpX09PSjJnOVZ4bEs0SnFHd0h6QzNBQTdCYVlYSDJUQ2xBUExlTi1Eb3piUHpJcjlVVDFFeWl0SVd4S0lJQXljQzFhLUMtc2wzYnk0Yzd4b21tNVJmX2psTERYeVc3b1BENnBn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Parsons (PSN) Shares Are Sliding Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanNibkMzeFhnT0NJeTlNdDdQajdlektrWDRuSkN1emNRa01TM3VDZ3E5Y3YwS3hmSXBXQk9HZmJsc2h3Y09GbXpuUlBnUFEzc0NvLWpYNzl5WjhrbUNzZ3RSZG5rbXN2blMzaU9uYWpucHBqMk5fNEY5ZVQzajVXRm1B?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "KeyBanc to Host Investor Meeting in Baltimore Featuring PSN | PS - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmhTa1FYWFZDRTBDbjc3Qm5kb19KYWdCQWNvWE5DSjdtcFp2YWhYaE9WazhSVlpHU1FCOWpIOHpmZm1ZSURiQWphY3MxWkhhMUMzMWxqR3VPY2ZZX1hKN0tEYmxUTk1LM3NvTmgyS1pHX0hZaGpOUEs3cXkyVWNBOGc1VUhzSDNibmpRYWp0QmNxRWFlckxIMzRkT2QtaVVITm1DcWtsaGFqWkl1QUMyb1pPQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Persimmon (LON:PSN) Share Price Crosses Above Two Hundred Day Moving Average - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWQ1Z29KQnE4Q2xsSE9RN3pZV3dNdFRyUk9SMm5uVTBGU0QyNHNveFRZbVNOemFVZm9FbkF1YWt0WlMxSEVKTUE2U3pIQWtLTUZfLWIzWDVSRmxiRFRzdEs5Wi1jV1lkX2RzT1lOVW4zVl9IQmE1ejBGU1BNa0pjbUlqb2lsanY4NU9GUURMaDhiQWVDd2E4X1ZjRkxfdm9iMGF5Z1ZVcmZsaG1DNnFsV2NaSzgwRXduVHhxeWNPQkhsNVhOYldqbFJhR2xPZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "PSN: B of A Securities Lowers Price Target but Maintains Buy Rating | PSN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3ZzeV9NR0hxT0RvdG90ZklBaXU0czl1a3c4SllrbURDcXR3QzNoNnFRWXNESjRBYXNLTVZVT25leFVweEdEOThtMGNfQi13dHVSRVV1R19YOTllLWpWTHhwajlDZGFWLW1VakJWWUJWY3hVclRBLTRqdE5hLVluY3BiYTVwbngtSm1rRFdfM19ENDF0WjhxdHlCR1piUWRWaE4zc1hycUN3YktoT3R6LTBDSUxOZVM0dUp6eXNR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Persimmon (LON:PSN) Stock Passes Above Two Hundred Day Moving Average - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVNzcXJpMDdOQS03RFFfaFB5cFljOWF3ZmhDSHNibWI2TmhsN2lWZ1k5UXNwa3Q3R0ZrbjY2NXZRVnRCcEMwSWZjaTFCS0ZsLU0tdjR6YWtqZnc2V3FQalBDTi1ZU05SNWc1aFVaZ1ZaT0JqSlZSN1RldWQ3NmVFZF9NQXlBREV5Tl9DYjJlWS10bWducUVsWXNBZVVfOFVGaHFrU285Q0dkcnpBTjRlemxaSV9HaEI5RnFkNm51VGxHQXdTMUJR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Parsons (PSN) Sees Price Target Cut but Maintains Buy Rating | P - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmt6X2E2Ti1ZaHdMS0JkNi1YUDVWb2xNa2paLVllX205QS1UdDRQZ0Uyb1BRelA0UUlYRTZrXzg4TEJFd3hXSThkX1g1Mk45dU1uS3ZLOU4tRllrU20xTTBqQWZQdE9CaVZ2QmdYLW95c3BBTHBoQXowc1lUZTBMZ1p4ajdYcFdlSnVBOXhwVVRJdXRvam9fQnVpc215QUJJcXl6bnAxZ1ZxREtaekdzR3Fn?oc=5",
+        "title": "The Goldman Sachs Group Issues Pessimistic Forecast for Parsons (NYSE:PSN) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTzdtWnhxOFkxUGxZY0NnX09xQmtQbVAzc2dKWjBndk1QdnRacXpGdm1BMnQ5ZWV4RmF5Y1puMXlocDg3R08tVmNfeHNkNVREa2tnN2JoNkJobVNPSDRoVThHR09HNjZCcHBpYjd5bWY3Ulh3S0ExdDFXLXBzaGdaOWdGYlZMd0gzVVhZUDVTQUNIVGN2Q0U3Sm5nMllmTHRlc1Rvc3Bld2ItUW5wSFRSNExhUDliUnc5M2tCUU1wT0FfSzZpZzRVRkZTeG1xSERfdnF3?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

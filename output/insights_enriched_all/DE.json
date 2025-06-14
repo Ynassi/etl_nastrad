@@ -2,16 +2,16 @@
   "ticker": "DE",
   "name": "Deere & Company",
   "sector": "Industrials",
-  "market_cap": 141558562816.0,
+  "market_cap": 138574053376.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.262928,
-    "PB": 5.8285847,
-    "EV_Revenue": 4.377,
+    "PE": 24.754234,
+    "PB": 5.7056994,
+    "EV_Revenue": 4.414,
     "ROE": 0.23912,
     "ProfitMargin": 0.12454,
     "GrossMargin": 0.28215,
-    "DividendYield": 1.27,
+    "DividendYield": 1.25,
     "DebtEquity": 275.281,
     "CurrentRatio": 2.14,
     "QuickRatio": 1.919,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.10990658188507338,
     "ROA": 0.043109998,
     "PEG": null,
-    "EV_EBITDA": 21.348,
+    "EV_EBITDA": 21.526,
     "BuybackYield": null,
-    "PriceToFCF": 28.31086733288251
+    "PriceToFCF": 27.66855084299338
   },
   "technical_indicators": {
-    "RSI_14": 64.62852060210821,
-    "Momentum_10": 1.4719219356068185,
-    "MACD": 8.757072832289623,
-    "BB_Percent": 0.7900033150965128,
+    "RSI_14": 53.48365314468064,
+    "Momentum_10": 0.9007224490642306,
+    "MACD": 7.175693061837137,
+    "BB_Percent": 0.362692221730992,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9300300238898096,
+    "ValueScore": 0.8814080750369376,
     "QualityScore": 0.328506252581624,
-    "SignalScore": 0.4982410317258839
+    "SignalScore": 0.5599759151323966
   },
-  "volatility": 0.0199992971628089,
+  "volatility": 0.0198892199775274,
   "beta": 1.102,
-  "return_6m": 0.185866703297951,
+  "return_6m": 0.170247925923956,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 449.41
-      },
-      {
-        "date": "2024-12-10",
-        "price": 443.96
-      },
-      {
-        "date": "2024-12-11",
-        "price": 448.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 439.48
-      },
-      {
-        "date": "2024-12-13",
-        "price": 440.44
-      },
       {
         "date": "2024-12-16",
         "price": 438.42
@@ -537,42 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 519.99
+      },
+      {
+        "date": "2025-06-09",
+        "price": 521.68
+      },
+      {
+        "date": "2025-06-10",
+        "price": 515.82
+      },
+      {
+        "date": "2025-06-11",
+        "price": 520.84
+      },
+      {
+        "date": "2025-06-12",
+        "price": 516.86
+      },
+      {
+        "date": "2025-06-13",
+        "price": 509.59
       }
     ],
     "current_price_data": {
-      "price": 519.99,
-      "change": 9.04,
-      "percent_change": 1.77
+      "price": 509.59,
+      "change": -7.27,
+      "percent_change": -1.41
     }
   },
   "news_sentiment": {
-    "summary": "La société Deere & Company (DE), acteur majeur du secteur agricole, a récemment attiré l'attention des investisseurs avec plusieurs annonces clés. Malgré une augmentation des positions acheteuses et des prévisions optimistes, le titre a connu des fluctuations récentes, notamment une baisse parallèle au marché général. Cependant, l'entreprise a reçu des éloges pour ses réalisations caritatives et ses plans d'expansion au Brésil. Les investisseurs attendent avec intérêt la publication des résultats du deuxième trimestre ainsi que le versement du dividende trimestriel de 1,62 $ par action, soulignant la stabilité financière de Deere.",
-    "sentiment_score": 0.25,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
+    "summary": "Suite à l'analyse des récentes actualités économiques concernant Deere & Company (DE), on observe une tendance mixte. D'une part, les investisseurs se montrent intéressés par les résultats financiers de l'entreprise, ce qui a généré des achats importants de ses actions par divers gestionnaires de portefeuille. D'autre part, malgré une hausse du prix de l'action et des perspectives positives évoquées par certains analystes, des ventes d'actions par certains dirigeants ont été enregistrées. Cela pourrait susciter des interrogations sur la confiance interne. En outre, des événements tels que les acquisitions d'actions par certaines entités et les recommandations d'analystes pourraient influencer le sentiment de marché autour de Deere & Company.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Deere (DE) Stock Upgraded to Buy with $750 Target - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYi1mN2pOaXUxQ05BU1BjTUJQOGF0S2hWeVFKNURhV29QTlpZLThtNHlrR1FwaDZ0YkoxMm4wdmpTOXNSTWpvRlZIOHY2b1RwMk9DeUpkTG1QM05PRHQ4U0g3RDg4cWo0aEpIQzc5XzFBdHU0Vk1ucWlWX2xUS3g1aHMxZTNyVkpNVlFEZkp3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Deere & Company (NYSE:DE) Stock Position Boosted by Foster Group Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkR5OXExcGNnWHo3ZUphaWE3Z2piUW1LWUlvUm5xTjdkOFFNS2FnREhrdUxnVEEwbV9DRUR5SjZjQ0V4N2ZTYTF1REpvZFFQQzNrY1hHUWs0T2NzY0s0Z3lXeEdfVjRQeUJxb3U4WU43N3NXdnBaYkdPN05QY2I1enNKUjFuRlo2djR5YXl2V0hMVlNZUy1qS1lsUXhOUVEzQkVGbUZkdkZEdzVydE16ZGd1cGhId1dvUnhNQ2M1MDk3dw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DE - Deere & Co Latest Stock News & Market Updates - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DMk9lci11MUt3bDBfaXgtUmhhdDNIeUJPeHlvZEE4bElWMUZJNHBWUmw5VlZCZDdkYjN3Z1p0bUhFcnVHSllaR0pmZw?oc=5",
+        "title": "DEERE & COMPANY (DE) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITDNveUZIeEc2cmstSzBBYnUzdS1JNE13OVA0aHFiX1NyQlZvTFc0d3c0TGNXdlk0TW5nS0d5LXNlZ0J4U1VNUHlMbk5PMjBTUmNCQ09yZkV2RWVQMDRkVF9VRGEwZURudVpjSlJ3WjAxU25E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Deere (DE) Stock Is Up Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QdmJadldGcHNaNFZET3VaREJfVmhIQm85Z01JMy1aR3E5N3VheGJsa0c5MWhQNWJRby16ckZ0U3E0bmRmNXFqWXVOVlMyVGRtN2dmek5vUUpPNGd1TmRKX0xiT1V6NWtyRUp5Z3JjRzlGajlxNHc?oc=5",
+        "title": "3 Reasons to Sell DE and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vakYweDBpQk5sclNEN0FyalpjUzRaUEJQUHJOcURwazdGeDZmLXZyV2tGdjRjX0ZWODFNelhISGZPUjNMb0ZXMXhyMEpMTHE0OG9YTWlIRmJ1Qml6dWxNVHppUFl4a3NMWURBemdmenBJb2VuZDR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ionQ CEO Niccolo de Masi sells $391,894 in common stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUgxZ2JVZU5Zd3RNOVExMWlGdUdVZGFsdWtrYlN0TlVad3lSdGRodlpFdVJJVDNvNmY0X2R4cWpEY1dxZ3IxUGsxdXpWRjNyWDU1d0loY1B1MzZKUE9IcEd3Z1BBNHpWSE5NYlpkM1JXR0VDUWV6Wk5CeHhUNGlGeURIN3pnejZKSTRWdFBVS2lMaU5wWnBzUDM2LW9LM2RLVXhrMjBPY0xQY3NXa2xsUWRheHY5aWkxZmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Interested In Deere & Company's (NYSE:DE) Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmNIeW1RV1I1dmp5T1RGUVllaTFOZlYweUp2WjFXc284OTIzcV8xSVdMWFZpbG5tUzdRczBwWlBXeTBkd3c4emRlNV9qTkpCcGRxV2NXTTBsOFk0N291cEEwTUw0TlMxTlNhX0VDOGx0VElkSmIxejlOR0V5T0RoNlM5dmpya0Y4Y29NTW54ck9rdXNfcmlEcmpLak92STJPcGdqcjh5ZUIyYzVhQnIwV3pEQmw3WTJrMHdv0gHAAUFVX3lxTFBfMjZTU21mYmE0Uks4U1hNcDRqUGh0ejlKa3pyQjdZTlQzRU5LQVMyNTgxMzZkOGhPSi12cnNEbFVpSGZtczNSWWl4OWM0d0hITlBONmpRZV9iUGdoTVA4RzhwbjJHV19iZUtKdDEySFFtUk9iRHQ2M2h1emM5VzdqWFkxaGxDb3htT3J4ZGV3Z0h6LWNZNXpDV05kangwMjB5dE5PYno0VHlVck5JdTdGZTl6amNaWklQZHJpTTh2SA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Decisive Dividend (CVE:DE) Stock Price Up 0.4% - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXZIMUd0QnhDVnBiZTNSVVRuU24xZjZCdTZxeFF6TFZxU0loZmRqb2xWY3ZnUERsN2dadDRGTFF1dDdMcEYta0Mxc2NQQXQ2MjJFZTRNeHZjSnN2X1pMYnNJNFh5cU1OY3NFRzI4enhUOXpVemZUUDJvREczcGxZMDlpUEZDTmhQaEZKZ1cyR0ljejJPOGRWcnhrSWFOYkdGSEk0Sw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Full Throttle On Deere – This Stock's A Beast (NYSE:DE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUZXWmxqRnJjaTZra1cyWkZBbTljZE93ckg4SVRuMEZqMkgxMWV4c2VqRHczZjd5U21vWkU5bEhyQ2pla3VSdkZNdGJLdWhacEtieG5PcmFHWXBibFBiYnJVSHB4VVk4N2ZRckhlb2tmMmdaQ3E5QnNTOEpHSll5MlBpMkxnZ19maU9pVg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,28 +596,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Full Throttle On Deere – This Stock's A Beast (NYSE:DE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUZXWmxqRnJjaTZra1cyWkZBbTljZE93ckg4SVRuMEZqMkgxMWV4c2VqRHczZjd5U21vWkU5bEhyQ2pla3VSdkZNdGJLdWhacEtieG5PcmFHWXBibFBiYnJVSHB4VVk4N2ZRckhlb2tmMmdaQ3E5QnNTOEpHSll5MlBpMkxnZ19maU9pVg?oc=5",
+        "title": "Was Jim Cramer Right About Deere & Company (DE)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54R3kzYVF1UmFrOU9udExoVnhmSDlVUHZpU25PQmVNWFp2RjdqTS1JOFEya1gwN041c3NTaXBVVHVGYzZlTnZYOTFWVTB4WFZvMGMwQi1ZajA2S1FlMVJYMGtlRUtZRzMybS1aRndLZVpXblVUMWdPSGlB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Deere Stock To $300? - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmZqdEM4OEJwQUZWa1B6eVVpNG5iUWpQbjJ3Y21JaVphSFlPZFpQNTladVFMVHZYZ2tlVURrOEVjN09MY0VydmhzUWhUM2VfRktjUFFVQU9CQlpPTXhCN1g0Z3FrV2d5MFFlWkN3d0Nmck52RllPTUpPQUlIZ0ZqczV5WQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Deere (DE) Upgraded to Buy: A Promising Future in Agriculture Te - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2haQ1ZqMW1qVHVHeXlqUEZZXzBOQnctR3JMTjZDa3RPdXF0ZzVzekJmcHhFQnlVRWFuRWxhNmVOaVlzWkN0Y2JZanB0S0x4R1pKVTIxdFNBNW9ha3prV3p2RkFVQ1RCZmdIRTZ6SDkzLWxRdFJPQ0tFLVNURFE5YXBWYkYzUjJFU3VvQVpoTXUzZFZKMzAzaDNlU0lDZEM0WjBQb0lPMmF0Tk9WbXFfYW1tbEtTUUx0RkNfU0NnMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "John Deere Breaks Volunteer Records: $61.7M Donated, 340K Hours Served - Earns Elite Corporate Citizenship Award - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFo4eFpHdzFiQS1pRkpnVk5mbXhlSldKSTlnN3I2azJzejVfdXlaVGM2N2M2VWdTaGJIbzRkdjJha0czQVZjUnhDMHNXVndJNEZzU19UY2RkRE9HUks4MHlDckkzQ2hfMFQyME1EOTVDbUV1Y2ZDZE42b2ViMF9mQkFVeTIzYVRrRldaQk8wU05uVm1ackJZaHBneHFkSDcwOVNtS3VWY0l3ODIyUlB2Q0pkOWFtX3YyTUEyNWFR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Investors Heavily Search Deere & Company (DE): Here is What You Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkt6VTZPU0ZDanhkbXZFZnMxWXZsTlRpanpBSF93YmR0elpmYWZKSE5RdWhCLXZ4Qk1qZWo0dkdZS25ZaDZYS0lKclEyemU0Sl9LeW1HVFRlWjAta295M0xXUEFWbGlsMGp3ZGcxSTRxamhILVZwelpxcGptcEsxN2lYQ2ZYcGVETGpLcA?oc=5",
+        "title": "Harbor Capital Advisors Inc. Has $1.75 Million Stock Position in Deere & Company (NYSE:DE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXkzME1FYzBpaG52QWRMYW53eHlTMXluOHJ6aU9VY2ZwMDlNdlYyTDlFdW1YZlA5b19qWEk4bDZFdXVmOTByV3c0RmF2dGxSX0VocTlybFZJOTZKWkdOdVp5dzN6ZHpzYldvekZKYVlTcjlQTks0QXFISnJoczRCWFAxT2toYXdrT3psUDVaeEdhUHhSdmZDYk1aUUpCR0V4eW40Vmc4YVlIOGU5MGtXVEpMQ3BpQldiV05leC0wam9oYWszQU5Pcnl1b3NLcVh4dTE3QmZaV2tsNkU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,46 +611,51 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Apella Capital LLC Purchases 3,349 Shares of Deere & Company (NYSE:DE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXZqMDc1b1d0N2E3NXE1dnNKVTdPV1VFYXR1UmdZRXByaTE3SnBnZnNoT1dBUnJXbWJ4ZVVtX2FYMW9xYW8zRW9UcXV3dkVkOHEtcU1VYzRJRFhqVk5FWDlTNUVwR1BhbTk0YzVrZG81bFV1OV9WcmlzME1pUndrcy1nZEU1cVdIck9NaVlYTlRDQ3NrYlplM2tsUGgwZ2xfbHE0YmJvcVpGZ3JMMm1hbDJCSEZYYmJ6UUdWb1hDWHhobzg?oc=5",
+        "title": "Barclays upgrades Aeroports de Paris stock on improved risk profile - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWNNX3lRRndqSXVsU3VqVDBmS2pEX2U2RGQ2M0JKeVR3Q0RVWWVBZ1l2bTg5NHY1WVZhSTlNRzhYcmtvdzVXd2IxODlvSjg4dFJHSzB3cjJNSmRBRF9jeWx2LTNvTUlFZDRsNHptUW9KYmhBTGxodXhLcjA5b3ZNRHo0NmNDblg5WFF2QzdEVTJkdWdYeGEwV2VLUERTaHpBYlczUUxZRjlmZVZpYWdiLUlwNlFWTGdVM1NxVmlwOVpTYWF4YUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fortitude Family Office LLC Has $245,000 Stock Holdings in Deere & Company (NYSE:DE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWtzaWRSTlV2dmxHOTFKWlZKRjUxaWRUOVBlMU9GcnVRNExzSXZPNTZYRzhKaWFYNE1ZSXdlbzZwVDNuRGxFMVlEdnhILWFUeGZuU0p6ZE1xUFRfekpnSG5ZX3BsRW1zTG4xMXpNUGVYUENLRDdhVkstakRWT0xVSjRQd2VWdUptcGh1RkpMdG9yaUdDenU0TDJPaEh3ODdyQ2UycXdOSnhXNTJpa0duTnBXd1o1aWY2NkppeDBvUHFmUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "John Deere Unveils 25-Year Brazil Success Story and Future Agricultural Expansion Plans at Investor Day - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0RzaWVmMkdEWjQxT3FrRldJZGVSYkx5ZkFNbGU1ZGpyVHRveVNpSHdGWDdueVFvMzhhT21SVjNxVVh1NURSbnpCX3dTNXMzZWdWcGh4THlUT1R1c3hQbklqQlhYUVRhM25OQUtxTXlNWVA2SjRhWlRpNm5lMlJsdkRXZVZ0bFZiUVNhQVBUT3hHcFg5RmJacFJNbFYzZw?oc=5",
+        "title": "Vest Financial LLC Grows Position in Deere & Company (NYSE:DE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXZfSHBIRkp1ejFwWDlfanV5S21mRzBVN0o0SXNsZnFKYnhpaDNqYnJOU1NlaWlzU21uVWVIdG1YUElTMTVUWWlYMG1JZ2tzcW9FYmdWTktoRXdWSS1lQ3dSR3o4ckpEVllrNzFyN1NIWXZjNXh5bGJFeldsVkw1OE5KYU9NTUlLdExva1dtekVQc2NfUDZpbHdETk1WYVptbEUzRnJ4TzM4eUlVTEhyQ0F0c0lsekFsVUJUQlFqM2x4QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Deere & Company (NYSE:DE) Shares Purchased by CX Institutional - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaS1tOW1pVGlocGtnNUFsbUQ3VEQzdlRVWTZWUGpxM2g2YldFQ0lkRVUwZ2FvSnROWUNBV1FBQzZxcWxUVlExZk5EUFpCelhTOUV1X2xPamhtTDFuX0NkdlZiRlRVdUkzQnZKbGxwT0JRSE9CSnJ3ejdoQUk5alBkNEEwNk1Yc25vR2RuUU8tTzJKdWQ5aEctN1NOZzJ4Q0poLTZxWVFvWTZoT2lBMnlWT2VZaU9xdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Deere Brazil Investor Day to be Broadcast on Website | DE Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY2Z2OVlaNWF4TjBqbFU5SkRDeHJTV0YzMmFiSktZbGN3LUp5SWY1akVaWDQtNl9ST09NS3dyMjVGZExNUWoxTHRQeWpCeGZkUHFzclVISFFrdmdhN18xWWlvcmlNN2ppUjdKbWs3WTVwcmt1Mm53U2sxS0VWaHdGNGRleHZhQWFuUE95bGdGbDZFSW5Wbi1xYXF0YjNkb3Rnc19BcVhuQ292YXNKLUQ0T2daVWtpZFRhT2dWRnl0Ti02ZVVHLVNOcUlhRlQ1SVBWdGJscVFNQTNCZTZYRUpXTzZOZmZnSW1CZWhnM3Y0Yw?oc=5",
+        "title": "Deere & Company (NYSE:DE) Shares Sold by Capital Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2UwY1hXb2VmaDRUOG9ZZllTcXdSSWE0LVpUM1o0OUNzS0oyV2djRUtfclE0b2pjS2MwSm02VS1qOUhsWWZhSEE3cDlpOF9JeGFGMzFsc1o3bHhTbHlCbVllbDRkOUdzMS11VmU5RE9URENQQkhRU3pMc2c1bFlnM19MOEU4SmtnalU4SzUyZkFrd0REbGJDc0VHVExpaW5pWjJWdGt1M0Z3d2lkcC1VTHN0dktLamdrY2hQYVlNQUpOQTN1Njg3QWgtTXY1RVdV?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Earnings Preview: What to Expect From Deere & Company’s Report - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGdiUHQ1NnBqZUJvMk1Tam44YXZabGdKSlgxWXZrSUl1M21aclN2b1NBSTBYV1JNUEwtVF9PSUpUb0E5QjZKc3MxRGJOX0N0MnVuNFpTQndneTNkbmVlSXh4SzFVYTFnTFlGYlZ0UkpXX29fSTRNcDdXX1l2eXEza2tBX0tBVlJZS1E?oc=5",
+        "title": "Deere & Company (NYSE:DE) Shares Purchased by Simplicity Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFY4aFozVEN4RGJteGNBcjBKZ3hDcXJTMW51aDZfaHl2WDR4WkFFR1VBejVhR3VwTjI2MFhVbGRMVHdmMzZrcmVWeFgwalBROVNBWVVzXzE4N0xJNXpUempIbXBtZE52dFdnVXFCc2xsS2ZvbTlvdUJ0VS1uVmRuZTFSSTVkSjB1aDFtSmFTRjk4aGZrR0dVZ004N3J4dldfSEExalJha3AwZ3oyQUFTOTdHSlJIM2JBR1NsQ1Itbmw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "TrueWealth Advisors LLC Purchases Shares of 826 Deere & Company (NYSE:DE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnRtV1kzd2dXd3ZGb3BNdk5vQzB4dVJMWDdMUlNsLTdqZXVUOEdhbk9UcE1NM3ZfSzdiVFF0ck5vSHlfdG5uaXNFNHpLYm55VGFTSzJQQUZUZ0JTaGdtOUFxM0lFRFdZeDJvd1NXUzUyNDdPR19MOWdoM205aEx6OUp4QVVLOE9TZVNkLURTdUh5cDY3Z0swWnVuTXkxTWRFZGtNeEVxWEFlTENaZDNhMkMtTmRTejVpOV9CR2diN29KOHlFU09DTg?oc=5",
+        "title": "Avanza Fonder AB Reduces Stock Holdings in Deere & Company (NYSE:DE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDVDUDQyN2hTY3N4OUNKRTJHeXdpY2Qwd2lfMEtOaUJxV0ZEc3FSOGRoRHhIRkVvOHEzdE55MjNSU1RKSUZ3TjBxZFF3YWMyMlAyT0hQbjRMOE1WVTA3eHpxYUtLdmthRlUyZy1EMWtqWmZnaHZwU2RXTGNsOU1EOHBueXBmYWYyYWRWeGJrTFVjOTBYQ08ya0d4Xzh2YVVpckM4QlAyTGJBc0FNSDc3bktzRGp4bVBxYWFPd2JENm5WZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Deere & Company (NYSE:DE) Holdings Raised by Wedge Capital Management L L P NC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUNfYU56TUZVZHpHdUxmTmFFUHpnWVo2bk5QUmRTYnJEWjJ0Ql9tRVExdmlqdzJYNmc5UkhicHk1aEZ6dm1pQUZDYU1LcGtvd3lqampmRy01bUNjLUFFSGFlalNYeWRWTWx4TDdtdVBITTFESDl5d1NHVDZOZ3gwSzJxbXZwMElTTGVPU1VSUXZQTF8tQVd5NUZCMmdKakxzMTJnbk42V3BCUlZyLVlEazFQQ2Rhak9rbUMzVE9UdTZrV3h1c0lwQXN1cnBGU2pyRmhRYg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Deere Sets Date for Q2 Earnings: Agricultural Giant to Reveal Latest Financial Performance - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTRqWEhSYmRaem1IU2JnWTRCbFZTSDV6Y0U0VDcxSjY5TVFQQkFGOEppNVRpSXg0ZnF5aGpNb1ByNUZJZG1GaWk1WTdtSkw1OHBhb205cEFON0ZwVmdPdjNBY1hnUm5ONWlublhiYndXbjA5M1M4aVdjZS15RFhMbVVZQ2lCZ2dWaDhyNjRpYTVWUnozaUZyZWhfRFQxajd3Y1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Deere & Company (NYSE:DE) Shares Sold by Nixon Peabody Trust Co. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVoyejhiQkN3N1hFOU9CREw4c0oyRVhrSWdtTVd3WlVHVk1MT2lTdTZzLW9EaUNfcFBqR3d4QmRnMDlrUnRGbVJoYzh2N3JHYUMxODJjNC1fTThiYWJxeWZGWUlKUFhmMTUwdUhyYmNPSHBVSmI0akxQVGhjNHBadlo4M2V2MnlidVRCemRJaXR3WUEyMWk3cUxrRjRqSzV5Si04WWJnYVlMSmsxT2piMU5SWnpGM3YzVk90bjV2U1VxbGVoQVhNSHBjTG1Vdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Deere Sets $1.62 Quarterly Dividend Payment: Key Dates for Stockholders Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2RXYktfQU9NcWl3VFFTbi1oTnZ5RDdZNDdKM1RVb2dTblNIUWE5TlNldGU2Z210YWJheTBHbWF2NHZCNThnUjNlaG5tS2hTcXdBbzBGeERiMHJsZ3QtcW5RM3RTeG5ERTVvNnVPQ1MzRVg1d3NNc3UzRVRJN0pLekxRVWJ0MWxwdmpSTWp2Zw?oc=5",
+        "title": "Deere & Company (NYSE:DE) Shares Acquired by Park Avenue Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWpyR3Iyd0RlZHEwcDE4dXF5WkYtM2ZFdU13bUhNZzhiRW1iVW5SeW83enp1NHlPZFFMZ0RjdGo1ZWJId2N4d3BUS044NlpWZlpuLXhoUlh5eS1lakE5WjVZdDFaQ3JWLXRUN09XbGp1Wjd1c2ZlZ002X3RSNFpGZE80VzA0VmZidEp5WVo2d21zazh6WWdMT1lBTU12TXNObm50RzlTVEc2bTAzQzFyc0E3SkxXWDFGMHZtRVBwZXhmX2hVZ3c?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

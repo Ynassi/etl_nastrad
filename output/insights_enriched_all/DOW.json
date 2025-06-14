@@ -2,16 +2,16 @@
   "ticker": "DOW",
   "name": "Dow Inc.",
   "sector": "Materials",
-  "market_cap": 20085485568.0,
+  "market_cap": 21110433792.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 71.0375,
-    "PB": 1.1964211,
-    "EV_Revenue": 0.865,
+    "PE": 74.6625,
+    "PB": 1.2574737,
+    "EV_Revenue": 0.898,
     "ROE": 0.020599999,
     "ProfitMargin": 0.0068699997,
     "GrossMargin": 0.09559,
-    "DividendYield": 9.94,
+    "DividendYield": 9.29,
     "DebtEquity": 103.62,
     "CurrentRatio": 1.542,
     "QuickRatio": 0.603,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.013886933875495246,
     "ROA": 0.01827,
     "PEG": null,
-    "EV_EBITDA": 8.158,
+    "EV_EBITDA": 8.464,
     "BuybackYield": null,
-    "PriceToFCF": -33.92221405405405
+    "PriceToFCF": -35.70130681081081
   },
   "technical_indicators": {
-    "RSI_14": 48.49880637664537,
-    "Momentum_10": 1.5803977467404755,
-    "MACD": -0.393783848071358,
-    "BB_Percent": 0.4633075900701482,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 56.09717371584805,
+    "Momentum_10": 7.750539424188357,
+    "MACD": 0.2276559127331978,
+    "BB_Percent": 0.7875216117653763,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.925768190187305,
+    "ValueScore": 0.8864195275444944,
     "QualityScore": 0.3072728398414777,
-    "SignalScore": 0.5826230340357266
+    "SignalScore": 0.5125314763196722
   },
-  "volatility": 0.0286469023300655,
+  "volatility": 0.0290460287427438,
   "beta": 0.878,
-  "return_6m": -0.2935600039756574,
+  "return_6m": -0.236976984939786,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 18,
-    "target_mean_price": 36.06222
+    "target_mean_price": 36.11778
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 42.73
-      },
-      {
-        "date": "2024-12-10",
-        "price": 42.18
-      },
-      {
-        "date": "2024-12-11",
-        "price": 41.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 41.28
-      },
-      {
-        "date": "2024-12-13",
-        "price": 40.86
-      },
       {
         "date": "2024-12-16",
         "price": 40.11
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 28.55
+      },
+      {
+        "date": "2025-06-09",
+        "price": 29.39
+      },
+      {
+        "date": "2025-06-10",
+        "price": 30.7
+      },
+      {
+        "date": "2025-06-11",
+        "price": 30.68
+      },
+      {
+        "date": "2025-06-12",
+        "price": 30.14
+      },
+      {
+        "date": "2025-06-13",
+        "price": 29.9
       }
     ],
     "current_price_data": {
-      "price": 28.55,
-      "change": 0.36,
-      "percent_change": 1.28
+      "price": 29.9,
+      "change": -0.24,
+      "percent_change": -0.8
     }
   },
   "news_sentiment": {
-    "summary": "La semaine a été marquée par une forte dynamique sur les marchés, stimulée par un solide rapport sur l'emploi aux États-Unis et des perspectives de nouvelles discussions commerciales entre les États-Unis et la Chine. Le Dow Jones et le S&P 500 ont franchi des niveaux clés, atteignant respectivement les 6 000 points et effaçant les pertes de l'année 2025. Tesla a rebondi après des tensions entre Trump et Musk, tandis que certaines actions ont profité de dividendes solides et de performances historiques malgré des révisions à la baisse des prévisions. Ces éléments ont contribué à un regain de confiance sur les marchés, soutenu par des signaux positifs et des perspectives encourageantes pour les investisseurs.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
+    "summary": "L'actualité récente est marquée par une escalade des tensions entre Israël et l'Iran, entraînant une forte volatilité sur les marchés. Les indices boursiers ont chuté, le Dow Jones perdant jusqu'à 800 points, tandis que le prix du pétrole a bondi de 7%. Les actions de Nvidia et Tesla ont plongé, tandis que Lockheed Martin a enregistré une hausse significative. Les investisseurs sont également attentifs aux prochains mouvements géopolitiques et à l'impact sur le marché de l'énergie.",
+    "sentiment_score": -0.8,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.2,
+    "negative_ratio": 0.8,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Stock Market Today: Dow Jones Soars As Trump Announces China Trade Talk; Microsoft Takes Nvidia Crown - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUFRNEl6M2tlZThBanY5ZU5zODVZQmJLeW9yUEZzWFRCR3hDWDlCcnRLR01Pc29nWm0tOTc5QmdMYVRLblNiTUVEUjU2QnVjUmIxUE1lZzhrR2JwNllqUmdXRTRSeEtleV85N2JMVjVrRmpNcmp3SFZrUzliSXV0dktQY0JzbXktU21oSWlBUWFxd2xmQ2FnaUQtcDdSZEZwcEZZSVR3eDZXUTlfNjhzWjh5d0tpVXQtV3dubg?oc=5",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq dive, oil surges as Israel and Iran trade strikes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0pkYkxZM3hTdXE5OHUxUmRDTDJHQ0tYY3dRU3o5WEZJdExJZ3A0cS1GTjFSX2tCenVvdWdvVEhnM1ltbGU1ZE5hNEdENzdzQ28zQlJ4TjA5aG9haGc1dExTSFkzVUw1VUVhSjJoaC05NmhqVFVZaXNxZmFmd2hadmhFQlhmblRxOHgxc3loNzdvcDY2Z1JjTVhGaFVFTVhVVlBZS1haWHBUSno4azdVSXJnVnB6bXBIQmlBZzFQN0hEekE0SlYzU0I0emxEOFFFNHc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Dow Jones Futures Rise; Tesla Bounces On Musk-Trump Truce Hopes; Jobs Report Due - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGQxVWhSUG1LRkRGY0FrcUV2cmRNUG1Mb1dyVGctY2xWRDRjejV1NUxmU3pZVV9ndGtNY0tuaGdHWGI5Y0owMlN0cFdweUY2Q1BzSnBsWWlNN2YwV2tvV1VNTjRzMmlGQ0dKb3BJaDBmUFRSa0NmTjVpWF93TlhNeGVTVFp6eE9QOFd3YmlGTEZlTThhZWJqdUJlUHZfM1NqNjN1NWZFOWtMa3RPZ1prZTNucU1nYk94OUFHcUxJWTBBTWdRRlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Market Jumps On Jobs Report, New China Talks; CPI Inflation Data, GameStop Earnings Due - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkQ4c3FkWi16aTZyUGR2YmxtbG9acTNHRjgybEFtZDQ1YXI0SGk5a0hFTTdaT2NTT2NpYTlwOUxERmQ4SVdTMGxudWF5SngyZ3VBOUNnSGtFM2RWNTFNMWZQWTRIYW1ZOFlFakNmbGMtcndJUXBFWFNfelZrcW5GU0NFWXNhRDgwRDlXdy1lQ3diWlB6a2hKTk52NklqRDlUV0xPNUVNd1BnYTcwZ1drcDQycW0yN1BDU2NHMXNVN2lrWjU1U2M2aVc2aEFCcTJCenF3akRVRlk0VndEbTY2SzZFeTRPSXZzd0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dow Jones Today: S&P 500 Hits 6,000 Points for First Time Since February as Stocks Surge After Jobs Report; Tesla Bounces Back From Sell-Off - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNTHY1X0VUSW1iYWhMem5RZ2xMZ2psOUlFemFxY0hucEhsUE9sOXM5OFBLTm5BeG9yZFF0Z29BcWFZZ25SczMxMUxSUUt6eC1GLVRpOTljRjBFSXgzZHVBcTkzOHB1cnRYdlBicW1KTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Dow rises more than 400 points on solid jobs report, S&P 500 touches 6,000: Live updates - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85dmZlenBaZC12N095WFdVakE0enVjS01FRFFhdnhIZ2k5SmU2OTRPN04zbWxCa1hEN3czU18wOVRVRWdyNG41ME9aSE16UWJwTlBPbGc2cEpubU9PTHhrUWFrSlZ1R25QeU80WW1kVXVwamdQZGxz0gF8QVVfeXFMT3RTN1lHY0lscjdOY1hEbkJQSWJjOG1NYVFwSEJvQUJ6UE9QR3RGVng4bWhRZ2piZ0kybnJDU0tJRjZFOThtTDV2TWxFQ3E5VUJtTnlOakExOVBxRUhNZE5xeGllQzBBMFRTeWFYTUMxT0NHd3hBVHU3SUJ3eA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Market News From June 6, 2025: Dow Rises After May Jobs Report - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpOHp6ZDlrQ0hjSjloQVdDeXdLSTZZNnM5Ml82NnQxVnlKTzBuM0d1bTJPakdVU2hDZ21fMzAzemRHQkFrT0o4QmZlaTcwbFA3cEFMWnNIbjdaMEJ5a0hPcFI1azktSjJkQzdXM3MxUXg5SmFhRVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Market Today: Dow, S&P 500 Rise After Strong Jobs Report; Tesla Stock in Focus — Live Updates - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOWUt0ZFd0QVNlT2JmcEROR3R2RWJiSlpiR2w3YXpzRzhlYnA5Rnk4ckllOWdKczA1OFNqaG9UaDFTbzNMckZFNXhHTVU4M09WdHdzVnBlb0FZMXNvR2ptNEI1RU1rNzJyTWhGRm1pSlBObHR2Y2huMi12bVcxb0xpd3gydFkzR3lleHBkWXNwQXZpY215NFQzMmlxYVk2dmtodEVXakFNOC1iMURlcHo4WkhUSUxadFVadFVHNG0xXzN3LTloVmpTNTJZQk1Yc3JaX28wYk05c1p4d2lta1NSb3RHVEtSVk5lamg3QjlKOFhiUGtxUzgxSWc3YkVTOEYzZEpua1B6ZGY0c2VoUjlQYnhvbGtpTEtGcGt2aE9UcF9ndEwtcURENHptandKRGQxUmROYUZHaUxIdGFyYjBNWE1TNDUyVW1kYjNhTVAtMktVLV9BZWV5b1pPbi1nVThZMVRMOTRCZzVkcE14V25rZFFQajNzSHpMdFU2bUtnWm1jM21YRjhaUmhSNVRBVzJVc044?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks Rise as Jobs Surprise Spurs Treasury Losses: Markets Wrap - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFVNN3ZGZy1YZUFlb1BxSDJkNVJxYlZxOUtvdzhOZmFGeFdHVVFiTFV5QnpGR2dkc0lXaFdjTHdRVHA3RUxoMkEyd19UbFFCZmN1bkFFY2ItWVVpZUQ4RlB4dnd4VjEwYi1tSVBkaEhXT25XU3o4d0FmOTc1Vnk1OUtrdkc0TlNXR0hyN1VubFhiUmIz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks rise as Trump says US-China trade meeting will take place on Monday - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9odlVoQmx4UzhXR3NUVE4yQjlobkdLVmtrb2daMUNUckxmNll5ZENUQlcxRi1SQ19EQWFjN19zaFM4TVFnT2xfWlhnb0FWMU40NVRoVFo4RU9yRTB0NDJHTGxybmdkRFXSAWxBVV95cUxOVVV2UUFnZDdiZEtQcWRpWXVwM0M3cEp1b1ZDRk9uXzZMVVZvQkd4LTNMaEFhVHdSUUJ1azVWbmRtckN1NUV3MXFmNS10SkR4RE9XOHlKNkw1X2VpbUVIZm5DU2RWajctbE16ZlI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Rock-Solid Dow Jones Dividend Stocks to Double Up on in June - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNm9ncnZxbF9wejJmXzhNMkRXWEpoNlQwdzlYaVRSREVBWmI4eXBBNVJUemdpejlnOFR5dkhycVJoa3dQamt5Tm1NdlkwdEEzNzd1VnZuczgtWVMzUVppVlhtM21FSkc5N2ZBdm5NYTRXU1k2cC1zQnhxRnJWVkdxMXlDSTRfN0wzWjNMcmxn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stock Market on June 6, 2025: S&P 500 reclaims 6,000; Dow erases 2025 loss after U.S. jobs report; tech-heavy Nasdaq climbs sharply as stocks book weekly gains - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTY4QmVSME9pNko0LXJ3ckp4d1g4aTAzZ1BkaHdJRmIwT2QwLThTUWlsZ2tIVjh1dTVPQUdpSEx2WU1xenBpMWtyNVFGMmNFdkJ0cUh2QzUwNWVlejdYaEFwcC13T0UxdWN0M3hOOXNpWXNIaXVjTkVHOVFZZHJUcmtGOWFDTkZSZjNNTUNCOG5HMlZ5NldzbFJMdmFXNm9XLTZsUmhoajRhUmI0WEVkZTBrQjhvNXNZTnlhX2htNA?oc=5",
+        "title": "US stock market ends lower as Israel-Iran conflict escalates; Dow Jones, Nasdaq cracks over 1%; defence stocks rally - Mint",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVTM3cFdUR0tNRTZjaWRFV0hqTk1YcjJWQXM5eEFYVjhkdzZQaUo2bGp5b0trOFd5TjhFdW92S1FXN2Exa2ZNUWNqVUVKVVBhYW9mNXFPVzFtbFVNSVVfQ3VLMEpWdXhwTTE3UnFPMXNmTXpMYnpkNGFnRzRWVHliZXd3dTBTdnB2dDVKMjlHU2FSbDJ4QXBqbzhYSWgwNXg3eEllQ053cnhNRkhVUkVBazNiX1NEMEtmN21aeTZfdGMySUp2OTJORDFPYUxDQ0Q5cG05a3pEcnpYc29CcFNUNUZNX1hWODg4MVdTS0pIWWpiZ1JnLTJTWFdqYUMxeVl0Y0RnbnFxX1M1Z2R2dWtj0gGUAkFVX3lxTFBZRVpPT2t2VEl5bmFub2pnUHV6MVRtQTBRbXNVcC1fS1dpRU92ZjJlNUN0TEp5bkVLRE9zdWU1U2lLSm9MdmlKTG9RM0o0Vkxvby1nNWJQMnBvYjJUVXBneVhGZDcxbHpyTHBTb0xsMU02aG82ZVFsRHNWUUY1UVNkS29OX0lhMGxuWFFEclZ6TWR4bmlBSEZsN0NzT25kaGhaaHhNd1JpOXZQeHN6TVU2ZzlCajZmNzAwTjVoRTBZRUxobExwUnVWWUxXaU80ekx5QjJLNlg2c0poeUl6OEZvQlVZRVo0VUhramhyLThIYThHYlpPOHVidGhyaGRDZHVnVVNyU0RXalhDMjVDLVdhMGl4Yg?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Stock market today: S&P 500 hits 6,000 as Tesla rebounds amid Trump-Musk feud cooldown - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHZScVYzd1BNX1NHb01iY2pQTGRCNjIwZVdMbmtuMjlyNGY5cFF0bHF2Y1ZGRjRsbnhRV0NHcEJEbFphcmdyZjdZdy1zY0FFWktQbFlzY1FYVzZDT1VkamxBOFdPNnlwbS1OWXRlLTk0MWtBSWRUdTMzOWlBamY4Mi1JVzFmRUVGQnN5RmdIYjJtaWJXQy1IYnN3ZWI4c3NRMkZGdE9lUGJqTlpqM1AtZjdFMGZMVjZsVkhyekM5ZERTR3RGaldKWlFqczNCaWc?oc=5",
+        "title": "Stocks Slip, Oil Rallies as Traders Weigh Fallout: Markets Wrap - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFFoY0J4eFV4c0dMbnBXVGFWYlIxeThTY1p3UHFIcnVxcV9OTVBnVmIzbFpzV1NVa3RPdEVOQnE2bU9CMy1zWjRZbmgxNjlENEI4MUhBLXBubWx0RWR2S1djQkhZWS1JUk9UUUZVU1ZDd0hVdHlsUHVJaWNBSFpzd3dWcEs2VXNPdURrQjZBNGFSMmVl?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Dow Jones: Gains 500 Points, S&P500 Hits 6,000 as Fed Pauses After Jobs Forecast - FXEmpire",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2xHdXlNTDgxWHgtZFA5Vi1fREFzTW11SUtDY3JzalE3dTJER2QwSjM0ZzRvQ1otSmlMaHhfYWdwTjBjdDA5Wlg3bTg5aGJySnp5UktkVGtQaG5mb1liLVo3ZXRRUkcxMktjQV9ZUTZfaVFrMjJhM3Z0eW1KbFhGTDFydUpmc3FXZ0xKcHNJTWJ2MlBVUEVXWkhtMFBNcGt6WTg3MzNOT3AxTUg0eEVVdGQ0LWNNbFVZQUZSS0J5V1d4ZGdVTlE?oc=5",
+        "title": "US stock market crashes as Israel strikes Iran: Dow sinks 500 points, S&P 500 and Nasdaq tumble, oil soars, Nvidia and Tesla plunge, Lockheed Martin rallies - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOdWRXWU50eFUyMEFxWGxwRnRpUGdYZmlKVHl1djFENmptMTdQRWVlcFB4OFY3YWZnRlM5SDhQZUJEbl9ZYWlwZkhoUms4TTI2N19KY3BSb3NlRnZCdGMzRDNBSkwzSXkyaW5SZFZ1UjFBMzcwUzdJdXZjWWRVM3NuR1lHc3BKV1ZLYm1KY0hhdmMtX0l5M1NWZTY5YWUxQWV4RHRGeGt5NC1tVmQ3S2VfZ05hY3dxdXR2ekRIOXd1SEZNdGhEWThZZWtOSmNDTVhsSGZqZ1lCMTlkOFdIc0lTSzZNOWxFdjNxS2tLT21sN0oyeml2YUUzMXhybHJvTl9xeUlaaUJXZ0gzRi1EM0ZmaTZqdTFiR0l1ekJrR3B6cnpZazhiZFdNZk5FeFEzQXZ6WFFBdUZBOWtueC1uZWtYN09vZWFjSThnR3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Oil prices leap 7% and Dow drops 800 points on worries about what will happen to the crude market - The Press Democrat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNm11ampuZlUzU3F5TWJrSW5GRkU4ZGpnS1BEMFJueHdFMTFKUmp4WTl0ZmZXbG9tWnlqNDY1WS1RckFRM01NT2w2TEhPXzVNQmdjNWhVYllNeXB6OTg3T2JtWHNNeFA4OUR5ZW9WTno1TXB0ZlVQR2JwX25sT2VOeE5OQTk2NEFXYzB3eGc2dThpOVpIUVIzbUJUMzZIS2E4RURtRnE3Z0Vid1UzX002Zzd6VTRRcmdQVW83ZUNINA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market Dives, Dow Jones Lags, As Iran Attacks Israel; Fed Meeting, Powell Loom - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczF0SzFiNG9jUHVhVnEwVDV6VVNWdU9paWYxZW5yaTJYUUs5SXpDVUZyc0Y3aHVDbm1UbWJ3WWt0ZU96UXZGdGEybXBvTnBjTDVmNEtSbXoyRldycjBRYktacnNzMG1lSjRXSTlBYlhBQUNQMFJZQl9JbFFwUndGZ3RyR0lTSzlON1FuOGh0Ti0wc1RDWnJGQzhwMS0zRlZBT21CWVMtTGRRV2Nhc3dGZ2xzel81Mm5aY3pyM2hyMVhIYUhQdTZlV2JMS3RuX2JSRmRybklkT3BoVmxUdUZqNDlEM083Skp4akpHVWd1TQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dow Jones Futures: Israel-Iran Attacks Hit Market; The Next AI Winners After Nvidia, Broadcom? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVk9fZjEwaFFwWEN1S0c2TE5reUVvVVhsNEtpaGdNVTZ3bnhtUU1nZmtNNGFiMnNXTjVXM0M0NWJZQk5qdldMZ200bGEtc1djOVMzOXdWUmtFMll5S18yOU5fYkxZMVZZT2ZCNU5Ic3prQ1Q5dllIM1IwOWMyRGdKbVRHTnlIUXR3b1ZFcmk4WHMySTd6VkJvYm5GM3dTTVQ0ZDdCS0p4dTEtbllkOWZjSWhIbnVCbDlSN1RkNG0ycFk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.05% - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlFZUi01ZjdCZTBhcmRJdXFibFVMM0Vsd3RhdXlBRmlOQUZ0QllIUTNHVUxPeWtyOWE3c2QtUEI0OFcySTB5c1VxTGljeXNuaXBNR1lvcU9uemhUaWNzSWtpekgwaFpzXzhRMnN1LVptdlcwSFM1dFZ5N2dNbU4wdEJLTU56eWhCMTFxNm5GSlFqaEowdUVLQWFKVDhMZG9lVExoa21kUWI2SWYtZTFVN0l6dkJ3cm5TaGFLaVZkSU5QS0lIYWc?oc=5",
-        "label": "POSITIVE"
+        "title": "Stocks Slide and Crude Oil Spikes - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObHJNWXBpdzhzVlBrU01VcXZ0SXc5cGtLQ3p5Vms3Ykd0X0NVQ1h5OTE5cWhhLVVnbV95aU0yeXVTczFBcFUwSUQxZEtDMWJNQXhsWFlzanEtSUc0dXd4U2VTY3NRaFBTNDdUa19oR3RoM2pSNHEtbUF2bU1TT25kWXJFODBXcU5zajNHZWRCWXBScG5zODdiS2xmNmt6V2RGQ2NtUEFTTGFJOHFpX1dXZnNQNjFPNExiYmhuTmdPNmY5OF9oN1hQY3lRWUE3dzkxbXJPZTJVQVppMFk?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "US Stock Market Updates, June 6: S&P 500 closes at 6,000, Dow jumps 400 points; Tesla rallies on Trump-Musk de - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1RNVkM1M1YyQmdVSjdaeTg3VEVEWEM2SE5BWExOdkoxSnZEa0l6SnVySjM5Y1VHb0dwcE90V0R3c1pERktKNzZMc3BpNjY4bTh3X2lIeTFnS2ZwT01WWUlhVVl2R1BsUjhYd2d3Y1RvWnYzY2hnUVVzVUhnSEhycWl4ZGV5YURtVEpEcEM4TTZXcmhxMVdmN0hSSnhNSlYyQmY0MEpUQXBpZjJ6cFdLTGZXcGg2d0dVN1lfRmM5djlQOEZtazJ1MXJZamJoamJ4VE9wX3c5SW12bDhORUx2STF0LWNhekhGRkI2VNIB8gFBVV95cUxQWjk1R3hmNkFJWmw4VVB4aTZnWDhIa1RSNWdPbkVIcmV2ZHFQVVp6ZGZzMVdSSU5wV0dsalNPeWNXV3dtM19sb2tKTkZlY1FpTTdCWXRaTFE0SDFkcy13MWU3MDdDcXh4TFg4anZGTDlacC04TkxXbWh0ZWVmZlY0U0owVlA1YXhmaFhBdGNqejZkazQ1dlM5dTJJdm52U2xCdHUtYlJjajA5eWJUNkYydWJtMUlUREwtZ3JBT1cxZkZodktMbVZrYlFNVGd4WW9yeWp0c2hmOV9hOFlOMzJDWW1NUU1FcTdPdVo5OGIxbWhIdw?oc=5",
+        "title": "How major US stock indexes fared Firday, 6/13/2025 - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWdwQVFiOGUtMC1OMGZBNHF1UTgzVWRnVG9PRVNMS01QVEFwYkphXzhDbWQyM3pZYi1mZXQwWlhRbTJMTGdqNFZLekpkWFYydXdWNF9Ccnk4YmN1bi15N0lNdlNiQVJpYTVkclRiUERsNE5yR3l0WEdpS0d5ZWVIRXZXbmdVNmRaajc4NXV4SVBZeHdCUUFUcHc2MUVUQUlkWHNEUnFaTXVKc0dQZG44WmlUWWFPNUZDc0ZVMjB2c3NJel9jdDZMZ2phQTNxNzZTNml5c1ZVRmhYZXM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How major US stock indexes fared Friday, 6/6/2025 - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2xmeFVLaXlMalQxMXh2emdSMjU3VGdUazlOU3NtUlF1OFlxN1NtUkEwNngwdGpsWkFVZE1CRW5JN1dBSWRkRG9RV082a01jSUF1Uy1SdWVpckRiRWprQ2psYU1QNDA0TFZ2d2xDU3VyaHZHMTJFOHYyRHpkV1VXSi1GRWZLMzBXd3FGOW1tQ0VRdWtZVXYtRDd6LVVkRDA0N25CNVRqZU0yR2RNcjA5bnFnOHdRRlgwdjU2WnBjUUVPMWpaVlJF?oc=5",
+        "title": "Dow Jones Futures Tumble, Pare Losses As Israel Hits Iran's Nuclear Sites; Oil Spikes - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEppYzlQNU5ySnFKLWNKZkQ0Tmd6eF9xZEwxVVFZdFRMQTJ1dkNmVkNOQmMzNVRUdFEwR1lhc0pOdEhkZnRmaFNOV25ZUmFLSjdDMlRrd2hyODN6YkY0WENOOEVBeUZwNVlEUmNObFV2NDVLM0J0SllnemxMTExwcThHelBLa3REeDdCc1NoVVp0ODRnQXI4cUhnSDFaRmtNX20yeXpnRExsaDFtQnp3eFQ2VWhwTDF6cDlCUg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market Today: Indexes Switch Gears, Record Gains; eToro Ends Bleeding, This New IPO Soars (Live Coverage) - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1JCOEs3ZzlnZmpKZWZocHg3TXZuS2ZvNE9zODFCek5xYTZ3Q1JsNE9iT0lGdUFzZU1YQmlVT29uYzdKRjVvck9CX0h5VXNXNWF6WkFzWDdJbnBHYTNZbktWN2pWM0U1SDU1MjR6WXhSOUM2aDJkd0VHRGlHOUJrb1VBcGdya1p4SmlIaG9vcllzTkNxRGxGTi1rRmZZaVRwWWJjd2RacE1xZkptMndz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "5 Dow Jones Industrial Average Giants Have Paid Dividends for Over 100 Years - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDAwaWFRYTh1NVVtTHJGRy1JYU51YjhCSEF4Ulc4SmlOTnp5MnRGNFhfeFgza0RGbW1PQUpMMkhBZUdKX2VqUGFLWWxvY3lnLXo2TlVFaU1yc0NocVVDN2dON3BZNVE0RTNBbTZNV1F6QzRMT0ZPalhIczJXNHkzS1lNbF94SVEtWk1KTDlnMUktYk1xNkJGcTdtSF84Sk1ZTFRya0VSNUtOdDRvSERYc09EYU9teldPcGN4eg?oc=5",
-        "label": "NEUTRAL"
+        "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.79% - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnhoMmhIQzBKemFYTzBZd2MySm84WkJXN0Vvd1hNMlFMd05wejNUY1Y4MzJRdVZrUURDOXVmdkp0Sno0c2tRRlhZdUZLMkR4TEFuVDEyS2VIeC0wLXZsR3ctalZ6T29uSll0V2NOSzAxMGJiTEhpM0JmMlNiMXFQOG1jOUJuSjlhYURoTXE0aExhZ1BPTHJfNWxENnBBMTJHc2lqeXVPUllZR3VTTWVPWE10VHllMmVodGJuQlF4TEZudE14a0xv?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Dow Jones tests fresh highs on NFP beat despite downside revisions - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVpIcGR0ZUhtOHFRbXNEckExM0RMYXVzeEh2Rkd1Mkw5NEgxbHF3bjJ6UUxVNU54ZHVpdkFpN3Y3YnhIR0NOeXJqTmJLN2dPbXBWb1A2S0tDUWxxMnlud0ZjNEU0NjFMdTRfMmtITGItVUNJU2dlLTRoZ0NNZVFlNGljbEp3ekNMLUdRUHhIajZFdm1OS0N0ejJtY3RJTElHcnlPeU1Ndm9DcVFnSGY3UmV2Wm5zMUxiZ1ZRNFRRUWZZWC16ZkRN0gHMAUFVX3lxTFBrekVnZy14NUJaU29NWXVzLXdSSlRFZGF3ampaSTlQSFk2dGZSbjFONkpHMkZTWTV5M3M0bGs3WlVrUU5ZMVBicVRnemxBSWxaOXRtaXRlaTFEOThGVTZhQUx6VDRKcWtYUkFlTWE2enNCUVhTYk0waDlZa05FNkdZc0Zwbm84NEdZb0RackZ4RlBuazZaVVlNVFQ3YlQ3SXRVbGhVdnRDeE9DX0J2NjB1QVZmYV9yZzc1R3lKdXdtZnN2SzdxSHJnNzV5OQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Dow Jones Index Today: DJIA Drops on Israel Strikes as Consumer Sentiment Jumps - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnU4cjBtUkd0LW80Wm9HX3lNS3ZPcUdxT256a2p5eDZKWFNzOTBpaXV1d1RvdzE4TVVXbGFtX3g3c1NkRGRDMXVHQXZ6TlJPR2prU1NISDNBLUU4UjhsTFpFeTJXOHFYRFdKMF9LaDFJOXhtbUtLdUF2Q1V5SXAzQ3BwaFJVZ3J0NFVCU21qQlJPbC1uNmlQT3V1bUl1VEVJLXJxT3JzeEZTVFE?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Dow Jones Futures: S&P 500 Nears Highs, 5 Stocks In Buy Areas; Tesla Investors Should Focus On This - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTd1Yng3eml3S0tQSW5rZjdyWTVsZmc5THZsbEtnUEVvYzVxeFY4TkxfRHNJZHM4dVZXVkJiMUVLRS1nY1RKWGVYSGZCRDBjZWU4enVEbHpjUDMtQktjbDJIa1JjQ3hpbkdQelc0X01DbEdyb1pqdE5KM0R6bF9DbTdmMHBOcXpBR3A0X3BqdVRXWGtjNktOMFFCX0dEUFI0cWVTVS1CVFVKbjV6a21pakU2QQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq drift higher, dollar slides amid renewed tariff threats - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0lrb1llSjRMdlppNUI4T2YtQTFYWm56TTFDWVN2eWpQMGNuM3NFQ0NzZFc0Tmg4ZTVYRVFmNmNjTHRwcWpCUUxHTkZrQkNHVzNZU2pDLXNRaXFvSjdVMDdiN3ExYXl0d0o0Q1c3QVJqMXM3RVFpUWNPNFlfRDNJNEJ0U2pqQUV0Q2R4aFJhbFN2X3BhT1BMd2xXbU0wSm1QY3JtWkJ2dE4tYVViMjUtQzRGMXBiUjE0b3ZkZ2ptaGg5WU13OHpQOE1EXzJxajlxM25XTFZWLXprUQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "S&P 500 closes above 6,000 as Dow wipes out 2025 loss - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcVp1VTFIeG9rNjJHOE1MeVFpdmxLczc2Ukw4VllraFdIN1Z0TERhZG9XNFNhWE9reFRCd0RjTjlxbTdHUm5pb3Q3ZTNFNXliRm9Cd0M1OXVmUWQ4VVR1enF6ZE15bUp3TlI0c0pRQkFyZW9iR2hNbVFzNDNyMEJ1U1c0SmlJSE5WdHA5TGl1NUxmbUlpakJaMnhyNFpsRGliR1ZVSjJNamdiNkM4TTFfNnpfWmdPUVRuVXNJN21ZTVp0YWFqX3VrRnVucEw1TktZeWtyWU9yeVZhNmlIWFZmZnJNa3FWTHJPWVktc3BGUlFkb3dvWWJwc19laUN4aGhZOC12bHIyTXpUMVRHZ0cyRE5LMF9UQk91dy1zM3cxSXdpY0ROdVVBSzR0VXRZZS1Wa0tENmJESTFYUG1jYnEybDFsaHY?oc=5",
+        "title": "Dow Jones erases gains on renewed geopolitical tensions - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQk5BLVJoSzh4SFRUQzhxaG1JdVktLWxKbi15U0YwaEQ5WldJNVZfMUxtZ2MxSnJFYmtiQkpjVEVNTDZKQ0tjTGJkVzVHeEFGNzhPSkpTdUV1T2ZGeW9jX290SllBb3BTdENLRWFvQ2NFNEdBOFlMakROa0VKTWtieFlQMFBFZzl4ZU5SWUV4S1JhUFJWSWtxRWVDYVBDWHJzNWNKeWtsNTlwOW1FM3JJOWQzQjliNENM0gG-AUFVX3lxTE0ydlo3U0RZSWxfRmt0OFA4ZW5CbUtuSTVHLWhEenQ5VXYtYUNvaTg5NVB5Y1dpbU1la2pkSTd5aW9JbFlXVGZ2NGNoellUMUplcVJCYS16cUtfMi0zS2ZRZERlOXFnc0xDeUM3emFSZlV6aEdBeFVpYXFrM3RlWjZzM19meEJ1c0VyVmx0elZHbnQ4amhnVHFVMTl2aURuanowdUsxS1NaeXVHa1U3UFZUanVpNTVNMHNPUVNsSGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Futures Fall With CPI Inflation Due; China 'Framework' Reached - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjJWZnFMUHhDQmlKVEd2ODBXT2JlM25zZVBYcGhOc3RFVGNfUTE2OEJoRXNtYUhVRW9JLWxCSVlneWh3ZVV6X1lsQ0J2cy1nWFB1VWsxX1BpTlVzTG1XMExUOGM3TXF2SGFSUFQ4Vi1jdkN5X0RSc0JLREx2a0NzVlBzaFNCWjRTeHVVS2hRWnFKTnlJeXpPdmQycmVnaHV1MlBDdmNZWVlGTWtoV3pyQlBFTF9BNU95a1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dow Jones Futures Dive, Crude Oil Spikes As Israel Strikes Iran's Nuclear Facilities - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1dReThPeTJfYzlLVmRQMHhxUnhBdlNRMHZnU3REV0lJTWJ2aE4zS0xIV0xHaE84SEJSWXVFbi1hM0VaTnVuQ1JkQVN2eWpROE5kbzhya1Q5aWQ3dHdRZXZkcC1uLWI2QVprZExCbVU4MUZiTGpmX1NHODZlNVVZNzdMaTh0S1VzbVhtZ29HV2FJemJlbVBGcEVIUWZiZDZWN041bUZPaDJmdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Markets News, June 12, 2025: Stocks Rise as Major Indexes on Track for 3rd Straight Week of Gains; Oracle Soars on Earnings, Boeing Slides After India Crash - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yclhsZEs3UEJDaUtfa203U1B3R0dmNHJycV9Dd0hCQ1U0cmRHMmtwUHVIeGQ4TjdlQTJGSVNWNlBQZlpSZ2FHeWJfblN3MDVEMS1JSm8zWDBwM1FYZW9DRzk3emdxNWV5SzA0alRWUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market News, June 12, 2025: Inflation Reading Sends Bond Yields Lower, Stocks Higher - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPY2tiU1FCc2F1UXFnQ1pjcjgtU3dkUEtkUzFEaGxhNkh4T21QTUh6SFdzNnpmYVp3ay1RaEFYNjQ1TzNIODRuN0ZRUlAyeU1Yblpoc0oxRVlUTFh6ejJEMFI3WTRZMnlCWWFOOEtVTzJmblh3dUtmNG42WGsxeUplcEtKRDlfQm5Vbm11NlU3cmNwam4yMDFGSG5ISE0xQnpfNkdNSnZOUEUxclRseURlajlpSUg0YXBSZ1hYemJFcDR5LUgzMzZFeE5ERmdUeExpWEN5QUZGTDZTMUR5elVUOS1mUE40Sk95NFdRWGNWVG9jUUxadVBudG5MUUk1djJIdnVsSVpMa1hCOVFGNXJKX3IyQndNc2piWTNmQVJmWnBlbVU4aVpkcHFtR3Njd2N2eEJJVGZzaWJ3OWpGdEJNeUxpTHM4dXpOeVBoVzRXSVNmY1JoajRCcUdqaXlIUmNKVlFMX05udmstR1dnbHc2YjR3Q3V2ZDlEaGJNd2N6bldkS0tnYU1UUHFMTWstM0tHQThxQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Markets News, June 11, 2025: S&P 500, Nasdaq Edge Lower to Snap Three-Day Winning Streaks as Investors Digest Latest Trade News, Inflation Data - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fV3RrSVFTdGJBU19KdkwxTWd5M3EyWDJ3NHBXNEpVNktLQVFoTXhVNFNOclQ4X19LQ3VMekg0Q1JJWDhET1liRUs4SzlqY0RKQ3FYMUVoaWFRYzk2VGJSbTdqVEUtRllLdmtpanM0Yw?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

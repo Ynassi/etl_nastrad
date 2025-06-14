@@ -2,16 +2,16 @@
   "ticker": "8035.T",
   "name": "Tokyo Electron",
   "sector": "Information Technology",
-  "market_cap": 10834301419520.0,
+  "market_cap": 10903018799104.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.056309,
-    "PB": 5.8399506,
-    "EV_Revenue": 4.252,
+    "PE": 20.16949,
+    "PB": 5.8769903,
+    "EV_Revenue": 4.28,
     "ROE": 0.30101,
     "ProfitMargin": 0.22378,
     "GrossMargin": 0.47142,
-    "DividendYield": 3.19,
+    "DividendYield": 2.98,
     "DebtEquity": null,
     "CurrentRatio": 2.656,
     "QuickRatio": 1.448,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.13138132707238356,
     "ROA": 0.1715,
     "PEG": null,
-    "EV_EBITDA": 13.61,
+    "EV_EBITDA": 13.701,
     "BuybackYield": null,
-    "PriceToFCF": 33.91414251757011
+    "PriceToFCF": 34.129245542158934
   },
   "technical_indicators": {
-    "RSI_14": 58.67238352306403,
-    "Momentum_10": 3.933201494177104,
-    "MACD": 374.46686085408874,
-    "BB_Percent": 0.6811272868361717,
+    "RSI_14": 55.13467556508443,
+    "Momentum_10": 3.4782608695652173,
+    "MACD": 564.9510931648329,
+    "BB_Percent": 0.6488707313137463,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.930803604008466,
+    "ValueScore": 0.8824087656559769,
     "QualityScore": 0.3449881514558011,
-    "SignalScore": 0.4348037557990806
+    "SignalScore": 0.4121603896574514
   },
-  "volatility": 0.0304745869441663,
+  "volatility": 0.0306950249837197,
   "beta": 1.28,
-  "return_6m": -0.0125260960334029,
+  "return_6m": 0.0123366062415517,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 29585.0
+    "target_mean_price": 29385.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 23950.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 23760.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 24600.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 24480.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 24625.0
-      },
       {
         "date": "2024-12-13",
         "price": 23860.0
@@ -525,38 +505,58 @@
       {
         "date": "2025-06-06",
         "price": 23650.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 23855.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 23740.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 24880.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 25000.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 23800.0
       }
     ],
     "current_price_data": {
-      "price": 23650.0,
-      "change": 300.0,
-      "percent_change": 1.28
+      "price": 23800.0,
+      "change": -1200.0,
+      "percent_change": -4.8
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente met en lumière une volatilité importante sur les marchés liée aux tensions commerciales entre les États-Unis et la Chine, impactant notamment les valeurs technologiques telles que Tokyo Electron (TSE:8035) et ASML. Les investisseurs restent attentifs aux répercussions des tarifs douaniers de Trump, avec le Nikkei Stock Average en baisse sous l'effet du renforcement du yen. Malgré cela, certains signaux positifs émergent, comme l'exemption de certains alliés des nouvelles restrictions américaines sur les exportations de puces vers la Chine. Les performances financières de Tokyo Electron et les prévisions des analystes suscitent l'intérêt des investisseurs, soulignant une dynamique complexe sur les marchés.",
-    "sentiment_score": -0.15,
+    "summary": "Le marché boursier japonais, représenté par le Nikkei, a connu des fluctuations importantes récemment. Les inquiétudes géopolitiques, les tensions commerciales entre les États-Unis et la Chine ainsi que l'impact des commentaires de Trump ont influencé la volatilité des actions technologiques, notamment dans le secteur des semi-conducteurs. Tokyo Electron Limited (TSE:8035) a été sujet à des variations en raison de ces facteurs, et certains actionnaires s'interrogent sur son ratio cours/bénéfice. Les résultats annuels de la société sont attendus avec intérêt, alors que des analystes prédisent des évolutions significatives. Le marché reste influençable par les événements extérieurs, tels que les tarifs et les déclarations des autorités monétaires.",
+    "sentiment_score": -0.35,
     "label": "NEGATIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.35,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.55,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Tokyo Electron's (TSE:8035) five-year earnings growth trails the 29% YoY shareholder returns - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNFZpd3FSRTNKeVBETkNWZ0VCcUUwXzQxTE9xajlIeFhQYTc4bEdLbkx0NFRvTkpsaEpLLVlJTU1VLWh0SkRoOHVqeUk3T2lZZTNEZnA4Z0VFOEsxNWR5R2xvSzUtZW82N3NmZUZMem12YzNHTW12d3VOWDFVUEpaZkZFR0hGQTgwd2lLRGU3cXZEb0JWREx5bC1UTU5uXzlPcUNKN0tQeWF5TW96RmZlUjRDMWxiMGs5UFFpSndmU2o5TzBSbVRCLW0zNUFlQXhzOFdIM21kMXphNknSAeABQVVfeXFMUG1UMWdTZ3pHSmZHU1lHZkdRNWo0YmNYWGJFeWpSZ3g3a1hubFIwZU1OcWJPcFNERUdfS3o2SmM2YlFkSUdZeHZaSkxYRmtSOUtua0laa1laN000OGIwT1c0bmliOGdHS1dLZjA4clR0MEhldGlzSUxoSmZ4T3Rja3V5S0dMQVByYVoxSmxMYThkdnN0cWIyS0d6dW5uUlJLUkNtRnNTTHo5dXlGLWJSYUJYeTBQWVBDSXdzbks1R2F4dzd3b0lZMFZUU3RzS1pzOGJHdFVvWEFiYjN0SXZzSWw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Japan’s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tokyo Electron (TSE:8035) Could Become A Multi-Bagger - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXNJUERVMzZJUEFYdGdTcXpwenZ6OEs2aGlyQlVXNEtYOXVLYWtsQUlBamlicEZ3dkY5M1phdzRSV0JkVDlVaWRKNjlLZ0VvS0kxcktGUEg2S3BCVERzZ2lpRDFrNDI5d3gyajV3dTNCa083VUlaMGNES0YwcXptTFZJdXZab1U5RXBOTC1HNVdaSVJmaUFQc2NORTh4bG53RXJHWkk0M0FpZUFNWk9oVy10aXU3Y0ljdThVUHljWkRaWk95ZURuN25ZeHpSUdIB0wFBVV95cUxPS2s5REM0UlpVMW0wNUwyZUV3UGtCRzNzclNaMzg5cWszSkE2SFBGNXM2ZDZ5QmgxWmhzaGJEOU9GbUNVSVJRQU4xUGxjYzVHYlBEVnRTVzYzbXlqLWZFTmJuekdoWDZsLWtTc0lrMEZnNTBETWtyMVFPNlVLZEVuNzVSQjhGa1F2T2RwVHNhd1lpcmhFVk1FVS10RWd2dXd3azc4V1pSTnl1bXk0SGUtY1ZBWVdGaXNVNE45bVdyOWN0VEZWVElZUWdBZ2hpd3M4Wmd3?oc=5",
+        "title": "Should You Think About Buying Tokyo Electron Limited (TSE:8035) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmFXd1FEY3JscUp5RGNpaTR3Y1MwTXVZdFMyOGVSWUJVWUx0MkxrWHhHdXM2WlVDSWJ3QllCUi1pb3ZTaktZSmpqSjg0eUJpbm1IS19pZWxJRElTNVRHNzR3ZGVPd0NkMUF1bGx3VC1FMUhLMWt0RE42OGVwdGRPdERmcFl4Y3YtOWdtOUtqN0t4NndveG56SDNmVWkwTHRHQzNxSWZIYU1NVkVUNnpEUlloV0FPYnlUdkRXZ090NjhRd3VCQlY1YU9IU2lJdFEwUW1JQzZ3X05fajDSAeABQVVfeXFMTWxra2djenJzc0I1R25oTXl5S09JWkp0RjBnZVQzaWxCakE2NW10STREM0JiWHJ4clZEeUMtNGN5cUwwNUduSWg0UFV0QXM0Qy1ON291XzFyQkNHSVNFT0o2RHRZYjVJM1RaWHEzRXI5ZzNuLWZJNnlxNF9KZmdoSDIyYzJrYVlYRndvTW5iZXpSZTF0UmRxWF9aSlZqMWhkVFI1c0xLazRGMlVwcGtHY2VQRXZoQ0pKMmtybnJuYmRNQVRUWjhXSlZFTDRRV28zMXVIVThqSDBJTTNaQnFJSm0?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Falls on Geopolitical Worries as Israel Attacks Iran (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBza1g4dE5kVnl2dHdlOTBTYV9XanU0RXJXYmZCSTZ3Um1tWVhSSXdkektQOHQzT0U1WXZ2SFFNakZKOVFDWDJUbXR3ZElzRWk4N1NYb0dLM1Q2VVFaNHkyOGxvTzlza0dUdzRGTlRBMTIzZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average climbs for Fourth Day on US-China Trade Truce Hopes (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KVWh1RGd1SjZuaTd2ZGNZWU9iWlNXWk8xUmFfeU1Xc0tiR3Q1dWQ4eDBBOUh5Mlc4UG9DR2wtY2pqd1NBYWl4NHA2aG9TVHJ5Q0g1RGdLdHdLR25VRW1SVDFDbG1iWlNpUjFjS3B6cllndzFoZzVGWEt3?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Japanese stock market sees biggest drop since 1987’s Black Monday amid US recession fears - New York Post",
@@ -569,63 +569,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Global markets today: Nikkei, Hang Seng to KOSPI — Asian stock markets open lower on Trump's tariffs - Mint",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYTRRdUZkX2lFVmRFMGg5SVFkZElwS1Znb0VKSlhrOUx2eUV2ZGFEM1J2V1RkUGJXVVVVQ05uLTM2N09RMlhWbjNjbDBpelBwMHpjNkRSWG1RWnRJTEFPSHc4ZnJsemw0LU1HbWVud3dfdWRLRkVydTNBVV9lZWRrZTY5Njh3b2haSURVTTJSS3dRSWdmT0ZTbWJ4MDlTTEhuSmJETjRuaHVaYkZ5dm50M1VXMDVBa3NhTWI4b2Y3UlNEVFo2RU1NNnZMZU8xUHJ6SVI1MUoxTnROV1NtSE9SNEhwWFRWTWp0M2ZsX0dDWUZ2aEJySlBPMdIB_gFBVV95cUxQcC1UZDhDaFFnNWVsU2hjc2VHc29yVmRTOGZ3VGx3eDRXeHJyS0RfR0oyMDBFVlZvVjRPWjdrZThKOVlob2RTOVEtZU9rb2xaVGh4clVUSkEwVlFRdm9vR05BbF9ySmFrdjdfRmJxQV9oVnhBQzF6NWdQcmZpUGdnMGhPalJsNXhRdUhOXzBldDhjSHdYT1dYdUl6c01WaWlZMGw1cGZmbnFHVExkdE52Q0ktNFJpSWxvMUYyZFd1WmNyblhhaWotbTdjN3lUOGVkVERiWFpydnpqMUs4R2xlaFlBaGlMYzJRM1FVa01jdVV2eEVSYWhlWkxuQzhKZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japan’s Nikkei Stock Average Ekes out Small Gain with Tech Stocks’ Help (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OeFgxUGI3TW1MRDJVQUswY09Nem9CUVhHN2s5dV9xdEpUSVc3ZWFZVzduYm9oRGVjanpRR25ndk9kVmtUaDBYSkNGc2x3cUJTTWNaYnhhbWVSenZKWF95SmNMT3BqTlVCZlJTcndnWEQ3bWxpV2EyeHV3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ACM Research straddles growing U.S.-China microchip divide - Bamboo Works",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWFrX2Z6aUpWbVpiUGliR3VnZTJzTEtxYk1yd3RpNzFqU3l5akE0QTNRN3Fsc2RXVUtHSm1BYkZfOTBlV1EtX1FRQnQ2Rk9hM3Y2VHJmemxGV01mcW5fNGFnYmVKbk5ucldJdDVQSld1VldTS05Dbk1rX1hUWmxaQm51MlZyLVo3LVBBeHF3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Some Shareholders Feeling Restless Over Tokyo Electron Limited's (TSE:8035) P/E Ratio - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWN0YjNYQVd6SlR0bUE0QXhEbmFQNE9JN08wUWp0RjYyZTZpTEE3LUN3akZiRURxWnpVMzA2LTFNLUJfajlKa1BFN0lJdUQ1Y01OMDZQTnBqTE01aXJabWRPUFIyeGdjNkthZDk5RjNOSjBDRm96TlpJVWE2Ri1TVUliM2p2ZnZEYlVEdktOOThOSWQxVXdVU096RktSQmF4RzVlODJyWkt2LTl2WHYybmVnSkYxWk55NXFsNnExdEgyd1RWYjJKUEt2eW9XSk1yUTlocG5IT29OMlHSAeABQVVfeXFMTUFYV0ZPTkNiM3FKWkstNXJ0bzBlYnVoUzV1UVdVN1dLc3BOY2UwRWZ4bzBrM3R6N3g1eDFLM2h2Ql9HbVMzMmN2MzBGUEQ2cHVkd2NRVFNCVnJXV2NiTlNGZmswUV9wYlIwN3BqcW1NRnJtQW14c2RPeGN0cVZGaUZMdU1QTmZyQmtJbnYyU2xQQmtiOWVkSG02eWxVM1pNZm10cnFTWC16UFRLSzExUzhKa3E2Z25wbTVLMFJMd0xfdjhYVjNrcHhobmFSdlZ6V0R5WmM4ZndXZU83MEVUeXc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Exclusive: New US rule on foreign chip equipment exports to China to exempt some allies - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmIwb3U1QXluQnVfUWQ5aFpvSzJSdjdTOVl4S0g3dDZUZ0VkWGx6ZlU0Z2JsaE1sZVE0QlBaODB3dTA5cFVfZllzOXhseFRoLUhJY2twcm5zVHduOFlTY2xxcHk4czBOYkgtbkFnRGU3d2lFNmZTZmJ3cFhPSzMyZmZILTZzaEIzNnRjNnhqV0Y3SDlSTkV6QjM0YjhoWWtrOTZDdzFFX2JOSno2Z0JaTlNDWGMxWTdsaGJpbDBmak8zanVL?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global chip stocks from Nvidia to ASML fall on geopolitics, Trump comments - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3NjQTNOenhXRmtVbzFMc3kyLWhPNzl1ZEw5TFFPV0NQMHdEbVNTQ1hsUVNXaVFPUFZ6VnQzbHdDN2Q5d2RTN21NMDEwSTlZTVEzTzBCeVRFa3Bra0NEbzJqTERyMTBmYl8tNjFSRzg3LS1SYVVMbTZsWkZ2ZDNKTTJFOVRscHJZQ0FvMkM5Ykp3TURfbU9hZVBGajNoYXlfVE55OWdjQm56M0XSAbABQVVfeXFMTjdDOFEtdUxYLWpYeHlqQUNfaXk0djNEaUJDZm1MN2VsNUFBQWJMaXVRcktfQ1hFdm9GdUJHQmNXZ0JsVUszdlk4UkFQX2VaOEZHSGNxTGVRVmtKSlZTUzJiRkFnbkJ6Z0JNdlZacGJ5d1d4cEYyLWZmQllHMEx5eDdtR1k4SEU1a3ZjTW50WXhjRkd3aS1FZnQwX3gzVEhHOWgtdXRCUm1uYi1kWjgwUFE?oc=5",
+        "title": "Global markets today: Nikkei, Hang Seng to KOSPI — Asian stock markets open lower on Trump's tariffs - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYTRRdUZkX2lFVmRFMGg5SVFkZElwS1Znb0VKSlhrOUx2eUV2ZGFEM1J2V1RkUGJXVVVVQ05uLTM2N09RMlhWbjNjbDBpelBwMHpjNkRSWG1RWnRJTEFPSHc4ZnJsemw0LU1HbWVud3dfdWRLRkVydTNBVV9lZWRrZTY5Njh3b2haSURVTTJSS3dRSWdmT0ZTbWJ4MDlTTEhuSmJETjRuaHVaYkZ5dm50M1VXMDVBa3NhTWI4b2Y3UlNEVFo2RU1NNnZMZU8xUHJ6SVI1MUoxTnROV1NtSE9SNEhwWFRWTWp0M2ZsX0dDWUZ2aEJySlBPMdIB_gFBVV95cUxQcC1UZDhDaFFnNWVsU2hjc2VHc29yVmRTOGZ3VGx3eDRXeHJyS0RfR0oyMDBFVlZvVjRPWjdrZThKOVlob2RTOVEtZU9rb2xaVGh4clVUSkEwVlFRdm9vR05BbF9ySmFrdjdfRmJxQV9oVnhBQzF6NWdQcmZpUGdnMGhPalJsNXhRdUhOXzBldDhjSHdYT1dYdUl6c01WaWlZMGw1cGZmbnFHVExkdE52Q0ktNFJpSWxvMUYyZFd1WmNyblhhaWotbTdjN3lUOGVkVERiWFpydnpqMUs4R2xlaFlBaGlMYzJRM1FVa01jdVV2eEVSYWhlWkxuQzhKZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Japan’s Nikkei Stock Average Ends Lower as Strong Yen Hurts Appetite (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRHk3eXVkcVViVzFTT1UzNmNwbm5GWERRVDJaUnZDN2I4M1hFRE55WUhoelZzTnNQd0ZqTW5iWm12MFU3QzZRYXpYVWkyZUQ1RkotSklaMkE3bEJYaXlqTUpyWFNMRmVNOXN1MEhsVGNzRmZpd0htVHFB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "At JP¥25,455, Is It Time To Put Tokyo Electron Limited (TSE:8035) On Your Watch List? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRTBOUEhRMXZGYWF6VWtYV2duNEJad1F1S2JVVVN2ZjlLWVRzRktsN2tWdUw0M0xPX2xFdWt0bXZITVJ5TU1SMndCZmNfWGZEYXRJdUZ4WGRzVVhuU3hsdTFtSFY2RFFiNzdNbnFzRnF1V2thaDBnSkdoM192dmJXejBteUZkTVc2Y3BuY0xpdXpSNGRUMm9Hc3pNZ1JxLWpzeVM4RmZQWGRWMmlya19xYjdEZEJXNUZZVTlWOGQwU0hLcDlLU1N0VExnLXN1NjF0aGtILUJQeWdVUdIB3wFBVV95cUxNdkYxbkZVX1ItQ2pyRGVvSTRCUDlUQkJLSXlDYjFkQWEyM29qR2t4T2k5eDJxSWIyUlhCakUwNG5ONzNJYXJpUXFYQW15Wl9tMlgtc1hLb3VCc1dsLTgyaEJkZS1rMElTTS14NzBJUDNXSnhtVjJ6MFllYzg2V3F5ZWhtcm5uNGpUdEFHNlJSY1ZCSUpIeVhodjk5Qjgxbks5LU94Q0Y4dnVkM2dwSjVpcEx2b0VZQnRiQmVVd2hBa0JvN3NTXzdTS3c4SjRFd0JZOEpaVXh5RkExNHIxU1Fv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Foreigners remain buyers of Japanese stocks in week to April 12 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3pXNlRFdFZlM044YlBKTUQ0MXNJdUpqX19DcE9oRF9nTWlwd184bTdBdkdJb05PUEl0MEhOLUctRGQ2ekxMTjgyMktoRk5XRmNKUXd0cXhOTldMaFItXzliMUE0QWhlTGY5NFNNTE9aeFprTjJjaHBELVI2OUdoZjcwbWNVbV9JSEZpZmk0MnRJa0ZvSXFjYjVJUHpaQm5yYkV0cXZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Estimating The Fair Value Of Tokyo Electron Limited (TSE:8035) - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMHNtVlIzRVRMX3A0UHY1aWJKN3dJYWxxeVZFV2FjRlU3UkFkOVlyWlpfOXFXWlNuZW02WE96VXM3UDROUEkyQUp0akNmZVdiWkoyalBtcHZ4WER5OHBvS0taTm5XVVpMQk1UZGxXNzhFb0FxdFJSSUdDY0ZORmNHY09JVTg2aEplUzI3RnlWeEd1TmZVb0lRM21RUktBVWNrMEVWdllrV1NSVGR3SHU5ckdxakFRQzhsU1dvX2RZR0E5UHVFbkFZd0pvaWxVeVJKd0NGZHFsTmJnQdIB3wFBVV95cUxQNW04cjJtVHpfNW41Mm82cHNsMkJqRDd5Wk42Q0FwTU9XYi1ZS09iazNCbnpWMXRYRTNJVzhmMm9xYmNNdFEtaks4UW1USGNZV3RpRXVVb1ROVXlJQjZOWGdRWDI0aXgtemllRXhWRUlJMUhKeEJMdjAyc1BCWlJidkJmUm43ckR2aC00a3YxUF9rSEo4VnVMU0IwSFl6RmVDWnUxVWZfSmh0bElod21YX3VYNEtrRHpvVG1ySmFCUFNRR0dDbGI0bjJ2eTV6ZzhsTzhZZmczUXlCSnBOdjVR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japan’s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ASML shares pop 7% after report that U.S. will exempt allies from new China chip restrictions - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDU3aThhR2ZsRFdicUNFQWdlVV9sM1kxLWlsVThhX3IxVEI1MGxLaUNia0dVVnItMVpCeWV2Q3pjUUZtR2NGQV9DVzU5YzI5djJBZjBGenZoYVJaVEtwTEhOSkp3RTE2RVhLVFNWWUVqVGhobldJeFg5QXFfWVl1cmpzNm9ZUmRGdDBaQUhPWWdjNGpHQzZWY1NPUDFWWTdXaXFnaHl4aU9wOVZrbE5HVdIBtgFBVV95cUxQNlVlbkZNUnpmdXREM0dZMW9Ybkl5N2ZDbDVVckZkNG53dFVJUTA5b2lMb0RGX184NEpSWDRXUUVCMU5tZ3dOWG1lUW9WamRiVUxUYnljeTZwa1BXV09OZHJmR3AyUk1uekhTMU4tS0s1NUtISW9NZUhHcDBXYzVGeG9xNU9pakhEX2luQTJWNnIxUHhxcmtudld5VXdFb3U1UmhlR1BNNXdwZldsNXNLeE1zUDZrQQ?oc=5",
+        "title": "ACM Research straddles growing U.S.-China microchip divide - Bamboo Works",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWFrX2Z6aUpWbVpiUGliR3VnZTJzTEtxYk1yd3RpNzFqU3l5akE0QTNRN3Fsc2RXVUtHSm1BYkZfOTBlV1EtX1FRQnQ2Rk9hM3Y2VHJmemxGV01mcW5fNGFnYmVKbk5ucldJdDVQSld1VldTS05Dbk1rX1hUWmxaQm51MlZyLVo3LVBBeHF3?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -634,16 +589,61 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Japan’s Nikkei Plunges to 8-month Low on Trump’s Tariff Shock - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eEN4Q19yd0x2aDNsdlZHeGxPbmszd1NCdWttQzJ2WU15WE52bV90blFfQ2xlVW1zbVM2RkRIcE4xNmZ1eVE3SHM5cHVETE9ldlBwLWI1bmJzaFpvSnFFR3FmdUxPM1F0cGZJM0t0V1dadw?oc=5",
+        "title": "Global chip stocks from Nvidia to ASML fall on geopolitics, Trump comments - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3NjQTNOenhXRmtVbzFMc3kyLWhPNzl1ZEw5TFFPV0NQMHdEbVNTQ1hsUVNXaVFPUFZ6VnQzbHdDN2Q5d2RTN21NMDEwSTlZTVEzTzBCeVRFa3Bra0NEbzJqTERyMTBmYl8tNjFSRzg3LS1SYVVMbTZsWkZ2ZDNKTTJFOVRscHJZQ0FvMkM5Ykp3TURfbU9hZVBGajNoYXlfVE55OWdjQm56M0XSAbABQVVfeXFMTjdDOFEtdUxYLWpYeHlqQUNfaXk0djNEaUJDZm1MN2VsNUFBQWJMaXVRcktfQ1hFdm9GdUJHQmNXZ0JsVUszdlk4UkFQX2VaOEZHSGNxTGVRVmtKSlZTUzJiRkFnbkJ6Z0JNdlZacGJ5d1d4cEYyLWZmQllHMEx5eDdtR1k4SEU1a3ZjTW50WXhjRkd3aS1FZnQwX3gzVEhHOWgtdXRCUm1uYi1kWjgwUFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "At JP¥25,455, Is It Time To Put Tokyo Electron Limited (TSE:8035) On Your Watch List? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRTBOUEhRMXZGYWF6VWtYV2duNEJad1F1S2JVVVN2ZjlLWVRzRktsN2tWdUw0M0xPX2xFdWt0bXZITVJ5TU1SMndCZmNfWGZEYXRJdUZ4WGRzVVhuU3hsdTFtSFY2RFFiNzdNbnFzRnF1V2thaDBnSkdoM192dmJXejBteUZkTVc2Y3BuY0xpdXpSNGRUMm9Hc3pNZ1JxLWpzeVM4RmZQWGRWMmlya19xYjdEZEJXNUZZVTlWOGQwU0hLcDlLU1N0VExnLXN1NjF0aGtILUJQeWdVUdIB3wFBVV95cUxNdkYxbkZVX1ItQ2pyRGVvSTRCUDlUQkJLSXlDYjFkQWEyM29qR2t4T2k5eDJxSWIyUlhCakUwNG5ONzNJYXJpUXFYQW15Wl9tMlgtc1hLb3VCc1dsLTgyaEJkZS1rMElTTS14NzBJUDNXSnhtVjJ6MFllYzg2V3F5ZWhtcm5uNGpUdEFHNlJSY1ZCSUpIeVhodjk5Qjgxbks5LU94Q0Y4dnVkM2dwSjVpcEx2b0VZQnRiQmVVd2hBa0JvN3NTXzdTS3c4SjRFd0JZOEpaVXh5RkExNHIxU1Fv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends at 6-month Low as Tech Shares Fall, Stronger Yen Weighs (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSUHBVTWRtTVZyc1o2LWxPa2VvcjZYSTFZdE9fbDRUenB3MXFhcUFwbjk1aVBZLXYzUXJEWklnUmFQakQ4R3BKQ3h0X2Q3OFlQTktlQmlWck1pc0hFVkhtZV9pTExHYmFYNDVsZGVueXZiazFhaFVCSEh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tokyo Electron (TSE:8035) Could Become A Multi-Bagger - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXNJUERVMzZJUEFYdGdTcXpwenZ6OEs2aGlyQlVXNEtYOXVLYWtsQUlBamlicEZ3dkY5M1phdzRSV0JkVDlVaWRKNjlLZ0VvS0kxcktGUEg2S3BCVERzZ2lpRDFrNDI5d3gyajV3dTNCa083VUlaMGNES0YwcXptTFZJdXZab1U5RXBOTC1HNVdaSVJmaUFQc2NORTh4bG53RXJHWkk0M0FpZUFNWk9oVy10aXU3Y0ljdThVUHljWkRaWk95ZURuN25ZeHpSUdIB0wFBVV95cUxPS2s5REM0UlpVMW0wNUwyZUV3UGtCRzNzclNaMzg5cWszSkE2SFBGNXM2ZDZ5QmgxWmhzaGJEOU9GbUNVSVJRQU4xUGxjYzVHYlBEVnRTVzYzbXlqLWZFTmJuekdoWDZsLWtTc0lrMEZnNTBETWtyMVFPNlVLZEVuNzVSQjhGa1F2T2RwVHNhd1lpcmhFVk1FVS10RWd2dXd3azc4V1pSTnl1bXk0SGUtY1ZBWVdGaXNVNE45bVdyOWN0VEZWVElZUWdBZ2hpd3M4Wmd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends Lower as Strong Yen Hurts Appetite (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRHk3eXVkcVViVzFTT1UzNmNwbm5GWERRVDJaUnZDN2I4M1hFRE55WUhoelZzTnNQd0ZqTW5iWm12MFU3QzZRYXpYVWkyZUQ1RkotSklaMkE3bEJYaXlqTUpyWFNMRmVNOXN1MEhsVGNzRmZpd0htVHFB?oc=5",
         "label": "NEGATIVE"
       },
       {
         "title": "Is Now The Time To Put Tokyo Electron (TSE:8035) On Your Watchlist? - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1ZXcGcwVndZY3IwTG5BaWlzQVNTdEhmTS1wVm9sdmFTYWZfMGNBZTFzckpydWRFZ3lCMU5vZlYxX2lvaTJpNVlydVlhT2xqRVpGdjJTVGdURjk0dC1oaVh0YVd3V0lEenNBVzZPZU5wdFZqY2RkX0hDeHIyV1VwUklPQXpSaDV6dm5HUlo4TU5VN25GelVYZzVzS0ZlZWNKTEdkX1pGVTJrcXJQM3dZci1tLUdmUWlWbC0yTU5ZZEFYTmU2dlJUcDA2aFhqc3hnSFFiZkt0UjRBNVnSAeABQVVfeXFMT2Q4SmVCbnhzRG05RzR0dHZyZnQ2Q2RKTV9UOW10YmtCNzAzZUlDVGgxdV84ajZSeFZUNTlVdUtjbTNEa3pxb0dTdmVyeDNDLTc3RlJ6VmU0dlVEd2FpUHgwcWZrNGE1ak5xcHBhZnFPaTRTeVYzQVhEYnk3Rm4wQ2p3d1R5dG8tQVI0UmxJREVja1FTbi1xeGt1T2pOZGxrUFlBQVRORFZ3S0E5dllqcW5YQXZRY3RwZGlzTG5CM0JMeGhpNUtvQXRVaG0zVXpoQW95bXBaeWRVaUpBanlsTDI?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends Higher after BOJ Chief’s Comments Ease Rate Hike Concerns (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aVZobUwwV1NqQmRwT3h3VEpaX1NQX1NvOEZyZ2Y0d2Z5ZVdWNHRvLWs5X0NhbWFNLTl6WTBxWGxoUTBibmFaUUtmcFN1QmZCNEx6Y3pvSVF3aWxfYlYyemN4NlJGbTJoaVVHMnFnWVhBeHpxZ3BMVEJB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Wobbles in Countdown to Fresh Trump Tariffs - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LVFFDdzVfazZsbDNtemc3RXVrV3FMOUdFZ0Z5VzZMUGZJaUVrU1RkUHhFRFVISEZqbDhWam5Ld1E2T3R1T21DZ1NyaFJxa09iaFo5WDV1bVUxVGxuYjk0cWRtRmhkNkIwNGxSYkFyaWM2QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Plunges to 8-month Low on Trump’s Tariff Shock - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eEN4Q19yd0x2aDNsdlZHeGxPbmszd1NCdWttQzJ2WU15WE52bV90blFfQ2xlVW1zbVM2RkRIcE4xNmZ1eVE3SHM5cHVETE9ldlBwLWI1bmJzaFpvSnFFR3FmdUxPM1F0cGZJM0t0V1dadw?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

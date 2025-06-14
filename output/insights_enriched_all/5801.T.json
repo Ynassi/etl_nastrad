@@ -2,16 +2,16 @@
   "ticker": "5801.T",
   "name": "Furukawa Electric",
   "sector": "Materials",
-  "market_cap": 494582333440.0,
+  "market_cap": 479711985664.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.822794,
-    "PB": 1.448521,
-    "EV_Revenue": 0.648,
+    "PE": 14.367951,
+    "PB": 1.3857751,
+    "EV_Revenue": 0.635,
     "ROE": 0.10208,
     "ProfitMargin": 0.02776,
     "GrossMargin": 0.16785,
-    "DividendYield": 3.36,
+    "DividendYield": 3.53,
     "DebtEquity": 85.346,
     "CurrentRatio": 1.411,
     "QuickRatio": 0.827,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.00791046815470127,
     "ROA": 0.029849999,
     "PEG": null,
-    "EV_EBITDA": 8.81,
+    "EV_EBITDA": 8.567,
     "BuybackYield": null,
-    "PriceToFCF": 52.02570400070403
+    "PriceToFCF": 50.46147442865128
   },
   "technical_indicators": {
-    "RSI_14": 71.22230206139464,
-    "Momentum_10": 7.671064743786438,
-    "MACD": 566.7673906969849,
-    "BB_Percent": 0.7733573820340719,
+    "RSI_14": 60.35957645931299,
+    "Momentum_10": -2.38441407385868,
+    "MACD": 421.2950744068239,
+    "BB_Percent": 0.5457120230539071,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9339536899231874,
+    "ValueScore": 0.896176495882593,
     "QualityScore": 0.3689642713169055,
-    "SignalScore": 0.2984607740895363
+    "SignalScore": 0.451466460428423
   },
-  "volatility": 0.046296011730606,
+  "volatility": 0.0463317043434751,
   "beta": 0.42,
-  "return_6m": 0.0675387891694554,
+  "return_6m": 0.0004470272686634,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 7050.0
+    "target_mean_price": 7475.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 6574.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 6492.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 6415.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 6520.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 6606.0
-      },
       {
         "date": "2024-12-13",
         "price": 6711.0
@@ -525,16 +505,36 @@
       {
         "date": "2025-06-06",
         "price": 7018.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 7068.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 7000.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 6793.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 6807.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 6714.0
       }
     ],
     "current_price_data": {
-      "price": 7018.0,
-      "change": -134.0,
-      "percent_change": -1.87
+      "price": 6714.0,
+      "change": -93.0,
+      "percent_change": -1.37
     }
   },
   "news_sentiment": {
-    "summary": "La société Humacyte, Inc. a attiré l'attention des investisseurs avec un investissement de 172 000 $ de la part de Price T Rowe Associates Inc. MD. Ce mouvement souligne la confiance d'un acteur clé du marché dans le potentiel de croissance de l'entreprise. L'engagement financier de cette envergure pourrait être interprété comme un signal positif pour les investisseurs intéressés par le secteur de la santé et des biotechnologies. La confiance affichée par Price T Rowe Associates Inc. MD pourrait également influencer positivement le sentiment de marché autour de Humacyte, Inc.",
+    "summary": "L'entreprise Humacyte, Inc. suscite l'intérêt des investisseurs avec une nouvelle acquisition significative de 172 000 $ par Price T Rowe Associates Inc. MD. Cette opération pourrait indiquer une confiance croissante dans le potentiel de croissance de Humacyte sur le marché boursier. Par ailleurs, la capacité de l'entreprise à attirer des investisseurs institutionnels renforce sa crédibilité et pourrait influencer positivement le sentiment de marché à son égard.",
     "sentiment_score": null,
     "label": "POSITIVE",
     "positive_ratio": 0.0,
@@ -555,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

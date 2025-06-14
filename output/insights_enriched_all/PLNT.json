@@ -2,13 +2,13 @@
   "ticker": "PLNT",
   "name": "Planet Fitness, Inc.",
   "sector": "Consumer Cyclical",
-  "market_cap": 8948453376.0,
+  "market_cap": 8641148928.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 50.372044,
-    "PB": -40.5204,
-    "EV_Revenue": 9.74,
-    "ROE": 0.1095849999999999,
+    "PE": 48.642185,
+    "PB": -39.12886,
+    "EV_Revenue": 9.66,
+    "ROE": 0.110174998,
     "ProfitMargin": 0.15905,
     "GrossMargin": 0.59679,
     "DividendYield": null,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.16061734075295261,
     "ROA": 0.06966,
     "PEG": null,
-    "EV_EBITDA": 22.071,
+    "EV_EBITDA": 21.89,
     "BuybackYield": null,
-    "PriceToFCF": 48.99057371589882
+    "PriceToFCF": 47.636274265046424
   },
   "technical_indicators": {
-    "RSI_14": 64.81859530682445,
-    "Momentum_10": 1.4169852739585913,
-    "MACD": 2.1870189367862025,
-    "BB_Percent": 0.7747361101492375,
+    "RSI_14": 52.05766488604237,
+    "Momentum_10": -0.189633075320367,
+    "MACD": 1.1976131490766448,
+    "BB_Percent": 0.3573098730961145,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9656290834295712,
-    "QualityScore": 0.3396066123762227,
-    "SignalScore": 0.4525937692015079
+    "ValueScore": 0.9582884603903062,
+    "QualityScore": 0.3475556752888704,
+    "SignalScore": 0.5644733210813018
   },
-  "volatility": 0.0206977846440997,
+  "volatility": 0.0207560682346987,
   "beta": 1.336,
-  "return_6m": 0.0642335109552891,
+  "return_6m": 0.0228722930247227,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 112.12111
+    "target_mean_price": 112.45444
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 98.67
-      },
-      {
-        "date": "2024-12-10",
-        "price": 100.17
-      },
-      {
-        "date": "2024-12-11",
-        "price": 102.01
-      },
-      {
-        "date": "2024-12-12",
-        "price": 100.26
-      },
-      {
-        "date": "2024-12-13",
-        "price": 100.34
-      },
       {
         "date": "2024-12-16",
         "price": 99.02
@@ -537,92 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 105.58
+      },
+      {
+        "date": "2025-06-09",
+        "price": 102.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 102.31
+      },
+      {
+        "date": "2025-06-11",
+        "price": 102.15
+      },
+      {
+        "date": "2025-06-12",
+        "price": 104.08
+      },
+      {
+        "date": "2025-06-13",
+        "price": 102.62
       }
     ],
     "current_price_data": {
-      "price": 105.58,
-      "change": 0.47,
-      "percent_change": 0.45
+      "price": 102.62,
+      "change": -1.46,
+      "percent_change": -1.4
     }
   },
   "news_sentiment": {
-    "summary": "Planet Fitness, Inc. (NYSE: PLNT) a récemment suscité l'intérêt des investisseurs avec des mouvements clés. Alors que certaines institutions comme AEGON ASSET MANAGEMENT UK Plc et California State Teachers Retirement System ont accru leurs participations, d'autres comme GAMMA Investing LLC et MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. ont vendu des actions. Cette tendance a été accompagnée d'analyses divergentes sur le potentiel de croissance de l'entreprise, avec des recommandations d'achat, de vente et de prudence émanant de différentes sources. Le titre a connu des fluctuations de prix, notamment une baisse de 3,2%, sur fond de projections de croissance des bénéfices plus lentes, ce qui a provoqué des réactions mitigées sur les marchés.",
-    "sentiment_score": null,
+    "summary": "Planet Fitness (PLNT) attire l'attention des investisseurs avec des avis divergents. Alors que certains analystes augmentent les objectifs de cours et recommandent l'achat, d'autres signalent une croissance des bénéfices plus lente et une baisse du cours. Malgré une volatilité récente, la société maintient une base solide de membres, ce qui suscite un intérêt croissant des investisseurs. Les perspectives à court terme semblent incertaines, mais l'entreprise reste un acteur clé du secteur des loisirs avec un potentiel de croissance à long terme.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.15,
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "AEGON ASSET MANAGEMENT UK Plc Buys 21,584 Shares of Planet Fitness, Inc. (NYSE:PLNT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVR5bG90dVc1dXVoUVliSVNJS2lIX1lUWTZtbzF2OG9hVGxsQjEzOEF2YU8yMnV5VkI2c1h6bDNQSXNka1JoX3V2dVVMWDNCVGZjYlpPQVNFZnd6cTlzRDZGVTJLVXhBLVhxeWJfamZjdnlNbF9FeVh2WFpsdXNHQ0J4b3VDMzR3dDFXLUhOWUtzdlJtSk4yUnFNMzNYbTRsenJyb1JtSW9xU2tEanVMcGtKTmxQUmpreVFuUDNhdzlmMEtyYUFwZW9PZ0lhQWM4enh1ag?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stifel Upgrades Planet Fitness (PLNT) Stock to Buy, Raises PT - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjhNUWZiNzBIRHNqYVQ2ajF5STBGWExHV1BFMmwwZ0tpU1ZMTzFUZndmV0tyUUFLSENCcUVXclBQUlFJU2s1eFZFU19tR1lTR29tT0JfUS04Z3RGOHo1cVpicDQyLUkyeDFWSHdOQnpDNENxbWZIbVNiSEp3T3psN2lkTkg5dXFl?oc=5",
+        "title": "Planet Fitness (PLNT) Receives Price Target Boost from Canaccord Genuity | PLNT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbk42SFFNX0h3ZDJKd29iYWlvOFJjTU4tbWNMUXBMNzFJYWJmeUtydHJmMWlpeVNscHpIQ3FCOEpLUFM4NWRQQXZYLUVqQ0c5SlFubHRtcHZTVmVkMEpwRlBlajJvSDhrQ3FiRTk0Qkx1bUEtZUQ0LVV3NlBOQ3hWalBRU1N3MWVlYkoyNHhQTURpVlp5RVQybFduV3QtdTdlZF9EMDBJMWNQUHQyemJSNjRyUHlFREtmYi1ZT2dwUGl4d19H?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Planet Fitness Up 11% in Three Months: Should You Buy, Sell or Hold? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0Etd1VSeXZGZVZycEY0OGZ6aTFBMWt1cV9EcGJsTDFQNU43UU96QmtpQ3pnQnoyZnZGaWlkUC1FVUhqME9lQU1BbnBPM1NwYmNzbjFFQ041bzRVRHgtZTlmQUloMXp0ZFl2b202dTYwTUk4UEtqYURPUjVPbWI3VGxnR3lRV25DRUx0WFJxcVAzZ0JoQlFXcG9pSUpSalRvQWQ4T2V5U01YVTJ1djRUSV91UG1aZWYtTHI1VlA5cEVncXBCUmFRNGNEbkVjM2p1akh2Z1JYUlBQR1RSczN5UjE1am5kWEE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How To Trade (PLNT) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcktKb1RLUFdDaUpnbF9TczRHX1MyY2JGd2JaZWFXQndOYzE5WW5zMkMzY3hOV25zWWdpSEE3NW90SWpWMWFuMnpBSjQtekhRaWlQaWpoZTZVSWo0Nk5sSkxoR1F6TUd4TXFITl9FM0R5cjlTN3B6Wm9GME1HOHRsZEtLUEdSVkVZU0l5UVJocEtUTjhpdTQ4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Planet Fitness Stock Tumbles on Slower Earnings Growth Projections - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampWQUhrc0xLZFpJa25hRjA5WGZNdlBvM1Jfal9icUpkTm1YUDMwOUhxYkxfNzNhWllHbXRocktuazRoSlFmVVFvTkhfYy1sbWlhZllzSEpwc1RJNnk4MlljYW1mczhrM25CVUg0VWJWWkRnenFZZnBPSjJDRUE1ajlmNk9zcWZSQ2pFQk9pbzJBTmdmV0c5eldNSmYzanUteHFfZkExNA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Planet Fitness, Inc. (NYSE:PLNT) Shares Acquired by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFpIRndxX1dxaHNJZDN2bWlHTmZGYmRxa1VZd2VaV1hvLV8za0VCUlJXakVxWGhxY016VG0yWTN2SWsyek9ya3lnVjQtWUEwMC1ZaVBwMkc3d2dUeENIVXFIdUNlY1pjaGRSZHZlSXFBUE8yV2QtRXRrMkZTbW5Db2Nhc0xsVGlaUVRfNzN5QV9LRnhJNEl5YzkyTmJQN0xtLWpzSVAzSEVRSmpUdFcyZ2p3MlBCem0xekhRekZBcjI5WmlsR0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Planet Fitness (PLNT) is a Strong Growth Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFVLRE4zaVpxOHdROW9haU82V1Ntb0VBZ1NUZzZXSHA0V0psMXljdlhrbnZaalhPMmJhbnZIWUdPLUJRQTh6OU8tbmlxTHZERzJFQmtwcXc0MGNWMmNSU1FkN0lTZV9RZng1SFNrZHVDZ3prMHhtRnZVdUNkbzRVVGVrMHZUU1FQOHRz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Planet Fitness (PLNT) is a Strong Growth Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFsSlB5MmtBb2Y2bUMxYmt5N0hmNVpJV3dMTWJrR3VKcGsxRlNndU9KREk1RDNvakFiYnR1UHVOS25IckJlU3dMdThNMlVzVi1fVnozMW1kVnZYTmhLVmN0TlZ3NF8wanlYRW55OUV1bDdYc3I5Tk45WVZ5ckFJWA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Reasons to Avoid PLNT and 1 Stock to Buy Instead - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRzVxZHhmcTVtNEIzS0tsdHlrSG1HTllITWl2MDVMX3hUMHpsR01ZZ0RPMnhVb2lIRXZlX1ZlbEp0dDNPSjkxcWZYajVROHNVdDBnZURGWkNoQTFxSnNOWTN5VFA2RnRLNXhEMHNUbmd3MzNaZVNLR2MzSjNwT0ROaGhnRU5vXzdCNjQ4X001NXdvVE91ZGg1RDhQUm13ZUxiMGdvUnBVZUhDWndsMm90ZTdzb3QxaDA3OXRXRktNVmVrY2tYQUhqSF9RMEVtQ0FBS2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Planet Fitness (NYSE:PLNT) Stock Price Down 3.2% - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlVKSzA5ajZMcy1DaHFVZ0sxaVhEbTE2X3ZDMzJlYUtOTWJ1aDZpSHNBUVZxU2ZQdndyOENqVXJPck9xQ1J5bXpTQzc1VnhfMUt4dnBMZEt1U21mOEtfc2ZrNDlhZS10Tnpxc1ZzVU9aUEVUZlZTUENxdlFsNFhndmhnYnFkb0F3WkpBVTBKWGdxc3RsYmRtd2VKaDl5N2c1c2U0RlZWUkZwUWM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Planet Fitness (PLNT) is a Top Growth Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53OGFHRVRNSXhXSGhRNnVPTHFMX2dySDFYT3gtS0szYTlsS1o0Y0FFd2VlRWZXZ3lrMDhDbV9VRGtrc1kwT0hwajRNalB0S3VBazFXejVNWDdfeGY1ZjFHXzYxNlE2V0N1YTdIcjZUd0xQS2NpWDhzaGg2ZzMxUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Planet Fitness, Inc. (NYSE:PLNT) Short Interest Up 20.3% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVRxM3c0ekM0ejB1N0RSUHVQVDdQSGpPWmttRnFqeDhMb2hzZXVxTzNGbmc5RkhGNVRPTG5RcW9kUGdWZklMemtqU2tJeGZncUw3VXU3UGRzMnQyaHBPSTl4dEo4MzM1cmNIWEIyaDB4eWdxQldoQUpUanVMSXJVcnk0bGVJRWxVR1I2ZUtmZGR0R2NfU0RrS1BWTWlseDBudU93emtNNi1pVFNwLWhn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why Planet Fitness (PLNT) Shares Are Sliding Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU290ZEp4N2hwOU1DUFd4SThIQXphaVBqdFNuckFPb1VqWXJ3NE9ZNTg0MmlVTkwxSUxzVkdGNlZBeEhGa1BYVGd6XzVHdjFaX0hRb09icWNkOTc2TmF1TWZOdzBVclo2SDNLbWdGa0VQazJ1ZUhHLTNSOFpnTTRnR29R?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "California State Teachers Retirement System Has $7.82 Million Holdings in Planet Fitness, Inc. (NYSE:PLNT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTnpLWS1KcnBVU180SUZLQmw1Q0FfNXR6MmsxOXdJMFpLcWZRZ0Q3YUpCTVNoSjl0UFgwdVJvWHQ4MF9LajZqQnlxaWVLam1XX1FBVjRIYmNyX0xVcjNLUUdpVlRUUGxXV2RwTFkxZ18xd1FTcGZPaGJZM1B0OHBicHRybmFOU0gtOFFJblp6TVZGN1ducWdjSjlkazFLbUd5NEtNLUdJSF9BR25ZaE9JZURVbE56blNPVHVXTnBZN0tMdjFnNTRodE5hSkJHU0w3cDRqQjNrZTdFaHlGUXJKUmhldEljV25nb0oxcQ?oc=5",
+        "title": "Northstar Advisory Group LLC Makes New $1.20 Million Investment in Planet Fitness, Inc. (NYSE:PLNT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM0JHRzBSTGliWEtWcGJROGFfVVZhdEtiSjJwa2JNX2F6MnlEMXBPenRZM3NsWFNTbFhNQWpwVGlEa25felc1R2V4RVltRkI0YWVyNDEwelU3a0xfWDlpV24xOEhqZE9sbm1rVG8zeTdBMHJOaGYzbVZ4MEtxQlBwb1NjVllDWkNSeFJFMkM1WTFUdTVLX1JqVVU5QjBMSi1uOFRBTXowRG01SjFPalg2OXRqWGdQRGxaQlgtQWIyd1BNMF81Q1NwYUZUZkpGVmJIeXpzQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,13 +571,68 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Public Employees Retirement System of Ohio Has $2.93 Million Stock Holdings in Planet Fitness, Inc. (NYSE:PLNT) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQXzZNeW1GSmpZOGs5Szd5WTJUc1YtV0NaX1dKMjJld2JMeWhHRlg5VHRXZXYweEZfY2ZMZVFnNTNxY3RRYTFhU1pVQWxUajFqMlFHcC00WVVVVktPRmw0RGdpT3lSYl9XcmNZMWhWS0M1UEI5c0NDeEJoUkJ2OFdTaWpQemlaN25hVU5ub0dLZGtxSUhqY1ltOVhyV3ZIWXQtNmhUY0ZwS1dGaE5PaWhSdnQ5aWJfVkstTDU2REo5bm1wTVg3VUdVaXZrN3ZHaEI3cmRiMkNnejRlR2ptRjVBTEhKaE40WDJqOWR6RVd1Yng?oc=5",
+        "title": "Stifel Upgrades Planet Fitness (PLNT) Stock to Buy, Raises PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPSUpCYTNHMzgySERkUEQtcDlaanBScmhXSElVX2hlSVZVR3pYTmlDNERTUDNGQzRxYUhUa3ZmcWZySUcySkw2MTkxTDB5MTN4MkJGcTFsZk9TbWpIUzRNNzdpSTlseWtJSjhLZDBiWEJxb1dkcUdyUDhGVzllZlpWMnd4YmViU0NXaGxEYUx2QmVOa21DSmo5dzFlMUM5ZGdHRk4xdmRVcUhsMXVvS1FsSTFURTFCLUhSLUF6WjRuenpkdUl2VC1GVXVCSU52eDJva2xIZFlwQ2ZiUmpvM3hNYm1iLU9rWDRDM3E3M0pRQ3Fsb3FndHc5TnRZVU84NmZRTDV1Um1qMnNLSGhPYV93UmRWYWhvZlhQOThwZkM2WHFqX0tTYm9UaWV2SmJPWDhDUUd3b05jQlF0MGlrVEs0blRleE52UTVsZ25SOTBNVWVtSUU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTON Stock Rises 22% in 3 Months: Should You Buy Now or Hold Steady? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0pTT1pMYUl1TjZiQnFsYkVBM0JEaklINFRhQWp4ZE0xTUxuY2hWWlNjOXBxa2ZiTGN5RGZJX1lZcENiUEZ3TTg5eFpzaG9QTWpCTE1LYTRvU1pxV1VCZXdpZEZBVXlPdk9kSDJ1bEhKWjVXaEZxYnpEV2NyUFpQa1hESGFqOHJYMldoQjNhSHRHaVFxYTdjdGZpVmwtLWgyd3psT1VqQ09hRFA5QlpldW1CMXFISmt4VTZ5X3RhQUpQUmdSM0VRdnRzeDZIaV9EZ0FjbExOYkZKanU3Y0s2R0VSRWoxM1Nh?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PLNT stock price drops: planet fitness’s SWOT analysis - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHNFSWVITjZWUHNBcHNUd2pVVjdZYjdFY3BEVkVKd2xsbXRhcjNLaWh3TUtzSUZ4aVE4UVFSYk82S3AzbjN3akJmMHZQVVRSazl0bW82bGZrMkMxRWZ2YXlteEJ0N0FSWHNITjBTVmJ3Z0JOOVQzNWZFaENRMkppTzE4aXVscDFkTGZJTF8wNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Planet Fitness shares stumble as outlook points to slower earnings growth - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTQ1ZkR5cTJySGJqNGhDTEhGVWwxWjVKZTQ1TDBRek1XR3JJaGk5MzBWNDRjVXBrc3lEWXZNWUZRLXRYbmhGdjRKdUFfMC1zYl9WaklBZGRNNmxkakVXTmRZMHJyN0liUDVaRXFZOW9yR3lDLWRpV0VJQ1RaSkZlNzNCdk1tUDI4eE8tSGZ2clBtbkR0R2RTVHA5MkNQd3Z4U0tYUy1sdmxOblpQc0N6bG44S1NIYVp4NEpkcmIyOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Planet Fitness Stock Tumbles on Slower Earnings Growth Projections - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQampWQUhrc0xLZFpJa25hRjA5WGZNdlBvM1Jfal9icUpkTm1YUDMwOUhxYkxfNzNhWllHbXRocktuazRoSlFmVVFvTkhfYy1sbWlhZllzSEpwc1RJNnk4MlljYW1mczhrM25CVUg0VWJWWkRnenFZZnBPSjJDRUE1ajlmNk9zcWZSQ2pFQk9pbzJBTmdmV0c5eldNSmYzanUteHFfZkExNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Planet Fitness (PLNT) Price Target Raised by Analyst | PLNT Stoc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3VsNnZmY0VBbTU4aFdwZ0JOMkVuSXc5TGpsWk1wM3BDQnExUUJ2OTBmeDZubUFheVRUU2JkZmJiNUlJeTRlQnBNMnpkQTRkWGVjZmZFZXVwWnVQQ3JjUzF0NkRZaE9abFdHelpPQThTcUZtS05sQzhHT0RocWM0V181emdMVGpkeWFEMzdDUzEtUzc0UnA1UmJrZVRfTndiRkxuTHJrb0Q?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Planet Fitness (NYSE:PLNT) Price Target Raised to $126.00 at Canaccord Genuity Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnE2WktPMGZjRFBIVFNyeHgwV2RKczNaal9haVVTMXR2TG56RHpTQ2NKYUU1UjhtZnIySmNfSUJLei1iNi04YlFUMkE5TXI3ajNYWjNxc0lraUxoY1IwQkxkOWlkMWFVXzgyZkszam9GOVl1S1NmTlVNdmlrbkI1bnAzUGdNOV9PRmRqQ1V2YmtBV3ZxcTQzSGNoWDNVaEdKUTBZUUpOUkMyMWprYmFJMHlZV2pZV1UwVXYzRXg3aC13YW80d2oxbDQ1aEwzUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Planet Fitness Up 11% in Three Months: Should You Buy, Sell or Hold? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORGdBT2FaZUVwLVdGaEx2MkkzWDVkQm1EdXAwSU5STnBCN1ppemdiYy14RHVEenJBME9lOHJBcFFpY20xcngyOXI2Z3Q0TkF1T2puTHBSU2pxTU9wR0pYZGNJMDVCeFFsaWRndkZjaWQteTdPMzVMekgtLXE2NEN3UHlMVnZEMzlrSU9vSV9YM3lMSm4xR1JJTFZsY0c2bkl2VS1HQm0wRjhUeUpocnZSYy1HZVRxWjRJMUlrSXlyY3duejh5QXQxUXZ0dk1oenNTa09qRUdzOGl4eVNOeHBaYmZRaGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Planet Fitness (NYSE:PLNT) Stock Price Down 3.2% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlVKSzA5ajZMcy1DaHFVZ0sxaVhEbTE2X3ZDMzJlYUtOTWJ1aDZpSHNBUVZxU2ZQdndyOENqVXJPck9xQ1J5bXpTQzc1VnhfMUt4dnBMZEt1U21mOEtfc2ZrNDlhZS10Tnpxc1ZzVU9aUEVUZlZTUENxdlFsNFhndmhnYnFkb0F3WkpBVTBKWGdxc3RsYmRtd2VKaDl5N2c1c2U0RlZWUkZwUWM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Planet Fitness (PLNT) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzc1cFMwWmNMUnFzMjVGLUdEc2xQaERNTmJPZmtabDRnTHIySlU0NVVDTHRHT2cxUWFna21wRXNmblU4NzdGa2tzN3ZCSWkxd1JobklhRXdBU0Mwb3ZxRHhuZkhGWDN3ajNKVUxJRVByeHNWMjYyb0tib0NRQ0g2Vg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Planet Fitness, Inc. (NYSE:PLNT) Shares Sold by MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVXUzM1B3b19aa3R4V1Q3cDNxQ01pa2NtcWRUTzVHX01VN252S2ZSU0h4U284N3FFYllhN2ZHS3l2Qmo3TkkyRG5FMUoyQ2x6S05leTdRVG1MSVptSXdvX1N3VGpKVEowNE1jWVFkckFsRjVCeXNOdmV0bG9RUmhkOTkxNnRNWUFMNjYxSkNyOEthdlJBTmdQQ1pobEY2cVBEdDZyQU5MWlFpUGVMZzFYNHVqOUVOclpBdkFfY0lyZXFTaEw1ejgyckhZRWxGUTRiM3RUV3FwUQ?oc=5",
+        "title": "Why Planet Fitness (PLNT) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53OGFHRVRNSXhXSGhRNnVPTHFMX2dySDFYT3gtS0szYTlsS1o0Y0FFd2VlRWZXZ3lrMDhDbV9VRGtrc1kwT0hwajRNalB0S3VBazFXejVNWDdfeGY1ZjFHXzYxNlE2V0N1YTdIcjZUd0xQS2NpWDhzaGg2ZzMxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Increases Stake in Planet Fitness, Inc. (NYSE:PLNT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFpIRndxX1dxaHNJZDN2bWlHTmZGYmRxa1VZd2VaV1hvLV8za0VCUlJXakVxWGhxY016VG0yWTN2SWsyek9ya3lnVjQtWUEwMC1ZaVBwMkc3d2dUeENIVXFIdUNlY1pjaGRSZHZlSXFBUE8yV2QtRXRrMkZTbW5Db2Nhc0xsVGlaUVRfNzN5QV9LRnhJNEl5YzkyTmJQN0xtLWpzSVAzSEVRSmpUdFcyZ2p3MlBCem0xekhRekZBcjI5WmlsR0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Avoid PLNT and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pa3FYeFlDa25GdTBIbWZKZnRfSExYbE9wQkdkTzRqdDdaYVdNeUhVUXNEOVMtNDFxUklKLVMwdHgxSmFCOW9QVTBYeGJoQkc2VkRtT3pjZTVuZDdUWjBDZFZFeUR5RHlkQWZuMW9GOWUzNVMxa2NV?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Planet Fitness Up 11% In Three Months: Should You Buy, Sell Or Hold? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1pNaHNNc2pLLUxUVHEwOUZ6a2YwOTdCLU5QbEZncVJQZkVLbEVaN1UyWHVoMlFhdUdObVlQdmktSm9nSm5VRUxkZms1T3o2R2RDLUlxUlZzWXpUVGxzcDEtT3VfQmV6ZWwwZ1NSd3V0ZFFCRDJhYmJvV2Y5Y1lZcTBUZTlsWks0OHFpWTRxRzVhMGU1b0VYbVEtVFE0Y0JvYjJmT2pRTDlvX2lGS2c?oc=5",
+        "title": "Planet Fitness Q4 Earnings Preview: Fitness Giant With 19.7M Members Sets Stage for 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeURlTEdjYVVjQjY3cmZFVi1CdGdkNlJpQmVsV1c5WXBxZmc0Wk9tWHFXWGdsZDZfcHVhNDFqMlg2cUI5My1fbzFiNElnNGl5N09OOTZfT2JpQzlNYjVYZmtOTEdkY3Y4c01rNWlkb1N1MUxPUXI1aGdMemNpUU1CeW1uQmlOYjdtMWVBalhyTnROXzNJdE1SNG5pOFlfd2hWcnFTNnJLV2wwWnY4WlZWV3dnNnZHRnNmZk1ZSXloSjA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jim Cramer on Planet Fitness, Inc. (PLNT): ‘It’s A Puzzle’ - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTdoSzUzMC1nM00wRzZJajg0aURwNm1aXzgySjdmRzl1ZGcwZnRJamxQUWV5V2dmLUdhY2dSRFg2cFh1UTRudXBnS0g2ZXJZbkNjdzV4d1VCMDE1OERyYV9FbXlVc3N0VXoza3pya0ZMNnFFQkY1TlVfME1md1Flag?oc=5",
+        "title": "Leisure Facilities Stocks Q3 Highlights: Planet Fitness (NYSE:PLNT) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0FGY0p3UDQyRGRVR0pFejdLNnpuVjd5RGZLaUR3U1pQNFg0NVJtd3BJT0tQby16cmY4bzBveUR0cmNtUlg1QVpkd0FQMS1VWTFVMjNRdUp1NVVmUE9qbXNBT3d5SS01YTdHcVc1LXo0aklqWVJVVFR1dDNVNTdjTzZCYXh1S21sU1gzMWJR?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Planet Fitness, IBD Stock Of The Day, Flexes Near Buy Point With Membership Growth - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDZHMFlVVUQ5TjJDOEd0Ul94MjZUTUFIczdqRHFRYVdOYVdjRU8tNTRtNjV5OGwxOGE0WTF2X0VqeklaTVFpMGhreFNTeVNISUluSHdVUlNscTBhUkFsUmpSd0c4MFRwNno2LUZxTUt6dHNfWDV2YVlsUjBxZkVmTEdZR0FfdDcyUm1MTWhlSnFNRzB3akJlLXNTUFdQaU43V1Rib2Nabk0?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

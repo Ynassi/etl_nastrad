@@ -2,16 +2,16 @@
   "ticker": "SVM",
   "name": "Silvercorp Metals Inc.",
   "sector": "Basic Materials",
-  "market_cap": 908846400.0,
+  "market_cap": 933932864.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.8925,
-    "PB": 1.2921909,
-    "EV_Revenue": 2.734,
+    "PE": 15.303571,
+    "PB": 1.3278587,
+    "EV_Revenue": 2.676,
     "ROE": 0.110139996,
     "ProfitMargin": 0.19468,
     "GrossMargin": 0.62630004,
-    "DividendYield": 0.58,
+    "DividendYield": 0.59,
     "DebtEquity": 13.437,
     "CurrentRatio": 5.054,
     "QuickRatio": 4.85,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.12743019113922438,
     "ROA": 0.06999,
     "PEG": null,
-    "EV_EBITDA": 6.006,
+    "EV_EBITDA": 5.878,
     "BuybackYield": null,
-    "PriceToFCF": 23.862169349453932
+    "PriceToFCF": 24.49162628850768
   },
   "technical_indicators": {
-    "RSI_14": 59.300621376130835,
-    "Momentum_10": 7.749355653748692,
-    "MACD": 0.1308681102239179,
-    "BB_Percent": 0.8273381337229454,
+    "RSI_14": 60.333626894190886,
+    "Momentum_10": 10.154234752075023,
+    "MACD": 0.147855715394142,
+    "BB_Percent": 0.767816844728924,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332922580793688,
-    "QualityScore": 0.3729531649694723,
-    "SignalScore": 0.4650805794238785
+    "ValueScore": 0.8948234115147471,
+    "QualityScore": 0.3814245948913358,
+    "SignalScore": 0.492381281072893
   },
-  "volatility": 0.0349856485927104,
+  "volatility": 0.0348014844257242,
   "beta": 1.149,
-  "return_6m": 0.3279935672543481,
+  "return_6m": 0.404918004722564,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 1,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 3.23
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3.2
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3.29
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3.14
-      },
-      {
-        "date": "2024-12-13",
-        "price": 3.05
-      },
       {
         "date": "2024-12-16",
         "price": 3.02
@@ -537,42 +517,52 @@
       {
         "date": "2025-06-06",
         "price": 4.17
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4.38
+      },
+      {
+        "date": "2025-06-10",
+        "price": 4.26
+      },
+      {
+        "date": "2025-06-11",
+        "price": 4.24
+      },
+      {
+        "date": "2025-06-12",
+        "price": 4.25
+      },
+      {
+        "date": "2025-06-13",
+        "price": 4.28
       }
     ],
     "current_price_data": {
-      "price": 4.17,
-      "change": -0.16,
-      "percent_change": -3.7
+      "price": 4.28,
+      "change": 0.03,
+      "percent_change": 0.71
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Silvercorp Metals Inc. (SVM) a généré des signaux contradictoires récemment. Alors que ses rapports financiers annuels montrent une croissance solide et la mise en place d'un projet majeur à coûts réduits, les résultats du quatrième trimestre ont déçu les attentes. Malgré une baisse de 33,4% de l'action en un mois, des analystes estiment que SVM est sous-évaluée et recommandent un achat, notamment en raison de ses dividendes semi-annuels. Les investisseurs devraient rester vigilants quant aux prochains résultats pour évaluer la performance future de l'entreprise.",
-    "sentiment_score": 0.1,
+    "summary": "Silvercorp Metals a annoncé des résultats financiers solides pour l'exercice 2025, accompagnés d'une expansion stratégique. Cependant, la société a manqué les estimations de bénéfices au quatrième trimestre, ce qui a entraîné une baisse du cours de l'action de 33,4% en un mois. Malgré une déclaration de dividende semi-annuel de 0,0125 $ par action, les investisseurs ont subi une perte de 39% sur les cinq dernières années, soulevant des questions sur la valorisation et la stratégie de diversification de Silvercorp Metals.",
+    "sentiment_score": 0.05,
     "label": "NEGATIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Silvercorp Just Released 2025 Annual Report: Complete Financial Performance and Growth Metrics Now Available - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0dmY1VxcEg3WUNlR0luY0E5dnBNVklPYklBb0NRdWhnSGxyUnZSdUtYam9MM0dQYUpLS0YzNlpsRHgtOU80dHpDaVhVekVfN0Z4RVhSRnQtQU1fbUVNZEVrcnh6UDdTY0toM293eW83OGE4NllxSmtfbTNtOXVha1U4Q3pHVG0tUHdmNDc1UkU?oc=5",
+        "title": "Additional Considerations Required While Assessing Silvercorp Metals' (TSE:SVM) Strong Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1BLMzZWbVlrS0ctMVYyUmVuU1o5V19PV1dHT3Y0dy1BRXJlazBGZzB1VUxpaXkyM204dEluNXdNY1FCaVR1MVRNSHNaazdzUUlvUk5lUUhYSU8xdExkTjI3bjlWaUNUZWNEYVJvUEpMSDVfbzFmMVNWYzYwX3pWWkFmdWRhTVhXUTNfOFFrSFVIQ1BWaVdlRTlXdEI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "(SVM) Investment Report (SVM:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnQzTmVZZWwya3RCMExaa3pwZkhqVWM2am1xaEdaQ1Y0ai12QmVmS1Nmai1QN21LS1RsSTktZlRDS3V0Y0psWmQ1QlROSURCQVRSNmNUMlpjdGhVd1hwZ1NaWUhnX1ZwVl9VOGtXYjB5SDBCRzZiOV96cU1xVDlsX3NhN0poUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Silvercorp Files Form 40-F Annual Report | SVM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk1TTHZ0RGpOTFprbG5oMTBCUFRrcGtzLXdtcDFNYkRsMHpDYlZuN1pzcUF2T3dEQ3RUSW9sMmd4V0QzSHFjY2FDYlhVeFJocTRCYVItbTk0ajNMX1JqQkZxRk1iRWxrQUQ4R29MaTdlMFR3Y3l4U2hJUVdIM3dncjd4clhOMXFUN3RTUXVweldJTHlWTWw5Xw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Silvercorp Metals Inc. (SVM) the Best Mining Penny Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlhpRFJxWUl4d0dnOEczZTR3cFlyRzBGa2dzaXR2cWRVY2t3NkFNZHBZTER3N3AtQTRnRG1tTDVPOWZRMjlNUHZEQVVXZWxqaXhjSDh5ZjMyUGlsZUVyQnd0WnF5SlZLb1Q1S2hicWd4bUlwTW9oMnF2VnBzT0FrWEZn?oc=5",
+        "title": "Silvercorp Updates Resource Estimate: New Technical Report Details Condor Gold Project Potential - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenR6X1hVeXRLME9aTVd4RmhIMUxBZ1ViZUVPUzVYYXJ2RFpRQkptWlIyMWJPLUd3QXBZbjVqc2dtSlN1TFZYNDgtblg4bHJSMnY3N1kyZWhHbXkzMnRnZV9odnRjUUFYZFhMWFh6TWt3aTFreFVrM1JWQVoxNHRBNklsOFdiQkJOV2h0MnRLUHVVN2NuMWpUcU84TW1lZnVUY3ZCTDdLQVVGd19zVUFNY1VTTDZMYnAtWmlKN1pZYw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,13 +571,43 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "(SVM) Strategic Investment Report (SVM:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkdNcTY4RnhHbHRqN3lhS0ctN3ZYbmpscjc5cU1OZzJScHpCdnpGMHI3dks0NDhFYUgwcW5kbmtXclBTUzhBN1FtUzh2UVU2REM1Q29LdW9PbUhKTHB5Vmk0T1h6cjd0eVpjWjVoWExVTVlLclZIbGNGRGNGdmpCQ1pMLWRDckFKMkZrM2lXUldQejg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SILVERCORP DECLARES SEMI-ANNUAL DIVIDEND OF US$0.0125 PER SHARE - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlk0VGxKOERNRktRbGdvZFdHMTV0LU9ESTBXR09pSWpBSV85eFNMcnJTYkFLUEtmVWRpSDRocGpXQk0yTTlrSHdtWmU0ZjQ4NUF6VktlSWFoMUZZRklOZEVNczR1ZzBiS1MzalRtR3FGbjYyWi1FQTlHUy1Fek9sM2ZxUGhCUzQ5YUxBMkNmbGRmQ3pkenBoRTRQaUlWb3RtdlcyTWlIV2pVMTRnbHJfWmNyT0lqMFdNT1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Silvercorp Announces Filing of the Updated Mineral Resource Estimate for its Condor Project | SVM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHI4U2RjT3VNZFk2cHRLWGV4ZTBOc1Zob0s1NHFacFdTdnpzeWt5eWctTGxXdVRLVmZ6RDlNV0ZYYW51Wm9LX010SzdIdlhzVDlkSDQ5SmtZMWJuYXhVY0s2bk4tSk0zZDBFUzdkQ0NmeHZyYzZvTmlrT3djRzRpX0pIc2ZDWUVReXRVODBIaFFxV0tyelU2THE1SnIxTHZwcHNwTlljRTdmQTh0NFZCM1NMWXZNZmFIUF8zT0pFXzF6bWtyeVNVNW1BcHdNajh6bkdCb2VhU3FTbFJPVmsw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Silvercorp Metals Reports Strong Fiscal 2025 Results and Strategic Expansion - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01RUVBmT1NzVkE4Sm5taXBlQXRGSjlPNG1jeFZjdENSblA1RWhFNHBOWTh1LXFUT1RBdTVHMzcwcENWWVJJbGFQZzhhV1FYSUJaQlJuLW9sTUYxSWdVR2hrTGNQQjNaQ2Q3SzIxNTRjQnk3eFk1THN4aUFHSGNlM0lvZ240N2hZSjI1MWxBc0I0eXF3RGtzcmUxbkxkNFctOGdDNnAwMXFTNThsLWh2LU5XNFZ0X25KZDVERUFwZGhSZlk2Y3Bj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Silvercorp Metals: Investors Could Strike Gold (Technical Analysis) (NYSE:SVM) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVJ1VjdjWEx0TXdEWHpJUlhpMTlZaGV1ckpEOG5CSTViWTFJNWRVVXhTZVR5Ykk0Z0Q4YlNQeVl0N25vWkNKTXA4ZTVWNDVMSF9fajhYSHBxNzUybldJLVJMNm84X1ZQRHM5RmpOZVBEdTFrNFVrTFpVUHpGSnRidnlLeWhpbHdMZGpuaWhmSGRxN1JVdUpPNlpJaWcwMFB2aUlHekM5YVk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Silvercorp (SVM) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlVLMDlqaERMWHhYU1VKN054em0yNkJrbm5uX1RNckUzdnN3NnI2by01S21GMkYyYWZLNzdzNTU0bGtyUTFIa0gtaVhONURPWnZIamtudno2UkRBZGVkU180MkxhRmZ5bEx3Zi1SajVwY1NzNkJhbEdydURHUlh0a01MNzVTQmtmUFVz?oc=5",
+        "title": "Silvercorp Metals (TSX:SVM) Releases Updated Mineral Resource Estimate for Condor Project - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeE1ZSFdoWHZTaWl6cVB2Y2hvTXBnZVpvYTIybWVTMkpKLWtVbE9rQlVhZExFVVU5T05rX3VhZm1GdHFzbUhUVERzeUhlMmpiaUsxaXFOZXJsb0pVNjdJQ0plMmp5LWl1YnliamIyeUhoeEYwMGpENVlrTGhITEpHT2tRdlBwM3hWNzQzZWUwbHlmUlU3VEpIOXF2UlJ4c0Z2cGNXQjQxa1lEajREV3NyMlRzbEh3amhYTnkyRmFJNzNNNDdncVV4Mms5RmZjcUx0SzN4YkxCa9IB3AFBVV95cUxNSmR4dWRncjFCSmJmYlBDZTBvcFEwaUhPNjR0S2pyLURjZGJ2azB5VGxyU0pjdERVWm00NUZjZjEwSkJEak5mYmxpTnFINHZCZ0JmemtsXzlaTlJXTkFPaTZvOFRnZmdIVTlzLVZ4cXctb2hWNUhQU1F0WDhoeEVUQlo4UjRqeFJLbU9HeGFCdVZKOHpuRl9uQnVZRFJ1LVVXeVl0Q3dLZ3YtSFhjd3pJc3hTU0RhMWJPWWZlRkZNR0V6azdEZ0hLbzNGRGdjWnRUeV9VTnFnNkp0QkhS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Silvercorp Metals Inc. (SVM) the Best Mining Penny Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlhpRFJxWUl4d0dnOEczZTR3cFlyRzBGa2dzaXR2cWRVY2t3NkFNZHBZTER3N3AtQTRnRG1tTDVPOWZRMjlNUHZEQVVXZWxqaXhjSDh5ZjMyUGlsZUVyQnd0WnF5SlZLb1Q1S2hicWd4bUlwTW9oMnF2VnBzT0FrWEZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Silvercorp Just Released 2025 Annual Report: Complete Financial Performance and Growth Metrics Now Available - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0dmY1VxcEg3WUNlR0luY0E5dnBNVklPYklBb0NRdWhnSGxyUnZSdUtYam9MM0dQYUpLS0YzNlpsRHgtOU80dHpDaVhVekVfN0Z4RVhSRnQtQU1fbUVNZEVrcnh6UDdTY0toM293eW83OGE4NllxSmtfbTNtOXVha1U4Q3pHVG0tUHdmNDc1UkU?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,14 +616,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Silvercorp Metals (SVM) Stock Rating Reaffirmed with Raised Price Target | SVM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzB1V0tORm9JT2h5UWhFU3dkbDZsODFVaWJGLVRRS1BRSjRCckpUZG00clhpQ3hTSTFMUlY5SGxhLUxGX0lNUGJCQ1V5dzItMVFyU0txSFcxYXFaZUkyc0V0REhJNEtURDZ2d2gtdy1qRF9nRTRDMzdLNWdfTmIxUEhLVGd5VEZGamRSV05jcE1Xa3hIaHM3cDZRbEc5RmR4NlJWQUxEdlZ2NGVFTzBlSm8tQmpCdWN4MUVIZzNWUGxnZnc?oc=5",
+        "title": "Silvercorp (SVM) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlVLMDlqaERMWHhYU1VKN054em0yNkJrbm5uX1RNckUzdnN3NnI2by01S21GMkYyYWZLNzdzNTU0bGtyUTFIa0gtaVhONURPWnZIamtudno2UkRBZGVkU180MkxhRmZ5bEx3Zi1SajVwY1NzNkJhbEdydURHUlh0a01MNzVTQmtmUFVz?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Silvercorp Metals: Shareholder Value Well-Funded Amid Bullish Silver (NYSE:SVM) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzlWUGZCY19aUFlIZlJzdDh3aUpmN2lrSEhPN0dGNVJsc2FrczI4QkFfSkxzbUdJdFg5QjRfZGhjdUkzRGZnLS1QOTdwMHQ1VFZiXzllV3NOOHpSR3ZrVEVWMTFweklwX3BINERocDIwajVGT0g3V05Tckp0WXA1RHhRYXhwTy1LdmpqVHNpRHZEd3RyQUdJa3A5UGU4QjNTZWV6a3pmdHJuNl8y?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "SVM Declines 33.4% in a Month: How Should You Play the Stock Now? - Yahoo Finance",
@@ -611,23 +626,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "SILVERCORP DECLARES SEMI-ANNUAL DIVIDEND OF US$0.0125 PER SHARE | SVM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0swSG5tRERDakFFQ2RzTUJPZjNyWFNPc2ZRTHg5WWFZcHZfc1BEekdUQ2s5elk0TG5CUGt0S1dOQmptRTgzTW8wcHY5eUhOSkk5YXJQNDAyZC05MHdHUVNqb3RVSmZiXzB3WGRJcUxIUDJmX3VQMWdMRDJ3MnZCZEZRZjBISGN6RldMUS03RmJ1a2NibFRzN2NyZGJ2TE1ud1RIUm40RGEyVDU2NTJmdkM5Vjc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Silvercorp's $240M El Domo Project Cuts Costs: Construction Timeline and 5 Major Development Phases Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjBkUEhwRWVfb19HUzZxQW1ZZVNaRHROVDJIWHl0SWhmMDR1U1BIakNjNzQxZF81WWp5NVlJYTYzV1ZkRjlIa3JjS0hxV0JLMEpZZERUUDZRdDAzc0lqcDdjVFJsY1p6eWQ1RnI0MWlyX3RKaHJuX2hfeEhOZkNCdjdXUGNWTERWaFZDaGZWR05zS2RiU1pVYlVNOXJXWk95cG9waTMwcmlHYm84X0hTam9RaW1lT0JT?oc=5",
-        "label": "NEUTRAL"
+        "title": "Investors in Silvercorp Metals (TSE:SVM) have unfortunately lost 39% over the last five years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2FjbHB2UHowZjBzM0JCVDlQQWEzZmxLcjJ2TWprTkNGQzdxLWlJU1RMZ0ZQa1FJaDFNOHVfbkI3RDUwTTdiekxZdF9OSjVQT19YdGNPMlc2MGN6RlA5QmNoRHVDVlV6WllWY0kwUEQ1bDFPZHJLalNQR1VnZ3BpQnUzV3FOS0NQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is Silvercorp Metals Inc. (SVM) The Best Gold Penny Stock to Buy Now? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1VZUmRnZklpa0s1bmhuN1lJQkFJNVB2VnpZVUZlV1NqdUdwRFBhME43NFNrdHBNcE1yZ1NUM1VGVVBvakNyamgzejNOcGFwemlZQXF4bDJzWjh2ZXNPdVoxcUhzdlA3Zng3N0txSm5WOXRZeW9GemZuZjlZX1dIVGRn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Roth Capital Boosts Price Target for Silvercorp Metals (SVM) | SVM Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzhmWVQwamZlYjlPTUU3cjNqT0JPMzk0dkZsWnY4c0wzZ3U2U0RtdlJfWUxSZDZUM3FqWldhcmpXY1RlamRtZWVTNWE2bll1WWRDSG95NmN5bzlORmJQTjUwQUFIdmRfOTI2aVhJWmJpVFFtZWo2LVVLdXJQNXBVSS1ZalpOWlJNTTdudkZYRmhxS1lBYkw3clZlSUxueE9HLTFocWxwY3hPeWIxQ01vYWRZOA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,26 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Strong Buy Profitable Stocks for 2025: APP, SVM, POWL - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQk9MS09taUlmbi1NTlRONXBfWWtxREE2QU1jOTBaSmVUaDFoTkdWancyTkZNNEN3bnVzLWhadW1ZaXBCd09IeFJnc1BwbmN6dnppb0h3TUNrSFJmSnlmTDZKQ2RzM1hfajVwUk5vUHhRektsMkpzVldtZktrSkZmblpn?oc=5",
+        "title": "Silvercorp Metals: Shareholder Value Well-Funded Amid Bullish Silver (NYSE:SVM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzlWUGZCY19aUFlIZlJzdDh3aUpmN2lrSEhPN0dGNVJsc2FrczI4QkFfSkxzbUdJdFg5QjRfZGhjdUkzRGZnLS1QOTdwMHQ1VFZiXzllV3NOOHpSR3ZrVEVWMTFweklwX3BINERocDIwajVGT0g3V05Tckp0WXA1RHhRYXhwTy1LdmpqVHNpRHZEd3RyQUdJa3A5UGU4QjNTZWV6a3pmdHJuNl8y?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is Silvercorp Metals (SVM) Stock Undervalued Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblVfQ2kwZHFDS1BPQl84dHFMS0xWdmY2bWQyb0pKbVJDckQ3NFNCTk9rakpRNnZvTkdiMDYzeXVCU2JTeGJIQWdIM2M0NTVXUnIzU2w5SlNOZDlDMmtkTGZWaGw1WDBFSzYzYzVSemZvOEFRd0Z3THNQQzB3elRsdF9GZjkzc0pSVC1xa09n?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Will Silvercorp (SVM) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWdLZktleUFIWGthZGNCeENERTJRQzc4TVdCelNPZnhhd0dDQ0VZaGRHQ3dTNmVPZWJGdDhEc2N1NVVQQ2VuSlBQbkNmbVFCRHZvcktlUHVfX3dSWHhZRWxjam1aTEszV1pPajlzZ3Y2TFVzaEFMdjFkYmp5djBxTThHMlA0cm5F?oc=5",
+        "title": "Silvercorp Metals (SVM) Stock Rating Reaffirmed with Raised Pric - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1lMSmJyRkpNNV9uZmw3MTZOVC00M0ZVX05zM1k0VHlYX0tMaVRHZnNCQXZGQWNVdEFuS1pJbllRNHpEMWlnMklQRWFXZ3doWFFzMzVxd3ZOcmhabWs3TmN4YkxuZGJHU2UtcW1IeUR1bmJFN1VBSXJ1a3QyVlhnaHVLbFUtRTZqSkp4UFQ5UGV4TlJzZzRJWWpta19NVW50b3ZZSkppb0hvZjBmSTJuX1YzQmgtQWlybXJWVHRWdDU3QQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Silvercorp Metals (SVM): A Top Silver Mining Stock to Buy Right Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdSZU9YRDBCXy1jU3F3S2NKVGlub3dLV0RNdmxVd2xTRERPeGpoSGdkMzNUYmd5VndvcmEzeG5pYkp0T1QyRXd1Wnhrc0xEd3FBV3VaZDZwU1JPQl91b1FJaGxPN2YzRFF4WkFmYnBDZlpSRHpSTWx3NEwxVU84THpBQ2U?oc=5",
+        "title": "Silvercorp’s Diversification Strategy Pays Too High A Price (NYSE:SVM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHM4YnZYX05XYUdfT1ZGazMwSUhiMUx6TDQzaUlBTlp5dU9tczFwTkxScDJuMFQ2bkVSMGtpZVRaR1FMOEFEZ1MydmRGc01iV0cwNEduT250TTF4VTNEV0FFWk51cThFRmdqdDNjQmsxcGNiNXJOa0FnZG94ckVWUjF5Z0ZpelJFaWwtMWt1eVR2Yk9Vc1ptaWNtUmI?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

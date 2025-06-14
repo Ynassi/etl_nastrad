@@ -2,16 +2,16 @@
   "ticker": "9531.T",
   "name": "Tokyo Gas",
   "sector": "Energy",
-  "market_cap": 1759972425728.0,
+  "market_cap": 1669554765824.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.134079,
-    "PB": 1.0337585,
-    "EV_Revenue": 1.109,
+    "PE": 24.137394,
+    "PB": 0.99328196,
+    "EV_Revenue": 1.082,
     "ROE": 0.04112,
     "ProfitMargin": 0.02814,
     "GrossMargin": 0.15406,
-    "DividendYield": 1.69,
+    "DividendYield": 1.74,
     "DebtEquity": 72.608,
     "CurrentRatio": 1.716,
     "QuickRatio": 1.152,
@@ -20,25 +20,25 @@
     "FCF_Margin": null,
     "ROA": 0.02148,
     "PEG": null,
-    "EV_EBITDA": 7.365,
+    "EV_EBITDA": 7.189,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 56.135819686520136,
-    "Momentum_10": 2.41884150222788,
-    "MACD": 16.906098548293812,
-    "BB_Percent": 0.8280417150517075,
+    "RSI_14": 44.53577741170108,
+    "Momentum_10": -4.272445820433437,
+    "MACD": -10.390483712737478,
+    "BB_Percent": 0.2250287683068663,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9325838031316812,
+    "ValueScore": 0.8935812613174974,
     "QualityScore": 0.4086509235941087,
-    "SignalScore": 0.5321782709947873
+    "SignalScore": 0.633828553932064
   },
-  "volatility": 0.016950200886582,
+  "volatility": 0.0174380793435633,
   "beta": -0.21,
-  "return_6m": 0.0590171127687582,
+  "return_6m": 0.0329621380846325,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 4558.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 4516.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 4445.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 4443.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 4492.0
-      },
       {
         "date": "2024-12-13",
         "price": 4490.0
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 4827.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4924.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 4735.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 4650.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 4597.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 4638.0
       }
     ],
     "current_price_data": {
-      "price": 4827.0,
-      "change": 85.0,
-      "percent_change": 1.79
+      "price": 4638.0,
+      "change": 41.0,
+      "percent_change": 0.89
     }
   },
   "news_sentiment": {
-    "summary": "Tokyo Gas a annoncé un programme de rachat d'actions de 40 milliards de yens, avec des projets supplémentaires pour l'année fiscale prochaine, tandis qu'Elliott, un investisseur activiste, a pris une participation dans l'entreprise. De plus, Tokyo Gas prévoit de se tourner vers des sources d'énergie plus durables telles que l'e-méthane, l'hydrogène et l'éolien. D'autre part, malgré des investisseurs institutionnels ayant subi une perte de 3,9% la semaine dernière, ils ont bénéficié d'une croissance à long terme. Par ailleurs, la filiale de Tokyo Gas a annoncé l'acquisition de Rockcliff Energy aux États-Unis pour 2,7 milliards de dollars. En parallèle, Woodside a enregistré un bénéfice au plus bas sur trois ans, tandis que l'entreprise a entamé des discussions avec plusieurs partenaires pour un projet de LNG en Louisiane. L'ensemble de ces événements pourrait influencer le sentiment de marché des investisseurs concernant ces sociétés.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "summary": "La société Tokyo Gas prévoit un groupe en croissance pour les années 2025/26 et annonce un important programme de rachat d'actions de 40 milliards de yens, avec davantage de prévus l'année prochaine. D'autre part, sa filiale prévoit l'acquisition du producteur de gaz naturel américain Rockcliff Energy pour 2,7 milliards de dollars. En parallèle, Woodside vend sa participation dans un projet de GNL en Louisiane pour 5,7 milliards de dollars, mais voit ses profits baisser à un niveau bas sur trois ans. Ces mouvements stratégiques et les résultats financiers en baisse de Woodside pourraient influencer le sentiment des investisseurs dans le secteur de l'énergie.",
+    "sentiment_score": 0.143,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.14,
+    "neutral_ratio": 0.86,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -549,23 +549,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Institutional investors in Tokyo Gas Co.,Ltd. (TSE:9531) lost 3.9% last week but have reaped the benefits of longer-term growth - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHAtZi1URUpuTnFuUEt2d29hSTVvX2pEakFySVpiNkNfSmRZcEhjZUVJZzZQUHA0cm9qSEhPSHYzalNsYWNhVTNSSHBzeEhCREtHZkNNSFlxRUp6YUVyMmhlSUhocWdtc0stbEZmS05mQ1BibzNCRk9PYmlkZDg1cy03ajJRRDh1cVV4UDFTcF9hd1FwNmN6akYteWRVbUM1NkdkcS13WnRNS0JWT0x3d09aUzJZREpmS01HQ3E4Rjd6OG9Va2dNTnNjSFhrbVA3aUHSAdcBQVVfeXFMTS1lem5DQ0Q0bEJLVDQ3ekV5OURYM0VRUnZVTjY1Y1ZERTJ0V2o1UW1oN1hoaFpMbjY1MkV1c3I3MDU1VWR4bXRjeEdhcmI1Tk5qTTFKQXhnN0RqcWdjQWVIQWJVa0dOQlNZS01QM0JlM3g3ekxEVTNHMFROdnh6STVvcnY0bWdmRWxsRGpHREtITTg4VVhhQ3RWZlV0SjZKTHJRX1NWRnE3emFCWHhrWUpjOHBKUm1Odm1JWFlKaWdGOFlORlZEZkpVSW43S0ozeHhEdUxEalE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Tokyo Gas unveils 40 bln yen share buyback, plans more next FY year - Reuters",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUE5d3JFeHVwb3NBc1VKQXZSTkJTSVh6bEN4bENfTVhSSEtrR0ExckhlTUY1Zk91c0tXc3JVMWZmb0tEa1dxWVFaaEVVbEVYb1Y2ckJGNEV2dDlkOU81V3VTWnVfNVo1OFlCTE9YSHVsblhVX2gzQldHNXVDNjVRU2phY3Z5M05RQjJRWU1yeWppUUs0U0loWXpjR291cDNna3hQSjJVTGZLVzlqeTZSTGhwZGxEWEU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Woodside’s Profit Hits Three-Year Low - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzhzdVF4U0lOY2dMdTBUTVhoXzNtTDRIRDF3TzAxaEp2cDB0a3VMaWNYVTRqQXhqTm9YRjRsWVhzX0wyYnVQdkhPb1F6Wk9jc2xvR282T3dEVDBzR2xzajhZdnJFV2pSMGw5Mm9UN2ZZX3VuQkp1STNvSHVVTVdWRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Activist investor Elliott takes stake in Tokyo Gas, filing shows - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEJPQVB5OUFIb2o4X1J0SWo0V2ZSM1BFZU03WGxGOGpoUHhsOGZuZGlRaVEwSW9Ya0ZyVVZRRlMxMzJ0WWhudlg0RC1rSVBPQjdnMkFCbWJQMEVlVDNraWUtNlh3SGFaSGdhTUtsRTdnTnd4UmNmWkpyV210T0M3Q2ZKQXpSQ3NORzFjZEU0MW41Qkp0RGNyZThzeE9zTmhBUXdyeHBsVl8zSlFGdERidkpB?oc=5",
+        "title": "Woodside Sells Louisiana LNG Stake to Stonepeak for $5.7B - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWkzUmtkLUJYamJNdDJoTEUydXh4MUJwYXZSbFRBOGs3SFJ3Rm1Dc2dJTnprYjZIQXRwTUlwQ0lERllZUFVKeFFHYXkxZ1F1aHlYR25USVd2SXNjaDl2Q0xMaU15YUFiT1BtaE5UTDNQb3poa05DdWRuTHNFTW1pNklubE9hM3RHR2YyVkd5ZlVaRnc1X2g2cmJn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -574,18 +564,13 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Woodside’s Profit Hits Three-Year Low - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzhzdVF4U0lOY2dMdTBUTVhoXzNtTDRIRDF3TzAxaEp2cDB0a3VMaWNYVTRqQXhqTm9YRjRsWVhzX0wyYnVQdkhPb1F6Wk9jc2xvR282T3dEVDBzR2xzajhZdnJFV2pSMGw5Mm9UN2ZZX3VuQkp1STNvSHVVTVdWRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "The lesson of Biden’s transformational first term - Financial Times",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92eHdSRHRFYXB5UHR5NDhfUGZZMWdLTFB5Uy1lSEZCeV9DMl9hbDFqcTRIVVEtcjFYYi1aOGpvVHFwQllJallZc3lrYnZGa01kbkFmWUhsSVlhaV94OGM5RmJKa2ZpUFl6YzRJbXlDTmE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "9531.T - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1YnJ3OU1wM3pNaDdBU2l5ZDZra1ZGT0pfd3VRZmRYcE9MMEZJdm5BTmM1eDl0TkxaYlZCVXJlUHhSZUFtRExsY2YxbkRhaHNlZXRFMFBwQXBOMjll?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tokyo Gas to turn to more e-methane, hydrogen and wind power - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVJ6aHhEMGtJcWxIUmwybmNxNDAxUnljeHdLV0pURU5DSVJsLXdULVFNUjdtM2g5YzMzVll2OGlEVF82bzNQUEtMMlZMN1lXM3dHbmlJX2ZrUHFvU21Jc3RMcGlCWUVqT1ZueHVUMG52QV9mcFlReXlNT1c0S3ktTlRzc1BxeURYUWZXYXVkN0pRUGszeEU2V1VDRW9tRXRBQVh3UjNtM0JzTmt3bm1sQ24tS1JWcUtBTkE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -595,5 +580,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

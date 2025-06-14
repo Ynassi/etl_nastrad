@@ -4,8 +4,9 @@ import yfinance as yf
 import pandas as pd
 from tqdm import tqdm
 
-# 📁 Dossier contenant les JSON enrichis (par ticker)
-DIR_JSON = "output/insights_enriched_all"
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+DIR_JSON = os.path.join(BASE_DIR, "output", "insights_enriched_all")
+
 
 def enrich_visual_data(ticker):
     try:

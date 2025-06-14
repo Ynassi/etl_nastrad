@@ -2,16 +2,16 @@
   "ticker": "CI",
   "name": "Cigna",
   "sector": "Health Care",
-  "market_cap": 82894471168.0,
+  "market_cap": 84605526016.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.286907,
-    "PB": 2.0819914,
-    "EV_Revenue": 0.41,
+    "PE": 17.653566,
+    "PB": 2.1249664,
+    "EV_Revenue": 0.414,
     "ROE": 0.13206,
     "ProfitMargin": 0.019709999,
     "GrossMargin": 0.102539994,
-    "DividendYield": 1.94,
+    "DividendYield": 1.92,
     "DebtEquity": 75.34,
     "CurrentRatio": 0.781,
     "QuickRatio": 0.648,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.029690975179300246,
     "ROA": 0.040260002,
     "PEG": null,
-    "EV_EBITDA": 9.124,
+    "EV_EBITDA": 9.225,
     "BuybackYield": null,
-    "PriceToFCF": 10.95296416909956
+    "PriceToFCF": 11.183037588769626
   },
   "technical_indicators": {
-    "RSI_14": 43.07506022295346,
-    "Momentum_10": -0.1706617019626095,
-    "MACD": -3.3759193054180514,
-    "BB_Percent": 0.4027140586133897,
+    "RSI_14": 51.476522310885024,
+    "Momentum_10": 0.5292893486208156,
+    "MACD": -1.933579141906307,
+    "BB_Percent": 0.6931986149931932,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9333187830969832,
+    "ValueScore": 0.8959813772470766,
     "QualityScore": 0.3544729272507033,
-    "SignalScore": 0.6269015972965859
+    "SignalScore": 0.5734842545424916
   },
-  "volatility": 0.0193675431362803,
+  "volatility": 0.0183147608262665,
   "beta": 0.45,
-  "return_6m": -0.0139962491537712,
+  "return_6m": 0.1345844846954254,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 319.15
-      },
-      {
-        "date": "2024-12-10",
-        "price": 311.37
-      },
-      {
-        "date": "2024-12-11",
-        "price": 294.03
-      },
-      {
-        "date": "2024-12-12",
-        "price": 282.96
-      },
-      {
-        "date": "2024-12-13",
-        "price": 281.86
-      },
       {
         "date": "2024-12-16",
         "price": 273.26
@@ -537,92 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 312.18
+      },
+      {
+        "date": "2025-06-09",
+        "price": 311.4
+      },
+      {
+        "date": "2025-06-10",
+        "price": 313.62
+      },
+      {
+        "date": "2025-06-11",
+        "price": 310.2
+      },
+      {
+        "date": "2025-06-12",
+        "price": 315.37
+      },
+      {
+        "date": "2025-06-13",
+        "price": 317.4
       }
     ],
     "current_price_data": {
-      "price": 312.18,
-      "change": 1.12,
-      "percent_change": 0.36
+      "price": 317.4,
+      "change": 2.03,
+      "percent_change": 0.64
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de Cigna (CI) est marquée par des incertitudes liées aux discussions sur les coupes de dépenses en Medicare, ce qui a entraîné une baisse du cours de l'action. Malgré cela, la société a annoncé l'ouverture de subventions en faveur de l'équité en santé, tout en recevant des avis positifs de la part de certains analystes. Cependant, des préoccupations persistantes sur les potentielles coupes budgétaires en Medicaid et sur la performance financière mitigée ont pesé sur le sentiment des investisseurs, conduisant à une baisse récente du cours de l'action.",
-    "sentiment_score": -0.4,
+    "summary": "La récente actualité entourant Cigna met en lumière plusieurs points clés. La société a révolutionné l'expérience des soins de santé avec un nouvel assistant IA, ce qui a conduit à une adoption client de 67%. Malgré une hausse significative de l'action, les avis restent partagés, avec UBS maintenant une recommandation d'achat mais The Motley Fool signalant une baisse. De plus, les nouveaux plans dentaires PPO plus compétitifs lancés par Cigna pourraient impacter positivement sa position dans le secteur. Ces développements contrastants soulignent la complexité de l'évaluation de CI pour les investisseurs.",
+    "sentiment_score": -0.05,
     "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.45,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Cigna (CI) Faces Uncertainty Amid Medicare Spending Cut Talks | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOamlCOWNSRlpwT2NCY3A2ZUlYQ1RyeE5TZWsyeGV6eTBERFhKT05jcWctV2VNbS1vUmR4THI3a3BrU2dicUNMSll3aUdxUEhjbFZRQVFoMVJ0R2JkSDl3aFNsallsMXpuUzJaQThXcFVSN19FTUhsODc2U3BlTjFOaWxYNGJCSG5wWWRKaDUtUDJwSXJsel9rX3JYZGNvVkJTTkYweVdmZkV6bjdRdEtyTm9n?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cigna Opens $3M Health Equity Grants in Hartford and St. Louis: How Nonprofits Can Apply - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHltNHFZS3JTVmRsanRlN05WYkdMTGt0T0VseF8xTGxMdk9FLUNEemlwempGMlhzTFpHYTMzSWtwZmVlQS01elpveFpoOVFsRlhMRk9MdEhxZXdoUmttY2NyTDdSaklEUnRIZkdJRnFBSnRsMlh3Y1RnMlRwaENhbjd3NnlDSUlhUG9VcUJ3X3dnNU5TalFxaTZEdHMtd1pCYk9KUDNWV20?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Cigna Group Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHlsaWtCWXJZSVJNLVhfQ3ZxR1NvdkFoTVVCaXFoOFN1X2s1UzdHQ090OEJ2LWVqTi1VWlE2SHYwbkVETmRoc0ItRzc5cUNfX2VRTHZPdmk4d19nRVhETGpsa2xQQ0hwMWlkOWxzbWYxY3dKZkNodmdHallVMTJ5VWNudnk1QXllM2JNRXdzN05zQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Cigna Group Stock Dived Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUZKODBaMENpVFNWemlzVjJZeE9qakhfNDNsTkFTZjd6Z3NKR293LW9xZ2lDdGNkVlQxMkxJcm16NUlsOFVYTDNhekRJVm9CazJQUEY1VlN0Q3BlaXdIMlNjV204SWRjYTJQQWdqVENLalBnd3VhTHRUMThBLUFyaU1B?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Molson Coors And Cigna Head My ‘Do Nothing’ Stock List - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFV2Y24yMHc1aDZRaTExLUV6M0ZReG9OYnRtRU1XWVVkbUpRUmlRM3RRaWNiMEVEenotZ1M3TWFMelpneUxsWW9QcV9aWVJRVmMxd01NeDF2NHJoUzlCRkpMNXdnM2pIUDllUXRUYVByRC10ZlU0WWJPa3NSRTJyT3NwZEc2VDA0V2tnNmczNkFGLTNVcDlfX0RRWklqbzZpZzMzalJtM2s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is The Cigna Group (CI) the Top Health Insurance Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tblVpZHlBNFF3dGJSckNPc1I5cFczV21hRHhrREt6V1ZSaWRDVlBCSFZ6eE8yWGw0M3hxdi1nN1dGeC1JWDA2SnhhdW53LXU1WTNrOFRSTUhSc0hoVDAwZllzdEhpLXpOWUhFTU1RRTBvejBsVDdJeGo1VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Marathon Petroleum's Executive Chair Brings Energy Sector Expertise to Cigna Group's Board - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX09UUnRTZ1ZodXVYMXFZNXVrbWZiQmtoNVpfbVh1Qkt1V2FSbWx2ekZIazJOQ3k4eVk5ODhnMElDb0ZSVUVYVkxleVQ5dGg0S0tjVG1kLTRtNVdncFpFVkt2VC00akFmZnI1SmRPVFdoSjd0YVZiVXZET3J5dU4wTDIzX2g5VGR2N3JDQ0xyS3M3QWtXT0I3NURhdHhRY09ublpENWRRWjd6a0JwRnI5Z3ZRR0otNjJqWDh2VTlR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CI Q1 Earnings Call: Cigna Delivers Revenue Beat and Focuses on Healthcare Innovation - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10eVJCa01CeVB5S2VLT2w3NTR5TnQydGkxQm93UXlPSWoxLUF3UnN1X1M0djNPVHZmY2Z4dlZHVVhXU1FEbS1SVTZncm43eDNYUnJGa2VmclY4MjBCbW1nNnhTcFVPd1h1cUdUaDlibHJOSzJTLUoyWUMwQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cigna Group (CI) Receives Reiterated Outperform Rating from RBC Capital | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMEJMSzNEdUVaQXRiUy1qTFdiaHpYN2pIZUpzc3JhTHlCYkZTQmdSbzlMbkFqOEhZTXFCYkhwTWVPV1dxMXk3REF5SkdnYkVmeTFZWmNOMUlOS1JQYUs2WEVWVVNXRnVMZmdUYm9MLV81VW4tamhvWnZxX3Q1VkVhaW5XUnNJQi1hdlBFZHA1dUk0dDk2X01yby1STEpRWkJESDlxNnVubGxRcHhIU01CS2EycjhQV2JydUszRjgtYXFxWDZQNFhEbExGU3pUWDNaSXlIMnd2M0lQNFZtd0p5aWZ5dU4xZWtXMkVZdmkwVXJhNG8tM1RqcGpTVVJ1VUlqMWl1aEd1Q1ZUS2NhVmN6WEp3?oc=5",
+        "title": "Cigna Revolutionizes Healthcare Experience: New AI Assistant Sees 67% Adoption Rate Among Customers - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWRkZjIyem5hNno3dExOX1RnMmJVUHlrS1J5TzkwYVBlSUVUOXBzSWlWcktiNlRqTm1RTUxtQU1wZGFOVGhOeFktYmNONC16d3E0akVMVzdHV0JKSjBwR3djbmo3YkRBRmlsQWYyMGJCRlVVWWVieVRwc1dMSERxTmszSzhFZ2wyZjd2SDVEeXdSbm1XV3RUbmhGOGhSdTFsMVd2eUNsWDJGME5RYXlCRWFxeXRMTC1UWHhv?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Cigna (CI) Faces Potential Impact from Proposed Medicare Cuts | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2dGZmNfbE92X1VVa2xYY2x2WmstYzVtbjJCdHI2Wk9vQ0kyamJ6bXJ2N2kyelJFaFZyLXJEV1pUTkV6RURZOVlRTDhDeUdlaVpSTWJSakFmWFV6RXp2cGgyN1o2TDc2bV8zVTJJUjJua1RzTjFvNWRkYTNxTTdIVl9XdHloeUxtQ1dEc1RmNVJocXVWRm1TZ3EyajNweHpEYWtBRlEzbFpFTF9oT1pkWUtR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cigna (CI) Faces Potential Earnings Challenges Amid Analyst Concerns | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzZ6Nm1tTVFtZFlueGtPcXVNcGJuTEdXRGo0NVNmY2JqZUxXaS1UXzBRNk5LWktTR2RsZ2g2QlYtNlM0MEJlaWFmN1haMmwySW9aZkJXOFF2UzV0ekd4ZkxYRmtvaGRoLXhjRXZwX2hQYzhsalp3alZyR2RJZnF6eTlRbHd3Z3l2R1FzTDlvSGNXNGJTWV80dllqNTRNd0NLVi0zd3JNMy01THJNWGFibWd5Qi0wUktHX2cw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cigna (CI) Faces Uncertainty Amid Proposed Medicaid Budget Cuts | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVVEtBUTBaODR2T0RreGV4dFlSc25KYjNtanpta2FhR19IX2pxUlVzcE9td21rMTZlYi1lSDJRYk1JR1M2b29LZFFUU3lJRUs1YjRuT2NjaG9oeW9oeDRBdW1raXJ6RC1KMWlvdi03YVlGbEdObURhN2h6ZE9wd1RjOUhIbmk1NENlYVFLeHdCbGtaRWhNWVczQndzcHc1QjNQbDlFWm80dmtXaGc5S3JVTGQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Cigna Group (CI) Target Price Raised by Barclays | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTNQTmVrTjQyNm1kWVZYY0Y3a201Sm0xUTA2US0xRkpSdGJjeHhMWC1IY21PZEJTMF8xb2VVcmcxZW5LNS1sb3pzWWdjcnRVdFJ1ejZhVDhlWERPZ2Y3UnNlLUM0c3p3WlpsaGRfMU1UcGJBQVdTcU5Wa1lZN0sybW5qc0djRTV4aFFRSEJCNGxpcW1XRW5IWDN3UjQ2Y05l?oc=5",
+        "title": "CVS or Cigna: Which Diversified Healthcare Stock Should You Own Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjF3RzJtUlIzM0RXQTNFVTRqUHlZdk5DWjFMdnRxZ0tmaWpzVkI1YWY3ZDk2WjZBRkJTU2RHUE1LRUhBc3NZdkYxY3A5RUZrNE9VMXJOaDZxeldXYVFpZzNsd1dXc2V6em80WllUVWM3YnRUc1BfOVBNTGIzcGhPQlh1cWpNaFJ5SGRxVw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Cigna Group Health Equity Impact Fund Opens 2025 Grants | CI Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGxVVjRVTFEyUzl3TjM2TzhWTGJJOWVNTEcyTW01REFpRDdkcnhsMndKcTRvUWEtU3pKU2F0Z25Cd3ZPZllwMFBIRmZaVnY1c2lEVGtBOHV1SG50aURlemM1STVZMjRIVDlFTDRKaWUzM1IySzZJeThfLWxselB4RElhMTdheHdpT2ZqREtRU1VuX0lnMU96VE5PdW5hVG5iWW9ORkV2NGxYOEp6bnkwQVowSQ?oc=5",
+        "title": "Cigna Group (CI) Stock Surges, Closing Above $314 on the New York Stock Exchange - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcVRPMy13RVUyY2pad1FQRmswczFJTms1TGtpNTQ2dFNHdFZHMzhXRE9QN3J6TVpCbVFyS1BXVzA4LWpBci1MZ2hiSXIyWHNwdEdnWW1fcVFtdzh2RUVMVHZld3ZPQXpQdVJwWU1YYXFRWml5aUYxdXhpb3U3NGd6SXlycEhHeUNDNEpYdDZrZjRRWEFFOWdOekhCVDhTdlU3eFpVOURtb2dhY0gyczQwSmliMTNCX3BVOFQxaEtB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UBS Maintains Buy Rating on Cigna (CI) Stock - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkJXa0pIR3hxZmZ2NjQ0OGppZVZwYjVLdW1LU01aZmNCbXJYQkhWa2hNdDJQZ2Y3Y1l6aFVYQUE2RkNjMXhyYUEza0cyTWVRV3hMZGt0SlM1SEhiSFpLd2ktSVRiaVdZVi1idUo3RkpLeXJNQVJGb2lkNDlFVWlHSkJwekw3cWFmdnFIZXFhZ9IBlwFBVV95cUxQVkE1cGktYnJSZjMtR0xDb3RHUXNHbkVPVkt2bWJsZkptN05XQlo4MmprcEp2Q0JaQk1SQU9jbEdWZzN4V3NHVGNPTUtyVWVxR2NZRThpWnoyMWFrREoxMDEyZFNVNnR3dFJvMW9pUEViMWRQcW5GN0ptcnpSTHJWV3RqZk5sRm1jakNFOUltLXBwZmdNb2Mw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -631,13 +581,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "UBS Maintains Buy Rating on Cigna (CI) Stock - MSN",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdktaTnMzSDIzZS0zdS1RWTdCdml3RVFqajRKWVBweDl4cTZzS05nRk55SEtVcWMyOU5BRHJ0b0xqREpKTWlyQ3BCZVFwTUIzQ3kxaTBaenNGNndWdnVPSXdndmxWSk9WeWxrNl9WMVRoalBVeFFPR2VYYXcyVkRpOHNJVjNMNkhFZVQ5ZU9uUDZkbnMzTWluR3J2aVU?oc=5",
+        "title": "Cigna Healthcare Unveils Industry-Leading AI-Powered Digital Tools for a Simple and Reliable Customer Experience | CI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX0hENmdmb0tPVkJ4V0tZNmVjc2xCTUdDRlJucFNjZHEzdVd3XzliNXNpblRsbGtXdFNZUzZTM0MyU1dqRTg1UWFEYjdhLWs4NXp1ZkhDMWJ2TEdhd1RkMUYtVjBYRHFrcVcxQ0UtRUczbjRhYVNhdjBQaHlmZXlSUVRJTWJrbGpWQlBqdXhDaFF6bTB1cGI0eF9ZNXlFUzBRaFUzNmpXbUhmR1VRbEIwNnBBekJ0WUVkVy1XSFJpbWplZk1zMUhLQ2EyM29WZmJmY3NTZkNFTXlmVy1FSnVoTExmZFBpanhQZWFEdmRtN2VVdUZrSnJj?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Cigna (CI) Stock Is Down Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRjF5NFIxb1hDUmNhZ1JYdmgtdmdUaE5LS1hOZWRRejB3aXdrNm1ldFk4VHVmTzh6Rld6emtXRTVldEhpRDBpc2F0MlNNZm0wT3FnWmd5RUdNWGRtQkhPS2c5LWpkRjk0b0I2MHFaWmVyc09BQ1dfMA?oc=5",
+        "title": "Why Cigna Group Stock Dived Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUZKODBaMENpVFNWemlzVjJZeE9qakhfNDNsTkFTZjd6Z3NKR293LW9xZ2lDdGNkVlQxMkxJcm16NUlsOFVYTDNhekRJVm9CazJQUEY1VlN0Q3BlaXdIMlNjV204SWRjYTJQQWdqVENLalBnd3VhTHRUMThBLUFyaU1B?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -646,16 +596,66 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Cigna Stock Plunges 18.7% in 3 Months: Should You Buy, Hold or Sell? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FMFBZeHg2NFBIenVTY2JmVENYNllLWVBReGVfWjdqYTROMURfMmFrMFJrVm9WeTR2c2xGMXRrRld1Uzgya2Q4UEtMS3dubzVwWDJWU2I5c0pmXy16SVlLaV9tNHpTY1lFRWhWZDlfRlNrbEtfSldwcmd3?oc=5",
+        "title": "Largest Canadian Ethereum ETF Unveils 50% Staking Plan for Enhanced Investor Returns - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkMyU3AwVDBDbXd4Mnl2dkxOY1lFNWVhNTE1MjcxOExWQUwzaW5NdE5IaVVmTUY2TThKanFHT25uZFNKYW54TTRjYTYxSGYwaG9nWFRiMHNiNVFfcjFpd0VfUzhhcFV3eFh4bVQ3Tl95aGZMNE4zeS1vYVBzdGZEQjl6cTNzalVKTVZhNU5FclE1alAwam5KdGNzSW92TzVZX1VUUnFNMnh5UHp4RVJWdmZDQl9pMTVN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Cigna (CI) Stock Is Down Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRjF5NFIxb1hDUmNhZ1JYdmgtdmdUaE5LS1hOZWRRejB3aXdrNm1ldFk4VHVmTzh6Rld6emtXRTVldEhpRDBpc2F0MlNNZm0wT3FnWmd5RUdNWGRtQkhPS2c5LWpkRjk0b0I2MHFaWmVyc09BQ1dfMA?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Brigette Elizabeth Chang Sells 50,000 Shares of CI Financial Corp. (TSE:CIX) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZVpSMng3bVFuS3kxUlJVb2VCc1lBcWlXY1lXYTJpcEoyRFdwWHA3MGpWcUt6ZVMyeWJjWW9wNVlwX002QmpqZGhkam5XazVYYlRrRGVGeXhLTlBwZTk0NDdEV1VtUlh2VEo2LThQWXpGeTdWbDRfbFZqbEhkcXJNamUyT3NBWXo1ZHdWbFFqSE9hMVVEd0Q4ZDMxWEZid1hHcHdfX211RGxOc21HaHY3c3dVQWRQcnE1UDJlVWg0eDZMX24wdTJyWEZqVQ?oc=5",
+        "title": "New PPO Dental Plans More Competitive Against HMOs | CI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUC1MRUpQNjkyVGVTNXFyTERsMjlWZDhxM3M1TFA3ZXFfSEJWSEIxSEROTVEyeFI0QUpJR3p1WHE4NVphSkNEOWJjNHVwNmVRRFVhdU1SRFFlRjczbmt6RE1hOVlSSExpZHRtNmoyQmRnRXVpTmlTbDJDekxZZHBLa1paUVVfdDJsenNuamFJdUVJR01XcWlWUmdHZURpN3gxcS0yblk0QQ?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "The Cigna Group Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHlsaWtCWXJZSVJNLVhfQ3ZxR1NvdkFoTVVCaXFoOFN1X2s1UzdHQ090OEJ2LWVqTi1VWlE2SHYwbkVETmRoc0ItRzc5cUNfX2VRTHZPdmk4d19nRVhETGpsa2xQQ0hwMWlkOWxzbWYxY3dKZkNodmdHallVMTJ5VWNudnk1QXllM2JNRXdzN05zQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Dental PPO Plans Raise Coverage Limits to $10,000: Major Insurers MetLife, Cigna Launch Enhanced Benefits - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEE0VXBaVVUycjBlQS1SQjFEN3JFeGlnVDlabDRtTmo0TlQ3elc0NVpKLUhtdDZVQW9BSkprYm5wQ0ZBYkVwME1yV2txd3hDNUh5aHlrTHZDTFBMYzNTb3JrN3BRNV9MNnpDWUgySFV3VkphZ1VFWlNMZFZyVDdXNk5BZHo4eml6MzdKTmdWWm5BdGJBUlRTNHZHX0JwdDVfNUdV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is The Cigna Group (CI) the Top Health Insurance Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tblVpZHlBNFF3dGJSckNPc1I5cFczV21hRHhrREt6V1ZSaWRDVlBCSFZ6eE8yWGw0M3hxdi1nN1dGeC1JWDA2SnhhdW53LXU1WTNrOFRSTUhSc0hoVDAwZllzdEhpLXpOWUhFTU1RRTBvejBsVDdJeGo1VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cigna (CI) Affected by Medicare Advantage Audit Expansion | CI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDJkZlFBMWdoOWUxTUNMTGVsODR2ZXZONDA3QUd0MFRmM1g0Q1RDU3ZnbGtYaGxkbEdyb0pvVm9OclBjcThPNmFXeGdFMmtkd2JJVWRXUklMNkY5ZW9fVlBtX1plU1lzbjFTVkUyOEx2dXRxU0k1eUtzVWJMZHNhRlpJS3V4WXB3dFJndmVmeWVuQzJ2Z29LVkRxQmZ4UWV6WF90YmtQZ2NZRXB5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cigna Opens $3M Health Equity Grants in Hartford and St. Louis: How Nonprofits Can Apply - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHltNHFZS3JTVmRsanRlN05WYkdMTGt0T0VseF8xTGxMdk9FLUNEemlwempGMlhzTFpHYTMzSWtwZmVlQS01elpveFpoOVFsRlhMRk9MdEhxZXdoUmttY2NyTDdSaklEUnRIZkdJRnFBSnRsMlh3Y1RnMlRwaENhbjd3NnlDSUlhUG9VcUJ3X3dnNU5TalFxaTZEdHMtd1pCYk9KUDNWV20?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Cigna Group (NYSE:CI): Among the Cheap Stocks to Buy According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EMVF3R2NuTGljV1lkV1VHU0dtWi1KMktMLWRMQ3hIMDk5N0hkaE9ibTd4U24xVjUweC1kM1JzLWV6bzhMTEpSUzUtZ1VIVWJEQXZ0NkxEWFlEcWs2NlhNWEo3dU9ReERQMi1RLUlXMkt4YzR3bzRXUUZYRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cigna's (CI) Evernorth Secures Open Access for Key Products | CI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tLMlp3SEZjLVA2NnhuMF9XN0RxOFNzNV9BS3BfdFFpRkJuQ0ZReXF3WWdMWGFnTkZjQ1BMSmx3R3FGQUh4bTEwQUxqZHE3V0xmdl9aY09RTUMwbXctanVYYUMzZnZ3V3czWDBrM2RrcmdLUGZqZFRLRjVEVkJ5dFZOUlB0cFRTcG8tend1RFc1eFByUm9DVHdNQlo1TV9TZWE0ZEIzenM0SVlvQkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum's Executive Chair Brings Energy Sector Expertise to Cigna Group's Board - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX09UUnRTZ1ZodXVYMXFZNXVrbWZiQmtoNVpfbVh1Qkt1V2FSbWx2ekZIazJOQ3k4eVk5ODhnMElDb0ZSVUVYVkxleVQ5dGg0S0tjVG1kLTRtNVdncFpFVkt2VC00akFmZnI1SmRPVFdoSjd0YVZiVXZET3J5dU4wTDIzX2g5VGR2N3JDQ0xyS3M3QWtXT0I3NURhdHhRY09ublpENWRRWjd6a0JwRnI5Z3ZRR0otNjJqWDh2VTlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cigna (CI) Soars 6.3%: Is Further Upside Left in the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NdUNiMEJITFdvX2N6TGJXTnE4a1hyRnpnWklqbXA2R2g3bHRCSlU1YUItZWlyZTQtNDZlSkt0MEoxX2xjVkZSRXhPckJCa0hjSWNMWDhodDhZN212VlFDNGVWWTVxMXVRYnlyZTJHUlFudw?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

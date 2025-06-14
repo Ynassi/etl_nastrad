@@ -2,16 +2,16 @@
   "ticker": "COST",
   "name": "Costco",
   "sector": "Consumer Staples",
-  "market_cap": 449412923392.0,
+  "market_cap": 438854189056.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 57.611427,
-    "PB": 16.56968,
-    "EV_Revenue": 1.643,
+    "PE": 56.06663,
+    "PB": 16.180382,
+    "EV_Revenue": 1.63,
     "ROE": 0.3208,
     "ProfitMargin": 0.02918,
     "GrossMargin": 0.12776,
-    "DividendYield": 0.51,
+    "DividendYield": 0.52,
     "DebtEquity": 30.157,
     "CurrentRatio": 1.015,
     "QuickRatio": 0.472,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.022652226545486577,
     "ROA": 0.087910004,
     "PEG": null,
-    "EV_EBITDA": 35.493,
+    "EV_EBITDA": 35.204,
     "BuybackYield": null,
-    "PriceToFCF": 73.95441109034066
+    "PriceToFCF": 72.12686256076577
   },
   "technical_indicators": {
-    "RSI_14": 49.646250705027875,
-    "Momentum_10": -0.3702886186606328,
-    "MACD": 10.585024779492072,
-    "BB_Percent": 0.3910625000368947,
+    "RSI_14": 42.045836825883754,
+    "Momentum_10": -4.909733480965902,
+    "MACD": 0.1591971925311099,
+    "BB_Percent": 0.0774434865684621,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.920531867639836,
+    "ValueScore": 0.879904696634403,
     "QualityScore": 0.3076944433166486,
-    "SignalScore": 0.5918845514713547
+    "SignalScore": 0.6465873288992794
   },
-  "volatility": 0.0161390323144795,
+  "volatility": 0.0162185135924643,
   "beta": 0.993,
-  "return_6m": 0.023389415843382,
+  "return_6m": 0.0026382527101271,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 32,
-    "target_mean_price": 1075.0385
+    "analyst_count": 31,
+    "target_mean_price": 1071.9752
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 987.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 993.4
-      },
-      {
-        "date": "2024-12-11",
-        "price": 994.69
-      },
-      {
-        "date": "2024-12-12",
-        "price": 988.39
-      },
-      {
-        "date": "2024-12-13",
-        "price": 989.35
-      },
       {
         "date": "2024-12-16",
         "price": 992.87
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 1014.94
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1006.18
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1007.27
+      },
+      {
+        "date": "2025-06-11",
+        "price": 996.78
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1002.71
+      },
+      {
+        "date": "2025-06-13",
+        "price": 990.21
       }
     ],
     "current_price_data": {
-      "price": 1014.94,
-      "change": 4.13,
-      "percent_change": 0.41
+      "price": 990.21,
+      "change": -12.5,
+      "percent_change": -1.25
     }
   },
   "news_sentiment": {
-    "summary": "Malgré un rebond en fin de semaine, le cours de l'action Tesla termine en nette baisse. BYD a connu une forte chute boursière suite à des baisses de prix. Costco surperforme les estimations, mais ses actions ont chuté en raison de craintes tarifaires. Lululemon et NIO ont également vu leurs cours baisser en raison de préoccupations similaires. Ces éléments pourraient influencer négativement le sentiment de marché à court terme.",
-    "sentiment_score": -0.45,
+    "summary": "Dans l'actualité récente des entreprises cotées, Costco a annoncé des bénéfices supérieurs aux attentes pour le troisième trimestre, bien que les ventes en magasin aient déçu, et suscite l'intérêt des investisseurs pour un éventuel fractionnement d'actions. D'autre part, Palantir fait face à des préoccupations quant à sa valorisation élevée et à son historique de volatilité, tandis qu'Oracle voit ses objectifs de prix reconfigurés par les analystes suite à ses résultats. Les investisseurs sont attentifs aux évolutions des prix d'actions de sociétés comme Oklo Inc., AppLovin et Tempus AI, tandis que les tensions géopolitiques entre Israël et l'Iran influencent les marchés boursiers et le prix du pétrole.",
+    "sentiment_score": null,
     "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Tesla Stock Price Rebounds but Ends the Week Down Sharply - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlBnbkd2UDlnVWZQQ1lPN3Rhd19jSlRvYmxRMmdNRkJrYjJkX3BnMnhFWHBpMHBISDJzSUFDaDhic0NLQThKVlBES1pHS0NYb3RUbC1ma0ZIWFlrbUVZaVNoZndrNEhzVE4tQ3ZoWWNTQ21xWEZQUTEzNFZiX09CY0RR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "BYD’s Misfire With Price Cuts Sparks $20 Billion Stock Selloff - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanI0NHJUNlR0NGdRVy1rNkpjVlZIQUg4Y2R6eTNUNHNwVmtCZkNCVHlNSkNyM2w0X2pEZGR1bkJ2UWFYV25OeXlrUE5jN283X2xPTHBvTzJOd21rMUtyS0VDNzBnQXVrRm9lSVZISFdxekNYNGZuYmcwZjdKM3hVYXQ2MlBZaGZMeXROOTlRT1FjTWJ2LWpjcE4xVWlBSE00dnJYdFNTYnhObFY2UzJrNmp3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Wall Street posts weekly gains, Treasury yields jump as upbeat jobs data ease economic fears - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OeGh5cW5nMUZ4bGhSNk5kUWRKVGlfMTVvMkZnVjh6ZDZlWTZQN1BhTWFzeGU2dGxBQWhnRUQxdUp5cURHZF9VNmhFamtDLXoxb3JMd1gwSU1vUEpScWxqV1NqNmRvQUthZE5yN2VaNEhXMmtpR1A5RXFhdw?oc=5",
+        "title": "Why Costco Stock (COST) May Be a Smarter Investment Than Big Tech - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZDRTU2ttMlJVQk9EQ2xuMzA3ZE9OX3hOTlgtb1JzSzFMVlJ1eG1aTE53a3FfdHcyZWl0TW1pU1M0N18zcklUME5QQWtwYzFQNFdINEs2eENhWTBVam1nR0F4NE9hSDRiblJEc1QyMHBudUhKeG5MTWRoZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Watch These Broadcom Stock Price Levels After Post-Earnings Slide - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRkd1eGZkY0VGc3RHNHRnckY5Y3p4SmdoWmM3WktmQ3RmS2NTZzM5d09vNEhmWlFTeHlWQTdya1RmZlBSVml1bzlzbFpDV1RFd2lSZkVabmpSMFp0ZFlpTGl0OEdRb0dBb29aWC12THZibnd2ZHlkQ0JKYVl2TzRWZC1uZmw4RDRnRHlwUlprYTlaM0U5b0pfVDF5U1N5Y0gwVmQ2QUJR?oc=5",
+        "title": "Israel-Iran strikes: Analyst reactions to stock selloff, oil surge - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0ptcHQwRW96Qm1MTGxYaGh2elNlNzJZVWJyNnZjN3ppZnZQUzIydzAzNHBDanAzaHJ3THRkUmhhWjRCU1JWS3hVOWdBNENPaVRQOFlIa3NwMFV0UmMzQXVDMFVsbDhONndPT2ZNZkVPR2tFVzhsUEFveGdtZERhTXdsN1lCRWVEbnJfSTRMMkRwOWxnczVUM2ZQc2ZJbGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "‘Outpacing Market Estimates,’ Says Bullish Top Analyst about Costco Stock (COST) - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFVlOUZZOHhjdEVRaWdQdzJmdjMyTHk3UzJPbVRoQTBvVThZWGhXRzYtZGxfLTVmMVlfUHZiM3pjb09PVzJnWk1pb2RNZEVQaHNCbHhJMlplVlZDaXBkT28zTnV2VUtmendDT29zcFhOUjhGZnN5NWF3OGlHa21xRExXMVdpN2RiYWZVT3BaejNfNm0tMDBOTDAydGU1MzBVYjRjNjFaUXQ?oc=5",
+        "title": "Oklo Inc. Announces Pricing of Public Offering of Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXNaSjdEMW03ZzNGYllQeGpBYkhzNkZXYTUtZzEwaWdERDdiTGgwb3hpcjFLZ01fSC1UTEx1OE5BV003d01yLUIxZ1RyRGxaRmFNNXk5cE8tWUk0d1JidFdTSjR6eVFlWFJjak5qNWdBMVlSZVVsUHIweFk4aURSeXROS1RqZlV1UW9ocVNFeUI1UnV4YW1Vd25PQ0ZvYzBpQUoyTFJwTi1IZF9JbS1KMFBSdldNWHR0bWVV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Quantum Computing Stock Jumped 25% on Wednesday—These Are the Key Price Levels to Watch - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1prN3NVcGxTc3I4RGthZ3R3akQwUmVmWXdCdDFreWJZYjJkd0pXLWZ1S0Q1T21OWnRadzNxX205d3N3WFM2QXNSWEMwdmI0YUdvWkNSVWxSVVZyVzlXZ2NIX0dBSGdXYTg3TTZRYVlxMTlPMHVFSzhMeEZGZklRWmE4OVRHcmNkLWhneGo1ZzRnTV9SdGk4aFNxVnJ0VWdEb0ZfZkdINGlEaXVFaGFZQlM4UGhldGJqYnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costco’s Earnings Beat Estimates. Why the Stock Dipped. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzRhakNDcV8wQVRMSmt4SDRfZUJWWElYZ2xTaUg3YWEzLUNjbFNDUkFabHAxV2lyWG1PZGFUOFJ5TDYxX1ZOOWZabzFDMC1ENld1Vjk2MVk0WW1iTjl1N19vczNJS2cyR2VNd0VIZ1JldXZKVWdSTXlZel9pQkVFVVd1c1FRZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costco Stock: Wholesaler Tops Q3 Earnings, Same-Store Sales Miss - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeDhhZmotVm9UajhOeGJJN2dmN24yRU9GcWxRMnpRbVY4OEhNY1JzSWZaNE4zLTJLTjFZZTBZT0VqbGFYUjFleTZPU0ptdXk1b3ZWN0VGTGVmNWxZSWlhTWIxelBZTmYzbHpxdjA4TnJaM29GTUV2VVV3STBaQVZkaXRkamNwT2hGNDRBQ2VQY3VjR2VOU3pOSjVYM2Q2Q0pmb1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ondas Holdings: A Speculative Stock With A Blue-Chip Price Tag (NASDAQ:ONDS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXlVM2s2VlhTTWJwOGZqcGMxQ0NCeUxjSndOMFpMcHZ5N3VOalpqSU1kUFV5RXFaQmk1a2RVRkZPaFhIZUxTbUpaRDllRkpJWnlhU3VsbkZpRHlmTGsyQXUxblF4Z1l0MEJhS0hFRFJ1NFFqNlFNN3VaS05lYnBCUjJlTTQ0Mjh0a2VEWEljLXBPRVU0NmhrdU5PT1NQMnZUUXUtdQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Maquoketa Watershed Continuing Cover Crop Cost Share - KMCH.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2hXTXJjaGpvS183ZnNLNEd4MWRRWWN0SUlCSGpEVkp5ZV95V3FBb3UydllDVVhlV3k2V2t4NWRFUEF5MHNkZjZQV0U5SVJCMFV0RUlTVVBHc2NPcnlRNW5HQ0wzMnIzWXg0ck1iaWJpVW1hcENVQmNNTHItUHQ4eHlwT3RjVHhY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir Stock Is on a Crash Course With History That Will Likely Be Very Costly for Investors - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUR5NVNCbW16WnBhZlZ2M1lHd0dLWS0wYmhRZTdFdjlGa0FmX3J4VExKQlBvQk9Wc1ZPWmNDek93ZGRLM1lvckw4SUwwTnJFaUYzMUxvOW5mUXNmRGlSY1R0SDVGSVF3c21JMDZsel9oY3Y3c3RMandVTzJkbFVkc1h1TXc4MkF6NjJqaS1yMy1oSnhRYTgw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AMZN Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tdHJKMDN3STJwc2Y4eFFtWHI0VkFfWFhrWk56MGRaNXlLTDFXeDRqdmJBc2UyZno1MlRMZ1NFdFhsZUFoMWNSMEJpZHBHTlhz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Veteran analyst unveils bold price target for Tempus AI stock - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWllWeWJBS0NvMlgyQWYzT3Jud2xPa3piODhGWThkTE5BZHVQWHhuWXNmMU1Cbm1wcjc3ZFB4NHZsU1JWX3h5djlXbEM5YzlUOEVWVElXdjcyaGhvMkNHcWVHaHJwcjJkZzFrVlhrQ3c2bVNsbUNlUUdNdS10eDRRYnVScDlaV01TMEdkVjBXQ3hJcVl3eTlwX3ozeHAtQQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Why Costco Stock Was Sliding Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFkxQXYxWnYyMWR6cFJnbXhIOEJMeUNzRnhKd0dubHlhLUp0cWZBRFlaSGVvTTlyMUtmdGFpTHFtSDc5ZDdZanNaWVkxWW1YWnpKQXluOEFPV0lLT29NTy14dlVJaHR3eVJtUFZIQjZhNVJ5NFJveVR4OXotMjI5R0pGUQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Chime IPO: Stock price today as financial services startup makes closely watched Nasdaq debut - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWpNdHVPMkRHMUJkU3BtTmhRVE5tdGNwUUxiSDJJQUsxUjVQN25ycktRUW1Zb3BfdDJVQnpvamF6bm1mamlmUk95ekswT3NjWmJoUjFhb2IyOF9Tb1Q0UjJ2eVdyLS1CcHpob2RWNDdvMW9TeGRaVFVKcTZQMGdqTFFFWFdDb1RwbWwwbXUxNjNRZWpQS04yS3ZWTUh6UQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Why Costco Stock Was Sliding Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDJzai1iUUtvQXV5UC05OTg4UzZIcTRBS0Jsc1p2V2VnRmg1TmhJaEFPa0o3T1Z4STRQOEpPcEtCNVJQN2xrZnloTUMxalAwOWdqMlFDcFlDb3UxWXhwWGNvOHJoUkZTT05DNE5RWE92UlNfdTFPMk1xR0dMaVM0aDJB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Lululemon stock price: LULU shares crash over tariff impact fears - Fast Company",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhPV05hN0dBMnpGNHFNM0VrQXVJazFLdThuUmNsX09vT2kySnNsUjFDakxVVnV5Y0ZXMzdwbzdBc2pKM3VCb1AxNTlwLWRXNnFtQXA3eGlXSjZIVkZIYXdBQ2JZbVMxSzZyTXJCUmpjRzYwbkh5b19YNDZmRDZtTVVZOFpPcmRMMkxDWFI3eFFHRmMxa1d4TUJidFgwQk5zVFAyZg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Sandisk Announces Pricing of Upsized Secondary Offering of Common Stock - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHNKYVB0Slhpd21PbGd4RmRRUHQ3RVlOalRGQkhrSXMxTFNwQzdxci0tZ0d6UWhmTkcxZUZmOF92SkNSRjlFWTRWYmtBMm5Mc2tDclR6RVZpRFJtRnBYVjN3YUtoUDl3YVh1TUdrN24zWTBpV19Pb2o3akF0Rk9hU01QVTVUcE0zTWpOYzVpWW1jN1U0ZEpsak5Ya2xHcUxwZEM3RVF3ckJvMC1jSUNQam5aaDRqOFFEOUloNjNVMUh4SVBPVTV3?oc=5",
+        "title": "AppLovin (NASDAQ: APP) Stock Price Prediction and Forecast 2025-2030 (June 13) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak9RbVV1LUNpUFQxQW00aUtvXzJaMGtkR21sWU9tNi1mNUsxcmhKTl9MWDdCQWktTnIyel94bTlWdUpybzE2cllwY2ZpWThzQ3p3YWpXNXJtZzVQek0tVWowV0VEajNsME9YTlMwRFVQQ2JLZjNKRk4yVmROeFZqQlVpSnIzMU5CRUZZSjhhX05CUG5KVVRJ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla's stock regains ground following Musk spat with Trump - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaU84WW9fZUNWcUJ4NUEzcThLb1U5OS1ndUhoZEFjWml6dGhnRkIxQWp1aU4wMGRGNDlOd3ZCYVl1N1M3elZwajBKcDVYRXYtNGlfNThwYUYzXzhOZzBBUE81RmtqWktVQU13Z3cwMjNfaVZBSzhpSmxhekVJdlVyek1n0gGHAUFVX3lxTE1kT0xUX29oQW5GSC1VNWxRUkJuYmpEdllDMmtoalplU01pN2UxQ1ZtNHM5bTl3OTdrV1kwOUgwTm13QUxQcHhkdzhabnBiV2ZOSFVxYWhReTZ5Y1dXVHZzTGJhdFMzcGlzdXZOVEJic0gzZllSQ3FoZDVwdlBrZE9iSEZGeDRScw?oc=5",
+        "title": "Palantir Stock Is on a Crash Course With History That Will Likely Be Very Costly for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmZuQVRTekxsSzdGODNlbGNpR3dyWmFlTGg3RlE2T0hGdWFCUEhXc3RJMTBxVXUxa2N0NHdUZklfdGNmTnNobFQyRUE1YUVLZzN0TVpzVWpRMV9yWGp4aUxBeV9pTlpTWnNtSllyNFNLYkRJUDJFVU50bTJRc2ZmSlVvTnJ5cG00?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "McDonald's analyst grills new stock price target on McCrispy reaction - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEZaM2p5eHZKZHdQOXF2dnZBOXFPLTdtQm5idjZ3R0tLdUNiYUFvOHM4TEFiNnBwbUU2dDM4YUNDbDBqLW1BdFROd2tKWDhEWGZhLWlCNm1yeVhldjNTMVA0eFd1QUd5VWhJTnhNMWNvWV8zU1FCVkNKalRld0hQY0ZaczQ3Uk8yeWRFYjZEb09rRzc5VFJ3dDFMY0hVVmQwT24xd1lTbFZha2FycXRJOA?oc=5",
+        "title": "Watch These Intel Price Levels After Stock Surged 8% Tuesday to Lead S&P 500 Gainers - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEdpREd1cGRydFhMeXRZM2pWaFhiS0Y4VmFadERrSEhsQ295MDdkQlUzSy1MTUpZcm5WWTM0a2dueEtsSDJUUXNPa1JoaVpONlR6QXJlQ2VoNk5OVFBBUUNrU2xtbFl5b1h6ZXpXcDNuc3dCMVkzM1NoLVFoN2hlSXhHMWU3a2xyeGl2VmZQdEVkQ2FWcXJwUE1fMU9hRDRtZURzQURFdVFxSFhDbnU0MnNyTHJHQnFIQl9jWDNJeUo?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Musk counts the cost of Trump feud as Tesla stock slumps wiping $150B off value - InvestmentNews",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXZKTm15Tlh3Rk9RUDZqZW1aWVZxNGVMb1B2c252NkRQRGZiWjE1TGZrTXZHX3I1bjRqM0ZVNlYzY29pdTFPRGhtM0VJcTRRa2VaaklEZUJ6LXZCS1Rvb1VTZjg0aW1HOTVzUGg2Z2h2SkhQVTVYNnB2RjQ1cFR3b1k4cnlncFl2bE9pSzYxMGFNVWFpSlFEZUpYQ29TMkNGNUdVODdLVDdlb0tFZmZEZ2ZHV3V0RTVZUUZuQkpPSGZRVEk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Circle Stock Climbs: CRCL Quadruples IPO Price as Bitcoin Regains - Decrypt",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91VGpnbGdKYmxxTFhYam45WVZBVk5Ka1RUNW10NWtLVVdMY1ZkSGJhcWp2WlVRckdWUGZKYzR5WDJtUUZsS2FORXVrU2F4bWhiNFlIbTM5bG9UcXRMVjhOeEp3amItVktTRVlwNUQycjdXbjlkYUszV2oyTdIBgwFBVV95cUxNRW5XSi12RzRYYi1jelYzTU02RlQ5d182d2dfOEljdTRrMnVsQVo0RmV4YUZZSElVX2c5dnl6dWNfTi12VGtNSk5QSjRwWlNraHgzM0U2d2VJQ2FLSUFLWDFvajFqU3ZzZ054UmM4enFONWdzUFpCVm5LQ3UzQi1kQkowOA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Don’t buy Tesla’s stock as Trump and Musk feud — yet. Here’s the price to watch. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYS1tbktNLXAwLXNCU29tcHB1ZUx4Wk01cTl4WXZTVUUtWkxqT0RkRzBUTFJtXzNXQm9zaVNocDQ1dHBSaEwxaWVFT1o5UHdJano4ZWxMTkwxWkhXRTdhN1F0NFRiRmk5ZzVRLVpGUVlzeGpCU1M1VWRRLXAzSmVXWHVkODQ4X3JmaFIwRFJpQnR5T1JFZndPbmN4b2JQQWktRnA2bTdramozdWxpOGU2QmlXOElJS1k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lululemon Delivers Solid Q1 2025 Earnings, Yet Stock Price Plunges Over Tariffs and Other Concerns - RetailWire",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ed3RCaVFSNk8wODZoUGtKNG9LZ0lJcTMtWGlhYkxVREpPcmplZDVPcWJrQ1BKYmRlbEJCNHdiMTBVNFBCczNqdENUSEw4bzVaLUh5WG42NlE1Z1pYcjVfV2FDMV9NSWszZ2o1dTFCRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "NIO Stock Volatile After Mixed Q1 Earnings, Cost Cuts And Global Expansion In Focus - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeUU5SVc3YVNKbTVJN2xVblJ4bTdfMHBNZXZ6ek1yUG90Y2JYdVlULTkwek13ckZnYzR6dEhpNW4zbXFDSmJqOXc4TE41YTUzRkdzRC0zTVQ3bmE1UlBsS29JdklBOHk2RWZicGVpLVRfV3UwSEdYVlVlek5QbGs2UTRIZUNGZlMzOG53ZkR5aFhYR3hqRFpTemltRkYxb0NGQlFfMWVlR21LckRMNzV6WDFYQ0RSQVowbWRaXzR2b0V4WkdaTXFqVlRkS1g0dXk5ejFkMHFpQlJvYjg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Costco’s (COST) Membership Model Powers Ouperformance as Headwinds Persist - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeF9MMVFCMndfZmxTLVhHYmlfck9YS0VuRWJYaWNmX1o0ZjRQdkdLZHdXN2xyWGZxSHRnT0pPNnlKS01XbVM5QzhMTGxlbFdaaW12bmpQckF5SmlfSWFTbkIxYUpSZGpZOW0zdktNdzdzbXF1cnBzdDY5NU5nZ3U0WUgzUzdSc2pp?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Costco Stock (COST) May Be a Smarter Investment Than Big Tech - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHctOXU4cW1jaldSRmhzREFGakZuSTVOZWFxV2lvdk5MT1ZJVFVVRmw3Wmt3ZDN6Zy0wMmRHRG1LbUNLTnFkd1dzZjN3UWlHdmEzRjdWclctd0xNb1d3bjVqVEpQTUl2YjNLSEt4VXZyTEQtNGI4UXRmRmtDZzJ1WVhaRmhHdEQzZXZtMjJsVUxITUlXc2xJVUU1aWJHLVBDejRJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Strategy Announces Pricing of Initial Public Offering of STRD Stock - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEprOFphYjVCWThqand0ZGp5MWh0alpzbnhNdktpZlpwbEF4Ym1UNGc0VWRqN3RTbjdvRnZOX1MtMjFxN3hwc1gtRU5IdVlvMmY0c05tNmtJMWo1M1JrN2k2cmViQ1hOZVRsNlFJenc5R2dxTFVTd3pJcnZ1ODh0VDcxNEZzakFNeURjWGw2VkFZaWRPRTdtclZ3aFQ1OGtZaldBcnlXZ2w1SDBmUjBJM05CSm5FemtBUHEyOWp2TFEwUQ?oc=5",
+        "title": "Analysts reboot Oracle stock price targets after earnings - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFZkX0NKVHNHSm96cUZKM0hfR1hSdjFiQnNvUTlKNGtrSjNUbXc1NlRqc0M4SmczazZUQ2dkcVNPSTA3dU1GdVRVeVREZUlTbE1hYk1PNkhIYk5rVGZnQUlESGNwbzdld1RrT0xqeENRei1FSndzbzhDYXN1bEgtNjlOdk9Gb0xxeGw2c1BqX3NwbnlOZkNVNDRjQnBSR092MkE?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Costco Stock Has a Big Price Tag. Some Investors Are Eyeing a Rare Split - Investopedia",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHhjWG4yR0N6WS10WFdXdU1uSFNhNUEyeGFabTRpa2RQaktuRmJaMGVpMEJhZTJpVy1GOFRWTWJpeEtyRXRRY2dvb0NuNEZLRzlBZTRGNm0xTnR5ZWwya0I0ZVB2YzUwUUFFVEY3WnNaeDRvbThLM3FFMlBvalNvbGpPS0NiVWwwZDVGZEJiUzVVTWNLUC1vM3BFVlZQWnd1NkVtcVJvcnZHRjljVGc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Costco Wholesale (NasdaqGS:COST) Announces Leadership Change With New Senior VP Appointment - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVJzUmp0OFdqTEg5d2Z6Y2FCNi1fdENab3FtWi1HYXhBUlVoVDRtS2premNqaFBqM0FSRzNJTTUzOTlIZDVOdVdISTRHUUhmN3Z0dVMySkoyVkJSUGMzZV91bjc1V2dZQ1Nmc3NPOWtvaXZJSmFUTlFlUWJ1TUxfS09JeHRZZHJkQzdJc3FnZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Watch These Oracle Price Levels as Stock Surges to Record High on Cloud Growth Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUNsTHh5eENUWTJpSkJwNGFhT0c3ck5xNXh5Y291QWtCTGhhZnpnRUt3ZnNRSEdyZVlMZi10S2ZtQnV4T0UydFVrLXl0a0Q3NjAyc0FRTlkzcHU0cktHWEF3MTN3cUZ4RHlOaUNIMnAyR1pxMlRjbFg3Z2g2azlBc1pTRU5VVU4tQ2lmbXpHSkxXaHdYU3gtRzFNdm9QMEpHT1hGdERHeGE2Q2pXenZVcEpvcDhLSEpJLUE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Analysts Think of Costco Stock Ahead of Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekZ1ZXZKbWN5WjR1XzFzNjhkRVBHbDFlR2oxb3R2T2RrNm1KNHRXZ0VIZ0FwZ1JGVWZmYmJpZXBKREUzOFRjUHMwSnFSdVVPblgtTlhoaXExWURwSDViNFczYnhGREtNTG44clR5LXpESWpZNmZtYklmOGFHWnlKcnhUWjYxeVM1UFA5R05RQ1ZsSnBGMGpxSTZqeVlxUEJZZnJVR1E1VThOTXBB?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

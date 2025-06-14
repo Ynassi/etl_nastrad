@@ -2,16 +2,16 @@
   "ticker": "UDR",
   "name": "UDR, Inc.",
   "sector": "Real Estate",
-  "market_cap": 15419137024.0,
+  "market_cap": 15456835584.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 113.611115,
-    "PB": 4.1196613,
-    "EV_Revenue": 12.12,
+    "PE": 113.888885,
+    "PB": 4.129734,
+    "EV_Revenue": 12.306,
     "ROE": 0.02848,
     "ProfitMargin": 0.07222,
     "GrossMargin": 0.66486,
-    "DividendYield": 4.2,
+    "DividendYield": 4.1,
     "DebtEquity": 136.541,
     "CurrentRatio": 0.541,
     "QuickRatio": 0.004,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.3623993593769599,
     "ROA": 0.018029999,
     "PEG": null,
-    "EV_EBITDA": 20.616,
+    "EV_EBITDA": 20.933,
     "BuybackYield": null,
-    "PriceToFCF": 25.04275247879744
+    "PriceToFCF": 25.152562643495493
   },
   "technical_indicators": {
-    "RSI_14": 45.95074556851543,
-    "Momentum_10": 1.9825486630769824,
-    "MACD": -0.2389862842849979,
-    "BB_Percent": 0.3841758419327414,
+    "RSI_14": 46.017724266843096,
+    "Momentum_10": -1.182721879935834,
+    "MACD": -0.0576497514732707,
+    "BB_Percent": 0.4134234919730489,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9170788291248404,
+    "ValueScore": 0.8455251879257253,
     "QualityScore": 0.4036631052408032,
-    "SignalScore": 0.5922067860375873
+    "SignalScore": 0.6079524287782778
   },
-  "volatility": 0.0169949870454855,
+  "volatility": 0.0171421416043666,
   "beta": 0.833,
-  "return_6m": -0.0686138371917365,
+  "return_6m": -0.0585684612011645,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 44.89
-      },
-      {
-        "date": "2024-12-10",
-        "price": 44.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 44.31
-      },
-      {
-        "date": "2024-12-12",
-        "price": 44.82
-      },
-      {
-        "date": "2024-12-13",
-        "price": 44.47
-      },
       {
         "date": "2024-12-16",
         "price": 44.74
@@ -537,33 +517,68 @@
       {
         "date": "2025-06-06",
         "price": 41.07
+      },
+      {
+        "date": "2025-06-09",
+        "price": 41.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 41.95
+      },
+      {
+        "date": "2025-06-11",
+        "price": 41.57
+      },
+      {
+        "date": "2025-06-12",
+        "price": 41.94
+      },
+      {
+        "date": "2025-06-13",
+        "price": 41.23
       }
     ],
     "current_price_data": {
-      "price": 41.07,
-      "change": 0.09,
-      "percent_change": 0.22
+      "price": 41.23,
+      "change": -0.71,
+      "percent_change": -1.69
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente autour de UDR, Inc. (NYSE:UDR) montre un intérêt croissant des investisseurs institutionnels, avec des acquisitions et des ventes importantes de parts. Les analystes semblent partagés quant à la performance future de UDR, avec des prévisions de hausse de 10,64% mais des inquiétudes liées à une baisse récente de 3% après les résultats trimestriels. Malgré des mouvements de vente de certains actionnaires importants, la déclaration de dividendes par UDR peut être perçue comme un signe de stabilité pour les investisseurs.",
-    "sentiment_score": -0.1,
+    "summary": "Les récentes nouvelles sur UDR (NYSE: UDR) révèlent une tendance baissière, avec une réduction des objectifs de prix par Scotiabank, justifiée par un marché locatif qui s'affaiblit. Malgré cela, la société a déclaré des dividendes trimestriels stables, ce qui pourrait attirer les investisseurs à la recherche de rendements. Des ajustements de positions par des investisseurs institutionnels tels que Vert Asset Management et Toronto Dominion Bank suggèrent un intérêt persistant pour UDR malgré les incertitudes du marché.",
+    "sentiment_score": -0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "GAMMA Investing LLC Acquires 403,084 Shares of UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0U0eks0U3hzT0FKZ2JPNzdzaTJGejBPNnkyUGxGVWMtemdrdlpZR1dvMENSTzhiZEdBWHdVbk5hOVR6RE5jdHdZOXBTckhFRjl3VDhTVVktYktMMVlnQnRvaDVETXFmNzExWEExcDd1LU0yVjE1NnM0enZIWTZWcExCMkQtVGJMR1RwcUlzdWFyU0U0R0RVanl1Y0xyZGhrRFNTUDJKU2I5RXFZQWM3VExNOXFJMm04aklUTWNWQQ?oc=5",
+        "title": "Scotiabank Issues Pessimistic Forecast for UDR (NYSE:UDR) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVVUbEhtTHNqS21aUXBtU3BkbGN3YXpoc19CdEtYdlBxSGRBMDNXeWlkRlFtNHYzcGtuelNxZ2RURjlzMEZibkgxR2I3QnlEaGhNdVlCNXJrWlZSRWd2VGpPSGNXdkhnRG82RUdRSTJWUjlwZ2dhWk5HZDdYalR2ZGZXUF9xTzNqbVV6Ty1vQ3NNZGNJMFZfRWdXZ2FlTFZUbG9vOGtKSEdJRnVBVVo4WjFheng2RS16c0VmMQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UDR Stock: Scotiabank Adjusts Price Target | UDR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2RkYXdLWUZMTFRyek0yVGhnVW9GNlJBckJKejNZSXNJampDdXNZcm5qWVVWZ2lZM2dNc1Y2Uk9qbGdYYURTbk5Eems2Z2FZWU54TldMc05DQ2liYUh1MzVMQzAwQU9pcmJkTGRLM1hFajVmSDhZejAzRF9RYnFYMTA0SDUycWg2eGpWWm9vT01CZHJMRmh0R09iZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is it Wise to Retain UDR Stock in Your Portfolio for Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSF9SeFNhRmpWT1h0U2xFVVlydnZfc3hBLXBlbFY0S2NBNTlkTHBGXzFRTDNNTE1ENWlIXzg4VHRiR2tpcXVGOHgwTF9fT2ZveWROQ3FDa3RpUWpzS0ZhbmFQQmtYajRMMl95OTZwNk9tbG45cGd4THAyckVnUlY3Qlk4Zw?oc=5",
+        "title": "UDR Declares Quarterly Dividends - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjRYYzlwNGRWRHRhNUJhRUdIV0RsOTdsY1ctdHhhQzdfMXJKQmNMU2t4bV95SjVUOV9UWWMySGpQLVVsWFJRNUlpVmZxbmE5dHpZa0FNSG1QNFlJNzJ6YlBvWDRjenloOU5FbGZxQnBQVnJDckE3bTJDMllsbjBtbXJR?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "UDR: Rental Market Softening Justifies Recent Underperformance - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdF9aczNPOTAwNHBGbFFoMGw0ZGJ1d2xDejg3SFU5V2ppUnFCQmFLdUtZRmI0QXo5c3dTc0E5TDg0Z3ZSR3dEODF6aW9LSUVWckJLSm1uRjVZaHE2Zno1aWVjc3J5TTJqZVMzQmVVY2NYZXJ5YktwMkRmaTZNZDNJak10SVRGM3FraU5vR3ZVSEpzRXpNZzdocFhNdU1Ddkp1aGlmdg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UDR Stock Target Reduced by Scotiabank Amid Market Concerns | UDR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjRGa2RVaklNRjJFVjFaemhZZWZ2dWVnV2MzTUUySDhKX3RuRTdqYVpka3I5TEhIMGZncXFOazhpTjNyUXFpVzFQMG9mRjM5MW9OOVZsUmM1M0tobVVWQ29lMVctSlhUYjZ5OVdIcmVLMVJ1WTFkcFZfR1Q0dW5jM0pxeUotRU5pdlhDTUZqbU1DLXFYMGdxX3NtQi1LdWVMTEFMTW9mTGR2Q2lqd0RTN2M3bw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Is it Wise to Retain UDR Stock in Your Portfolio for Now? - Nasdaq",
@@ -571,13 +586,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "UDR, Inc. (NYSE:UDR) Stock Position Raised by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0xDY2kyRFdSOS1RMi1WamRSTHFDdVZWQlVReXE1ckNvODhuU0ZPa1BPMmt0RnRjWDBOWUNxbElFVE9uTngyT1BxTElYQkZzVUZJMEJlZTl5MHBvZjNQYlY3RDlWTmt0WVljYjQ0Rkp6NTFIaGI5b3NaYjBSdUtCQW1sLW9kQl9lWno5LXVHS056cUZjcjU5ZXJqRFBoUFR4TWxKREZyNXlORHgyV01jRUVtLXBfTHFIbkRacElPUks4UQ?oc=5",
+        "title": "Scotiabank Adjusts Price Target on UDR to $48 From $51 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3FXMzZyS1Ixa0hSblJoUWUyUVFmdEFIUnRwZDBzeXpzZWFFZHdCRG5YdlNHMGVIaEJmaFRobjAwSGhJM2pPeTFSRms2UmRmams0LWJ3ZlBZWXlDSkRGbXFlWmZvTDFIVGZnS04zaHFOSFI3bTFJZFozdmtvYm1TXzdFSVFOWWFTNE5qOVRUWUpKZ0M5S2FzdmFsZzJxZzN2ZEVwazhvWDl5Nl96WXRHUlB1enhqX0ZJLWVVQXVTLTFtdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Wall Street Bullish Or Bearish On UDR Stock? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWW8zMVduYjBaeWgzbEZDZ21tVkdpaEJ3NHhZSVVPOVA1UzVFM2hjZ2pFZThYTVY1Vnl1aHhUbi0xRTU5SmpOMVBCZV9JallpYlNhZ3JFYmM4bDkyOFIzY0JneURIbVpERFBaMkZvalJ5eGw4RURuQ1ptN2I4UWl3eXU4VUJQTHNQMDllWVBTQzUtTjlZUmc?oc=5",
+        "title": "UDR declares $0.43 quarterly dividend on common stock By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2xLRjdIc3lTdmtsRkNVZDMxaVJLR2o3WEFCM0FtQ19qSFZyWmVkajJLNERuR1laS0ZfUFlHZGNsMGdXbi1XeTdSZDBZdVdLYlI4V0F3NklGWWI0WG5lc1Bvak1lT2gySl93TGVEMTdTRVZWUkNxQm8tUk8xXzhqOWNPSTdKZVd0R2VPamVDY1lfd0pVdE9vVk1ielU2LTd4NDhYSmRlenQxUjg?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,76 +601,61 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "UDR, Inc. (NYSE:UDR) Declares $0.43 Quarterly Dividend - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3Yzb1lxbk1jQXAtSDYwSW9tYUJ1a3cwSS1OMktjU2p2RDdFQU12RzZxOVRrQkZZemlfRFpPdjlWM0xsalA0QTExWkdPeVcxaXJlVE4tNk56Nk1UWFFTSkVYVXFoakg3MW51ekJIZ1JkelkxZDRwOTE5enhncUQ0dGNBejIxNTVKWnVjWlBxcWRwVlhPOHJBcnpuZ0dodTBkV0Jz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on UDR Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10S05NLURvaUNmUGZid1F6eEVBYi10Sl9EQlhkRXp0ckJ6TVliMjlRLWJOQXlENUM5WWVSQ3g3SjVmSkhRSXRkYzhFVmZrSXl4YmxTb2lDZjhKbkVEcWdhR0NyNU9BNVRWdUZNRFpNWnBKVFcwaXVvSEN5U1g?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UDR Declares Quarterly Dividends | UDR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQam9pVUZwT3ZBYTliMDF5LVgycEYxb01sczhPLWVIUHI5V2NBRGs3UFZaWWs5TkI2bDdtQ05KVXZRUkQ5SkdRel9NNFhQVllHVnAxX3h5UjVtejBWVGJRWC1JRHVVT2FnTkZqbDVCU0tRbTM5QTZSTGlCVTV5R1RXeHVwTDBuTF9QcEh0cjRMbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vert Asset Management LLC Raises Stake in UDR, Inc. (NYSE:UDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU1mZ2dudElzZlY3TUpZaEthWWczako1LXBpUGxYVm9zazU4cDBKOTYySm9XQTVNWnlCak1ydi14Y21WbFpjU0ZOV1FpcGtuOUhIdktvbkRwcEJuNnpiYWk1U3BxaW1qOFowaEVZSXVLWG5pNXFhclNSUll6NXdtX2loekdsUmVVblJPaTVqbWhrd2UwNVF1WlU3YTg0d2p5cWFqZXUtX09vcEJvZXJiUmc1LUxSWFVqYXF0N0lfQ2VuM2xN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UDR, Inc. (NYSE:UDR) Receives $46.44 Consensus Price Target from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDBwTkp1V1dCcGN4M1ZEandQSkg2WG9TZkZqdGF1eXhzY1ZfVXIwV01DWEdDTnNjRlNJYkRvZk9mNmExSldJYVhWeFpEVlNCQ2VtR2Zla0ZZQzdjUEJ5Vm1oUGRTTWs1YlVvdmMyT2RZOUxENFZXaEFMN2haRjloWmdmM25GOVJGeHBIbDIwdTdxU0pBVmlZTHN3bWFYOXN6T3hUM2UtQVVkTW91VFlaMTBSempIU1Rs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $18.59 Million Stock Holdings in UDR, Inc. (NYSE:UDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0U0eks0U3hzT0FKZ2JPNzdzaTJGejBPNnkyUGxGVWMtemdrdlpZR1dvMENSTzhiZEdBWHdVbk5hOVR6RE5jdHdZOXBTckhFRjl3VDhTVVktYktMMVlnQnRvaDVETXFmNzExWEExcDd1LU0yVjE1NnM0enZIWTZWcExCMkQtVGJMR1RwcUlzdWFyU0U0R0RVanl1Y0xyZGhrRFNTUDJKU2I5RXFZQWM3VExNOXFJMm04aklUTWNWQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UDR, Inc. (NYSE:UDR) Stock Position Raised by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0xDY2kyRFdSOS1RMi1WamRSTHFDdVZWQlVReXE1ckNvODhuU0ZPa1BPMmt0RnRjWDBOWUNxbElFVE9uTngyT1BxTElYQkZzVUZJMEJlZTl5MHBvZjNQYlY3RDlWTmt0WVljYjQ0Rkp6NTFIaGI5b3NaYjBSdUtCQW1sLW9kQl9lWno5LXVHS056cUZjcjU5ZXJqRFBoUFR4TWxKREZyNXlORHgyV01jRUVtLXBfTHFIbkRacElPUks4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Buys 59,443 Shares of UDR, Inc. (NYSE:UDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm9makpQVXV0aU9iaDNZWVBPdmgyNUM3bWhfSllUSU0zQm5oYmxzLS05WF9JaU9oWDFIb24wWmdUWFVYNzQwajVUa3RLNGpkX1dFY1pzbHMzMGs4NWR4OGtYWGIyaTA4Sk02Z0drb2dhemJRTDJSQVA2LWlETHp6RkhxYzlxMFlMWlBTM1VaVkJZYlZQY2RDZi1xWFd3a2dLU2pOQW1qaVF6aEgtc2VyLXRKcG1Wa00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Boosts Stock Holdings in UDR, Inc. (NYSE:UDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdE9Tc3JLaUJUaUVaWkpjUWVxM25ENFhJMjV6N01pcVRwN2E3MF9xeUdDYmVjazdMSHZEdmJ6WC1oN1V0bDh6Mk9vTEUwOVlod3lwdEFlYnU2Yng4WFlTWjFGZHNTNlFMdFVSSlN3c1JlRk56UWp4RHJCVHlLZ2RNcmJYQXlrZENTYWtEakF1QldSUGI1Nm41U2FROXktbFFWZXlkVUxfcEp1SEl2RmZKUDhkWlJ5Ql9LTm9nR3NR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Is UDR Stock Outperforming the Nasdaq? - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQdERnNkRhYWQydURrWHlGd1RVUUxtdHdoQkZLMVVGZjZTd1J3QUF6cUhDYTRHVklfZE95SG5aRTdhc3o3SDBVN3dUcVl1c2FkYnNhb3RaU3R3eEtGSm5ZQ1FxbndKa2JFd1U2Tzl2aw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "UDR, Inc. (NYSE:UDR) Shares Sold by Jane Street Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Q5eE5vZVBURlFDZ09Wc1cweWhndW9pOFREQkhNbXRwR0Q5NlVwZlJLRlYyMUZuamQ4U2Jid0hreUt6QzhpUXZnWUR0ZXFtcmtsdllKQTVPV0dnTG53NDVsczMyQnMzRWZfdjBpQ09oNkFiUTlWeHpTa280ZlJQd1JoUnFWWUlzV09yRkp0SERzWHVUVFoxT3hmajg2aW5fWW1uY2JYcVA2R19xa2dENHRSUm9nWVItbU9aX3Z3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UDR (UDR) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MVFQwX1JLS2ptYkJMRm9YY2NFNXFMc0t5QlEweVd3SUhHUmJnLS1Db0Zib1RKcVZZRXNkckU2R19fYWFQNW52Q3h0M1RaRExuNzdsUThjcmxBX2E2UE9vbm9NdnpJWk1oOWhLRHkxRU5FODMyNEVSSVREeW0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is UDR (UDR) Down 3% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2LUJmLW90aTlqajF5dVdlT1g1NVFzaFpVY3hQUld4Q2diMmhFa2FpSTN2Z3p3VG9CeEx3aXVKbHVQbVM1bFRmRUsyMkN3bElOY1pMRFA1Mno4ZDJlMVBIWXBfMk04SWJqOU5RRWZTRVdjdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is UDR Stock Underperforming the S&P 500? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HUDZONGV3UzZ2VEVoeHBBOTg2M3FCWmNyUEZlbnJxUWl2a05mZEV3amJmdi1Mci1OcUh5WDlVTy1LLS1KSERjZ01lUjkwLXpnTExWdG42bHpqYVlqMFM3bGs2UjQwYnY3WUZYX3owcVJsdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "California State Teachers Retirement System Sells 15,866 Shares of UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdENscGZBcUxENmp2a21CbEpZdGtpNkZKLUNHd1h6WEc1TC1uYkRGdDByNDc0NWFmdS1UR3V1akF6RkYxaUd4WHYtSUNvWlY3WC1wck5CN2xiaEdWVlp0X0VDbW5IU1VYaWVFdG1pRXFKR3FJOERjaDN4aC1JUUxMdzVfTlhVb0tpcGFpeWRvT3NTS1BGOGVOM00xM0t5ckFsWnBfT2JQdkFodlJ5M2FXLU9nTkxJcVYwQUFtQWtib1RIREJuXzNBa1FobmZHNXFKUGQ1ZFlyaWp2Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Has $30.53 Million Stake in UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm9makpQVXV0aU9iaDNZWVBPdmgyNUM3bWhfSllUSU0zQm5oYmxzLS05WF9JaU9oWDFIb24wWmdUWFVYNzQwajVUa3RLNGpkX1dFY1pzbHMzMGs4NWR4OGtYWGIyaTA4Sk02Z0drb2dhemJRTDJSQVA2LWlETHp6RkhxYzlxMFlMWlBTM1VaVkJZYlZQY2RDZi1xWFd3a2dLU2pOQW1qaVF6aEgtc2VyLXRKcG1Wa00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Unigestion Holding SA Grows Position in UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONF9BZlRqLTdTN0xhTGx4eTRnVFZsaUVjUm9nVk92bWp3ODhfcF9uUjdiRTFhX0FVdGFPSVBUUXRpOHlwd0lOc09mUkIySnhFS3pRWmZlc2VJZExLTjgta09va3BRTzFyTUd2THJPQWNHbXlFUVBpMkp2TWZGSWh2WDN2ZGV3a2NLcEtZbzVjUXhpanlTUHhyVjhRSldnWEFjSWdFRlVHdWM5eG5XNG9TM0h2VTBidnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UDR, Inc. (NYSE:UDR) Shares Purchased by Squarepoint Ops LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdE9Tc3JLaUJUaUVaWkpjUWVxM25ENFhJMjV6N01pcVRwN2E3MF9xeUdDYmVjazdMSHZEdmJ6WC1oN1V0bDh6Mk9vTEUwOVlod3lwdEFlYnU2Yng4WFlTWjFGZHNTNlFMdFVSSlN3c1JlRk56UWp4RHJCVHlLZ2RNcmJYQXlrZENTYWtEakF1QldSUGI1Nm41U2FROXktbFFWZXlkVUxfcEp1SEl2RmZKUDhkWlJ5Ql9LTm9nR3NR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes Position in UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0dqNDVtVUtEVGdjdEJ1MUZNWHBHaXFIS01SanByanBOZHMzc0o0d3B5WkRQQXhaZndvcFh5elR4TzE1MTZnbnFkeFdvN1VrR3JnOXNSMFoyYXlLSUhGS3BFOS14LVRLcl9ZMFdZREstcGFYbnY2eFA2ZWlMUXo0Q3V1dTRMdlFPSHJaUS1oajB2N191LUVJeWE0ZGJSRHBRREtfWUpHZkczM1ktclNqM0R5QnBqWDREMXREVWNSQTdUdEVNWEZzTEJpek5nZF9rczR6ZHJjSWoxdHpMTEE4MTNrdWFmVVVHQ2VzVUln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UDR, Inc. (NYSE:UDR) Shares Sold by Employees Retirement System of Texas - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWFVidEJvNkpfQjRqQnZweXVzWlRGMWpmUFFmVzJaVjNHYlFvdWRQUDZuSEtXSEU4NExPRFhoMklmMHNFaTdxaDA0OU54RlJraFZjNVFzelVmbUo2a0tDV0xTYU1OTW5LUS1tajg5d1liVUVxWktoODF0dGxyTXpTaUlDVW9HNGhyNER2LXp1RWE1QmV6eE11a1Zqbi1XeXBhWkVid2pKUk4yVzFMWDRTaFBJZ2cta1YyMUpMd1dlZHljbXBnbmY4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ensign Peak Advisors Inc Has $4.63 Million Stock Holdings in UDR, Inc. (NYSE:UDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY21KOEJnZzk3bHctay1XaEF1SUtNVjBaT1ZOVGtDSTdpanhqNHk1V2N3dTNrV251aDNzZGcya0trMHFqMHVyRVBzSGRfbGtETmJteVJ6VmVtbzE3dlBIa2l1aElEVXR6NHJmMXd3UVJkTmFqWTdvZDFhT19jeDE2dUVVbU9QODJBcWVSWHFHSjRoSHNXc0RST2pJYkNhampUNnR3aC1jLVlYS09ScDRoZGdNZ0Q?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UDR, Inc. (NYSE:UDR) Shares Sold by Lighthouse Investment Partners LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSC1aNG55YjBGRi1BRHp6SUgta0VNaVo4NWxHTktYNzZMZWZVbm1LUTFoeVdSUmU0X0tsUndtclhLNUJBaFVQWUJNcDc5QTdUVFNGUVBCTmFOa3AyRTlYOENHRURZUVR1di1zbFpxR211RHB5bENWY0d4eGFxejN1WjRhcmlsV0MtenY1WHoxN05PNzBvdGFhTmxjUkFLWW5TU1U3ZmJJUUlSRXEwNEhQRml5NldfRVF2cDZPX3RzR3VTTVdsSkhDdEJIZzNISTR1UmdWSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UDR Declares Quarterly Dividends - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblYtQTlXR2M0SmJoc3dUUUxlLTY0bjV5VTBkc2NJZ1pxcnRtM0N0MGlBb3NzUFFqd1Q3T2ZCNWpVSDBTc1R1LXpDbUlPV1hEbXg0QWpBcmFzX2VZMjB2R1pLRFlTQUowX09WemttdEE0TW9PNzdjSGU0ME1qNlAtZlRfb0QtbVEwX3B0OWRDenN1QWc?oc=5",
+        "title": "Is it Wise to Retain UDR Stock in Your Portfolio for Now? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG5STThYNFhhdm9TdVBseWdKZVFvN2N3REpMaDZxODAwNHhuOTFJS0JsZGhYNnpST05LN3R3c3AwdFdJdzVqMlNDOEIwWkJSVVRsVXFwdS15enAxU21oQlBJYk9nZF84cEI4N29tLUdyNTJzcHN5VlZycHNheVppdEJoRVVpbXJqbFVfREpGNnVZdEdOUVVNUmlaeG5aYmJRZ3VXam9aTG4yTWtsR2w0LVZFQm1zS2ZJb05rSnRMSnprMHhqY2xETzBPeFVYN3RCVFlQcGxSa0dlVnc?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

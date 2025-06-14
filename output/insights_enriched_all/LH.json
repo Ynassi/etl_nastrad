@@ -2,16 +2,16 @@
   "ticker": "LH",
   "name": "Labcorp",
   "sector": "Health Care",
-  "market_cap": 21225902080.0,
+  "market_cap": 21903034368.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.249712,
-    "PB": 2.558103,
-    "EV_Revenue": 2.074,
+    "PE": 30.217669,
+    "PB": 2.6397097,
+    "EV_Revenue": 2.135,
     "ROE": 0.08981,
     "ProfitMargin": 0.05546,
     "GrossMargin": 0.27889,
-    "DividendYield": 1.14,
+    "DividendYield": 1.1,
     "DebtEquity": 79.126,
     "CurrentRatio": 1.836,
     "QuickRatio": 1.281,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07345341027022848,
     "ROA": 0.0418,
     "PEG": null,
-    "EV_EBITDA": 15.917,
+    "EV_EBITDA": 16.38,
     "BuybackYield": null,
-    "PriceToFCF": 21.908961143964344
+    "PriceToFCF": 22.579997603781266
   },
   "technical_indicators": {
-    "RSI_14": 61.501864594393595,
-    "Momentum_10": 5.13507304904203,
-    "MACD": 3.7130141177576377,
-    "BB_Percent": 0.8870015936914019,
+    "RSI_14": 68.97623275147154,
+    "Momentum_10": 5.060853131597233,
+    "MACD": 5.277778713924079,
+    "BB_Percent": 0.925864930455365,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9311785510264164,
+    "ValueScore": 0.8887762688204054,
     "QualityScore": 0.3505608677427661,
-    "SignalScore": 0.4828013319952345
+    "SignalScore": 0.4651205782316416
   },
-  "volatility": 0.0155550558387688,
+  "volatility": 0.0154057849231958,
   "beta": 0.794,
-  "return_6m": 0.0967229174056141,
+  "return_6m": 0.1344414394420727,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 273.895
+    "target_mean_price": 274.61722
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 236.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 234.54
-      },
-      {
-        "date": "2024-12-11",
-        "price": 229.53
-      },
-      {
-        "date": "2024-12-12",
-        "price": 231.84
-      },
-      {
-        "date": "2024-12-13",
-        "price": 232.01
-      },
       {
         "date": "2024-12-16",
         "price": 229.62
@@ -537,37 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 253.97
+      },
+      {
+        "date": "2025-06-09",
+        "price": 255.73
+      },
+      {
+        "date": "2025-06-10",
+        "price": 259.37
+      },
+      {
+        "date": "2025-06-11",
+        "price": 259.95
+      },
+      {
+        "date": "2025-06-12",
+        "price": 261.65
+      },
+      {
+        "date": "2025-06-13",
+        "price": 261.12
       }
     ],
     "current_price_data": {
-      "price": 253.97,
-      "change": 1.84,
-      "percent_change": 0.73
+      "price": 261.12,
+      "change": -0.53,
+      "percent_change": -0.2
     }
   },
   "news_sentiment": {
-    "summary": "Labcorp (LH) a récemment élargi son portefeuille de précision en oncologie, ce qui a entraîné une hausse de son cours en bourse. Malgré des ventes internes importantes et des annonces prometteuses concernant de nouveaux tests révolutionnaires, des ventes internes d'une valeur de 494 000 $ ont été signalées. Les investisseurs sont invités à évaluer si LH reste une valeur sûre à long terme, notamment avec les lancements de nouveaux tests HPV et IST en auto-collecte. La société semble afficher des signaux mixtes en termes de valorisation, de momentum et de croissance, ce qui pourrait influencer le sentiment de marché à court terme.",
-    "sentiment_score": 0.2,
+    "summary": "Labcorp Holdings (LH) a récemment consolidé sa position sur le marché de l'oncologie précise, ce qui a entraîné une hausse de son cours boursier et une augmentation de l'objectif de prix par Morgan Stanley. Malgré une vente importante d'actions par un EVP, les analystes restent optimistes quant à la croissance future de l'entreprise, notamment en raison du lancement de nouvelles options de collecte pour le HPV et les IST. Labcorp est également salué pour ses modèles de foie en 3D exclusifs, ce qui souligne son potentiel de croissance à long terme. Les investisseurs sont invités à évaluer si l'entreprise est actuellement sous-évaluée, avec des perspectives de croissance et de valeur solides.",
+    "sentiment_score": 0.35,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "LH Stock Rises Following the Expansion of Precision Oncology Portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFJsVXJzdU40dmV4M29ZUndtS3ZKTzlpY0ZJWXpPc2FVSTR0UVo2UkVHZWt2d0JoZjJfa2pSQlpFUktxaFFjalNlVEYzR09CZHlCN2lMNGN1NzFHVVZKMndVVjlRRlJ5QVdPUXB2ZU5PdUlhQ2tOREFDNHpyWC1KeE04MjJMdkRjU2F2UWNMakxUUXdvblRRYmFvYw?oc=5",
+        "title": "LH Stock Rises Following the Expansion of Precision Oncology Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmZWVkxBQUJjQWtOY0tPcjBPYVJFcnEtRUo4T2ROSk54QVk2d0pjNlN0UU54ZUFYS29BT2VKT2sxMExBc0hEMmhtcVMzdG9fd2Z5NUFOVlhXb2JaMlZQVGVfVTJJMjBjel9rdXowa1d0ZXBrOE53SkN3dHJNRGFOV3ZPVHJCQmM?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWVIcDlmZVkwSXhMckJ2dm9yUEozdUVVQmZkc3FOZXFtSlg4bnowc0M2d0xuOFZQeXV1UHFON3dnU0RzY0dac2hKWWhYWjlyMFRXa3RsTktnWVc0LXhsYXZyLWpJSGthMjhYeDA0eGVHRTFadkxFVU9Gc2dCSnV2d1drV1I4SzJqVkpGQjFrNlBCMXNzWEJVNDFjSGtraE5DUUI1YnZXOHpyNkNMbUNsX1RQRmM0UQ?oc=5",
+        "title": "Labcorp Hldgs (LH) Price Target Raised by Morgan Stanley | LH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTRqVHpLOWxqQ1Rjd2hfMTFpSEFBUXo1UDFOZ0lNcHR2YzFZb2ZPYWtmdzFyTlE5czk2LXdGS2U5NWdMR0luV25faUlJLVJhWlFSaGlKUkl4b1FsN2hfdks1RjB0NGloV1QtZGVNUUJzd2pHRjhtMjdIOHM0T3A5WGpDUTdLU0FMV0N3Rm5VR1pCTnBNT3ZVdm4wODA2T3FCc1Q5MUIyT0V0Wlk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Labcorp (LH) is a Strong Momentum Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUUtYd0RqTVFBQ0ZMdDN2V0x5X0FqeUFaTm56RlJoa0JJWTUzemV6V0xSUF9VZGxjWW03V0RvR0xrM01nU0N5Y0h0dXV2MVFoX3NJRUJuQmZkR2VNM0hSYlgyV2xFcDhQOUFuaFc0VUtMLURlb3VGaUlyZk1sZw?oc=5",
+        "title": "Investing in Labcorp Holdings (NYSE:LH) five years ago would have delivered you a 85% gain - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY213Qno4X2x2NkRpVS1tTnhMRGJSTURFcXFKd3pHYW8zTFAtXzROYTlET0RQMHJieFdPTHdRbWFTU1lQeFJLdzZ3TjdUSm9nU2RTY2NicC1FT1pxY25qbVpFVENydWlNVGFZa3ZaOXFDR0lDOFhkaG1WR2ZIYk5IbFJGRHdPZWYyQVd6N2QzdDdWbmpOMjZYbXN3YkxnczdadjNPZzhnQkpUMlFJVS13Z3c4OGNMOTZXTU1EVHBRVGpwM1RkT1FyaVRpTjdhUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(LH) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDlrYnozQ0plREZwV0ZCaHI4TEhMZFp6aGpENE85b29FYm02eDNaSlY2eFRTVFh0YXJkZHA1M3JlMkpyZTR1UzJvZG93OFRmaU9GeF9KWVpkeENQZ2I5OFVuTjNSZ3F1NnF1T0Q3TURvbzBkZG9NTHNRQzgteFF0U0U1SU5IUUhab2hzWjBSVG55TklXQTJ6XzNndnZVYmFobnBMZmN4T1hqM1E?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,23 +581,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Labcorp Revolutionizes Cancer Care: New Test Portfolio Promises Faster Treatment Decisions - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOME5VNFYxUko2Xy0xYVcycU0zcTVBVW5ZSnA1YVFxelhFMlpuRUo5c0x6TVZGRUFYSzhqa3lwTEJUV0J0RmU0aEw0MHRzVzZNRDVjRlQ3Q1Uzb29jT0Y4X1FxZjlHb0l0WDB1eDJKakpGWFp0WE9abExjaWlUMlhOZGFkZ2x5a0lJd2JWdC11QUJ0UmtoU25QbW8yTV9DS0h6VmJBeXR2dEtVMmxLajRGczFjendDUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Labcorp Holdings Insider Sold Shares Worth $494,000, According to a Recent SEC Filing - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcGlReEpKSmNlSDlPd2cyanN0UE00MDBHZ255Znc1MEtKa0ZvR25FOFVXU2k1akdacFNkSUdXOFRPcVBQbTNJX0U4emhZd044N0FGWGN2ckQwTlpMazVfZHk1NmVpS1lfbVJPRzdsd0tObjlpUFlUNWJLVV9USlBMakFjbHRDZU1YSEJPRkFUdTAtckpJSWotclA5SUJ3ZHVrRkotZURkc3djdHRuQ0RPRU1UVnJ5OWEwMXV1STlLRHB0Rkxab0xlcEpGTXZEUlhsOE1UZHFNTi1Eb3N4OXNYU1JwUXdiMTFlX2twVXgteGZ1dGhYUVZodUgyQko?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should Value Investors Buy Labcorp (LH) Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb29QVUhTd0Q0Z1ZybkNOQlJRVnd2Tk5WZkNrNjhlSUszck9WSWRPcWNia2x5c1N3ZTNmX191MmNRMDVRWmlJSGM3N3pWOFlSZmlNREhicE5TbEZEaU8zbk5fQ2tyTW52LXlMMWhEeDI5OWpjbjBpZmhDbHBHQTkzcmtR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Labcorp to Webcast Its Annual Meeting of Shareholders May 15 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjFOR25IWVUyMmV0M095UGVrY25fUlJrX01rV2xnLU1rbEZPT1I4S21wVVNVd3l3dEV4cVl1WTlmRGdhQk5PNERGV2draUYzOVJaSy1haDZDUkhmMndZdFNTVDJ4cW5iMVRfUzFDbXVfLUVTdi1lMTVJTFNwM3dwbVdyWFp2VzNtTkh5LXZMTzFsWjQ3Q3U3bmFfQ1pRS2lReGZ1a0pzOXJubjNjempF?oc=5",
+        "title": "Labcorp Holdings Stock Outlook: Is Wall Street Bullish or Bearish? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVdEdXFfVWVZVHJPRVRSRlhNS2djMFZ0TnEzRDk3WklTNFBPaFhWYTNlR09pTlFXTWhDSU5SNXhPOWJRZUtoSkt0bUJ2ZHBwOXhyeHhsbE1XcHVVMXV5d2pMYVRRbjRVM3l5TWJsMlZtVGJSQ2UtVUJfS1lfT0d3OWFkYzBWMjlLT0VGZ2pmckdBMWtxN3hqUlM3aEZsMTVNV19qRXIwY0RHdFI5ZW9CLXF4VVdHcG1LZTBrN0ZTcjZ6c0Z5U3lRUE5Sb0FZbG15elBaMWNOdVBodw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,28 +591,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Labcorp (LH) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9COWR4d0FfUjE4MEJtVi1mWlNkWktwZFBzY2tSMG9kaGIzOFhNNDh3U1BjRjk4aXdNc3hubUs3c09RZnBwUWFqZGpZeEhWNGJuYUNFUE55Z1RnZFJMMFpJWmpnZFRmckJhQUxIZWo2UXdOcUI0S3FST0ZHaUFzQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Labcorp (LH) is a Strong Value Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZS1VEVnlmS2c2UjktcEh6c0tmVjBFRy1iZU9TNTRGWi1zeG5PdW5lcFBPN0hBY3E3VmpPZEpZTDdtZmc1bW93Y3ZfN0xJNURPdTlnUjRkSkMwNml5ckFCeThmNmNlc1Q1ZUc0MmprclA0V25JNkxjdlhjeGpEdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LH Stock to Gain From Launch of HPV and STI Self-Collection Options - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NRy1zVVBUTnJrclFReG9nTUJKd1VqZ1BVZUk2QUEwSVRKeHM1dEtKbWk4akVkbGNyX3hDNHpMMFk3c0RNTTFoa1V1c0dTZDhLMVNxMkhoMTlVRVlKaml0aEtObnp6YUNWd1hRelRVcUNfMXJER0VTaThn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "Here's Why Labcorp (LH) is a Strong Momentum Stock - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVd2lkOTVkcDRwc09EcGFsZ0h0UWZjQTh4VmVNekE2UjAwQVVlc1Q0Nmhha0dUb3NyOGVFR3RQOTJxZG16cER0Y29QVUlDeVZVcWY5Q3lyQlRYOFJIREJELWYxT3dVRW1la1lqQ3NMQmN3UWpldFlVdFRSQl9LOXM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Is Labcorp (LH) Up 2.5% Since Last Earnings Report? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1neFIteFh6Xy1NeTcxYlZGXzI1a1ZXR2twNUM0aUVXTjlqQ25fa1RWeGE1N2VzMURIWkpFZ3ZWWnlKZFNPZEd2bHdMTXBBWW1NQjd1QWc3NTVQc20taHJwQnRFRVNnMmVkSktGdWpwS0lVUQ?oc=5",
+        "title": "Analyst Boosts Price Target for Labcorp (LH) Amid Positive Growth Outlook | LH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNWZhak90UDhYMDRJSk55c0s1UVF6WnBhV3VnWGJoU203bnNQOFZ3MEx0M2F6Q1lHYkVqUVU4UTc4bVE1LW40N3ltUHZxelI0WWRoSGhPdUlaWDRJa2R6QXNVSmFzVlRIaG5NZ2FEVGJSVEFqYWpXMmk1eXdKRVV0aDByRVlKbjFDX2dFNXpUSjgxQ3JPQ3ZkUXVBOGJKa2tYMnMtQ1NqV3lENWdRYjJjb2QwWkxQNWhzUzJRc2p2VnVoeFk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LH Stock to Gain From Launch of HPV and STI Self-Collection Options - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NRy1zVVBUTnJrclFReG9nTUJKd1VqZ1BVZUk2QUEwSVRKeHM1dEtKbWk4akVkbGNyX3hDNHpMMFk3c0RNTTFoa1V1c0dTZDhLMVNxMkhoMTlVRVlKaml0aEtObnp6YUNWd1hRelRVcUNfMXJER0VTaThn?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -631,31 +611,51 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Labcorp (LH) Gains Exclusive 3D Liver Models from Predictive Onc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1ZqZ1k2cldwSE0taGhhVUROVThzSEhZdVZBalpJd1JnWE16bHVWY0FWWjVpaG4ydTNHV1hNdVljbm9FSE1WYUx1ZlpOYmlKZU8tQ3o0Y1BmbzdLZFZGTk9zTm9WeTdDVFBsUjFKaThycjNiOTRLMHlVaVFlcUQybEc5ZUtTc2IxaUdseGFKdUxIU2doU243RlNYM2pFWXBoaFRXV3laR3hGYy1ybWFBbjVDY3R2TnBNenVHWEp5Z2g3MGE1ZzNFT3gzdXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Labcorp (LH) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb29QVUhTd0Q0Z1ZybkNOQlJRVnd2Tk5WZkNrNjhlSUszck9WSWRPcWNia2x5c1N3ZTNmX191MmNRMDVRWmlJSGM3N3pWOFlSZmlNREhicE5TbEZEaU8zbk5fQ2tyTW52LXlMMWhEeDI5OWpjbjBpZmhDbHBHQTkzcmtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Labcorp (LH) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9COWR4d0FfUjE4MEJtVi1mWlNkWktwZFBzY2tSMG9kaGIzOFhNNDh3U1BjRjk4aXdNc3hubUs3c09RZnBwUWFqZGpZeEhWNGJuYUNFUE55Z1RnZFJMMFpJWmpnZFRmckJhQUxIZWo2UXdOcUI0S3FST0ZHaUFzQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Labcorp (LH) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKbDAtVTRuVGNUSUFFSnM5Znh2T0FjN3dVNC1yczJSbGxBWjFsNGlRU0FCYTVraXdmMVQyUEdCU1c3aElBaXMyc2NIdDFGSVJMc2tCWHNaQlU2WWg5SW1pUjhvR1dTQVl5cGtsa05BSjB3RUtPaldCejRaWDhWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Investors Undervaluing Labcorp (LH) Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnNNUndqSmxUZFdTdTVtVmhkUjNYb2ZtVy1tUDJLeWRUejF4dzRJM1VRUFJCNXptN3RZNWRqczlNUVZTUWhBVm1xdm5Rby1MZTdBLTVibHNzRWNPTUszVk5iUTNvLTcwS2UyVTB0Rjh2NWxmLWMtWURWVEt3YzNZR3FnSHlTdWl1cWJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Labcorp (LH) Up 2.5% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1neFIteFh6Xy1NeTcxYlZGXzI1a1ZXR2twNUM0aUVXTjlqQ25fa1RWeGE1N2VzMURIWkpFZ3ZWWnlKZFNPZEd2bHdMTXBBWW1NQjd1QWc3NTVQc20taHJwQnRFRVNnMmVkSktGdWpwS0lVUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Labcorp Revolutionizes Cancer Care: New Test Portfolio Promises Faster Treatment Decisions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOME5VNFYxUko2Xy0xYVcycU0zcTVBVW5ZSnA1YVFxelhFMlpuRUo5c0x6TVZGRUFYSzhqa3lwTEJUV0J0RmU0aEw0MHRzVzZNRDVjRlQ3Q1Uzb29jT0Y4X1FxZjlHb0l0WDB1eDJKakpGWFp0WE9abExjaWlUMlhOZGFkZ2x5a0lJd2JWdC11QUJ0UmtoU25QbW8yTV9DS0h6VmJBeXR2dEtVMmxLajRGczFjendDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Why Labcorp (LH) is a Top Growth Stock for the Long-Term - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SNXczMUppVGZjVFRHRUFHTUxja0pJNlFfZkVtazAyTE1JVXN0ZXViRFRXRWJNQlZTaFF4TlJjY3ZkbG5wa1Qwc29JeklLMGNNdWdTcjh0c0N2LWEwMWcwRHhPbjhvMGU2Mm4tcVVoMWV0dEpFeHNhLXVydw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Labcorp (LH) is a Top Value Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtSzl5V1lDaHM2OTdOekx1X1FxWVBQeHM0S3ZZdFFSMXQ4am1WRzFaZ0ROOTJRUVZmQnhrNV9ha1dHSm93dFpIc2JUalJoOC10Wks3bEJUbkRSZXh0cHZFR3QyamlhWUJhbXBFX2JRMm5mZmpocXVFdGZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Retain Labcorp Stock in Your Portfolio Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLW9EU1pnX2djTk5YV2pCSEEwWGdEaDk0Q0ZtOVRDaHhhb0l6VzBpTGFKRU10SFVudVdGWkV2cEo1R05OcGVkTFJxd2hhLXl0MFBuSUlpRjZlTmlTTE95eVEyR3dSLXJJeFR2T0s4dDNHNUFBNkVIN0R6bXRkM09QTWhkRkRxWU0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Labcorp Holdings: Regaining Credibility - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUy1wNVZoWFRDTTY2dGxiMTJQZkZpdkNGMWNlZ0dOZUJUTnhieTdWX1dhVUFGN20zY2NMRlkxck5vNS1kNTFfMkFZaUNKTEh6UzNKeDQtU05GLWdHVHByN044TERkYmstSmhYSi1rSHlCcjNrNkk3elY4MUZLXzBBODRWNmNZZw?oc=5",
+        "title": "Here's Why Labcorp (LH) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaEpmdDlfc0xjdXhmUU81dUVwTkdZOGMtR0dxT1EtNFVMOTc3aEFodzAtWm0zMFY1QXVYMFRILWx4dURNSXpYa3V3bTNHMWJZRmFoamQ4TUZsNHpMeVlxb2NDaFctQk1sNHVubE9QSXQyVHpyUmVONHN2Z0o5T0U?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Labcorp (LH) Expands Precision Oncology Portfolio with New Offerings | LH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjFMTFVkX0MwWXlsNmZ6R3REUVpQN3lOVWlrQ01yWGtGbTF5OFhPelFLSnhPbTlkWmtoZ0NFNjlpVndxNERCRUFoZ3h3SkltbDJmbmRjX3VBZVlaS0hfM2syWGdnY2NLUGV6LUZHWGFMRjNFR3J1eDBXLWtXQnA5TkM5NDdhSFNYazUzSGpBdWNRblFrbmdBUXBmVUo3Vl82ZHd0NjlBNWtWZ0djWGN6VllIRUxHbjR5TTJB?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

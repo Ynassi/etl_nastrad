@@ -2,16 +2,16 @@
   "ticker": "BNP.PA",
   "name": "BNP PARIBAS ACT.A",
   "sector": "Financials",
-  "market_cap": 88305229824.0,
+  "market_cap": 85073174528.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 8.233931,
-    "PB": 0.67801607,
-    "EV_Revenue": -8.384,
+    "PE": 7.9242105,
+    "PB": 0.65320003,
+    "EV_Revenue": -8.409,
     "ROE": 0.09052,
     "ProfitMargin": 0.25003,
     "GrossMargin": 0.0,
-    "DividendYield": 6.18,
+    "DividendYield": 6.26,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 64.71550570649885,
-    "Momentum_10": 3.03270459232433,
-    "MACD": 1.5799762552823466,
-    "BB_Percent": 0.8314325294797468,
+    "RSI_14": 48.501345392735104,
+    "Momentum_10": -2.4112012251339987,
+    "MACD": 0.9110647128486562,
+    "BB_Percent": -0.0651996703921849,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9361322085719426,
+    "ValueScore": 0.9241594305692716,
     "QualityScore": 0.2765195306450869,
-    "SignalScore": 0.4853072755201112
+    "SignalScore": 0.6026140618204827
   },
-  "volatility": 0.0184110846487312,
+  "volatility": 0.0185204291287468,
   "beta": 1.379,
-  "return_6m": 0.4197934305987016,
+  "return_6m": 0.3592409817403177,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
-    "target_mean_price": 89.61176
+    "target_mean_price": 90.04941
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 58.57
-      },
-      {
-        "date": "2024-12-09",
-        "price": 60.06
-      },
-      {
-        "date": "2024-12-10",
-        "price": 59.7
-      },
-      {
-        "date": "2024-12-11",
-        "price": 59.59
-      },
-      {
-        "date": "2024-12-12",
-        "price": 58.92
-      },
       {
         "date": "2024-12-13",
         "price": 58.94
@@ -545,57 +525,87 @@
       {
         "date": "2025-06-06",
         "price": 78.14
+      },
+      {
+        "date": "2025-06-09",
+        "price": 78.49
+      },
+      {
+        "date": "2025-06-10",
+        "price": 76.29
+      },
+      {
+        "date": "2025-06-11",
+        "price": 76.22
+      },
+      {
+        "date": "2025-06-12",
+        "price": 76.48
+      },
+      {
+        "date": "2025-06-13",
+        "price": 75.28
       }
     ],
     "current_price_data": {
-      "price": 78.14,
-      "change": 0.64,
-      "percent_change": 0.83
+      "price": 75.28,
+      "change": -1.2,
+      "percent_change": -1.57
     }
   },
   "news_sentiment": {
-    "summary": "BNP Paribas, acteur majeur du secteur financier, a récemment lancé un programme de rachat d'actions de 1,08 milliard d'euros, renforçant ainsi sa position sur le marché. Cependant, malgré sa valeur intrinsèque, des vents contraires sont apparus, menant à une dégradation de sa notation par Seeking Alpha. L'investissement dans des sociétés telles que SNAP-ON montre une confiance accrue de BNP Paribas dans certains actifs. En parallèle, des ajustements de cibles de prix ont été observés, avec des hausses pour certaines valeurs comme Oracle et Rheinmetall, mais des baisses pour d'autres telles que Lowe's et VF Corp. Ces mouvements contrastés pourraient refléter une stratégie d'allocation d'actifs dynamique au sein de l'institution financière.",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
+    "summary": "La récente actualité économique autour de BNP Paribas met en lumière plusieurs tendances clés. La banque a annoncé un programme de rachat d'actions de 1,08 milliard d'euros, ce qui peut être perçu positivement par les investisseurs. Cependant, des signaux mixtes émergent avec des baisses de cibles de prix pour des entreprises comme Arista Networks et des réductions de cibles pour des sociétés telles que VF Corp et Lowe's. Malgré ces ajustements, BNP Paribas maintient des perspectives favorables pour des sociétés comme Datadog et Oracle, renforçant sa position dans le secteur financier.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "BNP Paribas raises Oracle stock price target to $190 on AI prospects - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVBPUjIyZGJSZmVaS2N4ME5VYW9HVWRnbGxRODlqUFVOZkszZllFZFh0TkZJSjI1ZUhfWFU3Wmxjd0tsWUwwQVp3bmQ2WTR1QXFCNkFmeTFJYmhfNURiNDFzazJNZzJDTV9yTkFrVFZZZi1kbTBGaFpZMkVJb1FFaGpfaDVvYUcwdTVUaTJXUEVzRldoNDROLUdEa1ktZG1SRU85THpYdlVHb2NNaHFkb2xwb2pzb1F4SWYwLU5QUDlZUUpPR2c?oc=5",
+        "title": "BNP Paribas Exane raises Fortive stock price target on investor day By Investing.com - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNby01TVFiV2JLNG1rcTVnc0V3RnBKR09hWHZhQmNVSGFQWWJYVEtEa3hVZ3lCNG9SSU9CaDB1R09xbXA2X1lYN3VjUjAtY2xVQ0ZMdF9jYlNsLUExWFJFc0Jjb3ZvS0hFdGlUcU13Z0tMTVJLdlFYanhackFpaUZpalVtQTQ0a08tSW83Q1pCa2ZvajZJamVmVXhVQVpoSlVDNFRDWnhOZ1gyVzFzQk1RYm1Id1Y1anVRLS03Q3JCZXhLVGdIVXc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas Says It’s Launching €1.08 Billion Share Buyback - Bloomberg.com",
+        "title": "Here’s Why Nvidia Caused BNP Paribas to Downgrade Arista Networks Stock (ANET) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzBoUzlaQ3hTWlhOZVVrUFNkNXQ5SHpTUVlMTWtGWkpIQnNPXzg1eERtT2tBS1Ruc2oyV2R1YWcwTDA1VFhha3FLcUN1NkQxZE5jV1lWZmlaNElRTjJRS3RVcDhLVm5FVE5NYlpVeFRiMGNqaFY3dGFlamFBWnRsY0JHd3U5V0xjWkZKUGV2MTZaMlhRbVRYTVI0Vl9nZHZNMXlMTll0Wkw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Defying gravity: This smallcap stock surges 22% in just two sessions after BNP Paribas buys stake - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLXZVelpwV0xxZmpYVGZfWngtYld4bEtOZVlTOFdYM2lBZmRBQjNRVlBicUQ3OUo1UFRHR2gwazkyN1dJMUt5N2E1elBjeV8wcGhwejNtbXRzOGlWcGV6UG1YUFhIRVRFRUtJVmRQSXE4Z21lVG1FQ0hzamk1RkhhSTNHWTlxT3h4ZHJ1YTNSMlpwOTFaSVFkVzZJSWpMZlZNVmo2ZnUyWWh0Mm1rdExvN1I5Y2lDTUNGT1B0MHpiZFRrdG8xWmJvT1ZvMTA1TDNyNFVlXzM1UksxWUVVY3l0WlY3TmlrSGpfaXpORC1Od3VrX2E5VVZlNzNwdEUyd9IBgwJBVV95cUxORk9UTkZ3UUtlNzZhajBMODdsanVDSU5hZUh4cll6bVBaNURycmxNb21CbWM0TDZVNEVOZmQ3UUpxTkRYSG94azhLNWhweFUtM2R1amFubmNDeUMtTEtIY0x2NEtrQjZTdzVuTE14cTBJaEoxSDlNcERxWUFGOTRycTdSeUlnYWVkM0ZWTXptSVVPcVhsX2VnU29teHhvX3FEamFZcXJEcC1iVjcxTS1lVW1xTjJqazBiY1dpbk83Mlo5Y21qRDRCT0hSQUVJLUNWOU4wcG53d2IyQmFFdkVSYWJxeHJkeUJhbFQ1Q29KbS1tMVZPQ1FKcE1IWm5sSlFuYUtJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BNP Paribas Says It’s Launching €1.08 Billion Share Buyback - Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVp6RDlsOXJMNHhBSm1tSHBIRG5SWFl3eEg3V3UteUw0RVliajc0ZDJYVDlXTVdKQzBPY2tXQ0dpeUFiQzgzYWhGZE5udmptMzZ4ZDNPZnNPaXA4a2l2bmxiYVVac2Vrdk5WSVJndUFxRGNqUTloRk5hU1RnV0FrUnBTVXlKcUFhRzJHeEhIcDU1N05QZEg4NDI5eGoxbk4wbURHa3BxMklQckdfd2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP PARIBAS LAUNCHES A SHARE BUYBACK PROGRAMME PLANNED FOR 2025 OF EUR 1.084 BILLION - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2o2SjRWdVlCdGFha0luYUlJaWpvUE1LT1haTjF3SlJ3N0lXdlA5M3IyVHF2Ymo2UWJEZjV3UzZ2dmxrWk1XQkZhTE9MTEVRZ3NHMnpRUldXMHJGZEkzWUhJRTZTZkJIWUprc1N6WGNTb2o2WmJNem1zYm9QVURNUHRlT3BFZE0?oc=5",
+        "title": "BNP Paribas SA (BNPQY) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ZWJpQ0FBWHRQc3U3XzUxWXluN0piNUlQTHZoYlA0RnFHejRvRE95eXJtdFRnVVBPMXZERHFwNU82UXJIaXR0OEJJcmNYLWNWaWhySk45S2U0LXF5X0JqY2ZhMGJTOVlVQWFNRFhEaHk3eVFRbklSTUg5bEQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas Exane initiates outperform rating on eDreams stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFotUFdNSUdIeERDRFRTdjFGV0tHU2EtSHA5MVZzVk8zMHF1UFE5RmtCMUdDc1RfWThxZVhZX0FZRmVDRnlVSEN4S2pZZzRrNURCRHl6QlBBNXRiVzB0OHlaVGZfZENBenNXY3dVTFF4emlvbFNQZ1ZuN25JQzd3Tm1ESE02UDBmb1RkZjB0d2JnZXp3SDZSNVlmYWtXc3BjZ0g4T3hvQzNKVGZHcm84dl80ay14T09qcTh1bVFMOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BNP Paribas: Still Valuable But Headwinds Have Emerged (Rating Downgrade) - Seeking Alpha",
+        "title": "BNP Paribas Stock: Still Valuable But Headwinds Have Emerged (Downgrade) (OTCMKTS:BNPQF) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzQ5a29GZHIxTE92RGJZbGJxWXpwaFBfVHF3Q2FWc05rRVF2OUUxSkF2VVU5RGs1Nm14aHRvS0xvdDVoTFVDd3VTZWp6QWlFa0V1cmZ6eFQ4T0ZZcHJGQ2Y3MHZWU1lRX1R6c2JjSkdqek5rSV9tRVdqbUk1eDF3QXk0UXc3QzEwQTNYdmRWd09oRHBDNHktUWFNMEgySWI3UXVselFtbXRTVkp1dG1DOQ?oc=5",
-        "label": "NEGATIVE"
+        "label": "POSITIVE"
       },
       {
-        "title": "Fund Update: BNP Paribas Asset Management Holding S.A. added 107,742 shares of SNAP-ON ($SNA) to their portfolio - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dRS3JTZkFzTDZBRVBWNzV4dWs2YjVjMmpIaHZVd09OYU9IbWthLWd2RnhiNWpDbnZTS2diLThlYk4yTEpJb0xpRHZvRzJ5cUZfc0ZxTEtZWF8zZm9VU3dlbzE2NlJWYzdDZVZmQWRianlOMzJtdkQ3R1g5ck5kdXh6ZmNVd2lENHI2bVpQaGVINU1SS2NNU3RITzNSR1V6OVlkcGZiNVotaE52Tm1PYUpBQ0VsMnpXY3c?oc=5",
+        "title": "WPC Stock Rating Upgraded to Neutral by BNP Paribas Exane | WPC - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZHpTdUJOczV1MzQ2Q3kyQU1XdEhxQnFGeWFHdDkxYzJPQVRwNmhWRDlqR1dFMmVZSnFBNTdqbTFNZE5vLUxWWXRObzlIZ0hHMmRybTNvUzh2ZmJoTWpKcFJPS2ZxX29GVWhpSFNmOGMySmNBV21oTTJ1R1ZmSmFpV3FMT2FieEtDYm5qeFdiRVRNcmNDYlZ5UHo0VGhSUnp1azVGUVY2REd2NmxWcVdpdUpnUXlJMEo1M3U4eGFaSGc5Yjg3SVR4UUlBVFRIQTBDNHhoNk95Yl9CVlh0aUFMRmp0aUlnWHVUbVY0SGQxVHpFa2FLZjNR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BNP Paribas: launches share buyback program - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUJobWlEdnRGeEFVUWV6ZDlWQmtXclphbGxFeE5kRzVSNUxNejV5eFU4REhxbGJrVUZ2blZJallQVGR4RW01WWxvUWRFZXVSYmVSbXVtNmtTb205NFh5dWxiNVFFRFBUSG0zaGpsVE84WnhkYVpYeDM5OThYTERKQWVkUDhBRVhCWHo1d3ItdXN3LURuWnZwbDExRW9ZM2xTSzUtSmNtSXVDQU9vcU9NU1B4TGxqQnZs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Choice International block deal: BNP Paribas sells shares worth Rs 78 crore in multibagger stock - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVktDd3FfYzMxNUpFQlJWS0FMcmk0b1F6cFVfMHdLSllyck42VUZELTlINW5JbVZkSnk3RmFRSU5jMnpCUXJZaUN4Z2xlRGpQdkZTdEZyeDVQbmdCd1p6TkdHTEVtZnk3by04WkU4R3dKVWNPallfZnZJM29UYXZvUEhZN2lzMEhXc3ZIUkN6cnlwdVhlUzlSWVpDbElvUWNlWmNvT0tpWHlGX0pONHQ0SjRFSkJUd2xINlFSV3Ixd0FzdVRWeWxlY1g3Rkw2X1VTeGRPVFVQMUJDWkdOQlVCM0N1c2VKa2VDVWRsZXZWYndoVDdQS1ZCX3JFNW1HZ9IBgwJBVV95cUxPNlREZTdXZlc4eUR2OG04QjJOdkhWN0w2S3FBejFiY2VLZl9vNzVWSTJBenV4YWwtZUQ2R1QzUXEyTk9yZVlSNV9ZSDB1cDJQOW82T2RfejlGNV9jMklDREZPSzZZNnhjcnVfbmdvY3FKYVlvVGZaVXpZQlVFUFVLZVYzOFBWT0l5TXZYWmIwa1BUM2tSWUYtaG0xajUzSmlKdVQ0engyUjl3S1QxUVRLMXAxbkJ3Sl9lTkhiVmhKUkFuaGdrZzdjQ0V6R0lxaWJlbmRFOU5OUjR3N0JnNS1iQ1M3WkJxbTlYYzdyUXJBWjh6YkhJWlo1cHA3N3lrbGk2QzY4?oc=5",
+        "title": "Datadog stock rating reiterated at outperform by BNP Paribas Exane - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWxJdHNBcVlidU12ZmRKSEFSbW5mOFNpdERFS2ExS0NEZHJob0ZVeTJCaC1OeG9oUkUwalFaSmNJTzVFbTRBRUVnbnpkQnlta0VUR0pOOW5MNnEwaEZYTzRrLTUwRGdFODMwN3RjSGZWc0JkRm41Q1dtY0ZZSGZ5d0hSNkRxZmpkcENUZE5SSVc1Q3FVTHZ6dENIV3YtSkJYbnZVeHl2d3N6ak9ZRUNwSHdwNjBBc2RobHotNkdMT1B1cEg3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -604,43 +614,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas' investment bank shines in boost for shares - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFl4RkdSZHl4T21NZkg1VDJ1RlQ5dG8zaHJGMGZZZW9LTHVFNmFVaVl4MFl5LTgtSjFLcnZ6a3U3RXFtVnFPQ09ZeUZPbnVVYklxcXdvZGoyWVlETHFOc0R1TWVGT1JrMkRULTNoaklwSWsyRkw1UUNYZGpFR18xU0dnSzVfcmxsV2xJcF9LZEhPMFVzOEhWNGhPSU5lNnlPUmJCeFBfNGtOM21yX3p1T3Jhcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Shoals Stock Tumbles After BNP Paribas Downgrades On Nextracker Challenge, Retail Bulls Hold Ground - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMEUyOTdyMUJFM2RjNTFENkYxSXlKVS1oX1hZMHpSU2NJYi0tanhpTnN6dWEwSWRHa2FHRTFLa3drcWttakM3SWVCZ2hNa3pKOTRXYXRFZlNxMFhzQ2FmZHY0Z1lsUWpzRC03enZrN1hzOF9aTWhMLUVYS1ZCOEktdFh4Q2FDZl9fWGpXUjZzamctQUZTbXRoVkJfanFJWXpOT1dWLXNhOVp1OWREb1J4YTZVNUJtODg3bV91b29JellNbUFTVnViSHRBLXBJbHgxU2xwcHI3c2RHRURFS2t6NDA3WWptTmNaS2xmdTJtdzF1WU9pSldMQl9OWjczY3BUbFFDWVNYdUY1QQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "BNP Paribas SA (BNPQY) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ZWJpQ0FBWHRQc3U3XzUxWXluN0piNUlQTHZoYlA0RnFHejRvRE95eXJtdFRnVVBPMXZERHFwNU82UXJIaXR0OEJJcmNYLWNWaWhySk45S2U0LXF5X0JqY2ZhMGJTOVlVQWFNRFhEaHk3eVFRbklSTUg5bEQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BNP Paribas Exane raises Rheinmetall stock price target to EUR2,300 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3VPVVpKMlRmeU41NWZ1SW9aZkc3YTBqQ0s3U05PTExtMUJaQ3VVT0N4NGdnN0gtZjAyWk5jWGFYdHRyWEl2VWZMWGdWWXk4bFF1WXR5RmlUSDZmaXlyNmRDU3FjV0RWaVd4Skd3U3RiREpnamxxazhydVF1cTJaSllXQUJya0JNUXVkcjNEaVFycUwwMXd6MV8ySnA1T1F1VzN2Zld1LTZQRW83M2N5QmdhRmxSYWRieXZTczBtVmYyM2Zj?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BNP Paribas SA (BNPQY) is a Great Momentum Stock: Should You Buy? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0tfS2theDhyM3kwekxOdXJib3RyT2pvbmtmNURhaGk5RC1rWXVKSDJsRVlXMUd3c1gxVmFZcURwZEl3RmgxYUU1b1MwTk1Ib1QtUVFMUHRfTUdGUFZfUzNwczhiWjRrb1lSd1U1TllEcFlkbjFvdjdBSkVEYnBiOW9fWmpKb2t0QXhwTER5bnVuQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BNP Paribas Exane cuts RENK Group stock rating to underperform - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnpwT19oM0tHTWJ1dFEyVGxXUmFoMHlxY0xJdVp0eGRENkp1YXZEakZJUFRYOUhZYWpQRkk0MTJaNVRRU19zbE01WUdza0lhMVpHeXdLMUpEQzN5aHlsRWZGMm9UQmhyOXlRLXZVN1JncEF3bjM0Vk9jYi11V3J3ZWNCcEdZVVlFcUhJUjRpX0ZCTUhHQzdfcnZTNGl1TGt2NmZsb3lEZ01MZHUzRUxpMUltVVhHZE5EUlJJOVZmRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "Is BNP Paribas SA (BNPQY) the Best European Bank Stock to Buy According to Analysts? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZOXktUTBONkMtNU9sQmtXTHFrbEpvQnQ4ZGlUT1pTQ1JIRUhXbEVTUUVoNmdhdEVzYUJaNGFWbmNMTlY0eVRpY2dPTjk1VHVhTlVaMkZiUlo4Unh3cDBMbTFZWDRSM2lwTjF6VWVIYnJRYTkwR1J6UHZFYw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas Exane upgrades Hensoldt stock rating to neutral - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmNmZUVYcWloZHFJbDNLRzRqcjhIVVlsWGxhQWphSzFPc0FRd0VoM2F1SWVpUFdZZUxlX3RVdVBBcFlib2IwNkpvbFhQS0VHSkctQ3FGekEza29qRnlsaENjSmpDb3hFQ0hXWjM5dlh5aWhNZnRJWVZtQVZpYW95RlhReFJQMnAtYTJnLURiOUJRWWJrRlRkRnN2ckZhNjRiQkpvVnFqQ3lhX09PTy0tLUZmeVdGd19zaDNn?oc=5",
+        "title": "Fund Update: BNP Paribas Asset Management Holding S.A. added 107,742 shares of SNAP-ON ($SNA) to their portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dRS3JTZkFzTDZBRVBWNzV4dWs2YjVjMmpIaHZVd09OYU9IbWthLWd2RnhiNWpDbnZTS2diLThlYk4yTEpJb0xpRHZvRzJ5cUZfc0ZxTEtZWF8zZm9VU3dlbzE2NlJWYzdDZVZmQWRianlOMzJtdkQ3R1g5ck5kdXh6ZmNVd2lENHI2bVpQaGVINU1SS2NNU3RITzNSR1V6OVlkcGZiNVotaE52Tm1PYUpBQ0VsMnpXY3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas raises Goodyear stock rating to Outperform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUd2NzVuU3NQUjVXSmpuSDhMR0M3VlJocXRPcG01SlpHWW9SeHhZOFBXVWlwSG1LcUhYVXlKbWFRZ1Nka2M1YTc4U1Nqck1WV1RKRmlBMHNuY1pKbGZxX3BRcEF4aTRmaXNIVkx3ZFlKZmJsM081ckpKdUlrM3VLOURfeHlyWHVZOUliS2N3S1lFRXNISWhtYWEyMDJxMWhGaEZvc0tUN0NtODNDVkpSYmlkeTU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BNP Paribas' investment bank shines in boost for shares - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPanBJS3JlYzkxSlp6MUJXTDdiQk4xWFYwY0cwR2tSc19McEhrSTlCRUVkVVJreDZaMTZpSVRES0dwOHRWdFJxRDZCdGxvR1ZQNnY0Wlhvem1uZmkyLUxMdGpPd2tqdlktcHVycy1WTTVNbENNVmhBU1NSUG5WTThodw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BNP Paribas raises Oracle stock price target to $190 on AI prospects - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVBPUjIyZGJSZmVaS2N4ME5VYW9HVWRnbGxRODlqUFVOZkszZllFZFh0TkZJSjI1ZUhfWFU3Wmxjd0tsWUwwQVp3bmQ2WTR1QXFCNkFmeTFJYmhfNURiNDFzazJNZzJDTV9yTkFrVFZZZi1kbTBGaFpZMkVJb1FFaGpfaDVvYUcwdTVUaTJXUEVzRldoNDROLUdEa1ktZG1SRU85THpYdlVHb2NNaHFkb2xwb2pzb1F4SWYwLU5QUDlZUUpPR2c?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -649,9 +644,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "BNP Paribas Exane cuts Lowe’s stock price target to $207 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkpla1plc3pYX0sxMUV4NEZITXVuNXl3SW5qYWNYdjdKQmZPSVVuYmFCcjBycExubVZ0WEIzQVF1cEhsanhua1E5RzBSVkdzcVJiTEpQNG5Fd0M5ZW5FVEVMd1o5UURTTUJneW5JWTJqSC1iQXo5RlhfNm1FQnlPLVk4M3pCbGRFdnZPWnhldy16bHJlYkdORms1bE1ZbFM4SFNaVlRLai1TYkhlZlF1UklUVkc?oc=5",
-        "label": "NEGATIVE"
+        "title": "BNP Paribas Exane upgrades Hensoldt stock rating to neutral - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmNmZUVYcWloZHFJbDNLRzRqcjhIVVlsWGxhQWphSzFPc0FRd0VoM2F1SWVpUFdZZUxlX3RVdVBBcFlib2IwNkpvbFhQS0VHSkctQ3FGekEza29qRnlsaENjSmpDb3hFQ0hXWjM5dlh5aWhNZnRJWVZtQVZpYW95RlhReFJQMnAtYTJnLURiOUJRWWJrRlRkRnN2ckZhNjRiQkpvVnFqQ3lhX09PTy0tLUZmeVdGd19zaDNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Exane initiates outperform rating on eDreams stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFotUFdNSUdIeERDRFRTdjFGV0tHU2EtSHA5MVZzVk8zMHF1UFE5RmtCMUdDc1RfWThxZVhZX0FZRmVDRnlVSEN4S2pZZzRrNURCRHl6QlBBNXRiVzB0OHlaVGZfZENBenNXY3dVTFF4emlvbFNQZ1ZuN25JQzd3Tm1ESE02UDBmb1RkZjB0d2JnZXp3SDZSNVlmYWtXc3BjZ0g4T3hvQzNKVGZHcm84dl80ay14T09qcTh1bVFMOA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "BNP Paribas Exane cuts VF Corp stock price target to $11 from $25 - Investing.com",
@@ -659,11 +659,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "BNP Paribas cuts Organon stock target to $16, keeps Outperform - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmZnSEd4X3R4RGh5U09mSGQyd3YxSTdSeU1FTnF3cFR2aGkwZWVNOEN4cGZoZXR0ZzhwM1RBOExYcGdJRU5YWGhWbFNwRE8xZDk4RFNPT2l3M29pUmpTU2NIZDhfOUZTYVRXQWN4V0htWXd6aXBvN1Zoem44ZExpUEkyWTZGZ0lYRjhMc2NtdUt0RlVFRFMyaEJWZzJ2NVZZUnNYOTNsMzMtdFFhTjU5WG5OQkhJN2NVTjdFNw?oc=5",
-        "label": "NEUTRAL"
+        "title": "BNP Paribas Exane cuts Lowe’s stock price target to $207 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkpla1plc3pYX0sxMUV4NEZITXVuNXl3SW5qYWNYdjdKQmZPSVVuYmFCcjBycExubVZ0WEIzQVF1cEhsanhua1E5RzBSVkdzcVJiTEpQNG5Fd0M5ZW5FVEVMd1o5UURTTUJneW5JWTJqSC1iQXo5RlhfNm1FQnlPLVk4M3pCbGRFdnZPWnhldy16bHJlYkdORms1bE1ZbFM4SFNaVlRLai1TYkhlZlF1UklUVkc?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

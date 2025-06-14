@@ -2,16 +2,16 @@
   "ticker": "6857.T",
   "name": "Advantest",
   "sector": "Information Technology",
-  "market_cap": 5817816842240.0,
+  "market_cap": 6239716638720.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 36.381573,
-    "PB": 11.485112,
-    "EV_Revenue": 7.245,
+    "PE": 38.94308,
+    "PB": 12.317997,
+    "EV_Revenue": 7.596,
     "ROE": 0.34375998,
     "ProfitMargin": 0.20671,
     "GrossMargin": 0.57084,
-    "DividendYield": 0.5,
+    "DividendYield": 0.47,
     "DebtEquity": 18.459,
     "CurrentRatio": 1.938,
     "QuickRatio": 1.214,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.30073137920643905,
     "ROA": 0.18696,
     "PEG": null,
-    "EV_EBITDA": 22.131,
+    "EV_EBITDA": 23.784,
     "BuybackYield": null,
-    "PriceToFCF": 24.81131898811515
+    "PriceToFCF": 26.610600525389493
   },
   "technical_indicators": {
-    "RSI_14": 64.58397710092189,
-    "Momentum_10": 16.346294937637566,
-    "MACD": 279.36650940299387,
-    "BB_Percent": 1.0834669731802795,
+    "RSI_14": 70.3700182257836,
+    "Momentum_10": 15.43369078322248,
+    "MACD": 435.1233121551877,
+    "BB_Percent": 0.9437023868607964,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9254944629941816,
+    "ValueScore": 0.8667319044445655,
     "QualityScore": 0.4447119937098217,
-    "SignalScore": 0.3124288222164648
+    "SignalScore": 0.3056985382219844
   },
-  "volatility": 0.0435643993186735,
+  "volatility": 0.0430441036619348,
   "beta": 0.6,
-  "return_6m": -0.0980056308436834,
+  "return_6m": -0.0908655651589448,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
-    "target_mean_price": 8956.471
+    "target_mean_price": 8968.235
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 8815.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 8400.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 8478.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 8435.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 8865.0
-      },
       {
         "date": "2024-12-13",
         "price": 9380.0
@@ -525,28 +505,53 @@
       {
         "date": "2025-06-06",
         "price": 7929.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 8314.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 8304.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 8341.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 8303.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 8504.0
       }
     ],
     "current_price_data": {
-      "price": 7929.0,
-      "change": 173.0,
-      "percent_change": 2.23
+      "price": 8504.0,
+      "change": 201.0,
+      "percent_change": 2.42
     }
   },
   "news_sentiment": {
-    "summary": "Le marché japonais, symbolisé par le Nikkei, a été fortement influencé par les tensions commerciales, alternant entre rebondissements positifs et chutes abruptes. Les valeurs liées aux puces électroniques, comme Advantest, ont connu des hausses et des baisses en fonction des perspectives sur l'IA et des commentaires des dirigeants. Les investisseurs ont réagi aux annonces de tarifs de Trump, tandis que des sociétés comme Toyota et Mitsubishi UFJ ont affiché des performances solides. Le contexte global reste marqué par l'incertitude commerciale, impactant le sentiment des marchés asiatiques.",
-    "sentiment_score": 0.071,
+    "summary": "La Bourse de Tokyo a été extrêmement volatile ces dernières semaines, avec le Nikkei enregistrant des hauts et des bas en raison des tensions commerciales sino-américaines. Les actions des entreprises liées aux puces électroniques ont été particulièrement sensibles aux fluctuations du marché, affichant des performances contrastées. Les commentaires du PDG de Nvidia sur les exportations de puces AI ont également influencé les actions technologiques. Malgré l'optimisme lié à un éventuel accord commercial, le Nikkei a clôturé à un creux de six mois en raison des tarifs imposés par Trump, entraînant une chute des actions et un renforcement du yen. Les investisseurs restent nerveux face à cette instabilité, mais les signaux des banques centrales indiquant la fin du cycle de resserrement monétaire ont contribué à soutenir les marchés mondiaux.",
+    "sentiment_score": -0.214,
     "label": "NEGATIVE",
-    "positive_ratio": 0.43,
+    "positive_ratio": 0.29,
     "neutral_ratio": 0.21,
-    "negative_ratio": 0.36,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Advantest Corporation's (TSE:6857) P/E Is Still On The Mark Following 27% Share Price Bounce - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGRNcnBJWWxtMlBoNmFDSHBtNEExRnBVUWs1S0dVRGRpUDNkNmR0azJEWXRQX0llYmUtNEN6cnF2YkRUcXRzSW9zNkpjOHpnY2JyWWpUYTdIdzNpX2ZKdlRIY0FPSmZaeVRta3ptNkI4NDJkWU9Xd3VteGswMTR5TkdQVktYT2txa3hHaEx0QXozM01HUW5rX18wcUwzNlhrZ01hb2RpUjV6YktoUVVob2s0cjFnS2FFMnduMHM3ZkwzZEFaWGttOE5UZE1OYThScEN3dNIB2gFBVV95cUxNQVg5UzVtTXlkWGNQaFliMTAzSEpqVHdaX25CeEFYSVNfTFdjS2xVUHFlYTZvWkVjNjMzTGJrRDdhOGx6MDkyQ0FSUjhwTjZrUElRT3FudEpONVp2Q2dXZUNfSGEzd05NUDQ4Z2E3Szg5RGo3TUF5dkQzYzA0R1dQTzdYbzNnWkVIQkdZWUNxRHlRV09yQmVlZTl1UnVOREtRRjF3VzlKSUp2YVRfLXhPZEl2VW9vY05qQ0FNTEFwQ0lnbnBoeG5EY1FRdlNxNl9ISlpPVHYwLXg3UQ?oc=5",
+        "title": "Japan’s Nikkei Stock Average Index Jumps as Chip Stocks Rally Ahead of Sino-US Talks (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MFRzNkhkLTRGV1RKem0yTWxhNUlpbk1mbzNpWkFqMGJ2RGpsS2R6bWMtdWRCVlpMUk51V0NUN25MMDBhcjF4Y1ZYZmFKa2xFTVlfamVkNmpIZWdhY0JOWDVsdVZhWUlpNzRjbEtVYjF0U3BRWTdqN2Z3?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Weakness in Advantest Corporation's (TSE:6857) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3c3VC1MZXZQVUlyc1cyenlva1l2bEprTHU4V2ZzX3h1T0txNHFPYmlwSkZtcjVfcjlDbUwyYUtGQWZlLUpWakFFMk93c2s2VmtVUl8zRkRQU1JiU25Ga1BFTXpSbE1DMWN0MnY3YkhpTUJGRnRndnJONHBkY3d4dy1DM1g4bUFGNjF4Ymk3RUdVcUQ0QThSaVhiUnRPaVlkOWR5VHB4X1FnZ0lzdUw0NkwtMWM4amxPZnBydnFxYW85LVUzcDdjMVBFR0xSZ29UV05F0gHYAUFVX3lxTE5rTGV0eGdYclhNbWxvdTdfaEdrcVhKRkJZand6ZWdsTm1LY3lkdE1VSnFoa3dvd1pETFZyQVhURkFXWUFoWUJiYVVuUENnX2Uta0hiS1lxRENkLUp1bHI5Nkwzd2JSWkFOM3NKZHdCSXAzM3hWT0RnODF3RUI2aGd0X1pNb0RjaXNsNVJkalFtYmdSR2dSWWpvb05CdEJnT2ZId0llelRjMnhvVmFrcjgxYmtGVUJOWGtLbXZoYUxCZTItYmx6TGdrUWJKaV96eDc1dWpHbHFFOA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "The Zacks Analyst Blog Carvana, Advantest and Garmin - Yahoo Finance",
@@ -557,16 +562,6 @@
         "title": "Japan’s Nikkei posts best week in three months amid trade deal optimism - Latest news from Azerbaijan",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3MFJheFZ0dl9XYVdMakVnX0lZblF5SjFmTzV1cHVaOFVhc295ejY5enA5WmVEaDRla1N6bUFPTW9mN1F0aWgxSWY4MDk3LXBvVTdKTHhhb0tDQy1mMkdFSWJ2SGtSNFQ4Q2JTNUVwMnVWcXhLTGlidjdkMDRQZEhicVdqblVVaW5kMEExT1QyVnZCb1E?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Japan’s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Will Weakness in Advantest Corporation's (TSE:6857) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3c3VC1MZXZQVUlyc1cyenlva1l2bEprTHU4V2ZzX3h1T0txNHFPYmlwSkZtcjVfcjlDbUwyYUtGQWZlLUpWakFFMk93c2s2VmtVUl8zRkRQU1JiU25Ga1BFTXpSbE1DMWN0MnY3YkhpTUJGRnRndnJONHBkY3d4dy1DM1g4bUFGNjF4Ymk3RUdVcUQ0QThSaVhiUnRPaVlkOWR5VHB4X1FnZ0lzdUw0NkwtMWM4amxPZnBydnFxYW85LVUzcDdjMVBFR0xSZ29UV05F0gHYAUFVX3lxTE5rTGV0eGdYclhNbWxvdTdfaEdrcVhKRkJZand6ZWdsTm1LY3lkdE1VSnFoa3dvd1pETFZyQVhURkFXWUFoWUJiYVVuUENnX2Uta0hiS1lxRENkLUp1bHI5Nkwzd2JSWkFOM3NKZHdCSXAzM3hWT0RnODF3RUI2aGd0X1pNb0RjaXNsNVJkalFtYmdSR2dSWWpvb05CdEJnT2ZId0llelRjMnhvVmFrcjgxYmtGVUJOWGtLbXZoYUxCZTItYmx6TGdrUWJKaV96eDc1dWpHbHFFOA?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Global markets today: Nikkei, Hang Seng to KOSPI — Asian stock markets open lower on Trump's tariffs - Mint",
@@ -584,9 +579,19 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Cerity Partners LLC Acquires 6,857 Shares of ProShares UltraPro QQQ (NASDAQ:TQQQ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzcyNUlIUlhhSzNIdVRuWXVFUjktYlE5OVoxbm5GRnU1cDhxYTdQaVcyS2JVeWVIOTFhb1kycVVqNUFYcDhsR3h3S3FEaEtTeXhoY3ppSzBVVkdIbXpuMHBobEdJa0ZvSlRhdmZYajY0Mk5sNnVwanpIWlY4ekVNcU9SV1NkNTMzMGxDanVvMWl2NWJkckM3N3U4RmIxMmtUd1JVVTQ3c0xuVVd2SWZXU21uZXY2cXVIQW9QdmlkZ3EzTEloOFB6eUtKeWE?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan’s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tech shares dip as Nvidia says controls on AI chip exports will cost it billions - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVZlc3liUnVsdUxxWEp4a2F1cWpxUkNqa1ljbTN3OWFGenZsdkcwZjhvbkxTQVJPQ3dZRi02cFFXTHFlSVl1bi0yem5FSnNjdXF2Ykx1bzAwcU83SFdlaXA4T1hyMUp0UDhKU2tOMm10ZURQY3NxY3h1RDRJbkV6OHh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends at 6-month Low as Tech Shares Fall, Stronger Yen Weighs (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSUHBVTWRtTVZyc1o2LWxPa2VvcjZYSTFZdE9fbDRUenB3MXFhcUFwbjk1aVBZLXYzUXJEWklnUmFQakQ4R3BKQ3h0X2Q3OFlQTktlQmlWck1pc0hFVkhtZV9pTExHYmFYNDVsZGVueXZiazFhaFVCSEh3?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Japan’s Nikkei Ekes out Gain in Countdown to Trump Tariffs - The Japan News",
@@ -594,9 +599,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Advantest's (TSE:6857) five-year earnings growth trails the 43% YoY shareholder returns - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeERYQnY4Rmg1aE45SXlUZ2YtMXFPOG5MYmZlLU9TQTgzWHExNXVpVGJTbjJYOWtncldvQXFZOWIxOHg4a2ptOFpEY0F0MlZMQ2pvTE5hajJqOXVNMjFPLWhwNTBYaVo0V3R4OTI1eXFGUHFDYy05dmpWMVRBX3E1QjAwNUNUZzU0a3dQZjVEREZOZ1N6YnJfcWFXQjRldEVhTXhKNXNrQmg5eWpLam1HdXQ0Qi12OFVaSXZvQUtDb25LX1hiQ2JnWEE2aHJnR01wUWVDcdIB2gFBVV95cUxQRU5WR3dUVFBUS2ljUXlHMVVLazIydjdwLThOOUlueUlPWUpSOUp4MjdJU25YWk41TEpEUkFOQ2NYSTkzeEZXMm9kejc4cnJoTjUzc3QwRmN6NExuNFhMeVQzNTQwbUlBS1U0ZHpNejBvMHBWUkxSSE5jc2ZsNG5QM1UzUmlSajZFdWw2M3llLUJkMml2UFV3bjc5N0hpSG5KSFo3LUNSS1M3ZkpHWTRCLWdTM0IzSFkxRXBhR1dyMUhVcnRQaGl4M19oLWdvRV9KWk93TDREekpNQQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Central Banks signal end to hiking cycle, stocks rise - Cyprus Mail",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGdxbW8zMnRwT0xZMHJRLTI3RDZISnR5b3FEb3BOZ1Q4RGZzN2ZaQ1JzOXJ6cEROWjREMnI4Tl9JcGtXempMNzBsNFlEYlE0MjJzdFUySmt0V0lzSjI3MHMtb1FCRDY1Z3JqSmdYRmxXLXpRUFNwaTNQZHB0dzRfMXFnOWx3aUlMUDVmb3V4U254b1FGSzZQd2Z1SQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Japan’s Nikkei Plunges to 8-month Low on Trump’s Tariff Shock - The Japan News",
@@ -607,13 +612,8 @@
         "title": "Japan’s Nikkei Stock Average Slumps, Dragged Down by Tumble in Uniqlo Owner (Update1) - The Japan News",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lRGkxT2c1dm9IUnZ2cmdKU3BjaVRLcEppODB5a3ZmbzF3cXZRUTZKWEZtUld4a2hmUzNmaVNhc3oxVUlxLXRCYWsyOHRrZXRROEk3UV8xTjQ1R0RMeTR2aUwzaGV4ZVp2X1gwcnNvMWtJd2s4YmJmYXNn?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Toyota Motor Corp and Mitsubishi UFJ lead high-volume stocks in Japan with over 3% gains - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlBiNFFJSTNkS2E0NlYwWmlwNnZKdTR1WDN6R3J2VXF5OUNINElCcEwwZDJhZ09sTkZfX1NmWXRoM0VuOHp6VHVmYVJtS3dQeGtGc3lmWkI0dE5uaXQtTExJcGlEWi11TVMwLThqQ1NBZkZtVDl0aFhJdXhmTXhrSWpmSXVDcWUyQ1BfOGpWdHpPMndjQUhzWWxoeVlmZnBsV3RoRGJ5ZXFDWF9tTXJBNEVQN2d4U2wxNkJDRmswLXRFbXdFMUttQ2ZsV01MbHh4V1lCNEo2bWFuY0hRcFFN?oc=5",
-        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

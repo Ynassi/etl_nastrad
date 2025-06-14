@@ -2,16 +2,16 @@
   "ticker": "4021.T",
   "name": "Nissan Chemical Industries",
   "sector": "Materials",
-  "market_cap": 567353540608.0,
+  "market_cap": 569394331648.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.145865,
-    "PB": 2.4360209,
-    "EV_Revenue": 2.308,
+    "PE": 13.190242,
+    "PB": 2.4447834,
+    "EV_Revenue": 2.354,
     "ROE": 0.18391001,
     "ProfitMargin": 0.17124,
     "GrossMargin": 0.46363997,
-    "DividendYield": 5.11,
+    "DividendYield": 5.0,
     "DebtEquity": 17.137,
     "CurrentRatio": 2.655,
     "QuickRatio": 1.498,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.12344648080165287,
     "ROA": 0.10859,
     "PEG": null,
-    "EV_EBITDA": 8.183,
+    "EV_EBITDA": 8.212,
     "BuybackYield": null,
-    "PriceToFCF": 18.283959505335076
+    "PriceToFCF": 18.573341073857858
   },
   "technical_indicators": {
-    "RSI_14": 44.15520950500332,
-    "Momentum_10": -2.6156001868285848,
-    "MACD": -5.329365013039023,
-    "BB_Percent": 0.1655039649421368,
+    "RSI_14": 45.94854956929658,
+    "Momentum_10": -3.74885004599816,
+    "MACD": -3.831017867870287,
+    "BB_Percent": 0.234146869069359,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9335858437766248,
+    "ValueScore": 0.890777666334462,
     "QualityScore": 0.4548168605691705,
-    "SignalScore": 0.6434731975748025
+    "SignalScore": 0.6228822522808422
   },
-  "volatility": 0.0150610126744629,
+  "volatility": 0.0149978364701925,
   "beta": 0.318,
-  "return_6m": -0.1742761878380122,
+  "return_6m": -0.1612177515466946,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 9,
-    "target_mean_price": 5682.222
+    "target_mean_price": 5660.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 5155.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 5097.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 5088.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 5081.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 5187.0
-      },
       {
         "date": "2024-12-13",
         "price": 5093.0
@@ -525,20 +505,40 @@
       {
         "date": "2025-06-06",
         "price": 4170.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 4187.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 4230.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 4290.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 4236.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 4185.0
       }
     ],
     "current_price_data": {
-      "price": 4170.0,
-      "change": 18.0,
-      "percent_change": 0.43
+      "price": 4185.0,
+      "change": -51.0,
+      "percent_change": -1.2
     }
   },
   "news_sentiment": {
-    "summary": "L'analyse des tendances clés révèle un intérêt soutenu pour l'or en 2021, selon les chiffres du Gold Demand Trends. Parallèlement, les investisseurs cherchent des plateformes avec des frais réduits, comme le souligne un article du Financial Times. Du côté des entreprises, Nissan semble bien engagé dans son plan de redressement post-Ghosn, avec des objectifs en avance sur le calendrier prévu, selon le COO. En dehors du secteur financier, l'examen de la montre automatique AVI-8 Flyboy 4021 attire également l'attention des investisseurs. Ces nouvelles variées pourraient influencer le sentiment de marché en soulignant la diversité des opportunités d'investissement et la performance des entreprises.",
-    "sentiment_score": 0.25,
+    "summary": "L'analyse des tendances récentes révèle une demande soutenue pour l'or en 2021, selon les données du rapport Gold Demand Trends. Par ailleurs, les investisseurs sont attentifs aux plateformes proposant les frais les plus bas, comme l'indique l'article du Financial Times. En parallèle, Nissan affiche un regain d'optimisme avec la confirmation par son COO que le plan de redressement post-Ghosn avance plus rapidement que prévu, ce qui pourrait influencer positivement le sentiment des investisseurs sur la société.",
+    "sentiment_score": 0.333,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
     "negative_ratio": 0.0,
     "bullet_positive_count": 2,
     "bullet_negative_count": 0,
@@ -557,13 +557,8 @@
         "title": "Nissan's COO says its post-Ghosn turnaround plan is on track to hit targets a year ahead of schedule - CNBC",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTlkc0VfR2daanR0dkxybHRsZ2FmXzV6QVFCYUtmNV83czZmMHJEbUdtU2xuak1HNHBoRlNnWkttTWxBSXRtQ25fSFB2OWJxb205RHUyNEJVYzVxR3NPeXZJRjhYUjVZNW9xOTNjVS0zREItbEdyX0Y2RDRlRzlvaVhkbEFmSk14VUE5aTFEcXVyZzRueThFQUxnRHJTQ0pCLWpYVnExTkROaHBEV2E4Z1pGQXUyQXPSAbwBQVVfeXFMTnAzWVBiblFlRElhNGNCMUswOGlyS3FVZ0NRVzJwY20xUFRyTEhOLXhYNnZyTF9vdGhaYndUQXFuYkdzcWtnNjAzN2FsOHh3d1lYUm5LZ2MwZ05Za1FhWF8yMTJSUjFqVlRfUi1kaFVWbDBBSy1RZlBramlvTktBUTVIcjcxSTJocU5uODY1Mk9RTzZRLTNaaUlwWmczeVJiRW10Q3NibGFNVXpRUWV3MzN0akRxTmkyeVpLdXg?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "AVI-8 Flyboy 4021 Automatic Watch Review - aBlogtoWatch",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbC1mQ01vUnBVMjZzSTJrblhObE1FZzVKaFVfMkREaHEyU2N4N3Z1TjY5UldTWm92cHRpdXFDSFBjMXQwYWVCUlZfNEpxNTFMVDlTU1l5UUFBNndKLVFlc3lzTFVnZmFv?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

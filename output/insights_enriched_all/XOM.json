@@ -2,16 +2,16 @@
   "ticker": "XOM",
   "name": "ExxonMobil",
   "sector": "Energy",
-  "market_cap": 448913670144.0,
+  "market_cap": 482808987648.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.814987,
-    "PB": 1.7087154,
-    "EV_Revenue": 1.368,
+    "PE": 14.85809,
+    "PB": 1.8377323,
+    "EV_Revenue": 1.467,
     "ROE": 0.14302,
     "ProfitMargin": 0.09726,
     "GrossMargin": 0.30786,
-    "DividendYield": 3.89,
+    "DividendYield": 3.61,
     "DebtEquity": 13.918,
     "CurrentRatio": 1.236,
     "QuickRatio": 0.858,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.06391605774902538,
     "ROA": 0.061979998,
     "PEG": null,
-    "EV_EBITDA": 7.19,
+    "EV_EBITDA": 7.715,
     "BuybackYield": null,
-    "PriceToFCF": 20.60526180317181
+    "PriceToFCF": 22.16397601883322
   },
   "technical_indicators": {
-    "RSI_14": 49.27987935199576,
-    "Momentum_10": 1.2333656676805602,
-    "MACD": -0.9441072587310088,
-    "BB_Percent": 0.4501323950536735,
+    "RSI_14": 69.44813868133855,
+    "Momentum_10": 9.770278415466535,
+    "MACD": 0.8920694586777245,
+    "BB_Percent": 1.136098730109538,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9339135580569932,
+    "ValueScore": 0.8934334681139279,
     "QualityScore": 0.399082984598046,
-    "SignalScore": 0.5817779857889649
+    "SignalScore": 0.4386553418855223
   },
-  "volatility": 0.0167934050193095,
+  "volatility": 0.0170908013146362,
   "beta": 0.463,
-  "return_6m": -0.0660853456597446,
+  "return_6m": 0.0291693618356225,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 112.9
-      },
-      {
-        "date": "2024-12-10",
-        "price": 112.67
-      },
-      {
-        "date": "2024-12-11",
-        "price": 111.92
-      },
-      {
-        "date": "2024-12-12",
-        "price": 111.82
-      },
-      {
-        "date": "2024-12-13",
-        "price": 110.84
-      },
       {
         "date": "2024-12-16",
         "price": 108.47
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 104.27
+      },
+      {
+        "date": "2025-06-09",
+        "price": 104.97
+      },
+      {
+        "date": "2025-06-10",
+        "price": 107.22
+      },
+      {
+        "date": "2025-06-11",
+        "price": 109.31
+      },
+      {
+        "date": "2025-06-12",
+        "price": 109.73
+      },
+      {
+        "date": "2025-06-13",
+        "price": 112.12
       }
     ],
     "current_price_data": {
-      "price": 104.27,
-      "change": 2.44,
-      "percent_change": 2.4
+      "price": 112.12,
+      "change": 2.39,
+      "percent_change": 2.18
     }
   },
   "news_sentiment": {
-    "summary": "Exxon Mobil (NYSE:XOM) a connu une hausse de 2,5% de son cours boursier, attirant l'attention des investisseurs. Malgré cette performance positive, des acteurs importants comme QV Investors Inc. et Prospect Financial Services LLC ont réduit leurs positions en actions XOM. En parallèle, d'autres comme Procyon Advisors LLC et Generali Investments Management Co LLC ont accru leurs participations. Ces mouvements de portefeuille pourraient indiquer une divergence d'opinions quant aux perspectives de croissance à long terme de la société, influençant potentiellement le sentiment du marché à l'égard de XOM.",
-    "sentiment_score": null,
+    "summary": "Exxon Mobil (XOM) a récemment attiré l'attention des investisseurs avec une hausse de 1,3% de ses actions, malgré une performance en retrait par rapport au marché. Les investisseurs semblent divisés, avec des achats massifs d'options d'achat mais également des réductions de positions par certains détenteurs importants. Cependant, des sociétés de gestion renommées comme Allen Mooney & Barnes ont augmenté leurs participations, tandis que d'autres comme Fort Washington Investment Advisors les ont réduites. Cette dynamique témoigne d'une certaine incertitude autour de la valeur intrinsèque de l'entreprise, ce qui pourrait influer sur le sentiment de marché à court terme pour les investisseurs.",
+    "sentiment_score": -0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.25,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Exxon Mobil (NYSE:XOM) Stock Price Up 2.5% - Should You Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcElMT3JTbGZwV1RrTzNnRkVqMUpOZ2pCcWE4aFQzRl9GbWI0Ykh2VU1kbmRpM2pjRW9wZnNMREFYMGUxM1pXOEswUEJHT0NVX0NCUGtkUTBIc3EwaVVPZ01kb3RrVUpMWjFheDFaZjlocTVtVXBzS0U0YkJzQ01qRHZCekotbVhVUFMtQmRELWFCeUlubW5sWVU4N3IwVG5WOG5NTFRGV2h6dw?oc=5",
+        "title": "Exxon Mobil (NYSE:XOM) Shares Up 1.3% - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnppX1ZBclg3REdWa0VLRjczQ2JSQzgzWEtRN3pNeERrZjgzSWswcDJjdUczS2xlLU1MbWN0ZEVCODBRZ19EQThTXzFNTFB3aDdsaEhLNlpQXzV1WUlpUHpQZ3BmaFN2d3NSeVdNZHVCWThKXzJQMmdhakdzYThIRG9HUFBZem1nUFIydFBUeGNRUlE1QlJaOG1OLVV0b3c?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Exxon Mobil Corporation (XOM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdkpTTkdwbjB2U3dzMWFtV2lHUUwzbW1WZEZkWENUanB5SVZKbXdwWFo4UGZvR1BiNWFjbGxHbmFiNFFYTU1nVjhqTDJKNktZNlZGZzRYaWJqR2kzemdVU09CR0RFSjQ5MEttcVYySjBQdVVsdDZhQUY4NW9iVVVoOU41Qm1UZHVzZWc?oc=5",
+        "title": "Exxon Mobil (XOM) Laps the Stock Market: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRGNkMmllNFdsYWVTOGNFcU9UZWc0aGFLNmpuZ0hjUzI2ckRDMzV1NEJxTXhVcmRIM2VHWEhiNDlaUm4xQUdMMDBpWmRONnRabVdsS0dGWUNGRGlOcnJaazJJbFF2aVY2SE1qbGUwcE9RejRGbWxsQUpHbmw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Exxon Mobil Stock: Is XOM Outperforming the Energy Sector? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVnp5T1FldGdGaEVvZjVQcE1QYnZGQ2dhZm1mWi1YSU9QbnJ3OEM5NDM2VTBIbmZnQ0U2elhjZHBnd1o2WUdHM3NJbHA1QWlKRy05Um80SXA2NDdLM2lzazA1cTBpSUt6eFNDTFdhejlTSFdIeE0tNDNZWENZMHYtVFNiS1BKNElGdElxbzRSZExfQk9DRWp3bnpjTmFiZzhiSWtSOTZBQmdTekVPYVdRNjctYmhuMHhIWFFRUEZoYk1XTndhbjRYOVJ5RldfeHpIZGplNWZCUm5IOTBSRmRubHhkV1FPbTRXWHRTZUd0VTMtejBLc21NdjZ4NVZDdndxeVhMUERkcUdoSXd2TFl5NVZfYmpUb1VYSUoyMi1WQ3p3UmJjWHc4cThOVk5ObnpIdzZ1eUtGZnlwUFZQOV83c3VR?oc=5",
+        "title": "Stock market update: semiconductor stocks decline, LLY and XOM show strength - Forexlive | Forex News, Technical Analysis & Trading Tools",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUUVJckFmME1ONXpDQ0lKQV8zTkJLQ0t2T094Q2JVSGppSm41aV9KR0NNWTZ4VHJiLTVKNzFtWmpKYWY2aWUtb25jUDhNSkNqVXpzZkp3emxNSDNIYTJzTFROTWhwTGdvV1hsUzRMb2kzN1ZfdVdrZXZwOE9GNTlHUTh5YllEQTBZVDVxanVENnA1VWtRTHlhcklTWmNrMFdTekFhVTQ3c1ZEbXNvLVA1VG0xU0lPVFpvVUdBbDE1MmNyczB3eFFwWFV30gHPAUFVX3lxTE9lbFFyNGVkRHVVU2xnMmx6cmdTVzNsNzRCN1hUWktEU2FmY0tXcFZCUDk0U28xM2gyYThDT093QUhwRDFVbU8tdk5LbGZja00tWmJPcDVYNjZqYzNOZTVLX3BVQWFTY0hfbEJ5RzZENkNfMGhoSVVtb3ZwQWhBZ0F5UUI5ZUhfZ2FpZFlDTERjM042Q0lZSks5djgxWThNSnpidGh4SFpvU003NmlyMXlDVlBkZVZCbGtCa1p0dnU1MWU2TVRhaG43azhXdWZPUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Exxon Mobil Corporation (XOM): Our Calculation of Intrinsic Value - The Acquirer's Multiple",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGx3SmNoaTZiRzdyYzFUd01yNFp6Znp3RkRrUVp5Y29HM1JmMjF5R0RtUm5pUGV1dW4yc29mZml3OEJId2NER29wd1dFMjZLUGxoQnR2UlUzclBhMzExT2lSU053Vkh2VVlkRkxzYy1wUExBLUVIb1ZWR1JHVlM0Rmsxd1FMeldRSmVGX3gtYjJwSUgtSW1Sa1NyaUwyOVZ0LWFR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Exxon Mobil (XOM) Shares Rally Over 2.4% on NYSE, Long-Term Growth Remains Strong - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSE5VUGJsWllOa0NzbWhPUGVOajdvRGlERjh6TDZCV0otQ0ZBdWNTcm10QUNkQ3Yzc1FuMXFMOTI0emZQamZkSTRqRVA4S3B4dTl0ZUdOTWQyX1RDRFBUZ3FiUzNJTDZTYXl2VVpCLWMzRXFTbGNwUzBVTm5MbGQ2cUtjWndtTnFGZEpJYmxuRlluQndPdTVTZWJYbGdZaDk5NnItbmZGWm84X1FYM3NvZmN4NUx5b1FiNGppbl9QQQ?oc=5",
+        "title": "Exxon Mobil (XOM) Sees Mixed Options Activity with Bullish Skew | XOM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzZsaXNyQUhtN2wxcG5xODRxS1FuRUJqZUlBU21ZcDhxS3QxWlM0ZVN1UHZqR01odzBqSVIzRElNVlgtbzRGWG9oVjhEekZNOUphUS12VXhCTVlqdG5iX3g5TExMVWtSYXlIMDRGRzRRNmlJQ19HaHFqYVh4Q0QwbkEyYlJhY2JRVmhVaFBIc013QkZxa040TGtuRlJ6VlJLTFFpQjY2d19hakZrNDlDZ1RGUUJZZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Exxon Mobil Co. (NYSE:XOM) Stock Holdings Raised by Allen Mooney & Barnes Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVlR4Y0FNUWxRWGpmaXVGbVBHbEFpazRBcF9PNzFfNU9JaE9WUFRqWkpDVWxkeFY2VVhKOWZnSG9wSkVaSXkxM1N3ZFBHVk1EamdMZnpTVG5zbUdpdGZKdm1LM3pIbkFybGtqaFVndzVncFMtd3RQZHlkd241X0VvRFlNMnJHSWpxTmVJUVotX25VYkJaSEZfOVNRUUgtWTdtVHhrOVBLYWxuZkN5VWoxN2FOZHExc0dJZWxEcVBsYWVIN1AwcHpwTzQ1bmJDNlB2Tnl3R2RBZUdKMTB0eklNYkx5VzE3U2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Exxon Mobil Corporation (XOM) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KY1BrODJjd3NaNzN1bUsyeW5KVHlILWdWdFUyMldzVnphbnI2QjVXQ3FZWnRHY3FtUEVMWW16bEFlVU4wMGVlMkFJdVhaUnBGTlpELXNKVU81bjFqTmZQZkt4YTRwWDE3QzRNSENiX2Q5R3Q3QjdTaWpEYldIZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Traders Buy High Volume of Exxon Mobil Call Options (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWhLcUFKVU45V1NWYmd3cm4xbVdtQXU1MlZrYnRnTkg3bGZfTWtJYzVCWXRMclQyNTNJbUp4Y1NNWXFNYzdGNEdzclhIeUVEaXdtTmVldzFTWm9EdWxPYjFDb0w2VDRvR3lDSVlKZjdMeUNEVzRvb1Noc3h6dmRlQjRiYm5GSW5KM1V4OENLSnktX0I3TkN1MVlyT3U2SUszZF9hOTN1LVRTbHRIeVFxX1VURQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "XOM vs. BP: Which Integrated Energy Stock Boasts Better Prospects? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXdlNjFtNV96OHBzeXZpUUYwVmVwaEVieDdWOURLNjRIQktocUZldGZDZmc4RExJSlZUaTVTaEV3dk56RERQc0RNWmNQMzhYMnlCWFVJd2diSnhKdVpCRzRfdlZYcUNZTHR1SVZxZ3BqSVRnUGd2a1owSl81bFZzelJmSUpPdnFhT0NxdkV2VTZvMFg3aExJMDNPVUs2UE51RlJnN3pMbw?oc=5",
+        "title": "OMVKY vs. XOM: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoTVl2R01WWm9TWTRHb29qQTRZcUpYU0ZHeTJfa1Z1cGM3UjdiSlBsempJM19veVkyUG9kMm5ncWgxZHZUMlg5N094ZGs4cXJERV9kQkNGVFNkTzNDcmpqN1NnaE5ocDNQbG5iRDdKVUx6UGRDTXd0Wkdn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ExxonMobil Announces First-Quarter 2025 Results - Exxon Mobil Corporation | ExxonMobil",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFdxY05Sa1RfRzFzYVJzX0tfZjN6U3VZR0pha2lPSldsQkhVdnpJRWx1bWdnaEpkdjR6cWRSdm1NQm9ZRFV0QVlPaEhHVVdOcFNJQ1N2LVZ3WUJYdVdsbmlyTk9LMTRMUUNDSGRDZV9JVHo0dTNxX0s2c2tuODJleG1GQlFkT2R3Qmdmc3llWXo3d2FFTVJaQ3VHMDg4N3BKYk9fcFJydjNSRmVsQ28xMmItemFRYkU0M3RlYW05ZjE3UDg0?oc=5",
+        "title": "Exxon Mobil Co. (NYSE:XOM) Shares Purchased by Verity & Verity LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHUzLUliY2owXy1uUjdJLW1qdmpFTEUtaFE4RjlLWFJCajFSN3V4ZkdPRDJqWTQzRnRqREJ2azEtNnFIOG1xUmZvNWRabVp4azh2M3pGekpVTFQwYWVfQ25yaVh2b0xQOG45bE9PXzdnTmw4V0hSNjZ4LXIyRThfNmpaWXJLWmk2UW5HdXRTUjJEN0FoVm5SaFpxRnRXVFpwY0ZHem14VThqSTNpZ0tfTy1iQWR2ZFp4YTdBbWRn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Top Dividend Stocks Analysts Are Bullish on Right Now - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZU1kRV95TjRkWU5kb1ZNQklrdzA1ZlRPU3ZjUkJrVjEwUC16Z3VwX1prRzY0QTZteVZxdFZHX1V3LWRRTk1leGs5ZEEyRy1PNENNVnlPd0FDNkNqMHlyRFFLOHlmSUhPMWZta0xOZ3BXQ28yYmtwRG4tcWVPbEdHcmVtbmtjUUFSTU95Tkc4TVZMMHBhajZwOHNXZw?oc=5",
+        "title": "Exxon Mobil Co. (NYSE:XOM) Shares Sold by RFG Holdings Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW4yX0dWaHU5bjJ2TWRIVHU1V2RaQ285RWlvNVpvajVYcXdBTkZqaUlic203a0NXWjFWMDVuWHp0aUVoZ3UzR3BkZzBrNGZiTVlSc3NTYzBkeTBGY3prUDVmeU90c2VGbHUzZmdQWEVTU1lTRHk2dnJjYUR1X3lIcUtiRjBOTHFJek5vU2E2MHkzZ1BYMFBhVnpUQ0RzV3YzaDBHcUc5cjJqZUNZZThrR0ctX2dUdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "QV Investors Inc. Reduces Stock Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUkxckRnMjVLUHdtdDhIdFdIRXlPbUs4QTVzM2xhaG0xT180WnhPMEdpem9OR0hwaXRNallnM3FVbVN3T3p2dTBpNjJIZkNWSU9iMk5lSEw4eTZ6REJPMXlxdG96N3JtU3FNb21Ga1ZNNVBQMy12ekpyd1N0ZTlCcUFWREpXbFhRTzdqcm82eW1SMS1oSHpMNGMyOUljSHI3aGQ1RVZ6U0tQVUNmb2lLdzlSS2Z4Y1hBRkdldndR?oc=5",
+        "title": "Thomasville National Bank Acquires 8,331 Shares of Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlIyOXdhUWxjRXIxODUyOXpKaFdlMU1iMlBWRlE3MXZ4ejVzME5zRWRBSGhOQ0IxTm9za25sd2RubWF6eFNCUEVlOXlOd2VQSktsdjNjSU9mYTZKRGVqZElxMHlUcXNCeGJFQWVVWlBmLURubG1RQk8wY2lYWEZjWXc2cWZrRmtSX0toSkZsa3pBZklmMGV2SHptelJ3UWwtVE12SFltT2wyUmhpeUdVYnFnWmRZa0dQVzZDenZ1SG9JZmtSdF9idGo3Y3h3dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockland Trust Co. Purchases 9,605 Shares of Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRFRCaDk4RkczWW93QXNlQzBFQ0c3NW9sejVIREtvREVWQWViVXpXYU9QNmUzLThQSGN4eWpENnVQUG9EN05XdlBPcWZkWjlLdklpaWJETlZWbGZlZTFyMWNQSFoxcDZpcFBiX0loVkdOR3Roc3ZTd0NSVnBsQjZQZUhVS1dNZUMtYXhkSHVQN2t6VFZPSjItWVl5TGVHOXlwX24yY2hjOW9aRDF5OVVNNl9FVlN2R2d1S0NjR0M0WGhHN3ZS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fort Washington Investment Advisors Inc. OH Lowers Stock Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOejZhbWVNVkJVcU1taXdLd3MyWUFxcm10LTlSZnc2Zl9PM2JEZW50WEtPUGZ1aW1INklybm9tT21FUmtiSjJuWFZBNWNvMFd4MlZYUjBFQ1Bab1BoZzZoN085cmpLRm9EQmJVR1p1dnB6d3otY1M3NVJTQmdOS0w2Y1pnak9CRWpvcGpuaGZzWHRvZDROOExRcnRReFliSzRHTGVBU1U1ZjJXUE9qMDV3LUpwRzdCektWdUhzQktFb19CcE1XUGp6dU12WHJZcUdNLXRnVFpPQUI3OElLbkpWaUVPY3JCdw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Exxon Mobil (NYSE:XOM) Shares Unloaded Rep. Robert Bresnahan, Jr. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXdyZHNpa3o0RVVlTUY0cHM5LXRKXzk5djlUaDc0c3VIcU1LRmlvS042bGZkZk1NQm5IbUdLT2lFMGR0aFNITWtuWVNEZTlhb2lKekV3TXBEc05ldDlJV1F6eEM0Rng5c0VkazRvMjJNU0kzOHplYVQ2UmEzbFRiT3BUUkRXZjd6V2tXSndMNmFmQkF0azBvUktvY3BoMnhiUWhGUW8xNDdYeEdIOUVpRDVVSGxoRlozMjVGVg?oc=5",
+        "title": "Exxon Mobil Co. (NYSE:XOM) Holdings Boosted by Davis Investment Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGEtWUQ2VDI0OEZ6Z2NKRlBOU3NkLUo3YmhIOVZfWUF3VWRYbE44bXlOZ0p3U2hfQlNxV2doNmx5ckxQbnUwN09iYWswNzhwcUJoTFEycUsxTFFtY3JKbzZrdFpzQWpNZFBNUVBQTUcxUlp5LTZubkpFR0Rqb1Z0OHg0b1ZDdTZBeGg2ZEFMWG5vMnVXeWtYVEpPSzRkb3lwMFYyTllJenlPaE8yLVd1bVFxeklYdnlqWlFWckhUSy03dEVqdmJUaDNXN2NFQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Enclave Advisors LLC Lowers Holdings in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGE4am5lcmtFN1lxWDZjZHVjY24xY09nOGs0WFRzTUNxT3ZYY0FMTWU0VzhBd2thV3lDcU1WTVlfcVZRUFprX2ZJTnR0bE5rSnd1a1NTSEJHTy1kcmtWWXEyM0RkNjJVYm1ZYlQxTWdDcWtyUlVnOWlZXzBfS2lvZmgyWkxOSXNOR0tZbmRvcjlSSFlnbmpvbG56Q2JtRnRWWl9Qd2ZlSFdoNmFYT2RUbkM5cWhRYzZjV1k0amlKMUE?oc=5",
+        "title": "Spectrum Asset Management Inc. NB CA Has $4.53 Million Stock Holdings in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUTl6TjFUaXlLVjdEVUtWd2VtQXh2OTY3SFp4YVJseGlTTUlDRno4R2Y4QV9Qc3czRWtaNUVhY3VoYlpHc2gyREx4QUJhMHRTcmw4VWppSERDQ0JzTHZfUWNyX3pRcExJX3lNT1FKa1F1Y0tRV1ZpY291WjF1TFZHNHkxZzdmdzN0THV4cmpoaTlkN0dpQVE5eE9HeDRKREdSZU9sNGpwcUt6QURZY3VZbWZrNkxlU01kR2lhWVVQU05majFudkgwcTdWdHNhMzJNa1JSSGxQRk9Jbkw3VlR4RXNkRVhhbW02?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exxon Mobil Co. (NYSE:XOM) Position Trimmed by Union Bancaire Privee UBP SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUw4Rl91YjAyVW1DZ0kzZXRXbDVudFVkaS1mVlYtWWJzYkxRNkk4V1l2NGpMYktva2ZEclp5T2lDZkRHZlFCRV9lMEVSZVZsWVJ5YUhpdXJJN2w1WDZna1c0YnRiR0NJY3lWVzNyRGNsOFpTaU9hYThLSzNKam13LW40LXV0RUV3OGNDemJLZVpOTFMwTU5XWEhiWFZsME05YlZzcEs0MFk5YVpJZGdyZTlGLWtMS1dIcEFpV3lpQU1kRC12eFNKMkg2M0k?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Prospect Financial Services LLC Sells 4,335 Shares of Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnd6ZDhxUF8tNEswcm9yajFoanhzR21rVG5KemNPdVptVVd3eWV3ejRHRjFKS3laNm1hZGZSNkVIQl9XSWFtNHNDcFhuazB4VjJvS2kwSmNPT1NrNzZUNUl6VGFzMHRBa0dRMk1DYmxfbThFRzZnZjdGa1NuNWQ0cXRXUVE5bTNXRzBiOW80US1HVTM4MHlaWUh4UndvblBDeU11Z3VZcE0weWdlZG9HYWZpN0cySFBQdlJPX1dnRHpNMk00Y2o1YkptVEthZVBMWGc?oc=5",
+        "title": "Exxon Mobil Co. (NYSE:XOM) is McElhenny Sheffield Capital Management LLC's 6th Largest Position - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3JSc1l0bFRGTDRMS2xLSEdCX3NJMjVGZ0tWVEt3cVpQOVB6Q3p2ekNUQXlXa1lfQUNhLWV4OXNLWjA1akkzRkVGUU1xdW9mRThwR0gwMURyV0RUaFFoLXBkNExNRTJ3bTlxV0w2RU91dEdSRWVjM0pTVG5NM0VEMDl6Y0Rob2hQdlJPSTVZcURjOXFwRHhxZnpKb3podEJmWUNHUXRuX1lxYkVTeXBnam9mOWx4RWJiNDFacmF3cmpTMzYxQUFZd2VZRlBZSUhRTGhRdnF6X2NfejJHdlBPVXVONVR6UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Procyon Advisors LLC Increases Stake in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2VYZUZlaS1CMmpDNGtmdk5lNlZreGtZUjJCeWpoN3BJcE9zQTFLcFhWQTZZbWxRUGVDUzNjZHFnSzB6Zy1nQ2k2TWI3OTQ0TTZYU0lyOHp2RVNaRGxTMC1XTkpsTFZOTGlranJaOVBEZzBGMTB6eTVyck95ZDVGYnpNVllxZkhDRUlOejIwYkdXM0FVeFN0UzlwS2FQTGZiUGdma3pPUGxteVRVNXpQYm4zdG5ncVdxcFZyeDc4NGM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Signal Advisors Wealth LLC Increases Stock Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlZZR1pCTjF2aGQ4dXhaYTllTFJkeDM3MWRJVUtIeXBkdHVxM1hwRDVsbTEwZThFRXRKR1Z4bFVQU0l0NXoyaVk2YWdNTXg0S3VpU3dKU1E4amdvUWdSTWJKZU41ZWFVbVVsQjNmZHcwVkoyZWFvcVhoLWMxSzhxOE5YX3FfbVVPWVFOZWhZS2NOczNkaG9LWHpqSm9DSVVPTEFNdFFpdUpUaUpCUFhmdjhqUEtZX0ctZFd6enFpTk5SYmF2anZ5THNqeEhvNE1STF9ieA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Herbst Group LLC Cuts Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYk43N1B2eExtNFM4TGd1dWhGYVhpY00xSWNvOEJ6ZnpVSnhWbl9xeFN2VkdubEE2aVA2NmhrXzRVYk9BREhpOGNKVC10X0pPMGk4OUgxTE92ZzB1WHBIeGFwZUpTeGs0Tnl1NGlnVC1XcXFiVGFFRm54M2NQNXNoUUdXN0tRVUtQSGxtSjlWNTRBWlRCX09nMVF2NVY5cHNOU3lWRXNXZTh4ZnI0YzBtMUdIOENtUS11?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Generali Investments Management Co LLC Increases Stake in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGhfUEhmRTZNeEdkVktDR0hUZko4V2lXREdQblBZRnc4bW1BaWpIQndENDF2X2xOajBqUE9GUnlxYzR6S3lWQnlvLUphelBBS3NGVms1bm9GLV91VzhRQXlQMjFuZVNXaTRleW1PZjQzMURyVUZxbXY0ODJEWW15NlJVR25pNFkwMDBsM0I1cGNLczlBVEFYclJnd3ZCZmVFT3RfMndTcjRxZjBfSl9WVW5WSzdkQ3EtbFZHSGw2d01UVTI3TjJrc3huVmtWaVR1eGE4cXN4YVc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Edge Wealth Management LLC Acquires New Shares in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2ZSZUFnRFZMVjc5OTVVVnY5MmpMcnk0ckNIZWZ2ckVJU3hTN01Ld1hfN3hHdjFQRkFYeWQ3djJWUzBwRVJ4RXlhV2lROTR4Z2NQZUVjZnY2N3Z1WUt5RUhsQzB1Qndsc1Rtd2ZLV2VpZFdnSGdfdTlLRXNQWmY5Y3lWRWFNelYyYV8xblByZVFhNlQyRFV3V0hoYlpjTk9Ga1plV1h5WFRXWWY3akhqdDBkTEhaMi1WVTdlZVg0YmpFX0RXWWxLekh1S2xPUQ?oc=5",
+        "title": "Ferguson Wellman Capital Management Inc. Purchases 9,065 Shares of Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOW1VLVA3UEZFT1pOZ3NwakJvTURLUkFnQzFsdlh0endPQmRRT1VDOHhNMTVLT1lxZmpDNEVuVUNyblllNXFlb1Q1WVc0anJ0MEtNRERYeWI5c1BTOXpvWUZpTFRzUW5BaTdXa01kalNINnlxYmtmQ2xiSVAtVGpicHZSVFVHU25kOXl2dHFjd3hHQzdLZkFpYjBBTjd1N0RkQlpURzJQVmVxb3RoTGxiaExZSFBVY09lUndUN0VMUUdPd3ZUWlM2WEJUWXVvMzVxRFhVX0k1dld0dDEtc1B1UUp3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Armstrong Fleming & Moore Inc Lowers Stock Holdings in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFREY2VNWl91Sk5UV0FnV1V2WkRrY2daXzk2ZzdDZHNwUllKT0F5RlRSQU9GYlU5OU5DRk4wVndfcDktUlNDVlpKdE9kb3UzYkFDeVNEbGxPaW9LLUs0Z1pDQ3RrdXpud1ZfeDhFa3ZWTERoUzk3MWZ1WlBob3IwdGZaT29xSVhvZWdWdHByTjNsNDJySXV3ajA1Rzk2blFXTHdtaGdZY2FSVnp1Q1RFWm1zVkF2aURkTVMzMGtlQVlYaDE1NjFTWVd4TERwUzZCTVE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Vest Financial LLC Has $94.98 Million Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnI1bDJBUVdCU0VTMXIxRGV5WFNZRTJvM1poTUpvMHZyQVFTVTBrdWJCUU1ES1ZacG1sOGM4X1NNS0RkR3FsVmdMQ3VodDBFb0RFcGFQUnZaYjdDb2RjbE03R05WX0JRanRtaHJrcGFNM1ltSUJCMmg4OFVyUWF4RGZnOUtEbWo3dktHVTNIeDRJSG9WLTQtZ1RCRDF1WW5oTzBDank2SFM5emhZWVplSVZFVzltOEd3Q1dIdUdlaVJxR1FKMTE2ZHlqVQ?oc=5",
+        "title": "BTS Asset Management Inc. Takes Position in Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTVYUEtfcWFibVZPV2dIaXlVRGNWVUlGOHJ6cWRHWjRnMzJETjdZaVo3S2NzT21XS2N5OFNaOXNRVUUtQi1mbmJqQk1OdlphZ3VQdnVlaGYzMU8yaThfV24xNHF3bmFnWGZaUHZWX0c3VmQ5T3ktdG5Eako0X0c1LUlfdExTbHlkMFlVYkJHVVExU25YdzNMZ0FIRFVQdWFYaWZBNWF5MzNzUUFfUDdNb2wwNXF5V20xQ0Z6V0Y4YVNJbG44?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Exxon Mobil Co. (NYSE:XOM) Stock Position Trimmed by Sanders Morris Harris LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEEwYngwWjFsSHZlZmJTakR5Tk9UTC1JaEpqczcwQWc4SENDejJRV2F2YlN4blpuSnU2SWw1X1IteHF0STR1R09lNGthUmx6QkUxQVVoWGRqOE5xVG9rMUoxZjFwNjF5cUMzVklxVTZpSkxGd2RUcVFlOEVJZEZzUjRTR1JVRE5TUGQ4TnhJellrbGRNX2pVaVQtRXpkQVh6Mnl4aXhtT1lFdXBxbG04ZlhEOUdWLXg4enhBMnJ0N0w3SnJJcWJLbmFn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Exxon Mobil Co. (NYSE:XOM) Stock Holdings Reduced by McAlister Sweet & Associates Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMDlfakc3b3dYSkh5MDFkam5CSm8yYWpwd1BNU2ZUY1ZYVGNxOVltSTM2MXJ3Qjg4WEt4MUxaQVBNVjlBWUhRaDdXWG5DaWVBamJPckRJTG56dktGcFlSNl9wNloxLUVGcEhFTENwYkdHdUhrOW9YelA0NHY2SGFCZm5ZMDJSX3lDckhmMEVfczg3UFRZSng1R1dnX1YyZVhKU1RJTm9wd1hjLVhwWWd0c3RQaTdxVl9vWnBRUTQtSGVmeGV5TFNwbmNNbklaX3h1UjB4Q3NKVQ?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -3,7 +3,7 @@ import math
 import os
 
 # 📁 Dossier contenant les JSON (structure correcte)
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DIR_JSON = os.path.join(BASE_DIR, "output", "insights_enriched_all")
 
 def clean_json(obj):

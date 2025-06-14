@@ -2,16 +2,16 @@
   "ticker": "DD",
   "name": "DuPont",
   "sector": "Materials",
-  "market_cap": 28445378560.0,
+  "market_cap": 27943178240.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 2265.6667,
-    "PB": 1.2457389,
-    "EV_Revenue": 2.762,
+    "PE": 2225.6665,
+    "PB": 1.2237453,
+    "EV_Revenue": 2.797,
     "ROE": 0.00199,
     "ProfitMargin": -0.00599,
     "GrossMargin": 0.37058,
-    "DividendYield": 2.43,
+    "DividendYield": 2.4,
     "DebtEquity": 33.114,
     "CurrentRatio": 1.396,
     "QuickRatio": 0.872,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.14167198730668534,
     "ROA": 0.03362,
     "PEG": null,
-    "EV_EBITDA": 10.884,
+    "EV_EBITDA": 11.019,
     "BuybackYield": null,
-    "PriceToFCF": 16.04988397648848
+    "PriceToFCF": 15.776213094760303
   },
   "technical_indicators": {
-    "RSI_14": 52.75898997571641,
-    "Momentum_10": 0.6423041153574399,
-    "MACD": 0.268415657510701,
-    "BB_Percent": 0.5072671134720458,
+    "RSI_14": 46.59101028301929,
+    "Momentum_10": -0.0074923391973831,
+    "MACD": 0.3705489799271646,
+    "BB_Percent": 0.1731805793555922,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.6022291621991573,
+    "ValueScore": 0.5582294986856489,
     "QualityScore": 0.3276250961881464,
-    "SignalScore": 0.5687844769568096
+    "SignalScore": 0.598857284913213
   },
-  "volatility": 0.0260114718631092,
+  "volatility": 0.0261759212909618,
   "beta": 1.03,
-  "return_6m": -0.1702368173624153,
+  "return_6m": -0.1649217352406492,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 83.54
-      },
-      {
-        "date": "2024-12-10",
-        "price": 82.08
-      },
-      {
-        "date": "2024-12-11",
-        "price": 81.93
-      },
-      {
-        "date": "2024-12-12",
-        "price": 81.56
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.84
-      },
       {
         "date": "2024-12-16",
         "price": 80.07
@@ -537,77 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 68.13
+      },
+      {
+        "date": "2025-06-09",
+        "price": 68.58
+      },
+      {
+        "date": "2025-06-10",
+        "price": 70.15
+      },
+      {
+        "date": "2025-06-11",
+        "price": 69.4
+      },
+      {
+        "date": "2025-06-12",
+        "price": 68.44
+      },
+      {
+        "date": "2025-06-13",
+        "price": 66.87
       }
     ],
     "current_price_data": {
-      "price": 68.13,
-      "change": 0.69,
-      "percent_change": 1.02
+      "price": 66.87,
+      "change": -1.57,
+      "percent_change": -2.29
     }
   },
   "news_sentiment": {
-    "summary": "Dans l'actualité récente de DuPont de Nemours, Inc. (NYSE: DD), plusieurs signaux forts émergent. La société a lancé une technologie de circuit AI de nouvelle génération, renforçant son portefeuille d'innovation. Des investisseurs importants ont acquis des parts de DD, tandis que d'autres ont réduit leurs positions. Malgré des avis divergents sur ses performances financières, DD attire l'intérêt avec des activités de fabrication dans le secteur de la santé et des mouvements significatifs sur le marché des options. Ces événements récents pourraient influencer le sentiment des investisseurs quant à la dynamique future de DuPont.",
-    "sentiment_score": 0.05,
+    "summary": "DuPont de Nemours (DD) a récemment annoncé la finalisation de son conseil d'administration pour la scission de Qnity Electronics, avec des anciens dirigeants de Samsung et de TI. Cette initiative stratégique pourrait dynamiser la croissance future de l'entreprise. De plus, le partenariat avec JPMorgan Chase et la reconnaissance pour l'innovation dans la fabrication de puces renforcent la position de DuPont sur le marché. Cependant, malgré ces développements positifs, la vente significative d'actions par divers investisseurs et l'utilisation excessive de la dette par d'autres entreprises suscitent des interrogations quant à la performance financière à venir de DuPont. Les investisseurs pourraient donc être attentifs à l'évolution du cours de l'action DD dans les prochains mois.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.85,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
     "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Beacon Financial Group Has $970,000 Stock Position in DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
+        "title": "Is DuPont de Nemours Stock Underperforming the Dow? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUljd0JDa04xZkpuTnR4azJITmIydzFPWWNpczlPUXd1SUM3LXJDcmlGLTd2NVFPMy10b1BJS3JnVHRncVpJSXZHVnhEMXpxZWc0RnlNS1pJVVJsandtQ3E3aWZFVG5LX1ZpRDNaUGlIMDYwRDlqczQybFVDTGlHUDN5aktZQ2x0YlItbE5vR3FYV3N1OUcxSUtuN0V2R0FLaXZQUlB0aFlGQW1YS3Fqc2dDR1AzWkp3TXRYU0FWSldvbkc4NHI2QkpPcXdqR3RVWEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DuPont Completes Strategic Board for Qnity Electronics Spin-off with Former Samsung, TI Leaders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHNxVFZ2WXNqbEMtX2l4WkV0dWF6LVpVU2JhMEtZX1FBZFlYaGFBeFFiR0lTT2VJdy1NMktseTBlZ19lYTA1YnlGazZ5enhldVhGNzNnREZmQ0stcUFUQ2w0bUdjajdadElWXzk0a0VXZzFqRnBMWEdpYm5pekNJdlIxeHVEY0xtMm9NTzhEYUxGQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OLD National Bancorp IN Sells 5,254 Shares of DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3JqdC1GcmFWS1QzMmNhQWN2QUpCWFZvVE1GMEZMelRvSVZfd3RsV2ViLWZNUW4xQllrb3JaM3pQbWFOTGw2Y1AxN2o3aUttbXFjUWc0Rl9FSDRMZlFrVTlYaUc3cS10UlpDeFRIdU1UUE1rMEVTdE9nR2ZnVUduR0tuenRGeld2ZVJaS29KSlliRHhrNngyU3RZbElpUXd3bHk1aGJiQW9wR0kwUlRIYVlnQlZfQjNycG9sR1M4VFVSS0ItcWgxV2E0X2R2dFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont Completes Qnity™ Board of Directors | DD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmxxbjNXZnpTY2JlN0RCM2tUdk9sUjZGenFsdFBuWTdqS2Y4eWZoWEtoRmp3MWtBWTJGdl9LQjRyVS0wUzV3SE02dWp5cGpFRjE1NXNrUzRORENpNENSMExobTM2b3FRLU1uZjFSZnBUZmgyamVjQlBHcERKS3hjZ25DZkhUSWgxTDVUeXp6YXBLUWk1c2d4VE1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan Chase's Preferred Stock Series DD Crosses Above 6% Yield Territory - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFZIejBNeUgtbGNXZElGRW5Xd0ZJSjU3YjFac3lIZl95SUhQREg5SWdtaDJ1MjkzaGVld2JfYjJJdkVVdFNCUlpDQUgzazdTZ1BBOHV2MGV6enRDY0lGWHlwQzk3S2RxZkFTdTJpNHZaSlF3enRUMXBkRldSckNvTm9nb045YUlSelNzQVdTNmxWcG1DTkp4TnpWT3ZZUzhVOTVRUTkxY0s?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DuPont de Nemours (NYSE:DD) Announces New Leaders For Upcoming Qnity Electronics Spin-Off - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFFJNGxxdThfSjFGSFhheEhGeFpaWUJhNTZvS1I4a1RIdHBJdXVUM2tCTGFIZVc0VjFsd2JoSnZZWDdySFJsVWkxX3p4cmhEVkNWYndKby1ZOTU5XzJEbUhKelpOVDFxZnlIQzNhc215ZHFjejVaaDV2YkFMNW9wX1pYbmJ4bXRGc29SWExBZ01HLU9aZ0htTDJWMU1hR2o0RjdGWU9FRWtfYTFrNl9MU0Z4TW1fRHFhM08xYlNuZUFWWnhkWXJwUWZNSGPSAdIBQVVfeXFMUE9nT1k0NmtnZ0hsd1gySFdnb3l4dWdTanhwcWUwMVlOaTBydzRzcFR3d084R3NSU1pyY1J4VEV2YjNDYUR4VlZsWURNVGNwZndWZ1hUdERYbHdtaS1lRndUVzhWRFMyYllEWUF3S0pmYXM5SWtfMFYwcnVmSTYtWUVWLU1jeUJrU3l4MlJCRlU2bUt5MWJGUWt1eUF1RW1XMGxMTk5UMEZKSU1zbnEzZTJpS2F1dlFiZVhyYlAxaGRtMlZSUmdRSk5QYWMzRmhvRnVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why DuPont de Nemours (DD) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxekFULXF2SEZDMEstNGJlbVlZaU1EbU5FS19LSHY3MEQxSFNFcHhxTzYwcVhiNzN4Y05RcnFCMjVxVzZDRVZtNklSRWZzNXpaM3hKRGp6aExISk05eVFrRk9nMEotT2tJMXlSenRseExVbzQ2UWxkbjdsZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont Team Revolutionizes Global Chip Manufacturing With Award-Winning Barrier Layer Innovation - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlljSW0yWG16YUcwVnBKbGU2eVpmTU9McGdLaC1tZVFMWTJiVjg3c3gzSG9aT0gyRExnQWdjdHZWX3FrcXJvY0loMTdzU2Y4dlE2WG5GMHVMbHhZdkNzb1ktMjBvSjFQcUFWT0ZPeU9WYjJxVTFJR01WbkJVVXAxRVZfU3NSVFBCZkdkVEZjTTRRSjRWd3FaajhNQ1hCVkZYVVJ4cm96YklEMlRFVDF4dVg1cllXeGlLQzFv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Sold by Beacon Financial Group - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUxuUWNNcDNzLVBjVUxkUXRia0tQWG44SFIxaVYzdXBMdHhiT19NTVRkZlJwbXJCUl9rdDFIY2d2U0tVMWt3ZDRJZHdHSmFXaTZ3Z0R0MTF4S2FJcEpGeE5zUm5DdUxfWjFHcjlmRlBXc0xnNlh4TldScHF1LWRXUS12TFpCRmU5SXdvOTJSU2RtQUljYnZnU2doQTZfemJvT1NRa2tBcHZEcV9LakI0VFJGbF9EY2RMSHNNWkt6Z1NXM1lBcW5pZ0R6anFvbUdDQVFRMldCenA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "DuPont Launches Next-Gen AI Circuit Technology: Complete Innovation Portfolio Revealed at JPCA 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmRXZkJ6OFFaTENIdV9UMkZzRmJVRGNyQ1JwV0dxcXpKVW9aaVN0Z0hoeV9lemlEUVNkaU9IV1pleXdJSFh5Wk04N3ppV2xZSFpwWDhiQ3dHcjBLQkZCZG1BdjNSNl9kS2dDTXpIcGNXZmxVc0E4TlZ3dVNacVlPS0hwMDZleVJpMHFrOTRRX2d2R1JyZnhHYmhRTzJtVlFrNTZlYTVHTVZxNTRQWGc?oc=5",
+        "title": "Is Luka Koper d.d (LJSE:LKPG) Using Too Much Debt? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUNpeXlfQWxoQlNCNHdWT01saXRhWEdoa1RmVWpVaTE2YXdfQTFMTVc1cFB6LTVlRUVzQ3lFZFpvUWxkNE9xQ0tLVFItUWdOVFFiMW56V25zeWhJcS1EWDk3Q1E4NEdPZkVJTkxGd29SREhBMXVtWDhIaTRaellfektwUHdfc0RHcjNROTVnNDM3a1plSmNta21oOHhINmVoSVR6WF96YmtNU2lIblJMTEI1ajVoRnl2T3FvcDl0bFd2N1YwNDQ00gHMAUFVX3lxTE1UTmRnRFVzTDBUNFl6WEJBVXFrMUo5NkV6M205VlpuajFQYmlnbTF4QXdpRERLY1RSZThVZnVHa1NyWVlqOW1KbVFMQkdTeTBWRjRaNzU0MFJKUmJHUlllN2FRSUM4WURuRzl2ZXlhR1hDZlM0THl4RkhXNmdxbVNzYVp6V3JHUzROVDFJZ21ZWmlwMmtFZk1peWc2TVBmSXIySlI5OWtnODdscVhRVktOTGFock1Idi1nSlZ4MGRwYUdpRXZfY1VPYlBkcg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "DuPont (DD) Boosts Healthcare Manufacturing in Costa Rica | DD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1U5by1VcWlqZUJtRmtZejYzQzVoSWNDMEZianEwSl9nLXU3c3R3NndoSDRaTHFSS3lHYk4yWXBUT0xRWWlCT1ZTcDRGMlJjaDhidkxpV19SVjlqWVl3cFl4d2xFV1F2ZFlqWXd2c0R4dmZZSG9qb2V6S09SUU0tYnVhVHVJOEZLa3dXQ3h0bVVqa0RFcDRtOG1IY1NvZjNITkZfN3JfNDVfM1RTNEE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "DuPont de Nemours (DD) is a Top Dividend Stock Right Now: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXo4NnJzZWwxTnJrM2ZDcTdId3JFakpHSVhZdktJVER5YURvcUZ6cEw3clkxZ1lDYjhBWHB1cWxjZzJkbWNKbU5wd2NkS0xWT19CcmFtMF9uMG1weHh3b1EwcUdMRHpaaFlWUlM3VnROcHdieF9XY3l3Z3VibG5NUTd3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Some May Be Optimistic About DuPont de Nemours' (NYSE:DD) Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2E4QTBwejdGajI4MjY3ckhsRTdzQ20yUnZXVW01SzJ3cW9xZHY3am02RmdQRnFsTDVpaVpERERIWlZfYmNGV05jbEFLeExEV2VpczFNdFFoZzJzZ3A1WFBObHdfWTRPeGxreXJKaHV1SUgyM3ozU2lab3pxeW54bnl0VXZPLUVfM1RDbE9JRDljdGJZZlFlUEF1eFBYR3BnbDRCZE91MFJpQUt3Q0l6bFh4VGsyYmlmOEpnVkZfdVFHUHdVTmQ0MWU1WHlYUdIB0wFBVV95cUxQSzBGRmtqamVuU0YydjZxZE11LTFyRGdmc2xuU1EtcVRTVDZjWlFQVGt3WTFrYzNoVjJfNmR2QU5tdEQ3UlJFbkRnZFBPQ1dYWnNGUFh0TUZFUkYweVVVY0Z4X2NNdnJYZFRYVUVaNl9NZWpYYXhQNlh4YUYzaEVqNVVERllTWFNyek9JMG5jRFYxdVo3c3VKV2MtT1FRa3kydGZDWHlfN2l6YW1ldVQwbXZVQlpDTTl1Zmp4RlRIcERuRVpFQzhjM0QzMjZNQmdmNjVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Bought by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnd4djhwb0Npd2lYSWEtRlNKTUxFVUlnRmdUZm9nd1c1NFJadkJkclI3a0NUaUplS2NsUkRQRGFBSzhQMFVZekRJNERBVVpOc1FZT0JlaEEzcG5OY0taN1FQeG9nVVNlVUcwaXBCeENneGhHSzd4Y3pDdUFpaEljWXBjUnY1Ym9YZ2lHd1VYTUNseWhfN0picGlrcXJ0dE4taDM1NEk4d1oxMnNZOHoyT0RfQ2JsanlDMllQdFZmN3dSYmRoS2N6Q2t6VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "DuPont (DD) Sees Bullish Options Activity with Rising Interest | DD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2FyUDRicnFIV2Z3NWIxdVljMzdCRU1hTFlPQzBzMmtFSnJETHhqeVZpaVNtM0xQZk0zM0xyNW01RUFEUE1YdXdma0E2ZXJ1ZldoRlVKdzBRZ29DQ1pCVUYxZXk2NWxVUDJQLWpKbTJmV0tibjZFWUpnYzQ4Y3FMNXVtY0dWcldobXhnLVlabk9jLXNXLU8wc21NZ0lJeGZuV3d4bXFQUzhDdm1RZkhyMTZURQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Here's Why You Should Hold DuPont Stock in Your Portfolio for Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1Q0dPMV9mdS1jUDVBNEMxUTBhQzZSWk85QTlubUp2Q1NsLUNYRG5RNFdOYWRBQ05rVEJQVjBtUk5xUkNubzBqZlBaRDZmeEJTZl9zaFotVl9wbzJwbHZIQ3FEYUd0czJnT25qMGFkdDF4U1N5WFVrZGpiNFNvZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Salvus Wealth Management LLC Sells 3,803 Shares of DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0pydzRxRVFtc1FycjJ1Q19KS0lnN2RvRU1tbXR2c3ZyQm5zajRSUi1LbV9YY29ka25jR0pzZVpteWN4N1VHRy10V2NkeVd5cmRtaktmaW80QW5zZWdLVHFhWExpSW9UaV9rU0hjemVaSDcyaUxTSTJQTU1vSS1wY2dVMGNNXzluNS1weVhPcS1WNWg0ZzlVRGZiTVlZMjZ3MXVYbFhGN1ZrVTh6a2RvajVxNElFcUJ0ODZ5UjU5QzRyNE03bWZzOWR3aFF2bXY4VERTN1ZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Was Jim Cramer Right About DuPont de Nemours (DD)? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42V2oySXF2QWRub0NvSWdVS2treTdsNGVDZGJKdGhNWWlSWi1haDV5c2ltVEQ5bFNGLTRwQ21zNWRLY19GYTE4VVJhVmZvc3YtaWlCYUhFTlZFRm5NWWJvRGlsTVRyMFpNdXFNMTZFYm5iei05OHU5LWFtUWd1ZVk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Meyer Handelman Co. Sells 14,011 Shares of DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHhxSWpzdzhfUDI0RTctTlBBQ2ZvbDJ0LXp0NmE4QzlyUmNLbnl6NFdGYXFiMmpoTXotSG1QVzNra0JUMXRWNGVicFc4TWxFVUkxMkloWDV0NDJGVEZBYXJKSTRKc3Q3OVpzUFczUU9Vd0JLRHVxOW5vWGxGTHgzU0VFS2NrM3VFbTJNTHVzdkFFZTBScUY1cHdGZGZTSFJJV2Jfdm5nQ2FyWS1LVW9pUTBwMTJMYlVJSWxFQmR3WmxFSU1rMlJuVGJ3?oc=5",
+        "title": "JP Morgan Raises Price Target for DuPont (DD) to $93 | DD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkY2clFESXVlQnk4dmJSaVZ3azNMTC0tdjZRbVZDa2lkaUltTHo5LWZNOGptMFh3ci1nRjV6dUpsTWdwWWhPUTRyZlRjZnRPOEVNVmdsb05hODVJRjhXS0VtY2lMcnR0TlJpS21kX2ZEc0dFaG1Pc3VaQXRjWmk3RElONlFTUUgzMG1sN0JVM0hweXhXZjctWW9nVXZRc0NNbjBQRQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,38 +616,38 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "DuPont Expands Healthcare Manufacturing Site in Costa Rica, Adding Sterile Packaging Capacity | DD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1VlNkJhUllITXZLdjRIcDlLTDhiU0Rvd3BBMnJCeXlVekpxTkFGenN3ZjhjTmRYQ3VBN0RRRlBBc0x2QXNyZG1mTzc1WW5QcGhMRU1JNWhMNWdwbDVJNFFVdjZzcjFEX21SanhYN1c3NFFkdG5EZE05amZGR2YzeURPajJDaURReDU0VUU4UkdxSzdsM2pYczg0eXFFYWM4MWxaNHMwYzc2RVp4NWVWS0RQeFQ1dklseWl6NEgzQTFHbC1PY1ZIUEFvbFdzbHZMQklxMEwwNVh1MFBqOUE?oc=5",
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Position Increased by Pallas Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXVWVEJ1T0NjSHdCV2hFZEVEXzBhQkd3VV9nRVhORmxUb3RoQWxIblp3NXVITTlKQl9nSzN1LXBhcGZuZXUxdWc4YnZfUlZZa0xxV19uQ1pDVkdTM3JBaDVQQlZxRWt2U1prUVBZODFpY2haVW4xekZyUHFEdkp5RE40RzNZOGJEM3Z3dkptSVdzZ3pmOFBwQjN2ci1Zd19SSEktZTBydEVwVG5aRFFJZl96aUdrZDFOTmZGZzBOc2FpXzljQTBEb3hmVEtfS2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Acquired by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1lPUUhKOWcyQ3hBTkRENGFubEdQNlB2UUE0T1UxNHFBS2RFekxYZGo4Vk91OEUwZmVISWFJNXotd1FmcU5GYzBYN05sX3pzTWZSQ1FEcGVoWldYU2xFS2J6Z284ZGM1dkV1Qk5YUDgxSlFpZGJMQUZGeXJTYXF4cGpaMlNUWDZtTlpta0ZEaGJZQlR0UDREbk1oWHN5cnRXM1VhR2ZJd1YxNkpmSE5MVUU3czA5S0JRQmdIX1pCMWlmVk51M0E?oc=5",
+        "title": "Plava laguna d.d.'s (ZGSE:PLAG) Stock Has Seen Strong Momentum: Does That Call For Deeper Study Of Its Financial Prospects? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaG1OR0YybFY3Y1pvS1o3ODFSZy1uWUxLeGhvdFR5ZF9SQzY2YkNydHp6dXRGQW02THJFMHYza0tmbjlaQnhESDM3Yl9wdWx4c0dKRzNPd2hIV2lEcjB0VXg4T3VOZFFudnFvV3hOcnBGTlg4SkJFMlRZdGdwbkdZbkVneXBOR0VDYVF0VDQzYm1IZU5YVTFvWktUQjEwelFhSjFvX0taNGhKZ2JQc3R6MUdsRXpDVjdoMTM3cnM1OTdjSS1MZ01vV0M5SmN3Qk9RdmNidHNtNURhR0dMOHhHODNR0gHnAUFVX3lxTFBoNkoxcXFsdERvVk9SYnROVnRyeDFEaFNuV3Noc2tyRk5VcEV0S2pHWkZaYzdOQmxacFhiQlZ0YUl4d0dRNDlWZmI1ajVXUGdFN3ZQaW5ta1F0eVlIMTlNSjUxYlR1NkFXTmJ4MWJNYTcyRHlOMjRQZElYSHRvMlJabF9CV0R6TC1VRjNrSjJPQ28zNFZ5d05Ua29rVFMyNEJDanl1U2dWUThaMUY0bjgyZHJVMEd6cWpVTWkwMzlJR0dtSU1tSHR5Rld0UWwzU2ZWTHdMT2ZxLVhzMGRHZmItM3FhbnBEOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DuPont (DD) Receives Target Price Boost from UBS | DD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2JldVZIejZ5WTVfeGxiT2pBNjFiLUozbFZOaS1rZFlxcm1oV21NbTRpa3gtYkRqZGM4N2d5eTU2ckNhWm85aVBkUG9YRWhGczFnb0RpSGVyWnliYXhia2d1Wm50NWtUejhBdkxqd09jVVpKVVY4NnhpWGpFS3kzQ0ZqZHRyWEpybVBOZHlZQ0ppM0VrUmdJVEx0cnVjLTh1Tnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DuPont Unveils Revolutionary Chromatography Tech: New Resin Accelerates Drug Development Process - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjFfOHotLTlxTjhLa2Q0ZTNVNFBYZHB6dDZNYTNrNVVnR3lFSWNfcGtfZVNyS0FqdTVNQVoyWnZncXB4anA2RDREYU5sUWZhWFBPV3B3d1hNUnZXWi15MUtXbnRoRVY2NDk2dllYVG1hMExFd2l6WTk4bW0tU2lfRzNSMmdNOEtKNndibFZid3FCczR2Q1BLQkRNZlZiajNMNzUtZTJOMnAwakQ1dkxTMm5uSFVPNXpHdkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "There's A Lot To Like About Zagrebacka burza d.d's (ZGSE:ZB) Upcoming €0.055 Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdTZpRmJMdkJCSUtpdWJvbWxMSVpROXRhZkpDZ1ZFZUJLNW9jdTdwUTZOV3ZaSEVaaEVfeTNXdVZ6TTBsaTVDMEtuWVVtdWNmbkRJeDI0VGI5LTJQTGRLTTJpYjNUNTdTTU9ZNVpubU1ycXljOE9JVzlDWXNYanB1dGxCdENoSUVDaEp3ZkdsS2llUWJQZ3ZuQUx5YzU0WW9vNlRWcDNVT1BVRTN3QTg5ZmtFdm9zdVhQb2FiTGx2UUlnYkhHcXJxLXdwU2dXZmdHem5QNkE4aU9CQUt3V2k5VUZaMWdOT1U3SEZj0gHwAUFVX3lxTFBPb0tTX05NRlhucXRKRWRSS3hVeGNSdkJMSXAtTHd0NHNFNmxoX3FjV0dYWXBMX1R0aXZSWnBxWXZlVlFXSm1EU0JSakhXM0x0allpY3kxZ0ZfMkhIbjlCeV9hb3ZzdlRDcUNPTVMwbXItV1V3N2dIcUJ3dnRianhqYWpJMlJIaFJEM2QtWTcxY2NKZ2ZoSklrSVRYa1FncEZoSU8tT0MwSVFWc1lmN1JYanB1R3FoSVZ6b0RaSWFZUU5SUHkyS3R2SWktTVU0M2ExUmlxYndpRDlWdmRwSDBPempaMV94eTFENURudlMxdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Acquired by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3VJQkNPelRvaDRmbzdfVHBsbGZTZzBPb01KcVVhcy1lM0YzMGt6TzNSMlJXbDZtWXJvMVFJTXpUZERoUG5ra2FqWkVyTXBHdmg0Y1U0ckRIa1QyTEFHc0FiWUpPQ1pGT0hkWHFwbWxybkJMRHU1cU1RNlYxTEVuZUJBeC03SkpXNVlobDNhb0JCOTFKeDdQcmNpb1hyLUtXRnRyOFdVM2lKMVlSWldTZ0ZydE03N01Cb0dnMVFMaGF1Q05TRmhqcDZjeUNGOVhw?oc=5",
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Acquired by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYkdhLUZZT1lDM3lQRjZXZXRmeDVMaUJ3d211V2g0MkloS0NSMjF5TWk0TlQtajBCUUtaU3UwTC1Qczl3VzYycUJsLV9DM01jVzFFWnlxT2NsR19FTENQcXBSeUdkaEd5RENKZTFjN0d3LWtOcWtSSG5uU0FYWXBFMFBBUDVYNkpZc1pwaHI5WVd3RzlmY1ItT1Vyc2RJbHNPV1owWXpldWREWmthazh3QWhNc0xIMENZSGdIel8xZFVsUE5aUmpNMVpEQnN4eWl1NjVONHN4QVI?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Wealth Enhancement Advisory Services LLC Acquires 12,108 Shares of DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdEpRVmVCVlVRWGdsak9abk4xTEw3TzdpQmlKaUpkVmVRT3dIbG4ycW5Va0dWUHAzeVZUNkdoTDFaRkRUQU5UcnpjX2g3a0RPRDZ6NkZaekkzbHFFV1hJaC1RM09LaTNLWm01c3NnMXhqRlRjT2otbEFZT0s1R3ppQXZ5ZTVhNl9adnZlcDcydlRKaWxld3F3N2pXcnhWdDNzX1BqRlpoWjJXbi16M3N4NXpocHZaTTYwMENzVzJ5TjVFeHl1dERpb0hMLTNtckJqdUxXTG1KRHB0a2puUU8w?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GTS Securities LLC Lowers Position in DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkhUdTVma3laNjcwampwX1NIekgxV0FYaGM2RHRLRzI0elZ4ZmpWUnFfZDFENzdXdVlaUUZWbDdTMFZRQzV5NS1Nd2ZPTzBUSjdTcmdiVGJyT0pidDlmNUxjbzFUeXZjRzZlaHY3Um9adDM2Q21wSWI2cHkxS3RPVHN3ZXRvYnFZbG1naF9oeXFEWVVaTlQ1OVlFcXdET2pWY2xCNUE5VFZLTl8xQlQ5OHhHTV9yaW5sU3BYWUZJSkI?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "111 Capital Acquires Shares of 7,437 DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbUJPWXpVTzBYU0w4MnI3RUpzeUZmTThjM3R6bDVlWGlBZU9GeTNfb0dLcEJ4c3J6dVFVaVg1MEJodl9SaTZjSW1UQTJuMU5ZX1V5RzFGYk4zYXl3bkRnd3U5am9hd05DVmdmOVp3a1lrMEY2QjZGX08tUVd1S185VjFfUVVlUzVtOGtwMjNqbWVjVHhHZVpULWlBbHJtZzhKaU5XQTlrQVZkdGE0Zk9wMUhqa1FEVzNzS05sWlRRM1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes Position in DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWXRPWC1BNWpxSmlZaWtCdENKb0FKOVdXMUF6OWtrUGNMUGVfZDJWazRGWThzV1pqdHhtenRUNWVhREFIb3VGVWFiaVJPZmtHTS1pYU53aTh5ZWFpNWhab1YzQXRaOHNiM0cwNmpDWWxFZFVmUWJIR0d2RER2R0U1UmRBT01NcnY2QmU4ZElIVlJmUnBGZUhCVkVkWTlTRVhCb3V4Qnd3bVpMUkh0R1J0RkU0NGJ1MmVmczU2NHlSX01oMURKM05MZ1FFdUxnZWgwd0thcHUtN1JUUkdaQjZRYUhwQ2N2NEI3MEl0QVd2YkxnbXl2WkxsVlRncw?oc=5",
+        "title": "Salvus Wealth Management LLC Has $261,000 Stock Position in DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0pydzRxRVFtc1FycjJ1Q19KS0lnN2RvRU1tbXR2c3ZyQm5zajRSUi1LbV9YY29ka25jR0pzZVpteWN4N1VHRy10V2NkeVd5cmRtaktmaW80QW5zZWdLVHFhWExpSW9UaV9rU0hjemVaSDcyaUxTSTJQTU1vSS1wY2dVMGNNXzluNS1weVhPcS1WNWg0ZzlVRGZiTVlZMjZ3MXVYbFhGN1ZrVTh6a2RvajVxNElFcUJ0ODZ5UjU5QzRyNE03bWZzOWR3aFF2bXY4VERTN1ZB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

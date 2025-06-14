@@ -2,16 +2,16 @@
   "ticker": "TXNM",
   "name": "TXNM Energy, Inc.",
   "sector": "Utilities",
-  "market_cap": 5251947520.0,
+  "market_cap": 5240346624.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 25.1912,
-    "PB": 2.0971694,
-    "EV_Revenue": 5.664,
+    "PE": 25.135555,
+    "PB": 2.0925372,
+    "EV_Revenue": 5.677,
     "ROE": 0.08863,
     "ProfitMargin": 0.10108,
     "GrossMargin": 0.59444,
-    "DividendYield": 2.89,
+    "DividendYield": 2.87,
     "DebtEquity": 239.703,
     "CurrentRatio": 0.289,
     "QuickRatio": 0.145,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.476409130878347,
     "ROA": 0.02575,
     "PEG": null,
-    "EV_EBITDA": 12.978,
+    "EV_EBITDA": 13.009,
     "BuybackYield": null,
-    "PriceToFCF": -5.470049376697449
+    "PriceToFCF": -5.451729249999001
   },
   "technical_indicators": {
-    "RSI_14": 65.8881902344738,
-    "Momentum_10": 0.5324540539750559,
-    "MACD": 0.9679452448477832,
-    "BB_Percent": 0.6797176360841478,
+    "RSI_14": 62.05224202107425,
+    "Momentum_10": -0.2381342825956603,
+    "MACD": 0.7616019836879246,
+    "BB_Percent": 0.5442941809186304,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9279418440688904,
-    "QualityScore": 0.4773954014336389,
-    "SignalScore": 0.4541108988311156
+    "ValueScore": 0.8891109565376311,
+    "QualityScore": 0.4886502667379697,
+    "SignalScore": 0.5193581790078774
   },
-  "volatility": 0.016887707604393,
+  "volatility": 0.0167995566832984,
   "beta": 0.143,
-  "return_6m": 0.1676217170601128,
+  "return_6m": 0.1683585494958868,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 8,
     "target_mean_price": 58.65625
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 49.04
-      },
-      {
-        "date": "2024-12-10",
-        "price": 48.42
-      },
-      {
-        "date": "2024-12-11",
-        "price": 48.27
-      },
-      {
-        "date": "2024-12-12",
-        "price": 48.58
-      },
-      {
-        "date": "2024-12-13",
-        "price": 49.19
-      },
       {
         "date": "2024-12-16",
         "price": 48.47
@@ -537,32 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 56.75
+      },
+      {
+        "date": "2025-06-09",
+        "price": 56.57
+      },
+      {
+        "date": "2025-06-10",
+        "price": 56.6
+      },
+      {
+        "date": "2025-06-11",
+        "price": 56.77
+      },
+      {
+        "date": "2025-06-12",
+        "price": 56.74
+      },
+      {
+        "date": "2025-06-13",
+        "price": 56.54
       }
     ],
     "current_price_data": {
-      "price": 56.75,
-      "change": 0.31,
-      "percent_change": 0.55
+      "price": 56.54,
+      "change": -0.2,
+      "percent_change": -0.35
     }
   },
   "news_sentiment": {
-    "summary": "La société TXNM Energy a récemment fait l'objet d'une acquisition majeure par Blackstone Infrastructure pour 11,5 milliards de dollars, entraînant une hausse significative du cours de l'action. Cette opération a attiré l'attention d'investisseurs institutionnels majeurs tels que California State Teachers Retirement System, Bank & Trust Co, ou encore Moody National Bank Trust Division, qui ont tous augmenté leurs participations dans l'entreprise. Ces mouvements soulignent la confiance des investisseurs dans la transaction et pourraient indiquer un potentiel de croissance durable pour TXNM Energy.",
+    "summary": "L'actualité récente de TXNM Energy tourne principalement autour de son acquisition par Blackstone Infrastructure pour 11,5 milliards de dollars, signalant ainsi une transaction majeure dans le secteur de l'énergie. Cette opération a propulsé le cours de l'action TXNM à un niveau record. Cependant, des enquêtes sur la transaction sont en cours pour évaluer son équité envers les actionnaires. De plus, des investisseurs notables tels que GPS Wealth Strategies Group LLC et Mackenzie Financial Corp ont augmenté leur participation dans l'entreprise, reflétant un intérêt croissant malgré les ajustements de notation de Mizuho. Dans l'ensemble, l'annonce de cette acquisition par Blackstone a généré un sentiment positif sur le marché, avec des opportunités d'arbitrage et des risques potentiels à surveiller.",
     "sentiment_score": 0.1,
     "label": "POSITIVE",
     "positive_ratio": 0.1,
     "neutral_ratio": 0.9,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "California State Teachers Retirement System Takes $3.96 Million Position in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGp0bjJjdVV5SGZTLUpaOVJwZnAzYVBwVWNtSDVsczdJTHBFbGVyOWJmWXBZU1VYV2Y1VWVCVGZudXMyLW9Wd3F6X2JKRmlfSXh3UVM1b21semFkazhOUjRjTVh4eHJhQThjNWJWVlBFbmkyZnRRQXh4dDVyNGR0STRFZTVXcFhPd2xTMkVrNVNzR19QSmN1V20xRTdyTENMTGhfcTMxaUxfTnp4M1FBZFpWajBJSkhHZEIzUzVZQ0pvY2ZPa0o4MVp6X0NUY18xcnNwbGxQZnBPeVZJOGctRzdvOG42ZHVZSGZreVlYNzZMdzBqNzlvNA?oc=5",
+        "title": "Hennion & Walsh Asset Management Inc. Makes New $270,000 Investment in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSnFTRXVHZ29pMGswcG1FU0NrMkgzeUIySVI5dExSNjNHR2FaWjFoUFR3ZU9KUWlORHNsSU1DNGJ2R3U1YTI0Um5BckNvb2d1d0txVDJRck9nYW9HRFFiZ3ltYWVPY0thVkd4Z1lhaVRoLU1BZElkQ0lkdzFrQnIydkpoOTBsRTRScUFINDVHamNuN21UQXdXREN0Y2h0WnNPeFAzSzJTNGhmOVM5aXduMDRFNGVDZ2RGejdxbFhrOUpBM0xBUFpoNVlYeVFYUjVhUTZPRzBkcGxqeEJl?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "TXNM Energy Enters Agreement to be Acquired by Blackstone Infrastructure - Blackstone",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmhlWThBVkFLNERtNWY4cmRySTZWM0pFV1oxUFF6NDBabHp5b2NmczZuX2c4NC04TjJiZmx4elI1X0ZBTENiTUg3NnFfekFkay01YmlYMUtqSXFFMnJuMTRGRzZFWWtjd0pDaTMyTldVaEpxVnpTSEhHRWFBTk5hVEhkclZUTWktYjhMS1IwY1dubGhLYzdpQ3BIRG5aTTFwemtCWFc2Um4zei1RM2lsUA?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Blackstone bets on soaring power demand with $11.5 billion TXNM Energy deal - Reuters",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMU5hUzFlRFh0T0FPeUZvb3YyMGJ5Q1M3R005OUt3WFZMcG5fOEdzdTNZNTRBYVJ2VXFnOEhteHBrZmNjbzZQTGdTOXJUak42bnpmYm1sZHMxb0VrOGNlZ1laa3diY2ZsRlFPVlE5dFI1aWJVT29VZk5VUHJISDhSVjFFTTJKN09naWVzVVBGRWs4aHpRRFBqWkRhTER2YmFH?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TXNM Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of TXNM Energy, Inc. Is Fair to Shareholders - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlRQdzdYR1dGWkJ3Ylo5OGxNYWNVZFhPVk12TXFKQ0xCdXNsdDN3ZklpVGlpbjNabnFIZGR6eGpZeElJcXJicTMxS2hjYmNGSVFZd0ZzQWROU29HOEpQNmo2RU5YRGx4UWo0RkktOFlJcURZT2RseGhOQTFfb1dCc0FMSkpZbDdJWHNONGk1VEUyMEE2VFB2akdrWTd6RjNBQmpremdTci1rcGFhOFBvTVFXYlFINXg2ZWdZVUFrZzNNU3MxcVZNWUZTZFhMU3lxWkt6MUdqTDE4TVY2VmtEX3VGb21xd3A5bjdCcERjVFZBMUxkUEJoTmE2SXQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,18 +581,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "TXNM Energy Enters Agreement to be Acquired by Blackstone Infrastructure - Blackstone",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmhlWThBVkFLNERtNWY4cmRySTZWM0pFV1oxUFF6NDBabHp5b2NmczZuX2c4NC04TjJiZmx4elI1X0ZBTENiTUg3NnFfekFkay01YmlYMUtqSXFFMnJuMTRGRzZFWWtjd0pDaTMyTldVaEpxVnpTSEhHRWFBTk5hVEhkclZUTWktYjhMS1IwY1dubGhLYzdpQ3BIRG5aTTFwemtCWFc2Um4zei1RM2lsUA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "TXNM Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of TXNM Energy, Inc. Is Fair to Shareholders - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlRQdzdYR1dGWkJ3Ylo5OGxNYWNVZFhPVk12TXFKQ0xCdXNsdDN3ZklpVGlpbjNabnFIZGR6eGpZeElJcXJicTMxS2hjYmNGSVFZd0ZzQWROU29HOEpQNmo2RU5YRGx4UWo0RkktOFlJcURZT2RseGhOQTFfb1dCc0FMSkpZbDdJWHNONGk1VEUyMEE2VFB2akdrWTd6RjNBQmpremdTci1rcGFhOFBvTVFXYlFINXg2ZWdZVUFrZzNNU3MxcVZNWUZTZFhMU3lxWkt6MUdqTDE4TVY2VmtEX3VGb21xd3A5bjdCcERjVFZBMUxkUEJoTmE2SXQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Blackstone Infrastructure to Buy TXNM Energy for $5.7 Billion - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQRjk1YnBFSlo3QUJnZGxMNWtveDc4ZGNrblpaY3p6bTRoUVVuQWxONlo3VmFZRC05MHB3SU9CNXJoOGl3cXlMR1Rja3ZENlprSERlZnVvaTJHcV8yS3pEWnczN3BiSlF1M0RXbll0YUcyczQydmdnT0FNQm44V1hzYlJFRGNjUzRwLTJHNjdyWUI5dXJMUzR5d2FmTEJpUW1qZTNFVmpYMGZBTGRrbWRxQkp0WEtrOGE0cVI0QVF2OGVoS2hmdFNRd0cyY1NGTy1tcDhoWWU4SnRWbm5LclJSZ2Jobm9nd19MRWdPN09kc0JaWHRHdDZtVXp3azJzU05DMjRtT2VSNXVNcUJ2UnpMS21CRUNmZ1BUSkhNUVM1blNobnRUWU5Ka01aS2Voek85bjdvUllHQjNISnFUS2NOQk9YNmpLWWxqN0ZlZkx6Rk5ERzVGQzA4VWo3VGhCMHBRRDl1UG9xRi1lT3loeUtWZm5jcEVaRGJZcTN0TkJBVkJvRWtyWUYtRkFIWEJuZ0VsNmVmbmxoQWg2TkZfVHpnRnUycDBVWThYSmhCYg?oc=5",
+        "title": "PNM parent company announces $11.5B proposed sale to Blackstone Infrastructure - Source New Mexico",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUx2OVBtT1FZQWRVWXN5QklSOVA0UkctUmcycWtkcWpYbTlCRUFhd2RkN3Y1MTBKb3dZZlU5dnE0N2lrZGxFc28xOVNmSzdLNnBrNkUtQ1p2ajFkMHJrZGxhQzREMERSeHU4bEZURjhlVVZMNmFjeW5TNl9abnVCc1NjaUR3M1locFJpZUNYN0VBOXNldjBKM2VOUGFqT01UUndCRkYtX0E2UQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -591,8 +591,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "PNM parent company announces proposed $11.5B acquisition deal with private equity firm Blackstone - Santa Fe New Mexican",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVmlKRGxvSS1oc0hVQkVTNDk4MXYzQlJfRk9IN1FlRFZPZnFpc1F2bnpZdHBzc0F1eVkxTUc0a05uV2ttNzR2TlFtSm1EYlZQSlFZUm0xUlFnOHRic2hmUWNRMFQ0MmtucTVKcjNZbHhHWUNEX0dvbGlPWjB6OElsWkI3V1Y5NVVBdE5rVjRLVndJdmkwVDVuTHRLUDlQWFZXa0o2NS1uME1kaWswNjV0TXMtSE1VYndkZEJWcTVTVUs4QklER3IxVC1oaXhsUlBSM1ZYZnNnTUtuQ3A5Tl9JRXJCSDZoS2JwaHFsUjNEMldrQ25kWWh4T3FSaWlvNXJaZjl4TzBnejFsV0Y0QndxWXpvS21RUFhud2VXU2hlMG1Kdw?oc=5",
+        "title": "GPS Wealth Strategies Group LLC Buys Shares of 5,748 TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNEpBZTFfaUppZ0trTElnLTV4RWJ0ZmhwNjRITklweGh3ZVAzbHZxS1NSVjdxWHBSemw5NGdpV2tyYndfeGNfWk1ZQnM5MUNKTkRDV0JvMUE4MmlyQ3ZMbjVlNXRwanppRkNNWUNZNFo3dXRfRDl4LWNfYzE0VWlpMlR3VUNRakUwTGZRM08tUDJKdnEwb1VFSHJ4Nm9MSTBrUjJERVhHbF9Uel9RQTRjSThCaDhxUFBuSFNwbnZrUHRiSUFSM2ZnNjVuaHFPSzdEOVc0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Blackstone Infrastructure to Buy TXNM Energy for $5.7 Billion - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxORHZpb1MwZ0FacUR0Yl9KTm1WYjluY0lsaENWZ2didkpJdzk2Vm9RaEFyTXlmVEFqUzRCMDdmQmJfWGZBWk1CVm5qZXpqLUtSVGdYWDhKME1PYXZla1BJeFhDaXA4bnF2SlpMRjNsTXN5NUZzdlZ4SWFiczMtMERrVW9SOF9Wb3FSWnlBNkI0RkF0cWZ4ZWdtSFdHR0NaR0txa2Vhb3hfOHA0bkRTaEVwN2YwQ09OSU1GYWhYT29yWF9JWVJrWmZGWnN5cWdwRm5NYjBXNzF6bVNMcFozbDVhd2loLW1oeklNSEFfdnRXZGc3MllWSHpmZ1dZbmYweHFNeFlvTWVZWDJfMlo1TF9GTnlXaVlXLWI1T2F6SXh0UkFsYzlObEprQkx2MmRMakJrWi1jM21jSXBSMmRYSFNCdHBESWFZaVZSTm5iV2hZeUZUNFRDelMtbkNZQUlyRTdsdXNQSUVocEI5N0R4eDdkdDZFb3pCbGxudzBzXy1oUDJ0TmthWDg2UlJ2MEZVLVplWnM2Vm1zRDlpdDlYcTlYVjZ0UW10NG5mQ0xfUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho cuts TXNM stock rating, raises price target to $61.25 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzF3N1BTNTJoaFMtemE2V2VONVVNSURFZGVWTy1SYm42dFA3OXAyNHZpOXJUV29NUnM5OWNlQ2x6ZEZVTUMzZ3lnQjdLRzhWd29LdkpXamRFY3NXRFB6c0hVU1gtY2twVUJ5dHRjZVpuQkk0alVSWUxGdGxzZjVKUzI4RHNpVVZpbDluUVZobXEtT19QV1Z5QzhISzdGdTRWTk5adWp0dVBZdlZISnpKSFJ5QVpqSUpM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TXNM Stock Price and Chart — NYSE:TXNM - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nUVpIWXlXV0xIa2tOcmlYTjZPRS1LeWJIVXplZVJDM3RDajIybER3bEZUWU03X09zX3ZCTGYtM0VYVDg4RTAwVTV2ZXRMSG1zaXpneVRFVktLdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Blackstone: $11.5 Billion Acquisition Of TXNM Energy - Pulse 2.0",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZUDRWVE5Pb05LTWdZYzJNUGhHcGtqQlQzQzJpUDNIWDZXVHZQRWNVVXg2MmdXLWVPUzVyRTV5andyWFpYYjZQRjVuQi13M01mY1dESWtmNlYxWFdwcGhqQlNPa2tvdjQ2Sm0wYkhxMEVvQnk2cUkzbWln0gF_QVVfeXFMTnM5OVNja3V3VzR5am5IMnFCbU00S0hYQnV4ZzROVGdjdWdnZl9qM0JfRDQ4TjQ4Zjl5eEJfbFlucE1kR3VPUU1HUU16NTFsMVVUb1hlaHkyeEt6TF8tWjBBZGtfNVZMalBGbmtSUlFJRjJnWGZnMHFCSFBfOHpkbw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,61 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Squarepoint Ops LLC Purchases Shares of 9,217 TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
+        "title": "TXNM Energy Promotes Internal Finance Leader to CFO: What His 20-Year Track Record Reveals - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnRzWE9zTUFGTHljaWcwZER5dUlJbTBNbFJvZ0dVZ0pxbFFSd3REMll3Y1FIa3JoWjhrZFVEZTZoeFotMmU1OTNzeVltUjlwM0h6N1FCZm03X0xKS0x2ZGh0dUh1R1VBTDZsaFROQ2RVdkJxbTZYbk8wMGRTd2NrSDJSdW0wR0J6b2FGT3FuV2pUZ3dRbFJURnhCVVRTLWRBUGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Blackstone’s $12 bln utility deal tempts overload - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEJjSDd0czVqZzhIMTBMb1FlVVQyQW9IUDZuUVl2VGszbDlfLTNueFRPR3dEeDlIc3E1Y1I3MjRMT3JabTZ5RklrYVdjWFZNWVItdFdtYjdYRVE1cEN3R1hWZXcwWGFYOXdBeEh5V3dvQk0tV0VJRmlDNlUxc0FWaG9VeEZfUl9aSHZweUJ2Rm9kUmphZk5NVlZrcE9ieXo5UkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Acquires New Shares in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMnpZblhKVUZBc05Dd1I3bkdHWGhHbHIxUElqeG8ydW4xbjNnWi15QjlOSzd2X2YwWUxnZFdfNVFrUWY0WHRKZlllS2RPUUNkaHpGTlZGZkpXT084Rk1FOTl5MGlFd2dka01mcnhWUm9IOEZUYVhtQ1JGQ3dNQ0pFZlpvTDd2QldaMmFmbmRXUmUxN2d1WTFWcHFneGlRSDExSm16VWFDeVR0U1lEcFdrS3J1bWhxQ3hCWmU0bHhtUm1KQXN5SDRVeThMNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Bank & Trust Co Buys Shares of 11,668 TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2Nxa0NhU3pLQWJZZW1KVU5PT0JvaWVIZGE4b3ZvNVVqSkh5X19Dc0R1cXgtek5ORmFrY3BQYVhlOU5ZLTFqSmpmZU15VDI0V000VDh5NlpLdDRqQl95bnpwUlVldHBCWDRqdXZkSmotcUFjNWZYMkgzaEpGaXhrdEU2Y3M3WlMyV01PU0toUmxXUXF6VEN6bDQ1eGVBcUpGejhiMHl5R1BhR3NIcEhSaVZYM0F6TFk0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "75,560 Shares in TXNM Energy, Inc. (NYSE:TXNM) Purchased by NBC Securities Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0RLNzdxYWRTQ2pBUHRBcHkzanRjNnM3QmNzMEZRblE2aGlIM2VDemZzVzRkVERVZ20zM3N4S2tzamdBa3lOTE5BT09CTlFMN0N4WFBGMkdGSFBHbzhSRVI1NVdtWndEVG9xSHpWR3gtNDk3cnQxcVRmMHl6bXVFckh5TjlkZURxQ1M4V01iMU9VRXlDNkpPUFZ0WU8zeV9MZEZ5ZWFsZU1FdmZJOURKbFRaT1ZvZ2ZkMEkxRFkwY09VVFJFcTBVMktB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Moody National Bank Trust Division Purchases New Holdings in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckQzYWtIbkUtVUVwSWdvcU5GZkd0QXpnOHlMR1BjMW9CRk1FMFFvbW5ET0I5MUctVGJRM2F1XzVHb19KZFoycEdtblpaQTBjdFFndWdtVDhsN19Wb0xCd1E4R3JJczZLNG05Z0phamxxNUZmLUx0aXAzSHAtSmFnUjZWLTZkOEQzR01UMUhoVVJOYTYzaklSdGs4X1ZDcHR3bWx5UFJqQUk4R1ZqTmE5YWJlVVB2U0I5cS1YVDItdTM4VzkyWGhzN0lBWTA3QUYyVjQ0RWJUaVhPSWlwcktMeTdReVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Employees Retirement System of Ohio Buys Shares of 78,432 TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbFdUZE8yUjVoYWVyT0pHZFJuM2xjRF8yUU5pZHF6NXdJdkNPajdDdjRMNUdDQS1sSmFlaHlQallVaktHaXdWeGo0ZzdEZ3U0SFRhYy1XMzRUWko4MnNfb19ZX0dqb0Zta3dLd1N0TE83WUtubDZZanBaR01ISTg1UVRVOWd6SDV5NzZ2Z1ozS1NMWGtHZ2pFeXdrNHBmdXpoTHNuQ2YwWjhzZXpmSzMtRkFVaXU5dVcweEZ2SjF6SktpUkJvS0Q4aWFGeHdKajY1elA3UE81eGh6X3AzRW1kclk1UUtzY1IxRmNmMEQtRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cetera Investment Advisers Takes $236,000 Position in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFE0b29IN2hKUkkzMEpybEVQOVd6d2xIdF9WeFVJcDMzYUVHMXNPMTBIRXQ0cnlMM2NzUTl4QWxRaUxhWWN2R0dmbWtjLVZobEVELW9CdmVlUXBiTUJKYnlpVWlpNWlGTldUdkxGUlZkQmU2ZzdpNnh3bnNTam5iOHlnTXRGZGlNOEJHaDFtaXhGejVtM3NJOWY5Nmw3SGx2SXJKV0UxaVhoQ3VZTnJXUkhIUlJQR1BGVjRBTWhvNS1UYzBGYmtyX2pR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Invests $300,000 in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
+        "title": "Mackenzie Financial Corp Takes $300,000 Position in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDI3U3g0LXBzQk01bXZwb1hEN1U3MXJ4dE5GVVJMSmoyb2FLajJwVlNJVlNNSktfbFdJLUhZZkl1ZzlHUjMwUTF4aFk1Z1d2UmZCdVJibVdFZ1pDdVl5YkNpLTNnczhMckkweS1iVWZ6TEdlWGYtRHdycTI3TVY1dnpNekg1SmMtR3hoVGNoeS1UekRMSFhQYVhvR0puSGFXbnhhYkhMSWRxRWoweDRna1UtRXRwQXhtTjFkMkc0Q1R0VW1sYXNxbXRR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Voloridge Investment Management LLC Purchases Shares of 18,721 TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFVRRUhsNllKTzUtYl9MOHJGdXRzVVpOU0VwaTNicGtZNl9xV3UxUkd4NEsxd1FNOG9jSTZ4NW43dGw4d3JDRktnazVBMHNiQjNlYWxnOUdjUllidU9sUW9Mb3BYN0hLemE1aDNNY004bDZtTnVqdjJpXzhPQmpqNnhCQ2FQM2pjY1dZa3g2MWx6M0JVUkwyS1k5YlY5Q2dpb3lVMlVmZEtHby1RaEhEQ0FqZ1Zrekh6WHJXY3RPeThtVTNHZXFyd09DRXBNUHJPbGhoellKVUNuMXExWHNn?oc=5",
+        "title": "314,747 Shares in TXNM Energy, Inc. (NYSE:TXNM) Bought by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmQ5MWtOeHQtN0xDVUdyaWk1NnU0eTFUMXRDeGdYRXpmRU1nNl9abC14NjZCenB6c0dRcmI1UHdWMkVNQ2xxRXhxZnNYNnBKWUNGQXdrMkhhZGxKMUxrTzRFYzBxaDN6c2hVbjRUNEJNTldKWXkyaVV4VGE2WnRDOHFta1lKNnM5VzdBVWh6V2ZkaS0tYW5EWkY2b0tlNTZSYWhvcUNjMGl4ZFVsckhXTjJzV3FLYWY3M3B3dGY3ZnlwQmxuNzVJWFRR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Takes Position in TXNM Energy, Inc. (NYSE:TXNM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSUFiLVJzTnBmaldYWmszWmN0NHR3YnBRQ2MxTm81azl6ZWYxQ3NxZUV6V20zWU44NzhjeEd5c2ZBc1lhSi1kdTZBT3NfdUl0N2gxUnpfWDRaZW0td0JuMDFsVmltbFFUV004aDdZOVRjV3FySnN6dWMybjBxSjJsZUdOaFRTd2tzSlIyTUFNV3hDZzlsbjdBTElVaWs1cnRsMmREVmVjQlZCWXhGQlFIdWhGdjdHblNSSVVvNTlKUDU3bnROUFRvdEE2QVBPSGJpQmZwVzdIZElDdW50REQyQWxHTFFOVnVjUjA5RmtOanVQSjVBYXJJNWZUTEpKSmlNVXhmRWtkMlVXZWFp?oc=5",
+        "title": "Blackstone Buying TXNM Energy: Arbitrage Opportunity And Risks (BX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkk5dEpPNi1QOXFsRWZCQ1Baa3ZLLUVLNVFFQlFONHZRRUhxZXhNZzhwWEF4T20zejRTR2UybmxKWXE4ZW5qSlpkU2piOGhkc09SemlUekZVMExGMkczaEtOZmt2WDU3UmhqQk1paVJhdlVPeU01cmpSSXBmbHZQbjVRUFRvQnk4TTRRYmQzNXowaFV0VldyUjlhY3BUUFczemtYZg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "1,302,548 Shares in TXNM Energy, Inc. (NYSE:TXNM) Acquired by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEtZSXRtakhrdkRNTkx0S3RNczl1T0tlR0lHVnI2eUFOdWVZdFBoSjZBNWoyd3ZteFppUFBRMUVqaHZoSjZROHA1WTZhOTdzcWhJUU5UQ3h1a0p1eV8td0pYVkN6YzBLbDhPNE9jT185aGh6aE5JMF9Sa2U4eG56UHJZMGVHSzZnSG9GZDNVNVhGcDdScjBhSDdDMXlCeVVnZHhUeGlmb2hsVXRqRzJtMzFHcWZ3QW8zVVhaUmw0T090NlNhRWpwRUVjSGJWdkda?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "216,768 Shares in TXNM Energy, Inc. (NYSE:TXNM) Acquired by Nuveen Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzFJOS04SUpkU2Q4UWZfdUMxY2hNbW9ocXh2ejRjNGxET1NUT1RWZTB6a3FmWjVzSlZWMFlDeXd0d1hYVVVoQ2VzaTRYbnFNTDZjR05kemNIdFBUbTBsM0RoZXhkd1ZoTUR1X3hqTTNwNk9RTmhndTNsVllFcGFWUnRIT1dWU2laRm5vbWQ2N3owclVscmU1WWpteHFVYm8zUVRrNDJhSkMzbGNtOFBJa2pkaDhRWjZBUHBlVEVDNnNNZmtlbl8xaVlzTzAxSUFzaG5qaGJGNA?oc=5",
+        "title": "Blackstone Acquires Electricity Provider TXNM Energy for $11.5 Billion - ESG Today",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2FKYWNhYmV0eGg0dGItaHZXMjAtNm1QNWpGUnc4eHpOakFpSFJ5NE4xb204el80VTRsM25JbEZVenFXcGQ3S0lpMG12dUFmQzNCeExKQ2F3RFlmWDIxdEM3LU53MFVUQ2FJcFZMM2VGUDlHMzAyNjNYbko4d2JDLUFiRmVLRHZOMVphMlg2Yk1vdVVXU1NFbTc3OA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

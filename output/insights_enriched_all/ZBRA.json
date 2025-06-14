@@ -2,12 +2,12 @@
   "ticker": "ZBRA",
   "name": "Zebra Technologies",
   "sector": "Information Technology",
-  "market_cap": 14993372160.0,
+  "market_cap": 14451012608.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.893093,
-    "PB": 4.15804,
-    "EV_Revenue": 3.186,
+    "PE": 26.884108,
+    "PB": 4.00763,
+    "EV_Revenue": 3.2,
     "ROE": 0.16159001,
     "ProfitMargin": 0.10735,
     "GrossMargin": 0.48788,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1737632081035766,
     "ROA": 0.06539,
     "PEG": null,
-    "EV_EBITDA": 16.919,
+    "EV_EBITDA": 16.995,
     "BuybackYield": null,
-    "PriceToFCF": 16.867975160690502
+    "PriceToFCF": 16.230453433640868
   },
   "technical_indicators": {
-    "RSI_14": 60.00075161280426,
-    "Momentum_10": 2.2575981746177898,
-    "MACD": 6.845237809772243,
-    "BB_Percent": 0.5834738063600917,
+    "RSI_14": 48.51138659836359,
+    "Momentum_10": -1.8255782958580151,
+    "MACD": 4.998143957992738,
+    "BB_Percent": 0.0806171024512878,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9305305869362182,
+    "ValueScore": 0.885481138391583,
     "QualityScore": 0.2731261241312517,
-    "SignalScore": 0.5155883332911948
+    "SignalScore": 0.5985039185194725
   },
-  "volatility": 0.0320902174467004,
+  "volatility": 0.0321763901464912,
   "beta": 1.754,
-  "return_6m": -0.2797078537655419,
+  "return_6m": -0.2959067094739995,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 411.23
-      },
-      {
-        "date": "2024-12-10",
-        "price": 401.78
-      },
-      {
-        "date": "2024-12-11",
-        "price": 404.17
-      },
-      {
-        "date": "2024-12-12",
-        "price": 407.64
-      },
-      {
-        "date": "2024-12-13",
-        "price": 403.59
-      },
       {
         "date": "2024-12-16",
         "price": 406.9
@@ -537,22 +517,42 @@
       {
         "date": "2025-06-06",
         "price": 295.36
+      },
+      {
+        "date": "2025-06-09",
+        "price": 298.63
+      },
+      {
+        "date": "2025-06-10",
+        "price": 299.56
+      },
+      {
+        "date": "2025-06-11",
+        "price": 292.82
+      },
+      {
+        "date": "2025-06-12",
+        "price": 292.68
+      },
+      {
+        "date": "2025-06-13",
+        "price": 283.61
       }
     ],
     "current_price_data": {
-      "price": 295.36,
-      "change": 4.12,
-      "percent_change": 1.41
+      "price": 283.61,
+      "change": -9.07,
+      "percent_change": -3.1
     }
   },
   "news_sentiment": {
-    "summary": "Zebra Technologies (ZBRA) a récemment surpassé les objectifs du premier trimestre, mais prévoit une baisse des bénéfices au deuxième trimestre en raison des tarifs de Trump. Malgré des perspectives prudentes pour 2025, la société a attiré l'attention des analystes et des investisseurs, avec un prix cible réévalué à 320$. Zebra a également conclu un partenariat avec Merck pour lutter contre la contrefaçon, mais reste l'une des pires performances du S&P 500 jusqu'à présent en 2025. Son rendement des actionnaires sur cinq ans dépasse la croissance des bénéfices sous-jacents, mais des incertitudes persistent quant à sa valorisation et à sa position sur le marché.",
-    "sentiment_score": 0.25,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.45,
+    "summary": "Zebra Technologies (ZBRA) a récemment publié des résultats trimestriels solides, dépassant les attentes du marché. Cependant, la société a émis une perspective prudente pour le deuxième trimestre en raison des tarifs de Trump. Malgré une croissance des revenus et une augmentation du cours de l'action, des analystes de Wall Street restent divisés sur la direction future de ZBRA. De plus, la collaboration avec Merck pour lutter contre la contrefaçon mondiale a été saluée comme une avancée technologique majeure. Les investisseurs doivent surveiller de près l'évolution de la situation tarifaire et les performances financières de Zebra pour évaluer le potentiel de l'entreprise à long terme.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.55,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -561,33 +561,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Zebra Technologies Showcases New Intelligent Automation Solutions at Automate 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekN1NVhCOWZJRE1fdWttY3l2MjQ0cjNRM0lUTm9XYzE4VHRYbVdPb3hoWUtlbEdfdWx2bnRpS1Q0NUV0clVXMG9NRkFJcVJXTU1Gbjk2Z2VjNFM0QURlUWN6ejIzTkVXQlE2RDZqZDc4dEE3S3dscmV1WDJYWlpWNmFaOEY2ZDFKZXpIN2R3NWtZc1FkWVJ1Ul9fbzVLaWFQRXptS1Eydk1WNkJ6dWxfV3lueF9naEFxQUxlSFZWd08?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ZBRA: Analyst Raises Price Target to $320, Maintains Outperform Rating | ZBRA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3JPcTYxeUdnSWxDam5Dbm9qcmRtaFc3QVNOTWhKbTJjVUxBQ2xqZ0ZVMmItWElhRlNtS3RhZnQ4Sl9YN0RhOF81cnltWXdWME50eUh1aW15aGZhczJoN0U4UVlCVDN6bW5WQm5md0R1dG9uekREU2p0TjQ2cWpFZ2FsaUp1c0NVVFBON003UnZ2Vjc4X0N1bVZVV1FoU1QzdkZkYU82aGNBSjliMHNYNnNjSGFZZ3hWRVBNUkJHdTc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "3 Reasons ZBRA is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRGtZSHMxMFoyLW1nRW5wTzdtV25rVlFVbER4WG1IQVNadzNDRE9vQS01eGFubGEtX1JFR1M3LTJac3M0TzRBczlEUmJ6OThPUFZCRnA3ZndNM19IWTcybE1SdmR6NDNRQ1p5NmhXZ3VaWm5uQTBv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(ZBRA) Long Term Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS01vNkJWWllDdk8zZ1BRNkttdklQWkJXQlJtbk1uQ1lJNTFLZkZIV1Y3UF9BRG5fQU1rMDg0aGJmX2k3d0JveVhLQlhDUEx2elJMZ3pVeUhHRUtMa2g5OGlWcmlCUjg0Y21BOVlPa3M2enRFRzF0OUUxb29YTVNmdGl0eTAxejRRXzN4eXJfMFBEQkx3d25MSnItLUltZG5FUzhpVHpRT2dYNEVKM3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "How Zebra Technologies Is Dodging Tariff Costs While Others Panic - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEJGSGNZdDlhcWdvbTg0TzhtbWMtX3k5WjVXSEtQaFRJYjdObUh5U0JXYnNJZEJ2bGlMMnhGV3kwb19RZFhYMVl3TWdLQmFTeElEbk15ZFBNLVBCOHptRTkxS0E2R2FmMXh4SF9xZVo2aGtMb1dLZ3BVNnJlN3dKTjNDeHNBa0FqWHk5MFllNkNxUWs?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Zebra Technologies (ZBRA): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1SndsWFNHTzZWd21PVDc2TVJuaEoyN2VNRVZXd0ZYYTEzcDhtWHNEZGNYRUNWRzZWQk9YMHhnaXo1SmZ3bTNFamJYaXlYLWVKUTdlY3NuTVhaR2M?oc=5",
+        "title": "Is Zebra Technologies (ZBRA) the Best High-Risk Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGpNMktaaE9wNjdObVQxZTNiOEpVSEgzSWN5OXBuMVQwMHNOVVNqc1I2NVlmUUNMUEphSjZxM3NOcnhXSzNrLVpLd2ZxbFc1RW1idkNSV0dXQWhDSnVKWElxV0FENkl4NkpyUHF2cnpiUmdma2h0NFBXWUlLOWN1QVpYWFgyUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zebra Technologies Showcases New Intelligent Automation Solutions at Automate 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekN1NVhCOWZJRE1fdWttY3l2MjQ0cjNRM0lUTm9XYzE4VHRYbVdPb3hoWUtlbEdfdWx2bnRpS1Q0NUV0clVXMG9NRkFJcVJXTU1Gbjk2Z2VjNFM0QURlUWN6ejIzTkVXQlE2RDZqZDc4dEE3S3dscmV1WDJYWlpWNmFaOEY2ZDFKZXpIN2R3NWtZc1FkWVJ1Ul9fbzVLaWFQRXptS1Eydk1WNkJ6dWxfV3lueF9naEFxQUxlSFZWd08?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -596,23 +581,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Zebra Technologies Stock Outlook: Is Wall Street Bullish or Bearish? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFF6ZmItdUhzRzQ0aGExVk1CSmU4RGktV3lPenBocWdmaW1meWhBY2tWSkpqakFTemV6b0g3a3JtTFJzQWlQMVZJNG14MERLZ2VXdE9oRGRnTjZOd3psQ2h3YXVWb1lsVldfT2MwVUEwYm9PVE9OUHZDdUZpSXhQaEYySXJJaDNYaXdVS3paRWNJck9oTU1zQk9MZ0pHTUx0VU9uVVR1X3Nhb1l0blpVb0NXd25ma1l4SWo4b1lvTWRBRm5VNXBqSA?oc=5",
+        "title": "Are Wall Street Analysts Predicting Zebra Technologies Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUY2M0RzUHljaVJmTjRxd1otcnZXVnhaSE45MEFpSTFqZzBjV2lUVm9HNTQ4eWM4RjBGWUU5YlloVmtFMElYdko1aEV2czNQU3BoYkVNcmYzRGZLWDAza0FmX1lBT2I0cEp2bUtGbGctMmxySWRkVHloSXJjWnNiRDVocmliOFVrYTRIb2g1SjNJNUxpZXdNeUE5UTFvMThmZjBaSXVONEpGOFRHX2p2bQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Zebra Technologies Announces First-Quarter 2025 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlBzSFBwb2pnUXpnTURVZVpxRkFKYjd1UElpZVZINjFadlNSREgyTTE2RDJsZ0tObkN1RDN0SVQ1NUx1Y2E1TnlXUFFZaEFHOEVZNmFpYUdGMHE4QUJhZTBrbXRUZkFvRnBqS2RzM2syRUFjY0Y5bG45ME9nWXBvR3AzRktjRWxjcFRuNXFOUWxXZ3JUOTNzQ1JITEF5MmhjLXNobm45Rk5zd1JmbGRtWE1n?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Zebra Technologies Corp. Cl A stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYlVwMW9ubUoxNE5kRXp4NkZjdjBndG5FaHBOckNadDdhR1NKZ3ZpM0FnZWw1QU44cjJXVWJBbjNNbHVYLUl3eEdIRDZSdUNEMGZyakp2Y0tjS1ZkU3hVN2RJNWtKNkxMUXdwbWFXRzhOTmhrRF9vNkFKTmFzVHJiamowc2I5bUs2RFR4OVZ2a2VaTHBHdGwxRjI4SGpkb2NFNmZSZmRDOXJPY19XVnJvUVR3dEVCbWhuNXQ3bDlWakFaTVpoMi0wQXMxbjEtMGxWZVZwLVFHUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Zebra Technologies (ZBRA) Price Target Increased by Baird Analys - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0hmMGxEN0VCSDJRc2ZzNXBVUG5KQjhZc21zRm5aUzdxdnhHVzV2Z3hlenVkR3BPalZEM2xiQy1scE1XQUZoRGUxSU0ta21NdHo2b0UyX1dIM2VlZGJnbXFGcHZKNHFCc0NaQUxIREFsN0hvazNyWjNrblF3d0Y3QWx2c3BlYlppY2E4Ri1xM015QWVIVFlNbTZfRDB6TGc4LWM2S00xQmI5TDloZ3J1R25FVGwxbVZ1dnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Zebra Technologies (ZBRA) the Best High-Risk Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGpNMktaaE9wNjdObVQxZTNiOEpVSEgzSWN5OXBuMVQwMHNOVVNqc1I2NVlmUUNMUEphSjZxM3NOcnhXSzNrLVpLd2ZxbFc1RW1idkNSV0dXQWhDSnVKWElxV0FENkl4NkpyUHF2cnpiUmdma2h0NFBXWUlLOWN1QVpYWFgyUQ?oc=5",
+        "title": "3 Reasons ZBRA is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRGtZSHMxMFoyLW1nRW5wTzdtV25rVlFVbER4WG1IQVNadzNDRE9vQS01eGFubGEtX1JFR1M3LTJac3M0TzRBczlEUmJ6OThPUFZCRnA3ZndNM19IWTcybE1SdmR6NDNRQ1p5NmhXZ3VaWm5uQTBv?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,13 +606,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Zebra Technologies Corp. Cl A stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckdNOFVOYTdEc3BIVHBKNGE3V0xfdWROR0QzTFVZd0tkZnpQUmkzTFBPZmJLSkxELU1wcF9yUmowY3FkSGNaeURlUE5Mb2xRcWYwSElwd2hDUlJRMEZ4Q1hxaXBXZ2NteC1CeFBaWTRWZmlCZjZzdmZkZHEzaVA2N0Q3a3Y0TTJ0UHNEQ3dwb1RoX0pobDR0T1EyRUcyakpSUHBwRFcxc0JBX0Y5MnBHc2hldHcwMVBCTF9MLVo4X1hFS01VTzBscEdCR1FMUGo1d041ZndCOWYycVpkTW15OFlweHdvdS1lS3ZiaWxRU1dLcE9oM01OeQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Zebra (ZBRA) Up 16.2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xYm9HTy0xT29UQUJUOWlxSFBQWEFEYlZMWE1EZGRHQ1BSTGFOUXRJdE51SEU3aWd1dl8tblppLTI4NTkyTVlyNXl2LWNaZ1RFNkFDZ2NlNWIwZkZoSUtpX3lYU1EyMTkyTE5Bak9aR2xWbS0wcXc?oc=5",
+        "title": "Zebra Technologies Corporation (NASDAQ:ZBRA) Looks Just Right With A 33% Price Jump - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZW9WdDFyZGhsaXZpR0FZYzEyVVdHYkd3VGJ2MHJEVDMtR3U1aUtFMXh4VFozVHU0V2RwclRqWGg1c1VUcXZBelJ1Ry02bVlfRVJZZGFZeGNyX1RuRnVYRktPY0lkdlJoM3RReWdBNTJFV01URk5WZ1NKZWkxdUQwem1zZmVJWTRtQ3U3OEhneloxQklrLUladEtjUDg4ZDY1MF9vU0NXTTNDcVQtVG9XU2YzOUs2QWRmdXNtRU1RZW1yQ3pxVUhjTDZQdXBkZ9IB0wFBVV95cUxNRU5scFhrT0hZdnhlbXU4VnJYTXF4SzZKaWRENU93RERqcXotUlFLZVllcTZJTGZqOXJ6clNrbHl6WnhfWTMyaVBWNVVFUmRjSGg4cldPNnY4R255QjM4ZXRPN1R4ZWpCVk5vSVdJaUI4MmVGTHVWcFMtSVdUTElVZ0ZTV0V1dm01MmVGSkNNc1pjQjZoSDduaGVlWjR5TWZua3B0aE1fLXNLZ0wxSHlfamRVdXpFaGVEc3BoT2JTbUZjSERQamdremdGYkxaaUJXcE1j?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -641,9 +616,34 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Zebra Technologies Earnings Alert: Key Q1 2025 Results Coming April 29 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFBKSlNLNWEwUlhRNVBhNmdLYTJtY2RidXFmU0ZkRVFBV2stV2xxR3lHTVhOWjcwWVJRdHVlLVhLUGtRTlFQVXdUUEFVeDg3MU9CVElfNEVmN2w3aGVNcVZNTW9SOXRJRDU4bHBPUDJGTzJJWFJENEVOallYTmNBM2NqazJ2ZWZ6OUF0UWlXZkxENVRTdkJma25oU1RscmpHSmdhNWdrVEpZcTJmLVBoUThZd3BRUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zebra (NASDAQ:ZBRA) Exceeds Q1 Expectations, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZGlsSlhJT0Nkd0VXMVZlejBoUnRQZlNNZFB6ZUZkaG54dW12QzdMSThyd0NRVG1abnYyQmhCYWkxV0htWlI3cVl1MmtMNDdlQlZPdDE1UjI3c1I0V29XTC1INjVEQTgzRHNxRFVJQjlRaC16MDdlTTV4WXZrNEk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zebra (ZBRA) Up 16.2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xYm9HTy0xT29UQUJUOWlxSFBQWEFEYlZMWE1EZGRHQ1BSTGFOUXRJdE51SEU3aWd1dl8tblppLTI4NTkyTVlyNXl2LWNaZ1RFNkFDZ2NlNWIwZkZoSUtpX3lYU1EyMTkyTE5Bak9aR2xWbS0wcXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here are the Factors Impacting Zebra Technologies’ (ZBRA) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSEJTT0l1Skh2b2xXd3pPUEJQcGpHMmFyUFJ0ZDNtbXlqbWxnWUJhSWVqRUx3VWdHV24wdlVXYm9aNFIxU3l0bFVnWkdzd1FmVy1YMndnNnBOVXRqeUJfcF96OTJTRjNqSE00WW91WjBtOU1ZSnpmNVBHZWxGaHhfM01WMlhaV2FUNnZNMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Zebra Technologies' (NASDAQ:ZBRA) five-year total shareholder returns outpace the underlying earnings growth - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaE9lQkhSSnAyY1I3NlBiRkwwSmZ4RHRrOUs2OVBURGNpTFRtNU1rUklVazh3X1R5ZF9UTHZrOFdnN2dsZ3hqVVBTM1ZseHNTZTc1NUUwQ2dIbFVZczUtVmpPUHg4RVV3dkc4WDlRTldScGs1UGxJTkNmRzY2cUp6TXI0NThaakZO?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Investors Should Avoid Zebra Technologies for Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcjhhUVRyY0JKc1FudEZfZEZQT0JiUEpuVk9WT1FmbU1FeTI5emJSSTF4ZHNGXzlFcTVCZy1IbGFjZGxZdTFNYU9lRnN2ZXIzemMzVkVyN0NrYzRNeWR4bGdEbTdEU2ZTLV9TYXlwajRYLW1QcVJxMUpCUjZBbC1hR0o0NA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Zebra Technologies Corporation (ZBRA): Among the Worst Performing Stocks in S&P 500 So Far in 2025 - Yahoo Finance",
@@ -651,11 +651,11 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Zebra (NASDAQ:ZBRA) Exceeds Q1 Expectations, Stock Soars - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZGlsSlhJT0Nkd0VXMVZlejBoUnRQZlNNZFB6ZUZkaG54dW12QzdMSThyd0NRVG1abnYyQmhCYWkxV0htWlI3cVl1MmtMNDdlQlZPdDE1UjI3c1I0V29XTC1INjVEQTgzRHNxRFVJQjlRaC16MDdlTTV4WXZrNEk?oc=5",
-        "label": "POSITIVE"
+        "title": "Bull of the Day: Zebra Technologies Corporation (ZBRA) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVBBVDlKQS1wYmJsenpaN1VhSXFSMnZqOWZuQXdoZWJkd3NqRnNNcmUteV9WYndwNXFvWTRyUmNjXzBYVnpCNGVBcDZ4cVpucktBMVVDM0VMV1V4Tkh2WWJrOFJVNmFHZ0c2cTg2S2ZTVm1GNnBWb1RRb21ITlRKRi0ya2IzSzJXRXBST2tB?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

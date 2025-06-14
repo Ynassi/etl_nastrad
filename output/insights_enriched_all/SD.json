@@ -2,16 +2,16 @@
   "ticker": "SD",
   "name": "SandRidge Energy, Inc.",
   "sector": "Energy",
-  "market_cap": 387231296.0,
+  "market_cap": 431622560.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 6.066092,
-    "PB": 0.8337283,
-    "EV_Revenue": 2.052,
+    "PE": 6.7614946,
+    "PB": 0.92930496,
+    "EV_Revenue": 2.307,
     "ROE": 0.14675,
     "ProfitMargin": 0.47169,
     "GrossMargin": 0.65105003,
-    "DividendYield": 4.24,
+    "DividendYield": 3.88,
     "DebtEquity": 0.382,
     "CurrentRatio": 2.128,
     "QuickRatio": 2.024,
@@ -20,25 +20,25 @@
     "FCF_Margin": -0.6827396831509294,
     "ROA": 0.04203,
     "PEG": null,
-    "EV_EBITDA": 3.802,
+    "EV_EBITDA": 4.276,
     "BuybackYield": null,
-    "PriceToFCF": -4.154755994987084
+    "PriceToFCF": -4.642861728761309
   },
   "technical_indicators": {
-    "RSI_14": 62.52531453809574,
-    "Momentum_10": 8.590535135882398,
-    "MACD": 0.1490384915466478,
-    "BB_Percent": 0.8869376409044217,
+    "RSI_14": 77.62964021799299,
+    "Momentum_10": 19.92864261041939,
+    "MACD": 0.388069708242563,
+    "BB_Percent": 1.121604207835771,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9372272292879522,
-    "QualityScore": 0.4595822923378295,
-    "SignalScore": 0.4438737760908832
+    "ValueScore": 0.898880400515159,
+    "QualityScore": 0.4691026580620906,
+    "SignalScore": 0.3742154130764249
   },
-  "volatility": 0.0252674409141333,
+  "volatility": 0.0256228013319476,
   "beta": 0.891,
-  "return_6m": -0.0218540894259027,
+  "return_6m": 0.0641812789449571,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 11.25
-      },
-      {
-        "date": "2024-12-10",
-        "price": 11.28
-      },
-      {
-        "date": "2024-12-11",
-        "price": 11.39
-      },
-      {
-        "date": "2024-12-12",
-        "price": 11.32
-      },
-      {
-        "date": "2024-12-13",
-        "price": 11.28
-      },
       {
         "date": "2024-12-16",
         "price": 11.1
@@ -537,32 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 10.64
+      },
+      {
+        "date": "2025-06-09",
+        "price": 10.71
+      },
+      {
+        "date": "2025-06-10",
+        "price": 10.94
+      },
+      {
+        "date": "2025-06-11",
+        "price": 11.16
+      },
+      {
+        "date": "2025-06-12",
+        "price": 11.34
+      },
+      {
+        "date": "2025-06-13",
+        "price": 11.89
       }
     ],
     "current_price_data": {
-      "price": 10.64,
-      "change": 0.25,
-      "percent_change": 2.41
+      "price": 11.89,
+      "change": 0.55,
+      "percent_change": 4.85
     }
   },
   "news_sentiment": {
-    "summary": "SandRidge Energy (NYSE: SD) a récemment annoncé des résultats financiers solides pour la fin de l'année 2024 et le premier trimestre 2025, accompagnés d'un dividende en espèces de 0,11 $ par action. La société prévoit une augmentation de la production grâce au projet Cherokee Development. Cependant, malgré la domination institutionnelle des actions, les analystes craignent une modération de la croissance des bénéfices de SD Guthrie en raison de la baisse des prix de l'huile de palme. Les investisseurs pourraient tirer parti de la récente hausse des prix du gaz naturel pour soutenir le développement de SandRidge Energy en 2025.",
-    "sentiment_score": 0.15,
+    "summary": "SandRidge Energy, Inc. a récemment publié des résultats financiers solides pour les trimestres de fin 2024 et du premier trimestre 2025, accompagnés d'un dividende en espèces de 0,11 $ par action. Les investisseurs ont montré un intérêt croissant, comme en témoigne l'augmentation des participations de Millennium Management LLC, malgré une réduction de la participation de Two Sigma Investments LP. La production devrait augmenter grâce au développement du projet Cherokee. De plus, la hausse des prix du gaz naturel en 2025 pourrait soutenir la croissance future de l'entreprise.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.1,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "SandRidge Energy, Inc. (NYSE:SD) Stake Lessened by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTI4YXdOYUpnR3hfWlROMDJMdDIyZ3dZb2tZMUJZNHVSdlNMWTVVcXUzQVBkc0MzMUNVS1pmanBoeEJvWlFoNDdBNmN2TWw1dl9ST2hpSGs0VWxBLTEwaDBIVVp0STBzOEs2TW9sTkQ3Mk0yVVFIRFF3UEJsclJLd1RxZFJDWTJwVlpNU0ZBRHc1ZS1uT093M0lvdGNoUzI0aEk5N0ozaHVmNUFEb3FFX25veDhLWVlkMmhxQ3pwd3hIQ3RoQklDdXI4NnRvRS1s?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Where are the Opportunities in (SD) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUndjT3VhU21MQ0M4ampIMjNQcWdSUVE0bzRwZkIzOXZRcnhYOUVmVTBYeWNXdHlfZHZyMGJDaG83YmxyNkNXNDN5UFBQTEQ5SjBrWElOd1JVT3N4Yk16T0tUMVA4Qlp1al9vRlYzcDA0RnhaZXhQckdwa0xsWUpkSjFWN25EVTR0UllmbW5WekhxbEd4OTBnUVVSeWFialBEZks0dWVNTWd6WWRB?oc=5",
+        "title": "Is SandRidge Energy, Inc.'s (NYSE:SD) Recent Stock Performance Tethered To Its Strong Fundamentals? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWUXVJNHlweGZkcXdJa19ka1F3NXY2OW1JREZNYW1CdUp4QlpVUDREMTlNazA5M3QtZTlicW0wVlhualI1cHBRYWFJM2FzamtFWGhsUTRadXM5UktoT1JSWHBqcjctbXRLWXloTjZZZUVFTk9LcjRhUTdsM084dTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,6 +571,16 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Millennium Management LLC Has $2.01 Million Stock Position in SandRidge Energy, Inc. (NYSE:SD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZsRGI4SjZzWXQyTWRlQjY0MzJ1SDZEZ2ZVb0xrUzNjcHh3VGJ0RnoxM1V4dWdfaUp1OE5ZRklSWTN0dnpIVllUWFN0Z0VvTDRrWlhIT0VLNVdOZDFXdENFMG9tT1h4blVaZHNrR0Vfd2t5YW1CcHl6UnpsaVl0M2hFOXBCZC1xb2hyZWlWNlNpdkJvQzUyd2s1eEJsSFFtc19EazJmeWxfRmNxOE1WZXVqTldMaEFzS2ZFSy15WW9KeDdXTnlNVEp5ZDRzdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where are the Opportunities in (SD) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUndjT3VhU21MQ0M4ampIMjNQcWdSUVE0bzRwZkIzOXZRcnhYOUVmVTBYeWNXdHlfZHZyMGJDaG83YmxyNkNXNDN5UFBQTEQ5SjBrWElOd1JVT3N4Yk16T0tUMVA4Qlp1al9vRlYzcDA0RnhaZXhQckdwa0xsWUpkSjFWN25EVTR0UllmbW5WekhxbEd4OTBnUVVSeWFialBEZks0dWVNTWd6WWRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "SandRidge Energy: Cherokee Development To Boost Production Later In 2025 - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMllDYzdWWlNRQ3A3a3dMdnB5OEttRzI1SHdSekk3ZDFKNm5ZYzZzU2tYbml5WW91TGloYjZCVjk2TzZXX0ZvS3hzRUhPS1MzVVdQTWl3TDJnU1c5ZUtPR3lXYk5ERXpjUnJRR19LRjM0VExjVXJ1ZVdDTnJkSXlOT3BDSF9RZDVGTEgxY1F1UzJIRkkyNDVRMFdSQXRmMUNvRkJDbG9LQXhucTF0SXBTMTdn?oc=5",
         "label": "POSITIVE"
@@ -586,8 +591,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "With 89% ownership of the shares, SD Guthrie Berhad (KLSE:SDG) is heavily dominated by institutional owners - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdG1kV1hvcEVkMFNiVXpJRmQ4ckdfUGhyd3pwRzlIeElQeXRLRGZaRWM4VTJ0OHJEWXNZYlFOYmx2czVkU1YzRjFleXMyZ2p3dDRsMGRsbGxtalctZUYzYjRPNVJxRktyU0I3dHNhOXk1NmQ5ZFlsLTQ3Slg3N2Z3UFJB?oc=5",
+        "title": "High School Rodeo Team heads to SD 20X Rodeo at the Black Hills Stock Show & Rodeo - pioneer-review.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRktadkswQkhYeHZUUkNvWllidHhzeUM3amZ3SW92Sjg4S0N6NG9nOElFdXUyYnI4U3pKNUI3bWlLX1NVTjhKbjBiSkRZWV9VSEZkZkU0MUZYbTFGRVBsX2xPREVYR240d1J6QVJieVd0MjZRRnc5ZklOYUJ2M01RQWE3Xy03ZlV0c0lpTEM2bk5WMVVVcmhRUldaUEFFZnNIOEhhdE8tVlQ2Skl2Y0dOcTZOa1pEQ0lzZHZFNjY1T3ZEOUZyNzBLRFZpQ0hyUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,18 +606,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla, Apple, Nvidia And Other Big Stocks Moving Lower In Monday's Pre-Market Session - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0lTWTdlVXVRS0xVbkZKd2gwZ1dqNVR0NVNGZFFMY1lKRDhXMmZMd3JfVDZLcTVHY2xlV3Y1VG1vVEt4aHdxWmJ4dXVhdC1YWjVmczV0bzc0dDQwTFFUazUxZDJTWXNiaXBoQWJKVzVNQ0FxbjlXR3YyYUZkbzhKeWNmeVBtZUVsbTAtcENSTGh6YkFIWHNMbjE0aHFmYVd6TTQ3UDJpd0M2NkdTel96bGZXOF9EbElBOHJxbUJvVQ?oc=5",
-        "label": "NEGATIVE"
+        "title": "Two Sigma Investments LP Reduces Stake in SandRidge Energy, Inc. (NYSE:SD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTI4YXdOYUpnR3hfWlROMDJMdDIyZ3dZb2tZMUJZNHVSdlNMWTVVcXUzQVBkc0MzMUNVS1pmanBoeEJvWlFoNDdBNmN2TWw1dl9ST2hpSGs0VWxBLTEwaDBIVVp0STBzOEs2TW9sTkQ3Mk0yVVFIRFF3UEJsclJLd1RxZFJDWTJwVlpNU0ZBRHc1ZS1uT093M0lvdGNoUzI0aEk5N0ozaHVmNUFEb3FFX25veDhLWVlkMmhxQ3pwd3hIQ3RoQklDdXI4NnRvRS1s?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Switch 2 Lexar microSD Express Cards Back in Stock, Dropping to Lowest Price Yet at Amazon - IGN",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0FETW5RTlZqeVdxbTJGeXpCUlB4dl8xYW43bGdVSkxzeWpMZzdnVFdJUlozSHlFc2JDcWNqdlNkemEyTmg3MkthejVWdmp2UVoyLTIyZ2k0dUd2WTAxS08wemJBREJOeHJaMzNPeWNmeUpNMy04eGZuRU1JVDlYZHpQWm9CMzYyQ256c1B1SVNDdlk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(SD) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzhjRUxJVUJMU1dXRkFIbUFjLTI4bFZBRlRFTGJjVzNnd1VucnpUR2xRbXJGWldZSGxKbTVKdlZ2YzNqZ3ZuUlBIS3pIMTRoNFdSUGZiR3B0NUFQQ2pLYXVTZTFMVWtIc2VXRzl3bnZLcUdueG9DdW0xdlc2UWVXa2tremNkRWNQc3lQRjBOTjZ4Q0Y4WkM3X1VzQk5INFlXM1JTc0l6cXRQd21UOVdOb2h0QU1PUms?oc=5",
+        "title": "SandRidge Energy (NYSE:SD) Is Paying Out A Dividend Of $0.11 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWYzZHJsZlI4X0EtVzhSTDhTZ19tdjFENUpSWkQwS21FUzYwZFNnc3RTNlQ0eW1MYmFUR3hDNWNFM2VaT0JBUXEwZENKLVdSUmlOM2pnTU0tT1Q2cncwYW5mQzlxZ29Uek5nRXA3eFdPYm5TU1Z3Sm9Oc3g5Rk54eU1qNA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,18 +621,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "SD Retail shares list at 11% premium over IPO price on NSE SME platform - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0ZfZ1RnYWlTTFBHR2JySmlWTWp1Vm8ySmFaN3JtTFdnZmdTYnU2YWJfTVVrRG5TRHB6NlVFWEdPT2M0SGttcmgxSnhWekZsbU9sVF9qRGhaWVdTbndqcHp1WEJRcTd5aVNBbXM3RWlGcDBDblo5bEtnOEhKUFNwSjZPekdLM3VoWFJrVzhERTRWM3BEb2Q3bGxtaUI4bkxjampDUkllUF9XUlhyX291UkVHbkxtWElBQmdiLTB3Yjc4WEFUeGJDeVlrSUhIdnIzelpTX1JoMNIB3AFBVV95cUxNWHdkcnR4b3VTeXNOTHo5V0I5WXpmbVdtUk9aaGNReUV1Smx5X1I1N2ZmRkRENFV6X0g0WHJLT3lSX3ROZVhhVGZBeGx6RFZDcTY5UDNOUFJkVlNSSUVGRXh6c3p3RlJVTXZrc3lUdExObGxTbmhoQnVoWXBDdjVmb2N4Q2FVcTUzNTlnX09XM0NKYzlkcWF1dmR6WGRTTzZrTnpXV25QVnNiS3B4OHAxa3FxcElxdVVsRDNQdW54RnJuV3VBSVZ2ZTBZelVqcnQwQnhQRjR3cXUwc0ND?oc=5",
+        "title": "(SD) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzhjRUxJVUJMU1dXRkFIbUFjLTI4bFZBRlRFTGJjVzNnd1VucnpUR2xRbXJGWldZSGxKbTVKdlZ2YzNqZ3ZuUlBIS3pIMTRoNFdSUGZiR3B0NUFQQ2pLYXVTZTFMVWtIc2VXRzl3bnZLcUdueG9DdW0xdlc2UWVXa2tremNkRWNQc3lQRjBOTjZ4Q0Y4WkM3X1VzQk5INFlXM1JTc0l6cXRQd21UOVdOb2h0QU1PUms?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "How does U.S. Supreme Court's ruling on bump-stock devices affect San Diego and California gun owners? - 10News.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3J6YWxZbWt0Y3lhT2JRUzlPQm5pS3JFZGNaZnBJQzdVUUJwcXIxdElaa3BMTFc5ZGxKN3U5T1YzYTVlNWtxRlJhMTdaSlZqQnFEUlB2Qm9qVDZOZVoyazBVM1hyV21ELUxZQXBRS0JUQWpmN1RwUDU3c3NhTVh3dVpzMEM2R0xLMkgycTQ1YzB2WEVzRlQ1cTUyTHI3aUlhMFR1Q21OMi1PcXRVZTNPa2gtT1lxcm9SM2dJOURxMXJPWGtnZWFHaE5HOUJ5bFNVb191Vw?oc=5",
+        "title": "Ferguson Files Form SD | FERG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUpYbWtwUXFJZFl0VFFvaDZoRmNMVzFVUWVBSl9rWi04S0pqRm1hNnVKYklDNTRWdG54UHVwZEZEZzZVVkRBU0VhRE5ReXk2SlhzSjB1WnBGdzZiWkhiOUs4YUNOODVkeENlV1FhZ0lYV1g5c3RtWjlyLW1Pci1LbGQwQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "After strong start, SD Guthrie's earnings growth could moderate as palm oil price softens, analysts flag - The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwRjlZQ1JMSjNoNndUVnJGMjVqcmRPdlg5Z00tYkNDeTJYOWp3cG5GUGZGOEtFXzZJbU82cWl2b002aTVMNVJHY3RjeE5raHhP?oc=5",
+        "title": "Nuveen Asset Management LLC Boosts Stock Holdings in SandRidge Energy, Inc. (NYSE:SD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2hOX0g4T05Lb3pjZ205ZkthbnhMZ3lEZnprWnRQVTEtOWVYcnVCTjc2Tmh2VmM5LXBWdUpicW5TN1lubHh6Nkh0Q1VUSy1vaTVwcE15TEdZM0RWYmk1SkdvVTI2WVpMeGJOMXc1UVltMF9GSDNZbFU4UXRhTVZJSUZ2dFlTWDE1VEhzdVZCQmkxQWRLbGk3SDRYTzN4emtrdEcxeTBIXzVBbTI0el9USVFodzNZTWNJVGpPWkI2Tl9VVnd2cXNxaG1VUkN2MGR5ZDBtZzFPTGw?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -646,8 +646,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "How to Take Advantage of moves in (SD) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTJKUFVHai1uRzdqY1ZLQzA4X3R2dW42RFh0aTBJdjRYZVcxM3hOVy1JLUpMS3RDUkZOY1IzTGhVaHVocnRnT2NrTUZSQXpGaDZ6RGVxX1hQYWxubjJwbnZjZWEtSWxQY3VjSktYOWFBSGJYUjdJMGV1S0lLSmxJUm1lQVMtMy1ITTFyb1A0TVFiNklRMkpjalZLMTFFYjY5RWxtMWE1NTBxczNSUXdn?oc=5",
+        "title": "With 89% ownership of the shares, SD Guthrie Berhad (KLSE:SDG) is heavily dominated by institutional owners - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdG1kV1hvcEVkMFNiVXpJRmQ4ckdfUGhyd3pwRzlIeElQeXRLRGZaRWM4VTJ0OHJEWXNZYlFOYmx2czVkU1YzRjFleXMyZ2p3dDRsMGRsbGxtalctZUYzYjRPNVJxRktyU0I3dHNhOXk1NmQ5ZFlsLTQ3Slg3N2Z3UFJB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

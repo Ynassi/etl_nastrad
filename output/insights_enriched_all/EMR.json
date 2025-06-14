@@ -2,16 +2,16 @@
   "ticker": "EMR",
   "name": "Emerson Electric",
   "sector": "Industrials",
-  "market_cap": 69339037696.0,
+  "market_cap": 70568435712.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 35.73026,
-    "PB": 3.6022618,
-    "EV_Revenue": 4.659,
+    "PE": 36.25867,
+    "PB": 3.6661308,
+    "EV_Revenue": 4.794,
     "ROE": 0.08335,
     "ProfitMargin": 0.13603,
     "GrossMargin": 0.52769,
-    "DividendYield": 1.72,
+    "DividendYield": 1.67,
     "DebtEquity": 77.857,
     "CurrentRatio": 0.795,
     "QuickRatio": 0.547,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.19495796464603227,
     "ROA": 0.04718,
     "PEG": null,
-    "EV_EBITDA": 16.904,
+    "EV_EBITDA": 17.393,
     "BuybackYield": null,
-    "PriceToFCF": 20.198021119287482
+    "PriceToFCF": 20.572082987071592
   },
   "technical_indicators": {
-    "RSI_14": 68.55254815272221,
-    "Momentum_10": 5.129956839146031,
-    "MACD": 3.1982051132210216,
-    "BB_Percent": 0.9111705036123692,
+    "RSI_14": 67.8179464769961,
+    "Momentum_10": 5.185962501697569,
+    "MACD": 3.6772915680822393,
+    "BB_Percent": 0.8199319575722391,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9294954967994964,
+    "ValueScore": 0.8795388457149378,
     "QualityScore": 0.3397718470177438,
-    "SignalScore": 0.4464324460182193
+    "SignalScore": 0.4702697044964509
   },
-  "volatility": 0.0223505444260552,
+  "volatility": 0.0223868566615131,
   "beta": 1.268,
-  "return_6m": -0.0507177737966736,
+  "return_6m": -0.0280989838315942,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 29,
-    "target_mean_price": 134.84068
+    "analyst_count": 28,
+    "target_mean_price": 135.40643
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 130.43
-      },
-      {
-        "date": "2024-12-10",
-        "price": 129.15
-      },
-      {
-        "date": "2024-12-11",
-        "price": 130.87
-      },
-      {
-        "date": "2024-12-12",
-        "price": 131.16
-      },
-      {
-        "date": "2024-12-13",
-        "price": 130.2
-      },
       {
         "date": "2024-12-16",
         "price": 130.19
@@ -537,63 +517,73 @@
       {
         "date": "2025-06-06",
         "price": 123.51
+      },
+      {
+        "date": "2025-06-09",
+        "price": 125.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 126.94
+      },
+      {
+        "date": "2025-06-11",
+        "price": 126.49
+      },
+      {
+        "date": "2025-06-12",
+        "price": 126.72
+      },
+      {
+        "date": "2025-06-13",
+        "price": 125.54
       }
     ],
     "current_price_data": {
-      "price": 123.51,
-      "change": 0.98,
-      "percent_change": 0.8
+      "price": 125.54,
+      "change": -1.18,
+      "percent_change": -0.93
     }
   },
   "news_sentiment": {
-    "summary": "Emerson Electric Co. (NYSE:EMR) a récemment attiré l'attention des investisseurs avec une hausse de 9% depuis son dernier rapport financier, soutenue par un relèvement de l'objectif de cours par Citigroup. Cependant, malgré des signaux positifs, le titre semble sous-performer par rapport au Nasdaq, avec une performance boursière morose reflétant des fondamentaux fragiles. L'entreprise continue de faire face à des vents contraires, bien que certains investisseurs aient augmenté leurs positions, tandis que d'autres ont réduit les leurs. L'annonce de la participation d'Emerson à des conférences clés pourrait apporter des éclaircissements sur sa stratégie industrielle.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
+    "summary": "Emerson Electric Co. (NYSE: EMR) a récemment attiré l'attention des investisseurs avec des développements positifs, notamment le lancement d'une plateforme d'IA industrielle révolutionnaire. Malgré cela, la performance boursière décevante de l'entreprise reflète des fondamentaux fragiles, ce qui a conduit à des ajustements de prix cibles à la hausse et à la baisse par divers analystes. Les mouvements significatifs de détention d'actions par des sociétés de gestion d'actifs soulignent la diversité des opinions des investisseurs sur l'opportunité d'investir dans EMR, créant une atmosphère de marché mitigée.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Emerson Electric Co. (NYSE:EMR) Shares Acquired by NBC Securities Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVVwSmZRNTMxS0V4Q3BoenNGeVZZdGFoMGVSSHBUczFLV2hKVTh4MG12YXNLbm0zdUs2LTBES3JhWU5IUnRoUEdCOThocVc3cUtsT1lib3ZIRFN3ZWdpV2R6Y0dIcUNXcjh5WExaVXJOZnRpWm9tZDBJNkwtSDhWOXZISGJHeFRiRy1fOC1HLUM3WFFFeFpva3pCMGtka1NHdEFCLWN4SjFQZGRFVXlNOFBSV1V0eXNHZVhVMWF4ajBSV05Yd3hsRzVOWnY?oc=5",
+        "title": "Emerson (EMR) Price Target Raised by KeyBanc Amid Positive Developments | EMR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkh5RUtLcE0ySXViVFhHVW5XVnpDM0xITm9QVjNYN19OMjlPS1RZMkJFU0RKcXlmN3dyemNHeTljaHVodE43T1hfc0V2Szd5Y0tGWVN3ZVRjM1VsTGZlb0toUF9WVWVQTG9CYm1oa3RONHBMT01VM2VlZ0VxVE9reUNVaTZCX1ZDczJmMlMzb3V2bHNZcEc0bkRuaXZTNzJuNjVrbkUyckdTU2VFaFo3SXowb2VmMW1xcndLNEhJRkQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "12,657 Shares in Emerson Electric Co. (NYSE:EMR) Purchased by Harbor Capital Advisors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWC05ckg2c1g3MjFkWDFXeHZ4bkR1VmNvcTZwM3kzMVdFLXM3UlhjU1dKUE01bTZBTzhlTFZneE5JTml6dEFBYlIyemd4cmFxcHpYSWdQd2Q1UGRDR194bDB4NFUtRUVLXzJUZGl3TmlRSXlKZ216Yl9LUnducGdpU21qM3prZS1UbE1ZZTBEMHRkRmN3RTh1LXkxZWlFamwtRkFxcmJOc1ZjSjYxc21sWE51LWM1WGV4eW80ODE2RGhKazc3T2RQTEVkOU5KZHFmOGJzTFUzRC1aYWZKQ1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why Is Emerson Electric (EMR) Up 9% Since Last Earnings Report? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWh0ckR1SFJTc1JkNUx3dFA2ZEx4MC1kV1lJVFFVVUFkWUR6UlFZa1VweUtmWjNlZ0x6RGR2UE9mcE8ya2tJRERmTVZ5bEVzeG1MTWtsY3AtN2RMNGt2WFROTVRTXzAxeFRRLWFQSG54V3lNc1hZczctN1NVcnVaZnptMlJOUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Emerson COO Ram Krishnan to Reveal Latest Industrial Strategy at Major Wells Fargo Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjgtRC1sRlRkdHZhX0loUTFrY0JGcmVZS05jbDI5Q2RhMWQxaXQ2WGZHV0steUpaZThHWVdXMW1MSlJCMWNqV0NQZzVxWW5pVnpjX2Zxdlg5ZzRWUXZRdUJTXy1uZWU4aWo3LWYtV2o2YVU2ZGZJZ09zR2hzWjZjZTBrU2pnaGxDTEVWb0xnNXZhZmt2N19rMFc0azV5b1VxR2FKdnRzTzZzMW5ZRllOVDBNM0Vqb28?oc=5",
+        "title": "Is It Time To Consider Buying Emerson Electric Co. (NYSE:EMR)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd093SHZ0ZV9KT3IwNzMyXzF5enA3R1E3WnY0NnRXMzYzSHp1YUY3RGtScXVxRXpoOXNkMy1UaHZrTUdjR1FPcXRWX0Y1bkF2MVdMYnpZNVRPRGlOanhJWTVwT0xDYngzQXdrVTZGRFZkYWNCT1k1R1ZHYUl2UFJxVHlhMm9VcjV2blZBRTdycmxUSkJNeVNheTFtNkZHNGhIRU82bWl0U0pQZDFpYThOYW4wdUhyQUo1a2p0Tlc4cWN1ckRpOERjaVV5RVNfQjJQWHfSAdcBQVVfeXFMUGdJbjBRZUVjMFBPcV9GQUZrVHE5Vm5jU0h2WGlxQWtQdm0zalRTbERFUzdjeWdvb3pKX1ZObnNiWFhVVnNHbm9PNGZtcURScl9RNFJSWVNFVVVCcmZ1RWFNVGxRMmZlS3lNSkJSTEVzdndMMFd5TUVNX3JadWVOMFY5TFQwb3YyQjh0eEZBTXc3WmVlRG92a0VDdGpYanh1dWtHNTZKQzlocS1vYUtZOU9IUW5UREV6ZS0xQmV0MHRNSHlsUUxxbzY1NkRaRkVFRWZxczFSbG8?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Exploring Analyst Estimates for Emerson Electric (EMR) Q2 Earnings, Beyond Revenue and EPS - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYm54dEx4OUFhSll0eDBKNnFiTFZTQklSQXdGS2ZVeTFhZU5rOV9DNHNlYmI4WGN6N2RsRTJVdWlieHMxOEJsaTItbnVwMUszRjVqQU03ajVzZVBlNUtmYlF0LXpsUnpYVzl4YUI3NlVSTGZaR3FkLVNfZXlHRy1wUFlheEVWSkdsTTR5RmN2VVlVODlT?oc=5",
+        "title": "Emerson Unveils Game-Changing Industrial AI Platform That Outperforms Public GenAI in Manufacturing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2d6M0ZoT3JXV0F3aUpEazhjbnhUUHhsN3BzUl92anRpYm9CeUpEakE0aXlZXzZjdlo3eDQtT2tEeGRjclRaZVNfS3RZamdONW51ZmNFMXI0WkQ4bVJxc0tlVnFhekpoOUdYc1IwRWxpeWNvaW14SFd4OVRfYUZWM0xZMlZnSndrVGtTTnA4Z1BpT1NmMDZQSXJiam1fWHhtbDdFaGlyRnlXTGhneFJVc0tWU3VjeXdZNnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Emerson Electric: A Balanced Play On Industrial Digitization And Energy Transition (EMR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTHpsTzVOc3plejZraFBIdWVMSUFEay1TYVBkenJ2SDJFenJrZkttdzRKbUlMa0RkR2FwME04MkFMSDF2TFlVclR4TGtCamdkN3BzQ3FTR3ZRZ1pWV1hibzlXTXhFNzRsQlVEWVZuVUkwel9UOUEwVlkxQVF4bEQ3eDdMXzF6eWhZaW5TNXpRVU5RTVhVaG1qYnk3am9LU29WdHlpQTJhU2stYTJUX2ljUktxeHFhX3FxdS1FXzNHc0pKYUdl?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Emerson Electric Stock Underperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa0d2eTk5bXhxMDFpejBEVGYycnFnR2hMamNkUGRQaVpIbkd0NkoyeVlrNXhTbEdoQk13TEFuNS1aYVp3YXA2ZTNUb1RySlNFV0E4cmc0YVlMRlJHTHF0c3I0UGpyUDF4RmNCdEJxMENQbmo1d1h4NUpWNzNCdWZFQ3FkSlk4VGxnYVZsUVVxSHJFVkxsMUlPT1AwQzdXVUh6LUVHSHFMMWotUlZ0WFVCREZfaHRDN24xM2lWR2w5bWFRbXdZSElrQVZuYzBoWUlSY1RjODZR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Emerson Electric (EMR) Receives Price Target Boost from Citigroup | EMR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhOZkhqdnRlYW9uSWJIOUZjU1pSYklmRUZ0RTNjZEdXRGY3ODQ3N2ZlTWlTT1lRaU5RV055aFBtaFVvUnhCbnYtM0lQUThaYTRKUUFBRy1RNndPVlpRQ3IxWDZrVUQ5UC02a1oydi1KS3JrTUFnOGZ5V2hFZFNiQnQ3OFo3SWh4R01HY1FfSU9jOWpzZGxyQ1VVanRfTDB1c0ZaSV9NZ1FwOHBlQllyYUVDa2hZM2NH?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Emerson Electric Co. (NYSE:EMR) Short Interest Up 29.1% in May - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGoxYklFdG53RzJIYkFsd0Y3aUJZZXhNREU5OUtjRFZ4UEtSTVlIcXRuaElqWmlNZzlGR0VSMTk4TWcyaDF0M21HYWJndENTRy1kT1JMYTZJWjVETWJuR0U5X2ZyNVlmblY4Z3dBdy1VYUFHVlJnUkhYY1NPMmZPUXBJNC1fSEd3LUJRR0FBWGhSRldxencwTzh3ZjJxLWU4QWV3U093?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Emerson Exhibits Strong Prospects Despite Persisting Headwinds - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFhLZ2ZLWHY1aURJajJOaVR1ZS0xOHFVeC01dGE3VGoxX3V6TE9iQnhjSXBDRU0ybjJYeHhXb3VBTzJxRG9lNkdXVV94UEhEMzNlY0NTRnBuSW4tdWcza3lsM2MyNENFYkRkeXFEM3I4alpUbUhpbmZsRkt4T09FMWhLV1dLdjE0c3pfZ3BMMl9FRDVKVGNJXzByU1Q?oc=5",
-        "label": "POSITIVE"
+        "title": "(EMR) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTlfbm9ENWRMcFFTX2szSENMWHBwOWRNNXVfYmlWY01XaXFYeTNRcmlBTlhpYzRfVlRjeGxMX0VaTFF0dVRHN0JiUEViQkRIR3JnVFp2OEI0aTdsZk1xM3NfX0I3Z2JPQWo2ek50VG5ycGhqLWFSSjdoNUFTOHNfM2RGQUdVSmMxcXNDSGtsTTloMllVSFYxdE5jamRRdw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Emerson Electric Co.'s (NYSE:EMR) Dismal Stock Performance Reflects Weak Fundamentals - Yahoo Finance",
@@ -601,61 +591,71 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Emerson Electric (EMR) to Participate in KeyBanc Conference in St. Louis | EMR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEZ4MjVKeHRXTVJWRTRFcm9sZWRiNlVSMWlvLTlwWmg1eU1QQktkSVdYSzdldFZXWXEweTlQQzdDcVVCLThUeU5wQVl4dnlTWUtZd3FMRWVTQm9aR0VGak9RYzN3dG1RMUs1am10bXVjOW1kNHdIX1lIQXlTWnpyZUktVGVlenV1bmhuWGtad19JWHNfaEwxcDloTlh5SEs1OG5mYk9NcU5mZjJONE1UWDI5TVpUbzNSUTQ2WDExOERIUQ?oc=5",
+        "title": "Keybanc Raises Price Target for Emerson Electric (EMR) to USD 150 | EMR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczBKdHd6aFgtaUg1UDRHVlF6UmNyOFZGbkIzb2N3Z3NRU1BSTUVBY1hHVFBPM2pBQXlYTHhUN3FCQ1Ztc2NCQWRpd1pzeXVsY2pqTjRzV0FwSE8yaG9lM0NCTTVvMy1OR1ZiOEVpVzB0U2Etam80WUU5Yi1uekxKWXFMVVh1X3p3bWtUNk50R053VDJKb3hfVTYya2hVS0JrVWJXa1l1YW00Wnh0M2lQYkxsZ2FURkZBa3c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Generali Investments Management Co LLC Cuts Stock Position in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGQ5THNydklrX3h1STVZX1pNOFJNU09FZk5kNG1yNmhBemEyWjhlS0Rhc3R5cGw5ZjItUEw0cFlaNGtlckktb2doOHpSZnlBVDYxd3Y4Rk9pWnpCLUtBeEZ1Y0dySE1UN3pfcnVrbzU0RS1mbEtvb0k5bDdwVHNNTzcxOHBPUnFYZ0VqbjYxOUUwMTFmcndBNzZsUHNfSlJ1ZG1QQ2dSRFRPQjIxOFZZdFRXVWdOZmNVNlc1eXRsZ0M4VEtWYnY5cWlEZU9GNnJLd2RVdDZrYUxTc09lRld6WkF3SHU?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Emerson to Present at Wells Fargo's 2025 Industrials & Materials Conference | EMR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREtyQ2ktT3BoekMwcThHVUw5S2Z6S2dJcHgzQUYyVGNfTnZ6VTg1WFhIVGFYZzl0Qm1YVDI2Q2RCVGFCek9fOHZQUE1CVE42QTl6NHNWbngzVklYMC1LQ1pGX3BTX3g5Q1ZLb09aeGk5OEE3WGZKUElPQmF4ZElacEJvd1M2Wk44Z1NoTUE2Q3E0UG96SFNVRDYzd0xEYVhJZVAzTDg4elZnWDR3Skl0M0RFNl9tN0Myb210NF9SXzhab3RxMkRj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Curat Global LLC Takes $597,000 Position in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkpJTG1MLXBSaXRETUl1bjFLdEZCRkpkNzNBblRlVVlJNFhvem0wTTdmenJxcWZtay1wMFVrRWhURjl4UE5WSjNfWTEyN3o3cDJKUUdsbV9LQWk5akRHWUtHTTh6LVNLMEdqRVBvNGNwSUg2em9Jb3d4VUhHYTItN3hGNEVkdnRGSlY3LXU3MVAxYVh1b0xxREZYZWM2b2d4aHlsRTBNaGZha05KTW13S3dIUlJoWnJCV1NfaU1EMG80U1FaM2gzdDln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Emerson Electric Co. (NYSE:EMR) Stock Holdings Trimmed by Lmcg Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXhoSEtPYWVpXzFlc2NOb1B5SWdLVmJrV0FVM002amV4bHJ1Wlp5T2Fxbi1LcWxFeWh4RXNqSk5pbERHa2dPQjVmU0hJekZHNVpkZzVIajlqUXdDWUJwOGtDUEdJR0ZfRGFVaWFtNGlnQWc1MDE3ekhzZTRxNkQxRUtWM1hVazFnLXdZUEtxeTd3UjJMb0h2aU5ZSXp5bkZYZVlqNUx6UzdFSmtsUkhsY1lZbUJzc01WZGpVVG0wWnJhR0tPZlVwcTRvV1RMLWE3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Citigroup Issues Positive Forecast for Emerson Electric (NYSE:EMR) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSWtkUjBSY0lnbDZ4Yml3Sno2R0ZpRjhiVTluZ29yTWRZWDlOZjI2ajg3RGhDNUk1dnBva3ZKTFlBZXhCcXB6NEhaZ0VFcU1ZME5ta3g2N3RFVjhUMlBXYndqelB5d1RrNTFHNUZ6TzNIbGhvRHJ2REZLWklBZ0xWck1XTXl6S2p3OXZvNy1Pd2V3YnRRWVdZb0Z4ZHpsdU5XV0M1VWNtM21XQWJ6QXl0cWZURUQ4X3ZrR3lzaTZVUzJmNXRPOVRDQw?oc=5",
+        "title": "KeyCorp Boosts Emerson Electric (NYSE:EMR) Price Target to $150.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDdtaDVmdVpnOFhmNE1UcEdaUjdoMmdrZlROZ29SSmtoRDU5bjNIbjRETmVic1JHcGtsVnFPRFphakxwSTMtUVl4d1VuZWY4bHlHbEpwMkY1QkZJRkJIM3QyY3NpU3BVT2tBTGZVN2QxVG0wZy1xTFNEMkh5X0VsV1J3RzBiYU1NZmpoR2poR0VXVV9HdFYzcDJVRHpEOVZhcy04b1JBWTAxRWU0RnVyWHNwWnNFQQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Milestone Asset Management LLC Invests $566,000 in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZDUwS04tNjBFS2lNVzRpbVEzbUsxdlRUeC1OLWlib3BnTnIyc2Y2a1JZTGRvTDFWRHJFOGl0SEVwdlNEV0hZWXVuckFUUFRpam53MzRBNVhDWUVQa25MdF92UmwxNEszS1RTY3F0S2lwMWpEV0lBR1B4bEh0dXljMEtfNW5IbjNOc2x3RHdPdzhPRjVvN0pYUlhEMllDUkFvZG95cVVwQ0JFQTRORDY1NWpzX21wLTNlRjdCUFFkNFBsUThNM3FyaDRHWmVzaktMMnBKdFRzc2kyZkpHUFhvbVE5bVM?oc=5",
+        "title": "Argus Investors Counsel Inc. Has $538,000 Stock Position in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEpQSjJ2SUhDRXQtbi1feTVESmhnbkM1RkE0UldYY1FTZG1DaDVldERpcmQ5ODB5LTFtTXBXUzVKaWlRTXYxdGswTWVQWVBFN2xiaGl1RGpYTC12NXZNNjZReTM3YWhubzJjRmRaYU00TXVZSjdJNmZkaXhqaTlzdVZKOWh1QXhpbDZRYk9MLWp1WkJmbTRtZVBSRkd4NnIwVFdZejkxNmpBeHJuY2NZalBZdUE4UEJQZEt4WGJwNGxBVDlzRTBCb25TXzBkV3d5dDczU3JrYlNiZzE1aVE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Vest Financial LLC Sells 103,820 Shares of Emerson Electric Co. (NYSE:EMR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnBfN2QzYmx0TWl0aVg2dGJuMjFyNGVHZFRUdkZoalFqVWFzWkplb09mSzNlQVdickJVek9KalpnSURVTndMWHdfMkQtNnRiNmluZHdhNzFfMHJaNFh2aVROQU5YNENIbmhlMVJHeVRsblhMTHhEYjFiaV9rWkNDNzBQcTcyZHFKc2lOa0ZDdDVEdmhhdlNLR2JaNm1LZmExZ1FoTi1SR21Ld3lTLUQ0bk9TUWpEWVRFNzFPWk01a1JIUmNCUjE2ZjZB?oc=5",
+        "title": "Fifth Third Bancorp Sells 33,428 Shares of Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXk3MHJCOHBlSU0tdXZ0VnBOenMxbU9VVVhON0kyT3RIcW4zdk54MEpBQmh3bTZYc1dJTjNucG9lM004ZTdvOEhuR2swUklNUTVKaXdsXzFMMVo0SzJncDBiTEc1T083NE5yMjJuRDJCNmpEQ05tMzBQVml5bjVVSUstelNWRml6WHM5azJ2MWxFazdSNFF5d1lNNnhid2xMZVBrdU5CT0tkdnBaRU85aXpteURndlpjZTgyZ2otdUxPampjNWpuQlVR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Emerson Electric Co. (NYSE:EMR) Shares Sold by Neville Rodie & Shaw Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWhQV2R6S0xMYjdERlJMX3lyd2xkYXZxVjFUa0pwNHNFeUYyVE14SFRmcXZDd090MmxZb1VtRW12SG4yZHRrNnQ5VGtWYmR6Q0NRb054WmI5cUZxZC1XcGZ5c1c2RFRPbV9PMzhlTFp2T0hMY1ZWc01MNU9KYm9pSnNRZXh3djI3VGJkYXZDOExCUHdhamxXRm82MzlsODdmQUdPdmh6cVFseWhSTlRTeGxMVGQ3ZU9GMjdleDBiR3ctYS1SVmFPZmx6QVQ1S3d1SmJYbmpTTmNHV1FhcEE?oc=5",
+        "title": "Barclays Adjusts Price Target for Emerson Electric (EMR) | EMR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFFaZEdlNElaYWx5TTZ5bUo5V0tzUmtBY3JyQW56ZkozakoyTDZmeDdGYURCWlQ0RkJwRVR5Yl85eTNYeTF2LURNeThBMmY0eFhjMjNQc1c4RHF5QThGb1dHRXlSYUx2dkJJLUdxeXhBbDBVdk80amJXTW9BQl8xMlQtaUlxbFJReFExQzlVQ0xtS1VoUmhBNVNMbkp1QkRxWWIxN3ZBWk4tQ1kyZmc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Emerson Electric Co. (NYSE:EMR) Shares Purchased by Allied Investment Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORTFENmJSM185SzFOYXlBTXprSkcxbVBUNjRhWEx4bktKWUljeUViZFk1WWoxWEVtMzZLdTd0bl91UmpZa0NwRTdmREdQQ01xOG5Cd3YzS2UwalNIT1hBcHlPakhVWl9MclJobmJiSm1tNFpvZklfMUo4T1pLc0xkdUxrb0w0bm9aM1czd1ctUlo1MDZJVzBJTmw5SnZCSU5XZ25lSHkweDYzWmNGamQ4azhvT1BpTHBudnFaTWNoSXdUTE9EOGpMQUhXd09kSFFjNXV6dEVhOEVyN0ppTVR6Y2ln?oc=5",
+        "title": "Barclays Forecasts Strong Price Appreciation for Emerson Electric (NYSE:EMR) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNfRjVJdmZDU0NXVk9jb0kydmtXcmFVSU5Xc2R6X0RvM2RXekdUSFhVeV9ELU1xNVlGRzN6RGtSY2trR1NSVHlOUTlWUUl0ZWFaaE9LdjhHRm0wbmNBMjBuYmRiVGRvcHZldnNkZ2UtbFlrQ0x6RVcyVkN3ZS13V3ZoZV9DclBqRXlMdE0za2kyVDJ0aHIyUFdwVXZBaU5iUV9nQ0N4WEhKZ3N2NkQyemQ3dDlJVGtIbmhzMTJtU1RXWUNIdlVxdk9uQzFQQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Acquires 2,422 Shares of Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVE50TmRxd1pWQU9CZWNNUkRfcVdMV0w0ZTVPeGpMRW4zOVNLNzNsVFIxOEFWdTlnM18xcGlXZWNIQ0JXN3NVbFUzaFpSaWNEOGV2LWxxaTd5ZEQtMGxxQ0oyZmhiM3ZHWFp0azFPeFU1bG9mNlNNYmk4RU41Y1U1QmxpT2d6enFEOWRvQ1NiOFgxOGR0bm5CS3drWEdmLXRETmM5aEVxbkcxcm5Id0p2RnVUVkFIWG5yS3JZMmI1Mk1kTmlpT3VpWEZaQkxEZXg1UGctek0zV3d1QjRFa0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Emerson Electric Co. (NYSE:EMR) Shares Sold by Park National Corp OH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXhjZ0FZUnJYeVhtSzR1QXlBcjN0TEZlc3dxVjVuUlFZNWZ6SnZMcjhDajR5amVpcUxDQUhvTVdBd3I2dEhrcFJsZ1c5djR3Y1Zwa2NHaE9qN1pfekp6clQ0SFcxVFhCcXRqQXhqMGZ3X0htTXo0b0V3ejlOQ2gwX3lYM1RtNU5FTlVLeV9xVnhNS3JJLVVJRnRBYjE1bXRYXzI3dkhRT1RJMzFNVjE4NFRLU0ZoSi1SbHBUcDFkWU9ZNzBfTFpOcGJ6NA?oc=5",
+        "title": "Emerson Electric Co. (NYSE:EMR) Shares Sold by LS Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlhDSWFiNERiXy1sdU1jWlRIdzNxc2NodWo5REZ5SjVLSVZGS1pZSjRBbExVdlBDcHpTREw5c2tDYi1SWnZlN1BuVm5tNHRIN2dNdW4yeUVJekNmcHhzXy1PUFd0SVFfSVcwZ3lxLXctSWpnenUxaTJpRFowSnJMUHg4QWlrOXd6X0FScFE0UWlnWXg5bUF4OHNoeF9zd2hPdTA3WlB2d3N2NENoamR3V1luXy0xMnoxMFZ0VzFmeXBRaEkzaExMN3BpNkFrcjlib1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ferguson Wellman Capital Management Inc. Sells 35,882 Shares of Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa1ptTWZXQkFDdDFoSm9MT2VGVFBISncxRmdVRlN1bW03YzlxYmN5NWZCZ3hFX01OcDJpVUk4U3hPaTh2aFpqZE54UTR0bHNQSm1yaS04MHVRMjhtZGdVYmxjZkdDenRIeEZsNnNELWE2ek9OS1REc3NJMG5tM1JOSU1VWlJUSk5zbWkyb211VG5Hc01wWFNESERkSk9DMnFpQ3huWWM2Qnl5a0FDY19fX3FicVJoS1lvY1ZhR2hOZmhKSE9jb29RUUNiUWpHTEkyTHdYR19DMmJ6S0pwcDdKQUJ1R2Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "13,031 Shares in Emerson Electric Co. (NYSE:EMR) Bought by Simplicity Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTdGS2tRYnR2NkgzaWdUWUFJUTRLY3k3dTFLejQ3b2J5cDZMaTRGYjhlOGVNSGJZUjhwc1VjaVF0LVFOZWZGUm5GTjBxRWFFbW1ReEZSSmZUbEJONEtfYlFEczFoTzdlVHNUSC02Z2FNUlhZcm5jZXJ3SVRBWDE2VF9Wa1NVR0M0N2lIcjVDOGFJNXg3dXhQYzVIQ1JUYjRhbzg3UzB5TDk0Qi1DbDN6NjZkVE5BTjhQOFVCYlJ6T0g1eFY1NkRzdFMwbHpUMDZaenc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Smithbridge Asset Management Inc. DE Invests $263,000 in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1FITHJUOERzQ1VWNUNweTB1b2ZGMUxWYm04SG15SDN2N1lCT3RQenNqcDRjQW5VbmJOaExzclFGSjdqTkNVX1FsZXBteUcxamVTNGhsOHFTNlNZZVZkY3lnMkh4SG1ubFlsTU94Y21TWDhaNUNmYWRHdG1xeEdWNElLbXlTdmJOc1RJLTBwcnFQbnU2ZjVmSnd6N2NsMFA2M25JN2k0aDhSQzZVZ3dBMTIyUXBFMFRBY0FiQlVxSXlENnFmdXBaT005Y2s2dUs4aGNQZVhCSlhaZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Raises Position in Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnVDcWtzdXZ3cW1qQ2FUSFNxczlfaEV1d0tzZXh0M1FKNmduMjNYRlFVaEthQ05XNkw1WGlkVFd0MTNkSk16ZEJLNTFfUGFPb2VJQmQxYnV4YVpfajdOUUZEa094M3hlS0xydkREMU5oeVVTSWlZTksyYTN1a1RlVGt1SEZ0ZGtsbXhHeS1LaGxmREhxbUpkcTB3b0c3dmdTeURPUjIyWDhpRlY4WTQ4U2l4bHlZV0JBdzV1RWo5YWdiSUxOMjk1NUZUY1VPSDQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Generali Investments Management Co LLC Sells 3,164 Shares of Emerson Electric Co. (NYSE:EMR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGQ5THNydklrX3h1STVZX1pNOFJNU09FZk5kNG1yNmhBemEyWjhlS0Rhc3R5cGw5ZjItUEw0cFlaNGtlckktb2doOHpSZnlBVDYxd3Y4Rk9pWnpCLUtBeEZ1Y0dySE1UN3pfcnVrbzU0RS1mbEtvb0k5bDdwVHNNTzcxOHBPUnFYZ0VqbjYxOUUwMTFmcndBNzZsUHNfSlJ1ZG1QQ2dSRFRPQjIxOFZZdFRXVWdOZmNVNlc1eXRsZ0M4VEtWYnY5cWlEZU9GNnJLd2RVdDZrYUxTc09lRld6WkF3SHU?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

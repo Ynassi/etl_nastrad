@@ -2,16 +2,16 @@
   "ticker": "7270.T",
   "name": "Subaru",
   "sector": "Consumer Discretionary",
-  "market_cap": 1844033224704.0,
+  "market_cap": 1806385020928.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.5075216,
-    "PB": 0.6793227,
-    "EV_Revenue": 0.061,
+    "PE": 5.395314,
+    "PB": 0.6654535,
+    "EV_Revenue": 0.053,
     "ROE": 0.12806,
     "ProfitMargin": 0.07215,
     "GrossMargin": 0.20922,
-    "DividendYield": 4.62,
+    "DividendYield": 4.51,
     "DebtEquity": 14.711,
     "CurrentRatio": 2.528,
     "QuickRatio": 1.893,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.023706917832444035,
     "ROA": 0.05116,
     "PEG": null,
-    "EV_EBITDA": 0.445,
+    "EV_EBITDA": 0.386,
     "BuybackYield": null,
-    "PriceToFCF": 16.600199658101907
+    "PriceToFCF": 16.261286187846608
   },
   "technical_indicators": {
-    "RSI_14": 43.46145798605675,
-    "Momentum_10": -4.105683330165368,
-    "MACD": -8.033830721220966,
-    "BB_Percent": 0.0857720205219548,
+    "RSI_14": 40.25182188847613,
+    "Momentum_10": -7.764091078760732,
+    "MACD": -25.9516276982431,
+    "BB_Percent": -0.009523266296888,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.935738663123128,
+    "ValueScore": 0.8995831174857354,
     "QualityScore": 0.4122474402483493,
-    "SignalScore": 0.6608748653372769
+    "SignalScore": 0.676243205419766
   },
-  "volatility": 0.0270655798319344,
+  "volatility": 0.0274142275746325,
   "beta": 0.151,
-  "return_6m": 0.0509257808892329,
+  "return_6m": -0.0184707050645481,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
-    "target_mean_price": 2581.3333
+    "target_mean_price": 2558.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2459.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2476.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2487.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2495.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2501.5
-      },
       {
         "date": "2024-12-13",
         "price": 2517.5
@@ -525,33 +505,53 @@
       {
         "date": "2025-06-06",
         "price": 2522.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2535.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2552.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2571.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2551.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2471.0
       }
     ],
     "current_price_data": {
-      "price": 2522.5,
-      "change": 36.0,
-      "percent_change": 1.45
+      "price": 2471.0,
+      "change": -80.5,
+      "percent_change": -3.16
     }
   },
   "news_sentiment": {
-    "summary": "La Subaru Corporation (TSE:7270) a publié ses résultats annuels avec de nouveaux pronostics d'analystes, mais ses perspectives nécessitent un coup de pouce pour dynamiser ses actions. Les actions de Subaru ont chuté suite à des allégations de tricherie sur les kilomètres parcourus, tandis que Toyota renforce ses partenariats au Japon en augmentant sa participation dans Subaru. En parallèle, les actions de Mitsubishi Motors ont grimpé suite à des rapports sur sa possible adhésion au partenariat Honda-Nissan. Ces événements soulignent un climat d'incertitude contrasté au sein de l'industrie automobile japonaise, alors que le secteur se trouve à un tournant vers les véhicules électriques et autonomes.",
-    "sentiment_score": 0.118,
-    "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.41,
-    "negative_ratio": 0.24,
-    "bullet_positive_count": 1,
+    "summary": "L'actualité récente souligne des tendances contrastées pour les constructeurs automobiles japonais. Alors que Subaru (TSE:7270) voit ses perspectives nécessiter un coup de pouce pour stimuler les actions, Mitsubishi Motors enregistre une hausse suite à des rumeurs de partenariat avec Honda et Nissan. Toyota, quant à lui, renforce ses partenariats au Japon en augmentant sa participation dans Subaru, mais voit ses actions chuter suite à des rappels d'EVs jugés \"embarrassants\". Ces événements clés dans le secteur automobile japonais reflètent une volatilité influencée par des facteurs internes et externes, impactant potentiellement le sentiment de marché des investisseurs.",
+    "sentiment_score": 0.062,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.31,
+    "neutral_ratio": 0.44,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "The Subaru Corporation (TSE:7270) Yearly Results Are Out And Analysts Have Published New Forecasts - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDBRekEtWVBvcHQ0X2FjemJNdXpFdjlFZ0pyOUdMTS1LVU0zclF1Y0RaQjRjbThDanJ4TkN3dWFCbnltY1lFdDNsX0lzY3lQcUUtZWswUXRBcTRIaV9HV2NPalFyM253NGJpY3I3MTQtdi1WazV4SEJSS09NU0lYWl9sZXo0WWZmV1pfVFJPc3VoVFJYNUFkNUtKV3FxdmtEa3I0OGx2QzhnZ1pSYVBZNmF5Y293NzhQb1drSHBoR21LVHlyZkdic3daVWTSAdIBQVVfeXFMTkVOM3g3NVkxWWVFb0g1RlpUdFRmODM0Q3p6djl3MEZXT2Y5aF9HS2pGSkFMSERDdFFOUS1kcDAtWmJHWnhZYXplTWJvZ0V6Q0ptYklTdmgtaGRpNmdiV1lNTDBHRmxYNTNoNlF5UTlraFB0SVJ2cXdzdFFNS1pwc1RIVjN1Y2EtVGZIR3M5VUo4VE9ZWUhoa3ZIWThXaWNaaG5rWHl5ZktrSm5EVmNLZjVTSU44ek1fbEtlVnc4MDJnVHhWYWY1NnJBenJDV3dOazZn?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "Subaru Corporation's (TSE:7270) Prospects Need A Boost To Lift Shares - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmQ5TWp3dW4wOHVyQjh6RHpBN1N6LVRuclEySVFQMUxESnZleVF1VHRHT01PSjdoeGJpRUVRTjlEcndHYnNCeko1eTFDR1lhbmMzMGF1eGlhaDNZaVh2THBHZjNkQmRaV3g0S0FnVHQ2b3FXb3pvM2lMemRwYnVEN0UyMGw1WmZZOUR4amRSbi1vV3AxNDN3d0JvM0VQOFBpcHFGQmhXdzY2UjRGTWw0YWIzNU5fZ0ZGR0QyQnd2QWx2djJocEdtajhmdWRIQjjSAdQBQVVfeXFMTjhJazgzWFZpWGVubWVvbzVINU5lbGItLU1wYTFlMXlkeUEyRVVTaHU2Q2JCd2RXbUxkaTFvZlUzdGlONFd2T0RSQm1wajczTWFnWV9JWThUTC05Q3hRZHpGSGpjYVZDTzV1SE1kWXhtR1dHNGN0N3ZwRW9zQjNXRk43ZjhVRDN5ZHItb1hOdnJMd2tVdmZCbFkwaTVIVVVQTjdGUjJtVDZEWF9wVXB6WEpRQ3QwbzAxS250RjJnaWx4ajgzMDdkSFZtMGFvRXliWXpDR1M?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "The Subaru Corporation (TSE:7270) Yearly Results Are Out And Analysts Have Published New Forecasts - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDBRekEtWVBvcHQ0X2FjemJNdXpFdjlFZ0pyOUdMTS1LVU0zclF1Y0RaQjRjbThDanJ4TkN3dWFCbnltY1lFdDNsX0lzY3lQcUUtZWswUXRBcTRIaV9HV2NPalFyM253NGJpY3I3MTQtdi1WazV4SEJSS09NU0lYWl9sZXo0WWZmV1pfVFJPc3VoVFJYNUFkNUtKV3FxdmtEa3I0OGx2QzhnZ1pSYVBZNmF5Y293NzhQb1drSHBoR21LVHlyZkdic3daVWTSAdIBQVVfeXFMTkVOM3g3NVkxWWVFb0g1RlpUdFRmODM0Q3p6djl3MEZXT2Y5aF9HS2pGSkFMSERDdFFOUS1kcDAtWmJHWnhZYXplTWJvZ0V6Q0ptYklTdmgtaGRpNmdiV1lNTDBHRmxYNTNoNlF5UTlraFB0SVJ2cXdzdFFNS1pwc1RIVjN1Y2EtVGZIR3M5VUo4VE9ZWUhoa3ZIWThXaWNaaG5rWHl5ZktrSm5EVmNLZjVTSU44ek1fbEtlVnc4MDJnVHhWYWY1NnJBenJDV3dOazZn?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Japan’s Nikkei Stock Average Ends Lower as Strong Yen Hurts Appetite (Update 1) - The Japan News",
@@ -564,19 +564,14 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Should Value Investors Buy Subaru Corporation (FUJHY) Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTU1LekhQYVhKR1VZV2RFSmthbldyb2w3M19kLVVBaE5STlJMdWZSQlJyNlozU2RwbGZzR0hEdWQtZnQ2WGNnTHNNMUM2TzNxeENHeW1UY0Z4X1M2TFN2TWZza2Fmbi01LU1CSk15YXBIV2lNUFk4eHl6Z0R1WG1RV1ZOQlhpUEUzWXJHNg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Subaru (TSE:7270) Has A Rock Solid Balance Sheet - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanFSU3l4YkQ4VFZ3Qngwc1k0N2JYMm0zQlUxZFpyWXBQeURzOXp4b3c2OEtBT1dzUDhYUXNkTWlBMHpWd1dLNXREZTA3aTJVYkpsQ1JaMEdiN1lpTmtqc1lIdUh2M0JXUGNGUVJRNVRjTU1YNFJCYk91eW9CcmIxVXlLcWVhNDFzbDBfLTJaUVpJWGFvQ1RtbGtlZG91a3lCdEVvSXBhd09UVXpoeDE5MmpucDk2VUFS0gG-AUFVX3lxTE42UE55dXI0WnlkdDl6TE14NVcwaDBveXBOMEZ1cFlvQzVQeFVxTVVTVHR3ZDdaZ092cHBYNzFUNTROd1J0WkVhXzR3cTN2NFFydUZseVJXVkJWYkFtaDVBUGtmREJsTHJNV2prX0RmS1d3NGh0UWloSEdsU2R2MG9KR29PbmsxUlRrRkRIdmpPbWxxazFWMjVReG5fM3ZsWkFfTUpMbXh3Y2I4cDJPUXVhLV9URFVzV1pQQVhJMnc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Subaru Shares Fall After NHK Report of Mileage Cheating - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkl3R0h3YzlTTVVEMTFoRXZ2TzdCRDZoWVZBRFFIandUMzYtdDhHdXY5RFRDWEVTRWtnQlVmTXRWMzYxa3lWUTJiWk82VFVXZDJMckV3UlJud2h3MTJ6T3JjczlhMnRxMFJsTUQxaUFSSFYzeWhoazdfQkxBUlZESzZBSFd0VWREQ2h1bW16blI2S0lVYkZvUEtWeUg?oc=5",
-        "label": "NEGATIVE"
+        "title": "How Subaru became an unlikely success story - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFxWFk2bTNhaGplcFkzM0FCX2Y5VEdJNWhfQzRFRUJLTTZ2YlNleEJZcDdGMFhJcXVqT3ByZl8xTXh3YmlQN0dkN09rZmpKQ2ZGd3k0ZFp1dDJxLWJVaFV5bUJLaGxGUjlRUkI1c3Q3aGtDdWF5Zkl2clhoM0ZrZnQwRk94TkdPUUFHYlNNT1VlVS1tZ2RVVnNiOGFHaktuTnYzWWdyaw?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Toyota Shares Sink as Daihatsu Tiny-Car Subsidiary Suspends Output - TheStreet Pro",
@@ -584,13 +579,13 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "How Subaru went from cheap and ugly to hugely successful - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWYzWHlkZXhTUWJHN1NhQXRsb01GNWoteVpBUFVRbkt6ZHowWmVxeUFJbkxpM21aN05zaVhQREMxWmxCNlgtajlUbGZGRnVIZXJKVjJtbHcwN1lfUW9Fb01INnU5aEl6OW9pT3Bzakd4Mk5sWllpemxZQU9uM3FxaDZ3QUFLdnd1TXFSMXJwZ0xObnJoZ2JtedIBngFBVV95cUxPM09vaEhEQUdPZWNSU3d1SWR1VjdubDdKMHB3WjUyVmpTUl9rOGZrcF84dHdJVEtsTWJXcmtzR2V4eXVub05pNkR3azd2NWNOaDNTTnhoWF9zUjdrNE16UGNTTlNGdDBubGUtTVNGVDlJV3VHYlV3bm44OTc2aW0yYTVVOUxXUEg1ZjhsR2t4VWc4ZnBVdU91WDhINmlqZw?oc=5",
+        "title": "Subaru scraps plan to shift Crosstrek production to U.S.: source - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWphQlRCZllzaGxLa2duTnZfUXMxb0VnelBRX1FWTTFzV240a2R0SlZtVHBadTJ5NGd4RHl6emlZMGtqS2o0bGRVS3ZSWWJoc20xTFR6TlBReTZ6dUc2QTdvRVNwM1d5Y0dMUzhNU3UxS1VLNTNWUG1FUjJzUUxCYjdRUS1YeUl3dWdlSzJVU0xOd2c5UnJuX2dSaC1DdW4tS01zbnd4VUxPaFRmZmdjeTlR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Toyota strengthens Japan partnerships with bigger Subaru stake - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzV2b2wzUzhweERzMVNJQ3dFejctRUczNzBHWWVaZXZkZnV3TGctcVU3cnNBelJHcll6MVc4VXdrZWlRb3RwUkpBT1VIbDdKaW5wVjFLeVEyUTRETFp3ZVNSdjBCdXJZUG1NMXI3NXZzQ0J4bkVhOXA5Z2N4elpLODViQk9KX3E4eExSSW9Td2VDYURqakxCUy1kaUpZRklKc3VIaVBmNE5XeEg2cy1CZUJ0dEpYU1BhSEE?oc=5",
+        "title": "With bigger stake in Subaru, Toyota expands reach over Japan automakers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU29lRUNiUWlaVjd3RE1UcEFzMlBxWEZMS0lpTTBMQ21GRVM2REZ6WXFscnJheWZQSFpqcWphSllnR01JTXJxcHB2MXNRYWFXcnVOTDFTRlJ3QmtwSDRLdzk3Zk1OREYzVXdiaGl3ZTNuamJ1VlRZN3pmYU1UR1RSNW1fc0lZOUM1MGs5ZV9TVkpSbmtkaTZnSS0zSkhQSVpGc3BVZk5RV0NuUlVJNTBGX1lfcDZwZHNpLVB3T1hIa3NOT1JleWJtSDRn?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -614,14 +609,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "With bigger stake in Subaru, Toyota expands reach over Japan automakers - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU29lRUNiUWlaVjd3RE1UcEFzMlBxWEZMS0lpTTBMQ21GRVM2REZ6WXFscnJheWZQSFpqcWphSllnR01JTXJxcHB2MXNRYWFXcnVOTDFTRlJ3QmtwSDRLdzk3Zk1OREYzVXdiaGl3ZTNuamJ1VlRZN3pmYU1UR1RSNW1fc0lZOUM1MGs5ZV9TVkpSbmtkaTZnSS0zSkhQSVpGc3BVZk5RV0NuUlVJNTBGX1lfcDZwZHNpLVB3T1hIa3NOT1JleWJtSDRn?oc=5",
+        "title": "Toyota strengthens Japan partnerships with bigger Subaru stake - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzV2b2wzUzhweERzMVNJQ3dFejctRUczNzBHWWVaZXZkZnV3TGctcVU3cnNBelJHcll6MVc4VXdrZWlRb3RwUkpBT1VIbDdKaW5wVjFLeVEyUTRETFp3ZVNSdjBCdXJZUG1NMXI3NXZzQ0J4bkVhOXA5Z2N4elpLODViQk9KX3E4eExSSW9Td2VDYURqakxCUy1kaUpZRklKc3VIaVBmNE5XeEg2cy1CZUJ0dEpYU1BhSEE?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Japan auto show returns, as industry faces EV turning point - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmxJdUtHUW52TVJuZmhjLTVDTHRNTm9aM0R1V3ZGVWt5Tkx2X0U3VmZreFBmSVNnaFZIRjc0S3ptVElabXRsbjg5YjJ4VkF0YmdWRV9fX2x4bXc0dDNIY3I4aHdfT3BFWWFlUVpYbGItSXZIeFg4aG42eTh2aGZPUDRrYm1QdTF0dGVMcDRjWVM3cGxQZ2tKQzN1RzZPOG80b0Y0NGhOVFUwQnUxRU82U1lRTm9Fb1lCdFp5Qk1B?oc=5",
-        "label": "POSITIVE"
+        "title": "Toyota, Subaru shares drop on \"embarrassing\" recalls of first EVs - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDh0a1JuRmhTRkZNcGlPNnhHTkZfUlBqQUMwV08yY2Q5OHRCN1hJbk10UmJiQm1Ta0hBQ1dCa1lkR0xZVW03LTh4SlVGMmNHWllKUXpHTi1hejZhTWlVUDFFbUF4U2ZXakJ2cjI3RERzYTVxM3RfS3FLTnB3NzhsM25IbWxNbkJxWXRmcS1RS1RvREppOVdZY2VfVDlIN1FIb3dRLXRlVkZvZkotQUJURXJqdTJPbThSSjk4Sk93?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Toyota pulls Suzuki firmly into its orbit through stake deal - Reuters",
@@ -630,5 +625,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

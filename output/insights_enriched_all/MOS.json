@@ -2,16 +2,16 @@
   "ticker": "MOS",
   "name": "Mosaic Company (The)",
   "sector": "Materials",
-  "market_cap": 11098327040.0,
+  "market_cap": 11364801536.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.159485,
-    "PB": 0.9428649,
-    "EV_Revenue": 1.469,
+    "PE": 30.883623,
+    "PB": 0.96550333,
+    "EV_Revenue": 1.417,
     "ROE": 0.03285,
     "ProfitMargin": 0.033239998,
     "GrossMargin": 0.14471,
-    "DividendYield": 2.42,
+    "DividendYield": 2.54,
     "DebtEquity": 40.476,
     "CurrentRatio": 1.123,
     "QuickRatio": 0.38,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.04544684488078645,
     "ROA": 0.021370001,
     "PEG": null,
-    "EV_EBITDA": 8.42,
+    "EV_EBITDA": 8.123,
     "BuybackYield": null,
-    "PriceToFCF": 22.071398715717116
+    "PriceToFCF": 22.560330392539694
   },
   "technical_indicators": {
-    "RSI_14": 59.61843398326836,
-    "Momentum_10": 0.6298378659941264,
-    "MACD": 1.566858839352264,
-    "BB_Percent": 0.4802560164597176,
+    "RSI_14": 63.01749167686137,
+    "Momentum_10": -0.3175015452980729,
+    "MACD": 0.8997713626207045,
+    "BB_Percent": 0.6270699949899811,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9318517515400568,
+    "ValueScore": 0.8915950361794461,
     "QualityScore": 0.2907035807740567,
-    "SignalScore": 0.5331127436566723
+    "SignalScore": 0.5230047522726715
   },
-  "volatility": 0.0245181796147232,
+  "volatility": 0.0246232651584144,
   "beta": 1.148,
-  "return_6m": 0.3885509110412797,
+  "return_6m": 0.3576691361765574,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 37.376
+    "target_mean_price": 37.476
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 26.01
-      },
-      {
-        "date": "2024-12-10",
-        "price": 25.82
-      },
-      {
-        "date": "2024-12-11",
-        "price": 26.77
-      },
-      {
-        "date": "2024-12-12",
-        "price": 26.66
-      },
-      {
-        "date": "2024-12-13",
-        "price": 26.79
-      },
       {
         "date": "2024-12-16",
         "price": 25.84
@@ -537,33 +517,58 @@
       {
         "date": "2025-06-06",
         "price": 34.8
+      },
+      {
+        "date": "2025-06-09",
+        "price": 34.59
+      },
+      {
+        "date": "2025-06-10",
+        "price": 34.08
+      },
+      {
+        "date": "2025-06-11",
+        "price": 34.65
+      },
+      {
+        "date": "2025-06-12",
+        "price": 34.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 35.76
       }
     ],
     "current_price_data": {
-      "price": 34.8,
-      "change": -1.6,
-      "percent_change": -4.4
+      "price": 35.76,
+      "change": 1.17,
+      "percent_change": 3.38
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Mosaic a récemment ajusté ses prévisions de prix du phosphate pour le T2 à 670 $, tout en modifiant ses objectifs de production. Bien que les actions aient chuté de 5,7%, les analystes estiment que le P/E reste raisonnable malgré une hausse de 30%. Cependant, la baisse des perspectives de production à l'horizon 2025 a entraîné une diminution des actions. Les investisseurs s'interrogent sur la valorisation actuelle de l'entreprise, tandis que des ventes importantes d'actions par un cadre dirigeant ont suscité des interrogations. Enfin, Mosaic a annoncé un calendrier ambitieux de présentations à Wall Street pour le T2 2025, ce qui pourrait influencer le sentiment du marché.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
+    "summary": "La société Mosaic (MOS) a récemment attiré l'attention des investisseurs avec une forte activité d'options d'achat et une montée en flèche de ses actions, atteignant un plus haut sur 52 semaines. Malgré cela, des avis divergents persistent, avec des analystes soulignant un potentiel de surévaluation et d'autres élevant les cibles de prix. Mosaic a également revu à la hausse ses prévisions de prix du phosphate pour le deuxième trimestre, mais des ajustements de production sont à prévoir. Les investisseurs restent divisés quant à la valorisation actuelle de l'action MOS, incertains quant à sa position dans le secteur de l'agriculture.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Mosaic Boosts Q2 Phosphate Price Forecast to $670, Adjusts Production Targets Amid Facility Updates - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6dE56bS1SN0g1czA5ZTFERVZyZmNEOC1BelpnRGlPbVgzNHJSYzF0NUJNNnd5dlR1ajdxcXEtUkc2Z1hTS2NVQlB1WTlpOXNQSEF5UjMwR1lYM2tfZE9BeklKcDB5S0duUExKU2lsUUtWZXlvQl9j?oc=5",
+        "title": "Mosaic (MOS) Sees Surge in Call Option Activity | MOS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3NKWkpjNUhfYzZQaVpISlZzeHg4Z1FtVmxJRGhKZzAwc18yemt6UlNnbW9QekhabFNEdmVXbDc1TDh6NldIN0g4SnBkcEFoVk4tTVB4N3ZSeU9hMHRBb05HRjRxRUotVkMzeTd1TFJfVGhMSzVxQkZVMEJfbWg4eXdLNWU4NkU4dmRxd0Q0bVVZdm9qUVEzbzFZUVhZOGk3?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Mosaic (MOS) Shares Decline by 5.7%, Marking a Significant Drop | MOS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVdHU29UTENsN0JUX2dkZ1JPZnltdE42dlNRSzBRaU12WTJXT1NiTFNJVUI5QUkzLUhTcjh0U3lObk9YWEVwZXdrZFNocmxMYWpMemF4aTdEUU9yRWFMR1BmTkl6YVFQeklCRUlWTGpwcHp6aU9EZXlRTUJXNm9pVHFRMnB2dXhXcm85QURsUzFKNmxqeDkwdFdCQkpwNm5tay1DbFhibE1QNUJIVGFLMmZR?oc=5",
-        "label": "NEGATIVE"
+        "title": "Here's Why You Should Add Mosaic Stock to Your Portfolio Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85NTc5dE5BTmNEbzU3MVBsMVJBblpiNV9tS1hzUEsxYkhkVGhaeGVldFc5bDF1Wk5IbnFNblVoaXBJY0ExdW9ETW51ZXE0M2J5UHZRemtBUFB2cFBISmI1NXgwYmlkNVBBMjJRWTA3ZGNIMHl4MldWYUlSY2I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why The Mosaic Company (MOS) Crashed On Friday - MSN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXppREV4R0dFZEkxc1hRWTlGc3lMNFhmZmt3ajJkYnpldkNiSVNfRk9zUjA1U09uNUo2MDNKa203NVd4VE15WndSUV9xdW9GR3ZvVmJYb0xCV1ppRmN0ZlFDbmhjaGY1T2VnVENFamZLRGNMOFVEOHhoR3NoU3VaU2JGczZsUW8wV0l4VHl2djBKdE1j?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "The Mosaic Company (NYSE:MOS) Stocks Shoot Up 30% But Its P/E Still Looks Reasonable - simplywall.st",
@@ -571,13 +576,38 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Mosaic Company (MOS) Stock Declines Over 3%, Despite Stronger Longer-Term Performance - Daily Chhattisgarh News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1M2R19sT29TU2lIUzRONjRlRk1rWGN0WEp5a2tyZ3docWlrSnduQk9uNjhuaDIwY1ZuZFNTTFJEaFF0ZlpwdjFqaXhjRXk2X0I4Z0czaHlhOC1sUUlxTWZ3WFFZOWt4bmZFMXBYN1F5NUlKRTY5X2ZiRVJZbUw3aUFOcm5RUW1sQXZJUDcwTEo2LTBRYndrdkZwMFJCVkpOZ0VOSWxKYW9TZkFUc3FxM1BPTHBTTUxhZUUwemN5c09xQnJM?oc=5",
-        "label": "NEGATIVE"
+        "title": "Mosaic Unveils Ambitious Investor Conference Schedule: 4 Major Wall Street Presentations in Q2 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYS1YV0E5RlJad050cmxidldDNzJJVnpVaUlFMThvelJtTDJSMUE5Uk9STzdzUEt2ckd5YzlHNjFpNHVlbTZEZUY5bExTSld2VVRXSHdIYzFiTE9BRXZULUZpWjJiVXRFekpFSkh0RVVweWlDenJVNTNRTjdmLTYxYWNSVVdHUjE5Y0VNaHJBSFh0Sm1S?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "MOS Stock Hits 52-Week High: What's Driving Its Performance? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2Y1LVBiQ1psWkJycks3dEpLc1dVQ2FXX21fd3YtZk1kel8ybFJJbmRhLW02WGxQQk56VjFacC1sS2sxODZIOTNzTWM1WWFGTUJwc3BYeXBBQUU4REFMdzdyNURtSXY0b19uVE8yOVlYaFJ4U3pTN0VTYWlwSi1JV2c4WU8xaDVNd0I0M2ZtN1lmQ2o5S1YzRVZqN2ZjVmRLVmwtdUUyQ1ZQbnE2WERpNjFRRnU?oc=5",
+        "title": "(MOS) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzZ1aFNHVkIzXzZvWmlLcWEyYjhYa1VkUFZvMjVtVGpPejRONU5oWWg3MzBwaXdJd2ZYc1RfRDdHcExGZ3NHckFSZ3pERzVLOW12a1lLZWRrcUZySDlNYXhQLV9PMWpUUHZGWHRIcVdBWkFvLW1rclJab2NvY2NhR29XZURPejk4MkNiSGZZTEkybG9DNXVZemhKYllTMXJUQ1kzTERSY1dubnk3MGF5R05kOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy The Mosaic Company (MOS) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVFWc0ZpbklBSE1EQnFraXVBNTE2dVJpUkZtWEVGNXpJYVZpa3hrMVB4OWdsTHNhZExqYUppZkNvQ0s3aEtYVGF2MFJoUl9nN2FHZHNzbzJGeWw4b0lJXzlucm5ydjBlZmxsbXRVX2NQYUx4TFhwWjVzQm9sNW5FT05YdHd0QzI2bmlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MOS Stock Hits 52-Week High: What's Driving Its Performance? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZ29jejYzWUUzU2FtVUY2cjM1UmcyQTB6cU9zUXM1T2FscW5FNmlNT1AtM2k5LVotaGV1eTh5S1NFemZERXcxQjZhWm9HUVZKR1hoMU5RRC1IaHpxeHYzd2ZsMmkyMkdoSDZ1bHhGY2M4UW8yYmVr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MOS: JP Morgan Raises Price Target for Mosaic | MOS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXk4U21rZ09hSnJfbGw3ZC04NjhMLUhpWjU0TmhOazFwM2JDUnJlSWtZc3pTWk8xNHRfUkcwWFZCQzA3aFZjUjhKZ0NpelJNTVYtbWFkVUFjVmJSYXV5ekFPaXVGM3UxOXhTUUFGcUMtOENHR0VTTHlDUWNnbDFwYmY3cWg2RnlYaWZfR3JwcFhiMzdBTGRiRVZqazB5SDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mosaic Boosts Q2 Phosphate Price Forecast to $670, Adjusts Production Targets Amid Facility Updates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6dE56bS1SN0g1czA5ZTFERVZyZmNEOC1BelpnRGlPbVgzNHJSYzF0NUJNNnd5dlR1ajdxcXEtUkc2Z1hTS2NVQlB1WTlpOXNQSEF5UjMwR1lYM2tfZE9BeklKcDB5S0duUExKU2lsUUtWZXlvQl9j?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mosaic's Shares Rise 11% in 3 Months: What's Driving the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0xjUFVvNjlaY0pZZ21MSndQenROb2tlMW0xWDBsRnBidTZIc2hWckk0VUdYQnI3aVlHTEFZcWlDVnZ4NW5DNms5dlBlcGZmZ2E2VmxfclhHM1ZiSVJUb0dXTXFxNmx6bkMwQXJlaHU2dVBjT0otR1NrckFjOWY1b1pydE5fdG9kd1NJ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,28 +616,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Mosaic Lowers 2025 Phosphate Output Guidance, Stock Dips On Revised Outlook - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWmUtblJWQ0puZS0yV0ZnNGUyMTVqUHAtUDNIZlhHTGJkTDU4b1hEWlF3MGhmcmVIZ0RKd00ySzhNM2EtdUFzRzFod29RVlpHd1FZcGsyT1ctMWZTY2U1ZHlUQkR2QkNmZ1ZOeFhLUDMyWWtDVHJTMW5IcVdqRFFLc3NBSkVkSnd6Rk5zRU5mSnAxTjROS0xpYnZjSzE0ejB5SUJPODJZZUVDdG5pTi12NnVVYU5Hb0puTlNVR3l3a3c1VUx2bTJ1Yi1XWDR2aHc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Is Mosaic (MOS) Up 16.7% Since Last Earnings Report? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OWFVjSS15eHBsOE1hZUNhV19JLWxzYkM3ZERjaHpqZG5DQ1l6WkhodHdUc25najJKcC1VWUtpU3ZJZWdkcExoVFNKMktnbWpPU295clhOTldnUFJ1eHc0S1cza3pQTmhzdjZsdWlySWtENm9kQ2Q0SEJYOA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Top Mosaic Co Executive Sells Thousands in Stock! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEt2dDNfXzNvblpTeHNCS1djYVl0MFR3enJvSllXek5jd1FzOW5nd05OeWxXZlgwOXhuc2RGUl9qNE9GNFdIUGFqcHU2WVNHZUlaTGxqM2h0UDNmMkV2NVVxNzdyUk9tV3JBbVFYenhYTEc4VmdMMWZydHNUSnFZbDFvX3pFUUNTTmFqWll0N1ZGM1JGN2NvNC1B?oc=5",
+        "title": "Mosaic 2025 Analyst Day: Key Growth Strategy and Market Outlook Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEVMUjcyTkcydVA1Z0lCaW1xRUk3V19kT2d1ajRWQV9QejNpaHBRR09EMmN1VXBLaG13NkhOVmZyeFR1eWt3U3dkQ0xwVzVmNWFYV3ZSbWV0UkNnLTVBYTZvTXhDel85THBxUERzV1VGMmpDM3NaQVBGS2lUNFZwQlloRGItQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mosaic Revises Guidance | MOS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDdUOGoyV0JSb1otMWFYeU12WnE2UWdoWS1HakdCd051LUl3cy0wRjJpc0NwU2pIWVpaUWtVQnZZZm1kNkhmLWphRWJIR2NvLWwtTFFRRmR0UFhSbVBRb3JBNUVBY3VnX0FxZ0ZkZnY1RWM4M0s5Zmw1dEZCQXVYNnluaEY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Are Investors Undervaluing The Mosaic Company (MOS) Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzZqVjdGb0lHSElYaFNzMnl0Qk1YWTF2NWdqR2N5TzhndUVLSmxOeW5FUVR6Y1FuZXZ5SE1HR1NSem9WLURLUnpLLXJnajdpbTZzWEdNcWVQWnh4NE1neUx0azhEaWR5a1o3bkdUMUprLTd3S3d1NFFIeGRqQnpjX05CclhPMWhqT3ZOR21GZGZBcms?oc=5",
+        "title": "Jim Cramer on The Mosaic Company (MOS): “A Real Tough One to Understand” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3pfckN0ZXdsZG5aR2I1RkZwb19IRUZLd1JLWVUxek9lOTBGY2NqalNoSzcyanQ2MVJSeERseERNam1peUVsUWlGZE1wNHEwMy1RTWRZMkExX2tBU05MN09nazBuTTVOWWFENy1IaW0xT0NOZzBYMjlSa19BbFh5eQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,34 +631,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Mosaic (NYSE:MOS) Shareholders Will Want The ROCE Trajectory To Continue - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDJmTDhab1lua2l0emhOU05ncHZDemdKVDNwZzhjbGgxLTVxa2RpNjdJc1cwdmJUbFVmVWFFQnY1RXRXVWVKSDBWQmNvMDVtNURFY25HMUkzYXA5eXpSUExnZTJpcU5TTFNvck1DUWFMTUJCeUllSDM5LXpfUURQNzdZVlpCNFZudmJIVHdtVmtBOVozdlgtWHZOakotdlZ4ZFRrdUxNbVIxLTBDZTZwdzctUllHYUM3Z1htdTZyd29KbkHSAcgBQVVfeXFMUFRYQmtJZWw2WUdBWkgxOHNtZnRmd1NlZktlMUNkLTg2SEhRbUlrY21Yc0lxa2dBQWpKdTlEVDZKNVVsVmpDTGlTc191QkV1SjJUb2lpak8yZmdXQUkxaDZUOU1PZ3JUeTg3bHVDal9MbFdRMFBlVHY3dUp0aTZMSWhucXRTQXFiRUI3WFFfaXpON3pydGIxcUJmd1dLT0FXNjhaZklZZjJscHBhcWxPQWpJRjBrTGJRcHAxUVhBZ3cxUnJNQllOSUw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mosaic (MOS) Updates Outlook with Revised Phosphate Pricing and Production Forecasts | MOS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakhzY3ZibEdvX3FSNW0ydy01bHFWTFJwOGQ4akM0ZVd2LXlfU3g2RHhqOXoxeDlwNzdWQ2FYbDZxaXdDZ2l4VlJreHJHNG1oS2k0eGJfNHVjYmFZMF9ZQ215U1RSZUowc0hBSVZKZVpMRUJCblNSSWwzVnZDS1RYU2k2ZHRYM1VINlNDd2h1VE5vSFFKVjRUTkNxdjZwcFdkN1FyTldHOFJwVDZtczlZTlJ5Z1otTjBKZlVuSGZQX2FQbExhM2loMlZNTHVUbVdGNWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mosaic Unveils Ambitious Investor Conference Schedule: 4 Major Wall Street Presentations in Q2 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYS1YV0E5RlJad050cmxidldDNzJJVnpVaUlFMThvelJtTDJSMUE5Uk9STzdzUEt2ckd5YzlHNjFpNHVlbTZEZUY5bExTSld2VVRXSHdIYzFiTE9BRXZULUZpWjJiVXRFekpFSkh0RVVweWlDenJVNTNRTjdmLTYxYWNSVVdHUjE5Y0VNaHJBSFh0Sm1S?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Mosaic Company (MOS) Among the Best Farmland and Agriculture Stocks to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDF0czZYYnZ1RlRvc0xuQmgzMHFtcERGLTRsdWwwOHp4TGNQeXh2WnBJUExTbFZpaV9fLXZoWXlRdzYxUnRjbUgxOEdRcVVEOEZLTWhPb3dMTTFlTzVOYXhaSnVMXzNsMjVocjFTUDZ5enduWnUxSklHWTI2MGtvcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Mosaic (MOS) Is Up 7.77% in One Week: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODQ3MzVsaklDQXE3cTBISUNNaW9Qd3pqcjh5bTZ5aHpjanQzNFl6ZEk3d1R6NDNVZmlrYmFIeDZtTFQyUGJXaFh1MDFGZFFPV2lSb2hHQlZwSUFCN3A3RWtlN3hXUzkxZUVBOUdVTXNzZXIyUktKM2RkcnF4dXFzcXZ3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Chief Administrative Officer of Mosaic (MOS) Sells 18,000 Shares | MOS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejFGd0Z1OEpta0JMdlBXZnU0ZFNYNUlIRFFzTmxoVUVsOTNfZHJrUzdvQUV0Q0dKckR1aFBjVXBmY1prM0VnSmZlUFppbHBiaXBjX0dEcEIxcVdHdFJ1NHpKOXBfNFpLekZSWDRpSWlLSjFkVUt2YWFXUUY3bGc5Y1VBN3dCU1FRclJ6RDdMMzlfLU5UMElOclRLbjhmMGdYMVg4aGF2LV81TFcxZE9BT1ZTa3RrUQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Jim Cramer on The Mosaic Company (MOS): “It’s Up Too Much” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm1JYmRMV240VGtTMl9VNEU3SXZzcnJkMm5UNllLSEN1M0I2YzFhNXhGMTBtUmtWdDVXcldVOFZhMGgxNlhYNmowMDlhcmY4YnNrUzRaTnlza1kwN1ZBMks5alZRelA2bmxDSVZUR3lWbkx1czlidEJGZklRWWQ2Ug?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Mosaic (MOS) Price Target Increased by BofA Analyst | MOS Stock News - GuruFocus",
@@ -651,11 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Should Value Investors Buy The Mosaic Company (MOS) Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVFWc0ZpbklBSE1EQnFraXVBNTE2dVJpUkZtWEVGNXpJYVZpa3hrMVB4OWdsTHNhZExqYUppZkNvQ0s3aEtYVGF2MFJoUl9nN2FHZHNzbzJGeWw4b0lJXzlucm5ydjBlZmxsbXRVX2NQYUx4TFhwWjVzQm9sNW5FT05YdHd0QzI2bmlz?oc=5",
+        "title": "Mosaic (MOS) Is Up 7.77% in One Week: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODQ3MzVsaklDQXE3cTBISUNNaW9Qd3pqcjh5bTZ5aHpjanQzNFl6ZEk3d1R6NDNVZmlrYmFIeDZtTFQyUGJXaFh1MDFGZFFPV2lSb2hHQlZwSUFCN3A3RWtlN3hXUzkxZUVBOUdVTXNzZXIyUktKM2RkcnF4dXFzcXZ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is The Mosaic Company (MOS) the Biggest Agriculture Stock in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGFPamNwcXQ2R0Q5WENMYmZ2aFQ4ZXdzODFVZWtJZUZmOWUwc3NXalFpa0lhd2wwSWtoZHY0aDFNb3lFU0dpc25GclBUeDZfanBjb2dOa2dEV08xQzVlWGtwbzlncTItVEZ6dzlvRXJucU4xS3VNM0VqMVEycXJQdkVJU0pGQnhjQ211dg?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "The Mosaic Company (MOS) Among the Best Farmland and Agriculture Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDF0czZYYnZ1RlRvc0xuQmgzMHFtcERGLTRsdWwwOHp4TGNQeXh2WnBJUExTbFZpaV9fLXZoWXlRdzYxUnRjbUgxOEdRcVVEOEZLTWhPb3dMTTFlTzVOYXhaSnVMXzNsMjVocjFTUDZ5enduWnUxSklHWTI2MGtvcw?oc=5",
+        "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

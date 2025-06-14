@@ -2,16 +2,16 @@
   "ticker": "STM",
   "name": "STMicroelectronics N.V.",
   "sector": "Technology",
-  "market_cap": 25421864960.0,
+  "market_cap": 26457659392.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.105932,
-    "PB": 1.4352388,
-    "EV_Revenue": 1.84,
+    "PE": 24.74678,
+    "PB": 1.4733943,
+    "EV_Revenue": 1.958,
     "ROE": 0.063140005,
     "ProfitMargin": 0.08928,
     "GrossMargin": 0.37473,
-    "DividendYield": 1.27,
+    "DividendYield": 1.2,
     "DebtEquity": 17.228,
     "CurrentRatio": 3.051,
     "QuickRatio": 2.154,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.026245840130010845,
     "ROA": 0.027679998,
     "PEG": null,
-    "EV_EBITDA": 7.919,
+    "EV_EBITDA": 8.425,
     "BuybackYield": null,
-    "PriceToFCF": -78.62801103046282
+    "PriceToFCF": -81.75786794259623
   },
   "technical_indicators": {
-    "RSI_14": 71.67865624686519,
-    "Momentum_10": 12.966637609521047,
-    "MACD": 1.0998110399495182,
-    "BB_Percent": 1.0470407613083312,
+    "RSI_14": 66.83269530415225,
+    "Momentum_10": 16.758097632912495,
+    "MACD": 1.5614480890274045,
+    "BB_Percent": 0.7850424466394951,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.929904625084126,
-    "QualityScore": 0.3112740553464533,
-    "SignalScore": 0.3729627441455089
+    "ValueScore": 0.8911025428377606,
+    "QualityScore": 0.3191875925149183,
+    "SignalScore": 0.431624150692303
   },
-  "volatility": 0.0387924754445356,
+  "volatility": 0.0391093515060265,
   "beta": 1.228,
-  "return_6m": 0.0840255487247263,
+  "return_6m": 0.1187700532141153,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 29.02143
+    "target_mean_price": 29.09286
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 26.54
-      },
-      {
-        "date": "2024-12-10",
-        "price": 26.32
-      },
-      {
-        "date": "2024-12-11",
-        "price": 26.26
-      },
-      {
-        "date": "2024-12-12",
-        "price": 26.23
-      },
-      {
-        "date": "2024-12-13",
-        "price": 26.29
-      },
       {
         "date": "2024-12-16",
         "price": 25.75
@@ -537,58 +517,93 @@
       {
         "date": "2025-06-06",
         "price": 28.45
+      },
+      {
+        "date": "2025-06-09",
+        "price": 29.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 30.4
+      },
+      {
+        "date": "2025-06-11",
+        "price": 29.89
+      },
+      {
+        "date": "2025-06-12",
+        "price": 29.91
+      },
+      {
+        "date": "2025-06-13",
+        "price": 29.18
       }
     ],
     "current_price_data": {
-      "price": 28.45,
-      "change": 0.15,
-      "percent_change": 0.53
+      "price": 29.18,
+      "change": -0.73,
+      "percent_change": -2.44
     }
   },
   "news_sentiment": {
-    "summary": "STMicroelectronics (STM) a connu une volatilité significative récemment, avec une hausse de 11,2% le 4 juin, suivie d'une forte augmentation de son programme de rachat d'actions. Cependant, la société envisage de supprimer 1 000 emplois en France, ce qui a pu peser sur le sentiment des investisseurs. Malgré cette annonce, les actionnaires ont approuvé toutes les résolutions lors de l'assemblée générale annuelle, et la société a accéléré ses rachats d'actions, témoignant d'une confiance interne.",
-    "sentiment_score": 0.15,
+    "summary": "STMicroelectronics a connu une année difficile avec une chute de 50% en 2024, mais des signaux positifs émergent en 2025. La société a accéléré son programme de rachat d'actions et a dépensé 7,3 millions d'euros dans la dernière phase. Les actionnaires ont approuvé un dividende de 0,36 $ et des nominations clés au conseil d'administration lors de l'assemblée générale annuelle. Malgré les tensions au Moyen-Orient, le titre a rebondi récemment, suscitant l'intérêt des investisseurs.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "STMicroelectronics NV (STM) Shares Up 11.2% on Jun 4 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1kyejEzR1NwNS1iVWxOcmpEWU5NMGF6NmU0LTk0UVdPOElxVUVuMGh6ZU4zcXI4aEgxbjBkM1hPQUdPTms4LTdsdXdHVU5UeWw4TWRlM3dHX3AySEJGNzZLQ2NGVnRxYnJkZHFVWnl4UEx1bXBHVThYV3lZdHNmQ3k3dC03ZGRRNGtqdEUyVE1KcEF5TmtTVkJzNkNBbUtQM3RtVUg1WnlIV0NPZTZHNHRNT3A3MmpPM1NnWEJZWU1ldC1iM04tTFF1MktYMUs0RG5zeFhIaw?oc=5",
+        "title": "TD Cowen Raises STMicroelectronics (NYSE:STM) Price Target to $30.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1hqVGh6LU9GdDFTSUpYaUZma09xSVhKdlFaZ3VGQ0hySU9wOWYycG13QlNJX3JRN3pPZHNhanM4RFRFblZIT0I5ZHZlTWRXRjBtT3FDTVVwOUpBYXZydWdqSW5HeFBqR0Z2WjZRNFl0eVhBSDBjWkFkNEVCRGV3U2Rtb3d1UFF0VlNISWE3by1ta1JPaFdJODlGUVhhaGF0OGxkaEwzekt3dGZxU01Sam5hYm5MRzRf?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "STMicroelectronics Expands Treasury Stock to 20M Shares Through Latest Buyback Program - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW5CSEdMTEJGOGlRR2J4dVRkdzcweHREY0I1M0xOY2l1V3NYREZKY0IySTlhcUlhdlZvdUY4NmZjQzRvYzExN3BoRmZQVjhYRTIzU0Vta1owNGlvaHVaLVh6RmdxZjQ2LWM2WDl3MW9DLVhTOUdSOXhJb21Cb3lyZ05uZDNFa2NYc0VzTVpKYU9sdjNWTmJQYU1hM29ENTR3bU95bmc0UTZsclNPcS13ZWxJWFU3cnFO?oc=5",
+        "title": "STMicroelectronics Stock Buyback: €7.2M Spent at €23.44 Per Share, Treasury Now at 1.8% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeF85SEpwN1Nod2JPTUtqWjBPNGZBN1ZlNTljSWFoaWxuN3E0eWt2Q21xdHNPMm5HRF95Nl8taEdvTjRXNWpaS0R3cVpFQTRwTGlxX0l2Wjdzb1hLd3g0Z1dYTlpkUGU1aFFjR04yTjhzOTJpcUVfR0lSREFmMGpHYXZleG02cEljcmc1Um5ocWVKMUw5M0hIM1UwYy1LRGFkTFRSbTBvZ1NwM29EZ0pESXZGWDJkM1cz?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is STMicroelectronics N.V. (STM) the Cheap Semiconductor Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEpzOGVEajJqRzVxbmM4Wm5Va255Sy1RNkJjWGFva0xVSkN4NWJJd0ZPdnd6X2hhREVwSEJnRTFQZm0xbW5CWk9oaFhfZnZSbUtETk92VzN2MFVDOElSd0Jub2pTYl9QOFIzUUV1RnplcEV4M1JJdnpQa0xkaG5wNVVJeDM?oc=5",
+        "title": "STMicroelectronics Plunges 50% in 2024: How to Play the Stock in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamlGdEpTRGt4X0hlYV83QW14X1c2Qk9kemZMMXJEdXRfYU9IQjdpekdpNllvaTMtVHkydEhZVjJkdjdOZjJCRzNRUDBOdjdmR3JJT0RFV29KOWpIWXhqMmwwSWMwcjFmNEc1U20yN2RwbVQ0SjZPT01mY0xDcFhaMmNCVGlWcjlrOXlNNEln?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NBC Securities Inc. Raises Holdings in STMicroelectronics (NYSE:STM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGFVRy1vc0RWZUxCdVFzWXN0cHEwTUtLejFhZDRBMlNiSGNUV1NjRFlQdzFicHJSd1hscy1lelpYWlBRRkNZc3d4LXg3dFloOTVBZFdCOVlBZzlVWHhzNzdHeFBBdUI2c3BLSlNGbWNaWl9QWnFhMXYwVk1ueVRlZDFDWWVCalJ5WEdJakZpZXNLaVZzOTBRU3I0Y3R2dnlwSjdBUzJyM2VRaDBENlgtRXczaWlwV1VtSjhLU0VGZlVJTmM?oc=5",
+        "title": "STMicroelectronics Announces Status of Common Share Repurchase Program - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTdUekZheXp3NkFCM3ZheDNoSzR5NDNQbVJ3dWZiVHN0bUJtLXM2bjktR2JZU2RSdUJJbmdJWG5iWFVDZWJPYzIxbVJpcU0xZEVvME1yeVFJdENJV3B0QmNCUmwyYnBWMFpNVHhyX3hQRERQa25vQkhMNklHNWZybU9lTUFwNlAzamVrUkZmeUx4c29NWlJ1aHpLMlRzUlFxSkxEbk0yTVNRemw2VlNzdFRYaFJiWE5KSk9icVFHc3FjX0htZnRmSUlzYVcyajlDV0c5MXZoQ0hKZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is STMicroelectronics (STM) a Great Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOG5hUWVJcmRBaWhMQnRod3dSTG4wTXdMVmJjS0xGVmJ5dXNpeU45Y3hPV25KM2taeXRHUmpWYnNTYkxhU0FMc2x5M0txd1ZsaFRqZDd6NVB5WTk4bG14MWlhQVBZOUcyZzdjZDNVbVduMUE4WHJqQkI5NzV2dGhGWWZrcVZXRUZoM1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Milan Stock Exchange Slumps Amid Middle East Tensions; Luxury, Auto, and STM Stocks Lead Declines - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTW1SZmIzVzlnMmJkVFM2QmVVYWZCUFNuSEVYaW11bVFtQ3hXaS0xOTljNmMxUm1NY3ZlU1dxMzZRV1Q4NEg0QTdBb2czZnlPX1lDSjFzaDMyR3VLeEpyeFl1S0hCS1ZPaE9PYktYUjI5RTBkSHgwY2FyOWlta2tsd25XVXpJaEJwXzRFeXYxR3NnMTloRDdsaV8xUk9xd0tSd05RUUJreXl2MVhzbl92Z2NMa19WT3BPZjRnVXNQYzlSbEVGeU83eXU1aUxSTThJeTJDbWNORFVpc2JiYjdLOWZla0tfZ2laUFljUTRxdlBWV2l5RkdueFFvV3BhRFFM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "STMicroelectronics Announces Status of Common Share Repurchase P - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUdwU3JmNWZLRmhzU19fbWIyeGo2RTlXWlhNNlJxSzFfX1I2Z3JWbmg5eXVSS0oyMUR0NFY0S0VVYXZLaHg2NmpCcTVsWGJGOW1MQUxKR3Q3SnpjQTJhVWsxbG1QblhreDRfeHp0NGt3b19pcUJBdEhDbndTMGFZRHpjSEZJeUw2a2tvX1N5NDlJa2VyWGlaSFFSbFZtVC1PVnJnYUFTTUFhYWZGLUotV1JMNUR1LTBZSTA4djJKZjktdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Washington Capital Management Inc. Grows Stock Position in STMicroelectronics (NYSE:STM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVQ2NktoQTVFak56WmRwanRFeER0MGotOWV6aWNON2pIZ3FxMkNlZ0VKV0FzZUZBdFhUSnlzVzVtRWg5SlJoSEZucHZaS090cEdCMjlUeU8wbU4xX1VxNm01YXlFTExyS3dzYXZKbEtoeW4wMkJaYzZUM0xsUXBlMFVNU2Nudno5dzF0Vk53ZHZlRVItVEpmSURiUTZiNHQyNkE2d3pRVURNbkRHcVpGVWI0Nm1rX204SnZxZlpmbHl4QVh3RWp6eWFHVTFENzZuczJhM1Zma3JWTHlUWXBWOA?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "(STM) Trading Advice - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDltaE0tYWFfanpWcGg4c1c3N3FBTjYxNE9DRDR1ak9QaHJSdVBGUW1taTF6eVhCU3dvSkIxVFFlZVRUVDhMbkV2ZUFxSDdnazN5T3NTcDhuMy01Q3VaSWtVdmN4V2RWdmtKLWY4VW11NmxSNzRaSUp1Rzh2ZzhEVHkwaDVRTko1LVVXZ0I0RmpzcHRSMFR1Qg?oc=5",
+        "title": "STMicroelectronics Shareholders Green Light $0.36 Dividend and Major Board Appointments at Annual Meeting - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZi1VM0tLVk0wSzBUcVlzVmxMZEVFTWlIVFI3RXh0Wjd2VmhpTUlNdk5uZHRxSkpzUlQyQ3V3YlBPWWF4c3lSWXhGSUppMFpFNnNGa0l0bTFhZkF4bl9WZWJPRG5sWk4yRzdCYVJJYkxleHlUektac3lob25vNng0NFpQeGpkanZBaml5OTZRcHhYOG1ZVXpLUFowVmZ6Vlo0MnN1cGpiM3BNQV9paWg4ck93ODJ0ay1u?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why STMicroelectronics N.V. (STM) Skyrocketed Today - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjgtMkxzeE9FUEcxbEdHQ2RmeEhYMVM5VzVPZFdRcnVRRXE1SXRFbXk3WnRWeDBVd2xsdEZDOWt3eUM4TkRzLXRSRFRWT2UzN3J1MDVHb0FyOUwzX21KUTdQTy1yRU54M2hOS0NOeDI0bnpmQmxlWWlzTERzZW5qRUVLTW1maENVLTJqUDN0N3MtUU5ibW01Y29GcnNhc25kdmtjWg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "STMicroelectronics to cut 1,000 jobs in France, Italy talks ongoing - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmsxYXIwWWZFdUpIc3V4YzIzd0ZSY2ZicXM0NThnbU52UENWRXRJa0VvS1B1VmNlbGFIWnl5SzVvRUhDME1kbDN2ZTlDV0I3eGdSc050bmJFMFpUcTNoUzQzNUxpTGhIZlFLTHlTT0MyWnBLN3M0aWNGOVhTc3FWVWVwY2syd0JmQThrbzhzdUZzejdEMmMtRWtBdXV5N2Zla2RwZTh2eWpoU2s3dzF2aUZ6ZS1xaGdxWkE?oc=5",
-        "label": "NEGATIVE"
+        "title": "Why STMicroelectronics NV (STM) Surged On Friday? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnk0LVdnUHB0eGxoQm03MXY2QzdEUUxhajhRUlpvc3NyaFVvOTlUclFrUzhSWW9FUW1OX3pWOTd0N3duaTlmdXdBM0s4b0tLUFdJdFhqUFlsNlVlMWg4SnVjOHBxYUlNTlNPZXhCMERNWElhQmdWUDVlQ2VoRDNLYlNtZl9vaE9hVGc?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "All resolutions approved at the 2025 STMicroelectronics' Annual General Meeting of Shareholders - GlobeNewswire",
@@ -601,43 +616,18 @@
         "label": "POSITIVE"
       },
       {
-        "title": "STMicroelectronics (NYSE:STM) Shares Gap Up - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWhmWFIwRUZfdnpPd2dmQVd4SXZaVDJvVlBGbGpEY1ZjV25zQnVycUFYQVFqeDdoZ2d0S1Q4Ry0yYjUyYUdiTi16ZzRiWG42RlhtUzlvem9DS0RJN2VlcS1sME5rVE1pQTJCUmowV05TOE14ODNMWk1OS2JvVkZfRWZRTnpTNHhlY3F3SDRPX3VHY19zRUk0WC13bkJjMVJmUEJUZHBBMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why STMicroelectronics N.V. (STM) Skyrocketed Today - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFJxbjBZRGw5Y2RXMTlCcUJFYUREbkpmYzc1c2gxamRtS0tTZEFnTm4zQk1aQ053cGt5dHBwcHIzQ09RNjlpeExQcmdUOE9Za3FSSGwzMUJTaDU0ZGdlT2p0NmFzOGViY0hhMnh4QXJVNkVJeXQzZEZjMlEyaW1GUm1Bd2lnQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "STMicroelectronics (NYSE:STM) Shares Sold by Bank of America Corp DE - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMW5TX2pLVkwtdkNQNVFpOGZNSExQRWtBWC1BZEZXUVQ1ME4xRU1XbFZUTlJvVFlVbExKZnZxeUxqYmk0b1dPMklFWVphTlJtRlZKa2tmd0RwMzRlempMY09WVEtKY19BQmlNT1lDY1F3c2FiX1V1SGd2X3RBZHN1NnM4Y19NWm5SdFZ3cGkxT3MydVo3Y2lVQk1fMTEyT0Utdk5EUGs4RklyNUx2S2JGY3E1eWdFR0ZpdmJDMEdoUHF6SWx6RE5ONERVaUFxSDkwc1FUZjNR?oc=5",
+        "title": "NBC Securities Inc. Acquires 23,060 Shares of STMicroelectronics (NYSE:STM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGFVRy1vc0RWZUxCdVFzWXN0cHEwTUtLejFhZDRBMlNiSGNUV1NjRFlQdzFicHJSd1hscy1lelpYWlBRRkNZc3d4LXg3dFloOTVBZFdCOVlBZzlVWHhzNzdHeFBBdUI2c3BLSlNGbWNaWl9QWnFhMXYwVk1ueVRlZDFDWWVCalJ5WEdJakZpZXNLaVZzOTBRU3I0Y3R2dnlwSjdBUzJyM2VRaDBENlgtRXczaWlwV1VtSjhLU0VGZlVJTmM?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "STMicroelectronics Plunges 50% in 2024: How to Play the Stock in 2025 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamlGdEpTRGt4X0hlYV83QW14X1c2Qk9kemZMMXJEdXRfYU9IQjdpekdpNllvaTMtVHkydEhZVjJkdjdOZjJCRzNRUDBOdjdmR3JJT0RFV29KOWpIWXhqMmwwSWMwcjFmNEc1U20yN2RwbVQ0SjZPT01mY0xDcFhaMmNCVGlWcjlrOXlNNEln?oc=5",
+        "title": "STMicroelectronics Expands Treasury Stock to 20M Shares Through Latest Buyback Program - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW5CSEdMTEJGOGlRR2J4dVRkdzcweHREY0I1M0xOY2l1V3NYREZKY0IySTlhcUlhdlZvdUY4NmZjQzRvYzExN3BoRmZQVjhYRTIzU0Vta1owNGlvaHVaLVh6RmdxZjQ2LWM2WDl3MW9DLVhTOUdSOXhJb21Cb3lyZ05uZDNFa2NYc0VzTVpKYU9sdjNWTmJQYU1hM29ENTR3bU95bmc0UTZsclNPcS13ZWxJWFU3cnFO?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "STMicroelectronics Acquires 321,000 Shares at €22.62, Builds 2.2% Treasury Position - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGRMUHVBcHBRNlFJR3RXWGs2aTEyLWFCNE1MOTFWUGNZWVZ6SzlyVnFHU2pWSFBRazNMdWtKM0pMTlZaa25qQkRnalpiNzh0cmJ6eUZKWThNbk1IeW13ajJvTHM4b0R0T1NKOHZrT0hTTFdXUks0WlR5YVpGUEJlcG9SUWZWS3JCNEt3N0hqNnI5VUthMUx1ZXJTM09RaXJSY0ZyQ3JHbkNfY2VUYjNNMmxyWW12MWNZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "STMicroelectronics Sees Unusually High Options Volume (NYSE:STM) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUFhTHFqQVp2eEV5Rk44M1RQS3E2bGFYREJGeE4xdkVlNWpTc3ZBRGNuZU5fb0QycHJZNGtxS1BiZlJiQk9xcGVWVWFPbk9mRjVBNHI4NVVKLWt2Mklydmtia3pOSWdoSEtLUE5JOVF1MDNPY2NobDdCTU95MlVsbGlEQlVUUTEzcXBqSHB1T0NzUDhJWlcyOHMxTTZyODdzZWQ1a2NLZGFFTzdRUHRwNUk1V0J6QQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "STMicroelectronics Shareholders Green Light $0.36 Dividend and Major Board Appointments at Annual Meeting - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZi1VM0tLVk0wSzBUcVlzVmxMZEVFTWlIVFI3RXh0Wjd2VmhpTUlNdk5uZHRxSkpzUlQyQ3V3YlBPWWF4c3lSWXhGSUppMFpFNnNGa0l0bTFhZkF4bl9WZWJPRG5sWk4yRzdCYVJJYkxleHlUektac3lob25vNng0NFpQeGpkanZBaml5OTZRcHhYOG1ZVXpLUFowVmZ6Vlo0MnN1cGpiM3BNQV9paWg4ck93ODJ0ay1u?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "STMicroelectronics (NYSE:STM) Announces Quarterly Dividend of $0.09 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnRiNlRUVnpBVFdiSjBRQklDeEJuejFYRnZqWG0yRzNLci05QzRERnR2Z05qdGtKX0VzUUQ5Y1drY29BQURaMkhlTmJhU2QzZlY0b2JvRFhqZ1NZWDVhS2hGdi1GeUdvendsRG1RQ0RTWFFIVW1KcWJPWVNhN1hNRW5wMHR5eTBZYlFOS1VvR2JmTWRLTGxpOGEydGN0cTlqSGtWQ1VzbUQ0aDgzYlExSGJn?oc=5",
+        "title": "SG Americas Securities LLC Grows Stake in STMicroelectronics (NYSE:STM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOU5ib2NaZE52dWtZWFhZMGVJQlB0M1pQQ0UtUVFiMnRYQXBnRENaZi00dHFQSFVGUTdLNVhyVDlCZkQ5X0kweGNZaWFjSWJ1SWNCanJEcUsxWUlZUENUR0NrM0N6X3F2dUdNc2xCWHNTSE40U1d2d1hiY2I3dVR4ZFJLSVJYNGp2dXhIb3NtcThrQVFKaHpHeGpkbXRlTmpUeUUxRE8yQlRKMkFsblBDblpaQ05LQWRwLXZuR3RPWllacEE3MXVLcA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -646,16 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Stock Market Today June 6: Europe Awaits US Jobs Data. Milan Climbs the Slope with Banks, S... - firstonline.info",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFlpTjU0Q0hXaVJ0MkVsOW12dWlKOWcyUWczOXJJNDdFb2pldDJ5WmhuLWRrNVpMX0pvMWRKWmZBN3lZY2xDR2NxRTZhVHlZYk5jU2VzclZ2WlVoT3BvQ183SUJHejQyTGNJd1JsQ1NVUXNVanRXNjdMdUp0Si1XNmphd2NqVXJQSTZjNElPYno4RU5TZVh6bnZZYUs4M0VLRDVoOGdfQ0loUmU0Z3BBWDVrNlFhQzZQdm1ZNXdFM1ZjQnUyT1RrSGlWc21BSnJQVEg00gHYAUFVX3lxTFB3dWZNY3RhcFVsZVhTVzNheTBhSFEwNUlzWF9OTERIcndkb0J0Q2NrUXA0WGg1VU5WUjE2ZEtpSUpBMGg4Z3JRRlIxdkVmZ1E4YmVjYXpZQ2hpNmtlcm4wd2pPUmNMXzluNUV4OHR2Y1NTYjJaYi1VREkxcXZFS0NsY05JX3JzelA5RDZURUJxdWZWZDE5eXhlb0EwTkNSOEhxU1E4NVNYTUx3VmJpZmFmVlRYVDhPcENSUHg3cHNJWktuemsySU51VjRHTWdzZmFGaWZHZnBUVA?oc=5",
+        "title": "Naples Global Advisors LLC Has $558,000 Position in STMicroelectronics (NYSE:STM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNldFWGVfVk1GOXoxTVdORFNIaTN0Y3RZVmxBTDhUX29CM2JSc01LRk1GcE9IV24wR0wyai1md3BWTkJIRXhqRno1dmRaUkprMVVYbE1zTXE0MGdtUFJYQXpFVGk3WUxtTUMwLUN3dzdkYTJvUGR1djhwV3lNZ3gzVnVGWjRuZTlyVnNKbnFmeDQ2c0pMUDNzb0kza21WWWVtekVBTzRhRG5hRlg1eVFkVEhDN1diV0w0ck9COGN5NlV3LU5PZmJNT3N3aHY2dWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STMicroelectronics (NYSE:STM) Shares Gap Up - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2VuYm1PS1JoRk9SVm1RdGtfWFIwdk5lVG5PUVFRa1pEVnJkOFgyaTlRYS1ZRHpRN3dGXzZhNThqRzUySGlzTTdybndQZE1XSHQ1Mml2cktWemoxVEJvZ2NWYnhtdXRFbE04aC01ZEYzbDczNjF1WTlQb1QxbXlSMFdmd2d2YldyOVlfcVVrUDFUREI4M1MtSWZMczVWQmhXaWstT0Fla3dLZw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is STMicroelectronics (STM) a Great Value Stock Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOG5hUWVJcmRBaWhMQnRod3dSTG4wTXdMVmJjS0xGVmJ5dXNpeU45Y3hPV25KM2taeXRHUmpWYnNTYkxhU0FMc2x5M0txd1ZsaFRqZDd6NVB5WTk4bG14MWlhQVBZOUcyZzdjZDNVbVduMUE4WHJqQkI5NzV2dGhGWWZrcVZXRUZoM1E?oc=5",
+        "title": "STMicroelectronics Buys Back 125,500 Shares: What This Means for Cash Reserves - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzRWd2dhcmtreVJzVUswa0RMR1hNZ1BadHdSWWxRQUwxanJrLURlazktNmJSZjhxNFVkRkVxNzhpZGdmc2kyUldqdW9QXzJQZzdnMzRQbnlXdGZDXy1hVnBtZ0F2NWdiMlhsN0t5N1puYkpya0R3OFNSbXl0MEthaHg5cDZJOFE0Y2VrVlRraVpVSTl6UTJQdXc1ZU9vQXBkQjBjWGdxQW1xUENLNWpTNHdzTnctbWZv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STMicroelectronics Acquires 321,000 Shares at €22.62, Builds 2.2% Treasury Position - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGRMUHVBcHBRNlFJR3RXWGs2aTEyLWFCNE1MOTFWUGNZWVZ6SzlyVnFHU2pWSFBRazNMdWtKM0pMTlZaa25qQkRnalpiNzh0cmJ6eUZKWThNbk1IeW13ajJvTHM4b0R0T1NKOHZrT0hTTFdXUks0WlR5YVpGUEJlcG9SUWZWS3JCNEt3N0hqNnI5VUthMUx1ZXJTM09RaXJSY0ZyQ3JHbkNfY2VUYjNNMmxyWW12MWNZ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

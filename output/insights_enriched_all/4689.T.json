@@ -2,16 +2,16 @@
   "ticker": "4689.T",
   "name": "LY Corporation",
   "sector": "Consumer Discretionary",
-  "market_cap": 3775735791616.0,
+  "market_cap": 3652490362880.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.334608,
-    "PB": 1.2595896,
-    "EV_Revenue": 2.528,
+    "PE": 24.542845,
+    "PB": 1.2184746,
+    "EV_Revenue": 2.57,
     "ROE": 0.05896,
     "ProfitMargin": 0.08003,
     "GrossMargin": 0.72384,
-    "DividendYield": 2.71,
+    "DividendYield": 2.59,
     "DebtEquity": 49.56,
     "CurrentRatio": 1.4,
     "QuickRatio": 0.752,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.02848650653802164,
     "ROA": 0.02163,
     "PEG": null,
-    "EV_EBITDA": 10.208,
+    "EV_EBITDA": 9.948,
     "BuybackYield": null,
-    "PriceToFCF": 69.12450262494647
+    "PriceToFCF": 70.59828922928332
   },
   "technical_indicators": {
-    "RSI_14": 53.06155843770817,
-    "Momentum_10": 0.607443485418008,
-    "MACD": -0.6928128559188735,
-    "BB_Percent": 0.6688283958197628,
+    "RSI_14": 42.84774409422601,
+    "Momentum_10": -1.7816068568905652,
+    "MACD": 0.4640053106242021,
+    "BB_Percent": 0.108906120258164,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9323158362724604,
+    "ValueScore": 0.8890253383460862,
     "QualityScore": 0.4541562889520756,
-    "SignalScore": 0.5677181650521179
+    "SignalScore": 0.6259788197963989
   },
-  "volatility": 0.018525699173167,
+  "volatility": 0.0192452925467509,
   "beta": 0.524,
-  "return_6m": 0.2523259772421447,
+  "return_6m": 0.1776671216999861,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 556.46155
+    "target_mean_price": 565.6923
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 428.8
-      },
-      {
-        "date": "2024-12-09",
-        "price": 435.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 433.6
-      },
-      {
-        "date": "2024-12-11",
-        "price": 438.3
-      },
-      {
-        "date": "2024-12-12",
-        "price": 439.5
-      },
       {
         "date": "2024-12-13",
         "price": 441.1
@@ -525,27 +505,47 @@
       {
         "date": "2025-06-06",
         "price": 530.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 523.9
+      },
+      {
+        "date": "2025-06-10",
+        "price": 533.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 537.6
+      },
+      {
+        "date": "2025-06-12",
+        "price": 541.3
+      },
+      {
+        "date": "2025-06-13",
+        "price": 512.7
       }
     ],
     "current_price_data": {
-      "price": 530.0,
-      "change": 13.5,
-      "percent_change": 2.61
+      "price": 512.7,
+      "change": -28.6,
+      "percent_change": -5.28
     }
   },
   "news_sentiment": {
-    "summary": "SoftBank est en pourparlers avec Naver pour le contrôle de LY, l'opérateur de Line, ce qui pourrait renforcer sa position dans le secteur des technologies. Richard Thaler soulève l'hypothèse du marché ennuyeux, suggérant une possible stagnation. La bataille entre Rakuten et Amazon pour le marché du e-commerce japonais s'intensifie, avec des implications importantes pour les investisseurs. L&T Technology Services enregistre une baisse de 8% suite à des résultats trimestriels et des perspectives annuelles inférieurs aux attentes, indiquant des défis à court terme pour l'entreprise.",
-    "sentiment_score": -0.167,
-    "label": "NEGATIVE",
+    "summary": "L'actualité récente met en lumière l'offre d'acquisition de l'e-tailer de mode Zozo par Yahoo Japan pour 3,7 milliards de dollars, soulignant un mouvement significatif dans le secteur du commerce en ligne. Parallèlement, la bataille entre Rakuten et Amazon pour dominer le marché japonais de l'e-commerce s'intensifie, offrant des opportunités et des défis pour les investisseurs. Cependant, la chute de 8% des actions de L&T Technology Services suite à des résultats trimestriels et des perspectives pour l'exercice 2025 décevants soulève des préoccupations quant à la performance de l'entreprise à moyen terme, impactant potentiellement le sentiment du marché à l'égard du secteur technologique.",
+    "sentiment_score": -0.2,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.83,
-    "negative_ratio": 0.17,
-    "bullet_positive_count": 3,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "SoftBank in talks with Naver over control of Line operator LY - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelAySGp1MWE4clY3U0prcmZpM2o1amFlUEVuUGx4cDdPRjFRdy1YS1dZVXVYcGlhXzFXekEzM2EtZlFZelNWT0R2Q1QxTmI1a3NEMW1GUkxoVlZDWFM4YWx2YmFCQV82eTg5dkpkSjJKeFR0OE9pQ1BhVXp4dU51Y2xscHRrWTMtWV80OGNJLXlVX3FjeHdkSTEzTjk2RmlvUmI0OGhTNHA?oc=5",
+        "title": "Yahoo Japan bids for control of fashion e-tailer Zozo for $3.7 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSXd0ZzNoQ01iZkRZeEJBT2NmejVNcmtIZS1aa2Z4dENGLWJpR0p6UUJZYkFGQzVyVUlSVGg5WWtNdUN2MXdjTlVmd29GOUtoVXZycjI4S1FoOFNwdkRnVFoxaEl3RV95V0x5WXBibXFzTHZDeFM0RGZYRVF4MVJ5SW84OXVmMGpRclItSThmVFYwR2dYdGlCd2RYcm5sTkhyeGxRckNzNkNWMGdqYzE4aDUxY0JMQ0l4ZDlXM2QtODU4SGtp?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -564,16 +564,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Yahoo Japan bids for control of fashion e-tailer Zozo for $3.7 billion - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSXd0ZzNoQ01iZkRZeEJBT2NmejVNcmtIZS1aa2Z4dENGLWJpR0p6UUJZYkFGQzVyVUlSVGg5WWtNdUN2MXdjTlVmd29GOUtoVXZycjI4S1FoOFNwdkRnVFoxaEl3RV95V0x5WXBibXFzTHZDeFM0RGZYRVF4MVJ5SW84OXVmMGpRclItSThmVFYwR2dYdGlCd2RYcm5sTkhyeGxRckNzNkNWMGdqYzE4aDUxY0JMQ0l4ZDlXM2QtODU4SGtp?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "L&T Technology Services slumps 8% on muted Q4 results and FY25 outlook - Business Standard",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVFiMjBRM1ZOdnMzUHFSM1kwWHVBTUR6VUxPMG5WRU9ORXVQRTFhdjQ1ZGdhV0lvZnhod2tlM1F1Y25fT0J5UFg1SlBsYWwtZW5tVURiVVA1b0dhb1BibTF1aXUxMDZ6Rkg5SXBGYVB2OUJDNzFtVDdjWmJXLTJMMXJoSHdDUjgwMnlqa0EwdWdtZl9YV3MxVVhmdlhnSk92NkRmb0lmUGxWa0RTX25SbjhYenJnV2NUUTBUUGJZY1htMWctbWptemZCdkRoX3BraDE4dzNiUjXSAd4BQVVfeXFMUDJyd3MwMmFlc1FUd1pWbVljSlFpTkNqckowZG9ndGdVaG5xdVhQaHRWeS1PcGFiQzBlZlFSdmlKVDdVWFVCYTZkUU1BTHRBVzUtNXhYb2Q2M2dlR3ZqMHpIbHdvbTBJRlR4cmNDVm83b01FVFN4ODJhd1N4WEJhZFJGbGxvVG13WVhoRHhNOUM5aVRLT0I0WGtrSHdDdWZiT3JWbXBaZnNiMHlldzNJMmJXT3lDN2FzUzJVUUZTTlpjQmpIQVFyR1EtYUw5Wl9WTVlRZVdGUTRhWVBQLWNB?oc=5",
         "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

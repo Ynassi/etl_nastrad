@@ -2,16 +2,16 @@
   "ticker": "CAP.PA",
   "name": "CAPGEMINI",
   "sector": "Information Technology",
-  "market_cap": 25577322496.0,
+  "market_cap": 25694185472.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 15.892291,
-    "PB": 2.1721873,
-    "EV_Revenue": 1.285,
+    "PE": 15.881731,
+    "PB": 2.170744,
+    "EV_Revenue": 1.326,
     "ROE": 0.15061,
     "ProfitMargin": 0.075619996,
     "GrossMargin": 0.2739,
-    "DividendYield": 2.31,
+    "DividendYield": 2.23,
     "DebtEquity": 51.683,
     "CurrentRatio": 1.207,
     "QuickRatio": 1.09,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.0944571455794767,
     "ROA": 0.06277,
     "PEG": null,
-    "EV_EBITDA": 9.739,
+    "EV_EBITDA": 10.048,
     "BuybackYield": null,
-    "PriceToFCF": 12.254811088956574
+    "PriceToFCF": 12.31080341162433
   },
   "technical_indicators": {
-    "RSI_14": 62.70137460548995,
-    "Momentum_10": 2.450650955133757,
-    "MACD": 2.142123237246466,
-    "BB_Percent": 0.7898779033424145,
+    "RSI_14": 57.25213007547229,
+    "Momentum_10": 2.8376026642628207,
+    "MACD": 2.606315323856166,
+    "BB_Percent": 0.6448924247020991,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9334000235781764,
+    "ValueScore": 0.8935362163594619,
     "QualityScore": 0.3363822935874803,
-    "SignalScore": 0.5008123561411668
+    "SignalScore": 0.5328763668543595
   },
-  "volatility": 0.0214827878068191,
+  "volatility": 0.0215479291065468,
   "beta": 0.951,
-  "return_6m": -0.0221151102503552,
+  "return_6m": -0.0136816133226341,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 181.76471
+    "analyst_count": 16,
+    "target_mean_price": 180.3125
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 157.45
-      },
-      {
-        "date": "2024-12-09",
-        "price": 160.05
-      },
-      {
-        "date": "2024-12-10",
-        "price": 159.95
-      },
-      {
-        "date": "2024-12-11",
-        "price": 159.35
-      },
-      {
-        "date": "2024-12-12",
-        "price": 157.0
-      },
       {
         "date": "2024-12-13",
         "price": 156.0
@@ -545,33 +525,53 @@
       {
         "date": "2025-06-06",
         "price": 150.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 150.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 154.3
+      },
+      {
+        "date": "2025-06-11",
+        "price": 153.55
+      },
+      {
+        "date": "2025-06-12",
+        "price": 152.75
+      },
+      {
+        "date": "2025-06-13",
+        "price": 150.4
       }
     ],
     "current_price_data": {
-      "price": 150.5,
-      "change": 3.05,
-      "percent_change": 2.07
+      "price": 150.4,
+      "change": -2.35,
+      "percent_change": -1.54
     }
   },
   "news_sentiment": {
-    "summary": "La capitalisation boursière de Nvidia dépasse les 3 billions de dollars, tandis que l'Arabie Saoudite investit dans les puces d'IA. Les petites capitalisations ont brillé récemment, avec une hausse spectaculaire de 500% pour une société spatiale peu connue. Des opportunités d'investissement émergent du Groundhog Investment Conference, mettant en lumière les actions sous-valorisées. D'autre part, des sociétés comme Aqua Pennsylvania lancent des programmes d'assistance, tandis que des questions de délistage et de jugement de la Cour suprême impactent des entreprises comme Cappa & D'Alberto Nigeria Plc. L'indice de petits et moyens capi est en hausse, incitant à considérer ces actions.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.95,
-    "negative_ratio": 0.05,
+    "summary": "La semaine dernière, une petite entreprise spatiale a connu une croissance spectaculaire de 500 %, passant inaperçue. Les actions de sociétés de cannabis ont également performé en juin 2025. Les petites capitalisations émergent comme des opportunités d'investissement, tandis que la baisse de 3,85 % des actions de Fidelity suite à une clarification de position sur un jugement de la Cour Suprême a suscité des réactions. Le secteur de l'énergie prévoit une baisse du plafond tarifaire en juillet, ce qui pourrait impacter les investisseurs.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Nvidia Stock Breaks $3 Trillion Market Cap. Saudi Arabia Is Buying AI Chips. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUE14NHd5SUkxZWdPSkNZaHREVDhJa3lhcEEtTnVGWmpQbF81dXhVOGZEMXU5X2NyOVgwM1ZpeGRPODMyaEU3Szl5dG14Z2dON3g1a1k4NUhIanAyWE5WWm5tclBNbFUtVEMtUnZTdFd4aWdfS3VQT0VPQWFvcnhRdzVzQUp6QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "This Small-Cap Space Stock Rocketed 500% Last Week, and You Probably Didn't Notice - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPai1DcTlma09CTE04bWRpcVE4YlplZnpRemo5U0ctQ1FwZXRiXzVncFFMUFBtRExHYkNhdWdaTzlXSFYwa1hmYlE2QTJQYXZZcWZoSVFBc1FHbTRxV0tWWEtTcmVVbUxwOVhxbmJ4Q1lGQy0xS2I0WUNKRWUyZmRKVDVB?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "4 Best-Performing Cannabis Stocks for June 2025 - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YeGlQQjJpQmtaTXVBVGtMQTNmamxEdU14d2tEcllsaldpXzBQTERBQkxRcW5udWtqeFVXY05tMmduUEIwU1B3VDlVZmwxeHk1anpLd3hVanhMNG9SUlVzMkVtdjFzMzdOUnNTTllTZXZ2UGxPU3lKVnBkOEo?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Shining a Light on New Investment Opportunities: Small Caps Emerge from the Shadows at the Groundhog Investment Conference - Business Wire",
@@ -599,23 +599,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Overlooked Small- and Mid-cap Stocks About to Surge? - J.P. Morgan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXJNc3E0WWNEOE56dWJqaXE2UDVTbFg4cU5fdFl5MkRWODJNdXNtdElFRXJVY2xjRlpid0JSX1VOUm1qUjZvOE9LaUtIV1Y5TkVpaWc2TnBRYnljTVI1emFSbUo3UlFRZW91Nl9wcWVPNmZIQ1NDWjVoWjMyV0VJMXJ4UUc0X3E4NVA5MzB6MVlSSm1LTmowWnNmTlhsdlRHZDY1ZXhyOERmWklaY0VIU3NfTnNWa3RO?oc=5",
-        "label": "NEUTRAL"
+        "title": "WESCO International, Inc. (WCC): Among the Most Undervalued Mid Cap Stocks to Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWU02emJaY05pS2ZLbkZPdkJITUpUTmRnQjhTalV4T3ZzeWd5TThPeEZndHIySlZjVXBlVFFLUHFWZE1MM1BrWUt2TUIzZnRuVG53d0E1NGtXNllhZnVrV2xrSmM5TldKUm16TWdmTXlDdE9MSFc4TmozVkM2RlNDWV9EYnl2dw?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Fidelity stock dips 3.85% as bank clarifies position on Supreme Court judgement - Business News Nigeria",
+        "title": "Fidelity stock dips 3.85% as bank clarifies position on Supreme Court judgement - Businessday NG",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUJMTnJVNDNrQkVwcDJVUkI4M0YtQUtTMDlOMEstSHZoSWltSXdPTDJXUHZNaDVNVnRrTVhBOEhHLVp3ekdKUGJBb29jMXk3dUttb0hfcTM5WENvSzhfRUJmZGJtQXU3OHZLbDhEN01kWk1OQUJpeVRvZU42YTFNREMtV0lTM0xWRWNINk04Z2hpM1Badjd5WlRzWUQ4UjVuRktJeGJNd0ZobUNMZEFNcTlGYzFRU0Vza04yOQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Best Natural Gas Stocks for 2025 - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjRYY0RLUUFKanNlNUZBSTJGLUJNcHg2N1JVYmRoSDk1V0VTUFEyTjIzVmV1RDZzck9OMXZQTEh6X1dya0xxSEpnWWNCZHhSY1V0MTFVV0dQTVdUZ0RJdWNkSlFnZFZoR2U1YTVlZHdza2k2cktEVkYweGFOaWNydW5UWEVGS2IyRUFjV1hR?oc=5",
+        "title": "Bengals just gave Jaguars a reclamation O-Line project in free agency - Black and Teal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXJrSFFuZVZaWEFZSzR2OS1JWW94ZFpvU0RUbno0TEdRMDN1MGwzT2dlWXRBT2lick4tMWZIOTlfd21sTTc2YWV2dnRZOG9mWkN0SEMxVUpjam4zNU5QcmRzY1k3WTRSNjB3WVlSdEpEOEhiREJ5MGw3UGZBMEZyVWw0bkt5Ujc2bFVRR1BnNjFlS0ZZT3RQMEtpakZBbm4yckNvdWhCLVBJQldld05LWEZDcGVTUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "The Delisting of Cappa & D’ Alberto Nigeria Plc: Matter Arising - Proshare",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOckVwZEVjX0o5RGw0LXctdVdrdzlUNkdkMDJacWNnZEZaeUROQlZDUnFZQzNsYVVDdXFpRFZDak9EZ3huMmpUOTJnay1wS1BCR3V6ZnlaN3JlLTJxYzVpaElxNmFqY3lZeUhRbVlaQnotUWRqZVdfVUFuZUhzRjBJU01BMmNqeUVOc0c5RzRoRmpLaEc0VlAxc2dQV29EQ3RkcDQ3TlloMFFsRFhzQVZOVm1TN2pNaTlncXhtUS1TNTd5NWJSYUZaczhvUjY3TmZQZGdOU21NQzRIREVOc0dnZkRhRkd2eEpnNWRHc2xhUXY1dUZmWWlUaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Natural Gas Stocks for 2025 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjRYY0RLUUFKanNlNUZBSTJGLUJNcHg2N1JVYmRoSDk1V0VTUFEyTjIzVmV1RDZzck9OMXZQTEh6X1dya0xxSEpnWWNCZHhSY1V0MTFVV0dQTVdUZ0RJdWNkSlFnZFZoR2U1YTVlZHdza2k2cktEVkYweGFOaWNydW5UWEVGS2IyRUFjV1hR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -634,11 +639,6 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Pa. legislative committee evaluates changing cap that shortchanges victims of costly water main breaks - WHYY",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jY2lvMGJpcTk4R0s3ZTFwNVplekZic0Fyc0dlSW9lV1Y0OUVBMmdqNmw2bzU5dmxTZHkyWUFUeUM1X0RzRzhvZmVBbDBweERWNTNJcFp1NDJFc3ZEdzlIY25wSGZVUlBHNzgxcU9KNG7SAXZBVV95cUxNRzBLa013UG4zLUR0bGY2MVlIck1fa2Z2VDBsUWZaZl9ZalpoNEIyOUxzT2lUaW42Q0pnMTktOE1yN0Rpd3hLSnh4NnZlMTVzenYwRFZybGVCbW56V3ZoUGFsMVlxczVtd0VXNDMzTVE4NDd5dzd3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "The beauty of indexing - UBS",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3Q2SENrbm5zbUdKRlAyc241aDE3U3htek1IVTN3b2RpcWlOZ0xQRTdGenZJZl9qeE9pY3JVRjQ4TEVzRXJNaG1rd1hQTkNZcXVBVll0YnkzVHZwZHJ3UFRTMHJ2SlFtLVNSbTFnTDN6TFk4R1JSYlQ0bkQ5VDcxcEViWkhJbzBVNGN3enVMLVNRQUJVWFB1MHAtVmlmaU1xSjJ4NWZhMDdfNzB6Sm9LaXFqa3lkWU9PSXl0TmlQb1dFc2lqTHNmTVhzM29GYjV1aEVXZHJR?oc=5",
         "label": "NEUTRAL"
@@ -649,21 +649,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "AIR.PA - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZ0N5ZVQtc0dLOHdrdWwyZVpnOVFqZTh4MXFucHZ3R1BnNG9yTnl5NUhiWUQ2WnpSYWhqTlkwR2hyVWVQX090ZUU4TjV1amdKeGVlQ1o4ZG1DUTRW?oc=5",
+        "title": "3 Penny Stocks To Watch With Market Caps Under US$800M - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBORXFHZWxhdnh2WmhYd1g2VE9ITzNyTmhZX2VBRm5lbzFnNEU5dWlRd2pQc3R2dk9kZUZxWWQ4X3k1ZVhKbHRNei1HTzYxUHMzelZVX0ExQVBxemFlUGV6N2xFVXpwVDlPemRMdnJTOUxkS0pDWmlJVTZraDNlUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ENGIE.PA - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KOHNoOUhpbU5Ndkd0NFNrSTJmYUJCbGhqTmt1dkhZQy12NHhBZ05wVklVcmIwTjRFc0JhQjk3V2owV1NWMzdzVjAwYXMwSmd0dDVmTUZlYmZ4SDdhQUplQw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Energy price cap set to fall in July, according to forecast - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NeHRjSnVET1dWZjBoeEl6SUpOZUR3WUdWUWN2RU1CeEpMNTRZUFpVbmxacWNNLU43UmtNejdhdWJvVFdoSnNnV0VKclNoNUw5SWpGRHZ4ZWxIMXhGaVVTOTZXSG5PNXM0Z0I4QWhVTmNKeXpTOUE1cWUxVE9SbmM?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Is Duke Energy Corporation (DUK) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEZsQWdYejBGa0RiekxnOV9TcGhoV0lhSzJaVnVRV0FaUTlHTVpYZHhGY2RERFhqRlo5cGIyd2NWTlBKRllWZUsyTVJrcENzYXlDWEtqZzlvVVVGUUxwbF81Tl9FZEd1NjAwcU5ZcmZnU19VSHRlMEI0dHZXblpVenowbS0?oc=5",
+        "title": "Pa. legislative committee evaluates changing cap that shortchanges victims of costly water main breaks - WHYY",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jY2lvMGJpcTk4R0s3ZTFwNVplekZic0Fyc0dlSW9lV1Y0OUVBMmdqNmw2bzU5dmxTZHkyWUFUeUM1X0RzRzhvZmVBbDBweERWNTNJcFp1NDJFc3ZEdzlIY25wSGZVUlBHNzgxcU9KNG7SAXZBVV95cUxNRzBLa013UG4zLUR0bGY2MVlIck1fa2Z2VDBsUWZaZl9ZalpoNEIyOUxzT2lUaW42Q0pnMTktOE1yN0Rpd3hLSnh4NnZlMTVzenYwRFZybGVCbW56V3ZoUGFsMVlxczVtd0VXNDMzTVE4NDd5dzd3?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

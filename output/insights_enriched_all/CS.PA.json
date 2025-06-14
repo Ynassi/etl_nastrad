@@ -2,16 +2,16 @@
   "ticker": "CS.PA",
   "name": "AXA",
   "sector": "Industrials",
-  "market_cap": 92929695744.0,
+  "market_cap": 91033755648.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 13.141539,
-    "PB": 1.8603536,
-    "EV_Revenue": 1.068,
+    "PE": 12.806153,
+    "PB": 1.8128756,
+    "EV_Revenue": 1.053,
     "ROE": 0.124680005,
     "ProfitMargin": 0.08642,
     "GrossMargin": 0.1449,
-    "DividendYield": 5.06,
+    "DividendYield": 5.13,
     "DebtEquity": 102.502,
     "CurrentRatio": 1.93,
     "QuickRatio": 1.264,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05482439288709412,
     "ROA": 0.01006,
     "PEG": null,
-    "EV_EBITDA": 8.365,
+    "EV_EBITDA": 8.249,
     "BuybackYield": null,
-    "PriceToFCF": 18.57479498508108
+    "PriceToFCF": 18.195834327723404
   },
   "technical_indicators": {
-    "RSI_14": 71.18899176461161,
-    "Momentum_10": 4.247004666649286,
-    "MACD": 0.8062362182270277,
-    "BB_Percent": 1.0070600483607528,
+    "RSI_14": 54.137888265416464,
+    "Momentum_10": 0.2649978675005148,
+    "MACD": 0.5637609597061086,
+    "BB_Percent": 0.4055963109199275,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933970567149667,
+    "ValueScore": 0.8949737749664306,
     "QualityScore": 0.3046611695552017,
-    "SignalScore": 0.4411165370729346
+    "SignalScore": 0.5617961362187167
   },
-  "volatility": 0.0137974319229743,
+  "volatility": 0.0137634223363505,
   "beta": 1.093,
-  "return_6m": 0.3233933768453174,
+  "return_6m": 0.2858373757230339,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 43.11
+    "analyst_count": 16,
+    "target_mean_price": 43.64812
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 34.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 34.07
-      },
-      {
-        "date": "2024-12-10",
-        "price": 33.7
-      },
-      {
-        "date": "2024-12-11",
-        "price": 33.67
-      },
-      {
-        "date": "2024-12-12",
-        "price": 33.56
-      },
       {
         "date": "2024-12-13",
         "price": 34.1
@@ -545,27 +525,57 @@
       {
         "date": "2025-06-06",
         "price": 42.71
+      },
+      {
+        "date": "2025-06-09",
+        "price": 42.39
+      },
+      {
+        "date": "2025-06-10",
+        "price": 42.2
+      },
+      {
+        "date": "2025-06-11",
+        "price": 42.1
+      },
+      {
+        "date": "2025-06-12",
+        "price": 41.88
+      },
+      {
+        "date": "2025-06-13",
+        "price": 41.62
       }
     ],
     "current_price_data": {
-      "price": 42.71,
-      "change": 0.21,
-      "percent_change": 0.49
+      "price": 41.62,
+      "change": -0.26,
+      "percent_change": -0.62
     }
   },
   "news_sentiment": {
-    "summary": "La récente actualité économique met en lumière plusieurs tendances clés pour les investisseurs francophones. Tout d'abord, Pirelli est sous les feux de la rampe, avec des avertissements des États-Unis concernant la vente de véhicules équipés de la technologie CyberTyre et des restrictions potentielles liées à des actionnaires chinois. En parallèle, l'accord de rachat d'actions de 5,1 milliards d'euros entre BNP Paribas et Axa IM souligne l'importance des mouvements dans le secteur financier. Enfin, l'analyse des actions d'AXA SA révèle des fluctuations significatives, tandis que des questions de commerce équitable persistent dans le secteur sidérurgique canadien. Ces événements combinés pourraient influencer le sentiment de marché et nécessitent une attention particulière de la part des investisseurs.",
+    "summary": "L'actualité récente autour de l'entreprise Pirelli est marquée par des incertitudes liées à la participation chinoise, avec l'Italie cherchant des clarifications des États-Unis sur d'éventuelles restrictions. Malgré cela, Pirelli reste attractif avec une action offrant un rendement de trésorerie libre de 10%. De plus, des discussions sont en cours pour la vente d'AXA Investment Managers par BNP Paribas pour 5,1 milliards d'euros, soulignant une dynamique importante dans le secteur financier. Ces événements peuvent influencer le sentiment du marché en fonction de l'interprétation des investisseurs sur la stabilité et la croissance futures de ces entreprises.",
     "sentiment_score": null,
-    "label": "NEUTRAL",
+    "label": "POSITIVE",
     "positive_ratio": 0.05,
     "neutral_ratio": 0.9,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Victim loses cash over bogus Tesla stock - NorthcentralPA.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSF9IZHphQldUX190M3MweGRwdE5MYWQweldFX3VIaVRDQ1lNcWtlanRJSFpDWWR6dGhNbVVfVTMxVUJXd18wRXljNVhLUXR1bkRRb2Rpa2hPN2hUclA3NWx5YVN6anMtS21UU21XWUhSTV91MjUtZGxyaTdPeTlvY19TSGRqY2IxdlBPRWpENEJRMVduZlJYY1VhVmg0WWJic2VXSENrVUFtOTNkZDZXb3AyVjBabk1fMmxtVUtSZldVTVZ2Z0J2d3RKUnI?oc=5",
+        "title": "Is Axa (AXAHY) Stock Outpacing Its Finance Peers This Year? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGZnS2UzVmNlUWF4a3d6dnF4bGFjU19zRVdmQjU3U09VTHJFdS03WURMMVVJWDAxd0NLV0FpRExtLTVnT01RY0V4TmhsT3BRa3pGbWNKQlhjOFJVeWoyTm9TMEVvQklvX2N2V1A1ZE9CZUFSaHNOWGpPbFpWdm9rakZ3TG1lQmZKc1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive-Italy seeks clarity from US over curbs on Pirelli due to Chinese investor - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbGRnS3pMNVNqVU03eWtCd21sU0RoQmRMRXFwTzlIT1I3VXdnWURLWHR6TzZCMms2eG1nNWExRlVFVS1rdUxHbHV2OVpaU0duTmpDa1hFNDhVcVQ4Wm9lRXJpS29wcGVheVhXLXNUY0NLQ3ZDbmlnbHpzSTUySE9iTGJSSU0tQW4zcWMzMjhrbGVSczRleVNsdVdadzg2X1QxT0NYUEV3SVMwYWdpR1RXMXlRb05pMEx0a3pVSHd6SGN6RF9GM3ZsMkJLZ1BmZWhWNUoyalFDUnc1Vk5vdHZiSHZFcVItTW05OFJzTW9XTU1YMV9Rcld6QVB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Finance Stocks Lagging Axa (AXAHY) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2tqaUpNbkdLZEJreGhFSTh4Y25wdHdzUE5lamJvUmZTUTg5WUUtZzZaRF9JNzVIUFVuVkJKeGhMT00zUWw2NUpUdjRrdWhHOW5hYkVDbEk3eFNxZnozcFBDSS1wOE5IajA2a2k0bXhXc2JPaXl1cmdabFFNenFTU1JtY0k?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -574,13 +584,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "BNP Paribas signs €5.1bn share purchase agreement for Axa IM - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXdUZqdklMQzNHaTN6V2FWNEtHdVZCLWsxTHIwUnAyaGtJR25yQmNkeEdfQWtGMnJaWTNvUU5zb3JmRVNZLUpWYlNEd3g2dUZzMWg3U3JHNmJLZkpqcE1sZGdoUjAwU1J0LTc1RVFYVXpVT0QtTDVOMWVFeXM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "US Reportedly Warns Pirelli Over Sale of Vehicles Fitted with CyberTyre Technology - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYlIyZjVlcXU3S1hxZTVoQ1ZWVjhiRTI3ckxQTUlZdW41Ynhvc1FJaUtIQUZSR3dXbHBOZzNicXE0d0xXTDFzV2tTc1EzNXRuWDRUcGZ2UXBoWFgyQlY5OGJmbmV0SFhQS1ZLV1hFQUR5allOVXFVcnlIWC1sRWt0bkdsNm1GZzhIS0Rpb1VlbWd3NlNUMzBMSm9vQjJ4b3l0c0FuQnJKRU1zUGpQc05yazUzWHktY0VhRHgyekNfWDRjaDFoZG1SUkpTRU51cENBcm42TmJYalh3MDFxcU1NNG1UeGtZLTducXRkbVVib2h6dDdOSVVWYQ?oc=5",
+        "title": "Italy Seeks Clarity from U.S. on Potential Pirelli Restrictions Over Chinese Stakeholder - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVG5kYTA2NGIwdXdlY0hmUG1tVzhaUExDT3VRWHJNRGVocHJ3b0h2eHY2VjQ3TE1iX1FLV1BKbkRzcnBMMEU5ZllfVFdYZHRJWWZrWnJ0bWktR004YjNhM09fVXBPZUNna0h0R2xfT21NaEQ1Tlk2MVNqaldvRDlKaml0UXZtLVhEQmlMUEpoQTNOQWpzaDV3dGY5OUVZUDNKaVRrUkNBVHRfNHRxWERJMGFDaWViUnB5TWJlaFZkalVDb1gxb1B4Z3pFT3BMRFVYdDNxNnpPaGlvMUhxODQ2Y2FJWXh3Z0V3OVROVGVnTnJhYkZEeVA5Z2U4V0hpa28?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -589,8 +594,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Pirelli Faces Potential U.S. Restrictions Over Chinese Stakeholder Concerns - Bloomberg - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEQyMG5MU2w5S1FUN00xc3VvUEEwelJpQkk2dGlZOEhqRlpqbllaTW11d3dtMFpBei1PWXRPUUJseGZkZ3Q3SVI5VjBTV0ZSanRoOExWWmVDaWdxZzd2S3ZDRjFQd3puY3ZFcjJ4V0JROXhLbWtBWFVXdTNtbTdqb2hGZmRYU3VxN2h6WHdabW1sa2hHNnVMUG9Ob3ZINWJGRkNDdGl5R1VmOFVVRmsyN3M1QUNZT2c1Mjk0dmlYTjJHSUZ2QTVXT0d0OWg3UnJKamdaLV9ReVFtb1VuQTNiS01tVV9fcndIbWM5NG5jLUpsRGVoQjFaWW9iTQ?oc=5",
+        "title": "Trout stocking schedule released for 2025 - NorthcentralPA.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0YybUVoNmVONWgydEs4aDJuLTZrbFRpcHF2a2pPeUlYMFhMbXB6bEZPVW9JV3k1VzVfZF9wQkRYUkZuX21CQ1FEdVJONHNfRmEzZnBJUDEwZzZlSEk2aVc4N0FEbmp1ZW9HUlA0VmdNWUpGblZkX2RramJRekdzLTBoclZ1TU44RFVIRURPZ05CbkZQbHdpTkpqczVTQmtaakVSYXp3d25RZzFSbjBGSWVsWndGOEtsZnZIOVBXeEV0XzFhNVRzTEpDVkI?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -604,9 +609,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Trout stocking schedule released for 2025 - NorthcentralPA.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0YybUVoNmVONWgydEs4aDJuLTZrbFRpcHF2a2pPeUlYMFhMbXB6bEZPVW9JV3k1VzVfZF9wQkRYUkZuX21CQ1FEdVJONHNfRmEzZnBJUDEwZzZlSEk2aVc4N0FEbmp1ZW9HUlA0VmdNWUpGblZkX2RramJRekdzLTBoclZ1TU44RFVIRURPZ05CbkZQbHdpTkpqczVTQmtaakVSYXp3d25RZzFSbjBGSWVsWndGOEtsZnZIOVBXeEV0XzFhNVRzTEpDVkI?oc=5",
+        "title": "Canadian steel sector needs more efforts to reduce unfair trade: CSPA - BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclhDOVFfazhyMndFU1M4dWhuY2dQc0ZFVFpOTjJlcm9XZnhuQjEtSHhGa3A0cG16TFJuckxKMEx2LTZnYk8zQ0tmLTByUjJuSGx5d0lxZzhGM2F5UlVLZmZrSnNFY3NQZE81Tm5UWTktSXlWTjFKY01scWNEQ3FSTmV3YnlFUV9CWlllSUVUSk5aZ3VuVkxMWnp3b1NtbmcxdEJSS05OX21VU2dZTFh6N2d4OThsTG0tYlR1U0djZnBjbnFSbFJsTmF3?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas signs €5.1bn share purchase agreement for Axa IM - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXdUZqdklMQzNHaTN6V2FWNEtHdVZCLWsxTHIwUnAyaGtJR25yQmNkeEdfQWtGMnJaWTNvUU5zb3JmRVNZLUpWYlNEd3g2dUZzMWg3U3JHNmJLZkpqcE1sZGdoUjAwU1J0LTc1RVFYVXpVT0QtTDVOMWVFeXM?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "AXA SA Stock Price Today | EPA: AXAF Live - Investing.com",
@@ -614,13 +624,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Canadian steel sector needs more efforts to reduce unfair trade: CSPA - BNN Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclhDOVFfazhyMndFU1M4dWhuY2dQc0ZFVFpOTjJlcm9XZnhuQjEtSHhGa3A0cG16TFJuckxKMEx2LTZnYk8zQ0tmLTByUjJuSGx5d0lxZzhGM2F5UlVLZmZrSnNFY3NQZE81Tm5UWTktSXlWTjFKY01scWNEQ3FSTmV3YnlFUV9CWlllSUVUSk5aZ3VuVkxMWnp3b1NtbmcxdEJSS05OX21VU2dZTFh6N2d4OThsTG0tYlR1U0djZnBjbnFSbFJsTmF3?oc=5",
+        "title": "USCIS’s new CSPA ‘age calculation’ policy does not apply at the embassy - Philstar.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTVkak03WjdKaHBKMmdkdjlOTlhBN2NjMjlRVzNFR0haSFVIaDR1VURScjJldkQ5UVhJTU1uYm9EZmJoQ1NqMzVFai1Wa2RtNTJkZ1NPMzl0NHlJOUswMlByUmdPUVFEX1R6T1RFNENkbnVzdTZuZDVyZmlaMENldUZzcXBOWHlUeVBhTUs2N2dEVVRUUkNWMExyMTIwcGsyYWhjX2VLMDc4cFB3RjVFejl0UdIBugFBVV95cUxNODI3Q0dRQndxVl9lNFRlQUx0UnBJQkRfTHVFc2JVTHhTeHEyd1lBalZ2NjRaRW9jdjl3eTRLd0hLYWlPV2g5Rm03MXl5d0VSSTBSczRTRUdqZjllNnhzLWpRZV9TNGw2OFU4QWdDY2doZmUyZHNyWkR3NDhkYWoxNXZ4eVV2Sld5czk3SjJMRFA5MVhvQkttYWthVXF6VFREQm1CeHZlVm0xYVdtTVMwRzdvdl9fU1ZPM2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AIR.PA - | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zOEkyTDFTYlNzV2hmYWliMlQ3UXl6ZzE0WjF5Mk8tREF1QnQ4VzFmdzdYcmdrQS11dEN3NEF3S0VvVFBXMHVNcEdfZnB4bmpBekhjdkdTaGVfYm1sQmc?oc=5",
+        "title": "US Reportedly Warns Pirelli Over Sale of Vehicles Fitted with CyberTyre Technology - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYlIyZjVlcXU3S1hxZTVoQ1ZWVjhiRTI3ckxQTUlZdW41Ynhvc1FJaUtIQUZSR3dXbHBOZzNicXE0d0xXTDFzV2tTc1EzNXRuWDRUcGZ2UXBoWFgyQlY5OGJmbmV0SFhQS1ZLV1hFQUR5allOVXFVcnlIWC1sRWt0bkdsNm1GZzhIS0Rpb1VlbWd3NlNUMzBMSm9vQjJ4b3l0c0FuQnJKRU1zUGpQc05yazUzWHktY0VhRHgyekNfWDRjaDFoZG1SUkpTRU51cENBcm42TmJYalh3MDFxcU1NNG1UeGtZLTducXRkbVVib2h6dDdOSVVWYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas in talks to buy AXA Investment Managers for 5.1 billion euros - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjRFMHcyYThHTzRtV0pCTjJZNC0zejJ1MkllOHBwWDFNeWV6SmxDQ2hSem9nekg5NWhOZjd5bTRaODVzTGV3MXdxeUlCaHgyb2o2T2IzMTI3TTlBejc1dERUc1ZObUpZdDV1cmtwN3o5bVRRUnpTUUFoSEljZlBpcEFCSTJONk5KblFBUA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -629,41 +644,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "THE BOARD OF PIRELLI & C. S.P.A. HAS APPROVED RESULTS TO 31 DECEMBER 2023 - Pirelli",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNktjZmdteG1yMzRqbWI1SDg3bXRrSEtUNnhhVnRwRTBwZnRjUlJCT0d6ejN3UGlvN1RmSG4zX3ZwMjJxcHJUTzNXYVQ5em1lb0U0MVdQckZSSjJtUjcyUzFFaTFlQ2hWY0dtTVJiMzFxT19sSngwSU9RemQzTTB1NkNLc0JTUWVJV3hub2NGcUY1dGtUbFNmRUNTSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What are the opening hours for the ASX share market? - The Motley Fool Australia",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XcjhrYmc0RXphMWVpUzZ5M3RRNlZKRzM2Si1sY0dVN2hGdGUzaUpoelU4c0lfVl9KY1RsZUFwemZYTmNCNjFVYXpacG1yWDdXTks4aDNUb3lYZDRfMzZGMzJUU2RhLW5oeDR5THM1OA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "What Is AXA's (EPA:CS) P/E Ratio After Its Share Price Tanked? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ZzZ5X0hQOUZFbEpHdFM4VlNTak9lS1ZZa185MWsxZDY2TmJDUG13Vks5OFA1enExdDl5LUI0VW1fZURKTFNGT1dTQWNNTVZtOWxObE9KYlVXN2ZNNS1JcWxyU3hXNE5EMllOc0xn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Florentine intrigue at Pirelli - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGtjVWt1VTFhR3ZoNWNWdFhfYk9sZDVGTzJsTFlVbHV1QUZCV2p1NXlOM0lWd2RLUUtCWXNlb0dlcGlPS29mcmZjeDRRcE5aVzI1Sm5rODhxclRhdlZUaEwwek94S3hnLXg2dms5RjZWd0g3eUI4MEZDaXNITk9iRGJZRGwtSFZEZ2hRa0dSNnRKeDZoc3hKMWptdVZROU1JUG1Ba3NzM3U1Uk5FeXhWME5POA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pirelli board postpones financial report approval to April 28 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMzVpZG5VakJLNmhPSXVpNXBscHhsTzByYWgxYjdnXzZHYlRWcnhoNkJaSy1ZZ3I1UFd1NmlQQXphRHFxOWxnUE83WERkTHNUaEF5bEJ0bzFrVTlZUzd1bFoxMW51dUc2b3ZsTmhzLVVwNU80bi1yemdsbU81Y19lMGx4Y0M3LVI4cnFUN2xkVEdlQTVsN21wWjZjY2pfOHJaY3VUM1JzbUJrNDNOQjNCZVRNZjB2LXhUaWVtVEtjNU00NEtUeDFFbGh3a2pxZFlja2pESmlhSEtsWXV5?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "The CSPA Q&A: Adam Ortiz - City & State Pennsylvania",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFpNNmlEQlpfT2JVQUlwdC03Q1JCQUxNeHpHVnVCYUNjbHFaMEtNeEpmWFFKUWtLbm5DWnN2eWNiTGYybzZOTlZ2WlhROG9ObnpOaHNIVnRhNEFIM2g0X3kxM3RjZjBQWDZobUJzdVdRVkVxX1phYmUyZTVnUHRMOFF3?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Pirelli Says No Alternative Proposal From Sinochem/Marco Polo - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZG4tMGRnXzNFUlVZckZNdGNuejVaNm83NEJWZnNlMHByQncxbF9GWl8wMndBS2Rwd0FqS2lSd0lnV1J4Wml2cG9mRFdvX2Y5WE13TERaQ0d1bDJMYnF3ejVRTURadVZjZnJmdjBrOWxlTWJyQi1DOGR3bFpyOEhtOTRLQ3JRYXl2YmVEcGI2NU9oYW5mU1lVbVloTmdoWGt4aVA2Uzd2MTZuWlZZX0JlQ0JvelNsZUpmTGVsWkhvQkRQX0NyZnlreVc5S2ZZMnFUNTA1eExUbXd3R3lW?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Most Profitable Insurance Company in the World - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckNQNHZBYTNqQ0xFc2xtMjhCMzRELWc5U2NIb2w5WElENjFROFBCWHJnWFFvVkhCWXUzcUZxamZsSGhHWS11dFVDbU02V2IxS3ZDb3UyeEZCcnloVEg0NURrOWxPNGpFeGJCUXg4SkVXVmg2TjRESUI4X2JkMk9uS2xQQ0pkYWNCOXRYY0N3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Pa. Justices to Mull Sovereign Immunity Exception for Sex Abuse of Adults - Law.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXdVcXp2dEVhazNQYm9uUDJtU1dJVVREMGMtSF9fWHh0Q1VJZWUxM3lDYWl0bmt1bVlYYnR4Rk0yVmhzeE83MDFBaWRPT29zT3N3eTd3NjlsalBiOHp6VmlmSVFTdnRhSEs4VzZpWU1VMjBOenZWT2V0VVBsZGJKd0FXMU5sRG5XX0JLNGpNME5uTFVtS0phMGl0TDV1ZUZmZVFobEJOTWJmS21NZkJMQkRqRzMwTXRDTUdsQ1k0TDJJdjFK?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

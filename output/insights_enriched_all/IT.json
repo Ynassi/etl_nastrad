@@ -2,12 +2,12 @@
   "ticker": "IT",
   "name": "Gartner",
   "sector": "Information Technology",
-  "market_cap": 32465405952.0,
+  "market_cap": 31254333440.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.280998,
-    "PB": 21.793335,
-    "EV_Revenue": 5.248,
+    "PE": 25.300625,
+    "PB": 20.980368,
+    "EV_Revenue": 5.155,
     "ROE": 1.13185,
     "ProfitMargin": 0.19816,
     "GrossMargin": 0.67787004,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.15924430827495417,
     "ROA": 0.09032,
     "PEG": null,
-    "EV_EBITDA": 25.288,
+    "EV_EBITDA": 24.838,
     "BuybackYield": null,
-    "PriceToFCF": 32.25168880225971
+    "PriceToFCF": 30.92817104364814
   },
   "technical_indicators": {
-    "RSI_14": 39.48271163099083,
-    "Momentum_10": -5.056799660417485,
-    "MACD": -1.1799627238108883,
-    "BB_Percent": 0.0157316454378683,
+    "RSI_14": 30.34340693529151,
+    "Momentum_10": -6.947437420680837,
+    "MACD": -5.254204747697031,
+    "BB_Percent": -0.0092391419708678,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9223821158504644,
+    "ValueScore": 0.8718273219468358,
     "QualityScore": 0.3846403026530066,
-    "SignalScore": 0.6885976096219661
+    "SignalScore": 0.7138673043004435
   },
-  "volatility": 0.0173783485382742,
+  "volatility": 0.0174643135234789,
   "beta": 1.233,
-  "return_6m": -0.1847034007779071,
+  "return_6m": -0.2013629016415787,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 514.44
-      },
-      {
-        "date": "2024-12-10",
-        "price": 512.65
-      },
-      {
-        "date": "2024-12-11",
-        "price": 518.54
-      },
-      {
-        "date": "2024-12-12",
-        "price": 514.13
-      },
-      {
-        "date": "2024-12-13",
-        "price": 508.46
-      },
       {
         "date": "2024-12-16",
         "price": 502.58
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 422.55
+      },
+      {
+        "date": "2025-06-09",
+        "price": 421.53
+      },
+      {
+        "date": "2025-06-10",
+        "price": 422.48
+      },
+      {
+        "date": "2025-06-11",
+        "price": 413.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 413.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 404.97
       }
     ],
     "current_price_data": {
-      "price": 422.55,
-      "change": 1.38,
-      "percent_change": 0.33
+      "price": 404.97,
+      "change": -8.62,
+      "percent_change": -2.08
     }
   },
   "news_sentiment": {
-    "summary": "Les titres récents mettent en lumière une volatilité marquée dans le secteur IT, avec des signaux contrastés. Alors que certaines entreprises enregistrent une croissance solide grâce à des commandes internationales importantes et des performances financières robustes, d'autres font face à des pressions baissières en raison de l'incertitude géopolitique et des inquiétudes sur la croissance économique mondiale. Les investisseurs se concentrent sur les perspectives des sociétés, notamment en termes de revenus futurs et de stratégies de croissance axées sur l'IA, tout en observant de près les résultats trimestriels et les prévisions financières pour évaluer les opportunités d'investissement.",
-    "sentiment_score": 0.25,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "summary": "L'actualité récente des actions IT est marquée par des événements contrastés. D'une part, nous avons assisté à une série de fortes hausses, notamment avec le premier fractionnement d'actions d'une entreprise IT et des gains significatifs pour certaines actions, portées par des annonces de partage ou de rachat d'actions. Cependant, des tensions géopolitiques et commerciales ont pesé sur le secteur, entraînant des baisses pour des entreprises comme Gartner et Persistent Systems. Malgré cela, les actions IT ont souvent surperformé les autres secteurs, témoignant d'une certaine résilience face aux incertitudes économiques mondiales.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "1st-ever stock split by IT company: Announcement on June 14; share price jumps 8% - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEp1NGRfNWVBaDdkZDJlY2dNQmZELWhDT1Z2dTJ6ZThCT1NJb18wYzZFd1JyWDZfcHFNSE5rM3pMOXZvb0NWMFlMU3NhWHJ0ZzB3ekR3SDZDaDU3akdzVE13QUh4YW9IOGY0c0tFOEZ4QTh4YUIxYldHVHhPaGt6bmtWaklUeC1lM1NOb1pMenlvWWM2TUxoeFZCdmw3R2hjVkU3YUMzTlJEUGhJOXgyT3M3a3lmYTNlUTlBRmh2OHFfMDNzdjE2a0FR?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Why Gartner (IT) Stock Is Nosediving - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMHhReHQ2bnJReFJhaC1lWVpCV3M5cXg5R0ZtYzhzSDd6NEVSV1Z1eGh4TkwzcG02dEY4NUhOSFhBMW1DNWVHZnI5aUxJTTVpYi0wMlJKYjhEei1KY2hqWmtCZXdITFpGbk9laS12b2JiZnNYMDROeFhpeHV4bkk?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Geojit’s Vinod Nair flags ‘cautious outlook’ for IT stocks amid market volatility, geopolitical uncertainties - Mint",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVDl2ekJPU1BQUU0tTzZnUzA4aEstLTVSNEJDN3NWUWRUeGtaX3FYR0l6cC1jRHl0ZGdDV3ZCYXhJdWR3YllNUnZWMVE3M1F1T2R0TlNVS1V0dlFaV3hldmZva2UwT3FCRTBrUGdJRDFCeVMxNnNPVDhrQ1lIaUZ2ekgwM3JUS3k0eXFHZ3EtSmJiaC0zMm9YQ3QzdTA0ZVV4LTVVX29VTVFiWEVJSk5iOU1PX0dScmJIVGV2VVY5Q180YVV1MGVSWlBzUHpHZ3Z4MjRTUU9RcXFCbzdHY2RTZ201YnBManNLR3ZLNXoxOVd6QkUyWkhfM21hcE53bld3dWZqeEFn0gGLAkFVX3lxTE1qTFJ1MXZ5c1pzdzQtd0ZyLVJYTF9NY3FaRUNYS0ZNdTB4M3RyVWJjVFZLTHI3ZUFNc3RyN19UWFEzWjBsV01GT1lOQVFxOHpjWlFTMDdpWUlDS0ZjdnR6RkRQQV9HWHZjY2hkZ3VQWUdpMk5GeHpoRmVNaXFtdVJOekZzWmVVQU5lZHhTbkR2UkQzcGhTUlZ2TDNoUEVzaUtxdUZWUFc3eXhDNEF4SEpQQ3hFWFgwZEZJNE0ydDJZMVVveVNMSGpNMTlBX2Q0NTJfamJkTVNGRkNqRlpXNmFNdWJocDlSQzN1ZDUzN2ZtdWtwVzZva3R4Tk5FSjVaUFM0X1lzcTBVaG1PUQ?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Indian benchmark indexes drop as US downgrade hits IT stocks; broader market up on rate cut hopes - Reuters",
@@ -571,44 +571,39 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Newgen Software Share Price Target: IT Stock Matches Infosys, Beats TCS In Financial Strength — Should You Buy Now? - Republic World",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0JCcVlBUHpFbFRoUktqZzdYZTI4NmVOZWc4LTloRHI0ZGkyY0pRQVlZUWdSWXRLbUJ4SU04YnhXU1ZFSERWbjd4R2xCYWxxUHJ6T0pYVGdDbWlYVWs0V00tU0JPMWNMb3drb0Fmc1pkc0h0bU94QlV6NHdQeGRXUkRLNExtd2xlQk5zSjRMeGU2VkZWTFNUUlJnZ0pHU0ptNkFWR0Z6anJoRUVGajBOVURwMHlBOG9NVUdZMWQ1ZnBZdjhlTGRWaEhCSlR1enoxNU1fMDJickpkUnZW?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IT stock jumps 9% after receiving $2.5 million international orders - Trade Brains",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeE0tY1dxcldsemZCNlFHeGlWTTlPNml0Qk9oeUw0QngtOHZQVldKemk4TnN5elBHcWY3Z2p4Skhpbi04ZzZmZjdaOWFGS1Q4Q1JmRG02N0Q1Ui1WTVFiZFdtT3pvTUJ0S052QkU2eG0tUDBNU1NHQWRkWndoYndlUnNBTTBMZ0pOeHhpWHVXZnJYUWc?oc=5",
+        "title": "Taking Stock: Nifty fails to hold above 25,200, Sensex up 124 pts; IT stocks shine - Moneycontrol",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUg0OVNUWUVWTEdtdFZnQW9GRGpHR3d0MG1EVllDcXl3c09INlRqckR3TGdsNk93RW5lbXgtaWtmQTN0Y0ZOdFUteU15eHZWNy10dEpPZkNoVGVfS0h6TFJFcmpJNm5nNlh2VTFpLVNUUmZ5LW5aaXJ1LVRsczNTNXl2LU9NajZmQ0JSbjQ4clBQM3hpa0RPcVhtTFRjNFItNzI1aVpyU2pFM085RlJZNXQ0VkhuZ21veFJON2tkWXgzOXlibGRBdmhQajktZlRReUxQMHlScmVzaDRB0gHiAUFVX3lxTFB4dUw0eE9OX0NOd21JVDJTQVdWd0F4ekNrblk3RVJkOENTdkJsNlZVWDN1NWU4T2Y4YXVRQmV4b2taRmY1eWR4MXJhR2JvcGhxWHVMV1BUdWJRY0hrSzVxOEkyeWp0eDN6TkJiUGxUUlZmaTRnZTR5clhISXM0VENOOThFOW5VU2l6bWtsa2UwSVlFWkFZS0VPVjJSZnMxbi16aTZoWmVvT2ZhRWtPS0d1Z05vWGM1M3loOVFBVnBMcmM4U05wSHhuclkzTjI1NVlZc3dYN1NNbGdsQlRSQS1Gamc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Gartner’s SWOT analysis: IT stock navigates growth amid market shifts - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXZVQjhrQXliNXE2Qjg5Qm1ONWpSd19LNGtGejBITTQyZVY3SjhfZmhWU3hfTXFCMERXQnZPc2lRX0QzOTJjOU03ZU1iOHdVajdYUmxUa2JkaUsza3dsbXJSSWVXeGN0bGprLUhwb1BNbTU2UzFmS1ZOTUxzLTdKVlp5NzVXYmVueVN3elFSMHE5MnNUckhGWERlVGh1Mnl6YVlqbWZnLTJVeHdISC10UW9yWFFkZjcySGw5akw3SUpKbEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "IT Stock Under Rs 150 Strong Business Performance In FY25, Approves $10 Million FCCBs Allotment - Goodreturns",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2c4RDRUeGJnMW0wa2dHVl9xWXpUaURQNzhWQzlpSjd4Z2VxUzdDc0NySUFwNTFZMkNFVEJvREpleG5lTTVlbGlWVk5ZRlhFY2k2bnVKR2ZKcW85MUFZa3lsVmIwako4R1FWWkxSZk5yRlk5M3U3MnJNTllBVXR1M2pLS2Q5WmFnMHE4Z2V0QlVFcm40c2VmcTI3eWcxeURTRVQtT2sySU9sVVZRbWU2MTBwbGtQanJhSUVFd3lpMjQ5THFsUVNkTWNqNVlHY3RjVm9VYw?oc=5",
+        "title": "Stock Split: IT stock jumps 5% after company’s board to consider share split - Trade Brains",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkgzb0NZLXRWQ0k2RmhSeEVLNl9DbWtZUmVVUENVUzdfcFlfUWdNVkdpUmFrRDA5VWJ4RGVfZkEyZDExeUpoMjhMaVR1NkpadlJCQjhUQTJHcm9TX1lVbEd0T1JTc2gwRFdrOS1VZ25OVGwtZzhHaE1yYTRYT1dURHRSVFJFcnRLNEJTUHhDd01uOEJlNkdiUGU2X1lIdw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "IT job hiring subdued: What it signals & Emkay Global's top IT stock picks - Business Today",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWVhZEdqb1RibElDRkFPOE9PSjhxMExaQ0VVNzRKTEpfM2t1ZGh4cE1IdFZSX3ZmS3dJMjZ1ZGVkNzRfTWV1TmRrcGdNakZHWUdEVk5PdjNIQ2NOeXQwUHhkajhUcjFzTlNraUZNQnZKaTIxZVh5ckxGU0gtUzMzSC1vM1RqYWNVd1dQMTNkY21sbGpjNHZ6Tm9sRmF2WGVjUFJlWl9NNWdkN056YmMtblQzeUxYbEVtbE9takk4M19YSGNXVjI4bGN2Tk9WaWNzVDRDZNIB2gFBVV95cUxNN2tfZjVCbFgxUkpWMnNlbUZpVWpvaUoydGstaElhemZ6MkhxUGtWU0VrYUJuWmZlMU1JX1pNdExMSzhSUVdubFZiWEM5SEtCaE5CUHRrakJ2a2NVd1d1MmhYQnI4OVRyMVo5Y1BCRU9ySEFiTWdPd19Zd0dRTHZ2R3IySlBvdFZfWE95Y3p1Z01UOEk2aFlxbFZsZmRnYkxmM1VrMWZoM3UwaTJhcHRJQzQ3ZXU0ejd5aDdKUE5tbktwQnpaWms1aEFNTEhRY0Y2Mm1fMTZqejFPZw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Persistent Systems, Infosys, HCL Tech, TCS Lead IT Stock Decline Amid US Tariff, Geopolitical Tensions - Samco",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFloYUlYbkV4RmZCR2VzNzdvaHZVVHlNUjJDb3IxUE9WNTN0UUF4TXM1aUdFcFBFWG91emdBZmJnRnc0c00xekxNcW4xcHdQZmU1YVlvQlRPQkQ0R0tITHhYd1UwYW5tdzY0YzFQYzZDaDF1dFRQM0JBYnItWjg4d3JwbkswTWZlSFJ1OWhHYjZucmpKeGtRendUVDc3NkEtS3VzN19Bd1NFNnBQbWl0SnoxdUZFaVNTMlRaX24wOUg3SG9zdk1Sa1lVS3VQTVREcmFZ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Bulls circle Seeking Alpha’s best IT stock amid earnings momentum - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZlFCcUpuSGtEc0lNVUFXeUZheTh3UGNEdzZwWVBHV2hoclgzblJpVEJoZkNaME9xSmV3WHFkVUl6bmlsdmpVcWcyNzhGWDVuQ04wNTJlZG9MV3J0VXp5QkNyc0dLZUhKSW9Tc2RiTUNETnRhMGdOYzlfQkt4eFp3QzJ2MjIycms2SmV4elNBY3BNTHVTM0U0VmlMN0ZfUjRGQU10YzZsX2xhOEJDWU5kOGR1SUpNUEhlZ2REbDRVUHNLSGUzT05tcDd6WXNhQ1dpaG5DSGpwNEtza2llYXc?oc=5",
+        "title": "IT stocks drag Sensex 100 pts lower, Nifty below 25,100 - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOREZVUTF1ZURBMUlLVUp0VDBvVEVmWmpHZUg1NGRzdlNSVjl3Q0ItWlJBLTFud2lBODdzV1J6QjBEMXlCc1lEcUE5R3I5Q0JUVEdnbkZwcEQ2NDN2X1I2Q2MyeWdfTEpyd3VOdkJCTWJtVlZHTjBkRE5TT0h5TlZmM0xWWXJhN0ZYT1BfT0JRVGEwOXF2WHhGNXJ1RzNRQ0F6bUFUVWtDUWhwcWZZYThBeHRYNzJBcjU4ek0yQW5adTlIMlVQV2ptTV96LVhLZmdmRUJfNGttY0xabXVVYldqZ1JPYjR1ZzDSAewBQVVfeXFMTkU1azhKQ29WM1pReEs2YWhaakNOSlZoaF93a1A0ZDZXcVpQOEFyLVN1cF94azBrdXNERF93UnY5LU1zclZlVXRIR1ZQUnhvWWRlblpNWTJlWEFYVDdFVDNDU2lUU2tsUnd0WFBLWUdKNFFfd0Vpb2RjdmYtRkQ2ZGRGaVBaU1BIWXpIVGVHSm5GcmJBU01YOUs4TE9JQTd1WDJDM00tT0E5QU1BeHBHOHdkQk9DcTNQUjZmWVRJTkNWMUpBZ2RVN2VzcXJBOGw5Y0d5SUhTSHdQX1JiWERxa0NzeGktMXUwbVdQYUU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sensex, Nifty 50 end flat amid profit booking in financials, realty; IT stocks outperform - Mint",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUDJuVzREXzR1Y3psOVhZOW9VdHBodG50Sjd1QVBlNnZaWVloamVnT25FNjdkMC1JRFpZTnFGSGVkRU9wTlpQTmxvR1NCZWdHd181Vkx2WEowcmY5X1czOXFfNTFyd0JaLVNWSTVjOEVkb2lSbTZRQzRPdFBwckZ3RnRaZFpQRlEtSUpJYmMwMFUybnh2MGVTR0NZUVdSRzJ2WE1tNnhjNW1Vc09uY013TWlzbmpvU2ltQ055aGd6TzU4ZnZBTlV0UWxVWFEzOUtwbk9VcW1qNUlHYXpseUNCT0VJOE03TDltanZxYy1DaVFOZGdHVnNyZjQ5OVFoajFVNnhKZ3FRdGxmRTTSAZACQVVfeXFMTXVGZmdrMnE2XzRRMVhueklMN0syRXBFdlJ6TjRjTUNENWE4RkZyeUR5Y00yZ0lzNHFjZU10dnZ3MXpybF9aWWJtNEZ3U3VzNWh5NTNfbENxQTh2cGNGQVJzdkx3TnUzb0Z3NVhUSHVTbXBQd0J0M2tSSlZOOTItOGx1b3FvOEw5dHN1aFk5UkdwOUdGTkpXZVFqZXl0cGxFMm1rcE9aMkRSTVBUa01JOXk4WHFFa2xDXzhUNG9HdG5EblA0UlZSU0tmUHdJakJvUUtIMHpDNl9hWFpRNV93MS11d2J6aFpLOGg0MURnUVVmRUQ2TmNVR2ZQdEdtUUVqUUlzdE0zYTk5ZUctV1BqNHI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Multibagger IT stock rises 45% in two months, can Tata Group shares extend gains? - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXEzUGlJbnVqQ1VsRVZwM0VZeTAtVGdxNlBZRjhULWlfV2RIc2RYS0s4RG5vSnZwam9rUDJCUVdZZ1RCNUE1NjJSNW04TGxGZDE3bUVLQy1WdzlUSXFQTF9ZLXZMVXBTRlJyMkVSTmM4WkVmWFU3V1FydFhySWdsUkQ5OWw5Z1ZteU1WNk5IWG5Wa3lFQjZVdFM5bUZ3dnF6RDgxU0duUEsxdzhzRjVfTUZrR0NZUGlYQjQwYmhVNGEtYVpQZXpxSkxvWWJRa1NZdWJ2cTJtZjVXWXJSQVZyenFoNl_SAeQBQVVfeXFMTnVxM1BpSW51akNVbEVWcDNFWXkwLVRncTZQWUY4VC1pX1dkSHNkWEtLOERub0p2cGpva1AyQlFXWWdUQjVBNTYyUjVtOExsRmQxN21FS0MtVnc5VElxUExfWS12TFVwU0ZScjJFUk5jOFpFZlhVN1dRcnRYcklnbFJEOTlsOWdWbXlNVjZOSFhuVmt5RUI2VXRTOW1Gd3ZxekQ4MVNHblBLMXc4c0Y1X01Ga0dDWVBpWEI0MGJoVTRhLWFaUGV6cUpMb1liUWtTWXVidnEybWY1V1lyUkFWcnpxaDZf?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Multibagger IT stock below Rs 150: Company reports FY25 revenue of Rs 1098 crore, 23.4% PAT growth, 9 client wins, AI-focused growth strategy! - DSIJ",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPa2FMa0s2RDVzVEdBbmVMazlPcE9RV3dreXk3Q3RJWDN3OGp6WEFoV3JxazQzR2FIa2J2UFNnLUpuYmtqTWd1TW5ZMVFEV192dlJjdHJyREI0LWJ0Q3NLcUNvYjdZVHlxRm5fNFNmNlV2TlBhZ0RXVkNGY0t2MlFIaDJma21uZnRndVJueU1VMTY1OWlTWFJuR2kyZnlfRXlwWXBBd0FWdWNOa0R3aWdDT1pYVWN0Ri00M2dqSm5vNnR5RXFLVHUyOWtTR2x0NHRGaURyVWk4YmgtU3V0aW1tWC0xeXNXbG9JTWdkQ2J2NDlSWTBGbGptVzJrbi0wYWpaNTNwcTRGY1NoS2ZnblMydVJzbw?oc=5",
+        "title": "Stock Market close highlights: Sensex, Nifty settle flat; IT stocks rally; realty, PSBs drag - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWZsV1MyZXhqQ3p5QWtlbFNwVlhuU05RVlJPdFZoZHl5QTgxbzRJSVVQakZjcldlRXppQkpROVVRYTd1WGdDb09aUFVtd0xwRGZxSkthV1JYcW90a0dGRjc5ZkR1XzJVelFJYXI5VUYzemxVRk9UMXJDcmdhTVFET0htTnhwTWNiT0JPTUR5Zks0dGlzS2tnUWxuenVVUlhvRTB5R1J0d09xQWVRekdVTGFzamVpUVN5NkNqakl1enUwRWFtS0FGcFRPc0xMTnJ5YVdwLS1QaGs5WThQMDFaWno5YTZ1YUhCeUM0aEp0ajROQjNYVVHSAfsBQVVfeXFMTkItWUpVV1dGQWlobnJUQlhtdi0zbVYzSGNQTFF2ZEw1aElnR0wwU0l6VVd1alBJTWlmdlc4X0NkeFE2dGlMUDNuZy0xclFERHJoTzVHME5lNW5PZGdpOFRJZGdiX2dkTnNDUmRoc1lRZ0tCSzIxMUxBanZkRW16OF9MSHBseXRoM1ZKc1lPYW84SU5jY0hCTnlOU2ZkUVlMd0pZd09TU2dsRjlNU0NLcEtrVDl5bEpCZ2h2Y0dNZVNkZlQ3U0lydHdfakxodlFyLVcyMGJsR1p3dHZiWHNNY0ctbWpqX1VGQzJtREhBaWdBbzk1bjlSWmtuV28?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Game-Changing CFO Conference: Gartner Reveals Autonomous Finance Roadmap for 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9GeUtGRGhWbVRldm5RbUVMMC1ldFJLbjU3MTB5MFY0NmJ2MHVpTlpjTmdfR2ozdkhkNy1SZVRnbXZNNUNBVm93S2x3dE5rd0loNzlmSVlzVXVFXzhXb0lVa1J3OWtNVUEwalBhVGRCbVZYcURWUUJHWWU3cVlpSGtTdFRzMmI3X1ZBcUluVzNSaHFnSnJJNm16aWhRcmRkMWVJVkxFb2x1WUpWR2xJZUl5T29KVHcyU2NFRg?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Financials, IT stocks weigh on Indian equity benchmarks - Reuters",
@@ -616,33 +611,28 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Coforge, Mphasis, other IT shares rise up to 4% on optimism over US-China trade talks - Moneycontrol",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmNBS2cxTGFrUGNpczR0ZGo3LVdnYlBnWS1GVEk3TDRPeVdQekFBNlF6YnhKSmpINzFyajMwby1GU1c2TmsyM2Q4VVhmYU9UMUdYMHNGb0lsUzdycTRJZjNTaTlsaWVHa2tqMWVPT24xN0FoTFl1VEpIS0dRWVFSWW1HNzlEZHlkWHZGUG1CYjdTSWs5NFZ6SzJUR3VfTnRxVEY4YXNmNGZ6X1FndzhDZC1QQWtuWHQ3LU9zVnBLVnVOb2hWV1dyOWlsLXN5TjNPS0NmR25kQVRFcEV6VGF6btIB5gFBVV95cUxNV3liemVJc2JmLU9Ga2d4NVhqcG1rd2xPem9uSHJtSzhvOWtlVkNFQy1hRWU0X0dHX1lvcEdSTGJuWlJqcGZtQU5PTWVpLWU1dVFVR01KcjhsVXRwZFRjRkJQd09nQmlwR2RjUzNRQVFNejdkcWlLRmV1RmRxdFN6MHVhNlk4MjZsZFBKUGNDbHc1U1RGZnF5N0xiaThLa0ZJTlZ0THplMUxkR3g4VV9IZ3cxVkZQQTI1QkNDMjdTQjZxRXI4T2loNlkzODkxUkJxeDJ4c19QbzR1SGV2Rm1RUTN6VkN4QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Is Harmonic Inc. (HLIT) the Best Debt-Free IT Stock to Buy Under $10? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qUml4WXpUcnlxRFNYTFpsVElERWNzWFZpYUdhY1p2eHNSZzZqS0ZDcjYzX1BUWDFzMl9qd2tVTEloTWFjbFRCbDVVMmwwcGJzZmRfeGc3LTh3QjJHVFBiVnlrQ2JxRVNiX0czNFQzZ25RLWVHRElTNzI4UEpsdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Financially strong IT stock with over ₹1,000 Cr revenue guidance by FY28 to add to your watchlist - Trade Brains",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDhJek93WmR2VGw0dmR6TmxLT2NBaUtKMWsxX0dTZmo5a3A3UVJqVnp2LXhJQzJSME9kTDBtQVBqTGcwS1ViUXI3RlFlUDRIWDdDUHBvUmItSUNvSDV6UzI5cDBycl96ZldVN0NUZllMelAtRWE2XzFnX1VzMVhvWUI5WXBrRkVBRlhjc2hLdWppNWs2UEpmdUFKV2tPaFZtLW1VZ2NacUNyNnhxYndacF9CVXhkdzd5WVZn?oc=5",
+        "title": "Multibagger IT stock gains on second deal win in Sri Lanka - Business Today",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1M5SW1DYVNoMWwyY0NvenRaajcwdTJZbVJzTnBaeXBNSk1hUEdDbGVUTE1oQURaLWI2SVpUdTRNWURma3dFZHBhT0F1NVE0QVdaTzBfQ0U0M3F4dEl5c0xZd1RGc1dBbFc1RkF4cjBtaldQS3E5cUtHb24waDZnbWZtV0ZQRTR4QnlIU0FDRUJITUtTZGRhbTVpYTFVZ0NlN0RWRnRqU25QSEoxWVh2dGxOczIyZ2l3Xy1OMDBubUNYbXJo0gHKAUFVX3lxTE9uX1hjLU9yeUJCQlBwNE11NXVRZTVyT2lCLUJTWW9URkZOUWRYeDBQQnE3SWc4ZHA5RFBUU0RhQThaMjdra25vWjg4V0pDSGdkeE5CVnVVeFo5cGFQOFJ5ZHFWQmdnb2FGQjVKRHhoQUdVTUpHaTNvWlJacGppcWdrQUcwV3VFbjhKckFfczJGbkpVVFROR25oSzhfSGdsQVFBRzdxZnZmTlJnQUZQd1JOUUg2ZlhoVzJEYjV6RTFXMGx4bFNjRW80cnc?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Infosys vs TCS vs Wipro: Amid Trump's tariff flair, which IT stock is racing ahead after Q4 results 2025? - Mint",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXZDZGdLclBqNmNWU0V1c2NQMGU2SVZkSThXdlJRNjdKQUczR01uTUNVSkszR0k3UDJ1Mk9FVnV0anVkclVxX1hPc1gxY3dQQXd0OGJ6bkZZUFpSbVppUVJOQmFNYjVrN3Atc2dlc2JYWktlVDZMbk83MVFvRXcwRDBtUXV1V2s4TGlRODdFSDZFLV9YWEl5U0hBc3dKS2lPcE5YR2dmUFgyMGgyVFpBbENveHVvQ3NleWNaSW1faE5PbU1faWxITzllR2dzTVlvMXh6UTUxSTBvRTBEWjE5emE5Z0VjQXlNc0ZMc0dNdHNhYjgwNERHZ3dXSzdZM2E00gGGAkFVX3lxTE0tR0Z5LUx3SVNWQWp0ajlETWdHVV9iOG1ReTl6TE5ZbXp6YjBDV2UxSmlheWQ2Sjc0SnQ0UGM5QnpLQmpPcDFPa3ZFYXRiczFxS2pYSGJPV0NteHVmSTl6UDJtcWZnR3pwX1MtTDVjdE5xLWVVelI5RjRBM0tiX2FRT2psRGRYREtadEpaZWRkREk5dXBUNzJxZVZ2MXJaaEtONEk4MEYwMnV5S0hxcVpzaDh3d1hDem9HaUlPWlhUTXEwaHp3eUtKa2lrVkJmd2xWM2F3ekQyX0ZNcHF4ZDU2R3l5QjNqS2ZGY2dqWmR5TXpiNzZoaXpjMG9rZjhfZXRNVnBYemc?oc=5",
+        "title": "Stock Market Today, 11 June: Sensex ends 123 pts higher, Nifty above 25,100; rally in IT stocks - Top gainers, losers | Closing Bell - ET Now",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ0lwSkJaaGdrTnN0MW4zbHB6RW9ucVowRUV4ZlhYNTB2bnFxak5aUTR0RkoxZy1VVDVRNjVpWmdiaGpJUTJyNzEtYnZIS0l3ejJ6TW9ZZTZrMHdDRERnaWF5RmJLQXVCZlhvVmNsNUxwYWZHS1k2NzFuSlh5NHNzM0MtWjcwZDJBT1JUUVdEUk5EcDJaV2VYQzZtX0ZvTWVyOTVHSmhncGhMQ3h2MUZYQnlBaW5iLW4yOFV4WFVwVjdzUWN4MDRYbDRKckNPUHNmcnRObHhyOHl6cnZNa0FxVkJBRGg2ejc0QzZhdUdwcjdfdkoxN2FwMFpHYjFiYXFzTUpBdNIBigJBVV95cUxNVUJFZlV0WVFsNlFtUVVLVGJrSXVNaGdRYUphLXd6ZE9ZLWtnaWxXcVgyNnZIZDVnMjFUdXJCVVVZc0ZkTzFMcmJXSEMxTnR6M1BheHVMR3ZCVldvUkdwb1NBMy01QlctSTI4WTFucl90QThyTUZKSlJTeEIwMVRnM2NIZ0dLUnRBUEJnejZTUGtJS3IxSmdYb0JKUWlJU3Z4RHNPQjRWTnVETDdjQkQ3QWVpaTVrUkVNRnZfR3A4MDloR3hjRU1vaVVzcXhjZE5LSWpXRlItVmxVcGhWMWl6ZHZwM19kMEZVU0pKWW1IZWZRTEhybEY2bS1DUFNFX05ka1dXa1ljSVBIQQ?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Gartner Earnings: How to Access Q1 2025 Results and Live Webcast on May 6 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZIbDgyRUhCRnpUS3I0WExtbTk1bVBhdVRKaW4zRS1nVEVUWFlkYVBjVl9xV2xUYngteFVMX3pfVldDaUR3NXYtaDQ1NDlLV2Y2ZlhkZU51NjN6TzZ6ZGk4QllIakhsSmF1cnQxM29CN19QZWh0RGRkeHRTRnRkUXFRdGd4b0VITk40QnVTaHdWTGtXZnlrcjlkRG14alBWUHF2N0NBR05LaWU2emJvOWE2eWV0VEk?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "IT stocks power India's stocks to their best close of 2025 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWnY0eDl3ejZJUy01bVh6UmU4UGlITENSOEs1ZFUxcDE4alRuZ0s2MGJ5VGFWd1VvZFNNTS1CR2FlYVVaYlNUTjNOZTdFeHhFc0ZMNk4wWE83QlJDOW5FRWhKQzA3Smo3Nmp4UzAtWks1TFJheTFfZ2pGLUFVN1ZldzZwNW9sZ3ppSjdsUDRZX3p0a2VTM282QWFtWFlkY3B1eElveldKdHpPMlBfZHUw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Gartner (NYSE:IT) stock performs better than its underlying earnings growth over last five years - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdnc2RkFsazRvVHRGVEc5aGJTV2xGcHNTaEdhY0ZpQlpldnRuMjNnNEd2Q2N6RXROMGpfTkEwT0Zhb2dzVTA3UTZsdkg1Qnp6YmxvY1JwZzhLUkJZMTJlQ0wtZWRadGZLUXRfUGVGdVBDZnV3QWNmRlBZUnBUaXBNOWQxOE1kUmM?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -651,11 +641,21 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Is CDW Corporation (CDW) Mid-Cap IT Stock Outperforming The Market In 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfMmc2TWNlM0g4X0dCWi04RnZJMzgzUkxRN1F6SW1jN0ZVSVRFNU5xZlp0dDdwR3pXRGtZbTVOUEVrV2dpdXNqNDdabEYwTFRvekxUOU1CNHNLbU8tczRaTTdicXpqRHMzRTJlZ3NZUE8ybUJieG96alRfNlJNUQ?oc=5",
+        "title": "IT stock skyrockets 13% after board to consider buyback of shares - Trade Brains",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbk0yT2c4TGFEU0N2VGtaQ3NWcDc3d2ZfamtqQXN2elhKYkZmYkxaSjJWT3luYV8zclB5UWtJSnZTbDJqVkdCQ184MUQ3SmpUcEV4VVh2NUg5dXQyc19MUnItS3M3akVhWEFRX0NrT2xlTkFjaW1zaDBWZ3llTHNfS0lIRlB0dFMtWC1KcmowajRZZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ride Out the Market Turmoil? Not These Investors. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajdvZlNQS1VCWGJmYm9KbmJ1WS1xZS1JbnIyN3h1LWs4Tko2Rmt6eU40YnpveWxYSHQ1YnZCd2ZXcXEtTjd0NTRqY05ZaVdZM0xvT1ppZGlobWc4eE1TNnAxVUg1cVFsUWI0XzNvaW5RMk9WUVQ0YjRUYm9lZ3hOeFF3cnJlaUFMc2pRZg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sensex, Nifty erase early losses to trade in green; IT stocks limit gains - India Today",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUFRbWxZdUZqTmhxSWsxSXlvVmtBQmhBTk9nMkJRcVhlcUVqN1JuTGNrQXlCczhuRjJTQnFLd0VaektLSlFiaFJxci1vVzhPcGpSM2N2ZHNkQmxYLU9pVVVGY19nWGlsYVhFMTBIMDJCWWl3VzI5MElOOFpsNlloT2k5SmZ2Q3Jtak4zYm95UmRVVllJQnd0c2NjdnNqRG1XZ0NaNGJQeDhnZWhaby1uSDBUN19UTUJJTXlobXV6Qk9IbHh6a0p1YVNscGdtcWJabkFUQjFMa0xhV3pINFlMMkk4TkxVS3F0d0lRWXRMc9IB9AFBVV95cUxPYmRvNXVtUlpKdXBZSGpSWTZpQXM1Rk1pWTFuYWpaa3RyRm9XV3VLbkFScG14cUJ1MjV1T0Z2d2hTQVZZNDdoc3BDRmszM3dyODR5cFU1aGxaRk1fdDhvY2VyQjBoQ3JwZWp0dXY1WVpOdXpmZEdEd1YwakJIU2pDeEhwYjBzUWkzS3pRTGZsLUVZRk8wekxDMFZXSUMxbzkxM2RmTmpadUdSTUw3dU1OUWtUZjlLeGo5V0MyU0RIQ0phUjZmdlRMOE1JOUg4dkx4SDROODF2bkFQZE0zbmh1Wl9iM29yMUc1Um5FckJUOVhpTnFH?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

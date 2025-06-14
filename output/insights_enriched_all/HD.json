@@ -2,16 +2,16 @@
   "ticker": "HD",
   "name": "Home Depot (The)",
   "sector": "Consumer Discretionary",
-  "market_cap": 366448476160.0,
+  "market_cap": 351468290048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.004522,
-    "PB": 46.068367,
-    "EV_Revenue": 2.626,
+    "PE": 23.96608,
+    "PB": 44.185116,
+    "EV_Revenue": 2.589,
     "ROE": 2.9951901,
     "ProfitMargin": 0.08984,
     "GrossMargin": 0.33344,
-    "DividendYield": 2.49,
+    "DividendYield": 2.53,
     "DebtEquity": 778.781,
     "CurrentRatio": 1.093,
     "QuickRatio": 0.23,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.06724449594356452,
     "ROA": 0.15122,
     "PEG": null,
-    "EV_EBITDA": 16.785,
+    "EV_EBITDA": 16.546,
     "BuybackYield": null,
-    "PriceToFCF": 33.450809593221294
+    "PriceToFCF": 32.20233840329411
   },
   "technical_indicators": {
-    "RSI_14": 53.0705164265258,
-    "Momentum_10": 1.290654813075294,
-    "MACD": 1.786845975633241,
-    "BB_Percent": 0.4622475743789789,
+    "RSI_14": 38.47796877724641,
+    "Momentum_10": -3.3510561306404285,
+    "MACD": -0.6877629070598914,
+    "BB_Percent": -0.1018074479658378,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9115406380313108,
+    "ValueScore": 0.8684819936017455,
     "QualityScore": 0.3790018677132033,
-    "SignalScore": 0.5610951514807703
+    "SignalScore": 0.6552373186461782
   },
-  "volatility": 0.0156553283228731,
+  "volatility": 0.015843245577106,
   "beta": 1.018,
-  "return_6m": -0.135411836385134,
+  "return_6m": -0.1421384731006543,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 36,
-    "target_mean_price": 418.9539
+    "analyst_count": 35,
+    "target_mean_price": 418.63828
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 429.18
-      },
-      {
-        "date": "2024-12-10",
-        "price": 422.59
-      },
-      {
-        "date": "2024-12-11",
-        "price": 421.38
-      },
-      {
-        "date": "2024-12-12",
-        "price": 414.42
-      },
-      {
-        "date": "2024-12-13",
-        "price": 416.98
-      },
       {
         "date": "2024-12-16",
         "price": 410.71
@@ -537,43 +517,78 @@
       {
         "date": "2025-06-06",
         "price": 367.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 365.2
+      },
+      {
+        "date": "2025-06-10",
+        "price": 367.91
+      },
+      {
+        "date": "2025-06-11",
+        "price": 360.46
+      },
+      {
+        "date": "2025-06-12",
+        "price": 363.16
+      },
+      {
+        "date": "2025-06-13",
+        "price": 354.66
       }
     ],
     "current_price_data": {
-      "price": 367.33,
-      "change": -2.02,
-      "percent_change": -0.55
+      "price": 354.66,
+      "change": -8.5,
+      "percent_change": -2.34
     }
   },
   "news_sentiment": {
-    "summary": "Le titre de The Home Depot, Inc. (HD) a suscité une attention accrue des investisseurs avec des résultats du premier trimestre solides et une confirmation des prévisions pour l'exercice fiscal 2025. La volatilité de l'action semble persister, influencée par des stratégies tarifaires contre-cycliques. Malgré des bénéfices manqués et l'absence de hausses de prix pour contrer les tarifs de Trump, l'entreprise attire toujours des investisseurs, comme en témoignent les récentes acquisitions d'actions. Cependant, des ventes massives d'actions par certains investisseurs institutionnels pourraient indiquer une certaine prudence.",
-    "sentiment_score": -0.05,
+    "summary": "Suite aux récentes actualités concernant The Home Depot, Inc. (NYSE:HD), on observe une volatilité accrue du cours de l’action, notamment en lien avec des considérations politiques et des fluctuations du marché immobilier. Malgré cela, la société maintient une impressionnante série de 153 trimestres consécutifs de versement de dividendes. Les analystes restent partagés quant à l’évaluation de l’entreprise, avec des points de vue divergents sur sa performance future. Les investisseurs semblent attentifs aux résultats financiers récents et aux perspectives de croissance à court terme, ce qui contribue à une certaine instabilité dans le sentiment de marché.",
+    "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Home Depot Stock's High P/E: Justified Premium or Too Pricey to Buy? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd2lHcjJNbWZXSmVCeUZ0SWJPcDV2aUFzMVRxRFBJZU12NnFKcWoxd0RvT0FBbzg0Tlo1N2lJMjJyM0lmSEtLeWFfdEJnZ25MVjQ0WVh2eFZTVGxuSTgwcHI0T1d2THJmX2g3SWgtcm1rdFdQSVVUek94UGEwUzBhTDl3U19zc0FTWGJoUHMwVlpZTmliUTlGeHdmLWhNLXpxN3ZvVWtSR0E1MDdjUzFQZGNrQ09sR3N5cVE?oc=5",
+        "title": "After Earnings, Is Home Depot Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkItMTFYeHg1NXlob3Z0RUJ2UE5hdU83amlXMTlPVmZOc0tDbHVwM3kyaUxseFRldUpIS0h5NFNBdFJucXA0TFJ5S2l5NE1VU29mRklLdmNqY2hBZURyQmZ4X2NBWmY5TS1sRGpZZWVwQ2J4QzhmM3RydzUzWm1STDdZc3VHVENsYUx5U0IycEJWMVNZeTVuN3ZuRE1rZw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWmFQcXZHU2ctRmJXTks1RzFsdmU1a2NDaDdTT19DQnVBSFhEYm5tZkpWUnFrajdTcGRlT3NNX1VqaFpaay1fQi0xdTR6cjhGRFkyOTcxV0RXZmR0UGNUblJwazZhVG43MzVqMGI0WThMR2huXzRtOVVmOHRQVHM?oc=5",
-        "label": "NEUTRAL"
+        "title": "“Ground Zero in…Deportation.” Home Depot Stock (NYSE:HD) Slips as Politics Get in the Way - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHR4U1VnYXdvS1FSVzkxWFQwN0tscGVNODJETXRCcHhZVktJaGtwZW1SQmstNVBtOWM5VkRQZE4zbDJ6cnMxaXA3SkZTRm1BTWQzcUllU0V2Mlp2M2hiQ2pfbW15VjY1UndQNXFnTHFYdTdTN3hqM1RPWTZZZWNaLWtpUkZPa1liOUN4bDFLMkg3Z0ZyWVhrdUEycWI3d3hqcUJWMnhVNXlZZnNqTE1VSTQtbw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "3 Top Dividend Stocks Analysts Are Bullish on Right Now - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZU1kRV95TjRkWU5kb1ZNQklrdzA1ZlRPU3ZjUkJrVjEwUC16Z3VwX1prRzY0QTZteVZxdFZHX1V3LWRRTk1leGs5ZEEyRy1PNENNVnlPd0FDNkNqMHlyRFFLOHlmSUhPMWZta0xOZ3BXQ28yYmtwRG4tcWVPbEdHcmVtbmtjUUFSTU95Tkc4TVZMMHBhajZwOHNXZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Home Depot Announces First Quarter Fiscal 2025 Results; Reaffirms Fiscal 2025 Guidance - The Home Depot",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTZCbExxWmJ1a3VqeHNpMUlKeHVRajJ5YU5BRmxBNzc5YUtZSS1MZEdRUlhuVldHX1A4Y05HeElKMEJpZ0FMV1JlSWpGdWtnVExRWTlwaTlyQlBXOC1PemVCWDJOOTFiNElqQ2ZMbjVKNXgtNS1PMlR1SUVjMVV1YUZEOWpkMGtlbW5UdmFyakZlYUtsWDlTUkZ3?oc=5",
+        "title": "Simplicity Wealth LLC Increases Stock Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmp1OFR3VmpVZl84TjdONTVWRC01MTRvUGRqb0V0MVNPWGoza25ra2FEMXdkem5fTUl6M0NLU3lfTDRtaXc2NG5ycUcxTjh1ZGowMklfTUpOcDFnclJyaVJxVUw2U0o4MmJXM2Ruek1lV1JCTUVkdTBWNVgycjZQUkFiNEJHZkJWUVE1QWxiTnFSckpDNElRd2lYRXBwUU13Wkc0X2xMSW0wbmM4STlSTFo5UHM2Vk1YcEJkUERXUTg4TEFBbl9Hakp6aFU?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Home Depot stock price target maintained at $470 by TD Cowen - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3IyODF1cEUwbmVDMjc0SUtWZTVJM2VjS1pIb2IxbzJzWllTTmk5Z1l6ek4xdWswVk5idEpJT3JpMFBockZNTjEwMmt1bDIxdzBKZ25HOHlHaG1iajZ3MURRUHIySkxNcW9Fb2tPSHU3MGlBZzFCbGNITXl3UkpZRzZZZG1UdWYxWUViSXB2WGRRcFBVTlh1emRHdUxoNUVLQ3RnU3lRU0k4ODB0V3VycEhpYWtCSXNQR2tJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Home Depot, Inc. (HD) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PWU12QTRabFgtM01EMlVVX2xaQ2F0S1djMW9XMEdSdmZGN0VKM1ExNzNPRlYwdUpWQWIyc0JWRDZRZGlqZkcteDBwX1huSHpsTzctTEZ0THF4TUdRRWhsckVmZlV6VjFKOTdlYWhhWk83c2J2MnRBRXJGZGw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Want $400 in Passive Income? Invest $10,000 in These Dow Jones Stocks. - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ2JYT0luQzFjUEJtUEVqMXFwTjM0YzU1bTdmMjBjcGNGdVpESVBhOTYzWVd4VTdaeFJPWURxN2pVTFZkT1k2Q0E0LW52Y2dvZEQxN09WYmdVZS1lXzdzcklqUVMxMW1qN0I4R0ZTQ1R1dVJ3Y05NNVl4TUdjMl9UdXBJU3AzZ0pTYVQ5ZGRrNFJEYS1YbUFjaWxSTUxaY3NNSFQyZ2NTVU9WVGg4Zy16RUZPdEFtSkptbTg2Z0JGUkFlNEZ2cTNYRlZ2cThXVU4ydWNqWjVoRmhzSjRIUmk3dG5OWFJ1eFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Analysts Think of Home Depot and Lowe's Stocks Ahead of Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXVJVXZra291TDJ4UlNnN2ZiSDZtSjZBaUxDVHRabHBWN2dYUmc4ZUxhODJZYWl4c2ZPMUlKLUtrX1BYN3FWbGZoaUZJR3l3MXFVWkdrR3RMUGZVVmU2c2RTemxLWk8yb0tQcjlnbFNNSUg0ZUVOWE44Nnc1T2pmdmE0NExqWG5hcmJHVloyT1VUNmk2X2J5Y1dnQ0l0TVNJSm1McXp4aGo0QXZyM2RSUGxwNA?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Why Home Depot Stock Is Volatile Today - The Motley Fool",
@@ -581,81 +596,66 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "LVW Advisors LLC Has $2.99 Million Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUd2T1U2WmNyRlpBUHhYV3BrOVpKcW5BaG5DMlBMdk5PR2oweW5wNUVLWnBtbl9uMVZwZXdTbTRwajJxWjJ2OC1zUkRiTkFBRHlUdFFKMktXTEQ2eGFzQjJvSWp1NkxMZVgwNjVreW52RTNmckhLc2dDTGt6VlJjNjdOTVB2ZHNHZDk5UFA1OFhhU01PY2hDV2xTRmFZZTV1cGt3QzE1cUl4OGdVLTl2UDR3UkhYRlg3RTBac3ptVVhHVkR2QkZOZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Home Depot, Inc. (NYSE:HD) Shares Bought by CGN Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHJSNmRZUHU3bElxdjJzWF9fM3lCZUJ3MmkxQ0VJdU9jcGFvNHB6clVDTzZqNk5oeUExT19DNzFuOW1SY0U1ZDFQSENtYW1iZEptZ0RuUXloOXZtMFBvQTltQi1PQWJkMzNFVGpjSDVOREp5MFB0bHE4a1FUVy1USlZnRjV4MFZ5UDF3MzBoR1NaNndiRFJWRDFjdXJSZGhxcVRjNzhYNWxWRUVQSUh1UXZlYTNWVXYxczFPbXVoQmFUMlMzQlJF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Home Depot (HD) Eyes Stock Market Payoff With Contrarian Tariff Strategy - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RODNzNUJxaExEVkswMm0tSXduOFB6dWx5a29MNmtySTNmN1RadUFFV2hIVzlQblN4RjVhWTNZaTltM04xbFJXckMycTAxcy1FVFdCUXRkbUlrM00tck80b3E2Xzd3YkhRTXZKNngzRldweXlLYnRaYnNB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Sells 9,900 Shares of The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWW80bGZhZTE1OUV3WDNnbC1saV9HWGdEaGZxQ1pNN1NHSDB5ekVIMEZ3WTJneHU4SDhtaW9NR0xVSUFPXzNjMjJkZXpvS0tYWnZKcE9pYmZXbUwzR2U3WUp0X3Zsdnpsb3VranhxLVB6S0RIT0h4azdsbGVHbVlCM3ZwX0twalVYZ2ZIdDRuZmhxMUxyS1NURkw4NUItSWxmd3QxblJueFc1WVZDUmNNUEVCbkIzOUFEbmQ1RmpQa01JbzFtMWhGU3dNRDFWVDE5OVRCY0ItVU8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Home Depot (HD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMdEQ4LWpUTDIzMFQ3cUxWaFRfbjNrN2lsS0tJTnBwVjhfRmR5b2FCQXhsRzJHNHNfVFFzajdZcGR2SnZFQ05qQ3B3bEZaOFVYWl9kTWVyZzd6TmlTSnhxeDVicG5vcUxxcW03SjNDY1hEZzFkaE1nZFY1TQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "NBC Securities Inc. Raises Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkozM3lNQmtmQW1TUTFWZWRfLU5xclNkMS0wdThfNGtpdDJLeDJQVU52RUFQaVU2cnZHTUM4bUt5czJnWGZ1RlVDQmR5MFEwU0ZnalVPeHdBUGJoV0NseVpFbHVtaGloanhTQ0EzcEE5ODVsUTd1MVJNaXkzdF9RN2tHZ1lQblVXWXRJQmFKNlhxd1NyWUo1amoyVUpLaFZuR0xJN2JnRWJBcnVBMDc3cHhianJxaFFmb0xyYzlFZ09SSGRVSWRSM0RfSF85aWplSFYycG9R?oc=5",
+        "title": "Home Depot Maintains 153-Quarter Dividend Streak with $2.30 Payment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemdNQTRjUnljQ2RpYmx1YVhVOG05ZTV0SEIxeU5hNkdGbkNrSUhMZURJQXVFZl9VdzFrWklHa2Q5OUFGRUViX1p3NnVjcFByQ3RiSFJQS0xnNjg2SXJLZk9qZFpEUS1IWFdhLVIzMTZlMkYzXzdPalZJa2hCd0hXTEdZaWpJN1VSdVNiZjE3XzlvcnhBeUROLVdFdkFuRVdVekdPY2Y5cw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Home Depot misses earnings, announces no price hikes as it navigates Trump's tariffs - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VXZVJQbVM5OHRjWVNGRmUzdm1keExURks4eUhIY3VKV1pMc1lfWEVzdXVYY19WblBONmtVMjNCdWxxektvM2RESzFIVk11VHZzbGRDYW0xVWhLMzlSSm1aR0htd3BVODhOeE9EcXdkWUxwZ2Y5dzkyUm02d2RZa2hQWExIeTR1ZkZydVdDSXEyMjZLVnRFdFZFUWh4VEtEbUU1QnoydkJtbnJtR1JNbkZpWEV6aW1qVXIzZWptYjZCa19XaWdN?oc=5",
-        "label": "NEGATIVE"
+        "title": "Rockland Trust Co. Has $12.05 Million Stock Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOThjQy1VdFhPbW1UYWdDeGNRMGd2X2UyQXUwLXdCMDdDSFFXWXVlVDdTWnpfY1BkWEhWN2VMMlhNdXFsRVM1RHpTYWlGZE1TMjc2d0V5VUhuWmpoTzNLYkVSeldVOHdFcDQ1Y3ppTmZROFlzcVpIMmRubzdSZkZKY3dIeDl2M1dRS1FVR2JSRmNicWdERWFYbXpHYkpnVXphdE1aaUlIMkN5UFZvNk4zZEQwUDZ3b01PY3d2LXlzQi13aFBKYkMxMGhBY0RlWnliR3ZFMlNn?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Heritage Family Offices LLP Cuts Stock Holdings in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU5ISEhfaE1jTm9PbEgzam9SbkdqaW5ORzhrZzFBVHJNa2xIdnBaaXB4M25TLWVJel9ld2EyZ3Y3ckJoWWk2VU1TLWw0SFRpTEJBcEFRQmVRdHZBN0N0Q2p6cjdDRkdUQXN3Y1hFZ2I1WVZlNG5nSWdZT1pnM216Uzc3ZXZ3Rk5xRjN6U2x4VkJrUFA1RzlfU0psQ3pfWmNUNlJMVExMOW54VFR2eFBhUWFBd1A1YkVUeHZzSHZGNHU1MDF4eVdUcG1MZ3E1djA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Charles River Stock May Gain From Extended CHDI Research Deal on HD - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRG5lNE1VRTREWjBBaFE5cjFOQV9hQ1BFODBBYjNoVDhiNFhBR05HbFZBQkhxSE14OHZmZTliRkgwYUxQUnhFRGZyOGxtekU3YXQtX0ZXYlhoNnFSR0hWZlhpS01TOWlvZWpJbU1YNVR4NTdVNzFsa0g1T0JidXc?oc=5",
+        "title": "Jim Cramer on Home Depot (HD): “I Think We’re in Good Shape” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Lelc0Ym5KbHFzdDBmMmlhOVFuOXlHYzlzTW9peVVXaTRqREhHbUJNZUg1ZUE0TWdsQ1RHdmJULWFjSldULTAyekM4VVhvY1RkbHlkQVd6LWRaSnJuaHYza2drQ0FONEhVSVZHbzJvRWV5cTBTbnNiVTJR?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Sarasin & Partners LLP Sells 24,198 Shares of The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjF3MU9SM1haYzNwcUx2WE1zNW5tem1VVWlFN1RESFY5cTNoSktmUWdJdmp2R045MlBGSHhjQ0hpeFVtdEpwaWgyb0pyYUJ6OUNLME1xS3BoVnhIN201alh2dkkwTlAzT284dm9QN2tuX1FKbFN3eUV0RHZiaFBUOGdENFFCMzJ2NTVNeFJqbDJOQW1tQ2dUblg3MlVIYmZjN1F0V3hudlNGZ0lfT3lRcGNQTm9hUHlqNHZiV2Y1bVFOSGVJcjJrSFdxc1Y?oc=5",
+        "title": "Best Stock to Buy Right Now: Costco vs. Home Depot - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazhOTXJHUUFZQ2FFVy14V1d1a0dtQmFYTXNUWXBySjRhWi0tblc4VndFLUJ1ZnlxU010dUJVc0swVnNueno0UVZ1cWNpU0tTMkxqV1JhLXJYQWFWY1hYZ3dYaWJFQVRXMkJINDE5S0pKc0twcGg3VVNQOWlmcC1wS3k5WUtXMl9pWGl1azJxazBSUWU1THc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "The Home Depot, Inc. (NYSE:HD) Stock Position Raised by Welch Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjFjMWZLWV82eDh0ajluX3FEZXJNYmlmSHJ6eERyY0tZcW5OaENvRVZNbWZ0U29XNEZiT3ozVGlUVjVjMzhNT0pkbmhHU1V2V1VaaGhubXN6OXg4ZlhXOFVUX0IzN0dxLTYyaXAyTzUxLWNjQ0pabWtoOGQ4b0QtQ1VYcC1Wd2pSMTJQOVFzTEJsRVJhUFhNX3RIRk1sbVdySkM1NUFtQXZvS2trVVlKS0cwNGVYQkt1UThwSXVCdWYwSDk1aXd3dnF3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Home Depot, Inc. (NYSE:HD) Stock Position Raised by Summit Global Investments - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTdmM0pHb0lXcWFCX3RubDRva3lJV2JOREc5cGUyRkpibElBenE3a3JSLUlkUXNGc2JzRnRydlBtamNtQU9jN1doc1dobG5wX0NmS0lFUll0c2dHWXNYdGozRDh1QjlTTi1Ca0pfUW8tVWdYSTNzRFpmWFppUmZHWmFkaEdmajBVT1RNWDRyamlrY3NTY3IzUjBqb0w2OTFSZ09nR1lWSTVhT2h3N2tQWjk0SGtSM25CUlhjOUhRM0lKQ3hLS1BMZG9PSVZtZnJzN2tHX3JFcGMxSkgxdE9RSA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Viking Fund Management LLC Buys 3,000 Shares of The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUDlrNW9JUjhfS0ZzTnZrVm5mVHNlWWFncmZYc21EX1ptdnNQUlJ2Q1dWRGxQVV9JcVN4YzZYWkpxcTRRZUpod2UteFlYVklhWTdNNTg3MWVobFhWbk9RU0ZCZUU5S2dnNFVPUnNlOWRPVVpBVXZXS1Z5RW5ESkdoVllQTlF2aDh6UWZsMHFyU1NMMjdRRWlnX0REODBmSHRjcWsxNEhVd0lWcmY5ZlVIZkFYUVNraXJRempFNGw3cWFERVBHYWtRbmp6R2tZQzNGdTlfWTNmUVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Charles Schwab Trust Co Cuts Stock Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXlrOGZ6SUtXY2NJdXZtRGI0aklhQkdOMGNlZjdfbC1wSHNWSUJuRGdTeHcyaFFidllGVXlJTjM1NHVNMzAtLS1hWl9nakFOeGhGczZpRzVialI0bWdGVUwxRDVXMUFMNy1ZQ0x4c296djRncnBET0wtZVRTZU56YWJqVjJBc1VVakFhRU1EbDBmNzRua2RmaUx1NzFzWjhyekFWYkNaWEpFb2xjYl9LSVJjb3A5ckJWQjZNZDlycExfZlY0cHpEX1JDUWNnUQ?oc=5",
+        "title": "Home Depot Earnings: Despite a Stalled Housing Market, Operating Margin Preservation Persists - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjRqQ2ZnY0dmS1VqM2NobmU4UDluNzZHNHhHaXZtZmoxa29weW1BR0JZOEY0QjJaQld0N3ZLcVNVVGZKcU5PN1FlbnBWazFNeEhNQl9XT2l3eWNxcG1DSVpBemtUU3JPLUJNcnlzWHd3bl9tSWR0N2hsdUV3VnZldG1DTlplY0UyTWV5VnhZalAyZ2Q3UFdPa3RKNHhvSnZPMmxldmYxWlRxa2JiY0tCRWF1RFozYmFJTGNBSWtNTkU3QQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Here is What to Know Beyond Why The Home Depot, Inc. (HD) is a Trending Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ba0pTNUUtZC1lNnpfU0drUWxMYkNTZURpWlE0aFhyRXBhY1JEc2UwbWpUZWtobUphbkd4alU4VnZQY29ZVjl1bTRLcWxBLXp2d043UHZURjdmd2g3d3VDMWFUSFJYZU5fdnlPbXBSMFJiMmt0ZmJCcDRVSXI?oc=5",
+        "title": "Jacksonville Wealth Management LLC Has $2.14 Million Stock Holdings in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNFRZdUdjR3FUdjY5TmNzODR2WFlsNHptckF4UUlLTXJ4ZlVqdlM3ZW5UOHhVdWdNVmdvejB1QVNEcXF5eld0bW9rMC1hZ0J4RVJYT3VCZy1ac1I4bjdSelZTclZFVFMwRDhKT2JCdWdRdDhBTTRILVBsbmFjTXpTcWhfbEp2ZzhrQUZjUU9hVm83OFQ2YjFOcEpvb0M0b0psdmF1WnF6T1F2R1pISWZZaVg2OHlfVWV0d3c4dWQ2NU0yZ2lJSjFwanlieV8tSHlKWGhHZlNQZnR3Z2YtX1UtMnlxYzE5bFRCQmtn?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "The Home Depot, Inc. (HD)’s Stock Continues To Fluctuate, Says Jim Cramer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mRUNSZ1NEa0hBZE5DTHZYSERNSU5LMGp4TjkyTlFIQ0hlYlk0aEM1MHhEYlRMRU1kOUZQODRrbk4yN1JpWnVCWDZ6bkxFaXdSWHZXX3JIeVQwUjFpVnUySHlGNHBYdmRqS3pVaHBjbVB5RlV6d0xn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Avanza Fonder AB Sells 7,108 Shares of The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTdzRXFpQl8xS2ZPcnhWX2tjcGtST2hWNE9oeUlnUU4wbFFFQWNQc090VmlRV21Ual9RNU1XOTA4Z2hiVWpSa0VvRklIMTc1aTJrbE5HenFnajRJTmFKWENKUkdrdWhKM1lfdEFfMTQ0QWdFUDJna3kxMDNzb0N0N2FXdi13RlExaGR1Z3UtcUl6c1ItR212WG0xNkpnT01KU0Y2WnpoSi01QTJNUDNsMjRJWktTNnlad3ZEcklLY24?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Griffith & Werner Inc. Boosts Stock Holdings in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUdyeG44enc0b2pLS3VDN1FSSlJ0d3pTRkpRMjlWbVVxM0dGXzBBWnJKY3JzdmY2OXRDQlloTkI0a1NFclBQbWF5Y2NYbEktTGF3OHV6UWcwYXdmUjFOZWxBVWhzb3JjeGF2eks4S1c4d1UyN0tYU3R2ckk3Y0djV09HcU9BcjlDVzVPSnJfYkszQk9vMWhkeE5CWEIwaU53eHpVNGl5SE9PTGt5QWNraFh0T2JNZU5MYTFGek9sZnZ1QTE3MVlvemQ3dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Home Depot, Inc. (NYSE:HD) Shares Sold by Signet Financial Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1BEaUhDblhlQXh0bV9LZzc2aS1BejdoQ3RPOGlBemNGSk1sTGg3c0RzbjFycE4wMFNvY3V2YTBKenRhNTVqMXVjdmhKdXJqMmRjLURIaHlhd1VxNXVrN3dCUlQ4TVBja2Vlbm11Y3hUNjRGcTVzeGljTERpeTVxbk1xTGM1QjdnU3A5MTBqQkJGbWg2ZzFBdWhadzVQTWI2djF4andqdW9JQzlPRC1DVGY3ZDRKN0N3N05UTEpCc0VrdVNpUTlxSVBxSEYyejFRN1VCVl8yYm50UmtYMEJYNlJYTFBZQ00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Home Depot, Inc. (NYSE:HD) Shares Bought by Range Financial Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTEpYSUl4Znd6WDJfYkQ2R0FFcS1aMEkzdnoxQTZiYzZkeFNKdlMxZGNna21mSnpubWZZWFc1YzlreHUzc1BrREdLMU03WFpCNjVTbEVjczVTLUNZbG5nVWlMc0tTYWRwWnZIQnh5NFNBQzRXUTl0T1U0Z0ZIckRabDhRZDVMVDdGRlFNLWV1U0JHWUNGNmRpS0ptZnhJQ0JELS1aMnkyNjVrVHhHVmpiRG5SemhiQmxmcUtkaHdzUU9JbjhabTRyOHRiUTJIMFRGd1paRC1rWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Greenwood Capital Associates LLC Decreases Stock Position in The Home Depot, Inc. (NYSE:HD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZW9nT1lQa0hNZHJQNW1RUU40VURPd25HRXplZkdEdy1MaWNLOTR1SkdmUDU5UFVDMEExZU5Pd1ppRW5zREdXbENvWnFSV0tISlhQNGlYTVFJdml0X3V1bkxBdGdsQXZ0RGs5MzFTNlhfREgtczhzSmQxOGhCQUI1WExsMGxkZjVBQnBqRGUtU0tIYVc3TlZxc1NkWW54LU1NTUQxaGd1cHVSQlBocXYxa1lqdmh0LWN3X3p4eWY2RDhIVk5qX1JTYmt3ZHhqdnJiZkE?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

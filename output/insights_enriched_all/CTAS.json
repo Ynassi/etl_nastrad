@@ -2,16 +2,16 @@
   "ticker": "CTAS",
   "name": "Cintas",
   "sector": "Industrials",
-  "market_cap": 92006907904.0,
+  "market_cap": 89670885376.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 52.867752,
-    "PB": 20.029886,
-    "EV_Revenue": 9.274,
+    "PE": 51.525455,
+    "PB": 19.521334,
+    "EV_Revenue": 9.141,
     "ROE": 0.40296,
     "ProfitMargin": 0.17532,
     "GrossMargin": 0.4992,
-    "DividendYield": 0.69,
+    "DividendYield": 0.7,
     "DebtEquity": 58.617,
     "CurrentRatio": 1.721,
     "QuickRatio": 0.846,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.15961953120654346,
     "ROA": 0.15531999,
     "PEG": null,
-    "EV_EBITDA": 35.305,
+    "EV_EBITDA": 34.801,
     "BuybackYield": null,
-    "PriceToFCF": 56.79121524082984
+    "PriceToFCF": 55.35971311974373
   },
   "technical_indicators": {
-    "RSI_14": 70.74310391870247,
-    "Momentum_10": 2.7970751808220857,
-    "MACD": 4.5219552181800395,
-    "BB_Percent": 0.7998413278420692,
+    "RSI_14": 52.57964706315089,
+    "Momentum_10": -1.960265978545806,
+    "MACD": 2.4717493016618732,
+    "BB_Percent": 0.2654961726785306,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9189053904361556,
+    "ValueScore": 0.8568402651239506,
     "QualityScore": 0.3708893124993745,
-    "SignalScore": 0.4556064959177713
+    "SignalScore": 0.5806296019149777
   },
-  "volatility": 0.0193716088927666,
+  "volatility": 0.018400876752133,
   "beta": 1.065,
-  "return_6m": 0.022344332450608,
+  "return_6m": 0.0553063377600853,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 16,
-    "target_mean_price": 209.54312
+    "target_mean_price": 211.10562
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 208.3
-      },
-      {
-        "date": "2024-12-10",
-        "price": 210.14
-      },
-      {
-        "date": "2024-12-11",
-        "price": 210.97
-      },
-      {
-        "date": "2024-12-12",
-        "price": 211.59
-      },
-      {
-        "date": "2024-12-13",
-        "price": 211.22
-      },
       {
         "date": "2024-12-16",
         "price": 211.8
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 227.66
+      },
+      {
+        "date": "2025-06-09",
+        "price": 224.6
+      },
+      {
+        "date": "2025-06-10",
+        "price": 222.22
+      },
+      {
+        "date": "2025-06-11",
+        "price": 221.72
+      },
+      {
+        "date": "2025-06-12",
+        "price": 223.57
+      },
+      {
+        "date": "2025-06-13",
+        "price": 221.98
       }
     ],
     "current_price_data": {
-      "price": 227.66,
-      "change": 0.76,
-      "percent_change": 0.33
+      "price": 221.98,
+      "change": -1.59,
+      "percent_change": -0.71
     }
   },
   "news_sentiment": {
-    "summary": "Cintas Corporation (CTAS) a récemment grimpé de 10 places dans le classement Fortune 500, avec un chiffre d'affaires en hausse à 9,6 milliards de dollars. Malgré cela, des ventes d'actions par des détenteurs existants ont été observées, tandis que d'autres investisseurs ont augmenté leurs positions. Les analystes ont fixé un objectif de cours à 213,88 $ pour CTAS. La société semble démontrer une croissance solide et une attractivité pour les investisseurs, bien que des mouvements de vente de certains actionnaires puissent susciter une certaine prudence.",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "summary": "La société Cintas (CTAS) a récemment attiré l'attention des investisseurs, avec des signaux positifs tels que son inclusion dans la liste des meilleurs lieux de travail de Newsweek. Malgré cela, des mouvements de ventes ont été observés, avec plusieurs investisseurs réduisant leurs participations dans l'entreprise. Néanmoins, certains acteurs du marché ont accru leurs positions, ce qui suggère un sentiment partagé parmi les investisseurs. Les analystes ont également émis des prévisions mitigées, avec une recommandation de performance sectorielle pour CTAS.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Cintas: Good Growth Prospects At Fair Value (NASDAQ:CTAS) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjNKRzVDbEhEeTVnTUdLTkxoU2FwMjB1TkxST2dmNUE0UjFMYXRKVkxKTFBTZkkyM2RMZkZXMTZoUUNWX0FvQTNXWlNXdUlCVV9Iclpya2lGUlhEaVBfcEJhNE1uMlY4Q191dVJfX200U0hwYmZjWGIwQVY4N3Q0dEFyMldDUWpKMXJz?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Are You Looking for a Top Momentum Pick? Why Cintas (CTAS) is a Great Choice - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdl81QU84eTJDdHQzMU5DZjF6SmFGQnNJSEo3ajVWcnNmQlBJdW43MUtseG1MOENBa0dHY3FlaHNPSmQtVnNPUlhXZHJJTV93R1NOUkYtaXROMVVzNUdoWjdnT3JDbEFxaXlEbnBDMVpFbkdpeFppM0dHQ3M4WWJERjk1eDROZFQzSk9EZEZqRnh0S3FzX05rdlBWVkc?oc=5",
+        "title": "Jim Cramer Says Cintas (CTAS) Stock Being “Up Here” is a “Terrific Sign” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWC1iUjJQVzJBY0hTeTBvUzZ3S2hwMEsxSjRqaEFfSjJwRzJlbjZSbklERUVxdkdtcEF4QnhXYjBlNUZCT25GcnZ0aGdDUUlMNmpsc0Z6b3RGeTB5Y194cUZNODRyNTd2c3NFTzNxT0tXX2Z4eURNMm1BelNsNEhFaE95TDM5R2dvUUdpc3B4OWlDd2ZJRjlHLXV2SXpkeGRrVmtNcU9RZUYtRlloNnZaNjNMQXl1aWxiZkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Cintas Stock Outperforming the Nasdaq? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHdKc0ZIcDBOWWFFOC02Q1FxWk1iSUcxcmhURE5qOWJQTzRCYnZjSE5URnZxeUw0Nkh4djhrSGRhM08xMHBZb3RXVENLdnhoMnJhZjVrNERpWHBaMTdzTU9nd1FZdW9JSm0xTzNZX3JEbWJ5UDJweGk4V19PQ28ydjhuMTdmNVdjS1RmUlJEWU1ERW9EYldsd2tUTGF6eEhQZXNKS3FwOWFRZUVfaERBQnZxd2gwcS10d3MyRGtZV09ORl9TbC0w?oc=5",
+        "title": "Cintas Co. (NASDAQ:CTAS) Shares Sold by Abacus FCF Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG5XRlo1Z3JrLXo2c1ZZbFV2ZnJCUEtVRERjWnkwdVFYT2dnWXNkUDZhUkJPWlBTdkFlVHFwTWtVZ1F3eUU4Njk5NEtIejJudE1PNWtIYmQzOFZBajd2UDc0UGZXS19RMi12MjVROWpoSVNMaHF5YkVYRl9JVWNqal9WcS1nVmdKZ3hBc2lzVnZLd2lmaTRSTkpxOUl1Q3QydTlxS2hQS3I4QWIwX1o1TkpzeVZCU21UQlkxRw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cintas Achieves Rare 3-Year Streak on Newsweek's Elite Workplaces List, Plus 5 More Major Awards - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0hxRGlZU0ExeWtpUDRxNEhFOENQOXRha2ZLZDJYSlpoRlJlbk9hUHpuZzFLWDlVaTVNbXpkQUlqR0tSTlprM1JqMlBudUdVeWlaeXczdFprQlJvb3pLUUQ0MGowalF5X1UtSk1pX3hnaHZ1a1BuczlaT2R3T2JZdl91LUJhNjYzaHpCN0Njb2p6UVZieUowNmVIcWZjeFZaYW9yV0FNalMwM1JJblpDLVl4ZFRwdTF3Zy1HLWxkOW8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "New Analyst Forecast: $CTAS Given 'Sector Perform' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGpFOEtsUkVXT3RLRjhreTdYcXNoMHljbVlLRGZHenRWRlRBZ0hiZXFXWnhrRUJJZ0FXZk9rUktsY2JuaDFLMnJsYUlsb1hQSGxGNlFtNERBdUkwYVNQM2xiNUJNOXA0bnBXbVZRcU5ibGhCNEtPOUlRemN4Nk05NHBiTW45RTVnZFNZcGRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cintas Corporation Named to Newsweek's America's Greatest Workplaces 2025 | CTAS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc09fXzN0OEpqRUVka0VZXzhkUUh2QVlaczUzdWVuX1RRam8tS3djd0dSNUE3ZDIydVFyUGxyRExMOWVXLVFRMU5TSVgtWExXai1JRkFrTmRtV1hlNEM3ekFuMHdIbFJTLXlnRnVrRzF5czZuWVF4U1M5YzVQYlVUREtZTFo5UmE5WE9BTlIyVDV1dGNRdVlVYnNGSV9wZklTWFk4UV9tQUpDTnVuYW1oUWZLV1laTkNKSmcxSmxERk12TFBh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Franklin Street Advisors Inc. NC Sells 8,767 Shares of Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2J6TzZXalJrTFZnUjdPaXVraV9INm9OOGVFd1VaY1lQTG5FcGU1U3MtVHZicWpLb0lnLU1EQWFuWE9TQzh5eDlhcnJyOE5IUlVvQjh6ZFVVaEgzU3pWT0Fwa29UTU0wUnlKYmpBa1h1QjJ3YTRyakhyMi1RU2ZIMHA4VXA0c0p1R095REd4c2pQRGJfb2diYmxwLVZJY3UtMnZ0eXFtMjRoemFsMWJ4MzRpOGtrNERsZW9WbGtCRVR6UVNlalg0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cintas (CTAS) Price Target Raised by RBC Capital Analyst | CTAS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0hESGJLUU9QMW1TWTM2cC0xbHBubHh1d1Q3cXJyTE9ERUV5WURfUkI5eXFyRFFSTlRzdHVRNTc3cUZ0bTJGdTkwOVJuRm5UZXhWNkZ0dHVFMEZfUnBpVU5OaDFtWHdOUTF1bExCZ0dUa0V4d3hkVTQwS3VHQjBhSXFrdnVPV2RDcDRCNXJidmxfU0w4UllGNUxST3lMUXM2N3lubjh4WEFjNHEtLWlJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yousif Capital Management LLC Decreases Stake in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaW5fckplSFZVMzBtbEVfUFloVWFGU3NQcW9sdzlSWHc2Q19yS3RNN2wwTE8wNDBWNGNSdVd3dlVzTnQ3b0NsY0s1NFhzTTVMaW9jZjJOZW5oRVFmUU81Rk1wRU9UUzgyaXVTZG9QWVhmZUdHMjJvVndOdzVQM1hjZ3VzTWNJT2NWaUctRWNpQ28ycnRnNEcwbTBRcThOQVlETE9HTUdXQXFjS2x6aktvLUtFaVd4cHMtUE1INFhUSEw3dnpxaTltVkxLcVI?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Milestone Asset Management LLC Has $467,000 Stock Position in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFhOdUl5cmdjbVl3WlBRY2FTcEtmaE1qX21GUGdZVFBtUTRnb1ZOR19PR1p0M1RSbjRfQ2tfbmF6cE1rU2ZoVDdCYmVmVXllUm1TWUZQSnNqZjhOSGZ3UzhGRkJkUlFTTlYtMHBkTjFjUHJYdmxrNURiN3IyMUt0cEt5QW1mby1KMExjZ2tDXzc1dUVXa3d0OEJUWUwxNzVoOG5GTUVLRE1TT1R3QW9jSnhDeEtUV0lJYVN5dVM0VGQyQnUxNDhZY1IzOWd4UQ?oc=5",
+        "title": "Avanza Fonder AB Sells 1,611 Shares of Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWJrSFkya3NJckVab1hXOHJMeDhqSWZfcU5wTWxvRnFjNjh3Y2hJYXlIZjc0ME9xaWR0Q0RQemJPYnpVblU2YmFqTjJGamRaWk1kbUlXUWVEUE1IRG1SczlJX0FqZ3hhWHpzUW9sSkg1SGhVT0VsMllncFFfLVcyWTZFelIxOUI0TkVXNGxUWXJEOGxMbTEwakNDT2hTcHRaMllKNmZKekh4LTQxZjVHVHQ2ZjEzT241cDIw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Cintas Stock Outperforming the Nasdaq? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUNNWmR4UnhWYkI2Vk1oQkRGQS1WZ2szYWNVSXpKUEd1MHJUSzEwdDhlcmlyWlB0cmwtZENZR0cyT3dveU81aTFQU3NXRlRZa29mUHdtcTE3N2pTTXlJakFJdzd3ZmluMS13TDhpVXVaaVFLNEdDQ21SSEhtcVNZdE9QOE1ZeTBwNlpDZVVROFdEdU9NYWZFNGNR?oc=5",
+        "title": "Cintas Co. (NASDAQ:CTAS) Shares Acquired by Bensler LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWtZUWNQbjBkcXRVNFc4S29LMTVlcE9IMl9naloyTEEydGtCLXlQU3BJQl9mOTh3aGUtajMxZGpGUWcxSjdsNXRxM0prTDdDZUF0YU5iYnBkZHoxeEZ4MnNwT3NYNHY5OExqMjNqcWNLdUZ0ajRoNDRBQVQzQVpTM24zbE9kT0JoX094WS1sYlFOUGxqdkhWZ2dzQ2psWWltQW1ycXhwRUFoQTdGSEFudDNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paragon Advisors LLC Boosts Stock Position in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX19xSVFVdnVoYlpXOHk4RF9TNDlIZWROWFJBdE1odWdVV0FOdzZFUG9SNXpZaWlRdzVHejhOaGJGRWRrcklIZDJWb1FrdERWcVJtMWd4Z3dVSWRIZmt3V3Bsd2N2SHhRZkdURlVxNVRXTlF1TmV0alV2UXV4d1ZMS2tHUlFSSkFiNzRuV19HZVF1QXhIYUlxdVhtX3N0LWhta0F2SlJJVy10NVlxeW9sckFNTEo1MjY0Wng0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tounjian Advisory Partners LLC Takes Position in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTFQWU1VdlBDT1ozajA0MHdZM0Nwb0swaFVBREc5YjRzakl0MlRUWGdhbExuYUdCcm9EZzdfMFlqeXBEVzB0SGJJSlJ0Y3YxU2VFYTB6QmN1Z0NRcjVpMEpTYnAwYmZ4RjhGZHRCWkJZaDZvS1E0akcyTDVtOHdhZUo2ejM1dy1IZlV6bEdrQjFKcGowMU8yMHlOUS1BWHBMcUZPLUJqNjFkOE1TMk5vWmZac3FuanhBNkk4OEI1bkl4aXNXNUN2SjFxZ285aEFRaXBLY09R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sanibel Captiva Trust Company Inc. Raises Position in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnVOM3lxLVc2MlR6Vi1CMEZzbEk3VTdDRHFXQ0x5TEg4QmJQSTJMS0FDQXZWZUNFSUhKbXJ1WXdaWHQ2b2lLNURySWRhak1BM2VIZ0p5b2FLUldXcVpsVThKaXBPdlBxS3JoUW13M3VNRHpudzhLa05KSUZqeWlHcnhEVVBHX0prdF9UVUMtYXZuem5vQmtnX24wb2tBbXVvNzlReldEYmdLMnFYb0VhU2xKNFpXYkhwRnJkSmxObU1TVV9FNlBmdEhSMWI3MUxa?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cintas Co. (NASDAQ:CTAS) Stock Holdings Lessened by USA Financial Formulas - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTmFkckIySnNEbnpBUW5RbG0zWE1DMV84TzFqcFp6Mi1tM3RPWkFWeWE2VFhrMENyWk16VHJEMHA2dlZTR1NTZWZaVjZRM0ZnMW1DTjd1ZGJmQU56VlBaQUYwMzRfcDN3OVI5b3hSWnhpZ2g2QXlrZnhPRE4wSVJtX0hMOGVzR1BYYmhyak54ckVRQldtNkMtUzJQQ0g3X3Bua2pyZ2F0a05McEl0YXRIRW9vUy03VWxPUFVLbUtOREN6ZktVbS1EZw?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Latest Fortune 500 Rankings: Cintas Leaps 10 Spots Higher as Revenue Surges to $9.6 Billion - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHZTYU12eWlLNWdnVzE2THlKUTE2a2E0VWlUVzhuc1FPT2NjVW1vYlFOelprNWNEYnJzcDBhaDNWY3ZyTUR2MHNVWV9ycEFCWUhjbHpWbGI4UlJEdHdOeldBdkd4TVpxYTR4dlhMN3dhNUFUQ3lEUGFFczRrYkhCZnRXdHZSOHE4R05nX0l1aE5QaUttTTdiWVBXdVdmR2VtUmtTU2EwVVkyV0tC?oc=5",
+        "title": "Cintas Co. (NASDAQ:CTAS) Stock Position Boosted by Trueblood Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUsxTVoxVUcxZVNvXzBjSS1COF9Xdm1UZXZ4RENvOFlLLUR5VEpzZXhudlpCUGdyUVRqTEQ2Ym8zZDZDWUhZSFBlWjFnSWVTNk8tZnpqalY0WTc4OFVucmZwSE9CUmJrcjd3SG1Rd2xjWWRLazUzZ3VuRnNFWGpTS2FEQW5WelNJN24yLWxKdVUzdlh1Ym1xRl95YmNpNy1Vd0I3Y0luLVZ1Mkd4MzJDckRiYVcyUEwwQV9FX3lRSzY1MmxVbnRscXpXRDFSVUwwelpr?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Cintas Corporation Climbs 10 Spots on the Fortune 500 List | CTAS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnZIYmZuaF8tZXlpQmFsQTNoUE0tVWRXRXpmQXhkc2ltblA1aFFfVzduNzBPRFRObkVGa01odWdlNjZVRXZzWldLX3hWeVRDaVVMTi1aa19OUzdrUjNUeWJKU0dyMk9CaFNkaFBFRVkwcHZTTHBKNVNiSU9DRXl3T3puOF9aRzJJX3p5YW5VVXluZ0hlckJpTzQ3YXBFbmlzbzQxZkhzVTNvZ2toRmlOaTJISUE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "$100 Invested In Cintas 15 Years Ago Would Be Worth This Much Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGxiOEhJX3RXUm55dDhWblhJRkpYX1FGMWozTVRRQ3B1ZDZBZXQ0QzVQLXF2YWhiWlNvNy1iVmdGaGpQenNBanJuSXVhbVAwSkk1V000S09hMmJabnlBdXo3UURkZE1NVVVnbWhjakRvRmxMS3VFNDJmYkRaaUlVdF9BVG1vQXI2YUM0SDJCMmlPTm5zUlJ2VkxvcEF5YjBiVG5ScXRpcERURTlsSU9iMzZKemcyb3NCc09KbQ?oc=5",
+        "title": "RFG Advisory LLC Invests $239,000 in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0s3bzcyMlMxOGNNSklxWEkyNXN2VC1kNmVlMkFwWkdUOEdhaFZaNmFjc1BaZUtjMlZRNXBRZ0FyR1NJdS12WERrVjdrVG1mbklqbF9VM3NrcmJuc0JKS29rek42X0lhb2VwQUNuc1hVZm8zemxrTjI1SkxOaXVmOHZWZHg4eE8zLTFKdTVIb3Z2SFhja191d2tqLWpubWdONTZvbnpJN1VGMno3QmdMNnBMZlpwVEdianMxSGZiSlB3WGJm?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Business Services Stocks Lagging Cintas (CTAS) This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG1JZ0kxOW9TQVYtZzltU3Z0aVdCSGtocV9xTl9Ca3JPVG1TWVNYSnBaUnhMV3JDY0ZsV2tKTEFhVkhNZ3lJYzlBSThTZEE0aXZ3SV9Jd2I5SXctbnJ2SkVsNDZza1I4RlhTaXV3ZjhIdDBkT1dpZ25TUkpCZ3hZdlpObHdzMl9FR1FISUxR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Unique Wealth LLC Grows Holdings in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3R3SUp3V0xTb2VCcjM1VThQS0gtYWJ6UzdpTFhaME53dG52YWRtTVFBU1BhU25sMjlWcDdJNFY2aFE0dnkwRlVRSVNzVXp0RGVIM2NMV1N3OXY1YWJrTGd5VXUyelpocm0zcnEzOFFmaTlQNXJWc080cjZRcFludWdzTWhJSmxIN2xLVHJJamFpdi1udzBmWUZFMkRoTnVjRldkZXJjRW90d2Vic0VxNWk3ZWY5dTNT?oc=5",
+        "title": "Cintas Co. (NASDAQ:CTAS) Shares Sold by UMB Bank n.a. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFZ2SlFhZGZ4TjFXM3Nhd3BWUkZqWmFyZWZYV24tSUZlYmtfNHNzZzg5UGxuYVlVUl9ZVWVJcWQ1RW5DR3F0eFVmNVFzZW1XeGx2SDB5MWI4YWVjcHJGcFdaVjd3U1N5STdaWFFucHdHNjNSSzVmSnFPVWtCREVWY3ZBQ252VzVSNUs4dmd0RVRuZ0VCbHFLQ2VoVXJfVnZjNDdVVG9QcWpQRmpqZFk3ZXNDVk0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Cintas (CTAS) Outperforming Other Business Services Stocks This Year? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnAyZlZjUEJmNEpKajdaZVlZOWlhMnRSeTFicS1oWnJwRFZYeU5IeVFvSU9EY0tmUmlwLWczcnlrRjhEZTRvUktwbzVFQ19RRTlhdUo4SGtiMzF5NTZIVV83eUcxbGtUclRiNnVkb2ZUTWZxenV6aWthankzaHlkeUxjaGVXUUx5RUsyZXdOa1ZPUW5vRjI3c3JPcw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Merit Financial Group LLC Boosts Stake in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdy1FamtqRXh1ODl2R2lsTHRkVm9DZWYwaEwtc2JpM1BfenJGZEhJR2NxVjloY09SaDNjRVZmYW5Pc2Q3M0NsbFlYXzRKZGxLN1hFQS1lemhCTUdyZThJS0I0aVdFMTlnUl9hSnNKNE5INml0eUpUQUxVV3UxQVA1OFg3blpnUTc3ZDRGNnJGbkdJVTBtVWNxT2NScV9MUEQ5VngzN2hub1pra2RPRnpiTVhmUUVSRWN4MHRIVkhFcnU?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "CTAS July 25th Options Begin Trading - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtQW8tYW5lQjljNVJleGZIQzVGellaZURqYmJ2SUtJU1FwbXNTZTFsR2Jrd1p0cjFMOEJQNE4yYlJDUmdCZzlwMGpXZ1pneHh5MGJjZzRaNjhhUWJBMmR0NDVTTXdRWmRDejNNUUJaeUc1Z1RudmRZ?oc=5",
+        "title": "Cintas Co. (NASDAQ:CTAS) Shares Sold by Fort Washington Investment Advisors Inc. OH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1ZYdmw5QlhwSGlya0R1QV9EVkdHYjFpay1PRXRYMTYwQ0pEYTNUTnhOWDMtNElXQ1pubzYwN092MlFLMmZsZkdReUFlMjFKb0l4bmxpVHlRRzN4TDZqb1lFSmw5d3plZWI0Z1FTS25FZHE4X0xlS095ZXRPeXRZMnI0OWIyZ1pRREFVSTNWcG5uM1FrZXpxZ2RFNnhVYlVTVTZJX0N1ODNyVGlmUkQ4TVJ6RGlOZzRVd1Z2U29vV3V3UXVUYUhLQWRZUjhsdVptb3ZVV0U5VnhzNnc3UFE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Gradient Investments LLC Acquires New Holdings in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JobUxUOVFaZzNUYXUwX1U2VjJudEE3aU11a3k2VEJqRnM4RDc3QWZqZVhwSVJyX0RGU3V3dXdJNE5UaGFLWmlfOWFPT0QtNTlPTmh3QWpXa1Z6Z3h1LUFUejRxLUFHUzctT3pMbjhKZUVDVWpJNUtZT1VXOFFoQ0lQdTJORkVWeTBlenpGVWNBZzZSZVk5ZndqY0dlVWhRTzNKUnJHRW5LTDYweHdfOGZpNGpiRUJ3VmR0UFBQR0poZw?oc=5",
+        "title": "2 Jim Cramer Stock Picks To Buy in June - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFpaMmFXanl4NjZRRXgzR0l6NkhGc1hmOW95eWt4WUdKNGlwckFDazBxWmQzM1VYdmU4bHNJWkZGRnBZOGI4WS1qdXVXbFc4YlpsUkZ5ejd4TEhCY2JMQWJRNFpObjhaUzlxMDZJaFdveXhnMk5QVXhHbl9OSTl0N2lFcEY3QUxLWGhr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Czech National Bank Boosts Stock Position in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFl1REZKUVZoRVlyaHpqV1QwbjA0ZzVOdFpPT0J2bUZrNlIzUmt1MnNQWlhOb252TWVRYnpGZGRpM3NkelY2TVBJNXVmeFc4TWhmTkktSFFRZXd0OWRyaE1rUXFDNnlhYjF5a2t6UkJTSUFOOXozM1d4WE5ScGdyNUsxcHJqcnJKMlRBMEd2SkJOWEVaUnBYclVkOHhweU15UXdCS0FjMFNhU0d6YjZzekZEYVRBZTJmVGZwNA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Secure Asset Management LLC Sells 1,268 Shares of Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzFTWkdtYnRpa3Z4c2lKNXM2T3o1d1BibXpaTFJ6T2FIdlRKRzlaNTZqTG44X2hvTkw1X0xERGRfYkJTNTd4TkVpejRwNzc5dEEza25SRUF2cU9ad3doZUtPdGpzSVRHQjdaYnJxbUZhcXgxaWJwYjRrQ3ZjZlhxcEd4d3NRRWEzN05TbmNjemxQR3BXb0lNdEhsREJWMGRvS1loUU1yWkFLTmpLdzMtNmpOQ3BqejBxbWdCUUwxRXFlNXNxcmJDLVpB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cintas Co. (NASDAQ:CTAS) Shares Purchased by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3JlQmlEUmN5czJvOVA3Qi1wN1IybTJoY3h2NENFY1l4YTIxdWZ6N3ZEYS01VFJHbnFlVzk1dnlBbjNoM2k1dDgxZWljbUxiTEFQaXgtOVEtVFREZGZycnBhdTZhSjg5V3kwWWtNTzFqcUhILXpGVWttMTUxOTJQd0V2d3hJZVlIMFZvUFRYR054UEJPeE5MZ3lwYWNNa3FDX2VDT1V2OW5Pd0N4Wmhqb2hTdEJfWEFpV0pONlZGcWM0OU9wNzZPNFNIV3lJN0Y1MDc1ZElDN0k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cintas (NASDAQ:CTAS) Stock Acquired Rep. Jefferson Shreve - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakNvLV9nc3hOcHZ1UzAwdHdBdWxuNzJSaURkeDV1OS1FUFJpVGlScFlBR0Exc29qWWpZUjBaN1NlRnlIMEZ1T3F0QzA3SmZvMnYxTi1POHphS3JoNXBrdzg2LUFWZ0JNQzF5VlE3UUdDeW5NREEyam02ZlU2SEVHR2dnS2VFOUFXYlhKQ3R6eFBZMkhWaG5FNlFSVTFSNEJEU21JNEtHTTBvZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GTS Securities LLC Makes New $239,000 Investment in Cintas Co. (NASDAQ:CTAS) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXFGc2FvdEFja0NNX2tmZTBJMGF3MDZaRVJRdHdpcGNqd0Z3aExteEJwbWF2U0N6VEhGNGlMNTd1bHRiMnNwRUhHWkd4ZU9ZQ0c5RUY4aTZaRHFPVXFOaHMwWmNoNklXZU5tZ2d6d3hhR1l1dk5PRkhwcXpPcHRjZEI2SlVtY3VOMk9YYU9vU25rQjR6ZWE3T1dUZVVOSEdsdTZOU3RBd0RwWXBPSzRod01GNG1YVWFVZGkwUU13MWp5MDRCcVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts Set Cintas Co. (NASDAQ:CTAS) Target Price at $213.88 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSEhxSjgycUNUajg4dExiMWxDQWJ5WmdweGQ4T3ZYajJRUWZhNzBMT0NtWWYzZzJ6VnB4Q2NzamF5ZndqN29jWVkycy16YVlhYVJOUUFtOGN5V09HS0VlOVJzTTlGZ1NWUVhYaFJsNGpfMTlBYTlNQkVtSDJnanBqWnpQRW5sS2p4VTMxUjlXOTdHbXp3LTl2THZEMFdONWd4WnJBbE9yRGF1ZlBIN280T01xZmNSb2FFRHJpT2YyUktCZ1lUeGNiYnJ3?oc=5",
+        "title": "(CTAS) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTZDamJPM1BQZThOYjdyM2Q0clFQel9jczIzTlNqQkxKbC0yUUxSMGw0NW1ZdUhkRExqa0RRUlFOYWpBRmdNTDlHSTNfenRVUktURTNKeWdENEFqTHhIU3FSbHVPRHZKWEJDb3AtbEFKQ2tiNGxLZGlwZFN3N3R0ZWR5UUlVUmUtZmZlbG1ZaGdZTmw1NkV5VnZB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

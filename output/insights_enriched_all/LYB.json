@@ -2,16 +2,16 @@
   "ticker": "LYB",
   "name": "LyondellBasell",
   "sector": "Materials",
-  "market_cap": 17991972864.0,
+  "market_cap": 19354707968.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.370241,
-    "PB": 1.4807565,
-    "EV_Revenue": 0.729,
+    "PE": 20.83737,
+    "PB": 1.592911,
+    "EV_Revenue": 0.765,
     "ROE": 0.07437,
     "ProfitMargin": 0.026819998,
     "GrossMargin": 0.10105,
-    "DividendYield": 9.86,
+    "DividendYield": 9.11,
     "DebtEquity": 103.883,
     "CurrentRatio": 1.827,
     "QuickRatio": 0.911,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.036632010599735976,
     "ROA": 0.03849,
     "PEG": null,
-    "EV_EBITDA": 8.145,
+    "EV_EBITDA": 8.555,
     "BuybackYield": null,
-    "PriceToFCF": 12.44136188567485
+    "PriceToFCF": 13.290541223684864
   },
   "technical_indicators": {
-    "RSI_14": 47.730352617483454,
-    "Momentum_10": 1.9942530953359872,
-    "MACD": -0.6724177691651789,
-    "BB_Percent": 0.4385721454360435,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 59.798558432981615,
+    "Momentum_10": 9.189039140646743,
+    "MACD": 0.6337233108289553,
+    "BB_Percent": 0.8855201049627659,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9332611128667998,
+    "ValueScore": 0.8947237328370192,
     "QualityScore": 0.3152845386865266,
-    "SignalScore": 0.5829714885995196
+    "SignalScore": 0.4872925359488043
   },
-  "volatility": 0.0254006263472144,
+  "volatility": 0.0258562721886381,
   "beta": 0.842,
-  "return_6m": -0.2357534370422928,
+  "return_6m": -0.1700457743357737,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 20,
-    "target_mean_price": 69.3215
+    "target_mean_price": 69.306
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 77.31
-      },
-      {
-        "date": "2024-12-10",
-        "price": 77.64
-      },
-      {
-        "date": "2024-12-11",
-        "price": 76.45
-      },
-      {
-        "date": "2024-12-12",
-        "price": 76.18
-      },
-      {
-        "date": "2024-12-13",
-        "price": 75.67
-      },
       {
         "date": "2024-12-16",
         "price": 74.68
@@ -537,37 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 56.54
+      },
+      {
+        "date": "2025-06-09",
+        "price": 58.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 60.58
+      },
+      {
+        "date": "2025-06-11",
+        "price": 61.12
+      },
+      {
+        "date": "2025-06-12",
+        "price": 60.13
+      },
+      {
+        "date": "2025-06-13",
+        "price": 60.1
       }
     ],
     "current_price_data": {
-      "price": 56.54,
-      "change": 0.93,
-      "percent_change": 1.67
+      "price": 60.1,
+      "change": -0.03,
+      "percent_change": -0.05
     }
   },
   "news_sentiment": {
-    "summary": "LyondellBasell Industries a récemment annoncé la vente stratégique de 4 usines chimiques en Europe, marquant un important changement. Malgré des avertissements de Jim Cramer sur sa performance mondiale fragile, Seeking Alpha estime que c'est peut-être un bon moment pour investir dans LYB. En parallèle, l'entreprise a enregistré des gains ESG significatifs et continue d'augmenter ses dividendes, malgré des interrogations sur le risque associé à l'investissement. Les analystes soulignent le potentiel de croissance de l'entreprise, notamment en termes de marge et de leadership en matière de coûts.",
-    "sentiment_score": 0.1,
+    "summary": "LyondellBasell Industries N.V. (LYB) a connu une performance boursière mitigée reflétant des fondamentaux faibles, malgré une hausse de 3% aujourd'hui. La société a augmenté son dividende trimestriel pour la 15e année consécutive, attirant l'attention des investisseurs cherchant des rendements élevés. Cependant, des signaux de vente forts émergent, notamment des avertissements de Jim Cramer sur la fragilité de la société face à une faiblesse mondiale. Malgré des gains ESG impressionnants, les investisseurs doivent évaluer attentivement la position de LYB dans le secteur des matériaux avant de prendre des décisions d'investissement.",
+    "sentiment_score": 0.05,
     "label": "POSITIVE",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "LyondellBasell Transforms European Operations: Strategic Sale of 4 Chemical Plants Signals Major Shift - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmdMT1hNcjBVSURjczZ0VFdJblNHS1V6MVVlUk02NW5WYmZuU3VPLTlmSExwVDdSZVRHanhYSkZJLWZTa2lmZ1VibXU0ZnI4QVg1QTRqUmU0aW5xTU5wckV3MnE1bUtiYjYyNldSTXBqSV9qdXhXYWxYNjZTWF9aRC1BM2FRWWo2VFdaQTRRWWFZb1lEU2xQbFVtNm5PTDFzSmh4Zjg1SlpxQzktU2VOM0hrX2lleGJYeFMzMHdB?oc=5",
+        "title": "LyondellBasell Industries N.V.'s (NYSE:LYB) Dismal Stock Performance Reflects Weak Fundamentals - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGx6enkycHd4MnRVNVJNVl9DbUx6ZDhmNXpTT3NuSkVxdWpJZlAxUmdrR2FUbWdoUy1qODY5WlB6V2xUcGh0MFd1eTNpY2J5emFIZnUtUTUwZjg1Z1ZvM2ZwRlBLOFJsbnlNc1hrZ1MySFNLM2t2ajdieC1SNzdVdHVLYURORmtLdXRuVzhqM0ZFZDFBcWlHa090amlPcl94emQtcUs3TzF0RUM2ZDVQbERCcElkRmc1WmNrYnktMzFrOHJlSHVzM1ZTTTUtRVF4amcyS2YxeHVpd9IB3wFBVV95cUxQUm5uTGlEb2g3Mld6YVJZMzkzMGxiU2g3RlZiWnR2Wl9iVGc5UnNpM1VSV0FSVWcxclEwV1FnU3VYTmRuZU56TGFBODZBUXc1dUVVNzhRenZ2Q3E0cnd4VDNGdDFvZUw1eGtNazlaM3BrOUM2WmhQdzdjZi0yLUZRdXR4RVRGRHVZZjF3czdQZmhkYk52ZS1VdklacGhQbzhLRjdvcWw0V2VKQmU4dWlQQUlrMjVZa3hqLXFRcDMyQVFxS01uZ25GME03aU0zTW9lSUhhUHN5OWpCbzFvZzBR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$LYB stock is up 3% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDNYNVpVTVV6ZzkxenVrT2xtWHAxVjhwTUF5ZGtoRUZJVHp2cHA1ekoxVDVSRG9hYkU0dDg5bTc5d2JPSkgzb3dMVFNOdF9kaU5wMUh2eHp4X25sTm5RZFRxdHJtYVFZWS1HbVZMMWVTR2hPQ1VlYlNiRWFVb3NyRndn?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "LyondellBasell (LYB) Enters Exclusive Talks for Sale of European Assets | LYB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcWNSRTZhcFJzZUFyM2JBbkZ1bXlsS0J5U21LUTNEbnJiWjIyd1h2VUpXenN4QWZ4dmFHS0c3czB4YkhPSjJyZ1k0VHBLeGdFT0ltbDBybzdadXVkbGk2TFdJY0M0Y2U0Q0IzcFdhNUdxX2ZsYXFkclV5UWVZVmgxanU3WHFGZmhPb2FlOGpuZzBDa29BenhvOHA0al95cEtXdmtnTUxFLXYtWlBNSVZ1NTFNU2E5WHFEYnp4U0FqQWNFaWpySmMyV1hjTzFzUWlMS1RrX0UtMjB5V2JNNjZNWW8yXzNpVjU3c2M4R3N6WW10dGRpSU9jSy1RV3RYbHEtRUhSOXNxZno?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LyondellBasell Industries Stock: Is LYB Underperforming the Basic Materials Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWY5RXEzV3gyMWZiTkZtQ05LX2dPWlNIUENCWUFIWlptX0lCckpYME92WHk0VC01Y3ZhTU9uY0I0U0hFczc2aG42S2VDVjlOMzFZRVB0d0k2cC1LcFhkTjNXZUtKOW0wZ1g3VjF1VXNXcU95SjN2a0hoWF9pYW5WOXFQR003NXpPQWp1aHQ0UHdOWlNpUnF1ZEdhYjNzQkEwMDVqUjJyV2tOQQ?oc=5",
+        "title": "LyondellBasell Hikes Quarterly Dividend for 15 Consecutive Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTh6RUhPc0ZoRTA5cGZ4eHJEejh4Y1NLajQ4R2RlMUZCRTM3NTUzM0lwQXQ2Mnd0MjloZkkyMHROM21RZFdERk5IRndFZnUwNmZ3WGkxRmZWTnVUeUhWQzJhampVZGRzdFFOUkpoNVBHeEpZaTZ6QXZkTXdpaTBLLUUtWU9DcHFOd2N4UUVGUHZzZw?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -576,63 +576,28 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Jim Cramer Warns Against LyondellBasell (LYB): “Worldwide Weakness Makes It Untouchable” - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREJMdVgyTUwya2xYTkM2dTZxa0xKMjd3RmFpWWRieGxDU0JaT1B6VktQN0pPajZTV0F4RzJ1a2ZOV0Yxd3ZKWGNQWXdJQ2RNYjh2TFdjbllBZUs3ZDBRQW5kV1VRTk1LUWtjNmNMeTRSM21faHBTUTVZd3puM3hKYUF4VTFiS3ZPUjFaZV9B?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "3 High-Yield Dividend Stocks That Could Rally Near 52-Week Lows - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXcxZFNYRG5LSTZ3VnowcF9la3hldVRJSklkeWFhdGsyS3Zod2VMOGJtYVhURkdXMjRMZ2lpZkI2b2x2Qzd6OFp1cFZ2SjltenExbC05ZS1IYllCT2F0Q3otXzRjSktjdXJmci1rRmhsaFhtNnp6QzJFeDhXdzlucW5fUUdSR1Z5Rk1GSjNkMnhjN3Z5MU9HT0F1ZXh1cE1HVHlCTkdn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "LyondellBasell Announces Sale of European Businesses - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0pSX2hTcnppQk9rOFpkNjJjY0NjS1RmZi1JLXp5a2Yzc2h1a0VMZ3pKcWJEU0IxVmg1TC1rd0NFcFJmcm1oOHVETzRLMi1yVEhPZnRtQ1l4aXJRcEM2dkxTSmN1Mm5tcV95TmVnVjc0V0JId1g2RHl3QTlVTmVqRmxLdUdOZlZLOTNDSE1lTXlPblFtRXBsdzVieFFTSVg0dVd6MjRFdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is LyondellBasell Industries (NYSE:LYB) A Risky Investment? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFdpNGpJYkJqY0tLczlXTXgydHFvZ3RDMHJzbHkzM2x6WGkxcXpCMWNlS2hlOEdZTHFXenpSbVBZbXdjUHN6amJqSFZwemZsM0VCak93NUFBdl9ocGg2dU9rWENIeFVBWVI1aU1jVDNSTF96NVFXdTZqcXdUWDFsY1ZOT2FETXVsWTZWX3NxV25RSm01ZmRlMVRZcDdMOU9fSkJuY2lwaUwzVE9qQkNmSW8xdnVjXzRxeXJrNU84UFpScVlLeTRqaW1ZU0tVODA0V1BSdUFB0gHbAUFVX3lxTE81NVZGZEcxZVpVOVlpTU5GWU5yYWlFY0F1RjJnUEVPV1hDNFlhS3RJbjFTQVcyYlNVajJOZnBEaEhSVGItWE1CQ0JGRW03X1MyNlRtc1Z4bmxGV09CYzdoZFdSTk1WaTFTTlhITmlZWmNtMmVqaDhuR1cwVm0ycXFHSVdTZHB0aGJaLVNldVBMcjFmSm9pcDVjME5ldW8xb1BycV93QnNqdTV5TE9pcFBwbW1CVGR6Mks1YlBJVEhjT3hubDZLak1hWDRPbW1DLXl6WWpoQUd0cDBXMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LyondellBasell Industries Stock: Analyst Estimates & Ratings - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0FjR2tpUl9xdkFPc3BJNHBDWTR2d3ZLRjFCbWRRdFdrcnJxUTQtWTlxRjZuTjJiMWxMY2ZIVV9ILTQtSlFHc0NodnhPVkViV0NxR2YyQU52VnNOODF4dVN5RV9XZmRFaXNhWTRUQmJVZFZ4M1lQTWJVX18xdG4tZnBqbzE3MFh2WEcxS0VibHBLempKTHlHdy1fNVk5UUdzVUhCUg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jim Cramer Talked About These 8 Stocks - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGRfTWx5a0JlV0NzdW1UWTVYX2tFaVlxS0JGZlI3Mm8yZktEdFhYQ1luTE1jTlIzeWk5YWRjZktKOHlVRWI1Z1A0YVM4dzFZZExpcURITzZydTg5Y2FrVlJfUzFOREFiM3J2d09BU1UxZldQdkxRVEREajZ2clBRNlZRanU3OTNjclFJaGZn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LyondellBasell begins exclusive talks with AEQUITA to sell four European assets (LYB:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXp4UDd2Z1pwZG52Q0pacjVOa1BteVhMZGQtaVV5ODNMcjc0V1YybW9sSDhWLTBHSndLa2JFV0Zhd3psVktRQ0o5NUxHRW9PUkRZZ01hVU9jZ3oyODZrMTZudzJFMm4wbEpsTmw5aUYzb2hseFFnckFkcmg3NjRPc1hVOGkyWmxYZVNFdmwxU3lfRFpGVUFadHZpMVRNYWp0MFlPZXVjcUQ5enpwWWZwRlhYM1BQZjhL?oc=5",
+        "title": "LyondellBassell Stock: The 9%-Plus Yielder Just Raised Its Dividend - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhNE1oSnRFdGFDTzZ6Rlpnb1ZlSTE3NXBrNnJrOGtkUnFKTzV0NHE1VjlrVzdXU01MNms5bmk0Z3dQQzY5anBaY09YNldHRDU0REpsdF95VHZtYXRUUExnM3ZCT0w0X3I0M1Zqd29iNE1JS193VTdoc2E1X20?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is LyondellBasell Industries N.V. (LYB) the Best High Growth Chemical Stock to Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVcwSTQxc0NtOG43QlhGTWZHUHBhYUpFUGJIaS1HNXBBS2lyZ1lFNllSU211QTliR1IwTHpES0lQVm04SHNKal9Ya0FsbnRVeGFXRUJldnc2akVHSGJQR0NFdXk5cGZsZXBuaXQ1dk1vVlEtRGNZZl9RTVhMTk1Qek1ibHNsdw?oc=5",
+        "title": "How Is LyondellBasell’s Stock Performance Compared to Other Materials Stocks? - inkl",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlI0QWczeEM4QmwwTTFTaTRSQklzMk82QlM2Q3J5T3dTWWZqOHBDY3JfZVJUbW1oRzZpRUxjTmdGRVdySG53SlVkZW1XWi1Iblp6T01jVTcxWVdwTUpmNG50ZGVpbUV5QmtzNjVwZTcyTC1fVnpmREVVMU85UUktWlpzczhRZDRIc1hWWHhRbVBEMDJDRk5IcGpObklfbmhubGtGUw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "LyondellBasell Delivers Massive ESG Wins: $800M EBITDA Jump, 65% Recycling Growth - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHQzNkt3VTFDNUtWRGxlTkZ1SHZLNnNNUkRlNFRBNW96eEJ0VHpRN1J5R2NJVG50ZXFjdHFXcGdqeEw3clFRV0dhUFBBX0Q3ZWR6QUR3SzZGY1ZlWWVnb1NkcjlTWGdqbDZYRjVjRHUyOW5GMm54dmt0VkZFN2pudDdySUR4Vmowc2tVNFljNGc3SGZCbkIzWXZaUTVRY3N2Q3Z2WTZpY2lWMDE3cjJfcXRn?oc=5",
+        "title": "LYB announces increase to quarterly dividend | LYB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXVLc2taTXZQS2pnRnFTN2p3ekd5SEZYTmhPc3FlSUFHYmMwVTB6ZmJmV2NsdFd5NFktRTRmRkx5Tnk5WVotUlFtbE16RmdpaERncHd4MkQxTHJTRG14OWZmbHg0Mkk2SnUtWEZmVUVoMmhnSnlxR2RnWkNJaUNpVGNBeHNrV2hNS1pCUFE5NFdHVjZBbUZBaUsxbVdrdjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LYB Enters Into Agreement and Negotiations to Sell Assets to AEQUITA - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkdNOXJTYTJib2ZIOUlUOTNZMktiY3FMYk5rWnRhdnFNaGx0Q25MX21FM3hTYl91dkkwTEttQzhqNXhuOWg2amRwSzVkQlZVY2xrSWNVbUlKQW5kOVVod2VzbDhGWnI2bElzZFh5cF9RTExlUTVFYTFRakViV0hZMXMxOFpoNGtrRVlDLQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Is It Too Late To Consider Buying LyondellBasell Industries N.V. (NYSE:LYB)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFdIYl8tN0pNUzUzV2o1akNMNUZfa04xUGZxUFFSZ19iMVB2d3R5Z0piRmpEWW51ZXlPUUtlUkd3ZnlLNWtPbGl3eXd0Rm5pcHdIZjA3YVdyaldlZUl5Y09zZ0YwNGtSVmV6UTlKeTYzOHJQb0dNb2loOHRfb0U1NWVlX0EtRkpnRzI1QnJ6cFV0a2k2LW1hU2dDZEx5WDlvaGxHS2hvYmN0RkUteU5LUG1CMWtFanZwZ1JfRWpFRnBmRHBPN0FwaHItQ3U4dkZPaVdMdUZYdWvSAd4BQVVfeXFMT3NOWXpRbVk5eDRicG5NZWxOcW5mUTdjWjY4OXdxSURrLXVrUEVnNEtqUjIyb1VRNzBGNEVyalhZTzhVZWpiN19yMGUzNFp0OVdBcHFISm04aUwxcUZKRllrWUNqVEwzRTFDSmFuMzFiNWVVZC03Ui16a1NyLTB3UUxWX2g0eFNJTG9ZNndBelJ4TzQ1LWdDeGxZVjRhTUJ2dzF0dVBHQUVtVEdYTDE2cERsaVBXbmdZNWpIRWNTUGdOSldIM1JaQk9Hd0dGZ2pSOXNMaFl6OWNrdFFlMXBR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LyondellBasell (LYB) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHc5cXVObHpNSUNTcFpNRHJwUGFoLTJEeVlad2d1M2ZRSEJxLUE1WEJfc2xUMldvc180ZmVDOUVncDNCMkhpNWF5b0I3VlBSSXdNUXJ3YXFFTk5QdHFlTk1qZHpwb3ZyRFdiXzBaSnR3bXg2Q1lIbkd3RWpraTFTenNCTlA4NjNwUmg4N0hIeTEyWFdpNW5SZDRWLWpCbUE1T3pRZDc3M2pYWkV4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "LyondellBasell enters into an agreement and exclusive negotiations with AEQUITA for the sale of four European Strategic Assessment assets | LYB Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPSDZWV3l4ckg2VTRKRGM5cjlpcnpteGF6UENlNHJhWFlIV1dnai10aHdvR0FseWR4S2lJRXJvZElmV2FWM2JRUWRNWFh3RHpNVFN2RDRxSnhyNjF2TkN1WjNaYW5ZdjVUcHBhZHMtTlh0TmtWYjAxU2JIbGJncEdsM3BXQmVjcmVpTVdMdTczQzUweEQ0SWM2ZUFobHBJTnhHZnVBOTM1TFVwRVZCUGJPdXQ0aE5PeG9Ea0VHOC0zeGZlLUZ5bEM5Nm1BS1g5aDZhSkYzRUhMdW1ra1M0c1M0TlN0UjluemJuMWlRUndVVXRyUXU3bERvWVNYOTFlemp6Z0ozZERGbkR2RDc4cWdtRXRpNGd0dFRmcTNiUkViT3ozZ2YxTWRIRFhKSVhLS2xyMHNlcllhZkpxNmN0WDduWVQ1bk1hUWw0eGJodmpUcXdaU3ZMcXJLY0V5MVBfdHJUcHRn?oc=5",
+        "title": "LyondellBasell Industries (NYSE:LYB) Announces Quarterly Dividend Increase To US$1.37 Per Share - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1JET0Y3MUJ5Y0dSZkhVTFUwZVdhckJtRWhTZzIya2RBM1Q1Q1BwcG9lc3gyVld5YnlZTm50Rmt4YnloZGh1anYzRnR6ZnRVUDY0SGM1Qy1kN1Q4MS03X0s4b0thTnY1eXUxdTFXSjVMNzhGVUNzdGNFTVBRdVpoVTljTExVakdwa0xtRGdUUHNwM1djZWtLSXhQdWkwd3hEemlxNjRBeU9WYktlaC0tYldickxwNmhVRGFlUWZERUVseE1HY2pRQlVORzRKRmMxTTl5Z3BLTTNtd9IB3wFBVV95cUxQLS1pTXY2VEFzVUZaLXd6WlRfbVQ4Y1puMkRaNVlvMFpHb3JRSWlnSElxV2dXQXBrcTdWd1ZWVkVmazBvOEphMWRJWGViemZnNmNCWjdiN3NwaFVBbVBJcFdlVHN4NE92eFlzQjlZWk81Qi1jc1FINi1ydVNadkxWMmlkWDBzaEVsUjBXNzl1QlNsQU04emdVU2ZhRmNrenJKQnZGd0ExTUo0X2loWW82Qm1YVmw0YWpBMjFKcDVMeW9ONGgtQUE2cFJWZHVkdHQzT0R3UWlPT3otdFRCR2Vz?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -641,21 +606,56 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "New Strong Sell Stocks for June 12th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfaFp3VGdDVHpSYzVRLUVVdTNFQy1iYnZNNjZ2ZFhhekpNNHJlQm1hRGkxVXNKWFVLUTdZSURxc1VpSzJzR0s3Y3BfeGVBYV9JbXZ4VGhwRTdxdEFVMTMtZS1GeGZ4YlJFWTRPMXFjV1VUV3hq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LyondellBasell: A High-Yield Contrarian Bet (NYSE:LYB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUk2LV9CNGhUX28wUVBsUTJ6UldsY3NwZU9QakFqLTkza1pkZHJJckd3UWMtanNsLUFhOG1weUxvTnFqMHpNUVBNNURjTkpObmhGWlFPNW1fYTlNT2lqQ2JUU1lVc1p0bDhUSlRzR1BDTTlodXRuSTFtbENyUXRDVmdIZmZkVXdXR0Vz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LyondellBasell Industries Stock: Is LYB Underperforming the Basic Materials Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWY5RXEzV3gyMWZiTkZtQ05LX2dPWlNIUENCWUFIWlptX0lCckpYME92WHk0VC01Y3ZhTU9uY0I0U0hFczc2aG42S2VDVjlOMzFZRVB0d0k2cC1LcFhkTjNXZUtKOW0wZ1g3VjF1VXNXcU95SjN2a0hoWF9pYW5WOXFQR003NXpPQWp1aHQ0UHdOWlNpUnF1ZEdhYjNzQkEwMDVqUjJyV2tOQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is It Too Late To Consider Buying LyondellBasell Industries N.V. (NYSE:LYB)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFdIYl8tN0pNUzUzV2o1akNMNUZfa04xUGZxUFFSZ19iMVB2d3R5Z0piRmpEWW51ZXlPUUtlUkd3ZnlLNWtPbGl3eXd0Rm5pcHdIZjA3YVdyaldlZUl5Y09zZ0YwNGtSVmV6UTlKeTYzOHJQb0dNb2loOHRfb0U1NWVlX0EtRkpnRzI1QnJ6cFV0a2k2LW1hU2dDZEx5WDlvaGxHS2hvYmN0RkUteU5LUG1CMWtFanZwZ1JfRWpFRnBmRHBPN0FwaHItQ3U4dkZPaVdMdUZYdWvSAd4BQVVfeXFMT3NOWXpRbVk5eDRicG5NZWxOcW5mUTdjWjY4OXdxSURrLXVrUEVnNEtqUjIyb1VRNzBGNEVyalhZTzhVZWpiN19yMGUzNFp0OVdBcHFISm04aUwxcUZKRllrWUNqVEwzRTFDSmFuMzFiNWVVZC03Ui16a1NyLTB3UUxWX2g0eFNJTG9ZNndBelJ4TzQ1LWdDeGxZVjRhTUJ2dzF0dVBHQUVtVEdYTDE2cERsaVBXbmdZNWpIRWNTUGdOSldIM1JaQk9Hd0dGZ2pSOXNMaFl6OWNrdFFlMXBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About LyondellBasell Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFBLMVdJVlBmakZKOFlZcUxWbUI0aUxiZU5qR1gycHNUeVVOUkZYYUk1Q3ZhSmpJZlU3ZWJoTXVtQ291MFBCLVlYNEJqbk9PbV9FRmtjSUdLYXZhc1RUbldGazRtLTk1cE03a3h5TkVCVmpSUE4tS0xySTFhVUxOeFZkWlNYVXNOandHVnUxZ0hNZXdYcEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LyondellBasell: A 9.5% Yield The Market Doesn't Believe In But Should - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkRrX1hwb2tqZVRiQ19lODdnazdlaWNxVi0wTGxwQlBkTDFVUm5ZYlh1ZFJVbUY5TURYOThGcmRMcmxHTzBnM21wejdETnRUNmhfNjQxeFd0VE5BNk9IMDdPMUMwT01JYlAyWWRKRWFzVGh0bnRwRWNhekF6cXhOOUF4X2E5MjdkRFVNclVOTlV0NnhqSmo5NU9PZlRZUWlvSFhDcUhmMnJhWDFmaUZIOGk2RlJKUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Strong Sell Stocks for June 12th - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSHNtRzdTOU5mbnRBajdtTXpnM2hCU3FlNVpNaEktUTdIRnhVTjVuM1FhUDVBVngtZ1RYQTdXN2I1aGhENGduVUU0ZE93OF85WmNZQnRlb2xpc3lSREJ6Z2Y2YVFxLVhXT2phMlA5LW9NUlllZ3lYd3YtRWsyUjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Is LyondellBasell Industries (LYB) One of the Best Consistent Dividend Stocks to Buy? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRm9VV2ptVmUyd29KWktFeUxENlFyaTJ6Q0l3bThod1hzX2x5VFF0cmJvTXF4VFRFUEpKYzI5QVlwOUZRVWEwRy1PQ2xPbVU4Z1NYOVpaYTRJb3lKd05RTHRLd0hPS0FSSUt4eVAzRkFiTW9yaGxSMGh0ZEN0aTF0ZEtpMTB0MUhhQ1ZBbg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Do Wall Street Analysts Like LyondellBasell Industries Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3hnVVNDT0d2d3Y0V2NaN21QREI0MHlBNzFJbnJ3OVA2UVZYVGhJcW9Tc01wWVhJbXNId1k0WkJaUEs5ZHBGTVNiV2FvNmNaQ3hZcWZEbHB6aGhGeklTNi03UHZveXVJTTYyZ2puQkFWNG9JZ2RKRFZRajc3UFRnSUU0UHpzajgxNkx5eGlmSTA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Jim Cramer Warns Against LyondellBasell (LYB): “Worldwide Weakness Makes It Untouchable” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREJMdVgyTUwya2xYTkM2dTZxa0xKMjd3RmFpWWRieGxDU0JaT1B6VktQN0pPajZTV0F4RzJ1a2ZOV0Yxd3ZKWGNQWXdJQ2RNYjh2TFdjbllBZUs3ZDBRQW5kV1VRTk1LUWtjNmNMeTRSM21faHBTUTVZd3puM3hKYUF4VTFiS3ZPUjFaZV9B?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "LyondellBasell Industries: Margin Normalization And Cost Leadership Suggest Upside Potential - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWlBYnlMUmUtTnlRYnlOV3dPeEdZeDQ1X2d3WjMzSk1KSENhTUROZ0lSSGR4c2FTdXlDZjlwdW8wM0lZQTRlMTdkaU1IcUtLNGwwQkhsZzBSNndWR2lMOUJ1TVNhb3FVOC1CZUdtYmVvckpSc3pwbjRkMThUM1I5SncwVXJCRU9OZEtiTHhGNHRTa1RxVGpvaWlQMFk1bnVvYXo4c3RMWVFzN09vdjJwNnh1TEZfdWc?oc=5",
+        "title": "LyondellBasell Delivers Massive ESG Wins: $800M EBITDA Jump, 65% Recycling Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHQzNkt3VTFDNUtWRGxlTkZ1SHZLNnNNUkRlNFRBNW96eEJ0VHpRN1J5R2NJVG50ZXFjdHFXcGdqeEw3clFRV0dhUFBBX0Q3ZWR6QUR3SzZGY1ZlWWVnb1NkcjlTWGdqbDZYRjVjRHUyOW5GMm54dmt0VkZFN2pudDdySUR4Vmowc2tVNFljNGc3SGZCbkIzWXZaUTVRY3N2Q3Z2WTZpY2lWMDE3cjJfcXRn?oc=5",
         "label": "POSITIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,12 +2,12 @@
   "ticker": "DAY",
   "name": "Dayforce",
   "sector": "Industrials",
-  "market_cap": 9616841728.0,
+  "market_cap": 9140396032.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 375.93753,
-    "PB": 3.7127337,
-    "EV_Revenue": 5.599,
+    "PE": 357.3125,
+    "PB": 3.5287943,
+    "EV_Revenue": 5.635,
     "ROE": 0.01031,
     "ProfitMargin": 0.0143099995,
     "GrossMargin": 0.50345004,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.1479381822161952,
     "ROA": 0.00551,
     "PEG": null,
-    "EV_EBITDA": 43.408,
+    "EV_EBITDA": 43.688,
     "BuybackYield": null,
-    "PriceToFCF": 35.91482972474891
+    "PriceToFCF": 34.07610901023827
   },
   "technical_indicators": {
-    "RSI_14": 57.00187104066291,
-    "Momentum_10": 3.1790975243235176,
-    "MACD": 0.5072147279837509,
-    "BB_Percent": 0.8807960853207691,
+    "RSI_14": 44.77929759663083,
+    "Momentum_10": -3.215980817522916,
+    "MACD": 0.370467947105304,
+    "BB_Percent": 0.0876759455661675,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8792325449040953,
+    "ValueScore": 0.8289733863724361,
     "QualityScore": 0.3383206874498154,
-    "SignalScore": 0.5241653014814727
+    "SignalScore": 0.6245851632360477
   },
-  "volatility": 0.0265650992212936,
+  "volatility": 0.0269146809679383,
   "beta": 1.117,
-  "return_6m": -0.2343431339720167,
+  "return_6m": -0.2591680766431374,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 79.23
-      },
-      {
-        "date": "2024-12-10",
-        "price": 77.95
-      },
-      {
-        "date": "2024-12-11",
-        "price": 78.29
-      },
-      {
-        "date": "2024-12-12",
-        "price": 77.53
-      },
-      {
-        "date": "2024-12-13",
-        "price": 77.17
-      },
       {
         "date": "2024-12-16",
         "price": 77.39
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 60.42
+      },
+      {
+        "date": "2025-06-09",
+        "price": 59.16
+      },
+      {
+        "date": "2025-06-10",
+        "price": 59.91
+      },
+      {
+        "date": "2025-06-11",
+        "price": 60.65
+      },
+      {
+        "date": "2025-06-12",
+        "price": 59.59
+      },
+      {
+        "date": "2025-06-13",
+        "price": 57.08
       }
     ],
     "current_price_data": {
-      "price": 60.42,
-      "change": 1.21,
-      "percent_change": 2.04
+      "price": 57.08,
+      "change": -2.51,
+      "percent_change": -4.21
     }
   },
   "news_sentiment": {
-    "summary": "L'actualité récente a été marquée par des mouvements significatifs sur les marchés, avec des tendances clés à souligner. Les actions de Circle ont connu une forte hausse depuis leur introduction en bourse, suscitant l'intérêt des investisseurs, notamment Cathie Wood qui a acheté une importante quantité de titres. Les analystes de Goldman Sachs anticipent des gains potentiels pour certaines actions lors de leurs journées dédiées. Cependant, des événements tels que la confrontation entre Trump et Musk ont eu un impact négatif sur les marchés, malgré des performances solides de certaines entreprises comme Target Corp. et AES Corp. Le soutien politique de la RBI en Inde a stimulé le Nifty 50, tandis que d'autres sociétés comme Delta Air Lines et JPMorgan Chase ont également affiché de bonnes performances.",
-    "sentiment_score": 0.7,
-    "label": "POSITIVE",
-    "positive_ratio": 0.8,
-    "neutral_ratio": 0.1,
-    "negative_ratio": 0.1,
+    "summary": "L'actualité récente met en lumière des tendances contrastées sur les marchés. Les résultats solides d'Oracle ont propulsé son cours de bourse à la hausse pour le deuxième jour consécutif, soutenus par des perspectives optimistes. En revanche, les marchés ont été secoués par une montée des prix du pétrole après des frappes d'Israël en Iran. Par ailleurs, des entreprises telles que JPMorgan Chase & Co. et APA Corp. ont surperformé malgré des pertes sur la journée. Ces événements marquants soulignent une volatilité persistante, avec des signaux mixtes influençant le sentiment des investisseurs.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Stablecoin firm Circle adds to stellar first day gains with another stock surge - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDNPbXBjczBmY3NjWlFPbVgzWFBLTkYxSnFfRmZwZno2STd2eHVJZUw5QktlR1hIN1lEa0hlWTFoX25HM3RtOHA5ODV5b3YxcFVXbGlHXzQza2xRV2dkN0VGZFR1ZFoxbEhvYlZaaVp0U1l3VkUxdDFVWWo3RUZWTVR6a0c5WGlFdmRLOFhLMDV3aVpmcUR3b25IdjlDVjJJcTk3d3o5WFhpeS1tRWI1UzVRQUpERW5J?oc=5",
+        "title": "Oracle Stock Surges for Second Straight Day After Strong Results, Rosy Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakswNW5YUUllNDUtZ3p3Z3oxMktIeTE3cHA0VHVxQXdXdXVMajBmZ1JwZUJZMlBqUVhGa0hIZXlRSjBmNkdWbGF6bkVUSDVGWE5ETnY4TjhSVm9iNFhmOGNtci1zN1JVQWRNNDQ1eTZSbXVGd2pYaXlLcWtmcmdMU2xIeEd2eEZhV05tOXRVcjJsWmdxM2VSVEJWc010RWRXbW9mTS1yS3NoNmRzNGRlNWRzOXduUQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Circle’s stock is having another big day and helping to boost other crypto plays - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOU5Lclk5c0ItZ1JaRWlHY2YxbVp5cDloUWYyb1JIdXZRYk5xOFlXZEhYR21wQkl0MElDTkdrLUJIMnFQc0RlSWVLV0ZWUjFOYkd0UTVNU1RlaHc5NHBWSXJMdGtlZVk4dTBpSlBJVHFSZHhTd3NHMVJ0LXE1ejF1OXEySmZOX1JBa0NmYkZsdm1WbEpET291MnllY1NzMXNzVGhXZTRqQVJ6dV9fT2hKSS1YR1pjdTJZdlFPXzNUR3Nod2ptZ2s1SDQ0YVk4X1ZHNE1ubUpfaHlfbEJKdEJMeHhB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cathie Wood Buys 4.48 Million Shares Of Circle, IPO Rallies Early On Day 2 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2liR0hnZXh4Mk9EZDk4dWd3Q3dIa0JfM19CclktckhXYkFzT2hpcGlnWnhCb0NoUmpqVno1NUFBbzY3Wkk3U3N3R3JmVHdDZ1FaT0tBMk5QQ3N5a2xOLWM5cW1Gc3JWR0dPSnVZQlYwWFBra0g3LXRNcGJma1Q2ZWxpREhVQjJoUDJrYV9WVHVnVVlZb25pZjBYMzlIek16SGxweGdSTHR1QQ?oc=5",
+        "title": "Lilly Moves Past 50-Day Average: Should You Buy the Stock Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53RTFCdmlIQVNLcGpyNy1WcXUtOEM0dXRya2dtcllRNExjT25sM0ZQdFFzZDZwRDlDSThqdEpnaVFvWmhDZGdYV3Z2QTBtdEtXNnRwMGZhakFRYTVDRml4VmNrdDI4TjFWZG1KSV9JSF9yVlduU0Jlcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Circle IPO: Stock Jumps Nearly 170% in First Day of Trading. It’s Rising Again Friday. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZENNa3JTQlVxZVZURlkyc3U1bllJVUJfWHlVR2NxTXJlQ0ZXQ3B5cThtanZPOEhkejJZa0FUYm5tVWJCeXpwSjBZN2FKdF9pc25LOUE3ZkJkaFNBSTNGNmt6ZUxnLWVLRHBiNnE1ekhyWGxLc2poS08xRFhGcDFIVk51WDZUTDZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "These stocks could see strong gains around their analyst days, Goldman says - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXJVN1NaZ19YVkdyeC1tQS1tZmVYWkQ4SWRsbVVkRWJyNFpZLUI5cnRtX1JRcFBacVZnd2dFYmZQQWVLeVE4MG5maV9iVHlPcFNUQWx2bVRKSTRDQ3M1TkRjLUEzcUZaMEFfVUVEZ1pmM2JsOWppeFBSS3lxYVdvR244S0dYTHo3d2NWZmZVcXJRTjU1MGJQdmRQYWIwdUZkb0hKNUdNbWk3bE1oV2VHWA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "One-day stock slide at Proficient may be tied to somewhat bearish investor presentation - FreightWaves",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlBqSkVJb3Nxd0FHODFkd2FIQ3duWDhEbjhMcDNURm5BQ3FScnpTMk5LVDBEOU1xSUJ0ejRtSUVQM1ZZOHMzdzBDT21ickR6Y3ZZU0dPU3JvdVR1Q2xERGluTXU4d2RZbjQ0VmRmRGFMS1VnMEQxWWZaUWRHLUNWeHA2b1NWQ1haM29oTUpRcWlJcy1RcjVqUGRnb0xwTnROX2tuWWFnOTYwbmstQURqMzFHWV9SUlA4LU9WcGlB0gHDAUFVX3lxTE04VDJzXzV1ZmNseTdRZWZ4aHZtR0lMdG1jeDB2aE14ZkoxQmpzZFNaZTVDVjV1cml5UFo5RzRKSWk2WXFrd3dGbEkyZXo0TmNodzdtRTJOemRPVUlGaVBfZWZYeUt0dlg4VzZqaTczLWNTOG42SmJVSmRkXzNUeFVMSUFZRlhjNHNuMklZRTlPTVlueUZzMDluS0pHTGN3N01GUjRKZHpBcHp0S29TeHFua0xKaTlMbzBuVVBManc5cnRHYw?oc=5",
+        "title": "Oil Prices Surge and Stock Markets Stumble After Israel Strikes Iran - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNy1oR00ycEtPMFZLbGlhQUdkWWdvSjRfZ1RlMndxaGp2OC1qX0FtVmRzZm9GSE9KNTBMZEtLbERxOHZCZnNRQ0l1TnNaOENtcDlmb29uQUdBRUJ5U3ZiSzMxLVR0dVNzODNSZ2ktSzh0R2h0N0VlQkdXeW8xdmxlU2tWbHI?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Target Corp. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMkJsenVCT2FhWEluRmV3NGg1ZzlHNnVWd3BiNXJ4Njdidm1JRU9XeF8taWxCNE9lR3BmVjBrd0lvQW9aX1lIcmdxbWZ2cU9PNWt0Rjdvci1kcUZDRnZCZ3VHRW9HUU54V0E4OUl3UFdmZUJMZWRORUgzcmhzVzRSX1FGU091YVJwdEJ5WUM2aGNtcWxVQ21ZOUdvS1JDMVptVUFVVTF0UUhyNVZwU3RBamZSdmgybk9GUlJHZ1c5MVY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Trading Day: Markets rise above the fray - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXJmbTdaaXJWVkRsR0hUM05xVWdSWm5HbnVvY0tNaWw0Q05mREJtcDZSSkxzMjBKMTZQUTByZXlMRUNIdlRwOXp0VEROUjZ4Y0UxVjQ4R1RXR3UwdjMxb2trcXB2ZjhZZGhkZmpMYlBGMkFUNTJGR2FMRXIxczJxV3dNZEVCRm1DamZxaTFMRUdpV3JLVUlN?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "How Toast, IBD Stock Of The Day, Is Changing Restaurant Business With AI Software - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXJDVUYxNkVzZkEtWWNZSlRZU1ZfRjBOaVlkREwxeGpIbWFBNE16ejBMN1RmUEtITEJyd2VNYmpBbm40My1KY0ZxMDFSVy1yUlhtMGdIYXQ4TEpwbnVZX3ROdWcteGxLQWpWdXZxODBhR1hJUU1wYm9tNWZnV1NrSFlrcFBEVkpnQmxuSUN4U283eXRTWDZFM1dpUi1fN3V0TUJLcUYzQXg0cGg4eTN3U2lFbw?oc=5",
+        "title": "Stock Market Today: Dow Jones Drops 769 Points; These IPO Names See Red (Live Coverage) - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3JLeFhqd0NEcE94QXFsQ0xGVk53VzNUeFR2N0VQMXlqd1VBUEFtSGJWb0pvY0RETlJKdzBhR01tNDN1UTZIVVVOWXVVQVJHNzhoX0pCWVNTRjVFLTFKb1ItQXNsOVd5RXNNdTlReklKektQaGthcGxKN1pubmdmY0ZFY2VKdjN1UVVhVWtqR00zS1dCNHRnaTBCQk5YR3NJWDBBc0czTl9zaEhkazRPYWZEd01TeEU?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Tesla stock climbs 5% as it tries to rebound from Trump-Musk argument rout - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjBFdUNqbnFIbmNnUGQ2Szg3WVdsdGFpX0lDUlRfNlJHV1RCb3dDTUZycXBtM21TcjRXVVR3MGJOTVZheEU4UFYyenlZZm42c2xKNmVWSGp3ZVdDVk1QN1lTdW4wT29tbWM3VFZPbUE2RjRkTTVsWEd0MGM1cXhNcWJBUHc3NE5ZbWR2a2Z4QmJzbWFQVXRfak1NNFptNDdQRE5HMkNIamJkWlRrcTVxN1NhNNIBuAFBVV95cUxOUi1oQV9wQjlhdElZMEZhdlVTSTByRk9TekstcnNEUHQtWUxfRy1ZaUN0Y3BUZ29iU0FpRDVCT2dhdXdvVUIzWmpUM0s1cUY1MFNScHF1MkRkRjZHa3c1UDY5UWpTWUx2Y3ZlV3AyNE5tUjlEU2FFanRjM1RIT2pZTUU2WUQ3eVFKblJZVUtkRUc4NkhmRy1mRXdvelNRR3JmbzNDbUFaUUtmZi1qU01SdF9uZXE5dEM5?oc=5",
+        "title": "JPMorgan Chase & Co. stock outperforms market despite losses on the day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY0NUUUZPZkU0RWdVeWJlaGtqOEpvY29XOUMzYXkwT2ppXzFqZEJwNU5QTV8tRWw2RnZHaXBMWmZMcWFDM19ON1dsMUJTZlF5NWFjNER3VThpbFNpWEMtUDU3TXBzWlYtTnZ6aEQ5SWhKbGF0UDVJOWFUYm1RbXVMZHhJNjU5bkJ5S0JxWWQ1bUNORmtYNVJBZzlVTHN5bVNTenIweWpPMF9Fdi1xbnBidEZHMUxtVTNtM19JRmVXeGlRMnoyTVNXYnJiOElxaHpTeWdKdHUzUzBJeDlpM3lZ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "AES Corp. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdU9BV2NHZjJjOVF0dWpOWWhhR1JoajB3MXJ1U0JaendtNlB0d3Zza1ZORGwwMVJMWXhYQmhuWHZsc3Z2TUZGekJ3TE5MM2JsdzNGVTFsTDB6YTJsNDNBVkRoMjJYYlJ3NllGT1RycklFeHFPYV9aXzRvMDBkaG5fQXc1OG8tazVkcnprMWZQNTRUbF9QOUV0aXBITWIzRHJGU2tXdEVOMDI0OGczcnQtNGNOdUVYNS1NMWFSaQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Nintendo Switch 2 restocks live — latest updates and retailers to check today - Tom's Guide",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YOV9YYUd0NjNRa1E2RnJEOGtWemRkb2MyR016aEkyT2pCTzhYZGJxZmJ6d3RrTzNSZkptLWQzcmtnMkIxd3NLWkZIcFNhWURFSVU3NklXSEtZaGliR1VYNmg1YnUwNHpOMk9KOGo0b0lZSkFZcnlyTC1hQ2FPUVk?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Trading Day: Trump-Musk feud slams stocks - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRE1KY243V044WFdaSU5xb1ZpWHAtaldNQ3hQMVJZVENMOGk1S2hReGpWS0hvY3VzNHJkQ1VKMndqQ0lleU0wWURJb3RhVHU5Q2NodzhENUtGQ0hFTTV5TEczTVZPRXVPb042SXFzdGxTTlhYY1loZzhrUlRSRGN0SzVHWkF0WjZ5VFVtanhmdVg0bmw3Q1VrajA4T1VkQldNNVpURGpScw?oc=5",
+        "title": "Trump’s ‘Liberation Day’ led to a tidal wave of stock trades from members of Congress - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNampydXNpRzNzc041STMyOUNtNUpnXy1kZGtkNjJuOHBoZmZ5bUoyZmJMcEFFU0JWTDNBWF83dl9Ia2NYVUlzNHBFS3F3M2pfam8xUkF3RHhuYXZLVGhXUHNvakN0RGVjdF9zd1Q0Q2xucmM3dTFoNU9fZWVzUG4wS09PbThXOEE?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Teradyne Inc. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2hnODdEejdab1ZlaDA1T2I4RlFmTURCamx0RktLN1A5SmNZaGg1Qk9YdkFENkhZVDluUlhPeXRmV1owS0I2OWNvN0wyZW5POVE4eEtnQlFINVZCb3NhUUpFbXFDNTNyMEtmbTNTaGwyYngyVGE3U1BtVlVsV2tVenRwQUFYXzRLR0gwcTZYTW1yNzZIa0pYeVVDTjVBVmxKZGJ0MXhKeHpFc0E3NXBoN3E5d2xPWlFvaTlrLUlBeHBTZw?oc=5",
-        "label": "POSITIVE"
+        "title": "Lawmakers Traded Stocks Heavily as Trump Rolled Out ‘Liberation Day’ Tariffs - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQT21FNWk2RDJLd0twamtlaWszVnBBcFc0U1liRVpBU3NWdER4cEktZjRpYUYyNWp5aFZBS1gwRVhyS3ppOS01NGRfbVk2VXZXTnA1anRfTXdVb3ltWmZOLVBDc2w2RkxrS0tIVkVhdU9WaDRSR2JxRnd5WmZMc1diU1loUkhLU0hGaFJTM2xyQVlsdE54N2ZHeThaVll0NFRmY0kwT3E0Q05taEZYZnd5VUZfajJjaW55RUQtTXZEMlIxYkF5LXNaS1dfRzVOUnlXRDV5cTAtNHVEVzlROWhFV0ZsWGxiOGxQMS1CU29SdU5feTF4UmdfbnNNd25EdTNULVFwb1hJNzFoX3laNm1TOHVvVm54bGhweXQtOGV2TFlVZ1NrSjgya1lLNnJXOUE2VlgxV0dfdlVac2RPMmg3WUJ5eEdLME0zMjl2M05HcVVQRlh2eEY1T3NxMjNuS2dTM0IzSmJIU2tiMl9NcnlKa0U1UWt5MkNPTEd6Wl9BTXRCQzNDQXAxbmV0a28?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "India's benchmark Nifty 50 logs best day in three weeks on RBI's bumper policy support - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3NvT0ZJWURpUVNlcFdfbXNoRHhPWEI3dzRPY3diZ0JjUnJqeUV4MXFOTnVYWWcyRGhxRE1UdzVWVk1rTjZpMnI3SFZ6OXdBWkRFaFZrUENNTkU0LW9tQkotVmhyelU3cUw4bDV1Z3lPV3pZMmRxYW9kOThZVmxvT3ZVdTd2RVFYRlpZbm54X3l4aElGdmVxTGJlcmdCSlFid0RYY1Z3?oc=5",
-        "label": "POSITIVE"
+        "title": "Stock Market Week: Paris Air Show, G7 Summit, Fed Meeting And GE Investor Day - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHQ2S2c1eWlQQzAyR3ZXS0l0bWVEYl83OTZ4REo4UHhvSVlOMEtaaThKbUdfT3dSb2NsZWxwMmxyeDRPSnY3UFdwVVltZEJBUERwS3dYU3FPNkI0UDIwQzlURjgxTmJjLVZ6Nzlnd0pQOGI0TzZRX01UaThOaEdWbzEwVmIzZkV4SjR2dGRIX3oxZFZkdUFnbUVTVExhUWQyZTRpQ2hPOHBGZ19makM3WVIwTmd2Uk9tUnlYSkt5dWluSEppZTFnUjVFZUN6NjlDeWFLb0RhWF9pa0FMZ3M2UGtFMEdsSkE?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Delta Air Lines Inc. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTE4bXNCLVZKRHU5VjRFMHoxX09SNUhtaG5pSGdCcE9WMmtJRUV6Tmx2ckpPNnVEaWhicDhMWXdUUWlVaVBoWmxzbUN4dnZkS2lvRmxhdVlLNmJGU2lWSVZjaDFRN1NzeVBpbmtrbF9nbGc2Yy1FT0RWQU1aYzNOanpiWDZveHByZUliOHVERm5XZjg5dkxhMjFjMDBIWUV6d1ZxVGJQVTRGODRSOVN3cjlwbkxiYV92eGVaTU5jM1F0dmpJYm92M005VQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Stock futures tick lower after S&P 500 ends three-day win streak: Live updates - NBC10 Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNXhhNjZmcjFfUGQ0R2tObmxYQVhxYzRjMEQ5dkJRb09vUVpxN0dlN25MRWVaLTZvY2ppM01SWkI0TTB5TnA1R3psM3pmSjZYdWhIc1ctNHhjU0t3VFZSc1ZhQWljdDNXMDNCcHJ2UTBmWWo1Q3FpQ1pEdlV3LWZMem9rLVM3dk5acjI1WUxsVVptWEY0ZmkySHd0N01mV1dGaFM4bHNSb29DeGtTc3Y2dldZUnpfV0N1VHgwQ1VyZWdkeENod2Fua0QwdjdsM21UbjUzc2VxQjd1MDVHa0tBazU2ZzhXWjDSAe8BQVVfeXFMTm5TSDJSQVRqdTNWZ2t2UGVDaTZ4Y091T3VUUXRoSWh5M1I3amNsclJ4TmtZMXBwYjU0b21yZVlSZmw3Mkg5ei1EbWRSbTN4ejd5OUdVaGZHN1RTY3hDOWtVeHA2bXlQNi1FV0VvcFlTb3U5ZE9kTWFpci1BaVdqTEhDSV9NRlNfcTVnZTRONUdWYmNBRG16TmxQeHBPWk8zbDd6bUoyLTFFTGUyV2xURGhpeHJvMHRvNGtTV0pSdUVjR0FkOEp2a1dhVUgxN3VCZUdSUW9JOW5hOTZPWmEyNjBXbEV5WmI0SFU2bnFaYm8?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "United Airlines Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGlWVURxQXAxQmlNOWUyVGhsYnk0MnotX1NsUS00dHBtQzIyd1NWaE41Z09HSW9OaXdZUzk0YUNZc2p0cWZ1OW1mQ0J4WHRJeHpuYlk4bklQaV9YQUoxaEN4X2Z4RWJnTE1vLU9YTjV5Z0haaGY0bmpkcHgxYm9FSlNRWjVLZjR2VG1PSWxiRjRMRDZIaEhjV2ZmQVJ4VlRPalVZWW9nNlV4M2VSRHpHY0MwemticUZwb2RKTFpyZWlOdlRNcE4wRFpCblFobEwydnZBbHBNVQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Nintendo Switch 2 restocks live: US and UK stock have quietened down again after this morning's brief boost from Argos - TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDNubUlCbllOTmFOOFNORXFmbEJRUWRUbkFMNVJ4OGZjaVh6cUQzUkdIQU1URUQ1TElmUFFhRWo1cTZkV3BRd0c1YTdQLUFfeXdrN2lBbGZGakxkeWg4MEVPd3Z1U2F2TzNsVDF2dkxOckx4UVEzLUdPdGVCbTZhYmkwdUhaS0pCRzlHRmJUc2RyWkVnbWxaa1dvQVRLYjFpX1lQMg?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Newmont Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVZUYWNoWmlCdTlnWF9aRTAwY1ZTdDRRUzRvSzQ0Q19WUWEwRGhaenFCdUNYOXRWSUNyUHRwOW43S3g5Y0RwQTBrTjlQNld2bTBOSERkWW9HZ0dPdDVrOWFlc0VVNVl0Uy1OQXEwRUd2RWV4Z3otT0lsbmZETTdnNmwzTnBHaEMxWEhMV201WEs5dGNWT1BIYnJrTnVsam4xejZrcjRCMXlNNkw5Z3Mtc3IzNC1EWFJqVDZfSDhReFBVUE84VDNr?oc=5",
-        "label": "POSITIVE"
+        "title": "Stock indices recover, Gold stays bid and Oil corrects – Intra-day chart updates - marketpulse.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBXU1FKSGRXdzlFdXdOdWlWZHotMEFMdzBMM2pUaWRSZkQySzN5bnFZMzRKSnBydjNpekxqY1VpeGgxSG9VWmdMMUdaNHozZWJVODJpLWU1THRXbTFFSmdDMkVFaUZuYzQtZTVSOW9DQ3BYbUxuNFlEcVJ4a1VUcFREQWtJdzgxaXcyeF94aTE5NlpNTEx3ZFVkeEtkWEVpNXpxU3RSMEhuRXFBZkF3dWRTMlc?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "APA Corp. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlRJdWZVOWVVbG43ZU1oNzlDSHFzdjJVRjBYN1JwQS1vOV90YkEyUlBlY2tQZmtuT2tXTEVuRi05b2d5a29GTzM2eUFfRjdRd0RJQXBpcnhSRXhUYXhpM0ZwVTNCSkxDU2hEbWE4RDlUR1psREtEdW81bTVEeC1SZVRDdnZ0Wl9iUmpyaG9zbnA1amthQnYxNFJqU2RudDVlUjNvdzRfcEoxTFFvWkpIZTRLYi1fNG4wS1JtRA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmFFWDcycFFVTEJiSGlkU2xUREptd3h0UnBWOW4tbnFKMXFLUEFEem15RHVodTNEa3NiV2NMV3ljVmRfVzZoNXdlZmw5djlWaEtxd2R5UENsNFhDZDZoSUNjU0Q3ZnFPdDhSSThmaVJLY3U1Q0g4dmRlbWtqRjE2ZzN5czZGck1OekZwaU5HY29fSk1Ma1E0NWxLa09LYnZlMnIzR2VhdXltQ1NwZU9sUlhNWjVMMnYzMmN1Uw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Best Buy Co. Inc. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWN2SjlMbk50QS0zb2xBS3gtSDZ3cTBpZ2NJeE92b3p0cFEtOEtmOUI3U20zX2M0NEx0bGdKbW1OWVRfVFdZTnBOcGxKWFQ0ZXFTNFVOUmlJU0JqbzVRTVJXRE5ZbGRreGg0ZS1QdVlfX0NtRDJBYUc0aVNHb3hxT1JPanJlRGFJTExONzNVOTBORVpwc2wwMHAwWVJ3UjRZQXVBa3dpMVQwa0RnYmgxZERLdDdFeTdsNGJHblBkSmdEenlqb0E?oc=5",
+        "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEpqU0pVSWhhNHl1b2NkdlNnQTlVWkF5RjF4dHlIaU9jZk5INEJ4cjRuTndpQi1pcFc5a1FaRzM0dmU1RkN4U0I1RGh2NnVMLVZMYjRyaXk5U0VyNWNKYVJnX0pNbU1TUkRYTFNFcXkzR3VMNWRKUVlkWFJJcVpsQXlyOHBvdm56d1hLd1hoRmZrbXJqRENVNWtfRXFQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Oracle Stock Surges for Second Straight Day After Strong Results, Rosy Outlook - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEhZeGZtV01icllVbVBWZVBMNWtZcWJSRUhPdGlJMno2TEcwRkpXb1lwNE5YT0lMeDZYaWYtb2RlRjd0SmdkWnZ5QUVBVUFSUzJyRkEwYXNsOGhLUTM1QV9WQnQ1RHRFbDM3V0w2dlhnWGVLclQxcHpIV3RHckpuZV9yXzB2VWtmRlFJLUFrVEtNX0o3d1NMWDZGSDFFN1JhUmU4c1VTRF9fTU5fMHNsSDZQLXI4dWQ1VWN0QnZtVy01cVR6X2xyN1VyTW9kX0VKYlloaWtWUXFtbkMxUVVNR3BFaE9WMUZYajNadlpn?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "JPMorgan Chase & Co. stock outperforms market on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdThfOE53Yk1qekhBVnpWVEJCSlNDTkdTVlRlVWhaT1IxTTlRY2VMOUZkc3ZGSlJfcFdFMElLWlplY3V3cm1qQ3hRZS1lZXNqUlRONXJRblBWQmlvWjVyeEdPOVFvUm0xcEF2NUdYSEUtLWJzeXM3Wm5vOE0xWkFDOXNFcmVJWnlMNXhwTURuVkZHYkFRUkowUXNKTWxwR05UMTlkYlVDYnIzd2t1NHB6TXNlMFpmNlVFb19sdnh4SktjeHgwR2VzdFRwOHR4VXZNTThuOWtONUcyUQ?oc=5",
+        "title": "Archer Daniels Midland Co. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcE4wQXpPdUZqV3F4cGdYVTA4ejhTSXFuWGI3VU1TQnIxYTQ1bmhibkkxRjk2azVnRjFZN0NaMWh5WXp3X1o2YW5GdGZOem1BRVk3OXNLQ2V6d3YtaEFQbTZMOUtvWkVLNGZ6R3Q5VUhrejZBMV93T2R1dkRLbFFWUGp0Ui1iNWRIcEtQek1IbUpOZUtMdGtKajNucXpjNWswSXc0LXViTFdURTRkS0ZzMElBMFFjOXZSa2s2RExUVl9Kc2c3OW9Vc0lIUVdJbDUxTlNv?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Bunge Global S.A. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXR1dGR5cWpSZVI1TXRNVWktdWVlVFdXLVkzN0dpVGc3RFQ0WmxNQUZfMzVXUjNYYVRhQTA3UVU1ckluV3ZPS2EzbU1HenlIUkRUamhZZDltOHRrN3ZSbHRRMFJ4QjlJYmQ2QjBqdE1QNDYxUWRFdE5BRldKVEJRMWRpcC1STWdGRFZBUTJZeGtqeVEtQnEyc296WG4zMHgxT2FmNFVBNkZsSFVxVUJJMHdVRUpPV19fLUFUM2JQTTR2SmR6ZUlB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Halliburton Co. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenFJdDJtS2lfcjlHSWNCUDZtYkNqX3lSSDJ0R1VyQ2dmQi1sOVkyNkxoZWxPTzB4SjVhemdULUxzLUkydVlkRy1NczBJMWVsTk51OUVfQTh2a19IeFF3ZUVuYkJCSUxvNHlSMHkzWXZMWnlmU3NEcHphUDlVaXllSTlhdUVNdnlxenFxcFJ5SXBHdXZaQ085VDZNTEJpN01tcGJtUmhERGhJZmRjS2RrcjBqRWUtTWJKdy1xWTdHNktJSzFV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CF Industries Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeFBCWWhYZkR5S0tHQVZXdnp4Q19KRDl2a0NRTUVMY0FpTVJkUkpFRUpDRU5MazRLVW5fSlpaYXhIMDcxbnhPWl8yazBFLV9wWmFHNXRlVFVvdVFyS3Y4bEFYTUQyUHNCRHlnMmpUX05NTTJDdGFCeW9Kb0xWbFFzS0ltbktNbTF1a3FTYVdnXzZtSnBaeXhKQXNBQlZxLXl1VEZmOGQtTk5ydUZER1luMXk1eFhkMTZwT3JwQTd2d2hLeFRKLWc4eWlXb29kVlM0VUZGNQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Oracle’s stock is having its best day in more than 3 years. Why Wall Street is so upbeat. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkYtRUMyTldNQWt3OTdxeW95MDRzSlVhT1Bfa3VGT19rZWJCcXVxMWJtZU9JYXBGQ1pscThZbUdBRS1kYXV5UERrejN0T3Q0M1BRank4eFNxcndvZ0VwcTdFa2llelpoN3Vab1ZyeXZBZ0hKTDV4YWl4YmhlcmVmVm9ibEZ6QkNmQlV4enN3Y1FWeFVtVWdmdW9NVUtNbFhPY1ZJajc0dmhfQlJucFJ4QnFsQUpsbHN0Vjc2cXJya21vZjE2a2Ezcg?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

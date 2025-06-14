@@ -2,16 +2,16 @@
   "ticker": "HAS",
   "name": "Hasbro",
   "sector": "Consumer Discretionary",
-  "market_cap": 9277940736.0,
+  "market_cap": 9523166208.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.851484,
-    "PB": 7.930291,
-    "EV_Revenue": 2.79,
+    "PE": 22.429043,
+    "PB": 8.139897,
+    "EV_Revenue": 2.932,
     "ROE": 0.39041,
     "ProfitMargin": 0.09988,
     "GrossMargin": 0.64394,
-    "DividendYield": 4.3,
+    "DividendYield": 4.03,
     "DebtEquity": 280.61,
     "CurrentRatio": 1.655,
     "QuickRatio": 1.205,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.12252362176652426,
     "ROA": 0.087139994,
     "PEG": null,
-    "EV_EBITDA": 11.755,
+    "EV_EBITDA": 12.353,
     "BuybackYield": null,
-    "PriceToFCF": 17.753426590126292
+    "PriceToFCF": 18.182446536548028
   },
   "technical_indicators": {
-    "RSI_14": 59.47148153800482,
-    "Momentum_10": -0.2861482485541781,
-    "MACD": 1.4235723471737316,
-    "BB_Percent": 0.5669521713115238,
+    "RSI_14": 61.35909552452715,
+    "Momentum_10": 2.068651285200175,
+    "MACD": 1.695249788042844,
+    "BB_Percent": 0.7402473104843891,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9297056773674068,
+    "ValueScore": 0.8849608268428193,
     "QualityScore": 0.4459047891913477,
-    "SignalScore": 0.5420617067855982
+    "SignalScore": 0.5178526892098712
   },
-  "volatility": 0.028280182978635,
+  "volatility": 0.0281848217780056,
   "beta": 0.556,
-  "return_6m": 0.0248862982933317,
+  "return_6m": 0.1238556614352603,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 76.34231
+    "target_mean_price": 76.88077
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 64.98
-      },
-      {
-        "date": "2024-12-10",
-        "price": 65.36
-      },
-      {
-        "date": "2024-12-11",
-        "price": 64.38
-      },
-      {
-        "date": "2024-12-12",
-        "price": 64.05
-      },
-      {
-        "date": "2024-12-13",
-        "price": 61.76
-      },
       {
         "date": "2024-12-16",
         "price": 60.82
@@ -537,28 +517,88 @@
       {
         "date": "2025-06-06",
         "price": 66.32
+      },
+      {
+        "date": "2025-06-09",
+        "price": 67.57
+      },
+      {
+        "date": "2025-06-10",
+        "price": 68.85
+      },
+      {
+        "date": "2025-06-11",
+        "price": 69.04
+      },
+      {
+        "date": "2025-06-12",
+        "price": 69.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 67.81
       }
     ],
     "current_price_data": {
-      "price": 66.32,
-      "change": 1.14,
-      "percent_change": 1.75
+      "price": 67.81,
+      "change": -1.69,
+      "percent_change": -2.43
     }
   },
   "news_sentiment": {
-    "summary": "Le marché boursier continue de montrer de l'optimisme, malgré les incertitudes liées aux tarifs commerciaux. Texas Roadhouse voit une reprise de son trafic, tandis que CoreWeave, après un début difficile en Bourse, connaît une hausse spectaculaire de 250%. Tesla connaît des fluctuations, mais le prix de ses actions rebondit. Les actions de Circle et d'autres crypto-monnaies bénéficient de jours favorables, tandis que les préoccupations liées à la régulation entourent les actions de Google. La question est de savoir si ce regain de dynamisme sur les marchés durera.",
-    "sentiment_score": -0.05,
+    "summary": "Le marché boursier a connu une volatilité accentuée suite aux tensions entre Israël et l'Iran, tandis que le pétrole a grimpé. Oracle a enregistré sa meilleure semaine depuis 2001 grâce à la dynamique de son cloud. RH a surpassé les attentes en termes de bénéfices, propulsant son cours. Les places boursières européennes rivalisent pour attirer les introductions en bourse, alors que le marché semble optimiste malgré les menaces de tarifs commerciaux renouvelées.",
+    "sentiment_score": null,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Microsoft Stock Proves It Still Has What It Takes - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGlkSmhHdnRaa1VEN0hOd0dULTRkV3lrdm5RNlU2NEsxd1RsUzVtdjlQQ29GSDE0ZC04RVRzbV9qMFRvUkJqRUw4YUhoN0NQbDBjWXUtdFlLblRrQ2dnenV0Z2xCMkxISGl0S0NjOEFVSlRpQnFyRHBsWll6eDRUZEJzelVyckk1d2JTUA?oc=5",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq dive, oil surges as Israel and Iran trade strikes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0pkYkxZM3hTdXE5OHUxUmRDTDJHQ0tYY3dRU3o5WEZJdExJZ3A0cS1GTjFSX2tCenVvdWdvVEhnM1ltbGU1ZE5hNEdENzdzQ28zQlJ4TjA5aG9haGc1dExTSFkzVUw1VUVhSjJoaC05NmhqVFVZaXNxZmFmd2hadmhFQlhmblRxOHgxc3loNzdvcDY2Z1JjTVhGaFVFTVhVVlBZS1haWHBUSno4azdVSXJnVnB6bXBIQmlBZzFQN0hEekE0SlYzU0I0emxEOFFFNHc?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Oracle's stock closes out best week since 2001 on cloud momentum - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORU9MQlhId19RbmZkMTJiY055eVUwUE1TZWVRRXpHQkhMeTlxUWxYN0V2WlVIQjhETW9pY0tFYUgxSVB1VXV5b1pPdGxYd1I2b0ctX0FPUTBLSGNFcVlvd3g1YzZSazU1T2dmX0VnM0hpOEQ2NHcxTG1HSUdpLVJLRDc2M3UwYVNVRF8zYmlYYm54Q0NVaWlxWF9Nakw2VEtDS3hZ0gGoAUFVX3lxTE12bFoya3c2bFAtbVZMcjVxYnNBRUM0dk1xQ2kwOV9OclBkZTJEV0kzQWo4TkZvWEJhbWh5VW5oUGpZei00eGMzY2lFeW04Ukw4V0JoV25QUDZOZkRnMEZ1NS0tN3VxUU1pQXhvekw5OEF2U0pNbmlZdlJJWTVtLS1tM1g2Vk1GTS0yMk9NTFpaVGg3NzdYcjRCdVoxRE9iZWEwQ2stcFJ3bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market Has Erased Its 2025 Losses: Why It’s Time To Be Careful - Bankrate",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjh2eTZEQXhBa2J2V2NURWg4elE5VWU4aTBtTGtKaEpscDJ5Ukc3MlBib0F4VHVxUkNKUWlUSWp1LWo1ZnB1VTZGY2ZQaFdUS2liV1Q2eFYydjB6a0tCbDY5ZzdqLWhmVFpLMEtZaWtpUm9VN2pwMUlKcU1ub001b3Q1d290b3JlRUc1MF9yT2E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RH Had Better Earnings Than Feared. The Furniture Stock Jumps. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KQW9wQTJhTm96ak92V2JiRHJ6Ql84SWdrQjkxQk5kWVhycjlmamQ3eGFmQmRDREdINFloWFpPeDBvNUxxaWI3TmwzZE9PYzlfQjZ0NHJtWVhoTUp5Ull4WjFEZ1REWG13MlJhTEFCR2d2M3M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Europe’s IPO Drought Has Stock Exchanges Battling for Listings - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVRFUURFa1Fxc2phSG9mbWZjTWMxNkhYckliR2E3ZW4zQzhFLWU0cW90dXk1QXdnY2ZfWC0yYTZjX3dsSWRCVm1MeVR5Q1JwNlB0WkN5bWh6ZzQ4VnJ5aUZjZXhGODRwMUlqek5nM3FJNmZFakNYLWVYQ0stbXdiTFlQeDgyOG1EYlAwQ1pZVzJBRUNvcno3R0M3QUh3QjVVTWRESjBENnktMHdkblU2OWhIZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Stock Overcomes Much of the Damage From Musk-Trump Fight - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlRSd2h6dGwwRExTTGV4THJhTGVaUjZWVzZCSVQ4QmpTdV9jQ2RyNlVvQjRMQl9vSGQ3RU5FY21SSzlaWXN4aENZOFEwTndaSDl2SjNZZ2lYemNpYWVrQnFFMEpkX3Vaa0VLT1ExTFBKSjBNX0VGNjV1UnhMTElWMVdSTE14RzludGY5cG5fUXVVNlhhYXo4OEliV2RlNTBTY1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nintendo Switch 2 restocks live: US and UK stock have quietened down again after this morning's brief boost from Argos - TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDNubUlCbllOTmFOOFNORXFmbEJRUWRUbkFMNVJ4OGZjaVh6cUQzUkdIQU1URUQ1TElmUFFhRWo1cTZkV3BRd0c1YTdQLUFfeXdrN2lBbGZGakxkeWg4MEVPd3Z1U2F2TzNsVDF2dkxOckx4UVEzLUdPdGVCbTZhYmkwdUhaS0pCRzlHRmJUc2RyWkVnbWxaa1dvQVRLYjFpX1lQMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Broadcom Has Quietly Become a Top Tech Stock. AI Chips Are Driving Its Growth. - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYTcwS1AyNnhSS1hvd2s4T3dHYWFmdzVEZGcwdTkzNGhoYzd2eVBMNjNPT2ZVRjZwUG5Fa3B2SUtod1FfbkJ1U2J3YVFWMjFWaXptLXNid3VHeExNUU1yQzhNdDJXd0dqS1piSE1Kd3d4dzJnaWdLY0ZadGpOMTlvTFdsTndPYktXTzlOc0JsVHJMOGc4VEstek9fZDFvLVE5NVlMd3hSTzZpODBnLWsxNjlRZDVsQi1mTTJJdTZqdzZDR0N2elNkTlczc2ctM0RMaEhWTWZuTHUzdTkwbmRtRnVTczNNV1BNZTlfRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MercadoLibre: Even With A Premium, The Stock Has Room To Grow (NASDAQ:MELI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazNyQUgwQTdlREs5cEZVeXFudENURldsTlVoRzJpZHY1bF9QQTJ3RXluTWxKR2pSVTJTZ0Voa2hRUG9SQTNMUEZWYlhNYjA0cVRaQ05ka0RtVk40MlZoVmZUdHF5TjQ4SDZwUUx2OEdOc2FQNFdZTDg5a2wyR0JqeE9yMjY0V3U5S1hQTWltQXFWYlJQ?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Has the Stock Market Reached Peak Optimism on Tariffs? - Morningstar",
@@ -566,96 +606,56 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Texas Roadhouse traffic rebounds. Here is what else the stock has going for it - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHBydVBBSHJGRWFaSTVhbmlMZXlmSmhqcGZ1SzZrdlZLVnhnZWJVREtWM0g0MzJPX2NMeVZicjI2WEh0LUdxOVVUWWZEbEQ3YWR4WXFxdFZoYUp4ODdnQW1NdVJWaEhsRGszN19HQUxDRmUzYXkyR29zNDJKdk55YVMyZ3FoV0NfX2I4Skp6alBnbjhTclZXR3ZrN1FaVGhZM0pHUVJHTFNib3FielBuenVkdzQ?oc=5",
+        "title": "Exclusive: Kelly Loeffler, a Trump Cabinet appointee who regularly appears on Newsmax, has quiet financial ties to its parent company - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaU9YZE0xTVMxSGJ6NzQ4OGRaVFFjSU5wRzZ0TWJGeUpkSW1BVEtiMUJCR0N0dS1zVHNnSy1xZlhMSDJYM2NOdnZBeS1lbHlyZFpkVjZ4SkZySmxxaGlXSXBUZXNLQlFBNWlDc2hJTVV5bDhLODA1dmU1OXV0NWdnX1hWRHZ5aWU3QklMT1FvMV9mMUpHTWZyVnlxQmp0TkRj?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Two months after CoreWeave's IPO fizzled, the AI company has surged 250% and left doubters baffled - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM21lZjFDR2s5MUFZTl9pRC1Md1l1UFl1QjRFSHdBQ2R3V2pVQzMwalQyV1dKckg0eEp5UU1PM0VkeE9oVDQwMndLV1YyclZ0NzJQanJ1RmFNVnVwZ0hyRlV1Z3NNQVM3M3RSU0trLTZ2R0E3VWJtSm5lQ2ViOEdxWlJmbGRxNHR4TFNnbE9aR0d0WTd1eEtmYVNXdVJjLTE3LTRNRTlBN2FzZmMxMUEwdllweTNkbFU?oc=5",
-        "label": "NEGATIVE"
+        "title": "Signal: This Semiconductor Stock Has Room to Run - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORU93TGctVm9felpBT205T1p5UDhQU1kwUmlPWEJIUjYxQnVBQUREa295VG9YZ2FBS0lOWXF1bHpmT0xpc3ZLNktpT0ZMbXBjaWlGSGUycm5wejFjRHNDSFZvMEpIazBJRWk5RlMxWHdwUjZ5RTlWMEZlYlFTYmZSSUVwSlJrTHN3?oc=5",
+        "label": "NEUTRAL"
       },
       {
-        "title": "Tesla Stock Price Rebounds but Ends the Week Down Sharply - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlBnbkd2UDlnVWZQQ1lPN3Rhd19jSlRvYmxRMmdNRkJrYjJkX3BnMnhFWHBpMHBISDJzSUFDaDhic0NLQThKVlBES1pHS0NYb3RUbC1ma0ZIWFlrbUVZaVNoZndrNEhzVE4tQ3ZoWWNTQ21xWEZQUTEzNFZiX09CY0RR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Circle’s stock is having another big day and helping to boost other crypto plays - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOU5Lclk5c0ItZ1JaRWlHY2YxbVp5cDloUWYyb1JIdXZRYk5xOFlXZEhYR21wQkl0MElDTkdrLUJIMnFQc0RlSWVLV0ZWUjFOYkd0UTVNU1RlaHc5NHBWSXJMdGtlZVk4dTBpSlBJVHFSZHhTd3NHMVJ0LXE1ejF1OXEySmZOX1JBa0NmYkZsdm1WbEpET291MnllY1NzMXNzVGhXZTRqQVJ6dV9fT2hKSS1YR1pjdTJZdlFPXzNUR3Nod2ptZ2s1SDQ0YVk4X1ZHNE1ubUpfaHlfbEJKdEJMeHhB?oc=5",
+        "title": "CrowdStrike's Renewed Growth Opportunity Has Been Overbought - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXE3Tm5mQVgxcmh1S1g1STQzblpUeEJnNzBPMmREM0dlM25hYmd6SE8xc1ZMUEdnVWJFVWNhREhxcTVGT0hZM2ZoNTNGTVdLWEtUREx3bWY5VkpCQUxFZVFLUzVnTi14RHFwYW10NjBYVlMyMVY5Tm5jNy1ZaVl1d1d2ZEdjaDd2RFJuMTNGMERsNWpjclVGejQ3cU83U3RkczhCOFZBck9jeUVvUkZUelZVRzY3cDc5aUs0bFpnaw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Tesla shares rebound amid broader market surge as Musk versus Trump spat pauses - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1J2cTlGMThWOVdTLU4xeFZSSHRPTDVFdnYxWERQWGpfR1lONFgxSFZLZTQ0Ukg1S1BOUmN6QVlEdUl6ekprbzU4eC1oei11ZU5wVnhtM0p1ZEhzTE5ZSEVZbG5aWFdFNC1oaEM1eW1nOWxyOTNta2E3TGdrMDdrbklqOThzNU9jNnFSTDV1eDA1T2NEbG5WMG1qNNIBVkFVX3lxTE5LTHZNcmZ3blJtcktsZ1NLc1ZmRC1BTUs3N0tITmszR0hlbDBfWGRXcVJHcEl6Wk9MQ3M1b0VxbnpOaHV3cnctblVXWGJmQUZqLXMtdEVR?oc=5",
+        "title": "Block vs. Upstart: Which Fintech Stock Has More Upside in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXJpaEJYNjM1UHVNcEl0eWoyaW96b0JXei1ZRC12ZEs2NTZUNHBUNEplUmRkVlZSSGF6MXVVMS00UzdqVTJZS1JpSlBmQ3VtV1drTEJ1MVJrb2FFMktkRlNlNEtCTEg1T3BMbFZILVpQQzhOemVkSlFydHphdHpTeXNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI-Powered Lending Lifts Pagaya Technologies Stock (PGY) to Multiyear Highs - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUtmSkxxTkdBRTIwU1VHalAwMFFWY1g4Y1ZnOWFXd1BwcndTZjBtbUNXRUZacGtTTWJqY0l4Zzl5M203ckM5enZDbFlGVkFsU2lUNC1CVHp4bi1BcVdLbmN3b0pLRFhpRDFGTVZLN3pXQmR3Z1VFNmpib3ZVSWpYWWxvYw?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Google stock has 'a lot of fear' related to the DOJ, investor says - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NWXg5S09oM0hKajhrNEdQN1JNVXpLUFlOTTFtTWkzajhJSXZsZXZSaDBLZEgtbG5mZEluNFl6OUxNbEY1LTFNSE04N0loekRSM2dRdEhveWhOdzg?oc=5",
+        "title": "Pool Corporation (NASDAQ:POOL) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc29SUDVJc1lqMVNPb0NKcTV6TENPNWRUYURRZVA5aHpGNk13SERZb2lfMk1xSEJDZUkwbVZNNGlaV2trRU40VW81ejdvbU9HN2REZXRQa2JwQnVhNjRhaUZSVVdRVy0tRnFvVDh2Tl9IRnhsbFpvbkhBZDZXYUItVmIwd1dJT0U?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Stocks Rise as Jobs Surprise Spurs Treasury Losses: Markets Wrap - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFVNN3ZGZy1YZUFlb1BxSDJkNVJxYlZxOUtvdzhOZmFGeFdHVVFiTFV5QnpGR2dkc0lXaFdjTHdRVHA3RUxoMkEyd19UbFFCZmN1bkFFY2ItWVVpZUQ4RlB4dnd4VjEwYi1tSVBkaEhXT25XU3o4d0FmOTc1Vnk1OUtrdkc0TlNXR0hyN1VubFhiUmIz?oc=5",
+        "title": "Stock market today: S&P 500, Nasdaq have records back in sight as stocks gain amid US-China trade talks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYTdxOF9IZ1puYjR1SHY1cnljNVNNaGJ2ZkhGNmFkeHVCQjZBal9hMWlmMkhhS2VfcWkzemxkMXU4OVlNRFRaMGZiT3RyaG8wRlpRbkVucGpzeXMyeDN6d3o2MVFaTUttaktPeHhDa1AxbEtjb0VSQ0NUUllmQ016eDFXQVJ6VzZQOEJnTHQ2TWJRNHRUZ2JldGl5OTlOeUU5bnFnQ2FpUHl0WnhSVGlsQmljN2RPRUJtdGFaakEwSVFNdFlOYVVMNTkzX01ZcEN4ejdURDVVcW43UEhlMU9CaFJMdGpaUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Hasbro (HAS) Stock Moves -0.38%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mdGo1WEI2TTVHMzNOT3ZkSG9IYjk2MWJnbm1kN3dwQnhJenRpYnoyTW5qQlVzeUtZbkVKVUd5NDFzTDdYYWxWTkVnOEtncVNrbnBrbllSTkdfS3JRUG1MV2QtRFFqa0dZbm5FUGZSRFZhYS1uWGo2Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microsoft Stock Proves It Still Has What It Takes - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXFKbl9NYnZsOVNDTlZLRVpWNlVqN3hhQzIxTndBWE0xT2J3RHJueEFFZzFVbDVjb3Z0SUhYaFVrQUZ1ekVhU2VILWphc3FzaEhHM2tCM0Ffd3RXUG9oQm4yX2dWYTF1YXVDdXlxc0pjQ0lQM2o3OGktMjY4SUlfbjVGbDB1Ul9KdDFvN3JQcXAzRThvTXk3RjJleTVIVVhqaEpWeG1qX0J2N3lvZGZVRlIwREdIRUc0WldGcDFTU0xkcE5EVVBWRw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The U.S. Stock Market Has Made an Impressive Comeback, but Will It Last? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEg2djRQM1huWE9NRkd3MzRFYW1IaDhSd2NVMWd5UExaUEJSM1ZFbGdRRlZVNWU0dklWNExhNWxYVDBUZE5rZzd4LXlKOEQ0dzVLbEJOMy0tdlVscThhb3ZRLXZmYkVnNlRDcEZqZ2N1NnltWk16NEhIVkFpdllhY2c2eFVUVzJQRVJMYU5ocGJzQU9mNjJNbVh6SDFKdEZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock Of The Day: Has The Tesla Reversal Started? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0ZoV1prUEVmcW4zU1BScWhxa28tcDdLNzJEZ2JNWmlIQjVvWUNNYTZxbjhIb2x0QkJhbW11bXhtV1d3SUJtRm9ZVWFWNVEtN0F2UExZNTdvNE4yVjBta2hmTmFWNWhuc25mQnptMHdrcmZxalNnZkFSbnkwSU5CdHVCQk9zYXdMMUpsSmJZTUl2dTVfY3RjY3JuMU9DekJ0blY0R09NSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nintendo Switch 2 Consoles Are Back In Stock and Available to Buy Today at Target - IGN",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRDlPTmI0QVFsa2thZWxLRHNXdkFWbGwyN2J2b3M2U3g0SXN6Y09DZ3ZBN3dtREhTRkNCcTlBbXFWdERnUmx4UFBvRWFTWTJtNjdwZ3JCb3RmR1gxUXpRQ1VUMFVZdU12OTFR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "You can find stock-market bargains now — if you’re willing to break with tradition - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUE9NaFdCUzF0NEllVnJkWXJKUkowVDNxRXYwOHpDUHdsUkU1MlJ3NGhqa3VXU2VZaGlFSU9JOERmZEtCVGR2QTE1azFhbXV5UlBhZHBZaURkbHpNOGJWRndFNE1GbEtDa21XaVBvYkR5RmVuSUp6OTR6c19McXdfZUM4dmRHcHY0MVBJcWQzMy1fY1o2ektzNU0xdEthSkpRT2VfY3NnQkRqeUdvbDZpbkZNZE0tUmZ3bVFzX0tDRXJoZ0JORk1JWElJQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dollar General Stock Is Rallying. Is It Still a Bargain? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVB5V0t1YUZob3ZKemtIb25oUlNwZkh6a1BJdE1TaDFoWU5IOXBxUmtrLTg3WWJCdzNENHl0NndiRVBsX1Z3MmdadDROZjcxNkwwUU0xV3hPZG1hcC1HSEdieXFtdDRkTjRVcHZyYjNySHZtVkNwQ2owb2dKUFdmdUdMMzkxM1My?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "June 2025 US Stock Market Outlook: Has the Storm Passed? - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGtJTEo4ZUxia2VzaTB6ZDRaUlZDdmljaDQtd01md2JNRnQ5TkphWHRaZGpMNWExR2JyNUtPQ1d6OE10VDFuM2VfVEExb1d1RExVcjFrbXBzX0gxR05QNGhLeWI5aEtlTFJCTWNpa3FIV1Jzbk9mQU1QcEh6SnZBcGVfdTRtcmR3N1hqLXNhMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BYD’s Misfire With Price Cuts Sparks $20 Billion Stock Selloff - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanI0NHJUNlR0NGdRVy1rNkpjVlZIQUg4Y2R6eTNUNHNwVmtCZkNCVHlNSkNyM2w0X2pEZGR1bkJ2UWFYV25OeXlrUE5jN283X2xPTHBvTzJOd21rMUtyS0VDNzBnQXVrRm9lSVZISFdxekNYNGZuYmcwZjdKM3hVYXQ2MlBZaGZMeXROOTlRT1FjTWJ2LWpjcE4xVWlBSE00dnJYdFNTYnhObFY2UzJrNmp3?oc=5",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq drift higher, dollar slides amid renewed tariff threats - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0lrb1llSjRMdlppNUI4T2YtQTFYWm56TTFDWVN2eWpQMGNuM3NFQ0NzZFc0Tmg4ZTVYRVFmNmNjTHRwcWpCUUxHTkZrQkNHVzNZU2pDLXNRaXFvSjdVMDdiN3ExYXl0d0o0Q1c3QVJqMXM3RVFpUWNPNFlfRDNJNEJ0U2pqQUV0Q2R4aFJhbFN2X3BhT1BMd2xXbU0wSm1QY3JtWkJ2dE4tYVViMjUtQzRGMXBiUjE0b3ZkZ2ptaGg5WU13OHpQOE1EXzJxajlxM25XTFZWLXprUQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Investing $50,000 in This Ultra-High-Yield Dividend Stock Could Generate $2,865 in Annual Passive Income - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14TTBodUJYZkpLemdvVjJyWWRvSm5VSlZDUlZwZDIxa0xKek1tV3FMazk4MVYyZ3oza0cxNVZWMGhjWE5xdnZzWW9sVzhNbHRLZnEwUHBNY1ZQcHJnSUY5R1B0RkJYbi1IU2lUSzJOdHltdnk2UHJ6LTlMUXJJdw?oc=5",
+        "title": "Why Waste Management stock has been anything but trash - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGhLTlRUV1RhaWtickd0Wm9XRm9fV3dnbFpPWG9oTGxYSkZUUFpiR3Fvd2tDazN5dUpUcnpCRnJQeHlQcVBtaTJNNmRoQ2VlOTJpLU5WTHdhSXFoVlNXakpsYi1mM2kxVUNPMkltQnNqclZXY3FKaU5lNTc2SVFiY3BrN2dOY3U5R1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Circle’s stock is having another big day. What the blockbuster IPO has meant for other cryptocurrency plays. - MSN",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTEhjZTItcmhLcnJFRzlNZjVHZm4weG1YNTN1YW80ZlFoczFiaF90aHBZNXZINW9FWGxocnphR0Myb3MyZUl4bmczRTJJQ0xuVWVJV1VqczhUWEMtWi1FRnN0Rm1Yd19ZUmdINzhqd1lEckI4Snk3WDd0RHZ6LWVCZ0ZLdTBocm5ZTC1lQ0g5dGhPX2g4LTRkVEgtczVjWUtsRDFTaHk0MHl1TDNNaVZTdGc1VTBtYVpGQjRKcV9uRG5qRzIzX1R6UFVjNHBHbFFEMVFsM3UzNUY2X3ozT0czMFFDVmpZdVFPcjQ3SGxfZGRJSW9QX1pWRFBVR0ExdzlINVpwRXM2cW9uZVQtVjBNODRZZHo?oc=5",
-        "label": "NEUTRAL"
+        "title": "Scotiabank Has Lowered Expectations for Mid-America Apartment Communities (NYSE:MAA) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMWhSZkJjS1hXNXlXLUxlaVZjZ0J4Y1hfYUtEWEU1eUN6VzJLSE5ITHFjYzNaNFRKeUdoc3QzNWRpc2l1bGNIUldKblBhdlVBRFgtODBMbklBX2ZHWVlWOGVhQmk5TmZWdDJ4Y2oxUTIxMlp6QWZkNWg1VFgwbEJjTUR4V3pRSng1b3hfeTFjTnhoQmlFMWF3blJyeERZT2U0VUsydzZlWFlJTFA5dWY4YldqaUprUWhrM1R4ZXZtQndKT3M1UVBwcThiSUQyaUVfZFFKWFJqV1JseTAzNk9taQ?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

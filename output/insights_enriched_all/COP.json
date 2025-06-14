@@ -2,16 +2,16 @@
   "ticker": "COP",
   "name": "ConocoPhillips",
   "sector": "Energy",
-  "market_cap": 109930659840.0,
+  "market_cap": 121835192320.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 11.036756,
-    "PB": 1.6850824,
-    "EV_Revenue": 2.103,
+    "PE": 12.231939,
+    "PB": 1.867562,
+    "EV_Revenue": 2.303,
     "ROE": 0.1666,
     "ProfitMargin": 0.16149999,
     "GrossMargin": 0.49047002,
-    "DividendYield": 3.66,
+    "DividendYield": 3.29,
     "DebtEquity": 36.457,
     "CurrentRatio": 1.268,
     "QuickRatio": 1.023,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1465518633714744,
     "ROA": 0.08781999,
     "PEG": null,
-    "EV_EBITDA": 4.858,
+    "EV_EBITDA": 5.319,
     "BuybackYield": null,
-    "PriceToFCF": 12.703184791103288
+    "PriceToFCF": 14.134735568011823
   },
   "technical_indicators": {
-    "RSI_14": 47.64342266620203,
-    "Momentum_10": 1.1472260599504076,
-    "MACD": -1.0847209655559311,
-    "BB_Percent": 0.4151363427810563,
+    "RSI_14": 68.36575871191944,
+    "Momentum_10": 13.251324417325652,
+    "MACD": 1.0329713115668255,
+    "BB_Percent": 1.1035841608158232,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9342646974201932,
+    "ValueScore": 0.8913481554246139,
     "QualityScore": 0.4198753580557798,
-    "SignalScore": 0.5910485344933114
+    "SignalScore": 0.4250707689031026
   },
-  "volatility": 0.0246282918003939,
+  "volatility": 0.0250340376379636,
   "beta": 0.62,
-  "return_6m": -0.1422809304148703,
+  "return_6m": -0.0286952687190688,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 29,
-    "target_mean_price": 116.59
+    "target_mean_price": 115.72793
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 103.16
-      },
-      {
-        "date": "2024-12-10",
-        "price": 102.36
-      },
-      {
-        "date": "2024-12-11",
-        "price": 102.19
-      },
-      {
-        "date": "2024-12-12",
-        "price": 100.91
-      },
-      {
-        "date": "2024-12-13",
-        "price": 101.02
-      },
       {
         "date": "2024-12-16",
         "price": 99.57
@@ -537,37 +517,97 @@
       {
         "date": "2025-06-06",
         "price": 87.22
+      },
+      {
+        "date": "2025-06-09",
+        "price": 88.04
+      },
+      {
+        "date": "2025-06-10",
+        "price": 91.18
+      },
+      {
+        "date": "2025-06-11",
+        "price": 93.35
+      },
+      {
+        "date": "2025-06-12",
+        "price": 94.69
+      },
+      {
+        "date": "2025-06-13",
+        "price": 96.96
       }
     ],
     "current_price_data": {
-      "price": 87.22,
-      "change": 1.82,
-      "percent_change": 2.13
+      "price": 96.96,
+      "change": 2.27,
+      "percent_change": 2.4
     }
   },
   "news_sentiment": {
-    "summary": "ConocoPhillips (COP) a récemment attiré l'attention des analystes financiers avec une série de nouvelles contrastées. Alors que Raymond James a relevé son objectif de cours, les résultats solides du premier trimestre soulèvent des questions sur la performance de l'action par rapport au Dow. Malgré l'acquisition de Marathon Oil Corporation, des plans de licenciement et des rejets de modifications statutaires, le titre a connu des fluctuations importantes. Les investisseurs doivent surveiller de près la valorisation de l'action et les perspectives de croissance pour prendre des décisions éclairées.",
-    "sentiment_score": -0.05,
+    "summary": "La tendance clé pour ConocoPhillips (COP) est à la hausse, avec des gains significatifs durant la semaine précédente, malgré les tensions au Moyen-Orient. Des analystes notent que le titre semble attractif en raison de ses solides flux de trésorerie et de sa valorisation intéressante. Certains experts recommandent de maintenir une stratégie de détention, soulignant le soutien de Jim Cramer et des courtiers. Toutefois, des ajustements de prix cibles à la baisse par certaines institutions pourraient indiquer une sous-performance relative récente. Les investisseurs pourraient également être attirés par le prochain dividende de l'entreprise.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Raymond James Raises Price Target for ConocoPhillips (COP) | COP Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWM3eE1DX3VCTmtkWkRxem5TbjhaUzkwd1RTUm1RZElERDhXSGNRaEQteEE4QWIzaTlKVFVKVmFEdk9OMktXQWsxV2JBZG9xQmpoZnB6M01fMXhDTFFsMExwekRyZFF3Y0h0Vm9kdmgzVzhpZEZ6dU93c3hhRlpRWEw3X1QzbUM3anJkSmVxYWxwcjVQYUR4M2pxOURuMUZIWjNpNUU3VkdISmc1V1lv?oc=5",
+        "title": "ConocoPhillips Stock Looks Cheap with Strong FCF - Shorting OTM Puts Works Here - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0NpZUQxOWVhc2V0NC0wakw3NHluNlZLOHNmUFl6V0hPb3ZGN0I2T08zNmF0c01uZXZrZVBoejg4a1BxZDRubGhSbzNpQVBmY09LaFlBMm9zcDhDR1QyV2ZXbDY0R0pLMzVGakF6RGJtZU8xa0dzaU9QeGNlVlpSeTR2NDRBdUVoTDhYY0d2Yzg1bm90ZHd0VFJVWU9qeml2ZlJ0NlFGZHcwMlFGeXE0WElnOTRseGdBeTMxVTFxaXp3MHpsaEd0dXBTZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why ConocoPhillips Stock Just Popped - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTZrdk5FeFBPSWY3NGZNMC1Mc2N1QktseW9TeklITmFwRTdEWjhpTlJLczkyd2Z6a2E5ZWtlWDJIUWltUmVLNzNob1Nmdzg5V05LWU1Fb25KR0FsRU1CWmNtQXZkS1hvelB0bDlVazFyTW05bFJqZFA1RUNzdVdqWlZKUlRjdw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is ConocoPhillips Stock Still Worth Owning After Strong Q1 Earnings? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHlNOWluc25uVThwM3UxWklocDJDaTN1MlFvQW1EQjFqUU0ycWlSQXVnVUQtaFpORjVUTEFibWI4SEFHZ2M3UDJpbnhaSzdJQWU3d1JVUUJmWTVreTU4WV9EUFRkUnYyOHZjNzF4SEdCejA1SHg0amtHOVNHa1hsc1VzcmlocHdhVTFjREZ3?oc=5",
+        "title": "ConocoPhillips (COP) Advances While Market Declines: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEwtQVZ4ZmctZEN2eW5wUmJZM1BBSVVzYTNyUExKSHBCYXlMeEpidFhOUUFJdUFneU9jSHZHUjFubW9qRVZmZnM0UWZiTm90RFlHaXdqMlcwZ2ZpWHVNSEVLMW5tdUVoRElmd1hPVl9kNTlGN0dwZHdINDI2XzJmWGFvUm15WWgzZ2lxQ1pHMUhTY3ViMC1fVENOaDkzRGZVek9BWm44eFJlclFv?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is ConocoPhillips Stock Underperforming The Dow? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVRiX0szOC1xdEI0U05DaU9TVkNBS2NjZFozRkFjVmN1SXZUXzduSl92SEFUcHcxcFRiaGlyVl9GMlQ0WE5KdnRPWTJEMnBqNjYyVUpuVXJiSklSWFFLRjd3c0ZxYWJBaTVPOU03bmxLbm15ZG13dTZ4ZW5ndjRUTmpPbURxbnAyT0duOHdRMGsyQzlqWDdJ?oc=5",
+        "title": "ENB & COP Faceoff: Which Energy Stock is a Must-Hold for Investors? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VRGEyMGJ4MmhSbXBVUHJTZm1FWDdjdU9IWWxVVHNpdS1YT1JKNzB0RkdxLUYwMHg5NktWdVZ1cVNfY0JtTF9EeldTdzd0YXR2cEthWk1QamtNTVlsTTZCOWtxR0hIalZrZFJzeXhnZ1RlZFphc3pZU3RSbU1hYTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ConocoPhillips (NYSE:COP) Price Moves 11% Up Last Week Amid Oil Sector Gains - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnFYakROQ2dLREd1RElnb3pKcUxwUHdIWDRVd0gxQ2lacENhUE5LZzUzTjZZT2NpN2FhUlYzVC1Xd1gwU2FpRmlYZ1JWSUF0MTJrSDRHOEhwSVpYR0NlYlV6QWpHRWNXUi0tQWl2eXc4QUJTZEFmT0lTTFhfcE91UmluN2xrOHZmM0xRWk9qanNmcVpBdHE3eVVMUFlZUUZQSlhtc3E3a3dUM3JZMV9IYjhza1lELWN5czc5Y25EVDRHT2ZvRlHSAcsBQVVfeXFMTjEyZEN4QUVRajg5S2FBdlQxbDE3cE93YzVJb1AxaU14WExzem1ZWmNxbFQxbGQwYU0waGlpdVZ2cldoblNoeFRlcEVvWnJZdlVXNnVQclBmdklrTjA1eHB1elN1S2xJbGhvSW0tdkNOb1pRbFlvQnQtVlNvbjN2clREQ29ZN0F3c21JSUtTRHoxWGE3bXRsUDZza1ZrZ2xnS05NaU9rNzFlWWJUUllZU0trT3R5WmJOTHBqdDBYTW43QnBPTGdtSnBRanc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why ConocoPhillips Stock Just Popped - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVhPUWp3VzU3NnVFZmNnWFlVVVA1SWl1LS1OaldnczNzLTFlMDFaMmt2bDF5SklER1dtWmpiQk50TWtlei1yaDdSTHJXRFZ3eE9tZ2pybjN6RzNoLVlrOVEzM0FsTWFHdmlZek5rWDVfcG5mSEdYTTNzNlV5RnRRM2RWUVZPY082QjdCMVI5dVdwUk1fOFdQYVIwUjJ2REJ0TzZHZU5wb2gxVlVLNzl6NHc5RmZpdDNiM01WM2Fmaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "COP Stock Rises Amid Middle East Tensions - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkFybjJFakFoUHZpWFo0WFl5aDl5c0lvaW9GY1lkLXBCN2J0TEk2TVY4NFFXNVFULS1sWkNWOExWcWp0a091UzhnNkw4SndLVnVyQlQ1UkNlNFR3ZjlQdjFYeGNSLWUzLTFVcXZnSHRhdUV5cmNtUjVkT2NxSm1MRWNrblNBcWs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ConocoPhillips (COP) Stock Surges, Capping a Remarkable 10% Weekly Gain - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkQxYUdseWhMOTM2aWtWNFp4NTl2OUpKNGs3dG5LQUJpR3JHVllDNDNodGFvZE14YVNVYUtiTUFTVFBsdG9zTFBYMkhYYWNocHNmSnBoYnk0UkVMZHV2eHZfLUowbXQwU1hLa2JDcDhjLV9ZcnhoaXdSTTdLTTdqV3RiQlk3S0VKODFHWFQ1QzFyZm8wNnlCUEpLZVlxeFdWR0hNYVM4M3RRR2lwRjVINHpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ConocoPhillips Stock Looks Cheap With Strong FCF - Shorting OTM Puts Works Here - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUh3dkxOTmxuYWZkdjVNSjB2VjVXcTFWbC0yWi0ybENUZ3BwY0ZiX0NxNXI4X05icHVMY3lGNThrQ2otd2VqYVdBdzB3YjNYZ1I2elZsUFhSa3VGVWZic3EtdlJWUFBxd1hrYnRYOXZ1Y2FTZlpMZVktcmZUdTFTYnhzMHZuZm1ydTFiRXFUdXoxZGd5YW4xNnBibkhFTGpfdTVFRFBraHU4NGM2elk2OE1pUWZPWVgyZXgtcWtiWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Devon Energy Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUxSVjl5R084YVdzRWVTTHYwWUlQd2lnRmF5XzJyOTk2Nm1QUGNCejRZb1lUY2VreTFnVHlrZERjem5ka29KLU9pSG42aXdOTzVoNTgxcEkwYnFTaWViNHVMYU5ZQnNCVk9PQmZSZ2ZXMW1QNF81TkZhallsLVhHV2dINFEtOEVITTZFSWRXNElWNXdCY0ZDbGZLSldJa1VMVzlmajJGcFJIcHI3WmtTOVZoNnpHWE1teW9PRGNBQ0EzV1lpVU42bFRPZjVHTFJn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Hold Strategy is Apt for ConocoPhillips Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIanNhY3g4Sl95cWg3RWdhREFjQnJyX3ZySzZhRjBicDZfSDgzYno1d3dvTGV6MF9FYzBLWkVGRjRRdEZWRkJfT3pjVTltdFF4b2pSWFpZbldUNjhHbGdVejFndVJqYVloVndBMVhhWkE2cnVwZTA4MXd3UzVNZw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,24 +616,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "ConocoPhillips (NYSE:COP) Could Be A Buy For Its Upcoming Dividend - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFQwT2N2aEpKTkpwd1lDOGRKWV9KR3Q3WldGb2RCUUxuRkZNejJGX1ZlTk9kX2l0RW41VkRfV3otR1I3MzBqaU1Kd0dXem0tTzMwX0x6eVVadlB1ejdDZ1Jrc25fdDRMbXQySnRVcS1Ya2RVcTA4NXIyRVd1OHBNanhEVWtrcDk2MlhBOVFSZkZOd0hvOC1xQ0lHU0RrT0JTOGtDUXVhTnFFbG9hLS1NaTZWaGpoaWlLaHY0SjkwLURYMTREV25qd0RR0gHPAUFVX3lxTE1wNTVXMmFVaEp4SHFnM21jWDFldEE0R0otRWVGek9vOExQZjZmakxCRHBYTjBkYzRwcGxWYVdaN3V4anRxYWkya0dubUc5dHJSOWsyc1hoRGNTV1plb1ZVbll2LWFxckxyT3pXaGhweTFoazNrQllpSkxLVDFiMWEtWVlMQmNmQWIzTm1DVURTbko5RXowb0J3OWlVdkQzOFJLYTlwbXUybVUzOEw0S01iNEIzVjB2RVE5THktWG1RcTJMWWpoWk9ZS2FWc1BEYw?oc=5",
+        "title": "Jim Cramer Says ConocoPhillips (COP) is the “Best of the Lot These Days” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON2w1UWh5Z3R2aFRXcWsxNDY3NHc0YmdEWUtMY1BOMEdOU1FHS0MxcW9IMFM4WEpjSm16WExTMkNCQktBNUx5VTYyeDlCYURid2c1WVQ0Zjd1aW16ZjNiTDlXOGlYc3FROHBrRlB6TXgzTFV3ZlJqSkdqcm5qZ0N5UW45RUtqYzQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ConocoPhillips completes acquisition of Marathon Oil Corporation - ConocoPhillips",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkVnUGhQbTNXNDJOVXlKWklkUW90TlRKVlVpY3NWX2V5Z3JBaUFWX0ZzYlR1WC13cFQteElLZVpuU2ZTSWlfS3gtcXVtUnVTV2hMRlZoOUx0QWpYV2dlMTZscVlpREQ2YWMwQnNoaTdyd0Vvb0twcTJrS0ZfYjlBYVRfR0pFVkdrb0hkVnpVdFpMZWp4aEtpU3drZ1laczM3TnNtRzBPT2VRUWdOUWF5UC00RQ?oc=5",
+        "title": "Brokers Suggest Investing in ConocoPhillips (COP): Read This Before Placing a Bet - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFdTYUdWd3ZkdGdTazlPdDkxbVFWMGtoSV9VTHJLa3J4T1V3ak9PZXQxNTZGaDZ2aFNRdENzZ3RzTnk5ZVNqbEFLWWZaZ3dmSEJOdHlGc1NtSl9aX2EtVms5Z2d0dkxkVEhwNGJxN3RhRVhmMF85bDZTeGt5d2l6VHZkNHpaUkFXcS15bXduREdOZ2Ut?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Top Wall Street analysts prefer these dividend stocks for consistent returns - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUtCX3hXbUNHRjdJUWd0eGdQUklPa0JNMmdsTHhVLTJ3UFpWZ25FVG9XczZpSk1oUWwzcjRaOWtYR0xYSzhCX3F4Z3Qya3QyVWxuZUp4RG15LVFXb1lDdTY1d2tVa0ljZXFabjc0WFZyR243WE14QnV1THFTeGVtS1RoeHRsNkhSUTBZU3Ztbl9waENud2tDdVM2cVdEQno3UVk3WDVVckt0MjVlTFNVaFViRdIBuAFBVV95cUxPRzVPZkdSdFFBa0hBRHgySWx3UjRHRm9Cc0NOMENmQmFTeVNTZ0xNZHVwZ2ZIWnM2ZWhUSmlaWmJDMHhKWUd2TzZDb0h6dENidHFYS0lxX1JFRTVqNGREM2Q3eWMybkFnT2s3WEtxZklBMHhKalYyV2s0YllvTHU4STlWTEtnWkpON3Z5VThKWDVtME1UOG8zUVI0V2x1bmJGdGcwcmdnTTM4cEVuLUxwcWhXT19mLTJa?oc=5",
+        "title": "Is ConocoPhillips Stock Still Worth Owning After Strong Q1 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHlNOWluc25uVThwM3UxWklocDJDaTN1MlFvQW1EQjFqUU0ycWlSQXVnVUQtaFpORjVUTEFibWI4SEFHZ2M3UDJpbnhaSzdJQWU3d1JVUUJmWTVreTU4WV9EUFRkUnYyOHZjNzF4SEdCejA1SHg0amtHOVNHa1hsc1VzcmlocHdhVTFjREZ3?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Exclusive: ConocoPhillips plans layoffs as part of broad restructuring - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25IZ1FYSzA4VDRrTUU0a0Y3RDRHMzg0ZHpWMTF0S004Z3VEb0x5MjF2MEt6SHRyZ01qWEZIUE1YcndGRHZJWWNjeTVHYTJKX3N2UjBMV0VUclNLQXpxTmJjN1c2V3E2SjhnYmtyc3cyWlFxd0M2RFB3N3p2WXdUUk9FTzJfOUkteFFRUXk0Y3JtY3pSYzVFcl8wdXI3UFAzT3RvOExtdW00MDRzTVNxdnJR?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Is ConocoPhillips (COP) The Most Undervalued Stock With Smart Money Ratings? - Insider Monkey",
@@ -601,61 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Hold Strategy is Apt for ConocoPhillips Stock Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIanNhY3g4Sl95cWg3RWdhREFjQnJyX3ZySzZhRjBicDZfSDgzYno1d3dvTGV6MF9FYzBLWkVGRjRRdEZWRkJfT3pjVTltdFF4b2pSWFpZbldUNjhHbGdVejFndVJqYVloVndBMVhhWkE2cnVwZTA4MXd3UzVNZw?oc=5",
+        "title": "Raymond James Raises Price Target for ConocoPhillips (COP) | COP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUW1fT0MzRUhobG9fckktMUR4dkx6SDFmMjNNUDRXbmtYY1VIZThYZURaazNQcjJxUDF3bThxazcxOWxkV1ltWVFhRmN6V2RyS3liaGRfV3VldkkwSDJqZ1dEcm03eWgway1HYWRsdGxQYjh1MWd0cU5UVmhPQzR6amphNUQycHZOMnVJMy1wSmRtd0ZFd09aY2Y1d2J6dmIwLW9Zcnp6YmRxSFBUaTh2R19Dc0loc3pYTUUyOV9tNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ConocoPhillips (NYSE:COP) Stockholders Reject Bylaws Change Eliminating Supermajority Vote Requirement - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTBxaWJreXhoQ1NCMlJLTloyTWlabUY3dUZuX2t5ajNTRXJFdUJSZlRRdFI1aDNiVDhiT19tWkJicDJkZ2diVkhrUkhnT1JNRGZNcC1IWVA5Rk53NEFQM1RwVjRtcEJjRHF1M2V6MEE5dUJsZHUyV2xiQjV0LVBlRGVzSmNoRzJXV3lzR0dwOHZRTGJOSllSbkdIaVZfVUtPcHl1T3JzOHlBdG02em5GWUEwMy1qYzg3TDh5UGQwX0pmNGxvbldV0gHMAUFVX3lxTE1EcjRUYVp1QW5LNjV0cTkzMkc2dWFTOU5IS2xpdlJTcVFKRU5jMTNrMUszLVFCQmJhbHgzUnpLNDRMS2FWd2tZeWh1SGE2TDFMY2VwZlVlSUVrNWZpaWNQdlo4MW5HWHFFQ0FqLWZLcm9uSGw5NFJONUs4dFVYMGpLS2J1RzVJR1Z2R2ZweTNKMGttNE90YXZra3l1S1Q2LXNuUFh2UThKWUtqelpUZFp4eU9wNF80X3c5bTV2cVlrVDhDSzUxdE9WTFB5cg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why ConocoPhillips Stock Zoomed Higher on Thursday - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMk90RXlQeXRERXkxV1d5SG1OeTZhbmNGOWd4WENiSGVGRHh1ZDNMY04tMXlYZmNCZVNvZ1ByR0dXaGVLblZWSEdkbmdpbmE1YUZIcURzSjdiMlNvalpuQ19iSENKRnVJZ2tOYlhTa3g1SXpDRlk0NmxhTjFGSXJla3dJNmVrYXd0N2FNdVJGbnFjRUJ1WFVkXw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ConocoPhillips (COP) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWF8zY2I5eVlEMTVQNXhNODFWZTd6OHZuUWxMWmZqWk5jSzgyN3dTUWRYdDltTU5RYW5RTGZTSG1OX2VPUy1vUjVRQnN1cUNXeGFtX1ZsdzhlZ29nU3pPSWVPNjVJdTZYX1JZNnJhUHBBOWZLZEUwdm9wLTlDVHg0bmdseE12WFFXTUVIZWhVbFo?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ENB & COP Faceoff: Which Energy Stock is a Must-Hold for Investors? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VRGEyMGJ4MmhSbXBVUHJTZm1FWDdjdU9IWWxVVHNpdS1YT1JKNzB0RkdxLUYwMHg5NktWdVZ1cVNfY0JtTF9EeldTdzd0YXR2cEthWk1QamtNTVlsTTZCOWtxR0hIalZrZFJzeXhnZ1RlZFphc3pZU3RSbU1hYTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ConocoPhillips (COP) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUdoLUx1Zzl1SHFDOHVqT1d0VTVSQkhuZHFfYVU1WkdWNWhvOHl1b1RtblFSUktRbC01akJmUThiRDUxUWR6aExvQ1FfZ05TZk9yZTI5djZhWHdFdWh6bzJseFBhNXdOWkszSUhicmE0MFo0Uk83ZGt5VnNzbHg2WUJIbkdySU4w?oc=5",
+        "title": "ConocoPhillips (COP) Target Price Cut by Citi to $115 Amid Underperformance | COP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2NBa3ItU3otUTNJYkxxeWk5b2Y4aEJING9qWThhOHBacjUyS1EwNV9rdkZmcUlMX1F5bU4wZXV5RHlLX3VmamtCdF80REs5NVJ1MTREOUxjQ0J6MzNJcGFDSjdsX1ZIRlAwVURQNFZ1SFMxN3NvQ1F5bXFrT3JnMXhBYzJqOHhSLTB1QXNGMjNPdTQ4TFQ2QWFCZmhwbVJURXNRbUFuNFlYeFV3WFRJdDJ1M0hRbDA3aWd2dkhyd202Q2pJcGc?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Is ConocoPhillips (NYSE:COP) the Best Undervalued Energy Stock to Invest in Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakFzdVRuOEVld2xJUG1nTjhMODBVOHpFNS1reDBJSVhnZzQ4blh4TTJVdVdGeGljaGw1Z0x4YnE2ZlB4SVhlQ2ZGaUZocHZ1dE1yZTA4QUNBTGRGRFFCTzVIZU1reXJjbl9tNWxKZTZJRGN1eTJLaFNCRFNEWWQzekhLTHBuR3lCczZwNENtYw?oc=5",
+        "title": "ConocoPhillips (NYSE:COP) Could Be A Buy For Its Upcoming Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFQwT2N2aEpKTkpwd1lDOGRKWV9KR3Q3WldGb2RCUUxuRkZNejJGX1ZlTk9kX2l0RW41VkRfV3otR1I3MzBqaU1Kd0dXem0tTzMwX0x6eVVadlB1ejdDZ1Jrc25fdDRMbXQySnRVcS1Ya2RVcTA4NXIyRVd1OHBNanhEVWtrcDk2MlhBOVFSZkZOd0hvOC1xQ0lHU0RrT0JTOGtDUXVhTnFFbG9hLS1NaTZWaGpoaWlLaHY0SjkwLURYMTREV25qd0RR0gHPAUFVX3lxTE1wNTVXMmFVaEp4SHFnM21jWDFldEE0R0otRWVGek9vOExQZjZmakxCRHBYTjBkYzRwcGxWYVdaN3V4anRxYWkya0dubUc5dHJSOWsyc1hoRGNTV1plb1ZVbll2LWFxckxyT3pXaGhweTFoazNrQllpSkxLVDFiMWEtWVlMQmNmQWIzTm1DVURTbko5RXowb0J3OWlVdkQzOFJLYTlwbXUybVUzOEw0S01iNEIzVjB2RVE5THktWG1RcTJMWWpoWk9ZS2FWc1BEYw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Why ConocoPhillips (COP) Is Plunging So Far in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamRNWS1BOGVKNi1rb2pQdllRRTVzM0pHV2xZSFdCV1E2NzRtYWJZeV9NY1RKQ25UUk4wcDVZVjhvbGxfUDlGRGFIV013VURYVkRRWlEtVHZhTzAzOXZDUFZJUlc2WDFiSDBsZTZ1bVVLQWlPZlg0YkdWd0ZweG9nUEd4S0hXbzZZ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is ConocoPhillips (COP)the Best American Energy Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjR2dkJ6M3l4S3Q4RjNjTk5GYTlQR3ZFc1plemU0djNQelFPajAyNFpmd2k1S191VDQtMVBsX3BNMUt3T3ByRFBWcHQtSm5ZbngwM0V1SWVBNFR1TkhBbHFWVl9mZ2Q2M216MUl6OEJreGJCNGczTm0xRjdrTjVLdmRTTUh4MGs3QmNIUEZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is ConocoPhillips (COP) the Most Undervalued Growth Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEdSU3NnN29CQU5pTTVxelBoeW1aaHJfRnZaYXFwZnA0dVE5a2F4a0pLUUg2dzNmMVNibE41WEJXeDVrZVpqMVhEWFpNUmo4Q2liZDY0WkVIdHpYa0ZKeWd6UnN0NE9yVDhZa2M0SlN1czFLZVMzOC1NMjNkak5DZ2wyc1ZsWVBsaU1keEgyQ2UwZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is ConocoPhillips (COP) the Most Undervalued Energy Stock to Buy According to Hedge Funds? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGFwN1NwdWhpTDMzQllBSDZYajZweFNBV1ExLU5PZmZGeUJRMlE3SVRmWm9yYzAzUlRwcGpENC00andjRVdjczdZdkxXUkZDQ0N1NWU4SW1kV0VOemthTllIMm1EZ3JZamhOX0RVNEdoRWppYmQxODdpUTcwUDB1X05YcHF6S3pjdUJwRUkzY1hBZw?oc=5",
+        "title": "ConocoPhillips (COP): Among Stocks with Buy Ratings that Hedge Funds Love - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUlTT1RtdWJ3NXB0Y3VFWGNNTzB4MkZGTXhQS2dyaVdIdFN0TVdlRF9EQ095dTFCT2dmdUsxRURfRDVmdDBKMGRPUlRaaVdXMlZmc1p0RmU4RS12RURacm0xSWNPUEdaclVaMm1UQnFqb0JKR1JycmhPY0poYkZYdmN0Z0NZSWFt?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

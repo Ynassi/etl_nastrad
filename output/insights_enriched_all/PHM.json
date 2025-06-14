@@ -2,16 +2,16 @@
   "ticker": "PHM",
   "name": "PulteGroup",
   "sector": "Consumer Discretionary",
-  "market_cap": 20211058688.0,
+  "market_cap": 20301252608.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 7.1214685,
-    "PB": 1.6441661,
-    "EV_Revenue": 1.192,
+    "PE": 7.153249,
+    "PB": 1.6515033,
+    "EV_Revenue": 1.22,
     "ROE": 0.25522,
     "ProfitMargin": 0.16451,
     "GrossMargin": 0.28603,
-    "DividendYield": 0.87,
+    "DividendYield": 0.84,
     "DebtEquity": 17.795,
     "CurrentRatio": 6.989,
     "QuickRatio": 0.578,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.042564872155965626,
     "ROA": 0.13892001,
     "PEG": null,
-    "EV_EBITDA": 5.534,
+    "EV_EBITDA": 5.664,
     "BuybackYield": null,
-    "PriceToFCF": 26.50543631367439
+    "PriceToFCF": 26.74362961932021
   },
   "technical_indicators": {
-    "RSI_14": 50.42157192805141,
-    "Momentum_10": 2.180971278093051,
-    "MACD": -0.3675871054329036,
-    "BB_Percent": 0.4735877776270831,
+    "RSI_14": 50.10496271347144,
+    "Momentum_10": 3.3969212205661647,
+    "MACD": 0.4315789379312491,
+    "BB_Percent": 0.5656583391127651,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9349462680297242,
+    "ValueScore": 0.8954064764534919,
     "QualityScore": 0.3120259916284682,
-    "SignalScore": 0.5673097620391665
+    "SignalScore": 0.5640456403867395
   },
-  "volatility": 0.0222750156370599,
+  "volatility": 0.0224249074439046,
   "beta": 1.297,
-  "return_6m": -0.2016693230778226,
+  "return_6m": -0.1419034936498528,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 128.47
-      },
-      {
-        "date": "2024-12-10",
-        "price": 125.34
-      },
-      {
-        "date": "2024-12-11",
-        "price": 121.91
-      },
-      {
-        "date": "2024-12-12",
-        "price": 120.69
-      },
-      {
-        "date": "2024-12-13",
-        "price": 118.42
-      },
       {
         "date": "2024-12-16",
         "price": 117.04
@@ -537,37 +517,47 @@
       {
         "date": "2025-06-06",
         "price": 100.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 101.47
+      },
+      {
+        "date": "2025-06-10",
+        "price": 105.03
+      },
+      {
+        "date": "2025-06-11",
+        "price": 103.42
+      },
+      {
+        "date": "2025-06-12",
+        "price": 104.15
+      },
+      {
+        "date": "2025-06-13",
+        "price": 101.61
       }
     ],
     "current_price_data": {
-      "price": 100.23,
-      "change": -1.41,
-      "percent_change": -1.39
+      "price": 101.61,
+      "change": -2.54,
+      "percent_change": -2.44
     }
   },
   "news_sentiment": {
-    "summary": "PulteGroup (PHM), un important constructeur de maisons américain, a récemment annoncé une restructuration de sa structure de capital en éliminant des actions. Malgré une baisse de 0,27 % de son cours, les analystes restent optimistes quant à ses fondamentaux solides. Les actions de PHM ont augmenté de 3,07 % le 4 juin, mais certains estiment que la faiblesse actuelle pourrait être temporaire. Les analystes de Wall Street considèrent généralement PulteGroup comme un bon investissement, avec un faible ratio cours/bénéfice parmi les actions du S&P 500. En dépit d'une année 2025 turbulente, les analystes recommandent de conserver les actions en attendant des jours meilleurs.",
-    "sentiment_score": -0.1,
+    "summary": "PulteGroup, un important constructeur de maisons aux États-Unis, a attiré l'attention des investisseurs récemment. Malgré une croissance des bénéfices sur cinq ans en deçà des retours aux actionnaires exceptionnels, la société a présenté des résultats solides au premier trimestre, ce qui a entraîné une hausse du cours de l'action. Toutefois, l'action a récemment baissé par rapport au marché plus large, suscitant des interrogations parmi les investisseurs. La récente restructuration de la structure du capital de PulteGroup, notamment l'élimination d'actions, a également retenu l'attention des observateurs du marché.",
+    "sentiment_score": -0.15,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.6,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
     "negative_ratio": 0.25,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "PulteGroup (PHM) Stock Moves -0.27%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6eFhOTGR1cHJvc1BVNWZtRHhfNzBfb2VKZ1NoSS0wV29pVjBoSFF4Z1FsRFZlY1dueGUxYzhYZkhlS0RRQVd4YnY3c0E5blFBTW94U0JQdWctVF9ZcDM2ZjZrXzhVbkdaUDIwZjJfeUpZV1lDRjgwYVZLX3ZKMVU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "July 25th Options Now Available For PulteGroup (PHM) - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzlXUGNWZGstTGZKYU9Mb1h2bERMbVczSkhBeWJRNHB0Y0NHYUF5dlBkcktpc2lvRzBpMnJPTkQ4R0Y3bkw1cmZRZG1xM0RxT28xZ3hjUTRDWEppZ1BxeGx3QUlLQTNQazRmSDhsMGlnYVh4OTAxOXR6a19BaElUX3B6ME4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "PulteGroup Streamlines Capital Structure with Share Elimination - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGZ1TTlHMVBWaE5pcVRUT19FVGJ0dXREOEpjeG00eDh0a1pIZWt1c1dYVjByX2xQeDJBbHBieGpBQ0Z5MjN6cDVHWFRoNV95aGxSM1VZblFhaGhsLUtoZnhBOGpwSWtCdlBidWlOUUFFR2tjbG5rU0VEVUJwWjZJYmstYUZlS3NEOGlwbDZhNHctNUozVV9PQ0lpbnZVaG85X0o2Z2FLSUVpNDBXZGdzUWtlRTNsUQ?oc=5",
+        "title": "PulteGroup, Inc. (PHM) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlQ4OHRPdDV5OGMwTmNCT0JjYWFsOG1IYnhOUWk5VEhQSEZmTm9kb3BNVi12ZkNKQUYybFdURHYzTU93d3FHZ2pwTUJPOV9WaE12LXFYRTZOQzlfTXJkTUYxWVk2ek13bEVTVk1DTU44YlBMbU9vMExXSE9Gck51Vm1keGgzZmRtZ3ZiSA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,33 +566,38 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "PulteGroup (PHM) Dips More Than Broader Market: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXYycGFzODR0elRzNHZWWFNzSmlxV3plTDZCdC03Y3VpRXlMZFFSbnN3TFFXVGdXLTJ6NXhDeWNka0pEdnUwam53blZYR05yYUdSQ3h6Qm1hOWgzSnpuMXVpS3I2c3RrOEg1UEhVcS1xSnhhTVR6VTV2Y2h1b1Vja0FKcWxQeXlUa1dMdXBpWU5LdVRkSTRCX1Jn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PulteGroup's (NYSE:PHM) five-year earnings growth trails the stellar shareholder returns - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVplWG5XZFFHQVRsT0Q5RTNNa3Z0NktGVXJTR0JDSV9mTGI0eV91emlXak45ejY4TU5SeGtuYng2akVIRE41UHYzYmhRSHo1cm1VQVBNbDFGd2p3elBiQzNIMHpONmVYRmFuR0ZYT0d2WGNEN2NnaEU0UjZCVmVxaVdLU3BMRm13RFJpaGl5eW55TVM2SmpIcnlENTRfcGc2S21mYk5oNFFrekpGM0o5UHdqSjNzU0NYdWtrOHpHY2RCLWdiRHRESk90eGJmY3Bx0gHWAUFVX3lxTE11bnVBMHp0OTVManZlWnJZMlVPVE12QkYwdkFTbmNkcWN3aUU2Rm9uNENRX09iZ0ZubkJ5V0JiOFBNYm5qMlhWekRpLTlBYjFhcjVTb3lKOUo1b2ZsUVFpdzYwLXVfT09tSUY1ZERLQmZvOW9jemRBX2hRNFJTUGY3c0huYmRVd1VneXNOT0o2N19DUkJ2ZWdUSklueFVlWU9PUkpzNGFQdUJCaGV0Qlc5Q0phVmhaazE3S2xweEhlUF9MZ1lCRV9pYy1VSXNsYjlfMlBBRVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PulteGroup (PHM) Stock Moves -0.27%: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDVMTmhlbzA0MUN5RVR2UE1xdlZLUkhRYUVITnRNSENJSmR4NFBvN05BRVllbVZuYk9ELW9vRGlFTFFjd3JtUEh2UGtmdUlnNmVkX2NBYlFFa3BGS19ncldSUGI1M0FWN0tnMlczOFR0Rm9mMEZfR3JUN3pfNGkxdUdPRDJ6RlZ4T1R2S1BvZTV4TDc2WkR0bG9hdzFBd1lsdHVpYVBITW4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (PHM) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUklNN2VBSUcwM1JrZmNzM1llczBqRloxOTd2aUpYQ3dCWkVsem1FUTZvOUJMSjJLYnFHU0xORlo3M2tpbWhUeUMwbk1pMjdURmxOcXhHSXJVSkF1X2Y5Tkw4S0V2ZXp2TDI3ZkhDdmJieldZRHc1Y2FYUHNaT2FVOXNidWF2M2t2V0J4ODJWVGlvenJUNDZ6cnFUWW9TWTJxd1MtYTMyTlc0MU02U3FEeHRlTXVKTHRFRTZya3pzdjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How Much $1000 Invested In PulteGroup 15 Years Ago Would Be Worth Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmNoSU1wT2JRaXpibEp3RUs4aHAyeU1weXl3b2ZWTzcyMGNiRmJkOFcteS1XbEw4cTFzWU42U3BkelNIQ1NsQmt1aXVGdElJZzIzR1FFMk9QbUFXcGpGZzJmcmZkQXZVSW9xUUJlNmttR2hxSGstZVJIUDRNTzhhTnlUV3RSNTBkUG1BY2dvR0d5bzJiQlpaSHYwSkhlYXJqa2d5b0h2T2NDZllpSENmNkQwZmwxWmt6UlAtYUMzdy1RQzJwd2RraFNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "How Will PHM Stock React To Its Upcoming Earnings? - Forbes",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2RYMHZQQkIxXzhZdmFxeWQ0ZkZlLWtWdnQ0Q29pTVlTVlRZS2x4NG1ScVRMMGIyY2V3Wm1qbGx5QjFXbnhRcHJBUjdCVjFJWlFheTBCcXQ5Nk5iR1FLZmZFU0d5RVRtTkZMZkQ4ODdFMS1oNnNROWtCSnBKaTlPRkdrLTZfdzNmdEhwd0JxVUhXZklSNE5ISTlXeE5Zb2hmRWk2dFE2LVV4TnhE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "PulteGroup (PHM) Beats Stock Market Upswing: What Investors Need to Know - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnBNNHF6ckFOOTZ0SW1YbEFEa0E2bzB0X3pRc0VHY1RaZVVRdEtmMTRRYXByQ3FRampicXJIMmJqQ1hkSHZBWHA0R18xMjdmeGljWGZmUldfQTlLQTZXbHBiSEQwVFlpc3NMQ0Z1S25ZVi1PX2k2dXNmN1RLN1RCNnNLTmMyRU5BNDhUcEYtOFc2TkNNUXlRQWNpMkJkbjdCeVZnc3ZXbGJsRmQ3dXlJWnNHcGRWNE8tUmNWLUNab1I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "PulteGroup, Inc. (PHM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDVNQ0tMNEhCdGVtTTlKa2xlMWdpR0R3ZkF3aWRsS0xtV2R3V1JhQ1M1Vmw4dzdpaGZTM00zazZKcmVBcFVPeTBRdU8tODczV21oZl9faUxzeGRUOFVZMHg5N1JQbDBPYUoxX3U0RTItYWttT2FWcTY2allTSzdkMGg2ZmI3QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "PulteGroup Inc (PHM) Shares Up 3.07% on Jun 4 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0dIYXhWSDNhZUFZdGhGRGJPd0pwNGxCdTR6anlyMVVMNG1QOW00UE9Fa0hGaU1oeXJoTGxOODd4clJIcnpISW9nSTJBT0hCVGxURkU3U0R5VFFaOHpMaEUtMUNoX0xSUEM2cDVIaV9wRkJJal8wUGZIejJPdWJ1T0FLQ0VDVVRSV200YTNONmJiTXJOMWNDMEVwSk9LakhDWElReTJzVy1ESVZrSVhBUW1JdTY0b09pM0hGR3E4SFFhc2MyUXcwVFY1b0hJUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Homebuilders: Oversold, Undervalued, and Ready to Run? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRndNaTdkOVpUSUFOUkE5dGwwelRzWmFyUVM2RE4xT3BENExPV2s0VEo3Ml8ySEhXa1ZoX0NSQXZMU05lektEUjdSa0x0LWNXMno3YTJJVHpPQUZCTWlnaTdZanZKT1RtZ0prSWpDMlVWUlprOWFXV2o2RHdqdnVEelR0SWhraERteFBHTDBhNW1EdXJL?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Will Weakness in PulteGroup, Inc.'s (NYSE:PHM) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzAxRXdyRGEzTEdGcjl2b2JPV0xYOVJndWNhZzI1djlUbnJLUHNrVmxIRmFVZHFYSVZMYkhtS3hseWY5MEpUbUdvSE1LVEl4QjBidmZKMVRTQng0dkJ3VXhIek1RNi1STFFCZVk5UzNTRkFhbllfTmR5dEhydmNjeVZoTFIwREhRbm5YRzhqZlRJdjkxeXZSblBoYlktY2F1eERhd21DSVIxWWJlNEk2bGF2YWxNN2dfTUJhQWI0NTNuNEE3bDVHMUE1WFNiNjVR0gHWAUFVX3lxTFA5SUg2eTlSSTBFLVVGWkRNVElkYU1SVjgyd25SSElva0ZuZEdCbC1wc2luWGMyVV8zVGw5eWswWXVjb1RDM2VoT1FGdUprMUlHdXhmZ3c4a2pjeWVBRGJZNktsWURGOFZOS3Bqb3BUREpyZzZKSE5LbHU1eV9GM0l2WFlaT0loX2Z1b0hfbDZ2ZXktdFRiU2F1UE5Uc25HR1FJTndSWFJVS09YTkRRdEZpZEFGbDVkcDd6ZWhUV25TcHJCSERRX0ZnZEpnMldoVFZoLUk3OXc?oc=5",
+        "title": "PulteGroup (PHM) Dips More Than Broader Market: What You Should Know - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnJWUUdOb0hCVE90cnl2SzVqeDh5T0pxVG90VjdjZlhGd25qRWhjeVJDaWFULVJFLXQ2ODctU0ducG0zNmJUNWpTbkRITEtnTFZtYjlLMGZWNE0tTmZtRUh2WVNpN3NMZHdHeWNITHhib3dEenUxeU1QcEE5RHZWWXhKRHFDWVJK?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -616,8 +611,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Should Value Investors Buy PulteGroup (PHM) Stock? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUlXbXVYQmRPci1PbVlRUk82djZnVmNqelhhY2RUSkdhaDA1S2NIRVlUUlRfWC1fRzhRdE84Qm5WblVqZGQ0djNtc2NzRFJ6SjRPemFqU3o3ODI0NVc5cWN6eEdKU3ZuanpRZ1RJRFJxd01NVXhJX1MwT2ttUG9XREQ2c1ctS0Rz?oc=5",
+        "title": "Should You Invest in PulteGroup (PHM) Based on Bullish Wall Street Views? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjkweFBIWGl2alFhX3JHMS15a3pmdHpnOHktajFnajNneThEbzUxZVRjcm4xcmN2S3V2cVM2eTg5N1VRSlZUcEVRc0JQNmxQekU1SmF5c0NuQW1VeV9Za1VsdEh0N2lUcTUzUFU1SG4wcC1FRmxLUDRaZThUczNMYjdsZFo3NVg1YVowTFBRcl9sNG5oaEk4QkxucGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PulteGroup (PHM) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnY2LTcyWDAyWHY1cVdSSkl6RG9jbnlVV200alBsbVlfejJrVW9wVEZVQ3lkbFhGaWNNUkRDZ0FFM1U2R19kLWhPMndOVm5aWVNTaXNuTEZjSDNlVGZxQ2tWMUlfM2x5Z0xiX1NzZlhHVk45aVBMTHpwODBobVB3dWpSeDZEUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PulteGroup, Inc. (PHM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDVNQ0tMNEhCdGVtTTlKa2xlMWdpR0R3ZkF3aWRsS0xtV2R3V1JhQ1M1Vmw4dzdpaGZTM00zazZKcmVBcFVPeTBRdU8tODczV21oZl9faUxzeGRUOFVZMHg5N1JQbDBPYUoxX3U0RTItYWttT2FWcTY2allTSzdkMGg2ZmI3QQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -626,36 +631,31 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "PulteGroup, Inc. (PHM): Among The Lowest PE Ratio Stocks in S&P 500 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWxaSWE4QXhzMWtIdWdCWUlxTmdkdjdTWno0Yk0xYTlOSU9fSDFxSnpnb0dkaFoxRHNOZEx1NG1KNFZvOXJZLXJSZG9zZ1dRTVF2eGpaR21xQTdTbDhTakQ0YllOaEFaX0o1dUNkdTBGdWdVelNXVl9PNlROWngxcTRYbw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
         "title": "PulteGroup Stock Rises on Q1 Earnings & Revenue Beat - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa19kaG9DZ3ZmTmU2bWFVMGVRQjlsSHczM0pRb2hEYWtMdEJZeEhnRkJ4Tks3Tml4THlqeU8wVHpiVzVBdFUxenN2VlBaN2pqM2NoUTIzUG93N1VPRTJ0M2prb2J6aUNQLTRxeFR0MlE4V1JMUEhTNmZQTlB6b0pwNF9JSUZsMFk?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Wall Street Analysts Think PulteGroup (PHM) Is a Good Investment: Is It? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3FBVks1R1l5X1c0VndYUUF0RUxkWTc1VDJCajJTS0drbHFRczJmeFdZa1J4eG12NnlZa2xyV3lESUxvRXRuLWtkUDlJOFZ3ci16RzRDZV96c3d2TFVfY21sTjlnaWszR0haUW1qcV9QNTBnWTJnZ0cwSlR4VndzdWlCZ0w3OE94Tlhj?oc=5",
+        "title": "PulteGroup, Inc. (PHM): Among The Lowest PE Ratio Stocks in S&P 500 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWxaSWE4QXhzMWtIdWdCWUlxTmdkdjdTWno0Yk0xYTlOSU9fSDFxSnpnb0dkaFoxRHNOZEx1NG1KNFZvOXJZLXJSZG9zZ1dRTVF2eGpaR21xQTdTbDhTakQ0YllOaEFaX0o1dUNkdTBGdWdVelNXVl9PNlROWngxcTRYbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PulteGroup (PHM) Beats Stock Market Upswing: What Investors Need to Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnBNNHF6ckFOOTZ0SW1YbEFEa0E2bzB0X3pRc0VHY1RaZVVRdEtmMTRRYXByQ3FRampicXJIMmJqQ1hkSHZBWHA0R18xMjdmeGljWGZmUldfQTlLQTZXbHBiSEQwVFlpc3NMQ0Z1S25ZVi1PX2k2dXNmN1RLN1RCNnNLTmMyRU5BNDhUcEYtOFc2TkNNUXlRQWNpMkJkbjdCeVZnc3ZXbGJsRmQ3dXlJWnNHcGRWNE8tUmNWLUNab1I?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "PulteGroup, Inc. (PHM) Among the Best Residential Real Estate Stocks to Buy According to Analysts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXZDUjVRMjdiQi1ENV9SMzc0RDVMWkJWX3FZcVB1T0traXNwd2phT09xMlo4NC1CMWRZQTktQnZ3Wk9pLUR5Mk9FWTFvemV3WUo0WjNuQktjWmxDaEdoZFBsbXhHTDd4YUtIZVlvcGxRZWtZV0NOdFZ5RzlRT1U4dA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "PulteGroup: Turbulent 2025, Hold For Better Days (NYSE:PHM) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1lDb052a3JvN29mX0RxQWhIOFRpd1hiVFRuQmU4dC1KSV9PU2VadWtIcUZqc2RwNTJOVmVWTHN2TEpXdHpfcmU4dDZja0NLQVR6TWl6QWMwMHFtdlkxbFVhbHNEejNqaTlBUWZFenhYT2N1bFlPT1hCdGtpZTQ4N2d2SnpFUXd1RVJhSm85bUQ?oc=5",
+        "title": "PulteGroup Streamlines Capital Structure with Share Elimination - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGZ1TTlHMVBWaE5pcVRUT19FVGJ0dXREOEpjeG00eDh0a1pIZWt1c1dYVjByX2xQeDJBbHBieGpBQ0Z5MjN6cDVHWFRoNV95aGxSM1VZblFhaGhsLUtoZnhBOGpwSWtCdlBidWlOUUFFR2tjbG5rU0VEVUJwWjZJYmstYUZlS3NEOGlwbDZhNHctNUozVV9PQ0lpbnZVaG85X0o2Z2FLSUVpNDBXZGdzUWtlRTNsUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "PulteGroup Gears Up to Report Q1 Earnings: Things to Keep in Mind - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2tUZ09ka1JjWWJOMERVS1FwQnpSVFRDTWFSc1gxRGF3SkZaRGVfMUdVdzJpM01reUY0MkRSQWVYV2NoNjlsUnhzUWtVbXhGUjBwTl9sWEFWM21JTm9PXzhOLXVkUUxEX2pmN1NhNm81Z3hxM2dUbUI0Y1pPZjNQdFhibTBJcEliRl9oQw?oc=5",
+        "title": "July 25th Options Now Available For PulteGroup (PHM) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzlXUGNWZGstTGZKYU9Mb1h2bERMbVczSkhBeWJRNHB0Y0NHYUF5dlBkcktpc2lvRzBpMnJPTkQ4R0Y3bkw1cmZRZG1xM0RxT28xZ3hjUTRDWEppZ1BxeGx3QUlLQTNQazRmSDhsMGlnYVh4OTAxOXR6a19BaElUX3B6ME4?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

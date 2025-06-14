@@ -2,16 +2,16 @@
   "ticker": "PFG",
   "name": "Principal Financial Group",
   "sector": "Financials",
-  "market_cap": 17189847040.0,
+  "market_cap": 17078871040.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.41863,
-    "PB": 1.5378367,
-    "EV_Revenue": 1.064,
+    "PE": 16.312634,
+    "PB": 1.5279087,
+    "EV_Revenue": 1.079,
     "ROE": 0.09733,
     "ProfitMargin": 0.0689,
     "GrossMargin": 0.43007,
-    "DividendYield": 4.0,
+    "DividendYield": 3.95,
     "DebtEquity": 39.589,
     "CurrentRatio": 1.448,
     "QuickRatio": 0.303,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.08790653389161157,
     "ROA": 0.0027599998,
     "PEG": null,
-    "EV_EBITDA": 10.339,
+    "EV_EBITDA": 10.488,
     "BuybackYield": null,
-    "PriceToFCF": 12.426373284646434
+    "PriceToFCF": 12.27435980723445
   },
   "technical_indicators": {
-    "RSI_14": 47.71048343113567,
-    "Momentum_10": 0.0910404357988125,
-    "MACD": -0.1135389718098736,
-    "BB_Percent": 0.2820907042506689,
+    "RSI_14": 45.61620643468693,
+    "Momentum_10": -1.2316828498267436,
+    "MACD": -0.1911706528661483,
+    "BB_Percent": 0.2817984687964063,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336379411824268,
+    "ValueScore": 0.8945076656551967,
     "QualityScore": 0.3511772369226571,
-    "SignalScore": 0.599917472983091
+    "SignalScore": 0.610136754235828
   },
-  "volatility": 0.0215731630449698,
+  "volatility": 0.0214056785665486,
   "beta": 0.996,
-  "return_6m": -0.0741990604313592,
+  "return_6m": -0.0155352723653306,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 12,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 82.53
-      },
-      {
-        "date": "2024-12-10",
-        "price": 80.74
-      },
-      {
-        "date": "2024-12-11",
-        "price": 79.84
-      },
-      {
-        "date": "2024-12-12",
-        "price": 79.29
-      },
-      {
-        "date": "2024-12-13",
-        "price": 78.91
-      },
       {
         "date": "2024-12-16",
         "price": 78.67
@@ -537,47 +517,57 @@
       {
         "date": "2025-06-06",
         "price": 76.97
+      },
+      {
+        "date": "2025-06-09",
+        "price": 76.84
+      },
+      {
+        "date": "2025-06-10",
+        "price": 76.76
+      },
+      {
+        "date": "2025-06-11",
+        "price": 76.49
+      },
+      {
+        "date": "2025-06-12",
+        "price": 77.02
+      },
+      {
+        "date": "2025-06-13",
+        "price": 75.9
       }
     ],
     "current_price_data": {
-      "price": 76.97,
-      "change": 1.03,
-      "percent_change": 1.36
+      "price": 75.9,
+      "change": -1.12,
+      "percent_change": -1.45
     }
   },
   "news_sentiment": {
-    "summary": "La confiance des entreprises est en chute libre, avec une baisse de 14% révélée par une enquête de Principal Financial Group, marquant ainsi le plus fort recul depuis 2020. Malgré des signaux négatifs, le titre PFG surperforme le secteur financier cette année et a touché un point bas de 52 semaines à 71,42 $. Les investisseurs voient un potentiel de gains importants, comme en témoignent les achats massifs d'actions par diverses entités, malgré des ventes notables de certains investisseurs institutionnels. La publication des résultats du premier trimestre 2025 a également retenu l'attention, laissant présager une volatilité accrue autour de l'action PFG.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
+    "summary": "La société Principal Financial Group (NYSE:PFG) a récemment fait l'objet d'une série d'événements majeurs. D'une part, l'annonce d'une rénovation majeure de ses propriétés à Atlanta pour plusieurs millions de dollars par Principal Asset Management. D'autre part, une augmentation du dividende pour les actionnaires par rapport à l'année précédente, mais également des signaux mitigés avec une baisse du cours de l'action touchant un creux sur 52 semaines à 71,42 $. Malgré ces fluctuations, certains investisseurs tels que Procyon Advisors LLC, Curat Global LLC et Vest Financial LLC ont récemment pris des positions importantes dans l'entreprise. La confiance des entreprises aux États-Unis a également chuté, ce qui pourrait influencer le sentiment du marché à l'égard de PFG.",
+    "sentiment_score": null,
+    "label": "NEGATIVE",
     "positive_ratio": 0.15,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Curat Global LLC Takes $518,000 Position in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1RYVmxwVUFKTGFqcDdxZmtjRG9OaC1TUENDS3ZyMVN1QU51VDZZMXY0VVVXZjF3X3pYWEd0UGsza1lYc1I2b3VseE9lWjJXMUdXMG1KOUxMVVgzOTUwUHR5d1F3NnA5ZllGcUo2bGdxSUlNUjZjQkpDVGtRWGVtTURrTXFlNzRJYUlOeVFmRUxuaW9GVG1JcTUwanMxX0RKc09HMzVRZXB4VlhpVmVNYUZZWDV2SlJNNFFLbU82NjdNcHZBTGRCUDJSUHU3dGxNWGZ2VWFBSQ?oc=5",
+        "title": "11,104 Shares in Principal Financial Group, Inc. (NYSE:PFG) Bought by Tounjian Advisory Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeEdjZUh2SFhVUlZ2RU15QWZVaUpFdzIwSjdkVUhrdmNTOVlpT2tQX3FYQks5cWZvbXM5a0JaUGVmU2FRUFdEYktObllrTjRRTGNXcWkzbWY4cnlHeng1QVg2a2lYRWdLZ2ZYNUREQkE1WWJPRHZXVXlOdkhDcDRJU2RteFhiZFdMN3A2SURlMFdfMzBoWVdNNi1uemthNlJHQURJNVVhWEdlb19QaUtVWndTOFpKak9SZGNpNFg0NW5KVWdxZHZBNG44NDc1c0stdXhDMU4tNlBhQXY3aFp1MQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Principal Survey Reveals Steepest Business Confidence Drop Since 2020: What's Behind the 14% Plunge? - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS282OVJZbGJlSTB3a1hDb3FrVWhxUE41VGlBenVFNnU1dkxZZDJSTFBHRDJjZE5qdGRnYW4xZlF3Q1Vmc2VNVG4zdWpnV2w3X1JFaS11SGFSSE9ES0FWRlNycFVkdGEzUWxJd0x3bzhzeE1yQnJlR1h2LUpZblJUVlpaVllWcVpxcHlGWExwLUJsRUU4bjJtNnJoN213eGljZjZTQWl3UnVPRnBQZ1hySzFFYmU?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "U.S. business confidence drops to lowest level since November 2020 | PFG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemR1X3BZME1HYzNGZ2syaklzZVlEOE5DX2tnSUpNRkR2YzZXdHEwMmhMbjVUZ3otdlpaTEJrcXVGOUFOZ0lTZ28yVzJGc2VTUy0xa2ljX1lMWlpkV0lSQzFpYnVTejdVZ3FieUhPTS00TFVydUU4alp1S3o5SVVSbXh5a2U2S1RqUFZPSjBJQjgxWHR6QkcwNUZKcy1LRS1uSlFpUEJ3bEVyMF8tU1hXMFdwRFczNkszSGhZ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Principal Financial (PFG): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IeTBOa09sb21UemNZWjdhYkthazVqRDlIdTZPMFg0RWhSRDJGX25KRkZ2clVsSnBfVTMxSnlmaFFNZjJfYTZiRVllY016NkU0TzFEUlVETmVEa2pT?oc=5",
+        "title": "Principal Asset Management Unveils Major Renovation Plan for Atlanta Properties Worth Millions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWVYMGljdjIwUHR3TUZvTkY4SzkwQS1fbTJTOHIyakd5NE5zeU9zQld1WHR2S1lyeGltTy1DV1MyTGVIa05fWG1zNEtEX1h5bW9wMEJGMFAyMWIyWllRenJyLXRuT2RjZVdPNW9qaE5XOHlRcTM3QURldXJSTkFYb3JKSDRIV28zZU01UHZFT0ZiVzZ6bE1yNUlXMDhsdS00MWRDdFR1SnA4N2dZWEdjUDdaNGw2M3ZyUFU3YW1wSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Principal Financial Group: Not Much Value For Long-Term Investors (PFG) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzM1eTZjMXFkUVVWazFhREl0amlWMUFSX0VOVmNTRm5SbFlsOW5VRDAyUTNBQ3VOa29CMzFfZWR5UERzTVJVaGJBbEhaMF9VdktvWnZzdTFVbWNIRGlCSTlKN0U5bG53eF9BMUlXVVVvLTJPc1cwaURKd0RTNG1kZUl1MWtYOE1RU2l0NUVmbmZTalRjeEJmVUg3UlctVXMxMHJQUUhxZjY?oc=5",
+        "title": "Principal® Names Joel Pitz Executive Vice President and Chief Financial Officer - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGlNVGM4WWwwaFE3Ri1wUk5QWEVvSTVyeWpZNUZFM2ZtSDhZV2VHWGRiTWZqZ1ZkTmZxeWNYR29CbmIwY01TSGZrcXBxcW82SHl5eW5URnhZZm9BemFEcV9GQmlsVnpLSFpxcURVVlZMNXpNckJjblptZTdhUFVfNmFMRHlwRlVFOEhxdmZsWmJZSUpKT3BLT3MyaHlRLU4yc1Y0d1VsRk1sUU1uc3A2Mk5lWWF4aEo0ZWhJXzJvbWpkVUJHVU45Y0FtX1d3ZXdr?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,8 +576,18 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "PFG Outperforms Industry YTD, Trades Above 50-Day SMA: What's Next? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkNHQkJzRm5SNW5HdjdRcUNKblFpY0N3WFlXRE5FZUhldXVMMFZzRmxtQWVSb0VUdFgxeWJ6YllDODZGSmlMeUVqcWktWW1hRUQ1R3JnYnV2MjRtUXhZaVJ3UzlRM1VIemY2eEFXLUZsX2lhc0NBNkJMRkt0bXpMRzFhanlSVkFq?oc=5",
+        "title": "Trend Tracker for (PFG) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUt4RzBBNlVKV3BCM3Y0czM5UFVCeXFSUUhzV19TUlZxS21tUVhRWnZHTVIwZjVraHlHSzdWN2RiN3VZaHhUUHlTaDRfb1NHa2YwcXZwQkJRalg4cFV1MmJtQWxOYk9GZUpMZGV1TG13c0Z0dXh3VEdUY1dMbjRrcUFxX3laazA4ektyVG1TVnhid3ViQkQ0WE9NOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Principal Financial (PFG): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IeTBOa09sb21UemNZWjdhYkthazVqRDlIdTZPMFg0RWhSRDJGX25KRkZ2clVsSnBfVTMxSnlmaFFNZjJfYTZiRVllY016NkU0TzFEUlVETmVEa2pT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Principal Financial Group's (NASDAQ:PFG) Shareholders Will Receive A Bigger Dividend Than Last Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWkNsN01TZ1FSMlV0bFhjeGVyN0lqSnhQeWl0UkY1eklxM1FwVk5peTV6M3J2QzlDT05iV0VTZXNMaWEtSzh4ZV9zVWFMdGN2T1ItU2tvZWZnZ1BMbERZTWNUclBHYTNOTEhQdkpOYlhHZ3M0dDF1cW9ianFMQ3RESXNRdkQyMGJTWlRTdkZGVXpoU2hSSnZIQ3E3TlJsWU9jeXNnNUlCRDFTNkJ0T0NNbE9Peklka3ZzaVNPRHNocDh3MC1EUGtVdUpZTWc1MWpmRnphcWpNT0N2M3hPRkZR0gHkAUFVX3lxTFBheTcyOEtHY0dGRmR3UUFKYmt0ZzUwSTZ4bkNQTkVsYmFtc3o4NUtGUzNvYldlZFZaYnZCVFhBZElXSkhUclhOVGsybk83WWdBSlFGSmQ3UEpTSXdQT3VTU09fNjROd3M4VjBsOFZxektaSng3SGhzTEJvejY1N1JReVNmalpXYzhmWHJaM25LaDdudGFfZm1Ldk5GUV9MWjI3OGswTE5hOVRWZmoyTmFNMzJDT1E0MTd3YkMxczYtUnlZSVVZT1RqemFfUEtQakl4SUEyOTFrc3F5Q1hidmNLQVJoZg?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -596,14 +596,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Principal Financial Group Announces First Quarter 2025 Results - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1lZdzZEbFktRUlsc0NvbDFpbGFLdUs3Mm1xM21mNzB4My1KVTE0UmkxQWhXUDBzcUhpU3BGQW0tSVN6Yk5XYkgtNGNhZFYyd0g0VlNRZEdxN2RWdjdqZTJBMm10RWQ4ZXBRQUVfRHJ3U1B4QjFRZzZyNm5INFFQcF9QMmFMOTZxNG5keTRCMHlYaGVVOTB2M3RVTllHWWpxcDhXeHlST0hvNkFybmdRR0NCVmpWTHJ4Qkh3?oc=5",
+        "title": "Gables Sugarloaf and Dunwoody Gables Rebrands as The Quinn Sugarloaf and The Cleo Dunwoody | PFG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDZBX0FLcDJPdXpHNmo3cVJtRTQ4NmVHVVBTenV1ME9ueUJGN3VOQTV6SWZXN19zUDJzbWRiYTJCX0lKZWFjTl9tSmpiMUhUQzlaZGJtcTF2TlpwNmtoOEVJZG0ySFBEZ0RPNUJLb0syOGRiS19sT1hxZzdNODdrM2V3dFBYSk1idmowT2pnM1o5dU5jZUdBbXVSQnU5UnJuejR5UmNHeVI2dnMyOFFuWkxaMkxwRzBkSVo3YzJKRGRaVVdzNVQ2cU5sdF9feVBZaXJHRVRGT0UzekI3VFE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Principal Financial Group, Inc. (NYSE:PFG) Shares Purchased by GAMMA Investing LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUVQU3hZSk00dTVJUUJvRjBVOXdXcWVRMjJ3ZC10WExXeWdtNU04ZkdIbHF5SFA1RTB3RzhkajJqOHdVY1JwUm5qLUJnSVBjaUl2N0xrTTJnVjlranpteVQ2M29CYVdTUXhsUnFGX3pTREVxd01tcWFMelRUQ3JmZTNvWlNJRjRRalNPU0xSWDJnTWhYNGNfYm5uOVdBUEJJUlBCMEpkNWo5WFZTU2VudXhSM2stOXJEWTdCNDVHUmstbk1MaWJJTUg4c24tVlY0QVpkcQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Principal Financial Group (NASDAQ:PFG) Is Paying Out A Larger Dividend Than Last Year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUMtSmR0bTd6eUFRQ3BJNl9Db1RKc2FpS2RwM0F0X0tGYjcwWUhnTVJmYzNwZm1uY1hESGxZZEkwdGgyV1Fjay1vazZLUjAxOXQ4NUhOSHZ3WlBpak43VGpzRnI0WE1EdENNcnZ5OFhHWFpleE1NUlhnN1ZLLVZXVFZVWGhLMjR3WWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Principal Financial Group (NASDAQ:PFG) Trading Up 0.7% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamkwTmZVTkFfNHJ0ZTV4U01XMGo5UG9NQ1JfbmkzbFVvdDVkUkhLdmkxUUY4Rkh5ZlEwQnVBM3FJSW0zSGYzUzJnTTFQZGFEVW1qNHNXMWhyS19DM29hdHBUWUp3bFRxUnh2NHA5UmJRYUV4TFFaWWZOSjV1SVY1d0E1YkFsd1hoYzdpMUluTVFJSXZrZ3JIRDQwQ2Jhc0lJaTE4MHlQb0wwckxsTWxKZkl2UDc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "U.S. business confidence drops to lowest level since November 2020 - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3QxNzlqX1MwajlKcG1mX1VENDItMHdYamhzNkYwblVOcWx3QnRCd1E3dDh4QjJ1OGJKdDk1ZXFETzh1RUZoMEJhYkM5aDBncXhxdlF5STJRc3BZRnNkcTYwckN5THNHZlozbk1WWGxCV19ESVl2N1RkNzlncHNqUWJMMjRDN2hyTUhGYmhfWG1jWENhRTFXQU1GeHFxQkxpRTFMRW9PUlJiSDI2cE50M09XdzNjb2p3QUZRc2IzLWs?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Principal Financial (PFG) Could Be a Great Choice - Nasdaq",
@@ -611,51 +621,41 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "PFG Stock Trades Above 50-Day SMA: What Should Investors Do? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fdGV2RUE5UGctRWlldFY2VloyRFNpLUwtMFAySVA1eW12a1VPVnIzd0ZEbHRJcENqcF9VNXh6SmNtTm9uRS1UN19NVVd3NW1WX3kxcnlaU0UwYzVlSnFSaERwNzhFTDFhS0ZaM0tidEp1MnhGZzlWOXJudw?oc=5",
+        "title": "Procyon Advisors LLC Invests $453,000 in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3pJeVBaQkNNb19iSnFJZG83RUlkR0IwWVdwMFEwVElqTWR5c0UySmh0TnI3YVU2YlV0NTZ3SEZmNS14cmtTa0l6VUtuY0F4dVJIX0hnTlJJOHRfcUx5UmVwU19MdG5JTUd2YTdHRUJYVjBhbFhZRy1yLXA2SjJNb1o3VDN2MWJpbTA0OHZPellUVFFxeFRTaVdOSmlJR0pibHQtWkxmOHpDNnp1WmlCcUo3cVJHZTBEcmxpVzhicW9yb2ZtSGJLbzlHMkIwU1BkbnlF?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mackenzie Financial Corp Lowers Position in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVhfTHJHSEtvYTMxT1VoaEdKZld1djdOSFV2SFJ4VlhNOUQwZWFmaGVXZm5BTk5DUXR1V3IyeHl2dDRkeEo0X3FuVVpiX2JqN28xaVZxdzVvZDMtd0xmTnR1T2x4eFExQjFGQlhKN0gtT1g0S2ZLT0FISEpSYnpOcm9TWjhJc0Q2TGd6bDFZdlZkbEJMWFprbVVpTWtQUkI0Sy1IcE1QbHo5N3JHRVYtUl9fUTBXemF1bnhZMEJaenBYSVZsYWxjUXFxckt0UkotM3Q1azBSb0l5d0RHaUNJUGszWHY2UQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Principal Financial (PFG) Could Be a Great Choice - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFBabF9pekhBZTZOckFpZGlhVHhiWVNMUHZWdzhMQ1ZXUl9LdTlsRzVmYVNfMjFjMVhBQ3FuMDhKZ29SQTV5eDN6RG50Q1hsMVdVZ1hzZlM4cVkwelI1NHdsMUs4dS12Q0hfd2c5WUFoekZKQnNxbEpDb1VPY29UUmw1Y2pLdw?oc=5",
+        "title": "PFG Stock Trades Above 50-Day SMA: What Should Investors Do? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmk4U1dLUWxSQUNwN2dZcDNIOElFRkV6RllMT1lHS0M3QkJFSEpVT1BLX2Q0Z1IyLWpzZ2V3SWlKWVpKaXhTX05COGdtdDd0WUkwVlZnYy13OE1oY2E4dmRaZzBvTV9xZzNvbWFPWFNWdHB6ZnhzYkJDbW5Va3JYUFJFUVNfdW1UVUVCUkNjZnJ0OXZf?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Principal Financial Group, Inc. (NYSE:PFG) Shares Sold by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZFR3eElwc091Nkp0U0RtbkVmc2NCTXBFV2xzLXdjZW9HRDhPSktlMHFwNGphSWhOQkRUeTFYQ0YwWDgzQjNjY0hMdUhadC1vZ2tMM0F3TzRmem84V0U1WGVnck95Mi0tVlZQb1pBN01zaWFfcEY4UmFMQlBaeEc2ZzBqbW8ycVVJNk5WX2Q3LW5WVHZocVhrMmFZV01OZFZVVmVmZjBfQ0xMb3VHNFNnc3pndC1rU012NGJsOF9CLUs0WDRXMkQyMkoyVEY0STJXN0drNXVEUlg5Ulk?oc=5",
+        "title": "Principal Financial Group Announces First Quarter 2025 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1lZdzZEbFktRUlsc0NvbDFpbGFLdUs3Mm1xM21mNzB4My1KVTE0UmkxQWhXUDBzcUhpU3BGQW0tSVN6Yk5XYkgtNGNhZFYyd0g0VlNRZEdxN2RWdjdqZTJBMm10RWQ4ZXBRQUVfRHJ3U1B4QjFRZzZyNm5INFFQcF9QMmFMOTZxNG5keTRCMHlYaGVVOTB2M3RVTllHWWpxcDhXeHlST0hvNkFybmdRR0NCVmpWTHJ4Qkh3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Purchases 36,309 Shares of Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1dqLVdJMlh3WTBLRl9pWk5oMXdFb3RXTUJHYUg5R012dEZqZE9ueUxSbWRhdjJrV29jb1Nfamxvd0pQYVdPZk1tZnFjakh6Znd4VmJBR0RaY0lnWUxkd0tlcHdpZTJINS1xYXRRbXZkTUw0U2tZcXRsazh4UWlBZFIteFJyMVd2akJlYmc2N2ltZFFlUVlsdmNGUGxISVp4aW02Zy1ReGF1aG5aRElHaldyZ21nMVVHUFduRFlQQUpOaHNzTkVnWHJuUV9oeTBWa1JxeFdlWVBRNGc?oc=5",
+        "title": "Avanza Fonder AB Has $1.24 Million Holdings in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjg0aEJpUUlLSzIxUUkzVWpDRnp4cVUxR0s3WnlQWlJuVVBUX3ZzQVdJSXdZR3AwWkZNM2lyUnFuYTZqSWF3Zy1KZDdGcmltSm9DTFkyamxXQ3NXVEZYZENmbjFJZHFKN1BSVEd3Y0phZnd0dFljZ0laS3FhSnVWLU1Yc1F5R3FMUVVpalNneUlXMTJyQXNlQ1NjSzJZaEFPaHlySzNNZzNQRjB1SjdyY01TNWZBV2pUSG9ZTTN0OW10NzBoNFVuQlFXREhSUXhVZmln?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Unigestion Holding SA Sells 4,369 Shares of Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZ3ZThnVnJEZGNjTDN6NEtCcTQwUkxZNjJyZWp4MjJaMElCVmM5eS1rUVBZLW5lWFBQWGY5N2haZWg2aVZDRHVTa1FqeFEyRHVRd0xrc19FZ0xSOUY1aDNUY3B6ZnhoRVN6NllhUG1EejBwQmI3R0tCdU1LQmUwRHFydEp4M0pEcEVROXhETlNaNXZjNU16bnZrcE9xRmNpcV9odkNVeVNuSmxGbHlneGFXQVJWdG1HY3NpeEVJWU4xMmZjRU8xeXo2cm1vbHJlZ05sd0JtWXl0SXdWYXdYOEVXdzhBeS1iZ0E?oc=5",
+        "title": "Curat Global LLC Invests $518,000 in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1RYVmxwVUFKTGFqcDdxZmtjRG9OaC1TUENDS3ZyMVN1QU51VDZZMXY0VVVXZjF3X3pYWEd0UGsza1lYc1I2b3VseE9lWjJXMUdXMG1KOUxMVVgzOTUwUHR5d1F3NnA5ZllGcUo2bGdxSUlNUjZjQkpDVGtRWGVtTURrTXFlNzRJYUlOeVFmRUxuaW9GVG1JcTUwanMxX0RKc09HMzVRZXB4VlhpVmVNYUZZWDV2SlJNNFFLbU82NjdNcHZBTGRCUDJSUHU3dGxNWGZ2VWFBSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Position in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQXzhjRlExTlR5Tk5mbzR4cHgwakVvUk1FcEV1clRjZm9DNnBHNlplRTkxeHBGVlZadWtZV2J0aUFpRHVmcHI4UnBVVG9JamVwMFhRcWNzZEVLaTVocGRabVBRdGJjLWg5V0UxUXRJS1VGMnBfLVpPSF9VS05SZ1NYQnBZNmVQRkxJamRBN0h4Y0VwcFhibHl2YVplNGQxRWxzQnJscUoya0JacE8xajdZNDNGUl9zM1pReFJRM1Z1bUhQTXZrQkVOVjhZeC1aTVUxWU5raGxxVnJObGFpMU9KX2FTUjNseHI1ODJfSUVaSFJRaEc5RURxLVduLVFyQ3FJZEhTVFRSTnJVNUk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GoalVest Advisory LLC Acquires 3,220 Shares of Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZDJ6NVF0b2lOczhTZ2RsVzI4UERiUmw3MWpIazRkUWhjQ3ZIRTZvcjk5bXRoRUNSWWhCZ3pNTldyM3Zsc1dPR2g0Rk04VEtUUFRPNktkT1FZZkJXcWNsOU1HR0ctZXFuTTNwTTZGX3pfZDR5SUF5TWpPVHNPQnFvYUwwbjRiZEdIa1Y2cTBiVFl3OVBoZkQtUzl1SmFKak1RdUN4ZzFXaFh5bG9KRnhjZkpmYlpYWGFudkI4Vi1kSWlhbnkzak1uaUl3Rng0QkNyZTBfa19RQ2x3R3o1?oc=5",
+        "title": "Vest Financial LLC Takes Position in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdjJaQ0k2VGxLYU9yRzRkSzBwM2J2NWVLbU9pamlzTVFFMXZta3piZklaSEFJV2hSNF9xanpoZ3NMYlFEUnQ3R1ZLT3E5bDZhUDNSaUc5S1hwUkNMaHRKX1czSTJwRFFNMmxnRVRCaHRRNTlkMEg2azlja3UzczZZN3lJLWdLbWNOV3BjM3lhMkIxREpGQ1JlMmFLeTNNWk1iWFNxa19LNzF5ekNHdWFHZHcwSXJESzFyYU54NXBGWnpiTXM0cDdHTjN4NGpLRHpm?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Morgan Stanley Forecasts Strong Price Appreciation for Principal Financial Group (NYSE:PFG) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWZXWkZ0YXV0Sk1yeXVBdGwwbUpldWJSQURfYzZycjR1akt1ZzdLQ0RKUzlaWUtaTTl3NTA3UVBDVlNjWkhzMTBCdFk2RXlIbEFaS2stM3NVMS1MMzJGUlJTb2NhaVdjR1JMWTJUY090MHpYMjNVRTVHcDBfNDYxdGRXOUZEcFZYLTEwNVlNSkd4OV9XSjlxVXdQaEp2RVV5NTVHc0FRbWE5N2R3WDM2SXFXMDlBdkhTNFo4ejBCbkMtQ1prWDdyc3IxY2JDQQ?oc=5",
-        "label": "POSITIVE"
+        "title": "NewSquare Capital LLC Has $174,000 Position in Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFVKU0ZndDJqRWp3UWk0U1BSbi1rdlFHVnJpOXBlcDdvRW44aFRHc1QtZlpqaVR0NW93b1J5U2IzUld1WWxMaEt0YXJsZEpkNXJ3UmNfRFdLZXBRRkZROXQxV3RWWnVlYTJYc3BkdURpSGllWVh6WUhNX3phb2hSdUR5SlFqYmRpbXNmV1RrRDAyNGZRTmhBUEVOdFJWbklYdkYtQlZRbGtsdENyVV9aLWd4X1p3cFJ2NjdFWEk0RThGX3JmbTI5WklEY3Q1MGwzMW9zSEdOSEQ0WTQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

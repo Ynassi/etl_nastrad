@@ -2,59 +2,50 @@
   "ticker": "BABA",
   "name": "Alibaba Group Holding Limited",
   "sector": "Consumer Cyclical",
-  "market_cap": 275982024704.0,
+  "market_cap": 268490964992.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.452957,
-    "PB": 0.26308805,
-    "EV_Revenue": 2.029,
+    "PE": 15.067211,
+    "PB": 0.25721025,
+    "EV_Revenue": 2.064,
     "ROE": 0.114379995,
     "ProfitMargin": 0.13059,
     "GrossMargin": 0.39952,
-    "DividendYield": 0.92
+    "DividendYield": 0.9,
+    "DebtEquity": 22.782,
+    "CurrentRatio": 1.548,
+    "QuickRatio": 0.983,
+    "FreeCashFlow": 12916249600,
+    "OperatingCashFlow": 163508994048,
+    "FCF_Margin": 0.012963605400798222,
+    "ROA": 0.05173,
+    "PEG": null,
+    "EV_EBITDA": 11.258,
+    "BuybackYield": null,
+    "PriceToFCF": 20.873729746442805
   },
   "technical_indicators": {
-    "RSI_14": 39.82976115454951,
-    "Momentum_10": -6.498046456783444,
-    "MACD": -1.8791801559249135,
-    "BB_Percent": 0.1478299624730387,
+    "RSI_14": 37.21592693771448,
+    "Momentum_10": -1.2637022831084503,
+    "MACD": -1.3812649178755123,
+    "BB_Percent": 0.0008017291659507,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9308342116208776,
-    "QualityScore": 0.5021329409674483,
-    "SignalScore": 0.6367490787138703
+    "ValueScore": 0.8970676191654728,
+    "QualityScore": 0.4540203110672048,
+    "SignalScore": 0.6495564776612213
   },
-  "volatility": 0.0334667587345176,
+  "volatility": 0.0330196817105623,
   "beta": 0.209,
-  "return_6m": 0.3537030590790737,
+  "return_6m": 0.2799066055075681,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 39,
-    "target_mean_price": 163.01717
+    "target_mean_price": 162.8659
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 92.32
-      },
-      {
-        "date": "2024-12-10",
-        "price": 89.83
-      },
-      {
-        "date": "2024-12-11",
-        "price": 88.98
-      },
-      {
-        "date": "2024-12-12",
-        "price": 89.23
-      },
-      {
-        "date": "2024-12-13",
-        "price": 87.82
-      },
       {
         "date": "2024-12-16",
         "price": 86.06
@@ -526,12 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 119.38
+      },
+      {
+        "date": "2025-06-09",
+        "price": 121.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 121.88
+      },
+      {
+        "date": "2025-06-11",
+        "price": 120.33
+      },
+      {
+        "date": "2025-06-12",
+        "price": 116.62
+      },
+      {
+        "date": "2025-06-13",
+        "price": 112.87
       }
     ],
     "current_price_data": {
-      "price": 119.38,
-      "change": -0.55,
-      "percent_change": -0.46
+      "price": 112.87,
+      "change": -3.75,
+      "percent_change": -3.22
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Alibaba (BABA) semble être au cœur de l'actualité récente avec des perspectives divergentes. D'un côté, des analystes prévoient un potentiel de hausse significatif de l'action, soutenu par l'essor de l'intelligence artificielle et des options d'achat croissantes. D'un autre côté, des signaux négatifs émergent, notamment une baisse récente du cours de l'action et des ajustements de portefeuille par certains investisseurs institutionnels. Les incertitudes liées aux tensions commerciales entre les États-Unis et la Chine continuent également de peser sur la valorisation d'Alibaba. Les investisseurs seront attentifs à la capacité de la société à surmonter ces défis et à saisir les opportunités de croissance à long terme.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Alibaba (BABA) Down on US-China Trade Caution - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sRmpwMDJoVmdNTGNBdkxjeDNjOGNaOGFkVDUzSnQ1X19SaXRIQkpadjVzNVQzMWFPQWtLLXBkcnNfT1kwZTU1SFRveHR4RExPc2JSdEtNd0FKWEsyY1RhTk5vU0FMcWZicW5xOGFEaVdzMlRYZnIzWGZCYnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alibaba Stock (BABA) Could Outshine the Market in 2025 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVZaaXVETXpnYzBYLVJGT1lkQ2c5NFBqQi0zRjl4bk9TemFRZ2JSck9CQXpIZWU0U1FBOXJaWWtIRFNRaEUwdGV0XzFqRVU1UUxCamNzaEhQOXlOUUtIU0QtaU1NUWRhaWt3czFWN2hCNU15aHRBeXRBd2RsZDNGVW5XMFJZUzFMQ2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alibaba Stock Is Undervalued And Poised For 60% Upside - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEFYRVladEFmUXFKVFNqQVdNWGdJWkRGOF9DSFE0WFBXLWYtRUlnSjVvWEFQOXhaenJnMDlTWDZFY2JFU1BUZVZkWXZYQ1RkVjFCaE5FZzY4R1U1TmJLTlR1eEN5aWp0OWh4UnJUSnFlMXZFS202aDhYTll5bGI1X3VJSHV6VFZlakhfRE1ITkdJTWdacm0zTmVYOGE3WTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Eyes Big Comeback: Analysts See 55% Upside on AI Momentum - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUVPTV9QMC02V2dvVVp2T2pocFFWa2Z3UXBReVhRNm9YTHd3czZ4UzN5RnlNM0hRUG5uYVNKbEptNHlmU19tUHVRM0c4YVZuQy1sYlg4bjdOcFRmT2hiZi1VVEhjdWRhc0dOMG5qMFdsc0U3dkgwakdodXg0MjFrb0ZlcjVEYVNHeFVPdjg3THFwbmpaM3pZTFZOVWZLSkVUQm9YMDAxdG1OTlhqYWRSZFB6ZDU5a19nY1VvSG00b3M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Analysts Expect About 40% Upside Potential in Alibaba Stock (BABA) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS29mdzBnczUzei1FRWd1QjRnNTN2eGplSHZ5U2pIWUFJalRQSEpOMkQwb0tFLTlqN2sxZzZoQWVPOWo2NTlMNzhQeFB5bVE2LWpmdUN5ZHNlRlJmbW5lekNNczhVSkVaV1h5c0c2OWFMYXlDWnJUOEdkLVZuWXJSN1c2VUpZTVpBMHZYazYyanJJc0M1UkdFQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Group Holding Limited (NYSE:BABA) Shares Bought by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTV9GVi1YOHZ0Z1R2ZFE3eTJ2WWJLcEVzbjNGX29sc0VSZkVqdkc5TE5IZzV5bDcyMkNiMVdWaGprUTE2eWhhNS1haUJkRTNxdXVvdnVkSVJvOXNIVmJBbXJ0aTMxMVVOSGxjUUw2RHk2Z2ZkdEZsQVZBUW5pRzNpMnlqY0g2Y1c4TVhhN2JkUnUtaFZfMnROMGZ6M0psVnpNVkZBRmJuQ0NHQXQ4akJBRlQ0QTFCZ0xnVE9xeFZXVVNGRlIxUDUweU1Yam1VaWN6aWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US Listed Chinese Tech And EV Stocks Slide As Trump Confirms China Trade Deal - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVNTdXBBblFwUW9xdElYeC11SmhudjBtdzk4VWpEcnZ4aW5iVy1GRHpvckp5VEhUdUVmemlUeVBUZ09zUkxxaDh6RHpQX0pzWHJKWkxEZHdIQ1JfZEZ2dTZWXzUwNGVkeC02MWd2WU1hZUg1eWROaHJNTTlnaUYxMDFvd09zM2tWcWhnUG5DQTBGWTdORlRkRE1hU3ZPWXo4ZVl4Z29DbW1YbVJPdVdCbVN6ZngyNmpzLThNUE9BZEMzTTY4bW1XZ0o1bEd3OFVMZlI1TA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Where Will Alibaba Stock Be in 10 Years? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFBPUUFmazJKTUpVZHM0bVR1NjlkcnhkZWJKaFF5ZzJtTTZsV29rQ3JLQk9aZW02QnNlYTl0R1dzUHEteHpoT1A2ZFJTZkpFTjY3SEhOTEIxWmctTXlpeEp0NTd3eFFDejh3cWJhd3hXOEJDakktV2RNNzEwVkRSemlxa0ZsS2Nlc1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba (BABA) Sees Significant Growth in Call Options | BABA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFhzUWZpZWlGakMtT05wRTRIa0FoT1ZYWFdUVzJSbmx1VTA2T1oyeDZpRWlNcWY0SWd0ZEF3ajVKMWo0VjdmZXlnd2ZkV3RoQmpHVko0NWxGbVlLbnVMbHFqVUk4VlNxZlNJNDJrMGhVUHJxNjRURjBaOTFCR1duZHVDU3BoZnRseTdBNHlVdUJxUEJmT1hnUFg5YkNOTktEWlNVNEMtT0YyX2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alibaba Stock Is Undervalued and Poised for 60% Upside - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2o5X2VLUEJsbXhXUmtpbFlKSThsVURtQWo4ekpsQnlDNVFUVEJ4SFlZMkQ5UElPNWxXMjZvOU9LTnNEN3A2dnhia0l5YzExZUdGYVhhZ2NjaHUta0F3N2E4ZVgzTHBFTFlUNklQdktIbWR3MFdjcXJzb3o5aGdxaFUzYkFJUy03ajlXbGV1N1N4MTdnUFVoX09uRFhfN0ZJQURNbmt0NmR5OFFEVm81SndXcjlOUmFkaEl5Z1I5RTJYazBYajJIcA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Alibaba Stock (BABA) a Buy, Hold, or Sell? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oakZSeG9SVjRYZkZYX1pmTU1UcUNScThvVEEwN0lILWptZGgyRURKUnAyaTVNb3FHR3BOSlRFcDExS2FXaklXcmZkZXRxUUZsdnRBTW5GM05ZLTcxbjgzTFpuR1Y3dzU3S0tMVTJVdjl0MTA2ZW53bTZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Group Holding Limited's (NYSE:BABA) Intrinsic Value Is Potentially 49% Above Its Share Price - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZE1CZVN2QlNUdEM0cEFVaG9lOTd3Q1Vwd241WUNjUWtteEVqZ0V4eUVMNmNad2NJRkh1M1RUekw5bTBkenFhWl9HYm0yNnRDYWtCUjI4bEJFczB2eTFjSElhVHB5Z1hYeFRCVURLNTB3enp0ZXVuV0tFRlgwRjJkeElnM0lORDI1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Group Holding Ltd (BABA) Stock Price Down 3.3% on Jun 12 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzlMNWdoTGxKVk5RekJZVTNzb0c3M2k1NTYtQnptTi1Ya1VtTnVSZ2xDdi13Qm9PMWRPREw1bEQ1VEpBNFBYWVlXMElkdlAycmhjQm1PcUhZVEZ3ZDJpRW5wbEpPRmx0d0V3NkU0dDBjenBYTmZTMi1abzc4TElKdk13Q3Q4YkdYUlI2V3FrejN2VTBCRE56MmdqbC01MmR4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alibaba Group Holding Limited (NYSE:BABA) Shares Purchased by Rheos Capital Works Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2FmVjV0dGpLMjlxb3ZnMHZBQkw5VU9fN1pxQ0IwYWpvVWRJR1NEenRoZURhSmNVOWszN3RmY1FsVnAyWGgtRURncUNnNzBrSlZlZHh2M25UNExpdUxlSXJlS1g2blpQTDg3cUNkU0N1TVBfOFBqaHk1WGh3TkVDR3hmcDI2TTNvSmZHUkxyMkVyOE52R0ozLTVJbzdoT2syQkJiTUwxbmJiSE0wODkxM1VZLWJSN3lIN1VWOUMta3JjbU1vNS1oZXNjb29OSjg4c2JoYlVCcFRnbkQ1YlB3ZGVlUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Reports Share Changes Amid Strategic Repurchases - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHNxSllLT3dQbml3TmlEMGNudzY3bnFRb3hBQ3ZUR3hPQlZZNDMtQzZoNjJmNjc1X1pJN1l2cGdhTVZvbmpuQURTTDdobDluWjd2VUE5WnAxOUhwMUIyYm4tUzU1Q0E1d0Z6ZWdPcDNSSUtic0ZFRW5xc3JTbHk3VGlRUnBBT2w4UFg3R3lycHBMRXJwYnRTTFR4UUN1b2Jab1l2R0hxT0p5UnQ1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Group (NYSE:BABA) Trading Down 2.5% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWo0SzhVRnhEOGVMcG00c1UwRGJ1VXpzOHY5RXI1dVpmSlBaMFNDOFBvMUtickJQNk8tNzMtYTVhT1otUUFweE1PeTdYcGpoSnYtY080Qmk1WFFnWTJ3bngzbUFIb1BWc1l3cFFtRWNud3NzeFVJWU1JMFVaMldQeDZuMXBJM01yZFpiTFhvbk1sajNIQmxVaVlJWkRCZ2JzN0szczdIRlF6QlFnMHZuZEVR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Alibaba Group Holding Limited (BABA) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRGZYcWNLV2gtZlpvWElpRTJ3TkMtREdpQjJZaUVCQlRya2dMYlBISXNnRWwtRGIzNnR3OGVKZzJzUE5heE0wcUlsWjBwcVdrT2NxRkZCM0puRk1nOVBTUkFvVi01RDhmZWNqQVlwYzFtT2lTa2dSVUlBclNURTh0dQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Quick Advisors LLC Grows Stock Position in Alibaba Group Holding Limited (NYSE:BABA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2xCX0M4d1ptUklZVk9kVE1CWjRQYWxlb2FJa3dZZVk4QUFvVU9fVjJyUm9TWDl2VVd1Zmh2S3hDSFlFMUVwVlBlQm83Mm9xNW1DdEpnOVFzV2d5OGF6YnA2QWZtV3NYc2Y4WGhCblc1LXRJZGEta2x3ak5hSldxZ1daLW5vMElzTkJuRERBYml4WWNjNnltT180dEt3NS1KS2hTbVpkdGRETE5RQ1QyZjB1RlQwUkthWURxaXhNUTMwVlMxdzFTRzlmQk5Vd016LXlXSTNYQkMyRV9IaU5ia3NR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Loomis Sayles Global Growth Fund Trimmed Alibaba Group Holding Limited (BABA) in Q1. Here’s Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEJ0SFp2aUhLTjhlVzg0SUVGRF92dzZOS25yMlhXTnM4OWVLUGkyd05BWkd2S1g2R1YwdXFfYVY2Zk9YN2Ztelcwc1VLVms3R0toc0hrNUp1czlIbUtZSzZCaEFsLTVUTDdtQTY1cW54UWY3UFVIMks3NHFwOXhPOVIteV8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alibaba Group (NYSE:BABA) Shares Down 1.7% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEt4RmMtVmNscmVMWktiUWhva0tOMy1kSnFESWhGRFNxWEVBMkZUWHNUamhMRUMwczlfRzhBOWJNbS10cE1kcU10OElBS2UyVVNGVnJZdlhLNmp5UXlVc24yMDVMcW1VamtUaDE5VFlXcDRxTzM2aS0wSS15ZEFpdG5pVmszWU5EejdaTThuWVhubnRpTVJRcjZGZnNQeExqUzhrSQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

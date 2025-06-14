@@ -2,16 +2,16 @@
   "ticker": "DPZ",
   "name": "Domino's",
   "sector": "Consumer Discretionary",
-  "market_cap": 15933596672.0,
+  "market_cap": 15473562624.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.651203,
-    "PB": -4.122342,
-    "EV_Revenue": 4.593,
+    "PE": 25.89656,
+    "PB": -4.003322,
+    "EV_Revenue": 4.524,
     "ROE": 0.317925,
     "ProfitMargin": 0.12844,
     "GrossMargin": 0.28439,
-    "DividendYield": 1.51,
+    "DividendYield": 1.54,
     "DebtEquity": null,
     "CurrentRatio": 0.599,
     "QuickRatio": 0.358,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.10017831702602449,
     "ROA": 0.30322,
     "PEG": null,
-    "EV_EBITDA": 23.254,
+    "EV_EBITDA": 22.903,
     "BuybackYield": null,
-    "PriceToFCF": 33.7384393163046
+    "PriceToFCF": 32.64745901740009
   },
   "technical_indicators": {
-    "RSI_14": 41.81813383749252,
-    "Momentum_10": -3.4162082216857175,
-    "MACD": -3.502759970895511,
-    "BB_Percent": 0.1753400820640392,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 36.60209207693711,
+    "Momentum_10": -4.58085702467852,
+    "MACD": -7.0030020967152495,
+    "BB_Percent": 0.1546925802784881,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9344275756011012,
+    "ValueScore": 0.8855614161453151,
     "QualityScore": 0.3281153350229231,
-    "SignalScore": 0.6623475228586233
+    "SignalScore": 0.6720943143240963
   },
-  "volatility": 0.0193335008799803,
+  "volatility": 0.0194312794982668,
   "beta": 1.122,
-  "return_6m": 0.0199287652078614,
+  "return_6m": 0.0012505747437319,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 28,
-    "target_mean_price": 509.32965
+    "analyst_count": 29,
+    "target_mean_price": 503.4907
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 457.74
-      },
-      {
-        "date": "2024-12-10",
-        "price": 454.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 457.35
-      },
-      {
-        "date": "2024-12-12",
-        "price": 464.89
-      },
-      {
-        "date": "2024-12-13",
-        "price": 453.17
-      },
       {
         "date": "2024-12-16",
         "price": 447.72
@@ -537,27 +517,87 @@
       {
         "date": "2025-06-06",
         "price": 468.21
+      },
+      {
+        "date": "2025-06-09",
+        "price": 467.95
+      },
+      {
+        "date": "2025-06-10",
+        "price": 455.49
+      },
+      {
+        "date": "2025-06-11",
+        "price": 446.9
+      },
+      {
+        "date": "2025-06-12",
+        "price": 451.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 452.15
       }
     ],
     "current_price_data": {
-      "price": 468.21,
-      "change": 8.18,
-      "percent_change": 1.78
+      "price": 452.15,
+      "change": 2.89,
+      "percent_change": 0.64
     }
   },
   "news_sentiment": {
-    "summary": "Dominos Pizza (DPZ) a récemment lancé une offre rare en réduisant les prix de ses pizzas, suscitant un intérêt accru des investisseurs. Malgré des analyses mitigées soulignant une dynamique de croissance ralentie et une valorisation élevée, des entités telles que NBC Securities Inc. et GAMMA Investing LLC ont augmenté leurs positions dans l'entreprise. Cependant, des acteurs comme Seeking Alpha recommandent de rester à l'écart à cause de ces facteurs. La réduction et l'augmentation des participations d'investisseurs institutionnels reflètent une perception divergente sur l'attrait actuel de DPZ pour les investisseurs.",
-    "sentiment_score": -0.05,
+    "summary": "Domino's Pizza (DPZ) a récemment attiré l'attention des investisseurs avec des avis divergents, allant d'une recommandation de vente de Redburn Atlantic à des analyses le qualifiant de valeur de croissance à long terme. Malgré une récente baisse de 1,8% après ses résultats, l'intérêt reste fort, avec des investisseurs comme Warren Buffett détenant des actions. Cependant, des défis potentiels, tels que des implications de médicaments pour la perte de poids, pourraient peser sur la performance future. Les mouvements importants des investisseurs institutionnels, tels que Paragon Capital Management et SG Americas Securities, ajoutent une dimension supplémentaire à la dynamique de marché actuelle de DPZ.",
+    "sentiment_score": -0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Dividend Assets Capital LLC Grows Holdings in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEpNYWhXR21ERENBMG11WldneWJHc3RGdVRSQ05xV2RqVEd4TElIeTZkTlZSUUZSN3VWMDIwNk5lQ29mWnJ0QnhzVGNjN3did1NIU1Y5RllOeU1NNUdkdWZ5V2xUVUk4b1FoZG5zeXhyV2hPelRfZnNPQS03U3FKbGs1dlFQSmJhbTlrZUZRZG5kN1lmMlc0X25pSW5mdWJVOWFHUVJUSVlCVTFkWTJkMFFTRUZjWi12VFNaVDk2bWxWTUd6UVNYUlZDdlllYnNIaTRlWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
         "title": "Dominos Slashes Pizza Prices: Get Any Large 2-Topping Pizza for Just $6.99 in Rare Deal - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczJ3QnFOTmRKa211UUcxWXJReVRoVVgzZnQxQlNRbXdidXBaRDlhZVpSaUVrXzNER2lkX1BJeE9tejRTV21nZVNndTg2U2lCNndsNl9IMzVBdGFULUtlWVVYTTNvR1ZDTFd5UHJHMGRuOEh1NGU0NFUzT3EwX1V3bldkSW5ULU9ja25EdHRMY1Z5S2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Domino's Pizza (DPZ): Redburn Atlantic Initiates Coverage with \"Sell\" Rating | DPZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdqbXFyUnozZEs4T2p4QVVDeVNkTV96cXNJaU5HOG8tTlEwQms0ZEctVXp4T25RMk5saXIwSzYweXVVazF3Qkt6MWg5N2FiX2sybkhrVTdQTWwtTlk1N1BzTk1TVkNQYnVMeGlTUWs4emFHQUpUanZ3bkJELVJaTGYzWjg5WG45bFE2UmtLUk5xcnFkMzBTa3R2SGtySmtjdzlCQU0tekZYTTZMTHpzcG1nVmlHaDJkbzJwTmIxNkhlem8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dominos Pizza Enters Oversold Territory (DPZ) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV19qOXRMRnQ3T1Y4WFgyT3FUV2JfNDVnRlJzM1FUcU85RVYxU0RzbkIxQTJnQjlFQ0dYUGZKR2tLYk5WdDEwMDJ3cjI3VGc2dEtLaS1EUXd2SFBfWkRnSUJHWGdFMkZ0b2pVTmVfVVV4ekI4LUJ0SzY5QTc3UFc5R3Qydw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Domino's Pizza (DPZ) Down 1.8% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MM2dMMnNmZmk1eThGeUU0cjVONWduQkQ2TXEtclNaaVkxc2dJRlBXOFdKWVVhVUhaNUZ2alJtYS12Vk41UWRDTkF1NWJfQWtqWkZmeVFpVVc4NnNXOFFYM3ZGcUxfbzdqeUJLMWZ4Tk5jNUJVWjZldi1n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Redburn Atlantic Begins Coverage on Domino's Pizza (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVZCaUMwZUNNRnlFT2gtaHdTTnVjTWVVR3o2cE05MkRyZmhiMUtac0VUeWkza216aHdlZ0pZaTlYOTAtRXRXTnBERGpFS1B4S29oRkl0cGhrV3MxY3pxQk1Xcm1pTmVWM0VtTThmbFM2WTE2N0k4YmtNSXZpb0FuRkVEZi1vSlMtZHFFblRJMjNMOWpxdllRSkxuVlNfVnpKeXhiamV3UWQxMDlLMlBwQjV0bHRUVVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DPZ Stock Price and Chart — NASDAQ:DPZ - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQzFILTlGY2xkbDlZcnpkSUtFUlBLcC03bzEtdEZrYlg4RG5MczdtZ09Cai1HVzBvZDVvTkJhblhSeVhtWktHdXhTNDBlaGhIbXJ3TThEZk5iR0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Owns Domino's Stock. Should You Do the Same? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2NtOGR0UTl5YTVNWk0zcmJtYWlzbE9lSk15NGU3UnJsMTBrd1JRSkdwbnQ3b1JKX3RkeW9sTDZoS2s2cTBLMUdsRHh3T0lLWVBZWGFhVUhFcFRqWlQzV1JqSHZzNkpzTmZaeE5HSFdVZTVnell3VG9EanduRmQ3bU5FWUVpbll6VmV0eVJIR3JtU3VsQjJyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Domino's Pizza (DPZ) Receives Sell Rating from Redburn Atlantic Analyst | DPZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1h6cTVtTE5TeV9qUFJHbFQ4WHYtSTRSQm11RndUZ2d2Y2NsTEU0akJJTWpBMjBNZXZ3WWdCeE9QcHlpSnd2ZUkteTlER3p2cXN6U1dQQVZhSlU1UE5kRXJpN3BPbENJdU42RFZOU29EdmdKYnhQM1Z0blBpU01qRGFPNDc4b1QyWUFwNm9vWFV3UHU5SjQ3VEFPWS1Ob2pVbksyNi0zOFRlV2xOcm9CZ2RxcFRsR1RlUjlfelVEVDY?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -567,95 +607,55 @@
       },
       {
         "title": "Here's Why Domino's Pizza (DPZ) is a Strong Growth Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90SFhiSU16elpiV0xnUlNkUmdCTVpSTVBKRUxNOXVHOThCdGNEZElsVEFrNVdhWm1XX3FmRF82MFBsOUhqNGZuOVJTNlJLM1Q0dkF4eTA2SzZ0dnhVZlBMNWpLRUtWbmtnLWJiQ1FXZEVEYlZWU0lvOHE3bjNZdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Invests $395,000 in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEZUb1g4WnhnVDFpVW1VM00yWk51ZjJ0NWU0RU50M25PSjFjMEZSeDdKLTduOG54OFZNdy1SQXJrVkNnNjFzckZhZXlHQktDRXVMWjlSamtsWTcxLVdTcGNNRDh5b0RBOEpQNzhHbFhXWnVpR2NVOWJKOG9kMm5NblFGbTJpNVh4NWNmeXoyRUxkX2QyZ2ZNeDFSLTdoQm1QcHZEaDBndWpDQXVVVGpobnpac0VaY2hsNml0LTNEdzFrc00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Domino's® Launches Weeklong Carryout Special | DPZ Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2gzNTBvUUlLdkpjTGh4dV8wdGZTWWF4Ykl2ZHdlUGlQandvNWh4WTJsTXNONFk4OU5Gam9pa1dERTlIMTNBUW9TTXBlRWNzSDcxd3BVZDdQSXhCYWlZWFo3bUhQQ1BkanpmcS14QkRRRV84Y3pyYXVYejAtOXowLUxRR3gzVnFSM28xRnJUM3Q5MW9GbmdqSnVjOVU2QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Domino's Pizza: Avoid Due To Slowing Momentum And High Valuation (NASDAQ:DPZ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXJLWlpsWDFOb0xQQVJkVmxyazl4YW51Uml3c3dPTDdFM21hV1VxWFhRM3JqdnQ4bmtiS1JXY3VaSTRURDBjVzBMRXJGb3dyVXJja2U4TTlZY0ZERzdCTldTSllMY05GTDI0RUh4NWVRVUFaOWFiMXRxSDVhTGlkbkpQdXZ3T2xtWVVQdXhTZXdhRXZBU18yNTA4M1F3NkptREdaclNn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Warren Buffett Favorite Domino's Sees This as a Big Growth Driver, but Is the Stock a Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdy1hd2VROWlubkk5RDZZTkhIUXI2SS10RXpWc0Z4Z3R6QUhfUWdXY0pVYzJlRk5HMmZZOWZmYVVkQV93UkJpdU9GVzYzTi1kdnhDTnF2bWpnMzVneDl5ZW9KM0JuRTl2NXlVQ1dYT3ZUa2RwemZtSzNGRHNNeU1RRkVDLTJjTHV0NG5GUjZYTUN2RFYxZUw0Rw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Domino's Pizza (DPZ) is a Strong Growth Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpiZlBSc0ktcUVDcUFLbVRDWElYM2U4OS1DVzltYTFhb1R3Q290c1ZPUnVMTmtCWk1QdUxIWl9mNlN6eVkteXBLOGhSYW1tcFo5dXo0OE4xckdxbGpIQ1BtZVJmRHlsa1VjQ2t3MnhoR2o5SVJvOXF0Qm1ldzNHYXEwWFJSSVRo?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Domino's Pizza, Inc. (NASDAQ:DPZ) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEo4YXgwbkEzV3pLbjhLemFlWUZZM3dxREMzejdqRDYyLV93cTkzME1HMmVBTU85S0dWeWdKSlVXdGxNa25Sbk5kQTFnZ0JGU0xyUWVfMjN1eHczUUFaNlpVOGQwR3RTenA4VDF5MkpiLTJjQzJTRnNMVmk5UlplRDJuNTNES0s4TE52d1JwNWtKM0RpVW43U0h6OFBDTDJsS0c1aUFyOUw0cFBMX29MajEwTVNnbEhlbzdkQmFaeDJUbXk4em9Ka2VlYThIbExJM3dVVzB4UnNCWEE2ZXZNdFNwS0xhNTNIZlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Domino's Pizza Will Keep Delivering, But It Is A Hold At Current Prices (NASDAQ:DPZ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlNHWk83bGpmSUg4UFdRbmJWcTgyXzNvb1FYNnpKNkw4bldUUE4tYlRIT0hzZEprR05iS3REVkVQMEJ0YnE5QjJMR1lmZHVwYnlSNy1mZGw0OVBqU1VIQnI1TWJvNGJVNnN6OU9DSzM5TnAyRHY4MzBFTzZEYmxaOXkxb0lfOW5LV2FiNjZIS1lTMEJiY3JwWUhjZS1EOE1BVVBQYUl1b1BmbWp2OU1j?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Domino's Pizza (DPZ) is a Strong Growth Stock - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQ2ljQ0IxcGJBd0lvN0ZZdm82dFQyUkJiUDl2clZUdjBVNFhjNnV3OVFtWGk3SWNtR2E1cTZTb000YVNNOEMzZ1FSV28zNHJMVEpRXzJ3MG1Wc0pMLXdEQ3VZdjZ2UXRlaUwxMVdQdlRGYVh0QUlHdENST2dDQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "GAMMA Investing LLC Increases Stock Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0MxNVNIZUd0dm5PVmY0UnRqWm42ZHR3RGJYckZxRTcwaGNyUUo2Nm5NR3FrbER1UjRuVy1nWklRWDVZVjlkTW82OGdOMDAtdW5kOGNwLUFEdUZnQWFQS3NkZEtZNmxzUWFjWXJsTTBmNzZUOGVaSVV2Tkk3UXVGUFZJQnlsVkxJaEJxYnc0TllPTHExV1lyZDVNSGx6aVVqMmlvMlVRSFozdjU4N0FKZjYxUmFycGVzc2RuSkNPRmRRdjZybTBXdFRn?oc=5",
+        "title": "Paragon Capital Management Ltd Makes New $715,000 Investment in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSkxkLTZzX0w3UjgzbWF1dmFwcWpSbEg4RTI0UzFGaHpfYU5Uc3daUW5HVVFCZlp5YVVfY2VGeUFrR3RwUkxacGFudlMwc1hZX2NSbTBfWlp3dWNzZU5SN2tlMXpiU3lSdTBUeXFzYU5QbGRsUGlkVEktb2gtTUg5NDJlRHA2WkRXazBUTlZjUi1ySmdIRUc3ZHhCZjFkNmZPSWxQNTVDMXViYmh4M3J0TkxCUWxhdVNIdjFYSHh1bFNZYUhNd19JSHlfb3ZDTDdQVWJCQkU5aldiZTFTXzlabk9IYnQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "DPZ vs PZZA: Which Pizza Stock Is Better Placed at the Moment? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GLUowTlJQVWlMUW5GMXFoTWk5SmhqMGJNWXB6WkF3cHdsTEljdVBBWS1Fd2RLZkZKSWFfYmJqalM4OFNxYXRvdXNnYjU5TGE4cXB5NVBlcVRDZ29oQ3NQSWNGNmRLb0FtdFliTWVWX0Z1WVdRTGM1WA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GTS Securities LLC Reduces Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3ZwVHJBQnh1aGNKbnZTVEgwMDZPMjd1TGdWeEZsSU5fU3Z6bEhjWTZKVXNyc2thLTM3cF95Y2xnX3RJYk9SZjktX19nc0Rab19mZ0JDaG5Yb1ktNkZPdE9WTnNRUUZ4OGpWWS1pbGFZbHc2aDJtU0txcW9BUm5maWtiTFozbVNNd1hCb0tkWEZZbVBSM05INkNKVlhiZ2tqSnRXOGpPY1hrRWlQbk5ZLWc2SWRkbUllNllVZkRiWQ?oc=5",
+        "title": "Domino's Pizza (DPZ) Faces Challenges Amid Weight Loss Drug Impa - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3pmQ3BGVC10TTZ6MmFQeTVUeXVxNGEwR1VUNjF5dUQ5cjN2MkZVcG94NG1SZlpHWkZFN29rZVZKZmNoekxtcHdSWHRzS1RPTUYzcERpYmdnODJLTFdMRFhLM0xDSTllYWlIbjIxVU5TY2VxdDNfdURtWU1vLUdmUzVON0N5NTJESGQ5TDhYRXk1bVl0ZzVINjM1c0F1ck1kd3JERXE3cHd3NE1Fc3QwTW90NWJmNjlo?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Traditional Fast Food Stocks Q1 Earnings: Domino's (NASDAQ:DPZ) Best of the Bunch - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0FBVXBibGwwbXNUWVJncHdsbkdRN2pySm1KR2ZpX0JNZjZaekZhQXowNWhWSjV2bng2bUZMSXJzeUh3ZktfUWljaWJ4Zk15cC13eE5iTUl6ZDNhaEdvMEtORU0zdHFaVDlZZ3d1TTRCQUNEbW9GbWNPM2ROdXZKZFBXaw?oc=5",
+        "title": "Why Domino's Pizza (DPZ) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzBCQW93ZUNkay0zTmZFbzRZNDVBM0d5ZmJsWDlLNkt1b2ptYkpfQnAzYnpoZ2RiWjFRRXBVeHFZdmFXNG41SV9QSGgzcEhjclVtNnpsZkx3Z19HY28yUkkzOXZQQ2RIYUNuNjJoLWduakhtRGw0RXVtRUVUS3dTSmFmTVd3clAyd0E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires Shares of 34,158 Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMmV3TVlPWmZRU2ZPeWo4VFRVX2lmeExLeV9INUxwM0JXVjZHQ0xQUkpRUjNKeXNnZmFCZS1Bb0ttTXl3SV9PWGtLVGNla2RaQ1BRMUE4bHA4XzZwTVdmMndCRk9fY2x2OUlQRVNmQUpwcGRMbGlkckxEeFF2d2hISkV2SkZhdkNnc2VTUWJyVl9SN3ZBYUo2QmtjTkhlaVFZMkZ4ZkRfZVliNWt5dzFHcHBBaERyVTREVXNROFZEX3NqcVpENUw3Zl9uRXRrRWdibW5WQzkydnJHTThSU2FyZ1k0SGViR0s5S2lHbVd4RGl5U2tOcEFnUw?oc=5",
+        "title": "Greenwood Capital Associates LLC Purchases 656 Shares of Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc3hGbXc5LXNVMTItSm83aGRvemY3Zm5JemZNNms5N1RWdDNTR0hHYUZlQ1RCNG1pTzUzNGxKbEpON2pmbjJMdVZTY19vbDQwSlU2TDllazBHZ1p3bGl5ckE5ZElnd2U5NUtQQ2otZFpnRFI5aTQ4dlpRZEVjWWVFWXJZVlFvWkpXOHAwTjNpaXVoem5MV2NobHpWV0xqSW9fUjBQSWVFbzI3ZEgxYXdvZEU3S3dHQ1NVdDROSGtJWjI5eENVbkx4UzhVQ2JsWHZlLXFlcUcxcG5Kd0tTQWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "California State Teachers Retirement System Reduces Stock Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnFjSzhTWHlIM3I0d0QyN3lvQkZpTjVXYmhrN2wtb09KU3ZmbGxnckVBQ2JaRTJlaGRMOHlibHdKMWtoQ0s5akdlMmwxWFcwNmpsQi1aejhPcUlJbUZtdThMRW5jMTEzUHFoUHRiVFhnWU1DVHBNNVFybkpSY3pScmJhOW5nZFdsTTJHSGN1OXV6NDQyWkI3bG44eTFLbnNIX3NrLVRYck1jclBXNi1GMTBfdmlEZE1RbHRqOFZYbm5TV3p3RUYyNURiWnRoRTRsbzItWjhuTVJFMXZvbmNaZmdrN2hDUk0?oc=5",
+        "title": "Domino's Pizza Stock: Is DPZ Outperforming the Consumer Cyclical Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjVWX3NlNWpHMTJGQTV6X1hzd2tPSnZ6X3Ezd0JhdzYxR21ERGxnenNJZFFobzNDNFVNcjhVdjdwa2ZjcXlUeGdqdUlCVTBfdTdWaWswczJkTWw1eXl0RkdDOTQ4Z2g3UUlJbkExSktVS3JHeHJxNEZ3MmhXeGJtNzhRdkFTRFFTMHlmZDc0ZG9od3NwZjl2cU5B?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Vident Advisory LLC Invests $237,000 in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGo2a0MxQ1pzSjRqTkdldFdYRW1ud2o5N21pRDRwTHhScVFfS0M3SVZJNE5DUGoya0RnNDBCQ25WbDA4OGZLR1ZxeHIzNUx3VXlxTzVBQ3EwWVVIWHRsbzlCVWhvblNwX1ViQXZLclhScVR0UkxXam5jam5pN3ByZnU1dDFtMTRjN3VFVjkwN2lGV000X3VCQnZuVGFtRTRFU2JvQ3VtektjUHk1UU13ZFJ4RWFRWlFTMDk5c05oVTJSTTNLTVpFaUFsMDNrdjB4eHc1ZnNB?oc=5",
+        "title": "SG Americas Securities LLC Has $14.55 Million Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVzBkaHZ2R3Z2RHZZanFockdRS1ItbGVxeXFEd0JKWl8yTjFZM0pIVVROdzBrWE1mZDVqUEtJa2dVUnhTTGJNWDZyd3ZkWVJJb1d2R0lhME4teE1ZWXdiR3IzRXBtUjZPMDFqVTNmRGVjREVFUzNlell5eW5fNUtuWHNDVXFReWlFRExLbHdqUTFIMW9aN3l4VjNDX29pem5VYlpEbjNqWE9kNmxpY1NtRWZmYm0wUEh5Tklxa3NCMkN2Z0xLSzRHSnVEaFFPaGhZdGRGWXJnWXhneTE0?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Baxter Bros Inc. Takes Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGMzeVg3VW91djRxdFhST1pKTzdTeVF4QkprcWpRb0plNnNSM1JDdUZKZG1EZzg1a0RjS1FOc0lCaTBKN0lDVXMwVmlGRU1mM1lIVE5NM2xtdWlKY1FGcnIzSEdDNl9fN3hfZUJpNmRPRUdSeEJraFQ1QXdLdGhoVmxuYTBIOGl2ZXJJLXFFb1NFSkFGZ2NyN3JSeUdVTXh4OFRBcF9jLU1aSl9WdFRVOERpSkw2M05NcGpBUWU5Wlg?oc=5",
+        "title": "Two Sigma Investments LP Cuts Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTRvVmdBTGtHNjN0SXNacURoeFJRY2FKcHJDRkVsaFJXZWdSdnYxUkdyMUpLMDhtVGp6b2MwSnZIYU11M0NsX3lidGt2Sk1LQnNCTE1FSkZScDZ5clhkTV84bWpLdlI5MzItQjRIZXd4Q1M1a0x2Sm9uN2szSVZCcWY2aUlhZ1pPVkdITW9DclZwNml3Tk1BZTBEVFFBQnFYbVpfUDAxT1VnckFnWG94WjlkNTFQUFBGR1dtaE5KNnBHU0ItSjFBb0tJdWlyS3lOWmZuZlJ0VVFmb0l4dW9tdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Domino's Pizza, Inc. (NASDAQ:DPZ) Position Trimmed by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmp5cVQxbjlycEl5MWttZGZKT2dLXzdXTTlJaVNWZ0piVjlaMjFBZGk2dmFzYkxMVG1YaG9mOFN3N2lxbk5zbnBGV0NpSDYxRG5lM3JNdExpS2VOYVlRR1dETXRCZ3c2T0NlbmtGRXh0T1dXdW1HWTJobU5tSkg0bk8wWFE2SlUxSzhvY1RxVUpWNEIzd2EtdUdVMm83RlNzUEdTZ0s2VnVoNDlVak5QUi1haV9WVnJ1VGVISi1sYw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mackenzie Financial Corp Has $1.60 Million Position in Domino's Pizza, Inc. (NASDAQ:DPZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSFBuWFJEbC16alNnMWFHRkYzaWVnQmxsVWV2X09JVTJISkxVZnN0NXJFcUwwaDg0d01PUDg3c19WRmlvdDZta2QwMmpOSnFrT1NlcGNnZktXMWxyZW9STUFJd3J1S2hWdGpYVS1HOEJvbkhXbU9BNzRrWU05VUNDN3RIV05tcFgwVlFOLURoLVFsc0Z3R3VwMmdsN3luUFJXNnpZdU9BRHBJMHB1RjNMdGpveldzd2w5cFlvUjR5UFdDOVZXYmNyWkptcHhfOUVjRjdV?oc=5",
+        "title": "Notable Wednesday Option Activity: NNE, CIM, DPZ - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkVIcmt0UGdPZ1hzV0ExUUpiNEY0cV9lV1hWT1Y2Mkc1WVJNemJMcmtWQlZLZWtqQXU0Rk1lUlNNVUtFRXZIVngzMk9Pd2JQNnJCQ2FtY3RSYjEtNmZNaFI3TTRiQVlBbkozWG1vQy1IZWZZajZVcXl1Y3IxR2RaZHN6MA?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

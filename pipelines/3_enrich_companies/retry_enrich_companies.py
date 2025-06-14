@@ -6,32 +6,31 @@ import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
 
-# 📁 Répertoires
-BASE_DIR = os.path.dirname(__file__)
+#  Répertoires (toujours depuis la racine du projet)
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output", "insights_enriched_all")
 ERROR_FILE = os.path.join(BASE_DIR, "errors_to_retry.json")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 🔁 Charger les tickers en erreur
+#  Charger les tickers en erreur
 try:
     with open(ERROR_FILE, "r") as f:
         tickers_failed = json.load(f)
-    print(f"📄 {len(tickers_failed)} tickers à réessayer trouvés dans errors_to_retry.json")
+    print(f" {len(tickers_failed)} tickers à réessayer trouvés dans errors_to_retry.json")
 except Exception as e:
     print(f"❌ Impossible de lire {ERROR_FILE} → {e}")
     tickers_failed = []
 
-# 📄 Chargement des données sources
+#  Chargement des données sources
 df = pd.read_csv(os.path.join(DATA_DIR, "df_final_merged.csv"))
 df = df[df["Ticker"].isin(tickers_failed)]
 
-# 🧠 Fonction d'enrichissement
+#  Fonction d'enrichissement
 def get_company_enriched_data(ticker, row):
     try:
         ticker_obj = yf.Ticker(ticker)
-
         try:
             info = ticker_obj.info
         except Exception as e:
@@ -96,15 +95,14 @@ def get_company_enriched_data(ticker, row):
         print(f"[ERROR enrich] {ticker} → {e}")
         return None
 
-# 🔁 Retry enrichissement
+# Retry enrichissement
 errors_still_failing = []
 for _, row in tqdm(df.iterrows(), total=len(df), desc="🔁 Retry enrich"):
     ticker = row["Ticker"]
     output_path = os.path.join(OUTPUT_DIR, f"{ticker}.json")
 
-    # Skip si déjà existant
     if os.path.exists(output_path):
-        print(f"⏭️ {ticker} déjà enrichi → skip")
+        print(f" {ticker} déjà enrichi → skip")
         continue
 
     data = get_company_enriched_data(ticker, row)
@@ -114,19 +112,20 @@ for _, row in tqdm(df.iterrows(), total=len(df), desc="🔁 Retry enrich"):
             with open(output_path, "w") as f:
                 json.dump(data, f, indent=2)
         except Exception as e:
-            print(f"❌ Erreur écriture {ticker} → {e}")
+            print(f"Erreur écriture {ticker} → {e}")
             errors_still_failing.append(ticker)
     else:
         errors_still_failing.append(ticker)
 
     time.sleep(random.uniform(0.6, 1.1))
 
-# 📊 Résumé
-print(f"\n✅ {len(df) - len(errors_still_failing)} tickers enrichis avec succès.")
+#  Résumé
+print(f"\n {len(df) - len(errors_still_failing)} tickers enrichis avec succès.")
 if errors_still_failing:
-    print(f"❌ {len(errors_still_failing)} erreurs persistantes : {errors_still_failing}")
-    with open(os.path.join(BASE_DIR, "errors_to_retry.json"), "w") as f:
+    print(f" {len(errors_still_failing)} erreurs persistantes : {errors_still_failing}")
+    with open(ERROR_FILE, "w") as f:
         json.dump(errors_still_failing, f)
 else:
-    print("🎉 Tous les tickers ont été enrichis avec succès.")
-    os.remove(ERROR_FILE)
+    print(" Tous les tickers ont été enrichis avec succès.")
+    if os.path.exists(ERROR_FILE):
+        os.remove(ERROR_FILE)

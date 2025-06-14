@@ -2,16 +2,16 @@
   "ticker": "4543.T",
   "name": "Terumo",
   "sector": "Industrials",
-  "market_cap": 3842903900160.0,
+  "market_cap": 3848066039808.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 32.989365,
-    "PB": 2.8081017,
-    "EV_Revenue": 3.702,
+    "PE": 33.05042,
+    "PB": 2.811874,
+    "EV_Revenue": 3.764,
     "ROE": 0.086789995,
     "ProfitMargin": 0.11289,
     "GrossMargin": 0.5411,
-    "DividendYield": 1.15,
+    "DividendYield": 1.13,
     "DebtEquity": 15.716,
     "CurrentRatio": 3.002,
     "QuickRatio": 1.668,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.12229797956638899,
     "ROA": 0.06022,
     "PEG": null,
-    "EV_EBITDA": 14.654,
+    "EV_EBITDA": 14.674,
     "BuybackYield": null,
-    "PriceToFCF": 30.325558014675593
+    "PriceToFCF": 30.83180058527574
   },
   "technical_indicators": {
-    "RSI_14": 38.2266767589764,
-    "Momentum_10": -3.2671245591238165,
-    "MACD": -33.10389436080777,
-    "BB_Percent": 0.1132926018651114,
+    "RSI_14": 40.17257168666996,
+    "Momentum_10": -1.954152574220218,
+    "MACD": -27.6659628049415,
+    "BB_Percent": 0.2127146821479243,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9303582683447814,
+    "ValueScore": 0.8834659611141911,
     "QualityScore": 0.4456822982715974,
-    "SignalScore": 0.6854770067753071
+    "SignalScore": 0.6458733844266484
   },
-  "volatility": 0.0179737901333532,
+  "volatility": 0.0177961666455602,
   "beta": 0.404,
-  "return_6m": -0.1501600995715016,
+  "return_6m": -0.1409298600409934,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 3080.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 3081.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 3026.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 3040.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 3107.0
-      },
       {
         "date": "2024-12-13",
         "price": 3051.0
@@ -525,16 +505,36 @@
       {
         "date": "2025-06-06",
         "price": 2605.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2612.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2642.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2650.5
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2649.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2609.0
       }
     ],
     "current_price_data": {
-      "price": 2605.5,
-      "change": 7.5,
-      "percent_change": 0.29
+      "price": 2609.0,
+      "change": -40.0,
+      "percent_change": -1.51
     }
   },
   "news_sentiment": {
-    "summary": "La société Terumo Corporation a récemment déçu les attentes des investisseurs en manquant son bénéfice par action de 9,8%, ce qui a conduit à une révision des prévisions par les analystes. Ce résultat peut potentiellement peser sur le cours de l'action à court terme. Par ailleurs, le débat sur les crédits carbone fait rage, certains les qualifiant de \"permis de polluer\" tandis que d'autres les voient comme un moyen de parvenir à des émissions nettes nulles. Cette discussion peut impacter les entreprises concernées par ces mécanismes de compensation environnementale, soulignant l'importance croissante de la durabilité pour les investisseurs.",
+    "summary": "L'entreprise Terumo Corporation a récemment déçu les analystes en manquant ses bénéfices par action de 9,8 %, ce qui a entraîné des révisions à la baisse de leurs prévisions. Cette nouvelle peut susciter des inquiétudes quant à la performance future de la société. Par ailleurs, la question des compensations carbone est au cœur des débats, entre considération comme licence de polluer ou comme une voie vers des émissions nettes nulles. Ces sujets pourraient impacter la perception des investisseurs sur la durabilité et la responsabilité environnementale des entreprises.",
     "sentiment_score": -0.5,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
@@ -555,5 +555,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "PGR",
   "name": "Progressive Corporation",
   "sector": "Financials",
-  "market_cap": 164529635328.0,
+  "market_cap": 157055270912.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.937922,
-    "PB": 5.680227,
-    "EV_Revenue": 2.145,
+    "PE": 18.077599,
+    "PB": 5.4221816,
+    "EV_Revenue": 2.057,
     "ROE": 0.34338,
     "ProfitMargin": 0.11102,
     "GrossMargin": 0.14977999,
-    "DividendYield": 1.75,
+    "DividendYield": 1.83,
     "DebtEquity": 23.81,
     "CurrentRatio": 0.333,
     "QuickRatio": 0.26,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.1700555960997949,
     "ROA": 0.06865,
     "PEG": null,
-    "EV_EBITDA": 14.549,
+    "EV_EBITDA": 13.952,
     "BuybackYield": null,
-    "PriceToFCF": 12.31793942191396
+    "PriceToFCF": 11.761166459078234
   },
   "technical_indicators": {
-    "RSI_14": 50.27847510768657,
-    "Momentum_10": 1.2990784378417977,
-    "MACD": 1.3185807705643242,
-    "BB_Percent": 0.4181550870722895,
+    "RSI_14": 40.41082776886653,
+    "Momentum_10": -5.966377860172872,
+    "MACD": -2.772776484249107,
+    "BB_Percent": 0.1517051319841704,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9312408284774794,
+    "ValueScore": 0.8894946741437297,
     "QualityScore": 0.3858503537065463,
-    "SignalScore": 0.5755730775356642
+    "SignalScore": 0.6606160123820912
   },
-  "volatility": 0.0171004676711352,
+  "volatility": 0.0169850951064597,
   "beta": 0.4,
-  "return_6m": 0.1241507294165218,
+  "return_6m": 0.0846416669889897,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
-    "target_mean_price": 287.90118
+    "target_mean_price": 288.31293
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 247.86
-      },
-      {
-        "date": "2024-12-10",
-        "price": 247.27
-      },
-      {
-        "date": "2024-12-11",
-        "price": 243.73
-      },
-      {
-        "date": "2024-12-12",
-        "price": 242.76
-      },
-      {
-        "date": "2024-12-13",
-        "price": 251.8
-      },
       {
         "date": "2024-12-16",
         "price": 250.25
@@ -537,37 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 279.32
+      },
+      {
+        "date": "2025-06-09",
+        "price": 271.31
+      },
+      {
+        "date": "2025-06-10",
+        "price": 265.49
+      },
+      {
+        "date": "2025-06-11",
+        "price": 263.22
+      },
+      {
+        "date": "2025-06-12",
+        "price": 268.42
+      },
+      {
+        "date": "2025-06-13",
+        "price": 267.85
       }
     ],
     "current_price_data": {
-      "price": 279.32,
-      "change": -0.82,
-      "percent_change": -0.29
+      "price": 267.85,
+      "change": -0.57,
+      "percent_change": -0.21
     }
   },
   "news_sentiment": {
-    "summary": "The Progressive Corporation (PGR) a connu une forte hausse après avoir annoncé des résultats solides, surpassant ainsi la tendance du marché boursier. Cette croissance s'accompagne d'une augmentation constante de ses politiques, potentiellement propulsant les primes. De plus, l'entreprise a dévoilé une initiative de subventions de 13 500 $ pour 100 nouveaux acheteurs de maisons, renforçant ainsi son engagement envers les investisseurs et la communauté. Malgré une sous-performance par rapport à l'industrie, Progressive continue d'être considérée comme un bon investissement, avec un potentiel de croissance à long terme.",
-    "sentiment_score": 0.15,
-    "label": "POSITIVE",
+    "summary": "La société Progressive (PGR) a récemment été l'objet de diverses analyses et annonces. Malgré une augmentation de l'objectif de prix par BofA à 333 $, le titre a chuté par rapport à un marché en hausse. Les résultats robustes du premier trimestre ont été salués, mais des inquiétudes sur la croissance persistent, notamment avec une valorisation premium. L'initiative d'accorder des subventions de 13 500 $ pour les premiers acheteurs de maison a été bien accueillie, mais le titre continue de sous-performer par rapport à l'industrie.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
     "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "The Progressive Corporation (PGR) Surged after Reporting Strong Earnings - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2UwRnNvQWhlSFoxRTZ0V1Y5Q3BZM3NvRjRJNFY3LURERTk2SWl2UjRDYVJrUHloMFAydXJfM196OEZ2UDRvNExkSUlIQVNtOU5JdFVTaDZiOEhtcWEyVjJMNVFfS1NOUnpHZ0NsS3dZVm5ySi1JVzVTUWhwenU4YUp4NFRaZGdwZW9meEdTc1FjUEk3UTYxeTlxT250cS1NaEpDcklxODY3REZYaWpJRFhXTEhDU2tITmd5c1ZxT0s4QQ?oc=5",
-        "label": "POSITIVE"
+        "title": "Progressive (PGR) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2I1N3VtX29RNEp5bDZ6YWc1SlhZcFg4ZXpId1ZpVEpQUnc4ZExoNkR5cnJhbUYwaVZIXzdrQVBoUGpINXVfWFM2WWdvYkhYc19oaWhucnJ1UG91b2NZOXppMlJya1N6bV9vXzF3TUxoYU9BRGlLLVJ2S3lKU0oyQ3VfbFY3bUU?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Progressive (PGR) Beats Stock Market Upswing: What Investors Need to Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTcyUkZ1eHB2aXZnR0Fnbkc0U3pOUHZZM2pzV3l1MlhTbVBIVERpY3FLVVhOWFdzTmt5X2UwbWVWY25LeVdnekdSTDRYa004bkRoNWxqMmhzMjhkWHRRM2djQzhZdEt5enlfZUhWbzJ4bHc0THNpYnlRc3BRdUdSQm9GbF9XcmhfM2RBOUZqOHhmWDdFOVlPUDZJRUtkTXVl?oc=5",
+        "title": "BofA Increases Progressive (PGR) Price Target to $333 | PGR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2QwekJmRFA2azRjN1BoY3VhQXhtRXFuQ2wweU44RDdETU1NaUFOcVZQbzBScVZyTF9VTTNyaWJoLVJ6d0ZWSVdQWUQtc0pzUExfd0ZpdGd6b25tXzl3aks4R1RNTERwRDhDRlR0SXgyRVNVdXJpdUZiYWlEcGl2MlF4UTJUaDlzR0x4cV9Ea0Z0U1NOMGJfMG1LNDJCOEhSZkNzYTlISQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Trending Stock The Progressive Corporation (PGR) a Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaE4wbW1oVXkyRGJ3QmdpaGwzQ0VoYkFMMUdLNVJCNGZZX2Rib01oN0VtWVIxem95b3FNSElBdGRMWHZkczgtQTV1TTBqTk9md3k4X3NtWWtsa2pYRExTUTI5QnQ5VVgycHRxQktzcGs1eHZvOE01U2x4XzdOWXQ1NEcxVDZsdXZ4aEZqa2R4bk1yQQ?oc=5",
+        "title": "Here's Why Progressive (PGR) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXh5SVI2dWRNRjhBanZxamw1YWJ0WTQzYXVGVGFydm8zYWxzaXdCbS1NZl9sNUh0Q29hZmhrLWZlZjRreGlGX29ZZWJ5dEFENmtEa3dHVzI1UElYdUluUnZUajN2UURqTkd6anlKTktoOGE4cmdiTjBkZHNzRy1BWlFTNGVyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Progressive Fell Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtXREgxbHk0YkdocVBfWmxxeGlKb25mb3N1NjFRU0pvMGFtZ2U4LTI0dEZlaGlsZVBDUlVaY05SVFpQYVhQY0oxTHRQeUY0QmljbmpyX2wxbVVCRVJ6R2k0N0JwenB5Q2ZiXy1KQ3pGaVJNcHB2ZXcxMjVULVp2NHBjVDI3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Progressive Corporation (PGR) Reported Robust Results in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmhLMXBFRjRrckt4NHlMR2k1dDdBZEpzczN5REFTWTJQWnUzRWotVzlmSXpYTXFyYzExNG50T1FBQ3M1R2ZLZGxEWnpRTXQ5cllER1VqQUQ5S1ZmYjZsYXdpM3NTbUs3OFNTM3gtbEtJS0IxMlBGQWtXX3JZMkdaUFdZOXIwU3hidFZMUjJGVXg5WE1DX3EzRkhUdGZLYU03Um80cTlyUzPSAbABQVVfeXFMTkRJYVN2STNDLW5qTzdQSmFnMk1yTEFxaEZWekpqakJBdnJJR3F2eGFqT3FZVDJpRkV6V2NaWk55NlNsaUxPR1R3ZjFwSkMtRmlvZG9Yc3ExeGdsQURTd0Y3bk5TSEpDMDBXYzh3RzlVMk9oSUZtSnRDSW5FeWF4X1ZvNm5nZXpVODFCQjl2a1FGYnBtSUx5cUNhT2c4cmRVaXNfdXdGczVrMWpUSXpmVlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Progressive Co. (NYSE:PGR) is Rowlandmiller & PARTNERS.ADV’s Largest Position - InsuranceNewsNet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG91blloN1VrekhoTWpRUUNlZk5KM19ZOWVSZHhCVl9EZVo1ZVdRcmNqVnM5YVgzQVV0QmpvX1B1TDY5Y1dsXzFDZ3VRdmctcnVjWUl4Z1dIam9CV0pjanhVN0hpdkUxTEhWUDN3Vl9NbDZGNGxUNEh4dllTSmJvbXYxYWZWbU9jdlRqcEJaR2dyNk1oU1N0T2dDRmxTNTc1ek5ob2JJUnJWWEUwWGpZWHZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PGR's Personal Auto Business Exhibits Strength: Will it Fuel Profits? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEN1TF9rRnFjTXJnV29ZSkdzdEduendzbFk4TDV6cmZSSzh6VTVnbzVheEVUc1FLVGRrUG1ubm1meGxfQkxvdUY2bTdMcXlhc1BqV21tX0YtSUprLUdjeFdoa05WSm1kYktmUHdFT21vTks5TTBmWkY3QkZHMmNwNDV5aFpEYWxEbzJuZWl4aU1VTVpLa1BERklETFIyajJRRmhsemZjc2lxS3dOV29fWjdkcEl1VHFxcXVNYXBSSmRRdDFuMEM2aHpyWG9IdE5UUzBrRmdzX29HTVVMYU5uWFlBcVdtR2NNWHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(PGR) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXdKaVdKZlEyX0FQWWtuWnpKLVpVRVdCcnczMzZnRVF1WUZJRFlBanhvcURFTDFHZ1BpYVZLMFJ6VkxjWlYtSzFVcnFWYklFSWkxN04zYjkxN2FGc1FPVUpIUU85RkhRT1BDVzJaaTNqeGxVQ3gwRC1FU0phcXpUdTdrN0hBR0ZWdHpqUUVwclZONkZYdkRkVk9PNE00MXFBSlVocUZ1LWE1TzA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -576,63 +601,33 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Progressive's Policy Growth Steady: Will it Fuel Premium Acceleration? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZXhwMDhRN2t0akE5VTY0Z3FiTURuU1hwMXZ5ajYtYjl4N3VmalphZnNHQzM5TXhiWERTQWlqVklxc0R5ckVjSnR5enJHOUFEejl5eC1sLVZZWGt2U3Z6d2NOdnFqbUxFcDlzUEY0RW5KVjlYWTJleUx0bnRwMXZVbFd6VTJTakpkLWFyRzNEVVY0VGQ1V2NGQ2lma243aXV3ek8ycVV5SkhGS0ZEN3hScWhFa21RdXBJaGpUSTItR1FkZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Progressive Stock Revisits A Buy Zone As Earnings Loom - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUdHVk52VHBVQ2pwajVqbENic1pNaTgyZEdfYW5taFJ1eGtucHFBV3V2NlJBcS0yT3V2Mmg5bm53N1N0SUVjdnc4TFVpZnIyN2xDdUFTcnFpNW56NTBXeEpFcE5vY1hyRTR5aGtTanVCMEdWMVcyYlRLMlAyRlNuWFlQbG5mbXFMamxMMzdB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Progressive Corporation Stock Outperforming the S&P 500? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPa1hjeDFWZEhCQU1fbWN3eEZDX3VpNEx1TUlyZWhxcU9rbk91eGUwb254bWVId3NYYkVwdEdUekFvckNveDRLay1JWTR5UGlLUXQ1RnVFRnBOMzdhdGZ0TXphZHc5eXZjY1pvb01VbGVLWGpjTFdKTmtjNE0wRWZ1Rm00RzRBR3ZhVDd0QkZOUHBGLVEzMTNQS2ZRR3NldGZ1NWthX2pzMXBkUWVCWVFfRTBHaWtaTmYteUkxRkhpV3QyUGM3Sm9VTEtScFUyTDdsTnRxXzRQTTIxem9jNVc3eXJudzhPM0tTUER1YU04XzVqYWo2UlN3Qm1fc21GSmtiejdnYUV6QWxwOElKb2lib0xrQ0pwZGFmbXFFT0o3bHhKSVdDSTVkUThtVjdxZzdHaU01M0dPMHBBR0RMMnkzdmwyNHMtblJCSFNRN0NLcVVqOXlwLUtPUUNQMUphQV9xSmpVVjF4QlNHZw?oc=5",
+        "title": "Why Progressive (PGR) Stock is Declining Today - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1lvbG8wYkhQRzRuczdhY21BVTNVTXlpU3MyendEb0R1NUVGNXJaaklhUzRta0dDZWJPaGZrUWV5N2I2aEFSbHI4ZWN6NWg1RXhPVTUzMjJIdEtBdkY2R2FqcF9tbHhvejJwSW9KSFlSMGVPRkgxNVdHcjV1dTM1UExIbEVaWTZWRXpkbDJobDZuelItbWdRYldpUQ?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Progressive Unveils $13,500 Down Payment Grants: 100 First-Time Homebuyers to Benefit from New Initiative - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHBMNDR5SmNaODRNbExZTUhsVzgtUWo2b216dTdHN2xOeFBsQzlZTEVLcmFQem5OZW1MVFVEMy1zNjYwT3J2dllUZ3F2eFNoZ3ZLaDFjSHc2dnY2NGRkNS1NMTd1Zlc2WXdKbE9sTVFaaG1MWDBfV2g4YTRfY25zY25XbVF2X0J1LS1jdXF4QVBHSVhJTVFIdXpMZ0d5ZU0yczMtWlltSmlxM0tNSF9nekNqTXktNXEwOUliWA?oc=5",
+        "title": "Should You Add PGR Stock to Your Portfolio Ahead of Q1 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmlheEZRX1h2QmJwbnBwNE1PZ3Jxdi00dFlJT0pCaEdwZEZDRXlXTTQtRXoycFdnRXNTWG9xSEFnUldUTHFKTG5NOG55bnFkVkVPeWxENmNzU09xSnA3RzZpSEhObm91YlBHRzJOTVlSRjdsSk5NUFRsUF9GRGpMNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive vs. Chubb: Which Insurer is a Safer Long-Term Play? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVVGZVFuRjdKdGFNaVdDbDh5TVdmTTUtNHNiODNibFhnQmJmamdncWw0VHNVQnlFLW5Md2t4WjFReE9DSnRxbl8yRkMyS3BYZW9CMXBjTlRzS29WSlAxM0RnMGhoNHhBYWJjeUx3alYxZVpDRlZObTk0Wkc3dXZjRTRHdjN3RjRUd2h3UU0zQ2hHclFkcEpoU044TlpuSmpFdzFMUjd4bFNaMDJwSlhtb3Q3d3BmMFVnQWFKd0tlRDVOYXlSM2p5MzVxZVRTbHhHVGJVMkJGcUYydlhWVkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Progressive (PGR) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzNGYWF5YkVvb3d3Ym5uOGlhbDZaMWxlc1UxSHpSclpfZlZmU29KNVdlTDNjdmJYNkxOZDFhSnN1T3hNNGx4OU1lYXZXWHpBUDRpZ0s2c1NYb204WERPTmY4TWFvX2lka2NGVEw5WmlCVTFqUC1RNUt5b1dJaHgwSDV2NjdBek5nUFRsT1Uwb0ljZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive (PGR) Price Target Increased by UBS Amid Growth Concerns | PGR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTVRakFuSng4Qy1IeFBiNW9ZMGlBNUs1TXJhSmExdV9CNi16dC1NZGZBZnI1bFd3WWxxalU1aC1MQ0ZOQUdMVlBqWlU3RndIeEVmeE5TLURhY2s1eDc4OTJaNlVEci1RMUFfclVadzRTNnZjSk1RSXVBUERWXzJjcFNNQUFhZTRGWXJfeVM5SUw3OTU4MHZCMURIZ21xMWhfWGV5Mjd4QVl5bjVvUW1OZm9OMWhNVDFFOGlfMQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Wall Street Analysts Think Progressive (PGR) Is a Good Investment: Is It? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2VwUUI5MUpET0t6WjNVdFVoVm83Z0dYRWRKSlJkSHBMQTVvQVdXQXNWRUYzeUkxdUd4blhlY2RyeWlmSjFNUmFPaTBLQVJaaHdORGN2RUpwYW4tcEp3bG92aVEzN1RPc3JRS0hveHJTbExfdWNmb0k5eGJ6VzJqdEdQa1BYM2ZWQU9ETg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Progressive (PGR) Up 5.9% Since Last Earnings Report: Can It Continue? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWktXQkpaS1VLUS1NeUhJTnpJU1h5WHlzRW5fekZ1UXVYSTVIRTNWRlhVb25Nc3g3eF91WHVqOUxScHZUT2h0OVdUNnNHX0tTbm5oRlczV3RMRkdnWHF2R1J6RE92d0VXVnZRVGFEMktUVGJsSjJZMDFqaWJ3aTVybEl2VHlaMmZObkFJVFcyM3dkMzQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Here's Why Progressive (PGR) is a Strong Value Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVl3Y21wby1FUFpfSWhQSGJLbGNQMFoxNEZTOWxVamV4TW1yNWZPMHJuTTBndzhrdGRFaUF1SU9FdVZsMUlzWjhLcEVVaFBwZ01BcnZ1UkZxOHluMWtIdFp5NUUxT3dSWDBtNFFSR2xjaWttUDVULU5MMmhwekEzLUlTRWo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Remain Confident in The Progressive Corporation (PGR)? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelJUUzlfWElyX2lzNzl2dzZoR3pzYS11aEhJRktMVWoyWXFsdm12TER0dzF6Y2FDWnJYekdjZEpSRjFXblMwc1NOVEtDcFJwVEZVc0lzZS1kaUtmN1FWLWNKSzBJWVRHWDRFbXVYNjZWeGpTbmdYb1hoRXd6eGxTSC0xX0Q3dUt1NFhENGNLcnYwUTBQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is The Progressive (PGR) Stock a Solid Choice Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVVvWmVpeWpDUWlrNThDOHdaU3VpRUVKUmFTSVpRRE1MamE5QVRoa0U1RnRhZE9Pc1VSdHowTDBTMGhIam9pRlB4TGZ5QVpqQUxPX0tVemJsLVFaaERyMVhaQ3pGZ2daT1JhZ2Q0blhPMm9hdUdzRk1uSGdNN3YxTU1uSlg0dWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Progressive (PGR) is a Top Growth Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXhROUw4RTJKV2RSZk8xYm9BOEtkaHVmTndxQ0VrUTkzVUt5azVVUFdreTZVS0FDMFVnUEpRQmttSlNhN1gwSHZ4azNJSW5TNGpyUUlQVU4zWHViZTV5bXh3aGdBWm9RYS1oemQzRnUwNGotNWt0UE1zNzBmdllCUUxR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Progressive (PGR) Price Target Raised by Morgan Stanley | PGR St - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHl1b3p2eGx4MnMzLW5LMGR5bXlDcENINDdjd080WWZ4cllTbjA2VVg0c29fbndXajktVWs4ODlmSGlaTGl4VThaU1lkb0JwZ2N2dm5QMlVRcktWYmxULXhLUFlBWmR5eWxkUjdFSmpsdjRTaFgwUGlPaFZIS0Ytb1ZvYl9USFNUZlF1UUktUWUtZ0Y3SUZHQ0ZuLWJraTZSTlotcUdDX2UwLTg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Progressive Holds Annual Shareholders Meeting, Approves Key Decisions - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEFqZzFsTVd2Z3IzelNyd21rVHZpRUNIejdzTDROdXRTbGU5WVE4RjFycGJxQkdfSGNvWG5mUHpkZ3licUU0b0w3WVNZVklMbG5HcmtoMTRfOGh6Q1NWZmw0dEs2b1U4SlFBTC1kNjJzZnFpRUtTSHJGSVU3bHZENklqNnVZOGVTYVAwSTUxcHdQSWREVnNSalplMlZZSEptVUJLSDU5bUtaUGpGeDd5QzlBNzNGTmFKNnVqRg?oc=5",
+        "title": "Is Trending Stock The Progressive Corporation (PGR) a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaE4wbW1oVXkyRGJ3QmdpaGwzQ0VoYkFMMUdLNVJCNGZZX2Rib01oN0VtWVIxem95b3FNSElBdGRMWHZkczgtQTV1TTBqTk9md3k4X3NtWWtsa2pYRExTUTI5QnQ5VVgycHRxQktzcGs1eHZvOE01U2x4XzdOWXQ1NEcxVDZsdXZ4aEZqa2R4bk1yQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +636,26 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Progressive Corporation (PGR) Stock Analysis: Unpacking a 5.76% Potential Upside in the Property & Casualty Insurance Giant - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPelY3QkxDOUd0ckVxbkVoZVplOUlmVmY5dDgxQkVJcUJfaVlSSE9sdEpYbUs3cTY1Y0EwbnVFNmJCYVQ4SkpBOHB1dDhwVThDaTBXZllQd3pLUXNOc0tncnFLUl9TWS1ic1kySDRoUmFpYlRINldaSUVXTlpGcmFiT2ZIVUlIODJteEZROEdvVzZhT2pOeWNhQmcwQWxwbkY3dzRBNVAzQ0ViMlN5OVJEY3ZUT20wS3VUUDhjblBMaFU4cGlaVTJoS2RaYmRuMjJXLTJ2dmxheTdiNzhPNDJicm5kZC1LSE53QjVaMjYwV19BekhKZm9DSUcwZVA?oc=5",
+        "title": "Progressive Corp (PGR) Shares Gap Down to $268.88 on Jun 9 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdU04azY5NU9KV2dZZWRHZndRZ25KdjVseXJTOU93aVJieHhPNERUSm1vY3BJNGlLS3l6ZkF5dkRyenl4eF85Tm1rM2tnWFhJS1poSEIzTWxEd09GQWpTd3ViNE9rOG9ZdzlBMDlRZENsM2tvamdlREFhRW4zVVVvQXJFdUdlNWg1SkZNcmhvYkVkSUt6T0dhTw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is The Progressive (PGR) Stock a Solid Choice Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVVvWmVpeWpDUWlrNThDOHdaU3VpRUVKUmFTSVpRRE1MamE5QVRoa0U1RnRhZE9Pc1VSdHowTDBTMGhIam9pRlB4TGZ5QVpqQUxPX0tVemJsLVFaaERyMVhaQ3pGZ2daT1JhZ2Q0blhPMm9hdUdzRk1uSGdNN3YxTU1uSlg0dWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive Unveils $13,500 Down Payment Grants: 100 First-Time Homebuyers to Benefit from New Initiative - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHBMNDR5SmNaODRNbExZTUhsVzgtUWo2b216dTdHN2xOeFBsQzlZTEVLcmFQem5OZW1MVFVEMy1zNjYwT3J2dllUZ3F2eFNoZ3ZLaDFjSHc2dnY2NGRkNS1NMTd1Zlc2WXdKbE9sTVFaaG1MWDBfV2g4YTRfY25zY25XbVF2X0J1LS1jdXF4QVBHSVhJTVFIdXpMZ0d5ZU0yczMtWlltSmlxM0tNSF9nekNqTXktNXEwOUliWA?oc=5",
         "label": "POSITIVE"
       },
       {
         "title": "Progressive (PGR) Stock Slides as Market Rises: Facts to Know Before You Trade - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0U5cjR5SzBzem4ydEZzc3dNU0UzTlhiOVVRbC1zRGR6ZVNLX3gxdnFIVlVibmtDMUMwMjRFMlNNQm9GTGxPMFVFYi1kLThiN0ZHSmRPTWZFMWxEb1Q3R2ZMZVFYN2JhQVhPdFFCSm90bkRYdXRQMG5EdXZTaDlMTzFLOVU1aEhGSUw1bFZTQU5WUFc1alB0TUUzcXA?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Progressive Insurance® Unveils Multi-Year - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNT2d4b0djQlZfSTVMWks2ZjRWN0t2Sy1Ub2NEdFlmLTVBLU9oUXc5QWJRdkdSVDYtbmRON3ZHRnM2Q05mSXo3azZ1UGZKMUV2OURvUUZrLXRkY3pJRHlieFd3UHItSGR4Y3IwbGZTV2tOcEV3VGVYYTg1ck5lbkxPOXlwU0dnV09IbUlBOE5NNXlndHg5bnBpeWREVUtHSzY4ZVRCSWctcTJWdjVoanNPNkg0TThsNC1sRVlTNjg2bzVnUHRyTVUtaVJfWVFyRjBXOUdHZ3lDNm14Q1dHeXJnUUxXa0x6UWtmeVBoNUlDUVlybEFzclhDci1zRDVTanRrUnJRdjdadldmR3hMaVE?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

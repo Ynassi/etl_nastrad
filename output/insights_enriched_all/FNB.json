@@ -2,16 +2,16 @@
   "ticker": "FNB",
   "name": "F.N.B. Corporation",
   "sector": "Financial Services",
-  "market_cap": 5031886848.0,
+  "market_cap": 4895160832.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.011811,
-    "PB": 0.78307855,
-    "EV_Revenue": 4.871,
+    "PE": 10.712598,
+    "PB": 0.76180077,
+    "EV_Revenue": 4.932,
     "ROE": 0.07405,
     "ProfitMargin": 0.30319,
     "GrossMargin": 0.0,
-    "DividendYield": 3.5,
+    "DividendYield": 3.44,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,20 +25,20 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 55.64703990354549,
-    "Momentum_10": 1.2710035503432595,
-    "MACD": 0.1076973932828302,
-    "BB_Percent": 0.5162015416354602,
+    "RSI_14": 45.68084862207792,
+    "Momentum_10": -1.054541921063643,
+    "MACD": 0.093917728773551,
+    "BB_Percent": 0.1187569796150896,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934847822672296,
-    "QualityScore": 0.3260650774097146,
-    "SignalScore": 0.5107365775728907
+    "ValueScore": 0.8972397492892727,
+    "QualityScore": 0.3348807246522362,
+    "SignalScore": 0.6024759460438203
   },
-  "volatility": 0.0225752794429735,
+  "volatility": 0.0226378830956395,
   "beta": 0.941,
-  "return_6m": -0.1406613873008781,
+  "return_6m": -0.1303825496629883,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 9,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 16.21
-      },
-      {
-        "date": "2024-12-10",
-        "price": 16.16
-      },
-      {
-        "date": "2024-12-11",
-        "price": 16.29
-      },
-      {
-        "date": "2024-12-12",
-        "price": 15.96
-      },
-      {
-        "date": "2024-12-13",
-        "price": 15.91
-      },
       {
         "date": "2024-12-16",
         "price": 15.82
@@ -537,33 +517,53 @@
       {
         "date": "2025-06-06",
         "price": 14.06
+      },
+      {
+        "date": "2025-06-09",
+        "price": 14.1
+      },
+      {
+        "date": "2025-06-10",
+        "price": 14.24
+      },
+      {
+        "date": "2025-06-11",
+        "price": 14.06
+      },
+      {
+        "date": "2025-06-12",
+        "price": 13.97
+      },
+      {
+        "date": "2025-06-13",
+        "price": 13.62
       }
     ],
     "current_price_data": {
-      "price": 14.06,
-      "change": 0.36,
-      "percent_change": 2.63
+      "price": 13.62,
+      "change": -0.35,
+      "percent_change": -2.51
     }
   },
   "news_sentiment": {
-    "summary": "La société F.N.B. a récemment promu Jennifer Reel au poste de directrice de la communication, renforçant ainsi son équipe de direction. Malgré une déclaration de dividende en actions de 0,12 $ sur les actions ordinaires, les bénéfices du premier trimestre ont dépassé les attentes, ce qui a entraîné une augmentation de 5 % du cours de l’action. De plus, l'introduction d'une nouvelle fonctionnalité de banque numérique a entraîné une augmentation de 40 % des demandes de prêt. Toutefois, des signaux baissiers potentiels ont été émis en raison de ventes d'actions par des initiés. La société continue de se développer avec des ajouts de services bancaires et d'investissement, mais les investisseurs surveillent de près ces mouvements.",
-    "sentiment_score": 0.15,
+    "summary": "La société F.N.B. Corporation (NYSE:FNB) a récemment déclaré un dividende en espèces de 0,12 $ par action, tout en affichant des résultats trimestriels solides avec une hausse des revenus nets d'intérêts et des provisions en hausse. L'entreprise a également renforcé son équipe de direction en nommant un nouveau directeur de la stratégie et en promouvant un vétéran en communication comme responsable des communications. De plus, FNB a accéléré sa révolution bancaire numérique en intégrant l'IA et l'innovation technologique, ce qui a entraîné une augmentation significative des demandes de prêts. Cependant, des signaux baissiers potentiels ont été observés avec des cessions d'actions par des initiés. En somme, malgré des perspectives favorables et des initiatives de croissance, les investisseurs devraient surveiller de près l'évolution de la situation.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Banking Leader FNB Promotes 25-Year Veteran Jennifer Reel to Chief Communications Officer - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkFoZGhrRlVDRDZxaTcxY3daaWF1RVlLZkpnMGliYXR1QlJ2X1dhRWNWT3VJQjlMQl95c2VXMFdKb3VTano5Mm05Ym41MzFXa3NER21YaVVSN044RjJISXY4R1dQeTh6SlVmM1pLQ2tFSnJtRVF1V0Q4QXFlTzhVOFBUNGhvcnB1Q2JDUWtxMWR3M0ViU1hqTG9DQzBVdlRIMGlrcVBjRllDck1TSldoeXY5MHBlblcxUTlYZGdPTQ?oc=5",
+        "title": "F.N.B. Co. (NYSE:FNB) Shares Bought by First Citizens Bank & Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUYxLXFYbWMtUndOcW4tZWsyV0J4SW1OMXExOUI1VzVqbG43Ylo5VEtGYlczbDNTYXViMjEtQXpMNGdlRmdPRkRaWjJ3S1hlVE1obUItb25iMkVjMGNEQWFlOTc1M1FwbWZfX2FwT1JxY3U3aGxPWGlod01uVWtWSTdYT0JWRjBFNVo0RGtpeTlLLXp0emQxT2FSbWJVdVdNXzAxZnpBR0swVnNMeXZXbXdoajlyamtpejFLQ0xVYjRSTXd4eUdYeA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 194,634 F.N.B. Co. (NYSE:FNB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVDgzcVBsUnpybFFfeG9RZkhCbExzU2tfWDl3VHB4SHRMWnAydER6VXJIbDhGX2VVX0tIdmtfdml0aHVvTE92NjJkb29wWWlyc0IybWxqeXhsSldPN2FOSUIwMExkR0JTOEVKNTE1M0JTMWlzcEJkVHl1MWVjdWtsMUY4QVNNZnhBQkc5Mm55UmhHOF83b1ZOQy1rWWEwVHR1aUFnUDFIb3FoRUo5YndpVlZkVnF2RmQ2WXVaSVYtQlFxSUxodllPOEN4UU0yNzczUUZhbU9FTXFkT3ZGdkVSUC01bVZZQ2F3Uk8xTg?oc=5",
-        "label": "NEUTRAL"
+        "title": "FNB Named One of America's Greatest Workplaces by Newsweek - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1dpUzdTNE11YWNDdWttQldlNVlkSXdLZjhFQU1wWDYxM3piWERoRG1rT1ZURzdOYmY4eWdtdzZEVzVZb1pQbkY5dWZrcUxZbVNxTXFKWERVZnM5dzRXeXhSSURuN3dfSlg2emZmRzhXWUtTdW9wUVFNZ0hnV1pzTkNPbi1qRmowUkJac0V5MGhrNEtsX05US3o1b2ZYeW45NVg1bVd3?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "F.N.B. Corporation Declares Cash Dividend of $0.12 on Common Stock - PR Newswire",
@@ -571,13 +571,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "FNB appoints Jennifer Reel as new communications chief - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjM3UXRVb2YzNVJDdE55RlR4c0EtU3ZycHRIOWlNVW01VW9BZE5NV2xfaWN1dFJSZlRxeVBCdzlSejJPWWdFU0REOGh2bHkxLVdLRGZ3UjVYamttalJsUDcxOGZYSnZqRlNFaFk1N0p4c2lTNFhxWGZjSTRsbkNYMDY5bGowTmRGVTJyOGU1VXlvTWpLM1FjSmxzQ0RqUXlqS2dWUDdoRHB6UkZ0aFlZ?oc=5",
+        "title": "F.N.B. Corporation: Not Upgrade-Worthy Right Now (NYSE:FNB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnk4XzlHZWxaaUptR2VydzYzem9STng2WDFsckM3Wk93SzR2QmRMbUd5TUgxbUpOYk9seXZuUVFHLTczV1Vka2M5cTc2S2tiakNldjlwWEdCOWd3RDluMl8wN1BhOEFlbjVPY2tjZ2dWeVpEZnJTUXo0dnl1d1VLNUgtakw3QUxVekFhekln?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "FNB Declares 12-Cent Stock Dividend - Business Journal Daily",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10NTVDc0sxOWRNU1RVTGVrWm9pYkxubG9ZU25yaVBhTURCZjh1VnBuakRRdmxacDZoQ0Z1UUJUcUpvZmhIbUw4OUJ6SjdaT1RrTTg2Y285ZS1KVmFxVlc2SkxSMWhmWmdFVFZCLXVkNDRobkJESWJwSkhR?oc=5",
+        "title": "Popular Hits 52-Week High: Should You Buy BPOP Stock Now? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3BPMUdTVGN3LU9GQUV2NWpQWUR1alJkNU9NWEhYXzBQSTRod21pbjNHUmNyQlJHS3pJU252RzdRTjhhVGEtUEFrOTBobk9WTzdMcGRnQkU4S1hRLV9vSjI3QmE0S2dXaGVmT1BoR19RaGhzOHdmWlc4ajd5WnBBUlkzeTAyU2w0WGdkeWtDR2VMeENNUnNZRkJpR3J6N0tfWk9pODk4UmpxODVqZWR3QnpYMGc2YmJLbzdMellhMEtXZ2Fja1NiWkpsV3l3UzNzblJLN21paGVEUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(FNB) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGxYdUJHLTlZd2xJMEowOW1rT0RpNzAtUS1sVHVxZHc3eTRmMTVBcG1RODkyOE5LMHk4V05HTlRwQVFVY1JCbUI3NHlJNVo2TFVuX3l4ZUl6MVNhX0I0ZDBuU2dUMnlrc3A1aGYxS054S090N2tFTC10aW00NUdDZ3c5SjhGeDRobnJzVnFiN2ZuWWFmWXl2eS1JVFU1VXZROFg3cDBCWkk4YXpGQnJqTWtlTVdlNG8z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wedge Capital Management L L P NC Sells 58,189 Shares of F.N.B. Co. (NYSE:FNB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3YtbEZSUF83WjE4Rm4tWVRWTU5taGlfVW5HLUdLOXVVTlVsTndmVUkwUEFId2F6Vk9LbWhrOHpNbEUxV0lZdXN1elA1RGMyYjlmOFZFbVd5Mm9Qb2ZmUGlaaVE4c3o0clNJQnJ6U211bTh4emRZUUZkYkFOdklKNkRmTlNBeHVOMGgtQ0U1TWtaT2FSTndkbEJlcXFxUVRhU1VDTU1DOVFRQ3l4NVhwVkg1SC1lZFBwNlQ2bkNhTlgtMmNrTGdlR0hGbw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,28 +596,13 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Analysts Estimate F.N.B. (FNB) to Report a Decline in Earnings: What to Look Out for - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOanllMlN2d3ZlR2prd2M3bXh0T0hNd2NjM3BUa0N6U0wxR0lSWFBOQ1pIX1F5bk41cFNTclFvV0pibVZrNzBQVmdRcTZGd3paN0hhcFFPUWVra05UV1FsZEE4XzhVMHhvcFR2dHZFbFUtSnBHakxMV0pYdnpHcVF4cGNUQ2lKQWVsZDEwR2lnY0d6S2lFb183U2dBZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "F.N.B. Co. (NYSE:FNB) Shares Bought by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQUVadWZOanNKTUd2N1locHo0cXF4cEN2VnRKcG1pcGl3WGJJTnZxRUFhTUNXNDFIcV8zS25DYkFwa0VRUFFIM3ItM0x0Y2VLYTVncC03Wk54aS1hVm1tWG5jaFRzM255X3dTbzN6dDQ4NzM1NVJBc3V3SC1HUWlrSFdMMWQtQ183RVRNNHY0V194OWx3MUtFeGp5ZmEtRmpNdVJRYkpBMHNJT1AwQnJlU0o0eUNIQ05HaDFjR1doSGszZ2F5S0VncEtDZV8zTzdta05nbkRQZ3Znd2lhTjlBX2ZFcDl6WkFiR3BvSGVQUEFHN3JpOTI4ejhB?oc=5",
+        "title": "FNB Declares 12-Cent Stock Dividend - Business Journal Daily",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10NTVDc0sxOWRNU1RVTGVrWm9pYkxubG9ZU25yaVBhTURCZjh1VnBuakRRdmxacDZoQ0Z1UUJUcUpvZmhIbUw4OUJ6SjdaT1RrTTg2Y285ZS1KVmFxVlc2SkxSMWhmWmdFVFZCLXVkNDRobkJESWJwSkhR?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "F.N.B. Corporation Reports First Quarter Earnings - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1B5OG96Z0tUSzVXdnM2bnY2NzB0NkVGZG92eW82VHRDSUlneWtQbWNhSUg0algzcDN4eXVtYU5JNkMxaGlZZVlTX2xIa0c2OTRqR1VvODhhYWlnalhvczFqbGVVb0FhdXNRNWl6bEZfRDdleUVrT0w5WU16VTllVTljOENWYmpyd3dlQmg2VWYwSXBaakU5Mm9oWGJSTkR3UmpfQw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FNB's New Digital Banking Feature Drives 40% Surge in Loan Applications - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWlXN0xnZ3d4MjRnOG00NnVacVp3NklFYUJtajlYTk1rS3E3TGJaVWFCcmxESWlxTEhJSWRTN0FwLWQ1YkQtMDhaQjl2cUt3VHVZak1KTVNjTEZRczRFMWVWc0NGdUMwcExTSXo0Q0FXTVJoa3U5N2tWS3NqN3V0R01MYVJPZmNQcGx4cV8yZ19rbkhy?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "81,683 Shares in F.N.B. Co. (NYSE:FNB) Bought by Voloridge Investment Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmtGaEtZYnJ2RzhONTRwSzlhU2RTXzFxTnNUdzdVUmhmWlgtWUtqbS1CVWxKeWsyU2w5YWVHeDlRc2dheFJLY0gtNm9KOWJZQ0Y1dlFlWk5WT0FiWVJveXpORTNFMk03NzNUZ3NwQlZJX2dpYnU0YWFfLXBPbHA1Vk9KeHlrRGlQRVJBY0tpMXdNQmU1VWZrdWluVTVUOWlTOVdHdHh3c3FOX1MwbWYxVFkyTEtBVzVKdU14dlNqRUY2MnUweXpwZXZxUTNRWlZWZUM0aUtn?oc=5",
+        "title": "Banking Leader FNB Promotes 25-Year Veteran Jennifer Reel to Chief Communications Officer - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkFoZGhrRlVDRDZxaTcxY3daaWF1RVlLZkpnMGliYXR1QlJ2X1dhRWNWT3VJQjlMQl95c2VXMFdKb3VTano5Mm05Ym41MzFXa3NER21YaVVSN044RjJISXY4R1dQeTh6SlVmM1pLQ2tFSnJtRVF1V0Q4QXFlTzhVOFBUNGhvcnB1Q2JDUWtxMWR3M0ViU1hqTG9DQzBVdlRIMGlrcVBjRllDck1TSldoeXY5MHBlblcxUTlYZGdPTQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -616,18 +611,28 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Fort Washington Investment Advisors Inc. OH Has $14.99 Million Stake in F.N.B. Co. (NYSE:FNB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNck5LRHI4aU5EZGw4eGZ5aFhkUkVMVDEzdUdlbVhqb2Z6aGw1T3VlcE1lcExCYlJSSllJOHpBbEpJSnJUYXFDTzUyNkFTQUMwSk5mRnRqTkN1WWFCdmYxUU04YVNLWncybW92NUdVU1h5bGZZV3ozTllkQm40ZkNJSDEzcFZBOWpBM2h4U0F4UV9PUUxTblBZTGc0bzNOZXcxV25oS19UXzJfaDFETFItZEkzT2ZTWTV5ZzZjWDF5S3Q4V2JqWEhxUmNla1RHZ2VnRUhONXZyV2FRNExs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "F.N.B. Corporation Reports First Quarter Earnings - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1B5OG96Z0tUSzVXdnM2bnY2NzB0NkVGZG92eW82VHRDSUlneWtQbWNhSUg0algzcDN4eXVtYU5JNkMxaGlZZVlTX2xIa0c2OTRqR1VvODhhYWlnalhvczFqbGVVb0FhdXNRNWl6bEZfRDdleUVrT0w5WU16VTllVTljOENWYmpyd3dlQmg2VWYwSXBaakU5Mm9oWGJSTkR3UmpfQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "FNB Accelerates Digital Banking Revolution: New Strategy Chief to Spearhead AI Integration and Tech Innovation - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT252YW5PaGkyT0tVblpLTnM1SWJVdXhRandKaC1VNjhPQVlDaVNjRXRZMlNNNXhreGtfXzNiM3FES2g0OWZIN1NjWGpyQVAycEdnLUJHWXhad2NZZjNlX1BjLWdlRk5uTTVRVUNFUVVodGpqLVp6MWQtXzBCNGE1RHBIalktdF8tWWhIT2ZjQVRUYlRmeGlrWnRGUmJhaWFNcktn?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "F.N.B. Co. (NYSE:FNB) Shares Sold by Jane Street Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2I5emFYMkFHd1c0RmpSaWVLSV85SG9hUFVOeXNhRUxNRy1NUndRTWRiMHZTbnpKUnBLU1RTQVhKMG1xQWx3YWkzT0tfWEwxX3I0UUpWcEhSWEF1VTN0bWtLSGNVdnVfSzc1LUtfay1kQ1poVml1RUd3dFFMcFlOOENxVG51VWZwaXJLVUVPb3dNQWdnSlh0cHcyV016a2NlZXdiTmc1dnZPXzduNGM3Zzd3?oc=5",
+        "title": "Congress Asset Management Co. Purchases 311,416 Shares of F.N.B. Co. (NYSE:FNB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFRVUC1jX1VlT0ZJWlhEY2hkY2pmSTlqWml6TlN3d2dKUzNpNDVMRUFmMkJRclVvaWlxMXZpRmlYNVlBU3pYczNnNnZLWVBpd2M0YnNacTNvQ3RZSTdVX2ZDeHVfXy0xRTJyMm82cHJodll5bFpXYVE3ak4taGlTVGdRLU9uNzRmZDBuX3VpZUN2SUtOSkxjWnllMDdEWnBsRlh5MElkOTJYeTd4ak1QMmx6U3dTOVBWb1dldDdTenc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Major Banks Bet Big on Fintech: Atomic Lands Strategic $10M from Capital One, Citi - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnJzc0liSjhSQ1hJUW5USmtrYUpqQjZNU09BeEtnMDl4U0c5TkgweXNaVTFzSG5BZE9SVzd6SFVaRmRRWUdXZDFvVEpBSlZCQ2ZtMExMZkxFb2pyZUV2S01pSVFpakJjTi1yV1lFSGd4R3BUczNfY3J1YTlWTlZHX3pKc0FUYkRFRGdGdXVuMzR4UmZubXhyb3JRWjByRkM3MEN5aTRtcnZLWk5VSk9oSGhvcHI?oc=5",
+        "title": "FNB's New Digital Banking Feature Drives 40% Surge in Loan Applications - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWlXN0xnZ3d4MjRnOG00NnVacVp3NklFYUJtajlYTk1rS3E3TGJaVWFCcmxESWlxTEhJSWRTN0FwLWQ1YkQtMDhaQjl2cUt3VHVZak1KTVNjTEZRczRFMWVWc0NGdUMwcExTSXo0Q0FXTVJoa3U5N2tWS3NqN3V0R01MYVJPZmNQcGx4cV8yZ19rbkhy?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -636,18 +641,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "FNB Shareholders to Receive $0.12 Quarterly Dividend: Key Payment Dates Announced - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1BIOU1DWmo3LXg0Sjc2Q1FGOWpDcGRkanhwN2dRdWdyenRvRHBpODVsWGx3dTJKUk56NThkT2lsTFVKQk9leFZHTzk4ek5WUTBtOFNjY3BPV2dQVVBLV3hYYlFGRmlJREVodTVSckZjVHBBZThmYzQ0UFYwcGlVUXV5VUpxMkc5bGU4OXB6X0luV2pXQzNfTkc0OVJEaGJNaHZOWmxRdUZ2VjBQcTQtX1NB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "F.N.B. Corporation Expands Capital Markets Capabilities with the Addition of Corporate Investment Banking and Advisory Services - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWk83bURfUUtoVkJNQm4yNHFzdGt5dy15b0NHaGJHcFYxaTNXSWQxUnhjUlo4bEZzZWpqYU9sOVJJVjNhWUw1NmJOSHNrbGhJTk01ekZkVmIxVE9Kc19WTDRaN0pFb2xxYVBNM05LQUc5am51SUpubWtIRVdldko5MHlIZ1VVeF9rLVA1MzVBMFZSOE9oTUJVRXlZQTM4Si1DZlRBa29VTWhfTDZPYlBuWDVaWFdzeWRrMWV4VFl3d25BcExpczJNal9RVUtObGJuWEZpNUJUa1JWUG5JeHd5WUJBc0xJVkllOTVheUZjd01mb3RXSXBKZjVJUnZJbHpiUzJqWTBZV1FVUGtC?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Schonfeld Strategic Advisors LLC Makes New Investment in F.N.B. Co. (NYSE:FNB) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2R3T0ZkMjY4dDBCd3NSdUtNNVhXZmJmMVQyM2VfSkJkUkFqZjNGZ05VVTFMRkMxQU5QcnpvLTFmalFLbEp4dzdXR09ySEpTYkdGU2o0ZEV5N09MV0VDMnNsTll5dC1NVC1yM0VvRndIWU1Bd0E5dmRtYmZCWWh1Z3djNDVlU3pCeG5ySTNsV2hnRjZ1dlZvNWNMOFFSVnFEQWZXV2kxaWNLZjc2aXFlaHdVSWItc1YtOHREQ0VLUVJEX2RzZmc?oc=5",
+        "title": "F.N.B. Co. (NYSE:FNB) Shares Sold by Jane Street Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2I5emFYMkFHd1c0RmpSaWVLSV85SG9hUFVOeXNhRUxNRy1NUndRTWRiMHZTbnpKUnBLU1RTQVhKMG1xQWx3YWkzT0tfWEwxX3I0UUpWcEhSWEF1VTN0bWtLSGNVdnVfSzc1LUtfay1kQ1poVml1RUd3dFFMcFlOOENxVG51VWZwaXJLVUVPb3dNQWdnSlh0cHcyV016a2NlZXdiTmc1dnZPXzduNGM3Zzd3?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -657,5 +657,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

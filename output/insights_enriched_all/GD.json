@@ -2,16 +2,16 @@
   "ticker": "GD",
   "name": "General Dynamics",
   "sector": "Industrials",
-  "market_cap": 74077298688.0,
+  "market_cap": 75962777600.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.153366,
-    "PB": 3.3280277,
-    "EV_Revenue": 1.703,
+    "PE": 19.627253,
+    "PB": 3.4127357,
+    "EV_Revenue": 1.733,
     "ROE": 0.18228,
     "ProfitMargin": 0.080819994,
     "GrossMargin": 0.15432,
-    "DividendYield": 2.19,
+    "DividendYield": 2.14,
     "DebtEquity": 51.775,
     "CurrentRatio": 1.339,
     "QuickRatio": 0.729,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.05044403264047828,
     "ROA": 0.055999998,
     "PEG": null,
-    "EV_EBITDA": 14.185,
+    "EV_EBITDA": 14.435,
     "BuybackYield": null,
-    "PriceToFCF": 29.839117212781098
+    "PriceToFCF": 30.599685302284204
   },
   "technical_indicators": {
-    "RSI_14": 52.1381329409755,
-    "Momentum_10": -0.3284856030463159,
-    "MACD": 0.9499634932849405,
-    "BB_Percent": 0.4804126420357533,
+    "RSI_14": 62.25467024317853,
+    "Momentum_10": 1.7523088993990508,
+    "MACD": 1.5805348383053115,
+    "BB_Percent": 1.0511995840067303,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9323433218804807,
+    "ValueScore": 0.8911797412408726,
     "QualityScore": 0.3718423444942721,
-    "SignalScore": 0.5805128307221425
+    "SignalScore": 0.5153541663308012
   },
-  "volatility": 0.0156338852242103,
+  "volatility": 0.015591975953809,
   "beta": 0.467,
-  "return_6m": 0.0265095555166117,
+  "return_6m": 0.0874035992731385,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 269.57
-      },
-      {
-        "date": "2024-12-10",
-        "price": 270.43
-      },
-      {
-        "date": "2024-12-11",
-        "price": 265.43
-      },
-      {
-        "date": "2024-12-12",
-        "price": 263.04
-      },
-      {
-        "date": "2024-12-13",
-        "price": 263.11
-      },
       {
         "date": "2024-12-16",
         "price": 266.07
@@ -537,33 +517,48 @@
       {
         "date": "2025-06-06",
         "price": 276.48
+      },
+      {
+        "date": "2025-06-09",
+        "price": 277.31
+      },
+      {
+        "date": "2025-06-10",
+        "price": 277.37
+      },
+      {
+        "date": "2025-06-11",
+        "price": 275.83
+      },
+      {
+        "date": "2025-06-12",
+        "price": 279.93
+      },
+      {
+        "date": "2025-06-13",
+        "price": 283.0
       }
     ],
     "current_price_data": {
-      "price": 276.48,
-      "change": 1.97,
-      "percent_change": 0.72
+      "price": 283.0,
+      "change": 3.07,
+      "percent_change": 1.1
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise General Dynamics (NYSE: GD) a récemment maintenu un dividende trimestriel de 1,50 $, confirmant la stabilité financière et la générosité envers les actionnaires. Malgré cette annonce positive, des mouvements significatifs ont été observés dans les positions d'actions détenues par divers investisseurs institutionnels, ce qui pourrait indiquer une incertitude ou des ajustements stratégiques. De plus, les comparaisons de performance avec d'autres sociétés du secteur de l'aérospatiale et de la défense suggèrent une dynamique concurrentielle à surveiller de près pour les investisseurs.",
-    "sentiment_score": 0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
+    "summary": "L'actualité récente autour de General Dynamics (GD) montre une dynamique positive avec des acquisitions de parts significatives par plusieurs investisseurs institutionnels. Cependant, l'entreprise a connu une baisse de ses actions malgré des contrats importants signés, notamment un de 396 millions de dollars pour le soutien des opérations spéciales de l'armée américaine. La décision de l'armée d'abandonner le char M10 Booker fabriqué par General Dynamics Land Systems a généré des réactions mitigées. La performance globale de GD semble déconnectée du marché, suscitant des interrogations sur sa capacité à générer de la valeur pour les investisseurs.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
     "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "General Dynamics Co. (NYSE:GD) Stock Position Decreased by Herbst Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUhUcGs4Y3JDcWRZSzNIUWxtejVEQjg4M0JjWUFNN09Dd2JmX05YRlBKQmVxNldjazlDakhiQno0cVZPY084OS02VXUwWVFZOVp1VFBZWWd4d1hJUDJEU3ZLY1BvQzNfTGFmaDI5YklfRUVOQXpxeWxLRjVLTDZIZW5BRDhrREE5eXltb09UN200dENrMGE5ZnM4Z0t6OHpXMDlQZG03NjNBYmx5WmhCRFZuVWcwZXRYS3djTk5aSlNwdUU3LTgzQkxNNEI?oc=5",
+        "title": "Why General Dynamics (GD) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzc2RVFVeW0ycEY4MWw4V25Gdng4ZXY3UFd3OFg5SWFHM2dsdkM5Y1RXdjFHVzZ4RzFuQ2ZMLXJXenVhMzZCWWZWZk50UjhOOFFvek95YWFnOXJZNVRyd2dybVI5azJVb1U3MUdGQ05naXMySVdnR3h0Y2lrcU92eTRGMFE?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "General Dynamics (GD) Stock Sinks As Market Gains: Here's Why - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0xpMkRlRi1HeGlaamczYkhpNmxnbTVCQ1NNRl9JUmM4MG1UaUZEMUNCTlN4c25FdFRCQUlxeGl2dkhfSzZncU12cVZRY1Axai1uMDlvRVpZWGtNQmpwQ0t0bDlvb0V3dHc3ZW9EckxsQUYxck9oX251WEk1cHZkVEFsRkhvQWV0d0pHTlhUYw?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "General Dynamics Corporation's (NYSE:GD) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum? - simplywall.st",
@@ -571,33 +566,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "General Dynamics Sets $1.50 Dividend Payout for August 2025 - Key Dates and Details Revealed - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFN0YTFfMXFoTmcyTFhaVlVCMkxaWkFJemhSdC1sVVJaclc3THpLLTQxNGJwWlhtR0pzYnNSb04yVjJ3UHJHVGtyZEJzcnhUM3Y0bVUwZFFvSmhkdXpjbVZDRVFtUm50WVR3cHF6QVFVcDBnVXpGeXlYRVNoZm41UjBXTlJOWVdFTXkzUA?oc=5",
-        "label": "NEUTRAL"
+        "title": "UMB Bank n.a. Lowers Stock Holdings in General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWExpLVk0S2dtVTRIamlZQkxmUWR4dWl2V2IzdTI0dDNhQnFlSGI5c0QxbkJSbTRuSU1Cc2ZjbmtubmNIbElCdjM1SE84emZQaEttRXVYc0dwbFZQUHFPa1RWdjF5LTVRb0MzSzFsOU5PYmhmZ1FJZnJIMFlmdklwOVYwWWlkd0dRU28tb3AzMUJ3bk16ekh4WllrNy1kNmdxYUs5YWNwaE85ZTNmaHdlS3dkeXVkSTVqMks1Vw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "How Is General Dynamics’ Stock Performance Compared to Other Aerospace & Defense Stocks? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ3Q5QXpwMWRfNFhzQlRVQ2FFdFBKOGpLcmxkb3AwYUNRVW50aFdId1plOUhkWWJJMTY0V2xSbTZsQllDc3Jld0FEbWlaWnIxVUFQT2tPa2RqaEtsLWdhVWx4N1g5eHh0bTVSQjZmbnpvRnRXRmtlRWFSYkFyX3M2VWhvb0ViUndYQS1zdHdYR3R1TlctNzFYeXdiSWNfbXFLa1FkUlJTbjhfUUFhUnhGNERYZXJXUzRqdF9mMXZOckw5ckQxb29hd3p5Zm1KNUdpOGpWOFpLLXZVUjh0VjQwdE5xdDRrWjYzWXAwdFVjTWhZbnZPX21HSGRXR1pNQlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Dynamics Board Declares Dividend | GD Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkRTNVVydk4tUmpkQm1nTHV3RzhWc2VjM1N5bHhyeE5xLXdENU1oTy1tZDB6QjhuM09jT0tLYWp4TzNfdFBnMFVQeXBiUXg0RXdGelNZOXJPYlltZWw1VTlZdllGQzA5TmhBb09rTGFQVzZJcm1LSjdza3NrZ0lrcDVIRzB3RHlwVWxTR3VFOUpNa080cFpDaTZ3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Dynamics (GD) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOanpaQllmLWxLaTM2SWZablVUZnZXUldnYlViV1ZSSl9oZDc0VnI0Y0Y5bDVod3ZvWFExUjR5QzdWdzlaMzBzM3ZETUtRRFdlVHN0a05qaWJCd1F0aFdPdGhRSVMxS2lXZ09sYl95LUhxWnQ2XzlpQ2RFa09LXzBiZnVsSmJOcTg?oc=5",
+        "title": "General Dynamics (GD) Secures $396M IT Contract for U.S. Special Operations Support | GD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUdsS1VuMEpqUkZMUFpFenNRWE5BMVJmRTdKZnNRYTNyVUNnMGRnbnFXM3pKMGpyVC1RZ0RmWVRSR3lDc3JWM01VU3l6SFhNTHFRR3dNekI1SlE1dXFrRzlmcnM5eEFBcUxuYzBKeEo0QURzaHdCR2M2WWkySG14emZXa2hKYkw2SElReDNaUk1YWVgzbVBIel8xRUJWLTVKUVdLaDF4X2Q1ZEg4QWF1TXpLRTRVaU5YZHRnUFBQUVN1ckRjWWhGSzZjTWM?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Rhumbline Advisers Sells 17,053 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHdoaDFiQ1h4b3BNWFh5NEg3UnNhenhLTFdYUk1nU29VVS1EWFdYdWc4WjhYU1BFbk9sVUZHVkM5Qm94VldJbGRzdDlpbVQ1Vl8yWVNJc2I4NUwwVHI2RUloU0RCOVpZUi1iTnNrZUdjN2lJN2FmYjVNVTdpOFg3NXduRzd2Z2VES01ZdFRmQVNLM0c1ZlpaS1cwY2dvNHJxU1V5enN6cHdLSkxQcjFBNzdfZFhKb2w3b1cxVGJ3eVV5X1pER1VLQXdvYUI5ZHM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "General Dynamics (GD) Announces US$1.50 Quarterly Dividend For Shareholders - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalhrY2wwaXRHNGYtbF9RWjJVSzZUcXNxRmo4MnJRd1N5MFJ4UWxkNXFzRFM4bGdhbjJraFNycE5WLWFtRWk1SVd4SGR0dHczaEhMakJPRldEak1hQUFoN0Z1aDZvdFVNZ3FvN1FSWVhvUW96VVlUelNqVkNpTGd2Rk9sVDdvT2JzclZMdE0zU3hhOG8wRWRHSHlfMlk2SVdLcjRoSWl6NGVLdkpkUjVuSk54YTFKaWQ5ZUdtZUlMcTlMdTF5SzVsR0dRNkw1dm9pbEHSAdcBQVVfeXFMTW1ReVBnSzEyN1hMcU5CQ1NfaXJNTUxHMDJRdTdQVWFUWWRCSlk1X203dlo3SkI5eXJXdWJBU0Q4WEFOYThiVVB1MkR0aHRjLVEyXzRFb1B0WlB4R1RNaUZibjVYdXRqSlFsZndiRXBseEZfbVZiemMzR1gtbWtRTXNZR2ZTZmVaRkNYd3RjaHVFZjFOVEpPZl9EN3ctbUlRcUdGNmJVdDZJWEhrX3lWbThreXhXaGxjZ2tVYko5SmpSM0dadFhkdnFJVTVEQU0xeThDa2VoOG8?oc=5",
+        "title": "Army scraps M10 Booker tank made by General Dynamics Land Systems (GD:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTJYOWc2ZF9TQThnckRmaGFKd2huMTZaOFRHXzVOdWZXbEowZDVtZkxJTW40ZmlsWW1uWGV2MnJSNmNyQXZOQ214TmFDaFFaOGE3b0o5QjQ1T3hWLTBCdzZEUF9MdlNTWlh0cHg5OG5iSkNkM05MZUhTVXdOTUx3dDI4ZnhWdjFEZktGdy03eHRyTXhjQ09UQ1FsLV81cllKLXBsd0lB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -606,56 +586,76 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Lockheed vs. General Dynamics: Which Defense Stock Should You Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkJpN1FDSmU0THRXdmZabTMtOXRfTUlEeDQzM3VBQjZaaXZqaWV1a0wwQnllNWZNYU5kdW9sNnlHUlY0cmZYTllNQ3hfMU9vSzBreUh5LVkzRjdzSTh5SW1aNkM4MmdoTjlqWmJWcGxhSEFoNWRJeWJIZjBSN3MyMUFNMi1OdkFyUmc?oc=5",
+        "title": "General Dynamics (GD) Outpaces Stock Market Gains: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzhzcHFwdUxISU5VeW9aVTBpSG1MWUdQczVxQVpBLTRGU013bEtqZlJBUUtUT21mOGRNb3RGWmFxbjRMYk90cjdvemVUdmJxRTdyTkdZekNWUXhLYlFHdzNQenJ3aWEtTldfVlRUQ2xzLW1HdF93QXhrMXVoRC02MnRlU0xPMVRQb0pnVTdkNktFcS1qQThfZEFRLW1vZndJaHVjbFNpb0lSaDlBaTAtTWgxR1Zpd0F3OEV6TW5tSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Vest Financial LLC Increases Holdings in General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR05WU3R4UWpyekhndThPSGZsLUxEdnRvd3VmYUduaTRCcEo5SnlENUJsbElxTjRacnFVQ0dDbFN0Y21uOWVoYmdJNmtxekJpcmZFdU1CY1NYNlhZcWNqTnQ5eFBKRHRaWVR3bHhTZUN3XzNSWXFuOFhoUEY2QUVfYy1DM3B3aWtlT05jZE9jYjl6ckRHckFEMmFtOWVXeW9Ua2NTb3hDLWhRNGw3eGZvazUtQTI2Znk4Y3I1Y1VZVlJ1NTczVHRJ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NBC Securities Inc. Purchases 7,493 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWRhSmw1d3NPTWFXbzBGaXVfTUNHcUdLYWNjRm50LXpnWkdJZmYxNFlEWDIwR0t0ODU2MDI5bWM0S3JhaXRpNWxUUjZOcDhCZ2pmM2VtaElhTk1XMm83aUw4MDZ6MjUteTZjT3kySzVoZmptOTFWMjF1RDBYUjNYOWdxUVluaXAzZ2pQMTRaTzVfOWNDNm1qem9Eck5ITzUxWHhvUEF2b1k1eldOTUF3MldfdU1uNWNwaHEtR2F2OWlfRHc?oc=5",
+        "title": "Sanibel Captiva Trust Company Inc. Has $30.11 Million Stake in General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmZ0S1pwUTZ5aEpjclE2Q1JHSWdiREpXeWRsMy1uTmRyVi1wNWFUeFI2amw3RU9NaXQyZmdnX3QzY21vb2RuemRQbjFPcEM4a3N1OTJNWjhmZG5BUlI3ZXV5UmY4N3JlYy1OTm9NSG82Ujg3d0w2VVJ0NDBCdURYUW83RlJfS2dGRlg4N1ZacS1WbXBlVEsxTTBuVC1QaU04M2EtVlRUam9vazVuZkNtLWZIQi1Ga0xaRWFsRFhrSklvOEV1cTQyVjJwSThPdHAwWTN4T1dTdUdORGo2TWc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "General Dynamics Co. (NYSE:GD) Stock Holdings Raised by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUdTQmVZd1VaRTVGMmdsVmgwUFhwdlRSVWE3bmhYTnNSZl9pbzRsbGFMeld0Ny0xR3lCZDhjQ0dKdDFHUTIxbHk5SEpwXzRKVDVoTHV1NnNzQzJBTU5lc0RURVlWeGpXV1BfU1Myay1WcWdFbWFBRk0xLUgwU3FkX2xyc0hpYlh5XzA3RGVxRFMzRGtOLV9nQzRkRTV3OXpKQ1UyQkFKMEQ3S0lHQ2pxcFh5MHpQUmppUEQxdFZYMWxYRlBJZTJFMTRxejA?oc=5",
+        "title": "General Dynamics (GD) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdG5ncHo5dHk0MWhadmZsYXJyTE5NMEFYVnNULUJ5WEVoR1JfVmdWampDc1pxWlZ4ZjlTaG1zVmQ0a2RyaWdidi1EUjRpWTJZQkt1RTdnRWpqYnZsVVluQXhiajk4Y3BDUEtTUWF0U09xbkV6OWVMRGxOcVpvNy1qTDRUZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Dynamics Co. (NYSE:GD) Shares Bought by Simon Quick Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUFUMHVvWXhNUzlYa1h2alZ6Q2JqTE5mRm1SMTJvMjJOdXEtMWVhNjBtcDFuYUh4VDBIWVBWT2xlWWNleWdEZmxKQndCWXNPQklTbWtDd3lIbWtyS0V0QjV6ajZJd0ViSzhJcmxpSFA4S2p5aTVJNERxVy13R21xRGhlX1h6SEVhNnJ6aGROTWNvZlo5TGtHY0VkSTlqSzBybThQZVNxUDNFRmZiTW5PRXhSdzF3WWdJbjJYLU1mSmlWSGtzTmlvSw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Veracity Capital LLC Sells 1,172 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUxJeVZWOEpwWFJ4blNPek1VSDN1NUxQQXVXSHN2U29rZjhYSnY0eVo3dE1UenEyWkRwSlBtdlIzX3JFMFJpUnFJQ1dvQ2FJdGo5UTNyYWRVR1BsaUl4R2FzdXRQY1BqMlMtWUtZelVoVkxkREV5N0xjMHI1MXV1a191aDhHcjdZWU5BSE5zNmhFVEs3UFVRaDVUS3V0eklJdi12LU9Tb1lzUFk0OHIwN2dWVTk3Y0NndWJBM0JKTlAtSkFfWXhKZlJKVQ?oc=5",
+        "title": "General Dynamics (GD) Secures $706.48M Ammunition Contract | GD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEZkZXBZN2lNRWFqQjQzdWNqY3psS0VDVnZuWmo1eUU0eFV5MFBScW84aGxqSXdsaFU2Z3RQbzIwQktvS3hxWDFxN0hLT012cWRLN25FZlIyRlpmLXFYWmxxZXo0M0JSQXpyOWRXWmtSVWtfcXZUREtMa0FWMFJMLVVNUUZDYUFuQjRtbUVtTXJURG9oaTQyZzZseFZzR0F1Vy1nSkRvaDVvT2lvWkd1eHhTVkk2UUEybGpn?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "BTC Capital Management Inc. Raises Stock Holdings in General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczF2ZkpCRHhYZjNVTUVTcWlKTEp4RXhSWnRlZE5kbWhYY181VVRKUnRmWFdNVUxrWk1kbDZBdUpDY3N3NjhnRjZFMmtGUGJTdnpaSF92SDFLcVB0VnhEak9MNURwMUNZSzdyc0NpYVNRcTNJd3RmZ3UzdE53V1c4LTVNcGxFTE1ZaUZpeWhvRnV1eFEyT1NZMTMzUVpuQjFkZGVyTnoyWk9ENHllUnNxcjdfUlh1dnRPaUZiZlhsaHdicThiemdJSzBEWjFPeVQwMGV0bg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "American National Bank & Trust Purchases 18,903 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGFyaWllMjJONG03WHpCb0NxX2ItVlA2aEJqOXI1YW1SMjNlLUthcWFfQl9Ba1MwOVN1QXFuT2FYNGVNRFl0cVlCdk81UWJTZ3RyUDNveEVieDNib0U2V0U4SWthOTRrVVBvWmJxeXJFUmRnQ3V4a2lNZzRtUkZrV3ZaMTVubENJMjVUeWN2LWxpUHR1MnRlbjZvVFV4cVVwWXhVNmt3VndvQnRvRkJaUk9LMXNXQjB1LUJwV0VTRGFvNElHRnNMUXRKbklHT3hkOUE0?oc=5",
+        "title": "Farther Finance Advisors LLC Buys 1,175 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS0syYjROYTc3UGhxYzB1OHV6WThYUWlRQndYTWVsUFUwRG9hbFR1ZFRYeFVHUm1RUkoxX1VCbjFzSGpOZWV4YTNMMjk5WGt1bXhZUGRxSFNTdkx5d1pkOVFHdDZRSE1DN0hEeDFsYnJFZG5EeEdVXzhranJFOHlkRzYtMkZSYjVkMlA4N3lydDJma2VSOG4yS1BUUEIydVpCYV9oeVUzMkozVXl3NVFPMlRBTkE5QklqTjZnS1F6Tm1DYzkydzRUc0J0Zmo3NkxVMElSS3J1aHk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "LVW Advisors LLC Trims Position in General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0VOUU10SG9VZUlVeVBrTHRGYUtlMzNsZE1VMEFDRWNKMjZGY0VGNkZJcm5yOUtLZUNEandob1VzQ0o1bjI5anhRQl9MdDV0WXJBQWpFanYyTHN5SXNwWUZNOE8wMkkxbEREeVFnU3dLWUJXVUxVVExMRWtvQjVOVXdEbnFnM252OHgya0dVQ1ZhaTlMTWZuVjBsZzkxV2JMZUtlQ3VyalItcXJwTUE5dU9qMVhPOG1UaFdZcVBjTEFNYVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Fifth Third Wealth Advisors LLC Has $2.38 Million Stock Position in General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUlxSWJ1T09hSlVhT1lpYUtFdzF0MW80eEFMY043TUFXbjV4ZTkwQ2JHaG5lTVk2dmJ6YjNrak1fdEpFTFl2ZldrRm16ai1lV1hnLXhzcVdUXzdjZUJMb1NteFM3OFRpdlNHdE0xRnFMM0dlRGhvYUhON1hUUEdLTEZybTE5bHVsM0xCblNrM2hHaS1UTXJPd3VLcHhEenp0SXhiUlMxakdWTllGb1RiWTV0cXBpaU1IM1FrOUdwcGk0aTQtYmhfcF8yY0c2RjA?oc=5",
+        "title": "General Dynamics Co. (NYSE:GD) Stake Boosted by Sky Investment Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEhxUXBiMTdKTC03S2I0R2l2OUdnM29xOFhhSlhDYzFmVm94aC1FMHphVDJIY1I5NEZ6QTBpX3lRNXNRMV9rNUFaaHAyYUo2VmxGLS1NWjBSNnRhaUIzS1pYS1d6MHlZTTUyOF9SbERYUnVuWFpoQ2dUREF1MURfaHpaazdoMmM4NkxIbWNGS1kzQjZlMzhMTW1xM0NXX2RmdllKeUp3NDVTV1hPSDh1Z3d2cGVzN3FWcVhtUkRmNHQxLXFYOEZaMA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "S.E.E.D. Planning Group LLC Has $243,000 Stock Holdings in General Dynamics Co. (NYSE:GD) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTUhIUXMyTmhLU0dRa0xvejFGVkNQei0xeHk2X1BKcnlUWG1PeE8zaWprTi1lblQ2OUpYNmtXNm9NaHRlZG5zc1RvNmtvVDRiZDEtRnRKUVlaLTlMMDhNY1NjNHFrYmxHRmFmTUxwYUMyV0tfUkktOVU3SUxFN2IySjdvSHR3Nzg2ZWJiX1R2VHFGRzkzR2VBemFQYVVsdjVsZk1ieXJTbTdfWjhUWDlnV2FGX2ZOcmNTVld0RGs4QUtiNC0w?oc=5",
+        "title": "Argus Investors Counsel Inc. Decreases Stock Holdings in General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTZJcmZVZ2p0cncwQWdFN2RYcElMN1BDaWl2ZmFERmlPcEtEVG9sNGJYZHVZT0lZT1RMYTNqZ0xLemF6bkhxeXk4TUg1V1BLWldPX3d0TUhxWEcxTVNRVWtZY2RjTE9rdlVITF8zckphZ2VqSVU5ZHpWRmJVMDBYam53b1Joa1dfWjJ3WnFtT2tCZXRVRnVISkF6ajBLMmREb2QtdWpaZ2Q2bVRCdUFaVmhTeUlRTUJpS1BPZHdrSS1STnFfakdaOW5vV3hZbHRwNzBLak5Ldko4Vk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Thomasville National Bank Buys 2,368 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZFh5d2x1Z1RHbXZoWWFqSEFWcDVWRFBxcE1IVHBKNkZVV2ZXdnFucFRyeXRsRk9QWUNSVF8yLWRwZGZUbmJlelFRZEVXV2NheWU4REEzaEliZ051R3pZd0FGSEpDQ0thbDNVcFN0dWdhV2tPOFNBOWU0ZWZXMDdicHhHdkhDaUJrcFh1VXFSeXFjODJ1UFN6dmZZa1p1bGxVN0tqR3NVNVBtME5QMGIzSEJZUUE1T2dFWDFnN3JtQlNIX2NHTFRmeVhsVWNHdw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Acquires 1,735 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcUF3WllMSVlRNXRIaU9aLWVELVh5Q0ZEQVBFSWJHN0tCOUU1VHMzYUxOdXpzaEx6aVhnOEJWUTlvMkJDMjBOZWdMNHFCOFBuSW9MeFc1VnNPUjJGcWR0MkVzTHl5cDRZcEFaVzJIVjZtdzJwZU9weVE4czVXQjgxRlJzVkg0WU1CU0FfWXFfMjJsM0Z2eHRZdDFCbnlSWmwwZWFiZDFrNzBFREhURnZ6QjRLZFg0NkZRMlZmMXFGY0VPY0FSYmhrWTczVXBCajQ1TzhjNzV6SGttZGFQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Dynamics Co. (NYSE:GD) Shares Acquired by Fifth Third Bancorp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3hNZkV4SnpEdjRwTXpMOThPMDNVMXl5WTZQb1Y5NjloNFliODRrVnJvTXl1WWs3V2xWa21oMXppMU84WW9zYll3ekh2RGtWbUxDRGFTcjVaX2w2aUZwbnc1aXpLS2pEajJVbm5KdXpfcGZTS0N1YVJRTWlZUUdnLXc0c1dBT2FOQ3ZrWXNRVms5UzdBX2YwaVlQbGRiR1Zsd1ZNbU9JcnRBdTJKTDZydzRXX3lVdlhtLXJheWg3WDl6a2V1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (GD) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcW1BNXI2X0JlYjMyUFBXVHNCbDJOTGQ5b2NvMlhGeGJPeERvN2dUWGF0aG41UE0yekFienlDS3NOLUlrRXdFMjdoa0ZlWS1VdV82SlFHRTZDNXVvemtEc015OEVJcTlqRWxTTDRNeWQ4bS1EZXhtd1l2c2s0bzJId1BBR2syNjQxSy1BU2g5dFhTLVA3ZFo0MlE3SU9jdjlWM1dKYUI4QThrVS1HandrelpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SG Americas Securities LLC Purchases 207,544 Shares of General Dynamics Co. (NYSE:GD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjJudUJxQ05HMUFqaF9ReUFsaDJLMDVHbVIxeFpWSWFBdkthYlZIVS1CcHNqOWtVTDB1NHo3eENkSlplQ1R2X2tSVk5RTTFXSVlGRWFMNnQ0VHh5eWRVZ1JmVFV3MVdaYUdKMEN1VDU4RFFQY2JRcjFFV3VFeF9ucTl2WnhoZlZmaVlaX2tHNlNkVFlrV3VPaXc5UUJ2Y2xGSkllMTFuYzhmeUlhcE9UMjNyM3RHN3oxNGh0WEdJNVpuZldBbEMyRU5ka3pEUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Dynamics Stock: Is GD Outperforming the Industrial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakUtcE9hTm90akVPTlgyZVZuNG9vLXJwWU5QN3JFdFRva2VLYnI3UDlfbVc5QUZpMWE1R3o4WF85bThkNGk3Q1dtUi1GZndrcmdka01Qa3BraXNvTHVnLWQ0bDk3WUxOM3FDZURGRlBUUUVSNDFzMV9wRXUxakszanBvb0MtaXlSazBOWUJRMTJGN0E?oc=5",
+        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

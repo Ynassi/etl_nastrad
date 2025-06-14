@@ -2,12 +2,12 @@
   "ticker": "MANH",
   "name": "Manhattan Associates, Inc.",
   "sector": "Technology",
-  "market_cap": 11637851136.0,
+  "market_cap": 11427170304.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 54.765713,
-    "PB": 47.480797,
-    "EV_Revenue": 10.762,
+    "PE": 53.928368,
+    "PB": 46.621254,
+    "EV_Revenue": 10.918,
     "ROE": 0.89599,
     "ProfitMargin": 0.20669001,
     "GrossMargin": 0.55619,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.27513081905539805,
     "ROA": 0.2441,
     "PEG": null,
-    "EV_EBITDA": 40.903,
+    "EV_EBITDA": 41.496,
     "BuybackYield": null,
-    "PriceToFCF": 40.493628924969585
+    "PriceToFCF": 39.76475274436643
   },
   "technical_indicators": {
-    "RSI_14": 58.21446609339929,
-    "Momentum_10": 2.2347789534679787,
-    "MACD": 2.5806752953842533,
-    "BB_Percent": 0.6049490074098308,
+    "RSI_14": 50.40799314701074,
+    "Momentum_10": -0.3019345635742198,
+    "MACD": 2.2020006475404728,
+    "BB_Percent": 0.3414708383998441,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8648762570914116,
-    "QualityScore": 0.4226860159443529,
-    "SignalScore": 0.4846778814287278
+    "ValueScore": 0.7921984827958387,
+    "QualityScore": 0.4370590626231126,
+    "SignalScore": 0.56833201151105
   },
-  "volatility": 0.0357838763876039,
+  "volatility": 0.0356597375709362,
   "beta": 1.079,
-  "return_6m": -0.3665355927307671,
+  "return_6m": -0.3687829149879201,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 211.12444
+    "target_mean_price": 203.34666
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 299.7
-      },
-      {
-        "date": "2024-12-10",
-        "price": 297.67
-      },
-      {
-        "date": "2024-12-11",
-        "price": 300.67
-      },
-      {
-        "date": "2024-12-12",
-        "price": 309.78
-      },
-      {
-        "date": "2024-12-13",
-        "price": 298.17
-      },
       {
         "date": "2024-12-16",
         "price": 300.88
@@ -537,27 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 192.78
+      },
+      {
+        "date": "2025-06-09",
+        "price": 193.65
+      },
+      {
+        "date": "2025-06-10",
+        "price": 193.28
+      },
+      {
+        "date": "2025-06-11",
+        "price": 189.33
+      },
+      {
+        "date": "2025-06-12",
+        "price": 192.88
+      },
+      {
+        "date": "2025-06-13",
+        "price": 189.31
       }
     ],
     "current_price_data": {
-      "price": 192.78,
-      "change": 2.6,
-      "percent_change": 1.37
+      "price": 189.31,
+      "change": -3.57,
+      "percent_change": -1.85
     }
   },
   "news_sentiment": {
-    "summary": "Manhattan Associates (NASDAQ: MANH) a récemment dépassé les attentes au premier trimestre, propulsant le cours de l’action à la hausse. L'entreprise a lancé de nouvelles solutions de commerce de la chaîne d'approvisionnement sur Google Cloud Marketplace, renforçant ainsi sa position dans le secteur. En partenariat avec Google Cloud et IBM, Manhattan Associates accélère l'innovation en matière d'IA dans la chaîne d'approvisionnement. Les investisseurs semblent confiants dans le potentiel de croissance de Manhattan Associates, malgré les défis croissants auxquels l'entreprise est confrontée.",
-    "sentiment_score": 0.25,
-    "label": "POSITIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
+    "summary": "Manhattan Associates (MANH), entreprise spécialisée dans les solutions de gestion de la chaîne d'approvisionnement, a connu une série d'événements contrastés récemment. Alors que ses résultats du premier trimestre ont dépassé les attentes, avec une hausse significative de son cours de bourse, l'entreprise a néanmoins été confrontée à des défis de marché, entraînant des dégradations de notation par certains analystes. Son lancement de solutions basées sur l'IA et le cloud a été salué, mais des ventes massives d'actions par des investisseurs institutionnels ont également été observées. Dans ce contexte, la prudence entourant les perspectives à moyen terme de MANH semble persister, suscitant des interrogations parmi les investisseurs quant à la pertinence de maintenir ou d'ajouter cette valeur à leur portefeuille.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "West Coast Financial LLC Has $7.09 Million Stock Position in Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR05ZejAzNlR4UmlBZ0RNT3UwWDlWTHR4UklwbGZNNUE0emF3WmJzMkxYUXpnejQxR3k0eUxfd0RWSi1KTzVmcVowOE02UkdPay1fQzNBQ2EwVTE4OFlOaFU2N0x3eEZ4N2hmNHN1b01icXNTMkdMQTBrUXkybEZrRnJ4cXp1Y05sQ3dSc1ROX3dnVXJNdGdpdkJpT29aTS1kUlJQeDVFWG8wU2YycTRLUFJoV2hBNFZhV3BIVHVsX3NnRGNRX2VoZzJ5dThqdmhhTEZiX3Bwelk5V1lxTVhvVGJFMk5McEdKejZZ?oc=5",
+        "title": "Gateway Investment Advisers LLC Sells 1,940 Shares of Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWml0MERNd3RlX1diRk9fNEQ4RnVTYjhsajU5RWczcC1jbkYwYmtHTUVSUzBJaS1WRjc2YTRVQURhdlNTZmYxQzBCaDVVUWdVWGRqaE5kdXlVYVNMRjFtWTQtTmRiZncweUs2R3ZmWTJIWFF3RDcxYWRuaW5BVTJoTk5jWjl2UkFnTXhETzZKQmxWOW9NVmlBcTM2NzJ2ZEtFRl9SNVB6ZVlhdlVaMjlmLTdLbzk0TmdfTEdmS0pQM2JkU0J5Uk9iVUw3YkVDVHRIWVlhWDY2UUZma1VsU01TSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Manhattan Associates (NASDAQ:MANH) five years ago are up 115% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREZWM2dCRUdCeWxCQnUzRnBvZmdxUUlFdW5URWpFam4xZFNYLW1nNXJ3eXU4SGJFV1JqYk1FTmpHQlE5QlBjcW9PUVdvRjVyTXVpNy1lbVNUN3RjUzhMMUxNVVBiM0djU3lPUU56ZVFKY1ZoTW5TellocDREUlpRM3BWdDhONnN4MnlKd2pSVVlfZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Consider Adding Manhattan Associates (MANH) to Your Portfolio? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTk5UTXJmbWxJR3g1YkxnMzh1c0R6ZFB0WE5mWWpxakR0cVlheXUyQjhLc0tjaU1wWGpqdS1YWVBUQWFyMk9ScTVYcWctTXI1VEMxNEtaclg0NnRZamZILWFHcVRqbDNOa2pjaWpMaGh2NlA5SHVNVVg4X2kwaFhwUTJPdGcxa29YakJHVWFfTzdTSmxmODVPQ3pUZUYwMzZlYXp2MVBDME1SYk9FRVlaUlRhY0pkdkZwTnk2bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manhattan Associates (MANH) Downgraded by Redburn Atlantic | MANH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW44Nktueml6M1ZnTmR3R3VyV1VOSmJZcjRmeEhXS3U5U2ZkWTdleGZqYVgzR2MzSDlpN3JfV3k5T2FLWWoyX1FORVV2R3RJMGdGVXNnd1pOcGI1eU11QnpKNS1PRnAwNktFaXpmM0RjZFdhdndDTmp0TXZBalYtZ0FvbE92b2pxMFZlNFFhVkc5anYxOURJeGZTOWYxRzZTTWxLLWNLYXN1d2FFd3RBX3Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (MANH) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2QzY1NEVFFrd0x2Y1BKM0J2TGZGU3FvcF9oMWhPa2dnUDVLay0tUm5wZUJ0ek96NG52X21tX0tnUU9SaXhQUGtka1VZeGlSbnJKRHFNQkFoUHBINkdrYzl3WXczRTZNTmFYa2hKemwtN0o2M1MyVW5Va1lXRVhZTWxOSnU5V3o4NHJ0Z1RmcWthMXRTVXBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manhattan Associates Launches Supply Chain Commerce Solutions on Google Cloud Marketplace - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzd0MWhvdjItc3NwbnVhbUFGWXpiNG93Q0kyMFhTazNlOTB4bjJHMXY1aWVVRkVhb2pyZGRMd3o4NU41U1lRQS13LWN5SWhWLXNRMmxfMEU5cEswUWFKWmxqaDZjY1hZVW9Vb1F6UkQwVVdGdFlTTjZMVFI0ajU2cVhicUFWTmRxeUJFWm8zUjBUTGJ0cUp0emIwZXBNRkpCNVZTN3B1VDVpcjJjcUYzci1YeFVNWi1ubThqUGZyUDB5MnpvZGU4N3N6SnRmcE1jYXJ4ckE2el9ZTW9HT1Q4?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,9 +591,14 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Manhattan Recognizes its Valued Partners at Momentum 2025 | MANH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHJvMlVnOGNyUFpaSVUyUmtSdl9yMWxaSlptb1dsX0RLYi16XzlrcHlwMnZxYkNRSDY4V2VpQ2JSZ0FqMUZ2QVBwZkI2Qk9NeGRIa004NHc2X1MxTHZqU29Yc3VyMEpUNDdMSlR6YmhjU1M0aVpWa3FHTVVoMy0xd1FUeVpaZmNHc0hCQ00xbThFYmZXNVRpV0lFLUdiRGk0eW44NUxYdnQ0MExxWVB1N3dR?oc=5",
-        "label": "NEUTRAL"
+        "title": "Manhattan Associates (NASDAQ:MANH) Downgraded to Neutral Rating by Redburn Atlantic - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMV9ZVVpIN2N1b202RERBd1ZlQWRtUl9XZGd6RjlSajJxOHY0VGVwS1dmbUF0eTViX3pmYmlPV0wxX3NaQ3F5NWdxanlYY0VWTy1BTmYwMEVzZlF0TWpvVk1Lbm9ub3BWdFJWcTZydDhxTEJUN19zM2luY0sySUs1ay15dU91ZERaUFB5RlFxU3JMS0FwWmhwaDN2cFNXSGg2bHdZb1FVQVBzR3hHeDNhN3N1dG9nRXREbHlXNWk1TGtaR3o5N1A3cng4RQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Manhattan Associates (MANH) Faces Downgrade Amid Market Challenges | MANH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWcxVlpEOEV3WlhTbFZ4cDlIM0NUVHd3YlZEZFFjQWNNWkRXU2QtMThRTHY5SWJEVW9jMlBfLXpuQWRzSzNuUXNObHN5VHJtckM5Sld6RUIwZ2ZRaE9EemZCWFFLUHRFUG5sRFZGTGY3OC03elNRbkVZd0lINDcyXzVlREx3bUg4dXVtWDFucGd6OTZRMm9uUGdPSWc4UUJ1QWtiNFhQMzZvOG5zaEhwdElkOGQzdXV6djFfUQ?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Manhattan Associates (NASDAQ:MANH) Exceeds Q1 Expectations, Stock Soars - Yahoo Finance",
@@ -576,44 +606,24 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Manhattan Associates Launches Supply Chain Commerce Solutions on Google Cloud Marketplace - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzd0MWhvdjItc3NwbnVhbUFGWXpiNG93Q0kyMFhTazNlOTB4bjJHMXY1aWVVRkVhb2pyZGRMd3o4NU41U1lRQS13LWN5SWhWLXNRMmxfMEU5cEswUWFKWmxqaDZjY1hZVW9Vb1F6UkQwVVdGdFlTTjZMVFI0ajU2cVhicUFWTmRxeUJFWm8zUjBUTGJ0cUp0emIwZXBNRkpCNVZTN3B1VDVpcjJjcUYzci1YeFVNWi1ubThqUGZyUDB5MnpvZGU4N3N6SnRmcE1jYXJ4ckE2el9ZTW9HT1Q4?oc=5",
+        "title": "Manhattan Associates (MANH) Reported Cautious 2025 Outlook Despite Reporting Strong 2024 Results - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR25ZVTR6cEdPYURGeTBkckdpcHBneHVLQnNpZlVPSEkxTGlISUpkV1REY2c5Wi05STYxb1NjOHE0RTFibVNxckhUUlg0OTlVZ29SbEljamlqOWR6bmpmdWhfYWU0a2RRUy1RRUNMcVd2S2xBRnRqOEJCbUE0NFJNMXRMUlhPSUVHZzJSZm1Cc1NmSU9VQzl3Wmx6blhyeWFlREZGdUNBMjdPVElNZ1oxYk5UVVZadEc4S2dya0ZXWHktM2pIbm9ScGdPbnl4Q3VvVV9JZtIB3AFBVV95cUxNSkt2cENMd0M5blpvUG9UeG90WnZKVTNvQlRKM20zaXR4MkFkd2VoZ1RUdHM5dm9Pd1RvNmJuQ19sVEM0QUplUkhSaWpCMF80Nm45V1dobU9SWnF5NHUzV3QtV1MzNzMxZ04zS3FPRW5QZ3lGV3B3aGFpVkR2TDdkY1pISzRKTmFEZUFjQkRvbThheTNYUF9GdUY4dlF4UnhTWlZiVVpCa3k2bi1TaWtpcmlvNjlNWjZXOHpNUHRhMlRsVDVTX3dVUmlqLUcyZVB2d3JxY0FTY0I4MExE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Manhattan Associates Revolutionizes Supply Chain with Self-Learning AI Agents and Custom Development Platform - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjJtMHZiaVdWTk0xNm5KRXlxTThYV2lrOTlsTVlmQ05pZG1HUzlwMDBCRU5UU2trck1vOTdfLUdSWXZnQ1U5aDlNX19uQ3FtWTZHVl83ZWg0YWF5LVdMemk1MmdpckpMQlpUdDYtZDFvSzByREQyV0NmREVGWDJyRG5aNjM1c01WWkxJdkFpWGZsZGVScENINVZJWjdNSFgtcFpUbDBTc1kySnpYODYxZDR1RFAwaFlZ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Manhattan Associates: A Supply Chain Software Leader With Growth Potential - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzdpWEtjRzdGSkU4TTJid0FVQXRydzR5S2NYOERqRXUxY3g3Q0lJV1pIRUdIOURxSWxYM0pRb2c3S0JINWd4T2hqam9NR003MFk0Q0Mta2UyTkpiclpDNHNqVkZsTGl0bm9XRmRGaDdLSTdMenZnZ2F3eUZpR0w4VTlOemZRVk9TM1BMLWNCTmZYdG9EOWozcw?oc=5",
+        "title": "Hennion & Walsh Asset Management Inc. Sells 1,787 Shares of Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR05KeHJOZ2pqTXRZNldLaVA5akQ0RzlTaHNqZWFTR1VpTlJxeTZaYThrX0EtU05nSU1MQ1BmcUN3dERwMGdXblhRYXdRUnNCR25ab05hWU5UTnd1em9qb2l0eFNNVVFwV0xydmRsR18xRjJDOVl4cHNPREVWRmltRWVFRUlBNExDa3ZaUjRMb01VOGhJdUhCajhNbzdvOWNGc0o2cXNtSndXZW14STJqMTRhWVdDdXJWT2lSaDVoODhlTWRKLTdlZnlHX05GaWtlVHJNQ09CU1d6eUJPOUFySktzQTBCWmFjeHpfaDF3bElwQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Mid-Cap Stocks with Mounting Challenges - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlV5clZxbUd5WHRDc29QczdTRmZFVlRKOXF1OFpOSmM2TS12dmtxZDFYdHpjaENMQnNPUUJLSlpaYjhONU1VeV9nT0JZRVBZZGtzWHRrVkZTUEktY3l6Nk5ZS3h0TUlCd2dOdFVXbUJDSGdRN21EVGdhczZDQ2V4VTdMb0VoLThRMThNT3R1Y0N5X0I0azRHejdqMGpzVnRtQ21WZDZzdkw5bTVlRjRlVFBvMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Fragasso Financial Advisors Inc Buys Shares of 7,459 Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeldLVXVBbVBZZi1vVzlxLVRPekFzeVZybGVTRGVKR0Q0NGU1RXlkXzZVRnVBeHY3V3Q4NGY2bnNaTG1Ia3hhaFpoMFNYM3NIY3dZNEw5U2dYQWJjU1p3WDY5aUx3RGJUaXBJTDBXRjRfVERvVDZLSTFGRkhVSUVZZHlPRDVqTHVYUnNqRmN5SjNqWjI4MUl1TkN6S1B5UWhxOXZDeWhnMzRWeTFqN1NodjNCWHBpN002STFXd3MzMjd3THlVRTFKVExDTXhja25lcXo2MU5JZnhjOTRkMjFkaVVwSlBlclp4cG9WZ3VwSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Manhattan Associates Partners with Google Cloud and IBM to Accelerate Supply Chain AI Innovation - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTRMQnkyQkF1dkRKaFJPUER0VFhacFo2VzM4TXloOVVpSGUxNmk0ZndtRWxWNlhtNE00OEkyUm5SellwLTlnRzk2bWVCd3Z2TThfZWkwNnNqN0ZjWGxEX243UlZ5TmtLNmpUejlGTF9EeUNPb1JzV19kejdNcFpMVnp6aExfbU5wZU9vOGNTcFhhSjdyVkZEVjZlU3lDbUlmUFZoMW9GWFNvdm8?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Manhattan Associates Transforms Enterprise Selling with Enterprise Promise & Fulfill™ | MANH Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGpJZi1yR3RNdlZNUDdSQXh3UWVzSThrb0RTYjBzNHlnemt6c0t4YXp0aWRqVU1uYkFxUkJkZHRBMldUTXFNbXBvcS1tR2FrLW1IRGlNa3lYYXVxXzZOZGhfNW9jZkxBa2U1cFVuTC1HVVNRcmw5cU1LTllGam9qM0xnOWJsMVZDNzAzQ0pISmNSOVVtbW1EbkdGaXZ2eHVHQnUyOVhvZ0hQdGNzd1hvQkZ3c3dMUTFmcjgtUkxaeHRZbWNRNmpPZUEzODdsMjhLWVYzNDRR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Is Manhattan Associates (MANH) Stock Rocketing Higher Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2FJZGk2UWxURzRiaG90YzVtajNWa3JmWFhRRmZWZ3pCV190QmFDY0IzUE1JdjdqNjVxUXdRb1Nzck9uZktDdUtHQjUzaGZUY3BiMlJxSmdzeXR1TjdRd1BUQi1LTUZpRDQ3ci1jOUE5d0llZkRCeFFIWXJyaW03N2ZfRTRiMzFY?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GAMMA Investing LLC Raises Stock Holdings in Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEJNN0xMdHA2dTE4WkliZnAzdjhDVnB5ZjYxa0tTdWF1aXdLeXhPTmVodVVwX0pORVlkcWFzV2tZanBOYV9qcTRVc2Jpem5fNWx3RlM5OGxVdnQxOVNra1plUzY5Z3FzNUJocHZYZFhoUXFKcVI4V3F3c3F0Y2s1UkJVY1ZnUmxrX3h6RE0xdjljaUl1MEFJSmt0NzNVVndNd2lRc0FOVUtnZ09hWEdCOGl2M1h4bWZTSVpQUF9LQWpnd0U4MWhKTjJHR3NTcEJUZUpiVkkybVc?oc=5",
-        "label": "NEUTRAL"
+        "title": "Manhattan Associates, Inc. (MANH): Among the Worst Performing Software Stocks to Buy According to Analysts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODI4dkNZMWdEYVN0YmxfS1Y1OXhUTm9mZV9kajFMUzdjdkRfRmtlb3VUdkZyNk9UeEFGb0FmbzlVT3FVS0lBX2pzNzVmMGl1T252X3FPTGMyWm8zTmZJUHdoMHR5WDJadHFCQ1JpSlFhNFhPQU1aOFNBOEgtU295UUFEOVhFVm5i?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Manhattan Associates Announces Changes to Board of Directors - Stock Titan",
@@ -621,41 +631,31 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Manhattan Associates (NASDAQ:MANH) Is Posting Promising Earnings But The Good News Doesn’t Stop There - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdi12UG9RYVd4bTUydDRBLVBnRHphSmFPb2I5LUpnOFlSanhTM1h2aFRYQ2xoSDZpUWJTdGVnem4zaFl6d1RpZXIzQ3M0Mk03QkFOMGcyMXV4d01JbXU1b2RXTmRSeXhBeG9HVHVsQlY3OTZXc29wUElHQ01iOXVJeDNXRW45amZqMFhZblR4TQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "42,922 Shares in Manhattan Associates, Inc. (NASDAQ:MANH) Bought by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlNIS0NwSU5NS0N3N044WnZoZmRfdXJOV1FoYjduU09oZ0REYzhSeENiWVA0dHBfVmw4ZVNyN01kY2pqeTBwWWdrQmpKOE9DWVVjbjl1VmVIN3VleTlDTEtPdk5uODFuZ0RwOVBIQlM3Y1M2WkRIUm9fUTR0X2JVbER3bG4zTHBrT1dMV2ZWWjk4bWl1M3hSUTZZYi1aeWM4WHlSaEdaaE5ucDZBeVZrdzVPd09HVTJ5dm1nZ3NRbFRPcXBxVHAtSVJDdzZ3VmtqendEa3FuZDN5b25WeU9fTkxibUVmYUlSc0wxbFRyUjR1NjNkZlRjRFctZmhRSmVq?oc=5",
+        "title": "Merit Financial Group LLC Has $740,000 Stock Position in Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3JqRkxZM0lkcWhVSXRIaXI5MlQxTlo2VnZLVWlmTExtcHdDVnZZdUN4dWdXcWt4ZHJQd3R0WElKd1VOSWphYW5INUJFRjNjcDNWdTRTd3hsZDdNc3NIXy1LVEdycVRneG12Yk9NV3BjdEM2TG41aEVWVC15VWl3amR4VXM2aE5QejY1Tnk4SnZnX1RJc1NTSTRETVg3STVOLW5IbzVWYVZBQ0hlTkVqN3l4QXJxS19jT1BRMGFzeGtqY2VxZXRMbXRkZU00QnpwR09JU01JVGdWb0pETkJv?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Manhattan's New Shopify Integration Revolutionizes Enterprise Retail: Complete Omnichannel Solution Unveiled - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXFZX2FhS1lsN2ZXeDBCeDdscE4tOHVhcE03My0zOWVXbWZEbGpFeDk1WXdoVEN4XzlSdW8yQVp3N1dkMy1qNG13U3luUm9nQjhLS1B0SVFyUldFSzUxNUI4d1k1VzVEVTFheTdnYWw4QjBVdk1yal9uWWFxZnR5ZEVpWDFaNTcwMTIyWXhnQVdnZlVTUFdNcVZyWWh1WFNuR0NMcG13TlNlaDBvWDJJNnJHQ0c?oc=5",
+        "title": "Manhattan Associates (MANH) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3NRNWhBdVNjQWhKdy1UVUx1d1p6OFVkQzhTSmtpa0xzUWVZa1VzZjhXaGlxQmZ2bENNb3pvUXlhX0tvNnNUS1ZqZVRDNFZFVl95YXpPVUN0QVlPZEFLRmdsNEZsNU9NdmZpc1F1Q0R3ZTBSTDlUZHllemUyeWdiOFZrRGFKdmpKWFlmOQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Pallas Capital Advisors LLC Invests $708,000 in Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPal95MFZseG5KVUZsem8xaFpaSkg2SGhwanA0cHZiaGl6YnlKRElXNlAwLXNveDcybkwwaFVVV0JlUGFhZ05WeFVnVm9oNWR6N3RvWVZVN3lEaU5lUW9vcXZVbGJqdDdBZklWSklSbUNhN1dxdjFUT2JoLWVDN2o1cmUtZUtKWXA3RXRERThkMGVybFFtekpNdjN6UDdiNmgtREVBQzF0LXgwbjNTYW84OXVqUmMwVXlwQ00wdmNSbHZ3V1lseFdwazNVcGtPVW4ydDQ0dFliZnVadk1O?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Manhattan Associates Inc. (NASDAQ:MANH) the Best Growth Stock to Buy for the Next 3 Years? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pFcHBMNndvQWFFX0w0T2F2dy1kTkt2R21haFM4V2lWVzRYRk5LclVaY09hbWJBTHhqNDdpVUNBa2dja3l5T0E0WVVmZzJma2VSTHl6Wmp4Ukl3Ri0wOEdWbHFzdVF0Q3ZIVlBnWkg2Wm5lcWEzaUVjcDJ6NkZUSlk2VWdpd0xsZmc?oc=5",
-        "label": "NEUTRAL"
+        "title": "West Coast Financial LLC Trims Position in Manhattan Associates, Inc. (NASDAQ:MANH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR05ZejAzNlR4UmlBZ0RNT3UwWDlWTHR4UklwbGZNNUE0emF3WmJzMkxYUXpnejQxR3k0eUxfd0RWSi1KTzVmcVowOE02UkdPay1fQzNBQ2EwVTE4OFlOaFU2N0x3eEZ4N2hmNHN1b01icXNTMkdMQTBrUXkybEZrRnJ4cXp1Y05sQ3dSc1ROX3dnVXJNdGdpdkJpT29aTS1kUlJQeDVFWG8wU2YycTRLUFJoV2hBNFZhV3BIVHVsX3NnRGNRX2VoZzJ5dThqdmhhTEZiX3Bwelk5V1lxTVhvVGJFMk5McEdKejZZ?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Manhattan Associates, Inc. (NASDAQ:MANH) Shares Bought by Lifestyle Asset Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWVBR2NCOWNIQWtqMTlHY3pKUF9wTUE5WFNwTm1SMkt6YVNzdW9ZVXhpeVFYYjVEQ1k0M1hiZWhFZlBUM1JNeXRBX19pdkdmMktYSzNqTkZFWXFhYkd0Y3BJNjJ0dnlNUUxkMUhJMlFiek85QW9YUGxJdjNnbGlQdEUwQlB6WkR4TU1DVU9CaWdIbHVIb3RzODJXOHhJelhKN0prdXBJQjlVOExIUEI0d1JXelBiZzF0U1gtVUcxc3FmTlQ1b2ZZU3BpUERORjRaWGtlOWdtXzVkOHBG?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Manhattan Associates, Inc. (NASDAQ:MANH) Shares Sold by Rhumbline Advisers - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUExOMWhTNFFURWtWODd4cnFuUThNTloya2RLNjFSaFBRZnhCLXk3dmpCTG5pRjVodzNvbjVRcHFlR0RjS0pQb1hPX2ZITXAtTUJZUXVxV2cxaTdUQXVQbTlQWDRrRF9aaDJrUnhBc2NKNDl0MEdHVi02a2dvWHN3QWI2am5XbnVHSk1Mamh5Y21RSlh0Z0lOZUt2dmFHVGNZbWI4S18ydXAzcC00dFhROEdDbnM3UElIdWMyZXJrclJORVlSbDA2Z0FYUF90MVpf?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Manhattan Associates, Inc. (NASDAQ:MANH) Shares Sold by Wellington Management Group LLP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNam1UVjhjRUktakZwNXRqVEJDMi16WGl4cUo4OFlhZDJ6VV9OcmZPZnNvR2xmX3h5VmxOS01qOUlmd0tuaEpVbE1EZ0xNSXBOb0w3TVdyT3B2YU1fQlBSdFhseXVXRHBGYnNjM1lreDF5U2xFZjFVNzNpdHFsV3AxNTFMQ3BmRVVvZFRDdTBiY05mbXF0Z2ZRemNUaDdCN2FLWEk5N3JHN3RLN210WXFDMWk2MVdTNFhGcndaZXdua2lVVWxjMkVZbnFNbFlHUzBEM2lya1ZXMjMyM00?oc=5",
+        "title": "3 Reasons MANH is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBULU9ja1JjR09xc2YzY2ZJU0hwMHlHRm9taFMtRC1sbk9wSFF4ZnY4NDNSUzJIdDB0NUdxT3lLZEFYYTJSektTbU5Uc0JOQjQwSk1uelBGeTFFel9yZU9aVGxNZVRQS3R2N2E2NTk2ek1SR01pTkxR?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

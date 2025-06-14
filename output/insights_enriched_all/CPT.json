@@ -2,16 +2,16 @@
   "ticker": "CPT",
   "name": "Camden Property Trust",
   "sector": "Real Estate",
-  "market_cap": 12313079808.0,
+  "market_cap": 12338186240.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 105.73394,
-    "PB": 2.7187376,
-    "EV_Revenue": 10.337,
+    "PE": 105.94954,
+    "PB": 2.724281,
+    "EV_Revenue": 10.525,
     "ROE": 0.025999999,
     "ProfitMargin": 0.075679995,
     "GrossMargin": 0.61534,
-    "DividendYield": 3.63,
+    "DividendYield": 3.54,
     "DebtEquity": 79.752,
     "CurrentRatio": 0.036,
     "QuickRatio": 0.026,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.43979649197609644,
     "ROA": 0.02076,
     "PEG": null,
-    "EV_EBITDA": 18.208,
+    "EV_EBITDA": 18.539,
     "BuybackYield": null,
-    "PriceToFCF": 17.96675275077138
+    "PriceToFCF": 18.05616421959597
   },
   "technical_indicators": {
-    "RSI_14": 45.97472785142194,
-    "Momentum_10": 0.7648601296583571,
-    "MACD": 0.0624073570436252,
-    "BB_Percent": 0.265200021345848,
+    "RSI_14": 45.2963958705253,
+    "Momentum_10": -1.9150566353817544,
+    "MACD": 0.1926475688957509,
+    "BB_Percent": 0.2595843294933396,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9190579115671466,
+    "ValueScore": 0.8526400836392232,
     "QualityScore": 0.4008466034518757,
-    "SignalScore": 0.6028700129822073
+    "SignalScore": 0.6152183881487245
   },
-  "volatility": 0.0160255539316062,
+  "volatility": 0.0162003501766145,
   "beta": 0.802,
-  "return_6m": -0.0380102554174637,
+  "return_6m": -0.0221714185308653,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 130.0761
+    "target_mean_price": 130.03261
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 122.77
-      },
-      {
-        "date": "2024-12-10",
-        "price": 121.93
-      },
-      {
-        "date": "2024-12-11",
-        "price": 120.46
-      },
-      {
-        "date": "2024-12-12",
-        "price": 120.95
-      },
-      {
-        "date": "2024-12-13",
-        "price": 120.17
-      },
       {
         "date": "2024-12-16",
         "price": 120.36
@@ -537,37 +517,62 @@
       {
         "date": "2025-06-06",
         "price": 115.83
+      },
+      {
+        "date": "2025-06-09",
+        "price": 117.54
+      },
+      {
+        "date": "2025-06-10",
+        "price": 118.11
+      },
+      {
+        "date": "2025-06-11",
+        "price": 117.42
+      },
+      {
+        "date": "2025-06-12",
+        "price": 118.49
+      },
+      {
+        "date": "2025-06-13",
+        "price": 116.12
       }
     ],
     "current_price_data": {
-      "price": 115.83,
-      "change": 0.07,
-      "percent_change": 0.06
+      "price": 116.12,
+      "change": -2.37,
+      "percent_change": -2.0
     }
   },
   "news_sentiment": {
-    "summary": "Camden Property Trust a récemment mis à jour sa stratégie de croissance, avec un portefeuille de 60 000 unités prêt à s'étendre grâce à de nouveaux développements. L'entreprise a également obtenu une place de choix dans le classement des meilleurs lieux de travail de Fortune. Malgré des ajustements de prix cibles à la hausse par des analystes tels que Truist et Mizuho, des avis mitigés persistent avec des maintiens de position tels que celui de Piper Sandler. La performance financière solide de Camden Property Trust, surpassant les attentes de revenus au T1, renforce son attrait pour les investisseurs soucieux de l'immobilier.",
-    "sentiment_score": 0.1,
+    "summary": "Suite à une série d'analyses par des experts financiers et des ajustements de prix cibles par des institutions telles que Scotiabank et Truist Financial, Camden Property Trust (CPT) a récemment vu ses perspectives évaluées à la baisse, passant d'un prix cible de $144 à $136. Cependant, la société a mis à jour sa stratégie de croissance avec un pipeline de développement de nouvelles unités, ce qui pourrait stimuler son expansion future. Malgré ces ajustements, le stock de Camden Property Trust continue de susciter l'intérêt des investisseurs, notamment en raison de ses performances solides en termes de FFO et de sa reconnaissance dans les classements du secteur immobilier.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
     "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Is it Wise to Retain Camden Property Stock in Your Portfolio for Now? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbWJBS2hlUEtpeW94WFdNTHNVZ21udUpISV8yeGRQdmxnSWJEalFGNlQtRWs2NHlSemFlSWk5dW9ySXFhNFVnRktmbFNtYlJjQmJieWU5TXhQVmVTNmtLTVl6WFpGdHVBN09vZWdvSHR0RGNxRXk3RUVqLUFGNjRCbWtON0ZIWVc5aW80UDZscWtjNFFqakNUUmZldUN4a3gwZGZZTGNGdXh1RkdHdV9jMHJXU0d6cHItTTBsZDNSRWhXdW93QkhtdG9xeWE2bGpiRjljakZVTmhfQUNWUkxIQURLeVBMRmlu?oc=5",
+        "title": "Scotiabank Adjusts Price Target for Camden Prop Trust (CPT) | CPT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFZLdHcxNEFFVXlTb2I2M2I5V0plN1hmU2V1YXVrTGRhRGpLdElQd2dvb2hCZ3p5RjA2LWEzWE1YSHJGY0tLakhSQ2RNeVFkcG11MFlPYzRDWmhyOFB5TGV0emxPVWVZdUZWT0M0SU90eFZlZ1dTZlJUNUpqX0hkWTYzbWMtNnc5dnRlSWpQd1ItUHZHUGVEVm9uY3NPbVBlTVVWWERaN1pBTW5qRjRacA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is it Wise to Retain Camden Property Stock in Your Portfolio for Now? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR25JRjZhY21JLVpMbHFRTU1GczUyVWc1Ql9uUzFmLTU3TDZweHl1QnFvNlF1NEdreE5Sc1dWLWZDYlZWYmdlUlNuNVJuTk1EbnpuVkZfZlRYS3ZRYVVyUUxMcVZ1S2hXaXJCYXhpMzJiQTBXbkFzNjN4UjI4MjNhVEstbTRtRUpVdmlOUjJHWjlmZ08yakVheFJncEhXem5PbmpGVm1mVk5NM1hPYlJxWnlzdFo5UG5zZTFOY2FUNA?oc=5",
+        "title": "Camden Property (CPT) Price Target Reduced by Scotiabank | CPT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1VNOWtfOGtmMG0zdTVkNUdYTTZQd3dYYm1vN290TEg0Qnl1Y2NyeW55b2JFN0wwQ0tVWi1sajNtV2xPbm1iUlZYOEtnOXdDRVFNaWF4UWwwRklIZkN4cFZtVldvLTk4WnBZZWszNUtRS0lORVczUjFRaHZ1Tms4Mjl2OFZFOVgzUlgyQUxlRE96ckpuNWtYZG5FZFhTdHZVTGRybXl0SlVTc0VL?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is it Wise to Retain Camden Property Stock in Your Portfolio for Now? - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTJybG1ET1JHMUwwUFM4NVN1ZHZPM3F3NmIwMk0yU2taOFhsX2FxaG10anlNeE5hYUo5RkkzaFUzTkp6RGxTc0VIQWRzNF9Rb19IZF9mekhfdTFmRUMwNDhZV0FMQmx5c2VSaHBVYm5vckk2aWprR1drZXBzQzFZZ3lTMVM2VEpfWmc?oc=5",
+        "title": "Beyond The Numbers: 7 Analysts Discuss Camden Prop Trust Stock - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmtfVjhWTGZzVUJWR3c4NjE1Z3pTZ3JmR2lFc29TUVNZRzdaZWw0Yjc1RWRWZ0s5N1VkMjBVelhMYTc0WU5CTnB6d0dpb2lPVDZ1M0xqXzlmVnpYZW91SzhGUjFWT2FHVV9OYzVsUnc4bmdoUnUzRDBYMVAxSEpsSEJEQXMwTXF6MGxaX2c1SU5yRVBELWo2S1pucXpCMndFVmlXaUtVZndDN1lyNGVjaHQ3Snc4MjNDbjk4N1BFRlBVNk1z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Scotiabank Adjusts Price Target on Camden Property Trust to $136 From $144 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNHRuUHJpOGxPempuZnFGUWc5WU1ueWJGZFVhVHpLMHlhZWZDX01RLXhYc0E4OVg3UktxMklQZVRfRGtpYi1ldmtWN252cHBFQVhzV25KZDhKWFh6WGx2T19EUXZjZGI4ak5mb0dCMFBwRnhWalhyNWNvbDdrd21SYS1EVHRPNDhOWG0zSXJ0UVlCMFp1U1RHS3ZsYmRNWGpLSXdJaEdaVGZvSzl2V1JDZmVidEl0ak1pY0lXQmNHVzNpY20wbWlLejczeVljWE8tR01ZeC0xVGlCdTRXU0xTT2I4MHIzd0FXWldOckt0SQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,18 +586,28 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Camden Property Will Benefit From Falling Apartment Supply - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzJtUV9GWVFWdkVMcEZzUDBNT2VLa0tVbGllVFRwUDIyZy1jVnRGQTlEU0xBU1BIWjg1eGVkcmpYNHk0TEotMnVTckhPcDdsdHhjOFNhZFRkSXJLTjRxdGQwZ0RDMDZkOW9VNHNOUTNNNko2dkpWM0xqY2RKR2UyczhJek5WdU1DZnlfcTRTNTlEMUxOSGdvNjAybU5uRmJE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is it Wise to Retain Camden Property Stock in Your Portfolio for Now? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQXB5d3hnQkREVnBGYWpuSjdKV1lvVzczNzRiNTNNdXhTMks4QV9wZEFiMG93c0xzdFh6eVlzVTF3RUtCZ2tlZlFoYjZXcVRKTHJTdXZjYzJMcFl6NWo4TUJ0OXhlZE8wYWkwWUNhYVFMT2phSHloQXNvUXlKMHZrZUNuRm5CZWhhSzR1UTJqeDBSRkFMcHlpeWZkZEZWQXRhemhGaTgwbU5sdGJhSGZPcTVGMUdMcHBpdkFIaVZ1NkhETFg3WnBYLUdqWG9Jb2thT0VWQW1KbENlMjVpUnhtUC11LWQxYlJhWWlv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Is Camden Property Trust a Stock to Buy and Hold Forever? Here's Why It Could Be. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRk9wNUhyUGJEckVIQXpwMWF0dS1QODI5M2pwQ21GM2p3Vm0zWXNfZm5SbWlfb2xvZUxVdzNtbFhqcF9JeTd4RVNUYm9EcFRReXNOQ2RQYXVJYmpmSnk2cDJlUDdKSW56TlBZbXBPTEI5ZC03TXZRaGswbzFNRm1Gb1B4R2l4d3V4ZDBSZ2dYOXpBQUZKaGc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Truist Boosts Price Target for Camden Property (CPT) | CPT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUNIcFI5M041RXFaXzBJYmZQREhSQUN5RzgxSjljZkFrN2t4UDN2ajFjak1FQUFTRG9JNDNTeTd6dE1hc2hVVUF2YjY3Mkw1Zmp6bjNHYk4xLWFYanhrT3ZHRHQwYnF4U2dlaWRORGR1MWdXRXRrNDN0SkdTSVVNcXdSbG9UNHJGaWd6WlVETFctV19IbjNPYVh3MkJVX2tMWkw5SGFGOA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Camden Property Trust (CPT) Q1 2025 Earnings Call Highlights: Strong FFO Performance and Record ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTWhZX0hLclVyaUlaZnFzOUdBcHUwcnI0NENBMjZOS181VmFmTXJrb3d5S0ZwTDNiN3ZFNklCcE1Dc1pvTlk5SlBvT1BSaEg3dGZzdndGeDRDb1pDRU9lcmg3ak1LMHJaRG9LT2M4dVluUzZZUEwzd2t4OXJRb3c?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Camden Property Trust's Quarterly Earnings Preview: What You Need to Know - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1llbmFJaDlMUUd5dndidms2MVd4MFJ5WDdIaGR4UWs4V3dqcENkbVl2aUs1MDdBTkdsOW54emloWXRGcGtjREtYNXE5NmsxMC1TbTRJOC1sQ3h2ZkxRVGNPRlktanBxVmhKdUZhNl92eXNGUkxlaElEelI0QkpLZkw5UldBNHB5MlFaaFk5ZHQwSDRvdV9FVlFWU0xYZU9TWU51dDBGMnpwTVFVWmdoWVRvN1A3WmJBM28zU2dhQ24zMFB1MkxaT2czMA?oc=5",
+        "title": "Camden Property Trust Stock Sees RS Rating Improve - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGpIZVVsblJDemliWnZZRXNtamF3RlF3ajg4V0ZPQkJHWnZaTlljX2xPbmN2dXFrd2lfbTVtRUQ2N3hqcS1XZ2ZadmNxMWpKQ0ptN1dYcFRCLVlYT1NqSjVfeWdLbXBZU0dMSEtiaEhSbWlDV0tqRG5vOXhMMkhFVzkzcVJyaHl4N1E?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -601,24 +616,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Camden Property Trust to Participate in Nareit REITweek Conference | CPT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVdIRjFXa2dLbkp4SWZpQTEzTWtSUmtFSGM3a3p3SlJTbTQxOWlQVmppS1J2LVBwdG9fRVUyUVBMQXhhZkxJNlhPekFUV2dTMUZVWEpmR0JZR0k1ZExuMnhvLWtZWVV1b3ROYXFsNTlLREpZamxRejljNHZFV3E3SFpwMGRKdjBSX09lNjl6b2lkc29PcDNUWlVTbVdBdXF6M09fblhlMWpZTlVoSTRWLU9aOUd1VndlWXJBVw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Real Estate Giant Camden Clinches Top 20 Spot in Fortune's Elite Workplace Rankings - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnhxTWxBMF9zeTNXbmk0cFpVMjczUFhBOVFWREY5TmkzcldZajRvLV93SXhPZTRaYjJaV2cwal9Sc19FdEZ6UGdiZVBDaHVJbG4yak95QzdmMGdYXzBZLVFDeGdkdFYxdzlhVU96ZU5SNEhkNVp6cDA5dnI5dU5ja2J2VG45dFFySXRDTExMR1FpMjVLQ3lCVWNCMWVmTzhMcm8yaEpnUG9SSHJ2bnB0T3h5UThRRi1kZ2YyMg?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "If You Invested $10K In Camden Property Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkJ2UlZFNGlxUWVqX21RNFZpR3JEcDhRelM0QVk3V08xbDUxSnRkSmJfWTl2V2NsTFppSXZuZ01BUUI0ZmtDUW1qTGVRS2kxc1FWcUZoVU5yQWlGYkZRNnZha0piRXA4OU1XMXJqbXYwOVN6cTN4cVlVQzRRTDhtSU9yNUp2c0U?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Piper Sandler Reaffirms Their Hold Rating on Camden Property (CPT) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS1pmNkZ3c1pCV0VKQkltdnhuNnVERnllQ3NNN0pDWDhISFFqTnlCWFdrYmxrODhvQkhwc01kRnhEaktZaXNVSU9tbV9HMzU5Z1BTVjdJNmFKeWwyQVg1dHpqSWpycXRNRlFSa3JibXQ2eHdJX01YTU9UVnk1VWhnNEV6eEpETmFWcGdia05Ib1IwajZndlRSTWQtc0hWWUhRXy1fY2N3LU55eHdISjVhVVpwZlR3OE1Zb0h2Mk1SNFlaY29RSl83MFcwMjJYRGdoQ1lXMEUxbnEwXzlmNDdNM1lFSUxtQQ?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Camden Property Trust (CPT) Shares Cross 4% Yield Mark - Nasdaq",
@@ -626,8 +626,8 @@
         "label": "POSITIVE"
       },
       {
-        "title": "CPT Stock Update: Camden Prop Trust PT Raised by Scotiabank | CPT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam80d2dqdUpBRTNYVGs0Q2NHZF85YkhmZ2M5eGVzc01JQ2JUMjM0MVJyWlg2S2xaN1Fjd0I4VUk5ZHVvcEdNZWRCMTlTU3RQY3hISHY0c3R1a0JRUlRfUzFiamdBY0l0R0xYR1Ywc2FxWlV0V0hWbEFoenJuWlRjTFZvY2sydFpjYVFBZkJ5UjFmNGwzV2xjZzZXSWFOMlhZUkxmNkFCcHhseDZsb3pQenlB?oc=5",
+        "title": "Camden Property Trust to Participate in Nareit REITweek Conference | CPT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVdIRjFXa2dLbkp4SWZpQTEzTWtSUmtFSGM3a3p3SlJTbTQxOWlQVmppS1J2LVBwdG9fRVUyUVBMQXhhZkxJNlhPekFUV2dTMUZVWEpmR0JZR0k1ZExuMnhvLWtZWVV1b3ROYXFsNTlLREpZamxRejljNHZFV3E3SFpwMGRKdjBSX09lNjl6b2lkc29PcDNUWlVTbVdBdXF6M09fblhlMWpZTlVoSTRWLU9aOUd1VndlWXJBVw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -636,13 +636,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Major Real Estate Player Camden Property Trust Reveals Q1 2025 Earnings Date - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTlKS05NdEVwN0xpLWNXSnhrcXc2N1RzT3ZzYW16TTVNT3ZLZm9wYjhzMkxWWnJWR0NHTmxfX1IzdE1kay1qcjFRQXJWQnF1VUZTQUctT3plT29rOHFpUVlWNUotZDNLNTVwb0sxVjQyb3cxZEQyYURZTS15T3h1RUd6TzlKRFJpMWJSWUpMVWt3eEJaMnk0N2Q0blpmUjdDQ0FPREViT0NFMnVneGlJRXdGS2JianBZejJlZnlR?oc=5",
+        "title": "Truist Boosts Price Target for Camden Property (CPT) | CPT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUNIcFI5M041RXFaXzBJYmZQREhSQUN5RzgxSjljZkFrN2t4UDN2ajFjak1FQUFTRG9JNDNTeTd6dE1hc2hVVUF2YjY3Mkw1Zmp6bjNHYk4xLWFYanhrT3ZHRHQwYnF4U2dlaWRORGR1MWdXRXRrNDN0SkdTSVVNcXdSbG9UNHJGaWd6WlVETFctV19IbjNPYVh3MkJVX2tMWkw5SGFGOA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Mizuho Adjusts Price Target for Camden Prop Trust (CPT) to $122 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFExVVBpX1kwRzVNQ2h3VEVQejUtT3N2UDlmWUg2UUM3LVJUaWlDazFybjdDRDVHTVUzNUpPdEdoeG5uaXRwNVlKd1VOMGoxdW9NQ3hGblVMNGU3cWVVQTdwMHp3NUpCbHhCQnRBbTRJcWRiemhIeXZUYWdabHphb082UFltTTYwQ0RxaEN5ZWo3cXA2Z3FEQVFCWGVBSzdXbEs3UTJuaEVQZ2VsYjNTd2hWTlE?oc=5",
+        "title": "CPT Stock Update: Camden Prop Trust PT Raised by Scotiabank | CPT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam80d2dqdUpBRTNYVGs0Q2NHZF85YkhmZ2M5eGVzc01JQ2JUMjM0MVJyWlg2S2xaN1Fjd0I4VUk5ZHVvcEdNZWRCMTlTU3RQY3hISHY0c3R1a0JRUlRfUzFiamdBY0l0R0xYR1Ywc2FxWlV0V0hWbEFoenJuWlRjTFZvY2sydFpjYVFBZkJ5UjFmNGwzV2xjZzZXSWFOMlhZUkxmNkFCcHhseDZsb3pQenlB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -651,11 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Camden Property Trust (CPT) Beats Q1 Revenue Expectations | CPT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1NRlFpU1FacHFWYVZ5UjJ2V09mcTFKZ1BhM250b1puZjZHLURYN2ZmSmZ6QXJHMkx1N1ByX2Y3U09RRnlob1lxd1k3LVlYOG9kNmc0cFAzcUV3MHRCa1B3Y1NBTE5aTXVYX3JpWWxtWVlGRlBmUllCWS00QWpPTzRZRldWOE1CQlJsaktTeGxFRkpoUzlIVzVsTGlDMHRqQUllUVZYLWxyMGdRblE?oc=5",
+        "title": "Is It Wise To Retain Camden Property Stock In Your Portfolio For Now? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnR1VzlhaHBLMWFKLTVTaG1fMXVlbUp2clZsQmU2bnNod1pieGM2SFV3bXNPRHYyd3N4emtWSjMxNHJoR1RwTXoyRG9kQUJCMlZqNFJVZTJPRzlVZmVMb0J3eHdMU1dUMDNyTjZvdEE3QzVhNUxMd2JsM1ZCVGxVa2d5eEY3S1l4YlYtS081cnBxMFdxQTZCSVhEWmlsVjRmb0JPRm45Y1JPZFdrVy1fcUhnUQ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

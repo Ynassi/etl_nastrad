@@ -2,12 +2,12 @@
   "ticker": "WAT",
   "name": "Waters Corporation",
   "sector": "Health Care",
-  "market_cap": 20766593024.0,
+  "market_cap": 20425011200.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 31.695276,
-    "PB": 10.580147,
-    "EV_Revenue": 7.297,
+    "PE": 31.173933,
+    "PB": 10.406118,
+    "EV_Revenue": 7.362,
     "ROE": 0.40822,
     "ProfitMargin": 0.22024,
     "GrossMargin": 0.59266996,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.19737766846426413,
     "ROA": 0.11609,
     "PEG": null,
-    "EV_EBITDA": 20.975,
+    "EV_EBITDA": 21.161,
     "BuybackYield": null,
-    "PriceToFCF": 35.326321052385595
+    "PriceToFCF": 34.594111796948624
   },
   "technical_indicators": {
-    "RSI_14": 49.68367566443671,
-    "Momentum_10": 0.2109326428183018,
-    "MACD": 0.4839405709486755,
-    "BB_Percent": 0.3741569279621963,
+    "RSI_14": 45.58164741960796,
+    "Momentum_10": -1.8826542988506711,
+    "MACD": -0.5269686923959966,
+    "BB_Percent": 0.1093262545187172,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9266003835038656,
+    "ValueScore": 0.8695025250448719,
     "QualityScore": 0.3826243956571628,
-    "SignalScore": 0.588511869590622
+    "SignalScore": 0.6138636468352752
   },
-  "volatility": 0.0234873474379385,
+  "volatility": 0.0234811855717322,
   "beta": 1.117,
-  "return_6m": -0.0913552729338752,
+  "return_6m": -0.0926214845809831,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 392.01
-      },
-      {
-        "date": "2024-12-10",
-        "price": 390.35
-      },
-      {
-        "date": "2024-12-11",
-        "price": 385.27
-      },
-      {
-        "date": "2024-12-12",
-        "price": 383.03
-      },
-      {
-        "date": "2024-12-13",
-        "price": 378.26
-      },
       {
         "date": "2024-12-16",
         "price": 374.01
@@ -537,27 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 351.17
+      },
+      {
+        "date": "2025-06-09",
+        "price": 348.33
+      },
+      {
+        "date": "2025-06-10",
+        "price": 349.84
+      },
+      {
+        "date": "2025-06-11",
+        "price": 346.05
+      },
+      {
+        "date": "2025-06-12",
+        "price": 349.57
+      },
+      {
+        "date": "2025-06-13",
+        "price": 342.3
       }
     ],
     "current_price_data": {
-      "price": 351.17,
-      "change": 4.85,
-      "percent_change": 1.4
+      "price": 342.3,
+      "change": -7.27,
+      "percent_change": -2.08
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise Waters Corporation (WAT) a récemment fait l'objet de plusieurs annonces positives, notamment l'acquisition stratégique de Halo Labs pour étendre son portefeuille d'analyses biologiques dans un marché biotechnologique de 80 milliards de dollars. Cette expansion pourrait être un signal fort pour les investisseurs en quête de croissance à long terme. Cependant, des préoccupations persistent quant à la valorisation de l'entreprise, malgré une augmentation du cours de l'action de 3,88 % le 27 mai. La société a également attiré l'attention des investisseurs lors de conférences sectorielles, soulignant son engagement en matière d'innovation dans les instruments analytiques. Ces développements pourraient influencer favorablement le sentiment de marché à l'égard de Waters Corporation.",
-    "sentiment_score": 0.2,
+    "summary": "Waters Corporation, une entreprise axée sur l'analyse instrumentale, a récemment fait des vagues dans l'industrie biotechnologique en élargissant son portefeuille de tests de thérapies cellulaires. Cette expansion stratégique vise un marché biotech de 80 milliards de dollars. Bien que la société ait enregistré une augmentation significative de son cours de bourse et des performances financières solides, des préoccupations persistent quant à sa valorisation. Malgré des signaux positifs tels que le lancement de nouvelles colonnes de protéines améliorant le développement de médicaments, des ajustements à la baisse des objectifs de cours par certains analystes ont également été observés, contribuant à une volatilité récente des actions.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
+        "title": "Here's Why Waters (WAT) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03U1pPRThhbXVrZ0xId18yMm5nUl9jbDNvMDFaWnJ1aEw3Unh2Y0JFeExtaHlsQWRhOGNXRWI4VzFfdHJJdGNWSlRfSjJEVENDcy1WNHY1UHQ2dE5SVzdEeFBfdzRjeDNKUHhLRnQ2MDI3bkQzSTdUSkVRSUdIZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters Expands Cell Therapy Testing Portfolio: Strategic Halo Labs Acquisition Targets $80B Biotech Market - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlRJeVdEQVJDZkc0ajlMTGJsWlVBekNrcHp3WTBSbXhySDBQMDBnLWZXdjFzWDE1bUdIUVd2Rk11T0F6THA0VmI2X0pwTXcwcno3ajNRN05hVGFhOElPWjJTU2Z6eHhOWXh1OEJDLVQzdENObHh0bFM4WGFyVFFHd29mazl6X3pMUEpoekVuNTZNWWVpckFwbWNkVmpUbV9FN0wyWUJNNzVRVzhWcGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Analysts Think of Costco Stock Ahead of Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekZ1ZXZKbWN5WjR1XzFzNjhkRVBHbDFlR2oxb3R2T2RrNm1KNHRXZ0VIZ0FwZ1JGVWZmYmJpZXBKREUzOFRjUHMwSnFSdVVPblgtTlhoaXExWURwSDViNFczYnhGREtNTG44clR5LXpESWpZNmZtYklmOGFHWnlKcnhUWjYxeVM1UFA5R05RQ1ZsSnBGMGpxSTZqeVlxUEJZZnJVR1E1VThOTXBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Short Selling: 5 Steps for Shorting a Stock - NerdWallet",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ISUdWb3Qxdkp3YWwtMXhQNG9sbkhBdnVhZ3c3MGhDYUxzbE9lazJ1S2tuVUNtQjMwVmdqeHd3Z0pLOWczS2M0SjZGRkJUUTlySkZYSkxLSUg2aTczY2VXQTZUckhOOHJoQUQ4b0R3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters Corp (WAT) Stock Price Up 3.88% on May 27 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHJMTFFlR0E0cE9mcVMxMnVzX1VYNE5BNnI1TnRRaFVhVGM5UkJRejlNOHhBOEdPalEyc1VTakpyRnJpNGRoZmczcjMxREt4dVBEY2N6UG52dTN5ZWJoMlpTQlNsakQ5ak1Lb1FJMjlQZ0RnNzhvanlhNEZpM2FXME1FUXhNMGtOVzBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Waters Corporation: Instrument Replacement Cycle Momentum, But Valuation Is A Concern - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOTg1dnFvR3ZXc2JhSTFKZ0h4dFgyVDdGdmxILUFUcTJxSlZkTWJTYXpfN3NLZ2RZdlR0NzhJUUxpQzhCRFhoWmJLc2VXaTIycEFTSVBCWURsQUIzbWxZeEpqdHNYN29ncmVkcEgtZGd3SG1YaEhyLVNfeUpwOEF0MGlUd293b3Z5S2ZBWkx4Y0ZJQWgyclg1M2lqX21fVnpLX1UzV29VVUx6dFFqcEttSVp2Q1dieEZ6VkUwWkxB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters Corporation Stock: Is WAT Outperforming the Healthcare Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFZGUzhER3hsWjVyRTZmMUIxWER6TVRrSVVuTmpMRXl6UmxyMXlfQlpwQ2c0T1VoT1JGSjBnaG9HR2JaQ3FHcnlTZGZTdGRHZkptd0FZc2F2V0NJbUVqNXQ5c0NSMFNqTVJwVkZpNU1Cc25SVF9QYTc0aGFUZHdkX2RFQlFoMlJWTlNycHJzTGwzaXlXb2Ew?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Waters Corp. execs from Milford visited Wall Street on March 4. Here's what they did - Milford Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMGN5RC0zaWpOVjc1QTBhbTNDU1d1VUp5eWZldlpjUGhWQ0FOMF9DZU9WbENncXE4WUE2N3J6RFZCdDFuSm1hTTNNZ2JSRnNpRXJNSWxCLTNid3VMalJ4dXlzWkpIaXBnRk9tXzR5a2FZSVYtdnFDMHZiVVJ2WnRudjVqay13Z0xPc1V1ZFE0ZXRrOXFWREZPS1NvVTRURnpHVURfcU13bFdTaU90cEFCdkQxdFNEUURraHRXN1BqbGwyamhwUm1hQVhqUEdLckNBWmpGWU1GZm9rZWFDdFQtUFdiN3VRbV91RUhn?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,34 +606,9 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Waters Corp (WAT) Stock Price Up 3.88% on May 27 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHJMTFFlR0E0cE9mcVMxMnVzX1VYNE5BNnI1TnRRaFVhVGM5UkJRejlNOHhBOEdPalEyc1VTakpyRnJpNGRoZmczcjMxREt4dVBEY2N6UG52dTN5ZWJoMlpTQlNsakQ5ak1Lb1FJMjlQZ0RnNzhvanlhNEZpM2FXME1FUXhNMGtOVzBB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Waters Corporation Stock: Is WAT Outperforming the Healthcare Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFZGUzhER3hsWjVyRTZmMUIxWER6TVRrSVVuTmpMRXl6UmxyMXlfQlpwQ2c0T1VoT1JGSjBnaG9HR2JaQ3FHcnlTZGZTdGRHZkptd0FZc2F2V0NJbUVqNXQ5c0NSMFNqTVJwVkZpNU1Cc25SVF9QYTc0aGFUZHdkX2RFQlFoMlJWTlNycHJzTGwzaXlXb2Ew?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Waters Corporation: Instrument Replacement Cycle Momentum, But Valuation Is A Concern - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOTg1dnFvR3ZXc2JhSTFKZ0h4dFgyVDdGdmxILUFUcTJxSlZkTWJTYXpfN3NLZ2RZdlR0NzhJUUxpQzhCRFhoWmJLc2VXaTIycEFTSVBCWURsQUIzbWxZeEpqdHNYN29ncmVkcEgtZGd3SG1YaEhyLVNfeUpwOEF0MGlUd293b3Z5S2ZBWkx4Y0ZJQWgyclg1M2lqX21fVnpLX1UzV29VVUx6dFFqcEttSVp2Q1dieEZ6VkUwWkxB?oc=5",
+        "title": "SKU: What It Is and How It Works - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uaHRia1A3NmZYbGljeWplQVBQTTJYNGZrOC13dEFvdG1GY0RJdmtQcGhNRHJvNlRGUlpIZllSZUZESWZxWkNEMkt6NzlrY0Q5MmY3Y0xUTHJkYkR1Q0NkMVpPSVVEQ1NoRUNxVDlCQWo?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Waters Corp. execs from Milford visited Wall Street on March 4. Here's what they did - Milford Daily News",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMGN5RC0zaWpOVjc1QTBhbTNDU1d1VUp5eWZldlpjUGhWQ0FOMF9DZU9WbENncXE4WUE2N3J6RFZCdDFuSm1hTTNNZ2JSRnNpRXJNSWxCLTNid3VMalJ4dXlzWkpIaXBnRk9tXzR5a2FZSVYtdnFDMHZiVVJ2WnRudjVqay13Z0xPc1V1ZFE0ZXRrOXFWREZPS1NvVTRURnpHVURfcU13bFdTaU90cEFCdkQxdFNEUURraHRXN1BqbGwyamhwUm1hQVhqUEdLckNBWmpGWU1GZm9rZWFDdFQtUFdiN3VRbV91RUhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Analysts Think of Netflix Stock Ahead of Earnings - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWl6OGZtb0t2VFEwYW5qeUJpR1NNN1NwTmxpZ2trVHJnY0NtX2IySzdWb1NXVnJFUnRqMFU0dHNSZ2o1VGNwbTVMbXNOZHJFeThrUnB6MGdsVVRyenlranZPVVFBa1NMTzJtNVJFSVJham1sdFRMamROMFJJZVB6S1dHME1SOWlQalR6aTJvRGR3YzFTcGw0bnR0NXBPTHNONWFreVFlSEkxSG44aUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Plummeting stock, boycotts and flagging sales: What's fueling turmoil for Tesla? - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXY2U1hyek5ESl8xczJOMjhXQUVkSDNFTXAtb0dOcEJ0bXcwWkR3MlZtWUh5a0dfSDF5dWhydU16ZmQtUlpjcmpTMnlGVjNFdno4MkZyMExwVjVHTXdnTWsta3RHcGNNanJJYUprbzVPNWFWUFVXaEN1Qk5XcDBwNzlyWV95a2ZZN2dDYXlMR09EeEZKRTNqNHZFX2NaRjZ3Ymt3TEdZd21HSDFhYmRDb0xCaHNmVnVScTZZ0gFWQVVfeXFMTXJPRUp6OW5Vd0hsUG0wTWY3LTR3ZGl1cFdpZDBNanA0SmRENldxN2ZPUkJuZlFXXy1FMU4tUVJ5S0Utb2F1SWhweFhTZUVFcXRHd0lLQ3c?oc=5",
-        "label": "NEGATIVE"
       },
       {
         "title": "Top 20 Most Undervalued Stocks in the S&P 500: June 2025 - NerdWallet",
@@ -606,13 +616,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Waters Expands Cell Therapy Testing Portfolio: Strategic Halo Labs Acquisition Targets $80B Biotech Market - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlRJeVdEQVJDZkc0ajlMTGJsWlVBekNrcHp3WTBSbXhySDBQMDBnLWZXdjFzWDE1bUdIUVd2Rk11T0F6THA0VmI2X0pwTXcwcno3ajNRN05hVGFhOElPWjJTU2Z6eHhOWXh1OEJDLVQzdENObHh0bFM4WGFyVFFHd29mazl6X3pMUEpoekVuNTZNWWVpckFwbWNkVmpUbV9FN0wyWUJNNzVRVzhWcGc?oc=5",
+        "title": "Waters Corporation (WAT) Stock Surges Amid Strong Financial Performance - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmktUEVFV3kzOTl5NEMzSUJuVVA3VGJKalVobzdXYm5BMnV3QTA2SUl6NUN3a2FmSzFxMGVMeng1T21tYy0yU2taSUU0QXdrZVVPS0NaXzZCdmwteDRxV2hIa1lXTXg5cFhNY0NEY3hQeGpHTmpYSEtmcG14WE42SXB0Ty1GenNmY1RScEZJbHROTl9TcHdzWEdSdEJvdDlDb2RlU1V1UjBURVBM?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "What Makes Waters Corporation (WAT) a Lucrative Investment? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajYyRnZqMmo0eWM4dHIwZVJlT0M1T3V6ZWhySmhEQmlKYUliQTQ2MW1meEIzWmhIa1RpWTVGQjdpcmdrM1dZcEdvSjdKeDg5bThkeDhqYk1USW5CZ25pSXpZc2hrR252WFE1UzJPRmxXQkVwTVJxSElDQ3VjR1BCRUtkS2tFdUZaY2J4dw?oc=5",
+        "title": "Why Waters Corporation (WAT) Stock Is Nosediving - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnhrWHVCRVRSUFRHeVdBWVNFM0lEWkFEVmxvZjNnN1VGS0hhM2NDQ09TV1lyWXpKMDdWZS14RkVtMkZRclItU0xvUnNUU2ZTUDRXaFBPaXNLMkJmNlllNXVycEZsWXBTMUk2Z2NxTndadnF6ME9jcDRlekRoaURGYXUtenA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters CEO Brings Analytical Instruments Innovation to Jefferies Healthcare Conference 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWZCekM1bDRVblVWQ29MLVMzcENJdDBxdlBzSU5LQlhud0lqTkRWdFI1N2F2UmUyRXVac0NuSXR1eGJWTkNsdHBlZFlVVUU1UHh3ckp2R1A3SkhxQ09KaFBUSUpRbFFlY3FHRURSTUtJMDJKUzFtRXI1VXdYTWNKcEFFelE0VFVXNUdSU0V1WDVSZEJBZk53QkVpeHItcWJBeE5MQUU1ck1VMkRnMTlWQWE3bWtYV0ptQUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters Stock Leads S&P 500 Gains Friday as Earnings Top Estimates - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3JJYnM1VWlpS29EOE82NkNGZjE4UFFIUWFSeGNVRTBMRC1GMmU5R0ppWVIzZWRha0tyZ0cwQl9xZi1VeTlOTWxzU29RVnRscUZYaVVvS2x5UzV3U3c0RF9GSnR4TjR3R1lmNEE3ZXhZQk1oYV9sMUxsMEN5Y25VV0Jqbm5LNnpQRVo3WTFaTGZ2UXNSVDdWejJzLW50d1lXS1RTMEg1UlE0dw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,41 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Waters Corporation Stock Underperforming the Dow? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTndnWWRPNExHQlVkZ2pKcmhqY3Y5NjQ5aTRXVFM3T3FrNDd5T0w1QWhHaFhvR0Jxem9tSXFNXzYyVFBiVGlaeVRmQ2lxc1JlQWNoSDBsUC1lckZWUGtOZTdHM2pnWmJxbmVNUlhwUDY2RDJtNXlySlZ4dEJ0bXNkVmR3?oc=5",
+        "title": "Waters Corporation Q1 Earnings: Global Analytics Leader Sets Key Investor Date - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZxUTVTSDdHVWd2SEItSkxQcHpWWnVQYmhEaTN4T2xOdmNWX3FFVVI2Nmw1emltc3I5VWx1Umx0TGZzNldlNzdneldJSmE5MzN6Sk9xcEdiSUpKVHBWdFg5c0t5WVRTaS1tS3hjWTFhbXlpZjZUaVNfN0JxdUwzOHhfY0h2RS1aSkh2dTkybk9FNk8tTnhTemRUQk9TRGN1NGRSZXk3eXJZYU5kU2xKcmRjd0JUNW5fcGJ5UGFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Waters Corporation (WAT) a Lucrative Investment? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajYyRnZqMmo0eWM4dHIwZVJlT0M1T3V6ZWhySmhEQmlKYUliQTQ2MW1meEIzWmhIa1RpWTVGQjdpcmdrM1dZcEdvSjdKeDg5bThkeDhqYk1USW5CZ25pSXpZc2hrR252WFE1UzJPRmxXQkVwTVJxSElDQ3VjR1BCRUtkS2tFdUZaY2J4dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waters (WAT) Sees Price Target Reduction by Baird Ahead of Q1 Results | WAT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnFPbjlEcmw1WVVfSDBkdzlEQVdESThIdEFzdHJxVWpOaS1zN0pHaGZ4RVFnUE1NVTlCQTQ3RDE4Q3NJNVVSMnF5QjlqSmlpZFBUTXZqOVUwTDFlU0NyVHJLdTNIQ3luY0xkTmduTVNfblpia1VlQjg4eXhzMHYwbmwxem1TTDliTkRBNllWMTRsaF9ZUHVIcG1IbjBDcHZyX3k4M3VLa2pmclQwS0dZLXlhbzB0MWtVMFc0OElR?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Waters CEO Brings Analytical Instruments Innovation to Jefferies Healthcare Conference 2025 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWZCekM1bDRVblVWQ29MLVMzcENJdDBxdlBzSU5LQlhud0lqTkRWdFI1N2F2UmUyRXVac0NuSXR1eGJWTkNsdHBlZFlVVUU1UHh3ckp2R1A3SkhxQ09KaFBUSUpRbFFlY3FHRURSTUtJMDJKUzFtRXI1VXdYTWNKcEFFelE0VFVXNUdSU0V1WDVSZEJBZk53QkVpeHItcWJBeE5MQUU1ck1VMkRnMTlWQWE3bWtYV0ptQUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Waters (WAT) Sees Price Target Increase Amid Market Caution | WAT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTlJa0ZvTi1JcDN4WVJKSTRiNFJIWU1nbC1PS1FfdjQyNlR2MlRpcHdDNGNFS0RkOUxGWDhaMk1XWkVuYnFJeVFTNGR6cHFhbUtLN0hIRllEZHVEOGw1b2lSZHVWWTBHRUJTMFlsRE02QUViQUdxaDZiRmpkaWF1cFBZUmZ0UTEwdTd1Z1E2NFk1THFQNUZtQjhsN2R0Z2tuc1NCd1RDaTlkY19yYlI4Y2VR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Waters Corporation (WAT) Stock Surges Amid Strong Financial Perf - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmktUEVFV3kzOTl5NEMzSUJuVVA3VGJKalVobzdXYm5BMnV3QTA2SUl6NUN3a2FmSzFxMGVMeng1T21tYy0yU2taSUU0QXdrZVVPS0NaXzZCdmwteDRxV2hIa1lXTXg5cFhNY0NEY3hQeGpHTmpYSEtmcG14WE42SXB0Ty1GenNmY1RScEZJbHROTl9TcHdzWEdSdEJvdDlDb2RlU1V1UjBURVBM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Waters Breakthrough: 6-Month Validation Time Savings for Biopharma Quality Control Testing - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbE5MUTdkOVpqT3JsUUxNbVFDX0tWMUFmYWVNcmZLelUxWkZYS2NqV3FHbGhTWXdaNGFBVFJPdWJhYkp0QVJQT1ZwV0pUd2RBWXFFNUxYN1lqRzdVN0NoNS1ZU0ZIZ3h2VE5IYTZ5czVwc3d0VG90Szc0T3gza1JCbExnSGhmRjBRLWctN3htWERjV245NW5tZDJCOVJudHhaTWFseEZIV3F2djlvQW5GdlFwdzZDQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Waters (WAT) Enhances Capabilities with Acquisition of Halo Labs | WAT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1NQX2VRY19WZHZiRmg1Ylh3RW84M0sydzBiWHo5TzFoTTlnRjJ6Nmx1azEwSnEtb0k4VThteWJjWGF1ZlhialFGTjgxUEFYaGQwb0lZYXo5RTZqTVoxLUF3U1hYMjZGYXRqVjV1dHRVQXIxTGJ4dU1uZmN6b2Jyc0hFNEk4eU9hRmdIZjNfQ1JsdUpILUhEYVFmakJEQWVzNmtGWGxWaEQ3dy1HY2l0OU11YVdlQjFX?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Waters Corporation to Present at the Jefferies Global Healthcare Conference | WAT Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblc0cFhvNFRnODBQR2FZb1JXb0RKeVRmaHQ0dGZZZG9iaWJWUTdOVkpaY0x5dkxDdzliTDNxejc0U3FFcG9qdEdmNW9lQmhCWG81QURFdnpLTWNzSzhNR3lPWmhDTWhUTVpYVHc5OXk5YVJfZGVXVkQ0b1huNkpFZks2V0FFcHBtVXBXRUswV3RMeE1IMjdBZjJVTzl1dUdQNjh1WS1Vdi1fZVpUV0FYWnhuREczMFRPUVpQeV9PZlRKNEpwS1V3LTRn?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

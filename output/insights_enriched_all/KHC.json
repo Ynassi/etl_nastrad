@@ -2,16 +2,16 @@
   "ticker": "KHC",
   "name": "Kraft Heinz",
   "sector": "Consumer Staples",
-  "market_cap": 31559094272.0,
+  "market_cap": 30943653888.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.175799,
-    "PB": 0.6415562,
-    "EV_Revenue": 1.984,
+    "PE": 11.938356,
+    "PB": 0.62904507,
+    "EV_Revenue": 1.977,
     "ROE": 0.0535,
     "ProfitMargin": 0.10439,
     "GrossMargin": 0.34576,
-    "DividendYield": 6.01,
+    "DividendYield": 6.05,
     "DebtEquity": 43.55,
     "CurrentRatio": 1.307,
     "QuickRatio": 0.697,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.0906512992850842,
     "ROA": 0.037520003,
     "PEG": null,
-    "EV_EBITDA": 7.924,
+    "EV_EBITDA": 7.894,
     "BuybackYield": null,
-    "PriceToFCF": 13.686431836744482
+    "PriceToFCF": 13.387572410037897
   },
   "technical_indicators": {
-    "RSI_14": 42.56074440801725,
-    "Momentum_10": 2.0944037432039693,
-    "MACD": -0.4240360319589733,
-    "BB_Percent": 0.4224904277392615,
+    "RSI_14": 37.8772839840229,
+    "Momentum_10": -2.0389079148048075,
+    "MACD": -0.3684198522406987,
+    "BB_Percent": 0.248890488170941,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9345928175200424,
+    "ValueScore": 0.8929464217685243,
     "QualityScore": 0.43142621670516,
-    "SignalScore": 0.6088042203522064
+    "SignalScore": 0.6509643630454656
   },
-  "volatility": 0.0167596325435583,
+  "volatility": 0.0165477054990175,
   "beta": 0.231,
-  "return_6m": -0.1101503207118522,
+  "return_6m": -0.1517318673884505,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
-    "target_mean_price": 31.66364
+    "target_mean_price": 31.48182
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 31.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 31.59
-      },
-      {
-        "date": "2024-12-11",
-        "price": 31.29
-      },
-      {
-        "date": "2024-12-12",
-        "price": 31.55
-      },
-      {
-        "date": "2024-12-13",
-        "price": 31.69
-      },
       {
         "date": "2024-12-16",
         "price": 30.97
@@ -537,27 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 26.73
+      },
+      {
+        "date": "2025-06-09",
+        "price": 26.48
+      },
+      {
+        "date": "2025-06-10",
+        "price": 26.59
+      },
+      {
+        "date": "2025-06-11",
+        "price": 26.42
+      },
+      {
+        "date": "2025-06-12",
+        "price": 26.46
+      },
+      {
+        "date": "2025-06-13",
+        "price": 26.08
       }
     ],
     "current_price_data": {
-      "price": 26.73,
-      "change": 0.11,
-      "percent_change": 0.41
+      "price": 26.08,
+      "change": -0.38,
+      "percent_change": -1.44
     }
   },
   "news_sentiment": {
-    "summary": "Kraft Heinz (KHC) traverse une période de volatilité, touchant un plus bas sur 52 semaines à 27,13 $. Des spéculations entourent la vente potentielle d'actions par Warren Buffett, tandis que la société envisage des opportunités de fusion-acquisition après le retrait de Berkshire Hathaway du conseil d'administration. Malgré son attractivité en termes de valorisation, l'incertitude persistante et les changements au sein de la direction ont entraîné des fluctuations importantes du cours de l'action, suscitant des interrogations sur son potentiel de dividende et son attrait pour les investisseurs.",
+    "summary": "Kraft Heinz (KHC) fait face à des défis persistants, avec des baisses de cours touchant des creux de 52 semaines face à un secteur de la grande consommation en difficulté. Les spéculations autour d'une possible vente de titres par Warren Buffett ont également pesé sur le sentiment des investisseurs. Malgré cela, l'entreprise explore des transactions pour stimuler la valeur actionnariale, tandis que des analystes réduisent leurs objectifs de prix, soulignant des incertitudes à court terme. Les investisseurs doivent peser entre la promesse de dividendes attrayants et la perception actuelle de l'action comme un piège à valeur.",
     "sentiment_score": -0.15,
     "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Kraft Heinz (KHC) Stock Moves -0.26%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uVVFEb09UY28yLWc1MEtQeDRCb3VyTWF4czFMa29jek1YQU90MWQ1LTJQR2lKN2t3ZUdjZ2xSOW5WSV90QWFpMUVRalVUNmtBT2NQLWs3QUxKS1UwNlhoWWlsTHZzczBOS2VFSjhuMEhBbmFKaG1fSkVGaU0tdw?oc=5",
+        "title": "Kraft Heinz Stock: Is KHC Underperforming the Consumer Staples Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUlXZ2tlM0IydG9WeWZkTzZ5Zm96MDczd3lpdVpsN0ZsUU1SX2hRNGlCUkQ1WkQzTTluMHpKbVRlWjhtR2tNcGdpZERSOXpPeGpsOWZDa0dEQjBBSzNjUFItZ0JlbWN1Q28xUDVweURrdHZvcUdyT0RaejdtTWxfcU5lYzQxeXlPMVd6Mkpyam5JT0pKQTJwaFJCYlVVNEd3T0dzaXFwcEg0endhM0hjRlpyMFRncjJGZHdqYV9wQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kraft Heinz (KHC) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDd5aDI4b0hpa2lPdDljYWxzOVhoWC10OFpfVTVtM3JWemI4ekdlS2xqQ3V4dFB3eGFGdkNPS25RN3lYTlFBaE1kSXFORGtUMl9qczBaMTVGQ20yUy16X2ZmVlN2WXVJUWNYbG1jdWNnRGY2bU9mVHlDZVgyUGU3VDdB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kraft Heinz Considers Potential Transactions to Lift Shareholder Value - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0N6Nm53STh0eTVkRk45Y2lCQzE2ODJZU05IMlc4THhvMnF2LUpGUUVHblhNYjNndXRPTzIyTk9Nb3Z2MHdYbXVOU25mUzlYMlJPWENaOV9ySDRiWE5nNjVaUEc4X2VpdXU3eDhrdDFEZDJQUHdhMHhuZlRDTEk3Ti1tWTA5Wm5NLTRpQ0VvODRJazJOZzBrXzFGVE9abm5JVkdJT3U4bElrRHVz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Kraft Heinz Stock: Is KHC Underperforming the Consumer Staples Sector? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUzJDVmlXRTFrU3NOLW55V09CYzJFbHNsX3lJUlQxb3pZMUNxVm00Nzlocmw4RzQ3X2s4eW5aTUMtMDU3VGYxeHBucTVmUVQ2RDM2N2d4anRsTGtVU251RGJCS0M3bFpITE9yOXBER0hqUWhqOWhBNUF2MWs0VVRCbC16UVpBZ3ZzMk1Ob0NQREhzZGw5ZzhoSzBoYUxPbTU2dHEwVms1eW5MazRBUWtoLTFDcHNwR2VtUWI4MHhCRHNKMDJkM1VyeHlLZVVNUUdreUNtVG8yTHpXNnN3ZmV5dUptZGdyWVdic3Rj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal96UjJpRWFYclJOaDMxaDZqUDl6OGtZUWNWYUtRU3RvcDJxLVJTMDlaUnhDdDdTc1JCQnk5Y1phQzdrZGdwY3gycnVoYm50VDE1TFpXNGRoTVFla0Y3c0x0ZnNmUVZPaU9nRmtUaER6T2pMS2JIbjRFdGpMY3NTSG5nTWZrbVNtdVpKd1RFeWhvUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KHC: Mizuho Lowers Price Target for Kraft Heinz | KHC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGJEd3A1V0JPZjZxZmQtcW5faU5SOXZCSV9XdFZrNGQybW5PbWlFaTYzVXQ2ZXNWcy0wNUFwZ3E2cnVDb09EQy1nUEpQLVNxbWpMRFN5djNXaDBYcnlNalduLU5XQlJvLUN3cmpqMjZObnZQelBBNkh5UW1adzU2d21CY3pjNnBDcnpwTVZkRjIzck1oUV9BNnhObjBKUWp2X0c0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philadelphia Takes On Blue Cheese: New Cream Cheese Stuffed Olives Revolutionize the Dirty Martini - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2F3Z2lqdjBjbm5PRXpnVlZycnUwZUV0ZHNFN2EwZ0dJTEt2Qmx5Q0c1Tm1NeDNHTFRLLUlhekVpalpLc0RyTmc1VDBHTVA3T0FDUXFJcS1YNDlleXlGMnktTWhCbVRnWktFUVBOTWVGMWFhbS1fYnlhOGprRUp5MmVQSVlWVjZtR3N3YUdfcVZ6R0o4R1cyZjd4dUw1dEsybWZKa0dZaHdOU3ZYMDV1cGNseXBCelZ5NjA4ZVJqdw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -566,18 +596,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Kraft Heinz Mulls Deals After Berkshire Hathaway Exits Board - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEZTX2tXaV85czM2UUhnYklKdzBBbWJwWWgtZExSWmh2WG9BZzZoUkpMSU5SMWNEZ3NRLUd3cXNtdVBwOVhQa3kzMENna2d1Y0tfS0E0SmktZ1VKaXg3UzFBUGRVVkY5RTRvNlFiYWxWcUJZRE1TcnhBLWxKcFJXNmc1am5yTWZ5S21Nc0FXN29JWTNQSGQwTWFpTWE4ZTFZYjU4MEFXcUpWRnVDek16dA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Lowers Holdings in The Kraft Heinz Company (NASDAQ:KHC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1Fka3BOMEUwODByRG45b0tXd3VmaE95Qm9icXRwejdyM0tLUmxKcEMxVEY1VEZwRmRMcG4wRTNzeFRJSFJkRHNwWXFGSDhHR0thQ3JaQ1lMbHJCOG9kZ1cydlNXeHhEajdlQjBjYi1zZDVkUXVlY1JIekp3Sk9JSjJ6UzBvc2REOUJBZHAwdHdJVHZUUU0zUm9CTXlMWmk1U2cxTUJrLUR5Y2g3T1VveEFZek9tbDVkSWc1UU1vN0ZkV0QwME9zYWx5VmdQY3ljM1E?oc=5",
+        "title": "KHC stock touches 52-week low at $27.13 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWFpWjhBVHAtc2xCZWxaWEJvVWZOa1RMZF9wcW91UGpNVEtKR2o2MzRqcEhEZHVzbUF1LUlmVW5ISU9oVkRTVWV0b1g4dS12UFpqQ1lQUWJ6c01sLVlfLVpNM2txT0lxUVF6QUc4SXBhUE94ZmdtRlJrYnJWUXBheUdjeHFPWFh1MWhKQ3VvUjFFZkoteFRfWjBldlFkZWdlRXc1VkNkcW4tNUwwQ0t5V1VDNm1lWnM?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Kraft Heinz's Stock Is as Cheap as It's Been Since 2020. 1 Thing to Know Before You Buy. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Gc1dEUHVoY2dEbF9KYnVqQWFNQWRXZHhGRzBWY0xaLVZ5UWNWeG9zeFNyS1p2OTJjeTBmTkpBTU5EM1B3aFlEU3dyeEQ5Y3NWc2I3R3ZaX3luWWFKc0VLYU9ndHZNYkRydUw5WV9YS2FfS1o5c1NkdThn?oc=5",
+        "title": "(KHC) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUE0RVljUXNKRkhHWmZodUxGckY1SVRtZTNYaDdOV1JKSEJjMjdZc2s5THlxSjVBLXhuYkVOMXBFZmpZUU4zdHFHV3pyNUJ5VEEweHhfZzNvaFJWb1FjaXZhR1h1dGZ3VjltdHZCVXY1cGR0RUtCN3dpS2FGcjJScUhjTFZGYzdZR1R4bTUzZC1CaTcxb1RPVjI3d3ZfWkE?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -586,33 +611,23 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "KHC stock touches 52-week low at $27.13 amid market challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWFpWjhBVHAtc2xCZWxaWEJvVWZOa1RMZF9wcW91UGpNVEtKR2o2MzRqcEhEZHVzbUF1LUlmVW5ISU9oVkRTVWV0b1g4dS12UFpqQ1lQUWJ6c01sLVlfLVpNM2txT0lxUVF6QUc4SXBhUE94ZmdtRlJrYnJWUXBheUdjeHFPWFh1MWhKQ3VvUjFFZkoteFRfWjBldlFkZWdlRXc1VkNkcW4tNUwwQ0t5V1VDNm1lWnM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Kraft Heinz Company (KHC) the Best Stock to Buy According to Billionaire Warren Buffett? - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEtuc0l1bTdFdUpaeXc0TE5RRU05c1JYQ0pDUURZT21sanlfTE9DVUEtd0NFWDh1THlpc3RmRFhic0RqZlliLXd6UXR4UkZoTnhnTVlyLVJfZG1sNmRUcWdaMGhncmRaLTY3ek04NU50a093S3cxQjNsQmNlSUZvWkZYSjhfeEdOYVlwYU9VbERWLXpEUWhFRzhQVG5iN2t2Y3ZTUEFBNHhUNnVRYzFwQVZTbXBsMG9HVzF6Skp1T2xFbHJjVFBFRWpzUVHSAdQBQVVfeXFMTWo0U1lkNW9FMDNrSkh4WktYWm16dWxvUG1aUGk2Y0dHaFViX0NFR3poSDFsWFZqaThNSS0yNkIxVFkwaU9xZVVodlJZVVU2NGtGMFl3bm5qYi1seDlrUzVhRjEwNjFzU2NyVm90ZndVRnJxTTBxV1lDV2FIWHRyTElnN0JBQktaSWpWamxqLS0xSW11X2NFdlhDcjhjVmZQcWcxYUxhM05KM0M3ZWtZWWJULVJ6SkFMNU9yZThrc000Q3VzYmMzc1AzVW40SlRKb2NOdW4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal96UjJpRWFYclJOaDMxaDZqUDl6OGtZUWNWYUtRU3RvcDJxLVJTMDlaUnhDdDdTc1JCQnk5Y1phQzdrZGdwY3gycnVoYm50VDE1TFpXNGRoTVFla0Y3c0x0ZnNmUVZPaU9nRmtUaER6T2pMS2JIbjRFdGpMY3NTSG5nTWZrbVNtdVpKd1RFeWhvUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kraft Heinz looking at M&A opportunities; Berkshire Hathaway leaves board - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnRRNzVMcjliWE1Udkl3anN4YVNuVm9oQlFMdWFiakRUc3hfWkRjQS1KVVdJaG1qWmpjTUZtSWloRlNBa2YzN3ZEaDIzSVBpeHZvR0FKYjJWQkwxM184b2M0VTZxTXg1Umx3OG1tVkhQWk5tS3lhdVJpVWZaaXo5eV9scU9pUzlJQ0diUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Best Stock to Buy Right Now: Coca-Cola vs. Kraft Heinz - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelUxMHdqSlRWbGE2WkdTbENvcWZpeUM2S1BERHAwNEN6YWN3SHJ2MkF5SDZTbWNFbzZVWnhwOXBGNTZDT1o5QkdNczVDQXVQXzVFQV9LRzB2TllpMGxSZWpVZGprc0VzVWtLLWR6a3A2OTVGVjBzbVU1aHRBUFViZkRsd0VUTlhoWTVTOHJiMktTNEtzekZsdQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "9,811 Shares in The Kraft Heinz Company (NASDAQ:KHC) Acquired by Kera Capital Partners Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmlrcGxQcE5YOGxpUWFpRjlYeUtUanVfM01jTW8ybl91NGVtaERMREhQdzZmSzg0NmdBRHI3aGs5QUxZZHdMRlp5ZWpqTEEwT3kxNWRzOHZhdjRHUmlNMVJvZ3E0TnU3YW56S3kycWdJdTRjamp6Rm5tVTdSS0Z4OTNValFTdDhRSHpsMnN3LXUtUXAxeVVMY0hydHJxUXY5WDdqamVqS2ZQUzJLUmgwelZOZjNaUDd3Sm10Z1Jwb3lpNzU4c096X3VVRDJ5NUN1clI4RmE2RTE0VE5faWc?oc=5",
+        "title": "This Dividend Stock Yielding 6% Trades Near COVID-19 Lows: Time To Buy? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVVmR3hjQ2dPS1l6X2R2OWRsT0RlYjRxdjhXZ054aGV1R0dMUnJmUDRkNzFPa2pWbmN1S2c5UlVLVldwcm9EMXlWMnlWUkMwVm1vMXYxT3lhYmlDcThBb2lxckVNekMxWVRQUnYzT1FtWjdTby0xUHI1N0lkS3ZHeUFJc2ZpQXo0b01reDM2NUJTbFBXTGhQU3ZnQzZXcnBFel84NmRFQnZseXVYT1EwTm00TQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KHC Stock Price Target Lowered as Challenges Persist | KHC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGt1bktjY0lZRXhTdWVYcnVYcVZ4M3NBYkdYOFJBTHRUTmNUalhJTmpNc3NQTmpPRVY4bGFLakU3QjFzMV9vU1RhdzRPNTFkOTRteHBoS2lrdUtZRHowNTk4NXZGWnlRQjJ6Rkk5aGNVUmQ5OTRPQVVqLU5YMnI1VFdxUDJsZFEzNERfRmU2Y29VRVI1dXZEMzJnVkVTdkI4YTVfVDVkQVowQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn From Warren Buffett's Mistake. Buy This High-Yield Stock While It Is Out of Favor on Wall Street. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWFZc0VIMVNuMjVUTXdBTDhHYUhxTFcza0FGMmJpOWtwei1qMm9jSm1qZlpOUnVsT29ILU5Rcmh4ZHdRQ2pKZE8zVi1kWENhaVlEakJvUWpOVU5aSGZYd1Z4NGZwdk4zNWd5NlpHRjB6UkkwX2JpVmpTbEtoeVhDSVdHSE1qZmppdFdpT2lPN1I0ZzROTHpjcQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -621,18 +636,13 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Learn From Warren Buffett's Mistake. Buy This High-Yield Stock While It Is Out of Favor on Wall Street. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWFZc0VIMVNuMjVUTXdBTDhHYUhxTFcza0FGMmJpOWtwei1qMm9jSm1qZlpOUnVsT29ILU5Rcmh4ZHdRQ2pKZE8zVi1kWENhaVlEakJvUWpOVU5aSGZYd1Z4NGZwdk4zNWd5NlpHRjB6UkkwX2JpVmpTbEtoeVhDSVdHSE1qZmppdFdpT2lPN1I0ZzROTHpjcQ?oc=5",
-        "label": "NEUTRAL"
+        "title": "Kraft Heinz (KHC) Target Price Lowered by Goldman Sachs Analyst | KHC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTlweVh2cDdqcWgwUjZkb25HNFZkcWVjbXQxVko2TElneWFlVnhuSWRUVXFabW9CZ1hVWi1oaExJUFJYdjB0eUpnd2V0ZDVKLXRFbC1JcDNMXzI5dU5KMHZGczdNd1VodUZiQy1hUDlZS3lJU0tEMExGeVdBVHNodWZNMThpbXZtOGE2T2JNcDBuRFh1bkFEdGk2bzI2blBSQmRlQUtKaWlpUVRlUGhuQ1JTNUxZVWsyUHJfQ1Z0aUkzX2J4SUFQaHAyQzgyR2JkSTRwWUZnN0NhX1NuOS1rMW1RYm5Ldw?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "The Kraft Heinz Company (NASDAQ:KHC) Shares Bought by Siemens Fonds Invest GmbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVdoakYtQU5zSURBNGhQRmFfNHhQM0M0ckVjZlNWLXRzWXNaX0lvN2tfVkZlTkFOSllVY3l6QzdNVWJyNHB3R1JyUVNva0FUMVpyRU9LS1dvM3VPV3pqYUZfeGtNc3BnYW5ISHloQjV6NHVSWkhNSWRlaXpPM1lmYk8wQ3lXd1lhenRKNnBsaG9oeTR2QkJnemlWWDZvTk5uR1NSUWVoVV9tSW8yeXZWVC05dDFpWXloZlVEUHRQaGhkdU9GZ3otVS14czQ0emlCN3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is The Kraft Heinz Company (KHC) the Best Packaged Food Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xNU1PeklvbHNTU2JyQkpiY3VDbEVRVmVaR21HYVlzbGF2Y1R1WTFacDU0OUlab0JDZlpKMnJPTTdCUC1TUThHMElycVRnemZJemNlNjBMZHJSNjBGbzVDUDhUZ2VKSEZlblJLNl92LXZFUk14a0RsNEdKUU1UdjQ?oc=5",
+        "title": "Kraft Heinz (KHC) Stock Moves -0.26%: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXJaXzFiem1KLVdrWW14V2dKNEUwZ0tRa0NWMkFYY2lzSVl4S1BLTU5XZGZDZi0zMVNXaDhCQXhER1o3MTJXWGtGTjFIV2puNTlYWnQxUFBUVTZSa1YzazB4N0hpWE82VDZhcHRhTXg4SVo4M1JLZjhzS1BwUzczdTl2NGZSbm1YTHhHTjhrblE2cl8waVZSNHNDN0tGcnFQWk1XOWhGNzNFUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -641,21 +651,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Kraft Heinz Company (KHC) the Best Food Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5veUI2czBySWRfTDZjcDlZdDFYazNJZUdqZVBsUG5tR0R5X2F3MmN2WHl2VFNGNTRhVk1NejhJTVNJX3RzdVpFWFRqOWFvOWYyclRiTDgtb2NUMEFQeTBZVVZOSGQ3Rld3X0dvTEFxMkF2SjdZaTJkamlzOUVUY0U?oc=5",
+        "title": "Kraft Heinz's Stock Is as Cheap as It's Been Since 2020. 1 Thing to Know Before You Buy. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Gc1dEUHVoY2dEbF9KYnVqQWFNQWRXZHhGRzBWY0xaLVZ5UWNWeG9zeFNyS1p2OTJjeTBmTkpBTU5EM1B3aFlEU3dyeEQ5Y3NWc2I3R3ZaX3luWWFKc0VLYU9ndHZNYkRydUw5WV9YS2FfS1o5c1NkdThn?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "Kraft Heinz (KHC) Stock Dips Amid M&A Speculation and Board Changes - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnAydUFFdHVrTVlJVl9jbUxLZTNSRDdnb2FadXlDSW1IcGU0NkowSE9hQkRDVTcwSVgzdkF5c2JVdC1IR2gyU3JyY2YxMDFIV0xRZ1F2Y2sxNVI3RGEtZVd2dExLbXg5WWhLYWNuOEdpODEwdkk5VWdJTnZUZk5ROF8yUDJkZHc4RXduT2FTS0dXVjNQQXZhN2VHYlVNY0xMaUt6VmxR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "3 Stocks Under $50 Skating on Thin Ice - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Xai1zeHFkUkFoVjVmM0VuZHNXUmEyYVZod2NkTWJBeG1wLS01VlBNbnJJOTNkWlpBeWVaZmVBNEd3ZHhjanhqUklRQTRrM05vVlZqT243ZzFkZjdtRk5DM2lsSV9iM3ljWEVPeVNSUHBFWTdtTE1BMzZRYw?oc=5",
-        "label": "NEGATIVE"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

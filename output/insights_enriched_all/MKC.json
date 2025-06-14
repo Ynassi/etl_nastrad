@@ -2,16 +2,16 @@
   "ticker": "MKC",
   "name": "McCormick & Company",
   "sector": "Consumer Staples",
-  "market_cap": 19814637568.0,
+  "market_cap": 19948290048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.47931,
-    "PB": 3.6541219,
-    "EV_Revenue": 3.536,
+    "PE": 25.651552,
+    "PB": 3.678824,
+    "EV_Revenue": 3.652,
     "ROE": 0.14659001,
     "ProfitMargin": 0.11667,
     "GrossMargin": 0.38589,
-    "DividendYield": 2.47,
+    "DividendYield": 2.37,
     "DebtEquity": 79.045,
     "CurrentRatio": 0.649,
     "QuickRatio": 0.2,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07954359573730399,
     "ROA": 0.05165,
     "PEG": null,
-    "EV_EBITDA": 18.87,
+    "EV_EBITDA": 19.487,
     "BuybackYield": null,
-    "PriceToFCF": 37.14350976225803
+    "PriceToFCF": 37.092838937455234
   },
   "technical_indicators": {
-    "RSI_14": 50.03202563671693,
-    "Momentum_10": 3.6530689189732817,
-    "MACD": -0.6600340828293128,
-    "BB_Percent": 0.5699179909498039,
+    "RSI_14": 50.333540391137646,
+    "Momentum_10": 2.3236556221753646,
+    "MACD": 0.0597452708112058,
+    "BB_Percent": 0.6442287688670978,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9310873603090004,
+    "ValueScore": 0.8844907434098378,
     "QualityScore": 0.3895557604658179,
-    "SignalScore": 0.5562718088211425
+    "SignalScore": 0.5688036735246278
   },
-  "volatility": 0.0158256572870544,
+  "volatility": 0.0155391010252197,
   "beta": 0.679,
-  "return_6m": -0.0353019995979806,
+  "return_6m": -0.0656714364112682,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 82.674
+    "target_mean_price": 82.34067
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 79.97
-      },
-      {
-        "date": "2024-12-10",
-        "price": 81.94
-      },
-      {
-        "date": "2024-12-11",
-        "price": 81.36
-      },
-      {
-        "date": "2024-12-12",
-        "price": 81.41
-      },
-      {
-        "date": "2024-12-13",
-        "price": 80.56
-      },
       {
         "date": "2024-12-16",
         "price": 80.17
@@ -537,32 +517,77 @@
       {
         "date": "2025-06-06",
         "price": 74.23
+      },
+      {
+        "date": "2025-06-09",
+        "price": 75.22
+      },
+      {
+        "date": "2025-06-10",
+        "price": 75.58
+      },
+      {
+        "date": "2025-06-11",
+        "price": 75.63
+      },
+      {
+        "date": "2025-06-12",
+        "price": 75.81
+      },
+      {
+        "date": "2025-06-13",
+        "price": 74.01
       }
     ],
     "current_price_data": {
-      "price": 74.23,
-      "change": 1.32,
-      "percent_change": 1.81
+      "price": 74.01,
+      "change": -1.8,
+      "percent_change": -2.37
     }
   },
   "news_sentiment": {
-    "summary": "L'entreprise McCormick & Company, spécialisée dans les produits alimentaires, a récemment suscité un intérêt divergent parmi les investisseurs. Alors que des acteurs comme Wellington Management Group LLP et NBC Securities Inc. ont accru leurs positions dans l'entreprise, d'autres comme Town & Country Bank & Trust et Toronto Dominion Bank ont réduit les leurs. De plus, des personnalités influentes telles que Jim Cramer soutiennent l'achat de l'action MKC. Ces mouvements d'investissement variés reflètent une incertitude actuelle quant à la performance future de McCormick, malgré une présentation prochaine des résultats du deuxième trimestre.",
-    "sentiment_score": 0.1,
+    "summary": "La société McCormick & Company, spécialisée dans les produits alimentaires, a récemment connu des mouvements significatifs sur le marché. Malgré une baisse de 18% sur trois ans pour les actionnaires, la société maintient un dividende stable de 0,45$ par action depuis 101 ans, ce qui peut être perçu comme un signal positif de stabilité. Cependant, la démission du Chief Growth Officer après trois décennies de leadership et les ventes d'actions par des initiés pourraient susciter des inquiétudes. Une série d'achats et de ventes d'actions par des institutions et des individus indique une volatilité potentielle autour de l'action MKC. Il est donc important pour les investisseurs de surveiller de près les prochains résultats trimestriels et les développements au sein de la direction pour évaluer l'évolution future de l'entreprise.",
+    "sentiment_score": -0.1,
     "label": "NEGATIVE",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.6,
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.15,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Wellington Management Group LLP Acquires 11,795 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblVjaUl6ejJGRk80VjZ2VDZzTUFEN041UURuRU5DRXhRNTE3OUQxYk50Z2szSU93bXhDdDVZYzQ3ODVYWFdIV2V4czNyR1ZuTU41ZTIwN1ZhMFRsYXlmVVN6d1A3ZnJGZTJHbTV3dlBZdEdtY25keldIRllZazk5TGlNQUh0amttYThZREQzUXpJaFNEd0RqbDZVT2U3WnFCZGVyLXpUVXRxeGhtYVRUandEWW9Nci10SU1OVWNVY2R1dzNtQU12ZWRWTVN4cEFmYlg2TUpaUVMwb05CSmJlMjln?oc=5",
+        "title": "McCormick & Company, Incorporated (NYSE:MKC) Stock Holdings Raised by Fenimore Asset Management Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREdJcjhpVnNZbTZ2TDhPV0tDbEN5eHVVUEU0UTFqWDhxcF8xc0xXa0NneVRFV1gzQUQwRHpSaE1PVVdBUWJGTEdlQ0dWLW1iNUl3RFpFMmtVb3EtNjRYZEF2eG1qbVpRZlQ1MzMwY0dneDBsWDBRTXpHMFBlbjhQbGNjSkhtcl9sSzRMNzJCU0U3c3NfaEJqOG81T0MyUDhlejl0b2MtdmM2djlEaThQNG15X1RFdktzRDBpQmdyMTRWa3o1R0ZWNlFHRXo4MVM0TUxtT1lfYjY2MnBuUEUtbHRUenlKQQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "(MKC.V) Trading Signals - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1ZvRTluU2VJYi1LbDVMUW1KVktpY3lFWDhQM0FXbDVFeUx0dThJWDM1YkluZEh1dnVTcVNvVjhZUXd5RUEyNC1DakszTVhnbHpPdmttM0NJeGxsYWlRRTN5d1ZqcGJkb3pOMENXQ3FnUDRjX0tsNVZSUmQ0SmhPUTA0S3RuNC1jUHo4Wm5MWjY0Qkpad2paRG11b0g?oc=5",
+        "title": "McCormick (NYSE:MKC) Hasn't Managed To Accelerate Its Returns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVdOcTc0TVAwQmxtV0VTa1J6ZWliVEV0bDRPTTI5cExCTzA1N3pZbklsR1hvdnB3QndvTy1FZnBjRHR1Q0tmM1o3aDUybjhObXA2SWs5cERvZURQdzcteFJYM2VqdnlHXzFoTi11dTFBc01GWk5wYkoycWdYWG9CYkJWaGw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(MKC) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlZIbUF1eWdOckRoLTd0aW00RUtHWkhKNXZyMjk4Y013d3hPS1hMNGVBNWtuZHhLUE1CTVg2SEJWdTFhYWdadUNVZm1hZnpwdVZadUlZWVZMdmdBXzZvYVpiR2JGWVhEaXZGamQ1LVJUWTJQUVpvZURoajlLRkF5RWxyT0ZfalJCMXhlVVZqRDZpaXNSbzZV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McCormick Loses Key Executive: Chief Growth Officer Kasey Jenkins Steps Down After Three Decades of Leadership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTE9lVmpENkdhRFcwUHY3ZTdGX2lJVFlTNk5qYmRJWjZGSmUtQ25Tdlk3c0syTklhcnRmU05IRDFvLTVOZTNiLS1QbTJBQlJDV1RqVzZPRzk3Y1AydEJqaGhTMDN1OGZEQXZYRmlrMlBPTjhXOHZ5UlEtZlJfTXVzSkpLNkV2dnh2U2Q0MXp5eF9MSzg0eGQ4LWRDbHA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Possible Bearish Signals With McCormick Insiders Disposing Stock - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWNiZF95bHg1VnNnTFdEZlNhb1NGVm4tU2RoQ2J4bjdNQVBQN0tpNnF5NkREeVEtRVlkQ1lyNWxnSGZDSEp6ckVwdFk3RkFiRmx4Um0xb3VubnpzcnlnTV9pOE9YN3E1MnFOVE1jbmR1c281SG1WLWo4anBDcC1GZzZYMVRCbVdzVDNnSlladzEtbG5yZDBhN1hUcDgwdDRJOGowU2RYVGNiWG84dy1DRDdKa0FUbWtyMWhRZ2M4Vl9rX0ZudnJ2enVHVDhIdjRZcVhactIB2gFBVV95cUxNTlZsN0xLbHVSZzZJYXUxclpfbm5RN0dSaWZFQUhrWVl4M3MyTVZVUUl0ekFqWlNiaWdqLWNDaWZlWF9JWXhHSFZ5MlY0Q2llYWF1cUhZQVp3QkxISThlWm9HdkdUTkZ5TVRlSGpRSWI1V2xpR3FvWEhBelQtUWJjVEdSdWR1MjgyUVBNS1hfcFA4UlRpREdlb1BuaTRpQ3p5QmtWeHMtNFNHeEpNRFp6UWVja1VfZ2t3ZC1LUWt0WmlQa1d3UEtWZVBrRTE5bW1JcU80TTZVX0F5QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insider Sale: V.P. & Controller of $MKC Sells 2,750 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzdtb1dGVUdHVFFycVBlX1FqWk5FXzY3WU9UTDV2Mk5oS0xybmtRbHB1cW85OGpxbkFlY2VJbzl4MjJWd1hNekRLbmFReVhQRjFjUU15TjNsQjhSWVlkQlhoM3Z5S0FJSWZaYjRHc1NDczRtM0hMTkFiWmxZWkE5VWotblNRbzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tobam Has $1.61 Million Stake in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNekFacWtUZzgzYl9pU2xGczhubUJLR2o5Mm1SalVQR0FoYlM4U0lUaGFYSzh6OFRxWUZMdjVzbHFGdUVHZW53eUZBVkxBZ0U0WGJ4eDNCZ3JjWGt2dDRpZmVabUh0TDdFRkl5NWNWcklQUTlSZDd0d3habGc4bGo3TE01MkpqYVhUTFFNcGhyRWxGS0VvUmpzS0R6cjFFYk1uVmM4WDhCbm80SEZVcERYQWxBRE1fdzB3dmZnMXNtdjNMY3o2c2lLQnNB?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,24 +596,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "McCormick Q2 Preview: I Don’t Expect Much From Q2 Numbers (NYSE:MKC) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUW5kRFdpWUtRakE5TFUtSnFzZ1RBTEN2aE42bjBpNkFvMmJ3enpFTVMzWGpzbk9sLW1Ca1BraVRnYkFfamtZYUI1LUVOc1F0RVJsblhSWmxoV2s2b2hsQXE0eEFxNjNJakFYYnJ5aDczYXNuZTBYZXo4M0FqREJKc3ZKNGlKMXFoQjdxWVpqMENmZm9hTW1EMFhXbVI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "McCormick Earnings: CEO and CFO to Present Q2 2025 Results June 26 - Key Financial Updates Coming - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2VGaldOVUZ4TXd4dkljWUt2OENXWG5PX2RtLTRMZDQzS0FqTnpPdGFXcllHdnhSQUpneE94dlVoTmM2U3hjZk1fNzBiLTVMSzBDdWlzM29UTzhlWUhNN3lGRlJycUFXemtxamZ2VjM5RlIxYmZhWG5WT0tNajBCS1hiRG43YmFxdnE0TE01bjJzcTBtcmUzc20zaXlLUlBQZVltOE9NWkItNWp6N0FWVzl0QU9FT3JSOXp2Tg?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Insider Sale: V.P. & Controller of $MKC Sells 2,750 Shares - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzdtb1dGVUdHVFFycVBlX1FqWk5FXzY3WU9UTDV2Mk5oS0xybmtRbHB1cW85OGpxbkFlY2VJbzl4MjJWd1hNekRLbmFReVhQRjFjUU15TjNsQjhSWVlkQlhoM3Z5S0FJSWZaYjRHc1NDczRtM0hMTkFiWmxZWkE5VWotblNRbzg?oc=5",
+        "title": "Baker Chad R Buys 18,745 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajN4RzVCeC1LUjR5cTJxR3dXcmw2b085UDlma2xlUHZ4aWtPOW90VjNOQlprcnZacUs3VnpMY1gwQjdEWUVrRWVjZnZTR3pzU2JxSFl6RWx4SURETW5iNS1rVnJUQnE3aXJITThWWVQtV1ZqcGdQOGxJY2Y1NkM4SEZud3R4V19WU05XUUE3aUVyVjhnQVZqSVphZU93bUpZWXZEVkFYZ2pfWU5ybk9CMUxDc3JkSkNTTGFDWFVSNmFqM0JZaGFtU2R2cW1OQQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "NBC Securities Inc. Increases Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmpObVgxeGx6cGZkcmRoS1JDNXY0aExFTk5KT2xqZEwxR3J6bGhCMThUOS00Njd5cE51U0E5QXBMa29MbWxCMWxVZ09nc2dDWG5uWnVwQS1Id0NtVEVMZmxMdkdRTy1mekRCVm50YjJsTTJFQllRb1JLTWoySXp3UnI3RFVocy1HU25lcTc0VElXMjkxZlkyckFyd0RMbEJYbS1NNm5QLUFFUElKNWNldGJQZzViZnJxZTFBX3ZWeGd2U04zWXpmZi1QWDdCaEoxUGtsbVVURQ?oc=5",
-        "label": "POSITIVE"
       },
       {
         "title": "McCormick (NYSE:MKC) shareholders have endured a 18% loss from investing in the stock three years ago - Yahoo Finance",
@@ -596,66 +611,51 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "McCormick Leadership Team to Share Strategic Updates at Major Deutsche Bank Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2wyWFZFVE1MTF9iSUdvSzlaX0U4eHB0d1U0VnFTVlNsVVVxRktrLXR3OGdDWE9JMUtsVkZTempFSVZNRHVyRDd5T29BVVAyUF95dmVBcThOb29DTVBDeUVfb2tIOGUzRUFtVFlDN2FKcXpBWjUzcWRjWEc5TU94TzROazBlQlN0Z2NOay12SzlMSUpWYWs3Q29LRU5jOEdoYTVFMmJGNkRVZFdmblROUDltTXJTUUE?oc=5",
+        "title": "101 Years of Dividends: McCormick Maintains Steady $0.45 Quarterly Payout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGxWTzVFTTZIeWlicXlIUU9lSUdkeDdNRHFyVExDZGRiakpRbGNxTkJ4Ny1ob3Rnb1lXQ0tzMjVJZGxMOW9lUHptdDRiZzZWMEFkRXFOaHlkWnVXc3RreGxXRm1vSlRCZWRyWWNKME53bjlGanJ2bzBmVXN0NjZJR3doSzFaSjFQRGVrNnhwSWF5dw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Vest Financial LLC Boosts Stock Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVUpMYk10Q2o5eHNYQ2pmbmNhcV82U3ZXZVdkellpWmVHTlN1a2M1SUx3ejdjaFhqdzFqS1FQRVRTQkI2LWZ5bGFnU014ZktNc2FpSERScnlyT2Rud1VIN3AzQ3F2d3lScjBEZ01Xa0RHQlhrV2hSTzZMUjZuR0lieEFGX1hFM2lSR3YtaVFTLXhrWHNkZ2N1QVJ4bDJ5U21XajJ0MHZtMUJnZVdqZF83c25ldkp6TVB1bkNfcEZkTEd4QnM3cF9ZdVBFbDFDbWxoX3A2ck94ZTBCbTA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "McCormick & Company, Incorporated (MKC): ‘A Very Good Idea to Buy It Right Here,’ Says Jim Cramer! - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVl9OUEc1TVBwTUcxczJoWS1QbEZsZEt5cHB5LUI3U1BKRVN3VE5Nb011MlA4aUFrSzRDU091OWZkQWdDVXptZ2J4Y3RUeFhxTjk2Wnc2NXBGci1xYzJGZ29aYlM0dFNyRXJ4dmQ3R29IUVZjVFhXMndJdnNBR2ZZVnRlTVZMcVl6dDFvdXpn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "McCormick & Company, Incorporated (NYSE:MKC) Stock Position Reduced by Town & Country Bank & Trust CO dba First Bankers Trust CO - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdmN6UTdKeUUzQ0xNa3RJdHl4WmZ0RVVhV2Z0QkxKMGZvTWhpN1YxUjFRdHpESEFxYi1jZHNoZHJRV195VW1QcXYwbjNfbWlvWHlwVmdQRTdFdVFJd21JUFhfSHBHcDlHREtoQjZDamp6b0ZmaWhCdDZuZkxEdHhCQkptWFBvb29BUjJUSy1UaC0yNDJHTWpFc3pzUjczM0xtRkVUaXN2bUxlWXJ1Q3lKYnA3U0d1eWRUT1dPcVlGMnlkOXMtT1hqMF9ldm9LNGNsRmZ2QmJuaUVyUHNQX1JFVmlkOHk0aHVaaUV5VHVQV29sb2ZKa2JmLWx3RW5NNFZ2OEdYTVBR?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "McCormick & Company, Incorporated (NYSE:MKC) Shares Sold by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGM3bXFWRmMtN2ZQZ3FGMjl0Zmk5UlIwZkhCQnBUbWJCNENCeW1aNUFTcnVjeFM1TVlGX2NLeVFIX2w3Y3dQVFMtTDZMYTFDS3FsVmVmLU5wQjItZVdzeG01T2gwbWpLYTVSNjlKeEMyajNrbGVXSDJ6VDUyamMyeGczR1VRVzJUUGU0NHUwcGxQMjgyN1JjdjFlU1FvR0dOTDZySUMwVFd0LW00UHhWNUVCZGZ0MkdCM3FpQjNFWWE0SzBvekxOdmxLT3I1Q2NhZ3c?oc=5",
+        "title": "Handelsbanken Fonder AB Sells 27,219 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZDUxeTNaQTdxb2YtWFdCSkwzNG1RQkNSTi1LN1dEdjdGSWZZRzdmcS1mYTRCVEFRMFRYNE1HR0NOVHRMNmRmbmtaWjNUcHdocXZzaDNtNmc3Qzd5MXJkcTFGOFdON1RzTllrandwNWo5eXZFLUpEQk5wSGMtNExtQWVGTUFEeDAwLTFObndPN3lqb2p5YTZvU3hONkxxcTdKMFZ5YVBnbWlHQzc3SUc0TVB0M0NWN0c5RlpjTzg2eXkwd1ZWTVhiYmtURXNPeW5ZbWc0UjE1NDlMQXdXV29F?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rhumbline Advisers Grows Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUV81ZzR6UDJMc05PV0xzM2tnSTFKSlJDRzVrTGFibi1HU090dXAwVDA5TXBGSzlMNTNBNG5oUVpycG1CenpMZUJ5S3ZoOThXeVhUZy0xNWgwN1Vic2RzTWN2aUt3VTdic0l1V1lQbjU0ai1sNEdPMmFUeEEyVkdBd1ZST3drVEFzWG1NWGZfMjc4MFFORHlhdUwtMDlBUngxZ3VjV2VNM0x3NE5kcW9DRXM2OE1vejdubTlUSzN2cXVyMjBidHRjNW9uN2ozVkZYZVE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "American National Bank & Trust Invests $661,000 in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaFNrenR1aXY3N3JRdVRSeVZLbDRVck5KdDF5eFUxUmllWUFsZXlUSXMyb2NYV2xDZTJlMG9XVk11TmM2VEd0NkZ1ekctdW02Q2VhNjRLak5mMGMxcC1PdHRHUkRvUzc4YndQZUJCSk1SNmVQN0JJRnl6R29lTkdnTnpydXloMG9Jd0Z6dnU0V3FCLXZCRVE4TGJWeEtOdlFjOGtQUmVBY180SVFOYmNQc0dOcEl0Ym11OE9KaE9rVjB4enFMaENlY1ZOQVpmZGFEcTNUZm9OR2JuNHd1V3cxOXdUNzN1dGZvSmFr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Siemens Fonds Invest GmbH Has $32,000 Stock Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2pGbUt1VjRDMjdsOG16M3N1d3pfMzZaWkhwZHh3N0pYUXE4WGVGVFA5OUt4Wk5yZnJ6TlV3aFlvUTFDT213NGFjWWpWMVlVTVEteGNzT19uYXRiRGFaZkZVN2NXQ0dnbzVFWUZubm1VdFhlOEFQbExnbERtZ1BwYTFkX2VUcy1WdmF1Y2dLaTRWclZRNXhDUnp2ZmxqUDA3N0gwcVZ4ODJYZUFQenItdHNxbXI2UnQ0LTdWMDQwdFVkRFY5dzVmem9wb2lLODBUVmM0cnZvM215RzFGUjRz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jefferies Financial Group Inc. Cuts Stock Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLXVqeFpMc3MtWEdIa1NQamtkNjdRSVNXV1k1Mmh3a0ZCdVByT2FOVGgxNFJlVGJiVzRYUGdzMkRRZzhJRVpKTEFOTnpuVWlzXzhwWXJjb2trME01QUFObzZSZ3BLcy1ITFZva2Ztakt3V21fdFJWTUtibjFKSmR0bWEwWG1HUlFrM284OEo3Q3JjTVg4Y29EdEdBZnFZakk4ekswY3hJSjk3emM2blhKQ2ptOHdiUVUyM24zRjh0bHpWeGh0cUFvNXUxR3cxZ3NHRmFnZFV5ZFZadUVxYU00?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "McCormick & Company, Incorporated (NYSE:MKC) Shares Bought by California State Teachers Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeWR2dkN1dHZqdlUzSHhsR0xwcUVyaXBneDFxVzgtNnltaEMzSGhST2RQUjRSQ2JkSU11Y2x4OXZZMHBNZU51NkxBVldUWW93YzNMXzVJaHlLUzd1MDN2NllrMUhnU2t1UVpNcENhYzBIR2p1dFlpQ0tKR1Rsb2N1QmV0R0x6bGJFRjVqc2FxUE5lX0l6a0tELW9VeEZ3Y3FYTEY3VTlKRVZkcWw0X3dQeFVacjQ0Sl9HMUdMX0hkUC01UTFVRTZJZnM3dXprdzZIczdqUHdPaXFhTG40S2xhQXZOeWV4SkJPdWVTSURJTkZGUHRsNlBCNHN0WEQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Thurston Springer Miller Herd & Titak Inc. Increases Stock Position in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "title": "McCormick & Company, Incorporated (NYSE:MKC) Shares Acquired by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeTRHeHlZRjB6bS11MFdQNkxDSFpzTlVxU1hua1FaTTB2RFhSMGdtVThoMDhWZnVyZDkwMEpnVl9oakR3RjI5cjNBd1F6SjBSOXE4eWd3c2UtWjBIM2xkTnBucFFmSlFuem4yU1V1Zndoc0pZeDFncUkzbm5wcU9CWXZjc2RwM0tka3poUVZpWFhBNERaMWRLSVZYbTZUaXhWM29iaW9VQVZYS2lfTXYwaVM1WHloUWRQSlp1dVBsZzR6c2RBelVLeUxMNk1lSU5uTmxtVktvR2dsXzROVlJROTRkUW9md2RMX3NfM0M3eHFGcTg1cjNfVzR4Zw?oc=5",
-        "label": "POSITIVE"
+        "label": "NEUTRAL"
       },
       {
-        "title": "238,224 Shares in McCormick & Company, Incorporated (NYSE:MKC) Bought by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVTVUcFRUaUd0TklMMUI3TWdhVGhfMGh1YVRDNFRJRjZHcWptbUJ3U2UyaWVQSk0xd0FXMTFmQkNUM3pUcjR0eEhSTGhPV0VtcmszSWJ3NFY2YWR5em9BUjR6VC1pSUVIZjJnOTFHbFRWZGZ2NDVDRktDRjZtQURGeGdSVFNPSEM5VGh5bTA4SkVzanF4a1QzWXE3Zmd4RzVSaHZEcFp1M3pKaTFQZkh3blk4cVdWRFBLLV96QnBGRFdKYkFPQjg5R1dDN240U2d0M1U2UERNZVdsdWdnLWpPOTdWM3VaMWM0SVhuWWJsX2Z2alpBampjdlN6Rk8tSU1sNHc?oc=5",
+        "title": "Yousif Capital Management LLC Purchases 3,783 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanNaVTk1TEhqN3dGVmxqNkthbW80bTdhajBIQ09CSTgyTXVxWEY1b2hxTUs4VnA5VHo4RWE2aVFCSDhVcmw5RHVZbmg3M29xRkVPdS1KT3BVellsVmNwTnhDbHdFdFlNeXg5cldYem1pczJWVjJfRG4wTHlLbzNDSm5KNkZNOE1SaUk0OTFwVWZRTEZ3S1JOYjBpek05MUZHWHBpSWh3Ul9uZENoV0ZQRDlXRjVaQXFGa25WbTdpekFibWxUbGN6MGNiVXY4QmxGUG04cW9JSlo1RDZoNnVtZWd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trust Co. of Oklahoma Decreases Stake in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOel9oWVhBZ0Q4eWNteWI5MDNHSWdvaDRKQ2Rma3h3c25pd09WdEVYNFpWUk5maGYwTTlCUzM4Wlc3bnJzQmJ3a1BlV1Nzd3BIU1pEcGtaeWp5UE45Z0FQVTBmNFJoeVdNUmhHRG40dHFkdWcwZjJUdlctOTF3R29aX0owcXFoZ25yMlpiS3JMZTFONk5GX2xubkRRaTVqb0twOThYMEZGNno4WWh1NTdJTVNxdVhfdHo5c2FxM2R6Mm41RUlyVHc5dmdybmRnejF4dGRrbml3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vest Financial LLC Buys 11,511 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVUpMYk10Q2o5eHNYQ2pmbmNhcV82U3ZXZVdkellpWmVHTlN1a2M1SUx3ejdjaFhqdzFqS1FQRVRTQkI2LWZ5bGFnU014ZktNc2FpSERScnlyT2Rud1VIN3AzQ3F2d3lScjBEZ01Xa0RHQlhrV2hSTzZMUjZuR0lieEFGX1hFM2lSR3YtaVFTLXhrWHNkZ2N1QVJ4bDJ5U21XajJ0MHZtMUJnZVdqZF83c25ldkp6TVB1bkNfcEZkTEd4QnM3cF9ZdVBFbDFDbWxoX3A2ck94ZTBCbTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McCormick & Company, Incorporated (NYSE:MKC) Position Increased by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmpObVgxeGx6cGZkcmRoS1JDNXY0aExFTk5KT2xqZEwxR3J6bGhCMThUOS00Njd5cE51U0E5QXBMa29MbWxCMWxVZ09nc2dDWG5uWnVwQS1Id0NtVEVMZmxMdkdRTy1mekRCVm50YjJsTTJFQllRb1JLTWoySXp3UnI3RFVocy1HU25lcTc0VElXMjkxZlkyckFyd0RMbEJYbS1NNm5QLUFFUElKNWNldGJQZzViZnJxZTFBX3ZWeGd2U04zWXpmZi1QWDdCaEoxUGtsbVVURQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "E. Ohman J or Asset Management AB Has $897,000 Holdings in McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM1htSGFZakU2b0J1SzRaa1VCVHYtbEJfMzRBVkQyVTdJdEZRX0RSV1hiZVpFSUlxNU55S3gzVEFLMWhhMEllbG1NZnh1eWJDTWFJOEhfcEtzbGVqZGxnQ012TEhEVEo3RjM5S2c2WWRWX1Z3MWJRUFpCWDBZdVhobUdnaEluWldxV0o0djdkalVObFFIM01KbHNQcV9sMG5fRXZGSFlMOUVuZUZMUzc5dHd3RGdnNWk5YUFqbENvcUJCcUEzM1JsNlhkZWVYOEJkYUZRbzhfZU52WkZHbHd3Vw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockingstone Advisors LLC Sells 6,005 Shares of McCormick & Company, Incorporated (NYSE:MKC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQjMydVo0aXR4ZlBRRHdJRW5BQVBOS2w5LUdHSnNiS1o0c1ZIVnVYWW9aXzdnbV80OWw1SUluUlZXYzlSV01EUDhkT0hVN3RFSkI0WUlvNHh4amdVTHhST1g5TUh1aXNYNzFOU0R6clhnazRnWERVY2ZIYWwyQ0dIVWkxTVVub01aNFFGNm90d1RxWVZVdjE3UXZhb3o2ZllWM1FVSVQtUDdEM08yMzIteF9NSjV0eHVwN1RLaE5WVmNoOHZuM0thRnRmajZUcU5zNmlndVo0dVNaeWtHbFFZ?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

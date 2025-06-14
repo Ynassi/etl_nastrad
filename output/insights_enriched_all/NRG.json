@@ -2,16 +2,16 @@
   "ticker": "NRG",
   "name": "NRG Energy",
   "sector": "Utilities",
-  "market_cap": 30483918848.0,
+  "market_cap": 29523963904.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.788553,
-    "PB": 14.401034,
-    "EV_Revenue": 1.415,
+    "PE": 23.96984,
+    "PB": 13.947538,
+    "EV_Revenue": 1.382,
     "ROE": 0.44912997,
     "ProfitMargin": 0.04658,
     "GrossMargin": 0.21468,
-    "DividendYield": 1.13,
+    "DividendYield": 1.17,
     "DebtEquity": 395.715,
     "CurrentRatio": 1.062,
     "QuickRatio": 0.452,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.07585535257298963,
     "ROA": 0.06315,
     "PEG": null,
-    "EV_EBITDA": 11.332,
+    "EV_EBITDA": 11.063,
     "BuybackYield": null,
-    "PriceToFCF": 13.769308900226719
+    "PriceToFCF": 13.380752164101827
   },
   "technical_indicators": {
-    "RSI_14": 66.2755203461712,
-    "Momentum_10": 0.3477420106051979,
-    "MACD": 9.71835907371738,
-    "BB_Percent": 0.5305022602264102,
+    "RSI_14": 57.338508761577614,
+    "Momentum_10": -3.0339935296467813,
+    "MACD": 5.549209464404356,
+    "BB_Percent": 0.1683452327505059,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9263965396822402,
+    "ValueScore": 0.8865189382385777,
     "QualityScore": 0.308339095508593,
-    "SignalScore": 0.4995349254762261
+    "SignalScore": 0.5632649546953701
   },
-  "volatility": 0.0420988477203856,
+  "volatility": 0.0420786741614909,
   "beta": 1.137,
-  "return_6m": 0.5839602365777912,
+  "return_6m": 0.6032094349137622,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 8,
-    "target_mean_price": 146.15125
+    "analyst_count": 9,
+    "target_mean_price": 151.57889
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 96.07
-      },
-      {
-        "date": "2024-12-10",
-        "price": 93.73
-      },
-      {
-        "date": "2024-12-11",
-        "price": 95.48
-      },
-      {
-        "date": "2024-12-12",
-        "price": 95.14
-      },
-      {
-        "date": "2024-12-13",
-        "price": 94.98
-      },
       {
         "date": "2024-12-16",
         "price": 94.18
@@ -537,32 +517,72 @@
       {
         "date": "2025-06-06",
         "price": 155.94
+      },
+      {
+        "date": "2025-06-09",
+        "price": 155.05
+      },
+      {
+        "date": "2025-06-10",
+        "price": 148.68
+      },
+      {
+        "date": "2025-06-11",
+        "price": 149.07
+      },
+      {
+        "date": "2025-06-12",
+        "price": 151.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 152.04
       }
     ],
     "current_price_data": {
-      "price": 155.94,
-      "change": -0.08,
-      "percent_change": -0.05
+      "price": 152.04,
+      "change": 1.04,
+      "percent_change": 0.69
     }
   },
   "news_sentiment": {
-    "summary": "NRG Energy a récemment fait l'actualité en raison de son acquisition de 12 milliards de dollars d'actifs énergétiques, propulsant ainsi son cours de bourse à un niveau record de 161,81 $. Les résultats du premier trimestre ont largement dépassé les attentes, renforçant ainsi la confiance des investisseurs. Cependant, la vente de millions de dollars d'actions par un directeur a secoué le marché, même si l'activité optionnelle haussière et la volatilité implicite accrue signalent un sentiment positif. La question clé pour les investisseurs est de savoir si cette dynamique haussière est durable ou s'il s'agit d'une opportunité de vente à court terme.",
-    "sentiment_score": 0.3,
+    "summary": "NRG Energy Inc. a été le principal gagnant du S&P 500 en 2025, avec une augmentation de 60% de son cours. Les récentes acquisitions dans le secteur de l'énergie ont propulsé l'action à un niveau record. Malgré des critiques sur des pratiques comptables discutables, l'entreprise a été initiée avec une recommandation d'achat forte. Les investisseurs devraient surveiller de près la performance future de NRG Energy, qui reste un acteur clé dans le secteur énergétique en pleine évolution.",
+    "sentiment_score": 0.15,
     "label": "POSITIVE",
     "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "NRG is Trading Above 50 Day and 200 Day SMA: Time to Buy the Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVg3VkhzbC1WdnI0MFN1QlkzU0plc00zTkgyeXN6U2xPa0ZSaWlFQWxkSjNpSGFxaTNaMGxLM2dtQWl2SzJQcEVnTml4NGZ4MlpGZXBxWGxyNU9Sb3Vxa2VoNnN1dVFUOW1ScG15NWl3MTM0MlVIbkNES2NRcU9kOUVUX0tVcFlPV2FqRXk2blBKWlZIdVp6RU5DU0tXOHZDcTFwLWtDTEVGNF9XTk5zZVBwN2lvQWhsd0gzdG8wNXQtdGQzRi13?oc=5",
+        "title": "NRG’s Stock Is a Top Gainer. How Does It Really Make Money? - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOVXp1Z3dGbGQwUjlPQWFlNUJIbmozcXlLQnhBMW0welV6aVRxc2xuTmxBZVlFM0MteXgyTUJVMEpaSHNFaWV3MzBXbTE5YzVybDhLc3NqRjZGcDdjd0RYSjdsYWZNX1p1NFBwdHNJX0VmZ1dHZk1aaUpwcUo1Mk5tVnpXWGd3NUtPZ1NNZU9Scm16WEMyM3Ytd0RVeFhBTnEzT055dmRxbFhtMF9acnBocHZTTlVPaXFqdF9JdF9JUkVpWXB1YVBLQnlOekIzUUdvVF8yUzZfYXVERmFsd2QwYlZJSEoxMzREUHRlRjg2bUdWbm80dDRUQXQxZFFSUU9DUEt4Y3RsR1pNS2IxalFZSnFKb09zbGJtVXZudjZSckMyNG5VLWxCUXdkb0FBdmZkTEZLdjJfZjVaamFUNl84UktPT1hKQnY4T21iNUV3UVVsZTd0a2N6UGtkbmJzNnlJQ2dfNms4d1RyMkdRVlVLN1FpVkZjOFR5NkpsNVZmaXhhcnVaZkczWFpJTk8yN212bWY0LU8xaDhrMFkyMEFJM0MxS1Rtck5Sdklr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NRG’s Stock Is a Top Gainer. How Does It Really Make Money? - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOOVktejcyRHc1N0Z0dzFDcXFPVEh1N0liY3JBUlp4djZaTE5VWURFSUZwWGdKOFl4NHhNWjJ1U0h6V0FGY3F1eTNYRzZCMURQYUNqU2VxU0JRd2tvRy0zRThTRFZlekJ5ZW9veGtheHpHNHB1R2haQW9FZzN2N2IzeC1wb1hHZEhZNGZHeVlCZnRvYkhUR2JyWmg2aFlEalRZdVpCdEJSaFdkZjh6cHNqbm9hclZEdndGdTdHN1VxYko4SVdaWl9wZXZLZ1NUMElNWV9QQlBsVXFJZ3RrWWZzVEVWVHRPdk9OT3lYNlpsaEJ1cjhYTVBab0VuY2pnOGVBRzBfdlZPMHBaVHYwcm1Jek1nek9XcEtpLWZVUDYzRC1FU1N0X3k5ZFFyTXN6YS02ME1IbVZQWFo4a1RXelN2RmVtZFp1eEs5NzFpbHA2WGlTU1Y0eHpFUk9ZRHhHUjYwQjZOejNBZW5BTzZxQlBZbTBldllicWM3bWZ3eUJobWd1SU1IRXA4b01zOFRxMVI0T1hNWk5DZ0hQdFhXRFNvell2Nmk2SFdFVTlB?oc=5",
+        "title": "Best S&P 500 Stock In 2025 Is Near New Buy Point In Bullish Pattern - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQeXJxVFowUDducjFvS0FSTWlKZkgtenh0bEptT0ZnQXo3c3haV0FRVG10YWVDVkFTWGpiTXVtNHVFSnA3UUhDNnowczIweHBIQmViWG1INE9wTUhMZ3FlRXNsRVA1WEJnQXRaWUE0R3A2cFNEWnFXY3NZX0dhcFBGLW9HT0RwYWRzaU5RdTNobGxKM0tmb2cxS1ZpTGpFMUEtbExEYThwdjVwbS1iZ0FUb3Y5QURZM0hSTXNPUTBFV1d4TmxFOHNaQ1F5NGJCeHEzY2Mxamc5cktFLXBGLVpsa0RncnRCYmxsbG5hLThzdDBMMGF0d0pPUi1wTG8xcmY5em04akc1b1Z3SFZTYXJZdnFEZHM4cGVHeXFJakVyMkFSUGxFN3VkalFJS0NNTDZCMEwyZmNJaVRnNkRKZ0xrT3NMUDBOemJId3J0T0V6aDc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NRG stock is up 60% in 2025. CEO talks smart homes and energy deals. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qNDFYSkE5bnpPY3JLX0pSbUU0UmJWZ3RicVMyRkhLZ3ItWmhQOWc0bV95LXI0Y0h0d0ZWOENJMmpuc25IWVViVi02ZVZ3OVBobXBHSEV1SnZDWEJwb0doLU9pY1hpdy1YczVRX05NU0RFMVlCUFVR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NRG Energy (NRG): Raymond James Initiates Coverage with Strong Buy | NRG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2VUS3Q4NTBDZWd2WExRWTVkMUEzMWNRTW9HT0dMY3R0dW1fcTlteS10TldzaXE4ck1aY0V3eHFJTXJCSE8xRHZBSmxyMzg0aVJ0QUpFdU9DekczZmtrODRlaEo2M193X1VFd3NKNHREOUw4eG9wVndyRi1PWWdENy1NbmhqY3Z1bVFEUDdPRlFKV1hhRmpITUFuNXVrWVBYODVIOVFqTGlOcUtwbDlHazJoR1UzMkE3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NRG rides the power wave with big deals as the S&P 500’s biggest riser in 2025 - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOTFpMkVFZkRnNHF0WjBnNENWNDVWTUE3ZG15RlhnSExrRG9taUM2Yjk3dTQ2bm9BSlhkbFdUd2I4NnQ3VFpFODgzLTh6VDQtX2NhSHZhQ1NoWEdIV3Y4VjRnQXlYTjlUVDdHODRUY3Ria3Q5cDlnRTlPSHN6VmRtbU1tZnBkd3Uw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NRG Energy, Inc. (NRG) Opinions on Q1 2025 Earnings Performance - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmFnZjFMbDVGSzBoSlFWNXZYbUVLOWQwMkR2bGFzenMtSFZTQWQzTXAtUGpjQnpuQVF1WnNuZzlEcng4bFF4a3gxdXdxWkZPLWhXSVNJTkh6SkxKLU1wMUEzX2RxZVVsS0tnYmdPT3FneHVSZ3JSYjk0NXctcTVrTmRFanBMVlMxVUlpNXpkdFhqUQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,19 +591,34 @@
         "label": "POSITIVE"
       },
       {
-        "title": "NRG is Trading Above 50 Day and 200 Day SMA: Time to Buy the Stock? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcW5LeUZaWTRMR1pDMWNsMXJrd2syU1FRSDRNREw0aVhTR3ZuaEFDRjQ0d19sU3RNblFKLUE4NGVXQTlKcWxpOGp0M0hRVjZHZzBjTDZFLVgtNnJDMkM1VmE2SlpuSTlaOGZTZkljWmxDbkl4ZDNEaWtzQ2tQNHZMQW1mY25WV2VLQzgwYmtxaGpmalppMGw4TWc4dHl4NUtHaXNnUmNaTDJrWG1VNk5nSjJPSzlGeWRWbGQ2STF4Tk1Qcm1oc3YyQVFsOXR1TWI5dkZSVFB3TjgyREZtZkpyZC1IQlI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "NRG Energy Stock Soars After $12 Billion Power Portfolio Purchase - Barron's",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUViOFBsUkZ4R0c2b1JndWtVNDhXc3lCRXV4V0N0THU3ZzdMUmF1VUZMOXhnRVZ1Nk4yNmNuV3J3ZkItS3RValZ2ZGJkVnZZZW05YUtRbW9LbUVDTEJ6cm5mUnlQNG9IZTFmbDFZZmJiLTZVdzJhZVFjbzV5dmN6YTZxTEsweHVvbHc?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NRG Energy Director’s Multi-Million Dollar Stock Sale Shakes Market! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2pWVjRBaWNmR0VoYV9Ga09WNnpLaWtoZy1NazVFUjRzeklhb3Z0eXZMU1o5c0h1RWN2Wlh5OGN1NU1rM0M3WWF6MXpNc3FScmRrMlFET3lJc1Q2SC1iMVN6Z0NwLUt4NnFfTnlqVmxrTUNiMndXbnBGeFkzNW10TVZpbWxGVDRNVVloRmtvbE9GWEgwOEEwVFNxY25aOU15SkJNWEdRdFFJSXdrVE5xLVVRc0M0d0YtWkliZVU1RnR6R3dFTDkw?oc=5",
+        "title": "NRG Energy CEO Coben expects data center deals all over US (NRG:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTRqUkYwU2d5ZzhsUFlQLTVJa08ya0ZSbWNyUzU2VlJNazlfTzVrT25oNlpRTV9sY0hMVlp0RVc4M0ctOUY4d3FpT1Ezbk1ZT0ExTEt6akEtNGNoUGk1OEVJcjJ5eXdiTmRlV3MtY2k5YTRoMGF4YzBYR0ItS1NHVGQ4aF9SUGxkY3VELTM4R2JfUkpDdnE0VWktamE?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "NRG Energy Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDFYWnBMSlNsQlROcGlGSEpGcTM1Mmd0S2NycDdoQW0xUzc1ZmJDYUpIaHRIWnZoRFpWSDBSdzZVLV9yTlFyc3BhSlRfZ3ptU3B1cUoyVlc0emdwWnpBSDJMZ1RONG9zMWQzMEtsQ1doR0RmRmtJaDFwS2x4ZzJTVS02QnRKYUc0NkNZc3liNlRVVU9CejJfTnpaa1JkaGpXQy1SWXpRc1o0X24yR3Y2U2ZCc2Ntc0lBemZlcEpYbVhISnVsbDVaSEhzSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NRG Energy Used This Accounting Trick to Make Its Earnings Look Less Volatile - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQZU9MOTNRdlRYbmNhWWVJZWNFSlluMmFpN20tVG5oWmJvcmFRNXZZQ0lHOHdnXzdLeS16M05tUjdmNWJPV01hcFBWLXhEQnVFYXprUzdKWjVMNlNfUTFOVzhXRXlGUk54VDVuZDREcWkwY29JZFJmZDFUT25rdHViZ0NlRnQxRzdYNWJ5NjhHc3dGbEdjSTZ6TDB6UG4wOHJuVkZ0aTVtTFN0dWFsNnFBSGV3blM0UWNMMm1LRlVsTldvTjJTM1lubG1DeXk4MGVucERJRkhIVDhjVWt3LU1SVTVYN2Jtc1E0NUFING9OX0FsLTZaUVJTaEVUU0otck5OQ3FlV3EwMjhnaEZ0Qndzd2dxUzVHVE1iRzM3a19NRnFVNEtoM1NvekxOTEVObDFIMXg5a3Rxci15M1FROHZiSFEzbmNTb2EtOG1ZdUJuTGhjNTZoenBSNjFUbmZfelhQN2NQOXhXdkNNVXBpVXh2dFM1ZjhhNlQwNVpYVXRZWkQ0ZjB3QUZUMU5QaVJlaXRsWjllZ2JGVXBSUlBVQTc0Y204UnpzN2xld1dDTVFQUlRkNzFfTERHZ1l4YV9pM2I1LXlZU2w4bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VST Vs NRG: Which Energy Stock Should Belong to Your Portfolio Now? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnZoaDAzeVEySlJkSDhfT0FfdlhWM2o5Rlpjc3lGamM2M0h4eVdmM1lTcFFMS3lsOUJFT3YxSjBjTWRQM19rTHphcDhHQ24zenR2b3E1X0puQzJqRXg5ekM5TGVXejVsY2d5MzNsUXBuMWl3VjYtaDNwU3BVQnduNjJ2azlrUmtabjFVQVhyV2dfUDY4d1RucVg3c3lHZXNVYWpXZGJOLXFqZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NRG Initiated with Strong Buy Rating, Poised for Growth | NRG St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDlfMHF0MkNwWFNPd1gyd1A1Yi1URlQza3Z1TWt6YTlPRmhPelZ6Z0xwTVpYejRpZm5pcDd4UkxYVU9lQTl6RklWVlVnQ3FWN1RkMUxlTFNpbi1hekppQjFfX0Y5MURnQ2xEUUhFOHRnaG5Mc3VZcXAtSHh2OUV4U1BnaW9tbXYzRnE4NUZZVEpUejV0cFBwV0tMYlhFWDd0Ri1CZkluSDBrck5R?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Why NRG is 2025's best-performing S&P 500 stock so far - Yahoo Finance",
@@ -591,49 +626,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "NRG Energy Stock Soars as Q1 Results Handily Top Estimates - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1NobVkwcUxkUEduZGdzZjZCcVcydTYzcDc5TUpXVUZqLUdKdlozeHdHcENXRXlZVjI3U3djYjE0ZjZnZ05TdXlRNEtsdHJ4Z1pRYzRwOEVwQVhTQWxMS3FHelE1SFRWMDc4czhpNUN2V1RibGZWRXZTVVEyeHc0eV9LZUdQc29JTmMwdE5yU0VMWkFCWkQ5NS1nMEk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NRG Energy Inc. to Acquire Premier Power Portfolio from LS Power; Transforming Generation Fleet for Growing Demand - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWWlLN1l0MXJrSTNGNTdHSk5xd0FDMV9mai0wcktCc3JfUXRkb0UwUVR1ZUdkd1UxXzRhYjhMdnBjdHpJZG9DNFdsY0ZmTjN0b1ZrTkpqbXFkZWdZNkswcnhaSGQycXNKY2F2d2ZKLUxYVVBWVzZZdDdsTXYyV1RPSzdsdC0ydWJsZmNRcG1HLXJYTHctRTRSaURlVWZmb3RWRUI2T2w4UUdnd2x0OUEtdWNvZk5INEUtTl83TTE1OXBIZ1UxNHNyWFYxRWlIN1d6LTN2UldXa2tjVTRHTFZ6SUFIbzlqbGh4aC11cm9UVXZoUmFiNlB1UGUtTzVuOUk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NRG Energy stock soars to all-time high of $161.81 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOak5mZGVfLVFSS3ZaWU55NUZZX0owUjNpejNHZkw4Ull0VTdrX3BWTC1faHhndE5lRkg4NVdhYW1fRGxKMHVxZUEtUVZlTDlKSTFfX1YzMlJySEhPRG9QdkdkRWVsT1BnTzBsZnBURE93a1NqMzRRN3JGamc5SkZESnVsY2loQ2s2S3RsM3FuSmtNN1V4cTdZeUQ4RmJpMTcyNGJ0MmwxRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NRG Sees Increased Bullish Option Activity with Higher Implied Volatility | NRG Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYllIN2VYUnVFNHdBUWV3XzV6R1J1UjByckpQTUVQc21KTXVteDhncF9yUDVLM0tkenR5aC1LQWRlYTRJb2dXSXBJOFg5VEV0NHI1NkYxdWlfRkJ4Z3ZWVy03R1ZaZ3lmclZNQ1g1NVpqSjhOZWF2ZElobFhwSHo3RHB5azAyUHlxR3ktVkRuV2VTQWNUMUhMOUdrdUQ0WFVxNXctWFdiVDZEcGMza3RWTHhVeGkxNnkyVVEwR3lYbUw4V002UU9SQU1idU9BcWU4V3BRM1RLWjZKdWdCeTRkZGNUY2MxTXp5YmZsdnVPTmhlS0tENnc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NRG Stock Explodes 31% In 5 Days After $12B Deal, Breaks Out With RSI Over 86 - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0cyeU9iTGxzMk5CNU51ZzZ2aUotcjNzRFlQMjJ3SmpVVmpMVFFqVGdpTUNzUVplRWtsZWpxMlltT2VIUzNWMTYxdVd5X3ppVXUwZ3JvX2k0MEFSR0VDd0xCeFJ3akYxX25KaGM3T0IxazBWTVpudmp6UDg2U0haVWktaWFDQXVtWDhOLXdDQ1V3NFNRWk5maU5TZk0zUnR1Wjg4WmRCMlRpZFlJcDRXX25IYjZ3YlJuNG1fNmtORlRTOXI5bGtabU9ncTdMVlIz?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Trending Stock NRG Energy, Inc. (NRG) a Buy Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXZSMHBoUGpNdnkxdTBYWV9vdlhiYl81TUNvbVFOTks1VmZNVlZCQlRXT3A3SDRYMDNJcmtfNHFmSGo5Si1VZkpjZFFESGljWlh5NUY4alUwcF9NSV9ROWgySTNldTYxay1uTjJxVVg4dkJOOVlyRW9XbzczNlF5Xw?oc=5",
+        "title": "Why NRG Energy (NRG) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFVxSUFsNEVMZ1pYaEhUb3Ria2gtOXF2MUp3ZldWeEFMUTl6aVg2OWdrREJvM3U4S0xOcVU1TWN5cFN0Z0VQLWNPcTVuZkVEVXhMOHFMYmVsM0dxaWo3WjlVXzA1S0llWk5XY0RCUWJuX1g0al9taVNrdnRBRXlyTU5KNA?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NRG Stock Soars on $12B NatGas Power Plant Fleet Acquisition - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PR1oyc2p5ekhMbWdPeURZb1R2OUJ2WDBjMVhZdW1hR1g3YmRWYmpSYUVleWZ0UElLM2RiNG5fa0o2NEIwV0VyZHFQd3BmSTV5cm95aVpfZHhubklvNFhQSUJGVkxremJtczIyTTBfWHdEMG1VU3NzdTdsblc?oc=5",
+        "title": "NRG Energy uses 'accounting trick' to make earnings look less volatile - WSJ (NRG:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmJHZm9OWnVLZDlDSDRRQVE4cW5tQk1DUlVGb0pWYXNIUVladXhfdG5YVFRaVk93X2E0d1NvZTJ2ZmVRNm1zZnpFTFVwVjNGUDBURFNJVERFc29nbVNzNm1BaHE1ZXVFbUpPcmFMWXd0RjhaNzQwTmluSlpFZ2lVZ3AwcDRUMGF6MDZVQ0x5blp2NGszRXBwZG1QWkE2ZVQ3d0R1RXRtbjNuY0xBOFNN?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "NRG Energy Announces Major Acquisition Agreement - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVRJbU1YdFR5WHl2N3E1b1R2Q01SXzNFc0d5R1dZVzEwWW1LT3JHN3pxbloyaW41WVNfRGlXb3BXb2VjQW9sdHJ3VVp2MVZsZTU0aVpyQmw1U2dKNDhfTDlwLU85VE1MeHkzakJzQXZ6S2FSLW1DUmxtcUloeDZ5dVlVM0F6bWZGRHc5ekNvRlYzZGRJczM2RG02QUZad3Fyemc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NRG Energy, Inc. (NRG) Opinions on Latest Earnings and Acquisitions - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2NEUGFnaFpMczV4X2ZBZ0RPVWF1TWZpYmJJR3kyTEkta09nRFFhREhIZU5YWFB2Y0l3SXdWQ0QzNVRrRnoyUE9fM2NxdFY2NjJVVklUaGJ6MGF1ZEVSRHRRZWJCNUhtMzV0VGUzT1NxeTM0NlFRcDZQZ2tGVnhXZkVhWWRiQXN5M3J0OVpEZ1pwb1ZtU3ln?oc=5",
-        "label": "NEUTRAL"
+        "title": "NRG (NRG) Down 5.1% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yX1Z3U2lkWFNCWnRwRVo4NFdqRDRTV3FXQWgtM0Rhb0h3MWFSa2xWa1lxdHM2TmJLWHNYOWdoNXZjQVNxZVR1NEZFdHpPNjY1OGR5YkNuZWFoSlNhT1k0bHNHa2hUWV8zaHB3RF8yaw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "NRG Energy (NRG) Stock Moves -1.54%: What You Should Know - Yahoo Finance",
@@ -641,21 +646,16 @@
         "label": "NEUTRAL"
       },
       {
+        "title": "Is Vistra Stock Outperforming the Nasdaq? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVm5jalJ4alZxYllVYkU2b2tOcHMtaEdENTVMREk5a2wwZERFdXg3Z3VOWnQ1Tkkyc0RscFk2NkdteTRkTlpaeHUwdFBPZ1M5T0hpZWVseV8zVGpaM2c3XzRBOS1ycmpjUVlQd2Q0MkxPazYyQzhVN0hKTk9IVnBwOFRwUEdJNmtzQXFlUmZnZGFEVXc3ajJWR1VMMzNPNVh2NGRwc3ZOcXJ6RVpETXZfbWhILXM0VzJKVG1McTVkY2YxTVRRZHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
         "title": "NRG Energy (NRG) Stock Moves -0.35%: What You Should Know - Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXFwaVV2U3NkbGlZTk84VjVwQjJFVnRWemptOWxIRXYwU3hUcC1hZERXUDUtaFNkazZZNURhVVpKQmU0LTdqTC1ZQTN4dmFNN1ZXTy1RZzJ0RVZTUnJHWnBZbUJYdVZRRHdQbGc0bk1LbU4zcFZna1YxclpyYS1KTzlXbWQ0Um55bFNj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Stock Movers Now: Apple, NRG Energy, Newmont, and More - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3VlbEp4NzVMYmgzNWJwTTlsM2dxZE0tVjRvazJiTUhvNm5oREpxZ2RocEQxV1djR29XSlJvdWxvb2JZSmtMRUxEU0hlc1JseWxGdk1WSVF2S2hwa2l0WXpHODZrcW9ld05jR1hxMldiQjB6eUFnVEF0LVVmWmNITElFem9fS0xnc0VBYW82NTNNOFNmbGZn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "NRG Energy, Inc. (NRG) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRkJSbDVoeDBBb0tseWxaSEgtWWlYLV9mbEVTd3k4Wnp3MHFia0FvQWZuQ19FS002QlZuMEFJUmVLSUNUZUp2NUEzZlZoUmFqODhfR1pWS2lZdzRUb041QUh1M0VpVnBSb2pvMm9OcHlaU3p1SEUxLWI1eGZYZw?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

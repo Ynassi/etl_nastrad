@@ -2,16 +2,16 @@
   "ticker": "TRV",
   "name": "Travelers Companies (The)",
   "sector": "Financials",
-  "market_cap": 61973417984.0,
+  "market_cap": 59736047616.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.881937,
-    "PB": 2.198635,
-    "EV_Revenue": 1.368,
+    "PE": 14.344668,
+    "PB": 2.1192598,
+    "EV_Revenue": 1.344,
     "ROE": 0.16052,
     "ProfitMargin": 0.09086,
     "GrossMargin": 0.24556999,
-    "DividendYield": 1.62,
+    "DividendYield": 1.65,
     "DebtEquity": 28.495,
     "CurrentRatio": 0.321,
     "QuickRatio": 0.186,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.3343420911602908,
     "ROA": 0.02691,
     "PEG": null,
-    "EV_EBITDA": 10.085,
+    "EV_EBITDA": 9.905,
     "BuybackYield": null,
-    "PriceToFCF": 3.9448370839331086
+    "PriceToFCF": 3.798363658967388
   },
   "technical_indicators": {
-    "RSI_14": 56.38742509977629,
-    "Momentum_10": 0.8779714478029268,
-    "MACD": 2.831355952850231,
-    "BB_Percent": 0.6039240001582289,
+    "RSI_14": 44.062628605367664,
+    "Momentum_10": -4.107356796861897,
+    "MACD": -0.0439810584039719,
+    "BB_Percent": 0.0709228558056254,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9335287850588886,
+    "ValueScore": 0.8937383250430432,
     "QualityScore": 0.3801489483935015,
-    "SignalScore": 0.5473859709301969
+    "SignalScore": 0.6328317873549858
   },
-  "volatility": 0.0162342164685048,
+  "volatility": 0.0160913721149955,
   "beta": 0.537,
-  "return_6m": 0.056092666243587,
+  "return_6m": 0.0792757546169475,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 19,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 251.92
-      },
-      {
-        "date": "2024-12-10",
-        "price": 247.65
-      },
-      {
-        "date": "2024-12-11",
-        "price": 245.14
-      },
-      {
-        "date": "2024-12-12",
-        "price": 243.88
-      },
-      {
-        "date": "2024-12-13",
-        "price": 246.3
-      },
       {
         "date": "2024-12-16",
         "price": 246.27
@@ -537,125 +517,145 @@
       {
         "date": "2025-06-06",
         "price": 273.69
+      },
+      {
+        "date": "2025-06-09",
+        "price": 267.78
+      },
+      {
+        "date": "2025-06-10",
+        "price": 263.0
+      },
+      {
+        "date": "2025-06-11",
+        "price": 261.27
+      },
+      {
+        "date": "2025-06-12",
+        "price": 265.95
+      },
+      {
+        "date": "2025-06-13",
+        "price": 263.47
       }
     ],
     "current_price_data": {
-      "price": 273.69,
-      "change": 2.57,
-      "percent_change": 0.95
+      "price": 263.47,
+      "change": -2.48,
+      "percent_change": -0.93
     }
   },
   "news_sentiment": {
-    "summary": "Suite à l'acquisition majeure de Definity, l'agence de notation AM Best a réduit la note de crédit de Travelers Canada. Malgré un rapport sur les blessures jusqu'en 2025, des données sur les blessures au travail mettent en lumière un écart de récupération de 17 jours pour les travailleurs plus âgés. La montée en flèche du cours des actions a attiré l'attention des investisseurs, avec des mouvements notables d'acquisition et de vente d'actions par diverses entités, y compris des ventes significatives de la part de cadres de l'entreprise. Ces événements récents pourraient indiquer une certaine incertitude et une volatilité potentielle autour de l'action TRV sur le marché.",
-    "sentiment_score": -0.1,
+    "summary": "L'entreprise Travelers Companies, Inc. (TRV) semble actuellement au centre de l'attention des investisseurs. Malgré des performances solides qui se reflètent dans sa valorisation, une récente dégradation de sa note de crédit par AM Best suite à une importante acquisition suscite des inquiétudes. Cependant, certains investisseurs institutionnels continuent d'augmenter leurs positions en actions TRV, tandis que d'autres réduisent les leurs. La saison des ouragans 2025 soulève également des préoccupations, alors que l'entreprise partage des conseils pour se protéger des dommages potentiels. Ces événements combinés pourraient influencer le sentiment de marché entourant les actions de Travelers Companies, Inc.",
+    "sentiment_score": null,
     "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.15,
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "Travelers Sets Date for Q2 2025 Earnings Release: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxVjRpMGsySVpzTzZQb3hkODBEMFJEYjN1Nnp4SjlCYzNNbWYtbGxGRkpqWmpsRkxSeFBXQlVITWdRNWtJT3h5R25jeE5sVF8tTVlsaHlRbkZHVWUzc2dqMkJ1RG1OZ0ZmcXl3dGVCcGJoQzVNNjBZdjI3Ni05dE5QdEhObXVmcDRCN2Fmb054MnVnbFlkTjFBMTZubDlJbFFoM1RnWmlNVkwwSlNkT290ejhuYWV6U01r?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Travelers Schedules Conference Call to Review Second Quarter 2025 Results | TRV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXFjYVZqQ3lOMUVvX29KT2NnNk54MTJ5dUxQYThnT0xhUjZGdUlhQW5FZi1ISzdWWmMwalB3YjlaSlZZZGJSUmg3OW5fNm1DTkNCNUNJWTdFc1oyam9tNERVc1FZVTExWHFucUNQQmFSZEVrd3YtV1pBUlVxbmppaHp3dmZOQVg2alVHQzZxSGNIbFQtQ2tQaVFwUGR2ekYxOFRrTXMzSno1akpPT2RQdWJubTJuNkJ0OHJmN1E3RlBPODZLYWlj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Travelers: Strong Performance Is Reflected In Valuation (Rating Downgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2Z1bGZsUzlvNDVVRTBTS0VmbUVET3psSnZ1cDhmZVJUVVpJQUx0SDM0Y2NhREpOX1Q0Q3RFdndHQ1pEWWJqVGhJeG4tYjRibmhsaTBLMWpLdEJZb3hDdjNpMGtfak1jWlNnS2RISERhcndLdC1QUkJpZEFIMzlsRTJtNjI4Si1hT0lfV0Q0TW1VbERKWVdTUDc0QVZNQTEwd2xQc1JhRmw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Park Avenue Securities LLC Boosts Stock Position in The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0gxYWUyR2kzb19vajNtYnFENjByT2hvdTZyQzdXSHk5RXQweE9RZ2h0V016Q0hhd1RhX2xkSGo4Wl9UVzRzNXJzVFFyY2JGQm9zWnhHMWhHWHlYbXNBQkZNVVh2aDcwSnlLNXJKYkRxZDRtcFBLd2tqQ1Y4Nk4yZnFwZkdmRWRrZHVMREV1OEJlZ0JIdXMxb3lMUkZjTmRWekZBeFg5aHFqUll3RjYxZ3A0aUZUSDNkdmRtQ2JVS1QyVl9RcGFxSkNYSzJCUXRXSVl3ZmduRFFlZ2xlX1U2aUJR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Travelers Companies Stock Outperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQnhpTjFxWVdYZ2tFWGFYWWhkQ2pQZUVfWV9QbHFhUzRKZXFvSWtEM3pONlZZZmpkZ2Jmb09MLWFiZkFMODZQUmN0SnB3Slg2ZVdKVGZRTkpMc0FHRG5GT3JnUUdObUFwX0E5UUxHQmMwT0pWcDhjb1EzYV9YLTdEOHZ0Z1J6dzROWkIyRHFZUHlDRER1UE1SaGRDT2hOOTBLamlEUFo4TVRFc2tjQjZPOUpod2ZTdGJhLTRORkh3R1NMWTNVeEtoUmxkQkhiWlU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(TRV) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1BiT1BrSXctZXdVV1BQaEtBTzVKbWg4VlRFTC16VWVaemZpVk42WGZCcUpnamp4X01sN2dHbnEwV25sMXgtbzFHaUVGUmdwLU5QLWVXUWVVVEdiWDFSWDJ3QmF6MERwYjVzN2hwOE5rN2FnQVNjY2VkamtpQUVLaWI4QmtMQlYwV0R4ZW94ZTF1TWcwdWlaY3JtWUJnR28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Travelers Companies Stock Outperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2dwbVBnR25hSDBJSFVSUXJ6TUdlM3g5N0RyZ250a3NBWTRJVU14TkQwSjl0VWhnaEQtOE40VjFfZEIxdkpiWFNBZXl6NnlRYUxLcW1BSFpIbUlmLTdtZGFsZGZJZlg0QTQ2dG5ZbW5EeW9QX2Ewb0NDdWxyN3M5dHVQOVozcTJJZnpnTWFYcW9xckp1dkZ4X3dLRGEwZmJJUTZvN0h5U3lVbXNDN3hiYWcxOE83YXdLcGgyTnZyTy1hZFc0WGMwS0xfZ2FMRDF6Rzg4eGdFUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hurricane Season 2025: 7 Critical Steps to Protect Your Property from Storm Damage - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaklJTHhwaGFXdEo2TWtsUzVmVG5zNWtsaE1jT0J5bjhQXzNvZXdoU0lnUEt2RGxVbVdwb3o0OHhRUVVCX0Q0WUtXbWxNSHhORmtUa1JTLTJvUnUwS25KbzRMWWdoSUp4XzVwZGRsNk9sQVVmd0hOaC1RUVVKMm9UUVNZNFNHN1prdHliajZSQmc5aXFOMVBLcHg3OWkwM180bUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Insurer Shrugs Off California Wildfires With Blowout Earnings - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2N1V1JpOXFPYWc3cXpuVGlTZGF1OUF2NFl2MDk3aktqdmluZGNrNm05S3dwY2l3MkhYTGVzeU1kLVpXaVd2dmZjNW5SVUxVd1ZiUEl6QkJ4NWlDTTAzb2RxbEhzN05hMEZYN2M3RE5ueUtYZUVyeWlWVkNTQlRZcVNmV1FxX3Bqc3diUHhnMlpscWpZNGVLVU9La2VsRTM4UVEzcERyUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Travelers (TRV) Up 5.9% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYW1SdmJYVXRLRmh6OS1JWWZvQ19QV1NxaUZfZU1LM0Fpb3FTcl9tWkRsOEw2dk4yaXNCT2VOX0VMMUpEaEFkdmJCbGZJNzRIMjhwb0xtLVoydkctdUR2bGZZVjY0THQ3eC01eFF1YUJVZ2NXaUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Simon Quick Advisors LLC Acquires 1,019 Shares of The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORTNYNC0wWnQwNkJxdnI4ZXkyNGMtNEZGMEx3NEp3bWVseGMyTUZFVDZDMzhUTnliZVpXR0Jja2lYYWJCTTBjb2xQTTVCeTBUTFlEekVRTFB0eGlxampCODQ2X25HTXZmQkhFbkNEaTJXN1AySVNneTA2ajhHbWwzS1BZdUJnUGlPVmsxaXFDMC1NN0cxUEcwREpoYTA3eksxZklmMmNPeTJpZmxmeElucEtSQ0lOUnZnTU5HS3hEUHRmTU9GTm1yaHpxRENpQmlXNm5SNDRfMEtKRVFBVGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Travelers Companies, Inc. (NYSE:TRV) Shares Purchased by Assenagon Asset Management S.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc042UHFLRjQ1Yk8tcFNZNDlpSkFCeFRaTWcxbTd1ZTNLWXpqbFNHQ1F5bHpqVnZNdmtJSjZUYm1qbjQtZ0w1RDk4Tjh4amZYS2liVnBiRE1yZWJaazRsLVhEekpQMllUTEFtMERuNHhQeEd3WGFHT0U4OTdxQ29fdlUxeUp5RE5LM1J5Z05XVF9nOG1KWllxeklCQWl1cTlaZjJsMF9YRmhWTHc2ZEhlMmtNVE1sWnEtVDhSOXpNVE90Z1NDalNzSXRJRGJjYUtVVU5xN0Y2Z3dnbVZMamZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Travelers Offers Tips to Prepare for Hurricane Season | TRV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYVFjMlZOLVJlTDdPZGdSYmlrYzZKeVkzZEl6aEZDREdtd3JfV2U3anQzaElYUmpDZzJqM3dVSzllcEM1QkdESmk2UzFnaEpPTVRra2ZkaUtqaXdJVC1mc1pTcFJrTl90SmdsQ3RxUHBvalVhVkxET2tUT0VUN1gwNjRRaWROTU5nTTNTUjQtc2FuakVJYmd6b2Rjb3dPYkNPY0s4ZVVCQ0s0VU43aldtdjM3enZCdVg2OGVRajdKUFM3R1I5dUFVaS1KcnFvMUJSWXdrcG5Yek5FRW8?oc=5",
+        "label": "NEUTRAL"
+      },
       {
         "title": "Credit Rating Alert: AM Best Cuts Travelers Canada Rating Following Major Definity Acquisition Deal - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzVzVElNc1lSY1JaYXIxVFlsV21CZ0RuNEhuU3VYYjhPSl8tdE0zdjdkZjYwMHY2azVzcmo3Rlk5ZTIybTB4US1rQjVhMUNiODJreWxPemlyUGVMR3B3NHA5b0VES2hBOTJQQW5xZFZoQnJkTExFS1I1SXVTTTlpb3lDYjFQSnZvRTg0RnNmbzNCT1M0eXNpYzYyMG1qaGdCUlRXSXQzNEpMeUJlN24xY3oxSUNlSlFaV2d3S0NB?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "Procyon Advisors LLC Has $4.95 Million Stock Position in The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTG1tUVFoZUlCN0xPMmM2akFaYXpVYnFnbFVyS1NWWXlZSi1GZHdJY0taUm0tcFFRZ2tJVUZPd0NZRjJubS1NelRVMlpsaEdKNzV1MUhNbFUtU3pQbU9GYzd2WlBJaGZaTjZoZDVqMURUSlVfZ1BpNi04NWdMM09QNUlxWnZzaEowbDhmRTB3YXd4aVhMV2NGbkxQYzNXSEY5T1hZbHc4QWJVN2lKZGpkWHlRQ0ZqdzI0T1BBM2hzaVlnQ3NiNGxoZjJiM0ItcThvdUhwMmg5UzNZNkFYeFNlNnMzdVduUQ?oc=5",
+        "title": "The Travelers Companies, Inc. (NYSE:TRV) Stock Position Increased by Handelsbanken Fonder AB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWkkwS3JQNEV5ZWVGYk1TN2d5TzIyVmtPNjdCSTNCeGNYODY0SkwzTkZLZVdPcFNuRGRhSkVCTkdhb1pjelpveGlsd0wxaklueGpWV1h2bmZkY09BVXROT1MwMGdvNF9iWm1Mazk5OFktR0ZWRm51ZlZBR1NjeklKNUJBc2hIeERRdkducS1uVVMzWV9BWXQ1ZDNyb1ZCRlMyS01qTTJkMERRdEZiZVZpZms5NU9kaHlaYlBZU1JJWWtpbHZFU2dsSnIwU1BYazJUcDYtR0NfMVJKRVV0UDVGT2Fn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Central Valley Advisors LLC Has $220,000 Stock Holdings in The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVQ2Zm8waEZSUkN1d2NiT1dPMUdLSEZMcWdHTEVocnVRT1hRY3lJYWE1ZFJMTWNOcXJkRC1XaVltWFk2dy1vdDZRZF9DZTllY0liSk9TU0xOYThUUjI1TE15Q2hyNE45Y042UXlKaG5lUlpLUWd1ZWI2b2lNM3dTYWRraDRCQ1dNMWl0OEJZTUNNeGtHbVB6a3VDcnd4NUJIMlVRdWtzb0M0YWFYLVBBVS01eG1hYmFqaGpWaC12anVaMnpOc0VYcWo4M2QwSldrTW55ZlRB?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Ex-Dividend Reminder: Travelers Companies, St. Joe and Clear Secure - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHhWQ1BHWVBNT3FCUjJPbWVKaTBMNkVhdnZQd2JnMG4zZGY4QWpxQk9LMk91UE1OZmpzamMwQVFyTVlMdEJxdktQY1g5eXB6MmJ3ZVVuM1BsUHRfNElER3Fqc0FOX202ZDlNdVVSbGFOanlmUDJJN1NyVmowa0N2Q29qdHI1WnEwNU9hRThXa1lWM1A0NkFyZUFzWU4?oc=5",
+        "title": "BFI Infinity Ltd. Invests $487,000 in The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjlSdnVDbWZ5WVlmOFJUZG5QS1ROazJUNml3aURUaU9wQmNrV3J2YkhlZWw1SGwtNWwwNUdhY3licmRlcmhJazlRR19UXzBWQkdZZEhsMl9aRG9tN2dEeF9nTnN2MURqU3lCSC1KY3ZNYU82ck1sdG00YmZ6SW9LU2RIYnlLQlJsZ2JLc0xVRzRtOVIyUGN6NkhheVVabnRZUE5wZDdFRTQ4NF9zNTZNckN2Sl9KdFExVGRiREtjdjNPeUpYM1VvbFNWcw?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Travelers Releases 2025 Injury Impact Report | TRV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGpOalc2OVItUXlXaVhtZ0ZnZXFpbGhzOUx6QndfeFpKRXR0YlEyUGlsTkVKRXg1TDY4dE41YnhEclZsbDd3NDFMRjVaLVhybkFFYXd0YWZxakVKd29MWmxiM2N3Ulh4bV8yNjhEVURnNXNBM0hMUGhyUTlQenhwaGIzUlRiTG1QV25TOXJCUEJIejBxSHZ5OWdORktDbF9y?oc=5",
+        "title": "The Travelers Companies, Inc. (NYSE:TRV) Receives $271.11 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdzdRZUlPYmY1ZUVuazh4b1ZmaDZjZXQxampCZWdxX25zd0haOEdvUVhqYkt6T1o0bjJTZUs4UWZWS1ljWS1iT3hKMEVaLWRWTk1yRDVNRjlrY3RQZ0pTUDVkVm9kaUd5MDZmc1hid3hoRk9Va2xfdm1CVThnS3dnN05CdGtHblVMaTlrcmMzb0VwVGtXQ2JoblZNU0NhZm02eGk4b1c1VGhieVc4YWNxQTd2cHI3VXNzeHpfNnFVMERvTHBfRFZ5cUtDQUpMLVIydVdHWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avanza Fonder AB Sells 2,703 Shares of The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbFpJOWVvbFJyUVNNaWhPellSRGtsYmJlNmhlZmdzN1BJaWxFbzJwaGRtRk1nQjVCUEFhVi1VYk1adjZBS1JselZRTEx3Wng4VTlGU0hTN2g0MnMzckRhR2tlM1A0Ymx4ZXBtVXJkdWFlOXlPeDFYM1NwalNhSGotQjJUT3JIX3lVSjJsdDdIZmo0ZjBQVUdZSDlQbWczb21heEdIQlVEQlQwaENfeWhfRk03NU1ycnBHYURkRGRmeEFXN2tmV3I4QVFyQ0h4Vm8?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "New Workplace Injury Data Reveals Alarming 17-Day Recovery Gap for Older Workers - Stock Titan",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzAwTmhfWVFXOTZLVU02Zk53TlBVbWpaNWpub09CRmtjYzdydTlUREhHSllzem1CWG5iTFI2TWE0OWtoY3JjeVAzdnNKdG5hMk80LXRybGpldUt0NmV6bllZVEFkM1h2WVpEdmFRTTlldXBYVDB5dDNONzU1emlUWkUyQlZZa0RMekVvVi1lX1JxTFJBQWc?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Vest Financial LLC Acquires Shares of 115,539 The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbjhaN3RQcHNsa0dUbU5sa29qZXZCUmhpaDhuYmVHZ2FNdkFtSUJEQkkycElrSGVvQTlfbE1kTHdCYkNMdy1XLVNmWENFSUFMTlphNUNGOFl3T2xJbWtiYXBqbDNvekdMZEM1aDhKS0piYVhUdC1zTXB5U2FOVF96QWtURUl3Y1BrTFpkM1UtUWEtTmk5RXlkTENqRTRZR2RsY1d5UnlKX0VOZy0yZHpVc20tTWlLNXZzcFltM0w1LXpRd2w2WkxuMVJuSmxhWUg2dW5sbXdpRno?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (TRV) Hit a 52 Week High, Can the Run Continue? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1hJNUd3WmpfX2gwQW5vcnE4ckZXeHhmRzdvWmZlemY5VndUVzBtMm0xS0lza1ZmR3FMeFI1OEVmeHlYb0lpS0JIdXpMYWgxMDZnNk1BdlYyVFpvRVZJckpPd3hNc2hISS12X2syWFhMTFUtTEJLMzItck5Db1ZMYkZfMWhJdUNrd1pSMzFXUGI5eVh6dm9CRA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) Shares Purchased by Gunderson Capital Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSF9vZ1VTNDI3Y1ljYmItbnNMRjlNUldTNVN3eW80a0VtYUFhMGdCOXpsWTZkVzZ0dXJycnp4Q3hJcWNHWnBLZDNMZld4cEhDaGYxenlSUnZOR3BVbHRmVTNOeTVNMzVzMk1mU3VhU0tGTGR1QWNGQWtkQzd2bWJGdGlOQTNaMWlrTVhIMWhaZFBNWTZ0bHBpcXZWX1l6cW53RUh0M2NFWV9jSHRDOVNrOGtQM2JoVkRZeW9aUnlJOE9iTXN5TFF2QmJuazlrQTdVbTFITTFwMktMYm9sN29EZmppcUd3a1dsQkFEbGJB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "2,802 Shares in The Travelers Companies, Inc. (NYSE:TRV) Bought by Clare Market Investments LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTJ5N3ZQRWp3Z3ROalZoa1NnS0trZlp5YWd4cmt4VVI1dE1MOEltU1hkb250eEY3bkp0SFUweFd3dzgxSkZjVHBsTWZDYkxhYjdubS1kR1pMM1NuNnR2a2s0eEoxRXNWVlExdjBTamgxaEhhNUxIRmtWTkJXN280aFB1dy1BYTlzSlN3dGZmQUZfTy1ycktvUHdHdGlTRUtydnlBTUwwS2FZWDZpN0xSSmZmYmoyTmhhNjZnV185Ym83M254WlJ6QkJKRFI3dUxJZmZBYjBSYXR6VEdBeUV2OElqUDM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rhumbline Advisers Acquires 9,094 Shares of The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2VPWU9zS3A2RnNkUi1IVTVNMGluZ0N2ZmJJNUVnLUZCTnNxOFlSRVJQcjRrV2E4Vncwcm9Yb1RvcWZuSGN0X2FQZHQzZlJ0OVBONTVoUVhCUk5SQmhpaHd5a1M2WEVjQzhUUGktbnpIN0ZiMWhqa3pPcWVXM0I5MEZrT2JZTVlpeHNSRW1LaE91RnowdVROQjlLSGpwcXBUbUNNcXVKcGI4RGYtak5sUUlEb2V0Wmt1RWFNV2prR082T3lSdWc1NmR5U1JoTFBrR1BMbjFYVXFJdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Paul E. Munson Sells 4,052 Shares of The Travelers Companies, Inc. (NYSE:TRV) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0JITGdwbDVDNG9BaFlva2wwVk9QejdHWGJJTmhtaktILURtR0VpQmo1ODBXR3Jmc3NBZVlVNmVwSVlBTlU2dGltVzlwRHdCX2dEWmEwd3V2NnY4VGZDc1l4dEl1NkU5QTJlZmFMNW1pVFVVeGJ3TDl3MHkzRFJ3d2Z2dUk4Vng2TURmY29GWmljSjUzVWoyMThucTAyWnNMOXBCVTQyZW5kT09LaV9PQ2hIR3ZpMVViWGlLUi04Z0ZTVlAyM0llQVVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts Set The Travelers Companies, Inc. (NYSE:TRV) PT at $271.11 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdzdRZUlPYmY1ZUVuazh4b1ZmaDZjZXQxampCZWdxX25zd0haOEdvUVhqYkt6T1o0bjJTZUs4UWZWS1ljWS1iT3hKMEVaLWRWTk1yRDVNRjlrY3RQZ0pTUDVkVm9kaUd5MDZmc1hid3hoRk9Va2xfdm1CVThnS3dnN05CdGtHblVMaTlrcmMzb0VwVGtXQ2JoblZNU0NhZm02eGk4b1c1VGhieVc4YWNxQTd2cHI3VXNzeHpfNnFVMERvTHBfRFZ5cUtDQUpMLVIydVdHWA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jeffrey P. Klenk Sells 15,180 Shares of The Travelers Companies, Inc. (NYSE:TRV) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFA5N21aY2xwZjJaZHFmRTJFbTY3TURNMGpxQlBTNGh0YjhRV2U2U3QybHhVYUFNSEpXUkRCRl9uZjduOTA3eEhrMTRCcjdCSDl0eWtReWdiQzA0bDRidkVqYnI0bl83SV9BSnBQN2hURGtUMnJHLTBTSWR3ektac1U3clJDOWlQelJ0cmI1aFJibFd5UlRjSWs4SjRoMFJ3MWdZMXdWMlk1a0dTMzBTdEh5d3VNNU9XcGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) CFO Daniel S. Frey Sells 20,286 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0pUUnNhTkpoalQ0T2luZmhjU0NmMmhOWlZMMGstSmJXbjJGV2p0UGtkRzJiYWY5NWFDUU9wZkljWU5iRHNDcDZEMnFZakhWOGFMSGZ1THJSaEtNVjk0WmthTGtHc2JBYTZTellwYmFCbC11MFVUZmVWU01TMFdrVmllUXgzTzR0V19PWGdZWGlGWUItdTZqVGhYVTVaTzZCVFFncFdfVjg4THh3TjFPdkZNbmZMemZaVEZYVGVyWkhFTU81S3ZQaFVJZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) Position Boosted by Czech National Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaWVwM2hlR1d6NTV1aGpDUWtJMWY1YmpnemRkTmFyVF9DYWdlb0N3ZjM2TkJ6VlQ5OVlYcEVNdEJ5TmtkU29mMHlPVUJlZGNpWWVlYkZiX050ZE95elA3TmMycjItMm9HOXdHVkJucVdfTnotM19rT0ZJSlh6UVlZLWxFeE1pc1huWXdEcHI0NExKTHRqMl9FclhycGV1QUJGc3A1YTJHZnZyQkhlSkZMMHZvY2hFbWJCUi1qZ3B2T1EzM2hYTUdIUUJROWlBVHBUeUtFOER1aw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) Vice Chairman William H. Heyman Sells 2,000 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2dYSndpVlI3TXhaUnkyazVqNjNfXzhYZURFM2lDTE1NeWg1Wk1yMV90dzJzZmFENU9pR1dqcTJpRDhORDFMOTNZNXkzd1NvNVl3TGxWdlF6ZEhfUjRWZm5UMzhYc0x5ZWNnWXBURzFQSExKUmh5RmxhUkJnR0U0bHdOckFmS0lVQUlGQ21kNHYzR2JQb1RXQVpMRTBYMkhqR3hZeVF0bjJiQnV1T1dKT2g0VFVkeXFRS0lCc2VnejYxWlIyQUwtMk1XR1R2UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) EVP Mojgan M. Lefebvre Sells 6,149 Shares - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnVfV2N5bTY1a2hWVHJwSVFWUW9OWnJQRXo5eldQRm9taWd1MDl3YjFUcmFOdkZUYWF3MnFQaW5pU21xU1ZWc0oyeGxsYjQwVFFsd3pLTXlnd2JVQTVoQy1qWnc2UEtMVTNDTkY4SDJ0ZVNzQkd5S05ONUgxenhGNlRTS2tIN1ozLXVQajU4ek1YZmJFSmhaV3BLYlViZ3d2dWQtY2tpalZrM1hMd2k5dDR5aGlDemgyenVTN3VaaldpNlVMWFVKNQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hennion & Walsh Asset Management Inc. Decreases Stock Holdings in The Travelers Companies, Inc. (NYSE:TRV) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWEtmSDV0ZW0tT0ZwXy01aVZPczlBN1VJcEtnVUt4R0Nmd1lNWEJkeVVmb0llcXROdlp3S2xNZE04SXVYN3NoMW1sY1pYeVNfZ0RFOUtHMUhMMjJMblhXbC1hWm83ZUpkMzhtR2NXTTNjTlY2TlQ5VVZiWENlQzd4Y3h4ZzJBWFVETzFsY2J6VlZkZVlMUkY0MlhvYmlRNzdtOXQyLUFyN3NHa1hYaGtuLWhEaWZJU1hSdmoxaGxEWXpTLTQ0ZDZLT25zSHk3dzYyVklvemdRNzgxSXJELUU5eU9JRGlic2FSUjMzUFhPb1U?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Maria Olivo Sells 36,199 Shares of The Travelers Companies, Inc. (NYSE:TRV) Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXZVbTVnNnFQdVZwanViMWF6TjV2WnZ6UW0yOU9LdTg4UG54ck9VNHBvZ3JpZ21fXzVBU25XX3RVREZ3RmluMG9QdlRGSWRpUUlqUzQ4aUxSWlpJLVV5c1IxSzdIN2ZsRWQ5X3NrQWh5Ql9QTUtmUXhlMW1CRHhpdUJWS0NTYVdXQXo1bktqVU4wU1RPU21EaHctZVlDcUhZU1F1RlZ5bGQxU2VJZk55cjhwOTVQSTY4bEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Travelers Companies, Inc. (NYSE:TRV) Shares Sold by Talbot Financial LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPemZxNUhuNldvYTFzTkhTM083TW1MVW9vYlZ6SHNTVWpYSHJRcHY5UEdnZzJGN1AyT3FGNmdyeUdhck94NWEwUDhSSDZIYWxOcXlvQ09UbUdqRXgyWDQzTy0xRUxyckhnTTVyaXRvbFlEekJGdHQ1X0JDVzJ2T0hLVm1wUEtPZjNCbFl5ZHUzVHo0Z2RCcWp2VkFDOFhDeEp3dGxpMEJmc1BINmw1c1o3NWVFV2F1Y3ZkNUE4ZXZwMDcxV0RPa0lJbml0dEg?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

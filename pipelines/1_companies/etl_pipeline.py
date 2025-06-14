@@ -5,12 +5,29 @@ import ta
 import os
 from bs4 import BeautifulSoup
 from sklearn.preprocessing import MinMaxScaler
-import os
 import sqlite3
 import requests
 from datetime import datetime
 import sys
 sys.stdout.reconfigure(line_buffering=True)
+
+def patched_get_info(ticker):
+    try:
+        stock = yf.Ticker(ticker)
+        info = stock.info
+        return {
+            'trailingPE': info.get('trailingPE'),
+            'priceToBook': info.get('priceToBook'),
+            'enterpriseToRevenue': info.get('enterpriseToRevenue'),
+            'grossMargins': info.get('grossMargins'),
+            'profitMargins': info.get('profitMargins'),
+            'returnOnEquity': info.get('returnOnEquity'),
+            'beta': info.get('beta'),
+            'marketCap': info.get('marketCap')
+        }
+    except Exception:
+        return {}
+    
 
 def run_pipeline_etl():
 
@@ -703,15 +720,14 @@ def run_pipeline_etl():
     # Vérification finale
     print(f"✅ Colonne 'Prefix4' supprimée (si existait) et 'ExtractionDate' ajoutée : {today_str}")
 
-    os.makedirs("data", exist_ok=True)
-    df_final.to_csv("data/df_final.csv", index=False)
+    BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+    DATA_DIR = os.path.join(BASE_DIR, "data")
 
-    conn = sqlite3.connect("data/stock_analysis.db")
-    df_final.to_sql("companies", conn, if_exists="replace", index=False)
-    conn.close()
+    os.makedirs(DATA_DIR, exist_ok=True)
+    df_final.to_csv(os.path.join(DATA_DIR, "df_final.csv"), index=False)
 
-    print(" Données stockées dans la base SQLite (stock_analysis.db).")
-    print("[ETL] Étape 14/14 – Extraction terminée.)")
+    print("✅ Données stockées dans le fichier df_final.csv dans /data/")
+    print("[ETL] Étape 14/14 – Extraction terminée.")
 
 if __name__ == "__main__":
     run_pipeline_etl()

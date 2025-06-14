@@ -2,16 +2,16 @@
   "ticker": "WM",
   "name": "Waste Management",
   "sector": "Industrials",
-  "market_cap": 95362646016.0,
+  "market_cap": 95149367296.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 35.743587,
-    "PB": 11.023352,
-    "EV_Revenue": 5.22,
+    "PE": 35.60994,
+    "PB": 10.998698,
+    "EV_Revenue": 5.194,
     "ROE": 0.34013999,
     "ProfitMargin": 0.1167,
     "GrossMargin": 0.39403,
-    "DividendYield": 1.38,
+    "DividendYield": 1.39,
     "DebtEquity": 275.54,
     "CurrentRatio": 0.833,
     "QuickRatio": 0.711,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.05088452231307667,
     "ROA": 0.07004,
     "PEG": null,
-    "EV_EBITDA": 17.774,
+    "EV_EBITDA": 17.685,
     "BuybackYield": null,
-    "PriceToFCF": 81.54939677721498
+    "PriceToFCF": 81.5942486560755
   },
   "technical_indicators": {
-    "RSI_14": 55.0921236858951,
-    "Momentum_10": 1.59437075481693,
-    "MACD": 2.4846198035797045,
-    "BB_Percent": 0.6287976537942608,
+    "RSI_14": 54.28393143037331,
+    "Momentum_10": -1.676937706253457,
+    "MACD": 1.4344700271039414,
+    "BB_Percent": 0.5341728043356407,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9259934958284692,
+    "ValueScore": 0.8749456926747256,
     "QualityScore": 0.395128012579876,
-    "SignalScore": 0.5477814700146959
+    "SignalScore": 0.57131640426319
   },
-  "volatility": 0.0123631796659231,
+  "volatility": 0.0122304536486859,
   "beta": 0.668,
-  "return_6m": 0.0705215555327782,
+  "return_6m": 0.1170287558014937,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 21,
-    "target_mean_price": 247.48143
+    "analyst_count": 22,
+    "target_mean_price": 248.23227
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 217.47
-      },
-      {
-        "date": "2024-12-10",
-        "price": 216.08
-      },
-      {
-        "date": "2024-12-11",
-        "price": 214.52
-      },
-      {
-        "date": "2024-12-12",
-        "price": 214.45
-      },
-      {
-        "date": "2024-12-13",
-        "price": 213.2
-      },
       {
         "date": "2024-12-16",
         "price": 211.64
@@ -537,42 +517,67 @@
       {
         "date": "2025-06-06",
         "price": 236.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 233.99
+      },
+      {
+        "date": "2025-06-10",
+        "price": 233.99
+      },
+      {
+        "date": "2025-06-11",
+        "price": 234.29
+      },
+      {
+        "date": "2025-06-12",
+        "price": 237.15
+      },
+      {
+        "date": "2025-06-13",
+        "price": 236.5
       }
     ],
     "current_price_data": {
-      "price": 236.33,
-      "change": -2.28,
-      "percent_change": -0.96
+      "price": 236.5,
+      "change": -0.65,
+      "percent_change": -0.27
     }
   },
   "news_sentiment": {
-    "summary": "Le cours de l'action de Waste Management (WM) a récemment chuté malgré l'amélioration du marché, suscitant des inquiétudes parmi les investisseurs. Cependant, la société a annoncé un dividende en espèces, ce qui pourrait rassurer les détenteurs actuels et attirer de nouveaux investisseurs. Les prévisions de prix à moyen terme suscitent un intérêt mitigé, tandis que la vente significative d'actions par un haut dirigeant soulève des questions sur la confiance interne. Les analystes de Wall Street semblent divisés quant à la direction future de l'action, ce qui peut entraîner une volatilité accrue.",
-    "sentiment_score": -0.05,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "summary": "Waste Management, Inc. (WM) a récemment attiré l'attention des investisseurs, avec Jim Cramer soulignant son potentiel d'achat régulier. Malgré une baisse récente du cours de l'action, certains analystes prévoient une hausse à venir, tandis que d'autres se demandent si l'action est surachetée. Les investisseurs institutionnels montrent un fort soutien à WM, détenant 83% des actions, et ont été récompensés par une augmentation de 4% la semaine dernière. Avec une augmentation de 16% depuis le début de l'année, la question clé pour les investisseurs est de savoir s'ils doivent acheter, conserver ou vendre des actions de Waste Management.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Waste Management (WM) Stock Declines While Market Improves: Some Information for Investors - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWWE2YmpvUXg1YUYzNFE4MnRWQ1V2bkxILWpwVTRfQ1pjQ1V0WXRLbWNEVy1mWU1wdmhEbC1JVjdBeFJrQmlYdjg4T1pXU0lLVThTRmtHbG9fVVkxT2o3bjc0dTFtZzNELUZPMmU1TlhNclFqNlFReEZLc09rc0NfMmNXNUJtd2RHbThOal9nRjFvb0FWYl9SMEt2elh4S2o1ekVlam1tY1liSVN6ZDdUT1ZoQWZHb3IwcWd6REhBOVp4NWtiOVFjM2tkcG9nX1NETlBJdTc4V0I?oc=5",
-        "label": "NEUTRAL"
+        "title": "Waste Management, Inc. (WM): I Could Buy It “Consistently,” Says Jim Cramer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTJXVXd6OGduMllIbFotLVN3X2w2WVA5OUtXX29xX3lXQ3dDTndFVmJCSXAzUUJJUWhTcWR0MThyXzV4M0licHIyQ3hkbFNYampqNW5EeHJyRjBYb0ZObjVXZ0VXY1JKbFA2aXBzeXdiLUNXU1VacGtmYUtSUXI5VQ?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Why Waste Management Stock Is Sinking Today - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uaXkwZGVrcmdMSmtidU5NT2FnMjNuanZySk1oWWtHV2xDQ1JRWU9QcWdmb204NnppaHpVbm5la3lwWHlhN2NERjF6cnpvc0htNlhBRFc2WnR4czQ3eXQ1X3ZnLVpmUkh6eXMtMmlGelVpbXRZZ0VZSA?oc=5",
-        "label": "NEUTRAL"
+        "title": "Waste Management, Inc. (WM): I Could Buy It “Consistently,” Says Jim Cramer - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzhPaC1idF9ZdXNUc1VKRnVCNXRvRGdJdlZETHBaeDZLUXp3RlNoVmlnZTFiZ096ZkhSUUFNdkpXV3lvYVcxWGxCRFJDTjdtSThoZnY4SG1HTTNfN1F5LTJyT1g2NmY0dHdneUV5Z1ByWktEZUo1NVZ3b2w3THc2bi1td0lzWVlEXzhyUzR6OHl2aDd5QmMyLXY4Y0hWZU45NllueE1CQlA3VW5MM0JKVGZSTFZnMFZkLVJlQnFxOA?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "Waste Management (NYSE: WM) Stock Price Prediction and Forecast 2025-2030 (June 2025) - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzQyRWV3SzBqd0xKeEVqdHF4TnZGRjVQODRVS2dOdE1kTVV1MkZEczF0c1dHUVZDN3RNVC1Xb1ZSQXVONHBGOXBZWE1XZUdadGVKd18zZklfMDladlYwd0wwcHQzVDdEOGNKbmJNSGVBbUVQMlV1cnltbDhJc01vaWJoMnQyTXhsb2NwMUFjLUZRbFJjMFBJVmNXZHVyZzktOU9CMU1sOE5PTnJPSUdaTEFicFo?oc=5",
-        "label": "NEUTRAL"
+        "title": "Are Wall Street Analysts Predicting Waste Management Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1hacndKY3p3dXNfZzB4eFJlczlfRVZGeUl4RlZqbXZuWTZ5OTRjRjZzWFFxUHhtRjRHRm5jSUNJbk56ZVNYbXlLcThKaHBYZHp2Zy1LRmo0TEJDRXpkblo3V2gwc2tfU1gyZ2JMUHdXUllraTFRWFhtSGRUWUxvSjFXdzZRTXJOTmtvWDhhV3pESlJuVlc5WmdJeXVKVkEwdlk5MUVSdlVhaEo4ZXc?oc=5",
+        "label": "NEGATIVE"
       },
       {
-        "title": "Q1 Earnings Highlights: Republic Services (NYSE:RSG) Vs The Rest Of The Waste Management Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlZRTm5CV0c3SXFDNVhfWW1fZzY4OVdFbzQyQmt0XzV0RE4xSElwOHVDejFRdld6b0w1NkZjTGRGMTNmREZOUkowTEktMXg2YU5mOVl0amVBd3JvWFg1Tmp6OHdxRDdsSWZSWjF6eUk4NHprMjB2NFNfUTJEeXBxZUVpMG1wMnctSEd6cDJxWQ?oc=5",
+        "title": "Waste Management Gets a New Boost—A Tariff Safe Haven? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmw0dmZBSFNrODgxU1htX21rU2s5VlVNOFVLQnFMRWtFczlqNmpsQXRoSHpCWHplN001OU11dkVtMFBHUExLLU9OMjdXSjNWdWZvb0VnV2I2YkZVYlhnQmFIeExEdXhyWkg1TGNYdDBKdW8wdnNreU5WNjRpalRJeXk2RG50X2ZjRlZEU2U5OGdMMlBO?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(WM) Trading Signals (WM:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUM5QmZWUnRTOUtUNWdINjhmVFZwaGk5T3FhaFhLZFp2Sl95b3FiY1dKRDJ2aDFJQVVROUdnb05EaDNRTjlpUUtsb2JwRl9ac2Vha1BKcWdUYzlPRVk0czJjUEk5YW8taDVISERlekRsdGVraG9mTlRLYzFBbFV0WmlR?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -581,39 +586,24 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Is Waste Management Stock Outperforming the Dow? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUk2Yl83Y1BsM1JDNGdXZmVNaUg3bkdGSFJBOFZzRERYWThURVJKRFZsTkdYUXpIa3dkdGIwSTdxRW5hV1NsbGNWbmlWSWlNalhIc1pUOVB6SlQyaG5fMXk5MGU3cEU4aHFndWVUcDJ3eGpBTXltMW9rY25SNk9GWGRrYmlVTE1JUVJLdnE5cmxxZmNjUEhMRm91UHpZY2JEZnlEVi0tM1RfRDVvdTFuR2g1bW15UWFtT2hwT09WdWdpOXdfUmlUQk9LN2ptUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Top Executive Makes Significant Stock Sale at Waste Management - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlQZUdTWmJ1eWs5MEtDUktWZ0xMZFpabFExR2ZsZm1MLTNRc05DUVBiZlhFRUJ2Nm0yNWtrdDlxU0RBR1pWM2kxUkpLZVliZ0NPXzN5ZkJJOWFrWTVILWtJNjdtLUlUZEVBNG43d1QzM2ZyaEpUbThIV1lUOWVoSnI0UDh4VFNxb3hWczlLR1BWWkE3amlFUE5EYnkwU1ZBTVJxMXRPQldYZzNS?oc=5",
+        "title": "Why Waste Management stock has been anything but trash - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGhLTlRUV1RhaWtickd0Wm9XRm9fV3dnbFpPWG9oTGxYSkZUUFpiR3Fvd2tDazN5dUpUcnpCRnJQeHlQcVBtaTJNNmRoQ2VlOTJpLU5WTHdhSXFoVlNXakpsYi1mM2kxVUNPMkltQnNqclZXY3FKaU5lNTc2SVFiY3BrN2dOY3U5R1E?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Top Waste Management Stocks To Consider - May 28th - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWQzZVd0VjdKeDNPTkpWZVhjdE9UdW5qQUVodUdGYnR0SktxU3U1SlZodFBSRTA3ZHFSVGpQbHN6OHpOTFdBVDBtVWdpUWNOaUZjN0F5NTdxdnNBbHBIUE9vdC1VaDBNb3RKRnVUdFd4N3RoaE1obTdoWWxIMS1GdlREN2NJVG95RHpaM1JUeEw4UFNOMElyNmhQeDZTQkhieVp3Yg?oc=5",
+        "title": "WM Stock (WM) Receives Buy Rating with $263 Target | WM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1V3WVlpTlNaU25lSVZTWlB5VUV3dGdtWFdNUTFlOHpaZkRWc3MtNURhdmh0MHJCMTEzWGhtOW1HLUtsUmpNVmU0cTFYSTVMLWU0ZG1JYkNlT0x4VlpUWk50TW45YkUxNVFDdXpHMmRsNlZJNW0xcHhNTDNfTG5ZUEJFSlFqVGlwR3dhdGQ2RHl0VFp3djllc2NVanRhLVZsSkE?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Here's Why Investors Must Hold WM Stock in Their Portfolios Now - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHBsTUJIV3dYalRoRDRNSENzY29EQ25NdWlwdllLZVBaRkJNNzVMWmxMLWs3akV2SFBWQS1CWVVVenMtYkh3ZXpwZ1JUSndxWDU0UmFIRWVuR3ZsWjFjQ0NqS0RMdkpRbWxyd2VvcFNfaWhoUzdoYUM4aDJ2Q0RTTTNHSnVJWWhoVFp3dHljSi1rTkxHU1E?oc=5",
+        "title": "Here's Why Investors Must Hold WM Stock in Their Portfolios Now - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTE3b3lFOUZrQmd1Y2RJX0lRZm05Q0hkU3NtaVNlZ1YzX2dnSjN3dlpIV0pSOHpKVlhOZXR1ZWtRMVJDWTNYeHN1YXVxV2NhYVhWWjdIRHZpMDVQU21CS0ZnX0xqT2d4QldnSjUwLXpUem11ejR2R1hWWTRvQ2xDdkR0LUZ2ZXlNQ1Rhd2VRdGlVc3h4Wm1aZGhzaXRyd29LbHphdkhneXQ2dlFxMXVLenprbXdvNVpkVXpr?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Is Waste Management Stock Outperforming the Dow? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0xpWTFmcjlUQ1diSVljenlRbUU1NERENkZ1Qk9lZHl5dkN0Zkc1VDVGTFJrbE1Yb21zOG1BUElteVJIS3BvQ0JYZk5oUTR2ZGlxVmFXMFZRczNuSjVtMTVhcENqSHBsenVNMEFWT2hCNTh0bnlkUG9FSHdUT0Y2MW1NR1NQdkI0el9hRjFKZ2xiQUh0d0NYNGhTNkpITGxtUkVsZEktQVhYSkJxM3FvbjR2c0pWZFVsaVlYUUtPc2h4Vi1xbmc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "With 83% ownership, Waste Management, Inc. (NYSE:WM) boasts of strong institutional backing - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1N5b1hoMHJGb1RVUkowQUV2ODlJSFRmZHp5Z2FEd0czMXJ2RGo1QmdTUGNLYTdmNzR3TzNXVlY5UVRCM0tCMnpPNWdfNGdQa2lVYThjdjRGNkUzY1R4aDN6cjktMzZVQkNHbDBYOWFkMXJWZ2RrMndaelBGdlM5SUd1eUwyQQ?oc=5",
+        "title": "With 83% ownership, Waste Management, Inc. (NYSE:WM) boasts of strong institutional backing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmdnMm9nTTJuNDdQQkZJdzNVY2hhUXdmbWRLRXlGX1hIdklrd2RpUHF2Wl9Sb2JBZnFPS181Ums4aXg5VXA2OERIbEdkMDNabXdPTFZ1bEN1Z2xIOXV4eHdBWklkWTNnZzN6d1FNeDE5V2FZUU5UeVpSTDZ5bGxIQ1BFcGoyck94VjdReTQ3VEx1Ym9Ndnp1SXNnU25NbVpIb2dwVzRPOEhad1lUbWFtcW9ZSEFzeVBmcThPM0NSUkFaVjd5UnBSNHJ2WldJNnFQYzdEekxhUlpoQdIB3wFBVV95cUxNZzdkRE1lMW5NQS04Tl84MnVSaWFqSV8xck1EMnVWRVFfbkpoNXZmcFdwUHVRVTg1aUZSODljZW5DV01ucHJCOUliRVI0RlQ0dF9nekE2Zy1TS2ctb2F4LVFtOUVDOXR0Vk5zR1liV25yN0JGUzJXdDRiNzJ1R250NWN4eHVCNjZLcllzQ0tQeklpT0FrMkMzUnh1R3U5OFdSd0tBUmRJNHdrREsyT2dKdWU3UVNWVk9MNG1BZFBudW9JQ0ZoaHE0Z1c1Vll0LXdoT0pvYy11ZXBTU1U2OW9j?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "Waste Management (NYSE: WM) Stock Price Prediction and Forecast 2025-2030 (May 2025) - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEJHY1VXMTc0b2lJaVNhakNyUDNscVB3aGtEbk5waGlBWXBMTzBueGtfRWZ2UUpsMUc0MWEwdUFlOFoxTnN5eDBtcU5GZHFCSEU2S0xra2kzNWNpUjBrTmw1VUluV1dfUm45cUdqcFM4cmMwdFhObHB1UVphRXNqQ0tfcklxWFBEeHdVRjRFekVvSUYwUHVpVFQwYUk5WGpXSngzYzFVQ2JVWDlqRElTR2xDV2w?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Waste Management Stock: Tariff Proof, But Overbought? - MarketBeat",
@@ -621,8 +611,18 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Are Wall Street Analysts Predicting Waste Management Stock Will Climb or Sink? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1hacndKY3p3dXNfZzB4eFJlczlfRVZGeUl4RlZqbXZuWTZ5OTRjRjZzWFFxUHhtRjRHRm5jSUNJbk56ZVNYbXlLcThKaHBYZHp2Zy1LRmo0TEJDRXpkblo3V2gwc2tfU1gyZ2JMUHdXUllraTFRWFhtSGRUWUxvSjFXdzZRTXJOTmtvWDhhV3pESlJuVlc5WmdJeXVKVkEwdlk5MUVSdlVhaEo4ZXc?oc=5",
+        "title": "Waste Management (WM) Receives New 'Buy' Rating from Melius Research | WM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0dOZ0ItbkFqb1NkMW14ZjRDbXpFVjhKQWQ0aUwxdlUwYjE2RFdOWjBrSTlMeXlhY0VfUGFaY1E0Z2MyQmdjdGdGOVFLaDVNTzAwLU5GeDVqTUlTZG8zbkE4LTRtS1ZNM2hFc2UxTWdrT2tjdTF5Mk9DdklsVXo1V0U2N3VBcktpWjdaZEh1SjhBc0toRURNbnFtU3JOeFdraGdSd3JjUjVsc2RwMEZtWi1rUldiTDVqV0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(WM) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUJtYTZGeVpCaWlPLVVjMjE3WVJUcjlLSGl0MHZkODJLcm1mcjlfWFZmVzJ0dGp0ZF91WDEwS2NCVjVYcWpBMGp3QV92OXY2YU4wakF5ZUlibmxvY1NfNHdyRThtb3Jzdll2Y1RmdDlCZWs0T014UHJXRlJjcVAzc253by16aThyV2xIQ0hwSXhTc2VCWGVtbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waste Management (WM) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlZZb1NFVl8zRXp0cDJfbmdWZGdrbGgyXzNmTEdTQnF4SXRKcEUwdXE0NU1KOEg2bWZhWHh1TXFja1FaYm9Pb0xiMk1kNFhPdmZoMENWTnY1V0x6MDMzWTdpNHlFUnpIcU9fcEdrblpfXy1EVjRrZFFOdndqcXpRYkdFN2FSRHNfWXRwU0JXcHFtS2cwS1I1dnRCMERFcl9Ob2JkYnRubGZfUFBIZ1lTMTZvYWRuSnd3?oc=5",
         "label": "NEGATIVE"
       },
       {
@@ -631,8 +631,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Waste Management, Inc. (WM): Among the Best Stocks to Buy According to the Bill & Melinda Gates Foundation Trust - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWd2ZFJtU1lEbEF6SFlib2NHTnlHY0F6RmNCVURmYVhrNlZueFRRMUZqYmh3UkpSOUdPR3JDSWE5enpGSG82YU0tNGJoVGk0Q2dnM0paREF5RTBROHBfaXpKVXhoeW5oSHJCdjZGU21wX2hEVVhHYkg5OXlKd0M2UQ?oc=5",
+        "title": "With 83% ownership, Waste Management, Inc. (NYSE:WM) boasts of strong institutional backing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1N5b1hoMHJGb1RVUkowQUV2ODlJSFRmZHp5Z2FEd0czMXJ2RGo1QmdTUGNLYTdmNzR3TzNXVlY5UVRCM0tCMnpPNWdfNGdQa2lVYThjdjRGNkUzY1R4aDN6cjktMzZVQkNHbDBYOWFkMXJWZ2RrMndaelBGdlM5SUd1eUwyQQ?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -641,21 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "What Analysts Are Saying About Waste Management Stock - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVBrXzBWOG1fTlRJaGpuYnRzZTk3RkdOc080QW5NQTcxWklrRmNlMjdOTjhmWGVvV2RhWmFDTGVJYkYwZTY1d2dfb2VicFZNWkcwa1J3V0ZhY0RyMnFIcUE1SWpDWnprSUt2ekN2bDVUZ2g0d1F4Y1N5cjdCWUI3RXZFd085eFVFQmI4M0ln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(WM) Investment Analysis (WM:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFdjX21WWW1qbnVKZWpsaVl1dEtMTkxKZElXNWlvMlFFbmpXWlB2ZWZ2VjFGOUsta2J0VVBMWkl2bjJlU3pLWF9hLWFDVENwTXRabmoyU0x1ejBNOGo0VC1Lb2dhVjZOTEZEdDY0cGV0cFBpSG0yUVExVUFoSGtuMDdqR25MTGM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Waste Management (WM) Up 4% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSE5MbXpsX2toZHZEbXBLZG14QzNWb0lmYjdqTkJqLWU4ckJXaU1VeVhJaFZjRmZkcm9WWlRVVTBzQUlrVGNUekx2ZFJ2cHJLbGdtR3JUS0swSWw3Sy1TcWxZRmpxVDZiSktUTWh3eDJ5cDlpdlAwbUlrUFVEQQ?oc=5",
+        "title": "Institutional investors control 83% of Waste Management, Inc. (NYSE:WM) and were rewarded last week after stock increased 4.0% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkZzdmg0RFdmdFMxU2hKNGFXWnlMSGhKblhid2xoTVIxazFIZ09UcGg5R09pZWw3MGt1al92Q3p5WDNLSlZ1OU5OSEh3X19MYjZVN0lJRnJxZnBVMkpOX0pBNUczLWFxbWxfWkU4elFENkttZ0gyeHA1dXBzOXZwcHN1Y3pRY2l6UktKVWpGMA?oc=5",
         "label": "POSITIVE"
+      },
+      {
+        "title": "Waste Management Stock Rises 16% YTD: Buy, Hold, or Sell? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1BSMWlLb282Vjl1NzJ1Y0xYcHBFSFY1a3ZpdV9OR3FENTBzQkhBZVZObnp5MHZOSWxGUldsTjFfVlJUZXk1R2d4Y0Y1bmVpa0YzNWJuWW9SX0wwNFZaRjBJZ3NpUkZ1OGVWQkdIbUtlMVlna2MtYzBqejdFelhubWYzQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waste Management (WM): Buy, Sell, or Hold Post Q1 Earnings? - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWNlNXFfV0ZRZ3FZcUxvOGV6MUF1YUl6V0Jqb2dMYjFUOE9Jd0RLVG5YQm55N2tQb0ZZMWZ1OURxOUtXRGtCdm5uMW85bWdYeFdVOElodkdoSzc4SXhfU2xYcmhja0IxcVM5SHlRaGtaWjBTT0x2aThpUkVGSTY5VG1qRHJBT1BGcTVDYnE2cHFQeWJGTGQ2M0RPM1hKdEVBM053dGVQbW1FdG4zTzRLSGxzbFNMeGtfckFvbUp0TEU4VEdC?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

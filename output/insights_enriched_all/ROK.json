@@ -2,16 +2,16 @@
   "ticker": "ROK",
   "name": "Rockwell Automation",
   "sector": "Industrials",
-  "market_cap": 36516601856.0,
+  "market_cap": 35869048832.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 40.750946,
-    "PB": 10.618485,
-    "EV_Revenue": 5.011,
+    "PE": 40.129257,
+    "PB": 10.430187,
+    "EV_Revenue": 5.077,
     "ROE": 0.24438,
     "ProfitMargin": 0.11389,
     "GrossMargin": 0.39266998,
-    "DividendYield": 1.63,
+    "DividendYield": 1.61,
     "DebtEquity": 113.537,
     "CurrentRatio": 1.052,
     "QuickRatio": 0.635,
@@ -20,52 +20,32 @@
     "FCF_Margin": 0.13595134734285552,
     "ROA": 0.071100004,
     "PEG": null,
-    "EV_EBITDA": 25.292,
+    "EV_EBITDA": 25.623,
     "BuybackYield": null,
-    "PriceToFCF": 33.788138364946334
+    "PriceToFCF": 33.07227350841007
   },
   "technical_indicators": {
-    "RSI_14": 79.60190117753072,
-    "Momentum_10": 5.794972480376788,
-    "MACD": 13.919042366556823,
-    "BB_Percent": 0.9678947587100866,
+    "RSI_14": 65.3060857426181,
+    "Momentum_10": 0.7463194667823089,
+    "MACD": 11.661446914508872,
+    "BB_Percent": 0.5854136923447552,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9254634897966276,
+    "ValueScore": 0.8748850760267917,
     "QualityScore": 0.3098391559055373,
-    "SignalScore": 0.3811613970363521
+    "SignalScore": 0.5040863530221054
   },
-  "volatility": 0.0257005350965423,
+  "volatility": 0.0255835791898582,
   "beta": 1.373,
-  "return_6m": 0.1062326718837629,
+  "return_6m": 0.080107774642361,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
-    "target_mean_price": 315.63406
+    "target_mean_price": 317.11557
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-09",
-        "price": 298.72
-      },
-      {
-        "date": "2024-12-10",
-        "price": 293.7
-      },
-      {
-        "date": "2024-12-11",
-        "price": 297.38
-      },
-      {
-        "date": "2024-12-12",
-        "price": 302.92
-      },
-      {
-        "date": "2024-12-13",
-        "price": 297.2
-      },
       {
         "date": "2024-12-16",
         "price": 296.09
@@ -537,32 +517,82 @@
       {
         "date": "2025-06-06",
         "price": 324.33
+      },
+      {
+        "date": "2025-06-09",
+        "price": 324.35
+      },
+      {
+        "date": "2025-06-10",
+        "price": 325.22
+      },
+      {
+        "date": "2025-06-11",
+        "price": 325.04
+      },
+      {
+        "date": "2025-06-12",
+        "price": 325.14
+      },
+      {
+        "date": "2025-06-13",
+        "price": 317.85
       }
     ],
     "current_price_data": {
-      "price": 324.33,
-      "change": 3.81,
-      "percent_change": 1.19
+      "price": 317.85,
+      "change": -7.29,
+      "percent_change": -2.24
     }
   },
   "news_sentiment": {
-    "summary": "Rockwell Automation, Inc. (ROK) continue de susciter l'intérêt des investisseurs avec une hausse de 10,1% depuis son dernier rapport de résultats, renforcée par des perspectives de croissance dans l'automatisation. Les analystes rehaussent régulièrement les objectifs de cours de ROK, notamment KeyBanc et Mizuho, reflétant un potentiel de hausse. Malgré les défis actuels, l'entreprise surprend avec des ventes solides et se positionne comme un acteur clé dans l'adoption massive de l'IA dans l'industrie manufacturière. Les investisseurs semblent encouragés par les initiatives stratégiques de la direction et la récente introduction de PharmaSuite 12.00, soutenant la dynamique positive autour de l'action.",
-    "sentiment_score": 0.2,
+    "summary": "Rockwell Automation (ROK) connait une série d'événements positifs récents, notamment des augmentations de prix cibles de la part de KeyBanc et Barclays. L'entreprise a lancé OptixEdge, renforçant ainsi son avancée technologique. De plus, le dividende trimestriel de 1,31 $ par action maintient l'attrait pour les investisseurs. Malgré des signaux haussiers, des questions persistent quant à la performance future de l'action par rapport au S&P 500, suscitant une certaine prudence parmi les investisseurs.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
     "positive_ratio": 0.25,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Rockwell Automation (ROK) Up 10.1% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kWmN1dEpLLVdDdkJycmdtX0pvZHpYd1RQMlR2TndKX1ZUZUZ0cTRhMGpsOVZiS0lkYUk1Ty1jejF6dXZBVmNBMkdDbWdrejM3bUJROFctcndXVTVxVE9aZ1VqZWlCX1I0TDQzcU81bG11eHQ0LVNzZ1RNU2hHUDg?oc=5",
+        "title": "KeyBanc Increases Price Target for Rockwell Automation (ROK) to $360 | ROK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSnJmNVlvM3dQUjB4aUYxQ1I3dTZwQ204TmFDM0VicVdITFpMdmU0Mkd4ckpsMEFYYS1uYV95TTJlVDVtb1pXb0VIQmtGVGFNcFd4VkxTdjE2Rk1tZ2NqODJTSU5jMkpoTDRvd0pCdDFZR3BIZWhLQkFYLXNoN2o3TzNVMjkwZEtiX1RwaDF5WFNuMlM5aU44a0dEdG5qOTJHNWdLeE5sMnZtRDg4SjVYSExjVmsxUDB4bVpoM2RhV1hSUC1mdVJHVExUTDRmZVZXdHVtYXlVLVdMQXREd1NaX0pCMlh1SnFpUkJF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation Helps Customers Unlock the Potential of Their Data with the Launch of OptixEdge - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3RIaVo1ekNFd3AyVzhmRjZ4bnN2aUpqZHh2NEc2ODllVkhRMVVLTnJBdmVSQkNJTE44V0l0emhpOGMwRmlMa1NVR3JUeHlRMU9YV28xcDRDUmZ3a2JyRDFhd2loSVhKM2wydVdEOVZhRTBNTkFKVTlYaXJYVXUzbS1uelVOWFE2UlNncXJESGFZVHAybm4yUVJoWjNxOWpnSFJOOFdTS1VXaGgwVFlPM2hyTV82aDItZ01V?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "New Automotive Manufacturing Study: 62% Prioritize Tech Investment as Workforce Challenges Intensify - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWs0cGlsNkFKdmMtdlR1MElSbjN0ZWFpX1Jud19mc010Q1ZMcVVmY0pEdjkxRlN6dmV2ZEJwcE5uU1dPSFhabi1hZmoyaXljVFNjUjVsQ0NMMDFnWk5kbHZqbS1FbU55LWxVN2U4V0lkZURpWnJnaXRBTkJUYmI2ZmhDcW4tcFlDTkJlY0hhODQ2UVRXdERvdzNiWEtkME5SRDNOdEVBdGJ4Zlp1ZV91Ri04UmdLWFU?oc=5",
+        "title": "Barclays Upgrades Rockwell Automation (ROK) Stock, Lifts PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVFJoVzRHdGhyZFBoYlF6Xzh1enc4R2x3cVR2NTA0a3FKeGJEQ0NQXzNHby1ORzdLU3FXXy0xMEZpMEE5b1pTMTR3ZVVIcFFmSUlLU2V1WWpwa1gyZXhpY0k2SzVHZjd2bzd1LTFjbFRzRjBueExWaThsMzB2OFRZVGlISDAtNHNBejVVbTBrckszdEFPZGRUOVZCQ05mazNhcnlzdGxSWlRkYVd0VGtzel9rMjhYcUQyYVJyNlZHbDFxemtGZjdjcThpakN3clBmWmFmZ3liMGk0NEItS1ZKbTRxd1U5dFRyWTNpSXVrX3licllBTWJmM2M3YVhyX0EwQzNWYXBseTJvVHpuNnhZS3ZnY2Y4R0ZwMU1EdnQ3NWRzYVM1WjMyZGFtUG1LZ1ZYSHpRNW5JODlaa19ZTWV5ZEln?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rockwell Automation Declares Quarterly Dividend at $1.31 Per Share on Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmFSeG9jQzFRdXZVMERYdWt0Q1FzR083cWFGazVwS3NkQXJjMHZua2dBWHRvTDk3SW53Wk5LTXRVMTBOWVFnUFFhOGhMMmlyZjdaOFhXV3k5Y3paOFlmQmRjaEF4ZzhJV3p4QVYtbzFxMWM2NGFOb1psa2FvVThTUjZZT1h6U1Q2Qzd0Y3FJNnpuRTNBZVZPaVU3MU9CdnB3UEZTRms4TXUtalFnajBPOXVldkFHdWZQS0xBckIxa0s2SmpFR0FBTWcxTTE3QVJja2s5Um5sc3o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation (NYSE:ROK) Declares US$1.31 Dividend for Shareholders - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazBCaDVtdU9Cb0NvcUk2N1RHeWdPbDRaQ251YTBGS2NYWjZNakZRYmNva2pvTUFkaks1VnF1Mk5FQ3RaU21FMXRtTk5ZcHJ1YnhaVmVzQWJIYU1GdS1CNGE1SERRLVBVV0FUT2dsWVlObmNfLTBMWUw5OHFyUDc4d2JrdExyalBrVmNGcVJTbm9VZzZyRnRIVXVBM0xMZm1rUE8xSUdURXNzS0dQVlYtUUpReHJvSi1DV2NHMnRTeHZIT2FyM21UNTFITXR2RDhtSWdLTTJhTdIB3AFBVV95cUxPVktmRVFnblNhNFVITHZfYzZDdWVBd0tXWlF2YlpHUFBiRk5HZ3JjcG80MXNRUW5IbVpxNHFuSTIzZnczOElsN0RJVmcteDN4bnl5b2R5REZrVXJ6OHJMbVB4djBOaG1hcWo3NUxYRW45ZjNKYUNzV0U4Y1VKbmdnZ1JfcDlvOVBGUF9Gd0NHcnNQb21WeG9fdGl4WURkTTRmd2xUd3dCdkc2R0t6YUM1U0xaUUlDVzdtZTRRY0k2LVAyMDhRZndBaDU3X2w1N01JVDA5RmZmSU1WcFlT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation Launches OptixEdge to Advance Data Processing - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDB6MXg5VThWNEtScERQcXg2VXFBSGxmMTBNSmFqNFA4VUlmMWlraW95WHZuVHRoaEpTOFd5TFFOeklxa0l1MjB2djNGeWhrZ3RVTGdVQTg4V0FjVnU5WUxuTlp6RTRKd3IxRXc0V3RwMFFhS1EtbzRNelFHOU1UT2NjT09TZFRZYXRvZ1pBT09nZ3RrdGtRdk1YSmJ6X3d3SHZrUHVTTWlrdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ROK) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVA0UzFuS3BwT2J3QVQxRDlNYkpRR3hRZmt4NzIwUkV5eDViR0l6TEdVSlVfbjdUb0psM3hUb2IwY2xfdHpELU1LNzktYUE1YUlPanE5bmxUa2dOMDdFOEt2b3V1RDZZa1JoXzVocmxic0VZcjkwWHJ6ZG9tSm0yWGREVEtNZENlaTBwVTZ2a2lka21ocW1YWGpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation (ROK) Price Target Raised by Keybanc | ROK S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjVab25FbjFYQlJORG1VblZVdlN0ZTZ0ZnBBZlpvTHFKTnpMVm9KRk1HMTFRUVlJRWIwX00yMVRyYng4dzI5ZkZlUGJ1ZWRfZ3B6bGxRNlZfNDlvY2lsRjVLa3NFNnM4NTduenpLaTVEWGdBVk1PeFJta0Z2VWhZcExlWDF1QTlKUmNudHBsN1puSzBJRlJ0QzF0X2VPSk83bFQ0OEVrRWdORXQ1?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -571,13 +601,38 @@
         "label": "POSITIVE"
       },
       {
-        "title": "Rockwell Automation (ROK) Price Target Raised Amidst Automation Growth Prospects | ROK Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkRONU94dEluN003S2lOYkpLY0xPMXZYdjlobzRRY3J1Nk9zMUxCUHFhb1JxUXJETXZNZ0F2TmRyTUpjTUk1R09zbmRRN2M3c3dJMmp4YUJjNlUzaTVWSzIxSWk3YUNuZVN1cEZRaTBPdjd4MU05blJQRjlUUWl3eGYzVWdMVndrZHdHbnYxNEVIbzJ6aHBzV013TTQwaUJLVjI4N2x6ck1OTzRRUnotb1BLM095cmt4eERBUzlJSVVfWVVyaWtNOEFQdE4?oc=5",
+        "title": "Is AMETEK Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOE50bE9WNDhfb0xWQWJLTGRXa1VsMENhZnA0Zkd3RGRPRHdnSmJpRVlBMVRtZU5FZXNJOFJ2QXlzVGFsRm1Rc2ROZFBYLTRMTXJiekU5TWVFeG1PY3hiQ2lhczBOdHUxcUd2SXNIdzZrSjF2b1dNMUFTbEE3MTFsdTNtU1dYbmFENTVERk5zalItM2tJaFRMd2RUZzN0aGpjRnJHRGdkdFJpck5GU2ZfZG1sY212aWdJbUt0TXk5Q2VmQWdwU0NhUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Rockwell Automation Stock Outperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmhHMUYya1VJX0pGUkRvcW5IQjA1ek1vSEZfMjg1dmFrNXE3Vl95bVBYcUhHVUpWN2tFSkRIamRVZkRyQUZPb1JjNDhtTmNtRzcyVU1TMGJJekRqeElHTktFVGxySHpFWmVnVm5Wd1B4WXppZV9OcURWeHI0S3pfNzJvaDRGQXY3UWpMTUlZaHJPc2M1RGVtTFdBc0lOcmxkeGVfRlp1U3Z1ODBjT3R3YUNhTU9UWWtk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Rockwell Automation Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQbDBLdzZESjRBcTRMZmhzSW4zOHM4VFVNRWNvNGc5cGZSMkpXRzNQZHVCNENKMzJGa2xCTkZGczNNNDJjTlpZa1ktR1U5clRFWFFlcmxDRE5xWmQ5d3VIVW9tRTJVSnZjRmd5ZUNuR0R6NVhaMTBrWjlraXlqWUhRRDZxdXRvQzA2THJyV2c1TVYyVjR2SVg5OG1wZlREX2p1V3pkX1ZQMnVNaHh0VW83U0d3MEFpaDV1bmNNT3ltN3JFeUFORWNOUFlQNUt0R1B4ZHQ0eXVHR3BCMHI3SHBqSVk3QXlHcmcxUzJXal9EVkZBQWFzMTI1ZXJ6RW9oMzJNWWtSQUhhMENNRjEwWDhCeEFEMTFoSUc5ZWEwVnNXVmlwdFkxbW1keWYzZnltOXFyZmk5UlVnTUxKNTlIV1RETXZ2ekpoYlA3TGlFbmUzRGVNR2RTWVVDdGNFUUlYN2Q5TGo3bTUwQlduRVU2MGRabklUMy1zOHFpMDVDOQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Barclays Upgrades Rockwell Automation (ROK) Stock, Lifts PT - MSN",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVVVUYndnV0VLdktpRGlNWVdhM05VQzc4WmVEOHo2MVpNbVV4NGFtbDFGbHRhQmNxTkxLeUpic1ctTmhFMVhZZTJXaVF1SnRnSFdwS2hCRS1oa3ljM1hBZ3VVMkJ0WlJJa041cVVfTzhDVkFGaEllTGNxMVA4MlFkYV9GeW9wZTR1cnlkSGhOLTlobE5sUEk5Q0d6d0w3RzlFZHNfM2tuejVaWU1y?oc=5",
+        "title": "New Automotive Manufacturing Study: 62% Prioritize Tech Investment as Workforce Challenges Intensify - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWs0cGlsNkFKdmMtdlR1MElSbjN0ZWFpX1Jud19mc010Q1ZMcVVmY0pEdjkxRlN6dmV2ZEJwcE5uU1dPSFhabi1hZmoyaXljVFNjUjVsQ0NMMDFnWk5kbHZqbS1FbU55LWxVN2U4V0lkZURpWnJnaXRBTkJUYmI2ZmhDcW4tcFlDTkJlY0hhODQ2UVRXdERvdzNiWEtkME5SRDNOdEVBdGJ4Zlp1ZV91Ri04UmdLWFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation Declares Quarterly Dividend at $1.31 Per Share on Common Stock | ROK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc00teTlOQ2hGTFNiVXpoekVCbHpQRjdPMUJUN2pJb2RRbXpkVXhMQ2VtSWx0OC0xMDFlRUdwRUtiZEVTRFdzRWsxZWswZUtEcTNfSHJfNmdhd2xrSVFaQzF6alVjdjBBNGJQcG43dXc2MjFva055NFREZjZYVGpiWDRiS0NnM3Z2WXdSNVB4QUhQLW1tcHZ0MDVVSkFUMVB1aE1oTFQ5SloyZkxYWFczMHRVbndEdFdpLVFrU3lyejVQVHNKQU1xckVvdmhYT0hk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rockwell Automation Helps Customers Unlock the Potential of Their Data with the Launch of OptixEdge | ROK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHpzMjlvX1lHZXQ4MWhEWDIzS3pvaW5YRm1IZWZLYVE5WDdVTnA2bk5ybWFFekYtWGtwbzFtMkM4M0lwMU16SDg3RmNvd0szSmJCZ19BTWw5N1FXd0c0M0JONElPaUxpNzQxbnE3TG1qT2t0cGxWV3JsalQwajNmd3BBaGRvVWwzUzdPSUdXcUZMNU9QSDJaUk04b09qRVdFWmg0OFZ5TjhJa3pzQ3pSZmNvX0tmS29ISkg0SFJtdF9Xak4tUlNUZEFaTkxXM2NuRFdDWWhqTjNSZHFQUGd5UnVhdHNYRExXOEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rockwell Automation (NYSE:ROK) Surprises With Q1 Sales, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVl0eEdQWmZfWkZTd3Z0TkZHd0FxcGpqZVhnMWdKVkI0S1dHWjBVY2J0Vjg4S01rdXJSdkxmM3VWQ3hMNWl3WmdtS252MjQxaGVuZjZnOWpGbFFUcktvM25rdFdTQ2lSVFNuS0dwem51bHZTcFJhT2RYcVZ4c2Y1Sm5KZDBodXRKM2I5Tw?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -586,76 +641,21 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Rockwell Automation CEO Initiates Trading Plan - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTFESnJMM21rMGZfNzQ3WWd2cmxXQnNSZ3lJeFQ3cFI0bjBLOHE1VDAwRlpiRVlDOEdVckFUYjE3UzZKc0RRUl9VOUFyQS1iTjlNa3JuR2lYNzlwM29ac21hdHllUVpaNzlXZWlwaU5WVEU2YjhsZnZEV0k3Qk5SMmZLaG53ZmgtQi0yRURTWEpDRmQzdXdqZENfeUQ5czA?oc=5",
+        "title": "Rockwell Automation Declares Quarterly Dividend at $1.31 Per Share on Common Stock - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3czdWxQanBFbDktS0xEQVRSZzRtYXhKcm1JNkdfLXZ2X2NOTGpveGVxelZ2WFVZUGhVM1AyOGcwR0FESi1ScFRDZnRFUU4zOEp2MldlTVZZajBlRDdaSUl4R0VjaHJxejBhSXdyOXFNbU1JaXBwUDFiMGNwTGEweW5kbzdiMS1vUUxJalNBd1JNQ3Y1ams5QjJDbFQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Rockwell Automation (ROK): Company Profile, Stock Price, News, Rankings - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMUplc3BDT0pSaTBSakZ2Y0RrM2g5X2Q5X1hvU3lUZzVwb1JieXZDN1ZnRDdSR2xPSDdVRy1Va2RLY0VfQWxSQWRqUHBXaU9hZWsyUnVxYy1PRXRh?oc=5",
+        "title": "KeyBanc Capital Adjusts Price Target on Rockwell Automation to $360 From $345 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTWdDVjFPYU5yMzRjckxQbjdLLU9FeTcwRndramlEcUZuLURKS0JoRUJWbk1zTmxaMmZxLUtLMkVuVXpVb2J1dHFnSG9Ndmh3X3pNVjNJUlFrRGZQY1RCSE5ZUC1XY0w1aDVQYUFqaXhiNUVHYWlINzI3T1VSemVIN0E4RHc5WEtQMzBQanRQR2pJM0txdFRkamlZUTRHNzBWZzhpVDNRYjVpNWhabnNja0NNcnJ4UTdaR0VneEZOaXJvcHFhUEhISmlGTnhVSDExZUNvd3JzZFhYZTJaXzNYczFKQ0hVdlROQU1rU3c0UGowMmVTM2c?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Earnings Tell The Story For Rockwell Automation, Inc. (NYSE:ROK) As Its Stock Soars 33% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUtoVHUyZnZpaXZWcFlmY1FqR05OY09LTktjbXJFSXo2VmtKSDBSWVRseHRLWWRyUzBPM1hoMlIyci1NRVFWTmRmMlNYSWY5ZHU0X2FTNDhYSkg1SkhfcFNDVjFGYWRNbEZ2X252QVhrSUZtc1dnMmtXOURjTWNZc3doYU9xcHhvRlV4Q1FBT2s4akd2ZzF1ZElUdmRDRldGWENxVGZwVWtiMV8wa3BEMjhvUUNEOE1OMnRkenhhaTJaZGFXTUFOcEdOb1pieGxhVm9PSWVR0gHbAUFVX3lxTFBKSTVSSnZveXBNUE50Z3FwZHg4a3Fzb1lsQTVRYzc3c0NXdmN0aUxTY2R6UXRxUmVBSHFRNG1GR0JiTTg3Y2U5Q2YwTzdkeVhRUWs2dVVUSFFtai1McThFSmpzMWc0X1FyalQ4U29naDQ3QUdZNEFDZ3lveWI3ZU5zVkJ0UTBSUE9nUXo1cUdwTldOY0ZOc3NPeFo5cEZybHFUQnNjSURteUdNRmFFckJyaG5KOXpLWE9hV19mSDdPdkJIMzEzaDloY2FwOGdOVm81Mk9RbFpwcVd3Zw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Manufacturing Industry Report Reveals Massive 95% AI Adoption Wave as Companies Race to Transform Operations - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVk3clNRYVotem9tT1I3bGZiWll4TnNGcGlpdFB5UVRTcnNqekN5LVBUa0hnMXVrVk93WjR4eVJQcTM0QlNxeFJieFVVQ2ZwelVqTTh3YWxMdmlsSWVaSEJXT0ZIdllDdE5ZREpDTHJmeTd3aDlyRF9rRVNPUC1feDZ2SmlZdGdyOHlodHE3bU1TcURUR2FhVFRTb2ZpWTI3UjgzNU5KeE84YmNCU2Z0STZ2Z3NHeVpERjRSd0dfdw?oc=5",
+        "title": "Why Rockwell Automation Inc (ROK) Is Plunging In 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmsyRjVHLXh3bUl4Nzk2R01sd3VVZDhNeHJobTVjanQ5U21sV04teTZhdGcydUxfdVh5V3p2SDVmMS1xcnpMTzYzRklLWERvZl9QTGFnd0Y2RUNtdkhoX0VOU01xNU44Q0tROThTOUdUWTBuNTBkUDdxQ3JQVjh1dk9MMA?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "ROK: Citigroup Raises Price Target for Rockwell Automation | ROK Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHpCWUIxaVNGTGdjdkhVYnQtUHM3eXJSamtEc0ZnN1cyOUczdE9LbktzUXlFZzRWazJWYkhjTTF6RWdLaVl0WlZBN2FROHpLZm9jUEx4SHMybXR2TXpEQ0Y4UEVHRjlKdnk0ZWZjOTFnRVhmZ25WNllicDZVaFRZd3ViTWx4RUE3ZGhuUnpRUF9PSWtoT2NmNFFtWkVXSGtrR19mNU9iaTF1WklrWjRBMQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Rockwell Automation (ROK) Stock Is Up Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUEN6emxwM1RxWFM3eF9tSmpCNTZZdVhqYnJhd3ZwWXFNOUVrNFVDcm55Y0NIN2hYLXZDSXA3T08tVEtzYjlRaWxheloyM1FoU3VOTEZTVERha0pDWVY1a3ZmMnJkRjBJZHpVMEV3RDJZWnJkYmU0VlJqd3Eycm1LYzdXQ0lWUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Investing in Rockwell Automation (ROK)? Don't Miss Assessing Its International Revenue Trends - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEJfOThKdW91V2xlNGYtYWx0ajdtR1JIM3BfZmJxdkF4M3lfMUJoUHVLMU1nTWFpQTRIYi1ETERQaDdXTkVwaERWa3FsQXpzeXBvVFl5dWlJTEF5a09heTZpYlQ1Y3pTZlNlU0FKbW5DRzZKUVZLOFJIeTU5cmpFWHdYRTZjcmZkU2ttQg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rockwell Automation (ROK) Price Target Lifted by Mizuho | ROK Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejBSMFgzSjFPZ0ZpSC1WOWhEU09qMjdqSnhlRXBEUU5MXzA0cnlsM0puamxTS2FuMlpTcVNENmNSbmRFdGVUMXlhYm84X09wNkhLblR6LWJTNmhvbl9kbmZJMENnSmIwZ2lTUW1ObDByd2NsZXRBZG5NUjZGc1h3MVItNW45dS1mYmlzZGctYkxzdHRITngtUUpoMWVkZWpCYVlYbFhUWkFlU2Jy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rockwell Automation Executives to Share Strategic Insights at Major Wells Fargo Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT21SVnhNd3hmQnFVeHJaS09MXzktX3VaOUVqYWNlWWxPSlAwRlJfQ21pQWtXcXMyUHpvcUVZNlVVZkVxdkRMYm90ZW5pX201WXUtV3MwSm5rTmVOYXpfTjU3ekI2NkttN0tnazJNNTdZY3BBMkFLUzV3S05Ub0hBRTdsLUFNaDk0MHRaNmpKNF9XOEFhLUNCNmk5LUJkaEJuLVp4RDcwS2toLV93VXREUy1EOGNrWHR5Y2dQcg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Automotive Industry Shifts Gears As Talent and Technology Take C - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenRmQ0FHZHlCREYyOFQtZ3NhMXlRUl9MRmdVQU9aZUhsSW5YR3UyVWhZTnVBaEtqMlFHb3p6dUNrTDlZOUNpbWxNTUh4c2dSRDE1NTJBcXFMcUtQVmN1emRaSDBPOTIxNldWbTJxM0Y4WTZhMEpEN0djYTRzcU1ROThFRXAyWDRHV0UtVlk0MlZSR0UxUnUtRm1SRG8wamUzVFJfUHFwcjlvYW1ZSnBhTDNncVc0Ung4TnlEeDItdDV4dTV6V0Q3Mg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rockwell Automation (NYSE:ROK) Surprises With Q1 Sales, Stock Soars - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVl0eEdQWmZfWkZTd3Z0TkZHd0FxcGpqZVhnMWdKVkI0S1dHWjBVY2J0Vjg4S01rdXJSdkxmM3VWQ3hMNWl3WmdtS252MjQxaGVuZjZnOWpGbFFUcktvM25rdFdTQ2lSVFNuS0dwem51bHZTcFJhT2RYcVZ4c2Y1Sm5KZDBodXRKM2I5Tw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Rockwell Automation Launches PharmaSuite 12.00 to Accelerate Secure, Scalable Deployments - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0VGT3hxRFlNdkF1WktQck5rNktiUi10OUlfVVdHaWlLRXVzN29NWGlrX19EQ0FwMTlfWktJbGRySVlVa01OcTh1UERXcDltUVFkd2pzUXhYZE5RZUcwaHVkSDRhalBocXlPVjd3VWp6Vzh6NlVhMXQ5OW1KU0d2aXNkbGRfdjJENkFaa25nRl9ZU3ZOLU1FWjNwcE5XSURvR0ppYWhadkxDNkFCam5XUEpVREhKU0I0TERUeHd0VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rockwell Automation Earnings Preview: Q2 2025 Results Coming May 7 With Early Morning Call - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHNXdzRwTE5CMTV6Z3lrRlJzZVVXelFrU2dyZHY3cnZtLUgwUlliYXZBRU9URExDZXh0ZEhjeGhMdllTVWNrZHVucjNycUI4akxDSDUzRVFVcmtWTjlZaVhYZFNkRnFCcVF0NDE3VFlQTnd0UGtFejhuQmNnRmRTb09ua3NncHdIMk5JYnVxMUgya0lQZUZscE51TnFPSjBpX29QZmc4d1hqNHI1QmFZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Rockwell Automation (ROK) Is Rallying Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFNEdVBkWnEzMU8tNWIwTVNpd3N0NFpMY1Z6TWVGMkxrOTNMOU5ZWlI3b0ZzZ2FTWjZVUlFTNFEycDJzdnhiQm5zWUdhdFdyUmpzcm9sMTh3bWVIb1dCMU9zQkJDSllfeXhTclR2djJDWlVqY3ZYWm9GOEFVbWt6Z1FrVE1fMXBOYVE?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

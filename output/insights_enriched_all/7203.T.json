@@ -2,16 +2,16 @@
   "ticker": "7203.T",
   "name": "Toyota Motor",
   "sector": "Consumer Discretionary",
-  "market_cap": 34562719612928.0,
+  "market_cap": 33298547998720.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.3734255,
-    "PB": 0.9632827,
-    "EV_Revenue": 1.277,
+    "PE": 7.1068954,
+    "PB": 0.9280495,
+    "EV_Revenue": 1.25,
     "ROE": 0.13283,
     "ProfitMargin": 0.0992,
     "GrossMargin": 0.18174,
-    "DividendYield": 3.58,
+    "DividendYield": 3.63,
     "DebtEquity": 105.19,
     "CurrentRatio": 1.26,
     "QuickRatio": 1.062,
@@ -20,52 +20,32 @@
     "FCF_Margin": -0.01884944501334734,
     "ROA": 0.032560002,
     "PEG": null,
-    "EV_EBITDA": 8.715,
+    "EV_EBITDA": 8.536,
     "BuybackYield": null,
-    "PriceToFCF": -38.17122771554735
+    "PriceToFCF": -36.775070726228286
   },
   "technical_indicators": {
-    "RSI_14": 48.353463041088645,
-    "Momentum_10": 1.0863350485991996,
-    "MACD": 6.893153353528305,
-    "BB_Percent": 0.363737988601191,
+    "RSI_14": 39.974267904580174,
+    "Momentum_10": -7.728421812928856,
+    "MACD": -11.536600769950384,
+    "BB_Percent": -0.0613835673940463,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9352174333803338,
+    "ValueScore": 0.8956713884938223,
     "QualityScore": 0.4014434552818945,
-    "SignalScore": 0.5863350484188219
+    "SignalScore": 0.6740976383765304
   },
-  "volatility": 0.0240441023548631,
+  "volatility": 0.0241186232555224,
   "beta": 0.252,
-  "return_6m": 0.0269013253792365,
+  "return_6m": -0.035781988447199,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 18,
-    "target_mean_price": 3020.3972
+    "analyst_count": 19,
+    "target_mean_price": 2985.1133
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 2629.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 2645.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 2679.5
-      },
-      {
-        "date": "2024-12-11",
-        "price": 2682.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 2718.5
-      },
       {
         "date": "2024-12-13",
         "price": 2697.5
@@ -525,22 +505,42 @@
       {
         "date": "2025-06-06",
         "price": 2652.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 2640.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 2657.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 2656.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 2616.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 2555.0
       }
     ],
     "current_price_data": {
-      "price": 2652.0,
-      "change": 1.5,
-      "percent_change": 0.06
+      "price": 2555.0,
+      "change": -61.5,
+      "percent_change": -2.35
     }
   },
   "news_sentiment": {
-    "summary": "Suite à des fluctuations importantes suite à un accord de rachat de 33 milliards de dollars, Toyota Industries a connu sa plus forte chute en 10 mois. Les inquiétudes liées aux tarifs américains ont entraîné une baisse de 1,3 milliard de dollars des bénéfices du groupe en deux mois. Malgré cela, Toyota a lancé une offre de rachat de 5,16 milliards de dollars de ses propres actions, et a augmenté son dividende à 50 yens. Les performances de l'entreprise ont été contrastées, avec des résultats trimestriels battant les attentes mais des inquiétudes persistantes quant à la croissance des bénéfices.",
-    "sentiment_score": -0.25,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.35,
-    "bullet_positive_count": 0,
+    "summary": "Malgré la volatilité récente des actions de Toyota Industries suite à un accord d'achat de 33 milliards de dollars, l'entreprise japonaise cherche à soutenir son cours en lançant une offre de rachat de ses propres actions pour 5,16 milliards de dollars. Alors que les tensions géopolitiques influencent les marchés, le Nikkei a connu des fluctuations en lien avec les attaques entre Israël et l'Iran. Malgré des signaux mitigés, Toyota Motors (TSE:7203) a récemment battu les attentes pour son troisième trimestre 2025, soulignant sa capacité à surmonter les incertitudes du marché et à maintenir la confiance des investisseurs.",
+    "sentiment_score": -0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
     "headlines": [
       {
@@ -549,19 +549,9 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Investors Aren't Buying Toyota Motor Corporation's (TSE:7203) Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaDlKNm12cmZaY0o3WUNJYVBUNUVKTDlKVGx4QXBJNXRfdHQtTm9HSWdwN3NGSWZLMDBLOGlWWURuQXY4SkNyTEwtOGluQkpvbW15TE4zN01hRUJvWmNZbExGNFFZSDhUODlMRHVwX19udmNZVlRDTl82ZTVPRlpBdmNIV0JMaGd6S0V5STF5UktiLUIxLWtmQXI0SWo5M0JPWmQxV1VvRE5mb0RwdkkzV3FoaV82Zks0MlVwTldFejlEYnlxNWViQUpTMHE2V0U5YmZkc9IB2gFBVV95cUxOSDNtd2NEaVZHeGxKMk9OWDlLY0hIbkxmUUN0cl9oZE9hcVJEeXRNRDZhVzd6WmladUN5UkhvWWI0OTY1OEl5RG94R0NFQTZGRVB2WU1Vc3dyUl9jREpGaWFvaFJiSWZ3N2FrY3FsSTg4UkJPNW52YlBIM3RBT1JmOWs5UWllOVllSnRRX1VRSThlWWZua29wU2hEOVBudEh5VDVzODlwNmtSdXBtYUJtM2Z4T2lBSGszNTN5amdJdGJRZWttQ2pzS1FtYnN2cHlTUmw5QnVrOTJDQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toyota Sees $1.3 Billion Profit Hit in Two Months on Tariffs - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yT2c4N2RmMDFOVklfa0ViTm1lQkpXcDFlbWZSamZoOW4zeGdkLWMzZ1VpVjZwVTB3LXRRbVh4UlVHbDB5OG5MbExMRF9EQ3gxaWFTeHlETjA5ZkpoY3RZOTczRnloVG1uRDlQR1R6YkREV2xDeDBZYw?oc=5",
+        "title": "Japan’s Nikkei Stock Average Falls on Geopolitical Worries as Israel Attacks Iran (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBza1g4dE5kVnl2dHdlOTBTYV9XanU0RXJXYmZCSTZ3Um1tWVhSSXdkektQOHQzT0U1WXZ2SFFNakZKOVFDWDJUbXR3ZElzRWk4N1NYb0dLM1Q2VVFaNHkyOGxvTzlza0dUdzRGTlRBMTIzZw?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Toyota to launch $5.16 billion tender offer for own shares - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2UtVE5Lb05qOExheDhFWk5HYlBZMlpoM2Roek1JU293c3RzTk8tNVo4ZUwzeUkxMU9US3BRamxCVm5GaUN0T1lCMUgtVW5MTHo3ODRkemxadFJJY3pRR1Rub1hzT2YwQmtSZ1lrTkR6UTc0M0JTc25nbVVucHhQX3RhWnVXOGQzdFdxU0dreFE0MlVBbFhmejV5QmhfYkNHWExaQThndmFjcHRVNHlSMw?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "In the wake of Toyota Motor Corporation's (TSE:7203) latest JP¥3.0t market cap drop, institutional owners may be forced to take severe actions - simplywall.st",
@@ -569,13 +559,38 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Japan’s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbWV2X1pVMmtUSWRSQkFLb1F4WTBCMXJDTUs1R3dMZjJrVGtOOGdyazREblJmS3JOaHM1eXdMOGd0QkFmVDhyWERYTndzQVg4dGNGcHRRZDdEemFsYmdST0FlUVBHc0R6X3dVY2pKTWdNLW1oVXB3S2Vn?oc=5",
+        "title": "Honeywell, Joby, Fannie Mae & Freddie Mac: Trending Tickers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWlAzWXZpTHQwRkNHZ2N1VGN0QzNSbWdJVEkxZHotQnBDYmczSDBWVDhTSHIyekVSSTREaXFZaHJGaVB2aDN5cXpxcUZ5U2ltbGZnWFRiOW9jaGJ1OERnZzZJaDd2QmdQeFQ4R0RlWDNHakUzUHZlSEdPT1pDTTJLTEl2Vnhta2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota to launch $5.16 billion tender offer for own shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2UtVE5Lb05qOExheDhFWk5HYlBZMlpoM2Roek1JU293c3RzTk8tNVo4ZUwzeUkxMU9US3BRamxCVm5GaUN0T1lCMUgtVW5MTHo3ODRkemxadFJJY3pRR1Rub1hzT2YwQmtSZ1lrTkR6UTc0M0JTc25nbVVucHhQX3RhWnVXOGQzdFdxU0dreFE0MlVBbFhmejV5QmhfYkNHWExaQThndmFjcHRVNHlSMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla's market value tumbles below $1 trillion as its Europe sales slump - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN053Qy1TNDlka2pqTmxpajdYY2ZfekFTeHNmY1hEYkQ4TDlLZ3d6RmpMdTNpN3p6NjhaaHpSVURxSUVsbEVyRzFTcVFtU19ZMGcwMTg4dmZ5ajdOS1hhbmZPMC1XeUcwSE9OcG9kazZ0SnpmdkJkWExvSFhxUFpTRmE5cjB5SjJXbDBLWUFFbEhIMjBld0RZbGFUV2FYdw?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average climbs for Fourth Day on US-China Trade Truce Hopes (UPDATE 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KVWh1RGd1SjZuaTd2ZGNZWU9iWlNXWk8xUmFfeU1Xc0tiR3Q1dWQ4eDBBOUh5Mlc4UG9DR2wtY2pqd1NBYWl4NHA2aG9TVHJ5Q0g1RGdLdHdLR25VRW1SVDFDbG1iWlNpUjFjS3B6cllndzFoZzVGWEt3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Returns At Toyota Motor (TSE:7203) Aren't Growing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEdmLVVENVBnQms2THdzaWZsN25JYUZpeGh0N01USFpsU0dKMGZLNXBwZ1M5OTNaeGsyU2EwN3FOOGFxQ2oxNEJOdmZEZEFiT1lkX1c4VTg5SkdvZkZnVjJkX2lpb3ltaVRYd2t4dnpZOXZGVHoybk5nVjZfLVhRazVqQjFKaVp3NnJMYXJYMnNScHlJcjhaOEMzeXBhYWtuVFFSQlFTemo3SmNOblgxRVJ0Q0JyWnJybnJnTjViV0FIYVF1TEHSAcsBQVVfeXFMT2tNUWpoTi1POTA0c2gxM2tKX25aZm0zcHNuNW1jWlJ5dDZhLVlMcnFUYlBlOWhqT2lSNkZDTlFiUk15UDNyaDZwcFQ3UU90Tnd1RzR1V0FVMWtBWU9zc1BqTTBSb2V4QlZqWVpYakZqSzU0dU43T05jQUJucjVRNnJEX1BjbXVlUW1HUXBVanpteEF5aTlTODJzemRRZFBVTno3R01JUDUxc3BlemRiVjZBbU1MLUdKbzRLZmY2bWI0RGRlbnlUU2ZPVHM?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "US stocks rise, bonds and the dollar steady as tariff turmoil eases - KITCO",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTJUQkFmU0V6M2FRMXFLSnV5ZWpEYmpHRWRyZzJRNk5mZUt1NF9DdV96SFdrMU9VZ3dJbWlBdjBBU1ZOakRBOEp4cU8xb0NzWDhEejJmS19EUHZEZ25sSXRnYVR1ZHNfREZLZ1pMT3ZtczN6OUJiTTNnZHdVZWc1N1NfSkpXbVZtUXlRb2pCUXYzRVg1RmZtZV9ndTBfZXVqTTBmSlVzYV9XWklqTUxz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toyota launches its cheapest smart EV in China, aims to up market share - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2pPYVUzRFRPT1p2RTl0MVVqa3RUa3o2aXI0REZ1LVFJQVFPZFhOSnFqUGRfTzdMRDRsUXFmQWRNRm94azZDNFRqRXRhc3hnMWtCRlhGS0JaS1pzRUt1YUtSSEVBR0F0T2dHd1N1SVBMQzlpYjdsRDJ4ZjZwRG53azFhRllkMGt4U1V2NHJUSVlMZExzb1dENG42bWhOdGx0RGxzcXI5RTRPUTFKLVhTT0xaUmtrSU1lbWFWTWlmRXFjNUlLUGhsTXJ3?oc=5",
         "label": "POSITIVE"
       },
       {
@@ -584,9 +599,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "The Returns At Toyota Motor (TSE:7203) Aren't Growing - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEdmLVVENVBnQms2THdzaWZsN25JYUZpeGh0N01USFpsU0dKMGZLNXBwZ1M5OTNaeGsyU2EwN3FOOGFxQ2oxNEJOdmZEZEFiT1lkX1c4VTg5SkdvZkZnVjJkX2lpb3ltaVRYd2t4dnpZOXZGVHoybk5nVjZfLVhRazVqQjFKaVp3NnJMYXJYMnNScHlJcjhaOEMzeXBhYWtuVFFSQlFTemo3SmNOblgxRVJ0Q0JyWnJybnJnTjViV0FIYVF1TEHSAcsBQVVfeXFMT2tNUWpoTi1POTA0c2gxM2tKX25aZm0zcHNuNW1jWlJ5dDZhLVlMcnFUYlBlOWhqT2lSNkZDTlFiUk15UDNyaDZwcFQ3UU90Tnd1RzR1V0FVMWtBWU9zc1BqTTBSb2V4QlZqWVpYakZqSzU0dU43T05jQUJucjVRNnJEX1BjbXVlUW1HUXBVanpteEF5aTlTODJzemRRZFBVTno3R01JUDUxc3BlemRiVjZBbU1MLUdKbzRLZmY2bWI0RGRlbnlUU2ZPVHM?oc=5",
-        "label": "NEUTRAL"
+        "title": "Toyota Motor (TSE:7203) Is Increasing Its Dividend To ¥50.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE9QUW9ISXJna3JEcTlBUXlGeHVabFo1LThHSnB3c2pQY2JvNXBITUw1QWdkNTltVHdVT2M2LUJGX1dTc2piSnoxZ2Jkc3ZrOUZhcWE1dkhoOEdBZU94alpUVFEtekpleU8zbkRRM18zWExTZzN1dEIzWmpjYmlZTnVjSDhubEhfSHlGRkZVVk5fMGEtdUxLb2RwQzJzOFdPcmpVM1ZDMnZkTUdCNDIzU0hYakIzZXpRYnlSQXhTTTllZjNlU2tpbE43UTkwZ9IB0wFBVV95cUxPZmx6b1BNbC11MXJ0LVh6U01nRWdVYUZUOWFmZlFRM0d0S2R6UnJIaGZUTXRhZWpiU0JUcVgtMHFaRW04TmU1SllvUkFkZUdJWFZPNHB0YTNRQjRhZjRVWmxURTVaTFBZQlh1Tnc1dS02SDd0TmdfT293N2E2UUctbXAtbmhPRGctNHNlczhaQlZPZWxhM3J6SFlNdG5yUmZJbEdpSWp4VDZwUTNidlBhMmM1ejlBNTJ5OVAyMlJrYU1EazJnQ0VJbmZkZENjem5PQUFR?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Stocks struggle, gold at record high as trade fears weigh - KITCO",
@@ -594,34 +609,19 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "Japan’s Nikkei Plunges to 8-month Low on Trump’s Tariff Shock - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eEN4Q19yd0x2aDNsdlZHeGxPbmszd1NCdWttQzJ2WU15WE52bV90blFfQ2xlVW1zbVM2RkRIcE4xNmZ1eVE3SHM5cHVETE9ldlBwLWI1bmJzaFpvSnFFR3FmdUxPM1F0cGZJM0t0V1dadw?oc=5",
+        "title": "Toyota expands share buyback plan to reflect share drop - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjE1M2pvNGx2cVgzVGlCQV9FMndsbGVueG83am1WcVFaSjFxZy13anJjRVg1RHFGUm9TZUdFenhGenNMcmRmSVBEM3RZYlBkc0RUemVCZEZnSDRpVTlPeXgxSVhhN1FPcmVvdFhvMUdYd3BKMElQcExoOFVrZ1o1dzFSekxlckZ0a085WnVMejNoLUdPa2dTbWtzbUp1cWJDbEM3N1l6ZHFXNXlabHRIcEt3VFNmRUFpRWc?oc=5",
         "label": "NEGATIVE"
-      },
-      {
-        "title": "Toyota lost over $15 billion in market value last week after being caught falsifying tests - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWS1BbHVHVmdCZDJqSE1CSVJYSEZxUWl4X1NaR0JWMjJwSUtNNzVKTEU5SDJISzdJZ2Qwa3gzZmx6ZTU3dUdpZ2h0ZUZZamF0Q0ZRUDhMaDd3RGJEVFo3S3I5SWRYZDFORVVZa3JhSXZlVnpmZHZLbGxEbmZSaE41cFdQVkhnRWJ2N3BfelhMdUpuUmhRNDRhMTdsLVFVdEHSAaQBQVVfeXFMTmRsS21yd2FQT0trWnhmbFNpdk5NZGRBZE1HYTBsMy1jd1drLTdaZ3lXZnhrU0w0SF9xVzVoUVhjUGs4WHdQdU5fQVhPdy0xd1g5Z3RlenRzMXpsRUpmWjNaZGJrU0ZpS090cWRFRFZCczM2YWFlOTZ6WV83dDNISUFUYWdzMXdNd3JacGhEQVUxcGtIX09qQkl1OE5LaTRpN2VGTGc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Toyota Motor (TSE:7203) Is Increasing Its Dividend To ¥50.00 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE9QUW9ISXJna3JEcTlBUXlGeHVabFo1LThHSnB3c2pQY2JvNXBITUw1QWdkNTltVHdVT2M2LUJGX1dTc2piSnoxZ2Jkc3ZrOUZhcWE1dkhoOEdBZU94alpUVFEtekpleU8zbkRRM18zWExTZzN1dEIzWmpjYmlZTnVjSDhubEhfSHlGRkZVVk5fMGEtdUxLb2RwQzJzOFdPcmpVM1ZDMnZkTUdCNDIzU0hYakIzZXpRYnlSQXhTTTllZjNlU2tpbE43UTkwZ9IB0wFBVV95cUxPZmx6b1BNbC11MXJ0LVh6U01nRWdVYUZUOWFmZlFRM0d0S2R6UnJIaGZUTXRhZWpiU0JUcVgtMHFaRW04TmU1SllvUkFkZUdJWFZPNHB0YTNRQjRhZjRVWmxURTVaTFBZQlh1Tnc1dS02SDd0TmdfT293N2E2UUctbXAtbmhPRGctNHNlczhaQlZPZWxhM3J6SFlNdG5yUmZJbEdpSWp4VDZwUTNidlBhMmM1ejlBNTJ5OVAyMlJrYU1EazJnQ0VJbmZkZENjem5PQUFR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Japan banks to begin divesting their strategic Toyota shareholdings, Bloomberg reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlNTa3Y5bDlVcnNMM0xndzFlRWJyZWVjOTJicUQwdHdSaWZzamdOcmhsY1ZnMmt0RXR0X0hfSms2dWx5aTV5cVJYVVpJems3TGEyWlFVQUJmck1BQjlRVkk3SW54aXBzTXFZb0lSelN3Wk92TjItRnFMclprdklHR2E2QkVNeVRaNkZ1VmdXd014MzIwb01mM3hEZVNVUUdPaU1jUDJKRU9VdVlBck9QaFBqOHdLUGJibnM4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Toyota Motor Corp. (TM) a Good Value Investor Stock Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhaXZEd3U3T1FOZ2IxTGdtZjFHR0loQnNKZmFwN2lod1d4ei15dmtfT19XcEhvVVJDck1ENHlmbWRyVlQ3ODduaFhpU0hCMTRPZlFyNTkyTVQxcDNXUkFmYjg5S0NMMTJrNGlUNUVqdnM3eWhPdFEwWXFUaw?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "Toyota defies skeptics as stock seals best week since 2009 - CNBC",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PblZhWm9sWWllRmwyTUhMMzVJUldEclFCQnBnY1J3Z2pWNXhXM2ljT3dZaVJmQU9LbThQSUtLSjE1QjFhU2hjTTVGUDFaOGloWklKTUJxZXFOa0tZRjJZR3ZJc09yaTNnVXllcnFCb1g4THRsWHAwOVNB0gF_QVVfeXFMTVdWZ1JPa2VxX2JsdUpuNHVzQmVYQmxQUmNvN3IwNDNxWDhCRmo1M3U3UzlKaUE3YjNCdXo1ekEwOWdLakx2T1k3eng5WnNkRVlaVlQ4MXRjV25oM0RZZzZ4MkpNTDNSS01lM3AtdTJiR25lamFZbi1tZVFRRUFNZw?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbWV2X1pVMmtUSWRSQkFLb1F4WTBCMXJDTUs1R3dMZjJrVGtOOGdyazREblJmS3JOaHM1eXdMOGd0QkFmVDhyWERYTndzQVg4dGNGcHRRZDdEemFsYmdST0FlUVBHc0R6X3dVY2pKTWdNLW1oVXB3S2Vn?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "If EPS Growth Is Important To You, Toyota Motor (TSE:7203) Presents An Opportunity - simplywall.st",
@@ -634,9 +634,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "'Car Wars': Five auto insights investors should know from top BofA analyst - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fQzljWDlLbkY5MUJlZUlaR0ZlaDc0b0JCWklGeGVkbmNKVlcxY29UY0xhV21KRVM5ZkhWd3ljby1WWGxWbDlRT05BeUlFNkZGR0l3bm1XTmJ3X0NGZXpIVndncEV1V0pjaS1LN9IBckFVX3lxTE85d2V6Wlo0bUN1TnJvUlVJWUc1RGxpUzBERm55WDZMREJEUmhRR3FuMFZFbE9qeEpldmpVTnF0UWpBVHhrdVdSMkExbVp4MUpXc0lIaTNmRDZzUHhCV0FZZjVnZ3JWc1k4dE1GMElHNkM5dw?oc=5",
-        "label": "NEUTRAL"
+        "title": "Japan’s Nikkei Plunges to 8-month Low on Trump’s Tariff Shock - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eEN4Q19yd0x2aDNsdlZHeGxPbmszd1NCdWttQzJ2WU15WE52bV90blFfQ2xlVW1zbVM2RkRIcE4xNmZ1eVE3SHM5cHVETE9ldlBwLWI1bmJzaFpvSnFFR3FmdUxPM1F0cGZJM0t0V1dadw?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Toyota Motor Third Quarter 2025 Earnings: Beats Expectations - simplywall.st",
@@ -645,5 +645,5 @@
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }

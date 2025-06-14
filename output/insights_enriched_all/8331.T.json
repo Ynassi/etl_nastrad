@@ -2,16 +2,16 @@
   "ticker": "8331.T",
   "name": "Chiba Bank",
   "sector": "Financials",
-  "market_cap": 916777467904.0,
+  "market_cap": 906166599680.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.448372,
-    "PB": 0.8005456,
-    "EV_Revenue": 0.157,
+    "PE": 12.30193,
+    "PB": 0.79128,
+    "EV_Revenue": 0.118,
     "ROE": 0.063829996,
     "ProfitMargin": 0.27184,
     "GrossMargin": 0.0,
-    "DividendYield": 3.7,
+    "DividendYield": 3.74,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,47 +25,27 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 51.79634062179446,
-    "Momentum_10": -0.1925298421255294,
-    "MACD": 14.827299863637109,
-    "BB_Percent": 0.4517086640972586,
+    "RSI_14": 47.95388752192691,
+    "Momentum_10": -2.5114155251141552,
+    "MACD": 5.588291497137789,
+    "BB_Percent": 0.2356064202706749,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9346507148701312,
+    "ValueScore": 0.8982953661524102,
     "QualityScore": 0.4254921855621156,
-    "SignalScore": 0.578326138296144
+    "SignalScore": 0.6046719363507023
   },
-  "volatility": 0.0273011293425402,
+  "volatility": 0.02727495195836,
   "beta": -0.01,
-  "return_6m": 0.0217491559873888,
+  "return_6m": 0.0138504155124654,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 1549.0
+    "target_mean_price": 1544.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1287.5
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1270.0
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1262.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1280.0
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1293.0
-      },
       {
         "date": "2024-12-13",
         "price": 1263.5
@@ -525,12 +505,50 @@
       {
         "date": "2025-06-06",
         "price": 1296.0
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1310.0
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1288.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1286.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1284.0
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1281.0
       }
     ],
     "current_price_data": {
-      "price": 1296.0,
-      "change": -0.5,
-      "percent_change": -0.04
+      "price": 1281.0,
+      "change": -3.0,
+      "percent_change": -0.23
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "L'acquisition de 8 331 actions d'Exxon Mobil par la Thomasville National Bank indique un intérêt accru pour la société au sein du secteur financier. Cela pourrait suggérer une confiance dans les perspectives de croissance à long terme de la société malgré les récents défis liés à la transition énergétique. Cette transaction pourrait influencer positivement le sentiment des investisseurs vis-à-vis de la valeur de XOM sur le marché boursier.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Thomasville National Bank Acquires 8,331 Shares of Exxon Mobil Co. (NYSE:XOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlIyOXdhUWxjRXIxODUyOXpKaFdlMU1iMlBWRlE3MXZ4ejVzME5zRWRBSGhOQ0IxTm9za25sd2RubWF6eFNCUEVlOXlOd2VQSktsdjNjSU9mYTZKRGVqZElxMHlUcXNCeGJFQWVVWlBmLURubG1RQk8wY2lYWEZjWXc2cWZrRmtSX0toSkZsa3pBZklmMGV2SHptelJ3UWwtVE12SFltT2wyUmhpeUdVYnFnWmRZa0dQVzZDenZ1SG9JZmtSdF9idGo3Y3h3dw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-13"
 }

@@ -2,16 +2,16 @@
   "ticker": "2002.T",
   "name": "Nisshin Seifun Group",
   "sector": "Consumer Staples",
-  "market_cap": 497595809792.0,
+  "market_cap": 498175246336.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.636953,
-    "PB": 1.0280497,
-    "EV_Revenue": 0.593,
+    "PE": 14.646507,
+    "PB": 1.0292469,
+    "EV_Revenue": 0.596,
     "ROE": 0.07052,
     "ProfitMargin": 0.04073,
     "GrossMargin": 0.22334999,
-    "DividendYield": 3.5,
+    "DividendYield": 3.48,
     "DebtEquity": 16.82,
     "CurrentRatio": 2.299,
     "QuickRatio": 1.393,
@@ -20,25 +20,25 @@
     "FCF_Margin": 0.010354104427928262,
     "ROA": 0.03587,
     "PEG": null,
-    "EV_EBITDA": 7.073,
+    "EV_EBITDA": 7.081,
     "BuybackYield": null,
-    "PriceToFCF": 56.43995655618444
+    "PriceToFCF": 56.735818650061596
   },
   "technical_indicators": {
-    "RSI_14": 36.50139921724263,
-    "Momentum_10": -0.9515570934256056,
-    "MACD": -20.775194822546155,
-    "BB_Percent": 0.2593646449745314,
+    "RSI_14": 39.365252018593274,
+    "Momentum_10": -1.2065498419994254,
+    "MACD": -17.560445777678524,
+    "BB_Percent": 0.2550335331843384,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9341815629583712,
+    "ValueScore": 0.8964204247298659,
     "QualityScore": 0.4241720937557636,
-    "SignalScore": 0.6713461633847613
+    "SignalScore": 0.6433843491688811
   },
-  "volatility": 0.0105522007916613,
+  "volatility": 0.0103280743937371,
   "beta": -0.024,
-  "return_6m": -0.0573545554335894,
+  "return_6m": -0.0693960755421211,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 3,
@@ -46,26 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 1822.0
-      },
-      {
-        "date": "2024-12-09",
-        "price": 1835.5
-      },
-      {
-        "date": "2024-12-10",
-        "price": 1824.0
-      },
-      {
-        "date": "2024-12-11",
-        "price": 1845.5
-      },
-      {
-        "date": "2024-12-12",
-        "price": 1857.0
-      },
       {
         "date": "2024-12-13",
         "price": 1879.5
@@ -525,43 +505,48 @@
       {
         "date": "2025-06-06",
         "price": 1717.5
+      },
+      {
+        "date": "2025-06-09",
+        "price": 1713.5
+      },
+      {
+        "date": "2025-06-10",
+        "price": 1718.5
+      },
+      {
+        "date": "2025-06-11",
+        "price": 1729.0
+      },
+      {
+        "date": "2025-06-12",
+        "price": 1726.5
+      },
+      {
+        "date": "2025-06-13",
+        "price": 1719.5
       }
     ],
     "current_price_data": {
-      "price": 1717.5,
-      "change": 4.5,
-      "percent_change": 0.26
+      "price": 1719.5,
+      "change": -7.0,
+      "percent_change": -0.41
     }
   },
   "news_sentiment": {
-    "summary": "Dans l'actualité récente du marché financier, on observe une forte volatilité avec des signaux contradictoires : tandis que certains titres comme AT&T et Novo Nordisk ont connu des baisses significatives, d'autres ont affiché une performance exceptionnelle sur le long terme, tels que Netflix et les 10 meilleures actions des 30 dernières années. La disparition de la prime des actions par rapport aux obligations, conjuguée à des événements rappelant la bulle Internet des années 90, soulève des inquiétudes quant à une éventuelle correction du marché. Les investisseurs sont donc incités à la prudence et à la diversification de leurs portefeuilles pour naviguer dans un environnement économique incertain.",
-    "sentiment_score": -0.2,
+    "summary": "Dans un contexte marqué par des titres évoquant des hausses historiques et des craintes de correction, l'actualité récente met en lumière une volatilité persistante sur les marchés boursiers, avec des indices comme le S&P 500 et le Nasdaq enregistrant des mouvements inhabituels. Les performances exceptionnelles de certains géants technologiques comme Amazon, Netflix et AT&T sur le long terme soulignent la pertinence de l'investissement à long terme, malgré les récentes secousses. Les spéculations autour de possibles scénarios de scission d'actions chez AT&T ajoutent une touche d'incertitude, tandis que des signaux contradictoires laissent entrevoir des perspectives contrastées pour 2025, incitant les investisseurs à la prudence et à la vigilance.",
+    "sentiment_score": -0.1,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
       {
-        "title": "Stock-Split Watch: Is AT&T Next? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QdGN4Z3BkalZRc0RfUjJCSDZYc2VKSUVuRlNmNTRBNTFtX0xscUQyRmZVQU5hUnprMjJnTE1qSVlScktwNUVUemhlcVBNVzk0MHVQT3B2OElGRVJVZWRjTVREVHJMeXRVX2oyUERwS0dTNm9BOVI2WXhpOXk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Stock Market Just Did Something It Hasn't Done Since the Dot-Com Bubble in 1998. Here's What Could Happen in 2025. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelMxczFVRkc5d3labVNBekZqR1R1dHJuaUFuSVM2WkF0MDR4YTVOVlpIbFBBdjlGOUthbFZQNnJoTmhtOEU5eGpVUFYzSGRRNXNoRXpERUhYdE1mejE5SWE3N3VpNzIzQ2ZyaE1WenA0NGVfUEwtY3Nud2FSMXh1d0lIUXVCVE5pZlZRS3dKX3Y3eEdoX2xvYkhPMWZGaEJTQW5QMGlzMUVid3l4OWcwcUFRTHJXNGRsQVNDMkVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQam14cTB4a3NuZ3FwX1U4NjdRcE8xSVFkRUNOaFdRemI3eDIyNnhVNjdodW5FUDNsZERoTVJ5MzYyQV8zY05CRHUzaFJ5cDdqc21kU0RQbnhKYngzWG01RWlDV2FWX2Ywa19BcmZPeTVaYnhwbVQ2eXY3S1k2N0FHT09lZjZzdms5UzhhYmdOQTdIZENhU2JEdERPRGFzQ2VGUmh0dUN1bDBleGJ5a3R3eEptTVJHeEZhd1p2UzFuTWotSEJ3X1kwbEtFVGFjQ1RWd0xRcGdHRWo3dDhRYUdvWVJVSnFZWC1sdF80eVhFNnRWbUJsMVZuV2hFTVNzTzI0Zk9YOWdNUGJPWERPTWt0c1ZGbkNGcU1MbGYwV0ZvQXhXYnVsMVBCbjJKUnBkRkY5LXBSYVFFZnQ2YnRpdTZuNU5SWXhNeUNaaHB4TzNIN3RUV2xpX3hzc1hqUUlOX2xadnV6d1VUY3JuWG9NNlFISmJwUG9WVWVLS2lQUXpZSTZvX0pZVVVZNnNVRTA2NDk2aF81MUZmTl9WbWVwMVBadFk0NzFVSXcxV1Vic1RB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Biggest Stock Market Crashes In 2025: What To Know Before You Invest - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0EtVjVwREJfbkJkWDN0ZlNsanFCLXJkWGVMRjJpeFoxQUdJdlg0VXZkOUY2M29CYTZ2dWhuY3VvS2VCM1c1dm5YazM0Y2c4eFlkclcyOUdncnNoMjR2N080bG4tR21uRGlVeEMxMTlwNXVUandqU3NQVUFDMndVRFh6elVseGpYWTlMamhaQ3E2eVdOSmhKWWV0Yks2Y2s?oc=5",
-        "label": "NEUTRAL"
+        "title": "Nasdaq Correction: You Won't Believe What Stock Is Near a 52-Week Low - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1k4WFhRTkxzVlY0Y090YzQtd2VYbk1HWUV4ZGw1TXRjRXE5T24yWUhuTTVrLTJyU1BhVXVKOUY4MnNVS1RDcWg3ZjdhNm1tdVBYMUZfcXdSXzJHVHg2cVlxRjhnaFpFaVFybEh5anh3QWE2SFE0ZzgtZ19Oc2dURFVCY3hkRHVkaVZjRGFuWlZqeUMtZlF3SHZB?oc=5",
+        "label": "NEGATIVE"
       },
       {
         "title": "Biggest Stock Market Crashes In US History - Bankrate",
@@ -569,8 +554,23 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "10 Best-Performing Stocks of the Past 30 Years - Money/ US News",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZ2bDFEdkdXbFNGd050OHFUMktxVU5wYzVBN0ZUZkpSQ0dwaG9pdGt5bVozWTQ1bHoxSGRXdGFnOFF4ZnlSVXhtWFdFRzFUU3M3Qk5VMG1idlJoZWJSR2h3d0NreUprNDRGQ0pTdzhhWk9OSnF3ZGhVYmI5clVTOV9ucUJRU1E?oc=5",
+        "title": "Biggest Stock Market Crashes In 2025: What To Know Before You Invest - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0EtVjVwREJfbkJkWDN0ZlNsanFCLXJkWGVMRjJpeFoxQUdJdlg0VXZkOUY2M29CYTZ2dWhuY3VvS2VCM1c1dm5YazM0Y2c4eFlkclcyOUdncnNoMjR2N080bG4tR21uRGlVeEMxMTlwNXVUandqU3NQVUFDMndVRFh6elVseGpYWTlMamhaQ3E2eVdOSmhKWWV0Yks2Y2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investing $10,000 in Amazon in 2004 - US News Money",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREpiTlMyaGpIdHMwSTVXQl9rSWFZZjJZVlZJUFI4MmxmUnZBV1NmZGNyb0lRWndPQi1NTHROaW5BaTlQbzYwRUU3cElvN0JHQmhldXVjbVpnX2Ffb1dTUDZmZm1HZWY3ZXBPOHhPVFV1b1NJRkdTNlJOaDM1MFh4N2pmTmZTVTdQNkU4VkNSbXpTVkN5SUNFUWtlUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don’t let the stock market’s best week of 2024 fool you — there’s a new game in town - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYU5vY2w1elROS3VnWWVfU1k5eDhqWTdRSFdxSnNteHpYTVFzYVpVU1NEVXdmVmJnNHBKY2IzMW93eFltTFB6MHMwVTJrelFRQUtleEt6ck1TY1JJckk2bW5yelZtQzdkd0xQODBIdF9RNVU0QW56WndoUmMyRnZlaWk2X01yVEpLUU81QnlxVkNRaEtPQ1psMlNqTzVpM21UNmVvd01xYTlvNFcweGF0cWRVOUltUHo0dXhzdjlvMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The S&P 500 Is on Track to Do Something It Hasn't Done Since 1999, and Here's What It Could Mean for 2025 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHlCNVN4QkdOODhFZlgxR1JKVmk1c0htVVU4QnpTSWpTdG9Dc3kzNzhpQUVYeFZrVWdFLWhpNTRkd0htaXAxOVN1YXBqSGdrVHFZVTBaTjhqR0kxb041THZmdEM0bU1MdGtQM2dlTktqX3Nwd2ExZHZOMGF5ZjJSaFhvNm0zSng2X3o3a1RsX0J4eU4w?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -579,8 +579,8 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "(PDF) The Impact of Stock Market Manipulation on Nigeria's Economic Performance - researchgate.net",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUR1eFZua3FrVnIxdkxnU1BsODN2Sl9hRmpsQ3BFRFAxMnY1T1E0WkYzUkotd01pLUNnUlNXZmF4LUJkR3hPMTdRSHg1ZFJEeDQxZk43VnFXQU9OdFN2eWh5SzNTSFZkX2E2QTFfbUIzS2Q4U3BWRENVT1k5NTVJY01lbkNMT0xOcG1Jb3ByN0E4R0E1OGdjRkpsUTdrZ3E3SWdYemlFWDZFTk55eTd2ZHQwaGdlTW1zQUN6aEd2RjNFUQ?oc=5",
+        "title": "A Brief History of U.S. Bear Markets - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12dmJENmlveWF6U0dFNjE3SEJYMlNTRGV5UnpabTNzaWYyWkd0eGFYRDV6TTBabEZCNHd4eThnQU9Bb1V0clIwVm85Zk03NS1rUEpwRm5hTkVZdVc3T3Zvd205ck5nNXlTUks3YUhXaw?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -594,9 +594,19 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Novo Nordisk shares post the biggest monthly decline since 2002 - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE9zcURjWE4xOVdIWldqNF9zTlB6MmVFMUJfX0lWZWNxaEN0dEZEYzhtREVraU5vSk5RSGVQR2h4eDFNQlo2TnJJRnBpdVo2QVA3b2V4c1I1RldURWV1c2NvWi05Z21JQ3lOZ2s4aEFUS1pYZVJBaUFXU2FNMmJ2MGlWX1d2Rjg1ZjZRSWg5UUQ4WWl4bkJnNVA0WGZnc2JKWnpVSnRzT3BMUTNv?oc=5",
-        "label": "NEGATIVE"
+        "title": "10 Best-Performing Stocks of the Past 30 Years - US News Money",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZ2bDFEdkdXbFNGd050OHFUMktxVU5wYzVBN0ZUZkpSQ0dwaG9pdGt5bVozWTQ1bHoxSGRXdGFnOFF4ZnlSVXhtWFdFRzFUU3M3Qk5VMG1idlJoZWJSR2h3d0NreUprNDRGQ0pTdzhhWk9OSnF3ZGhVYmI5clVTOV9ucUJRU1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock-Split Watch: Is AT&T Next? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR281QXRLeE1vNUlSbjZPTTVENzJTVjhhVGVWUmdlYWR3UktFSGJsZlBzaGd1M0ZFWmVUeTlOUnAyODZMcHdjZVNEdHJKa1o0UXFVX0Y3aFZRZGo4aVFIVlFJdi1sVVFIbFhScUxTTTQtcVNhRFl6YjR0TmRLUFRQR2xUVm11VllQVGxMTkZaU1d0RV9HTDRCOHZfVXFVRlNFWnlUZEo5eGFxUXQyN0hn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock-Split Watch: Is AT&T Next? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QdGN4Z3BkalZRc0RfUjJCSDZYc2VKSUVuRlNmNTRBNTFtX0xscUQyRmZVQU5hUnprMjJnTE1qSVlScktwNUVUemhlcVBNVzk0MHVQT3B2OElGRVJVZWRjTVREVHJMeXRVX2oyUERwS0dTNm9BOVI2WXhpOXk?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "The Stock Market Isn’t Done Falling. This Key S&P 500 Level Is a Buy Signal. - Barron's",
@@ -604,13 +614,13 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "A Brief History of Bear Markets - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12dmJENmlveWF6U0dFNjE3SEJYMlNTRGV5UnpabTNzaWYyWkd0eGFYRDV6TTBabEZCNHd4eThnQU9Bb1V0clIwVm85Zk03NS1rUEpwRm5hTkVZdVc3T3Zvd205ck5nNXlTUks3YUhXaw?oc=5",
+        "title": "The AI craze is no dot-com bubble. Here’s why - Quartz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVFidXJ4ckd4a25uNW13c2hmZGZDbWJjR083UmNkRDNDdjNGNTFVNC1OdmZpazFVd01aaWpsVkZfWG9XUkIxZmpPaS1VLWNGZlViU1FMbndwc2RTaWo2cnFvcXJzQTc5T2dVUzdpNDJwUHU0YzBqc01qaktqRUQ4VGZRTWt2MVhQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "3 Reasons International Investing Hasn’t Paid Off - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdURuMnVLcEQzN3JzVUticG1Xakd3a2UtWGV6ZDJhU1FQMTEzcnpRQ084RjJZN181R0tvakV1SHlsSmxmdU5GTWczenVZUi04UGdpRGdkR09zT3FlQXhhUmVzQ1BsT2xlMmdvSUJVWU0wMXNvaDlLTWR4ODdwTDZleWJfSVdyWGxsRVhfVW9TLTQ?oc=5",
+        "title": "How much money you'd have now if you invested $1,000 in Netflix 10 years ago - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PbHJiNm1Dd2ROck9LSGxncG10UTVIRFlMd1Z3RUNFc0V5cmQtRnYyNkRucG5scTZYTW1oVXZmQ3F6OVQ3QkVXV2ZBSzFBWVJtTUZ6bjVWdUJlYXVvODVfaXphRVIxQjQtVExja1QtbmdQRzNuQjU40gF8QVVfeXFMT3ZTX3BlTUlCRk9idllmaFJZZTk0blJLbG95cXJ5YjBpdlZjaHV3cHc3NWFzaTVFd2h0dzZxOXpuZFdYcXZDaXJTTXg4UGpWWDIzQUFDbDN1VWxIUlkyVWhTM3RkWFoycEVlOVo1UVpBa1FhVG9lNXpCNFV0WA?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -619,9 +629,9 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Nasdaq Sell-Off: You Won't Believe What Stock Is Near a 52-Week Low - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXFXWjRZbmgxS283aFNLMC02dndPbWlURUc2N0daYjlHYS1KRnBqVm93TFJKUmgxcGJJeFBIdlIxM2JPRVJNeE1LZGNteEVGT01IQW8zb1djOHJxNXVRRUlISVduTF9kdUJKaGNoc2VyeUtXZE0yNHlWcDVBb1A5bS03ZmVUY0w1U3lHLUhkamNIdw?oc=5",
-        "label": "NEGATIVE"
+        "title": "Don't Worry About Novo Nordisk's Premium Stock Price. It's Still a Buy. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzFVTEJIaHZSWUh0aGVtemlRMnMxdlRqbEJEOEZmSXJ5TjJRdHVLNGhPUW1wbE9lQUNSRUc0YUswNExtcngyLUE1VTZlZ0dSRVYxYldKaEF5UW9mMUxVanByZzlUc21STGYwTU9MQjFpYmxTYU1kc21faEhPNUlRZWRSMTVZSFU5TnBwWlF3UTFrTVZ5U2FneHR0RlhzZF8yZ3c?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "AT&T Stock Price | T Stock Quote, News, and History - markets.businessinsider.com",
@@ -629,21 +639,11 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Nasdaq Correction: You Won't Believe What Stock Is Near a 52-Week Low - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1k4WFhRTkxzVlY0Y090YzQtd2VYbk1HWUV4ZGw1TXRjRXE5T24yWUhuTTVrLTJyU1BhVXVKOUY4MnNVS1RDcWg3ZjdhNm1tdVBYMUZfcXdSXzJHVHg2cVlxRjhnaFpFaVFybEh5anh3QWE2SFE0ZzgtZ19Oc2dURFVCY3hkRHVkaVZjRGFuWlZqeUMtZlF3SHZB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Don't Worry About Novo Nordisk's Premium Stock Price. It's Still a Buy. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzFVTEJIaHZSWUh0aGVtemlRMnMxdlRqbEJEOEZmSXJ5TjJRdHVLNGhPUW1wbE9lQUNSRUc0YUswNExtcngyLUE1VTZlZ0dSRVYxYldKaEF5UW9mMUxVanByZzlUc21STGYwTU9MQjFpYmxTYU1kc21faEhPNUlRZWRSMTVZSFU5TnBwWlF3UTFrTVZ5U2FneHR0RlhzZF8yZ3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Restomodded 1974 BMW 2002tii Is Today's Bring a Trailer PIck - Car and Driver",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hiSGpMUzFFYjIxTkNNZVQ2VDlYdk10TW0wLXk1MkU1Z0VwbVk2ZFJkTEdMZ01FekdJS1dtUnVySHVCeE1DQUYzRjR1SXEydERHQ0xRamliZjVVOHNfUUtvZzR4VzhRUHVHZlBwWUZ1SDctaUtDbTJ6ejRXOGF2b1FOWWVzUm04TXNWMkZn?oc=5",
+        "title": "The 30 Best Stocks of the Past 30 Years - Kiplinger",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHhSSFBKZVpwNEl1VDI1S05qanI1aDd6cU4wWXk2ME0tcHhHdnJYN3VjbV9sZ1ZWSGpxclRybUVlVUpRX1NNeEhOVTdMN0hCVk9tS25HdFJkUnhxMjkxM3FsbG1jZjQzcWk1clIyWURPcHNiUy0yaGkxT0t6YVFaVDZ3SDZ5TTdmejloYlFB?oc=5",
         "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-06"
+  "extraction_date": "2025-06-13"
 }
